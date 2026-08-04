@@ -308,24 +308,27 @@ jobs:
           process_folder "patches-v2" "changelog-game.txt"
           process_folder "patches-v3" "changelog-game.txt"
 
-      # ===== 8. BUILD patches.zip (maximum compression) =====
-      - name: Build patches.zip
+      # ===== 8. BUILD patches.zip (cheat/patch folders only, excluding Retro-Database) =====
+      - name: Build patches.zip (cheats/patches only)
         run: |
           if [ -f "apk_info.txt" ]; then
             7z a -tzip -mx=9 -mm=Deflate patches.zip \
               "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" \
               "patches-v1" "patches-v2" "patches-v3" \
-              "Retro-Database" \
               changelog.txt changelog-game.txt apk_info.txt
           else
             7z a -tzip -mx=9 -mm=Deflate patches.zip \
               "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" \
               "patches-v1" "patches-v2" "patches-v3" \
-              "Retro-Database" \
               changelog.txt changelog-game.txt
           fi
 
-      # ===== 9. CREATE RELEASE AND UPLOAD ASSETS =====
+      # ===== 9. BUILD bios-collection.zip (include Bios PS1 & PS2) =====
+      - name: Build bios-collection.zip
+        run: |
+          7z a -tzip -mx=9 -mm=Deflate bios-collection.zip "Retro-Database"
+
+      # ===== 10. CREATE RELEASE AND UPLOAD ASSETS =====
       - name: Create GitHub release
         id: create_release
         uses: actions/create-release@v1
@@ -347,7 +350,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ===== 10. UPLOAD COMPRESSED APK (if available) =====
+      - name: Upload bios-collection.zip
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: bios-collection.zip
+          asset_name: bios-collection.zip
+          asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ===== 11. UPLOAD COMPRESSED APK (if available) =====
       - name: Upload compressed APK (if available)
         if: env.APK_AVAILABLE == 'true'
         uses: actions/upload-release-asset@v1
