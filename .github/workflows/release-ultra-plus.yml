@@ -330,7 +330,7 @@ jobs:
         id: create_release
         uses: actions/create-release@v1
         with:
-          tag_name: Ultra Plus
+          tag_name: Ultra-Plus
           release_name: "Ultra Plus Build (Cheats + APK Info)"
           draft: false
           prerelease: false
