@@ -29,7 +29,7 @@ jobs:
         run: |
           echo "📦 Extracting only .pnach files from ZIP..."
           mkdir -p cheats-v1
-          unzip -q -o patches.zip "*.pnach" -d cheats-v4
+          unzip -q -o patches.zip "*.pnach" -d cheats-v1
           rm patches.zip
 
       # ---------- Download and extract the second 7z file ----------
