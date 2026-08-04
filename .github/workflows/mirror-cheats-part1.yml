@@ -26,17 +26,25 @@ jobs:
           path: target_repo
           fetch-depth: 1
 
-      - name: Sync patches into cheats-v3 folder
+      - name: Sync only .pnach files into cheats-v3 folder
         run: |
-          # Remove old cheats-v3 folder (but keep the .git directory of the target repo)
-          rm -rf target_repo/cheats-v3
+          # Ensure the destination directory exists
           mkdir -p target_repo/cheats-v3
 
-          # Copy all contents (except .git) from source to cheats-v3
-          # rsync -a: archive mode, -v: verbose, --delete: remove files in dest that are not in source
-          rsync -av --delete --exclude='.git' source_repo/ target_repo/cheats-v3/
+          # Sync only .pnach files, preserving directory structure
+          # --delete removes files in dest that are not .pnach (keeps it clean)
+          # --include='*/' includes all directories (so structure is preserved)
+          # --include='*.pnach' includes all .pnach files
+          # --exclude='*' excludes everything else (files)
+          # --exclude='.git' skips any .git folder that might be copied
+          rsync -av --delete \
+            --exclude='.git' \
+            --include='*/' \
+            --include='*.pnach' \
+            --exclude='*' \
+            source_repo/ target_repo/cheats-v3/
 
-          # Remove any stray .git folder that might have been copied
+          # Remove any stray .git folder just in case
           rm -rf target_repo/cheats-v3/.git
 
       - name: Commit and push if changes exist
@@ -49,8 +57,8 @@ jobs:
 
           # Check if there are any changes staged for commit
           if git diff --cached --quiet; then
-            echo "No changes detected in patches. Skipping commit."
+            echo "No changes detected in .pnach files. Skipping commit."
           else
-            git commit -m "Sync patches from Misc-PCSX2-Cheats (commit ${{ github.sha }})"
+            git commit -m "Sync .pnach files from Misc-PCSX2-Cheats (commit ${{ github.sha }})"
             git push origin main
           fi
