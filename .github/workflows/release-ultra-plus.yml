@@ -1,0 +1,369 @@
+name: Build Cheat / Patch (Ultra Plus)
+
+on:
+  workflow_dispatch:   # manual trigger only
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # required to create releases and upload assets
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # ===== 1. INSTALL TOOLS =====
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y p7zip-full jq wget gh
+
+      # ===== 2. CLONE ARMSX2 (for CRC database) =====
+      - name: Clone ARMSX2 repo for CRC database
+        run: |
+          git clone --depth 1 https://github.com/ARMSX2/ARMSX2.git /tmp/ARMSX2
+
+      # ===== 3. AUTO-DETECT & FILL MISSING CRC IN ALL PATCH FOLDERS =====
+      - name: Auto-detect and fill missing CRC in .pnach files
+        run: |
+          set -e
+          normalize_title() {
+            echo "$1" | tr '[:upper:]' '[:lower:]' \
+              | sed -e 's/\[.*\]//g' -e 's/(.*)//g' \
+              | sed -e 's/  */ /g' -e 's/^ //' -e 's/ $//'
+          }
+          get_gametitle() {
+            grep -m 1 -i "^gametitle=" "$1" | sed -e 's/^gametitle=//i' -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'
+          }
+          is_crc() {
+            [[ "$1" =~ ^[0-9A-Fa-f]{8}$ ]]
+          }
+          echo "Building CRC index from ARMSX2..."
+          declare -A crc_index
+          while IFS= read -r -d '' file; do
+            gtitle=$(get_gametitle "$file")
+            if [ -n "$gtitle" ]; then
+              norm_title=$(normalize_title "$gtitle")
+              base=$(basename "$file" .pnach)
+              crc=""
+              if is_crc "$base"; then
+                crc=$(echo "$base" | tr '[:lower:]' '[:upper:]')
+              else
+                crc_line=$(grep -m 1 -i "^crc=" "$file" | sed -e 's/^crc=//i' -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+                if [ -n "$crc_line" ]; then
+                  crc=$(echo "$crc_line" | sed 's/0x//i' | tr '[:lower:]' '[:upper:]')
+                  if ! is_crc "$crc"; then
+                    crc=""
+                  fi
+                fi
+              fi
+              if [ -n "$crc" ]; then
+                crc_index["$norm_title"]="$crc"
+              fi
+            fi
+          done < <(find /tmp/ARMSX2 -type f -name "*.pnach" -print0 2>/dev/null)
+          echo "CRC index built with ${#crc_index[@]} entries."
+
+          # Process folders in the desired order (includes cheats-v5 and patches-v3)
+          for folder in "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" "patches-v1" "patches-v2" "patches-v3"; do
+            echo "Processing folder: $folder"
+            find "$folder" -type f -name "*.pnach" -print0 | while IFS= read -r -d '' file; do
+              if grep -q -i "^crc=" "$file"; then
+                existing_crc=$(grep -m 1 -i "^crc=" "$file" | sed -e 's/^crc=//i' -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' | sed 's/0x//i')
+                if is_crc "$existing_crc"; then
+                  echo "  $file already has a valid CRC, skipping."
+                  continue
+                else
+                  echo "  $file has an invalid CRC, will attempt to fix."
+                fi
+              fi
+              gametitle=$(get_gametitle "$file")
+              if [ -z "$gametitle" ]; then
+                echo "  $file: no gametitle found, skipping."
+                continue
+              fi
+              base=$(basename "$file" .pnach)
+              crc=""
+              if is_crc "$base"; then
+                crc=$(echo "$base" | tr '[:lower:]' '[:upper:]')
+                echo "  $file: using CRC from filename = $crc"
+              else
+                norm_target=$(normalize_title "$gametitle")
+                found_crc="${crc_index[$norm_target]}"
+                if [ -n "$found_crc" ]; then
+                  crc="$found_crc"
+                  echo "  $file: using CRC from ARMSX2 index = $crc"
+                fi
+              fi
+              if [ -n "$crc" ]; then
+                sed -i "/^crc=/d" "$file"
+                sed -i "/^gametitle=/a crc = 0x$crc" "$file"
+                echo "  $file: added/updated crc = 0x$crc"
+              else
+                echo "  $file: CRC not found, leaving unchanged."
+              fi
+            done
+          done
+
+      # ===== 4. DOWNLOAD LATEST APK (STABLE PREFERRED, FALLBACK TO PRERELEASE) & COMPRESS =====
+      - name: Download latest APK, compress it, and extract metadata (skip if none)
+        id: download_apk
+        run: |
+          RELEASES_JSON=$(curl -s https://api.github.com/repos/ARMSX2/ARMSX2/releases)
+          STABLE_JSON=$(echo "$RELEASES_JSON" | jq '[.[] | select(.prerelease == false and any(.assets[]; .name | endswith(".apk")))] | sort_by(.published_at) | reverse | .[0]')
+          if [ "$STABLE_JSON" != "null" ]; then
+            echo "Found stable release with APK."
+            RELEASE_JSON="$STABLE_JSON"
+            RELEASE_TYPE="Stable"
+          else
+            PRERELEASE_JSON=$(echo "$RELEASES_JSON" | jq '[.[] | select(.prerelease == true and any(.assets[]; .name | endswith(".apk")))] | sort_by(.published_at) | reverse | .[0]')
+            if [ "$PRERELEASE_JSON" != "null" ]; then
+              echo "No stable APK found, using prerelease APK."
+              RELEASE_JSON="$PRERELEASE_JSON"
+              RELEASE_TYPE="Pre-release"
+            else
+              echo "No APK found in any release (stable or prerelease). Skipping APK download."
+              echo "APK_AVAILABLE=false" >> $GITHUB_ENV
+              exit 0
+            fi
+          fi
+
+          APK_URL=$(echo "$RELEASE_JSON" | jq -r '.assets[] | select(.name | endswith(".apk")) | .browser_download_url')
+          APK_NAME=$(echo "$RELEASE_JSON" | jq -r '.assets[] | select(.name | endswith(".apk")) | .name')
+          APK_VERSION=$(echo "$RELEASE_JSON" | jq -r '.tag_name')
+          APK_DATE=$(echo "$RELEASE_JSON" | jq -r '.published_at')
+          if [ -z "$APK_URL" ] || [ "$APK_URL" = "null" ]; then
+            echo "APK URL is null, skipping."
+            echo "APK_AVAILABLE=false" >> $GITHUB_ENV
+            exit 0
+          fi
+
+          wget -q --show-progress "$APK_URL" -O app.apk
+          if [ $? -ne 0 ]; then
+            echo "Failed to download APK, skipping."
+            echo "APK_AVAILABLE=false" >> $GITHUB_ENV
+            exit 0
+          fi
+
+          # ---- COMPRESS APK WITH ULTRA (7zip -mx=9) ----
+          echo "Compressing APK with 7zip ultra compression..."
+          7z a -t7z -mx=9 app.apk.7z app.apk
+          if [ $? -ne 0 ]; then
+            echo "Compression failed, skipping APK."
+            echo "APK_AVAILABLE=false" >> $GITHUB_ENV
+            exit 0
+          fi
+          rm app.apk   # remove original to save space
+
+          # Save metadata
+          echo "APK Name: $APK_NAME" > apk_info.txt
+          echo "APK Version: $APK_VERSION" >> apk_info.txt
+          echo "APK Release Type: $RELEASE_TYPE" >> apk_info.txt
+          echo "APK Release Date: $APK_DATE" >> apk_info.txt
+          echo "APK compressed with 7zip (ultra compression, .7z)" >> apk_info.txt
+
+          echo "APK_AVAILABLE=true" >> $GITHUB_ENV
+          echo "APK_NAME=$APK_NAME" >> $GITHUB_ENV
+          echo "APK_VERSION=$APK_VERSION" >> $GITHUB_ENV
+          echo "APK_RELEASE_TYPE=$RELEASE_TYPE" >> $GITHUB_ENV
+          echo "APK_DATE=$APK_DATE" >> $GITHUB_ENV
+          echo "COMPRESSED_APK_NAME=$APK_NAME.7z" >> $GITHUB_ENV
+
+      # ===== 5. SETUP GITHUB CLI & DELETE OLD RELEASE/TAG (Ultra) =====
+      - name: Authenticate GitHub CLI
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+
+      - name: Delete previous release and tag (Ultra)
+        run: |
+          TAG="Ultra"
+          if gh release view "$TAG" &>/dev/null; then
+            gh release delete "$TAG" --yes
+          fi
+          if git rev-parse "$TAG" &>/dev/null; then
+            git tag -d "$TAG"
+            git push --delete origin "$TAG" || true
+          fi
+
+      # ===== 6. GET SHORT SHA =====
+      - name: Get short SHA
+        id: vars
+        run: echo "short_sha=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
+
+      # ===== 7. GENERATE CHANGELOG AND GAME LIST =====
+      - name: Create changelog.txt and changelog-game.txt
+        run: |
+          # ----- Main changelog (without game list) -----
+          echo "PCSX2 CheatsDB - Ultra Plus Build" > changelog.txt
+          echo "========================================" >> changelog.txt
+          echo "Date       : $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> changelog.txt
+          echo "Commit     : ${{ env.short_sha }}" >> changelog.txt
+          echo "Build by   : ${{ github.actor }}" >> changelog.txt
+
+          if [ -f "notes.txt" ]; then
+            echo "" >> changelog.txt
+            echo "========================================" >> changelog.txt
+            echo " • Changelog of Cheats / Patches • " >> changelog.txt
+            echo "========================================" >> changelog.txt
+            cat notes.txt >> changelog.txt
+          fi
+
+          echo "" >> changelog.txt
+          echo "========================================" >> changelog.txt
+          echo "File Statistics:" >> changelog.txt
+          echo "========================================" >> changelog.txt
+          count_pcsx2=$(find "PCSX2 Patches" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_cheatsv1=$(find "cheats-v1" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_cheatsv2=$(find "cheats-v2" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_cheatsv3=$(find "cheats-v3" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_cheatsv4=$(find "cheats-v4" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_cheatsv5=$(find "cheats-v5" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_patchesv1=$(find "patches-v1" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_patchesv2=$(find "patches-v2" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_patchesv3=$(find "patches-v3" -type f -name "*.pnach" 2>/dev/null | wc -l)
+
+          # ---- Count BIOS files (excluding specified extensions) ----
+          count_bios_ps1=$(find "Retro-Database/bios/PS1" -type f ! -iname "*.bin" ! -iname "*.rom" ! -iname "*.rom0" ! -iname "*.rom1" ! -iname "*.erom" ! -iname "*.mec" 2>/dev/null | wc -l)
+          count_bios_ps2=$(find "Retro-Database/bios/PS2" -type f ! -iname "*.bin" ! -iname "*.rom" ! -iname "*.rom0" ! -iname "*.rom1" ! -iname "*.erom" ! -iname "*.mec" 2>/dev/null | wc -l)
+
+          total=$((count_pcsx2 + count_cheatsv1 + count_cheatsv2 + count_cheatsv3 + count_cheatsv4 + count_cheatsv5 + count_patchesv1 + count_patchesv2 + count_patchesv3 + count_bios_ps1 + count_bios_ps2))
+
+          echo "PCSX2 Patches : $count_pcsx2 .pnach files" >> changelog.txt
+          echo "cheats-v1     : $count_cheatsv1 .pnach files" >> changelog.txt
+          echo "cheats-v2     : $count_cheatsv2 .pnach files" >> changelog.txt
+          echo "cheats-v3     : $count_cheatsv3 .pnach files" >> changelog.txt
+          echo "cheats-v4     : $count_cheatsv4 .pnach files" >> changelog.txt
+          echo "cheats-v5     : $count_cheatsv5 .pnach files" >> changelog.txt
+          echo "patches-v1    : $count_patchesv1 .pnach files" >> changelog.txt
+          echo "patches-v2    : $count_patchesv2 .pnach files" >> changelog.txt
+          echo "patches-v3    : $count_patchesv3 .pnach files" >> changelog.txt
+          echo "BIOS PS1      : $count_bios_ps1 files (excluding .bin/.rom/.rom0/.rom1/.erom/.mec)" >> changelog.txt
+          echo "BIOS PS2      : $count_bios_ps2 files (excluding .bin/.rom/.rom0/.rom1/.erom/.mec)" >> changelog.txt
+          echo "----------------------------------------" >> changelog.txt
+          echo "Total         : $total files" >> changelog.txt
+
+          # APK Information (only if available)
+          if [ "${{ env.APK_AVAILABLE }}" = "true" ]; then
+            echo "" >> changelog.txt
+            echo "========================================" >> changelog.txt
+            echo "APK Information:" >> changelog.txt
+            echo "========================================" >> changelog.txt
+            echo "Name        : ${{ env.APK_NAME }}" >> changelog.txt
+            echo "Version     : ${{ env.APK_VERSION }}" >> changelog.txt
+            echo "Type        : ${{ env.APK_RELEASE_TYPE }}" >> changelog.txt
+            echo "Release Date: ${{ env.APK_DATE }}" >> changelog.txt
+            echo "Compressed  : Yes (7zip Ultra, .7z)" >> changelog.txt
+          else
+            echo "" >> changelog.txt
+            echo "========================================" >> changelog.txt
+            echo "APK Information: Not available (no APK found)" >> changelog.txt
+          fi
+
+          # Add a note about the separate game list file
+          echo "" >> changelog.txt
+          echo "========================================" >> changelog.txt
+          echo "For a detailed list of game titles and regions per folder, see changelog-game.txt" >> changelog.txt
+
+          # ----- Create changelog-game.txt with the full game list -----
+          echo "PCSX2 CheatsDB - Game List (Titles and Regions)" > changelog-game.txt
+          echo "========================================================" >> changelog-game.txt
+
+          # Function to append game list to a given file
+          process_folder() {
+            local folder="$1"
+            local outfile="$2"
+            echo "" >> "$outfile"
+            echo "========================================" >> "$outfile"
+            echo "Folder: $folder (Game Title & Region):" >> "$outfile"
+            echo "========================================" >> "$outfile"
+            found=0
+            while IFS= read -r -d '' file; do
+              found=1
+              filename=$(basename "$file" .pnach)
+              gametitle=$(grep -m 1 -i "^gametitle=" "$file" | sed -e 's/^gametitle=//i' -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+              if [ -n "$gametitle" ]; then
+                region=$(echo "$gametitle" | grep -o '([[:alpha:]]\+)' | head -1 | tr -d '()')
+                if [ -n "$region" ]; then
+                  echo "$filename : $gametitle (Region: $region)" >> "$outfile"
+                else
+                  echo "$filename : $gametitle (Region: not found)" >> "$outfile"
+                fi
+              else
+                echo "$filename : (no gametitle found)" >> "$outfile"
+              fi
+            done < <(find "$folder" -type f -name "*.pnach" -print0 2>/dev/null | sort -z)
+            if [ $found -eq 0 ]; then
+              echo "(no .pnach files in $folder)" >> "$outfile"
+            fi
+          }
+
+          # Process folders in the desired order (includes cheats-v5 and patches-v3)
+          process_folder "PCSX2 Patches" "changelog-game.txt"
+          process_folder "cheats-v1" "changelog-game.txt"
+          process_folder "cheats-v2" "changelog-game.txt"
+          process_folder "cheats-v3" "changelog-game.txt"
+          process_folder "cheats-v4" "changelog-game.txt"
+          process_folder "cheats-v5" "changelog-game.txt"
+          process_folder "patches-v1" "changelog-game.txt"
+          process_folder "patches-v2" "changelog-game.txt"
+          process_folder "patches-v3" "changelog-game.txt"
+
+      # ===== 8. BUILD patches.zip (maximum compression) with new BIOS folders and exclusions =====
+      - name: Build patches.zip
+        run: |
+          # Build list of folders to include (only if they exist)
+          FOLDERS=""
+          for dir in "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" \
+                     "patches-v1" "patches-v2" "patches-v3" \
+                     "Retro-Database/bios/PS1" "Retro-Database/bios/PS2"; do
+            if [ -d "$dir" ]; then
+              FOLDERS="$FOLDERS \"$dir\""
+            fi
+          done
+
+          # Include changelog files and apk_info if exists
+          EXTRA_FILES="changelog.txt changelog-game.txt"
+          if [ -f "apk_info.txt" ]; then
+            EXTRA_FILES="$EXTRA_FILES apk_info.txt"
+          fi
+
+          # Build 7z command with exclusion patterns for unwanted BIOS files
+          # Exclude: .bin, .BIN, .ROM, .ROM0, .ROM1, .EROM, .MEC (case-sensitive as specified)
+          7z a -tzip -mx=9 -mm=Deflate patches.zip \
+            $FOLDERS \
+            $EXTRA_FILES \
+            -x!*.bin -x!*.BIN -x!*.ROM -x!*.ROM0 -x!*.ROM1 -x!*.EROM -x!*.MEC
+
+      # ===== 9. CREATE RELEASE AND UPLOAD ASSETS =====
+      - name: Create GitHub release
+        id: create_release
+        uses: actions/create-release@v1
+        with:
+          tag_name: Ultra Plus
+          release_name: "Ultra Plus Build (Cheats + APK Info)"
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload patches.zip
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: patches.zip
+          asset_name: patches.zip
+          asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ===== 10. UPLOAD COMPRESSED APK (if available) =====
+      - name: Upload compressed APK (if available)
+        if: env.APK_AVAILABLE == 'true'
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: app.apk.7z
+          asset_name: ${{ env.COMPRESSED_APK_NAME }}
+          asset_content_type: application/x-7z-compressed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
