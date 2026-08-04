@@ -1,0 +1,68 @@
+name: Extract Cheats from psxdacenter
+
+on:
+  workflow_dispatch:
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+
+      # ---------- Download and extract the first ZIP file ----------
+      - name: Download patches.zip from remote repository
+        run: |
+          echo "⬇️ Downloading PS2 Cheats Pack (ZIP) from psxdatacenter.com..."
+          curl -L -o patches.zip \
+            "https://psxdatacenter.com/psx2/downloads2/PS2%20Cheats%20Pack%20New%20Pnach%20Format%20v.2.0%20for%20PCSX2.zip"
+
+          if [ ! -s patches.zip ]; then
+            echo "❌ Download failed or file is empty."
+            exit 1
+          fi
+
+      - name: Extract only .pnach files from ZIP
+        run: |
+          echo "📦 Extracting only .pnach files from ZIP..."
+          mkdir -p cheats-v1
+          unzip -q -o patches.zip "*.pnach" -d cheats-v4
+          rm patches.zip
+
+      # ---------- Download and extract the second 7z file ----------
+      - name: Install p7zip for 7z extraction
+        run: sudo apt-get update && sudo apt-get install -y p7zip-full
+
+      - name: Download patches.7z from remote repository
+        run: |
+          echo "⬇️ Downloading PS2 Cheats Pack (7z) from psxdatacenter.com..."
+          curl -L -o patches.7z \
+            "https://psxdatacenter.com/psx2/downloads2/PS2%20Cheats%20pack%20(Numbers-T)%20v.5.0.7z"
+
+          if [ ! -s patches.7z ]; then
+            echo "❌ Download failed or file is empty."
+            exit 1
+          fi
+
+      - name: Extract only .pnach files from 7z
+        run: |
+          echo "📦 Extracting only .pnach files from 7z..."
+          mkdir -p cheats-v2
+          7z x patches.7z -ocheats-v2 -y -i!*.pnach
+          rm patches.7z
+
+      # ---------- Commit and push only extracted .pnach files ----------
+      - name: Commit and push extracted files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cheats-v1/ cheats-v2/
+          if git diff --staged --quiet; then
+            echo "No new changes to commit."
+          else
+            git commit -m "Extract only .pnach files from both archives into cheats-v1/ and cheats-v2/"
+            git push
+          fi
