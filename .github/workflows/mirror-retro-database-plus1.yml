@@ -1,0 +1,71 @@
+name: Mirror BIOS PS1 files from retrobios 
+
+on:
+  workflow_dispatch:          # Manual trigger only
+
+permissions:
+  contents: write             # Required to push to the destination repo
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          repository: Abdess/retrobios
+          ref: main
+          path: source_repo
+          fetch-depth: 1
+
+      - name: Checkout target repository 
+        uses: actions/checkout@v4
+        with:
+          repository: XiGuanXi/PCSX2-CheatsDB
+          ref: main
+          path: target_repo
+          fetch-depth: 1
+
+      - name: Sync only specific BIOS files into Retro-Database/bios/PS1
+        run: |
+          # Remove any existing Retro-Database/bios folder in the target
+          rm -rf target_repo/Retro-Database/bios/PS1
+          mkdir -p target_repo/Retro-Database/bios/PS1
+
+          # Check if the source has a 'bios/Sony/PlayStation' folder
+          if [ -d "source_repo/bios/Sony/PlayStation/" ]; then
+            # Use rsync with inclusion filters for the allowed extensions.
+            # The --delete flag ensures the target contains exactly these files
+            # (any extra files in target will be removed).
+            rsync -av --delete \
+              --include='*.bin'   \
+              --include='*.BIN'   \
+              --include='*.ROM'   \
+              --include='*.ROM0'  \
+              --include='*.ROM1'  \
+              --include='*.EROM'  \
+              --include='*.MEC'   \
+              --exclude='*'       \
+              source_repo/bios/Sony/PlayStation/ target_repo/Retro-Database/bios/PS1/
+          else
+            echo "Warning: 'bios/Sony/PlayStation' folder not found in source_repo. Nothing copied."
+          fi
+
+          # Safety: remove any accidental .git folder that might have been copied
+          rm -rf target_repo/Retro-Database/bios/PS1/.git
+
+      - name: Commit and push changes if any
+        run: |
+          cd target_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add Retro-Database/bios/PS1
+
+          if git diff --cached --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git commit -m "Sync specific BIOS files from retrobios (commit ${{ github.sha }})"
+            git push origin main
+          fi
