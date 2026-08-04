@@ -22,7 +22,7 @@ jobs:
       - name: Checkout target repository 
         uses: actions/checkout@v4
         with:
-          repository: XiGuanXi/PCSX2-CheatsDB
+          repository: XiGuanChi/PCSX2-CheatsDB
           ref: main
           path: target_repo
           fetch-depth: 1
