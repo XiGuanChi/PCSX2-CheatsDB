@@ -1,0 +1,15 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20130C38,extended,C6200D24
+patch=1,EE,20130C40,extended,E6200D20
+
+[Cheats/No Reload] 
+patch=1,EE,201FEF6C,extended,00000000
+
+[Cheats/Infinite Time For Electo-Hack] 
+patch=1,EE,2021E674,extended,00000000
+
+[Cheats/Have All Weapons With Max Infinite Ammo] 
+patch=1,EE,2020046C,extended,240203E7
+
+[Cheats/Debug Menu] 
+patch=1,EE,003C9EB0,extended,00000001

@@ -1,0 +1,38 @@
+[Cheats/Infinite Money] 
+patch=1,EE,206C6BA8,extended,497423F0
+
+[Cheats/Infinite HP] 
+patch=1,EE,206C6B8C,extended,43960000
+
+[Cheats/Infinite MP] 
+patch=1,EE,206C6B94,extended,43960000
+
+[Cheats/Max All Stats] 
+patch=1,EE,406C6B98,extended,00040001
+patch=1,EE,43480000,extended,00000000
+
+[Cheats/Level 99] 
+patch=1,EE,206C6BAC,extended,42C40000
+
+[Cheats/Max Parts Iron Parts] 
+patch=1,EE,006C74EB,extended,000000E3
+
+[Cheats/Max Parts Steel Parts] 
+patch=1,EE,006C74EC,extended,000000E3
+
+[Cheats/Max Parts Mithril Parts] 
+patch=1,EE,006C74ED,extended,000000E3
+
+[Cheats/Max Parts Magic Alloy] 
+patch=1,EE,006C74EE,extended,000000E3
+
+[Cheats/Have All Artifacts] 
+patch=1,EE,206C76F0,extended,FFFFFFFF
+
+[Cheats/Have All Rescue List] 
+patch=1,EE,106C76E2,extended,0000FFFF
+patch=1,EE,106C76E4,extended,0000FFFF
+patch=1,EE,006C76E7,extended,000000FF
+
+[Cheats/Have All Weapons] 
+patch=1,EE,206C76EC,extended,FFFFFFFF

@@ -1,0 +1,12 @@
+[Cheats/Infinite Money] 
+patch=1,EE,201C20B8,extended,000F423F
+
+[Cheats/Enable Debug Menu R2+D-Pad Up] 
+patch=1,EE,D01F1BC2,extended,0000FDEF
+patch=1,EE,201F6834,extended,001CD2C0
+patch=1,EE,D01F1BC2,extended,0000FDBF 
+patch=1,EE,201F6834,extended,001C0460
+patch=1,EE,D01F1BC2,extended,0000FD7F
+patch=1,EE,201F6834,extended,001C05A0
+patch=1,EE,D01F1BC2,extended,0000FDDF
+patch=1,EE,201F6834,extended,001C8780

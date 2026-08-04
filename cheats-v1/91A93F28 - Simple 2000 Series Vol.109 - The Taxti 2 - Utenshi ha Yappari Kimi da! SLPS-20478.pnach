@@ -1,0 +1,42 @@
+[Cheats/Sale Amount 99999990 Yen] 
+patch=1,EE,2018BDCC,extended,05F5E0F6
+
+[Cheats/Entire Sale Amount 99999990 Yen] 
+patch=1,EE,2018BD98,extended,05F5E0F6
+
+[Cheats/Rent Running Fee 1 million yen] 
+patch=1,EE,201B1228,extended,000F4240
+
+[Cheats/Max Reputation] 
+patch=1,EE,1018BE0A,extended,0000015E
+
+[Cheats/Infinite Turbo] 
+patch=1,EE,0018BF29,extended,00000003
+
+[Cheats/Infinite Time] 
+patch=1,EE,20129F94,extended,00000000
+patch=1,EE,2012A100,extended,00000000
+
+[Cheats/Business Hour Advance Stop SELECT+up time stop SELECT+down time advance] 
+patch=1,EE,D01B199C,extended,0000FFEE
+patch=1,EE,20103F80,extended,00000000
+patch=1,EE,D01B199C,extended,0000FFBE
+patch=1,EE,20103F80,extended,25EF0001
+
+[Cheats/Ignoring sales quotas You can ignore sales quotas and proceed through the game.] 
+patch=1,EE,20104E64,extended,34040010
+patch=1,EE,20104E68,extended,A6040044
+
+[Cheats/Obtain All Items on the item equipment screen Enter the item equipment screen in the car shop.Car shops will appear after the 5th day]
+patch=1,EE,201046AC,extended,35C20001
+patch=1,EE,201046B0,extended,A1E2017C
+
+[Cheats/Unlock Business Log Book, Scenario Achievement 100%  Achievement day is all 1st days] 
+patch=1,EE,2018BF38,extended,00010001
+patch=1,EE,2018BF3C,extended,00010001
+patch=1,EE,2018BF40,extended,00010001
+patch=1,EE,2018BF44,extended,00010001
+patch=1,EE,2018BF48,extended,00010001
+patch=1,EE,2018BF4C,extended,00010001
+patch=1,EE,2018BF50,extended,00010001
+patch=1,EE,2018BF54,extended,00010001

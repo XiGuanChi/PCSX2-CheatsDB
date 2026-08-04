@@ -1,0 +1,13 @@
+[Cheats/Infinite Time] 
+patch=1,EE,E0020001,extended,0091CC80
+patch=1,EE,10733968,extended,00000708
+patch=1,EE,20733988,extended,44E10000
+
+[Cheats/P1 Infinite HP] 
+patch=1,EE,E0010001,extended,0091CC80
+patch=1,EE,0072EB90,extended,000000C9
+
+[Cheats/P2 No HP Default Settings] 
+patch=1,EE,E0020001,extended,0091CC80
+patch=1,EE,D072F3C0,extended,000000C9
+patch=1,EE,0072F3C0,extended,00000001

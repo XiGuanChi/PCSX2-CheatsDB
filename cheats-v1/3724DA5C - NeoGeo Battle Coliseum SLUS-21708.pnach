@@ -1,0 +1,28 @@
+[Cheats/Infiite HP P1 Both Characters] 
+patch=1,EE,20439AE8,extended,00E000E0
+patch=1,EE,20439B04,extended,00E000E0
+
+[Cheats/1 Hit Death P2 Both Characters] 
+patch=1,EE,D0439C9C,extended,000000E0
+patch=1,EE,10439C9C,extended,00000001
+patch=1,EE,D0439CB8,extended,000000E0
+patch=1,EE,10439CB8,extended,00000001
+
+[Cheats/Unlock All Graphics] 
+patch=1,EE,403928C0,extended,00150001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,00392914,extended,000000FF
+
+[Cheats/Unlock All Endings Movies] 
+patch=1,EE,00392915,extended,000000FF
+patch=1,EE,10392916,extended,0000FFFF
+patch=1,EE,40392918,extended,000A0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,20385904,extended,FFFFFFFF
+patch=1,EE,20385908,extended,FFFFFFFF
+
+[Cheats/100% Complete] 
+patch=1,EE,403928C0,extended,00200001
+patch=1,EE,FFFFFFFF,extended,00000000

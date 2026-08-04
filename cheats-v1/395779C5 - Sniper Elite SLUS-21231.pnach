@@ -1,0 +1,22 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200C0220,extended,3C0142C8
+patch=1,EE,200C0224,extended,AC410028
+patch=1,EE,200C0228,extended,080AF1AC
+patch=1,EE,200C022C,extended,C4400028
+patch=1,EE,202BC6AC,extended,08030088
+
+[Cheats/Infinite Ammo and No Reload] 
+patch=1,EE,2023F198,extended,00000000
+
+[Cheats/Always Low Heart Rate] 
+patch=1,EE,202A8A14,extended,3C010000
+patch=1,EE,202A8A18,extended,AE010020
+
+[Cheats/Stealth Suit] 
+patch=1,EE,20230BE4,extended,24110003
+patch=1,EE,202AD84C,extended,24020003
+patch=1,EE,2081D134,extended,00000001
+patch=1,EE,2096AA2C,extended,00000000
+
+[Cheats/Infinite Saves Left] 
+patch=1,EE,2038683C,extended,00000000

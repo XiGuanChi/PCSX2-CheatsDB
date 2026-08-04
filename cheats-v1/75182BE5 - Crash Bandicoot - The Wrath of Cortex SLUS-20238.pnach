@@ -1,0 +1,52 @@
+[Cheats/Infinite Lives] 
+patch=1,EE,00648D30,extended,00000063
+
+[Cheats/Infinite Lives Alternate] 
+patch=1,EE,201CC0CC,extended,00000000
+
+[Cheats/Infinite Health]  
+patch=1,EE,005C30A4,extended,00000064
+patch=1,EE,105D3548,extended,00006464
+
+[Cheats/Infinite Health 1st Boss]  
+patch=1,EE,105D3548,extended,00006464
+
+[Cheats/Infinite Health Level 2]  
+patch=1,EE,005C30A4,extended,00000064
+
+[Cheats/Invincible] 
+patch=1,EE,E001FFFE,extended,11D56642
+patch=1,EE,1059AD5E,extended,00000087
+
+[Cheats/Always Low Time] 
+patch=1,EE,205ADCBC,extended,00000064
+
+[Cheats/Invincible Hold Select To Die] 
+patch=1,EE,D1D56642,extended,0010FFFE
+patch=1,EE,1059AD5E,extended,00000088
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,105A6D8C,extended,00000001
+patch=1,EE,105A6D90,extended,00000001
+patch=1,EE,105A6D94,extended,00000001
+patch=1,EE,105A6D98,extended,00000001
+
+[Cheats/Unlock All Secret Levels] 
+patch=1,EE,005A6D9C,extended,000000FF
+
+[Cheats/Have All Powers] 
+patch=1,EE,005A717E,extended,000000FF
+
+[Cheats/Have All World Levels Completed] 
+patch=1,EE,405A6D8C,extended,00050001
+patch=1,EE,000000FF,extended,00000000
+
+[Cheats/Debug Menu Main Menu Press R2] 
+patch=1,EE,E0020001,extended,0064684C
+patch=1,EE,D1D56642,extended,0000FDFF
+patch=1,EE,205ADC2C,extended,FF090A00
+
+[Cheats/Cutscene Debugger Press L1] 
+patch=1,EE,E0020001,extended,0064684C
+patch=1,EE,D1D56642,extended,0000FBFF
+patch=1,EE,205ADC2C,extended,FF0D0400

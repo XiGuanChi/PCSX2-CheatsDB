@@ -1,0 +1,59 @@
+[Cheats/Special Enabler Must Be On For Following Codes] 
+patch=1,EE,200C0220,extended,3C013F80
+patch=1,EE,200C0224,extended,52400001
+patch=1,EE,200C022C,extended,56400001
+patch=1,EE,200C0240,extended,3C014170
+patch=1,EE,200C0244,extended,52400001
+patch=1,EE,200C024C,extended,56400001
+patch=1,EE,200C0254,extended,0808DD30
+patch=1,EE,200C0258,extended,00000000
+patch=1,EE,202374B8,extended,08030088
+
+[Cheats/Infinite Health] 
+patch=1,EE,200C0228,extended,AE21006C
+
+[Cheats/Infinite Special] 
+patch=1,EE,200C0248,extended,AE210070
+
+[Cheats/Instant Kill P2 Press R3+L1=On R3+R1=Off] 
+patch=1,EE,D0629942,extended,0000FEFE
+patch=1,EE,200C0230,extended,AE20006C
+patch=1,EE,D0629942,extended,0000F7FE
+patch=1,EE,200C0230,extended,00000000
+
+[Cheats/Infinite Health Master Mode] 
+patch=1,EE,206EE8DC,extended,C44102CC
+patch=1,EE,206EE8E4,extended,E44102C8
+
+[Cheats/Infinite HP Master Mode] 
+patch=1,EE,2073a66c,extended,3c0242c8
+patch=1,EE,2073a670,extended,ae4202c8
+
+[Cheats/Infinite Chakra Master Mode] 
+patch=1,EE,2073a984,extended,3c0242c8
+patch=1,EE,2073a988,extended,ae4202d0
+
+[Cheats/Infinite Special Master Mode Press R3+Up=Off R3+Down=On] 
+patch=1,EE,D073A8F0,extended,000002D0
+patch=1,EE,2073A8F0,extended,C64002D4
+
+[Cheats/Unlock All In Hero Mode] 
+patch=1,EE,2039ECA8,extended,240200FF
+
+[Cheats/Unlock Collection Have All Characters]  
+patch=1,EE,2039E624,extended,2402FFFF
+
+[Cheats/Unlock Collection Have All Figures] 
+patch=1,EE,2039E9C4,extended,24020003
+
+[Cheats/Unlock Collection Have All Musics]  
+patch=1,EE,2039E9D4,extended,24020003
+
+[Cheats/Unlock Collection Have All Voices] 
+patch=1,EE,2039E9E4,extended,24020003
+
+[Cheats/Unlock Collection Have Ultimate Justu] 
+patch=1,EE,2039E9F4,extended,24020003
+
+[Cheats/Unlock Collection Have All Movies] 
+patch=1,EE,2039EA04,extended,24020003

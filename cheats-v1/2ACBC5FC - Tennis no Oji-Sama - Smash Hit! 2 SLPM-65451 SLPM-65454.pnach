@@ -1,0 +1,17 @@
+[Cheats/All Abilities, Special Moves and Parameters Acquired] 
+patch=1,EE,202CAEF8,extended,10C0003B
+patch=1,EE,202CB060,extended,1000000B
+patch=1,EE,202CB478,extended,1440004D
+patch=1,EE,202CB768,extended,1000000B
+patch=1,EE,202CBB30,extended,14A00019
+patch=1,EE,202CBC08,extended,1000000B
+
+[Cheats/Max Friendship Degree after a certain number of days] 
+patch=1,EE,202C8E6C,extended,340100C8
+patch=1,EE,202C8E90,extended,A4410024
+
+[Cheats/Unlock All Characters And Gallery]  
+patch=1,EE,204B143C,extended,FFFFFFFF
+patch=1,EE,204B0604,extended,FFFFFFFF
+patch=1,EE,404B12AC,extended,00320002
+patch=1,EE,000004FF,extended,00000000

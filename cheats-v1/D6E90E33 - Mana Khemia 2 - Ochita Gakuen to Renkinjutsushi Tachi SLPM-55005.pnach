@@ -1,0 +1,54 @@
+[Cheats/Max Gold] 
+patch=1,EE,20C86900,extended,000F423F
+
+[Cheats/In Battle Infinite HP & SP]  
+patch=1,EE,200FF520,extended,AC84003C
+patch=1,EE,200FF524,extended,08083D5B
+patch=1,EE,200FF528,extended,AC840040
+patch=1,EE,20253BC4,extended,0C03FD48
+
+[Cheats/Infinite HP & SP At The Start Of Battle] 
+patch=1,EE,2020D654,extended,2405000D
+patch=1,EE,2020D664,extended,2405000E
+
+[Cheats/Max Finish Press Select+Up On Select+Down Off] 
+patch=1,EE,D0C8A41C,extended,0000FFEE
+patch=1,EE,20258160,extended,AE100018
+patch=1,EE,D0C8A41C,extended,0000FFEE
+patch=1,EE,20258164,extended,AE100460
+patch=1,EE,D0C8A41C,extended,0000FFBE
+patch=1,EE,20258160,extended,8E0F0018
+patch=1,EE,D0C8A41C,extended,0000FFBE
+patch=1,EE,20258164,extended,AE0F0460
+
+[Cheats/Time Stop Press L1+Left ON L1+Right OFF] 
+patch=1,EE,D0C8A41C,extended,0000FB7F
+patch=1,EE,201F5C50,extended,25EF0000
+patch=1,EE,D0C8A41C,extended,0000FBDF
+patch=1,EE,201F5C50,extended,25EF0001
+patch=1,EE,D0C8A41C,extended,0000FB7F
+patch=1,EE,201F6818,extended,25EF0000
+patch=1,EE,D0C8A41C,extended,0000FBDF
+patch=1,EE,201F6818,extended,01E47821
+
+[Cheats/No Encounter Press R2+Up ON R2+Down OFF] 
+patch=1,EE,D0C8A41C,extended,0000FDEF
+patch=1,EE,201C0DAC,extended,0000102D
+patch=1,EE,D0C8A41C,extended,0000FDBF
+patch=1,EE,201C0DAC,extended,0200102D
+
+[Cheats/Max AP After Change] 
+patch=1,EE,20199688,extended,00000000
+
+[Cheats/Max Unite Gauge At The Start Of Battle] 
+patch=1,EE,20257EAC,extended,240203E8 
+
+[Cheats/If The Number Of Items Change 99 Press L2+Up On Press L2+Down Off Please note that while the effect is on, the number of important items will increase as the number changes] 
+patch=1,EE,D0C8A41C,extended,0000FEEF
+patch=1,EE,2019EF04,extended,00000000
+patch=1,EE,D0C8A41C,extended,0000FEBF
+patch=1,EE,2019EF04,extended,55E00005
+
+[Cheats/Unlock Extra All Gallery & Music Can Be Viewed] 
+patch=1,EE,2014AFDC,extended,240200FF
+patch=1,EE,2014AFE0,extended,A1E20000

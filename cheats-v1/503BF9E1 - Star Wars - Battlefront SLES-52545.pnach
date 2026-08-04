@@ -1,0 +1,22 @@
+[Cheats/Invincibility] 
+patch=1,EE,20518CE0,extended,00000001
+
+[Cheats/Infinite Health] 
+patch=1,EE,202C2A2C,extended,8C410004
+patch=1,EE,202C2A30,extended,AC410000
+
+[Cheats/Infinite Primary Ammo] 
+patch=1,EE,20285530,extended,00000000
+
+[Cheats/Extra Primary Ammo] 
+patch=1,EE,20285528,extended,46010000
+
+[Cheats/Infinite Secondary Ammo] 
+patch=1,EE,2028ECD4,extended,00000000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20518CE4,extended,00000001
+
+[Cheats/Unlock All Special Features] 
+patch=1,EE,20643880,extended,FFFFFFFF
+

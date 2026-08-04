@@ -1,0 +1,69 @@
+[Cheats/Upgrades don´t Decrease Experience] 
+patch=1,EE,203BF948,extended,00401023
+
+[Cheats/Invulnerable] 
+patch=1,EE,2035063C,extended,1000059F
+
+[Cheats/Spyro Infinite Health] 
+patch=1,EE,203951d0,extended,8C620004
+
+[Cheats/Cynder Infinite Health] 
+patch=1,EE,20395210,extended,8C620004
+
+[Cheats/Spyro Infinite Elements Power] 
+patch=1,EE,203954b0,extended,00401023
+
+[Cheats/Cynder Infinite Elements Power] 
+patch=1,EE,203954f0,extended,00401023
+
+[Cheats/Spyro Max Element Power on Pick up] 
+patch=1,EE,20395584,extended,8C62006C
+
+[Cheats/Cynder Max Element Power on Pick up] 
+patch=1,EE,20395610,extended,8C620074
+
+[Cheats/Spyro Infinite Health] 
+patch=1,EE,209FEAC0,extended,0000270F
+
+[Cheats/Spyro Max Health] 
+patch=1,EE,209FEAC4,extended,0000270F
+
+[Cheats/Spyro Infinite Elements] 
+patch=1,EE,209FEAD8,extended,0000270F
+
+[Cheats/Spyro Max Elements] 
+patch=1,EE,209FEADC,extended,0000270F
+
+[Cheats/Cynder Infinite Health] 
+patch=1,EE,209FEAC8,extended,0000270F
+
+[Cheats/Cynder Max Health] 
+patch=1,EE,209FEACC,extended,0000270F
+
+[Cheats/Cynder Infinite Elements] 
+patch=1,EE,209FEAE0,extended,0000270F
+
+[Cheats/Cynder Max Elements] 
+patch=1,EE,209FEAE4,extended,0000270F
+
+[Cheats/Infinite HP Spyro And Cynder]   
+patch=1,EE,209FEAE0,extended,0000012c
+patch=1,EE,209FEAE8,extended,0000012c
+
+[Cheats/Infinite Magic]  
+patch=1,EE,209FEAF8,extended,0000012c
+patch=1,EE,209FEB00,extended,0000012c
+
+[Cheats/Infinite Skill Points]  
+patch=1,EE,209FEB18,extended,00119200
+patch=1,EE,209FEB1C,extended,00119200
+
+[Cheats/Infinite Fury]  
+patch=1,EE,209FEB08,extended,00000fff
+
+[Cheats/1 Hit Kill]  
+patch=1,EE,202DA5F8,extended,100000CE
+
+[Cheats/Enemies die automatically]
+patch=1,EE,202F5740,extended,24030015
+patch=1,EE,202F574C,extended,A08303A0

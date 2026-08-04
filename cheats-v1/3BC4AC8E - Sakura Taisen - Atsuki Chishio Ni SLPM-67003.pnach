@@ -1,0 +1,66 @@
+[Cheats/Infinite & Max HP Sakura Shinguji] 
+patch=1,EE,21E8D9DE,extended,0000270F
+patch=1,EE,21E8D9DC,extended,0000270F
+
+[Cheats/Infinite & Max HP Main Character Ichiro Ogami]
+patch=1,EE,21E8D17E,extended,0000270F
+patch=1,EE,21E8D17C,extended,0000270F
+
+[Cheats/Infinite & Max HP Sumire Kanzaki] 
+patch=1,EE,21E8E23E,extended,0000270F
+patch=1,EE,21E8E23C,extended,0000270F
+
+[Cheats/Infinite & Max HP Maria Tachibana] 
+patch=1,EE,21E8EA9E,extended,0000270F
+patch=1,EE,21E8EA9C,extended,0000270F
+
+[Cheats/Endurance Max Maintenance Always] 
+patch=1,EE,200F4020,extended,12E00002
+patch=1,EE,200F4024,extended,869600CC
+patch=1,EE,200F4028,extended,A69600CE
+patch=1,EE,200F402C,extended,080BF531
+patch=1,EE,200F4030,extended,7BB60060
+patch=1,EE,202FD4BC,extended,0803D008
+
+[Cheats/Maintains Max Spirit Effective when moving left stick] 
+patch=1,EE,20303B44,extended,866800D4
+patch=1,EE,20303B60,extended,0017400A
+patch=1,EE,20303B70,extended,A66800D6
+
+[Cheats/Recover Gives Max Durability when your unit is recovering] 
+patch=1,EE,203025C4,extended,12E00033
+
+[Cheats/Charge Gives Max Spirit] 
+patch=1,EE,20301C40,extended,12E00003
+
+[Cheats/Infinite Cover] 
+patch=1,EE,20301FFC,extended,3042000F
+
+[Cheats/Infinite Action Gauge Movement With some exceptions, non-ally units will be unable to move.] 
+patch=1,EE,203018EC,extended,16E00018
+patch=1,EE,20304110,extended,16E00019
+
+[Cheats/Infinite Action Gauge Attack Supports all normal, special, support, special move, and fusion attacks.] 
+patch=1,EE,20320110,extended,82020115
+patch=1,EE,20320114,extended,50400001
+patch=1,EE,203074A0,extended,80820115
+patch=1,EE,203074A4,extended,50400001
+
+[Cheats/Infinite Action Gauge Defense] 
+patch=1,EE,203029A4,extended,52E00001
+patch=1,EE,203029A8,extended,A62000E0
+
+[Cheats/Infinite Action Gauge Charge] 
+patch=1,EE,20301AB4,extended,52E00001
+patch=1,EE,20301AB8,extended,A62000E0
+
+[Cheats/Infinite Action Gauge Recovery]   
+patch=1,EE,2030247C,extended,52E00001
+patch=1,EE,20302480,extended,A66000E0
+
+[Cheats/Infinite Action Gauge Recovery when your unit recovers]  
+patch=1,EE,2031AB9C,extended,82820115
+patch=1,EE,2031ABA0,extended,50400001
+
+[Cheats/Re-enable Controller 2] 
+patch=1,EE,01F1AD5C,extended,00000001

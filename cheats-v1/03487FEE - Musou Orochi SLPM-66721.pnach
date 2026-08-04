@@ -1,0 +1,72 @@
+[Cheats/Necessary Code Must be on] 
+patch=1,EE,200FA800,extended,50400001
+patch=1,EE,200FA804,extended,27FF0020
+patch=1,EE,200FA808,extended,9259017E
+patch=1,EE,200FA80C,extended,2B210002
+patch=1,EE,200FA810,extended,10200039
+patch=1,EE,200FA820,extended,3C180040
+patch=1,EE,200FA824,extended,9718B002
+patch=1,EE,200FA828,extended,3B18FFFF
+patch=1,EE,200FA8F8,extended,03E00008
+patch=1,EE,20160560,extended,0C03EA00
+
+[Cheats/Infinite Health] 
+patch=1,EE,200FA838,extended,94680000
+patch=1,EE,200FA840,extended,A4680002
+patch=1,EE,200FA848,extended,33010400
+patch=1,EE,200FA84C,extended,94680006
+patch=1,EE,200FA850,extended,50200001
+patch=1,EE,200FA854,extended,A4680008
+
+[Cheats/Max Stock Experience Value] 
+patch=1,EE,204C6890,extended,0001869F
+
+[Cheats/Max Skill After Increases In Battle] 
+patch=1,EE,201D5CB4,extended,00000000
+
+[Cheats/Max Stock Experience Points 99999] 
+patch=1,EE,204C6890,extended,0001869F
+
+[Cheats/Learn All Character Special Skills & Character Items - Go to list of special skills equipment screen will be reflected after clearing the first page after using the code.] 
+patch=1,EE,404C2898,extended,004F0032
+patch=1,EE,0000010F,extended,00000000
+
+[Cheats/Acquire All Special Skills After Clearing The First Stage] 
+patch=1,EE,201D7E00,extended,01CD6825
+patch=1,EE,201D7E0C,extended,A1ED0000
+
+[Cheats/Unlock All Special Skill List Special skill equipment screen] 
+patch=1,EE,004C689B,extended,00000013
+patch=1,EE,004C68AC,extended,00000009
+patch=1,EE,204C689C,extended,13131313
+patch=1,EE,204C68A0,extended,13130909
+patch=1,EE,204C68A4,extended,13131313
+patch=1,EE,204C68A8,extended,09090909
+
+[Cheats/Max Status After Level Up] 
+patch=1,EE,201D5D88,extended,2403270F
+patch=1,EE,201D5DF8,extended,2403270F
+patch=1,EE,201D5E68,extended,2403270F
+patch=1,EE,201D5ED8,extended,2403270F
+patch=1,EE,201D5F48,extended,2402270F
+
+[Cheats/In Battle Max Proficiency Level After Increases] 
+patch=1,EE,201D6000,extended,00000000
+
+[Cheats/Unlock Free Play All Characters Available] 
+patch=1,EE,204C658C,extended,FFFFFFFF
+patch=1,EE,204C6590,extended,FFFFFFFF
+patch=1,EE,104C6594,extended,0000FFFF
+
+[Cheats/Unlock Free Play All Stages] 
+patch=1,EE,404C65B0,extended,003C0003
+patch=1,EE,00000003,extended,00000000
+
+[Cheats/Unlock All Characteres And Items Gallery]
+patch=1,EE,404C2898,extended,004F0032
+patch=1,EE,0000010F,extended,00000000
+
+[Cheats/Unlock All Movies & Sounds]
+patch=1,EE,004C68AF,extended,000000FF
+patch=1,EE,204C68B0,extended,FFFFFFFF
+patch=1,EE,204C68B4,extended,FFFFFFFF

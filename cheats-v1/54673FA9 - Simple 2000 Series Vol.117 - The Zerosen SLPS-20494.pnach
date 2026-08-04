@@ -1,0 +1,23 @@
+[Cheats/Unlock Japan Side All Missions & Aircraft]  
+patch=1,EE,2023B27C,extended,0101010A
+patch=1,EE,1023B280,extended,00000101
+patch=1,EE,2023B284,extended,01010101
+patch=1,EE,2023B288,extended,01010101
+patch=1,EE,0023B28C,extended,00000001
+
+[Cheats/Unlock Japan Side All Coloring] 
+patch=1,EE,0023B28D,extended,000000FF
+patch=1,EE,1023B28E,extended,0000FFFF
+patch=1,EE,2023B290,extended,FFFFFFFF
+patch=1,EE,2023B294,extended,FFFFFFFF
+patch=1,EE,2023B298,extended,FFFFFFFF
+
+[Cheats/Unlock Japan Side All Engines] 
+patch=1,EE,1023B2BA,extended,0000FFFF
+patch=1,EE,2023B2BC,extended,FFFFFFFF
+patch=1,EE,2023B2C0,extended,FFFFFFFF
+patch=1,EE,2023B2C4,extended,FFFFFFFF
+patch=1,EE,2023B2C8,extended,FFFFFFFF
+
+[Cheats/Unlock Debug Menu]  
+patch=1,EE,2010063C,extended,0C0506C0

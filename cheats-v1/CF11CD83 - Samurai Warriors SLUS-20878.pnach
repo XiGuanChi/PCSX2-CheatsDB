@@ -1,0 +1,124 @@
+[Cheats/Infinite Health All Human Players ] 
+patch=1,EE,200C0220,extended,94860270
+patch=1,EE,200C0224,extended,00063100
+patch=1,EE,200C0228,extended,08088F5E
+patch=1,EE,200C022C,extended,A4860272
+patch=1,EE,20223D74,extended,08030088
+
+[Cheats/Infinite Power Ups Upon Pick up] 
+patch=1,EE,20143B30,extended,00000000
+
+[Cheats/Can Always Do Musou Move Press Circle] 
+patch=1,EE,201511A8,extended,00000000
+
+[Cheats/Player 1 999 Kills] 
+patch=1,EE,20517DDC,extended,000003E7
+
+[Cheats/Player 1 999 Combo Points] 
+patch=1,EE,2050BAE8,extended,000003E7
+
+[Cheats/Player 1 9999 Kills] 
+patch=1,EE,20517DDC,extended,0000270F
+
+[Cheats/Player 1 Max EXP] 
+patch=1,EE,20517DB0,extended,05F5E0FF
+
+[Cheats/Player 1 Max EXP-Shinobi] 
+patch=1,EE,204EBC00,extended,000F423F
+
+[Cheats/Player 1 Max EXP-Teppou] 
+patch=1,EE,204EBC40,extended,000F423F
+
+[Cheats/Player 1 Max EXP-Kengou] 
+patch=1,EE,204EBC80,extended,000F423F
+
+[Cheats/Player 1 Infinite Time - Power Ups] 
+patch=1,EE,20143B2C,extended,24630000
+
+[Cheats/Yukimura Sanada Max Skill Points] 
+patch=1,EE,204EB1F4,extended,0001869F
+
+[Cheats/Yukimura Sanada All Skills Level 3] 
+patch=1,EE,104EB1C8,extended,00000303
+patch=1,EE,104EB1CA,extended,00000303
+patch=1,EE,104EB1CC,extended,00000303
+patch=1,EE,104EB1CE,extended,00000303
+patch=1,EE,104EB1D0,extended,00000303
+patch=1,EE,104EB1D2,extended,00000303
+patch=1,EE,104EB1D4,extended,00000303
+patch=1,EE,104EB1D6,extended,00000303
+patch=1,EE,104EB1D8,extended,00000303
+patch=1,EE,104EB1C6,extended,00000303
+patch=1,EE,004EB1EC,extended,00000003
+
+[Cheats/Yukimura Sanada Max Life] 
+patch=1,EE,004EB1B0,extended,000000FF
+
+[Cheats/Yukimura Sanada Max Musou] 
+patch=1,EE,004EB1B1,extended,000000FF
+
+[Cheats/Yukimura Sanada Max ATK] 
+patch=1,EE,004EB1B2,extended,000000C8
+
+[Cheats/Yukimura Sanada Max DEF] 
+patch=1,EE,004EB1B3,extended,000000C8
+
+[Cheats/Yukimura Sanada Max Ranged ATK] 
+patch=1,EE,004EB1B4,extended,000000C8
+
+[Cheats/Yukimura Sanada Max Ranged DEF] 
+patch=1,EE,004EB1B5,extended,000000C8
+
+[Cheats/Yukimura Sanada Max Horse ATK] 
+patch=1,EE,004EB1B6,extended,000000C8
+
+[Cheats/Yukimura Sanada Max Horse DEF] 
+patch=1,EE,004EB1B7,extended,000000C8
+
+[Cheats/Yukimura Sanada Max Agility] 
+patch=1,EE,004EB1B8,extended,000000C8
+
+[Cheats/Yukimura Sanada Max Jump] 
+patch=1,EE,004EB1B9,extended,000000C8
+
+[Cheats/Yukimura Sanada Max Speed] 
+patch=1,EE,004EB1BA,extended,000000C8
+
+[Cheats/Yukimura Sanada Max All Stats] 
+patch=1,EE,004EB1B2,extended,000000C8
+patch=1,EE,004EB1B3,extended,000000C8
+patch=1,EE,004EB1B4,extended,000000C8
+patch=1,EE,004EB1B5,extended,000000C8
+patch=1,EE,004EB1B6,extended,000000C8
+patch=1,EE,004EB1B7,extended,000000C8
+patch=1,EE,004EB1B8,extended,000000C8
+patch=1,EE,004EB1B9,extended,000000C8
+patch=1,EE,004EB1BA,extended,000000C8
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,204EBFCC,extended,FFFFFFFF
+patch=1,EE,204EBFD8,extended,FFFFFFFF
+patch=1,EE,004EBFD7,extended,000000FF
+
+[Cheats/Unlock Have All Movies] 
+patch=1,EE,404EBFCC,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Weapons]   
+patch=1,EE,404EBFDC,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Items]   
+patch=1,EE,204EBFE8,extended,FFFFFFFF
+patch=1,EE,204EBFEC,extended,FFFFFFFF
+
+[Cheats/Unlock All Characters]   
+patch=1,EE,204EC000,extended,0201000F
+patch=1,EE,204EC004,extended,06050403
+patch=1,EE,204EC008,extended,0A090807
+patch=1,EE,204EC00C,extended,0E0D0C0B
+
+[Cheats/Unlock All Missions]   
+patch=1,EE,404EC010,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+

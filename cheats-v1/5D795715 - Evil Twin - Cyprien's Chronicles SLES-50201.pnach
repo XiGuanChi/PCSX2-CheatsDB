@@ -1,0 +1,41 @@
+[Cheats/Infinite Health]  
+patch=1,EE,20350D54,extended,00000000
+
+[Cheats/Infinite Lives] 
+patch=1,EE,20350F9C,extended,24420000
+
+[Cheats/No Damage] 
+patch=1,EE,00ED51DC,extended,0000000A
+
+[Cheats/Untouchable]  
+patch=1,EE,2034E16C,extended,24030001
+patch=1,EE,2034E170,extended,AC8301D8
+patch=1,EE,2034E174,extended,10000097
+patch=1,EE,2034E178,extended,70808628
+
+[Cheats/Quick Gain Power Bar] 
+patch=1,EE,2034B128,extended,24630010
+
+[Cheats/Power Bar Always Full] 
+patch=1,EE,2034B120,extended,00000000
+patch=1,EE,2034B128,extended,240300F0
+
+[Cheats/Have All Objects In The Inventory]   
+patch=1,EE,20365260,extended,24050001
+patch=1,EE,20365270,extended,00000000
+patch=1,EE,20365278,extended,00000000
+patch=1,EE,20365280,extended,00000000
+patch=1,EE,20365288,extended,00000000
+patch=1,EE,20365290,extended,00000000
+patch=1,EE,20365298,extended,00000000
+patch=1,EE,203652A0,extended,00000000
+
+[Cheats/Take One Bear To Have Max Quantity]   
+patch=1,EE,20348BC8,extended,00000000
+
+[Cheats/Tiny Cyprien]  
+patch=1,EE,204CD508,extended,3F000000
+
+[Cheats/Faster Game]  
+patch=1,EE,2052B0D8,extended,3D610FAF
+patch=1,EE,203DE024,extended,00000000

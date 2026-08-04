@@ -1,0 +1,28 @@
+[Cheats/Infinite Health]  
+patch=1,EE,C01D30A8,extended,064C03E8
+patch=1,EE,C01D30A8,extended,064E03E8
+
+[Cheats/Infinite Stamina] 
+patch=1,EE,C01D30A8,extended,0A127530
+patch=1,EE,C01D30A8,extended,0A147530
+
+[Cheats/Snake Vs. Monkey Press L1+Up For All Monkeys-Stage 1] 
+patch=1,EE,D0210E5C,extended,0000FBEF
+patch=1,EE,214F3CB0,extended,00090009
+
+[Cheats/Snake Vs. Monkey Press L1+Up For All Monkeys-Stage 2] 
+patch=1,EE,D0210E5C,extended,0000FBDF
+patch=1,EE,21616EB0,extended,000F000F
+
+[Cheats/Snake Vs. Monkey Press L1+Up For All Monkeys-Stage 3] 
+patch=1,EE,D0210E5C,extended,0000FBBF
+patch=1,EE,21650200,extended,00150015
+
+[Cheats/Snake Vs. Monkey Press L1+Up For All Monkeys-Stage 4] 
+patch=1,EE,D0210E5C,extended,0000FB7F
+patch=1,EE,21621830,extended,00120012
+
+[Cheats/Snake Vs. Monkey Press L1+Up For All Monkeys-Stage 5] 
+patch=1,EE,D0210E5C,extended,0000FEEF
+patch=1,EE,21533160,extended,00120012
+

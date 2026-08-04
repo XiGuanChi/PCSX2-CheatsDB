@@ -1,0 +1,65 @@
+[Cheats/Infinite HL 999.999] 
+patch=1,EE,20341c60,extended,000f423f
+
+[Cheats/Character 1 Infinite HP 999.999] 
+patch=1,EE,20342cdc,extended,000f423f
+patch=1,EE,20342ce4,extended,000f423f
+
+[Cheats/Character 1 Infinite SP 999.999] 
+patch=1,EE,20342ce0,extended,000f423f
+patch=1,EE,20342ce8,extended,000f423f
+
+[Cheats/Character 2 Infinite HP 999.999] Charakter 2 Infinite HP: 999.999
+patch=1,EE,2034355C,extended,000f423f
+patch=1,EE,20343564,extended,000f423f
+
+[Cheats/Character 2 Infinite SP 999.999] 
+patch=1,EE,20343560,extended,000f423f
+patch=1,EE,20343568,extended,000f423f
+
+[Cheats/Infinte SP All Characteres]  
+patch=1,EE,200F8880,extended,92410830
+patch=1,EE,200F8894,extended,080697D0
+patch=1,EE,200F8898,extended,0021100A
+patch=1,EE,201A5F10,extended,0803E220
+
+[Cheats/Infinte HP All Characteres] 
+patch=1,EE,200F8800,extended,8C440000
+patch=1,EE,200F8804,extended,905E00DC
+patch=1,EE,200F8808,extended,8C790004
+patch=1,EE,200F880C,extended,0720000E
+patch=1,EE,200F8818,extended,03DEC80A
+patch=1,EE,200F8820,extended,AC790004
+patch=1,EE,200F8848,extended,03E00008
+patch=1,EE,201B0984,extended,0C03E200
+
+[Cheats/Clear Stage Press SELECT+L2] 
+patch=1,EE,2016B138,extended,82090365
+patch=1,EE,D02EC2C2,extended,0000FEFE
+patch=1,EE,2016B138,extended,24090000
+
+[Cheats/Makai Hospital Max Mana When Choosing Treatment] 
+patch=1,EE,2020E634,extended,3C020098
+patch=1,EE,2020E638,extended,3442967F
+patch=1,EE,2020E63C,extended,AE4207BC
+
+[Cheats/Infinite Action Possible When lifting, you cannot move unless you throw it] 
+patch=1,EE,20178550,extended,A6000366
+
+[Cheats/Council Verdict 9999 Points In Favor] 
+patch=1,EE,203D2830,extended,0000270F
+
+[Cheats/Council Verdict 0 Points Against] 
+patch=1,EE,203D2838,extended,00000000
+
+[Cheats/Dark Parliament All Agendas Appear Some characters cannot be selected] 
+patch=1,EE,201C4AA8,extended,100000B1
+patch=1,EE,201C4618,extended,AE2107BC
+patch=1,EE,201C461C,extended,1000052C
+
+[Cheats/Debug Lingering Scent There are more suspicious items in the title, but they cannot be selected. During battle, coordinate system data is displayed] 
+patch=1,EE,2013648C,extended,1000000E 
+patch=1,EE,202EC6D8,extended,FFFFFFFF
+
+
+

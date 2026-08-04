@@ -1,0 +1,10 @@
+[Cheats/Unlock All Gallery] 
+patch=1,EE,41F00AEC,extended,00110001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,21F00AC0,extended,FFFFFFFF
+
+[Cheats/Unlock All Gallery, Music, Extra and Memory Menus] 
+patch=1,EE,11F00C16,extended,00000101
+patch=1,EE,41F00C0C,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,01F00C1C,extended,00000001

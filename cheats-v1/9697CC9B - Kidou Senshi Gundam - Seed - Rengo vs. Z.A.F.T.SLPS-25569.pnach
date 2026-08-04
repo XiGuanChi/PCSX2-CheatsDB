@@ -1,0 +1,54 @@
+[Cheats/1P Blue Invincible 2P Red Death] 
+patch=1,EE,2016E244,extended,80820005
+patch=1,EE,2016E248,extended,14400003
+patch=1,EE,2016E268,extended,46010841
+
+[Cheats/1P Blue Strength Gauge 1000] 
+patch=1,EE,105D3E14,extended,000003E8
+
+[Cheats/Select+R1 to 2P Red Fighter Gauge 0]
+patch=1,EE,D058465C,extended,0000F7FE
+patch=1,EE,105D3E34,extended,00000000
+
+[Cheats/Infinite Ammo All Machines] 
+patch=1,EE,202851F8,extended,00A02023
+patch=1,EE,20285218,extended,1000002B
+
+[Cheats/Infinite boost All Aircrafts]   
+patch=1,EE,2027F988,extended,44801000
+
+[Cheats/Arcade Sudden Final Stage] 
+patch=1,EE,202AB504,extended,24010009
+patch=1,EE,202AB50C,extended,A2010011
+
+[Cheats/Max Points After Clearing Stage] 
+patch=1,EE,202A736C,extended,00000000
+
+[Cheats/Unlock All Aircrafts] 
+patch=1,EE,202A9AD4,extended,24040001
+patch=1,EE,202ACB3C,extended,24020001
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,202AA234,extended,24030001
+patch=1,EE,202ACBF4,extended,24040001
+
+[Cheats/Unlock All Aircrafts and All Characters Save Reflection] 
+patch=1,EE,004B2B90,extended,0000000D
+
+[Cheats/Unlock All Profile Mode] 
+patch=1,EE,205DF008,extended,FFFFFFFF
+patch=1,EE,205DF00C,extended,FFFFFFFF
+patch=1,EE,205DF010,extended,FFFFFFFF
+patch=1,EE,205DF014,extended,FFF7FFFF
+patch=1,EE,405DF018,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Event Movies & Map weapon Demo]
+patch=1,EE,405DF044,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Event Graphics] 
+patch=1,EE,105DF036,extended,0000FFFF
+patch=1,EE,205DF038,extended,FFFFFFFF
+patch=1,EE,205DF03C,extended,FFFFFFFF
+patch=1,EE,205DF040,extended,FFFFFFFF

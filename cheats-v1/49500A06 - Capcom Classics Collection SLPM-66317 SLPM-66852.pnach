@@ -1,0 +1,41 @@
+[Cheats/Street Fighter II 1P Invincible Press L1+R1] 
+patch=1,EE,D06C2822,extended,0000F3FF
+patch=1,EE,006B14E3,extended,00000001
+
+[Cheats/Street Fighter II - CHAMPION EDITION 1P Invincible Press R3]  
+patch=1,EE,D06F5C22,extended,0000FFFB
+patch=1,EE,D06EB4A2,extended,0000FFFB
+patch=1,EE,006DA163,extended,00000001
+
+[Cheats/Street Fighter II - CHAMPION EDITION 2P Health 0 Press L3] 
+patch=1,EE,D06EB4A2,extended,0000FFFD
+patch=1,EE,206D9D38,extended,00000000
+
+[Cheats/Street Fighter II - TURBO HYPER FIGHTING 1P Invincible Press R3] 
+patch=1,EE,D06F5C22,extended,0000FFFB
+patch=1,EE,006E48E3,extended,00000001
+
+[Cheats/Street Fighter II - TURBO HYPER FIGHTING 2P Health 0 Press L3] 
+patch=1,EE,D06F5C22,extended,0000FFFD
+patch=1,EE,206E44B8,extended,00000000
+
+[Cheats/Bloody Wolf Infinite Credits Press R1] 
+patch=1,EE,D02C0EA0,extended,00000010
+patch=1,EE,002D4190,extended,00000005
+
+[Cheats/Bloody Wolf Stage Completed Press R2] 
+patch=1,EE,D02C0EA0,extended,00000020
+patch=1,EE,002D3491,extended,00000001
+
+[Cheats/Bloody Wolf Infinite Bomb Press L1] 
+patch=1,EE,D02C0EA0,extended,00000040
+patch=1,EE,00308238,extended,00000006
+
+[Cheats/Final Fight 1P Invincible] 
+patch=1,EE,00DB9249,extended,000000FF
+
+[Cheats/Unlock All Bonuses] 
+patch=1,EE,4032D460,extended,00160073
+patch=1,EE,02020202,extended,00000000
+
+

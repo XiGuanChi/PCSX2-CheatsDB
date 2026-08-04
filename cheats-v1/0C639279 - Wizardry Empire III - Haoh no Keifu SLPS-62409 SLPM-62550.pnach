@@ -1,0 +1,69 @@
+[Cheats/Max Gold After Battle] 
+patch=1,EE,20131F1C,extended,00000000
+
+[Cheats/HP 9999 by 1 level up] 
+patch=1,EE,20110DE8,extended,00000000
+
+[Cheats/Staying at an inn rejuvenates 15 years old] 
+patch=1,EE,20132110,extended,24041E00
+
+[Cheats/Max EP After Battle] 
+patch=1,EE,20131F84,extended,00000000
+
+[Cheats/No treasure box trap] 
+patch=1,EE,2013F1DC,extended,1000003A
+
+[Cheats/Not spatula even with spell Roll Fate, Yaron does not forget even cast.] 
+patch=1,EE,20133010,extended,00000000
+patch=1,EE,2013359C,extended,00000000
+
+[Cheats/Level up in the EP without even inn] 
+patch=1,EE,2012D100,extended,24020001
+
+[Cheats/At the inn one level up HP 9999] 
+patch=1,EE,20110DE8,extended,00000000
+
+[Cheats/Always surprise] 
+patch=1,EE,2013B898,extended,1000001C
+
+[Cheats/Not Move Enemy] 
+patch=1,EE,20147A4C,extended,00000000
+
+[Cheats/Anyone appraisal nurses] 
+patch=1,EE,20126220,extended,10000004
+patch=1,EE,20132228,extended,10000003
+
+[Cheats/Item appraisal always success] 
+patch=1,EE,20131B00,extended,00000000
+
+[Cheats/CCC - Required Code] 
+patch=1,EE,201B6C4C,extended,0803B800
+patch=1,EE,200EE100,extended,03E00008
+
+[Cheats/All HP recovered, no status abnormalities HP will recover to the maximum value, but if you receive damage greater than the maximum value, you will die.] 
+patch=1,EE,200EE000,extended,3C080023
+patch=1,EE,200EE004,extended,3508B860
+patch=1,EE,200EE008,extended,24090014
+patch=1,EE,200EE010,extended,850A000C
+patch=1,EE,200EE014,extended,A50A000E
+patch=1,EE,200EE018,extended,240B0000
+patch=1,EE,200EE01C,extended,A10B0098
+patch=1,EE,200EE020,extended,2529FFFF
+patch=1,EE,200EE024,extended,250800AC
+patch=1,EE,200EE028,extended,1520FFF8
+
+[Cheats/All race compatibility 200% + AC-99 When changing equipment or leveling up, the AC will temporarily return to the original AC] 
+patch=1,EE,200EE050,extended,3C080023
+patch=1,EE,200EE054,extended,3508B860
+patch=1,EE,200EE058,extended,24090014
+patch=1,EE,200EE05C,extended,240A1E9D
+patch=1,EE,200EE064,extended,A50A00A4
+patch=1,EE,200EE068,extended,2529FFFF
+patch=1,EE,200EE06C,extended,250800AC
+patch=1,EE,200EE074,extended,1520FFF9
+
+[Cheats/Debug CMD Press select 1P on the town menu screen Cross key: Item selection Circle Confirm X Cancel, exit from menu L1, R1 : page switching] 
+patch=1,EE,2010C894,extended,5040000F
+patch=1,EE,D020F59C,extended,0000FFFE
+patch=1,EE,2010C894,extended,10000009
+

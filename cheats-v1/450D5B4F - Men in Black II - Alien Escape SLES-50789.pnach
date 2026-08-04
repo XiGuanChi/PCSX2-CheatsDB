@@ -1,0 +1,30 @@
+[Cheats/Infinite Health] 
+patch=1,EE,208E498C,extended,42C80000
+
+[Cheats/Infinite Lives] 
+patch=1,EE,208E4984,extended,00000003
+
+[Cheats/Infinite Xeno Bombs] 
+patch=1,EE,208E49AC,extended,00000009
+
+[Cheats/Unlock Everything] 
+patch=1,EE,20608028,extended,01010101
+patch=1,EE,2060802C,extended,01010101
+
+[Cheats/Unlock All Player Weapons] 
+patch=1,EE,D084BE6C,extended,0000FF40
+patch=1,EE,0084BEC8,extended,00000001
+
+[Cheats/God Mode] 
+patch=1,EE,D084BE6C,extended,0000FF40
+patch=1,EE,0084BEC9,extended,00000001
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,D084BE6C,extended,0000FF40
+patch=1,EE,0084BED4,extended,00000001
+
+[Cheats/Unlock All Rewards]  
+patch=1,EE,D084BE6C,extended,0000FF40
+patch=1,EE,0084BED5,extended,00000001
+
+

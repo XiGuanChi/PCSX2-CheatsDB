@@ -1,0 +1,30 @@
+[Cheats/Infinite Money] 
+patch=1,EE,20F54304,extended,000F423F
+
+[Cheats/Infinite Health 100] 
+patch=1,EE,10f54120,extended,00000064
+patch=1,EE,10f542fc,extended,00000064
+
+[Cheats/Infinite Health 999] 
+patch=1,EE,10f54120,extended,000003e7
+patch=1,EE,10f542fc,extended,000003e7
+
+[Cheats/LV 50] 
+patch=1,EE,00F5411C,extended,00000031
+
+[Cheats/Invulnerable]  
+patch=1,EE,20175818,extended,00000000
+patch=1,EE,201757EC,extended,10000005
+
+[Cheats/1 Hit Kill]  
+patch=1,EE,2016B628,extended,1000013
+
+[Cheats/All Elemental 99999] 
+patch=1,EE,20F54978,extended,0001869F
+patch=1,EE,20F5497C,extended,0001869F
+patch=1,EE,20F54980,extended,0001869F
+patch=1,EE,20F54984,extended,0001869F
+patch=1,EE,20F54988,extended,0001869F
+
+[Cheats/Unlock All Gallery] 
+patch=1,EE,00F574E0,extended,0000000F

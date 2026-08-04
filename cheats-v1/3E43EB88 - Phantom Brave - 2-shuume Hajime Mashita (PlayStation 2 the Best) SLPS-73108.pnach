@@ -1,0 +1,45 @@
+[Cheats/Max Item selling and possession] 
+patch=1,EE,201C6694,extended,14200001
+
+[Cheats/Hero's treatment does not reduce holdings] 
+patch=1,EE,201EE694,extended,DC43CE80
+
+[Cheats/When you select an item at remodel it reaches Mana limit]
+patch=1,EE,201E23FC,extended,3C0505F5
+patch=1,EE,201E2400,extended,34A5E0FF
+patch=1,EE,201E2404,extended,AE050094
+
+[Cheats/At the remodel level up limit 9999] 
+patch=1,EE,201E238C,extended,2402270F
+patch=1,EE,201E2390,extended,A6020292
+
+[Cheats/Level up limit 9999 when synthesized]
+patch=1,EE,201EA970,extended,14200001
+
+[Cheats/All you can distribute point by character creation]
+patch=1,EE,201E5348,extended,8F908FB0
+patch=1,EE,201E55B8,extended,8F858FB0
+
+[Cheats/Max Basic Status with Character creation] 
+patch=1,EE,201E56C0,extended,3C130098
+patch=1,EE,201E56C4,extended,3673967F
+
+[Cheats/SP full recovery on attack] 
+patch=1,EE,20184C40,extended,86680002
+patch=1,EE,20184C60,extended,A6680000
+
+[Cheats/At attack time SP Max 999 Can not be combined with SP full recovery at attack] 
+patch=1,EE,200F8000,extended,380403E7
+patch=1,EE,200F8004,extended,A6640000
+patch=1,EE,200F8008,extended,A6640002
+patch=1,EE,200F8010,extended,0C050840
+patch=1,EE,200F8018,extended,AE620008
+patch=1,EE,200F801C,extended,0080300A
+patch=1,EE,200F8020,extended,08061313
+patch=1,EE,20184C40,extended,0803E000
+
+[Cheats/Stage clear control only for random dungeons R2+START Completely complete when cleared R2+SELECT Normal operation] 
+patch=1,EE,D0236882,extended,0000FDF7
+patch=1,EE,2018F868,extended,A5220002
+patch=1,EE,D0236882,extended,0000FDFE
+patch=1,EE,2018F868,extended,1580000B

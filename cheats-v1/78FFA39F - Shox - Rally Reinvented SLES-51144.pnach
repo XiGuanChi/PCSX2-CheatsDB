@@ -1,0 +1,48 @@
+[Cheats/Infinite Money] 
+patch=1,EE,0035B9E3,extended,00000006
+
+[Cheats/Infinite Turbo] 
+patch=1,EE,2030200C,extended,30000000
+
+[Cheats/Unlock All Cups]  
+patch=1,EE,2035BAF0,extended,03030303
+
+[Cheats/Unlock All Select Movie Theatre Credits] 
+patch=1,EE,D03ECC4C,extended,00000031
+patch=1,EE,203ECC4C,extended,0000000B
+
+[Cheats/Unlock All Compact Races] 
+patch=1,EE,0035B9AB,extended,00000005
+
+[Cheats/Unlock All Sports Races] 
+patch=1,EE,0035B9AC,extended,00000005
+
+[Cheats/Unlock All Turbo Races] 
+patch=1,EE,0035B9AD,extended,00000005
+
+[Cheats/Unlock All Power Races] 
+patch=1,EE,0035B9AE,extended,00000005
+
+[Cheats/Unlock All Normal Compact Cars] 
+patch=1,EE,0035B9D3,extended,00000002
+patch=1,EE,2035B9D4,extended,02020202
+patch=1,EE,0035B9D8,extended,00000002
+
+[Cheats/Unlock All Normal Sports Cars] 
+patch=1,EE,0035B9C7,extended,00000002
+patch=1,EE,2035B9C8,extended,02020202
+patch=1,EE,0035B9CC,extended,00000002
+
+[Cheats/Unlock All Normal Turbo Cars] 
+patch=1,EE,0035B9BB,extended,00000002
+patch=1,EE,0035B9BC,extended,02020202
+patch=1,EE,0035B9C0,extended,00000002
+
+[Cheats/Unlock All Normal Power Cars] 
+patch=1,EE,0035B9AF,extended,00000002
+patch=1,EE,0035B9B0,extended,02020202
+patch=1,EE,0035B9B4,extended,00000002
+
+[Cheats/Unlock All Chrome Cars] 
+patch=1,EE,2034F31C,extended,00000000
+patch=1,EE,2034F320,extended,00000000

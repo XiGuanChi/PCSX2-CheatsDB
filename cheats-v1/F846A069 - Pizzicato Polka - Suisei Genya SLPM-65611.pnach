@@ -1,0 +1,7 @@
+[Cheats/Unlock All Special] 
+patch=1,EE,40352357,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock Debug Menu This menu contains various options to view background images, event images, and unlock certain options. It also contains various route select options. To appear in this menu, apply the below code and start a new game.Page 1 Next page Next page.Start from the beginning	Starts a new game.Flow check Route select menu.Quick start	Sends you to the title screen.Run file Event select menu.System flag setting Presumably finishes character routes when selected.Hidden option settings	Unlocks the special menu.Return to title Returns to the title screen.Page 2 Next page Next page.Message Check Displays various text messages.Message Check Allows you to select messages based on the event files.Flow check It's not clear what's different about this option.Flow check Shows story choices only Page 3 Next page	Next page.Event CG check Cycles through all of the CG images.Scenery BG check Cycles through all of the background images.
+Character check	Cycles through all of the character images.Character color check Doesn't seem to work properly.BGM check Doesn't work.SE check Doesn't work.Movie check	Allows you to view the game's movies.BG fade check	Tests various screen transition effects] 
+patch=1,EE,20322F20,extended,00000003

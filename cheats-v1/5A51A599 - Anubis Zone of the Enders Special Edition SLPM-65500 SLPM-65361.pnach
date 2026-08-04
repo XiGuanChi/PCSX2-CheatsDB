@@ -1,0 +1,65 @@
+[Cheats/Recovery Required Code] 
+patch=1,EE,200F6000,extended,14C00007
+patch=1,EE,200F6020,extended,8E020A48
+patch=1,EE,200F6024,extended,30420004
+patch=1,EE,200F6028,extended,03E00008
+patch=1,EE,2017CCA8,extended,0C03D800
+
+[Cheats/Recovers Energy when attacking normally] 
+patch=1,EE,200F6008,extended,8E020A68
+patch=1,EE,200F600C,extended,AE020A64
+
+[Cheats/Recovers Sub Energy when attacking normally] 
+patch=1,EE,200F6010,extended,C60014CC
+patch=1,EE,200F6014,extended,E60014C8
+
+[Cheats/Main Story Energy facility Arjet's energy does not decrease in the AI battle] 
+patch=1,EE,D025D3C0,extended,00000A64
+patch=1,EE,2025D3C4,extended,00000000
+patch=1,EE,D02546A8,extended,00000A64
+patch=1,EE,202546A8,extended,00000000
+
+[Cheats/Main Story Armaan central battle, Anubis suicide explosion] 
+patch=1,EE,D02C3CD4,extended,00000A64
+patch=1,EE,202C3CD4,extended,AE400A64
+
+[Cheats/Max HP Damage above the maximum will kill you] 
+patch=1,EE,202369D4,extended,0803C000
+patch=1,EE,200F0000,extended,C6000CA8
+patch=1,EE,200F0004,extended,E440E884
+patch=1,EE,200F0008,extended,E6000CAC
+patch=1,EE,200F000C,extended,0808DA77
+
+[Cheats/Subweapon Infinite Ammo Javelin] 
+patch=1,EE,202D0B3C,extended,00000000
+
+[Cheats/Subweapon Infinite Ammo Geyser] 
+patch=1,EE,202D0DDC,extended,00000000
+
+[Cheats/Subweapon Infinite Ammo Phalanx] 
+patch=1,EE,202D1670,extended,00000000
+
+[Cheats/Subweapon Infinite Ammo Halberd] 
+patch=1,EE,202D1F68,extended,00000000
+patch=1,EE,202D1ED4,extended,00000000
+
+[Cheats/Subweapon Infinite Ammo Comet] 
+patch=1,EE,202D20F0,extended,00000000
+
+[Cheats/Subweapon Infinite Ammo Gauntlet] 
+patch=1,EE,202D2390,extended,00000000
+
+[Cheats/Subweapon Infinite Ammo Sniper] 
+patch=1,EE,202D281C,extended,00000000
+
+[Cheats/Subweapon Infinite Ammo Decoy] 
+patch=1,EE,202D251C,extended,00000000
+
+[Cheats/Subweapon Infinite Ammo Bounder]  
+patch=1,EE,202D0F6C,extended,00000000
+
+[Cheats/Subweapon Infinite Ammo Mummy]  
+patch=1,EE,202D316C,extended,00000000
+
+[Cheats/Unlock VERSUS & EXTRA MISSIONS in the title] 
+patch=1,EE,21FE1964,extended,00000002

@@ -1,0 +1,36 @@
+[Cheats/Yuri all max With status fluctuation]
+patch=1,EE,40268F1C,extended,0008000C
+patch=1,EE,00E0282D,extended,00000000
+
+[Cheats/Max Money 9999999] 
+patch=1,EE,204F8BB0,extended,0098967F
+
+[Cheats/Infinite health] 
+patch=1,EE,200FA820,extended,94A80000
+patch=1,EE,200FA828,extended,A4A80002
+
+[Cheats/Infinite health 1P & 2P] 
+patch=1,EE,2015F2DC,extended,10000025
+patch=1,EE,20202770,extended,2C410002
+patch=1,EE,2020275C,extended,3C0D0045
+patch=1,EE,20202760,extended,91B91C83
+patch=1,EE,20202764,extended,3B2D00DF
+patch=1,EE,202027A4,extended,24660064
+patch=1,EE,202027A8,extended,94A10006
+patch=1,EE,202027AC,extended,540D0001
+patch=1,EE,202027B0,extended,A4A10008
+
+[Cheats/Steel ratio rise] 
+patch=1,EE,201AB804,extended,24030000
+
+[Cheats/Max Acquisition gold]
+patch=1,EE,201A7124,extended,00000000
+
+[Cheats/1P weapon strengthening] 
+patch=1,EE,20496F78,extended,42000000
+
+[Cheats/Max Special skills] 
+patch=1,EE,1015B098,extended,00007FFF
+patch=1,EE,1015B0A4,extended,00007FFF
+patch=1,EE,1015B0E0,extended,00007FFF
+patch=1,EE,10163DB4,extended,00007FFF

@@ -1,0 +1,21 @@
+[Cheats/Infinite Health - 1 Hit Kill] 
+patch=1,EE,213049B4,extended,08028005
+patch=1,EE,213049B8,extended,00000000
+patch=1,EE,200A0014,extended,80A20023
+patch=1,EE,200A0018,extended,14020004
+patch=1,EE,200A0020,extended,200200C7
+patch=1,EE,200A0024,extended,AC820018
+patch=1,EE,200A0028,extended,AC82001C
+patch=1,EE,200A002C,extended,03E00008
+patch=1,EE,200A0030,extended,8CA20018
+
+[Cheats/Completed Ranger Spelling After One Pickup] 
+patch=1,EE,212A6FFC,extended,200F003F
+
+[Cheats/Time Orbs 1000x Works for Both Players] 
+patch=1,EE,212A8220,extended,08028000
+patch=1,EE,200A0000,extended,200203E8
+patch=1,EE,200A0004,extended,004E7020
+patch=1,EE,200A0008,extended,03E00008
+patch=1,EE,200A000C,extended,ADEE03D8
+

@@ -1,0 +1,24 @@
+[Cheats/Infinite. HP 1P] 
+patch=1,EE,2015e464,extended,00000000
+
+[Cheats/Max Power Bar 9]   
+patch=1,EE,201a0114,extended,24a50000
+
+[Cheats/Even if your physical strength does not decrease, you can use the gauge to perform super special moves] 
+patch=1,EE,20146878,extended,5085FED4
+
+[Cheats/No Cooldown When Gauge Is Empty after using a super special move] 
+patch=1,EE,20148A28,extended,34A50000
+
+[Cheats/TIme Attack Infinite. HP 1P] 
+patch=1,EE,20011334,extended,27102710
+
+[Cheats/Unlock Riho In Story Mode] 
+patch=1,EE,E001FF80,extended,004830A0
+patch=1,EE,204830A4,extended,13E00046
+
+[Cheats/Unlock All Gallery] 
+patch=1,EE,10202908,extended,0000FFFF
+patch=1,EE,2020290C,extended,FFFFFFFF
+patch=1,EE,20202910,extended,FFFFFFFF
+patch=1,EE,20202914,extended,FFFFFFFF

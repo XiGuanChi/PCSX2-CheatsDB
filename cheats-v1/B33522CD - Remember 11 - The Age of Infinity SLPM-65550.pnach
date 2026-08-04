@@ -1,0 +1,59 @@
+[Cheats/Unlock All Album]  
+patch=1,EE,208962D0,extended,FFFFFF00
+patch=1,EE,208962D4,extended,FFFFFFFF
+patch=1,EE,208962D8,extended,FFFFFFFF
+patch=1,EE,208962DC,extended,FFFFFFFF
+patch=1,EE,108962E2,extended,0000F3E0
+patch=1,EE,008962E4,extended,0000003F
+
+[Cheats/Unlock All Jukebox]  
+patch=1,EE,20898710,extended,FFFFFF00
+patch=1,EE,10898714,extended,00001DFF
+
+[Cheats/Unlock All Ending List]  
+patch=1,EE,208962C4,extended,FFFFFFFF
+patch=1,EE,108962C8,extended,000000FF
+
+[Cheats/Unlock All Scene Title]  
+patch=1,EE,208986D0,extended,FFFFFF00
+patch=1,EE,208986D4,extended,FFFFFFFF
+patch=1,EE,208986D8,extended,FFFFFFFF
+patch=1,EE,208986DC,extended,FFFFFFFF
+patch=1,EE,208986E0,extended,FFFFFFFF
+patch=1,EE,008986E4,extended,000000FF
+
+[Cheats/Unlock All TIPS]  
+patch=1,EE,20898720,extended,FFFFFF00
+patch=1,EE,20898724,extended,FFFFFFFF
+patch=1,EE,20898728,extended,FFFFFFFF
+patch=1,EE,2089872C,extended,003FFFFF
+
+[Cheats/Unlock All Choice Perfection Degree 100%] 
+patch=1,EE,208985D0,extended,FFFFFFFF
+patch=1,EE,208985D4,extended,FFFFFFFF
+patch=1,EE,208985D8,extended,FFFFFFFF
+patch=1,EE,208985DC,extended,FFFFFFFF
+patch=1,EE,208985E0,extended,FFFFFFFF
+patch=1,EE,208985E4,extended,FFFFFFFF
+patch=1,EE,208985E8,extended,FFFFFFFF
+patch=1,EE,208985EC,extended,FFFFFFFF
+patch=1,EE,208985F0,extended,1FFFFFFF
+
+[Cheats/Max Playtime] 
+patch=1,EE,2089BB88,extended,014996FF
+
+[Cheats/Play time 0] 
+patch=1,EE,2089BB88,extended,00000000
+
+[Cheats/Message Completion Level 100%] 
+patch=1,EE,200F0000,extended,3C080089
+patch=1,EE,200F0004,extended,35086350
+patch=1,EE,200F0008,extended,25092000
+patch=1,EE,200F000C,extended,200AFFFF
+patch=1,EE,200F0010,extended,714A5389
+patch=1,EE,200F0018,extended,7D0A0000
+patch=1,EE,200F001C,extended,25080010
+patch=1,EE,200F002C,extended,01095826
+patch=1,EE,200F0030,extended,1560FFF9
+patch=1,EE,200F0038,extended,03E00008
+patch=1,EE,201B8394,extended,0803C000

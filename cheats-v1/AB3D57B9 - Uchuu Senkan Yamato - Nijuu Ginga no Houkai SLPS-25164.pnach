@@ -1,0 +1,8 @@
+[Cheats/Max HP F1st Person]   
+patch=1,EE,10330F58,extended,000000FF
+patch=1,EE,10330F5C,extended,000000FF
+patch=1,EE,10330F60,extended,000000FF
+
+[Cheats/Max Total Time Battle Evaluation] 
+patch=1,EE,20330CB0,extended,00000000
+

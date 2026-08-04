@@ -1,0 +1,59 @@
+[Cheats/Simulation Mode Instant Win] 
+patch=1,EE,D1FBEC94,extended,00000000
+patch=1,EE,01FBEC94,extended,00000003
+patch=1,EE,01FCBB55,extended,00000003
+patch=1,EE,01FA3F7C,extended,00000003
+
+[Cheats/Simulation Mode 1 Lap To Finish] 
+patch=1,EE,D1FBEC94,extended,00000000
+patch=1,EE,01FBEC94,extended,00000002
+patch=1,EE,01FCBB55,extended,00000003
+patch=1,EE,01FA3F7C,extended,00000003
+
+[Cheats/Simulation Mode Max Races] 
+patch=1,EE,20958EEC,extended,0000270F
+
+[Cheats/Simulation Mode Max Wins] 
+patch=1,EE,20958EF4,extended,0000270F
+
+[Cheats/Simulation Mode Max Money] 
+patch=1,EE,20958EF8,extended,D4A50FFF
+patch=1,EE,20958EFC,extended,000000E8
+
+[Cheats/Instant Win Arcade Single Race] 
+patch=1,EE,E0080000,extended,01FBCB74
+patch=1,EE,D1FA1E5C,extended,00000002
+patch=1,EE,01FBCB74,extended,00000002
+patch=1,EE,D1FA1E5C,extended,00000003
+patch=1,EE,01FBCB74,extended,00000003
+patch=1,EE,D1FA1E5C,extended,00000004
+patch=1,EE,01FBCB74,extended,00000004
+patch=1,EE,D1FA1E5C,extended,00000005
+patch=1,EE,01FBCB74,extended,00000005
+
+[Cheats/Have All Licenses Gold Trophies] 
+patch=1,EE,40978430,extended,00300065
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Have All Licenses Silver Trophies] 
+patch=1,EE,40978430,extended,00300065
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Have All Licenses Bronze Trophies] 
+patch=1,EE,40978430,extended,00300065
+patch=1,EE,00000002,extended,00000000
+
+[Cheats/Low Times Time Trial] 
+patch=1,EE,D1FC9A40,extended,0030F000
+patch=1,EE,21FC9A40,extended,00005000
+
+[Cheats/Max Series Points] 
+patch=1,EE,D1FCB1B0,extended,00000000
+patch=1,EE,11FCB1B0,extended,0000270F
+
+[Cheats/Unlock All Arcade Tracks] 
+patch=1,EE,00958F24,extended,00000005
+
+[Cheats/Unlock All Cars Purchaseable] 
+patch=1,EE,20234390,extended,24020000
+

@@ -1,0 +1,39 @@
+[Cheats/Max CP 9999999] 
+patch=1,EE,206FF160,extended,0098967F
+
+[Cheats/Capture Success without fail] 
+patch=1,EE,20256870,extended,10000006
+
+[Cheats/Units other than general soldiers can also be captured] 
+patch=1,EE,20256648,extended,10000005
+
+[Cheats/Experience Value of All Friendly Units & Characters 999 After Fight] 
+patch=1,EE,20113ACC,extended,0C03D000
+patch=1,EE,200F4004,extended,3C11006F
+patch=1,EE,200F4008,extended,00001021
+patch=1,EE,200F400C,extended,24420001
+patch=1,EE,200F4010,extended,962775EC
+patch=1,EE,200F4014,extended,34E703E7
+patch=1,EE,200F4018,extended,A62775EC
+patch=1,EE,200F401C,extended,3407F9C0
+patch=1,EE,200F4020,extended,A6277B22
+patch=1,EE,200F4024,extended,28470040
+patch=1,EE,200F4028,extended,14E0FFF8
+patch=1,EE,200F402C,extended,26310014
+patch=1,EE,200F4030,extended,03E00008
+patch=1,EE,200F4034,extended,3C02006E
+
+[Cheats/Character 1 Max Status] 
+patch=1,EE,206F7B24,extended,FFFFF7E7
+patch=1,EE,206F7B28,extended,FFFFFFFF
+patch=1,EE,206F7B2C,extended,0001FFFF
+
+[Cheats/Character 2 Max Status]  
+patch=1,EE,206F7B38,extended,FFFFF7E7
+patch=1,EE,206F7B3C,extended,FFFFFFFF
+patch=1,EE,206F7B40,extended,0001FFFF
+
+[Cheats/Character 3 Max Status] 
+patch=1,EE,206F7B4C,extended,FFFFF7E7
+patch=1,EE,206F7B50,extended,FFFFFFFF
+patch=1,EE,206F7B54,extended,0001FFFF

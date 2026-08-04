@@ -1,0 +1,20 @@
+[Cheats/Infinite HP P1]  
+patch=1,EE,104A2BA0,extended,0000012C
+
+[Cheats/No HP P2] 
+patch=1,EE,104A2C08,extended,00000000
+
+[Cheats/Unlock All Costumes] 
+patch=1,EE,204A1940,extended,FFFFFFFF
+patch=1,EE,204A1944,extended,FFFFFFFF
+patch=1,EE,204A1948,extended,FFFFFFFF
+patch=1,EE,204A194C,extended,10010500
+
+[Cheats/Unlock CG Gallery] 
+patch=1,EE,004A79CF,extended,00000001
+
+[Cheats/Unlock ALL COLLECTION and ITEM GALLERY] 
+patch=1,EE,204A79E0,extended,FFFFFFFF
+patch=1,EE,204A79E4,extended,FFFFFFFF
+patch=1,EE,104A79E8,extended,0000FFFF
+

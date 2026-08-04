@@ -1,0 +1,43 @@
+[Cheats/Max Points] 
+patch=1,EE,2053408C,extended,0001869F
+
+[Cheats/Max Pinch Hit Coupons] 
+patch=1,EE,0057DDFD,extended,00000063
+
+[Cheats/Player 1 Infinite Power Shots] 
+patch=1,EE,1057DD10,extended,0000000F
+
+[Cheats/Always Hole In One Player 1] 
+patch=1,EE,40533F28,extended,00120005
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Have All Characters] 
+patch=1,EE,2057DDA0,extended,01010101
+patch=1,EE,2057DDA4,extended,01010101
+patch=1,EE,2057DDA8,extended,01010101
+patch=1,EE,2057DDAC,extended,01010101
+
+[Cheats/Have All Caddys] 
+patch=1,EE,2057DDB0,extended,01010101
+patch=1,EE,1057DDB4,extended,00000101
+patch=1,EE,0057DDB6,extended,00000001
+
+[Cheats/Have All Courses] 
+patch=1,EE,0057DDB7,extended,00000002
+patch=1,EE,2057DDB8,extended,02020202
+
+[Cheats/Have All Items] 
+patch=1,EE,0057DDBD,extended,00000003
+patch=1,EE,1057DDBE,extended,00000303
+patch=1,EE,4057DDC0,extended,000E0001
+patch=1,EE,03030303,extended,00000000
+patch=1,EE,1057DDF8,extended,00000303
+
+[Cheats/Have All Clubs] 
+patch=1,EE,1057DDFE,extended,00000303
+patch=1,EE,2057DE00,extended,03030303
+
+[Cheats/Have All Balls] 
+patch=1,EE,2057DE04,extended,03030303
+patch=1,EE,2057DE08,extended,03030303
+

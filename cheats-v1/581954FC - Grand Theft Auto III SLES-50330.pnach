@@ -1,0 +1,47 @@
+[Cheats/Max Cash] 
+patch=1,EE,20511928,extended,05F5E0FF
+
+[Cheats/Infinite Health] 
+patch=1,EE,20B66810,extended,42C80000
+
+[Cheats/Infinite Armour] 
+patch=1,EE,20B66814,extended,42C80000
+
+[Cheats/Infinite Pistol Ammo] 
+patch=1,EE,20B668EC,extended,0000000C
+patch=1,EE,20B668F0,extended,00000034
+
+[Cheats/Infinite AK47 Ammo] 
+patch=1,EE,20B662E8,extended,0000001E
+patch=1,EE,20B662EC,extended,00000064
+
+[Cheats/Infinite Grenades] 
+patch=1,EE,20B66364,extended,0000000A
+
+[Cheats/Infinite Rocket Launcher Ammo] 
+patch=1,EE,003A1213,extended,0000008B
+
+[Cheats/Infinite Shotgun Ammo] 
+patch=1,EE,20B66914,extended,0000000A
+patch=1,EE,20B66918,extended,0000000A
+
+[Cheats/Infinite Sniper Rifle Ammo] 
+patch=1,EE,20B66954,extended,00000032
+
+[Cheats/Freeze Mission Timers Press L2 Activate and R2 Deactivate] 
+patch=1,EE,D050A242,extended,0000FEFF
+patch=1,EE,202BE2B8,extended,00000000
+patch=1,EE,D050A242,extended,0000FDFF
+patch=1,EE,202BE2B8,extended,0C0AE548
+
+[Cheats/Never Wanted] 
+patch=1,EE,202A37B0,extended,00000000
+patch=1,EE,202A3A28,extended,00000000
+patch=1,EE,20415908,extended,00000000
+
+[Cheats/Turn Off Car Damage] 
+patch=1,EE,201AE558,extended,00000000
+
+[Cheats/All Weapons At Hideout] 
+patch=1,EE,20511930,extended,00000064
+

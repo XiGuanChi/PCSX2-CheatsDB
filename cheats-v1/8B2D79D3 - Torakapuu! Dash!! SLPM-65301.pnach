@@ -1,0 +1,14 @@
+[Cheats/Infinite HP Main Character In Battle] 
+patch=1,EE,20B05D88,extended,00000064
+
+[Cheats/All Points In Black Account Record Book] 
+patch=1,EE,204161C0,extended,FFFFFFFF
+patch=1,EE,204161C4,extended,FFFFFFFF
+patch=1,EE,204161C8,extended,FFFFFFFF
+
+[Cheats/Unlock All CG] 
+patch=1,EE,204161D0,extended,FFFFFFFF
+patch=1,EE,204161D4,extended,FFFFFFFF
+patch=1,EE,204161D8,extended,FFFFFFFF
+patch=1,EE,204161DC,extended,FFFFFFFF
+patch=1,EE,004161E0,extended,000000FF

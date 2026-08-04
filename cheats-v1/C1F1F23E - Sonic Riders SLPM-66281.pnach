@@ -1,0 +1,55 @@
+[Cheats/Infinite Funds] 
+patch=1,EE,2095D4A8,extended,000F423F
+
+[Cheats/Infinite Air during the race] 
+patch=1,EE,20499F58,extended,000F423F
+
+[Cheats/Normal race 1P ring 100 pieces]  
+patch=1,EE,0049A16E,extended,00000064
+
+[Cheats/Normal race 1P always 1st place] 
+patch=1,EE,200F8000,extended,3C010049
+patch=1,EE,200F8004,extended,342193C0
+patch=1,EE,200F8008,extended,10340002 
+patch=1,EE,200F8010,extended,A2801292 
+patch=1,EE,200F8014,extended,08052F54
+patch=1,EE,201D1280,extended,0C03E000
+
+[Cheats/Unlock All Mission mode added & all missions selectable Missions will increase as you view each course] 
+patch=1,EE,0095D107,extended,00000007
+patch=1,EE,202DA50C,extended,24010001
+patch=1,EE,202DA510,extended,A0C1FFDF
+patch=1,EE,202DA514,extended,24060001
+patch=1,EE,202DA918,extended,34840001
+patch=1,EE,202DA91C,extended,A0A40007
+
+[Cheats/Unlock Hidden Course to Free Race and Time Attack]  
+patch=1,EE,2095CDC8,extended,01010101
+patch=1,EE,2095CDCC,extended,01010101
+patch=1,EE,2095CDD0,extended,01010101
+
+[Cheats/Unlock All  Extra and Movie Theater]
+patch=1,EE,2095D158,extended,01010101
+
+[Cheats/Unlock Babylon]  
+patch=1,EE,0095CDC2,extended,00000001
+
+[Cheats/Unlock All gear, normal race characters and the gear gallery] 
+patch=1,EE,0095D109,extended,00000001
+patch=1,EE,0095D120,extended,00000001
+patch=1,EE,0095D170,extended,00000001
+patch=1,EE,1095D10A,extended,00000101
+patch=1,EE,1095D138,extended,00000101
+patch=1,EE,1095D14E,extended,00000101
+patch=1,EE,2095D10C,extended,01010101
+patch=1,EE,2095D110,extended,01010101
+patch=1,EE,2095D114,extended,01010101
+patch=1,EE,2095D118,extended,01010101
+patch=1,EE,2095D11C,extended,01010101
+patch=1,EE,2095D130,extended,01010101
+patch=1,EE,2095D134,extended,01010101
+patch=1,EE,2095D150,extended,01010101
+patch=1,EE,2095D160,extended,01010101
+patch=1,EE,2095D164,extended,01010101
+patch=1,EE,2095D168,extended,01010101
+patch=1,EE,2095D16C,extended,01010101

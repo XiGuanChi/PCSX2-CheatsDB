@@ -1,0 +1,25 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20526d10,extended,00000005
+
+[Cheats/Infinite Health Monorail Level] 
+patch=1,EE,2050DDC6,extended,00003F80
+
+[Cheats/Infinite Shield] 
+patch=1,EE,20526ed8,extended,0000012c
+
+[Cheats/Infinite Antidote] 
+patch=1,EE,10526b72,extended,00000064
+
+[Cheats/Max Cogs] 
+patch=1,EE,20526b74,extended,00000064
+
+[Cheats/Max Blue Feathers] 
+patch=1,EE,20526b68,extended,00000064
+
+[Cheats/Max Red Feathers] 
+patch=1,EE,20526b6c,extended,00000064
+
+[Cheats/Invincible] 
+patch=1,EE,2029A628,extended,24020001
+patch=1,EE,2029A528,extended,24020001
+patch=1,EE,2029A598,extended,24020001

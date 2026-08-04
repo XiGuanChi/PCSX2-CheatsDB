@@ -1,0 +1,29 @@
+[Cheats/All Characters Infinite Health] 
+patch=1,EE,200C200C,extended,8C230464
+patch=1,EE,200C2010,extended,AC230460
+
+[Cheats/All Characters Max Health] 
+patch=1,EE,200C2004,extended,24030006
+patch=1,EE,200C2008,extended,AC230464
+
+[Cheats/All Characters Manliness Points] 
+patch=1,EE,207ACED4,extended,0001869F
+
+[Cheats/All Characters Goofy Goober Tokens] 
+patch=1,EE,207ACEDC,extended,0000270F
+
+[Cheats/All Characters Treasure Chests] 
+patch=1,EE,207ACFD8,extended,00000063
+
+[Cheats/All Characters Upgrade Points] 
+patch=1,EE,107ACFE8,extended,0000001E
+
+[Cheats/All Characters N2O] 
+patch=1,EE,2068518C,extended,00000063
+
+[Cheats/Have all Chests Collected] 
+patch=1,EE,507ACF30,extended,00000048
+patch=1,EE,007ACEE0,extended,00000000
+
+[Cheats/Unlock All Extras] 
+patch=1,EE,207ACFD8,extended,0000002A

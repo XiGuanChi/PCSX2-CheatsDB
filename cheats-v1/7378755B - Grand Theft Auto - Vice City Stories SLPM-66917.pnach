@@ -1,0 +1,48 @@
+[Cheats/Max Possession gold] 
+patch=1,EE,204DAE8C,extended,05F5E0FF
+patch=1,EE,204DAE90,extended,05F5E0FF
+
+[Cheats/Money 99999999$] 
+patch=1,EE,202CD1C0,extended,3C0205F5
+patch=1,EE,202CD1C4,extended,3442E0FF
+patch=1,EE,202CD1C8,extended,AE4200BC
+patch=1,EE,202CD1CC,extended,10000018
+patch=1,EE,202CD1D0,extended,AE4200C0
+
+[Cheats/Infinite Bulletproof Vest] 
+patch=1,EE,20283DC4,extended,3C0142C8
+patch=1,EE,20283DC8,extended,AC4104E8
+
+[Cheats/Infinite Bulletproof vest 500 & stamina press select+R3 can be suicide on the spot] 
+patch=1,EE,20283DA0,extended,3C0143FA
+patch=1,EE,20283DC8,extended,E44104E8
+patch=1,EE,D04CDAC2,extended,0000FFFA
+patch=1,EE,20283DC8,extended,AC4004E4
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2016453C,extended,24420000
+patch=1,EE,2016494C,extended,24420000
+
+[Cheats/Infinite Dash]  
+patch=1,EE,20240944,extended,24040001
+
+[Cheats/Timer stop R1+R2 Resume stop L1+L2] 
+patch=1,EE,D04CDAC2,extended,0000FAFF
+patch=1,EE,204206B4,extended,10000039
+patch=1,EE,D04CDAC2,extended,0000F5FF
+patch=1,EE,204206B4,extended,10400039
+
+[Cheats/No collision damage while riding, only their own car] 
+patch=1,EE,20139E7C,extended,3442001F
+patch=1,EE,20139E8C,extended,00000000
+
+[Cheats/No collision damage at the time of boarding only their own car] 
+patch=1,EE,2019AFCC,extended,3442001F
+patch=1,EE,2019AFDC,extended,00000000
+
+[Cheats/No collision damage all bikes] 
+patch=1,EE,2035C4C0,extended,100001E0
+
+[Cheats/Cheat commands use flag OFF when saving after using cheat command can be erased,
+but the cheat effect itself continues] 
+patch=1,EE,204C7A88,extended,00000000

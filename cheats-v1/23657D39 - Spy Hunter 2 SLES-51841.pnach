@@ -1,0 +1,9 @@
+[Cheats/Invincible And Infinite Ammo] 
+patch=1,EE,0042071A,extended,00000018
+
+[Cheats/Unlock All Levels]  
+patch=1,EE,20420CC4,extended,03010000
+patch=1,EE,20420CC8,extended,13011307
+patch=1,EE,20420CCC,extended,17011103
+patch=1,EE,20420CD0,extended,01110313
+patch=1,EE,20420CD4,extended,01130303

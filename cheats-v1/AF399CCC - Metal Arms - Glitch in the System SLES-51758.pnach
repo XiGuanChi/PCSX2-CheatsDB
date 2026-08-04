@@ -1,0 +1,15 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200C2000,extended,3C0140C0
+patch=1,EE,200C2004,extended,44816000
+patch=1,EE,200C2008,extended,080B4A04
+patch=1,EE,200C200C,extended,E44C0168
+patch=1,EE,202D6A64,extended,0C030800
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20218550,extended,00E01203
+
+[Cheats/Infinite Mini Laser Energie] 
+patch=1,EE,20225628,extended,24013634
+
+[Cheats/Unlock All Battery Packs] 
+patch=1,EE,0050133F,extended,36340006

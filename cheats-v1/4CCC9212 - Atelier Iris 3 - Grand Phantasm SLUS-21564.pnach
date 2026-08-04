@@ -1,0 +1,49 @@
+[Cheats/Infinite Money]   
+patch=1,EE,208F6AB8,extended,000F423F
+
+[Cheats/Max BP] 
+patch=1,EE,20227470,extended,340EFFFF
+
+[Cheats/Max Skill Bar]  
+patch=1,EE,2031FB34,extended,10000004
+patch=1,EE,201FE598,extended,340F0000
+ 
+[Cheats/Infinite Health in Battle] 
+patch=1,EE,2020b6b0,extended,08028000
+patch=1,EE,2020b6b4,extended,00000000
+patch=1,EE,200a0000,extended,85e5002a
+patch=1,EE,200a0004,extended,8dee0030
+patch=1,EE,200a0008,extended,10a00005
+patch=1,EE,200a000c,extended,00000000
+patch=1,EE,200a0010,extended,8de60034
+patch=1,EE,200a0014,extended,08082dad
+patch=1,EE,200a0018,extended,00ce3021
+patch=1,EE,200a001c,extended,00000000
+patch=1,EE,200a0020,extended,08082dad
+patch=1,EE,200a0024,extended,00ce3021
+
+[Cheats/Infinite Time In Missions] 
+patch=1,EE,201FE25C,extended,00000000
+
+[Cheats/Infinite Time In Missions alt]  
+patch=1,EE,2090EFE0,extended,00005000
+
+[Cheats/Complete Monster List] 
+patch=1,EE,10C00AA6,extended,00000707
+patch=1,EE,40C00AA8,extended,00620001
+patch=1,EE,07070707,extended,00000000
+patch=1,EE,10C00B30,extended,00000707
+
+[Cheats/Complete Blades List also Gives Skills] 
+patch=1,EE,10C00B32,extended,00000707
+patch=1,EE,20C00B34,extended,07070707
+patch=1,EE,20C00B38,extended,07070707
+patch=1,EE,10C00B3C,extended,00000707
+
+[Cheats/Enable Level Select press Triangle in game to enter Once inside this menu, press R2+X to enter a map of your choice. Using this menu will also enable some extra debug options such as being able to view the coordinates of the player, and SFX locations. Press START to bring this info up. Markers in blue represent a map SFX location] 
+patch=1,EE,201E80B4,extended,0C06BC81
+patch=1,EE,D09CBC08,extended,00000000
+patch=1,EE,201AF2A8,extended,144F0005
+patch=1,EE,D09CBC08,extended,00004200
+patch=1,EE,201AF2A8,extended,00000000
+patch=1,EE,201C23A0,extended,24020001

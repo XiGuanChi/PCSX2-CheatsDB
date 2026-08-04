@@ -1,0 +1,8 @@
+[Cheats/Unlock All Love Maxim] 
+patch=1,EE,2019D818,extended,FFFFFFFF
+patch=1,EE,0019D81C,extended,000000FF
+
+[Cheats/New Game = Debug Event Select Menu This menu allows you to quickly view a scene of your choice] 
+patch=1,EE,0019D5FC,extended,000000FF
+patch=1,EE,0019D5FC,extended,000000FF
+

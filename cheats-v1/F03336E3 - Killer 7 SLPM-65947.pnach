@@ -1,0 +1,23 @@
+[Cheats/Infinite Health You will die if you receive more damage than your max Health] 
+patch=1,EE,20209BC4,extended,A62202B8
+
+[Cheats/Infinite Health 30000 If you take damage Press SELECT you will die in one hit. Use it in situations where you can't proceed unless you die in one hit] 
+patch=1,EE,20209BC4,extended,24017530
+patch=1,EE,20209BE0,extended,A62102B8
+patch=1,EE,D061FD5C,extended,0000FFFE
+patch=1,EE,20209BC4,extended,24010001
+
+[Cheats/Max Serum] 
+patch=1,EE,10681896,extended,00004E20
+
+[Cheats/Thick Blood 1000 dl] 
+patch=1,EE,202B12A8,extended,240203E8
+patch=1,EE,202B12B8,extended,A4827840
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,201FC654,extended,00000000
+
+[Cheats/Unlock Modes KILLER 8 & HOPPER 7] 
+patch=1,EE,20250758,extended,2401FFFF
+patch=1,EE,2025075C,extended,3C030062
+patch=1,EE,20250764,extended,A461E4A8

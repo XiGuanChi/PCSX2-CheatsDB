@@ -1,0 +1,18 @@
+[Cheats/Infinite Health P1] 
+patch=1,EE,201EC282,extended,00003F80
+patch=1,EE,201EC286,extended,00003F80
+
+[Cheats/Infinite KI P1] 
+patch=1,EE,201EC288,extended,00001000
+
+[Cheats/Kill CPU Opponent  Press L1+L2+R1+R2] 
+patch=1,EE,D01E5CDE,extended,0000F0FF
+patch=1,EE,20225DC0,extended,00000000
+
+[Cheats/Max All Player Stats] 
+patch=1,EE,40296BC4,extended,00050001
+patch=1,EE,270F270F,extended,00000000
+patch=1,EE,10296BA8,extended,000003E7
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,20161F18,extended,00000000

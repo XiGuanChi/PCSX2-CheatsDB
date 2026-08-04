@@ -1,0 +1,11 @@
+[Cheats/Max gold] 
+patch=1,EE,202F0CD0,extended,05F5E0FF
+
+[Cheats/Game time 999 After press L1+R1] 
+patch=1,EE,D042F202,extended,0000F3FF
+patch=1,EE,202F0CBD,extended,000000FF
+
+[Cheats/Time customers 999 After press L1+L2] 
+patch=1,EE,D042F202,extended,0000FAFF
+patch=1,EE,202F0CF5,extended,000000FF
+

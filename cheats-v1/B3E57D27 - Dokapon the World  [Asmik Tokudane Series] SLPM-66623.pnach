@@ -1,0 +1,31 @@
+[Cheats/Max Money in possession 999999999] 
+patch=1,EE,2056C000,extended,3B9AC9FF: 
+
+[Cheats/Max HP 9999] 
+patch=1,EE,1056BFFA,extended,0000270F
+patch=1,EE,1056BFFC,extended,0000270F
+
+[Cheats/LV 99] 
+patch=1,EE,0056BFC3,extended,00000063
+
+[Cheats/Max HP 9999 2nd Character] 
+patch=1,EE,1056C1F6,extended,0000270F
+patch=1,EE,1056C1F8,extended,0000270F
+
+[Cheats/Strengthen Unemployed] 
+patch=1,EE,00473D0F,extended,0000000C
+patch=1,EE,20473D10,extended,0303030C
+patch=1,EE,10473D14,extended,00001E03
+patch=1,EE,00473D3B,extended,0000000C
+patch=1,EE,20473D3C,extended,0303030C
+patch=1,EE,10473D40,extended,00001E03
+
+[Cheats/All Profession Master] 
+patch=1,EE,4056BED8,extended,002D0001
+patch=1,EE,00000005,extended,00000000
+
+[Cheats/Unlock All Encyclopedia]  
+patch=1,EE,4056AA74,extended,001F0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+

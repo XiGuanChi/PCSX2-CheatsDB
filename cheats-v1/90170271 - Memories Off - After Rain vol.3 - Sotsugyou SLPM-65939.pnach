@@ -1,0 +1,5 @@
+[Cheats/Unlock All Endings]  
+patch=1,EE,008AF0C4,extended,000000FF
+
+[Cheats/Replace New Game With Debug Menu. This lets you choose music and sound effects to listen to. It also contains options to view background images, character sprites, and CG images. You can also select various scenarios to view. Scenario Sends you to a list of story-related scenes to choose from.Character	Allows you to view all of the character portraits.BG Allows you to view all of the background images. Event	Allows you to view all of the event images in the game. BGM	Plays all songs from the game. SE Sends you to a list of sound effects to choose from. Effect Sends you to a menu where you can test screen effects. Nothing appears to work here. Movie Allows you to watch all of the movies in the game. SAVE Sends you to the save menu.System Flag	Unlocks everything in the game when selected.] 
+patch=1,EE,1087F114,extended,00000032

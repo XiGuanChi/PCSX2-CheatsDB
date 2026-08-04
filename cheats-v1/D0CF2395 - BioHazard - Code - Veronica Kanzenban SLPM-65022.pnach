@@ -1,0 +1,15 @@
+[Cheats/Infinite Health] 
+patch=1,EE,104301FC,extended,000000A0
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20289F3C,extended,24C20000
+
+[Cheats/Savepoint at any time After pressing the L3 button] 
+patch=1,EE,D1E1B6C2,extended,0000FFFD
+patch=1,EE,00430C66,extended,00000020
+
+[Cheats/Infinite Time] 
+patch=1,EE,202C9878,extended,00000000
+
+[Cheats/Unlock All Extras] 
+patch=1,EE,10430C04,extended,00001FFF

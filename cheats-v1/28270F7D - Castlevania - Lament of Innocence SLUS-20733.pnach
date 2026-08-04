@@ -1,0 +1,43 @@
+[Cheats/Infinite Gold] 
+patch=1,EE,10B64820,extended,0000FFFF
+
+[Cheats/Infinite & Max Health] 
+patch=1,EE,20B64AE8,extended,4479C000
+patch=1,EE,20B64800,extended,4479C000
+
+[Cheats/Infinite & Max MP] 
+patch=1,EE,20B64848,extended,00000063
+patch=1,EE,20B64844,extended,00000063
+
+[Cheats/Have All Skills] 
+patch=1,EE,20B64AA4,extended,FFFFFFFF
+
+[Cheats/Infinite Double Jumps] 
+patch=1,EE,20462414,extended,00000000
+patch=1,EE,2046242C,extended,00000000
+patch=1,EE,D0B635F0,extended,00300020
+patch=1,EE,20B635F0,extended,00000000
+
+[Cheats/Status Always Good] 
+patch=1,EE,20B64AF0,extended,00000000
+patch=1,EE,20B64AF4,extended,00000000
+patch=1,EE,20B64AF8,extended,00000000
+
+[Cheats/Max Atk] 
+patch=1,EE,20B64B80,extended,4479C000
+
+[Cheats/Max Int] 
+patch=1,EE,20B64B84,extended,4479C000
+
+[Cheats/Max Con] 
+patch=1,EE,20B64B8C,extended,4479C000
+
+[Cheats/Max Lck] 
+patch=1,EE,20B64B90,extended,4479C000
+
+[Cheats/Max Def] 
+patch=1,EE,20B64BA0,extended,4479C000
+
+[Cheats/Unlock Encyclopedia All Enemies]  
+patch=1,EE,40B7B12C,extended,00710003
+patch=1,EE,000000FF,extended,00000000

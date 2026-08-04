@@ -1,0 +1,27 @@
+[Cheats/Max Gold 99999999] 
+patch=1,EE,20210FC8,extended,05F5E0FF
+
+[Cheats/Main Character Infinite HP In Battle] 
+patch=1,EE,201B5B84,extended,000003E7
+patch=1,EE,201B5B7C,extended,000003E7
+
+[Cheats/Main Character Infinite & Max HP Out of battle] 
+patch=1,EE,2021162C,extended,000003E7
+patch=1,EE,20211634,extended,000003E7
+
+[Cheats/Second character Infinite HP In Battle] 
+patch=1,EE,201B6A84,extended,000003E7
+patch=1,EE,201B6A7C,extended,000003E7
+
+[Cheats/Second character Infinite & Max HP Out of battle] 
+patch=1,EE,20211A04,extended,000003E7
+patch=1,EE,20211A0C,extended,000003E7
+
+[Cheats/Enable Developer Mode L3+R3 = Open Debug Menu.Controller One R3 debug info Start to pause the game.
+Select to start a battle or to end L1-L2 change enemy encounters Increase-decrease. R1-R2 change camera angles.Controller Two:R3 open debug menu.L3 close debug menu.D-Pad-Left Stick moves through the menu.Right-Left will toggle the option on or off you have highlighted.R1-R2 zoom in-out.Circle to enter a option.Select opens a flag editor]  
+patch=1,EE,2019075C,extended,00000001
+patch=1,EE,20190758,extended,00000001
+patch=1,EE,D031832A,extended,0000FFFB
+patch=1,EE,102306D0,extended,00000001
+patch=1,EE,D031832A,extended,0000FFFD
+patch=1,EE,102306D0,extended,00000000

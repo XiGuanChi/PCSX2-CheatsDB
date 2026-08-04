@@ -1,0 +1,30 @@
+[Cheats/Infinite HP In Battle]
+patch=1,EE,203DD1A4,extended,43FA0000
+patch=1,EE,203DD1A8,extended,43FA0000
+
+[Cheats/Infinite Guard Points]  
+patch=1,EE,203DD1AC,extended,42C80000
+
+[Cheats/Infinite Hit Points] 
+patch=1,EE,20521C30,extended,03E803E8
+
+[Cheats/Infinite Nitoh-ryu] 
+patch=1,EE,203DD1B8,extended,42C80000
+
+[Cheats/Unlock All Weapons] 
+patch=1,EE,103D7A9E,extended,0000FFFF
+
+[Cheats/Unlock All Enemy List Complete] 
+patch=1,EE,203D7AA0,extended,FFFFFFFF
+patch=1,EE,203D7AA4,extended,FFFFFFFF
+
+[Cheats/Unlock Survival Mode] 
+patch=1,EE,203DD188,extended,00000001
+
+[Cheats/Enable Debug Menu Press Select on Controller 2] 
+patch=1,EE,102CEBD4,extended,00008000
+patch=1,EE,003D6A40,extended,00000001
+patch=1,EE,20194ADC,extended,3C02002F
+patch=1,EE,20194AE4,extended,844266D4
+patch=1,EE,20194AE8,extended,03E00008
+patch=1,EE,20194AEC,extended,A782D26C

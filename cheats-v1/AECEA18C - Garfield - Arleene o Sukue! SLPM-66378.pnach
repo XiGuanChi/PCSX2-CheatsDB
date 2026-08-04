@@ -1,0 +1,22 @@
+[Cheats/99 Credits] 
+patch=1,EE,01DB8274,extended,00000063
+
+[Cheats/Infinite Health] 
+patch=1,EE,11DB8272,extended,00004080
+patch=1,EE,11DB81FA,extended,00004080
+
+[Cheats/Items 9] 
+patch=1,EE,01DB8278,extended,00000009
+patch=1,EE,016D0D10,extended,00000009
+patch=1,EE,016D0D1C,extended,00000009
+patch=1,EE,016D0D28,extended,00000009
+patch=1,EE,016D0EF4,extended,00000001
+
+[Cheats/God Mode] 
+patch=1,EE,201AD530,extended,00000000
+
+[Cheats/God Mode From High Falls] 
+patch=1,EE,201ABF34,extended,00000000
+
+[Cheats/Enemies Ignore Garfield] 
+patch=1,EE,201E02A0,extended,00000000

@@ -1,0 +1,17 @@
+[Cheats/Infinite Health] 
+patch=1,EE,212E9FE4,extended,42C80000
+
+[Cheats/Infinite Grip] 
+patch=1,EE,212E9FE0,extended,42C80000
+
+[Cheats/Infinite Health ASM Version] 
+patch=1,EE,21369520,extended,00000000
+
+[Cheats/1 Hit Kill] 
+patch=1,EE,E0029FE4,extended,01369420
+patch=1,EE,412E55A4,extended,00130002
+patch=1,EE,43C80000,extended,00000000
+
+[Cheats/Start Game Standing + Have All Save Altars On Your Map] 
+patch=1,EE,E0019FE4,extended,01369420
+patch=1,EE,212E58D0,extended,03FFFFFC

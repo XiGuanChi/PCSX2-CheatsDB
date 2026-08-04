@@ -1,0 +1,138 @@
+[Cheats/Max Cash] 
+patch=1,EE,20102D30,extended,05F5E0FF
+patch=1,EE,20102D34,extended,05F5E0FF
+
+[Cheats/Time 0]  
+patch=1,EE,20102D38,extended,00000000
+
+[Cheats/Max Soul Meter]  
+patch=1,EE,10100130,extended,0000270F
+
+[Cheats/Max Cash in one battle] 
+patch=1,EE,20399288,extended,00000000 
+
+[Cheats/Max EXP in one battle]  
+patch=1,EE,203C2050,extended,00000000
+
+[Cheats/HP & MP recovery After Combat] 
+patch=1,EE,203C23E8,extended,0803E800
+patch=1,EE,200FA000,extended,8619001C
+patch=1,EE,200FA004,extended,A619001E
+patch=1,EE,200FA008,extended,86190020
+patch=1,EE,200FA00C,extended,A6190022
+patch=1,EE,200FA010,extended,DFBF0020
+patch=1,EE,200FA014,extended,080F08FC
+
+[Cheats/Max HP] 
+patch=1,EE,203C21EC,extended,00000000
+
+[Cheats/Max MP] 
+patch=1,EE,203C221C,extended,00000000
+
+[Cheats/Max HP In battle If you receive damage that exceeds the HP limit, you will die] 
+patch=1,EE,D0501DDC,extended,0000006C 
+patch=1,EE,20501DFC,extended,8C62012C 
+patch=1,EE,D0501DDC,extended,0000006C 
+patch=1,EE,20501E04,extended,AC620130. 
+
+[Cheats/Max MP In battle] 
+patch=1,EE,D0502164,extended,0000006C 
+patch=1,EE,20502184,extended,A4430134
+patch=1,EE,D0502164,extended,0000006C
+patch=1,EE,2050218C,extended,A4430136
+
+[Cheats/Max SP In battle]  
+patch=1,EE,D05025CC,extended,0000006C
+patch=1,EE,205025E8,extended,00431821
+patch=1,EE,D05025CC,extended,0000006C
+patch=1,EE,205025EC,extended,84620138
+patch=1,EE,D05025CC,extended,0000006C
+patch=1,EE,205025F4,extended,A462013A
+
+[Cheats/Ring Bar speed 50% In battle]  
+patch=1,EE,202FCDAC,extended,00000000 
+patch=1,EE,202FCDB4,extended,3C024000
+
+[Cheats/No Random Encounter With Enemies Invalid for enemies whose appearance position is fixed] 
+patch=1,EE,D0503348,extended,0000017D
+patch=1,EE,20503348,extended,2402FFFF
+
+[Cheats/All Emblems] 
+patch=1,EE,20100D4C,extended,FFFFFFFF 
+patch=1,EE,20100D50,extended,FFFFFFFF 
+patch=1,EE,20100D54,extended,FFFFFFFF 
+patch=1,EE,20100D58,extended,FFFFFFFF 
+patch=1,EE,20100D5C,extended,FFFFFFFF
+
+[Cheats/All of Ur's Fusion Techniques and Kurando's exorcism incarnation techniques] 
+patch=1,EE,00100FF6,extended,0000007F
+patch=1,EE,10100E74,extended,0000FFFF
+
+[Cheats/All Blanka Techniques & Wolf Bout]  
+patch=1,EE,00101107,extended,0000000C
+patch=1,EE,20101108,extended,03020100
+patch=1,EE,2010110C,extended,07060504
+patch=1,EE,20101110,extended,0B0A0908
+
+[Cheats/All Cornelia Techniques] 
+patch=1,EE,10103028,extended,00003FFF
+
+[Cheats/All Cornelia Clothes] 
+patch=1,EE,1010106C,extended,00000FFF
+
+[Cheats/Anastasia All Snapshots Taken] 
+patch=1,EE,20101090,extended,FFFFFFFF
+patch=1,EE,20101094,extended,FFFFFFFF
+patch=1,EE,20101098,extended,FFFFFFFF
+patch=1,EE,2010109C,extended,FFFFFFFF
+patch=1,EE,201010A0,extended,FFFFFFFF
+patch=1,EE,201010A4,extended,FFFFFFFF
+patch=1,EE,201010A8,extended,FFFFFFFF
+patch=1,EE,201010AC,extended,FFFFFFFF
+
+[Cheats/Anastasia All Album Techniques] 
+patch=1,EE,001010F3,extended,000000FF
+patch=1,EE,001010F4,extended,00000003
+
+[Cheats/Joachim All Techniques] 
+patch=1,EE,001010F9,extended,0000000F
+
+[Cheats/Lucia All Aroma Oil And Tarot]  
+patch=1,EE,0010106F,extended,000000FF
+patch=1,EE,20101070,extended,FFFFFFFF
+
+[Cheats/Max Shop Ring Success Rate Of Score] 
+patch=1,EE,20102FF8,extended,0001869F
+patch=1,EE,20102FFC,extended,0001869F
+
+[Cheats/Max Shop Points] 
+patch=1,EE,20102FE8,extended,000F423F
+
+[Cheats/Unlock All Character Diagram Looking at items during combat has no effect. Obtain all weapons, armor, items, accessories, and ring items Key items and emblems will not increase.] 
+patch=1,EE,D04DCFB4,extended,00000021 
+patch=1,EE,204DCFA8,extended,24040063 
+patch=1,EE,D04DCFB4,extended,00000021 
+patch=1,EE,204DCFAC,extended,A0440000
+
+[Cheats/Ring custom Expandable regardless of number of possessions] 
+patch=1,EE,D0470124,extended,00000174 
+patch=1,EE,20470130,extended,24020063 
+
+[Cheats/Unlock All Theater Mode Needs a Save After loading the data, you can view it from the title] 
+patch=1,EE,20100000,extended,FFFFFFFF
+patch=1,EE,20100004,extended,FFFFFFFF
+patch=1,EE,20100008,extended,FFFFFFFF
+patch=1,EE,2010000C,extended,FFFFFFFF
+patch=1,EE,20100010,extended,FFFFFFFF
+patch=1,EE,20100014,extended,FFFFFFFF
+
+[Cheats/Unlock All Monster Encyclopedia Needs a Save After loading the data, you can view it from the title] 
+patch=1,EE,00101073,extended,000000FF
+patch=1,EE,20101074,extended,FFFFFFFF
+patch=1,EE,20101078,extended,FFFFFFFF
+patch=1,EE,2010107C,extended,FFFFFFFF
+patch=1,EE,20101080,extended,FFFFFFFF 
+patch=1,EE,20101084,extended,FFFFFFFF
+patch=1,EE,20101088,extended,FFFFFFFF
+patch=1,EE,2010108C,extended,FFFFFFFF
+

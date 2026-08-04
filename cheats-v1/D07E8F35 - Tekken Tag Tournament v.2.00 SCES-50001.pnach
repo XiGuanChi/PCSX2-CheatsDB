@@ -1,0 +1,12 @@
+[Cheats/Infinite Health P1] 
+patch=1,EE,2087D934,extended,00097330
+patch=1,EE,2087D938,extended,00097330
+
+[Cheats/1 hit KO P2] 
+patch=1,EE,208891D4,extended,00000001
+patch=1,EE,208891D8,extended,00000001
+
+[Cheats/Unlock All Movies, Characters, Gallery And Tekken bowl]
+patch=1,EE,2043DFB0,extended,FFFFFFFF
+patch=1,EE,2043DFB4,extended,FFFFFFFF
+patch=1,EE,2043DFB8,extended,FFFFFFFF

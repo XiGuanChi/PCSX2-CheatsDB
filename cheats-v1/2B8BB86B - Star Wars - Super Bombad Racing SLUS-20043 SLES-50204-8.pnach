@@ -1,0 +1,32 @@
+[Cheats/Infinite Energy Human Players] 
+patch=1,EE,200C0220,extended,8C82002C
+patch=1,EE,200C0224,extended,3C014080
+patch=1,EE,200C0228,extended,AC4100CC
+patch=1,EE,200C022C,extended,03E00008
+patch=1,EE,200C0230,extended,C44000CC
+patch=1,EE,202536D0,extended,0C030088
+
+[Cheats/Infinite Boost Human Players] 
+patch=1,EE,202533FC,extended,3C014120
+patch=1,EE,20253404,extended,AE01005C
+
+[Cheats/Fly mode] 
+patch=0,EE,00256DE7,extended,00000014
+
+[Cheats/Infinite Boost] 
+patch=1,EE,202BC3EC,extended,00000000
+
+[Cheats/Always on Lap 3] 
+patch=1,EE,10AEECAC,extended,00000003
+
+[Cheats/Race as AAT Battle Tank] 
+patch=0,EE,203F20F4,extended,00000001
+
+[Cheats/Race as Darth Vader] 
+patch=0,EE,203F206C,extended,00000008
+
+[Cheats/Race as Boba Fett] 
+patch=0,EE,203F20F4,extended,00000002
+
+[Cheats/Unlock All Circuits and Courses] 
+patch=1,EE,2023E834,extended,24050001

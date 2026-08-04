@@ -1,0 +1,63 @@
+[Cheats/Max Money]  
+patch=1,EE,2062C9D4,extended,000F423F
+
+[Cheats/Max Soldier] 
+patch=1,EE,1062C9D8,extended,0000270F
+
+[Cheats/Use of Hero's Egg Eggs of Hero will remain in hand even if they are equipped with other characters] 
+patch=1,EE,2023B168,extended,4A0002FF
+patch=1,EE,2023B170,extended,4A0002FF
+patch=1,EE,2023B3B0,extended,4A0002FF
+patch=1,EE,2023B3B4,extended,4A0002FF
+
+[Cheats/Anyone can equip eggs] 
+patch=1,EE,2023C3F8,extended,17A00007
+
+[Cheats/It does not decrease even if it is equiped with screws] 
+patch=1,EE,203355E4,extended,24060000
+
+[Cheats/It does not increase even if it is removed] 
+patch=1,EE,20327C14,extended,24060000
+patch=1,EE,2023BC6C,extended,24060000
+
+[Cheats/CCC- - Required code] 
+patch=1,EE,2040FF6C,extended,0803F400
+patch=1,EE,200FD1F8,extended,03E00008
+
+[Cheats/CMC-1 - Kirefu all kinds & 99 pieces] 
+patch=1,EE,200FD000,extended,3C08004C
+patch=1,EE,200FD004,extended,2409008C
+patch=1,EE,200FD008,extended,240A0063
+patch=1,EE,200FD00C,extended,00005824
+patch=1,EE,200FD014,extended,A50B1458
+patch=1,EE,200FD018,extended,A50A145A
+patch=1,EE,200FD01C,extended,256B0001
+patch=1,EE,200FD020,extended,25080004
+patch=1,EE,200FD024,extended,2529FFFF
+patch=1,EE,200FD028,extended,1520FFF9
+
+[Cheats/All kinds of trump cards can be purchased] 
+patch=1,EE,200F7010,extended,03E00008
+patch=1,EE,200F7014,extended,28A2008B
+patch=1,EE,20240D28,extended,0803DC04
+
+[Cheats/Four eggs can be equipped] 
+patch=1,EE,200F7010,extended,03E00008
+patch=1,EE,200F7014,extended,28A2008B
+patch=1,EE,20240D28,extended,0803DC04
+
+[Cheats/Enemy ally Egomon a blow L2+Square ON L2+Circle OFF] 
+patch=1,EE,D047CF42,extended,00007EFF
+patch=1,EE,202B6C9C,extended,0000100A
+patch=1,EE,D047CF42,extended,0000BEFF
+patch=1,EE,202B6C9C,extended,0003100A
+
+[Cheats/Press SELECT In battle will recover HP] 
+patch=1,EE,200F7030,extended,3C0A0048
+patch=1,EE,200F7034,extended,814AD264
+patch=1,EE,200F7038,extended,11400002
+patch=1,EE,200F703C,extended,86433118
+patch=1,EE,200F7040,extended,A6432C9C
+patch=1,EE,200F7044,extended,080AE58A
+patch=1,EE,202FC670,extended,0C03DC0C
+

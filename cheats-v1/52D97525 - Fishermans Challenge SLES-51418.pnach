@@ -1,0 +1,31 @@
+[Cheats/Max Cash]
+patch=1,EE,21CFF0BC,extended,0098967F
+
+[Cheats/Have All Lures] 
+patch=1,EE,200C0000,extended,23BDFFF8
+patch=1,EE,200C0004,extended,AFA50000
+patch=1,EE,200C0008,extended,AFA60004
+patch=1,EE,200C000C,extended,34040901
+patch=1,EE,200C0010,extended,3C0501D0
+patch=1,EE,200C0014,extended,34A5083A
+patch=1,EE,200C0018,extended,24A6006A
+patch=1,EE,200C001C,extended,A4A40000
+patch=1,EE,200C0020,extended,14A6FFFE
+patch=1,EE,200C0024,extended,24A50002
+patch=1,EE,200C0028,extended,8FA60004
+patch=1,EE,200C002C,extended,8FA50000
+patch=1,EE,200C0030,extended,27BD0008
+patch=1,EE,200C0034,extended,080481FB
+patch=1,EE,200C0038,extended,0220202D
+patch=1,EE,201207E4,extended,08030000
+
+[Cheats/Have All Reels] 
+patch=1,EE,11D008B2,extended,00000101
+patch=1,EE,21D008B4,extended,01010101
+patch=1,EE,21D008B8,extended,01010101
+
+[Cheats/Have All Rods] 
+patch=1,EE,11D008A6,extended,00000101
+patch=1,EE,21D008A8,extended,01010101
+patch=1,EE,21D008Ac,extended,01010101
+patch=1,EE,11D008B0,extended,00000101

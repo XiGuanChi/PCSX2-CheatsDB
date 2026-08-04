@@ -1,0 +1,23 @@
+[Cheats/Always Have 99 Lives ] 
+patch=1,EE,2051E7C4,extended,00000063
+
+[Cheats/Invulnerable]  
+patch=1,EE,204A1780,extended,10000003
+patch=1,EE,204A1790,extended,24020064
+
+[Cheats/1 Killed Enemy Is Worth 50 Killed Enemies]  
+patch=1,EE,204ACFC0,extended,24420032
+
+[Cheats/1 Hit Kill All Bosses]  
+patch=1,EE,204B7E24,extended,24020000
+patch=1,EE,204B0D5C,extended,24020000
+patch=1,EE,204B4144,extended,24020000
+patch=1,EE,204B9FD4,extended,24020000
+patch=1,EE,204B6488,extended,24020000
+
+[Cheats/Only 1 Enemy Must Be Killed To Unlock Bonus Level] 
+patch=1,EE,204D9A00,extended,00000000
+
+[Cheats/Untouchable In Boss Levels]  
+patch=1,EE,204947AC,extended,1000004E
+patch=1,EE,204B01DC,extended,1000003F

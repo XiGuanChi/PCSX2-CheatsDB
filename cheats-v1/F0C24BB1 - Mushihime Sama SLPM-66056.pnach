@@ -1,0 +1,43 @@
+[Cheats/Infinite Lives P1] 
+patch=1,EE,201F4AD4,extended,00000000
+
+[Cheats/Infinite Bomb P1] 
+patch=1,EE,0050DED0,extended,00000006
+
+[Cheats/Infinite Bomb P2] 
+patch=1,EE,0050DF98,extended,00000006
+
+[Cheats/Invulnerable]
+patch=1,EE,0050DF68,extended,000000FF
+
+[Cheats/Infinite Credits] 
+patch=1,EE,0050DECC,extended,00000007
+
+[Cheats/Infinite Credits 1P & 2P]  
+patch=1,EE,201F4AD4,extended,00000000
+
+[Cheats/Invincible In Arcade And Arrange Mode, Original, Maniac And Ultra Mode]  
+patch=1,EE,001975a8,extended,64020001
+patch=1,EE,00197978,extended,64020001
+patch=1,EE,00197a68,extended,64020001
+patch=1,EE,001da9d0,extended,64020000
+patch=1,EE,002c40ec,extended,64020001
+
+[Cheats/Best M-, W- and S-Power For Each Ship]  
+patch=1,EE,001f4a30,word,64050007
+patch=1,EE,001f4a34,word,AC850014
+patch=1,EE,001f4a38,word,03E00008
+patch=1,EE,001f4a3c,word,24020001
+patch=1,EE,001f49e0,word,64030007
+patch=1,EE,001d9ae4,word,64020007
+patch=1,EE,001d9ae8,word,00000000
+patch=1,EE,001d9c6c,word,64020007
+
+[Cheats/Infinite 6 Bombs For Every Ship]  
+patch=1,EE,001f4750,extended,64020006
+patch=1,EE,001f4790,extended,00000000
+patch=1,EE,001f47a0,extended,64030006
+patch=1,EE,001f47d0,extended,64020006
+patch=1,EE,001f47d4,extended,00000000
+patch=1,EE,001f47dc,extended,64020006
+patch=1,EE,001f4814,extended,64020006

@@ -1,0 +1,7 @@
+[Cheats/Unlock Gallery needs a savegame] 
+patch=1,EE,41768A94,extended,000F0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,01768AC7,extended,00000001
+patch=1,EE,21768AC8,extended,01010101
+patch=1,EE,11768ACC,extended,00000101
+patch=1,EE,01768A81,extended,00000001

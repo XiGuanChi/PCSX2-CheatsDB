@@ -1,0 +1,12 @@
+[Cheats/Unlock All Gallery And Music] 
+patch=1,EE,402E2DAC,extended,004D0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,202E2ED8,extended,01010101
+patch=1,EE,202E2EDC,extended,01010101
+
+[Cheats/Eternal Memory BGM Listening Option Second Advent Debug] 
+patch=1,EE,002E2EE1,extended,00000001
+patch=1,EE,002C2160,extended,00000001
+
+[Cheats/Enable Debug ModePress L2 for debug display.Press L1 in the gallery to unlock everything.Pressing R1 + Circle on controller 2 will disable the debug meter.] 
+patch=1,EE,2022FB24,extended,24020001

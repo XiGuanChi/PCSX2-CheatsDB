@@ -1,0 +1,75 @@
+[Cheats/Reward Bank Earnings 9999999] 
+patch=1,EE,001DF488,extended,0098967F
+patch=1,EE,001DF684,extended,0098967F
+patch=1,EE,001DF688,extended,0098967F
+
+[Cheats/Infinite Shield,Turbo, infinite Ammo, unlock all Tracks in Arcade Mode, always win XG Career League Races] 
+patch=1,EE,001DE2F0,extended,00000001
+patch=1,EE,001FC5F8,extended,00000017
+
+[Cheats/Stop Time Limit Decrease Counter] 
+patch=1,EE,0011df74,extended,24020000
+patch=1,EE,001dfbd8,extended,00000003
+patch=1,EE,001dfbe0,extended,000927C0
+
+[Cheats/No AI Racers in Arcade Mode]  
+patch=1,EE,00119574,extended,24030001
+
+[Cheats/No AI Racers in League Mode]  
+patch=1,EE,00118C94,extended,24020001
+
+[Cheats/Always 9 Laps to go in Arcade Mode]  
+patch=1,EE,0011953C,extended,24020009
+
+[Cheats/Always 9 Laps to go in League Mode]  
+patch=1,EE,00118C50,extended,24020009
+
+[Cheats/Infinite Laps to go in Time Trials]  
+patch=1,EE,001191A0,extended,24070000
+
+[Cheats/Infinite Boost]   
+patch=1,EE,0019c6c0,extended,46000806
+
+[Cheats/Infinite Shield]  
+patch=1,EE,00107aa0,extended,46000006
+
+[Cheats/Infinite Weapon]   
+patch=1,EE,0012bd84,extended,46000006
+
+[Cheats/Never Get Killed When Shield Down]  
+patch=1,EE,00107ad0,extended,00000000
+
+[Cheats/Have All Weapons and Engines] 
+patch=1,EE,001DF690,extended,01010101
+patch=1,EE,001DF694,extended,01010101
+patch=1,EE,001DF698,extended,01010101
+patch=1,EE,001DF69C,extended,01010101
+patch=1,EE,001DF6A0,extended,01010101
+patch=1,EE,001DF6A4,extended,01010101
+patch=1,EE,001DF6A8,extended,01010101
+patch=1,EE,001DF6AC,extended,00000101
+
+[Cheats/Unlock All Weapons and Engines available at XG Mall] 
+patch=1,EE,001DF6B0,extended,01010101
+patch=1,EE,001DF6B4,extended,01010101
+patch=1,EE,001DF6B8,extended,01010101
+patch=1,EE,001DF6BC,extended,01010101
+patch=1,EE,001DF6C0,extended,01010101
+patch=1,EE,001DF6C4,extended,01010101
+patch=1,EE,001DF6C8,extended,01010101
+patch=1,EE,001DF6CC,extended,00000001
+
+[Cheats/Unlock All Tracks in all Modes and Starcom Team] 
+patch=1,EE,001DE2E0,extended,00000000
+
+[Cheats/Unlock Starcom Team] 
+patch=1,EE,00114878,extended,24020000
+
+[Cheats/Unlock All Tracks in Arcade Mode] 
+patch=1,EE,00114834,extended,24020000
+
+[Cheats/Unlock All Tracks in League Mode] 
+patch=1,EE,001147D0,extended,24020000
+
+[Cheats/Unlock All Tracks in Time Trials] 
+patch=1,EE,00114430,extended,24020000

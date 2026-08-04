@@ -1,0 +1,12 @@
+[Cheats/Infinite Health and Ammo] 
+patch=1,EE,20270C88,extended,24440000
+
+[Cheats/Infinite Time] 
+patch=1,EE,202D7B18,extended,00000000
+
+[Cheats/Infinite Coins] 
+patch=1,EE,20635F04,extended,0000270F
+
+[Cheats/Unlock All Levels]
+patch=1,EE,40635AD8,extended,000E0003
+patch=1,EE,00000002,extended,00000000

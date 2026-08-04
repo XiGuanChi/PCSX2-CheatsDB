@@ -1,0 +1,60 @@
+[Cheats/Infinite Funds] 
+patch=1,EE,20550964,extended,05F5E0FF
+
+[Cheats/Character 1 Infinite HP In Battle] 
+patch=1,EE,20AC3C98,extended,0000270F
+patch=1,EE,20AC3C60,extended,0000270F
+
+[Cheats/Character 1 Infinite EP In Battle]
+patch=1,EE,10AC3C9C,extended,0000270F
+patch=1,EE,10AC3C64,extended,0000270F
+
+[Cheats/Character 2 Infinite HP In Battle] 
+patch=1,EE,20AC3D80,extended,0000270F
+patch=1,EE,20AC3D48,extended,0000270F
+
+[Cheats/Character 2 Infinite EP In Battle] 
+patch=1,EE,10AC3D84,extended,0000270F
+patch=1,EE,10AC3D4C,extended,0000270F
+
+[Cheats/Character 3 Infinite HP In Battle] 
+patch=1,EE,20AC3E68,extended,0000270F
+patch=1,EE,20AC3E30,extended,0000270F
+
+[Cheats/Character 3 Infinite EP In Battle] 
+patch=1,EE,10AC3E6C,extended,0000270F
+patch=1,EE,10AC3E34,extended,0000270F
+
+[Cheats/Press L1+Circle To Save Anywhere] 
+patch=1,EE,D0867382,extended,0000DBFF
+patch=1,EE,201C6D2C,extended,00000000
+patch=1,EE,D0867382,extended,0000FFFF
+patch=1,EE,201C6D2C,extended,10400032
+
+[Cheats/Enable Debug Mode] 
+patch=1,EE,D0AA0C30,extended,0000FFA0
+patch=1,EE,00AA0C7E,extended,000000E7
+patch=1,EE,201BB87C,extended,0C0962E4
+patch=1,EE,201BB88C,extended,24020402
+patch=1,EE,201BB890,extended,14510007
+patch=1,EE,201BB898,extended,0C0A2982
+patch=1,EE,201BB89C,extended,00000000
+patch=1,EE,201BB8A0,extended,10000003
+patch=1,EE,201BB8A4,extended,DFB00000
+patch=1,EE,201BB8BC,extended,0000102D
+patch=1,EE,201BB8C0,extended,03E00008
+patch=1,EE,201BB8C4,extended,27BD0020
+patch=1,EE,20258E30,extended,03E00008
+patch=1,EE,20258E34,extended,00000000
+patch=1,EE,E005FFF9,extended,004B3472
+patch=1,EE,201827D4,extended,00000000
+patch=1,EE,201BD48C,extended,0C0AAE54
+patch=1,EE,201BC050,extended,24020000
+patch=1,EE,201BD638,extended,0C06EDFC
+patch=1,EE,201BD63C,extended,00000000
+patch=1,EE,E005FFF6,extended,004B3472
+patch=1,EE,201827D4,extended,1040002E
+patch=1,EE,201BD48C,extended,0C06EFAA
+patch=1,EE,201BC050,extended,24420002
+patch=1,EE,201BD638,extended,3C031000
+patch=1,EE,201BD63C,extended,00431024

@@ -1,0 +1,24 @@
+[Cheats/Max Money After Spend Money 9999] 
+patch=1,EE,201D1D78,extended,AC6600A4
+
+[Cheats/Max Item & Event Collection]  
+patch=1,EE,21A42B20,extended,FFFFFFFF
+patch=1,EE,21A42B24,extended,FFFFFFFF
+patch=1,EE,21A42B28,extended,FFFFFFFF
+patch=1,EE,21A42B2C,extended,FFFFFFFF
+patch=1,EE,21A42B30,extended,FFFFFFFF
+patch=1,EE,21A42B34,extended,FFFFFFFF
+
+[Cheats/Required Code] 
+patch=1,EE,205EDE00,extended,A082A082
+patch=1,EE,205EDE08,extended,A082A082
+
+[Cheats/Unlock All Special Skills]  
+patch=1,EE,405BCC80,extended,001A0001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Tactics] 
+patch=1,EE,405BCCEC,extended,000F0001
+patch=1,EE,00000006,extended,00000000
+
+

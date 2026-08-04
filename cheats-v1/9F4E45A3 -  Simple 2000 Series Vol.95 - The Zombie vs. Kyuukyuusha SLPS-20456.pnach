@@ -1,0 +1,58 @@
+[Cheats/Max Hospital Morale]  
+patch=1,EE,20206F90,extended,000003E7
+patch=1,EE,20206F94,extended,000003E7
+
+[Cheats/Max Vehicle Durability] 
+patch=1,EE,203F44E4,extended,000003E7
+patch=1,EE,203F44E8,extended,000003E7
+
+[Cheats/Number of Passengers Allowed 5] 
+patch=1,EE,203F44EC,extended,00000005
+
+[Cheats/Infinite Turbo] 
+patch=1,EE,203F44F4,extended,00000003
+
+[Cheats/Zombie Combo Addition +999] 
+patch=1,EE,2016A1E4,extended,248403E7
+patch=1,EE,2016A240,extended,248503E7
+
+[Cheats/Rescuer does not become a zombie] 
+patch=1,EE,201474D4,extended,00000000
+
+[Cheats/Rescuer does not become a zombie.Even if the zombie percentage is 100%, the rescuer will not become a zombie] 
+patch=1,EE,201473BC,extended,1000005D
+
+[Cheats/ATTACK Mode Endless Restore Car Durability SELECT+left] 
+patch=1,EE,2016AAE0,extended,00000000
+patch=1,EE,D0206A42,extended,0000FF7E
+patch=1,EE,2016AAE0,extended,AC4544E4
+
+[Cheats/ATTACK Mode Endless Stop time limit SELECT+up to stop time limit SELECT+down to reactivate time limit] 
+patch=1,EE,D0206A42,extended,0000FFEE
+patch=1,EE,20147B30,extended,24640000
+patch=1,EE,D0206A42,extended,0000FFBE
+patch=1,EE,20147B30,extended,2464FFFF
+
+[Cheats/Increase attack power per vehicle body] 
+patch=1,EE,203F3C00,extended,0000270F
+
+[Cheats/vehicle Mobile police car level] 
+patch=1,EE,203F3C04,extended,42C80000
+patch=1,EE,203F3C08,extended,45280000
+patch=1,EE,203F3C0C,extended,448D0000
+
+[Cheats/Completes immediately after development After requesting development from the mechanic, talk to it again] 
+patch=1,EE,20206FB8,extended,0001869F
+
+[Cheats/Unlock All Cars and parts developed] 
+patch=1,EE,40206FD4,extended,00050001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,00206FEA,extended,00000001
+patch=1,EE,10206FE8,extended,00000101
+patch=1,EE,10206FD2,extended,00000101
+
+[Cheats/Unlock ATTACK mode & FRONT VIEW]  
+patch=1,EE,20206E30,extended,00000001
+
+[Cheats/Unlock Tanks to Vehicle Types Used in ATTACK Mode Endless]  
+patch=1,EE,20206E34,extended,00000001

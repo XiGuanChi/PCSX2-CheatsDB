@@ -1,0 +1,29 @@
+[Cheats/Max Money] 
+patch=1,EE,2072ECB8,extended,000F423F
+
+[Cheats/Full Recovery AP with AP recovery] 
+patch=1,EE,20372024,extended,34010000
+
+[Cheats/AP recovery] 
+patch=1,EE,20372068,extended,34010000
+
+[Cheats/Win] Infinite item usage
+patch=1,EE,203721F8,extended,34020000
+
+[Cheats/Max Status]
+patch=1,EE,2072E488,extended,03E703E7
+patch=1,EE,2072E48C,extended,03E703E7
+patch=1,EE,2072E490,extended,03E703E7
+patch=1,EE,1072E494,extended,000003E7
+
+[Cheats/Unlock Gallery]  
+patch=1,EE,203739D4,extended,34020001
+
+[Cheats/Unlock All Monsters Gallery] 
+patch=1,EE,20373B04,extended,34020001
+patch=1,EE,20373A90,extended,34020001
+
+[Cheats/Unlock All Gallery]  
+patch=1,EE,2072E18C,extended,FFFFFFFF
+patch=1,EE,2072E190,extended,FFFFFFFF
+patch=1,EE,2072E194,extended,FFFFFFFF

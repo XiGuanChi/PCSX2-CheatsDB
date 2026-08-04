@@ -1,0 +1,106 @@
+[Cheats/Infinite Skill Points] 
+patch=1,EE,20659C14,extended,00000000
+
+[Cheats/Player 1 Always Wins] 
+patch=1,EE,0064EB18,extended,00000004
+patch=1,EE,0064EB24,extended,00000000
+patch=1,EE,0064ECFC,extended,00000000
+
+[Cheats/P1 Start With Score 40] 
+patch=1,EE,D064EB24,extended,00000000
+patch=1,EE,2064EB24,extended,00000003
+
+[Cheats/P1 Max Momentum Meter] 
+patch=1,EE,0064EBCB,extended,00000064
+
+[Cheats/P1 Infinite Beating Tokens] 
+patch=1,EE,0064EADB,extended,00000009
+
+[Cheats/P1 Infinite Turbo] 
+patch=1,EE,2064EBCC,extended,40466666
+
+[Cheats/P2 Scores 0] 
+patch=1,EE,2064EB18,extended,00000000
+
+[Cheats/Afrodite Max All Stats] 
+patch=1,EE,2065211C,extended,5046505A
+patch=1,EE,10652120,extended,00006450
+
+[Cheats/Bruce Max All Stats] 
+patch=1,EE,206521F8,extended,4150555A
+patch=1,EE,106521FC,extended,00006450
+
+[Cheats/Donna Max All Stats] 
+patch=1,EE,20651FBC,extended,4650505C
+patch=1,EE,10651FC0,extended,00005F53
+
+[Cheats/El Suave Max All Stats] 
+patch=1,EE,20651FE8,extended,5052505A
+patch=1,EE,10651FEC,extended,00005553
+
+[Cheats/Harley Max All Stats] 
+patch=1,EE,20652174,extended,504B5064
+patch=1,EE,10652178,extended,00005550
+
+[Cheats/Ice Trey Max All Stats] 
+patch=1,EE,20652148,extended,50584657
+patch=1,EE,1065214C,extended,00005758
+
+[Cheats/Kiku Max All Stats] 
+patch=1,EE,2065206C,extended,4B505550
+patch=1,EE,10652070,extended,0000555F
+
+[Cheats/Killer Max All Stats] 
+patch=1,EE,20651F90,extended,4B504B64
+patch=1,EE,10651F94,extended,0000505A
+
+[Cheats/Luther Max All Stats] 
+patch=1,EE,206521A0,extended,4650465A
+patch=1,EE,106521A4,extended,00005A64
+
+[Cheats/Natasha Max All Stats] 
+patch=1,EE,20652014,extended,46644B5A
+patch=1,EE,10652018,extended,00005550
+
+[Cheats/Shawnee Max All Stats] 
+patch=1,EE,206520C4,extended,55456455
+patch=1,EE,106520C8,extended,00005050
+
+[Cheats/Summer Max All Stats] 
+patch=1,EE,20651F64,extended,55505055
+patch=1,EE,10651F68,extended,0000505A
+
+[Cheats/Sven Max All Stats] 
+patch=1,EE,20652040,extended,644B505A
+patch=1,EE,10652044,extended,0000504B
+
+[Cheats/Tommy Max All Stats] 
+patch=1,EE,206520F0,extended,4B465A5F
+patch=1,EE,106520F4,extended,00005A50
+
+[Cheats/Vinny Max All Stats] 
+patch=1,EE,20652098,extended,4B52555F
+patch=1,EE,1065209C,extended,0000584B
+
+[Cheats/Unlock All Drills] 
+patch=1,EE,0064F4B0,extended,00000001
+patch=1,EE,0064F4B1,extended,00000001
+patch=1,EE,0064F4B2,extended,00000001
+patch=1,EE,0064F4B3,extended,00000001
+patch=1,EE,0064F4B4,extended,00000001
+patch=1,EE,0064F4B5,extended,00000001
+patch=1,EE,0064F4B6,extended,00000001
+patch=1,EE,0064F4B7,extended,00000001
+patch=1,EE,0064F4B8,extended,00000001
+patch=1,EE,0064F4B9,extended,00000001
+patch=1,EE,0064F4BA,extended,00000001
+patch=1,EE,0064F4BB,extended,00000001
+patch=1,EE,0064F4BC,extended,00000001
+patch=1,EE,0064F4BD,extended,00000001
+patch=1,EE,0064F4BE,extended,00000001
+patch=1,EE,0064F4BF,extended,00000001
+patch=1,EE,0064F4C0,extended,00000001
+patch=1,EE,0064F4C1,extended,00000001
+patch=1,EE,0064F4C2,extended,00000001
+patch=1,EE,0064F4C3,extended,00000001
+patch=1,EE,0064F4C4,extended,00000001

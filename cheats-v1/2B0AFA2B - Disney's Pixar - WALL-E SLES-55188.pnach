@@ -1,0 +1,22 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20578704,extended,C4800008
+patch=1,EE,00578710,extended,00000080
+
+[Cheats/Infinite Beam] 
+patch=1,EE,205786c4,extended,C4800018
+patch=1,EE,005786d2,extended,00000080
+
+[Cheats/Invincible] 
+patch=1,EE,006bb791,extended,00000001
+
+[Cheats/Infinite Laser] 
+patch=1,EE,006bb792,extended,00000001
+
+[Cheats/Infinite Vision] 
+patch=1,EE,006bb794,extended,00000001
+
+[Cheats/Infinite Time] 
+patch=1,EE,002a4404,extended,24060e10
+
+[Cheats/Unlock All Weapons] 
+patch=1,EE,006BB7A7,extended,00000001

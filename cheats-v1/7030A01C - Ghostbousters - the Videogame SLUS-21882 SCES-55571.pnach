@@ -1,0 +1,51 @@
+[Cheats/God Mode for the Player and Ghosts Have Zero Stamina Easy Catch] 
+patch=1,EE,2020C624,extended,0802800C
+patch=1,EE,200A0030,extended,8C620034
+patch=1,EE,200A0034,extended,3C04000A
+patch=1,EE,200A0038,extended,AC820028
+patch=1,EE,200A003C,extended,0808318B
+patch=1,EE,2010BD60,extended,08028000
+patch=1,EE,200A0000,extended,3C1B000A
+patch=1,EE,200A0004,extended,8F7B0028
+patch=1,EE,200A0008,extended,C49418DC
+patch=1,EE,200A000C,extended,E49418D8
+patch=1,EE,200A0010,extended,13640003
+patch=1,EE,200A0014,extended,00000000
+patch=1,EE,200A0018,extended,08042F5B
+patch=1,EE,200A001C,extended,00000000
+patch=1,EE,200A0020,extended,03E00008
+patch=1,EE,2010BD70,extended,AC8018D8
+
+[Cheats/Weapon Never Overheats] 
+patch=1,EE,2015C814,extended,00000000
+
+[Cheats/Laser Pressure Always At Zero] 
+patch=1,EE,2015C818,extended,00000000
+
+[Cheats/Damages No Cost] 
+patch=1,EE,201C6FAC,extended,E47F0000
+
+[Cheats/Money Damages Always At zero] 
+patch=1,EE,201C6FAC,extended,AC600000
+
+[Cheats/ Time In Level 0]
+patch=1,EE,2020B624,extended,E61F0058
+
+[Cheats/Unlock Gozerian Rookie Outfit Immune To Sliming Cheat]
+patch=1,EE,20231414,extended,ACA20064
+
+[Cheats/Unlock Faster Health Regeneration Cheat] 
+patch=1,EE,20231BAC,extended,A2980008
+
+[Cheats/Unlock Increased Scanning Speed Cheat] 
+patch=1,EE,20231C60,extended,A2980004
+
+[Cheats/Unlock No Equipment Overheat Cheat] 
+patch=1,EE,20231D14,extended,A298000C
+
+[Cheats/Unlock Equipment Strength Upgrade Cheat] 
+patch=1,EE,20231DC8,extended,A2980010
+
+[Cheats/Unlock Invulnerability Cheat] 
+patch=1,EE,20231D7C,extended,A2980014
+

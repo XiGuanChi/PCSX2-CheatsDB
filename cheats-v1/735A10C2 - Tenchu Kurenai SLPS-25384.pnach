@@ -1,0 +1,25 @@
+[Cheats/Score & Time indication] 
+patch=1,EE,201462C4,extended,10400001
+
+[Cheats/Infinite Health 100] 
+patch=1,EE,20180A00,extended,C6010084
+patch=1,EE,20180A0C,extended,E6010080
+patch=1,EE,2065FA38,extended,42C80000
+
+[Cheats/All Endures to have 99] 
+patch=1,EE,201D505C,extended,00431821
+patch=1,EE,201D5060,extended,24020063
+patch=1,EE,201D5068,extended,A4620000
+
+[Cheats/Stealth Condition BOSS fights invalid] 
+patch=1,EE,2017FF84,extended,24020002
+
+[Cheats/All Tools 99] 
+patch=1,EE,201D4C8C,extended,00431821
+patch=1,EE,201D4C90,extended,24020063
+patch=1,EE,201D4C98,extended,A4620000
+
+[Cheats/Invincible] 
+patch=1,EE,20180980,extended,C6010084
+patch=1,EE,2018098C,extended,E6010080
+

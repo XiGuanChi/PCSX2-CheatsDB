@@ -1,0 +1,41 @@
+[Cheats/Max Money] 
+patch=1,EE,205C1B6C,extended,3B9AC9FF
+
+[Cheats/Infinte and Max HP Ari] 
+patch=1,EE,205C1C18,extended,000003E7
+patch=1,EE,205C1C1C,extended,000003E7
+
+[Cheats/Infinte and Max HP Rosalyn] 
+patch=1,EE,205C1C68,extended,000003E7
+patch=1,EE,205C1C6C,extended,000003E7
+
+[Cheats/Infinte and Max HP Kisling] 
+patch=1,EE,205C1CB8,extended,000003E7
+patch=1,EE,205C1CBC,extended,000003E7
+
+[Cheats/Enable Debug Menus R3 for main debug menu.L3 for STG Editor. Press Select to disable it.] 
+patch=1,EE,20124824,extended,0C07A4EC
+patch=1,EE,20124828,extended,0080802D
+patch=1,EE,201E93B0,extended,3C020034
+patch=1,EE,201E93B4,extended,84429342
+patch=1,EE,201E93B8,extended,2403FFFB
+patch=1,EE,201E93BC,extended,14430002
+patch=1,EE,201E93C0,extended,24020004
+patch=1,EE,201E93C4,extended,AE02003C
+patch=1,EE,201E93C8,extended,03E00008
+patch=1,EE,201E93CC,extended,8E030020
+patch=1,EE,20133ADC,extended,0C07A4F4
+patch=1,EE,20133AE0,extended,3C020034
+patch=1,EE,201E93D0,extended,84439342
+patch=1,EE,201E93D4,extended,2404FFFD
+patch=1,EE,201E93D8,extended,14830002
+patch=1,EE,201E93DC,extended,24040002
+patch=1,EE,201E93E0,extended,AE040048
+patch=1,EE,201E93E4,extended,84449342
+patch=1,EE,201E93E8,extended,2403FFFE
+patch=1,EE,201E93EC,extended,14830002
+patch=1,EE,201E93F0,extended,00000000
+patch=1,EE,201E93F4,extended,AE000048
+patch=1,EE,201E93F8,extended,8E030048
+patch=1,EE,201E93FC,extended,03E00008
+patch=1,EE,201E9400,extended,2C620019

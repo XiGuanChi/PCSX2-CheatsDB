@@ -1,0 +1,93 @@
+[Cheats/Kurosaki Ichiya always effects items Matchbox] 
+patch=1,EE,0021AC54,extended,00000001
+
+[Cheats/Inverse Vault] 
+patch=1,EE,0021AC56,extended,00000001
+
+[Cheats/Super powerful fan] 
+patch=1,EE,0021AC58,extended,00000001
+
+[Cheats/Scoop camera] 
+patch=1,EE,0021AC5A,extended,00000001
+
+[Cheats/Dead body of a dead bird] 
+patch=1,EE,0021AC5C,extended,00000001
+
+[Cheats/explosive] 
+patch=1,EE,0021AC5E,extended,00000001
+
+[Cheats/Investigator] 
+patch=1,EE,0021AC60,extended,00000001
+
+[Cheats/Land distinction] 
+patch=1,EE,0021AC62,extended,00000001
+
+[Cheats/Search Mizoguchi]  
+patch=1,EE,0021AC64,extended,00000001
+
+[Cheats/Search Shimizu]  
+patch=1,EE,0021AC66,extended,00000001
+
+[Cheats/Search Yamaguchi] 
+patch=1,EE,0021AC68,extended,00000001
+
+[Cheats/Unhappy straw] 
+patch=1,EE,0021AC6A,extended,00000001
+
+[Cheats/Current mood appearance of Ichiya] 
+patch=1,EE,0021ACF8,extended,00000001
+patch=1,EE,2021AD00,extended,00010001
+
+[Cheats/During play mode in progress Slurry mode is sure to be aligned with slots.] 
+patch=1,EE,0021AC40,extended,00000001
+
+[Cheats/Misfortune level 100 Shimizu Shin] 
+patch=1,EE,1021A8AE,extended,00000064
+ 
+[Cheats/Change in attack Max Shimizu Shin] 
+patch=1,EE,0021A978,extended,000000C8
+
+[Cheats/Change 999999999] 
+patch=1,EE,2021AA54,extended,3B9AC9FF
+
+[Cheats/Misfortune level 100 Yamaguchi Yukio] 
+patch=1,EE,1021AA5E,extended,00000064
+
+[Cheats/Change in attack Max Keiichiro Yoshioka] 
+patch=1,EE,0021AA50,extended,000000C8
+
+[Cheats/Unlock All Extra] 
+patch=1,EE,20218960,extended,04040404
+patch=1,EE,20218964,extended,04040404
+patch=1,EE,00218968,extended,00000004
+patch=1,EE,402189D0,extended,00140001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,40218B10,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,40218B50,extended,00300001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,40218C50,extended,00030001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,202189B8,extended,01010101
+patch=1,EE,202189BC,extended,01010101
+
+[Cheats/Unlock All CG] 
+patch=1,EE,402189D0,extended,00140001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,20218960,extended,04040404
+patch=1,EE,20218964,extended,04040404
+patch=1,EE,00218968,extended,00000004
+
+[Cheats/Unlock All Memories] 
+patch=1,EE,40218B50,extended,00300001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Music] 
+patch=1,EE,002189BD,extended,000000FF
+patch=1,EE,002189BE,extended,000000FF
+patch=1,EE,20218B10,extended,FFFFFFFF
+patch=1,EE,20218B14,extended,FFFFFFFF
+patch=1,EE,20218B18,extended,FFFFFFFF
+
+[Cheats/Unlock Secret Room] 
+patch=1,EE,002189BB,extended,00000001

@@ -1,0 +1,23 @@
+[Cheats/Ally Unit Infinite HP and One Hit Kill] 
+patch=1,EE,20219294,extended,86A20228
+patch=1,EE,202192A8,extended,54400001
+
+[Cheats/Ally Unit Max HP, EN and SP] 
+patch=1,EE,201DEE18,extended,10600023
+patch=1,EE,201DEE20,extended,8E22021C
+patch=1,EE,201DEE24,extended,AE220220
+patch=1,EE,201DEE28,extended,8E220224
+patch=1,EE,201DEE2C,extended,AE220228
+patch=1,EE,201DEE30,extended,8E22022C
+patch=1,EE,201DEE34,extended,1000001C
+patch=1,EE,201DEE38,extended,AE220230
+
+[Cheats/Angel Squad When Attacking Max EN & SP] 
+patch=1,EE,20218B24,extended,8E430224
+patch=1,EE,20218B28,extended,AE430228
+
+[Cheats/SLG Operation Time Stop] 
+patch=1,EE,201A5C68,extended,10000004
+
+[Cheats/Unlock All Bonus Save not Reflected] 
+patch=1,EE,2010DCFC,extended,24020001

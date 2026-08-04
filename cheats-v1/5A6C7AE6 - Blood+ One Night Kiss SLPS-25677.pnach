@@ -1,0 +1,25 @@
+[Cheats/Infinte Health] 
+patch=1,EE,204A48CC,extended,0000012C
+patch=1,EE,204A48C8,extended,0000015E
+
+[Cheats/L3+R3 For Stage Select while in map] 
+patch=1,EE,201F8C60,extended,0C096092
+patch=1,EE,20258248,extended,3C020045
+patch=1,EE,2025824C,extended,84427742
+patch=1,EE,20258250,extended,2403FFF9
+patch=1,EE,20258254,extended,14430002
+patch=1,EE,20258258,extended,2402FFFE
+patch=1,EE,2025825C,extended,ACC23D7C
+patch=1,EE,20258260,extended,8CC33D7C
+patch=1,EE,20258264,extended,03E00008
+patch=1,EE,20258268,extended,2402FFFE
+
+[Cheats/Unlock All SPECIAL] 
+patch=1,EE,404A3EDC,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock BLUE MOUNTAIN + PERFECT KISS in Title screen] 
+patch=1,EE,004A3ED8,extended,00000002
+
+[Cheats/Replace Tsubasa illustrated book with Main Debug Menu] 
+patch=1,EE,0024A874,extended,00000008

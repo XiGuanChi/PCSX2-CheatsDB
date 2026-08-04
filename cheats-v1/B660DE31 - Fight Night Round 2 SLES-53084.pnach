@@ -1,0 +1,11 @@
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,000C0000,extended,00000001
+
+[Cheats/Infinite Energy Player 1] 
+patch=1,EE,000C0001,extended,00000001
+
+[Cheats/No Health Player 2]  
+patch=1,EE,000C0002,extended,000000FF
+
+[Cheats/No Energy Player 2] 
+patch=1,EE,000C0003,extended,000000FF

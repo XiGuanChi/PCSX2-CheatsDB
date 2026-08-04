@@ -1,0 +1,10 @@
+[Cheats/50-50 Lifeline Removes All Wrong Answers] 
+patch=1,EE,20114460,extended,AE200000
+
+[Cheats/Infinite Lifelines] 
+patch=1,EE,20112564,extended,AE40000C
+patch=1,EE,2011258C,extended,AE400010
+patch=1,EE,201125A4,extended,AE400014
+
+[Cheats/Show Correct Answer] 
+patch=1,EE,201111CC,extended,24450000

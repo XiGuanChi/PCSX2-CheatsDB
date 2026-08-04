@@ -1,0 +1,162 @@
+[Cheats/Simulation Mode Max Cash] 
+patch=1,EE,209539F8,extended,3B9AC9FF
+
+[Cheats/Freeze Timer Press L3 On R3 Off] 
+patch=1,EE,D02EBE42,extended,0000FFFD
+patch=1,EE,201F0D30,extended,24420000
+patch=1,EE,D02EBE42,extended,0000FFFB
+patch=1,EE,201F0D30,extended,2442003C
+
+[Cheats/Always On Lap 3] 
+patch=1,EE,01FA1E58,extended,00000003
+patch=1,EE,01FBCB74,extended,00000003
+
+[Cheats/Opponents Don't Drive] 
+patch=1,EE,201F40D0,extended,00000000
+
+[Cheats/Auto Pilot Don't use it in Course License races] 
+patch=1,EE,201E4B7C,extended,00000000
+patch=1,EE,201E4B94,extended,24020002
+patch=1,EE,201E4B98,extended,00000000
+patch=1,EE,201F4754,extended,24070002
+
+[Cheats/Unlock All Licences] 
+patch=1,EE,40972F30,extended,00080055
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,409739D0,extended,00080055
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,40974470,extended,00080055
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,40974F10,extended,00080055
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,409759B0,extended,00080055
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,40976450,extended,00080055
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Unlock All B Licences] 
+patch=1,EE,20972F30,extended,00000000
+patch=1,EE,20973084,extended,00000000
+patch=1,EE,209731D8,extended,00000000
+patch=1,EE,2097332C,extended,00000000
+patch=1,EE,20973480,extended,00000000
+patch=1,EE,209735D4,extended,00000000
+patch=1,EE,20973728,extended,00000000
+patch=1,EE,2097387C,extended,00000000
+
+[Cheats/Unlock All A Licences] 
+patch=1,EE,209739D0,extended,00000000
+patch=1,EE,20973B24,extended,00000000
+patch=1,EE,20973C78,extended,00000000
+patch=1,EE,20973DCC,extended,00000000
+patch=1,EE,20973F20,extended,00000000
+patch=1,EE,20974074,extended,00000000
+patch=1,EE,209741C8,extended,00000000
+patch=1,EE,2097431C,extended,00000000
+
+[Cheats/Unlock All IB Licences] 
+patch=1,EE,20974470,extended,00000000
+patch=1,EE,209745C4,extended,00000000
+patch=1,EE,20974718,extended,00000000
+patch=1,EE,2097486C,extended,00000000
+patch=1,EE,209749C0,extended,00000000
+patch=1,EE,20974B14,extended,00000000
+patch=1,EE,20974C68,extended,00000000
+patch=1,EE,20974DBC,extended,00000000
+
+[Cheats/Unlock All IA Licences] 
+patch=1,EE,20974F10,extended,00000000
+patch=1,EE,20975064,extended,00000000
+patch=1,EE,209751B8,extended,00000000
+patch=1,EE,2097530C,extended,00000000
+patch=1,EE,20975460,extended,00000000
+patch=1,EE,209755B4,extended,00000000
+patch=1,EE,20975708,extended,00000000
+patch=1,EE,2097585C,extended,00000000
+
+[Cheats/Unlock All S Licences] 
+patch=1,EE,209759B0,extended,00000000
+patch=1,EE,20975B04,extended,00000000
+patch=1,EE,20975C58,extended,00000000
+patch=1,EE,20975DAC,extended,00000000
+patch=1,EE,20975F00,extended,00000000
+patch=1,EE,20976054,extended,00000000
+patch=1,EE,209761A8,extended,00000000
+patch=1,EE,209762FC,extended,00000000
+
+[Cheats/Unlock All R Licences] 
+patch=1,EE,20976450,extended,00000000
+patch=1,EE,209765A4,extended,00000000
+patch=1,EE,209766F8,extended,00000000
+patch=1,EE,2097684C,extended,00000000
+patch=1,EE,209769A0,extended,00000000
+patch=1,EE,20976AF4,extended,00000000
+patch=1,EE,20976C48,extended,00000000
+patch=1,EE,20976D9C,extended,00000000
+
+[Cheats/Beginners League Codes All Gold 4WD Challenge] 
+patch=1,EE,20976F90,extended,00000000
+patch=1,EE,20976F94,extended,00000000
+patch=1,EE,20976F98,extended,00000000
+
+[Cheats/All Gold 80's Sports Car]
+patch=1,EE,20976FB4,extended,00000000
+patch=1,EE,20976FB8,extended,00000000
+patch=1,EE,20976FBC,extended,00000000
+
+[Cheats/All Gold Club Man Cup] 
+patch=1,EE,20977050,extended,00000000
+patch=1,EE,20977054,extended,00000000
+patch=1,EE,20977058,extended,00000000
+
+[Cheats/All Gold FF Challenge] 
+patch=1,EE,20977128,extended,00000000
+patch=1,EE,2097712C,extended,00000000
+patch=1,EE,20977130,extended,00000000
+
+[Cheats/All Gold FR Challenge] 
+patch=1,EE,2097714C,extended,00000000
+patch=1,EE,20977150,extended,00000000
+patch=1,EE,20977154,extended,00000000
+
+[Cheats/All Gold Lightweight Sports Car] 
+patch=1,EE,209772DC,extended,00000000
+patch=1,EE,209772E0,extended,00000000
+patch=1,EE,209772E4,extended,00000000
+
+[Cheats/All Gold MR Challenge] 
+patch=1,EE,20977300,extended,00000000
+patch=1,EE,20977304,extended,00000000
+patch=1,EE,20977308,extended,00000000
+
+[Cheats/All Gold Race Of NA Sports] 
+patch=1,EE,20977324,extended,00000000
+patch=1,EE,20977328,extended,00000000
+patch=1,EE,2097732C,extended,00000000
+
+[Cheats/All Gold Race Of Turbo Sports] 
+patch=1,EE,209773E8,extended,00000000
+patch=1,EE,209773EC,extended,00000000
+patch=1,EE,209773F0,extended,00000000
+
+[Cheats/All Gold Spider & Roadster] 
+patch=1,EE,20977374,extended,00000000
+patch=1,EE,20977378,extended,00000000
+patch=1,EE,2097737C,extended,00000000
+
+[Cheats/All Gold Stars And Stripes] 
+patch=1,EE,2097738C,extended,00000000
+patch=1,EE,20977390,extended,00000000
+patch=1,EE,20977394,extended,00000000
+patch=1,EE,20977398,extended,00000000
+
+[Cheats/All Gold Sunday Cup] 
+patch=1,EE,209773AC,extended,00000000
+patch=1,EE,209773B0,extended,00000000
+patch=1,EE,209773B4,extended,00000000
+
+[Cheats/Auto Pilot Single Race - Press L3 to activate, R3 to disable] 
+patch=1,EE,D02EA812,extended,0000FFFD
+patch=1,EE,11FBEC48,extended,00000200
+patch=1,EE,D02EA812,extended,0000FFFB
+patch=1,EE,11FBEC48,extended,00000000

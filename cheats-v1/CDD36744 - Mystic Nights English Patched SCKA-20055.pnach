@@ -1,0 +1,14 @@
+[Cheats/Infinite Health] 
+patch=1,EE,001f98f0,extended,84c30012
+
+[Cheats/Infinity Armor Bruce] 
+patch=1,EE,204A1F00,extended,0FFF000F
+
+[Cheats/Infinite Pistol Ammo] 
+patch=1,EE,001f7f90,extended,24420000
+
+[Cheats/Infinite Pistol Spare Ammo]
+patch=1,EE,001F8984,extended,24420000
+
+[Cheats/Infinite Ammo All] 
+patch=1,EE,201F7F94,extended,C6E20030

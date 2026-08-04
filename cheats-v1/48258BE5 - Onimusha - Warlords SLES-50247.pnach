@@ -1,0 +1,37 @@
+[Cheats/Infinite Health]  
+patch=1,EE,10293CB0,extended,00000080
+
+[Cheats/Infinite Lightning magic] 
+patch=1,EE,1029357E,extended,00000080
+
+[Cheats/Infinite Fire Magic]  
+patch=1,EE,10293580,extended,00000080
+
+[Cheats/Infinite Wind Magic]
+patch=1,EE,10293582,extended,00000080
+
+[Cheats/Infinite Fire Arrows] 
+patch=1,EE,20293418,extended,3000FF18
+
+[Cheats/Infinite Bullets]  
+patch=1,EE,20293420,extended,3000FF19
+
+[Cheats/Infinite Burst Bullets] 
+patch=1,EE,20293424,extended,3000FF1A
+
+[Cheats/Infinite Enhancement points] 
+patch=1,EE,102933C4,extended,0000C350
+
+[Cheats/Keep Map] 
+patch=1,EE,202934FC,extended,0000FF83
+
+[Cheats/Max Collected Souls] 
+patch=1,EE,102933C8,extended,0000D6D9
+
+[Cheats/1 Hit Win Final Boss] 
+patch=1,EE,D0B73200,extended,00002EE0
+patch=1,EE,10B73200,extended,00000000
+
+[Cheats/All Fluorite] 
+patch=1,EE,2029345C,extended,30001407
+

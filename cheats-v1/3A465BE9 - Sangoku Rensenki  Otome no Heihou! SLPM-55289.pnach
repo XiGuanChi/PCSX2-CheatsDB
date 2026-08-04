@@ -1,0 +1,3 @@
+[Cheats/Enable Debug Mode will grant access to a sound test in the sound menu.Controller 2 Circle to toggle debug modes.Square to toggle Debug flag on or off. This unlocks everything in the game.Holding Triangle + X when the game is first starting up will allow you to turn on progressive mode] 
+patch=1,EE,20348410,extended,00000001
+patch=1,EE,0018DB60,extended,00000003

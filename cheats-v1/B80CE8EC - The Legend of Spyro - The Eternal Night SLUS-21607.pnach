@@ -1,0 +1,33 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20955C98,extended,42500000
+patch=1,EE,20955C9C,extended,42C80000
+
+[Cheats/Infinite Magic] 
+patch=1,EE,20955CD0,extended,41F00000
+
+[Cheats/Infinite Fury] 
+patch=1,EE,20955CEC,extended,43160000
+
+[Cheats/Infinite Level Ups] 
+patch=1,EE,20955CB4,extended,540BE400
+
+[Cheats/Infinite Dragon Time] 
+patch=1,EE,20955D24,extended,41F00000
+
+[Cheats/Unlock All Primary Breaths] 
+patch=1,EE,40955D98,extended,00040008
+patch=1,EE,00000003,extended,00000000
+
+[Cheats/Unlock All Secondary Breaths]  
+patch=1,EE,40955D9C,extended,00040008
+patch=1,EE,00000003,extended,00000000
+
+[Cheats/Unlock Level Select]  
+patch=1,EE,00C37BD4,extended,00000001
+patch=1,EE,00C37BD5,extended,00000001
+patch=1,EE,00C351D4,extended,00000001
+patch=1,EE,00C351D5,extended,00000001
+patch=1,EE,00C35354,extended,00000001
+patch=1,EE,00C35355,extended,00000001
+
+

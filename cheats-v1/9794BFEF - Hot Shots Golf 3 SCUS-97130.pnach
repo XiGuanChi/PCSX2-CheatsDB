@@ -1,0 +1,45 @@
+[Cheats/Max Points] 
+patch=1,EE,20535F8C,extended,0001869F
+
+[Cheats/Max Pinch Hit Coupons] 
+patch=1,EE,0057FCFD,extended,00000063
+
+[Cheats/Player 1 Infinite Power Shots] 
+patch=1,EE,1057FC10,extended,0000000F
+
+[Cheats/Always Hole In One Player 1] 
+patch=1,EE,40535E28,extended,00120005
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Have All Characters] 
+patch=1,EE,2057FCA0,extended,01010101
+patch=1,EE,2057FCA4,extended,01010101
+patch=1,EE,2057FCA8,extended,01010101
+patch=1,EE,2057FCAC,extended,01010101
+
+[Cheats/Have All Caddys] 
+patch=1,EE,2057FCB0,extended,01010101
+patch=1,EE,1057FCB4,extended,00000101
+patch=1,EE,0057FCB6,extended,00000001
+
+[Cheats/Have All Courses]  
+patch=1,EE,0057FCB7,extended,00000002
+patch=1,EE,2057FCB8,extended,02020202
+
+[Cheats/Have All Items]  
+patch=1,EE,0057FCBD,extended,00000003
+patch=1,EE,1057FCBE,extended,00000303
+patch=1,EE,4057FCC0,extended,000E0001
+patch=1,EE,03030303,extended,00000000
+patch=1,EE,1057FCF8,extended,00000303
+
+[Cheats/Have All Clubs] 
+patch=1,EE,1057FCFE,extended,00000303
+patch=1,EE,2057FD00,extended,03030303
+
+[Cheats/Have All Balls] 
+patch=1,EE,2057FD04,extended,03030303
+patch=1,EE,2057FD08,extended,03030303
+
+[Cheats/Enable Debug Mode Press L3 to enable a debug menu when either fully on a course, or when you're in the top-down view of the course. The main debug menu allows you to toggle various settings, change characters, and play sounds and animations.The first small debug menu seems to have no effect. ] 
+patch=1,EE,0033EB04,extended,00000001

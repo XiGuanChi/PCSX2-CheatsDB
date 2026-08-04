@@ -1,0 +1,58 @@
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,2050CB38,extended,00640064
+
+[Cheats/Infinite Special 1P] 
+patch=1,EE,2050CB40,extended,00320032
+
+[Cheats/No Damage + 1 Hit Death Mode ON 1P only] 
+patch=1,EE,202B4ED0,extended,0C0C927C
+patch=1,EE,202B4EDC,extended,0080A025
+patch=1,EE,202B4EE0,extended,10550193
+
+[Cheats/Player 1P Support Required Codes] 
+patch=1,EE,200F4000,extended,0C0C927C
+patch=1,EE,200F4004,extended,3C040051
+patch=1,EE,200F4008,extended,1455001D
+patch=1,EE,200F400C,extended,9485CB08
+patch=1,EE,200F4078,extended,1000001F
+patch=1,EE,200F40F8,extended,080B2677
+patch=1,EE,202C99CC,extended,0803D000
+
+[Cheats/Maintain Max Life Player 1P Support]  
+patch=1,EE,200F4010,extended,96A1017A
+patch=1,EE,200F4014,extended,A6A10178
+
+[Cheats/Maintain Max Special Gauge Player 1P Support] 
+patch=1,EE,200F4018,extended,96A10182
+patch=1,EE,200F401C,extended,A6A10180
+
+[Cheats/Max Absorption Power Player 1P Support] 
+patch=1,EE,200F4020,extended,34017D00
+patch=1,EE,200F4024,extended,A6A1018E
+
+[Cheats/Kill All L2+R2+X Player 1P Support]  
+patch=1,EE,200F4080,extended,34010043
+patch=1,EE,200F4084,extended,50250001
+patch=1,EE,200F4088,extended,A6A00178
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,20503E48,extended,04040404
+patch=1,EE,20503E4C,extended,04040404
+patch=1,EE,20503E50,extended,04040404
+patch=1,EE,20503E54,extended,04040404
+patch=1,EE,20503E58,extended,04040404
+patch=1,EE,20503E5C,extended,04040404
+patch=1,EE,20503E60,extended,04040404
+patch=1,EE,20503E64,extended,04040404
+patch=1,EE,20503E68,extended,04040404
+
+[Cheats/Unlock All Stages] 
+patch=1,EE,20503E78,extended,01010101
+patch=1,EE,20503E7C,extended,01010101
+patch=1,EE,20503E80,extended,01010101
+patch=1,EE,20503E84,extended,01010101
+patch=1,EE,20503E88,extended,01010101
+patch=1,EE,20503E8C,extended,01010101
+patch=1,EE,20503E90,extended,01010101
+patch=1,EE,20503E78,extended,01010101
+patch=1,EE,20503E78,extended,01010101

@@ -1,0 +1,34 @@
+[Cheats/Special Enabler Must be on for Health Codes] 
+patch=1,EE,200A0000,extended,3C01004A
+patch=1,EE,200A0004,extended,8C229200
+patch=1,EE,200A0008,extended,10400026
+patch=1,EE,200A0010,extended,2403000A
+patch=1,EE,200A00A8,extended,8C229204
+patch=1,EE,200A00AC,extended,1040001E
+patch=1,EE,200A00B4,extended,2403000A
+patch=1,EE,200A012C,extended,03E00008
+patch=1,EE,2044A224,extended,08028000
+
+[Cheats/Invincible] 
+patch=1,EE,004869C4,extended,00000001
+
+[Cheats/Player 1 Infinite HP] 
+patch=1,EE,200a0014,extended,90431542
+patch=1,EE,200a0018,extended,a0431543
+
+[Cheats/Player 2 Infinite HP] 
+patch=1,EE,200a00b8,extended,90431542
+patch=1,EE,200a00bc,extended,a0431543
+
+[Cheats/Unlock All Extras] 
+patch=1,EE,204F6E04,extended,FFFFFFFF
+
+[Cheats/Unlock All Pause Menu Extras] 
+patch=1,EE,200a0220,extended,00661821
+patch=1,EE,200a0224,extended,3c020000
+patch=1,EE,200a0228,extended,34420000
+patch=1,EE,200a022c,extended,ac620000
+patch=1,EE,200a0230,extended,080a092d
+patch=1,EE,200a0234,extended,8c620000
+patch=1,EE,202824b0,extended,08028088
+patch=1,EE,202824b4,extended,00000000

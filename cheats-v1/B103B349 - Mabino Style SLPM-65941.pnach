@@ -1,0 +1,7 @@
+[Cheats/UnlockAll Bonus Special]  
+patch=1,EE,405C8E70,extended,04A00001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Replace New Game With Debug MenuNext page	Next page.Start from the beginning Starts a new game. Start with Skip Starts a new game. Novel Game Mode Starts in a specific mode. Quick start Sends you to the title screen.Run file Event select menu. Forest Remodel Appears to set unlock flags. Return to title Returns to the title screen.] 
+patch=1,EE,D0F8400A,extended,00000002
+patch=1,EE,00F8400A,extended,00000003

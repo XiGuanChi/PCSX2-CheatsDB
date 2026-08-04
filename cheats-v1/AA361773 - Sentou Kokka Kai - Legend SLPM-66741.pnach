@@ -1,0 +1,60 @@
+[Cheats/Total Money Faction 1 999999] 
+patch=1,EE,20CC5C68,extended,000F423F
+
+[Cheats/Total Money Faction 1 0] 
+patch=1,EE,20CC5C68,extended,00000000
+
+[Cheats/Total Money Faction 2 999999] 
+patch=1,EE,20CC6B10,extended,000F423F
+
+[Cheats/Total Money Faction 2 0] 
+patch=1,EE,20CC6B10,extended,00000000
+
+[Cheats/Total Money Faction 3 999999] 
+patch=1,EE,20CC79B8,extended,000F423F
+
+[Cheats/Total Money Faction 3 0] 
+patch=1,EE,20CC79B8,extended,00000000
+
+[Cheats/Number Of Turns 1] 
+patch=1,EE,10CC5B28,extended,00000001
+
+[Cheats/Sight Off] 
+patch=1,EE,20186828,extended,10000025
+
+[Cheats/Sight Off Alt] 
+patch=1,EE,20186628,extended,10000025
+
+[Cheats/Press SELECT+L2 To Win Faction 1 When Its Faction 1 Turn. In campaign mode, if faction 2 and later groups are set to human control or no player faction 1 wins] 
+patch=1,EE,D048591C,extended,0000FEFE
+patch=1,EE,00CC6B20,extended,000000FF
+patch=1,EE,D048591C,extended,0000FEFE
+patch=1,EE,00CC79C8,extended,000000FF
+
+[Cheats/When Producing Weapons Max Production Capacity Please note that this will also be reflected on enemy countries.] 
+patch=1,EE,201A7E50,extended,2402270F
+patch=1,EE,201A7E5C,extended,A6A2000C
+
+[Cheats/Max Resource Stockpile when expanding the city Please note that this will also be reflected in enemy countries] 
+patch=1,EE,201A80E0,extended,240203E7
+patch=1,EE,201A80EC,extended,A6A2000A
+
+[Cheats/Units that have completed their actions can be remobilized You can reactivate units that have completed their actions] 
+patch=1,EE,20196894,extended,A0C0000B
+patch=1,EE,2019A910,extended,A200000B
+patch=1,EE,2019E2F8,extended,9121000B
+patch=1,EE,2019E308,extended,3021FFFF
+patch=1,EE,2019E30C,extended,A121000B
+
+[Cheats/MAP Limited Weapon Production Possible Please note that this will also be reflected in enemy countries] 
+patch=1,EE,201417D4,extended,24020001
+
+[Cheats/Unlock All Normal MAP & weapon picture book If you save during campaign mode, it will be reflected in the save data. When resetting, please load the previous data from play data]  
+patch=1,EE,00CC5B11,extended,000000FF
+patch=1,EE,10CC5B12,extended,0000FFFF
+
+[Cheats/Debug Flag manipulation Please note that the debug flag is also reflected in the save. Turn on debugging with SELECT+R1 button Turn off debugging with SELECT+R2 button] 
+patch=1,EE,D048591C,extended,0000F7FE
+patch=1,EE,00CC5B10,extended,000000FF
+patch=1,EE,D048591C,extended,0000FDFE
+patch=1,EE,00CC5B10,extended,00000017

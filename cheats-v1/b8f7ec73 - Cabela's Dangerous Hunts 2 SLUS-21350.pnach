@@ -1,0 +1,33 @@
+[Cheats/God Mode] 
+patch=1,EE,205EFE38,extended,00000001
+
+[Cheats/Max Stumps Shot] 
+patch=1,EE,20622088,extended,0000270F
+
+[Cheats/Max Infinite Ammo] 
+patch=1,EE,204E9554,extended,240303E7
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20621A70,extended,00000001
+
+[Cheats/Never Reload] 
+patch=1,EE,204E9640,extended,00000000
+
+[Cheats/P1 Press L1+Right To Enable Idiot AI-Animals] 
+patch=1,EE,D05EBBC2,extended,0000FBDF
+patch=1,EE,20600D78,extended,00000001
+
+[Cheats/P1 Press L1+Left To No Enable Idiot AI-Animals] 
+patch=1,EE,D05EBBC2,extended,0000FB7F
+patch=1,EE,20600D78,extended,00000000
+
+[Cheats/Unlock All Missions] 
+patch=1,EE,20621F00,extended,00000010
+
+[Cheats/Game Statistics Always Low Time] 
+patch=1,EE,20621D98,extended,00000000
+patch=1,EE,20621DA0,extended,00000000
+patch=1,EE,20621DA8,extended,00000000
+
+[Cheats/Max Animals Hunted] 
+patch=1,EE,20621DF0,extended,05F5E0FF

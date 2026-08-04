@@ -1,0 +1,13 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2016B4D0,extended,C48117A8
+patch=1,EE,2016B4D8,extended,E48117A4
+
+[Cheats/Infinite Run Never Exhausted] 
+patch=1,EE,102353BE,extended,00001000
+patch=1,EE,102353F6,extended,00001000
+
+[Cheats/Enemies Don't Grab You] 
+patch=1,EE,1015CBD6,extended,00001000
+
+[Cheats/Noise Filter] 
+patch=1,EE,2047ABC0,extended,00000000

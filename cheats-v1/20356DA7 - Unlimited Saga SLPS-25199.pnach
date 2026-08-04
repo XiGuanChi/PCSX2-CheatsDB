@@ -1,0 +1,24 @@
+[Cheats/Infinite Money] 
+patch=1,EE,208533B0,extended,000F423F
+
+[Cheats/All Characters HP 999] 
+patch=1,EE,40854630,extended,00200040
+patch=1,EE,03E703E7,extended,00000000
+
+[Cheats/All Characters In Battle Max HP, LP and All Abilities] 
+patch=1,EE,40853630,extended,00070040
+patch=1,EE,03E703E7,extended,00000000
+patch=1,EE,40853634,extended,00070040
+patch=1,EE,00636305,extended,00000000
+patch=1,EE,40853640,extended,00070040
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,40853644,extended,00070040
+patch=1,EE,FFFFFF63,extended,00000000
+patch=1,EE,40853648,extended,00070040
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,4085364C,extended,00070040
+patch=1,EE,FFFFFF63,extended,00000000
+
+[Cheats/Not increase the number of turns specified] 
+patch=1,EE,00853352,extended,00000000
+

@@ -1,0 +1,36 @@
+[Cheats/James Max Health] 
+patch=1,EE,103E7876,extended,000042C8
+patch=1,EE,103E787A,extended,000042C8
+patch=1,EE,103E787E,extended,000042C8
+
+[Cheats/Maria Max Health] 
+patch=1,EE,103E7BB6,extended,000042A0
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,201B4FDC,extended,00000000
+
+[Cheats/Infinite H.Gun Ammo] 
+patch=1,EE,D111EF74,extended,00000001
+patch=1,EE,1111EF74,extended,0000000A
+
+[Cheats/Unlock Map Display] 
+patch=1,EE,01225379,extended,00000001
+
+[Cheats/Unlock Item & Weapon Acquisition Flag ON] 
+patch=1,EE,1111F660,extended,0000FFFF
+patch=1,EE,1111F662,extended,0000FFFF
+patch=1,EE,2111F664,extended,FFFFFFFF
+patch=1,EE,1111F668,extended,0000FFFF
+
+[Cheats/Speed Change] 
+patch=1,EE,D1034502,extended,0000BFFF
+patch=1,EE,203E77BC,extended,41200000
+
+[Cheats/No Increase In Number Of Saves] 
+patch=1,EE,012252FA,extended,00000000
+
+[Cheats/Unlock All Endings]  
+patch=1,EE,012252F4,extended,000000FF
+
+[Cheats/Play Time Does Not Increase] 
+patch=1,EE,11225304,extended,00000001

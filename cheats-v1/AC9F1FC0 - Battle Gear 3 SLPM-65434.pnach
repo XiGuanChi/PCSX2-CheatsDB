@@ -1,0 +1,27 @@
+[Cheats/Infinite Time] 
+patch=1,EE,104524EC,extended,00001800
+
+[Cheats/Always First Place] 
+patch=1,EE,201165B4,extended,24630000
+
+[Cheats/Enemy Cars Don't Move] 
+patch=1,EE,201165B4,extended,24630000
+
+[Cheats/Have All Cars Models And Parts ON Press L2+R2+Select OFF L2+R2+Start Please turn it ON after loading the main race data] 
+patch=1,EE,204D70C8,extended,040C020F
+patch=1,EE,204D70CC,extended,03030303
+patch=1,EE,204D70D0,extended,00000304
+patch=1,EE,200F0000,extended,240F003D
+patch=1,EE,200F0004,extended,24180000
+patch=1,EE,200F0008,extended,3C19004D
+patch=1,EE,200F000C,extended,273970A8
+patch=1,EE,200F0010,extended,DF2E0020
+patch=1,EE,200F0014,extended,872D0028
+patch=1,EE,200F0018,extended,19E00008
+patch=1,EE,200F001C,extended,25EFFFFF
+patch=1,EE,200F0020,extended,A3380000
+patch=1,EE,200F0024,extended,FF2E0020
+patch=1,EE,D0304EC2,extended,0000FCFE
+patch=1,EE,2026365C,extended,0803C000
+patch=1,EE,D0304EC2,extended,0000FCF7
+patch=1,EE,2026365C,extended,03E00008

@@ -1,0 +1,57 @@
+[Cheats/Max Money] 
+patch=1,EE,204048AC,extended,3B9AC9FF
+patch=1,EE,204048B0,extended,3B9AC9FF
+
+[Cheats/Money 99999999$] 
+patch=1,EE,20293AEC,extended,3C0205F5
+patch=1,EE,20293AF0,extended,3442E0FF
+patch=1,EE,20293AF4,extended,AE2200BC
+patch=1,EE,20293AF8,extended,10000018
+patch=1,EE,20293AFC,extended,AE2200C0
+
+[Cheats/Infinite Bulletproof Vest] 
+patch=1,EE,20253CB4,extended,3C0142C8
+patch=1,EE,20253CB8,extended,AC6104BC
+
+[Cheats/Stamina 100 Press SELECT+L2] 
+patch=1,EE,20269000,extended,3C0142C8
+patch=1,EE,20269008,extended,AE2104B8
+patch=1,EE,D03EB482,extended,0000FEFE
+patch=1,EE,20269008,extended,AE2004B8
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2014CAEC,extended,24420000
+patch=1,EE,2014CB50,extended,24420000
+patch=1,EE,2014CEE4,extended,24420000
+patch=1,EE,2014CEF0,extended,24420000
+patch=1,EE,2014CF44,extended,24420000
+
+[Cheats/No car damage] 
+patch=1,EE,201280DC,extended,00000000
+
+[Cheats/Press L1 physical reconditioning] 
+patch=1,EE,D03EB482,extended,0000FBFF
+patch=1,EE,2172CC48,extended,42C80000
+
+[Cheats/Press L2 time 5 minutes] 
+patch=1,EE,2033F80C,extended,3C020005
+patch=1,EE,D03EB482,extended,0010FBFF
+patch=1,EE,2033F80C,extended,8C620000
+patch=1,EE,2033F814,extended,AC620000
+
+[Cheats/Press R2 time becomes 0] 
+patch=1,EE,D03EB482,extended,0000FDFF
+patch=1,EE,2033F80C,extended,3C020000
+patch=1,EE,D03EB482,extended,0010FDFF
+patch=1,EE,2033F80C,extended,8C620000
+patch=1,EE,2033F814,extended,AC620000
+
+[Cheats/Slaughter mission Infinite time 60 minutes] 
+patch=1,EE,203E0F40,extended,0036EE80
+
+[Cheats/Press L2 Slaughter mission time 0 minutes] 
+patch=1,EE,D03EB482,extended,0000FEFF
+patch=1,EE,203E0F40,extended,00000000
+
+
+

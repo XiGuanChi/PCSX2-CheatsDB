@@ -1,0 +1,39 @@
+[Cheats/9.999.999 Erfahrung Charakter] 
+patch=1,EE,205289B0,extended,05F5E0FF
+
+[Cheats/99.999 Erfahrung Shinobi] 
+patch=1,EE,204FC800,extended,000F423F
+  
+[Cheats/99.999 Erfahrung Teppou] 
+patch=1,EE,204FC840,extended,000F423F
+  
+[Cheats/99.999 Erfahrung Kengou]  
+patch=1,EE,204FC880,extended,000F423F
+
+[Cheats/99.999 Erfahrung Shinobi+Teppou+Kengou] 
+patch=1,EE,404FC800,extended,00030010
+patch=1,EE,000F423F,extended,00000000
+  
+[Cheats/Yukimura Sanada max Skill Punkte] 
+patch=1,EE,204FBDF4,extended,0001869F
+ 
+[Cheats/Yukimura Sanada max Leben] 
+patch=1,EE,004FBDB0,extended,000000FF
+ 
+[Cheats/Yukimura Sanada max Musou]  
+patch=1,EE,004FBDB1,extended,000000FF
+  
+[Cheats/Yukimura Sanada max Angriff] 
+patch=1,EE,004FBDB2,extended,000000C8
+ 
+[Cheats/Yukimura Sanada max Verteidigung] 
+patch=1,EE,004FBDB3,extended,000000C8
+
+[Cheats/alle Charaktere] 
+patch=1,EE,204fcc00,extended,060D000F
+patch=1,EE,204fcc04,extended,0A090305
+patch=1,EE,204fcc08,extended,02040708
+patch=1,EE,204fcc0C,extended,010B0C0E
+ 
+[Cheats/alle Klamotten] 
+patch=1,EE,204fcc10,extended,FFFFFFFF

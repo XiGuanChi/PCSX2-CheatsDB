@@ -1,0 +1,44 @@
+[Cheats/Infinite Health Recovery] 
+patch=1,EE,207DFE40,extended,73780000
+patch=1,EE,207DFE50,extended,73780000
+
+[Cheats/Max EXP]  
+patch=1,EE,207DFEC0,extended,0098967F
+
+[Cheats/Herbal Medicine 99] 
+patch=1,EE,207DF4E4,extended,00000063
+
+[Cheats/Medicine 99] 
+patch=1,EE,207DF4F4,extended,00000063
+
+[Cheats/Yakutan 99] 
+patch=1,EE,207DF514,extended,00000063
+
+[Cheats/Ryutan 99] 
+patch=1,EE,207DF524,extended,00000063
+
+[Cheats/Shinsen Yaku 99] 
+patch=1,EE,207DF534,extended,00000063
+
+[Cheats/Ryujin Yaku 99] 
+patch=1,EE,207DF544,extended,00000063
+
+[Cheats/Shijie 99] 
+patch=1,EE,207DF554,extended,00000063
+
+[Cheats/Heavy Spirit Mark 99] 
+patch=1,EE,207DF584,extended,00000063
+
+[Cheats/Shield Spirit 99] 
+patch=1,EE,207DF594,extended,00000063
+
+[Cheats/Killing Sign 99] 
+patch=1,EE,207DF5A4,extended,00000063
+
+[Cheats/Red Soul 999] 
+patch=1,EE,207DF5E4,extended,000003E7
+
+[Cheats/Unlock Extra Menu] 
+patch=1,EE,107DFED4,extended,00000001
+patch=1,EE,407DFED8,extended,00080001
+patch=1,EE,00010000,extended,00000000

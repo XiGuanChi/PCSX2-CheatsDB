@@ -1,0 +1,24 @@
+[Cheats/Infinite Health] 
+patch=1,EE,205d0d28,extended,3c0142c8
+patch=1,EE,205d0d2c,extended,ac61018c
+
+[Cheats/God Mode] 
+patch=1,EE,007712d0,extended,00000001
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2052d5d8,extended,24420000
+
+[Cheats/Never Reload] 
+patch=1,EE,007a4638,extended,00000001
+
+[Cheats/Mission Timer Never Decreases] 
+patch=1,EE,20596fd4,extended,00000000
+
+[Cheats/Max Infinite Upgrade Points] 
+patch=1,EE,2078e750,extended,05F5E0FF
+
+[Cheats/Freeze Animals] 
+patch=1,EE,007b3d60,extended,00000001
+
+[Cheats/Stealthy] 
+patch=1,EE,007a36a0,extended,00000001

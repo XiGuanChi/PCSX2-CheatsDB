@@ -1,0 +1,39 @@
+[Cheats/Max Money After Shopping] 
+patch=1,EE,2055D144,extended,00000000
+
+[Cheats/Infinite Health All] 
+patch=1,EE,205241D0,extended,0C03FFC0
+patch=1,EE,200FFF00,extended,2401270F
+patch=1,EE,200FFF04,extended,A6210070
+patch=1,EE,200FFF08,extended,A6210074
+patch=1,EE,200FFF0C,extended,03E00008
+
+[Cheats/Infinite SP All] 
+patch=1,EE,200FFF10,extended,240103E7
+patch=1,EE,200FFF14,extended,A6210072
+patch=1,EE,200FFF18,extended,A6210076
+patch=1,EE,200FFF1C,extended,03E00008
+patch=1,EE,205241E0,extended,0C03FFC4
+
+[Cheats/All Party Available] 
+patch=1,EE,200FFF40,extended,3C017FFF
+patch=1,EE,200FFF44,extended,3421FFFF
+patch=1,EE,200FFF48,extended,ACA12220
+patch=1,EE,200FFF4C,extended,8CA32220
+patch=1,EE,200FFF50,extended,03E00008
+patch=1,EE,2053F44C,extended,0C03FFD0
+
+[Cheats/Max Health All] 
+patch=1,EE,205789B8,extended,2402270F
+
+[Cheats/Max Health All Saveable] 
+patch=1,EE,2057D51C,extended,2401270F
+patch=1,EE,205789B8,extended,A6410024
+patch=1,EE,205789BC,extended,A6210074
+
+[Cheats/Max SP All] 
+patch=1,EE,205789C0,extended,A6460026
+patch=1,EE,205789C4,extended,A6260076
+
+[Cheats/Max SP All Saveable]
+patch=1,EE,205789C0,extended,240203E7

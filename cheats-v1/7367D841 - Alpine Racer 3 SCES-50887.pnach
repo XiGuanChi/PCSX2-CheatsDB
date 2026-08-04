@@ -1,0 +1,35 @@
+[Cheats/Infinite Money]  
+patch=1,EE,20126C20,extended,3C020590
+
+[Cheats/Freeze Timer] 
+patch=1,EE,201A7040,extended,00000000
+
+[Cheats/Opponents don't move] 
+patch=1,EE,20146CC8,extended,08028000
+patch=1,EE,20146CCC,extended,7FB00000
+patch=1,EE,200A0000,extended,90830834
+patch=1,EE,200A0004,extended,3C012025
+patch=1,EE,200A0008,extended,8C21FC70
+patch=1,EE,200A000C,extended,8C2106C8
+patch=1,EE,200A0010,extended,10240003
+patch=1,EE,200A0014,extended,08051DDD
+patch=1,EE,200A001C,extended,08051B34
+
+[Cheats/Unlock All Tracks] 
+patch=1,EE,20127598,extended,20020001
+
+[Cheats/Unlock All Equipment] 
+patch=1,EE,201275C8,extended,20020001
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,20127620,extended,20020001
+
+[Cheats/Unlock All Costumes] 
+patch=1,EE,201275F8,extended,20020001
+
+[Cheats/Unlock All Theatre Option] 
+patch=1,EE,20257F90,extended,00000001
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,20126B60,extended,20020001
+

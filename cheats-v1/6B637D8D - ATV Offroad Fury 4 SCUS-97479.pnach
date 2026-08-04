@@ -1,0 +1,41 @@
+[Cheats/Max Money] 
+patch=1,EE,204B1DCC,extended,00000000
+patch=1,EE,204AE67C,extended,00000000
+
+[Cheats/Max Credits] 
+patch=1,EE,200C0230,extended,3C060098
+patch=1,EE,200C0234,extended,34C6968F
+patch=1,EE,200C0238,extended,08188712
+patch=1,EE,200C023C,extended,AC4664F8
+patch=1,EE,204B1450,extended,0C030088
+
+[Cheats/1 Lap Races] 
+patch=1,EE,205128F4,extended,00000000
+patch=1,EE,00C58800,extended,00000001
+
+[Cheats/Disable out of bounds timer] 
+patch=1,EE,20162500,extended,00000000
+
+[Cheats/Invulnerable Never fall off of ATV or Bike] 
+patch=1,EE,2021EEAC,extended,00000000
+patch=1,EE,202C5408,extended,00000000
+patch=1,EE,2021E27C,extended,00000000
+
+[Cheats/Stop and Start All Vehicles L3 and R2] 
+patch=1,EE,D0896D82,extended,0000FFFD
+patch=1,EE,2030E7D8,extended,00000000
+patch=1,EE,D0896D82,extended,0000FDFF
+patch=1,EE,2030E7D8,extended,0C0C0A5E
+
+[Cheats/Always Low Time] 
+patch=1,EE,20240304,extended,AE000024
+
+[Cheats/All Stunts Worth 50000] 
+patch=1,EE,201B3194,extended,3411C350
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,200C0220,extended,24020000
+patch=1,EE,200C0224,extended,0805050A
+patch=1,EE,200C0228,extended,AC220018
+patch=1,EE,20141418,extended,08030088
+patch=1,EE,2014141C,extended,0040082D

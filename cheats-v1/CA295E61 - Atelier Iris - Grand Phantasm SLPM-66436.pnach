@@ -1,0 +1,42 @@
+[Cheats/Max Money Cole] 
+patch=1,EE,208F3EB8,extended,000F423F
+
+[Cheats/Max Alchemy Level] 
+patch=1,EE,108F3EE6,extended,00000008
+patch=1,EE,108F3EE4,extended,00000290
+
+[Cheats/Max Increase Skill Gauge] 
+patch=1,EE,2031F10C,extended,240E03E9
+
+[Cheats/Instant Burst With Increased Burst Gauge] 
+patch=1,EE,2031F394,extended,15E00001
+
+[Cheats/Infinite Items In Battle]
+patch=1,EE,20318C18,extended,24050000
+
+[Cheats/99 Items Acquired 99 Items Picked Up and bought at the store] 
+patch=1,EE,2018429C,extended,00000000
+
+[Cheats/Max Level 50 After Battle] 
+patch=1,EE,20181364,extended,00000000
+
+[Cheats/Max Character Level After Battle]
+patch=1,EE,20181360,extended,00000000
+
+[Cheats/Max Blaze Level Obtain BP After Battle] 
+patch=1,EE,201856C0,extended,10000006
+
+[Cheats/Obtain 99 items START+Up Press to turn on  the number of 99 items  START + Down to turn off the number of 99 items] 
+patch=1,EE,D08F615C,extended,0000FFE7
+patch=1,EE,2018429C,extended,00000000
+patch=1,EE,D08F615C,extended,0000FFB7
+patch=1,EE,2018429C,extended,55E00004
+
+[Cheats/BLADES MASTER After Battle]  
+patch=1,EE,201856C0,extended,50000006
+
+[Cheats/No Random Battles L3 Normal R3, no loss of time] 
+patch=1,EE,D08F615C,extended,0000FFFD
+patch=1,EE,201F47C8,extended,4A0002FF
+patch=1,EE,D08F615C,extended,0000FFFB
+patch=1,EE,201F47C8,extended,05E10003

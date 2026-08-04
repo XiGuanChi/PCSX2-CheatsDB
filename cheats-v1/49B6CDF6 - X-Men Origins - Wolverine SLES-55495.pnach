@@ -1,0 +1,77 @@
+[Cheats/Infinite Health Points] 
+patch=1,EE,002208C4,extended,0000006C
+
+[Cheats/Max Blob Coins] 
+patch=1,EE,00b6680c,extended,00000063
+patch=1,EE,00b66ac4,extended,00000063
+
+[Cheats/No EXP Spent Leave Screen EXP Refills] 
+patch=1,EE,002ae33e,extended,00000020
+patch=1,EE,00313838,extended,8E0203c4
+
+[Cheats/Max Health Increase 
+patch=1,EE,00B66844,extended,0000003F
+
+[Cheats/Max Health Recharge] 
+patch=1,EE,00B66850,extended,0000001F
+
+[Cheats/Max Combat Damage] 
+patch=1,EE,00B6685C,extended,0000001F
+
+[Cheats/Max Rage] 
+patch=1,EE,00B66868,extended,0000000F
+
+[Cheats/Max Bullet Resistance] 
+patch=1,EE,00B66874,extended,0000000F
+
+[Cheats/Max Toughness] 
+patch=1,EE,00B66880,extended,0000000F
+
+[Cheats/Max Fetal Senses Duration] 
+patch=1,EE,00B6688C,extended,0000000F
+
+[Cheats/Max Fetal Senses Recharge] 
+patch=1,EE,00B66898,extended,0000000F
+
+[Cheats/Max Weapon X Atacks Spin Cycle]
+patch=1,EE,00B668A4,extended,0000000F
+
+[Cheats/Max Grab Finishers Separate] 
+patch=1,EE,00B668B0,extended,00000003
+
+[Cheats/Max Lunge Attacks Punishing] 
+patch=1,EE,00B668BC,extended,0000000F
+
+[Cheats/Activate In Game Cheats Memory Speedy Player] 
+patch=1,EE,00960504,extended,00000001
+
+[Cheats/Activate In Game Cheats Memory Invulnerable] 
+patch=1,EE,00960524,extended,00000001
+
+[Cheats/Activate In Game Cheats Memory Invulnerable AI] 
+patch=1,EE,00960544,extended,00000001
+
+[Cheats/Activate In Game Cheats Memory One Shot Kills] 
+patch=1,EE,00960564,extended,00000001
+
+[Cheats/Activate In Game Cheats Speedy Player] 
+patch=1,EE,0015618C,extended,00000001
+
+[Cheats/Activate In Game Cheats Activate In Game Cheats Invulnerable] 
+patch=1,EE,0021E744,extended,00000001
+
+[Cheats/Activate In Game Cheats Invulnerable AI] 
+patch=1,EE,0021E77C,extended,00000001
+
+[Cheats/Activate In Game Cheats One Shot Kills] 
+patch=1,EE,0021E7D4,extended,00000001
+
+[Cheats/Invulnerable] 
+patch=1,EE,00960524,extended,00000001
+
+[Cheats/Invulnerable AI] 
+patch=1,EE,00960544,extended,00000001
+
+[Cheats/One Hit Kill] 
+patch=1,EE,00960564,extended,00000001
+

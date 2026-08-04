@@ -1,0 +1,14 @@
+[Cheats/Infinite Ammo]  
+patch=1,EE,20283E88,extended,00000000
+
+[Cheats/Infinite Oxygen] 
+patch=1,EE,202C19F0,extended,5000001B
+
+[Cheats/Infinite Medipak Even When Using ] 
+patch=1,EE,2026A128,extended,24A20000
+
+[Cheats/Time Trial Time Limit Stopped Elapsed Time Will Increase] 
+patch=1,EE,201700B8,extended,00000000
+
+[Cheats/Unlock All Rewards and In Game Cheats not saveable]  
+patch=1,EE,201958D8,extended,2403FFFF

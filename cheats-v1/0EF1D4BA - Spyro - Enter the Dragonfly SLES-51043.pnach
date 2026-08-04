@@ -1,0 +1,14 @@
+[Cheats/Infinite Lives] 
+patch=1,EE,2034C62C,extended,00000063
+
+[Cheats/No Damage] 
+patch=1,EE,2023D184,extended,00000000
+
+[Cheats/All Breath] 
+patch=1,EE,201C4334,extended,00000000
+patch=1,EE,201C4340,extended,00000000
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,2034C91C,extended,01010101
+patch=1,EE,2034C920,extended,01010101
+patch=1,EE,2034C924,extended,00000001

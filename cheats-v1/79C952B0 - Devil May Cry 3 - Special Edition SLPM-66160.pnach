@@ -1,0 +1,29 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20220E9C,extended,C6212AA8
+patch=1,EE,20220EA4,extended,E6212AD4
+
+[Cheats/Infinite Devil Trigger Usage] 
+patch=1,EE,2031163C,extended,E44028C4
+patch=1,EE,20311640,extended,44800000
+
+[Cheats/Max Devil Trigger]  
+patch=1,EE,2021EAB8,extended,00000000
+
+[Cheats/All Weapons] 
+patch=1,EE,0078EEE7,extended,00000001
+patch=1,EE,2078EEE8,extended,01010001
+patch=1,EE,2078EEEC,extended,01010101
+patch=1,EE,0078EEF1,extended,00000001
+
+[Cheats/All Style] 
+patch=1,EE,1078EEF2,extended,00000101
+
+[Cheats/Max Red Orb 10000] 
+patch=1,EE,2078EECC,extended,37B54000
+
+[Cheats/Unlock All ENEMY· TUTORAL] 
+patch=1,EE,2078EF18,extended,FFFFFFFF
+patch=1,EE,2078EF1C,extended,FFFFFFFF
+patch=1,EE,2078EF20,extended,FFFFFFFF
+patch=1,EE,0078EF24,extended,0000000F
+

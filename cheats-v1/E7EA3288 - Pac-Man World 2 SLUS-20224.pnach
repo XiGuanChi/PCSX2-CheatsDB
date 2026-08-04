@@ -1,0 +1,15 @@
+[Cheats/Infinite Lives] 
+patch=1,EE,10495B50,extended,00000009
+
+[Cheats/Invincible] 
+patch=1,EE,201775B0,extended,03E00008
+patch=1,EE,201775B4,extended,00000000
+
+[Cheats/Ghost Are Frozen] 
+patch=1,EE,205B7B80,extended,FFFFFFFF
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,205B86C4,extended,00000001
+
+[Cheats/Unlock All Map Levels] 
+patch=1,EE,205B86C4,extended,FFFFFFFF

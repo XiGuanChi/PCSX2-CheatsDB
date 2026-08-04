@@ -1,0 +1,33 @@
+[Cheats/Infinite HP Spike - Level 1 - Aquaura Holographic Ocean Second Part] 
+patch=1,EE,206BAD70,extended,00000320
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,206BAD8C,extended,0000001E
+
+[Cheats/Infinite HP Spike - Level 2 - Dome-Town First Part] 
+patch=1,EE,206BADC0,extended,00000320
+
+[Cheats/Infinite HP Spike - Level 2 - Dome-Town Second Part] 
+patch=1,EE,206BF880,extended,00000320
+
+[Cheats/Max Money Extra mode] 
+patch=1,EE,2041CA9C,extended,3B9AC9FF
+
+[Cheats/Unlock All Gallery Extra mode] 
+patch=1,EE,2041CFE4,extended,FFFFFFFF
+patch=1,EE,2041CFE8,extended,FFFFFFFF
+patch=1,EE,2041CFEC,extended,FFFFFFFF
+patch=1,EE,2041CFF0,extended,FFFFFFFF
+patch=1,EE,1041CFF4,extended,0000FFFF
+
+[Cheats/Unlock All SOUND MUSEUM Extra mode] 
+patch=1,EE,1041CFF8,extended,0000FFFF
+
+[Cheats/Unlock BULLET FREE] 
+patch=1,EE,0041CA99,extended,00000003
+
+[Cheats/Enable Debug Menu Press Select to enable it] 
+patch=1,EE,D0495EDC,extended,00000100
+patch=1,EE,10495EF8,extended,00000800
+patch=1,EE,D0495EDC,extended,00000000
+patch=1,EE,10495EF8,extended,00000000

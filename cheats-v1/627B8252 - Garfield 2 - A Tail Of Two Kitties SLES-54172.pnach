@@ -1,0 +1,19 @@
+[Cheats/Always have Helmet and Invulnerable Effect] 
+patch=1,EE,2044C9D8,extended,00000000
+patch=1,EE,2044C9F8,extended,00000000
+patch=1,EE,2044CA00,extended,0C113238
+
+[Cheats/Always perfect musical game] 
+patch=1,EE,2045F944,extended,E4810490
+
+[Cheats/Take 1 Circle to Complete the Goal with the Goose] 
+patch=1,EE,2045BC54,extended,00000000
+
+[Cheats/Take 1 Piece of Cake to Complete the Goal] 
+patch=1,EE,2042549C,extended,340300FF
+
+[Cheats/Take 1 Watch to Complete the Goal] 
+patch=1,EE,2045BA6C,extended,00000000
+
+[Cheats/Timer Stopped] 
+patch=1,EE,2045C734,extended,1000002B

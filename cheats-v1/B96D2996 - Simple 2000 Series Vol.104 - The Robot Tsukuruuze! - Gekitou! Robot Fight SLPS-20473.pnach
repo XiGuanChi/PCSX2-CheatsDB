@@ -1,0 +1,47 @@
+[Cheats/Max money when you spend money] 
+patch=1,EE,201AED9C,extended,00000000
+
+[Cheats/Infinite Health 1P Press L3+R3]  
+patch=1,EE,D066BC3A,extended,0000FFF9
+patch=1,EE,11490252,extended,000044A8
+patch=1,EE,D066BC3A,extended,0000FFF9
+patch=1,EE,1149023E,extended,000044A8
+
+[Cheats/Infinite Match Time] 
+patch=1,EE,2011824C,extended,00000000
+patch=1,EE,2011825C,extended,00000000
+
+[Cheats/Max Production Technology when parts are manufactured] 
+patch=1,EE,201A09C8,extended,240600FF
+
+[Cheats/Max Strengthening Technology when parts are strengthened] 
+patch=1,EE,201A24D8,extended,240600FF
+
+[Cheats/Max Program Development And Program Technology] 
+patch=1,EE,201ADA28,extended,240600FF
+
+[Cheats/Max Repair Technology when repaired] 
+patch=1,EE,201A37C8,extended,240600FF
+
+[Cheats/Max Character's Full Ability When studying and when you enter subject selection]  
+patch=1,EE,201AEC60,extended,2402FFFF
+patch=1,EE,201AEC64,extended,ADE2001C
+patch=1,EE,201AEC68,extended,03E00008
+patch=1,EE,201AEC6C,extended,A1E20020
+patch=1,EE,2027F458,extended,001AEC58
+
+[Cheats/Parts Will Not Break even if strengthening fails] 
+patch=1,EE,201A1A0C,extended,00000000
+patch=1,EE,201A1A94,extended,24020001
+
+[Cheats/If The Upgrade Is Successful The Number Of Upgrades Is 0] 
+patch=1,EE,201A1BB8,extended,A6400010
+
+[Cheats/When Pt Increases With Reinforcement 9999 Pt Not valid for weight reduction] 
+patch=1,EE,201A1BF0,extended,00000000
+patch=1,EE,201A1CF8,extended,00000000
+patch=1,EE,201A1D38,extended,00000000
+patch=1,EE,201A1D78,extended,00000000
+patch=1,EE,201A1EB0,extended,00000000
+patch=1,EE,201A2030,extended,00000000
+patch=1,EE,201A2144,extended,00000000

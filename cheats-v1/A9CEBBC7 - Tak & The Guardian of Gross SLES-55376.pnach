@@ -1,0 +1,30 @@
+[Cheats/Invulnerability Enabled] 
+patch=1,EE,004A82B8,extended,00000001
+
+[Cheats/Infinite Nova Enabled] 
+patch=1,EE,004A82B4,extended,00000001
+
+[Cheats/Weak Enemies Enabled] 
+patch=1,EE,004A82C4,extended,00000001
+
+[Cheats/All Awards Achieved] 
+patch=1,EE,004A82C8,extended,00000001
+
+[Cheats/Rainbow Trail Active] 
+patch=1,EE,004A82CC,extended,00000001
+
+[Cheats/Juju Power Usable Even When It's Empty] 
+patch=1,EE,20255008,extended,10000004
+
+[Cheats/Activate All Cheats] 
+patch=1,EE,404A82B0,extended,00010002
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Minigames] 
+patch=1,EE,004A82BC,extended,00000001
+
+[Cheats/Unlock All Concept Art]  
+patch=1,EE,004A82C0,extended,00000001
+
+[Cheats/Unlock All Levels]  
+patch=1,EE,004A82B0,extended,00000001

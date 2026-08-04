@@ -1,0 +1,15 @@
+[Cheats/Infinite Health] 
+patch=1,EE,205B99F8,extended,00000001
+
+[Cheats/Infinite Energy Storm] 
+patch=1,EE,20278AC8,extended,00000000
+
+[Cheats/Disable Timer Danger Room] 
+patch=1,EE,202A1AAC,extended,00000000
+
+[Cheats/Disable Timer Missions] 
+patch=1,EE,202A1A7C,extended,00000000
+
+[Cheats/Unlock All Missions Completed] 
+patch=1,EE,405A903C,extended,001C0003
+patch=1,EE,00000001,extended,00000000

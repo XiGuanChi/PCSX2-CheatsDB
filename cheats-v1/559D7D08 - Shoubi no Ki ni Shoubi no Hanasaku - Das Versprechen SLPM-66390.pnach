@@ -1,0 +1,14 @@
+[Cheats/Unlock All Album] 
+patch=1,EE,2012BEB0,extended,240FFFFF
+patch=1,EE,2012BEB4,extended,ADAF0000
+patch=1,EE,2012BEB8,extended,24020001
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,2012C00C,extended,2402FFFF
+patch=1,EE,2012C010,extended,ACA20000
+
+[Cheats/Unlock All Notebook And Letter Collection] 
+patch=1,EE,200F8000,extended,03E00008
+patch=1,EE,200F8004,extended,ADC20004
+patch=1,EE,2010ED00,extended,0803E000
+patch=1,EE,2010ED04,extended,24020001

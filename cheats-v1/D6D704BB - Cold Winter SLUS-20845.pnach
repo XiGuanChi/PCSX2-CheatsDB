@@ -1,0 +1,78 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200FFE00,extended,8E0100F8
+patch=1,EE,200FFE04,extended,AE0100F4
+patch=1,EE,203221F4,extended,0C03FF80
+patch=1,EE,200FFE10,extended,03E00008
+patch=1,EE,200FFE14,extended,C60000F8
+
+[Cheats/Infinite Armor] 
+patch=1,EE,200FFE08,extended,8E010380
+patch=1,EE,200FFE0C,extended,AE01037C
+patch=1,EE,203221F4,extended,0C03FF80
+patch=1,EE,200FFE10,extended,03E00008
+patch=1,EE,200FFE14,extended,C60000F8
+
+[Cheats/Infnite Health & Armor] 
+patch=1,EE,200FFE00,extended,8E0100F8
+patch=1,EE,200FFE04,extended,AE0100F4
+patch=1,EE,200FFE08,extended,8E010380
+patch=1,EE,200FFE0C,extended,AE01037C
+patch=1,EE,203221F4,extended,0C03FF80
+patch=1,EE,200FFE10,extended,03E00008
+patch=1,EE,200FFE14,extended,C60000F8
+
+[Cheats/Infinite Stamina]  
+patch=1,EE,200C0260,extended,C4A108C4
+patch=1,EE,200C0264,extended,03E00008
+patch=1,EE,200C0268,extended,E4A108C0
+patch=1,EE,2032220C,extended,0C030098
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2033998C,extended,00000000
+
+[Cheats/Infinite Health 1-Hit Kill Enemy]  
+patch=1,EE,200C2000,extended,3E1B0072
+patch=1,EE,200C2004,extended,13610005
+patch=1,EE,200C2008,extended,4601001D
+patch=1,EE,200C200C,extended,44800000
+patch=1,EE,200C2010,extended,E60000F4
+patch=1,EE,200C2014,extended,080D4F4D
+patch=1,EE,200C201C,extended,080D4F4D
+patch=1,EE,20353D2C,extended,08030800
+patch=1,EE,20353D30,extended,00000000
+
+[Cheats/Infinite Stamina ASM]  
+patch=1,EE,201EE79C,extended,00000000
+
+[Cheats/Infinite Ammo No Reload ASM]  
+patch=1,EE,20339994,extended,00000000
+
+[Cheats/Infinite Ammo ASM]  
+patch=1,EE,20330F88,extended,00000000
+
+[Cheats/Infinite Oxygen ASM]  
+patch=1,EE,201EE9FC,extended,00000000
+
+[Cheats/Never Reload]  
+patch=1,EE,20339994,extended,00000000
+
+[Cheats/Max Infinite Grenades] 
+patch=1,EE,20342E5C,extended,24020063
+
+[Cheats/1 Hit Death Enemies] 
+patch=1,EE,200C0240,extended,3C01FFFF
+patch=1,EE,200C0244,extended,00272824
+patch=1,EE,200C0248,extended,3C010072
+patch=1,EE,200C024C,extended,54250001
+patch=1,EE,200C0250,extended,44800000
+patch=1,EE,200C0254,extended,080D4F4C
+patch=1,EE,200C0258,extended,3C050400
+patch=1,EE,20353D24,extended,08030090
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,4081B95C,extended,000F0030
+patch=1,EE,00000001,extended,00000000
+ 
+ [Cheats/60 FPS]   
+patch=1,EE,60720334,extended,00000001
+patch=1,EE,00020000,extended,0000008C

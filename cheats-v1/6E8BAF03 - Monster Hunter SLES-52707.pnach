@@ -1,0 +1,159 @@
+[Cheats/Infinite Money 99999999] 
+patch=1,EE,203AE360,extended,05F5E0FF
+
+[Cheats/Infinite Health] 
+patch=1,EE,003CC3F2,extended,00000096
+patch=1,EE,003CC882,extended,00000096
+
+[Cheats/Infinite endurance + Refil hunger] 
+patch=1,EE,103CC838,extended,000001C2
+patch=1,EE,103CC972,extended,000001C2
+
+[Cheats/No Poison Time] 
+patch=1,EE,103CC8AA,extended,00000000
+
+[Cheats/No Shock Time] 
+patch=1,EE,103CCA24,extended,00000000
+
+[Cheats/No Knock Out Time] 
+patch=1,EE,103CC0F7,extended,00000000
+
+[Cheats/See Monster on Map] 
+patch=1,EE,103CCA20,extended,00000121
+
+[Cheats/No Reload] 
+patch=1,EE,103CC10C,extended,000000FF
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,003CC10D,extended,00000028
+
+[Cheats/Infinite Large Bomb Plant] 
+patch=1,EE,003DB300,extended,00000000
+
+[Cheats/Infinite Meat Plant] 
+patch=1,EE,003DB301,extended,00000000
+
+[Cheats/Infinite Traps Plant] 
+patch=1,EE,003DB302,extended,00000000
+
+[Cheats/Show Monster Health L2+Select On-Off] 
+patch=1,EE,E002FEFE,extended,000F87E8
+patch=1,EE,20125120,extended,0803E200
+patch=1,EE,200F87E8,extended,1107D846
+patch=1,EE,E1010001,extended,003DB3E4
+patch=1,EE,200F8874,extended,8D25CFE0
+patch=1,EE,E1010002,extended,003DB3E4
+patch=1,EE,200F8874,extended,8D257AB0
+patch=1,EE,E1010003,extended,003DB3E4
+patch=1,EE,200F8874,extended,8D2506A0
+patch=1,EE,E1010004,extended,003DB3E4
+patch=1,EE,200F8874,extended,8D250010
+patch=1,EE,E1010005,extended,003DB3E4
+patch=1,EE,200F8874,extended,8D25F1E0
+patch=1,EE,E0508494,extended,00125120
+patch=1,EE,200F87E8,extended,FEFEFEFE
+patch=1,EE,200F8800,extended,0C048494
+patch=1,EE,200F881C,extended,0C04C168
+patch=1,EE,200F8828,extended,0C0ADA9C
+patch=1,EE,200F883C,extended,0C0ADAA4
+patch=1,EE,200F8844,extended,3C08003C
+patch=1,EE,200F8848,extended,24010A00
+patch=1,EE,200F8854,extended,810AF8E2
+patch=1,EE,200F8860,extended,29490023
+patch=1,EE,200F886C,extended,3C09008F
+patch=1,EE,200F8878,extended,8506FBE2
+patch=1,EE,200F887C,extended,85070072
+patch=1,EE,200F8884,extended,0C04BCF8
+patch=1,EE,200F8890,extended,24010013
+patch=1,EE,200F88A4,extended,3C090044
+patch=1,EE,200F88A8,extended,8529D862
+patch=1,EE,200F893C,extended,08049449
+patch=1,EE,200F8804,extended,00000000
+patch=1,EE,200F8808,extended,27BDFFE0
+patch=1,EE,200F880C,extended,7FB10010
+patch=1,EE,200F8810,extended,7FB00000
+patch=1,EE,200F8818,extended,20110000
+patch=1,EE,200F8834,extended,02212818
+patch=1,EE,200F884C,extended,02014818
+patch=1,EE,200F8850,extended,01094021
+patch=1,EE,200F8858,extended,20090000
+patch=1,EE,200F885C,extended,1940000C
+patch=1,EE,200F8864,extended,1120000A
+patch=1,EE,200F8868,extended,000A5080
+patch=1,EE,200F8870,extended,012A4821
+patch=1,EE,200F888C,extended,26310001
+patch=1,EE,200F8894,extended,5601FFE6
+patch=1,EE,200F8898,extended,26100001
+patch=1,EE,200F88AC,extended,10290020
+patch=1,EE,200F88B0,extended,24110001
+patch=1,EE,200F88B8,extended,850A0000
+patch=1,EE,200F88BC,extended,152A0018
+patch=1,EE,200F88C0,extended,322B0001
+patch=1,EE,200F88C4,extended,11600006
+patch=1,EE,200F88CC,extended,51600002
+patch=1,EE,200F88D8,extended,10000015
+patch=1,EE,200F88E0,extended,15600013
+patch=1,EE,200F88E4,extended,322B0004
+patch=1,EE,200F88F0,extended,51600002
+patch=1,EE,200F88F4,extended,24010001
+patch=1,EE,200F88F8,extended,2001FFFF
+patch=1,EE,200F88FC,extended,01816020
+patch=1,EE,200F8900,extended,05820005
+patch=1,EE,200F8904,extended,000D0821
+patch=1,EE,200F8908,extended,01AC0822
+patch=1,EE,200F890C,extended,04220002
+patch=1,EE,200F8910,extended,20010000
+patch=1,EE,200F8914,extended,000C0821
+patch=1,EE,200F8920,extended,21080002
+patch=1,EE,200F8928,extended,5621FFE3
+patch=1,EE,200F892C,extended,00118840
+patch=1,EE,200F8934,extended,7BB00000
+patch=1,EE,200F8938,extended,7BB10010
+patch=1,EE,200F8940,extended,27BD0020
+patch=1,EE,200F8880,extended,3C04000F
+patch=1,EE,200F8888,extended,34848944
+patch=1,EE,200F889C,extended,3C100010
+patch=1,EE,200F88A0,extended,860187F0
+patch=1,EE,200F88B4,extended,220887F2
+patch=1,EE,200F88C8,extended,920B8814
+patch=1,EE,200F88D0,extended,8E0187F8
+patch=1,EE,200F88D4,extended,8E0187FC
+patch=1,EE,200F88DC,extended,AE018814
+patch=1,EE,200F88E8,extended,920C87EC
+patch=1,EE,200F88EC,extended,920D87EE
+patch=1,EE,200F8918,extended,10000005
+patch=1,EE,200F891C,extended,A20187EC
+patch=1,EE,200F8924,extended,24010004
+patch=1,EE,200F8930,extended,A60987F0
+patch=1,EE,200F87EC,extended,00000000
+patch=1,EE,100F87F2,extended,00000101
+patch=1,EE,200F87F4,extended,80012001
+patch=1,EE,200F87F8,extended,10000021
+patch=1,EE,200F87FC,extended,20100000
+patch=1,EE,200F8814,extended,10000021
+patch=1,EE,E0090000,extended,000F87EC
+patch=1,EE,200F8820,extended,24040000
+patch=1,EE,200F8824,extended,24050012
+patch=1,EE,200F882C,extended,24040012
+patch=1,EE,200F8830,extended,2401000E
+patch=1,EE,200F8838,extended,24A50078
+patch=1,EE,200F8840,extended,24040018
+patch=1,EE,200F8944,extended,253A7325
+patch=1,EE,200F8948,extended,252F6435
+patch=1,EE,200F894C,extended,00000064
+
+[Cheats/[Cheats/Show Monster Health L2+Left-Right Themes] 
+patch=1,EE,E0020001,extended,000F87EC
+patch=1,EE,200F8820,extended,24040001
+patch=1,EE,200F8948,extended,252F6435
+patch=1,EE,E0020002,extended,000F87EC
+patch=1,EE,200F8820,extended,24040000
+patch=1,EE,200F8948,extended,00006435
+patch=1,EE,E0020003,extended,000F87EC
+patch=1,EE,200F8820,extended,24040001
+patch=1,EE,200F8948,extended,00006435
+patch=1,EE,E001FEFE,extended,000F87E8
+patch=1,EE,30200003,extended,000F87EE
+
+[Cheats/Performance patch] 
+patch=1,EE,00152CDC,extended,24050000

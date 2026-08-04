@@ -1,0 +1,23 @@
+[Cheats/Time Attack Time 0]  
+patch=1,EE,202C1350,extended,00000000
+
+[Cheats/Car Never Dirty] 
+patch=1,EE,2013DD00,extended,03E00008
+patch=1,EE,2013DD04,extended,00000000
+
+[Cheats/Super Glue Tyres]  
+patch=1,EE,202FD940,extended,41200000
+
+[Cheats/Super Traction] 
+patch=1,EE,202FD940,extended,40C00000
+
+[Cheats/Lightweight Chassis]  
+patch=1,EE,202FD934,extended,3F8CCCB9
+
+[Cheats/Faster 1.6 Cars]  
+patch=1,EE,202FD924,extended,40800000
+
+[Cheats/Faster 2.0 Cars]  
+patch=1,EE,202FD92C,extended,40A00000
+
+

@@ -1,0 +1,61 @@
+[Cheats/Max Score] 
+patch=1,EE,202D2660,extended,0098967F
+
+[Cheats/Infinite Time] 
+patch=1,EE,202D2668,extended,0000003B
+patch=1,EE,202D266C,extended,0000003B
+
+[Cheats/Infinite Health] 
+patch=1,EE,200C0220,extended,2401000A
+patch=1,EE,200C0224,extended,AE010F3C
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,8E0400C8
+patch=1,EE,201B7F30,extended,0C030088
+
+[Cheats/1 Hit Death Opponents] 
+patch=1,EE,201BD1A8,extended,2403001E
+
+[Cheats/Max Brick Pool] 
+patch=1,EE,202DAEE8,extended,000003E7
+
+[Cheats/Max Brickimals] 
+patch=1,EE,202DAEEC,extended,00000015
+
+[Cheats/Have Road License] 
+patch=1,EE,202DAF04,extended,00000001
+
+[Cheats/Have Sea License] 
+patch=1,EE,202DAF08,extended,00000001
+
+[Cheats/Have Air License] 
+patch=1,EE,202DAF0C,extended,00000001
+
+[Cheats/Have Secret LA F. TA 1] 
+patch=1,EE,202DAF10,extended,00000001
+
+[Cheats/Have Secret LA F. TA 2] 
+patch=1,EE,202DAF14,extended,00000001
+
+[Cheats/Have Golden LA F. TA] 
+patch=1,EE,202DAF18,extended,00000001
+
+[Cheats/Have Platinum LA F. TA] 
+patch=1,EE,202DAF1C,extended,00000001
+
+[Cheats/Infinite Double Jumps] 
+patch=1,EE,21E8783C,extended,00000001
+
+[Cheats/Unlock Unlock Air Chase] 
+patch=1,EE,002DAF78,extended,00000001
+
+[Cheats/Unlock Freeway Frenzy] 
+patch=1,EE,002DAF7C,extended,00000001
+
+[Cheats/Unlock Ripcord Rescue] 
+patch=1,EE,002DAF80,extended,00000001
+
+[Cheats/Unlock Wave Catcher] 
+patch=1,EE,002DAF84,extended,00000001
+
+[Cheats/Unlock Motorbike Mayhem] 
+patch=1,EE,002DAF88,extended,00000001

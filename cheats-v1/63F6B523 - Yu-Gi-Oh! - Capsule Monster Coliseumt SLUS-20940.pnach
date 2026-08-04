@@ -1,0 +1,14 @@
+[Cheats/Infinite AP P1] 
+patch=1,EE,104906A8,extended,0000012C
+
+[Cheats/Infinite PP P1] 
+patch=1,EE,10490188,extended,000001F4
+
+[Cheats/Infinite PP Monster 1] 
+patch=1,EE,104901B0,extended,000001F4
+
+[Cheats/Unlock View Monster Collection To Have All Monster Cards] 
+patch=1,EE,20387500,extended,94A40F08
+patch=1,EE,20387504,extended,34840101
+patch=1,EE,20387508,extended,A4A40F08
+patch=1,EE,2038750C,extended,00000000

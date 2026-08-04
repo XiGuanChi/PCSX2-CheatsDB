@@ -1,0 +1,73 @@
+[Cheats/Infinite Health] 
+patch=1,EE,201B275C,extended,C60103F8
+patch=1,EE,201B2768,extended,E60103FC
+
+[Cheats/Max Musou Gauge]  
+patch=1,EE,201A43E0,extended,E6010408
+
+[Cheats/Required Code] 
+patch=1,EE,200FF0F0,extended,0806C9DC
+patch=1,EE,201B2768,extended,0803FC00
+
+[Cheats/Max Health Gauge Use with required code] 
+patch=1,EE,200FF000,extended,8E0103F8
+patch=1,EE,200FF004,extended,AE0103FC
+
+[Cheats/Max Musou Gauge Use with required code]  
+patch=1,EE,200FF008,extended,8E010404
+patch=1,EE,200FF00C,extended,AE010408
+
+[Cheats/Increase Attack Power Use with required code] 
+patch=1,EE,200FF010,extended,3C014700
+patch=1,EE,200FF014,extended,AE010430
+
+[Cheats/Max Horse Parameters]  
+patch=1,EE,20292AC8,extended,00000000
+patch=1,EE,20292B10,extended,00000000
+patch=1,EE,20292B58,extended,00000000
+patch=1,EE,20292BA0,extended,00000000
+patch=1,EE,20292BE8,extended,00000000
+
+[Cheats/Max Horse Experience Gained] 
+patch=1,EE,202BB1FC,extended,00000000
+patch=1,EE,2075DFCC,extended,00000000
+
+[Cheats/If You Assign Skills Press L3 Effect On Will Turn Off At Point 0 Press R3] 
+patch=1,EE,D03E379C,extended,0000FFFD
+patch=1,EE,20765728,extended,24030000
+patch=1,EE,D03E379C,extended,0000FFFB
+patch=1,EE,20765728,extended,2463FFFF
+
+[Cheats/Max Status - Stamina, unrivaled, attack, defense, jump, and movement speed will be maximized .This will not be reflected in save data] 
+patch=1,EE,202B8940,extended,00000000
+patch=1,EE,202B8960,extended,00000000
+patch=1,EE,202B8980,extended,00000000
+patch=1,EE,202B89A0,extended,00000000
+patch=1,EE,202B89C0,extended,00000000
+patch=1,EE,202B89E0,extended,00000000
+
+[Cheats/Infinite Shock Waves, Bows and Stones] 
+patch=1,EE,201E8F7C,extended,00000000
+
+[Cheats/Max Valor when you obtain valor] 
+patch=1,EE,202958AC,extended,00000000
+
+[Cheats/Max After Killing Enemy] 
+patch=1,EE,20280C0C,extended,00000000
+
+[Cheats/Max Upper Limit Of Physical Strength] 
+patch=1,EE,20280A58,extended,00000000
+
+[Cheats/Max After Continuous Movement] 
+patch=1,EE,201D3680,extended,00000000
+
+[Cheats/Mid-career Preservation] 
+patch=1,EE,202818A4,extended,26450000
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,20293E74,extended,24020001
+patch=1,EE,202959E4,extended,24020001
+
+
+
+

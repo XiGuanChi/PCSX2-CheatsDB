@@ -1,0 +1,47 @@
+[Cheats/Set Language English default]  
+patch=1,EE,2032DA00,byte,00000004
+
+[Cheats/Set Language French] 
+patch=1,EE,2032DA01,byte,00000004
+
+[Cheats/Set Language Italian] 
+patch=1,EE,2032DA02,byte,00000004
+
+[Cheats/Set Language German] 
+patch=1,EE,2032DA03,byte,00000004
+
+[Cheats/Set Language Spanish]  
+patch=1,EE,2032DA04,byte,00000004
+
+[Cheats/Set Language Danish] 
+patch=1,EE,2032DA05,byte,00000004
+
+[Cheats/Set Language Swedish] 
+patch=1,EE,2032DA06,byte,00000004
+
+[Cheats/Set Language Finnish] 
+patch=1,EE,2032DA07,byte,00000004
+
+[Cheats/Set Language Norwegian]  
+patch=1,EE,2032DA08,byte,00000004
+
+[Cheats/Set Language Russian]  
+patch=1,EE,2032DA09,byte,00000004
+
+[Cheats/Set Language Polish] 
+patch=1,EE,2032DA0A,byte,00000004
+
+[Cheats/Set Language Portugese] 
+patch=1,EE,2032DA0B,byte,00000004
+
+[Cheats/Set Language Dutch]
+patch=1,EE,2032DA0C,byte,00000004
+
+[Cheats/Set Language Greek]  
+patch=1,EE,2032DA0D,byte,00000004
+
+[Cheats/Infinite Boost] 
+patch=1,EE,2017451C,extended,AE008DC
+
+[Cheats/Infinite Time] 
+patch=1,EE,2010F770,extended,AE20004

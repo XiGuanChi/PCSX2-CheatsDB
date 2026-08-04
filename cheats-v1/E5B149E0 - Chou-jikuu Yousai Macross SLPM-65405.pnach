@@ -1,0 +1,40 @@
+[Cheats/Invincibility] 
+patch=1,EE,2013AD0C,extended,100000F8
+patch=1,EE,201D23A4,extended,E64017B0
+
+[Cheats/Infinite Boost] 
+patch=1,EE,20271084,extended,737B1CC9
+
+[Cheats/Infinite Missiles] 
+patch=1,EE,2014AC64,extended,24630000
+
+[Cheats/Infinite Gun Bullets] 
+patch=1,EE,2014D210,extended,24030000
+patch=1,EE,2014D21C,extended,AB800004
+
+[Cheats/Max HP For Escort Target Cat's Eye Please note that if you shoot down Cat's Eye with a missile after capturing it, it will also explode] 
+patch=1,EE,20173C04,extended,C4420000
+
+[Cheats/1P Press L1+SELECT Recover HP For Escort Target Macross Please note that in stages other than Macross escort, pressing the button may heal enemies] 
+patch=1,EE,2028A4E4,extended,0000102D
+patch=1,EE,D07B8A02,extended,0000FBFE
+patch=1,EE,2028A4E4,extended,E46200C8
+
+[Cheats/One Hit Kill Enemy] 
+patch=0,EE,20274558,extended,AE0002A0
+
+[Cheats/One Hit Kill Enemy Press L3+L2] 
+patch=1,EE,D07B8A02,extended,0000FEFD
+patch=1,EE,20274558,extended,AE0002A0
+patch=1,EE,D07B8A02,extended,0000FDFD
+patch=1,EE,20274558,extended,E60002A0
+
+[Cheats/After Level is completed HIT RATE 100%]
+patch=1,EE,20151800,extended,4A0002FF
+
+[Cheats/Unlock Weapon Indicatory Chart Destruction] 
+patch=1,EE,201779BC,extended,1021009A
+
+[Cheats/Unlock All Card Collection] 
+patch=1,EE,2026460C,extended,24010001
+patch=1,EE,20264614,extended,A0410094

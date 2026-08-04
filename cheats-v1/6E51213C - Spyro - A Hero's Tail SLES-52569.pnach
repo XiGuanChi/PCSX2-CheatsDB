@@ -1,0 +1,26 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20502F84,extended,000000A0
+
+[Cheats/Max Gems] 
+patch=1,EE,20502F88,extended,00002710
+patch=1,EE,20502F8C,extended,00002710
+
+[Cheats/ave All Dark Gems] 
+patch=1,EE,20502FD8,extended,00000028
+
+[Cheats/Have All Light Gems] 
+patch=1,EE,20502FD6,extended,00000064
+
+[Cheats/Have All Light and Dark Gems] 
+patch=1,EE,10502FD6,extended,00002864
+
+[Cheats/Have All Power-Ups] 
+patch=1,EE,20502FA8,extended,FFFFFFFFF
+
+[Cheats/View Status To Have All Dragon Eggs] 
+patch=1,EE,200C11A0,extended,AC410030
+patch=1,EE,200C11A4,extended,03E00008
+patch=1,EE,200C11A8,extended,24020001
+patch=1,EE,20107C7C,extended,08030088
+patch=1,EE,20107C80,extended,24010001
+patch=1,EE,20502FD8,extended,00000050

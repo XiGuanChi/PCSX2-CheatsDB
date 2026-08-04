@@ -1,0 +1,44 @@
+[Cheats/Infinite Health] 
+patch=1,EE,207D1100,extended,42C80000
+patch=1,EE,207D1108,extended,42C80000
+
+[Cheats/Max Health] 
+patch=1,EE,207D1104,extended,42C80000
+
+[Cheats/Infinite Energy] 
+patch=1,EE,207D1130,extended,42C80000
+patch=1,EE,207D1138,extended,42C80000
+
+[Cheats/Max Energy] 
+patch=1,EE,207D1134,extended,42C80000
+
+[Cheats/Infinite Upgrade Points] 
+patch=1,EE,207D1118,extended,44480000
+
+[Cheats/Unlock All Primary Breaths]  
+patch=1,EE,407D1164,extended,00040008
+patch=1,EE,00000003,extended,00000000
+
+[Cheats/Unlock All Secondary Breaths] 
+patch=1,EE,407D1168,extended,00040008
+patch=1,EE,00000003,extended,00000000
+
+[Cheats/Unlock Fire Weapons] 
+patch=1,EE,207D1160,extended,0000000F
+
+[Cheats/Unlock Electric Weapons] 
+patch=1,EE,207D1180,extended,0000000F
+
+[Cheats/Unlock Ice Weapons] 
+patch=1,EE,207D11A0,extended,0000000F
+
+[Cheats/Unlock Earth Weapons] 
+patch=1,EE,207D11C0,extended,0000000F
+
+[Cheats/Unlock Level Select In Menu And In Pause Screen, along with an option to enable cheats] 
+patch=1,EE,00B24794,extended,00000001
+patch=1,EE,00B24795,extended,00000001
+patch=1,EE,00B31494,extended,00000001
+patch=1,EE,00B31495,extended,00000001
+patch=1,EE,00B31614,extended,00000001
+patch=1,EE,00B31615,extended,00000001

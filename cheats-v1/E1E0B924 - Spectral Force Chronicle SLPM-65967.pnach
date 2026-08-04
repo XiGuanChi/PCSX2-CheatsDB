@@ -1,0 +1,106 @@
+[Cheats/Max Gold 999999] 
+patch=1,EE,20C02A00,extended,000F423F
+
+[Cheats/Max Military Funding]  
+patch=1,EE,20C02A00,extended,000F423F
+
+[Cheats/Max Experience Value]  
+patch=1,EE,20C02A04,extended,000F423F
+
+[Cheats/Unlock All Items] 
+patch=1,EE,40C02A08,extended,00070001
+patch=1,EE,000F000F,extended,00000000
+
+[Cheats/Character 1 Stats Max] 
+patch=1,EE,40C02A54,extended,000D0001
+patch=1,EE,00010000,extended,00000000
+
+[Cheats/Character 2 Stats Max] 
+patch=1,EE,40C02AF0,extended,000D0001
+patch=1,EE,00010000,extended,00000000
+
+[Cheats/Character 3 Stats Max] 
+patch=1,EE,40C02B8C,extended,000D0001
+patch=1,EE,00010000,extended,00000000
+
+[Cheats/Character 4 Stats Max] 
+patch=1,EE,40C02C28,extended,000D0001
+patch=1,EE,00010000,extended,00000000
+
+[Cheats/Character 5 Stats Max] 
+patch=1,EE,40C02CC4,extended,000D0001
+patch=1,EE,00010000,extended,00000000
+
+[Cheats/Character 1 Lv 99 HP 999] 
+patch=1,EE,00C02A52,extended,00000000
+patch=1,EE,00C02A4C,extended,00000063
+
+[Cheats/Character 2 Lv 99 HP 999] 
+patch=1,EE,00C02AEE,extended,00000000
+patch=1,EE,00C02AE8,extended,00000063
+
+[Cheats/Character 3 Lv 99 HP 999] 
+patch=1,EE,00C02B8A,extended,00000000
+patch=1,EE,00C02B84,extended,00000063
+
+[Cheats/Character 4 Lv 99 HP 999] 
+patch=1,EE,00C02C26,extended,00000000
+patch=1,EE,00C02C20,extended,00000063
+
+[Cheats/Skeleton A Lv 99 HP 999] 
+patch=1,EE,00C02CC2,extended,00000000
+patch=1,EE,00C02CBC,extended,00000063
+
+[Cheats/Lv.Up 999999 Points Level 99 HP 999] 
+patch=1,EE,20C02A04,extended,000F423F
+
+[Cheats/All Demon Souls 99] 
+patch=1,EE,00C034C0,extended,000000CE
+patch=1,EE,00C034D4,extended,00000063
+patch=1,EE,00C034C8,extended,000000CF
+patch=1,EE,00C034DC,extended,00000063
+patch=1,EE,00C034D0,extended,000000D0
+patch=1,EE,00C034E4,extended,00000063
+patch=1,EE,00C034D8,extended,000000D1
+patch=1,EE,00C034EC,extended,00000063
+patch=1,EE,00C034E0,extended,000000D2
+patch=1,EE,00C034F4,extended,00000063
+patch=1,EE,00C034E8,extended,000000D3
+patch=1,EE,00C034FC,extended,00000063
+patch=1,EE,00C034F0,extended,000000D4
+patch=1,EE,00C03504,extended,00000063
+patch=1,EE,00C034F8,extended,000000D5
+patch=1,EE,00C0350C,extended,00000063
+patch=1,EE,00C03500,extended,000000D6
+patch=1,EE,00C03514,extended,00000063
+patch=1,EE,00C03508,extended,000000D7
+patch=1,EE,00C0351C,extended,00000063
+patch=1,EE,00C03510,extended,000000D8
+patch=1,EE,00C03524,extended,00000063
+patch=1,EE,00C03518,extended,000000D9
+patch=1,EE,00C0352C,extended,00000063
+patch=1,EE,00C03520,extended,000000DA
+patch=1,EE,00C03534,extended,00000063
+patch=1,EE,00C03528,extended,000000DB
+patch=1,EE,00C0353C,extended,00000063
+patch=1,EE,00C03530,extended,000000DC
+patch=1,EE,00C03544,extended,00000063
+patch=1,EE,00C03538,extended,000000DD
+patch=1,EE,00C0354C,extended,00000063
+patch=1,EE,00C03540,extended,000000DE
+patch=1,EE,00C0354C,extended,00000063
+patch=1,EE,00C03548,extended,000000DF
+patch=1,EE,00C03554,extended,00000063
+patch=1,EE,00C03550,extended,000000E0
+patch=1,EE,00C0355C,extended,00000063
+patch=1,EE,00C03558,extended,000000E1
+patch=1,EE,00C03564,extended,00000063
+patch=1,EE,00C03560,extended,000000E2
+patch=1,EE,00C03574,extended,00000063
+patch=1,EE,00C03568,extended,000000E3
+patch=1,EE,00C0357C,extended,00000063
+patch=1,EE,00C03570,extended,000000E4
+patch=1,EE,00C03584,extended,00000063
+patch=1,EE,00C03578,extended,000000E5
+patch=1,EE,00C0359C,extended,00000063
+patch=1,EE,00C03580,extended,00000018

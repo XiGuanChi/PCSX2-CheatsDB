@@ -1,0 +1,47 @@
+[Cheats/Invulnerabilty On Both Players] 
+patch=1,EE,2035F7AC,extended,00000001
+
+[Cheats/Infinite Health P1] 
+patch=1,EE,2056002C,extended,461C3000
+
+[Cheats/Infinite Health P2] 
+patch=1,EE,2056635C,extended,461C3000
+
+[Cheats/Infinite Magic P1] 
+patch=1,EE,20560044,extended,461C3000
+
+[Cheats/Infinite Magic P2]  
+patch=1,EE,20566374,extended,461C3000
+
+[Cheats/Infinite Money P1]  
+patch=1,EE,10560064,extended,0000FFFF
+
+[Cheats/Infinite Money P2] 
+patch=1,EE,10566394,extended,0000FFFF
+
+[Cheats/Infinite Spell Points P1] 
+patch=1,EE,20560068,extended,00000063
+
+[Cheats/Infinite Spell Points P2] 
+patch=1,EE,20566398,extended,00000063
+
+[Cheats/Level 99 P1] 
+patch=1,EE,1055FFDC,extended,00006363
+
+[Cheats/Level 99 P2]  
+patch=1,EE,1056630C,extended,00006363
+
+[Cheats/Max All Skills P1]  
+patch=1,EE,4056006C,extended,00090001
+patch=1,EE,05050505,extended,00000000
+
+[Cheats/Max All Skills P2]  
+patch=1,EE,4056639C,extended,00090001
+patch=1,EE,05056835,extended,00000000
+
+[Cheats/P1 Press L1+R1 When Puased For Debug Menu] 
+patch=1,EE,D04D0602,extended,0000F3FF
+patch=1,EE,0035FAB8,extended,00000068
+
+[Cheats/Unlock Extreme Mode And Characters] 
+patch=1,EE,2044AB60,extended,0000001D

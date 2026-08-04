@@ -1,0 +1,16 @@
+[Cheats/Yao Chosho 1P side Victory] 
+patch=1,EE,102412B0,extended,00000100
+
+[Cheats/Suddenly Achieve 100 Cuts] 
+patch=1,EE,102412B0,extended,00000064
+patch=1,EE,1024132E,extended,00000064
+
+[Cheats/Proposed Practice 100-Man Defeat] 
+patch=1,EE,1023AAF4,extended,00000064
+patch=1,EE,1024132E,extended,00000064
+
+[Cheats/Unlock All Wrestlers Can Be Selected]  
+patch=1,EE,20241404,extended,00000001
+patch=1,EE,102416A8,extended,00000064
+patch=1,EE,402413D4,extended,000C0001
+patch=1,EE,00010001,extended,00000000

@@ -1,0 +1,15 @@
+[Cheats/Press L1 For First Team To Bat Scores 9999] 
+patch=1,EE,D04782C2,extended,0000FBFF
+patch=1,EE,106B3100,extended,0000270F
+
+[Cheats/Press L2 For First Team To Bat Scores 0] 
+patch=1,EE,D04782C2,extended,0000FEFF
+patch=1,EE,106B3100,extended,00000000
+
+[Cheats/Press R1 For Second Team To Bat Scores 9999] 
+patch=1,EE,D04782C2,extended,0000F7FF
+patch=1,EE,106B3102,extended,0000270F
+
+[Cheats/Press R2 For Second Team To Bat Scores 0] 
+patch=1,EE,D04782C2,extended,0000FDFF
+patch=1,EE,106B3102,extended,00000000

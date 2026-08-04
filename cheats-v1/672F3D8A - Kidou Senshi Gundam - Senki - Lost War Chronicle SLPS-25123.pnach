@@ -1,0 +1,33 @@
+[Cheats/Infinite Life Gauge] 
+patch=1,EE,20156004,extended,DE040590
+patch=1,EE,2015600C,extended,FE040588
+
+[Cheats/Infinite Life] 
+patch=1,EE,20156004,extended,DE040590
+patch=1,EE,20155FF4,extended,FE040588
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2013560C,extended,00000000
+
+[Cheats/Infinite Time] 
+patch=1,EE,20155944,extended,00000000
+
+[Cheats/Overheating recovery in a moment] 
+patch=1,EE,2021342C,extended,00A52823
+
+[Cheats/Always S Rank Mission] 
+patch=1,EE,2014F598,extended,00000000
+patch=1,EE,20150ACC,extended,00000000
+
+[Cheats/Unlock All MOVIE VIEWER] 
+patch=1,EE,20353150,extended,FFFFFFFF
+patch=1,EE,20353154,extended,FFFFFFFF
+patch=1,EE,20353158,extended,FFFFFFFF
+patch=1,EE,1035315C,extended,0000FFFF
+
+[Cheats/Unlock All Gallery MOBILE SUIT VIEWER] 
+patch=1,EE,20353168,extended,FFFFFFFF
+patch=1,EE,0035316C,extended,000000FF
+
+[Cheats/Unlock All BGM PLAYER]  
+patch=1,EE,20353170,extended,00FFFFFF

@@ -1,0 +1,13 @@
+[Cheats/Infinite Skill Points] 
+patch=1,EE,107FA71A,extended,00002828
+
+[Cheats/Infinite Health P1] 
+patch=1,EE,202A54DC,extended,43200000
+patch=1,EE,202A54E0,extended,43200000
+
+[Cheats/Max Health Regeneration P1]  
+patch=1,EE,202A54E4,extended,43200000
+
+[Cheats/No Health P2] 
+patch=1,EE,202A6FDC,extended,43200000
+patch=1,EE,202A6FE0,extended,00000000

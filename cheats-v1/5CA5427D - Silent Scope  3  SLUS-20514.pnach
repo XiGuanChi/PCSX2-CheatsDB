@@ -1,0 +1,14 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20530D60,extended,3F800000
+
+[Cheats/Infinite Bullets] 
+patch=1,EE,10530D86,extended,00000006
+
+[Cheats/Infinite Critical Time] 
+patch=1,EE,10530D9C,extended,00000016
+
+[Cheats/Infinite Credits Silent Scope EX Story Mode] 
+patch=1,EE,1056BD50,extended,00000063
+
+[Cheats/Always Low Mission Time] 
+patch=1,EE,20530CB8,extended,00000000

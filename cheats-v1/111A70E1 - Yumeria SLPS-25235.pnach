@@ -1,0 +1,29 @@
+[Cheats/lnfinite HP Hero in Battle] 
+patch=1,EE,2024A258,extended,00000000
+patch=1,EE,2024A25C,extended,00000000
+
+[Cheats/lnfinite HP Girl in Battle] 
+patch=1,EE,20248B1C,extended,00000000
+patch=1,EE,20248B20,extended,00000000
+
+[Cheats/Destroy Enemy 1P L1+START to make a one-shot breakdown mode 1P Normal mode R1+START]  
+patch=1,EE,D026E340,extended,00000804
+patch=1,EE,20249790,extended,AE40001C
+patch=1,EE,D026E340,extended,00000808
+patch=1,EE,20249790,extended,AE42001C
+
+[Cheats/Unlock All Memories save reflected] 
+patch=1,EE,00274B10,extended,000000FF
+patch=1,EE,202764F0,extended,FFFFFFFF
+patch=1,EE,202764F4,extended,FFFFFFFF
+patch=1,EE,202764F8,extended,FFFFFFFF
+
+[Cheats/Unlock All Memories save unreflected] 
+patch=1,EE,2016C384,extended,240200FF
+patch=1,EE,201DFA94,extended,1000000C
+
+[Cheats/Unlock All Memories And Menu] 
+patch=1,EE,202764F0,extended,FFFFFFFF
+patch=1,EE,202764F4,extended,FFFFFFFF
+patch=1,EE,202764F8,extended,FFFFFFFF
+patch=1,EE,20274B10,extended,FFFFFFFF

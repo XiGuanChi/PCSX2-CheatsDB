@@ -1,0 +1,33 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200C0220,extended,3C01004F
+patch=1,EE,200C0224,extended,9021552F
+patch=1,EE,200C0228,extended,44810000
+patch=1,EE,200C022C,extended,46800020
+patch=1,EE,200C0230,extended,E6400164
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,E6400168
+patch=1,EE,2014870C,extended,0C030088
+
+[Cheats/Infinite Primary Weapon] 
+patch=1,EE,20225588,extended,00000000
+
+[Cheats/Infinite Seconday Weapons] 
+patch=1,EE,202184A4,extended,00000000
+
+[Cheats/Max Washers] 
+patch=1,EE,104F583E,extended,0000270F
+
+[Cheats/Max Chips] 
+patch=1,EE,104F5856,extended,0000270F
+
+[Cheats/Max Secret Chips] 
+patch=1,EE,104F586E,extended,0000270F
+
+[Cheats/Max Arm Servo] 
+patch=1,EE,104F5886,extended,0000270F
+
+[Cheats/Max Det Packs] 
+patch=1,EE,104F589E,extended,0000270F
+
+[Cheats/Max Goff Parts] 
+patch=1,EE,104F58B6,extended,0000270F

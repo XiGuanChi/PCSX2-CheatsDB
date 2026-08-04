@@ -1,0 +1,38 @@
+[Cheats/Instant Broadcast] 
+patch=1,EE,0028ECA4,extended,00000001
+
+[Cheats/Broadcast 100%] 
+patch=1,EE,10985018,extended,00000064
+
+[Cheats/Max Combo] 
+patch=1,EE,10984148,extended,000003E7
+
+[Cheats/Max Perfects] 
+patch=1,EE,10984130,extended,000003E7
+
+[Cheats/None Bad] 
+patch=1,EE,1098413C,extended,00000000
+
+[Cheats/None Miss] 
+patch=1,EE,10984140,extended,00000000
+
+[Cheats/Always Rank A Trill] 
+patch=1,EE,20281740,extended,FFFFFFFF
+patch=1,EE,20281748,extended,00000000
+patch=1,EE,20281764,extended,00000000
+patch=1,EE,2028176C,extended,00000000
+patch=1,EE,20281B70,extended,00000000
+
+[Cheats/Unlock Always Rank A Cella]
+patch=1,EE,20281308,extended,FFFFFFFF
+patch=1,EE,20281310,extended,00000000
+patch=1,EE,2028132C,extended,00000000
+patch=1,EE,20281334,extended,00000000
+patch=1,EE,20281738,extended,00000000
+
+[Cheats/Unlock Always Rank A Chily] 
+patch=1,EE,20281B78,extended,FFFFFFFF
+patch=1,EE,20281B80,extended,00000000
+patch=1,EE,20281B9C,extended,00000000
+patch=1,EE,20281BA4,extended,00000000
+patch=1,EE,20281FA8,extended,00000000

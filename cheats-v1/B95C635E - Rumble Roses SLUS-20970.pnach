@@ -1,0 +1,28 @@
+[Cheats/Infinite Lethal Killer Moves Player 1] 
+patch=1,EE,216D6EEC,extended,00000002
+
+[Cheats/Always Full Lethal Move Indicator P1 ] 
+patch=1,EE,216D6EF4,extended,00000064
+
+[Cheats/Always No Humiliation P1 ] 
+patch=1,EE,216D6FC8,extended,00000000
+patch=1,EE,216D6FCC,extended,00000000
+patch=1,EE,216D6FD0,extended,00000000
+
+[Cheats/Unlock All Costumes ] 
+patch=1,EE,403DA8A0,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Characters In Exhibition Mode]  
+patch=1,EE,403DA86C,extended,000B0001
+patch=1,EE,0000FF01,extended,00000000
+
+[Cheats/Unlock All Characters In Story Mode]  
+patch=1,EE,403DA852,extended,000A0001
+patch=1,EE,0000FF01,extended,00000000
+
+[Cheats/Unlock All Gallery] 
+patch=1,EE,103DA886,extended,00000101
+patch=1,EE,403DA888,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,103DA898,extended,00000101

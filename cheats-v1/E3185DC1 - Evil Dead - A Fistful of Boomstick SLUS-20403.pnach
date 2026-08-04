@@ -1,0 +1,49 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2014ADE8,extended,240207D0
+patch=1,EE,2014ADEC,extended,A4620110
+patch=1,EE,1014ADF2,extended,00001000
+
+[Cheats/Infinite Magic] 
+patch=1,EE,202E8368,extended,43200000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,201CBE90,extended,00000000
+
+[Cheats/Infinite Save Game Tokens] 
+patch=1,EE,002BAA73,extended,00000063
+
+[Cheats/Infinite Time Arcade Mode]
+patch=1,EE,2026961E,extended,000042BB
+
+[Cheats/Unlock All Spells In Spell Book]  
+patch=1,EE,402E8390,extended,000B0001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Galleries]  
+patch=1,EE,402E2090,extended,00060001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Debug Mode On]  
+patch=1,EE,202B70C8,extended,00000001
+
+[Cheats/Press L3 In-game For Debug Menu  To exit, press Start at any time or Square while in the root of this menu] 
+patch=1,EE,2014D4D4,extended,080572B2
+patch=1,EE,2015CAC8,extended,27BDFFF0
+patch=1,EE,2015CACC,extended,7FBF0000
+patch=1,EE,2015CAD0,extended,3C02002B
+patch=1,EE,2015CAD4,extended,8C43D1FC
+patch=1,EE,2015CAD8,extended,10600003
+patch=1,EE,2015CADC,extended,00000000
+patch=1,EE,2015CAE0,extended,0C057B30
+patch=1,EE,2015CAE4,extended,00000000
+patch=1,EE,2015CAE8,extended,3C02002F
+patch=1,EE,2015CAEC,extended,84439380
+patch=1,EE,2015CAF0,extended,24040200
+patch=1,EE,2015CAF4,extended,14640004
+patch=1,EE,2015CAF8,extended,3C02002B
+patch=1,EE,2015CAFC,extended,8C43D1FC
+patch=1,EE,2015CB00,extended,3864FFFF
+patch=1,EE,2015CB04,extended,AC44D1FC
+patch=1,EE,2015CB08,extended,DFBF0000
+patch=1,EE,2015CB0C,extended,03E00008
+patch=1,EE,2015CB10,extended,27BD0010

@@ -1,0 +1,92 @@
+[Cheats/Infinite Sid] 
+patch=1,EE,20E3EE3C,extended,05F5E0FF
+
+[Cheats/All Characters Max HP]  
+patch=1,EE,200C0200,extended,2401270F
+patch=1,EE,200C0204,extended,080BF890
+patch=1,EE,200C0208,extended,AE010034
+patch=1,EE,2041D508,extended,0C030080
+
+[Cheats/All Characters View Menu To Refill HP] 
+patch=1,EE,200C0210,extended,2401270F
+patch=1,EE,200C0214,extended,080BF890
+patch=1,EE,200C0218,extended,AE0100AC
+patch=1,EE,2041D574,extended,0C030084
+
+[Cheats/All Characters Max CHA]  
+patch=1,EE,200C0220,extended,240503E7
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,AE050038
+patch=1,EE,2041D550,extended,0C030088
+
+[Cheats/All Characters Max ATK]  
+patch=1,EE,200C0230,extended,240503E7
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,AE050040
+patch=1,EE,2041D510,extended,0C03008C
+
+[Cheats/All Characters Max DEF]  
+patch=1,EE,200C0240,extended,240503E7
+patch=1,EE,200C0244,extended,03E00008
+patch=1,EE,200C0248,extended,AE050044
+patch=1,EE,2041D530,extended,0C030090
+
+[Cheats/All Characters Max MAG]  
+patch=1,EE,200C0250,extended,240503E7
+patch=1,EE,200C0254,extended,03E00008
+patch=1,EE,200C0258,extended,AE050048
+patch=1,EE,2041D560,extended,0C030094
+
+[Cheats/All Characters Max RES] 
+patch=1,EE,200C0260,extended,240503E7
+patch=1,EE,200C0264,extended,03E00008
+patch=1,EE,200C0268,extended,AE05004C
+patch=1,EE,2041D540,extended,0C030098
+
+[Cheats/All Characters Level 99]  
+patch=1,EE,200C0270,extended,24010063
+patch=1,EE,200C0274,extended,080BF890
+patch=1,EE,200C0278,extended,AE0100A8
+patch=1,EE,2041D5E0,extended,0C03009C
+
+[Cheats/Must be on In Battle] 
+patch=1,EE,200C0000,extended,8E010000
+patch=1,EE,200C0004,extended,30210100
+patch=1,EE,200C0008,extended,8E03020C
+patch=1,EE,200C000C,extended,1020001C
+patch=1,EE,200C0010,extended,8C630060
+patch=1,EE,200C0078,extended,0810B62C
+patch=1,EE,200C00F8,extended,0810B62C
+patch=1,EE,203FE074,extended,0C030000
+
+[Cheats/In Battle Infinite & Max HP] 
+patch=1,EE,200C0088,extended,2401270F
+patch=1,EE,200C008C,extended,AC6100AC
+patch=1,EE,200C0080,extended,2401270F
+patch=1,EE,200C0084,extended,AC610034
+
+[Cheats/In Battle 1 Hit Death Enemies] 
+patch=1,EE,200C0014,extended,24010001
+patch=1,EE,200C0018,extended,AC6100AC
+
+[Cheats/In Battle Max Party Leadership Meter ] 
+patch=1,EE,200C02E0,extended,3C0142C8
+patch=1,EE,200C02E4,extended,8E230390
+patch=1,EE,200C02E8,extended,03E00008
+patch=1,EE,200C02EC,extended,AC610028
+patch=1,EE,20369A40,extended,0C0300B8
+
+[Cheats/Infinite Item Usage] 
+patch=1,EE,2039FDF0,extended,00000000
+
+[Cheats/View Talisman To Have All]  
+patch=1,EE,200C0280,extended,00402021
+patch=1,EE,200C0284,extended,2405005E
+patch=1,EE,200C0288,extended,24010001
+patch=1,EE,200C028C,extended,A081001A
+patch=1,EE,200C0290,extended,24A5FFFF
+patch=1,EE,200C0294,extended,1CA0FFFC
+patch=1,EE,200C0298,extended,24840064
+patch=1,EE,200C029C,extended,03E00008
+patch=1,EE,200C02A0,extended,00000000
+patch=1,EE,202FE2C0,extended,080300A0

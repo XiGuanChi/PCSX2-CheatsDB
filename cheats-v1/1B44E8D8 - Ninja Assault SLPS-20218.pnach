@@ -1,0 +1,38 @@
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,1094F826,extended,00000100
+patch=1,EE,1094F828,extended,00000100
+
+[Cheats/Never Reload Player 1] 
+patch=1,EE,0094F82A,extended,00000009
+
+[Cheats/Infinite Health Player 2] 
+patch=1,EE,1094F876,extended,00000100
+patch=1,EE,1094F878,extended,00000100
+
+[Cheats/Never Reload Player 2] 
+patch=1,EE,0094F87A,extended,00000009
+
+[Cheats/Infinite Credits] 
+patch=1,EE,20955FE8,extended,00000009
+
+[Cheats/Unlock Missions Game] 
+patch=1,EE,10955F1E,extended,00000101
+patch=1,EE,10955F20,extended,00000101
+patch=1,EE,00955F48,extended,00000001
+
+[Cheats/Unlock Missions Game Crisf Flag ON] 
+patch=1,EE,10955F22,extended,00000101
+patch=1,EE,20955F24,extended,01010101
+patch=1,EE,20955F28,extended,01010101
+patch=1,EE,20955F2C,extended,01010101
+patch=1,EE,20955F30,extended,01010101
+patch=1,EE,20955F34,extended,01010101
+patch=1,EE,20955F38,extended,01010101
+patch=1,EE,20955F3C,extended,01010101
+patch=1,EE,10955F40,extended,00000101
+
+[Cheats/Unlock Training Fireworks Dojo]  
+patch=1,EE,00955F47,extended,00000001
+
+[Cheats/Unlock Gun Change]  
+patch=1,EE,00955F49,extended,00000001

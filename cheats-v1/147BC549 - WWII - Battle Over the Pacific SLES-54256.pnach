@@ -1,0 +1,7 @@
+[Cheats/Infinite Ammo] 
+patch=1,EE,2010E550,extended,00000000
+
+[Cheats/Instant Win Press L1+L2+R1+R2] 
+patch=1,EE,201151BC,extended,55CF061E
+patch=1,EE,D01A998A,extended,0000F0FF
+patch=1,EE,201151BC,extended,AECF25C0

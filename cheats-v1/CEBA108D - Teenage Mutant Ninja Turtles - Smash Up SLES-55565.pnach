@@ -1,0 +1,68 @@
+[Cheats/Infinite Time] 
+patch=1,EE,204977F4,extended,476A6000
+patch=1,EE,204977F8,extended,476A6000
+
+[Cheats/Infinite Time Alt] 
+patch=1,EE,201B82B4,extended,C6210048
+
+[Cheats/P1 Infinite Health] 
+patch=1,EE,200A0010,extended,8C431FFC
+patch=1,EE,200A0014,extended,AC431FF8
+
+[Cheats/P1 Max HP] 
+patch=1,EE,204978F4,extended,44FA0000
+
+[Cheats/P1 Infinite Hearts] 
+patch=1,EE,00497944,extended,00000005
+
+[Cheats/P2 Infinite Health] 
+patch=1,EE,200A0028,extended,8C431FFC
+patch=1,EE,200A002C,extended,AC431FF8
+
+[Cheats/P2 Max HP] 
+patch=1,EE,204978F8,extended,44FA0000
+
+[Cheats/P2 Infinite Hearts] 
+patch=1,EE,00497948,extended,00000005
+
+[Cheats/P2 No HP P1 Press SELECT] 
+patch=1,EE,200A002C,extended,00000000
+patch=1,EE,D044C542,extended,0000FFFE
+patch=1,EE,200A002C,extended,AC401FF8
+
+[Cheats/P3 Infinite Health] 
+patch=1,EE,200A0040,extended,8C431FFC
+patch=1,EE,200A0044,extended,AC431FF8
+
+[Cheats/Unlock ] P3 Max HP
+patch=1,EE,204978FC,extended,44FA0000
+
+[Cheats/P3 Infinite Hearts] 
+patch=1,EE,0049794C,extended,00000005
+
+[Cheats/P3 No HP P1 Press SELECT] 
+patch=1,EE,200A0044,extended,00000000
+patch=1,EE,D044C542,extended,0000FFFE
+patch=1,EE,200A0044,extended,AC401FF8
+
+[Cheats/P4 Infinite Health] 
+patch=1,EE,200A0058,extended,8C431FFC
+patch=1,EE,200A005C,extended,AC431FF8
+
+[Cheats/P4 Max HP] 
+patch=1,EE,20497900,extended,44FA0000
+
+[Cheats/P4 Infinite Hearts] 
+patch=1,EE,00497950,extended,00000005
+
+[Cheats/P4 No HP P1 Press SELECT] 
+patch=1,EE,200A005C,extended,00000000
+patch=1,EE,D044C542,extended,0000FFFE
+patch=1,EE,200A005C,extended,AC401FF8
+
+[Cheats/Unlock All Shell Coins Unlock Game And Cartoon DVD Trailers] 
+patch=1,EE,102E1F34,extended,0000270F
+
+[Cheats/Unlock All Costumes, Stages And Concept Arts] 
+patch=1,EE,402E6ADC,extended,00D00001
+patch=1,EE,00000001,extended,00000000

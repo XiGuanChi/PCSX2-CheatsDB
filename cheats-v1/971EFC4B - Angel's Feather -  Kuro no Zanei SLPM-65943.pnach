@@ -1,0 +1,21 @@
+[Cheats/All 99 Items] 
+patch=1,EE,40271450,extended,00410001
+patch=1,EE,00630063,extended,00000000
+
+[Cheats/Full Complement of 99] 
+patch=1,EE,402715E4,extended,003F0001
+patch=1,EE,00630063,extended,00000000
+
+[Cheats/Unlock All CG Unused Debug Function]  
+patch=1,EE,001582B0,extended,0000003C
+patch=1,EE,001582C0,extended,0000003C
+
+[Cheats/Boot to Debug Menu Need Debug Display On] 
+patch=1,EE,101006D0,extended,000001C0
+
+[Cheats/Enable Debug Display]  
+patch=1,EE,201C12C0,extended,00000001
+
+[Cheats/Enable H3D Version Display] 
+patch=1,EE,201004D4,extended,24050001
+

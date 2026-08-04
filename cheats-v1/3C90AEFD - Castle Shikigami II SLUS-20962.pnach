@@ -1,0 +1,22 @@
+[Cheats/Infinite Credits] 
+patch=1,EE,202A3010,extended,00000063
+
+[Cheats/Infinite Time]  
+patch=1,EE,20154474,extended,24420000
+
+[Cheats/Infinite Health P1] 
+patch=1,EE,202C0824,extended,00000003
+
+[Cheats/Infinite Bombs P1] 
+patch=1,EE,202C083A,extended,00000063
+
+[Cheats/Infinite Health P2] 
+patch=1,EE,202C08C0,extended,00000003
+
+[Cheats/Infinite Bombs P2] 
+patch=1,EE,202C08D6,extended,00000063
+
+[Cheats/Debug Menu Enable PLAY Allows you to select the level to starton.DBFLAG Allows you to set various debug options on or off.MODE	Allows you to set the game mode type.STORYDEMO	Allows you to skip the opening stage demo on or off.DIFFICULTY	Allows you to set the game difficulty.BGMMODE Allows you to set either remix music or normal music.PLAYGAME	Starts the game normally.DEMOTEST Allows you to view stage opening demos.SOUNDTEST Allows you to play BGM, SFX, and voices.YMODE Allows you to set the screen type.EXTRA Opens a sub-menu with more goodies to choose from.] 
+patch=1,EE,D022FBC0,extended,000000D2
+patch=1,EE,2022FBD0,extended,00000001
+patch=1,EE,0015351A,extended,00000023

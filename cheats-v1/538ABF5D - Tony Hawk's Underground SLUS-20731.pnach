@@ -1,0 +1,62 @@
+[Cheats/Always Max Special] 
+patch=1,EE,202369F0,extended,24020BB8
+patch=1,EE,202369F4,extended,AE220068
+
+[Cheats/Max Score Gain] 
+patch=1,EE,20237FC4,extended,24A57FFF
+
+[Cheats/Infinite Running Combo] 
+patch=1,EE,2029E364,extended,00000000
+patch=1,EE,2029E378,extended,00000000
+
+[Cheats/Infinite Time] 
+patch=1,EE,20245290,extended,00000000
+
+[Cheats/View Gaps To Have All Gaps Current Level] 
+patch=1,EE,200C0230,extended,2402270F
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,AC820044
+patch=1,EE,2026CB68,extended,0803008C
+
+[Cheats/Unlock Access More Menus] 
+patch=1,EE,2012B880,extended,00000000
+
+[Cheats/Unlock Skateshop] 
+patch=1,EE,20CBE9B2,extended,7DB5E79F
+
+[Cheats/Unlock Create-A-Deck] 
+patch=1,EE,20CBE9A6,extended,7DB9E786
+
+[Cheats/Unlock All THUG Movies] 
+patch=1,EE,20CBE94A,extended,7DDDE612
+patch=1,EE,20CBE945,extended,7DDAE79D
+patch=1,EE,20CBE9BB,extended,7DBDEE1E
+patch=1,EE,20CBE9B5,extended,7DBA1C15
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,20CBE9BF,extended,7DB027BE
+patch=1,EE,20CBE994,extended,7D8BE62E
+
+[Cheats/Unlock All Hidden Characters] 
+patch=1,EE,20CBE9BE,extended,7DA1E65E
+patch=1,EE,20CBE9B9,extended,7DAEE79D
+
+[Cheats/Unlock All Interface Themes] 
+patch=1,EE,20CBE9BE,extended,7DA1E65E
+patch=1,EE,20CBE9B9,extended,7DAEE79F
+patch=1,EE,20CBE9B2,extended,7DB5E7D0
+
+[Cheats/Unlock All Cheats] 
+patch=1,EE,20CBE9B8,extended,7DAFE78B
+patch=1,EE,20CBE9BB,extended,7DACE7D4
+patch=1,EE,20CBE995,extended,7D8AE79D
+
+[Cheats/Unlock All Decks] 
+patch=1,EE,20CBE9B2,extended,7DB5E7D0
+
+[Cheats/Unlock Everything] 
+patch=1,EE,200C0240,extended,8C8305F0
+patch=1,EE,200C0244,extended,00651825
+patch=1,EE,200C0248,extended,08098F25
+patch=1,EE,200C024C,extended,AC8305F0
+patch=1,EE,20263C90,extended,08030090

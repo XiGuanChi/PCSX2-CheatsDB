@@ -1,0 +1,46 @@
+[Cheats/Max Lump Record Network 999m99cm] 
+patch=1,EE,204EAB10,extended,000F423F
+
+[Cheats/Time To Clear The Goal 1 Second] 
+patch=1,EE,204EC618,extended,00000020
+
+[Cheats/Infinite Time Press R2+L2 to set time to 0] 
+patch=1,EE,20102288,extended,00000000
+patch=1,EE,D1013042,extended,0000FCFF
+patch=1,EE,20102288,extended,24020000
+
+[Cheats/During Collection Stages collection rate is 100% when time runs out Only effective during collection stages (Crab, Swan, Crested, Fish, Maiden, Futago)] 
+patch=1,EE,20163B58,extended,3C0100E6
+patch=1,EE,20163B5C,extended,942339A0
+patch=1,EE,20163B60,extended,A44338C8
+patch=1,EE,20163B68,extended,24020001
+
+[Cheats/Polar Star stage, if you end Pressing Square it will be exactly 10m If you make the mass too large before the end, the king will scold you] 
+patch=1,EE,20118CCC,extended,10000005
+patch=1,EE,20164580,extended,3C010094
+patch=1,EE,20164584,extended,24022710
+patch=1,EE,20164588,extended,AC22B5CC
+
+[Cheats/Number Of Countries Acquired At The Ending 195 Please note that in other stages, this will be recorded as the total number acquired] 
+patch=1,EE,D1030070,extended,00005640
+patch=1,EE,21030078,extended,240400C3
+patch=1,EE,D1030070,extended,00005640
+patch=1,EE,2103007C,extended,A44438C4
+
+[Cheats/Unlock Bonus All Gifts]
+patch=1,EE,204EB108,extended,01010101
+patch=1,EE,204EB10C,extended,01010101
+patch=1,EE,204EB110,extended,01010101
+patch=1,EE,204EB114,extended,01010101
+
+[Cheats/Unlock Great Collection All Items Enter the great collection] 
+patch=1,EE,D1051C60,extended,00004980
+patch=1,EE,21051C84,extended,24030001
+patch=1,EE,D1051C60,extended,00004980
+patch=1,EE,21051C88,extended,A0430000
+
+[Cheats/Unlock Great Collection All Names View the list of names in the wonderful collection] 
+patch=1,EE,D1056D70,extended,00009A8C
+patch=1,EE,21056D9C,extended,24030001
+patch=1,EE,D1056D70,extended,00009A8C
+patch=1,EE,21056DA0,extended,A0430000

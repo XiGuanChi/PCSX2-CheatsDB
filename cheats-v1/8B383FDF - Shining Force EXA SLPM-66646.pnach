@@ -1,0 +1,11 @@
+[Cheats/Max Gold After Getting Some]
+patch=1,EE,201BA350,extended,00000000
+patch=1,EE,202263B0,extended,00000000
+
+[Cheats/Infinite HP] 
+patch=1,EE,20C65D10,extended,000003E7
+patch=1,EE,20C65D14,extended,000003E7
+
+[Cheats/Infinite MP]  
+patch=1,EE,20C65D18,extended,000003E7
+patch=1,EE,20C65D1C,extended,000003E7

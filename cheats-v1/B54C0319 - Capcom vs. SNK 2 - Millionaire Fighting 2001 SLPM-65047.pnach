@@ -1,0 +1,22 @@
+[Cheats/Max Groove Points] 
+patch=1,EE,20617E56,extended,0098967F
+
+[Cheats/P1 Infinite Health] 
+patch=1,EE,20510C74,extended,36003600
+patch=1,EE,10510C78,extended,00003600
+
+[Cheats/2P HP 0] 
+patch=1,EE,00485A54,extended,00000000
+
+[Cheats/Unlock Shin Akuma & God Ruga] 
+patch=1,EE,203F701C,extended,FFFFFFFF
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,103F6124,extended,0000FFFF
+
+[Cheats/Unlock Added GROOVE EDIT MODE] 
+patch=1,EE,0051B71D,extended,00000001
+
+[Cheats/Unlock Added EXTRA OPTION] 
+patch=1,EE,0051B75E,extended,00000001
+

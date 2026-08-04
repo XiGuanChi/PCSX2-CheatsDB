@@ -1,0 +1,39 @@
+[Cheats/Press L1 & L2 To Make Home Team Score 99] 
+patch=1,EE,D0A6B402,extended,0000FAFF
+patch=1,EE,00AB03B7,extended,00000063
+
+[Cheats/Press L1 & L3 To Make Home Team Score 0]  
+patch=1,EE,D0A6B402,extended,0000FBFD
+patch=1,EE,00AB03B7,extended,00000000
+
+[Cheats/Press R1 & R2 To Make Away Team Score 99] 
+patch=1,EE,D0A6B402,extended,0000F5FF
+patch=1,EE,00AB0BB3,extended,00000063
+
+[Cheats/Press R1 & R3 To Make Away Team Score 0]  
+patch=1,EE,D0A6B402,extended,0000F7FB
+patch=1,EE,00AB0BB3,extended,00000000
+
+[Cheats/Press Select & L1 for No Strikes] 
+patch=1,EE,D0A6B402,extended,0000FBFE
+patch=1,EE,00AAF81A,extended,00000000
+
+[Cheats/Press Select & L2 for Two Strikes] 
+patch=1,EE,D0A6B402,extended,0000FEFE
+patch=1,EE,00AAF81A,extended,00000002
+
+[Cheats/Press Select & L3 for No Balls] 
+patch=1,EE,D0A6B402,extended,0000FFFC
+patch=1,EE,00AAF81B,extended,00000000
+
+[Cheats/Press Select & R1 for No Outs] 
+patch=1,EE,D0A6B402,extended,0000F7FE
+patch=1,EE,00AAF81C,extended,00000000
+
+[Cheats/Press Select & R2 for Two Outs]
+patch=1,EE,D0A6B402,extended,0000FDFE
+patch=1,EE,00AAF81C,extended,00000002
+
+[Cheats/Press Select & R3 for Three Balls] 
+patch=1,EE,D0A6B402,extended,0000FFFA
+patch=1,EE,00AAF81B,extended,00000003

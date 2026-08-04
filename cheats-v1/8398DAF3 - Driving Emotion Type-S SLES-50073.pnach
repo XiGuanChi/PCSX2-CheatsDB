@@ -1,0 +1,11 @@
+[Cheats/Always at Max Revs] 
+patch=1,EE,20455238,extended,447A0000
+
+[Cheats/Arcade Mode Last Lap & 1st] 
+patch=1,EE,0040E16E,extended,00000004
+
+[Cheats/GT Mode Last Lap & 1st] 
+patch=1,EE,0040BB8E,extended,00000004
+
+[Cheats/Transparent Car Mode] 
+patch=1,EE,10450800,extended,00000002

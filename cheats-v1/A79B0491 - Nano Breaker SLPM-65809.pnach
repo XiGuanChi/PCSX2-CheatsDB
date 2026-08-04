@@ -1,0 +1,33 @@
+[Cheats/Infinite HP] 
+patch=1,EE,204CE890,extended,4479C000
+patch=1,EE,204CE898,extended,4479C000
+
+[Cheats/Infinite Booster] 
+patch=1,EE,204CE894,extended,4479C000
+patch=1,EE,204CE89C,extended,4479C000
+
+[Cheats/Infinite Health Michelle] 
+patch=1,EE,204A8038,extended,4479C000
+
+[Cheats/Have All chips] 
+patch=1,EE,4061498c,extended,00030001
+patch=1,EE,00090009,extended,00000000
+
+[Cheats/Unlock Lock Splatter Mode] 
+patch=1,EE,204ca85c,extended,00000008
+
+[Cheats/Unlock movie viewer] 
+patch=1,EE,204ca85c,extended,00000010
+
+[Cheats/Unlock All Movies Movie Viewer] 
+patch=1,EE,204ca850,extended,FFFFFFFF
+
+[Cheats/Unlock Keith Playable] 
+patch=1,EE,204ca85D,extended,00000001
+
+[Cheats/Unlock Jaguar Playable] 
+patch=1,EE,204ca85D,extended,00000002
+
+[Cheats/Unlock All Levels Of All Boosters] 
+patch=1,EE,404ce938,extended,00070001
+patch=1,EE,00000046,extended,00000000

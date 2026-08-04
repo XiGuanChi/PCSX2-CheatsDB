@@ -1,0 +1,9 @@
+[Cheats/Unlock All Bonus] 
+patch=1,EE,2071ADA0,extended,00040000
+patch=1,EE,4071AC88,extended,003F0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40719C70,extended,00040001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Replace Load Menu With Debug Menu MAIN MENU DistTest ADV Test MoviePlay StreamTest EffStar SplitTest SeTest CapTexture Save1st SaveEnd SaveMain OpTest  CgMode Config EndingChk SoundMode StaffRoll EndMovie VibTest] 
+patch=1,EE,2011B7F4,extended,0C0401CE

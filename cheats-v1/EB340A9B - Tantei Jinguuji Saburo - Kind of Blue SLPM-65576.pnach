@@ -1,0 +1,11 @@
+[Cheats/Infinite Tobacco] 
+patch=1,EE,002A493B,extended,00000014
+
+[Cheats/Max Money] 
+patch=1,EE,102C7B2C,extended,00007530
+
+[Cheats/Enable Debug Menus Press L3 for Movie - Sound test, R3 for Flag Edit Menu] 
+patch=1,EE,D02C8A02,extended,0000FFFB
+patch=1,EE,202C8410,extended,00000001
+patch=1,EE,D02C8A02,extended,0000FFFD
+patch=1,EE,202C8400,extended,00000019

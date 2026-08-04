@@ -1,0 +1,11 @@
+[Cheats/Infinite Shield]  
+patch=1,EE,203A1E2C,extended,43960000
+
+[Cheats/Infinite Torpedoes] 
+patch=1,EE,203A1E4C,extended,00000063
+
+[Cheats/Unlock All CG when You Browse Library] 
+patch=1,EE,20166B84,extended,24030001
+patch=1,EE,20166B8C,extended,A0430000
+patch=1,EE,20166D04,extended,24030001
+patch=1,EE,20166D08,extended,A0430000

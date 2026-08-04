@@ -1,0 +1,40 @@
+[Cheats/Max Bits] 
+patch=1,EE,203D9F88,extended,00000000
+
+[Cheats/9999999 BITS by collecting One from a killed Enemy]  
+patch=1,EE,0044a3b8,extended,3C0B0098
+patch=1,EE,0044a3bc,extended,356B967F
+patch=1,EE,0044a3d8,extended,AC4B000C
+
+[Cheats/9999999 BITS when spending in Chip, Armor and Weapon Shop]  
+patch=1,EE,0043a710,extended,3C0B0098
+patch=1,EE,0043a724,extended,356b967f
+patch=1,EE,0043a730,extended,ac4b000c
+
+[Cheats/9999999 BITS when spending in Disk Shop]  
+patch=1,EE,0042cb40,extended,3C0B0098
+patch=1,EE,0042cb54,extended,356b967f
+patch=1,EE,0042cb5c,extended,ac4b000c
+
+[Cheats/9999999 BITS when spending in Junk Shop]  
+patch=1,EE,0042da9c,extended,3C0B0098
+patch=1,EE,0042dab4,extended,356b967f
+patch=1,EE,0042dab8,extended,ac4b000c
+
+[Cheats/Invincible Digimon]  
+patch=1,EE,0039ad9c,extended,24a50d40
+
+[Cheats/MP Never Decreases When Used]  
+patch=1,EE,003d06c8,extended,00401023
+
+[Cheats/Max Damage Done To Enemies] 
+patch=1,EE,203FFDB4,extended,00000000
+
+[Cheats/Max HP 99999 It is not reflected in save data] 
+patch=1,EE,203FC330,extended,00000000
+
+[Cheats/Max MP 99999 It is not reflected in save data] 
+patch=1,EE,203FC410,extended,00000000
+ 
+[Cheats/Max Status]  
+patch=1,EE,203FC1E0,extended,00000000

@@ -1,0 +1,50 @@
+[Cheats/Infinite Health Main Character] 
+patch=1,EE,202B9EC0,extended,E4400028
+patch=1,EE,202B9EC4,extended,C4400028
+patch=1,EE,202B9EC8,extended,46010036
+
+[Cheats/Infinite Health Partner ACTIVATE ONLY IN THE LEVELS WHRE THE PARTNER IS AVALIABLE] 
+patch=1,EE,202B9E88,extended,08028000
+patch=1,EE,200A0000,extended,3C04447A
+patch=1,EE,200A0004,extended,080AE7A3
+patch=1,EE,200A0008,extended,AC440028
+patch=1,EE,202B9E8C,extended,C4400028
+patch=1,EE,202B9E90,extended,46000036
+
+[Cheats/Blue Power Bar Never Decreases ASM] 
+patch=1,EE,D029E274,extended,E48000E4
+patch=1,EE,2029E274,extended,00000000
+
+[Cheats/Infinite Shield Powerup On Pickup ASM]   
+patch=1,EE,D029C568,extended,E68000D4
+patch=1,EE,2029C568,extended,00000000
+
+[Cheats/No Enemy Hold Select To Kill Enemy] 
+patch=1,EE,D05A1722,extended,0000FEFF
+patch=1,EE,202E327C,extended,AC800028
+patch=1,EE,D05A1722,extended,0010FEFF
+patch=1,EE,202E327C,extended,00000000
+
+[Cheats/Max Power Bar 1 Pick up] 
+patch=1,EE,2029E2A0,extended,E60100E4
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Bart Simpson Infinite Upgraded Slingshot Ammo ASM] 
+patch=1,EE,D02AB444,extended,AC620000
+patch=1,EE,202AB444,extended,00000000
+
+[Cheats/Homer Simpson Infinite Gumi-Homer ASM] 
+patch=1,EE,D02BA900,extended,E60000F8
+patch=1,EE,202BA900,extended,00000000
+patch=1,EE,D02BAA78,extended,E62000F8
+patch=1,EE,202BAA78,extended,00000000
+
+[Cheats/Homer Simpson Infinite Heli-Homer ASM]  
+patch=1,EE,D02B9AD4,extended,E66000F4
+patch=1,EE,202B9AD4,extended,00000000
+patch=1,EE,D02BA8EC,extended,E60000F4
+patch=1,EE,202BA8EC,extended,00000000
+
+[Cheats/Homer Simpson Infinite Homer Ball ASM]   
+patch=1,EE,D02BA8A0,extended,46010001
+patch=1,EE,202BA8A0,extended,00000000

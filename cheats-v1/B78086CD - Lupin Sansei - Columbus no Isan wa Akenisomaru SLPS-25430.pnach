@@ -1,0 +1,12 @@
+[Cheats/Infinite HP]  
+patch=1,EE,20E97C4C,extended,00000096
+patch=1,EE,20E97C50,extended,00000096
+
+[Cheats/Infinite Sleeping Gun Ammo] 
+patch=1,EE,20E97D48,extended,00000063
+
+[Cheats/Infinite Medikits]  
+patch=1,EE,20E97D70,extended,00000063
+
+[Cheats/Infinite Continues]  
+patch=1,EE,20E97D6C,extended,00000063

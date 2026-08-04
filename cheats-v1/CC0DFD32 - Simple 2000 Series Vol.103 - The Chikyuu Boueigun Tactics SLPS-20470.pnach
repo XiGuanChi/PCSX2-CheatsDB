@@ -1,0 +1,66 @@
+[Cheats/Always First Turn] 
+patch=1,EE,00224C71,extended,00000001
+
+[Cheats/Fuel Recovery when looking at the unit table] 
+patch=1,EE,20177C94,extended,8622000E
+patch=1,EE,20177C9C,extended,A6A20010
+
+[Cheats/Ammo Recovery when looking at the unit table] 
+patch=1,EE,20177CF8,extended,82020002
+patch=1,EE,20177D00,extended,A2A20013
+
+[Cheats/Can be reactivated by selecting an ally unit] 
+patch=1,EE,2013C648,extended,A2200 012
+
+[Cheats/CPU Unit Operable] 
+patch=1,EE,2013C63C,extended,00000000
+
+[Cheats/Can Be Reactivated By Selecting An Ally Unit] 
+patch=1,EE,2013C648,extended,A2200012 
+patch=1,EE,20136AE0,extended,10000008
+patch=1,EE,20136AE4,extended,A0400012
+
+[Cheats/Limited Number Of Turns 99] 
+patch=1,EE,20225CA8,extended,00000063Mission
+
+[Cheats/Clear On Opponent Turn] 
+patch=1,EE,2014A8C4,extended,10000016
+
+[Cheats/Visibility Opens no need to search for enemy] 
+patch=1,EE,20153CFC,extended,1 00000EA
+
+[Cheats/When forming a unit Total cost remaining 30000 fixed] 
+patch=1,EE,201C43F8,extended,AC80447C
+patch=1,EE,201C43FC,extended,24027530
+patch=1,EE,201C4400,extended,AC804480
+
+[Cheats/When forming a unit Equipment level limit removed] 
+patch=1,EE,201BC134,extended,00000000
+
+[Cheats/When forming a unit Experience value gauge max If the experience value upper limit is 0, it will not increase] 
+patch=1,EE,201C4DAC,extended,A6030004
+patch=1,EE,201C4DB0,extended,44830000
+
+[Cheats/Unlock All Encyclopedia when viewing encyclopedia] 
+patch=1,EE,20142800,extended,00430821
+patch=1,EE,20142804,extended,24020001
+patch=1,EE,2014280C,extended,A0220000
+
+[Cheats/Unlock All Scenario & Free Maps selectable Fully open when map is selected] 
+patch=1,EE,20142890,extended,00430821
+patch=1,EE,20142894,extended,24020001
+patch=1,EE,2014289C,extended,A0220000
+
+[Cheats/Unlock All Scenario rank S & free all maps selectable Fully open when map is selected]
+patch=1,EE,20144C88,extended,24020011
+patch=1,EE,20144C90,extended,A46204B4
+patch=1,EE,20142890,extended,00430821
+patch=1,EE,20142894,extended,24020001
+patch=1,EE,2014289C,extended,A0220000
+
+[Cheats/Debug Menu Press L2 to display.Debug. Force win. Recover all units. Max experience. Ignore AI. Destroy all enemies] 
+patch=1,EE,D0407B90,extended,00000001
+patch=1,EE,0023AAE8,extended,00000032
+
+
+

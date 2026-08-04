@@ -1,0 +1,20 @@
+[Cheats/Guns Never Overheat] 
+patch=1,EE,20186CD8,extended,00000000
+
+[Cheats/Press Select+L2 To Complete Mission] 
+patch=1,EE,D0453842,extended,0000FEFE
+patch=1,EE,204393BC,extended,00000002
+
+[Cheats/Unlock All Planes]  
+patch=1,EE,4039B130,extended,00140001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Campaign Missions] 
+patch=1,EE,4039B180,extended,00190001
+patch=1,EE,00000000,extended,00000001
+
+[Cheats/Re-enable Debug Menu press the following while at the main menu: D-Pad Down, D-Pad Up, L2, L1, D-Pad Up, D-Pad Down, Select. This menu allows you to test music and sound effects, view plane models, select any level, and many more.] 
+patch=1,EE,202488F4,extended,00000000
+patch=1,EE,20248914,extended,00000000
+
+

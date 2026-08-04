@@ -1,0 +1,19 @@
+[Cheats/Player 1 Infinite HP] 
+patch=1,EE,204531E8,extended,00006510
+patch=1,EE,204531EC,extended,00006510
+
+[Cheats/Player 2 No Health Press Select] 
+patch=1,EE,D047CE5C,extended,0000FFFE
+patch=1,EE,204542D4,extended,00000000
+
+[Cheats/P1 Infinite Homing] 
+patch=1,EE,20453004,extended,000011f8
+patch=1,EE,20453008,extended,000011f8
+patch=1,EE,2045300C,extended,000011f8
+
+[Cheats/P1 Infinite Super] 
+patch=1,EE,20453000,extended,00026000
+
+[Cheats/Unlock All Extras] 
+patch=1,EE,4031CDF0,extended,000B0001
+patch=1,EE,00000001,extended,00000000

@@ -1,0 +1,48 @@
+[Cheats/Invincible Holding SELECT while hit will cause self-destruct Display will vary] 
+patch=1,EE,201B9010,extended,24012710
+patch=1,EE,201B9014,extended,ADA10024
+patch=1,EE,D08C1242,extended,0000FFFE
+patch=1,EE,201B9010,extended,24010001
+
+[Cheats/Weapon Level 1 Increases When Experience Points Are Gained] 
+patch=1,EE,201B579C,extended,240B03E8
+
+[Cheats/All Weapons Can Be Selected On Weapon Equipment Screen] 
+patch=1,EE,201A746C,extended,A1AF003E
+
+[Cheats/UWeapon Level 3 On Weapon Equipment Screen] 
+patch=1,EE,201A59D8,extended,240D0002
+patch=1,EE,201A59DC,extended,A24D000F
+patch=1,EE,201A59E8,extended,240D0018
+
+[Cheats/Unlock All Extra Items] 
+patch=1,EE,102CA2C8,extended,0000270F
+
+[Cheats/Unlock All CG MODE] 
+patch=1,EE,20247A84,extended,FFFFFFFF
+patch=1,EE,20247A88,extended,FFFFFFFF
+patch=1,EE,20247A8C,extended,FFFFFFFF
+patch=1,EE,20247A90,extended,FFFFFFFF
+patch=1,EE,20247A94,extended,FFFFFFFF
+patch=1,EE,20247A98,extended,FFFFFFFF
+patch=1,EE,20247A9C,extended,FFFFFFFF
+
+[Cheats/Unlock All REPLAY MODE Clear data required] 
+patch=1,EE,20247B80,extended,FFFFFFFF
+patch=1,EE,20247B84,extended,FFFFFFFF
+
+[Cheats/Unlock Extra item forced viewing Press a specific button to enter CG MODE SELECT+L2 CG MODE SELECT+R2 SOUND MODE SELECT+L1 REPLAY MODE SELECT+R1 SURVIVAL MODE SELECT+left HELL MODE SELECT+right SERR14 TRIAL] 
+patch=1,EE,D08C1242,extended,0000FEFE
+patch=1,EE,2017665C,extended,240F0000
+patch=1,EE,D08C1242,extended,0000FDFE
+patch=1,EE,2017665C,extended,240F0001
+patch=1,EE,D08C1242,extended,0000FDFE
+patch=1,EE,2017665C,extended,240F0001
+patch=1,EE,D08C1242,extended,0000FBFE
+patch=1,EE,2017665C,extended,240F0002
+patch=1,EE,D08C1242,extended,0000F7FE
+patch=1,EE,2017665C,extended,240F0003
+patch=1,EE,D08C1242,extended,0000FF7E
+patch=1,EE,2017665C,extended,240F0004
+patch=1,EE,D08C1242,extended,0000FFDE
+patch=1,EE,2017665C,extended,240F0005

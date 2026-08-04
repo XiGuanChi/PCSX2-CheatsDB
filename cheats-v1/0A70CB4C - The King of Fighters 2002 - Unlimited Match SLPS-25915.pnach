@@ -1,0 +1,25 @@
+[Cheats/Infinite HP P1]  
+patch=1,EE,005CD208,word,00000078
+
+[Cheats/Infinite Health P1] 
+patch=1,EE,005CD2B3,extended,00000078
+
+[Cheats/English Language NEOGEO MODE] 
+patch=1,EE,005B9980,extended,00000001
+
+[Cheats/P1 Infinite HP] 
+patch=1,EE,005CD208,extended,00000066
+patch=1,EE,D05cd5d4,extended,00000001
+patch=1,EE,005CD208,extended,00000078
+
+[Cheats/P1 Infinite Pow] 
+patch=1,EE,005CD2B3,extended,00000005
+patch=1,EE,005CD1B9,extended,00000090
+
+[Cheats/P2 No HP P1 Press SELECT] 
+patch=1,EE,D18F8D42,extended,0000FFFE
+patch=1,EE,105CD428,extended,00000001
+
+[Cheats/Unlock All Gallery] 
+patch=1,EE,405CFA68,extended,003C0001
+patch=1,EE,01010101,extended,00000000

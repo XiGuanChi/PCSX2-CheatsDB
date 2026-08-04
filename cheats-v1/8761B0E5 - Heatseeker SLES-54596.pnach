@@ -1,0 +1,5 @@
+[Cheats/Enable Debug Menu Click on Disable Cruise Throttle Under Mission Controls for Extra Options]  
+patch=1,EE,204E7F00,extended,00000000
+
+[Cheats/Auto Complete Missions] 
+patch=1,EE,2027C488,extended,24040001

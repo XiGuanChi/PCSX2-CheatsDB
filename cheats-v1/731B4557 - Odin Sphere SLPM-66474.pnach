@@ -1,0 +1,63 @@
+[Cheats/Infinite HP] 
+patch=1,EE,201A420C,extended,8CE3046C
+patch=1,EE,201A4220,extended,ACE30468
+
+[Cheats/Infinitee Mercedes Ammo] 
+patch=1,EE,202F8994,extended,24020063
+
+[Cheats/HP MAX After Level Increases Experience]
+patch=1,EE,20180EC4,extended,AE240474
+
+[Cheats/Suffering Damage 0 from Enemy] 
+patch=1,EE,20180730,extended,44800000
+
+[Cheats/Infinite POW]  
+patch=1,EE,201A4230,extended,C4E007D0
+patch=1,EE,201A4248,extended,E4E007CC
+patch=1,EE,201A424C,extended,46000024
+patch=1,EE,201A4250,extended,44020000
+
+[Cheats/Infinite Cipher 9999] 
+patch=1,EE,201A42B4,extended,240103E7
+patch=1,EE,201A42B8,extended,03E00008
+patch=1,EE,201A42BC,extended,A4E10470
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,202F8998,extended,10000003
+patch=1,EE,202F89B0,extended,00000000
+
+[Cheats/Infinite Psypher] 
+patch=1,EE,20180F7C,extended,94830472
+patch=1,EE,20180FC8,extended,94830472
+
+[Cheats/Having Money 999] 
+patch=1,EE,201F1D20,extended,240203E7
+patch=1,EE,201F1D24,extended,03E00008
+patch=1,EE,201F1D28,extended,A4820000
+
+[Cheats/Cipher Experience Up]  
+patch=1,EE,20180CC0,extended,10000003
+patch=1,EE,20180CD4,extended,AE24047C
+
+[Cheats/HP Experience Up]  
+patch=1,EE,20180EAC,extended,10000003
+patch=1,EE,20180EC4,extended,AE240474
+
+[Cheats/Pick up 999 coins] 
+patch=1,EE,201F1D20,extended,240203E7 
+patch=1,EE,201F1D24,extended,03E00008
+patch=1,EE,201F1D28,extended,A4820000
+
+[Cheats/Max Cooking Material]  
+patch=1,EE,2032F930,extended,24030001
+patch=1,EE,2032F490,extended,1000003D
+
+[Cheats/Text Archive All Perusal Possibility] 
+patch=1,EE,201D9DFC,extended,24020001
+
+[Cheats/Acquire the Map and you can view the whole Map] 
+patch=1,EE,2021CC80,extended,24020001
+
+
+[Cheats/Unlock the Prophecy in the Ending Book] 
+patch=1,EE,019A3128,extended,00000007

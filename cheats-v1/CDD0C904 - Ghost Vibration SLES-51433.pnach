@@ -1,0 +1,15 @@
+[Cheats/Infinite Health + Can't Overheat + Quick Death Ghost + Infinite Energy] 
+patch=1,EE,20C115C4,extended,42C80000
+patch=1,EE,60230E90,extended,42C80000
+patch=1,EE,00020000,extended,00000030
+patch=1,EE,60230D24,extended,42E80000
+patch=1,EE,00020000,extended,00000004
+patch=1,EE,20C115C8,extended,41F00000
+patch=1,EE,60230E90,extended,41F00000
+patch=1,EE,00020000,extended,00000034
+
+[Cheats/1 Hit Death Ghost] 
+patch=1,EE,20160BA0,extended,AE2002F8
+
+[Cheats/Fast Death Ghost Can't Overheat] 
+patch=1,EE,20168CD8,extended,46000B02

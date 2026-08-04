@@ -1,0 +1,15 @@
+[Cheats/Invincible] 
+patch=1,EE,205FDA5C,extended,00000001
+
+[Cheats/Infinite Ammo]  
+patch=1,EE,201758C4,extended,00000000
+
+[Cheats/Have All Weapons] 
+patch=1,EE,205FD974,extended,00000001
+
+[Cheats/Unlock All Movies And Levels] 
+patch=1,EE,20216994,extended,00000010
+
+[Cheats/Enable Cheat Menu Enter the pause screen in-game with this code on. Pressing Triangle once will take you to another section of the menu when paused] 
+patch=1,EE,2012DDC0,extended,24030003
+patch=1,EE,2014BC04,extended,24020003

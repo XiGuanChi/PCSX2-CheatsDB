@@ -1,0 +1,46 @@
+[Cheats/Infinite Funds] 
+patch=1,EE,11105CB0,extended,0000FFFF
+
+[Cheats/Max Funds] 
+patch=1,EE,21105CB0,extended,3B9AC9FF
+
+[Cheats/Infinite Health] 
+patch=1,EE,201F5F34,extended,8C61006C
+patch=1,EE,201F5F44,extended,AC410040
+
+[Cheats/Infinite Ammo All Weapons] 
+patch=1,EE,20284590,extended,00000000
+
+[Cheats/Buying Items Doesnt Decrease Funds] 
+patch=1,EE,201C48C0,extended,00000000
+
+[Cheats/Max Exp] 
+patch=1,EE,21105CA4,extended,0001869F
+
+[Cheats/Grand Admiral Ranking] 
+patch=1,EE,01105CB6,extended,00000010
+
+[Cheats/Max Air Tech Level] 
+patch=1,EE,01106086,extended,0000001E
+
+[Cheats/Max Engine Level] 
+patch=1,EE,01106087,extended,0000001E
+
+[Cheats/Max Metallurgy Level] 
+patch=1,EE,01106088,extended,0000001E
+
+[Cheats/Max Weapon Level] 
+patch=1,EE,01106089,extended,0000001E
+
+[Cheats/Max Electronics Level] 
+patch=1,EE,0110608A,extended,0000001E
+
+[Cheats/Unlock All Areas] 
+patch=1,EE,41142D6C,extended,00030001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,11142D78,extended,00000101
+
+[Cheats/Unlock All Areas All Mission Stages] 
+patch=1,EE,41142CC4,extended,00290001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,11142D68,extended,00000101

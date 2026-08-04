@@ -1,0 +1,29 @@
+[Cheats/Infinite Momentum Bar P1]  
+patch=1,EE,200C0200,extended,3C03006C
+patch=1,EE,200C0204,extended,8C63C350
+patch=1,EE,200C0208,extended,10600007
+patch=1,EE,200C0210,extended,8C630A04
+patch=1,EE,200C0214,extended,10600004
+patch=1,EE,200C021C,extended,3C043F80
+patch=1,EE,200C0220,extended,AC64008C
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,201C302C,extended,08030080
+
+[Cheats/Instant Time Limit Draw] 
+patch=1,EE,006BC749,extended,00000001
+
+[Cheats/Momentum Doesn't Increase P2] 
+patch=1,EE,200C0240,extended,3C19006C
+patch=1,EE,200C0244,extended,8F39C354
+patch=1,EE,200C0248,extended,13200006
+patch=1,EE,200C0250,extended,8F390A04
+patch=1,EE,200C0254,extended,13200003
+patch=1,EE,200C025C,extended,AF20008C
+patch=1,EE,200C0264,extended,03E00008
+patch=1,EE,201DE7B8,extended,08030090
+
+[Cheats/Use 1 Point For 99 Stats] 
+patch=1,EE,202E6C84,extended,00000001
+
+[Cheats/Unlock Enables Everything is Unlocked Message] 
+patch=1,EE,00735068,extended,00000001

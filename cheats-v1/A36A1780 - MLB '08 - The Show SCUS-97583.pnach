@@ -1,0 +1,22 @@
+[Cheats/Franchise Activator (Must Be on)go to Budget and Press Select activate u can also turn the code off by pressing slect+R3]  
+patch=1,EE,200A0000,extended,3C010091
+patch=1,EE,200A0004,extended,8C223208
+patch=1,EE,200A0008,extended,10400038
+patch=1,EE,200A000C,extended,8C23320C
+patch=1,EE,200A0010,extended,2404000A
+patch=1,EE,200A0014,extended,14830035
+patch=1,EE,200A00EC,extended,03E00008
+patch=1,EE,D0250302,extended,0000FFFE
+patch=1,EE,20142508,extended,08028000
+patch=1,EE,D0250302,extended,0000FFFA
+patch=1,EE,20142508,extended,03E00008
+
+[Cheats/Player 1 Max Infinite Money] 
+patch=1,EE,200A001C,extended,3C040027
+patch=1,EE,200A0020,extended,90848E81
+patch=1,EE,200A0024,extended,24051668
+patch=1,EE,200A0028,extended,00852818
+patch=1,EE,200A002C,extended,00451021
+patch=1,EE,200A0030,extended,3C047735
+patch=1,EE,200A0034,extended,34849400
+patch=1,EE,200A0038,extended,AC440000

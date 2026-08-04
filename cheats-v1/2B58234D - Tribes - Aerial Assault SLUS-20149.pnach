@@ -1,0 +1,29 @@
+[Cheats/Infinite Health Only Player] 
+patch=1,EE,200C0200,extended,3C030034
+patch=1,EE,200C0204,extended,8C63A038
+patch=1,EE,200C0208,extended,10600004
+patch=1,EE,200C0210,extended,3C0442C8
+patch=1,EE,200C0214,extended,AC640B54
+patch=1,EE,200C021C,extended,03E00008
+patch=1,EE,2022da8c,extended,08030080
+
+[Cheats/Infinite Jetpack] 
+patch=1,EE,20197EF8,extended,00000000
+patch=1,EE,20197F14,extended,00000000
+patch=1,EE,2015B2FC,extended,00000000
+patch=1,EE,2015B35C,extended,00000000
+
+[Cheats/infinite Ammo] 
+patch=1,EE,2034E2D8,extended,00000001
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,2031A3AC,extended,00000010
+
+[Cheats/Always 3rd Person Mode] 
+patch=1,EE,2034E348,extended,00000001
+
+[Cheats/Infinite Time] 
+patch=1,EE,2014AAE4,extended,00000000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20196984,extended,00000000

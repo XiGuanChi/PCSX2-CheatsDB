@@ -1,0 +1,81 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2058C4AC,extended,3C0142C8
+patch=1,EE,2058C4B4,extended,AC81017C
+
+[Cheats/Infinite Stamina] 
+patch=1,EE,2058CC64,extended,00000000
+patch=1,EE,2058CC8C,extended,00000000
+patch=1,EE,2058CCAC,extended,00000000
+
+[Cheats/Never Reload] 
+patch=1,EE,20599BF0,extended,00000000
+patch=1,EE,20599C24,extended,00000000
+patch=1,EE,20599C3C,extended,00000000
+
+[Cheats/God Mode] 
+patch=1,EE,2070B718,extended,00000001
+
+[Cheats/Adventure Mode Infinite Credits] 
+patch=1,EE,10730F78,extended,0000FFFF
+
+[Cheats/Can Zoom Ultra Close ] 
+patch=1,EE,105B234C,extended,00000000
+patch=1,EE,205B28C0,extended,3C0142C8
+patch=1,EE,205B28C8,extended,AC41007C
+
+[Cheats/Animal Radar Always On] 
+patch=1,EE,2072FD9C,extended,00000001
+
+[Cheats/Aim Help Always On] 
+patch=1,EE,2072FDA0,extended,00000001
+
+[Cheats/Autoclaim Always On] 
+patch=1,EE,2072FDA4,extended,00000001
+  
+[Cheats/Profile Western Arctic Have All Hunts]  
+patch=1,EE,10730F12,extended,00000003
+
+[Cheats/Profile Western Arctic Have All Special Hunts]  
+patch=1,EE,10730F22,extended,00000003
+
+[Cheats/Profile Western Arctic Have All Fishing]  
+patch=1,EE,10730F32,extended,00000002
+
+[Cheats/Profile Western Arctic Have All Contests]  
+patch=1,EE,10730F42,extended,00000002
+
+[Cheats/Profile Interior Alaska Have All Hunts]  
+patch=1,EE,10730F14,extended,00000003
+
+[Cheats/Profile Interior Alaska Have All Special Hunts]  
+patch=1,EE,10730F24,extended,00000003
+
+[Cheats/Profile Interior Alaska Have All Fishing] 
+patch=1,EE,10730F34,extended,00000002
+
+[Cheats/Profile Interior Alaska Have All Contests]  
+patch=1,EE,10730F44,extended,00000002
+
+[Cheats/Profile South Central Alaska Have All Hunts]  
+patch=1,EE,10730F16,extended,00000003
+
+[Cheats/Profile South Central Alaska Have All Special Hunts]  
+patch=1,EE,10730F26,extended,00000006
+
+[Cheats/Profile South Central Alaska Have All Fishing] 
+patch=1,EE,10730F36,extended,00000002
+
+[Cheats/Profile South Central Alaska Have All Contests]  
+patch=1,EE,10730F46,extended,00000002
+
+[Cheats/Profile Southeastern Alaska Have All Hunts] 
+patch=1,EE,10730F18,extended,00000003
+
+[Cheats/Profile Southeastern Alaska Have All Special Hunts] 
+patch=1,EE,10730F28,extended,00000006
+
+[Cheats/Profile Southeastern Alaska Have All Fishing]  
+patch=1,EE,10730F38,extended,00000002
+
+[Cheats/Profile Southeastern Alaska Have All Contests] 
+patch=1,EE,10730F48,extended,00000002

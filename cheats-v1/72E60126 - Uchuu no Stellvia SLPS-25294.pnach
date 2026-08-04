@@ -1,0 +1,66 @@
+[Cheats/Max Money]  
+patch=1,EE,207B8F5C,extended,0001879F
+
+[Cheats/Tired 0] 
+patch=1,EE,207B8F58,extended,00000000
+
+[Cheats/Study and Skill 999] 
+patch=1,EE,201C1000,extended,00000000
+patch=1,EE,201C10D8,extended,00000000
+patch=1,EE,201C11B0,extended,00000000
+patch=1,EE,201C1288,extended,00000000
+patch=1,EE,201C1360,extended,00000000
+
+[Cheats/All Items] 
+patch=1,EE,201E6308,extended,0803C000
+patch=1,EE,200F0000,extended,24190001
+patch=1,EE,200F0004,extended,24980180
+patch=1,EE,200F0008,extended,2B210032
+patch=1,EE,200F000C,extended,AF190000
+patch=1,EE,200F0010,extended,27390001
+patch=1,EE,200F0014,extended,27180004
+patch=1,EE,200F0018,extended,1420FFFB
+patch=1,EE,200F0020,extended,03E00008
+
+[Cheats/All Girl Information] 
+patch=1,EE,007B92C3,extended,00000001
+patch=1,EE,207B92C4,extended,01010101
+patch=1,EE,207B92C8,extended,01010101
+
+[Cheats/Relationship Main Character - Shima Lovers] 
+patch=1,EE,007B8FCC,extended,00000000
+
+[Cheats/Relationship Main Character - Arisa Lovers] 
+patch=1,EE,007B8FCD,extended,00000000
+
+[Cheats/Relationship Main Character - Yayoi Lovers] 
+patch=1,EE,007B8FCE,extended,00000000
+
+[Cheats/Relationship Main Character - Crystal Lovers] 
+patch=1,EE,007B8FCF,extended,00000000
+
+[Cheats/Relationship Main Character - Rinna Lovers] 
+patch=1,EE,007B8FD0,extended,00000000
+
+[Cheats/Relationship Main Character - First beauty Lovers] 
+patch=1,EE,007B8FD1,extended,00000000
+
+[Cheats/Relationship Main Character - Najma Lovers] 
+patch=1,EE,007B8FD2,extended,00000000
+
+[Cheats/Relationship Main Character - Layla Lovers] 
+patch=1,EE,007B8FD3,extended,00000000
+
+[Cheats/Relationship Main Character - Girl Lovers] 
+patch=1,EE,007B8FD4,extended,00000000
+
+[Cheats/Extra mode Unlock Everything CG, MOVIE and CARD GALLERY] 
+patch=1,EE,407B8D90,extended,00590001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Extra mode Unlock Everything Voice Previewer & Simulator Room] 
+patch=1,EE,107B8F0C,extended,0000FFFF
+
+[Cheats/Debug Scene Select Menu Extra Main Menu Options highlight the Extra option and press Down twice then Circle once. This will bring you to this screen. From here, you can view various character specific scenes.Shima, Arisa, Najima, Yayoi, Rinna, Leila, Ayaka, Akira, Ren] 
+patch=1,EE,201E8064,extended,24020004
+patch=1,EE,001E806A,extended,00000022

@@ -1,0 +1,24 @@
+[Cheats/Infinite Health] 
+patch=1,EE,204EE08C,extended,03E703E7
+
+[Cheats/Invincible In Battle] 
+patch=1,EE,204EE0A4,extended,40400000
+
+[Cheats/Combat Ward 99] 
+patch=1,EE,004EE14F,extended,00000063
+
+[Cheats/Bomb 99] 
+patch=1,EE,004EE150,extended,00000063
+
+[Cheats/Kunai 99] 
+patch=1,EE,004EE14F,extended,00000063
+
+[Cheats/Unlock All Equipment]   
+patch=1,EE,104EE96C,extended,0000FFFF
+
+[Cheats/Unlock All Accessories]  
+patch=1,EE,204EE970,extended,FFFFFFFF
+
+[Cheats/Number of kills 999] 
+patch=1,EE,104EE148,extended,000003E7
+

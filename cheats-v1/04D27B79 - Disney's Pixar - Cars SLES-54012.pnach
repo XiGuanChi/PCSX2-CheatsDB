@@ -1,0 +1,35 @@
+[Cheats/Max Points] 
+patch=1,EE,208171EC,extended,05F5E0FF
+
+[Cheats/Infinite Boost] 
+patch=1,EE,2022620C,extended,00000000
+
+[Cheats/Activate Cheat Fast Start] 
+patch=1,EE,7052E230,extended,00000004
+
+[Cheats/Activate Cheat Infinite Boost] 
+patch=1,EE,7052E232,extended,00000020
+
+[Cheats/Activate Cheat Unlock Master's Speedy Circuit And Countdown Cleanup] 
+patch=1,EE,7052E232,extended,00000040
+
+[Cheats/Activate Cheat Unlock All Concept Art] 
+patch=1,EE,7052E232,extended,00000080
+
+[Cheats/Activate Cheat Unlock All Movies] 
+patch=1,EE,7052E233,extended,00000001
+
+[Cheats/Activate Cheat Unlock All Character Skins] 
+patch=1,EE,7052E233,extended,00000002
+
+[Cheats/Activate Cheat Unlock All Tracks] 
+patch=1,EE,7052E230,extended,00000008
+
+[Cheats/Activate Cheat Unlock All Cars] 
+patch=1,EE,7052E230,extended,00000002
+
+[Cheats/Activate Cheat Unlock Everything] 
+patch=1,EE,7052E231,extended,00000080
+
+[Cheats/Unlock All Cars, Skins, Tracks, MiniGames, Art And Movie Clips + Fast Start And Infinite Boost] 
+patch=1,EE,2052E230,extended,03E0800E

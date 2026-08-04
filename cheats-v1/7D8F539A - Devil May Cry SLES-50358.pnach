@@ -1,0 +1,35 @@
+[Cheats/Infinite Health] 
+patch=1,EE,205C7654,extended,07D00000
+
+[Cheats/Infinite Devil Trigger] 
+patch=1,EE,105C79F2,extended,00004B00
+
+[Cheats/Always 0 Saves] 
+patch=1,EE,205BF510,extended,FFFFFFFF
+
+[Cheats/Max Red Orbs At End Stage] 
+patch=1,EE,20742AFC,extended,05F5E0FF
+
+[Cheats/Stop Countdown Timer] 
+patch=1,EE,205BEB80,extended,00003E00
+
+[Cheats/Infinite Red Orbs] 
+patch=1,EE,20742924,extended,05F5E0FF
+
+[Cheats/Infinite Yellow Orbs] 
+patch=1,EE,20742910,extended,000003E7
+
+[Cheats/Always 3 Blue Orbs] 
+patch=1,EE,20742928,extended,00000003
+
+[Cheats/Master All Moves] 
+patch=1,EE,20742918,extended,7FFE0000
+
+[Cheats/Beer Goggles] 
+patch=1,EE,205CD800,extended,00012038
+
+[Cheats/Clear Vision Underwater] 
+patch=1,EE,205CD800,extended,00002038
+
+[Cheats/Unlock All Game Modes] 
+patch=1,EE,20742204,extended,FFFFFFFF

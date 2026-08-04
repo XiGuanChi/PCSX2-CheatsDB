@@ -1,0 +1,29 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2055CA6C,extended,42C80000
+
+[Cheats/Infinite Adrenaline] 
+patch=1,EE,2055CA70,extended,42480000
+
+[Cheats/Infinite Ammo]  
+patch=1,EE,20589B14,extended,00000001
+
+[Cheats/Never Reload All Weapons] 
+patch=1,EE,20203140,extended,00000000
+
+[Cheats/Unlock Access All VR Missions] 
+patch=1,EE,1056E170,extended,0000FFFF
+
+[Cheats/Have All VR Missions Completed Record] 
+patch=1,EE,2056E170,extended,FFFFFFFF
+patch=1,EE,1056E174,extended,0000FFFF
+
+[Cheats/Max Skill Points] 
+patch=1,EE,2058991C,extended,437A0000
+
+[Cheats/Always Low Time VR Missions] 
+patch=1,EE,201DFD1C,extended,AE000000
+
+[Cheats/Enable Debug Menu Presa R1+Square+Start at any time] 
+patch=1,EE,2058AC38,extended,00000001
+patch=1,EE,2058AC3C,extended,00000001
+patch=1,EE,2058AC40,extended,00000001

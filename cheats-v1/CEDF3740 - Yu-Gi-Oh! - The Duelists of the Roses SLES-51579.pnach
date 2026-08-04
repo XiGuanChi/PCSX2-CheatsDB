@@ -1,0 +1,20 @@
+[Cheats/Player 1 Lancaster 9999 LP] 
+patch=1,EE,102DAEDA,extended,0000270F
+
+[Cheats/Player 2 York 0 LP - Player 1 always win] 
+patch=1,EE,102DB22A,extended,00000000
+
+[Cheats/Infinite Summon Power Use] 
+patch=1,EE,201DF904,extended,00000000
+
+[Cheats/Max Summon Power Use] 
+patch=1,EE,002DAEE1,extended,0000000C
+
+[Cheats/Deck Costs 1]
+patch=1,EE,103029F6,extended,00000001
+
+[Cheats/Unlock All Cards]
+patch=1,EE,20216308,extended,3C035237
+patch=1,EE,2021630C,extended,34638B9C
+patch=1,EE,20216310,extended,AC830000
+

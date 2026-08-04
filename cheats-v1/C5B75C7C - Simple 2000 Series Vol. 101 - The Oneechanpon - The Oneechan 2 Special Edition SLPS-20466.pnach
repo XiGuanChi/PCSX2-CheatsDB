@@ -1,0 +1,68 @@
+[Cheats/Infinite Health P1] 
+patch=1,EE,202D94C4,extended,00002710
+patch=1,EE,202D94C8,extended,00002710
+
+[Cheats/Infinite Health P2] 
+patch=1,EE,202FEE14,extended,00002710
+patch=1,EE,202FEE18,extended,00002710
+
+[Cheats/Infinite Life] 
+patch=1,EE,20136488,extended,02A42021
+patch=1,EE,2013648C,extended,8C820078
+patch=1,EE,20136490,extended,AC820074
+
+[Cheats/Max Status]  
+patch=1,EE,2010EA78,extended,2402FFFF
+patch=1,EE,2010EA7C,extended,AC620180
+
+[Cheats/Not Tainted] 
+patch=1,EE,2011935C,extended,24020000
+
+[Cheats/Sword it does not deteriorate] 
+patch=1,EE,20119414,extended,24020000
+
+[Cheats/Attack of the enemy it does not hit] 
+patch=1,EE,20135D68,extended,100000D9
+
+[Cheats/HIT increase +1000] 
+patch=1,EE,2012E2B4,extended,244203E8
+
+[Cheats/Consecutive increase +1000] 
+patch=1,EE,2012E314,extended,244203E8
+
+[Cheats/Runaway Control L1+circle to turn on runaway L1+×  to turn off ] 
+patch=1,EE,2013DC0C,extended,8E421438
+patch=1,EE,D0449D42,extended,0000DBFF
+patch=1,EE,2013DC0C,extended,AE521438
+patch=1,EE,D0449D42,extended,0000BBFF
+patch=1,EE,2013DC0C,extended,AE401438
+
+[Cheats/COLL combination becomes easier to appear] 
+patch=1,EE,20125660,extended,1000002B
+
+[Cheats/Orb Automatic Collection] 
+patch=1,EE,20192870,extended,08064A20
+
+[Cheats/Max Level with 1 yellow orb] 
+patch=1,EE,2011672C,extended,00000000
+
+[Cheats/Infinite Points when status is distributed] 
+patch=1,EE,201F7FD4,extended,240203E8 
+patch=1,EE,201F7FD8,extended,AE420024
+
+[Cheats/Multi-stage jump possibility] 
+patch=1,EE,20133AB8,extended,2403FFFF
+
+[Cheats/Unlock All Difficulty Levels] 
+patch=1,EE,0028A09D,extended,00000005
+
+[Cheats/Unlock All QUEST when viewing] 
+patch=1,EE,2010E400,extended,2402FFFF
+patch=1,EE,2010E404,extended,AC620110
+
+[Cheats/Unlock All STORY & All Character Costumes available] 
+patch=1,EE,2010CA34,extended,24030006
+patch=1,EE,2010CA38,extended,AC830000
+[Cheats/Unlock ] 2010D DE8 2402FFFF
+patch=1,EE,2010DDEC,extended,AC6200F8
+

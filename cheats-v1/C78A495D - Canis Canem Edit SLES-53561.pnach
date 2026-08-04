@@ -1,0 +1,21 @@
+[Cheats/Max Cash] 
+patch=1,EE,21C69730,extended,05F5E0FF
+
+[Cheats/Infinite Health] 
+patch=1,EE,21C69748,extended,43480000
+
+[Cheats/No Trouble Meter] 
+patch=1,EE,21C697D0,extended,00000000
+
+[Cheats/1 Hit Kill] 
+patch=1,EE,200FFF40,extended,3C0101C6
+patch=1,EE,200FFF44,extended,34217D40
+patch=1,EE,200FFF48,extended,10810003
+patch=1,EE,200FFF50,extended,44800800
+patch=1,EE,200FFF54,extended,E4811A08
+patch=1,EE,200FFF58,extended,08061C8E
+patch=1,EE,20187234,extended,0803FFD0
+
+[Cheats/Missions Do Not Fail] 
+patch=1,EE,203823E0,extended,080E08B0
+patch=1,EE,203823E4,extended,00000000

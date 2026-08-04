@@ -1,0 +1,45 @@
+[Cheats/Infinite Gil] 
+patch=1,EE,209ed808,extended,05f5e0ff
+
+[Cheats/Infinite HP 9999] 
+patch=1,EE,109ed830,extended,0000270f
+
+[Cheats/Infinite MP]  
+patch=1,EE,20328ED8,extended,13E00002
+
+[Cheats/1 Hit 9999] 
+patch=1,EE,409ED818,extended,00060001
+patch=1,EE,270F270F,extended,00000000
+
+[Cheats/Exp 9.999.999] 
+patch=1,EE,209ed810,extended,0098967f
+
+[Cheats/Infinite HP and MP*Effective when taking damage]  
+patch=1,EE,20317510,extended,0C03E040
+patch=1,EE,200F8100,extended,3C0E0010
+patch=1,EE,200F8104,extended,ADC48200
+patch=1,EE,200F8108,extended,03E00008
+patch=1,EE,2031854C,extended,0803E000
+patch=1,EE,200F8000,extended,3C0E0010
+patch=1,EE,200F8004,extended,8DCE8200
+patch=1,EE,200F8008,extended,15C40004
+patch=1,EE,200F800C,extended,00000000
+patch=1,EE,200F8010,extended,240E270F
+patch=1,EE,200F8014,extended,AC8E0020
+patch=1,EE,200F8018,extended,AC8E0004
+patch=1,EE,200F801C,extended,03E00008
+
+[Cheats/Items 999x] 
+patch=1,EE,409ED0C4,extended,00320001
+patch=1,EE,000003E7,extended,00000000
+
+[Cheats/Unlock All Movies, Character View, Sound Test & Gallery save data is corrupted.It will be displayed, but it will not affect the progress of the game result] 
+patch=1,EE,204B8780,extended,FFFFFFFF
+patch=1,EE,204B8784,extended,FFFFFFFF
+patch=1,EE,204B8788,extended,FFFFFFFF
+patch=1,EE,204B878C,extended,FFFFFFFF
+patch=1,EE,204B8790,extended,FFFFFFFF
+patch=1,EE,204B8794,extended,000000FF
+patch=1,EE,204B8798,extended,000000FF
+patch=1,EE,204B87B0,extended,FFFFFFFF
+patch=1,EE,204B87B4,extended,000000FF

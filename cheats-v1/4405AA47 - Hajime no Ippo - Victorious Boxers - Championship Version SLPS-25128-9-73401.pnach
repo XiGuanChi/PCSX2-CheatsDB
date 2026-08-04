@@ -1,0 +1,19 @@
+[Cheats/Infinite Stamina 1P]  
+patch=1,EE,102B5A82,extended,00007FFF
+patch=1,EE,102B5A86,extended,00007FFF
+
+[Cheats/TKO Cannot be Taken even if 1P goes down 3 times] 
+patch=1,EE,002B6678,extended,00000000
+
+[Cheats/2P COM Physical Strength 0] 
+patch=1,EE,102B6C32,extended,00000000
+
+[Cheats/COM Stamina  The effect appears from ROUND 2] 
+patch=1,EE,102B6C82,extended,00000000
+
+[Cheats/2P COM TKO when down once] 
+patch=1,EE,002B7878,extended,00000003
+
+[Cheats/Unlock All Stages and All Characters] 
+patch=1,EE,002E649C,extended,0000002F
+patch=1,EE,002E6218,extended,00000001

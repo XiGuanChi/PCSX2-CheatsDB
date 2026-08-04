@@ -1,0 +1,24 @@
+[Cheats/Infinite Nitro P1] 
+patch=1,EE,105D541E,extended,00001388
+
+[Cheats/Max Score P1] 
+patch=1,EE,205D5054,extended,05F5E0FF
+
+[Cheats/P1 Car Never Damaged]  
+patch=1,EE,405D509C,extended,00060002
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Unlock Access All Cars and Tracks] 
+patch=1,EE,2011E630,extended,00000000
+
+[Cheats/Unlock All Arenas] 
+patch=1,EE,00309602,extended,00000001
+patch=1,EE,10309602,extended,00000101
+patch=1,EE,10309604,extended,00000101
+
+[Cheats/Unlock All Drivers and Cars] 
+patch=1,EE,40309619,extended,00060001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,00309630,extended,00000001
+
+

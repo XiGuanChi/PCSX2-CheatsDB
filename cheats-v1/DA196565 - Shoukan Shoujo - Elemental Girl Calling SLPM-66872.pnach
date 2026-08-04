@@ -1,0 +1,21 @@
+[Cheats/Infinite Money 9999999] 
+patch=1,EE,204327D8,extended,0098967F
+
+[Cheats/Infinite HP Madoka] 
+patch=1,EE,2044FDD0,extended,000002E6
+
+[Cheats/Infinite Battery] 
+patch=1,EE,201CEC50,extended,00802023
+
+[Cheats/Always Best Mood] 
+patch=1,EE,201D4864,extended,100000C4
+
+[Cheats/Infinite Quest Time On Start+L2 Off Start+L1] 
+patch=1,EE,D0387FC2,extended,0000FEF7
+patch=1,EE,201CFC20,extended,00401023
+patch=1,EE,D0387FC2,extended,0000FBF7
+patch=1,EE,201CFC20,extended,00431023
+
+[Cheats/Unlock All CG] 
+patch=1,EE,40430BD0,extended,000D0001
+patch=1,EE,FFFFFFFF,extended,00000000

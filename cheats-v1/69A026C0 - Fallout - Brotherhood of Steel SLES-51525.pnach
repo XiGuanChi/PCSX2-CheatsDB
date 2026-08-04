@@ -1,0 +1,14 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2015AB78,extended,E6620054
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,201A9534,extended,00000000
+
+[Cheats/Disable AI Ignore Enemy] 
+patch=1,EE,20109AEC,extended,24020001
+
+[Cheats/Infinite Caps] 
+patch=1,EE,201685CC,extended,0C03FFD0
+patch=1,EE,201685D0,extended,3C060090
+patch=1,EE,200FFF40,extended,AC660824
+patch=1,EE,200FFF44,extended,08071D42

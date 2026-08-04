@@ -1,0 +1,54 @@
+[Cheats/Charactere 1 HP 9999 And 9999 Battle Only Strategy Map] 
+patch=1,EE,10ED7FFC,extended,0000270F
+patch=1,EE,10ED8000,extended,0000270F
+
+[Cheats/Max Magical Level When Magical Experience it is worthy of Procures] 
+patch=1,EE,20172AFC,extended,2407270F
+
+[Cheats/Friend HP Largest Maintenance] 
+patch=1,EE,20173160,extended,8DE100BC
+patch=1,EE,20173164,extended,ADE100C0
+patch=1,EE,20173168,extended,1000001B
+patch=1,EE,2017316C,extended,0000782D
+
+[Cheats/Character 1 MP 9999] 
+patch=1,EE,10ED8008,extended,0000270F
+patch=1,EE,10ED800C,extended,0000270F
+
+[Cheats/Character 1 Stats 999]  
+patch=1,EE,40ED7FD4,extended,00050001
+patch=1,EE,03E703E7,extended,00000000
+
+[Cheats/Character 1 MOV.15]  
+patch=1,EE,10ED8016,extended,0000000F
+
+[Cheats/Character 2 HP And MP 9999] 
+patch=1,EE,10ED81B0,extended,0000270F
+patch=1,EE,10ED81B4,extended,0000270F
+patch=1,EE,10ED81BC,extended,0000270F
+patch=1,EE,10ED81C0,extended,0000270F
+
+[Cheats/Character 2 Stats 999]  
+patch=1,EE,40ED8188,extended,00050001
+patch=1,EE,03E703E7,extended,00000000
+
+[Cheats/Character 2 MOV. 15]  
+patch=1,EE,10ED81CA,extended,0000000F
+
+[Cheats/Character 3 HP And MP 9999]  
+patch=1,EE,10ED8364,extended,0000270F
+patch=1,EE,10ED8368,extended,0000270F
+patch=1,EE,10ED8370,extended,0000270F
+patch=1,EE,10ED8374,extended,0000270F
+
+[Cheats/Character 3 Stats 999] 
+patch=1,EE,40ED833C,extended,00050001
+patch=1,EE,03E703E7,extended,00000000
+
+[Cheats/Character 3 MOV. 15]  
+patch=1,EE,10ED837E,extended,0000000F
+
+[Cheats/Clear The Stage Press SELECT+Up Valid At Player Turn] 
+patch=1,EE,20175AE4,extended,91070199
+patch=1,EE,D02A2D02,extended,0000FFEE
+patch=1,EE,20175AE4,extended,24070000

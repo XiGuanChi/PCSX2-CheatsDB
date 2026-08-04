@@ -1,0 +1,27 @@
+[Cheats/Infinite Credits] 
+patch=1,EE,208C7438,extended,05F5E0FF
+
+[Cheats/Infinite Armor] 
+patch=1,EE,D1D052B4,extended,00100008
+patch=1,EE,21D052B4,extended,00002705
+
+[Cheats/Infinite Energy] 
+patch=1,EE,D1D07318,extended,0010302D
+patch=1,EE,21D07318,extended,00014000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,D02B8510,extended,00000001
+patch=1,EE,21C4D180,extended,24620000
+
+[Cheats/Low Temperature] 
+patch=1,EE,D1D07320,extended,001000B1
+patch=1,EE,21D07320,extended,41A00000
+
+[Cheats/Infinite time]  
+patch=1,EE,201C83FC,extended,00000000
+
+[Cheats/Have All Parts]  
+patch=1,EE,E003202D,extended,01CBF740
+patch=1,EE,21CBF75C,extended,24030011                                      
+patch=1,EE,21CBF7BC,extended,24030011
+patch=1,EE,21CBF7C0,extended,A1030000

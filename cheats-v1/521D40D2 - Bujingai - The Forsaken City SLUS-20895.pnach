@@ -1,0 +1,20 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20141D48,extended,E4336E00
+
+[Cheats/Infinite Spell Gauge] 
+patch=1,EE,2024CA44,extended,AC836E08
+
+[Cheats/Infinite Swordplay Gauge] 
+patch=1,EE,2024C9B0,extended,AC836E10
+
+[Cheats/Have All Spells] 
+patch=1,EE,2012F9E8,extended,00440821
+patch=1,EE,2012F9EC,extended,24020001
+patch=1,EE,2012F9F0,extended,03E00008
+patch=1,EE,2012F9F4,extended,A0220000
+
+[Cheats/Unlock Stage Select] 
+patch=1,EE,005C645A,extended,000000FF
+
+[Cheats/Unlock Special Options and Stage Select] 
+patch=1,EE,005C645B,extended,00000001

@@ -1,0 +1,29 @@
+[Cheats/Max Cash] 
+patch=1,EE,206306FC,extended,000F423F
+
+[Cheats/Time Stop Press Circle+L3 time goes back Circle+R3] 
+patch=1,EE,D065DDC2,extended,0000DFFD
+patch=1,EE,2028BC18,extended,00000000
+patch=1,EE,D065DDC2,extended,0000DFFB
+patch=1,EE,2028BC18,extended,26520001
+
+[Cheats/In Battle Press L3 30,000 Damage R3 0 Damage Only effective while pressed] 
+patch=1,EE,200F9100,extended,3C0F0066
+patch=1,EE,200F9104,extended,95EFDDC2
+patch=1,EE,200F9108,extended,39EEFFFD
+patch=1,EE,200F910C,extended,15C00005
+patch=1,EE,200F9110,extended,39EEFFFB
+patch=1,EE,200F9114,extended,AD400000
+patch=1,EE,200F9118,extended,240D8AD0
+patch=1,EE,200F911C,extended,AD2D0000
+patch=1,EE,200F9124,extended,15C00005
+patch=1,EE,200F912C,extended,AD4F0000
+patch=1,EE,200F9130,extended,AD200000
+patch=1,EE,200F913C,extended,03E00008
+patch=1,EE,20252EA8,extended,0803E440
+
+[Cheats/Press X+L2 No Enemies X+R2 Enemies This only works in normal battles it has no effect on event battles] 
+patch=1,EE,D065DDC2,extended,0000BEFF
+patch=1,EE,20284730,extended,00000000
+patch=1,EE,D065DDC2,extended,0000BDFF
+patch=1,EE,20284730,extended,0C08E79C

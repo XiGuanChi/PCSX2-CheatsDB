@@ -1,0 +1,13 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200C0220,extended,24010096
+patch=1,EE,200C0224,extended,AC6102B4
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,E68002BC
+patch=1,EE,20260DD8,extended,0C030088
+
+[Cheats/infinite Ammo] 
+patch=1,EE,20363B60,extended,24030063
+patch=1,EE,20363B64,extended,AC830278
+
+[Cheats/1 Hit Kill]  
+patch=1,EE,201EDCCC,extended,AE2002B4

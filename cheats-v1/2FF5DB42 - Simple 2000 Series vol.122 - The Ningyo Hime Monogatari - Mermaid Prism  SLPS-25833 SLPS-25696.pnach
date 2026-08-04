@@ -1,0 +1,16 @@
+[Cheats/Infinite HP] 
+patch=1,EE,204CF86C,extended,00000064
+patch=1,EE,204CF082,extended,000042C8
+
+[Cheats/Max HP] 
+patch=1,EE,204CC600,extended,42C80000
+
+[Cheats/Unlock All Gallery will appear in the title menu] 
+patch=1,EE,004CA830,extended,00000001
+
+[Cheats/Unlock All Items] 
+patch=1,EE,404CF156,extended,00190001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,404CF12F,extended,00070001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,004CF14B,extended,00000001

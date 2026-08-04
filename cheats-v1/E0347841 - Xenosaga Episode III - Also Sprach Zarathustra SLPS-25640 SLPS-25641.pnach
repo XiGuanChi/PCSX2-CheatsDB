@@ -1,0 +1,77 @@
+[Cheats/Max Money] 
+patch=1,EE,2054F15C,extended,05F5E0FF
+
+[Cheats/All Characters Max HP 9999] 
+patch=1,EE,404C9380,extended,000A003A
+patch=1,EE,0000270F,extended,00000000
+
+[Cheats/All Characters Max EP STR 999] 
+patch=1,EE,404C9384,extended,000A003A
+patch=1,EE,03E703E7,extended,00000000
+
+[Cheats/All Characters Max SP 99999] 
+patch=1,EE,404CA3D8,extended,000A0016
+patch=1,EE,0001869F,extended,00000000
+
+[Cheats/Infinite Items In Battle] 
+patch=1,EE,D0A86596,extended,00002442
+patch=1,EE,20A86594,extended,20420000
+
+[Cheats/Max SP After Battle  
+patch=1,EE,D0A8843A,extended,0000AC62
+patch=1,EE,20A88438,extended,AC640008
+
+[Cheats/HP Recovery After Battle]  
+patch=1,EE,D0A98D3C,extended,00000038
+patch=1,EE,20A98D3C,extended,8E020000
+
+[Cheats/EP Recovery After Battle] 
+patch=1,EE,D0A98D50,extended,0000003C
+patch=1,EE,20A98D50,extended,96020004
+
+[Cheats/In Battle Select+UP HP 9999] 
+patch=1,EE,D0865B02,extended,0000FFEE
+patch=1,EE,10AC3CE8,extended,0000270F
+patch=1,EE,D0865B02,extended,0000FFEE
+patch=1,EE,10AC3DD0,extended,0000270F
+patch=1,EE,D0865B02,extended,0000FFEE
+patch=1,EE,10AC3EB8,extended,0000270F
+
+[Cheats/In Battle Select+UP EP 9999] 
+patch=1,EE,D0865B02,extended,0000FFEE
+patch=1,EE,10AC3CEC,extended,000003E7
+patch=1,EE,D0865B02,extended,0000FFEE
+patch=1,EE,10AC3DD4,extended,000003E7
+patch=1,EE,D0865B02,extended,0000FFEE
+patch=1,EE,10AC3EBC,extended,000003E7
+
+[Cheats/Shion Max HP 9999]
+patch=1,EE,104C9380,extended,0000270F
+
+[Cheats/Shion Max EP & STR 999] 
+patch=1,EE,204C9384,extended,03E703E7
+
+[Cheats/Shion VIT & EATK 999] 
+patch=1,EE,204C9388,extended,03E703E7
+
+[Cheats/Shion EDEF 999, BREAK LIMIT 9999] 
+patch=1,EE,204C938C,extended,270F03E7
+
+[Cheats/Shion DEX, EVA, AGI, LUK 99] 
+patch=1,EE,204C9390,extended,63636363
+
+[Cheats/Shion Currently HP 9999] 
+patch=1,EE,104C93B8,extended,0000270F
+
+[Cheats/Shion Current EP 999] 
+patch=1,EE,104C93BC,extended,000003E7
+
+[Cheats/Shion EXP required to level up 0] 
+patch=1,EE,204CA3D4,extended,00000000
+
+[Cheats/Shion SP 99999] 
+patch=1,EE,204CA3D8,extended,0001869F
+
+[Cheats/Debug Mode Map Select Only] 
+patch=1,EE,201BB1B8,extended,24020000
+patch=1,EE,2018268C,extended,00000000

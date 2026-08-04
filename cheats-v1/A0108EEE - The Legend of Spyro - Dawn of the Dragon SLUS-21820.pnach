@@ -1,0 +1,38 @@
+[Cheats/Spyro Infinite HP] 
+patch=1,EE,20395200,extended,8C620004
+
+[Cheats/Cynder Infinite HP] 
+patch=1,EE,20395240,extended,8C620004
+
+[Cheats/Spyro Infinite Elements Power] 
+patch=1,EE,203954E0,extended,00401023
+
+[Cheats/Cynder Infinite Elements Power] 
+patch=1,EE,20395520,extended,00401023
+
+[Cheats/Spyros Infinite Hp] 
+patch=1,EE,209FEAE0,extended,0000270F
+
+[Cheats/Spyros Max HP] 
+patch=1,EE,209FEAE4,extended,0000270F
+
+[Cheats/Spyros Infinite Elements] 
+patch=1,EE,209FEAF8,extended,0000270F
+
+[Cheats/Spyros Max Elements] 
+patch=1,EE,209FEAFC,extended,0000270F
+
+[Cheats/Cynders Infinite HP] 
+patch=1,EE,209FEAE8,extended,0000270F
+
+[Cheats/Cynders Max HP] 
+patch=1,EE,209FEAEC,extended,0000270F
+
+[Cheats/Cynders Infinite Elements] 
+patch=1,EE,209FEB00,extended,0000270F
+
+[Cheats/Cynders Max Elements] 
+patch=1,EE,209FEB04,extended,0000270F
+
+[Cheats/Upgrades Dont Decreas Experience] 
+patch=1,EE,203BF968,extended,00401023

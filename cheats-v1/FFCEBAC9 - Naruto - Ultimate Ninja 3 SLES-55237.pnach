@@ -1,0 +1,83 @@
+[Cheats/Max Cash] 
+patch=1,EE,202D16D8,extended,3C0505F0
+patch=1,EE,202D16F0,extended,AC450644
+
+[Cheats/Max Cash After Buying Something] 
+patch=1,EE,202D18E0,extended,3C1005F0
+
+[Cheats/Player 1 Infinite Health] 
+patch=1,EE,201D5790,extended,0C03FFC0
+patch=1,EE,200FFF00,extended,14120007
+patch=1,EE,200FFF08,extended,3C013F80
+patch=1,EE,200FFF0C,extended,AC810068
+patch=1,EE,200FFF40,extended,08074BBC
+
+[Cheats/Infinite Chakra] 
+patch=1,EE,201D5790,extended,0C03FFC0
+patch=1,EE,200FFF00,extended,14120007
+patch=1,EE,200FFF10,extended,3C014180
+patch=1,EE,200FFF14,extended,AC81006C
+patch=1,EE,200FFF40,extended,08074BBC
+
+[Cheats/Player 2 1 Hit Kill] 
+patch=1,EE,201D5790,extended,0C03FFC0
+patch=1,EE,200FFF20,extended,10120007
+patch=1,EE,200FFF28,extended,3C013A00
+patch=1,EE,200FFF2C,extended,AC810068
+patch=1,EE,200FFF40,extended,08074BBC
+
+[Cheats/Special Enabler Must be on for following Codes] 
+patch=1,EE,200C0220,extended,3C013F80
+patch=1,EE,200C0224,extended,52400001
+patch=1,EE,200C022C,extended,56400001
+patch=1,EE,200C0234,extended,0806D863
+patch=1,EE,200C0238,extended,00000000
+patch=1,EE,201B65E4,extended,08030088
+
+[Cheats/Infinite Health] 
+patch=1,EE,200C0228,extended,AC810068
+
+[Cheats/Press L2+Select P2 Instant Kill] 
+patch=1,EE,D063D140,extended,0000FEFE
+patch=1,EE,200C0230,extended,AC800068
+
+[Cheats/Unlock All Characters Mission Mode] 
+patch=1,EE,20278754,extended,24020003
+
+[Cheats/Unlock All Characters VS. Duel Mode] 
+patch=1,EE,20278708,extended,24020003
+
+[Cheats/Have All Max Purchased Attack Owned Items] 
+patch=1,EE,2027C6B0,extended,24020063
+
+[Cheats/Have All Purchased Other Owned Items] 
+patch=1,EE,2027CAA4,extended,24020063
+
+[Cheats/Unlock Naruto's House Have Figures] 
+patch=1,EE,202762D8,extended,2402FFFF
+
+[Cheats/UnlockNaruto's House Have Videos And Ultimate Jutsu] 
+patch=1,EE,20276540,extended,2402FFFF
+
+[Cheats/Unlock Naruto's House Have Voices]
+patch=1,EE,20276388,extended,2402FFFF
+
+[Cheats/Unlock Naruto's House Have Musics] 
+patch=1,EE,20276330,extended,2402FFFF
+
+[Cheats/Unlock Naruto's House Have Sinobi Ninja Info Card]
+patch=1,EE,20276490,extended,2402FFFF
+
+[Cheats/Unlock Naruto's House Have Jutsu Ninja Info Card]
+patch=1,EE,20276438,extended,2402FFFF
+
+[Cheats/Unlock Naruto's House Have Tactics Ninja Info Card]
+patch=1,EE,202764E8,extended,2402FFFF
+[Cheats/Unlock Naruto's House Have Client Ninja Info Card] 
+patch=1,EE,202763E0,extended,2402FFFF
+
+[Cheats/Unlock Naruto's House Have Secret Techniques]
+patch=1,EE,20276598,extended,2402FFFF
+
+[Cheats/Unlock Naruto's House Have Guide Ninja] 
+patch=1,EE,2027C65C,extended,2402FFFF

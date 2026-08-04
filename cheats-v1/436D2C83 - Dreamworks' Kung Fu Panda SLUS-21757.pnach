@@ -1,0 +1,24 @@
+[Cheats/Max Coins] 
+patch=1,EE,206A6B20,extended,10000000
+
+[Cheats/Infinite HP MAYBE its Buged] 
+patch=1,EE,200A0000,extended,46000D06
+patch=1,EE,200A0004,extended,10E00003
+patch=1,EE,200A000C,extended,3C024395
+patch=1,EE,200A0010,extended,4482A000
+patch=1,EE,200A0018,extended,0805C4B6
+patch=1,EE,200A001C,extended,E61407F8
+patch=1,EE,20370BB8,extended,08028000
+
+[Cheats/Have Max Panda Techniques] 
+patch=1,EE,006A6B2B,extended,00000004
+patch=1,EE,006A6B34,extended,00000004
+patch=1,EE,106A6B36,extended,00000404
+patch=1,EE,006A6B39,extended,00000004
+
+[Cheats/Have Max Basic Stats] 
+patch=1,EE,106A6B28,extended,00000404
+patch=1,EE,006A6B2A,extended,00000004
+patch=1,EE,206A6B2C,extended,04040404
+patch=1,EE,006A6B38,extended,00000004
+

@@ -1,0 +1,32 @@
+[Cheats/Infinite Health] 
+patch=1,EE,201EECE0,extended,137B0009
+patch=1,EE,201EED14,extended,ACA102F8
+
+[Cheats/Infinite Medical Packs]  
+patch=1,EE,2013CC0C,extended,24020003
+patch=1,EE,2013CD1C,extended,24040003
+
+[Cheats/Infinite Ammo]  
+patch=1,EE,201579A0,extended,24420000
+
+[Cheats/Infinite Grenades] 
+patch=1,EE,201552D8,extended,24630000
+
+[Cheats/Infinite Stamina] 
+patch=1,EE,205A95A8,extended,4B180000
+
+[Cheats/Invincible Blurry disappears upon damage] 
+patch=1,EE,2013BCD8,extended,10000087
+patch=1,EE,2013BF5C,extended,100000D2
+patch=1,EE,2013C820,extended,1000001A
+patch=1,EE,2013C8BC,extended,1000002E
+
+[Cheats/Unlock Stealth & Invincibility] 
+patch=1,EE,205A963C,extended,00000001
+
+[Cheats/Unlock All Normal Mission Appearance] 
+patch=1,EE,2020EA68,extended,24030001
+patch=1,EE,2020EA6C,extended,A043001A
+
+[Cheats/Unlock Choose Difficulty Level BLACK OPS]
+patch=1,EE,2020F2E4,extended,24020003

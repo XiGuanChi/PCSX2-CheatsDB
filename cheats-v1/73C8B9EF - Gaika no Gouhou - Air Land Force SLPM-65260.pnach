@@ -1,0 +1,46 @@
+[Cheats/Max Military Funds]  
+patch=1,EE,20FCD000,extended,05F5E0FF
+
+[Cheats/Clear The Map Max Military Funds] 
+patch=1,EE,2025D5D0,extended,00000000
+
+[Cheats/Clear The Map Max Military Funds alt] 
+patch=1,EE,D025D5D0,extended,00000005
+patch=1,EE,D025D5D2,extended,00001420
+patch=1,EE,2025D5D0,extended,00000000
+
+[Cheats/Max Military Funds ALT]  
+patch=1,EE,D025D5D0,extended,00000005
+patch=1,EE,D025D5D2,extended,00001420
+patch=1,EE,20FCD000,extended,05F5E0FF
+
+[Cheats/Current Supply Drop Max] 
+patch=1,EE,20FD2408,extended,05F5E0FF
+
+[Cheats/Current Supply Drop 0 Enemy 1] 
+patch=1,EE,20FD3388,extended,00000000
+
+[Cheats/Current Supply Drop 0 Enemy 2] 
+patch=1,EE,20FD4308,extended,00000000
+
+[Cheats/Current Supply Drop 0 Enemy 3] 
+patch=1,EE,20FD5288,extended,00000000
+
+[Cheats/1st legion formation unit Enemy 1 level 1]
+patch=1,EE,00FD2486,extended,00000001
+
+[Cheats/1st legion formation unit Enemy 1 EXP 0]
+patch=1,EE,10FD2490,extended,00000000
+
+[Cheats/1st legion formation unit Enemy 2] 
+patch=1,EE,00FD3406,extended,00000001
+
+[Cheats/1st legion formation unit Enemy 2 EXP 0]
+patch=1,EE,10FD3410,extended,00000000
+
+[Cheats/1st legion formation unit Enemy 3] 
+patch=1,EE,00FD4386,extended,00000001
+
+[Cheats/1st legion formation unit Enemy 3 EXP 0] 
+patch=1,EE,10FD4390,extended,00000000
+

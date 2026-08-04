@@ -1,0 +1,19 @@
+[Cheats/Cars Take No Damage]  
+patch=1,EE,201C9FA8,extended,03E00008
+patch=1,EE,201C9FAC,extended,00000000
+
+[Cheats/Challenges Never Have Fail Stipulations]  
+patch=1,EE,201E3630,extended,03E00008
+patch=1,EE,201E3634,extended,00000000
+
+[Cheats/Infinite Available Skill Points]  
+patch=1,EE,11FD0EC0,extended,0000FFFF
+
+[Cheats/Infinite Fuel] 
+patch=1,EE,201626B8,extended,00000000
+
+[Cheats/Infinite Tire Wear] 
+patch=1,EE,201547A8,extended,00000000
+
+[Cheats/Max Available Skill Points] 
+patch=1,EE,F0B1F99D,extended,B4153EDE

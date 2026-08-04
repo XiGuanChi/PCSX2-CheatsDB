@@ -1,0 +1,18 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20130C38,extended,C6200D24
+patch=1,EE,20130C40,extended,E6200D20
+
+[Cheats/Infinite Ammo All Weapons] 
+patch=1,EE,2020046c,extended,240203E7
+
+[Cheats/No Reload] 
+patch=1,EE,201FEFb4,extended,00000000
+
+[Cheats/Infinite Time For Hack] 
+patch=1,EE,2021E674,extended,00000000
+
+[Cheats/Debug Menu Press R3+Up ON R3+Down OFF] 
+patch=1,EE,D0423B82,extended,0000FFEB
+patch=1,EE,003C9eB0,extended,00000001
+patch=1,EE,D0423B82,extended,0000FFBB
+patch=1,EE,003C9eB0,extended,00000000

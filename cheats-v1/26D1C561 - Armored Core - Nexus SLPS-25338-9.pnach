@@ -1,0 +1,27 @@
+[Cheats/Infinite EN]  
+patch=1,EE,20298FE0,extended,00020000
+
+[Cheats/Infinite AP] 
+patch=1,EE,20298FD4,extended,00007D00
+
+[Cheats/Infinite Energy & Overheat]  
+patch=1,EE,20298FDC,extended,00007FFF
+patch=1,EE,20298FE0,extended,00007FFF
+
+[Cheats/Infinite Ammo All Weapons] 
+patch=1,EE,10299854,extended,0000270F
+patch=1,EE,102998E4,extended,0000270F
+patch=1,EE,10299974,extended,0000270F
+patch=1,EE,10299A04,extended,0000270F
+
+[Cheats/Weapon No Reload Time 0] 
+patch=1,EE,00299847,extended,00000000
+patch=1,EE,002998D7,extended,00000000
+patch=1,EE,00299967,extended,00000000
+patch=1,EE,002999F7,extended,00000000
+
+[Cheats/Ammo Unit Price And EN Consumption 0] 
+patch=1,EE,10299858,extended,00000000
+patch=1,EE,102998E8,extended,00000000
+patch=1,EE,10299978,extended,00000000
+patch=1,EE,10299A08,extended,00000000

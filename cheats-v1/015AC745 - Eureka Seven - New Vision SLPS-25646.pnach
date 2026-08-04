@@ -1,0 +1,53 @@
+[Cheats/Skip All Demoscenes with the start button] 
+patch=1,EE,202C2FB8,extended,00000000
+patch=1,EE,202D4CA8,extended,00000000
+
+[Cheats/Max AP Gauge for Survival press SELECT self-destruct] 
+patch=1,EE,202E8908,extended,C44108F0
+patch=1,EE,202E8910,extended,E44108EC
+patch=1,EE,202E8918,extended,46800D20
+patch=1,EE,D03AB2D4,extended,00000100
+patch=1,EE,202E8918,extended,AC4008EC
+
+[Cheats/Infinite Recovery medicine is displayed as a circle or a heart below Health Gauge. In addition to automatically recovering when your Health decreases, it can also be used for on-the-spot revival of the one-shot death zone in the second half rail ride] 
+patch=1,EE,202F02D0,extended,24020003
+patch=1,EE,202F02D4,extended,AC820A30
+patch=1,EE,202F02D8,extended,03E00008
+
+[Cheats/Max TR Gauge At LFO riff]  
+patch=1,EE,201CE4E0,extended,C480164C
+patch=1,EE,201CE4E4,extended,E4801648
+patch=1,EE,201CE4E8,extended,03E00008
+
+[Cheats/Max AP Gauge When boarding an LFO]  
+patch=1,EE,202E8908,extended,C44108F0
+patch=1,EE,202E8910,extended,E44108EC
+patch=1,EE,202E8918,extended,46800D20
+
+[Cheats/Max VR Gauge When boarding an LFO] 
+patch=1,EE,202E8AD4,extended,C60C0964
+patch=1,EE,202E8AD8,extended,E60C0960
+
+[Cheats/Max ST Gauge Character time]  
+patch=1,EE,2031EAB4,extended,C60C0964
+patch=1,EE,2031EAD8,extended,E60C0960
+
+[Cheats/Max HP Gauge Character time] 
+patch=1,EE,2031EBB0,extended,C44108F0
+patch=1,EE,2031EBB4,extended,E44108EC
+patch=1,EE,2031EBBC,extended,46800D20
+
+[Cheats/Max Money Story mode after Looking at Status]
+patch=1,EE,202F05C0,extended,3C0205F5
+patch=1,EE,202F05C4,extended,3442E100
+patch=1,EE,202F05C8,extended,03E00008
+patch=1,EE,202F05CC,extended,AC820A14
+
+[Cheats/Max Money when the stage is cleared] 
+patch=1,EE,202F05A4,extended,00000000
+
+[Cheats/TOTAL SCORE 100 million at the time of clearing the stage] 
+patch=1,EE,20319EF4,extended,3C0205F5
+patch=1,EE,20319EF8,extended,3442E100
+patch=1,EE,2032CF4C,extended,3C0205F5
+patch=1,EE,2032CF50,extended,3442E100

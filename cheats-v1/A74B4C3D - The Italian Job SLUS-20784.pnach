@@ -1,0 +1,42 @@
+[Cheats/Max Score] 
+patch=1,EE,200C0220,extended,3421967F
+patch=1,EE,200C0224,extended,AE010068
+patch=1,EE,200C0228,extended,AE01006C
+patch=1,EE,200C022C,extended,C6000068
+patch=1,EE,200C0230,extended,03E00008
+patch=1,EE,200C0234,extended,C602006C
+patch=1,EE,20137958,extended,0C030088
+patch=1,EE,2013795C,extended,3C014B18
+
+[Cheats/Infinite Time Mission Mode] 
+patch=1,EE,2013BE4C,extended,00000000
+
+[Cheats/Infinite Time Stunt Mode] 
+patch=1,EE,20142904,extended,00000000
+
+[Cheats/Unlock All Story Mode Levels] 
+patch=1,EE,402DC700,extended,000F0003
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Have Best Time Trial Laps All Tracks] 
+patch=1,EE,402DC7BC,extended,000A0002
+patch=1,EE,00000031,extended,00000000
+
+[Cheats/Unlock All Bonus Content] 
+patch=1,EE,202A6794,extended,00000001
+
+[Cheats/Unlock All Stunt Driving Courses] 
+patch=1,EE,402DC808,extended,00040004
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock MINI Cooper Vehicle All Colors] 
+patch=1,EE,402DC878,extended,00040001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock Original MINI Cooper Vehicle All Colors] 
+patch=1,EE,402DC894,extended,00040001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Cars] 
+patch=1,EE,402DC8A4,extended,000A0001
+patch=1,EE,00000001,extended,00000000

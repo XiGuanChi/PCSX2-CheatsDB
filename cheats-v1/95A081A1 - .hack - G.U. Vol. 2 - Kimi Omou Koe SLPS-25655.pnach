@@ -1,0 +1,162 @@
+[Cheats/Max Money] 
+patch=1,EE,20A481C0,extended,05F5E0FF
+
+[Cheats/Haseo Main Character Max HP] 
+patch=1,EE,20A481C4,extended,00018696
+
+[Cheats/Haseo Main Character Max SP] 
+patch=1,EE,20A481C8,extended,00018696
+
+[Cheats/Greeting Card 99] 
+patch=1,EE,20A51400,extended,63636363
+patch=1,EE,20A51404,extended,63636363
+
+[Cheats/Max Favorability With Gifts] 
+patch=1,EE,201E4C18,extended,10000005
+
+[Cheats/HP Recovery In Battle] 
+patch=1,EE,D0504DF4,extended,00000035
+patch=1,EE,20504DF4,extended,10000035
+
+[Cheats/SP Recovery In Battle] 
+patch=1,EE,D0504E44,extended,0000FF6A
+patch=1,EE,20504E44,extended,00000000
+
+[Cheats/After Level Up HP Upper Limit 9999] 
+patch=1,EE,2033C7C4,extended,24010000
+
+[Cheats/After Level Up SP Upper Limit 9999] 
+patch=1,EE,2033C7DC,extended,24010000
+
+[Cheats/After Level Up Physical Attack 999] 
+patch=1,EE,2033C7EC,extended,24010000
+
+[Cheats/After Level U pPhysical Defense 999] 
+patch=1,EE,2033C7FC,extended,24010000
+
+[Cheats/After Level Up Magic Attack 999]  
+patch=1,EE,2033C80C,extended,24010000 
+
+[Cheats/After Level Up Magic Defense 999] 
+patch=1,EE,2033C81C,extended,24010000 
+
+[Cheats/After Level Up Fire Attribute 999] 
+patch=1,EE,2033C84C,extended,24010000 
+
+[Cheats/After Level Up Water Attribute 999] 
+patch=1,EE,2033C83C,extended,24010000 
+
+[Cheats/After Level Up Wind Attribute 999]  
+patch=1,EE,2033C85C,extended,24010000 
+
+[Cheats/After Level Up Earth Attribute 999]  
+patch=1,EE,2033C82C,extended,24010000 
+
+[Cheats/After Level Up Light Attribute 999]  
+patch=1,EE,2033C86C,extended,24010000 
+
+[Cheats/After Level Up Dark Attribute 999] 
+patch=1,EE,2033C87C,extended,24010000
+
+[Cheats/Avatar Battle Normal Scath HP Recovery Not Supported During Enemy Data Drain Attack]
+patch=1,EE,D06F92C8,extended,0000C640
+patch=1,EE,206F92C4,extended,8E210010
+patch=1,EE,D06F92C8,extended,0000C640
+patch=1,EE,206F92D4,extended,AE21000C
+
+[Cheats/Avatar Battle Enemy Protect Break] 
+patch=1,EE,D06F92C8,extended,0000C640
+patch=1,EE,206F92F0,extended,AE200068
+
+[Cheats/Avatar Battle Break With One Enemy Blow] 
+patch=1,EE,D06F92E4,extended,0000C640
+patch=1,EE,206F92E0,extended,3C013727
+patch=1,EE,D06F92E4,extended,0000C640
+patch=1,EE,206F92F0,extended,AE210068
+
+[Cheats/Crimson VS Auto Match Always Win Effective when automatic battle is performed when CrimsonVS is started]
+patch=1,EE,D0513FBC,extended,00000058
+patch=1,EE,20513FBC,extended,10000058
+
+[Cheats/Bike Infinite Bike Boost During Missions] 
+patch=1,EE,D05F4FB4,extended,00000210
+patch=1,EE,205F4FB4,extended,A4820210
+  
+[Cheats/Bike Infinite Mission Time] 
+patch=1,EE,D05F4CFC,extended,00008CA0
+patch=1,EE,205F4D00,extended,24020001
+
+[Cheats/Bike All Engines] 
+patch=1,EE,20A56E88,extended,01010101 
+patch=1,EE,20A56E8C,extended,01010101
+
+[Cheats/Bike All Cowls] 
+patch=1,EE,20A56E90,extended,01010101
+patch=1,EE,20A56E94,extended,01010101
+
+[Cheats/Bike All Mufflers] 
+patch=1,EE,20A56E98,extended,01010101 
+patch=1,EE,20A56E9C,extended,01010101 
+
+[Cheats/Bike All Tires Not Reflected In Yaoyojana no Sho] 
+patch=1,EE,20A56EA0,extended,01010101 
+patch=1,EE,20A56EA4,extended,01010101
+
+[Cheats/Adora's Key 98 Pieces Effective When Obtaining Or Using The Key] 
+patch=1,EE,200F8900,extended,24020036
+patch=1,EE,200F8904,extended,84300000
+patch=1,EE,200F8908,extended,16020003
+patch=1,EE,200F890C,extended,84220002
+patch=1,EE,200F8910,extended,24020062 
+patch=1,EE,200F8914,extended,A4220002
+patch=1,EE,200F8918,extended,0807A609
+patch=1,EE,201E9818,extended,0040082D 
+patch=1,EE,201E981C,extended,0803E240
+
+[Cheats/Unlock All Cards In Possession 9 of Each View The Card Gallery] 
+patch=1,EE,201DFF0C,extended,00620821
+patch=1,EE,201DFF10,extended,10000004
+patch=1,EE,201DFF14,extended,24020009
+patch=1,EE,201DFF24,extended,03E00008
+patch=1,EE,201DFF28,extended,A022F638
+
+[Cheats/UnlockLucky Data Collection Plan Animal All List]  
+patch=1,EE,20A56E48,extended,63636363
+patch=1,EE,20A56E4C,extended,63636363
+patch=1,EE,20A56E50,extended,63636363
+patch=1,EE,20A56E54,extended,63636363
+patch=1,EE,20A56E58,extended,63636363
+
+[Cheats/Unlock Four Sashi Book of Liu All Weapon List When You Look At The Item Details] 
+patch=1,EE,201E0D44,extended,8041F0F0
+patch=1,EE,201E0D48,extended,00230825
+patch=1,EE,201E0D50,extended,A041F0F0
+
+[Cheats/Unlock Book of Liu All Monster List] 
+patch=1,EE,20A57554,extended,FFFFFFFF
+patch=1,EE,20A57558,extended,FFFFFFFF 
+patch=1,EE,20A5755C,extended,FFFFFFFF
+patch=1,EE,20A57560,extended,FFFFFFFF
+patch=1,EE,20A57564,extended,FFFFFFFF 
+patch=1,EE,20A57568,extended,FFFFFFFF 
+patch=1,EE,20A5756C,extended,FFFFFFFF
+patch=1,EE,10A57570,extended,000 07FFF
+patch=1,EE,10A57552,extended,0000FFFF
+
+[Cheats/Unlock All BGM] 
+patch=1,EE,201E6470,extended,24020002
+patch=1,EE,201E6474,extended,A0620000
+patch=1,EE,201E6478,extended,10000008
+
+[Cheats/Unlock All Wallpapers]  
+patch=1,EE,201E6310,extended,24020002
+patch=1,EE,201E6314,extended,A0620000
+patch=1,EE,201E6318,extended,10000008
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,201E5DA0,extended,24020002
+patch=1,EE,201E5DA4,extended,A0620000
+patch=1,EE,201E5DA8,extended,10000008
+patch=1,EE,D04B2CE8,extended,0000002C
+patch=1,EE,204B2CEC,extended,10000009
+

@@ -1,0 +1,36 @@
+[Cheats/Infinite Bonus Points] 
+patch=1,EE,102C8A32,extended,000003E7
+
+[Cheats/Edward ALC 999] 
+patch=1,EE,102c8a2e,extended,000003e7
+
+[Cheats/Edward HP 9999] 
+patch=1,EE,102c8a28,extended,0000270f
+patch=1,EE,102c8a2a,extended,0000270f
+
+[Cheats/Edward ATK 999] 
+patch=1,EE,102c8a2c,extended,000003e7
+
+[Cheats/Edward Level 99] 
+patch=1,EE,102C8A34,extended,00000062
+
+[Cheats/Alphonse HP 9999] 
+patch=1,EE,102C8A4C,extended,0000270f
+patch=1,EE,102C8A4E,extended,0000270f
+
+[Cheats/Alphonse ATK 999] 
+patch=1,EE,102C8A50,extended,000003e7
+
+[Cheats/Alphonse Level 99] 
+patch=1,EE,102C8A58,extended,00000062
+
+[Cheats/All Items x99] 
+patch=1,EE,002c8a69,extended,00000063
+patch=1,EE,102c8a6a,extended,00006363
+patch=1,EE,202c8a6c,extended,63636363
+patch=1,EE,202c8a70,extended,63636363
+patch=1,EE,102c8a74,extended,00006363
+
+[Cheats/All Accessories x9] 
+patch=1,EE,402c8aa8,extended,00100001
+patch=1,EE,09090909,extended,00000000

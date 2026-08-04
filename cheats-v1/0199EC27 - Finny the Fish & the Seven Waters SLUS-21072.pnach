@@ -1,0 +1,34 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200C0220,extended,8E0115E4
+patch=1,EE,200C0224,extended,0807DD04
+patch=1,EE,200C0228,extended,AE0115EC
+patch=1,EE,20190710,extended,0C030088
+
+[Cheats/Infinite Tummy] 
+patch=1,EE,200C0230,extended,8E0115E8
+patch=1,EE,200C0234,extended,0807B8D8
+patch=1,EE,200C0238,extended,AE0115F0
+patch=1,EE,20190728,extended,0C03008C
+
+[Cheats/Max Green Scales Life] 
+patch=1,EE,107D25B4,extended,000003FF
+
+[Cheats/Max Yellow Scales Tummy] 
+patch=1,EE,107D25B8,extended,000003FF
+
+[Cheats/Max Blue Scales Hearing] 
+patch=1,EE,107D25BC,extended,000000FF
+
+[Cheats/Max Red Scales Jaw] 
+patch=1,EE,107D25C0,extended,000000FF
+
+[Cheats/Max White Scales] 
+patch=1,EE,107D25C4,extended,0000003F
+
+[Cheats/Tons of Prey Eaten] 
+patch=1,EE,407D25E0,extended,00680001
+patch=1,EE,000003E7,extended,00000000
+
+[Cheats/All Lures Collected] 
+patch=1,EE,407D2940,extended,00630001
+patch=1,EE,000003E7,extended,00000000

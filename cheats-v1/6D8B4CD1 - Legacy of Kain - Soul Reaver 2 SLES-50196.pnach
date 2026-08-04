@@ -1,0 +1,39 @@
+[Cheats/Invincible] 
+patch=1,EE,2023BDD4,extended,00000000
+
+[Cheats/Infinite Material Energy] 
+patch=1,EE,2023DDD4,extended,0000000F
+
+[Cheats/1 Hit Kills for Projectiles] 
+patch=1,EE,201E6784,extended,00031A00
+
+[Cheats/Primary menu activation With debug menu open, hold R1 and R2 and press Triangle for Cheats, Circle for the New Combat Camera, X for Fog, Square for Goodies] 
+patch=1,EE,D026EDC0,extended,0000E5FF
+patch=1,EE,20243F04,extended,00242340
+patch=1,EE,D026EDC0,extended,0000D5FF
+patch=1,EE,20243F04,extended,002426A0
+patch=1,EE,D026EDC0,extended,0000B5FF
+patch=1,EE,20243F04,extended,002417D0
+patch=1,EE,D026EDC0,extended,000075FF
+patch=1,EE,20243F04,extended,00241890
+
+[Cheats/Secondary menu activation With debug menu open hold R1+R2+L1 and press Triangle for Events, Circle for AI, X for Stats, Square for Save Hold L1+L2+R1 and press Square for Flag Drawing] 
+patch=1,EE,D026EDC0,extended,000071FF
+patch=1,EE,20243F04,extended,00241728
+patch=1,EE,D026EDC0,extended,0000B1FF
+patch=1,EE,20243F04,extended,00242820
+patch=1,EE,D026EDC0,extended,0000E1FF
+patch=1,EE,20243F04,extended,00241638
+patch=1,EE,D026EDC0,extended,0000D1FF
+patch=1,EE,20243F04,extended,002416C8
+patch=1,EE,D026EDC0,extended,000072FF
+patch=1,EE,20243F04,extended,002419F8
+
+[Cheats/Health not gradually decreasing and overall infinite Health]  
+patch=1,EE,001c4b80,extended,8c8705c8
+patch=1,EE,001c4bb0,extended,ac8705c8
+patch=1,EE,001c5008,extended,64020000
+patch=1,EE,001c5020,extended,10000037
+
+[Cheats/Enemies Ignoring You]  
+patch=1,EE,0018b1cc,extended,34020010

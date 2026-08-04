@@ -1,0 +1,25 @@
+[Cheats/9999 Gold Coins] 
+patch=1,EE,10468DDC,extended,0000270F
+
+[Cheats/Infinite Health] 
+patch=1,EE,2021E050,extended,0C07D0FC
+patch=1,EE,2021E05C,extended,AC82016C
+
+[Cheats/Infinite Gadget Usage] 
+patch=1,EE,201F444C,extended,24020064
+patch=1,EE,201F44E8,extended,24020064
+
+[Cheats/Unlock All Episodes Not Saveable] 
+patch=1,EE,2025E43C,extended,24100001
+
+[Cheats/Have All Gadgets] 
+patch=1,EE,20468DCC,extended,FFFFFFFF
+patch=1,EE,20468DD0,extended,FFFFFFFF
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,200C2000,extended,8C864F68
+patch=1,EE,200C2004,extended,24010008
+patch=1,EE,200C2008,extended,03E00008
+patch=1,EE,200C200C,extended,ACC10128
+patch=1,EE,2017C744,extended,0C030800
+patch=1,EE,2017C748,extended,24445480

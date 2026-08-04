@@ -1,0 +1,19 @@
+[Cheats/Infinite Health] 
+patch=1,EE,201FC2D4,extended,248402B0
+patch=1,EE,201FC2D8,extended,24130009
+patch=1,EE,201FC2DC,extended,A493000E
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,201FBF3C,extended,8E8400F4
+patch=1,EE,201FBF5C,extended,A4930018
+
+[Cheats/Unlock All Minigames] 
+patch=1,EE,204579A0,extended,03030303
+
+[Cheats/Unlock All Cheats & Calls]  
+patch=1,EE,204579A8,extended,FFFFFFFF
+patch=1,EE,204579AC,extended,FFFFFFFF
+
+[Cheats/Unlock All Stages Needs a save] 
+patch=1,EE,40457DE4,extended,00140001
+patch=1,EE,00000001,extended,00000000

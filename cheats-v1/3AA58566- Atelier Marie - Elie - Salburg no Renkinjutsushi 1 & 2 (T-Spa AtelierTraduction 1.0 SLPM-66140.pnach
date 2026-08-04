@@ -1,0 +1,22 @@
+[Cheats/Max Money]  
+patch=1,EE,2029CAC8,extended,0001869F
+
+[Cheats/Max Money when you buy and sell] 
+patch=1,EE,2012A944,extended,00000000
+
+[Cheats/Max HP MP And 999 After Level Up] 
+patch=1,EE,2012D608,extended,28EC0000
+
+[Cheats/Synthesis Success Rate After Level Up] 
+patch=1,EE,2013BA9C,extended,2A2E0000
+patch=1,EE,2013BB30,extended,2A2D0000
+patch=1,EE,2013BC44,extended,2A0E0000
+
+[Cheats/Max Attack, Defense And Speed After Level Up characters who are with you in battle will also rise.] 
+patch=1,EE,2012B6AC,extended,2A0E0000
+
+[Cheats/Max Popularity After Level Up]  
+patch=1,EE,2012D9BC,extended,29ED0000
+
+[Cheats/No Fatigue] 
+patch=1,EE,2012D320,extended,28AE0000

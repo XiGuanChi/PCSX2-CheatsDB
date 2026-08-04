@@ -1,0 +1,65 @@
+[Cheats/Player Max SP Gauge]  
+patch=1,EE,20724C96,extended,0000004C
+
+[Cheats/1st Mounted Part Level Max ENGINE PARTS A1] 
+patch=1,EE,0075A183,extended,00000005
+
+[Cheats/1st Mounted Part Level Max ENGINE PARTS B1] 
+patch=1,EE,0075A185,extended,00000005
+
+[Cheats/1st Mounted Part Level Max ENGINE PARTS C1] 
+patch=1,EE,0075A187,extended,00000005
+
+[Cheats/1st Mounted Part Level Max TURBO KIT] 
+patch=1,EE,0075A18A,extended,00000005
+
+[Cheats/1st Mounted Part Level Max INTER COOLER 2] 
+patch=1,EE,0075A18B,extended,00000005
+
+[Cheats/1st Mounted Part Level Max TURBINE 2] 
+patch=1,EE,0075A18D,extended,00000005
+
+[Cheats/1st Mounted Part Level Max AIR CLEANER 2] 
+patch=1,EE,0075A18F,extended,00000005
+
+[Cheats/1st Mounted Part Level Max MUFFLER 1] 
+patch=1,EE,0075A193,extended,00000005
+
+[Cheats/1st Mounted Part Level Max COOLING MODULE] 
+patch=1,EE,0075A196,extended,00000005
+
+[Cheats/1st Mounted Part Level Max ROM] 
+patch=1,EE,0075A197,extended,00000005
+
+[Cheats/1st Mounted Part Level Max TRANSMISSION] 
+patch=1,EE,0075A198,extended,00000005
+
+[Cheats/1st Mounted Part Level Max CLUTCH] 
+patch=1,EE,0075A199,extended,00000005
+
+[Cheats/1st Mounted Part Level Max LSD] 
+patch=1,EE,0075A19B,extended,00000003
+
+[Cheats/1st Mounted Part Level Max SUSPENSION] 
+patch=1,EE,0075A19C,extended,00000005
+
+[Cheats/1st Mounted Part Level Max BREAK] 
+patch=1,EE,0075A19D,extended,00000005
+
+[Cheats/1st Mounted Part Level Max REINFORCE] 
+patch=1,EE,0075A19F,extended,00000005
+
+[Cheats/1st Mounted Part Level Max WEIGHT DOWN] 
+patch=1,EE,0075A1A0,extended,00000005
+
+[Cheats/1st Mounted Part Level Max FRONT TIRE] 
+patch=1,EE,0075A1A2,extended,00000005
+
+[Cheats/1st Mounted Part Level Max REAR TIRE] 
+patch=1,EE,0075A1A6,extended,00000005
+
+[Cheats/Hold Start While Opening Movie Is Playing For Debug Menu] 
+patch=1,EE,D02FCFC2,extended,0000FFF7
+patch=1,EE,2014D85C,extended,24040000
+patch=1,EE,D02FCFC2,extended,0000FFFF
+patch=1,EE,2014D85C,extended,8F848540

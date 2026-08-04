@@ -1,0 +1,26 @@
+[Cheats/Max Money] 
+patch=1,EE,20430558,extended,3C013B9A
+patch=1,EE,20430560,extended,3421C9FF
+patch=1,EE,20430564,extended,AC4119F0
+
+[Cheats/Infinite Health Valid only when the physical strength meter is displayed] 
+patch=1,EE,202A074C,extended,C6031A0C
+patch=1,EE,202A0764,extended,E6031A08
+
+[Cheats/No Trouble] 
+patch=1,EE,2037B4A4,extended,00000000
+
+[Cheats/Infinite Weapon Items Even if You Use iT] 
+patch=1,EE,005EB6F0,extended,00000001
+
+[Cheats/Time progress stop Press L2+R2+Up Usually Press L2+R2+Down It does not support progress during events such as going to bed.Stop with  button]  
+patch=1,EE,D06DEDC2,extended,0000FCEF
+patch=1,EE,201E6438,extended,00000000
+patch=1,EE,D06DEDC2,extended,0000FCBF
+patch=1,EE,201E6438,extended,00852021
+
+[Cheats/Trouble meter 0 Press L1+Down Usually Press L1+Up ] 
+patch=1,EE,D06DEDC2,extended,0000FBEF
+patch=1,EE,2037B4A4,extended,14600006
+patch=1,EE,D06DEDC2,extended,0000FBBF
+patch=1,EE,2037B4A4,extended,AE601A90

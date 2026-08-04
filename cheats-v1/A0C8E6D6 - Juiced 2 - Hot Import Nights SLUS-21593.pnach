@@ -1,0 +1,34 @@
+[Cheats/Infinite Cash]  
+patch=1,EE,21e61d8c,extended,05f5e0ff
+
+[Cheats/Start With Full nitro] 
+patch=1,EE,201974d8,extended,00000000
+
+[Cheats/Infinite Nitro] 
+patch=1,EE,201acb48,extended,00000000
+
+[Cheats/Infinite Nitro alt] 
+patch=1,EE,202dc3e8,extended,00000000
+
+[Cheats/999,999 Drift Points] 
+patch=1,EE,210f025c,extended,000f423f
+patch=1,EE,21dc9194,extended,000f423f
+patch=1,EE,21dc926c,extended,000f423f
+
+[Cheats/Always Win Drift Event] 
+patch=1,EE,20257884,extended,AC84007C
+
+[Cheats/Infinite Prototype Points] 
+patch=1,EE,2028D798,extended,24040063
+
+[Cheats/Idiot A.I. L3 On R3 Off] 
+patch=1,EE,D05241C2,extended,0000FFFD
+patch=1,EE,20419648,extended,00000000
+patch=1,EE,D05241C2,extended,0000FFFB
+patch=1,EE,20419648,extended,44026000
+
+[Cheats/Freeze Timer Select Left On Select Right Off] 
+patch=1,EE,D05241C2,extended,0000FF7E
+patch=1,EE,201C37D4,extended,10000010
+patch=1,EE,D05241C2,extended,0000FFDE
+patch=1,EE,201C37D4,extended,14A40010

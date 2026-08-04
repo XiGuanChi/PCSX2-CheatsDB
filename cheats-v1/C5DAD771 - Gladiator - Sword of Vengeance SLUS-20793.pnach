@@ -1,0 +1,36 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200C0230,extended,E46101F4
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,C46001F4
+patch=1,EE,2013E5C0,extended,0C03008C
+
+[Cheats/Player 1 Press R1+Select For Max Special Meter] 
+patch=1,EE,D0449282,extended,0000F7FE
+patch=1,EE,2010EDC0,extended,E44101AC
+
+[Cheats/Player 1 Press R2+Select For Normal Special Meter] 
+patch=1,EE,D0449282,extended,0000FDFE
+patch=1,EE,2010EDC0,extended,00000000
+
+[Cheats/P1 Press L1+Select To Stop Timer ] 
+patch=1,EE,D0449282,extended,0000FBFE
+patch=1,EE,201036C4,extended,00000000
+
+[Cheats/P1 Press L2+Select To Start Timer]  
+patch=1,EE,D0449282,extended,0000FEFE
+patch=1,EE,201036C4,extended,E60000E0
+
+[Cheats/Have All Health Slot Vials] 
+patch=1,EE,414A16F8,extended,00030001
+patch=1,EE,02020202,extended,00000000
+
+[Cheats/Have All Titan Tablets] 
+patch=1,EE,214A1720,extended,02020202
+patch=1,EE,214A1724,extended,02020202
+
+[Cheats/Have All Emperor's Coins] 
+patch=1,EE,214A1748,extended,02020202
+
+[Cheats/Have All Priest's Amulets] 
+patch=1,EE,214A1770,extended,02020202
+patch=1,EE,214A1774,extended,02020202

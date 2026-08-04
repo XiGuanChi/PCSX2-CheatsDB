@@ -1,0 +1,23 @@
+[Cheats/Infinite Health] 
+patch=1,EE,1048C522,extended,00000101
+
+[Cheats/Rage Always On] 
+patch=1,EE,1048C532,extended,00000101
+
+[Cheats/Invulnerability] 
+patch=1,EE,1048C542,extended,00000101
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,1048C552,extended,00000101
+
+[Cheats/Unlock All Missions] 
+patch=1,EE,1048C562,extended,00000101
+
+[Cheats/Unlock All Weapons]  
+patch=1,EE,1048C572,extended,00000101
+
+[Cheats/Unlock All Campaign Levels] 
+patch=1,EE,0075BD6E,extended,00000013
+
+[Cheats/Unlock Daywalker] 
+patch=1,EE,1048C582,extended,00000101

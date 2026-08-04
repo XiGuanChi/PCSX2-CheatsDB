@@ -1,0 +1,23 @@
+[Cheats/Infinite HP Fiona] 
+patch=1,EE,2016746C,extended,AC60D5F4
+
+[Cheats/Infinite HP Hewie] 
+patch=1,EE,2015BAE0,extended,8E2414CC
+patch=1,EE,2015BAE4,extended,AE2414C8
+
+[Cheats/Invisible] 
+patch=1,EE,20188EF4,extended,00000000
+patch=1,EE,20188F64,extended,00000000
+
+[Cheats/Fiona always calmed no panic] 
+patch=1,EE,202B7E60,extended,2403FFFF
+patch=1,EE,202B8E74,extended,AE20001C
+patch=1,EE,202B8F7C,extended,AE200004
+
+[Cheats/Infinite Item Use] 
+patch=1,EE,20231D3C,extended,24020062
+
+[Cheats/Unlock All Extras] 
+patch=1,EE,20489F24,extended,FFFFFFFF
+patch=1,EE,20489F28,extended,FFFFFFFF
+patch=1,EE,20489F2C,extended,FFFFFFFF

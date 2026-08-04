@@ -1,0 +1,48 @@
+[Cheats/Max Money 9999] 
+patch=1,EE,204ADCAC,extended,0000270F
+
+[Cheats/Stress 0]   
+patch=1,EE,204ADCA8,extended,00000000
+
+[Cheats/Max Academic Ability 999] 
+patch=1,EE,204ADC90,extended,4479F99A
+
+[Cheats/Max Arts 999] 
+patch=1,EE,204ADC94,extended,4479F99A
+
+[Cheats/Max Fashion 999] 
+patch=1,EE,204ADC98,extended,4479F99A
+
+[Cheats/Max Exercise 999] 
+patch=1,EE,204ADC9C,extended,4479F99A
+
+[Cheats/Max Attentiveness 999]  
+patch=1,EE,204ADCA0,extended,4479F99A
+
+[Cheats/Max Charm 999]  
+patch=1,EE,204ADCA4,extended,4479F99A
+
+[Cheats/Everyone's Excitement Level 999] 
+patch=1,EE,404AE4FC,extended,000D01FC
+patch=1,EE,000003E7,extended,00000000
+
+[Cheats/Everyone's Friendship Level 999] 
+patch=1,EE,404AE500,extended,000D01FC
+patch=1,EE,000003E7,extended,00000000
+
+[Cheats/Everyone's Heartbreak Level is 0] 
+patch=1,EE,404AE504,extended,000D01FC
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Unlock All Bonus] 
+patch=1,EE,404AD93C,extended,00260001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,004AD9D4,extended,00000001
+patch=1,EE,404ADA04,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,204ADA68,extended,01010101
+patch=1,EE,004ADA6C,extended,00000001
+patch=1,EE,404ADAA4,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,404ADB3C,extended,000B0001
+patch=1,EE,01010101,extended,00000000

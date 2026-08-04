@@ -1,0 +1,22 @@
+gametitle=Karaoke Revolution Presents - American Idol SLUS-21540
+//Always Max Crowd Meter 
+patch=1,EE,201276B8,extended,3C014000
+patch=1,EE,201276BC,extended,44810000
+patch=1,EE,20126B58,extended,00000000
+
+//Infinite Total Points 
+patch=1,EE,10413CA8,extended,0000FFFF
+
+//Max Total Points 
+patch=1,EE,20413CA8,extended,05F5E0FF
+
+//Have All Songs Completed 
+patch=1,EE,20413D08,extended,00000028
+
+//Access All Locked Clothing 
+patch=1,EE,2019EC44,extended,00000000
+
+//Unlock All Clothing 
+patch=1,EE,2019EC24,extended,24020001
+patch=1,EE,2019EC28,extended,AC82000C
+

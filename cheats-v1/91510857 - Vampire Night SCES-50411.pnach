@@ -1,0 +1,29 @@
+[Cheats/P1 Invincible] 
+patch=1,EE,10500740,extended,00000005
+
+[Cheats/P1 Infinite Ammo and No Reload] 
+patch=1,EE,1050077C,extended,00000009
+
+[Cheats/P2 Invincible] 
+patch=1,EE,10500AC4,extended,00000005
+patch=1,EE,10500A88,extended,00000005
+
+[Cheats/P2 Infinite Ammo And No Reload] 
+patch=1,EE,10500AC4,extended,00000009
+
+[Cheats/Easy bosses] 
+patch=1,EE,102D8D6C,extended,00000000
+
+[Cheats/Infinite Continues] 
+patch=1,EE,10308728,extended,000001CE
+
+[Cheats/Invincible Arcade And Special Mode]  
+patch=1,EE,001f33cc,extended,0808A20A
+patch=1,EE,00228828,extended,3c048e23
+patch=1,EE,0022882c,extended,8fe50008
+patch=1,EE,00228830,extended,3c062403
+patch=1,EE,00228834,extended,34c6004b
+patch=1,EE,00228838,extended,50850001
+patch=1,EE,0022883c,extended,afe6000c
+patch=1,EE,00228840,extended,03e00008
+patch=1,EE,00228844,extended,00000000

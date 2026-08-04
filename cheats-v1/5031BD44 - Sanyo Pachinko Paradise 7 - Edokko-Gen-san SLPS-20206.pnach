@@ -1,0 +1,5 @@
+[Cheats/Hold START at Press Start Screen for Debug Menu All of the options here send you to menu screens and game modes. ] 
+patch=1,EE,D0A63242,extended,0000FFF7
+patch=1,EE,0014BDD8,extended,0000000C
+patch=1,EE,D0A63242,extended,0000FFFF
+patch=1,EE,0014BDD8,extended,00000007

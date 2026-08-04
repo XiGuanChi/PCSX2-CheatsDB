@@ -1,0 +1,20 @@
+[Cheats/Infinite Health] 
+patch=1,EE,202E6ED0,extended,3C0142FA
+patch=1,EE,202E6ED4,extended,AE2100D0
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,203652D4,extended,00000000
+
+[Cheats/God Mode] 
+patch=1,EE,204BF024,extended,00000001
+
+[Cheats/Save Anywhere] 
+patch=1,EE,00482A8C,extended,00000001
+
+[Cheats/Skip Level press R1+R2+L1+L2] 
+patch=1,EE,D0574C02,extended,0000F0FF
+patch=1,EE,003FBC18,extended,00000001
+patch=1,EE,D0574C02,extended,0000BFFF
+patch=1,EE,003FBC18,extended,00000000
+patch=1,EE,D0574C02,extended,00007FFF
+patch=1,EE,003FBC18,extended,00000000

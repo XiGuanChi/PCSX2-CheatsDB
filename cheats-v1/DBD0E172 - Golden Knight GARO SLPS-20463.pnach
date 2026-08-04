@@ -1,0 +1,25 @@
+[Cheats/Max Points 99 999]  
+patch=1,EE,214D656C,extended,0001869F
+
+[Cheats/Max Slash Points]  
+patch=1,EE,21C1EA90,extended,0001869F
+
+[Cheats/Max Kill Point when entering gallery mode and exiting gallery mode] 
+patch=1,EE,20148888,extended,21310000
+
+[Cheats/Unlock All Characters, Modes And Gallery] 
+patch=1,EE,414D69CD,extended,00290001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,214D6600,extended,FFFFFFFF
+patch=1,EE,214D6604,extended,FFFFFFFF 
+patch=1,EE,214D6608,extended,FFFFFFFF
+patch=1,EE,214D6613,extended,01010101
+patch=1,EE,214D660F,extended,01010101
+patch=1,EE,214D6615,extended,01010101
+patch=1,EE,114D6617,extended,00000101
+patch=1,EE,114D660D,extended,0000FFFF
+patch=1,EE,014D661D,extended,00000001
+patch=1,EE,014D6612,extended,00000001
+patch=1,EE,014D6A71,extended,00000001
+patch=1,EE,014D663A,extended,00000001
+patch=1,EE,014D69C9,extended,00000001

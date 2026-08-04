@@ -1,0 +1,33 @@
+[Cheats/Instant Win Press Select] 
+patch=1,EE,D031849c,extended,0000fffe
+patch=1,EE,204bb4e8,extended,00050005
+
+[Cheats/P1 Max Health] 
+patch=1,EE,10441804,extended,00000260
+
+[Cheats/Infinite Health] 
+patch=1,EE,2018f198,extended,84410224
+patch=1,EE,2018f19c,extended,00010900
+patch=1,EE,2018f1a0,extended,a4410226
+
+[Cheats/Infinite Musou]  
+patch=1,EE,2018f198,extended,8441022a
+patch=1,EE,2018f19c,extended,00010900
+patch=1,EE,2018f1a0,extended,a441022c
+
+[Cheats/Infinite Time]  
+patch=1,EE,204bb4e0,extended,01010101
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,20195cb0,extended,a0420000
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,20194ca4,extended,00000000
+
+[Cheats/Unlock All Stages in Free Mode] 
+patch=1,EE,201973b0,extended,a0420000
+
+[Cheats/Unlock All Sound] 
+patch=1,EE,20194dc4,extended,2403FFFF
+
+

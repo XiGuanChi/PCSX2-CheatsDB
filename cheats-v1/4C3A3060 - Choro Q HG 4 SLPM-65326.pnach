@@ -1,0 +1,21 @@
+[Cheats/Story Max Money 9999999999 G] 
+patch=1,EE,2026845C,extended,3B9AC9FF
+
+[Cheats/Always 1st Place] 
+patch=1,EE,0026B73C,extended,00000001
+
+[Cheats/Opponents Don't Move]  
+patch=1,EE,201710B0,extended,56000004
+
+[Cheats/Have All Parts] 
+patch=1,EE,2011ECA4,extended,24010001
+patch=1,EE,2011ECA8,extended,A0410000
+
+[Cheats/Opponent Cars Stop Moving during races] 
+patch=1,EE,2014B76C,extended,AE600180
+
+[Cheats/Unselectable parts appear If you display all parts in Parameter Config in debug mode, you will be able to select parts that cannot be selected parts exclusive to minigames]
+patch=1,EE,2011EC90,extended,34030000
+
+[Cheats/Enemy vehicles are always displayed in the distance] 
+patch=1,EE,201712F0,extended,3C010000

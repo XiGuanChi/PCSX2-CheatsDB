@@ -1,0 +1,14 @@
+[Cheats/Empty Slot 1 Max Health] 
+patch=1,EE,004F6A68,extended,000000FF
+
+[Cheats/9.999 Exp Character]  
+patch=1,EE,20523230,extended,05F5E0FF 
+
+[Cheats/Unlock All Characters]  
+patch=1,EE,204f7480,extended,060D000F 
+patch=1,EE,204f7484,extended,0A090305 
+patch=1,EE,204f7488,extended,02040708 
+patch=1,EE,204f748c,extended,010B0C0E 
+
+
+

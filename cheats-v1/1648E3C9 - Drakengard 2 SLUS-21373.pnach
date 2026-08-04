@@ -1,0 +1,14 @@
+[Cheats/Infinite Gold] 
+patch=1,EE,204C3F34,extended,05F5E0FF
+
+[Cheats/Infinite HP] 
+patch=1,EE,204959F0,extended,00000190
+patch=1,EE,204914B0,extended,00000190
+
+[Cheats/Infinite MP] 
+patch=1,EE,204959F4,extended,000003E8
+patch=1,EE,204914B4,extended,000003E8
+
+[Cheats/100 Chain] 
+patch=1,EE,20495EA0,extended,00000064
+

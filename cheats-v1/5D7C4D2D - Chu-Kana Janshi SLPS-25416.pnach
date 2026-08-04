@@ -1,0 +1,65 @@
+[Cheats/Max Tenge] 
+patch=1,EE,0023F104,extended,00000009
+
+[Cheats/Max Heaven Sword]  
+patch=1,EE,0023F108,extended,00000009
+
+[Cheats/Max Month God] 
+patch=1,EE,0023F10C,extended,00000009
+
+[Cheats/Max Technical] 
+patch=1,EE,0023F110,extended,00000009
+
+[Cheats/Press L1 Increase Your Points To Max] 
+patch=1,EE,D0263980,extended,00000004
+patch=1,EE,1023EBD4,extended,0000270F 
+
+[Cheats/Press SELECT Max Your Points] 
+patch=1,EE,D0263980,extended,00000100 
+patch=1,EE,2023F104,extended,00000009
+
+[Cheats/Press SELECT Max Tenken Zetsuto]  
+patch=1,EE,D0263980,extended,00000100 2023F108 00000009 
+
+[Cheats/Press SELECT Max Gekkahoshin] 
+patch=1,EE,D0263980,extended,00000100 
+patch=1,EE,2023F10C,extended,00000009 
+
+[Cheats/Press R1+R2 Nine Consecutive Treasure Lights] 
+patch=1,EE,D0263980,extended,0000000A 
+patch=1,EE,202495C0,extended,00000000 
+patch=1,EE,D0263980,extended,0000000A 
+patch=1,EE,202495C4,extended,00000000 
+patch=1,EE,D0263980,extended,0000000A 
+patch=1,EE,202495C8,extended,00000000 
+patch=1,EE,D0263980,extended,0000000A 
+patch=1,EE,202495CC,extended,00000001 
+patch=1,EE,D0263980,extended,0000000A 
+patch=1,EE,202495D0,extended,00000002 
+patch=1,EE,D0263980,extended,0000000A
+patch=1,EE,202495D4,extended,00000003
+patch=1,EE,D0263980,extended,0000000A
+patch=1,EE,202495D8,extended,00000004
+patch=1,EE,D0263980,extended,0000000A
+patch=1,EE,202495DC,extended,00000005
+patch=1,EE,D0263980,extended,0000000A
+patch=1,EE,202495E0,extended,00000006
+patch=1,EE,D0263980,extended,0000000A
+patch=1,EE,202495E4,extended,00000007
+patch=1,EE,D0263980,extended,0000000A
+patch=1,EE,202495E8,extended,00000007
+patch=1,EE,D0263980,extended,0000000A
+patch=1,EE,202495EC,extended,00000008
+patch=1,EE,D0263980,extended,0000000A
+patch=1,EE,202495F0,extended,00000008
+patch=1,EE,D0263980,extended,0000000A
+patch=1,EE,202495F4,extended,00000008
+
+[Cheats/Unlock All Completion] 
+patch=1,EE,1023F118,extended,000001FF
+
+[Cheats/Unlock All Elements] 
+patch=1,EE,0023F120,extended,0000007F
+
+[Cheats/Enable Debug Menu At Boot Controls for the menu:X to play a voice.L2 R2 to change voice.L1 R1 to change the player to play as.D-Pad Left Right to change game modes.Circle to enter a game mode.] 
+patch=1,EE,00100348,extended,00000000

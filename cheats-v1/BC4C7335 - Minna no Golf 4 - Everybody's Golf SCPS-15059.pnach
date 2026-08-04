@@ -1,0 +1,44 @@
+[Cheats/Max Points]  
+patch=1,EE,20465C80,extended,000F423F
+
+[Cheats/Max Points Alt]  
+patch=1,EE,20465D00,extended,000F423F
+
+[Cheats/Unlock All Gears] 
+patch=1,EE,20465D40,extended,04040505
+patch=1,EE,20465D44,extended,05040404
+patch=1,EE,20465D48,extended,03030101
+patch=1,EE,20465D4C,extended,01030303
+patch=1,EE,20465D50,extended,04040405
+patch=1,EE,20465D54,extended,04040404
+
+[Cheats/Unlock All Courses]  
+patch=1,EE,20465D58,extended,04040405
+patch=1,EE,20465D5C,extended,04040504
+patch=1,EE,20465D60,extended,04050404
+
+[Cheats/Unlock All Caddies]  
+patch=1,EE,00465D8E,extended,00000004
+patch=1,EE,20465D90,extended,04040404
+patch=1,EE,10465D94,extended,00000404
+patch=1,EE,10465D96,extended,00000404
+patch=1,EE,20465D98,extended,04040404
+patch=1,EE,20465D9C,extended,04040404
+
+[Cheats/Unlock All Characters]  
+patch=1,EE,40465DA0,extended,00120001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,40465DE8,extended,00060001
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,40465E00,extended,00060001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock Max Love Level Clear VS Mode Normal And Hard] 
+patch=1,EE,40475668,extended,00120001
+patch=1,EE,FF00FF00,extended,00000000
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+[Cheats/Art of Fighting Evo Player 1 Ininite HP Codes in this Box can only be used on First loading of the game Meaning U have to Go into the game and Stay in the game for the codes to work if u leave to the menu again where u pick the Difficulty lvl then the Aria will change] 
+patch=1,EE,0158B18C,extended,00000060 
+
+[Cheats/Art of Fighting Evo Player 1 Ininite Power] 
+patch=1,EE,2158B364,extended,80008000
+
+[Cheats/Art of Fighting Player 1 Ininite HP] 
+patch=1,EE,D024577C,extended,00002E31
+patch=1,EE,1158B18C,extended,00000060
+
+[Cheats/Art of Fighting Player 1 Ininite Power] 
+patch=1,EE,D024577C,extended,00002E31
+patch=1,EE,1158B364,extended,00006000
+
+[Cheats/Art of Fighting Player 1 Invincible] 
+patch=1,EE,D024577C,extended,00002E31
+patch=1,EE,0158B191,extended,00000001
+
+[Cheats/Art of Fighting Player 2 HP 0] 
+patch=1,EE,D024577C,extended,00002E31
+patch=1,EE,1158B28C,extended,00000000
+
+[Cheats/Art of Fighting Player 2 Power 0] 
+patch=1,EE,D024577C,extended,00002E31
+patch=1,EE,1158B464,extended,00000000
+
+[Cheats/Art of Fighting Ininite Battle Time 60] 
+patch=1,EE,D024577C,extended,00002E31
+patch=1,EE,0158A2C7,extended,00000060
+
+[Cheats/Art of Fighting Player 1 Score 99999900]  
+patch=1,EE,D024577C,extended,00002E31
+patch=1,EE,2158B368,extended,99009999
+
+[Cheats/Art of Fighting 2 Player 1 Ininite HP] 
+patch=1,EE,D024577C,extended,00002E32
+patch=1,EE,115DDCFC,extended,00000060
+
+[Cheats/Art of Fighting 2 Player 1 Ininite Power] 
+patch=1,EE,D024577C,extended,00002E32
+patch=1,EE,015DDEB5,extended,00000060
+
+[Cheats/Art of Fighting 2 Player 2 HP 0] 
+patch=1,EE,D024577C,extended,00002E32
+patch=1,EE,115DDDFC,extended,00000000
+
+[Cheats/Art of Fighting 2 Player 2 Power 0] 
+patch=1,EE,D024577C,extended,00002E32
+patch=1,EE,015DDFB5,extended,00000000
+
+[Cheats/Art of Fighting 2 Ininite Battle Time 60] 
+patch=1,EE,D024577C,extended,00002E32
+patch=1,EE,015DCE17,extended,00000060
+
+[Cheats/Art of Fighting 2 Player 1 Score 99999900] 
+patch=1,EE,D024577C,extended,00002E32
+patch=1,EE,215DDEB8,extended,99009999
+
+[Cheats/Art of Fighting 3 Player 1 Ininite HP]  
+patch=1,EE,D024577C,extended,00002E33
+patch=1,EE,014DD029,extended,00000010
+
+[Cheats/Art of Fighting 3 Player 1 Ininite Power] 
+patch=1,EE,D024577C,extended,00002E33
+patch=1,EE,014DD02B,extended,00000010
+
+[Cheats/Art of Fighting 3 Player 2 HP 0] 
+patch=1,EE,D024577C,extended,00002E33
+patch=1,EE,014DD129,extended,00000000
+
+[Cheats/Art of Fighting 3 Player 2 Power 0] 
+patch=1,EE,D024577C,extended,00002E33
+patch=1,EE,014DD12B,extended,00000000
+
+[Cheats/Art of Fighting 3 Ininite Battle Time 60] 
+patch=1,EE,D024577C,extended,00002E33
+patch=1,EE,014EAACE,extended,0000003C

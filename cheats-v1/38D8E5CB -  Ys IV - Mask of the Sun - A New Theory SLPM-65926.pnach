@@ -1,0 +1,31 @@
+[Cheats/Infinite Money] 
+patch=1,EE,2032C1B0,extended,000F423F
+
+[Cheats/Main Character Level 50] 
+patch=1,EE,0032C198,extended,00000032
+
+[Cheats/Main Character Infinite Health] 
+patch=1,EE,2017b40c,extended,c60000e4
+patch=1,EE,2032c5c8,extended,44000000
+
+[Cheats/Main Character Max Energy]  
+patch=1,EE,2017B40C,extended,C60000E4
+patch=1,EE,2032C5C8,extended,44000000
+patch=1,EE,2032C614,extended,00000063
+
+[Cheats/Unlock All Swords] 
+patch=1,EE,4032C09C,extended,000B0001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Armors]  
+patch=1,EE,4032C0C8,extended,000D0001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Shields]  
+patch=1,EE,4032C0FC,extended,000D0001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Items] 
+patch=1,EE,4032C130,extended,00160001
+patch=1,EE,00000001,extended,00000000
+

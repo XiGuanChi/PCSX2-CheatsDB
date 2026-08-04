@@ -1,0 +1,21 @@
+[Cheats/Clear Flag Break Time can be Selected] 
+patch=1,EE,00604B48,extended,000000FF
+
+[Cheats/Unlock All Movies]  
+patch=1,EE,20604C68,extended,FFFFFFFF
+
+[Cheats/Unlock All CG] 
+patch=1,EE,20604C6C,extended,FFFFFFFF
+
+[Cheats/Unlock All Endings] 
+patch=1,EE,00604C90,extended,000000FF
+patch=1,EE,10604C94,extended,0000FFFF
+
+[Cheats/Unlock All Minigames]  
+patch=1,EE,00604C98,extended,0000000F
+
+[Cheats/Enable Debug Menu by holding R1 then pressing D-Pad Down at the main menu option, OPTION. This will move your cursor to a blank option. Select the blank option to be brought to this screen. From here, you can view event scenes, movies, and listen to music, or voices.Adventure Scene test menu.Emotion Select Menu Brings you to the emotion select screen.Movie Movie select menu.Load Memory card load screen.Options Option menu screen. Break Time Extra menu screen.Voice Voice test menu.BGM Music test menu.Adventure: Start from each chapter or scene Emotion selection menu: Emotion selection menu test Movie: Movie test Load: Note that unlike the name, it will save Options: Go to the options screenBreak time: Go to the break time screen (full bonus) Voice: Sound effect test BGM: BGM test Unformat: Initialize the memory card (handle with care!) Sound check: BGM will play (note: once you enter, you cannot exit)Cheap roll: Cheap roll test] 
+patch=1,EE,D0B285B2,extended,0000F7FF
+patch=1,EE,20438770,extended,24100004
+patch=1,EE,D0B285B2,extended,0000FFFF
+patch=1,EE,20438770,extended,0000802D

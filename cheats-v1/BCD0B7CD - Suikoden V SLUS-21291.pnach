@@ -1,0 +1,56 @@
+[Cheats/Max Money] 
+patch=1,EE,2036d0f4,extended,00000000
+
+[Cheats/Infinite HP In Battle] 
+patch=1,EE,200C3000,extended,14200002
+patch=1,EE,200C3004,extended,00000000
+patch=1,EE,200C3008,extended,86050032
+patch=1,EE,200C300C,extended,082A039A
+patch=1,EE,200C3010,extended,0005182D
+patch=1,EE,20A80E60,extended,08030C00
+patch=1,EE,20A80E64,extended,8201002B
+
+[Cheats/Infinite Rune Use And Restore In Battle] 
+patch=1,EE,200C3100,extended,00042082
+patch=1,EE,200C3104,extended,00042080
+patch=1,EE,200C3108,extended,8C830004
+patch=1,EE,200C310C,extended,0829CBA5
+patch=1,EE,200C3110,extended,AC830000
+patch=1,EE,20A72E80,extended,08030C40
+
+[Cheats/Infinite HP Ship In Battle] 
+patch=1,EE,D0A8B838,extended,00006078
+patch=1,EE,20AB6078,extended,00000000
+
+[Cheats/One Hit Kill] 
+patch=1,EE,200C3200,extended,54400005
+patch=1,EE,200C3204,extended,27FF0084
+patch=1,EE,200C3208,extended,12200003
+patch=1,EE,200C320C,extended,8201002B
+patch=1,EE,200C3210,extended,54200001
+patch=1,EE,200C3214,extended,27FF006C
+patch=1,EE,200C3218,extended,03E00008
+patch=1,EE,20A80E04,extended,0C030C80
+
+[Cheats/Enemy Units Instant Death]
+patch=1,EE,D0A8B838,extended,00006078
+patch=1,EE,20AB6074,extended,000003E7
+
+[Cheats/Max Potch] 
+patch=1,EE,20A31C10,extended,05F5E0FF
+
+[Cheats/Max Party SP] 
+patch=1,EE,20A31C14,extended,000F423F
+
+[Cheats/Random Battles L2+Triangle None L2+X Random] 
+patch=1,EE,20346028,extended,0000102D
+patch=1,EE,D089a39c,extended,0000EEFF
+patch=1,EE,2034602C,extended,A7824424
+patch=1,EE,D089a39c,extended,0000BEFF
+patch=1,EE,2034602C,extended,87824424
+
+[Cheats/Unlock All Skills]  
+patch=1,EE,20A33710,extended,0000000C
+patch=1,EE,40A33714,extended,000C0002
+patch=1,EE,00002B08,extended,00000100
+patch=1,EE,0052A027,extended,0000001F

@@ -1,0 +1,175 @@
+[Cheats/Infinite Health - Amon Hen Level] 
+patch=1,EE,216FB0E0,extended,00000708
+
+[Cheats/Special Enabler for Health, Ammo and Speed] 
+patch=1,EE,200FFF04,extended,2402270F
+patch=1,EE,200FFF00,extended,8F8385BC
+patch=1,EE,200FFF08,extended,10030009
+patch=1,EE,200FFF30,extended,24030070
+patch=1,EE,200FFF34,extended,080B114E
+patch=1,EE,202C4534,extended,0803FFC0
+
+[Cheats/Infinite Health] 
+patch=1,EE,200FFF10,extended,AC620300
+patch=1,EE,200FFF14,extended,AC620304
+
+[Cheats/Max Ammo] 
+patch=1,EE,200FFF18,extended,A4620308
+patch=1,EE,200FFF1C,extended,A462030A
+
+[Cheats/1 Hit Kill] 
+patch=1,EE,200FFF40,extended,8F8385BC
+patch=1,EE,200FFF48,extended,14710002
+patch=1,EE,200FFF4C,extended,24030001
+patch=1,EE,200FFF50,extended,8C430024
+patch=1,EE,200FFF58,extended,AE230300
+patch=1,EE,200FFF5C,extended,0809FF12
+patch=1,EE,2027FC40,extended,0803FFD0
+
+[Cheats/Unlock Isildur] 
+patch=1,EE,004648A1,extended,00000001
+patch=1,EE,004648A3,extended,00000001
+
+[Cheats/Unlock Secret Codes On Level Select Screen] 
+patch=1,EE,004648CF,extended,00000001
+ 
+[Cheats/Have Mission Completed Isildur - Prologue] 
+patch=1,EE,00464896,extended,00000001
+
+[Cheats/Have Mission Completed Aragon - Weathertop] 
+patch=1,EE,00464897,extended,00000001
+
+[Cheats/Have Mission Completed Aragon - Gates Of Moria] 
+patch=1,EE,00464898,extended,00000001
+
+[Cheats/Have Mission Completed Aragon - Balin's Tomb] 
+patch=1,EE,00464899,extended,00000001
+
+[Cheats/Have Mission Completed Aragon - Amon Hen] 
+patch=1,EE,0046489A,extended,00000001
+
+[Cheats/Have Mission Completed Aragon - Fangorn Forest] 
+patch=1,EE,0046489B,extended,00000001
+
+[Cheats/Have Mission Completed Aragon - Plains Of Rohan] 
+patch=1,EE,0046489C,extended,00000001
+
+[Cheats/Have Mission Completed Aragon - The Westfold] 
+patch=1,EE,0046489D,extended,00000001
+
+[Cheats/Have Mission Completed Aragon - Gap Of Rohan] 
+patch=1,EE,0046489E,extended,00000001
+
+[Cheats/Have Mission Completed Aragon - Helm's Deep-The Deeping Wall] 
+patch=1,EE,0ACC4645,extended,00000001
+
+[Cheats/Have Mission Completed Aragon-Helm's Deep-Breached Wall] 
+patch=1,EE,0AC34645,extended,00000001
+
+[Cheats/Have Mission Completed Aragon - Helm's Deep-Hornburg Courtyard] 
+patch=1,EE,0AC24645,extended,00000001
+
+[Cheats/Have Mission Completed Aragon - Tower Of Orthanc] 
+patch=1,EE,004648A2,extended,00000001
+
+[Cheats/Have Mission Completed Legolas - Gates Of Moria] 
+patch=1,EE,004648A7,extended,00000001
+
+[Cheats/Have Mission Completed Legolas - Balin's Tomb] 
+patch=1,EE,004648A8,extended,00000001
+
+[Cheats/Have Mission Completed Legolas - Amon Hen] 
+patch=1,EE,004648A9,extended,00000001
+
+[Cheats/Have Mission Completed Legolas - Fangorn Forest] 
+patch=1,EE,004648AA,extended,00000001
+
+[Cheats/Have Mission Completed Legolas - Plains Of Rohan] 
+patch=1,EE,004648AB,extended,00000001
+
+[Cheats/Have Mission Completed Legolas - The Westfold] 
+patch=1,EE,004648AC,extended,00000001
+
+[Cheats/Have Mission Completed Legolas - Gap Of Rohan] 
+patch=1,EE,004648AD,extended,00000001
+
+[Cheats/Have Mission Completed Legolas - Helm's Deep-The Deeping Wall] 
+patch=1,EE,0ADD4645,extended,00000001
+
+[Cheats/Have Mission Completed Legolas - Helm's Deep-Breached Wall] 
+patch=1,EE,0ADC4645,extended,00000001
+
+[Cheats/Have Mission Completed Legolas - Helm's Deep-Hornburg Courtyard] 
+patch=1,EE,0AD34645,extended,00000001
+
+[Cheats/Have Mission Completed Legolas - Tower Of Orthanc] 
+patch=1,EE,004648B1,extended,00000001
+
+[Cheats/Have Mission Completed Gimli - Gates Of Moria] 
+patch=1,EE,004648B6,extended,00000001
+
+[Cheats/Have Mission Completed Gimli - Balin's Tomb] 
+patch=1,EE,004648B7,extended,00000001
+
+[Cheats/Have Mission Completed Gimli - Amon Hen] 
+patch=1,EE,004648B8,extended,00000001
+
+[Cheats/Have Mission Completed Gimli - Fangorn Forest] 
+patch=1,EE,004648B9,extended,00000001
+
+[Cheats/Have Mission Completed Gimli - Plains Of Rohan] 
+patch=1,EE,004648BA,extended,00000001
+
+[Cheats/Have Mission Completed Gimli - The Westfold] 
+patch=1,EE,004648BB,extended,00000001
+
+[Cheats/Have Mission Completed Gimli - Gap Of Rohan] 
+patch=1,EE,004648BC,extended,00000001
+
+[Cheats/Have Mission Completed Gimli - Helm's Deep-The Deeping Wall] 
+patch=1,EE,0AEE4645,extended,00000001
+
+[Cheats/Have Mission Completed Gimli - Helm's Deep-Breached Wall] 
+patch=1,EE,0AED4645,extended,00000001
+
+[Cheats/Have Mission Completed Gimli - Helm's Deep-Hornburg Courtyard] 
+patch=1,EE,0AEC4645,extended,00000001
+
+[Cheats/Have Mission Completed Gimli - Tower Of Orthanc] 
+patch=1,EE,004648C0,extended,00000001
+
+[Cheats/Have Mission Completed Isildur - Gates Of Moria] 
+patch=1,EE,004648C5,extended,00000001
+
+[Cheats/Have Mission Completed Isildur - Balin's Tomb] 
+patch=1,EE,004648C6,extended,00000001
+
+[Cheats/Have Mission Completed Isildur - Amon Hen] 
+patch=1,EE,004648C7,extended,00000001
+
+[Cheats/Have Mission Completed Isildur - Fangorn Forest] 
+patch=1,EE,004648C8,extended,00000001
+
+[Cheats/Have Mission Completed Isildur - Plains Of Rohan] 
+patch=1,EE,004648C9,extended,00000001
+
+[Cheats/Have Mission Completed Isildur - The Westfold] 
+patch=1,EE,004648CA,extended,00000001
+
+[Cheats/Have Mission Completed Isildur - Gap Of Rohan] 
+patch=1,EE,004648CB,extended,00000001
+
+[Cheats/Have Mission Completed Isildur - Helm's Deep-The Deeping Wall] 
+patch=1,EE,0AFF4645,extended,00000001
+
+[Cheats/Have Mission Completed Isildur - Helm's Deep-Breached Wall] 
+patch=1,EE,0AFE4645,extended,00000001
+
+[Cheats/Have Mission Completed Isildur - Helm's Deep-Hornburg Courtyard] 
+patch=1,EE,0AFD4645,extended,00000001
+
+[Cheats/Have Mission Completed Isildur - Tower Of Orthanc] 
+patch=1,EE,004648CF,extended,00000001
+
+[Cheats/Unlock Everything - Menu] 
+patch=1,EE,201C27E4,extended,24020001

@@ -1,0 +1,13 @@
+[Cheats/No Health P2] 
+patch=1,EE,1044AD64,extended,00000000
+
+[Cheats/Mission Mode Unlock All characters] 
+patch=1,EE,0043381C,extended,00000002
+patch=1,EE,00433818,extended,00000002
+patch=1,EE,00433810,extended,00000002
+patch=1,EE,00433820,extended,00000002
+
+[Cheats/Story Mode Unlock All stages] 
+patch=1,EE,00433854,extended,00000002
+patch=1,EE,00433858,extended,00000002
+patch=1,EE,0043385C,extended,00000002

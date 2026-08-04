@@ -1,0 +1,16 @@
+[Cheats/Invincible] 
+patch=1,EE,20115578,extended,1000008C
+
+[Cheats/Infinite Health P1] 
+patch=1,EE,2028AB80,extended,000000F0
+
+[Cheats/Infinite Health P2] 
+patch=1,EE,2028B702,extended,000000F0
+
+[Cheats/Recovers When Attacked] 
+patch=1,EE,2011583C,extended,96030240
+patch=1,EE,20115840,extended,A6030242
+
+[Cheats/99 Hits In One Hit] 
+patch=1,EE,201C8B80,extended,24020063
+patch=1,EE,201C8C48,extended,00000000

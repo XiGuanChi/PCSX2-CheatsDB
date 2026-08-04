@@ -1,0 +1,66 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200C0228,extended,AE21006C
+
+[Cheats/Infinite Special] 
+patch=1,EE,200C0248,extended,AE210070
+
+[Cheats/Press L2+Select Instant Kill P2] 
+patch=1,EE,D06299C2,extended,0000FEFE
+patch=1,EE,200C0230,extended,AE20006C
+patch=1,EE,D06299C2,extended,0000F7FE
+patch=1,EE,200C0230,extended,00000000
+
+[Cheats/Infinite Health Master Mode] 
+patch=1,EE,206EE95C,extended,C44102CC
+patch=1,EE,206EE964,extended,E44102C8
+
+[Cheats/Infinite Special Master Mode] 
+patch=1,EE,D073A970,extended,000002D0
+patch=1,EE,2073A970,extended,C64002D4
+
+[Cheats/Infinite Money Ryo] 
+patch=1,EE,203253AC,extended,00000000
+
+[Cheats/Max Infinite Money Ryo] 
+patch=1,EE,203253DC,extended,3C0205F5
+patch=1,EE,203253E4,extended,3442E0FF
+patch=1,EE,203253EC,extended,AC420034
+
+[Cheats/Have All Max Purchased Attack Items] 
+patch=1,EE,2039EED4,extended,24020063
+
+[Cheats/Infinite Item Usage] 
+patch=1,EE,D070EB3C,extended,0000000C
+patch=1,EE,2070EB34,extended,00000000
+
+[Cheats/Max Infinite Item Usage] 
+patch=1,EE,D070EB3C,extended,0000000C
+patch=1,EE,2070EB30,extended,24030063
+
+[Cheats/Extra Items] 
+patch=1,EE,D070EB3C,extended,0000000C
+patch=1,EE,2070EB30,extended,00000001
+
+[Cheats/ Have Unlockables Unlock All Characters]
+patch=1,EE,2039E5F4,extended,24020003
+
+[Cheats/ Have Unlockables Unlock All In Hero Mode] 
+patch=1,EE,2039EC78,extended,240200FF
+
+[Cheats/Collection Unlock All Characters] 
+patch=1,EE,2039E5F4,extended,2402FFFF
+
+[Cheats/Collection Unlock All Figures]  
+patch=1,EE,2039E994,extended,24020003
+
+[Cheats/Collection Unlock All Ultimate Justus]  
+patch=1,EE,2039E9C4,extended,24020003
+
+[Cheats/Collection Unlock All Voices]  
+patch=1,EE,2039E9B4,extended,24020003
+
+[Cheats/Collection Unlock All Movies]  
+patch=1,EE,2039E9D4,extended,24020003
+
+[Cheats/Collection Unlock All Musics] 
+patch=1,EE,2039E9A4,extended,24020003

@@ -1,0 +1,49 @@
+[Cheats/Max Money]
+patch=1,EE,20244258,extended,00A01021
+
+[Cheats/Infinite HP] 
+patch=1,EE,201FACE4,extended,00000000
+
+[Cheats/HP and MP 999 for any Character After 1 Level Up] 
+patch=1,EE,20242AD8,extended,240203E7
+patch=1,EE,20242B58,extended,240203E7
+
+[Cheats/Infinite Arm Cannon Ammo] 
+patch=1,EE,201AFDB4,extended,24020000
+
+[Cheats/Infinite Throwing Knives] 
+patch=1,EE,201AFDE4,extended,24020000
+
+[Cheats/Infinite Crossbow Arrows] 
+patch=1,EE,201AFE08,extended,24020000
+
+[Cheats/Infinite Exploding Bullets] 
+patch=1,EE,201AFDCC,extended,24020000
+
+[Cheats/Infinite Berserker Mode] 
+patch=1,EE,201AFEE4,extended,1000000A
+
+[Cheats/Unlock All Map Press R1] 
+patch=1,EE,D03DC4C2,extended,0000F7FF
+patch=1,EE,203D8648,extended,FFFFFFFF
+patch=1,EE,D03DC4C2,extended,0000F7FF
+patch=1,EE,203D864C,extended,FFFFFFFF
+patch=1,EE,D03DC4C2,extended,0000F7FF
+patch=1,EE,203D8650,extended,FFFFFFFF
+patch=1,EE,D03DC4C2,extended,0000F7FF
+patch=1,EE,103D8654,extended,0000FFFF
+
+[Cheats/Press Select To Enable Mark and Deathblow] 
+patch=1,EE,D03DC4C2,extended,0000FFFE
+patch=1,EE,203D87F0,extended,00000100
+
+[Cheats/Infinite Help from Friends] 
+patch=1,EE,201AFE1C,extended,24020000
+patch=1,EE,201AFE34,extended,24020000
+patch=1,EE,201AFE4C,extended,24020000
+patch=1,EE,201AFE64,extended,24020000
+
+[Cheats/Unlock All Extras May Need a Save] 
+patch=1,EE,203D8790,extended,00000000
+patch=1,EE,403D87A4,extended,00070001
+patch=1,EE,00000000,extended,00000000

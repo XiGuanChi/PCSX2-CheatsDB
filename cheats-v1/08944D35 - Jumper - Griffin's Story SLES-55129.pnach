@@ -1,0 +1,52 @@
+[Cheats/Infinite Health Level 1]  
+patch=1,EE,20E6ED1C,extended,43020000
+
+[Cheats/Infinite Health Level 2] 
+patch=1,EE,20DC8BFC,extended,43020000
+
+[Cheats/Infinite Health Level 3] 
+patch=1,EE,20D7FE1C,extended,43020000
+
+[Cheats/Infinite Health Level 4] 
+patch=1,EE,20E1F5BC,extended,43020000
+
+[Cheats/Activator for Codes] 
+patch=1,EE,200C0000,extended,3C04004E
+patch=1,EE,200C0004,extended,8C85DED8
+patch=1,EE,200C0008,extended,10A0001B
+patch=1,EE,200C000C,extended,3C01006E
+patch=1,EE,200C0010,extended,8CA3000C
+patch=1,EE,200C0014,extended,34216966
+patch=1,EE,200C0018,extended,10230007
+patch=1,EE,200C001C,extended,3C016972
+patch=1,EE,200C0020,extended,3421475F
+patch=1,EE,200C0024,extended,10230004
+patch=1,EE,200C0028,extended,3C016669
+patch=1,EE,200C002C,extended,34217247
+patch=1,EE,200C0030,extended,5423FFF4
+patch=1,EE,200C0034,extended,24840004
+patch=1,EE,200C0038,extended,8CA5020C
+patch=1,EE,200C003C,extended,10A0000E
+patch=1,EE,200C0078,extended,03E00008
+patch=1,EE,200C007C,extended,00000000
+patch=1,EE,2040A50C,extended,08030000
+
+[Cheats/Infinite Health] 
+patch=1,EE,200C0040,extended,3C014302
+patch=1,EE,200C0044,extended,8CA30004
+patch=1,EE,200C0048,extended,AC610000
+
+[Cheats/Infinite Special Meter] 
+patch=1,EE,200C004C,extended,8CA30004
+patch=1,EE,200C0050,extended,3C0142C8
+patch=1,EE,200C0054,extended,AC610008
+
+[Cheats/Infinite Grenades] 
+patch=1,EE,200C0058,extended,8CA30020
+patch=1,EE,200C005C,extended,3C014040
+patch=1,EE,200C0060,extended,AC610000
+
+[Cheats/Infinite Flamethrower] 
+patch=1,EE,200C0064,extended,8CA30020
+patch=1,EE,200C0068,extended,3C01447A
+patch=1,EE,200C006C,extended,AC610008

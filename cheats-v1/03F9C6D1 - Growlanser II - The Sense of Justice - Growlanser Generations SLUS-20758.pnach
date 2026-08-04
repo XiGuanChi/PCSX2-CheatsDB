@@ -1,0 +1,52 @@
+[Cheats/Infinite Elm] 
+patch=1,EE,20341C04,extended,000F423F
+
+[Cheats/Character 1 Infinite HP] 
+patch=1,EE,1033A74A,extended,000003E7
+patch=1,EE,1033A74C,extended,000003E7
+
+[Cheats/Character 1 Infinite MP] 
+patch=1,EE,1033A74E,extended,000003E7
+patch=1,EE,1033A750,extended,000003E7
+
+[Cheats/Character 2 Infinite HP] 
+patch=1,EE,1033AAFA,extended,000003E7
+patch=1,EE,1033AAFC,extended,000003E7
+
+[Cheats/Character 2 Infinite MP] 
+patch=1,EE,1033AAFE,extended,000003E7
+patch=1,EE,1033AB00,extended,000003E7
+
+[Cheats/Character 3 Infinite HP] 
+patch=1,EE,1033AEAA,extended,000003E7
+patch=1,EE,1033AEAC,extended,000003E7
+
+[Cheats/Character 3 Infinite MP] 
+patch=1,EE,1033AEAE,extended,000003E7
+patch=1,EE,1033AEB0,extended,000003E7
+
+[Cheats/Infinite Master Points] 
+patch=1,EE,0023065C,extended,00430821
+patch=1,EE,00230660,extended,24020063
+patch=1,EE,00230664,extended,A02201EF
+
+[Cheats/Massive Stat Gain On Level-Up] 
+patch=1,EE,0015F2EC,extended,00000000
+patch=1,EE,0015F308,extended,00000000
+patch=1,EE,0015F320,extended,00000000
+
+[Cheats/Gain Max Master Points On Level-Up] 
+patch=1,EE,0015F3EC,extended,00000000
+
+[Cheats/Gain 50000 EXP Per Battle] 
+patch=1,EE,0015E8F0,extended,3402C350
+
+[Cheats/Level 99 After One Action] 
+patch=1,EE,0015E8F0,extended,3C0205F5
+
+[Cheats/Enable Movie Test Debug Menu L3 = Movie Test R3 = Disable menu] 
+patch=1,EE,D08BFA42,extended,0000FFFD
+patch=1,EE,003312C0,extended,00000001
+patch=1,EE,D08BFA42,extended,0000FFFB
+patch=1,EE,003312C0,extended,00000000
+ 

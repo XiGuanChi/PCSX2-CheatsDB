@@ -1,0 +1,95 @@
+[Cheats/Max Money] 
+patch=1,EE,205B6348,extended,05F5E0FF
+
+[Cheats/Max Money in one battle] 
+patch=1,EE,D0304588,extended,000005F5
+patch=1,EE,20304594,extended,00000000
+
+[Cheats/Max Money when shopping] 
+patch=1,EE,D026140C,extended,000005F5
+patch=1,EE,20261418,extended,00000000
+
+[Cheats/Max Experience earned by defeating one enemy ] 
+patch=1,EE,D0354838,extended,000005F5 
+patch=1,EE,20354844,extended,00000000
+
+[Cheats/In Battle HP 9999] 
+patch=1,EE,D034E3F8,extended,00000360 
+patch=1,EE,2034E408,extended,2411270F
+patch=1,EE,D034E3F8,extended,00000360
+patch=1,EE,2034E420,extended,AE110014
+
+[Cheats/In Battle MP & SP 999] 
+patch=1,EE,D034E3F8,extended,00000360 
+patch=1,EE,2034E570,extended,240103E7
+patch=1,EE,D034E3F8,extended,00000360
+patch=1,EE,2034E588,extended,AE010018
+patch=1,EE,D034E3F8,extended,00000360 
+patch=1,EE,2034E58C,extended,AE01001C
+
+[Cheats/In Battle Max stamina gauge] 
+patch=1,EE,201789A4,extended,C4400068 
+
+[Cheats/In Battle Max adrenaline gauge]  
+patch=1,EE,203FD348,extended,E4580014 
+
+[Cheats/In Battle Invincible ON on SELECT+UP OFF with SELECT+Down] 
+patch=1,EE,D05CFD02,extended,0000FFEE 
+patch=1,EE,2017AF9C,extended,8E8200C0 
+patch=1,EE,D05CFD02,extended,0000FFBE 
+patch=1,EE,2017AF9C,extended,8C42309C 
+patch=1,EE,D05CFD02,extended,0000FFEE 
+patch=1,EE,20178D1C,extended,8E8200C0 
+patch=1,EE,D05CFD02,extended,0000FFBE 
+patch=1,EE,20178D1C,extended,8C42309C
+
+[Cheats/Max Magic Level in one battle] 
+patch=1,EE,D0304940,extended,00007531 
+patch=1,EE,20304944,extended,00000000 
+
+[Cheats/Max Skill Level in one battle] 
+patch=1,EE,D0304978,extended,00007531 
+patch=1,EE,2030497C,extended,00000000 
+
+[Cheats/Max Special Level in one battle]   
+patch=1,EE,D03049B0,extended,00007531 203049B4 00000000
+
+[Cheats/HP · MP · SP recovery at the end of combat] 
+patch=1,EE,201E33D8,extended,00000025
+patch=1,EE,201E3400,extended,00000025
+patch=1,EE,201E3428,extended,00000025
+
+[Cheats/Max HP] 
+patch=1,EE,201DF39C,extended,2403270F
+patch=1,EE,201DF3A4,extended,A5030000
+
+[Cheats/Max MP] 
+patch=1,EE,201DF48C,extended,2403270F
+patch=1,EE,201DF494,extended,A5030004
+
+[Cheats/Max HP at one level up] 
+patch=1,EE,201E3610,extended,00000000
+
+[Cheats/Max MP at one level up] 
+patch=1,EE,201E3648,extended,00000000
+
+[Cheats/Max attack at one level up] 
+patch=1,EE,201E3680,extended,00000000
+
+[Cheats/Max Magic in one level up] 
+patch=1,EE,201E36F0,extended,00000000
+
+[Cheats/Max Defense at one level up]  
+patch=1,EE,201E36B8,extended,00000000
+
+[Cheats/Max resistance at one level up]  
+patch=1,EE,201E3728,extended,00000000
+
+[Cheats/Max Action at one level up] 
+patch=1,EE,201E3760,extended,00000000
+
+[Cheats/No Random Battles START+L2 ON START+R2 OFF] 
+patch=1,EE,D0218A80,extended,00000801
+patch=1,EE,20285A30,extended,080A169A
+patch=1,EE,D0218A80,extended,00000802
+patch=1,EE,20285A30,extended,1040000D

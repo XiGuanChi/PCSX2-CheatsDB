@@ -1,0 +1,71 @@
+[Cheats/Max TP 999999] 
+patch=1,EE,205DF060,extended,0098967F
+
+[Cheats/1P HP 99999] 
+patch=1,EE,105E5B14,extended,0000869F
+patch=1,EE,005E5B15,extended,000000C9
+
+[Cheats/2P HP 99999] 
+patch=1,EE,105E5BC8,extended,0000869F
+patch=1,EE,005E5BC9,extended,000000C9
+
+[Cheats/Damage 99999 Points Press L3 OFF Press R3] 
+patch=1,EE,D05DEDC2,extended,0000FFFD
+patch=1,EE,202BD5CC,extended,00000000
+patch=1,EE,D05DEDC2,extended,0000FFFB
+patch=1,EE,202BD5CC,extended,14200003
+
+[Cheats/Red Army Remodelling Stage 0] The 
+patch=1,EE,405E8818,extended,0080002D
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Green Army Remodelling Stage 0]  
+patch=1,EE,405EE218,extended,0040002D
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Unlock All Stages During Stage Selection] 
+patch=1,EE,005DF067,extended,0000001F
+patch=1,EE,20249E18,extended,97010008
+patch=1,EE,20249E1C,extended,34210009 
+patch=1,EE,20249E20,extended,A7010008
+
+[Cheats/Unlock All C.E.71 Missions Clear, All C.E.73 Missions Clear and All Extra Missions] 
+patch=1,EE,205DF06E,extended,FFFFFFFF
+patch=1,EE,205DF072,extended,FFFFFFFF
+patch=1,EE,205DF076,extended,FFFFFFFF
+patch=1,EE,205DF07A,extended,FFFFFFFF
+patch=1,EE,205DF07E,extended,FFFFFFFF
+patch=1,EE,205DF082,extended,FFFFFFFF
+patch=1,EE,205DF086,extended,FFFFFFFF
+patch=1,EE,205DF08A,extended,FFFFFFFF
+patch=1,EE,205DF08E,extended,FFFFFFFF
+patch=1,EE,205DF092,extended,FFFFFFFF
+patch=1,EE,205DF096,extended,FFFFFFFF
+patch=1,EE,205DF09A,extended,FFFFFFFF
+patch=1,EE,205DF09E,extended,FFFFFFFF
+patch=1,EE,205DF0A2,extended,FFFFFFFF
+patch=1,EE,205DF0A6,extended,FFFFFFFF
+patch=1,EE,205DF0AA,extended,FFFFFFFF
+patch=1,EE,205DF0AE,extended,FFFFFFFF
+
+[Cheats/Unlock All Gallery 100%] 
+patch=1,EE,405DF008,extended,00150001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Profile Mode] 
+patch=1,EE,205DF008,extended,FFFFFFFF
+patch=1,EE,205DF00C,extended,FFFFFFFF
+patch=1,EE,205DF010,extended,FFFFFFFF
+patch=1,EE,205DF014,extended,FFF7FFFF
+patch=1,EE,405DF018,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Event Movies & Map weapon Demo]  
+patch=1,EE,405DF044,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Event Graphics]   
+patch=1,EE,105DF036,extended,0000FFFF
+patch=1,EE,205DF038,extended,FFFFFFFF
+patch=1,EE,205DF03C,extended,FFFFFFFF
+patch=1,EE,205DF040,extended,FFFFFFFF

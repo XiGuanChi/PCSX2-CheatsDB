@@ -1,0 +1,247 @@
+[Cheats/viele Charaktere max.STK,INT,LEA] 
+patch=1,EE,4095E070,extended,00b5000f
+patch=1,EE,00646464,extended,00000000
+
+[Cheats/viele Charaktere max.Truppen und taten] 
+patch=1,EE,4095E050,extended,00b5000f
+patch=1,EE,c350c350,extended,00000000
+
+[Cheats/Zhou Yu 50.000 Truppen] 
+patch=1,EE,1095ed36,extended,0000c350
+
+[Cheats/Zhou Yu 9999 Taten] 
+patch=1,EE,1095ed34,extended,0000270f
+
+[Cheats/Zhou Yu 50.000 Taten] 
+patch=1,EE,1095ed34,extended,0000270f
+
+[Cheats/Zhou Yu STK 100] 
+patch=1,EE,0095ed54,extended,00000064
+
+[Cheats/Zhou Yu INT 100] 
+patch=1,EE,0095ed55,extended,00000064
+
+[Cheats/Zhou Yu LEA 100] 
+patch=1,EE,0095ed56,extended,00000064
+
+[Cheats/Zhou Yu max Status] 
+patch=1,EE,2095ed54,extended,00646464
+
+[Cheats/Zhou Yu Exp 99] 
+patch=1,EE,0095ed60,extended,00000063
+
+[Cheats/Guan Yu 50.000 Truppen] 
+patch=1,EE,1095E052,extended,0000c350
+
+[Cheats/Guan Yu 9999 Taten] 
+patch=1,EE,1095E050,extended,0000270f
+
+[Cheats/Guan Yu 50.000 Taten] 
+patch=1,EE,1095E050,extended,0000270f
+
+[Cheats/Guan Yu STK 100] 
+patch=1,EE,0095E070,extended,00000064
+
+[Cheats/Guan Yu INT 100] 
+patch=1,EE,0095E071,extended,00000064
+
+[Cheats/Guan Yu LEA 100] 
+patch=1,EE,0095E072,extended,00000064
+
+[Cheats/Guan Yu max Status] 
+patch=1,EE,2095E070,extended,00646464
+
+[Cheats/Guan Yu Exp 99] 
+patch=1,EE,0095E07C,extended,00000063
+
+[Cheats/Liu Bei 50.000 Truppen] 
+patch=1,EE,10960ABE,extended,0000c350
+
+[Cheats/Liu Bei 9999 Taten] 
+patch=1,EE,10960ABC,extended,0000270f
+
+[Cheats/Liu Bei 50.000 Taten] 
+patch=1,EE,10960ABC,extended,0000270f
+
+[Cheats/Unlock STK 100] 
+patch=1,EE,00960ADC,extended,00000064
+
+[Cheats/Liu Bei INT 100] 
+patch=1,EE,00960ADD,extended,00000064
+
+[Cheats/Liu Bei LEA 100] 
+patch=1,EE,00960ADE,extended,00000064
+
+[Cheats/Liu Bei max Status] 
+patch=1,EE,20960ADC,extended,00646464
+
+[Cheats/Liu Bei Exp 99] 
+patch=1,EE,00960AE8,extended,00000063
+
+[Cheats/Zhang Fei 50.000 Truppen] 
+patch=1,EE,1095FA92,extended,0000c350
+
+[Cheats/Zhang Fei 9999 Taten] 
+patch=1,EE,1095FA90,extended,0000270f
+
+[Cheats/Zhang Fei 50.000 Taten] 
+patch=1,EE,1095FA90,extended,0000270f
+
+[Cheats/Zhang Fei STK 100] 
+patch=1,EE,0095FAB0,extended,00000064
+
+[Cheats/Zhang Fei INT 100] 
+patch=1,EE,0095FAB1,extended,00000064
+
+[Cheats/Zhang Fei LEA 100] 
+patch=1,EE,0095FAB2,extended,00000064
+
+[Cheats/Zhang Fei max Status] 
+patch=1,EE,2095FAB0,extended,00646464
+
+[Cheats/Zhang Fei Exp 99] 
+patch=1,EE,0095FABC,extended,00000063
+
+[Cheats/Cao Cao 50.000 Truppen] 
+patch=1,EE,1095F3C6,extended,0000c350
+
+[Cheats/Cao Cao 9999 Taten] 
+patch=1,EE,1095F3C4,extended,0000270f
+
+[Cheats/Cao Cao 50.000 Taten] 
+patch=1,EE,1095F3C4,extended,0000270f
+
+[Cheats/Cao Cao STK 100] 
+patch=1,EE,0095F3E4,extended,00000064
+
+[Cheats/Cao Cao INT 100] 
+patch=1,EE,0095F3E5,extended,00000064
+
+[Cheats/Cao Cao LEA 100] 
+patch=1,EE,0095F3E6,extended,00000064
+
+[Cheats/Cao Cao max Status] 
+patch=1,EE,2095F3E4,extended,00646464
+
+[Cheats/Cao Cao Exp 99] 
+patch=1,EE,0095F3F0,extended,00000063
+
+[Cheats/Cao Ren 50.000 Truppen] 
+patch=1,EE,1095F38A,extended,0000c350
+
+[Cheats/Cao Ren 9999 Taten] 
+patch=1,EE,1095F388,extended,0000270f
+
+[Cheats/Cao Ren 50.000 Taten] 
+patch=1,EE,1095F388,extended,0000270f
+
+[Cheats/Cao Ren STK 100] 
+patch=1,EE,0095F3A8,extended,00000064
+
+[Cheats/Cao Ren INT 100] 
+patch=1,EE,0095F3A9,extended,00000064
+
+[Cheats/Cao Ren LEA 100] 
+patch=1,EE,0095F3AA,extended,00000064
+
+[Cheats/Cao Ren max Status] 
+patch=1,EE,2095F3A8,extended,00646464
+
+[Cheats/Cao Ren Exp 99] 
+patch=1,EE,0095F3B4,extended,00000063
+
+[Cheats/Xu Huang 50.000 Truppen] 
+patch=1,EE,1095F0BA,extended,0000c350
+
+[Cheats/Xu Huang 9999 Taten] 
+patch=1,EE,1095F0B8,extended,0000270f
+
+[Cheats/Xu Huang 50.000 Taten] 
+patch=1,EE,1095F0B8,extended,0000270f
+
+[Cheats/Xu Huang STK 100] 
+patch=1,EE,0095F0D8,extended,00000064
+
+[Cheats/Xu Huang INT 100] 
+patch=1,EE,0095F0D9,extended,00000064
+
+[Cheats/Xu Huang LEA 100] 
+patch=1,EE,0095F0DA,extended,00000064
+
+[Cheats/Xu Huang max Status] 
+patch=1,EE,2095F0D8,extended,00646464
+
+[Cheats/Xu Huang Exp 99] 
+patch=1,EE,0095F0E4,extended,00000063
+
+[Cheats/Sun Ce 50.000 Truppen] 
+patch=1,EE,1095F5A6,extended,0000c350
+
+[Cheats/Sun Ce 9999 Taten] 
+patch=1,EE,1095F5A4,extended,0000270f
+
+[Cheats/Sun Ce 50.000 Taten] 
+patch=1,EE,1095F5A4,extended,0000270f
+
+[Cheats/Sun Ce STK 100] 
+patch=1,EE,0095F5C4,extended,00000064
+
+[Cheats/Sun Ce INT 100] 
+patch=1,EE,0095F5C5,extended,00000064
+
+[Cheats/Sun Ce LEA 100] 
+patch=1,EE,0095F5C6,extended,00000064
+
+[Cheats/Sun Ce max Status] 
+patch=1,EE,2095F5C4,extended,00646464
+
+[Cheats/Sun Ce Exp 99] 
+patch=1,EE,0095F5D0,extended,00000063
+
+[Cheats/Huang Gei 50.000 Truppen] 
+patch=1,EE,1095E80E,extended,0000c350
+
+[Cheats/Huang Gei 9999 Taten] 
+patch=1,EE,1095E80C,extended,0000270f
+
+[Cheats/Huang Gei 50.000 Taten] 
+patch=1,EE,1095E80C,extended,0000270f
+
+[Cheats/Huang Gei STK 100] 
+patch=1,EE,0095E82C,extended,00000064
+
+[Cheats/Huang Gei INT 100] 
+patch=1,EE,0095E82D,extended,00000064
+
+[Cheats/Huang Gei LEA 100] 
+patch=1,EE,0095E82E,extended,00000064
+
+[Cheats/Huang Gei max Status] 
+patch=1,EE,2095E82C,extended,00646464
+
+[Cheats/Huang Gei Exp 99] 
+patch=1,EE,0095E838,extended,00000063
+
+[Cheats/Taishi Ci 50.000 Truppen] 
+patch=1,EE,1095F696,extended,0000c350
+
+[Cheats/Taishi Ci 9999 Taten] 
+patch=1,EE,1095F694,extended,0000270f
+
+[Cheats/Taishi Ci 50.000 Taten] 
+patch=1,EE,1095F694,extended,0000270f
+
+[Cheats/Taishi Ci STK 100] 
+patch=1,EE,0095F6B4,extended,00000064
+
+[Cheats/Taishi Ci INT 100] 
+patch=1,EE,0095F6B5,extended,00000064
+
+[Cheats/Taishi Ci LEA 100] 
+patch=1,EE,0095F6B6,extended,00000064
+
+[Cheats/Taishi Ci max Status] 
+patch=1,EE,2095F6B4,extended,00646464
+
+[Cheats/Taishi Ci Exp 99] 
+patch=1,EE,0095F6C0,extended,00000063

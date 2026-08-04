@@ -1,0 +1,17 @@
+[Cheats/Player 1 Infinite Health] 
+patch=1,EE,101C557C,extended,0000000C
+
+[Cheats/Invincible count sound will continue sounds and take a star] 
+patch=1,EE,101C50E8,extended,000001FF
+
+[Cheats/Speedster Shoes Equipment] 
+patch=1,EE,101C50EC,extended,0000044C
+
+[Cheats/Clear Time 0] 
+patch=1,EE,101C4AD4,extended,00000000
+
+[Cheats/Unlock Everything] 
+patch=1,EE,401C4E6C,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,401C4B48,extended,00460002
+patch=1,EE,00000000,extended,00000000

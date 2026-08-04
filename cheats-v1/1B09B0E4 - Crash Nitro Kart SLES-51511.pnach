@@ -1,0 +1,52 @@
+[Cheats/99 Wampa Fruits] 
+patch=1,EE,20137D94,extended,0803FFC0
+patch=1,EE,200FFF00,extended,8E220010
+patch=1,EE,200FFF04,extended,24010063
+patch=1,EE,200FFF08,extended,AC4100B0
+patch=1,EE,200FFF0C,extended,AFA10074
+patch=1,EE,200FFF10,extended,0804DF69
+
+[Cheats/Infinite Timer On Coin Collect Power-Up] 
+patch=1,EE,2012FAD8,extended,00000000
+
+[Cheats/Coin - Crystal Gives 9999] 
+patch=1,EE,202401B8,extended,2403270F
+
+[Cheats/Infinite Turbo Use] 
+patch=1,EE,201717C8,extended,00000000
+
+[Cheats/Turn Off Cart Damage] 
+patch=1,EE,2016691C,extended,00000000
+
+[Cheats/Infinite Gold] 
+patch=1,EE,209DFB48,extended,0001869F
+
+[Cheats/Infinite Power Crystals] 
+patch=1,EE,209DFB4C,extended,0000270F
+
+[Cheats/Unlock All Cutscenes & Extra Tracks] 
+patch=1,EE,20792860,extended,DFFFBFFF
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,20792864,extended,FFFFFFFF
+
+[Cheats/Unlock Ghosts Time Trial] 
+patch=1,EE,20792868,extended,FFFFFFFF
+
+[Cheats/100% Adventure Mode] 
+patch=1,EE,20752070,extended,640D040C
+patch=1,EE,10752074,extended,00000101
+patch=1,EE,207522E0,extended,44239085
+patch=1,EE,207522E4,extended,50912809
+patch=1,EE,207522E8,extended,1C013804
+patch=1,EE,207522EC,extended,25008A02
+patch=1,EE,207522F0,extended,11C04280
+patch=1,EE,207522F4,extended,000004A0
+patch=1,EE,207522F8,extended,00000000
+patch=1,EE,207522FC,extended,00000000
+patch=1,EE,20752300,extended,00050000
+patch=1,EE,20752304,extended,00100020
+patch=1,EE,20752308,extended,00040008
+patch=1,EE,2075230C,extended,00000000
+patch=1,EE,20752310,extended,00000000
+patch=1,EE,2075B2A4,extended,45141500

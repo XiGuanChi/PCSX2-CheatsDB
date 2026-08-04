@@ -1,0 +1,51 @@
+[Cheats/Infinite Fuel] 
+patch=1,EE,202F88F8,extended,00000000
+patch=1,EE,202F88FC,extended,00000000
+
+[Cheats/Freeze Timer Press R3 Activate L3 Stop] 
+patch=1,EE,D05986F4,extended,0000FFFD
+patch=1,EE,102FBE16,extended,00002442
+patch=1,EE,D05986F4,extended,0000FFFB
+patch=1,EE,102FBE16,extended,00002A00
+
+[Cheats/Unlock All Bikes In Garage]  
+patch=1,EE,200C0260,extended,27BDFFE0
+patch=1,EE,200C0264,extended,FFBF0000
+patch=1,EE,200C0268,extended,FFB00008
+patch=1,EE,200C026C,extended,24040000
+patch=1,EE,200C0270,extended,FFA40010
+patch=1,EE,200C0274,extended,0C10427E
+patch=1,EE,200C0278,extended,3C05000C
+patch=1,EE,200C027C,extended,10400005
+patch=1,EE,200C0280,extended,DFA40010
+patch=1,EE,200C0284,extended,FE040008
+patch=1,EE,200C0288,extended,24010001
+patch=1,EE,200C028C,extended,AE010010
+patch=1,EE,200C0290,extended,26100020
+patch=1,EE,200C0294,extended,24840001
+patch=1,EE,200C0298,extended,2C810800
+patch=1,EE,200C029C,extended,1420FFF4
+patch=1,EE,200C02A0,extended,00000000
+patch=1,EE,200C02A4,extended,DFB00008
+patch=1,EE,200C02A8,extended,DFBF0000
+patch=1,EE,200C02AC,extended,24050004
+patch=1,EE,200C02B0,extended,08053F4E
+patch=1,EE,200C02B4,extended,27BD0020
+patch=1,EE,2014FD30,extended,0C030098
+
+[Cheats/Unlock All Gold Expert Licenses] 
+patch=1,EE,40832A28,extended,000A0001
+patch=1,EE,0000FB91,extended,00000000
+
+[Cheats/Unlock All Gold Junior Licenses] 
+patch=1,EE,40832A01,extended,000A0001
+patch=1,EE,0000FB91,extended,00000000
+
+[Cheats/Unlock ] All Gold Novice Licenses
+patch=1,EE,408329D8,extended,000A0001
+patch=1,EE,0000FB91,extended,00000000
+
+[Cheats/Unlock All Gold Super Licenses] 
+patch=1,EE,40832A51,extended,000A0001
+patch=1,EE,0000FB91,extended,00000000
+

@@ -1,0 +1,38 @@
+[Cheats/Max Money] 
+patch=1,EE,20485CA0,extended,77359400
+patch=1,EE,20485CA4,extended,00000000
+
+[Cheats/98 at Store Stock Fluctuation] 
+patch=1,EE,20141AA0,extended,24050062
+patch=1,EE,20143994,extended,24030062
+
+[Cheats/Max Experience when the Experience value increases] 
+patch=1,EE,201A8E5C,extended,00000000
+
+[Cheats/Infinite Remaining Magic use count does not decrease when not in combat] 
+patch=1,EE,201A72C8,extended,9082FFF9
+patch=1,EE,201A76C8,extended,9082FFF9
+
+[Cheats/Max Trust when Out of Combat Trust increases] 
+patch=1,EE,201A5A90,extended,24022710
+
+[Cheats/Max HP] 
+patch=1,EE,201A3A40,extended,240203E7
+
+[Cheats/Max HP recovery Effective at Loading, Battle Start, and Battle End] 
+patch=1,EE,201A3A50,extended,950200C0
+patch=1,EE,201A3A64,extended,950200C0
+
+[Cheats/Max Number of Spells 9 Effective at Loading, Battle Start, and Battle End] 
+patch=1,EE,201A38C4,extended,24040009
+patch=1,EE,201A396C,extended,24040009
+
+[Cheats/Max Remaining magic count recovery Effective Loading, Battle Start, and Battle End] 
+patch=1,EE,201A38EC,extended,00000000
+patch=1,EE,201A3994,extended,00000000
+
+[Cheats/Max Trust Effective Loading, Battle Start, and Battle End] 
+patch=1,EE,201A38A4,extended,24022710
+
+
+

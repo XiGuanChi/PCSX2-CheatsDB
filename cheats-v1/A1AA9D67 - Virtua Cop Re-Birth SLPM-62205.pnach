@@ -1,0 +1,45 @@
+[Cheats/Language Modifier Japanese] 
+patch=1,EE,00222E81,extended,00000000
+
+[Cheats/Language Modifier English] 
+patch=1,EE,00222E81,extended,00000001
+
+[Cheats/Language Modifier Italian] 
+patch=1,EE,00222E81,extended,00000002
+
+[Cheats/Language Modifier German] 
+patch=1,EE,00222E81,extended,00000003
+
+[Cheats/Language Modifier Spanish] 
+patch=1,EE,00222E81,extended,00000004
+
+[Cheats/Language Modifier French] 
+patch=1,EE,00222E81,extended,00000005
+
+[Cheats/P1 Infinite HP] 
+patch=1,EE,001D104A,extended,00000009
+
+[Cheats/P1 Infinite Ammo] 
+patch=1,EE,001FD04C,extended,00000009
+
+[Cheats/P2 Infinite HP] 
+patch=1,EE,001D108E,extended,00000009
+
+[Cheats/P2 Infinite Ammo] 
+patch=1,EE,001FD0B8,extended,00000009
+
+[Cheats/Free Play] 
+patch=1,EE,001D1305,extended,000000FF
+
+[Cheats/Auto Reload] 
+patch=1,EE,00222E86,extended,00000001
+
+[Cheats/Gun Select] 
+patch=1,EE,00222E85,extended,00000001
+
+[Cheats/Unlock All Gallery] 
+patch=1,EE,20222FF4,extended,FFFFFFFF
+patch=1,EE,20222FF8,extended,FFFFFFFF
+
+[Cheats/Unlock Random Mode] 
+patch=1,EE,0026EFDE,extended,00000001

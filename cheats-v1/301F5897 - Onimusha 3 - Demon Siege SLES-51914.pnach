@@ -1,0 +1,24 @@
+[Cheats/Infinite Max Vitality] 
+patch=1,EE,208F5B54,extended,00001000
+patch=1,EE,208F5B58,extended,00001000
+
+[Cheats/Infinite Health] 
+patch=1,EE,208F5B58,extended,00000500
+
+[Cheats/Infinite Ogre Power] 
+patch=1,EE,208F7DB0,extended,00000500
+
+[Cheats/Infinite Onimusha] 
+patch=1,EE,208F7E04,extended,00000400
+
+[Cheats/Infinite Item and Arrow Use] 
+patch=1,EE,20339DCC,extended,00000000
+
+[Cheats/Max Soul Count]  
+patch=1,EE,208F7DAC,extended,00018600
+
+[Cheats/Total Enhancement Points] 
+patch=1,EE,208F7DA8,extended,000F423F
+
+[Cheats/Unlock All Extra Features] 
+patch=1,EE,2054A8BC,extended,FFFFFFFF

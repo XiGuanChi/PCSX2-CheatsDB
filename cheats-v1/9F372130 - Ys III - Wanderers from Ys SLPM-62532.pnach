@@ -1,0 +1,44 @@
+[Cheats/Infinite Gold] 
+patch=1,EE,2081C0CC,extended,0000FFFF
+
+[Cheats/Infinite & Max HP] 
+patch=1,EE,2081C0C8,extended,000000FF
+patch=1,EE,10823646,extended,00000255
+
+[Cheats/Untouchable]  
+patch=1,EE,20156588,extended,100000DB
+
+[Cheats/Max EXP]  
+patch=1,EE,2081C0CA,extended,0000FFFF
+
+[Cheats/1 Hit Kill]  
+patch=1,EE,2015321C,extended,1000002C
+
+[Cheats/Unlock All Swords] 
+patch=1,EE,4081C10C,extended,00050001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Shields] 
+patch=1,EE,4081C120,extended,00050001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Armors] 
+patch=1,EE,4081C134,extended,00050001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Statues] 
+patch=1,EE,0081C15C,extended,00000001
+patch=1,EE,0081C160,extended,00000001
+patch=1,EE,0081C164,extended,00000001
+patch=1,EE,0081C168,extended,00000001
+
+[Cheats/Unlock All Items] 
+patch=1,EE,2081C148,extended,00000001
+patch=1,EE,2081C14C,extended,00000003
+patch=1,EE,2081C150,extended,00000003
+patch=1,EE,2081C154,extended,00000003
+patch=1,EE,2081C158,extended,00000001
+
+[Cheats/Unlock All Event Items] 
+patch=1,EE,4081C16C,extended,000C0001
+patch=1,EE,00000001,extended,00000000

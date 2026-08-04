@@ -1,0 +1,57 @@
+[Cheats/Invincible ON Press L1 OFF L1 Use only one of theses codes] 
+patch=1,EE,D02C4AC0,extended,00004004
+patch=1,EE,21A8F2F0,extended,00002000
+patch=1,EE,D02C4AC0,extended,00008004
+patch=1,EE,21A8F2F0,extended,00000000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20162334,extended,3C010000
+
+[Cheats/Time Limit 0] 
+patch=1,EE,21A8F2D0,extended,00000000
+
+[Cheats/Termination condition Clear Press R2+Up end conditions R2+Down complete over-matter 2] 
+patch=1,EE,D02C4AC0,extended,00001002
+patch=1,EE,21A8F2E0,extended,00000002
+patch=1,EE,D02C4AC0,extended,00004002
+patch=1,EE,21A8F2E0,extended,00000003
+
+[Cheats/Player Support Required Code R1+START PLAYER only scenarios R2+START PLAYER+companion scenarios Please be sure to enter this when using the following Function In addition, this code requires you to switch modes using the gamepad depending on the situation of each scenario whether or not you have a companion default is PLAYER only] 
+patch=1,EE,200F4000,extended,2AB90001
+patch=1,EE,200F4078,extended,03E00008
+patch=1,EE,200F407C,extended,8C63A738
+patch=1,EE,201448EC,extended,0C03D000
+patch=1,EE,201448F0,extended,00811821
+patch=1,EE,D02C2402,extended,0000F7F7
+patch=1,EE,200F4000,extended,2AB90001
+patch=1,EE,D02C2402,extended,0000FDF7
+patch=1,EE,200F4000,extended,2AB90002
+
+[Cheats/Function No loss of vitality As an exception, the companion Yokata Harumi will immediately lose the game regardless of her remaining vitality if she is attacked, so please be careful] 
+patch=1,EE,200F4004,extended,13200006
+patch=1,EE,200F4010,extended,34065FFF
+patch=1,EE,200F4014,extended,AC66A748
+patch=1,EE,200F4018,extended,AC66A74C
+
+[Cheats/Function Scenario limited rescue code Risa Onda first day 22:00 Miyata Clinic) L1+R1+× will instantly kill the Brain Shijin (and will also kill all other Shijin). Please do not use it in any other scenario.] 
+patch=1,EE,200F4038,extended,34010001
+patch=1,EE,200F403C,extended,52A10001
+patch=1,EE,200F4040,extended,00000000
+patch=1,EE,D02C2402,extended,0000B3FF
+patch=1,EE,200F4040,extended,AC60A74C
+
+[Cheats/Unlock All Archive Items] 
+patch=1,EE,41A8F060,extended,00190001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Ring Navigator]  
+patch=1,EE,21A8F160,extended,02020201
+patch=1,EE,41A8F164,extended,00070001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,41A8F180,extended,000B0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,11A8F1AC,extended,00000101
+
+[Cheats/Time Attack Clear Time 0] 
+patch=1,EE,41A8F1C0,extended,00400001
+patch=1,EE,00000000,extended,00000000

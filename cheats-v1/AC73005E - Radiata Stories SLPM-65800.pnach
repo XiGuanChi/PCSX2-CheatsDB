@@ -1,0 +1,37 @@
+[Cheats/Max Gold] 
+patch=1,EE,D02FA356,extended,00000043
+patch=1,EE,202FA354,extended,0040102D
+
+[Cheats/Max Gold Used]  
+patch=1,EE,202AE4BC,extended,00000000 
+
+[Cheats/Status Of All Members Max HP 9999-9999 After Battle Is Upgraded]  
+patch=1,EE,202AE2BC,extended,00000000 
+patch=1,EE,202AE2C4,extended,AE2E0000 
+patch=1,EE,202AE2C8,extended,10000007 
+patch=1,EE,202AE2CC,extended,AE2E0004
+
+[Cheats/Activation Password] 
+patch=1,EE,202FA4F8,extended,0c030800
+patch=1,EE,202FA4FC,extended,72B20AA9
+patch=1,EE,200C2300,extended,3C010038
+patch=1,EE,200C2304,extended,03E00008
+patch=1,EE,200C2308,extended,8C24FBC0
+
+[Cheats/Max HP After Level Up]  
+patch=1,EE,202AE2B8,extended,240B270F
+
+[Cheats/Max Attack After Level Up]  
+patch=1,EE,202AE394,extended,240B270F
+
+[Cheats/Max Defense After Level Up]  
+patch=1,EE,202AE3CC,extended,240B270F
+
+[Cheats/After Level Up EXP Max]  
+patch=1,EE,202AE4BC,extended,10000001
+
+[Cheats/After Level Up Level 99] 
+patch=1,EE,202AE4A4,extended,240B270F
+
+[Cheats/99 Items Purchased when purchasing items] 
+patch=1,EE,202931E4,extended,00000000

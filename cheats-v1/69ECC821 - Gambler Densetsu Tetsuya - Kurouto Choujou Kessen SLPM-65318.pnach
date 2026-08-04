@@ -1,0 +1,36 @@
+[Cheats/Player has 99999 points] 
+patch=1,EE,2039F464,extended,0001869F
+
+[Cheats/Opponent 1 has 0 points] 
+patch=1,EE,2039F470,extended,00000000
+
+[Cheats/Opponent 2 has 0 points] 
+patch=1,EE,2039F46C,extended,00000000
+
+[Cheats/Opponent 3 has 0 points] 
+patch=1,EE,2039F468,extended,00000000
+
+[Cheats/Tetsuya does Not Need Strength To Use Professional Technique + COM cannot use Professional Technique] 
+patch=1,EE,201F9B54,extended,11200008
+
+[Cheats/Tetsuya does not need strength to use Professional Technique] 
+patch=1,EE,201F9B58,extended,11200007
+
+[Cheats/COM Cannot Use Professional Skill] 
+patch=1,EE,201F9B7C,extended,1520FFF7
+patch=1,EE,201F9B80,extended,10C00005
+
+[Cheats/Change Tetsuya's Professional Technique COM can use Professional Technique Highlight Continue on the PAUSE screen and press the R1 button] 
+patch=1,EE,201F7840,extended,1060726F
+patch=1,EE,20214200,extended,3C010026
+patch=1,EE,20214204,extended,942252C2
+patch=1,EE,20214208,extended,30420008
+patch=1,EE,2021420C,extended,10408D90
+patch=1,EE,2021421C,extended,8F83874C
+patch=1,EE,20214220,extended,84620016
+patch=1,EE,20214224,extended,24420001
+patch=1,EE,20214228,extended,A4620016
+patch=1,EE,2021422C,extended,2842002C
+patch=1,EE,20214230,extended,14408E49
+patch=1,EE,20214238,extended,A4600016
+patch=1,EE,2021423C,extended,10008E46

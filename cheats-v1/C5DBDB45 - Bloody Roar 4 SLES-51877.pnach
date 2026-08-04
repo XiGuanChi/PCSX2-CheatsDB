@@ -1,0 +1,30 @@
+[Cheats/60 Hertz Mode] 
+patch=1,EE,202C8498,extended,24120002
+
+[Cheats/Max DNA] 
+patch=1,EE,2040148C,extended,05F5E0FF
+patch=1,EE,20401490,extended,05F5E0FF
+
+[Cheats/Player 1 Infinite Health] 
+patch=1,EE,200C2020,extended,AE4604BC
+patch=1,EE,200C2024,extended,AE4604C0
+
+[Cheats/Player 2 No Health] 
+patch=1,EE,200C203C,extended,AE4004BC
+patch=1,EE,200C2040,extended,AE4004C0
+
+[Cheats/Unlock Kohryu The Ironmole]  
+patch=1,EE,20401458,extended,53746561
+
+[Cheats/Unlock Uranus The Chimera]  
+patch=1,EE,2040145C,extended,6C207468
+
+[Cheats/Unlock Shina The Leopard]  
+patch=1,EE,20401460,extended,69732061
+
+[Cheats/Unlock Long The Tiger]  
+patch=1,EE,20401464,extended,63652062
+
+[Cheats/Unlock Ryoho The Dragon] 
+patch=1,EE,20401468,extended,6F792021
+

@@ -1,0 +1,13 @@
+[Cheats/Next Stage Press L3+R3] 
+patch=1,EE,D029A0C2,extended,0000FFF9
+patch=1,EE,0027B062,extended,00000000
+ 
+[Cheats/Infinite Health Justin] 
+patch=1,EE,0117887A,extended,0000006E
+patch=1,EE,01178870,extended,00000064
+patch=1,EE,1117886E,extended,000003E7
+
+[Cheats/Infinite Health Ashley] 
+patch=1,EE,01188C8A,extended,00000064
+patch=1,EE,01188C80,extended,00000064
+patch=1,EE,11188C7E,extended,000003E7

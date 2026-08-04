@@ -1,0 +1,15 @@
+[Cheats/Infinite Coins] 
+patch=1,EE,105E6CFC,extended,000003E7
+
+[Cheats/Stop All Timers] 
+patch=1,EE,20173B5C,extended,00000000
+
+[Cheats/Cars Takes No Damage] 
+patch=1,EE,202899BC,extended,00000000
+
+[Cheats/Press Square To Modify Character] 
+patch=1,EE,20107FD0,extended,00000000
+
+[Cheats/Have All Levels Complete] 
+patch=1,EE,005E6CF0,extended,00000006
+patch=1,EE,005E6CF4,extended,00000006

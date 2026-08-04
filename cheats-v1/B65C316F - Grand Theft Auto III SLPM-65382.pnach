@@ -1,0 +1,53 @@
+[Cheats/Max Money]  
+patch=1,EE,205090E8,extended,3B9AC9FF
+patch=1,EE,205090EC,extended,3B9AC9FF
+
+[Cheats/Invincible No longer affected by blasts damage from stacks such as crushing death or submersion cannot be nullified. ] 
+patch=1,EE,200FA04C,extended,8CA50000
+patch=1,EE,200FA050,extended,94A3004A
+patch=1,EE,200FA054,extended,34631F02
+patch=1,EE,200FA058,extended,A4A3004A
+patch=1,EE,200FA05C,extended,080A5426
+patch=1,EE,200FA060,extended,90A30338
+patch=1,EE,20295090,extended,0803E813
+
+[Cheats/Infinite Stamina] 
+patch=1,EE,A01EDF94,extended,147F0007
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,201A4AB0,extended,24420000
+
+[Cheats/Cruel Mode ON RATE 18] 
+patch=1,EE,2040D5B0,extended,00000001
+
+[Cheats/Bulletproof Vest 500]  
+patch=1,EE,202D68D0,extended,3C0443FA
+patch=1,EE,202D68DC,extended,AC4402E4
+
+[Cheats/Being close, receiving the shot cancer gun, it is unconcerned, in addition] 
+patch=1,EE,202D68D8,extended,AC4402E0
+
+[Cheats/Arrangement Level Does Not Rise] 
+patch=1,EE,202A6D4C,extended,10840042
+
+[Cheats/All Vehicles Do Not Break] 
+patch=1,EE,201B4E24,extended,73801C89
+
+[Cheats/All Cars Bulletproof Specifications] 
+patch=1,EE,201C12D4,extended,30030000
+
+[Cheats/You Won't Die If You Collide With A Tank] 
+patch=1,EE,A00FA064,extended,3C010041
+patch=1,EE,A00FA068,extended,8C21E1C0
+patch=1,EE,A00FA06C,extended,10240003
+patch=1,EE,A00FA074,extended,03200008
+patch=1,EE,A00FA07C,extended,0806C014
+patch=1,EE,A01B0048,extended,0C03E819
+
+[Cheats/Lock-on Target Instant Death] 
+patch=1,EE,201E40F0,extended,AC8002E0
+
+[Cheats/Time Stop This only applies to orange timers, and has no effect on blue timers (races and Rampage missions).
+Please note that some missions will stop progressing if you stop the timer.] 
+patch=1,EE,202BC520,extended,70420528
+

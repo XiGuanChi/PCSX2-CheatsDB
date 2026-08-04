@@ -1,0 +1,14 @@
+[Cheats/Infinte Health 999] 
+patch=1,EE,202FAC08,extended,1000005E
+
+[Cheats/Attack Power 999] 
+patch=1,EE,202FABC0,extended,1000006A
+
+[Cheats/Defensive Power 999] 
+patch=1,EE,202FABE4,extended,10000064
+
+[Cheats/When Duty It Complete Step Rank 30] 
+patch=1,EE,202FAEA4,extended,AE10005C
+
+[Cheats/Unlock Configuration Debug Mode] 
+patch=1,EE,203073A4,extended,0C0CCAC4

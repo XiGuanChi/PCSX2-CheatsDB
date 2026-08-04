@@ -1,0 +1,15 @@
+[Cheats/Infinite Money] 
+patch=1,EE,208B7350,extended,0001869F
+
+[Cheats/Infinite Health] 
+patch=1,EE,208B7358,extended,00000004
+
+[Cheats/Infinite Air] 
+patch=1,EE,208B73EA,extended,000041A0
+
+[Cheats/Unlock Access All Extras] 
+patch=1,EE,20509C78,extended,00000001
+
+[Cheats/Unlock All Extras] 
+patch=1,EE,202EF9EC,extended,24020001
+patch=1,EE,202EF9F4,extended,ACA2002C

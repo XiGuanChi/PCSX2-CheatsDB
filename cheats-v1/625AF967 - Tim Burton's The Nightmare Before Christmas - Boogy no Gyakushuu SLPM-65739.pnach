@@ -1,0 +1,24 @@
+ [Cheats/Max Souls] 
+patch=1,EE,2048B404,extended,0001869F
+
+[Cheats/Pumpkin Gauge 15 Pieces] 
+patch=1,EE,1048B3C8,extended,0000001E
+patch=1,EE,10496AEC,extended,0000001E
+
+[Cheats/Rank S] 
+patch=1,EE,204E23E0,extended,04040404
+patch=1,EE,004E23E4,extended,00000004
+
+[Cheats/Unlock Soul Rubber]  
+patch=1,EE,004E2678,extended,000000FF
+
+[Cheats/Unlock All Index] 
+patch=1,EE,104E2670,extended,0000FFFF
+patch=1,EE,004E2672,extended,000000FF
+
+[Cheats/Unlock All Stages] 
+patch=1,EE,204E23B8,extended,00000018
+
+[Cheats/Unlock All Collection]  
+patch=1,EE,404E2640,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000

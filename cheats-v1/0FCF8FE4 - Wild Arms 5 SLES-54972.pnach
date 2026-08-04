@@ -1,0 +1,41 @@
+[Cheats/Infinite Gold] 
+patch=1,EE,204416bc,extended,0098967f
+
+[Cheats/Dean Max Infinite HP] 
+patch=1,EE,204456C8,extended,0000270f
+patch=1,EE,204456D0,extended,0000270f
+patch=1,EE,204456EC,extended,0000270f
+
+[Cheats/Dean Max Infinite MP] 
+patch=1,EE,204456CC,extended,0000270f
+patch=1,EE,204456D4,extended,0000270f
+patch=1,EE,204456F0,extended,0000270f
+
+[Cheats/Rebecca Max Infinite HP] 
+patch=1,EE,204458AC,extended,0000270f
+patch=1,EE,204458B4,extended,0000270f
+patch=1,EE,204458D0,extended,0000270f
+
+[Cheats/Rebecca Max Infinite MP] 
+patch=1,EE,204458B0,extended,0000270f
+patch=1,EE,204458B8,extended,0000270f
+patch=1,EE,204458D4,extended,0000270f
+
+[Cheats/No Damage + 1 Hit Kill] 
+patch=1,EE,2019A6F0,extended,08028000
+patch=1,EE,200A0000,extended,3421ACB4
+patch=1,EE,200A0004,extended,0081D821
+patch=1,EE,200A0008,extended,276103C0
+patch=1,EE,200A000C,extended,8C210004
+patch=1,EE,200A0010,extended,28210007
+patch=1,EE,200A0014,extended,10200003
+patch=1,EE,200A001C,extended,03E00008
+patch=1,EE,200A0024,extended,27BDF7A0
+patch=1,EE,200A0028,extended,080669BE
+patch=1,EE,200A002C,extended,3C01000F
+patch=1,EE,2019C8B0,extended,00000000
+patch=1,EE,2019C918,extended,24020000
+patch=1,EE,2019D99C,extended,00000000
+
+[Cheats/Win A Battle To Reach Max Level] 
+patch=1,EE,2025CFA8,extended,00000000

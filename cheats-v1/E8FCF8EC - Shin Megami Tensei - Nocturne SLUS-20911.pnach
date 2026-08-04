@@ -1,0 +1,56 @@
+[Cheats/Max Money] 
+patch=1,EE,21248F48,extended,05F5E0FF
+
+[Cheats/Infinite & Max HP] 
+patch=1,EE,11248F5A,extended,000003E7
+patch=1,EE,11248F5C,extended,000003E7
+
+[Cheats/Infinite & Max MP] 
+patch=1,EE,11248F5E,extended,000003E7
+patch=1,EE,11248F60,extended,000003E7
+
+[Cheats/Party Member A Infinite & Max HP] 
+patch=1,EE,1124930A,extended,000003E7
+patch=1,EE,1124930C,extended,000003E7
+
+[Cheats/Party Member B Infinite & Max HP] 
+patch=1,EE,112493F6,extended,000003E7
+patch=1,EE,112493F8,extended,000003E7
+
+[Cheats/Party Member C Infinite & Max HP] 
+patch=1,EE,112494E2,extended,000003E7
+patch=1,EE,112494E4,extended,000003E7
+
+[Cheats/No Random Battles] 
+patch=1,EE,2124A1F9,extended,00000000
+
+[Cheats/Battle Debug There is also a battle debug menu with several debugging options in battle that can be activated.This code will allow you to view and enable a few extra debug displays. While in battle, press L1 to bring up collision display, R1 to look at properties of the demons in battle, L1+R1+L2+R2 to win a battle,] 
+patch=1,EE,0054E824,extended,00000001
+
+[Cheats/L1+Start at main menu to enter a debug option MODE SELECT] 
+patch=1,EE,D058F142,extended,0000FBF7
+patch=1,EE,202FA340,extended,00104600 
+
+[Cheats/L1+Start at main menu to enter a debug option EVENT TEST] 
+patch=1,EE,D058F142,extended,0000FBF7
+patch=1,EE,202FA340,extended,00104320 
+
+[Cheats/L1+Start at main menu to enter a debug option EVENT VIEWER] 
+patch=1,EE,D058F142,extended,0000FBF7
+patch=1,EE,202FA340,extended,00104348 
+
+[Cheats/L1+Start at main menu to enter a debug option PUZZLE BOY GAME] 
+patch=1,EE,D058F142,extended,0000FBF7
+patch=1,EE,202FA340,extended,00104560 
+
+[Cheats/L1+Start at main menu to enter a debug option MOVIE VIEWER] 
+patch=1,EE,D058F142,extended,0000FBF7
+patch=1,EE,202FA340,extended,001044E8 
+
+[Cheats/L1+Start at main menu to enter a debug option STAFF TEST] 
+patch=1,EE,D058F142,extended,0000FBF7
+patch=1,EE,202FA340,extended,00104588 
+
+[Cheats/L1+Start at main menu to enter a debug option.ENDSAVE TEST] 
+patch=1,EE,D058F142,extended,0000FBF7
+patch=1,EE,202FA340,extended,001045B0 

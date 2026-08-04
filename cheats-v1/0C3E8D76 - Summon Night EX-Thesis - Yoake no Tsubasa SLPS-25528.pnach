@@ -1,0 +1,46 @@
+[Cheats/Max Money]
+patch=1,EE,202BED70,extended,05F5E0FF
+
+[Cheats/Activator code for hp and mp codes] 
+patch=1,EE,20118E64,extended,0803DFFC
+patch=1,EE,200F7FF0,extended,3C0E002E
+patch=1,EE,200F7FF4,extended,91CF2A02
+patch=1,EE,200F7FF8,extended,91D82A03
+patch=1,EE,200F7FFC,extended,000F7A00
+patch=1,EE,200F8000,extended,01F8C025
+patch=1,EE,200F8004,extended,3B18FFFF
+patch=1,EE,200F807C,extended,03E00008
+
+[Cheats/Press R2+Circle recover HP & MP Eina & Leon] 
+patch=1,EE,200F800C,extended,3B0F0022
+patch=1,EE,200F8010,extended,15E00010
+patch=1,EE,200F8018,extended,3C19002C
+patch=1,EE,200F801C,extended,240F03E7
+patch=1,EE,200F8020,extended,A72FED1C
+patch=1,EE,200F8028,extended,A72FED48
+patch=1,EE,200F8030,extended,A72FED20
+patch=1,EE,200F8038,extended,A72FED4C
+patch=1,EE,200F803C,extended,3C190032
+patch=1,EE,200F8040,extended,872F14AC
+patch=1,EE,200F8044,extended,A72F14AE
+patch=1,EE,200F8048,extended,872F14B0
+patch=1,EE,200F804C,extended,A72F14B2
+
+[Cheats/Infinite MP] 
+patch=1,EE,201ABF4C,extended,64050000
+
+[Cheats/Leon Max EXP]  
+patch=1,EE,202BED2C,extended,0098967F
+
+[Cheats/Eina Max EXP]  
+patch=1,EE,202BED58,extended,0098967F
+
+[Cheats/Unlock all Gallery]  
+patch=1,EE,102D50B2,extended,0000FFFF
+patch=1,EE,202D50B4,extended,FFFFFFFF
+patch=1,EE,202D50B8,extended,000FFFFF
+
+[Cheats/Unlock all Sound]  
+patch=1,EE,A024E680,extended,00944021
+patch=1,EE,A024E684,extended,24020001
+patch=1,EE,A024E688,extended,A1020015

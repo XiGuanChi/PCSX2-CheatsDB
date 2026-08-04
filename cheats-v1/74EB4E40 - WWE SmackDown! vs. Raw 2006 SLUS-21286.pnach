@@ -1,0 +1,53 @@
+[Cheats/Max WWE Cash]  
+patch=1,EE,20437034,extended,05F5E0FF
+
+[Cheats/Infinite Health Human Players] 
+patch=1,EE,E001F02D,extended,0061DF40
+patch=1,EE,2061DF60,extended,104001E0
+
+[Cheats/Infinite Health Human Super Damage Against CPU]  
+patch=1,EE,E002F02D,extended,0061DF40
+patch=1,EE,2061DF60,extended,104001E0
+patch=1,EE,2061E2F0,extended,A5000000
+
+[Cheats/Infinite Stamina]  
+patch=1,EE,E002802D,extended,0061D3AC
+patch=1,EE,2061D3BC,extended,3C013F80
+patch=1,EE,2061D3C0,extended,44810800
+
+[Cheats/P1 Press R1+Select For Hyper Mode] 
+patch=1,EE,D1FABA02,extended,0000F7FE
+patch=1,EE,201BFF6C,extended,00000000
+
+[Cheats/P1 Press R2+Select For Normal Speed] 
+patch=1,EE,D1FABA02,extended,0000FDFE
+patch=1,EE,201BFF6C,extended,0320F809
+
+[Cheats/Quick EXP Gain]  
+patch=1,EE,201DD4D8,extended,34022710
+
+[Cheats/Super Quick EXP Gain]  
+patch=1,EE,201DD4D8,extended,3402C350
+
+[Cheats/Quick Max EXP Gain]  
+patch=1,EE,201DD4EC,extended,00000000
+
+[Cheats/Idiot AI]  
+patch=1,EE,E002802D,extended,005C397C
+patch=1,EE,205C3970,extended,03E00008
+patch=1,EE,205C3974,extended,00000000
+
+[Cheats/Always Have Finisher Moves] 
+patch=1,EE,E002182D,extended,006043CC
+patch=1,EE,206043D4,extended,24020001
+patch=1,EE,206043DC,extended,AE0202EC
+
+[Cheats/Infinite Time Out Of Ring] 
+patch=1,EE,E0029924,extended,0060CD50
+patch=1,EE,2060CD5C,extended,00000000
+patch=1,EE,2060CE88,extended,00000000
+
+[Cheats/Unlock Everything]  
+patch=1,EE,40445304,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,10445304,extended,0000FFFF

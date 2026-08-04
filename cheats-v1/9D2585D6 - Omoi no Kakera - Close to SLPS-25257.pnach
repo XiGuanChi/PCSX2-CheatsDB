@@ -1,0 +1,10 @@
+[Cheats/Nenrikichi 8] 
+patch=1,EE,01D22B80,extended,00000008
+
+[Cheats/Enable Debug Menus press and hold one of the following buttons while entering another screen such as starting a new gamePress and hold Circle + L1 for Start debug menu.Press and hold Circle + R1 for ShortCut01 debug menu.Press and hold Circle + Select for Filer debug menu.Story Starts the game normally.Test Sends you to a test menu.Debug	Sends you to the debug menu.Scenario Sends you to a list of story related scenes to choose from. Character Allows you to view all of the character portraits.BG Allows you to view all of the background images.Event Allows you to view all of the event images in the game.BGM Plays all songs from the game.SE Sends you to a list of sound effects to choose from.Effect Sends you to a menu where you can test screen effects.Movie Allows you to watch all of the movies in the game.SAVE Sends you to the save menu.System Flag Unlocks everything in the game.] 
+patch=1,EE,D04B5902,extended,0000DBFF
+patch=1,EE,2023C360,extended,00000000
+patch=1,EE,D04B5902,extended,0000DFFE
+patch=1,EE,2023C360,extended,00000015
+patch=1,EE,D04B5902,extended,0000D7FF
+patch=1,EE,2023C360,extended,0000000C

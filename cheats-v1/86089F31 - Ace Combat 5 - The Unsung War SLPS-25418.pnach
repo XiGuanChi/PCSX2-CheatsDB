@@ -1,0 +1,51 @@
+[Cheats/Max Money] 
+patch=1,EE,205C94B0,extended,3B9AC9FF
+
+[Cheats/Infinite Missiles and Ammo] 
+patch=1,EE,20127BF4,extended,10000066
+patch=1,EE,20129418,extended,1000006C
+
+[Cheats/Required Code] 
+patch=1,EE,201282F0,extended,0C03C000
+patch=1,EE,200F01F8,extended,03E00008
+patch=1,EE,200F01FC,extended,92421B22
+
+[Cheats/100 Bullets For Missiles And Special Weapons] 
+patch=1,EE,200F0004,extended,24020064
+patch=1,EE,200F0008,extended,A2421B27
+patch=1,EE,200F000C,extended,A2421B28
+
+[Cheats/Infinite Machine Gun Bullets] 
+patch=1,EE,200F0010,extended,24022710
+patch=1,EE,200F0014,extended,A6421B1E
+
+[Cheats/Special weapon Lock-On Range Max] 
+patch=1,EE,200F0060,extended,3C017F80
+patch=1,EE,200F0064,extended,AE412018
+patch=1,EE,200F0068,extended,AE410A84
+
+[Cheats/Infinite Missiles fire continuously If you shoot too much the processing will slow down] 
+patch=1,EE,20127C30,extended,00000000
+patch=1,EE,201294F4,extended,00000000
+patch=1,EE,20127524,extended,A6C00004
+patch=1,EE,20127498,extended,A6E00004
+patch=1,EE,20128DC0,extended,A4800004
+
+[Cheats/No Collison Ground] 
+patch=1,EE,20128230,extended,0C0385B1
+patch=1,EE,200E16C4,extended,AFA3041C
+patch=1,EE,200E16C8,extended,3C01000E
+patch=1,EE,200E16CC,extended,03E00008
+patch=1,EE,200E16D0,extended,AC231670
+patch=1,EE,20168C08,extended,00801023
+patch=1,EE,20168C0C,extended,080385B6
+patch=1,EE,200E16D8,extended,16A00005
+patch=1,EE,200E16E0,extended,3C01000E
+patch=1,EE,200E16E4,extended,8C211670
+patch=1,EE,200E16E8,extended,12810003
+patch=1,EE,200E16F0,extended,00831023
+patch=1,EE,200E16F4,extended,A682031C
+patch=1,EE,200E16F8,extended,16A00003
+patch=1,EE,200E1700,extended,0805A32C
+patch=1,EE,200E1708,extended,0805A305
+

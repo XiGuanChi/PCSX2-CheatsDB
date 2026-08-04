@@ -1,0 +1,122 @@
+[Cheats/Max Status After open Menu] 
+patch=1,EE,20145B0C,extended,10400001
+
+[Cheats/Infinite Skill Points] 
+patch=1,EE,20326A70,extended,00000000
+
+[Cheats/After The Skill Put All Skill 30] 
+patch=1,EE,20326AE4,extended,2403001E
+
+[Cheats/Infinite MP In Preparation] 
+patch=1,EE,2025FCC4,extended,00601023
+
+[Cheats/Infinite LP In Preparation] 
+patch=1,EE,2025FCE4,extended,00601023
+
+[Cheats/Battle Start Max Status] 
+patch=1,EE,4019B4DC,extended,00090002
+patch=1,EE,240303E7,extended,00000000
+
+[Cheats/HP In Battle Press L2+R2 One Hit Kill L3 Iinvincible R3 normal at the start] 
+patch=1,EE,D0BB2002,extended,0000FCF7
+patch=1,EE,201C1A94,extended,00641823
+patch=1,EE,D0BB2002,extended,0000FCFD
+patch=1,EE,201C1A94,extended,00601823
+patch=1,EE,D0BB2002,extended,0000FCFB
+patch=1,EE,201C1A94,extended,70001EA8
+
+[Cheats/Infinite MP In Battle] 
+patch=1,EE,A01C3738,extended,00401023
+
+[Cheats/Infinite LP In Battle] 
+patch=1,EE,A01C3760,extended,00401023
+
+[Cheats/Max Quality Value Value Reaches Max Over Time] 
+patch=1,EE,20234BDC,extended,34022710
+patch=1,EE,20234BE0,extended,A7C20008
+
+[Cheats/Unlock ] *This effect applies to all items in baskets and containers (except broken items).
+
+[Cheats/Max Friendship Value Reaches Max Over Time This applies to all companions and residents.] 
+patch=1,EE,2018C940,extended,080C3EB1
+patch=1,EE,2030FAD0,extended,24042710
+
+[Cheats/Infinite Items even when used]  
+patch=1,EE,20234E2C,extended,34022711
+
+[Cheats/Max Popularity After Fluctuation] 
+patch=1,EE,201D5D74,extended,10000007
+
+[Cheats/Full Recovery HP With Dungeon Fluctuation] 
+patch=1,EE,2016C3E8,extended,8C820008
+
+[Cheats/Always Destroys Obstacles Successfully] 
+patch=1,EE,20162CD8,extended,34420001
+
+[Cheats/Unlock Bonus Appearance Even If You Do Not Have Clear] 
+patch=1,EE,00F7601C,extended,00000001
+
+[Cheats/Unlock All Characters Introductions] 
+patch=1,EE,00F75F61,extended,00000001
+patch=1,EE,10F75F62,extended,00000101
+patch=1,EE,20F75F64,extended,01010101
+patch=1,EE,20F75F68,extended,01010101
+patch=1,EE,00F75F6C,extended,00000001
+
+[Cheats/Unlock All Voice Actor Theater] 
+patch=1,EE,00F75F60,extended,00000001
+patch=1,EE,00F75F73,extended,000000FF
+patch=1,EE,20F75F74,extended,FFFFFFFF
+patch=1,EE,20F75F78,extended,FFFFFFFF
+patch=1,EE,20F75F7C,extended,00FFFFFF
+
+[Cheats/Unlock All Music]  
+patch=1,EE,20F75F84,extended,01010101
+patch=1,EE,20F75F88,extended,01010101
+patch=1,EE,20F75F8C,extended,01010101
+patch=1,EE,20F75F90,extended,01010101
+patch=1,EE,20F75F94,extended,01010101
+patch=1,EE,20F75F98,extended,01010101
+patch=1,EE,20F75F9C,extended,01010101
+patch=1,EE,20F75FA0,extended,01010101
+patch=1,EE,20F75FA4,extended,01010101
+patch=1,EE,20F75FA8,extended,01010101
+patch=1,EE,20F75FAC,extended,01010101
+patch=1,EE,20F75FB0,extended,01010101
+patch=1,EE,20F75FB4,extended,01010101
+patch=1,EE,20F75FB8,extended,01010101
+patch=1,EE,20F75FBC,extended,01010101
+patch=1,EE,20F75FC0,extended,01010101
+patch=1,EE,00F75FC4,extended,00000001
+
+[Cheats/Unlock All Ending Songs] 
+patch=1,EE,20F75FCA,extended,00000101
+patch=1,EE,20F75FCC,extended,01010101
+
+[Cheats/Unlock All Movie Theater] 
+patch=1,EE,20F75FD4,extended,01010101
+patch=1,EE,20F75FD8,extended,01010101
+
+[Cheats/Unlock All Museum ornamental only] 
+patch=1,EE,20F75FD4,extended,01010101
+patch=1,EE,20F75FD8,extended,01010101
+
+[Cheats/Unlock All Museums]  
+patch=1,EE,20F75FE4,extended,01010101
+patch=1,EE,20F75FE8,extended,01010101
+patch=1,EE,20F75FEC,extended,01010101
+patch=1,EE,20F75FF0,extended,01010101
+patch=1,EE,20F75FF4,extended,01010101
+patch=1,EE,20F75FF8,extended,01010101
+patch=1,EE,20F75FFC,extended,01010101
+patch=1,EE,20F76000,extended,01010101
+patch=1,EE,20F76004,extended,01010101
+patch=1,EE,20F76008,extended,01010101
+patch=1,EE,20F7600C,extended,01010101
+patch=1,EE,00F76010,extended,00000001
+
+[Cheats/Unlock Debug Menu At Startup HIGDON This menu contains quite a bit of variety on what you can do here.Selecting ipu will allow you to view all of the background images. Selecting movie will allow you to watch all the movies in the game.Tex2D This menu contain's options to view all of the images in the game and adjust them to your leisure. sound You can listen to all the music here, as well as SFX and voices.AnmObj This option will allow you to view all the sprites in the game, as well as their animations. You can also change the background color, sprite color, and positions of them.illusion This option allows you to select and view all the special effects here. There is options to save the edits to a HDD, memory card, or a PC as well here. It's unclear how those options work.Buc You can view all of the character images and edit them here.DqEdit A dungeon part editor can be seen here. You can even make entire new dungeons here. There is options to save the edits to a HDD, memory card, or a PC as well here. It's unclear how those options work.
+DunTest This option allows you to view all of the dungeons in the game.DunWalk This option allows you to walk around in all of the dungeons in the game. It will also display a few debug options as well.Y.TAKEZAWA This sub-menu contains a lot of options relating to a variety of things you can do here.T.NAKAI This menu mostly contains a variety of different battle test options.BtlTest This option allows you to enter test battles with your choice of enemies and party members.BtlSkillTest This option allows you to change various attack patterns for enemies and party members.BtlEffectMc This option allows you to select and change various in-battle skill effects.EffectBaseTest Inside this option you can change all of the parameters for effects that affect party members and text] 
+patch=1,EE,003482EC,extended,00000000
+
+

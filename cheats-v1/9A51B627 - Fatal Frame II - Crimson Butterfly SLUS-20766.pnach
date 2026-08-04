@@ -1,0 +1,51 @@
+[Cheats/Infinite Health] 
+patch=1,EE,202E0DB8,extended,00006000
+patch=1,EE,202E0DBC,extended,00006000
+
+[Cheats/Max Spirit Orbs] 
+patch=1,EE,20344250,extended,00000063
+
+[Cheats/Camera Basic Functions Have All Power-Up Lenses] 
+patch=1,EE,102BE1AC,extended,0000FFFF
+
+[Cheats/1 Shot Kill Some Ghosts] 
+patch=1,EE,202A2CD8,extended,00000001
+
+[Cheats/Chapter Select] 
+patch=1,EE,002bcf50,extended,0000000?
+
+[Cheats/Have All 177 Normal Ghosts in Spirit List] 
+patch=1,EE,404091e0,extended,00b10002
+patch=1,EE,00000002,extended,00000000
+
+[Cheats/Unlock Accessories Mio  and Mayu Accessories] 
+patch=1,EE,2027f150,extended,00000006
+
+[Cheats/Unlock Completed Game Menu] 
+patch=1,EE,002bcf52,extended,00000001
+
+[Cheats/Unlock All Costumes]  
+patch=1,EE,2027f158,extended,000101ff
+
+[Cheats/Unlock All Difficulties] 
+patch=1,EE,2027f15c,extended,0000000f 
+
+[Cheats/Unlock Normal and Hard Endings] 
+patch=1,EE,2027f154,extended,00000003
+
+[Cheats/Unlock Promotional Image Gallery] 
+patch=1,EE,2027f14c,extended,00000001 
+
+[Cheats/Unlock Development Documents Image Gallery] 
+patch=1,EE,2027f14d,extended,00000001
+
+[Cheats/Always Low Game Play Time] 
+patch=1,EE,20408E30,extended,00000000
+patch=1,EE,20408E34,extended,00000000
+patch=1,EE,20408E38,extended,00000000
+
+[Cheats/Chapter Select Menu  choosing Gallery from the title menu] 
+patch=1,EE,002BBBDC,extended,0021F768
+patch=1,EE,002BBD3C,extended,0021F7B0
+patch=1,EE,002BBFFC,extended,0021F788
+

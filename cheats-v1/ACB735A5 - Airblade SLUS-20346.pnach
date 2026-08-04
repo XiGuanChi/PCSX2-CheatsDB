@@ -1,0 +1,9 @@
+[Cheats/Infinite Time]  
+patch=1,EE,203310C8,extended,43000000
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,10328500,extended,00000001
+patch=1,EE,203284B8,extended,00000001
+patch=1,EE,203284D0,extended,00000001
+patch=1,EE,10328518,extended,00000001
+patch=1,EE,103284E8,extended,00000001

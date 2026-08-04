@@ -1,0 +1,31 @@
+[Cheats/Max Money 9999999] 
+patch=1,EE,213EB168,extended,0098967F
+
+[Cheats/Resources 9999999] 
+patch=1,EE,213EB16C,extended,0098967F
+
+[Cheats/All Tecnologies LV 30] 
+patch=1,EE,013EB14A,extended,0000001E
+patch=1,EE,013EB14B,extended,0000001E
+patch=1,EE,013EB196,extended,0000001E
+patch=1,EE,013EB197,extended,0000001E
+patch=1,EE,013EB198,extended,0000001E
+
+[Cheats/Movement 99 Press R2 And Select Mobile Unit] 
+patch=1,EE,201308B0,extended,93C30044
+patch=1,EE,D0D60DC2,extended,0000FDFF
+patch=1,EE,201308B0,extended,24030063
+
+[Cheats/All Units Of Your Army Fatigue 0 + Morale 127 + Durability 70] 
+patch=1,EE,413EB24C,extended,0064000B
+patch=1,EE,00467F00,extended,00000000
+
+[Cheats/Unlock All Scenarios] 
+patch=1,EE,11404104,extended,0000FFFF
+
+[Cheats/Unlock DATA BASE All Units Can Be Viewed] 
+patch=1,EE,2012740C,extended,A04416A0
+
+[Cheats/Unlock DATA BASE All Characters Can Be Browsed] 
+patch=1,EE,201FCB5C,extended,24020001
+patch=1,EE,201FCB64,extended,A0620000

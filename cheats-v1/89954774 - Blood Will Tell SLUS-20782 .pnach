@@ -1,0 +1,33 @@
+[Cheats/Infinite Health] 
+patch=1,EE,21E9B760,extended,4479C000
+
+[Cheats/Max Health] 
+patch=1,EE,21E9B75C,extended,4479C000
+
+[Cheats/Infinite Spirit Usage] 
+patch=1,EE,2020B9F0,extended,00000000
+patch=1,EE,2020BAF8,extended,00000000
+patch=1,EE,2020BAFC,extended,00000000
+patch=1,EE,2020BB28,extended,00000000
+
+[Cheats/Max Infinite Spirit] 
+patch=1,EE,2020B66C,extended,00000000
+
+[Cheats/Infinite Arm Cannon Usage] 
+patch=1,EE,202398BC,extended,00000000
+
+[Cheats/Save Anywhere Press L1+Select To Enable] 
+patch=1,EE,E002FBFE,extended,01E6D842
+patch=1,EE,201ED1CC,extended,24010001
+patch=1,EE,201ED1D4,extended,A20103BA
+
+[Cheats/Unlock All Modes and Movie Chapters] 
+patch=1,EE,11E9B42E,extended,00000009
+
+[Cheats/Unlock All Gallery, Concept Art and Movies] 
+patch=1,EE,21E9BA20,extended,FFFFFFFF
+patch=1,EE,21E9BA24,extended,FFFFFFFF
+
+[Cheats/Unlock All Chapters] 
+patch=1,EE,21E9BA20,extended,01010101
+patch=1,EE,21E9BA24,extended,01010101

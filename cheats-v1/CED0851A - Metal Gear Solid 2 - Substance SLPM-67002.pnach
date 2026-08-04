@@ -1,0 +1,30 @@
+[Cheats/Reload counter 5] 
+patch=1,EE,0019325C,extended,00000005
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2015E09C,extended,00601823
+
+[Cheats/Infinite Items]  
+patch=1,EE,2015E0F8,extended,00401023
+
+[Cheats/Unlock All Weapons And Items appear when you open the list of weapons and items] 
+patch=1,EE,2015E1EC,extended,24020005
+patch=1,EE,2015E204,extended,24020005
+
+[Cheats/Unlock All Special Content] 
+patch=1,EE,D022F7C8,extended,0000158A
+patch=1,EE,2022F7C8,extended,240218FF
+
+[Cheats/Skate Mode Max Acceleration] 
+patch=1,EE,20118184,extended,4A0002FF
+
+[Cheats/Skate Mode Max Point Addition] 
+patch=1,EE,D024D464,extended,00000003
+patch=1,EE,2024D464,extended,10000003
+
+[Cheats/Skate Mode 1 trick 99999 Points] 
+patch=1,EE,D0261F68,extended,00000002
+patch=1,EE,20261F68,extended,10200001
+
+[Cheats/Skate Mode Grind Distance 150M] 
+patch=1,EE,21D52934,extended,44BB8000

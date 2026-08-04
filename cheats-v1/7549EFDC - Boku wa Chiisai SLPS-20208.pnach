@@ -1,0 +1,36 @@
+[Cheats/Infinite Health] 
+patch=1,EE,103426E8,extended,00000020
+patch=1,EE,103426EC,extended,00000010
+
+[Cheats/Max Himawari]  
+patch=1,EE,1034271C,extended,000000C8
+
+[Cheats/Max Energy Drop] 
+patch=1,EE,103426F0,extended,000003E7
+patch=1,EE,103426F4,extended,000003E7
+
+[Cheats/Can be Equipped with Four Hold Capacity] 
+patch=1,EE,1034270C,extended,00000004
+
+[Cheats/Infinite Mukkimen Grip Strength Meter]  
+patch=1,EE,20342714,extended,00640064
+
+[Cheats/Infinite Erekimen Charge Meter] 
+patch=1,EE,20342710,extended,0000001E
+
+[Cheats/Max Part-level Dash]  
+patch=1,EE,2034273C,extended,00000020
+
+[Cheats/Max Part-level Jump]  
+patch=1,EE,20342740,extended,00000020
+
+[Cheats/Max Part-level Light] 
+patch=1,EE,20342744,extended,00000021
+
+[Cheats/Get All the Capsules] 
+patch=1,EE,4034276C,extended,00100001
+patch=1,EE,00010001,extended,00000000
+
+[Cheats/Unlock All Info Available Chip] 
+patch=1,EE,403427D4,extended,00320001
+patch=1,EE,00020002,extended,00000000

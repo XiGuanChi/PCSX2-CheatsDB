@@ -1,0 +1,18 @@
+[Cheats/Infinite Health] 
+patch=1,EE,201BC754,extended,24020001
+
+[Cheats/Unlock All Bonus]  
+patch=1,EE,20276DC4,extended,2402FFFF
+patch=1,EE,20276DCC,extended,AC820000
+
+[Cheats/Unlock All Missions]  
+patch=1,EE,20276BF4,extended,2402FFFF
+
+[Cheats/Unlock All Movies]  
+patch=1,EE,20273150,extended,24020001
+patch=1,EE,20273154,extended,A4A244EE
+
+[Cheats/Unlock All Storyboards]  
+patch=1,EE,2029DB20,extended,2403FFFF
+patch=1,EE,2029DB24,extended,AC833F58
+

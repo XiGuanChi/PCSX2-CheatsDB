@@ -1,0 +1,29 @@
+[Cheats/Infinite & Max Health] 
+patch=1,EE,203AC860,extended,00000190
+patch=1,EE,203AC864,extended,00000190
+
+[Cheats/Infinite & Max Special] 
+patch=1,EE,203ACD10,extended,00000028
+patch=1,EE,203ACD14,extended,00000028
+
+[Cheats/Invincible] 
+patch=1,EE,003ACCD6,extended,00000004
+
+[Cheats/1 Hit Kill Enemies] 
+patch=1,EE,20186448,extended,00000000
+
+[Cheats/Level 99] 
+patch=1,EE,203ABBE4,extended,00000063
+
+[Cheats/Max Caim's Sword] 
+patch=1,EE,203ABB1C,extended,3F800000
+
+[Cheats/Quick Dragon EXP Gain] 
+patch=1,EE,103ABBE8,extended,0000FFFF
+
+[Cheats/Max Dragon EXP] 
+patch=1,EE,203ABBE8,extended,0098967F
+
+[Cheats/Max Dragon MP] 
+patch=1,EE,2041FC8C,extended,3F800000
+

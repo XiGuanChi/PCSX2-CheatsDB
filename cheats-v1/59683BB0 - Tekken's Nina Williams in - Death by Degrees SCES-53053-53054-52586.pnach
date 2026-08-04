@@ -1,0 +1,55 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20EDA1E0,extended,00000500
+
+[Cheats/Infinite Air] 
+patch=1,EE,20EDA1F0,extended,00000500
+
+[Cheats/If Oxygen Runs Out Life Doesn't Drop] 
+patch=1,EE,2030E464,extended,1000001A
+
+[Cheats/Invulnerable] 
+patch=1,EE,20148744,extended,00000000
+patch=1,EE,20148750,extended,00000000
+patch=1,EE,201362BC,extended,1000003A
+
+[Cheats/1 Hit Kill]  
+patch=1,EE,2015DBD0,extended,00000000
+
+[Cheats/Infinite Machine Gun Ammo] 
+patch=1,EE,20EDED98,extended,0000001E
+
+[Cheats/Infinite Skill Points] 
+patch=1,EE,20EDA200,extended,0000270F
+
+[Cheats/Infinite Focus] 
+patch=1,EE,20EDA1E8,extended,00000B40
+patch=1,EE,20EDA1E4,extended,00000B40
+
+[Cheats/99 Meal Kit M] 
+patch=1,EE,00EDA239,extended,00000063
+
+[Cheats/Unlock All Fingerprints] 
+patch=1,EE,20EDA2AC,extended,FFFFFFFF
+patch=1,EE,00EDA2B0,extended,000000FF
+
+[Cheats/Sniper Mode Invulnerable] 
+patch=1,EE,2024D49C,extended,1000005C
+
+[Cheats/Sniper Mode Infinite Health] 
+patch=1,EE,20F6B518,extended,00000F00
+
+[Cheats/Sniper Mode Nina Infinite Health] 
+patch=1,EE,20F6E498,extended,000005A0
+
+[Cheats/Sniper Mode Frank Infinite Health] 
+patch=1,EE,20F6CAE4,extended,00000064
+
+[Cheats/Sniper Mode Infinite Ammo] 
+patch=1,EE,20F6B5A0,extended,0000000A
+
+[Cheats/Sniper Mode Infinite Ammo Alt] 
+patch=1,EE,20F6E520,extended,0000000A
+
+[Cheats/Sniper Mode 1 Hit Kill]  
+patch=1,EE,2024DB40,extended,00000000
+patch=1,EE,2024DB4C,extended,24067FFF

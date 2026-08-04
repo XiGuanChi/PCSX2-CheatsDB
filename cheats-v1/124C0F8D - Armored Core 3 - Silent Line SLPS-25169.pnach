@@ -1,0 +1,52 @@
+[Cheats/Max Credit From Carat]  
+patch=1,EE,204E3BB0,extended,05F5E0FF
+
+[Cheats/Max Boosted Manification Level 10] 
+patch=1,EE,104E3BB6,extended,0000FFFF
+patch=1,EE,004E3BB8,extended,000000FF
+
+[Cheats/1P Max AP] 
+patch=1,EE,203410C4,extended,00009C3B
+patch=1,EE,20341890,extended,00009C3B
+
+[Cheats/1P Max EN]
+patch=1,EE,203410C8,extended,0000BC00
+
+[Cheats/Energy Gauge Recovers]  
+patch=1,EE,A0168F88,extended,4A0002FF
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,201773F4,extended,00000000
+
+[Cheats/Max AP] 
+patch=1,EE,204F5CB0,extended,00000004
+patch=1,EE,004F54A4,extended,00000000
+
+[Cheats/Max AP ALT] 
+patch=1,EE,20341890,extended,00000004
+patch=1,EE,003410C4,extended,00000000
+
+[Cheats/Max EN] 
+patch=1,EE,20341BD0,extended,00000004
+patch=1,EE,003410C8,extended,00000000
+
+[Cheats/Heat Amount 0 It is effective for AC as well as arena] 
+patch=1,EE,20117B94,extended,44800000
+patch=1,EE,20117B98,extended,4480A000
+
+[Cheats/Infinite Ammo It is effective for AC as well as arena] 
+patch=1,EE,20110338,extended,70210CA9
+
+[Cheats/FCS ERROR Does Not Occur] 
+patch=1,EE,20116DBC,extended,70020168
+
+[Cheats/RADAR ERROR Does Not Occur] 
+patch=1,EE,20118AE8,extended,70020168
+
+[Cheats/Unlock All Functions Of OP-INTENSIFY It seems like it will open fully when you obtain it or transfer it, so it's probably not necessary, but just in case.] 
+patch=1,EE,104E3BB6,extended,0000FFFF
+
+[Cheats/OPTIONAL PARTS Slot In Use 0] 
+patch=1,EE,20256474,extended,1084002B
+patch=1,EE,20256478,extended,00421026
+

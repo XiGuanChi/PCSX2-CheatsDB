@@ -1,0 +1,52 @@
+[Cheats/Single Player Mode Codes Infinite Health] 
+patch=1,EE,D0A51AAE,extended,000000A1
+patch=1,EE,20A51A8C,extended,000F5000
+
+[Cheats/Single Player Mode Infinite Ammo Helicopter] 
+patch=1,EE,D0A46442,extended,000000A1
+patch=1,EE,00A4642A,extended,00000063
+
+[Cheats/Infinite Ammo Co-Pilot] 
+patch=1,EE,D0A46522,extended,000000A1
+patch=1,EE,00A4650A,extended,00000063
+
+[Cheats/Single Player Mode Infinite Health Cheat] 
+patch=1,EE,10A51A8E,extended,0000001A
+
+[Cheats/Single Player Mode Infinite Copter Ammo Cheat] 
+patch=1,EE,00A4642A,extended,00000062
+
+[Cheats/Single Player Mode Infinite Co-Pilot Ammo Cheat] 
+patch=1,EE,00A4650A,extended,000000626
+
+[Cheats/Multi Player Mode Infinite Health P1]  
+patch=1,EE,20A50E4C,extended,000F5000
+
+[Cheats/Multi Player Mode Infinite Health P2]  
+patch=1,EE,20A512CC,extended,000F5000
+
+[Cheats/Multi Player Mode Infinite Ammo P1 Helicopter] 
+patch=1,EE,00A457EA,extended,00000063
+
+[Cheats/Multi Player Mode Infinite Ammo P2 Helicopter] 
+patch=1,EE,00A45B6A,extended,00000063
+
+[Cheats/Multi Player Mode Infinite Ammo P1 Co-Pilot] 
+patch=1,EE,00A458CA,extended,00000063
+
+[Cheats/Multi Player Mode Infinite Ammo P2 Co-Pilot] 
+patch=1,EE,00A45C4A,extended,00000063
+
+[Cheats/Unlock All Levels]   
+patch=1,EE,202E0D20,extended,00000014
+patch=1,EE,202E0E58,extended,00000014
+
+[Cheats/Unlock All Co-Pilots]   
+patch=1,EE,202E0D0C,extended,000000FF
+patch=1,EE,202E0E44,extended,000000FF
+
+[Cheats/Unlock All Helicopters]  
+patch=1,EE,2014FD54,extended,2410000F
+
+[Cheats/Unlock Bee Mode]  
+patch=1,EE,10A86DB4,extended,00000003

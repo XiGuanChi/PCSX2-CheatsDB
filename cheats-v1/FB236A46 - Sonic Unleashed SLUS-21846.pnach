@@ -1,0 +1,46 @@
+[Cheats/Infinite Lives] 
+patch=1,EE,20875EB4,extended,0000000A
+
+[Cheats/Infinte HP SonicH ave 150 Rings] 
+patch=1,EE,20E119F0,extended,00000096
+
+[Cheats/Infinite HP Werehog] 
+patch=1,EE,2024E3A0,extended,461F0841 
+
+[Cheats/Mission Time Freeze] 
+patch=1,EE,201ECD4C,extended,461F0800
+
+[Cheats/Dark Gaia Max Force Points] 
+patch=1,EE,20894FFC,extended,05F5E0FF
+
+[Cheats/Gain Max Special And Coins] 
+patch=1,EE,2024F058,extended,C4602718 
+
+[Cheats/Have Max Moon After pickup] 
+patch=1,EE,20420520,extended,24050064
+patch=1,EE,20420524,extended,03E00008
+patch=1,EE,20420528,extended,A0850001
+
+[Cheats/Have Max Sun After pickup]  
+patch=1,EE,20420510,extended,24050064
+patch=1,EE,20420514,extended,03E00008
+patch=1,EE,20420518,extended,A0850000
+
+[Cheats/Infinite Boost]  
+patch=1,EE,20E119FC,extended,42F00000
+
+[Cheats/Infinite Boost Eggmanland] 
+patch=1,EE,20E0E1FC,extended,42F00000
+
+[Cheats/Max Moons] 
+patch=1,EE,008922F1,extended,000000FF
+
+[Cheats/Max Suns]  
+patch=1,EE,008922F0,extended,000000FF
+
+[Cheats/Press Select For 999 Rings For Super Sonic] 
+patch=1,EE,E0020100,extended,00874C4C
+patch=1,EE,20E11B30,extended,000003E7
+patch=1,EE,2175DFA4,extended,000003E7
+
+

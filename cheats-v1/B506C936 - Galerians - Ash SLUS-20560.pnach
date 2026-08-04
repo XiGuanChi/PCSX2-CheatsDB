@@ -1,0 +1,20 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20222E80,extended,000003E8
+
+[Cheats/Infinite D-Felon] 
+patch=1,EE,20222E98,extended,000003E8
+
+[Cheats/Infinite Nalcon] 
+patch=1,EE,20222E90,extended,000003E8
+
+[Cheats/Infinite Red] 
+patch=1,EE,20222E94,extended,000003E8
+
+[Cheats/Infinite AP] 
+patch=1,EE,20222E8C,extended,00000001
+
+[Cheats/Infinite AP Press L1+Select to fill your AP to Max and Press L2+Select to empty your AP]  
+patch=1,EE,D02DEDC2,extended,0000FBFE
+patch=1,EE,20222E88,extended,000007D0
+patch=1,EE,D02DEDC2,extended,0000FEFE
+patch=1,EE,20222E88,extended,00000000

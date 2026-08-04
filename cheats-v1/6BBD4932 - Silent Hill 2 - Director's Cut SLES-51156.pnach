@@ -1,0 +1,36 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20400974,extended,42C80000
+
+[Cheats/Invincible] 
+patch=1,EE,20400980,extended,000042C8
+
+[Cheats/Infinite Hand Gun Ammo] 
+patch=1,EE,11138774,extended,0000000A
+
+[Cheats/Infinite Shotgun Ammo] 
+patch=1,EE,11138778,extended,00000006
+
+[Cheats/Infinite Rifle Ammo] 
+patch=1,EE,1113877C,extended,00000004
+
+[Cheats/Infinit Health Drinkse]
+patch=1,EE,1113876E,extended,00000063
+
+[Cheats/Infinite First Aid Kits] 
+patch=1,EE,11138770,extended,00000063
+
+[Cheats/Infinite Ampoules]  
+patch=1,EE,11138772,extended,00000063
+
+[Cheats/Have All Weapons Press L1+L2] 
+patch=1,EE,D104D602,extended,0000FAFF
+patch=1,EE,11138760,extended,0000FD50
+
+[Cheats/Have All Items Pres L2+R2] 
+patch=1,EE,D104D602,extended,0000FCFF
+patch=1,EE,11138762,extended,0000FFFF
+patch=1,EE,D104D602,extended,0000FCFF
+patch=1,EE,21138764,extended,FFFFFFFF
+patch=1,EE,D104D602,extended,0000FCFF
+patch=1,EE,11138766,extended,0000FFFF
+

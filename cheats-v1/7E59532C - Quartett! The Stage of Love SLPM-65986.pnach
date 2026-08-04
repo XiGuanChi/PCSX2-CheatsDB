@@ -1,0 +1,27 @@
+[Cheats/Unlock All Gallery] 
+patch=1,EE,401E2430,extended,00710001
+patch=1,EE,00000002,extended,00000000
+patch=1,EE,401E23E0,extended,00120001
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,001E2644,extended,00000001
+patch=1,EE,001E2648,extended,00000001
+patch=1,EE,001E264C,extended,00000001
+
+[Cheats/Unlock Everything] 
+patch=1,EE,201E2644,extended,00000001
+patch=1,EE,2018C724,extended,0C04AF64
+patch=1,EE,2018C728,extended,24010001
+patch=1,EE,2012BD90,extended,00431021
+patch=1,EE,2012BD94,extended,AC410CD0
+patch=1,EE,2012BD98,extended,03E00008
+patch=1,EE,2012BD9C,extended,8C420CD0
+patch=1,EE,2012BDA0,extended,00431021
+patch=1,EE,2012BDA4,extended,AC410C80
+patch=1,EE,2012BDA8,extended,03E00008
+patch=1,EE,2012BDAC,extended,8C420C80
+patch=1,EE,2018B404,extended,0C04AF68
+patch=1,EE,2018B408,extended,24010001
+
+[Cheats/Debug Scene Select Menu While in the menu, press D-Pad Down / D-Pad Up to increase / decrease the selected event scene number by 1, or press D-Pad Right / D-Pad Left to increase / decrease the selected event scene number by 10. Circle is to confirm.] 
+patch=1,EE,D01E10C2,extended,0000FFFD
+patch=1,EE,201D0DD8,extended,00000005

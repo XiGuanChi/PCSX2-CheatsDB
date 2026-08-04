@@ -1,0 +1,15 @@
+[Cheats/Infinite Money] 
+patch=1,EE,200A0000,extended,3C0200AC
+patch=1,EE,200A0004,extended,8C42BB58
+patch=1,EE,200A0008,extended,10400006
+patch=1,EE,200A0010,extended,3C0105F5
+patch=1,EE,200A0014,extended,3421E0FF
+patch=1,EE,200A0018,extended,AC410044
+patch=1,EE,200A0024,extended,03E00008
+patch=1,EE,2025A27C,extended,08028000
+
+[Cheats/Always Restore To 100 Points] 
+patch=1,EE,204BEC08,extended,24050064
+
+[Cheats/Infinite Points Usage Need Points First] 
+patch=1,EE,204BEC10,extended,00000000

@@ -1,0 +1,116 @@
+[Cheats/Max Groove Gauge] 
+patch=1,EE,20176888,extended,00000000
+
+[Cheats/Max Points to Purchase Songs] 
+patch=1,EE,21A59A50,extended,000F423F
+
+[Cheats/Automatic Play ON] 
+patch=1,EE,0024F580,extended,00000001
+
+[Cheats/Unlock Timely Lease Time Maximum & All Secrets]  
+patch=1,EE,21A53A58,extended,FFFFFFFF
+
+[Cheats/Auto play BATTLE not supported ON Press SELECT+L2 OFF SELECT+R2 ] 
+patch=1,EE,D1A52E82,extended,0000FEFE
+patch=1,EE,2017A3C0,extended,24030001
+patch=1,EE,D1A52E82,extended,0000FDFE 
+patch=1,EE,2017A3C0,extended,8383 8A10 
+
+[Cheats/Max ee'MALL song purchase points] 
+patch=1,EE,21A59A50,extended,000F423F
+
+[Cheats/Unlock All ee'MALL Songs Purchased] 
+patch=1,EE,21A59A58,extended,FFFFFFFF
+patch=1,EE,11A59A5C,extended,0000FFFF
+
+[Cheats/Unlock Arcade Battle 9 Button Mode All Battle Room] 
+patch=1,EE,01A5962C,extended,00000009
+
+[Cheats/Unlock Arcade Battle 9 Button Mode All Jobs] 
+patch=1,EE,11A59638,extended,000001FF
+
+[Cheats/Unlock Arcade Battle 9 Button Mode All Jobs Level Max] 
+patch=1,EE,21A5963C,extended,0000270F 
+patch=1,EE,21A59640,extended,0000270F
+patch=1,EE,21A59644,extended,00002 70F
+patch=1,EE,21A59648,extended,0000270F
+patch=1,EE,21A5964C,extended,0000270F 
+patch=1,EE,21A59650,extended,0000270F
+patch=1,EE,21A59654,extended,0000270F
+patch=1,EE,21A59658,extended,0000270F
+patch=1,EE,21A5965C,extended,00007000
+
+[Cheats/Unlock Arcade Battle 9 Button Mode All Items Obtained Some items will not be displayed until the item frame is added] 
+patch=1,EE,21A596B8,extended,FFFFFFFF
+patch=1,EE,21A596BC,extended,FFFFFFFF
+
+[Cheats/Unlock Arcade Battle 9 Button Mode All Ojamarist] 
+patch=1,EE,21A59660,extended,FFFFFFFF
+patch=1,EE,21A59664,extended,FFFFFFFF
+
+[Cheats/Arcade Battle 5 Button Mode All Battle Room]
+patch=1,EE,01A597B4,extended,00000009
+
+[Cheats/Unlock Arcade Battle 5 Button Mode All Jobs] 
+patch=1,EE,11A597C0,extended,000001FF
+
+[Cheats/Unlock Arcade Battle 5 Button Mode All Jobs Level Max] 
+patch=1,EE,21A597C4,extended,0000270F
+patch=1,EE,21A597C8,extended,0000270F
+patch=1,EE,21A597CC,extended,0000270F
+patch=1,EE,21A597D0,extended,0000270F
+patch=1,EE,21A597D4,extended,0000270F
+patch=1,EE,21A597D8,extended,0000270F
+patch=1,EE,21A597DC,extended,0000270F
+patch=1,EE,21A597E0,extended,0000270F
+patch=1,EE,21A597E4,extended,00007000
+
+[Cheats/Unlock Arcade Battle 9 Button Mode All Items Obtained Some items will not be displayed until the item frame is added] 
+patch=1,EE,21A59840,extended,FFFFFFFF
+patch=1,EE,21A59844,extended,FFFFFFFF
+
+[Cheats/Unlock Arcade Battle 5 Button Mode All Ojamarist] 
+patch=1,EE,21A597E8,extended,FFFFFFFF
+patch=1,EE,21A597EC,extended,FFFFFFFF
+
+[Cheats/RECORDS MINIGAME Record Max Earned Income] 
+patch=1,EE,21A59848,extended,3B9AC9FF
+
+[Cheats/RECORDS MINIGAME Record Max Expenditure] 
+patch=1,EE,21A5984C,extended,3B9AC9FF
+
+[Cheats/RECORDS MINIGAME Record Max Number Of Participants] 
+patch=1,EE,21A59854,extended,3B9AC9FF
+
+[Cheats/RECORDS MINIGAME Record Max Number Of Plays] 
+patch=1,EE,21A59850,extended,3B9AC9FF maximum
+
+[Cheats/RECORDS MINIGAME Record Max Number Of Bosses Defeated] 
+patch=1,EE,21A59858,extended,3B9AC9FF
+
+[Cheats/RECORDS MINIGAME Record Fastest Clear Time 0.01 Seconds] 
+patch=1,EE,21A59870,extended,00000010 maximum number of chikoku 21A5985C 3B9AC9FF
+
+[Cheats/RECORDS MINIGAME Record Max Number Of People Hospitalized] 
+patch=1,EE,21A59864,extended,3B9AC9FF 
+
+[Cheats/RECORDS MINIGAME Record Max Number Of Hospitalized Patients]  
+patch=1,EE,21A59860,extended,3B9AC9FF 
+
+[Cheats/RECORDS MINIGAME Record Max Number Of Missing People] 
+patch=1,EE,21A59868,extended,3B9AC9FF 
+
+[Cheats/MINIGAME Fever Warrior Pop'n 14 Gather 14 People Even If You Fail] 
+patch=1,EE,202118E8,extended,24010002 
+patch=1,EE,202118EC,extended,AC410034 
+
+[Cheats/MINIGAME Fever Warrior Pop'n 14 After The First Stage A Hoss Battle ] 
+patch=1,EE,202118E8,extended,24010002 
+patch=1,EE,202118EC,extended,AC410034 
+patch=1,EE,2020F6A0,extended,546200F8 
+patch=1,EE,2020FA84,extended,2401000D 
+patch=1,EE,2020FA88,extended,08083DBB 
+patch=1,EE,2020FA8C,extended,A2010075 
+
+[Cheats/MINIGAME Fever Warrior Pop'n 14 Boss Battle No Matter Where You Shoot Victory You Will Lose When Timeout Occurs] 
+patch=1,EE,2020E508,extended,00000000

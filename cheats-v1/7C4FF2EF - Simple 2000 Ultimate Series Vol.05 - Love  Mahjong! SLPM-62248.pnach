@@ -1,0 +1,20 @@
+[Cheats/Close-up shooting possible] 
+patch=1,EE,20135CCC,extended,10000003
+patch=1,EE,20135D20,extended,10000003
+patch=1,EE,20135D44,extended,00000000
+patch=1,EE,20135D0C,extended,00000000
+patch=1,EE,20136090,extended,00000000
+patch=1,EE,2013609C,extended,00000000
+
+[Cheats/All items] 
+patch=1,EE,20691950,extended,00000009
+patch=1,EE,20691954,extended,00000009
+patch=1,EE,20691958,extended,00000009
+patch=1,EE,2069195C,extended,00000009
+patch=1,EE,20691960,extended,00000009
+patch=1,EE,20691964,extended,00000009
+patch=1,EE,20691968,extended,00000001
+patch=1,EE,2069196C,extended,00000009
+
+[Cheats/Unlock All Extra]  
+patch=1,EE,2011CDEC,extended,00000000

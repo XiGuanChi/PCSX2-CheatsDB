@@ -1,0 +1,71 @@
+[Cheats/Infinite Boost] 
+patch=1,EE,202db77c,extended,00000000
+
+[Cheats/Max Infinite Boost] 
+patch=1,EE,2021fd64,extended,C4810040
+patch=1,EE,2021fd70,extended,E4810044
+
+[Cheats/Max Dominator Points] 
+patch=1,EE,2055E470,extended,3B9AC9FF
+
+[Cheats/Add Time Press R2 To Activate] 
+patch=1,EE,202DBD14,extended,00000000
+patch=1,EE,D0491858,extended,0000FDFF
+patch=1,EE,21D1CBD0,extended,000000A5
+
+[Cheats/Max Earning Drift And Maniac Points] 
+patch=1,EE,202FB9C4,extended,10000012
+patch=1,EE,202FB890,extended,00000000
+
+[Cheats/Easy Earning Drift And Maniac Points]  
+patch=1,EE,202FB9C4,extended,10000012
+patch=1,EE,202FB890,extended,00000000
+patch=1,EE,202FB8A4,extended,00000000
+
+[Cheats/Going Against Walls Doesn't Cause Loss Of Speed] 
+patch=1,EE,2027CC10,extended,00000000
+patch=1,EE,2027CC10,extended,00000000
+patch=1,EE,2027CBEC,extended,00000000
+patch=1,EE,2027CBE0,extended,00000000
+
+[Cheats/Opponents Don't Move Activate Press R3 Deactivate Press L3] 
+patch=1,EE,D0491858,extended,0000FFFB
+patch=1,EE,2026B6A8,extended,00000000
+patch=1,EE,D0491858,extended,0000FFFD
+patch=1,EE,2026B6A8,extended,0060F809
+
+[Cheats/Win Any Challenge To Unlock Any Event That Requires Dominator Points]  
+patch=1,EE,2017F4CC,extended,00000000
+
+[Cheats/Unlock All Awards & Trophies] 
+patch=1,EE,2055E598,extended,FFFFFFFF
+patch=1,EE,0055E59C,extended,00000007
+
+[Cheats/Unlock All Signature Shortcuts] 
+patch=1,EE,2055E5B8,extended,0FFFFFFF
+
+[Cheats/Unlock All Vehicles In Garage] 
+patch=1,EE,2055E578,extended,FFFFFFFF
+
+[Cheats/All Events Complete GOLD] 
+patch=1,EE,2055E478,extended,06060606
+patch=1,EE,2055E47C,extended,06060606
+patch=1,EE,2055E480,extended,06060606
+patch=1,EE,2055E484,extended,06060606
+patch=1,EE,2055E488,extended,06060606
+patch=1,EE,2055E48C,extended,06060606
+patch=1,EE,2055E490,extended,06060606
+patch=1,EE,2055E494,extended,06060606
+patch=1,EE,2055E498,extended,06060606
+patch=1,EE,2055E49C,extended,06060606
+patch=1,EE,2055E4A0,extended,06060606
+patch=1,EE,2055E4A4,extended,06060606
+patch=1,EE,2055E4A8,extended,06060606
+patch=1,EE,2055E4AC,extended,06060606
+patch=1,EE,2055E4B0,extended,06060606
+patch=1,EE,2055E4B4,extended,06060606
+patch=1,EE,2055E4B8,extended,06060606
+patch=1,EE,2055E4BC,extended,06060606
+patch=1,EE,2055E4C0,extended,06060606
+patch=1,EE,2055E4C4,extended,06060606
+patch=1,EE,2055E4C8,extended,06060606

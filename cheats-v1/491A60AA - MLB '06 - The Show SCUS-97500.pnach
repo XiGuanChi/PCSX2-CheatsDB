@@ -1,0 +1,11 @@
+[Cheats/Press L1+L2 For Home Team Wins] 
+patch=1,EE,D02266C2,extended,0000FAFF
+patch=1,EE,20927A64,extended,00000063
+patch=1,EE,D02266C2,extended,0000FAFF
+patch=1,EE,20927A60,extended,00000000
+
+[Cheats/Press R1+R2 For Away Team Wins] 
+patch=1,EE,D02266C2,extended,0000F5FF
+patch=1,EE,20927A60,extended,00000063
+patch=1,EE,D02266C2,extended,0000F5FF
+patch=1,EE,20927A64,extended,00000000

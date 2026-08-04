@@ -1,0 +1,14 @@
+[Cheats/Unlock All Bonus] 
+patch=1,EE,4034F1EC,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,2034F268,extended,FFFFFFFF
+patch=1,EE,2034F26C,extended,FFFFFFFF
+patch=1,EE,4034F274,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,2034F45C,extended,FFFFFFFF
+patch=1,EE,2034F46C,extended,FFFFFFFF
+patch=1,EE,2034F6D0,extended,FFFFFFFF
+patch=1,EE,2034F6D4,extended,FFFFFFFF
+patch=1,EE,2034EE88,extended,FFFFFFFF
+patch=1,EE,2034EE8C,extended,FFFFFFFF
+patch=1,EE,0034F6F8,extended,00000010

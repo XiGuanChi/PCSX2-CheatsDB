@@ -1,0 +1,36 @@
+[Cheats/Infinite Health Ash] 
+patch=1,EE,10C50312,extended,0000270F
+
+[Cheats/Max Health Ash] 
+patch=1,EE,10C50314,extended,0000270F
+
+[Cheats/Infinite Health Sam Enable after tutorial] 
+patch=1,EE,10D9A3C2,extended,0000270F
+
+[Cheats/Max Health Sam Enable after tutorial] 
+patch=1,EE,10D9A3C4,extended,0000270F
+
+[Cheats/Infinite Inner Evil] 
+patch=1,EE,20C3D164,extended,42C80000
+
+[Cheats/Never Reload Pistol] 
+patch=1,EE,11DA0A24,extended,0000000F
+
+[Cheats/1 Hit Kill L3 Off R3 On] 
+patch=1,EE,D06ee2c2,extended,0000FFFD
+patch=1,EE,203ba670,extended,a6220052
+patch=1,EE,D06ee2c2,extended,0000FFFB
+patch=1,EE,203ba670,extended,a6200052
+
+[Cheats/Unlock All Extras NEEDS A SAVEGAME] 
+patch=1,EE,406EB63C,extended,00050001
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,40718E20,extended,00050001
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Unlock All Cinemas NEEDS A SAVEGAME] 
+patch=1,EE,406EB650,extended,00090001
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,40718E34,extended,00090001
+patch=1,EE,00000000,extended,00000000
+

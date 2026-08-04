@@ -1,0 +1,16 @@
+[Cheats/Infinite Health] 
+patch=1,EE,201C4794,extended,00000000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,201BBC48,extended,24420000
+
+[Cheats/Unlock Cheat Menu] 
+patch=1,EE,203B707C,extended,00000001
+
+[Cheats/Unlock All Bonus Material] 
+patch=1,EE,2014EB98,extended,00000000
+patch=1,EE,2014E988,extended,00000000
+patch=1,EE,2014EA90,extended,00000000
+patch=1,EE,2014EB10,extended,00000000
+patch=1,EE,2014EC1C,extended,00000000
+patch=1,EE,2014EA0C,extended,00000000

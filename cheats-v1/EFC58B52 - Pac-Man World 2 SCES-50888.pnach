@@ -1,0 +1,15 @@
+[Cheats/Pac Man Invulnerable] 
+patch=1,EE,005F68A8,extended,00000001
+
+[Cheats/No Timer Invulnerable] 
+patch=1,EE,005F68B0,extended,00000001
+
+[Cheats/Ghosts Frozen] 
+patch=1,EE,005F6810,extended,00000001
+
+[Cheats/Infinite Lives] 
+patch=1,EE,204AF770,extended,00000009
+
+[Cheats/Have 9999 Coins] 
+patch=1,EE,204AF7A0,extended,0000270
+

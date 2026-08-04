@@ -1,0 +1,45 @@
+[Cheats/Rank DOMINATOR] 
+patch=1,EE,21EBB9C8,extended,000003E7
+patch=1,EE,21EBB9CC,extended,0000000A
+
+[Cheats/Infinite Boost Meter]  
+patch=1,EE,2026DA34,extended,00000000
+
+[Cheats/Max Boost Meter Press R1] 
+patch=1,EE,21E310D8,extended,00000003
+patch=1,EE,21E310DC,extended,44340000
+patch=1,EE,21E310F0,extended,40000000
+patch=1,EE,D047CB1C,extended,0000F7FF
+patch=1,EE,21E310E0,extended,44340000
+
+[Cheats/During A Race Slow Down Enemy Car Valid only during a race.] 
+patch=1,EE,20260B10,extended,24030001
+
+[Cheats/Timer stop ON Press SELECT+down OFF Press SELECT+down*If the time stop is turned on before "GetReady GO!" is displayed, the competition will not start. If you turn on the time stop after the goal, the result display will not start. In such a case, please return to time stop OFF.] 
+patch=1,EE,D047CB1C,extended,0000FFEE
+patch=1,EE,202CC7F0,extended,1000001C
+patch=1,EE,D047CB1C,extended,0000FFBE
+patch=1,EE,202CC7F0,extended,1040001C
+
+[Cheats/Unlock All Events Clear With Gold It will not be unlocked unless you clear one of the stages. It will be reflected in the save] 
+patch=1,EE,01EBBC30,extended,00000003
+patch=1,EE,41EBBB88,extended,002A0001
+patch=1,EE,03030303,extended,00000000
+
+[Cheats/Unlock All Events Max Ratings Unlocking will not be released unless you clear one stage. It will be reflected in the save.] 
+patch=1,EE,01EBBC9B,extended,00000004
+patch=1,EE,41EBBC9C,extended,002A0001
+patch=1,EE,04040404,extended,00000000
+
+[Cheats/Unlock All Challenges Cleared] 
+patch=1,EE,41EBBAE0,extended,00100001
+patch=1,EE,03030303,extended,00000000
+
+[Cheats/Unlock All Unique Takedowns Cleared] 
+patch=1,EE,01EBBB38,extended,00000001
+patch=1,EE,41EBBB20,extended,00060001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Cars] 
+patch=1,EE,01EBBDC9,extended,00000003
+patch=1,EE,01EBBDCA,extended,00000003

@@ -1,0 +1,25 @@
+[Cheats/Clear Flag ON Prequel] 
+patch=1,EE,001AEF4A,extended,0000001F
+
+[Cheats/Unlock Clear Flag SUMMER, AIR Selectable, APPENDIX CG Selectable and SUMMER Clear State] 
+patch=1,EE,001AEF4A,extended,0000001F
+
+[Cheats/Unlock All APPENDIX CG Kana CG cannot be viewed without the SUMMER edition clear flag] 
+patch=1,EE,201AEEB4,extended,FFFFFFFF
+patch=1,EE,201AEEB8,extended,FFFFFFFF
+patch=1,EE,201AEEBC,extended,FEFFFFFF
+patch=1,EE,201AEEC0,extended,01EFFFFF
+patch=1,EE,101AEEC4,extended,00007FFC
+
+[Cheats/Unlock All APPENDIX CG Air (Best Version) SLPM-65844] 
+patch=1,EE,001AEF4A,extended,0000001F
+patch=1,EE,201AEEB4,extended,FFFFFFFF
+patch=1,EE,201AEEB8,extended,FFFFFFFF
+patch=1,EE,201AEEBC,extended,FF1FFFFF
+patch=1,EE,201AEEC0,extended,FFFFFFFF
+patch=1,EE,101AEEC4,extended,0000FFFF
+
+[Cheats/Enable Debug Mode You can Select Appendix Without Clearing] 
+patch=1,EE,201AEDD0,extended,00000001
+patch=1,EE,20253F48,extended,00000001
+

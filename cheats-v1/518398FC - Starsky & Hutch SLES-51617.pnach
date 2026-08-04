@@ -1,0 +1,41 @@
+[Cheats/Infinite Ammo] 
+patch=1,EE,201C1FDC,extended,24420000
+
+[Cheats/One Hit Kill] 
+patch=1,EE,2013B7C4,extended,44800000
+patch=1,EE,2013B7C8,extended,AE000114
+
+[Cheats/Massive Viewer Ratings] 
+patch=1,EE,2018FEB0,extended,3C014D1C
+patch=1,EE,2018FEB8,extended,AE410000
+
+[Cheats/Have All Items] 
+patch=1,EE,20514CB0,extended,FFFFFFFF
+patch=1,EE,20514CB4,extended,FFFFFFFF
+patch=1,EE,20514CB8,extended,FFFFFFFF
+patch=1,EE,20514CBC,extended,FFFFFFFF
+patch=1,EE,20514CC0,extended,FFFFFFFF
+
+[Cheats/Unlock All Episodes] 
+patch=1,EE,00514C64,extended,00000006
+
+[Cheats/Unlock All Levels And Bonus Cars slot 1] 
+patch=1,EE,20514C64,extended,00060606
+patch=1,EE,20514C68,extended,4D1C0003
+patch=1,EE,20514C6C,extended,4D1C0003
+patch=1,EE,20514C70,extended,4D1C0003
+patch=1,EE,20514C74,extended,4D1C0003
+patch=1,EE,20514C78,extended,4D1C0003
+patch=1,EE,20514C7C,extended,4D1C0003
+patch=1,EE,20514C80,extended,4D1C0003
+patch=1,EE,20514C84,extended,4D1C0003
+patch=1,EE,20514C88,extended,4D1C0003
+patch=1,EE,20514C8C,extended,4D1C0003
+patch=1,EE,20514C90,extended,4D1C0003
+patch=1,EE,20514C94,extended,4D1C0003
+patch=1,EE,20514C98,extended,4D1C0003
+patch=1,EE,20514C9C,extended,4D1C0003
+patch=1,EE,20514CA0,extended,4D1C0003
+patch=1,EE,20514CA4,extended,4D1C0003
+patch=1,EE,20514CA8,extended,4D1C0003
+patch=1,EE,20514CAC,extended,4D1C0003

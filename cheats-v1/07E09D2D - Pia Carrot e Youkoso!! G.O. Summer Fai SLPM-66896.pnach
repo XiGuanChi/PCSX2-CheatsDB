@@ -1,0 +1,16 @@
+[Cheats/Have 99999 Money] 
+patch=1,EE,202F2958,extended,0001869F
+
+[Cheats/Unlock All CG] 
+patch=1,EE,402D57BC,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Extras] 
+patch=1,EE,402D2D14,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Main Menu Options]  
+patch=1,EE,002D2D12,extended,000000FF
+
+[Cheats/New Game = Debug Menu will enable an event select debug menu allowing you to view any scene in the game.] 
+patch=1,EE,2010544C,extended,2405FFFF

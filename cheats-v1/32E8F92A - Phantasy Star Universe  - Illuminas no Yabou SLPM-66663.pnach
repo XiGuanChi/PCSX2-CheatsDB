@@ -1,0 +1,37 @@
+[Cheats/Max Meseta when shopping at the store]
+patch=1,EE,D029A036,extended,00001020
+patch=1,EE,2029A034,extended,00000000
+
+[Cheats/Skill LvUp with one shot] 
+patch=1,EE,D04DDB2A,extended,00002443
+patch=1,EE,204DDB28,extended,26630001
+
+[Cheats/Max PP maintenance] 
+patch=1,EE,D06DE5B8,extended,0000000C
+patch=1,EE,206DE5B8,extended,8602000E
+patch=1,EE,D06DE5C0,extended,0000000E
+patch=1,EE,206DE5C0,extended,A602000C
+
+[Cheats/Weapon enhancement does not fail after modification]
+patch=1,EE,D04DEA76,extended,00001020
+patch=1,EE,204DEA74,extended,10000051
+
+[Cheats/PP 9999 with weapon enhancement] 
+patch=1,EE,D02EE128,extended,00000003
+patch=1,EE,202EE128,extended,00000000
+
+[Cheats/Attack power 9999 by strengthening weapons] 
+patch=1,EE,D02EE16C,extended,00000003
+patch=1,EE,202EE16C,extended,00000000
+
+[Cheats/Max Blast gauge with one shot] 
+patch=1,EE,D02A6CC2,extended,00005420
+patch=1,EE,202A6CC0,extended,00000000
+
+[Cheats/Invincible] 
+patch=1,EE,D044559C,extended,0000F809
+patch=1,EE,2044559C,extended,0000102D
+
+[Cheats/Invincible previous work PSU] 
+patch=1,EE,D04438CC,extended,0000F809
+patch=1,EE,204438CC,extended,0000102D

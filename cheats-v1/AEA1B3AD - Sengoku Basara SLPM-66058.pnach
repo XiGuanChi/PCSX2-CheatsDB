@@ -1,0 +1,42 @@
+[Cheats/In Battle Infinite Health] 
+patch=1,EE,217B82CC,extended,00013880
+patch=1,EE,217B82D4,extended,00013880
+
+[Cheats/In Battle Max Bassara gauge]   
+patch=1,EE,217B8FDC,extended,00000000
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,2054A0E4,extended,FFFFFFFF
+
+[Cheats/Unlock Free Battle All Stages] 
+patch=1,EE,2054A0E8,extended,FFFFFFFF
+
+[Cheats/Unlock All Equipment]  
+patch=1,EE,2054A094,extended,63636363
+patch=1,EE,4054A098,extended,00130001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Weapons Level 99] 
+patch=1,EE,2019D754,extended,0803D440
+patch=1,EE,200F5100,extended,24030063
+patch=1,EE,200F5104,extended,A0A325EF
+patch=1,EE,200F5108,extended,A0A325F0
+patch=1,EE,200F510C,extended,A0A325F1
+patch=1,EE,200F5110,extended,A0A325F2
+patch=1,EE,200F5114,extended,A0A325F3
+patch=1,EE,200F5118,extended,A0A325F4
+patch=1,EE,200F511C,extended,080675D7
+
+[Cheats/Unlock All Characters, Movies, Music and Galery] 
+patch=1,EE,2054A0E4,extended,FFFFFFFF
+patch=1,EE,2054A0E8,extended,FFFFFFFF
+patch=1,EE,2054A0EC,extended,01010101
+patch=1,EE,2054A0F0,extended,01010101
+patch=1,EE,2054A0F4,extended,01010101
+patch=1,EE,2054A0F8,extended,01010101
+patch=1,EE,2054A0FC,extended,01010101
+patch=1,EE,2054A14C,extended,FFFFFFFF
+patch=1,EE,2054A150,extended,FFFFFFFF
+patch=1,EE,2054A154,extended,FFFFFFFF
+patch=1,EE,2054A158,extended,FFFFFFFF
+patch=1,EE,2054A15C,extended,000000FF

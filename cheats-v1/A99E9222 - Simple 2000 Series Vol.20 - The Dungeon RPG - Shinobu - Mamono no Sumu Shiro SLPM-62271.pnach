@@ -1,0 +1,20 @@
+[Cheats/Infinite HP] 
+patch=1,EE,201EFC1C,extended,0000270F
+patch=1,EE,201EFC20,extended,0000270F
+patch=1,EE,201EFC24,extended,0000270F
+
+[Cheats/Defense 10000] 
+patch=1,EE,101EFC2E,extended,00002710
+patch=1,EE,101EFC30,extended,00002710
+
+[Cheats/1st No Abnormal Status] 
+patch=1,EE,001EFC58,extended,00000016
+
+[Cheats/2nd No Abnormal Status] 
+patch=1,EE,001EFC59,extended,00000016
+
+[Cheats/3rd No Abnormal Status] 
+patch=1,EE,001EFC5A,extended,00000016
+
+[Cheats/Boot Into Debug Menu] 
+patch=1,EE,00100310,extended,00000007

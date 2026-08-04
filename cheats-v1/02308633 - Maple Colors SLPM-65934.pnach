@@ -1,0 +1,11 @@
+[Cheats/Unlock All Album]  
+patch=1,EE,208F0640,extended,FFFFFFFF
+patch=1,EE,208F0644,extended,FFFFFFFF
+patch=1,EE,208F0648,extended,FFFFFFFF
+patch=1,EE,208F064C,extended,FFFFFFFF
+patch=1,EE,208F0650,extended,FFFFFFFF
+patch=1,EE,208F0654,extended,FFFFFFFF
+
+[Cheats/Unlock All Album alt]  
+patch=1,EE,408F0640,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000008

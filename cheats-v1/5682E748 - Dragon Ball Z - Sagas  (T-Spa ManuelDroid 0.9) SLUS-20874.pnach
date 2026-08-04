@@ -1,0 +1,29 @@
+[Cheats/Max Zenny] 
+patch=1,EE,2048243C,extended,00000063
+
+[Cheats/Infinite Health P1] 
+patch=1,EE,200C2000,extended,C44C02C8
+patch=1,EE,200C2004,extended,46006006
+patch=1,EE,200C2008,extended,0807CEB9
+patch=1,EE,200C200C,extended,E44002C4
+patch=1,EE,201F3ADC,extended,08030800
+patch=1,EE,201F3AE0,extended,00000000
+
+[Cheats/Infinite Ki Health]   
+patch=1,EE,2019A6C8,extended,C46002C8
+patch=1,EE,2019A6D0,extended,E46002C4
+
+[Cheats/Infinite Ki] 
+patch=1,EE,201F3AF4,extended,E44102D0
+
+[Cheats/Instant Death Enemies] 
+patch=1,EE,20135CD8,extended,AE2002C4
+
+[Cheats/Infinite Ki P1]
+patch=1,EE,2018FC70,extended,C48002D4
+
+[Cheats/Unlock All Levels And All Extras] 
+patch=1,EE,2048253C,extended,00000016
+
+[Cheats/Unlock Pendulum] 
+patch=1,EE,204825BC,extended,00000001

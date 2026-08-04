@@ -1,0 +1,72 @@
+[Cheats/Infinite Pokkiri] 
+patch=1,EE,2012F6F0,extended,00000000
+
+[Cheats/Max Mature level]  
+patch=1,EE,01FF47DC,extended,00000010
+
+[Cheats/Max Pokkiri starting from the beginning]  
+patch=1,EE,2012F274,extended,3C06000F
+patch=1,EE,2012F28C,extended,34C6423F
+patch=1,EE,2012F2C4,extended,AC462B08
+
+[Cheats/Immediately castle level 5] 
+patch=1,EE,2010F814,extended,24030005
+
+[Cheats/It will not decrease even if you bid on the trump card] 
+patch=1,EE,201E63FC,extended,24450000
+
+[Cheats/All 50 pieces emerge with trump bird fluctuation] 
+patch=1,EE,2012F9B8,extended,24020032
+
+[Cheats/At the time of creation of the trump card block returning 99] 
+patch=1,EE,20112F40,extended,00C0100A
+
+[Cheats/Block less] 
+patch=1,EE,20112F68,extended,00401023
+
+[Cheats/Creating a trump card even without a block If you return the block the number will increase] 
+patch=1,EE,201B87E8,extended,18400001
+patch=1,EE,201B8894,extended,4A0002FF
+
+[Cheats/Add all Momo List] 
+patch=1,EE,2012FA1C,extended,24020001
+patch=1,EE,2012FA24,extended,A0620784
+
+[Cheats/All around use of eggs during battle] 
+patch=1,EE,A01320E4,extended,70001688
+
+[Cheats/Max Popularity after battle end] 
+patch=1,EE,A010E000,extended,14400001
+
+[Cheats/Immediate mid-level up after battle] 
+patch=1,EE,2012F80C,extended,14600001
+
+[Cheats/Max after half-up level up] 
+patch=1,EE,2012F76C,extended,14400001
+
+[Cheats/Max with fluctuation] 
+patch=1,EE,2012F6E8,extended,009F100A
+
+[Cheats/500 soldiers wanted] 
+patch=1,EE,2012FADC,extended,240201F4
+
+[Cheats/Max Pokkiri]  
+patch=1,EE,21FF6E84,extended,000F423F
+
+[Cheats/Waiting pull-out 500] 
+patch=1,EE,11FF47CC,extended,000001F4
+
+[Cheats/All 95 trump cards] 
+patch=1,EE,11FF47E6,extended,00005F5F
+patch=1,EE,41FF47E8,extended,00060001
+patch=1,EE,5F5F5F5F,extended,00000000
+
+[Cheats/95 Eggs at a time] 
+patch=1,EE,01FF4800,extended,0000005F
+
+[Cheats/99 blocks in total] 
+patch=1,EE,01FF4801,extended,00000063
+patch=1,EE,11FF4802,extended,00006363
+patch=1,EE,21FF4804,extended,63636363
+patch=1,EE,11FF4808,extended,00006363
+patch=1,EE,01FF480A,extended,00000063

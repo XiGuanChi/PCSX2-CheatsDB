@@ -1,0 +1,10 @@
+[Cheats/Time Stop] 
+patch=1,EE,20122D00,extended,1000001A
+
+[Cheats/Stage Cleared Once Character Touched] 
+patch=1,EE,201407D4,extended,00000000
+
+[Cheats/Max Score]  
+patch=1,EE,20123694,extended,3C03000F
+patch=1,EE,20123698,extended,3463423F
+patch=1,EE,2013D834,extended,1000000B

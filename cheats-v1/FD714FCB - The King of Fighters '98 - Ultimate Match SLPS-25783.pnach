@@ -1,0 +1,31 @@
+[Cheats/Unlock FOR NEOGEO MODE GAME ONLY English] 
+patch=1,EE,106809A2,extended,00000101
+
+[Cheats/P1 Infinite HP] 
+patch=1,EE,10680688,extended,00000067
+
+[Cheats/P1 Infinite Power] 
+patch=1,EE,00680639,extended,00000040
+patch=1,EE,1068063A,extended,00003E60
+patch=1,EE,00680733,extended,00000004
+patch=1,EE,0068069D,extended,00000004
+
+[Cheats/P2 No HP P1 Press SELECT] 
+patch=1,EE,D1681942,extended,0000FFFE
+patch=1,EE,10680888,extended,00000000
+
+[Cheats/P2 No Power] 
+patch=1,EE,00680839,extended,00000000
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,10684D50,extended,000001FF
+
+[Cheats/Unlock All Gallery]  
+patch=1,EE,40684D60,extended,003F0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10684E5C,extended,00000101
+
+[Cheats/Unlock All Challenges selectable] 
+patch=1,EE,40684D20,extended,00070001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10684D3C,extended,00000101

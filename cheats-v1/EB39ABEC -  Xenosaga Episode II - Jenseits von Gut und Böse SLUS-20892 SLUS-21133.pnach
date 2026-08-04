@@ -1,0 +1,51 @@
+[Cheats/Infinite C. Pts Usage Learning Skills] 
+patch=1,EE,2022A1AC,extended,00000000
+
+[Cheats/Infinite S. Pts Usage] 
+patch=1,EE,2022A058,extended,00000000
+
+[Cheats/Super C.Pt Gained After Battle] 
+patch=1,EE,20AC2480,extended,000003E7
+
+[Cheats/Infinite EP Usage In Battle] 
+patch=1,EE,D0A8BCC4,extended,0000200B
+patch=1,EE,20A8BCC8,extended,00000000
+
+[Cheats/Press L1+Select To Escape Battle]  
+patch=1,EE,D0955A82,extended,0000FBFE
+patch=1,EE,20AC4198,extended,00000001
+
+[Cheats/Press Circle To Save Anywhere] 
+patch=1,EE,D0955A82,extended,0000DBFF
+patch=1,EE,201D6B24,extended,00000000
+patch=1,EE,D0955A82,extended,0010DBFF
+patch=1,EE,201D6B24,extended,5040000E
+
+[Cheats/No Timer Press L1+R1 ON L2+R2 OFF do not use in Ormus Stronghold] 
+patch=1,EE,D063ED82,extended,0000F3FF
+patch=1,EE,201D6B9C,extended,00000000
+patch=1,EE,D063ED82,extended,0000FCFF
+patch=1,EE,201D6B9C,extended,8CE21B24
+
+[Cheats/No encounter On]  
+patch=1,EE,20206040,extended,16670009
+
+[Cheats/No encounter Off Init]  
+patch=1,EE,20206040,extended,1667000B
+
+[Cheats/Enable Debug Information & Debug Menu Text] 
+patch=1,EE,108DAD04,extended,0000FFFF
+
+[Cheats/Re-enable Debug Menus With the Re-enable Debug Menus code active, press one of the following buttons to enable a debug menu when you have control of a character:Select for Battle Debug Menu.L3 for Script Debug. L2 + R2 for Main Debug Menu R3 to disable debug menus only works in some menus] 
+patch=1,EE,D063ED82,extended,0000FFFE
+patch=1,EE,201DE6F0,extended,0C2AAAE0
+patch=1,EE,D063ED82,extended,0000FFFD
+patch=1,EE,201DE6F0,extended,0C2AA796
+patch=1,EE,D063ED82,extended,0000FCFF
+patch=1,EE,201DE6F0,extended,0C07B6A0
+patch=1,EE,D063ED82,extended,0000FFFB
+patch=1,EE,201DE6F0,extended,0C0A79A4
+
+
+
+

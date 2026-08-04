@@ -1,0 +1,10 @@
+[Cheats/To stay,Press Circle attacks with physical recondition] 
+patch=1,EE,D0369942,extended,0000DFFF
+patch=1,EE,50218CB0,extended,00000004
+patch=1,EE,00218CAC,extended,00000000
+
+[Cheats/Directly reckless driving] 
+patch=1,EE,20273510,extended,00000001
+
+[Cheats/Sword it is difficult to deteriorate] 
+patch=1,EE,2027351C,extended,7FFFFFFF

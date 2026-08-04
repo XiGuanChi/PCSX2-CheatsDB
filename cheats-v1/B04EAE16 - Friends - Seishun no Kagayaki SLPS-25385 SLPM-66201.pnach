@@ -1,0 +1,4 @@
+[Cheats/Enable Debug ModeController 1:Triangle + Circle + X + Square + Start - Returns you to the title screen.Select + Triangle - Toggles Progressive Display (640×480p) mode.Controller 2 Circle - Toggles debug modes.Square - Toggles the Debug flag. This unlocks all extra options.] 
+patch=1,EE,2037CDF4,extended,00000001
+
+

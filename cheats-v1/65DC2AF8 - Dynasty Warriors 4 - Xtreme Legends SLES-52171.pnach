@@ -1,0 +1,141 @@
+[Cheats/Infinite Max Money Xtreme Mode] 
+patch=1,EE,20469618,extended,05F5E0FF
+
+[Cheats/Player 1 Infinite Health] 
+patch=1,EE,1053BD7C,extended,000001F0
+patch=1,EE,1053BD7E,extended,00001F00
+
+[Cheats/Player 1 Infinite Musou] 
+patch=1,EE,1053BD82,extended,000001F0
+patch=1,EE,1053BD84,extended,00001F00
+
+[Cheats/Player 1 Infinite Arrows] 
+patch=1,EE,0055F0DC,extended,00000063
+
+[Cheats/Infinite Arrows All Players] 
+patch=1,EE,201C4130,extended,24203634
+
+[Cheats/Infinite Health] 
+patch=1,EE,1053BD7C,extended,000001C2
+patch=1,EE,1053BD7E,extended,00001C20
+patch=1,EE,1053BD80,extended,00001C20
+
+[Cheats/One-Hit Enemy KOs (Player Only] 
+patch=1,EE,200FF100,extended,3C0C0054
+patch=1,EE,200FF104,extended,258CBBA0
+patch=1,EE,200FF108,extended,159E0002
+patch=1,EE,200FF110,extended,A60001DE
+patch=1,EE,200FF114,extended,860201DE
+patch=1,EE,200FF118,extended,00401026
+patch=1,EE,200FF11C,extended,03E00008
+patch=1,EE,201C6F28,extended,0C03FC40
+patch=1,EE,201C6F2C,extended,00000000
+
+[Cheats/Structures Easy Kill Press R3+L1]
+patch=1,EE,D0583A20,extended,0000FBFB
+patch=1,EE,001B2AEE,extended,000000FE
+
+[Cheats/Structures Protect Press R3+L2] 
+patch=1,EE,D0583A20,extended,0000FEFB
+patch=1,EE,001B2AEE,extended,000000E0
+
+[Cheats/Structures Reset Codes Press L3+R3] 
+patch=1,EE,D0583A20,extended,0000FFF9
+patch=1,EE,001B2AEE,extended,000000F1
+
+[Cheats/Always Use Infinite Musou] 
+patch=1,EE,E002DFFF,extended,00583A20
+patch=1,EE,201C49FC,extended,00000000
+patch=1,EE,201C6D84,extended,00000000
+patch=1,EE,E002FFFF,extended,00583A20
+patch=1,EE,201C49FC,extended,1462000A
+patch=1,EE,201C6D84,extended,A46201E4
+
+[Cheats/Always Have True Musou] 
+patch=1,EE,00471EFC,extended,0000001B
+
+[Cheats/Super Jump] 
+patch=1,EE,2053BD94,extended,42700000
+
+[Cheats/Super Speed] 
+patch=1,EE,2053BD8C,extended,42340000
+
+[Cheats/Infinite Arrows] 
+patch=1,EE,1055F0DC,extended,00000063
+
+[Cheats/Get Player Aura + Boosts] 
+patch=1,EE,2053BD40,extended,00024078
+
+[Cheats/Infinite Power-Up Time] 
+patch=1,EE,101C72A4,extended,00000000
+
+[Cheats/Reset Stage Timer Press L1+L2+R1+R2] 
+patch=1,EE,D0583A20,extended,0000F0FF
+patch=1,EE,20472564,extended,00000000
+
+[Cheats/Infinite Duel Time ON Press L3+L1] 
+patch=1,EE,D0583A20,extended,0000FBFD
+patch=1,EE,20224538,extended,080891FC
+
+[Cheats/Infinite Duel Time OFF Press L3+L2] 
+patch=1,EE,D0583A20,extended,0000FEFD
+patch=1,EE,20224538,extended,146000AD
+
+[Cheats/Freeze Enemies ON Press L3+R2] 
+patch=1,EE,E008FDFD,extended,00583A20
+patch=1,EE,200FF000,extended,C4450010
+patch=1,EE,200FF004,extended,3C170054
+patch=1,EE,200FF008,extended,26F7BBA0
+patch=1,EE,200FF00C,extended,12F10003
+patch=1,EE,200FF014,extended,3C170010
+patch=1,EE,200FF018,extended,C6E5EFFC
+patch=1,EE,200FF01C,extended,03E00008
+patch=1,EE,201D93A8,extended,0C03FC00
+
+[Cheats/Freeze Enemies OFF Press R3+R2] 
+patch=1,EE,D0583A20,extended,0000FDFB
+patch=1,EE,201D93A8,extended,C4450010
+
+[Cheats/Break Confusion Ad Fall Press L3+Square] 
+patch=1,EE,D0583A20,extended,00007FFD
+patch=1,EE,0053BBFD,extended,00000000
+
+[Cheats/Higher Allied Morale Get 2 KOs] 
+patch=1,EE,200FF040,extended,3C170054
+patch=1,EE,200FF044,extended,26F7BBA0
+patch=1,EE,200FF048,extended,16FE000A
+patch=1,EE,200FF04C,extended,3C170010
+patch=1,EE,200FF050,extended,241603E7
+patch=1,EE,200FF054,extended,86F5F090
+patch=1,EE,200FF058,extended,12B60008
+patch=1,EE,200FF060,extended,A496003E
+patch=1,EE,200FF064,extended,AEF6F090
+patch=1,EE,200FF068,extended,0803FC1F
+patch=1,EE,200FF074,extended,A480003E
+patch=1,EE,200FF07C,extended,3C0351EB
+patch=1,EE,200FF080,extended,00122FC2
+patch=1,EE,200FF084,extended,03E00008
+patch=1,EE,20162624,extended,0C03FC10
+patch=1,EE,20162628,extended,00000000
+
+[Cheats/Easy Player Level Complete a stage] 
+patch=1,EE,10471D78,extended,0000270F
+
+[Cheats/Easy Level Weapon Complete a stage] 
+patch=1,EE,10471F02,extended,00008CA0
+
+[Cheats/Easy Bodyguard Level Complete a stage] 
+patch=1,EE,10472748,extended,00000064
+
+[Cheats/999 Points KOs Challenge] 
+patch=1,EE,10471D78,extended,000003E7
+
+[Cheats/Easy Imperial Seal Stage] 
+patch=1,EE,004E10D8,extended,00000063
+
+[Cheats/Original Always Loaded Free + Musou Modes] 
+patch=1,EE,2036689C,extended,00000001
+
+[Cheats/Widescreen Fix] 
+patch=1,EE,20139820,extended,3C0243D6
+patch=1,EE,2018E290,extended,3C023F2B

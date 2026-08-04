@@ -1,0 +1,41 @@
+[Cheats/Infinite Health Master Mode] 
+patch=1,EE,E00202C8,extended,006CF92C
+patch=1,EE,206CF92C,extended,C44102CC
+patch=1,EE,206CF934,extended,E44102C8
+
+[Cheats/Infinite Health P1] 
+patch=1,EE,200C0228,extended,AE21006C
+
+[Cheats/P1 Press L2+Select For Instant Kill P2] 
+patch=1,EE,D060AD42,extended,0000FEFE
+patch=1,EE,200C0230,extended,AE20006C
+
+[Cheats/Max Infinite Money Ryo] 
+patch=1,EE,20324B0C,extended,3C0205F5
+patch=1,EE,20324B14,extended,3442E0FF
+patch=1,EE,20324B1C,extended,AC420034
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,2039CF34,extended,24020003
+
+[Cheats/Unlock All Characters alt] 
+patch=1,EE,2039CF34,extended,2402FFFF
+
+[Cheats/Unlock All In Hero Mode] 
+patch=1,EE,2039D5B8,extended,240200FF
+
+[Cheats/Unlock All Collection Character Figure] 
+patch=1,EE,2039D2D4,extended,24020003
+
+[Cheats/Unlock All Collection Character Ultimate Jutsus] 
+patch=1,EE,2039D304,extended,24020003
+
+[Cheats/Unlock All Collection Character Voices] 
+patch=1,EE,2039D2F4,extended,24020003
+
+[Cheats/Unlock All Collection Character Movies] 
+patch=1,EE,2039D314,extended,24020003
+
+[Cheats/Unlock All Collection Character Music] 
+patch=1,EE,2039D2E4,extended,24020003
+

@@ -1,0 +1,11 @@
+[Cheats/Infinite Money Player 1] 
+patch=1,EE,200C0000,extended,16400006
+patch=1,EE,200C0004,extended,AFA4FFF8
+patch=1,EE,200C0008,extended,3C010001
+patch=1,EE,200C000C,extended,3421869F
+patch=1,EE,200C0010,extended,8C8400A0
+patch=1,EE,200C0014,extended,8C84011C
+patch=1,EE,200C0018,extended,AC810044
+patch=1,EE,200C001C,extended,00400008
+patch=1,EE,200C0020,extended,8FA4FFF8
+patch=1,EE,2024AB24,extended,0C030000

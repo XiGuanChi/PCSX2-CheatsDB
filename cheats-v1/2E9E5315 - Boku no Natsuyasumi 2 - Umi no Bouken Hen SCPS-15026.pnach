@@ -1,0 +1,14 @@
+[Cheats/Max Money] 
+patch=1,EE,10261A4E,extended,000003E7
+
+[Cheats/Debug Menu This will appear on startup] 
+patch=1,EE,0020A970,extended,00000028
+patch=1,EE,1020A978,extended,0000EE50
+
+[Cheats/Fixes text in high resolution render modes - WARNING: DO NOT USE IF NOT UPSCALING] 
+patch=1,EE,2018077c,extended,24C30016
+patch=1,EE,20180794,extended,24820016
+patch=1,EE,2029057C,extended,24C50016
+patch=1,EE,20290588,extended,00000000
+patch=1,EE,202905D0,extended,244200B0
+patch=1,EE,2028EB68,extended,2463ffff

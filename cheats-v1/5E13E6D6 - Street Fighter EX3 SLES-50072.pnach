@@ -1,0 +1,19 @@
+[Cheats/Infinite Health P1 1st Character] 
+patch=1,EE,20C1D48C,extended,0000C800
+
+[Cheats/Infinite Health P1 2nd Character] 
+patch=1,EE,20C23FEC,extended,0000C800
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,208C77B8,extended,CFFFFFFF
+
+[Cheats/All Trials Complete] 
+patch=1,EE,204E5A88,extended,FFFFFFFF
+patch=1,EE,204E5A8C,extended,FFFFFFFF
+patch=1,EE,204E5A98,extended,FFFFFFFF
+patch=1,EE,204E5A9C,extended,FFFFFFFF
+patch=1,EE,204E5AA8,extended,FFFFFFFF
+
+[Cheats/Have All Moves Edit] 
+patch=1,EE,404E5A3C,extended,00130001
+patch=1,EE,00010001,extended,00000000

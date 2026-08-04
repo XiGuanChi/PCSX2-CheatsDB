@@ -1,0 +1,45 @@
+[Cheats/Infinite Health You & Your Team] 
+patch=1,EE,200C0220,extended,3C013F80
+patch=1,EE,200C0224,extended,AE810968
+patch=1,EE,200C0228,extended,08166B98
+patch=1,EE,200C022C,extended,928200F1
+patch=1,EE,2059AE5C,extended,08030088
+
+[Cheats/Infinite Ammo and No Reload] 
+patch=1,EE,204E1988,extended,00000000
+
+[Cheats/Steady Aim and No Recoil] 
+patch=1,EE,2043F998,extended,00000000
+patch=1,EE,2043F318,extended,00000000
+patch=1,EE,2043F250,extended,00000000
+patch=1,EE,2043F9B8,extended,00000000
+
+[Cheats/Equip Items For 0 Load] 
+patch=1,EE,202DF0E0,extended,24030000
+
+[Cheats/No Fall Damage] 
+patch=1,EE,2064C1D4,extended,00000000
+patch=1,EE,2064C1D8,extended,00000000
+patch=1,EE,2064C1DC,extended,00000000
+
+[Cheats/P1 Press L1+L2+R1+R2 To Complete Mission Successfully] 
+patch=1,EE,D064F89C,extended,0000F0FF
+patch=1,EE,00887F7D,extended,00000001
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,00688A7D,extended,00000001
+patch=1,EE,00688A96,extended,00000001
+patch=1,EE,10688A96,extended,00000101
+patch=1,EE,00688A98,extended,00000001
+
+[Cheats/Unlock All Weapons] 
+patch=1,EE,10688A7E,extended,00000001
+patch=1,EE,20688A80,extended,01010101
+patch=1,EE,10688A84,extended,00000101
+patch=1,EE,00688A86,extended,00000001
+
+[Cheats/Unlock All Weapons, Characters. Movies and Jukebox] 
+patch=1,EE,700EEC40,extended,00000000
+patch=1,EE,20367488,extended,00620821
+patch=1,EE,2036748C,extended,24020001
+patch=1,EE,20367494,extended,A022ABBC

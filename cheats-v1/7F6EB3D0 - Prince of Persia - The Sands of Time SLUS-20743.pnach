@@ -1,0 +1,85 @@
+[Cheats/Infinite Health if you fall & need to die, hold Select until you run out of health, then release & hold L1 to rewind time to back where you were before] 
+patch=1,EE,200FFF14,extended,AC220000
+
+[Cheats/Infinite Health Farah]
+patch=1,EE,2029A2BC,extended,AE83007C
+
+[Cheats/Infinite Sand Bars] 
+patch=1,EE,200FFF24,extended,AC220610
+
+[Cheats/1 Hit Deaths Enemies] 
+patch=1,EE,D0181EFC,extended,00300001
+patch=1,EE,10181EFC,extended,00000001
+
+[Cheats/Unlock Prince Of Persia 1] 
+patch=1,EE,202348C0,extended,8C410000
+patch=1,EE,202348C4,extended,34211000
+patch=1,EE,202348C8,extended,AC410000
+
+[Cheats/Prince Of Persia 1 Infinite Health] 
+patch=1,EE,E00100E0,extended,001001B8
+patch=1,EE,10181EF8,extended,00000009
+
+[Cheats/Prince Of Persia 1 Infinite Time] 
+patch=1,EE,E00100E0,extended,001001B8
+patch=1,EE,10181F7C,extended,0000003C
+
+//Prince Of Persia 1 1-Hit Deaths(Enemies
+patch=1,EE,D0181EFC,extended,00300001
+patch=1,EE,10181EFC,extended,00000001
+
+[Cheats/Prince Of Persia 1 Start On Level 2] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,00000002
+
+[Cheats/Prince Of Persia 1 Start On Level 3] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,00000003
+
+[Cheats/Prince Of Persia 1 Start On Level 4] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,00000004
+
+[Cheats/Prince Of Persia 1 Start On Level 5] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,00000005
+
+[Cheats/Prince Of Persia 1 Start On Level 6] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,00000006
+
+[Cheats/Prince Of Persia 1 Start On Level 7] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,00000007
+
+[Cheats/Prince Of Persia 1 Start On Level 8] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,00000008
+
+[Cheats/Prince Of Persia 1 Start On Level 9] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,00000009
+
+[Cheats/Prince Of Persia 1 Start On Level 10] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,0000000A
+
+[Cheats/Prince Of Persia 1 Start On Level 11] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,0000000B
+
+[Cheats/Prince Of Persia 1 Start On Level 12] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,0000000C
+
+[Cheats/Prince Of Persia 1 Start On Level 13] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,0000000D
+
+[Cheats/Prince Of Persia 1 Start On Level 14] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,0000000E
+
+[Cheats/Prince Of Persia 1 Start On Level 15] 
+patch=1,EE,D0181ED0,extended,00000001
+patch=1,EE,10181ED0,extended,0000000F

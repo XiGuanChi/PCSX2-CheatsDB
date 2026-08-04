@@ -1,0 +1,35 @@
+[Cheats/Unlock All Diamonds can be selected . *This will not be reflected in the save data.] 
+patch=1,EE,201942C4,extended,24020003
+patch=1,EE,2027BFC4,extended,00000003
+patch=1,EE,2027BFC8,extended,00000006
+patch=1,EE,2027BFCC,extended,FFFFFFFF
+patch=1,EE,2027C398,extended,00000002
+patch=1,EE,2027C214,extended,00000046
+patch=1,EE,2027C218,extended,00000047
+patch=1,EE,2027C21C,extended,FFFFFFFF
+patch=1,EE,2027C1C4,extended,0000002A
+patch=1,EE,2027C1C8,extended,0000002D
+patch=1,EE,2027C1CC,extended,FFFFFFFF
+
+[Cheats/Ignore Day Of Week Check] 
+patch=1,EE,2018CEE0,extended,03E00008
+patch=1,EE,2018CEE4,extended,24020000
+patch=1,EE,2018CF70,extended,03E00008
+patch=1,EE,2018CF74,extended,24020000
+
+[Cheats/No Max Speed Limit In Free Mode] 
+patch=1,EE,2019A2B0,extended,3C027FFF
+patch=1,EE,2019A2B4,extended,03E00008
+patch=1,EE,2019A2B8,extended,44820000
+
+[Cheats/ATS Disabled] 
+patch=1,EE,20147BA8,extended,00000000
+
+[Cheats/Speed Limit Disabled Points will no longer be deducted and warning displays will no longer be displayed in restricted sections.] 
+patch=1,EE,20147BB0,extended,00000000
+
+[Cheats/No Penalty Points For Early Arrival] 
+patch=1,EE,20156B9C,extended,00000000
+
+[Cheats/When Arriving Early, you can increase your time] 
+patch=1,EE,20156B98,extended,00132821

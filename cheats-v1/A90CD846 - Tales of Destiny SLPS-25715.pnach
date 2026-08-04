@@ -1,0 +1,101 @@
+[Cheats/Infinite Gold 999999] 
+patch=1,EE,202C0F90,extended,0098967F
+
+[Cheats/Lens 999] 
+patch=1,EE,20173B48,extended,240203E7
+
+[Cheats/Player 1 HP 9999 In Batlle] 
+patch=1,EE,D03FE794,extended,00000000
+patch=1,EE,103FE7C4,extended,0000270F
+
+[Cheats/Player 2 HP 9999 In Batlle] 
+patch=1,EE,D03FED36,extended,00000040
+patch=1,EE,103FEFC4,extended,0000270F
+
+[Cheats/Player 3 HP 9999 In Batlle] 
+patch=1,EE,D03FF536,extended,00000040
+patch=1,EE,103FF7C4,extended,0000270F
+
+[Cheats/Infinite CC In Batlle] 
+patch=1,EE,D03C50A8,extended,000002C8
+patch=1,EE,203C50BC,extended,960202CE
+
+[Cheats/Recover HP Manually In Batlle Open the Trisngle Menu and Select Some Command, Switch the Screen Once and Close it to Recover] 
+patch=1,EE,D03E4592,extended,00008462
+patch=1,EE,203E4590,extended,9462000E
+
+[Cheats/All Characteres level 200]  
+patch=1,EE,202BF0A8,extended,000000C8
+patch=1,EE,202BF250,extended,000000C8
+patch=1,EE,202BF3F8,extended,000000C8
+patch=1,EE,202BF5A0,extended,000000C8
+patch=1,EE,202BF748,extended,000000C8
+patch=1,EE,202BF8F0,extended,000000C8
+patch=1,EE,202BFA98,extended,000000C8
+patch=1,EE,202BFC40,extended,000000C8
+patch=1,EE,202BFDE8,extended,000000C8
+patch=1,EE,202BFF90,extended,000000C8
+
+[Cheats/After 1 Fight Level 200, Stats Max And All Skills] 
+patch=1,EE,202BF0A0,extended,3B9AC9FF
+patch=1,EE,202BF248,extended,3B9AC9FF
+patch=1,EE,202BF3F0,extended,3B9AC9FF
+patch=1,EE,202BF598,extended,3B9AC9FF
+patch=1,EE,202BF740,extended,3B9AC9FF
+patch=1,EE,202BF8E8,extended,3B9AC9FF
+patch=1,EE,202BFA90,extended,3B9AC9FF
+patch=1,EE,202BFC38,extended,3B9AC9FF
+patch=1,EE,202BFDE0,extended,3B9AC9FF
+patch=1,EE,202BFF88,extended,3B9AC9FF
+
+[Cheats/All Characters Have Skills With 9990 Count] 
+patch=1,EE,402BF118,extended,00230001
+patch=1,EE,270F0501,extended,00000000
+patch=1,EE,402BF2C0,extended,00200001
+patch=1,EE,270F0501,extended,00000000
+patch=1,EE,402BF468,extended,00220001
+patch=1,EE,270F0501,extended,00000000
+patch=1,EE,402BF610,extended,00180001
+patch=1,EE,270F0501,extended,00000000
+patch=1,EE,402BF7B8,extended,00170001
+patch=1,EE,270F0501,extended,00000000
+patch=1,EE,402BF960,extended,00110001
+patch=1,EE,270F0501,extended,00000000
+patch=1,EE,402BFB08,extended,00100001
+patch=1,EE,270F0501,extended,00000000
+patch=1,EE,402BFCB0,extended,00100001
+patch=1,EE,270F0501,extended,00000000
+patch=1,EE,402BFE58,extended,00100001
+patch=1,EE,270F0501,extended,00000000
+patch=1,EE,402C0000,extended,00100001
+patch=1,EE,270F0501,extended,00000000
+
+[Cheats/All Consumption Items and Event Items] 
+patch=1,EE,402C0120,extended,00250001
+patch=1,EE,0E0E0E0E,extended,00000000
+patch=1,EE,002C011D,extended,0000000E
+patch=1,EE,102C011E,extended,00000E0E
+patch=1,EE,202C01B4,extended,000E0E0E
+
+[Cheats/Exp Gained x1000 After Battle] 
+patch=1,EE,200FFF20,extended,00661821
+patch=1,EE,200FFF24,extended,00611819
+patch=1,EE,200FFF28,extended,03E00008
+patch=1,EE,200FFF2C,extended,00431021
+patch=1,EE,D03F1404,extended,00001021
+patch=1,EE,203F1400,extended,0C03FFC8
+patch=1,EE,D03F1404,extended,00001021
+patch=1,EE,203F1404,extended,240103E8
+
+[Cheats/Random Battle Control Press L3 Battle Start] 
+patch=1,EE,202C11C0,extended,00000000
+patch=1,EE,D02F6A1C,extended,00000200
+patch=1,EE,202C11C0,extended,00FFFFFF
+
+[Cheats/Have All Weapons, Armors and Accessories] 
+patch=1,EE,402C01B8,extended,00500001
+patch=1,EE,0A0A0A0A,extended,00000000
+
+[Cheats/Have All Food Reecipes] 
+patch=1,EE,402C0300,extended,000E0001
+patch=1,EE,01010101,extended,00000000

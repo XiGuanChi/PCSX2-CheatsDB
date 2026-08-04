@@ -1,0 +1,11 @@
+[Cheats/Unlock Cheat Invincibility] 
+patch=1,EE,2032F034,extended,3F800000
+
+[Cheats/Unlock Cheat infinite Ammo] 
+patch=1,EE,2032F04C,extended,3F800000
+
+[Cheats/Flashlight Doesn't Deplete ASM] 
+patch=1,EE,201CE454,extended,00000000
+
+[Cheats/Enable Debug Console] 
+patch=1,EE,00331C18,extended,00000000

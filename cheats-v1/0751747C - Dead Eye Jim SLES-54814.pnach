@@ -1,0 +1,13 @@
+[Cheats/Invincible] 
+patch=1,EE,001B6BA4,extended,00000009
+
+[Cheats/infinite Ammo] 
+patch=1,EE,0098A8C8,extended,00000063
+
+[Cheats/Just Kill 1 Opponent] 
+patch=1,EE,D01B70D8,extended,00000014
+patch=1,EE,001B70D8,extended,00000001
+
+[Cheats/Mission Complete] 
+patch=1,EE,001B70D8,extended,00000000
+

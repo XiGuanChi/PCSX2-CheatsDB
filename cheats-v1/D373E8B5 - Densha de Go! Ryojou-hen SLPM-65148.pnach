@@ -1,0 +1,11 @@
+[Cheats/Always 99 Points] 
+patch=1,EE,103D5738,extended,00000063
+
+[Cheats/Difficult To Increase G Meter] 
+patch=1,EE,203D530C,extended,00000000
+
+[Cheats/Unlock Some Vehicles And Routes that are not yet selectable]  
+patch=1,EE,2018F93C,extended,846F0000
+patch=1,EE,2018F940,extended,35EFFFFF
+patch=1,EE,2018F948,extended,A46F0000
+patch=1,EE,2018F950,extended,00000000

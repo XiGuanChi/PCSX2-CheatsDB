@@ -1,0 +1,28 @@
+[Cheats/Infinite Hp P1] 
+patch=1,EE,200A0020,extended,AC40023C
+
+[Cheats/Infinite Power P1] 
+patch=1,EE,200A0024,extended,8C440248
+patch=1,EE,200A0028,extended,AC44024C
+
+[Cheats/1 hit kill Player 2 Press Select P1]  
+patch=1,EE,200A00A8,extended,3C040052
+patch=1,EE,200A00AC,extended,90842F82
+patch=1,EE,200A00B0,extended,240500FE
+patch=1,EE,200A00B4,extended,14850005
+patch=1,EE,200A00BC,extended,8C640234
+patch=1,EE,200A00C0,extended,24050001
+patch=1,EE,200A00C4,extended,00852022
+patch=1,EE,200A00C8,extended,AC64023C
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,20523890,extended,FFFFFFFF
+patch=1,EE,00523897,extended,000000FF
+
+[Cheats/Unlock Survival] 
+patch=1,EE,00523895,extended,000000FF
+
+[Cheats/Unlock All Extras] 
+patch=1,EE,00523896,extended,000000FF
+patch=1,EE,405238BC,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000

@@ -1,0 +1,17 @@
+[Cheats/Max Gauge] 
+patch=1,EE,20162818,extended,14000002
+
+[Cheats/Unlock All CG] 
+patch=1,EE,20C18358,extended,FFFFFFFF
+patch=1,EE,20C1835C,extended,0001FFFF
+
+[Cheats/Unlock All Songs Free Mode] 
+patch=1,EE,2010B59C,extended,0803C000
+patch=1,EE,200F0000,extended,3C0800C1
+patch=1,EE,200F0004,extended,35089128
+patch=1,EE,200F0008,extended,25091230
+patch=1,EE,200F000C,extended,240A0001
+patch=1,EE,200F0010,extended,A10A0000
+patch=1,EE,200F0014,extended,2508000C
+patch=1,EE,200F0028,extended,1509FFF9
+patch=1,EE,200F0030,extended,03E00008

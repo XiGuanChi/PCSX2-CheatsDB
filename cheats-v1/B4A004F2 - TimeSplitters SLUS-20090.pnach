@@ -1,0 +1,27 @@
+[Cheats/Invincible] 
+patch=1,EE,203A2540,extended,00000001
+
+[Cheats/Unlock All Cheats] 
+patch=1,EE,203A294C,extended,FFFFFFFF
+
+[Cheats/Unlock All Story Levels] 
+patch=1,EE,202245A4,extended,24020001
+patch=1,EE,202245A8,extended,AC620000
+patch=1,EE,202245AC,extended,AC620004
+patch=1,EE,202245B0,extended,AC620008
+
+[Cheats/Unlock All MultiPlayer Levels] 
+patch=1,EE,20224648,extended,24020001
+patch=1,EE,20224650,extended,AC620000
+
+[Cheats/Unlock All Challenges] 
+patch=1,EE,202242A0,extended,00000000
+patch=1,EE,202242D0,extended,00431821
+patch=1,EE,202242D4,extended,24020001
+patch=1,EE,202242DC,extended,AC62057C
+
+[Cheats/Debug Menu Enable L3+R3 in game] 
+patch=1,EE,D031159C,extended,00000600
+patch=1,EE,003A2560,extended,00000001
+patch=1,EE,2020D8F0,extended,0C083626
+patch=1,EE,2020D8F4,extended,AF9095F0

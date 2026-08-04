@@ -1,0 +1,13 @@
+[Cheats/Max Money Effects will be effective when money increases by selling parts etc] 
+patch=1,EE,2022CA20,extended,00000000
+patch=1,EE,2022CA18,extended,00000000
+
+[Cheats/Max Pilot Level When Gaining Experience Points] 
+patch=1,EE,20233D80,extended,3C120098
+
+[Cheats/Backpack Full Inventory When Equipped 99] 
+patch=1,EE,2022CB68,extended,24130063
+patch=1,EE,2022CB80,extended,AC530014
+
+[Cheats/10 Stage Modification Possible Valid only when using code] 
+patch=1,EE,2023832C,extended,1000000F

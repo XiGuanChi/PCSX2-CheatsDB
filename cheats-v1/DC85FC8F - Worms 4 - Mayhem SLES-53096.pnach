@@ -1,0 +1,10 @@
+[Cheats/Unlock Have All Infinite Weapons]
+patch=1,EE,203B0B00,extended,24060009
+
+[Cheats/L2+R2 Freeze Round Go Timer] 
+patch=1,EE,D098A242,extended,0000FCFF
+patch=1,EE,203E3A30,extended,00000000
+
+[Cheats/L1+R1 Unfreeze Round Go Timer Unfreeze timer before taking your shot] 
+patch=1,EE,D098A242,extended,0000F3FF
+patch=1,EE,203E3A30,extended,AC65001C

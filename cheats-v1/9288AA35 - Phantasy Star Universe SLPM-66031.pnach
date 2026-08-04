@@ -1,0 +1,38 @@
+[Cheats/Max Meseta when Shopping at the Store]  
+patch=1,EE,D02A36DA,extended,00005020
+patch=1,EE,202A36D8,extended,00000000
+
+[Cheats/Max HP] 
+patch=1,EE,21F23E24,extended,0000270F
+patch=1,EE,21F23E28,extended,0000270F
+
+[Cheats/Invincible] 
+patch=1,EE,01F23E06,extended,00000001
+
+[Cheats/Max Experience value]  
+patch=1,EE,D02A57F0,extended,0000982D
+patch=1,EE,202A57F0,extended,00059A00
+
+[Cheats/Max PP Maintenance] 
+patch=1,EE,D02FA8B2,extended,00008602
+patch=1,EE,202FA8B0,extended,8608000E
+patch=1,EE,D02FA8BA,extended,0000A642
+patch=1,EE,202FA8B8,extended,A6480008
+patch=1,EE,D02FA8E6,extended,00001420
+patch=1,EE,202FA8E8,extended,A608000C
+
+[Cheats/Max Blast Gauge with One Shot] 
+patch=1,EE,D02A6CC2,extended,00005420
+patch=1,EE,202A6CC0,extended,00000000
+
+[Cheats/Skill Level Up with One Shot] 
+patch=1,EE,D04D4662,extended,00002443
+patch=1,EE,204D4660,extended,26630001
+
+[Cheats/Attack Power 9999 by Strengthening Weapons] 
+patch=1,EE,D04D537A,extended,00001420
+patch=1,EE,204D5378,extended,00000000
+
+[Cheats/No Trial Time Addition] 
+patch=1,EE,D061A9B8,extended,00000028
+patch=1,EE,2061A9B8,extended,00000000

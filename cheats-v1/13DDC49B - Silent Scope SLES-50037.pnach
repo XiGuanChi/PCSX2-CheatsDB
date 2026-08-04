@@ -1,0 +1,9 @@
+[Cheats/Infinite Health]  
+patch=1,EE,102D53F8,extended,00000100
+
+[Cheats/Infinite Continues] 
+patch=1,EE,102A0484,extended,00000005
+
+[Cheats/Stop Timer] 
+patch=1,EE,102D5352,extended,00000032
+

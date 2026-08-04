@@ -1,0 +1,25 @@
+[Cheats/Always Have 100 Coins] 
+patch=1,EE,200A0010,extended,24050064
+patch=1,EE,200A0014,extended,AC250E00
+
+[Cheats/Infinite Action Bar] 
+patch=1,EE,200A0018,extended,3C0242C8
+patch=1,EE,200A001C,extended,AC220A7C
+patch=1,EE,200A0020,extended,AC220A84
+
+[Cheats/Max.Coins Shop] 
+patch=1,EE,20481880,extended,00000000
+
+[Cheats/Unlock Everything] 
+patch=1,EE,200A0054,extended,3C02FFFF
+patch=1,EE,200A0058,extended,3442FFFF
+patch=1,EE,200A005C,extended,AC8204C8
+patch=1,EE,200A0060,extended,AC8204CC
+patch=1,EE,200A0064,extended,AC8204D0
+patch=1,EE,200A0068,extended,AC8204D4
+patch=1,EE,200A006C,extended,AC8204D8
+patch=1,EE,200A0070,extended,AC8204DC
+patch=1,EE,200A0074,extended,AC8204E0
+patch=1,EE,200A0078,extended,AC8204E4
+patch=1,EE,200A007C,extended,A08204F7
+patch=1,EE,200A0080,extended,A08204F8

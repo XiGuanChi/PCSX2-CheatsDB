@@ -1,0 +1,44 @@
+[Cheats/Max Money] 
+patch=1,EE,206220F8,extended,FFF0E4D1
+
+[Cheats/Max Trick Points] 
+patch=1,EE,0033F376,extended,0000009F
+
+[Cheats/1 Lap Race] 
+patch=1,EE,003021C7,extended,000000AC
+
+[Cheats/Always 1st Races] 
+patch=1,EE,003021C7,extended,000000AC
+
+[Cheats/Shocks Always Loaded] 
+patch=1,EE,202F6BE8,extended,00000000
+patch=1,EE,202F6B3C,extended,20030002
+patch=1,EE,202F6B40,extended,AE030018
+patch=1,EE,002F6C9E,extended,00000004
+
+[Cheats/Unlock Add MTXP Press L1+Triangle] 
+patch=1,EE,E002EBFF,extended,00AC6302
+patch=1,EE,30500000,extended,007AD218
+patch=1,EE,FFFFFF00,extended,00000000
+
+[Cheats/Freeze Trick Timer ON Press L1+X]  
+patch=1,EE,D0AC6302,extended,0000BBFF
+patch=1,EE,00247123,extended,0000008E
+
+[Cheats/Freeze Trick Timer Off Press L1+Square] 
+patch=1,EE,D0AC6302,extended,00007BFF
+patch=1,EE,00247123,extended,000000AE
+
+[Cheats/Improved Widescreen] 
+patch=1,EE,203CB2FC,extended,3FE38E39
+
+:
+ 
+ 
+ 
+ 
+
+
+
+
+

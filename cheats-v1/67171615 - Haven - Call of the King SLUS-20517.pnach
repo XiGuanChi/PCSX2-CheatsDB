@@ -1,0 +1,36 @@
+[Cheats/Infinite Health] 
+patch=1,EE,10526D10,extended,00000005
+
+[Cheats/Invincible] 
+patch=1,EE,1029A52E,extended,00001000
+patch=1,EE,1029A62E,extended,00001000
+patch=1,EE,1029A59E,extended,00001000
+
+[Cheats/Infinite Shield] 
+patch=1,EE,20526ED8,extended,0000012C
+
+[Cheats/Infinite Special] 
+patch=1,EE,20526B70,extended,00500000
+
+[Cheats/Have All Gold Triangles] 
+patch=1,EE,00571EDC,extended,000000FF
+
+[Cheats/Max Silver Keys] 
+patch=1,EE,2052D698,extended,00000063
+
+[Cheats/Max Blue Feathers] 
+patch=1,EE,20526B68,extended,00000063
+
+[Cheats/Max Red Feathers] 
+patch=1,EE,20526B6C,extended,00000063
+
+[Cheats/Max Cogs] 
+patch=1,EE,20526B74,extended,00000063
+
+[Cheats/Pause To Have All Objectives Completed] 
+patch=1,EE,202DECE0,extended,2401FFFF
+patch=1,EE,202DECE4,extended,00A71804
+patch=1,EE,202DECEC,extended,AC410140
+
+[Cheats/Unlock Old Menu] 
+patch=1,EE,2051EC84,extended,00000001

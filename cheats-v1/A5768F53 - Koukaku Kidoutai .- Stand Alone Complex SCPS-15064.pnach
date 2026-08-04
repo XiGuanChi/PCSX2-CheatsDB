@@ -1,0 +1,66 @@
+ [Cheats/Infinite HP 100,000 & One Hit Death Blow] 
+patch=1,EE,2013DCD4,extended,3C014610
+patch=1,EE,2013DCF8,extended,AE810328
+patch=1,EE,2013DD00,extended,AE81032C
+patch=1,EE,2013DD08,extended,AE810324
+
+[Cheats/Kill Enemy To use in conjunction with maintenance of 100,000 health. It is ineffective for Onyangma] 
+patch=1,EE,2013DCB0,extended,AE800328
+patch=1,EE,2013DCB4,extended,50400016
+patch=1,EE,2013DCB8,extended,C6810208
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20115C8C,extended,00000000
+patch=1,EE,20116060,extended,00000000
+patch=1,EE,201160B4,extended,00000000
+
+[Cheats/Always Optical Camouflage] 
+patch=1,EE,2013DCE8,extended,3C1A47D5
+patch=1,EE,2013DCEC,extended,AE9A0208
+
+[Cheats/Optical camouflage SELECT + Right ON  SELECT + Left OFF] 
+patch=1,EE,2013DCE8,extended,3C1A47D5
+patch=1,EE,D04D0402,extended,0000FFDE
+patch=1,EE,2013DCEC,extended,AE9A0208
+patch=1,EE,D04D0402,extended,0000FF7E
+patch=1,EE,2013DCEC,extended,AE800208
+
+[Cheats/Continue Infinite Bullet Setting] 
+patch=1,EE,20321C64,extended,FFFFFFFF
+patch=1,EE,20321C68,extended,FFFFFFFF
+patch=1,EE,20321C6C,extended,FFFFFFFF
+
+[Cheats/Acquire All Fan] 
+patch=1,EE,20321C7C,extended,07070707
+patch=1,EE,20321C80,extended,07070707
+patch=1,EE,20321C84,extended,07070707
+
+[Cheats/Full Surface No Contrast Clear Mark] 
+patch=1,EE,20321C70,extended,FFFFFFFF
+
+[Cheats/Unlock All Continue Over & All Color] 
+patch=1,EE,20321C54,extended,07070701
+patch=1,EE,20321C58,extended,07070707
+patch=1,EE,20321C5C,extended,07070707
+patch=1,EE,00321C60,extended,00000007
+
+[Cheats/Unlock All Multiplayer]  
+patch=1,EE,20321CA0,extended,FFFFFFFF
+patch=1,EE,20321CA4,extended,FFFFFFFF
+patch=1,EE,20321CA8,extended,FFFFFFFF
+
+[Cheats/Unlock All WORD]
+patch=1,EE,20321CB0,extended,FFFFFFFF
+patch=1,EE,20321CB4,extended,FFFFFFFF
+patch=1,EE,20321CB8,extended,FFFFFFFF
+patch=1,EE,20321CBC,extended,FFFFFFFF
+
+[Cheats/Unlock All WORD LIST When Viewed] 
+patch=1,EE,20126740,extended,241AFFFF
+patch=1,EE,20126744,extended,AC5A0060
+patch=1,EE,20126750,extended,24020001
+
+[Cheats/Unlock All COMMUNICATION LOG When Viewed] 
+patch=1,EE,20126784,extended,241AFFFF
+patch=1,EE,20126788,extended,AC5A0070
+patch=1,EE,20126794,extended,24020001

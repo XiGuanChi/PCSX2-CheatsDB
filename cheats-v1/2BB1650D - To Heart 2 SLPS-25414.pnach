@@ -1,0 +1,15 @@
+[Cheats/Unlock All Option Bonus] 
+patch=1,EE,10454E90,extended,0000FFFF
+
+[Cheats/Unlock All Text Read Call the main menu during play and end the game to save the code to system data. will be reflected. Once all texts have been read, you can perform the following operations. Press the R1 button to skip messages, and press the L1 button to switch on/off automatic progression to options] 
+patch=1,EE,20174D7C,extended,240400FF
+patch=1,EE,20174D80,extended,A064FD40
+patch=1,EE,20174EA4,extended,240400FF
+patch=1,EE,20174EA8,extended,A064FD40
+
+[Cheats/Unlock All Characters Cleared In addition to the hidden character flag that appears after the second playthrough, you will receive a complete CG after clearing the game] 
+patch=1,EE,2020B808,extended,01010101
+patch=1,EE,2020B80C,extended,01010101
+patch=1,EE,2020B810,extended,01010101
+patch=1,EE,1020B806,extended,00000108
+patch=1,EE,1020B814,extended,00000101

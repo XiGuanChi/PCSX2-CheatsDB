@@ -1,0 +1,66 @@
+[Cheats/Infinite HP] 
+patch=1,EE,207E15A8,extended,00000300
+patch=1,EE,207E1598,extended,00000300
+patch=1,EE,207E1590,extended,00000400
+patch=1,EE,207E1580,extended,00000400
+
+[Cheats/ Max Skill Points] 
+patch=1,EE,207BCC78,extended,000F423F
+patch=1,EE,207BCD18,extended,000F423F
+patch=1,EE,207BCCC8,extended,000F423F
+patch=1,EE,207BCD68,extended,000F423F
+patch=1,EE,207BCDB8,extended,000F423F
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,207BCC0A,extended,00000001
+
+[Cheats/Unlock Free Battle]  
+patch=1,EE,007BCFF4,extended,00000001
+patch=1,EE,007BD00C,extended,00000001
+patch=1,EE,007BD024,extended,00000001
+patch=1,EE,007BD03C,extended,00000001
+patch=1,EE,007BD054,extended,00000001
+patch=1,EE,007BD06C,extended,00000001
+patch=1,EE,007BD084,extended,00000001
+patch=1,EE,007BD09C,extended,00000001
+patch=1,EE,007BD0B4,extended,00000001
+patch=1,EE,007BD0CC,extended,00000001
+
+[Cheats/Unlock Overall Stage Attack] 
+patch=1,EE,007BCDCC,extended,00000001
+patch=1,EE,007BCDE4,extended,00000001
+patch=1,EE,007BCDFC,extended,00000001
+patch=1,EE,007BCE14,extended,00000001
+patch=1,EE,007BCE2C,extended,00000001
+patch=1,EE,007BCE44,extended,00000001
+patch=1,EE,007BCE5C,extended,00000001
+patch=1,EE,007BCE74,extended,00000001
+patch=1,EE,007BCE8C,extended,00000001
+patch=1,EE,007BCEA4,extended,00000001
+patch=1,EE,007BCEBC,extended,00000001
+patch=1,EE,007BCED4,extended,00000001
+patch=1,EE,007BCEEC,extended,00000001
+patch=1,EE,007BCF04,extended,00000001
+patch=1,EE,007BCF1C,extended,00000001
+patch=1,EE,007BCF34,extended,00000001
+patch=1,EE,007BCF4C,extended,00000001
+patch=1,EE,007BCF64,extended,00000001
+patch=1,EE,007BCF7C,extended,00000001
+
+[Cheats/Rank S] 
+patch=1,EE,007BCDE0,extended,00000005
+patch=1,EE,007BCDF8,extended,00000005
+patch=1,EE,007BCE10,extended,00000005
+patch=1,EE,007BCE28,extended,00000005
+patch=1,EE,007BCE40,extended,00000005
+patch=1,EE,007BCE58,extended,00000005
+patch=1,EE,007BCE70,extended,00000005
+patch=1,EE,007BCE88,extended,00000005
+patch=1,EE,007BCEA0,extended,00000005
+patch=1,EE,007BCEB8,extended,00000005
+patch=1,EE,007BCED0,extended,00000005
+patch=1,EE,007BCEE8,extended,00000005
+patch=1,EE,007BCF00,extended,00000005
+patch=1,EE,007BCF18,extended,00000005
+patch=1,EE,007BCF30,extended,00000005
+patch=1,EE,007BCF48,extended,00000005

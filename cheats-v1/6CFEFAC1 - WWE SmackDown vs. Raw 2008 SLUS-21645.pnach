@@ -1,0 +1,47 @@
+[Cheats/Momentum Never Increases Decreases] 
+patch=1,EE,D04E7A20,extended,0000182D
+patch=1,EE,204E7A4C,extended,00000000
+
+[Cheats/Do Not Lose Momentum After Special Move]  
+patch=1,EE,D04E805C,extended,0000802D
+patch=1,EE,204E8070,extended,00000000
+
+[Cheats/Quick Max EXP Gain] 
+patch=1,EE,2023DE48,extended,00000000
+
+[Cheats/P1 Press R1+Select For Hyper Mode ] 
+patch=1,EE,D1CF8782,extended,0000F7FE
+patch=1,EE,2028F9DC,extended,00000000
+
+[Cheats/P1 Press R2+Select For Normal Speed ] 
+patch=1,EE,D1CF8782,extended,0000FDFE
+patch=1,EE,2028F9DC,extended,0060F809
+
+[Cheats/Infinite Time Out Of Ring ] 
+patch=1,EE,D0533568,extended,0000202D
+patch=1,EE,20533580,extended,00000000
+
+[Cheats/Pinning P1 Press L1+Select While Pinning For Instant 3 Count ] 
+patch=1,EE,E001FBFE,extended,01CF8782
+patch=1,EE,20520CD4,extended,00000000
+patch=1,EE,E001FFFF,extended,01CF8782
+patch=1,EE,20520CD4,extended,54900024
+
+[Cheats/Pinning P1 Press L2+Select While Pinning To Reset Pin Count] 
+patch=1,EE,E002FEFE,extended,01CF8782
+patch=1,EE,20520CD0,extended,24040000
+patch=1,EE,20520CD8,extended,AE440060
+patch=1,EE,E002FFFF,extended,01CF8782
+patch=1,EE,20520CD0,extended,8E440060
+patch=1,EE,20520CD8,extended,8E430064
+
+[Cheats/WWE Shop Max WWE Cash ] 
+patch=1,EE,20491C30,extended,3B9AC9FF
+
+[Cheats/Unlock Almost Everything ] 
+patch=1,EE,204AB87C,extended,FFFFFFFF
+
+[Cheats/Have Almost Everything Purchased ] 
+patch=1,EE,204AB880,extended,FFFFFFFF
+patch=1,EE,104AB884,extended,0000FFFF
+

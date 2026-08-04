@@ -1,0 +1,91 @@
+[Cheats/Max Money] 
+patch=1,EE,204C74E8,extended,0098967F
+
+[Cheats/Max PP]  
+patch=1,EE,204C7520,extended,0098967F
+
+[Cheats/Infinite Action Possible] 
+patch=1,EE,20147A44,extended,0000102D
+
+[Cheats/In Battle HP Recovery When HP Is Displayed Press L2 If You Press R2 HP 0] 
+patch=1,EE,200F7000,extended,3C050062
+patch=1,EE,200F7004,extended,94A5CE42
+patch=1,EE,200F7008,extended,30A10100
+patch=1,EE,200F700C,extended,10200006
+patch=1,EE,200F7010,extended,0240202D
+patch=1,EE,200F7014,extended,30A10200
+patch=1,EE,200F7018,extended,10200005
+patch=1,EE,200F701C,extended,0000102D
+patch=1,EE,200F7020,extended,10000004
+patch=1,EE,200F7028,extended,0C09C4F8
+patch=1,EE,200F702C,extended,0000282D
+patch=1,EE,200F7030,extended,A6420022
+patch=1,EE,200F7034,extended,080B42CE
+patch=1,EE,200F7038,extended,0200202D
+patch=1,EE,202D0B34,extended,0803DC00
+
+[Cheats/In Battle Infinite Action Possible If you select standby, the action will end] 
+patch=1,EE,20279564,extended,10000011
+patch=1,EE,202795B0,extended,1000001B
+
+[Cheats/In Battle Max Ally EXP Gauge ach time you gain EXP]
+patch=1,EE,202D07A4,extended,240F270F
+patch=1,EE,202D07B8,extended,A62F0020
+
+[Cheats/Overkill When Doing Damage] 
+patch=1,EE,20185134,extended,00000000
+
+[Cheats/+9999 Exp With Experience Points] 
+patch=1,EE,20188E90,extended,2402270F
+patch=1,EE,20188EB0,extended,2402270F
+patch=1,EE,20188EC0,extended,2402270F
+patch=1,EE,2018A438,extended,240F270F
+patch=1,EE,2018A4A4,extended,240F270F
+
+[Cheats/Uza Shop 99 Pieces If Stock Fluctuates] 
+patch=1,EE,202B6E84,extended,24060063
+patch=1,EE,202B6F88,extended,240F0063
+
+[Cheats/Uza Shop 99 Pieces When The Number Of Possession Changes]
+patch=1,EE,20276250,extended,24060063
+patch=1,EE,20276320,extended,240F0063
+
+[Cheats/After Level Up Max HP 9999] 
+patch=1,EE,202720F8,extended,240F270F
+
+[Cheats/After Level Up Max STR 999] 
+patch=1,EE,20272100,extended,240E03E7
+
+[Cheats/After Level Up Max VIT 999] 
+patch=1,EE,20272108,extended,240F03E7
+
+[Cheats/After Level Up Max INT 999] 
+patch=1,EE,20272110,extended,240E03E7
+
+[Cheats/After Level Up Max MND 999] 
+patch=1,EE,20272118,extended,240F03E7
+
+[Cheats/After Level Up Max SPD 989] 
+patch=1,EE,20272120,extended,240E03E7
+
+[Cheats/When The Number Of Skills Possessed Changes 99 Pieces Skill Extraction Or Skill Set Valid When It Fluctuates] 
+patch=1,EE,202766C8,extended,24120063
+patch=1,EE,202767AC,extended,240F0063
+
+[Cheats/Minigame Step Master Automatic Clear] 
+patch=1,EE,2031A850,extended,10000191
+patch=1,EE,2031AE9C,extended,10000014
+
+[Cheats/La Traviata's Mansion Genie's PP & SKILL & ITEM Display Valid only for already captured demons] 
+patch=1,EE,202E2314,extended,35EF00E0
+patch=1,EE,202E2318,extended,A04F0002
+
+[Cheats/La Traviata's Mansion the number of captured demons is 99 Valid only for already captured demons. By re-entering the hall, the number of demons will be replenished.]  
+patch=1,EE,202D71B4,extended,240D0063
+patch=1,EE,202D71CC,extended,A1CD0002
+
+[Cheats/Unlock All Gallery] 
+patch=1,EE,104DBA06,extended,0000FFFF
+patch=1,EE,204DBA08,extended,FFFFFFFF
+patch=1,EE,204DBA0C,extended,FFFFFFFF
+patch=1,EE,204DBA10,extended,FFFFFFFF

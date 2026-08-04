@@ -1,0 +1,19 @@
+[Cheats/Infinite Cool And Fool Meter] 
+patch=1,EE,2079FC20,extended,0000000A
+
+[Cheats/Max Coins] 
+patch=1,EE,2079CBA4,extended,0001869F
+
+[Cheats/Unlock All Regular Jawbreakers] 
+patch=1,EE,2079C9FC,extended,FFFFFFFF
+patch=1,EE,2079CBA8,extended,FFFFFFFF
+
+[Cheats/Unlock All Vintage Jawbreakers] 
+patch=1,EE,2079CA00,extended,FFFFFFFF
+patch=1,EE,2079CBAC,extended,FFFFFFFF
+
+[Cheats/Unlock All Easter Eggs] 
+patch=1,EE,2079CBB0,extended,FFFFFFFF
+
+[Cheats/Unlock All Costumes] 
+patch=1,EE,2079CBB4,extended,FFFFFFFF

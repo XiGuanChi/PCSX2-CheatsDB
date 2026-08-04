@@ -1,0 +1,47 @@
+[Cheats/1P and 2P Invincible] 
+patch=1,EE,201341E8,extended,100000D9
+
+[Cheats/Infinite Health 1P] 
+patch=1,EE,202A1314,extended,00002710
+patch=1,EE,202A1318,extended,00002710
+
+[Cheats/Infinite Health 2P] 
+patch=1,EE,202C6C44,extended,00002710
+patch=1,EE,202C6C48,extended,00002710
+
+[Cheats/Infinite Jump] 
+patch=1,EE,20132028,extended,00000000
+patch=1,EE,2013202C,extended,24020000
+
+[Cheats/Automatic Orb Collection] 
+patch=1,EE,2018EEDC,extended,00000000
+
+[Cheats/Combo never stops] 
+patch=1,EE,20140C6C,extended,8C8513C4
+
+[Cheats/Change to rampage stateL1+circlle  for rampage L1+× for normal returns to normal when moving to another area] 
+patch=1,EE,2013B66C,extended,8E421420
+patch=1,EE,D040EAC2,extended,0000DBFF
+patch=1,EE,2013B66C,extended,AE521420
+patch=1,EE,D040EA4A,extended,0000BBFF
+patch=1,EE,2013B66C,extended,AE401420
+
+[Cheats/Fast movement 1 1P] 
+patch=1,EE,202A1334,extended,41D19191
+
+[Cheats/Fast movement 2 2P]  
+patch=1,EE,202C6C64,extended,41D19191
+
+[Cheats/Max Reach 1 1p] 
+patch=1,EE,202A1338,extended,42000000
+
+[Cheats/Max Reach 2 2p] 
+patch=1,EE,202C6C68,extended,42000000
+
+[Cheats/Max Experience value obtained by acquiring yellow orbs] 
+patch=1,EE,201153F4,extended,00000000
+
+[Cheats/Unlock All Costumes] 
+patch=1,EE,2027AED0,extended,0000000F
+patch=1,EE,2027AED4,extended,0000000F
+patch=1,EE,2027AED8,extended,0000000F

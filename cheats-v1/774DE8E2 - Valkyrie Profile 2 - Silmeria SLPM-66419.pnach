@@ -1,0 +1,13 @@
+[Cheats/Max Money]  
+patch=1,EE,D04A0FB0,extended,00000003
+patch=1,EE,204A0FB0,extended,00000000
+
+[Cheats/All Items 99] 
+patch=1,EE,2030D078,extended,240F03E7
+patch=1,EE,2030D07C,extended,0080702D
+patch=1,EE,2030D080,extended,240D0063
+patch=1,EE,2030D084,extended,A1CD0002
+patch=1,EE,2030D088,extended,25EFFFFF
+patch=1,EE,2030D08C,extended,15E0FFFD
+patch=1,EE,2030D090,extended,25CE0004
+

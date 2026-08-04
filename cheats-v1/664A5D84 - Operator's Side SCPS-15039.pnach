@@ -1,0 +1,17 @@
+[Cheats/Infinite Health]  
+patch=1,EE,2072FF98,extended,000003E8
+
+[Cheats/Heal Capsule 99] 
+patch=1,EE,2072FFD8,extended,00000063
+
+[Cheats/Launcher Bullet 99] 
+patch=1,EE,2072FFF8,extended,00000063
+
+[Cheats/16 Chips] 
+patch=1,EE,20730038,extended,00000010
+
+[Cheats/Bonus Menu High Score Max THE READ JAPANESE] 
+patch=1,EE,20730398,extended,000F423F
+
+[Cheats/Eggplant Menu High Score Max THE READ ENGLISH] 
+patch=1,EE,207303B8,extended,000F423F

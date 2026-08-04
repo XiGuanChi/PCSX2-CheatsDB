@@ -1,0 +1,33 @@
+[Cheats/Max EN & SP] 
+patch=1,EE,20239B74,extended,84820368
+patch=1,EE,20239B78,extended,10400028
+patch=1,EE,20239B7C,extended,8C880364
+patch=1,EE,20239B84,extended,10000023
+patch=1,EE,20239B88,extended,AC880368
+patch=1,EE,20239C14,extended,34030064
+
+[Cheats/When attacking EN & SP Max Angel team only] 
+patch=1,EE,20239C58,extended,8E030364
+patch=1,EE,20239C5C,extended,AE030368
+
+[Cheats/No SP consumption when using Special Moves Angel Corps only] 
+patch=1,EE,20239D18,extended,10000005
+
+[Cheats/HP Damage Null + 1 Hit Kill ON ALSO FOR  friendly units that cannot be commanded] 
+patch=1,EE,202383AC,extended,86230368
+patch=1,EE,202383C0,extended,54400001
+
+[Cheats/Favorability rating 100 Mille-feuille] 
+patch=1,EE,2095E580,extended,00000064
+
+[Cheats/Favorability rating 100 Ranphe] 
+patch=1,EE,2095E5B0,extended,00000064
+
+[Cheats/Favorability rating 100 Mint] 
+patch=1,EE,2095E5E0,extended,00000064
+
+[Cheats/Favorability rating 100 Forte] 
+patch=1,EE,2095E610,extended,00000064
+
+[Cheats/Favorability rating 100 Vanilla] 
+patch=1,EE,2095E640,extended,00000064

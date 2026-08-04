@@ -1,0 +1,42 @@
+[Cheats/Infinite Time] 
+patch=1,EE,203700AC,extended,00000F85
+
+[Cheats/Player 1 Start On Lap 4] 
+patch=1,EE,D0372388,extended,00000000
+patch=1,EE,20372388,extended,00030003
+
+[Cheats/Unlock Gallery]  
+patch=1,EE,2043160C,extended,00000001
+patch=1,EE,204315B8,extended,00000001
+patch=1,EE,2043175C,extended,00000001
+patch=1,EE,20431708,extended,00000001
+patch=1,EE,20431660,extended,00000001
+patch=1,EE,204316B4,extended,00000001
+patch=1,EE,20431954,extended,00000001
+patch=1,EE,20431858,extended,00000001
+patch=1,EE,204318AC,extended,00000001
+patch=1,EE,20431900,extended,00000001
+patch=1,EE,20431804,extended,00000001
+patch=1,EE,204319FC,extended,00000001
+patch=1,EE,204319A8,extended,00000001
+patch=1,EE,20431B4C,extended,00000001
+patch=1,EE,20431AF8,extended,00000001
+patch=1,EE,20431A50,extended,00000001
+patch=1,EE,20431AA4,extended,00000001
+patch=1,EE,20431D44,extended,00000001
+patch=1,EE,20431C48,extended,00000001
+patch=1,EE,20431C9C,extended,00000001
+patch=1,EE,20431CF0,extended,00000001
+patch=1,EE,20431D98,extended,00000001
+patch=1,EE,20431DEC,extended,00000001
+patch=1,EE,20431E40,extended,00000001
+patch=1,EE,204321DC,extended,00000001
+patch=1,EE,20432188,extended,00000001
+patch=1,EE,2043232C,extended,00000001
+patch=1,EE,204322D8,extended,00000001
+patch=1,EE,20432230,extended,00000001
+patch=1,EE,20432284,extended,00000001
+patch=1,EE,20432524,extended,00000001
+patch=1,EE,20432428,extended,00000001
+patch=1,EE,2043247C,extended,00000001
+patch=1,EE,204324D0,extended,00000001

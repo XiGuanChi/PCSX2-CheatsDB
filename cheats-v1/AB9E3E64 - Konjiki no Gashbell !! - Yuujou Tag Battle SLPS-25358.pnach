@@ -1,0 +1,23 @@
+[Cheats/Growth Point 999999 Gash] 
+patch=1,EE,2046F2C4,extended,497423F0
+
+[Cheats/Infinite Health 1P] 
+patch=1,EE,11602E42,extended,00004347
+
+[Cheats/No Health 2P 0 Press L3+R3] 
+patch=1,EE,D045F342,extended,0000FFF9
+patch=1,EE,11629EE2,extended,0000BF80
+
+[Cheats/Infinite Health 1P Press R2+R2] 
+patch=1,EE,D045F342,extended,0000FCFF
+patch=1,EE,11602E42,extended,00004347
+
+[Cheats/Unlock All Characters Mission Mode]
+patch=1,EE,0046F7D4,extended,000000FF
+
+[Cheats/Unlock All Extra Mode]  
+patch=1,EE,4047B450,extended,000C0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,00460DB4,extended,000000FF
+patch=1,EE,00460DBC,extended,000000FF
+patch=1,EE,20460DB0,extended,FFFFFFFF

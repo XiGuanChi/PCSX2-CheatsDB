@@ -1,0 +1,29 @@
+[Cheats/Infinite Lives] 
+patch=1,EE,2034BDEC,extended,00000063
+
+[Cheats/Max Treasure] 
+patch=1,EE,2034BE3C,extended,000003E7
+
+[Cheats/Have All Powers] 
+patch=1,EE,2034BF90,extended,FFFFFFFF
+
+[Cheats/Infinite Time Timed Missions] 
+patch=1,EE,201BB610,extended,00000000
+patch=1,EE,201BB618,extended,00000000
+patch=1,EE,201BA748,extended,00000000
+
+[Cheats/Unlock Warp To Level] 
+patch=1,EE,0034C0DD,extended,00000001
+patch=1,EE,0034C0DE,extended,00000001
+patch=1,EE,0034C0DF,extended,00000001
+patch=1,EE,0034C0E0,extended,00000001
+patch=1,EE,0034C0E1,extended,00000001
+patch=1,EE,0034C0E2,extended,00000001
+patch=1,EE,0034C0E3,extended,00000001
+patch=1,EE,0034C0E4,extended,00000001
+
+[Cheats/Changes Pause Menu Into Debug Menu] 
+patch=1,EE,202C73A8,extended,0000002D
+
+[Cheats/Enables Level Select Menu After The Press Start Screen] 
+patch=1,EE,202C7A94,extended,00000023	

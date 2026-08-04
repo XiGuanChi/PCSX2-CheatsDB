@@ -1,0 +1,78 @@
+[Cheats/Max AP Player 1] 
+patch=1,EE,2082AF58,extended,05F5E0FF
+
+[Cheats/Max AP Player 2] 
+patch=1,EE,2084038C,extended,05F5E0FF
+
+[Cheats/Max AP Player 3] 
+patch=1,EE,208557C0,extended,05F5E0FF
+
+[Cheats/Max AP Player 4] 
+patch=1,EE,2086ABF4,extended,05F5E0FF
+
+[Cheats/1st Player Max Status If you do not use the trick code, your status will decrease] 
+patch=1,EE,2082D658,extended,0F0F0F0F 
+patch=1,EE,2082D65C,extended,0F0F0F0F 
+patch=1,EE,2082D660,extended,0F0F0F0F 
+patch=1,EE,2082D664,extended,0F0F0F0F
+patch=1,EE,2082D668,extended,0F0F0F0F 
+patch=1,EE,2082D66C,extended,0F0F0F0F 
+patch=1,EE,2082D670,extended,0F0F0F0F 
+patch=1,EE,1082D674,extended,00000F0F
+
+[Cheats/Max Freshman Test] 
+patch=1,EE,2018B3EC,extended,10000012
+
+[Cheats/Max Scout Recruits] 
+patch=1,EE,2018C1EC,extended,10000012
+
+[Cheats/Max Transfer Negotiation] 
+patch=1,EE,2018D468,extended,10000013
+
+[Cheats/Max Coach Employment] 
+patch=1,EE,20185254,extended,1000000A
+
+[Cheats/Max Business Partnership] 
+patch=1,EE,20190BF4,extended,1000000A
+
+[Cheats/Max Facility Expansion] 
+patch=1,EE,20174F7C,extended,10000016
+
+[Cheats/Max Vacation] 
+patch=1,EE,20191BDC,extended,1000000C
+
+[Cheats/Max Autograph Session] 
+patch=1,EE,2017CA84,extended,10000004
+patch=1,EE,2017CAAC,extended,10000014
+
+[Cheats/Max Publicity] 
+patch=1,EE,20192840,extended,1000000B
+
+[Cheats/Transfer Negotiation Surely Succeeded] 
+patch=1,EE,2018D8A0,extended,24020000
+
+[Cheats/First Player Max Status] 
+patch=1,EE,4082D658,extended,00070001
+patch=1,EE,0F0F0F0F,extended,00000000
+patch=1,EE,1082D674,extended,00000F0F
+
+[Cheats/First Player Trust 100] 
+patch=1,EE,0082D676,extended,00000064
+
+[Cheats/First Player Infinite HP] 
+patch=1,EE,108ED65C,extended,000003E7
+patch=1,EE,108ED662,extended,000003E7
+
+[Cheats/First Player Infinite ARM] 
+patch=1,EE,108ED65E,extended,000003E7
+patch=1,EE,108ED664,extended,000003E7
+
+[Cheats/First Player Infinite LEG] 
+patch=1,EE,108ED660,extended,000003E7
+patch=1,EE,108ED666,extended,000003E7
+
+[Cheats/Unlock All Gallery]  
+patch=1,EE,408B5E48,extended,00180001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,408B5F10,extended,00320001
+patch=1,EE,01010101,extended,00000000

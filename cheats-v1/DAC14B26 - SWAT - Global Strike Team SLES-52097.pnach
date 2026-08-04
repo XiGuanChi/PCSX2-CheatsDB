@@ -1,0 +1,25 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2028E808,extended,10000007
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20178BA8,extended,00000000
+
+[Cheats/God Mode & Infinite Ammo] 
+patch=1,EE,10444EE8,extended,0000FFFF
+
+[Cheats/Infinite Continues] 
+patch=1,EE,01B2D2D9,extended,00000063
+
+[Cheats/Unlock All Levels]  
+patch=1,EE,201DACA8,extended,A04103CC
+patch=1,EE,201DAC1C,extended,A041010C
+patch=1,EE,201C13C0,extended,0803FFD0
+patch=1,EE,200FFF44,extended,03E00008
+patch=1,EE,200FFF40,extended,24010001
+
+[Cheats/Unlock All Medals]  
+patch=1,EE,201DA2D8,extended,24010001
+patch=1,EE,201DA2DC,extended,A0A2010D
+
+[Cheats/Debug Menuenter the option menu in game then quit it to access the debug menu. press start to quit] 
+patch=1,EE,203BAF08,extended,8C454F0C

@@ -1,0 +1,75 @@
+[Cheats/No Damage on Normal] 
+patch=1,EE,20338038,extended,00000000
+
+[Cheats/No Damage on Hard] 
+patch=1,EE,20338044,extended,00000000
+
+[Cheats/No Damage on God Mode] 
+patch=1,EE,20338050,extended,00000000
+
+[Cheats/No Damage on Easy] 
+patch=1,EE,2033802C,extended,00000000
+
+[Cheats/1 Hit Kill on Easy] 
+patch=1,EE,20338028,extended,4F000000
+patch=1,EE,20338030,extended,4F000000
+
+[Cheats/Enable All Magic] 
+patch=1,EE,10304dc2,extended,0000FFFF
+
+[Cheats/Infinite Magic Energy] 
+patch=1,EE,20304D9C,extended,42C80000
+
+[Cheats/Infinite Rage of the Gods] 
+patch=1,EE,20304DA0,extended,42C80000
+
+[Cheats/Max Level] 
+patch=1,EE,20304DA8,extended,00007530
+
+[Cheats/Infinite 500 Timer Seconds] 
+patch=1,EE,203371F8,extended,43FA0000
+patch=1,EE,203371FC,extended,43FA0000
+patch=1,EE,20337208,extended,43FA0000
+patch=1,EE,2033720C,extended,43FA0000
+
+[Cheats/Refill Health For Your Family] 
+patch=1,EE,200C0220,extended,8E61017C
+patch=1,EE,200C0224,extended,AE610178
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,8E700000
+patch=1,EE,D02FFB1C,extended,0000FBBF
+patch=1,EE,201B55CC,extended,0C030088
+patch=1,EE,D02FFB1C,extended,0010FBBF
+patch=1,EE,201B55CC,extended,8E700000
+
+[Cheats/Have All Power-Ups] 
+patch=1,EE,4073E8B4,extended,00050001
+patch=1,EE,00000002,extended,00000000
+patch=1,EE,2073E8C8,extended,00000005
+
+[Cheats/Press D-Pad Down+L1 To Activate Save] 
+patch=1,EE,D02FFB1C,extended,0000FBBF
+patch=1,EE,0029D8CC,extended,00000001
+
+[Cheats/Have All GorgOn Eyes] 
+patch=1,EE,00304DBF,extended,00000018
+
+[Cheats/Have All Phoenix Feathers] 
+patch=1,EE,00304DC0,extended,00000018
+
+[Cheats/Have All Muse Keys] 
+patch=1,EE,00304DC1,extended,00000002
+
+[Cheats/Have All Powerups And Moves] 
+patch=1,EE,10304DC2,extended,0000FFFF
+
+[Cheats/Athena's Blades Use the golden blades of the end of the game but at the beginning]
+patch=1,EE,2067F3D0,extended,00000005
+patch=1,EE,2067F3D4,extended,00000005
+patch=1,EE,2067F3D8,extended,00000005
+patch=1,EE,20680E10,extended,00000005
+patch=1,EE,20680E68,extended,00000005
+patch=1,EE,2070A608,extended,00000005
+
+[Cheats/Unlock All Treasures] 
+patch=1,EE,202A3058,extended,FFFFFFFF

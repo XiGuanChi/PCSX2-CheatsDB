@@ -1,0 +1,30 @@
+[Cheats/Shana Max Likeability]  
+patch=1,EE,10305E26,extended,00000064
+
+[Cheats/Kazumi Yoshida Max Likeability] 
+patch=1,EE,10305E28,extended,00000064
+
+[Cheats/In battle Max Shana] 
+patch=1,EE,D02642D0,extended,00000100
+patch=1,EE,203276FC,extended,07D007D0
+
+[Cheats/In battle Max Shana Presence Noriyuki force] 
+patch=1,EE,20327700,extended,00060006
+
+[Cheats/In battle Max Shana Flame]  
+patch=1,EE,20327704,extended,000C000C
+
+[Cheats/In battle Enemy 0] 
+patch=1,EE,D02642D0,extended,00000100
+patch=1,EE,203277A4,extended,00000000
+
+[Cheats/Unlock All Album] 
+patch=1,EE,20304860,extended,FFFFFFFF
+patch=1,EE,20304864,extended,FFFFFFFF
+
+[Cheats/Unlock All Sound]  
+patch=1,EE,20305AC0,extended,FFFFFFFF
+
+[Cheats/Unlock All Battle]  
+patch=1,EE,10305B10,extended,0000FFFF
+

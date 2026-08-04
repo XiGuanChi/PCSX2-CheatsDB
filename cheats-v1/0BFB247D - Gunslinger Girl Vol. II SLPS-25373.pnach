@@ -1,0 +1,23 @@
+[Cheats/Infinite HP] 
+patch=1,EE,2017047C,extended,00000000
+
+[Cheats/Infinite C gauge] 
+patch=1,EE,20170464,extended,00000000
+
+[Cheats/Invincible] 
+patch=1,EE,20171084,extended,00000000
+
+[Cheats/Infinte bullets L1+Select] 
+patch=1,EE,D031B882,extended,0000FBFE
+patch=1,EE,20171C30,extended,00000000
+patch=1,EE,D031B882,extended,0000FBFE
+patch=1,EE,201796C0,extended,00000000
+patch=1,EE,D031B882,extended,0000F7FE
+patch=1,EE,20171C30,extended,00501023
+patch=1,EE,D031B882,extended,0000F7FE
+
+[Cheats/Unlock All Stages & Costumes] 
+patch=1,EE,00317053,extended,00000008
+patch=1,EE,0031747A,extended,00000001
+patch=1,EE,20317474,extended,01010101
+patch=1,EE,10317478,extended,00000101

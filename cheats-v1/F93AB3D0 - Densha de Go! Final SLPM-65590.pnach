@@ -1,0 +1,65 @@
+[Cheats/Max Poinrs with one point change] 
+patch=1,EE,20164ABC,extended,00010821
+
+[Cheats/No Infractions] 
+patch=1,EE,20164B44,extended,10210100
+
+[Cheats/Infinite Life Not Decreased By Infractions] 
+patch=1,EE,20164EDC,extended,1021001A
+
+[Cheats/Unlock ATS]  
+patch=1,EE,20151D80,extended,10210003
+
+[Cheats/Unlock ATC]  
+patch=1,EE,2014F9FC,extended,1021001E
+
+[Cheats/Stop Position When In Pass Range always FANTASIC or higher No effect in Enjoy Mode] 
+patch=1,EE,202BA9C8,extended,40A00000
+patch=1,EE,202BA9CC,extended,40A00000
+patch=1,EE,202BA9E0,extended,40A00000
+patch=1,EE,202BA9E4,extended,40A00000
+patch=1,EE,202BA9F8,extended,40800000
+patch=1,EE,202BA9FC,extended,40800000
+patch=1,EE,202BAA10,extended,40400000
+patch=1,EE,202BAA14,extended,40400000
+patch=1,EE,202BAA28,extended,40000000
+patch=1,EE,202BAA2C,extended,40000000
+
+[Cheats/No Running Resistance] 
+patch=1,EE,2014E098,extended,00000000
+patch=1,EE,2014E988,extended,44806000
+patch=1,EE,2014E9A4,extended,44806000
+patch=1,EE,2014E9E0,extended,44806000
+patch=1,EE,2014EA00,extended,44806000
+
+[Cheats/Unlock All Timetables And Routes] 
+patch=1,EE,201A130C,extended,10000011
+
+[Cheats/Unlock All Timetables And Split Routes Cleared] 
+patch=1,EE,2019F550,extended,14000005
+
+[Cheats/Unlock All Timetables And Routes Cleared] 
+patch=1,EE,2019F5F0,extended,00002021
+patch=1,EE,2019F628,extended,14000005
+patch=1,EE,201A0904,extended,14000007
+
+[Cheats/Unlock All Timetables Yamanote Line Venus] 
+patch=1,EE,201C04C0,extended,24030004
+patch=1,EE,201C1988,extended,24020004
+
+[Cheats/Unlock All Schedules Chuo Line Venus]
+patch=1,EE,201C0470,extended,24030004
+patch=1,EE,201C1A64,extended,24020004
+
+[Cheats/Unlock All Schedules Osaka Loop Line Venus]
+patch=1,EE,201C1B44,extended,24020004
+
+[Cheats/Unlock All Schedules Tokaido Line Venus]
+patch=1,EE,201C1C24,extended,24020004
+
+[Cheats/Unlock All Schedules High Score 999999] 
+patch=1,EE,2019E97C,extended,3C14000F
+patch=1,EE,2019E980,extended,3694423F
+
+[Cheats/Unlock All Movies No reflected in save data] 
+patch=1,EE,201998A8,extended,14000017

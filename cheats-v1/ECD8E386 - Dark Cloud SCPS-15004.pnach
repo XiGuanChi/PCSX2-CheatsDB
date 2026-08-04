@@ -1,0 +1,23 @@
+[Cheats/Max Gilda]  
+patch=1,EE,001ECE9C,extended,00000000
+
+[Cheats/Infinite Repair Strengthening Powder] 
+patch=1,EE,2022AD80,extended,03E00008
+
+[Cheats/Recovery Status At Any Time] 
+patch=1,EE,201B060C,extended,00000000
+patch=1,EE,201B061C,extended,00000000
+
+[Cheats/Max Fishing Points] 
+patch=1,EE,20157944,extended,00000000
+patch=1,EE,2015797C,extended,00000000
+
+[Cheats/Run-time debug menu This enables you to view events, jump to any map, enter dungeons, change the language of the game, or simply start the game normally] 
+patch=1,EE,001410D0,extended,00000007
+patch=1,EE,20140A28,extended,10000005
+
+
+
+
+
+

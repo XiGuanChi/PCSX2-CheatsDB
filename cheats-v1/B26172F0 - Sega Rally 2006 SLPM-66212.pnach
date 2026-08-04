@@ -1,0 +1,26 @@
+[Cheats/Max Cr 99999999 Career mode] 
+patch=1,EE,20BD2B24,extended,05F5E0FF
+
+[Cheats/Freeze Time] 
+patch=1,EE,003849A6,extended,00000132
+
+[Cheats/Max Remaining Time Press SELECT] 
+patch=1,EE,D0414914,extended,00000001
+patch=1,EE,203849A4,extended,42C60000
+
+[Cheats/Unlock All Time Trial Stages] 
+patch=1,EE,202707DC,extended,3C020000
+
+[Cheats/Unlock All Arcade Stages] 
+patch=1,EE,20270AB4,extended,3C030000
+patch=1,EE,202709FC,extended,3C020000
+
+[Cheats/Unlock All Arcade Cars] 
+patch=1,EE,20BD5A78,extended,00000400
+patch=1,EE,20BD5A7C,extended,01000800
+patch=1,EE,20BD5A80,extended,05000600
+patch=1,EE,20BD5A84,extended,02000300
+patch=1,EE,20BD5A88,extended,09000800
+patch=1,EE,20BD5A8C,extended,0B000A00
+patch=1,EE,20BD5A90,extended,0D000C00
+patch=1,EE,20BD5A94,extended,0000FF00

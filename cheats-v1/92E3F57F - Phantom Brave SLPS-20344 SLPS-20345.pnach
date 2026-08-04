@@ -1,0 +1,31 @@
+[Cheats/Max Bol After Selling Item] 
+patch=1,EE,201DEB84,extended,00000000
+
+[Cheats/Max Treatment and Mana] 
+patch=1,EE,201761EC,extended,24990094
+patch=1,EE,201761F0,extended,3C120098
+patch=1,EE,201761F4,extended,3652967F
+patch=1,EE,2017621C,extended,AF320000
+
+[Cheats/Infinite Move]  
+patch=1,EE,201A8F50,extended,C6020614
+patch=1,EE,201A8F54,extended,E6020618
+
+[Cheats/Infinite Attack]  
+patch=1,EE,201A95F4,extended,A200086B
+
+[Cheats/Stage Clear Anytime Press Triangle] 
+patch=1,EE,200F4050,extended,3C020025
+patch=1,EE,200F4054,extended,944211C4
+patch=1,EE,200F4058,extended,30420010
+patch=1,EE,200F405C,extended,10400003
+patch=1,EE,200F4064,extended,0806B23E
+patch=1,EE,200F406C,extended,0806B1FF
+patch=1,EE,200F4070,extended,84229E08
+patch=1,EE,201AC7F8,extended,0803D014
+
+[Cheats/Enable Developer Mode This mode will activate hidden menus normally not accessible, enable debug displays, and allow you to open a debug menu at anytime with a second controller. ] 
+patch=1,EE,201004A0,extended,8F848810
+patch=1,EE,201004A4,extended,34840002
+patch=1,EE,201004A8,extended,1000000B
+patch=1,EE,201004AC,extended,AF848810

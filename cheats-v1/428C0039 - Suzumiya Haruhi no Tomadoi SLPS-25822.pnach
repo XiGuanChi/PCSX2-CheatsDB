@@ -1,0 +1,35 @@
+[Cheats/Have 9999 Preparedness points] 
+patch=1,EE,2068221C,extended,0000270F
+
+[Cheats/Motivation 99999] 
+patch=1,EE,20682218,extended,0001869F
+
+[Cheats/Unlock All Gallery]  
+patch=1,EE,00681C90,extended,00000003
+patch=1,EE,40681C68,extended,000A0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock Everything] 
+patch=1,EE,E0150000,extended,0068AD2C
+patch=1,EE,1068AD3C,extended,00000101
+patch=1,EE,0068AD3E,extended,00000001
+patch=1,EE,1068C21A,extended,00000101
+patch=1,EE,4068C220,extended,001A0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,1068C284,extended,00000101
+patch=1,EE,0068C286,extended,00000001
+patch=1,EE,1068A978,extended,00000101
+patch=1,EE,1068AD2E,extended,00000101
+patch=1,EE,0068AD34,extended,00000001
+patch=1,EE,2068AD30,extended,01010101
+patch=1,EE,0068AD47,extended,00000001
+patch=1,EE,1068AD48,extended,00000101
+patch=1,EE,1068AD52,extended,00000101
+patch=1,EE,0068AD54,extended,00000001
+patch=1,EE,0068AD5D,extended,00000001
+patch=1,EE,1068AD5E,extended,00000101
+patch=1,EE,1068AD68,extended,00000101
+patch=1,EE,0068AD6A,extended,00000001
+patch=1,EE,0068AD73,extended,00000001
+patch=1,EE,1068AD74,extended,00000101
+

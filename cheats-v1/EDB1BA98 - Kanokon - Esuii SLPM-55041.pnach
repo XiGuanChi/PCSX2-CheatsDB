@@ -1,0 +1,14 @@
+[Cheats/Unlock Bonus Menu Added To Main Menu] 
+patch=1,EE,21AF1128,extended,00000001
+
+[Cheats/Unlock All Ending And Free Talk] 
+patch=1,EE,0043F0D6,extended,000000FF
+
+[Cheats/Unlock All CG] 
+patch=1,EE,20146700,extended,240E0001
+patch=1,EE,20146704,extended,A1EE0000
+
+[Cheats/Unlock All Scene List] 
+patch=1,EE,2010D3E0,extended,240BFFFF
+patch=1,EE,2010D3E4,extended,A1CB0000
+patch=1,EE,2010D3E8,extended,24020001

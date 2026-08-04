@@ -1,0 +1,62 @@
+[Cheats/Infinite Gil] 
+patch=1,EE,1031A028,extended,0000FFFF
+
+[Cheats/Infinite HP In Battle] 
+patch=1,EE,201C86D8,extended,2402270F
+patch=1,EE,201C86DC,extended,AC62027C
+
+[Cheats/Infinite MP In Battle] 
+patch=1,EE,201C86EC,extended,2402270F
+patch=1,EE,201C86F0,extended,AC620280
+
+[Cheats/Always Max Overdrive Meter In Battle] 
+patch=1,EE,200C0220,extended,240200FF
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,A0620268
+patch=1,EE,201B4AC4,extended,08030088
+
+[Cheats/Al Bhed Dialogue Translated] 
+patch=1,EE,20319FF0,extended,03FFFFFF
+
+[Cheats/Max Status All Characters & Summons] 
+patch=1,EE,201BD958,extended,2401FFFF
+patch=1,EE,201BD96C,extended,00621021
+patch=1,EE,201BD970,extended,AC41000C
+patch=1,EE,201BD978,extended,AC410010
+
+[Cheats/Max HP, MP and Limit Break All Characters] 
+patch=1,EE,201BE130,extended,AFC60004
+patch=1,EE,201BE170,extended,AFC60008
+
+[Cheats/Break Damage Limit All Characters] 
+patch=1,EE,201C1350,extended,3C0B3B9A
+patch=1,EE,201C1354,extended,3C0B3B9A
+
+[Cheats/Have All Monsters Captured In Spira] 
+patch=1,EE,4031A4EC,extended,00240001
+patch=1,EE,0A0A0A0A,extended,00000000
+
+[Cheats/Have All Overdrives] 
+patch=1,EE,2031A04C,extended,FFFFFFFF
+patch=1,EE,2031A050,extended,FFFFFFFF
+patch=1,EE,2031A054,extended,FFFFFFFF
+
+[Cheats/Open All Locations On Airship] 
+patch=1,EE,00316F61,extended,000000FF
+patch=1,EE,1031A058,extended,0000FFFF
+
+[Cheats/No Random Battles] 
+patch=1,EE,00314227,extended,00000000
+
+[Cheats/S Level 98 All Characters] 
+patch=1,EE,201BC1D0,extended,0080102D
+patch=1,EE,201BD8C0,extended,0806F066
+
+[Cheats/Chocobo Race Always Low Time] 
+patch=1,EE,10BDB100,extended,00000000
+
+[Cheats/Chocobo Race Max Balloons] 
+patch=1,EE,00BDB123,extended,00000063
+
+[Cheats/Chocobo Race No Birds] 
+patch=1,EE,00BDB125,extended,00000000

@@ -1,0 +1,16 @@
+[Cheats/Max Gauge] 
+patch=1,EE,20138FA0,extended,10000062
+
+[Cheats/Unlock All songs] 
+patch=1,EE,20F4AF50,extended,FFFFFFFF
+
+[Cheats/Unlock All] 
+patch=1,EE,20138FA0,extended,10000062
+patch=1,EE,20F4B378,extended,FFFFFFFF
+patch=1,EE,20F4B37C,extended,FFFFFFFF
+patch=1,EE,20F4B380,extended,000FFFFF
+patch=1,EE,10F4AE76,extended,000007FF
+patch=1,EE,10F8E6A6,extended,000001FF
+patch=1,EE,10F8E6B0,extended,00001FFF
+patch=1,EE,00F8E6AA,extended,0000001F
+patch=1,EE,00F8E6AC,extended,0000001F

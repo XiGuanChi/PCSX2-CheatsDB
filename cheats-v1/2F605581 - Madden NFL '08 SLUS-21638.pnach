@@ -1,0 +1,11 @@
+[Cheats/Cannot be Tackled Hold R1] 
+patch=1,EE,2049E4C0,extended,27BDFF90
+patch=1,EE,204E46A4,extended,104000A3
+patch=1,EE,D0958D11,extended,02310000
+patch=1,EE,2049E4C0,extended,03E00008
+patch=1,EE,204E46A4,extended,100000A3
+
+[Cheats/Change Possession After Play Hold L1]  
+patch=1,EE,205BD34C,extended,10400020
+patch=1,EE,D0958D10,extended,01310000
+patch=1,EE,205BD34C,extended,100000CB

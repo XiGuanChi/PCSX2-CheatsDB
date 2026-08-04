@@ -1,0 +1,63 @@
+[Cheats/Infinite Health] 
+patch=1,EE,206607A0,extended,2403270F
+patch=1,EE,206607A8,extended,AE030544
+
+[Cheats/Infinite Health alt] 
+patch=1,EE,E0023881,extended,00660794
+patch=1,EE,206607A0,extended,2403270F
+patch=1,EE,206607A8,extended,AE030544
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,D05B1FC8,extended,00001E3C
+patch=1,EE,205B1FDC,extended,00000000
+
+[Cheats/Infinite Time] 
+patch=1,EE,D068C71C,extended,00001821
+patch=1,EE,2068C724,extended,00000000
+
+[Cheats/1 Hit Deaths Enemies]  
+patch=1,EE,206407A0,extended,A6620138
+
+[Cheats/1 Hit Deaths Enemies alt]  
+patch=1,EE,D0640794,extended,0000882D
+patch=1,EE,206407A0,extended,A6620138
+
+[Cheats/Infinite Item Usage] 
+patch=1,EE,205B215C,extended,00000000
+patch=1,EE,205B2170,extended,00000000
+patch=1,EE,205B5184,extended,00000000
+
+[Cheats/Don't Become A Zombie Over Time] 
+patch=1,EE,D0667DF4,extended,00009F8C
+patch=1,EE,20667DFC,extended,00000000
+
+[Cheats/Don't Become A Zombie When Bitten] 
+patch=1,EE,D06600FC,extended,00009FCC
+patch=1,EE,20660100,extended,00000000
+
+[Cheats/P1 Press L1+Select For Infection 100%] 
+patch=1,EE,D02AFE9C,extended,0000FBFE
+patch=1,EE,20667DC8,extended,24900000
+patch=1,EE,D02AFE9C,extended,0000FFFF
+patch=1,EE,20667DC8,extended,4410B800
+
+[Cheats/Unlock All NPC's] 
+patch=1,EE,4031F1EC,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock Infinity Mode] 
+patch=1,EE,2031F1FC,extended,FFFFFFFF
+
+[Cheats/Unlock All Scenarios]  
+patch=1,EE,20323260,extended,FFFFFFFF
+
+[Cheats/Unlock All Costumes] 
+patch=1,EE,2031F1E4,extended,FFFFFFFF
+patch=1,EE,2031F1E8,extended,FFFFFFFF
+
+[Cheats/Max Reward Points] 
+patch=1,EE,2031F1E0,extended,05F5E0FF
+
+[Cheats/Have All Collection Purchased] 
+patch=1,EE,403232D4,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000

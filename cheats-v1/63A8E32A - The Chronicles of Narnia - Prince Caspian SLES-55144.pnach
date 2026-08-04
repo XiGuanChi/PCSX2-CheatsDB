@@ -1,0 +1,15 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2056BFCC,extended,00000001
+
+[Cheats/1 Hit Kill Enemy] 
+patch=1,EE,2056C11C,extended,00000001
+
+[Cheats/Save Anytime Press Select] 
+patch=1,EE,D1FA8F42,extended,0000FFFE
+patch=1,EE,2056C12F,extended,00000001
+
+[Cheats/Unlock All Levels Needs a savegame] 
+patch=1,EE,2056BFF8,extended,00000001
+
+[Cheats/Unlock Everything Needs a savegame] 
+patch=1,EE,2056BFF7,extended,00000001

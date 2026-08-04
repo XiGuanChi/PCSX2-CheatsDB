@@ -1,0 +1,136 @@
+[Cheats/Activator MUST BE ON]  
+patch=1,EE,200A0000,extended,3C150083
+patch=1,EE,200A0004,extended,86B628BA
+patch=1,EE,200A0008,extended,2017008E
+patch=1,EE,200A000C,extended,12D7002B
+patch=1,EE,200A0014,extended,3C15007E
+patch=1,EE,200A0018,extended,86B6533A
+patch=1,EE,200A001C,extended,20170094
+patch=1,EE,200A0020,extended,12D70028
+patch=1,EE,200A0028,extended,3C150083
+patch=1,EE,200A002C,extended,86B675EA
+patch=1,EE,200A0030,extended,2017008D
+patch=1,EE,200A0034,extended,12D7004A
+patch=1,EE,200A003C,extended,3C150084
+patch=1,EE,200A0040,extended,86B6F3EA
+patch=1,EE,200A0044,extended,20170090
+patch=1,EE,200A0048,extended,12D70047
+patch=1,EE,200A0050,extended,3C150086
+patch=1,EE,200A0054,extended,86B6D3EA
+patch=1,EE,200A0058,extended,2017008F
+patch=1,EE,200A005C,extended,12D70044
+patch=1,EE,200A0060,extended,00000000
+patch=1,EE,200A0064,extended,3C15008C
+patch=1,EE,200A0068,extended,86B6F4DA
+patch=1,EE,200A006C,extended,20170091
+patch=1,EE,200A0070,extended,12D70041
+patch=1,EE,200A0078,extended,3C150088
+patch=1,EE,200A007C,extended,86B67CEA
+patch=1,EE,200A0080,extended,20170092
+patch=1,EE,200A0084,extended,12D7003E
+patch=1,EE,200A008C,extended,3C150088
+patch=1,EE,200A0090,extended,86B67C6A
+patch=1,EE,200A0094,extended,20170093
+patch=1,EE,200A0098,extended,12D7003B
+patch=1,EE,200A00A0,extended,00000000
+patch=1,EE,200A00A4,extended,00000000
+patch=1,EE,200A00A8,extended,00000000
+patch=1,EE,200A00AC,extended,00000000
+patch=1,EE,200A00B4,extended,1000005C
+patch=1,EE,200A00BC,extended,10000002
+patch=1,EE,200A00C0,extended,8EB528B8
+patch=1,EE,200A00C4,extended,8EB55338
+patch=1,EE,200A0158,extended,10000033
+patch=1,EE,200A0160,extended,1000000C
+patch=1,EE,200A0164,extended,8EB575E8
+patch=1,EE,200A0168,extended,1000000A
+patch=1,EE,200A016C,extended,8EB5F3E8
+patch=1,EE,200A0170,extended,10000008
+patch=1,EE,200A0174,extended,8EB5D3E8
+patch=1,EE,200A0178,extended,10000006
+patch=1,EE,200A017C,extended,8EB5F4D8
+patch=1,EE,200A0180,extended,10000004
+patch=1,EE,200A0184,extended,8EB57CE8
+patch=1,EE,200A0188,extended,10000002
+patch=1,EE,200A018C,extended,8EB57C68
+patch=1,EE,200A0190,extended,00000000
+patch=1,EE,200A0194,extended,00000000
+patch=1,EE,200A0228,extended,DFB10080
+patch=1,EE,200A022C,extended,03E00008
+patch=1,EE,200A0230,extended,DFBF0090
+patch=1,EE,20106ADC,extended,0C028000
+patch=1,EE,20106AE0,extended,00000000
+
+[Cheats/Change Main Menu Text to English] 
+patch=1,EE,01942819,extended,00000001
+
+[Cheats/Infinite HP DS VH] 
+patch=1,EE,200A00C8,extended,20100090
+patch=1,EE,200A00CC,extended,A6B00442
+patch=1,EE,200A00D0,extended,A6B00444
+
+[Cheats/Infinite HP VS VH2 VS2 EX]  
+patch=1,EE,200A0194,extended,3C100120
+patch=1,EE,200A0198,extended,36100120
+patch=1,EE,200A019C,extended,AEB00450
+
+[Cheats/Vampire Savior 1P Infinite HP] 
+patch=1,EE,108D8450,extended,00000120
+patch=1,EE,108D8452,extended,00000120
+
+[Cheats/SA1 Infinite HP] 
+patch=1,EE,208D8450,extended,01200120
+
+[Cheats/SA1 EX] 
+patch=1,EE,008D8509,extended,00000063
+
+[Cheats/SA2 Infinite HP] 
+patch=1,EE,208F8450,extended,01200120
+
+[Cheats/SA2 EX] 
+patch=1,EE,008F8509,extended,00000063
+
+[Cheats/HA2 Infinite HP]
+patch=1,EE,20908450,extended,00900090
+
+[Cheats/HA2 EX] 
+patch=1,EE,00908509,extended,00000063
+
+[Cheats/SA1A Infinite HP] 
+patch=1,EE,20918450,extended,01200120
+
+[Cheats/SA1A EX] 
+patch=1,EE,00918509,extended,00000063
+
+[Cheats/HA2A Infinite HP] 
+patch=1,EE,20928450,extended,00900090
+
+[Cheats/HA2A EX] 
+patch=1,EE,00928509,extended,00000063
+
+[Cheats/SA2A Infinite HP] 
+patch=1,EE,20938450,extended,01200120
+
+[Cheats/SA2A EX]
+patch=1,EE,00938509,extended,00000063
+
+[Cheats/HA1 Infinite HP] 
+patch=1,EE,008E8442,extended,00000090
+patch=1,EE,008E8444,extended,00000090
+
+[Cheats/HA1 EX] 
+patch=1,EE,008E85DD,extended,0000000A
+
+[Cheats/VP Infinite HP] 
+patch=1,EE,00948442,extended,00000090
+patch=1,EE,00948444,extended,00000090
+
+[Cheats/Unlock All Gallery Items] 
+patch=1,EE,41943068,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Change Main Menu Text to English] 
+patch=1,EE,01942819,extended,00000001
+
+[Cheats/Map Buttons to English Style] 
+patch=1,EE,01942818,extended,00000001

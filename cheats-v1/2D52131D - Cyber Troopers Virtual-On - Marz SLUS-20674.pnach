@@ -1,0 +1,14 @@
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,20A3B020,extended,0000270F
+
+[Cheats/Press Select For Instant Death Enemy] 
+patch=1,EE,200C0220,extended,3C0100A3
+patch=1,EE,200C0224,extended,3421AE20
+patch=1,EE,200C0228,extended,54300001
+patch=1,EE,200C022C,extended,AE000200
+patch=1,EE,200C0230,extended,03E00008
+patch=1,EE,200C0234,extended,00000000
+patch=1,EE,D0AC6A82,extended,0000FFFE
+patch=1,EE,2013F788,extended,0C030088
+patch=1,EE,D0AC6A82,extended,0010FFFE
+patch=1,EE,2013F788,extended,00000000

@@ -1,0 +1,27 @@
+[Cheats/Invincible] 
+patch=1,EE,20665080,extended,000000FF
+
+[Cheats/Max Recovery] 
+patch=1,EE,102EC4E8,extended,00000063
+
+[Cheats/Max Resuscitations] 
+patch=1,EE,102EC4EC,extended,00000063
+
+[Cheats/Max Antidotes] 
+patch=1,EE,102EC4F0,extended,00000063
+
+[Cheats/Have Ample] 
+patch=1,EE,202EC4F8,extended,00000001
+
+[Cheats/Max Tachyon] 
+patch=1,EE,102EC4FC,extended,0000270F
+
+[Cheats/Never Reload Pad] 
+patch=1,EE,2013315C,extended,00000000
+
+[Cheats/Never Reload Gun] 
+patch=1,EE,201333C8,extended,00000000
+
+[Cheats/Infinite Time] 
+patch=1,EE,20218990,extended,00000000
+patch=1,EE,20218998,extended,00000000

@@ -1,0 +1,23 @@
+[Cheats/60 Hertz] 
+patch=1,EE,201B8170,extended,24120002
+
+[Cheats/Disable A.I. Ignore Enemy] 
+patch=1,EE,20109AEC,extended,24020001
+
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,20A60A94,extended,43C80000
+
+[Cheats/Infinite Health Player 2] 
+patch=1,EE,20A61614,extended,43C80000
+
+[Cheats/Infinite Ammo P1] 
+patch=1,EE,20A60BB4,extended,00000014
+
+[Cheats/Infinite Ammo P2] 
+patch=1,EE,20A61734,extended,00000014
+
+[Cheats/Infinte Money P1] 
+patch=1,EE,20A61264,extended,0098967F
+
+[Cheats/Infinte Money P2] 
+patch=1,EE,20A61DE4,extended,0098967F

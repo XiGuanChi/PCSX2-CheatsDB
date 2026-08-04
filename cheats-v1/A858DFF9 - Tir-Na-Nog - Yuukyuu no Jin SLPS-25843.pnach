@@ -1,0 +1,26 @@
+[Cheats/Max Money] 
+patch=1,EE,D0496982,extended,0000FFFE
+patch=1,EE,207B69F8,extended,3B9AC9FF
+
+[Cheats/You Can Sleep As Many Times As You Like] 
+patch=1,EE,207AD164,extended,00000000
+
+
+[Cheats/No Capitation Of Acquisition Experience Value] 
+patch=1,EE,201E4764,extended,0220982D
+
+[Cheats/Allies HP And MP Max] 
+patch=1,EE,201DE0F4,extended,9447010E
+patch=1,EE,201DE0F8,extended,A4470112
+patch=1,EE,201DE0FC,extended,94470110
+patch=1,EE,201DE100,extended,A4470114
+patch=1,EE,201E6F68,extended,08077830
+
+[Cheats/No Status Abnormalities Required to be used in conjunction with maximum HPMP maintenance Disable key is not required only when attacked during sleep] 
+patch=1,EE,201DE0F0,extended,A44000D2
+patch=1,EE,201DE104,extended,0040202D
+patch=1,EE,201DE10C,extended,0C051970
+patch=1,EE,201DE110,extended,0000282D
+
+[Cheats/Unlock Without A Key] 
+patch=1,EE,20236B08,extended,00000000

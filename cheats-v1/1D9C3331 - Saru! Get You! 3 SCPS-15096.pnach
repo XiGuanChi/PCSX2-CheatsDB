@@ -1,0 +1,92 @@
+[Cheats/5 biscuits] 
+patch=1,EE,20668B88,extended,42C80000
+
+[Cheats/Infinite Bakel gauge] 
+patch=1,EE,20668B94,extended,42C80000
+
+[Cheats/Bakel gauge stock 10 Mitan] 
+patch=1,EE,20668B94,extended,44898000
+patch=1,EE,20668B98,extended,44898000
+
+[Cheats/Explosion Damas 9] 
+patch=1,EE,00668C08,extended,00000009
+
+[Cheats/Induction Damas 9] 
+patch=1,EE,00668C0C,extended,00000009
+
+[Cheats/Sabaibaru mode Clear the stage by getting one animal If you use it in the main story, the stage may not progress.] 
+patch=1,EE,20256004,extended,240F0001
+
+[Cheats/Secret game - Ultimate Fighting - Infinite Helth 1P] 
+patch=1,EE,202ECA24,extended,3C0142C8
+patch=1,EE,202ECA28,extended,ADE10240
+patch=1,EE,202ECA2C,extended,10000006
+
+[Cheats/Secret game - Mesalgia Solid Infinite Helth] 
+patch=1,EE,20541858,extended,00000000
+
+[Cheats/Secret game - Mesalgia Solid Infinite banana pistol bullets] 
+patch=1,EE,20544D00,extended,00000000
+
+[Cheats/Secret game - Mesalgia Solid Infinite Pineapple bombs] 
+patch=1,EE,20544970,extended,00000000
+
+[Cheats/Secret game - Mesalgia Solid Infinite Watermelon bombs] 
+patch=1,EE,202D5710,extended,00000000
+
+[Cheats/Secret game - Mesalgia Solid All ammunition 100 rounds] 
+patch=1,EE,202BAFE8,extended,240F0064
+patch=1,EE,202BAFF0,extended,A66F0000
+patch=1,EE,202BB014,extended,24010064
+patch=1,EE,202BB01C,extended,A6610000
+
+[Cheats/Secret game - Mesalgia Solid not be attacked] 
+patch=1,EE,202DA1A8,extended,10000057
+
+[Cheats/Secret game - Mesalgia Solid The alarm will be canceled if you are out of sight of the enemy] 
+patch=1,EE,20545398,extended,AE000008
+patch=1,EE,205453C8,extended,AE000008
+patch=1,EE,2054543C,extended,AE000008
+patch=1,EE,20545498,extended,AE000008
+
+[Cheats/Secret game - Mesalgia Solid The alarm will not sound even if you are spotted] 
+patch=1,EE,20545238,extended,10000026
+
+[Cheats/Unlock All Gacha Mecha] 
+patch=1,EE,20231440,extended,00000000
+
+[Cheats/Unlock All Transformation Costumes] 
+patch=1,EE,2023149C,extended,00000000
+
+[Cheats/Unlock All Secret Games] 
+patch=1,EE,00668F0B,extended,00000001
+patch=1,EE,10668F0C,extended,00000101
+
+[Cheats/Unlock Mesalgia's cinema added to Sal Cinema] 
+patch=1,EE,20231304,extended,00000000
+
+[Cheats/Unlock All Mecha Yonk bodies] 
+patch=1,EE,20668F08,extended,01010101
+
+[Cheats/Unlock All Majin's dance moves] 
+patch=1,EE,20668F68,extended,01010101
+
+[Cheats/Unlock All Various] 
+patch=1,EE,2028F854,extended,24010001
+patch=1,EE,2028F858,extended,A1E10306
+
+[Cheats/Unlock All Secret games, home theater, gallery other than Sarubukku] 
+patch=1,EE,20269818,extended,24060001
+patch=1,EE,20269828,extended,A1E60306
+
+[Cheats/Cho~Rare Sal password entered For details, please refer to the Cho Rare Aru Getchu Campaign paper included in the manual] 
+patch=1,EE,20230FC4,extended,00000000
+patch=1,EE,2023101C,extended,00000000
+patch=1,EE,20231070,extended,00000000
+patch=1,EE,202310C4,extended,00000000
+patch=1,EE,20231118,extended,00000000
+patch=1,EE,2023116C,extended,00000000
+patch=1,EE,202311C0,extended,00000000
+patch=1,EE,20231214,extended,00000000
+patch=1,EE,20231390,extended,00000000
+patch=1,EE,202313C4,extended,00000000

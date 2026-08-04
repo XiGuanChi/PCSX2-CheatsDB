@@ -1,0 +1,17 @@
+[Cheats/Infinite Lives] 
+patch=1,EE,202E6758,extended,00000009
+
+[Cheats/Infinite Credits] 
+patch=1,EE,202E6754,extended,0000009
+
+[Cheats/Invincible] 
+patch=1,EE,2030746C,extended,00000001
+
+[Cheats/Unlock All Gallery] 
+patch=1,EE,202F354C,extended,FFFFFFFF
+
+[Cheats/Unlock All Ships] 
+patch=1,EE,2015CF7C,extended,90410000
+patch=1,EE,2015CF80,extended,00230825
+patch=1,EE,2015CF84,extended,A0410000
+patch=1,EE,2015CF88,extended,24020000

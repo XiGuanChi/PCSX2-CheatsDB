@@ -1,0 +1,10 @@
+[Cheats/Infinite Health] 
+patch=1,EE,201DFAD8,extended,C461000C
+patch=1,EE,201DFAE8,extended,E4610008
+patch=1,EE,201DF914,extended,E4400008
+
+[Cheats/Infinite Ammo]  
+patch=1,EE,1130FBDA,extended,000042C8
+patch=1,EE,1131004A,extended,000042C8
+patch=1,EE,113104BA,extended,000042C8
+

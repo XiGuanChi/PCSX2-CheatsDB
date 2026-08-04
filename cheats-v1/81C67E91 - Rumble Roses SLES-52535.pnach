@@ -1,0 +1,44 @@
+[Cheats/Player 1 Lethal Move Counter Always Full] 
+patch=1,EE,216D6EF4,extended,00000063
+
+[Cheats/Unlock All Costumes] 
+patch=1,EE,403E2920,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock Characters Story Mode]  
+patch=1,EE,103E28D2,extended,0000FF01
+patch=1,EE,103E28D4,extended,0000FF01
+patch=1,EE,103E28D6,extended,0000FF01
+patch=1,EE,103E28D8,extended,0000FF01
+patch=1,EE,103E28DA,extended,0000FF01
+patch=1,EE,103E28DC,extended,0000FF01
+patch=1,EE,103E28DE,extended,0000FF01
+patch=1,EE,103E28E0,extended,0000FF01
+patch=1,EE,103E28E2,extended,0000FF01
+patch=1,EE,103E28E4,extended,0000FF01
+
+[Cheats/Unlock Characters Exhibition Mode]  
+patch=1,EE,103E28EC,extended,0000FF01
+patch=1,EE,103E28EE,extended,0000FF01
+patch=1,EE,103E28F0,extended,0000FF01
+patch=1,EE,103E28F2,extended,0000FF01
+patch=1,EE,103E28F4,extended,0000FF01
+patch=1,EE,103E28F6,extended,0000FF01
+patch=1,EE,103E28F8,extended,0000FF01
+patch=1,EE,103E28FA,extended,0000FF01
+patch=1,EE,103E28FC,extended,0000FF01
+patch=1,EE,103E28FE,extended,0000FF01
+patch=1,EE,103E2900,extended,0000FF01
+
+[Cheats/Unlock Gallery] 
+patch=1,EE,103E2906,extended,00000101
+patch=1,EE,103E2908,extended,00000101
+patch=1,EE,103E290A,extended,00000101
+patch=1,EE,103E290C,extended,00000101
+patch=1,EE,103E290E,extended,00000101
+patch=1,EE,103E2910,extended,00000101
+patch=1,EE,103E2912,extended,00000101
+patch=1,EE,103E2914,extended,00000101
+patch=1,EE,103E2916,extended,00000101
+patch=1,EE,103E2918,extended,00000101
+

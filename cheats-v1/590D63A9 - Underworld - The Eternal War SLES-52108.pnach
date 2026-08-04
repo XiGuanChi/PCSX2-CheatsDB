@@ -1,0 +1,13 @@
+[Cheats/Infinite Health] 
+patch=1,EE,201A2E04,extended,240503E8
+patch=1,EE,201A2E08,extended,AC650000
+
+[Cheats/Infinite Power Energy] 
+patch=1,EE,200C200C,extended,8C4101E4
+patch=1,EE,200C2010,extended,AC4101E0
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20146740,extended,242007BA
+
+[Cheats/Infinite Vampire Points] 
+patch=1,EE,201D18AC,extended,242007BA

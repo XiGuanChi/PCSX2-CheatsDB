@@ -1,0 +1,50 @@
+[Cheats/Max Money] 
+patch=1,EE,208D85CC,extended,3B9AC9FF
+
+[Cheats/Infinite Health] 
+patch=1,EE,202D17F4,extended,08096504
+patch=1,EE,202D17F8,extended,A6420000
+patch=1,EE,202CF95C,extended,0C0B45FD
+
+[Cheats/Infinite Ogre Power] 
+patch=1,EE,2025EB8C,extended,AE250010
+patch=1,EE,2025EB74,extended,3C027FF8
+patch=1,EE,2025EB78,extended,34459EC0
+
+[Cheats/Recovery Press L1] 
+patch=1,EE,202D2D64,extended,08096504
+patch=1,EE,202D2D68,extended,A642000A
+patch=1,EE,202CF9DC,extended,0C096504
+patch=1,EE,D0690D9C,extended,0000 FBFF
+patch=1,EE,202CF9DC,extended,0C0B4B59
+
+[Cheats/Max Promotion With Experience] 
+patch=1,EE,202620AC,extended,3C033B9B
+
+[Cheats/Enhancing Skills Infinite Acquisition Points] 
+patch=1,EE,20328988,extended,00000000
+
+[Cheats/Enhancing Techniques Acquired points 99]  
+patch=1,EE,20329940,extended,24030063 
+
+[Cheats/Enhancing Weapons Infinite Soul]  
+patch=1,EE,20362AF8,extended,00000000
+
+[Cheats/Enhancing Arms Soul Can Be Trained]  
+patch=1,EE,20362B0C,extended,96230008 
+
+[Cheats/Normal Attack Power x1000] 
+patch=1,EE,20278B68,extended,240503E8 
+
+[Cheats/Increased Soul Absorption Speed] 
+patch=1,EE,20260EC0,extended,3C034480
+
+[Cheats/Unlock Selection Of All Difficulty Levels Needs a save game] 
+patch=1,EE,203DE048,extended,24010003
+patch=1,EE,203DE050,extended,A0810058
+
+[Cheats/Unlock All Benefits Japanese Street Clothing  Needs a save game] needs a save game]
+patch=1,EE,203DE004,extended,00C31827
+patch=1,EE,203DE010,extended,3C030187
+patch=1,EE,203DE014,extended,3463A238
+patch=1,EE,203DE018,extended,ACE30004

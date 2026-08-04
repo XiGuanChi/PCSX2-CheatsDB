@@ -1,0 +1,118 @@
+[Cheats/Infinite Gold] 
+patch=1,EE,20B64BA0,extended,000F423F
+
+[Cheats/Max HP] 
+patch=1,EE,204685BC,extended,C4C00000
+
+[Cheats/Max MP]  
+patch=1,EE,20468D24,extended,0C11A30A
+
+[Cheats/Max Heart Maintained After Change] 
+patch=1,EE,20468710,extended,C6000004
+
+[Cheats/Weapon Attack Power Increase] 
+patch=1,EE,20B64F00,extended,46FA0000
+patch=1,EE,20B64EC4,extended,46FA0000
+
+[Cheats/Status Abnormality Resistance Curse 100%] 
+patch=1,EE,20B64F38,extended,42C80000
+
+[Cheats/Status Abnormality Resistance Stone 100%] 
+patch=1,EE,20B64F30,extended,42C80000
+
+[Cheats/Status Abnormality Resistance Poison 100%] 
+patch=1,EE,20B64F34,extended,42C80000
+
+[Cheats/Have All Skills]  
+patch=1,EE,10B64E24,extended,1CDE7FFF
+
+[Cheats/Have All Magic Devices]  
+patch=1,EE,20B64DFC,extended,00010086
+patch=1,EE,20B64E00,extended,00010087
+patch=1,EE,20B64E04,extended,00010088
+patch=1,EE,20B64E08,extended,00010089
+patch=1,EE,20B64E0C,extended,0001008A
+patch=1,EE,20B64E10,extended,0001008B
+patch=1,EE,20B64E14,extended,0001008C
+patch=1,EE,20B64E18,extended,0001008D
+patch=1,EE,20B64E1C,extended,0001008E
+patch=1,EE,20B64E20,extended,0001008F
+
+[Cheats/Have Own All Orbs Even if you get it with a code, each stage will be treated as cleared.Please be careful as you will suddenly enter the last event
+In addition, it seems that there are bosses properly] 
+patch=1,EE,20B64DE0,extended,0001007F
+patch=1,EE,20B64DE4,extended,00010080
+patch=1,EE,20B64DE8,extended,00010081
+patch=1,EE,20B64DEC,extended,00010082
+patch=1,EE,20B64DF0,extended,00010083
+patch=1,EE,20B64DF4,extended,00010084
+patch=1,EE,20B64DF8,extended,00010085
+
+[Cheats/Have All 9 Items Probably] 
+patch=1,EE,20B64C74,extended,0009002A
+patch=1,EE,20B64C78,extended,0009002B
+patch=1,EE,20B64C7C,extended,0009002C
+patch=1,EE,20B64C80,extended,0009002D
+patch=1,EE,20B64C84,extended,0009002E
+patch=1,EE,20B64C88,extended,0009002F
+patch=1,EE,20B64C8C,extended,00090030
+patch=1,EE,20B64C90,extended,00090031
+patch=1,EE,20B64C94,extended,00090032
+patch=1,EE,20B64C98,extended,0009003B
+patch=1,EE,20B64C9C,extended,0009003C
+patch=1,EE,20B64CA0,extended,0009003D
+patch=1,EE,20B64CA4,extended,0009003E
+patch=1,EE,20B64CA8,extended,0009003F
+patch=1,EE,20B64CAC,extended,00090040
+patch=1,EE,20B64CB0,extended,00090041
+patch=1,EE,20B64CB4,extended,00090042
+patch=1,EE,20B64CB8,extended,00090043
+patch=1,EE,20B64CBC,extended,00090044
+patch=1,EE,20B64CC0,extended,00090045
+patch=1,EE,20B64CC4,extended,00090046
+patch=1,EE,20B64CC8,extended,00090047
+patch=1,EE,20B64CCC,extended,00090048
+patch=1,EE,20B64CD0,extended,00090049
+patch=1,EE,20B64CD4,extended,0009004A
+patch=1,EE,20B64CD8,extended,0009004B
+patch=1,EE,20B64CDC,extended,0009004C
+
+[Cheats/Have All 9 Accessories] 
+patch=1,EE,20B64BF4,extended,0009000A
+patch=1,EE,20B64BF8,extended,0009000B
+patch=1,EE,20B64BFC,extended,0009000C
+patch=1,EE,20B64C00,extended,0009000D
+patch=1,EE,20B64C04,extended,0009000E
+patch=1,EE,20B64C08,extended,0009000F
+patch=1,EE,20B64C0C,extended,00090010
+patch=1,EE,20B64C10,extended,00090011
+patch=1,EE,20B64C14,extended,00090012
+patch=1,EE,20B64C18,extended,00090013
+patch=1,EE,20B64C1C,extended,00090014
+patch=1,EE,20B64C20,extended,00090015
+patch=1,EE,20B64C24,extended,00090016
+patch=1,EE,20B64C28,extended,00090017
+patch=1,EE,20B64C2C,extended,00090018
+patch=1,EE,20B64C30,extended,00090019
+patch=1,EE,20B64C34,extended,0009001A
+patch=1,EE,20B64C38,extended,0009001B
+patch=1,EE,20B64C3C,extended,0009001C
+patch=1,EE,20B64C40,extended,0009001D
+patch=1,EE,20B64C44,extended,0009001E
+patch=1,EE,20B64C48,extended,0009001F
+patch=1,EE,20B64C4C,extended,00090020
+patch=1,EE,20B64C50,extended,00090021
+patch=1,EE,20B64C54,extended,00090022
+
+[Cheats/Have All Whips] 
+patch=1,EE,20B64BD0,extended,00010001
+patch=1,EE,20B64BD4,extended,00010002
+patch=1,EE,20B64BD8,extended,00010003
+patch=1,EE,20B64BDC,extended,00010004
+patch=1,EE,20B64BE0,extended,00010005
+
+[Cheats/Unlock All Register Monsters]
+patch=1,EE,40B7B4AC,extended,00400003
+patch=1,EE,0000003F,extended,00000000
+patch=1,EE,40B7B7AC,extended,00310003
+patch=1,EE,0000003F,extended,00000000

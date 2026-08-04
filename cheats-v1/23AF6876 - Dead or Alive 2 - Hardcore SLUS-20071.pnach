@@ -1,0 +1,26 @@
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,2048C330,extended,0000012C
+
+[Cheats/1 Hit Death Player 2] 
+patch=1,EE,D048C398,extended,0000012C
+patch=1,EE,2048C398,extended,00000001
+
+[Cheats/Unlock Bayman] 
+patch=1,EE,0049115E,extended,00000001
+
+[Cheats/Unlock Tengu] 
+patch=1,EE,0049115D,extended,00000001
+
+[Cheats/Unlock All CG Gallery] 
+patch=1,EE,0049115F,extended,00000001
+
+[Cheats/Unlock All Collection] 
+patch=1,EE,00491170,extended,00000001
+
+[Cheats/Unlock All Stars in the Collection] 
+patch=1,EE,00491178,extended,00000001
+
+[Cheats/Unlock All Costumes] 
+patch=1,EE,2048B0D0,extended,FFFFFFFF
+patch=1,EE,2048B0D4,extended,FFFFFFFF
+patch=1,EE,2048B0D8,extended,FFFFFFFF

@@ -1,0 +1,12 @@
+[Cheats/Infinite CP] 
+patch=1,EE,200FFF00,extended,3C014E00
+patch=1,EE,200FFF04,extended,AC810280
+patch=1,EE,200FFF08,extended,44810000
+patch=1,EE,200FFF0C,extended,0807031F
+patch=1,EE,201C0C78,extended,0803FFC0
+
+[Cheats/Instant Win] 
+patch=1,EE,2026E9C8,extended,24020001
+
+[Cheats/All Mission Opened] 
+patch=1,EE,2042CD04,extended,00000001

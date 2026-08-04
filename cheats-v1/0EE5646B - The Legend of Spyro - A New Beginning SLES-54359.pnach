@@ -1,0 +1,59 @@
+[Cheats/Infinite & Max Health] 
+patch=1,EE,207D1A80,extended,42C80000
+patch=1,EE,207D1A84,extended,42C80000
+patch=1,EE,207D1A88,extended,42C80000
+
+[Cheats/Massive Upgrade Points] 
+patch=1,EE,207D1A98,extended,4479C000
+
+[Cheats/One Hit Kill] 
+patch=1,EE,001E2232,extended,00000080
+
+[Cheats/Unlock All Weapons] 
+patch=1,EE,407D1AE0,extended,00040020
+patch=1,EE,0000000F,extended,00000000
+
+[Cheats/All Upgrades Maxed] 
+patch=1,EE,207D1AE4,extended,00000003
+patch=1,EE,207D1AE8,extended,00000003
+patch=1,EE,207D1B04,extended,00000003
+patch=1,EE,207D1B08,extended,00000003
+patch=1,EE,207D1B24,extended,00000003
+patch=1,EE,207D1B28,extended,00000003
+patch=1,EE,207D1B44,extended,00000003
+patch=1,EE,207D1B48,extended,00000003
+
+[Cheats/English Unlock Level Select In Menu And In Pause Screen, along with an option to enable cheats] 
+patch=1,EE,00AA5594,extended,00000001
+patch=1,EE,00AA5595,extended,00000001
+patch=1,EE,00AB2154,extended,00000001
+patch=1,EE,00AB2155,extended,00000001
+patch=1,EE,00AB22D4,extended,00000001
+patch=1,EE,00AB22D5,extended,00000001
+
+[Cheats/French-German-Italian Unlock Level Select In Menu And In Pause Screen, along with an option to enable cheats] 
+patch=1,EE,00A01594,extended,00000001
+patch=1,EE,00A01595,extended,00000001
+patch=1,EE,00AB4114,extended,00000001
+patch=1,EE,00AB4115,extended,00000001
+patch=1,EE,00AB4294,extended,00000001
+patch=1,EE,00AB4295,extended,00000001
+
+[Cheats/Dutch Unlock Level Select In Menu And In Pause Screen, along with an option to enable cheats] 
+patch=1,EE,00A01594,extended,00000001
+patch=1,EE,00A01595,extended,00000001
+patch=1,EE,00AB4154,extended,00000001
+patch=1,EE,00AB4155,extended,00000001
+patch=1,EE,00AB42D4,extended,00000001
+patch=1,EE,00AB42D5,extended,00000001
+
+[Cheats/Spanish Unlock Level Select In Menu And In Pause Screen, along with an option to enable cheats] 
+patch=1,EE,00A01594,extended,00000001
+patch=1,EE,00A01595,extended,00000001
+patch=1,EE,00AB4494,extended,00000001
+patch=1,EE,00AB4495,extended,00000001
+patch=1,EE,00AB4614,extended,00000001
+patch=1,EE,00AB4615,extended,00000001
+
+[Cheats/PAL to NTSC] 
+patch=1,EE,2018AF00,extended,24120002

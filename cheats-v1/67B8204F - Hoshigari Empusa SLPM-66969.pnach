@@ -1,0 +1,80 @@
+[Cheats/Max Remaining Turns PresS L2+Up No Turns Remaining PresS L2+Down Change The Number Of Remaining Turns In The Event  ] 
+patch=1,EE,D02AD6C2,extended,0000FEEF
+patch=1,EE,003B593B,extended,00000000
+patch=1,EE,D02AD6C2,extended,0000FEBF
+patch=1,EE,003B593B,extended,00000064
+
+[Cheats/Max Money Player 1 999999] 
+patch=1,EE,203B6878,extended,000F423F
+
+[Cheats/Max Fame Player 1 999999] 
+patch=1,EE,203B6BB0,extended,000F423F
+
+[Cheats/Player 1 Fame 9999999] 
+patch=1,EE,203B6878,extended,0098967F
+
+[Cheats/Player 1 Money 9999999] 
+patch=1,EE,203B6BB0,extended,0098967F
+
+[Cheats/Player 1 Total Fame 9999999] 
+patch=1,EE,203B6880,extended,0098967F
+
+[Cheats/Player 1 Intelligence 255] 
+patch=1,EE,003B6BE7,extended,000000FF
+
+[Cheats/Player 1 Health 255] 
+patch=1,EE,003B6BE8,extended,000000FF
+
+[Cheats/Player 2 Fame 0] 
+patch=1,EE,203B6C08,extended,00000000
+
+[Cheats/Player 2 Money 0] 
+patch=1,EE,203B6F40,extended,00000000
+
+[Cheats/Player 2 Total Fame 0] 
+patch=1,EE,203B6C10,extended,00000000
+
+[Cheats/Player 2 Intelligence 0] 
+patch=1,EE,003B6F77,extended,00000000
+
+[Cheats/Player 2 Health 0] 
+patch=1,EE,003B6F78,extended,00000000
+
+[Cheats/Player 3 Fame 0] 
+patch=1,EE,203B6F98,extended,00000000
+
+[Cheats/Player 3 Money 0] 
+patch=1,EE,203B72D0,extended,00000000
+
+[Cheats/Player 3 Total Fame 0] 
+patch=1,EE,203B6FA0,extended,00000000
+
+[Cheats/Player 3 Intelligence 0] 
+patch=1,EE,003B7307,extended,00000000
+
+[Cheats/Player 3 Health 0]  
+patch=1,EE,2003B7308,extended,00000000
+
+[Cheats/Player 4 Fame 0] 
+patch=1,EE,203B7328,extended,00000000
+
+[Cheats/Player 4 Money 0]  
+patch=1,EE,203B7660,extended,00 000000 
+
+[Cheats/Player 4 Total Fame 0]  
+patch=1,EE,203B7330,extended,00000000 
+
+[Cheats/Player 4 Intelligence 0]  
+patch=1,EE,003B7697,extended,00000000 
+
+[Cheats/Player 4 Health 0] 
+patch=1,EE,003B7698,extended,00000000
+
+[Cheats/New Game Maria = Debug Menu This lets you choose character scenes to view] 
+patch=1,EE,2020C954,extended,4830305F
+patch=1,EE,2020C958,extended,5F49534F
+patch=1,EE,2020C95C,extended,55424544
+patch=1,EE,2020C960,extended,43532E47
+patch=1,EE,2020C964,extended,00000052
+patch=1,EE,00181FA4,extended,00000021
+patch=1,EE,10181FA8,extended,0000C954

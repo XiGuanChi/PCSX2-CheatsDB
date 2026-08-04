@@ -1,0 +1,20 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2019B534,extended,00000000
+
+[Cheats/Infinite Health alt] 
+patch=1,EE,200C0220,extended,C4610608
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,E4610604
+patch=1,EE,2014DCD4,extended,0C030088
+
+[Cheats/Have All Items] 
+patch=1,EE,200C0230,extended,02BE1818
+patch=1,EE,200C0234,extended,00731021
+patch=1,EE,200C0238,extended,24010009
+patch=1,EE,200C023C,extended,03E00008
+patch=1,EE,200C0240,extended,A4410028
+patch=1,EE,20158F6C,extended,0C03008C
+patch=1,EE,201590D4,extended,0C03008C
+
+[Cheats/Full Secret Found After Completed Stages] 
+patch=1,EE,20165F3C,extended,2403001F

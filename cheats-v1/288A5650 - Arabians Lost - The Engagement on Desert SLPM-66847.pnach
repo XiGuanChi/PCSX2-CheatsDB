@@ -1,0 +1,47 @@
+[Cheats/Max Money]  
+patch=1,EE,20337548,extended,05F5E0FF
+
+[Cheats/Debt 0] 
+patch=1,EE,2033754C,extended,00000000
+
+[Cheats/Infinite HP] 
+patch=1,EE,201151F4,extended,0240802D
+
+[Cheats/Infinite SP]  
+patch=1,EE,2011533C,extended,0040802D
+
+[Cheats/Infinite HP in battle] 
+patch=1,EE,20113418,extended,00000000
+
+[Cheats/Infinite SP in battle] 
+patch=1,EE,201134B4,extended,00000000
+
+[Cheats/Unlock All CG Part 1] 
+patch=1,EE,2015B734,extended,00000000
+patch=1,EE,2015B73C,extended,0C06231A
+patch=1,EE,2015B740,extended,24060001
+patch=1,EE,2015B744,extended,8E643C48
+
+[Cheats/Unlock All CG Part 2]  
+patch=1,EE,20159848,extended,84C50000
+patch=1,EE,2015984C,extended,0C06231A
+patch=1,EE,20159850,extended,24060001
+patch=1,EE,20159854,extended,10000082
+
+[Cheats/Unlock All Recollection Part 1]  
+patch=1,EE,2015B918,extended,00000000
+patch=1,EE,2015B920,extended,0C0622CA
+patch=1,EE,2015B924,extended,24060001
+patch=1,EE,2015B928,extended,8E643C48
+
+[Cheats/Unlock All Recollection Part 2]   
+patch=1,EE,2015F510,extended,24060001
+patch=1,EE,2015F514,extended,0C0622CA
+patch=1,EE,2015F518,extended,24A51774
+patch=1,EE,2015F51C,extended,10000073
+
+[Cheats/Enable Debug Mode Controller 1 debug inputs Select+Triangle enable or disable progressive mode Triangle+Circle+X+Square+ Start will return you to the title screen Controller 2 debug inputs Circle to toggle debug modes. Press this once or twice to enable sound test options in the Sound Settings menu in the Options menu. This will also open a scene select menu in the pause menu in game. Select for screen capture menu. This will save an image in raw bmp format to your memory card. Triangle to log printf information.Square to toggle Debug flag on or off. This will temporarily unlock everything when on. X to log printf information. R1 to log printf information]
+patch=1,EE,20337690,extended,00000001
+
+
+

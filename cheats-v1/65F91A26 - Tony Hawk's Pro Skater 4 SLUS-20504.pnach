@@ -1,0 +1,43 @@
+[Cheats/Max Pro Points] 
+patch=1,EE,2096F5B8,extended,000000BE
+
+[Cheats/Max Cash] 
+patch=1,EE,2096F5BC,extended,05F5E0FF
+
+[Cheats/Perfect Rails] 
+patch=1,EE,2086BACC,extended,00000000
+
+[Cheats/Quick Special Gain] 
+patch=1,EE,20871D04,extended,00000BB8
+
+[Cheats/Easy Manual Balance] 
+patch=1,EE,2086BA5C,extended,00000000
+
+[Cheats/Infinite Special] 
+patch=1,EE,20871D04,extended,00000BB8
+patch=1,EE,10871D08,extended,00000001
+
+[Cheats/Unlock All Cheats & Levels] 
+patch=1,EE,2096FA40,extended,FFFFFFFF
+patch=1,EE,0096FA44,extended,000000FF
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,2096FA44,extended,FFFFFFFF
+patch=1,EE,1096FA66,extended,0000FFFF
+
+[Cheats/Unlock All Clothes] 
+patch=1,EE,2096FA48,extended,0007FFFF
+
+[Cheats/Unlock All Boards] 
+patch=1,EE,0096FA4D,extended,000000FF
+patch=1,EE,1096FA4E,extended,0000FFFF
+patch=1,EE,2096FA50,extended,FFFFFFFF
+patch=1,EE,2096FA54,extended,FFFFFFFF
+patch=1,EE,2096FA58,extended,FFFFFFFF
+patch=1,EE,2096FA5C,extended,FFFFFFFF
+patch=1,EE,2096FA60,extended,FFFFFFFF
+patch=1,EE,1096FA64,extended,0000FFFF
+
+[Cheats/Enable Debug Mode will enable extra menu options, mainly in the pause menu and in the options menu. This puts Debug Menu and Goto Restart in the root of the pause menu. Inside the Options menu , this also puts Cheats: DO NOT TEST.] 
+patch=1,EE,D095D520,extended,00007300
+patch=1,EE,201D3710,extended,0000102D

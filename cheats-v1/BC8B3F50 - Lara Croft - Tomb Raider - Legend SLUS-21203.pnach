@@ -1,0 +1,27 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200C0220,extended,3C0144A0
+patch=1,EE,200C0224,extended,080B624E
+patch=1,EE,200C0228,extended,AC6105E0
+patch=1,EE,202239F4,extended,0C030088
+
+[Cheats/Infinite Health Packs] 
+patch=1,EE,20269AD4,extended,24A20000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2028CE68,extended,24420000
+
+[Cheats/Infinite Flashlight Power] 
+patch=1,EE,2026888C,extended,00000000
+
+[Cheats/Infinite Air] 
+patch=1,EE,202C2504,extended,00000000
+
+[Cheats/Invulnerable] 
+patch=1,EE,1048DC38,extended,00000000
+
+[Cheats/Unlock Enable All Weapons] 
+patch=1,EE,103B900E,extended,00000008
+
+[Cheats/P1 Press L1+L2+R1+R2+Select To Restart Level] 
+patch=1,EE,D03E3DDC,extended,0000FBFB
+patch=1,EE,1048DD00,extended,00000001

@@ -1,0 +1,43 @@
+[Cheats/Always Hole In One Player 1 All Holes] 
+patch=1,EE,403D62A8,extended,00090001
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Tournament Mode Infinite Skill Points] 
+patch=1,EE,202ABA30,extended,00000000
+patch=1,EE,202ABD50,extended,00000000
+
+[Cheats/Tournament Mode Max Money] 
+patch=1,EE,203D7780,extended,05F5E0FF
+
+[Cheats/Unlock All Drivers]  
+patch=1,EE,103D794C,extended,0000FFFF
+
+[Cheats/Unlock All Woods] 
+patch=1,EE,103D794E,extended,0000FFFF
+
+[Cheats/Unlock All Utilities] 
+patch=1,EE,103D7950,extended,0000FFFF
+
+[Cheats/Unlock All Irons] 
+patch=1,EE,103D7952,extended,0000FFFF
+
+[Cheats/Unlock All Wedges] 
+patch=1,EE,103D7954,extended,0000FFFF
+
+[Cheats/Unlock All Putters] 
+patch=1,EE,103D7956,extended,0000FFFF
+
+[Cheats/Unlock All Balls] 
+patch=1,EE,103D7958,extended,0000FFFF
+
+[Cheats/Unlock All Shoes]  
+patch=1,EE,103D795A,extended,0000FFFF
+
+[Cheats/Unlock All Bags]  
+patch=1,EE,103D795C,extended,0000FFFF
+
+[Cheats/Unlock All Gloves]  
+patch=1,EE,103D795E,extended,0000FFFF
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,203BF984,extended,FFFFFFFF

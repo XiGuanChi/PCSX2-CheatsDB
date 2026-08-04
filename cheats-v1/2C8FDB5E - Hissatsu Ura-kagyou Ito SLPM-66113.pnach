@@ -1,0 +1,50 @@
+[Cheats/Max Money]  
+patch=1,EE,2068E548,extended,0098967F
+
+[Cheats/Max Health Decreases during night work and battles] 
+patch=1,EE,2068E558,extended,00000064
+
+[Cheats/Max Hara Decreases during night work and battles] 
+patch=1,EE,2068E55C,extended,00000064
+
+[Cheats/Max Reputation 100] 
+patch=1,EE,2068E550,extended,00000064
+
+[Cheats/Max Reputation 100] 
+patch=1,EE,2068E554,extended,00000064
+
+[Cheats/Max Resentment Level 100] 
+patch=1,EE,2068F564,extended,00000064
+
+[Cheats/Alert Level 0] 
+patch=1,EE,20366B58,extended,00000000
+
+[Cheats/Maintain Max Health In Battle] 
+patch=1,EE,201F5474,extended,3C0142C8
+patch=1,EE,201F5478,extended,44810000
+patch=1,EE,201F547C,extended,E660012C
+patch=1,EE,20268FC0,extended,AE02012C
+
+[Cheats/Back breadwinner Infinite Health] 
+patch=1,EE,D0440482,extended,00107FFF
+patch=1,EE,201AA1B8,extended,00000000
+patch=1,EE,D0440482,extended,00007FFF
+patch=1,EE,201AA1B8,extended,46010001
+
+[Cheats/In Battle Infinite Health] 
+patch=1,EE,D0440482,extended,00107FFF
+patch=1,EE,201A9D48,extended,00000000
+patch=1,EE,D0440482,extended,00007FFF
+patch=1,EE,201A9D48,extended,46010001
+
+
+
+
+
+
+[Cheats/Play time 0] 
+patch=1,EE,2068E54C,extended,00000000
+
+[Cheats/Max reputation of the back] 
+patch=1,EE,2068E554,extended,00000064
+

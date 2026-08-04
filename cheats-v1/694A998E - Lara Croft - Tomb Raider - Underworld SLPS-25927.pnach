@@ -1,0 +1,39 @@
+[Cheats/Invincible] 
+patch=1,EE,200C0220,extended,3C01447A
+patch=1,EE,200C0224,extended,AC410638
+patch=1,EE,200C0228,extended,AC410650
+patch=1,EE,200C022C,extended,03E00008
+patch=1,EE,200C0230,extended,C4400638
+patch=1,EE,20272E5C,extended,0C030088
+patch=1,EE,102729F8,extended,00001000
+
+[Cheats/1 Shot Kill Enemy] 
+patch=1,EE,201B5B14,extended,ACC00004
+
+[Cheats/Infinite Ammmo With No Reload] 
+patch=1,EE,20254E04,extended,00000000
+
+[Cheats/Infinite Grenades] 
+patch=1,EE,2022CE94,extended,00000000
+
+[Cheats/Max Infinite Grenades] 
+patch=1,EE,2022CE8C,extended,2402000A
+
+[Cheats/Have All Max Treasures] 
+patch=1,EE,2015BADC,extended,240203E7
+patch=1,EE,2015BA84,extended,240203E7
+
+[Cheats/Debug Menu Codes God Mode] 
+patch=1,EE,205FF840,extended,00000001
+
+[Cheats/Unlock All Unlockables Revisit Location & Story Boards]  
+patch=1,EE,20104AD4,extended,2402000F
+
+[Cheats/Unlock All Environment Concepts]
+patch=1,EE,10106EBE,extended,00001000
+
+[Cheats/Unlock All Character Concepts]
+patch=1,EE,1010635E,extended,00001000
+
+[Cheats/Unlock All Gear Concepts] 
+patch=1,EE,1010725E,extended,00001000

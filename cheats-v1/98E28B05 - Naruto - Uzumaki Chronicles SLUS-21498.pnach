@@ -1,0 +1,31 @@
+[Cheats/Naruto Infinite & Max Health] 
+patch=1,EE,10350a00,extended,000003e7
+
+[Cheats/Infinite Mission Time] 
+patch=1,EE,1034d404,extended,00000000
+
+[Cheats/Naruto Infinite Stamina] 
+patch=1,EE,10350A0E,extended,000003E7
+
+[Cheats/Naruto Max Stamina] 
+patch=1,EE,10350A12,extended,000003E7
+
+[Cheats/Naruto Infinite Virtue] 
+patch=1,EE,10350A14,extended,0000FFFF
+
+[Cheats/Naruto Max Virtue] 
+patch=1,EE,20350A14,extended,0098967F
+
+[Cheats/Max All Items] 
+patch=1,EE,00350B6D,extended,00000063
+patch=1,EE,10350B6E,extended,00006363
+patch=1,EE,20350B70,extended,63636363
+patch=1,EE,20350B74,extended,63636363
+patch=1,EE,00350B78,extended,00000063
+patch=1,EE,00350BAB,extended,00000063
+
+[Cheats/Max All Equip Attack Items] 
+patch=1,EE,40350BAC,extended,00040001
+patch=1,EE,0913AAFE,extended,0CA57A65
+patch=1,EE,182FAF6D,extended,0CA5E7D3
+

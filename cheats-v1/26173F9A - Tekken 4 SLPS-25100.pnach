@@ -1,0 +1,28 @@
+[Cheats/Infinite Health P1] 
+patch=1,EE,102A9D06,extended,000000A5
+
+[Cheats/Infinite Max Health P1] 
+patch=1,EE,202A9D04,extended,00A50000
+
+[Cheats/1 Hit Death P2 Press SELECT]
+patch=1,EE,D1DB3310,extended,00000100
+patch=1,EE,102AAC26,extended,00000001
+
+[Cheats/2P HP 0[Cheats/
+patch=1,EE,202AAC24,extended,00000000
+ 
+[Cheats/Infinite Health Tekken Force Mode] 
+patch=1,EE,202A9D06,extended,00000106
+
+[Cheats/Unlock VS mode all stages selectable] 
+patch=1,EE,203C8A32,extended,00000001
+
+[Cheats/Unlock Theater]  
+patch=1,EE,203C8A4D,extended,00000001
+
+[Cheats/Unlock All Movies]  
+patch=1,EE,203C8A20,extended,FFFFFFFF
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,403C8A38,extended,00050001
+patch=1,EE,03030303,extended,00000000

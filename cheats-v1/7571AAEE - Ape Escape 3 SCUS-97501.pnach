@@ -1,0 +1,66 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20649918,extended,42C80000
+
+[Cheats/Infinite Coins] 
+patch=1,EE,206499D4,extended,0000270F
+patch=1,EE,206499D8,extended,0000270F
+
+[Cheats/99 Jackets] 
+patch=1,EE,20649914,extended,00000063
+
+[Cheats/Have All Gadgets] 
+patch=1,EE,4064992C,extended,00150001
+patch=1,EE,00000002,extended,00000000
+
+[Cheats/Unlock All Channel Guides] 
+patch=1,EE,10649C9E,extended,00000101
+patch=1,EE,40649CA0,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10649CB0,extended,00000101
+
+[Cheats/Unlock All Bonus RC Cars] 
+patch=1,EE,10649C98,extended,00000101
+patch=1,EE,00649C9A,extended,00000001
+
+[Cheats/Unlock All Genie Dance Music] 
+patch=1,EE,10649CF8,extended,00000101
+patch=1,EE,00649CFA,extended,00000001
+
+[Cheats/Unlock All Teleborgs] 
+patch=1,EE,10649C16,extended,00000101
+patch=1,EE,40649C18,extended,00070001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/UnlockAll Mon-Fictions] 
+patch=1,EE,10649CB2,extended,00000101
+patch=1,EE,40649CB4,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10649CC4,extended,00000101
+
+[Cheats/Unlock All Concept Art] 
+patch=1,EE,40649C34,extended,00070001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10649C3C,extended,00000101
+
+[Cheats/Unlock All Secret Photos] 
+patch=1,EE,40649C68,extended,00070001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10649C66,extended,00000101
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,40649CFC,extended,00070001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Music] 
+patch=1,EE,40649CC8,extended,000C0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10649CC6,extended,00000101
+
+[Cheats/Unlock All Minigames] 
+patch=1,EE,00649C9B,extended,00000001
+patch=1,EE,10649C9C,extended,00000101
+
+[Cheats/Unlock All Monkepedia] 
+patch=1,EE,406499DC,extended,008E0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10649C14,extended,00000101

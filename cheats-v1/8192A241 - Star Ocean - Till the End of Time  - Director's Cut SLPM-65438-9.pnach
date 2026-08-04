@@ -1,0 +1,81 @@
+[Cheats/Max Acquired Fol After Battle] 
+patch=1,EE,D0253312,extended,00001420
+patch=1,EE,20253310,extended,00000000
+
+[Cheats/Max HP 99999] 
+patch=1,EE,D03FAB92,extended,00000062
+patch=1,EE,203FAB90,extended,0060280A
+
+[Cheats/Max MP 99999] 
+patch=1,EE,D03FA7C2,extended,00000062
+patch=1,EE,203FA7C0,extended,0060280A
+
+[Cheats/Max Heat Ip Gauge After Rises] 
+patch=1,EE,D03F7188,extended,00001BB2
+patch=1,EE,203F7188,extended,2A010000
+
+[Cheats/9999 When Distributing SP] 
+patch=1,EE,D035614C,extended,0000200A
+patch=1,EE,2035614C,extended,00052025
+
+[Cheats/Max Chain 999]   
+patch=1,EE,D03F70F4,extended,000027C0
+patch=1,EE,203F70F4,extended,70000F88
+
+[Cheats/Recover By HP Fluctuation In Battle] 
+patch=1,EE,D01E5682,extended,00000062
+patch=1,EE,201E5680,extended,0060280A
+
+[Cheats/Recover By MP Fluctuation In Battle] 
+patch=1,EE,D01E4F42,extended,00000062
+patch=1,EE,201E4F40,extended,0060280A
+
+[Cheats/Infiniote Guts Using Special Skill & Heraldic Arts] 
+patch=1,EE,D0290552,extended,0000E615
+patch=1,EE,20290550,extended,AE000000
+
+[Cheats/Infiniote Items In Battle] 
+patch=1,EE,D027448C,extended,0000082B
+patch=1,EE,2027448C,extended,24010000
+
+[Cheats/One Hit Kill] 
+patch=1,EE,201E4F68,extended,24037D72
+patch=1,EE,201E4F70,extended,24027D72
+patch=1,EE,201E56A8,extended,24037D72
+patch=1,EE,201E56B0,extended,24027D72
+
+[Cheats/Save Anywhere] 
+patch=1,EE,20267B88,extended,24080001
+patch=1,EE,20267B8C,extended,A0680088
+patch=1,EE,20267B94,extended,1273000C
+
+[Cheats/Always A Treasure Jewel] 
+patch=1,EE,D02D8392,extended,00001840
+patch=1,EE,202D8390,extended,24020002
+
+[Cheats/Always A Safety Jewel] 
+patch=1,EE,D02D83BE,extended,00001840
+patch=1,EE,202D83BC,extended,24020002
+
+[Cheats/Shop All Items 1 Folder] 
+patch=1,EE,D02FA782,extended,00001440
+patch=1,EE,202FA780,extended,14210003
+
+[Cheats/All Items Available In Shop] 
+patch=1,EE,202FA154,extended,24020014
+patch=1,EE,202FA504,extended,24030017
+patch=1,EE,202FA8FC,extended,10C60006
+patch=1,EE,202FA91C,extended,105F0034
+patch=1,EE,202FA984,extended,11080013
+
+[Cheats/CP 0] 
+patch=1,EE,003530E0,extended,00000128
+patch=1,EE,203530E0,extended,70003FC8
+
+[Cheats/Exp 99999999 After Battle] 
+patch=1,EE,E003FF3A,extended,00252FD4
+patch=1,EE,20252FB0,extended,14200001
+patch=1,EE,20252FBC,extended,3C123B9A
+patch=1,EE,20252FD4,extended,3652C9FF
+
+

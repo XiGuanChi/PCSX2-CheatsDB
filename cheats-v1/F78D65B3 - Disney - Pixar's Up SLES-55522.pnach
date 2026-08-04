@@ -1,0 +1,31 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20540F7C,extended,00000000
+
+[Cheats/Infinite Health Alt] 
+patch=1,EE,007B6C49,extended,00000001
+
+[Cheats/Invincible] 
+patch=1,EE,00794D49,extended,00000001
+
+[Cheats/Invincible Alt] 
+patch=1,EE,006B6308,extended,00000001
+
+[Cheats/Infinite Laser]  
+patch=1,EE,00794D4A,extended,00000001
+
+[Cheats/Infinite Laser Alt] 
+patch=1,EE,206C2034,extended,24020063
+
+[Cheats/Infinite Player Weapons]  
+patch=1,EE,00794D5F,extended,00000001
+
+[Cheats/Infinite Vision] 
+patch=1,EE,00794D4C,extended,00000001
+
+[Cheats/Unlock All Weapons] 
+patch=1,EE,00794D60,extended,00000001
+
+[Cheats/Unlock All Bonuses and Minigames Doesnt Give Movie Clips] 
+patch=1,EE,204CC570,extended,A0800005
+patch=1,EE,204CC574,extended,03E00008
+patch=1,EE,204CC578,extended,80820005

@@ -1,0 +1,70 @@
+[Cheats/Max Money]  
+patch=1,EE,2104DDF4,extended,000F423F
+
+[Cheats/Always 1st Place when you reach the goal] 
+patch=1,EE,01044491,extended,00000000
+
+[Cheats/Opponents Don't Move] 
+patch=1,EE,20218178,extended,3C020101
+patch=1,EE,2021817C,extended,34424EE0
+patch=1,EE,20218180,extended,00441026
+
+[Cheats/Max Engine] 
+patch=1,EE,0104E5DC,extended,0000007F
+
+[Cheats/Max A Parts] 
+patch=1,EE,1104E5F0,extended,00001F3F
+
+[Cheats/Max B Parts] 
+patch=1,EE,0104E60C,extended,0000000E
+
+[Cheats/Max C Parts] 
+patch=1,EE,0104E61C,extended,0000003E
+
+[Cheats/Max D Parts] 
+patch=1,EE,2104E62C,extended,F40F7DDF
+
+[Cheats/Max Horn] 
+patch=1,EE,1104E654,extended,00007FFF
+
+[Cheats/Max Meter] 
+patch=1,EE,1104E668,extended,000001EF
+
+[Cheats/Unlock All Parts from engine to D parts] 
+patch=1,EE,2104E5DC,extended,000000FF
+patch=1,EE,2104E5F0,extended,00001FFF
+patch=1,EE,2104E604,extended,0000000F
+patch=1,EE,2104E618,extended,0000003F
+patch=1,EE,2104E62C,extended,FFFFFFFF
+patch=1,EE,2104E630,extended,7FFFFFFF
+
+[Cheats/30 Flags Obtained] 
+patch=1,EE,2104E318,extended,00000000
+patch=1,EE,2104E31C,extended,00000000
+patch=1,EE,2104E320,extended,00000000
+patch=1,EE,2104E324,extended,00000000
+patch=1,EE,2104E328,extended,00000000
+patch=1,EE,2104E32C,extended,00000000
+patch=1,EE,2104E330,extended,00000000
+patch=1,EE,2104E334,extended,0C0C0000
+
+[Cheats/Unlock All Stickers] 
+patch=1,EE,2104E6BC,extended,01010101
+patch=1,EE,2104E6C0,extended,01010101
+patch=1,EE,2104E6C4,extended,01010101
+patch=1,EE,2104E6C8,extended,01010101
+patch=1,EE,2104E6CC,extended,01010101
+patch=1,EE,2104E6D0,extended,01010101
+
+[Cheats/Unlock All Horns] 
+patch=1,EE,2104E654,extended,001FFFFF
+
+[Cheats/Unlock All Meters] 
+patch=1,EE,1D936990,extended,1456E60CC
+
+[Cheats/Debug menu display when selecting from the beginning] 
+patch=1,EE,20204440,extended,24A5EF40
+
+[Cheats/Unlock Option Menu Extension] 
+patch=1,EE,2020834C,extended,24060007
+patch=1,EE,20208390,extended,24030007

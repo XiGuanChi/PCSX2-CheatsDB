@@ -1,0 +1,17 @@
+[Cheats/DRIVING REVOLUTION DR Max Gauge]  
+patch=1,EE,213485F8,extended,000007D0
+
+[Cheats/Max Ranking Points If you race in Enthusia Life Mode without using a code to earn ranking points and create save data, then use the Max Ranking Points code and start from CONTINUE to get the effect] 
+patch=1,EE,103D9B24,extended,0000FFFF
+
+[Cheats/Max Skill Level] 
+patch=1,EE,103E8868,extended,0000FFFF
+
+[Cheats/Driving Revolution Cleared] 
+patch=1,EE,003E88C4,extended,00000003
+patch=1,EE,103E88C6,extended,00000303
+patch=1,EE,403E88C8,extended,000F0001
+patch=1,EE,03030303,extended,00000000
+patch=1,EE,003E8900,extended,00000003
+patch=1,EE,403E8948,extended,003C0002
+patch=1,EE,00000000,extended,00000000

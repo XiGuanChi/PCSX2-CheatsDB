@@ -1,0 +1,20 @@
+[Cheats/Infinite Lives] 
+patch=1,EE,201B5698,extended,00000000
+
+[Cheats/Find 1 Firefly For All Freed] 
+patch=1,EE,201B3748,extended,24030064
+
+[Cheats/Find 1 Egg To Finish Level] 
+patch=1,EE,201B41A0,extended,24030006
+
+[Cheats/Max Fireflies Completed Level Screen] 
+patch=1,EE,2040BD40,extended,00000064
+
+[Cheats/Unlock All Levels Story Mode] 
+patch=1,EE,1040BD38,extended,0000FFFF
+
+[Cheats/Unlock All Levels Arcade Mode] 
+patch=1,EE,1028E2C8,extended,0000FFFF
+
+[Cheats/Press R3+Select for Debug Menu at any time when a video isn't playing] 
+patch=1,EE,0011C286,extended,00000041

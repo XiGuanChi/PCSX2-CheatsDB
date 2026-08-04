@@ -1,0 +1,42 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20198E50,extended,00000000
+
+[Cheats/Infinite Health ALT] 
+patch=1,EE,20251688,extended,240103E7
+patch=1,EE,20251694,extended,AE810090
+
+[Cheats/Infinite Specials] 
+patch=1,EE,20198FE0,extended,00000000
+
+[Cheats/Extra Specials] 
+patch=1,EE,20198FDC,extended,00431023
+
+[Cheats/Quick Exp Gain] 
+patch=1,EE,200C0220,extended,0807D704
+patch=1,EE,200C0224,extended,46140300
+patch=1,EE,20199F88,extended,3C01447A
+patch=1,EE,20199F9C,extended,0C030088
+patch=1,EE,20199FA0,extended,4481A000
+
+[Cheats/1 Hit Deaths Enemies]
+patch=1,EE,20198EC0,extended,AE600090
+
+[Cheats/Infinite Arrows] 
+patch=1,EE,20DECDA8,extended,001E001E
+
+[Cheats/1 Hit Kill] 
+patch=1,EE,201EF820,extended,AE600090
+
+[Cheats/Unlock Everything]  
+patch=1,EE,0031A550,extended,00000001
+
+[Cheats/Aragorn All Levels Complete] 
+patch=1,EE,2030FBA4,extended,0000FFFF
+patch=1,EE,2030FBA8,extended,0000FFFF
+
+[Cheats/Aragorn All Personal Upgrades] 
+patch=1,EE,2030FBAC,extended,FFFFFFFF
+patch=1,EE,2030FBB0,extended,FFFFFFFF
+
+[Cheats/Aragorn Quick Level Up] 
+patch=1,EE,2030FBC0,extended,49000000

@@ -1,0 +1,32 @@
+[Cheats/Max Money] 
+patch=1,EE,202EB794,extended,08028000
+patch=1,EE,202EB798,extended,00000000
+patch=1,EE,200A0000,extended,3C014974
+patch=1,EE,200A0004,extended,342123F0
+patch=1,EE,200A0008,extended,44810000
+patch=1,EE,200A000C,extended,E6000004
+patch=1,EE,200A0010,extended,7BB00000
+patch=1,EE,200A0014,extended,080BADE7
+
+[Cheats/Infinite Time] 
+patch=1,EE,20280BE8,extended,00000000
+
+[Cheats/Infinite Nitro Fuel]  
+patch=1,EE,20303418,extended,00000000
+
+[Cheats/Buy Tuning Items Even Without Money] 
+patch=1,EE,202D2A1C,extended,00000000
+patch=1,EE,202D292C,extended,00000000
+patch=1,EE,202D2C20,extended,00000000
+patch=1,EE,202D1F30,extended,00000000
+patch=1,EE,202D2E38,extended,00000000
+patch=1,EE,202D16FC,extended,00000000
+patch=1,EE,202D1A90,extended,00000000
+patch=1,EE,202D2190,extended,00000000
+patch=1,EE,202D18C8,extended,00000000
+patch=1,EE,202D1C50,extended,00000000
+patch=1,EE,202D1E18,extended,00000000
+patch=1,EE,202D2618,extended,00000000
+patch=1,EE,202D2730,extended,00000000
+patch=1,EE,202D2500,extended,00000000
+

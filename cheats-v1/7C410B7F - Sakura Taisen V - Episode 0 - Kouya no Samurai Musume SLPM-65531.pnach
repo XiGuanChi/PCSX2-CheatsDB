@@ -1,0 +1,52 @@
+[Cheats/Infinite Max Health]  
+patch=1,EE,1064159A,extended,000003E7
+patch=1,EE,1064159C,extended,000003E7
+
+[Cheats/Infinite Special Attack] 
+patch=1,EE,106415EC,extended,0000012C
+
+[Cheats/Max Crush] 
+patch=1,EE,102CDE26,extended,000003E7
+patch=1,EE,102CDE28,extended,000003E7
+
+[Cheats/Infinite SP] 
+patch=1,EE,201FBBC8,extended,00000000
+
+[Cheats/Invincible The fall is not supported death] 
+patch=1,EE,2014FF34,extended,54000004
+patch=1,EE,2015CFA0,extended,54000004
+
+[Cheats/Player strength LV.10] 
+patch=1,EE,002C5C22,extended,0000000A
+
+[Cheats/Player speed LV.10] 
+patch=1,EE,002C5C20,extended,0000000A
+
+[Cheats/Re-enable Extra Debug Features Pressing L2 + D-Pad Up will enable an unused map category in the level select portion of the debug menu DBST0
+Pressing L2 + D-Pad Down will enable another unused map category in the level select portion of the debug menu DBST1. This replaces the above map category (after using this once, you will need to press L3 to reset the menu's index. It will crash if you do not do this).Pressing L3 will reset the level select menu's index to 1. This is needed if you send yourself to a map from the above category. Entering the menu again without doing this will crash the game.Pressing L1 + L2 + D-Pad Left will enable another debug menu.] 
+patch=1,EE,10112994,extended,0000000F
+patch=1,EE,D02EDA02,extended,0000FFFD
+patch=1,EE,202ECE0C,extended,00000001
+patch=1,EE,D02EDA02,extended,0000FE7F
+patch=1,EE,002EC177,extended,00000000
+patch=1,EE,D02EDA02,extended,0000FAFF
+patch=1,EE,002EC177,extended,00000001
+patch=1,EE,E002FEEF,extended,002EDA02
+patch=1,EE,202EBF9C,extended,0000000C
+patch=1,EE,202C1EDC,extended,002C1D88
+patch=1,EE,E002FEBF,extended,002EDA02
+patch=1,EE,202EBF9C,extended,0000000C
+patch=1,EE,202C1EDC,extended,002C1DF0
+
+[Cheats/Re-enable Unused Passwords] 
+patch=1,EE,202CA460,extended,00000000
+patch=1,EE,202CA464,extended,01000000
+patch=1,EE,202CA470,extended,00000000
+patch=1,EE,202CA474,extended,02000000
+patch=1,EE,202CA478,extended,00000000
+patch=1,EE,202CA47C,extended,03000000
+patch=1,EE,202CA488,extended,00000000
+patch=1,EE,202CA48C,extended,04000000
+
+[Cheats/Enable Master Password Always] 
+patch=1,EE,00C1C730,extended,00000001

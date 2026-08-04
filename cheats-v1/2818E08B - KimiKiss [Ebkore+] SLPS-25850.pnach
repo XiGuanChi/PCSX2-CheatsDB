@@ -1,0 +1,42 @@
+[Cheats/Required code] 
+patch=1,EE,200FF400,extended,ADA90004
+patch=1,EE,200FF404,extended,00091021
+patch=1,EE,200FF4A0,extended,08046F0B
+patch=1,EE,2011BC24,extended,0803FD00
+patch=1,EE,200FF500,extended,3C02002C
+patch=1,EE,200FF504,extended,94420242
+patch=1,EE,200FF508,extended,3841FCFF
+patch=1,EE,200FF50C,extended,1420003C
+patch=1,EE,200FF600,extended,08058599
+patch=1,EE,2014F740,extended,0C03FD40
+
+[Cheats/Unlock All Album]  
+patch=1,EE,200FF408,extended,340103FD
+patch=1,EE,200FF40C,extended,14410003
+patch=1,EE,200FF414,extended,3C010010
+patch=1,EE,200FF418,extended,AC24F3FC
+patch=1,EE,200FF514,extended,3C030010
+patch=1,EE,200FF518,extended,8C63F3FC
+patch=1,EE,200FF51C,extended,8C630000
+patch=1,EE,200FF524,extended,240200FA
+patch=1,EE,200FF528,extended,240101FF
+patch=1,EE,200FF52C,extended,A4610000
+patch=1,EE,200FF530,extended,24630004
+patch=1,EE,200FF534,extended,2442FFFF
+patch=1,EE,200FF540,extended,1440FFFA
+
+[Cheats/Unlock Topic All 16] 
+patch=1,EE,200FF41C,extended,340100BD
+patch=1,EE,200FF420,extended,14410003
+patch=1,EE,200FF428,extended,3C010010
+patch=1,EE,200FF42C,extended,AC24F3F8
+patch=1,EE,200FF548,extended,3C030010
+patch=1,EE,200FF54C,extended,8C63F3F8
+patch=1,EE,200FF550,extended,8C630000
+patch=1,EE,200FF554,extended,2402002B
+patch=1,EE,200FF558,extended,24010021
+patch=1,EE,200FF55C,extended,A4610004
+patch=1,EE,200FF560,extended,24630004
+patch=1,EE,200FF564,extended,2442FFFF
+patch=1,EE,200FF570,extended,1440FFFA
+

@@ -1,0 +1,25 @@
+[Cheats/Infinite Money] 
+patch=1,EE,2055F0E4,extended,0098967F
+
+[Cheats/P1 Infinite Health] 
+patch=1,EE,2055F0AC,extended,46C80000
+patch=1,EE,2055F0B0,extended,46C80000
+
+[Cheats/P1 Infinite Magic] 
+patch=1,EE,2055F0C4,extended,46C80000
+patch=1,EE,2055F0C8,extended,46C80000
+
+[Cheats/P2 Infinite Health] 
+patch=1,EE,205653DC,extended,46C80000
+patch=1,EE,205653E0,extended,46C80000
+
+[Cheats/P2 Infinite Magic] 
+patch=1,EE,205653F4,extended,46C80000
+patch=1,EE,205653F8,extended,46C80000
+
+[Cheats/Unlock Extreme Mode & All Characters] 
+patch=1,EE,0044C2E0,extended,0000001F
+
+[Cheats/L3 During Game Pause For Debug Menu Invulnerable, level select] 
+patch=1,EE,D04CF682,extended,0000FFFD
+patch=1,EE,203608C8,extended,00311510

@@ -1,0 +1,10 @@
+[Cheats/Max Reward Points] 
+patch=1,EE,204BBF28,extended,05F5E0FF
+
+[Cheats/Unlock All Rewards] 
+patch=1,EE,204BBF30,extended,FFFFFFFF
+patch=1,EE,204BBF34,extended,FFFFFFFF
+patch=1,EE,104BBF38,extended,00000FFF
+
+[Cheats/Unlock All Trophies] 
+patch=1,EE,004BBF40,extended,0000000F

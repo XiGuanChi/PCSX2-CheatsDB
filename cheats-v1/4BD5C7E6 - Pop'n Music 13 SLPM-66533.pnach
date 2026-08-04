@@ -1,0 +1,56 @@
+[Cheats/Max Groove Gauge When Groove Gauge Changes BATTLE not supported] 
+patch=1,EE,20162F20,extended,00000000
+
+[Cheats/Autoplay] 
+patch=1,EE,2024FBB4,extended,00000001
+
+[Cheats/Autoplay ON Press SELECT+L2 OFF SELECT+R2] 
+patch=1,EE,D0CEC982,extended,0000FEFE
+patch=1,EE,201669A4,extended,24030001
+patch=1,EE,D0CEC982,extended,0000FDFE
+patch=1,EE,201669A4,extended,8F8388C4 
+
+[Cheats/UnlockTime Release Time Maximum Secret Song is fully opened Masu] 
+patch=1,EE,20CED528,extended,FFFFFFFF
+
+[Cheats/SPECIAL MINIGAME Chicken Race Stay In The Air At 1cm] 
+patch=1,EE,201B199C,extended,24020000
+patch=1,EE,201B1A30,extended,24020057
+
+[Cheats/SPECIAL MINIGAME Birdman Contest Flying Distance 999999m] 
+patch=1,EE,201AE404,extended,10000003
+
+[Cheats/SPECIAL MINIGAME Slapstick Synchro Rating Point 10] 
+patch=1,EE,201F0038,extended,24040060
+patch=1,EE,201F003C,extended,24020060
+
+[Cheats/SPECIAL MINIGAME Slapstick Synchro Max Gauge] 
+patch=1,EE,201EDA60,extended,0807B78D
+patch=1,EE,201EDA64,extended,240303FF 
+patch=1,EE,201EDE34,extended,AEA30050 
+patch=1,EE,201EDE38,extended,0807B617
+
+[Cheats/SPECIAL MINIGAME Marathon Mode Max Groove Gauge Max Heart] 
+patch=1,EE,2024FAD8,extended,000003FF
+
+[Cheats/SPECIAL MINIGAME Pop'n Marker Only Double Speed] 
+patch=1,EE,2011FFF8,extended,000F107C
+
+[Cheats/Unlock Competitive ARCADE Mode All Ojama List Some Ojama techniques cannot be used unless you are of high rank] 
+patch=1,EE,20CF2354,extended,FFFFFFFF
+patch=1,EE,20CF2358,extended,FFFFFFFF
+patch=1,EE,20CF235C,extended,FFFFFFFF
+
+
+[Cheats/Battle Rank God] 
+patch=1,EE,00CF2346,extended,00000009
+
+[Cheats/Unlock All Playing Cards When Entering The Battle Record Of RECORDS]  
+patch=1,EE,201C4A2C,extended,240A0001
+patch=1,EE,201C4A30,extended,AC5A0120
+
+[Cheats/Unlock All SPECIAL's OMAKE]  
+patch=1,EE,10CED518,extended,0000FFFF
+
+[Cheats/Unlock Only Songs Super Fast] 
+patch=1,EE,20179604,extended,24020005

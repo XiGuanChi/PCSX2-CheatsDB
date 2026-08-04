@@ -1,0 +1,14 @@
+[Cheats/Max Money] 
+patch=1,EE,2032085C,extended,000F423F
+patch=1,EE,2032ECF0,extended,000F423F
+
+[Cheats/Press L1.+ L2 For More Time] 
+patch=1,EE,D0485EC2,extended,0000FAFF
+patch=1,EE,20320EB0,extended,0007FFFF
+
+[Cheats/Unlock All Missions Mission Mode] 
+patch=1,EE,20320908,extended,0000000A
+
+[Cheats/Unlock All Characters]  
+patch=1,EE,40320980,extended,000C0001
+patch=1,EE,00000001,extended,00000000

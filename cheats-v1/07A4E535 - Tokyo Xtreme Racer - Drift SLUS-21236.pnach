@@ -1,0 +1,14 @@
+[Cheats/Infinite Credit Points] 
+patch=1,EE,203C2740,extended,05F5E0FF
+
+[Cheats/Infinite SP P1] 
+patch=1,EE,D1E80D1F,extended,000001E8
+patch=1,EE,21E80D20,extended,004C4B40
+
+[Cheats/Unlock All Conquest Courses] 
+patch=1,EE,203C6D9C,extended,02020202
+patch=1,EE,003C6DA0,extended,00000002
+
+[Cheats/Can Purchase All Cars] 
+patch=1,EE,201C4D28,extended,24030001
+patch=1,EE,201C4D30,extended,A12349FA

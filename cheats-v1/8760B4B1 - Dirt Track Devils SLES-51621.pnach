@@ -1,0 +1,11 @@
+[Cheats/Opponents Don't Move] 
+patch=1,EE,2012C850,extended,00000000
+patch=1,EE,2012C858,extended,8E83028C
+patch=1,EE,2012C85C,extended,24020002
+patch=1,EE,2012C860,extended,14620003
+
+[Cheats/Time Laps Races Always Zero] 
+patch=1,EE,2013156C,extended,AC800000
+
+[Cheats/Total Time Races Always Zero] 
+patch=1,EE,20131514,extended,AE0000E8

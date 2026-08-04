@@ -1,0 +1,95 @@
+[Cheats/Max WEN]  
+patch=1,EE,20D7236C,extended,000F423F
+
+[Cheats/Unlock All Trophy]  
+patch=1,EE,20D72358,extended,FFFFFFFF
+
+[Cheats/Unlock All hidden teams] 
+patch=1,EE,20D72350,extended,FFFFFFFF
+
+[Cheats/Master League Points 9999999] 
+patch=1,EE,D0A7DCF4,extended,0000008C
+patch=1,EE,20A7DCE8,extended,3C010098
+patch=1,EE,D0A7DCF4,extended,0000008C
+patch=1,EE,20A7DCEC,extended,3421967F
+patch=1,EE,D0A7DCF4,extended,0000008C
+patch=1,EE,20A7DCF8,extended,AC410018
+
+[Cheats/Scoring operation hang avoidance at the time of pause Avoids the problem of hanging when scoring during a match pause] 
+patch=1,EE,201CAB94,extended,00000000
+patch=1,EE,D0BC15DC,extended,00000063
+patch=1,EE,20BC15C8,extended,00000000
+
+[Cheats/99 Goals HOME side SELECT+L2 Please use in combination with the score operation hang avoidance code when pausing] 
+patch=1,EE,D044E302,extended,0000FEFE
+patch=1,EE,20C045A8,extended,00630063
+patch=1,EE,D044E302,extended,0000FEFE
+patch=1,EE,10C045AC,extended,00000063
+
+[Cheats/99 Goals AWAY side SELECT+R2 Please use in combination with the score operation hang avoidance code when pausing] 
+patch=1,EE,D044E302,extended,0000FDFE
+patch=1,EE,20C04740,extended,00630063
+patch=1,EE,D044E302,extended,0000FDFE
+patch=1,EE,10C04744,extended,00000063
+
+[Cheats/Master league If you look at the experience value screen twice the ability experience value is max only for your team It will be reflected in the status on the second experience value screen. Older characters will return to their original values ??when their stats drop.] 
+patch=1,EE,D0AE5864,extended,00000017
+patch=1,EE,20AE5830,extended,2403270F
+patch=1,EE,D0AE5864,extended,00000017
+patch=1,EE,20AE5834,extended,A6430000
+patch=1,EE,D0AE5864,extended,00000017
+patch=1,EE,20AE5838,extended,A6830002
+
+[Cheats/Challenge training Dribble time 0.01 seconds]
+patch=1,EE,D0860FD4,extended,00000018
+patch=1,EE,20860FCC,extended,24020001
+
+[Cheats/Challenge training Ball keep, defense, dribble, short pass result 9999 points] 
+patch=1,EE,D087A4F0,extended,0000002A
+patch=1,EE,2087A4F4,extended,2402270F
+
+[Cheats/Challenge training Short pass 1 pass 9999 times] 
+patch=1,EE,D086EF6C,extended,0000002A
+patch=1,EE,2086EF98,extended,2402270F
+
+[Cheats/Challenge training Cumulative point required code] 
+patch=1,EE,200F4100,extended,2406270F
+patch=1,EE,200F4104,extended,A626002C
+patch=1,EE,200F4108,extended,03E00008
+
+[Cheats/Challenge training Free kick long pass cumulative 9999 points Use in combination with the cumulative score required code] 
+patch=1,EE,D087E4D0,extended,0000002C
+patch=1,EE,2087E4D0,extended,0C03D040
+
+[Cheats/Challenge training Cumulative free kick shoot 9999 points Use in combination with the cumulative score required code] 
+patch=1,EE,D087E5B0,extended,0000002C
+patch=1,EE,2087E5B0,extended,0C03D040
+
+[Cheats/Challenge training Cumulative manual pass 9999 points Use in combination with the cumulative score required code] 
+patch=1,EE,D087E440,extended,0000002C
+patch=1,EE,2087E440,extended,0C03D040
+
+[Cheats/Challenge training Cumulative offense 9999 points Use in combination with the cumulative score required code] 
+patch=1,EE,D087EB98,extended,0000002C
+patch=1,EE,2087EB98,extended,0C03D040
+
+[Cheats/Master League Off - Season Reinforcement Training Clear even if you fail with exceptions Effective with short pass, offense, defense, dribble, long pass, and free kick] 
+patch=1,EE,D08128C4,extended,0000072C
+patch=1,EE,208128F8,extended,24010001
+patch=1,EE,D08128C4,extended,0000072C
+patch=1,EE,208128FC,extended,AC410030
+
+[Cheats/Master League Off - Season Reinforcement Training Short pass 9999 times with 1 pass] 
+patch=1,EE,D086EF6C,extended,0000002A
+patch=1,EE,2086EF98,extended,2402270F
+
+[Cheats/Master League Off - Season Reinforcement Training Dribble clear time 0.01 seconds Time is not displayed]
+patch=1,EE,D0860FD4,extended,00000018
+patch=1,EE,20860FCC,extended,24020001
+[Cheats/Unlock ] *
+
+[Cheats/Master League Off - Season Reinforcement Training Clear even if corner kick & shoot fails Effective with left corner kick, right corner kick, and shoot] 
+patch=1,EE,D08128C0,extended,00008198
+patch=1,EE,208128C4,extended,24010001
+patch=1,EE,D08128C0,extended,00008198
+patch=1,EE,208128C8,extended,AC41072C

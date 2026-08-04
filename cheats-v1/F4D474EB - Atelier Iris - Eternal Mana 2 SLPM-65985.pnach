@@ -1,0 +1,100 @@
+[Cheats/Infinite Money]  
+patch=1,EE,20F690B8,extended,000F423F
+
+[Cheats/Max Money] 
+patch=1,EE,207D831C,extended,000F423F
+
+[Cheats/P1 Level 50] 
+patch=1,EE,10B15B90,extended,00000032
+
+[Cheats/P1 Infinite Health 999] 
+patch=1,EE,10B15B92,extended,000003E7
+patch=1,EE,10B15B94,extended,000003E7
+
+[Cheats/Infinite Skill Wali Point] 
+patch=1,EE,202379E8,extended,24040001
+patch=1,EE,2023996C,extended,00000000
+
+[Cheats/Max Gen Element] 
+patch=1,EE,1C28E238,extended,1473E788
+patch=1,EE,1C28E23C,extended,1473E788
+patch=1,EE,1C28E240,extended,1473E788
+patch=1,EE,1C28E244,extended,1473E788
+patch=1,EE,1C28E248,extended,1473E788
+patch=1,EE,1C28E24C,extended,1473E788
+patch=1,EE,4C28E250,extended,1456E788
+
+[Cheats/Infinite Source Normal Time Even If You Mix Mana]   
+patch=1,EE,20181110,extended,240E0063
+
+[Cheats/Max Performance Figure When You Open The Menu] 
+patch=1,EE,2017F880,extended,240F0001
+
+[Cheats/Encounter Gauge Always Blue] 
+patch=1,EE,2026BF74,extended,1000007A
+
+[Cheats/Experience Gained After Battle About 1,000,000] 
+patch=1,EE,201C5B44,extended,3C0D0010
+
+[Cheats/In Battle Enemy's initial HP 1 During Battle 1] 
+patch=1,EE,201BC418,extended,240F0001
+patch=1,EE,201BC420,extended,240F0001
+
+[Cheats/In Battle Enemy First Stage HP 1]  
+patch=1,EE,201BC418,extended,240F0001
+patch=1,EE,201BC420,extended,240F0001
+
+[Cheats/In Battle Enemy Performance Figure 0]  
+patch=1,EE,201BC42C,extended,AE600034
+patch=1,EE,201BC434,extended,AE600038
+patch=1,EE,201BC43C,extended,AE60003C
+patch=1,EE,201BC444,extended,AE600040
+patch=1,EE,201BC44C,extended,AE600044
+patch=1,EE,201BC454,extended,AE600048
+patch=1,EE,201BC45C,extended,AE60004C
+patch=1,EE,201BC464,extended,AE600050
+patch=1,EE,201BC46C,extended,AE600054
+
+[Cheats/98 Items Found In The Menu] 
+patch=1,EE,2025E6C8,extended,24010062
+patch=1,EE,2025E6CC,extended,A5E10000
+
+[Cheats/In Battle Press SELECT+UP 0 Allies Health Used when you want to self-destruct during invincible events] 
+patch=1,EE,201BD29C,extended,8DED002C
+patch=1,EE,D07DAD82,extended,0000FFEE
+patch=1,EE,201BD29C,extended,ADE0002C
+
+[Cheats/No Encounter On Press Select+L2 Off Select+R2] 
+patch=1,EE,D07DAD82,extended,0000FEFE
+patch=1,EE,201AC6EC,extended,4A0002FF
+patch=1,EE,D07DAD82,extended,0000FDFE
+patch=1,EE,201AC6EC,extended,0C09AFB7
+
+[Cheats/Unlock Appears As A Bonus In The Title] 
+patch=1,EE,00AEEC80,extended,000000FF
+
+[Cheats/Unlock All Directory]  
+patch=1,EE,20AEEBC0,extended,02020202
+patch=1,EE,20AEEBC4,extended,02020202
+patch=1,EE,20AEEBC8,extended,02020202
+patch=1,EE,20AEEBCC,extended,00020202
+
+[Cheats/Unlock All Music Hall]  
+patch=1,EE,40AEEBFC,extended,00130001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Cinema]  
+patch=1,EE,10AEEC56,extended,00000101
+patch=1,EE,20AEEC58,extended,01010101
+
+[Cheats/Unlock All Encyclopedia]  
+patch=1,EE,20181610,extended,0803D000
+patch=1,EE,200F4000,extended,240200FF
+patch=1,EE,200F4004,extended,A08201AC 
+patch=1,EE,200F4008,extended,03E00008
+
+[Cheats/Unlock All Monster Picture Book] 
+patch=1,EE,20181610,extended,0803D000
+patch=1,EE,200F4000,extended,240200FF
+patch=1,EE,200F4004,extended,A08201AC
+patch=1,EE,200F4008,extended,03E00008

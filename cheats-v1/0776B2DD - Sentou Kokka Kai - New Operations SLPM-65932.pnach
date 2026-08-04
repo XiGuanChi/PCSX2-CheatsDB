@@ -1,0 +1,51 @@
+[Cheats/Total Money Faction 1 Max] 
+patch=1,EE,217A3788,extended,0098967F
+
+[Cheats/Total Money Faction 2 Max] 
+patch=1,EE,217A4630,extended,0098967F
+
+[Cheats/Total Money Faction 3 Max] 
+patch=1,EE,217A54D8,extended,0098967F
+
+[Cheats/Number of turns 1] 
+patch=1,EE,117A3648,extended,00000001
+
+[Cheats/When Producing Weapons Max Production Capacity Reflects only the faction in charge of the player] 
+patch=1,EE,2019D478,extended,2 402270F
+patch=1,EE,2019D484,extended,A642000C
+
+[Cheats/Units that have completed their actions can take action again You can re-start by specifying the unit that has completed its action] 
+patch=1,EE,201713C4,extended,A0C0000B
+patch=1,EE,20174FBC,extended,A240000B
+patch=1,EE,20192634,extended,30A5FFFE
+patch=1,EE,20192638,extended,A125000B
+
+[Cheats/Max Resource Stockpile when expanding the city Only reflected in the player's camp]
+patch=1,EE,2019D5B0,extended,240203E7
+patch=1,EE,2019D5BC,extended,A642000A
+
+
+[Cheats/1P Press SELECT+L2 to win Faction 1 Press when Faction 1 has its turn] 
+patch=1,EE,D0284E9C,extended,0000FEFE
+patch=1,EE,017A4640,extended,000000FF
+patch=1,EE,D0284E9C,extended,0000FEFE
+patch=1,EE,017A54E8,extended,000000FF
+
+[Cheats/No visibility limit] 
+patch=1,EE,20169C58,extended,1000002D
+
+[Cheats/Unlock All Free Map If you save during campaign mode, it will be reflected in the save data. When resetting, please load the previous data from play data] 
+patch=1,EE,217A6C88,extended,FFFFFFFF
+patch=1,EE,217A6C8C,extended,FFFFFFFF
+
+[Cheats/When you enter the weapon encyclopedia, a secret weapon appears F-45A and F/A-47 are added to the modern version of the American army, and S-37 and T-95 are added to the modern version of the Russian army. Flags may be deleted when loading from play data. Please go back to the weapon encyclopedia and check if there is a secret weapon]
+patch=1,EE,20162380,extended,90811030] 
+patch=1,EE,20162384,extended,342100C0
+patch=1,EE,20162388,extended,A0811030
+patch=1,EE,201623C0,extended,240200FF
+
+[Cheats/Debug Flag Operation Turn on SELECT+R1  off with SELECT+R2 When debugging is ON, visibility is open and all forces can be controlled by the player. Please note that the debug flag will be reflected in the save data] 
+patch=1,EE,D0284E9C,extended,0000F7FE
+patch=1,EE,017A3630,extended,000000FF
+patch=1,EE,D0284E9C,extended,0000FBFE
+patch=1,EE,017A3630,extended,000000F7

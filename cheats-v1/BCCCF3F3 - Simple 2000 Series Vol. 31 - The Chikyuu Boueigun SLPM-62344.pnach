@@ -1,0 +1,63 @@
+[Cheats/Helicopter Durability] 
+patch=1,EE,201CAE74,extended,3C024220
+patch=1,EE,201CAF9C,extended,3C024220
+
+[Cheats/Bike Durability] 
+patch=1,EE,201D1CA0,extended,3C024220
+patch=1,EE,201D1DD0,extended,3C024220
+
+[Cheats/Tank Durability] 
+patch=1,EE,201CD2A0,extended,3C024220
+
+[Cheats/Invisibility] 
+patch=1,EE,2019B494,extended,00000000
+
+[Cheats/Strengthened Daroga] 
+patch=1,EE,201B8BD0,extended,3C0240C0
+patch=1,EE,201B8C64,extended,3C063F80
+patch=1,EE,201B8C94,extended,3C023CCC
+patch=1,EE,201B8C98,extended,3447CCCD
+patch=1,EE,201B8CAC,extended,3C023ECC
+
+[Cheats/Accuracy Daroga]  
+patch=1,EE,201B8CB0,extended,3442CCCD
+patch=1,EE,201B8D38,extended,3C0240C0
+patch=1,EE,201B8E0C,extended,3C024170
+patch=1,EE,201B8E2C,extended,3C024170
+patch=1,EE,201B8F04,extended,3C024120
+patch=1,EE,201B8DF0,extended,3C02428C
+patch=1,EE,201B8E14,extended,3C023E99
+patch=1,EE,201BAFF8,extended,24040010
+
+[Cheats/Have All Weapons] 
+patch=1,EE,201C9170,extended,24030001
+patch=1,EE,201C9174,extended,A0430004
+
+[Cheats/Infinite Ammo]  
+patch=1,EE,201C6A14,extended,00000000
+
+[Cheats/Weapon Rapid Fire weapons with throwing motions not supported] 
+patch=1,EE,201C69F4,extended,00000000
+
+[Cheats/Emergency Evasion] 
+patch=1,EE,2018FFB0,extended,00000000
+patch=1,EE,2018FFA4,extended,00000000
+
+[Cheats/Can Get Up In The Air without being knocked away] 
+patch=1,EE,20191EDC,extended,1062000E
+patch=1,EE,20191F90,extended,00000000
+
+[Cheats/Unlock Mission Completion Rate 100%] 
+patch=1,EE,201ED3C4,extended,24030001
+patch=1,EE,201ED3C8,extended,A1030008
+patch=1,EE,201ED3D8,extended,A1030009
+patch=1,EE,201ED3E8,extended,A103000A
+patch=1,EE,201ED3F8,extended,A103000B
+patch=1,EE,201ED408,extended,A103000C
+
+[Cheats/All vehicles appear in all stages Does not appear on stage 18.
+ Side effects include overlapping helicopters and vehicles falling from the sky.
+ Also, if you enter battle mode with this code in, the game will freeze] 
+patch=1,EE,201EC0D8,extended,1020FCD9
+patch=1,EE,201EB550,extended,0C07B061
+

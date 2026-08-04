@@ -1,0 +1,41 @@
+[Cheats/Mental Gauge control button switching SELECT + left button is red dominant SELECT + right button is blue dominant] 
+patch=1,EE,D0393E82,extended,0000FF7E
+patch=1,EE,20212020,extended,3C037000
+patch=1,EE,D0393E82,extended,0000FFDE 
+patch=1,EE,20212020,extended,3C038000
+
+[Cheats/Body & Part code effect ON  Press L2 + up OFF L2 + downMental gauge red Please use it on side characters.It will not be effective unless used in conjunction with the maximum body gauge and maximum body part gauge codes.] 
+patch=1,EE,200F8048,extended,0807C5B0
+patch=1,EE,D0393E82,extended,0000FEEF
+patch=1,EE,201D7E7C,extended,0C03E000
+patch=1,EE,D0393E82,extended,0000FEBF
+patch=1,EE,201D7E7C,extended,0C07C5B0
+
+[Cheats/Body & Part code effect ON Press L2+Left OFF L2+Right Please use with characters on the blue side of the mental gauge.It will not be effective unless used in conjunction with the maximum body gauge and maximum body part gauge codes.] 
+patch=1,EE,200F8048,extended,0807C5B0
+patch=1,EE,D0393E82,extended,0000FE7F
+patch=1,EE,201D7FB8,extended,0C03E000
+patch=1,EE,D0393E82,extended,0000FEDF
+patch=1,EE,201D7FB8,extended,0C07C5B0
+
+[Cheats/Max Body Gauge]  
+patch=1,EE,200F8000,extended,3C010002
+patch=1,EE,200F8004,extended,AC410038
+patch=1,EE,200F8008,extended,AC41003C
+
+[Cheats/Max Part Gauge]  
+patch=1,EE,200F800C,extended,240103E8
+patch=1,EE,200F8010,extended,AC410048
+patch=1,EE,200F8014,extended,AC41004C
+patch=1,EE,200F8018,extended,AC410050
+patch=1,EE,200F801C,extended,AC410054
+patch=1,EE,200F8020,extended,AC410058 
+patch=1,EE,200F8024,extended,AC41005C
+
+[Cheats/Unlock All Characters Press SELECT on the menu screen] 
+patch=1,EE,D0338E82,extended,0000FFFE
+patch=1,EE,40399F50,extended,00180001
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Unlock All Garouden]  
+patch=1,EE,006F0130,extended,0000003F

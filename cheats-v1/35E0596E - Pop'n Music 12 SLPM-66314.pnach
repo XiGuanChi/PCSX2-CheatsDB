@@ -1,0 +1,20 @@
+[Cheats/Auto Play] 
+patch=1,EE,2020DBB4,extended,00000001
+
+[Cheats/Max Number Of Plays With One Play Of Each Song] 
+patch=1,EE,20165F30,extended,240203E7
+
+[Cheats/Unlock All Special Omake Gallery] 
+patch=1,EE,20CAB518,extended,FFFFFFFF
+patch=1,EE,20CB0304,extended,70000000
+patch=1,EE,20CB030C,extended,70000000
+patch=1,EE,20CB0314,extended,70000000 
+patch=1,EE,20CB031C,extended,70000000
+patch=1,EE,20CB0320,extended,70000000
+patch=1,EE,20CB0328,extended,70000000
+
+[Cheats/Unlock All Secret] 
+patch=1,EE,20CAB508,extended,FFFFFFFF
+patch=1,EE,00CAB50C,extended,000000FF
+patch=1,EE,00CAB5C3,extended,000000FF
+patch=1,EE,00CAB5C4,extended,000000FF

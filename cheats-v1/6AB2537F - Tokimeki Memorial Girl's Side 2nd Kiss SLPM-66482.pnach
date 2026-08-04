@@ -1,0 +1,50 @@
+[Cheats/Degree of rich 9999] 
+patch=1,EE,21F3672C,extended,000003E7
+
+[Cheats/Stress 0] 
+patch=1,EE,21F36728,extended,00000000
+
+[Cheats/Scholastic 999] 
+patch=1,EE,21F36710,extended,4479C000
+
+[Cheats/Art 999] 
+patch=1,EE,21F36714,extended,4479C000
+
+[Cheats/Popularity 999] 
+patch=1,EE,21F36718,extended,4479C000
+
+[Cheats/Motion 999] 
+patch=1,EE,21F3671C,extended,4479C000
+
+[Cheats/Attention 999] 
+patch=1,EE,21F36720,extended,4479C000
+
+[Cheats/Charm 999] 
+patch=1,EE,21F36724,extended,4479C000
+
+[Cheats/All Status 999] 
+patch=1,EE,41F36710,extended,00060001
+patch=1,EE,4479C000,extended,00000000
+
+[Cheats/With degree of rich fluctuation max] 
+patch=1,EE,201DA49C,extended,24010000
+
+[Cheats/Unlock All Albums saving reflection]  
+patch=1,EE,21F368A0,extended,FFFFFFFF
+patch=1,EE,21F368A4,extended,FFFFFFFF
+patch=1,EE,21F368A8,extended,FFFFFFFF
+patch=1,EE,21F368AC,extended,FFFFFFFF
+patch=1,EE,21F368B0,extended,FFFFFFFF
+patch=1,EE,21F368B4,extended,FFFFFFFF
+patch=1,EE,11F368B8,extended,00007FFF
+
+[Cheats/Unlock All Endings saving reflection] 
+patch=1,EE,21F36898,extended,FFFFFFFF
+patch=1,EE,01F3689C,extended,0000003F
+
+[Cheats/Unlock All Minigames saving reflection] 
+patch=1,EE,01F36890,extended,0000001F
+
+[Cheats/Unlock Pillow Throwing Minigame and Secret Principles saving reflection]  
+patch=1,EE,11F36892,extended,0000FFFF
+patch=1,EE,21F36894,extended,FFFFFFFF

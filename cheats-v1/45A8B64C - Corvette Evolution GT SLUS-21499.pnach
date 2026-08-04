@@ -1,0 +1,17 @@
+[Cheats/Infinite Driver Condition] 
+patch=1,EE,200C0220,extended,3C014348
+patch=1,EE,200C0224,extended,AC41002C
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,44021000
+patch=1,EE,202C85CC,extended,0C030088
+
+[Cheats/Infinite Tiger Effect] 
+patch=1,EE,202C8610,extended,3C014348
+patch=1,EE,202C8614,extended,AC61007C
+
+[Cheats/Infinite Car Condition] 
+patch=1,EE,202C8D20,extended,3C0142C8
+patch=1,EE,202C8D24,extended,AC410024
+
+[Cheats/Infinite Available Points Usage] 
+patch=1,EE,202C1B78,extended,00000000

@@ -1,0 +1,16 @@
+[Cheats/Idiot AI Press L1+Select Activate L2+Select Off] 
+patch=1,EE,E002FBFE,extended,003A94C2
+patch=1,EE,20101408,extended,03E00008
+patch=1,EE,2010140C,extended,00000000
+patch=1,EE,E002FEFE,extended,003A94C2
+patch=1,EE,20101408,extended,27BDFFD0
+patch=1,EE,2010140C,extended,7FB00000
+
+[Cheats/Have All Bronze Trading Cards] 
+patch=1,EE,20371DC0,extended,FFFFFFFF
+
+[Cheats/Have All Silver Trading Cards] 
+patch=1,EE,20371DC4,extended,FFFFFFFF
+
+[Cheats/Have All Gold Trading Cards] 
+patch=1,EE,20371DC8,extended,FFFFFFFF

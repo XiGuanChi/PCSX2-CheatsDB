@@ -1,0 +1,44 @@
+[Cheats/Success White Ball Dream Mode Max Money If it is not reflected, switch to the data screen. ] 
+patch=1,EE,D0EA6C94,extended,00008B80
+patch=1,EE,20EA6C9C,extended,00620821
+patch=1,EE,D0EA6C94,extended,00008B80
+patch=1,EE,20EA6CA0,extended,2402270F
+patch=1,EE,D0EA6C94,extended,00008B80
+patch=1,EE,20EA6CA4,extended,AC2293DC
+
+[Cheats/Success White Ball Dream Mode 999 experience points when assigning abilities] 
+patch=1,EE,D0BCE84C,extended,000003E8
+patch=1,EE,20BCE850,extended,00000000
+
+[Cheats/Success White Ball Dream Mode Max Money]  
+patch=1,EE,21FF2000,extended,8C82019C
+patch=1,EE,21FF2004,extended,3403270F
+patch=1,EE,21FF2008,extended,A4430000
+
+[Cheats/Success White Ball Dream Mode Max experience points] 
+patch=1,EE,21FF200C,extended,8C8200FC
+patch=1,EE,21FF2010,extended,3C0303E7
+patch=1,EE,21FF2014,extended,346303E7
+patch=1,EE,21FF2018,extended,AC430000
+patch=1,EE,21FF201C,extended,AC430004
+patch=1,EE,21FF2020,extended,A4430008
+
+[Cheats/Success White Ball Dream Mode Max strength] 
+patch=1,EE,21FF2024,extended,8C82001C
+patch=1,EE,21FF2028,extended,34030078
+patch=1,EE,21FF202C,extended,A4430000
+patch=1,EE,21FF2030,extended,A4430002
+
+[Cheats/Success White Ball Dream Mode Max supervisory rating] 
+patch=1,EE,D182BBEC,extended,0000A564
+patch=1,EE,2182BBEC,extended,0C0400D5
+patch=1,EE,20100354,extended,240400C8 
+patch=1,EE,20100358,extended,0839A564 
+patch=1,EE,2010035C,extended,A0449394
+
+[Cheats/Success White Ball Dream Mode Max Scout Rating It becomes effective when you view the data's surrounding evaluations The code will not be valid unless the scout appears] 
+patch=1,EE,D182BCD4,extended,0000A564 
+patch=1,EE,2182BCD4,extended,0C0400F5 
+patch=1,EE,201003D4,extended,240400C8 
+patch=1,EE,201003D8,extended,0839A564
+patch=1,EE,201003DC,extended,A0449395

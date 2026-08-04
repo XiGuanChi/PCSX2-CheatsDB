@@ -1,0 +1,20 @@
+[Cheats/Infinite Skill Points] 
+patch=1,EE,202D48C4,extended,0000270F
+
+[Cheats/Infinite Gold] 
+patch=1,EE,202D3E64,extended,0000C350
+patch=1,EE,202D3E68,extended,0000C350
+
+[Cheats/Infinite HP] 
+patch=1,EE,200C0230,extended,2410270F
+patch=1,EE,200C0234,extended,AE300444
+patch=1,EE,200C0238,extended,03E00008
+patch=1,EE,200C024C,extended,AE30044C
+patch=1,EE,20208B54,extended,0C030088
+
+[Cheats/Infinite AP]  
+patch=1,EE,200C0250,extended,2403270F
+patch=1,EE,200C0254,extended,A6230454
+patch=1,EE,200C0258,extended,03E00008
+patch=1,EE,200C028C,extended,AE230450
+patch=1,EE,20209B68,extended,0C03008C

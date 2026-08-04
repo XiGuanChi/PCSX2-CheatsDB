@@ -1,0 +1,17 @@
+[Cheats/Infinite Money] 
+patch=1,EE,2023D810,extended,23071978
+
+[Cheats/Opponents Don't Move]  
+patch=1,EE,20167D60,extended,00000000
+patch=1,EE,20167DD0,extended,AE200614
+
+[Cheats/Jump To Third Lap Press R2] 
+patch=1,EE,102BC4C2,extended,0000FDFF
+patch=1,EE,0021C978,extended,00000002
+
+[Cheats/Unlock All Events] 
+patch=1,EE,2021C6E8,extended,FFFFFFFF
+patch=1,EE,2021C6EC,extended,FFFFFFFF
+
+[Cheats/Debug Menu Press Square+START] 
+patch=1,EE,0023D900,extended,00000001

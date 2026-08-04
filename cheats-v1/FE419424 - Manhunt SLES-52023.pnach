@@ -1,0 +1,53 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20457D28,extended,24030001
+
+[Cheats/Infinite Run] 
+patch=1,EE,20112F70,extended,3C023F80
+patch=1,EE,20112F74,extended,AC220FAC
+
+[Cheats/Infinite Reload] 
+patch=1,EE,20267750,extended,00000000
+
+[Cheats/Unlock All Levels]  
+patch=1,EE,105E1F04,extended,00000001
+patch=1,EE,105E1FB4,extended,00000001
+patch=1,EE,105E2064,extended,00000001
+patch=1,EE,105E2114,extended,00000001
+patch=1,EE,105E21C4,extended,00000001
+patch=1,EE,105E2274,extended,00000001
+patch=1,EE,105E2324,extended,00000001
+patch=1,EE,105E23D4,extended,00000001
+patch=1,EE,105E2484,extended,00000001
+patch=1,EE,105E2534,extended,00000001
+patch=1,EE,105E25E4,extended,00000001
+patch=1,EE,105E2694,extended,00000001
+patch=1,EE,105E2744,extended,00000001
+patch=1,EE,105E27F4,extended,00000001
+patch=1,EE,105E28A4,extended,00000001
+patch=1,EE,105E2954,extended,00000001
+patch=1,EE,105E2A04,extended,00000001
+patch=1,EE,105E2AB4,extended,00000001
+patch=1,EE,105E2B64,extended,00000001
+patch=1,EE,105E2C14,extended,00000001
+
+[Cheats/Unlock All Levels Max Stars] 
+patch=1,EE,105E1F08,extended,00000005
+patch=1,EE,105E1FB8,extended,00000005
+patch=1,EE,105E2068,extended,00000005
+patch=1,EE,105E2118,extended,00000005
+patch=1,EE,105E21C8,extended,00000005
+patch=1,EE,105E2278,extended,00000005
+patch=1,EE,105E2328,extended,00000005
+patch=1,EE,105E23D8,extended,00000005
+patch=1,EE,105E2488,extended,00000005
+patch=1,EE,105E2538,extended,00000005
+patch=1,EE,105E25E8,extended,00000005
+patch=1,EE,105E2698,extended,00000005
+patch=1,EE,105E2748,extended,00000005
+patch=1,EE,105E27F8,extended,00000005
+patch=1,EE,105E28A8,extended,00000005
+patch=1,EE,105E2958,extended,00000005
+patch=1,EE,105E2A08,extended,00000005
+patch=1,EE,105E2AB8,extended,00000005
+patch=1,EE,105E2B68,extended,00000005
+patch=1,EE,105E2C18,extended,00000005

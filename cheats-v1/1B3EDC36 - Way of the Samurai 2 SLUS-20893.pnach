@@ -1,0 +1,28 @@
+[Cheats/Max Money] 
+patch=1,EE,109F06D6,extended,0000270F
+
+[Cheats/Infinite Health] 
+patch=1,EE,201CEDF8,extended,94830042
+patch=1,EE,201CEDFC,extended,A4830040
+
+[Cheats/Max Health] 
+patch=1,EE,200C0220,extended,240307D0
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,A6830042
+patch=1,EE,201DD4CC,extended,0C030088
+
+[Cheats/Infinite EP] 
+patch=1,EE,109F06D8,extended,00000014
+
+[Cheats/Max EP] 
+patch=1,EE,109F06DA,extended,00000014
+
+[Cheats/Max Infinite EP] 
+patch=1,EE,209F06D8,extended,00140014
+
+[Cheats/Unlock Have All Moves] 
+patch=1,EE,409F09E0,extended,00080001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Heads, Costumes And Difficulties] 
+patch=1,EE,209F05D8,extended,05F5E0FF

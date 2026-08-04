@@ -1,0 +1,24 @@
+[Cheats/Infinite Air] 
+patch=1,EE,20499ED8,extended,00030250
+
+[Cheats/100 Rings] 
+patch=1,EE,2049A0EC,extended,00000064
+
+[Cheats/Start In The 3rd Round] 
+patch=1,EE,2049A5D0,extended,02030000
+
+[Cheats/Instant Win] 
+patch=1,EE,2049A5D0,extended,0203000
+
+[Cheats/Infinite Funds]  
+patch=1,EE,2095D428,extended,000F423F
+
+[Cheats/Opponents Don't Move]  
+patch=1,EE,201D3F08,extended,08028000
+patch=1,EE,200A0000,extended,3C01004A
+patch=1,EE,200A0004,extended,24219340
+patch=1,EE,200A0008,extended,10310003
+patch=1,EE,200A000C,extended,8E2311D8
+patch=1,EE,200A0010,extended,08074FC6
+patch=1,EE,200A0014,extended,A3A4091F
+patch=1,EE,200A0018,extended,08074FC4

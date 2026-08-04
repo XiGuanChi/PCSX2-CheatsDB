@@ -1,0 +1,20 @@
+[Cheats/Max Points]  
+patch=1,EE,2024A45C,extended,0001869F
+
+[Cheats/Opponent Has always 0 points, you always win] 
+patch=1,EE,21953D9C,extended,00000000
+
+[Cheats/Unlock All CG] 
+patch=1,EE,2193D87C,extended,FFFFFFFF
+patch=1,EE,2193D880,extended,FFFFFFFF
+patch=1,EE,2193D884,extended,FFFFFFFF
+patch=1,EE,1193D888,extended,0000FFFF
+
+[Cheats/Unlock All Music] 
+patch=1,EE,2193FF90,extended,FFFFFFFF
+patch=1,EE,2193FF94,extended,FFFFFFFF
+patch=1,EE,0193FF98,extended,000000FF
+
+[Cheats/Press L3 for Debug Menu  press Select while on the map screen. The menu items contain quick start options for the mini-games. Nothing else special remains in this menu.Script Development Use, Puzzle, Jigsaw, Speed, Ponjan, Ponjan Development Use, Normal Startup ? Debug from here, Don't enter] 
+patch=1,EE,D024AC02,extended,0000FFFE
+patch=1,EE,2024A214,extended,0000000A

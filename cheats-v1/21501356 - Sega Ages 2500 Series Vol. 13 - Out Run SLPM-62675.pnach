@@ -1,0 +1,19 @@
+[Cheats/Infinite Time] 
+patch=1,EE,00672b72,extended,00000099
+
+[Cheats/Infinite Time Press L3+R3]   
+patch=1,EE,D0617082,extended,0000FFF9
+patch=1,EE,10672B72,extended,0000458C
+
+[Cheats/Auto Play Press R1+R2] 
+patch=1,EE,D0617082,extended,0000F5FF
+patch=1,EE,00672CC0,extended,00000001
+
+[Cheats/Max Score 999999999] 
+patch=1,EE,20672B7C,extended,3B9AC9FF
+
+[Cheats/Rival 9x] 
+patch=1,EE,001FCEA8,extended,00000009
+
+[Cheats/Unlock Game Ending Pause Menu After Press RETURN TO TITLE] 
+patch=1,EE,00672BA9,extended,00000001

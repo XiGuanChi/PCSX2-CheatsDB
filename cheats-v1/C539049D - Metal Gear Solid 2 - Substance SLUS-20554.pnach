@@ -1,0 +1,46 @@
+[Cheats/Infinite Health Both Characters] 
+patch=1,EE,20108E08,extended,00000000
+patch=1,EE,20108E18,extended,24020064
+
+[Cheats/Infinite Health] 
+patch=1,EE,E0020792,extended,0027B7F0
+patch=1,EE,2027B7F4,extended,240200C8
+patch=1,EE,2027B7F8,extended,A6020792
+
+[Cheats/Infinite Ammo]  
+patch=1,EE,2015E0A0,extended,00000000
+
+[Cheats/Have All Weapons With Max Infinite Ammo]  
+patch=1,EE,2015E1EC,extended,240203E7
+
+[Cheats/Have All Max Infinite Items]  
+patch=1,EE,2015E204,extended,240203E7
+
+[Cheats/P1 Press L3+Up To Quick Stealth Usage] 
+patch=1,EE,D01EAD02,extended,0000FFED
+patch=1,EE,C01931D8,extended,01060008
+
+[Cheats/Invisible Always On] 
+patch=1,EE,001F1947,extended,00000040
+
+[Cheats/P1 Press R3+Up To Invincible Enable]  
+patch=1,EE,D01EAD02,extended,0000FFEB
+patch=1,EE,001F1946,extended,0000008B
+
+[Cheats/P1 Press R3+Down To Invincible Disable] 
+patch=1,EE,D01EAD02,extended,0000FFBB
+
+[Cheats/Skateboarding Infinite Time]  
+patch=1,EE,20260848,extended,00000000
+
+[Cheats/Skateboarding Do 1 Trick For Max Score]  
+patch=1,EE,1024AF16,extended,00001000
+
+[Cheats/Skateboarding Quick Score Gain]  
+patch=1,EE,2024AF0C,extended,2483270F
+
+[Cheats/Skateboarding Infinite Stock Upon Retrieval] 
+patch=1,EE,20262320,extended,00000000
+
+[Cheats/Skateboarding Do 1 Trick To Retrieve 1 Stock]  
+patch=1,EE,202623B0,extended,24060064

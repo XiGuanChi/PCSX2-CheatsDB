@@ -1,0 +1,39 @@
+[Cheats/Invincible] 
+patch=1,EE,2012993C,extended,10000000
+patch=1,EE,20129B58,extended,10000000
+
+[Cheats/Fuel 1000] 
+patch=1,EE,40176930,extended,00070010
+patch=1,EE,447A0000,extended,00000000
+patch=1,EE,40176934,extended,00070010
+patch=1,EE,447A0000,extended,00000000
+patch=1,EE,40176938,extended,00070010
+patch=1,EE,447A0000,extended,00000000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2020D244,extended,FFFFFFFF
+
+[Cheats/Does Not Receive Damage] 
+patch=1,EE,2012993C,extended,10000000
+patch=1,EE,20129B58,extended,10000000
+
+[Cheats/Total Flight Time 0] 
+patch=1,EE,20214D60,extended,00000000
+
+[Cheats/Mission Failure Count 0] 
+patch=1,EE,20214D6C,extended,00000000
+
+[Cheats/Max Enemy That Was Destroyed] 
+patch=1,EE,20214D64,extended,3B9AC9FF
+
+[Cheats/Max Total Score]  
+patch=1,EE,20214D70,extended,3B9AC9FF
+
+[Cheats/Unlock Comanche Aircraft And Expert] 
+patch=1,EE,40214D74,extended,001E0001
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,10A41D9B,extended,246783C0
+
+[Cheats/100% Destruction Rate Each Mission] 
+patch=1,EE,40214DEC,extended,001E0001
+patch=1,EE,00010001,extended,00000000

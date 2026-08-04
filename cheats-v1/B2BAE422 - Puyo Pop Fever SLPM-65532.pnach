@@ -1,0 +1,16 @@
+[Cheats/Max Score] 
+patch=1,EE,203C8650,extended,05F5E0FF
+
+[Cheats/Japanese language in Option - Language text only. Save before exiting the menu.i] 
+patch=1,EE,201D2580,extended,24030005
+patch=1,EE,201D24CC,extended,24030005
+
+[Cheats/Enable Dev Menu Press R1+X at main menu When inside the Dev Menu, Circle button is to confirm what option you're on. X button is to go back.] 
+patch=1,EE,D03CA042,extended,0000B7FF
+patch=1,EE,003C259C,extended,00000004
+
+[Cheats/Enables Japanese voice in the Options menu (voice only). Press L1+L2 when in options menu for Japanese voices. R1+R2 for English voices. Save before exiting the menu.s] 
+patch=1,EE,D03CA042,extended,0000FAFF
+patch=1,EE,006EE549,extended,00000000
+patch=1,EE,D03CA042,extended,0000F5FF
+patch=1,EE,006EE549,extended,0000000

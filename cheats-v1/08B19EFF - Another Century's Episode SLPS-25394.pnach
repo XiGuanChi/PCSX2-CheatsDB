@@ -1,0 +1,38 @@
+[Cheats/Max Ace Point] 
+patch=1,EE,2028733C,extended,3C02000F
+patch=1,EE,20287344,extended,3442423F
+
+[Cheats/Max Ace Points] 
+patch=1,EE,2051D110,extended,0098967F
+
+[Cheats/Recover 9999 Armor At Sortie] 
+patch=1,EE,2028730C,extended,2402270F
+
+[Cheats/Max Resources Briefing And Material]  
+patch=1,EE,202699B0,extended,3C020098
+patch=1,EE,202699B8,extended,3442967F
+
+[Cheats/Max Health Player Ship]  
+patch=1,EE,2026DA20,extended,E4800000
+patch=1,EE,2026DA28,extended,46000003
+
+[Cheats/Max Vernier] 
+patch=1,EE,201CE52C,extended,E4600000
+
+[Cheats/Energy Weapon Fast Charge Always charges to max bullets] 
+patch=1,EE,2018D024,extended,00000000
+
+[Cheats/Achievement of secret condition by mission clear] 
+patch=1,EE,2020601C,extended,00000000
+
+[Cheats/Time Limit Operation Stop SELECT+ Release Suspend SELECT+  Time 0 with SELECT+ ] 
+patch=1,EE,D033B2C2,extended,0000FFEE
+patch=1,EE,202088D0,extended,00000000
+patch=1,EE,D033B2C2,extended,0000FFBE
+patch=1,EE,202088D0,extended,46140000
+patch=1,EE,D033B2C2,extended,0000FF7E
+patch=1,EE,203440F0,extended,00000000
+
+[Cheats/All Aircraft Purchased & Added Free Mission] 
+patch=1,EE,40515994,extended,00110001
+patch=1,EE,02020202,extended,00000000

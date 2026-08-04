@@ -1,0 +1,25 @@
+[Cheats/unendlich Energie] 
+patch=1,EE,201a65c0,extended,84420270
+patch=1,EE,201a65c4,extended,00010900
+patch=1,EE,201a65c8,extended,a4420272
+
+[Cheats/unendlich Musou] 
+patch=1,EE,201a65c0,extended,84420266
+patch=1,EE,201a65c4,extended,00010900
+patch=1,EE,201a65c8,extended,a4420268
+
+[Cheats/unendlich Zeit] 
+patch=1,EE,2053fe60,extended,01010101
+
+[Cheats/Sofortiger Sieg Drück Select] 
+patch=1,EE,D0370e9c,extended,0000fffe
+patch=1,EE,2053fe68,extended,00050005
+
+[Cheats/alle Charaktere haben max.Leben] 
+patch=1,EE,201adfa4,extended,a0500001
+
+[Cheats/alle Charaktere haben max.Musou] 
+patch=1,EE,201adf44,extended,a4500002
+
+[Cheats/alle Charaktere] 
+patch=1,EE,201ae060,extended,a0420000

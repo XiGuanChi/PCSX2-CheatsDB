@@ -1,0 +1,45 @@
+[Cheats/Unendlich Gold] 
+patch=1,EE,202cb0ac,extended,0C03FFC0
+patch=1,EE,200FFF00,extended,3C0605F0
+patch=1,EE,200FFF04,extended,AC46001C
+patch=1,EE,200FFF08,extended,27A40074
+patch=1,EE,200FFF0C,extended,03E00008
+
+[Cheats/Unendlich Gold v2] 
+patch=1,EE,202cb0a8,extended,3C0605F0
+patch=1,EE,202cb0ac,extended,AC46001C
+
+[Cheats/Rieiger Energiebalken] 
+patch=1,EE,2018A78C,extended,240103E7
+patch=1,EE,2018A790,extended,A4820102
+
+[Cheats/Keine Energie Für Den Spieler] 
+patch=1,EE,20194934,extended,240103E7
+patch=1,EE,20194938,extended,A4820102
+patch=1,EE,2019493C,extended,A4800100
+
+[Cheats/Job Punkte einmal benutzen] 
+patch=1,EE,20142030,extended,240300FF
+
+[Cheats/Must BE ON for Stats Maxed to activate any of the 5 codes below] 
+patch=1,EE,20134640,extended,0803FFD0
+patch=1,EE,200FFF40,extended,240101C8
+patch=1,EE,200FFF60,extended,0804D192
+
+[Cheats/Max CON PV] 
+patch=1,EE,200FFF44,extended,A6A10028
+
+[Cheats/Max PVR Deg] 
+patch=1,EE,200FFF48,extended,A6A1002A
+
+[Cheats/Max PRE] 
+patch=1,EE,200FFF4C,extended,A6A1002C
+
+[Cheats/Max DEF] 
+patch=1,EE,200FFF4C,extended,A6A1002E
+
+[Cheats/Max INI] 
+patch=1,EE,200FFF50,extended,A6A10030
+
+[Cheats/Option Debug im Kampf] 
+patch=1,EE,00525e6c,extended,00000001

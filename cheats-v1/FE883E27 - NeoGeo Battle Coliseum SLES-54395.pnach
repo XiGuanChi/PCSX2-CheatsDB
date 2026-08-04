@@ -1,0 +1,52 @@
+[Cheats/Infinite Health Player 1 Character 1] 
+patch=1,EE,003ca568,extended,000000e0
+
+[Cheats/Infinite Health Player 1 Character 2] 
+patch=1,EE,203CA584,extended,00E000E0
+
+[Cheats/Network Match-Option] 
+patch=1,EE,0031902c,extended,00000004
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,20318A88,extended,FFFFFFFF
+patch=1,EE,20318A84,extended,FFFFFFFF
+
+[Cheats/Unlock All Endings] 
+patch=1,EE,20323388,extended,FFFFFFFF
+patch=1,EE,2032338C,extended,FFFFFFFF
+patch=1,EE,20323390,extended,FFFFFFFF
+patch=1,EE,20323394,extended,FFFFFFFF
+patch=1,EE,20323398,extended,FFFFFFFF
+patch=1,EE,2032339C,extended,FFFFFFFF
+patch=1,EE,203233A0,extended,FFFFFFFF
+patch=1,EE,203233A4,extended,FFFFFFFF
+patch=1,EE,203233A8,extended,FFFFFFFF
+patch=1,EE,203233AC,extended,FFFFFFFF
+
+[Cheats/Unlock All GFX] 
+patch=1,EE,20323384,extended,FFFFFFFF
+patch=1,EE,20323380,extended,FFFFFFFF
+patch=1,EE,2032337C,extended,FFFFFFFF
+patch=1,EE,20323378,extended,FFFFFFFF
+patch=1,EE,20323374,extended,FFFFFFFF
+patch=1,EE,20323370,extended,FFFFFFFF
+patch=1,EE,2032336C,extended,FFFFFFFF
+patch=1,EE,20323368,extended,FFFFFFFF
+patch=1,EE,20323364,extended,FFFFFFFF
+patch=1,EE,20323360,extended,FFFFFFFF
+patch=1,EE,2032335C,extended,FFFFFFFF
+patch=1,EE,20323358,extended,FFFFFFFF
+patch=1,EE,20323354,extended,FFFFFFFF
+patch=1,EE,20323350,extended,FFFFFFFF
+patch=1,EE,2032334C,extended,FFFFFFFF
+patch=1,EE,20323348,extended,FFFFFFFF
+patch=1,EE,20323344,extended,FFFFFFFF
+patch=1,EE,20323340,extended,FFFFFFFF
+patch=1,EE,2032333C,extended,FFFFFFFF
+patch=1,EE,20323338,extended,FFFFFFFF
+patch=1,EE,20323334,extended,FFFFFFFF
+patch=1,EE,20323330,extended,FFFFFFFF
+
+[Cheats/Unlock 100% Complete] 
+patch=1,EE,40323330,extended,00200001
+patch=1,EE,FFFFFFFF,extended,00000000

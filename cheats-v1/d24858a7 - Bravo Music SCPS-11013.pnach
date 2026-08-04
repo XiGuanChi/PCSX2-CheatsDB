@@ -1,0 +1,13 @@
+[Cheats/Max Tension Gauge Meter]  
+patch=1,EE,00422648,extended,00000064
+patch=1,EE,0042286C,extended,00000064
+
+[Cheats/S Rank After Clearing] 
+patch=1,EE,004227E0,extended,00000064
+patch=1,EE,004227E4,extended,00000000
+patch=1,EE,004227E8,extended,00000000
+patch=1,EE,004227EC,extended,00000000
+patch=1,EE,0042282E,extended,00000070
+patch=1,EE,0042282F,extended,00000045
+patch=1,EE,0042283C,extended,00000005
+patch=1,EE,00422840,extended,00000000

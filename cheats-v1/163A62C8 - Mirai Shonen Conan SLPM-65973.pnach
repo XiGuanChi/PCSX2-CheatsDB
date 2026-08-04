@@ -1,0 +1,23 @@
+[Cheats/Conan Infinite Health] 
+patch=1,EE,10399894,extended,000000C8
+patch=1,EE,103998C4,extended,000000C8
+
+[Cheats/Lana Infinite Health] 
+patch=1,EE,103998A0,extended,0000005A
+patch=1,EE,103998D0,extended,0000005A
+
+[Cheats/Jimsy Infinite Health] 
+patch=1,EE,103998B8,extended,00000096
+patch=1,EE,103998C4,extended,00000096
+
+[Cheats/Dyce Infinite Health] 
+patch=1,EE,103998AC,extended,000000AF
+patch=1,EE,103998DC,extended,000000AF
+
+[Cheats/Timer 10:00 press L3+R3]  
+patch=1,EE,D03BCBC2,extended,0000FFF9
+patch=1,EE,003E8795,extended,0000008C
+
+[Cheats/Unlock Episode Selection] 
+patch=1,EE,40215C40,extended,00180001
+patch=1,EE,00000003,extended,00000000

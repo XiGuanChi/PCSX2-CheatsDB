@@ -1,0 +1,31 @@
+[Cheats/Max Cash]  
+patch=1,EE,204929B0,extended,3B9AC9FF
+
+[Cheats/CPU character stopped during match Stop SELECT+L1 Restart SELECT+R1 Please note that the referee is also a CPU character does not count while stopped] 
+patch=1,EE,20103E94,extended,03E00008
+patch=1,EE,D05B1E74,extended,000005F4
+patch=1,EE,205B1E7C,extended,08040FA5
+patch=1,EE,D1CF87C2,extended,0000FBFE
+patch=1,EE,20103E98,extended,24020000
+patch=1,EE,D1CF87C2,extended,0000F7FE
+patch=1,EE,20103E98,extended,00000000
+
+[Cheats/Creat A Superstar Layer editing Delete restriction release Each part including underwear can be deleted. It freezes when I delete face skin.] 
+patch=1,EE,D059CFCC,extended,0000C41E
+patch=1,EE,2059CFC8,extended,24020001
+patch=1,EE,D059CFCC,extended,0000C41E
+patch=1,EE,2059CFD0,extended,10000005
+
+[Cheats/Create Character 1st person All ability values 100] 
+patch=1,EE,20443888,extended,64646464
+patch=1,EE,2044388C,extended,64646464
+patch=1,EE,20443890,extended,64646464
+patch=1,EE,20443894,extended,64646464
+
+[Cheats/Unlock All SHOP Not valid for Starter Kit for Create Super Star] 
+patch=1,EE,204AC600,extended,FFFFFFFF
+patch=1,EE,204AC604,extended,FFFFFFFF
+
+[Cheats/Unlock All HALL OF FAME Cleared] 
+patch=1,EE,104AC6CC,extended,00000FFF
+

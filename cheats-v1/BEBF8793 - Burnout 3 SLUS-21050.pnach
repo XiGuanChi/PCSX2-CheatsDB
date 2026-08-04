@@ -1,0 +1,52 @@
+[Cheats/Infinite Boost] 
+patch=1,EE,2064E574,extended,43700000
+
+[Cheats/Max Score] 
+patch=1,EE,2064E4BC,extended,05F5E0FF
+
+[Cheats/Player 1 Press L1+Select To Stop Timer] 
+patch=1,EE,D04F50DC,extended,0000FBFE
+patch=1,EE,201D3D2C,extended,00000000
+
+[Cheats/Player 1 Press L2+Select To Restart Timer] 
+patch=1,EE,D04F50DC,extended,0000FEFE
+patch=1,EE,201D3D2C,extended,AF83A0CC
+
+[Cheats/Dont Lose Extra Max Boost When Crashing] 
+patch=1,EE,2014E084,extended,00000000
+
+[Cheats/Crash For x4 Boost Meter] 
+patch=1,EE,2014E07C,extended,24030003
+
+[Cheats/Can Do Crash Breakers Instantly] 
+patch=1,EE,2015BB88,extended,00000000
+
+[Cheats/Almost Immune To Wrecks With Other Vehicles] 
+patch=1,EE,204E1634,extended,7FFFFFFF
+
+[Cheats/Start On Lap 3] 
+patch=1,EE,D064E484,extended,00000000
+patch=1,EE,1064E484,extended,00000002
+
+[Cheats/Have All Gold Medals] 
+patch=1,EE,1051BE86,extended,00000303
+patch=1,EE,4051BE88,extended,002A0001
+patch=1,EE,03030303,extended,00000000
+patch=1,EE,1051BF30,extended,00000303
+patch=1,EE,0051BF32,extended,00000003
+
+[Cheats/Max Burnout Points] 
+patch=1,EE,2051BB40,extended,05F5E0FF
+
+[Cheats/Max Crash Damage] 
+patch=1,EE,2051BB44,extended,05F5E0FF
+
+[Cheats/Max Takedowns] 
+patch=1,EE,2051C124,extended,05F5E0FF
+
+[Cheats/Unlock Hidden Development Menu, accessible through the Extras  menu, it has a working unlock all feature and more] 
+patch=1,EE,204E0568,extended,00425330
+
+
+
+

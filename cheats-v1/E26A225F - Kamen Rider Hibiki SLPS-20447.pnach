@@ -1,0 +1,21 @@
+[Cheats/Unlock All Characters]  
+patch=1,EE,201EFD2C,extended,FFFFFFFF
+
+[Cheats/Unlock Makamo Taisen mode]  
+patch=1,EE,101EFEC0,extended,000001FF
+
+[Cheats/Unlock All Warriors Databases] 
+patch=1,EE,401EFFE0,extended,00110001 
+patch=1,EE,00000001,extended,00000000 
+patch=1,EE,401F0030,extended,00100001 
+patch=1,EE,00000001,extended,00000000 
+patch=1,EE,401F0080,extended,000F0001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Press L3 For Debug Menu The Scenario, Survival, FreeBattle, Exercise, CardChange, and Option menus no longer work.] 
+patch=1,EE,D01CEE02,extended,0000FFFD
+patch=1,EE,2020E1D0,extended,00000000
+patch=1,EE,D01CEE02,extended,0000FFFD
+patch=1,EE,2020E7C8,extended,00000001
+patch=1,EE,20143A24,extended,00000000
+patch=1,EE,20143FC4,extended,00000000

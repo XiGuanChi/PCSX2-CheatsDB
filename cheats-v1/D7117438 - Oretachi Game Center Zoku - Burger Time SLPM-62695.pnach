@@ -1,0 +1,34 @@
+[Cheats/Cook Invincible Press START+up Cancel Press START+Down ] 
+patch=1,EE,D01FA042,extended,0000FFE7 
+patch=1,EE,20167C14,extended,24020005 
+patch=1,EE,D01FA042,extended,0000FFB7 
+patch=1,EE,20167C14,extended,8C82018C
+
+[Cheats/Enemy Speed Does Not Increase Press L3] 
+patch=1,EE,201649A8,extended,24050000
+
+[Cheats/Stop Enemy Press R3 cancel If you touch an unarmed enemy,you will die]
+patch=1,EE,20160120,extended,00000000 
+
+[Cheats/Bonus Item Automatic Collection]  
+patch=1,EE,2016D914,extended,10000004 
+
+[Cheats/1P Score 999990 Points] 
+patch=1,EE,202CBD78,extended,000F4236 
+
+[Cheats/1P 10 Cooks Press L2]  
+patch=1,EE,D01FA042,extended,0000FEFF 
+patch=1,EE,202CBD7C,extended,0000000A 
+
+[Cheats/1P 99 Peppers]  
+patch=1,EE,202CBD80,extended,00000063
+
+[Cheats/2P Score 999990 Points] 
+patch=1,EE,202CBF10,extended,000F4236
+
+[Cheats/2P 10 Cooks Press L2  ] 
+patch=1,EE,D01FA142,extended,0000FEFF
+patch=1,EE,202CBF14,extended,0000000A
+
+[Cheats/2P 99 Peppers]  
+patch=1,EE,202CBF18,extended,00000063

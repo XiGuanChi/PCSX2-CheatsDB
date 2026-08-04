@@ -1,0 +1,17 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2032D1C8,extended,44000000
+
+[Cheats/Max Health] 
+patch=1,EE,2032D1CC,extended,44000000
+
+[Cheats/Max Continues] 
+patch=1,EE,1032D268,extended,000003E7
+
+[Cheats/Kyza Robot Enemy Energy 0] 
+patch=1,EE,21227584,extended,00000000
+
+[Cheats/Unlock Debug Option Flag Setters  Go to the beach to find the Debug Flags green Boxes] 
+patch=1,EE,001FDC40,extended,00000008
+
+[Cheats/Unlock Debug Mode enables a whole lot of options and features that are not normally accessible to players, like a stage select screen, a coordinate screen, and debug stats screen.] 
+patch=1,EE,20120A00,extended,24020075

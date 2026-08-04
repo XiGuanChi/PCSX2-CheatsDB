@@ -1,0 +1,44 @@
+[Cheats/Infiniite Duelpoints] 
+patch=1,EE,2035682c,extended,3b9ac9ff
+
+[Cheats/Infiniite LP P1] 
+patch=1,EE,216cd190,extended,00001f40
+patch=1,EE,218fe634,extended,00001f40
+patch=1,EE,216cd190,extended,0001869f
+patch=1,EE,218fe634,extended,0001869f
+
+[Cheats/Max Cash Upon Buying winning] 
+patch=1,EE,2015FC60,extended,10000008
+
+[Cheats/Duellanten Exp: 99.999.999] 
+patch=1,EE,20356828,extended,05f5e0ff
+
+[Cheats/Press Select For All Cards At Card Menu] 
+patch=1,EE,200A0000,extended,3C01014D
+patch=1,EE,200A0004,extended,34216184
+patch=1,EE,200A0008,extended,94230000
+patch=1,EE,200A000C,extended,34020FA7
+patch=1,EE,200A0010,extended,14620019
+patch=1,EE,200A0038,extended,3C0400A9
+patch=1,EE,200A003C,extended,3484A050
+patch=1,EE,200A0044,extended,A4830000
+patch=1,EE,200A0048,extended,24840002
+patch=1,EE,200A004C,extended,24A50001
+patch=1,EE,200A0050,extended,A4850000
+patch=1,EE,200A0054,extended,24840002
+patch=1,EE,200A0058,extended,34070109
+patch=1,EE,200A005C,extended,A4870000
+patch=1,EE,200A0060,extended,24840002
+patch=1,EE,200A0064,extended,24210002
+patch=1,EE,200A0068,extended,94230000
+patch=1,EE,200A0070,extended,1403FFF4
+patch=1,EE,200A0078,extended,03E00008
+patch=1,EE,200A007C,extended,27BD0050
+patch=1,EE,E002FFFE,extended,0025C482
+patch=1,EE,2017DDD8,extended,08028000
+patch=1,EE,2017DDDC,extended,00000000
+
+[Cheats/Debug Menu Unfortunately, no text will render on-screen. The menu order is listed by the number of Down presses. (Story Mode > Start From Part 1 story
+dualdraw deck dualmgr shop swchrvw labo movview cutview sandbox title] 
+patch=1,EE,D0944C20,extended,0000000
+patch=1,EE,00944C20,extended,00000001

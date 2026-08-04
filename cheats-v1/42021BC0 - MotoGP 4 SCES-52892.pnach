@@ -1,0 +1,17 @@
+[Cheats/Max Cash After Buying an Item in Paddock] 
+patch=1,EE,201B688C,extended,3C0F000F
+
+[Cheats/Freeze Challenge Timers] 
+patch=1,EE,202065C8,extended,00000000
+
+[Cheats/Freeze Training Timers] 
+patch=1,EE,201BABF8,extended,00000000
+
+[Cheats/Opponents Don't Move] 
+patch=1,EE,202033D0,extended,10000261
+
+[Cheats/No Loss of Speed if you go Off the Road or Collide with Walls]  
+patch=1,EE,201FE6E0,extended,00000000
+patch=1,EE,20257494,extended,00000000
+patch=1,EE,20257474,extended,00000000
+

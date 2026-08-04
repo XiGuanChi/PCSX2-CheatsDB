@@ -1,0 +1,58 @@
+[Cheats/Invincibility P1] 
+patch=1,EE,20240FF8,extended,34040000
+
+[Cheats/No Damage P1] 
+patch=1,EE,0094A2AB,extended,00000001
+
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,201E1B9C,extended,C480000C
+patch=1,EE,201E1BA4,extended,E4800004
+
+[Cheats/Infinite Spirit Energy Player 1] 
+patch=1,EE,201E1F7C,extended,00000000
+
+[Cheats/1-Hit Death Player 2] 
+patch=1,EE,200C0240,extended,8C820004
+patch=1,EE,200C0244,extended,3C013A00
+patch=1,EE,200C0248,extended,0022102B
+patch=1,EE,200C024C,extended,54400001
+patch=1,EE,200C0250,extended,AC810004
+patch=1,EE,200C0254,extended,03E00008
+patch=1,EE,200C0258,extended,00000000
+patch=1,EE,201E1BF0,extended,0C030090
+
+[Cheats/Unlock All Fighters] 
+patch=1,EE,0094A2A6,extended,00000001
+
+[Cheats/Unlock All Chapters] 
+patch=1,EE,0094A2A4,extended,00000001
+
+[Cheats/Unlock All Environments] 
+patch=1,EE,0094A2A8,extended,00000001
+
+[Cheats/Unlock All Dark Tournament Arenas] 
+patch=1,EE,20949838,extended,FFFFFFFF
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,20949840,extended,FFFFFFFF
+
+[Cheats/Unlock All Costumes] 
+patch=1,EE,20949848,extended,FFFFFFFF
+
+[Cheats/Unlock All Skirmish Stages] 
+patch=1,EE,20949854,extended,FFFFFFFF
+
+[Cheats/Unlock Survival Mode-Normal Fight] 
+patch=1,EE,00949858,extended,00000001
+
+[Cheats/Unlock Survival Mode-Tag Team Fight] 
+patch=1,EE,00949859,extended,00000001
+
+[Cheats/Unlock Dark Tournament Plus] 
+patch=1,EE,0094985A,extended,00000001
+
+[Cheats/Unlock All Dark Tournament Plus Arenas dont enable until you have unlock Dark Tournament Plus] 
+patch=1,EE,2094A258,extended,FFFFFFFF
+patch=1,EE,0094A25C,extended,0000003F
+
+

@@ -1,0 +1,80 @@
+[Cheats/Autoplay 1P] 
+patch=1,EE,101DD80C,extended,000087BD
+patch=1,EE,101DD8B0,extended,000087BD
+patch=1,EE,101DE0D8,extended,000087BD
+patch=1,EE,002FACAD,extended,00000001
+
+[Cheats/Autoplay 1P & 2P] 
+patch=1,EE,101DD80C,extended,000087BD
+patch=1,EE,101DD8B0,extended,000087BD
+patch=1,EE,101DE0D8,extended,000087BD
+patch=1,EE,002FACAD,extended,00000003
+
+[Cheats/Autoplay 2P] 
+patch=1,EE,101DD80C,extended,000087BD
+patch=1,EE,101DD8B0,extended,000087BD
+patch=1,EE,101DE0D8,extended,000087BD
+patch=1,EE,002FACAD,extended,00000002
+
+[Cheats/VOX UP Normal] 
+patch=1,EE,002FAAC0,extended,0000005A
+patch=1,EE,002FAAC4,extended,00000000
+patch=1,EE,002FAAD8,extended,0000005A
+patch=1,EE,002FAE6C,extended,0000005A
+patch=1,EE,007BE342,extended,0000005A
+patch=1,EE,00908C40,extended,0000005A
+
+[Cheats/Always SRAN Correction] 
+patch=1,EE,00850B44,extended,00000001
+
+[Cheats/When You Enter Song Starts At Full Volume] 
+patch=1,EE,20194974,extended,90610007
+patch=1,EE,20194978,extended,34210080
+patch=1,EE,2019497C,extended,A0610007
+patch=1,EE,20194980,extended,10000007
+
+[Cheats/Unlock Always Scratch All] 
+patch=1,EE,00850B45,extended,00000001
+
+[Cheats/Unlock All Lane Covers] 
+patch=1,EE,10850BC6,extended,00000101
+patch=1,EE,20850BC8,extended,01010101
+patch=1,EE,20850BCC,extended,01010101
+patch=1,EE,20850BD0,extended,01010101
+patch=1,EE,20850BD4,extended,01010101
+patch=1,EE,20850BD8,extended,01010101
+patch=1,EE,20850BDC,extended,01010101
+
+[Cheats/Unlock All Turntables] 
+patch=1,EE,10850C06,extended,00000101
+patch=1,EE,20850C08,extended,01010101
+patch=1,EE,20850C0C,extended,00010101
+
+[Cheats/Unlock All TURNTABLE] 
+patch=1,EE,10850C06,extended,00000101
+patch=1,EE,20850C08,extended,01010101
+patch=1,EE,10850C0C,extended,00000101
+patch=1,EE,00850C0E,extended,00000001
+
+[Cheats/Unlock All Explosions] 
+patch=1,EE,20850C48,extended,01010101
+patch=1,EE,20850C4C,extended,01010101
+patch=1,EE,00850C50,extended,00000001
+
+[Cheats/Unlock All BGM] 
+patch=1,EE,20850C88,extended,01010101
+patch=1,EE,20850C8C,extended,01010101
+patch=1,EE,20850C90,extended,01010101
+patch=1,EE,10850C94,extended,00000101
+
+[Cheats/Unlock All Category Voice] 
+patch=1,EE,10850CCA,extended,00000101
+
+[Cheats/Unlock All Gallery Collections]  
+patch=1,EE,20874D04,extended,FFFFFFFF
+patch=1,EE,20874D08,extended,FFFFFFFF
+patch=1,EE,10874D0C,extended,00000FFF
+
+
+
+

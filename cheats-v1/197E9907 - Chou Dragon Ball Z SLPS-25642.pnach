@@ -1,0 +1,32 @@
+[Cheats/Max EXP Gauge when Entering Character Customization] 
+patch=1,EE,202C7A54,extended,24030006
+patch=1,EE,202C7A5C,extended,A223009B
+
+[Cheats/Summon Shenron even if you don't have All the Dragon Balls] 
+patch=1,EE,2034BBB4,extended,2405007F
+patch=1,EE,2034BBB8,extended,A0650049
+patch=1,EE,2034BBBC,extended,10000009
+
+[Cheats/Activator Code Needed for Battle Codes] 
+patch=1,EE,201CC1F8,extended,0C03E400
+patch=1,EE,200F9000,extended,16000041
+patch=1,EE,200F9100,extended,0807486C
+patch=1,EE,200F9200,extended,0807486C
+
+[Cheats/In Battle P1 Infinite Health] 
+patch=1,EE,200F9010,extended,240100FA
+patch=1,EE,200F9014,extended,AC81000C
+
+[Cheats/In Battle P1 Max Super Special gauge] 
+patch=1,EE,200F9018,extended,240100F0
+patch=1,EE,200F901C,extended,AC81001C
+
+[Cheats/In Battle P1 Max action gauge] 
+patch=1,EE,200F9020,extended,3C0142A0
+patch=1,EE,200F9024,extended,AC810010
+patch=1,EE,200F9028,extended,AC810014
+
+[Cheats/In Battle  P1 press SELECT+down 2P health 0] 
+patch=1,EE,200F912C,extended,00000000
+patch=1,EE,D0500002,extended,0000FFBE
+patch=1,EE,200F912C,extended,AC80000C

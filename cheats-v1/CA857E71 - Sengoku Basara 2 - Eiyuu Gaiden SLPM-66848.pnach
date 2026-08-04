@@ -1,0 +1,89 @@
+[Cheats/Max Possession Money] 
+patch=1,EE,2051A500,extended,0098967F
+
+[Cheats/Max Money in hand during battle, not in shop screen] 
+patch=1,EE,201E82CC,extended,00000000
+
+[Cheats/Max Combo only Conquest, Gaiden and Story Mode not tournament] 
+patch=1,EE,201E80C0,extended,00000000
+
+[Cheats/Max Exp in hand during battle] 
+patch=1,EE,201F314C,extended,00000000
+
+[Cheats/Mandatory Needs to be on] 
+patch=1,EE,201DB36C,extended,0C03E048
+patch=1,EE,200F81A0,extended,0807A0A0
+
+[Cheats/Max Infinite Health] 
+patch=1,EE,200F8134,extended,8E010564
+patch=1,EE,200F8138,extended,AE0104F8
+
+[Cheats/Infinite Sengoku Drive can be activated & effect permanent] 
+patch=1,EE,200FF000,extended,80810A3E
+patch=1,EE,200FF004,extended,A0810A3D
+patch=1,EE,200FF008,extended,03E00008
+patch=1,EE,200FF00C,extended,A49C0A40
+patch=1,EE,201FB9AC,extended,0803FC00
+
+[Cheats/In Battle Infinite Health] 
+patch=1,EE,201FB9A8,extended,8C820564
+patch=1,EE,201FB9B0,extended,AC8204F8
+
+[Cheats/In Battle Infinite Basara ] 
+patch=1,EE,201F9904,extended,8E0209BC
+
+[Cheats/In Battle Max Number Of Small Coins Obtained] 
+patch=1,EE,201E82CC,extended,00000000 
+
+[Cheats/In Battle Max Experience Gained Not valid in Grand Martial Arts mode] 
+patch=1,EE,201F3190,extended,00000000
+
+[Cheats/Unlock Addition of the Great Fighting Tournament] 
+patch=1,EE,0051A62A,extended,00000001
+
+[Cheats/Unlock All Free Battle StageS]  
+patch=1,EE,2051A630,extended,FFFFFFFF
+patch=1,EE,2051A634,extended,FFFFFFFF
+
+[Cheats/Unlock Completely Conquer By Clearing Stage 1 Of The Great Fighting Tournament] 
+patch=1,EE,2024C5BC,extended,24030063
+patch=1,EE,2024C5C0,extended,AC431530
+
+[Cheats/Unlock All Costumes can be equipped At the time of sortie] 
+patch=1,EE,201B09B0,extended,24010001
+patch=1,EE,201B09B4,extended,A041003D 
+patch=1,EE,201B09B8,extended,A041003C
+
+[Cheats/Unlock All Armor Equipable At the time of sortie] 
+patch=1,EE,D1D395A0,extended,00005244
+patch=1,EE,21D395E4,extended,24020064
+patch=1,EE,D1D395A0,extended,00005244
+patch=1,EE,21D395E8,extended,A0620000
+
+[Cheats/Unlock All 20000 Items can be equipped At the time of sortie If you select the item equipment twice, it will be fully equipped] 
+patch=1,EE,201B3854,extended,24030064
+patch=1,EE,201B3860,extended,A0430000
+
+[Cheats/Unlock All Weapons Equipment At the time of sortie] 
+patch=1,EE,D1D39314,extended,00000088
+patch=1,EE,21D39304,extended,24030064
+patch=1,EE,D1D39314,extended,00000088
+patch=1,EE,21D39308,extended,A0430000
+patch=1,EE,D1D39314,extended,00000088
+patch=1,EE,21D39440,extended,1440FFB0
+
+[Cheats/Unlock All Items] 
+patch=1,EE,4051A520,extended,002D0001
+patch=1,EE,E4E4E4E4,extended,00000000
+
+[Cheats/Unlock All Titles] 
+patch=1,EE,2051A6E0,extended,FFFFFFFF
+patch=1,EE,2051A6E4,extended,FFFFFFFF
+patch=1,EE,2051A6E8,extended,001FFFFF
+
+[Cheats/Unlock All Music] 
+patch=1,EE,2051A718,extended,FFFFFFFF
+patch=1,EE,2051A71C,extended,0003FFFF
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,2051A720,extended,003FFFFF

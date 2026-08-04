@@ -1,0 +1,27 @@
+[Cheats/Infinite Health] 
+patch=1,EE,201EC334,extended,24050064
+patch=1,EE,201EC338,extended,24050064
+
+[Cheats/Infinite Grand Trackers]  
+patch=1,EE,208738D4,extended,00000063
+patch=1,EE,208738DC,extended,00000000
+
+[Cheats/Infinite Health Packs]  
+patch=1,EE,208738E4,extended,00000063
+patch=1,EE,208738EC,extended,00000000
+
+[Cheats/Infinite Motion Tripwires] 
+patch=1,EE,208738C4,extended,00000063
+patch=1,EE,208738CC,extended,00000000
+
+[Cheats/Infinite Nullifiers]  
+patch=1,EE,208738A4,extended,00000063
+patch=1,EE,208738AC,extended,00000000
+
+[Cheats/Infinite Sonic Emitters] 
+patch=1,EE,208738B4,extended,00000063
+patch=1,EE,208738BC,extended,00000000
+
+[Cheats/Infinite Trackers]  
+patch=1,EE,20873894,extended,00000063
+patch=1,EE,2087389C,extended,00000000

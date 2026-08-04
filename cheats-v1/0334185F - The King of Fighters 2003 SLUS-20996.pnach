@@ -1,0 +1,6 @@
+[Cheats/P1 Infinite Health] 
+patch=1,EE,109D6F5C,extended,00000070
+
+[Cheats/Unlock All Art Gallery] 
+patch=1,EE,209EDA10,extended,FFFFFFFF
+patch=1,EE,009EDA14,extended,000000FF

@@ -1,0 +1,83 @@
+[Cheats/Infinite Funds] 
+patch=1,EE,20333330,extended,05F5E0FF
+
+[Cheats/Character 1 Infinite HP 999.999] 
+patch=1,EE,20334444,extended,0000270F
+patch=1,EE,2033444C,extended,0000270F
+
+[Cheats/Character 1 Infinite SP 999.999] 
+patch=1,EE,20334448,extended,0000270F
+patch=1,EE,20334450,extended,0000270F
+
+[Cheats/Character 2 Infinite HP: 999.999] 
+patch=1,EE,20334D5C,extended,0000270F
+patch=1,EE,20334D64,extended,0000270F
+
+[Cheats/Character 2 Infinite SP 999.999] 
+patch=1,EE,20334D60,extended,0000270F
+patch=1,EE,20334D68,extended,0000270F
+
+[Cheats/Infinite Actions] 
+patch=1,EE,201791D4,extended,A6000366
+patch=1,EE,20179200,extended,A2000377
+patch=1,EE,20179220,extended,2407FFFF
+patch=1,EE,20179228,extended,00004821
+patch=1,EE,20179230,extended,A509052A
+
+[Cheats/Infinite Dispatch] 
+patch=1,EE,003A8602,extended,00000064
+
+[Cheats/Bills Always Pass] 
+patch=1,EE,001D7990,word,00000000
+patch=1,EE,001D7938,word,00000000
+
+[Cheats/Super Abramoff Bills Always Approved] 
+patch=1,EE,201D7990,extended,00000000
+patch=1,EE,201D7938,extended,00000000
+
+[Cheats/Max EXP Modifier Level 9,999] 
+patch=1,EE,2A7739EA,extended,3402????
+patch=1,EE,201B1548,extended,0002143C
+
+[Cheats/Max Mana After Kill] 
+patch=1,EE,101B148A,extended,00000020
+
+[Cheats/Unlock All Normal Classes] 
+patch=1,EE,200C3000,extended,7FB10020
+patch=1,EE,200C3004,extended,3C10003B
+patch=1,EE,200C3008,extended,8E115790
+patch=1,EE,200C300C,extended,8E125788
+patch=1,EE,200C3010,extended,0000802D
+patch=1,EE,200C3014,extended,3C13000C
+patch=1,EE,200C3018,extended,96240062
+patch=1,EE,200C301C,extended,96653802
+patch=1,EE,200C3020,extended,14850017
+patch=1,EE,200C3024,extended,96653800
+patch=1,EE,200C3028,extended,02058021
+patch=1,EE,200C302C,extended,34040114
+patch=1,EE,200C3030,extended,00852818
+patch=1,EE,200C3034,extended,02258821
+patch=1,EE,200C3038,extended,10000014
+patch=1,EE,200C303C,extended,26730004
+patch=1,EE,200C3080,extended,0C08F378
+patch=1,EE,200C3084,extended,26310114
+patch=1,EE,200C3088,extended,26100001
+patch=1,EE,200C308C,extended,0212082A
+patch=1,EE,200C3090,extended,1420FFE1
+patch=1,EE,200C3094,extended,00000000
+patch=1,EE,200C3098,extended,0807156D
+patch=1,EE,200C309C,extended,3C02003D
+patch=1,EE,201C55AC,extended,08030C00
+patch=1,EE,200C3800,extended,00010039
+patch=1,EE,200C3804,extended,08FC018C
+
+[Cheats/Unlock All Areas]  
+patch=1,EE,40333240,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Debug Menu] 
+patch=1,EE,20137410,extended,8C43A1A0
+patch=1,EE,20137414,extended,34630002
+patch=1,EE,20137418,extended,1000000B
+patch=1,EE,2013741C,extended,0000202D
+patch=1,EE,2013744C,extended,AC43A1A0

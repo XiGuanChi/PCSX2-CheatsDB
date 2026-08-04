@@ -1,0 +1,38 @@
+[Cheats/Infinite Health] 
+patch=1,EE,21940594,extended,43FA0000
+patch=1,EE,21A76A94,extended,43FA0000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20124E5C,extended,AEA2022C
+
+[Cheats/Infinite Funds] 
+patch=1,EE,21A77560,extended,4CBEBC20
+
+[Cheats/Infinite Grenades] 
+patch=1,EE,2012363C,extended,00000000
+
+[Cheats/Infinite Ammo and Never Reload] 
+patch=1,EE,20124E5C,extended,00000000
+
+[Cheats/Activate Cheat Infinite Health] 
+patch=1,EE,200C0250,extended,96010110
+patch=1,EE,200C0254,extended,34210004
+patch=1,EE,200C0258,extended,A6010110
+patch=1,EE,200C025C,extended,03E00008
+patch=1,EE,200C0260,extended,46000834
+patch=1,EE,2012FF08,extended,0C030094
+
+[Cheats/Activate Cheat Infinite Ammo and Grenades All Weapons] 
+patch=1,EE,205153F0,extended,00000001
+
+[Cheats/Always Good Faction South Korea] 
+patch=1,EE,20553194,extended,3F800000
+
+[Cheats/Always Good Faction Russian Mafia] 
+patch=1,EE,205531B4,extended,3F800000
+
+[Cheats/Always Good Faction China] 
+patch=1,EE,205531D4,extended,3F800000
+
+[Cheats/Always Good Faction Allies] 
+patch=1,EE,205531F4,extended,3F800000

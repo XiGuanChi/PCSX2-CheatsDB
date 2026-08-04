@@ -1,0 +1,41 @@
+[Cheats/Player 1 Infinite Health] 
+patch=1,EE,205E4400,extended,3F800000
+patch=1,EE,205D67A8,extended,3F800000
+
+[Cheats/Player 2 Has No Health] 
+patch=1,EE,205E446C,extended,3C000000
+patch=1,EE,205D67AC,extended,3C000000
+
+[Cheats/Chess Kombat Mode P1 Hold Select, Then Press L1 To Have All Spells] 
+patch=1,EE,200C0220,extended,24020000
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,AE22008C
+patch=1,EE,D061E802,extended,0000FBFE
+patch=1,EE,20397B00,extended,0C030088
+patch=1,EE,D061E802,extended,0000FFFF
+patch=1,EE,20397B00,extended,8E22008C
+
+[Cheats/Infinite Koins] 
+patch=1,EE,105E48DC,extended,0000270F
+patch=1,EE,105E48D4,extended,0000270F
+patch=1,EE,105E48CC,extended,0000270F
+patch=1,EE,105E48C8,extended,0000270F
+patch=1,EE,105E48D8,extended,0000270F
+patch=1,EE,105E48D0,extended,0000270F
+
+[Cheats/Unlock All Arenas] 
+patch=1,EE,205D4D08,extended,FFFFFFFF
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,205D4E10,extended,FFFFFFFF
+
+[Cheats/Unlock All Puzzle Kombat Characters] 
+patch=1,EE,205D4E18,extended,FFFFFFFF
+
+[Cheats/Unlock All Costumes] 
+patch=1,EE,205E47A8,extended,FFFFFFFF
+
+[Cheats/Unlock All Soundtracks] 
+patch=1,EE,205E47B8,extended,FFFFFFFF
+
+

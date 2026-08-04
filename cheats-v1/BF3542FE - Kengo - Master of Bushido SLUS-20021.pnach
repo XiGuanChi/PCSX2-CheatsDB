@@ -1,0 +1,12 @@
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,201EBF80,extended,3F800000
+
+[Cheats/Max Ki Player 1] 
+patch=1,EE,101EBF88,extended,00001000
+
+[Cheats/1 Hit Death Player 2] 
+patch=1,EE,D0225AC2,extended,00303C23
+patch=1,EE,20225AC0,extended,3C230000
+
+[Cheats/Unlock All Characters]  
+patch=1,EE,20296D74,extended,FFFFFFFF

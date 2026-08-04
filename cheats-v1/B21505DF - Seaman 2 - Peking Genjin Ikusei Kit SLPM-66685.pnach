@@ -1,0 +1,12 @@
+[Cheats/Max Gold] 
+patch=1,EE,204D1920,extended,0001863C
+
+[Cheats/Max Battery] 
+patch=1,EE,204D18FC,extended,42C80000
+patch=1,EE,204D1900,extended,42C80000
+
+[Cheats/Max Jin]  
+patch=1,EE,204D1920,extended,0001863C
+
+[Cheats/Infinite Gold it does not decrease with the battery] 
+patch=1,EE,20167F6C,extended,00000000

@@ -1,0 +1,61 @@
+[Cheats/Press SELECT+L1 Speed 60 km] 
+patch=1,EE,D022A004,extended,00000104
+patch=1,EE,20F4F34C,extended,42700000
+
+[Cheats/Press SELECT+R1 Speed 120 km] 
+patch=1,EE,D8C36575,extended,08A14C9F
+patch=1,EE,20F4F34C,extended,42F00000
+
+[Cheats/Unlock All Training Contents]  
+patch=1,EE,10EA9450,extended,00000003
+
+[Cheats/Unlock All Training Contents Gold]
+patch=1,EE,10EA8F48,extended,00000032
+patch=1,EE,20EA8F4C,extended,00000002
+patch=1,EE,10EA8F84,extended,00000032
+patch=1,EE,20EA8F88,extended,00000002
+patch=1,EE,10EA8FC0,extended,00000032
+patch=1,EE,20EA8FC4,extended,00000002
+patch=1,EE,10EA8FFC,extended,00000032
+patch=1,EE,20EA9000,extended,00000002
+patch=1,EE,10EA9038,extended,00000032
+patch=1,EE,20EA903C,extended,00000002
+patch=1,EE,10EA9074,extended,00000032
+patch=1,EE,20EA9078,extended,00000002
+patch=1,EE,10EA90B0,extended,00000032
+patch=1,EE,20EA90B4,extended,00000002
+patch=1,EE,10EA90EC,extended,00000032
+patch=1,EE,20EA90F0,extended,00000002
+patch=1,EE,10EA9128,extended,00000032
+patch=1,EE,20EA912C,extended,00000002
+patch=1,EE,10EA9164,extended,00000032
+patch=1,EE,20EA9168,extended,00000002
+
+[Cheats/Unlock All Driving Test]  
+patch=1,EE,20EA9454,extended,00000002
+
+[Cheats/Unlock All Operating Test Gold] 
+patch=1,EE,10EA91A4,extended,00000032
+patch=1,EE,20EA91A8,extended,00000002
+patch=1,EE,10EA91E0,extended,00000032
+patch=1,EE,20EA91E4,extended,00000002
+patch=1,EE,10EA921C,extended,00000032
+patch=1,EE,20EA9220,extended,00000002
+patch=1,EE,10EA9258,extended,00000032
+patch=1,EE,20EA925C,extended,00000002
+patch=1,EE,10EA9294,extended,00000032
+patch=1,EE,20EA9298,extended,00000002
+patch=1,EE,10EA92D0,extended,00000032
+patch=1,EE,20EA92D4,extended,00000002
+patch=1,EE,10EA930C,extended,00000032
+patch=1,EE,20EA9310,extended,00000002
+patch=1,EE,10EA9348,extended,00000032
+patch=1,EE,20EA934C,extended,00000002
+patch=1,EE,10EA9384,extended,00000032
+patch=1,EE,20EA9388,extended,00000002
+patch=1,EE,10EA93C0,extended,00000032
+patch=1,EE,20EA93C4,extended,00000002
+patch=1,EE,10EA93FC,extended,00000032
+patch=1,EE,20EA9400,extended,00000002
+patch=1,EE,10EA9438,extended,00000032
+patch=1,EE,20EA943C,extended,00000002

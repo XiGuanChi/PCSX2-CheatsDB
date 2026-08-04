@@ -1,0 +1,25 @@
+[Cheats/99 Wins Slobber Knocker] 
+patch=1,EE,00727104,extended,00000063
+
+[Cheats/CREATE MODE Max Ability Points save it once, and then proceed with the game without using the code.] 
+patch=1,EE,1191E4CA,extended,000003E7
+patch=1,EE,11A74F40,extended,000003E7
+
+[Cheats/Unlock All Bonus]  
+patch=1,EE,20725A24,extended,FFFFFFFF
+patch=1,EE,20725A28,extended,FFFFFFFF
+patch=1,EE,00725A2C,extended,000000FF
+patch=1,EE,20725A58,extended,FFFFFFFF
+patch=1,EE,20725A5C,extended,FFFFFFFF
+patch=1,EE,2070CE64,extended,FFFFFFFF
+patch=1,EE,2070CE68,extended,FFFFFFFF
+patch=1,EE,2070CE6C,extended,FFFFFFFF
+patch=1,EE,2070CE70,extended,FFFFFFFF
+patch=1,EE,2070CE74,extended,FFFFFFFF
+patch=1,EE,2070CE78,extended,FFFFFFFF
+patch=1,EE,2070CE7C,extended,FFFFFFFF
+patch=1,EE,2070CE80,extended,FFFFFFFF
+patch=1,EE,2070CE84,extended,FFFFFFFF
+patch=1,EE,2070CE88,extended,FFFFFFFF
+patch=1,EE,2070CE8C,extended,FFFFFFFF
+patch=1,EE,2070CE90,extended,FFFFFFFF

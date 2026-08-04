@@ -1,0 +1,31 @@
+[Cheats/Infinite HP] 
+patch=1,EE,202E95D0,extended,E4630000
+
+[Cheats/Invincible Infinite HP] 
+patch=1,EE,20165340,extended,1000033E
+
+[Cheats/Enemy MS single blow death.It is invalid in other than the mobile suit] 
+patch=1,EE,20147760,extended,AE4001CC
+
+[Cheats/Infinite MS thruster gauge]  
+patch=1,EE,202EDD74,extended,E62144EC
+
+[Cheats/Max score RANK S] 
+patch=1,EE,204DE0BC,extended,4B18967F
+
+[Cheats/Unlock All Stages and Movies in Free mission]
+patch=1,EE,204BA960,extended,0000001C
+patch=1,EE,204BA964,extended,0000001C
+
+[Cheats/Unlock All Memorial Actions and All Movies] 
+patch=1,EE,204BAD6C,extended,00003FFF
+
+[Cheats/Unlock All Model Viewers when you enter each item of MODEL VIEWER] 
+patch=1,EE,203142E0,extended,24040001
+patch=1,EE,203142E4,extended,AC640000
+
+[Cheats/Unlock All Music] 
+patch=1,EE,204BAFB0,extended,7FFFFFFF
+
+[Cheats/Debug Menu After LogosThe only things that work in this menu are the memory card test options, and movie test] 
+patch=1,EE,003665D4,extended,00000001

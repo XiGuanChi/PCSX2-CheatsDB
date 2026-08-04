@@ -1,0 +1,16 @@
+[Cheats/Home Team Winning 100-0 Press L3 to Activate] 
+patch=1,EE,E004FFFD,extended,006A6382
+patch=1,EE,205D45E0,extended,00000014
+patch=1,EE,005D45E7,extended,00000000
+patch=1,EE,105D45E8,extended,00000000
+patch=1,EE,005D45EA,extended,00000000
+
+[Cheats/Away Team Winning 100-0 Press R3 to Activate] 
+patch=1,EE,E004FFFB,extended,006A6382
+patch=1,EE,205D45E0,extended,00000000
+patch=1,EE,005D45E7,extended,00000014
+patch=1,EE,105D45E8,extended,00000000
+patch=1,EE,005D45EA,extended,00000000
+
+[Cheats/Infinite Created Player Special Abilities] 
+patch=1,EE,2014DCEC,extended,24010001

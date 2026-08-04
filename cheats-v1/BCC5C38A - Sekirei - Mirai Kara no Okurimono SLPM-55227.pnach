@@ -1,0 +1,11 @@
+[Cheats/Unlock Everything] 
+patch=1,EE,00453EA9,extended,000000FF
+patch=1,EE,10453EAA,extended,0000FFFF
+patch=1,EE,40453EAC,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,10453EC4,extended,0000FFFF
+
+[Cheats/Unlock Everything ALT] 
+patch=1,EE,40453EA9,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,00453EC5,extended,000000FF

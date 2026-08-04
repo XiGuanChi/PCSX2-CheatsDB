@@ -1,0 +1,19 @@
+[Cheats/Infinite Stamina power] 
+patch=1,EE,201D8900,extended,007103E8
+
+[Cheats/Max Bio-chips] 
+patch=1,EE,2054FA10,extended,641C0000
+patch=1,EE,2054FA14,extended,64166415
+patch=1,EE,2054FA18,extended,64146417
+patch=1,EE,2054FA1C,extended,64186419
+patch=1,EE,2054FA20,extended,641A641B
+patch=1,EE,2054FA24,extended,0000641D
+
+[Cheats/Save Anywhere] 
+patch=1,EE,2057B0FC,extended,03002D2D
+
+[Cheats/Enable Debug Menu With the code on, press L3 then pause the game to view it. To return to game-play, press Start and then R3 to disable it.] 
+patch=1,EE,D057BC02,extended,0000FFFB
+patch=1,EE,20167420,extended,0805A27E
+patch=1,EE,D057BC02,extended,0000FFFD
+patch=1,EE,20167420,extended,27BDFFD0

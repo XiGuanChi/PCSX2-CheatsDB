@@ -1,0 +1,58 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200C0220,extended,3C010047
+patch=1,EE,200C0224,extended,8C21C1F4
+patch=1,EE,200C0228,extended,10200003
+patch=1,EE,200C022C,extended,3C0242C8
+patch=1,EE,200C0230,extended,8C210000
+patch=1,EE,200C0234,extended,AC220040
+patch=1,EE,200C0238,extended,03E00008
+patch=1,EE,200C023C,extended,00000000
+patch=1,EE,203A0F2C,extended,08030088
+
+[Cheats/Infinite Armor] 
+patch=1,EE,200C0240,extended,3C010047
+patch=1,EE,200C0244,extended,8C21C1F4
+patch=1,EE,200C0248,extended,10200003
+patch=1,EE,200C024C,extended,3C0242C8
+patch=1,EE,200C0250,extended,8C210000
+patch=1,EE,200C0254,extended,AC220044
+patch=1,EE,200C0258,extended,03E00008
+patch=1,EE,200C025C,extended,00000000
+patch=1,EE,203D2650,extended,08030090
+
+[Cheats/Never Reload All Weapons] 
+patch=1,EE,20190334,extended,00000000
+
+[Cheats/Infinite Ammo All Weapons] 
+patch=1,EE,2021C520,extended,00000000
+
+[Cheats/Unlock All Cheats Saved Slot 1] 
+patch=1,EE,406AAB80,extended,00070001
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,406AAB9C,extended,00060001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Threat Data] 
+patch=1,EE,406AABD0,extended,000C0001
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Unlock All Easy Levels] 
+patch=1,EE,406AAC00,extended,000A0001
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Unlock All Medium Levels] 
+patch=1,EE,406AAC28,extended,000A0001
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Unlock All Terminal Levels] 
+patch=1,EE,406AAC50,extended,000A0001
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Unlock All Concept Art]  
+patch=1,EE,206AAC98,extended,00000000
+
+[Cheats/Unlock All DVD Extras] 
+patch=1,EE,406AAC78,extended,00080001
+patch=1,EE,00000000,extended,00000000

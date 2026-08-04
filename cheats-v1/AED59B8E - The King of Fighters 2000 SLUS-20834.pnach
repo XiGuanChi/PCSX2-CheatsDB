@@ -1,0 +1,18 @@
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,10E844E8,extended,00000066
+
+[Cheats/1 Hit Death Player 2] 
+patch=1,EE,D0E847E8,extended,00000066
+patch=1,EE,10E847E8,extended,00000001
+
+[Cheats/Uncensored Version] 
+patch=1,EE,00152cf0,word,93838a68
+patch=1,EE,00152d04,word,93828a8c
+patch=1,EE,00152d14,word,9062133e
+
+[Cheats/Unlock Whip's Original Desert Eagle Ending] 
+patch=1,EE,002f97b4,word,90443ee6
+
+[Cheats/Unlock All Memory] 
+patch=1,EE,4066E0E0,extended,00030001
+patch=1,EE,01010101,extended,00000000

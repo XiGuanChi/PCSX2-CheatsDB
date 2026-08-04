@@ -1,0 +1,73 @@
+[Cheats/Max Money] 
+patch=1,EE,202B7DA4,extended,05F5E0FF
+
+[Cheats/Dihard Max HP 99] 
+patch=1,EE,102BB96A,extended,00000063
+
+[Cheats/Dihard Max MP 99] 
+patch=1,EE,202BB96C,extended,00630063
+
+[Cheats/Dihard Max AT 99] 
+patch=1,EE,002BB970,extended,00000063
+
+[Cheats/Dihard Max DF 99] 
+patch=1,EE,002BB972,extended,00000063
+
+[Cheats/Number Destroyed 999 And Withdrawal Number 0] 
+patch=1,EE,202BADB4,extended,000003E7
+
+[Cheats/Number Of Hired Mercenaries 8] 
+patch=1,EE,002BADB8,extended,00000008
+
+[Cheats/HP 99] 
+patch=1,EE,002BADBC,extended,00000063
+
+[Cheats/MP 99] 
+patch=1,EE,002BADBD,extended,00000063
+
+[Cheats/AT 99] 
+patch=1,EE,002BADBE,extended,00000063
+
+[Cheats/DF 99] 
+patch=1,EE,002BADBF,extended,00000063
+
+[Cheats/AT+ 99] 
+patch=1,EE,002BADC2,extended,00000063
+
+[Cheats/DF+ 99] 
+patch=1,EE,002BADC3,extended,00000063
+
+[Cheats/MV 32] 
+patch=1,EE,002BADC1,extended,00000020
+
+[Cheats/Intelligence 99] 
+patch=1,EE,002BADC0,extended,00000063
+
+[Cheats/Basic Magic Resistance 100] 
+patch=1,EE,202BADC4,extended,64646464
+patch=1,EE,102BADC8,extended,00006464
+patch=1,EE,002BADCA,extended,00000064
+
+[Cheats/Favorability Max With All Characters] 
+patch=1,EE,002BAC8E,extended,00000064
+patch=1,EE,002BAC91,extended,00000064
+patch=1,EE,002BAC96,extended,00000064
+patch=1,EE,002BAC97,extended,00000064
+patch=1,EE,002BACA4,extended,00000064
+
+[Cheats/Unlock All Magic] 
+patch=1,EE,202BAD98,extended,FFFFFFFF
+patch=1,EE,202BAD9C,extended,FFFFFFFF
+
+[Cheats/Unlock All Summon]  
+patch=1,EE,202BADA8,extended,FFFFFFFF
+
+[Cheats/Unlock All Skills] 
+patch=1,EE,202BADAC,extended,007F07FF
+
+[Cheats/Langriser 99 Pieces] 
+patch=1,EE,002B7E09,extended,00000063
+
+[Cheats/Unlock All Album]  
+patch=1,EE,20263470,extended,FFFFFFFF
+patch=1,EE,20263474,extended,FFFFFFFF

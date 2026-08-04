@@ -1,0 +1,15 @@
+[Cheats/Infinite Health All Characters]   
+patch=1,EE,0015a4c4,word,46010030
+patch=1,EE,0015a4c8,word,4500000E
+
+[Cheats/Infinite Pistol Ammo]   
+patch=1,EE,003615fc,word,24420000
+
+[Cheats/Infinite Energy Drinks]
+patch=1,EE,001ad154,word,24630000
+
+[Cheats/Infinite Discs]   
+patch=1,EE,002def94,word,24630000
+
+[Cheats/Characters Never Exhausted When Running]  
+patch=1,EE,0016047c,word,00401021

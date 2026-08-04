@@ -1,0 +1,19 @@
+[Cheats/Max Gold] 
+patch=1,EE,20D95C40,extended,05F5E0FF
+
+[Cheats/Max Intelligence] MAX  
+patch=1,EE,10D95F02,extended,000003E7
+
+[Cheats/Max Stamina]   
+patch=1,EE,10D95F04,extended,000003E7
+
+[Cheats/Max Sense] 
+patch=1,EE,10D95F06,extended,000003E7
+
+[Cheats/Max Morale]  
+patch=1,EE,10D95F08,extended,000003E7
+
+[Cheats/Lottery Numbers Only The Winning Number Will Be Displayed] 
+patch=1,EE,01A3A778,extended,00000002
+patch=1,EE,01A3A77A,extended,00000005
+patch=1,EE,01A3A77C,extended,00000008

@@ -1,0 +1,74 @@
+[Cheats/Infinite Basic Arrows] 
+patch=1,EE,1028ADBC,extended,00000063
+
+[Cheats/Infinite Fire Arrows] 
+patch=1,EE,1028ADC0,extended,00000063
+
+[Cheats/Infinite Explosive Arrows] 
+patch=1,EE,1028ADC4,extended,00000063
+
+[Cheats/Infinite Lightning Arrows] 
+patch=1,EE,1028ADC8,extended,00000063
+
+[Cheats/Infinite Golden Arrows] 
+patch=1,EE,1028ADCC,extended,00000063
+
+[Cheats/Infinite Piercing Arrows] 
+patch=1,EE,1028ADD0,extended,00000063
+
+[Cheats/Infinite Trident Arrows] 
+patch=1,EE,1028ADD4,extended,00000063
+
+[Cheats/Infinite Water Arrows] 
+patch=1,EE,1028ADD8,extended,00000063
+
+[Cheats/Max Jewels] 
+patch=1,EE,1028BA40,extended,00000063
+
+[Cheats/Max Total Jewels] 
+patch=1,EE,1028BA44,extended,00000063
+
+[Cheats/Hold Start To Boot Into Main Debug Menu] 
+patch=1,EE,D02E6382,extended,0000FFF7
+patch=1,EE,2014FDE8,extended,0C04E0C4
+patch=1,EE,D02E6382,extended,0000FFFF
+patch=1,EE,2014FDE8,extended,0C052A74
+
+[Cheats/Press L3 For Debug Menu R3 to Disable] 
+patch=1,EE,20159E64,extended,AC60FFF4
+patch=1,EE,20159E00,extended,08072558
+patch=1,EE,201C9560,extended,27BDFFF8
+patch=1,EE,201C9564,extended,FFBF0000
+patch=1,EE,201C9568,extended,3C02002A
+patch=1,EE,201C956C,extended,8C43A628
+patch=1,EE,201C9570,extended,1060001B
+patch=1,EE,201C9574,extended,0000202D
+patch=1,EE,201C9578,extended,0C04DCB0
+patch=1,EE,201C957C,extended,00000000
+patch=1,EE,201C9580,extended,3C04002A
+patch=1,EE,201C9584,extended,8C88A61C
+patch=1,EE,201C9588,extended,1500000A
+patch=1,EE,201C958C,extended,30430002
+patch=1,EE,201C9590,extended,10600008
+patch=1,EE,201C9594,extended,3C030029
+patch=1,EE,201C9598,extended,24050001
+patch=1,EE,201C959C,extended,AC65BCA8
+patch=1,EE,201C95A0,extended,AC85A61C
+patch=1,EE,201C95A4,extended,0C04E0B8
+patch=1,EE,201C95A8,extended,0000202D
+patch=1,EE,201C95AC,extended,1000000C
+patch=1,EE,201C95B0,extended,00000000
+patch=1,EE,201C95B4,extended,30430004
+patch=1,EE,201C95B8,extended,10600009
+patch=1,EE,201C95BC,extended,3C030029
+patch=1,EE,201C95C0,extended,AC80A61C
+patch=1,EE,201C95C4,extended,AC60BCA8
+patch=1,EE,201C95C8,extended,0C05708A
+patch=1,EE,201C95CC,extended,0000202D
+patch=1,EE,201C95D0,extended,0C05708A
+patch=1,EE,201C95D4,extended,24040001
+patch=1,EE,201C95D8,extended,0C05708A
+patch=1,EE,201C95DC,extended,24040002
+patch=1,EE,201C95E0,extended,DFBF0000
+patch=1,EE,201C95E4,extended,08057118
+patch=1,EE,201C95E8,extended,27BD0008

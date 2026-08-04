@@ -1,0 +1,46 @@
+[Cheats/Press R1 To Reach The Top Of Onegai Street Komatta-chan will not be displayed correctly] 
+patch=1,EE,D0272584,extended,00000008
+patch=1,EE,11E8A9D2,extended,0000000A
+
+[Cheats/Unlock All Janken Cards]  
+patch=1,EE,21E8A9FC,extended,00020003
+patch=1,EE,21E8AA00,extended,00010002
+patch=1,EE,21E8AA04,extended,00010002
+patch=1,EE,21E8AA08,extended,00010001
+
+[Cheats/Unlock All Mini Games] 
+patch=1,EE,21E8AAD4,extended,00010000
+patch=1,EE,21E8AAD8,extended,00010001
+patch=1,EE,21E8AADC,extended,00010001
+
+[Cheats/Mini Game Zura Shoot Player 10 points] 
+patch=1,EE,105BDB28,extended,0000000A
+
+[Cheats/Mini Game Zura Shoot Enemy 0 points] 
+patch=1,EE,105BDB2C,extended,00000000
+
+[Cheats/Mini Game Son Rally X Tank does not break] 
+patch=1,EE,005BB770,extended,00000000
+
+[Cheats/Mini Game Investment Damage Pay 2 Max Score] 
+patch=1,EE,205BB74C,extended,0001869F
+
+[Cheats/Mini Game Investment Damage Pay 2 Strength 20] 
+patch=1,EE,00596ECC,extended,00000014
+
+[Cheats/Mini Game Dodeca Senkan Max Score] 
+patch=1,EE,205BB74C,extended,000F423F
+
+[Cheats/Mini Game Dodeca Senkan Infinite Health] 
+patch=1,EE,1057DF4C,extended,000000A0
+
+[Cheats/Mini Game Son Ball Max Score] 
+patch=1,EE,205BB74C,extended,0001869F
+
+[Cheats/Mini Game Son Ball Cockpit does not break] 
+patch=1,EE,1057C7D0,extended,00000000
+patch=1,EE,105817F0,extended,00000001
+
+[Cheats/Unlock All Okimono]   
+patch=1,EE,41E86000,extended,008F000D
+patch=1,EE,00000001,extended,00000000

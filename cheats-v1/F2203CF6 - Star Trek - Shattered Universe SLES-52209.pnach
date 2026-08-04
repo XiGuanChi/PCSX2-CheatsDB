@@ -1,0 +1,24 @@
+[Cheats/Invincible Ship] 
+patch=1,EE,201A78AC,extended,00000001
+
+[Cheats/Infinite Weapon Charge] 
+patch=1,EE,2010DD60,extended,03E00008
+patch=1,EE,2010DD64,extended,00000000
+
+[Cheats/Unlock All Levels & Movies] 
+patch=1,EE,201A7148,extended,00000012
+
+[Cheats/Unlock Ultimate Difficulty]  
+patch=1,EE,201A7150,extended,00000001
+
+[Cheats/Unlock All Levels Complete] 
+patch=1,EE,401A7154,extended,004C0001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Ships] 
+patch=1,EE,401A7284,extended,00060001
+patch=1,EE,00000003,extended,00000000
+
+[Cheats/Unlock All Medals] 
+patch=1,EE,401A729C,extended,00040001
+patch=1,EE,00000001,extended,00000000

@@ -1,0 +1,52 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2028E970,extended,00000000
+patch=1,EE,2028E974,extended,00000000
+patch=1,EE,2028E978,extended,00000000
+patch=1,EE,2028E97C,extended,00000000
+patch=1,EE,2028E980,extended,00000000
+
+[Cheats/Infinite Ammo Press L2 to Activate] 
+patch=1,EE,D0AA3F02,extended,0000FEFF
+patch=1,EE,20154990,extended,00000000
+
+[Cheats/Unlock All Weapons A Press L1 to Activate. Use this code at the start of the game only] 
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,212183E0,extended,01010101
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,212183E4,extended,01010101
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,212183E8,extended,01010101
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,212183EC,extended,01010101
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,212183F0,extended,01010101
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,212182EC,extended,0000270F
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,212182F0,extended,0000270F
+patch=1,EE,E000FBFF,extended,00AA3F02
+
+[Cheats/Unlock All Weapons B Press L1 to Activate. Use this code at the start of the game only] 
+patch=1,EE,212182F4,extended,0000270F
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,212182F8,extended,0000270F
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,212182FC,extended,0000270F
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,21218300,extended,0000270F
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,21218304,extended,0000270F
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,21218308,extended,0000270F
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,21218310,extended,0000270F
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,21218310,extended,0000270F
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,21218314,extended,0000270F
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,21218318,extended,0000270F
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,2121831C,extended,0000270F
+patch=1,EE,D0AA3F02,extended,0000FBFF
+patch=1,EE,21218320,extended,0000270F

@@ -1,0 +1,77 @@
+[Cheats/Max Money] 
+patch=1,EE,20A8E518,extended,57F6985E
+
+[Cheats/Press R3 Arcade Mode Time 0] 
+patch=1,EE,D1FD6850,extended,00000400
+patch=1,EE,21FFF808,extended,00000000
+
+[Cheats/Press R3 in Code scroll mode normal Time 0] 
+patch=1,EE,D1FD6640,extended,00000400
+patch=1,EE,21FFF1B0,extended,00000000
+
+[Cheats/Press R3 in Code scroll mode coffee break Time 0] 
+patch=1,EE,D1FE6150,extended,00000400
+patch=1,EE,21FFF1C0,extended,00000000
+
+[Cheats/Auto Drive ON Press L2 Off Press R2 Cannot be used in license mode and some races] 
+patch=1,EE,D0643894,extended,0000FEFF
+patch=1,EE,11CACB52,extended,00000100 
+patch=1,EE,D0643894,extended,0000FEFF 
+patch=1,EE,11C9BF52,extended,000 00100 
+patch=1,EE,D0643894,extended,0000FDFF 
+patch=1,EE,11CACB52,extended,00000000 
+patch=1,EE,D0643894,extended,0000FDFF 
+patch=1,EE,11C9BF52,extended,00000000
+
+[Cheats/Unlock B Licenses All Gold] 
+patch=1,EE,40A8E568,extended,00100001
+patch=1,EE,0000F991,extended,00000000
+
+[Cheats/Unlock A Licenses All Gold] 
+patch=1,EE,40A8E5A8,extended,00100001
+patch=1,EE,0000F991,extended,00000000
+
+[Cheats/Unlock IB Licenses All Gold] 
+patch=1,EE,40A8E5E8,extended,00100001
+patch=1,EE,0000F991,extended,00000000
+
+[Cheats/Unlock IA Licenses All Gold] 
+patch=1,EE,40A8E628,extended,00100001
+patch=1,EE,0000F991,extended,00000000
+
+[Cheats/Unlock S Licenses All Gold] 
+patch=1,EE,40A8E668,extended,00100001
+patch=1,EE,0000F991,extended,00000000
+
+[Cheats/Unlock All Garage] 
+patch=1,EE,200C2020,extended,27BDFF00
+patch=1,EE,200C2024,extended,7FBF0000
+patch=1,EE,200C2028,extended,7FA40010
+patch=1,EE,200C202C,extended,7FB00020
+patch=1,EE,200C2030,extended,3C01000C
+patch=1,EE,200C2034,extended,8C240000
+patch=1,EE,200C2038,extended,24050001
+patch=1,EE,200C203C,extended,14800010
+patch=1,EE,200C2040,extended,AC250000
+patch=1,EE,200C2044,extended,24040015
+patch=1,EE,200C2048,extended,AFA40030
+patch=1,EE,200C204C,extended,0C1104B8
+patch=1,EE,200C2050,extended,3C05000B
+patch=1,EE,200C2054,extended,10400006
+patch=1,EE,200C2058,extended,8FA40030
+patch=1,EE,200C205C,extended,24010001
+patch=1,EE,200C2060,extended,AE040008
+patch=1,EE,200C2064,extended,AE00000C
+patch=1,EE,200C2068,extended,AE010010
+patch=1,EE,200C206C,extended,26100020
+patch=1,EE,200C2070,extended,24840001
+patch=1,EE,200C2074,extended,240104B0
+patch=1,EE,200C2078,extended,0081082B
+patch=1,EE,200C207C,extended,1C20FFF2
+patch=1,EE,200C2080,extended,7BBF0000
+patch=1,EE,200C2084,extended,7BB00020
+patch=1,EE,200C2088,extended,7BA40010
+patch=1,EE,200C208C,extended,08170AB2
+patch=1,EE,200C2090,extended,27BD0100
+patch=1,EE,2016E8A4,extended,0C030808
+

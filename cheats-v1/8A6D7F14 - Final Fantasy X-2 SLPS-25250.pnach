@@ -1,0 +1,101 @@
+[Cheats/Required code] 
+patch=1,EE,2022B160,extended,0803C800
+patch=1,EE,200F2000,extended,27BDFFE0
+patch=1,EE,200F2004,extended,7FBF0000
+patch=1,EE,200F2008,extended,7FA20010
+patch=1,EE,200F23F0,extended,7BBF0000
+patch=1,EE,200F23F4,extended,7BA20010
+patch=1,EE,200F23F8,extended,03E00008
+patch=1,EE,200F23FC,extended,27BD0020
+
+[Cheats/Possession money 999999899] 
+patch=1,EE,200F2034,extended,0C0709CE
+
+[Cheats/Max HP and Max MP It will be reflected once the status screen is opened and closed] 
+patch=1,EE,200F202C,extended,0C0708CE
+
+[Cheats/Infinite Items] 
+patch=1,EE,201C5A48,extended,30121025
+
+[Cheats/Max with one experience point acquisition]  
+patch=1,EE,201D1E88,extended,3C063B9E
+
+[Cheats/Max with one AP acquisition] 
+patch=1,EE,201D1E78,extended,2407270F
+
+[Cheats/Max HP] 
+patch=1,EE,201C465C,extended,3C080002
+
+[Cheats/Max MP]  
+patch=1,EE,201C4690,extended,2403270F
+
+[Cheats/Unlock ] Yuna and Rikku levels in one battle
+patch=1,EE,20350A18,extended,3B9AC9FF
+patch=1,EE,20350A24,extended,3B9AC9FF
+
+[Cheats/All Characters 9999 HP & MP] 
+patch=1,EE,4034C4A4,extended,00030016
+patch=1,EE,0000270F,extended,00000000
+patch=1,EE,4034C49C,extended,00030016
+patch=1,EE,0000270F,extended,00000000
+patch=1,EE,4034C4A0,extended,00030016
+patch=1,EE,0000270F,extended,00000000
+patch=1,EE,4034C4A8,extended,00030016
+patch=1,EE,0000270F,extended,00000000
+
+[Cheats/Max Money (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034BAB8,extended,3B9AC9FF
+
+[Cheats/Max Combat Obtaining AP (Ultimate Hits) SLPM-66125]  
+patch=1,EE,201D1E78,extended,24077FFF
+
+[Cheats/99 Item And Use Items (Ultimate Hits) SLPM-66125] 
+patch=1,EE,201C5A2C,extended,24020064
+patch=1,EE,201C5A70,extended,A2660000
+
+[Cheats/Max Experience Value Yuna (Ultimate Hits) SLPM-66125]  
+patch=1,EE,2034C494,extended,3B9AC9FF
+
+[Cheats/Max Experience Value Luc (Ultimate Hits) SLPM-66125]
+patch=1,EE,2034C4EC,extended,3B9AC9FF
+
+[Cheats/Max Experience Value Pine (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C544,extended,3B9AC9FF
+
+[Cheats/Yuna Current HP 99999 (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C49C,extended,0001869F
+
+[Cheats/Yuna Max HP 99999 (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C4A4,extended,0001869F
+
+[Cheats/Yuna Current MP 9999 (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C4A0,extended,0000270F
+
+[Cheats/Yuna Max MP 9999 (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C4A8,extended,0000270F
+
+[Cheats/Luc Current HP 99999 (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C4F4,extended,0001869F
+
+[Cheats/Luc Max HP 99999 (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C4FC,extended,0001869F
+
+[Cheats/Luc Current MP 9999 (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C4F8,extended,0000270F
+
+[Cheats/Luc Max MP 9999 (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C500,extended,0000270F
+
+[Cheats/Pine Current HP 99999 (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C54C,extended,0001869F
+
+[Cheats/Pine Max HP 99999 (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C554,extended,0001869F
+
+[Cheats/Pine Current MP 9999 (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C550,extended,0000270F
+
+[Cheats/Pine Max MP 9999 (Ultimate Hits) SLPM-66125] 
+patch=1,EE,2034C558,extended,0000270F
+
+

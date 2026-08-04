@@ -1,0 +1,9 @@
+[Cheats/Replace New Game With Debug Menu]  
+patch=1,EE,D0C1D6E4,extended,00000001
+patch=1,EE,10C1D6E4,extended,00000004
+
+[Cheats/Replace New Game With Debug Menu Page 1 Next page Next page.Start from the beginning	Starts a new game.Quick start	Sends you to the title screen.Run file Event select menu.System flag setting Presumably finishes character routes when selected.End Clear Process	Sets route clear flags. Return to title Returns to the title screen.Page 2 Next page	Next page.Message Check Displays various text messages.Message Check Allows you to select messages based on the event files.Message Allows you to select messages based on the character files.Flow check It's not clear what's different about this option.Flow check Shows story choices only.Quick save check Doesn't work. Would likely test title background images.Quick save check Doesn't work.Page 3 Next page Next page. Event CG check Cycles through all of the CG images.Scenery BG check Cycles through all of the background images.Character check Doesn't appear to work. Character color check Doesn't seem to work properly.BGM check Doesn't work.SE check Doesn't work.Movie check Allows you to view the game's movies.] 
+patch=1,EE,D0C1D6D0,extended,00000002
+patch=1,EE,10C1D6D0,extended,00000001
+patch=1,EE,D0C1D6E4,extended,00000001
+patch=1,EE,10C1D6E4,extended,00000004

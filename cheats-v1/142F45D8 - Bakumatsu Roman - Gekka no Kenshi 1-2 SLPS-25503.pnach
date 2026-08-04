@@ -1,0 +1,27 @@
+[Cheats/Last Blade 1P Infinite Health and Max Power] 
+patch=1,EE,200C2200,extended,3C080063
+patch=1,EE,200C2204,extended,8D08D810
+patch=1,EE,200C2208,extended,3C0900E4
+patch=1,EE,200C220C,extended,252905EC
+patch=1,EE,200C2210,extended,95290002
+patch=1,EE,200C2214,extended,01094021
+patch=1,EE,200C221C,extended,240A0100
+patch=1,EE,200C2220,extended,A50A01A0
+patch=1,EE,200C2224,extended,240B0040
+patch=1,EE,200C2228,extended,A10B01AC
+patch=1,EE,200C2220,extended,00000000
+patch=1,EE,200C2228,extended,00000000
+
+[Cheats/Last Blade 2 1P Infinite Health and Max Power] 
+patch=1,EE,200C2100,extended,3C080063
+patch=1,EE,200C2104,extended,8D08D810
+patch=1,EE,200C2108,extended,3C0900E4
+patch=1,EE,200C210C,extended,25293F18
+patch=1,EE,200C2110,extended,95290000
+patch=1,EE,200C2114,extended,01094021
+patch=1,EE,200C211C,extended,240A0100
+patch=1,EE,200C2120,extended,A50A019E
+patch=1,EE,200C2124,extended,240B0040
+patch=1,EE,200C2128,extended,A10B019C
+patch=1,EE,200C2120,extended,00000000
+patch=1,EE,200C2128,extended,00000000

@@ -1,0 +1,35 @@
+[Cheats/Max Cash] 
+patch=1,EE,20A5A2E4,extended,0098967F
+
+[Cheats/Max Health P1] 
+patch=1,EE,20A59B18,extended,461C4000
+
+[Cheats/Infinite Health P1] 
+patch=1,EE,20A59B14,extended,461C4000
+
+[Cheats/Infinite Health P2] 
+patch=1,EE,20A5A694,extended,461C3C00
+
+[Cheats/Quick Level Up] 
+patch=1,EE,20A5A2C0,extended,4A000000
+
+[Cheats/Infinite Skill Points] 
+patch=1,EE,20A5A2C4,extended,44898000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20A59C34,extended,000003E7
+patch=1,EE,20A59C38,extended,000003E7
+
+[Cheats/1 Hit Kill] 
+patch=1,EE,200C2000,extended,9221000B
+patch=1,EE,200C2004,extended,24120005
+patch=1,EE,200C2008,extended,10320002
+patch=1,EE,200C200C,extended,C6200054
+patch=1,EE,200C2010,extended,46000506
+patch=1,EE,200C2014,extended,03E00008
+patch=1,EE,200C2018,extended,242007B4
+patch=1,EE,2018437C,extended,0C030800
+
+[Cheats/Disable A.I. Ignore Enemy] 
+patch=1,EE,20109AEC,extended,24020001
+ 

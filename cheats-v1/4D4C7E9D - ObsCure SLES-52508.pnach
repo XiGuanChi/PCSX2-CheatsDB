@@ -1,0 +1,25 @@
+[Cheats/Infinite Health All Characters]   
+patch=1,EE,0015ab90,extended,46010030
+patch=1,EE,0015ab54,extended,46000840
+
+[Cheats/Characters never exhausted when Running] 
+patch=1,EE,0016115c,extended,00401021
+
+[Cheats/Infinite Pistol Ammo] not decreasing
+patch=1,EE,0036a820,extended,24420000
+
+[Cheats/Infinite Ammo Laser never overcharges]  
+patch=1,EE,0014c3c4,extended,10000003
+patch=1,EE,0014c3c8,extended,44820000
+patch=1,EE,0014c434,extended,ae8001f0
+patch=1,EE,0014ce24,extended,ae8001f0
+
+[Cheats/Infinite Energy Drinks]  
+patch=1,EE,001addd8,extended,24630000
+
+[Cheats/Infinite Discs]  
+patch=1,EE,002e8fe0,extended,24630000
+
+[Cheats/Infinite Pump-Action Shotgun Ammo] 
+patch=1,EE,00363614,extended,24420000
+

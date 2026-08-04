@@ -1,0 +1,44 @@
+[Cheats/Max Money] 
+patch=1,EE,205BE430,extended,05F5E0FF
+
+[Cheats/Max Money After Increse] 
+patch=1,EE,20147C9C,extended,10600001
+
+[Cheats/Infinite Health] 
+patch=1,EE,104F54A8,extended,00007FFF
+
+[Cheats/AP Current Value To Max Value] 
+patch=1,EE,202E576C,extended,0803D540
+patch=1,EE,200F5500,extended,3C0B004F
+patch=1,EE,200F5504,extended,956A5CB0
+patch=1,EE,200F5508,extended,A56A54A4
+patch=1,EE,200F550C,extended,03E00008
+
+[Cheats/Speed Up]  
+patch=1,EE,202DAAC4,extended,4A0002FF
+
+[Cheats/Equipped Weapon 1 Bullet Number 9999] 
+patch=1,EE,204F5D78,extended,270F270F
+
+[Cheats/Reload No Time] 
+patch=1,EE,004F5D6B,extended,00000000
+
+[Cheats/No Reload Time] 
+patch=1,EE,004F5EEB,extended,00000000
+
+[Cheats/Lock-On Range Max] 
+patch=1,EE,004F5F2A,extended,000000FF
+patch=1,EE,004F5F2E,extended,000000FF
+
+[Cheats/Max Lock-On Range] 
+patch=1,EE,004F5DAA,extended,000000FF
+patch=1,EE,004F5DAE,extended,000000FF
+
+[Cheats/Enemy Is Dying In The Arena It seems to work even during missions] 
+patch=1,EE,200F3000,extended,8E010000
+patch=1,EE,200F3004,extended,54200002
+patch=1,EE,200F3008,extended,24010000
+patch=1,EE,200F300C,extended,24610000
+patch=1,EE,200F3010,extended,0805C728
+patch=1,EE,200F3014,extended,AE010004
+patch=1,EE,20171C98,extended,0803CC00

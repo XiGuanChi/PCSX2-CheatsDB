@@ -1,0 +1,9 @@
+[Cheats/Unlock All Special]  
+patch=1,EE,41E2F71C,extended,000B0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,21E2F750,extended,FFFFFFFF
+patch=1,EE,11E2F764,extended,0000FFFF
+patch=1,EE,11E2F758,extended,0000FFFF
+patch=1,EE,11E2F75C,extended,0000FFFF
+patch=1,EE,01E2F754,extended,000000FF
+patch=1,EE,01E2F748,extended,000000FF

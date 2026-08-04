@@ -1,0 +1,70 @@
+[Cheats/1P Infinite HP & Max Dance Gauge] 
+patch=1,EE,201727EC,extended,4100992A
+patch=1,EE,201727F0,extended,E46003E0
+patch=1,EE,201727F4,extended,102000F7
+patch=1,EE,201727F8,extended,C43E4600
+patch=1,EE,20172BD4,extended,08059065
+patch=1,EE,20172BD8,extended,C0143FF6
+patch=1,EE,20172BDC,extended,AC6103EC
+
+[Cheats/2P HP 0 Press SELECT]  
+patch=1,EE,101AA800,extended,8E770000
+patch=1,EE,102AA29C,extended,FFFE00B4
+patch=1,EE,101AA800,extended,03E0AC60
+
+[Cheats/Challenge Points Up] 
+patch=1,EE,20ABD530,extended,0001869F
+
+[Cheats/Unlock All Album] 
+patch=1,EE,20ABD954,extended,FFFFFFFF
+patch=1,EE,20ABD958,extended,FFFFFFFF
+
+[Cheats/Unlock All Characters]  
+patch=1,EE,20ABCFEC,extended,FFFFFFFF
+
+[Cheats/Unlock All View Characters, VOICE of Database and Collection of 100] 
+patch=1,EE,201FAAA8,extended,10000004
+patch=1,EE,201FAABC,extended,2401FFFF
+patch=1,EE,201FAAC0,extended,AC6105D4
+patch=1,EE,201FAACC,extended,00000000
+
+[Cheats/Unlock All Characters Festival Clear] 
+patch=1,EE,20ABCFF0,extended,FFFFFFFF
+
+[Cheats/Unlock All System Voice] 
+patch=1,EE,20ABD534,extended,FFFFFFFF
+
+[Cheats/Unlock Database MODEL Perspective Restriction Release] 
+patch=1,EE,2020CF3C,extended,10000002
+patch=1,EE,2020CF60,extended,10000002
+patch=1,EE,2020D074,extended,10000002
+patch=1,EE,2020D0AC,extended,10000002
+patch=1,EE,2020D1B4,extended,10000019
+
+[Cheats/Unlock Challenge & Survival] 
+patch=1,EE,00ABCFE4,extended,000000FF
+
+[Cheats/Archive All Goods Purchased] 
+patch=1,EE,20ABD51C,extended,FFFFFFFF
+
+[Cheats/Unlock All Training Cleared] 
+patch=1,EE,20ABD4EC,extended,FFFFFFFF
+patch=1,EE,20ABD4FC,extended,FFFFFFFF
+
+[Cheats/Unlock All Bonus]  
+patch=1,EE,40ABCFE4,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40ABD554,extended,00380001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,20ABD4EC,extended,FFFFFFFF
+patch=1,EE,20ABD4FC,extended,FFFFFFFF
+patch=1,EE,20ABD534,extended,FFFFFFFF
+patch=1,EE,20ABD954,extended,FFFFFFFF
+patch=1,EE,20ABD958,extended,FFFFFFFF
+patch=1,EE,20ABD530,extended,0001869F
+
+[Cheats/Enable Debug Menu while in battle, press R3 + L2 to activate the debug menu. Only press this button combination in battle. If for what ever reason the game softlocks, press R3 + L1 to restart the match. Press X button to close the menu.You can instantly set player health, set AI variables, view animations, adjust the camera and so forth. When you first enter the menu no text will render. Simply press X button once then enter the menu again for it to display properly.] 
+patch=1,EE,D029829C,extended,0000FEFB
+patch=1,EE,10CA1788,extended,0000050B
+patch=1,EE,D029829C,extended,0000FBFB
+patch=1,EE,10CA1788,extended,00000000

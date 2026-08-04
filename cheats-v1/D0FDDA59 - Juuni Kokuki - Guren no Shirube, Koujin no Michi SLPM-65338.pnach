@@ -1,0 +1,23 @@
+[Cheats/Max Money After Getting Money] 
+patch=1,EE,20169FA0,extended,1000000A
+
+[Cheats/Max Stones After Getting Stones] 
+patch=1,EE,2016A57C,extended,00000000
+
+[Cheats/Infinite HP] 
+patch=1,EE,207CA836,extended,00004370
+
+[Cheats/In Battle Infinite HP] 
+patch=1,EE,201D1800,extended,32060FFF
+patch=1,EE,201D1808,extended,34030190
+patch=1,EE,201D180C,extended,10C300AD
+
+[Cheats/In Battle Always Invokable] 
+patch=1,EE,201F1904,extended,64070005
+patch=1,EE,201F1918,extended,A6C70054
+
+[Cheats/Obtained items 98 Open Tools section to activate.] 
+patch=1,EE,20254DB4,extended,00438021
+patch=1,EE,20254DB8,extended,34020062
+patch=1,EE,20254DC0,extended,A6020292
+

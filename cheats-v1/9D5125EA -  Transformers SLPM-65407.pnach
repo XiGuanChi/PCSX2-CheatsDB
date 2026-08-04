@@ -1,0 +1,34 @@
+[Cheats/Max Energon Cube] 
+patch=1,EE,10285080,extended,0000270F
+
+[Cheats/Infinite Max player HP & time stop] 
+patch=1,EE,201C0C8C,extended,A664000E
+patch=1,EE,201BF3E8,extended,10000054
+
+[Cheats/Infinite Max player EP] 
+patch=1,EE,201C0D2C,extended,96640010
+patch=1,EE,201C0D3C,extended,A6640012
+patch=1,EE,201C0D54,extended,00E4001A
+
+[Cheats/Infinite Max player SC] 
+patch=1,EE,201C0C78,extended,86610014
+patch=1,EE,201C0C7C,extended,A6610016
+
+[Cheats/Unit level 10 when viewing status] 
+patch=1,EE,201BB5D8,extended,24030009
+patch=1,EE,201BB5DC,extended,A2030005
+
+[Cheats/Partner HP recovery on formation screen 1] 
+patch=1,EE,201F8700,extended,960700EC
+patch=1,EE,201F870C,extended,A60700EE
+patch=1,EE,201F8724,extended,0047001A
+
+[Cheats/Partner EP recovery on formation screen 1] 
+patch=1,EE,201F8740,extended,960700F0
+patch=1,EE,201F874C,extended,A60700F2
+patch=1,EE,201F8764,extended,0047001A
+
+[Cheats/Partner SC recovery on formation screen 1] 
+patch=1,EE,201F8780,extended,960700F4
+patch=1,EE,201F878C,extended,A60700F6
+patch=1,EE,201F87A4,extended,0047001A

@@ -1,0 +1,23 @@
+[Cheats/Max money legal]  
+patch=1,EE,20849D64,extended,05F5E0FF
+
+[Cheats/Max money illegal]  
+patch=1,EE,20849D68,extended,05F5E0FF
+
+[Cheats/Rank 1] 
+patch=1,EE,00849D80,extended,00000001
+
+[Cheats/Infinite ammo] 
+patch=1,EE,20222E5C,extended,00000000
+
+[Cheats/City cleaning] 
+patch=1,EE,202B1F30,extended,AE00000C
+
+[Cheats/Conclusion available] 
+patch=1,EE,20849F68,extended,00000001
+patch=1,EE,20849F70,extended,00000001
+patch=1,EE,2084A0A8,extended,00000001
+
+[Cheats/Max money] 
+patch=1,EE,10849D60,extended,0000FFFF
+

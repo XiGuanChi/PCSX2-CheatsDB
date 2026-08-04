@@ -1,0 +1,22 @@
+[Cheats/Infinite Lives] 
+patch=1,EE,2046C220,extended,00000009
+
+[Cheats/Infinite Special Weapon Energy] 
+patch=1,EE,20130B84,extended,00000000
+
+[Cheats/Infinite Health] 
+patch=1,EE,20E5A79C,extended,00000020
+patch=1,EE,20E5A81C,extended,00000020
+
+[Cheats/Infinite Health Sub Character] 
+patch=1,EE,10E5A89C,extended,000003E7
+patch=1,EE,10E5A81C,extended,000003E7
+
+[Cheats/Sub Character Is Invincible] 
+patch=1,EE,10E5A814,extended,00000001
+patch=1,EE,10E5A894,extended,00000001
+
+[Cheats/Unlock Megaman X Selectable] 
+patch=1,EE,10E4C9E8,extended,00000003
+patch=1,EE,10E4CA26,extended,0000C234
+patch=1,EE,10E4CA4E,extended,00004234

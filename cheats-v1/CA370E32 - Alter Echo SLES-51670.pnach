@@ -1,0 +1,17 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200FFF00,extended,3C0342C8
+patch=1,EE,200FFF04,extended,AC4300BC
+patch=1,EE,200FFF08,extended,AC4300B8
+patch=1,EE,200FFF0C,extended,C44100BC
+patch=1,EE,200FFF10,extended,C44000B8
+patch=1,EE,200FFF14,extended,08046F0A
+patch=1,EE,2011BC20,extended,0803FFC0
+
+[Cheats/Infinite Plasm Score] 
+patch=1,EE,203C5A6C,extended,0098967F
+
+[Cheats/Infinite PolySuit Energy] 
+patch=1,EE,202107F8,extended,00000000
+
+[Cheats/Infinite Time Dilation Meter] 
+patch=1,EE,20131004,extended,24030090

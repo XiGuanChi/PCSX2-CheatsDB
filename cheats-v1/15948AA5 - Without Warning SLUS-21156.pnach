@@ -1,0 +1,16 @@
+[Cheats/God Mode] 
+patch=1,EE,004A5A8B,extended,00000001
+
+[Cheats/Infinite Energy] 
+patch=1,EE,200C2000,extended,03E00008
+patch=1,EE,200C2004,extended,AC820014
+patch=1,EE,201B5410,extended,08030800
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,200C2008,extended,03E00008
+patch=1,EE,200C200C,extended,AC8200F4
+patch=1,EE,201B7040,extended,08030802
+
+[Cheats/Infinite Grenades] 
+patch=1,EE,2016E294,extended,00000000
+

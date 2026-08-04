@@ -1,0 +1,32 @@
+[Cheats/Max Cash] 
+patch=1,EE,20F62E08,extended,000F423F
+
+[Cheats/Klein Kiesling Infinite Health] 
+patch=1,EE,10F62E2E,extended,000003E7
+
+[Cheats/Klein Kiesling Infinite Mana] 
+patch=1,EE,10F62E30,extended,000003E7
+
+[Cheats/Klein Kiesling Infinite Skill Points] 
+patch=1,EE,10F62E84,extended,000003E7
+
+[Cheats/999 Element From Extracted Item] 
+patch=1,EE,2015AA4C,extended,240E03E7
+
+[Cheats/Infinite Item Use] 
+patch=1,EE,2015B4E8,extended,00000000
+
+[Cheats/Unlock All Bonuses] 
+patch=1,EE,10F62E04,extended,00000300
+patch=1,EE,40F62D70,extended,001E0001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Synthesize] 
+patch=1,EE,00F6549F,extended,00000002
+patch=1,EE,40F654A0,extended,00700001
+patch=1,EE,02020202,extended,00000000
+
+[Cheats/Unlock All Monster Log Collection]  
+patch=1,EE,10F6567E,extended,00000202
+patch=1,EE,40F65680,extended,001E0001
+patch=1,EE,02020202,extended,00000000

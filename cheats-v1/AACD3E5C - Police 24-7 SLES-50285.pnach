@@ -1,0 +1,15 @@
+[Cheats/Infinite Lives]  
+patch=1,EE,103A6A28,extended,00000003
+
+[Cheats/Infinite Credits] 
+patch=1,EE,203A2F10,extended,00000003
+
+[Cheats/No Reload] 
+patch=1,EE,203A6CF0,extended,00000808
+
+[Cheats/Infinite Time] 
+patch=1,EE,203A69F8,extended,00000999
+
+[Cheats/Unlock Another Story]  
+patch=1,EE,202C33A0,extended,00000001
+

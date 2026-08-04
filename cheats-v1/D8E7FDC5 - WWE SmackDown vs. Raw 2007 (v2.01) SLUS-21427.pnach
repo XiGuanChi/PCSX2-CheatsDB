@@ -1,0 +1,57 @@
+[Cheats/Infinite Health Human Players] 
+patch=1,EE,E001302D,extended,00498F1C
+patch=1,EE,20498F24,extended,10C00218
+
+[Cheats/Infinite Health Human Super Damage Against CPU ] 
+patch=1,EE,E002302D,extended,00498F1C
+patch=1,EE,20498F24,extended,10C00218
+patch=1,EE,20499494,extended,A4C00000
+
+[Cheats/Infinite Stamina]  
+patch=1,EE,D0498838,extended,0000882D
+patch=1,EE,2049886C,extended,00000000
+
+[Cheats/Infinite Stamina Usage]  
+patch=1,EE,D0498838,extended,0000882D
+patch=1,EE,2049884C,extended,00000000
+
+[Cheats/Quick Max EXP Gain]  
+patch=1,EE,20104720,extended,00000000
+
+[Cheats/Infinite Time Out Of Ring ] 
+patch=1,EE,D048C8A8,extended,00007480
+patch=1,EE,2048C9A0,extended,00000000
+
+[Cheats/Unlock Everything]  
+patch=1,EE,403FA178,extended,000C0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Season Mode Quick WWE Cash Gain] 
+patch=1,EE,103E8550,extended,0000FFFF
+
+[Cheats/Season Mode Max WWE Cash]  
+patch=1,EE,203E8550,extended,05F5E0FF
+
+[Cheats/Season Mode Buying Items Doesnt Decrease WWE Cash]  
+patch=1,EE,20104648,extended,00000000
+
+[Cheats/Season Mode Buying Items Increases WWE Cash]  
+patch=1,EE,20104638,extended,00901021
+
+[Cheats/Season Mode Quick Exp Gain]  
+patch=1,EE,103EE710,extended,0000FFFF
+
+[Cheats/Season Mode Max Exp]  
+patch=1,EE,203EE710,extended,05F5E0FF
+
+[Cheats/General Manager Mode Infinite Starting Cash RAW GM] 
+patch=1,EE,103DC020,extended,0000FFFF
+
+[Cheats/General Manager Mode Max Starting Cash RAW GM] 
+patch=1,EE,203DC020,extended,05F5E0FF
+
+[Cheats/General Manager Mode Infinite Starting Cash Smackdown GM] 
+patch=1,EE,103DF328,extended,0000FFFF
+
+[Cheats/General Manager Mode Max Starting Cash Smackdown GM] 
+patch=1,EE,203DF328,extended,05F5E0FF

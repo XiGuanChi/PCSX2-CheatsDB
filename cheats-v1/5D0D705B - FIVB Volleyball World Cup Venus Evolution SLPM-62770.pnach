@@ -1,0 +1,10 @@
+[Cheats/Max Volley Points 9999] 
+patch=1,EE,21EE3818,extended,0000270F
+
+[Cheats/1P Score 99 Press L1]  
+patch=1,EE,D1EEFB42,extended,0000FBFF
+patch=1,EE,01D0A374,extended,00000063
+
+[Cheats/COM Score 0 Press L2]  
+patch=1,EE,D1EEFB42,extended,0000FEFF
+patch=1,EE,01D0A376,extended,00000000

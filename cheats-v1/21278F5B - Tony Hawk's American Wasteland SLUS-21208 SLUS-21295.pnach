@@ -1,0 +1,43 @@
+[Cheats/Story Mode Infinite Cash] 
+patch=1,EE,20D24294,extended,05F5E0FF
+
+[Cheats/Story Mode Super Combos] 
+patch=1,EE,2071688C,extended,42C60000
+
+[Cheats/Story Mode Infinite Special] 
+patch=1,EE,2071689C,extended,00000B3D
+
+[Cheats/View Gaps To Have All Gaps Current Level] 
+patch=1,EE,200C0230,extended,2402270F
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,AC820044
+patch=1,EE,20359F60,extended,0803008C
+
+[Cheats/Have All Stat Points] 
+patch=1,EE,203AAC68,extended,AC860020
+patch=1,EE,203AAC70,extended,AC870028
+patch=1,EE,203AAC78,extended,24020000
+
+[Cheats/Unlock Everything] 
+patch=1,EE,200C0240,extended,8C620000
+patch=1,EE,200C0244,extended,00441025
+patch=1,EE,200C0248,extended,08085926
+patch=1,EE,200C024C,extended,AC620000
+patch=1,EE,20216490,extended,08030090
+
+[Cheats/View Goals To Have Classic Mode Goals Completed] 
+patch=1,EE,200C0260,extended,8C82006C
+patch=1,EE,200C0264,extended,34420006
+patch=1,EE,200C0268,extended,080CB01F
+patch=1,EE,200C026C,extended,AC82006C
+patch=1,EE,2032C078,extended,08030098
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,209AF754,extended,FFFFFFFF
+patch=1,EE,209AF758,extended,FFFFFFFF
+
+[Cheats/Unlock All Cheats] 
+patch=1,EE,009AF710,extended,000000FF
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,009AF711,extended,000000FF

@@ -1,0 +1,26 @@
+[Cheats/Infinite Health Level 1] 
+patch=1,EE,20917CD0,extended,3F7FFFFB
+
+[Cheats/Infinite Health] 
+patch=1,EE,2024C924,extended,3C0143C8
+patch=1,EE,2024C928,extended,AC410010
+
+[Cheats/Infinite Cash] 
+patch=1,EE,D0502F98,extended,00100000
+patch=1,EE,60502F98,extended,0000000F
+patch=1,EE,000100F1,extended,00000000
+
+[Cheats/Infinite Ammo No Reload]  
+patch=1,EE,20225284,extended,00000000
+
+[Cheats/Infinite Slow Down On Zoom] 
+patch=1,EE,2030CA74,extended,00000000
+
+[Cheats/Disable Car Damage] 
+patch=1,EE,20428758,extended,03E00008
+patch=1,EE,2042875C,extended,00000000
+
+[Cheats/Debug Menu Press L1+L2+Start , press left or right to access the full debug menu. If you set up the first option to debug, you will be in free camera mode, press triangle to place your character anywhere.] 
+patch=1,EE,20501DF0,extended,00269198
+patch=1,EE,D0519803,extended,000000FA
+patch=1,EE,20501DF0,extended,00265030

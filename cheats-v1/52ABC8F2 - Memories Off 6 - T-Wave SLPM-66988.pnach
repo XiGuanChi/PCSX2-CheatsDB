@@ -1,0 +1,3 @@
+[Cheats/Debug Menu in Main Menu This menu contains various options to view background images, event images, and unlock certain options. It also contains various route select options.Next page Next page. Start from the beginning Starts a new game. Quick start Sends you to the title screen.Run file Event select menu.System Flag Settings Has no menu options.End Clear Process	Sets route clear flags.Return to title Returns to the title screen.] 
+patch=1,EE,D0C6A728,extended,00000000
+patch=1,EE,20C6A728,extended,00010002

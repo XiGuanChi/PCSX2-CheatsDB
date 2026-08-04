@@ -1,0 +1,70 @@
+[Cheats/Infinite Strikes L3 Have Strikes R3] 
+patch=1,EE,E002FFFD,extended,00250882
+patch=1,EE,D069FE84,extended,00000024
+patch=1,EE,2069FE84,extended,AE200024
+patch=1,EE,E002FFFB,extended,00250882
+patch=1,EE,D069FE84,extended,00000024
+patch=1,EE,2069FE84,extended,AE300024
+
+[Cheats/Infinite Strikes L3 Have Strikes R3 Alt] 
+patch=1,EE,200C0200,extended,3C190091
+patch=1,EE,200C0204,extended,8F393C68
+patch=1,EE,200C0208,extended,13200004
+patch=1,EE,200C0210,extended,24040000
+patch=1,EE,200C0214,extended,AF240024
+patch=1,EE,200C021C,extended,03E00008
+patch=1,EE,D0250882,extended,0000FFFD
+patch=1,EE,201427D8,extended,08030080
+patch=1,EE,D0250882,extended,0000FFFB
+patch=1,EE,201427D8,extended,03E00008
+
+[Cheats/Infinite Outs L1+L2 Have Outs R1+R2] 
+patch=1,EE,E002FAFF,extended,00250882
+patch=1,EE,D069F774,extended,0000001C
+patch=1,EE,2069F774,extended,AC80001C
+patch=1,EE,E002F5FF,extended,00250882
+patch=1,EE,D069F774,extended,0000001C
+patch=1,EE,2069F774,extended,AC85001C
+
+[Cheats/Infinite Outs L1+L2 Have Outs R1+R2 Alt] 
+patch=1,EE,200C0230,extended,3C030091
+patch=1,EE,200C0234,extended,8C635E18
+patch=1,EE,200C0238,extended,10600004
+patch=1,EE,200C0240,extended,24050000
+patch=1,EE,200C0244,extended,AC65001C
+patch=1,EE,200C024C,extended,03E00008
+patch=1,EE,D0250882,extended,0000FAFF
+patch=1,EE,2014284C,extended,0803008C
+patch=1,EE,D0250882,extended,0000F5FF
+patch=1,EE,2014284C,extended,03E00008
+
+[Cheats/Road To The Show Infinite Career Points Memeory] 
+patch=1,EE,219B4E04,extended,00000032
+
+[Cheats/Road To The Show Infinite Career Points ASM] 
+patch=1,EE,D06801E8,extended,00000014
+patch=1,EE,206801E8,extended,00000000
+
+[Cheats/Road To The Show Infinite Career Points ASM Alt] 
+patch=1,EE,D06801E8,extended,00000014
+patch=1,EE,206801E8,extended,AE400014
+
+[Cheats/Road To The Show Max Pitching Attributes Also works for create player] 
+patch=1,EE,E00430C2,extended,D073d53e
+patch=1,EE,2073d53c,extended,20060064
+patch=1,EE,20749f98,extended,08028000
+patch=1,EE,20749fb8,extended,08028000
+patch=1,EE,20749fd8,extended,08028000
+patch=1,EE,200A0000,extended,20060064
+patch=1,EE,200A0004,extended,a0460001
+patch=1,EE,200A0008,extended,a0460002
+patch=1,EE,200A000C,extended,a0460003
+patch=1,EE,200A0010,extended,03e00008
+
+[Cheats/Road To The Show Max Batting Attributes Also works for create player] 
+patch=1,EE,D073d516,extended,000030c2
+patch=1,EE,2073d514,extended,20060064
+
+[Cheats/Road To The Show Press Select for No Training Points Memory] 
+patch=1,EE,D0250882,extended,0000FFFE
+patch=1,EE,219B4E04,extended,00000000

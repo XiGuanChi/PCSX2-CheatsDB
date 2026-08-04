@@ -1,0 +1,21 @@
+[Cheats/Max Gauge Meter P1] 
+patch=1,EE,10823CC6,extended,000003E8
+
+[Cheats/Max Perfect's P1]  
+patch=1,EE,20823DB4,extended,0000270F
+
+[Cheats/Infinite Shop Points] 
+patch=1,EE,10478E50,extended,0000FFFF
+
+[Cheats/Max Shop Points] 
+patch=1,EE,20478E50,extended,3B9AC9FF
+
+[Cheats/Have Everything Available For Purchase] 
+patch=1,EE,40479098,extended,002D0001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,0047914C,extended,00000002
+
+[Cheats/Unlock Everything] 
+patch=1,EE,40479098,extended,002D0001
+patch=1,EE,04040404,extended,00000000
+patch=1,EE,0047914C,extended,00000004

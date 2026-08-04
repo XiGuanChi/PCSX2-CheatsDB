@@ -1,0 +1,93 @@
+[Cheats/Infinite Health Crash] 
+patch=1,EE,200FFF80,extended,8C810014
+patch=1,EE,200FFF84,extended,AC810004
+patch=1,EE,200FFF88,extended,080AED13
+patch=1,EE,200FFF8C,extended,03E00008
+patch=1,EE,202BB44C,extended,0803FFE0
+
+[Cheats/Infinite Power Mounts] 
+patch=1,EE,2027AC74,extended,00000000
+
+[Cheats/Max Experience] 
+patch=1,EE,21B47CDC,extended,05f5e0ff
+
+[Cheats/Infinite Time] 
+patch=1,EE,2041EA3C,extended,00000000
+
+[Cheats/Infinite Time Using Free Jack Power-upUnlock ] 
+patch=1,EE,202BAE98,extended,00000000
+
+[Cheats/Infinite Time Using Quad Damage Power-up] 
+patch=1,EE,202BAF6C,extended,00000000
+
+[Cheats/Unlock All Movies]  
+patch=1,EE,206FFF88,extended,6A8075B9
+patch=1,EE,206FFF8C,extended,6A8075BA
+patch=1,EE,206FFF90,extended,6A8075BB
+patch=1,EE,206FFF94,extended,6A8075BC
+patch=1,EE,206FFF98,extended,6A8075BD
+patch=1,EE,206FFF9C,extended,6A8075BE
+patch=1,EE,206FFFA0,extended,6A8075BF
+patch=1,EE,206FFFA4,extended,6A8075C0
+patch=1,EE,206FFFA8,extended,6A8075C1
+patch=1,EE,206FFFAC,extended,6A8075D7
+patch=1,EE,206FFFB0,extended,6A8075D8
+patch=1,EE,206FFFB4,extended,6A8075D9
+patch=1,EE,206FFFB8,extended,6A8075DA
+patch=1,EE,206FFFBC,extended,6A8075DB
+patch=1,EE,206FFFC0,extended,6A8075DC
+patch=1,EE,206FFFC4,extended,6A8075DD
+patch=1,EE,206FFFC8,extended,6A8075DE
+patch=1,EE,206FFFCC,extended,6A8075DF
+patch=1,EE,206FFFD0,extended,6A8075E0
+patch=1,EE,206FFFD4,extended,6A8075E1
+patch=1,EE,20700008,extended,006FFFD4
+
+[Cheats/Unlock All Skins]  
+patch=1,EE,207018F0,extended,00000000
+patch=1,EE,207018F4,extended,00000001
+patch=1,EE,207018F8,extended,00000002
+patch=1,EE,207018FC,extended,00000003
+patch=1,EE,20701900,extended,00000004
+patch=1,EE,20701904,extended,00000005
+patch=1,EE,20701908,extended,00000006
+patch=1,EE,2070190C,extended,00000007
+patch=1,EE,20701910,extended,00000008
+patch=1,EE,20701914,extended,00000009
+patch=1,EE,20701918,extended,0000000A
+
+[Cheats/Unlock All Concept Art]  
+patch=1,EE,2073B9D8,extended,00000000
+patch=1,EE,2073B9DC,extended,00000001
+patch=1,EE,2073B9E0,extended,00000002
+patch=1,EE,2073B9E4,extended,00000003
+patch=1,EE,2073B9E8,extended,00000004
+patch=1,EE,2073B9EC,extended,00000005
+patch=1,EE,2073B9F0,extended,00000006
+patch=1,EE,2073B9F4,extended,00000007
+patch=1,EE,2073B9F8,extended,00000008
+patch=1,EE,2073B9FC,extended,00000009
+patch=1,EE,2073BA00,extended,0000000A
+patch=1,EE,2073BA04,extended,0000000B
+
+[Cheats/Unlock All Enemy Info]  
+patch=1,EE,2073BA18,extended,00000000
+patch=1,EE,2073BA1C,extended,00000001
+patch=1,EE,2073BA20,extended,00000002
+patch=1,EE,2073BA24,extended,00000003
+patch=1,EE,2073BA28,extended,00000004
+patch=1,EE,2073BA2C,extended,00000005
+patch=1,EE,2073BA30,extended,00000006
+patch=1,EE,2073BA34,extended,00000007
+patch=1,EE,2073BA38,extended,00000008
+patch=1,EE,2073BA3C,extended,00000009
+patch=1,EE,2073BA40,extended,0000000A
+patch=1,EE,2073BA44,extended,0000000B
+patch=1,EE,2073BA48,extended,0000000C
+patch=1,EE,2073BA4C,extended,0000000D
+patch=1,EE,2073BA50,extended,0000000E
+patch=1,EE,2073BA54,extended,0000000F
+patch=1,EE,2073BA58,extended,00000010
+patch=1,EE,2073BA5C,extended,00000011
+patch=1,EE,2073BA60,extended,00000012
+patch=1,EE,2073BA64,extended,00000013

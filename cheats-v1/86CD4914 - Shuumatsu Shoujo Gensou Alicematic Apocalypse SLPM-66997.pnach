@@ -1,0 +1,10 @@
+[Cheats/Unlock CG when you browse] 
+patch=1,EE,201130C8,extended,240200FF
+patch=1,EE,201130CC,extended,A0820000
+
+[Cheats/Unlock All Other Bonus than CG Needs a Save] 
+patch=1,EE,201C7FA4,extended,24040001
+
+[Cheats/Unlock All CG] 
+patch=1,EE,4024CB70,extended,00170001
+patch=1,EE,FFFFFFFF,extended,00000000

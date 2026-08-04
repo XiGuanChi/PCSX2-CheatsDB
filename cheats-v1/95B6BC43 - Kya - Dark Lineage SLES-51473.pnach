@@ -1,0 +1,9 @@
+[Cheats/Infinite Max Health] 
+patch=1,EE,200FFF00,extended,3C014348
+patch=1,EE,200FFF04,extended,AC810008
+patch=1,EE,200FFF08,extended,AC81000C
+patch=1,EE,200FFF0C,extended,08069CE1
+patch=1,EE,201A737C,extended,0803FFC0
+
+[Cheats/Infinite Nooties] 
+patch=1,EE,1048EABC,extended,0000270F

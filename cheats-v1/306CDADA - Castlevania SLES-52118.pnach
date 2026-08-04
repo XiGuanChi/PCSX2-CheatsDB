@@ -1,0 +1,46 @@
+[Cheats/Infinite Gold 99999999] 
+patch=1,EE,20B6B260,extended,05F5E0FF
+
+[Cheats/Infinite & Max Health] 
+patch=1,EE,20B6B528,extended,47C34F80
+patch=1,EE,20B6B240,extended,47C34F80
+
+[Cheats/Infinite & Max MP] 
+patch=1,EE,20B6B284,extended,00000063
+patch=1,EE,20B6B288,extended,00000063
+
+[Cheats/Have All Skills] 
+patch=1,EE,20B6B4E4,extended,FFFFFFFF
+
+[Cheats/Have All Whips] 
+patch=1,EE,40B6B290,extended,00050001
+patch=1,EE,00010001,extended,00000001
+
+[Cheats/Have All Armor] 
+patch=1,EE,40B6B2A4,extended,00040001
+patch=1,EE,00010006,extended,00000001
+
+[Cheats/Have All Accessories] 
+patch=1,EE,40B6B2B4,extended,00190001
+patch=1,EE,0001000A,extended,00000001
+
+[Cheats/Have All Items] 
+patch=1,EE,40B6B334,extended,00230001
+patch=1,EE,0001002A,extended,00000001
+
+[Cheats/Have All Event Items]
+patch=1,EE,40B6B3E0,extended,001F0001
+patch=1,EE,00010055,extended,00000001
+
+[Cheats/Have All Orbs] 
+patch=1,EE,40B6B4A0,extended,00070001
+patch=1,EE,0001007F,extended,00000001
+
+[Cheats/Have All Relics]  
+patch=1,EE,40B6B4BC,extended,000A0001
+patch=1,EE,00010086,extended,00000001
+
+[Cheats/Unlock Encyclopedia All Enemies] 
+patch=1,EE,40B81B6C,extended,00710003
+patch=1,EE,000000FF,extended,00000000
+

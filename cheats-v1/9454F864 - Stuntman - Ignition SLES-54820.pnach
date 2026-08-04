@@ -1,0 +1,13 @@
+[Cheats/Unlock All Levels] 
+patch=1,EE,204E6318,extended,FFFFFFFF
+
+[Cheats/Unlock All Cheats] 
+patch=1,EE,20570208,extended,00000001
+
+[Cheats/View Jobs For Max Score] 
+patch=1,EE,200C0220,extended,3C0205F5
+patch=1,EE,200C0224,extended,3442E0FF
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,AC22024C
+patch=1,EE,2021038C,extended,08030088
+patch=1,EE,20210390,extended,00400821

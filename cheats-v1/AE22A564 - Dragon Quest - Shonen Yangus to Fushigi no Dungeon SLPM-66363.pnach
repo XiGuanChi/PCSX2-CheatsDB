@@ -1,0 +1,33 @@
+[Cheats/Infinite Money 9999999G] 
+patch=1,EE,206A7F88,extended,0098967F
+
+[Cheats/Max Bank Money 9999999G] 
+patch=1,EE,206D73B8,extended,0098967F
+
+[Cheats/999 Medals Given To Medal King] 
+patch=1,EE,106D73C4,extended,000003E7
+
+[Cheats/Yangus Max Health 999] 
+patch=1,EE,106A7F0C,extended,000003E7
+patch=1,EE,106A7F24,extended,000003E7
+
+[Cheats/Yangus Level 99] 
+patch=1,EE,006A7F18,extended,00000063
+
+[Cheats/Destroy All Enemies Press R3 Be careful if you use it before the boss battle as it will hang.] 
+patch=1,EE,20228DE0,extended,84420004
+patch=1,EE,D054DF82,extended,0000FFFB
+patch=1,EE,20228DE0,extended,A4400004
+
+[Cheats/Demon's Fatigue 0%] 
+patch=1,EE,200F8054,extended,A6200084
+
+[Cheats/Demon's Growth Limit Level +99] 
+patch=1,EE,200F8058,extended,24010063
+patch=1,EE,200F805C,extended,A2210080
+patch=1,EE,200F8060,extended,A2210083
+
+[Cheats/Unlock All Monster Book] 
+patch=1,EE,106D740E,extended,0000FFFF
+patch=1,EE,406D7410,extended,00120001
+patch=1,EE,FFFFFFFF,extended,00000000

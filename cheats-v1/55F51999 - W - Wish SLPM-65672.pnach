@@ -1,0 +1,17 @@
+[Cheats/Unlock Omake Menu] 
+patch=1,EE,201E36A8,extended,00000004
+
+[Cheats/Unlock All Bonus]  
+patch=1,EE,4017FA34,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,4017FA58,extended,00050001
+patch=1,EE,00010001,extended,00000000
+
+[Cheats/Unlock All CG] 
+patch=1,EE,2012A5E4,extended,0C0589BE
+patch=1,EE,2012A5E8,extended,2402FFFF
+patch=1,EE,201626F8,extended,A0621720
+patch=1,EE,201626FC,extended,90621720
+patch=1,EE,20162700,extended,03E00008
+patch=1,EE,20162704,extended,00A21006
+

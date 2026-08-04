@@ -1,0 +1,82 @@
+[Cheats/Max Ace Point]  
+patch=1,EE,20409770,extended,0098967F
+
+[Cheats/Max Full Body Experience Value when entering the sortie selection screen] 
+patch=1,EE,20238954,extended,344286A0
+patch=1,EE,20238958,extended,1000000F
+patch=1,EE,2023895C,extended,AC221000
+patch=1,EE,20238988,extended,00430821
+patch=1,EE,2023898C,extended,1000FFF1
+patch=1,EE,20238990,extended,3C020001
+
+[Cheats/Max Mission Player & Consumer AP] 
+patch=1,EE,2027BEB4,extended,2402270F
+patch=1,EE,2027BEB8,extended,03E00008
+patch=1,EE,2027BEBC,extended,AC8200D4
+patch=1,EE,202A4F84,extended,0C09EFAD
+
+[Cheats/Infinite Mission Player Machine Vernier Gauge] 
+patch=1,EE,202A50CC,extended,080A9D21
+patch=1,EE,202A7484,extended,C4810458
+patch=1,EE,202A7488,extended,080A9435
+patch=1,EE,202A748C,extended,E4810454
+
+[Cheats/Max Mission Combination Gauge] 
+patch=1,EE,202C7D4C,extended,E480001C
+patch=1,EE,202C7D50,extended,46000803
+
+[Cheats/Infinite Mission Ammo & Super Shot Shift Type] 
+patch=1,EE,202A5C60,extended,84820010
+patch=1,EE,202A5C64,extended,A482000C
+patch=1,EE,202A5C68,extended,A482000E
+patch=1,EE,202A5C6C,extended,AC800000
+
+[Cheats/Infinite Mission Ammo & Super Shot Select Type]
+patch=1,EE,202A5F94,extended,84820010
+patch=1,EE,202A5F98,extended,A482000C
+patch=1,EE,202A5F9C,extended,A482000E
+patch=1,EE,202A5FA0,extended,AC800000
+
+[Cheats/Increase Mission Attack Power] 
+patch=1,EE,20266EA0,extended,24100001
+patch=1,EE,20266EE4,extended,3C016000
+patch=1,EE,20266EE8,extended,AC410018
+
+[Cheats/Mission 1P Side Press SELECT To Activate Clear-water Stop] 
+patch=1,EE,202DB6B0,extended,45000018
+patch=1,EE,D03FCB82,extended,0000FFFE
+patch=1,EE,202DB6B0,extended,10000018
+
+[Cheats/Mission SEED Ability Immediate Activation] 
+patch=1,EE,20344160,extended,00000000
+
+[Cheats/Mission Seventh Well Immediate Activation] 
+patch=1,EE,2031D2D0,extended,00000000
+
+[Cheats/Mission Purification Abilities Immediate Activation] 
+patch=1,EE,2031D914,extended,00000000
+
+[Cheats/Mission Lean Wings Immediate Activation]  
+patch=1,EE,202F8328,extended,00000000
+
+[Cheats/Release Mission Aura Force Activation Restriction] 
+patch=1,EE,2025ADDC,extended,00000000
+
+[Cheats/Achieve Secret By Mission Clear] 
+patch=1,EE,201D7558,extended,00000000
+patch=1,EE,201D7638,extended,00000000
+
+[Cheats/Unlock All Units Appear When Entering Intermission Screen] 
+patch=1,EE,20237CCC,extended,00A20821
+patch=1,EE,20237CD0,extended,24020002
+patch=1,EE,20237CD4,extended,03E00008
+patch=1,EE,20237CD8,extended,A0220010
+
+[Cheats/Unlock All Missions Appear When Entering Free Mission Free missions will appear when you reload the saved data after clearing the first campaign.]  
+patch=1,EE,202380F4,extended,00A20821
+patch=1,EE,202380F8,extended,240200FB
+patch=1,EE,202380FC,extended,A0220000
+
+[Cheats/Unlock All Video Appear When Entering Video Recording] 
+patch=1,EE,202384D0,extended,240200FF
+patch=1,EE,202384D4,extended,A0620000

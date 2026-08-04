@@ -1,0 +1,20 @@
+[Cheats/Unlock All Extras]  
+patch=1,EE,101B056A,extended,0000FFFF
+patch=1,EE,401B056C,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,101B0580,extended,0000FFFF
+patch=1,EE,401B0548,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,001B055C,extended,000000FF
+
+[Cheats/Unlock All Scenarios Cleared & Storage Box] 
+patch=1,EE,401B0568,extended,00070001
+patch=1,EE,00010001,extended,00000000
+
+[Cheats/Press L3 For Texture Viewer, R3 to Disable] 
+patch=1,EE,20159304,extended,0C0549D0
+patch=1,EE,10152780,extended,0000ECB8
+patch=1,EE,D055F0A2,extended,0000FFFD
+patch=1,EE,00230C78,extended,00000001
+patch=1,EE,D055F0A2,extended,0000FFFB
+patch=1,EE,00230C78,extended,00000000

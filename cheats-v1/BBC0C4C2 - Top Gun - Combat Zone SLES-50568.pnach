@@ -1,0 +1,8 @@
+[Cheats/Max Score] 
+patch=1,EE,201E480C,extended,0FFFFFFF
+
+[Cheats/Infinite time] 
+patch=1,EE,101C121A,extended,000043E3
+
+[Cheats/Enemies Can't Fire] 
+patch=1,EE,001C0F25,extended,00000000

@@ -1,0 +1,43 @@
+[Cheats/Max Score] 
+patch=1,EE,203BA8C8,extended,05F5E0FF
+
+[Cheats/Infinite Time] 
+patch=1,EE,203BAB78,extended,00000000
+
+[Cheats/Infinite Passengers] 
+patch=1,EE,003BACA4,extended,00000000
+
+[Cheats/Infinite Water Bombs] 
+patch=1,EE,103BADBC,extended,00000032
+
+[Cheats/Infinite Water] 
+patch=1,EE,103BADC6,extended,00003F80
+
+[Cheats/Infinite Damage] 
+patch=1,EE,103CBD2C,extended,000003E8
+
+[Cheats/Press Select For No Time Remaining] 
+patch=1,EE,D03BA738,extended,00000100
+patch=1,EE,203BAB78,extended,FFFFFFFF
+
+[Cheats/Max Fire Spot Rescued] 
+patch=1,EE,103BA8D4,extended,00000063
+
+[Cheats/Max Others Rescued] 
+patch=1,EE,103BA8DC,extended,00000063
+
+[Cheats/Final Rescue None Dead] 
+patch=1,EE,103BA928,extended,00000000
+
+[Cheats/Final Rescue 1 Rescue To Complete] 
+patch=1,EE,D03BA92C,extended,00000001
+patch=1,EE,103BA92C,extended,0000001E
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,105B2230,extended,0000FFFF
+patch=1,EE,105B2238,extended,0000FFFF
+
+[Cheats/Have All Machines] 
+patch=1,EE,205B223C,extended,001F001F
+patch=1,EE,205B2240,extended,001F001F
+

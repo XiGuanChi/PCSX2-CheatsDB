@@ -1,0 +1,58 @@
+[Cheats/Infinite Health in Battle] 
+patch=1,EE,200FFF00,extended,3C014348
+patch=1,EE,200FFF08,extended,AC810178
+patch=1,EE,200FFF04,extended,8C640008
+patch=1,EE,20201C68,extended,0803FFC0
+patch=1,EE,200FFF1C,extended,0808071B
+
+[Cheats/Infinite Health] 
+patch=1,EE,20959698,extended,43480000
+patch=1,EE,2095A3D8,extended,42C80000
+
+[Cheats/Infinite Health Alt] 
+patch=1,EE,20213760,extended,C440017C
+patch=1,EE,20213768,extended,E4400178
+
+[Cheats/God Mode] 
+patch=1,EE,20215F0C,extended,080B5DC8
+patch=1,EE,202D7720,extended,44800000
+patch=1,EE,202D7724,extended,3C02002D
+patch=1,EE,202D7728,extended,3442777C
+patch=1,EE,202D772C,extended,AC500000
+patch=1,EE,202D7730,extended,080857C4
+patch=1,EE,20249F98,extended,080B5DCE
+patch=1,EE,202D7738,extended,30420008
+patch=1,EE,202D773C,extended,3C02002D
+patch=1,EE,202D7740,extended,3442777C
+patch=1,EE,202D7744,extended,8C420000
+patch=1,EE,202D7748,extended,12C20002
+patch=1,EE,202D774C,extended,00000000
+patch=1,EE,202D7750,extended,080927E7
+patch=1,EE,202D7754,extended,080927E8
+patch=1,EE,2024BD8C,extended,080B5DD7
+patch=1,EE,202D775C,extended,C6000178
+patch=1,EE,202D7760,extended,3C02002D
+patch=1,EE,202D7764,extended,3442777C
+patch=1,EE,202D7768,extended,8C420000
+patch=1,EE,202D776C,extended,12020002
+patch=1,EE,202D7770,extended,00000000
+patch=1,EE,202D7774,extended,08092F64
+patch=1,EE,202D7778,extended,08092F6E
+
+[Cheats/Infinite Amulet of the Fates Power] 
+patch=1,EE,20335844,extended,42C80000
+
+[Cheats/Infinite Rage of the Titans] 
+patch=1,EE,20335848,extended,42C80000
+
+[Cheats/Infinite Magic] 
+patch=1,EE,20335840,extended,43480000
+
+[Cheats/Infinite Red Orbs] 
+patch=1,EE,2071C3BC,extended,000F423F
+
+[Cheats/Press D-pad Down+L1 simultaneously to activate Save-Mode] 
+patch=1,EE,D032F45C,extended,0000FBBF
+patch=1,EE,002D84C4,extended,00000001
+
+

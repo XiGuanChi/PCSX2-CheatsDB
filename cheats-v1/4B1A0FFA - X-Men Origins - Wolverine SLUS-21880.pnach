@@ -1,0 +1,19 @@
+[Cheats/Infinite Health]  
+patch=1,EE,002208C4,extended,0000006C
+
+[Cheats/Max Blob Coins] 
+patch=1,EE,00B6580C,extended,00000063
+patch=1,EE,00B65AC4,extended,00000063
+
+[Cheats/Invulnerable Memory] 
+patch=1,EE,0095F524,extended,00000001
+
+[Cheats/Invulnerable ASM] 
+patch=1,EE,0021E744,extended,00000001
+
+[Cheats/One Shot Kills Memory] 
+patch=1,EE,0095F564,extended,00000001
+
+[Cheats/One Shot Kills ASM] 
+patch=1,EE,0021E7D4,extended,00000001
+

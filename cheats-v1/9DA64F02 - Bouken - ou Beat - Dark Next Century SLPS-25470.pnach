@@ -1,0 +1,45 @@
+[Cheats/Max Gold]  
+patch=1,EE,20CAC890,extended,05F5E0FF
+
+[Cheats/Beat Promotion Value 999999] 
+patch=1,EE,20CAD1C0,extended,000F423F
+
+[Cheats/Beat Brand LV 100] 
+patch=1,EE,10CAD164,extended,00000064
+
+[Cheats/Poara Promotion Value 999999] 
+patch=1,EE,20CAD680,extended,000F423F 
+
+[Cheats/Poara Brand LV 100]  
+patch=1,EE,10CAD624,extended,00000064
+
+[Cheats/Kiss Promotion Value 999999]  
+patch=1,EE,20CADB40,extended,000F423F
+
+[Cheats/Kiss Brand LV 100] 
+patch=1,EE,10CADAE4,extended,00000064
+
+[Cheats/When Level Up Max Points Press L2 0 Press R2 ] 
+patch=1,EE,D02C1494,extended,00000001
+patch=1,EE,10CACB50,extended,0000270F
+patch=1,EE,D02C1494,extended,00000002
+patch=1,EE,10CACB50,extended,00000000
+
+[Cheats/Unlock Magic Guest House All Galleries, Blacklist, Demon All Of The Records Of Men, Monsters And Case Files] 
+patch=1,EE,402BC140,extended,000A0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,002BC168,extended,00000007
+
+[Cheats/Magic Guest House All Cards]  
+patch=1,EE,402BC0B4,extended,00090001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,202BC0E8,extended,FFFFFFFF
+patch=1,EE,202BC0EC,extended,FFFFFFFF
+patch=1,EE,202BC0F0,extended,FFFFFFFF
+patch=1,EE,202BC0F4,extended,FFFFFFFF
+
+[Cheats/Enable Debug Menu Press Select When the menu first gets activated, it will not render correctly. To fix that, press Circle once then press X] 
+patch=1,EE,E003FFFE,extended,00323B82
+patch=1,EE,202D84D8,extended,0010F3F0
+patch=1,EE,202D84DC,extended,002B5EC8
+patch=1,EE,202D84E0,extended,00000180

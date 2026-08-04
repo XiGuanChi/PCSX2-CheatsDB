@@ -1,0 +1,38 @@
+[Cheats/Infinite Gold] 
+patch=1,EE,200C0250,extended,50800003
+patch=1,EE,200C0254,extended,27FF0004
+patch=1,EE,200C0258,extended,2402270F
+patch=1,EE,200C025C,extended,AC62007C
+patch=1,EE,200C0260,extended,27FF000C
+patch=1,EE,200C0264,extended,03E00008
+patch=1,EE,200C0268,extended,00000000
+patch=1,EE,201C4D3C,extended,0C030094
+
+[Cheats/Infinite Souls] 
+patch=1,EE,200C0230,extended,14800003
+patch=1,EE,200C0234,extended,2401270F
+patch=1,EE,200C0238,extended,AC610078
+patch=1,EE,200C023C,extended,27FF0010
+patch=1,EE,200C0240,extended,03E00008
+patch=1,EE,200C0244,extended,00000000
+patch=1,EE,201C4D34,extended,0C03008C
+
+[Cheats/P1 Press L1+Select To Enable God Mode For Structures] 
+patch=1,EE,D0468082,extended,0000FBFE
+patch=1,EE,007A6980,extended,00000001
+
+[Cheats/P1 Press R1+Select To Enable God Mode For Team] 
+patch=1,EE,D0468082,extended,0000F7FE
+patch=1,EE,007A6981,extended,00000001
+
+[Cheats/Team God Mode Always On] 
+patch=1,EE,007A6981,extended,00000001
+
+[Cheats/Unlock All Campaign Acts All Slots] 
+patch=1,EE,200C0220,extended,AC820088
+patch=1,EE,200C0224,extended,24020005
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,AC82008C
+patch=1,EE,201B9890,extended,08030088
+patch=1,EE,201B9894,extended,24020004
+

@@ -1,0 +1,19 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2018B23C,extended,8E010000
+patch=1,EE,2018B240,extended,24020063
+patch=1,EE,2018B250,extended,AC2201C8
+
+[Cheats/Max Ammo Clips] 
+patch=1,EE,2018E34C,extended,240203E7
+
+[Cheats/Activate Cheat Invulnerable] 
+patch=1,EE,10189D26,extended,00001000
+patch=1,EE,1018F7FA,extended,00001000
+
+[Cheats/Activate Cheat 1 Hit Kills] 
+patch=1,EE,1018F596,extended,00001000
+
+[Cheats/Activate Cheat Infinite Ammo] 
+patch=1,EE,101E5A32,extended,00001000
+patch=1,EE,101E5C9A,extended,00001000
+patch=1,EE,1020229E,extended,00001000

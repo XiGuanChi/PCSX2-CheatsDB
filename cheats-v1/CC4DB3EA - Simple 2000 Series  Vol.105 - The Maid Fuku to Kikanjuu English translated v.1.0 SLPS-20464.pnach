@@ -1,0 +1,54 @@
+[Cheats/Max Points] 
+patch=1,EE,20234A4C,extended,05F5E0FF
+
+[Cheats/Infinite Health] 
+patch=1,EE,20130698,extended,00000000
+patch=1,EE,201306B4,extended,AC800970
+
+[Cheats/Infinite SP]  
+patch=1,EE,2012C934,extended,00000000
+patch=1,EE,201315E4,extended,00000000
+
+[Cheats/Infinite Ammo Sniper stage STAGE 3 is invalid] 
+patch=1,EE,2012DF1C,extended,00000000
+patch=1,EE,2012DF30,extended,AC600974
+
+[Cheats/GAL Full Enhancement 3 Stages] 
+patch=1,EE,20234AB0,extended,00030002
+patch=1,EE,20234AB4,extended,00030003
+
+[Cheats/T89 Fully strengthened 3 stages] 
+patch=1,EE,20234AB8,extended,00030002
+patch=1,EE,20234ABC,extended,00030003
+
+[Cheats/HK36 Full Enhancement 3 Stages] 
+patch=1,EE,20234AC0,extended,00030002
+patch=1,EE,20234AC4,extended,00030003
+
+[Cheats/CERB Fully Enhanced 3 Stages] 
+patch=1,EE,20234AC8,extended,00030002
+patch=1,EE,20234ACC,extended,00030003
+
+[Cheats/Unlock All Guns If you look at the gun list] 
+patch=1,EE,2018959C,extended,24030002
+patch=1,EE,201895A0,extended,A4430000
+
+[Cheats/Unlock All Costumes] 
+patch=1,EE,10234AE8,extended,00000002
+patch=1,EE,10234AF0,extended,00000002
+patch=1,EE,10234AF8,extended,00000002
+patch=1,EE,10234B00,extended,00000002
+
+[Cheats/Unlock Story mode sudden ending] 
+patch=1,EE,2010E64C,extended,24110008
+
+[Cheats/Unlock EX GAME, FREE MODE added  location If you start a new game, it will appear if you cancel the briefing screen twice by pressing the × button and exit the screen] 
+patch=1,EE,00234A32,extended,00000001
+
+[Cheats/Total rank S upon clearing] 
+patch=1,EE,20228F54,extended,00004E20
+patch=1,EE,20228F58,extended,00004E20
+patch=1,EE,20228F5C,extended,00004E20
+patch=1,EE,20228F64,extended,00000008
+patch=1,EE,20228F68,extended,00000008
+patch=1,EE,20228F6C,extended,00000008

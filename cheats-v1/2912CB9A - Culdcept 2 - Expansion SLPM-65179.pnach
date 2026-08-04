@@ -1,0 +1,25 @@
+[Cheats/P1 Magical Power Max] 
+patch=1,EE,202EB260,extended,0001869F
+
+[Cheats/P2 Magical Power 0] 
+patch=1,EE,202EB384,extended,00000000
+
+[Cheats/P3 Magical Power 0] 
+patch=1,EE,202EB4B5,extended,00000000
+
+[Cheats/P4 Magical Power 0] 
+patch=1,EE,202EB5CC,extended,00000000
+
+[Cheats/Get All Cards when Entering Maintenance] 
+patch=1,EE,2015E8F0,extended,241A0063
+patch=1,EE,2015E8F4,extended,A05A00F0
+
+[Cheats/99 Cards Obtained After Battle] 
+patch=1,EE,20146F6C,extended,24020063
+
+[Cheats/All Medals in the Stage Clear Without Interruption] 
+patch=1,EE,20153AFC,extended,00000000
+
+[Cheats/Unlock All Gallery and Movie Playback will appear when you clear the first lap] 
+patch=1,EE,204EF99C,extended,FFFFFFFF
+patch=1,EE,204EF9A0,extended,00FFFFFF

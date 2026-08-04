@@ -1,0 +1,54 @@
+[Cheats/Max Gold 99900] 
+patch=1,EE,20213D90,extended,000F3E58
+
+[Cheats/Replace Options Menu from main menu with Level Select + Camera Debugger] 
+patch=1,EE,2020F8AC,extended,00140518
+
+[Cheats/Max Gold when going to LABO] 
+patch=1,EE,2010F4C4,extended,AE020010
+
+[Cheats/Instant HP Recovery] 
+patch=1,EE,201664D0,extended,00000000
+patch=1,EE,201664D6,extended,A443004A
+
+[Cheats/I don't like EN] 
+patch=1,EE,2014076C,extended,00000000
+patch=1,EE,20140790,extended,24027000
+
+[Cheats/Garage Assembled no Shortage of Output] 
+patch=1,EE,10112792,extended,0000A620
+patch=1,EE,1011279E,extended,00001000
+
+[Cheats/Garage Assembled no Excess Weight] 
+patch=1,EE,101127E2,extended,0000A620
+patch=1,EE,101127EA,extended,00001000
+
+[Cheats/Weapons can be used even if Power is Insufficient] 
+patch=1,EE,20154348,extended,00000000
+
+[Cheats/Best Takara SLPM-65117 Max Gold 99900] 
+patch=1,EE,20118B34,extended,AE020010
+
+[Cheats/Best Takara SLPM-65117 Recovery Soon] 
+patch=1,EE,20188DE0,extended,00000000
+patch=1,EE,20188DE4,extended,A4430074
+patch=1,EE,10188E0A,extended,00001000
+
+[Cheats/Best Takara SLPM-65117 Instant HP Recovery] 
+patch=1,EE,20188DE0,extended,00000000
+patch=1,EE,20188DE4,extended,A4430074
+
+[Cheats/Best Takara SLPM-65117 I don't like EN] 
+patch=1,EE,2015CFAC,extended,00000000
+patch=1,EE,2015CFE4,extended,24027000
+
+[Cheats/Best Takara SLPM-65117 Garage Assembled no Shortage of Output]
+patch=1,EE,1011C6D2,extended,0000A620
+patch=1,EE,1011C6DE,extended,00001000
+
+[Cheats/Best Takara SLPM-65117 Garage Assembled no Excess Weight]
+patch=1,EE,1011C72E,extended,0000A620
+patch=1,EE,1011C736,extended,00001000
+
+[Cheats/Best Takara SLPM-65117 Weapons can be used even if Power is Insufficient] 
+patch=1,EE,20173BBC,extended,00000000

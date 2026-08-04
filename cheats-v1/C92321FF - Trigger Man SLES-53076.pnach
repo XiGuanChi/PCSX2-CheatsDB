@@ -1,0 +1,31 @@
+[Cheats/God Mode] 
+patch=1,EE,2027A298,extended,00000001
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2016FEFC,extended,1000000C
+patch=1,EE,2016FF00,extended,24100001
+
+[Cheats/Infinite Health] 
+patch=1,EE,20251AFC,extended,00000007
+
+[Cheats/Head Shot one hit kills] 
+patch=1,EE,20251A7C,extended,00000007
+
+[Cheats/Infinite Armor] 
+patch=1,EE,20251A9C,extended,00000007
+
+[Cheats/One Hit Kills] 
+patch=1,EE,20251ABC,extended,00000007
+
+[Cheats/One Shot Kills] 
+patch=1,EE,20251ADC,extended,00000007
+
+[Cheats/Infinite Ammo Cheat] 
+patch=1,EE,20251A5C,extended,00000007
+
+[Cheats/Press D-Pad Up+R3 For God Mode D-Pad Down+R3 to Disable Grants infinite health] 
+patch=1,EE,D03FAC02,extended,0000FFEB
+patch=1,EE,2027A298,extended,00000001
+patch=1,EE,D03FAC02,extended,0000FFBB
+patch=1,EE,2027A298,extended,00000000
+

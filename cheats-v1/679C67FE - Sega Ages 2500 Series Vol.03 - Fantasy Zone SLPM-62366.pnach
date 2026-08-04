@@ -1,0 +1,31 @@
+[Cheats/Infinite Lives] 
+patch=1,EE,20493A00,extended,00000009
+
+[Cheats/Infinite Gold] 
+patch=1,EE,20493A08,extended,05F5E0FF
+
+[Cheats/Invinicble] 
+patch=1,EE,204B4CD8,extended,00000001
+
+[Cheats/OpaOpa Invincible Press L2 to cancel Press L1]  
+patch=1,EE,D04B3874,extended,00000100
+patch=1,EE,201403E4,extended,10000018
+patch=1,EE,D04B3874,extended,00000400
+patch=1,EE,201403E4,extended,10830018
+
+
+[Cheats/Infinite Bombs]  
+patch=1,EE,204B4C94,extended,00000063
+patch=1,EE,204B4C98,extended,00000063
+patch=1,EE,204B4C9C,extended,00000063
+patch=1,EE,204B4CA0,extended,00000063
+patch=1,EE,204B4CA4,extended,00000063
+
+[Cheats/All Weapon Attack Power Max] 
+patch=1,EE,402B1800,extended,000D0001
+patch=1,EE,00002710,extended,00000000
+
+[Cheats/Unlock All Gallery save reflection Clear challenge stage 1] 
+patch=1,EE,203B1130,extended,FFFFFFFF
+patch=1,EE,203B1134,extended,FFFFFFFF
+

@@ -1,0 +1,23 @@
+[Cheats/99 Sen Money In Hand 9999 Yen] 
+patch=1,EE,20D288C0,extended,000F423F
+
+[Cheats/9999 Spirit Stones] 
+patch=1,EE,10D288C4,extended,0000270F
+
+[Cheats/All Instrument, Arms and Crest 90 Place Holding] 
+patch=1,EE,40D28B80,extended,01E40001
+patch=1,EE,0000005A,extended,00000000
+
+[Cheats/All the Unit Status Max  When it continues to be code ON the effect being produced to also the enemy, in order to put away, when the code is used, saving, please begin the game turning this code to a OFF. In addition all status is maximum with being that why trouble comes out with battle, numerical value of power and skill is made suitable value. When the instrument and the like is used at the time of code ON vis-a-vis the protagonist, the protagonist status becomes max] 
+patch=1,EE,107FE422,extended,00000032
+patch=1,EE,107FE426,extended,00000032
+patch=1,EE,201B924C,extended,00000000
+
+[Cheats/Max Spirit Power When Spirit Power it Absorbs]
+patch=1,EE,20145978,extended,00000000
+
+[Cheats/Max Experience Points After Increse]
+patch=1,EE,201458C0,extended,00000000
+
+[Cheats/Debug Menu At Boot HIGDON Selecting ipu will allow you to view all of the background images, such as town scenery. Selecting movie will allow you to watch all the movies in the game.Konishi In this menu an event viewer which allows you to view all the cutscenes in the game, as well as a level select option Debug This menu will allow you to set various unlock parameters. You can obtain everything in the game by selecting all of the options here once.] 
+patch=1,EE,00285AC4,extended,00000000

@@ -1,0 +1,26 @@
+[Cheats/Infinite Health]  
+patch=1,EE,201D2B9C,extended,E4410018
+
+[Cheats/Invincible] 
+patch=1,EE,20176D18,extended,00000000
+patch=1,EE,20176D34,extended,00000000
+
+[Cheats/1 Hit Kill] 
+patch=1,EE,2016CE34,extended,2403FFFF
+
+[Cheats/Max Ark After Clearing Mission]  
+patch=1,EE,20170E94,extended,00000000
+
+[Cheats/Max Warl After Clearing Mission] 
+patch=1,EE,20170Ec0,extended,00000000
+
+[Cheats/Max Combo 99] 
+patch=1,EE,202D58DC,extended,00000000
+
+[Cheats/Zero Charge Time] 
+patch=1,EE,20254B08,extended,00000000
+
+[Cheats/Unlock Costume Selective Possibility] 
+patch=1,EE,20229CB4,extended,2402000F
+patch=1,EE,20229CD0,extended,AC820D14
+patch=1,EE,20229CD4,extended,10000004

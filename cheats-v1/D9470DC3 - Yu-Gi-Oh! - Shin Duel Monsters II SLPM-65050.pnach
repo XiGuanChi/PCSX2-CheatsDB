@@ -1,0 +1,53 @@
+[Cheats/Deck Cost 0 A Deck] 
+patch=1,EE,103AD676,extended,00000000
+
+[Cheats/Deck Cost 0 B Deck] 
+patch=1,EE,103AD6CA,extended,00000000
+
+[Cheats/Deck Cost 0 C Deck] 
+patch=1,EE,103AD71E,extended,00000000
+
+[Cheats/Red Rose Side LP Max] 
+patch=1,EE,103858EA,extended,0000270F
+
+[Cheats/Red Rose Side Max Summoning Power] 
+patch=1,EE,003858F1,extended,00000063
+
+[Cheats/White Rose Side LP Max] 
+patch=1,EE,10385C3A,extended,0000270F
+
+[Cheats/White Rose Side Max Summoning Power] 
+patch=1,EE,00385C41,extended,00000063
+
+[Cheats/Have All Cards In Chest] 
+patch=1,EE,4039D9D8,extended,02AB0013
+patch=1,EE,0000000C,extended,00000000
+
+[Cheats/Unlock All Types Of Cards] 
+patch=1,EE,4039D890,extended,03560013
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,4039D898,extended,03560013
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,4039D8A0,extended,03560013
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,4039D8A8,extended,03560013
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,4039D8B0,extended,03560013
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,4039D8B8,extended,03560013
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,4039D8C0,extended,03560013
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,4039D8C8,extended,03560013
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,4039D8D0,extended,03560013
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Debug Mode Replaces New Game SzGame ActMenu] 
+patch=1,EE,001AAEAC,extended,000000FF
+
+[Cheats/Debug Mode Replaces New Game SzDebug Act] 
+patch=1,EE,001AAEAC,extended,0000000C 
+
+[Cheats/Debug Mode Replaces New Game SzDuel ActCardTest] 
+patch=1,EE,001AAEAC,extended,00000012

@@ -1,0 +1,37 @@
+[Cheats/Infinite Health] 
+patch=1,EE,21779E10,extended,000000C8
+patch=1,EE,21779E14,extended,000000C8
+
+[Cheats/Infinite Special Gauge] 
+patch=1,EE,21779F64,extended,00000064
+patch=1,EE,21779F68,extended,00000064
+
+[Cheats/Infinite Spirit Gauge] 
+patch=1,EE,2177A09C,extended,000000C8
+
+[Cheats/Max Number Of Genomes] 
+patch=1,EE,2177A10C,extended,00000064
+
+[Cheats/Max TYPE-N]  
+patch=1,EE,2177A110,extended,00000007
+
+[Cheats/Max TYPE-S]  
+patch=1,EE,2177A114,extended,00000007
+
+[Cheats/Unlock Werewolf]  
+patch=1,EE,2177A0E8,extended,00000001
+
+[Cheats/Unlock Dragon] 
+patch=1,EE,2177A0EC,extended,00000001
+
+[Cheats/Unlock Garuda]  
+patch=1,EE,2177A0F0,extended,00000001
+
+[Cheats/Unlock Merman] 
+patch=1,EE,2177A0F4,extended,00000001
+
+[Cheats/Unlock Minotaur] 
+patch=1,EE,2177A0F8,extended,00000001
+
+[Cheats/Unlock Wendigo]  
+patch=1,EE,2177A0FC,extended,00000001

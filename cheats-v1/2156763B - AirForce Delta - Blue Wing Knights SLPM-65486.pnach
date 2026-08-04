@@ -1,0 +1,57 @@
+[Cheats/Infinite HP] 
+patch=1,EE,11C06458,extended,000003E7
+patch=1,EE,11BF0F24,extended,000003E7
+
+[Cheats/Infinite Misiles] 
+patch=1,EE,11BF0F60,extended,000003E7
+
+[Cheats/Infinite Special Weapon] 
+patch=1,EE,11BF0FD0,extended,000003E7
+
+[Cheats/Unlock All Aircrafts Possession] 
+patch=1,EE,404D70B0,extended,000E0003
+patch=1,EE,00000101,extended,00000000
+
+[Cheats/Unlock All Viewers] 
+patch=1,EE,404D658C,extended,003C0001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Kazuya Sasai All Medals] 
+patch=1,EE,204D66FC,extended,01010101
+patch=1,EE,204D6700,extended,01010101
+
+[Cheats/Kazuya Sasai All Aircraft]   
+patch=1,EE,404D6840,extended,000E0003
+patch=1,EE,00000101,extended,00000000
+
+[Cheats/John Randall All Medals]  
+patch=1,EE,204D6924,extended,01010101
+patch=1,EE,204D6928,extended,01010101
+
+[Cheats/John Randall All Aircraft] 
+patch=1,EE,404D6954,extended,000E0003
+patch=1,EE,00000101,extended,00000000
+
+[Cheats/Jamie Jones All Medals] 
+patch=1,EE,204D6A38,extended,01010101
+patch=1,EE,204D6A3C,extended,01010101
+
+[Cheats/Rick Campbell All Medals]  
+patch=1,EE,204D6B4C,extended,01010101
+patch=1,EE,204D6B50,extended,01010101
+
+[Cheats/Rick Campbell All Aircraft] 
+patch=1,EE,404D6B7C,extended,000E0003
+patch=1,EE,00000101,extended,00000000
+
+[Cheats/Alex Levine All Medals]  
+patch=1,EE,204D6C60,extended,01010101
+patch=1,EE,204D6C64,extended,01010101
+
+[Cheats/Alex Levine All Aircraft] 
+patch=1,EE,404D6EB8,extended,000B0003
+patch=1,EE,00000101,extended,00000000
+
+[Cheats/Ellen·McNicol All Medals] 
+patch=1,EE,204D6F9C,extended,01010101
+patch=1,EE,204D6FA0,extended,01010101

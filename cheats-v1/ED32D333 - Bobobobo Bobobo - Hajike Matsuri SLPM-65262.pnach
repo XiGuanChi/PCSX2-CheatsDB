@@ -1,0 +1,38 @@
+[Cheats/Max Points 9999999] 
+patch=1,EE,401EABB4,extended,00060001
+patch=1,EE,0098967F,extended,00000000
+
+[Cheats/Infinite HP - Level 2]  
+patch=1,EE,201D75EC,extended,00000032
+
+[Cheats/Unlock All Items]  
+patch=1,EE,001EAA27,extended,000000FF
+patch=1,EE,001EAA29,extended,000000FF
+patch=1,EE,001EAA33,extended,000000FF
+patch=1,EE,001EAA35,extended,000000FF
+patch=1,EE,101EAA3F,extended,0000FFFF
+patch=1,EE,001EAA4B,extended,000000FF
+patch=1,EE,001EAA4C,extended,000000FF
+patch=1,EE,001EAA54,extended,000000FF
+patch=1,EE,001EAA5B,extended,000000FF
+patch=1,EE,001EAA60,extended,000000FF
+patch=1,EE,101EAAA7,extended,0000FFFF
+patch=1,EE,001EAAAC,extended,000000FF
+patch=1,EE,001EAAB1,extended,000000FF
+patch=1,EE,101EAAB7,extended,0000FFFF
+patch=1,EE,001EAABC,extended,000000FF
+patch=1,EE,001EAAC0,extended,000000FF
+patch=1,EE,001EAAC4,extended,000000FF
+patch=1,EE,001EAAC8,extended,000000FF
+patch=1,EE,001EAACC,extended,000000FF
+patch=1,EE,001EAAD0,extended,000000FF
+patch=1,EE,001EAAD6,extended,000000FF
+patch=1,EE,001EAAD8,extended,000000FF
+patch=1,EE,001EAADD,extended,000000FF
+patch=1,EE,101EAAE3,extended,0000FFFF
+patch=1,EE,001EAAE8,extended,000000FF
+patch=1,EE,101EAAEF,extended,0000FFFF
+
+[Cheats/Unlock All Stages]  
+patch=1,EE,101EABCC,extended,00000004
+

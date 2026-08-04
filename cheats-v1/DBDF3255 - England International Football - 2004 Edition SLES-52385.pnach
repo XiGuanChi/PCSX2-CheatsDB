@@ -1,0 +1,15 @@
+[Cheats/Team 1 Score 9 L1+L2+UP] 
+patch=1,EE,D0506542,extended,0000FAEF
+patch=1,EE,004DB49C,extended,00000009
+
+[Cheats/Team 1 Score 0 L1+L2+DOWN] 
+patch=1,EE,D0506542,extended,0000FABF
+patch=1,EE,004DB49C,extended,00000000
+
+[Cheats/Team 2 Score 9 R1+R2+UP] 
+patch=1,EE,D0506542,extended,0000F5EF
+patch=1,EE,004DC7A8,extended,00000009
+
+[Cheats/Team 2 Score 0 R1+R2+UP] 
+patch=1,EE,D0506542,extended,0000F5BF
+patch=1,EE,004DC7A8,extended,00000000

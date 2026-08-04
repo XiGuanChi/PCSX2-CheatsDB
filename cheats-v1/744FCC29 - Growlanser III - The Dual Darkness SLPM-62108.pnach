@@ -1,0 +1,36 @@
+[Cheats/Max Money] 
+patch=1,EE,20418264,extended,000F423F
+
+[Cheats/First Character Infinite HP] 
+patch=1,EE,104103CA,extended,0000270F
+
+[Cheats/First Character Max HP] 
+patch=1,EE,104103CC,extended,0000270F
+
+[Cheats/First Character Infinite MP]  
+patch=1,EE,104103CE,extended,00003E7
+
+[Cheats/First Character Max MP] 
+patch=1,EE,104103D0,extended,00003E7
+
+[Cheats/All 9 Goods] 
+patch=1,EE,00C5BA2E,extended,00000009
+patch=1,EE,40C5BA30,extended,00160001
+patch=1,EE,00090009,extended,00000000
+patch=1,EE,00C5BA88,extended,00000009
+
+[Cheats/Infinite MP] 
+patch=1,EE,201AA900,extended,00601023
+
+[Cheats/Double Experience] 
+patch=1,EE,201AE6E0,extended,00108040
+
+[Cheats/Activated by Cooperation Magic LV 9 Effective Only for Allies] 
+patch=1,EE,2017FC74,extended,14200001
+
+[Cheats/Skill Acquisition Point 99] 
+patch=1,EE,20265D08,extended,24020063
+
+[Cheats/Debug Mode Press L3 to Display the Debug Menu, Select a Map from the Menu to Open the Check Menu sound tests, party member options, graphic viewers, level select] 
+patch=1,EE,204067EC,extended,00000001
+

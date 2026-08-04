@@ -1,0 +1,86 @@
+[Cheats/Create A Position Player Max Points Available] 
+patch=1,EE,10187FE8,extended,0000270F
+
+[Cheats/Create A Position Player Max Bat Avg] 
+patch=1,EE,00EC6FB0,extended,00000063
+
+[Cheats/Create A Position Player Max Power] 
+patch=1,EE,00EC6FB1,extended,00000063
+
+[Cheats/Create A Position Player Max Clutch] 
+patch=1,EE,00EC6FB3,extended,00000063
+
+[Cheats/Create A Position Player Max Run] 
+patch=1,EE,00EC6FBA,extended,00000063
+
+[Cheats/Create A Position Player Max Arm] 
+patch=1,EE,00EC6FBB,extended,00000063
+
+[Cheats/Create A Position Player Max Fielding] 
+patch=1,EE,00EC6FBC,extended,00000063
+
+[Cheats/Create A Position Player Max Reaction] 
+patch=1,EE,00EC6FBE,extended,00000063
+
+[Cheats/Max Points Available]
+patch=1,EE,10187F3C,extended,0000270F
+
+[Cheats/Create A Pitcher Player Max Stamina] 
+patch=1,EE,00EC6FC0,extended,00000063
+
+[Cheats/Create A Pitcher Player Max ERA] 
+patch=1,EE,00EC6FC2,extended,00000063
+
+[Cheats/Pitch 1 Max SPeed] 
+patch=1,EE,00EC6FC7,extended,00000063
+
+[Cheats/Create A Pitcher Player Pitch 1 Max Break] 
+patch=1,EE,00EC6FC8,extended,00000063
+
+[Cheats/Create A Pitcher Player Pitch 1 Max Accuracy] 
+patch=1,EE,00EC6FC9,extended,00000063
+
+[Cheats/Create A Pitcher Player Pitch 2 Max SPeed] 
+patch=1,EE,00EC6FCB,extended,00000063
+
+[Cheats/Create A Pitcher Player Pitch 2 Max Break] 
+patch=1,EE,00EC6FCC,extended,00000063
+
+[Cheats/Create A Pitcher Player Pitch 2 Max Accuracy] 
+patch=1,EE,00EC6FCD,extended,00000063
+
+[Cheats/Pitch 3 Max SPeed] 
+patch=1,EE,00EC6FCF,extended,00000063
+
+[Cheats/Create A Pitcher Player Pitch 3 Max Break] 
+patch=1,EE,00EC6FD0,extended,00000063
+
+[Cheats/Create A Pitcher Player Pitch 3 Max Accuracy] 
+patch=1,EE,00EC6FD1,extended,00000063
+
+[Cheats/Create A Pitcher Player Pitch 4 Max SPeed] 
+patch=1,EE,00EC6FD3,extended,00000063
+
+[Cheats/Create A Pitcher Player Pitch 4 Max Break] 
+patch=1,EE,00EC6FD4,extended,00000063
+
+[Cheats/Create A Pitcher Player Pitch 4 Max Accuracy] 
+patch=1,EE,00EC6FD5,extended,00000063
+
+[Cheats/Away Team Score 9] 
+patch=1,EE,E0018060,extended,00175FB8
+patch=1,EE,10391108,extended,00000009
+
+[Cheats/Away Team Start With 9] 
+patch=1,EE,E0028060,extended,00175FB8
+patch=1,EE,D0391108,extended,00000000
+patch=1,EE,10391108,extended,00000009
+
+[Cheats/Home Team Score 9] 
+patch=1,EE,E0018060,extended,00175FB8
+patch=1,EE,1039110C,extended,00000009
+
+[Cheats/Home Team Start With 9] 
+patch=1,EE,E0028060,extended,00175FB8
+patch=1,EE,D039110C,extended,00000000
+patch=1,EE,1039110C,extended,00000009

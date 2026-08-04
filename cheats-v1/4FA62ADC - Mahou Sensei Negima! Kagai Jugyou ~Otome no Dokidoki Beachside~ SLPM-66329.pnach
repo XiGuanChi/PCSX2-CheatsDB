@@ -1,0 +1,106 @@
+[Cheats/Max Coins] 
+patch=1,EE,2034F32C,extended,0098967F
+
+[Cheats/Physical Strength 999 Status changes after individual training>*Valid only for characters who have undergone personal training] 
+patch=1,EE,203A4F00,extended,4479C000 Academic
+
+[Cheats/Ability 999] 
+patch=1,EE,203A4F04,extended,4479C000
+
+[Cheats/Education 999] 
+patch=1,EE,203A4F08,extended,4479C000
+
+[Cheats/Reaction 999] 
+patch=1,EE,203A4F0C,extended,4479C000 
+
+[Cheats/Endurance 999] 
+patch=1,EE,203A4F10,extended,4479C000 
+
+[Cheats/Responsibility 999] 
+patch=1,EE,203A4F14,extended,4479C000 
+
+[Cheats/Sex Appeal 999] 
+patch=1,EE,203A4F18,extended,4479C000 
+
+[Cheats/Stress 0]  
+patch=1,EE,203A4F1C,extended,00000000
+
+[Cheats/After The Training Suddenly Final Match] 
+patch=1,EE,00309A38,extended,00000003
+
+[Cheats/Press SELECT+Left For 3 More Special Training] 
+patch=1,EE,D03D6102,extended,0000FF7E
+patch=1,EE,00309A39,extended,00000000
+
+[Cheats/In Practice Remove Favorability Limit For Changing Clothes] 
+patch=1,EE,20202F50,extended,240303E7
+patch=1,EE,20202F70,extended,AE8300A8
+patch=1,EE,20202F74,extended,10000013
+
+[Cheats/In Battle Quorum Points 99999] 
+patch=1,EE,20309A9C,extended,0001869F
+
+[Cheats/In Battle 1P Score 100] 
+patch=1,EE,20390324,extended,00000064
+
+[Cheats/In Battle CPU Score 0] 
+patch=1,EE,20390328,extended,00000000
+
+[Cheats/Unlock All Album] 
+patch=1,EE,2010B064,extended,24020001
+
+[Cheats/Unlock All Moviea] 
+patch=1,EE,2010B0B0,extended,24020001
+
+[Cheats/Unlock All Gallery Movies] 
+patch=1,EE,003098AC,extended,00000001
+patch=1,EE,103098A6,extended,00000101
+patch=1,EE,203098A8,extended,01010101
+
+[Cheats/Unlock All Characters]  
+patch=1,EE,2010B4D8,extended,24020001
+
+[Cheats/Unlock All Gallery Characters]  
+patch=1,EE,203098A0,extended,01010101
+patch=1,EE,203098A4,extended,01010101
+patch=1,EE,203098A8,extended,01010101
+
+[Cheats/Unlock All Gallery] 
+patch=1,EE,203098A0,extended,7F7F7F7F
+patch=1,EE,203098A4,extended,7F7F7F7F
+patch=1,EE,203098A8,extended,7F7F7F7F
+patch=1,EE,00309971,extended,00000001
+patch=1,EE,10309972,extended,00000101
+patch=1,EE,40309974,extended,00120001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,003099BC,extended,00000001
+patch=1,EE,203098A8,extended,01010101
+patch=1,EE,003098AC,extended,00000001
+
+[Cheats/Unlock All Gallery Album] 
+patch=1,EE,003099BC,extended,00000001
+patch=1,EE,00309971,extended,00000001
+patch=1,EE,10309972,extended,00000101
+patch=1,EE,40309974,extended,00120001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Swimsuit At the time of character] 
+patch=1,EE,20124384,extended,24020001
+
+[Cheats/Unlock Swimsuit Shop All Items On Display]
+patch=1,EE,403099C0,extended,00110001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Swimsuits] 
+patch=1,EE,1034EAAE,extended,00000101
+patch=1,EE,4034EAB0,extended,00080001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Accessories] 
+patch=1,EE,4034EA90,extended,00080001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,1034EAB0,extended,00000101
+
+[Cheats/Unlock All Swimsuits And Accessories Purchased] 
+patch=1,EE,4034EA90,extended,00100001
+patch=1,EE,01010101,extended,00000000

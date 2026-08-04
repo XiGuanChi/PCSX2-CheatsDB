@@ -1,0 +1,73 @@
+[Cheats/Infinite Lives And Gems] 
+patch=1,EE,200C0220,extended,24023263
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,A4820000
+patch=1,EE,2016961C,extended,0C030088
+
+[Cheats/99 Lives]  
+patch=1,EE,20171308,extended,24030064
+
+[Cheats/Invincibility Hold Select to disable] 
+patch=1,EE,2013760C,extended,24020006
+patch=1,EE,D0BB0382,extended,0000FFFE
+patch=1,EE,2013760C,extended,8E620014
+
+[Cheats/Start at Iceberg Lab Use this code on a New Game and save] 
+patch=1,EE,1030B500,extended,000024A0
+
+[Cheats/Unlock 100% Game]  
+patch=1,EE,0098C037,extended,00000063
+patch=1,EE,4098C064,extended,00100001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Have All Gems And Extras Nsanity Isle] 
+patch=1,EE,2098C064,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Jungle Bungle] 
+patch=1,EE,2098C068,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Cavern Catastrophe] 
+patch=1,EE,2098C06C,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Totem Kokum] 
+patch=1,EE,2098C070,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Iceberg Lab] 
+patch=1,EE,2098C674,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Ice Climb] 
+patch=1,EE,2098C678,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Slip Slide Icecapades] 
+patch=1,EE,2098C67C,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras High Seas Hi-jinks] 
+patch=1,EE,2098C680,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Academy of Evil] 
+patch=1,EE,2098C684,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Boiler Room Doom] 
+patch=1,EE,2098C688,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Classroom Chaos] 
+patch=1,EE,2098C68C,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Rooftop Rampage] 
+patch=1,EE,2098C690,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Twinsanity Island] 
+patch=1,EE,2098C694,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Rockslide Rumble] 
+patch=1,EE,2098C698,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Bandicoot Pursuit] 
+patch=1,EE,2098C69C,extended,FFFFFFFF
+
+[Cheats/Have All Gems And Extras Ant Agony] 
+patch=1,EE,2098C6A0,extended,FFFFFFFF
+
+[Cheats/Unlock All Gems And Extras] 
+patch=1,EE,4098C064,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000

@@ -1,0 +1,182 @@
+[Cheats/Max Money]
+patch=1,EE,20172F4C,extended,24010000
+
+[Cheats/Max Money After Change]
+patch=1,EE,A0172F50,extended,00000000
+
+[Cheats/Max Experience Points] 
+patch=1,EE,20269C84,extended,00000000
+
+[Cheats/Change Your Taste And Soul 15 Times] 
+patch=1,EE,202A3818,extended,3C024170
+
+[Cheats/Lifting Power Limit Of The Weapon Used]  
+patch=1,EE,D04A9F1C,extended,0000008F
+patch=1,EE,204A9F24,extended,24020000
+patch=1,EE,2020CAB0,extended,24020000
+
+[Cheats/Infinite Action ON L1+L3 OFF L1+R3] 
+patch=1,EE,D0319982,extended,0000FBFD
+patch=1,EE,20224904,extended,64040000
+patch=1,EE,D0319982,extended,0000FBFB
+patch=1,EE,20224904,extended,64040010
+
+[Cheats/Enemy controllable ON L2+L3 OFF L2+R3 When turned on, the enemy will be excluded from the attack target.Turn it on only when operating an enemy.] 
+patch=1,EE,D0319982,extended,0000FEFD
+patch=1,EE,2044FF90,extended,24020000
+patch=1,EE,D0319982,extended,0000FEFB
+patch=1,EE,2044FF90,extended,0C08DA74
+
+[Cheats/Equipped With 4 Parts] 
+patch=1,EE,202769A8,extended,24020003
+
+[Cheats/HP Modification Limit 15] 
+patch=1,EE,20276414,extended,2402000F
+
+[Cheats/EN Modification Limit 15] 
+patch=1,EE,20276388,extended,2402000F
+
+[Cheats/Motility Modification Limit 15]  
+patch=1,EE,20276304,extended,2402000F
+
+[Cheats/Armor Modification Limit 15]  
+patch=1,EE,20276278,extended,2402000F
+
+[Cheats/PP 9999] 
+patch=1,EE,2026A3BC,extended,50C00006
+patch=1,EE,2026A3C0,extended,2402270F
+patch=1,EE,2026A3D8,extended,03E00008
+patch=1,EE,2026A3DC,extended,A482000C
+
+[Cheats/Number Of Shots Down 999] 
+patch=1,EE,2026A46C,extended,50C00006
+patch=1,EE,2026A470,extended,240203E7
+patch=1,EE,2026A488,extended,03E00008
+patch=1,EE,2026A48C,extended,A4820006
+
+[Cheats/Mode Change 15 Ban SPECIAL] 
+patch=1,EE,E0043157,extended,00576BA0
+patch=1,EE,205981D8,extended,24030002
+patch=1,EE,205981E0,extended,AC430FEC
+patch=1,EE,205981E4,extended,AC43104C
+patch=1,EE,205981E8,extended,AC431050
+
+[Cheats/All Reinforced Parts Stock 99 Enter the Reinforced Parts  item at Intermission] 
+patch=1,EE,20173BA0,extended,00A40821
+patch=1,EE,20173BA8,extended,802210C8 
+patch=1,EE,D0505B24,extended,0000002C 
+patch=1,EE,20505B14,extended,24020063 
+patch=1,EE,D0505B24,extended,0000002C
+patch=1,EE,20505B1C,extended,A02210C8
+
+[Cheats/Unlock ] All special bullet materials 99 Enter the weapon selection  item in the intermission.
+patch=1,EE,20173B70,extended,00A40821
+patch=1,EE,20173B78,extended,90221148
+patch=1,EE,D0519844,extended,0000CED4
+patch=1,EE,2051984C,extended,24020063
+patch=1,EE,D0519844,extended,0000CED4
+patch=1,EE,20519854,extended,A0221148
+
+[Cheats/Unit Can Be Reactivated Press L1+R1 Each time the button is pressed, the unit can be reactivated. It also has an effect on enemies, so don't press it during enemy turns] 
+patch=1,EE,2022BBC4,extended,000116FC
+patch=1,EE,D0319982,extended,0000F3FF
+patch=1,EE,2022BBC4,extended,302100EF
+patch=1,EE,2022BBC0,extended,9281007A
+patch=1,EE,2022BBD0,extended,A281007A
+
+[Cheats/Enter Aircraft Modification, It Becomes Special Mode 15-stage modification is also possible] 
+patch=1,EE,2025DDBC,extended,AE030FEC
+patch=1,EE,2025DDC4,extended,AE03104C
+patch=1,EE,2025DDD0,extended,AE031050
+
+[Cheats/Hot Blooded Effect Blue Force Only]  
+patch=1,EE,20233288,extended,80830074
+patch=1,EE,2023328C,extended,30620003 
+patch=1,EE,20233294,extended,2C420001
+
+[Cheats/Fortitude Effect Blue Force Only] 
+patch=1,EE,20233188,extended,80830074
+patch=1,EE,2023318C,extended,30620003 
+patch=1,EE,20233194,extended,2C420001
+
+[Cheats/Iron Wall Effect Blue Force Only]  
+patch=1,EE,202333A8,extended,80830074
+patch=1,EE,202333AC,extended,30620003
+patch=1,EE,202333B4,extended,2C420001
+
+[Cheats/Flash Hit Effect Blue Force Only]  
+patch=1,EE,20233428,extended,80830074
+patch=1,EE,2023342C,extended,30620003 
+patch=1,EE,20233434,extended,2C420001
+
+[Cheats/Guaranteed Hit Effect Blue Force Only] 
+patch=1,EE,202333C8,extended,80830074
+patch=1,EE,202333CC,extended,30620003
+patch=1,EE,202333D4,extended,2C420001
+
+[Cheats/Sniper Effect Blue Force Only]  
+patch=1,EE,202333E8,extended,80830074
+patch=1,EE,202333EC,extended,30620003
+patch=1,EE,202333F4,extended,2C420001
+
+[Cheats/Concentration Effect Blue Force Only] 
+patch=1,EE,20233408,extended,80830074
+patch=1,EE,2023340C,extended,30620003
+patch=1,EE,20233414,extended,2C420001
+
+[Cheats/Soul Effect Blue Force Only]  
+patch=1,EE,202331A0,extended,80830074
+patch=1,EE,202331A8,extended,30620003
+patch=1,EE,202331B0,extended,2C420001
+
+[Cheats/Assault Effect Only Blue Forces] 
+patch=1,EE,202330E8,extended,80830074
+patch=1,EE,202330EC,extended,30620003
+patch=1,EE,202330F4,extended,2C420001
+
+[Cheats/Infinite Action Blue Forces Only Not valid for units whose action has been completed] 
+patch=1,EE,2022FA58,extended,80430074
+patch=1,EE,2022FA5C,extended,30620003
+patch=1,EE,2022FA60,extended,2C420001
+
+[Cheats/Unlock SPECIAL Menu Shuffle Battler Max Clear Points when buying and selling cards] 
+patch=1,EE,2017240C,extended,00000000 
+patch=1,EE,20172474,extended,00000000 
+
+[Cheats/Unlock SPECIAL Menu Shuffle Battle Get All Cards when you buy and sell cards]  
+patch=1,EE,201734C0,extended,00A40821 
+patch=1,EE,201734C4,extended,24020063
+patch=1,EE,201734C8,extended,03E00008
+patch=1,EE,201734CC,extended,A0221408
+patch=1,EE,20173484,extended,24010001
+patch=1,EE,20173488,extended,A0411534 
+patch=1,EE,20173494,extended,24020001 
+
+[Cheats/Unlock SPECIAL Menu Library All Library OG Gaiden Added To Movie Collection]  
+patch=1,EE,20179530,extended,240300FF
+
+[Cheats/Unlock SPECIAL Menu Library All Library Encyclopedia Of Robots] 
+patch=1,EE,20173E6C,extended,2401FFFF
+patch=1,EE,20173E70,extended,AC41005C
+patch=1,EE,20173E78,extended,24020001
+
+[Cheats/Unlock SPECIAL Menu Library All Library Characters Dictionary] 
+patch=1,EE,20173E0C,extended,2401FFFF
+patch=1,EE,20173E10,extended,AC4100BC
+patch=1,EE,20173E18,extended,24020001
+
+[Cheats/Unlock SPECIAL Menu Library All Library Terminology Dictionary] 
+patch=1,EE,20173DAC,extended,2401FFFF
+patch=1,EE,20173DB0,extended,AC41011C
+patch=1,EE,20173DB8,extended,24020001
+
+[Cheats/Unlock SPECIAL Menu Library All Sound] 
+patch=1,EE,20173D4C,extended,2401FFFF
+patch=1,EE,20173D50,extended,AC41029C
+patch=1,EE,20173D58,extended,24020001
+
+[Cheats/Unlock SPECIAL Menu Library All Scenario Chart] 
+patch=1,EE,20173CE4,extended,2401FFFF
+patch=1,EE,20173CE8,extended,AC4102CC
+patch=1,EE,20173CF0,extended,24020001
+

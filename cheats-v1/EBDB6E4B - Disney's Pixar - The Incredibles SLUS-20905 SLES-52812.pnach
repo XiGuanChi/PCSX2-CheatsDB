@@ -1,0 +1,55 @@
+[Cheats/Infinite Health]   
+patch=1,EE,202424AC,extended,24030064
+patch=1,EE,202424B0,extended,A443001C
+
+[Cheats/Invincibility] 
+patch=1,EE,206482E0,extended,00000001
+
+[Cheats/Infinite Incredi-Meter] 
+patch=1,EE,2024103C,extended,24020064
+patch=1,EE,20241040,extended,A4820798
+
+[Cheats/Infinite Incredi-Meter For Dash] 
+patch=1,EE,2052BF84,extended,80000000
+patch=1,EE,2052BFB0,extended,00000000
+patch=1,EE,20E07E60,extended,00000000
+patch=1,EE,212521D8,extended,00000000
+patch=1,EE,212521F8,extended,00000000
+patch=1,EE,212523A4,extended,3CA3D70A
+
+[Cheats/Infinite Incredi-Meter For Dash In 100 Mile Dash] 
+patch=1,EE,21319BD4,extended,3CA3D70A
+patch=1,EE,20E0E160,extended,00000000
+
+[Cheats/Infinite Time In 100 Mile Dash] 
+patch=1,EE,20E0E8B8,extended,72037E18
+
+[Cheats/Infinite Incredi-Meter For Violet] 
+patch=1,EE,20D18464,extended,3F800000
+patch=1,EE,21083EE0,extended,3F800000
+patch=1,EE,21083EE4,extended,3F800000
+patch=1,EE,21084560,extended,3F4F5C29
+patch=1,EE,210845AC,extended,3F4F5C29
+patch=1,EE,21084644,extended,3F800000
+patch=1,EE,21084668,extended,3F800000
+patch=1,EE,210844C8,extended,3F4F5C29
+
+[Cheats/Infinite Health For Incredi-Ball] 
+patch=1,EE,20E243A0,extended,42C80000
+patch=1,EE,20FDFDC8,extended,3F800000
+patch=1,EE,214B349C,extended,3F800000
+patch=1,EE,214B3C14,extended,3F733333
+patch=1,EE,214B3C60,extended,3F733333
+patch=1,EE,214B42AC,extended,00640064
+
+[Cheats/Unlock All Videos] 
+patch=1,EE,406CFE68,extended,00060001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,006CFE82,extended,00000001
+patch=1,EE,006CFE87,extended,00000001
+
+[Cheats/Unlock All Artwork] 
+patch=1,EE,406CFE90,extended,00100001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,106CFED0,extended,00000101
+patch=1,EE,006CFED2,extended,00000001

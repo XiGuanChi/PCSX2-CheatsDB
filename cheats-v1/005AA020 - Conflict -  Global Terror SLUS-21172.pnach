@@ -1,0 +1,40 @@
+[Cheats/Activate Cheat Codes God Mode Including Vechicles] 
+patch=1,EE,2054EF6C,extended,00000000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2054EF70,extended,00000001
+
+[Cheats/Infinite Health Entire Team] 
+patch=1,EE,200C0220,extended,3C024350
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,ACE20180
+patch=1,EE,201DEBEC,extended,0C030088
+patch=1,EE,201DEBF0,extended,46010034
+
+[Cheats/Infinite Health Vehicles] 
+patch=1,EE,200C0240,extended,C6400188
+patch=1,EE,200C0244,extended,03E00008
+patch=1,EE,200C0248,extended,E6400180
+patch=1,EE,20258F30,extended,0C030090
+
+[Cheats/1 Hit Death Enemies] 
+patch=1,EE,200C0250,extended,8C810180
+patch=1,EE,200C0254,extended,3C023F80
+patch=1,EE,200C0258,extended,0022082B
+patch=1,EE,200C025C,extended,50200001
+patch=1,EE,200C0260,extended,AC820180
+patch=1,EE,200C0264,extended,0807EBF4
+patch=1,EE,200C0268,extended,C4800180
+patch=1,EE,201FAFCC,extended,08030094
+
+[Cheats/P1 Press L3+R3 To Kill Enemies] 
+patch=1,EE,D083DDC2,extended,0000FFF9
+patch=1,EE,201FAFD4,extended,AC800180
+patch=1,EE,D083DDC2,extended,0000FFFF
+patch=1,EE,201FAFD4,extended,00000000
+
+[Cheats/Unlock Cheats Menu Inside Options] 
+patch=1,EE,2054EF8C,extended,00000001
+
+[Cheats/Unlock Show Movies Inside Cheats] 
+patch=1,EE,2054EF30,extended,00000001

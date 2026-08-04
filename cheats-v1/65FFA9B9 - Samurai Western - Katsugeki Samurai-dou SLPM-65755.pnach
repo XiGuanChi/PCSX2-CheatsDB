@@ -1,0 +1,101 @@
+[Cheats/Infinite HP] 
+patch=1,EE,201733D4,extended,10000003
+
+[Cheats/Infinite MP] 
+patch=1,EE,20173334,extended,10000003
+
+[Cheats/Master Gauge Max maintenance mode switch Master gauge max mode SLECT+L1  Normal mode SLECT+L2] 
+patch=1,EE,D02CEAC2,extended,0000FBFE
+patch=1,EE,201FAB80,extended,E6200358
+patch=1,EE,D02CEAC2,extended,0000FEFE 
+patch=1,EE,201FAB80,extended,45000003
+
+[Cheats/Status Distribution Points 9999] 
+patch=1,EE,102D1AE0,extended,0000270F
+
+[Cheats/In Battle 1P Infinite Health Self-destruction with R1+SELECT ] 
+patch=1,EE,201FA958,extended,A622037C
+patch=1,EE,D02CEAC2,extended,0000F7FE
+patch=1,EE,201FA958,extended,A620037C
+
+[Cheats/In Battle 1P Max Attack Power] 
+patch=1,EE,2017347C,extended,00000000
+
+[Cheats/2P All Ralph guns] 
+patch=1,EE,102D2C40,extended,00000101
+
+[Cheats/2P Max Status] 
+patch=1,EE,202D1AD8,extended,012C012C
+patch=1,EE,002D1ADC,extended,000000C8
+
+[Cheats/Unlock All Swords] 
+patch=1,EE,202D2398,extended,01010101
+patch=1,EE,202D239C,extended,01010101
+patch=1,EE,202D23A0,extended,01010101
+patch=1,EE,202D23A4,extended,01010101
+patch=1,EE,202D23A8,extended,01010101
+patch=1,EE,102D23AC,extended,00000101
+
+[Cheats/Unlock All Swords Level Max] 
+patch=1,EE,002D23B8,extended,0000000A
+patch=1,EE,002D23C0,extended,0000000A
+patch=1,EE,002D23C8,extended,0000000A
+patch=1,EE,002D23D0,extended,0000000A
+patch=1,EE,002D23D8,extended,0000000A
+patch=1,EE,002D23E0,extended,0000000A
+patch=1,EE,002D23E8,extended,0000000A
+patch=1,EE,002D23F0,extended,0000000A
+patch=1,EE,002D23F8,extended,0000000A
+patch=1,EE,002D2400,extended,0000000A
+patch=1,EE,002D2408,extended,0000000A
+patch=1,EE,002D2410,extended,0000000A
+patch=1,EE,002D2418,extended,0000000A
+patch=1,EE,002D2420,extended,0000000A
+patch=1,EE,002D2428,extended,0000000A
+patch=1,EE,002D2430,extended,0000000A
+patch=1,EE,002D2438,extended,0000000A
+patch=1,EE,002D2440,extended,0000000A
+patch=1,EE,002D2448,extended,0000000A
+patch=1,EE,002D2450,extended,0000000A
+patch=1,EE,002D2458,extended,0000000A
+patch=1,EE,002D2460,extended,0000000A
+
+[Cheats/Unlock All Accessories] 
+patch=1,EE,202D2148,extended,01010101
+patch=1,EE,202D214C,extended,01010101
+patch=1,EE,202D2150,extended,01010101
+patch=1,EE,202D2154,extended,01010101
+patch=1,EE,202D2158,extended,01010101
+patch=1,EE,202D215C,extended,01010101
+patch=1,EE,202D2160,extended,01010101
+patch=1,EE,202D2164,extended,01010101
+patch=1,EE,202D2168,extended,01010101
+patch=1,EE,202D216C,extended,01010101
+patch=1,EE,202D2170,extended,01010101
+patch=1,EE,202D2174,extended,01010101
+patch=1,EE,202D2178,extended,01010101
+patch=1,EE,202D217C,extended,01010101
+patch=1,EE,202D2180,extended,01010101
+patch=1,EE,202D2184,extended,01010101
+patch=1,EE,202D2188,extended,01010101
+patch=1,EE,202D218C,extended,01010101
+
+[Cheats/Unlock Previous Character Samurai, Samurai Road 2 characters will be added] 
+patch=1,EE,002D1AB1,extended,000000FF
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,002D1AB1,extended,000000FF
+patch=1,EE,002D2C94,extended,00000001
+patch=1,EE,202D1AF0,extended,01010101
+patch=1,EE,202D1AF4,extended,01010101
+patch=1,EE,202D1AF8,extended,01010101
+patch=1,EE,202D1AFC,extended,01010101
+patch=1,EE,202D1B00,extended,01010101
+patch=1,EE,202D1B04,extended,01010101
+patch=1,EE,202D1B08,extended,01010101
+
+[Cheats/Unlock All Stages STORY MODE, ORE-RULE can be set for STORY MODE difficulty NORMAL and HARD] 
+patch=1,EE,202D2380,extended,FFFFFFFF
+patch=1,EE,202D2C38,extended,FFFFFFFF
+patch=1,EE,202D2C3C,extended,FFFFFFFF
+patch=1,EE,002D1AEE,extended,00000001

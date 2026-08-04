@@ -1,0 +1,38 @@
+[Cheats/Invincible] 
+patch=1,EE,001681D8,extended,00000001
+
+[Cheats/Max Score P1]  
+patch=1,EE,2022608C,extended,05F5E0FF
+
+[Cheats/Max Score P2]  
+patch=1,EE,20226090,extended,05F5E0FF
+
+[Cheats/Infinite Lives P1] 
+patch=1,EE,20226094,extended,00000003
+
+[Cheats/Infinite Lives P2]  
+patch=1,EE,20226098,extended,00000003
+
+[Cheats/Infinite Health P1] 
+patch=1,EE,219F7D20,extended,000003E8
+
+[Cheats/Infinite Health P2]  
+patch=1,EE,219F79D0,extended,000003E8
+
+[Cheats/Infinite Continues P1]  
+patch=1,EE,2022609C,extended,00000005
+
+[Cheats/Infinite Continues P2] 
+patch=1,EE,202260A0,extended,00000005
+
+[Cheats/Max Bio Level P1]  
+patch=1,EE,20227FC4,extended,00000009
+
+[Cheats/Max Bio Level P2]  
+patch=1,EE,20227FC8,extended,00000009
+
+[Cheats/Enable Debug Menu press L3 once, then enter the pause screen. Once the debug menu is on-screen, make sure to press Triangle once each time when entering this menu to freeze game-play. Press R3 to disable this menu and return the pause screen to normal] 
+patch=1,EE,D0336E42,extended,0000FFFD
+patch=1,EE,20470E20,extended,002FBC28
+patch=1,EE,D0336E42,extended,0000FFFB
+patch=1,EE,20470E20,extended,002F94B8

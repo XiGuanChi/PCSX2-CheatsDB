@@ -1,0 +1,5 @@
+[Cheats/Unlock Debug Menu Enter Debug menu when you First start up the game to go back to it, press and hold Select button while entering any mode, such as the Options menu This menu allows you to view all of the images in game, play all of the SFX, test controller vibration options, unlock everything and select any of the game's eventsScenario	Sends you to a list of story related scenes to choose from.Character Allows you to view all of the character portraits. BG	Allows you toiew all of the background images. Event Allows you to view all of the event images in the game.
+BGM	Plays only one song. SE	Goes through all of the SFX in the game. Movie Allows you to watch all of the movies in the game. SAVE Sends you to the save menu. DEBUG This appears to be the same as the Scenario option. System Flag Unlocks everything in the game when selected]
+patch=1,EE,0010D4B0,extended,00000000
+patch=1,EE,D0478782,extended,0000FFFE
+patch=1,EE,202727E4,extended,00000000

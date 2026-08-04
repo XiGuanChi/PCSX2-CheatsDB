@@ -1,0 +1,30 @@
+[Cheats/Unlock All Memories Items, Movie & Music] 
+patch=1,EE,003C32F4,extended,000000FF 
+patch=1,EE,003C32E1,extended,000000FF
+patch=1,EE,103C32E2,extended,0000FFFF
+patch=1,EE,203C32E4,extended,FFFFFFFF 
+patch=1,EE,203C32E8,extended,FFFFFFFF 
+patch=1,EE,203C32EC,extended,FFFFFFFF
+patch=1,EE,203C32F0,extended,FFFFFFFF
+
+[Cheats/Unlock Everything Album completion 100%] 
+patch=1,EE,201D2E8C,extended,240500FF 
+patch=1,EE,201D2E90,extended,A04501C0
+
+[Cheats/Unlock Everything Encyclopedia Completion 100%] 
+patch=1,EE,201D3134,extended,240500FF
+patch=1,EE,201D3138,extended,A0450300
+
+[Cheats/Unlock Everything All Scene Title & Message Read Rate]  
+patch=1,EE,20139498,extended,240400FF
+patch=1,EE,2013949C,extended,A0440400
+patch=1,EE,203C3520,extended,FFFFFFFF
+patch=1,EE,203C3524,extended,FFFFFFFF
+
+[Cheats/Unlock Everything Option Read Rate 100% Valid when viewing the ClearList of Memories] 
+patch=1,EE,20139558,extended,240400FF
+patch=1,EE,2013955C,extended,A0440280
+
+[Cheats/Debug Menu in Main Menu This menu contains various options to view background images, event images, and unlock certain options. It also contains various route select options. Start from the beginning Starts a new game. Quick start Sends you to the title screen. Run file Event select menu. System Flag Settings Sets various system-related parameters. End Clear Process Sets route clear flags.Return to title Returns to the title screen.] 
+patch=1,EE,D0C7D922,extended,00000100
+patch=1,EE,10C7D924,extended,00000002

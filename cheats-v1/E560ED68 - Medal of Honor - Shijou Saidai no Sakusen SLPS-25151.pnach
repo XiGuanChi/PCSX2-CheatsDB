@@ -1,0 +1,25 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20240F60,extended,00000001
+
+[Cheats/Invincible] 
+patch=1,EE,002418E0,extended,00000001
+
+[Cheats/UnlockAll Appearance + Image Privilege] 
+patch=1,EE,D02403CC,extended,00000000
+patch=1,EE,202403CC,extended,00055554
+patch=1,EE,202403D0,extended,0000077F
+patch=1,EE,202403D4,extended,3F3F3FFF
+patch=1,EE,202403D8,extended,00000FFF
+patch=1,EE,202403DC,extended,003F777F
+patch=1,EE,102403E0,extended,00000707
+patch=1,EE,20241790,extended,01010101
+patch=1,EE,20241794,extended,01010101
+patch=1,EE,20241798,extended,01010101
+patch=1,EE,2024179C,extended,01010101
+[Cheats/Unlock ] 002417 A0 00000001
+
+[Cheats/Unlock Making Image Appearance Of Trip To Holland Press R1]
+patch=1,EE,D033D602,extended,0000F7FF
+patch=1,EE,002405D0,extended,000000FF
+patch=1,EE,D033D602,extended,0000F7FF
+patch=1,EE,00241860,extended,00000001

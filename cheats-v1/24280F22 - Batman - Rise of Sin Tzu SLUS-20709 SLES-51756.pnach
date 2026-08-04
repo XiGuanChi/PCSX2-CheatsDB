@@ -1,0 +1,103 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200C0220,extended,00A01821
+patch=1,EE,200C0224,extended,AC850034
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,AC850038
+patch=1,EE,2028E14C,extended,0C030088
+patch=1,EE,2028E150,extended,240503E8
+
+[Cheats/Infinite Continues] 
+patch=1,EE,20290B68,extended,00000000
+
+[Cheats/Freeze Timers] 
+patch=1,EE,2036FB10,extended,03E00008
+patch=1,EE,2036FB14,extended,00000000
+
+[Cheats/Infinite Green Tokens] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6AE8,extended,000003E7
+
+[Cheats/Infinite Red Tokens] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6AEC,extended,000003E7
+
+[Cheats/Infinite Silver Tokens] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6AF0,extended,000003E7
+
+[Cheats/Infinite Gold Tokens] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6AF4,extended,000003E7
+
+[Cheats/Infinite Bronze Tokens] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6AF8,extended,000003E7
+
+[Cheats/Max Upgrade Points Batman] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6B88,extended,05F5E0FF
+
+[Cheats/Max Upgrade Points Robin]  
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6B8C,extended,05F5E0FF
+
+[Cheats/Max Upgrade Points Nightwing] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6B90,extended,05F5E0FF
+
+[Cheats/Max Upgrade Points Batgirl] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6B94,extended,05F5E0FF
+
+[Cheats/Unlock All Moves Batman] 
+patch=1,EE,E0026AD0,extended,008C6ADC
+patch=1,EE,208C6B98,extended,FFFFFFFF
+patch=1,EE,208C6BA8,extended,FFFFFFFF
+
+[Cheats/Unlock All Moves Robin] 
+patch=1,EE,E0026AD0,extended,008C6ADC
+patch=1,EE,208C6B9C,extended,FFFFFFFF
+patch=1,EE,208C6BAC,extended,FFFFFFFF
+
+[Cheats/Unlock All Moves Nightwing] 
+patch=1,EE,E0026AD0,extended,008C6ADC
+patch=1,EE,208C6BA0,extended,FFFFFFFF
+patch=1,EE,208C6BB0,extended,FFFFFFFF
+
+[Cheats/Unlock All Moves Batgirl] 
+patch=1,EE,E0026AD0,extended,008C6ADC
+patch=1,EE,208C6BA4,extended,FFFFFFFF
+patch=1,EE,208C6BB4,extended,FFFFFFFF
+
+[Cheats/Unlock Access All Upgrades] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6B84,extended,0000000F
+
+[Cheats/Unlock All 3D Models Heroes, Gadgets and Vehicles] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6AFC,extended,FFFFFFFF
+
+[Cheats/Unlock All 3D Models Villians] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6B00,extended,FFFFFFFF
+
+[Cheats/Unlock All Graphic Novels] 
+patch=1,EE,E0026AD0,extended,008C6ADC
+patch=1,EE,208C6B04,extended,FFFFFFFF
+patch=1,EE,208C6B08,extended,FFFFFFFF
+
+[Cheats/Unlock All Toys] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6B0C,extended,FFFFFFFF
+
+[Cheats/Unlock All Cinematics] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6B10,extended,FFFFFFFF
+
+[Cheats/Unlock All Concept Art]
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6B14,extended,FFFFFFFF
+
+[Cheats/Unlock All Extra Bonus Features] 
+patch=1,EE,D08C6ADC,extended,00006AD0
+patch=1,EE,208C6B18,extended,FFFFFFFF

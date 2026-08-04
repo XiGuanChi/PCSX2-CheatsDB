@@ -1,0 +1,6 @@
+[Cheats/Max & infinite Health] 
+patch=1,EE,002DE674,extended,00000014
+patch=1,EE,002DE678,extended,00000006
+
+[Cheats/Enable God Mode] 
+patch=1,EE,202DE424,extended,00000001 

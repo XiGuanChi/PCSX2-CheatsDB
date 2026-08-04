@@ -1,0 +1,21 @@
+[Cheats/Unlock DC Added To Title And Extra Hidden Character. After changing the Config settings on the title screen, it will be reflected when you return]  
+patch=1,EE,2011F64C,extended,24010001
+patch=1,EE,2011F650,extended,A0410000
+
+[Cheats/Unlock All Extra's CG . After changing the Config settings on the title screen, it will be reflected when you return] 
+patch=1,EE,2011F5D0,extended,24010001
+patch=1,EE,2011F5D4,extended,A0410000
+patch=1,EE,2011F5DC,extended,A0610000
+
+[Cheats/Unlock All Extra's Scenario. After changing the Config settings on the title screen, it will be reflected when you return] 
+patch=1,EE,2011F610,extended,24010001
+patch=1,EE,2011F614,extended,A0410000
+patch=1,EE,2011F61C,extended,A0610000
+
+[Cheats/Unlock All Extra] 
+patch=1,EE,007907FD,extended,00000001
+
+[Cheats/New Game = Debug Unlock Everything] 
+patch=1,EE,20819AA4,extended,0066D800
+patch=1,EE,20819AA8,extended,00002AE0
+

@@ -1,0 +1,38 @@
+[Cheats/Max Blood gauge] 
+patch=1,EE,1066C210,extended,00000258
+patch=1,EE,1066C214,extended,00000258
+
+[Cheats/Max Answer time] 
+patch=1,EE,0067915C,extended,000000B4
+
+[Cheats/Unlock Game 100%] 
+patch=1,EE,4066B510,extended,00260001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Presents] 
+patch=1,EE,1066B380,extended,0000FFFF
+patch=1,EE,0066B387,extended,00000001
+patch=1,EE,0066B38B,extended,00000001
+patch=1,EE,0066B38F,extended,00000001
+patch=1,EE,0066B393,extended,00000001
+patch=1,EE,0066B397,extended,00000001
+patch=1,EE,0066B39B,extended,00000001
+patch=1,EE,0066B39F,extended,00000001
+patch=1,EE,0066B3A3,extended,00000001
+patch=1,EE,0066B3A7,extended,00000001
+patch=1,EE,0066B3AB,extended,00000001
+patch=1,EE,0066B3AF,extended,00000001
+patch=1,EE,0066B3B3,extended,00000001
+patch=1,EE,0066B3B7,extended,00000001
+patch=1,EE,0066B3BB,extended,00000001
+patch=1,EE,0066B3BF,extended,00000001
+patch=1,EE,0066B3C3,extended,00000001
+patch=1,EE,0066B3C7,extended,00000001
+patch=1,EE,0066B3CB,extended,00000001
+patch=1,EE,1066B3CF,extended,00000101
+
+[Cheats/Play Time 0] 
+patch=1,EE,2066B290,extended,00000000
+
+
+

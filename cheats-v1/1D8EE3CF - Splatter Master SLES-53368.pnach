@@ -1,0 +1,11 @@
+[Cheats/Infinite Health ASM] 
+patch=1,EE,201667BC,extended,00000000
+
+[Cheats/Infinite Heart] 
+patch=1,EE,20283F00,extended,006400C8
+
+[Cheats/Infinite Gas] 
+patch=1,EE,20283F04,extended,000509C4
+
+[Cheats/Infinite Gold] 
+patch=1,EE,20283F08,extended,0001869F

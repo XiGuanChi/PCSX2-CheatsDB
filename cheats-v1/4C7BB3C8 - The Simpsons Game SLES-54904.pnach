@@ -1,0 +1,12 @@
+[Cheats/Infinite Health] 
+patch=1,EE,202b9fa0,extended,E4400028
+patch=1,EE,202b9fa4,extended,C4400028
+patch=1,EE,202b9fa8,extended,46010036
+
+[Cheats/Infinite Health Partner ACTIVATE ONLY IN THE LEVELS WHRE THE PARTNER IS AVALIABLE] 
+patch=1,EE,202b9f68,extended,08028000
+patch=1,EE,200A0000,extended,3C04447A
+patch=1,EE,200A0004,extended,080AE7A3
+patch=1,EE,200A0008,extended,AC440028
+patch=1,EE,202b9f6c,extended,C4400028
+patch=1,EE,202b9f70,extended,46000036

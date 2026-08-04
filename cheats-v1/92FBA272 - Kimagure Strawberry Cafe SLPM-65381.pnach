@@ -1,0 +1,44 @@
+[Cheats/Max Money 999000000] 
+patch=1,EE,20229C80,extended,3B8B87C0
+
+[Cheats/Max Assets]  
+patch=1,EE,20214738,extended,05F5E0FF
+
+[Cheats/Max Sales]  
+patch=1,EE,20214740,extended,05F5E0FF
+
+[Cheats/Max Study Experience]  
+patch=1,EE,00214B34,extended,00000064
+
+[Cheats/Max Cooking Experience] 
+patch=1,EE,00214B3A,extended,00000064
+
+[Cheats/Max Sense Experience]  
+patch=1,EE,00214B40,extended,00000064
+
+[Cheats/Max Management Experience] 
+patch=1,EE,00214B46,extended,00000064
+
+[Cheats/Max Study Level]  
+patch=1,EE,00214B32,extended,00000009
+
+[Cheats/Max Cooking Level]  
+patch=1,EE,00214B38,extended,00000009
+
+[Cheats/Max Sense Level] 
+patch=1,EE,00214B3E,extended,00000009
+
+[Cheats/Max Management Level]  
+patch=1,EE,00214B44,extended,00000009
+
+[Cheats/0 Stress] 
+patch=1,EE,00214B4A,extended,00000000
+
+[Cheats/Strategy Character Batch Favorability Max & stress 0] 
+patch=1,EE,40214940,extended,00050018
+patch=1,EE,00640000,extended,00000000
+
+[Cheats/Unlock All Gallery]  
+patch=1,EE,20214BA8,extended,FFFF0101
+patch=1,EE,20214BAC,extended,FFFFFFFF
+patch=1,EE,10214BB0,extended,0000FFFF

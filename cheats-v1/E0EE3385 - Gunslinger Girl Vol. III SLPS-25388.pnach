@@ -1,0 +1,47 @@
+[Cheats/Infinite HP]  
+patch=1,EE,20170DB4,extended,00000000
+
+[Cheats/Infinite HP in C Mode Shooting]]  
+patch=1,EE,20170D9C,extended,00000000
+
+[Cheats/Invincible] 
+patch=1,EE,20171984,extended,1000001A
+
+[Cheats/Infinite Ammo Normal Shooting] 
+patch=1,EE,D0342982,extended,0000FBFE
+patch=1,EE,20172618,extended,00000000
+patch=1,EE,D0342982,extended,0000F7FE
+patch=1,EE,20172618,extended,00501023
+
+[Cheats/Infinite Ammo in C Mode Shooting] 
+patch=1,EE,2017A670,extended,00000000
+
+[Cheats/Gun Recoil 0] 
+patch=1,EE,2017818C,extended,00000000
+
+[Cheats/Cannot be hit by normal shooting L1+SELECT Avoid Bullets Cancel R1+SELECT] 
+patch=1,EE,D0342982,extended,0000FBFE
+patch=1,EE,20172618,extended,00000000
+patch=1,EE,D0342982,extended,0000F7FE
+patch=1,EE,20172618,extended,00501023
+
+[Cheats/All Guns level 3] 
+patch=1,EE,2033E064,extended,03030303
+patch=1,EE,2033E068,extended,03030303
+patch=1,EE,2033E06C,extended,03030303
+patch=1,EE,2033E070,extended,03030303
+patch=1,EE,2033E074,extended,03030303
+patch=1,EE,2033E078,extended,03030303
+patch=1,EE,2033E07C,extended,03030303
+patch=1,EE,2033E080,extended,03030303
+
+[Cheats/Unlock All Stages And All Costumes] 
+patch=1,EE,0033E053,extended,0000001C
+patch=1,EE,2033E05C,extended,01010101
+patch=1,EE,2033E060,extended,01010101
+patch=1,EE,2033E548,extended,01010101
+patch=1,EE,2033E54C,extended,01010101
+patch=1,EE,1033E550,extended,00000101
+
+
+

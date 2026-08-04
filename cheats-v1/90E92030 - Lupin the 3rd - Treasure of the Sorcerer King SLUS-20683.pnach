@@ -1,0 +1,21 @@
+[Cheats/Infinite Stamina] 
+patch=1,EE,2028C9F8,extended,000003E8
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,201B883C,extended,000000FF
+
+[Cheats/Infinite Escape Time] 
+patch=1,EE,2028E72C,extended,00000000
+
+[Cheats/Low Danger-O-Meter] 
+patch=1,EE,10163894,extended,00000000
+
+[Cheats/Infinite Dummy Dolls] 
+patch=1,EE,20193508,extended,00000000
+
+[Cheats/Have All Items and Equips] 
+patch=1,EE,20161F78,extended,24A20000
+patch=1,EE,20161F7C,extended,24440000
+patch=1,EE,20161F98,extended,24030001
+patch=1,EE,20161FA0,extended,00000000
+patch=1,EE,20161FA4,extended,A4430050

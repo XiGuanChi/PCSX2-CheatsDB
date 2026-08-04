@@ -1,0 +1,22 @@
+[Cheats/Infinite Lives] 
+patch=1,EE,2012FE70,extended,00000000
+
+[Cheats/0 Gold to get] 
+patch=1,EE,202E80DA,extended,00000000
+
+[Cheats/9999 score] 
+patch=1,EE,201D7BCC,extended,0000270F
+
+[Cheats/Exit appears from the beginning of the level] 
+patch=1,EE,2012A0A8,extended,A44080DA
+patch=1,EE,2012F638,extended,A4C0001A
+
+[Cheats/Boot Into Debug Menu will send you to this screen when first starting the game. This allows you to enter different menus and levels, as well as test memory card functions. This menu is a bit glitchy and generally will not allow you back into the main menu. You will need the code Enable Debug Text to see the debug menu text. The first option in this menu soft locks the game.] 
+patch=1,EE,20104668,extended,0C0408E8
+
+[Cheats/Enable Debug Text] 
+patch=1,EE,201D7B18,extended,00000001
+
+[Cheats/Enable Debug Graph Meter] 
+patch=1,EE,201D7AA4,extended,00000001
+

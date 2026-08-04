@@ -1,0 +1,114 @@
+[Cheats/Infinite Magic] 
+patch=1,EE,201D3E58,extended,00A02023
+
+[Cheats/Field Part Increase Increase By 1 Level With One Successful Conversation Valid only for normal conversations, invalid for conversations during events]  
+patch=1,EE,2017B7E0,extended,00000000 
+
+[Cheats/Negi Current Max Reliability]  
+patch=1,EE,20346000,extended,0001869F 
+
+[Cheats/Negi urrent Physical Strength 99] 
+patch=1,EE,10345FE0,extended,00000063 
+
+[Cheats/Negi Max Physical Strength 99] 
+patch=1,EE,10345FE2,extended,00000063 
+
+[Cheats/Negi Current Magical Power 12]  
+patch=1,EE,10345FEA,extended,0000000C 
+
+[Cheats/Negi Max Magical Power 12] 
+patch=1,EE,10345FEE,extended,0000000C 
+
+[Cheats/Negi Magic Recovery 99] 
+patch=1,EE,10345FF2,extended,00000063 
+
+[Cheats/Negi Magic Attack Power 99] 
+patch=1,EE,10345FF6,extended,00000063 
+
+[Cheats/Negi Magic Resistance 99]  
+patch=1,EE,10345FF8,extended,00000063 
+
+[Cheats/Negi Wind Barrier 99]  
+patch=1,EE,10345FFA,extended,00000063 
+
+[Cheats/Negi Movement Power 99] 
+patch=1,EE,10345FFC,extended,00000063
+
+[Cheats/All Attribute Lists Are Marked With Stars]  
+patch=1,EE,20346010,extended,FFFFFFFF 
+patch=1,EE,20346014,extended,FFFFFFFF 
+patch=1,EE,20346020,extended,FFFFFFFF 
+patch=1,EE,20346024,extended,FFFFFFFF 
+
+[Cheats/All Students Max Intimacy]  
+patch=1,EE,20179844,extended,24010006 
+patch=1,EE,2017985C,extended,A0A10089 
+patch=1,EE,201798C0,extended,A0810089 
+
+[Cheats/All Students Parameters Up Concentration ability , academic ability, your ability to act, sociability, sex appeal, and luck will increase. Some students have lower ceilings] 
+patch=1,EE,201797B4,extended,3C0903E7
+patch=1,EE,201797B8,extended,352903E7 
+patch=1,EE,201797BC,extended,A4A9006A 
+patch=1,EE,201797D0,extended,ACA9006C 
+patch=1,EE,201797D4,extended,AC89006C 
+patch=1,EE,201797D8,extended,ACA90070 
+patch=1,EE,201797DC,extended,ACA90074
+
+[Cheats/All Students Stress 0]  
+patch=1,EE,201768F4,extended,10000077
+patch=1,EE,20176ADC,extended,A4800078
+
+[Cheats/All Students Concentration 999]  
+patch=1,EE,20176904,extended,10000076
+
+[Cheats/All Students Academic Achievement 999] 
+patch=1,EE,20176914,extended,10000075
+
+[Cheats/All Students Ability Action 999] 
+patch=1,EE,20176924,extended,10000074
+
+[Cheats/All Students Sociability 999] 
+patch=1,EE,20176934,extended,10000073
+
+[Cheats/All Students Sex Appeal 999] 
+patch=1,EE,20176944,extended,10000072
+
+[Cheats/All Students Luck 999] 
+patch=1,EE,20176964,extended,10000070
+
+[Cheats/All Class Commands]  
+patch=1,EE,20346030,extended,FFFFFFFF 
+patch=1,EE,20346038,extended,FFFFFFFF 
+patch=1,EE,2034603C,extended,FFFFFFFF 
+
+[Cheats/All Magic Commands Stars Lit] 
+patch=1,EE,20346048,extended,FFFFFFFF
+
+[Cheats/All Episodes Stars Lit This will affect the scenario] 
+patch=1,EE,10346050,extended,0000FFFF
+
+[Cheats/Unlock All Album]  
+patch=1,EE,4033A7D0,extended,00400001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,0033A8D0,extended,00000001
+
+[Cheats/Unlock All Happening] 
+patch=1,EE,4033A8E0,extended,00060001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,1033A8DE,extended,00000101
+patch=1,EE,2033A8F8,extended,FF010101
+
+[Cheats/Enable Debug Menus Press  L1+Circle until the menu appears on-screen Lek Title Sends you to the title screen. Lek End	Sends you to the end credits. Main Start Starts the game normally.Event Test Allows you to view any event in the game.Map Sends you to the world map.] 
+patch=1,EE,D03403DC,extended,0000DBFF
+patch=1,EE,00236F68,extended,00000026
+patch=1,EE,D03403DC,extended,0000DBFF
+patch=1,EE,10236F70,extended,00003C90
+patch=1,EE,D03403DC,extended,0000DEFF
+patch=1,EE,00236F68,extended,00000026
+patch=1,EE,D03403DC,extended,0000DEFF
+patch=1,EE,10236F70,extended,00003D00
+patch=1,EE,D03403DC,extended,0000FFFF
+patch=1,EE,00236F68,extended,00000027
+patch=1,EE,D03403DC,extended,0000FFFF
+patch=1,EE,10236F70,extended,0000DB20
+

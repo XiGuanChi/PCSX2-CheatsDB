@@ -1,0 +1,35 @@
+[Cheats/Activate Cheat Codes Fast Construction] 
+patch=1,EE,2041F5E8,extended,00000001
+
+[Cheats/Activate Cheat Codes Replay All Missions]  
+patch=1,EE,2041F8F4,extended,00000001
+
+[Cheats/Activate Cheat Codes See All Enemies On Map] 
+patch=1,EE,2041F85C,extended,00000001
+
+[Cheats/Infinite Health Starting Units] 
+patch=1,EE,2023E9E0,extended,3C01461C
+patch=1,EE,2023E9E8,extended,AE4102C0
+
+[Cheats/Max CP] 
+patch=1,EE,200C0220,extended,3C014974
+patch=1,EE,200C0224,extended,342123F0
+patch=1,EE,200C0228,extended,AC810280
+patch=1,EE,200C022C,extended,08084D17
+patch=1,EE,200C0230,extended,C4800280
+patch=1,EE,20213458,extended,08030088
+
+[Cheats/Max Popularity] 
+patch=1,EE,200C0240,extended,3C0142C8
+patch=1,EE,200C0244,extended,AC81027C
+patch=1,EE,200C0248,extended,08084D15
+patch=1,EE,200C024C,extended,C480027C
+patch=1,EE,20213450,extended,08030090
+
+[Cheats/P1 Quick Win pause the game, highlight Resume Game Hold Square & Press X to instantly win the level] 
+patch=1,EE,D04FCD02,extended,00003FFF
+patch=1,EE,202B7D28,extended,24020001
+patch=1,EE,D04FCD02,extended,0000FFFF
+patch=1,EE,202B7D28,extended,00000000
+
+

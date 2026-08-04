@@ -1,0 +1,45 @@
+[Cheats/Max Money] 
+patch=1,EE,202DB810,extended,05F5E0FF
+
+[Cheats/Infinite Items] 
+patch=1,EE,201DC220,extended,24420000
+patch=1,EE,201DC340,extended,24630000
+
+[Cheats/All Items] 
+patch=1,EE,402E1068,extended,00100001
+patch=1,EE,11111111,extended,00000000
+
+[Cheats/All Titles] 
+patch=1,EE,402E10BC,extended,00180001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Gallery, Theater and Chat] 
+patch=1,EE,402E1168,extended,00060001
+patch=1,EE,11111111,extended,00000000
+
+[Cheats/Unlock All Gallery] 
+patch=1,EE,202E1128,extended,01010101
+patch=1,EE,202E112C,extended,01010101
+patch=1,EE,202E1130,extended,01010101
+patch=1,EE,202E1134,extended,01010101
+patch=1,EE,202E1138,extended,00010101
+
+[Cheats/Unlock All Theater] 
+patch=1,EE,402E1180,extended,00120001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock Donjara Mode All Characters]
+patch=1,EE,202E1454,extended,FFFFFFFF
+
+[Cheats/Unlock Donjara Mode All Role List]  
+patch=1,EE,202E1458,extended,FFFFFFFF
+patch=1,EE,202E145C,extended,FFFFFFFF
+patch=1,EE,202E1460,extended,FFFFFFFF
+patch=1,EE,202E1464,extended,FFFFFFFF
+
+[Cheats/Casino Success Even Choose A Double Up One Of Black Jack] 
+patch=1,EE,2015E368,extended,24020001
+
+[Cheats/Sniper Not Damage] 
+patch=1,EE,201DD188,extended,10000036
+

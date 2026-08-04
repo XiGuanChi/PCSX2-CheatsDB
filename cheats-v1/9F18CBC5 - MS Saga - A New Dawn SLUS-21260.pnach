@@ -1,0 +1,89 @@
+[Cheats/Infinite Money] 
+patch=1,EE,11FDD000,extended,0000FFFF
+
+[Cheats/Character 1 Infinite HP In Battle] 
+patch=1,EE,11FDDB94,extended,0000270F
+
+[Cheats/Character 1 Infinite TP In Battle] 
+patch=1,EE,11FDDB92,extended,000003E7
+
+[Cheats/Character 1 Infinite EN In Battle] 
+patch=1,EE,01FDDB91,extended,00000063
+
+[Cheats/Character 2 Infinite HP In Battle] 
+patch=1,EE,11FDDBA0,extended,0000270F
+
+[Cheats/Character 2 Infinite TP In Battle] 
+patch=1,EE,11FDDB9E,extended,000003E7
+
+[Cheats/Character 2 Infinite EN In Battle] 
+patch=1,EE,01FDDB9D,extended,00000063
+
+[Cheats/Character 3 Infinite HP In Battle] 
+patch=1,EE,11FDDBAC,extended,0000270F
+
+[Cheats/Character 3 Infinite TP In Battle] 
+patch=1,EE,11FDDBAA,extended,000003E7
+
+[Cheats/Character 3 Infinite EN In Battle] 
+patch=1,EE,01FDDBAB,extended,00000063
+
+[Cheats/Character 4 Infinite HP In Battle] 
+patch=1,EE,11FDDBB8,extended,0000270F
+
+[Cheats/Character 4 Infinite TP In Battle] 
+patch=1,EE,11FDDBB6,extended,000003E7
+
+[Cheats/Character 4 Infinite EN In Battle] 
+patch=1,EE,01FDDBB5,extended,00000063
+
+[Cheats/Character 5 Infinite HP In Battle] 
+patch=1,EE,11FDDBC4,extended,0000270F
+
+[Cheats/Character 5 Infinite TP In Battle] 
+patch=1,EE,11FDDBC2,extended,000003E7
+
+[Cheats/Character 5 Infinite EN In Battle] 
+patch=1,EE,01FDDBC1,extended,00000063
+
+[Cheats/Character 6 Infinite HP In Battle] 
+patch=1,EE,11FDDBD0,extended,0000270F
+
+[Cheats/Character 6 Infinite TP In Battle] 
+patch=1,EE,11FDDBCE,extended,000003E7
+
+[Cheats/Character 6 Infinite EN In Battle] 
+patch=1,EE,01FDDBCD,extended,00000063
+
+[Cheats/Gain 1 EXP For Level 50] 
+patch=1,EE,403B7438,extended,00310001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Mobile Suit 1 Max Mod Lvl]  
+patch=1,EE,01FDEDBC,extended,00000063
+
+[Cheats/Mobile Suit 1 Max EN] 
+patch=1,EE,01FDEDBD,extended,00000063
+
+[Cheats/Mobile Suit 1 Max HP]  
+patch=1,EE,11FDEDBE,extended,0000270F
+
+[Cheats/Mobile Suit 1 Max MEL] 
+patch=1,EE,11FDEDC0,extended,000003E7
+
+[Cheats/Mobile Suit 1 Max RNG] 
+patch=1,EE,11FDEDC2,extended,000003E7
+
+[Cheats/Mobile Suit 1 Max AMR] 
+patch=1,EE,11FDEDC4,extended,000003E7
+
+[Cheats/Mobile Suit 1 Max SPD] 
+patch=1,EE,11FDEDC6,extended,000003E7
+
+[Cheats/P1 Press L1+Select To Stop Game Timer] 
+patch=1,EE,D04386C2,extended,0000FBFE
+patch=1,EE,003C9B04,extended,00000000
+
+[Cheats/P1 Press L2+Select To Restart Game Timer] 
+patch=1,EE,D04386C2,extended,0000FEFE
+patch=1,EE,003C9B04,extended,00000001

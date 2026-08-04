@@ -1,0 +1,80 @@
+[Cheats/Training Mode Player 1 Full Special Energy Press L3] 
+patch=1,EE,E001fffd,extended,003ba2c2
+patch=1,EE,01bf0c38,extended,00000064
+
+[Cheats/Training Mode Player 1 Full Power Press L3] 
+patch=1,EE,E002fffd,extended,003ba2c2
+patch=1,EE,11bf0c28,extended,0000270f
+patch=1,EE,11bf0c2c,extended,0000270f
+
+[Cheats/Story Mode Player 1 Full Special Energy Press L3] 
+patch=1,EE,E001fffd,extended,003ba2c2
+patch=1,EE,01bf0c98,extended,00000064
+
+[Cheats/Story Mode Player 1 Full Power Press L3] 
+patch=1,EE,E002fffd,extended,003ba2c2
+patch=1,EE,11bf0c88,extended,0000270f
+patch=1,EE,11bf0c8c,extended,0000270f
+
+[Cheats/1P Infinite Health MISSION 1 Press L3+R3] 
+patch=1,EE,D03BA2C2,extended,0000FFF9
+patch=1,EE,11BF0C88,extended,0000270F
+patch=1,EE,D03BA2C2,extended,0000FFF9
+patch=1,EE,11CF1AFC,extended,0000270F
+
+[Cheats/1P Infinite Health MISSION 2 Press L2+R2] 
+patch=1,EE,D03BA2C2,extended,0000FCFF
+patch=1,EE,11BF0C58,extended,0000270F
+patch=1,EE,D03BA2C2,extended,0000FCFF
+patch=1,EE,11CF21DC,extended,0000270F
+
+[Cheats/KO MISSION 1 Press R1+R2] 
+patch=1,EE,D03BA2C2,extended,0000F5FF
+patch=1,EE,01C246D0,extended,00000000
+
+[Cheats/KO MISSION 2 Press R1+R3] 
+patch=1,EE,D03BA2C2,extended,0000F7FB
+patch=1,EE,01C238C0,extended,00000000
+
+[Cheats/KO MISSION 3 Press SELECT+R1] 
+patch=1,EE,D03BA2C2,extended,0000FDFE
+patch=1,EE,01C23430,extended,00000000
+
+[Cheats/KO MISSION 4 Press SELECT+L2] 
+patch=1,EE,D03BA2C2,extended,0000FEFE
+patch=1,EE,01C24D90,extended,00000000
+
+[Cheats/KO MISSION 5 Press SELECT+R2] 
+patch=1,EE,D03BA2C2,extended,0000F7FE
+patch=1,EE,01C234D0,extended,00000000
+
+[Cheats/KO MISSION 6 Press SELECT+R3] 
+patch=1,EE,D03BA2C2,extended,0000FFFB
+patch=1,EE,01C272D0,extended,00000000
+
+[Cheats/Have All 64 Items x9] 
+patch=1,EE,403bc6f4,extended,00100001
+patch=1,EE,09090909,extended,00000000
+
+[Cheats/Unlock All Bonus] 
+patch=1,EE,003BBDF0,extended,000000FF
+patch=1,EE,003BBDF4,extended,000000FF
+patch=1,EE,003BBDE4,extended,000000FF
+patch=1,EE,003BBDF8,extended,000000FF
+patch=1,EE,403BC578,extended,002F0001
+patch=1,EE,000000FF,extended,00000000
+patch=1,EE,403BC678,extended,00140001
+patch=1,EE,000000FF,extended,00000000
+
+[Cheats/Enable Debug Menu Viewer Menu]
+patch=1,EE,20100340,extended,0C04D7CE
+
+[Cheats/Enable Debug Menu Sound Menu]  
+patch=1,EE,20100340,extended,0C074DF8
+
+[Cheats/Enable Movie Menu]  
+patch=1,EE,20100340,extended,0C076D88
+
+
+
+

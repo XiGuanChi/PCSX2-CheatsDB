@@ -1,0 +1,91 @@
+[Cheats/Max Health] 
+patch=1,EE,20178D34,extended,28610000
+patch=1,EE,20178D3C,extended,240327BC
+
+[Cheats/Max Strength] 
+patch=1,EE,20178DB4,extended,28610000
+patch=1,EE,20178DBC,extended,240327BC
+
+[Cheats/Max Agile] 
+patch=1,EE,20178E34,extended,28610000
+patch=1,EE,20178E3C,extended,240327BC
+
+[Cheats/Max Trust] 
+patch=1,EE,20178EF0,extended,28610000
+
+[Cheats/Max Fame] 
+patch=1,EE,20178F34,extended,28610000
+
+[Cheats/999 People Knocked Down And Your Strength Will Be Improved] 
+patch=1,EE,20343678,extended,000003E7
+
+[Cheats/Equipped With Max skill Level To Use] 
+patch=1,EE,20178EA4,extended,28610000
+
+[Cheats/In Mission Player Infinite Health Not compatible with companions operating COM. If you receive more damage than your maximum health, you will die.]
+patch=1,EE,20190DA0,extended,868301D2
+patch=1,EE,20190DA8,extended,A68301CE
+
+[Cheats/In Mission Player Number Of Subjugation 999] 
+patch=1,EE,1048F430,extended,000003E7
+
+[Cheats/In Mission Player No Beed To Reload Gun] 
+patch=1,EE,201C9388,extended,24020001
+patch=1,EE,201C938C,extended,AEA20098
+patch=1,EE,201C9390,extended,1000000A
+
+[Cheats/In Mission Player Infinite Ammo Gun] 
+patch=1,EE,201C903C,extended,24040063
+patch=1,EE,201C9040,extended,AC44008C
+
+[Cheats/In Mission Companion Infinite Health]
+patch=1,EE,201CA350,extended,866301D2
+patch=1,EE,201CA358,extended,A66301CE
+patch=1,EE,201CA364,extended,44831000
+
+[Cheats/In Mission Companion Infinite Link Gauge]  
+patch=1,EE,201CA5A8,extended,AE820020
+
+[Cheats/In Mission Companion Infinite Ammo Gun]  
+patch=1,EE,201A1790,extended,00000000
+patch=1,EE,201A17B4,extended,00000000
+
+[Cheats/Unlock All Characters In Battle & Challenge Mode] 
+patch=1,EE,2048E054,extended,FFFFFFFF
+patch=1,EE,2048E058,extended,FFFFFFFF
+patch=1,EE,2048E05C,extended,FFFFFFFF
+patch=1,EE,2048E060,extended,FFFFFFFF
+patch=1,EE,2048E064,extended,FFFFFFFF
+patch=1,EE,2048E068,extended,FFFFFFFF
+
+[Cheats/Unlock All Great Heroes]  
+patch=1,EE,2048F404,extended,00000000
+patch=1,EE,2048F408,extended,00000000
+patch=1,EE,2048F40C,extended,00000000
+
+[Cheats/Unlock All Disclosure when viewing the person directory]  
+patch=1,EE,2022D2E4,extended,24030001
+patch=1,EE,2022D2E8,extended,A0A33C04
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,2048E030,extended,01010101
+patch=1,EE,2048E034,extended,01010101
+patch=1,EE,2048E038,extended,01010101
+patch=1,EE,2048E03C,extended,01010101
+patch=1,EE,2048E040,extended,01010101
+patch=1,EE,2048E044,extended,01010101
+patch=1,EE,2048E048,extended,01010101
+patch=1,EE,0048E04E,extended,00000001
+patch=1,EE,1048E04C,extended,00000101
+patch=1,EE,1048E02E,extended,00000101
+
+[Cheats/Unlock All History Timeline] 
+patch=1,EE,2048E00C,extended,FFFFFFFF
+patch=1,EE,2048E010,extended,FFFFFFFF
+patch=1,EE,2048E014,extended,FFFFFFFF
+patch=1,EE,2048E018,extended,FFFFFFFF
+patch=1,EE,2048E01C,extended,FFFFFFFF
+patch=1,EE,2048E020,extended,FFFFFFFF
+patch=1,EE,2048E024,extended,FFFFFFFF
+patch=1,EE,2048E028,extended,FFFFFFFF
+patch=1,EE,1048E02C,extended,0000FFFF

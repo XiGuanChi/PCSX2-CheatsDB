@@ -1,0 +1,42 @@
+[Cheats/Lilie - Currently HP] 
+patch=1,EE,106EE7B4,extended,00000000
+
+[Cheats/Lilie - Max HP] 
+patch=1,EE,106EE7B6,extended,00000000
+
+[Cheats/Lilie - Current MP] 
+patch=1,EE,106EE7B8,extended,00000000
+
+[Cheats/Lilie - Maximum MP] 
+patch=1,EE,106EE7BA,extended,00000000
+
+[Cheats/Adventurers LV] 
+patch=1,EE,106EE7BC,extended,00000000
+
+[Cheats/Adventurers EX] 
+patch=1,EE,106EE7BE,extended,00000000
+
+[Cheats/Physical Attack] 
+patch=1,EE,106EE7C0,extended,00000000
+
+[Cheats/Physical Defense] 
+patch=1,EE,106EE7C2,extended,00000000
+
+[Cheats/Magic Attack] 
+patch=1,EE,106EE7C4,extended,00000000
+
+[Cheats/Magic defense force] 
+patch=1,EE,106EE7C6,extended,00000000
+
+[Cheats/Rapidity] 
+patch=1,EE,106EE7C8,extended,00000000
+
+[Cheats/Charge] 
+patch=1,EE,106EE7CA,extended,00000000
+
+[Cheats/Hold START Button When Opening Movie Is Playing For Debug Menu Debug Mode HIGDON Selecting ipu view all of the background images Selecting movie will allow you to watch all the movies in the game.Event view all of the event cutscenes QV will allow you to jump to all the town maps in the game. Selecting QvPreview will take you to map specific cutscenes KONISHI map select tools, memory card viewer, and bonus menu debug] 
+patch=1,EE,D08BEF90,extended,0000FFF7
+patch=1,EE,201E20EC,extended,08097A2C
+patch=1,EE,D08BEF90,extended,0000FFFF
+patch=1,EE,201E20EC,extended,080789FA
+

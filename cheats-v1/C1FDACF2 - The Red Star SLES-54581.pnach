@@ -1,0 +1,21 @@
+[Cheats/Infinite HP Both Players] 
+patch=1,EE,200A0000,extended,E4610014
+patch=1,EE,200A0004,extended,08084621
+patch=1,EE,200A0008,extended,C4600014
+patch=1,EE,20211880,extended,08028000
+
+[Cheats/Free Upgrades buy them even with no money] 
+patch=1,EE,20185998,extended,24030000
+patch=1,EE,201829B4,extended,24030000
+
+[Cheats/Gun Never OverHeating] 
+patch=1,EE,2020F610,extended,E61F0408
+
+[Cheats/Shield Never Overheats] 
+patch=1,EE,20211378,extended,E61F08E0
+
+[Cheats/Unlock All Secrets] 
+patch=1,EE,40845CB4,extended,000F0002
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,40845E54,extended,000F0002
+patch=1,EE,00000001,extended,00000000

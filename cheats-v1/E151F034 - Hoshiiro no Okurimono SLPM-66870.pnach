@@ -1,0 +1,29 @@
+[Cheats/Unlock Add Memories & All Your Profile] 
+patch=1,EE,20D4D12C,extended,00000001
+patch=1,EE,20D4D130,extended,00000001
+patch=1,EE,20D4D134,extended,00000001
+patch=1,EE,20D4D138,extended,00000001
+patch=1,EE,20D4D13C,extended,00000001
+patch=1,EE,20D4D140,extended,00000001
+patch=1,EE,20D4D144,extended,00000001
+patch=1,EE,20D4D148,extended,00000001
+patch=1,EE,20D4D14C,extended,00000001
+patch=1,EE,20D4D150,extended,00000001
+patch=1,EE,20D4D154,extended,00000001
+
+[Cheats/Unlock All Album]  
+patch=1,EE,20D4D06C,extended,FFFFFFFF
+patch=1,EE,20D4D070,extended,FFFFFFFF
+patch=1,EE,20D4D074,extended,FFFFFFFF
+
+[Cheats/Unlock Full Scenario Recollection] 
+patch=1,EE,20D4D07C,extended,FFFFFFFF
+patch=1,EE,20D4D080,extended,FFFFFFFF
+patch=1,EE,20D4D084,extended,FFFFFFFF
+patch=1,EE,20D4D088,extended,FFFFFFFF
+patch=1,EE,20D4D08C,extended,FFFFFFFF
+patch=1,EE,20D4D090,extended,FFFFFFFF
+
+[Cheats/New Game - Debug Menu This lets you choose scenes to view. The right most options don't work anymore. ]
+patch=1,EE,20204520,extended,55424544
+patch=1,EE,20204524,extended,00000047

@@ -1,0 +1,29 @@
+[Cheats/Never Infected] 
+patch=1,EE,204C69D4,extended,00000000
+
+[Cheats/Infinite Health] 
+patch=1,EE,2051D194,extended,42C80000
+patch=1,EE,204C6350,extended,08FC08FC
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,205D0D88,extended,24820000
+
+[Cheats/Virus infection percentage does not increase over time] 
+patch=1,EE,D068D1D0,extended,0000202D
+patch=1,EE,2068D1DC,extended,00000000
+
+[Cheats/Virus infection percentage does not increase when attacked] 
+patch=1,EE,D0684F48,extended,00001021
+patch=1,EE,20684F50,extended,00000000
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,2030022C,extended,FFFFFFFF
+
+[Cheats/Unlock NPC characters 1] 
+patch=1,EE,202feeb0,extended,88888888
+
+[Cheats/Unlock NPC characters 2] 
+patch=1,EE,202feeb0,extended,80808080
+
+[Cheats/Unlock NPC characters 3] 
+patch=1,EE,202feeb0,extended,01020408

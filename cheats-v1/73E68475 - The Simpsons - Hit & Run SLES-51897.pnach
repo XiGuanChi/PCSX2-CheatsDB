@@ -1,0 +1,18 @@
+[Cheats/Freeze Timers] 
+patch=1,EE,20173F14,extended,00000000
+
+[Cheats/Infinite Money 999999] 
+patch=1,EE,205E8BFC,extended,000F423F
+
+[Cheats/Unlock All Chapters] 
+patch=1,EE,20425EF4,extended,000000FF
+
+[Cheats/Have All Levels Complete] 
+patch=1,EE,005E8B70,extended,00000006
+patch=1,EE,005E8B74,extended,00000006
+
+[Cheats/Character Modifier Press Square] 
+patch=1,EE,20107FC8,extended,24020001
+
+[Cheats/Disable Car Damage] 
+patch=1,EE,2028AD3C,extended,24020001

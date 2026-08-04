@@ -1,0 +1,24 @@
+[Cheats/Left side 1P L2+SELECT+Up Max Health L2+SELECT+ Down 0 Health]  
+patch=1,EE,D06B784C,extended,00000411
+patch=1,EE,20400C84,extended,453B8000
+patch=1,EE,D06B784C,extended,00000441
+patch=1,EE,20400C84,extended,00000000
+
+[Cheats/Right Side 1P L2+SELECT+Up Max Health L2+SELECT+ Down 0 Health ] 
+patch=1,EE,D06B784C,extended,00000111
+patch=1,EE,2040ACD4,extended,453B8000
+patch=1,EE,D06B784C,extended,00000141
+patch=1,EE,2040ACD4,extended,00000000
+
+[Cheats/Dragon World 99,999,900 Zenny]  
+patch=1,EE,206AB638,extended,05F5E09C
+
+[Cheats/Dragon World Son Goku Life Points 5] 
+patch=1,EE,006B3705,extended,00000005
+
+[Cheats/Dragon World Son Goku Attack Power 999] 
+patch=1,EE,106B3714,extended,000003E7
+
+[Cheats/Dragon World Son Goku Defense Power 999] 
+patch=1,EE,106B3716,extended,000003E7
+

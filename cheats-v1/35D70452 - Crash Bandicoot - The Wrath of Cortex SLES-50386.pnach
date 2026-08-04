@@ -1,0 +1,25 @@
+[Cheats/Infinite Lives] 
+patch=1,EE,20632038,extended,00630063
+
+[Cheats/Invincibility] 
+patch=1,EE,20630C28,extended,00000001
+
+[Cheats/Unlock All Moves and Powers] 
+patch=1,EE,20630C34,extended,00000001
+
+[Cheats/Unlock All Areas] 
+patch=1,EE,1058B11C,extended,000000FF
+patch=1,EE,1058B120,extended,000000FF
+patch=1,EE,1058B124,extended,000000FF
+patch=1,EE,1058B128,extended,000000FF
+patch=1,EE,1058B12C,extended,000000FF
+
+[Cheats/Debug Menu Main Menu Press R2] 
+patch=1,EE,E0020001,extended,0062FB4C
+patch=1,EE,D1D3FDAA,extended,0000FDFF
+patch=1,EE,20591FDC,extended,FF090A00
+
+[Cheats/Cutscene Debugger Press L1]
+patch=1,EE,E0020001,extended,0062FB4C
+patch=1,EE,D1D3FDAA,extended,0000FBFF
+patch=1,EE,20591FDC,extended,FF0D0400

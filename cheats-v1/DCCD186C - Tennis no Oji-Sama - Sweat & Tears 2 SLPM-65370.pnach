@@ -1,0 +1,78 @@
+[Cheats/Max Money]  
+patch=1,EE,200F4004,extended,AC4400A8
+
+[Cheats/Max AF Australian Formation] 
+patch=1,EE,200F4034,extended,AC440088
+
+[Cheats/Max Stats 998] 
+patch=1,EE,200F4000,extended,340426FC
+patch=1,EE,200F4038,extended,03E00008
+patch=1,EE,20179C90,extended,0803D000
+
+[Cheats/Max Physical Condition] 
+patch=1,EE,200F4030,extended,AC440038
+
+[Cheats/Max Physical Fitness] 
+patch=1,EE,200F400C,extended,AC440050
+
+[Cheats/Max Mental Strength] 
+patch=1,EE,200F4014,extended,AC440058
+
+[Cheats/Max Power] 
+patch=1,EE,200F4020,extended,AC440068
+
+[Cheats/Max Instantaneous Power] 
+patch=1,EE,200F4018,extended,AC440060
+
+[Cheats/Max Technical Capabilities] 
+patch=1,EE,200F402C,extended,AC440070
+
+[Cheats/Max Knowledge] 
+patch=1,EE,200F401C,extended,AC440070
+
+[Cheats/Max Academic Ability] 
+patch=1,EE,200F4024,extended,AC4400B0
+
+[Cheats/Max Cooking] 
+patch=1,EE,200F4028,extended,AC4400B8
+
+[Cheats/Max Look] 
+patch=1,EE,200F4008,extended,AC4400C0
+
+[Cheats/Ranking 1st Place]  
+patch=1,EE,01863178,extended,0000000A
+
+[Cheats/Money 998]  
+patch=1,EE,11863148,extended,000026FC
+
+[Cheats/Physical Condition 998] 
+patch=1,EE,118630D8,extended,000026FC
+
+[Cheats/Physical Strength 998]  
+patch=1,EE,118630F0,extended,000026FC
+
+[Cheats/Cooking 998]  
+patch=1,EE,118630F8,extended,000026FC
+
+[Cheats/Looks 998] 
+patch=1,EE,11863160,extended,000026FC
+
+[Cheats/Academic Ability 998]  
+patch=1,EE,11863150,extended,000026FC
+
+[Cheats/Mental Power 998]  
+patch=1,EE,11863158,extended,000026FC
+
+[Cheats/Instant Power 998] 
+patch=1,EE,11863100,extended,000026FC
+
+[Cheats/Power 998]  
+patch=1,EE,11863108,extended,000026FC
+
+[Cheats/Technical Ability 998] 
+patch=1,EE,11863110,extended,000026FC
+
+[Cheats/Knowledge 998]  
+patch=1,EE,11863118,extended,000026FC
+
+

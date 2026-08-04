@@ -1,0 +1,18 @@
+[Cheats/99 Lives]  
+patch=1,EE,20171300,extended,24030064
+
+[Cheats/Invincibility Hold Select to disable] 
+patch=1,EE,20137674,extended,24020006
+patch=1,EE,D0BB0582,extended,0000FFFE
+patch=1,EE,20137674,extended,8E620014
+
+[Cheats/Start at Iceberg Lab Use this code on a New Game and save] 
+patch=1,EE,1030BB00,extended,000026A0
+
+[Cheats/Unlock 100% Game] 
+patch=1,EE,0098C637,extended,00000063
+patch=1,EE,4098C664,extended,00100001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+
+

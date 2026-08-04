@@ -1,0 +1,31 @@
+[Cheats/Max BP After Variation BP 999999] 
+patch=1,EE,201E4E8C,extended,00000000
+
+[Cheats/Story Battle total score 99999] 
+patch=1,EE,20142758,extended,34A5000F
+
+[Cheats/1P DF 9999] 
+patch=1,EE,203F5DAC,extended,0000270F
+
+[Cheats/1P EN Resilience 999] 
+patch=1,EE,203F5DC4,extended,000003E7
+
+[Cheats/HP 10000 1P] 
+patch=1,EE,203F5DA0,extended,00002710
+patch=1,EE,203F5DA4,extended,00002710
+
+[Cheats/EN 10000 1P] 
+patch=1,EE,203F5DB4,extended,00002710
+patch=1,EE,203F5DB8,extended,00002710
+
+[Cheats/Press SELECT HP 99999] 
+patch=1,EE,D02E1E7C,extended,00000100
+patch=1,EE,203F5DA0,extended,0001869F
+patch=1,EE,D02E1E7C,extended,00000100
+patch=1,EE,203F5DA4,extended,0001869
+
+[Cheats/Press L2+R2 Enemy HP 0] 
+patch=1,EE,D02E1E7C,extended,00000003
+patch=1,EE,203F72B0,extended,00000000
+patch=1,EE,D02E1E7C,extended,00000003
+patch=1,EE,203F87C0,extended,00000000

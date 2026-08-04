@@ -1,0 +1,66 @@
+[Cheats/Infinite C's] 
+patch=1,EE,20218A80,extended,05F5E0FF
+
+[Cheats/P1 Max Score] 
+patch=1,EE,2043D6D8,extended,0098967F
+
+[Cheats/Characters Always Have Full Power Swing Bar] 
+patch=1,EE,200C2000,extended,3C1B3F80
+patch=1,EE,200C2004,extended,449B0000
+patch=1,EE,200C2008,extended,E6800008
+patch=1,EE,200C200C,extended,08052B96
+patch=1,EE,2014AE54,extended,08030800
+
+[Cheats/Player 1 Only One Shot Recorded] 
+patch=1,EE,2043D670,extended,00000000
+
+[Cheats/Press L3 For Always 1st Shot] 
+patch=1,EE,D03AF1C2,extended,0000FFFD
+patch=1,EE,1043D670,extended,00000000
+
+[Cheats/Have Frogs In Stock Skitter] 
+patch=1,EE,00218A19,extended,00000001
+
+[Cheats/Have Frogs In Stock Sebastion] 
+patch=1,EE,00218A1A,extended,00000003
+
+[Cheats/Have Frogs In Stock Slugger] 
+patch=1,EE,00218A1B,extended,00000003
+
+[Cheats/Have Frogs In Stock Pouncer] 
+patch=1,EE,00218A1C,extended,00000003
+
+[Cheats/Have Frogs In Stock Dipsy] 
+patch=1,EE,00218A1D,extended,00000003
+
+[Cheats/Have Frogs In Stock Li'l Lunk] 
+patch=1,EE,00218A1E,extended,00000003
+
+[Cheats/Have Frogs In Stock Binky] 
+patch=1,EE,00218A1F,extended,00000003
+
+[Cheats/Have Frogs In Stock Wadsworth] 
+patch=1,EE,00218A20,extended,00000003
+
+[Cheats/Have Frogs In Stock Snakey] 
+patch=1,EE,00218A21,extended,00000003
+
+[Cheats/Have Frogs In Stock Atom] 
+patch=1,EE,00218A22,extended,00000003
+
+[Cheats/Have Frogs In Stock Flippy] 
+patch=1,EE,00218A23,extended,00000003
+
+[Cheats/Have Frogs In Stock Fly Guy] 
+patch=1,EE,00218A24,extended,00000003
+
+[Cheats/Have Frogs In Stock Scrappy] 
+patch=1,EE,00218A25,extended,00000003
+
+[Cheats/Max Items In Stock All Items] 
+patch=1,EE,10218A2E,extended,00006363
+patch=1,EE,40218A30,extended,00040001
+patch=1,EE,63636363,extended,00000000
+
+[Cheats/Unlock All Movies]  
+patch=1,EE,202785CC,extended,FFFFFFFF

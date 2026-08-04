@@ -1,0 +1,6 @@
+[Cheats/Unlock All Extra] 
+patch=1,EE,10AAA142,extended,0000FFFF
+patch=1,EE,20AAA144,extended,FFFFFFFF
+
+[Cheats/Replace New Game With Debug Menu]Scenario	Sends you to a list of story related scenes to choose from. Character Allows you to view all of the character portraits. BG Allows you to view all of the background images. Event Allows you to view all of the event images in the game. BGM Doesn't work anymore. SE	Goes through all of the SFX. Effect Sends you to a menu where you can test screen effects. Movie This would play movies, however it doesn't appear to work. SAVE Sends you to the save menu. System Flag	Unlocks everything in the game when selected] 
+patch=1,EE,0014C314,extended,00000000

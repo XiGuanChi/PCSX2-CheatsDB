@@ -1,0 +1,16 @@
+[Cheats/Infinite Credits] 
+patch=1,EE,202885BC,extended,00000000
+
+[Cheats/Infinite Lives Both Players] 
+patch=1,EE,20287C3C,extended,00000000
+
+[Cheats/Invincible Both Players] 
+patch=1,EE,102C725E,extended,00001000
+
+[Cheats/Invincible to Enemies and Walls] 
+patch=1,EE,002A5B08,extended,24020000
+patch=1,EE,002A6A5C,extended,24020000
+
+[Cheats/Unlock All Stage Select Levels] 
+patch=1,EE,103C2938,extended,0000FFFF
+patch=1,EE,003C293A,extended,000000F

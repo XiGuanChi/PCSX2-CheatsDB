@@ -1,0 +1,24 @@
+[Cheats/Infinite Health All Characters] 
+patch=1,EE,406F3AC4,extended,0003001E
+patch=1,EE,435B7B7F,extended,00000000
+patch=1,EE,206F3C2C,extended,43F96000
+
+[Cheats/Infinite Cosmic Energy All Characters ] 
+patch=1,EE,41CBD1A0,extended,0004001C
+patch=1,EE,00000006,extended,00000000
+
+[Cheats/Level 99 All Characters] 
+patch=1,EE,41CBD1B0,extended,0004001C
+patch=1,EE,00000062,extended,00000000
+
+[Cheats/Infinite Tokens] 
+patch=1,EE,0040CB80,extended,00000063
+
+[Cheats/Infinite Token Usage] 
+patch=1,EE,2011EB00,extended,00000000
+
+[Cheats/Extra Tokens] 
+patch=1,EE,2011EAF8,extended,00621021
+
+[Cheats/Unlock All Unlockables] 
+patch=1,EE,2040CB94,extended,FFFFFFFF

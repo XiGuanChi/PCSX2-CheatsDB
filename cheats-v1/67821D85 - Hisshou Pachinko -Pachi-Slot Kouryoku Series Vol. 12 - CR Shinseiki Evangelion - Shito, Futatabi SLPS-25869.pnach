@@ -1,0 +1,11 @@
+[Cheats/Normal Research Number Of Balls 9999999]  
+patch=1,EE,20467F78,extended,0098967F
+
+[Cheats/Normal Research Investment Amount 9999999G] 
+patch=1,EE,20467FE0,extended,0098967F
+
+[Cheats/Normal Research Probability Of Winning Jackpot is 1-1 Probability of winning increases. Not reflected in data display] 
+patch=1,EE,0048C854,extended,00000007
+
+[Cheats/Normal Research Probability Of Winning Jackpot is 1-1 When Changing Probability of winning increases. Not reflected in data display] 
+patch=1,EE,0048C858,extended,00000007

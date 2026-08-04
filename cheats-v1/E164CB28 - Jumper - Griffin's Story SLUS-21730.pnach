@@ -1,0 +1,25 @@
+[Cheats/Infinite HP] 
+patch=1,EE,200A0038,extended,AC460000
+
+[Cheats/Infinite Action Bar] 
+patch=1,EE,200A003C,extended,AC460008
+
+[Cheats/Infinite Health]  
+patch=1,EE,200C0040,extended,3C014302
+patch=1,EE,200C0044,extended,8CA30004
+patch=1,EE,200C0048,extended,AC610000
+
+[Cheats/Infinite Special Meter]  
+patch=1,EE,200C004C,extended,8CA30004
+patch=1,EE,200C0050,extended,3C0142C8
+patch=1,EE,200C0054,extended,AC610008
+
+[Cheats/Infinite Grenades]  
+patch=1,EE,200C0058,extended,8CA30020
+patch=1,EE,200C005C,extended,3C014040
+patch=1,EE,200C0060,extended,AC610000
+
+[Cheats/Infinite Flamethrower]  
+patch=1,EE,200C0064,extended,8CA30020
+patch=1,EE,200C0068,extended,3C01447A
+patch=1,EE,200C006C,extended,AC610008

@@ -1,0 +1,26 @@
+[Cheats/Maintaining Max Physical Strength] 
+patch=1,EE,201ECBA0,extended,0C03D000
+patch=1,EE,200F4000,extended,8F81E560
+patch=1,EE,200F4004,extended,16010002
+patch=1,EE,200F400C,extended,E60006B4
+
+[Cheats/Maintaining Max Physical Strength A] 
+patch=1,EE,200F4010,extended,0804165A
+
+[Cheats/Max Blood Gauge Press SELECT]     
+patch=1,EE,201AE88C,extended,00000000
+patch=1,EE,D0516B42,extended,0000FFFE
+patch=1,EE,201AE88C,extended,E60150AC
+
+[Cheats/Infinite Ammo]
+patch=1,EE,201802D4,extended,10000004
+patch=1,EE,201A7D0C,extended,24020063
+patch=1,EE,201A7D14,extended,10000011
+patch=1,EE,201A7D18,extended,AE220294
+
+[Cheats/Unlock All Cheats]  
+patch=1,EE,2031A400,extended,0000FFFF
+
+[Cheats/Added Debug To Cheat Section] 
+patch=1,EE,203AB710,extended,00000001
+

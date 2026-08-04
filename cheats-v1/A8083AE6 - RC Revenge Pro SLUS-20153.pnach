@@ -1,0 +1,11 @@
+[Cheats/Start On Last Lap & Always Place 1st] 
+patch=1,EE,D078DAC4,extended,00000000
+patch=1,EE,1078DAC4,extended,00000002
+
+[Cheats/Unlock All Cars] 
+patch=1,EE,401EBBB4,extended,0010000D
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Cups Completed] 
+patch=1,EE,10620B24,extended,00000008
+

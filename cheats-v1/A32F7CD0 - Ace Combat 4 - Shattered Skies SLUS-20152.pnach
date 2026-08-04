@@ -1,0 +1,51 @@
+[Cheats/Max Credits] 
+patch=1,EE,202A0D30,extended,05F5E0FF
+
+[Cheats/Infinite Health] 
+patch=1,EE,2153E3F8,extended,3CF82DAF
+
+[Cheats/Infinite Gun Ammo] 
+patch=1,EE,201638FC,extended,2402270F
+patch=1,EE,20163900,extended,A6820158
+
+[Cheats/Infinite Specials] 
+patch=1,EE,200C0220,extended,24060063
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,A286015B
+patch=1,EE,20163BC4,extended,0C030088
+
+[Cheats/Infinite Missiles] 
+patch=1,EE,201639FC,extended,240200FF
+patch=1,EE,20163A00,extended,A282015A
+
+[Cheats/Quick Launch Missiles] 
+patch=1,EE,001248AE,extended,00000080
+patch=1,EE,0012534A,extended,00000080
+
+[Cheats/Missiles Increase After Used R1+Triangle On R1+X Off]  
+patch=1,EE,E002E7FF,extended,002A0082
+patch=1,EE,10125350,extended,00000001
+patch=1,EE,101257F0,extended,00000001
+patch=1,EE,E002B7FF,extended,002A0082
+patch=1,EE,10125350,extended,0000FFFF
+patch=1,EE,101257F0,extended,0000FFFF
+
+[Cheats/The Aircraft Only Not Crash if Hit by Object Ground, Water, Building, Enemy. The Code is Not Invincible and Can't Through the Ground] 
+patch=1,EE,2011C15C,extended,00000000
+patch=1,EE,2011C1C4,extended,00000000
+
+[Cheats/Have More Paint Schemes] 
+patch=1,EE,202A0328,extended,FFFFFFFF
+patch=1,EE,202A032C,extended,FFFFFFFF
+patch=1,EE,202A0330,extended,FFFFFFFF
+patch=1,EE,202A0334,extended,FFFFFFFF
+
+[Cheats/Have All Weapons] 
+patch=1,EE,202A0340,extended,FFFFFFFF
+patch=1,EE,202A0344,extended,FFFFFFFF
+patch=1,EE,202A0348,extended,FFFFFFFF
+
+[Cheats/Unlock All Aircrafts] 
+patch=1,EE,202A0320,extended,FFFFFFFF
+patch=1,EE,102A0324,extended,000003FF
+

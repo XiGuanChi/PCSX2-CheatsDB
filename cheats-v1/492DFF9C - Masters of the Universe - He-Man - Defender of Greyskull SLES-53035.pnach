@@ -1,0 +1,10 @@
+[Cheats/Infinite Health] 
+patch=1,EE,202A35F4,extended,3C014F00
+patch=1,EE,202A35F8,extended,AE2101E0
+
+[Cheats/Infinite Skull Power] 
+patch=1,EE,202A35E4,extended,00000000
+patch=1,EE,202A35CC,extended,00000000
+
+[Cheats/Infinite Lives 99] 
+patch=1,EE,20272D3C,extended,00000000

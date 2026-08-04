@@ -1,0 +1,5 @@
+[Cheats/Unlock All Special]  
+patch=1,EE,2037F570,extended,C0003C01
+
+[Cheats/Replace New Game With Debug Menu options to view background images, event images, and unlock certain options. It also contains various route select options. To appear in this menu, apply the below code and start a new game] 
+patch=1,EE,10D0274A,extended,00000004

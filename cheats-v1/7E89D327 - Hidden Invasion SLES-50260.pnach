@@ -1,0 +1,11 @@
+[Cheats/Infinite Health Player 1]  
+patch=1,EE,203C033C,extended,000001CE
+
+[Cheats/Infinite Ammo Player 1]  
+patch=1,EE,103C042A,extended,00000063
+
+[Cheats/Infinite Time] 
+patch=1,EE,201A4EA8,extended,424CF1CE
+
+[Cheats/In Game Cheat Menu] 
+patch=1,EE,201A4D28,extended,FFFFFFFF

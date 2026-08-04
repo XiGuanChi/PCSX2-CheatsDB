@@ -1,0 +1,52 @@
+[Cheats/Traine Female Max Full Capacity] 
+patch=1,EE,11171FBC,extended,00007FFF
+
+[Cheats/Traine Male Max Full Capacity]  
+patch=1,EE,11171FBC,extended,00003FFF
+
+[Cheats/Max Fame 10000] 
+patch=1,EE,21171FB4,extended,FFFFFFFF
+
+[Cheats/Max Ranch Friendship] 
+patch=1,EE,20132728,extended,24020064
+patch=1,EE,201326D4,extended,24020064
+
+[Cheats/Max Ranch Gratitude] 
+patch=1,EE,201323F8,extended,24020064
+patch=1,EE,201323A4,extended,24020064
+
+[Cheats/Max Dissatisfied With The Stables] 
+patch=1,EE,20138E04,extended,24020000
+
+[Cheats/Max Horse Owner Friendship]  
+patch=1,EE,2015BEC8,extended,24020064
+patch=1,EE,2015BE74,extended,24020064
+
+[Cheats/Max Horse Owner Patience] 
+patch=1,EE,2015BAD8,extended,24020000
+patch=1,EE,2015BA84,extended,24020000
+
+[Cheats/Max Training Assistant Friendship] 
+patch=1,EE,20136400,extended,24020064
+
+[Cheats/Best Racehorse] 
+patch=1,EE,20145FF4,extended,2402001E
+
+[Cheats/Max Earned Prize Money]  
+patch=1,EE,21171FAC,extended,0098967F
+
+[Cheats/Max Ranch Prize Money]  
+patch=1,EE,2116EB48,extended,0098967F
+
+[Cheats/Racehorse Finish Always 120%] 
+patch=1,EE,20140E2C,extended,2402001E
+
+[Cheats/Racehorse Fatigue Always 0] 
+patch=1,EE,201413D8,extended,24020000
+
+[Cheats/Fatigue Addition 0 no fatigue accumulation] 
+patch=1,EE,20141250,extended,24020000
+
+[Cheats/Unlock ] Racehorse physical strength always MAX
+patch=1,EE,201417B4,extended,240200FF
+patch=1,EE,2014BFDC,extended,240200FF

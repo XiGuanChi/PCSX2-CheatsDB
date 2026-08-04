@@ -1,0 +1,67 @@
+[Cheats/Max Gauge After Change] 
+patch=1,EE,20159A20,extended,14200001
+
+[Cheats/Challenge Mode Max Gauge] 
+patch=1,EE,2015C2A8,extended,24420000
+
+[Cheats/Game Mode Challenge Max Score]  
+patch=1,EE,2015926C,extended,00000000
+
+[Cheats/Game Mode 1P Max Dance Gauge] 
+patch=1,EE,1059B91A,extended,000003E8
+
+[Cheats/Game Mode 1P Challenge Life 3] 
+patch=1,EE,2059B91C,extended,00000003
+
+[Cheats/Game Mode 2P Max Dance Gauge] 
+patch=1,EE,105EFBE6,extended,000003E8
+
+[Cheats/Game Mode 2P Challenge Life 3] 
+patch=1,EE,205EFBE8,extended,00000003
+
+[Cheats/Max Number Of Plays Per Song] 
+patch=1,EE,2018B024,extended,00000000
+
+[Cheats/Diet Mode Max Calories When Playing] 
+patch=1,EE,2015D010,extended,00000000
+
+[Cheats/Endless Mode When You Enter The Score Max] 
+patch=1,EE,20708614,extended,00000000
+patch=1,EE,20708630,extended,00000000
+
+[Cheats/Auto Play Press SELECT+ Circle Cancel SELECT+X] 
+patch=1,EE,2015A410,extended,00000000
+patch=1,EE,2015A4B0,extended,02409021
+patch=1,EE,2015A4D0,extended,00000000
+patch=1,EE,D02C25C2,extended,0000DFFE 
+patch=1,EE,2015A3F00,extended,0000000 
+patch=1,EE,D02C25C2,extended,0000BFFE 
+patch=1,EE,2015A3F0,extended,14400059
+
+[Cheats/Unlock All The Panel When Entering The FFF Mission]
+patch=1,EE,20224A34,extended,00430821 
+patch=1,EE,20224A38,extended,24020003
+patch=1,EE,20224A3C,extended,A0220000
+
+[Cheats/Unlock All Information] 
+patch=1,EE,2024A250,extended,90612C28
+patch=1,EE,2024A254,extended,34210001
+patch=1,EE,2024A258,extended,10000003
+patch=1,EE,2024A25C,extended,A0612C28
+
+[Cheats/Unlock Lesson mode all cleared] 
+patch=1,EE,202BBC6C,extended,02020202
+patch=1,EE,202BBC70,extended,02020202
+patch=1,EE,202BBC74,extended,02020202
+patch=1,EE,202BBC78,extended,02020202
+patch=1,EE,202BBC7C,extended,02020202
+patch=1,EE,202BBC80,extended,02020202
+
+[Cheats/Unlock All Hidden Elements] 
+patch=1,EE,202BCE18,extended,FFFFFFFF
+patch=1,EE,202BCE1C,extended,FFFFFFFF
+patch=1,EE,202BCE20,extended,FFFFFFFF
+patch=1,EE,202BCE24,extended,FFFFFFFF
+patch=1,EE,202BCE28,extended,FFFFFFFF
+patch=1,EE,202BCE2C,extended,FFFFFFFF
+patch=1,EE,202BCE30,extended,FFFFFFFF

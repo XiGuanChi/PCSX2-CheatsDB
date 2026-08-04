@@ -1,0 +1,8 @@
+[Cheats/Unlock REWARD After press L3+R3]  
+patch=1,EE,D0D15A42,extended,0000FFF9
+patch=1,EE,00625E24,extended,00000003
+patch=1,EE,1063FB22,extended,00000101
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,00617D18,extended,00000002
+patch=1,EE,00617D1C,extended,00000002

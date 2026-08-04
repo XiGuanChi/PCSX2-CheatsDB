@@ -1,0 +1,26 @@
+[Cheats/unendlich Pfeile] 
+patch=1,EE,005a6546,extended,00000063
+
+[Cheats/unendlich Energie] 
+patch=1,EE,201aeb38,extended,84410260
+patch=1,EE,201aeb3C,extended,00010900
+patch=1,EE,201aeb40,extended,a4410262
+
+[Cheats/unendlich Musou] 
+patch=1,EE,201aeb38,extended,84410266
+patch=1,EE,201aeb3C,extended,00010900
+patch=1,EE,201aeb40,extended,a4410268
+
+[Cheats/Sofortiger Sieg drück Select] 
+patch=1,EE,D0400a9c,extended,0000fffe
+patch=1,EE,205eba38,extended,00050005
+
+[Cheats/unendlich Zeit] 
+patch=1,EE,205eba30,extended,01010101
+
+[Cheats/EmpireTortoise Amulet x9] 
+patch=1,EE,00590B83,extended,00000009
+
+[Cheats/alle Items +9] 
+patch=1,EE,40590B80,extended,000a0001
+patch=1,EE,09090909,extended,00000000

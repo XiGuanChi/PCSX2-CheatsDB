@@ -1,0 +1,47 @@
+[Cheats/Max Cash] 
+patch=1,EE,204F9A64,extended,5FAB6661
+
+[Cheats/Instant Refill Turbo] 
+patch=1,EE,200FFF00,extended,3C030055
+patch=1,EE,200FFF04,extended,8C638360
+patch=1,EE,200FFF08,extended,10030003
+patch=1,EE,200FFF10,extended,24013E80
+patch=1,EE,200FFF14,extended,AC610474
+patch=1,EE,200FFF1C,extended,8F83EDB0
+patch=1,EE,200FFF20,extended,080B7B88
+patch=1,EE,202DEE18,extended,0803FFC0
+
+[Cheats/Infinite Turbo Always Available]  
+patch=1,EE,2030A500,extended,24037200
+patch=1,EE,2030A504,extended,AC800438
+patch=1,EE,2030A734,extended,3C017200
+patch=1,EE,2030A738,extended,AE01042C
+patch=1,EE,2030A51C,extended,00000000
+patch=1,EE,2030A760,extended,3C013F80
+patch=1,EE,2030A764,extended,44810000
+
+[Cheats/Disable Collisions] 
+patch=1,EE,2030D844,extended,24020000
+
+[Cheats/Always Win Story Races Money] 
+patch=1,EE,2026CB20,extended,0803FFD0
+patch=1,EE,200FFF40,extended,03E00008
+patch=1,EE,200FFF44,extended,24020001
+
+[Cheats/Max Race Entered]  
+patch=1,EE,204FB060,extended,05FAB000
+
+[Cheats/Max Money Spent On Car] 
+patch=1,EE,20501A88,extended,05F5E0FF
+
+[Cheats/Stupid AI Press L3 Activate R3 Stop. This code doesn't work in dragster mode] 
+patch=1,EE,2056BB3C,extended,4FAB1111
+patch=1,EE,2056BB3C,extended,40490FD0
+
+[Cheats/Unlock All Quick Race Tracks]  
+patch=1,EE,2026DC20,extended,00000000
+patch=1,EE,2026DCA0,extended,24020001
+
+[Cheats/Unlock All Cars]  
+patch=1,EE,2027456C,extended,00000000
+

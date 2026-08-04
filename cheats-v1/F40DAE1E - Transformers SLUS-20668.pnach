@@ -1,0 +1,65 @@
+[Cheats/Infinite Autobot Energon Level] 
+patch=1,EE,20716FB4,extended,42FA0000
+
+[Cheats/Infinite Energy Usage] 
+patch=1,EE,203EE5EC,extended,00000000
+
+[Cheats/Blaster Doesn't Overheat] 
+patch=1,EE,103EE672,extended,00001000
+
+[Cheats/Activate Cheat 1 Hit Kill] 
+patch=1,EE,008F04CD,extended,00000001
+
+[Cheats/Have All MiniCons Resecued Amazon] 
+patch=1,EE,20717158,extended,00000009
+
+[Cheats/Have All MiniCons Resecued Antarctica] 
+patch=1,EE,207171A4,extended,0000000A
+
+[Cheats/Have All MiniCons Resecued Deep Amazon] 
+patch=1,EE,207171F0,extended,00000008
+
+[Cheats/Have All MiniCons Resecued Mid Atlantic] 
+patch=1,EE,2071723C,extended,00000001
+
+[Cheats/Have All MiniCons Resecued Alaska] 
+patch=1,EE,20717288,extended,00000005
+
+[Cheats/Have All MiniCons Resecued Starship] 
+patch=1,EE,207172D4,extended,00000001
+
+[Cheats/Have All MiniCons Resecued Pacific Island] 
+patch=1,EE,20717320,extended,00000006
+
+[Cheats/Have All DataCons Resecued Amazon] 
+patch=1,EE,2071715C,extended,0000000D
+
+[Cheats/Have All DataCons Resecued Antarctica] 
+patch=1,EE,207171A8,extended,00000006
+
+[Cheats/Have All DataCons Resecued Deep Amazon] 
+patch=1,EE,207171F4,extended,00000007
+
+[Cheats/Have All DataCons Resecued Mid Atlantic] 
+patch=1,EE,20717240,extended,00000001
+
+[Cheats/Have All DataCons Resecued Alaska] 
+patch=1,EE,2071728C,extended,00000009
+
+[Cheats/Have All DataCons Resecued Starship] 
+patch=1,EE,207172D8,extended,0000000A
+
+[Cheats/Have All DataCons Resecued Pacific Island] 
+patch=1,EE,20717324,extended,0000000C
+
+[Cheats/Unlock All Extras] 
+patch=1,EE,207170E0,extended,FFFFFFFF
+patch=1,EE,207170E4,extended,FFFFFFFF
+
+[Cheats/Unlock All MiniCons] 
+patch=1,EE,207173C0,extended,FFFFFFFF
+patch=1,EE,107173C4,extended,0000FFFF
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,40717114,extended,00080013
+patch=1,EE,00000001,extended,00000000

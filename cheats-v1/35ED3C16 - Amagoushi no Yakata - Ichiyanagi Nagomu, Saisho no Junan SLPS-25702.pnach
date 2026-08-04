@@ -1,0 +1,9 @@
+[Cheats/Unlock Omake Room] 
+patch=1,EE,0038D1E4,extended,00000003
+
+[Cheats/Unlock All Bonus Investigation Diary]  
+patch=1,EE,4038D6CC,extended,00130001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Enable Debug Mode Select toggles debug menu on - off. Select+Triangle toggles a debug meter.Select+Up Down toggles debug menu page.L3 pauses unpauses the game] 
+patch=1,EE,0037DC30,extended,00000001

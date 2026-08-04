@@ -1,0 +1,26 @@
+[Cheats/Skill Bills 99999999 Points Upgrade Zone It takes effect when you enter it] 
+patch=1,EE,201266F0,extended,08040A7B
+patch=1,EE,201266F4,extended,3C0205F5
+patch=1,EE,201029EC,extended,3442E0FF
+patch=1,EE,201029F0,extended,03E00008
+patch=1,EE,201029F4,extended,AC820000
+
+[Cheats/Match Press SELECT+Left 9 Goals HOME side,0 Goals AWAY side]  
+patch=1,EE,D0E6BA82,extended,0000FF7E
+patch=1,EE,20507EE0,extended,00000009
+patch=1,EE,D0E6BA82,extended,0000FF7E 
+patch=1,EE,20507FA8,extended,00000000
+
+[Cheats/Match Press SELECT+Right 0 Goals  HOME  9 Goals AWAY side]  
+patch=1,EE,D0E6BA82,extended,0000FFDE 
+patch=1,EE,20507EE0,extended,00000000 
+patch=1,EE,D0E6BA82,extended,0000FFDE 
+patch=1,EE,20507FA8,extended,00000009
+
+[Cheats/Match Press SELECT+L1 HOME Side trick point 9999999  *After pressing the button, once you complete a trick, it will be reflected on the display]
+patch=1,EE,D0E6BA82,extended,0000FBFE 
+patch=1,EE,20507EE4,extended,0098967F. 
+
+[Cheats/Match Press SELECT+R1 to select the AWAY side trick point 9999999*After pressing the button, once you complete a trick, it will be reflected in the display.] 
+patch=1,EE,D0E6BA82,extended,0000F7FE 
+patch=1,EE,20507FAC,extended,0098967F

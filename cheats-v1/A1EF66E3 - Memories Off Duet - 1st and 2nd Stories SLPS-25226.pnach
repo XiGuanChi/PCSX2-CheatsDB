@@ -1,0 +1,42 @@
+[Cheats/Unlock Full Number of Clear Endings] 
+patch=1,EE,207DB104,extended,FFFFFFFF
+patch=1,EE,207DB108,extended,FFFFFFFF
+patch=1,EE,007DB10C,extended,000000FF
+
+[Cheats/Unlock All Your Memories] 
+patch=1,EE,407CFF04,extended,00140001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,407D2910,extended,000D0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,407D0010,extended,09C00001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,407D2814,extended,003F0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/When You Enter Result of Your Memories 100% Scene Title Achievement] 
+patch=1,EE,20140308,extended,2402FFFF
+patch=1,EE,2014030C,extended,A0822A10
+patch=1,EE,20140314,extended,24020001
+
+[Cheats/When You Enter Result of Your Memories Album Completion Rate 100%] 
+patch=1,EE,20140440,extended,2402FFFF
+patch=1,EE,20140444,extended,A0820010
+patch=1,EE,2014044C,extended,24020001
+
+[Cheats/When You Enter Result of Your Memories Number of Read Messages 100%] 
+patch=1,EE,2014055C,extended,A0850110
+patch=1,EE,20140570,extended,24030001
+
+[Cheats/When You Enter Result of Your Memories Number of Options Achieved 100%] 
+patch=1,EE,2014061C,extended,2403FFFF
+patch=1,EE,20140620,extended,A0832910
+patch=1,EE,20140630,extended,24030001
+
+[Cheats/Debug Menu After Skipping Opening Logo With Start Button, the title screen will not appear and the screen will remain frozen. At this time, press the circle  button to move to debugging.] 
+patch=1,EE,201CA6A4,extended,00100258
+
+[Cheats/Enable Debug Menu SuperLite 2000 Renai Adventure These allow you to quickly view images, sounds, character routes, among others. Press and hold Circle + L1 for Start debug menu.Story Starts the game normally.Test Sends you to a test menu.Debug Sends you to the debug menu. Scenario	Sends you to a list of story related scenes to choose from.Character Allows you to view all of the character portraits.BG Allows you to view all of the background images.Event	Allows you to view all of the event images in the game. BGM Plays all songs from the game.SE	Sends you to a list of sound effects to choose from. Effect Sends you to a menu where you can test screen effects.Movie Allows you to watch all of the movies in the game.SAVE Sends you to the save menu.System Flag Unlocks the Special menu hidden options.Press and hold Circle + Select for Filer debug menu.] 
+patch=1,EE,D0339882,extended,0000DBFF
+patch=1,EE,20238818,extended,00000000
+patch=1,EE,D0339882,extended,0000DFFE
+patch=1,EE,20238818,extended,00000015

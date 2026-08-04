@@ -1,0 +1,40 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200C0880,extended,8C8100D0
+patch=1,EE,200C0884,extended,01800008
+patch=1,EE,200C0888,extended,AC8100CC
+patch=1,EE,20205F78,extended,0C030220
+
+[Cheats/Infinite HP Player and One Hit Kills Enemy]  
+patch=1,EE,200A0000,extended,8E2300E0
+patch=1,EE,200A0004,extended,3C046974
+patch=1,EE,200A0008,extended,34846341
+patch=1,EE,200A000C,extended,10830004
+patch=1,EE,200A0014,extended,4615A841
+patch=1,EE,200A001C,extended,10000002
+patch=1,EE,200A0024,extended,461FA841
+patch=1,EE,200A002C,extended,080B1497
+patch=1,EE,200A0030,extended,240F0001
+patch=1,EE,202C5254,extended,08028000
+patch=1,EE,202C5258,extended,00000000
+
+[Cheats/Infinite Zap-O-Matic] 
+patch=1,EE,202BAC28,extended,00000000
+patch=1,EE,202BB544,extended,00000000
+
+[Cheats/Infinite Dislocator] 
+patch=1,EE,202AE0D4,extended,00000000
+
+[Cheats/Infinite Jetpack] 
+patch=1,EE,201EC188,extended,00000000
+
+[Cheats/Super High Jetpack] 
+patch=1,EE,201EC188,extended,00000000
+patch=1,EE,20501940,extended,40000000
+
+[Cheats/6 Ultra High Jetpack] 
+patch=1,EE,201EC188,extended,00000000
+patch=1,EE,20501940,extended,40800000
+
+[Cheats/Alert Level Never Increases] 
+patch=1,EE,201D6488,extended,AE000098
+

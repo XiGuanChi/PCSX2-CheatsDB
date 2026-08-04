@@ -1,0 +1,53 @@
+[Cheats/CPU not motivated Supplement: Neutral guard will be performed, so throw it to be effective] 
+patch=1,EE,1C868618,extended,3854E7A1
+
+[Cheats/Max DNA] 
+patch=1,EE,20406D20,extended,05F5E0FF
+patch=1,EE,20406D24,extended,05F5E0FF
+
+[Cheats/Unlock All Hidden Characters] 
+patch=1,EE,20406CE0,extended,00000001
+patch=1,EE,20406CE4,extended,00000001
+patch=1,EE,20406CE8,extended,00000001
+patch=1,EE,20406CEC,extended,00000001
+patch=1,EE,20406CF0,extended,00000001
+
+[Cheats/Unlock Competition stage 9-11] 
+patch=1,EE,20406CF4,extended,00000001
+patch=1,EE,20406CF8,extended,00000001
+patch=1,EE,20406CFC,extended,00000001
+
+[Cheats/Unlock All Visulas] 
+patch=1,EE,203F6CE0,extended,00000003
+patch=1,EE,203F6CE4,extended,00000005
+patch=1,EE,203F6CE8,extended,00000003
+patch=1,EE,203F6CEC,extended,00000005
+patch=1,EE,203F6CF0,extended,00000003
+patch=1,EE,203F6CF4,extended,00000003
+patch=1,EE,203F6CF8,extended,00000003
+patch=1,EE,203F6CFC,extended,00000003
+patch=1,EE,203F6D00,extended,00000003
+patch=1,EE,203F6D04,extended,00000003
+patch=1,EE,203F6D08,extended,00000005
+patch=1,EE,203F6D0C,extended,00000007
+patch=1,EE,203F6D10,extended,00000005
+patch=1,EE,203F6D14,extended,00000003
+patch=1,EE,203F6D18,extended,00000006
+patch=1,EE,203F6D1C,extended,00000001
+
+[Cheats/CAREER MODE select character, all abilities acquisition] 
+patch=1,EE,20407408,extended,FFFFFFFF
+patch=1,EE,2040740C,extended,FFFFFFFF
+patch=1,EE,20407410,extended,FFFFFFFF
+patch=1,EE,20407414,extended,FFFFFFFF
+patch=1,EE,20407418,extended,FFFFFFFF
+patch=1,EE,2040741C,extended,FFFFFFFF
+patch=1,EE,20407420,extended,FFFFFFFF
+patch=1,EE,20407424,extended,FFFFFFFF
+patch=1,EE,20407428,extended,FFFFFFFF
+patch=1,EE,2040742C,extended,FFFFFFFF
+patch=1,EE,20407430,extended,FFFFFFFF
+patch=1,EE,20407434,extended,FFFFFFFF
+patch=1,EE,20407438,extended,FFFFFFFF
+patch=1,EE,2040743C,extended,FFFFFFFF
+

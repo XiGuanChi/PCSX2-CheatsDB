@@ -1,0 +1,8 @@
+[Cheats/Display of foal abilities Use this when the ability display is hidden.use it in May] 
+patch=1,EE,201C43AC,extended,00000000
+patch=1,EE,201C438C,extended,00000000
+patch=1,EE,201C436C,extended,00000000
+patch=1,EE,201C437C,extended,00000000
+
+[Cheats/Foal Ability S+] 
+patch=1,EE,2020BF58,extended,24050064

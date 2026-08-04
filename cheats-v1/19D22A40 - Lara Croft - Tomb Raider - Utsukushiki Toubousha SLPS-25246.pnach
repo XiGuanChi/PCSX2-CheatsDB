@@ -1,0 +1,27 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20128148,extended,3C0342C8
+patch=1,EE,20128150,extended,AC430D54
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20138334,extended,00000000
+
+[Cheats/Infinite Air] 
+patch=1,EE,2042A5E8,extended,3F800000
+
+[Cheats/Infinite Grip Gauge]  
+patch=1,EE,2012C7F0,extended,3C0142C8
+patch=1,EE,2012C824,extended,AC410080
+
+[Cheats/Infinite Breath Gauge]  
+patch=1,EE,2012CAD0,extended,3C0142C8
+patch=1,EE,2012CAD8,extended,AE010D58
+
+[Cheats/Infinite Recovery Items] 
+patch=1,EE,2016C008,extended,00000000
+
+[Cheats/Infinite Cash Items]  
+patch=1,EE,2016C174,extended,00000000
+
+[Cheats/Skip Level Press Pause Button select and Skip Level Press Circle] 
+patch=1,EE,001694B8,extended,00000001
+patch=1,EE,201694D0,extended,24060000

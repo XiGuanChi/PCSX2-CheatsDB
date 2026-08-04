@@ -1,0 +1,23 @@
+[Cheats/Max Coins 99999] 
+patch=1,EE,20143AC0,extended,AE0400B0
+
+[Cheats/T·B·S . Time Becomes Longer Than Usual] 
+patch=1,EE,20143B6C,extended,01072021
+
+[Cheats/Unlock All CG Galleries] 
+patch=1,EE,203A5628,extended,FFFFFFFF 
+patch=1,EE,203A562C,extended,FFFFFFFF 
+patch=1,EE,203A5630,extended,FFFFFFFF 
+patch=1,EE,203A5634,extended,FFFFFFFF 
+patch=1,EE,203A5638,extended,FFFFFFFF 
+patch=1,EE,203A563C,extended,FFFFFFFF
+
+[Cheats/Enable Debug Menus first debug menu Scene Select & Test Options is enabled when starting a new game. If you are using an emulatorm you will need to restart your game, Debug Menu 2 Boss Selector menu is accessed press and hold L1+Circle at the main menu.The third debug menu Debug Menu 3 Scene Selector is accessed by press and hold L2+Circle at the main menu Debug Menu 1 (Scene Select & Test Options. This menu allows you to enter various character routes, view character CGs, and view background CGs.From the Beginning Starts the game normally.Sayo Route Starts Sayo's character route.Tsukiko Route Starts Tsukiko's character route.Sepu Route Starts a route with the three main girls.Scene Select Sends you to another menu.Logical Mode It is unclear what this does] 
+patch=1,EE,00295124,extended,00000002
+patch=1,EE,D037EB02,extended,0000DBFF
+patch=1,EE,20167444,extended,24020006
+patch=1,EE,D037EB02,extended,0000DEFF
+patch=1,EE,20167444,extended,2402000C
+patch=1,EE,D037EB02,extended,0000FFFF
+patch=1,EE,20167444,extended,96223F58
+

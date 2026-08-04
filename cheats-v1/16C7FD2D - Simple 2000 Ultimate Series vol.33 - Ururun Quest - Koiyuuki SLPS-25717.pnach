@@ -1,0 +1,21 @@
+[Cheats/Max Money 99999] 
+patch=1,EE,2025D8F4,extended,0001869F
+
+[Cheats/HP 99998] 
+patch=1,EE,2025D850,extended,0000270F
+patch=1,EE,2025D820,extended,0000270F
+
+[Cheats/MP 9999] 
+patch=1,EE,2025D854,extended,0000270F
+patch=1,EE,2025D824,extended,0000270F
+
+[Cheats/Stats 999] 
+patch=1,EE,2025D858,extended,000003E7
+patch=1,EE,2025D85C,extended,000003E7
+patch=1,EE,2025D860,extended,000003E7
+
+[Cheats/Exp 9999999 Level 99 After Battle go to equip menu]
+patch=1,EE,2025D86A,extended,0098967F
+
+[Cheats/Level 99] 
+patch=1,EE,2025D864,extended,24030063

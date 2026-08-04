@@ -1,0 +1,32 @@
+[Cheats/Quick Level Up With Immortal Status In Battle] 
+patch=1,EE,217C93A4,extended,000003E7
+
+[Cheats/Infinite HP] 
+patch=1,EE,217C844C,extended,00013880
+
+[Cheats/UMax HP] 
+patch=1,EE,217C8454,extended,00013880
+
+[Cheats/Infinite Fury] 
+patch=1,EE,217C93E4,extended,00004E20
+
+[Cheats/Max Fury] 
+patch=1,EE,217C93EC,extended,00004E20
+
+[Cheats/All Characters] 
+patch=1,EE,40561110,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,2056114C,extended,FFFFFFFF
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,20561158,extended,FFFFFFFF
+
+[Cheats/Unlock All Music] 
+patch=1,EE,20561150,extended,FFFFFFFF
+patch=1,EE,20561154,extended,FFFFFFFF
+
+[Cheats/Unlock All Land] 
+patch=1,EE,205610E8,extended,FFFFFFFF
+
+[Cheats/Unlock All Generals] 
+patch=1,EE,205610E4,extended,FFFFFFFF

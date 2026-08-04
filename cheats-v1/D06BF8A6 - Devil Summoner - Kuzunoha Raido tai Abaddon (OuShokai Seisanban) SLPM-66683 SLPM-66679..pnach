@@ -1,0 +1,111 @@
+[Cheats/SLPM-66683 Max Money] 
+patch=1,EE,20F733B8,extended,0098967F
+
+[Cheats/SLPM-66683 Max Mag] 
+patch=1,EE,20F733B0,extended,000003E7
+patch=1,EE,20F733B4,extended,000003E7
+
+[Cheats/SLPM-66683 Main Character Max Experience Points]
+patch=1,EE,20F733D8,extended,0098967F
+
+[Cheats/SLPM-66683 Main Character HP 999]
+patch=1,EE,20F733DC,extended,000003E7
+patch=1,EE,20F733E0,extended,000003E7
+
+[Cheats/SLPM-66683 Friendly Demon 1st Max Loyalty] 
+patch=1,EE,10F738DE,extended,00000064
+
+[Cheats/SLPM-66683 Friendly Demon 1st Max Experience Value]
+patch=1,EE,20F738E4,extended,0098967F
+
+[Cheats/SLPM-66683 Friendly Demon 1st HP 999] 
+patch=1,EE,20F738E8,extended,000003E7
+patch=1,EE,20F738EC,extended,000003E7
+
+[Cheats/SLPM-66683 Friendly Demon 2nd Max Loyalty] 
+patch=1,EE,10F73AE6,extended,00000064
+
+[Cheats/SLPM-66683 Friendly Demon 2nd Max Experience Value] 
+patch=1,EE,20F73A5C,extended,0098967F
+
+[Cheats/SLPM-66683 Friendly Demon 2nd] HP999
+patch=1,EE,20F73A60,extended,000003E7
+patch=1,EE,20F73A64,extended,000003E7
+
+[Cheats/SLPM-66683 Friendly Demon 3rd  Max Loyalty] 
+patch=1,EE,10F73BCE,extended,00000064
+
+[Cheats/SLPM-66683 Friendly Demon 3rd Max Experience Value] 
+patch=1,EE,20F73BD4,extended,0098967F
+
+[Cheats/SLPM-66683 Friendly Demon 3rd HP 999] 
+patch=1,EE,20F73BD8,extended,000003E7
+patch=1,EE,20F73BDC,extended,000003E7
+
+[Cheats/SLPM-66683 Friendly Demon Fourth Max Loyalty] 
+patch=1,EE,10F73D46,extended,00000064 Experience
+
+[Cheats/SLPM-66683 Friendly Demon Fourth Max Experience Value]
+patch=1,EE,20F73D4C,extended,0098967F
+
+[Cheats/SLPM-66683 Friendly Demon Fourth HP 999]
+patch=1,EE,20F73D50,extended,000003E7
+patch=1,EE,20F73D54,extended,000003E7
+
+[Cheats/SLPM-66679 Max Money] 
+patch=1,EE,20124B38,extended,00A0100A
+
+[Cheats/SLPM-66679 Max Loyalty of Nakama After Battle] 
+patch=1,EE,202DF820,extended,2409270F
+
+[Cheats/SLPM-66679 In Battle Infinite MP]   
+patch=1,EE,202D5CEC,extended,00000000
+
+[Cheats/SLPM-66679 In Battle Infinite Ammo] 
+patch=1,EE,202D5D88,extended,00000000
+
+[Cheats/SLPM-66679 In Battle Infinite Ammo Alt] 
+patch=1,EE,202D5D88,extended,00601823
+
+[Cheats/SLPM-66679 In Battle Max Mag Time Recovery]  
+patch=1,EE,202D5CB0,extended,24020000
+
+[Cheats/SLPM-66679 In Battle Infinite Mag] 
+patch=1,EE,202D5C60,extended,01004023
+patch=1,EE,202D5BE4,extended,00A02823
+
+[Cheats/SLPM-66679 In Battle Infinite Items] 
+patch=1,EE,202D5D0C,extended,24420000
+
+[Cheats/SLPM-66679 Max Mag After Eluctuation] 
+patch=1,EE,202D5BF4,extended,24020000
+patch=1,EE,202D5CB0,extended,24020000
+
+[Cheats/SLPM-66679 Loyalty 100 When Entering The Demon Union Screen] 
+patch=1,EE,203A3A04,extended,24060064
+patch=1,EE,203A3A08,extended,A6E6000E
+
+[Cheats/SLPM-66679 Currently HP 999] 
+patch=1,EE,112A3C56,extended,000003E7
+
+[Cheats/SLPM-66679 Max HP 999] 
+patch=1,EE,112A3C58,extended,000003E7
+
+[Cheats/SLPM-66679 Currently MP 999] 
+patch=1,EE,112A3C5A,extended,000003E7
+
+[Cheats/SLPM-66679 Max MP 999] 
+patch=1,EE,112A3C5C,extended,000003E7
+
+[Cheats/SLPM-66679 No Encounter] 
+patch=0,EE,2028BEA8,extended,53E00007
+
+[Cheats/SLPM-66679 ALL Magatama]
+patch=1,EE,012A4EF7,extended,00000001
+patch=1,EE,212A4EF8,extended,05040302
+patch=1,EE,212A4EFC,extended,09080706
+patch=1,EE,212A4F00,extended,0D0C0B0A
+patch=1,EE,212A4F04,extended,11100F0E
+patch=1,EE,212A4F08,extended,15141312
+patch=1,EE,212A4F0C,extended,19181716
+patch=1,EE,012A4F77,extended,00000019

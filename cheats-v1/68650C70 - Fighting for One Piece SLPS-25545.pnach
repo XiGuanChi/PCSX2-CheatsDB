@@ -1,0 +1,18 @@
+[Cheats/Fight Belly 9999990000] 
+patch=1,EE,202040EC,extended,000F423F
+
+[Cheats/Infinite HP Player 1] 
+patch=1,EE,20565D38,extended,00000320
+
+[Cheats/Infinite and Max Command Gauge P1]  
+patch=1,EE,20565D50,extended,0008CA00
+patch=1,EE,20565D5C,extended,00000006
+
+[Cheats/P2 HP 1 Press Select] 
+patch=1,EE,D02A39C0,extended,00000100
+patch=1,EE,20565F0C,extended,00000001
+
+[Cheats/1P Invincible 2P One Hit Kill] 
+patch=1,EE,201388E0,extended,1080000F
+patch=1,EE,201388F0,extended,244401D4
+patch=1,EE,201388F8,extended,00631823

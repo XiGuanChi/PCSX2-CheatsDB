@@ -1,0 +1,29 @@
+[Cheats/Infinite Health] 
+patch=1,EE,201DBC78,extended,00000001
+
+[Cheats/Infinite Ammo]  
+patch=1,EE,201DBC80,extended,00000001
+
+[Cheats/Infinite Time] 
+patch=1,EE,201DBC7C,extended,00000001
+
+[Cheats/Unlock All Characters]
+patch=1,EE,201DCFF8,extended,FFFFFFFF
+
+[Cheats/Chaos Complete All Chaos Levels & Modes Available] 
+patch=1,EE,101DC000,extended,00005FF9
+patch=1,EE,101DD000,extended,00005FF9
+
+[Cheats/Enable Debug Menu Press L3 Enable R3 Disable In Game] 
+patch=1,EE,D01DFA42,extended,0000FFFD
+patch=1,EE,201532B0,extended,00000000
+patch=1,EE,D01DFA42,extended,0000FFFD
+patch=1,EE,101532D4,extended,0000C6FE
+patch=1,EE,D01DFA42,extended,0000FFFB
+patch=1,EE,201532B0,extended,1040000B
+patch=1,EE,D01DFA42,extended,0000FFFB
+patch=1,EE,101532D4,extended,0000934A
+patch=1,EE,D01DFA42,extended,0000FFFB
+patch=1,EE,201DD014,extended,00000000
+patch=1,EE,D01DFA42,extended,0000FFFB
+patch=1,EE,0021DB60,extended,00000000

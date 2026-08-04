@@ -1,0 +1,52 @@
+[Cheats/Max Magic Power]  
+patch=1,EE,41150130,extended,00060024 
+patch=1,EE,00FF0000,extended,00000000 
+
+[Cheats/Card Battle Own HP 100] 
+patch=1,EE,01B19E00,extended,00000064 
+
+[Cheats/Card Battle Rival's HP 0] 
+patch=1,EE,01B19E90,extended,00000000 
+
+[Cheats/Max Favorability Cloudy] 
+patch=1,EE,0114E482,extended,000000x64
+
+[Cheats/Max Favorability Ecru]  
+patch=1,EE,0114E512,extended,000000x64
+
+[Cheats/Max Favorability Euclase]  
+patch=1,EE,0114E5A2,extended,000000x64
+
+[Cheats/Max Favorability Spinel]  
+patch=1,EE,0114E632,extended,000000x64
+
+[Cheats/Max Favorability Trifill]  
+patch=1,EE,0114E6C2,extended,000000x64
+
+[Cheats/Max Favorability Wurtz]  
+patch=1,EE,0114E752,extended,000000x64
+
+[Cheats/Max Favorability Sepio] 
+patch=1,EE,0114E7E2,extended,00000064
+
+[Cheats/Can Move To Regland's Room] 
+patch=1,EE,0114d282,extended,00000001
+
+[Cheats/Game Acceleration] 
+patch=1,EE,201BAA44,extended,00000000
+
+[Cheats/Unlock All Album CG]  
+patch=1,EE,401DF570,extended,00110001 
+patch=1,EE,01010101,extended,00000000 
+
+[Cheats/Unlock All Fairy Memo] 
+patch=1,EE,4114AFA0,extended,00140024 
+patch=1,EE,000F0000,extended,00000000 
+
+[Cheats/Unlock All Fairy Memo In Game] 
+patch=1,EE,411512A0,extended,000A0024 
+patch=1,EE,000F0000,extended,00000000 
+
+[Cheats/Unlock All Cards]  
+patch=1,EE,4114FC20,extended,00090024 
+patch=1,EE,00050000,extended,00000000 

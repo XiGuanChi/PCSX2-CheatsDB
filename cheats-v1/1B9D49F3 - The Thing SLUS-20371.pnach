@@ -1,0 +1,25 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2041901C,extended,3C0142C8
+patch=1,EE,20419024,extended,AE01009C
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20798BF0,extended,2401000A
+patch=1,EE,20798BF4,extended,00310818
+patch=1,EE,20798C04,extended,AD210010
+
+[Cheats/Infinite Health NPC+Player] 
+patch=1,EE,20730CA0,extended,C64100A4
+patch=1,EE,20730CA8,extended,E641009C
+
+[Cheats/Infinite Ammo NPC+Player] 
+patch=1,EE,2050A834,extended,2402270F
+patch=1,EE,2050A84C,extended,AC620010
+
+[Cheats/Give Weapon - Ammo For Max Trust Level NPC] 
+patch=1,EE,2025A654,extended,3C013F80
+patch=1,EE,2025A668,extended,AE610008
+
+[Cheats/Never Cold] 
+patch=1,EE,204194D4,extended,AE0104A4
+patch=1,EE,204194DC,extended,AE0104A4
+patch=1,EE,204194E0,extended,AE0104A4

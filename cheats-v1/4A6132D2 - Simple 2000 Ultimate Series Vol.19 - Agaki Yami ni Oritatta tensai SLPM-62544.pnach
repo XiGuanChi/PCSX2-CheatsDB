@@ -1,0 +1,11 @@
+[Cheats/Player 1 has 99999 points] 
+patch=1,EE,2041E070,extended,0098967F
+
+[Cheats/Opponent 1 has 0 Points] 
+patch=1,EE,2041E088,extended,00000000
+
+[Cheats/Opponent 2 has 0 Points] 
+patch=1,EE,2041E080,extended,00000000
+
+[Cheats/Opponent 3 has 0 Points] 
+patch=1,EE,2041E078,extended,00000000

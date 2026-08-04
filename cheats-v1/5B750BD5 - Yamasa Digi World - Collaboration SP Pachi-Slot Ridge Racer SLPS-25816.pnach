@@ -1,0 +1,17 @@
+[Cheats/Simulation mode Number of medals acquired 9999999 pieces] 
+patch=1,EE,200FF000,extended,3C0F0098
+patch=1,EE,200FF004,extended,35EF967F
+patch=1,EE,200FF008,extended,ADCF003C
+patch=1,EE,200FF00C,extended,0805A219
+patch=1,EE,200FF010,extended,AFAF0010
+patch=1,EE,2016885C,extended,0803FC00
+
+[Cheats/Bonus Attack & Push Challenge Mode Infinite number of remaining plays on Select+up OFF SELECT+down] 
+patch=1,EE,D0436902,extended,0000FFEE
+patch=1,EE,20181288,extended,25EF0000
+patch=1,EE,D0436902,extended,0000FFBE
+patch=1,EE,20181288,extended,25EFFFFF
+
+[Cheats/Unlock All Museum]  
+patch=1,EE,4121AE3C,extended,000C0001
+patch=1,EE,FFFFFFFF,extended,00000000

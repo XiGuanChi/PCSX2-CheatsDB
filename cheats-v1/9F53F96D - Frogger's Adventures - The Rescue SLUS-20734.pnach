@@ -1,0 +1,9 @@
+[Cheats/Infinite Lives] 
+patch=1,EE,1040E970,extended,00000009
+
+[Cheats/Always Have 49 Coins] 
+patch=1,EE,D040E96E,extended,00200031
+patch=1,EE,1040E96E,extended,00000031
+
+[Cheats/Always Low Time Challenge Mode] 
+patch=1,EE,2040E9D8,extended,00000000

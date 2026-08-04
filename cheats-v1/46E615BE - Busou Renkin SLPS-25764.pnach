@@ -1,0 +1,30 @@
+[Cheats/Heat Up Triggered Press Circle] 
+patch=1,EE,20134FA4,extended,00000000
+
+[Cheats/Max Struggle Gauge] 
+patch=1,EE,2013B86C,extended,00000000
+
+[Cheats/Max Battle Gauge Maintenance] 
+patch=1,EE,2013B84C,extended,00000000
+
+[Cheats/EXP 999999] 
+patch=1,EE,20170940,extended,3C01000F
+patch=1,EE,20170960,extended,342F423F
+
+[Cheats/Unlock All Players Selection Press the R1 button] 
+patch=1,EE,D0252002,extended,0000F7FF
+patch=1,EE,00232A84,extended,0000003F
+
+[Cheats/Unlock All Papillon Park Press the L1 button] 
+patch=1,EE,D0252002,extended,0000FBFF
+patch=1,EE,20232A92,extended,FFFFFFFF
+patch=1,EE,D0252002,extended,0000FBFF
+patch=1,EE,00232A96,extended,00000001
+
+[Cheats/Enable Debug Menus] 
+patch=1,EE,D0252002,extended,0000D7FF
+patch=1,EE,108A835E,extended,00000002
+patch=1,EE,D0252002,extended,0000DDFF
+patch=1,EE,108A835E,extended,00000003
+patch=1,EE,D0252002,extended,0000FFFF
+patch=1,EE,108A835E,extended,00000006

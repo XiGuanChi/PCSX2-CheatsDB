@@ -1,0 +1,31 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20272E2C,extended,3C01447A
+patch=1,EE,20272E48,extended,AC410638
+patch=1,EE,20272E4C,extended,AC41063C
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20254E68,extended,00000000
+
+[Cheats/Infinite Grenades] 
+patch=1,EE,2022CEF4,extended,00000000
+
+[Cheats/One Hit Kill] 
+patch=1,EE,205FF2FC,extended,00000001
+
+[Cheats/Invincible] 
+patch=1,EE,205FF5C0,extended,00000001
+
+[Cheats/Debug Menu Codes God Mode] 
+patch=1,EE,205FF5C0,extended,00000001
+
+[Cheats/Have All Unlockables, Revisit Location & Story Boards] 
+patch=1,EE,20104AD4,extended,2402000F
+
+[Cheats/Unlock All Environment Concepts] 
+patch=1,EE,10106EBE,extended,00001000
+
+[Cheats/Unlock All Character Concepts] 
+patch=1,EE,1010635E,extended,00001000
+
+[Cheats/Unlock All Gear Concepts] 
+patch=1,EE,1010725E,extended,00001000

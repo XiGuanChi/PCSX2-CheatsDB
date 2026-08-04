@@ -1,0 +1,20 @@
+[Cheats/Max score 1st Character] 
+patch=1,EE,2038F9B8,extended,0098967F
+
+[Cheats/2nd Character score 0] 
+patch=1,EE,2038F9C0,extended,00000000
+
+[Cheats/3rd Character score 0] 
+patch=1,EE,2038F9C8,extended,00000000
+
+[Cheats/4th Character score 0] 
+patch=1,EE,2038F9D0,extended,00000000
+
+[Cheats/Unlock All CG Galleries] 
+patch=1,EE,203B9F68,extended,00000007
+patch=1,EE,203BA01C,extended,00000007 
+patch=1,EE,203BA0D0,extended,00000007
+patch=1,EE,203BA184,extended,00000007
+patch=1,EE,203BA238,extended,00000007
+patch=1,EE,203BA2EC,extended,00000007
+patch=1,EE,203BA3A0,extended,00000007

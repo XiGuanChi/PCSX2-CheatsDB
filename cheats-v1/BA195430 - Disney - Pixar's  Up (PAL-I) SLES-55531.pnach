@@ -1,0 +1,38 @@
+[Cheats/God Mode]  
+patch=1,EE,20541530,extended,03E00008
+patch=1,EE,20541534,extended,00000000
+
+//[Cheats/Invulnerable]   
+patch=1,EE,007A1BC9,extended,00000001
+
+[Cheats/Jump In Midair]  
+patch=1,EE,200A0000,extended,C49D0074
+patch=1,EE,200A0004,extended,3C1740C0
+patch=1,EE,200A0008,extended,4497F000
+patch=1,EE,200A000C,extended,E49E0074
+patch=1,EE,200A0010,extended,02F7B826
+patch=1,EE,200A0014,extended,03E00008
+patch=1,EE,200A0018,extended,E480120C
+patch=1,EE,2021770C,extended,03E00008
+patch=1,EE,20217710,extended,E480120C
+patch=1,EE,E0020004,extended,00AE9C74
+patch=1,EE,2021770C,extended,08028000
+patch=1,EE,20217710,extended,00000000
+
+[Cheats/Jump In Midair Alt]  
+patch=1,EE,2033CB98,extended,00000000
+
+[Cheats/Water Doesn't Hurt walk into the water use with Jump in midair]  
+patch=1,EE,204DA3E8,extended,10000081
+patch=1,EE,205FB21C,extended,10000163
+
+
+[Cheats/Unlock All Tricks,Sketches And High-resolution Images Creating New Game]  
+patch=1,EE,204CC834,extended,24020000
+
+[Cheats/Fruits Always Restore Max Life] 
+patch=1,EE,205414A0,extended,C4800008
+patch=1,EE,205414A4,extended,00000000
+
+[Cheats/Unlock All The Tricks, Sketches And High-resolution Images Creating New Game ] 
+patch=1,EE,204CC834,extended,24020000

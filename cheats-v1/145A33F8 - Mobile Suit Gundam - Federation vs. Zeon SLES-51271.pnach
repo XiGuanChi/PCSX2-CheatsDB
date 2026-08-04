@@ -1,0 +1,26 @@
+[Cheats/Quick Mission Win] 
+patch=1,EE,208A90CC,extended,00010001
+
+[Cheats/Infinite Mission Time] 
+patch=1,EE,208A90D0,extended,29D400C8
+
+[Cheats/Infinite Boost] 
+patch=1,EE,2089E820,extended,0DA60DA6
+
+[Cheats/Infinite Armour] 
+patch=1,EE,2089E6F0,extended,03E703E7
+
+[Cheats/Infinite Main Ammo] 
+patch=1,EE,2089EB1C,extended,000A000A
+
+[Cheats/Infinite Sub-Ammo] 
+patch=1,EE,2089EB28,extended,000A000A
+
+[Cheats/Have Operation Points] 
+patch=1,EE,107DF010,extended,0000270F
+
+[Cheats/1 Hit Kill for the Earth Defense against Zeon]
+patch=1,EE,208A90CC,extended,00000001
+
+[Cheats/Unlock All Bots] 
+patch=1,EE,208A8D34,extended,00000001

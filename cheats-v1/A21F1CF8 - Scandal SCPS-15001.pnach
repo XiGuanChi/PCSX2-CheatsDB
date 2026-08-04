@@ -1,0 +1,16 @@
+[Cheats/Unlock All 35 Clear Endings] 
+patch=1,EE,201000BC,extended,FFFFFFFF
+patch=1,EE,001000C0,extended,1CDE2F07
+
+[Cheats/Achievement Rate 100%] 
+patch=1,EE,20217614,extended,2401FFFF
+patch=1,EE,20217630,extended,AC610000
+patch=1,EE,20217634,extended,2403FFFF
+
+[Cheats/Unlock All GiftS] 
+patch=1,EE,2021E7E4,extended,2401FFFF
+patch=1,EE,2021E7E8,extended,AC410190
+
+[Cheats/Unlock All Presents] 
+patch=1,EE,20224174,extended,24030001
+patch=1,EE,20224178,extended,AC430000

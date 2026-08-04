@@ -1,0 +1,29 @@
+[Cheats/Infinite Health P1] 
+patch=1,EE,10869A60,extended,000000C9
+patch=1,EE,10869B3C,extended,000000C9
+
+[Cheats/1 Hit Kill P2] 
+patch=1,EE,1086A208,extended,00000001
+
+[Cheats/Always 1 Round Match] 
+patch=1,EE,00318DFD,extended,00000001
+
+[Cheats/Training Mode Complete] 
+patch=1,EE,205DE3B8,extended,FFFFFFFF
+patch=1,EE,205DE3B4,extended,FFFFFFFF
+patch=1,EE,205DE3B0,extended,FFFFFFFF
+patch=1,EE,205DE3AC,extended,FFFFFFFF
+
+[Cheats/Unlock All Colors]  
+patch=1,EE,005809A8,extended,000000FF
+
+[Cheats/Unlock All Items And Trophy] 
+patch=1,EE,208684E8,extended,FFFFFFFF
+patch=1,EE,208684EC,extended,FFFFFFFE
+
+[Cheats/Unlock All Levels Selectable 2P Mode] 
+patch=1,EE,0031AF40,extended,00000003
+patch=1,EE,0031AF58,extended,00000003
+patch=1,EE,0031AF70,extended,00000003
+patch=1,EE,0031AF88,extended,00000003
+patch=1,EE,0072F3C0,extended,00000001

@@ -1,0 +1,16 @@
+[Cheats/Zenopittan Stop Timer] 
+patch=1,EE,20128AE0,extended,1000001A
+
+[Cheats/Zenopittan Clear when characters match *1] 
+patch=1,EE,20146724,extended,00000000
+
+[Cheats/Zenopittan Max Score when characters match *1] 
+patch=1,EE,20129474,extended,3C03000F
+patch=1,EE,20129478,extended,3463423F
+
+[Cheats/Unlock All Zeno Comic characters ,CG And Encyclopedia *It is recommended that you save once using the options in the top menu, then restart the game without]  
+patch=1,EE,201565E0,extended,FFFFFFFF
+patch=1,EE,201565E4,extended,FFFFFFFF
+patch=1,EE,001565DC,extended,000000FF
+patch=1,EE,001565FC,extended,000000FF
+patch=1,EE,00156630,extended,000000FF

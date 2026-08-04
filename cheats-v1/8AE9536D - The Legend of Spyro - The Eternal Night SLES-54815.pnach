@@ -1,0 +1,50 @@
+[Cheats/Infinite And Health] 
+patch=1,EE,2095621C,extended,42C80000
+patch=1,EE,20956220,extended,42C80000
+
+[Cheats/Infinite And Max Magic] 
+patch=1,EE,20956238,extended,42c80000
+patch=1,EE,2095623C,extended,42c80000
+
+[Cheats/Infinite And Max Dragon Breath] 
+patch=1,EE,20956254,extended,42c80000
+patch=1,EE,20956258,extended,42c80000
+
+[Cheats/Infinite and Max Dragon Time] 
+patch=1,EE,209562A8,extended,41F00000
+patch=1,EE,209562AC,extended,41F00000
+
+[Cheats/Invincible] 
+patch=1,EE,20273300,extended,10000005
+
+[Cheats/Infinite Health]  
+patch=1,EE,20956218,extended,42200000
+
+[Cheats/Infinite Magic]  infinite 
+patch=1,EE,20956250,extended,41a00000
+
+[Cheats/Infinite Skill Points]   
+patch=1,EE,20956234,extended,44950000
+
+[Cheats/Infinite Fury]   
+patch=1,EE,2095626C,extended,43160000
+
+[Cheats/Infinite SlowTime]   
+patch=1,EE,209562A4,extended,41f00000
+
+[Cheats/Unlock English Level Select]  
+patch=1,EE,00C60414,extended,00000001
+patch=1,EE,00C60415,extended,00000001
+patch=1,EE,00C60594,extended,00000001
+patch=1,EE,00C60595,extended,00000001
+patch=1,EE,00C62D54,extended,00000001
+patch=1,EE,00C62D55,extended,00000001
+
+[Cheats/Unlock French,Spanish,German,Italian,Dutch Level Select] 
+patch=1,EE,00BC58D4,extended,00000001
+patch=1,EE,00BC58D5,extended,00000001
+patch=1,EE,00C62494,extended,00000001
+patch=1,EE,00C62495,extended,00000001
+patch=1,EE,00C62614,extended,00000001
+patch=1,EE,00C62615,extended,00000001
+ 

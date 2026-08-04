@@ -1,0 +1,17 @@
+[Cheats/Unlock Episode 2] 
+patch=1,EE,002C8935,extended,00000010
+
+[Cheats/Unlock All CG]  
+patch=1,EE,202B9FDC,extended,FFFFFFFF
+patch=1,EE,102B9FD4,extended,0000FFFF
+patch=1,EE,102B9FDA,extended,0000FFFF
+patch=1,EE,102B9FCC,extended,0000FFFF
+patch=1,EE,002B9FE0,extended,000000FF
+patch=1,EE,002B9FD2,extended,000000FF
+patch=1,EE,002B9FCA,extended,000000FF
+
+[Cheats/Debug mode Press START]  
+patch=1,EE,002B9F27,extended,0000007F
+
+[Cheats/Enable Debug Mode Controller 1 Triangle+Circle+X+Square+ Start will return you to the title screen.Select+Triangle will enable or disable progressive mode. Controller 2 debug inputs:Circle to toggle debug modes. Press this once or twice to enable sound test options in the Settings menu in the main menu. This will also open a scene select menu in the pause menu in-game.Square toggles a debug flag on or off. This will unlock all extras when enabled.] 
+patch=1,EE,202B9F20,extended,00000001

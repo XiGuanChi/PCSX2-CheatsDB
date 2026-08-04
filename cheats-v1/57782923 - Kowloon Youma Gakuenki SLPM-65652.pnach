@@ -1,0 +1,47 @@
+[Cheats/Max Money] 
+patch=1,EE,20137DBC,extended,00000000
+
+[Cheats/HP 9999 In Battle] 
+patch=1,EE,2012C708,extended,00000000
+patch=1,EE,2012C768,extended,00000000
+patch=1,EE,2012C64C,extended,00000000
+
+[Cheats/Infinite HP]  
+patch=1,EE,2012C70C,extended,240503E7
+patch=1,EE,2012C76C,extended,240503E7
+
+[Cheats/Infinite AP] 
+patch=1,EE,201309F4,extended,2402270F
+
+[Cheats/Max Battery Level]   
+patch=1,EE,007799C2,extended,00000064
+
+[Cheats/Gun range 7] 
+patch=1,EE,201E497C,extended,24050007
+patch=1,EE,201E4988,extended,A4650000
+
+[Cheats/Not Reduced Armor Durability Value] 
+patch=1,EE,2013CAD8,extended,3003FFFF
+
+[Cheats/Max Experience] 
+patch=1,EE,2012FAD4,extended,00000000
+patch=1,EE,2012FAF8,extended,00000000
+
+[Cheats/Have All Ruins Map] 
+patch=1,EE,2017E228,extended,0C04AF50
+
+[Cheats/Unlock All Collection]  
+patch=1,EE,20298B34,extended,24020001
+patch=1,EE,20298D74,extended,24020001
+patch=1,EE,20299750,extended,24020001
+
+[Cheats/Unlock Full Information] 
+patch=1,EE,2029C6BC,extended,0040082D
+patch=1,EE,2029C70C,extended,3C0C0077
+patch=1,EE,2029C7B0,extended,00431025
+patch=1,EE,2029C7B4,extended,004C1025
+patch=1,EE,2029C7B8,extended,AC220000
+
+[Cheats/Press L3 For Debug Menu use in the continue menu.This lets you select the day with L1 R1 buttons or start in your room] 
+patch=1,EE,D0757342,extended,0000FFFD
+patch=1,EE,00D4A884,extended,00000009

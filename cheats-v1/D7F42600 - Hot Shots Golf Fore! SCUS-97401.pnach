@@ -1,0 +1,41 @@
+[Cheats/Always Hole in One All Holes] 
+patch=1,EE,4051250C,extended,0012000A
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Unlock All Capsules]  
+patch=1,EE,0051BEEE,extended,00000005
+patch=1,EE,1051BEEE,extended,00000505
+patch=1,EE,2051BEF0,extended,05050505
+patch=1,EE,2051BEF4,extended,05050505
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,4050BF70,extended,00060001
+patch=1,EE,02020202,extended,00000000
+
+[Cheats/Unlock All Clubs] 
+patch=1,EE,2051BF18,extended,01010101
+patch=1,EE,2051BF1C,extended,01010101
+
+[Cheats/Unlock All Costumes] 
+patch=1,EE,0051BED5,extended,00000005
+patch=1,EE,1051BED6,extended,00000505
+patch=1,EE,4051BED8,extended,00040001
+patch=1,EE,05050505,extended,00000000
+patch=1,EE,1051BEE8,extended,00000505
+patch=1,EE,0051BEEA,extended,00000005
+
+[Cheats/Unlock All Courses] 
+patch=1,EE,0051BED4,extended,00000005
+patch=1,EE,4051BF28,extended,00030001
+patch=1,EE,05050505,extended,00000000
+patch=1,EE,0051BF34,extended,00000005
+
+[Cheats/Unlock All Other] 
+patch=1,EE,1051BF0C,extended,00000505
+patch=1,EE,4051BEF8,extended,00060001
+patch=1,EE,05050505,extended,00000000
+
+[Cheats/Enable Debug Mode In Training Press R3 then L3 to enable a debug menu when fully on a course. The main debug menu allows you to toggle various settings, change characters, and play sounds and animations] 
+patch=1,EE,006CD5D0,extended,00000001
+patch=1,EE,D050E9B2,extended,0000FFFB
+patch=1,EE,0051BC91,extended,00000000

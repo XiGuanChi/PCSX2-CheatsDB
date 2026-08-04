@@ -1,0 +1,23 @@
+[Cheats/Max Gauge] 
+patch=1,EE,10B50B60,extended,00002710
+
+[Cheats/No Mistake Without Having to Press a Button]  
+patch=1,EE,20235804,extended,1000003B
+
+[Cheats/Max Score] 
+patch=1,EE,20B50B80,extended,3B9AC9FF
+patch=1,EE,20B50B84,extended,00000000
+
+[Cheats/Max Combo]
+patch=1,EE,20B50A80,extended,05F5E0FF
+patch=1,EE,20B50A84,extended,00000000
+
+[Cheats/No Miss] 
+patch=1,EE,20235804,extended,1000003B
+
+[Cheats/Max Evaluation After Clearing] 
+patch=1,EE,20B50A28,extended,05F5E0FF
+
+
+[Cheats/Unlock All Songs Free Mode]
+patch=1,EE,202267B8,extended,200300FF

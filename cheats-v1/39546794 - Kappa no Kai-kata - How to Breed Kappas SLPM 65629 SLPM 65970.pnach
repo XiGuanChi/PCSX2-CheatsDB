@@ -1,0 +1,3 @@
+[Cheats/Press L3 on Controller 2 for Debug Menu  in gameThis menu allows you to set various parameters and unlock flags] 
+patch=1,EE,D028A02C,extended,0000FFFD
+patch=1,EE,201F9CE8,extended,0000000E

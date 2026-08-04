@@ -1,0 +1,32 @@
+[Cheats/Take No Damage] 
+patch=1,EE,20104078,extended,00000000
+
+[Cheats/Infinite Health] 
+patch=1,EE,2010C0C0,extended,03E00008
+patch=1,EE,2010C0C4,extended,00000000
+
+[Cheats/Invincible] 
+patch=1,EE,202BB454,extended,00000001
+
+[Cheats/Infinite Voodoo All Voodoos] 
+patch=1,EE,20187178,extended,03E00008
+patch=1,EE,2018717C,extended,00000000
+
+[Cheats/Have All Menu Items and Weapons] 
+patch=1,EE,202BA1CC,extended,00000001
+
+[Cheats/Options Menu Press L1+L2 Debug 1 Menu Activated] 
+patch=1,EE,E002FAFF,extended,002F74C2
+patch=1,EE,20306CE4,extended,FFFFFFFF
+patch=1,EE,10161150,extended,00000041
+
+[Cheats/Options Menu Press R1+R2 Debug 2 Menu Activated] 
+patch=1,EE,E002F5FF,extended,002F74C2
+patch=1,EE,20306CE4,extended,FFFFFFFF
+patch=1,EE,10161150,extended,00000045
+
+[Cheats/Options Menu Press L3+R3 Debug 3 Menu Activated] 
+patch=1,EE,E002FFF9,extended,002F74C2
+patch=1,EE,20306CE4,extended,FFFFFFFF
+patch=1,EE,10161150,extended,00000049
+

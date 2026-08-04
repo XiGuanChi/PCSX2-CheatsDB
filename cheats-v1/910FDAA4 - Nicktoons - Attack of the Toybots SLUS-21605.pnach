@@ -1,0 +1,21 @@
+[Cheats/Take No Damage From Enemies] 
+patch=1,EE,201DBC08,extended,00000000
+
+[Cheats/Max Cubes Upon Pickup] 
+patch=1,EE,20218558,extended,3C0305F5
+patch=1,EE,2021855C,extended,3463E0FF
+
+[Cheats/Infinite Goo could work on loober, Scatter and Splitter Goo] 
+patch=1,EE,20232CC4,extended,00000000
+
+[Cheats/Buying Characters Doesn't Decrease Cubes] 
+patch=1,EE,20146288,extended,00000000
+
+[Cheats/Buying Characters Increases Cubes] 
+patch=1,EE,20146284,extended,00461021
+
+[Cheats/Invulnerability Always on] 
+patch=1,EE,20BA057C,extended,00000001
+
+[Cheats/Invulnerability Always on Alt] 
+patch=1,EE,202AABA4,extended,AE2200EC

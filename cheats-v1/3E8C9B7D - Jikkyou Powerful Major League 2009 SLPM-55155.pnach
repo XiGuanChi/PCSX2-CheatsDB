@@ -1,0 +1,32 @@
+[Cheats/Season Points 99999999]  
+patch=1,EE,D0915A24,extended,00006573
+patch=1,EE,20918B50,extended,3C0305F5
+patch=1,EE,D0915A24,extended,00006573
+
+[Cheats/ Infinite Experience Points even allocated does not decrease] 
+patch=1,EE,D0915A24,extended,00007573
+patch=1,EE,20969E90,extended,00000000
+patch=1,EE,D0915A24,extended,00007573
+patch=1,EE,20969EA8,extended,01003023
+patch=1,EE,D0915A24,extended,00007573
+patch=1,EE,20969EB8,extended,00C02823
+patch=1,EE,D0915A24,extended,00007573
+patch=1,EE,20969EC8,extended,00A01823
+patch=1,EE,D0915A24,extended,00007573
+patch=1,EE,20969ED8,extended,00601023
+
+[Cheats/Upon entering the shop PP 999000] 
+patch=1,EE,204C468C,extended,00000000
+
+[Cheats/experience points 999] 
+patch=1,EE,109BFF96,extended,000003E7
+patch=1,EE,209BFF98,extended,03E703E7
+patch=1,EE,209BFF9C,extended,03E703E7
+
+[Cheats/Success Mode Msx Money]  
+patch=1,EE,209C01F8,extended,0001869F
+
+[Cheats/Unlock all Player Cards]
+patch=1,EE,2045B358,extended,24020001
+patch=1,EE,2045AA48,extended,240A0055
+

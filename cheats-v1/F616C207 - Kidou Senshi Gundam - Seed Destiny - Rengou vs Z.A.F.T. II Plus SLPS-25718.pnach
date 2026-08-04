@@ -1,0 +1,46 @@
+[Cheats/Infinite Health Blue Press Select+Right Red Press Select+Left] 
+patch=1,EE,D06EB6DC,extended,0000FFDE
+patch=1,EE,20183018,extended,10200034
+patch=1,EE,D06EB6DC,extended,0000FF7E
+patch=1,EE,20183018,extended,14200034
+patch=1,EE,20183010,extended,80A10017
+
+[Cheats/1 Hit kill] 
+patch=1,EE,201830A4,extended,46010841
+
+[Cheats/Infinite Ammo]  
+patch=1,EE,202DC638,extended,00E02823
+patch=1,EE,202DC658,extended,10000028
+
+[Cheats/Infinite Boost]  infinity
+patch=1,EE,202D5854,extended,44801000
+
+[Cheats/Rush Gauge Full] 
+patch=1,EE,202C5680,extended,24030001
+patch=1,EE,202C5698,extended,44801000
+
+[Cheats/After Stage Clear Total Points 9999990 Plus Mode] 
+patch=1,EE,203A2B5C,extended,00000000
+
+[Cheats/After Stage Clear 100% and 10000 pts Route Mission] 
+patch=1,EE,1073A824,extended,000003E8
+
+[Cheats/After 2 Battles Gain Exp Points Max Level 50] 
+patch=1,EE,203A2A84,extended,24460104
+patch=1,EE,203A2A88,extended,00041280
+
+[Cheats/Unlock All Mobile Suit MS-MA, Pilots, Route A to H] 
+patch=1,EE,20737020,extended,FFFFFFFF
+patch=1,EE,20737024,extended,FFFFFFFF
+patch=1,EE,20737028,extended,FFFFFFFF
+patch=1,EE,2073702C,extended,FFFFFFFF
+
+[Cheats/Unlock All Gallery, Characters, Movies, Artworks And Sound List] 
+patch=1,EE,20736FE4,extended,FFFFFFFF
+patch=1,EE,20736FE8,extended,FFFFFFFF
+patch=1,EE,20736FEC,extended,FFFFFFFF
+patch=1,EE,20736FF0,extended,FFFFFFFF
+patch=1,EE,20736FF4,extended,FFFFFFFF
+patch=1,EE,20736FF8,extended,FFFFFFFF
+patch=1,EE,20736FFC,extended,FFFFFFFF
+patch=1,EE,10737000,extended,0000FFFF

@@ -1,0 +1,47 @@
+[Cheats/Infinite HP and MP 9999] 
+patch=1,EE,204B4D10,extended,270F270F
+patch=1,EE,204B4D14,extended,270F270F
+
+[Cheats/Status 999] 
+patch=1,EE,204B4D30,extended,03E703E7
+patch=1,EE,204B4D34,extended,03E703E7
+patch=1,EE,204B4D38,extended,03E703E7
+patch=1,EE,204B4D3C,extended,03E703E7
+
+[Cheats/HP MP Max If You Get Stuck by Falling to Your Death Keep Pressing START] 
+patch=1,EE,200F4000,extended,3C010031
+patch=1,EE,200F4004,extended,94217230
+patch=1,EE,200F4008,extended,30210008
+patch=1,EE,200F400C,extended,5420001B
+patch=1,EE,200F4010,extended,AC400004
+patch=1,EE,200F4014,extended,8C410000
+patch=1,EE,200F4018,extended,AC410004
+patch=1,EE,200F407C,extended,03E00008
+patch=1,EE,201C9BA0,extended,0803D000
+
+[Cheats/Infinite Stamina When Attacking] 
+patch=1,EE,201C261C,extended,24420000
+
+[Cheats/Infinite MP 999] 
+patch=1,EE,104B4D12,extended,0000270F
+patch=1,EE,104B4D16,extended,0000270F
+
+[Cheats/Max HP Maintenance]  
+patch=1,EE,201CF3C4,extended,00000000
+
+[Cheats/Max MP Maintenance]
+patch=1,EE,201CF3EC,extended,00000000
+
+[Cheats/Total Weight 0 Save not yet reflected] 
+patch=1,EE,201CF2E0,extended,A6400418
+
+[Cheats/Guns Available Continuous Fire] 
+patch=1,EE,201C1B44,extended,00000000
+patch=1,EE,201C1C18,extended,00000000
+
+[Cheats/Maintain Durability 99 on Weapons Equipped] 
+patch=1,EE,201CEE18,extended,24050063
+patch=1,EE,201CEE24,extended,A04500A0
+
+[Cheats/Max Ammo] 
+patch=1,EE,201C2048,extended,92630394

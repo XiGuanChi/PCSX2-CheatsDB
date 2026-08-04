@@ -1,0 +1,19 @@
+[Cheats/God Mode] 
+patch=1,EE,003BD828,extended,00000043
+
+[Cheats/Infinite Lives Player 1] 
+patch=1,EE,002042F0,extended,00000008
+patch=1,EE,002042F8,extended,00000008
+
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,00215FB4,extended,00000078
+patch=1,EE,00215FBC,extended,00000078
+
+[Cheats/Infinite Lives Player 2] 
+patch=1,EE,202042FC,extended,00000008
+
+[Cheats/Infinite Health Player 2] 
+patch=1,EE,20215FC0,extended,00000078
+
+
+

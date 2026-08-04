@@ -1,0 +1,166 @@
+[Cheats/Max Gold] 
+patch=1,EE,20B5B850,extended,05F5E0FF
+
+[Cheats/Max Party Possession Chim 99] 
+patch=1,EE,10B68EC0,extended,00000063
+
+[Cheats/HP Recovery In Area] 
+patch=1,EE,D04AE820,extended,00006167
+patch=1,EE,205277C4,extended,10000060
+
+[Cheats/SP Recovery In Area] 
+patch=1,EE,D04AE820,extended,00006167
+patch=1,EE,205277D8,extended,1000005D
+
+[Cheats/Skill Trigger Gauge Collects Instantly] 
+patch=1,EE,D04AE820,extended,00006167
+patch=1,EE,204EAC90,extended,A6000200
+
+[Cheats/Max Kneading Degree When Kneaded] 
+patch=1,EE,D04AE820,extended,00006167
+patch=1,EE,2083D844,extended,10000007
+
+[Cheats/HP Recovery In Battle One Hit Death Is Not Supported] 
+patch=1,EE,D050CC54,extended,000000E8
+patch=1,EE,2050CC58,extended,8E4200F4
+patch=1,EE,D050CC54,extended,000000E8 
+patch=1,EE,2050CC5C,extended,A64200E8
+
+[Cheats/SP Recovery In Battle] 
+patch=1,EE,D05277D8,extended,0000005D
+patch=1,EE,205277D8,extended,1000005D
+
+[Cheats/Skill Trigger Gauge Fills Up Quickly In Battle] 
+patch=1,EE,D04EAC90,extended,00000200
+patch=1,EE,204EAC90,extended,A6000200
+
+[Cheats/Avatar Battle Normal Scaith HP Recovery Not Compatible With Enemy Data Drain Attacks] 
+patch=1,EE,D076B8C4,extended,00000580
+patch=1,EE,2076B8CC,extended,3C013F80
+patch=1,EE,D076B8C4,extended,00000580
+patch=1,EE,2076B8DC,extended,AE210008
+
+[Cheats/Avatar Battle Break With One Enemy Hit] 
+patch=1,EE,D076B8C4,extended,00000580
+patch=1,EE,2076B8E8,extended,3C013727
+patch=1,EE,D076B8C4,extended,00000580
+patch=1,EE,2076B8F8,extended,AE210064
+
+[Cheats/Infinite Even If You Use Consumable Items Does Not Decrease Press L2+Up Normal Press L2+Down] 
+patch=1,EE,D0404AC2,extended,0000FEEF
+patch=1,EE,201ECA0C,extended,00000000
+patch=1,EE,D0404AC2,extended,0000FEBF
+patch=1,EE,201ECA0C,extended,A6220002
+
+[Cheats/Max Tension Gauge Always No Display Will Appear but it can be awakened After Press SQUARE] 
+patch=1,EE,20306C34,extended,24020064
+patch=1,EE,20306C3C,extended,AC820028
+
+[Cheats/If You Look At Equipped Items Training Value +99] 
+patch=1,EE,202F6498,extended,24070063
+patch=1,EE,202F64A0,extended,A267000A
+
+[Cheats/Normal Weapon Level Up When You Get Experience]   
+patch=1,EE,2034CC14,extended,2404270F
+
+[Cheats/Level Up When You Get Experience Points] 
+patch=1,EE,20324710,extended,8C8100C8 
+patch=1,EE,20324714,extended,240203E8 
+patch=1,EE,20324718,extended,03E00008 
+patch=1,EE,2032471C,extended,A4220002 
+
+[Cheats/If You Give a Present Your Favorability Will Be Up] 
+patch=1,EE,201E62B8,extended,10000005 
+
+[Cheats/If You Get One Consumable Item You Will Be Up] 
+patch=1,EE,201ECC50,extended,10000003 
+patch=1,EE,201ECCB4,extended,10000003 
+
+[Cheats/After Level Up HP Upper Limit 9999] 
+patch=1,EE,2034D484,extended,24010000
+
+[Cheats/After Level Up SP Upper Limit 9999]  
+patch=1,EE,2034D49C,extended,24010000
+
+[Cheats/After Level Up Physical Attack 999] 
+patch=1,EE,2034D4AC,extended,24010000
+
+[Cheats/After Level Up Physical Defense 999] 
+patch=1,EE,2034D4BC,extended,24010000
+
+[Cheats/After Level Up Magic Attack 999] 
+patch=1,EE,2034D4CC,extended,24010000
+
+[Cheats/After Level Up Magic Defense 999] 
+patch=1,EE,2034D4DC,extended,24010000
+
+[Cheats/After Level Up Fire Attribute 999] 
+patch=1,EE,2034D4EC,extended,24010000
+
+[Cheats/After Level Up Water Attribute 999] 
+patch=1,EE,2034D4FC,extended,24010000
+
+[Cheats/After Level Up Wind Attribute 999]  
+patch=1,EE,2034D50C,extended,24010000
+ 
+[Cheats/After Level Up Earth Attribute 999]  
+patch=1,EE,2034D51C,extended,24010000 
+
+[Cheats/After Level Up Light Attribute 999] 
+patch=1,EE,2034D52C,extended,24010000 
+
+[Cheats/After Level Up Dark Attribute 999]  
+patch=1,EE,2034D53C,extended,24010000
+
+[Cheats/Bike Mission Infinite Time] 
+patch=1,EE,D064E8F0,extended,0000B320
+patch=1,EE,2064E8F4,extended,2402000
+
+[Cheats/Bike Mission Infinite 1 Boost] 
+patch=1,EE,D064EB94,extended,0000021C
+patch=1,EE,2064EB94,extended,A482021C
+
+[Cheats/Bike Mission All Bike Parts Not Reflected In Yaoyojana no Sho] 
+patch=1,EE,40B6A518,extended,000D0001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock Crimson VS Card Gallery View All Cards] 
+patch=1,EE,201E146C,extended,00620821 
+patch=1,EE,201E1470,extended,10000004 
+patch=1,EE,201E1474,extended,24020009 
+patch=1,EE,201E1484,extended,03E00008 
+patch=1,EE,201E1488,extended,A022F638 
+
+[Cheats/99 Greeting Cards] 
+patch=1,EE,20B64A90,extended,63636363 
+patch=1,EE,20B64A94,extended,63636363 
+patch=1,EE,20B64A98,extended,00636363 
+
+[Cheats/Unlock Desktop Screen All BGM When Viewing BGM] 
+patch=1,EE,201E7B9C,extended,24020002
+patch=1,EE,201E7BA0,extended,A0620000
+patch=1,EE,201E7BA4,extended,10000015
+
+[Cheats/Unlock Desktop Screen All Wallpapers When Viewing BG Setting] 
+patch=1,EE,201E79B0,extended,24020002
+patch=1,EE,201E79B4,extended,A0620000
+patch=1,EE,201E79B8,extended,10000008
+
+[Cheats/Unlock Desktop Screen All Movies When Viewing Movies Some movies may not be playable depending on the progress of the story ] 
+patch=1,EE,201E7440,extended,24020002
+patch=1,EE,201E7444,extended,A0620000 
+patch=1,EE,201E7448,extended,10000008
+
+[Cheats/Unlock Desktop Screen All Media Performer All Movies Used With Desktop Screen All Movies Even if the message Unable to view due to story progress is displayed, it can be played]
+patch=1,EE,D04D39FC,extended,000000D9
+patch=1,EE,204D39FC,extended,00000000
+patch=1,EE,D04D5DEC,extended,0000004A
+patch=1,EE,204D5DD4,extended,00000000
+
+[Cheats/Unlock Can Call All Members] 
+patch=1,EE,20B64B58,extended,39425FFE
+patch=1,EE,00B64B5C,extended,00000006
+patch=1,EE,20B64B60,extended,00000000
+patch=1,EE,00B64B64,extended,00000000
+patch=1,EE,20B64B68,extended,39425FFE
+patch=1,EE,00B64B6C,extended,00000006

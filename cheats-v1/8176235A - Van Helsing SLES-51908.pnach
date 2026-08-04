@@ -1,0 +1,17 @@
+[Cheats/Invincible] 
+patch=1,EE,002E886A,extended,00000001
+
+[Cheats/Infinite Health] 
+patch=1,EE,200C2004,extended,E4800004
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2015C528,extended,E482032C
+
+[Cheats/Infinite Finishing Moves] 
+patch=1,EE,200C2030,extended,8C820338
+patch=1,EE,200C2034,extended,03E00008
+patch=1,EE,200C2038,extended,AC820334
+patch=1,EE,2015C578,extended,0803080C
+
+[Cheats/Unlock All Cheats]  
+patch=1,EE,201A05F4,extended,24020001

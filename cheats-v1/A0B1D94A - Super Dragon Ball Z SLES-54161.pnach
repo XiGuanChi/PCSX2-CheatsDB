@@ -1,0 +1,41 @@
+[Cheats/Infinite Dragon Balls] 
+patch=1,EE,405EB22C,extended,00200029
+patch=1,EE,00007F00,extended,00000000
+
+[Cheats/Orginal Mode Infinite Health] 
+patch=1,EE,005b50d4,extended,000000fa
+
+[Cheats/Orginal Mode Infinite Super Energy Player] 
+patch=1,EE,005b50e4,extended,000000f0
+
+[Cheats/Orginal Mode Infinite Super Energy Player 1 R3+R1 On R3+R2 Off] 
+patch=1,EE,D0506502,extended,0000f7fb
+patch=1,EE,000ffff0,extended,00000001
+patch=1,EE,D0506502,extended,0000fdfb
+patch=1,EE,000ffff0,extended,00000000
+patch=1,EE,D00ffff0,extended,00000001
+patch=1,EE,005b50e4,extended,000000f0
+
+[Cheats/Trainings Mode Infinite Health] 
+patch=1,EE,005b509c,extended,000000fa
+
+[Cheats/Trainings Mode Infinite Super Energy Player 1] 
+patch=1,EE,005b50ac,extended,000000f0
+
+[Cheats/Trainings Mode Infinite Super Energy Player 1 R3+R1 on  R3+R2 off] 
+patch=1,EE,D0506502,extended,0000f7fb
+patch=1,EE,000ffff0,extended,00000001
+patch=1,EE,D0506502,extended,0000fdfb
+patch=1,EE,000ffff0,extended,00000000
+patch=1,EE,D00ffff0,extended,00000001
+patch=1,EE,005b50ac,extended,000000f0
+
+[Cheats/Unlock All Characters]  
+patch=1,EE,205EA1B0,extended,00003FF0
+
+
+
+
+
+
+

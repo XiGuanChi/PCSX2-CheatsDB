@@ -1,0 +1,34 @@
+[Cheats/Max Riding Points] 
+patch=1,EE,10A93480,extended,00001388
+
+[Cheats/Max Negotiation] 
+patch=1,EE,2027D364,extended,00000000
+
+[Cheats/When It Starts Running level 30] 
+patch=1,EE,2010DA78,extended,2403001E
+
+[Cheats/Max Potential After Rise] 
+patch=1,EE,20180C00,extended,1000000A
+patch=1,EE,20180C2C,extended,3C034300
+
+[Cheats/Max Degree Of Tamer Friendship] 
+patch=1,EE,2011C118,extended,240200FA
+
+[Cheats/Max Ability Experience Point Ability increases by one level after each race] 
+patch=1,EE,20A934D0,extended,03E703E7
+patch=1,EE,20A934D4,extended,03E703E7
+
+[Cheats/Number Of Arrivals 99 - 99 for 1st to 3rd place, 0 for unplaced] 
+patch=1,EE,20A9327C,extended,00630063
+patch=1,EE,20A93280,extended,00000063
+
+[Cheats/Max Prize Money] 
+patch=1,EE,20A9329C,extended,000F423F
+
+[Cheats/Rearing Horse Ability Up] 
+patch=1,EE,20260AF8,extended,24110064
+
+[Cheats/New horse Max Rearing Competitive Ability] 
+patch=1,EE,20263C20,extended,03E00008
+patch=1,EE,20263C24,extended,2402003F
+

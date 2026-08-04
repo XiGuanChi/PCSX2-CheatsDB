@@ -1,0 +1,93 @@
+[Cheats/Max Intimate]  
+patch=1,EE,2017D1B0,extended,38020064
+patch=1,EE,2017D1B4,extended,8C8D0008
+patch=1,EE,2017D1BC,extended,A1A20026
+
+[Cheats/Required Merit 0 START+L1:ON START+R1:OFF] 
+patch=1,EE,D08B1802,extended,0000FBF7
+patch=1,EE,2029DCF8,extended,00001026
+patch=1,EE,D08B1802,extended,0000F7F7
+patch=1,EE,2029DCF8,extended,8C420000
+
+[Cheats/1 Day Of Training] 
+patch=1,EE,2029E284,extended,00000000
+patch=1,EE,2029E290,extended,24020001
+patch=1,EE,2042D830,extended,24120001
+patch=1,EE,2042E3EC,extended,24150001
+patch=1,EE,2042D594,extended,24130001
+
+[Cheats/Iron Sand 600] 
+patch=1,EE,106D716E,extended,00000258
+
+[Cheats/Medicinal Herbs 600] 
+patch=1,EE,106D7170,extended,00000258
+
+[Cheats/99 Valuables] 
+patch=1,EE,202D8C50,extended,24040063
+patch=1,EE,202D8C7C,extended,A4440002
+
+[Cheats/Max By Changing Special Skill Points siege battle & field battle R2+UP ON R2+DOWN OFF] 
+patch=1,EE,E004FDEF,extended,008B1802
+patch=1,EE,2019662C,extended,3802000A
+patch=1,EE,2019667C,extended,3802000A
+patch=1,EE,202636DC,extended,3804000A
+patch=1,EE,20263D3C,extended,3804000A
+patch=1,EE,E004FDBF,extended,008B1802
+patch=1,EE,2019662C,extended,0C0D0B88
+patch=1,EE,2019667C,extended,0C0D0B98
+patch=1,EE,202636DC,extended,24840001
+patch=1,EE,20263D3C,extended,00A42023
+
+[Cheats/Field battle May be invalid Morale controlL2+UP Morale 200 L2+DOWN Morale 0 L2+RIGKT: normal operation Affects defender in close combat & shooting] 
+patch=1,EE,E002FEEF,extended,008B1802
+patch=1,EE,204AA070,extended,380200C8
+patch=1,EE,204AA030,extended,380200C8
+patch=1,EE,E002FEBF,extended,008B1802
+patch=1,EE,204AA070,extended,00001026
+patch=1,EE,204AA030,extended,00001026
+patch=1,EE,E002FEDF,extended,008B1802
+patch=1,EE,204AA070,extended,3042FFFF
+patch=1,EE,204AA030,extended,3042FFFF
+
+[Cheats/Minigame Tea Set Arrangement No matter what you choose, it's correct ] 
+patch=1,EE,20368BEC,extended,00000000
+
+[Cheats/Minigame Great success in matching nine pictures] 
+patch=1,EE,203688E4,extended,00000000
+
+[Cheats/Minigame Oratory Win with one correct answer Lose if you get one wrong answer] 
+patch=1,EE,203616E8,extended,AE400000
+
+[Cheats/Unlock All Main Character Cards Ver.ß] 
+patch=1,EE,202B8808,extended,A0620000
+patch=1,EE,202B880C,extended,00421026
+
+[Cheats/Unlock All Except The Hero Card only for card list] 
+patch=1,EE,406CCA18,extended,000C0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Hero Cards] 
+patch=1,EE,200F8500,extended,0080680A
+patch=1,EE,200F8504,extended,0380700A
+patch=1,EE,200F8508,extended,0040780A
+patch=1,EE,200F850C,extended,0060C00A
+patch=1,EE,200F8510,extended,03E0C80A
+patch=1,EE,200F8514,extended,3C1C0010
+patch=1,EE,200F8518,extended,00004826
+patch=1,EE,200F8520,extended,0C0AE1B8
+patch=1,EE,200F8524,extended,0120200A
+patch=1,EE,200F8538,extended,25290001
+patch=1,EE,200F853C,extended,292A035C
+patch=1,EE,200F8540,extended,1540FFF7
+patch=1,EE,200F8548,extended,01A0200A
+patch=1,EE,200F854C,extended,01C0E00A
+patch=1,EE,200F8550,extended,01E0100A
+patch=1,EE,200F8554,extended,0300180A
+patch=1,EE,200F8558,extended,0320F80A
+patch=1,EE,200F855C,extended,03E00008
+patch=1,EE,20124D9C,extended,0803E140
+
+[Cheats/Unlock All Event CG]  
+patch=1,EE,206CCA48,extended,FFFFFFFF
+patch=1,EE,206CCA4C,extended,FFFFFFFF
+patch=1,EE,106CCA50,extended,000003FF

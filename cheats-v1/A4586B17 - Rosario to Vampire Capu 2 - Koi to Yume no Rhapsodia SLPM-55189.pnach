@@ -1,0 +1,12 @@
+[Cheats/Unlock All Gallery] 
+patch=1,EE,40258A04,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40258A2B,extended,007F0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10258A28,extended,0000FFFF
+patch=1,EE,00258A2A,extended,000000FF
+patch=1,EE,00258A24,extended,000000FF
+
+[Cheats/Unlock All Gallery and Music]  
+patch=1,EE,40258A04,extended,000B0001
+patch=1,EE,FFFFFFFF,extended,00000000

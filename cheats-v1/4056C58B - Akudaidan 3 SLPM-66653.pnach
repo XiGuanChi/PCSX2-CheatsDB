@@ -1,0 +1,126 @@
+[Cheats/Infinite Money 99999] 
+patch=1,EE,2035D638,extended,0098967F
+
+[Cheats/Infinite HP] 
+patch=1,EE,201D17A0,extended,20989849
+
+[Cheats/Infinite Money Trap] 
+patch=1,EE,201D17D0,extended,20989849
+
+[Cheats/Infinite Money in battle] 
+patch=1,EE,0046D5A5,extended,8A000002
+
+[Cheats/Infinite HP In Battle] 
+patch=1,EE,00429895,extended,410000FF
+
+[Cheats/Max Weapons] 
+patch=1,EE,200FB2F8,extended,03E00008
+patch=1,EE,201B4558,extended,0803EC80
+patch=1,EE,200FB270,extended,0803F09B
+patch=1,EE,200FC26C,extended,3C0F002B
+patch=1,EE,200FC270,extended,35EFF1B8
+patch=1,EE,200FC274,extended,3C0E0010
+patch=1,EE,200FC278,extended,24180010
+patch=1,EE,200FC27C,extended,240C0004
+patch=1,EE,200FC280,extended,91ED0004
+patch=1,EE,200FC284,extended,11A00002
+patch=1,EE,200FC288,extended,258CFFFF
+patch=1,EE,200FC28C,extended,A1CD9100
+patch=1,EE,200FC290,extended,25EF0001
+patch=1,EE,200FC294,extended,25CE0001
+patch=1,EE,200FC298,extended,1580FFF9
+patch=1,EE,200FC2A0,extended,25EFFFFC
+patch=1,EE,200FC2A4,extended,25CEFFFC
+patch=1,EE,200FC2A8,extended,3C0C002F
+patch=1,EE,200FC2AC,extended,958C6A1C
+patch=1,EE,200FC2B0,extended,318C0080
+patch=1,EE,200FC2B4,extended,398C0080
+patch=1,EE,200FC2B8,extended,15800011
+patch=1,EE,200FC2C0,extended,91CB910F
+patch=1,EE,200FC2C4,extended,1560001A
+patch=1,EE,200FC2CC,extended,9DED0000
+patch=1,EE,200FC2D0,extended,ADCD9110
+patch=1,EE,200FC2D4,extended,DDED0008
+patch=1,EE,200FC2D8,extended,FDCD9118
+patch=1,EE,200FC2DC,extended,9DCD9100
+patch=1,EE,200FC2E0,extended,ADED0000
+patch=1,EE,200FC2E4,extended,DDED0010
+patch=1,EE,200FC2E8,extended,FDED0008
+patch=1,EE,200FC2EC,extended,240B0001
+patch=1,EE,200FC2F0,extended,A1CB910F
+patch=1,EE,200FC2F8,extended,0803F0CC
+patch=1,EE,200FC300,extended,91CB910F
+patch=1,EE,200FC304,extended,1160000A
+patch=1,EE,200FC30C,extended,8DCD9110
+patch=1,EE,200FC310,extended,ADED0000
+patch=1,EE,200FC314,extended,DDCD9118
+patch=1,EE,200FC318,extended,FDED0008
+patch=1,EE,200FC31C,extended,A1C0910F
+patch=1,EE,200FC330,extended,25EF01A8
+patch=1,EE,200FC334,extended,25CE0020
+patch=1,EE,200FC338,extended,2718FFFF
+patch=1,EE,200FC340,extended,1700FFCE
+patch=1,EE,200FC348,extended,0803EC9E
+
+[Cheats/Preparation max development funds] 
+patch=1,EE,202DB910,extended,0098967F
+
+[Cheats/Preparation All developed] 
+patch=1,EE,002DB9D9,extended,00000002
+patch=1,EE,102DB9DA,extended,00000202
+patch=1,EE,402DB9DC,extended,001A0001
+patch=1,EE,02020202,extended,00000000
+
+[Cheats/Preparation Have All Other Items] 
+patch=1,EE,402DBA44,extended,003B0001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,402DBB30,extended,000B0001
+patch=1,EE,06060606,extended,00000000
+
+[Cheats/Retaliation Military Money 99999 ryo] 
+patch=1,EE,D03F34BC,extended,000037C8
+patch=1,EE,203F34BC,extended,0C03E000
+patch=1,EE,200F8000,extended,3C010001
+patch=1,EE,200F8004,extended,3421967F
+patch=1,EE,200F8008,extended,AC610014
+patch=1,EE,200F800C,extended,080537C8
+
+[Cheats/Retaliation does not lose strength] 
+patch=1,EE,D03F31F0,extended,0000431B
+patch=1,EE,203F31E8,extended,24014E20
+patch=1,EE,D03F31F0,extended,0000431B
+patch=1,EE,203F31F8,extended,AE010024
+
+[Cheats/Retaliation Military spending does not decrease even if traps are set] 
+patch=1,EE,D03EDFD4,extended,00000082
+patch=1,EE,203EDFCC,extended,00000000
+
+[Cheats/Retaliation Even if you call a bouncer, the military spending will not decrease] 
+patch=1,EE,D03F68C4,extended,00000546
+patch=1,EE,203F68B8,extended,00000000
+
+[Cheats/Retaliation Trap installation location restrictions lifted] 
+patch=1,EE,D03EDEB4,extended,00000065
+patch=1,EE,203EDEB4,extended,00000000
+
+[Cheats/Retaliation The number of times does not decrease even if you use a weapon] 
+patch=1,EE,D03F675C,extended,00000547
+patch=1,EE,203F6754,extended,00000000
+
+[Cheats/Retaliation Enemy Spirit 0] 
+patch=1,EE,D03F5CB0,extended,00000120
+patch=1,EE,203F5CAC,extended,AE600028
+
+[Cheats/Retaliation I don't get tired even if I run] 
+patch=1,EE,D0364488,extended,00000400
+patch=1,EE,20364458,extended,24020032
+patch=1,EE,D0364488,extended,00000400
+patch=1,EE,203644E4,extended,24020032
+
+[Cheats/Retaliation Trap gauge fills up quickly] 
+patch=1,EE,D03DBF38,extended,00004254
+patch=1,EE,203DBF2C,extended,00000000
+
+[Cheats/Retaliation Can be re-installed in places where traps have already been set] 
+patch=1,EE,D03EDEB4,extended,00000065
+patch=1,EE,203EDEB4,extended,00000000

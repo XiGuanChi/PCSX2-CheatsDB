@@ -1,0 +1,26 @@
+[Cheats/Infinite Owner Points] 
+patch=1,EE,20564DF4,extended,AE4A0024
+
+[Cheats/Max Infinite Shop Points] 
+patch=1,EE,200C0220,extended,3C0205F5
+patch=1,EE,200C0224,extended,3442E0FF
+patch=1,EE,200C0228,extended,AC820004
+patch=1,EE,200C022C,extended,03E00008
+patch=1,EE,200C0230,extended,8C820004
+patch=1,EE,2045C680,extended,08030088
+
+[Cheats/Infinite Vitality] 
+patch=1,EE,206DC6A4,extended,24050064
+patch=1,EE,206DC6A8,extended,A4850104
+
+[Cheats/Home Team Scores 50]  
+patch=1,EE,00AB5082,extended,00000032
+
+[Cheats/Home Team Scores 0]  
+patch=1,EE,00AB5082,extended,00000000
+
+[Cheats/Away Team Scores 50]  
+patch=1,EE,00AB555E,extended,00000032
+
+[Cheats/Away Team Scores 0] 
+patch=1,EE,00AB555E,extended,00000000

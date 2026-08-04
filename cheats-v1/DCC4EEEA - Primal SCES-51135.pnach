@@ -1,0 +1,15 @@
+[Cheats/Infinite Health] 
+patch=1,EE,104F22BA,extended,0000DB6F
+
+[Cheats/One Hit Kill] 
+patch=1,EE,104F22D0,extended,000009DD
+
+[Cheats/Unlock All Bonus Material] 
+patch=1,EE,2048599C,extended,00000005
+
+[Cheats/Unlock All Tarot Cards]  
+patch=1,EE,20488710,extended,0FFFFFFF
+
+[Cheats/Unlock All Scenes]  
+patch=1,EE,204887A8,extended,FFFFFFFF
+patch=1,EE,204887AC,extended,FFFFFFFF

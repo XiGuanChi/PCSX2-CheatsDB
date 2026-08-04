@@ -1,0 +1,64 @@
+[Cheats/Infinite HP - Mission 1] 
+patch=1,EE,218B2068,extended,00000004
+
+[Cheats/Infinite HP - Mission 2] 
+patch=1,EE,217F1908,extended,00000004
+
+[Cheats/Infinite HP - Mission 3] 
+patch=1,EE,217F8278,extended,00000004
+
+[Cheats/Max Health] 
+patch=1,EE,20663EB4,extended,63636363
+
+[Cheats/Infinite Bullet & Slug Bullet]   
+patch=1,EE,40663E40,extended,001A0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Max Skill Points and Status] 
+patch=1,EE,20892E7C,extended,0001869F
+patch=1,EE,20892E88,extended,04040404
+patch=1,EE,20892EA4,extended,0001869F
+patch=1,EE,20892EB0,extended,04040404
+patch=1,EE,20892ECC,extended,0001869F
+patch=1,EE,20892ED8,extended,04040404
+patch=1,EE,20892EF4,extended,0001869F
+patch=1,EE,20892F00,extended,04040404
+
+[Cheats/Invincible Characters, Vehicles, Aircraft and Submarine]  
+patch=1,EE,0018ab68,extended,46000830
+patch=1,EE,0018ab6c,extended,45000045
+patch=1,EE,0018ac84,extended,24020000
+patch=1,EE,002ADF78,extended,64020000
+patch=1,EE,00195e74,extended,46001030
+patch=1,EE,00195e78,extended,4500003f
+patch=1,EE,00199424,extended,46001030
+patch=1,EE,00199428,extended,4500003f
+
+[Cheats/Infinite MAIN-Weapon Ammo for Marco, Eri, Tarma and Fio 
+patch=1,EE,0018e674,extended,24050000
+patch=1,EE,0018e73c,extended,24050000
+patch=1,EE,003657f0,extended,24050000
+patch=1,EE,0036b650,extended,24050000
+
+[Cheats/Infinite SUB-Weapon Ammo for Marco, Eri, Tarma and Fio]  
+patch=1,EE,0018e8fc,extended,24050000
+
+[Cheats/Infinite SUB-Weapon Ammo for Metal Slug, Slug Flyer and Slug Mariner]  
+patch=1,EE,00194924,extended,24040000
+patch=1,EE,00195218,extended,24040000
+patch=1,EE,001980d0,extended,24040000
+patch=1,EE,001987d0,extended,24040000
+patch=1,EE,002aaa20,extended,24040000
+patch=1,EE,002ab348,extended,24040000
+patch=1,EE,002aaa0c,extended,24040000
+patch=1,EE,002ab35c,extended,24040000
+patch=1,EE,002b616c,extended,24040000
+
+[Cheats/No Mission Failed when Countdown Timer reaches 00:00:00 in MiniGame]  
+patch=1,EE,001ee518,extended,46000830
+patch=1,EE,001ee51c,extended,45010031
+
+[Cheats/Mission ranking S] 
+patch=1,EE,20663EE4,extended,00000000
+patch=1,EE,20663EF4,extended,00989680
+

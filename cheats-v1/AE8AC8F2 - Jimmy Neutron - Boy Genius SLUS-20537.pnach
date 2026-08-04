@@ -1,0 +1,12 @@
+[Cheats/Infinite Health] 
+patch=1,EE,10498340,extended,00000003
+
+[Cheats/Infinite Lives] 
+patch=1,EE,10498344,extended,00000009
+
+[Cheats/Extra Lives Rocket Game] 
+patch=1,EE,103A5190,extended,00000001
+
+[Cheats/Pause Menu Options = Debug Menu]  
+patch=1,EE,D0B05734,extended,0000049D
+patch=1,EE,20B05734,extended,9BF18517

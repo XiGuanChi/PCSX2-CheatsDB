@@ -1,0 +1,66 @@
+[Cheats/Player 1 Have 9999 LP] 
+patch=1,EE,103177CA,extended,0000270F
+
+[Cheats/Infinite LP P1 In Battle] 
+patch=1,EE,103177CA,extended,0000270F
+
+[Cheats/Max Summoning Level P1] 
+patch=1,EE,003177D1,extended,00000063
+
+[Cheats/Player 2 Have 0 LP] 
+patch=1,EE,10317B1A,extended,00000000
+
+[Cheats/Player 1 Have 99 Wins] 
+patch=1,EE,10299E4E,extended,00000063
+
+[Cheats/Player 1 Have 0 Losses] 
+patch=1,EE,10299E50,extended,00000000
+
+[Cheats/Go to Last Round Press L1 + L2 to activate] 
+patch=1,EE,D03259C2,extended,0000FAFF
+patch=1,EE,103181E2,extended,00006300
+
+[Cheats/Unlock All Cards] 
+patch=1,EE,200FF000,extended,3C030032
+patch=1,EE,200FF004,extended,3463F790
+patch=1,EE,200FF008,extended,24013F50
+patch=1,EE,200FF00C,extended,3C066762
+patch=1,EE,200FF010,extended,34C60525
+patch=1,EE,200FF014,extended,3C08C000
+patch=1,EE,200FF018,extended,35080000
+patch=1,EE,200FF01C,extended,8C690000
+patch=1,EE,200FF020,extended,11090002
+patch=1,EE,200FF028,extended,AC660000
+patch=1,EE,200FF02C,extended,24630004
+patch=1,EE,200FF030,extended,2421FFFF
+patch=1,EE,200FF034,extended,1401FFF9
+patch=1,EE,200FF03C,extended,08064AE0
+patch=1,EE,20192B70,extended,0803FC00
+
+[Cheats/P1 Press L2+R2 For Instant Win] 
+patch=1,EE,D03259C2,extended,0000FCFF
+patch=1,EE,10317B1A,extended,00000000
+
+[Cheats/Can Summon Any Monster] 
+patch=1,EE,201E0974,extended,34020000
+patch=1,EE,201D711C,extended,24020043
+
+[Cheats/Have All Cards In Chest] 
+patch=1,EE,20216B70,extended,3C036762
+patch=1,EE,20216B74,extended,34630525
+patch=1,EE,20216B78,extended,AC830000
+
+[Cheats/Have All Battle Locations] 
+patch=1,EE,20299E14,extended,03030303
+patch=1,EE,20299E18,extended,03030303
+patch=1,EE,10299E1C,extended,00000303
+patch=1,EE,00299E1E,extended,00000003
+
+[Cheats/New Game = Debug Menu] 
+patch=1,EE,001ACB9C,extended,000000FF
+ 
+ 
+ 
+
+
+

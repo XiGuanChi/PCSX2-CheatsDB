@@ -1,0 +1,49 @@
+[Cheats/No Timer in Proquest Mode] 
+patch=1,EE,001898b0,word,24040004
+
+[Cheats/No Timer in Session Mode] 
+patch=1,EE,001743D8,word,24040004
+
+[Cheats/Disable Proquest and Session Timer] 
+patch=1,EE,001738B8,word,24020000
+
+[Cheats/Dave Mirra Have All Bikes & Outfits] 
+patch=1,EE,10217518,extended,00000205
+
+[Cheats/Dave Mirra Unlock Swamp] 
+patch=1,EE,D021762C,extended,00000000
+patch=1,EE,0021762C,extended,00000001
+
+[Cheats/Dave Mirra Unlock Train Yard] 
+patch=1,EE,D0217670,extended,00000000
+patch=1,EE,00217670,extended,00000001
+
+[Cheats/Dave Mirra Unlock Commercial District] 
+patch=1,EE,D02176F8,extended,00000000
+patch=1,EE,002176F8,extended,00000001
+
+[Cheats/Dave Mirra Unlock Devil's Peak] 
+patch=1,EE,D021773C,extended,00000000
+patch=1,EE,0021773C,extended,00000001
+
+[Cheats/Dave Mirra Unlock Highway 47] 
+patch=1,EE,D0217780,extended,00000000
+patch=1,EE,00217780,extended,00000001
+
+[Cheats/Dave Mirra Unlock Galloon] 
+patch=1,EE,D02177C4,extended,00000000
+patch=1,EE,002177C4,extended,00000001
+
+[Cheats/Dave Mirra Unlock Airport] 
+patch=1,EE,D0217808,extended,00000000
+patch=1,EE,00217808,extended,00000001
+
+[Cheats/Unlock Amish Boy] 
+patch=1,EE,1021B134,extended,00000000
+
+[Cheats/Unlock Mike Dias] 
+patch=1,EE,1021AD6C,extended,00000000
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,402174B4,extended,000E00F2
+patch=1,EE,00000002,extended,00000000

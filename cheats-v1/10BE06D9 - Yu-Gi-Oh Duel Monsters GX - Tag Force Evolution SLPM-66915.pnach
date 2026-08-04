@@ -1,0 +1,27 @@
+[Cheats/Infiniite Duelpoints] 
+patch=1,EE,203F0C30,extended,3B9AC9FF
+patch=1,EE,203F0C34,extended,3B9AC9FF
+
+[Cheats/Have All 10 Cards] 
+patch=1,EE,2016017C,extended,24010A0F
+patch=1,EE,20160188,extended,0803FC00
+patch=1,EE,200FF000,extended,A4410000
+patch=1,EE,200FF00C,extended,90420001
+patch=1,EE,200FF010,extended,08058064
+patch=1,EE,200FF014,extended,3042007F
+
+[Cheats/Remove card restrictions] 
+patch=1,EE,200FF004,extended,24010003
+patch=1,EE,200FF008,extended,A0410002
+
+[Cheats/Be sure to draw golden egg bread] 
+patch=1,EE,D0933A14,extended,000036C8
+patch=1,EE,20933A10,extended,24040032
+
+[Cheats/Have All 99 Cards when editing the deck] 
+patch=1,EE,20161500,extended,24100063
+patch=1,EE,20161504,extended,A0500001
+
+[Cheats/Unlock Debug Menu] 
+patch=1,EE,D0941150,extended,00000002
+patch=1,EE,00941150,extended,00000001

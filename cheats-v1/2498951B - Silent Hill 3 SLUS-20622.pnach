@@ -1,0 +1,27 @@
+[Cheats/Infinite Health] 
+patch=1,EE,203D4AEC,extended,43480000
+patch=1,EE,203D4AF0,extended,43480000
+patch=1,EE,203D4AF4,extended,42C80000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2016D91C,extended,00000000
+
+[Cheats/1 Hit Death Enemies] 
+patch=1,EE,2022EF78,extended,AC80019C
+
+[Cheats/Never Tired] 
+patch=1,EE,21D87F6C,extended,00000000
+
+[Cheats/Have All Weapons & Supplies] 
+patch=1,EE,21D31BF0,extended,8D7FFFFE
+
+[Cheats/Have All Items] 
+patch=1,EE,21D31BF4,extended,FFFFFFFC
+patch=1,EE,21D31BF8,extended,FFFFFFFF
+patch=1,EE,21D31BFC,extended,00000FFF
+
+[Cheats/Invincible Cant Be Hit If you save with it on, it will be on the whole game] 
+patch=1,EE,203D4AD8,extended,42C80000
+
+[Cheats/Unlock Access All Maps] 
+patch=1,EE,202D1898,extended,24020001

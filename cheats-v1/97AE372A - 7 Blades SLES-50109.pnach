@@ -1,0 +1,21 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20401268,extended,00000100
+patch=1,EE,204B675C,extended,01000100
+
+[Cheats/Have Shotgun & Shotgun Ammo] 
+patch=1,EE,20498D70,extended,00000001
+patch=1,EE,20498D90,extended,00000064
+
+[Cheats/Have 7th Blade] 
+patch=1,EE,2051C5A4,extended,00000007
+
+[Cheats/Gameplay 16:9] 
+patch=1,EE,20396334,extended,3c013fab
+patch=1,EE,202ef7ec,extended,3c013fab
+
+[Cheats/Press L2 to Activate Fill The Berserk Meter] 
+patch=1,EE,D0551F42,extended,0000FDFF
+patch=1,EE,2051C63C,extended,00000000
+
+[Cheats/Press R2 to Activate Have The 7th Blade] 
+patch=1,EE,2051C5A4,extended,00000007

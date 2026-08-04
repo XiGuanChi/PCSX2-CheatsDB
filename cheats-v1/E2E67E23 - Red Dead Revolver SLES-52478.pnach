@@ -1,0 +1,22 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20364B38,extended,03E00008
+patch=1,EE,20364B3C,extended,00000000
+
+[Cheats/Invincible] 
+patch=1,EE,2035D8E8,extended,00000000
+patch=1,EE,2035DF30,extended,00000000
+
+[Cheats/Max Cash]  
+patch=1,EE,2035D84C,extended,00000000
+
+[Cheats/Unlock Journal And Multiplayer] 
+patch=1,EE,201003F4,extended,24020001
+
+[Cheats/Unlock Journal]  
+patch=1,EE,2011CCF8,extended,24020001
+
+[Cheats/Unlock Multiplayer Missions]  
+patch=1,EE,20132794,extended,24020001
+
+[Cheats/Unlock All Characters In Multiplayer Missions] 
+patch=1,EE,2013FC3C,extended,24020001

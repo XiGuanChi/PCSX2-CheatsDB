@@ -1,0 +1,9 @@
+[Cheats/Max Album Points] 
+patch=1,EE,2039F580,extended,0000FFFF
+
+[Cheats/Unlock All Album Characters] 
+patch=1,EE,2039F668,extended,FFFFFFFF
+
+[Cheats/Unlock All Art] 
+patch=1,EE,4039F584,extended,00360001
+patch=1,EE,FFFFFFFF,extended,00000000

@@ -1,0 +1,29 @@
+[Cheats/Away Team Box Scores 50] 
+patch=1,EE,200C0280,extended,24040032
+patch=1,EE,200C0284,extended,080B41D0
+patch=1,EE,200C0288,extended,AC440000
+patch=1,EE,202CED34,extended,0C0300A0
+
+[Cheats/Away Team Box Scores 0] 
+patch=1,EE,200C0280,extended,24040000
+patch=1,EE,200C0284,extended,080B41D0
+patch=1,EE,200C0288,extended,AC440000
+patch=1,EE,202CED34,extended,0C0300A0
+
+[Cheats/Home Team Box Scores 50] 
+patch=1,EE,200C0290,extended,24040032
+patch=1,EE,200C0294,extended,080B41D0
+patch=1,EE,200C0298,extended,AC440000
+patch=1,EE,202CEDB4,extended,0C0300A4
+
+[Cheats/Home Team Box Scores 0] 
+patch=1,EE,200C0290,extended,24040000
+patch=1,EE,200C0294,extended,080B41D0
+patch=1,EE,200C0298,extended,AC440000
+patch=1,EE,202CEDB4,extended,0C0300A4
+
+[Cheats/Unlock All MVP Rewards] 
+patch=1,EE,20CB08EC,extended,FFFFFFFF
+patch=1,EE,20CB08F0,extended,FFFFFFFF
+patch=1,EE,20CB08F4,extended,FFFFFFFF
+patch=1,EE,20CB08F8,extended,FFFFFFFF

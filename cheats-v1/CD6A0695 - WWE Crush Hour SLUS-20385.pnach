@@ -1,0 +1,20 @@
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,20999A24,extended,447A0000
+
+[Cheats/Infinite Turbo Player 1] 
+patch=1,EE,2099C0FC,extended,00000003
+
+[Cheats/No Health Player 2] 
+patch=1,EE,2099C524,extended,00000000
+
+[Cheats/No Health Player 3] 
+patch=1,EE,2099F024,extended,00000000
+
+[Cheats/No Health Player 4] 
+patch=1,EE,209A1B24,extended,00000000
+
+[Cheats/Unlock All Wrestlers] 
+patch=1,EE,2075D8D0,extended,FFFFFFFF
+
+[Cheats/Unlock All Arenas] 
+patch=1,EE,2075D8D4,extended,0000FFFF

@@ -1,0 +1,84 @@
+[Cheats/The Griffen House Infinite Health Stewie] 
+patch=1,EE,21A24A80,extended,42C80000
+patch=1,EE,21A24AB4,extended,42C80000
+
+[Cheats/Hospital Missions Infinite Health Stewie] 
+patch=1,EE,219EC610,extended,42C80000
+patch=1,EE,219EC644,extended,42C80000
+
+[Cheats/Police Station Missions Invisible Brian If you come in contact with someone you will be detected] 
+patch=1,EE,218C2020,extended,00000001
+
+[Cheats/Police Station Missions Low Impulse Meter Bone Meter] 
+patch=1,EE,218C2054,extended,00000000
+
+[Cheats/Outside Hospital+Spooner St. Infinite Health Peter] 
+patch=1,EE,21A1FE84,extended,42C80000
+patch=1,EE,21A1FE88,extended,42C80000
+
+[Cheats/Outside Hospital+Spooner St. Infinite Snack Meter] 
+patch=1,EE,21A1FE78,extended,42C80000
+patch=1,EE,21A1FE80,extended,42C80000
+
+[Cheats/Inside Peter Missions Infinite Health Stewie] 
+patch=1,EE,21A24B20,extended,42C80000
+patch=1,EE,21A24B54,extended,42C80000
+
+[Cheats/Channel 5 Missions Invisible Brian If you come in contact with someone you will be detected] 
+patch=1,EE,2186B0E0,extended,00000001
+
+[Cheats/Channel 5 Missions Low Impulse Meter Bone Meter] 
+patch=1,EE,2186B114,extended,00000000
+
+[Cheats/Rufus Griffen Chessie Charlie's Missions Infinite Health Peter] 
+patch=1,EE,21A10848,extended,42c80000
+patch=1,EE,21A1084C,extended,42c80000
+
+[Cheats/Rufus Griffen Chessie Charlie's Missions Max Infinite Snack Meter] 
+patch=1,EE,21A1083C,extended,42c80000
+patch=1,EE,21A10844,extended,42c80000
+
+[Cheats/Geronimo's Missions Infinite Health Peter] 
+patch=1,EE,21A1D158,extended,42C80000
+patch=1,EE,21A1D15C,extended,42C80000
+
+[Cheats/Geronimo's Missions Max Infinite Snack Meter] 
+patch=1,EE,21A1D14C,extended,43960000
+patch=1,EE,21A1D154,extended,43960000
+
+[Cheats/Bertram's Missions Infinite Health Stewie] 
+patch=1,EE,21A24F90,extended,42c80000
+patch=1,EE,21A24FC4,extended,42c80000
+
+[Cheats/Quahog Race Track Invisible Brian If you come in contact with someone you will be detected] 
+patch=1,EE,218CD050,extended,00000001
+
+[Cheats/Quahog Race Track Low Impulse Meter Bone Meter] 
+patch=1,EE,218CD084,extended,00000000
+
+[Cheats/Quahog Harbor Missions Infinite Health Peter] 
+patch=1,EE,21A3EEC0,extended,42C80000
+patch=1,EE,21A3EEC4,extended,42C80000
+
+[Cheats/Quahog Harbor Missions Max Infinite Snack Meter] 
+patch=1,EE,21A3EEB4,extended,43C80000
+patch=1,EE,21A3EEBC,extended,43C80000
+
+[Cheats/Bertram's Playground Infinite Health Stewie] 
+patch=1,EE,21A25300,extended,42C80000
+patch=1,EE,21A25334,extended,42C80000
+
+[Cheats/Drunken Clam Mission Infinite Health Peter] 
+patch=1,EE,21584E20,extended,42C80000
+patch=1,EE,21584E24,extended,42C80000
+
+[Cheats/Drunken Clam Mission Max Infinite Snack Meter] 
+patch=1,EE,21584E14,extended,43FA0000
+patch=1,EE,21584E1C,extended,43FA0000
+
+[Cheats/Unlock All Cut Away Games] 
+patch=1,EE,20272F90,extended,FFFC0000
+patch=1,EE,200C0254,extended,AC6102E8
+
+[Cheats/Debug Menu Hold Select to bring up a debug menu Press R3 + L3 for free camera mode.Press R2 to disable or enable music. The LEVEL_SELECT option doesn't work anymore. ]
+patch=1,EE,20131C60,extended,24022075

@@ -1,0 +1,47 @@
+[Cheats/Max Money] 
+patch=1,EE,202C5AB8,extended,00000000
+
+[Cheats/Max Experience] 
+patch=1,EE,202C5B18,extended,00000000
+
+[Cheats/All you can assign bonus when creating a character] 
+patch=1,EE,202DFB7C,extended,00000000
+patch=1,EE,202DFDB8,extended,00000000
+
+[Cheats/HP 9999] 
+patch=1,EE,10D82C46,extended,0000270F
+
+[Cheats/1 year old] 
+patch=1,EE,00D82C41,extended,00000002
+
+[Cheats/All occupations can be selected when creating a character] 
+patch=1,EE,202DFA58,extended,00000000 
+patch=1,EE,202DFA68,extended,00000000
+
+[Cheats/All occupations can be selected when changing jobs] 
+patch=1,EE,202E0CDC,extended,00000000
+patch=1,EE,202E0CEC,extended,00000000
+patch=1,EE,202E0D14,extended,00000000
+
+[Cheats/Enemy incapacitated] 
+patch=1,EE,20284500,extended,00000000
+
+[Cheats/Treasure box trap not activated] 
+patch=1,EE,202AB360,extended,00000000
+
+[Cheats/Item has been appraised] 
+patch=1,EE,2029C53C,extended,34420001
+patch=1,EE,2029C540,extended,A0A20000
+
+[Cheats/All Dungeon Maps] 
+patch=1,EE,202D4200,extended,00821025
+patch=1,EE,202D4204,extended,A422515E
+
+[Cheats/Unlock All Monster Encyclopedia] 
+patch=1,EE,202E16DC,extended,24030001 
+patch=1,EE,202E16E0,extended,A2031A63
+
+[Cheats/Debug Menu After Press Start Screen1 Battle Test 2 Dungeon Test 3.Character Image Viewer 4.Sound Test 5.From the beginning (From memory card check & auto load) 6 Battle Test 2 7.Treasure Chest Test 8 Movie Test 9 For Debug SW 10.Debug CHR 11 Random Number Test] 
+patch=1,EE,001817A0,extended,00000000
+
+

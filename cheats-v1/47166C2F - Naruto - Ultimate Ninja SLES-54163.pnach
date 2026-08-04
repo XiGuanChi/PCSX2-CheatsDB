@@ -1,0 +1,16 @@
+[Cheats/Infinite Money]  
+patch=1,EE,20333724,extended,00000000
+
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,200C0220,extended,3C013F80
+patch=1,EE,200C0224,extended,0805FFC4
+patch=1,EE,200C0228,extended,AC810058
+patch=1,EE,2024ad64,extended,0C030088
+patch=1,EE,2024ad94,extended,0C030088
+
+[Cheats/Max.Shop Items] 
+patch=1,EE,200C0260,extended,A0411198
+patch=1,EE,200C0264,extended,080921C7
+patch=1,EE,200C0268,extended,90421198
+patch=1,EE,202491a0,extended,08030098
+patch=1,EE,202491a4,extended,24010063

@@ -1,0 +1,55 @@
+[Cheats/Max Seed Points] 
+patch=1,EE,2194BEDC,extended,05F5E0FF
+
+[Cheats/Max Shoot Down Point at Clear Time] 
+patch=1,EE,20206C54,extended,00000000
+patch=1,EE,20206C9C,extended,00000000
+
+[Cheats/Max Life & Time Bonus] 
+patch=1,EE,20206DEC,extended,00000000
+patch=1,EE,20206E4C,extended,00000000
+patch=1,EE,202C8650,extended,0001869F
+
+[Cheats/Max Partner Experience Value when Selecting a Partner] 
+patch=1,EE,20231F50,extended,3C020002
+patch=1,EE,20231F54,extended,ACC20004
+
+[Cheats/Infinite Side HP P1 PS and SP Gauge will be Reduced] 
+patch=1,EE,201BEF30,extended,14C00004
+
+[Cheats/Max Side SP and PS P1]  
+patch=1,EE,20385A74,extended,469C0000
+patch=1,EE,20385A78,extended,469C0000
+
+[Cheats/Max Side Tension Gauge P1] 
+patch=1,EE,20385A64,extended,469C0000
+
+[Cheats/Infinite Side Residual Bullet P1]   
+patch=1,EE,201C8888,extended,241003E7
+patch=1,EE,201C8890,extended,AC900834
+patch=1,EE,201C8894,extended,AC900830
+
+[Cheats/Infinite Thruster Gauge] 
+patch=1,EE,2019FDEC,extended,10000004
+patch=1,EE,2019FE00,extended,3C020000
+patch=1,EE,2019FE3C,extended,10000004
+patch=1,EE,2019FE50,extended,3C020000
+
+[Cheats/Max HP Defense Target You can not Receive a Unit Bonus when Clearing] 
+patch=1,EE,2025526C,extended,9603002E
+patch=1,EE,20255270,extended,AE03001C
+patch=1,EE,20255274,extended,AE030020
+
+[Cheats/Unlock All Unit Appearance in Item Shop] 
+patch=1,EE,20231F8C,extended,304200DF
+patch=1,EE,20231F90,extended,A2020200
+patch=1,EE,202320D4,extended,306300DF
+patch=1,EE,202320D8,extended,A2430288
+
+[Cheats/Unlock Story Mode Cleared Free Select is Added to Survival Mode and Kira· Asuran Edition Respectively] 
+patch=1,EE,1194BEC8,extended,00000001
+patch=1,EE,1194BECC,extended,00007FFF
+patch=1,EE,1194BED0,extended,000007FF
+
+[Cheats/Unlock All Missions]  
+patch=1,EE,2194BEC4,extended,FFFFFFFF

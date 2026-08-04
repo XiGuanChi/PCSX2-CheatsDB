@@ -1,0 +1,22 @@
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,10889998,extended,000000E0
+
+[Cheats/Infinite Power Gauge Player 1] 
+patch=1,EE,10889948,extended,00006300
+
+[Cheats/2P Health 0] 
+patch=1,EE,10889C18,extended,00000000
+
+[Cheats/2P Power Gauge 0] 
+patch=1,EE,10889BC8,extended,00000000
+
+[Cheats/EXCEED Can Be Used Regardless Of Physical Strength] 
+patch=1,EE,202CD860,extended,24020004
+
+[Cheats/2P Health 0 Press SELECT]  
+patch=1,EE,D08714C2,extended,0000FFFE
+patch=1,EE,10889C18,extended,00000000
+
+[Cheats/2P Power Gauge 0 Press SELECT] 
+patch=1,EE,D08714C2,extended,0000FFFE
+patch=1,EE,10889BC8,extended,00000000

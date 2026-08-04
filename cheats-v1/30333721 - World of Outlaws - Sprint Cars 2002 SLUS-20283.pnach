@@ -1,0 +1,39 @@
+[Cheats/Infinite Money]
+patch=1,EE,10879A68,extended,0000FFFF
+
+[Cheats/Max Money] 
+patch=1,EE,20879A68,extended,05F5E0FF
+
+[Cheats/Infinite Total Career Earnings] 
+patch=1,EE,1087B8AC,extended,0000FFFF
+
+[Cheats/Max Total Career Earnings] 
+patch=1,EE,2087B8AC,extended,05F5E0FF
+
+[Cheats/Start On Lap 5] 
+patch=1,EE,D02D7ED0,extended,00000000
+patch=1,EE,102D7ED0,extended,00000004
+
+[Cheats/Press R1 For Nitrous Boost] 
+patch=1,EE,E002F7FF,extended,003FF102
+patch=1,EE,202ABCAC,extended,43160000
+patch=1,EE,202ABEFC,extended,43160000
+
+[Cheats/Unlock Hover Mode] 
+patch=1,EE,402ABC00,extended,00040094
+patch=1,EE,41100000,extended,00000000
+
+[Cheats/Always Good Tires] 
+patch=1,EE,402ABDE0,extended,00040094
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Better Traction] 
+patch=1,EE,402AC8A4,extended,00040001
+patch=1,EE,40200000,extended,00000000
+
+[Cheats/Absorb Less Damage] 
+patch=1,EE,202ACAA4,extended,00000000
+patch=1,EE,202ACAC8,extended,00000000
+patch=1,EE,202ACACC,extended,00000000
+patch=1,EE,202ACAD8,extended,00000000
+patch=1,EE,202ACADC,extended,00000000

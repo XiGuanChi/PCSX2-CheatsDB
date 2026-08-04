@@ -1,0 +1,57 @@
+[Cheats/Infinite Power Mounts] 
+patch=1,EE,2027AC74,extended,00000000
+
+[Cheats/Infinite Health Crash] 
+patch=1,EE,200FFF80,extended,8C810014
+patch=1,EE,200FFF84,extended,AC810004
+patch=1,EE,200FFF88,extended,080AED13
+patch=1,EE,200FFF8C,extended,03E00008
+patch=1,EE,202BB44C,extended,0803FFE0
+
+[Cheats/Infinite Time Using Free Jack Power-up] 
+patch=1,EE,202BAE98,extended,00000000
+
+[Cheats/Infinite Time Using Quad Damage Power-up] 
+patch=1,EE,202BAF6C,extended,00000000
+
+[Cheats/Unlock All Skins] 
+patch=1,EE,40701B70,extended,000B0001
+patch=1,EE,00000000,extended,00000001
+
+[Cheats/Unlock All Concept Art]  
+patch=1,EE,4073BCD8,extended,000C0001
+patch=1,EE,00000000,extended,00000001
+
+[Cheats/Unlock All Enemy Info] 
+patch=1,EE,4073BD18,extended,00140001
+patch=1,EE,00000000,extended,00000001
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,40700208,extended,00080001
+patch=1,EE,6A8075B9,extended,00000001
+patch=1,EE,4070022C,extended,000A0001
+patch=1,EE,6A8075D7,extended,00000001
+patch=1,EE,20700288,extended,00700254
+
+[Cheats/Unlock All Movies Alt] 
+patch=1,EE,20700208,extended,6A8075B9 
+patch=1,EE,2070020C,extended,6A8075BA 
+patch=1,EE,20700210,extended,6A8075BB 
+patch=1,EE,20700214,extended,6A8075BC
+patch=1,EE,20700218,extended,6A8075BD
+patch=1,EE,2070021C,extended,6A8075BE
+patch=1,EE,20700220,extended,6A8075BF
+patch=1,EE,20700224,extended,6A8075C0
+patch=1,EE,20700228,extended,6A8075C1
+patch=1,EE,2070022C,extended,6A8075D7
+patch=1,EE,20700230,extended,6A8075D8
+patch=1,EE,20700234,extended,6A8075D9
+patch=1,EE,20700238,extended,6A8075DA
+patch=1,EE,2070023C,extended,6A8075DB
+patch=1,EE,20700240,extended,6A8075DC
+patch=1,EE,20700244,extended,6A8075DD
+patch=1,EE,20700248,extended,6A8075DE
+patch=1,EE,2070024C,extended,6A8075DF
+patch=1,EE,20700250,extended,6A8075E0
+patch=1,EE,20700254,extended,6A8075E1
+patch=1,EE,20700288,extended,00700254

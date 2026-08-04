@@ -1,0 +1,3 @@
+[Cheats/Enable Debug Mode which grants a few debug shortcuts such as disabling the HUD and granting money. It will also enable a debug camera mode.] 
+patch=1,EE,214D37C0,extended,0853C838
+patch=1,EE,214D3764,extended,00000000

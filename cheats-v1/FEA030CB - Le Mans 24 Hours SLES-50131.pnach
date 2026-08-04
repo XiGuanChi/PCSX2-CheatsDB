@@ -1,0 +1,14 @@
+[Cheats/Freeze Lap Timer] 
+patch=1,EE,206B94E0,extended,00000100
+
+[Cheats/Easy 2 Wheels] 
+patch=1,EE,20221B6C,extended,00000000
+
+[Cheats/No Slow Down Off Track] 
+patch=1,EE,20221B94,extended,00000000
+
+[Cheats/No Fuel Useage] 
+patch=1,EE,20221BDC,extended,00000000
+
+[Cheats/No Tyre Wear] 
+patch=1,EE,20221BEC,extended,00000000

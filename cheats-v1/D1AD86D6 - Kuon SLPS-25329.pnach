@@ -1,0 +1,17 @@
+[Cheats/Infinite Health This is a special trap that only exists in one place, but
+ if you leave the choking attack alone you will die] 
+patch=1,EE,20151AF8,extended,AE0001A0
+
+[Cheats/99 Recovery Items] 
+patch=1,EE,00A15C69,extended,000000E3
+patch=1,EE,00A15C6A,extended,000000E3
+
+[Cheats/99 Save Items] 
+patch=1,EE,00A15C6D,extended,000000E3
+
+[Cheats/Unlock All Chapters Completed Various Settings are available at the start of the game] 
+patch=1,EE,203A2C38,extended,01010101
+
+[Cheats/Unlock Sugoroku Added To The Title Menu] 
+patch=1,EE,003A2C32,extended,00000003
+

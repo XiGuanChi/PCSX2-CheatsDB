@@ -1,0 +1,35 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20339BF8,extended,3C0142C8
+patch=1,EE,20339C08,extended,AC610020
+
+[Cheats/Infinite Shield] 
+patch=1,EE,20339C34,extended,3C01437A
+patch=1,EE,20339C44,extended,AC610018
+
+[Cheats/Infinite Weapon Energy] 
+patch=1,EE,20339D00,extended,AC400028
+patch=1,EE,20339D88,extended,AC400028
+
+[Cheats/Always Low Time] 
+patch=1,EE,2AB34776,extended,AEA000A8
+
+[Cheats/Have All 2P Missions Completed] 
+patch=1,EE,204DC704,extended,24020001
+
+[Cheats/Have All Gold Medals] 
+patch=1,EE,204DC734,extended,24020001
+
+[Cheats/Have All Green Medals] 
+patch=1,EE,204DC764,extended,24020001
+
+[Cheats/Have All Blue Medals]
+patch=1,EE,204DC794,extended,24020001
+
+[Cheats/Mission Completed Easy] 
+patch=1,EE,009FEF5A,extended,00000001
+
+[Cheats/Mission Completed Medium] 
+patch=1,EE,009FEF5A,extended,00000002
+
+[Cheats/Mission Completed Hard] 
+patch=1,EE,009FEF5A,extended,00000003

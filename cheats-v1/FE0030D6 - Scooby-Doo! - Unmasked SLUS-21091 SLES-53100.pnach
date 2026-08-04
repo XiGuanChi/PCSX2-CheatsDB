@@ -1,0 +1,17 @@
+[Cheats/Infinite Medals Health] 
+patch=1,EE,204116A0,extended,0000000C
+
+[Cheats/Infinite Medals Health alt] 
+patch=1,EE,2041B920,extended,0000000C
+
+[Cheats/Unlock All Monster Profiles] 
+patch=1,EE,40411728,extended,000A0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Levels]  
+patch=1,EE,20411694,extended,FFFFFFFF
+patch=1,EE,20411698,extended,FFFFFFFF
+
+[Cheats/Unlock All Monster Profiles and Unlock All Levels] 
+patch=1,EE,4041B9A8,extended,000A0001
+patch=1,EE,FFFFFFFF,extended,00000000

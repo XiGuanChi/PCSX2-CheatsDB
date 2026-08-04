@@ -1,0 +1,14 @@
+[Cheats/God Mode] 
+patch=1,EE,2020ED6C,extended,24030001
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,201FCB3C,extended,24020063
+patch=1,EE,201FCB40,extended,A4620000
+patch=1,EE,201FCB48,extended,00000000
+
+[Cheats/Unlock All Weapons] 
+patch=1,EE,20226048,extended,24060001
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,20220828,extended,240200FF
+patch=1,EE,202207FC,extended,240300FF

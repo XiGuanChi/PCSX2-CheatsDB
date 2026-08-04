@@ -1,0 +1,32 @@
+[Cheats/Always 10 Wacky Tokens] 
+patch=1,EE,10434DEC,extended,0000000A
+
+[Cheats/Start On Last Lap] 
+patch=1,EE,10434DD0,extended,00000007
+
+[Cheats/Freeze Timer] 
+patch=1,EE,202C4524,extended,00000007
+
+[Cheats/Auto Drive] 
+patch=1,EE,201D8F08,extended,8E230624
+patch=1,EE,201D8F0C,extended,10600007
+patch=1,EE,E002000B,extended,002D3C5C
+patch=1,EE,201D8F08,extended,24030001
+patch=1,EE,201D8F0C,extended,AE230624
+
+[Cheats/Can Choose Any Character even if it's written not available ] 
+patch=1,EE,201909A8,extended,10000005
+
+[Cheats/Can Use Powers even without coins Works for a limited amount of times per race] 
+patch=1,EE,2020E438,extended,10000003
+
+[Cheats/One Lap to finish races] 
+patch=1,EE,201E0D00,extended,00000000
+
+[Cheats/Opponents don't move and drive through them] 
+patch=1,EE,201ECA2C,extended,24160001
+
+[Cheats/Take Wacky Tokens Anywhere] 
+patch=1,EE,2020ED38,extended,00000000
+patch=1,EE,2020ED44,extended,00000000
+patch=1,EE,2020ED60,extended,00000000

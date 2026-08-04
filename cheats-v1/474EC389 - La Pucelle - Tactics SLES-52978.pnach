@@ -1,0 +1,19 @@
+[Cheats/Prina 99.999.999] 
+patch=1,EE,203717b8,extended,05f5e0ff
+
+[Cheats/All Characters Infinite HP] 
+patch=1,EE,10329D3C,extended,000003E7
+patch=1,EE,1032A384,extended,000003E7
+patch=1,EE,1032A9CC,extended,000003E7
+
+[Cheats/All Characters Infinite SP] 
+patch=1,EE,10329D44,extended,000003E7
+patch=1,EE,1032A38C,extended,000003E7
+patch=1,EE,1032A9D4,extended,000003E7
+
+[Cheats/Enable Developer Mode This mode will activate hidden menus normally not accessible, enable debug displays, and allow you to open a debug menu at anytime with a second controller, and many more. Apply the following code for your version of the game to enable this mode.With a second controller plugged in, to bring up the debug menu anytime, press Select on controller 2. The known controller 2 inputs are below:Select will open / close the debug menu.D-Pad / Left Stick moves through the menu.Right / Left will toggle the option on or off you have highlighted.Circle to enter an option.R3 brings up a list. It is unclear what this does]  
+patch=1,EE,20102738,extended,0C047E10
+patch=1,EE,2011F840,extended,34840002
+patch=1,EE,2011F844,extended,AF8484A8
+patch=1,EE,2011F848,extended,03E00008
+patch=1,EE,2011F84C,extended,8F8484A8

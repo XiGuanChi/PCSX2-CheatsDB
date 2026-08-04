@@ -1,0 +1,18 @@
+[Cheats/God Mode] 
+patch=1,EE,2036B650,extended,00000001
+
+[Cheats/Infinite Health]
+patch=1,EE,2038FDD8,extended,43FA0000
+
+[Cheats/Infinite Health Hand To Hand] 
+patch=1,EE,20187C8C,extended,3C014248
+patch=1,EE,20187CAC,extended,AE010014
+
+[Cheats/Infinite Armour] 
+patch=1,EE,2038FDDC,extended,443B8000
+
+[Cheats/Infinite Continues] 
+patch=1,EE,20288B80,extended,00000063
+
+[Cheats/Have All Weapons In Level] 
+patch=1,EE,2036C728,extended,00000001

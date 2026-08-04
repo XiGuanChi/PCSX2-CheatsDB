@@ -1,0 +1,42 @@
+[Cheats/Profile 1 Max Cash] 
+patch=1,EE,208EC200,extended,3B9AC9FF
+
+[Cheats/DEV Points] 
+patch=1,EE,208EC208,extended,3B9AC9FF
+
+[Cheats/Player 1 Infinite Health] 
+patch=1,EE,204BC4C0,extended,42C80000
+patch=1,EE,204BC4C8,extended,42C80000
+
+[Cheats/Player 1 Max Momentum and Stamina] 
+patch=1,EE,204BC4D4,extended,42C80000
+
+[Cheats/Player 1 Max Health] 
+patch=1,EE,204BC4C4,extended,42C80000
+
+[Cheats/P2 No Health] 
+patch=1,EE,204BD7B8,extended,00000000
+patch=1,EE,204BD7BC,extended,00000000
+patch=1,EE,204BD7C0,extended,00000000
+
+[Cheats/Unlock All Venues] 
+patch=1,EE,208EAB10,extended,00000018
+patch=1,EE,408EBD6C,extended,00180001
+patch=1,EE,17000001,extended,00000001
+
+[Cheats/Unlock All Fighters] 
+patch=1,EE,208EAB24,extended,0000004B
+patch=1,EE,408EBDE5,extended,004B0001
+patch=1,EE,07000001,extended,00000001
+
+[Cheats/Story Mode Access All Gear] 
+patch=1,EE,200C0220,extended,240300FF
+patch=1,EE,200C0224,extended,080D85B3
+patch=1,EE,200C0228,extended,A0430000
+patch=1,EE,203616C8,extended,08030088
+
+[Cheats/Story Mode Access All Moves] 
+patch=1,EE,200C0230,extended,240200FF
+patch=1,EE,200C0234,extended,080D852F
+patch=1,EE,200C0238,extended,A0620000
+patch=1,EE,203614B8,extended,0803008C

@@ -1,0 +1,41 @@
+[Cheats/Freeze Timer] 
+patch=1,EE,203FEEE8,extended,3F800FAB
+
+[Cheats/Guards Ignore Taz]  
+patch=1,EE,201615D8,extended,10000030
+
+[Cheats/Play Without Guards] 
+patch=1,EE,20162CDC,extended,10000016
+
+[Cheats/Unlock Looningdale's] 
+patch=1,EE,201504D8,extended,24020064
+
+[Cheats/Unlock Ice Burg] 
+patch=1,EE,20150408,extended,24020064
+
+[Cheats/Unlock Loney Lagoon]  
+patch=1,EE,20150470,extended,24020064
+
+[Cheats/Unlock Granny Canyon] 
+patch=1,EE,20150610,extended,24020064
+
+[Cheats/Unlock Taz - Haunted] 
+patch=1,EE,201506E0,extended,24020064
+
+[Cheats/Unlock Zooney Tunes] 
+patch=1,EE,20150378,extended,24020064
+
+[Cheats/Unlock Samsonian] 
+patch=1,EE,20150540,extended,24020064
+
+[Cheats/Unlock Cartoon Strip-Mine] 
+patch=1,EE,20150678,extended,24020064
+
+[Cheats/Unlock Bank Of Samerica] 
+patch=1,EE,201505A8,extended,24020064
+
+[Cheats/Unlock All Gallery]  
+patch=1,EE,2010AD24,extended,24020001
+patch=1,EE,2010AD28,extended,AC6202EC
+
+

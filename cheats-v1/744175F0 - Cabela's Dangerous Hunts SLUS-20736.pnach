@@ -1,0 +1,51 @@
+[Cheats/Infinite Hydration] 
+patch=1,EE,204392B0,extended,00000000
+
+[Cheats/Infinite Stamina] 
+patch=1,EE,204393E0,extended,00000000
+
+[Cheats/Infinite Nutrition] 
+patch=1,EE,204394CC,extended,00000000
+
+[Cheats/Infinite Condition] 
+patch=1,EE,204396E4,extended,00000000
+
+[Cheats/Infinite Health] 
+patch=1,EE,20439550,extended,3C0142C8
+patch=1,EE,20439554,extended,AE61023C
+
+[Cheats/Never Reload] 
+patch=1,EE,20450094,extended,00000000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2044FE60,extended,00000000
+
+[Cheats/Extra Ammo] 
+patch=1,EE,2044FE5C,extended,00651821
+
+[Cheats/Stop Timer] 
+patch=1,EE,006B8CD8,extended,00000000
+
+[Cheats/Career Hunt Max Credits] 
+patch=1,EE,2069D29C,extended,05F5E0FF
+
+[Cheats/Unlock All Charters] 
+patch=1,EE,206B2054,extended,00000000
+
+[Cheats/Infinite Creation Points] 
+patch=1,EE,2069D2AC,extended,000003E7
+
+[Cheats/Max Shooting] 
+patch=1,EE,2069D248,extended,42C80000
+
+[Cheats/Max Strength] 
+patch=1,EE,2069D254,extended,42C80000
+
+[Cheats/Max Stealth] 
+patch=1,EE,2069D260,extended,42C80000
+
+[Cheats/Max Resilence] 
+patch=1,EE,2069D26C,extended,42C80000
+
+[Cheats/Max Tracking] 
+patch=1,EE,2069D278,extended,42C80000

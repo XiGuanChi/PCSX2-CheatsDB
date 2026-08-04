@@ -1,0 +1,2 @@
+[Cheats/Enable Debug Mode press Circle Press this once or twice to enable sound test options in the Config menu in the main menu. This will also open several extra menu items in the pause menu.Select to toggle a debug flag on or off. This should unlock portions of the game.Triangle to log printf information.Square to toggle a debug flag on or off. This should unlock portions of the game.X to log printf information.R1 to log printf information] 
+patch=1,EE,20326B40,extended,00000000

@@ -1,0 +1,22 @@
+[Cheats/Max Gold] 
+patch=1,EE,202f8928,extended,10000005
+
+[Cheats/Infiniite Health] 
+patch=1,EE,106a3230,extended,000001f0
+patch=1,EE,106a3232,extended,000001f0
+patch=1,EE,106a3234,extended,000001f0
+patch=1,EE,106a3236,extended,000001f0
+
+[Cheats/Infiniite Musou] 
+patch=1,EE,106a3238,extended,00000120
+patch=1,EE,106a323a,extended,00000120
+
+[Cheats/Infiniite power Up time] 
+patch=1,EE,2019f0b0,extended,26940000
+patch=1,EE,2019f0b8,extended,26940000
+
+[Cheats/Infinite Mission Time] 
+patch=1,EE,2066971c,extended,00000000
+
+[Cheats/Always Win Withdrawing it means to win] 
+patch=1,EE,2036aad0,extended,24020001

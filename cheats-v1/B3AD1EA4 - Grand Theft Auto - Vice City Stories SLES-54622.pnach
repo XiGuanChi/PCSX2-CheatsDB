@@ -1,0 +1,31 @@
+[Cheats/Infinite Money]  
+patch=1,EE,204E4CCC,extended,05F5E0FF
+patch=1,EE,204E4CD0,extended,05F5E0FF
+
+[Cheats/Infinite Health] 
+patch=1,EE,200C0220,extended,3C0142FA
+patch=1,EE,200C0224,extended,AC6104E4
+patch=1,EE,200C0228,extended,080C7FCB
+patch=1,EE,200C022C,extended,C46004E4
+patch=1,EE,2031FF28,extended,08030088
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,202c1a64,extended,24420000
+patch=1,EE,202c1ac8,extended,24420000
+
+[Cheats/Infinite Ammo In Car] 
+patch=1,EE,202c1e6c,extended,24420000
+patch=1,EE,202c1ed4,extended,24420000
+
+[Cheats/No Damage To Collisions Your Car Only] 
+patch=1,EE,20137060,extended,00000000
+patch=1,EE,20137070,extended,00000000
+
+[Cheats/Never Wanted] 
+patch=1,EE,203aaafc,extended,24030000
+
+[Cheats/Infinite Stamina Water] 
+patch=1,EE,201F3130,extended,00000000
+
+
+

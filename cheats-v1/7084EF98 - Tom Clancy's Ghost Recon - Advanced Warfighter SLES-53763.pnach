@@ -1,0 +1,43 @@
+[Cheats/Infinite Energy] 
+patch=1,EE,20471698,extended,8E010AC0
+patch=1,EE,2047169C,extended,AC810384
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20105DA0,extended,24830000
+
+[Cheats/Infinite Health] 
+patch=1,EE,204C3A20,extended,24020078
+patch=1,EE,204C3A24,extended,AD420384
+patch=1,EE,104C3A2A,extended,00001000
+
+[Cheats/Infinite Health Your Team] 
+patch=1,EE,200C0220,extended,8C410380
+patch=1,EE,200C0224,extended,AC410384
+patch=1,EE,200C0228,extended,0811D32F
+patch=1,EE,200C022C,extended,24220000
+patch=1,EE,20474568,extended,08030088
+
+[Cheats/Infinite Running Stamina] 
+patch=1,EE,20473334,extended,00000000
+
+[Cheats/Infinite Ammo All] 
+patch=1,EE,204C6418,extended,24060063
+patch=1,EE,104C641C,extended,00001000
+patch=1,EE,204C6420,extended,AE060504
+
+[Cheats/Max Infinite Clip] 
+patch=1,EE,20105DA0,extended,24030063
+
+[Cheats/Never Reload] 
+patch=1,EE,20105DA4,extended,00000000
+
+[Cheats/Idiot AI] 
+patch=1,EE,20232834,extended,24020000
+
+[Cheats/Unlock All Quick Start Missions] 
+patch=1,EE,207B560C,extended,00000016
+
+[Cheats/Unlock All Missions] 
+patch=1,EE,204B8B14,extended,24020020
+patch=1,EE,204B8B18,extended,AC22560C
+patch=1,EE,204B8B1C,extended,1000000F

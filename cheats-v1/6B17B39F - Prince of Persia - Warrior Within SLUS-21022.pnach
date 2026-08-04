@@ -1,0 +1,19 @@
+[Cheats/Infinite Health]  
+patch=1,EE,202A6E1C,extended,00000000
+
+[Cheats/Infinite Sand Tanks] 
+patch=1,EE,203C3EAC,extended,00000000
+
+[Cheats/Win] 1 Hit Kill Boss
+patch=1,EE,20277B20,extended,00421023
+
+[Cheats/Have All Sand Powers] 
+patch=1,EE,200C2024,extended,2401FFFF
+patch=1,EE,200C2028,extended,AC6111C4
+
+[Cheats/Unlock All Extras] 
+patch=1,EE,207DE440,extended,FFFFFFFF
+patch=1,EE,207DE444,extended,FFFFFFFF
+patch=1,EE,207DE448,extended,FFFFFFFF
+patch=1,EE,207DE44C,extended,FFFFFFFF
+

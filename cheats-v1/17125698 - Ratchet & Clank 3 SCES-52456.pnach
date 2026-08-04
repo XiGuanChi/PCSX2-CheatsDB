@@ -1,0 +1,117 @@
+[Cheats/Infinite Health] 
+patch=1,EE,201A7430,extended,0000000C
+
+[Cheats/Max Bolts] 
+patch=1,EE,20142660,extended,05F5E0FF
+
+[Cheats/Max Spare Parts] 
+patch=1,EE,20142660,extended,0098967f
+
+[Cheats/Max Energy in the State Restore Energy Press Triangle] 
+patch=1,EE,20142668,extended,000003e7
+
+[Cheats/Max Energy Nanotech Level] 
+patch=1,EE,00142696,extended,00000064
+
+[Cheats/Infinite Energy Not in Status] 
+patch=1,EE,201A7430,extended,00000064
+
+[Cheats/Invincible Can't Be Hit] 
+patch=1,EE,101A4DBC,extended,00000041
+
+[Cheats/Unlock Best Armor Infernox] 
+patch=1,EE,001426A0,extended,00000004
+
+[Cheats/Infinite Time] 
+patch=1,EE,201426D0,extended,00000000
+
+[Cheats/Infinite Ammo all Weapons] 
+patch=1,EE,20520858,extended,00000000
+
+[Cheats/Infinite Health Giant Clank] 
+patch=1,EE,201A6664,extended,000005DC
+
+[Cheats/Infinite Health Land Vehicle Tyhrranosis] 
+patch=1,EE,D03C5FB6,extended,00004601
+patch=1,EE,203C5FB4,extended,46150001
+
+[Cheats/Infinite Health Ship Daxx] 
+patch=1,EE,D034EDB6,extended,00004601
+patch=1,EE,2034EDB4,extended,46150001
+
+[Cheats/Infinite Health Ship Aridia 2] 
+patch=1,EE,D035383E,extended,00004601
+patch=1,EE,2035383C,extended,46150001
+
+[Cheats/Infinite Health Land Vehicle Aridia 3&4] 
+patch=1,EE,D03C2A6E,extended,00004601
+patch=1,EE,203C2A6C,extended,46150001
+
+[Cheats/Infinite Health Land Vehicle Command Center] 
+patch=1,EE,D03B9416,extended,00004601
+patch=1,EE,203B9414,extended,46150001
+
+[Cheats/Infinite Health Ship-Command Center] 
+patch=1,EE,D035B4DE,extended,00004601
+patch=1,EE,2035B4DC,extended,46150001
+
+[Cheats/Infinite Health All Vehicles Press L1+L2+R1+R2 When You Finish a Vehical Mission] 
+patch=1,EE,200A0000,extended,3C01001A
+patch=1,EE,200A0004,extended,8C2165C0
+patch=1,EE,200A0008,extended,3C02000A
+patch=1,EE,200A000C,extended,8C430034
+patch=1,EE,200A0010,extended,10200006
+patch=1,EE,200A0018,extended,14600003
+patch=1,EE,200A001C,extended,8C210068
+patch=1,EE,200A0020,extended,8C230030
+patch=1,EE,200A0024,extended,AC430034
+patch=1,EE,200A0028,extended,AC230030
+patch=1,EE,200A002C,extended,03E00008
+patch=1,EE,2012F464,extended,08028000
+patch=1,EE,D01CD0C2,extended,0000F0FF
+patch=1,EE,200A0034,extended,00000000
+
+[Cheats/Unlock All Cinematics, Sketchbook and Credits]  
+patch=1,EE,00142692,extended,00000001
+
+[Cheats/Unlock All Cinematics] 
+patch=1,EE,20142BA8,extended,FFFFFFFF
+patch=1,EE,20142BAC,extended,FFFFFFFF
+patch=1,EE,20142BB0,extended,FFFFFFFF
+patch=1,EE,20142BB4,extended,FFFFFFFF
+patch=1,EE,20142BB8,extended,FFFFFFFF
+patch=1,EE,20142BBC,extended,FFFFFFFF
+patch=1,EE,20142BC0,extended,FFFFFFFF
+patch=1,EE,20142BC4,extended,FFFFFFFF
+patch=1,EE,20142BC8,extended,FFFFFFFF
+
+[Cheats/Unlock All Titanium Bolts] 
+patch=1,EE,401BBB18,extended,000A0001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Planets] 
+patch=1,EE,20143050,extended,00000001
+patch=1,EE,20143054,extended,00000002
+patch=1,EE,20143058,extended,00000003
+patch=1,EE,2014305C,extended,00000004
+patch=1,EE,20143060,extended,00000007
+patch=1,EE,20143064,extended,00000008
+patch=1,EE,20143068,extended,0000001B
+patch=1,EE,2014306C,extended,0000001C
+patch=1,EE,20143070,extended,00000009
+patch=1,EE,20143074,extended,0000001D
+patch=1,EE,20143078,extended,00000005
+patch=1,EE,2014307C,extended,0000000B
+patch=1,EE,20143080,extended,0000000D
+patch=1,EE,20143084,extended,00000017
+patch=1,EE,20143088,extended,0000000C
+patch=1,EE,2014308C,extended,00000015
+patch=1,EE,20143090,extended,0000000A
+patch=1,EE,20143094,extended,00000010
+patch=1,EE,20143098,extended,00000011
+patch=1,EE,2014309C,extended,00000012
+patch=1,EE,201430A0,extended,00000013
+patch=1,EE,201430A4,extended,00000006
+patch=1,EE,201430A8,extended,0000000E
+patch=1,EE,201430AC,extended,00000016
+patch=1,EE,201430B0,extended,00000014

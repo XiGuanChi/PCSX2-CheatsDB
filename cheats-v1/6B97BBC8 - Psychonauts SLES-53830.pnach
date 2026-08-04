@@ -1,0 +1,22 @@
+[Cheats/Invincible] 
+patch=1,EE,202C8F68,extended,240E0001
+
+[Cheats/Quick Level Up] 
+patch=1,EE,20249358,extended,240E0032
+
+[Cheats/Activate the cheats Hold L1+R1 then press L2]  
+patch=1,EE,2036D020,extended,00000082
+patch=1,EE,2036D024,extended,00000000
+
+[Cheats/All Power Hold L1+R1 then press X] 
+patch=1,EE,2036D010,extended,00000080
+patch=1,EE,2036D014,extended,00000000
+
+[Cheats/All Power Upgrades Hold L1+R1 then press R2] 
+patch=1,EE,2036D038,extended,00000085
+patch=1,EE,2036D03C,extended,00000000
+
+[Cheats/Max Lives Hold L1+R1 then press CIRCLE] 
+patch=1,EE,2036D018,extended,00000081
+patch=1,EE,2036D01C,extended,00000000
+

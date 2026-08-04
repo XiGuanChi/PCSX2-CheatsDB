@@ -1,0 +1,20 @@
+[Cheats/Unlock All Extra]   
+patch=1,EE,401B74E4,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,101B7500,extended,0000FFFF
+patch=1,EE,101B7508,extended,0000FFFF
+patch=1,EE,001B750A,extended,000000FF
+
+[Cheats/Unlock All CG]  
+patch=1,EE,401B74E8,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,101B7500,extended,0000FFFF
+
+[Cheats/Unlock All Main Menu Options] 
+patch=1,EE,201B74E4,extended,FFFFFFFF
+
+[Cheats/Unlock All Music] 
+patch=1,EE,201B7508,extended,FFFFFFFF
+
+[Cheats/New Game = Debug Menu This allows players to choose any scene] 
+patch=1,EE,20100D10,extended,0C0442C2

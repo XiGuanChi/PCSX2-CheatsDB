@@ -1,0 +1,24 @@
+[Cheats/Infinite HP]  
+patch=1,EE,01B57A4E,extended,000000C8
+
+[Cheats/Infinite Lives] 
+patch=1,EE,01B57EC4,extended,00000003
+
+[Cheats/Unlock All] 
+patch=1,EE,2053D204,extended,00000001
+patch=1,EE,2053D208,extended,00000001
+patch=1,EE,2053D20C,extended,00000001
+patch=1,EE,2053D210,extended,00000001
+patch=1,EE,2053D214,extended,00000001
+patch=1,EE,2053D218,extended,00000001
+patch=1,EE,2053D21C,extended,00000001
+patch=1,EE,2053D220,extended,00000001
+patch=1,EE,2053D224,extended,00000001
+patch=1,EE,2053D228,extended,00000001
+patch=1,EE,2053D22C,extended,00000001
+patch=1,EE,2053D230,extended,00000001
+patch=1,EE,2053D234,extended,00000001
+patch=1,EE,2053D238,extended,00000001
+patch=1,EE,2053D23C,extended,00000001
+patch=1,EE,2053D240,extended,00000001
+patch=1,EE,2053D244,extended,00000001

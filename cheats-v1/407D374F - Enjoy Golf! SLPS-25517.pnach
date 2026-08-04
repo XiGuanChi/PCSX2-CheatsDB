@@ -1,0 +1,13 @@
+[Cheats/Player 1 Always 1 Shot Recorded All Holes] 
+patch=1,EE,40754E64,extended,00090001
+patch=1,EE,00000000,extended,00000000
+
+[Cheats/Unlock All Characters, Courses and Items] 
+patch=1,EE,1075647C,extended,00001FFF
+patch=1,EE,0075647F,extended,000000C0
+patch=1,EE,00756480,extended,0000001F
+patch=1,EE,00756491,extended,000000FF
+patch=1,EE,10756492,extended,0000FFFF
+patch=1,EE,20756494,extended,FFFFFFFF
+patch=1,EE,20756498,extended,FFFFFFFF
+patch=1,EE,1075649C,extended,0000FFFF

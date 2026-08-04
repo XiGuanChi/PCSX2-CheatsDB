@@ -1,0 +1,21 @@
+[Cheats/Infinite Health] 
+patch=1,EE,20273230,extended,3C0143FA
+patch=1,EE,20273238,extended,AC810178
+
+[Cheats/Max Health] 
+patch=1,EE,106C5350,extended,00009C40
+
+[Cheats/Infinite Lucre] 
+patch=1,EE,106C5414,extended,0000FFFF
+
+[Cheats/Max Lucre] 
+patch=1,EE,206C5414,extended,05F5E0FF
+
+[Cheats/Max White Eggs] 
+patch=1,EE,206C51BC,extended,00000063
+
+[Cheats/Max Gold Eggs] 
+patch=1,EE,206C51C0,extended,00000063
+
+[Cheats/Max STR] 
+patch=1,EE,106C5354,extended,000061A8

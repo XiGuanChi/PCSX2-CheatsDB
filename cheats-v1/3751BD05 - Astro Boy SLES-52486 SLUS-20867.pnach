@@ -1,0 +1,24 @@
+[Cheats/Infinite Health] 
+patch=1,EE,200C200C,extended,AC410000
+
+[Cheats/Infinite Force]  
+patch=1,EE,200C2010,extended,AC410014
+patch=1,EE,200C2018,extended,AC410018
+
+[Cheats/Max Health and Force] 
+patch=1,EE,200C2004,extended,AC410004
+
+[Cheats/One Hit Kill Bosses] 
+patch=1,EE,20213B28,extended,46021041
+
+[Cheats/Have All Abilities] 
+patch=1,EE,0069669B,extended,000000FF
+
+[Cheats/Unlock All Skills Pause In Game to Activate]  
+patch=1,EE,200C202C,extended,A1010043
+
+[Cheats/Unlock All Cards Pause In Game to Activate] 
+patch=1,EE,200C2030,extended,A1010048
+patch=1,EE,200C2034,extended,AD01004C
+patch=1,EE,200C2038,extended,AD010050
+patch=1,EE,200C2040,extended,A5010056

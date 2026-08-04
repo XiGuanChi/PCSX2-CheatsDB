@@ -1,0 +1,56 @@
+[Cheats/Infinite Zenie] 
+patch=1,EE,10495568,extended,0000FFFF
+
+[Cheats/Max Zenie] 
+patch=1,EE,20495568,extended,05F5E0FF
+
+[Cheats/Dragon Universe Max Health] 
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E75C,extended,00000014
+
+[Cheats/Dragon Universe Max Ki] 
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E760,extended,00000014
+
+[Cheats/Dragon Universe Max Attack] 
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E764,extended,00000014
+
+[Cheats/Dragon Universe Max Guard] 
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E768,extended,00000014
+
+[Cheats/Dragon Universe Max Arts] 
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E76C,extended,00000014
+
+[Cheats/Dragon Universe Max Ability] 
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E770,extended,00000014
+
+[Cheats/Dragon Universe Max Com] 
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E774,extended,00000014
+
+[Cheats/Dragon Universe Max Exp] 
+patch=1,EE,D089E71E,extended,0000008E
+patch=1,EE,2089E794,extended,05F5E0FF
+
+[Cheats/Dragon Universe P1 Press L1+Select For 99 Points Remaining] 
+patch=1,EE,D05868C2,extended,0000FBFE
+patch=1,EE,2089E8C4,extended,00000063
+
+[Cheats/Dragon Universe P1 Press L2+Select For 0 Points Remaining] 
+patch=1,EE,D05868C2,extended,0000FEFE
+patch=1,EE,2089E8C4,extended,00000000
+
+[Cheats/Tournament Player 1 Infinite Health] 
+patch=1,EE,D0427FBC,extended,00000000
+patch=1,EE,2044CF00,extended,453B8000
+patch=1,EE,D0427FBC,extended,00000001
+patch=1,EE,2044EF30,extended,453B8000
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,2046A668,extended,FFFFFFFF
+patch=1,EE,2046A66C,extended,FFFFFFFF
+

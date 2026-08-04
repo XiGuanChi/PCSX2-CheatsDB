@@ -1,0 +1,35 @@
+[Cheats/Max Cash] 
+patch=1,EE,204E5B84,extended,0098967F
+
+[Cheats/Max HP Party] 
+patch=1,EE,202072ec,extended,10000000
+
+[Cheats/Max MP Party] 
+patch=1,EE,202074b0,extended,10000000
+
+[Cheats/Max All Stats Party] 
+patch=1,EE,202067DC,extended,10000000
+patch=1,EE,2020697C,extended,10000000
+patch=1,EE,20206A8C,extended,10000000
+patch=1,EE,20206B9C,extended,10000000
+patch=1,EE,20206CA4,extended,10000000
+patch=1,EE,20206DE4,extended,10000000
+patch=1,EE,20206F34,extended,10000000
+
+[Cheats/Character 1 Codes Infinite HP In Battle] 
+patch=1,EE,20528BD0,extended,0000270F
+
+[Cheats/Character 1 Codes Infinite MP In Battle] 
+patch=1,EE,20528BD4,extended,0000270F
+
+[Cheats/Character 2 Codes Infinite HP In Battle] 
+patch=1,EE,20529050,extended,0000270F
+
+[Cheats/Character 2 Codes Infinite MP In Battle] 
+patch=1,EE,20529054,extended,0000270F
+
+[Cheats/No Random Battles] 
+patch=1,EE,1013F236,extended,00001000
+
+[Cheats/Unlock The Monster Book Almost] 
+patch=1,EE,20205dd4,extended,08081750

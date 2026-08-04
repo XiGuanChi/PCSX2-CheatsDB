@@ -1,0 +1,58 @@
+[Cheats/Infinite Health P1] 
+patch=1,EE,203A916C,extended,00910000
+
+[Cheats/P1 Needs 1 Win To Win] 
+patch=1,EE,D03A8B60,extended,00000000
+patch=1,EE,103A8B60,extended,00000001
+
+[Cheats/1 Hit Death P2] 
+patch=1,EE,D03A9A3E,extended,00000091
+patch=1,EE,203A9A3C,extended,00000001
+
+[Cheats/Tekken 1 Arcade Game Infinite Health P1] 
+patch=1,EE,20171178,extended,007D0000
+
+[Cheats/Tekken 1 Arcade Game 1 Hit Death P2] 
+patch=1,EE,D01722EA,extended,0000007D
+patch=1,EE,201722E8,extended,0000000
+
+[Cheats/Tekken 2 Arcade Game Infinite Health P1] 
+patch=1,EE,201CA8F4,extended,007D0000
+
+[Cheats/Tekken 2 Arcade Game 1 Hit Death P2] 
+patch=1,EE,D01CBD76,extended,0000007D
+patch=1,EE,201CBD74,extended,00000001
+
+[Cheats/Tekken 3 Arcade Game Infinite Health P1]
+patch=1,EE,2012EBBC,extended,007D0000
+
+[Cheats/Tekken 3 Arcade Game 1 Hit Death P2] 
+patch=1,EE,D01306A2,extended,0000007D
+patch=1,EE,201306A0,extended,00000001
+
+[Cheats/Tekken - Devil Within Infinite Health] 
+patch=1,EE,200C0220,extended,AC810018
+patch=1,EE,200C0224,extended,46000506
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,C600003C
+patch=1,EE,201C7A3C,extended,0C030088
+patch=1,EE,201C7A40,extended,8C81001C
+
+[Cheats/Tekken - Devil Within 1 Hit Death Enemies] 
+patch=1,EE,200C0260,extended,0C051EA6
+patch=1,EE,200C0264,extended,00A02021
+patch=1,EE,200C0268,extended,02002021
+patch=1,EE,200C026C,extended,54450001
+patch=1,EE,200C0270,extended,AE000018
+patch=1,EE,200C0274,extended,0805BEC8
+patch=1,EE,200C0278,extended,00000000
+patch=1,EE,2016FB84,extended,08030098
+patch=1,EE,2016FB88,extended,00000000
+
+[Cheats/Unlock All Standard Characters] 
+patch=1,EE,203E4568,extended,FFFFFFFF
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,203E4570,extended,FFFFFFFF
+patch=1,EE,003E4574,extended,0000000F
+

@@ -1,0 +1,93 @@
+[Cheats/Max Normal Dance Gauge] 
+patch=1,EE,10604022,extended,000003E8
+
+[Cheats/Max Challenge Dance Gauge] 
+patch=1,EE,20604024,extended,00000003
+
+[Cheats/Have 10 Million Shop Points] 
+patch=1,EE,203220CC,extended,00989680
+
+[Cheats/Autoplay Auto Press SELECT+Circle Cancel  Press SELECT+X] 
+patch=1,EE,2014DA30,extended,00000000
+patch=1,EE,2014DAD8,extended,02208821 
+patch=1,EE,2014DAF8,extended,00000000 
+patch=1,EE,D0322202,extended,0000DFFE 
+patch=1,EE,2014DA10,extended,00000000
+patch=1,EE,D0322202,extended,0000BFFE
+patch=1,EE,2014DA10,extended,1460005B
+
+[Cheats/Max Cumulative Shop Point Value] 
+patch=1,EE,203220D0,extended,3B9AC9FF
+
+[Cheats/Unlock My Room All Information] 
+patch=1,EE,201C90F0,extended,90612C2C
+patch=1,EE,201C90F4,extended,34210001
+patch=1,EE,201C90F8,extended,10000003
+patch=1,EE,201C90FC,extended,A0612C2C
+
+[Cheats/Unlock Complete Lesson Mode] 
+patch=1,EE,20302460,extended,02020202
+patch=1,EE,20302464,extended,02020202
+patch=1,EE,20302468,extended,02020202
+patch=1,EE,2030246C,extended,02020202
+patch=1,EE,20302470,extended,02020202
+patch=1,EE,20302474,extended,02020202
+
+[Cheats/Max Number Of Times A Song Has Been Played By Playing It Once] 
+patch=1,EE,20158244,extended,00000000
+
+[Cheats/Unlock 29 Hidden Songs and 19 Courses] 
+patch=1,EE,203048A4,extended,FFFFFFFF
+patch=1,EE,103048A8,extended,FFFF
+patch=1,EE,203048C4,extended,FFFFFFFF
+patch=1,EE,103048C8,extended,FFFF
+
+[Cheats/Unlock 22 Hidden Characters] 
+patch=1,EE,203048AA,extended,FFFFFFFF
+patch=1,EE,103048AE,extended,FFFF
+
+[Cheats/Unlock Endless, Combo and Survival Modes] 
+patch=1,EE,203048BA,extended,1FC0
+
+[Cheats/Unlock All Shop Items] 
+patch=1,EE,40304864,extended,00060001
+patch=1,EE,FFFFFFFF,extended,0
+patch=1,EE,1030487C,extended,FFFF
+patch=1,EE,20304897,extended,3FFFFFFF
+patch=1,EE,2030489B,extended,00FFFFE0
+patch=1,EE,00304844,extended,0
+patch=1,EE,00304847,extended,0
+patch=1,EE,0030485B,extended,0
+
+[Cheats/Unlock Shop All Products Display] 
+patch=1,EE,20304864,extended,FFFFFFFF
+patch=1,EE,20304868,extended,FFFFFFFF
+patch=1,EE,2030486C,extended,FFFFFFFF
+patch=1,EE,20304870,extended,FFFFFFFF
+patch=1,EE,20304874,extended,FFFFFFFF
+patch=1,EE,20304878,extended,FFFFFFFF
+
+[Cheats/Unlock Shop Product Out Of Stock Mark Removed] 
+patch=1,EE,20304844,extended,00000000
+patch=1,EE,20304848,extended,00000000 
+patch=1,EE,2030484c,extended,00000000
+patch=1,EE,20304850,extended,00000000
+patch=1,EE,20304854,extended,00000000
+patch=1,EE,20304858,extended,00000000
+
+[Cheats/Unlock Shop All Items Purchased] 
+patch=1,EE,203048A4,extended,FFFFFFFF
+patch=1,EE,203048A8,extended,FFFFFFFF
+patch=1,EE,203048AC,extended,FFFFFFFF
+patch=1,EE,203048B0,extended,FFFFFFFF
+patch=1,EE,203048B4,extended,FFFFFFFF
+patch=1,EE,203048B8,extended,FFFFFFFF
+
+[Cheats/Unlock All Dance Master Mode Press START button to bring up the menu and switch screens During dance master mode] 
+patch=1,EE,201F8BC8,extended,24030106
+patch=1,EE,201F8BCC,extended,A4A35BBE
+patch=1,EE,D0857A68,extended,00005BB8 
+patch=1,EE,20857A68,extended,A0645BB8
+patch=1,EE,D0857A68,extended,00005BB8
+patch=1,EE,20857A6C,extended,00000000
+

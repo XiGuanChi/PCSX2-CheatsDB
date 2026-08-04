@@ -1,0 +1,5 @@
+[Cheats/Enable Omake Debug  L3 to enable, R3 to disable unlock all of the pictures and movies With the code on, press L3 at the main menu then enter the Memories optionTo disable it and return the Memories menu to normal, press R3] 
+patch=1,EE,D02DE182,extended,0000FFFD
+patch=1,EE,1017A0F4,extended,0000B026
+patch=1,EE,D02DE182,extended,0000FFFB
+patch=1,EE,1017A0F4,extended,0000AEBA

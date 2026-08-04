@@ -1,0 +1,39 @@
+[Cheats/Infinite Boost Upon Pickup] 
+patch=1,EE,202A3DEC,extended,00000000
+
+[Cheats/P1 Press L1+Select To Stop Timer] 
+patch=1,EE,D04F341C,extended,0000FBFE
+patch=1,EE,20304190,extended,00000000
+
+[Cheats/Unlock All Challenges] 
+patch=1,EE,41F65020,extended,00100001
+patch=1,EE,03030303,extended,00000000
+
+[Cheats/Unlock All Gold Medals] 
+patch=1,EE,41F650C8,extended,002A0001
+patch=1,EE,03030303,extended,00000000
+patch=1,EE,01F65170,extended,00000003
+
+[Cheats/Unlock All Gold Stars] 
+patch=1,EE,01F651DB,extended,00000004
+patch=1,EE,41F651DC,extended,002A0001
+patch=1,EE,04040404,extended,00000000
+
+[Cheats/Unlock All World Tour Tracks] 
+patch=1,EE,21F652FC,extended,000000A9
+patch=1,EE,41F64F0C,extended,00430001
+patch=1,EE,0000000A,extended,00000000
+
+[Cheats/Unlock All Cars] 
+patch=1,EE,01F65317,extended,00000002
+patch=1,EE,41F65318,extended,00130001
+patch=1,EE,03030303,extended,00000000
+patch=1,EE,11F65364,extended,00000101
+
+[Cheats/Unlock Dominator Rank] 
+patch=1,EE,21F64F08,extended,000003E7
+patch=1,EE,21F64F0C,extended,0000000A
+
+[Cheats/Unlock All Rank 1 Races] 
+patch=1,EE,21F64F1C,extended,0000000F
+patch=1,EE,21F64F5C,extended,0000000F

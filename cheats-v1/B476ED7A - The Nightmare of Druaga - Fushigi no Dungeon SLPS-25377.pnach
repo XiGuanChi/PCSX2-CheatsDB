@@ -1,0 +1,43 @@
+[Cheats/Protection 100] 
+patch=1,EE,20760200,extended,00002710
+
+[Cheats/HP 999] 
+patch=1,EE,21D2A40C,extended,000003E7
+patch=1,EE,21D2A4A8,extended,000003E7
+
+[Cheats/AP 999] 
+patch=1,EE,21D2A410,extended,000003E7
+patch=1,EE,21D2A4AC,extended,000003E7
+
+[Cheats/Max EXP] 
+patch=1,EE,21D2A40C,extended,000003E7
+
+[Cheats/Attack 9999] 
+patch=1,EE,21D2A4B4,extended,0001869F
+
+[Cheats/Interigence 9999] 
+patch=1,EE,21D2A4B8,extended,0001869F
+
+[Cheats/Max Damage Value with weapon synthesis] 
+patch=1,EE,2051D924,extended,00000000
+
+[Cheats/Max Armor Class Value with armor synthesis] 
+patch=1,EE,2051D9A4,extended,00000000
+
+[Cheats/When you look at the item in the menu, it says it's been appraised] 
+patch=1,EE,20528A20,extended,3042FFEF
+patch=1,EE,20528A24,extended,AE420008
+patch=1,EE,20528A28,extended,00000000
+
+[Cheats/In Dungeon Press Select HP 999 It will be reflected on the gauge display with a delay of one tempo] 
+patch=1,EE,D06B2502,extended,0000FFFE
+patch=1,EE,21D2A40C,extended,000003E7
+
+[Cheats/In Dungeon Press Select AP 999 It will be reflected on the gauge display with a delay of one tempo] 
+patch=1,EE,D06B2502,extended,0000FFFE
+patch=1,EE,21D2A410,extended,000003E7
+
+[Cheats/Unlock All Titles] 
+patch=1,EE,2091B2C0,extended,FFFFFFFF
+patch=1,EE,0091B2C4,extended,0000000F
+

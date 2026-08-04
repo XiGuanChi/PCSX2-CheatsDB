@@ -1,0 +1,32 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2026ACFC,extended,00000000
+
+[Cheats/Unlock ] Infinite Health 
+patch=1,EE,200C0220,extended,8C81000C
+patch=1,EE,200C0224,extended,AC810000
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,AC800008
+patch=1,EE,203F59AC,extended,08030088
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,201569EC,extended,00000000
+
+[Cheats/Max Infinite Ammo]  
+patch=1,EE,201596EC,extended,240203E7
+
+[Cheats/Extra Ammo]  
+patch=1,EE,201569EC,extended,00451021
+
+[Cheats/No Reload] 
+patch=1,EE,20156930,extended,00000000
+
+[Cheats/Infinite Grenades]  
+patch=1,EE,20207A10,extended,00000000
+
+[Cheats/Unlock All Secret Files] 
+patch=1,EE,004F93A8,extended,00000015
+
+[Cheats/Unlock All Databank] 
+patch=1,EE,404F938C,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,104F939C,extended,0000FFFF

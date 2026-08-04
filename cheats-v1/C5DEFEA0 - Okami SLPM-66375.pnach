@@ -1,0 +1,43 @@
+[Cheats/Max Wallet]  
+patch=1,EE,204A88F0,extended,05F5E0FF
+
+[Cheats/Infinite Health] 
+patch=1,EE,2067D900,extended,17701770
+
+[Cheats/Max Stomach] 
+patch=1,EE,2067D904,extended,03200320
+
+[Cheats/Kodama 999] 
+patch=1,EE,1067D90A,extended,000003E7
+
+[Cheats/Max Maintenance] 
+patch=1,EE,2016C2D0,extended,00000000
+
+[Cheats/Max Sumi Gourd]  
+patch=1,EE,204A88E8,extended,00025800
+patch=1,EE,204A88EC,extended,00025800
+
+[Cheats/Max Sumi Gourd Instantly recovers to the current upper limit] 
+patch=1,EE,201D2EB0,extended,24020001
+
+[Cheats/Retaliation Charm Invincible Effect Permanent] 
+patch=1,EE,1067D928,extended,00001000
+
+[Cheats/Steel Kobushi Attack Up Effect Permanent] 
+patch=1,EE,1067D92A,extended,00001000
+
+[Cheats/Steel Soul Defense Up Effect Permanent]  
+patch=1,EE,1067D92C,extended,00001000
+
+[Cheats/99 Consumable Tools Feed Bag Beans] 
+patch=1,EE,104A8A64,extended,00000063
+
+[Cheats/Unlock All Mirror, Magatama And Swords] 
+patch=1,EE,104A8962,extended,0000FFFF
+patch=1,EE,204A8964,extended,FFFFFFFF
+patch=1,EE,204A8968,extended,FFFFFFFF
+patch=1,EE,204A896C,extended,FFFFFFFF
+patch=1,EE,204A8970,extended,FFFFFFFF
+patch=1,EE,204A8974,extended,FFFFFFFF
+patch=1,EE,204A8978,extended,FFFFFFFF
+patch=1,EE,104A897C,extended,0000FFFF

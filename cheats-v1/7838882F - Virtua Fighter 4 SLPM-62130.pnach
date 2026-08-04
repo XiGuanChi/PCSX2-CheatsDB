@@ -1,0 +1,12 @@
+[Cheats/P1 Infinite Health] 
+patch=1,EE,1087F920,extended,00000201
+
+[Cheats/P2 No Health] 
+patch=1,EE,108800C8,extended,00000000
+
+[Cheats/Unlock EDIT FILE and All ITEM Treasure] 
+patch=1,EE,2087E3A4,extended,FFFFFFFF
+patch=1,EE,2087E3A8,extended,FFFFFFFF
+patch=1,EE,2087E3AC,extended,FFFFFFFF
+patch=1,EE,2087E3B0,extended,FFFFFFFF
+patch=1,EE,2087E3B4,extended,FFFFFFFF

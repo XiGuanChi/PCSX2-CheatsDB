@@ -1,0 +1,18 @@
+[Cheats/Infinite Health P1] 
+patch=1,EE,2043631C,extended,3F800000
+
+[Cheats/No Health Player 2] 
+patch=1,EE,20436318,extended,00000000
+
+[Cheats/Unlock All Character Endings]  
+patch=1,EE,2057D040,extended,FFFFFFFF
+
+[Cheats/Unlock All Outfits] 
+patch=1,EE,205535D4,extended,FFFFFFFF
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,20434F34,extended,FFFFFFFF
+
+[Cheats/Unlock All Costumes, Arenas, Concept Arts And Extras]  
+patch=1,EE,4057CF08,extended,00160001
+patch=1,EE,000002FF,extended,00000000

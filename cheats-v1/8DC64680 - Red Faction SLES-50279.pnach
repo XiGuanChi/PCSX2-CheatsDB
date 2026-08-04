@@ -1,0 +1,76 @@
+[Cheats/unendlich Energie + Armor v1] 
+patch=1,EE,200C0000,extended,3C0142C8
+patch=1,EE,200C0004,extended,AE010034
+patch=1,EE,200C0004,extended,AE010038
+patch=1,EE,200C000C,extended,03E00008
+patch=1,EE,200C0010,extended,C6000034
+patch=1,EE,2016937c,extended,0C030000
+
+[Cheats/unendlich Energie + Armor] 
+patch=1,EE,200C0000,extended,3C0142C8
+patch=1,EE,200C0004,extended,AE010034
+patch=1,EE,200C0004,extended,AE010038
+patch=1,EE,200C000C,extended,03E00008
+patch=1,EE,200C0010,extended,C6000034
+patch=1,EE,2016d7e8,extended,0C030000
+
+[Cheats/L2 for Infinite Ammo] 
+patch=1,EE,D0AA3742,extended,0000FEFF
+patch=1,EE,20154850,extended,00000000
+
+[Cheats/L1 for All Weapons a Start of game only] 
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,212173E0,extended,01010101
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,212173E4,extended,01010101
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,212173E8,extended,01010101
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,212173EC,extended,01010101
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,212173F0,extended,01010101
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,212173F4,extended,01010101
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,212173F8,extended,01010101
+
+[Cheats/L1 for All Weapons b Start of game only] 
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,212172F4,extended,0000270F
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,212172F8,extended,0000270F
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,212172FC,extended,0000270F
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,21217300,extended,0000270F
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,21217304,extended,0000270F
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,21217308,extended,0000270F
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,2121730A,extended,0000270F
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,21217310,extended,0000270F
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,21217314,extended,0000270F
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,21217318,extended,0000270F
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,2121731C,extended,0000270F
+patch=1,EE,D0AA3742,extended,0000FBFF
+patch=1,EE,21217320,extended,0000270F
+
+[Cheats/unendlich Ammo v2] 
+patch=1,EE,20154894,extended,24630000
+
+[Cheats/freeze Ammo] 
+patch=1,EE,20154888,extended,00000000
+
+[Cheats/Start mit unendlich Granaten] 
+patch=1,EE,2016ad80,extended,24100064
+patch=1,EE,2016ad90,extended,AC50027C
+patch=1,EE,2016afcc,extended,2410000B
+
+
+
+

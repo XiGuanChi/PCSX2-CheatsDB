@@ -1,0 +1,7 @@
+[Cheats/CPU Does Not Move Cars] 
+patch=1,EE,201F0D40,extended,03E00008
+
+[Cheats/Unlock All Cars]  
+patch=1,EE,205180BC,extended,FFFFFFFF
+patch=1,EE,205180C0,extended,FFFFFFFF
+patch=1,EE,205180C4,extended,FFFFFFFF

@@ -1,0 +1,30 @@
+[Cheats/Max Gold] 
+patch=1,EE,20465D98,extended,0098967F
+
+[Cheats/Infinite Health Player 1] 
+patch=1,EE,105384FE,extended,00001C00
+
+[Cheats/Max Health Player 1] 
+patch=1,EE,105384FC,extended,000001C0
+
+[Cheats/Max Musou Player 1] 
+patch=1,EE,10538502,extended,000000C0
+
+[Cheats/Max Infinite Musou Player 1] 
+patch=1,EE,10538502,extended,000000C0
+patch=1,EE,10538504,extended,00000C00
+
+[Cheats/Can Always Do Musou Press Circle] 
+patch=1,EE,201C48CC,extended,00000000
+
+[Cheats/Max K.O. Count Player 1] 
+patch=1,EE,1046E4F8,extended,0000270F
+
+[Cheats/Have All Powerups Player 1] 
+patch=1,EE,005384C0,extended,000000F0
+
+[Cheats/Have All Orb Powers Player 1] 
+patch=1,EE,005384C1,extended,0000005F
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,20463F80,extended,FFFFFFFF

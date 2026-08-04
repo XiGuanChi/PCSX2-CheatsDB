@@ -1,0 +1,44 @@
+[Cheats/Infinite Health] 
+patch=1,EE,201DC594,extended,94820092
+patch=1,EE,201DC598,extended,A4820090
+
+[Cheats/Infinite Chi] 
+patch=1,EE,201DC604,extended,94820096
+patch=1,EE,201DC60C,extended,A4820094
+
+[Cheats/Unlock All Extras Codes] 
+patch=1,EE,20503EF8,extended,01010101
+patch=1,EE,20503EFC,extended,01010101
+
+[Cheats/Unlockable Code Unlimited Health] 
+patch=1,EE,00503EF8,extended,00000001
+
+[Cheats/Unlockable Code Unlimited Copper] 
+patch=1,EE,00503EF9,extended,00000001
+
+[Cheats/Unlockable Code All Treasure Maps] 
+patch=1,EE,00503EFA,extended,00000001
+
+[Cheats/Unlockable Code 1-Hit Dishonor] 
+patch=1,EE,00503EFB,extended,00000001
+
+[Cheats/Unlockable Code Neverending Stealth] 
+patch=1,EE,00503EFC,extended,00000001
+
+[Cheats/Unlockable Code Double Damage] 
+patch=1,EE,00503EFD,extended,00000001
+
+[Cheats/Unlockable Code Unlimited Chi] 
+patch=1,EE,00503EFF,extended,00000001
+
+[Cheats/Unlock All Character Gallery] 
+patch=1,EE,004E3EC9,extended,00000001
+patch=1,EE,00503EFE,extended,00000001
+
+[Cheats/Unlock All Level Art Gallery] 
+patch=1,EE,004E3ECA,extended,00000001
+patch=1,EE,00503F00,extended,00000001
+
+[Cheats/Unlock All Storyboard Gallery] 
+patch=1,EE,004E3ECB,extended,00000001
+patch=1,EE,00503F01,extended,00000001

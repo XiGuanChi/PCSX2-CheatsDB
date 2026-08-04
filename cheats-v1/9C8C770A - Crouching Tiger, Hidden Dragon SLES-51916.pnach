@@ -1,0 +1,18 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2023BC50,extended,50000000
+patch=1,EE,2023BC58,extended,50000000
+
+[Cheats/Rapid Weapons Level Gain] 
+patch=1,EE,2023BC90,extended,40000000
+
+[Cheats/Rapid Unarmed Level Gain] 
+patch=1,EE,2023BC88,extended,40000000
+
+[Cheats/Attack Maxed] 
+patch=1,EE,2023BC68,extended,40B00000
+
+[Cheats/Defence Maxed] 
+patch=1,EE,2023BC6C,extended,40800000
+
+[Cheats/99 Continues] 
+patch=1,EE,0023C52C,extended,00000063

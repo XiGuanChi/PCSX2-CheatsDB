@@ -1,0 +1,17 @@
+[Cheats/Max Points] 
+patch=1,EE,1056B790,extended,00006363
+
+[Cheats/Player 1 All Characters Infinite health] 
+patch=1,EE,10565CE4,extended,00000090
+patch=1,EE,10565CE8,extended,00000090
+patch=1,EE,105450F6,extended,00000090
+
+[Cheats/Unlock All Characters And Illustration Gallery] 
+patch=1,EE,20567B30,extended,F8FFFFFF
+patch=1,EE,20567B34,extended,07FFFFFF
+patch=1,EE,20567B38,extended,F8FFFFFF
+patch=1,EE,20567B3C,extended,07FFFFFF
+patch=1,EE,2056B7B4,extended,FFFFFFFF
+patch=1,EE,2056B7B8,extended,FFFFFFFF
+patch=1,EE,00544F9A,extended,0000000
+

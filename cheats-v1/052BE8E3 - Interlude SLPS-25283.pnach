@@ -1,0 +1,7 @@
+[Cheats/Unlock All Visual mode] 
+patch=1,EE,41584FD0,extended,001D0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Enable Debug Mode L1+R1 when the game is booting will send you to a debug screen if you press Select when the game is booting will send you to a system debug information screen Starting a new game will open a debug menu] 
+patch=1,EE,2048AD28,extended,00000001
+

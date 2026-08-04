@@ -1,0 +1,80 @@
+[Cheats/One Lap Races] 
+patch=1,EE,007CC0DC,extended,00000001
+
+[Cheats/Lap Timer Always Low]  
+patch=1,EE,20186E94,extended,24010000
+patch=1,EE,20186E98,extended,AC41000C
+
+[Cheats/Max Fruits] 
+patch=1,EE,200C0220,extended,8E220010
+patch=1,EE,200C0224,extended,24010063
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,AC4100B0
+patch=1,EE,20138804,extended,0C030088
+
+[Cheats/Have 99 Trophies] 
+patch=1,EE,02000388,extended,00000063
+
+[Cheats/Adventure Mode 100%]  
+patch=1,EE,20793570,extended,640D040C
+patch=1,EE,10793574,extended,00000101
+patch=1,EE,207937E0,extended,44239085
+patch=1,EE,207937E4,extended,50912809
+patch=1,EE,207937E8,extended,1C013804
+patch=1,EE,207937EC,extended,25008A02
+patch=1,EE,207937F0,extended,11C04280
+patch=1,EE,207937F4,extended,000004A0
+patch=1,EE,207937F8,extended,00000000
+patch=1,EE,207937FC,extended,00000000
+patch=1,EE,20793800,extended,00050000
+patch=1,EE,20793804,extended,00100020
+patch=1,EE,20793808,extended,00040008
+patch=1,EE,2079380C,extended,00000000
+patch=1,EE,20793810,extended,00000000
+patch=1,EE,2079C7A4,extended,45141500
+
+[Cheats/Unlock All Cutscenes & Extra Tracks] 
+patch=1,EE,2079B880,extended,DFFFBFFF
+
+[Cheats/Unlock All Characters & Ghosts Time Trial] 
+patch=1,EE,2079B884,extended,FFFFFFFF
+patch=1,EE,2079B888,extended,FFFFFFFF
+
+[Cheats/Unlock All Characters, Tracks and Cutscenes not saveable] 
+patch=1,EE,201850F8,extended,00000000
+
+[Cheats/Adventure Mode Complete not saveable] 
+patch=1,EE,20189F1C,extended,00000000
+
+[Cheats/Have All Collectibles] 
+patch=1,EE,207937E0,extended,DEFFBDFF
+patch=1,EE,207937E4,extended,F7BFEF7F
+patch=1,EE,207937E8,extended,FDEFFBDF
+patch=1,EE,207937EC,extended,FF7BFEF7
+patch=1,EE,207937F0,extended,7FDEFFBD
+patch=1,EE,207937F4,extended,DFF7BFEF
+patch=1,EE,207937F8,extended,F7FDEFFB
+patch=1,EE,207937FC,extended,BDFF7BFE
+patch=1,EE,20793800,extended,EF7FDEFF
+patch=1,EE,20793804,extended,FBDFF7BF
+patch=1,EE,20793808,extended,FEF7FDEF
+patch=1,EE,2079380C,extended,FFBDFF7B
+patch=1,EE,20793810,extended,000F7FDE
+
+[Cheats/Language Modifier English] 
+patch=1,EE,00749958,extended,00000000
+
+[Cheats/Language Modifier French] 
+patch=1,EE,00749958,extended,00000001
+
+[Cheats/Language Modifier German] 
+patch=1,EE,00749958,extended,00000002
+
+[Cheats/Language Modifier Italian] 
+patch=1,EE,00749958,extended,00000003
+
+[Cheats/Language Modifier Dutch] 
+patch=1,EE,00749958,extended,00000004
+
+[Cheats/Language Modifier Spanish] 
+patch=1,EE,00749958,extended,00000005

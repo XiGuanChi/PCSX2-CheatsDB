@@ -1,0 +1,36 @@
+[Cheats/Invincible] 
+patch=1,EE,201C1B88,extended,00401023
+
+[Cheats/1 hit death Enemy] 
+patch=1,EE,201D21AC,extended,04410001
+
+[Cheats/Max Sustain System] 
+patch=1,EE,201BE23C,extended,10000018
+patch=1,EE,201BE2C4,extended,00000000
+patch=1,EE,201BE2F4,extended,00000000
+patch=1,EE,201BE320,extended,00000000
+patch=1,EE,201BE350,extended,00000000
+
+[Cheats/Single Shot Shuriken Rapid Fire Please use in conjunction with the maximum sustain system.] 
+patch=1,EE,201C524C,extended,10000004
+patch=1,EE,201C545C,extended,10000004
+patch=1,EE,201C9C94,extended,10000003
+patch=1,EE,201CA9C4,extended,10000007
+
+[Cheats/Unlock All Movies] 
+patch=1,EE,202A7858,extended,24020001
+
+[Cheats/Unlock All Characters and Costumes] 
+patch=1,EE,202A4B10,extended,14400001
+patch=1,EE,202A4B28,extended,14400001
+patch=1,EE,202A4B40,extended,14400001
+patch=1,EE,202A4B58,extended,14400001
+patch=1,EE,202A4B70,extended,14400001
+patch=1,EE,202A4B88,extended,14400001
+
+[Cheats/Unlock All Stages & Difficulty HARD] 
+patch=1,EE,201DE188,extended,2402000D
+
+
+
+

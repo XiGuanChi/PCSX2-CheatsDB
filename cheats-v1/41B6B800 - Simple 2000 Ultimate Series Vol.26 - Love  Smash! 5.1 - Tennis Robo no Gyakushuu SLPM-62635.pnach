@@ -1,0 +1,19 @@
+[Cheats/Only 1P Score] 
+patch=1,EE,20118E60,extended,24050000
+
+[Cheats/Faster Processing] 
+patch=1,EE,201C1A84,extended,00000000
+
+[Cheats/If both Parties win one game, you will get a 6 game Please note that if you set the game to end in 1 game or 3 games, it will not end count] 
+patch=1,EE,201197F0,extended,24060006
+
+[Cheats/Max Love Gauge Both] 
+patch=1,EE,20135430,extended,00000000
+
+[Cheats/Story Mode Clear in 1 Stage] 
+patch=1,EE,20165ED0,extended,2402000A
+
+[Cheats/Unlock All Bonus] 
+patch=1,EE,201423D4,extended,00000000
+patch=1,EE,201424D0,extended,00000000
+patch=1,EE,201424E8,extended,00000000

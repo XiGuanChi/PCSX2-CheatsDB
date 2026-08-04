@@ -1,0 +1,37 @@
+[Cheats/Infinite Health] 
+patch=1,EE,003A237C,extended,00000028
+
+[Cheats/Max Hearts] 
+patch=1,EE,003A2380,extended,00000014
+
+[Cheats/Max Heart Rings] 
+patch=1,EE,10394688,extended,0000270F
+
+[Cheats/Minimum Stress Level] 
+patch=1,EE,103880F8,extended,00000000
+
+[Cheats/Quick Fill Blood] 
+patch=1,EE,103A239E,extended,00004F6F
+
+[Cheats/Have All Extra Blood Tanks] 
+patch=1,EE,00394690,extended,00000010
+patch=1,EE,003946D4,extended,00000050
+patch=1,EE,10394696,extended,000040A0
+patch=1,EE,1039469A,extended,000040A0
+patch=1,EE,1039469E,extended,000040A0
+patch=1,EE,103946A2,extended,000040A0
+patch=1,EE,103946A6,extended,000040A0
+patch=1,EE,103946AA,extended,000040A0
+patch=1,EE,103946AE,extended,000040A0
+patch=1,EE,103946B2,extended,000040A0
+patch=1,EE,103946B6,extended,000040A0
+patch=1,EE,103946BA,extended,000040A0
+patch=1,EE,103946BE,extended,000040A0
+patch=1,EE,103946C2,extended,000040A0
+patch=1,EE,103946C6,extended,000040A0
+patch=1,EE,103946CA,extended,000040A0
+patch=1,EE,103946CE,extended,000040A0
+patch=1,EE,103946D2,extended,000040A0
+
+[Cheats/Unlock All Colours and Characters] 
+patch=1,EE,10394558,extended,0000FFFF

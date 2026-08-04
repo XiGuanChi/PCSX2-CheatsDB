@@ -1,0 +1,34 @@
+[Cheats/Infinite Gold]  
+patch=1,EE,20A6E8F4,extended,05F5E0FF
+
+[Cheats/Infinite NOS Usage] 
+patch=1,EE,203E4C74,extended,00000000
+
+[Cheats/Infinite Crew Charge Bar] 
+patch=1,EE,201403DC,extended,00000000
+
+[Cheats/Infinite Speedbreaker] 
+patch=1,EE,204225A8,extended,00000000
+
+[Cheats/Cannot Be Busted] 
+patch=1,EE,D013CA4A,extended,0000E660
+patch=1,EE,2013CA48,extended,00000000
+
+[Cheats/Freeze Cooldown Timer] 
+patch=1,EE,D013D0E2,extended,0000E660
+patch=1,EE,2013D0E0,extended,00000000
+
+[Cheats/Heat Never Rises] 
+patch=1,EE,D0127192,extended,0000E634
+patch=1,EE,20127190,extended,00000000
+
+[Cheats/All Races Only Have 1 Racer] 
+patch=1,EE,20344090,extended,24020001
+patch=1,EE,20344094,extended,AC820F00
+
+[Cheats/Have All Challenges Completed] 
+patch=1,EE,200C0230,extended,00300825
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,AC410004
+patch=1,EE,2030B9DC,extended,0C03008C
+patch=1,EE,2030B9E0,extended,8C410004

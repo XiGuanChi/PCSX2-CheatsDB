@@ -1,0 +1,24 @@
+[Cheats/Infinite Cash] 
+patch=1,EE,20165AC0,extended,05F5E0FF
+
+[Cheats/Infinite Health] 
+patch=1,EE,10166048,extended,000004B0
+
+[Cheats/Infinite Time] 
+patch=1,EE,10293CF0,extended,00000001
+
+[Cheats/Infinite Boost] 
+patch=1,EE,10293CD8,extended,00000001
+
+[Cheats/Infinite Rockets] 
+patch=1,EE,10293CD0,extended,00000001
+
+[Cheats/Unlock All Bonus Cars]  
+patch=1,EE,2013D88C,extended,24030001
+patch=1,EE,2013D890,extended,A0430000
+patch=1,EE,2013D894,extended,00000000
+
+[Cheats/Unlock All Normal Cars]  
+patch=1,EE,2013D3D4,extended,00000000
+patch=1,EE,2013D3CC,extended,24030001
+patch=1,EE,2013D3D0,extended,A0430000

@@ -1,0 +1,26 @@
+[Cheats/Infinite Bealth] 
+patch=1,EE,20340D94,extended,38403840
+
+[Cheats/Infinite Health P1] 
+patch=1,EE,20340D98,extended,00003C00
+patch=1,EE,20340D94,extended,3C003C00
+
+[Cheats/Max Special P1]  
+patch=1,EE,20340EA0,extended,0000270F
+
+[Cheats/P1 Needs 1 Win To Win] 
+patch=1,EE,D0341726,extended,00010000
+patch=1,EE,00341726,extended,00000001
+
+[Cheats/1 Hit Death P2] 
+patch=1,EE,20341358,extended,00003C00
+patch=1,EE,D0341354,extended,00300001
+patch=1,EE,20341354,extended,00010001
+
+[Cheats/No Bealth P2] 
+patch=1,EE,20341358,extended,00003C00
+patch=1,EE,20341354,extended,00010001
+
+[Cheats/Unlock Everything]  
+patch=1,EE,2033BA10,extended,FFFFFFFF
+patch=1,EE,2033BA14,extended,FFFFFFFF

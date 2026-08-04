@@ -1,0 +1,29 @@
+[Cheats/Unlock Bonus Item Appearance And All Movies]  
+patch=1,EE,00391A71,extended,000000FF
+patch=1,EE,10391A72,extended,0000FFFF
+patch=1,EE,20391A74,extended,FFFFFFFF
+
+[Cheats/Unlock All Clear Ending]  fully open
+patch=1,EE,20391A78,extended,FFFFFFFF
+patch=1,EE,00391A7C,extended,000000FF
+
+[Cheats/Unlock All CG Album]   
+patch=1,EE,40391AF0,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All 2D Map Flow Chart]  
+patch=1,EE,20391CF0,extended,FFFFFFFF
+patch=1,EE,20391CF4,extended,FFFFFFFF
+patch=1,EE,40391D04,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock All Scenes, Titlez And Messages] 
+patch=1,EE,20137AAC,extended,240100FF
+patch=1,EE,20137AB0,extended,A0E10400
+patch=1,EE,20137AD0,extended,00000000
+
+[Cheats/Debug Menu appears in the title If you are stuck call the system menu and select Exit] 
+patch=1,EE,00391A70,extended,000000F0 
+
+[Cheats/Replace New Game With Debug Menu] 
+patch=1,EE,10DB6C14,extended,00000006

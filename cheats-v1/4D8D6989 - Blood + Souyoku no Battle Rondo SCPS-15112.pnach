@@ -1,0 +1,32 @@
+[Cheats/99.999.999 Exp] 
+patch=1,EE,202E19B0,extended,05F5E0FF
+
+[Cheats/Infinite HP 1000] 
+patch=1,EE,102E19AC,extended,000003E6
+
+[Cheats/Level 99] 
+patch=1,EE,002E19AC,extended,00000062
+
+[Cheats/Have All Chi ON Press Select+Up OFF Select+Down]
+patch=1,EE,200FFF20,extended,E4400B88
+patch=1,EE,200FFF24,extended,03E00008
+patch=1,EE,200FFF28,extended,C4410B88
+patch=1,EE,D0290E82,extended,0000FFEE
+patch=1,EE,2024FE6C,extended,0C03FFC8
+patch=1,EE,D0290E82,extended,0000FFBE
+patch=1,EE,2024FE6C,extended,C4410B88
+
+[Cheats/Invincible]  
+patch=1,EE,20170050,extended,00000000
+patch=1,EE,20170054,extended,00000000
+
+[Cheats/Unloack Survival mode] 
+patch=1,EE,102913E8,extended,0000FFFF
+
+[Cheats/Unloack All Movies] 
+patch=1,EE,002E162C,extended,00000041
+patch=1,EE,002E1630,extended,00000041
+patch=1,EE,002E1634,extended,00000041
+patch=1,EE,002E1638,extended,00000041
+patch=1,EE,002E163C,extended,00000041
+patch=1,EE,002E1640,extended,00000041

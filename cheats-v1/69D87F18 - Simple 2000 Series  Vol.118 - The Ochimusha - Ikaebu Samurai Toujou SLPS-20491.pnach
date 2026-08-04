@@ -1,0 +1,36 @@
+[Cheats/Infinite Health] 
+patch=1,EE,2010CCF0,extended,AC7000A0
+
+[Cheats/Infinite Gauge] 
+patch=1,EE,2028801C,extended,000003E8
+
+[Cheats/Infinite Death Blows Special Moves] 
+patch=1,EE,2027CE2C,extended,00000007
+
+[Cheats/99 Weapons Possessed when viewing equipment screen] 
+patch=1,EE,201EAB20,extended,24030063
+patch=1,EE,201EAB24,extended,AC430020
+
+[Cheats/Akechi Mitsuhide] 
+patch=1,EE,2027CCBC,extended,00002710
+patch=1,EE,2027CCC0,extended,00001F40
+patch=1,EE,2027CCC4,extended,00002710
+patch=1,EE,2027CCC8,extended,00002710
+patch=1,EE,2027CCCC,extended,00001B58
+patch=1,EE,2027CCD0,extended,00001B58
+
+[Cheats/River] 
+patch=1,EE,2027CCD8,extended,00002710
+patch=1,EE,2027CCDC,extended,00001F40
+patch=1,EE,2027CCE0,extended,00001B58
+
+[Cheats/Unlock Setting Difficulty Oni]  
+patch=1,EE,2026F454,extended,FFFFFFFF
+
+[Cheats/Unlock All Sengoku no Roll Stages]  
+patch=1,EE,2026F3CC,extended,00000007
+
+[Cheats/Unlock All Titles and Costumes] 
+patch=1,EE,2026F444,extended,FFFFFFFF
+patch=1,EE,2026F448,extended,FFFFFFFF
+patch=1,EE,2026F44C,extended,FFFFFFFF

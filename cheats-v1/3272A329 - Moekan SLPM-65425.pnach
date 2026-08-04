@@ -1,0 +1,8 @@
+[Cheats/Unlock All Bonus]  
+patch=1,EE,0027A180,extended,000000FF
+patch=1,EE,4027A184,extended,000E0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,4027A240,extended,00070001
+patch=1,EE,FFF6FFFF,extended,00000000
+patch=1,EE,4027A2F4,extended,05100001
+patch=1,EE,FFFFFFFF,extended,00000000

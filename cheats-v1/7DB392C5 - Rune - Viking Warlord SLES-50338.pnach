@@ -1,0 +1,19 @@
+[Cheats/Infinite Health] 
+patch=1,EE,61FE36F0,extended,000000C8
+patch=1,EE,00020000,extended,0000063C
+patch=1,EE,61FE36F0,extended,000000C8
+patch=1,EE,00020000,extended,00000648
+
+[Cheats/Infinite Rune Power] 
+patch=1,EE,61FE36F0,extended,000000C8
+patch=1,EE,00020000,extended,00000644
+patch=1,EE,61FE36F0,extended,000000C8
+patch=1,EE,00020000,extended,00000650
+
+[Cheats/Infinite Bloodlust]  
+patch=1,EE,61FE36F0,extended,00000064
+patch=1,EE,00020000,extended,00000640
+
+[Cheats/Infinite Oxygen] 
+patch=1,EE,61FE36F0,extended,000000C8
+patch=1,EE,00020000,extended,000004A0

@@ -1,0 +1,17 @@
+[Cheats/Infinite Health] 
+patch=1,EE,201B5760,extended,03E00008
+patch=1,EE,201B5764,extended,00000000
+
+[Cheats/Infinite Armor] 
+patch=1,EE,201B6B48,extended,03E00008
+patch=1,EE,201B6B4C,extended,00000000
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,2069818C,extended,3F800000
+
+[Cheats/Unlock All Missions] 
+patch=1,EE,20100044,extended,FFFFFFFF
+
+[Cheats/Unlock All Content] 
+patch=1,EE,40100FEC,extended,00040001
+patch=1,EE,02020202,extended,00000000

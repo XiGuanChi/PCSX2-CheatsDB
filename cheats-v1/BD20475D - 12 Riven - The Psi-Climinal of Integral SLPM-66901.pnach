@@ -1,0 +1,19 @@
+[Cheats/Invinicible] 
+patch=1,EE,2014F538,extended,100000F5
+
+[Cheats/Unlock All Memories, Movies and Endings] 
+patch=1,EE,403B2ECA,extended,000B0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,103B2E3C,extended,0000FFFF
+patch=1,EE,003B2F10,extended,000000FF
+patch=1,EE,003B2E31,extended,000000FF
+patch=1,EE,003B2E39,extended,000000FF
+patch=1,EE,003B2E32,extended,0000000C
+
+[Cheats/Unlock All Scene Title View the Clear List of Memories] 
+patch=1,EE,201390C8,extended,240400FF
+patch=1,EE,201390CC,extended,A0440400
+
+[Cheats/Unlock Album Completion Level 269-269 View the Clear List of Memories] 
+patch=1,EE,201C446C,extended,240500FF
+patch=1,EE,201C4470,extended,A04501C0

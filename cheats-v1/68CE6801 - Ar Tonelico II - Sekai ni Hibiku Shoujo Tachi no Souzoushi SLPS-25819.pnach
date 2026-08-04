@@ -1,0 +1,123 @@
+[Cheats/Max Gold 9999999] 
+patch=1,EE,209DFCE0,extended,0098967F
+
+[Cheats/After 1 Battle Level 99, HP 5945, Exp 1000000] 
+patch=1,EE,2018D81C,extended,00000000
+
+[Cheats/Necessity Code] 
+patch=1,EE,2029E28C,extended,0803D020
+patch=1,EE,200F414C,extended,0000982D
+patch=1,EE,200F4150,extended,080A78A5
+
+[Cheats/Infinite HP Player Attack Turn HP Recovery] 
+patch=1,EE,200F40BC,extended,24130032
+patch=1,EE,200F40C0,extended,52530023
+patch=1,EE,200F40C4,extended,24130064
+
+[Cheats/Press L2 Total Damage 9999999] 
+patch=1,EE,2021BEF8,extended,55E00009
+patch=1,EE,D09E381C,extended,0000FEFF
+patch=1,EE,2021BEF8,extended,10000009
+
+[Cheats/Max MP, Dirty Burst, Harmonics, Reduciate, MD Regist 100%] 
+patch=1,EE,2029EAB0,extended,240203E8
+patch=1,EE,2029EAB8,extended,24020064
+patch=1,EE,2029EAD0,extended,240203E8
+patch=1,EE,2029EAD8,extended,24020064
+patch=1,EE,2029EAE0,extended,24020064
+
+[Cheats/SP 99999 Points] 
+patch=1,EE,20C0CF8C,extended,0001869F
+
+[Cheats/DP 99999 Points] 
+patch=1,EE,20C0CF80,extended,0001869F
+patch=1,EE,20C0CF84,extended,0001869F
+patch=1,EE,20C0CF88,extended,0001869F
+
+[Cheats/No Random Battle L1+R1 ON L1+R2 OFF] 
+patch=1,EE,D09E381C,extended,0000F9FF
+patch=1,EE,201D91EC,extended,14000053
+patch=1,EE,D09E381C,extended,0000F3FF
+patch=1,EE,201D91EC,extended,10000053
+
+[Cheats/Damage while pressing the L2 button Hitting it will do 9999999 damage. Be careful as it affects both enemies and allies. Random encounter operation] 
+patch=1,EE,D09E381C,extended,0000F7EF 
+patch=1,EE,201D92AC,extended,10000023 
+patch=1,EE,D09E381C,extended,0000F7BF 
+patch=1,EE,201D92AC,extended,45020023
+
+[Cheats/Random Battles R1+Up turn off the encounter Normal operation R1+Down  
+patch=1,EE,D09E381C,extended,0000F7EF
+patch=1,EE,201D92AC,extended,10000023
+patch=1,EE,D09E381C,extended,0000F7BF
+patch=1,EE,201D92AC,extended,45020023
+
+[Cheats/Force game clear while playing the main story Press L2+R2 button to clear] 
+patch=1,EE,2019F5D4,extended,00000000
+patch=1,EE,D09E381C,extended,0000FCFF
+patch=1,EE,2019F5D4,extended,24020001
+
+[Cheats/Unlock Extra Menu Load Game Save and Turn OFF code] 
+patch=1,EE,009DFD00,extended,00000001
+
+[Cheats/Unlock Extra All Reyvateil Encyclopedia Costumes] 
+patch=1,EE,20AF2594,extended,FFFFFFFF
+
+[Cheats/Unlock Extra All Hymmnos Concerts] 
+patch=1,EE,00AF2599,extended,000000FF
+patch=1,EE,10AF259A,extended,0000FFFF
+
+[Cheats/Unlock Extra All Movies] 
+patch=1,EE,10AF259E,extended,0000FFFF
+patch=1,EE,20AF25A0,extended,FFFFFFFF
+patch=1,EE,10AF25A4,extended,0000FFFF
+
+[Cheats/Unlock Extra All Gallery] 
+patch=1,EE,20AF24EC,extended,FFFFFFFF
+patch=1,EE,20AF24F0,extended,FFFFFFFF
+patch=1,EE,00AF24F4,extended,000000FF
+
+[Cheats/Unlock Extra All BGM] 
+patch=1,EE,10AF24DE,extended,0000FFFF
+patch=1,EE,20AF24E0,extended,FFFFFFFF
+patch=1,EE,20AF24E4,extended,FFFFFFFF
+patch=1,EE,00AF24E8,extended,000000FF
+
+[Cheats/Unlock Extra Database All Song Magic Encyclopedia]
+patch=1,EE,00AF2544,extended,00000007
+patch=1,EE,10AF24FA,extended,00000707
+patch=1,EE,40AF24FC,extended,00120001
+patch=1,EE,07070707,extended,00000000
+
+[Cheats/Unlock Extra Database All Item Guides All event replay synthesis results will also be included] 
+patch=1,EE,40AF2470,extended,00180001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock Extra database All Monster Encyclopedia] 
+patch=1,EE,20AF24D0,extended,FFFFFFFF
+patch=1,EE,20AF24D4,extended,FFFFFFFF
+patch=1,EE,20AF24D8,extended,FFFFFFFF
+patch=1,EE,10AF24DC,extended,0000FFFF
+
+[Cheats/Unlock Extra database Reyvateil Encyclopedia 100% completion rate of Cosmo Sphere Only figures are reflected] 
+patch=1,EE,00AF2545,extended,00000064
+patch=1,EE,10AF2546,extended,00006464
+
+[Cheats/Unlock Extra Database All of the Reprekia Encyclopedias All recorded by the SS] 
+patch=1,EE,10AF2630,extended,00000404
+patch=1,EE,40AF25CC,extended,00190001
+patch=1,EE,04040404,extended,00000000
+
+[Cheats/Unlock Extra Event Replay All the talk matter] 
+patch=1,EE,40AF2548,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock Extra Event Replay All Cosmo Spheres & Infel Spheres] 
+patch=1,EE,40AF2568,extended,000B0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Cheats/Unlock Extra Event Replay All Heroine Matter]
+patch=1,EE,20AF25B8,extended,FFFFFFFF
+patch=1,EE,20AF25BC,extended,FFFFFFFF
+patch=1,EE,20AF25C0,extended,FFFFFFFF
+patch=1,EE,10AF25C4,extended,0000FFFF

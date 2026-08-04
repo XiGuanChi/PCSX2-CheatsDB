@@ -1,0 +1,30 @@
+[Cheats/Infinite Gold 99999] 
+patch=1,EE,202E3C5C,extended,0001869F
+
+[Cheats/Infinite Limit 99] 
+patch=1,EE,203B511C,extended,00000063
+
+[Cheats/Max Morale Strong] 
+patch=1,EE,002E3E42,extended,00000064
+
+[Cheats/Max Space 999] 
+patch=1,EE,102E3E3E,extended,000003E7
+
+[Cheats/Max Ship Handling 999] 
+patch=1,EE,102E3E40,extended,000003E7
+
+[Cheats/Max Awareness 999] 
+patch=1,EE,102E3EAE,extended,000003E7
+
+[Cheats/Max Maneuvering 999] 
+patch=1,EE,102E3EB0,extended,000003E7
+
+[Cheats/Max Morale Vigorous]  
+patch=1,EE,102E3EB2,extended,00000064
+
+[Cheats/Max Affection Imagination] 
+patch=1,EE,002E3EB8,extended,00000001
+
+[Cheats/New Game = Debug Menu allows selection of chapters.] 
+patch=1,EE,D1460F84,extended,0000AC04
+patch=1,EE,21460F78,extended,03000400

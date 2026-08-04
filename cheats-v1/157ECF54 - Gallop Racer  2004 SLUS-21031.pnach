@@ -1,0 +1,30 @@
+[Cheats/Infinite Gold] 
+patch=1,EE,10B47D38,extended,0000FFFF
+
+[Cheats/Infinite Total Points]  
+patch=1,EE,10B47D30,extended,0000FFFF
+
+[Cheats/Infinite Whip Usage] 
+patch=1,EE,201C0B60,extended,AE20000C
+patch=1,EE,201C0B84,extended,AE200010
+patch=1,EE,201C0BAC,extended,AE200014
+
+[Cheats/Never Banned] 
+patch=1,EE,00B47D2E,extended,00000000
+
+[Cheats/Get A Head Start] 
+patch=1,EE,200C0220,extended,8C226E70
+patch=1,EE,200C0224,extended,3C034440
+patch=1,EE,200C0228,extended,0043102B
+patch=1,EE,200C022C,extended,54400001
+patch=1,EE,200C0230,extended,AC236E70
+patch=1,EE,200C0234,extended,0808E117
+patch=1,EE,200C0238,extended,C4206E70
+patch=1,EE,20238458,extended,08030088
+
+[Cheats/Unlock All Lessons]  
+patch=1,EE,40432D70,extended,00040001
+patch=1,EE,01010101,extended,00000000
+
+
+

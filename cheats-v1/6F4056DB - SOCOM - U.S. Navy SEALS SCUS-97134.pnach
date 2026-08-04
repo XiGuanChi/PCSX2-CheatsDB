@@ -1,0 +1,25 @@
+[Cheats/Immune To Bullets] 
+patch=1,EE,200C0220,extended,92410000
+patch=1,EE,200C0224,extended,14200003
+patch=1,EE,200C0228,extended,00000000
+patch=1,EE,200C022C,extended,080AE294
+patch=1,EE,200C0230,extended,00000000
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,00000000
+patch=1,EE,202BA59C,extended,0C030088
+
+[Cheats/Infinite Ammo]  
+patch=1,EE,202B8F9C,extended,00000000
+
+[Cheats/Infinite Grenades] 
+patch=1,EE,202BB5B8,extended,00000000
+
+[Cheats/Lesser AI] 
+patch=1,EE,2048CA18,extended,00000000
+
+[Cheats/Most Terrorists Have No Ammo] 
+patch=1,EE,202B64A0,extended,03E00008
+patch=1,EE,202B64A4,extended,24020000
+
+[Cheats/Always Complete Missions] 
+patch=1,EE,201D8270,extended,24020001

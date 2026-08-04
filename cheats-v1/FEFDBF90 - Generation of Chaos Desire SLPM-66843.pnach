@@ -1,0 +1,79 @@
+[Cheats/Max Gold] 
+patch=1,EE,214794B8,extended,000F423F
+
+[Cheats/Max Special EXP]  
+patch=1,EE,214794BC,extended,0001869F
+
+[Cheats/Max Possession gold in shopping] 
+patch=1,EE,201D9CA0,extended,10200001
+
+[Cheats/Bonus points when leveling up do not decrease Press the Circle button to end the distribution] 
+patch=1,EE,202D1C54,extended,00000000
+patch=1,EE,202D1AF8,extended,14820023
+patch=1,EE,D096C802,extended,0000DFFF
+patch=1,EE,202D1AF8,extended,1000005D
+
+[Cheats/Always successful Persuading prisoners]  
+patch=1,EE,201A6998,extended,00000000
+patch=1,EE,201B412C,extended,00000000
+
+[Cheats/Always alliance success] 
+patch=1,EE,2018A9B0,extended,001F082A
+
+[Cheats/Always breaking success] 
+patch=1,EE,201A1C30,extended,10200001
+patch=1,EE,201A2244,extended,10200001
+
+[Cheats/Always bribe success] 
+patch=1,EE,2019EECC,extended,10200001
+
+[Cheats/In Battle Ally officer HP 99999] 
+patch=1,EE,202977B0,extended,3C020001
+patch=1,EE,202977B4,extended,3442869F
+patch=1,EE,202977B8,extended,AEA2002C
+
+[Cheats/In Battle Ally officer SP 999] 
+patch=1,EE,2029783C,extended,240203E7
+patch=1,EE,20297840,extended,A48 20058
+
+[Cheats/In Battle Enemy officer HP 0 Experience points will not be gained upon victory] 
+patch=1,EE,20297DD4,extended,AC80002C
+
+[Cheats/In Battle Enemy officer SP 0] 
+patch=1,EE,20297E5C,extended,A4800058
+
+[Cheats/In Battle Enemy officer HP 1 Press L1+R1] 
+patch=1,EE,20297DC4,extended,241A0001
+patch=1,EE,20297DD4,extended,00000000
+patch=1,EE,D096C802,extended,0000F3FF
+patch=1,EE,20297DD4,extended,AC9A002C
+
+[Cheats/Press L3 status MAX CCC - mandatory code] 
+patch=1,EE,20161E34,extended,0803CFFB
+patch=1,EE,200F4200,extended,03E00008
+patch=1,EE,200F3FEC,extended,3C080117
+patch=1,EE,200F3FF0,extended,3C09000F
+patch=1,EE,200F3FF4,extended,852A3FD0
+patch=1,EE,200F3FF8,extended,8501D130
+patch=1,EE,200F3FFC,extended,A5213FD0
+patch=1,EE,200F4000,extended,01414826
+patch=1,EE,200F4004,extended,01210824
+patch=1,EE,200F4008,extended,30210200
+patch=1,EE,200F400C,extended,1020007C
+
+[Cheats/CMC-1- HP 9999] 
+patch=1,EE,200F4014,extended,2008270F
+patch=1,EE,200F4018,extended,A4880036
+patch=1,EE,200F401C,extended,A4880038
+
+[Cheats/Gina HP Max] 
+patch=1,EE,102485F2,extended,0000270F
+patch=1,EE,102485F4,extended,0000270F
+
+[Cheats/Glenn HP Max] 
+patch=1,EE,10248536,extended,0000270F
+patch=1,EE,10248538,extended,0000270F
+
+[Cheats/Barry HP Max] 
+patch=1,EE,1024899E,extended,0000270F
+patch=1,EE,102489A0,extended,0000270F

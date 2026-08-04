@@ -1,0 +1,17 @@
+[Cheats/Max Cash in Locker] 
+patch=1,EE,2010455C,extended,3C0205F0
+
+[Cheats/Max Experience] 
+patch=1,EE,201046D8,extended,3C020002
+
+[Cheats/Disable AI L3 activate R3 restart You must restart the AI for the Referee to start a count] 
+patch=1,EE,D1CF4B82,extended,0000FFFD
+patch=1,EE,204F0F60,extended,24020000
+patch=1,EE,D1CF4B82,extended,0000FFFB
+patch=1,EE,204F0F60,extended,2C420001
+
+[Cheats/Always Have Finisher] 
+patch=1,EE,201AB0A0,extended,A07202CC
+
+[Cheats/Unlock All] 
+patch=1,EE,2027773C,extended,24020001

@@ -1,0 +1,26 @@
+[Cheats/Must Be On For the Next Codes to Work] 
+patch=1,EE,20344E68,extended,0813780E
+patch=1,EE,204DE038,extended,3C0401E0
+patch=1,EE,204DE03C,extended,3C050008
+patch=1,EE,204DE040,extended,0C131C73
+patch=1,EE,204DE044,extended,3C060008
+patch=1,EE,204DE048,extended,0C1360E6
+patch=1,EE,204DE04C,extended,0000202D
+patch=1,EE,204DE050,extended,3C0501E0
+patch=1,EE,204DE054,extended,3C040008
+patch=1,EE,204DE058,extended,0C131C73
+patch=1,EE,204DE05C,extended,3C060008
+patch=1,EE,204DE060,extended,080D139C
+patch=1,EE,204DE064,extended,00000000
+
+[Cheats/Disable Player Damage] 
+patch=1,EE,2054EF6C,extended,00000000
+
+[Cheats/Enable Player Damage] 
+patch=1,EE,2054EF6C,extended,00000001
+
+[Cheats/Infinite Ammo Guns] 
+patch=1,EE,2023622C,extended,10000007
+
+[Cheats/Infinite Grenades] 
+patch=1,EE,20235644,extended,00000000

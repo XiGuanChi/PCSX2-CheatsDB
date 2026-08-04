@@ -1,0 +1,31 @@
+[Cheats/Unendlich Energie Zu Fuss ] 
+patch=1,EE,2039eafc,extended,C4820184
+patch=1,EE,2039eb04,extended,E4820180
+
+[Cheats/Unendlich Energie Im Auto] 
+patch=1,EE,20537668,extended,3C0142C8
+patch=1,EE,20537678,extended,AE610080
+
+[Cheats/Unendlich Munition]   
+patch=1,EE,203ce6dc,extended,00000000
+
+[Cheats/Kein Nachladen] 
+patch=1,EE,203d03f4,extended,00000000
+
+[Cheats/Unendlich Munition 2]  
+patch=1,EE,203d03f0,extended,24630000
+
+[Cheats/Weniger Fahrzeugschaden]  
+patch=1,EE,20380db0,extended,03E00008
+patch=1,EE,20380db4,extended,00000000
+
+[Cheats/Fahrzeuge Unverschlossen]  
+patch=1,EE,20380bb0,extended,03E00008
+patch=1,EE,20380bb4,extended,24020000
+
+[Cheats/Visibility Never Increases] 
+patch=1,EE,20475c00,extended,00000000
+
+[Cheats/Cop Heat Never Increases] 
+patch=1,EE,204759a0,extended,03E00008
+patch=1,EE,204759a4,extended,00000000

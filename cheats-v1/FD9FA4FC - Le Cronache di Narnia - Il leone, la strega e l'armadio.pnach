@@ -1,0 +1,64 @@
+[Cheats/Infinite Ammo] 
+patch=1,EE,20271240,extended,24440000
+
+[Cheats/Infinite First Aid Skill] 
+patch=1,EE,202782EC,extended,24420000
+
+[Cheats/Infinite Coins] 
+patch=1,EE,20633C04,extended,0000270F
+
+[Cheats/Freeze Timers] 
+patch=1,EE,202D85E8,extended,00000000
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,406337D8,extended,000E0003
+patch=1,EE,00000002,extended,00000000
+
+[Cheats/1 Hit Kill] 
+patch=1,EE,2026107C,extended,00000000
+patch=1,EE,202610E4,extended,100000CE2
+
+[Cheats/All Action Points Visible And One Shot To Fill Red Bar] 
+patch=1,EE,203352A8,extended,C60200B0
+patch=1,EE,20302534,extended,00000000
+
+[Cheats/Buy Upgrades Even Without Coins]   
+patch=1,EE,2037CBE8,extended,00000000
+patch=1,EE,2037B460,extended,00000000
+
+[Cheats/One Hit To Fill Red Bar]  
+patch=1,EE,20334720,extended,00000000
+patch=1,EE,20302534,extended,00000000
+
+[Cheats/Red Bar Does Not Drop After Hitting Objects]   
+patch=1,EE,20335440,extended,00000000
+
+[Cheats/Throwing Tennis Balls Even Without Ammo]  
+patch=1,EE,202D7F60,extended,10000003
+patch=1,EE,202D7570,extended,10000020
+patch=1,EE,202D6364,extended,00000000
+patch=1,EE,2027127C,extended,00000000
+
+[Cheats/Timer Stopped]   
+patch=1,EE,202D86B0,extended,C4800CA4
+
+[Cheats/Untouchable]   
+patch=1,EE,E004EFFE,extended,01F2B702
+patch=1,EE,20262528,extended,00000000
+patch=1,EE,2029E9D4,extended,00000000
+patch=1,EE,2029E9EC,extended,00000000
+patch=1,EE,2029D564,extended,10000008
+patch=1,EE,E004EFF7,extended,01F2B702
+patch=1,EE,20262528,extended,0C09805A
+patch=1,EE,2029E9D4,extended,0C0989DA
+patch=1,EE,2029E9EC,extended,0C0989DA
+patch=1,EE,2029D564,extended,10400008
+
+[Cheats/Use Arrows Even Without Ammo]  
+patch=1,EE,2029BB1C,extended,1000000B
+
+[Cheats/Use Healing Power Even With Zero Power]   
+patch=1,EE,20277C50,extended,00000000
+
+
+

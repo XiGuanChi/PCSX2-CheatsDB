@@ -1,0 +1,32 @@
+[Cheats/P1 Infinite HP] 
+patch=1,EE,10512C48,extended,00000067
+patch=1,EE,D0512C62,extended,00000000
+patch=1,EE,10512C48,extended,00000077
+
+[Cheats/P1 Infinite Power] 
+patch=1,EE,20512BF8,extended,40008000
+patch=1,EE,10512C2C,extended,00000202
+patch=1,EE,00512CF3,extended,00000004
+
+[Cheats/P2 No HP P1 Press SELECT] 
+patch=1,EE,D1513282,extended,0000FFFE
+patch=1,EE,10512E48,extended,00000000
+
+[Cheats/Unlock All Art Work For Dream Match 1999] 
+patch=1,EE,205173C0,extended,01010101
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,10517310,extended,0000FFFF
+
+[Cheats/Unlock All Art Work For PlayStation 2]  
+patch=1,EE,40517350,extended,00040001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Demo & Movies]  
+patch=1,EE,40517410,extended,00040001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Challenge Cleared] 
+patch=1,EE,105172FC,extended,00000202
+patch=1,EE,405172E0,extended,00070001
+patch=1,EE,02020202,extended,00000000

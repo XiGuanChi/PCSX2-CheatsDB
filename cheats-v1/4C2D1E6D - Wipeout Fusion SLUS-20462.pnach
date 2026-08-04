@@ -1,0 +1,28 @@
+[Cheats/UInfinite Shield] 
+patch=1,EE,20248AF8,extended,00000001
+
+[Cheats/Infinite Weapons] 
+patch=1,EE,20248AF4,extended,00000001
+
+[Cheats/Infinite Ammo] 
+patch=1,EE,20248B00,extended,00000001
+
+[Cheats/Have All Challenges Completed] 
+patch=1,EE,203A5890,extended,FFFFFFFF
+patch=1,EE,203A5894,extended,FFFFFFFF
+
+[Cheats/Unlock All Weapons] 
+patch=1,EE,203A4978,extended,07FFFFFF
+
+[Cheats/Unlock All Leagues] 
+patch=1,EE,203A497C,extended,0000FFFF
+
+[Cheats/Unlock All Teams] 
+patch=1,EE,203A58C0,extended,0000FFFF
+
+[Cheats/Unlock All Challenges] 
+patch=1,EE,203A58C8,extended,FFFFFFFF
+patch=1,EE,203A58CC,extended,FFFFFFFF
+
+[Cheats/Unlock All Modes] 
+patch=1,EE,203A58D0,extended,00000003

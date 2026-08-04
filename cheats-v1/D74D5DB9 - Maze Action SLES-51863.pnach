@@ -1,0 +1,29 @@
+[Cheats/Infinite HP] 
+patch=1,EE,103BA0F4,extended,0000006E
+
+[Cheats/Infinite ST] 
+patch=1,EE,103BA094,extended,0000006E
+
+[Cheats/Infinite Shotgun Ammo] 
+patch=1,EE,2018E780,extended,24420000
+
+[Cheats/Infinite Rocket Launcher Ammo] 
+patch=1,EE,2018EBC8,extended,24420000
+
+[Cheats/Infinite Pistol Ammo] 
+patch=1,EE,2018E280,extended,24420000
+
+[Cheats/Infinite Medical Kits] 
+patch=1,EE,20172C9C,extended,00000000
+
+[Cheats/Infinite Armour Usage] 
+patch=1,EE,20172F64,extended,00000000
+
+[Cheats/Infinte Shoe Usage] 
+patch=1,EE,20172E7C,extended,00000000
+
+[Cheats/Infinite Aspirin Usage] 
+patch=1,EE,20172DA4,extended,00000000
+
+[Cheats/Infinite Trap Item Usage] 
+patch=1,EE,201718FC,extended,00000000

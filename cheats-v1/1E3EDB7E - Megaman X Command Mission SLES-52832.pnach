@@ -1,0 +1,62 @@
+[Cheats/Infinite Zenny] 
+patch=1,EE,2055E54C,extended,0098967F
+
+[Cheats/Infinite Energy in battle] 
+patch=1,EE,20B42644,extended,0000270F
+
+[Cheats/Infinite Energy] 
+patch=1,EE,2055E570,extended,0000270F
+
+[Cheats/Infinite Weapon Energy] 
+patch=1,EE,2055E578,extended,00000064
+
+[Cheats/Sub Tank Full] 
+patch=1,EE,1055EB56,extended,000004B0
+
+[Cheats/Completed All Challenges] 
+patch=1,EE,4055E2E8,extended,00240001
+patch=1,EE,00000001,extended,00000000
+
+[Cheats/Have All Music Discs] 
+patch=1,EE,2055E4AA,extended,0010FFFC
+patch=1,EE,2055E4AC,extended,FFFFFFFF
+patch=1,EE,2055E4B0,extended,0010001F
+
+[Cheats/Have All Sketches] 
+patch=1,EE,0055E4BD,extended,000000FF
+patch=1,EE,1055E4BE,extended,0000FFFF
+patch=1,EE,2055E4C0,extended,FFFFFFFF
+patch=1,EE,2055E4C4,extended,FFFFFFFF
+patch=1,EE,2055E4C8,extended,00100FFF
+
+[Cheats/Have All Key Items & UA] 
+patch=1,EE,2055DA82,extended,0010F800
+patch=1,EE,2055DA84,extended,0010C03D
+patch=1,EE,2055DA86,extended,00107FFF
+
+[Cheats/No Random Battles] 
+patch=1,EE,2055DAA0,extended,00000000
+
+[Cheats/All Sub Weapons] 
+patch=1,EE,4055EF50,extended,002B0001
+patch=1,EE,02090001,extended,00000001
+patch=1,EE,4055EFFC,extended,00070001
+patch=1,EE,02090031,extended,00000001
+
+[Cheats/All Main Weapons] 
+patch=1,EE,4055ED70,extended,00190001
+patch=1,EE,01090019,extended,00000001
+
+[Cheats/All Items] 
+patch=1,EE,4055EB60,extended,001F0001
+patch=1,EE,00090001,extended,00000001
+
+[Cheats/Max FME Force Metals] 
+patch=1,EE,2055E550,extended,0098967F
+
+[Cheats/Max Figure Tokens] 
+patch=1,EE,2055E558,extended,00000078
+
+[Cheats/Have All Figures] 
+patch=1,EE,4055E3AC,extended,00390001
+patch=1,EE,00010001,extended,00000000

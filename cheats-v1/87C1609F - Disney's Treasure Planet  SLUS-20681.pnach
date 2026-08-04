@@ -1,0 +1,21 @@
+[Cheats/Infinite Health] 
+patch=1,EE,002DD3D0,extended,00000003
+
+[Cheats/Drubloons Worth 50] 
+patch=1,EE,101F5804,extended,00000032
+
+[Cheats/Green Energies Worth 5] 
+patch=1,EE,101F2D10,extended,00000005
+
+[Cheats/Infinite Time in Time Based Missions] 
+patch=1,EE,20168B60,extended,00000000
+
+[Cheats/Infinite Powerups Press L1+Select Activate L2+Select Deactivate] 
+patch=1,EE,D030B942,extended,0000FBFE
+patch=1,EE,201C0FF4,extended,00000000
+patch=1,EE,D030B942,extended,0000FEFE
+patch=1,EE,201C0FF4,extended,E6000324
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,20145ACC,extended,24A20000
+

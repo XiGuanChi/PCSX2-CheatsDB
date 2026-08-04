@@ -1,0 +1,40 @@
+[Cheats/Max Money] 
+patch=1,EE,20b59744,extended,05F5E0FF
+
+[Cheats/Max Salary] 
+patch=1,EE,20209790,extended,05F5E0FF
+
+[Cheats/World Ranking Position 1] 
+patch=1,EE,20b596e8,extended,00000000
+
+[Cheats/Level 100] 
+patch=1,EE,20b59758,extended,00000064
+
+[Cheats/Max Exp] 
+patch=1,EE,20b5975c,extended,05F5E0FF
+
+[Cheats/Max Training Points R3 On L3 Off
+patch=1,EE,D067EC42,extended,0000FFFB
+patch=1,EE,00B0E794,extended,00000063
+patch=1,EE,D067EC42,extended,0000FFFD
+
+[Cheats/Max Landing Technique] 
+patch=1,EE,20b596f4,extended,42C80000
+
+[Cheats/Max Flight Technique] 
+patch=1,EE,20b596f8,extended,42C80000
+
+[Cheats/Max Startup Technique] 
+patch=1,EE,20b596fc,extended,42c80000
+
+[Cheats/Max Bounce] 
+patch=1,EE,20b59700,extended,42c80000
+
+[Cheats/Max Fitness] 
+patch=1,EE,20b59704,extended,42c80000
+
+[Cheats/Max Motivation] 
+patch=1,EE,20b59708,extended,42c80000
+
+[Cheats/Rank Legend] 
+patch=1,EE,20b59740,extended,00000002

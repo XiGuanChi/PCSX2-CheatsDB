@@ -1,0 +1,54 @@
+[Cheats/Player 1 Infinite Health] 
+patch=1,EE,D05E9C1C,extended,00000000
+patch=1,EE,2057A290,extended,453B8000
+patch=1,EE,D05E9C1C,extended,00000001
+patch=1,EE,20580890,extended,453B8000
+
+[Cheats/Player 1 Infinite Ki] 
+patch=1,EE,D05E9C1C,extended,00000000
+patch=1,EE,2057A298,extended,442F0000
+patch=1,EE,D05E9C1C,extended,00000001
+patch=1,EE,20580898,extended,442F0000
+
+[Cheats/One Hit Kill] 
+patch=1,EE,D05E9C1C,extended,00000001
+patch=1,EE,2057A290,extended,00000001
+patch=1,EE,D05E9C1C,extended,00000000
+patch=1,EE,20580890,extended,00000000
+
+[Cheats/Unlock All Dragon Balls Press L1+L2+R1+R2] 
+patch=1,EE,D04EC5A2,extended,0000F0FF
+patch=1,EE,205ED204,extended,01010101
+patch=1,EE,D04EC5A2,extended,0000F0FF
+patch=1,EE,205ED208,extended,01010101
+
+[Cheats/Cyborg Mode Finished] 
+patch=1,EE,205E9D10,extended,0000FFFF
+
+[Cheats/Namekan Mode Finished] 
+patch=1,EE,205E9D0C,extended,0000FFFF
+
+[Cheats/Open Mr Satan Mode] 
+patch=1,EE,005E9CF8,extended,00000001
+
+[Cheats/Saiyan Mode Finished] 
+patch=1,EE,205E9D08,extended,0000FFFF
+
+[Cheats/History Mode Open] 
+patch=1,EE,205E9D04,extended,00000001
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,205E9D2C,extended,01010101
+patch=1,EE,205E9D30,extended,01010101
+patch=1,EE,205E9D34,extended,01010101
+patch=1,EE,205E9D38,extended,01010101
+patch=1,EE,205E9D3C,extended,01010101
+patch=1,EE,205E9D40,extended,01010101
+patch=1,EE,205E9D44,extended,01010101
+
+[Cheats/Unlock All Levels] 
+patch=1,EE,005E9CFC,extended,00000009
+
+[Cheats/Unlock All Tournament Mode] 
+patch=1,EE,105E9CF4,extended,00000101
+patch=1,EE,105ED224,extended,00000101

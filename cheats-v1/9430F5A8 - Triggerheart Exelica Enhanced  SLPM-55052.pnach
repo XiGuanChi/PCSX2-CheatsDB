@@ -1,0 +1,17 @@
+ [Cheats/Infinite Lives]  
+patch=1,EE,004880D0,extended,00000009
+
+[Cheats/Infinite HP] 
+patch=1,EE,202B3994,extended,2403FFFF
+
+[Cheats/Infinite Bombs]  
+patch=1,EE,004880D8,extended,00000009
+
+[Cheats/Infinite Time] 
+patch=1,EE,204880A0,extended,0000FFFF
+
+[Cheats/Infinite Power] 
+patch=1,EE,204880F0,extended,00000004
+
+[Cheats/Invicible] 
+patch=1,EE,202B3994,extended,2403FFFF

@@ -1,0 +1,7 @@
+[Cheats/Unlock Special Mode] 
+patch=1,EE,00298860,extended,00000002
+
+[Cheats/Unlock All Gallery]  
+patch=1,EE,402988E0,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,102988EC,extended,0000FFFF

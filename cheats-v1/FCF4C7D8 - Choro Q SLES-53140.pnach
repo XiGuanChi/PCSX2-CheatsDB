@@ -1,0 +1,9 @@
+[Cheats/Max Cash] 
+patch=1,EE,202683DC,extended,05F5E0FF
+
+[Cheats/Unlock All Parts]  
+patch=1,EE,402683E0,extended,00660001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Debug Menu Press Start+Triangle] 
+patch=1,EE,00263478,extended,00000001

@@ -1,0 +1,18 @@
+[Cheats/Unlock All Bonus Item]  
+patch=1,EE,202C1C08,extended,01010101
+
+[Cheats/Unlock All GC]  
+patch=1,EE,402C1C40,extended,004C0001
+patch=1,EE,01010101,extended,00000000
+
+[Cheats/Unlock All Special Menu Items] 
+patch=1,EE,202D614C,extended,00000004
+patch=1,EE,201339A8,extended,0C05A920
+patch=1,EE,2016A480,extended,A04119A0
+patch=1,EE,2016A484,extended,03E00008
+patch=1,EE,2016A488,extended,904319A0
+patch=1,EE,20133938,extended,0C05A923
+patch=1,EE,2016A48C,extended,24040001
+patch=1,EE,2016A490,extended,A0441508
+patch=1,EE,2016A494,extended,03E00008
+patch=1,EE,2016A498,extended,90441508

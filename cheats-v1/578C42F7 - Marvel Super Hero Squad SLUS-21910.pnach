@@ -1,0 +1,39 @@
+[Cheats/Activator required] 
+patch=1,EE,200A0000,extended,3C16000A
+patch=1,EE,200A0004,extended,AEC20014
+patch=1,EE,200A0008,extended,90420EF8
+patch=1,EE,200A000C,extended,080446D2
+patch=1,EE,200A0020,extended,3C01000A
+patch=1,EE,200A0024,extended,8C210014
+patch=1,EE,200A0028,extended,10200034
+patch=1,EE,200A0030,extended,24020001
+patch=1,EE,200A0058,extended,3C02FFFF
+patch=1,EE,200A005C,extended,3442FFFF
+patch=1,EE,200A0100,extended,03E00008
+patch=1,EE,20111B40,extended,08028000
+patch=1,EE,20407900,extended,08028008
+
+[Cheats/Infinite Health] 
+patch=1,EE,201878DC,extended,AC410008
+patch=1,EE,2024E7AC,extended,AC400010
+
+[Cheats/Unlock All Cheats] 
+patch=1,EE,200A0048,extended,A0220EF8
+patch=1,EE,200A004C,extended,A0220EF9
+patch=1,EE,200A0034,extended,A0220EFA
+patch=1,EE,200A0038,extended,A0220EFB
+patch=1,EE,200A003C,extended,A0220EFC
+patch=1,EE,200A0040,extended,A0220EFD
+
+[Cheats/Unlock All Characters] 
+patch=1,EE,200A0060,extended,AC220258
+patch=1,EE,200A0044,extended,A022025C
+
+[Cheats/Unlock All Arenas] 
+patch=1,EE,200A0064,extended,AC220250
+
+[Cheats/Unlock All Costumes] 
+patch=1,EE,200A0068,extended,AC220268
+patch=1,EE,200A0050,extended,A022026C
+patch=1,EE,200A006C,extended,AC220270
+patch=1,EE,200A0054,extended,A0220274

@@ -1,0 +1,85 @@
+[Cheats/Max Funds] 
+patch=1,EE,21FBF31C,extended,000F423F
+
+[Cheats/Suit Durability Enhancement LV5] 
+patch=1,EE,01FBF3AF,extended,00000004
+
+[Cheats/Suit Radio Wave Enhancement LV5] 
+patch=1,EE,01FBF3B0,extended,00000004
+
+[Cheats/Suit Boost Enhancement LV5] 
+patch=1,EE,01FBF3B1,extended,00000004
+
+[Cheats/Infinite Radio Range] 
+patch=1,EE,20204C44,extended,3C016C00
+patch=1,EE,20204C4C,extended,AC810000
+
+[Cheats/Infinite Boost] 
+patch=1,EE,20204D7C,extended,AC800000
+
+[Cheats/Increased Durability] 
+patch=1,EE,2020505C,extended,3C016C00
+patch=1,EE,20205078,extended,AE010000
+
+[Cheats/1P Max Maintenance Of Robo Armor] 
+patch=1,EE,200F4000,extended,3C0101FA
+patch=1,EE,200F4004,extended,8C234288
+patch=1,EE,200F4008,extended,AC234290
+patch=1,EE,200F400C,extended,03E00008
+patch=1,EE,201F4B74,extended,0803D000
+
+[Cheats/1P Robo Energy Max] 
+patch=1,EE,21FA428C,extended,3F800000
+patch=1,EE,21FA4294,extended,3F800000
+
+[Cheats/1P Robo Down Gauge 0] 
+patch=1,EE,21FA4298,extended,00000000
+
+[Cheats/2P 1st Unit Robo Armor 0] 
+patch=1,EE,21FA5BC0,extended,00000000
+
+[Cheats/2P 1st Unit Robo Energy 0] 
+patch=1,EE,21FA5BC4,extended,00000000
+
+[Cheats/2P 1st Unit Robo Down Gauge Max] 
+patch=1,EE,21FA5BC8,extended,3F800000
+
+[Cheats/2P 1st Unit Robo armor 0 Press 1P START+Triangle] 
+patch=1,EE,D09B5D42,extended,0000EFF7
+patch=1,EE,21FA5BC0,extended,00000000
+
+[Cheats/2P 2nd Unit Robo Armor 0] 
+patch=1,EE,21FA74F0,extended,00000000
+
+[Cheats/2P 2nd Unit Robo Energy 0] Robo energy 0] 
+patch=1,EE,21FA74F4,extended,00000000
+
+[Cheats/2P 2nd Unit Robo Down Gauge Max] 
+patch=1,EE,21FA74F8,extended,3F800000
+
+[Cheats/2P 2nd Unit Robo armor 0 Press 1P START+Triangle]
+patch=1,EE,D09B5D42,extended,0000EFF7
+patch=1,EE,21FA74F0,extended,00000000
+
+[Cheats/2P 3rd Unit Robo Armor 0] 
+patch=1,EE,21FA8E20,extended,00000000
+
+[Cheats/2P 3rd Unit Robo Energy 0] 
+patch=1,EE,21FA8E24,extended,00000000
+
+[Cheats/2P 3rd Unit Robo Down Gauge Max] 
+patch=1,EE,21FA8E28,extended,3F800000
+
+[Cheats/2P 3rd Unit Robo armor 0 Press 1P START+Triangle] 
+patch=1,EE,D09B5D42,extended,0000EFF7
+patch=1,EE,21FA8E20,extended,00000000
+
+[Cheats/Unlock All Battle Robots, Another Story And All Free Missions Robot models in the gallery will also be fully opened] 
+patch=1,EE,21FAA7B8,extended,FFFFFFFF
+patch=1,EE,21FAA7BC,extended,FFFFFFFF
+patch=1,EE,21FAA7C0,extended,FFFFFFFF
+
+[Cheats/Unlock All Illustrations] 
+patch=1,EE,21FAA7F0,extended,FFFFFFFF
+patch=1,EE,21FAA7F4,extended,FFFFFFFF
+patch=1,EE,21FAA7F8,extended,FFFFFFFF

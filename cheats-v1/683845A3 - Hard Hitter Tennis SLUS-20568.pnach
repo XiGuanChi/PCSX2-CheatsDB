@@ -1,0 +1,20 @@
+[Cheats/Player 1 Start With 40 Points] 
+patch=1,EE,D037C718,extended,00000000
+patch=1,EE,2037C718,extended,00000003
+
+[Cheats/Player 2 Never Scores] 
+patch=1,EE,2037C71C,extended,00000000
+
+[Cheats/Unlock Shooting Tennis MiniGame Max Score] 
+patch=1,EE,2039371C,extended,0001869F
+
+[Cheats/Shooting Tennis MiniGame P1 Press Select For More Balls]
+patch=1,EE,D03172C2,extended,0000FFFE
+patch=1,EE,20393720,extended,00000005
+
+[Cheats/Alphabet Tennis MiniGame Max Score] 
+patch=1,EE,203912F4,extended,0001869F
+
+[Cheats/Alphabet Tennis MiniGame P1 Press Select For More Balls] 
+patch=1,EE,D03172C2,extended,0000FFFE
+patch=1,EE,20390FF8,extended,0000001E

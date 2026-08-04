@@ -1,0 +1,35 @@
+[Cheats/All Questions correct answer in the end of test it will be invalid if the test is completed Press START] 
+patch=1,EE,20209C34,extended,8E420054
+patch=1,EE,20209C38,extended,AE420058
+
+[Cheats/Unlock All Accessories save unreflected] 
+patch=1,EE,2016C484,extended,10000044
+patch=1,EE,2016C488,extended,24020001
+
+[Cheats/Unlock Chapter Selection It does not reflect the display]
+patch=1,EE,2021F260,extended,24020001
+
+[Cheats/Unlock Scene Selection It does not reflect the display]  
+patch=1,EE,202205D4,extended,24020001
+
+[Cheats/Unlock All Event Graphics It does not reflect the display]
+patch=1,EE,201FA8C8,extended,00000000
+
+[Cheats/Unlock All Settings and original It does not reflect the display] 
+patch=1,EE,201F6530,extended,00000000
+
+[Cheats/Character Mania all possible selection] 
+patch=1,EE,20228E78,extended,24020001
+patch=1,EE,2022AA30,extended,24020001
+
+[Cheats/Change Ending Force - Perfect ending] 
+patch=1,EE,2017C2F8,extended,10000004
+
+[Cheats/Change Ending Force - Dream ending] 
+patch=1,EE,2017C2F8,extended,1000000C
+
+[Cheats/Change Ending Force - Usually ending] 
+patch=1,EE,2017C2F8,extended,1000000A
+
+[Cheats/New Game = Debug Menu This will let you quickly select any event to choose from, play music and sounds, and select any game mode of your choice] 
+patch=1,EE,001ECF68,extended,00000017

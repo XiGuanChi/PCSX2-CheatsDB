@@ -1,0 +1,25 @@
+[Cheats/Max  1P] 
+patch=1,EE,202EB260,extended,0001869F
+
+[Cheats/2P Magical Power 0] 
+patch=1,EE,202EB384,extended,00000000
+
+[Cheats/3P Magical Power 0] 
+patch=1,EE,202EB4B5,extended,00000000
+
+[Cheats/4P Magical Power 0] 
+patch=1,EE,202EB5CC,extended,00000000
+
+[Cheats/Unlock All Medals In The Stage Clear Without Interruption] 
+patch=1,EE,20153B2C,extended,00000000
+
+[Cheats/Maintenance Started Obtain All Cards Some rare cards will be returned to 1 even if you increase them] 
+patch=1,EE,2015E8F0,extended,241A0063
+patch=1,EE,2015E8F4,extended,A05A00F0
+
+[Cheats/After Battle 99 Cards Obtained Some rare cards will be returned to 1 even if you increase them] .
+patch=1,EE,20146F6C,extended,24020063
+
+[Cheats/Unlock All Gallery Movie playback will appear after clearing the first round] 
+patch=1,EE,204EF99C,extended,FFFFFFFF
+patch=1,EE,204EF9A0,extended,00FFFFFF
