@@ -52,5 +52,5 @@ jobs:
             echo "No changes detected in patches. Skipping commit."
           else
             git commit -m "Sync patches from Misc-PCSX2-Cheats (commit ${{ github.sha }})"
-            git push origin master
+            git push origin main
           fi
