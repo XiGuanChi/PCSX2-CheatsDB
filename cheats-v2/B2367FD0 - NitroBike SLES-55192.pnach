@@ -1,0 +1,6 @@
+gametitle=NitroBike SLES-55192
+//Nitro Never Overcharges
+patch=1,EE,21DAF428,extended,00000000
+
+//Enhanced Bike
+patch=1,EE,21DAF404,extended,3FA80000

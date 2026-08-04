@@ -1,0 +1,27 @@
+gametitle=Disgaea - Hour of Darkness SLUS-20666
+//Max Money
+patch=1,EE,202A20C0,extended,3B9AC9FF
+
+//Infinite HP
+patch=1,EE,202A3090,extended,0000270F
+
+//Infinite SP
+patch=1,EE,202A3094,extended,0000270F
+
+//Max HP
+patch=1,EE,202A3098,extended,0000270F
+
+//Max SP
+patch=1,EE,202A309C,extended,0000270F
+
+//CHaracter 2 Infinite HP
+patch=1,EE,202A3858,extended,0000270F
+
+//Infinite SP
+patch=1,EE,202A385C,extended,0000270F
+
+//Max HP
+patch=1,EE,202A3860,extended,0000270F
+
+//Max SP
+patch=1,EE,202A3864,extended,0000270F

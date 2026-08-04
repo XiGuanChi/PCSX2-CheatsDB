@@ -1,0 +1,15 @@
+gametitle=Sonic Riders SLES-53560
+//infinitely air
+patch=1,EE,20499ED8,extended,00,030,250
+
+//100 rings
+patch=1,EE,2049A0EC,extended,00000064
+
+//Start in the 3rd round
+patch=1,EE,2049A5D0,extended,02030000
+
+//instant win
+patch=1,EE,2049A5D0,extended,0203000
+
+//infinitely Funds
+patch=1,EE,2095D428,extended,000F423F

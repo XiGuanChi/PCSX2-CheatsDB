@@ -1,0 +1,16 @@
+gametitle=Izumo 2 - Gakuen Kyousoukyoku - Double Tact SLPM-66908
+//options Character Voice settings fully open
+patch=1,EE,20AC8510,extended,FFFFFFFF
+
+//CG View fully open 
+patch=1,EE,201050C0,extended,00430821
+patch=1,EE,201050C8,extended,240200FF
+patch=1,EE,201050CC,extended,A0228090
+
+//recalls Browse fully open
+patch=1,EE,20104714,extended,240400FF
+patch=1,EE,20104718,extended,10000009
+patch=1,EE,2010471C,extended,A0443EC0
+
+//music fully open
+patch=1,EE,20AC8410,extended,FFFFFFFF

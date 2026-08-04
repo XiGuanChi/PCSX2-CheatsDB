@@ -1,0 +1,33 @@
+gametitle=Shaman King - Funbari Spirits SLPS-25359
+//Story Mode Maximum shaman force
+patch=1,EE,203BE380,extended,000002BC
+
+//Story Mode Spiritual power maximum
+patch=1,EE,203BE384,extended,000002BC
+
+//Story Mode Coin 99
+patch=1,EE,203BDFF0,extended,00000063
+
+//Character & Gallery all After confirming, turn off
+patch=1,EE,403BDE48,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,203BDE6C,extended,00000005
+patch=1,EE,403BDEE0,extended,00070001
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,203BDEFC,extended,FFFFFFFF
+patch=1,EE,203BDF00,extended,FFFFFFFF
+patch=1,EE,203BDF04,extended,FFFF009B
+patch=1,EE,203BDF08,extended,FFFFFFFF
+patch=1,EE,203BDF0C,extended,FFFFFFFF
+
+//Infinite Health P1 SMP
+patch=1,EE,20399EA8,extended,42C50F5C
+
+//Infinite Health P1 OSP
+patch=1,EE,20399EAC,extended,42C50F5C
+
+//P2 SMP 0
+patch=1,EE,20399EF4,extended,00000000
+
+//P2 OSP 0
+patch=1,EE,20399EF8,extended,00000000

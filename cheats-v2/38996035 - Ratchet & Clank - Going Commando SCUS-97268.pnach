@@ -1,0 +1,95 @@
+gametitle=Ratchet & Clank - Going Commando SCUS-97268
+//Start A New Game For All Gadgets
+patch=1,EE,2042CDB0,extended,A0430000
+
+//Start A New Game For All Weapons
+patch=1,EE,2043D3E8,extended,A0430000
+
+//1 Hit Kill(All Planets)
+patch=1,EE,200A0000,extended,3C010019
+patch=1,EE,200A0004,extended,8C21C2B0
+patch=1,EE,200A0008,extended,10200006
+patch=1,EE,200A0010,extended,8C210068
+patch=1,EE,200A0014,extended,10200003
+patch=1,EE,200A001C,extended,AC200020
+patch=1,EE,200A0024,extended,03E00008
+patch=1,EE,2011d1fc,extended,08028000
+
+//Infinite Air
+patch=1,EE,2018C2E0,extended,00002710
+
+//Infinite Health
+patch=1,EE,2018C2EC,extended,00000004
+
+//unlimited Giant Clank health
+patch=1,EE,2018B694,extended,000004B0
+
+//Planet Barlow
+
+//Infinite Turbo
+patch=1,EE,2040E604,extended,00000000
+
+//Alt.Infinite Turbo
+patch=1,EE,21E74CBC,extended,00000003
+
+//Infinite Turbo Boost
+patch=1,EE,2040e600,extended,AE230338
+
+//Infinite Turbo Boost
+patch=1,EE,21E74CB8,extended,000000F0
+
+//Infinite weapon Ammo
+patch=1,EE,2040f1b8,extended,24040003
+
+//Alt.Infinite weapon Ammo
+patch=1,EE,21E74CE4,extended,00000003
+
+//Jurassic Haunted
+
+//Infinite Health
+patch=1,EE,605DA8D0,extended,42C80000
+patch=1,EE,00020001,extended,00000008
+
+//Alt. Infinite Health
+patch=1,EE,2036b1bc,extended,00000000
+
+//Infinite Adrenaline Time
+patch=1,EE,2036E0C8,extended,00000000
+patch=1,EE,2036E0F4,extended,00000000
+
+//Weapons Never Overheats
+patch=1,EE,2024634C,extended,AE0001A4
+
+//One Hit Kill Dinosaurs
+patch=1,EE,20351D68,extended,ACC001AC
+
+//Have All Items/Weapons/Gadgets
+patch=1,EE,101A7B02,extended,00000101
+patch=1,EE,401A7B04,extended,000D0001
+patch=1,EE,01010101,extended,00000000
+
+//Unlock All Cinematics
+patch=1,EE,20139768,extended,FFFFFFFF
+patch=1,EE,2013976C,extended,FFFFFFFF
+patch=1,EE,20139770,extended,FFFFFFFF
+patch=1,EE,20139774,extended,FFFFFFFF
+patch=1,EE,20139778,extended,FFFFFFFF
+patch=1,EE,2013977C,extended,FFFFFFFF
+patch=1,EE,20139780,extended,FFFFFFFF
+patch=1,EE,20139784,extended,FFFFFFFF
+patch=1,EE,201ABD88,extended,00000001
+
+//Unlock 'Making Of' Video
+patch=1,EE,201ABD90,extended,00000001
+
+//Unlock Cancelled Commercials
+patch=1,EE,201ABD94,extended,00000001
+
+//Unlock Sketchbook
+patch=1,EE,201ABD98,extended,00000001
+
+//Unlock Misc. Extras
+patch=1,EE,001A7A12,extended,00000001
+
+
+

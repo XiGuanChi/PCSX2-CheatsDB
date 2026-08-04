@@ -1,0 +1,10 @@
+gametitle=Seven Samurai 20XX SLPS-25313
+//Infinite HP In Battle
+patch=1,EE,D043587E,extended,00004601
+patch=1,EE,20435880,extended,45010001
+
+//GP maximum maintenance
+patch=1,EE,20435964,extended,4A0002FF
+
+//RT maximum maintenance
+patch=1,EE,204359D4,extended,137B000B

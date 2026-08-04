@@ -1,0 +1,40 @@
+gametitle=Kyoushuu Kidou Butai - Kougeki Helicopter Senk SLPM-62538
+//Invincible
+patch=1,EE,2012993C,extended,10000000
+patch=1,EE,20129B58,extended,10000000
+
+//Fuel 1000
+patch=1,EE,40176930,extended,00070010
+patch=1,EE,447A0000,extended,00000000
+patch=1,EE,40176934,extended,00070010
+patch=1,EE,447A0000,extended,00000000
+patch=1,EE,40176938,extended,00070010
+patch=1,EE,447A0000,extended,00000000
+
+//Infinite number of bullets
+patch=1,EE,2020D244,extended,FFFFFFFF
+
+//Does not receive damage
+patch=1,EE,2012993C,extended,10000000
+patch=1,EE,20129B58,extended,10000000
+
+//Total flight time 0
+patch=1,EE,20214D60,extended,00000000
+
+//Mission failure count 0
+patch=1,EE,20214D6C,extended,00000000
+
+//MAX enemy that was destroyed
+patch=1,EE,20214D64,extended,3B9AC9FF
+
+//Total score MAX
+patch=1,EE,20214D70,extended,3B9AC9FF
+
+//Comanche available in the hidden Tiger aircraft available and expert
+patch=1,EE,40214D74,extended,001E0001
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,10A41D9B,extended,246783C0
+
+//100% destruction rate each mission
+patch=1,EE,40214DEC,extended,001E0001
+patch=1,EE,00010001,extended,00000000

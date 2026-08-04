@@ -1,0 +1,26 @@
+gametitle=Kingdom Hearts Final Mix + SLPM.66675
+//Monny does not decrease even after shopping
+patch=1,EE,20242570,extended,0000802D
+patch=1,EE,202425A0,extended,0000802D
+
+//The HP does not decrease the operation character
+patch=1,EE,2019E70C,extended,8C820004
+patch=1,EE,2019E724,extended,AC820000
+
+//HP does not decrease
+patch=1,EE,200F7000,extended,8C820004
+patch=1,EE,200F7004,extended,0806891E
+patch=1,EE,200F7008,extended,AC820000
+patch=1,EE,20166CD8,extended,0C03DC00
+
+//HP does not decrease friend
+patch=1,EE,D034D45C,extended,00007FDF
+patch=1,EE,200F7054,extended,01C0102D
+patch=1,EE,D034D45C,extended,00007F7F
+patch=1,EE,200F7054,extended,00000000
+
+//HP does not decrease 2 friend
+patch=1,EE,D034D45C,extended,00007FDF
+patch=1,EE,200F7054,extended,8C820004
+patch=1,EE,D034D45C,extended,00007F7F
+patch=1,EE,200F7054,extended,00000000

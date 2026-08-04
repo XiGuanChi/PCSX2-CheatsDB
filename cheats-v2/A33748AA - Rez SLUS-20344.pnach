@@ -1,0 +1,10 @@
+gametitle=Rez SLUS-20344
+//Quick Form Gain
+patch=1,EE,102F967C,extended,00000008
+
+//Infinite Overdrive
+patch=1,EE,102F9680,extended,00000004
+
+//Max Analyzation
+patch=1,EE,102F96AC,extended,00000009
+patch=1,EE,102F96B0,extended,00000009

@@ -1,0 +1,3 @@
+gametitle=Charlie and the Chocolate Factory SLES-53386
+//Enable Debug Level Select On Main Menu
+patch=1,EE,2047E8C0,extended,00000001

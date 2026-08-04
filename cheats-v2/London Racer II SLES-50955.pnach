@@ -1,0 +1,21 @@
+gametitle=London Racer II SLES-50955
+//Takes No Damage
+patch=1,EE,200C0014,extended,44800000
+patch=1,EE,200C0018,extended,03E00008
+patch=1,EE,200C001C,extended,E480025C
+patch=1,EE,201540A0,extended,08030005
+
+//Infinite Nitro
+patch=1,EE,200C0000,extended,3C013F80
+patch=1,EE,200C0004,extended,AE210070
+patch=1,EE,200C0008,extended,46006506
+patch=1,EE,200C000C,extended,0807B83F
+patch=1,EE,200C0010,extended,4600A036
+patch=1,EE,201EE0F4,extended,08030000
+
+//Infinite Cash (Must Enter A Tournament)
+patch=1,EE,200C0020,extended,3C0505F5
+patch=1,EE,200C0024,extended,34A5E0FF
+patch=1,EE,200C0028,extended,0807AE1A
+patch=1,EE,200C002C,extended,AE250074
+patch=1,EE,201EB860,extended,08030008

@@ -1,0 +1,16 @@
+gametitle=David Beckham Soccer SLES-50243
+//Home Team Score 99 Press Select+Up to activate
+patch=1,EE,D0288240,extended,0000FFEE
+patch=1,EE,002281E8,extended,00000063 
+
+//Home Team Score 0 Press Select+Down to activate
+patch=1,EE,D0288240,extended,0000FFBE
+patch=1,EE,002281E8,extended,00000000
+
+//Away Team Score 99 Press Select+Right to activate
+patch=1,EE,D0288240,extended,0000FFDE
+patch=1,EE,002281EC,extended,00000063
+
+//Away Team Score 0 Press Select+Left to activate
+patch=1,EE,D0288240,extended,0000FF7E
+patch=1,EE,002281EC,extended,00000000

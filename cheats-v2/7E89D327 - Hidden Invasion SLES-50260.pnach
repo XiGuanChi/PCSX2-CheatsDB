@@ -1,0 +1,12 @@
+gametitle=Hidden Invasion SLES-50260
+//Infinite Health Player 1
+patch=1,EE,203C033C,extended,000001CE
+
+//Infinite Ammo Player 1
+patch=1,EE,103C042A,extended,00000063
+
+//Infinite Time
+patch=1,EE,201A4EA8,extended,424CF1CE
+
+//In-Game Cheat Menu
+patch=1,EE,201A4D28,extended,FFFFFFFF

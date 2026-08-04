@@ -1,0 +1,9 @@
+gametitle=Spy vs. Spy SLES-53078
+//Unlock All Features  & Invincibility.
+patch=1,EE,2040FD34,extended,8C900000
+patch=1,EE,2040FD38,extended,3C01BF80
+patch=1,EE,2040FD3C,extended,14300002
+patch=1,EE,2040FD40,extended,00000000
+patch=1,EE,2040FD44,extended,AC800000
+patch=1,EE,2040FD48,extended,08064E0C
+patch=1,EE,201937D0,extended,08103F4D

@@ -1,0 +1,23 @@
+gametitle=Cabela's Outdoor Adventures 	SLES-53749
+//Max Cash
+patch=1,EE,20B2EA00,extended,05F5E0FF
+
+//Unlock All Missions
+patch=1,EE,40B2EB34,extended,00050001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10B2EB48,extended,00000101
+
+//Unlock All Contests
+patch=1,EE,10B2EB4A,extended,00000101
+patch=1,EE,20B2EB4C,extended,01010101
+patch=1,EE,20B2EB50,extended,01010101
+patch=1,EE,00B2EB54,extended,00000001
+
+//God Mode
+patch=1,EE,205BC688,extended,00000001
+
+//Stealth Mode
+patch=1,EE,205D1CE0,extended,00000001
+
+//Animal Freeze
+patch=1,EE,205DEB88,extended,00000001

@@ -1,0 +1,43 @@
+gametitle=Looney Tunes - Back in Action SLUS-20853
+//Start With 19 Trophies
+patch=1,EE,D0303918,extended,00000000
+patch=1,EE,20303918,extended,00000013
+
+//Max Trophies
+patch=1,EE,20303918,extended,00000014
+
+//Max Roadrunner Bird Seeds
+patch=1,EE,20303B44,extended,00000007
+
+//Infinite Lives (Traffic Attack)
+patch=1,EE,2030FB98,extended,00000003
+
+//Activate Cheat Code Access All Areas (Progress Will Not Be Saved.)
+patch=0,EE,202CF804,extended,00000001
+
+//Activate Cheat Code Invulnerability
+patch=1,EE,202CF808,extended,00000001
+
+//Unlock All Levels
+patch=1,EE,202F6138,extended,0000001F
+
+//Quick Money Gain
+patch=1,EE,002F613C,extended,000000FF
+
+//Max Money
+patch=1,EE,202F613C,extended,000F423F
+
+//Unlock All World Challenges Warner Bros. Studios
+patch=1,EE,102F6110,extended,000003FF
+
+//Unlock All World Challenge Paris & The Louvre
+patch=1,EE,102F6114,extended,000003FF
+
+//Unlock All World Challenge Wooden Nickel
+patch=1,EE,102F6118,extended,000003FF
+
+//Unlock All World Challenge Area 52
+patch=1,EE,102F611C,extended,000003FF
+
+//Unlock All World Challenge Jungle Ruins
+patch=1,EE,102F6120,extended,000003FF

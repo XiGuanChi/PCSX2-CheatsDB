@@ -1,0 +1,26 @@
+gametitle=Culdcept 2 - Expansion SLPM-65179
+//P1 Magical power Max
+patch=1,EE,202EB260,extended,0001869F
+
+//P2 Magical power 0
+patch=1,EE,202EB384,extended,00000000
+
+//P3 Magical power 0
+patch=1,EE,202EB4B5,extended,00000000
+
+//P4 Magical power 0
+patch=1,EE,202EB5CC,extended,00000000
+
+//Get all cards when entering maintenance
+patch=1,EE,2015E8F0,extended,241A0063
+patch=1,EE,2015E8F4,extended,A05A00F0
+
+//99 cards obtained after battle
+patch=1,EE,20146F6C,extended,24020063
+
+//All medals in the stage clear without interruption
+patch=1,EE,20153AFC,extended,00000000
+
+//Gallery full open Movie playback will appear when you clear the first lap
+patch=1,EE,204EF99C,extended,FFFFFFFF
+patch=1,EE,204EF9A0,extended,00FFFFFF

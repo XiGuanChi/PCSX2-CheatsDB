@@ -1,0 +1,12 @@
+gametitle=Simple 2000 Ultimate Series Vol.04 - Urawaza Ikasa Mahjong Gai SLPM-62233
+//Player has 99999 points
+patch=1,EE,207F85E8,extended,0001869F
+
+//Opponent 1 has 0 points
+patch=1,EE,207F85F4,extended,00000000
+
+//Opponent 2 has 0 points
+patch=1,EE,207F85F0,extended,00000000
+
+//Opponent 3 has 0 points
+patch=1,EE,207F85EC,extended,00000000

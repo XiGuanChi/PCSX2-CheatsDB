@@ -1,0 +1,16 @@
+gametitle=Bowling Xciting SLES-51861
+//Always Strike (Raise Pins) (Press [L2])
+patch=1,EE,E002FEFF,extended,001DDB42
+patch=1,EE,401A70FC,extended,000A0001
+patch=1,EE,3CEC7A97,extended,0DA63D65
+
+//Reset Pins (Lower Pins) (Press [R2])
+patch=1,EE,E002FDFF,extended,001DDB42
+patch=1,EE,401A70FC,extended,000A0001
+patch=1,EE,3CEC7AD7,extended,0DA63D65
+
+//Quest Mode Unlimited Chances
+patch=1,EE,201F97FC,extended,0000270F
+
+//Excite Mode Unlimited Chances
+patch=1,EE,201F97D0,extended,0000270F

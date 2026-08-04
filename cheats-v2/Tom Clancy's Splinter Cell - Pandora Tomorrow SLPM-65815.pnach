@@ -1,0 +1,9 @@
+gametitle=Tom Clancy's Splinter Cell - Pandora Tomorrow SLPM-65815
+//Stealth meter it does not increase
+patch=1,EE,2030D9C4,extended,AE400330
+
+//Modification of conduct of enemy L3+L1 - attack L3+R1 - not attack
+patch=1,EE,D0507842,extended,0000FBFD
+patch=1,EE,201DB934,extended,0C077000
+patch=1,EE,D0507842,extended,0000F7FD
+patch=1,EE,201DB934,extended,00000000

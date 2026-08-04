@@ -1,0 +1,29 @@
+gametitle=Romancing SaGa - Minstrel Song SLPM-65920
+//Max Money
+patch=1,EE,20413BDC,extended,000F423F
+
+//Infinite Jewels
+patch=1,EE,10413CC0,extended,0000270F
+
+//Status MAX (Including LP, BP)
+patch=1,EE,202AF418,extended,8000033C
+patch=1,EE,202AF480,extended,8000033C
+patch=1,EE,202AF8E8,extended,8000033C
+patch=1,EE,202AF948,extended,8000033C
+
+//Battle system skill maximum
+patch=1,EE,2020181C,extended,2403FFFF
+patch=1,EE,20201820,extended,AC430000
+patch=1,EE,20201824,extended,14000005
+
+//Surgical skill maximum
+patch=1,EE,202018CC,extended,2402FFFF
+patch=1,EE,202018D0,extended,AC620000
+
+
+//World map anywhere
+patch=1,EE,A01F66B8,extended,0C048B3C
+
+//Normal save anywhere Please select Quicksave on the menu screen.
+//Quick save is normal save.You can not use the original quick save while using this code.When loading please select LOAD DATA instead of CONTINUE.
+patch=1,EE,201F69FC,extended,24040003

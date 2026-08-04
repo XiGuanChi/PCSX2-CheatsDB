@@ -1,0 +1,27 @@
+gametitle=Burnout 3 - Takedown SLES-52585
+//Infinite max Boost & max Boost Meter
+patch=1,EE,0064E9EC,word,00000003
+patch=1,EE,0064E9F0,word,44340000
+patch=1,EE,0064E9F4,word,44340000
+patch=1,EE,0064EA00,word,00000000
+
+//Boost On + infinite Super-Boost
+patch=0,EE,,0064EA0C,short,00000001
+
+//No Car and Wall Crashs
+patch=1,EE,001af498,word,3c023f80
+patch=0,EE,001af49c,word,44820000
+patch=0,EE,001af4a0,word,46000024
+patch=0,EE,001af4a4,word,44040000
+patch=0,EE,001af4a8,word,0080100a
+patch=0,EE,001af4bc,word,24030001
+patch=0,EE,002b94c4,word,46000830
+patch=0,EE,002b94c8,word,45010003
+
+//No Damage in "Road Rage"-Mode!
+patch=1,EE,00396348,word,24010000
+
+//Hidden development menu, accessible through the Extras  menu, it has a working unlock all feature and more
+patch=1,EE,204E09F8,extended,00425750
+
+

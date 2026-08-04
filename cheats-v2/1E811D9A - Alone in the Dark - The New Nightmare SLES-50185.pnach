@@ -1,0 +1,17 @@
+gametitle=Alone in the Dark - The New Nightmare SLES-50185
+//God mode
+patch=1,EE,2024BA68,word,24030015
+
+//All units appear on map
+patch=1,EE,10367798,extended,00000001God mode
+patch=1,EE,2024BA68,extended,24030015
+
+//Infinite Ammo
+patch=1,EE,2025F1D4,extended,00000000
+
+//All Items
+patch=1,EE,20258E68,extended,24020035
+
+//Super cheat, all of the above
+patch=1,EE,20264678,extended,2402FFFF
+patch=1,EE,20264684,extended,2402FFFF

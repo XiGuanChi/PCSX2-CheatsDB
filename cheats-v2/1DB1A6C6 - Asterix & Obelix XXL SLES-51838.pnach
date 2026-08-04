@@ -1,0 +1,12 @@
+gametitle=Asterix & Obelix XXL SLES-51838
+//Have 30 Roman Helmets
+patch=1,EE,20734020,extended,0000001E
+
+//Infinite HP (You can't pick any energy or the game will freeze)
+patch=1,EE,207343D0,extended,0000000F
+
+//Have 5 Caesar Laurels Lv1
+patch=1,EE,207343D4,extended,00000005
+
+//All 51 Caesar Symbols (save & load again)
+patch=1,EE,207343D3,extended,000000033

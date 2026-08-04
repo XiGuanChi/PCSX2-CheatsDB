@@ -1,0 +1,21 @@
+gametitle=Atelier Iris - Eternal Mana SLPM-65594
+//MAX money
+patch=1,EE,2016282C,extended,34020064
+
+//Temporarily increase life and mana
+patch=1,EE,201C35E4,extended,340503E7
+patch=1,EE,201C35EC,extended,70052EE9
+patch=1,EE,201C35F8,extended,AE25002C
+patch=1,EE,201C35FC,extended,AE250030
+
+//Enemy status weakening & one-shot death
+patch=1,EE,201C379C,extended,7E800030
+
+//Encounter control If you move while pressing L2 or R2 you will encounter with a high probability
+patch=1,EE,201CF768,extended,3C0200E2
+patch=1,EE,201CF76C,extended,90428811
+patch=1,EE,201CF770,extended,30440003
+
+//Mana Heal Not Required 
+patch=1,EE,201862A8,extended,3403270F
+

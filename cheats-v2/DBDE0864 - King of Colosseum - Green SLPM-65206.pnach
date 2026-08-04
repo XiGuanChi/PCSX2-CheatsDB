@@ -1,0 +1,6 @@
+gametitle=King of Colosseum - Green SLPM-65206
+//Trial load clear point MAX
+patch=1,EE,1029A930,extended,000003E7
+
+//Soul MAX
+patch=1,EE,1029A934,extended,000003E7

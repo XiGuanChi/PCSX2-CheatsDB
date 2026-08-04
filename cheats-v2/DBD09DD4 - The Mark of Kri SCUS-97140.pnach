@@ -1,0 +1,22 @@
+gametitle=The Mark of Kri SCUS-97140
+//Infinite Health
+patch=1,EE,203DBBC8,extended,00000001
+
+//Infinite Arrows
+patch=1,EE,20183C80,extended,00000000
+
+//Infinite Save Scrolls
+patch=1,EE,20288E20,extended,24020004
+patch=1,EE,20288E28,extended,A0431D40
+
+//Start With All Weapons
+patch=1,EE,20436D18,extended,00000006
+
+//Press Select For Debug Menu
+patch=1,EE,203DBAA8,extended,00000001
+
+//Unlock All Outfits/Arenas/Cheats
+patch=1,EE,20436C68,extended,FFFFFFFF
+
+//Unlock All Movies & Art
+patch=1,EE,20436C6C,extended,FFFFFFFF

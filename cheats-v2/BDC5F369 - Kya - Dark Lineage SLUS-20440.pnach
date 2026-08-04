@@ -1,0 +1,16 @@
+gametitle=Kya: Dark Lineage SLUS-20440
+//Infinite Health
+patch=1,EE,201A72E4,extended,0040202D
+patch=1,EE,201A72E8,extended,C480000C
+patch=1,EE,201A72EC,extended,E4800008
+
+//Infinite Magic
+patch=1,EE,201D7A00,extended,0200202D
+patch=1,EE,201D7A04,extended,C4800018
+patch=1,EE,201D7A08,extended,E4800014
+
+//Max Freed Nativs
+patch=1,EE,204248D4,extended,00000104
+
+//Max Noolies
+patch=1,EE,2048DABC,extended,0000270F

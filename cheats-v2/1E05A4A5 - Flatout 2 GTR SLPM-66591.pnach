@@ -1,0 +1,8 @@
+gametitle=Flatout 2 GTR SLPM-66591
+//All events/races available
+patch=1,EE,40997730,extended,000F0001 
+patch=1,EE,0101010100000000,extended,
+
+//Max Cash
+patch=1,EE,00993B61,extended,000000FF 
+patch=1,EE,00993B62,extended,000000FF

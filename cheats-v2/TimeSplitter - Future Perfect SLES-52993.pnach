@@ -1,0 +1,23 @@
+gametitle=TimeSplitter - Future Perfect SLES-52993
+//Infinite Health
+patch=1,EE,205D5638,extended,8DE401D0
+patch=1,EE,205D563C,extended,ADE401CC
+patch=1,EE,205D5640,extended,C5E001CC
+patch=1,EE,205D5644,extended,4600A034
+patch=1,EE,205D5648,extended,080E22C6
+patch=1,EE,205D564C,extended,00000000
+patch=1,EE,20388B10,extended,0817558E
+patch=1,EE,20388B14,extended,00000000
+
+//Infinite Ammo/Grenades
+patch=1,EE,202E83EC,extended,00000000
+patch=1,EE,202E83C0,extended,00000000
+
+//All Story Levels Open
+patch=1,EE,20306A38,extended,240EFFFF
+
+//All Challenges/Arcade Leagues Open
+patch=1,EE,20306740,extended,240FFFFF
+
+//All Cheats Open
+patch=1,EE,203067A8,extended,240EFFFF

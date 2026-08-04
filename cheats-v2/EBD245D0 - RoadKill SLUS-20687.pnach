@@ -1,0 +1,22 @@
+gametitle=RoadKill SLUS-20687
+//Infinite Health Player 1
+patch=1,EE,20442370,extended,3F800000
+
+//Infinite Time 
+patch=1,EE,2017ace0,extended,00000000
+
+//Max Salvage
+patch=1,EE,204714BC,extended,05F5E0FF
+
+//Infinite Turbo Player 1
+patch=1,EE,20442418,extended,40000000
+
+//Infinite Ammo All Weapons
+patch=1,EE,40471340,extended,00120001
+patch=1,EE,00000063,extended,00000000
+
+//Unlock All Vehicles
+patch=1,EE,40597F9C,extended,00400024
+patch=1,EE,00000001,extended,00000000
+
+

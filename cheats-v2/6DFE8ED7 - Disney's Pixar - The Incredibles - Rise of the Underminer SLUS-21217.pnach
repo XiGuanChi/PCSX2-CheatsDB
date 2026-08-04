@@ -1,0 +1,39 @@
+gametitle=Disney's Pixar - The Incredibles - Rise of the Underminer SLUS-21217
+//Unlock Cheat Invulnerability
+patch=1,EE,01E47970,extended,00000000
+
+//All Moves
+patch=1,EE,41E42160,extended,00540034
+patch=1,EE,00000000,extended,00000000
+
+//All Character Gallery
+patch=1,EE,41D79110,extended,00260038
+patch=1,EE,00691800,extended,00000000
+
+//All Character Render Gallery
+patch=1,EE,41D7F230,extended,000F0038
+patch=1,EE,00691800,extended,00000000
+
+//All Comic Book Gallery
+patch=1,EE,41D75C90,extended,003C0038
+patch=1,EE,00691800,extended,00000000
+
+//All Enemy Gallery
+patch=1,EE,41D7BCD0,extended,00110038
+patch=1,EE,00691800,extended,00000000
+
+//All Enemy Render Gallery
+patch=1,EE,41E405D0,extended,00030038
+patch=1,EE,00000000,extended,00000000
+
+//All Environment Gallery
+patch=1,EE,41D7D2B0,extended,00240038
+patch=1,EE,00691800,extended,00000000
+
+//All In-Game Movies
+patch=1,EE,41E40950,extended,000F0038
+patch=1,EE,00000000,extended,00000000
+
+//All The Making Of Movies
+patch=1,EE,41E41750,extended,00080038
+patch=1,EE,00000000,extended,00000000

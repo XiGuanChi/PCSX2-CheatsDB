@@ -1,0 +1,46 @@
+gametitle=McFarlane's Evil Prophecy SLUS-20657
+//Infinite MP (All Characters)
+patch=1,EE,201382A4,extended,00000000
+
+//Infinite Ammo (All CharactersOn Pickup)
+patch=1,EE,20116E80,extended,00000000
+
+//Logan Infinite & Max HP
+patch=1,EE,102B2B86,extended,0000270F
+patch=1,EE,102B2B88,extended,0000270F
+
+//Logan infinite Ammo (On Pickup)
+patch=1,EE,102B2C30,extended,00000006
+
+
+//Sundano Infinite & Max HP
+patch=1,EE,102BF1E6,extended,0000270F
+patch=1,EE,102BF1E8,extended,0000270F
+
+//Sundano infinite Ammo (On Pickup)
+patch=1,EE,102BF290,extended,00000006
+
+//Dr. Jaeger Infinite & Max HP
+patch=1,EE,102CB846,extended,0000270F
+patch=1,EE,102CB848,extended,0000270F
+
+//Dr. Jaegerinfinite Ammo (On Pickup)
+patch=1,EE,102CB8F0,extended,00000006
+
+
+//Delphine Infinite & Max HP
+patch=1,EE,102D7EA6,extended,0000270F
+patch=1,EE,102D7EA8,extended,0000270F
+
+//Delphine nfinite Ammo (On Pickup)
+patch=1,EE,102D7F50,extended,00000006
+
+//Have All Monster Cards
+patch=1,EE,40318A94,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Have All Movie Interviews
+patch=1,EE,20318AB4,extended,FFFFFFFF
+
+//Have All Gallery
+patch=1,EE,20319B00,extended,FFFFFFFF

@@ -1,0 +1,37 @@
+gametitle=Richard Burns Rally SLES-52323
+//Low Total Time
+patch=1,EE,2068AAC0,extended,00000000
+
+//All Training Lessons Done
+patch=1,EE,1068CD58,extended,00000002
+patch=1,EE,1068CD5C,extended,00000002
+patch=1,EE,1068CD60,extended,00000002
+patch=1,EE,1068CD64,extended,00000002
+patch=1,EE,1068CD68,extended,00000002
+patch=1,EE,1068CD6C,extended,00000002
+patch=1,EE,1068CD70,extended,00000002
+patch=1,EE,1068CD74,extended,00000002
+patch=1,EE,1068CD78,extended,00000002
+patch=1,EE,1068CD7C,extended,00000002
+patch=1,EE,1068CD80,extended,00000002
+patch=1,EE,1068CD84,extended,00000002
+patch=1,EE,1068CD88,extended,00000002
+patch=1,EE,1068CD8C,extended,00000002
+patch=1,EE,1068CD90,extended,00000002
+patch=1,EE,1068CD94,extended,00000002
+patch=1,EE,1068CD98,extended,00000002
+
+//Unlock All Tracks
+patch=1,EE,20273DD0,extended,24020001
+patch=1,EE,20273DD8,extended,A0620030
+
+//Have All Cars
+patch=1,EE,20273E68,extended,24020001
+patch=1,EE,20273E70,extended,A0820020
+
+//Display Grid
+patch=1,EE,2035F4B4,extended,00000001
+patch=1,EE,2035F4B8,extended,00000001
+
+//Turbo
+patch=1,EE,201A7020,extended,3C014100

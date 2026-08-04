@@ -1,0 +1,57 @@
+gametitle=Summon Night 4 SLPS-25704
+//Maximum money
+patch=1,EE,203EC4FC,extended,0098967F
+
+//Maximum experience value
+patch=1,EE,203EC500,extended,05F5E09C
+
+//HP 999 at level up
+patch=1,EE,200F3110,extended,A622002E
+
+//MP 999 at level up
+patch=1,EE,200F3120,extended,A6220032
+
+//Ally and to display the HP while holding down the fighting in R3 only HP · MP full recovery
+patch=1,EE,200F7200,extended,94830000
+patch=1,EE,200F7204,extended,30630020
+patch=1,EE,200F7208,extended,10600008
+patch=1,EE,200F720C,extended,3C03003C
+patch=1,EE,200F7210,extended,94639282
+patch=1,EE,200F7214,extended,30630004
+patch=1,EE,200F7218,extended,33F30004
+patch=1,EE,200F721C,extended,56600001
+patch=1,EE,200F7220,extended,24840004
+patch=1,EE,200F7224,extended,50600001
+patch=1,EE,200F7228,extended,A4820030
+patch=1,EE,200F722C,extended,03E00008
+patch=1,EE,200F7230,extended,84820030
+
+//When the thing is sold, gold MAX
+patch=1,EE,202336C0,extended,00000000
+
+//With experience value acquisition MAX
+patch=1,EE,2023A7F4,extended,00000000
+
+//Unlimited conduct
+patch=1,EE,20205948,extended,3050FFEC
+
+//Press R3 for unlimited points Press L3 for decrease points
+patch=1,EE,D03B9282,extended,0000FFFB
+patch=1,EE,201BB6F0,extended,24820000
+patch=1,EE,D03B9282,extended,0010FFFD
+patch=1,EE,201BB6F0,extended,2482FFFF
+
+//When you look at the summon dictionary it opens to the full"
+patch=1,EE,20237B1C,extended,00440821
+patch=1,EE,20237B20,extended,94224838
+patch=1,EE,20237B24,extended,34420001
+patch=1,EE,20237B28,extended,A4224838
+
+//Recipes all available (save reflect Edition)
+patch=1,EE,200F70C8,extended,000518C0
+patch=1,EE,200F70CC,extended,8C824760
+patch=1,EE,200F70D0,extended,00432021
+patch=1,EE,200F70D4,extended,24020001
+patch=1,EE,200F70D8,extended,03E00008
+patch=1,EE,200F70DC,extended,A0820000
+patch=1,EE,20307A54,extended,0C03DC32

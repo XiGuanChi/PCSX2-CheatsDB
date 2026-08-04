@@ -1,0 +1,15 @@
+gametitle=Demon Chaos SLES-54305
+//all 99 Weapons
+patch=1,EE,403123d8,extended,00630001
+patch=1,EE,00000002,extended,00000000
+
+//Infinite Energy
+patch=1,EE,203337ac,extended,42480000
+patch=1,EE,203337ac,extended,42480000
+
+//infinite Lives
+patch=1,EE,003337d4,extended,00000005
+
+//infinite Health
+patch=1,EE,203337dc,extended,42480000
+patch=1,EE,203337e0,extended,42480000

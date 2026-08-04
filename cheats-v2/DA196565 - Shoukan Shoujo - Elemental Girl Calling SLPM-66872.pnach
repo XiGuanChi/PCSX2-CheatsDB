@@ -1,0 +1,18 @@
+gametitle=Shoukan Shoujo - Elemental Girl Calling SLPM-66872
+//Infinite money (9999999)
+patch=1,EE,204327D8,extended,0098967F
+
+//Infinite HP Madoka (742)
+patch=1,EE,2044FDD0,extended,000002E6
+
+//Infinite battery
+patch=1,EE,201CEC50,extended,00802023
+
+//It does not decrease Quest time On start + L2 Off start + L1
+patch=1,EE,D0387FC2,extended,0000FEF7
+patch=1,EE,201CFC20,extended,00401023
+patch=1,EE,D0387FC2,extended,0000FBF7
+patch=1,EE,201CFC20,extended,00431023
+
+//Always in the best mood
+patch=1,EE,201D4864,extended,100000C4

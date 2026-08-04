@@ -1,0 +1,22 @@
+gametitle=Simple 2000 Series Vol.019 - The Renai Simulation - Renai Kissa Watashi ni Oma Cafe SLPM-62270
+//Infinite Money (99999990)
+patch=1,EE,2028B2CC,extended,05F5E0F6
+
+//Hero ability coffee 8
+patch=1,EE,1028B2F2,extended,00000350
+
+//Hero ability Menu 8
+patch=1,EE,1028B2F4,extended,00000350
+
+//Hero ability Management 8
+patch=1,EE,1028B2F6,extended,00000350
+
+//Max budget increase
+patch=1,EE,201958CC,extended,14600001
+
+//not reduce budget
+patch=1,EE,201956CC,extended,00601823
+
+//Speed 
+patch=1,EE,2010D084,extended,4A0002FF
+

@@ -1,0 +1,6 @@
+gametitle=Culdcept 2 - Expansion (Playstation 2 The Best) SLPM-74411
+//1P Magical Power MAX
+patch=1,EE,202EB260,extended,0001869F
+
+//All medals in the stage clear without interruption
+patch=1,EE,20153B2C,extended,00000000

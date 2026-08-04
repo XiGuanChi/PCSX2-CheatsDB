@@ -1,0 +1,13 @@
+gametitle=Def Jam - Fight for NY SLPM-65907
+//Player 1 Health gauge maximum
+patch=1,EE,204BE1C0,extended,4384CCCC
+patch=1,EE,204BE1C8,extended,4384CCCC
+
+//Player 1 Head durable gauge maximum
+patch=1,EE,204BE690,extended,42480000
+
+//Player 1 Arm durable gauge maximum
+patch=1,EE,204BE698,extended,42480000
+
+//Player 1 Foot durable gauge maximum
+patch=1,EE,204BE69C,extended,42480000

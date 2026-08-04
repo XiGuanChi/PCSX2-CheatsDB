@@ -1,0 +1,34 @@
+gametitle=Mana Khemia - Alchemists of Al-Revis SLES-55443
+//Max Cash
+patch=1,EE,20BB8AB8,extended,000F423F
+
+//Infinite Health
+patch=1,EE,2039A2C4,extended,0C03FFC0
+patch=1,EE,200FFF00,extended,8C810034
+patch=1,EE,200FFF04,extended,AC81002C
+patch=1,EE,200FFF10,extended,0807B5FE
+
+//Infinite SP
+patch=1,EE,2039A2C4,extended,0C03FFC0
+patch=1,EE,200FFF08,extended,8C810038
+patch=1,EE,200FFF0C,extended,AC810030
+patch=1,EE,200FFF10,extended,0807B5FE
+
+//99999 AP After Battle
+patch=1,EE,201FB154,extended,3C020001
+patch=1,EE,201FB158,extended,3442869F
+
+//Max Items after Buying/Harvesting (R3 to Activate, L3 to stop)
+patch=1,EE,E002FFFB,extended,00BBAD5C
+patch=1,EE,201959A8,extended,00000000
+patch=1,EE,201959B0,extended,240F004B
+patch=1,EE,E002FFFD,extended,00BBAD5C
+patch=1,EE,201959A8,extended,55E00005
+patch=1,EE,201959B0,extended,240F0063
+
+//Unlock All Extras
+patch=1,EE,40DE9730,extended,00340001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,10DE9800,extended,0000FFFF
+patch=1,EE,00DE9803,extended,00000002
+

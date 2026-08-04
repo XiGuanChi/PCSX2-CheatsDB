@@ -1,0 +1,21 @@
+gametitle=Twin Caliber SLES-50986
+//infinite Continues
+patch=1,EE,206738AC,extended,00000009
+
+//Infinite energy player 1
+patch=1,EE,2187D924,extended,42C80000
+
+//Infinite TNT Player 1
+patch=1,EE,2066EDB0,extended,00000063
+
+//Max.Bodycount Player 1
+patch=1,EE,2187DA18,extended,3B9AC9FF
+
+//Infinite energy player 2
+patch=1,EE,2187EFB0,extended,42C80000
+
+//Infinite TNT Player 2
+patch=1,EE,2066EE04,extended,00000063
+
+//Max.Bodycount Player 2
+patch=1,EE,2187F0B8,extended,3B9AC9FF

@@ -1,0 +1,15 @@
+gametitle=Ghost in the Shell - Stand Alone Complex SLUS-21006
+//Infinite HP
+patch=1,EE,200C2000,extended,341B0001
+patch=1,EE,200C2004,extended,105B0003
+patch=1,EE,200C200C,extended,1440B5E4
+patch=1,EE,200C2010,extended,E6000338
+patch=1,EE,200C2014,extended,0804BDE6
+patch=1,EE,2012F790,extended,08030800
+patch=1,EE,2012F794,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,20115CAC,extended,24420000
+
+//Infinite Ammo (All Weapons)
+patch=1,EE,20115CB4,extended,00000000

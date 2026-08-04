@@ -1,0 +1,9 @@
+gametitle=Disgaea 2 - Cursed Memories SLES-54454
+//HL: 999.999
+patch=1,EE,20333eb0,extended,000f423f
+
+//All CharakterS Infinite HP: 999.999
+patch=1,EE,40334FC4,extended,00320220
+patch=1,EE,000f423f,extended,00000000
+patch=1,EE,40334FCC,extended,00320220
+patch=1,EE,000f423f,extended,00000000

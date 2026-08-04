@@ -1,0 +1,6 @@
+gametitle=Koufuku Sousakan SCPS-15060
+//Operators tank fully open
+patch=1,EE,0144E048,extended,00000032
+
+//Code Energy capsule 3
+patch=1,EE,0144E050,extended,00000003

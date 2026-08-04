@@ -1,0 +1,33 @@
+gametitle=God of War II SCUS-97481
+//Infinite health A
+patch=1,EE,20213760,extended,C440017C
+patch=1,EE,20213768,extended,E4400178
+
+//Infinite Health in Battle
+patch=1,EE,200FFF00,extended,3C014348
+patch=1,EE,200FFF08,extended,AC810178
+patch=1,EE,200FFF04,extended,8C640008
+patch=1,EE,20201C68,extended,0803FFC0
+patch=1,EE,200FFF1C,extended,0808071B
+
+//Infinite Health
+patch=1,EE,20959698,extended,43480000
+patch=1,EE,2095A3D8,extended,42C80000
+
+//Infinite Amulet of the Fates Power
+patch=1,EE,20335844,extended,42C80000
+
+//Infinite Rage of the Titans
+patch=1,EE,20335848,extended,42C80000
+
+//Infinite Magic
+patch=1,EE,20335840,extended,43480000
+
+//Infinite Red Orbs
+patch=1,EE,2071C3BC,extended,000F423F
+
+//Press D-pad Down + L1 simultaneously to activate Save-Mode
+patch=1,EE,D032F45C,extended,0000FBBF
+patch=1,EE,002D84C4,extended,00000001
+
+

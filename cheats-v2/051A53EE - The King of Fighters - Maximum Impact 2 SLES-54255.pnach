@@ -1,0 +1,29 @@
+gametitle=The King of Fighters - Maximum Impact 2 SLES-54255
+//Infinite Health P1
+patch=1,EE,2081AEFC,extended,43480000
+patch=1,EE,2081AF00,extended,43480000
+
+//1-Hit Death P2
+patch=1,EE,E0023F80,extended,2081B0BC
+patch=1,EE,2081B0BC,extended,3F800000
+patch=1,EE,2081B0C0,extended,437A0000
+
+//unlock all characters
+patch=1,EE,4081FF6C,extended,0026000C
+patch=1,EE,01010701,extended,00000000
+
+//unlock all color variation
+patch=1,EE,4081FF70,extended,0026000C
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,4081FF74,extended,0026000C
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,4081FF78,extended,0026000C
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,4081FF7C,extended,0026000C
+patch=1,EE,01010101,extended,00000000
+
+//Unlock All Stages & Soundtest
+patch=1,EE,1081F6F0,extended,00000101
+patch=1,EE,2081F6E0,extended,0101010A
+patch=1,EE,4081F6E4,extended,00030001
+patch=1,EE,01010101,extended,00000000

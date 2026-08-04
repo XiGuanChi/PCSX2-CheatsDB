@@ -1,0 +1,6 @@
+gametitle=Ring of Red SLES-50113
+//Infinite Health
+patch=1,EE,20CF42DC,extended,0000012C
+
+//Always Charged
+patch=1,EE,20CF4270,extended,00000000

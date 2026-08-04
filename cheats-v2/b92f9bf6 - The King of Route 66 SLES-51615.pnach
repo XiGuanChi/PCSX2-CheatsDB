@@ -1,0 +1,13 @@
+gametitle=The King of Route 66 SLES-51615
+//Rivals don't move
+patch=1,EE,201BAC40,extended,03E00008
+
+//Take 66 emblems anywhere
+patch=1,EE,2014C0BC,extended,00000000
+
+//Timer stopped
+patch=1,EE,20149258,extended,1000004F
+
+//Turbo always usable
+patch=1,EE,201A3288,extended,10000028
+patch=1,EE,201405D8,extended,10000003

@@ -1,0 +1,19 @@
+gametitle=Mortal Kombat - Deadly Alliance SLES-50717
+//Infinite Health P1
+patch=1,EE,2043601C,extended,3F800000
+
+//Player 1 - 1 round fight
+patch=1,EE,20436014,extended,00000001
+
+//Have All Character Endings
+patch=1,EE,2057cd40,extended,FFFFFFFF
+
+//Unlock All Outfits
+patch=1,EE,205532d4,extended,FFFFFFFF
+
+//Unlock All Characters
+patch=1,EE,20434c34,extended,FFFFFFFF
+
+//Unlock All Costumes/Arenas/Concept Arts/Extras v2
+patch=1,EE,4057cc08,extended,00160001
+patch=1,EE,FFFFFFFF,extended,00000000

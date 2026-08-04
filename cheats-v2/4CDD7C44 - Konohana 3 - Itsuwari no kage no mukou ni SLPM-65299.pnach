@@ -1,0 +1,5 @@
+gametitle=Konohana 3 - Itsuwari no kage no mukou ni SLPM-65299
+//Allbum & Music Mode fully opened
+patch=1,EE,202410D8,extended,FFFFFFFF
+patch=1,EE,40241070,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000

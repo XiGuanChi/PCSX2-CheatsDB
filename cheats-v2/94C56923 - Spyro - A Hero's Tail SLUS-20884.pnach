@@ -1,0 +1,35 @@
+gametitle=Spyro - A Hero's Tail SLUS-20884
+//Infinite Health
+patch=1,EE,20502004,extended,000000A0
+
+//Infinite Gems
+patch=1,EE,10502008,extended,0000FFFF
+
+//Infinite Aqua Bomb Ammo
+patch=1,EE,0050201C,extended,00000064
+
+//Infinite Ball Lightning Amm
+patch=1,EE,00502020,extended,00000064
+
+//Infinite Fire Bomb Ammo
+patch=1,EE,00502014,extended,00000064
+
+//Have All Dark Gems
+patch=1,EE,00502058,extended,00000028
+
+//Have All Light Gems
+patch=1,EE,00502056,extended,00000064
+
+//Have All Light/Dark Gems
+patch=1,EE,10502056,extended,00002864
+
+//Have All Power-Ups
+patch=1,EE,20502028,extended,FFFFFFFFF
+
+//View Status To Have All Dragon Eggs
+patch=1,EE,200C0220,extended,AC410030
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,24020001
+patch=1,EE,20106CFC,extended,08030088
+patch=1,EE,20106D00,extended,24010001
+patch=1,EE,20502058,extended,00000050

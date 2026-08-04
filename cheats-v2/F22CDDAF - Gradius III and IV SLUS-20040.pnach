@@ -1,0 +1,25 @@
+gametitle=Gradius III and IV SLUS-20040
+//Gradius III - Invincibility (Both Players)
+patch=1,EE,2013C6E4,extended,00000000
+patch=1,EE,2013C6EC,extended,00000000
+
+//Gradius III - Infinite Lives Player 1
+patch=1,EE,11001050,extended,00000063
+
+//Gradius III - Infinite Lives Player 2
+patch=1,EE,110010D0,extended,00000003
+
+//Gradius III - Unlock All Stages (Stage Select)
+patch=1,EE,0088D774,extended,0000002A
+
+//Gradius IV - Infinite Lives Player 1
+patch=1,EE,00896008,extended,00000003
+
+//Gradius IV - Infinite Lives Player 2
+patch=1,EE,0089601C,extended,00000003
+
+//Gradius IV - Unlock All Stages (Stage Select)
+patch=1,EE,00894138,extended,00000008
+
+//Gradius IV - Invincibility
+patch=1,EE,101A782A,extended,00001000

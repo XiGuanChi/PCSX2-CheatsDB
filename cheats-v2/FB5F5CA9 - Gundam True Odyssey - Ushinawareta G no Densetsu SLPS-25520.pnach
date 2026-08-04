@@ -1,0 +1,49 @@
+gametitle=Gundam True Odyssey - Ushinawareta G no Densetsu SLPS-25520
+//Infinite Money
+patch=1,EE,21FDD000,extended,000F423F
+
+//Maximum character level in one battle
+patch=1,EE,D0519D2C,extended,00004B40
+patch=1,EE,20519D58,extended,00000000
+
+//Dungeon small fish enemies do not appear
+patch=1,EE,D0520BB0,extended,0000001A
+patch=1,EE,20520BA8,extended,10000004
+
+//Field small fish enemies do not appear
+patch=1,EE,D051C804,extended,0000001F
+patch=1,EE,2051C804,extended,1000001F
+
+//In battle: EN maximum recovery after each turn
+patch=1,EE,D0521754,extended,0000DB91
+patch=1,EE,2052179C,extended,2402000A
+patch=1,EE,D0521754,extended,0000DB91
+patch=1,EE,205217B0,extended,A0820000
+
+
+
+
+
+//TP up after level-up
+patch=1,EE,D0519EF8,extended,0000006F
+patch=1,EE,20519E1C,extended,240303E7
+
+//Martial art up after  level-up
+patch=1,EE,D0519EF8,extended,0000006F
+patch=1,EE,20519E40,extended,240303E7
+
+//Marksmanship  up after level-up
+patch=1,EE,D0519EF8,extended,0000006F
+patch=1,EE,20519E64,extended,240303E7
+
+//reaction max after  level up
+patch=1,EE,D0519EF8,extended,0000006F
+patch=1,EE,20519E88,extended,240303E7
+
+//iintelligence max  after level-up
+patch=1,EE,D0519EF8,extended,0000006F
+patch=1,EE,20519EAC,extended,240303E7
+
+//spirit up after level-up
+patch=1,EE,D0519EF8,extended,0000006F
+patch=1,EE,20519EE0,extended,240303E7

@@ -1,0 +1,35 @@
+gametitle=Def Jam - Fight for NY SLES-52507
+//Profile 1 Infinite Cash
+patch=1,EE,208EC680,extended,05F5E0FF
+
+//Player 1 Infinite Health
+patch=1,EE,200C0000,extended,00000001
+
+//Infinite Stamina
+patch=1,EE,200C1000,extended,00000001
+
+//Unlock All Venues
+patch=1,EE,208EAB10,extended,00000018
+patch=1,EE,408EBD6C,extended,00180001
+patch=1,EE,17000000,extended,00000001
+
+//Unlock All Fighters
+patch=1,EE,208EAB24,extended,0000004B
+patch=1,EE,408EBDE4,extended,004B0001
+patch=1,EE,07000000,extended,00000001
+
+//Story Mode Access All Gear
+patch=1,EE,200C0220,extended,240300FF
+patch=1,EE,200C0224,extended,080D85B3
+patch=1,EE,200C0228,extended,A0430000
+patch=1,EE,203616C8,extended,08030088
+
+//Story Mode Access All Moves
+patch=1,EE,200C0230,extended,240200FF
+patch=1,EE,200C0234,extended,080D852F
+patch=1,EE,200C0238,extended,A0620000
+patch=1,EE,203614B8,extended,0803008C
+
+
+
+

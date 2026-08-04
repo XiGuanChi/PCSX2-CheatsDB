@@ -1,0 +1,45 @@
+gametitle=Project Zero II - Crimson Butterfly SLES-52384
+//Infinite Health
+patch=1,EE,202E8D18,extended,00006000
+patch=1,EE,202E8D1C,extended,00006000
+
+//Infinite Film/Item Use
+patch=1,EE,201A24F8,extended,00000000
+
+//1 Photo Taken
+patch=1,EE,204148D4,extended,00000001
+
+//Max Photo Taken
+patch=1,EE,204148D4,extended,001F423F
+
+//No Defeat
+patch=1,EE,204148D8,extended,00000000
+
+//Enable All Camera Lens
+patch=1,EE,102C544C,extended,000003FF
+
+//Unlock all Notes/Photos/Scraps/Notebook
+patch=1,EE,20172B40,extended,24010002
+patch=1,EE,200FFF00,extended,A0410000
+patch=1,EE,200FFF04,extended,03E00008
+patch=1,EE,200FFF08,extended,24020002
+patch=1,EE,20172B48,extended,0803FFC0
+
+//Have All Costumes
+patch=1,EE,20286058,extended,000001FF
+
+//Unlock Accessory For Mio & Mayu
+patch=1,EE,00286050,extended,00000006
+
+//Unlock All Difficulty Levels
+patch=1,EE,2028605C,extended,0000000F
+
+//All Missions Completed (SE & S = 100%)
+patch=1,EE,4040F4B0,extended,00190004
+patch=1,EE,00000002,extended,00000000
+patch=1,EE,4040F4B4,extended,00190004
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,4040F4B8,extended,00190004
+patch=1,EE,3B9AC9FF,extended,00000000
+patch=1,EE,4040F4BC,extended,00190004
+patch=1,EE,3B9AC9FF,extended,00000000

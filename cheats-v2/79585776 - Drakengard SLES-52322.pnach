@@ -1,0 +1,7 @@
+gametitle=Drakengard SLES-52322
+//Infinite & Max MP
+patch=1,EE,203B0D20,extended,0000001E
+patch=1,EE,203B0D24,extended,0000001E
+
+//All Levels Opened (needs to load a savegame)
+patch=1,EE,201395EC,extended,24020001

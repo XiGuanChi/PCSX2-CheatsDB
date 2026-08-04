@@ -1,0 +1,9 @@
+gametitle=Guitar Hero - Aerosmith SLUS-21740
+//Infinite Star Power
+patch=1,EE,20AFA8E0,extended,42C80000
+
+//Always Rock Out (Meter Always Green)
+patch=1,EE,20AFAE04,extended,40000000
+
+//Max Score
+patch=1,EE,20AFAAF4,extended,497423F0

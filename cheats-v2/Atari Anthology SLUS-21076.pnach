@@ -1,0 +1,226 @@
+gametitle=Atari AnthologySLUS-21076
+//Infinite Time-Challenge/Hot Seat Never Changes
+patch=1,EE,201C1084,extended,24420000
+
+//Unlock All Challenge Modes
+patch=1,EE,40D01F38,extended,00130001
+patch=1,EE,1F1F1F1F,extended,00000000
+
+//Unlock Individual Challenge Modes
+
+//Arcade At Home
+
+//Asteroids
+patch=1,EE,00D01F39,extended,0000001F
+
+//Battlezone
+patch=1,EE,00D01F3A,extended,0000001F
+
+//Breakout
+patch=1,EE,00D01F3B,extended,0000001F
+
+//Centipede
+patch=1,EE,00D01F3C,extended,0000001F
+
+//Crystal Castles
+patch=1,EE,00D01F3D,extended,0000001F
+
+//Gravitar
+patch=1,EE,00D01F3E,extended,0000001F
+
+//Millipede
+patch=1,EE,00D01F3F,extended,0000001F
+
+//Missile Command
+patch=1,EE,00D01F40,extended,0000001F
+
+//Super Breakout
+patch=1,EE,00D01F41,extended,0000001F
+
+//Video Pinball
+patch=1,EE,00D01F42,extended,0000001F
+
+//Warlords
+patch=1,EE,00D01F43,extended,0000001F
+
+//Adventure Games
+
+//Adventure
+patch=1,EE,00D01F44,extended,0000001F
+
+//Haunted House
+patch=1,EE,00D01F45,extended,0000001F
+
+//Swordquest: Earthworld
+patch=1,EE,00D01F46,extended,0000001F
+
+//Swordquest: Fireworld
+patch=1,EE,00D01F47,extended,0000001F
+
+//Swordquest: Waterworld
+patch=1,EE,00D01F48,extended,0000001F
+
+//Action Games
+
+//Air-Sea Battle
+patch=1,EE,00D01F49,extended,0000001F
+
+//Canyon Bomber
+patch=1,EE,00D01F4A,extended,0000001F
+
+//Circus Atari
+patch=1,EE,00D01F4B,extended,0000001F
+
+//Combat
+patch=1,EE,00D01F4C,extended,0000001F
+
+//Demons To Diamonds
+patch=1,EE,00D01F4D,extended,0000001F
+
+//Desert Falcon
+patch=1,EE,00D01F4E,extended,0000001F
+
+//Dodge ‘Em
+patch=1,EE,00D01F4F,extended,0000001F
+
+//Flag Capture
+patch=1,EE,00D01F50,extended,0000001F
+
+//Human Cannonball
+patch=1,EE,00D01F51,extended,0000001F
+
+//Off The Wall
+patch=1,EE,00D01F52,extended,0000001F
+
+//Outlaw
+patch=1,EE,00D01F53,extended,0000001F
+
+//Radar Lock
+patch=1,EE,00D01F54,extended,0000001F
+
+//Sky Diver
+patch=1,EE,00D01F55,extended,0000001F
+
+//Submarine Commander
+patch=1,EE,00D01F56,extended,0000001F
+
+//Sports Games
+
+//Bowling
+patch=1,EE,00D01F57,extended,0000001F
+
+//Double Dunk
+patch=1,EE,00D01F58,extended,0000001F
+
+//Football
+patch=1,EE,00D01F59,extended,0000001F
+
+//Golf
+patch=1,EE,00D01F5A,extended,0000001F
+
+//Home Run
+patch=1,EE,00D01F5B,extended,0000001F
+
+//Miniature Golf
+patch=1,EE,00D01F5C,extended,0000001F
+
+//Realsports Baseball
+patch=1,EE,00D01F5D,extended,0000001F
+
+//Realsports Football
+patch=1,EE,00D01F5E,extended,0000001F
+
+//Realsports Tennis
+patch=1,EE,00D01F5F,extended,0000001F
+
+//Realsports Volleyball
+patch=1,EE,00D01F60,extended,0000001F
+
+//Super Baseball
+patch=1,EE,00D01F61,extended,0000001F
+
+//Super Football
+patch=1,EE,00D01F62,extended,0000001F
+
+//Video Olympics
+patch=1,EE,00D01F63,extended,0000001F
+
+//Mind Games
+
+//3-D Tic-Tac-Toe
+patch=1,EE,00D01F64,extended,0000001F
+
+//Atari Video Cube
+patch=1,EE,00D01F7E,extended,0000001F
+
+//Backgammon
+patch=1,EE,00D01F7F,extended,0000001F
+
+//Fun With Numbers
+patch=1,EE,00D01F68,extended,0000001F
+
+//Hangman
+patch=1,EE,00D01F80,extended,0000001F
+
+//Math Grand Prix
+patch=1,EE,00D01F69,extended,0000001F
+
+//Maze Craze
+patch=1,EE,00D01F6A,extended,0000001F
+
+//Surround
+patch=1,EE,00D01F6B,extended,0000001F
+
+//Video Checkers
+patch=1,EE,00D01F6C,extended,0000001F
+
+//Video Chess
+patch=1,EE,00D01F6D,extended,0000001F
+
+//Casino Games
+
+//Black Jack
+patch=1,EE,00D01F6E,extended,0000001F
+
+//Casino
+patch=1,EE,00D01F6F,extended,0000001F
+
+//Slot Machine
+patch=1,EE,00D01F70,extended,0000001F
+
+//Racing Games
+
+//Night Driver
+patch=1,EE,00D01F71,extended,0000001F
+
+//Slot Racers
+patch=1,EE,00D01F72,extended,0000001F
+
+//Sprintmaster
+patch=1,EE,00D01F73,extended,0000001F
+
+//Steeplechase
+patch=1,EE,00D01F74,extended,0000001F
+
+//Street Racer
+patch=1,EE,00D01F75,extended,0000001F
+
+//Space Games
+
+//Quadrun
+patch=1,EE,00D01F76,extended,0000001F
+
+//Space War
+patch=1,EE,00D01F77,extended,0000001F
+
+//Star Raiders
+patch=1,EE,00D01F78,extended,0000001F
+
+//Star Ship
+patch=1,EE,00D01F79,extended,0000001F
+
+//Stellar Track
+patch=1,EE,00D01F7A,extended,0000001F
+
+//Yars’ Revenge
+patch=1,EE,00D01F7B,extended,0000001F

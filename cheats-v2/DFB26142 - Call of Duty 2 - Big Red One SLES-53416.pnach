@@ -1,0 +1,17 @@
+gametitle=Call of Duty 2 - Big Red One SLES-53416
+//Infinite Ammo
+patch=1,EE,2017a26c,extended,00000000
+
+//Infinite Grenades
+patch=1,EE,2017a2e8,extended,00000000
+
+//Infinite Health - Soldier If the code is not activated, choose restart from the pause menu to activate the code.
+patch=1,EE,D03A3140,extended,00300000
+patch=1,EE,20205FA0,extended,2402044C
+patch=1,EE,D03A3140,extended,00300000
+patch=1,EE,20205FA4,extended,AE420350
+
+//All Levels And Bonus Stuff Open If the code is not activated, choose restart from the pause menu to activate the code.
+patch=1,EE,2012741C,extended,2402000E
+patch=1,EE,20127420,extended,2402000E
+patch=1,EE,20127424,extended,AC620034

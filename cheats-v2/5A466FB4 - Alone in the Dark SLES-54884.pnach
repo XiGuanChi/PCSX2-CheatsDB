@@ -1,0 +1,13 @@
+gametitle=Alone in the Dark SLES-54884
+//1 Hit kill
+patch=1,EE,20151648,extended,10000009
+
+//Infinite Ammo
+patch=1,EE,2024A114,extended,3C020000
+
+//Invincible
+patch=1,EE,202092DC,extended,24020001
+
+//Disable AI path
+patch=1,EE,201A1CD0,extended,03E00008
+patch=1,EE,201A1CD4,extended,00000000

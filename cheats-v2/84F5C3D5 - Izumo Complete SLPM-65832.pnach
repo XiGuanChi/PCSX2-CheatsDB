@@ -1,0 +1,32 @@
+gametitle=Izumo Complete SLPM-65832
+//Hero Current physical fitness
+patch=1,EE,21CE0BCC,extended,0000270F
+
+//Hero - Spiritual power currently
+patch=1,EE,21CE0BD0,extended,0000270F
+
+//Hikaru - Experience value maximum
+patch=1,EE,21CE0B80,extended,0098967F
+
+//Level 99 when Level-up
+patch=1,EE,2026FE68,extended,00000000
+
+//CG fully open
+patch=1,EE,4192AB28,extended,00120001
+patch=1,EE,20202020,extended,00000000
+patch=1,EE,4192ABA8,extended,00050001
+patch=1,EE,20202020,extended,00000000
+patch=1,EE,1192AB70,extended,00002020
+patch=1,EE,0192AB72,extended,00000020
+patch=1,EE,0192ABBC,extended,00000020
+
+//Sound mode CG mode After pressing the L3 + R3 button on the title screen
+patch=1,EE,D1936042,extended,0000FFF9
+patch=1,EE,0192BA4C,extended,00000005
+patch=1,EE,D1936042,extended,0000FFF9
+patch=1,EE,0192BA64,extended,00000002
+patch=1,EE,D1936042,extended,0000FFF9
+patch=1,EE,0192BA68,extended,00000003
+
+//Obtained 999 balls and souls
+patch=1,EE,20280FA8,extended,00000000

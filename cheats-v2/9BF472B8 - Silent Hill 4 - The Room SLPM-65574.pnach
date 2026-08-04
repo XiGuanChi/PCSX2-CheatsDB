@@ -1,0 +1,29 @@
+gametitle=Silent Hill 4 - The Room SLPM-65574
+//Infinite Health
+patch=1,EE,2045A648,extended,447A0000
+
+//1-Hit Kill
+patch=1,EE,2045A64C,extended,50000000
+
+//Enemy Attacks Do No Damage
+patch=1,EE,2045A650,extended,50000000
+
+//Weapon Always Charged Max
+patch=1,EE,2045A86C,extended,42C80000
+
+//Invincible From Everything
+patch=1,EE,2045A664,extended,42C80000
+patch=1,EE,201E96D0,extended,03E00008
+patch=1,EE,201E96D4,extended,00000000
+patch=1,EE,201EA030,extended,03E00008
+patch=1,EE,201EA034,extended,00000000
+patch=1,EE,101DC62A,extended,00001000
+
+//No Saves Recorded
+patch=1,EE,21EBC898,extended,00000000
+
+//Never:Tired
+patch=1,EE,2045A654,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,202D1B38,extended,00000000

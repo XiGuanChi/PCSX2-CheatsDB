@@ -1,0 +1,20 @@
+gametitle=Tak and the Power of Juju SLUS-20519
+//Infinite Health
+patch=1,EE,201BBBA8,extended,3C013F80
+patch=1,EE,201BBBAC,extended,AE410298
+
+//Infinite Orange Feathers
+patch=1,EE,20434600,extended,0000270F
+
+//Infinite Mana Usage 
+patch=1,EE,202524F4,extended,00000000
+
+//Infinite Time
+patch=1,EE,2014D168,extended,00000000
+
+//All Juju Potions
+patch=1,EE,404D37C4,extended,0023000A
+patch=1,EE,00000001,extended,00000000
+
+//Access All Extras
+patch=1,EE,20547360,extended,00000001

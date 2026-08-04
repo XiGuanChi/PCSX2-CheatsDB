@@ -1,0 +1,27 @@
+gametitle=One Piece - Grand Adventure SLES-54165
+//max.HP
+patch=1,EE,01b9e25c,extended,00000014
+patch=1,EE,01bbc89c,extended,00000014
+
+//max.HP Nami
+patch=1,EE,01B9E29C,extended,00000014
+patch=1,EE,01BBC8DC,extended,00000014
+
+//Zorro max.HP
+patch=1,EE,01B9E27C,extended,00000014
+patch=1,EE,01BBC8BC,extended,00000014
+
+//Lysopp  max.HP
+patch=1,EE,01B9E2BC,extended,00000014
+patch=1,EE,01BBC8FC,extended,00000014
+
+//Sanji max.HP
+patch=1,EE,01B9E2DC,extended,00000014
+patch=1,EE,01BBC91C,extended,00000014
+
+//Chopper max.HP
+patch=1,EE,01B9E2FC,extended,00000014
+patch=1,EE,01BBC93C,extended,00000014
+
+//all the garments
+patch=1,EE,01C2FA01,extended,0000001f

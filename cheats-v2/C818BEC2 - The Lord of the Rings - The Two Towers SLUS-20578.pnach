@@ -1,0 +1,15 @@
+gametitle=The Lord of the Rings - The Two Towers SLUS-20578
+patch=1,EE,200C0220,extended,340123F0
+patch=1,EE,200C0224,extended,03200008
+patch=1,EE,200C0228,extended,AC810300
+patch=1,EE,202246B0,extended,0C030088
+
+//Unlock Secret Codes (On Level Select Screen)
+patch=1,EE,004648CF,extended,00000001
+
+//Unlock Isildur
+patch=1,EE,004648A1,extended,00000001
+patch=1,EE,004648A3,extended,00000001
+
+//Infinite Arrows
+patch=1,EE,2011F30C,extended,00000000

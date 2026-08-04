@@ -1,0 +1,16 @@
+gametitle=Sengoku Musou 2 SLPM-66307
+//Money 9999999
+patch=1,EE,204F4AF8,extended,0098967F
+
+//Yukimura Sanda max.Energie
+patch=1,EE,004F29B4,extended,000000FF
+
+//Yukimura Sanda max.Musou
+patch=1,EE,004F29B8,extended,000000FF
+
+//Yukimura Sanda max.Status
+patch=1,EE,404f29b4,extended,00080001
+patch=1,EE,000000ff,extended,00000000
+
+//all characters
+patch=1,EE,204F4AF4,extended,FFFFFFFF

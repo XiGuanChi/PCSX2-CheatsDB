@@ -1,0 +1,82 @@
+gametitle=Evil Dead - Regeneration SLES-53457
+//infinite energy
+patch=1,EE,204dddf4,extended,3c014280
+patch=1,EE,204dddf8,extended,a4820054
+
+//Skull always shines
+patch=1,EE,204ddec4,extended,00000000
+
+//Infinite Health Ash
+patch=1,EE,204DDDEC,extended,84820054
+patch=1,EE,204DDDF4,extended,A4820052
+
+//Infinite Health Sam
+patch=1,EE,204DE1AC,extended,86220054
+patch=1,EE,204DE1B4,extended,A6220052
+
+//Unlock all Movies/Extras
+patch=1,EE,006EB63C,extended,00000000
+patch=1,EE,006EB63D,extended,00000000
+patch=1,EE,006EB63E,extended,00000000
+patch=1,EE,006EB63F,extended,00000000
+patch=1,EE,006EB640,extended,00000000
+patch=1,EE,006EB641,extended,00000000
+patch=1,EE,006EB642,extended,00000000
+patch=1,EE,006EB643,extended,00000000
+patch=1,EE,006EB644,extended,00000000
+patch=1,EE,006EB645,extended,00000000
+patch=1,EE,006EB646,extended,00000000
+patch=1,EE,006EB647,extended,00000000
+patch=1,EE,006EB648,extended,00000000
+patch=1,EE,006EB649,extended,00000000
+patch=1,EE,006EB64A,extended,00000000
+patch=1,EE,006EB64B,extended,00000000
+patch=1,EE,006EB64C,extended,00000000
+patch=1,EE,006EB64D,extended,00000000
+patch=1,EE,006EB64E,extended,00000000
+patch=1,EE,006EB64F,extended,00000000
+patch=1,EE,006EB650,extended,00000000
+patch=1,EE,006EB651,extended,00000000
+patch=1,EE,006EB652,extended,00000000
+patch=1,EE,006EB653,extended,00000000
+patch=1,EE,006EB654,extended,00000000
+patch=1,EE,006EB655,extended,00000000
+patch=1,EE,006EB656,extended,00000000
+patch=1,EE,006EB657,extended,00000000
+patch=1,EE,006EB658,extended,00000000
+patch=1,EE,006EB659,extended,00000000
+patch=1,EE,006EB65A,extended,00000000
+patch=1,EE,006EB65B,extended,00000000
+patch=1,EE,006EB65C,extended,00000000
+patch=1,EE,006EB65D,extended,00000000
+patch=1,EE,006EB65E,extended,00000000
+patch=1,EE,006EB65F,extended,00000000
+patch=1,EE,006EB660,extended,00000000
+patch=1,EE,006EB661,extended,00000000
+patch=1,EE,006EB662,extended,00000000
+patch=1,EE,006EB663,extended,00000000
+patch=1,EE,006EB664,extended,00000000
+patch=1,EE,006EB665,extended,00000000
+patch=1,EE,006EB666,extended,00000000
+patch=1,EE,006EB667,extended,00000000
+patch=1,EE,006EB668,extended,00000000
+patch=1,EE,006EB669,extended,00000000
+patch=1,EE,006EB66A,extended,00000000
+patch=1,EE,006EB66B,extended,00000000
+patch=1,EE,006EB66C,extended,00000000
+patch=1,EE,006EB66D,extended,00000000
+patch=1,EE,006EB66E,extended,00000000
+patch=1,EE,006EB66F,extended,00000000
+
+//Unlock all Levels
+patch=1,EE,006EB618,extended,00000009
+
+//1 Hit Kill
+patch=1,EE,200FFF1C,extended,080EF1C4
+patch=1,EE,203BC708,extended,0803FFC0
+patch=1,EE,200FFF00,extended,24010001
+patch=1,EE,200FFF04,extended,A4810052
+patch=1,EE,200FFF08,extended,A4810054
+patch=1,EE,200FFF0C,extended,A4810056
+patch=1,EE,200FFF10,extended,A4810058
+patch=1,EE,200FFF18,extended,90A20069

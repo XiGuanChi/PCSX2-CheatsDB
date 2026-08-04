@@ -1,0 +1,39 @@
+gametitle=Growlanser Generations SLUS-20758
+//Infinite Elm
+patch=1,EE,2038D924,extended,000F423F
+
+//Annette Infinite HP
+patch=1,EE,10386362,extended,000003E7
+
+//Annette Infinite MP
+patch=1,EE,10386366,extended,000003E7
+
+//Viktor Infinite HP
+patch=1,EE,10386E8A,extended,000003E7
+
+//Viktor Infinite MP
+patch=1,EE,10386E8E,extended,000003E7
+
+//Slayn Infinite HP
+patch=1,EE,10385FAA,extended,000003E7
+
+//Slayn Infinite MP
+patch=1,EE,10385FAE,extended,000003E7
+
+//Monika Infinite HP
+patch=1,EE,10389B2A,extended,000003E7
+
+//Monika Infinite MP
+patch=1,EE,10389B2E,extended,000003E7
+
+//Hugh Infinite HP
+patch=1,EE,1038A29A,extended,000003E7
+
+//Hugh Infinite MP
+patch=1,EE,1038A29E,extended,000003E7
+
+//Have All Magic
+patch=1,EE,201BBB68,extended,24040001
+patch=1,EE,201BBB6C,extended,AC640014
+patch=1,EE,201BBB98,extended,24040109
+patch=1,EE,201BBBA8,extended,A4640028

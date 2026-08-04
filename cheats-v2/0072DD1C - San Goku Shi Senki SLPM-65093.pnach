@@ -1,0 +1,24 @@
+gametitle=San Goku Shi Senki SLPM-65093
+//Corps commander unit Number of troops MAX
+patch=1,EE,10A53092,extended,0000FFFF
+
+//Corps commander unit Fighting spirit MAX
+patch=1,EE,00A53098,extended,00000064
+
+//Army unit Number of troops MAX
+patch=1,EE,10A530BE,extended,0000FFFF
+
+//Army unit Fighting spirit MAX
+patch=1,EE,00A530C4,extended,00000064
+
+//Self-supporting army Corps commander unit Number of troops MAX
+patch=1,EE,10A53142,extended,0000FFFF
+
+//Self-supporting army Corps commander unit Fighting spirit MAX
+patch=1,EE,00A53148,extended,00000064
+
+//Self-supporting army Army unit Number of troops MAX
+patch=1,EE,10A5316E,extended,0000FFFF
+
+//Self-supporting army Army unit Fighting spirit MAX
+patch=1,EE,00A53174,extended,00000064

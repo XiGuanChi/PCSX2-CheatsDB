@@ -1,0 +1,12 @@
+gametitle=Dead or Alive 2 - Hardcore SLUS-20071
+//Infinite Health Player 1
+patch=1,EE,2048C330,extended,0000012C
+
+//1Hit Death Player 2
+patch=1,EE,D048C398,extended,0000012C
+patch=1,EE,2048C398,extended,00000001
+
+//Have All Costumes
+patch=1,EE,2048B0D0,extended,FFFFFFFF
+patch=1,EE,2048B0D4,extended,FFFFFFFF
+patch=1,EE,2048B0D8,extended,FFFFFFFF

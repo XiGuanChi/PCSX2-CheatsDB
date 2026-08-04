@@ -1,0 +1,64 @@
+gametitle=Kenka Banchou SLPM-66035
+//HP 9999
+patch=1,EE,10260300,extended,0000270F
+patch=1,EE,1026031C,extended,0000270F
+patch=1,EE,10260338,extended,0000270F
+patch=1,EE,10260354,extended,0000270F
+patch=1,EE,10260370,extended,0000270F
+patch=1,EE,1026038C,extended,0000270F
+patch=1,EE,102603A8,extended,0000270F
+patch=1,EE,102603C4,extended,0000270F
+patch=1,EE,102603E0,extended,0000270F
+patch=1,EE,102603FC,extended,0000270F
+patch=1,EE,10260418,extended,0000270F
+patch=1,EE,10260434,extended,0000270F
+patch=1,EE,10260450,extended,0000270F
+patch=1,EE,1026046C,extended,0000270F
+patch=1,EE,10260488,extended,0000270F
+patch=1,EE,102604A4,extended,0000270F
+patch=1,EE,102604C0,extended,0000270F
+patch=1,EE,102604DC,extended,0000270F
+patch=1,EE,102604F8,extended,0000270F
+patch=1,EE,10260514,extended,0000270F
+
+//Gold 9999999
+patch=1,EE,2056A6FC,extended,0098967F
+
+//Quarrel being accustomed degree maximum
+patch=1,EE,2056A6F8,extended,0001869F
+
+//On Main Menu ( All Skills )
+patch=1,EE,201350F0,extended,00000000
+patch=1,EE,20176F38,extended,00000000
+patch=1,EE,20177008,extended,00000000
+patch=1,EE,20112904,extended,00000000
+
+//Gang Leader Points 9999999 and HP 700
+patch=1,EE,102602FC,extended,00004182
+
+//When the money it picks up, 99999999
+patch=1,EE,2016A314,extended,00000000
+
+//Shout it is and does not decrease
+patch=1,EE,201352F0,extended,00000000
+
+//The weapon entirely
+patch=1,EE,20578E88,extended,02020202
+patch=1,EE,20578E8C,extended,02020202
+patch=1,EE,20578E90,extended,02020202
+patch=1,EE,20578E94,extended,02020202
+patch=1,EE,20578E98,extended,02020202
+
+//The item entirely
+patch=1,EE,10578ECC,extended,00006363
+patch=1,EE,00578ECE,extended,00000063
+patch=1,EE,40578E9C,extended,000C0001
+patch=1,EE,63636363,extended,00000000
+
+//Change entirely
+patch=1,EE,40578F1C,extended,00180001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Legendary album
+patch=1,EE,40578F90,extended,00190704
+patch=1,EE,00000001,extended,00000000

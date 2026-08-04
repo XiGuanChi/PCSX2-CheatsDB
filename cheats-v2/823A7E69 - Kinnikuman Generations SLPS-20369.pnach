@@ -1,0 +1,7 @@
+gametitle=Kinnikuman Generations SLPS-20369
+//Infinite Health P1
+patch=1,EE,102BC548,extended,00000960
+
+//All characters appearance
+patch=1,EE,402B07A8,extended,00240001
+patch=1,EE,00000001,extended,00000000

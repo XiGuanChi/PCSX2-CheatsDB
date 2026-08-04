@@ -1,0 +1,28 @@
+gametitle=Onimusha Buraiden SLPM-65411
+//Infinite Health Player 1
+patch=1,EE,2050CB38,extended,00640064
+
+//Infinite Special 1P
+patch=1,EE,2050CB40,extended,00320032
+
+//All characters
+patch=1,EE,20503E48,extended,04040404
+patch=1,EE,20503E4C,extended,04040404
+patch=1,EE,20503E50,extended,04040404
+patch=1,EE,20503E54,extended,04040404
+patch=1,EE,20503E58,extended,04040404
+patch=1,EE,20503E5C,extended,04040404
+patch=1,EE,20503E60,extended,04040404
+patch=1,EE,20503E64,extended,04040404
+patch=1,EE,20503E68,extended,04040404
+
+//All stages
+patch=1,EE,20503E78,extended,01010101
+patch=1,EE,20503E7C,extended,01010101
+patch=1,EE,20503E80,extended,01010101
+patch=1,EE,20503E84,extended,01010101
+patch=1,EE,20503E88,extended,01010101
+patch=1,EE,20503E8C,extended,01010101
+patch=1,EE,20503E90,extended,01010101
+patch=1,EE,20503E78,extended,01010101
+patch=1,EE,20503E78,extended,01010101

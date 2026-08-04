@@ -1,0 +1,7 @@
+gametitle=The Ant Bully SLUS-21415
+//Infinite and Max Health
+patch=1,EE,207BFC40,extended,3F800000
+patch=1,EE,207BFC48,extended,3F800000
+
+//Always Max Fire Crystals
+patch=1,EE,207BFB98,extended,00000064

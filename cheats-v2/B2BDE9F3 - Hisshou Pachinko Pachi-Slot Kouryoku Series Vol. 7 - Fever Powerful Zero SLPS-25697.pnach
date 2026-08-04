@@ -1,0 +1,15 @@
+gametitle=Hisshou Pachinko Pachi-Slot Kouryoku Series Vol. 7 - Fever Powerful Zero SLPS-25697
+//Wert 3 ist 0
+patch=1,EE,20503cdc,extended,00000000
+
+//Wert 3 ist 9.999
+patch=1,EE,20503cdc,extended,0000270f
+
+//Wert 3 ist 99.999.999
+patch=1,EE,20503cdc,extended,05f5e0ff
+
+//Time 00:00:00
+patch=1,EE,20503ce0,extended,00000000
+
+//max.Wert 2
+patch=1,EE,20503ce4,extended,05f5e100

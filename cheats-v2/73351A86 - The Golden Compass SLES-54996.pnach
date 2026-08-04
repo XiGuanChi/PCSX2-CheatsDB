@@ -1,0 +1,25 @@
+gametitle=The Golden Compass SLES-54996
+//Infinite Health
+patch=1,EE,202774CC,extended,C6D703CC
+patch=1,EE,202774D0,extended,E6D703C8
+
+//Max Rage Claws After 1 LVL
+patch=1,EE,202A61F8,extended,24020009
+
+//Infinite Sky Armour
+patch=1,EE,202A6400,extended,240203E8
+
+//Infinite HP Lyra
+patch=1,EE,202771C4,extended,08028006
+patch=1,EE,202771C8,extended,00000000
+patch=1,EE,200A0018,extended,C6C303CC
+patch=1,EE,200A001C,extended,E6C303C8
+patch=1,EE,200A0020,extended,C6C003CC
+patch=1,EE,200A0024,extended,0809DC72
+patch=1,EE,200A0028,extended,E6C303C8
+
+//All Levels Open
+patch=1,EE,202501C0,extended,00000000
+
+//Infinite Time
+patch=1,EE,202CCB0C,extended,10000008

@@ -1,0 +1,16 @@
+gametitle=Street Fighter - Anniversary Collection SLUS-20949
+//Hyper Street Fighter II-The Anniversary Edition Infinite Health
+patch=1,EE,1054152C,extended,000000A0
+
+//Street Fighter III-3rd Strike-Fight Infinite Health P1
+patch=1,EE,105415BE,extended,000000A0
+
+//Street Fighter III-3rd Strike-Fight 1-Hit Death P2
+patch=1,EE,21F48760,extended,5752A5DB
+
+//Extra Option Unlocked
+patch=1,EE,006118B3,extended,00000001
+
+//System Direction Complete & Gill Unlocked
+patch=1,EE,406118B4,extended,000A0001
+patch=1,EE,01010101,extended,00000000

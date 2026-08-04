@@ -1,0 +1,6 @@
+gametitle=Alias SLES-51821
+//Infinite Health 
+patch=1,EE,21FA8F74,extended,43960000
+
+//Infinite Ammo
+patch=1,EE,2016F698,extended,00000000

@@ -1,0 +1,28 @@
+gametitle=Chain Dive SCPS-15054
+//invincible
+patch=1,EE,20162F78,extended,8F82D2BC
+
+//Not decrease energy gauge
+patch=1,EE,2016C420,extended,14400001
+
+//does not receive damage
+patch=1,EE,20162E2C,extended,0000902D
+
+//(No judgment is doing) does not receive damage is not supported either fall to death.
+patch=1,EE,20162D50,extended,34030007
+
+//Complete recovery mortal strength in use
+patch=1,EE,2015DDB4,extended,34030064
+
+//I do not freeze reduced gauge
+patch=1,EE,2016C260,extended,8F85D388
+patch=1,EE,2016C39C,extended,00A02825
+
+//Can jump multistage
+patch=1,EE,2015DBF8,extended,14000000
+
+//Death blow Zakopane
+patch=1,EE,201668E4,extended,AC400000
+
+//(With some exceptions) death blow boss
+patch=1,EE,20165E1C,extended,64127FFF

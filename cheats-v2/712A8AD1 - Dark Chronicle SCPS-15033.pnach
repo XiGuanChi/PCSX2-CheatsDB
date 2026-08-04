@@ -1,0 +1,11 @@
+gametitle=Dark Chronicle SCPS-15033
+//Infinite Money
+patch=1,EE,21E58B2C,extended,0098967F
+
+//Infinite & Max HP Maximillian
+patch=1,EE,21E17C50,extended,4479C000
+patch=1,EE,21E17C54,extended,4479C000
+
+//Infinite & Max HP Monica
+patch=1,EE,21E17FDC,extended,4479C000
+patch=1,EE,21E17FE0,extended,4479C000

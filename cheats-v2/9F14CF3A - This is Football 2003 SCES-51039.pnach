@@ -1,0 +1,20 @@
+gametitle=This is Football 2003 SCES-51039
+//Home Team Score 99 Press L2 to activate.
+patch=1,EE,D05FC702,extended,0000FEFF
+patch=1,EE,104D3390,extended,00000063
+
+//Home Team Score 0 Press L1 to activate.
+patch=1,EE,D05FC702,extended,0000FBFF
+patch=1,EE,104D3390,extended,00000000
+
+//Away Team Score 99 Press R2 to activate.
+patch=1,EE,D05FC702,extended,0000FDFF
+patch=1,EE,104D377A,extended,00000063
+
+//Away Team Score 0 Press R1 to activate
+patch=1,EE,D05FC702,extended,0000F7FF
+patch=1,EE,104D377A,extended,00000000
+//.
+//Infinite Cash For Liverpool
+patch=1,EE,205A423C,extended,05F5E0FF
+

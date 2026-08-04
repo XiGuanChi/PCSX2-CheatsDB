@@ -1,0 +1,25 @@
+gametitle=Leisure Suit Larry Magna Cum Laude SLUS-20956
+//Max Cash
+patch=1,EE,2097641C,extended,0000270F
+
+//Max Secret Tokens
+patch=1,EE,2097640C,extended,000003E7
+
+//Always Confident
+patch=1,EE,209777CC,extended,42C80000
+
+//Never Drunk
+patch=1,EE,209763FC,extended,00000000
+
+//All Concept Art
+patch=1,EE,409507B0,extended,003F0001
+patch=1,EE,00000001,extended,00000000
+
+//All Girls 
+patch=1,EE,404152F8,extended,00280010
+patch=1,EE,00000000,extended,00000000
+
+//All Larry Costumes
+patch=1,EE,40415178,extended,00060010
+patch=1,EE,00000000,extended,00000000
+

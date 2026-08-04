@@ -1,0 +1,27 @@
+gametitle=EndGame SLES-50936
+//Infinite Time
+patch=1,EE,20D986E0,extended,00000085
+
+//Infinite Lives
+patch=1,EE,20D98444,extended,0000000A
+
+//Unlock Bonus page / Arcade Mode
+patch=1,EE,102DBFFC,extended,00000001
+
+//Use this code in order to access the other unlock codes GB Challenge
+patch=1,EE,102DBFE8,extended,00000001
+
+//France Challenge
+patch=1,EE,102DBFEC,extended,00000001
+
+//Germany Challenge
+patch=1,EE,102DBFF0,extended,00000001
+
+//Italy Challenge
+patch=1,EE,102DBFF4,extended,00000001
+
+//Switzerland Challenge
+patch=1,EE,102DBFF8,extended,00000001
+
+//Machine Gun
+patch=1,EE,102DC004,extended,00000001

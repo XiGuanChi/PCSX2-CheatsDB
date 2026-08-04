@@ -1,0 +1,22 @@
+gametitle=Zero SLPS-25074
+//Always Low Game Time
+patch=1,EE,202522F8,extended,00000000
+
+//Infinite Health
+patch=1,EE,00251FA4,extended,000000F4
+
+//Spiritual power charge Max
+patch=1,EE,00251FC8,extended,00000063
+
+//Spiritual power point Max
+patch=1,EE,202651F8,extended,0098967F
+
+//99 possession consumption items
+patch=1,EE,00253861,extended,00000063
+patch=1,EE,00253862,extended,00000063
+patch=1,EE,00253863,extended,00000063
+patch=1,EE,00253864,extended,00000063
+patch=1,EE,00253865,extended,00000063
+patch=1,EE,00253866,extended,00000063
+patch=1,EE,00253867,extended,00000063
+patch=1,EE,00253868,extended,00000063

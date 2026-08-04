@@ -1,0 +1,32 @@
+gametitle=Scarface - The World Is Yours SLES-54183
+//unendlich Energie zu Fuss 
+patch=1,EE,2039eafc,extended,C4820184
+patch=1,EE,2039eb04,extended,E4820180
+
+//unendlich Energie im Auto 
+patch=1,EE,20537668,extended,3C0142C8
+patch=1,EE,20537678,extended,AE610080
+
+//unendlich Munition 
+patch=1,EE,203ce6dc,extended,00000000
+
+//kein Nachladen
+patch=1,EE,203d03f4,extended,00000000
+
+//unendlich Munition 2
+patch=1,EE,203d03f0,extended,24630000
+
+//weniger Fahrzeugschaden 
+patch=1,EE,20380db0,extended,03E00008
+patch=1,EE,20380db4,extended,00000000
+
+//Fahrzeuge unverschlossen 
+patch=1,EE,20380bb0,extended,03E00008
+patch=1,EE,20380bb4,extended,24020000
+
+//Visibility Never Increases
+patch=1,EE,20475c00,extended,00000000
+
+//Cop Heat Never Increases
+patch=1,EE,204759a0,extended,03E00008
+patch=1,EE,204759a4,extended,00000000

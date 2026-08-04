@@ -1,0 +1,8 @@
+gametitle=Samurai Champloo SLPS-25600
+//max Coins
+patch=1,EE,219F9E60,extended,000F423F
+patch=1,EE,219F9E68,extended,000F423F
+
+//max Trick Point Time
+patch=1,EE,21CAD410,extended,000F423F
+

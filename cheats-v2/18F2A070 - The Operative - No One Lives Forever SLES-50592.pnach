@@ -1,0 +1,12 @@
+gametitle=The Operative - No One Lives Forever SLES-50592
+//Infinite Armour
+patch=1,EE,2015A35C,extended,00000000
+patch=1,EE,2015A360,extended,00000000
+
+//Infinite Health
+patch=1,EE,2015AC60,extended,3C017780
+patch=1,EE,2015AC68,extended,3C017780
+
+//Third Person View Girl
+patch=1,EE,201316D0,extended,03E00008
+patch=1,EE,201316D4,extended,00000000

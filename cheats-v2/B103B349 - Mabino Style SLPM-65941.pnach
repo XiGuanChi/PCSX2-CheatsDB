@@ -1,0 +1,4 @@
+gametitle=Mabino Style SLPM-65941
+//Special fully opened
+patch=1,EE,405C8E70,extended,04A00001
+patch=1,EE,FFFFFFFF,extended,00000000

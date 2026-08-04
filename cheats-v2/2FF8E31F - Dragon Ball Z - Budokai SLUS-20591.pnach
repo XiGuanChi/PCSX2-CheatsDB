@@ -1,0 +1,15 @@
+gametitle=Dragon Ball Z - Budokai SLUS-20591
+//Unlock All Characters
+patch=1,EE,2035E1C4,extended,FFFFFFFF
+
+//Infinite Health Player 1
+patch=1,EE,20576610,extended,453B8000
+
+//1Hit Death Player 2
+patch=1,EE,D057CC10,extended,0000453B
+patch=1,EE,2057CC10,extended,3F800000
+
+//Have All DragonBalls
+patch=1,EE,205E618C,extended,01010101
+patch=1,EE,105E6190,extended,00000101
+patch=1,EE,005E6192,extended,00000001

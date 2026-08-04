@@ -1,0 +1,17 @@
+gametitle=Jet Li Rise to Honor SCES-51971
+//Infinite Health
+patch=1,EE,201C6FFC,extended,E4A200C4
+
+//Open Difficulties/Levels
+patch=1,EE,202940C4,extended,A2800073
+
+//Block / Adrenalin
+patch=1,EE,201ED3C0,extended,C6020010
+patch=1,EE,201ED3C8,extended,E602000C
+
+//One-Hit Kills
+patch=1,EE,20130E04,extended,46000001
+
+//Unlock Special Features
+patch=1,EE,202B570C,extended,1000000D
+patch=1,EE,202B5744,extended,24020045

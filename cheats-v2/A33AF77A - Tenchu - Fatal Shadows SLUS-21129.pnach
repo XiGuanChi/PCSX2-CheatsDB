@@ -1,0 +1,51 @@
+gametitle=Tenchu - Fatal Shadows SLUS-21129
+//Infinite Health
+patch=1,EE,2047D870,extended,42C80000
+patch=1,EE,20672138,extended,42C80000
+patch=1,EE,2033FEC0,extended,E4410080
+patch=1,EE,2033FEC4,extended,3C023F80
+patch=1,EE,2033FEC8,extended,0807B358
+patch=1,EE,201ECD58,extended,C7810000
+patch=1,EE,201ECD5C,extended,080CFFB0
+
+//Infinite Item Use
+patch=1,EE,201D44A4,extended,24630000
+
+//All Specials-Rin
+patch=1,EE,105BE4B8,extended,0000FFFF
+
+//All Specials-Ayame
+patch=1,EE,105BE52C,extended,0000FFFF
+
+//Extra Costumes
+patch=1,EE,105BE520,extended,0000270F
+patch=1,EE,105BE524,extended,0000270F
+
+//Complete Gallery
+patch=1,EE,405C0680,extended,00050001
+patch=1,EE,00000000,extended,00000000
+
+//All Movies/Sound Test
+patch=1,EE,405C0700,extended,00080001
+patch=1,EE,00000000,extended,00000000
+
+//All Cutscenes
+patch=1,EE,405C06C0,extended,000A0001
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,005C06E8,extended,00000000
+
+//JAPCRC = 735A10C2
+//Score & time indication
+patch=1,EE,201462C4,extended,10400001
+
+//99 all the patience tools
+patch=1,EE,201D4C8C,extended,00431821
+patch=1,EE,201D4C90,extended,24020063
+patch=1,EE,201D4C98,extended,A4620000
+
+//Invincible
+patch=1,EE,20180980,extended,C6010084
+patch=1,EE,2018098C,extended,E6010080
+
+//Multi-stage jump possibility
+patch=1,EE,201847EC,extended,577B0004

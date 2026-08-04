@@ -1,0 +1,27 @@
+gametitle=Call of Duty - World at War - Final Fronts SLES-55367
+//God Mode
+patch=1,EE,0052FDF4,extended,00000001
+patch=1,EE,0052F088,extended,00000001
+
+//Infinite Health
+patch=1,EE,2036DAE8,extended,3C014400
+patch=1,EE,2036DAF0,extended,AC610028
+
+//Immune To Explosions
+patch=1,EE,2035E8E0,extended,24030001
+
+//No Reload With Infinite Clip
+patch=1,EE,203F0234,extended,00000000
+patch=1,EE,203F2E90,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,203EAF7C,extended,00000000
+
+//Activate Cheat Codes God Mode
+patch=1,EE,0052F088,extended,00000001
+
+//Activate Cheat Codes God Mode For Team
+patch=1,EE,0052F089,extended,00000001
+
+//Activate Cheat Codes Infinite Ammo / Grenades
+patch=1,EE,0052F08A,extended,00000001

@@ -1,0 +1,7 @@
+gametitle=Pachitte Chonmage Tatsujin 12 - Pachinko Ultraman SLPS-25776
+//Challenge mode Maximum money
+patch=1,EE,2051E5EC,extended,0098967F
+
+//Win a match with the select button
+patch=1,EE,D05A0544,extended,00000100
+patch=1,EE,2051D2C4,extended,0001869F

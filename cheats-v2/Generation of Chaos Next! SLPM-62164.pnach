@@ -1,0 +1,23 @@
+gametitle=Generation of Chaos Next! SLPM-62164
+//After 1 turn, all base funds are MAX *
+patch=1,EE,2013A14C,extended,14000004
+
+//All  items 99
+patch=1,EE,01C6F719,extended,00000063
+patch=1,EE,11C6F71A,extended,00006363
+patch=1,EE,41C6F71C,extended,005F0001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,11C6F898,extended,00006363
+
+//HP 9999 at L3 during battle 
+patch=1,EE,200F4000,extended,3C01002A
+patch=1,EE,200F4004,extended,84211732
+patch=1,EE,200F4008,extended,30230200
+patch=1,EE,200F400C,extended,10600005
+patch=1,EE,200F4010,extended,8D510000
+patch=1,EE,200F4014,extended,12200003
+patch=1,EE,200F401C,extended,3411270F
+patch=1,EE,200F4020,extended,AD510000
+patch=1,EE,200F4024,extended,03E00008
+patch=1,EE,2017E840,extended,00525021
+patch=1,EE,2017E844,extended,0C03D000

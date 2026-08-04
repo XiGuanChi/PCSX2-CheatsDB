@@ -1,0 +1,23 @@
+gametitle=ESPN X-Games Skateboarding SLUS-20237
+//Have All Boards
+patch=1,EE,108B6D30,extended,00000101
+patch=1,EE,408B6D10,extended,00080001
+patch=1,EE,01010101,extended,00000000
+
+//Easy Crash Targets
+patch=1,EE,D1C712BE,extended,00000001
+patch=1,EE,11C712BE,extended,00000005
+
+//Easy Checkpoints
+patch=1,EE,D1C712C0,extended,00000001
+patch=1,EE,11C712C0,extended,00000006
+
+//Max Special
+patch=1,EE,11C7141C,extended,0000012C
+
+//Max Score
+patch=1,EE,11C712C4,extended,0000FFFF
+
+//Max Combo
+patch=1,EE,D1C712D0,extended,00200003
+patch=1,EE,01C712D0,extended,00000063

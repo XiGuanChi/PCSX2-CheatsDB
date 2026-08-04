@@ -1,0 +1,8 @@
+gametitle=Simple 2000 Series Vol.60 - The Tokusatsu Henshin Heroi SLPM-62510
+//Infinite Health
+patch=1,EE,200F4000,extended,8F819680
+patch=1,EE,200F4004,extended,8C3A00F4
+patch=1,EE,200F4008,extended,AC3A00F0
+patch=1,EE,200F4010,extended,03E00008
+patch=1,EE,20158018,extended,0803D000
+patch=1,EE,2015803C,extended,0803D000

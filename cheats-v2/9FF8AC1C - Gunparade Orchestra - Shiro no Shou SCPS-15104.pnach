@@ -1,0 +1,48 @@
+gametitle=Gunparade Orchestra - Shiro no Shou SCPS-15104
+//Infinite Money (9999999)
+patch=1,EE,2173BBDC,extended,05F5E0FF
+
+//Experience value after battle + 1000
+patch=1,EE,202B0928,extended,00000000
+
+//Reinforced remodeling, no need for parts
+patch=1,EE,2034DB58,extended,00000000
+
+//Reinforced remodeling
+patch=1,EE,2034DB88,extended,1000001D
+
+//Physical strength / aerobic 255, genius, fortune-telling
+patch=1,EE,20148844,extended,0803D400
+patch=1,EE,200F5000,extended,24030003
+patch=1,EE,200F5004,extended,AE230844
+patch=1,EE,200F5008,extended,2463FFFF
+patch=1,EE,200F500C,extended,AE230804
+patch=1,EE,200F5010,extended,246300FD
+patch=1,EE,200F5014,extended,AE230004
+patch=1,EE,200F5018,extended,08052213
+patch=1,EE,200F501C,extended,AE230044
+
+//Possession maximum
+patch=1,EE,20142F60,extended,3447E0FF
+
+//Maximum voice
+patch=1,EE,20142B9C,extended,3447967F
+
+//Durability
+patch=1,EE,403BDE98,extended,0019001C
+patch=1,EE,00640064,extended,00000000
+patch=1,EE,403BDE9C,extended,0019001C
+patch=1,EE,00640064,extended,00000000
+
+//The remaining bullet does not decrease
+patch=1,EE,2029B8A0,extended,00401021
+patch=1,EE,2029B8DC,extended,00401021
+
+//Maximum ammunition increases
+patch=1,EE,2034FB08,extended,14000005
+
+//Maximum with emotional value fluctuation ON with R2 + R3 OFF with L2 + R3
+patch=1,EE,D1695F82,extended,0000FDFB
+patch=1,EE,2014E734,extended,2401539F
+patch=1,EE,D1695F82,extended,0000FEFB
+patch=1,EE,2014E734,extended,0064082A

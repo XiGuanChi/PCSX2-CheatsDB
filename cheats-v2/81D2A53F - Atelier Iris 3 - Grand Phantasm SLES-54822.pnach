@@ -1,0 +1,35 @@
+gametitle=Atelier Iris 3 - Grand Phantasm SLUS-21564
+//Max/Inf Money 
+patch=1,EE,208F6AB8,extended,000F423F
+
+//infinite Health (Battle)
+patch=1,EE,2020b6b0,extended,08028000
+patch=1,EE,2020b6b4,extended,00000000
+patch=1,EE,200a0000,extended,85e5002a
+patch=1,EE,200a0004,extended,8dee0030
+patch=1,EE,200a0008,extended,10a00005
+patch=1,EE,200a000c,extended,00000000
+patch=1,EE,200a0010,extended,8de60034
+patch=1,EE,200a0014,extended,08082dad
+patch=1,EE,200a0018,extended,00ce3021
+patch=1,EE,200a001c,extended,00000000
+patch=1,EE,200a0020,extended,08082dad
+patch=1,EE,200a0024,extended,00ce3021
+
+//Infinite Time (In Missions) 
+patch=1,EE,201FE25C,extended,00000000
+
+//Alternate Infinite Time (In Missions) 
+patch=1,EE,2090EFE0,extended,00005000
+
+//Complete Monster List 
+patch=1,EE,10C00AA6,extended,00000707
+patch=1,EE,40C00AA8,extended,00620001
+patch=1,EE,07070707,extended,00000000
+patch=1,EE,10C00B30,extended,00000707
+
+//Complete Blades List (Also Gives Skills) 
+patch=1,EE,10C00B32,extended,00000707
+patch=1,EE,20C00B34,extended,07070707
+patch=1,EE,20C00B38,extended,07070707
+patch=1,EE,10C00B3C,extended,00000707

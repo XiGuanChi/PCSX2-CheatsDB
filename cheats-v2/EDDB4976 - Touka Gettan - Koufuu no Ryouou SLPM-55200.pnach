@@ -1,0 +1,12 @@
+gametitle=Touka Gettan - Koufuu no Ryouou SLPM-55200
+//Title Menu Full Expansion
+patch=1,EE,008A7978,extended,00000001
+
+//CG fuyl opening when entering between caricatures
+patch=1,EE,201052EC,extended,240100FF
+patch=1,EE,201052F0,extended,A0416A9C
+patch=1,EE,201052FC,extended,24020001
+
+//BGM full yopening during play
+patch=1,EE,208A6C9C,extended,FFFFFFFF
+patch=1,EE,208A6CA0,extended,FFFFFFFF

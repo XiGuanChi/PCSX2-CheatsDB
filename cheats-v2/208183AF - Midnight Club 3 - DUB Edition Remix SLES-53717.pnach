@@ -1,0 +1,27 @@
+gametitle=Midnight Club 3 - DUB Edition Remix SLES-53717
+//Open All
+patch=1,EE,00619B1C,extended,00000001
+patch=1,EE,00619B1D,extended,00000001
+patch=1,EE,00619B1E,extended,00000001
+patch=1,EE,00619B1F,extended,00000001
+patch=1,EE,00619B20,extended,00000001
+patch=1,EE,00619B21,extended,00000001
+patch=1,EE,00619B22,extended,00000001
+
+//Disable Car Damage
+patch=1,EE,202D49D8,extended,03E00008
+patch=1,EE,202D49DC,extended,00000000
+
+//Turbo Press Circle+X at same time to activate.
+patch=1,EE,20261CD0,extended,3C017F00
+patch=1,EE,20261CD4,extended,44810800
+patch=1,EE,20261CD0,extended,C4400024
+patch=1,EE,20261CD4,extended,46000842
+
+//Dumb AI Press Down to activate Select to stop.
+patch=1,EE,D06BB442,extended,0000FFBF
+patch=1,EE,20402280,extended,24020000
+patch=1,EE,D06BB442,extended,0000FFFE
+
+//Open All
+patch=1,EE,00619B1C,extended,00000001

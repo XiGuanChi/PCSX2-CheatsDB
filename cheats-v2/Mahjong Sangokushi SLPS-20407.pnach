@@ -1,0 +1,12 @@
+gametitle=Mahjong Sangokushi SLPS-20407
+//Player money 9999999
+patch=1,EE,20B20448,extended,0098967F
+
+//Opponnet 1 no money
+patch=1,EE,20B34398,extended,00000000
+
+//Opponnet 2 no money
+patch=1,EE,20B26EB8,extended,00000000
+
+//Opponnet 3 no money
+patch=1,EE,20B2D928,extended,00000000

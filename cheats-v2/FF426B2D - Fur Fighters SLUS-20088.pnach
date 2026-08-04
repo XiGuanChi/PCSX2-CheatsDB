@@ -1,0 +1,14 @@
+gametitle=Fur Fighters SLUS-20088
+//Have All Cheats
+patch=1,EE,202C7034,extended,FFFFFFFF
+patch=1,EE,202D2EC0,extended,FFFFFFFF
+
+//Invincibility Activate Cheat Code
+patch=1,EE,002CF744,extended,00000004
+
+//Auto Aim Activate Cheat Code
+patch=1,EE,002CF744,extended,00000020
+
+
+//Have All Weapons Activate Cheat Code
+patch=1,EE,002CF747,extended,00000002

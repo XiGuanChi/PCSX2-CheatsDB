@@ -1,0 +1,57 @@
+gametitle=Crash Nitro Kart SLUS-20649
+//Have 99 Trophies
+patch=1,EE,02000388,extended,00000063
+
+//All Characters/Tracks/Cutscenes Unlocked (not saveable)
+patch=1,EE,201850F8,extended,00000000
+
+//Adventure Mode Complete (not saveable)
+patch=1,EE,20189F1C,extended,00000000
+
+//100% (Adventure Mode)
+patch=1,EE,20793570,extended,640D040C
+patch=1,EE,10793574,extended,00000101
+patch=1,EE,207937E0,extended,44239085
+patch=1,EE,207937E4,extended,50912809
+patch=1,EE,207937E8,extended,1C013804
+patch=1,EE,207937EC,extended,25008A02
+patch=1,EE,207937F0,extended,11C04280
+patch=1,EE,207937F4,extended,000004A0
+patch=1,EE,207937F8,extended,00000000
+patch=1,EE,207937FC,extended,00000000
+patch=1,EE,20793800,extended,00050000
+patch=1,EE,20793804,extended,00100020
+patch=1,EE,20793808,extended,00040008
+patch=1,EE,2079380C,extended,00000000
+patch=1,EE,20793810,extended,00000000
+patch=1,EE,2079C7A4,extended,45141500
+
+//All Cutscenes & Extra Tracks Unlocked
+patch=1,EE,2079B880,extended,DFFFBFFF
+
+//All Characters & Ghosts Unlocked (Time Trial)
+patch=1,EE,2079B884,extended,FFFFFFFF
+patch=1,EE,2079B888,extended,FFFFFFFF
+
+//One Lap Races
+patch=1,EE,007CC0DC,extended,00000001
+
+//Language Modifier Codes
+
+//English
+patch=0,EE,00749958,extended,00000000
+
+//French
+patch=0,EE,00749958,extended,00000001
+
+//German
+patch=0,EE,00749958,extended,00000002
+
+//Italian
+patch=0,EE,00749958,extended,00000003
+
+//Dutch
+patch=0,EE,00749958,extended,00000004
+
+//Spanish
+patch=1,EE,00749958,extended,00000005

@@ -1,0 +1,23 @@
+gametitle=Shin Onimusha - Dawn of Dreams SLPM-66275 SLPM-66276
+//Infinite Vitality
+patch=1,EE,202D17F4,extended,08096504
+patch=1,EE,202D17F8,extended,A6420000
+patch=1,EE,202CF95C,extended,0C0B45FD
+
+//Infinite Ogre Power
+patch=1,EE,2025EB8C,extended,AE250010
+patch=1,EE,2025EB74,extended,3C027FF8
+patch=1,EE,2025EB78,extended,34459EC0
+
+//Max money
+patch=1,EE,208D85CC,extended,3B9AC9FF
+
+//Added selection of all difficulty levels needs a save game
+patch=1,EE,203DE048,extended,24010003
+patch=1,EE,203DE050,extended,A0810058
+
+//All benefits Japanese street clothing needs a save game
+patch=1,EE,203DE004,extended,00C31827
+patch=1,EE,203DE010,extended,3C030187
+patch=1,EE,203DE014,extended,3463A238
+patch=1,EE,203DE018,extended,ACE30004

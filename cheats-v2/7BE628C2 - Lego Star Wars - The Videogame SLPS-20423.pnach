@@ -1,0 +1,19 @@
+gametitle=Lego Star Wars - The Videogame SLPS-20423
+//All extras available
+patch=1,EE,1054A918,extended,0000FFFF
+patch=1,EE,1054A8E8,extended,0000FFFF
+
+//Maximum total stud in a bar Valid only at Cantina taverns.
+patch=1,EE,2054A91C,extended,05F5E0FF
+
+//Debug (pause menu) After pressing the L3 + R3 button
+patch=1,EE,D1F94042,extended,0000FFF9
+patch=1,EE,2052B93C,extended,FF110017
+
+//Character fully open
+patch=1,EE,40578EC0,extended,001F0024
+patch=1,EE,0100004D,extended,00000000
+
+//Hint fully open
+patch=1,EE,4057B590,extended,000D0024
+patch=1,EE,01010000,extended,00000001

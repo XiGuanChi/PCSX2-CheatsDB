@@ -1,0 +1,16 @@
+gametitle=McFarlane's Evil Prophecy SLES-52710
+//Infinite Health
+patch=1,EE,200C2010,extended,86E20036
+patch=1,EE,200C2014,extended,A6E20038
+patch=1,EE,200C2018,extended,03E00008
+patch=1,EE,200C201C,extended,26D00008
+
+//Infinite MP
+patch=1,EE,200C2000,extended,92A40001
+patch=1,EE,200C2004,extended,03E00008
+patch=1,EE,200C2008,extended,A2A40002
+patch=1,EE,20143438,extended,0C030800
+
+//have All Monster Cards/Gallery
+patch=1,EE,4031E7A4,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000

@@ -1,0 +1,10 @@
+gametitle=Jeremy McGrath Supercross World SLUS-20245
+//Infinite Nitros
+patch=1,EE,201CF37C,extended,00000000
+
+//Have All Awards Complete
+patch=1,EE,402BCBB8,extended,00200001
+patch=1,EE,01010101,extended,00000000
+
+//Unlock All
+patch=1,EE,102AE67C,extended,00000800

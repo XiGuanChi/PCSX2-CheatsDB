@@ -1,0 +1,24 @@
+gametitle=Simoun - Shoubi Sensou - Fuuin no Remersion SLPS-25689
+//Max Gold 
+patch=1,EE,202AB510,extended,05F5E0FF
+
+//All units EN recovery and swerve unit specified
+patch=1,EE,2016CEAC,extended,8E610018
+patch=1,EE,2016CEB0,extended,AC220008
+
+//SP does not decrease
+patch=1,EE,20166F9C,extended,00000000
+patch=1,EE,20166FB4,extended,00000000
+
+//Enemy operating in L1 and select
+patch=1,EE,D0266EDC,extended,0000FBFE
+patch=1,EE,20154EB8,extended,1000006B
+patch=1,EE,D0266EDC,extended,0000FEFE
+patch=1,EE,20154EB8,extended,1040006B
+
+//Released by L2 and select I can select up to 99 virtual combat level
+patch=1,EE,002AB518,extended,00000063
+
+//Album fully open
+patch=1,EE,201EA294,extended,24010001
+patch=1,EE,201EA298,extended,AC410000

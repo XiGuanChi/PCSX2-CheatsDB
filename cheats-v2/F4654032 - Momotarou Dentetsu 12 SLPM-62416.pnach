@@ -1,0 +1,12 @@
+gametitle=Momotarou Dentetsu 12 SLPM-62416
+//P1 Money Max
+patch=1,EE,203A9720,extended,3B9AC9FF
+
+//P3 Money 0
+patch=1,EE,203A978C,extended,C4653601
+
+//P3 Money 0
+patch=1,EE,203A97F8,extended,C4653601
+
+//P4 Money 0
+patch=1,EE,203A9864,extended,C4653601

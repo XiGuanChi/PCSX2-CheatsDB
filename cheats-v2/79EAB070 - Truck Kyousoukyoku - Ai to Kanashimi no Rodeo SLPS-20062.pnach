@@ -1,0 +1,6 @@
+gametitle=Truck Kyousoukyoku - Ai to Kanashimi no Rodeo SLPS-20062
+//Does not decrease the remaining time
+patch=1,EE,101F7834,extended,00008D00
+
+//does not increase time
+patch=1,EE,101F780C,extended,00000000

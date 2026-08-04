@@ -1,0 +1,11 @@
+gametitle=Alias SLUS-20673
+//Infinite Health
+patch=1,EE,2013FAC8,extended,00000000
+patch=1,EE,1013FAF2,extended,00001000
+
+//Save Anywhere
+patch=1,EE,2023C104,extended,24030001
+patch=1,EE,2023C108,extended,AC431E5C
+
+//Infinite Ammo All Weapons
+patch=1,EE,2016F678,extended,24420000

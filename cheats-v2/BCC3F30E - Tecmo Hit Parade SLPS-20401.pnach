@@ -1,0 +1,19 @@
+gametitle=Tecmo Hit Parade SLPS-20401
+//Pleiads Infinite Lives 
+patch=1,EE,20173D10,extended,00000005
+
+//Senjo infinite credits After pressing the L1 button
+patch=1,EE,D019D9C2,extended,0000FBFF
+patch=1,EE,0024B682,extended,00000003
+
+//Star Force  infinite credits After pressing the R1 button
+patch=1,EE,D01AB642,extended,0000F7FF
+patch=1,EE,00259466,extended,00000003
+
+//Bomb Jack infinite credits After pressing the L2 button
+patch=1,EE,D018A442,extended,0000FEFF
+patch=1,EE,0023319B,extended,00000003
+
+//Solomon's Key infinite credits After pressing the R2 button
+patch=1,EE,D01CB042,extended,0000FDFF
+patch=1,EE,00274A47,extended,00000003

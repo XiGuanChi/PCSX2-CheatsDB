@@ -1,0 +1,11 @@
+gametitle=Disney's Bolt SLES-55428	
+//Infinite Energy (Hold: Down+Cross=Self Kill)
+patch=1,EE,2014CDF4,extended,00000000
+
+//Infinite Health
+patch=1,EE,00749F34,extended,00000058
+patch=1,EE,D07AF980,extended,0000BFBF
+patch=1,EE,00749F34,extended,00000050
+
+//Infinite Bolt Bar
+patch=1,EE,201504BC,extended,00000000

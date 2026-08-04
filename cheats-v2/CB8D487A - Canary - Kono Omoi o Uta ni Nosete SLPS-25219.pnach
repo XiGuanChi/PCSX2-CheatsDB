@@ -1,0 +1,4 @@
+gametitle=Canary - Kono Omoi o Uta ni Nosete SLPS-25219
+//CG mode fully opened
+patch=1,EE,401F3800,extended,00190001
+patch=1,EE,01010101,extended,00000000

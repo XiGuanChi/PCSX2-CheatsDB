@@ -1,0 +1,14 @@
+gametitle=Captain Scarlet SLES-54471
+//Infinite Time
+patch=1,EE,20147E28,extended,00000000
+
+//Infinite Health(All Levels)
+patch=1,EE,200C0200,extended,3C030035
+patch=1,EE,200C0204,extended,8c639640
+patch=1,EE,200C0208,extended,10600007
+patch=1,EE,200C0210,extended,3C044B64
+patch=1,EE,200C0214,extended,3484E1C0
+patch=1,EE,200C021C,extended,AC640D48
+patch=1,EE,200C0220,extended,AC600D4C
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,20202620,extended,08030080

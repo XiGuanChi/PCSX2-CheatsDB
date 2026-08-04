@@ -1,0 +1,33 @@
+gametitle=Bujingai - The Forsaken City SLES-52495
+//Infinite health
+patch=1,EE,20143D50,extended,E4A16E00
+
+//Infinite Swordplay Gauge
+patch=1,EE,20253C4C,extended,AC836E10
+
+//Infinite spell gauge
+patch=1,EE,20253CD4,extended,AC836E08
+
+//Max Orbs
+patch=1,EE,205F9568,extended,000F423F
+
+//Have all spells
+patch=1,EE,20131528,extended,00440821
+patch=1,EE,2013152C,extended,24020001
+patch=1,EE,20131530,extended,03E00008
+patch=1,EE,20131534,extended,A0220000
+
+//Unlock Stage Select
+patch=1,EE,005F89DA,extended,000000FF
+
+//Unlock Movie Viewer
+patch=1,EE,005F89DD,extended,000000FF
+
+
+//Unlock Character Viewer
+patch=1,EE,205F89D0,extended,FFFFFFFF
+patch=1,EE,105F89D4,extended,0000FFFF
+patch=1,EE,005F89D6,extended,000000FF
+
+//Unlock Lau Costume Setting
+patch=1,EE,005F89D9,extended,000000FF

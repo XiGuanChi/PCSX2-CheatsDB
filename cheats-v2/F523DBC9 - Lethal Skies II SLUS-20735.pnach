@@ -1,0 +1,17 @@
+gametitle=Lethal Skies II SLUS-20735
+//Guns Never Overheat
+patch=1,EE,20186CD8,extended,00000000
+
+//Press Select.+ L2.To Complete Mission
+patch=1,EE,D0453842,extended,0000FEFE
+patch=1,EE,204393BC,extended,00000002
+
+//Have All Planes
+patch=1,EE,4039B130,extended,00140001
+patch=1,EE,00000001,extended,00000000
+
+//Unlock All Campaign Missions
+patch=1,EE,4039B180,extended,00190001
+patch=1,EE,00000000,extended,00000001
+
+

@@ -1,0 +1,20 @@
+gametitle=Crocket Ban - King no Kiki wo Sukuu SLPM-65554
+//Infinite Health
+patch=1,EE,10A2A32C,extended,000003E8
+
+//Possession gold MAX
+patch=1,EE,105ED4C4,extended,0000270F
+
+//All transformation gimmick
+patch=1,EE,005ED4D5,extended,0000000F
+
+//Extra jump
+patch=1,EE,D0B4A4D4,extended,0000BFFF
+patch=1,EE,20A29AE0,extended,40A5C291
+
+//Bonus fully open
+patch=1,EE,406095C0,extended,000A0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,2060A4CC,extended,FFFFFFFF
+patch=1,EE,006095E9,extended,000000FF
+patch=1,EE,006095B5,extended,000000FF

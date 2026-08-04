@@ -1,0 +1,11 @@
+gametitle=Panzer Elite Action - Fields of Glory SLES-55406
+//Infinite Ammo
+patch=1,EE,202E9EDC,extended,00000000
+
+//Infinite Tank Armour
+patch=1,EE,202DC860,extended,3C0442C8
+patch=1,EE,202DC864,extended,AC440058
+patch=1,EE,202DC868,extended,00000000
+
+//Rapid Fire Cannon
+patch=1,EE,202EA4A0,extended,00000000

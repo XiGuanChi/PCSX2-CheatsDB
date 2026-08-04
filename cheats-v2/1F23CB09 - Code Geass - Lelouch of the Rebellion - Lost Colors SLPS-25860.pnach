@@ -1,0 +1,19 @@
+gametitle= Code Geass - Lelouch of the Rebellion - Lost Colors SLPS-25860
+//Voice Select / CG Gallery 100%
+patch=1,EE,404F0B20,extended,00100001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//MOVIE GALLERY fully open
+patch=1,EE,204F0B50,extended,FFFFFFFF
+
+//CG GALLERY Browse fully open
+patch=1,EE,20218DF4,extended,240200FF
+patch=1,EE,20218DF8,extended,A062000C
+
+//Fully open to make in the THEATER MODE
+patch=1,EE,20218DF4,extended,240200FF
+patch=1,EE,20218DF8,extended,A062000C
+patch=1,EE,20218CE4,extended,240200FF
+patch=1,EE,20218CE8,extended,A0620038
+patch=1,EE,204F1EE0,extended,FFFFFFFF
+

@@ -1,0 +1,9 @@
+gametitle=BloodRayne SLES-51474
+//All Cheats Unlocked
+patch=1,EE,203B7C08,extended,000000FF
+
+//Level Select
+patch=1,EE,200C0034,extended,34210100
+
+//Unlock God Mode
+patch=1,EE,200C0014,extended,34210001

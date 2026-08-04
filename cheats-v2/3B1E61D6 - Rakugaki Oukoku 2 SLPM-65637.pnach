@@ -1,0 +1,33 @@
+gametitle=Rakugaki Oukoku 2 SLPM-65637
+//Hero HP maxi 
+patch=1,EE,203FC790,extended,E6A00004
+
+//Hero PP maxi 
+patch=1,EE,2038A7DC,extended,00000000
+patch=1,EE,2038A828,extended,00000000
+patch=1,EE,2038A844,extended,8E230010
+
+//MAX level experience value available 
+patch=1,EE,2039B308,extended,3C06000F
+
+//Do not reduce capture count 
+patch=1,EE,2039B4A8,extended,24020005
+
+//Great damage with a single blow 
+patch=1,EE,203FCE60,extended,24010001
+patch=1,EE,203FCE64,extended,AE610004
+
+//Infinite can jump 
+patch=1,EE,2031701C,extended,3C010065
+patch=1,EE,20317020,extended,8C216B60
+patch=1,EE,20317024,extended,262204C0
+patch=1,EE,20317028,extended,10410015
+
+//story for collection box & card tricks fully open and cleared Story 
+patch=1,EE,41C4D7B0,extended,00120001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Watch movies and play for collection box card fully open
+patch=1,EE,4134B040,extended,00090001
+patch=1,EE,FFFFFFFF,extended,00000000
+

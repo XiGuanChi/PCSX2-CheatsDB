@@ -1,0 +1,20 @@
+gametitle=Arcana Heart SLPM-66850
+//Infinite HP Player 1
+patch=1,EE,204531E8,extended,00006510
+patch=1,EE,204531EC,extended,00006510
+
+//Player 2 ino Health press Select
+patch=1,EE,D047CE5C,extended,0000FFFE
+patch=1,EE,204542D4,extended,00000000
+
+//P1 Inf Homing
+patch=1,EE,20453004,extended,000011f8
+patch=1,EE,20453008,extended,000011f8
+patch=1,EE,2045300C,extended,000011f8
+
+//P1 Inf Super
+patch=1,EE,20453000,extended,00026000
+
+//Unlock Extras
+patch=1,EE,4031CDF0,extended,000B0001
+patch=1,EE,00000001,extended,00000000

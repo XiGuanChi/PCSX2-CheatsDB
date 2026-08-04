@@ -1,0 +1,12 @@
+gametitle=Aria - The Natural ~Tooi Yume no Mirage~ SLPM-66536
+//Bonus fully open
+patch=1,EE,20A815C0,extended,FFFFFFFF
+patch=1,EE,20A815C4,extended,FFFFFFFF
+
+//Max Porei time 
+patch=1,EE,21EF91AC,extended,0CDFE5FF
+
+//Boot To Debug Menu At anytime, to go back to it, press and hold Select button while entering any mode, such as the Options menu.
+patch=1,EE,0014CEE0,extended,00000000
+patch=1,EE,D047E782,extended,0000FFFE
+patch=1,EE,202741DC,extended,00000000

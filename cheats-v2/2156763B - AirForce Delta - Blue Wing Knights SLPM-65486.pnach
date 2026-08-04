@@ -1,0 +1,18 @@
+gametitle=AirForce Delta - Blue Wing Knights SLPM-65486
+//Infinite HP
+patch=1,EE,11C06458,extended,000003E7
+patch=1,EE,11BF0F24,extended,000003E7
+
+//Infinite Misiles
+patch=1,EE,11BF0F60,extended,000003E7
+
+//Infinite Special Weapon
+patch=1,EE,11BF0FD0,extended,000003E7
+
+//All aircraft possession
+patch=1,EE,404D70B0,extended,000E0003
+patch=1,EE,00000101,extended,00000000
+
+//Viewer like all
+patch=1,EE,404D658C,extended,003C0001
+patch=1,EE,01010101,extended,00000000

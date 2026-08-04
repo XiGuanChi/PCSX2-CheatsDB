@@ -1,0 +1,26 @@
+gametitle=The Matrix - Path of Neo SLES-53799
+//Infinite Health Big explosions can still damage you.
+patch=1,EE,200FFF00,extended,8E0402C0
+patch=1,EE,200FFF04,extended,AC4403C0
+patch=1,EE,200FFF08,extended,C44103C0
+patch=1,EE,200FFF0C,extended,C60002C0
+patch=1,EE,200FFF10,extended,080904B0
+patch=1,EE,202412B8,extended,0803FFC0
+
+//Infinite Focus
+patch=1,EE,20141274,extended,C48103D4
+
+//Infinite Ammo
+patch=1,EE,202DCFEC,extended,00000000
+
+//L1+L2 More Upgrade Points
+patch=1,EE,D044E382,extended,0000FAFF
+patch=1,EE,0046C070,extended,00000002
+
+//R1+R2 No Upgrade Points You can not advance until you have 0
+patch=1,EE,D044E382,extended,0000F5FF
+patch=1,EE,2046C070,extended,00000000
+
+//All Movies/Combos/Media
+patch=1,EE,404651B8,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000

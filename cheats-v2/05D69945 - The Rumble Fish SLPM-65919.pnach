@@ -1,0 +1,15 @@
+gametitle=The Rumble Fish SLPM-65919
+//Infinite Health P1
+patch=1,EE,20210CC8,extended,3C0143C8
+patch=1,EE,20210CE4,extended,AE210104
+patch=1,EE,20210CD0,extended,45000004
+
+//With SELECT button P2 Health 0
+patch=1,EE,20210CFC,extended,00000000
+patch=1,EE,D0351B82,extended,0000FFFE
+patch=1,EE,20210CFC,extended,AE400104
+
+//When you enter the gallery, the bonus is fully opened
+patch=1,EE,202487B0,extended,2401FFFF
+patch=1,EE,202487B4,extended,AC410004
+patch=1,EE,202487B8,extended,AC410000

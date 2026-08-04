@@ -1,0 +1,6 @@
+gametitle=Rule of Rose SCPS-15093
+//Infinite Health
+patch=1,EE,201FA124,extended,00A01021
+
+//Full recovery in the recovery items used
+patch=1,EE,201B5B84,extended,00000000

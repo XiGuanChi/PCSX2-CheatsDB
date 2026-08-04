@@ -1,0 +1,34 @@
+gametitle=Fuun Bakumatsuden SLPM-65813
+//Infinite HP
+patch=1,EE,2123BBEC,extended,00640060
+
+//Hero strength MAX
+patch=1,EE,1048CBFC,extended,000003E7
+patch=1,EE,1048CBFE,extended,000003E7
+
+//Hero brawn MAX
+patch=1,EE,1048CC00,extended,000003E7
+patch=1,EE,1048CC02,extended,000003E7
+
+//Agile hero MAX
+patch=1,EE,1048CC04,extended,000003E7
+patch=1,EE,1048CC06,extended,000003E7
+
+//Celebrity 999
+patch=1,EE,1048CC0A,extended,000003E7
+
+//Number 9999 people total punitive
+patch=1,EE,1048CC0C,extended,0000270F
+
+//The number 0 people total Hat
+patch=1,EE,1048CC0E,extended,00000000
+
+//All tools available
+patch=1,EE,0048D1F9,extended,00000001
+patch=1,EE,1048D1FA,extended,00000101
+patch=1,EE,4048D1FC,extended,00110001
+patch=1,EE,01010101,extended,00000000
+
+//All forms of acquisition
+patch=1,EE,4048CC50,extended,00700001
+patch=1,EE,01010101,extended,00000000

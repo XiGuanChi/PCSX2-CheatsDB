@@ -1,0 +1,12 @@
+gametitle=Amplitude SCES-51706
+//Infinite Energy
+patch=1,EE,2013B8D0,extended,03E00008
+
+//Finish Track For Max Score
+patch=1,EE,20278604,extended,2402270F
+
+//Scrambled Gem Mode
+patch=1,EE,0042E5AC,extended,00000001
+
+//Duel Authoring Mode
+patch=1,EE,0042E5A4,extended,00000001

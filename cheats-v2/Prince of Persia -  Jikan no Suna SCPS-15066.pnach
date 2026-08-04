@@ -1,0 +1,12 @@
+gametitle=Prince of Persia -  Jikan no Suna SCPS-15066
+//Infinite Health (invalid for traps and falling from heights)
+patch=1,EE,20303534,extended,24013634
+
+//The sands of time are infinite
+patch=1,EE,203346B8,extended,24420004
+
+//Sands of Time quick recovery
+patch=1,EE,2035F4BC,extended,24820004
+
+//Quick recovery of strength (drinking water for full recovery)
+patch=1,EE,2035F540,extended,2442000A

@@ -1,0 +1,4 @@
+gametitle=Poinie's Poin SCPS-15013
+//Infinite Health
+patch=1,EE,101F00BC,extended,00000C00
+patch=1,EE,101F00BE,extended,0000000C

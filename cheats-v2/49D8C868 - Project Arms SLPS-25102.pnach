@@ -1,0 +1,17 @@
+gametitle=Project Arms SLPS-25102
+//P1 Infinite Health
+//1035 F532 0000012C
+
+//Clear Time 00'00 "00
+patch=1,EE,20553990,extended,00000000
+
+//VS. Mode fully open
+patch=1,EE,203D7427,extended,FFFFFFFF
+patch=1,EE,003D742B,extended,000000FF
+
+//Mode vs. P1 Infinite Health
+patch=1,EE,1035F532,extended,00000258
+
+//Mode vs. P2 No Health After pressing the L3 button
+patch=1,EE,D157B602,extended,0000FFFD
+patch=1,EE,10360A32,extended,00000000

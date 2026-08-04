@@ -1,0 +1,13 @@
+gametitle=Kaido Battle - Touge no Densetsu SLPM-66022
+//CP 9999999900
+patch=1,EE,2075A808,extended,0013563B
+
+//65535 fans
+patch=1,EE,1075A814,extended,0000FFFF
+
+//With SELECT button SP0 of 2P
+patch=1,EE,D03F13C0,extended,00000001
+patch=1,EE,20B85DE8,extended,00000000
+
+
+

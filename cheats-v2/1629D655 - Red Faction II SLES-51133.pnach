@@ -1,0 +1,42 @@
+gametitle=Red Faction II SLES-51133
+//Infinite Health
+patch=1,EE,01CE35FC,extended,00000001
+
+//Infinite Grenades 
+patch=1,EE,01CE35FE,extended,00000001
+
+//Director's Cut 
+patch=1,EE,01CE3600,extended,00000001
+
+//Infinite Ammo 
+patch=1,EE,01CE35FD,extended,00000001
+
+//Level select Public Information Building 
+patch=1,EE,01CDCA28,extended,00000001
+
+//Shrike's Wild Ride 
+patch=1,EE,01CDD630,extended,00000001
+
+//Underground 
+patch=1,EE,01CDDD68,extended,00000001
+
+//Tank On The Town 
+patch=1,EE,01CDE708,extended,00000001
+
+//Sopot's Citadel 
+patch=1,EE,01CDEE40,extended,00000001
+
+//Hangin In The Hood 
+patch=1,EE,01CDFCB0,extended,00000001
+
+//Dancing With The Dead 
+patch=1,EE,01CE08B8,extended,00000001
+
+//A River Runs To It 
+patch=1,EE,01CE0FF0,extended,00000001
+
+//Inside The Nano Base 
+patch=1,EE,01CE1990,extended,00000001
+
+//In Sopot's Deadly Embrace 
+patch=1,EE,01CE2800,extended,00000001

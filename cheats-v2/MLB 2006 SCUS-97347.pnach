@@ -1,0 +1,9 @@
+gametitle=MLB 2006 SCUS-97347
+//Infinite Funds
+patch=1,EE,200C2000,extended,3E0405F5
+patch=1,EE,200C2004,extended,3484E0FF
+patch=1,EE,200C2008,extended,0818812C
+patch=1,EE,200C200C,extended,3C240000
+patch=1,EE,206202A8,extended,08030800
+patch=1,EE,206202AC,extended,00000000
+

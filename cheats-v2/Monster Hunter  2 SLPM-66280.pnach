@@ -1,0 +1,42 @@
+gametitle=Monster Hunter 2 SLPM-66280
+//Gallery fully open
+patch=1,EE,103F30AC,extended,0000FFFF
+
+//Max Money 
+patch=1,EE,203C6FE0,extended,0098967F
+
+//Infinite Health 
+patch=1,EE,105B396C,extended,00000096
+patch=1,EE,105F8C92,extended,00000096
+patch=1,EE,205F90AC,extended,00960096
+
+//Stamina infinite
+patch=1,EE,105F9064,extended,000001C2
+patch=1,EE,105F91AA,extended,000001C2
+
+//Ques ttime set to 50 minutes (L3+L1)
+patch=1,EE,D024BDE2,extended,0000FDFB
+patch=1,EE,205D8270,extended,00015F90
+
+//No Weapon sharpness decrease
+patch=1,EE,105F91A6,extended,0000018F
+
+//All Movies in Gallery
+patch=1,EE,D03BDA08,extended,0000102B
+patch=1,EE,203BDA08,extended,24020001
+
+//Katana Slash Gauge Always Full
+patch=1,EE,105F9146,extended,00000064
+
+//Infinite Carves
+patch=1,EE,D03A5E2C,extended,0000FFFF
+patch=1,EE,203A5E2C,extended,24830000
+
+//Infinite Mining/Bugging/Gathering
+patch=1,EE,D03B14A4,extended,00000050
+patch=1,EE,203B14A4,extended,00000000
+
+//Fast Carving/Mining/Bugging/Gathering (hold L3 meanwhile)
+patch=1,EE,D024BDE2,extended,0000FDFF
+patch=1,EE,105F89D7,extended,00000000
+

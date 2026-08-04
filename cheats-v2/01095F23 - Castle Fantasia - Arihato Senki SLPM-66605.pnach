@@ -1,0 +1,20 @@
+gametitle=Castle Fantasia - Arihato Senki SLPM-66605
+//Infinite HP Main Character
+patch=1,EE,21C64722,extended,000003E7
+patch=1,EE,21C64726,extended,000003E7
+
+//Infinite HP Pink Hair Girl
+patch=1,EE,21C64882,extended,000003E7
+patch=1,EE,21C64886,extended,000003E7
+
+//Infinite HP Green Hair Girl
+patch=1,EE,21C649E2,extended,000003E7
+patch=1,EE,21C649E6,extended,000003E7
+
+//Art Gallery fully open
+patch=1,EE,403E20B0,extended,00500001
+patch=1,EE,01010101,extended,00000000
+
+//Memorial fully open
+patch=1,EE,403DE0B4,extended,00220001
+patch=1,EE,00000001,extended,00000000

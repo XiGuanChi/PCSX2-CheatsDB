@@ -1,0 +1,29 @@
+gametitle=Pirates - Legend of the Black Buccaneer SLUS-21478
+//Infinite Energy
+patch=1,EE,205FFCF4,extended,00000190
+
+//Infinite Health
+patch=1,EE,205FFCE4,extended,00000384
+
+//Infinite Offerings
+patch=1,EE,214FE188,extended,000003E8
+
+//Black Buccaneer's Story Complete
+patch=1,EE,214FDEDC,extended,00000006
+
+//De La Cruz Story Complete
+patch=1,EE,214FDF48,extended,00000006
+
+//Francis Story Complete
+patch=1,EE,214FDF24,extended,00000006
+
+//La Borne's Story Complete
+patch=1,EE,214FDF00,extended,00000008
+
+//Unlock All Art Gallery 
+patch=1,EE,204365FC,extended,2401FFFF
+patch=1,EE,20436604,extended,AE010010
+
+//Unlock All Cinematics 
+patch=1,EE,204365EC,extended,2401FFFF
+patch=1,EE,204365F0,extended,AC4100C0

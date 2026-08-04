@@ -1,0 +1,30 @@
+gametitle=Ace Combat 4 - Shattered Skies SLUS-20152
+//All Aircraft
+patch=1,EE,202A0320,extended,FFFFFFFF
+patch=1,EE,102A0324,extended,000003FF
+
+//Max credits
+patch=1,EE,202A0D30,extended,05F5E0FF
+
+//Infinite health
+patch=1,EE,2153E3F8,extended,3CF82DAF
+
+//Infinite missiles
+patch=1,EE,201639FC,extended,240200FF
+patch=1,EE,20163A00,extended,A282015A
+
+//The code is not invincible and can't through the ground. The aircraft only not crash if hit by object ( ground, water, building, enemy )
+patch=1,EE,2011C15C,extended,00000000
+patch=1,EE,2011C1C4,extended,00000000
+
+//Quick Launch Missiles
+patch=1,EE,001248AE,extended,00000080
+patch=1,EE,0012534A,extended,00000080
+
+//Missiles Increase After Used ( R1+Triangle=On // R1+X=Off )
+patch=1,EE,E002E7FF,extended,002A0082
+patch=1,EE,10125350,extended,00000001
+patch=1,EE,101257F0,extended,00000001
+patch=1,EE,E002B7FF,extended,002A0082
+patch=1,EE,10125350,extended,0000FFFF
+patch=1,EE,101257F0,extended,0000FFFF

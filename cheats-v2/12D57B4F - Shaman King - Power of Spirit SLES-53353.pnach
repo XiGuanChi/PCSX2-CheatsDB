@@ -1,0 +1,8 @@
+gametitle=Shaman King - Power of Spirit SLES-53353
+//Yoh Asakura Infinite HP
+patch=1,EE,104d4424,extended,0000270f
+patch=1,EE,106c214c,extended,0000270f
+
+//Yoh Asakura Infinite Strengh
+patch=1,EE,104d4426,extended,0000270f
+patch=1,EE,106c214e,extended,0000270f

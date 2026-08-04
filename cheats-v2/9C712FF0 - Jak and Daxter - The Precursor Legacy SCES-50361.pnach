@@ -1,0 +1,24 @@
+gametitle=Jak and Daxter - The Precursor Legacy SCES-50361
+//Infinite Hp
+patch=1,EE,20182970,extended,41000000
+
+//Infinite Hp (ASM)
+patch=1,EE,20786F38,extended,00000000
+
+//Carg 200 fish in minigame
+patch=1,EE,201948B4
+
+//No escape fish in minigame
+patch=1,EE,201948B8,extended,00000000
+
+//have access to all levels
+patch=1,EE,20642efc,extended,01010101
+patch=1,EE,20642f00,extended,01010101
+patch=1,EE,20642f04,extended,01010101
+patch=1,EE,20642f08,extended,01010101
+
+//have all 200 eggs
+patch=1,EE,20642e9c,extended,c8c8c8c8
+patch=1,EE,20642ea0,extended,c8c8c8c8
+patch=1,EE,20642ea4,extended,c8c8c8c8
+patch=1,EE,20642ea8,extended,c8c8c8c8

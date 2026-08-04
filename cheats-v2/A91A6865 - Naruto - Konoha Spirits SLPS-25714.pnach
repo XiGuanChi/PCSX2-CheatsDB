@@ -1,0 +1,59 @@
+gametitle=Naruto - Konoha Spirits SLPS-25714
+//Money 999999 cars
+patch=1,EE,203D977C,extended,000F423F
+
+//Maximum when money fluctuates
+patch=1,EE,201B99E8,extended,00000000
+
+//Virtue maximum when leveling up
+patch=1,EE,201B44A4,extended,3C020098
+patch=1,EE,201B44B0,extended,3442967F
+
+//After the prologue, all characters appear & mission 46/46  In addition to the appearance of all characters, the mission has also been cleared.
+patch=1,EE,203E7DAC,extended,FFFFFFFF
+patch=1,EE,203E7DB0,extended,FFFFFFFF
+patch=1,EE,203E7DDC,extended,FFFFFFFF
+patch=1,EE,203E7DE0,extended,FFFFFFFF
+patch=1,EE,203E7DE4,extended,FFFFFFFF
+patch=1,EE,203E7DE8,extended,FFFFFFFF
+patch=1,EE,003E7DEC,extended,000000FF
+patch=1,EE,003E7DDB,extended,000000FF
+
+//Looking at the status, ability 999
+patch=1,EE,201BB7B4,extended,3C0103E7
+patch=1,EE,201BB7B8,extended,342103E7
+patch=1,EE,201BB7BC,extended,AC410038
+patch=1,EE,201BB7C0,extended,AC41003C
+patch=1,EE,201BB7C4,extended,AC410040
+
+//Picking up a virtue is the maximum virtue
+patch=1,EE,201B436C,extended,00000000
+
+//When you pick up the chakra balls, the chakras are full
+patch=1,EE,2017A990,extended,10000016
+
+//Does not lose strength during battle
+patch=1,EE,20178A18,extended,240203E7
+
+//Chakra does not decrease during battle
+patch=1,EE,20178A38,extended,3C0203E7
+
+//99  ninja tools (excluding throwing ninja tools)
+patch=1,EE,201B7FA8,extended,00000000
+
+//99 Throw Ninja Tools
+patch=1,EE,103D9CDE,extended,00000063
+
+//99  total consumption ninja tools (excluding throwing ninja tools)
+patch=1,EE,203D9B9C,extended,63636363
+patch=1,EE,203D9BA0,extended,63636363
+patch=1,EE,203D9BA4,extended,63636363
+patch=1,EE,203D9BA8,extended,63636363
+patch=1,EE,203D9BBC,extended,63636363
+patch=1,EE,203D9BC0,extended,63636363
+patch=1,EE,203D9C1C,extended,63636363
+patch=1,EE,103D9C20,extended,00006363
+
+//When you look at the skill box, the skill is fully opened
+patch=1,EE,202D51A8,extended,240200FF
+patch=1,EE,202D51AC,extended,A0620000

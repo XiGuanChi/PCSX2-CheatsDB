@@ -1,0 +1,17 @@
+gametitle=Scandal SCPS-15001
+//35 clear endings
+patch=1,EE,201000BC,extended,FFFFFFFF
+patch=1,EE,001000C0,extended,1CDE2F07
+
+//Achievement rate 100%
+patch=1,EE,20217614,extended,2401FFFF
+patch=1,EE,20217630,extended,AC610000
+patch=1,EE,20217634,extended,2403FFFF
+
+//gift appearance
+patch=1,EE,2021E7E4,extended,2401FFFF
+patch=1,EE,2021E7E8,extended,AC410190
+
+//all presents
+patch=1,EE,20224174,extended,24030001
+patch=1,EE,20224178,extended,AC430000

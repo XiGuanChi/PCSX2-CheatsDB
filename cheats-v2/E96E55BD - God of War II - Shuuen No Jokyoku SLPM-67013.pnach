@@ -1,0 +1,48 @@
+gametitle=God of War II - Shuuen No Jokyoku SLPM-67013
+//Infinite Health
+patch=1,EE,201D944C,extended,C48C017C
+patch=1,EE,2021BCFC,extended,0C03FE05
+patch=1,EE,2020C740,extended,0C03FE00
+patch=1,EE,200FF800,extended,C6010178
+patch=1,EE,200FF804,extended,3C190010
+patch=1,EE,200FF808,extended,AF30F7D0
+patch=1,EE,200FF80C,extended,03E00008
+patch=1,EE,200FF814,extended,C6150178
+patch=1,EE,200FF818,extended,3C190010
+patch=1,EE,200FF81C,extended,8F39F7D0
+patch=1,EE,200FF820,extended,17300002
+patch=1,EE,200FF828,extended,4480A000
+patch=1,EE,200FF82C,extended,03E00008
+
+//L1 button in stamina recovery
+patch=1,EE,20213F94,extended,C443017C
+patch=1,EE,20213F9C,extended,00000000
+patch=1,EE,D0330FDC,extended,0000FBFF
+patch=1,EE,20213F9C,extended,E4430178
+
+//Magical infinite
+patch=1,EE,203373C0,extended,43480000
+patch=1,EE,203373C8,extended,43480000
+
+//Red Orb maximum
+patch=1,EE,203373D0,extended,000F423F
+
+//Does not decrease magic gauge
+patch=1,EE,202DA2C0,extended,00000001
+patch=1,EE,203373C0,extended,43480000
+
+//Does not decrease Titan gauge
+patch=1,EE,202DA2C4,extended,00000001
+patch=1,EE,203373C8,extended,42C80000
+
+//Unlock Treasures
+patch=1,EE,202DACD4,extended,FFFFFFFF
+
+//Have All Gorgon Eyes
+patch=1,EE,003373DD,extended,00000012
+
+//Have All Phoenix Feathers
+patch=1,EE,003373F7,extended,00000012
+
+//Have All Cyclops Eyes
+patch=1,EE,003373FC,extended,00000014

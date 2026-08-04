@@ -1,0 +1,30 @@
+gametitle=Street Boltz SLES-53407
+//Infinite Zeny
+patch=1,EE,2026dc30,extended,000f4240
+patch=1,EE,2035cec8,extended,000f4240
+
+//Infinite Energy
+patch=1,EE,0035cecc,extended,00000018
+
+//max.Energy
+patch=1,EE,0035ced0,extended,00000018
+
+//Infinite Special 
+patch=1,EE,2035ced8,extended,3f800000
+patch=1,EE,2035cedc,extended,3f800000
+
+//Stage Beendet 
+//Clear Time 1.600.000 PT
+patch=1,EE,202c6e3c,extended,00186a00
+patch=1,EE,202c6e50,extended,00186a00
+
+//Down the Enemy 1.600.000 PT
+patch=1,EE,202c6e40,extended,00186a00
+patch=1,EE,202c6e54,extended,00186a00
+
+//max.Combos 1.600.000 PT
+patch=1,EE,202c6e44,extended,00186a00
+patch=1,EE,202c6e58,extended,00186a00
+
+//Unlock Mayuki,Izumi,Shousuke und Ginji
+patch=1,EE,0036324c,extended,00000000

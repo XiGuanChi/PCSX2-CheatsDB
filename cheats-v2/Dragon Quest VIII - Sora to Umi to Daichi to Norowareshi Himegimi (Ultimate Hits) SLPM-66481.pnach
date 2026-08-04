@@ -1,0 +1,54 @@
+gametitle=Dragon Quest VIII: Sora to Umi to Daichi to Norowareshi Himegimi (Ultimate Hits)SLPM-66481
+//Possession money 999999G
+patch=1,EE,2079ADE0,extended,000F423F
+
+//main character
+
+//HP999
+patch=1,EE,1078817C,extended,000003E7
+patch=1,EE,10788180,extended,000003E7
+
+//MP999
+patch=1,EE,10788184,extended,000003E7
+patch=1,EE,10788188,extended,000003E7
+
+//Chikara 255
+patch=1,EE,10788076,extended,000000FF
+
+//Quickness 255
+patch=1,EE,10788078,extended,000000FF
+
+//Minomori 255
+patch=1,EE,1078807A,extended,000000FF
+
+//Skill 255
+patch=1,EE,1078807C,extended,000000FF
+
+//Yeah goodness 255
+patch=1,EE,1078807E,extended,000000FF
+
+//Bianca
+
+//HP999
+patch=1,EE,10788434,extended,000003E7
+patch=1,EE,10788438,extended,000003E7
+
+//MP999
+patch=1,EE,1078843C,extended,000003E7
+patch=1,EE,10788440,extended,000003E7
+
+//Chikara 255
+patch=1,EE,1078832E,extended,000000FF
+
+//Quickness 255
+patch=1,EE,10788330,extended,000000FF
+
+//Minomori 255
+patch=1,EE,10788332,extended,000000FF
+
+//Skill 255
+patch=1,EE,10788334,extended,000000FF
+
+//Yeah goodness 255
+patch=1,EE,10788336,extended,000000FF
+

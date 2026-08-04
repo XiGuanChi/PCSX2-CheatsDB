@@ -1,0 +1,9 @@
+gametitle=Code of the Samurai SLES-54615
+//Infinte Health 999
+patch=1,EE,20D91DCC,extended,000003E7
+
+//Max Attack 999
+patch=1,EE,20D91DD0,extended,000003E7
+
+//Max Defense 999
+patch=1,EE,20D91DD4,extended,000003E7

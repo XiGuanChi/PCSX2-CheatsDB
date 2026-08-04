@@ -1,0 +1,62 @@
+gametitle=Pro Yakyuu Spirits 2 SLPM-65929
+//With home run competition VP maximum
+patch=1,EE,202B39A4,extended,00000000
+
+//With R1 + R2 button no count
+patch=1,EE,D1CE12E8,extended,0000000A
+patch=1,EE,20551DA0,extended,00000000
+patch=1,EE,D1CE12E8,extended,0000000A
+patch=1,EE,20551DA4,extended,00000000
+patch=1,EE,D1CE12E8,extended,0000000A
+patch=1,EE,20551DA8,extended,00000000
+
+//With L1 + L2 button 2 strikes, 0 balls, 2 out
+patch=1,EE,D1CE12E8,extended,00000005
+patch=1,EE,20551DA0,extended,00000002
+patch=1,EE,D1CE12E8,extended,00000005
+patch=1,EE,20551DA4,extended,00000000
+patch=1,EE,D1CE12E8,extended,00000005
+patch=1,EE,20551DA8,extended,00000002
+
+
+//With SELECT button pitcher point maximum
+patch=1,EE,D1CE12E8,extended,00000100
+patch=1,EE,21E089AC,extended,0000270F
+
+//With SELECT button stamina point maximum
+patch=1,EE,D1CE12E8,extended,00000100
+patch=1,EE,21E089B0,extended,0000270F
+
+//With SELECT button mental point maximum
+patch=1,EE,D1CE12E8,extended,00000100
+patch=1,EE,21E089B4,extended,0000270F
+
+//With SELECT button sphere kind point maximum
+patch=1,EE,D1CE12E8,extended,00000100
+patch=1,EE,21E089B8,extended,0000270F
+
+//With SELECT button meat point maximum
+patch=1,EE,D1CE12E8,extended,00000100
+patch=1,EE,21E089BC,extended,0000270F
+
+//With SELECT button power point maximum
+patch=1,EE,D1CE12E8,extended,00000100
+patch=1,EE,21E089C0,extended,0000270F
+
+//With SELECT button running power point maximum
+patch=1,EE,D1CE12E8,extended,00000100
+patch=1,EE,21E089C4,extended,0000270F
+
+//With SELECT button defense power point maximum
+patch=1,EE,D1CE12E8,extended,00000100
+patch=1,EE,21E089C8,extended,0000270F
+
+//With SELECT button spirits point maximum
+patch=1,EE,D1CE12E8,extended,00000100
+patch=1,EE,21E089CC,extended,000003E7
+
+
+
+//With SELECT button charisma & support ratio 100
+patch=1,EE,D1CE12E8,extended,00000100
+patch=1,EE,205FBA9C,extended,00006464

@@ -1,0 +1,30 @@
+gametitle=Onimusha SLPM-65010
+//Do not reduce physical strength
+patch=1,EE,10286EA0,extended,000000FF
+
+//Maximum strength
+patch=1,EE,10286E9E,extended,000000FF
+
+//Maximum pep
+patch=1,EE,10285FBE,extended,000000FF
+
+//Soul Max
+patch=1,EE,202865B4,extended,00970FDE
+
+//Enemy death blow
+patch=1,EE,201632BC,extended,2402FFFF
+
+//Sword pep MAX Zan thunder
+patch=1,EE,1028676E,extended,000000FF
+
+//Fire dragon sword pep MAX"
+patch=1,EE,10286770,extended,000000FF
+
+//Gale sword pep MAX
+patch=1,EE,10286772,extended,000000FF
+
+//Total MAX of the soul
+patch=1,EE,202865B8,extended,0001869F
+
+//Hidden element fully open choose the difficulty level of the game and special costume When picture privilege, demon spirit is added to the menu, I started in the from the beginning] the game.
+patch=1,EE,20285CB4,extended,000000FF

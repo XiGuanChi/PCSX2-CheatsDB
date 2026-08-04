@@ -1,0 +1,19 @@
+gametitle=Growlanser VI - Precarious World SLPM-66716
+//Maximum acquisition experience value
+patch=1,EE,202B2B00,extended,14000003
+
+//Maximum possession gold
+patch=1,EE,2050DD14,extended,000F423F
+
+//Maximum status at the level up STR
+patch=1,EE,202B25D8,extended,14000003
+
+//Maximum status at the level up DEX
+patch=1,EE,202B2600,extended,10000075
+
+//Maximum status at the level up INT
+patch=1,EE,202B25F0,extended,1000007
+
+//With status fluctuation of Yuri all maximum
+patch=1,EE,40268F1C,extended,0008000C
+patch=1,EE,00E0282D,extended,00000000

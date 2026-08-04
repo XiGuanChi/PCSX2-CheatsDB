@@ -1,0 +1,35 @@
+gametitle=The Punisher SLES-53203
+//Infinite Health
+patch=1,EE,201283b4,extended,3C0143FA
+patch=1,EE,20128420,extended,AE410284
+
+//Max High Score
+patch=1,EE,2054237C,extended,0008967F
+
+//Infinite Slaughter Mode
+patch=1,EE,205422D8,extended,42C80000
+
+//No Recoil
+patch=1,EE,2017d770,extended,03E00008
+patch=1,EE,2017d774,extended,00000000
+
+//Infinite Ammo-Shotguns
+patch=1,EE,2028e608,extended,00000000
+
+//Infinite Ammo-Tank/Grenade
+patch=1,EE,202900a8,extended,00000000
+
+//Infinite Ammo-Flame Thrower
+patch=1,EE,202e7738,extended,00000000
+
+//Infinite Ammo-All Other
+patch=1,EE,201ee208,extended,00000000
+
+//Infinite Grenades
+patch=1,EE,2023e148,extended,00000000
+
+//Infinite Points
+patch=1,EE,21B4BC50,extended,0098967F
+
+//Infinite Unspent Points Usage
+patch=1,EE,20321bbc,extended,00000000

@@ -1,0 +1,21 @@
+gametitle=Hulk SLPS-25272
+//Immortal
+patch=1,EE,20BEFF80,extended,00000000
+
+//Self-renewal
+patch=1,EE,20BEFFA8,extended,00000000
+
+//Full of anger
+patch=1,EE,20BEFFD0,extended,00000000
+
+//Infinite continuation
+patch=1,EE,20BEFFF8,extended,00000000
+
+//Double the Hulk's HP
+patch=1,EE,20BF0020,extended,00000000
+
+//Gray Hulk available
+patch=1,EE,20BEFAA8,extended,00000000
+
+//All levels
+patch=1,EE,20BF0160,extended,00000000

@@ -1,0 +1,70 @@
+gametitle=Star Ocean - Till the End of Time  - Director's Cut SLPM-65438-9
+//MAX when the heat up gauge rises
+patch=1,EE,D03F7188,extended,00001BB2
+patch=1,EE,203F7188,extended,2A010000
+
+//999 with CHAIN
+patch=1,EE,D03F70F4,extended,000027C0
+patch=1,EE,203F70F4,extended,70000F88
+
+//MP99999
+patch=1,EE,D03FA7C2,extended,00000062
+patch=1,EE,203FA7C0,extended,0060280A
+
+//HP99999
+patch=1,EE,D03FAB92,extended,00000062
+patch=1,EE,203FAB90,extended,0060280A
+
+//Acquired Fol MAX after battle
+patch=1,EE,D0253312,extended,00001420
+patch=1,EE,20253310,extended,00000000
+
+//Recover by HP fluctuation during battle
+patch=1,EE,D01E5682,extended,00000062
+patch=1,EE,201E5680,extended,0060280A
+
+//Recover by MP fluctuation during battle
+patch=1,EE,D01E4F42,extended,00000062
+patch=1,EE,201E4F40,extended,0060280A
+
+//Guts does not decrease with special skill & heraldic arts
+patch=1,EE,D0290552,extended,0000E615
+patch=1,EE,20290550,extended,AE000000
+
+//Items do not decrease during battle
+patch=1,EE,D027448C,extended,0000082B
+patch=1,EE,2027448C,extended,24010000
+
+//save anywhere
+patch=1,EE,20267B88,extended,24080001
+patch=1,EE,20267B8C,extended,A0680088
+patch=1,EE,20267B94,extended,1273000C
+
+//always a treasure jewel
+patch=1,EE,D02D8392,extended,00001840
+patch=1,EE,202D8390,extended,24020002
+
+//always safety jewel
+patch=1,EE,D02D83BE,extended,00001840
+patch=1,EE,202D83BC,extended,24020002
+
+//Shop all items 1 folder
+patch=1,EE,D02FA782,extended,00001440
+patch=1,EE,202FA780,extended,14210003
+
+//All items available in the shop
+patch=1,EE,202FA154,extended,24020014
+patch=1,EE,202FA504,extended,24030017
+patch=1,EE,202FA8FC,extended,10C60006
+patch=1,EE,202FA91C,extended,105F0034
+patch=1,EE,202FA984,extended,11080013
+
+//9999 when distributing SP
+patch=1,EE,D035614C,extended,0000200A
+patch=1,EE,2035614C,extended,00052025
+
+//One hit kill
+patch=1,EE,201E4F68,extended,24037D72
+patch=1,EE,201E4F70,extended,24027D72
+patch=1,EE,201E56A8,extended,24037D72
+patch=1,EE,201E56B0,extended,24027D72

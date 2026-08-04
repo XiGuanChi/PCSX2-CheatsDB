@@ -1,0 +1,24 @@
+gametitle=Spider-Man SLPM-65205
+//Iinvincible
+patch=1,EE,105C57C0,extended,00000001
+
+//The web can be used endlessly
+patch=1,EE,019C56EC,extended,00000001
+
+//Stage selection / Full movie open
+patch=1,EE,019C56AC,extended,00000001
+patch=1,EE,019C56B0,extended,00000001
+patch=1,EE,019C56B4,extended,00000001
+patch=1,EE,019C56F8,extended,00000001
+
+//Added NEXT STAGE  to the pause menu
+patch=1,EE,019C56F4,extended,00000001
+
+//All combos will be available
+patch=1,EE,019C56F0,extended,00000001
+
+//No longer overheats when using Green Goblins
+patch=1,EE,019C5710,extended,00000001
+
+//Bowling appears in training
+patch=1,EE,019C56AC,extended,00000001

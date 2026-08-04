@@ -1,0 +1,32 @@
+gametitle=God of War SCUS-97399
+//Enable All Magic
+patch=1,EE,10302D42,extended,0000FFFF
+
+//Infinite Health
+patch=1,EE,20795978,extended,42C80000
+
+//Infinite Magic Energy
+patch=1,EE,20302D1C,extended,42C80000
+
+//Infinite Rage of the Gods
+patch=1,EE,20302D20,extended,42C80000
+
+//Max Level
+patch=1,EE,20302D28,extended,00007530
+
+//P1 Press L1+Down To Refill Health For Your Family
+patch=1,EE,200C0220,extended,8E61017C
+patch=1,EE,200C0224,extended,AE610178
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,8E700000
+patch=1,EE,D02FDA9D,extended,0000FBBF
+patch=1,EE,201B4E5C,extended,0C030088
+patch=1,EE,D02FDA9D,extended,0010FBBF
+patch=1,EE,201B4E5C,extended,8E700000
+
+//Unlock All Treasures
+patch=1,EE,202A12C8,extended,FFFFFFFF
+
+//Press Digital Pad Down + L1 simultaneously to activate the Save-Mode
+patch=1,EE,D02FDA9C,extended,0000FBBF
+patch=1,EE,0029CAEC,extended,00000001

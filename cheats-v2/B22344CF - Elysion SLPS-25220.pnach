@@ -1,0 +1,7 @@
+gametitle=Elysion SLPS-25220
+//Art Gallery & ending list unlocked
+patch=1,EE,401EC630,extended,001C0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Display Debug Information
+patch=1,EE,20259D18,extended,00000000

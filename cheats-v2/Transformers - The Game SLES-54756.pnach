@@ -1,0 +1,40 @@
+gametitle=Transformers - The Game SLES-54756
+//Infinite Time
+patch=1,EE,2024F2A0,extended,46000806
+
+//Infinite Life Force
+patch=1,EE,201190DC,extended,46000306
+patch=1,EE,201195D0,extended,46000306
+//The Life code gives life to enemy bots too, so it's useful only in missions against humans.
+
+//Infinite Weapon Energy
+patch=1,EE,2015EB78,extended,00000000
+
+//Each cube x5
+patch=1,EE,2024BE94,extended,24420005
+
+//Each cube x10
+patch=1,EE,2024BE94,extended,2442000A
+
+//Unlock Gallery Images
+patch=1,EE,40D0AE60,extended,009E0008
+patch=1,EE,00000002,extended,00000000
+
+//Unlock Movies
+patch=1,EE,40D0C2C0,extended,00050008
+patch=1,EE,00000002,extended,00000000
+patch=1,EE,40D0C370,extended,00020008
+patch=1,EE,00000002,extended,00000000
+
+//Alternate Unlock Images and Movies
+patch=1,EE,201B7098,extended,24090002
+patch=1,EE,201B709C,extended,AC490000
+patch=1,EE,201B70A0,extended,24020001
+
+//Press Left Active INf HP
+patch=1,EE,204D30B0,extended,00000001
+patch=1,EE,204D30B4,extended,00000000
+
+//Press Right Active All Missions
+patch=1,EE,204D30B8,extended,00020000
+patch=1,EE,204D30BC,extended,00000000

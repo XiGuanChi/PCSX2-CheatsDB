@@ -1,0 +1,12 @@
+gametitle=Gallop Racer 2003 - A New Breed SLUS-20662
+//Infinite Stamina
+patch=1,EE,204B2A10,extended,00180000
+
+//Always Low Time
+patch=1,EE,204B2954,extended,00000000
+
+//Max Money
+patch=1,EE,204098EC,extended,05F5E0FF
+
+//Max Points
+patch=1,EE,204098F4,extended,05F5E0FF

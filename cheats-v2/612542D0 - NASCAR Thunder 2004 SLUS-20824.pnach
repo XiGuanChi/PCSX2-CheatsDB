@@ -1,0 +1,164 @@
+gametitle=NASCAR Thunder 2004 SLUS-20824
+//Infinite Tire Wear
+patch=1,EE,20117F20,extended,00000000
+
+//Infinite Fuel
+patch=1,EE,2018D1C4,extended,00000000
+patch=1,EE,201CBCF0,extended,00000000
+
+//Never Fail Challenge For Out Of Contention
+patch=1,EE,1026798E,extended,00001000
+
+//Never Fail Challenge For Wreckless Driving
+patch=1,EE,10267A26,extended,00001000
+
+//Never Fail Challenge For Leaving Racing Surfaces
+patch=1,EE,10267B16,extended,00001000
+
+//Create A Car For max.Geld / Max Money (Career Mode)
+patch=1,EE,D1F52CE0,extended,00002AFC
+patch=1,EE,21F52D14,extended,0098967F
+
+
+//Unlock Alternate Driver Codes ==
+
+//Christian Fittipaldi
+patch=1,EE,01F6150D,extended,00000001
+
+//Jeremy Mayfield
+patch=1,EE,01F61531,extended,00000001
+
+//Ward Burton
+patch=1,EE,01F61579,extended,00000001
+
+//Johnny Benson
+patch=1,EE,01F6159D,extended,00000001
+
+//Kevin Harvick
+patch=1,EE,01F615C1,extended,00000001
+
+//Dale Earnhardt Jr.
+patch=1,EE,01F615E5,extended,00000001
+
+//Bill Elliot
+patch=1,EE,01F61609,extended,00000001
+
+//Jeff Gordon
+patch=1,EE,01F6162D,extended,00000001
+
+//Mike Skinner
+patch=1,EE,01F61651,extended,00000001
+
+//Dale Jarrett
+patch=1,EE,01F61699,extended,00000001
+
+//Matt Kenseth
+patch=1,EE,01F616BD,extended,00000001
+
+//Bobby Labonte
+patch=1,EE,01F616E1,extended,00000001
+
+//Terry Labonte
+patch=1,EE,01F61705,extended,00000001
+
+//Kurt Busch
+patch=1,EE,01F61729,extended,00000001
+
+//Sterling Marlin
+patch=1,EE,01F6174D,extended,00000001
+
+//Mark Martin
+patch=1,EE,01F61771,extended,00000001
+
+//Joe Nemechek
+patch=1,EE,01F61795,extended,00000001
+
+//Jeff Green
+patch=1,EE,01F617B9,extended,00000001
+
+//Kyle Petty
+patch=1,EE,01F617DD,extended,00000001
+
+//Michael Waltrip
+patch=1,EE,01F61801,extended,00000001
+
+//Elliott Sadler
+patch=1,EE,01F6186D,extended,00000001
+
+//Ricky Rudd
+patch=1,EE,01F61891,extended,00000001
+
+//Jerry Nadeau
+patch=1,EE,01F618B5,extended,00000001
+
+//Robby Gordon
+patch=1,EE,01F618D9,extended,00000001
+
+//Tony Stewart
+patch=1,EE,01F618FD,extended,00000001
+
+//Rusty Wallace
+patch=1,EE,01F61945,extended,00000001
+
+//Jamie McMurray
+patch=1,EE,01F619B1,extended,00000001
+
+//Ryan Newman
+patch=1,EE,01F61D35,extended,00000001
+
+//Steve Park
+patch=1,EE,01F61D59,extended,00000001
+
+//Hermie Sadler
+patch=1,EE,01F61DE9,extended,00000001
+
+//Casey Mears
+patch=1,EE,01F61E79,extended,00000001
+
+//Kenny Wallace
+patch=1,EE,01F61FBD,extended,00000001
+
+//Ken Schrader
+patch=1,EE,01F61FE1,extended,00000001
+
+//Brett Bodine
+patch=1,EE,01F62005,extended,00000001
+
+//Kevin Lepage
+patch=1,EE,01F6204D,extended,00000001
+
+//Jimmie Johnson
+patch=1,EE,01F62095,extended,00000001
+
+//Greg Biffle
+patch=1,EE,01F6243D,extended,00000001
+
+//Ricky Craven
+patch=1,EE,01F62461,extended,00000001
+
+//Have All Thunder Plates
+patch=1,EE,200C0200,extended,5F442F01
+patch=1,EE,200C0204,extended,90836761
+patch=1,EE,200C0208,extended,D0AFAC93
+patch=1,EE,200C020C,extended,E2DCD6D2
+patch=1,EE,200C0210,extended,0000E8E6
+patch=1,EE,200C0220,extended,3C0401FD
+patch=1,EE,200C0224,extended,34846630
+patch=1,EE,200C0228,extended,240500AB
+patch=1,EE,200C022C,extended,AC850000
+patch=1,EE,200C0230,extended,3C01000C
+patch=1,EE,200C0234,extended,90260200
+patch=1,EE,200C0238,extended,10C0000A
+patch=1,EE,200C023C,extended,90270201
+patch=1,EE,200C0240,extended,3C030100
+patch=1,EE,200C0244,extended,00661825
+patch=1,EE,200C0248,extended,AC830060
+patch=1,EE,200C024C,extended,00C7182B
+patch=1,EE,200C0250,extended,24C60001
+patch=1,EE,200C0254,extended,1460FFFA
+patch=1,EE,200C0258,extended,24840008
+patch=1,EE,200C025C,extended,1000FFF5
+patch=1,EE,200C0260,extended,24210002
+patch=1,EE,200C0264,extended,03E00008
+patch=1,EE,200C0268,extended,00000000
+patch=1,EE,202C23AC,extended,08030088

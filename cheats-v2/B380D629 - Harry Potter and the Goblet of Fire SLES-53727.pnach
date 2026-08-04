@@ -1,0 +1,41 @@
+gametitle=Harry Potter and the Goblet of Fire SLES-53728
+//infinite points 999999 Harry
+patch=1,EE,21E3F760,extended,000F423F
+
+//infinite points 999999 Hermione
+patch=1,EE,21E3F768,extended,000F423F
+
+//infinite points 999999 Ron
+patch=1,EE,21E3F764,extended,000F423F
+
+//Have All Harry's Cards
+patch=1,EE,2105FED4,extended,FFFFFFFF
+patch=1,EE,1105FED8,extended,0000FFFF
+
+//Have All Hermione's Cards
+patch=1,EE,2105FEE0,extended,FFFFFFFF
+patch=1,EE,1105FEE4,extended,0000FFFF
+
+//Have All Ron's Cards
+patch=1,EE,1105FEDA,extended,0000FFFF
+patch=1,EE,2105FEDC,extended,FFFFFFFF
+
+//Infinite Health
+patch=1,EE,203A260C,extended,3C0142C8
+patch=1,EE,203A2614,extended,03E00008
+patch=1,EE,203A2618,extended,AE410020
+
+//Infinite Health (Everyone)
+patch=1,EE,200C0220,extended,8C810008
+patch=1,EE,200C0224,extended,30210010
+patch=1,EE,200C0228,extended,50200001
+patch=1,EE,200C022C,extended,E4810020
+patch=1,EE,200C0230,extended,080D378B
+patch=1,EE,200C0234,extended,00000000
+patch=1,EE,2034DE24,extended,08030088
+
+//Level Select Press L1+L2+R1+R2 on main menu for level select.
+patch=1,EE,20398644,extended,24020001
+patch=1,EE,20388FC4,extended,24030001
+patch=1,EE,20380F10,extended,24020001
+patch=1,EE,202FAC20,extended,24040001

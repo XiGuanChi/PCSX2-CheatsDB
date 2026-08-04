@@ -1,0 +1,19 @@
+gametitle=FlatOut 2 SLES-54002
+//All Cups open
+patch=1,EE,201AF46C,extended,24020000
+
+//Disable Car Damage
+patch=1,EE,20142F7C,extended,24020001
+
+//Infinite Nitro
+patch=1,EE,201A4DCC,extended,00000000
+
+//Max Cash After Buying Parts/Cars
+patch=1,EE,201AF0F4,extended,3C0205F0
+patch=1,EE,201AF174,extended,3C0205F0
+
+//Maximum Cup Points After A Race
+patch=1,EE,2018687C,extended,240603E7
+
+//Start A New Career With Max Cash
+patch=1,EE,201AEE08,extended,3C0505F0

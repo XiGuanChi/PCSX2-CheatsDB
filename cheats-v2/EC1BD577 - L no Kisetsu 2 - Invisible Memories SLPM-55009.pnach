@@ -1,0 +1,24 @@
+gametitle=L no Kisetsu 2 - Invisible Memories SLPM-55009
+//Bonus item appearance and movie fully open
+patch=1,EE,00391A71,extended,000000FF
+patch=1,EE,10391A72,extended,0000FFFF
+patch=1,EE,20391A74,extended,FFFFFFFF
+
+//Clear Ending fully open
+patch=1,EE,20391A78,extended,FFFFFFFF
+patch=1,EE,00391A7C,extended,000000FF
+
+//CG album fully open
+patch=1,EE,40391AF0,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//2D Map flow chart fully open
+patch=1,EE,20391CF0,extended,FFFFFFFF
+patch=1,EE,20391CF4,extended,FFFFFFFF
+patch=1,EE,40391D04,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//100% scene title and message 
+patch=1,EE,20137AAC,extended,240100FF
+patch=1,EE,20137AB0,extended,A0E10400
+patch=1,EE,20137AD0,extended,00000000

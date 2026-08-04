@@ -1,0 +1,14 @@
+gametitle=Barnyard SLUS-21277
+//Infinite Stamina-Running
+patch=1,EE,20EA25EC,extended,40A00000
+
+//Infinite Milk Ammo
+patch=1,EE,20421084,extended,00000000
+patch=1,EE,20421088,extended,00000000
+
+//Max Gopher Bucks
+patch=1,EE,20EA25E0,extended,0000270F
+patch=1,EE,20EA25E4,extended,0000270F
+
+//Unlock All Bonus/Antics
+patch=1,EE,20C615BC,extended,FFFFFFFF

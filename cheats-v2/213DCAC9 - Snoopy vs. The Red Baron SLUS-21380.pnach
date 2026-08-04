@@ -1,0 +1,28 @@
+gametitle=Snoopy vs. The Red Baron SLUS-21380
+//Infinite Funds
+patch=1,EE,202906C8,extended,00002710
+
+//Infinite Health
+patch=1,EE,201BC618,extended,8C820040
+patch=1,EE,201BC61C,extended,AC82003C
+
+//Infinite Ammo
+patch=1,EE,20132440,extended,00000000
+
+//Infinite Lives
+patch=1,EE,20295498,extended,00000000
+
+//Infinite Stunt Meter
+patch=1,EE,20142960,extended,00000000
+
+//Infinite Turbo
+patch=1,EE,2014294C,extended,00000000
+
+//Level 4 Health-Sopwith
+patch=1,EE,202906CC,extended,00000003
+
+//Unlock All Characters
+patch=1,EE,202906E0,extended,FFFFFFFF
+
+//Unlock All Weapons
+patch=1,EE,202906E4,extended,FFFFFFFF

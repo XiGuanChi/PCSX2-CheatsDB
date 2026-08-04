@@ -1,0 +1,19 @@
+gametitle=Fatal Fury - Battle Archives Vol. 1 SLUS-21537
+//Player 1 Infinite Energy (FF1, FFS, FF3)
+patch=1,EE,200A000C,extended,03E00008
+patch=1,EE,200A0010,extended,27BD0010
+patch=1,EE,200A001C,extended,20060060
+patch=1,EE,200A0020,extended,A1C60000
+patch=1,EE,200A0024,extended,03E00008
+patch=1,EE,200A0028,extended,27BD0010
+patch=1,EE,201534E8,extended,08028000
+patch=1,EE,201534EC,extended,00000000
+patch=1,EE,E0020000,extended,00222D30
+patch=1,EE,200A0000,extended,341703B8
+patch=1,EE,200A0004,extended,12EF0005
+patch=1,EE,E0020003,extended,00222D30
+patch=1,EE,200A0000,extended,3417049B
+patch=1,EE,200A0004,extended,12EF0005
+patch=1,EE,E0020004,extended,00222D30
+patch=1,EE,200A0000,extended,34170488
+patch=1,EE,200A0004,extended,12EF0005

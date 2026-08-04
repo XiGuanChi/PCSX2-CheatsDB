@@ -1,0 +1,21 @@
+gametitle=Trapt SLES-53824
+//1 Hit Kill
+patch=1,EE,2016cd94,extended,2403FFFF
+
+//Invincible
+patch=1,EE,20176b58,extended,00000000
+patch=1,EE,20176b74,extended,00000000
+
+//Ark Max after Clearing Mission
+patch=1,EE,20170da4,extended,00000000
+
+//Warl Max after Clearing Mission
+patch=1,EE,20170dd0,extended,00000000
+
+//Zero Charge Time
+patch=1,EE,20256f28,extended,00000000
+
+//Costume selective possibility
+patch=1,EE,2022b314,extended,2402000F
+patch=1,EE,2022b330,extended,AC820D14
+patch=1,EE,2022b334,extended,10000004

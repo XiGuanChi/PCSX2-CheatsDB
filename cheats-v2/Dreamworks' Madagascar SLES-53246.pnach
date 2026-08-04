@@ -1,0 +1,7 @@
+gametitle= Dreamworks' Madagascar SLES-53246
+//Infinite Lives 
+patch=1,EE,2073241C,extended,00000009
+
+//Press R1+L1+R2+L2 Anywhere To Activate Shuffleboard 
+patch=1,EE,D04B0F42,extended,0000F0FF
+patch=1,EE,20346ACC,extended,0000000C

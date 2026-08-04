@@ -1,0 +1,32 @@
+gametitle=Major League Baseball 2K10 SLUS-21929
+//Profile 1 Max Available Tokens 
+patch=1,EE,2085CCEC,extended,05F5E0FF
+
+//Unlock All Unlockables 
+patch=1,EE,4085D188,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Infinite Outs L3,Have Outs R3
+patch=1,EE,E002FFFD,extended,006D49C2
+patch=1,EE,20170F5C,extended,24030000
+patch=1,EE,20170F60,extended,AC430074
+patch=1,EE,E002FFFB,extended,006D49C2
+patch=1,EE,20170F5C,extended,8C430074
+patch=1,EE,20170F60,extended,14640010
+
+//Infinite Strikes R1+R2, Have Strikes L1+2
+patch=1,EE,E002FAFF,extended,006D49C2
+patch=1,EE,2018CE68,extended,24020000
+patch=1,EE,2018CE6C,extended,AC82007C
+patch=1,EE,E002F5FF,extended,006D49C2
+patch=1,EE,2018CE68,extended,8C82007C
+patch=1,EE,2018CE6C,extended,14430009
+
+//In Game Pitching Codes
+
+//Stamina Never Decreases
+patch=1,EE,2048748C,extended,00000000
+
+//Stamina at 100%
+patch=1,EE,208D5DFC,extended,3F800000
+

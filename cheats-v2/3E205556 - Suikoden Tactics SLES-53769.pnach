@@ -1,0 +1,22 @@
+gametitle=Suikoden Tactics SLES-53769
+//Infinite skill points
+patch=1,EE,20685cf0,extended,0098967
+
+//infinite Potch
+patch=1,EE,20685cf8,extended,0098967f
+
+//Must Be On For In Battle Codes
+patch=1,EE,200FFFD0,extended,080BB110
+patch=1,EE,200FFFD4,extended,94620008
+patch=1,EE,202EC43C,extended,0803FFE0
+patch=1,EE,200FFF88,extended,240103E7
+
+//Infinite Health In Battle
+patch=1,EE,200FFF80,extended,8462001C
+patch=1,EE,200FFF84,extended,A4620008
+
+//1 Hit Kills Enemies
+patch=1,EE,200FFE40,extended,24020001
+patch=1,EE,200FFE44,extended,A4620006
+patch=1,EE,200FFE48,extended,080BB897
+patch=1,EE,202EE258,extended,0803FF90

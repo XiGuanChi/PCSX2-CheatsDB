@@ -1,0 +1,89 @@
+gametitle=Atelier Iris 2 - The Azoth of Destiny SLES-54385
+//Infinite Gold
+patch=1,EE,207dd120,extended,0098967f
+
+//Time 0:00
+patch=1,EE,207dd124,extended,00000000
+
+//Item List
+patch=1,EE,40B2BE18,extended,006B0001
+patch=1,EE,02020202,extended,00000000
+
+//Feit Max Level
+patch=1,EE,10B2B810,extended,00000032
+
+//Feit Infiniye & Max HP
+patch=1,EE,10B2B812,extended,000003E7
+patch=1,EE,10B2B814,extended,000003E7
+
+//Viese Max Level
+patch=1,EE,10B2B8F0,extended,00000032
+
+//Viese Infinite & Max HP
+patch=1,EE,10B2B8F2,extended,000003E7
+patch=1,EE,10B2B8F4,extended,000003E7
+
+//Noin Max Level
+patch=1,EE,10B2B9D0,extended,00000032
+
+//Noin Infinite & Max HP
+patch=1,EE,10B2B9D2,extended,000003E7
+patch=1,EE,10B2B9D4,extended,000003E7
+
+//Grey Max Level
+patch=1,EE,10B2BAB0,extended,00000032
+
+//Grey Infinite & Max HP
+patch=1,EE,10B2BAB2,extended,000003E7
+patch=1,EE,10B2BAB4,extended,000003E7
+
+//Fee Max Level
+patch=1,EE,10B2BB90,extended,00000032
+
+//Fee Infinite & Max HP
+patch=1,EE,10B2BB92,extended,000003E7
+patch=1,EE,10B2BB94,extended,000003E7
+
+//Poe Max Level
+patch=1,EE,10B2BC70,extended,00000032
+
+//Poe Infinite & Max HP
+patch=1,EE,10B2BC72,extended,000003E7
+patch=1,EE,10B2BC74,extended,000003E7
+
+//Element Fire 99
+patch=1,EE,10b2bd90,extended,00000063
+
+//Element Fire 999
+patch=1,EE,10b2bd90,extended,000003e7
+
+//Element Water 99
+patch=1,EE,10b2bd94,extended,00000063
+
+
+//Element Water 999
+patch=1,EE,10b2bd94,extended,000003e7
+
+//Element Lightning 99
+patch=1,EE,10b2bd96,extended,00000063
+
+//Element Lightning 999
+patch=1,EE,10b2bd96,extended,000003e7
+
+//Element Stone 99
+patch=1,EE,10b2bd9a,extended,00000063
+
+//Element Stone 999
+patch=1,EE,10b2bd9a,extended,000003e7
+
+//Element Wood 99
+patch=1,EE,10b2bd9c,extended,00000063
+
+//Element Wood 999
+patch=1,EE,10b2bd9c,extended,000003e7
+
+//Element Aroma 99
+patch=1,EE,10b2bda4,extended,00000063
+
+//Element Aroma 999
+patch=1,EE,10b2bda4,extended,000003e7

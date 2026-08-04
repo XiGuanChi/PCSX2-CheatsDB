@@ -1,0 +1,117 @@
+gametitle=Sengoku Hime - Senran ni Mau Otometach SLPM-55225
+//In war chest increase, 65000
+patch=1,EE,2018312C,extended,00000000
+
+//CP99 (perhaps Nagao)
+patch=1,EE,00FC00A0,extended,00000063
+
+//Soldiers number 5000
+//Usami
+patch=1,EE,00FCC97E,extended,00000032
+//Naoe
+patch=1,EE,00FCC5FA,extended,00000032
+//Amagi
+patch=1,EE,00FD6334,extended,00000032
+
+//Residents feeling 100
+//Echigo
+patch=1,EE,00FBC1F0,extended,00000064
+patch=1,EE,00FBBF6C,extended,00000064
+
+
+//Uesugi
+patch=1,EE,10FBFE96,extended,0000FFFF
+//Oda
+patch=1,EE,10FBF31A,extended,0000FFFF
+
+
+//Uesugi
+patch=1,EE,00FC00A0,extended,00000063
+//Oda
+patch=1,EE,00FBF524,extended,00000063
+
+
+//Usami
+patch=1,EE,00FCC97E,extended,00000032
+//Naoe
+patch=1,EE,00FCC5FA,extended,00000032
+
+//Amagi
+patch=1,EE,00FD6334,extended,00000032
+patch=1,EE,10FD6328,extended,00001010
+//(Top number of soldiers, under the leadership and Chibo)
+
+//Shimazu house prestige 99
+patch=1,EE,00FC5121,extended,00000063
+
+//Shimazu war chest 65535
+patch=1,EE,10FC5146,extended,0000FFFF
+
+//Shimazu house CP99
+patch=1,EE,00FC5350,extended,00000063
+
+//Change Yoshihisa Shimazu status
+patch=1,EE,00FD5DB0,extended,00000010
+patch=1,EE,00FD5DB1,extended,00000010
+patch=1,EE,00FD5DBC,extended,00000063
+patch=1,EE,00FD5DBD,extended,00000063
+
+//Change Yoshihiro Shimazu status
+patch=1,EE,00FD5DE2,extended,00000010
+patch=1,EE,00FD5DE3,extended,00000010
+patch=1,EE,00FD5DEE,extended,00000063
+patch=1,EE,00FD5DEF,extended,00000063
+
+//Change Shimazu Toshihisa status
+patch=1,EE,00FD5E14,extended,00000010
+patch=1,EE,00FD5E15,extended,00000010
+patch=1,EE,00FD5E20,extended,00000063
+patch=1,EE,00FD5E21,extended,00000063
+
+//Change Shimazu Iehisa status
+patch=1,EE,00FD5E46,extended,00000010
+patch=1,EE,00FD5E47,extended,00000010
+patch=1,EE,00FD5E52,extended,00000063
+patch=1,EE,00FD5E53,extended,00000063
+
+//Residents feeling 100
+//Satsuma
+patch=1,EE,00FBC97C,extended,00000064
+//Osumi
+patch=1,EE,00FBC94E,extended,00000064
+//Sunny place
+patch=1,EE,00FBC920,extended,00000064
+//Higo
+patch=1,EE,00FBC8F2,extended,00000064
+//Hizen
+patch=1,EE,00FBC8C4,extended,00000064
+//Chikugo
+patch=1,EE,00FBC896,extended,00000064
+//Chikuzen
+patch=1,EE,00FBC868,extended,00000064
+//Bungo
+patch=1,EE,00FBC83A,extended,00000064
+//Buzen
+patch=1,EE,00FBC80C,extended,00000064
+//Tosa
+patch=1,EE,00FBC7DE,extended,00000064
+//Sanuki
+patch=1,EE,00FBC7B0,extended,00000064
+//Awa
+patch=1,EE,00FBC782,extended,00000064
+//Nagato
+patch=1,EE,00FBC754,extended,00000064
+//Suo
+patch=1,EE,00FBC726,extended,00000064
+//Aki
+patch=1,EE,00FBC6F8,extended,00000064
+//Bingo
+patch=1,EE,00FBC6CA,extended,00000064
+//Bicchu
+patch=1,EE,00FBC69C,extended,00000064
+//Bizen
+patch=1,EE,00FBC66E,extended,00000064
+//Mimasaka
+patch=1,EE,00FBC640,extended,00000064
+//Harima
+patch=1,EE,00FBC612,extended,00000064

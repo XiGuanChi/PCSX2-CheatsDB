@@ -1,0 +1,49 @@
+gametitle=Ford Bold Moves Street Racing SLUS-21290
+//All Challenges
+patch=1,EE,404CB0C4,extended,00080001
+patch=1,EE,01010101,extended,00000000
+
+//Always Low Time
+patch=1,EE,201ED5B0,extended,AE200160
+
+//Max Bank
+patch=1,EE,204CACA0,extended,05F5E0FF
+
+//Max Championship Points
+patch=1,EE,2039766C,extended,000003E7
+
+//Have All Championships Completed
+patch=1,EE,202496CC,extended,24030004
+patch=1,EE,202496D0,extended,A0430000
+
+//Unlock All Cars
+patch=1,EE,4040AE31,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,1040AE40,extended,00000101
+
+//Unlock All Tracks
+patch=1,EE,2024BD54,extended,A0620000
+patch=1,EE,2024BD58,extended,2402FFFF
+
+//Unlock All Tracks ALT
+patch=1,EE,0040B0B1,extended,00000001
+patch=1,EE,0040B0B2,extended,00000001
+patch=1,EE,0040B0B3,extended,00000001
+patch=1,EE,0040B0B4,extended,00000001
+patch=1,EE,0040B0B5,extended,00000001
+patch=1,EE,0040B0B6,extended,00000001
+patch=1,EE,0040B0B8,extended,00000001
+patch=1,EE,0040B0B9,extended,00000001
+patch=1,EE,0040B0BA,extended,00000001
+patch=1,EE,0040B0BB,extended,00000001
+patch=1,EE,0040B0BC,extended,00000001
+patch=1,EE,0040B0BD,extended,00000001
+patch=1,EE,0040B0BE,extended,00000001
+patch=1,EE,0040B0BF,extended,00000001
+patch=1,EE,0040B0C0,extended,00000001
+patch=1,EE,0040B0C1,extended,00000001
+patch=1,EE,0040B0C2,extended,00000001
+patch=1,EE,0040B0C3,extended,00000001
+patch=1,EE,0040B0C5,extended,00000001
+patch=1,EE,0040B0C6,extended,00000001
+patch=1,EE,0040B0C7,extended,00000001

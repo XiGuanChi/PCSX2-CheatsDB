@@ -1,0 +1,36 @@
+gametitle=Super Dragon Ball Z SLUS-21442
+//Trainings Mode infinite Super Energy Player 1
+patch=1,EE,005B1A2C,extended,000000f0
+
+//Trainings Mode Iinfinite Super Energy Player 1 (R3+R1 on  R3+R2 off)
+patch=1,EE,D0502e82,extended,0000f7fb
+patch=1,EE,000ffff0,extended,00000001
+patch=1,EE,D0502e82,extended,0000fdfb
+patch=1,EE,000ffff0,extended,00000000
+patch=1,EE,D00ffff0,extended,00000001
+patch=1,EE,005B1A2C,extended,000000f0
+
+//Trainings Mode Iinfinite Health
+patch=1,EE,005B1A1C,extended,000000fa
+
+//Orginal Mode  infinite Super Energy Player 1
+patch=1,EE,005B1A64,extended,000000f0
+
+//Orginal Mode Iinfinite Super Energy Player 1 (R3+R1 on  R3+R2 off)
+patch=1,EE,D0502e82,extended,0000f7fb
+patch=1,EE,000ffff0,extended,00000001
+patch=1,EE,D0502e82,extended,0000fdfb
+patch=1,EE,000ffff0,extended,00000000
+patch=1,EE,D00ffff0,extended,00000001
+patch=1,EE,005B1A64,extended,000000f0
+
+//Orginal Mode Iinfinite Health
+patch=1,EE,005B1A54,extended,000000fa
+
+//All Characters
+patch=1,EE,205E6B30,extended,FFFFFFFF
+
+//Have All Dragon Balls All Characters
+patch=1,EE,405E7BAC,extended,001E0029
+patch=1,EE,FFFFFFFF,extended,00000000
+

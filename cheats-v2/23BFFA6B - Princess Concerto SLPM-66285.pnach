@@ -1,0 +1,45 @@
+gametitle=Princess Concerto SLPM-66285
+//Ally maximum HP MAX
+patch=1,EE,20364804,extended,080D92B1
+
+//Ally defense MAX
+patch=1,EE,203648F0,extended,080D92B7
+
+//Ally behavior MAX
+patch=1,EE,20364974,extended,080D92BD
+
+//Ally SCP MAX
+patch=1,EE,203649A0,extended,080D92BF
+
+//Ally poison resistant MAX
+patch=1,EE,203649CC,extended,080D92C1
+
+//Ally disease resistant MAX
+patch=1,EE,203649F8,extended,080D92C3
+
+//Ally sleep resistant MAX
+patch=1,EE,20364A24,extended,080D92C5
+
+//Ally petrochemical resistant MAX
+patch=1,EE,20364A50,extended,080D92C7
+
+//Ally paralysis resistant MAX
+patch=1,EE,20364A7C,extended,080D92C9
+
+//Ally fear resistant MAX
+patch=1,EE,20364AA8,extended,080D92CB
+
+//9999FP when strengthening camp parameters
+patch=1,EE,20367868,extended,2402270F
+
+//Fully open the acquired skills on the skill equipment screen
+patch=1,EE,2037EFD4,extended,240100FF
+patch=1,EE,2037EFD8,extended,A0610000
+patch=1,EE,2037EFE0,extended,24030001
+
+//Experience gained only for your own army +9999exp
+patch=1,EE,202F293C,extended,2402270F
+patch=1,EE,202F2940,extended,AC820028
+patch=1,EE,202F2944,extended,80E20145
+patch=1,EE,202F2948,extended,10400005
+

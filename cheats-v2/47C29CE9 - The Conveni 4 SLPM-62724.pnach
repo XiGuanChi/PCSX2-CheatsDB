@@ -1,0 +1,28 @@
+gametitle=The Conveni 4 SLPM-62724
+//Max Money 
+patch=1,EE,20302E58,extended,4876E7FF
+patch=1,EE,20302E5C,extended,00000017
+
+//Always possible acquisition
+patch=1,EE,20188B38,extended,10000009
+
+//Success rate of 100% in attracting 0 months (will be completed at the time of closing)
+patch=1,EE,200FF500,extended,8E020000
+patch=1,EE,200FF504,extended,24010064
+patch=1,EE,200FF508,extended,AC410028
+patch=1,EE,200FF50C,extended,08062EFA
+patch=1,EE,200FF510,extended,AC400018
+patch=1,EE,2018BBE0,extended,0803FD40
+
+//Anywhere possible construction
+patch=1,EE,2018AEBC,extended,24030001
+patch=1,EE,2018AEC0,extended,AC43000C
+
+//View clerk of ability and Max
+patch=1,EE,200FF530,extended,8E020000
+patch=1,EE,200FF534,extended,24016464
+patch=1,EE,200FF538,extended,A6A10044
+patch=1,EE,200FF53C,extended,A6A10046
+patch=1,EE,200FF540,extended,08064ADB
+patch=1,EE,200FF544,extended,A6A10048
+patch=1,EE,20192B64,extended,0803FD4C

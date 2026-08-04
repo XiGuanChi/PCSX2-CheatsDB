@@ -1,0 +1,49 @@
+gametitle=The Legend of Spyro - Dawn of the Dragon SLES-55163
+//Upgrades don´t Decrease Experience
+patch=1,EE,203BF948,extended,00401023
+
+//Spyro Infinite Health
+patch=1,EE,203951d0,extended,8C620004
+
+//Cynder Infinite Health
+patch=1,EE,20395210,extended,8C620004
+
+//Spyro Infinite Elements Power
+patch=1,EE,203954b0,extended,00401023
+
+//Cynder Infinite Elements Power
+patch=1,EE,203954f0,extended,00401023
+
+//Spyro Max Element Power on Pick up
+patch=1,EE,20395584,extended,8C62006C
+
+//Cynder Max Element Power on Pick up
+patch=1,EE,20395610,extended,8C620074
+
+//Spyro Codes
+
+//Spyros Infinite Health
+patch=1,EE,209FEAC0,extended,0000270F
+
+//Spyros Max Health
+patch=1,EE,209FEAC4,extended,0000270F
+
+//Spyros Infinite Elements
+patch=1,EE,209FEAD8,extended,0000270F
+
+//Spyros Max Elements
+patch=1,EE,209FEADC,extended,0000270F
+
+//Cynders Codes
+
+//Cynders Infinite Health
+patch=1,EE,209FEAC8,extended,0000270F
+
+//Cynders Max Health
+patch=1,EE,209FEACC,extended,0000270F
+
+//Cynders Inf Elements
+patch=1,EE,209FEAE0,extended,0000270F
+
+//Cynders Max Elements
+patch=1,EE,209FEAE4,extended,0000270F

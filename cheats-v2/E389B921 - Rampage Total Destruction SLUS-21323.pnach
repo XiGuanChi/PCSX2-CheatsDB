@@ -1,0 +1,14 @@
+gametitle=Rampage Total Destruction SLUS-21323
+//Infinite Lives
+patch=1,EE,204D7BB4,extended,00000003
+
+//Immune To Projectiles
+patch=1,EE,004D7E68,extended,00000004
+
+//All Characters
+patch=1,EE,404D7B0C,extended,001E0001
+patch=1,EE,0000008F,extended,00000000
+
+//All Levels
+patch=1,EE,404D7A90,extended,00070001
+patch=1,EE,0000008F,extended,00000000

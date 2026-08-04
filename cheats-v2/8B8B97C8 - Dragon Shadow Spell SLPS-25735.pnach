@@ -1,0 +1,56 @@
+gametitle=Dragon Shadow Spell SLPS-25735
+//Fluctuation in CODE99999
+patch=1,EE,2018A1F4,extended,10000003
+
+//Maximum with CODE fluctuation
+patch=1,EE,2018A1E0,extended,3C050001
+patch=1,EE,2018A1E4,extended,34A5869F
+
+//Philosopher's Stone 9999
+patch=1,EE,20964004,extended,0000270F
+
+//Maximum experience points
+patch=1,EE,20964000,extended,05F5E0FF
+
+//Maximum experience points earned
+patch=1,EE,20382CB4,extended,05F5E0FF
+
+//Fluctuation in CODE99999
+patch=1,EE,2018A1F4,extended,10000003
+
+//Maximum with CODE fluctuation
+patch=1,EE,2018A1E0,extended,3C050001
+patch=1,EE,2018A1E4,extended,34A5869F
+
+//Philosopher's Stone 9999
+patch=1,EE,20964004,extended,0000270F
+
+//Maximum experience points
+patch=1,EE,20964000,extended,05F5E0FF
+
+//Maximum experience points earned
+patch=1,EE,20382CB4,extended,05F5E0FF
+
+//Press square  to recover HP for all allies
+patch=1,EE,200F7100,extended,3C010035
+patch=1,EE,200F7104,extended,94217B02
+patch=1,EE,200F7108,extended,30218000
+patch=1,EE,200F7110,extended,8F81805C
+patch=1,EE,200F7114,extended,24210A00
+patch=1,EE,200F7118,extended,0081082A
+patch=1,EE,200F711C,extended,54200001
+patch=1,EE,200F7120,extended,A482068E
+patch=1,EE,200F7124,extended,03E00008
+patch=1,EE,2018E1E8,extended,0803DC40
+
+//Press triangle  to recover MP for all allies
+patch=1,EE,200F712C,extended,3C010035
+patch=1,EE,200F7130,extended,94217B02
+patch=1,EE,200F7134,extended,30211000
+patch=1,EE,200F713C,extended,8F81805C
+patch=1,EE,200F7140,extended,24210A00
+patch=1,EE,200F7144,extended,0081082A
+patch=1,EE,200F7148,extended,54200001
+patch=1,EE,200F714C,extended,A4820692
+patch=1,EE,200F7150,extended,03E00008
+patch=1,EE,2018E188,extended,0803DC4B

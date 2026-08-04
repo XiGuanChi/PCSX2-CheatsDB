@@ -1,0 +1,11 @@
+gametitle=Simple 2000 Series Vol. 64 - The Splatter Action SLPM-62545
+//Get coins and Gold Max
+patch=1,EE,2016FA54,extended,10000003
+
+//invincible
+patch=1,EE,2015D05C,extended,100001AF
+
+//I do not spill gas gauge
+patch=1,EE,2015D8CC,extended,00000000
+patch=1,EE,2015D9A4,extended,00000000
+patch=1,EE,2016202C,extended,00000000

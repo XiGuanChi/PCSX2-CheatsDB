@@ -1,0 +1,36 @@
+gametitle=MVP Baseball 2003 SLUS-20650
+//Home Team Box Scores 50
+patch=1,EE,200C0250,extended,24040032
+patch=1,EE,200C0254,extended,080FBD2C
+patch=1,EE,200C0258,extended,AC440010
+patch=1,EE,2036A5F0,extended,0C030094
+
+//Home Team Box Scores 20
+patch=1,EE,200C0250,extended,24040014
+patch=1,EE,200C0254,extended,080FBD2C
+patch=1,EE,200C0258,extended,AC440010
+patch=1,EE,2036A5F0,extended,0C030094
+
+//Home Team Box Scores 0
+patch=1,EE,200C0250,extended,24040000
+patch=1,EE,200C0254,extended,080FBD2C
+patch=1,EE,200C0258,extended,AC440010
+patch=1,EE,2036A5F0,extended,0C030094
+
+//Away Team Box Scores 50
+patch=1,EE,200C0260,extended,24040032
+patch=1,EE,200C0264,extended,080FBD2C
+patch=1,EE,200C0268,extended,AE440000
+patch=1,EE,2036A64C,extended,0C030098
+
+//Away Team Box Scores 20
+patch=1,EE,200C0260,extended,24040014
+patch=1,EE,200C0264,extended,080FBD2C
+patch=1,EE,200C0268,extended,AE440000
+patch=1,EE,2036A64C,extended,0C030098
+
+//Away Team Box Scores 0
+patch=1,EE,200C0260,extended,24040000
+patch=1,EE,200C0264,extended,080FBD2C
+patch=1,EE,200C0268,extended,AE440000
+patch=1,EE,2036A64C,extended,0C030098

@@ -1,0 +1,15 @@
+gametitle=Dancing Stage MegaMix SLES-51510
+//Open Everything
+patch=1,EE,202993A4,extended,FFFFFFFF
+
+//Dance Meter Never Inc/Decrease
+patch=1,EE,101491FE,extended,00003400
+
+//Full Dance Meter After 1 miss
+patch=1,EE,201491F8,extended,240303FF
+
+//P1 Results Max Perfect
+patch=1,EE,1057AC70,extended,000003E7
+
+//P1 Always Ultra Low Speed
+patch=1,EE,2057AC34,extended,0000C000

@@ -1,0 +1,19 @@
+gametitle=ATV Quad Power Racing 2 SLUS-20570
+//Have All ATV's 
+patch=1,EE,2089DA84,extended,FFFFFFFF
+
+//Have All Riders 
+patch=1,EE,2089DA88,extended,FFFFFFFF
+
+//Have All Tracks
+patch=1,EE,2089DA80,extended,FFFFFFFF
+
+//Max Score Gain
+patch=1,EE,20200FA4,extended,24427FFF
+
+//Infinite Time (Arcade Mode) 
+patch=1,EE,201AA5D8,extended,00000000
+
+//Start On Last Race (Arcade Mode) 
+patch=1,EE,D089E064,extended,00000000
+patch=1,EE,2089E064,extended,0000000E

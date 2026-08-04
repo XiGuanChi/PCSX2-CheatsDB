@@ -1,0 +1,69 @@
+gametitle=Dreamworks' Shrek 2 SLUS-20745
+//Infinite Health
+patch=1,EE,20190F64,extended,C4A001AC
+patch=1,EE,20190F6C,extended,E4A001A8
+
+//Always Max Eyeballs
+patch=1,EE,2024CA30,extended,C780E358
+patch=1,EE,2024CA3C,extended,E780E35C
+
+//Infinite Specials Usage
+patch=1,EE,201785AC,extended,00000000
+
+
+//Always Have Max Gingerbread Man's Cookie Toss
+patch=1,EE,201C2A94,extended,2402000A
+patch=1,EE,201C2A98,extended,ACC20344
+
+//Always Have Max Fiona's Slow Time
+patch=1,EE,201C1540,extended,2402000A
+patch=1,EE,201C1544,extended,AC820344
+
+//Always Have Max Lil Red's Rottle Apple Bomb
+patch=1,EE,201C84F0,extended,2402000A
+patch=1,EE,201C84F4,extended,AE020344
+
+//Infinite Gold Coins
+patch=1,EE,1037916C,extended,0000FFFF
+
+//Max Gold Coins
+patch=1,EE,2037916C,extended,05F5E0FF
+
+//Unlock All Levels
+patch=1,EE,20379C78,extended,0000000F
+
+
+//== Have All Snapshot Codes ==
+
+//Shrek's Swamp
+patch=1,EE,20379BBC,extended,01111111
+
+//Spooky Forest
+patch=1,EE,20379BC0,extended,01111111
+
+//Far Far Away
+patch=1,EE,20379BC4,extended,01111111
+
+//Ogre Killer
+patch=1,EE,20379BC8,extended,00000111
+
+//Walking The Path
+patch=1,EE,20379BCC,extended,01111111
+
+//Jack And Jill's Farm
+patch=1,EE,20379BD0,extended,01111111
+
+//Fairy Godmother's
+patch=1,EE,20379BD4,extended,01111111
+
+//Prison Break
+patch=1,EE,20379BE4,extended,01111111
+
+//The Mines
+patch=1,EE,20379BEC,extended,01111111
+
+//Cookie, Cookie
+patch=1,EE,20379BF0,extended,01111111
+
+//Final Fight
+patch=1,EE,20379BF4,extended,00001111

@@ -1,0 +1,13 @@
+gametitle=Onimusha 2 SLPM-65101
+//Infinite Health
+patch=1,EE,117DA740,extended,00000F00
+patch=1,EE,117DA742,extended,00000F00
+
+//Max Soul 
+patch=1,EE,217DCDE0,extended,000F423F
+
+//Do not decrease after tool use
+patch=1,EE,20193E18,extended,00401023
+
+//Max Gold
+patch=1,EE,217DCF44,extended,0001869F

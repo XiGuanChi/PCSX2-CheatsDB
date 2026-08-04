@@ -1,0 +1,264 @@
+gametitle=Monster Jam - Maximum Destruction SLUS-20186
+//Max Money (Season Mode In Garage)
+patch=1,EE,2035718C,extended,05F5E0FF
+
+// Unlock All Trucks
+patch=1,EE,401F1DC0,extended,00100001
+patch=1,EE,02010201,extended,00000000
+
+//Airborne Ranger Max All Stats
+patch=1,EE,401F1E40,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Airborne Ranger Champ Max All Stats
+patch=1,EE,401F1E50,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//American Guardian Max All Stats
+patch=1,EE,401F1E60,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//American Guardian Champ Max All Stats
+patch=1,EE,401F1E70,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Avenger Max All Stats
+patch=1,EE,401F1E80,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Avenger Champ Max All Stats
+patch=1,EE,401F1E90,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Blacksmith Max All Stats
+patch=1,EE,401F1EA0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Blacksmith Champ Max All Stats
+patch=1,EE,401F1EB0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Bulldozer Max All Stats
+patch=1,EE,401F1EC0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Bulldozer Champ Max All Stats
+patch=1,EE,401F1ED0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Bustin' Loose Max All Stats
+patch=1,EE,401F1EE0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Bustin' Loose Champ Max All Stats
+patch=1,EE,401F1EF0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Destroyer Max All Stats
+patch=1,EE,401F1F00,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Destroyer Champ Max All Stats
+patch=1,EE,401F1F10,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//El Toro Loco Max All Stats
+patch=1,EE,401F1F20,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//El Toro Loco Champ Max All Stats
+patch=1,EE,401F1F30,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Eradigator Max All Stats
+patch=1,EE,401F1F40,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Eradigator Champ Max All Stats
+patch=1,EE,401F1F50,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Goldberg Max All Stats
+patch=1,EE,401F1F60,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Goldberg Champ Max All Stats
+patch=1,EE,401F1F70,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Grave Digger Max All Stats
+patch=1,EE,401F1F80,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Grave Digger Champ Max All Stats
+patch=1,EE,401F1F90,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Gun Slinger Max All Stats
+patch=1,EE,401F1FA0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Gun Slinger Champ Max All Stats
+patch=1,EE,401F1FB0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//King Krunch Max All Stats
+patch=1,EE,401F1FC0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//King Krunch Champ Max All Stats
+patch=1,EE,401F1FD0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Madusa Max All Stats
+patch=1,EE,401F1FE0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Madusa Champ Max All Stats
+patch=1,EE,401F1FF0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Mountaineer Max All Stats
+patch=1,EE,401F2000,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Mountaineer Champ Max All Stats
+patch=1,EE,401F2010,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Predator Max All Stats
+patch=1,EE,401F2020,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Predator Champ Max All Stats
+patch=1,EE,401F2030,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Prowler Max All Stats
+patch=1,EE,401F2040,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Prowler Champ Max All Stats
+patch=1,EE,401F2050,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Reptoid Max All Stats
+patch=1,EE,401F2060,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Reptoid Champ Max All Stats
+patch=1,EE,401F2070,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//SpiderMan Max All Stats
+patch=1,EE,401F2080,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//SpiderMan Champ Max All Stats
+patch=1,EE,401F2090,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Blue Thunder Max All Stats
+patch=1,EE,401F20A0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Blue Thunder Champ Max All Stats
+patch=1,EE,401F20B0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Sting Max All Stats
+patch=1,EE,401F20C0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Sting Champ Max All Stats
+patch=1,EE,401F20D0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Sudden Impact Max All Stats
+patch=1,EE,401F20E0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Sudden Impact Champ Max All Stats
+patch=1,EE,401F20F0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Survivor Max All Stats
+patch=1,EE,401F2100,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Survivor Champ Max All Stats
+patch=1,EE,401F2110,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Thrasher Max All Stats
+patch=1,EE,401F2120,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Thrasher Champ Max All Stats
+patch=1,EE,401F2130,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Wild Thang Max All Stats
+patch=1,EE,401F2140,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Wild Thang Champ Max All Stats
+patch=1,EE,401F2150,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Wolverine Max All Stats
+patch=1,EE,401F2160,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Wolverine Champ Max All Stats
+patch=1,EE,401F2170,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Grave Digger 2 Max All Stats
+patch=1,EE,401F2180,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Grave Digger 2 Champ Max All Stats
+patch=1,EE,401F2190,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//The Incredible Hulk Max All Stats
+patch=1,EE,401F21A0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//IP Champ Max All Stats
+patch=1,EE,401F21B0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Big Yellow Max All Stats
+patch=1,EE,401F21C0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Hooch Wagon Max All Stats
+patch=1,EE,401F21D0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Dog Pound Max All Stats
+patch=1,EE,401F21E0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Bull Dog Champ Max All Stats
+patch=1,EE,401F21F0,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Armored Force Max All Stats
+patch=1,EE,401F2200,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Paddy Wagon Champ Max All Stats
+patch=1,EE,401F2210,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Rayman Max All Stats
+patch=1,EE,401F2220,extended,00040001
+patch=1,EE,3F800000,extended,00000000
+
+//Idiot AI
+patch=0,EE,201A68C8,extended,00000000
+patch=0,EE,20111DE8,extended,03E00008
+patch=0,EE,20111DEC,extended,00000000

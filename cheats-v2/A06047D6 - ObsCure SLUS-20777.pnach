@@ -1,0 +1,30 @@
+gametitle=ObsCure SLUS-20777
+//All Characters infinite Health
+patch=1,EE,0015a4d4,word,46010030
+patch=1,EE,0015a49c,word,46000840
+
+//Characters never exhausted when Running
+patch=1,EE,0016048c,word,00401021
+
+//Pistol Ammo not decreasing
+patch=1,EE,00360bbc,word,24420000
+
+//Laser never overcharges with infinite Ammo
+patch=1,EE,0014a1a8,word,10000005
+patch=1,EE,0014a1ac,word,44820000
+patch=1,EE,0014a228,word,AE8001F0
+patch=1,EE,0014b270,word,AE8001F0
+
+//Energy Drinks not decreasing
+patch=1,EE,001ad114,word,24630000
+
+//Discs not decreasing
+patch=1,EE,002de564,word,24630000
+
+//Pump-Action Shotgun Ammo not decreasing
+patch=1,EE,00359dd0,word,24420000
+
+//All bonuses - Special Moded
+patch=1,EE,20CDCEEC,extended,FFFFFFFF
+
+

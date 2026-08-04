@@ -1,0 +1,17 @@
+gametitle=Metal Gear Solid 2 - Substance SLPM-67002
+//Reload counter 5
+patch=1,EE,0019325C,extended,00000005
+
+//Weapons do not decrease
+patch=1,EE,2015E09C,extended,00601823
+
+//Items do not decrease
+patch=1,EE,2015E0F8,extended,00401023
+
+//All types appear when you open the list of weapons and items
+patch=1,EE,2015E1EC,extended,24020005
+patch=1,EE,2015E204,extended,24020005
+
+//SPECIAL content open
+patch=1,EE,D022F7C8,extended,0000158A
+patch=1,EE,2022F7C8,extended,240218FF

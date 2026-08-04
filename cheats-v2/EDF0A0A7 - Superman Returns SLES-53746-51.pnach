@@ -1,0 +1,14 @@
+gametitle=Superman Returns SLES-53746-51
+//Infinite Health
+patch=1,EE,20221408,extended,8C410004
+patch=1,EE,2022140C,extended,AC410000
+patch=1,EE,20221418,extended,3C013F80
+patch=1,EE,20221420,extended,AC41000C
+patch=1,EE,2022143C,extended,44816000
+
+//Infinite Health 2
+patch=1,EE,20221408,extended,ac410000
+
+//Infinite Superpower
+patch=1,EE,202AA12C,extended,24105000
+patch=1,EE,202AA130,extended,AC50000C

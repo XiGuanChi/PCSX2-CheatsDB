@@ -1,0 +1,5 @@
+gametitle=I/O SLPM-66272
+//Enable Debug Menu With the code on, you will enter the debug menu when you first start up the game. At anytime, to go back to it, press and hold Select button while entering any mode, such as the Options menu.
+patch=1,EE,0010D4B0,extended,00000000
+patch=1,EE,D0478782,extended,0000FFFE
+patch=1,EE,202727E4,extended,00000000

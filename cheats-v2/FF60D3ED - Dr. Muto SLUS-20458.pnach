@@ -1,0 +1,20 @@
+gametitle=Dr. Muto SLUS-20458
+//Infinite Time
+patch=1,EE,102FAFB8,extended,00000000
+
+//Infinite Health
+patch=1,EE,202EE798,extended,00000006
+
+//Max Overall Isotopes
+patch=1,EE,103A3E94,extended,0000109A
+
+//Activate Cheat Codes ==
+
+//Go Anywhere
+patch=1,EE,202C0E00,extended,00000001
+
+//Invincibility
+patch=1,EE,20411C80,extended,00000001
+
+//Never Take Damage
+patch=1,EE,20411C84,extended,00000001

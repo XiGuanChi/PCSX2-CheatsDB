@@ -1,0 +1,65 @@
+gametitle=Dragon Ball Z - Budokai 3 SLES-52730
+//Player 1 Infinite Health Tournament 
+patch=1,EE,E0020000,extended,00499A2A
+patch=1,EE,2049B360,extended,453B8000
+patch=1,EE,2049B36C,extended,453B8000
+patch=1,EE,E002FFFF,extended,00499A2A
+patch=1,EE,2049D380,extended,453B8000
+patch=1,EE,2049D38C,extended,453B8000
+
+//Player 1 Infinite Ki Tournament 
+patch=1,EE,D0499A2A,extended,00000000
+patch=1,EE,2049B370,extended,463B8000
+patch=1,EE,D0499A2A,extended,0000FFFF
+patch=1,EE,2049D390,extended,463B8000
+
+//No Health P2
+patch=1,EE,E003FFFF,extended,00499A2A
+patch=1,EE,2049B360,extended,00000000
+patch=1,EE,E0010000,extended,00499A2A
+patch=1,EE,2049D380,extended,00000000
+
+//Dragon Universe Level Up 
+patch=1,EE,208EAD94,extended,05F5E0FF
+
+//Dragon Universe Max Health 
+patch=1,EE,208EAD5C,extended,00000014
+
+//Dragon Universe Max Ki 
+patch=1,EE,208EAD60,extended,00000014
+
+//Max Money
+patch=1,EE,10592F1A,extended,00000004
+
+//Infinite Health P1
+patch=1,EE,2049B360,extended,453B8000
+patch=1,EE,2049B36C,extended,453B8000
+
+//Infinite Ki P1
+patch=1,EE,2049B370,extended,463B8000
+
+//P2 no health
+patch=1,EE,2049D380,extended,00000000
+
+//Infinity upgrade points Remove a skill for 10 skill points
+patch=1,EE,202BE9A4,extended,2402000A
+
+//all stages
+patch=1,EE,204B83EC,extended,FFFFFFFF
+
+//all characters
+patch=1,EE,204B83F8,extended,FFFFFFFF
+patch=1,EE,204B83FC,extended,FFFFFFFF
+
+//all capsules
+patch=1,EE,404E3318,extended,00400001
+patch=1,EE,00010001,extended,00000000
+patch=1,EE,004E3417,extended,00000001
+patch=1,EE,404E3418,extended,003F0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,104E3514,extended,00000101
+patch=1,EE,004E3417,extended,00000001
+patch=1,EE,404E3418,extended,00100001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,204E3458,extended,01010101
+patch=1,EE,104E345C,extended,00000101

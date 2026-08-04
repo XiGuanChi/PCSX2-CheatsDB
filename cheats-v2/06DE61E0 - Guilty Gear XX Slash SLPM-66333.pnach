@@ -1,0 +1,54 @@
+gametitle=Guilty Gear XX Slash SLPM-66333
+//Player 1  infinite Health
+patch=1,EE,201C5BA0,extended,3C0201ED
+patch=1,EE,201C5BA4,extended,341A01A4
+patch=1,EE,201C5BA8,extended,A45AC816
+patch=1,EE,201C5BB0,extended,1000003E
+
+//1P only tension gauge MAX
+patch=1,EE,1033A540,extended,00002710
+
+//1P always SP
+patch=1,EE,1033A4AC,extended,00000001
+
+//1P guard level gauge change
+patch=1,EE,1033A55A,extended,0000FF80
+
+//1P burst gauge MAX
+patch=1,EE,1033A634,extended,00003A98
+
+//Hidden characters appearance
+patch=1,EE,002EAA53,extended,00000001
+patch=1,EE,002EAA54,extended,00000001
+
+//All #RELOAD characters available
+patch=1,EE,202EAA70,extended,01010101
+patch=1,EE,202EAA74,extended,01010101
+patch=1,EE,202EAA78,extended,01010101
+patch=1,EE,202EAA7C,extended,01010101
+patch=1,EE,202EAA80,extended,01010101
+patch=1,EE,002EAA84,extended,00000001
+
+//GALLERY / MISSION MODE / MISSIN CLEAR SOL-JUSTICE
+patch=1,EE,002EC963,extended,00000001
+patch=1,EE,402EC964,extended,00060001
+patch=1,EE,01010101,extended,00000000
+
+//GALLERY / ARCADE MODE / ENDING SOL-JUSTICE
+patch=1,EE,402EC9B0,extended,00060001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,002EC9C8,extended,00000001
+
+//GALLERY / SPECIAL / SPECIAL ILLUSTRATION 1-9
+patch=1,EE,202EC97C,extended,01010101
+patch=1,EE,202EC980,extended,01010101
+patch=1,EE,002EC984,extended,00000001
+
+//GALLERY / MISSION MODE & ARCADE MODE & SPECIAL
+patch=1,EE,002EC963,extended,00000001
+patch=1,EE,402EC964,extended,00080001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,002EC984,extended,00000001
+patch=1,EE,402EC9B0,extended,00060001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,002EC9C8,extended,00000001

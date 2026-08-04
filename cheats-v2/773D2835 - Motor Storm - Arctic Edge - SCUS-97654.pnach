@@ -1,0 +1,22 @@
+gametitle=Motor Storm: Arctic Edge - SCUS-97654
+// Set Language - Change X to value responsible for your native language.
+// 0 = English (default)
+// 1 = French
+// 2 = Italian
+// 3 = German
+// 4 = Spanish
+// 5 = Danish
+// 6 = Swedish
+// 7 = Finnish
+// 8 = Norwegian
+// 9 = Russian
+// A = Polish
+// B = Portugese
+// C = Dutch (Nederlands)
+// D = Greek
+patch=1,EE,2032DA04,byte,00000004
+//Infinite Boost
+patch=1,EE,2017451C,extended,AE008DC
+
+//Time Doesn't Increase
+patch=1,EE,2010F770,extended,AE20004

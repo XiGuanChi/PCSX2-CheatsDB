@@ -1,0 +1,6 @@
+gametitle=Kino no Tabi -The Beautiful World SLPS-25248
+//Special appearance (needs a savegame to work)
+patch=1,EE,20128200,extended,64020001
+
+//Ending the full list (needs a savegame to work)
+patch=1,EE,21A00040,extended,0000FFFF

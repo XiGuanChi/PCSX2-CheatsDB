@@ -1,0 +1,7 @@
+gametitle=Beck - The Game SLPS-25474
+//Play back All
+patch=1,EE,2037EC98,extended,FFFFFFFF
+
+//Encore Live All
+patch=1,EE,10233138,extended,00000001
+patch=1,EE,10233164,extended,00000001

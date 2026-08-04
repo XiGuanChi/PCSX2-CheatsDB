@@ -1,0 +1,22 @@
+gametitle=Harry Potter to Himitsu no Heya SLPS-20234
+//Party · Bot's 100-tentative Beans get 200  with each item already in possession
+patch=1,EE,1054743A,extended,000000C8
+patch=1,EE,2054743C,extended,00010001
+patch=1,EE,20547440,extended,00010001
+
+//Obtain 999 pieces of smelt balls  with each item already in possession
+patch=1,EE,10547410,extended,000003E7
+patch=1,EE,00547442,extended,00000001
+
+//Obtain 999 balloons that do not burst  with each item already in possession
+patch=1,EE,10547412,extended,000003E7
+patch=1,EE,00547448,extended,00000001
+
+//Get medicine for Wiggen Weld First one
+patch=1,EE,20547418,extended,00000001
+
+//Get medicine for Wiggen Weld Second one
+patch=1,EE,2054741C,extended,00010001
+
+//Get medicine for Wiggen Weld Third one
+patch=1,EE,20547420,extended,00010001

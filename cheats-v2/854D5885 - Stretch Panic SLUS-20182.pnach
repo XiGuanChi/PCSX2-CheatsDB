@@ -1,0 +1,12 @@
+gametitle=Stretch Panic SLUS-20182
+//Max Points
+patch=1,EE,206AF098,extended,000003E7
+
+//Infinite Health
+patch=1,EE,201373DC,extended,E641004C
+patch=1,EE,20137448,extended,E6410050
+patch=1,EE,E0040000,extended,006A6C1C
+patch=1,EE,606A6C20,extended,30000000
+patch=1,EE,00020000,extended,000000B8
+patch=1,EE,201373DC,extended,00000000
+patch=1,EE,20137448,extended,00000000

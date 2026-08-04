@@ -1,0 +1,27 @@
+gametitle=Sega Superstars SLUS 20999
+//Max Money (World Tour)
+patch=1,EE,202ECCA8,extended,05F5E0FF
+
+//Max Money (Championship Mode)
+patch=1,EE,204359AC,extended,05F5E0FF
+
+//Player 1 Start Match With 45 Points
+patch=1,EE,D0454A30,extended,00000000
+patch=1,EE,10454A30,extended,00000003
+
+//Have All Apparel (Male)
+patch=1,EE,203B14F4,extended,000000FF
+patch=1,EE,203B14F8,extended,000000FF
+
+//Have All Apparel (Female)
+patch=1,EE,203B14FC,extended,000000FF
+patch=1,EE,203B1500,extended,000000FF
+
+//Have All Stages
+patch=1,EE,203B1504,extended,000000FF
+
+//Have All Etc.
+patch=1,EE,203B1508,extended,0000FFFF
+
+//Have All Raquets
+patch=1,EE,203B150C,extended,000000FF

@@ -1,0 +1,22 @@
+gametitle=Siren SCUS-97355
+//Invincible
+patch=1,EE,20198F40,extended,03E00008
+
+//Infinite Health
+patch=1,EE,2019910C,extended,00000000
+
+//Never Reload
+patch=1,EE,20162530,extended,00000000
+
+//1Hit Death (Enemies)
+patch=1,EE,20159974,extended,AC20A74C
+
+//Infinite Items
+patch=1,EE,20160784,extended,00000000
+
+//Unlock Puzzle Game
+patch=1,EE,11A97CB8,extended,0000000
+
+//Have All Archive
+patch=1,EE,41A97B60,extended,00190001
+patch=1,EE,02020202,extended,00000000

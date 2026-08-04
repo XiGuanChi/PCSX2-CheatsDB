@@ -1,0 +1,38 @@
+gametitle=Jyuouki - Project Altered Beast SLPM-65796
+//Maximum life
+patch=1,EE,21779E10,extended,000000C8
+patch=1,EE,21779E14,extended,000000C8
+
+//Spirit gauge maximum
+patch=1,EE,21779F64,extended,00000064
+patch=1,EE,21779F68,extended,00000064
+
+//Special Move Gauge Maximum
+patch=1,EE,2177A09C,extended,000000C8
+
+//Maximum number of genomes
+patch=1,EE,2177A10C,extended,00000064
+
+//TYPE-N maximum
+patch=1,EE,2177A110,extended,00000007
+
+//TYPE-S maximum
+patch=1,EE,2177A114,extended,00000007
+
+//Werewolf acquisition
+patch=1,EE,2177A0E8,extended,00000001
+
+//Get a dragon
+patch=1,EE,2177A0EC,extended,00000001
+
+//Get Garuda
+patch=1,EE,2177A0F0,extended,00000001
+
+//Merman acquisition
+patch=1,EE,2177A0F4,extended,00000001
+
+//Acquired Minotaur
+patch=1,EE,2177A0F8,extended,00000001
+
+//Get Wendigo
+patch=1,EE,2177A0FC,extended,00000001

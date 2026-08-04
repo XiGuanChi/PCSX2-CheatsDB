@@ -1,0 +1,249 @@
+gametitle=Metal Slug Anthology SLUS-21550
+//Metal Slug 1
+
+//P1 - Infinite Lives
+patch=1,EE,D1FFCF9C,extended,00000000
+patch=1,EE,0182437E,extended,00000065
+
+//P1 - Infinite Arms
+patch=1,EE,D1FFCF9C,extended,00000000
+patch=1,EE,118244CA,extended,0000FFFF
+
+//P1 - Infinite Bombs
+patch=1,EE,D1FFCF9C,extended,00000000
+patch=1,EE,018244C9,extended,00000063
+
+//P1 - Invincibility
+patch=1,EE,D1FFCF9C,extended,00000000
+patch=1,EE,0182448C,extended,000000FF
+
+//P2 - Infinite Lives **
+patch=1,EE,D1FFCF9C,extended,00000000
+patch=1,EE,0182441E,extended,00000065
+
+//P2 - Infinite Arms **
+patch=1,EE,D1FFCF9C,extended,00000000
+patch=1,EE,1182456A,extended,0000FFFF
+
+//P2 - Infinite Bombs **
+patch=1,EE,D1FFCF9C,extended,00000000
+patch=1,EE,01824569,extended,00000063
+
+//P2 - Invincibility **
+patch=1,EE,D1FFCF9C,extended,00000000
+patch=1,EE,0182452C,extended,000000FF
+
+//Metal Slug 2
+
+//P1 - Infinite Lives
+patch=1,EE,D1FFCF9C,extended,00000001
+patch=1,EE,0192527F,extended,00000063
+
+//P1 - Infinite Bombs
+patch=1,EE,D1FFCF9C,extended,00000001
+patch=1,EE,01930351,extended,00000063
+
+//P1 - Infinite Arms
+patch=1,EE,D1FFCF9C,extended,00000001
+patch=1,EE,11930354,extended,0000FFFF
+
+//P1 - Invincibility
+patch=1,EE,D1FFCF9C,extended,00000001
+patch=1,EE,0192551E,extended,000000FF
+
+//P1 - Infinite Vehicle Cannon ***
+patch=1,EE,D1FFCF9C,extended,00000001
+patch=1,EE,019328A8,extended,00000063
+
+//P1 - Infinite Vehicle Energy ***
+patch=1,EE,D1FFCF9C,extended,00000001
+patch=1,EE,019328A3,extended,00000030
+
+//P2 - Infinite Lives **
+patch=1,EE,D1FFCF9C,extended,00000001
+patch=1,EE,01925327,extended,00000063
+
+//P2 - Infinite Bombs **
+patch=1,EE,D1FFCF9C,extended,00000001
+patch=1,EE,01930350,extended,00000063
+
+//P2 - Infinite Arms **
+patch=1,EE,D1FFCF9C,extended,00000001
+patch=1,EE,11930356,extended,0000FFFF
+
+//P2 - Invincibility **
+patch=1,EE,D1FFCF9C,extended,00000001
+patch=1,EE,019255C6,extended,000000FF
+
+//P2 - Infinite Vehicle Cannon ***
+patch=1,EE,D1FFCF9C,extended,00000001
+patch=1,EE,019328CC,extended,00000063
+
+//P2 - Infinite Vehicle Energy ***
+patch=1,EE,D1FFCF9C,extended,00000001
+patch=1,EE,019328C7,extended,00000030
+
+//Metal Slug X
+
+//P1 - Infinite Lives
+patch=1,EE,D1FFCF9C,extended,00000002
+patch=1,EE,01925291,extended,00000063
+
+//P1 - Infinite Arms
+patch=1,EE,D1FFCF9C,extended,00000002
+patch=1,EE,1193072C,extended,0000FFFF
+
+//P1 - Infinite Bombs
+patch=1,EE,D1FFCF9C,extended,00000002
+patch=1,EE,01930729,extended,00000063
+
+//P1 - Invincibility (You can still die in vehicles)
+patch=1,EE,E0020002,extended,01FFCF9C
+patch=1,EE,0192552A,extended,00000040
+patch=1,EE,01925550,extended,000000FF
+
+//P2 - Infinite Lives **
+patch=1,EE,D1FFCF9C,extended,00000002
+patch=1,EE,01925341,extended,00000063
+
+//P2 - Infinite Arms **
+patch=1,EE,D1FFCF9C,extended,00000002
+patch=1,EE,1193072E,extended,0000FFFF
+
+//P2 - Infinite Bombs **
+patch=1,EE,D1FFCF9C,extended,00000002
+patch=1,EE,01930728,extended,00000063
+
+//P2 - Invincibility (You can still die in vehicles)
+patch=1,EE,E0020002,extended,01FFCF9C
+patch=1,EE,019255DA,extended,00000040
+patch=1,EE,01925600,extended,000000FF
+
+//P2 - Infinite Vehicle Energy
+patch=1,EE,D1FFCF9C,extended,00000002
+patch=1,EE,0193064C,extended,00000030
+
+//P2 - Infinite Vehicle Cannon
+patch=1,EE,D1FFCF9C,extended,00000002
+patch=1,EE,01930652,extended,00000063
+
+//Metal Slug 3
+
+//P1 - Infinite Lives
+patch=1,EE,D1FFCF9C,extended,00000003
+patch=1,EE,01D84342,extended,00000064
+
+//P1 - Infinite Arms
+patch=1,EE,D1FFCF9C,extended,00000003
+patch=1,EE,11D92B82,extended,0000FFFF
+
+//P1 - Infinite Bombs
+patch=1,EE,D1FFCF9C,extended,00000003
+patch=1,EE,01D92B7C,extended,00000063
+
+//P1 - Invincibility
+patch=1,EE,D1FFCF9C,extended,00000003
+patch=1,EE,01D84608,extended,000000FF
+
+//P2 - Infinite Lives
+patch=1,EE,D1FFCF9C,extended,00000003
+patch=1,EE,01D843F2,extended,00000064
+
+//P2 - Infinite Arms
+patch=1,EE,D1FFCF9C,extended,00000003
+patch=1,EE,11D92B90,extended,0000FFFF
+
+//P2 - Infinite Bombs
+patch=1,EE,D1FFCF9C,extended,00000003
+patch=1,EE,01D92B8A,extended,00000063
+
+//P2 - Invincibility **
+patch=1,EE,D1FFCF9C,extended,00000003
+patch=1,EE,01D846B8,extended,000000FF
+
+//Metal Slug 4
+
+//P1 - Infinite Lives
+patch=1,EE,D1FFCF9C,extended,00000004
+patch=1,EE,01B84B10,extended,00000064
+
+//P1 - Infinite Arms
+patch=1,EE,D1FFCF9C,extended,00000004
+patch=1,EE,11B92E7A,extended,0000FFFF
+
+//P1 - Infinite Bombs
+patch=1,EE,D1FFCF9C,extended,00000004
+patch=1,EE,01B92E74,extended,00000063
+
+//P1 - Invincibility
+patch=1,EE,E0020004,extended,01FFCF9C
+patch=1,EE,01B84D9E,extended,00000040
+patch=1,EE,01B84DC8,extended,00000057
+
+//P2 - Infinite Lives
+patch=1,EE,D1FFCF9C,extended,00000004
+patch=1,EE,01B84BC0,extended,00000064
+
+//P2 - Invincibility 
+patch=1,EE,E0020004,extended,01FFCF9C
+patch=1,EE,01B84E4E,extended,00000040
+patch=1,EE,01B84E78,extended,0000006B
+
+//P2 - Infinite Arms
+patch=1,EE,D1FFCF9C,extended,00000004
+patch=1,EE,11B92E8A,extended,0000FFFF
+
+//P2 - Infinite Bombs
+patch=1,EE,D1FFCF9C,extended,00000004
+patch=1,EE,01B92E84,extended,00000063
+
+//Metal Slug 5
+
+//P1 - Infinite Lives
+patch=1,EE,D1FFCF9C,extended,00000005
+patch=1,EE,01B24A48,extended,00000064
+
+//P1 - Infinite Arms
+patch=1,EE,D1FFCF9C,extended,00000005
+patch=1,EE,11B31464,extended,0000FFFF
+
+//P1 - Infinite Bombs
+patch=1,EE,D1FFCF9C,extended,00000005
+patch=1,EE,01B3145E,extended,00000063
+
+//P1 - Invincibility
+patch=1,EE,D1FFCF9C,extended,00000005
+patch=1,EE,01B24D50,extended,000000FF
+
+//P2 - Infinite Lives
+patch=1,EE,D1FFCF9C,extended,00000005
+patch=1,EE,01B24B0C,extended,00000064
+
+//P2 - Infinite Arms
+patch=1,EE,D1FFCF9C,extended,00000005
+patch=1,EE,11B31474,extended,0000FFFF
+
+//P2 - Infinite Bombs
+patch=1,EE,D1FFCF9C,extended,00000005
+patch=1,EE,01B3146E,extended,00000063
+
+//P2 - Invincibility
+patch=1,EE,D1FFCF9C,extended,00000005
+patch=1,EE,01B24E40,extended,000000FF
+
+//Metal Slug 6
+//P1 - Infinite Lives
+patch=1,EE,012FB4FF,extended,00000064
+
+//P1 - Infinite Arms
+patch=1,EE,112DA5C8,extended,0000FFFF
+
+//P1 - Infinite Bombs
+patch=1,EE,012DA5C5,extended,00000063
+
+//P1 - Invincibility
+patch=1,EE,012DA588,extended,00000069
+
+
+
+

@@ -1,0 +1,20 @@
+gametitle=Klonoa 2 - Lunatea's Veil SLUS-20151
+//Infinite Health
+patch=1,EE,00366850,extended,00000006
+
+//Infinite Lives
+patch=1,EE,00366858,extended,00000063
+
+//Infinite Air
+patch=1,EE,1036687A,extended,00003F80
+
+//Have Momett Doll Bells
+patch=1,EE,003FBB78,extended,00000006
+
+//Have All Photo Album Pics/Stones (Every Vision)
+patch=1,EE,00350791,extended,000000FF
+patch=1,EE,10350792,extended,0000FFFF
+patch=1,EE,20350794,extended,FFFFFFFF
+patch=1,EE,20350798,extended,FFFFFFFF
+patch=1,EE,2035079C,extended,FFFFFFFF
+patch=1,EE,003507A0,extended,000000FF

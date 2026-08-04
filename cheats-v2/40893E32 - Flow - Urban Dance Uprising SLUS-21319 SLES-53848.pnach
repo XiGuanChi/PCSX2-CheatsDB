@@ -1,0 +1,16 @@
+gametitle=Flow - Urban Dance Uprising SLUS-21319 SLES-53848
+//Unlock All Levels
+patch=1,EE,40435260,extended,0009000C
+patch=1,EE,00000001,extended,00000000
+
+//All Characters-All Outfits
+patch=1,EE,40435440,extended,001E0001
+patch=1,EE,00000001,extended,00000000
+
+//All Songs
+patch=1,EE,404354CC,extended,002B0001
+patch=1,EE,00000001,extended,00000000
+
+//Always Max Superb
+patch=1,EE,D1169730,extended,00007548
+patch=1,EE,2116AE18,extended,2403270F

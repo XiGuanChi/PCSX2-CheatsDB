@@ -1,0 +1,53 @@
+gametitle=Guilty Gear XX - Accent Core Plus SLUS-21847
+//P1 Infinite HP
+patch=1,EE,11E5B01E,extended,000001A4
+
+//P1 Infinite Tension
+patch=1,EE,103C6C10,extended,00002710
+
+//P1 Infinite Guard
+patch=1,EE,003C6C2A,extended,00000080
+
+//P1 Infinite Burst
+patch=1,EE,203C6D08,extended,00013A98
+
+//P1 Always Have Traits
+patch=1,EE,003C6C1A,extended,00000001
+
+//P2 No HP (P1 Press Select)
+patch=1,EE,D045811C,extended,0000FFFE
+patch=1,EE,11E5B142,extended,00000000
+
+//Unlock Kliff & Justice
+patch=1,EE,0034E90B,extended,00000001
+patch=1,EE,0034E90C,extended,00000001
+
+//Have All Characters' colors
+patch=1,EE,1034E8B8,extended,0000FFFF
+
+//Enable Slash Modes including Gold and Shadow
+patch=1,EE,4034E8D8,extended,000C0001
+patch=1,EE,00010001,extended,00000000
+
+//Enable Normal-EX and AC-GG-GGX
+patch=1,EE,4034E910,extended,00070001
+patch=1,EE,01010101,extended,00000000
+
+//Have All Missions Completed with All Characters Plus GGXX Ratings
+patch=1,EE,40350800,extended,00C40001
+patch=1,EE,01010101,extended,00000000
+
+//Have All Secret & Special
+patch=1,EE,40350B2C,extended,00070001
+patch=1,EE,01010101,extended,00000000
+
+//Have All Ending & EX Ending
+patch=1,EE,40350B70,extended,000C0001
+patch=1,EE,02010102,extended,00000000
+
+//Have All Story
+patch=1,EE,20350BB8,extended,01010101
+patch=1,EE,40350BA0,extended,00060001
+patch=1,EE,03030303,extended,00000000
+
+

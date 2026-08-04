@@ -1,0 +1,43 @@
+gametitle=Grandia III SLPM-65976-7
+//MAX money
+patch=1,EE,205B6348,extended,05F5E0FF
+
+//No Random Battles START + L2 = ON, START + R2 = OFF
+patch=1,EE,D0218A80,extended,00000801
+patch=1,EE,20285A30,extended,080A169A
+patch=1,EE,D0218A80,extended,00000802
+patch=1,EE,20285A30,extended,1040000D
+
+//HP · MP · SP recovery at end of combat
+patch=1,EE,201E33D8,extended,00000025
+patch=1,EE,201E3400,extended,00000025
+patch=1,EE,201E3428,extended,00000025
+
+//Maximum HP
+patch=1,EE,201DF39C,extended,2403270F
+patch=1,EE,201DF3A4,extended,A5030000
+
+//Maximum MP
+patch=1,EE,201DF48C,extended,2403270F
+patch=1,EE,201DF494,extended,A5030004
+
+//MAX HP at one level up
+patch=1,EE,201E3610,extended,00000000
+
+//MAX MP at one level up
+patch=1,EE,201E3648,extended,00000000
+
+//MAX attack at one level up
+patch=1,EE,201E3680,extended,00000000
+
+//MAX Magic in one level up
+patch=1,EE,201E36F0,extended,00000000
+
+//MAX Defense at one level up
+patch=1,EE,201E36B8,extended,00000000
+
+//MAX resistance at one level up
+patch=1,EE,201E3728,extended,00000000
+
+//MAX Action at one level up
+patch=1,EE,201E3760,extended,00000000

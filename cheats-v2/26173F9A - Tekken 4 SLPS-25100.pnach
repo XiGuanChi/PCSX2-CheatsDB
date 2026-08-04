@@ -1,0 +1,23 @@
+gametitle=Tekken 4 SLPS-25100
+//Infinite Health P1
+patch=1,EE,102A9D06,extended,000000A5
+
+//Infinite Health (Tekken Force Mode)
+patch=1,EE,202A9D06,extended,00000106
+
+//1-Hit Death P2
+patch=1,EE,D02AAC26,extended,000000A5
+patch=1,EE,102AAC26,extended,00000001
+
+//VS mode all stages selectable
+patch=1,EE,203C8A32,extended,00000001
+
+//Enable Theater
+patch=1,EE,203C8A4D,extended,00000001
+
+//Enable All Movies
+patch=1,EE,203C8A20,extended,FFFFFFFF
+
+//All Characters
+patch=1,EE,403C8A38,extended,00050001
+patch=1,EE,03030303,extended,00000000

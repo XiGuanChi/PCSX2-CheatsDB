@@ -1,0 +1,10 @@
+gametitle=Aggressive Inline SLES-50480
+//Play a level to update this code Jaren Grob Unlock All Levels
+patch=1,EE,202553A4,extended,000000FF
+
+//Unlock All Bonus Characters
+patch=1,EE,20250258,extended,0C3FFFFF
+
+//Bombshell
+//All Keys And Power Ups
+patch=1,EE,202553A8,extended,0000FFFF

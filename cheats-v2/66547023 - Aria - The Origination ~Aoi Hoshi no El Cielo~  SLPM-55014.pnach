@@ -1,0 +1,13 @@
+gametitle=Aria - The Origination ~Aoi Hoshi no El Cielo~ SLPM-55014
+//Enable Debug Menu Boot To Debug Menu At anytime, to go back to it, press and hold Select button while entering any mode, such as the Options menu.
+patch=1,EE,0010D840,extended,00000000
+patch=1,EE,D047EC80,extended,0000FFFE
+patch=1,EE,202746DC,extended,00000000
+
+//bonus When the code is ON, El Cielo can be selected, Cafe Time can be selected, All shortcuts can be selected, Extra completion
+patch=1,EE,20104744,extended,24040001
+
+//Unlock all Bonus
+patch=1,EE,20A81AC0,extended,FFFFFFFF
+
+ 

@@ -1,0 +1,12 @@
+gametitle=Dance Factory SLUS-21296
+//Quick Max Points
+patch=1,EE,20110EF0,extended,3C0205F5
+patch=1,EE,20110EF4,extended,3442E0FF
+
+//Max Cash
+patch=1,EE,200C0220,extended,3C0705F5
+patch=1,EE,200C0224,extended,34E7E0FF
+patch=1,EE,200C0228,extended,0807E266
+patch=1,EE,200C022C,extended,AE270A7C
+patch=1,EE,2018DE14,extended,0C030088
+

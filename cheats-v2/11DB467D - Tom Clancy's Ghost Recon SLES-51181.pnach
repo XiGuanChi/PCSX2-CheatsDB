@@ -1,0 +1,10 @@
+gametitle=Tom Clancy's Ghost Recon SLES-51181
+//God mode
+patch=1,EE,2017FC50,extended,24020001
+
+//Infinite ammo
+patch=1,EE,202219F4,extended,00000000
+
+//Invisible
+patch=1,EE,203F42AC,extended,AE00002C
+patch=1,EE,203F42B0,extended,AE00002C

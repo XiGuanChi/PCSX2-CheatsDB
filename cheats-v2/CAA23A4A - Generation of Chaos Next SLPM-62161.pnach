@@ -1,0 +1,100 @@
+gametitle=Generation of Chaos Next SLPM-62161
+//After 1 turn, all base funds MAX*
+patch=1,EE,A013A14C,extended,14000004
+
+//All 99 items 
+patch=1,EE,01C6F719,extended,00000063
+patch=1,EE,11C6F71A,extended,00006363
+patch=1,EE,41C6F71C,extended,005F0001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,11C6F898,extended,00006363
+
+//Warlord status Arriwes HP9999
+patch=1,EE,21C2ABC0,extended,270F270F
+
+//Magic City Guardib Max
+patch=1,EE,11C6FEB2,extended,00000E0E
+patch=1,EE,01C6FEB4,extended,0000000E
+patch=1,EE,21C6FEC0,extended,3B9AC9FF
+
+//HP9999 at L3 in battle
+patch=1,EE,200F4000,extended,3C01002A
+patch=1,EE,200F4004,extended,84211732
+patch=1,EE,200F4008,extended,30230200
+patch=1,EE,200F400C,extended,10600005
+patch=1,EE,200F4010,extended,8D510000
+patch=1,EE,200F4014,extended,12200003
+patch=1,EE,200F401C,extended,3411270F
+patch=1,EE,200F4020,extended,AD510000
+patch=1,EE,200F4024,extended,03E00008
+patch=1,EE,2017E840,extended,00525021
+patch=1,EE,2017E844,extended,0C03D000
+
+//conscript free
+patch=1,EE,201CBCF8,extended,44800800
+
+//Loyalty Command: Loyalty MAX when the reward succeeds
+patch=1,EE,20160210,extended,3405000F
+
+//base detailed information is displayed, press Select to maximize the base parameters.
+patch=1,EE,200F3000,extended,3C01002A
+patch=1,EE,200F3004,extended,84231732
+patch=1,EE,200F3008,extended,30630100
+patch=1,EE,200F300C,extended,10600006
+patch=1,EE,200F3010,extended,3C01000F
+patch=1,EE,200F3014,extended,8C233050
+patch=1,EE,200F3018,extended,AC430000
+patch=1,EE,200F301C,extended,34030E0E
+patch=1,EE,200F3020,extended,A443FFF2
+patch=1,EE,200F3024,extended,A043FFF4
+patch=1,EE,200F3028,extended,08055FA0
+patch=1,EE,200F3050,extended,3B9AC9FF
+patch=1,EE,201E4500,extended,0C03CC00
+
+//Press L3 In Battles For Debug Menus
+patch=1,EE,201A1C40,extended,0C300000
+patch=1,EE,201A1C44,extended,3C02002A
+patch=1,EE,201A1C48,extended,0830000F
+patch=1,EE,20C00000,extended,94441736
+patch=1,EE,20C00004,extended,30820200
+patch=1,EE,20C00008,extended,1040000C
+patch=1,EE,20C00010,extended,3C0201DF
+patch=1,EE,20C00014,extended,24420540
+patch=1,EE,20C00018,extended,00431021
+patch=1,EE,20C0001C,extended,8C460000
+patch=1,EE,20C00020,extended,2CC70008
+patch=1,EE,20C00024,extended,10E00003
+patch=1,EE,20C00028,extended,0000382D
+patch=1,EE,20C0002C,extended,8C470000
+patch=1,EE,20C00030,extended,24E70001
+patch=1,EE,20C00038,extended,AC470000
+patch=1,EE,20C0003C,extended,3C0201DF
+patch=1,EE,20C00040,extended,24420540
+patch=1,EE,20C00044,extended,00431021
+patch=1,EE,20C00048,extended,8C420000
+patch=1,EE,20C0004C,extended,08068714
+patch=1,EE,201A1DA4,extended,94241736
+patch=1,EE,201A1E4C,extended,94241736
+patch=1,EE,201A2528,extended,94221736
+patch=1,EE,201A2854,extended,94301736
+patch=1,EE,201A87E8,extended,0C300015
+patch=1,EE,201A87EC,extended,3C02002A
+patch=1,EE,201A87F0,extended,08300024
+patch=1,EE,20C00054,extended,94441736
+patch=1,EE,20C00058,extended,30820200
+patch=1,EE,20C0005C,extended,1040000C
+patch=1,EE,20C00064,extended,3C0201E4
+patch=1,EE,20C00068,extended,24420570
+patch=1,EE,20C0006C,extended,00431021
+patch=1,EE,20C00070,extended,80460000
+patch=1,EE,20C00074,extended,2CC70007
+patch=1,EE,20C00078,extended,10E00003
+patch=1,EE,20C0007C,extended,0000382D
+patch=1,EE,20C00080,extended,80470000
+patch=1,EE,20C00084,extended,24E70001
+patch=1,EE,20C0008C,extended,AC470000
+patch=1,EE,20C00090,extended,3C0201E4
+patch=1,EE,20C00094,extended,24420570
+patch=1,EE,20C00098,extended,00431021
+patch=1,EE,20C0009C,extended,80420000
+patch=1,EE,20C000A0,extended,0806A1FE

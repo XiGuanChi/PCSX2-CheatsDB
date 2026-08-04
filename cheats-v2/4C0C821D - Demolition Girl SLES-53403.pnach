@@ -1,0 +1,23 @@
+gametitle=Demolition Girl SLES-53403
+//Free all
+patch=1,EE,003E8277,extended,0000007F
+
+//All Quest
+patch=1,EE,203E8280,extended,01010101
+patch=1,EE,203E8284,extended,01010101
+patch=1,EE,203E8288,extended,01010101
+patch=1,EE,203E828C,extended,01010101
+patch=1,EE,203E8290,extended,01010101
+patch=1,EE,203E8296,extended,00000001
+patch=1,EE,103E827E,extended,00000101
+patch=1,EE,103E8294,extended,0000007F
+
+//Quest to view full 
+patch=1,EE,201841F4,extended,00430821
+patch=1,EE,201841F8,extended,24020001
+patch=1,EE,20184200,extended,A022A76E
+
+//swimsuit and difficulty 
+patch=1,EE,003A22FC,extended,000000FF
+patch=1,EE,003E8276,extended,000000FF
+patch=1,EE,003E8278,extended,000000FF

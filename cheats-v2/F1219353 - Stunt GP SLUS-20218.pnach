@@ -1,0 +1,19 @@
+gametitle=Stunt GP SLUS-20218
+//Infinite Energy
+patch=1,EE,203C2658,extended,447A0000
+
+
+//Championship Mode Infinite Credits
+patch=1,EE,1055C370,extended,0000FFFF
+
+//All Characters
+patch=1,EE,4055C500,extended,00060002
+patch=1,EE,05F5E0FF,extended,00000000
+
+//Unlock All Cars
+patch=1,EE,40542678,extended,00060001
+patch=1,EE,02020202,extended,00000000
+
+//Unlock All Tracks
+patch=1,EE,40542690,extended,00060001
+patch=1,EE,02020202,extended,00000000

@@ -1,0 +1,9 @@
+gametitle=Surfing H3O SLES-50056
+//Inf takeoffs
+patch=1,EE,10467664,extended,00000003
+
+//Inf continues
+patch=1,EE,1024FD64,extended,00000005
+
+//Open everything
+patch=1,EE,1024EB20,extended,000000050

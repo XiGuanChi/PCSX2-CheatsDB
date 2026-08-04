@@ -1,0 +1,10 @@
+gametitle=Daito Giken Koushiki Pachi-Slot Simulator - 24 - Twenty-Four SLPS-20506
+//Max score
+patch=1,EE,0164E56B,extended,00000001
+patch=1,EE,0164E56F,extended,00000006
+patch=1,EE,0164E54B,extended,00000001
+patch=1,EE,0164E53F,extended,00000001
+
+//9999999 After pressing the L2 button
+patch=1,EE,D0AB8682,extended,0000FEFF
+patch=1,EE,0165B3AF,extended,00000006

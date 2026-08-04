@@ -1,0 +1,15 @@
+gametitle=Erementar Gerad SLPM-62623
+//Player 1 synchronous gauge fully open
+patch=1,EE,20305774,extended,43020000
+
+//Bonus mode fully open
+patch=1,EE,2022026C,extended,00000000
+
+//P1 Life infinite
+patch=1,EE,2030B0EC,extended,43FA0000
+patch=1,EE,2030B0F0,extended,43FA0000
+
+//The being defeated flag entirely
+patch=1,EE,202C2C10,extended,04060C0E
+patch=1,EE,202C2C14,extended,04040404
+patch=1,EE,102C2C18,extended,00000104

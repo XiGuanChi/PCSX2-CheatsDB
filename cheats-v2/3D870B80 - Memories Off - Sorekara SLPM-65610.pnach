@@ -1,0 +1,7 @@
+gametitle=Memories Off - Sorekara SLPM-65610
+//Special fully opened
+patch=1,EE,4092B740,extended,09200001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Non World wide open
+patch=1,EE,2092C448,extended,FFFFFFFF

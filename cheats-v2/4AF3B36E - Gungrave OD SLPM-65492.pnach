@@ -1,0 +1,29 @@
+gametitle=Gungrave OD SLPM-65492
+//Infinite Health
+patch=1,EE,203AFC6C,extended,43960000
+
+//Life does not decrease
+patch=1,EE,20171C9C,extended,100000A0
+
+//Invincible (no collision detection)
+patch=1,EE,20171FD4,extended,3442800B
+patch=1,EE,201760EC,extended,10000008
+
+//DEMOLITION SHOT COUNTER Maximum maintenance
+patch=1,EE,103B0422,extended,00000004
+
+//MAX with DEMOLITION SHOT GAUGE increase
+patch=1,EE,2016BB7C,extended,34020708
+
+//DEMOLITION SHOT fully open It is effective to refer to "DATA" of the target character in OPTIONS
+patch=1,EE,2023A4F0,extended,34010001
+patch=1,EE,2023A4F4,extended,A04100C4
+
+//CUSTOMIZE & EXTRA fully open Please save once and then start again with the code off.
+patch=1,EE,102A6366,extended,00000303
+patch=1,EE,202A6368,extended,01010101
+patch=1,EE,202A636C,extended,01010101
+patch=1,EE,202A6370,extended,01010101
+patch=1,EE,002A6374,extended,00000001
+
+

@@ -1,0 +1,4 @@
+gametitle=Pinball SLES-51555
+//Press R1+R2 For Extra Balls
+patch=1,EE,D03F15D2,extended,0000F5FF
+patch=1,EE,103EE7D8,extended,00000000

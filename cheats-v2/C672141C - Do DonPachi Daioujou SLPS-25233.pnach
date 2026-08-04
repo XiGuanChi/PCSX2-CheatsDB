@@ -1,0 +1,8 @@
+gametitle=Do DonPachi Daioujou SLPS-25233
+//Infiite bombers
+patch=1,EE,0029F284,extended,00000006
+patch=1,EE,0029F285,extended,00000006
+
+//In battle with boss Press L2 to clear
+patch=1,EE,D057CD82,extended,0000FEFF
+patch=1,EE,102962DE,extended,00000001

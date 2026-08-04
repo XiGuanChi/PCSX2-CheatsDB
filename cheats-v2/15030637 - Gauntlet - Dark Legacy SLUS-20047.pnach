@@ -1,0 +1,30 @@
+gametitle=Gauntlet - Dark Legacy SLUS-20047
+//Player 1 Infinite Health
+patch=1,EE,10222F62,extended,0000461C
+
+//Player 1 Infinite Keys
+patch=1,EE,00222F64,extended,00000009
+
+//Player 1 Infinite Gold
+patch=1,EE,10222F70,extended,0000270F
+
+//Player 1 Have All Characters
+patch=1,EE,10221EF8,extended,0000FFFF
+
+//Player 2 Infinite Health
+patch=1,EE,10225A62,extended,0000461C
+
+//Player 2 Infinite Keys
+patch=1,EE,00225A64,extended,00000009
+
+//Player 3 Infinite Health
+patch=1,EE,10228562,extended,0000461C
+
+//Player 3 Infinite Keys
+patch=1,EE,00228564,extended,00000009
+
+//Player 4 Infinite Health
+patch=1,EE,1022B062,extended,0000461C
+
+//Player 4 Infinite Keys
+patch=1,EE,0022B064,extended,00000009

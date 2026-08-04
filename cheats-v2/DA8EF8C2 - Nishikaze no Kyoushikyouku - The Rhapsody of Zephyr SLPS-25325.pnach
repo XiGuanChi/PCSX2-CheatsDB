@@ -1,0 +1,76 @@
+gametitle=Nishikaze no Kyoushikyouku - The Rhapsody of Zephyr SLPS-25325
+//Max Gold
+patch=1,EE,20400B00,extended,05F5E0FF
+
+//Max HP / MP All characters
+patch=1,EE,20137294,extended,00000000
+patch=1,EE,20134430,extended,00000000
+
+//Roberto De Meditch 1 character Max HP 9999
+patch=1,EE,103FAAA0,extended,0000270F
+//103 FAB20 0000270F
+
+//Roberto De Meditch 1 character Max MP9999
+patch=1,EE,103FAAA4,extended,0000270F
+patch=1,EE,103FAB24,extended,0000270F
+
+//Roberto De Meditch 1 character Max Stats
+patch=1,EE,103FAAB8,extended,000003E7
+patch=1,EE,103FAABC,extended,000003E7
+patch=1,EE,103FAAC0,extended,000003E7
+patch=1,EE,103FAAB4,extended,00002700
+patch=1,EE,103FAAB0,extended,00002700
+patch=1,EE,103FAAAC,extended,00002700
+
+//Andrea Bors 2 character Max HP 9999
+patch=1,EE,103FBF40,extended,0000270F
+patch=1,EE,103FBFC0,extended,0000270F
+
+//Andrea Bors 2 character Max MP9999
+patch=1,EE,103FBF44,extended,0000270F
+patch=1,EE,103FBFC4,extended,0000270F
+
+//Andrea Bors 2 character Max Stats
+patch=1,EE,103FBF58,extended,000003E7
+patch=1,EE,103FBF5C,extended,000003E7
+patch=1,EE,103FBF60,extended,000003E7
+patch=1,EE,103FBF54,extended,00002700
+patch=1,EE,103FBF50,extended,00002700
+patch=1,EE,103FBF4C,extended,00002700
+
+//Louis Scheffer 3 character Max HP 9999
+patch=1,EE,103FC360,extended,0000270F
+patch=1,EE,103FC3E0,extended,0000270F
+
+//Louis Scheffer 3 character Max MP 9999
+patch=1,EE,103FC364,extended,0000270F
+patch=1,EE,103FC3E4,extended,0000270F
+
+//Louis Scheffer 3 character Max Stats
+patch=1,EE,103FC378,extended,000003E7
+patch=1,EE,103FC37C,extended,000003E7
+patch=1,EE,103FC380,extended,000003E7
+patch=1,EE,103FC374,extended,00002700
+patch=1,EE,103FC370,extended,00002700
+patch=1,EE,103FC36C,extended,00002700
+
+//Maximum experience value after battle
+patch=1,EE,20134704,extended,3C0300F4
+patch=1,EE,2013470C,extended,34612400
+patch=1,EE,20134710,extended,0020100A
+
+//Full open Album
+patch=1,EE,403F91AC,extended,00030001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,003F91B8,extended,00000001
+patch=1,EE,403F8FB8,extended,00070001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,403F8BD0,extended,00090001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,103F8BF4,extended,00000101
+
+//No random battles Encounter is On with SELECT, Off with R3.
+patch=1,EE,D0511242,extended,0000FFFE
+patch=1,EE,20144350,extended,150B0003
+patch=1,EE,D0511242,extended,0000FFFB
+patch=1,EE,20144350,extended,00000000

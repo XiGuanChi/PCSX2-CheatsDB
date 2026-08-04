@@ -1,0 +1,34 @@
+gametitle=Bakusou Dekotora Densetsu - Otoko Hanamichi Yume Roman SLPM-65234
+//Max gold 
+patch=1,EE,21B08020,extended,00989676
+
+//Legend of 999
+patch=1,EE,21B08024,extended,000003E7
+
+//Settings point 21
+patch=1,EE,01B09221,extended,00000015
+
+//Advent whole box picture (generic)
+patch=1,EE,21B07EF8,extended,FFFFFFFF
+patch=1,EE,21B07EFC,extended,FFFFFFFF
+patch=1,EE,21B07F00,extended,FFFFFFFF
+patch=1,EE,21B07F04,extended,FFFFFFFF
+patch=1,EE,21B07F08,extended,FFFFFFFF
+patch=1,EE,21B07F0C,extended,FFFFFFFF
+patch=1,EE,21B07F10,extended,FFFFFFFF
+patch=1,EE,21B07F14,extended,FFFFFFFF
+patch=1,EE,21B07F18,extended,FFFFFFFF
+patch=1,EE,21B07F1C,extended,FFFFFFFF
+patch=1,EE,21B07F20,extended,FFFFFFFF
+patch=1,EE,21B07F24,extended,FFFFFFFF
+patch=1,EE,01B07F28,extended,000000FF
+
+//Parts all appearance 
+patch=1,EE,41B07DF8,extended,000D0001
+patch=1,EE,FFFFFFFF,extended,1CDE2FEB
+patch=1,EE,21B07E2C,extended,00FFFFFF
+
+//Advent whole box picture 
+patch=1,EE,41B07EF8,extended,000C0001
+patch=1,EE,FFFFFFFF,extended,1CDE2FEB
+patch=1,EE,01B07F28,extended,000000FF

@@ -1,0 +1,12 @@
+gametitle=Chandragupta - Warrior Prince SCES-55662
+//Infinite Health
+patch=1,EE,20177A40,extended,00000000
+
+//Infinite/Max Legend Points(Purple Bar) On Hitting Enemy
+patch=1,EE,20197664,extended,E42189C4
+
+//Infinite Arrows
+patch=1,EE,20197AB0,extended,00000000
+
+//1 Hit Kill
+patch=1,EE,201E690C,extended,AE0020D8

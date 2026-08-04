@@ -1,0 +1,13 @@
+gametitle=The Punisher SLES-53049
+//Infinite Slaughter Mode
+patch=1,EE,2054235c,extended,42C80000
+
+//Infinite Shotgun Ammo
+patch=1,EE,2028e564,extended,24630000
+
+//Infinite Pistol Ammo
+patch=1,EE,2028e564,extended,24630000
+
+//Infinite Grenades
+patch=1,EE,2023e0c4,extended,24630000
+

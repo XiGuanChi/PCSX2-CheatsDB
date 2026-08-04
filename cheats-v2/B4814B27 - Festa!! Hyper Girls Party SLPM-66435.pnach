@@ -1,0 +1,12 @@
+gametitle=Festa!! Hyper Girls Party SLPM-66435
+//New Game = Debug Menu 
+patch=1,EE,20192C40,extended,240400??
+patch=1,EE,20128018,extended,0C064B0C
+patch=1,EE,2012801C,extended,24020004
+patch=1,EE,20192C30,extended,8FA50084
+patch=1,EE,20192C34,extended,24040019
+patch=1,EE,20192C38,extended,14850003
+patch=1,EE,20192C3C,extended,00000000
+patch=1,EE,20192C44,extended,AFA40084
+patch=1,EE,20192C48,extended,03E00008
+patch=1,EE,20192C4C,extended,8FA50084

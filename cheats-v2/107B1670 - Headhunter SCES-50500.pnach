@@ -1,0 +1,38 @@
+gametitle=Headhunter SCES-50500
+//Infinite Health
+patch=1,EE,2055B52C,extended,42C80000
+
+//Infinite Adrenaline
+patch=1,EE,2055B530,extended,42C80000
+
+//No Re-Load Stimulator Auto
+patch=1,EE,1055B900,extended,0000000A
+
+//Infinite Ammo Machine Gun
+patch=1,EE,1055B9D8,extended,0000001E
+
+//Infinite Ammo Neurostunner
+patch=1,EE,103FF74C,extended,0000000A
+
+//Infinite Ammo Shotgun
+patch=1,EE,1055BA20,extended,00000008
+
+//Infinite Ammo Missile Launcher
+patch=1,EE,103FF758,extended,0000000A
+
+//Infinite Resonator Grenades
+patch=1,EE,103FE774,extended,00000009
+
+//Infinite Proximity Mines
+patch=1,EE,103FE77C,extended,00000009
+
+//Leila Building Always Access
+patch=1,EE,0058A704,extended,00000001
+
+//Skills Points 1500
+patch=1,EE,20587D14,extended,44BB8000
+patch=1,EE,0058A700,extended,000000DC
+
+//Obtain AAA Licence
+patch=1,EE,202E6AD0,extended,FFFFFFFF
+patch=1,EE,202E6AD4,extended,FFFFFFFF

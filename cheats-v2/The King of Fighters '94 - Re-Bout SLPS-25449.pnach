@@ -1,0 +1,7 @@
+gametitle=The King of Fighters '94 - Re-Bout SLPS-25449
+//P1 Infinte HP
+patch=1,EE,10557B50,extended,000000CF
+
+//P1 Infinte Power
+patch=1,EE,10557B48,extended,0000007F
+patch=1,EE,10557B80,extended,00000258

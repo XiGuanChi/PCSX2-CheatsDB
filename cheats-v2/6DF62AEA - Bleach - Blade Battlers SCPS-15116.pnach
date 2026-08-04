@@ -1,0 +1,71 @@
+gametitle=Bleach - Blade Battlers SCPS-15116
+//Money 999999 ring
+patch=1,EE,202C56D4,extended,000F423F
+
+//Unlock Everything
+patch=1,EE,2020B4B8,extended,00820821
+patch=1,EE,2020B4BC,extended,240200FF
+patch=1,EE,2020B4C0,extended,A0220000
+
+//Infinite Health Story mode
+patch=1,EE,201E7A58,extended,9622000E
+patch=1,EE,201E7A5C,extended,1040001A
+patch=1,EE,201E7AC0,extended,00421023
+
+//Unlock 23 Characteres
+patch=1,EE,202C5DA4,extended,FFFFFFFF
+patch=1,EE,202C5DA8,extended,FFFFFFFF
+patch=1,EE,202C5DAC,extended,FFFFFFFF
+
+//Unlock 9 + 1 random battle arena
+patch=1,EE,202C5DB0,extended,FFFFFFFF
+
+//Unlock 5 episodes clear
+patch=1,EE,202C5DB4,extended,FFFFFFFF
+
+//Start Training Mode For Debug Menu
+patch=1,EE,001D4080,extended,00000008
+
+
+//Unlock 5 pictures/cards and model figurines
+patch=1,EE,202C5DC4,extended,FFFFFFFF
+
+//Unlock Special Section
+patch=1,EE,202C5DE8,extended,FFFFFFFF
+
+//Unlock 16 movies
+patch=1,EE,202C5DEC,extended,FFFFFFFF
+
+//Unlock 50 missions clear + 23 VS section
+patch=1,EE,202C5DB8,extended,FFFFFFFF
+patch=1,EE,202C5DBC,extended,FFFFFFFF
+
+//--- Battle Arena Multi Player ---
+
+//99 Continue P1 (leader left)
+patch=1,EE,102C5E40,extended,00000063
+
+//99 Continue P1 (leader right)
+patch=1,EE,102C5E42,extended,00000063
+
+//Select your mission xx= digit 00 to 31 00 ---> mission 1 31 ---> mission 50
+patch=1,EE,102C5E20,extended,00000031
+
+//p1 only change physical fitness
+patch=1,EE,201E8964,extended,10000015
+patch=1,EE,201E894C,extended,9623000E
+patch=1,EE,201E8950,extended,1460001D
+
+//1P: not reduced physical strength
+patch=1,EE,201E7A58,extended,9622000E
+patch=1,EE,201E7A5C,extended,1040001A
+
+//1P: not reduced physical strength and other blow death
+patch=1,EE,201E7A58,extended,9622000E
+patch=1,EE,201E7A5C,extended,1040001A
+patch=1,EE,201E7AC0,extended,00421023
+
+//Items & Story achievement rate of 100%
+patch=1,EE,2020B4BC,extended,240100FF
+patch=1,EE,2020B4C0,extended,A0410000
+patch=1,EE,2020B4C4,extended,24020001

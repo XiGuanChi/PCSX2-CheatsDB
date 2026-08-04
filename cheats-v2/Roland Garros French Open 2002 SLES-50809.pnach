@@ -1,0 +1,15 @@
+gametitle=Roland Garros French Open 2002 SLES-50809
+//Score Is 40/0 Press Select+L2 to activate
+patch=1,EE,D0252D82,extended,0000FEFE
+patch=1,EE,200FFF14,extended,A0640F7A
+patch=1,EE,D0252D82,extended,0000FEFE
+patch=1,EE,200FFF18,extended,A0600F81
+
+//Score Is 0/40 Press Select+R2 to activate
+patch=1,EE,D0252D82,extended,0000FDFE
+patch=1,EE,200FFF14,extended,A0600F7A
+patch=1,EE,D0252D82,extended,0000FDFE
+patch=1,EE,200FFF18,extended,A0640F81
+
+//Infinite Credits
+patch=1,EE,002579D0,extended,00000009

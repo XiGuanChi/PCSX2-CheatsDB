@@ -1,0 +1,49 @@
+gametitle=Mercenaries 2 - World in Flames SLPM-55110
+//Infinite Health
+patch=1,EE,201386B8,extended,08030088
+patch=1,EE,200C0220,extended,3C014448
+patch=1,EE,200C0224,extended,0804E1C7
+patch=1,EE,200C0228,extended,AE010098
+
+//Infinite Ammo/Never Reload 
+patch=1,EE,2012BF00,extended,00000000
+
+//Infinite Grenades 
+patch=1,EE,2012A08C,extended,00000000
+
+//Max Cash
+patch=1,EE,2017BA90,extended,3C014CBE
+patch=1,EE,2017BA98,extended,AE0112B0
+
+//Infinite Fuel Reserves 
+patch=1,EE,2017BAFC,extended,00000000
+
+//Press: R3+Left) Disable Mission Timer 
+patch=1,EE,D0A4FB9C,extended,0000FF7B
+patch=1,EE,2032F340,extended,00000000
+
+//Press: R3+Right Enable Mission Timer 
+patch=1,EE,D0A4FB9C,extended,0000FFDB
+patch=1,EE,2032F340,extended,C44C002C
+
+//Infinite Ammo/Grenades (All Weapons)
+patch=1,EE,20575898,extended,00000001
+
+//Max Cash
+patch=1,EE,2017BA90,extended,3C014CBE
+patch=1,EE,2017BA90,extended,AE0112B0
+
+//Disable Car Damage
+patch=1,EE,2014178C,extended,00000000
+
+//Max Fuel
+patch=1,EE,2017BA84,extended,C6001678
+patch=1,EE,2017BA8C,extended,E6001674
+
+//Vehicle Never On Fire
+patch=1,EE,202E6970,extended,03E00008
+patch=1,EE,202E6974,extended,00000000
+
+//God Mode
+patch=1,EE,605CA64C,extended,00000006
+patch=1,EE,60000001,extended,00000110

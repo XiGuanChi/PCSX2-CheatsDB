@@ -1,0 +1,73 @@
+gametitle=Everybody's Golf SCES-52582
+//Always hole in one
+patch=1,EE,2051E80C,extended,00000001
+patch=1,EE,2051E834,extended,00000001
+patch=1,EE,2051E85C,extended,00000001
+patch=1,EE,2051E884,extended,00000001
+patch=1,EE,2051E8AC,extended,00000001
+patch=1,EE,2051E8D4,extended,00000001
+patch=1,EE,2051E8FC,extended,00000001
+patch=1,EE,2051E924,extended,00000001
+patch=1,EE,2051E94C,extended,00000001
+patch=1,EE,2051E974,extended,00000001
+patch=1,EE,2051E99C,extended,00000001
+patch=1,EE,2051E9C4,extended,00000001
+patch=1,EE,2051E9EC,extended,00000001
+patch=1,EE,2051EA14,extended,00000001
+patch=1,EE,2051EA3C,extended,00000001
+patch=1,EE,2051EA64,extended,00000001
+patch=1,EE,2051EA8C,extended,00000001
+patch=1,EE,2051EAB4,extended,00000001
+
+//Have all balls
+patch=1,EE,20528230,extended,05050505
+patch=1,EE,20528234,extended,05050505
+
+//Have all capsules
+patch=1,EE,005281FD,extended,00000005
+patch=1,EE,105281FE,extended,00000505
+patch=1,EE,20528200,extended,05050505
+patch=1,EE,20528204,extended,05050505
+
+//Have All Characters
+patch=1,EE,20528280,extended,02020202
+patch=1,EE,20528284,extended,02020202
+patch=1,EE,20528288,extended,02020202
+patch=1,EE,2052828C,extended,02020202
+patch=1,EE,20528290,extended,02020202
+patch=1,EE,20528294,extended,02020202
+
+//Have All Clubs
+patch=1,EE,20528228,extended,01010101
+patch=1,EE,1052822C,extended,00000101
+patch=1,EE,0052822E,extended,00000001
+
+//Have All Costumes
+patch=1,EE,005281E5,extended,00000005
+patch=1,EE,105281E6,extended,00000505
+patch=1,EE,205281E8,extended,05050505
+patch=1,EE,205281EC,extended,05050505
+patch=1,EE,205281F0,extended,05050505
+patch=1,EE,205281F4,extended,05050505
+patch=1,EE,205281F8,extended,05050505
+patch=1,EE,005281FC,extended,00000005
+
+//Have All Courses
+patch=1,EE,20528238,extended,05050505
+patch=1,EE,2052823C,extended,05050505
+patch=1,EE,20528240,extended,05050505
+patch=1,EE,005281E4,extended,00000005
+
+//Have All others
+patch=1,EE,20528208,extended,05050505
+patch=1,EE,2052820C,extended,05050505
+patch=1,EE,20528210,extended,05050505
+patch=1,EE,20528214,extended,05050505
+patch=1,EE,20528218,extended,05050505
+patch=1,EE,2052821C,extended,FF050505
+
+//Infinite Points
+patch=1,EE,205281E0,extended,05F5E0FF
+
+//Infinite Power Shots
+patch=1,EE,20528010,extended,00000009

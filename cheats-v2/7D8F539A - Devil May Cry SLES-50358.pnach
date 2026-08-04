@@ -1,0 +1,36 @@
+gametitle=Devil May Cry SLES-50358
+//Open all Game Modes
+patch=1,EE,20742204,extended,FFFFFFFF
+
+//Infinite Health
+patch=1,EE,205C7654,extended,07D00000
+
+//Infinite Devil Trigger
+patch=1,EE,105C79F2,extended,00004B00
+
+//Always 0 Saves
+patch=1,EE,205BF510,extended,FFFFFFFF
+
+//Max Red Orbs At End Stage
+patch=1,EE,20742AFC,extended,05F5E0FF
+
+//Stop Countdown Timer
+patch=1,EE,205BEB80,extended,00003E00
+
+//Inf Red Orbs
+patch=1,EE,20742924,extended,05F5E0FF
+
+//Infinite Yellow Orbs
+patch=1,EE,20742910,extended,000003E7
+
+//Always 3 Blue Orbs
+patch=1,EE,20742928,extended,00000003
+
+//Master All Moves
+patch=1,EE,20742918,extended,7FFE0000
+
+//Beer Goggles
+patch=1,EE,205CD800,extended,00012038
+
+//Clear Vision Underwater
+patch=1,EE,205CD800,extended,00002038

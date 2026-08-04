@@ -1,0 +1,10 @@
+gametitle=Tony Hawk's Pro Skater 4 SLES-51131
+//Open All Levels
+patch=1,EE,2A0BB607,extended,0018FFFF
+
+//Stacks Of PRO Cash
+patch=1,EE,2A8FB60B,extended,05F5E0FF
+
+//Max PRO Points
+patch=1,EE,2A73B60B,extended,000000BE
+patch=1,EE,2A83B60B,extended,000000BE

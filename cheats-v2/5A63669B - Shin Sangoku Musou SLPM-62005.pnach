@@ -1,0 +1,18 @@
+gametitle=Shin Sangoku Musou SLPM-62005
+//Bow and arrow number change MAX
+patch=1,EE,00336882,extended,00000063
+
+//MAX series with one of the power-up items ATTACK MAX
+patch=1,EE,20220E94,extended,14000000
+
+//DEFENSE MAX
+patch=1,EE,20220EEC,extended,14000000
+
+//LIFE & Muso gauge
+patch=1,EE,20220F44,extended,14000000
+
+//It is not reduced bow and arrow
+patch=1,EE,2022DBC4,extended,24820000
+
+//Friend or foe invincible of
+patch=1,EE,2022CF28,extended,24030160

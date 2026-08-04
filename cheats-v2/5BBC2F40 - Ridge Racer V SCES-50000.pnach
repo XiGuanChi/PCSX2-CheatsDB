@@ -1,0 +1,23 @@
+gametitle=Ridge Racer V SCES-50000
+//Infinite Continues
+patch=1,EE,21E35940,extended,00000003
+
+//Have All Cars & Engines
+patch=1,EE,41E359C8,extended,000E0000
+patch=1,EE,02020202,extended,00000000
+
+//Unlock Race Modes
+patch=1,EE,11E359A0,extended,00000101
+patch=1,EE,11E359A4,extended,00000101
+patch=1,EE,11E359A6,extended,00000701
+
+//Have All Medals
+patch=1,EE,41E37B30,extended,00040000
+patch=1,EE,00000101,extended,00000000
+
+//Have All Trophies
+patch=1,EE,41E37B28,extended,00040000
+patch=1,EE,00000101,extended,00000000
+
+//Unlock Extra GPs
+patch=1,EE,11E3597E,extended,00000204

@@ -1,0 +1,19 @@
+gametitle=Metal Gear Solid  3 -  Snake Eater SLES-82013
+//Infinite & Max HP
+patch=1,EE,200C200C,extended,85A10686
+patch=1,EE,200C2010,extended,A5A10684
+patch=1,EE,200C2004,extended,24010190
+patch=1,EE,200C2008,extended,A5A10686
+
+//Iinfinite Ammo (All Weapons
+patch=1,EE,200C2038,extended,85AE05D6
+patch=1,EE,200C203C,extended,11C00007
+patch=1,EE,200C2040,extended,020E7018
+patch=1,EE,200C2044,extended,004E7020
+patch=1,EE,200C2048,extended,241103E7
+patch=1,EE,200C204C,extended,A5D10018
+patch=1,EE,200C2050,extended,A5D1001A
+patch=1,EE,200C2054,extended,95D1001E
+patch=1,EE,200C2058,extended,A5D1001C
+
+

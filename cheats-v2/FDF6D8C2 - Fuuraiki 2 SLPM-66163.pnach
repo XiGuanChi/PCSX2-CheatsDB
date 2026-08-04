@@ -1,0 +1,16 @@
+gametitle=Fuuraiki 2 SLPM-66163
+
+
+//Cleared & appearing after the report
+patch=1,EE,003B90D7,extended,00000007
+patch=1,EE,003B90D9,extended,00000007
+patch=1,EE,003B90DB,extended,00000007
+patch=1,EE,003B90DD,extended,00000007
+
+//CG appreciation fully open
+patch=1,EE,403B9278,extended,000F0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Enable Debug Mode Press Select' to enable or disable the menu
+patch=1,EE,2027FDC4,extended,24050002
+patch=1,EE,0024707E,extended,00000085

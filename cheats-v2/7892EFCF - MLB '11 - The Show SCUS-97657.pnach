@@ -1,0 +1,42 @@
+gametitle=MLB '11 - The Show SCUS-97657
+//Always Make Contact Hold R1 
+patch=1,EE,20826170,extended,8E62001C
+patch=1,EE,20826178,extended,8E250000
+patch=1,EE,20826258,extended,10400E76
+patch=1,EE,E003FF00,extended,0021E3B8
+patch=1,EE,20826170,extended,34050006
+patch=1,EE,20826178,extended,AE250000
+patch=1,EE,20826258,extended,00000000
+
+//Hit Homeruns All the Time Hold R1 or Square 
+patch=1,EE,200A0000,extended,3C060022
+patch=1,EE,200A0004,extended,24C6E3B6
+patch=1,EE,200A0008,extended,90C30001
+patch=1,EE,200A000C,extended,14600003
+patch=1,EE,200A0010,extended,90C30003
+patch=1,EE,200A0014,extended,1060000B
+patch=1,EE,200A001C,extended,8E260080
+patch=1,EE,200A0020,extended,3C03F000
+patch=1,EE,200A0024,extended,00C33024
+patch=1,EE,200A0028,extended,3C0302AA
+patch=1,EE,200A002C,extended,00C33025
+patch=1,EE,200A0030,extended,AE260080
+patch=1,EE,200A0034,extended,3C0642AA
+patch=1,EE,200A0038,extended,AE260084
+patch=1,EE,200A003C,extended,3C06C2EA
+patch=1,EE,200A0040,extended,AE260088
+patch=1,EE,200A0044,extended,3C06008C
+patch=1,EE,200A0048,extended,2403FFFF
+patch=1,EE,200A004C,extended,0820A6A0
+patch=1,EE,20829A78,extended,08028000
+
+//Infinite Funds All Teams
+patch=1,EE,20738664,extended,00000000
+
+//View Staff For 999,999,999 Funding
+patch=1,EE,200C0200,extended,3C023B9A
+patch=1,EE,200C0204,extended,3442C9FF
+patch=1,EE,200C0208,extended,AC620300
+patch=1,EE,200C020C,extended,03E00008
+patch=1,EE,200C0210,extended,8C620300
+patch=1,EE,20755B70,extended,08030080

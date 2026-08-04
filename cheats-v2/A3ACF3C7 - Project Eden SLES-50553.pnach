@@ -1,0 +1,32 @@
+gametitle=Project Eden SLES-50553
+//Infinite Health Moniko
+patch=1,EE,21310088,extended,42C80000
+patch=1,EE,2131008C,extended,42C80000
+
+//Infinite Health Amber
+patch=1,EE,213104F8,extended,43160000
+patch=1,EE,213104FC,extended,43160000
+
+//Infinite Health Andre
+patch=1,EE,21310968,extended,42C80000
+patch=1,EE,2131096C,extended,42C80000
+
+//Infinite Health Carter
+patch=1,EE,2131A5E8,extended,42C80000
+patch=1,EE,2131A5EC,extended,42C80000
+
+//Infinite Ammo Moniko
+patch=1,EE,21310068,extended,42C80000
+patch=1,EE,2131006C,extended,42C80000
+
+//Infinite Ammo Amber
+patch=1,EE,213104D8,extended,42C80000
+patch=1,EE,213104DC,extended,42C80000
+
+//Infinite Ammo Andre
+patch=1,EE,21310948,extended,42C80000
+patch=1,EE,2131094C,extended,42C80000
+
+//Infinite Ammo Carter
+patch=1,EE,213180E8,extended,42C80000
+patch=1,EE,213180EC,extended,42C80000

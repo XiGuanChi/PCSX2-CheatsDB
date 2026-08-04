@@ -1,0 +1,15 @@
+gametitle=Teenage Mutant Ninja Turtles 3 - Mutant Nightmare SLES-53850
+//Infinite Health
+patch=1,EE,202DFFCC,extended,8C820008
+patch=1,EE,202DFFD0,extended,AC820004
+
+//Infinite Power
+patch=1,EE,202DFE3C,extended,8C820018
+patch=1,EE,202DFE40,extended,AC820014
+
+//Max Upgrade Points
+patch=1,EE,204178A0,extended,3C02000F
+patch=1,EE,204178A4,extended,AC820004
+
+//All Levels Open
+patch=1,EE,205558F8,extended,24020001

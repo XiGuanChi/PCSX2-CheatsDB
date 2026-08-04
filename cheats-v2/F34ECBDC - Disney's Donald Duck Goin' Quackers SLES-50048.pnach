@@ -1,0 +1,57 @@
+gametitle=Disney's Donald Duck Goin' Quackers SLES-50048
+//Inf Lives
+patch=1,EE,10886074,extended,00000005
+
+//Inf Time
+patch=1,EE,105C3E8C,extended,0000A62A
+
+//Cog Modifier
+patch=1,EE,10886070,extended,00000063
+
+//Unlock Duckie Mountain
+patch=1,EE,02887380,extended,00000001
+patch=1,EE,02887390,extended,00000001
+patch=1,EE,028873A0,extended,00000001
+patch=1,EE,028873B0,extended,00000001
+
+//Unlock Duckburg
+patch=1,EE,028874C0,extended,00000001
+patch=1,EE,028873B0,extended,00000001
+patch=1,EE,028873C0,extended,00000001
+patch=1,EE,028873D0,extended,00000001
+patch=1,EE,028873E0,extended,00000001
+patch=1,EE,028873F0,extended,00000001
+
+//Open Magica DeSpell Manor
+patch=1,EE,028874D0,extended,00000001
+patch=1,EE,028873F0,extended,00000001
+patch=1,EE,02887400,extended,00000001
+patch=1,EE,02887410,extended,00000001
+patch=1,EE,02887420,extended,00000001
+patch=1,EE,02887430,extended,00000001
+
+//Open Merlock's Temple
+patch=1,EE,028874E0,extended,00000001
+patch=1,EE,02887430,extended,00000001
+patch=1,EE,02887440,extended,00000001
+patch=1,EE,02887450,extended,00000001
+patch=1,EE,02887460,extended,00000001
+patch=1,EE,02887470,extended,00000001
+
+//All special Move Challenges
+patch=1,EE,10885670,extended,00000001
+patch=1,EE,10885680,extended,00000001
+patch=1,EE,10885690,extended,00000001
+patch=1,EE,108856A0,extended,00000001
+patch=1,EE,108856B0,extended,00000001
+patch=1,EE,108856C0,extended,00000001
+patch=1,EE,108856D0,extended,00000001
+patch=1,EE,108856E0,extended,00000001
+patch=1,EE,108856F0,extended,00000001
+patch=1,EE,10885700,extended,00000001
+patch=1,EE,10885710,extended,00000001
+patch=1,EE,10885720,extended,00000001
+patch=1,EE,10885730,extended,00000001
+patch=1,EE,10885740,extended,00000001
+patch=1,EE,10885750,extended,00000001
+patch=1,EE,10885760,extended,00000001

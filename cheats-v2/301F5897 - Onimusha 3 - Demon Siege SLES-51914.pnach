@@ -1,0 +1,15 @@
+gametitle=Onimusha 3 - Demon Siege SLES-51914
+//Infinite Vitality
+patch=1,EE,208F5B58,extended,00000500
+
+//Infinite Ogre Po wer
+patch=1,EE,208F7DB0,extended,00000500
+
+//Infinite Onimusha
+patch=1,EE,208F7E04,extended,00000400
+
+//Infinite Item/Arrow Use
+patch=1,EE,20339DCC,extended,00000000
+
+//All Extra Features
+patch=1,EE,2054A8BC,extended,FFFFFFFF

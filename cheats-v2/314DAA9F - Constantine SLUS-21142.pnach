@@ -1,0 +1,18 @@
+gametitle=Constantine SLUS-21142
+//Infinite Health
+patch=1,EE,20318A58,extended,E48C0014
+patch=1,EE,20318A5C,extended,E4800014
+
+//Infinite Magic
+patch=1,EE,20318C44,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,2015F82C,extended,00000000
+
+//All Levels Unlocked
+patch=1,EE,405849D4,extended,00030001
+patch=1,EE,00000011,extended,00000000
+
+//All Bonus Material
+patch=1,EE,405848BB,extended,00ED0001
+patch=1,EE,00000001,extended,00000000

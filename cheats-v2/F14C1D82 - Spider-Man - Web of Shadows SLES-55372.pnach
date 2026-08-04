@@ -1,0 +1,47 @@
+gametitle=Spider-Man - Web of Shadows SLES-55372
+
+//Infinite Health
+patch=1,EE,200C0220,extended,C62C04CC
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,E62C04C8
+patch=1,EE,201FF45C,extended,0C030088
+
+//1-Hit Death (Enemies)
+patch=1,EE,20209E20,extended,AE4004CC
+
+//Max Infinite Skill Points (Azagthoth)
+patch=1,EE,205B313C,extended,05F5E0FF
+
+//Max Infinite Red Reputation
+patch=1,EE,205B31B8,extended,05F5E0FF
+
+//Max Infinite Black Reputation
+patch=1,EE,205B31BC,extended,05F5E0FF
+
+//Max Infinite Power Ups
+patch=1,EE,105B31E0,extended,000003E7
+patch=1,EE,105B3230,extended,000003E7
+patch=1,EE,105B3240,extended,000003E7
+patch=1,EE,105B3260,extended,000003E7
+
+//Ready Missions Codes
+
+//Infinite Power-Ups
+patch=1,EE,201E66D8,extended,00000000
+patch=1,EE,2025CB18,extended,00000000
+
+//Have All Power-Ups
+patch=1,EE,2025D180,extended,24020063
+patch=1,EE,2025D184,extended,AC620014
+patch=1,EE,200C0240,extended,24020063
+patch=1,EE,200C0244,extended,03E00008
+patch=1,EE,200C0248,extended,AC42077C
+patch=1,EE,2025AC64,extended,0C030090
+
+//Activated Cheat Codes
+
+//Invulnerable
+patch=1,EE,201FA990,extended,24020001
+
+//1-Hit Death (Enemies)
+patch=1,EE,201FA23C,extended,24040001

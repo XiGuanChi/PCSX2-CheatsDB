@@ -1,0 +1,22 @@
+gametitle=Avatar - The Last Airbender SLUS-21395
+//Infinite Health
+patch=1,EE,201746A4,extended,94430092
+patch=1,EE,201746A8,extended,A4430090
+
+//1 Hit Kill 
+patch=1,EE,20194C84,extended,00000000
+
+//Unlockable Codes All TreasuresS Map
+patch=1,EE,004F59FA,extended,00000001
+
+//Unlockable Codes Character Gallery
+patch=1,EE,004F59FE,extended,00000001
+
+//Unlockable Codes Unlimited Health
+patch=1,EE,004F59F8,extended,00000001
+
+//Unlockable Codes Unlimited Chi
+patch=1,EE,004F59FF,extended,00000001
+
+//Unlockable Codes Unlimited Copper
+patch=1,EE,004F59F9,extended,00000001

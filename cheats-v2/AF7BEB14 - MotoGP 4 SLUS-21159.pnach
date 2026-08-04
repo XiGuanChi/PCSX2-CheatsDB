@@ -1,0 +1,38 @@
+gametitle=MotoGP 4 SLUS-21159
+//Max Cash After Buying an Item in Paddock
+patch=1,EE,201B68B4,extended,3C0D05F0
+patch=1,EE,201B68BC,extended,00000000
+
+//All Challenges Completed
+patch=1,EE,005A99E5,extended,00000002
+patch=1,EE,105A99E6,extended,00000202
+patch=1,EE,405A99E8,extended,001A0001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,105A9A50,extended,00000202
+
+//Always Low Race Time
+patch=1,EE,2021AC68,extended,AE4000B0
+
+//Start On Lap 5
+patch=1,EE,200C0220,extended,50A00001
+patch=1,EE,200C0224,extended,24050004
+patch=1,EE,200C0228,extended,0807F148
+patch=1,EE,200C022C,extended,ADE50174
+patch=1,EE,201FCDC8,extended,0C030088
+
+//All Bikes & Riders
+patch=1,EE,105C7B5E,extended,00000002
+patch=1,EE,405C7B60,extended,002B0001
+patch=1,EE,00020002,extended,00000000
+patch=1,EE,105C7C0C,extended,00000002
+
+//All Circuits
+patch=1,EE,405C7B50,extended,00030001
+patch=1,EE,00020002,extended,00000000
+patch=1,EE,005C7B5C,extended,00000002
+
+//All Other Items
+patch=1,EE,105C7C0E,extended,00000002
+patch=1,EE,405C7C11,extended,00000001
+patch=1,EE,00020002,extended,00000000
+patch=1,EE,105C7D24,extended,00000002

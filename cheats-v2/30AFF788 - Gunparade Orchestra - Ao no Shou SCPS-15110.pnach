@@ -1,0 +1,32 @@
+gametitle=Gunparade Orchestra - Ao no Shou SCPS-15110
+//After combat experience value +1000
+patch=1,EE,202B0928,extended,00000000
+
+//Physical Fitness and energy 255, genius, Tsuyoun learning
+patch=1,EE,20148844,extended,0803D400
+patch=1,EE,200F5000,extended,24030003
+patch=1,EE,200F5004,extended,AE230844
+patch=1,EE,200F5008,extended,2463FFFF
+patch=1,EE,200F500C,extended,AE230804
+patch=1,EE,200F5010,extended,246300FD
+patch=1,EE,200F5014,extended,AE230004
+patch=1,EE,200F5018,extended,08052213
+patch=1,EE,200F501C,extended,AE230044
+
+//Money in maximum
+patch=1,EE,20142F60,extended,3447E0FF
+
+//Infinite Ammo
+patch=1,EE,2029B8A0,extended,00401021
+patch=1,EE,2029B8DC,extended,00401021
+
+//Scenario from the initial & cast can be selected
+patch=1,EE,201AC6BC,extended,AE3F0124
+
+//Eseclear data
+patch=1,EE,201469A8,extended,24020001
+patch=1,EE,201469B8,extended,24020001
+patch=1,EE,20158068,extended,54000003
+patch=1,EE,20158144,extended,54000003
+patch=1,EE,201581F8,extended,54000003
+patch=1,EE,2025D588,extended,0C051A68

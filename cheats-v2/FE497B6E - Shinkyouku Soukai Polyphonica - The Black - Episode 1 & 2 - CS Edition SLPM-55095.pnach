@@ -1,0 +1,15 @@
+gametitle=Shinkyouku Soukai Polyphonica - The Black - Episode 1 & 2 - CS Edition SLPM-55095
+//Episode 2
+patch=1,EE,002C8935,extended,00000010
+
+//CG mode fully open
+patch=1,EE,202B9FDC,extended,FFFFFFFF
+patch=1,EE,102B9FD4,extended,0000FFFF
+patch=1,EE,102B9FDA,extended,0000FFFF
+patch=1,EE,102B9FCC,extended,0000FFFF
+patch=1,EE,002B9FE0,extended,000000FF
+patch=1,EE,002B9FD2,extended,000000FF
+patch=1,EE,002B9FCA,extended,000000FF
+
+//Debug mode After pressing the START button
+patch=0,EE,002B9F27,extended,0000007F

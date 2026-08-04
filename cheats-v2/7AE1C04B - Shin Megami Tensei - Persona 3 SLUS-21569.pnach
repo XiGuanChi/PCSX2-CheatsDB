@@ -1,0 +1,59 @@
+gametitle=Shin Megami Tensei - Persona 3 SLUS-21569
+//Max Money
+patch=1,EE,20810ADC,extended,0098967F
+
+//Always Good Stats
+patch=1,EE,2016BDD8,extended,A46FC66E
+patch=1,EE,2016BE04,extended,A46F0000
+patch=1,EE,2016BD08,extended,A4600000
+
+//Academics Stats Max
+patch=1,EE,1080C660,extended,000003E7
+
+//Charm Stats Max
+patch=1,EE,1080C662,extended,000003E7
+
+//Courage Stats Max
+patch=1,EE,1080C664,extended,000003E7
+
+//Hero Persona Level
+patch=1,EE,1080C62A,extended,00000063
+
+//Hero MaxInf Current HP
+patch=1,EE,1080C62C,extended,000003E7
+
+//Hero MaxInf Current Sp
+patch=1,EE,1080C62E,extended,000003E7
+
+//Hero Max Exp
+patch=1,EE,2080C668,extended,0098967F
+
+//Hero Always Great Statis
+patch=1,EE,2080C66C,extended,00300002
+patch=1,EE,1080C670,extended,00000030
+
+//Persona 1 Level Max
+patch=1,EE,0080CFB0,extended,00000063
+
+//Persona 1 Exp Max
+patch=1,EE,2080CFB4,extended,0098967F
+
+//Persona 1 St Max
+patch=1,EE,0080CFC8,extended,00000063
+
+//Persona 1 Ma Max
+patch=1,EE,0080CFC9,extended,00000063
+
+//Persona 1 EN Max
+patch=1,EE,0080CFCA,extended,00000063
+
+//Persona 1 AG Max
+patch=1,EE,0080CFCB,extended,00000063
+
+//Persona 1 Lu Max
+patch=1,EE,0080CFCC,extended,00000063
+
+
+//Have All Personas This Will Set All Activaters on and all mods so u have every Persona use other codes for the Stats and Skills
+patch=1,EE,4080D250,extended,0091000D
+patch=1,EE,00010001,extended,00010000

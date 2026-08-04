@@ -1,0 +1,39 @@
+gametitle=Phantasy Star Universe SLPM-66031
+//HP maximum
+patch=1,EE,21F23E24,extended,0000270F
+patch=1,EE,21F23E28,extended,0000270F
+
+//invincible
+patch=1,EE,01F23E06,extended,00000001
+
+//Meseta MAX when shopping at the store
+patch=1,EE,D02A36DA,extended,00005020
+patch=1,EE,202A36D8,extended,00000000
+
+//Experience value MAX
+patch=1,EE,D02A57F0,extended,0000982D
+patch=1,EE,202A57F0,extended,00059A00
+
+//Skill LvUp with one shot
+patch=1,EE,D04D4662,extended,00002443
+patch=1,EE,204D4660,extended,26630001
+
+//Maximum PP maintenance
+patch=1,EE,D02FA8B2,extended,00008602
+patch=1,EE,202FA8B0,extended,8608000E
+patch=1,EE,D02FA8BA,extended,0000A642
+patch=1,EE,202FA8B8,extended,A6480008
+patch=1,EE,D02FA8E6,extended,00001420
+patch=1,EE,202FA8E8,extended,A608000C
+
+//Attack power 9999 by strengthening weapons
+patch=1,EE,D04D537A,extended,00001420
+patch=1,EE,204D5378,extended,00000000
+
+//Blast gauge MAX with one shot
+patch=1,EE,D02A6CC2,extended,00005420
+patch=1,EE,202A6CC0,extended,00000000
+
+//No trial time addition
+patch=1,EE,D061A9B8,extended,00000028
+patch=1,EE,2061A9B8,extended,00000000

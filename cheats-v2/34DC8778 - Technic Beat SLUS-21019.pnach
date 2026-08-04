@@ -1,0 +1,15 @@
+gametitle=Technic Beat SLUS-21019
+//Max Marker King P1
+patch=1,EE,2058F554,extended,00000009
+
+//Unlock Game Ending/Sudden Death Ending
+patch=1,EE,003D7B03,extended,00000001
+
+//Infinite Super Actions-Player 1
+patch=1,EE,2058F554,extended,00000009
+
+//All Gallery
+patch=1,EE,103D7AE2,extended,00000101
+patch=1,EE,403D7AE4,extended,00070001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,103D7B00,extended,00000101

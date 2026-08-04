@@ -1,0 +1,30 @@
+gametitle=Sonic Riders SLUS-21331
+//Infinite Air
+patch=1,EE,20499FD8,extended,00030250
+
+//100 Rings
+patch=1,EE,2049A1EC,extended,00000064
+
+//Start on 3rd Lap
+patch=1,EE,2049A6D0,extended,02030000
+
+//Instant Win
+patch=1,EE,2049A6D0,extended,02030000
+
+//Infinite Funds
+patch=1,EE,2095D528,extended,000F423F
+
+//All Audio Room
+patch=1,EE,0095CE42,extended,00000001
+patch=1,EE,0095CE49,extended,00000001
+patch=1,EE,1095CE4A,extended,00000101
+
+//Unlock Character  D. Eggman 
+patch=1,EE,0095D1E9,extended,00000001
+// 
+//Unlock Character Shadow The Hedgehog
+patch=1,EE,0095D1EA,extended,00000001
+
+//All Theater
+patch=1,EE,2095D1D8,extended,01010101
+patch=1,EE,0095D1DC,extended,00000001

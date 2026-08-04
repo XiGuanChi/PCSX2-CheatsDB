@@ -1,0 +1,30 @@
+gametitle=Atelier Iris - Eternal Man SLUS-21113
+//Max Cash
+patch=1,EE,20F7F508,extended,000F423F
+
+//Infinite Health (In-Battle) 
+patch=1,EE,201C3C10,extended,240203E7
+patch=1,EE,201C3C20,extended,240203E7
+
+//Infinite Mana (In-Battle) 
+patch=1,EE,201C3C18,extended,240203E7
+patch=1,EE,201C3C28,extended,240203E7
+
+//Klein Kiesling - Infinite Life
+patch=1,EE,10F7F52A,extended,000003E7
+patch=1,EE,10F7F52C,extended,000003E7
+
+//Klein Kiesling - Infinite Mana
+patch=1,EE,10F7F52E,extended,000003E7
+patch=1,EE,10F7F530,extended,000003E7
+
+//Klein Kiesling - Infinite Skill Points
+patch=1,EE,10F7F584,extended,000003E7
+
+//1-Hit Kills (Enemies) 
+patch=1,EE,201C3DC0,extended,24020000
+
+//Unlock All Bonus 
+patch=1,EE,10F7F504,extended,00000300
+patch=1,EE,40F7F470,extended,001E0001
+patch=1,EE,01010101,extended,00000000

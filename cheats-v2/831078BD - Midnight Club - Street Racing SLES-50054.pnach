@@ -1,0 +1,19 @@
+gametitle=Midnight Club - Street Racing SLES-50054
+//No Damage
+patch=1,EE,102C3E04,extended,0000FFFF
+
+//All cars arcade
+patch=1,EE,202C4DB0,extended,FFFFFFFF
+patch=1,EE,202C4DB4,extended,FFFFFFFF
+
+//All cars Career
+patch=1,EE,202C6800,extended,FFFFFFFF
+patch=1,EE,202C6804,extended,FFFFFFFF
+patch=1,EE,202C6808,extended,FFFFFFFF
+patch=1,EE,202C680C,extended,FFFFFFFF
+
+//Open New York
+patch=1,EE,202C413C,extended,FFFFFFFF
+
+//Open London
+patch=1,EE,202C4140,extended,FFFFFFFF

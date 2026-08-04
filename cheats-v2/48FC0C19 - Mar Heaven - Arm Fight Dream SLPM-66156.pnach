@@ -1,0 +1,44 @@
+gametitle=Mar Heaven - Arm Fight Dream SLPM-66156
+//P 99999999
+patch=1,EE,2038B438,extended,3B9AC9FF
+
+//Labyrinth all clear
+patch=1,EE,2038B194,extended,FFFFFFFF
+
+//Character
+patch=1,EE,2038B17C,extended,FFFFFFFF
+patch=1,EE,2038B180,extended,FFFFFFFF
+
+//SP Character
+patch=1,EE,2038B1F0,extended,FFFFFFFF
+patch=1,EE,2038B1F4,extended,FFFFFFFF
+
+//All Voices
+patch=1,EE,2038B1DC,extended,FFFFFFFF
+
+//All Arms
+patch=1,EE,2038B0FC,extended,FFFFFFFF
+patch=1,EE,2038B100,extended,FFFFFFFF
+patch=1,EE,2038B104,extended,FFFFFFFF
+patch=1,EE,2038B108,extended,FFFFFFFF
+patch=1,EE,2038B10C,extended,FFFFFFFF
+patch=1,EE,2038B110,extended,FFFFFFFF
+patch=1,EE,2038B114,extended,FFFFFFFF
+
+//Unlock All Movie + songs
+patch=1,EE,2038B1E4,extended,FFFFFFFF
+patch=1,EE,2038B1E8,extended,FFFFFFFF
+patch=1,EE,2038B1EC,extended,FFFFFFFF
+
+//All Cards
+patch=1,EE,2038B1B8,extended,FFFFFFFF
+patch=1,EE,2038B1BC,extended,FFFFFFFF
+patch=1,EE,2038B1C0,extended,FFFFFFFF
+patch=1,EE,2038B1C4,extended,FFFFFFFF
+patch=1,EE,2038B1C8,extended,FFFFFFFF
+
+//Labyrinth maps
+patch=1,EE,2038B184,extended,FFFFFFFF
+patch=1,EE,2038B188,extended,FFFFFFFF
+patch=1,EE,2038B18C,extended,FFFFFFFF
+patch=1,EE,2038B190,extended,FFFFFFFF

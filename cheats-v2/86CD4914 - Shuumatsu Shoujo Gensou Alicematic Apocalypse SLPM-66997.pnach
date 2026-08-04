@@ -1,0 +1,7 @@
+gametitle=Shuumatsu Shoujo Gensou Alicematic Apocalypse SLPM-66997
+//CG Fully open when you browse 
+patch=1,EE,201130C8,extended,240200FF
+patch=1,EE,201130CC,extended,A0820000
+
+//CG Bonus flag of CG other than fully open when you save (It will be reflected when you re-load the data and reset the PS2 body After saving during the game to use the code)
+patch=1,EE,201C7FA4,extended,24040001

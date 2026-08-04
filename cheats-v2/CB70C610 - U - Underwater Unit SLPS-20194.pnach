@@ -1,0 +1,47 @@
+gametitle=U - Underwater Unit SLPS-20194
+//Infinite Cash
+patch=1,EE,20254398,extended,3B9AC9FF
+
+//Shield recovers quickly
+patch=1,EE,20169F58,extended,8EA200F8
+patch=1,EE,20169F5C,extended,00000000
+patch=1,EE,20169F60,extended,AEA200FC
+
+//Get all standard weapons
+patch=1,EE,2025439C,extended,02020202
+patch=1,EE,202543A0,extended,02020202
+patch=1,EE,202543A4,extended,02020202
+patch=1,EE,202543A8,extended,02020202
+
+//Acquire all special weapons & do not drop bullets
+patch=1,EE,202543AC,extended,02020202
+patch=1,EE,202543B0,extended,00020202
+patch=1,EE,20254424,extended,06060606
+patch=1,EE,10254428,extended,00000606
+patch=1,EE,0025442A,extended,00000006
+
+//Get all equipment
+patch=1,EE,202543B4,extended,02020202
+patch=1,EE,202543B8,extended,02020202
+
+//All paints appear in SHOP
+patch=1,EE,2025441C,extended,01010101
+patch=1,EE,20254420,extended,01010101
+
+//Excavation rate 100%
+patch=1,EE,201D0028,extended,24030002
+patch=1,EE,201D002C,extended,A0430000
+
+//time limit
+patch=1,EE,2012D910,extended,00000000
+patch=1,EE,2012D9D0,extended,00000000
+patch=1,EE,2012DA74,extended,00000000
+
+//Fully selectable
+patch=1,EE,10254442,extended,00000202
+patch=1,EE,20254444,extended,02020202
+patch=1,EE,20254448,extended,00020202
+patch=1,EE,2025444C,extended,02020002
+patch=1,EE,20254450,extended,02020002
+patch=1,EE,20254454,extended,02020202
+patch=1,EE,10254458,extended,00000202

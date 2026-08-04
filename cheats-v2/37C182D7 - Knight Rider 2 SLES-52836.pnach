@@ -1,0 +1,9 @@
+gametitle=Knight Rider 2 SLES-52836
+//Open Everything
+patch=1,EE,205B478D,extended,00000001
+
+//Always SPM
+patch=1,EE,205B478E,extended,00000001
+
+//Invincible
+patch=1,EE,205B478F,extended,00000001

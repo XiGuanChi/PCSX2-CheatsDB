@@ -1,0 +1,16 @@
+gametitle=Crash Bandicoot - The Wrath of Cortex Platinum SLES-50386
+//Infinite Lives (Alternate)
+patch=1,EE,201CCC04,extended,00000000
+
+//Max Infinite Lives
+patch=1,EE,201CCBF8,extended,24020063
+
+//P1 Press Select For 99 Fruit
+patch=1,EE,10649858,extended,00000063
+
+//Always Low Time
+patch=1,EE,205AE7F4,extended,00000000
+
+//Invincible Press Select to Die
+patch=1,EE,D1D43302,extended,0010FFFE
+patch=1,EE,10589D7C,extended,00000096

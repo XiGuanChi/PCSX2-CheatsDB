@@ -1,0 +1,36 @@
+gametitle=Love Hina Gojasu - Chiratto Happening! SLPM-65292
+//Have 9999 Hearts
+patch=1,EE,20204CD0,extended,0000270F
+
+//Open all memories need a save data
+patch=1,EE,2019B7D0,extended,00801821
+
+//Open all happens need a save data
+patch=1,EE,2019B810,extended,00801821
+
+//Max.Motivation
+patch=1,EE,20184920,extended,00000000
+
+//max.Concentration
+patch=1,EE,20184930,extended,1000000D
+
+//Correct Answer
+patch=1,EE,201887A8,extended,30440000
+
+//all Subject Level Max.
+patch=1,EE,2018F5B0,extended,10000003
+patch=1,EE,2018F5C4,extended,AEB10018
+
+//all subjectReference MAX
+patch=1,EE,2018F6C8,extended,340303E7
+patch=1,EE,2018F6F4,extended,AEA3001C
+
+//all subjectPresent condition MAX
+patch=1,EE,2018F7E0,extended,34040063
+patch=1,EE,2018F844,extended,AE440000
+
+//all Heroine True Density Max
+patch=1,EE,201908B0,extended,340103E7
+patch=1,EE,201908B8,extended,A44100D4
+
+

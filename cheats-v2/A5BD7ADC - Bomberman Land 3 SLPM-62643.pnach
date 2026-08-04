@@ -1,0 +1,34 @@
+gametitle=Bomberman Land 3 SLPM-62643
+//9999999 bargain hand
+patch=1,EE,2037A340,extended,000F423F
+
+//Item all
+patch=1,EE,4037A351,extended,002C0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,0037A493,extended,00000001
+patch=1,EE,2037A494,extended,01010101
+patch=1,EE,2037A498,extended,01010101
+patch=1,EE,2037A49C,extended,01010101
+patch=1,EE,1037A4A0,extended,00000101
+patch=1,EE,0037A4A2,extended,00000001
+patch=1,EE,0037A43B,extended,00000001
+patch=1,EE,2037A43C,extended,01010101
+patch=1,EE,2037A440,extended,01010101
+patch=1,EE,2037A444,extended,01010101
+patch=1,EE,2037A448,extended,01010101
+patch=1,EE,2037A44C,extended,01010101
+patch=1,EE,2037A450,extended,01010101
+patch=1,EE,2037A454,extended,01010101
+patch=1,EE,1037A458,extended,00000101
+patch=1,EE,0037A400,extended,00000001
+patch=1,EE,0037A409,extended,00000001
+patch=1,EE,0037A412,extended,00000001
+patch=1,EE,0037A41B,extended,00000001
+patch=1,EE,0037A424,extended,00000001
+patch=1,EE,0037A42D,extended,00000001
+
+//All collections
+patch=1,EE,4037AA98,extended,000A0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,4037792C,extended,002C0001
+patch=1,EE,FFFFFFFF,extended,00000000

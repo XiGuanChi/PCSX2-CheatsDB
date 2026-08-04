@@ -1,0 +1,23 @@
+gametitle=Mezase! Meimon Yakyuubu 2 SLPS-20110
+//Prestigious MAX
+patch=1,EE,002A1422,extended,00000064
+
+//Behavior P MAX
+patch=1,EE,004A6BF4,extended,00000063
+
+//First person ability change Physical fitness MAX
+patch=1,EE,2029EBC4,extended,270F270F
+
+//First person ability change Fighting spirit MAX
+patch=1,EE,2029EBC8,extended,270F270F
+
+//First person ability change Skillful striking power and other various increases
+patch=1,EE,2029EBCC,extended,270F270F
+patch=1,EE,2029EBD0,extended,270F270F
+patch=1,EE,2029EBD4,extended,270F270F
+patch=1,EE,1029EBD8,extended,0000270F
+
+//First person ability change Defensive ability MAX
+patch=1,EE,2029EB78,extended,270F270F
+patch=1,EE,2029EB7C,extended,270F270F
+patch=1,EE,2029EB80,extended,270F270F

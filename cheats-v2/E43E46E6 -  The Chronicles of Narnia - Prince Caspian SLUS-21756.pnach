@@ -1,0 +1,25 @@
+gametitle= The Chronicles of Narnia - Prince Caspian SLUS-21756
+//Have 9999 Keys
+patch=1,EE,2058003C,extended,270F270F
+
+//Infinite Health
+patch=1,EE,2056b5CC,extended,00000001
+
+//Unlock Everything
+patch=1,EE,2056B5F7,extended,00000001
+
+//Unlock All Levels
+patch=1,EE,2056B5F8,extended,00000001
+
+//One HIt Kills 
+patch=1,EE,2056B71C,extended,00000001
+
+//Have 9999 Keys
+patch=1,EE,2058003C,extended,270F270F
+
+//No Player Damage
+patch=1,EE,0056b5cc,extended,00000001
+
+//Save Any time (Press Select to save)
+patch=1,EE,D1fa8542,extended,0000FFFE
+patch=1,EE,0056B72F,extended,00000001

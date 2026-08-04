@@ -1,0 +1,18 @@
+gametitle=Conan SLES-52451
+//Infinite Health
+patch=1,EE,201E8A84,extended,E44300AC
+
+//Infinite Stamina
+patch=1,EE,20156620,extended,E4810390
+
+//Maximum Skill Points
+patch=1,EE,201F44C0,extended,08030800
+patch=1,EE,200C2000,extended,3C01000F
+patch=1,EE,200C2004,extended,3421423F
+patch=1,EE,200C2008,extended,ACE10004
+patch=1,EE,200C200C,extended,03E00008
+patch=1,EE,200C2010,extended,ACE10008
+
+//Have All Abilities
+patch=1,EE,201A4FC4,extended,ACE2000C
+patch=1,EE,201A4FC8,extended,03E00008

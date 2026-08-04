@@ -1,0 +1,31 @@
+gametitle=NASCAR  2005 - Chase For The Cup  SLUS-21003
+//Infinite Tire Wear
+patch=1,EE,20119E3C,extended,00000000
+
+//Infinite Fuel
+patch=1,EE,20192FAC,extended,00000000
+patch=1,EE,DFE34310,extended,00000000
+
+//Max Skill Points
+patch=1,EE,200C0220,extended,2402270F
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,AC820004
+patch=1,EE,2019FB18,extended,08030088
+
+//Never Fail Challenge For Out Of Contention
+patch=1,EE,102640BE,extended,00001000
+
+//Never Fail Challenge For Wreckless Driving
+patch=1,EE,10264156,extended,00001000
+
+//Never Fail Challenge For Leaving Racing Surfaces
+patch=1,EE,10264246,extended,00001000
+
+//Max Skill Points Current Total
+patch=1,EE,21FCA280,extended,05F5E0FF
+
+//Infinite Available Skill Points
+patch=1,EE,11FCA284,extended,0000FFFF
+
+//Max Available Skill Points
+patch=1,EE,21FCA284,extended,05F5E0FF

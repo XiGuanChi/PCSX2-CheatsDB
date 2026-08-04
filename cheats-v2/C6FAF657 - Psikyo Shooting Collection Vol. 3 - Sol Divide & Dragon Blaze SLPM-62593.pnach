@@ -1,0 +1,19 @@
+gametitle=Psikyo Shooting Collection Vol. 3 - Sol Divide & Dragon Blaze SLPM-62593
+//Infinite Lives P1 Dragon Blaze
+patch=1,EE,201FBC7C,extended,00000005
+
+//Infinite Bombs Dragon Blaze
+patch=1,EE,201FBC7E,extended,00000009
+
+//Invincible P1 Dragon Blaze
+patch=1,EE,001FBCC0,extended,0000009A
+
+//Infinite Health P1 Sol Divide
+patch=1,EE,2021ACD0,extended,08000000
+patch=1,EE,2021ACD4,extended,08000000
+
+//Infinite MP P1 Sol Divide
+patch=1,EE,2021ACE4,extended,00300000
+
+//Invincible P1 Sol Divide
+patch=1,EE,1021AD1E,extended,00000014

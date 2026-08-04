@@ -1,0 +1,46 @@
+gametitle=Soul Eater - Battle Resonance SLPS-25912
+//1P HP MAX
+patch=1,EE,200C2014,extended,AD21011C
+patch=1,EE,200C2018,extended,AD210120
+
+//1P MP MAX
+patch=1,EE,200C2020,extended,AD21041C
+patch=1,EE,200C2024,extended,AD210420
+
+//2P HP 0 (Pressing L2+R2)
+patch=1,EE,E002FCFF,extended,00598F82
+patch=1,EE,200C2030,extended,AD20011C
+patch=1,EE,200C2034,extended,AD200120
+
+//2P MP 0
+patch=1,EE,200C2038,extended,AD20041C
+patch=1,EE,200C203C,extended,AD200420
+
+//Unlimited Health Player 1 
+patch=1,EE,20202378,extended,080AEE38
+patch=1,EE,202BB8E0,extended,C481011C
+patch=1,EE,202BB8E4,extended,3C01444D
+patch=1,EE,202BB8E8,extended,3C020044
+patch=1,EE,202BB8EC,extended,8C42DB38
+patch=1,EE,202BB8F0,extended,AC41FFC8
+patch=1,EE,202BB8F4,extended,AC41FFC4
+patch=1,EE,202BB8F8,extended,AC41FFC0
+patch=1,EE,202BB8FC,extended,080808E0
+patch=1,EE,202BB900,extended,AC41FFBC
+
+//Max Special Meter Player 1 
+patch=1,EE,20207314,extended,080AEE41
+patch=1,EE,202BB904,extended,3C050044
+patch=1,EE,202BB908,extended,8CA5DB38
+patch=1,EE,202BB90C,extended,3C014600
+patch=1,EE,202BB910,extended,ACA102BC
+patch=1,EE,202BB914,extended,ACA102C0
+patch=1,EE,202BB918,extended,08081CC7
+patch=1,EE,202BB91C,extended,C48002BC
+
+//Change VOICE SETTING to Debug Menu 
+patch=1,EE,0022BD78,extended,00000005
+patch=1,EE,20215F78,extended,AE040030
+
+//Unlock All Characters
+patch=1,EE,2052CC3C,extended,00000000

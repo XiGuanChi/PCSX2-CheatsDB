@@ -1,0 +1,36 @@
+gametitle=Looney Tunes - Back in Action SLES-51794
+//Infinite Health
+patch=1,EE,20140E34,extended,20020003
+
+//Infinite Munnies
+patch=1,EE,202F61BC,extended,000F423B
+
+//Instant Escape when grabbed Press CIRCLE Twice
+patch=1,EE,2014A380,extended,46010840
+
+//Super Debug Menu On Pause
+patch=1,EE,202D21A8,extended,00000000
+
+//Have All Warner Bros Challenges Complete
+patch=1,EE,202F6190,extended,FFFFFFFF
+
+//Have All Paris Challenges Complete
+patch=1,EE,202F6194,extended,FFFFFFFF
+
+//Have All Wooden Nickel Challenges Complete
+patch=1,EE,202F6198,extended,FFFFFFFF
+
+//Have All Area 52 Challenges Complete
+patch=1,EE,202F619C,extended,FFFFFFFF
+
+//Have All Jungle Ruins Challenges Complete
+patch=1,EE,202F61A0,extended,FFFFFFFF
+
+//Inbuilt Cheat Codes Access All Areas
+patch=1,EE,202CF884,extended,00000001
+
+//Invulnerability Activated
+patch=1,EE,202CF888,extended,00000001
+
+//Wile E. Coyote Game Unlocked
+patch=1,EE,202CF8A4,extended,00000001

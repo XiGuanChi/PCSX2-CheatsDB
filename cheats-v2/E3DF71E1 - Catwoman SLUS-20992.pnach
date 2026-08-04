@@ -1,0 +1,11 @@
+gametitle=Catwoman SLUS-20992
+//Infinite Domination
+patch=1,EE,2025D2DC,extended,447A0000
+
+//Max Diamonds
+patch=1,EE,2025DADC,extended,000F423F
+
+//Unlock Everything
+patch=1,EE,10341CEE,extended,0000FFFF
+patch=1,EE,20341CF0,extended,FFFFFFFF
+patch=1,EE,20341CF4,extended,FFFFFFFF

@@ -1,0 +1,8 @@
+gametitle=Premier Manager 2003/2004 SLES-51833
+//Infinite Bank Balance
+patch=1,EE,200C2000,extended,3C053B9A
+patch=1,EE,200C2004,extended,34A5C9FF
+patch=1,EE,200C2008,extended,242007BA
+patch=1,EE,200C200C,extended,080E739E
+patch=1,EE,200C2010,extended,ACC5017C
+patch=1,EE,2039CA00,extended,08030800

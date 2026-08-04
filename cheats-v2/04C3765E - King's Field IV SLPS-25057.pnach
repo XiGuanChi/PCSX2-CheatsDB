@@ -1,0 +1,12 @@
+gametitle=King's Field IV SLPS-25057
+//MAX gauge
+patch=1,EE,1041293C,extended,00001388
+patch=1,EE,10412C3C,extended,00001388
+patch=1,EE,10412940,extended,00001388
+patch=1,EE,10412C40,extended,00001388
+
+//HP & MP MAX (Instant death large damage)
+patch=1,EE,104128D8,extended,000003E7
+patch=1,EE,104128DC,extended,000003E7
+patch=1,EE,10412934,extended,000003E7
+patch=1,EE,10412938,extended,000003E7

@@ -1,0 +1,33 @@
+gametitle=.hack - G.U. Vol. 2 - Kimi Omou Koe SLPS-25655
+//Max Money
+patch=1,EE,20A481C0,extended,05F5E0FF
+
+//Haseo Main Character Max HP
+patch=1,EE,20A481C4,extended,00018696
+
+//Haseo Main Character Max SP
+patch=1,EE,20A481C8,extended,00018696
+
+//Greeting Card 99
+patch=1,EE,20A51400,extended,63636363
+patch=1,EE,20A51404,extended,63636363
+
+//BGM fully open
+patch=1,EE,201E6470,extended,24020002
+patch=1,EE,201E6474,extended,A0620000
+patch=1,EE,201E6478,extended,10000008
+
+//Wallpaper fully open
+patch=1,EE,201E6310,extended,24020002
+patch=1,EE,201E6314,extended,A0620000
+patch=1,EE,201E6318,extended,10000008
+
+//Movie full open
+patch=1,EE,201E5DA0,extended,24020002
+patch=1,EE,201E5DA4,extended,A0620000
+patch=1,EE,201E5DA8,extended,10000008
+patch=1,EE,D04B2CE8,extended,0000002C
+patch=1,EE,204B2CEC,extended,10000009
+
+//Maximum likelihood with gifts
+patch=1,EE,201E4C18,extended,10000005

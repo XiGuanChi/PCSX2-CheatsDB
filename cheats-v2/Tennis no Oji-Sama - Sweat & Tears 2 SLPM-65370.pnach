@@ -1,0 +1,41 @@
+gametitle=Tennis no Oji-Sama: Sweat & Tears 2 SLPM-65370
+//Status Various fixed 998
+patch=1,EE,200F4000,extended,340426FC
+patch=1,EE,200F4038,extended,03E00008
+patch=1,EE,20179C90,extended,0803D000
+
+//Physical condition
+patch=1,EE,200F4030,extended,AC440038
+
+//Physical fitness
+patch=1,EE,200F400C,extended,AC440050
+
+//Mental strength
+patch=1,EE,200F4014,extended,AC440058
+
+//power
+patch=1,EE,200F4020,extended,AC440068
+
+//Instantaneous power
+patch=1,EE,200F4018,extended,AC440060
+
+//Technical capabilities
+patch=1,EE,200F402C,extended,AC440070
+
+//knowledge
+patch=1,EE,1C9AC344,extended,B09AE78D
+
+//Academic ability
+patch=1,EE,200F4024,extended,AC4400B0
+
+//cuisine
+patch=1,EE,200F4028,extended,AC4400B8
+
+//looks
+patch=1,EE,200F4008,extended,AC4400C0
+
+//Possession money
+patch=1,EE,200F4004,extended,AC4400A8
+
+//AF (Australian Formation)
+patch=1,EE,200F4034,extended,AC440088

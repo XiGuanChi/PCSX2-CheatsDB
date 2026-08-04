@@ -1,0 +1,21 @@
+gametitle=Breath of Fire - Dragon Quarter SLUS-20499
+//Max Zenny
+patch=1,EE,207657A8,extended,0098967F
+
+//Ryu Infinite  & Max HP
+patch=1,EE,20765358,extended,000003E7
+patch=1,EE,207653A4,extended,000003E7
+
+//Ryu Infinite & Max AP
+patch=1,EE,1076535C,extended,000003E7
+patch=1,EE,107653AA,extended,000003E7
+
+//Infinite Party XP
+patch=1,EE,107657B0,extended,0000FFFF
+
+//Infinite Item Usage
+patch=1,EE,201BC680,extended,00000000
+
+//One Hit Kills
+patch=1,EE,D104DBCE,extended,00001460
+patch=1,EE,2104DBCC,extended,00000000

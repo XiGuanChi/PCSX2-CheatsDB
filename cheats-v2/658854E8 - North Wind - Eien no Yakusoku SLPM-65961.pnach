@@ -1,0 +1,6 @@
+gametitle=North Wind - Eien no Yakusoku SLPM-65961
+//EXTRA MODE Movie and Mini game fully open
+patch=1,EE,0161F162,extended,00000001
+patch=1,EE,0161F16C,extended,00000001
+patch=1,EE,0161F168,extended,00000001
+patch=1,EE,0161F16A,extended,00000001

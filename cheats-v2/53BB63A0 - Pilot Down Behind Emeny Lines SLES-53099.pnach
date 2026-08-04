@@ -1,0 +1,9 @@
+gametitle=Pilot Down Behind Emeny Lines SLES-53099
+//Infinite Health And Endurance
+patch=1,EE,203B1890,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,203BF708,extended,00000000
+
+//Infinite Experience
+patch=1,EE,204E4174,extended,461C3C00

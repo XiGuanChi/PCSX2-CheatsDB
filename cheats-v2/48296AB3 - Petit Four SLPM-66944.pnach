@@ -1,0 +1,41 @@
+gametitle=Petit Four SLPM-66944
+//Shop's reputation 50
+patch=1,EE,10F5B5F0,extended,00000032
+
+//Shop atmosphere 50
+patch=1,EE,10F5B606,extended,00000032
+
+//Shop of efficiency 50
+patch=1,EE,10F5B61C,extended,00000032
+
+//Fully open when you album CG Watch browse
+patch=1,EE,2019AAD4,extended,00431821
+patch=1,EE,2019AAD8,extended,24020001
+patch=1,EE,2019AADC,extended,A0620000
+
+//Fully open when you browse albums Recipes
+patch=1,EE,201F08A0,extended,24030001
+patch=1,EE,201F08A4,extended,A0430000
+
+//Fully open when you browse album Movies
+patch=1,EE,201A855C,extended,00430821
+patch=1,EE,201A8560,extended,24020001
+patch=1,EE,201A8568,extended,A0220000
+
+//Likeability gauge maximum - Sanada Kazuki
+patch=1,EE,10F5B39E,extended,00000017
+
+//Likeability gauge maximum - Karasawa Yuta
+patch=1,EE,10F5B3B4,extended,00000017
+
+//Likeability gauge maximum - Kakizaki Seiji
+patch=1,EE,10F5B3CA,extended,00000017
+
+//Likeability gauge maximum - Matsuo Isamu
+patch=1,EE,10F5B3E0,extended,00000017
+
+//Likeability gauge maximum - Charles Kuribayashi
+patch=1,EE,10F5B3F6,extended,00000017
+
+//Likeability gauge maximum - Takenashi static
+patch=1,EE,10F5B40C,extended,00000017

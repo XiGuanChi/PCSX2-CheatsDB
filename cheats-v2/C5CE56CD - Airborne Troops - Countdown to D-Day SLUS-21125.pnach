@@ -1,0 +1,11 @@
+gametitle=Airborne Troops - Countdown to D-Day SLUS-21125
+//Infinite Health
+patch=1,EE,20371660,extended,24010190
+patch=1,EE,20371664,extended,AC4100E4
+
+//Infinite Health & MAX
+patch=1,EE,21057134,extended,000003E7
+patch=1,EE,21057130,extended,000003E7
+
+//Never Reload
+patch=1,EE,203F1240,extended,00000000

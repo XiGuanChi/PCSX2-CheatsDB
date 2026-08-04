@@ -1,0 +1,43 @@
+gametitle=Generation of Chaos Desire SLPM-66843
+//Always alliance success
+patch=1,EE,2018A9B0,extended,001F082A
+
+//Always breaking success
+patch=1,EE,201A1C30,extended,10200001
+patch=1,EE,201A2244,extended,10200001
+
+//Always bribe success 
+patch=1,EE,2019EECC,extended,10200001
+
+//Possession gold MAX in shopping
+patch=1,EE,201D9CA0,extended,10200001
+
+//Pressing the L3 and status MAX CCC - mandatory code
+patch=1,EE,20161E34,extended,0803CFFB
+patch=1,EE,200F4200,extended,03E00008
+patch=1,EE,200F3FEC,extended,3C080117
+patch=1,EE,200F3FF0,extended,3C09000F
+patch=1,EE,200F3FF4,extended,852A3FD0
+patch=1,EE,200F3FF8,extended,8501D130
+patch=1,EE,200F3FFC,extended,A5213FD0
+patch=1,EE,200F4000,extended,01414826
+patch=1,EE,200F4004,extended,01210824
+patch=1,EE,200F4008,extended,30210200
+patch=1,EE,200F400C,extended,1020007C
+
+//CMC-1-HP9999
+patch=1,EE,200F4014,extended,2008270F
+patch=1,EE,200F4018,extended,A4880036
+patch=1,EE,200F401C,extended,A4880038
+
+//Gina HP Max
+patch=1,EE,102485F2,extended,0000270F
+patch=1,EE,102485F4,extended,0000270F
+
+//Glenn HP Max
+patch=1,EE,10248536,extended,0000270F
+patch=1,EE,10248538,extended,0000270F
+
+//Barry HP Max
+patch=1,EE,1024899E,extended,0000270F
+patch=1,EE,102489A0,extended,0000270F

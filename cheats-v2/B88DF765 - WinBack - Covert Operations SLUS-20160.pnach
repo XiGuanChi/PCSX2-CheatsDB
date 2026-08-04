@@ -1,0 +1,15 @@
+gametitle=WinBack - Covert Operations SLUS-20160
+//Infinite Health
+patch=1,EE,002D3B19,extended,00000064
+
+//Infinite C4
+patch=1,EE,00347413,extended,00000008
+
+//Infinite Rockets
+patch=1,EE,0034741B,extended,00000004
+
+//No Reload Pistol
+patch=1,EE,002D3B15,extended,00000009
+
+//Unlock All Characters (VS. Mode)
+patch=1,EE,2ABF182E,extended,FFFFFFFF

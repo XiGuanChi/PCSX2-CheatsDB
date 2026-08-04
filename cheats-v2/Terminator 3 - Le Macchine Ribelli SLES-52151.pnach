@@ -1,0 +1,67 @@
+gametitle=Terminator 3 - Le Macchine Ribelli SLES-52151
+//Infinite Health
+patch=1,EE,20386358,extended,00000001
+
+//Infinite Ammo
+patch=1,EE,2038635C,extended,00000001
+
+//All Present Weapons
+patch=1,EE,20386360,extended,00000001
+
+//All Future Weapons
+patch=1,EE,20386364,extended,00000001
+
+//Level Select
+patch=1,EE,2038636C,extended,00000001
+
+//All Movie Concept Art
+patch=1,EE,2038D4CC,extended,01010101
+patch=1,EE,2038D4D0,extended,01010101
+patch=1,EE,2038D4D4,extended,01010101
+patch=1,EE,2038D4D8,extended,01010101
+patch=1,EE,2038D4DC,extended,01010101
+patch=1,EE,2038D4E0,extended,01010101
+patch=1,EE,2038D4E4,extended,01010101
+patch=1,EE,2038D4E8,extended,01010101
+patch=1,EE,2038D4EC,extended,01010101
+patch=1,EE,2038D4F0,extended,01010101
+patch=1,EE,2038D4F4,extended,01010101
+patch=1,EE,2038D4F8,extended,01010101
+
+//All Production Shots
+patch=1,EE,2038D500,extended,01010101
+patch=1,EE,2038D504,extended,01010101
+patch=1,EE,2038D508,extended,01010101
+patch=1,EE,2038D50C,extended,01010101
+patch=1,EE,2038D510,extended,01010101
+patch=1,EE,2038D514,extended,01010101
+patch=1,EE,2038D518,extended,01010101
+patch=1,EE,2038D51C,extended,01010101
+patch=1,EE,2038D520,extended,01010101
+patch=1,EE,2038D524,extended,01010101
+patch=1,EE,2038D528,extended,01010101
+
+//All Game Concept Art
+patch=1,EE,2038D530,extended,01010101
+patch=1,EE,2038D534,extended,01010101
+patch=1,EE,2038D538,extended,01010101
+patch=1,EE,2038D53C,extended,01010101
+patch=1,EE,2038D540,extended,01010101
+patch=1,EE,2038D544,extended,01010101
+patch=1,EE,2038D548,extended,01010101
+patch=1,EE,2038D54C,extended,01010101
+patch=1,EE,2038D550,extended,01010101
+patch=1,EE,2038D554,extended,01010101
+patch=1,EE,2038D558,extended,01010101
+
+//All In Game CG Scenes
+patch=1,EE,2038D4B0,extended,01010101
+patch=1,EE,2038D4B4,extended,01010101
+
+//All Movie Scenes
+patch=1,EE,2038D4B8,extended,01010101
+patch=1,EE,2038D4BC,extended,01010101
+patch=1,EE,2038D4C0,extended,01010101
+
+//All Exclusive Movie Scenes
+patch=1,EE,2038D4C4,extended,01010101

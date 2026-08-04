@@ -1,0 +1,30 @@
+gametitle=Mercenaries 2 - World in Flames SLES-54997
+//Infinite Ammo
+patch=1,EE,2012BEC8,extended,00000000
+patch=1,EE,2012BECC,extended,00000000
+
+//Invincible
+patch=1,EE,200FFF00,extended,DC820110
+patch=1,EE,200FFF04,extended,34420004
+patch=1,EE,200FFF08,extended,FC820110
+patch=1,EE,200FFF0C,extended,0804DC92
+patch=1,EE,2015F1D0,extended,0C03FFC0
+
+//Infinite Cash Use
+patch=1,EE,2017B9E8,extended,3C014B18
+patch=1,EE,2017B9F0,extended,AE0112B0
+
+//Max Cash (Check Stats to Activate)
+patch=1,EE,2029E580,extended,0803FFD0
+patch=1,EE,200FFF40,extended,3C014B18
+patch=1,EE,200FFF44,extended,AC4112B0
+patch=1,EE,200FFF48,extended,44810000
+patch=1,EE,200FFF4C,extended,080A7962
+patch=1,EE,200FFF50,extended,8E020044
+
+//Activate Cheat Codes Infinite Ammo/Grenades (All Weapons)
+patch=1,EE,20575698,extended,00000001
+
+//God Mode Press: L2+Left=ON,L2+Right=OFF
+patch=1,EE,605CEDCC,extended,00000006
+patch=1,EE,60000001,extended,00000110

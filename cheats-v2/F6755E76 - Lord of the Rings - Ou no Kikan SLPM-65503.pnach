@@ -1,0 +1,21 @@
+gametitle=Lord of the Rings - Ou no Kikan SLPM-65503
+//Skill purchase point 100 million
+patch=1,EE,203299FC,extended,4CBEBC20
+
+//Infinite Health
+patch=1,EE,20267B48,extended,240103E7
+patch=1,EE,20267B50,extended,AE810090
+
+//Escort physical strength infinite
+patch=1,EE,20266AB0,extended,240603E7
+patch=1,EE,20266AB8,extended,AE460090
+
+//Aragorn Full Clear
+patch=1,EE,20329C24,extended,FFFFFFFF
+patch=1,EE,20329C28,extended,FFFFFFFF
+
+//All character entirely clear
+patch=1,EE,40329C24,extended,0009000F
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40329C28,extended,0009000F
+patch=1,EE,FFFFFFFF,extended,00000000

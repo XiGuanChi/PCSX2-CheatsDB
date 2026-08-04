@@ -1,0 +1,25 @@
+gametitle=Harvest Fishing SLES-53282
+//Infinite HP
+patch=1,EE,2018D2FC,extended,2402270F
+patch=1,EE,2018D300,extended,A4820000
+
+//Max Money
+patch=1,EE,201B26C8,extended,8FA10000
+patch=1,EE,201B26CC,extended,3C0205F5
+patch=1,EE,201B26D4,extended,3442E0FF
+patch=1,EE,201B26D8,extended,03E00008
+patch=1,EE,201B26DC,extended,AC220000
+
+//ALT Infinite Money
+patch=1,EE,201B26CC,extended,24026F00
+
+//Infinite HP
+patch=1,EE,2018D2FC,extended,2402270F
+patch=1,EE,2018D300,extended,A4820000
+
+//ALT Max HP
+patch=1,EE,2018D32C,extended,240203E7
+
+//Max Fishing Technique
+patch=1,EE,201C4EF8,extended,24020005
+patch=1,EE,201C4EFC,extended,A0820000

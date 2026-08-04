@@ -1,0 +1,18 @@
+gametitle=Castle Shikigami II SLUS-20962
+//unlimited Credits
+patch=1,EE,202A3010,extended,00000063
+
+//unlimited Time
+patch=1,EE,20154474,extended,24420000
+
+//unlimited Life P1
+patch=1,EE,202C0824,extended,00000003
+
+//unlimited Bombs P1
+patch=1,EE,202C083A,extended,00000063
+
+//unlimited Life P2
+patch=1,EE,202C08C0,extended,00000003
+
+//unlimited Bombs P2
+patch=1,EE,202C08D6,extended,00000063

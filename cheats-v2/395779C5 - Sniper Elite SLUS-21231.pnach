@@ -1,0 +1,10 @@
+gametitle=Sniper Elite SLUS-21231
+//Infinite Health
+patch=1,EE,200C0220,extended,3C0142C8
+patch=1,EE,200C0224,extended,AC410028
+patch=1,EE,200C0228,extended,080AF1AC
+patch=1,EE,200C022C,extended,C4400028
+patch=1,EE,202BC6AC,extended,08030088
+
+//Infinite Ammo/No Reload
+patch=1,EE,2023F198,extended,00000000

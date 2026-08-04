@@ -1,0 +1,12 @@
+gametitle=Angel Profile SLPM-66709
+//Infinite Money (99999)
+patch=1,EE,213F8560,extended,0001869F
+
+//Gallery fully open
+patch=1,EE,413EC3C4,extended,00760001
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,413EC5A0,extended,00380001
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,413EC688,extended,000D0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,113EC6BC,extended,0000FFFF

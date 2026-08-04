@@ -1,0 +1,54 @@
+gametitle=Dragon Quest & Final Fantasy in Itadaki Street SLPM-65797
+//P1 Money 9999G
+patch=1,EE,20C037C0,extended,0000270F
+
+//P2 Money 0
+patch=1,EE,00C041B0,extended,00000000
+
+//P3 Money 0
+patch=1,EE,20C049C0,extended,00000000
+
+//P4 Money 0
+patch=1,EE,00C04AB0,extended,00000000
+
+//First change in money · R2 + up button to 9999G R2 + dioen button to 0G
+patch=1,EE,D05B2504,extended,00001002
+patch=1,EE,20C037C0,extended,0000270F
+patch=1,EE,D05B2504,extended,00004002
+patch=1,EE,20C037C0,extended,00000000
+
+//Second change in money · R2 + left button to 9999G R2 + right button to 0G
+patch=1,EE,D05B2504,extended,00008002
+patch=1,EE,00C041B0,extended,0000000F
+patch=1,EE,D05B2504,extended,00002002
+patch=1,EE,00C041B0,extended,00000000
+
+//Third change in money · L2 + up button to 9999G L2 + dioen button to 0G
+patch=1,EE,D05B2504,extended,00001001
+patch=1,EE,20C049C0,extended,0000270F
+patch=1,EE,D05B2504,extended,00004001
+patch=1,EE,20C049C0,extended,00000000
+
+//Fourth change in money · L2 + left button to 9999G L2 + right button to 0G
+patch=1,EE,D05B2504,extended,00001001
+patch=1,EE,00C04AB0,extended,0000000F
+patch=1,EE,D05B2504,extended,00004001
+patch=1,EE,00C04AB0,extended,00000000
+
+//All MAPs & characters can be used + job change is possible
+patch=1,EE,204D4860,extended,FFFFFFFF
+patch=1,EE,204D4864,extended,FFFFFFFF
+
+//Sphere collection fully open 
+patch=1,EE,20183D38,extended,24030001
+patch=1,EE,20183D3C,extended,A02341ED
+
+//Chance card collection fully open 
+patch=1,EE,404F89EC,extended,00180001
+patch=1,EE,03030303,extended,00000000
+patch=1,EE,204F89E8,extended,03030300
+patch=1,EE,004F8A4C,extended,00000003
+
+//All characters & maps & BGM
+patch=1,EE,204D4860,extended,FFFFFFFF
+patch=1,EE,204D4864,extended,FFFFFFFF

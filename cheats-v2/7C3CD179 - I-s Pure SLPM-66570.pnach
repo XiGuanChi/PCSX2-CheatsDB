@@ -1,0 +1,8 @@
+gametitle=I"s Pure SLPM-66570
+//Extras / shortcuts fully open
+patch=1,EE,20A94740,extended,FFFFFFFF
+patch=1,EE,20A94744,extended,FFFFFFFF
+
+//Enable Debug Menu With the code on, press and hold Circle + L1 buttons while entering another screen such as starting a new game by punk7890
+patch=1,EE,D047B202,extended,0000DBFF
+patch=1,EE,20270C54,extended,00000000

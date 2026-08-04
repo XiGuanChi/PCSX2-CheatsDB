@@ -1,0 +1,13 @@
+gametitle=7 Wonders of the Ancient World SLUS-21693
+//Gain 32000 Points Per Break
+patch=1,EE,2010DE30,extended,34847D00
+
+//Always have Hints
+patch=1,EE,20118188,extended,E6030398
+
+//Infinite Time
+patch=1,EE,20118148,extended,00000000
+
+//Always Give stones
+patch=1,EE,2011A1B4,extended,AC440000
+patch=1,EE,2011A138,extended,AC460000

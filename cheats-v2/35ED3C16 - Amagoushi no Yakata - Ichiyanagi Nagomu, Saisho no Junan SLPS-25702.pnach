@@ -1,0 +1,7 @@
+gametitle=Amagoushi no Yakata - Ichiyanagi Nagomu, Saisho no Junan SLPS-25702
+//OMAKE ROOM
+patch=1,EE,0038D1E4,extended,00000003
+
+//Bonus investigation diary fully open
+patch=1,EE,4038D6CC,extended,00130001
+patch=1,EE,FFFFFFFF,extended,00000000

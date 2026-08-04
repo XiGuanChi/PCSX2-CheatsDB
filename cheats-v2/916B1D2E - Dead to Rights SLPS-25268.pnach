@@ -1,0 +1,60 @@
+gametitle=Dead to Rights SLPS-25268
+//Unlock All Chapters
+//10252Life (armor) will not decrease even if attacked
+patch=1,EE,20187AA4,extended,144000CA
+
+//Adrenaline gauge does not decrease (at time shift dive)
+patch=1,EE,20136298,extended,C782CB0C
+
+//Adrenaline gauge does not decrease (guard & sw it)
+patch=1,EE,20156028,extended,44800800
+
+//Stamina gauge (shadow) Fast recovery
+patch=1,EE,20173F2C,extended,C780D274
+
+//OXYGEN Gauge Fast Recovery (against Pinnacle)
+patch=1,EE,201BD808,extended,0C070BC6
+
+//Automated button press repeatedly when attacking from behind (versus Pinnacle)
+patch=1,EE,201BCFE8,extended,34630060
+
+//Mini game "Speed ??bag" related
+
+//Stop time limit
+patch=1,EE,201E859C,extended,44800000
+
+//Immediate record update
+patch=1,EE,201E9228,extended,9782EA7E
+//* It is effective to decide one set (hitting x and o alternately).
+
+//Mini game "weight lifting" related
+
+//Power gauge always rises
+patch=1,EE,20213F78,extended,34020010
+
+//MAX with power gauge rise
+patch=1,EE,20213FC8,extended,C783BBE4
+
+//Mini game "arm wrestling" related
+
+//Power gauge always rises
+patch=1,EE,2010ACE8,extended,34020010
+
+//MAX with power gauge rise
+patch=1,EE,2010ACF8,extended,C7808368
+
+//Mini game "Bomb dismantlement" related
+
+//Stop time limit
+patch=1,EE,20113FD8,extended,44800800
+
+//Clear without operation
+patch=1,EE,20113FF4,extended,1C400064
+
+//Minigame "watering" related
+
+//Oxygen gauge does not decrease
+patch=1,EE,2013AA80,extended,C783CBFC
+
+//Clear without operation
+patch=1,EE,2013AAB0,extended,46010841164 00000007

@@ -1,0 +1,12 @@
+gametitle=Sakura Zakashobotai SLPS-25363
+//Impulse can be filled immediately
+patch=1,EE,2018DF18,extended,3C034000
+
+//Infinite Time
+patch=1,EE,2015461C,extended,00000000
+
+//Total play time increase when the MAX
+patch=1,EE,2012C14C,extended,00000000
+
+//The total water discharge amount increases and MAX
+patch=1,EE,2024336C,extended,00000000

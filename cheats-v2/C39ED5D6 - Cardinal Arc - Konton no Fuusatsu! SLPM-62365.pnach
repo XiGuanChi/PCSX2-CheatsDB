@@ -1,0 +1,51 @@
+gametitle=Cardinal Arc - Konton no Fuusatsu! SLPM-62365
+//Obtain 99 cards of all cards
+patch=1,EE,2015CA14,extended,34030063
+patch=1,EE,2015CA18,extended,A123001C
+
+//99 cards in all cards
+patch=1,EE,4092572C,extended,00330001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,109257F8,extended,00006363
+patch=1,EE,009257FA,extended,00000063
+
+//By the turn, COM Dominator instant death
+patch=1,EE,201A1670,extended,A2200022
+
+//Status display (TRiangle button) instantly deletes target unit
+patch=1,EE,2015B54C,extended,00432021
+patch=1,EE,2015B550,extended,AF8481AC
+patch=1,EE,2015B558,extended,A0800022
+
+//Cost MAX
+patch=1,EE,1C05DC00,extended,1456 E 404
+
+//Soul MAX
+patch=1,EE,20925BDC,extended,00000063
+
+//No maintenance cost required
+patch=1,EE,20160A64,extended,A62000B0
+
+//It is not damaged by battle (ally only)
+patch=1,EE,2016CE28,extended,9286000C
+patch=1,EE,2016CE34,extended,00C0102D
+
+//Unit reinforcement (mandatory code)
+patch=1,EE,200F4100,extended,9262000C
+patch=1,EE,200F4104,extended,14400006
+patch=1,EE,200F4108,extended,34020063
+patch=1,EE,200F4120,extended,03E00008
+patch=1,EE,20159AF8,extended,0C03D040
+
+//HP 99
+patch=1,EE,200F410C,extended,A2620021
+patch=1,EE,200F4110,extended,A2620022
+
+//AP 99
+patch=1,EE,200F4114,extended,AE620034
+
+//DEF 99
+patch=1,EE,200F4118,extended,AE620038
+
+//Movement force 9
+patch=1,EE,200F411C,extended,AE620040

@@ -1,0 +1,17 @@
+gametitle=Simple 2000 Ultimate Vol. 7 - Saikyou! Shiro Biking - Security Police SLPM-62314
+//infinite VIP HP
+patch=1,EE,1018EF8C,extended,00000640
+
+//infinite Gun Rounds
+patch=1,EE,1018EC08,extended,0000001E
+patch=1,EE,1018EC0A,extended,00000063
+
+//Infinite Time
+patch=1,EE,1018BC92,extended,000003E7
+
+//All stages cleared
+patch=1,EE,2018BF74,extended,03030303
+patch=1,EE,2018BF78,extended,03030303
+patch=1,EE,2018BF7C,extended,03030303
+patch=1,EE,2018BF80,extended,03030303
+patch=1,EE,2018BF84,extended,03030303

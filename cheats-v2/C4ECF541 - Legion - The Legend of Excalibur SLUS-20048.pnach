@@ -1,0 +1,11 @@
+gametitle=Legion - The Legend of Excalibur SLUS-20048
+//Infinite HP & Stamina (InBattle)
+patch=1,EE,201A7DEC,extended,84430002
+patch=1,EE,201A7DF0,extended,00000000
+patch=1,EE,201A7DF4,extended,A4430000
+
+//Infinite Money
+patch=1,EE,117117D0,extended,0000FFFF
+
+//Max Money
+patch=1,EE,217117D0,extended,05F5E0FF

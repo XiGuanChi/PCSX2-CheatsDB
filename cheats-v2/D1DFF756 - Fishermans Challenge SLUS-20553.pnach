@@ -1,0 +1,14 @@
+gametitle=Fishermans Challenge SLUS-20553
+//Max Money (Tournament Mode)
+patch=1,EE,21CFBE3C,extended,0098967F
+
+//Have All Rods
+patch=1,EE,11CFD626,extended,00000101
+patch=1,EE,21CFD628,extended,01010101
+patch=1,EE,21CFD62C,extended,01010101
+patch=1,EE,11CFD630,extended,00000101
+
+//Have All Reels
+patch=1,EE,11CFD632,extended,00000101
+patch=1,EE,41CFD634,extended,00030001
+patch=1,EE,01010101,extended,00000000

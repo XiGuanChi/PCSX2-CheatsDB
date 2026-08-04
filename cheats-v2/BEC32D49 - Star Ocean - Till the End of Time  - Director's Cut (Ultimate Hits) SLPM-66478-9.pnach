@@ -1,0 +1,20 @@
+gametitle=Star Ocean - Till the End of Time  - Director's Cut (Ultimate Hits) SLPM-66478-9
+//All HP99999
+patch=1,EE,203BD710,extended,0060280A
+
+//MP99999 for everyone
+patch=1,EE,203BD340,extended,0060280A
+
+//Save anywhere
+patch=1,EE,E0030088,extended,002585C8
+patch=1,EE,202585C8,extended,24080001
+patch=1,EE,202585CC,extended,A0680088
+patch=1,EE,202585D4,extended,1000000C
+
+//Money MAX in one battle
+patch=1,EE,D0241188,extended,0000182A
+patch=1,EE,20241188,extended,00001821
+
+//If you sell items at the shop, Fol MAX
+patch=1,EE,D02F9B42,extended,00004402
+patch=1,EE,202F9B3C,extended,00000000

@@ -1,0 +1,23 @@
+gametitle= The Simpsons Game SLUS-21665
+//Inf Hp (Main)
+patch=1,EE,202B9EC0,extended,E4400028
+patch=1,EE,202B9EC4,extended,C4400028
+patch=1,EE,202B9EC8,extended,46010036
+
+//Inf Hp (Partner)
+patch=1,EE,202B9E88,extended,08028000
+patch=1,EE,200A0000,extended,3C04447A
+patch=1,EE,200A0004,extended,080AE7A3
+patch=1,EE,200A0008,extended,AC440028
+patch=1,EE,202B9E8C,extended,C4400028
+patch=1,EE,202B9E90,extended,46000036
+
+//No Enemy Hold Select to kill enemys
+patch=1,EE,D05A1722,extended,0000FEFF
+patch=1,EE,202E327C,extended,AC800028
+patch=1,EE,D05A1722,extended,0010FEFF
+patch=1,EE,202E327C,extended,00000000
+
+//Max Power Bar 1 Pick up
+patch=1,EE,2029E2A0,extended,E60100E4
+patch=1,EE,00000000,extended,00000000

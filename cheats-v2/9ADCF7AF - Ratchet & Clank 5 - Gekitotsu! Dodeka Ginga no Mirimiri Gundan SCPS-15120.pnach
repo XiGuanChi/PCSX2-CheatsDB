@@ -1,0 +1,24 @@
+gametitle=Ratchet & Clank 5: - Gekitotsu! Dodeka Ginga no Mirimiri Gundan SCPS-15120
+//MAX with bolt fluctuation
+patch=1,EE,20D97F1C,extended,00000000
+
+//Bolt 99999999
+patch=1,EE,21F4C5A8,extended,05F5E0FF
+
+//Invincible
+patch=1,EE,00F80944,extended,000000B2
+
+//Life
+patch=1,EE,10F8092E,extended,000040A0
+
+//Special
+patch=1,EE,21F4B2A0,extended,FFFFFFFF
+patch=1,EE,21F4B2A4,extended,FFFFFFFF
+patch=1,EE,21F4B2A8,extended,FFFFFFFF
+patch=1,EE,21F4B2AC,extended,FFFFFFFF
+patch=1,EE,21F4B2B0,extended,FFFFFFFF
+patch=1,EE,21F4B2B4,extended,FFFFFFFF
+patch=1,EE,21F4B277,extended,FFFFFFFF
+patch=1,EE,11F4B282,extended,0000FFFF
+patch=1,EE,01F4B27B,extended,000000FF
+patch=1,EE,01F4B29A,extended,000000FF

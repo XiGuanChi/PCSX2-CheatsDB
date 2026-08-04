@@ -1,0 +1,34 @@
+gametitle=Kidou Senshi Gundam - Senki - Lost War Chronicle SLPS-25123
+//Infinite Life Gauge
+patch=1,EE,20156004,extended,DE040590
+patch=1,EE,2015600C,extended,FE040588
+
+//Infinite Life
+patch=1,EE,20156004,extended,DE040590
+patch=1,EE,20155FF4,extended,FE040588
+
+//Always S rank Mission
+patch=1,EE,2014F598,extended,00000000
+patch=1,EE,20150ACC,extended,00000000
+
+//Overheating recovery in a moment
+patch=1,EE,A021342C,extended,00A52823
+
+//Infinite Time
+patch=1,EE,20155944,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,2013560C,extended,00000000
+
+//Gallery MOVIE VIEWER
+patch=1,EE,20353150,extended,FFFFFFFF
+patch=1,EE,20353154,extended,FFFFFFFF
+patch=1,EE,20353158,extended,FFFFFFFF
+patch=1,EE,1035315C,extended,0000FFFF
+
+//Gallery MOBILE SUIT VIEWER
+patch=1,EE,20353168,extended,FFFFFFFF
+patch=1,EE,0035316C,extended,000000FF
+
+//Gallery BGM PLAYER
+patch=1,EE,20353170,extended,00FFFFFF

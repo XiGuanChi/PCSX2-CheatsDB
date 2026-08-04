@@ -1,0 +1,19 @@
+gametitle=True Crime - New York City SLUS-21106
+//Max Money
+patch=1,EE,2084D7A0,extended,05F5E0FF
+
+//Infinite Health
+patch=1,EE,2024C9B8,extended,C4400008
+patch=1,EE,2024C9C4,extended,E4400010
+
+//Infinite Stamina
+patch=1,EE,2030CAD4,extended,00000000
+
+//Never Reload
+patch=1,EE,202252BC,extended,00000000
+
+//Max Badge Meter
+patch=1,EE,2084D798,extended,42C80000
+
+//Infinite Ammo
+patch=1,EE,2052bbac,extended,00000001

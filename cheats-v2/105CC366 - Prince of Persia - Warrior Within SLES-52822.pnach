@@ -1,0 +1,28 @@
+gametitle=Prince of Persia - Warrior Within SLES-52822
+//Infinite Health
+patch=1,EE,202A6C5C,extended,00000000
+
+//Infinite Sand Of Time
+patch=1,EE,203C392C,extended,00000000
+
+//Instant Rewind Power Recharge
+patch=1,EE,2046D6AC,extended,00000000
+
+//Open Video Gallery and Level Select
+patch=1,EE,205D2470,extended,2404000A
+
+//1 Hi tKill - except for bosses
+patch=1,EE,20391768,extended,AE600208
+patch=1,EE,20391770,extended,C6610208
+patch=1,EE,20355E74,extended,10000012
+patch=1,EE,201EDD80,extended,AE600200
+patch=1,EE,201EDD88,extended,C6610200
+patch=1,EE,2027C6E8,extended,AE60018C
+patch=1,EE,2027C6F0,extended,C661018C
+patch=1,EE,201E880C,extended,1000004E
+
+//All Extra Features Open
+patch=1,EE,207DDA40,extended,FFFFFFFF
+patch=1,EE,207DDA44,extended,FFFFFFFF
+patch=1,EE,207DDA48,extended,FFFFFFFF
+patch=1,EE,207DDA4C,extended,FFFFFFFF

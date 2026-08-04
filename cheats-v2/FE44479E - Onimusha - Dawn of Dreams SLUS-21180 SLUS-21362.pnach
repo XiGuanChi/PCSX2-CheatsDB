@@ -1,0 +1,16 @@
+gametitle=Onimusha - Dawn of Dreams SLUS-21180 SLUS-21362
+//Max Gold
+patch=1,EE,208DDE4C,extended,05F5E0FF
+
+//Infinite HP
+patch=1,EE,10919DB0,extended,0000270F
+patch=1,EE,10919DB2,extended,0000270F
+
+//Infinite MP
+patch=1,EE,10919DB6,extended,0000270F
+patch=1,EE,10919DB8,extended,0000270F
+
+//Unlock All Special use it once and save your game
+patch=1,EE,203E31D4,extended,2403FFFF
+patch=1,EE,203E31E0,extended,24030001
+patch=1,EE,203E31E8,extended,AD030004

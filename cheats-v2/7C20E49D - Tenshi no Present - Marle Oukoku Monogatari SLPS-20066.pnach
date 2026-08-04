@@ -1,0 +1,28 @@
+gametitle=Tenshi no Present - Marle Oukoku Monogatari SLPS-20066
+//Gold 99999999
+patch=1,EE,20210FC8,extended,05F5E0FF
+
+//Main Character Infinite HP in battle
+patch=1,EE,201B5B84,extended,000003E7
+patch=1,EE,201B5B7C,extended,000003E7
+
+//Main Character Infinite & Max HP Out of battle
+patch=1,EE,2021162C,extended,000003E7
+patch=1,EE,20211634,extended,000003E7
+
+//Second character Infinite HP in battle
+patch=1,EE,201B6A84,extended,000003E7
+patch=1,EE,201B6A7C,extended,000003E7
+
+//Second character Infinite & Max HP Out of battle
+patch=1,EE,20211A04,extended,000003E7
+patch=1,EE,20211A0C,extended,000003E7
+
+//Enable Developer Mode (con 1 R3 = debug info, con 2 L3 / R3 = open debug menu) by punk7890
+//Codebreaker v7+
+patch=1,EE,2019075C,extended,00000001
+patch=1,EE,20190758,extended,00000001
+patch=1,EE,D031832A,extended,0000FFFB
+patch=1,EE,102306D0,extended,00000001
+patch=1,EE,D031832A,extended,0000FFFD
+patch=1,EE,102306D0,extended,00000000

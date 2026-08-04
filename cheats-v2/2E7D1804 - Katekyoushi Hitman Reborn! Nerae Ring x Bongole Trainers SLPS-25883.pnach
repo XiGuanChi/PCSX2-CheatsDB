@@ -1,0 +1,17 @@
+gametitle=Katekyoushi Hitman Reborn! Nerae Ring x Bongole Trainers SLPS-25883
+//HP 200/200
+patch=1,EE,2032F07C,extended,00C800C8
+
+//LV MAX When training
+patch=1,EE,201EA7D8,extended,00430821
+patch=1,EE,201EA7DC,extended,240400FF
+patch=1,EE,201EA7F0,extended,A4240370
+
+//Extra fully open
+patch=1,EE,2032DAF0,extended,FFFFFFFF
+patch=1,EE,2032DAF4,extended,FFFFFFFF
+patch=1,EE,2032DAF8,extended,FFFFFFFF
+patch=1,EE,2032DAFC,extended,FFFFFFFF
+patch=1,EE,0032DB00,extended,000000FF
+patch=1,EE,2032EDB0,extended,FFFFFFFF
+patch=1,EE,1032EDC0,extended,0000FFFF

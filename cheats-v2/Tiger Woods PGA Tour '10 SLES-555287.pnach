@@ -1,0 +1,19 @@
+gametitle=Tiger Woods PGA Tour '10 SLES-555287
+//Max Cash
+patch=1,EE,21DF4844,extended,05F5E0FF
+
+//Alt. Max Cash
+patch=1,EE,200C0200,extended,3C030045
+patch=1,EE,200C0204,extended,8C63FA68
+patch=1,EE,200C0208,extended,10600008
+patch=1,EE,200C0210,extended,8C63001C
+patch=1,EE,200C0214,extended,10600005
+patch=1,EE,200C021C,extended,3C0205F5
+patch=1,EE,200C0220,extended,3442E0FF
+patch=1,EE,200C0224,extended,AC620004
+patch=1,EE,200C022C,extended,03E00008
+
+//Infinite Skills Points (Press: L2+R2 to Continue)
+patch=1,EE,2016EF9C,extended,00000000
+patch=1,EE,D0410502,extended,0000FCFF
+patch=1,EE,2016EF9C,extended,AC60FA6C

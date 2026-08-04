@@ -1,0 +1,42 @@
+gametitle=Cyber Troopers Virtual-On - Marz (Dennou Senki Virtual-On - Marz)
+//P1 All Ally maintain all life 
+patch=1,EE,2013CD74,extended,8E030204
+patch=1,EE,2013CD7C,extended,AE030200
+
+//Ally maintain all life and death of the enemy blow (1P) side
+patch=1,EE,2013C524,extended,28420001
+patch=1,EE,2013C52C,extended,14400004
+patch=1,EE,2013C534,extended,24020001
+patch=1,EE,2013C53C,extended,AE020200
+patch=1,EE,2013C540,extended,46010803
+patch=1,EE,2013CD74,extended,8E030204
+patch=1,EE,2013CD7C,extended,AE030200
+
+//Dramatic mode VR 39 added
+patch=1,EE,40CA5308,extended,00180001
+patch=1,EE,001FB7FE,extended,00000000
+patch=1,EE,40CA5368,extended,00180001
+patch=1,EE,223FFF08,extended,00000000
+patch=1,EE,40CA53C8,extended,00180001
+patch=1,EE,00003C00,extended,00000000
+patch=1,EE,20CA5428,extended,001FB7FE
+patch=1,EE,20CA542C,extended,223FFF08
+patch=1,EE,10CA5430,extended,0000BC00
+
+//MARZ investigation mission progress report all
+patch=1,EE,20CA03EC,extended,FFFFFFFF
+
+//All VR basic information
+patch=1,EE,20CA03F0,extended,FFFFFFFF
+
+//All of Daimon related information
+patch=1,EE,20CA03F4,extended,FFFFFFFF
+
+//General information (investigation, battle related information) all
+patch=1,EE,20CA03F8,extended,FFFFFFFF
+
+//General information (world, event related information) all
+patch=1,EE,20CA03FC,extended,FFFFFFFF
+
+//All advice
+patch=1,EE,20CA0400,extended,FFFFFFFF

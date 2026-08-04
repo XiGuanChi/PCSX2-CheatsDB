@@ -1,0 +1,31 @@
+gametitle=Mana Khemia - Alchemists of Al-Revis SLUS-21735
+//Max Money
+patch=1,EE,20BAE7B8,extended,000F423F
+
+//IN Battle Infinite HP 9999 
+patch=1,EE,200A0110,extended,2405270F
+patch=1,EE,200A0114,extended,AC85002C
+
+//IN Battle Infinite SP (9999 Style)
+patch=1,EE,200A0110,extended,2405270F
+patch=1,EE,200A0118,extended,AC850030
+
+//IN Battle Max Infinite HP
+patch=1,EE,200A0110,extended,2405270F
+patch=1,EE,200A011C,extended,AC850034
+patch=1,EE,200A0120,extended,AC85002C
+
+//IN Battle Max Infinite SP
+patch=1,EE,200A0110,extended,2405270F
+patch=1,EE,200A0124,extended,AC850038
+patch=1,EE,200A0128,extended,AC850030
+
+//Mission Timer Does not Increase (Keeps it at Starting time)
+patch=1,EE,001DDA98,extended,00000000
+
+//All Extras Unlocked
+patch=1,EE,40DDF430,extended,00340001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,10DDF500,extended,0000FFFF
+patch=1,EE,00DDF503,extended,00000002
+

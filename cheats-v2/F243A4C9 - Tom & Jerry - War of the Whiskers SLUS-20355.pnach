@@ -1,0 +1,20 @@
+gametitle=Tom & Jerry - War of the Whiskers SLUS-20355
+//Infinite Health Player 1
+patch=1,EE,21D558FC,extended,42C80000
+
+//Player 1 Needs 1 Win To Win
+patch=1,EE,D1D515E0,extended,00000000
+patch=1,EE,01D515E0,extended,00000001
+patch=1,EE,D1D515E0,extended,00000100
+patch=1,EE,01D515E0,extended,00000001
+
+// Infinite Health Player 2
+patch=1,EE,21D5BD9C,extended,42C80000
+
+//1Hit Death Player 2
+patch=1,EE,D1D5BD9E,extended,000042C8
+patch=1,EE,21D5BD9C,extended,3F800000
+
+//Unlock All Characters
+patch=1,EE,4021CEE4,extended,000B0001
+patch=1,EE,00000001,extended,00000000

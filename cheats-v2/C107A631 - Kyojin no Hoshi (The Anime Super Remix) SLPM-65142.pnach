@@ -1,0 +1,6 @@
+gametitle=Kyojin no Hoshi (The Anime Super Remix) SLPM-65142
+//Infinite points (99999)
+patch=1,EE,2080E550,extended,0001869F
+
+//Have 18 balls catched in first mini game
+patch=1,EE,20814B68,extended,00000012

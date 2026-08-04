@@ -1,0 +1,12 @@
+gametitle=Age of Empires II - The Age of Kings SLES-50282
+//Inf wood
+patch=1,EE,200FFF1C,extended,AC64DB44
+
+//Inf food
+patch=1,EE,200FFF20,extended,AC64DB40
+
+//Inf stone
+patch=1,EE,200FFF24,extended,AC64DB48
+
+//Inf gold
+patch=1,EE,200FFF28,extended,AC64DB4C

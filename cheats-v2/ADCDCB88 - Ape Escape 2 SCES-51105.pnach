@@ -1,0 +1,9 @@
+gametitle=Ape Escape 2 SCES-51105
+//Have 999 Coins
+patch=1,EE,103E1980,extended,000003E7
+
+//Have 99 Jackets
+patch=1,EE,103E1978,extended,00000063
+
+//Full Pack A' Cookies
+patch=1,EE,103E197C,extended,00000032

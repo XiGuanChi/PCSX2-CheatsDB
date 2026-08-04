@@ -1,0 +1,12 @@
+gametitle=Bully SLPS-25879
+//Infinite Health
+patch=1,EE,202A074C,extended,C6031A0C
+patch=1,EE,202A0764,extended,E6031A08
+
+//Max Money
+patch=1,EE,20430558,extended,3C013B9A
+patch=1,EE,20430560,extended,3421C9FF
+patch=1,EE,20430564,extended,AC4119F0
+
+//No Trouble
+patch=1,EE,2037B4A4,extended,00000000

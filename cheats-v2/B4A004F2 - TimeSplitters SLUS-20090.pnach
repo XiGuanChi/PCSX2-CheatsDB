@@ -1,0 +1,22 @@
+gametitle=TimeSplitters SLUS-20090
+//Invincible
+patch=1,EE,203A2540,extended,00000001
+
+//Have All Cheats
+patch=1,EE,203A294C,extended,FFFFFFFF
+
+//Unlock All Story Levels
+patch=1,EE,202245A4,extended,24020001
+patch=1,EE,202245A8,extended,AC620000
+patch=1,EE,202245AC,extended,AC620004
+patch=1,EE,202245B0,extended,AC620008
+
+//Unlock All MultiPlayer Levels
+patch=1,EE,20224648,extended,24020001
+patch=1,EE,20224650,extended,AC620000
+
+//Unlock All Challenges
+patch=1,EE,202242A0,extended,00000000
+patch=1,EE,202242D0,extended,00431821
+patch=1,EE,202242D4,extended,24020001
+patch=1,EE,202242DC,extended,AC62057C

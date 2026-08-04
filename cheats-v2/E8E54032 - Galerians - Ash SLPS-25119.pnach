@@ -1,0 +1,14 @@
+gametitle=Galerians - Ash SLPS-25119
+//Infinite HP
+patch=1,EE,2021BF00,extended,00002710
+patch=1,EE,2021BF04,extended,0000270F
+
+//Infinite AP
+patch=1,EE,2021BF08,extended,00000000
+patch=1,EE,2021BF0C,extended,0000270F
+
+//Shield ESP ability LV 3
+patch=1,EE,0021BF85,extended,00000003
+
+//99 possession of recovery Item
+patch=1,EE,0021C698,extended,00000063

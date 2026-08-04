@@ -1,0 +1,12 @@
+gametitle=Grappler Baki - Baki Saidai no Tournament SLPS-20038
+//P1 Life infinite
+patch=1,EE,1042A4C8,extended,000001D6
+patch=1,EE,0042A4D4,extended,000000EA
+
+//No Health Player 2 Press Select Button
+patch=1,EE,D02A39C0,extended,00000100
+patch=1,EE,1042B8DC,extended,000001D6
+
+//All characters
+patch=1,EE,00324FCB,extended,00000001
+patch=1,EE,00324FCC,extended,00000001

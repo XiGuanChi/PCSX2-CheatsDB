@@ -1,0 +1,675 @@
+gametitle=Taito Legends 2 SLUS-21349
+//Alpine Ski Activator
+patch=1,EE,200a0740,extended,8cc13c7c
+patch=1,EE,200a0744,extended,34048000
+patch=1,EE,200a0748,extended,00812820
+patch=1,EE,200a074c,extended,24040009
+patch=1,EE,200a0754,extended,24040059
+patch=1,EE,200a0768,extended,10000224
+//INf Credits
+patch=1,EE,200a0750,extended,a0a40099
+//Inf Time Player 1
+patch=1,EE,200a0758,extended,a0a400f2
+
+//Arabian Magic Activator
+patch=1,EE,200a0300,extended,3404dc28
+patch=1,EE,200a0304,extended,00812820
+patch=1,EE,200a0308,extended,24040009
+patch=1,EE,200a0320,extended,24040005
+patch=1,EE,200a032c,extended,24040064
+patch=1,EE,200a0334,extended,24040023
+patch=1,EE,200a0340,extended,24040003
+patch=1,EE,200a034c,extended,240400e8
+patch=1,EE,200a0358,extended,240400ff
+patch=1,EE,200a0388,extended,1000031c
+//Inf/Max Credits
+patch=1,EE,200a030c,extended,a0a40000
+//Inf Time
+patch=1,EE,200a0330,extended,a0a43742
+//Player 1 Inf Magic 
+patch=1,EE,200a0310,extended,a0a42332
+//Player 1 Inf Ammo
+patch=1,EE,200a0314,extended,a0a4234e
+//Player 2 Inf Magic 
+patch=1,EE,200a0318,extended,a0a42382
+//Player 2 Inf Ammo 
+patch=1,EE,200a031c,extended,a0a4239e
+//Player 1 Inf Lives
+patch=1,EE,200a0324,extended,a0a42331
+//Player 2 Inf Lives
+patch=1,EE,200a0328,extended,a0a42381
+//Player 1 Energy
+patch=1,EE,200a0338,extended,a0a4232e
+//Player 2 Energy
+patch=1,EE,200a033c,extended,a0a4237e
+//Player 1 Invincibility
+patch=1,EE,200a0344,extended,a0a42354
+//Player 2 Invincibility
+patch=1,EE,200a0348,extended,a0a423a4
+
+//Bonze Adventure Activator
+patch=1,EE,200a0398,extended,24040001
+patch=1,EE,200a03a0,extended,24040002
+patch=1,EE,200a03ac,extended,24040003
+patch=1,EE,200a03b4,extended,24040004
+patch=1,EE,200a03cc,extended,24040005
+patch=1,EE,200a03e0,extended,24040006
+patch=1,EE,200a03e8,extended,24040007
+patch=1,EE,200a03f0,extended,24040008
+patch=1,EE,200a03fc,extended,24040009
+patch=1,EE,200a0408,extended,2404001f
+patch=1,EE,200a0410,extended,24040050
+patch=1,EE,200a0438,extended,100002f0
+//Invincibility
+patch=1,EE,200a03a8,extended,a02415d4
+//INf Energy (Space Aria)
+patch=1,EE,200a03bc,extended,a024288e
+//Player 1 Inf Lives
+patch=1,EE,200a03d8,extended,a0241534
+//Player 2 Inf Lives
+patch=1,EE,200a03dc,extended,a0241544
+
+//Bust a Move Again Activator
+patch=1,EE,200a0b30,extended,3404a000
+patch=1,EE,200a0b34,extended,00812820
+patch=1,EE,200a0b38,extended,24040009
+patch=1,EE,200a0b40,extended,24040001
+patch=1,EE,200a0b48,extended,240400ff
+patch=1,EE,200a0b58,extended,3c060001
+patch=1,EE,200a0b5c,extended,00c12820
+patch=1,EE,200a0b78,extended,10000120
+//INf Credits
+patch=1,EE,200a0b3c,extended,a0240092
+//Unlock Alternate World
+patch=1,EE,200a0b44,extended,a0a40275
+//Lock Alternate World
+patch=1,EE,200a0b44,extended,a0a00275
+//Help Line Always On
+patch=1,EE,200a0b4c,extended,a02461dc
+
+//Cameltry Activator
+patch=1,EE,200a0440,extended,24040009
+patch=1,EE,200a044c,extended,24040099
+patch=1,EE,200a0458,extended,100002e8
+//Inf Credits
+patch=1,EE,200a0444,extended,a0242332
+//Inf Time
+patch=1,EE,200a0448,extended,a0246687
+patch=1,EE,200a0450,extended,a0246686
+
+//Chack 'N Pop Activator
+patch=1,EE,200a0770,extended,8cc13c7c
+patch=1,EE,200a0774,extended,34048000
+patch=1,EE,200a0778,extended,00812820
+patch=1,EE,200a077c,extended,240400c9
+patch=1,EE,200a0788,extended,2404000a
+patch=1,EE,200a0794,extended,24040009
+patch=1,EE,200a07a8,extended,10000214
+//Invincibility
+patch=1,EE,200a0780,extended,a0241b4f
+patch=1,EE,200a0784,extended,a0242a42
+//Inf Live Player 1
+patch=1,EE,200a078c,extended,a0a40403
+//Inf Live Player 2
+patch=1,EE,200a0790,extended,a0a40404
+//Inf Credits
+patch=1,EE,200a0798,extended,a0a4042b
+
+//Cleopatra Fortune Activator
+patch=1,EE,200a0460,extended,3404f9bc
+patch=1,EE,200a0464,extended,00812820
+patch=1,EE,200a0468,extended,24040009
+patch=1,EE,200a0478,extended,100002e0
+//Inf Credits
+patch=1,EE,200a046c,extended,a0a40000
+
+//Crazy Balloon Activator
+patch=1,EE,200a07b0,extended,8cc13c7c
+patch=1,EE,200a07b4,extended,24040005
+patch=1,EE,200a07c8,extended,1000020c
+//Inf Credits
+patch=1,EE,200a07b8,extended,a0244015
+//Inf Lives Player 1
+patch=1,EE,200a07bc,extended,a02440f0
+//Inf Lives Player 2
+patch=1,EE,200a07c0,extended,a02440f1
+
+//Always 9 Credits (Press L1) Darius Gaiden
+patch=1,EE,D0231E9C,extended,0000FBFF
+patch=1,EE,007B9592,extended,00000009
+
+//P1 Infinite Lives Darius Gaiden
+patch=1,EE,D029A5EC,extended,000002C8
+patch=1,EE,007D46DE,extended,00000009
+
+//P1 Infinite Bombs Darius Gaiden
+patch=1,EE,D029A5EC,extended,000002C8
+patch=1,EE,007D46F2,extended,00000005
+
+//P1 Invincibility Darius Gaiden
+patch=1,EE,D029A5EC,extended,000002C8
+patch=1,EE,007D46E2,extended,00000005
+
+//P2 Infinite Lives Darius Gaiden
+patch=1,EE,D029A5EC,extended,000002C8
+patch=1,EE,007D4764,extended,00000009
+
+//P2 Infinite Bombs Darius Gaiden
+patch=1,EE,D029A5EC,extended,000002C8
+patch=1,EE,007D4778,extended,00000005
+
+//P2 Invincibility Darius Gaiden
+patch=1,EE,D029A5EC,extended,000002C8
+patch=1,EE,007D4768,extended,00000005
+
+//Don Doko Don Activator
+patch=1,EE,200a0480,extended,24040009
+patch=1,EE,200a0494,extended,34048000
+patch=1,EE,200a0498,extended,00812820
+patch=1,EE,200a049c,extended,240400ff
+patch=1,EE,200a04a8,extended,24040010
+patch=1,EE,200a04b4,extended,24040008
+patch=1,EE,200a04d8,extended,100002c8
+//Infinite Credits
+patch=1,EE,200a0484,extended,a0240176
+//Player 1 Inf Hp
+patch=1,EE,200a04a0,extended,a0a404c7
+//Player 2 Inf Hp
+patch=1,EE,200a04a4,extended,a0a40507
+
+//Dungeon Magic Activator
+patch=1,EE,200a04e0,extended,3404c000
+patch=1,EE,200a04e4,extended,00812820
+patch=1,EE,200a04e8,extended,24040077
+patch=1,EE,200a04f0,extended,24040009
+patch=1,EE,200a0508,extended,24040038
+patch=1,EE,200a0528,extended,100002b4
+//INf Time
+patch=1,EE,200a04ec,extended,a0247f35
+//Inf Credits
+patch=1,EE,200a04f4,extended,a0240204
+//Inf Lives Player 1
+patch=1,EE,200a04f8,extended,a0a40247
+//Inf Specials Player 1
+patch=1,EE,200a04fc,extended,a0a40246
+//Inf Lives Player 2
+patch=1,EE,200a0500,extended,a0a40347
+//Inf Specials Player 2
+patch=1,EE,200a0504,extended,a0a40346
+//Invincibility Player 1
+patch=1,EE,200a050c,extended,a0a40240
+//Invincibility Player 2
+patch=1,EE,200a0510,extended,a0a40340
+//Inf Hp Player 1
+patch=1,EE,200a0514,extended,a0244fd3
+//Inf Hp Player 2
+patch=1,EE,200a0518,extended,a0245053
+
+//Elevator Action 2 Activator
+patch=1,EE,200a0c00,extended,34047000
+patch=1,EE,200a0c04,extended,00812820
+patch=1,EE,200a0c08,extended,24040009
+patch=1,EE,200a0c18,extended,240400aa
+patch=1,EE,200a0c20,extended,24040063
+patch=1,EE,200a0c58,extended,100000e8
+//Inf Credits
+patch=1,EE,200a0c0c,extended,a0240092
+//Inf Lives Player 1
+patch=1,EE,200a0c10,extended,a0a4080c
+//Inf Lives Player 2
+patch=1,EE,200a0c14,extended,a0a410e8
+//Inf Time (Last Level)
+patch=1,EE,200a0c1c,extended,a0a42c5c
+//Invincibility Player 1
+patch=1,EE,200a0c24,extended,a4a40fea
+//Invincibility Player 1
+patch=1,EE,200a0c28,extended,a4a418c6
+//Inf Bombs Player 1
+patch=1,EE,200a0c2c,extended,a0a408c6
+//Inf Ammo Player 1
+patch=1,EE,200a0c30,extended,a0a40874
+//Inf Bombs Player 2
+patch=1,EE,200a0c34,extended,a0a411a2
+//Inf Ammo Player 2
+patch=1,EE,200a0c38,extended,a0a41150
+//Inf Energy Player 1
+patch=1,EE,200a0c3c,extended,a0a40812
+//Inf Energy Player 2
+patch=1,EE,200a0c40,extended,a0a410ee
+
+//Front Line Activator
+patch=1,EE,200a0830,extended,8cc13c7c
+patch=1,EE,200a0834,extended,34048000
+patch=1,EE,200a0838,extended,00812820
+patch=1,EE,200a083c,extended,24040006
+patch=1,EE,200a0848,extended,240400ff
+patch=1,EE,200a0858,extended,100001e8
+//Inf Lives
+patch=1,EE,200a0840,extended,a0a40620
+//inf Credits
+patch=1,EE,200a0844,extended,a0a40009
+
+//G-Darius Activator
+patch=1,EE,200a0c70,extended,3c04000a
+patch=1,EE,200a0c74,extended,a0831008
+patch=1,EE,200a0c78,extended,100000e4
+patch=1,EE,C00a1008,extended,00000026
+//Always 9 Credits (Press L1)
+patch=1,EE,D0231E9C,extended,0000FBFF
+patch=1,EE,00228AC0,extended,00000009
+//P1 Infinite Lives
+patch=1,EE,0034E91E,extended,00000009
+//P1 Invincibility
+patch=1,EE,0034E922,extended,00000002
+//P2 Infinite Lives
+patch=1,EE,0034F02A,extended,00000009
+//P2 Invincibility
+patch=1,EE,0034F02E,extended,00000002
+
+//Gekirindan Activator
+patch=1,EE,200a0b80,extended,34048000
+patch=1,EE,200a0b84,extended,00812820
+patch=1,EE,200a0b88,extended,3c040001
+patch=1,EE,200a0b8c,extended,00813020
+patch=1,EE,200a0b90,extended,24040009
+patch=1,EE,200a0bbc,extended,34075000
+patch=1,EE,200a0bc0,extended,00e63020
+patch=1,EE,200a0bc8,extended,24040005
+patch=1,EE,200a0bf8,extended,10000100
+//Inf Credits
+patch=1,EE,200a0b94,extended,a0240092
+//Inf Lives Player 1
+patch=1,EE,200a0b98,extended,a0a40474
+//Inf Bombs Player 1
+patch=1,EE,200a0b9c,extended,a0c451ee
+//Inf Lives Player 2
+patch=1,EE,200a0ba0,extended,a0a4047a
+//Inf Bombs Player 2
+patch=1,EE,200a0bc4,extended,a0c4382e
+//Invincibility player 1
+patch=1,EE,200a0bac,extended,a0c01bda
+patch=1,EE,200a0bb4,extended,a0c01bf2
+//Invincibility player 2
+patch=1,EE,200a0bb0,extended,a0c0521a
+patch=1,EE,200a0bb8,extended,a0c05232
+
+//Grid Seeker  Project Storm Hammer Activator
+patch=1,EE,200a0580,extended,3404a000
+patch=1,EE,200a0584,extended,00812820
+patch=1,EE,200a0588,extended,24040009
+patch=1,EE,200a0590,extended,24040007
+patch=1,EE,200a059c,extended,24040006
+patch=1,EE,200a05a8,extended,24040050
+patch=1,EE,200a05bc,extended,24040001
+patch=1,EE,200a05c8,extended,24040002
+patch=1,EE,200a05dc,extended,24040003
+patch=1,EE,200a05e8,extended,10000284
+//Infinite Credits
+patch=1,EE,200a058c,extended,a0a40ee6
+//Infinite Lives PL1
+patch=1,EE,200a0594,extended,a0a43226
+//Infinite Lives PL2
+patch=1,EE,200a0598,extended,a0a43224
+//Maximum Fire Power PL1
+patch=1,EE,200a05a0,extended,a0a432aa
+//Maximum Fire Power PL2
+patch=1,EE,200a05a4,extended,a0a432f5
+//Infinite Bombs PL1
+patch=1,EE,200a05ac,extended,a0a4329c
+//Infinite Bombs PL2
+patch=1,EE,200a05b0,extended,a0a432e8
+//Invincibility PL1
+patch=1,EE,200a05cc,extended,a0a43284
+//Invincibility PL2
+patch=1,EE,200a05d0,extended,a0a432d0
+
+//Growl Activator
+patch=1,EE,200a05f0,extended,24040009
+patch=1,EE,200a05f8,extended,24040028
+patch=1,EE,200a0604,extended,240400ee
+patch=1,EE,200a0610,extended,24040006
+patch=1,EE,200a0638,extended,10000270
+//Credits
+patch=1,EE,200a05f4,extended,a02477d8
+//Infinite Energy PL1
+patch=1,EE,200a05fc,extended,a0247868
+//Infinite Energy PL2
+patch=1,EE,200a0600,extended,a0247968
+//Invincibility PL1
+patch=1,EE,200a0608,extended,a02478c4
+//Invincibility PL2
+patch=1,EE,200a060c,extended,a02479c4
+
+//Always 9 Credits (Press L1) Gun Frontier
+patch=1,EE,D0231E9C,extended,0000FBFF
+patch=1,EE,006A8592,extended,00000009
+
+//P1 Infinite Lives Gun Frontier
+patch=1,EE,D06A84D4,extended,0000F03C
+patch=1,EE,006B00E7,extended,00000005
+
+//P1 Always have Bombs Gun Frontier
+patch=1,EE,D06A84D4,extended,0000F03C
+patch=1,EE,006B0104,extended,00000009
+
+//P1 Invincibility Gun Frontier
+patch=1,EE,D06A84D4,extended,0000F03C
+patch=1,EE,006B00E8,extended,00000003
+
+//P2 Infinite Lives Gun Frontier
+patch=1,EE,D06A84D4,extended,0000F03C
+patch=1,EE,006B0125,extended,00000005
+
+//P2 Always Have Bombs Gun Frontier
+patch=1,EE,D06A84D4,extended,0000F03C
+patch=1,EE,006B0142,extended,00000009
+
+//P2 Invincibility Gun Frontier
+patch=1,EE,D06A84D4,extended,0000F03C
+patch=1,EE,006B0126,extended,00000003
+
+//Insector X Activator
+patch=1,EE,200a0860,extended,8cc13c7c
+patch=1,EE,200a0864,extended,3404e000
+patch=1,EE,200a0868,extended,00812820
+patch=1,EE,200a086c,extended,24040003
+patch=1,EE,200a0878,extended,24040007
+patch=1,EE,200a08a8,extended,100001d4
+//Inf Lives Player 1
+patch=1,EE,200a0870,extended,a0a4001a
+//Inf Lives Player 2
+patch=1,EE,200a0874,extended,a0a4001b
+//Inf Credits
+patch=1,EE,200a087c,extended,a0a40c00
+//Invincibility
+patch=1,EE,200a0888,extended,a0a0001c
+
+//KiKi KaiKai Activator
+patch=1,EE,200a08b0,extended,8cc13c7c
+patch=1,EE,200a08b4,extended,3404d000
+patch=1,EE,200a08b8,extended,00812820
+patch=1,EE,200a08bc,extended,24040009
+patch=1,EE,200a08c8,extended,24040001
+patch=1,EE,200a08d8,extended,100001c8
+//Inf Credits
+patch=1,EE,200a08c0,extended,a0a41801
+//Inf Lives
+patch=1,EE,200a08c4,extended,a0a40957
+//Unlock Extra Character
+patch=1,EE,200a08cc,extended,a0a411df
+
+//Kuri Kinton Activator
+patch=1,EE,200a08e0,extended,8cc13c7c
+patch=1,EE,200a08e4,extended,34048000
+patch=1,EE,200a08e8,extended,00812820
+patch=1,EE,200a08ec,extended,24040009
+patch=1,EE,200a08f4,extended,24040060
+patch=1,EE,200a08fc,extended,240400c9
+patch=1,EE,200a0904,extended,24040001
+patch=1,EE,200a090c,extended,3c040001
+patch=1,EE,200a0910,extended,00852820
+patch=1,EE,200a0914,extended,24040018
+patch=1,EE,200a0928,extended,100001b4
+//Inf Credits
+patch=1,EE,200a08f0,extended,a0a40187
+//inf Energy
+patch=1,EE,200a08f8,extended,a0a42010
+//Invincibility
+patch=1,EE,200a0900,extended,a0243666
+patch=1,EE,200a0918,extended,a024352a
+patch=1,EE,200a091c,extended,a0a44072
+//Oe Hit Kill (Boss)
+patch=1,EE,200a0908,extended,a0a42050
+
+//Legend of Kage Activator
+patch=1,EE,200a0930,extended,8cc13c7c
+patch=1,EE,200a0934,extended,3404e000
+patch=1,EE,200a0938,extended,00812820
+patch=1,EE,200a093c,extended,24040009
+patch=1,EE,200a0944,extended,240400ff
+patch=1,EE,200a0958,extended,100001a8
+//Inf Credits
+patch=1,EE,200a0940,extended,a0a401a3
+//Inf Lives Player 1
+patch=1,EE,200a0948,extended,a0a40225
+//inf Lives Player 2
+patch=1,EE,200a094c,extended,a0a4022c
+//Invincibility
+patch=1,EE,200a0950,extended,a0a0044e
+
+//Liquid Kids Activator
+patch=1,EE,200a0640,extended,34049000
+patch=1,EE,200a0644,extended,00812820
+patch=1,EE,200a0648,extended,24040009
+patch=1,EE,200a0650,extended,24040008
+patch=1,EE,200a0658,extended,24040003
+patch=1,EE,200a0660,extended,2404008a
+patch=1,EE,200a0668,extended,2404005a
+patch=1,EE,200a0670,extended,240400ff
+patch=1,EE,200a0680,extended,24040014
+patch=1,EE,200a0698,extended,10000258
+//Inf Credits
+patch=1,EE,200a064c,extended,a0a404e2
+//Always have Max Shot Up
+patch=1,EE,200a0654,extended,a0a40d74
+//Inf Lives
+patch=1,EE,200a065c,extended,a0a40523
+//Invincibility
+patch=1,EE,200a0664,extended,a0a40505
+patch=1,EE,200a066c,extended,a0242c6c
+
+//Majestic Twelve: The Space Invaders Part IV Activator
+patch=1,EE,200a0a80,extended,24040009
+patch=1,EE,200a0a98,extended,24040030
+patch=1,EE,200a0aa8,extended,10000154
+//Inf Credits
+patch=1,EE,200a0a84,extended,a0240096
+//inf Lives Player 1
+patch=1,EE,200a0a88,extended,a0243618
+//Inf Shields Player 1
+patch=1,EE,200a0a8c,extended,a0245292
+//Inf Lives Player 2
+patch=1,EE,200a0a90,extended,a024361a
+//Inf Shields Player 2
+patch=1,EE,200a0a94,extended,a02452e0
+
+//Always 9 Credits (Press L1) Metal Black
+patch=1,EE,D0231E9C,extended,0000FBFF
+patch=1,EE,006605F6,extended,00000009
+
+//P1 Infinite Lives Metal Black
+patch=1,EE,D06602E8,extended,0000F1E2
+patch=1,EE,00665510,extended,00000009
+
+//P1 Invincibility Metal Black
+patch=1,EE,D06602E8,extended,0000F1E2
+patch=1,EE,0066551A,extended,00000002
+
+//P1 Always Have Max Beam Level (P1 Press X) Metal Black
+patch=1,EE,D0231E9C,extended,0000BFFF
+patch=1,EE,00665503,extended,00000028
+
+//P2 Infinite Lives Metal Black
+patch=1,EE,D06602E8,extended,0000F1E2
+patch=1,EE,00665590,extended,00000009
+
+//P2 Invincibility Metal Black
+patch=1,EE,D06602E8,extended,0000F1E2
+patch=1,EE,0066559A,extended,00000002
+
+//P2 Always Have Max Beam Level (P2 Press X) Metal Black
+patch=1,EE,D0231F9C,extended,0000BFFF
+patch=1,EE,00665583,extended,00000028
+
+//Nastar Warrior Activator
+patch=1,EE,200a06ac,extended,24040009
+patch=1,EE,200a06d0,extended,2404000b
+patch=1,EE,200a06dc,extended,24040001
+patch=1,EE,200a06f4,extended,24040002
+patch=1,EE,200a070c,extended,24040003
+patch=1,EE,200a0718,extended,2404000f
+patch=1,EE,200a0724,extended,24040008
+patch=1,EE,200a072c,extended,2404000a
+patch=1,EE,200a0738,extended,10000230
+//Infinite Credits
+patch=1,EE,200a06b0,extended,a02404d8
+//Infinite Time
+patch=1,EE,200a06b4,extended,a0241b60
+patch=1,EE,200a06b8,extended,a0241b61
+//Infinite Lives PL1
+patch=1,EE,200a06bc,extended,a024050a
+//Max Level PL2
+patch=1,EE,200a06c4,extended,a0240522
+//Max Level PL1
+patch=1,EE,200a06c8,extended,a024050c
+//Infinite Lives PL2
+patch=1,EE,200a06cc,extended,a0240520
+//Infinite Energy PL1
+patch=1,EE,200a06d4,extended,a0240508
+//Infinite Energy PL2
+patch=1,EE,200a06d8,extended,a024051e
+//Invincibility PL1
+patch=1,EE,200a0704,extended,a0240592
+//Invincibility PL2
+patch=1,EE,200a0708,extended,a02405a8
+
+//Puchi Carat Activator
+patch=1,EE,200a09d0,extended,24040009
+patch=1,EE,200a09e0,extended,240400ff
+patch=1,EE,200a09f4,extended,00000000
+patch=1,EE,200a09f8,extended,10000180
+//Credits 
+patch=1,EE,200a09d4,extended,a0240268
+//Unlock Secret Character 
+patch=1,EE,200a09e4,extended,a0242184
+
+//Raimais Activator
+patch=1,EE,200a0990,extended,8cc13c7c
+patch=1,EE,200a0994,extended,3404a000
+patch=1,EE,200a0998,extended,00812820
+patch=1,EE,200a099c,extended,24040009
+patch=1,EE,200a09a4,extended,2404003c
+patch=1,EE,200a09ac,extended,24040004
+patch=1,EE,200a09b4,extended,24040040
+patch=1,EE,200a09bc,extended,24040027
+patch=1,EE,200a09c8,extended,1000018c
+//Inf Credits
+patch=1,EE,200a09a0,extended,a0a401dd
+//Invincibility
+patch=1,EE,200a09a8,extended,a0a40a74
+
+//Raystorm Activator
+patch=1,EE,200a0c60,extended,3c04000a
+patch=1,EE,200a0c64,extended,a0831008
+patch=1,EE,200a0c68,extended,100000e4
+patch=1,EE,C00a1008,extended,00000025
+
+//Always 9 Credits (Press L1) RayStorm
+patch=1,EE,D0231E9C,extended,0000FBFF
+patch=1,EE,00228128,extended,00000009
+
+//P1 Infinite Lives RayStorm
+patch=1,EE,003397D4,extended,00000005
+
+//P1 Infinite Bombs RayStorm
+patch=1,EE,00339803,extended,00000010
+
+//P2 Infinite Lives RayStorm
+patch=1,EE,00337374,extended,00000005
+
+//P2 Infinite Bombs RayStorm
+patch=1,EE,003373A3,extended,00000010
+
+//Space Invaders 95 Activator
+patch=1,EE,200a0a00,extended,3404f000
+patch=1,EE,200a0a04,extended,00812820
+patch=1,EE,200a0a08,extended,24040009
+patch=1,EE,200a0a18,extended,24040080
+patch=1,EE,200a0a24,extended,2404003b
+patch=1,EE,200a0a48,extended,1000016c
+//Inf Credits
+patch=1,EE,200a0a0c,extended,a0a40fc8
+//Inf Lives Player 1
+patch=1,EE,200a0a10,extended,a0a41cdc
+//Inf Lives Player 2
+patch=1,EE,200a0a14,extended,a0a41d5c
+//Invincibility Player 1
+patch=1,EE,200a0a1c,extended,a0a41c9f
+//Invincibility Player 2
+patch=1,EE,200a0a20,extended,a0a41d1f
+
+//Space Invaders DX Activator
+patch=1,EE,200a0a50,extended,24040009
+patch=1,EE,200a0a60,extended,24040016
+patch=1,EE,200a0a68,extended,24040098
+patch=1,EE,200a0a78,extended,10000160
+//INf Credits
+patch=1,EE,200a0a54,extended,a0242444
+//Inf Lives Player 1
+patch=1,EE,200a0a58,extended,a0243bfe
+//inf Lives Player 2
+patch=1,EE,200a0a5c,extended,a0243cfe
+
+//Syvalion Activator
+patch=1,EE,200a0af0,extended,24040009
+patch=1,EE,200a0b04,extended,24040003
+patch=1,EE,200a0b0c,extended,240400e7
+patch=1,EE,200a0b14,extended,24040014
+patch=1,EE,200a0b28,extended,10000134
+//Inf Credits
+patch=1,EE,200a0af4,extended,a0242900
+//Inf Energy
+patch=1,EE,200a0af8,extended,a02443b7
+//Inf Lives Player 1
+patch=1,EE,200a0afc,extended,a0244272
+//Inf Lives Player 2
+patch=1,EE,200a0b00,extended,a0244280
+
+//The Fairyland Story Activator
+patch=1,EE,200a07d0,extended,8cc13c7c
+patch=1,EE,200a07d4,extended,3404e000
+patch=1,EE,200a07d8,extended,00812820
+patch=1,EE,200a07dc,extended,24040009
+patch=1,EE,200a07e4,extended,24040001
+patch=1,EE,200a07f0,extended,240400ff
+patch=1,EE,200a07f8,extended,24040005
+patch=1,EE,200a0800,extended,24040008
+patch=1,EE,200a0808,extended,24040003
+patch=1,EE,200a0810,extended,24040020
+patch=1,EE,200a0828,extended,100001f4
+//INf Credits
+patch=1,EE,200a07e0,extended,a0a40604
+//Inf Time Last Enemy excape
+patch=1,EE,200a07e8,extended,a0a40695
+//Inf Time Last Enemy Stay
+patch=1,EE,200a07ec,extended,a0a40694
+//INf Item Time
+patch=1,EE,200a07f4,extended,a0a406d1
+//Inf Lives
+patch=1,EE,200a07fc,extended,a0a40782
+
+//Violence Fight Activator
+patch=1,EE,200a0ab0,extended,24040009
+patch=1,EE,200a0ac4,extended,24040099
+patch=1,EE,200a0ad4,extended,24040016
+patch=1,EE,200a0ae8,extended,10000144
+//Inf Credits
+patch=1,EE,200a0ab4,extended,a024013c
+//Inf Energy Player 1
+patch=1,EE,200a0abc,extended,a024021d
+patch=1,EE,200a0ac8,extended,a024021c
+//No Energy Player 2
+patch=1,EE,200a0ac0,extended,a020029d
+patch=1,EE,200a0acc,extended,a020029c
+
+//Wild Western Activator
+patch=1,EE,200a0960,extended,8cc13c7c
+patch=1,EE,200a0964,extended,34048000
+patch=1,EE,200a0968,extended,00812820
+patch=1,EE,200a096c,extended,24040009
+patch=1,EE,200a0974,extended,24040003
+patch=1,EE,200a0988,extended,1000019c
+//INf Credits
+patch=1,EE,200a0970,extended,a0a40009
+//Inf Lives
+patch=1,EE,200a0978,extended,a0a40620

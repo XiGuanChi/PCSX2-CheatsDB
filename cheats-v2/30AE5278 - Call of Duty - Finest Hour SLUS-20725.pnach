@@ -1,0 +1,25 @@
+gametitle=Call of Duty - Finest Hour SLUS-20725
+//Infinite Health (Disable Damage)
+patch=1,EE,2022BE28,extended,24020001
+patch=1,EE,2022B9C0,extended,24020001
+
+//Infinite Armor (Tank)
+patch=1,EE,203D7BB4,extended,8C822610
+patch=1,EE,203D7BB8,extended,03E00008
+patch=1,EE,203D7BBC,extended,AC82260C
+
+//Infinite Health (Tank)
+patch=1,EE,203D7B8C,extended,8C822608
+patch=1,EE,203D7B90,extended,03E00008
+patch=1,EE,203D7B94,extended,AC822604
+
+//Infinite Ammo
+patch=1,EE,20234754,extended,1000000C
+
+//Unlock All Gallery/Cheats
+patch=1,EE,D0141030,extended,00102825
+patch=1,EE,20113E38,extended,FFFFFFFF
+
+//Unlock All Levels
+patch=1,EE,D0141030,extended,00102825
+patch=1,EE,20113E5C,extended,00000026

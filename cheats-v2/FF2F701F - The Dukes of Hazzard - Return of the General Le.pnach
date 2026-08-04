@@ -1,0 +1,41 @@
+gametitle=The Dukes of Hazzard - Return of the General Le
+//Drive Through Most Objects
+patch=1,EE,202D2DD0,extended,03E00008
+patch=1,EE,202D2DD4,extended,00000000
+
+//Infinite Time
+patch=1,EE,202E8344,extended,00000000
+
+//Idiot AI
+patch=1,EE,20452600,extended,03E00008
+patch=1,EE,20452604,extended,00000000
+
+//No Damage - Panel
+patch=1,EE,20421288,extended,03E00008
+patch=1,EE,2042128C,extended,00000000
+
+//No Damage - Engine
+patch=1,EE,204243E0,extended,03E00008
+patch=1,EE,204243E4,extended,00000000
+
+//No Damage - Light
+patch=1,EE,20422D70,extended,03E00008
+patch=1,EE,20422D74,extended,00000000
+
+//No Damage - Chassis
+patch=1,EE,20424FF0,extended,03E00008
+patch=1,EE,20424FF4,extended,00000000
+patch=1,EE,20425278,extended,03E00008
+patch=1,EE,2042527C,extended,00000000
+
+//All Multiplayer Modes
+patch=1,EE,4061D750,extended,00030001
+patch=1,EE,00000001,extended,00000000
+
+//All Movies
+patch=1,EE,4061D75C,extended,00040001
+patch=1,EE,00000001,extended,00000000
+
+//All Vehicles
+patch=1,EE,4061D778,extended,000A0001
+patch=1,EE,00000001,extended,00000000

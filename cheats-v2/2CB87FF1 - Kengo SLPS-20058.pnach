@@ -1,0 +1,4 @@
+gametitle=Kengo SLPS-20058
+//Infinite health P1
+patch=1,EE,201E8E40,extended,3F800000
+patch=1,EE,101E96C2,extended,00000000

@@ -1,0 +1,36 @@
+gametitle=Makai Eiyuuki Maximo - Machine Monster no Yabou SLPM-65367
+//Infinite HP & SP
+patch=1,EE,20165A18,extended,00409023
+
+//Infinite Grim & coin
+patch=1,EE,201659FC,extended,00409023
+
+//Everything increased will be MAX
+patch=1,EE,201655F8,extended,10200001
+
+//Max Koins
+patch=1,EE,20316984,extended,0000270F
+
+//Max Soul Stones
+patch=1,EE,20316988,extended,0000270F
+
+//Max Iron Keys
+patch=1,EE,20316994,extended,00000063
+
+//Max Death Coins
+patch=1,EE,2031699C,extended,0000270F
+
+//Max Shield
+patch=1,EE,2031697C,extended,00000708
+patch=1,EE,20316980,extended,00000009
+
+//Max Grim Energy
+patch=1,EE,203169A4,extended,00000028
+patch=1,EE,203169A8,extended,00000028
+
+//Max HP Energy
+patch=1,EE,203169AC,extended,00000009
+patch=1,EE,203169B0,extended,00001680
+
+//Have All Hint Scrolls
+patch=1,EE,203169C8,extended,FFFFFFFF

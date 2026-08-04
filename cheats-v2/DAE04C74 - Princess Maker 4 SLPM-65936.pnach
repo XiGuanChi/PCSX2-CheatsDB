@@ -1,0 +1,65 @@
+gametitle=Princess Maker 4 SLPM-65936
+//Max Money 9999999 
+//Money 999999G
+patch=1,EE,207A8C40,extended,000F423F
+
+//Physical strength 999
+patch=1,EE,207A8CEC,extended,0001869F
+
+//Intellect 999
+patch=1,EE,207A8CF0,extended,0001869F
+
+//Charm 999
+patch=1,EE,207A8CF4,extended,0001869F
+
+//Pride 999
+patch=1,EE,207A8CF8,extended,0001869F
+
+//Moral 999
+patch=1,EE,207A8CFC,extended,0001869F
+
+//Tastefulness 999
+patch=1,EE,207A8D00,extended,0001869F
+
+//Sensitivity 999
+patch=1,EE,207A8D04,extended,0001869F
+
+//Disposition 999
+patch=1,EE,207A8D08,extended,0001869F
+
+//Degree of distinction 999
+patch=1,EE,207A8D0C,extended,0001869F
+
+//Martial arts ability 999
+patch=1,EE,207A8D10,extended,0001869F
+
+//Art ability 999
+patch=1,EE,207A8D14,extended,0001869F
+
+//Cruelty 0
+patch=1,EE,207A8D18,extended,00000000
+
+//Degree of fatigue 0
+patch=1,EE,207A8D1C,extended,00000000
+
+//Album appearance & full opening
+patch=1,EE,007A63B0,extended,00000003
+patch=1,EE,207A7D50,extended,FFFFFFFF
+patch=1,EE,207A7D54,extended,FFFFFFFF
+patch=1,EE,207A7D58,extended,FFFFFFFF
+patch=1,EE,207A7D5C,extended,FFFFFFFF
+
+//Status 500
+patch=1,EE,207A8C80,extended,000001F4
+patch=1,EE,207A8C84,extended,000001F4
+patch=1,EE,207A8C8A,extended,000001F4
+patch=1,EE,207A8C8E,extended,000001F4
+patch=1,EE,207A8C92,extended,000001F4
+patch=1,EE,207A8C96,extended,000001F4
+patch=1,EE,207A8C9A,extended,000001F4
+patch=1,EE,207A8C9E,extended,000001F4
+patch=1,EE,207A8CA2,extended,000001F4
+patch=1,EE,207A8CA6,extended,000001F4
+patch=1,EE,207A8CAA,extended,000001F4
+patch=1,EE,207A8CAE,extended,000001F4
+patch=1,EE,207A8CB2,extended,000001F4

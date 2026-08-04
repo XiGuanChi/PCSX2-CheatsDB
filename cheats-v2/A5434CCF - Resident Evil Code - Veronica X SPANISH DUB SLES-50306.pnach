@@ -1,0 +1,99 @@
+gametitle=Resident Evil Code - Veronica X SPANISH DUB SLES-50306
+//Infinite Health
+patch=1,EE,20448F2C,extended,000000A0
+
+//Claire
+
+//Inf Item/Ammo Slot 1
+patch=1,EE,10449BA8,extended,000003E7
+
+//Inf Item/Ammo Slot 2
+patch=1,EE,10449BAC,extended,000003E7
+
+//Inf Item/Ammo Slot 3
+patch=1,EE,10449BB0,extended,000003E7
+
+//Inf Item/Ammo Slot 4
+patch=1,EE,10449BB4,extended,000003E7
+
+//Inf Item/Ammo Slot 5
+patch=1,EE,10449BB8,extended,000003E7
+
+//Inf Item/Ammo Slot 6
+patch=1,EE,10449BBC,extended,000003E7
+
+//Inf Item/Ammo Slot 7
+patch=1,EE,10449BC0,extended,000003E7
+
+//Inf Item/Ammo Slot 8
+patch=1,EE,10449BC4,extended,000003E7
+
+
+//Steve
+
+//Inf Item/ammo Slot 1
+patch=1,EE,10449C28,extended,000003E7
+
+//Inf Item/ammo Slot 2
+patch=1,EE,10449C2C,extended,000003E7
+
+//Inf Item/ammo Slot 3
+patch=1,EE,10449C30,extended,000003E7
+
+//Inf Item/ammo Slot 4
+patch=1,EE,10449C34,extended,000003E7
+
+//Inf Item/ammo Slot 5
+patch=1,EE,10449C38,extended,000003E7
+
+//Inf Item/ammo Slot 6
+patch=1,EE,10449C3C,extended,000003E7
+
+//Inf Item/ammo Slot 7
+patch=1,EE,10449C40,extended,000003E7
+
+//Inf Item/ammo Slot 8
+patch=1,EE,10449C44,extended,000003E7
+
+
+//Chris
+
+//Inf Item/ammo Slot 1
+patch=1,EE,10449BE8,extended,000003E7
+
+//Inf Item/ammo Slot 2
+patch=1,EE,10449BEC,extended,000003E7
+
+//Inf Item/ammo Slot 3
+patch=1,EE,10449BF0,extended,000003E7
+
+//Inf Item/ammo Slot 4
+patch=1,EE,10449BF4,extended,000003E7
+
+//Inf Item/ammo Slot 5
+patch=1,EE,10449BF8,extended,000003E7
+
+//Inf Item/ammo Slot 6
+patch=1,EE,10449BFC,extended,000003E7
+
+//Inf Item/ammo Slot 7
+patch=1,EE,10449C00,extended,000003E7
+
+//Inf Item/ammo Slot 8
+patch=1,EE,10449C04,extended,000003E7
+
+//Always First Save
+patch=1,EE,104499B0,extended,00000000
+
+//No Retries
+patch=1,EE,1044A1DA,extended,00000000
+
+//Low End Time
+patch=1,EE,2044A1D0,extended,00000000
+
+//Press L1 + Cross Save Anywhere
+patch=1,EE,D1E257C0,extended,0000BBFF
+patch=1,EE,00449996,extended,00000020
+
+//Unlock Extras
+patch=1,EE,20449934,extended,0000FFFF

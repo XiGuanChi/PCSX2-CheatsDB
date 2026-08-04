@@ -1,0 +1,40 @@
+gametitle=Tony Hawk's Pro Skater 4 SLUS-20504
+//Max Pro Points
+patch=1,EE,2096F5B8,extended,000000BE
+
+//Max Cash
+patch=1,EE,2096F5BC,extended,05F5E0FF
+
+//Perfect Rails
+patch=1,EE,2086BACC,extended,00000000
+
+//Quick Special Gain
+patch=1,EE,20871D04,extended,00000BB8
+
+//Easy Manual Balance
+patch=1,EE,2086BA5C,extended,00000000
+
+//Infinite Special
+patch=1,EE,20871D04,extended,00000BB8
+patch=1,EE,10871D08,extended,00000001
+
+//Unlock All Cheats & Levels
+patch=1,EE,2096FA40,extended,FFFFFFFF
+patch=1,EE,0096FA44,extended,000000FF
+
+//Unlock All Movies
+patch=1,EE,2096FA44,extended,FFFFFFFF
+patch=1,EE,1096FA66,extended,0000FFFF
+
+//Unlock All Clothes
+patch=1,EE,2096FA48,extended,0007FFFF
+
+//Unlock All Boards
+patch=1,EE,0096FA4D,extended,000000FF
+patch=1,EE,1096FA4E,extended,0000FFFF
+patch=1,EE,2096FA50,extended,FFFFFFFF
+patch=1,EE,2096FA54,extended,FFFFFFFF
+patch=1,EE,2096FA58,extended,FFFFFFFF
+patch=1,EE,2096FA5C,extended,FFFFFFFF
+patch=1,EE,2096FA60,extended,FFFFFFFF
+patch=1,EE,1096FA64,extended,0000FFFF

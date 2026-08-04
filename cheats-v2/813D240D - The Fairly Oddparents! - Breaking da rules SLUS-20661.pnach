@@ -1,0 +1,20 @@
+gametitle=The Fairly Oddparents! - Breaking da rules SLUS-20661
+//Infinite Lives (Alternate)
+patch=1,EE,2078C64C,extended,00000009
+
+//99 Continues
+patch=1,EE,1078C64C,extended,00000063
+
+//Max Crowns/Crimson Chin Cards/Wish Stars
+patch=1,EE,200C0220,extended,8E0201F0
+patch=1,EE,200C0224,extended,24010063
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,AC410000
+patch=1,EE,201BCC40,extended,0C030088
+
+//Can Play Any Bonus
+patch=1,EE,2010BB8C,extended,00000000
+
+//Unlock All Bonus Movies
+patch=1,EE,204916A8,extended,00000021
+patch=1,EE,20537A48,extended,00000021

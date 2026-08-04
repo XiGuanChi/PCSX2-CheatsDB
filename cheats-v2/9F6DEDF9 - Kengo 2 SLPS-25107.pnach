@@ -1,0 +1,43 @@
+gametitle=Kengo 2 SLPS-25107
+//Max stats 9999
+patch=1,EE,201B6E14,extended,64040007
+patch=1,EE,201B6E18,extended,3463270F
+patch=1,EE,201B6E1C,extended,A4A30000
+patch=1,EE,201B6E20,extended,2484FFFF
+patch=1,EE,201B6E24,extended,24A50002
+patch=1,EE,201B6E2C,extended,1480FFFA
+
+//All sword ?? (this part)
+patch=1,EE,201D20B0,extended,36E20FFF
+patch=1,EE,201D20B4,extended,A06200A4
+
+//Main story: Pressing only R3 during the battle heals the player, Hold select and press R3 to kill the enemy
+patch=1,EE,200F2180,extended,3C010024
+patch=1,EE,200F2184,extended,842543C0
+patch=1,EE,200F2188,extended,30A30400
+patch=1,EE,200F218C,extended,10600009
+patch=1,EE,200F2190,extended,842443BC
+patch=1,EE,200F2194,extended,30810100
+patch=1,EE,200F2198,extended,54200005
+patch=1,EE,200F219C,extended,3C010039
+patch=1,EE,200F21A0,extended,3C0C3F80
+patch=1,EE,200F21A4,extended,3C010038
+patch=1,EE,200F21A8,extended,10000002
+patch=1,EE,200F21AC,extended,AC2C1E14
+patch=1,EE,200F21B0,extended,AC20FF54
+patch=1,EE,200F21B4,extended,03E00008
+patch=1,EE,20119218,extended,0803C860
+
+//Physical fitness self
+patch=1,EE,20381E14,extended,3F800000
+patch=1,EE,20381E18,extended,3F800000
+
+//PROFICIENCY not, dropping
+patch=1,EE,201DDB00,extended,70001489
+
+//Unlock All face, and costumes
+patch=1,EE,201D3750,extended,0803DBD0
+patch=1,EE,200F6F40,extended,342100FF
+patch=1,EE,200F6F44,extended,A0610009
+patch=1,EE,200F6F48,extended,03E00008
+patch=1,EE,200F6F4C,extended,34020001

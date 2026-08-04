@@ -1,0 +1,16 @@
+gametitle=Jissen Pachi-Slot Hisshouhou! - Hokuto no Ken Plus SLPM-62577
+//MAX
+patch=1,EE,2038385C,extended,0098967F
+patch=1,EE,20383838,extended,0098967F
+
+//SURVIVAL game  After pressing the SELECT + R1 button
+patch=1,EE,D02E4942,extended,0000FDFE
+patch=1,EE,20BCD038,extended,0098967F
+patch=1,EE,D02E4942,extended,0000FDFE
+patch=1,EE,20BCD03C,extended,0098967F
+
+//HAYAOSHI BAT game  After pressing the SELECT + L2 button
+patch=1,EE,D02E4942,extended,0000FEFE
+patch=1,EE,20BCBA80,extended,0098967F
+patch=1,EE,D02E4942,extended,0000FEFE
+patch=1,EE,20BCBA84,extended,0098967F

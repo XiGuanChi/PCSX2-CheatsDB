@@ -1,0 +1,4 @@
+gametitle=Eternal Quest SLES-51624
+//Infinite Health
+patch=1,EE,001f2ac0,extended,0000000b
+patch=1,EE,001f2ac4,extended,0000000b

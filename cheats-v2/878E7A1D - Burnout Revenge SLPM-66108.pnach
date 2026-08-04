@@ -1,0 +1,34 @@
+gametitle=Burnout Revenge SLPM-66108
+//Rank DOMINATOR
+patch=1,EE,21EBB9C8,extended,000003E7
+patch=1,EE,21EBB9CC,extended,0000000A
+
+//Maximum boost meter with R1 button
+patch=1,EE,21E310D8,extended,00000003
+patch=1,EE,21E310DC,extended,44340000
+patch=1,EE,21E310F0,extended,40000000
+patch=1,EE,D047CB1C,extended,0000F7FF
+patch=1,EE,21E310E0,extended,44340000
+
+//All gold
+patch=1,EE,01EBBC30,extended,00000003
+patch=1,EE,41EBBB88,extended,002A0001
+patch=1,EE,03030303,extended,00000000
+
+//All ratings
+patch=1,EE,01EBBC9B,extended,00000004
+patch=1,EE,41EBBC9C,extended,002A0001
+patch=1,EE,04040404,extended,00000000
+
+//All challenges
+patch=1,EE,41EBBAE0,extended,00100001
+patch=1,EE,03030303,extended,00000000
+
+//All unique takedowns
+patch=1,EE,01EBBB38,extended,00000001
+patch=1,EE,41EBBB20,extended,00060001
+patch=1,EE,01010101,extended,00000000
+
+//Appearance of all models 
+patch=1,EE,01EBBDC9,extended,00000003
+patch=1,EE,01EBBDCA,extended,00000003

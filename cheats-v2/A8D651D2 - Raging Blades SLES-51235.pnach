@@ -1,0 +1,15 @@
+gametitle=Raging Blades SLES-51235
+//Infinite Health P1
+patch=1,EE,2029C420,extended,00F000F0
+
+//Infinite/Max Force P1
+patch=1,EE,2029C424,extended,0000270F
+
+//Infinite Health P2
+patch=1,EE,2029CFA0,extended,00F000F0
+
+//Infinite/Max Force P2
+patch=1,EE,2029CFA4,extended,0000270F
+
+//Infinite Continues
+patch=1,EE,2030D85C,extended,00000008

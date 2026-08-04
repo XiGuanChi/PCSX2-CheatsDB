@@ -1,0 +1,43 @@
+gametitle=Burnout Dominator SLUS-21596 SLES-54627 SLES-54681
+//Infinite Boost 
+patch=1,EE,202db77c,extended,00000000
+
+//Max Infinite Boost 
+patch=1,EE,2021fd64,extended,C4810040
+patch=1,EE,2021fd70,extended,E4810044
+
+//Max Dominator Points
+patch=1,EE,2055E470,extended,3B9AC9FF
+
+//All Awards & Trophies Ulocked
+patch=1,EE,2055E598,extended,FFFFFFFF
+patch=1,EE,0055E59C,extended,00000007
+
+//All Signature Shortcuts
+patch=1,EE,2055E5B8,extended,0FFFFFFF
+
+//All Vehicles In Garage
+patch=1,EE,2055E578,extended,FFFFFFFF
+
+//All Events Complete: GOLD
+patch=1,EE,2055E478,extended,06060606
+patch=1,EE,2055E47C,extended,06060606
+patch=1,EE,2055E480,extended,06060606
+patch=1,EE,2055E484,extended,06060606
+patch=1,EE,2055E488,extended,06060606
+patch=1,EE,2055E48C,extended,06060606
+patch=1,EE,2055E490,extended,06060606
+patch=1,EE,2055E494,extended,06060606
+patch=1,EE,2055E498,extended,06060606
+patch=1,EE,2055E49C,extended,06060606
+patch=1,EE,2055E4A0,extended,06060606
+patch=1,EE,2055E4A4,extended,06060606
+patch=1,EE,2055E4A8,extended,06060606
+patch=1,EE,2055E4AC,extended,06060606
+patch=1,EE,2055E4B0,extended,06060606
+patch=1,EE,2055E4B4,extended,06060606
+patch=1,EE,2055E4B8,extended,06060606
+patch=1,EE,2055E4BC,extended,06060606
+patch=1,EE,2055E4C0,extended,06060606
+patch=1,EE,2055E4C4,extended,06060606
+patch=1,EE,2055E4C8,extended,06060606

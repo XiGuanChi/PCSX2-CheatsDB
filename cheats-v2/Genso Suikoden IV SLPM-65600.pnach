@@ -1,0 +1,14 @@
+gametitle= Genso Suikoden IV SLPM-65600
+//Max Money
+patch=1,EE,20534498,extended,05F5E0FF
+
+//HP operation in combat 1P side of the select with a single blow death, recovery at the start L2 + R2 in the usual, there is the effect on the enemy all allies.
+patch=1,EE,D05BA502,extended,0000FFFE
+patch=1,EE,2019CE00,extended,10000004
+patch=1,EE,D05BA502,extended,0000FFF7
+patch=1,EE,2019CE00,extended,10400000
+patch=1,EE,D05BA502,extended,0000FCFF
+patch=1,EE,2019CE00,extended,10400003
+
+//100 ship customization points
+patch=1,EE,20315EF4,extended,24110064

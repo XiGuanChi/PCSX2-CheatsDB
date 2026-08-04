@@ -1,0 +1,19 @@
+gametitle=MX Superfly featuring Ricky Carmichael SLUS-20381
+//Max Race Points
+patch=1,EE,1041FEE4,extended,000003E7
+
+//Max Money
+patch=1,EE,204204A8,extended,05F5E0FF
+
+//Idiot AI
+patch=1,EE,201E0C10,extended,03E00008
+patch=1,EE,201E0C14,extended,00000000
+
+//Have All Riders
+patch=1,EE,20412D20,extended,00000000
+
+//Have All Bikes
+patch=1,EE,20412D24,extended,0000FFFF
+
+//Have All MiniGames
+patch=1,EE,20412D28,extended,0000FFFF

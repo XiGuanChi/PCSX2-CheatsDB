@@ -1,0 +1,12 @@
+gametitle=Pitfall - The Lost Expedition SLES-51686
+//infinite Health
+patch=1,EE,20181ACC,extended,2402000A
+
+//Spend Idols For 999 Idols
+patch=1,EE,20181CB8,extended,240203E7
+
+//Enable Pitfall!
+patch=1,EE,2055C288,extended,00000001
+
+//Enable Lost Caverns
+patch=1,EE,2055C28C,extended,00000001

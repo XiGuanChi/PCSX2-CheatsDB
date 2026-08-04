@@ -1,0 +1,27 @@
+gametitle=Hidden Invasion SLUS-20301
+//Infinite Health Player 1
+patch=1,EE,1025B1CC,extended,00000064
+
+//infinite Ammo Weapon 1 Player 1
+patch=1,EE,1025B2B8,extended,00000063
+
+//infinite Ammo Weapon 2 Player 1
+patch=1,EE,1025B2BA,extended,00000063
+
+//Infinite Health Player 2
+patch=1,EE,1025B1DC,extended,00000063
+
+//infinite Ammo Weapon 1 Player 2
+patch=1,EE,1025B8C8,extended,00000063
+
+//infinite Ammo Weapon 2 Player 2
+patch=1,EE,1025B8CA,extended,00000063
+
+//Infinite Time (Minutes)
+patch=1,EE,201E0F0C,extended,42C60000
+
+//Infinite Ammo Both Players
+patch=1,EE,20147C58,extended,00000000
+
+//Infinite Lives Both Players
+patch=1,EE,201497C8,extended,00000000

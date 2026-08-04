@@ -1,0 +1,10 @@
+gametitle=L.A. Rush SLES-53419
+//Infinite Cash
+patch=1,EE,203FC180,extended,05F5E0FF
+
+//Unlock All Cars
+patch=1,EE,403FC460,extended,003C0001
+patch=1,EE,00000002,extended,00000000
+
+//Infinite Turbo
+patch=1,EE,21F181BC,extended,00000003

@@ -1,0 +1,4 @@
+gametitle=Clover Heart's - Looking for Happiness SLPS-25390
+//Special  fully open
+patch=1,EE,4025C5D8,extended,00B40001
+patch=1,EE,FFFFFFFF,extended,00000000

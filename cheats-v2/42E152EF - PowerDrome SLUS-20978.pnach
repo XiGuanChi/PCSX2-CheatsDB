@@ -1,0 +1,6 @@
+gametitle=PowerDrome SLUS-20978
+//Access All Gallery/Movies
+patch=1,EE,204BA628,extended,00000001
+
+//Infinite Boost (Even When Empty)
+patch=1,EE,2031CF68,extended,00000000

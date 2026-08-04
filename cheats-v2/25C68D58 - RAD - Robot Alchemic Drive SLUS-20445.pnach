@@ -1,0 +1,15 @@
+gametitle=RAD - Robot Alchemic Drive SLUS-20445
+//Infinite Health (Only Players)
+patch=1,EE,20235218,extended,848200B4
+patch=1,EE,2023521C,extended,A48200B8
+
+//Infinite Boost (Only Players)
+patch=1,EE,20232E54,extended,848200BC
+patch=1,EE,20232E58,extended,A48200BE
+
+//Infinite Mech Specials (Only Players)
+patch=1,EE,20235248,extended,848200BC
+patch=1,EE,2023524C,extended,A48200BE
+
+//Access All Characters
+patch=1,EE,2020D64C,extended,2402FFFF

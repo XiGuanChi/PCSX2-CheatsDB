@@ -1,0 +1,22 @@
+gametitle=Nicktoons - Attack of the Toybots SLUS-21605
+//Take No Damage From Enemies
+patch=1,EE,201DBC08,extended,00000000
+
+//Max Cubes Upon Pickup
+patch=1,EE,20218558,extended,3C0305F5
+patch=1,EE,2021855C,extended,3463E0FF
+
+//Infinite Goo**could work on loober, scatter and splitter goo
+patch=1,EE,20232CC4,extended,00000000
+
+//Buying Characters Doesn't Decrease Cubes
+patch=1,EE,20146288,extended,00000000
+
+//Buying Characters Increases Cubes
+patch=1,EE,20146284,extended,00461021
+
+//Invulnerability Always On
+patch=1,EE,20BA057C,extended,00000001
+
+//Alt.Invulnerability Always on
+patch=1,EE,202AABA4,extended,AE2200EC

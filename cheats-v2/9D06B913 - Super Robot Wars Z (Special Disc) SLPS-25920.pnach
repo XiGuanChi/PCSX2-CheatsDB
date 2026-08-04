@@ -1,0 +1,46 @@
+gametitle=Super Robot Wars Z (Special Disc) SLPS-25920	 
+//Fund MAX
+patch=1,EE,205DBB20,extended,05F5E0FF
+
+//BSMAX
+patch=1,EE,205DBB68,extended,000F423F
+
+//Maintain God Gravion even after 3 turns
+patch=1,EE,202914B4,extended,00000000
+patch=1,EE,20291510,extended,00000000
+
+//Clear all extra stages (save not reflected)
+patch=1,EE,2015508C,extended,24020001
+
+//Clear all extra stages
+patch=1,EE,20155068,extended,2404FFFF
+patch=1,EE,2015506C,extended,A4440000
+patch=1,EE,2015508C,extended,00821025
+
+//All members of the force limit breakthrough
+patch=1,EE,2027E37C,extended,007D200A
+
+//Pilot training special skills added
+patch=1,EE,203F9FC4,extended,00190003
+patch=1,EE,203F9FC8,extended,0023001E
+patch=1,EE,203F9FCC,extended,002D0028
+patch=1,EE,203F9FD0,extended,00370032
+patch=1,EE,203F9FD4,extended,0041003C
+
+//Maximum with PP fluctuation
+patch=1,EE,2018000C,extended,00000000
+patch=1,EE,201B2B68,extended,00000000
+patch=1,EE,2027E14C,extended,00000000
+
+//SP does not decrease
+patch=1,EE,20290194,extended,24020000
+
+//EN does not decrease
+patch=1,EE,202876DC,extended,00401823
+
+//Does not decrease
+patch=1,EE,20287788,extended,24630000
+
+//90 pieces due to fluctuation of reinforced parts
+patch=1,EE,2027D14C,extended,2403005A
+

@@ -1,0 +1,34 @@
+gametitle=The Urbz - Sims in the City SLUS-21066
+//Infinite Money
+patch=1,EE,200C2020,extended,3E02000F
+patch=1,EE,200C2024,extended,3442423F
+patch=1,EE,200C2028,extended,03E00008
+patch=1,EE,200C202C,extended,ACC2007C
+patch=1,EE,2027DB54,extended,08030808
+
+//Max All Needs Full (Green) Press R2 to activate, and press R1 before talking to people.
+patch=1,EE,200C2000,extended,3E1B42C8
+patch=1,EE,200C2004,extended,449B0000
+patch=1,EE,200C2008,extended,03E00008
+patch=1,EE,200C200C,extended,E48000A8
+patch=1,EE,E002FDFF,extended,018D4A42
+patch=1,EE,202629D8,extended,00000000
+patch=1,EE,202629DC,extended,08030800
+patch=1,EE,E002F7FF,extended,018D4A42
+patch=1,EE,202629D8,extended,03E00008
+patch=1,EE,202629DC,extended,C48000A8
+
+//Super Urb (Press L2 While In-Game)This also unlocks all areas!
+patch=1,EE,E003FEFF,extended,018D4A42
+patch=1,EE,202004B0,extended,34020064
+patch=1,EE,202004B4,extended,A602001E
+patch=1,EE,202004B8,extended,0C080052
+
+//Have All Objects In Inventory
+patch=1,EE,204C528C,extended,00000001
+
+//Have All Skins And Ringtones In Xam
+patch=1,EE,204C5290,extended,00000001
+
+//All Interactions Need Items Are Available
+patch=1,EE,204C52B0,extended,00000001

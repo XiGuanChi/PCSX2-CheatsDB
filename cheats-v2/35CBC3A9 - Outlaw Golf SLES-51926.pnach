@@ -1,0 +1,24 @@
+gametitle=Outlaw Golf SLES-51926
+//Always Great Composure
+patch=1,EE,203E7950,extended,3F800000
+
+//Unlimited Balls (In Limited Ball Events)
+patch=1,EE,2011DD9C,extended,00000000
+
+//Unlock Killer Miller
+patch=1,EE,00447CE4,extended,00000001
+
+//Unlock Trixie Monroe
+patch=1,EE,00441A44,extended,00000001
+
+//Unlock C.C
+patch=1,EE,00443F40,extended,00000001
+
+//Unlock Mistress Suki
+patch=1,EE,004432EC,extended,00000001
+
+//Unlock Scrummy O'Doul
+patch=1,EE,00442698,extended,00000001
+
+//Unlock Doctor Diggler
+patch=1,EE,00440DF0,extended,00000001

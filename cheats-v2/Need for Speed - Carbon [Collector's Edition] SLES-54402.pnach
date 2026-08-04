@@ -1,0 +1,24 @@
+gametitle=Need for Speed - Carbon [Collector's Edition] SLES-54402
+//Infinite Gold
+patch=1,EE,20a6e9f4,extended,00989680
+
+//infinite Speedbreaker
+patch=1,EE,204226d8,extended,e601010c
+
+//infinite Nitro
+patch=1,EE,203e4dfc,extended,e6220180
+
+//all 6 Cheats activated
+patch=1,EE,0061271c,extended,00000001
+patch=1,EE,00612758,extended,00000001
+patch=1,EE,00612794,extended,00000001
+patch=1,EE,006127d0,extended,00000001
+patch=1,EE,0061280c,extended,00000001
+patch=1,EE,00612848,extended,00000001
+
+//All Challenges Complete
+patch=1,EE,200C0230,extended,00300825
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,AC410004
+patch=1,EE,2030B9DC,extended,0C03008C
+patch=1,EE,2030B9E0,extended,8C410004

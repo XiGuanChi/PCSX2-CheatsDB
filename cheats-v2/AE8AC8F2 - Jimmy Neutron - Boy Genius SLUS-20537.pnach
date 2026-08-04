@@ -1,0 +1,9 @@
+gametitle=Jimmy Neutron - Boy Genius SLUS-20537
+//Infinite Health
+patch=1,EE,10498340,extended,00000003
+
+//Infinite Lives
+patch=1,EE,10498344,extended,00000009
+
+//Extra Lives (Rocket Game)
+patch=1,EE,103A5190,extended,00000001

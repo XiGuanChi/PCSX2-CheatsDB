@@ -1,0 +1,12 @@
+gametitle=R-Type Final SLES-51952
+//Infinite lives
+patch=1,EE,202D0018,extended,00000009
+
+//Infinite Credits
+patch=1,EE,202D0014,extended,00000009
+
+//Invincible
+patch=1,EE,202F0D60,extended,00000001
+
+//Unlock All Gallery
+patch=1,EE,202DCE0C,extended,FFFFFFFF

@@ -1,0 +1,11 @@
+gametitle=Evil Dead - A Fistful of Boomstick SLES-51806
+//Infinite Dynamite
+patch=1,EE,002c5d36,extended,00000063
+
+//Infinite Health
+patch=1,EE,20191A70,extended,2402270F
+
+//Infinite Health (Alternate)
+patch=1,EE,2014AF40,extended,240207D0
+patch=1,EE,2014AF44,extended,A4620110
+patch=1,EE,2014AF48,extended,10000009

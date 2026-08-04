@@ -1,0 +1,10 @@
+gametitle=Def Jam - Vendetta SLES-51479
+//Infinite HP Player 1
+patch=1,EE,202303B8,extended,43A80000
+
+//Infinite Special Player 1
+patch=1,EE,102303C2,extended,000043A8
+
+//Unlock All Charakters
+patch=1,EE,4029CFD4,extended,00300001
+patch=1,EE,00000001,extended,00000000

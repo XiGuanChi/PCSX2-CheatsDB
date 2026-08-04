@@ -1,0 +1,48 @@
+gametitle=Popolocrois Story - Tsuki no Okite no Bouken SCPS-15063
+//Money Max
+patch=1,EE,20720874,extended,05F5E0FF
+
+//No random battles
+patch=1,EE,201FD0EC,extended,00000000
+
+//Normal attack damage of 9999 here
+patch=1,EE,202D8550,extended,00000000
+
+//Experience a lot after combat - Pinon
+patch=1,EE,107208E4,extended,0064FFFF
+
+//Experience a lot after combat - Luna
+patch=1,EE,10720934,extended,0064FFFF
+
+//Experience a lot after combat - Marco
+patch=1,EE,10720984,extended,0064FFFF
+
+//Pinon SP 99
+patch=1,EE,007208F8,extended,00000063
+
+//Luna SP 99
+patch=1,EE,00720948,extended,00000063
+
+//Marco SP 99
+patch=1,EE,00720998,extended,00000063
+
+//Pinon Stats Max
+patch=1,EE,107208DA,extended,000003E7
+patch=1,EE,107208DC,extended,000003E7
+patch=1,EE,107208DE,extended,000003E7
+patch=1,EE,107208E0,extended,000003E7
+patch=1,EE,107208E2,extended,000003E7
+
+//Luna Stats Max
+patch=1,EE,1072092A,extended,000003E7
+patch=1,EE,1072092C,extended,000003E7
+patch=1,EE,1072092E,extended,000003E7
+patch=1,EE,10720930,extended,000003E7
+patch=1,EE,10720932,extended,000003E7
+
+//Marco Stats Max
+patch=1,EE,1072097A,extended,000003E7
+patch=1,EE,1072097C,extended,000003E7
+patch=1,EE,1072097E,extended,000003E7
+patch=1,EE,10720980,extended,000003E7
+patch=1,EE,10720982,extended,000003E7

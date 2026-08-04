@@ -1,0 +1,37 @@
+gametitle=Eternal Ring SLPS-25001
+//NEXT EXP 0  Level up each time you gain experience points
+patch=1,EE,202FD128,extended,00000000
+
+//Maximum HP / MP MAX
+patch=1,EE,102FD114,extended,000003E7
+patch=1,EE,102FD116,extended,000003E7
+patch=1,EE,102FD118,extended,000003E7
+patch=1,EE,102FD11A,extended,000003E7
+
+//Basic attribute value MAX
+patch=1,EE,102FD140,extended,000003E7
+patch=1,EE,102FD142,extended,000003E7
+patch=1,EE,102FD144,extended,000003E7
+patch=1,EE,102FD146,extended,000003E7
+patch=1,EE,102FD148,extended,000003E7
+patch=1,EE,102FD14A,extended,000003E7
+patch=1,EE,102FD14C,extended,000003E7
+
+//All items
+patch=1,EE,4031C041,extended,00190001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,1031C0A5,extended,00006363
+patch=1,EE,0031C0A7,extended,00000063
+patch=1,EE,2031BFC0,extended,63636363
+patch=1,EE,0031BFC4,extended,00000063
+patch=1,EE,1031BFC6,extended,00006363
+patch=1,EE,4031BFF3,extended,00050001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,0031BFC8,extended,00000063
+patch=1,EE,2031BFB1,extended,01010101
+patch=1,EE,2031BFB5,extended,01010101
+patch=1,EE,0031BFB9,extended,00000001
+patch=1,EE,4031C0C0,extended,00060001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,1031C0D8,extended,00006363
+patch=1,EE,0031C0DA,extended,00000063

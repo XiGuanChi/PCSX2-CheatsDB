@@ -1,0 +1,55 @@
+gametitle=Lego Star Wars II - The Original Trilogy SLPM-66572
+//All extras available
+patch=1,EE,205BBFD0,extended,FFFFFFFF
+
+//Maximum total stud in a bar Valid only at Cantina's tavern.
+patch=1,EE,205BBFDC,extended,EE6B2800
+
+//Total studs do not decrease even if purchased
+patch=1,EE,203498A4,extended,00000000
+
+//During mission: 1P stud maximum
+patch=1,EE,205BA990,extended,00989680
+
+//During mission: 2P stud maximum
+patch=1,EE,205BA99C,extended,00989680
+
+//Clear all bounty hunter missions
+patch=1,EE,205BC014,extended,01010101
+patch=1,EE,205BC018,extended,01010101
+patch=1,EE,105BC01C,extended,00000101
+
+//All extras available for purchase
+patch=1,EE,2034DC64,extended,24030001
+patch=1,EE,2034DC68,extended,A0430182
+patch=1,EE,005BBA38,extended,00000000
+
+//Free play characters fully open
+patch=1,EE,20256EE4,extended,2402FFFF
+patch=1,EE,20256EE8,extended,AC620000
+patch=1,EE,205BBF68,extended,FFFFFFFF
+patch=1,EE,205BBF6C,extended,FFFFFFFF
+
+//Maximum when collecting studs on the "City" stage
+patch=1,EE,202936DC,extended,00000000
+
+//Episode 4: Chapter fully open
+patch=1,EE,405BBDD4,extended,00060003
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,405BBDD8,extended,00060003
+patch=1,EE,00010A01,extended,00000000
+
+//Episode 5: Chapter fully open
+patch=1,EE,405BBE40,extended,00060003
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,405BBE44,extended,00060003
+patch=1,EE,00010A01,extended,00000000
+
+//Episode 6: Chapter fully open
+patch=1,EE,405BBEAC,extended,00060003
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,405BBEB0,extended,00060003
+patch=1,EE,00010A01,extended,00000000
+
+//invincible
+patch=1,EE,003EA9D6,extended,00000001

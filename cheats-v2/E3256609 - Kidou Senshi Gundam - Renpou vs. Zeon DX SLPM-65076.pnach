@@ -1,0 +1,21 @@
+gametitle=Kidou Senshi Gundam - Renpou vs. Zeon DX SLPM-65076
+//255 shots of Gundam's beam rifle
+patch=1,EE,204E1350,extended,00FF0001
+
+//Hyper Bazooka bullet number 255
+patch=1,EE,204E1360,extended,00FF0000
+
+//Fixed mode All MS can be selected
+patch=1,EE,10870E60,extended,0000FFFF
+
+//1 Hit Kill for the Earth Defense against Zeon
+patch=1,EE,A02CC19C,extended,A4800202
+
+//Normal stage Does not move except for own machine
+patch=1,EE,A024F55C,extended,100000AD
+
+//Space stage It doesn't move except for its own machine
+patch=1,EE,A030B24C,extended,10000134
+
+//All-you-can-use boost
+patch=1,EE,A02D6164,extended,A4860330

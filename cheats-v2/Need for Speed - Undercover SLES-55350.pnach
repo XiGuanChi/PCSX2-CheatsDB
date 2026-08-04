@@ -1,0 +1,16 @@
+gametitle=Need for Speed - Undercover SLES-55350
+//unendlich / infinite Speedbreaker
+patch=1,EE,2045b7c8,extended,e601010c
+
+//unendlich infinite Nitro (nur Spieler / only Player)
+patch=1,EE,204162ac,extended,e6200178
+
+//Karrierestart mit viel Geld / Starts Carrier with Lots of Money
+patch=1,EE,D0ab33f8,extended,00004268
+patch=1,EE,20ab33f8,extended,05f5e0ff
+
+//unendlich Geld / infinite Money
+patch=1,EE,20ab33f8,extended,05f5e0ff
+
+//Rank 100.000.000 Punkte / Points
+patch=1,EE,20ab33fc,extended,05f5e100

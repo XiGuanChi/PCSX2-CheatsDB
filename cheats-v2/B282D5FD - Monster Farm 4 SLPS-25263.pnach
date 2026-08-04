@@ -1,0 +1,55 @@
+gametitle=Monster Farm 4 SLPS-25263
+//Max Money
+patch=1,EE,203394FC,extended,0098967F
+
+//After training capacity Max
+patch=1,EE,2029DF1C,extended,240503E7
+
+//Adventure LV Max
+patch=1,EE,405D92C4,extended,00130001
+patch=1,EE,00000000,extended,00000000
+
+//Picture full opening
+patch=1,EE,200F6000,extended,3C080066
+patch=1,EE,200F6004,extended,3508E2A8
+patch=1,EE,200F6008,extended,25090FA8
+patch=1,EE,200F600C,extended,240A0001
+patch=1,EE,200F6010,extended,A10A0000
+patch=1,EE,200F6014,extended,1509FFFE
+
+//Winning prize
+
+//Toy
+patch=1,EE,2066DE28,extended,0098967F
+
+//The first animal
+//2066 FF 70 0098967 F
+
+//The second one
+patch=1,EE,20670944,extended,0098967 F
+
+//The third one
+patch=1,EE,20671318,extended,0098967 F
+
+//The fourth quarter
+//20671 CEC 0098967 F
+
+//Fifth
+patch=1,EE,206726C0,extended,0098967F
+
+//Popularity 100
+patch=1,EE,0066FF61,extended,00000064
+patch=1,EE,00670935,extended,00000064
+patch=1,EE,00671309,extended,00000064
+//00671 CDD 00000064
+patch=1,EE,006726B1,extended,00000064
+
+//Reliability 100
+//0066FF 49 0000 0064
+patch=1,EE,0067091D,extended,00000064
+patch=1,EE,006712F1,extended,00000064
+patch=1,EE,00671CC5,extended,00000064
+patch=1,EE,00672699,extended,00000064
+patch=1,EE,200F6018,extended,2508000C
+patch=1,EE,200F601C,extended,03E00008
+patch=1,EE,202ECEF4,extended,0803D800

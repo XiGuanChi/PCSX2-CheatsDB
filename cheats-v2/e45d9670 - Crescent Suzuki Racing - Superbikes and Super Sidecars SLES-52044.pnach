@@ -1,0 +1,19 @@
+gametitle=Crescent Suzuki Racing - Superbikes and Super Sidecars SLES-52044
+//99 goals player 1
+patch=1,EE,0078706c,extended,00000063Infinite Time
+patch=1,EE,2014B084,extended,00000000
+
+//Infinite Time Trial Time
+patch=1,EE,2014B064,extended,00000000
+
+//have All Superbikes
+patch=1,EE,204BB474,extended,FFFFFFFF
+
+//have All Supersides
+patch=1,EE,204BB750,extended,FFFFFFFF
+
+//have All Superbike GT's
+patch=1,EE,204BBA2C,extended,FFFFFFFF
+
+//have All Superside GT's
+patch=1,EE,204BBD08,extended,FFFFFFFF

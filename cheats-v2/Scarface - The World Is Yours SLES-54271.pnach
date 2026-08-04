@@ -1,0 +1,52 @@
+gametitle=Scarface - The World Is Yours SLES-54271
+//Infinite Health (On-Foot)
+patch=1,EE,2039EAFC,extended,C4820184
+patch=1,EE,2039EB04,extended,E4820180
+
+//Infinite Health (In-Car)
+patch=1,EE,20537668,extended,3C0142C8
+patch=1,EE,20537678,extended,AE610080
+
+//Infinite Health (On-Foot) alt
+patch=1,EE,2039EB0C,extended,C4820184
+patch=1,EE,2039EB14,extended,E4820180
+
+//Infinite Health (In-Car) alt
+patch=1,EE,20538198,extended,3C0142C8
+patch=1,EE,205381A8,extended,AE610080
+
+//Inf Hp Car (only your car)
+patch=1,EE,200A0000,extended,10400025
+patch=1,EE,200A0008,extended,3C0142C8
+patch=1,EE,200A000C,extended,AC410080
+patch=1,EE,200A009C,extended,03E00008
+patch=1,EE,20458480,extended,08028000
+
+//Max Infinite Ammo
+patch=1,EE,203CE6D4,extended,240203E7
+
+//Never Reload With Max Clip
+patch=1,EE,203D0350,extended,24030063
+
+//Less Vehicle Damage
+patch=1,EE,20380DB0,extended,03E00008
+patch=1,EE,20380DB4,extended,00000000
+
+//Vehicles Never Locked
+patch=1,EE,20380BB0,extended,03E00008
+patch=1,EE,20380BB4,extended,24020000
+
+//Visibility Never Increases
+patch=1,EE,20475C00,extended,00000000
+
+//Cop Heat Never Increases
+patch=1,EE,204759A0,extended,03E00008
+patch=1,EE,204759A4,extended,00000000
+
+//Always Gain Balls
+patch=1,EE,1081B45C,extended,00000064
+
+//Unlock Cheat Codes
+//Refill Health
+patch=1,EE,200C0100,extended,8C820524
+patch=1,EE,200C0104,extended,AC400000

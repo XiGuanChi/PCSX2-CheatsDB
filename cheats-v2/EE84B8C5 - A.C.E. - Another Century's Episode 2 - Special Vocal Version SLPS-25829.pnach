@@ -1,0 +1,72 @@
+gametitle=A.C.E. - Another Century's Episode 2 - Special Vocal Version  SLPS-25829
+//Max Ace Point
+patch=1,EE,20389DF4,extended,0098967F
+
+//Maximum when proficiency increases
+patch=1,EE,201C96CC,extended,24500000
+
+//Maximum when unit experience value is obtained
+patch=1,EE,201C933C,extended,10000003
+
+//Clear the mission and achieve the secret
+patch=1,EE,201C72C4,extended,00000000
+
+//99 modules
+patch=1,EE,20215FF8,extended,03E00008
+patch=1,EE,20215FFC,extended,A0220000
+patch=1,EE,20216014,extended,00A20821
+patch=1,EE,20216018,extended,080857FE
+patch=1,EE,2021601C,extended,24020063
+
+//All units appear when viewing player units in sortie selection
+patch=1,EE,2021525C,extended,00A20821
+patch=1,EE,20215260,extended,24020002
+patch=1,EE,20215264,extended,03E00008
+patch=1,EE,20215268,extended,A0220010
+
+//Maximum unit experience when strengthening units
+patch=1,EE,20215D88,extended,00430821
+patch=1,EE,20215D8C,extended,10000081
+patch=1,EE,20215D90,extended,3C020001
+patch=1,EE,20215F94,extended,344286A0
+patch=1,EE,20215F98,extended,03E00008
+patch=1,EE,20215F9C,extended,AC220840
+
+//Own unit & wingman, maintain maximum endurance
+patch=1,EE,202565D8,extended,03E00008
+patch=1,EE,202565DC,extended,AC8200D4
+patch=1,EE,2027B54C,extended,0C095975
+patch=1,EE,2027C7C4,extended,0C095975
+
+//Maximum maintenance of own vernier
+patch=1,EE,2027D334,extended,C48103D8
+patch=1,EE,2027D338,extended,0809EDA7
+patch=1,EE,2027D33C,extended,E48103D4
+patch=1,EE,2027B694,extended,0809F4CD
+
+//Great attack power
+patch=1,EE,20242EB4,extended,10000003
+patch=1,EE,20242EF4,extended,3C017000
+patch=1,EE,20242EF8,extended,AC410018
+
+//Maximum combination gauge
+patch=1,EE,202955BC,extended,E480001C
+patch=1,EE,202955C0,extended,46000803
+
+//Maximum with increasing chain time
+patch=1,EE,201C6810,extended,00000000Weapon required code
+patch=1,EE,2027BF8C,extended,0C03FC00
+patch=1,EE,2027C1F4,extended,0C03FC00
+patch=1,EE,200FF014,extended,03E00008
+patch=1,EE,200FF018,extended,8446000E
+
+//Max Weapon Ammo
+patch=1,EE,200FF000,extended,84460010
+patch=1,EE,200FF004,extended,A446000E
+
+//Weapon reload time 0
+patch=1,EE,200FF008,extended,3C013000
+patch=1,EE,200FF00C,extended,AC410004
+
+//Weapon firing possible
+patch=1,EE,200FF010,extended,AC400000

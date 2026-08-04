@@ -1,0 +1,124 @@
+gametitle=Samurai Warriors 2 SLUS-21462
+//Infinite Gold
+patch=1,EE,204E0BF8,extended,05F5E0FF
+
+//Infinite Time-PowerUps
+patch=1,EE,201A4C34,extended,00000000
+
+//Quick Level Up
+patch=1,EE,201A0974,extended,24028000
+
+//Player 1 Max Health
+patch=1,EE,104F59C0,extended,0000012C
+patch=1,EE,104F59C6,extended,0000012C
+
+//Infinite Health
+patch=1,EE,104F59C2,extended,0000012C
+patch=1,EE,104F59C4,extended,0000012C
+
+//Max Musou
+patch=1,EE,104F59CA,extended,000000CC
+
+//Infinite Musou
+patch=1,EE,104F59C8,extended,000000CC
+
+//999 Kills
+patch=1,EE,204E2DF4,extended,000003E7
+
+//All Characters
+patch=1,EE,204E0BF8,extended,FFFFFFFF
+
+//Infinite Mission Time
+patch=1,EE,204E2FAC,extended,00000000
+
+//Unlock All Characters
+patch=1,EE,204E0BF4,extended,FFFFFFFF
+
+//Unlock All Weapons
+patch=1,EE,104E188E,extended,0000FFFF
+patch=1,EE,204E1890,extended,FFFFFFFF
+patch=1,EE,204E1894,extended,FFFFFFFF
+patch=1,EE,104E1898,extended,0000FFFF
+patch=1,EE,104E189A,extended,000000FF
+
+//Unlock All Guards
+patch=1,EE,104E189E,extended,0000FFFF
+patch=1,EE,204E18A0,extended,FFFFFFFF
+patch=1,EE,004E18A4,extended,000000FF
+
+//Unlock All Mounts
+patch=1,EE,004E18A5,extended,000000FF
+patch=1,EE,004E18A6,extended,000000FF
+
+
+//Unlock All Character Movies Yukimura Sanada
+patch=1,EE,104E0FFA,extended,00000505
+
+//Keiji Maeda
+patch=1,EE,104E0FFE,extended,00000505
+
+//Nobunaga Oda
+patch=1,EE,104E1002,extended,00000505
+
+//Mitsuhide Akechi
+patch=1,EE,104E1006,extended,00000505
+
+//Kenshin Uesugi
+patch=1,EE,104E100A,extended,00000505
+
+//Oichi
+patch=1,EE,104E100E,extended,00000505
+
+//Magoichi Saiki
+patch=1,EE,104E1012,extended,00000505
+
+//Shingen Takeda
+patch=1,EE,104E1016,extended,00000505
+
+//Masamune Date
+patch=1,EE,104E101A,extended,00000505
+
+//No
+patch=1,EE,104E101E,extended,00000505
+
+//Hanzo Hattori
+patch=1,EE,104E1022,extended,00000505
+
+//Hideyoshi Toyotomi
+patch=1,EE,104E1026,extended,00000505
+
+//Tadakatsu Honda
+patch=1,EE,104E102A,extended,00000505
+
+//Ina
+patch=1,EE,104E102E,extended,00000505
+
+//Ieyasu Tokugawa
+patch=1,EE,104E1032,extended,00000505
+
+//Mitsunari Ishida
+patch=1,EE,104E1036,extended,00000505
+
+//Nagamasa Azai
+patch=1,EE,104E103A,extended,00000505
+
+//Sakon Shima
+patch=1,EE,104E103E,extended,00000505
+
+//Yoshihiro Shimazu
+patch=1,EE,104E1042,extended,00000505
+
+//Ginchiyo Tachibana
+patch=1,EE,104E1046,extended,00000505
+
+//Kanetsugu Naoe
+patch=1,EE,104E104A,extended,00000505
+
+//Nene
+patch=1,EE,104E104E,extended,00000505
+
+//Kotaro Fuma
+patch=1,EE,104E1052,extended,00000505
+
+//Musashi Miyamoto
+patch=1,EE,104E1056,extended,00000505

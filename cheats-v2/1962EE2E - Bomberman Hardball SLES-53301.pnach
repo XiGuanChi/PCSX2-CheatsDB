@@ -1,0 +1,15 @@
+gametitle=Bomberman Hardball SLES-53301
+//9 bombs
+patch=1,EE,005388ec,extended,00000009
+
+//9 gloves
+patch=1,EE,005388c8,extended,00000009
+
+//Manual invention Bomb Z
+patch=1,EE,005388c4,extended,00000005
+
+//Loose-bombs
+patch=1,EE,005388c4,extended,00000003
+
+//Purple Bombs
+patch=1,EE,005388c4,extended,00000004

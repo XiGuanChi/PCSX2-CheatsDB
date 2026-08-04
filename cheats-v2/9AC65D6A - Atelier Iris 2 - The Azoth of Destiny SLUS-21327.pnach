@@ -1,0 +1,78 @@
+gametitle=Atelier Iris 2 - The Azoth of Destiny SLUS-21327
+//Infinite Money
+patch=1,EE,207DB79C,extended,0098967F
+
+//Infinite HP (In-Battle)
+patch=1,EE,200C0220,extended,240103E7
+patch=1,EE,200C0224,extended,0806F010
+patch=1,EE,200C0228,extended,AE01002C
+patch=1,EE,2025822C,extended,0C030088
+
+//Max HP (In-Battle)
+patch=1,EE,200C0230,extended,240103E7
+patch=1,EE,200C0234,extended,0806F010
+patch=1,EE,200C0238,extended,AE010030
+patch=1,EE,2025823C,extended,0C03008C
+
+//P1 Press L1+Select To Disable Random Battles
+patch=1,EE,D07DE202,extended,0000FBFE
+patch=1,EE,2026B188,extended,00000000
+
+//P1 Press L2+Select To Enable Random Battles
+patch=1,EE,D07DE202,extended,0000FEFE
+patch=1,EE,2026B188,extended,11E00003
+
+//Felt Max Level
+patch=1,EE,10B29E80,extended,00000032
+
+//Felt Infinite & Max HP
+patch=1,EE,10B29E82,extended,000003E7
+patch=1,EE,10B29E84,extended,000003E7
+
+//Viese Max Level
+patch=1,EE,10B29F60,extended,00000032
+
+//Viese Infinite & Max HP
+patch=1,EE,10B29F62,extended,000003E7
+patch=1,EE,10B29F64,extended,000003E7
+
+//Noin Max Level
+patch=1,EE,10B2A040,extended,00000032
+
+//Noin Infinite & Max HP
+patch=1,EE,10B2A042,extended,000003E7
+patch=1,EE,10B2A044,extended,000003E7
+
+//Gray Max Level
+patch=1,EE,10B2A120,extended,00000032
+
+//Gray Infinite & Max HP
+patch=1,EE,10B2A122,extended,000003E7
+patch=1,EE,10B2A124,extended,000003E7
+
+//Fee Max Level
+patch=1,EE,10B2A200,extended,00000032
+
+//Fee Infinite & Max HP
+patch=1,EE,10B2A202,extended,000003E7
+patch=1,EE,10B2A204,extended,000003E7
+
+//Poe Max Level
+patch=1,EE,10B2A2E0,extended,00000032
+
+//Poe Infinite & Max HP
+patch=1,EE,10B2A2E2,extended,000003E7
+patch=1,EE,10B2A2E4,extended,000003E7
+
+//Have All Reference Boo
+patch=1,EE,40B2A488,extended,00FF0001
+patch=1,EE,02020202,extended,00000000
+
+//Have Most Monster List
+patch=1,EE,40B2A634,extended,00220001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Instant win (Once its your Turn)
+patch=1,EE,001BB1CA,extended,00000060
+patch=1,EE,001BB1D2,extended,00000060
+

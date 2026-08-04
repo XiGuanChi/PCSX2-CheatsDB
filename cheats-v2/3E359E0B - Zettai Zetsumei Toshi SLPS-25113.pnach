@@ -1,0 +1,12 @@
+gametitle=Zettai Zetsumei Toshi SLPS-25113
+//Infinite HP
+patch=1,EE,10382406,extended,000042C8
+patch=1,EE,1038240A,extended,000042C8
+
+//Compass fully open
+patch=1,EE,2040A36C,extended,FFFFFFFF
+patch=1,EE,2040A370,extended,FFFFFFF7
+
+//Map fully open
+patch=1,EE,2036EC00,extended,FFFFFFFF
+patch=1,EE,2036EC04,extended,FFFFFFFF

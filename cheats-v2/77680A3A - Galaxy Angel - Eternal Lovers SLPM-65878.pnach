@@ -1,0 +1,21 @@
+gametitle=Galaxy Angel - Eternal Lovers SLPM-65878
+//Bonus is available for all browsing (save not reflected)
+//2010 DCF 24020001
+
+//Ally's HP no reduction and enemy blows death
+patch=1,EE,20219294,extended,86A20228
+patch=1,EE,202192A8,extended,54400001
+
+//Ally unit HP, EN, SP Maximum
+patch=1,EE,201DEE18,extended,10600023
+patch=1,EE,201DEE20,extended,8E22021C
+patch=1,EE,201DEE24,extended,AE220220
+patch=1,EE,201DEE28,extended,8E220224
+patch=1,EE,201DEE2C,extended,AE220228
+patch=1,EE,201DEE30,extended,8E22022C
+patch=1,EE,201DEE34,extended,1000001C
+patch=1,EE,201DEE38,extended,AE220230
+
+//When attacking, EN & SP maximum (Angel team only)
+patch=1,EE,20218B24,extended,8E430224
+patch=1,EE,20218B28,extended,AE430228

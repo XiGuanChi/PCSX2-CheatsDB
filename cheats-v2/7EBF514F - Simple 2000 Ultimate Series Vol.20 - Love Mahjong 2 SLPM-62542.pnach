@@ -1,0 +1,29 @@
+gametitle=Simple 2000 Ultimate Series Vol.20 - Love Mahjong 2 SLPM-62542
+//Have 99000000 in shop
+patch=1,EE,217402C4,extended,05E69EC0
+
+//Player has 99999 points in mahjong
+patch=1,EE,21A03798,extended,0001869F
+
+//Opponent has 0 points
+patch=1,EE,21A02FF8,extended,00000000
+
+//All stamps acquired with SELECT + L2 + R2 button
+patch=1,EE,D06BD6E8,extended,00000103
+patch=1,EE,1174035C,extended,0000000F
+// 
+//Favorability MAX SELECT + L1 button to Futabi Ribo"
+patch=1,EE,D06BD6E8,extended,00000103
+patch=1,EE,11740350,extended,00000063
+// 
+//Favorability MAX SELECT + R1 button to Kawamura Yu
+patch=1,EE,D06BD6E8,extended,00000108
+patch=1,EE,11740354,extended,00000063
+
+//Favorability MAX SELECT + L1 + R1 button to Haruka Kisaragi
+patch=1,EE,D06BD6E8,extended,0000010C
+patch=1,EE,11740358,extended,00000063
+
+//All items possession
+patch=1,EE,4174025C,extended,00180001
+patch=1,EE,00000063,extended,00000000

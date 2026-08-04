@@ -1,0 +1,30 @@
+gametitle=Shakugan no Shana SLPS-25599
+//Shana likeability maximum
+patch=1,EE,10305E26,extended,00000064
+
+//Kazumi Yoshida: likeability maximum
+patch=1,EE,10305E28,extended,00000064
+
+//Album fully opened
+patch=1,EE,20304860,extended,FFFFFFFF
+patch=1,EE,20304864,extended,FFFFFFFF
+
+//Sound fully opened
+patch=1,EE,20305AC0,extended,FFFFFFFF
+
+//Battle fully opened
+patch=1,EE,10305B10,extended,0000FFFF
+
+//In battle Shana maximum
+patch=1,EE,D02642D0,extended,00000100
+patch=1,EE,203276FC,extended,07D007D0
+
+//In battle Shana Presence Noriyuki force MAX
+patch=1,EE,20327700,extended,00060006
+
+//In battle Shana Flame MAX
+patch=1,EE,20327704,extended,000C000C
+
+//In battle Enemy 0
+patch=1,EE,D02642D0,extended,00000100
+patch=1,EE,203277A4,extended,00000000

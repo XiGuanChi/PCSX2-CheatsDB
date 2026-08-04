@@ -1,0 +1,7 @@
+gametitle=Astro Boy - The Video Game SLES-55593 SLUS-21895
+//Have 99 Supers
+patch=1,EE,01C89DA8,extended,00000063
+
+//Unlock All Cheats
+patch=1,EE,00368E23,extended,000000FF
+patch=1,EE,00368E24,extended,000000FF

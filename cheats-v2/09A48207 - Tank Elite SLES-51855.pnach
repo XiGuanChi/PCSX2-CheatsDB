@@ -1,0 +1,9 @@
+gametitle=Tank Elite SLES-51855
+//Infinite Tank HP
+patch=1,EE,2021A3E0,extended,00000064
+
+//Infinite Main Weapon
+patch=1,EE,1021A4CE,extended,0000001E
+
+//Infinite Sub Weapon
+patch=1,EE,1021AA00,extended,000000C8

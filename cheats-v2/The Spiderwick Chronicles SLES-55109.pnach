@@ -1,0 +1,8 @@
+gametitle=The Spiderwick Chronicles SLES-55109
+//Invincible (R1+R2)
+patch=1,EE,D043A11C,extended,0000F5FF
+patch=1,EE,00628000,extended,00000002
+
+//Infinite Ammo (R1+R2)
+patch=1,EE,D043A11C,extended,0000F5FF
+patch=1,EE,00628001,extended,00000008

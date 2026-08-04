@@ -1,0 +1,35 @@
+gametitle=.hack//Mutation Part 2 SLUS-20562
+//Unlock All Party Members
+patch=1,EE,15001976,extended,BFBC1EC6
+
+//Infinite Cash
+patch=1,EE,2503DF86,extended,FC25485E
+
+//Infinite HP (All Characters-In Battle)
+patch=1,EE,E0023FEC,extended,0053EAB0
+patch=1,EE,2053EAAC,extended,00A02021
+patch=1,EE,2053EAB4,extended,A6240070
+
+//Infinite SP (All Characters-In Battle)
+patch=1,EE,E00220E0,extended,0053EBB8
+patch=1,EE,2053EBCC,extended,01605021
+patch=1,EE,2053EBF8,extended,A62A0072
+
+//Have All Servers Accessible
+patch=1,EE,20B1E004,extended,0000001F
+
+//Have All Desktops
+patch=1,EE,20B1E008,extended,FFFFFFFF
+patch=1,EE,20B1E00C,extended,FFFFFFFF
+
+//Have All BGMs
+patch=1,EE,20B1E014,extended,FFFFFFFF
+patch=1,EE,20B1E018,extended,FFFFFFFF
+
+//Unlock All Movies
+patch=1,EE,20B1E020,extended,FFFFFFFF
+patch=1,EE,20B1E024,extended,FFFFFFFF
+patch=1,EE,20B1E028,extended,FFFFFFFF
+
+//Never Infected
+patch=1,EE,20B2253C,extended,00000000

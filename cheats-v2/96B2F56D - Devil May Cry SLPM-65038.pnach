@@ -1,0 +1,12 @@
+gametitle=Devil May Cry SLPM-65038
+//Infinite Health
+patch=1,EE,105B9C56,extended,000003E8
+
+//Red Orb MAX
+patch=1,EE,20756124,extended,3B9AC9FF
+
+//Yellow Orve MAX
+patch=1,EE,20756110,extended,000003E7
+
+//Always 3 Blue Orbs
+patch=1,EE,00756128,extended,00000003

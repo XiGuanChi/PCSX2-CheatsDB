@@ -1,0 +1,19 @@
+gametitle=Bionicle Heroes SLUS-21428
+//Infinite Health
+patch=1,EE,2037FD98,extended,E60112B8
+
+//Infinite LEGOs-Shop
+patch=1,EE,2065E43C,extended,00989680
+
+//All Hints
+patch=1,EE,4065E2A8,extended,00050001
+patch=1,EE,01010101,extended,00000000
+
+//All Goodies
+patch=1,EE,4065E2E8,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,0065E2F8,extended,00000001
+
+//All Upgrades
+patch=1,EE,4065E41C,extended,00050001
+patch=1,EE,0A0A0A0A,extended,00000000

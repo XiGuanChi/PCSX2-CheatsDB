@@ -1,0 +1,107 @@
+gametitle=The King of Fighters - Maximum Impact 2 (Limited Edition) SLPS-25609
+//Duke can be used
+patch=1,EE,2068FFF4,extended,00000001
+
+//Appearance of all stages
+patch=1,EE,4068F754,extended,000E0001
+patch=1,EE,00000001,extended,00000000
+
+//When character is selected: All colors are lifted
+patch=1,EE,203D7FF8,extended,240B0001
+patch=1,EE,203D7FFC,extended,AD2B0000
+patch=1,EE,203D8008,extended,240B0001
+patch=1,EE,203D800C,extended,AD0B0000
+
+//When you enter PROFILE, PROFILE is fully opened.
+patch=1,EE,203D7F64,extended,24010001
+patch=1,EE,203D7F6C,extended,AD210018
+
+//STORY Start from page 7
+patch=1,EE,20264FC4,extended,080994A9
+patch=1,EE,202652A4,extended,24010006
+patch=1,EE,202652A8,extended,080993F3
+patch=1,EE,202652AC,extended,A061C6D6
+
+//CHALLENGE MISSION: Lifting of ban up to LEVEL 4
+patch=1,EE,2068F87C,extended,00000003
+
+//CHALLENGE MISSION: All MISSION COMPLETE Enter the MISSION selection screen.
+patch=1,EE,20400128,extended,24010001
+patch=1,EE,2040012C,extended,AC410000
+
+//CHALLENGE MISSION: Clear quota moment
+patch=1,EE,203CD1AC,extended,24020001
+
+//CHALLENGE TIME ATTACK: Ends on one side
+patch=1,EE,005EC736,extended,00000005
+
+//CHALLENGE TIME ATTACK: Time does not increase
+patch=1,EE,20262550,extended,00000000
+
+//1P Life gauge maximum
+patch=1,EE,205FD92C,extended,00C800C8
+
+//1P Garto gauge maximum
+patch=1,EE,105FD930,extended,00000F0F
+
+//1P Power gauge maximum
+patch=1,EE,105FD932,extended,00006464
+
+//2P Life gauge 0
+patch=1,EE,205FDA34,extended,00C80000
+
+//2P Garto gauge 0
+patch=1,EE,105FDA38,extended,00000000
+
+//2P Power gauge 0
+patch=1,EE,105FDA3A,extended,00006400
+
+//2P Power gauge level 0
+patch=1,EE,005FDA3C,extended,00000000
+
+//Infinite Health P1
+patch=1,EE,109B7A1E,extended,00004348
+
+//All characters all color available
+patch=1,EE,4067E918,extended,00140014
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,4067E92C,extended,00140014
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,4067E938,extended,00140014
+patch=1,EE,00000001,extended,00000000
+
+//Infinite Health 1P
+patch=1,EE,109AB53E,extended,00004348
+patch=1,EE,109AB542,extended,00004348
+
+//Infinite Power
+patch=1,EE,009AB548,extended,00000009
+
+//Unlock all Character,all Costume,all profile turn off the code once you save the game.
+patch=1,EE,2054174C,extended,24040301
+patch=1,EE,20541754,extended,A524000C
+patch=1,EE,20541788,extended,240F0001
+patch=1,EE,20541790,extended,A08F0010
+patch=1,EE,205417E8,extended,240F0001
+patch=1,EE,205417F0,extended,A08F0018
+
+//Unlock All stages and All Menu selectable turn off the code once you save the game.
+patch=1,EE,20546F70,extended,24010001
+patch=1,EE,20546F78,extended,A0410002
+
+//Extra viewable
+patch=1,EE,00C3F917,extended,00000003
+
+//Extra can be viewed with the L3 + R3 button It will be reflected in the save.
+patch=1,EE,D0A7D2DC,extended,0000FFF9
+patch=1,EE,00A7A806,extended,00000001
+
+//Movie fully open
+patch=1,EE,40C3F888,extended,00050001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,10C3F89C,extended,00000101
+
+//Sound fully open
+patch=1,EE,40C3F8A8,extended,00180001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,00C3F90A,extended,00000001

@@ -1,0 +1,39 @@
+gametitle=The Punisher SLUS-20864
+//Cheats Invulnerability
+patch=1,EE,01B42C64,extended,00000001
+
+//Infinite Health Press L2 to turn on, R2 to turn off when interrogating enemies.
+patch=1,EE,E001FEFF,extended,01A5E602
+patch=1,EE,201F30C8,extended,00000000
+patch=1,EE,E001FDFF,extended,01A5E602
+patch=1,EE,201F30C8,extended,E6810284
+
+//Infinite Slaughter Mode
+patch=1,EE,2053B73C,extended,42C80000
+
+//Infinite Shotgun Ammo
+patch=1,EE,2028CD04,extended,24630000
+
+//Infinite Pistol Ammo
+patch=1,EE,2028CD04,extended,24630000
+
+//Infinite Grenades
+patch=1,EE,2023C984,extended,24630000
+
+//Unlock All Levels
+patch=1,EE,41B426D8,extended,00100007
+patch=1,EE,00000001,extended,00000000
+
+//Open All Flashbacks
+patch=1,EE,11B42C72,extended,00000101
+patch=1,EE,21B42C74,extended,01010101
+patch=1,EE,21B42C78,extended,01010101
+patch=1,EE,21B42C7C,extended,01010101
+patch=1,EE,21B42C80,extended,01010101
+patch=1,EE,21B42C84,extended,01010101
+patch=1,EE,21B42C88,extended,01010101
+
+//All Cheats
+patch=1,EE,21B42C64,extended,01010101
+patch=1,EE,11B42C68,extended,00000101
+patch=1,EE,01B42C6A,extended,00000001

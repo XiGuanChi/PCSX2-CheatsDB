@@ -1,0 +1,12 @@
+gametitle=4x4 Evo SLUS-20091
+//Infinite Money
+patch=1,EE,208B235C,extended,FFFFFFFF
+
+//Always Low Timer
+patch=1,EE,203A6F7C,extended,41200000
+
+//Always Turbo Mode
+patch=1,EE,203A5E68,extended,3FE00000
+
+//Have All Trucks
+patch=1,EE,208B2670,extended,FFFFFFFF

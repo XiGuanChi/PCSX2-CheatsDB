@@ -1,0 +1,36 @@
+gametitle=Simple 2000 Series Vol.009 - The Renai Adventure - Bittersweet Fools SLPM-62207
+//album ALL open type -A
+patch=1,EE,2049E420,extended,01010101
+patch=1,EE,1049E424,extended,00000101
+patch=1,EE,2049E428,extended,01010101
+patch=1,EE,1049E42C,extended,00000101
+patch=1,EE,0049E42E,extended,00000001
+patch=1,EE,1049E432,extended,00000101
+patch=1,EE,2049E434,extended,01010101
+patch=1,EE,2049E438,extended,01010101
+patch=1,EE,2049E43C,extended,01010101
+patch=1,EE,2049E440,extended,01010101
+patch=1,EE,2049E444,extended,01010101
+patch=1,EE,2049E448,extended,01010101
+patch=1,EE,1049E44C,extended,00000101
+patch=1,EE,0049E44F,extended,00000001
+patch=1,EE,2049E450,extended,01010101
+patch=1,EE,1049E454,extended,00000101
+patch=1,EE,0049E457,extended,00000001
+patch=1,EE,2049E458,extended,01010101
+patch=1,EE,1049E45C,extended,00000101
+
+//album ALL open type -B
+patch=1,EE,201057E8,extended,24020001
+
+//album ALL open type -C
+patch=1,EE,20158834,extended,0803C000
+patch=1,EE,200F0000,extended,3C08004A
+patch=1,EE,200F0004,extended,24090001
+patch=1,EE,200F0008,extended,240A003E
+patch=1,EE,200F000C,extended,A109E420
+patch=1,EE,200F0010,extended,25080001
+patch=1,EE,200F0014,extended,254AFFFF
+patch=1,EE,200F0024,extended,1540FFF9
+patch=1,EE,200F002C,extended,03E00008
+

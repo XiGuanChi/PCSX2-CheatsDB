@@ -1,0 +1,17 @@
+gametitle= Pachi Para 14 - Kaze to Kumo to Super Umi in Okinawa SLPS-25787
+//Having ball 9999999
+patch=1,EE,2037C7F8,extended,0098967F
+
+//Storing ball 9999999
+patch=1,EE,203501C8,extended,0098967F
+
+//Acquisition ball 999999
+patch=1,EE,2037C804,extended,0098967F
+
+//Necessary shooting skill gauge Lv5
+patch=1,EE,206266E4,extended,43FA0000
+
+//While playing with R3 pushing same victory?
+patch=1,EE,2037C804,extended,00000000
+patch=1,EE,D031DA82,extended,0000FFFB
+patch=1,EE,2037C804,extended,14200003

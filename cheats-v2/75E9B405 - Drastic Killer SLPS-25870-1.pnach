@@ -1,0 +1,18 @@
+gametitle=Drastic Killer SLPS-25870-1
+//ALBUM  fully open
+patch=1,EE,403491F8,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,0034920C,extended,000000FF
+
+//MOVIE  fully open
+patch=1,EE,10349228,extended,0000FFFF
+patch=1,EE,0034922A,extended,000000FF
+
+//MEMORY  fully open
+patch=1,EE,20349220,extended,FFFFFFFF
+patch=1,EE,10349224,extended,0000FFFF
+patch=1,EE,00349226,extended,000000FF
+
+//FREE TALK mode - EXTRA mode
+patch=1,EE,103491ED,extended,0000FFFF
+patch=1,EE,003491EF,extended,000000FF

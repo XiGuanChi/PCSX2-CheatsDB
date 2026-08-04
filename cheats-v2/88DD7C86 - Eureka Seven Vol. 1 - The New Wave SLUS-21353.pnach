@@ -1,0 +1,19 @@
+gametitle=Eureka Seven Vol. 1 - The New Wave SLUS-21353
+//Infinite HP
+patch=1,EE,200C0240,extended,C4410930
+patch=1,EE,200C0244,extended,03E00008
+patch=1,EE,200C0248,extended,E441092C
+patch=1,EE,202F5660,extended,0C030090
+
+//Infinite Ammo
+patch=1,EE,202E74A4,extended,00000000
+
+//Infinite AP LFO
+patch=1,EE,200C0220,extended,C4410930
+patch=1,EE,200C0224,extended,080C87AC
+patch=1,EE,200C0228,extended,E441092C
+patch=1,EE,202D5220,extended,00000000
+patch=1,EE,202D5240,extended,0C030088
+
+//Infinite Ammo LFO
+patch=1,EE,202E7494,extended,00000000

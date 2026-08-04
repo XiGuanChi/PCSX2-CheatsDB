@@ -1,0 +1,7 @@
+gametitle=Red Ninja - End of Honor SLUS-20714
+//Infinite Health
+patch=1,EE,203BBD98,extended,34020064
+patch=1,EE,203BBD9C,extended,AC821194
+
+//Infinite Items
+patch=1,EE,203BD560,extended,00000000

@@ -1,0 +1,23 @@
+gametitle=Shinobi SLPM-65200
+//Invincible
+patch=1,EE,2019BB34,extended,18400001
+
+//I do not reduce shuriken
+patch=1,EE,201B24F4,extended,24030020
+
+//I do not reduce scroll
+patch=1,EE,201B5014,extended,24030003
+
+//Cut caused by whirlwind equipment always
+patch=1,EE,2003DE04,extended,18400001
+
+//Unlock all extras
+patch=1,EE,2018BDF0,extended,14400001
+patch=1,EE,2018BE18,extended,14400001
+patch=1,EE,2018BE40,extended,14400001
+patch=1,EE,2018BE68,extended,14400001
+patch=1,EE,2018BE90,extended,14400001
+patch=1,EE,2018BEBC,extended,14400001
+patch=1,EE,2018BEE8,extended,14400001
+
+

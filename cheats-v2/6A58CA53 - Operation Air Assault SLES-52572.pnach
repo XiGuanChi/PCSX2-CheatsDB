@@ -1,0 +1,16 @@
+gametitle=Operation Air Assault SLES-52572
+//Invincible Helicopter
+patch=1,EE,203B45D0,extended,FFFFFFFF
+
+//Infinite Fuel 
+patch=1,EE,2018581C,extended,00000000
+patch=1,EE,20185824,extended,00000000
+
+//Infinite Ammo (Bomb & Missiles)
+patch=1,EE,201787F0,extended,00000000
+
+//Infinite Ammo (Gun) 
+patch=1,EE,20178640,extended,00000000
+
+//Infinite Cannon Ammo
+patch=1,EE,2028D9CC,extended,24050960

@@ -1,0 +1,68 @@
+gametitle=God of War SCES-53133
+//No Damage on Normal
+patch=1,EE,20338038,extended,00000000
+
+//No Damage on Hard
+patch=1,EE,20338044,extended,00000000
+
+//No Damage on God Mode
+patch=1,EE,20338050,extended,00000000
+
+//No Damage on Easy
+patch=1,EE,2033802C,extended,00000000
+
+//1 Hit Kill on Easy
+patch=1,EE,20338028,extended,4F000000
+patch=1,EE,20338030,extended,4F000000
+
+//Enable All Magic
+patch=1,EE,10304dc2,extended,0000FFFF
+
+//Infinite Magic Energy
+patch=1,EE,20304D9C,extended,42C80000
+
+//Infinite Rage of the Gods
+patch=1,EE,20304DA0,extended,42C80000
+
+//Max Level
+patch=1,EE,20304DA8,extended,00007530
+
+//Infinite 500 Timer Seconds!:
+patch=1,EE,203371F8,extended,43FA0000
+patch=1,EE,203371FC,extended,43FA0000
+patch=1,EE,20337208,extended,43FA0000
+patch=1,EE,2033720C,extended,43FA0000
+
+//Press Digital Pad down + L1 to activate the Save
+patch=1,EE,D02FFB1C,extended,0000FBBF
+patch=1,EE,0029D8CC,extended,00000001
+
+//Unlock All Treasures
+patch=1,EE,202A3058,extended,FFFFFFFF
+
+//Have All GorgOn Eyes
+patch=1,EE,00304DBF,extended,00000018
+
+//Have All Phoenix Feathers
+patch=1,EE,00304DC0,extended,00000018
+
+//Have All Muse Keys
+patch=1,EE,00304DC1,extended,00000002
+
+//Have All Powerups/Moves
+patch=1,EE,10304DC2,extended,0000FFFF
+
+//Refill Health For Your Family
+patch=1,EE,200C0220,extended,8E61017C
+patch=1,EE,200C0224,extended,AE610178
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,8E700000
+patch=1,EE,D02FFB1C,extended,0000FBBF
+patch=1,EE,201B55CC,extended,0C030088
+patch=1,EE,D02FFB1C,extended,0010FBBF
+patch=1,EE,201B55CC,extended,8E700000
+
+//All Power-Ups
+patch=1,EE,4073E8B4,extended,00050001
+patch=1,EE,00000002,extended,00000000
+patch=1,EE,2073E8C8,extended,00000005

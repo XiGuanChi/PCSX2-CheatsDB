@@ -1,0 +1,16 @@
+gametitle=Pure x Cure Re:covery SLPM-66814
+//New game, Save, Load = Debug Menu 
+patch=0,EE,0029E31C,extended,000000FF
+patch=0,EE,2029E320,extended,00000000
+
+//Unlock All CG 
+patch=1,EE,1029E2BE,extended,0000FFFF
+patch=1,EE,4029E2C0,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Unlock All Music 
+patch=1,EE,1029E2D6,extended,0000FFFF
+patch=1,EE,1029E2D8,extended,0000FFFF
+
+//Unlock Extra Mode
+patch=1,EE,0029D084,extended,00000001

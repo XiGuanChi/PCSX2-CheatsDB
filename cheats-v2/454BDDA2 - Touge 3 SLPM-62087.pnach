@@ -1,0 +1,22 @@
+gametitle=Touge 3 SLPM-62087
+//All cars can be used Part 1 (for new games)
+patch=1,EE,402AFCF0,extended,000A0001
+patch=1,EE,01010101,extended,00000000
+
+//All cars can be used Part 2
+patch=1,EE,402AED70,extended,000A0001
+patch=1,EE,01010101,extended,00000000
+
+//All courses have appeared and cleared in race mode (for new games)
+patch=1,EE,402AFC10,extended,00070001
+patch=1,EE,03030303,extended,00000000
+
+//Unlock Everything (New Game Only)
+patch=1,EE,402AFCF0,extended,000A0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,402AED70,extended,000A0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,402AFC10,extended,00070001
+patch=1,EE,03030303,extended,00000000
+
+

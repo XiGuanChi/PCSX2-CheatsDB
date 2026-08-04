@@ -1,0 +1,21 @@
+gametitle=Gene Troopers SLES-53644
+//infinite ammo pistol
+patch=1,EE,11adc1d4,extended,0000001e
+
+//No more reloading
+patch=1,EE,21adc1d4,extended,0098967f
+
+//infinite ammo to reload
+patch=1,EE,11adc1e0,extended,0000003c
+
+//unlimited frag grenades
+patch=1,EE,01ae1954,extended,00000009
+
+//infinite fire grenades
+patch=1,EE,01ae195c,extended,00000009
+
+//infinite flash grenades
+patch=1,EE,01ae1964,extended,00000009
+
+//infinite electric grenades
+patch=1,EE,01ae196c,extended,00000009

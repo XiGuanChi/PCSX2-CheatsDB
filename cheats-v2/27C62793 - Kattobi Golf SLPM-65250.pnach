@@ -1,0 +1,4 @@
+gametitle=Kattobi Golf SLPM-65250
+//Press Select to have always hole in one
+patch=1,EE,D0291ED0,extended,00000100
+patch=1,EE,0025CDBA,extended,00000001

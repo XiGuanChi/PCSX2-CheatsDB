@@ -1,0 +1,9 @@
+gametitle= Transformers SLES-52388 
+//Infinite Energon Ammo
+patch=1,EE,203EE5C8,extended,24640000
+
+//Infinite Health
+patch=1,EE,2035064C,extended,00000000
+
+//Infinite Health When Linked To Minicon
+patch=1,EE,203501AC,extended,00000000

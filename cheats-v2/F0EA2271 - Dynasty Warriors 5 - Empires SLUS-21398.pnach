@@ -1,0 +1,25 @@
+gametitle=Dynasty Warriors 5 - Empires SLUS-21398
+//infinite Musou
+patch=1,EE,201ae128,extended,84410266
+patch=1,EE,201ae12c,extended,00010900
+patch=1,EE,201ae130,extended,a4410268
+
+//infinite Health
+patch=1,EE,201ae128,extended,84410260
+patch=1,EE,201ae12c,extended,00010900
+patch=1,EE,201ae130,extended,a4410262
+
+//Instant Win Press Select
+patch=1,EE,D03fc11c,extended,0000fffe
+patch=1,EE,205e75d8,extended,00050005
+
+//Infinite Time
+patch=1,EE,205e75d0,extended,01010101
+
+//Empire Mode Tortoise Amulet x9
+patch=1,EE,0058c723,extended,00000009
+
+//alle Items +9
+patch=1,EE,4058c720,extended,000a0001
+patch=1,EE,09090909,extended,00000000
+

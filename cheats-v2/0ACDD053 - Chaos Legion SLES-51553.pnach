@@ -1,0 +1,9 @@
+gametitle=Chaos Legion SLES-51553
+//Infinite Health And Use Max Life
+patch=1,EE,105AB084,extended,000003E8
+
+//Infinite Soul And Use Max Soul
+patch=1,EE,105C2AB4,extended,000005DC
+
+//All Legions
+patch=1,EE,005C2AA5,extended,000000FF

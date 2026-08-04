@@ -1,0 +1,14 @@
+gametitle=Madden NFL 2005 SLES-52581
+//Always 4th Down
+patch=1,EE,107051D0,extended,00000004
+
+//Infinite Tokens
+patch=1,EE,21E30348,extended,05F5E0FF
+
+
+//Have All Cards
+patch=1,EE,21E30434,extended,00000119
+patch=1,EE,41E304A0,extended,00FF0001
+patch=1,EE,00FFE01F,extended,00000000
+patch=1,EE,41E3089C,extended,001A0001
+patch=1,EE,00FFF00F,extended,00000000

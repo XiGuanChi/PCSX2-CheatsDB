@@ -1,0 +1,34 @@
+gametitle=Shuffle! On the Stage SLPM-66134
+//Max Favorability Lisianthus
+patch=1,EE,10364274,extended,00000064
+
+//Max Favorability Nerine
+patch=1,EE,10364278,extended,00000064
+
+//Max Favorability Furong Kaede
+patch=1,EE,1036427A,extended,00000064
+
+//Max Favorability Asa Shigure
+patch=1,EE,1036427C,extended,00000064
+
+//Max Favorability Primula
+patch=1,EE,1036427E,extended,00000064
+
+//Max Favorability Autumn Leaves
+patch=1,EE,10364280,extended,00000064
+
+//Max Favorability Mayumi
+patch=1,EE,10364282,extended,00000064
+
+//OP & ED playback mode fully opened and character mode addition
+patch=1,EE,00363320,extended,000000FF
+patch=1,EE,20363448,extended,01010101
+patch=1,EE,2036344C,extended,01010101
+
+//Sound mode fully opened
+patch=1,EE,20363420,extended,FFFFFFFF
+
+//CG mode fully opened
+patch=1,EE,403622C0,extended,00090001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,003622E4,extended,000000FF

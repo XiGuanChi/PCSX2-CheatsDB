@@ -1,0 +1,75 @@
+gametitle=Drag-on Dragoon 2 SLPM-65999
+//Maximum amount of money
+patch=1,EE,20551D34,extended,000F4240
+
+//MISSION KILL maximum
+patch=1,EE,205515AC,extended,0001869F
+
+//ALL KILL 1 billion
+patch=1,EE,20551DD8,extended,3B9ACA00
+
+//Summon dragons other than Nowe
+patch=1,EE,2020FF70,extended,00000000
+patch=1,EE,202884B8,extended,00000000
+
+//The appearance of a dragon becomes a true human being
+patch=1,EE,20288920,extended,24040003
+//* Ability does not change.
+
+//Maximum weapon level used by gaining experience points
+patch=1,EE,2028A0A8,extended,00000000
+patch=1,EE,2028A0B0,extended,3C020099
+
+//HP maximum maintenance
+patch=1,EE,20335F34,extended,AE4202F0
+
+//MP maximum
+patch=1,EE,20529274,extended,000003E8
+
+//Does not hit the dragon attack
+patch=1,EE,201F6E64,extended,03E00008
+//* Damage such as abnormal conditions and trap gas will be reduced.
+
+//All weapons appear
+patch=1,EE,20605F28,extended,00000013
+patch=1,EE,20605F2C,extended,00000014
+patch=1,EE,20605F30,extended,0000000C
+patch=1,EE,20605F34,extended,0000000B
+patch=1,EE,20605F38,extended,00000009
+patch=1,EE,2030F7C4,extended,24020001
+patch=1,EE,2030F7CC,extended,AC2219A8
+patch=1,EE,2030F7D4,extended,00A0880A
+patch=1,EE,2030F8BC,extended,AC2419A8
+//* Set the weapon by setting the armament. The WEAPON COMPLETE rate will increase after the game is restarted.
+
+//All consumable item appearance flag
+patch=1,EE,20605E64,extended,00000000
+patch=1,EE,20605E68,extended,00000001
+patch=1,EE,20605E6C,extended,00000002
+patch=1,EE,20605E70,extended,00000003
+patch=1,EE,20605E74,extended,00000004
+patch=1,EE,20605E78,extended,00000005
+patch=1,EE,20605E7C,extended,00000006
+patch=1,EE,20605E80,extended,00000007
+patch=1,EE,20605E84,extended,00000008
+patch=1,EE,20605E88,extended,00000009
+patch=1,EE,20605E8C,extended,0000000A
+//* Items may not be displayed unless the above code is entered.
+
+//9 total consumable items
+patch=1,EE,40551D58,extended,000B0001
+patch=1,EE,00000009,extended,00000000
+//* If already equipped, the number will be reduced and displayed.
+
+//Appearance of all decorations
+patch=1,EE,20313BD0,extended,24C1FFFF
+patch=1,EE,20313BD8,extended,AC61000C
+//* Set the ornaments by setting the armament.
+
+//Maximum dragon / magic attack power
+patch=1,EE,20289AC0,extended,3C014B18
+patch=1,EE,20289AC4,extended,44810000
+
+//Maximum character attack power
+patch=1,EE,20289A64,extended,3C014B18
+patch=1,EE,20289A68,extended,44810000

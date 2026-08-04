@@ -1,0 +1,41 @@
+gametitle=Naruto - Narutimate Hero 3 SLPS-25589
+//Money 9999999
+patch=1,EE,20C757E4,extended,0098967F
+
+//basis Iesato all elements gathering
+patch=1,EE,40C7E170,extended,00800001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//hero Story Scenario all Development
+patch=1,EE,20C7F5AC,extended,000C000C
+patch=1,EE,20C7F5B0,extended,001E000C
+
+//Tool use not, dropping
+patch=1,EE,40C7E268,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//or Ultimate Road
+//All Naruto parameters 255
+patch=1,EE,20C75214,extended,00FF00FF
+patch=1,EE,20C75218,extended,00FF00FF
+patch=1,EE,20C7521C,extended,00FF00FF
+
+//All Para 255 (modified version)
+patch=1,EE,40C75214,extended,002E0005
+patch=1,EE,00FF00FF,extended,00000000
+patch=1,EE,40C75218,extended,002E0005
+patch=1,EE,00FF00FF,extended,00000000
+patch=1,EE,40C7521C,extended,002E0005
+patch=1,EE,00FF00FF,extended,00000000
+
+//Scenario fully open
+patch=1,EE,20C7F5AC,extended,000C000C
+patch=1,EE,20C7F5B0,extended,001E000C
+
+//Almost all Naruto's home elements (no music)
+patch=1,EE,40C7E170,extended,00800001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//A lot of customization items
+patch=1,EE,40C7E268,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000

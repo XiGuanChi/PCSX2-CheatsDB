@@ -1,0 +1,24 @@
+gametitle=Garfield - Lasagna World Tour SLES-54817
+//Infinite HP (Level 1)
+patch=1,EE,21C843F4,extended,40800000
+
+//Infinite HP (Level 2)
+patch=1,EE,2198CC74,extended,40800000
+
+//Infinite HP (Level 3)
+patch=1,EE,218B1374,extended,40800000
+
+//Infinite HP (Level 4)
+patch=1,EE,21D83854,extended,40800000
+
+//Garfield invulnerable
+patch=1,EE,201595EC,extended,00000000
+patch=1,EE,201595F4,extended,00000000
+
+//ontrol the distance between enemy and Garfield during pursuits
+patch=1,EE,20183108,extended,3C1B44BB
+patch=1,EE,20183114,extended,449B0800
+
+//Every teddy gives 99 lives 
+patch=1,EE,2017A044,extended,10000003
+patch=1,EE,2017A024,extended,00000000

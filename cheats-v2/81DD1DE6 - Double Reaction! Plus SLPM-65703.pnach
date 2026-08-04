@@ -1,0 +1,18 @@
+gametitle=Double Reaction! Plus SLPM-65703
+//Unlock All CG 
+patch=1,EE,4171BD38,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,0171BD44,extended,000000FF
+
+//Unlock All Memories
+patch=1,EE,4171DDD4,extended,00150001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Unlock All Movies
+patch=1,EE,4171DE28,extended,00050001
+patch=1,EE,00010001,extended,00000000
+patch=1,EE,1171DD9E,extended,00000001
+
+//Unlock All Omake Options & Mini Stories 
+patch=1,EE,2171DE3C,extended,00010001
+patch=1,EE,2171DE40,extended,00010001

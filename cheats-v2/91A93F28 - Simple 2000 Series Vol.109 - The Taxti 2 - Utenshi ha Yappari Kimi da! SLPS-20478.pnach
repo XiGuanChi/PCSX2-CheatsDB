@@ -1,0 +1,36 @@
+gametitle=Simple 2000 Series Vol.109 - The Taxti 2 - Utenshi ha Yappari Kimi da! SLPS-20478
+//Sale amount 99999990 Yen
+patch=1,EE,2018BDCC,extended,05F5E0F6
+
+//Entire sale amount 99999990 Yen
+patch=1,EE,2018BD98,extended,05F5E0F6
+
+//Rent running fee 100 ten thousand Yen
+patch=1,EE,201B1228,extended,000F4240
+
+//Restriction time it does not decrease
+patch=1,EE,20129F94,extended,00000000
+patch=1,EE,2012A100,extended,00000000
+
+//Business hour advance stop At the SELECT + top time stop, with the SELECT + bottom time advance
+patch=1,EE,D01B199C,extended,0000FFEE
+patch=1,EE,20103F80,extended,00000000
+patch=1,EE,D01B199C,extended,0000FFBE
+patch=1,EE,20103F80,extended,25EF0001
+
+//The reputation highest
+patch=1,EE,1018BE0A,extended,0000015E
+
+//The turbo booster it does not decrease
+patch=1,EE,0018BF29,extended,00000003
+
+//Business log book, scenario achievement 100%  Achievement day is all 1st days.
+patch=1,EE,2018BF38,extended,00010001
+patch=1,EE,2018BF3C,extended,00010001
+patch=1,EE,2018BF40,extended,00010001
+patch=1,EE,2018BF44,extended,00010001
+patch=1,EE,2018BF48,extended,00010001
+patch=1,EE,2018BF4C,extended,00010001
+patch=1,EE,2018BF50,extended,00010001
+patch=1,EE,2018BF54,extended,00010001
+//*

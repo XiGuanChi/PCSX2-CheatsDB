@@ -1,0 +1,96 @@
+gametitle=Final Fantasy XII SLPM-66320
+//Press select to LP999999
+
+//Van (1st person)
+patch=1,EE,D05A32DC,extended,0000FFFE
+patch=1,EE,20581A98,extended,0001869F
+
+//Ashe (second person)
+patch=1,EE,D05A32DC,extended,0000FFFE
+patch=1,EE,20581C5C,extended,0001869F
+
+//Fran (third person)
+patch=1,EE,D05A32DC,extended,0000FFFE
+patch=1,EE,20581E20,extended,0001869F
+
+//Balflare (4th person)
+patch=1,EE,D05A32DC,extended,0000FFFE
+patch=1,EE,20581FE4,extended,0001869F
+
+//Bash (fifth person)
+patch=1,EE,D05A32DC,extended,0000FFFE
+patch=1,EE,205821A8,extended,0001869F
+
+//Pannero (6th person)
+patch=1,EE,D05A32DC,extended,0000FFFE
+patch=1,EE,2058236C,extended,0001869F
+
+//Required code
+patch=1,EE,2035FEA8,extended,0803F800
+patch=1,EE,200FE500,extended,3C03004F
+patch=1,EE,200FE504,extended,3C0205F5
+patch=1,EE,200FE508,extended,080D7FAC
+
+//Possess all consumable items
+patch=1,EE,200FE084,extended,3C020058
+patch=1,EE,200FE088,extended,3442B000
+patch=1,EE,200FE08C,extended,24050040
+patch=1,EE,200FE090,extended,24010063
+patch=1,EE,200FE094,extended,24060000
+patch=1,EE,200FE098,extended,24C50040
+patch=1,EE,200FE09C,extended,A04510B8
+patch=1,EE,200FE0A0,extended,2442A000
+patch=1,EE,200FE0A4,extended,A0410FA8
+patch=1,EE,200FE0A8,extended,24426000
+patch=1,EE,200FE0AC,extended,A44601CC
+patch=1,EE,200FE0B0,extended,24420002
+patch=1,EE,200FE0B4,extended,24C60001
+patch=1,EE,200FE0B8,extended,14C5FFF9
+
+//Possess all weapons
+patch=1,EE,200FE0C0,extended,3C020058
+patch=1,EE,200FE0C4,extended,3442B000
+patch=1,EE,200FE0C8,extended,240500C8
+patch=1,EE,200FE0CC,extended,24010063
+patch=1,EE,200FE0D0,extended,24061000
+patch=1,EE,200FE0D4,extended,24C500C8
+patch=1,EE,200FE0D8,extended,A04510BC
+patch=1,EE,200FE0DC,extended,2442A000
+patch=1,EE,200FE0E0,extended,A0411028
+patch=1,EE,200FE0E4,extended,24426000
+patch=1,EE,200FE0E8,extended,A446024C
+patch=1,EE,200FE0EC,extended,24420002
+patch=1,EE,200FE0F0,extended,24C60001
+patch=1,EE,200FE0F4,extended,14C5FFF9
+
+//Possess all skills
+patch=1,EE,200FE000,extended,3C020058
+patch=1,EE,200FE004,extended,2401FFFF
+patch=1,EE,200FE008,extended,AC41677C
+patch=1,EE,200FE00C,extended,3442B000
+patch=1,EE,200FE010,extended,24050018
+patch=1,EE,200FE014,extended,A04510D8
+patch=1,EE,200FE018,extended,24064000
+patch=1,EE,200FE01C,extended,24C50018
+patch=1,EE,200FE020,extended,A44607E4
+patch=1,EE,200FE024,extended,24420002
+patch=1,EE,200FE028,extended,24C60001
+patch=1,EE,200FE034,extended,14C5FFFA
+
+//Possess all magic
+patch=1,EE,200FE03C,extended,3C020058
+patch=1,EE,200FE040,extended,2401FFFF
+patch=1,EE,200FE044,extended,AC416770
+patch=1,EE,200FE048,extended,AC416774
+patch=1,EE,200FE04C,extended,AC416778
+patch=1,EE,200FE050,extended,A0411904
+patch=1,EE,200FE054,extended,3442B000
+patch=1,EE,200FE058,extended,24050051
+patch=1,EE,200FE05C,extended,A04510DC
+patch=1,EE,200FE060,extended,24063000
+patch=1,EE,200FE064,extended,24C50051
+patch=1,EE,200FE068,extended,A4460814
+patch=1,EE,200FE06C,extended,24420002
+patch=1,EE,200FE070,extended,24C60001
+patch=1,EE,200FE07C,extended,14C5FFFA
+

@@ -1,0 +1,17 @@
+gametitle=ATV Off-Road Fury 2 v2.00 SCUS-97211
+//Access All ATV's
+patch=1,EE,20270148,extended,24010001
+patch=1,EE,2027014C,extended,A0E10000
+
+//Access All Equipment
+patch=1,EE,20270244,extended,24010001
+patch=1,EE,20270248,extended,A1A10000
+
+//Access All Games
+patch=1,EE,2026C380,extended,00000000
+patch=1,EE,2026D0A4,extended,00000000
+
+//Access All Tracks
+patch=1,EE,2026C340,extended,24010001
+patch=1,EE,2026C344,extended,A0410000
+

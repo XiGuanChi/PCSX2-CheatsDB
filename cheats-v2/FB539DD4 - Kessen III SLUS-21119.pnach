@@ -1,0 +1,25 @@
+gametitle=Kessen III SLUS-21119
+//Max Cash
+patch=1,EE,20E5B850,extended,70000000
+
+//Infinite Troops
+//the code does not work in rampage mode.
+patch=1,EE,20301FA0,extended,E662006C
+
+//Fast Runners
+patch=1,EE,201ED840,extended,3C014600
+patch=1,EE,201ED844,extended,AE010054
+patch=1,EE,201ED84C,extended,AE0100D0
+patch=1,EE,201ED848,extended,AE21014C
+
+//SD Mode
+patch=1,EE,2057E240,extended,3FA00000
+patch=1,EE,2057E268,extended,3FA00000
+patch=1,EE,2057E254,extended,3FA00000
+patch=1,EE,2057E27C,extended,3FA00000
+
+//Rampage Codes Infinite Health
+patch=1,EE,20ED4EFC,extended,000003E8
+
+//1 Hit Kill 2nd General
+patch=1,EE,20ED55AC,extended,00000001

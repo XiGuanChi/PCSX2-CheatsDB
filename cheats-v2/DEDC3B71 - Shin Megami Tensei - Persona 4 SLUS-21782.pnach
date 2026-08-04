@@ -1,0 +1,95 @@
+gametitle=Shin Megami Tensei - Persona 4 SLUS-21782
+//Infinite Yen
+patch=1,EE,2079B68C,extended,05F5E0FF
+
+//MAIN CHARACTER CODES:
+//Quick Level Up
+patch=1,EE,10797400,extended,0000FFFF
+
+//Infinite Health Points In Battle
+patch=1,EE,107973CC,extended,000003E7
+
+//Infinite Spirit Points In Battle
+patch=1,EE,107973CE,extended,000003E7
+
+//Max Courage
+patch=1,EE,007973F4,extended,000000FF
+
+//Max Knowledge
+patch=1,EE,007973F6,extended,000000FF
+
+//Max Expression
+patch=1,EE,007973FC,extended,000000FF
+
+//Max Understanding
+patch=1,EE,007973FA,extended,000000FF
+
+//Max Diligence
+patch=1,EE,007973F8,extended,000000FF
+
+//SOCIAL LINK CODES:
+//Max S.Link Rank: Investigation Team
+patch=1,EE,00797426,extended,0000000A
+
+//Max S.Link Rank: Yosuke Hanamura
+patch=1,EE,00797416,extended,0000000A
+
+//Max S.Link Rank: Chie Satonaka
+patch=1,EE,00797436,extended,0000000A
+
+//Max S.Link Rank: Fellow Athletes
+patch=1,EE,00797446,extended,0000000A
+
+//Max S.Link Rank: Ayane Matsunaga
+patch=1,EE,00797456,extended,0000000A
+
+//YOSUKE HANAMURA CODES:
+//Quick Level Up
+patch=1,EE,10796EAC,extended,0000FFFF
+
+//Infinite Health Points In Battle
+patch=1,EE,10796E5C,extended,000003E7
+
+//Infinite Spirit Points In Battle
+patch=1,EE,10796E5E,extended,000003E7
+
+//CHIE SATONAKA CODES:
+//Quick Level Up
+patch=1,EE,10796F34,extended,0000FFFF
+
+//Infinite Health Points In Battle
+patch=1,EE,10796EE4,extended,000003E7
+
+//Infinite Spirit Points In Battle
+patch=1,EE,10796EE6,extended,000003E7
+
+//YUKIKO AMAGI CODES:
+//Quick Level Up
+patch=1,EE,10796FBC,extended,0000FFFF
+
+//Infinite Health Points In Battle
+patch=1,EE,10796F6C,extended,000003E7
+
+//Infinite Spirit Points In Battle
+patch=1,EE,10796F6E,extended,000003E7
+
+//Persona 1 Max Stats
+patch=1,EE,20798218,extended,63636363
+patch=1,EE,2079821C,extended,63636363
+patch=1,EE,10798220,extended,00006363
+
+//Have All Persona in Compendium Book (GSv4+ / CBv7+ only)
+patch=1,EE,407981FC,extended,00BF000C
+patch=1,EE,00010001,extended,00010000
+
+//All Persona Level Max in Compendium Book
+patch=1,EE,40798200,extended,00BF000C
+patch=1,EE,00000063,extended,00000000
+
+//All Persona Max Stats in Compendium Book
+patch=1,EE,40798218,extended,00BF000C
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,4079821C,extended,00BF000C
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,40798220,extended,00BF000C
+patch=1,EE,00006363,extended,00000000

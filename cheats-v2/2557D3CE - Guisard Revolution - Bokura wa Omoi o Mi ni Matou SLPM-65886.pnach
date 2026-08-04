@@ -1,0 +1,7 @@
+gametitle=Guisard Revolution - Bokura wa Omoi o Mi ni Matou SLPM-65886
+//Infinite HP in battle Guisard Red (400)
+patch=1,EE,21AD5C20,extended,00000190
+
+//No enemy life after pressing SELECT + START button
+patch=1,EE,D1B13F02,extended,0000FFF6
+patch=1,EE,11AD5C60,extended,00000001

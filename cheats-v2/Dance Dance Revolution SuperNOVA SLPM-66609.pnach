@@ -1,0 +1,73 @@
+gametitle=Dance Dance Revolution SuperNOVA SLPM-66609
+//Shop point MAX
+patch=1,EE,205142C8,extended,3B9AC9FF
+
+//Max Meter P1
+patch=1,EE,108FBEB2,extended,000003E8
+
+//Infinite Shop Points
+patch=1,EE,10457624,extended,0000FFFF
+
+//Max Shop Points
+patch=1,EE,20457624,extended,3B9AC9FF
+
+//Have Everything Available For Purchase3168862D C3064149
+patch=1,EE,404577EC,extended,00210001
+patch=1,EE,02020202,extended,00000000
+
+//Unlock Everything
+patch=1,EE,104577EA,extended,00000C0C
+patch=1,EE,404577EC,extended,00210001
+patch=1,EE,0C0C0C0C,extended,00000000
+
+//Music all purchased
+patch=1,EE,005144A6,extended,0000000C
+patch=1,EE,105144A8,extended,00000C0C
+patch=1,EE,005144AA,extended,0000000C
+patch=1,EE,005144AD,extended,0000000C
+patch=1,EE,105144B6,extended,00000C0C
+patch=1,EE,005144B9,extended,0000000C
+patch=1,EE,005144D9,extended,0000000C
+patch=1,EE,005144DC,extended,0000000C
+patch=1,EE,105144DE,extended,00000C0C
+patch=1,EE,105144E0,extended,00000C0C
+patch=1,EE,005144E3,extended,0000000C
+patch=1,EE,205144E4,extended,0C0C0C0C
+
+//Course all purchased
+patch=1,EE,205144E8,extended,04040404
+patch=1,EE,205144EC,extended,04040404
+patch=1,EE,205144F0,extended,04040404
+patch=1,EE,205144F4,extended,04040404
+patch=1,EE,105144F8,extended,00000404
+
+//Mode all purchased
+patch=1,EE,10514512,extended,00000404
+patch=1,EE,00514514,extended,00000004
+
+//Arrow all available for purchase
+patch=1,EE,105144FA,extended,00000204
+patch=1,EE,205144FC,extended,02020202
+patch=1,EE,20514500,extended,02020202
+patch=1,EE,10514504,extended,00000202
+
+//Dancers all purchased
+patch=1,EE,10514506,extended,00000404
+patch=1,EE,20514508,extended,04040404
+patch=1,EE,2051450C,extended,04040404
+patch=1,EE,10514510,extended,00000404
+
+//Stage purchased
+patch=1,EE,00514515,extended,00000004
+
+//Auto Play
+patch=1,EE,A0188B78,extended,14600001
+patch=1,EE,A0188B88,extended,4A0002FF
+patch=1,EE,A0188CD0,extended,4A0002FF
+patch=1,EE,A0188D44,extended,4A0002FF
+
+//Gauge maximum maintenance
+patch=1,EE,A01871D0,extended,1000007F
+
+//Not decrease Challenge mode gauge
+patch=1,EE,A018B2EC,extended,24420000

@@ -1,0 +1,173 @@
+gametitle=SNK Arcade Classics Vol. 1 SLUS-21724
+//Art Of Fighting P1 Infinite HP
+patch=1,EE,013954D4,extended,00000080
+
+//Art Of Fighting P2 No HP P1 Press Start
+patch=1,EE,D03D1742,extended,0000FFF7
+patch=1,EE,013955D4,extended,00000001
+
+//Baseball Stars 2
+//Inf Pitches
+patch=1,EE,10F817AC,extended,00000000
+//Player 1 Side Codes
+//P1 Max POW (P1 Press L2+R2)
+patch=1,EE,D03D1742,extended,0000FCFF
+patch=1,EE,00F8422B,extended,00000063
+//P1 Has Score 99 (P1 Press L2+R2)
+patch=1,EE,D03D1742,extended,0000FCFF
+patch=1,EE,00F841FB,extended,00000099
+
+//Burning Fight Infinite Time 
+patch=1,EE,00F8D00A,extended,00000099
+
+//Burning Fight Most Enemies Die With 1-Hit 
+patch=1,EE,00F80328,extended,00000000
+patch=1,EE,00F803A8,extended,00000000
+patch=1,EE,00F80428,extended,00000000
+patch=1,EE,00F804A8,extended,00000000
+patch=1,EE,00F80528,extended,00000000
+patch=1,EE,00F805A8,extended,00000000
+
+//Burning Fight P1 Infinite HP 
+patch=1,EE,00F80228,extended,000000FF
+
+//Burning Fight P1 Infinite Lives
+patch=1,EE,00F80239,extended,00000009
+
+//Burning Fight P2 Infinite HP 
+patch=1,EE,00F802A8,extended,000000FF
+
+//Burning Fight P2 Infinite Lives 
+patch=1,EE,00F802B9,extended,00000009
+
+//Fatal Fury P1 Infinite HP
+patch=1,EE,10F803C0,extended,00006060
+
+//Fatal Fury P2 No HP (P1 Press Start)
+patch=1,EE,D03D1742,extended,0000FFF7
+patch=1,EE,10F805C0,extended,00000000
+
+//King of the Monsters P1 Infinite HP
+patch=1,EE,00F81872,extended,0000003C
+
+//King of the Monsters P2 Infinite HP
+patch=1,EE,00F81972,extended,0000003C
+
+//Last Resort P1 Invincibility 
+patch=1,EE,00E80B30,extended,0000007D
+
+//Last Resort P2 Invincibility
+patch=1,EE,00E80BB0,extended,0000007D
+
+//Magician Lord P1 Infinite HP 
+patch=1,EE,00E8040E,extended,00000005
+
+//Magician Lord P2 Infinite HP P2 
+patch=1,EE,00E8050E,extended,00000005
+
+//Metal Slug P1 - Infinite Lives 
+patch=1,EE,01CA497E,extended,00000065
+
+//Metal Slug P1 - Invincibility
+patch=1,EE,01CA4A8C,extended,000000FF
+
+//Metal Slug P1 - Infinite Metal Slug Energy
+patch=1,EE,01CA4BEE,extended,00000030
+
+//Metal Slug P2 - Infinite Lives
+patch=1,EE,01CA4A1E,extended,00000065
+
+//Metal Slug P2  Invincibility
+patch=1,EE,01CA4B2C,extended,000000FF
+
+//Metal Slug P2 - Infinite Metal Slug Energy
+patch=1,EE,01CA4C8E,extended,00000030
+
+//Neo Turf Masters No Wind 
+patch=1,EE,114945EA,extended,00000000
+
+//Neo Turf Masters P1 Infinite Holes 
+patch=1,EE,0149AB7B,extended,00000063
+
+//Neo Turf Masters  P1 Infinite Strokes 
+patch=1,EE,0149460F,extended,00000001
+
+//Neo Turf Masters  P1 Infinite Time
+patch=1,EE,0148E85E,extended,0000001E
+
+//Samurai Shodown Infinite Hp player 1
+patch=1,EE,200A0000,extended,84440000
+patch=1,EE,200A0004,extended,24010080
+patch=1,EE,200A0008,extended,14810007
+patch=1,EE,200A0010,extended,24440049
+patch=1,EE,200A0014,extended,90840000
+patch=1,EE,200A0018,extended,14800003
+patch=1,EE,200A0020,extended,03E00008
+patch=1,EE,200A0024,extended,A4410000
+patch=1,EE,200A0028,extended,03E00008
+patch=1,EE,200A002C,extended,A4480000
+patch=1,EE,2017E58C,extended,08028000
+patch=1,EE,2017E590,extended,00000000
+
+//Samurai Shodown P1 Play as Amakusa Press L2+R2
+patch=1,EE,D03D1742,extended,0000FCFF
+patch=1,EE,01590992,extended,0000000C
+
+//Sengoku P1 Invincibility 
+patch=1,EE,00F80186,extended,00000050
+
+//Sengoku P2 Invincibility 
+patch=1,EE,00F80286,extended,00000050
+
+//Shock Troopers P1 Invincibility
+patch=1,EE,016A972E,extended,000000FF
+
+//Shock Troopers P2 Invincibility 
+patch=1,EE,016AB72E,extended,000000FF
+
+//Super Sidekicks 3 - The Next Glory P1 Has Score 99 P1 Press Start
+patch=1,EE,D03D1742,extended,0000FFF7
+patch=1,EE,0189FDF3,extended,00000063
+
+//The King of Fighters '94 P1 Infinite HP 
+patch=1,EE,21807BA8,extended,00CF00CF
+
+//The King of Fighters '94 P2 No HP P1 Press Start
+patch=1,EE,D03D1742,extended,0000FFF7
+patch=1,EE,21807DA8,extended,00000000
+
+//Top Hunter Infinite HP Player 1 and' 2
+patch=1,EE,200A0030,extended,80440000
+patch=1,EE,200A0034,extended,24010040
+patch=1,EE,200A0038,extended,14810005
+patch=1,EE,200A0048,extended,03E00008
+patch=1,EE,200A004C,extended,A0410000
+patch=1,EE,200A0050,extended,03E00008
+patch=1,EE,200A0054,extended,A0480000
+patch=1,EE,2017DC30,extended,0802800C
+patch=1,EE,2017DC34,extended,00000000
+
+//Top Hunter P1 Infinite Lives
+patch=1,EE,01496324,extended,00000064
+
+//Top Hunter P1 Infinite HP (Stage 1 only)
+patch=1,EE,0148DB08,extended,00000040
+
+//Top Hunter P2 Infinite Lives
+patch=1,EE,01496328,extended,00000064
+
+//Top HunterP2 Infinite HP (Stage 1 only)
+patch=1,EE,0148E708,extended,00000040
+
+//World Heroes P1 Infinite Health 
+patch=1,EE,0118BC13,extended,00000068
+patch=1,EE,0118BC37,extended,00000068
+
+//World Heroes Player 2 - No Health P1 Press Start
+patch=1,EE,E002FFF7,extended,003D1742
+patch=1,EE,0118BD13,extended,00000001
+patch=1,EE,0118BD37,extended,00000001
+
+//World Heroes P1 Play as Geegus Press L2+R2
+patch=1,EE,D03D1742,extended,0000FCFF
+patch=1,EE,0118BC15,extended,00000009

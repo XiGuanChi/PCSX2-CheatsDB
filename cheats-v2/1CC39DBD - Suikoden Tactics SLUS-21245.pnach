@@ -1,0 +1,28 @@
+gametitle=Suikoden Tactics SLUS-21245
+//infinite gold
+patch=1,EE,206794f8,extended,0098967
+
+//Infinite skill points
+patch=1,EE,206794f0,extended,0098967f
+
+//Infinite Health In Battle
+patch=1,EE,200C2000,extended,240203E7
+patch=1,EE,200C2004,extended,A4620008
+patch=1,EE,200C2008,extended,A462000A
+patch=1,EE,200C200C,extended,A462001E
+
+//Max Stats All Characters
+patch=1,EE,202EA3C8,extended,00000000
+
+//Infinite HP All Characters2A072E7A 8462001C 
+patch=1,EE,202EA5B8,extended,A4620008
+
+//Infinite Magic Usage All Characters)
+patch=1,EE,202EA818,extended,00000000
+
+//Quick Death-Enemies
+patch=1,EE,202EC338,extended,24020000
+patch=1,EE,202EC33C,extended,A4620006
+
+//Instant Battle Victory
+patch=1,EE,202EC384,extended,24120000

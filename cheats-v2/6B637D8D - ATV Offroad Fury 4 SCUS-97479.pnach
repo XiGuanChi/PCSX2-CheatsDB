@@ -1,0 +1,22 @@
+gametitle=ATV Offroad Fury 4 SCUS-97479
+//Max Money
+patch=1,EE,204B1DCC,extended,00000000
+patch=1,EE,204AE67C,extended,00000000
+
+//1 Lap Races
+patch=1,EE,205128F4,extended,00000000
+patch=1,EE,00C58800,extended,00000001
+
+//Disable "out of bounds" timer
+patch=1,EE,20162500,extended,00000000
+
+//Invulnerable (Never fall off of ATV/Bike)
+patch=1,EE,2021EEAC,extended,00000000
+patch=1,EE,202C5408,extended,00000000
+patch=1,EE,2021E27C,extended,00000000
+
+//Stop/Start All Vehicles L3/R2
+patch=1,EE,D0896D82,extended,0000FFFD
+patch=1,EE,2030E7D8,extended,00000000
+patch=1,EE,D0896D82,extended,0000FDFF
+patch=1,EE,2030E7D8,extended,0C0C0A5E

@@ -1,0 +1,7 @@
+gametitle=Hard Hitter Tennis SLUS-20568
+//Player 1 Start With 40 Points
+patch=1,EE,D037C718,extended,00000000
+patch=1,EE,2037C718,extended,00000003
+
+//Player 2 Never Scores
+patch=1,EE,2037C71C,extended,00000000

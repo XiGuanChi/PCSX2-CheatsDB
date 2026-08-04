@@ -1,0 +1,21 @@
+gametitle=City Crisis SLES-50364
+//Infinite Health 
+patch=1,EE,103D5CDC,extended,0000028A
+
+//30 Saved-Final Rescue 
+patch=1,EE,103C42AC,extended,0000001E
+
+//Zero Dead-Final Rescue 
+patch=1,EE,103C42A8,extended,00000000
+
+//Infinite Water Rockets 
+patch=1,EE,103C4744,extended,00000005
+
+//Stop Timer 
+patch=1,EE,103C4502,extended,000017AF
+
+//Infinite Water Cannon 
+patch=1,EE,103C474E,extended,00003F80
+
+//Stop Timer-Time Attack 
+patch=1,EE,103C4502,extended,000000AF

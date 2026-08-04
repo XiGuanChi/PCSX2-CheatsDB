@@ -1,0 +1,75 @@
+gametitle=Splashdown - Rides gone wild SLUS-20686
+//Infinite Continues
+patch=1,EE,2031C708,extended,00000000
+
+//Max Warehouse Points
+patch=1,EE,2034E0F0,extended,3C0205F5
+patch=1,EE,2034E0F4,extended,3442E0FF
+patch=1,EE,2034E0F8,extended,03E00008
+patch=1,EE,2034E0FC,extended,AC820000
+
+//Unlock All Characters
+patch=1,EE,200C0220,extended,24010001
+patch=1,EE,200C0224,extended,AC41FFF0
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,8C42FFF0
+patch=1,EE,2034D8D8,extended,08030088
+
+//Unlock All Wetsuits
+patch=1,EE,200C0230,extended,AC41FFFC
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,8C42FFFC
+patch=1,EE,2034D9B4,extended,0803008C
+patch=1,EE,2034D9B8,extended,24010001
+
+//Unlock All Watercrafts
+patch=1,EE,200C0240,extended,AC41FFFC
+patch=1,EE,200C0244,extended,03E00008
+patch=1,EE,200C0248,extended,8C42FFFC
+patch=1,EE,2034DB04,extended,08030090
+patch=1,EE,2034DB08,extended,24010001
+
+//Unlock All Circuit Courses
+patch=1,EE,200C0250,extended,24010001
+patch=1,EE,200C0254,extended,AC410078
+patch=1,EE,200C0258,extended,03E00008
+patch=1,EE,200C025C,extended,8C420078
+patch=1,EE,2034DC44,extended,0C030094
+
+//Infinite Warehouse Points Usage
+patch=1,EE,2034E108,extended,00000000
+
+//Unlock All Time Trials Courses
+patch=1,EE,200C0260,extended,24010001
+patch=1,EE,200C0264,extended,AC410090
+patch=1,EE,200C0268,extended,03E00008
+patch=1,EE,200C026C,extended,8C420090
+patch=1,EE,2034DC80,extended,0C030098
+
+//Unlock All Technical Time Trails Courses
+patch=1,EE,200C0270,extended,24010001
+patch=1,EE,200C0274,extended,AC4100B8
+patch=1,EE,200C0278,extended,03E00008
+patch=1,EE,200C027C,extended,8C4200B8
+patch=1,EE,2034DCBC,extended,0C03009C
+
+//Unlock All Freestyle Courses
+patch=1,EE,200C0280,extended,24010001
+patch=1,EE,200C0284,extended,AC410100
+patch=1,EE,200C0288,extended,03E00008
+patch=1,EE,200C028C,extended,8C420100
+patch=1,EE,2034DCF4,extended,0C0300A0
+
+//Unlock All Videos
+patch=1,EE,200C0290,extended,AC41010C
+patch=1,EE,200C0294,extended,03E00008
+patch=1,EE,200C0298,extended,8C42010C
+patch=1,EE,2034DEE4,extended,080300A4
+patch=1,EE,2034DEE8,extended,24010001
+
+//Unlock All Miscellaneous
+patch=1,EE,200C02A0,extended,AC410144
+patch=1,EE,200C02A4,extended,03E00008
+patch=1,EE,200C02A8,extended,8C420144
+patch=1,EE,2034DFB8,extended,080300A8
+patch=1,EE,2034DFBC,extended,24010001

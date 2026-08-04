@@ -1,0 +1,21 @@
+gametitle=Izumo 2 SLPM-66192
+//Takeru experience value Max
+patch=1,EE,20308F38,extended,000F423F
+
+//Level 99 - Exp 999999 (after 1 battle)
+patch=1,EE,2015597C,extended,27AF0000
+
+//Takeru stamina Max
+patch=1,EE,20308F3C,extended,461C3C00
+patch=1,EE,20308FE4,extended,461C3C00
+
+//CG fully open
+patch=1,EE,20305258,extended,FFFFFFFF
+patch=1,EE,2030525C,extended,FFFFFFFF
+patch=1,EE,20305260,extended,FFFFFFFF
+patch=1,EE,20305264,extended,FFFFFFFF
+patch=1,EE,20305288,extended,3FFFFFFF
+patch=1,EE,003052CC,extended,00000003
+
+//999 jewels available
+patch=1,EE,2011DD6C,extended,15E00001

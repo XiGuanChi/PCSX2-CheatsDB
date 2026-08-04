@@ -1,0 +1,41 @@
+gametitle=Mahoromatic - Moetto - KiraKira Maid-San SLPM-65332
+//Sparkling memories album fully open will not be reflected in the save data
+patch=1,EE,201694D0,extended,24020001
+patch=1,EE,2016941C,extended,24020001
+
+//Bonus element fully open (It is reflected in the save data)
+patch=1,EE,404C0250,extended,00BB0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Mini-game Battle Matikku - MAX in swimsuit available
+patch=1,EE,D04E2330,extended,00002710
+patch=1,EE,204E2330,extended,28610000
+
+//Mini game Mahoro Den - After combat money MAX
+patch=1,EE,D04C50D8,extended,0000082B
+patch=1,EE,204C50D8,extended,34010001
+
+//Mini game Mahoro Den - After Combat level MAX
+patch=1,EE,E0020017,extended,004C4E10
+patch=1,EE,204C4DF4,extended,00000000
+patch=1,EE,204C4E10,extended,AC4301E8
+
+//Mini game Mahoro Den - Level increases with each capacity value MAX
+patch=1,EE,D04C4D92,extended,0000A675
+patch=1,EE,204C4D90,extended,A6710000
+
+//Mini game Mahoro Den - I always drop items (There is no effect on the enemy you do not have the item)
+patch=1,EE,D04C4EDC,extended,0000000A
+patch=1,EE,204C4EDC,extended,24120065
+
+//Mini game Mahoro Den - I always get the unexpected
+patch=1,EE,D04C9E88,extended,00000026
+patch=1,EE,204C9E88,extended,1000000B
+
+//Mini game Mahoro Den - I escape always
+patch=1,EE,D04C8C7C,extended,00000007
+patch=1,EE,204C8C7C,extended,00000000
+
+//Mini game Mahoro Den - door is always open 
+patch=1,EE,D04DE4D6,extended,00002483
+patch=1,EE,204DE4D4,extended,1000FFED

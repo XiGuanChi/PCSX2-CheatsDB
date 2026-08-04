@@ -1,0 +1,21 @@
+gametitle=Lego Star Wars - The Videogame SLES-53194
+//Max Cash
+patch=1,EE,2054791C,extended,05F5E0FF
+
+//Infinite Health
+patch=1,EE,1035FC1A,extended,00000001
+
+//Replace Option Menu into Level Select/Test Menu
+patch=1,EE,20528A1C,extended,FF110016
+
+//All Scenes
+patch=1,EE,403A6050,extended,001B0001
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,003A60BC,extended,00000001
+
+//Access All Skills
+patch=1,EE,201947CC,extended,00000000
+patch=1,EE,201947D4,extended,00000000
+patch=1,EE,201947DC,extended,00000000
+patch=1,EE,201947E4,extended,00000000
+patch=1,EE,201947EC,extended,00000000

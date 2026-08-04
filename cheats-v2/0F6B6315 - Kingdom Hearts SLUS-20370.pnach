@@ -1,0 +1,103 @@
+gametitle=Kingdom Hearts SLUS-20370
+//Sora - Infinite HP in battle
+patch=1,EE,00524094,extended,00000063
+
+//Slot 2 - Infinite HP in battle (do not use it if Sora alone)
+patch=1,EE,00524178,extended,00000063
+
+//Slot 3 - Infinite HP (do not use it if Sora alone)
+patch=1,EE,0052425C,extended,00000063
+
+//Sora - Infinite & Max HP
+patch=1,EE,003F1C95,extended,000000FF
+patch=1,EE,003F1C96,extended,00000063
+
+//Sora - Infinite & Max MP
+patch=1,EE,003F1C97,extended,00000063
+patch=1,EE,003F1C98,extended,00000063
+
+//Sora - All Magic
+patch=1,EE,003F1D04,extended,0000007F
+
+//Sora - Max Level
+patch=1,EE,003F1C94,extended,00000064
+
+//Donald - Infinite & Max HP
+patch=1,EE,003F1D09,extended,00000063
+patch=1,EE,003F1D0A,extended,00000063
+
+//Goofy - Infinite & Max HP
+patch=1,EE,003F1D7D,extended,00000063
+patch=1,EE,003F1D7E,extended,00000063
+
+//Rescue All Dalmations
+patch=1,EE,003F3393,extended,000000FF
+patch=1,EE,203F3394,extended,FFFFFFFF
+patch=1,EE,203F3398,extended,FFFFFFFF
+patch=1,EE,203F339C,extended,7FFFFFFF
+
+//Quick Barrel Challenge
+patch=1,EE,00384544,extended,00000000
+
+//Have All Trinities
+patch=1,EE,003F38AB,extended,0000007F
+
+//Press Pause to Save
+patch=1,EE,204865E0,extended,00114288
+
+//Infinite Munny
+patch=1,EE,204080AC,extended,0001869F
+
+//Have Dumbo Summon
+patch=1,EE,003F2460,extended,00000000
+
+//Have Bambi Summon
+patch=1,EE,003F2461,extended,00000001
+
+//Have Mushu Summon
+patch=1,EE,003F2462,extended,00000004
+
+//Have Tinker Bell Summon
+patch=1,EE,003F2463,extended,00000003
+
+//Have Simba Summon
+patch=1,EE,003F2464,extended,00000005
+
+//Have Genie Summon
+patch=1,EE,003F2465,extended,00000002
+
+//Have All Gummi Parts
+patch=1,EE,203FDB08,extended,63636363
+patch=1,EE,203FDB0C,extended,63636363
+patch=1,EE,203FDB10,extended,63636363
+patch=1,EE,203FDB14,extended,63636363
+patch=1,EE,203FDB18,extended,63636363
+patch=1,EE,203FDB1C,extended,63636363
+patch=1,EE,203FDB20,extended,63636363
+patch=1,EE,203FDB24,extended,63636363
+patch=1,EE,203FDB28,extended,63636363
+patch=1,EE,203FDB2C,extended,63636363
+patch=1,EE,203FDB30,extended,63636363
+patch=1,EE,203FDB34,extended,63636363
+patch=1,EE,203FDB38,extended,63636363
+patch=1,EE,203FDB3C,extended,63636363
+patch=1,EE,203FDB40,extended,63636363
+patch=1,EE,203FDB44,extended,63636363
+patch=1,EE,203FDB48,extended,01010101
+patch=1,EE,103FDB4C,extended,00000101
+patch=1,EE,003FDB4E,extended,00000001
+
+//Have All Blueprints
+patch=1,EE,003FDB4F,extended,00000001
+patch=1,EE,203FDB50,extended,01010101
+patch=1,EE,203FDB54,extended,01010101
+patch=1,EE,203FDB58,extended,01010101
+patch=1,EE,203FDB5C,extended,01010101
+patch=1,EE,203FDB60,extended,01010101
+patch=1,EE,203FDB64,extended,01010101
+patch=1,EE,203FDB68,extended,01010101
+patch=1,EE,203FDB6C,extended,01010101
+patch=1,EE,203FDB70,extended,01010101
+
+
+

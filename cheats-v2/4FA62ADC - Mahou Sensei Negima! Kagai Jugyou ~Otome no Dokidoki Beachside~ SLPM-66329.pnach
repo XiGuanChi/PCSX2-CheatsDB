@@ -1,0 +1,37 @@
+gametitle=Mahou Sensei Negima! Kagai Jugyou ~Otome no Dokidoki Beachside~ SLPM-66329
+//Max Coins
+patch=1,EE,2034F32C,extended,0098967F
+
+//Album fully open
+patch=1,EE,2010B064,extended,24020001
+
+//Movie fully open
+patch=1,EE,2010B0B0,extended,24020001
+
+//Character fully open
+patch=1,EE,2010B4D8,extended,24020001
+
+//At the time of character, swimsuit fully open
+patch=1,EE,20124384,extended,24020001
+
+//Unlock All Accessories
+patch=1,EE,4034EA90,extended,00080001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,1034EAB0,extended,00000101
+
+//Unlock All Gallery 
+patch=1,EE,203098A0,extended,7F7F7F7F
+patch=1,EE,203098A4,extended,7F7F7F7F
+patch=1,EE,203098A8,extended,7F7F7F7F
+patch=1,EE,00309971,extended,00000001
+patch=1,EE,10309972,extended,00000101
+patch=1,EE,40309974,extended,00120001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,003099BC,extended,00000001
+patch=1,EE,203098A8,extended,01010101
+patch=1,EE,003098AC,extended,00000001
+
+//Unlock All Swimsuits 
+patch=1,EE,1034EAAE,extended,00000101
+patch=1,EE,4034EAB0,extended,00080001
+patch=1,EE,01010101,extended,00000000

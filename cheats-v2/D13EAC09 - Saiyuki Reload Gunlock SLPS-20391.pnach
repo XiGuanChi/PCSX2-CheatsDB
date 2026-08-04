@@ -1,0 +1,9 @@
+gametitle=Saiyuki Reload Gunlock SLPS-20391
+//Max Funds 
+patch=1,EE,00406C90,extended,000000FF
+
+//Infinite Health
+patch=1,EE,00406C90,extended,000000FF
+
+//Rave Power Max
+patch=1,EE,00406C9C,extended,000000FF

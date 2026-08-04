@@ -1,0 +1,72 @@
+gametitle=TMNT SLES-54478
+//Infinite Health
+patch=1,EE,20209B64,extended,AC83002C
+
+//Infinite Lives
+patch=1,EE,20D76560,extended,00000009
+
+//Enhanced Weapons / Unlimited Shuriken
+patch=1,EE,00D7655C,extended,000000FF
+
+//Improved defenses / power-ups
+patch=1,EE,00D7655D,extended,000000FF
+
+//Always Low Time
+patch=1,EE,20279668,extended,AE0000C8
+
+//Max Unlock Tokens
+patch=1,EE,21e6966c,extended,000000D0
+
+//player 1 Start with 999 shurike
+//n 20D76564 000003E7
+
+//player 1 Start with 999 explosives
+patch=1,EE,20D7656C,extended,000003E7
+
+//player 1 Start with 999 electricity
+patch=1,EE,20D76568,extended,000003E7
+
+//player 2 Start with 999 shuriken
+patch=1,EE,20D76570,extended,000003E7
+
+//Start with 999 explosives
+patch=1,EE,20D76578,extended,000003E7
+
+//player 1 Start with 999 electricity
+patch=1,EE,20D76574,extended,000003E7
+
+//Unlock all stages raphael
+patch=1,EE,20D76A20,extended,00000025
+
+//Unlock all stages Michelangelo
+patch=1,EE,20D76A50,extended,00000025
+
+//Unlock all stages Donatello
+patch=1,EE,20D76A80,extended,00000025
+
+//Unlock all stages Leonardo
+patch=1,EE,20D76AB0,extended,00000025
+
+//Database Michelangelo
+patch=1,EE,20D76B4C0000000F
+
+//Database raphael
+patch=1,EE,20D76B38,extended,0000000F
+
+//Database Donatello
+patch=1,EE,20D76B60,extended,0000000F
+
+//Database Leonardo
+patch=1,EE,20D76B74,extended,0000000F
+
+//Unlock All Maps
+patch=1,EE,21e6973c,extended,FFFFFFFF
+
+//Always No Points Spent
+patch=1,EE,21e69b28,extended,00000000
+
+//All characters and extra modes
+patch=1,EE,20D76B20,extended,FFFFFFFF
+
+//Unlock All Artwork And Video
+patch=1,EE,21e69be4,extended,FFFFFFFF

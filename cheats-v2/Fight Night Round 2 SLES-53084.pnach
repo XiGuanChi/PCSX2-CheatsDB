@@ -1,0 +1,12 @@
+gametitle=Fight Night Round 2 SLES-53084
+//infinite Health Player 1
+patch=1,EE,000C0000,extended,00000001
+
+//infinite Energy Player 1
+patch=1,EE,000C0001,extended,00000001
+
+//no Health Player 2
+patch=1,EE,000C0002,extended,000000FF
+
+//no Energy Player 2
+patch=1,EE,000C0003,extended,000000FF

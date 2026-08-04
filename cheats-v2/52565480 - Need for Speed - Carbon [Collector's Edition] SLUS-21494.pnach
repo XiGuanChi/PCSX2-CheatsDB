@@ -1,0 +1,19 @@
+gametitle=Need for Speed - Carbon [Collector's Edition] SLUS-21494
+//Infiniye gold
+patch=1,EE,20A6E8F4,extended,05F5E0FF
+
+//Infinite NOS Usage
+patch=1,EE,203E4C74,extended,00000000
+
+//Infinite Crew Charge Bar2
+//01403DC 00000000
+
+//Infinite Speedbreaker
+patch=1,EE,204225A8,extended,00000000
+
+//Have All Challenges Completed
+patch=1,EE,200C0230,extended,00300825
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,AC410004
+patch=1,EE,2030B9DC,extended,0C03008C
+patch=1,EE,2030B9E0,extended,8C410004

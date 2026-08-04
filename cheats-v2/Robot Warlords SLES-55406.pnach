@@ -1,0 +1,168 @@
+gametitle=Robot Warlords SLES-55406
+//Always Turn 2
+patch=1,EE,D03A3108,extended,00000002
+patch=1,EE,103A3108,extended,00000001
+
+//Shuji Kamiyama Codes
+
+//Max Level
+patch=1,EE,102EF544,extended,0000001E
+
+//Body
+patch=1,EE,102EF5E0,extended,000001F4
+
+//Left Arm
+patch=1,EE,102EF5E8,extended,000001F4
+
+//Right Arm
+patch=1,EE,102EF5E4,extended,000001F4
+
+//Legs
+patch=1,EE,102EF5EC,extended,000001F4
+
+//Max Move
+patch=1,EE,102EF5F0,extended,000000FF
+
+//Weight
+patch=1,EE,102EF5F8,extended,00000004
+
+//Yuso Tokunaga Codes
+
+//Max Level
+patch=1,EE,102EF6F4,extended,0000001E
+
+//Body
+patch=1,EE,102EF790,extended,000001F4
+
+//Left Arm
+patch=1,EE,102EF798,extended,000001F4
+
+//Right Arm
+patch=1,EE,102EF794,extended,000001F4
+
+//Legs
+patch=1,EE,102EF79C,extended,000001F4
+
+//Max Move
+patch=1,EE,102EF7A0,extended,000000FF
+
+//Kasumi Jonouchi Codes
+
+//Max Level
+patch=1,EE,102EF61C,extended,0000001E
+
+//Body
+patch=1,EE,102EF6B8,extended,000001F4
+
+//Left Arm
+patch=1,EE,102EF6C0,extended,000001F4
+
+//Right Arm
+patch=1,EE,102EF6BC,extended,000001F4
+
+//Legs
+patch=1,EE,102EF6C4,extended,000001F4
+
+//Max Move
+patch=1,EE,102EF6C8,extended,000000FF
+
+//Yoko Nakatani Codes
+
+//Max Level
+patch=1,EE,102EF7CC,extended,0000001E
+
+//Left Arm
+patch=1,EE,102EF870,extended,000001F4
+
+//Right Arm
+patch=1,EE,102EF86C,extended,000001F4
+
+//Legs
+patch=1,EE,102EF874,extended,000001F4
+
+//Body
+patch=1,EE,102EF868,extended,000001F4
+
+//Max Move
+patch=1,EE,102EF878,extended,000000FF
+
+//Naoki Mori Codes
+
+//Max Level
+patch=1,EE,102EF97C,extended,0000001E
+
+//Body
+patch=1,EE,102EFA18,extended,000001F4
+
+//Left Arm
+patch=1,EE,102EFA20,extended,000001F4
+
+//Right Arm
+patch=1,EE,102EFA1C,extended,000001F4
+
+//Legs
+patch=1,EE,102EFA24,extended,000001F4
+
+//Max Move
+patch=1,EE,102EFA28,extended,000000FF
+
+//Akira Kawashima Codes
+
+//Max Level
+patch=1,EE,102EF8A4,extended,0000001E
+
+//Body
+patch=1,EE,102EF940,extended,000001F4
+
+//Left Arm
+patch=1,EE,102EF948,extended,000001F4
+
+//Right Arm
+patch=1,EE,102EF944,extended,000001F4
+
+//Legs
+patch=1,EE,102EF94C,extended,000001F4
+
+//Max Move
+patch=1,EE,102EF950,extended,000001F4
+
+//Masami Honda Codes
+
+//Max Level
+patch=1,EE,102EFA54,extended,0000001E
+
+//Body
+patch=1,EE,102EFAF0,extended,000001F4
+
+//Left Arm
+patch=1,EE,102EFAF8,extended,000001F4
+
+//Right Arm
+patch=1,EE,102EFAF4,extended,000001F4
+
+//Legs
+patch=1,EE,102EFAFC,extended,000001F4
+
+//Max Move
+patch=1,EE,102EFB00,extended,000000FF
+
+//Kazuma Saeki Codes
+
+//Max Level
+patch=1,EE,102EFB2C,extended,0000001E
+
+//Body
+patch=1,EE,102EFBC8,extended,000001F4
+
+//Left Arm
+patch=1,EE,102EFBD0,extended,000001F4
+
+//Right Arm
+patch=1,EE,102EFBCC,extended,000001F4
+
+//Legs
+patch=1,EE,102EFBD4,extended,000001F4
+
+//Max Move
+patch=1,EE,102EFBD8,extended,000000FF
+

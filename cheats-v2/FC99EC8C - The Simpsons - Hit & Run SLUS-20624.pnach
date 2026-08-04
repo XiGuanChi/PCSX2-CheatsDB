@@ -1,0 +1,13 @@
+gametitle=The Simpsons - Hit & Run SLUS-20624
+//Have All Levels Complete
+patch=1,EE,005E6CF0,extended,00000006
+patch=1,EE,005E6CF4,extended,00000006
+
+//Infinite Coins
+patch=1,EE,105E6CFC,extended,000003E7
+
+//Stop All Timers
+patch=1,EE,20173B5C,extended,00000000
+
+//Cars Takes No Damage
+patch=1,EE,202899BC,extended,00000000

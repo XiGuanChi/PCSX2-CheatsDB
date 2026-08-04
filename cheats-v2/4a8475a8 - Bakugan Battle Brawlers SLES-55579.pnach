@@ -1,0 +1,18 @@
+gametitle=Bakugan Battle Brawlers SLES-55579
+//500.000 BP
+patch=1,EE,00DAEFC0,extended,00000001
+
+//Max Points
+patch=1,EE,20282c3c,extended,ac612e44
+
+//Juggernoid Max. Upgrade
+patch=1,EE,00BDEC98,extended,00000001
+
+//Saurus Max. Upgrade
+patch=1,EE,00BDED88,extended,00000001
+
+//Serpenoid Max. Upgrade
+patch=1,EE,00BDEE00,extended,00000001
+
+//Leonidas Max. Upgrade
+patch=1,EE,00BDF760,extended,00000001

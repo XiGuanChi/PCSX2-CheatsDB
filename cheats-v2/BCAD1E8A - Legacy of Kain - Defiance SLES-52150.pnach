@@ -1,0 +1,36 @@
+gametitle=Legacy of Kain - Defiance SLES-52150
+//Invincible
+patch=1,EE,0033B0A6,extended,00000010
+
+//Shift Realm Anywhere
+patch=1,EE,201FCF60,extended,24020001
+
+//All Reavers
+patch=1,EE,002908E9,extended,000000FF
+patch=1,EE,002908EA,extended,000000FF
+patch=1,EE,002908ED,extended,000000FF
+patch=1,EE,002908EE,extended,000000FF
+
+//Infinite Charge Use
+patch=1,EE,20204144,extended,2402FFFF
+
+//Max Health
+patch=1,EE,2023E6AC,extended,24030004
+patch=1,EE,2023E6B8,extended,A44303A4
+
+//Max Mana
+patch=1,EE,2023E218,extended,24010008
+patch=1,EE,2023E230,extended,00411021
+patch=1,EE,2023E224,extended,A46103BA
+
+//Infinite Mana
+patch=1,EE,20204438,extended,E60105D8
+
+//All Abilities Available
+patch=1,EE,2023F148,extended,2402FFFF
+patch=1,EE,2023F14C,extended,AC8200A0
+
+//R1+R2+L1+L2 Watch The Ending This Will Unlock All Tomes, Levels and Extras
+patch=1,EE,D0726E9C,extended,0000F0FF
+patch=1,EE,2033B14C,extended,FFFFFFFF
+

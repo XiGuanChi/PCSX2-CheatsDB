@@ -1,0 +1,6 @@
+gametitle=Beat Down - Fists of Vengeance SLUS-21150
+//Infinite Health
+patch=1,EE,106D3F8C,extended,0000270F
+
+//Infinite Money
+patch=1,EE,2060D3A0,extended,05F5E0FF

@@ -1,0 +1,18 @@
+gametitle=Medal of Honor - Europa Kyoushuu SLPM-66079
+//Infinite Health
+patch=1,EE,201D9B4C,extended,46006306
+
+//Infinite Ammo and grenades
+patch=1,EE,2019A5A0,extended,00401021
+
+//Infinite medical kit
+patch=1,EE,201D0964,extended,00802023
+
+//Infinite recoverable count
+patch=1,EE,201E7728,extended,00802023
+
+//Infinite adrenaline meter ON in START + R1 button · OFF with START + L1 button
+patch=1,EE,D05FE502,extended,0000FBF7
+patch=1,EE,201E6338,extended,46000841
+patch=1,EE,D05FE502,extended,0000F7F7
+patch=1,EE,201E6338,extended,46020841

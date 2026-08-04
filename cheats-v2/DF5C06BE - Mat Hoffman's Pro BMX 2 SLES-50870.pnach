@@ -1,0 +1,404 @@
+gametitle=Mat Hoffman's Pro BMX 2 SLES-50870
+//Freeze Timer
+patch=1,EE,200FFF20,extended,3C014480
+patch=1,EE,200FFF24,extended,AC410134
+patch=1,EE,2016CE10,extended,0803FFC8
+patch=1,EE,200FFF28,extended,0805B389
+
+//Max Score
+patch=1,EE,201661F0,extended,3C020505
+
+//Have Mime
+patch=1,EE,208D1BF4,extended,00000001
+
+//Have Vanessa
+patch=1,EE,208D1BEC,extended,00000001
+
+//Have Volcano
+patch=1,EE,208D1C08,extended,00000001
+
+//Have Bigfoot
+patch=1,EE,208D1C18,extended,00000001
+
+//Have Day Smith
+patch=1,EE,208D1C00,extended,00000001
+
+//Unlock Videos...
+
+//Mat-1
+patch=1,EE,208D1C6C,extended,00000001
+
+//Mat-2
+patch=1,EE,208D1C70,extended,00000001
+
+//Mat-3
+patch=1,EE,208D1C74,extended,00000001
+
+//Mat-4
+patch=1,EE,208D1C78,extended,00000001
+
+//Mat-5
+patch=1,EE,208D1C7C,extended,00000001
+
+//Mat-6
+patch=1,EE,208D1C80,extended,00000001
+
+//Mat-7
+patch=1,EE,208D1C84,extended,00000001
+
+//Mat-8
+patch=1,EE,208D1C88,extended,00000001
+
+//Mat-9
+patch=1,EE,208D1C8C,extended,00000001
+
+//Joe-1
+patch=1,EE,208D1C90,extended,00000001
+
+//Joe-2
+patch=1,EE,208D1C94,extended,00000001
+
+//Joe-3
+patch=1,EE,208D1C98,extended,00000001
+
+//Joe-4
+patch=1,EE,208D1C9C,extended,00000001
+
+//Joe-5
+patch=1,EE,208D1CA0,extended,00000001
+
+//Joe-6
+patch=1,EE,208D1CA4,extended,00000001
+
+//Joe-7
+patch=1,EE,208D1CA8,extended,00000001
+
+//Joe-8
+patch=1,EE,208D1CAC,extended,00000001
+
+//Joe-9
+patch=1,EE,208D1CB0,extended,00000001
+
+//Rick-1
+patch=1,EE,208D1CB4,extended,00000001
+
+//Rick-2
+patch=1,EE,208D1CB8,extended,00000001
+
+//Rick-3
+patch=1,EE,208D1CBC,extended,00000001
+
+//Rick-4
+patch=1,EE,208D1CC0,extended,00000001
+
+//Rick-5
+patch=1,EE,208D1CC4,extended,00000001
+
+//Rick-6
+patch=1,EE,208D1CC8,extended,00000001
+
+//Rick-7
+patch=1,EE,208D1CCC,extended,00000001
+
+//Rick-8
+patch=1,EE,208D1CD0,extended,00000001
+
+//Rick-9
+patch=1,EE,208D1CD4,extended,00000001
+
+//Mike-1
+patch=1,EE,208D1CD8,extended,00000001
+
+//Mike-2
+patch=1,EE,208D1CDC,extended,00000001
+
+//Mike-3
+patch=1,EE,208D1CE0,extended,00000001
+
+//Mike-4
+patch=1,EE,208D1CE4,extended,00000001
+
+//Mike-5
+patch=1,EE,208D1CE8,extended,00000001
+
+//Mike-6
+patch=1,EE,208D1CEC,extended,00000001
+
+//Mike-7
+patch=1,EE,208D1CF0,extended,00000001
+
+//Mike-8
+patch=1,EE,208D1CF4,extended,00000001
+
+//Mike-9
+patch=1,EE,208D1CF8,extended,00000001
+
+//Simon-1
+patch=1,EE,208D1CFC,extended,00000001
+
+//Simon-2
+patch=1,EE,208D1D00,extended,00000001
+
+//Simon-3
+patch=1,EE,208D1D04,extended,00000001
+
+//Free Ride - Session Codes These codes work for all levels Chicago Unlocked
+patch=1,EE,208D1C50,extended,00000001
+//LA Unlocked
+patch=1,EE,208D1C54,extended,00000001
+//Las Vegas Unlocked
+patch=1,EE,208D1C58,extended,00000001
+//New Orleans Unlocked
+patch=1,EE,208D1C5C,extended,00000001
+//Portland Unlocked
+patch=1,EE,208D1C60,extended,00000001
+//Boston Unlocked
+patch=1,EE,208D1C64,extended,00000001
+//Tiki Park Unlocked
+patch=1,EE,208D1C68,extended,00000001
+//Road Trip Codes
+//These codes work for all levels
+//Chicago Unlocked
+patch=1,EE,208D2554,extended,00000001
+//LA Unlocked
+patch=1,EE,208D2558,extended,00000001
+//Las Vegas Unlocked
+patch=1,EE,208D255C,extended,00000001
+//New Orleans Unlocked
+patch=1,EE,208D2560,extended,00000001
+//Portland Unlocked
+patch=1,EE,208D2564,extended,00000001
+//Boston Unlocked
+patch=1,EE,208D2568,extended,00000001
+//Tikki Park Unlocked
+patch=1,EE,208D256C,extended,00000001
+
+//Simon-4
+patch=1,EE,208D1D08,extended,00000001
+
+//Simon-5
+patch=1,EE,208D1D0C,extended,00000001
+
+//Simon-6
+patch=1,EE,208D1D10,extended,00000001
+
+//Simon-7
+patch=1,EE,208D1D14,extended,00000001
+
+//Simon-8
+patch=1,EE,208D1D18,extended,00000001
+
+//Simon-9
+patch=1,EE,208D1D1C,extended,00000001
+
+//Kevin-1
+patch=1,EE,208D1D20,extended,00000001
+
+//Kevin-2
+patch=1,EE,208D1D24,extended,00000001
+
+//Kevin-3
+patch=1,EE,208D1D28,extended,00000001
+
+//Kevin-4
+patch=1,EE,208D1D2C,extended,00000001
+
+//Kevin-5
+patch=1,EE,208D1D30,extended,00000001
+
+//Kevin-6
+patch=1,EE,208D1D34,extended,00000001
+
+//Kevin-7
+
+//Kevin-8
+patch=1,EE,208D1D3C,extended,00000001
+
+//Kevin-9
+patch=1,EE,208D1D40,extended,00000001
+
+//Corky-1
+patch=1,EE,208D1D44,extended,00000001
+
+//Corky-2
+patch=1,EE,208D1D48,extended,00000001
+
+//Corky-3
+patch=1,EE,208D1D4C,extended,00000001
+
+//Corky-4
+patch=1,EE,208D1D50,extended,00000001
+
+//Corky-5
+patch=1,EE,208D1D54,extended,00000001
+
+//Corky-6
+patch=1,EE,208D1D58,extended,00000001
+
+//Corky-7
+patch=1,EE,208D1D5C,extended,00000001
+
+//Corky-8
+patch=1,EE,208D1D60,extended,00000001
+
+//Corky-9
+patch=1,EE,208D1D64,extended,00000001
+
+//Rubens-1
+patch=1,EE,208D1D68,extended,00000001
+
+//Rubens-2
+patch=1,EE,208D1D6C,extended,00000001
+
+//Rubens-3
+patch=1,EE,208D1D70,extended,00000001
+
+//Rubens-4
+patch=1,EE,208D1D74,extended,00000001
+
+//Rubens-5
+patch=1,EE,208D1D78,extended,00000001
+
+//Rubens-6
+patch=1,EE,208D1D7C,extended,00000001
+
+//Rubens-7
+patch=1,EE,208D1D80,extended,00000001
+
+//Rubens-8
+patch=1,EE,208D1D84,extended,00000001
+
+//Rubens-9
+patch=1,EE,208D1D88,extended,00000001
+
+//Seth-1
+patch=1,EE,208D1D8C,extended,00000001
+
+//Seth-2
+patch=1,EE,208D1D90,extended,00000001
+
+//Seth-3
+patch=1,EE,208D1D94,extended,00000001
+
+//Seth-4
+patch=1,EE,208D1D98,extended,00000001
+
+//Seth-5
+patch=1,EE,208D1D9C,extended,00000001
+
+//Seth-6
+patch=1,EE,208D1DA0,extended,00000001
+
+//Seth-7
+patch=1,EE,208D1DA4,extended,00000001
+
+//Seth-8
+patch=1,EE,208D1DA8,extended,00000001
+
+//Seth-9
+patch=1,EE,208D1DAC,extended,00000001
+
+//Nate-1
+patch=1,EE,208D1DB0,extended,00000001
+
+//Nate-2
+patch=1,EE,208D1DB4,extended,00000001
+
+//Nate-3
+patch=1,EE,208D1DB8,extended,00000001
+
+//Nate-4
+patch=1,EE,208D1DBC,extended,00000001
+
+//Nate-5
+patch=1,EE,208D1DC0,extended,00000001
+
+//Nate-6
+patch=1,EE,208D1DC4,extended,00000001
+
+//Nate-7
+patch=1,EE,208D1DC8,extended,00000001
+
+//Nate-8
+patch=1,EE,208D1DCC,extended,00000001
+
+//Nate-9
+patch=1,EE,208D1DD0,extended,00000001
+
+//Unlock Music...
+
+//Freestyler
+patch=1,EE,208D1C24,extended,00000001
+
+//Damaged Goods
+patch=1,EE,208D1C28,extended,00000001
+
+//Reckless
+patch=1,EE,208D1C2C,extended,00000001
+
+//Boot The Booty
+patch=1,EE,208D1C30,extended,00000001
+
+//Forwrad Nation
+patch=1,EE,208D1C34,extended,00000001
+
+//Rock Star
+patch=1,EE,208D1C38,extended,00000001
+
+//All A Dream
+patch=1,EE,208D1C3C,extended,00000001
+
+//All Levels - Free Ride/Session
+
+//Chicago Unlocked
+patch=1,EE,208D1C50,extended,00000001
+
+//LA Unlocked
+patch=1,EE,208D1C54,extended,00000001
+
+//Las Vegas Unlocked
+patch=1,EE,208D1C58,extended,00000001
+
+//New Orleans Unlocked
+patch=1,EE,208D1C5C,extended,00000001
+
+//Portland Unlocked
+patch=1,EE,208D1C60,extended,00000001
+
+//Boston Unlocked
+patch=1,EE,208D1C64,extended,00000001
+
+//Tiki Park Unlocked
+patch=1,EE,208D1C68,extended,00000001
+
+//All Levels-Road Trip
+
+//Chicago Unlocked
+patch=1,EE,208D2554,extended,00000001
+
+//LA Unlocked
+patch=1,EE,208D2558,extended,00000001
+
+//Las Vegas Unlocked
+patch=1,EE,208D255C,extended,00000001
+
+//New Orleans Unlocked
+patch=1,EE,208D2560,extended,00000001
+
+//Portland Unlocked
+patch=1,EE,208D2564,extended,00000001
+
+//Boston Unlocked
+patch=1,EE,208D2568,extended,00000001
+
+//Tikki Park Unlocked
+patch=1,EE,208D256C,extended,00000001
+
+//Mat Hoffman All Costumes
+patch=1,EE,208D2588,extended,00000001
+patch=1,EE,208D2584,extended,00000001
+
+//Matt Hoffman All Bikes
+patch=1,EE,208D2578,extended,00000001
+patch=1,EE,208D2574,extended,00000001
+

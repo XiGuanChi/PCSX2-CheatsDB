@@ -1,0 +1,228 @@
+gametitle=Top Angler SLES-50861
+//Always 6:00AM - Tournament
+patch=1,EE,201D70E4,extended,0013D000
+
+//Inf Time - Arcade/Challenge
+patch=1,EE,201D70E8,extended,00002A60
+
+//Unlock Big Swim Lure
+patch=1,EE,1026F87C,extended,00000001
+
+//Unlock Buzz Bait Lure
+patch=1,EE,1026F87E,extended,00000001
+
+//Unlock Double Swisher Lure
+patch=1,EE,1026F886,extended,00000001
+
+//Unlock Frog Lure
+patch=1,EE,1026F888,extended,00000001
+
+//Unlock Noisy Lure
+patch=1,EE,1026F894,extended,00000001
+
+//Unlock Pencil Bait Lure
+patch=1,EE,1026F898,extended,00000001
+
+//Unlock Popper Lure
+patch=1,EE,1026F89A,extended,00000001
+
+//Unlock Swisher Lure
+patch=1,EE,1026F8B6,extended,00000001
+
+//Unlock Shallow Crank Lure
+patch=1,EE,1026F884,extended,00000001
+
+//Unlock Floating Minnow Lure
+patch=1,EE,1026F88E,extended,00000001
+
+//Unlock Suspend Minnow Lure
+patch=1,EE,1026F890,extended,00000001
+
+//Unlock Paddle Tail Lure
+patch=1,EE,1026F896,extended,00000001
+
+//Unlock Shad Plug Lure
+patch=1,EE,1026F8A2,extended,00000001
+
+//Unlock Suspend Shad Plug Lure
+patch=1,EE,1026F8A4,extended,00000001
+
+//Unlock Spinner Bait B Lure
+patch=1,EE,1026F8AC,extended,00000001
+
+//Unlock Straight Tail Lure
+patch=1,EE,1026F8B2,extended,00000001
+
+//Unlock Hand Made Lure
+patch=1,EE,1026F8B4,extended,00000001
+
+//Unlock Vibration Lure
+patch=1,EE,1026F8BA,extended,00000001
+
+//Unlock Deep Crank Lure
+patch=1,EE,1026F882,extended,00000001
+
+//Unlock Curly Tail Lure
+patch=1,EE,1026F88A,extended,00000001
+
+//Unlock Sinking Minnow Lure
+patch=1,EE,1026F892,extended,00000001
+
+//Unlock Spinner Bait A Lure
+patch=1,EE,1026F8AA,extended,00000001
+
+//Unlock Stick Bait Lure
+patch=1,EE,1026F8B0,extended,00000001
+
+//Unlock Tube Lure
+patch=1,EE,1026F8B8,extended,00000001
+
+//Unlock Cray Fish Lure
+patch=1,EE,1026F880,extended,00000001
+
+//Unlock Metal Jig Lure
+patch=1,EE,1026F88C,extended,00000001
+
+//Unlock Rubber Jig & Pork Lure
+patch=1,EE,1026F89C,extended,00000001
+
+//Unlock Lizard Lure
+patch=1,EE,1026F89E,extended,00000001
+
+//Unlock Rubber Jig Lure
+patch=1,EE,1026F820,extended,00000001
+
+//Unlock Shad Tail Lure
+patch=1,EE,1026F8A6,extended,00000001
+
+//Unlock Spinner Lure
+patch=1,EE,1026F8A8,extended,00000001
+
+//Unlock Spoon Lure
+patch=1,EE,1026F8AE,extended,00000001
+
+//Inf Big Swim Lure
+patch=1,EE,1026F800,extended,00000003
+
+//Inf Buzz Bait Lure
+patch=1,EE,1026F800,extended,00000003
+patch=1,EE,1026F840,extended,00000003
+
+//Inf Double Swisher Lure
+patch=1,EE,1026F80A,extended,00000003
+patch=1,EE,1026F848,extended,00000003
+
+//Inf Frog Lure
+patch=1,EE,1026F80C,extended,00000003
+patch=1,EE,1026F84A,extended,00000003
+
+//Inf Noisy Lure
+patch=1,EE,1026F818,extended,00000003
+patch=1,EE,1026F856,extended,00000003
+
+//Inf Pencil Bait Lure
+patch=1,EE,1026F81C,extended,00000003
+patch=1,EE,1026F85A,extended,00000003
+
+//Inf Popper Lure
+patch=1,EE,1026F81E,extended,00000003
+patch=1,EE,1026F85C,extended,00000003
+
+//Inf Swisher Lure
+patch=1,EE,1026F83A,extended,00000003
+patch=1,EE,1026F876,extended,00000003
+
+//Inf Shallow Crank Lure
+patch=1,EE,1026F808,extended,00000003
+patch=1,EE,1026F846,extended,00000003
+
+//Inf Floating Minnow Lure
+patch=1,EE,1026F812,extended,00000003
+patch=1,EE,1026F850,extended,00000003
+
+//Inf Suspend Minnow Lure
+patch=1,EE,1026F814,extended,00000003
+patch=1,EE,1026F852,extended,00000003
+
+//Inf Paddle Tail Lure
+patch=1,EE,1026F81A,extended,00000003
+patch=1,EE,1026F858,extended,00000003
+
+//Inf Shad Plug Lure
+patch=1,EE,1026F826,extended,00000003
+patch=1,EE,1026F864,extended,00000003
+
+//Inf Suspend Shad Plug Lure
+patch=1,EE,1026F828,extended,00000003
+patch=1,EE,1026F866,extended,00000003
+
+//Inf Spinner Bait B Lure
+patch=1,EE,1026F830,extended,00000003
+patch=1,EE,1026F86E,extended,00000003
+
+//Inf Straight Tail Lure
+patch=1,EE,1026F836,extended,00000003
+patch=1,EE,1026F874,extended,00000003
+
+//Inf Hand Made Lure
+patch=1,EE,1026F838,extended,00000003
+
+//Inf Vibration Lure
+patch=1,EE,1026F83E,extended,00000003
+patch=1,EE,1026F87A,extended,00000003
+
+//Inf Deep Crank Lure
+patch=1,EE,1026F806,extended,00000003
+patch=1,EE,1026F844,extended,00000003
+
+//Inf Curly Tail Lure
+patch=1,EE,1026F80E,extended,00000003
+patch=1,EE,1026F84C,extended,00000003
+
+//Inf Sinking Minnow Lure
+patch=1,EE,1026F816,extended,00000003
+patch=1,EE,1026F854,extended,00000003
+
+//Inf Spinner Bait A Lure
+patch=1,EE,1026F82E,extended,00000003
+patch=1,EE,1026F86C,extended,00000003
+
+//Inf Stick Bait Lure
+patch=1,EE,1026F834,extended,00000003
+patch=1,EE,1026F872,extended,00000003
+
+//Inf Tube Lure
+patch=1,EE,1026F83C,extended,00000003
+patch=1,EE,1026F878,extended,00000003
+
+//Inf Cray Fish Lure
+patch=1,EE,1026F804,extended,00000003
+patch=1,EE,1026F842,extended,00000003
+
+//Inf Metal Jig Lure
+patch=1,EE,1026F810,extended,00000003
+patch=1,EE,1026F84E,extended,00000003
+
+//Inf Rubber Jig & Pork Lure
+patch=1,EE,1026F820,extended,00000003
+patch=1,EE,1026F85E,extended,00000003
+
+//Inf Lizard Lure
+patch=1,EE,1026F822,extended,00000003
+patch=1,EE,1026F860,extended,00000003
+
+//Inf Rubber Jig Lure
+patch=1,EE,1026F824,extended,00000003
+patch=1,EE,1026F860,extended,00000003
+
+//Inf Shad Tail Lure
+patch=1,EE,1026F82A,extended,00000003
+patch=1,EE,1026F868,extended,00000003
+
+//Inf Spinner Lure
+patch=1,EE,1026F82C,extended,00000003
+patch=1,EE,1026F86A,extended,00000003
+
+//Inf Spoon Lure
+patch=1,EE,1026F832,extended,00000003
+patch=1,EE,1026F870,extended,00000003

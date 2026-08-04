@@ -1,0 +1,83 @@
+gametitle=Sacred Blaze SLPS-25917
+//Infinite & Max HP Main Character (Girl)
+patch=1,EE,203CBE20,extended,4B10F8C0
+patch=1,EE,203CBE1C,extended,4B10F8C0
+
+//Not reduce money in hand
+patch=1,EE,D0253E48,extended,00009680
+patch=1,EE,20253E4C,extended,00000000
+
+//Rewards Experience Points 100
+patch=1,EE,D02B4346,extended,0000AE23
+patch=1,EE,202B4344,extended,AE250028
+
+//Maximum faith in each region increases
+patch=1,EE,D024A516,extended,00001420
+patch=1,EE,2024A514,extended,00000000
+
+//Growth policy all selectable (save reflect)
+patch=1,EE,E0055060,extended,00253086
+patch=1,EE,20253084,extended,10600006
+patch=1,EE,20253088,extended,0060082D
+patch=1,EE,20253098,extended,00431025
+patch=1,EE,2025309C,extended,FC220000
+patch=1,EE,202530A4,extended,24020001
+
+//Maximum HP
+patch=1,EE,200F70EC,extended,E480003C
+
+//Status maximum of characters to new enrollment or to Lvup FAITH 999
+patch=1,EE,D023B63A,extended,00004503
+patch=1,EE,2023B638,extended,00000000
+
+//Maximum HP 999 New members
+patch=1,EE,D023B63A,extended,00004503
+patch=1,EE,2023B65C,extended,00000000
+
+//Instant Win Press Start
+patch=1,EE,D020810C,extended,00000008
+patch=1,EE,20237688,extended,24020002
+patch=1,EE,20237688,extended,0240102D
+patch=1,EE,2024A888,extended,24020001
+
+//Max Money(Press L3)
+patch=1,EE,D0208002,extended,0000FFFD
+patch=1,EE,203DF87C,extended,0098967F
+
+//Hiring 0 + Recovery 999
+patch=1,EE,00808424,extended,00000000
+patch=1,EE,10808430,extended,000003E7
+
+//SP 0 + AT 999
+patch=1,EE,007FB0E0,extended,00000000
+patch=1,EE,107FB0EC,extended,000003E7
+
+//Her
+//Lv 50
+patch=1,EE,003CBE10,extended,00000032
+
+//Exp 100
+patch=1,EE,103CBE14,extended,00000064
+
+//Max HP
+patch=1,EE,203CBE1C,extended,4479C000
+
+//Max Current HP
+patch=1,EE,203CBE20,extended,4479C000
+
+//Max SP
+patch=1,EE,203CBE24,extended,4479C000
+
+//Max Current SP
+patch=1,EE,203CBE28,extended,4479C000
+
+//Inf. Move for Character in battle
+patch=1,EE,D029830C,extended,00000741
+patch=1,EE,20298310,extended,24030001
+patch=1,EE,D029830C,extended,00000741
+patch=1,EE,20298314,extended,A0830741
+
+//Monster Encyclopedia Unlock
+patch=1,EE,403E2E58,extended,00240001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,103E2EE8,extended,0000FFFF

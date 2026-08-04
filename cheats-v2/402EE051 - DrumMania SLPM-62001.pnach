@@ -1,0 +1,9 @@
+gametitle=DrumMania SLPM-62001
+//Max gauge 
+patch=1,EE,10B50B60,extended,00002710
+
+//It is not a mistake without having to press a button Code
+patch=1,EE,20235804,extended,1000003B
+
+//Free mode song appearance condition change
+patch=1,EE,202267B8,extended,200300FF

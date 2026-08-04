@@ -1,0 +1,17 @@
+gametitle=NCAA Football '11 SLUS-21932
+//Create-A-Player Codes
+//Max 99 Create-A-Player Stats
+patch=1,EE,406DC570,extended,00120001
+patch=1,EE,0000001F,extended,00000000
+
+//99 Overall Create-A-Player
+patch=1,EE,206DC568,extended,0000001F
+
+//Campus Legend
+//40 Yard Dash
+patch=1,EE,201CBDB0,extended,AE010004
+patch=1,EE,201CBDB4,extended,3C013FC0
+patch=1,EE,201CBDB8,extended,34210000
+
+//Infinite Create Player Bonus Points
+patch=1,EE,2066C164,extended,00000031

@@ -1,0 +1,34 @@
+gametitle=Galaxy Angel II - Zettairyouiki no Tobira SLPM-66243
+//inf HP
+patch=1,EE,2017DBA4,extended,8E2201CC
+patch=1,EE,2017DBAC,extended,AE2201D0
+
+//inf EN
+patch=1,EE,2017DB88,extended,8E2201D8
+patch=1,EE,2017DB8C,extended,AE2201DC
+
+//Max SP once increase
+patch=1,EE,20162974,extended,24422710
+
+//HP maximum maintenance
+patch=1,EE,200F8018,extended,8E2101CC
+patch=1,EE,200F801C,extended,AE2101D0
+
+//EN maximum maintenance
+patch=1,EE,200F8020,extended,8E2101D8
+patch=1,EE,200F8024,extended,AE2101DC
+
+//SP maximum maintenance
+patch=1,EE,200F8028,extended,8E2101E4
+patch=1,EE,200F802C,extended,AE2101E8
+
+//Extra mode fully open
+patch=1,EE,208F0EA4,extended,FFFFFFFF
+patch=1,EE,208F0EA8,extended,FFFFFFFF
+patch=1,EE,208F0EAC,extended,FFFFFFFF
+patch=1,EE,208F0EB0,extended,FFFFFFFF
+patch=1,EE,208F0EB4,extended,FFFFFFFF
+patch=1,EE,208F0EB8,extended,FFFFFFFF
+patch=1,EE,208F0EC8,extended,FFFFFFFF
+patch=1,EE,208F0ECC,extended,FFFFFFFF
+patch=1,EE,208F0ED0,extended,FFFFFFFF

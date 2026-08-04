@@ -1,0 +1,12 @@
+gametitle= Ty - The Tasmanian Tiger SLUS-20571
+//Always Able To Exit Level
+patch=1,EE,20DBD284,extended,00000001
+
+//Infinite Lives
+patch=1,EE,209A19E8,extended,00000005
+
+//Infinite Health
+patch=1,EE,1046997C,extended,00000004
+
+//Unlock Extras Movies
+patch=1,EE,209A8EA0,extended,00000001

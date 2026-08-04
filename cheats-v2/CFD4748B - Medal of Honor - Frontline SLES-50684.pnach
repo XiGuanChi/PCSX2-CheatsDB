@@ -1,0 +1,29 @@
+gametitle=Medal of Honor - Frontline SLES-50684
+//infiniteHealth
+patch=1,EE,00241660,extended,00000001
+
+//infiniteAmmo
+patch=1,EE,00241664,extended,00000001
+
+//Unlock All Levels
+patch=1,EE,1024015C,extended,0000FFFF
+patch=1,EE,0024015E,extended,000000FF
+
+//All Bonuses-R1+L1+R2+L2+Sel
+patch=1,EE,D033D382,extended,0000F0FE
+patch=1,EE,1024014C,extended,00005555
+patch=1,EE,D033D382,extended,0000F0FE
+patch=1,EE,0024014E,extended,00000005
+
+//Unlock FMV Codes Unlock D-Day
+patch=1,EE,00242F1B,extended,00000001
+//Unlock Needle In A Haystack
+patch=1,EE,00242F13,extended,00000001
+//Unlock The Northen Nest
+patch=1,EE,00242F19,extended,00000001
+//Unlock Rolling Thunder
+patch=1,EE,00242F17,extended,00000001
+//Unlock Several Bridges...
+patch=1,EE,00242F15,extended,00000001
+//Unlock A Storm In...
+patch=1,EE,00242F11,extended,00000001

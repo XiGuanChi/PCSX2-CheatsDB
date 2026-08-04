@@ -1,0 +1,79 @@
+gametitle=Bokujou Monogatari - Oh! Wonderful Life SLPS-25431
+//Possession money 10 million G
+patch=1,EE,214ADFE8,extended,00989680
+// 
+//Don't get hungry
+patch=1,EE,214AE164,extended,00149970
+// 
+//never tired
+patch=1,EE,214AE154,extended,000186A0
+patch=1,EE,214AE170,extended,0001869F
+// 
+//Increased sleep tolerance
+patch=1,EE,214AE274,extended,3B9AC9FF
+patch=1,EE,214AE27C,extended,3B9AC9FF
+patch=1,EE,214AE284,extended,3B9AC9FF
+patch=1,EE,214AE28C,extended,3B9AC9FF
+patch=1,EE,214AE294,extended,3B9AC9FF
+// 
+//Sheep & goat, stress 0 & maximum mood
+patch=1,EE,20257A44,extended,AC600000
+patch=1,EE,20257A48,extended,3C020098
+patch=1,EE,20257A4C,extended,AC62FFF4
+patch=1,EE,20257A50,extended,AC62FFE8
+patch=1,EE,20257A5C,extended,24020000
+// 
+//No stress & maximum mood
+patch=1,EE,2026E1A4,extended,AC600000
+patch=1,EE,2026E1A8,extended,3C020098
+patch=1,EE,2026E1AC,extended,AC62FFF4
+patch=1,EE,2026E1B0,extended,AC62FFE8
+patch=1,EE,2026E1BC,extended,24020000
+// 
+//Horse, stress 0 & maximum mood
+patch=1,EE,202514D4,extended,AC600000
+patch=1,EE,202514D8,extended,3C020098
+patch=1,EE,202514DC,extended,AC62FFD0
+patch=1,EE,202514EC,extended,24020000
+// 
+//Chicken, stress 0 & maximum mood
+patch=1,EE,20263A80,extended,AC600000
+patch=1,EE,20263A84,extended,3C020098
+patch=1,EE,20263A88,extended,AC62FFF4
+patch=1,EE,20263A8C,extended,AC62000C
+patch=1,EE,20263A98,extended,24020000
+// 
+//Ranch, grass growing
+patch=1,EE,2024739C,extended,240101C2
+patch=1,EE,202473A0,extended,A4410004
+// 
+//Ranch, no grass
+patch=1,EE,2024739C,extended,A4400004
+patch=1,EE,202473A0,extended,24020000
+// 
+//Field, watered
+patch=1,EE,2023DB34,extended,2402270F
+// 
+//Field, fertilized
+patch=1,EE,2023DD14,extended,2402270F
+// 
+//Maximum skill in using farm tools
+patch=1,EE,214AE190,extended,0000C350
+patch=1,EE,214AE19C,extended,0000C350
+patch=1,EE,214AE1A8,extended,0000C350
+patch=1,EE,214AE1B4,extended,0000C350
+patch=1,EE,214AE1C0,extended,0000C350
+patch=1,EE,214AE1CC,extended,0000C350
+patch=1,EE,214AE1D8,extended,0000C350
+patch=1,EE,214AE1E4,extended,0000C350
+// 
+//Animal hut Kaiba stock 1000 pieces
+patch=1,EE,114BDB3C,extended,000003E8
+// 
+//The biggest dog of the first dog
+patch=1,EE,014B1434,extended,00000064
+// 
+//Maximum training for the first pet dog
+patch=1,EE,114B1466,extended,0000012C
+patch=1,EE,114B146A,extended,0000012C
+patch=1,EE,114B146E,extended,0000012C

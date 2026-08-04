@@ -1,0 +1,14 @@
+gametitle=Metal Saga - Sajin no Kusari SLPM-65868
+//Possession gold 
+patch=1,EE,207D0A64,extended,05F5E0FF
+
+//Possession gold maximum
+patch=1,EE,201763A8,extended,00602823
+
+//Maximum EXP
+patch=1,EE,207F86E4,extended,05F5E0FF
+patch=1,EE,201DE3C4,extended,24147FFF
+
+//Maximum HP
+patch=1,EE,207F86C8,extended,0000270F
+patch=1,EE,207F86CC,extended,0000270F

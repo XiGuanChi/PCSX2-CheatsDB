@@ -1,0 +1,18 @@
+gametitle=Karaoke Revolution Presents - American Idol Encore SLUS-21719
+//Always Max Crowd Meter
+patch=1,EE,20127698,extended,3C014000
+patch=1,EE,2012769C,extended,44810000
+patch=1,EE,20126B38,extended,00000000
+
+//Access All Locked Clothing
+patch=1,EE,2019EEDC,extended,00000000
+
+//Unlock All Clothing
+patch=1,EE,2019EEBC,extended,24020001
+patch=1,EE,2019EEC0,extended,AC82000C
+
+//Max Total Points
+patch=1,EE,20414028,extended,05F5E0FF
+
+//Have All Songs Completed
+patch=1,EE,20414088,extended,00000028

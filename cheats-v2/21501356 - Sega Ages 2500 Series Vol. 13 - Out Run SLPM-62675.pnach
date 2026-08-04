@@ -1,0 +1,20 @@
+gametitle=Sega Ages 2500 Series Vol. 13 - Out Run SLPM-62675
+//Infinite Time
+patch=1,EE,00672b72,extended,00000099
+
+//time After pressing the L3 + R3 button
+patch=1,EE,D0617082,extended,0000FFF9
+patch=1,EE,10672B72,extended,0000458C
+
+//Auto play After pressing the R1 + R2 button
+patch=1,EE,D0617082,extended,0000F5FF
+patch=1,EE,00672CC0,extended,00000001
+
+//Score 999999999
+patch=1,EE,20672B7C,extended,3B9AC9FF
+
+//Rival 9x
+patch=1,EE,001FCEA8,extended,00000009
+
+//Game ending pause menu After pressing RETURN TO TITLE
+patch=1,EE,00672BA9,extended,00000001

@@ -1,0 +1,20 @@
+gametitle=Max Payne 2 SLUS-20814
+//Infinite Health
+patch=1,EE,20365EEC,extended,3C02447A
+patch=1,EE,20365EF0,extended,AC8200DC
+
+//Infinite Bullet Time
+patch=1,EE,20295270,extended,00000000
+patch=1,EE,202955A0,extended,00000000
+
+//Never Reload
+patch=1,EE,203ED8B0,extended,00000000
+
+//1Hit Death's Enemies
+patch=1,EE,20385430,extended,AC8000DC
+
+//Infinite Item/Ammo Usage
+patch=1,EE,203EC190,extended,00000000
+
+//All Game Modes
+patch=1,EE,207B71F0,extended,01010101

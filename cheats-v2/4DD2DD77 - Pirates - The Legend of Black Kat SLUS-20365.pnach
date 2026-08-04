@@ -1,0 +1,24 @@
+gametitle=Pirates - The Legend of Black Kat SLUS-20365
+//Infinite Health
+patch=1,EE,20411CE4,extended,000000E1
+
+//Infinite Health Ship
+patch=1,EE,204159E8,extended,00000001
+
+//Max Special
+patch=1,EE,20411CC8,extended,3F800000
+
+//Max Special (Ship)
+patch=1,EE,204121E0,extended,3F800000
+
+//Max Wind (Ship)
+patch=1,EE,204121EC,extended,3F800000
+
+//Infinite Gold Doubloons
+patch=1,EE,20411D68,extended,0000FFFF
+
+//Have Skeleton Key
+patch=1,EE,20411DF0,extended,00000001
+
+//Scrapbook Completed
+patch=1,EE,203A41F0,extended,000000C8

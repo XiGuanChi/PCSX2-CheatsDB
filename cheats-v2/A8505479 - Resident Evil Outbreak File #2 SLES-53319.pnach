@@ -1,0 +1,46 @@
+gametitle=Resident Evil Outbreak File #2 SLES-53319
+//Infinite Health
+patch=1,EE,20538BD4,extended,42C80000
+patch=1,EE,204E66D0,extended,08FC08FC
+
+//Infinite Health 2
+patch=1,EE,2065F63C,extended,84820542
+patch=1,EE,2065F640,extended,A4820540
+
+//Max Infinite Ammo
+patch=1,EE,2061ACB8,extended,24020063
+
+//Virus Infect 0.00%
+patch=1,EE,206D765C,extended,AE200BC4
+
+//One Hit Kill
+patch=1,EE,206B122C,extended,A6620138
+
+//Immune to Zombie Attacks
+patch=1,EE,206D013C,extended,00000000
+
+//R3+L1 Infinite Time On
+patch=1,EE,D029AD9C,extended,0001FBFB
+patch=1,EE,20707910,extended,00000000
+
+//R3+L2 Infinite Time Off
+patch=1,EE,D029AD9C,extended,0001FEFB
+patch=1,EE,20707910,extended,A48300A8
+
+//All Levels Unlocked
+patch=1,EE,20342E4C,extended,FFFFFFFF
+
+//Gallery Purchased
+patch=1,EE,10342ECC,extended,0009FFFF
+
+//All Costumes Purchased
+patch=1,EE,10342EE0,extended,0005FFFF
+
+//All Movies Purchased
+patch=1,EE,10342EF4,extended,0009FFFF
+
+//All Sounds Purchased
+patch=1,EE,20342F08,extended,FFFFFFFF
+
+//All Extras Purchased
+patch=1,EE,20342F1C,extended,FFFFFFFF

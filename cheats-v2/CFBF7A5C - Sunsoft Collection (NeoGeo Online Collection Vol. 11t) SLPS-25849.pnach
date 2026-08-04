@@ -1,0 +1,54 @@
+gametitle=Sunsoft Collection (NeoGeo Online Collection Vol. 11t) SLPS-25849
+//Galaxy Fight
+
+//Inf Time
+patch=1,EE,10595D72,extended,0000FFDB
+
+//P1 Inf HP
+patch=1,EE,00595B5D,extended,000000FF
+
+//P1 No HP (P2 press START)
+patch=1,EE,D0685E02,extended,0000FFF7
+patch=1,EE,00595B5D,extended,00000000
+
+//P2 Inf HP
+patch=1,EE,00595C73,extended,000000FF
+
+//P2 No HP (P1 press START)
+patch=1,EE,D0685D02,extended,0000FFF7
+patch=1,EE,00595C73,extended,00000000
+
+//Waku Waku 7
+
+//Inf Time
+patch=1,EE,00595623,extended,0000009B
+
+//P1 Inf HP
+patch=1,EE,10594C6A,extended,0000FFE4
+
+//P1 Inf Power
+patch=1,EE,10594C76,extended,0000FFFF
+patch=1,EE,00594C78,extended,00000007
+
+//P1 No HP (P2 press START)
+patch=1,EE,D0685E02,extended,0000FFF7
+patch=1,EE,10594C6A,extended,00000000
+
+//P1 No Power
+patch=1,EE,10594C76,extended,00000000
+patch=1,EE,00594C78,extended,00000000
+
+//P2 Inf HP
+patch=1,EE,10594DAA,extended,0000FFE4
+
+//P2 Inf Power
+patch=1,EE,10594DB6,extended,0000FFFF
+patch=1,EE,00594DB8,extended,00000007
+
+//P2 No HP (P1 press START)
+patch=1,EE,D0685D02,extended,0000FFF7
+patch=1,EE,10594DAA,extended,00000000
+
+//P2 No Power
+patch=1,EE,10594DB6,extended,00000000
+patch=1,EE,00594DB8,extended,00000000

@@ -1,0 +1,29 @@
+gametitle=Rogue Galaxy SCES-54552
+//Infinite Gold
+patch=1,EE,205DE620,extended,000F423F
+
+//Jaster Infinite HP
+patch=1,EE,205E53A4,extended,000003E7
+patch=1,EE,2197E5D8,extended,000003E7
+
+//Encapuchado Infinite Hp
+patch=1,EE,205E79E4,extended,00000150
+
+//1 Hit Kill
+patch=1,EE,20473928,extended,00000001
+
+//Max HP/AP/STR/AIM/VIT
+patch=1,EE,203B6F00,extended,0803FFC0
+patch=1,EE,200FFF40,extended,080EDBC1
+patch=1,EE,200FFF44,extended,24020001
+patch=1,EE,200FFF00,extended,A690001C
+patch=1,EE,200FFF04,extended,A6900020
+patch=1,EE,200FFF08,extended,A6900018
+patch=1,EE,200FFF0C,extended,A6900024
+patch=1,EE,200FFF10,extended,A6900030
+patch=1,EE,200FFF18,extended,A6900030
+patch=1,EE,200FFF14,extended,A6900034
+
+//Max Hunter Points
+patch=1,EE,205DE640,extended,0098967F
+

@@ -1,0 +1,15 @@
+gametitle=Maximo SLPM-62127
+//Infinite Health
+patch=1,EE,102643A0,extended,00000010
+
+//Infinite Lives
+patch=1,EE,102643A8,extended,00000063
+
+//Infinite Sword Energy
+patch=1,EE,102643C4,extended,00000014
+
+//Have Gold Key
+patch=1,EE,102643CC,extended,00000001
+
+//Max Gold Koins
+patch=1,EE,102643AC,extended,000003E7

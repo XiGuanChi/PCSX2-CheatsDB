@@ -1,0 +1,182 @@
+gametitle=Tales of Symphonia SLPS-25400
+//Max Gold 
+patch=1,EE,20AA3AC0,extended,05F5E0FF
+
+//HP full recovery when opening the menu
+patch=1,EE,2022EF50,extended,0C03C808
+patch=1,EE,200F2020,extended,08093B18
+patch=1,EE,200F2024,extended,A60A0012
+
+//TP full recovery when opening the menu
+patch=1,EE,2022EF80,extended,0C03C80C
+patch=1,EE,200F2030,extended,08093894
+patch=1,EE,200F2034,extended,A60A0014
+
+//monster picture book completed
+patch=1,EE,40AA3AD0,extended,00410001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Osamukura pictorial book completed
+patch=1,EE,40AA4BEC,extended,00110001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//EXP maximum
+patch=1,EE,D05B05B8,extended,00000018
+patch=1,EE,205B05B8,extended,3C020100
+
+//Lloyd
+//maximum HP
+patch=1,EE,10AA3DA6,extended,0000270F
+patch=1,EE,10AA3DA6,extended,0000270F
+
+//Currently HP
+patch=1,EE,10AA3D92,extended,0000270F
+
+//maximum TP
+patch=1,EE,10AA3DA8,extended,0000270F
+patch=1,EE,10AA3DB8,extended,0000270F
+
+//Currently TP
+patch=1,EE,10AA3D94,extended,0000270F
+
+//Collet
+//maximum HP
+patch=1,EE,10AA3EBE,extended,0000270F
+patch=1,EE,10AA3ECE,extended,0000270F
+
+//Currently HP
+patch=1,EE,10AA3EAA,extended,0000270F
+
+//maximum TP
+patch=1,EE,10AA3EC0,extended,0000270F
+patch=1,EE,10AA3ED0,extended,0000270F
+
+//Currently TP
+patch=1,EE,10AA3EAC,extended,0000270F
+
+//Genius
+//maximum HP
+patch=1,EE,10AA3FD6,extended,0000270F
+patch=1,EE,10AA3FE6,extended,0000270F
+
+//Currently HP
+patch=1,EE,10AA3FC2,extended,0000270F
+
+//maximum TP
+patch=1,EE,10AA3FD8,extended,0000270F
+patch=1,EE,10AA3FE8,extended,0000270F
+
+//Currently TP
+patch=1,EE,10AA3FC4,extended,0000270F
+
+//Refill
+//maximum HP
+patch=1,EE,10AA40EE,extended,0000270F
+patch=1,EE,10AA40FE,extended,0000270F
+
+//Currently HP
+patch=1,EE,10AA40DA,extended,0000270F
+
+//maximum TP
+patch=1,EE,10AA40F0,extended,0000270F
+patch=1,EE,10AA4100,extended,0000270F
+
+//Currently TP
+patch=1,EE,10AA40DC,extended,0000270F
+
+//Shiina
+//??maximum HP
+patch=1,EE,10AA4206,extended,0000270F
+patch=1,EE,10AA4216,extended,0000270F
+
+//Currently HP
+patch=1,EE,10AA41EE,extended,0000270F
+
+//maximum TP
+patch=1,EE,10AA4208,extended,0000270F
+patch=1,EE,10AA4218,extended,0000270F
+
+//Currently TP
+patch=1,EE,10AA41F4,extended,0000270F
+
+//Zelos
+//maximum HP
+patch=1,EE,10AA431E,extended,0000270F
+patch=1,EE,10AA432E,extended,0000270F
+
+//Currently HP
+patch=1,EE,10AA430A,extended,0000270F
+
+//maximum TP
+patch=1,EE,10AA4320,extended,0000270F
+patch=1,EE,10AA4330,extended,0000270F
+
+//Currently TP
+patch=1,EE,10AA430C,extended,0000270F
+
+//Presea
+//maximum HP
+patch=1,EE,10AA4436,extended,0000270F
+patch=1,EE,10AA4446,extended,0000270F
+
+//Currently HP
+patch=1,EE,10AA4422,extended,0000270F
+
+//maximum TP
+patch=1,EE,10AA4438,extended,0000270F
+patch=1,EE,10AA4448,extended,0000270F
+
+//Currently TP
+patch=1,EE,10AA4424,extended,0000270F
+
+//Legal
+//maximum HP
+patch=1,EE,10AA454E,extended,0000270F
+patch=1,EE,10AA455E,extended,0000270F
+
+//Currently HP
+patch=1,EE,10AA453A,extended,0000270F
+
+//maximum TP
+patch=1,EE,10AA4550,extended,0000270F
+patch=1,EE,10AA4560,extended,0000270F
+
+//Currently TP
+patch=1,EE,10AA453C,extended,0000270F
+
+//Crust
+//maximum HP
+patch=1,EE,10AA4666,extended,0000270F
+patch=1,EE,10AA4676,extended,0000270F
+
+//Currently HP
+patch=1,EE,10AA4652,extended,0000270F
+
+//maximum TP
+patch=1,EE,10AA4668,extended,0000270F
+patch=1,EE,10AA4678,extended,0000270F
+
+//Currently TP
+patch=1,EE,10AA4654,extended,0000270F
+
+//Completion of the collection picture book
+patch=1,EE,40AA4BEC,extended,00110001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//The highest cooking maturity
+patch=1,EE,40AA3F8C,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40AA40A4,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40AA41BC,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40AA42D4,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40AA43EC,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40AA4504,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40AA461C,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40AA4734,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000

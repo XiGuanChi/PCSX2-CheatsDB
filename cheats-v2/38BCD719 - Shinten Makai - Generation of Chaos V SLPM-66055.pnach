@@ -1,0 +1,34 @@
+gametitle=Shinten Makai - Generation of Chaos V SLPM-66055
+//Maximum Gold
+patch=1,EE,2146C454,extended,000F423F
+
+//EXP Maximum
+patch=1,EE,2146C458,extended,0001869F
+
+//Kuon Level 99
+patch=1,EE,01499108,extended,00000063
+
+//HP99999
+patch=1,EE,21499110,extended,0001869F
+patch=1,EE,21499114,extended,0001869F
+
+//SP 999 
+patch=1,EE,21499118,extended,03E703E7
+
+//Attack power 99 0149911C
+patch=1,EE,00000063
+
+//Defensive power 99 
+patch=1,EE,0149911C,extended,00000063 
+
+//Defensive power 99 
+patch=1,EE,0149911D,extended,00000063 
+
+//Charm 99 
+patch=1,EE,01499121,extended,00000063
+// 
+//Luck 99 
+patch=1,EE,01499122,extended,00000063 
+
+//Gon Level 99 
+patch=1,EE,01499208,extended,00000063 

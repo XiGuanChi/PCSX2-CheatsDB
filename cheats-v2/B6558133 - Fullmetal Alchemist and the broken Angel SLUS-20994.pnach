@@ -1,0 +1,53 @@
+gametitle=Fullmetal Alchemist and the broken Angel SLUS-20994
+//infinite frenzy bars
+patch=1,EE,102CEE40,extended,00000064
+
+//all movies/graphics
+patch=1,EE,102DAAAE,extended,0000FFFF
+patch=1,EE,202DAAB0,extended,FFFFFFFF
+patch=1,EE,202DAAB4,extended,FFFFFFFF
+
+//Edward Elric infinite energy
+patch=1,EE,102CD86A,extended,000003E7
+
+//Edward Elric max.energy
+patch=1,EE,102CD86C,extended,000003E7
+
+//Edward Elric Max EXP
+patch=1,EE,202CD87C,extended,000F423F
+
+//Edward Elric level 99
+patch=1,EE,102CD868,extended,00000062
+
+//Edward Elric infinite bonus points
+patch=1,EE,102CD876,extended,000003E7
+
+//Edward Elric Max bonus points
+patch=1,EE,102CD878,extended,000003E7
+
+//Edward Elric Max ATK
+patch=1,EE,102CD86E,extended,000003E7
+
+//Edward Elric Max DEF
+patch=1,EE,102CD870,extended,000003E7
+
+//Edward Elric Max ALC
+patch=1,EE,102CD872,extended,000003E7
+
+//Alphonse Elric infinite energy
+patch=1,EE,102CDA66,extended,000003E7
+
+//Alphonse Elric max energy
+patch=1,EE,102CDA68,extended,000003E7
+
+//Alphonse Elric Max EXP
+patch=1,EE,202CDA78,extended,000F423F
+
+//Alphonse Elric level 99
+patch=1,EE,102CDA64,extended,00000062
+
+//Alphonse Elric Max ATK
+patch=1,EE,102CDA6A,extended,000003E7
+
+//Alphonse Elric Max DEF
+patch=1,EE,102CDA6C,extended,000003E7

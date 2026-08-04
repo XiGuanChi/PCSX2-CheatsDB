@@ -1,0 +1,24 @@
+gametitle=Endnesia SLPM-62047
+//It is not reduced physical strength, stomach, drowsiness
+//(If you use this code in Haraheri and sleepy not acquired, can not of course acquisition)
+patch=1,EE,21C067F0,extended,437F0000
+patch=1,EE,21C06E80,extended,437F0000
+patch=1,EE,1190320C,extended,0000A000
+
+//Does not decrease emo (optional version)
+patch=1,EE,0190341F,extended,00000003
+patch=1,EE,41903420,extended,00060001
+patch=1,EE,03030303,extended,00000000
+
+//Does not decrease emo (accurate version)
+patch=1,EE,0190341F,extended,00000003
+patch=1,EE,01903420,extended,00000003
+patch=1,EE,11903422,extended,00000303
+patch=1,EE,21903424,extended,03030303
+patch=1,EE,11903428,extended,00000303
+patch=1,EE,0190342C,extended,00000003
+patch=1,EE,0190342E,extended,00000003
+patch=1,EE,01903431,extended,00000003
+patch=1,EE,11903432,extended,00000303
+patch=1,EE,01903435,extended,00000003
+patch=1,EE,01903436,extended,00000003

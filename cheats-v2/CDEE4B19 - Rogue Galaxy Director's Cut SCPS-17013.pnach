@@ -1,0 +1,25 @@
+gametitle=Rogue Galaxy Director's Cut SCPS-17013
+//Max money
+patch=1,EE,205CC3A0,extended,05F5E0FF
+
+//Hunter Points 9999
+patch=1,EE,205CC3C0,extended,0098967F
+
+//Jester Status Max
+patch=1,EE,405D31C4,extended,00040001
+patch=1,EE,0000270F,extended,00000000
+patch=1,EE,205D31D4,extended,270F270F
+patch=1,EE,405D31DC,extended,00040001
+patch=1,EE,270F270F,extended,00000000
+
+//The flash generally full opening & ability almost acquisition
+patch=1,EE,405D3490,extended,00080132
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,405D3494,extended,00080132
+patch=1,EE,000000FF,extended,00000000
+
+//Press Select + R2 ---> No Battles OFF ---> select + L2
+patch=1,EE,D04BD082,extended,0000FEFE
+patch=1,EE,203A8AC0,extended,00000000
+patch=1,EE,D04BD082,extended,0000FDFE
+patch=1,EE,203A8AC0,extended,44800800

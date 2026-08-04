@@ -1,0 +1,74 @@
+gametitle=Dragon Ball Z - Budokai Tenkaichi 3 SLES-54945
+//Player 1 Codes Infinite Health
+patch=1,EE,200FFF08,extended,8C410004
+patch=1,EE,200FFF0C,extended,AC410000
+patch=1,EE,200FFF4C,extended,08082E36
+patch=1,EE,200FFF50,extended,8C420000
+patch=1,EE,2020B8D4,extended,0803FFC0
+patch=1,EE,200FFF00,extended,14160008
+
+//Infinite Ki
+patch=1,EE,200FFF10,extended,8C410010
+patch=1,EE,200FFF14,extended,AC41000C
+patch=1,EE,200FFF4C,extended,08082E36
+patch=1,EE,200FFF50,extended,8C420000
+patch=1,EE,2020B8D4,extended,0803FFC0
+patch=1,EE,200FFF00,extended,14160008
+
+//1 Hit Kill P2
+patch=1,EE,200FFF2C,extended,8C410000
+patch=1,EE,200FFF30,extended,28210002
+patch=1,EE,200FFF34,extended,14010002
+patch=1,EE,200FFF38,extended,24010001
+patch=1,EE,200FFF3C,extended,AC410000
+patch=1,EE,200FFF4C,extended,08082E36
+patch=1,EE,200FFF50,extended,8C420000
+patch=1,EE,2020B8D4,extended,0803FFC0
+patch=1,EE,200FFF24,extended,10160008
+
+//All Stories Open
+patch=1,EE,2033AD14,extended,24020001
+patch=1,EE,203358B4,extended,2403FFFF
+
+//Story Mode infinite Ki P1
+patch=1,EE,2187DD30,extended,3b9aca00
+patch=1,EE,2187DD34,extended,000f4240
+
+//Story Mode infinite Health P1
+patch=1,EE,2187DD24,extended,009896a0
+patch=1,EE,2187DD28,extended,009896a0
+
+//Story Mode no Health P2
+patch=1,EE,2187F324,extended,00000000
+
+//Ultimate Training / Duel infinite Health P1
+patch=1,EE,2186fbe4,extended,009896a0
+patch=1,EE,2186fbe8,extended,009896a0
+
+//Ultimate Training / Duel infinite Ki P1
+patch=1,EE,2186fbf0,extended,3b9aca00
+patch=1,EE,2186fbf4,extended,000f4240
+
+//Ultimate Training / Duel no Health P2
+patch=1,EE,218711e4,extended,00000000
+
+//Ultimativer Modus Sim Dragon Health 100%
+patch=1,EE,006ae338,extended,00000064
+
+//Evolution Z max.Zeny
+patch=1,EE,206bb1a8,extended,000f423f
+
+//Evolution Z 7 Dragonalls
+patch=1,EE,20332d58,extended,00681821
+
+//unlock all Characters
+patch=1,EE,206b8d90,extended,ffffffff
+patch=1,EE,206b8d94,extended,ffffffff
+patch=1,EE,206b8d98,extended,ffffffff
+patch=1,EE,206b8d9c,extended,ffffffff
+patch=1,EE,206b8da0,extended,ffffffff
+patch=1,EE,106b8da4,extended,000001ff
+
+//all Stages
+patch=1,EE,206b8da8,extended,ffffffff
+patch=1,EE,006b8dac,extended,00000007

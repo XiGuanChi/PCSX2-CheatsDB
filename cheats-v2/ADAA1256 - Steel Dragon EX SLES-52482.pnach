@@ -1,0 +1,12 @@
+gametitle=Steel Dragon EX SLES-52482
+//Infinite Lives P1
+patch=1,EE,04401068,extended,3C70C3FE
+
+//infinity super-attacks P1
+patch=1,EE,04401368,extended,3C70C34E
+
+//Infinite Lives P2
+patch=1,EE,04001368,extended,3C70C37E
+
+//infinity super-attacks P2
+patch=1,EE,04001368,extended,3C70C3CE

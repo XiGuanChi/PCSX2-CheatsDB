@@ -1,0 +1,12 @@
+gametitle=Scarlett - Nichijou no Kyoukaisen SLPM-55079
+//Bonus fully open
+patch=1,EE,4048295D,extended,001B0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,0048294A,extended,000000FF
+patch=1,EE,004831AD,extended,00000004
+
+//All Chapters
+patch=1,EE,104831AC,extended,000003E8
+
+//Enable Omake 
+patch=1,EE,0053DF0C,extended,00000001

@@ -1,0 +1,8 @@
+gametitle=I.Q. Remix+: Intelligent Qube SCPS-11001
+//100 ATTACK EXCELLENT CLEAR 1-50
+patch=1,EE,404DD124,extended,00350001
+patch=1,EE,00000001,extended,00000000
+
+//100 ATTACK EXCELLENT CLEAR 51-100
+patch=1,EE,404DCEFC,extended,00320001
+patch=1,EE,00000001,extended,00000000

@@ -1,0 +1,8 @@
+gametitle=Coloball 2002 SLPS-20202
+//After play game 10 points play score
+patch=1,EE,403C98A0,extended,00140001
+patch=1,EE,00000009,extended,00000000
+
+//Enemy Panel & Total Power 0
+patch=1,EE,403A1954,extended,00630001
+patch=1,EE,00000000,extended,00000000

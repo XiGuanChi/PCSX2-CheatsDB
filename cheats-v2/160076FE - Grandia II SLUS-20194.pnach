@@ -1,0 +1,47 @@
+gametitle=Grandia II SLUS-20194
+//Infinite Money
+patch=1,EE,113493A4,extended,0000FFFF
+
+//Ryudo Infinite & Max HP
+patch=1,EE,11349A3C,extended,0000270F
+patch=1,EE,11349A3E,extended,0000270F
+
+//Elena Infinite & Max HP
+patch=1,EE,11349AA8,extended,0000270F
+patch=1,EE,11349AAA,extended,0000270F
+
+//Milenia Infinite & Max HP
+patch=1,EE,11349B14,extended,0000270F
+patch=1,EE,11349B16,extended,0000270F
+
+//Roan Infinite & Max HP
+patch=1,EE,11349B80,extended,0000270F
+patch=1,EE,11349B82,extended,0000270F
+
+//Mareg Infinite & Max HP
+patch=1,EE,11349BEC,extended,0000270F
+patch=1,EE,11349BEE,extended,0000270F
+
+//Tio Infinite & Max HP
+patch=1,EE,11349C58,extended,0000270F
+patch=1,EE,11349C5A,extended,0000270F
+
+//All Equipment
+patch=1,EE,405B7580,extended,00100001
+patch=1,EE,09090909,extended,00000000
+
+//All Consumables
+patch=1,EE,405B751C,extended,00100001
+patch=1,EE,09090909,extended,00000000
+
+//All Valuables
+patch=1,EE,405B74C0,extended,00050001
+patch=1,EE,09090909,extended,00000000
+
+//All Mana Eggs
+patch=1,EE,405B76AC,extended,00090001
+patch=1,EE,09090909,extended,00000000
+
+//All Skill Books
+patch=1,EE,405B76E0,extended,00050001
+patch=1,EE,09090909,extended,00000000

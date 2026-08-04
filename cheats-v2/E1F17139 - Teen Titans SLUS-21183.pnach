@@ -1,0 +1,26 @@
+gametitle=Teen Titans SLUS-21183
+//Infinite Energy
+patch=1,EE,20F3BFA0,extended,00000000
+
+//Infinite Lives
+patch=1,EE,20CD25D8,extended,00000009
+
+//Unlock All Arenas
+patch=1,EE,40CD67DC,extended,000D0001
+patch=1,EE,00000001,extended,00000000
+
+//Unlock All Characters
+patch=1,EE,40CD6760,extended,001F0001
+patch=1,EE,00000001,extended,00000000
+
+//Unlock Gallery 1
+patch=1,EE,40CD6810,extended,00270001
+patch=1,EE,00000001,extended,00000000
+
+//Unlock Gallery 2
+patch=1,EE,40CD6930,extended,00240001
+patch=1,EE,00000001,extended,00000000
+
+//Unlock Gallery 3
+patch=1,EE,40CD68A0,extended,001B0001
+patch=1,EE,00000001,extended,00000000

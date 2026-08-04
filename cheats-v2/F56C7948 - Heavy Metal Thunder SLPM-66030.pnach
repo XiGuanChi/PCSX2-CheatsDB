@@ -1,0 +1,17 @@
+gametitle=Heavy Metal Thunder SLPM-66030
+//Infinite HP
+patch=1,EE,2035E298,extended,00000BB8
+patch=1,EE,203A0550,extended,00000BB8
+//:
+//Gold 99999999
+patch=1,EE,20387D24,extended,05F5E0FF
+
+//All the unit part procurement (* Perusing the head unit part with shop sale. )
+patch=1,EE,20165EEC,extended,00621821
+patch=1,EE,20165EF4,extended,24020001
+patch=1,EE,20165EF8,extended,0803D000
+patch=1,EE,200F4000,extended,AC620028
+patch=1,EE,200F4004,extended,AC620128
+patch=1,EE,200F4008,extended,AC620228
+patch=1,EE,200F400C,extended,AC620328
+patch=1,EE,200F4010,extended,03E00008

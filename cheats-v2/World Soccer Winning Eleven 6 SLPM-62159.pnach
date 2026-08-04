@@ -1,0 +1,10 @@
+gametitle=World Soccer Winning Eleven 6 SLPM-62159
+//Points MAX after the match
+patch=1,EE,D1B139C8,extended,00000002
+patch=1,EE,21B139C8,extended,00000000
+
+//Whichever goal you enter, one team will score
+//Home side
+patch=1,EE,215FD87C,extended,24030000
+//Away side
+patch=1,EE,215FD87C,extended,24030001

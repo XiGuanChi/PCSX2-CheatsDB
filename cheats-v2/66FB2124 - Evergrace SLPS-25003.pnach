@@ -1,0 +1,12 @@
+gametitle=Evergrace SLPS-25003
+//Infinite HP does not decrease"
+patch=1,EE,102F1F80,extended,0000270F
+
+//Infinite Power
+patch=1,EE,102F1F86,extended,0000270F
+
+//Max Cash
+patch=1,EE,102F128C,extended,0000FFFF
+
+//Sharuami
+patch=1,EE,102F1290,extended,0000270F

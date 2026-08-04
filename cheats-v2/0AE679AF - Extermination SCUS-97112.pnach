@@ -1,0 +1,30 @@
+gametitle=Extermination SCUS-97112
+//Infinite Health
+patch=1,EE,208104D0,extended,42C80000
+patch=1,EE,20810858,extended,42C80000
+
+//Never Infected
+patch=1,EE,108104DA,extended,00000000
+patch=1,EE,1081085E,extended,00000000
+
+//infinite AmmoShotgun
+patch=1,EE,10810CA8,extended,0000270F
+
+//infinite AmmoGrenade Launcher
+patch=1,EE,10810CAA,extended,0000270F
+
+//infinite AmmoFlame Thrower
+patch=1,EE,20810CAC,extended,00630063
+
+//nfinite AmmoMachine Gun
+patch=1,EE,10810CB4,extended,0000270F
+
+//Infinite Rockets
+patch=1,EE,10810CB0,extended,0000270F
+
+//Infinite Battery
+patch=1,EE,00810CB2,extended,00000030
+patch=1,EE,00810CB7,extended,00000030
+
+//Always Low Timer
+patch=1,EE,20810750,extended,00000000

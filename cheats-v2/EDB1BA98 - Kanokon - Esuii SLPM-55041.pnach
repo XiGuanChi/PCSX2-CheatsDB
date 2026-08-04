@@ -1,0 +1,15 @@
+gametitle=Kanokon - Esuii SLPM-55041
+//Bonus menu added to main menu
+patch=1,EE,21AF1128,extended,00000001
+
+//Ending and free talk fully opened
+patch=1,EE,0043F0D6,extended,000000FF
+
+//CG fully opened upon entering the gallery
+patch=1,EE,20146700,extended,240E0001
+patch=1,EE,20146704,extended,A1EE0000
+
+//100% Looking scene list
+patch=1,EE,2010D3E0,extended,240BFFFF
+patch=1,EE,2010D3E4,extended,A1CB0000
+patch=1,EE,2010D3E8,extended,24020001

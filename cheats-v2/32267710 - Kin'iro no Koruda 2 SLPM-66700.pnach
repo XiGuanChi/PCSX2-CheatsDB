@@ -1,0 +1,29 @@
+gametitle=Kin'iro no Koruda 2 SLPM-66700
+//BP 65635/65635
+patch=1,EE,108F8BEA,extended,0000FFFF
+patch=1,EE,108F8BEC,extended,0000FFFF
+
+//Charactere 1 Lv. Stats Select.
+patch=1,EE,108F8BE8,extended,0000270F
+
+//Charactere 2 Lv. Stats Select.
+patch=1,EE,108F8C24,extended,0000270F
+patch=1,EE,108F8C26,extended,0000270F
+patch=1,EE,108F8C38,extended,0000270F
+
+//Charactere 3 Lv. Stats Select.
+patch=1,EE,108F8C7C,extended,0000270F
+patch=1,EE,108F8C7E,extended,0000270F
+
+//Charactere 4 Lv. Stats Select.
+patch=1,EE,108F8CC0,extended,0000270F
+patch=1,EE,108F8CC2,extended,0000270F
+patch=1,EE,108F8CC4,extended,0000270F
+
+//Charactere 5 Lv. Stats Select.
+patch=1,EE,108F8D06,extended,0000270F
+patch=1,EE,108F8D08,extended,0000270F
+patch=1,EE,108F8D0A,extended,0000270F
+
+//Charactere 6 Lv. Stats Select.
+patch=1,EE,108F8D3C,extended,0000270F

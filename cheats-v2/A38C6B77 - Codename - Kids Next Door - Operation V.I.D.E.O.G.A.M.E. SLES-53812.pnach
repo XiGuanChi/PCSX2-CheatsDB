@@ -1,0 +1,30 @@
+gametitle=Codename - Kids Next Door - Operation V.I.D.E.O.G.A.M.E. SLES-53812
+//1 Hit Kill 
+patch=1,EE,201B0B68,extended,AE200018
+
+//Easily unlock "Infinite Powuh"
+patch=1,EE,20277980,extended,00000000
+patch=1,EE,20277874,extended,3C020005
+patch=1,EE,20277878,extended,34421615
+
+//Easily unlock "Invincibility"
+patch=1,EE,20277980,extended,00000000
+patch=1,EE,20277880,extended,3C020006
+patch=1,EE,20277884,extended,3442C81C
+
+//Easily unlock "Invisibility" 
+patch=1,EE,20277980,extended,00000000
+patch=1,EE,20277864,extended,3C020003
+patch=1,EE,20277868,extended,3442640E
+
+//Easily unlock "Numbuh 1 into Numbuh 86"
+patch=1,EE,20277980,extended,00000000
+patch=1,EE,20277854,extended,3C030001
+patch=1,EE,20277858,extended,3462B207
+
+//Once the invisibility is activated, the effect is always active 
+patch=1,EE,2021B300,extended,24020000
+patch=1,EE,20223908,extended,10000002
+
+//Take 1 collectible to get the maximum amount
+patch=1,EE,201B0D38,extended,C622000C

@@ -1,0 +1,33 @@
+gametitle=Simple 2000 Series  Vol.113 - The Tairyou Jigoku  SLPS-20488
+//How we do not fear it is the
+patch=1,EE,218968B8,extended,00000000
+
+//Even full marathon unconcern!
+patch=1,EE,218968BC,extended,42C80000
+
+//Press R3  the which passes away
+patch=1,EE,D18EC842,extended,0000FFFB
+patch=1,EE,218968B8,extended,44160000
+
+//Return my skirt
+patch=1,EE,20314470,extended,080BFFC0
+patch=1,EE,202FFF00,extended,3C040053
+patch=1,EE,202FFF04,extended,34857640
+patch=1,EE,202FFF08,extended,348475D0
+patch=1,EE,202FFF0C,extended,7C800000
+patch=1,EE,202FFF20,extended,1485FFFA
+patch=1,EE,202FFF24,extended,20840010
+patch=1,EE,202FFF28,extended,080C511E
+patch=1,EE,202FFF2C,extended,00022380
+
+//I'll hit it, hit it, and kill it
+patch=1,EE,218DAD3C,extended,00000001
+
+//Please give me all these clothes!
+patch=1,EE,018968B0,extended,0000007F
+
+//Please give me all your travel tickets!
+patch=1,EE,018968AC,extended,0000003F
+
+//I have to decide for myself at the end Good End
+patch=1,EE,20362448,extended,24020002

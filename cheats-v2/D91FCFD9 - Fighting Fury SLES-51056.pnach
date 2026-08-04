@@ -1,0 +1,7 @@
+gametitle=Fighting Fury SLES-51056
+//Infinite Health Player 1
+patch=1,EE,203544E8,extended,00001136
+
+//No Health Player 2 Press Select Button
+patch=1,EE,D02A39C0,extended,00000100
+patch=1,EE,203558FC,extended,00000000

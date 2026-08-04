@@ -1,0 +1,10 @@
+gametitle=Garou Densetsu Battle Archive 1 (Neo Geo Online Collection Vol. 5) SLPS-25664
+//FATAL FURY 2 Four heavenly kings can be used
+patch=1,EE,0168E0E1,extended,00000010
+
+//FATAL FURY SPECIAL Ryo Sakazaki selectable
+patch=1,EE,01795211,extended,00000008
+
+//FATAL FURY 3 Hidden characters can be used
+patch=1,EE,017627F0,extended,00000010
+

@@ -1,0 +1,6 @@
+gametitle=Bust-A-Bloc SLES-51713
+//Unlimited Balls
+patch=1,EE,2011C170,extended,00402820
+
+//Stop Time
+patch=1,EE,2011D020,extended,24013634

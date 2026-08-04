@@ -1,0 +1,27 @@
+gametitle=Dragon Ball Z 3 SLPS-25460
+//Money in hand 990000
+patch=1,EE,20499708,extended,000F1B30
+
+//When it enters into skill compilation, all the skill capsule 9 procurement
+patch=1,EE,20273DEC,extended,24020009
+patch=1,EE,20273DF0,extended,A0620000
+
+//All Characters
+patch=1,EE,2046E758,extended,FFFFFFFF
+patch=1,EE,2046E75C,extended,FFFFFFFF
+patch=1,EE,2046E760,extended,FFFFFFFF
+patch=1,EE,2046E764,extended,FFFFFFFF
+
+//The dragon universe With experience value procurement maximum
+patch=1,EE,202CA128,extended,00000000
+
+//There is no Z point consumption when levelling up
+patch=1,EE,202C98BC,extended,00000000
+patch=1,EE,202C96D8,extended,24020000
+
+//Tenkaichi Taketokai: All characters can be used
+patch=1,EE,2046E808,extended,FFFFFFFF
+patch=1,EE,2046E80C,extended,FFFFFFFF
+
+//Bonus voice data Original reproduction fully open
+patch=1,EE,2049970C,extended,FFFFFFFF

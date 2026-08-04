@@ -1,0 +1,12 @@
+gametitle=Ø Story SLPM-65002
+//999 heart arrows 
+patch=1,EE,10CDF030,extended,000003E7
+
+//CONTINUE appears in the title menu
+patch=1,EE,00CDF057,extended,00000001
+
+//THEATER MODE will appear in the title menu
+patch=1,EE,00CDE1A4,extended,00000001
+
+//Disk qualification DISC 1
+patch=1,EE,00CDE128,extended,00000001

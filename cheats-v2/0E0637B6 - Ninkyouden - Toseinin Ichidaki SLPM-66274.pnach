@@ -1,0 +1,19 @@
+gametitle=Ninkyouden - Toseinin Ichidaki SLPM-66274
+//Gold max
+patch=1,EE,204DB60C,extended,0001869F
+
+//Attack power max
+patch=1,EE,20159D48,extended,240F270F
+patch=1,EE,20159D54,extended,240F270F
+
+//Defensive power max
+patch=1,EE,20159F68,extended,01E0800A
+
+//HP 999
+patch=1,EE,204DB5E8,extended,03E703E7
+
+//Strength 999
+patch=1,EE,204DB5EC,extended,000003E7
+
+//Agility 999
+patch=1,EE,204DB5F0,extended,000003E7

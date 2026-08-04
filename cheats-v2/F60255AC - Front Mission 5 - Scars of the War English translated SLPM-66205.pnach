@@ -1,0 +1,59 @@
+gametitle=Front Mission 5 - Scars of the War English translated SLPM-66205
+//CP Max
+patch=1,EE,202671E0,extended,3C020099
+patch=1,EE,202671E4,extended,03E00008
+patch=1,EE,202671E8,extended,2442967F
+
+//1 Hit 9999  player phase > commands > still press R1 here >CLICK still press R1 until fight ending 
+patch=1,EE,D03B4982,extended,0010D7FF
+patch=1,EE,2027B4F0,extended,00022CBE
+patch=1,EE,D03B4982,extended,0000D7FF
+patch=1,EE,2027B4F0,extended,2405270F
+
+//Enemy's dont fight press R3 ( L3 OFF)
+patch=1,EE,D03B4982,extended,0000FFFB
+patch=1,EE,20220F18,extended,3C023F80
+patch=1,EE,D03B4982,extended,0000FFFD
+patch=1,EE,20220F18,extended,3C0242C8
+
+//AP 12/12 ( player/enemy )
+patch=1,EE,201C1EB8,extended,00000000
+
+//CP 999 & RP 9999999
+patch=1,EE,20267100,extended,03E00008
+patch=1,EE,20267104,extended,240203E7
+patch=1,EE,202671E0,extended,3C020099
+patch=1,EE,202671E4,extended,03E00008
+patch=1,EE,202671E8,extended,2442967F
+
+//All Skills in Stock List
+patch=1,EE,406975A4,extended,00060048
+patch=1,EE,FFE37DFE,extended,00000000
+patch=1,EE,406975A8,extended,00060048
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,406975AC,extended,00060048
+patch=1,EE,7F88E1FF,extended,00000000
+patch=1,EE,406975B0,extended,00060048
+patch=1,EE,CD1CF07D,extended,00000000
+patch=1,EE,406975B4,extended,00060048
+patch=1,EE,0444444C,extended,00000000
+patch=1,EE,406975B8,extended,00060048
+patch=1,EE,000003FE,extended,00000000
+
+//Acquisition financial 9999999
+patch=1,EE,2014B5D8,extended,3C060099
+
+//Acquisition experience max (level 50)
+patch=1,EE,2014B5DC,extended,3C070099
+
+//Acquisition RP 999
+patch=1,EE,2014B5D4,extended,3C050099
+
+//No Fight Press Select + UP ( enemy/player phase off ) Press Select + DOWN ( enemy/player phase on )
+patch=1,EE,D03B4982,extended,0000FFEE
+patch=1,EE,20220EDC,extended,00000000
+patch=1,EE,D03B4982,extended,0000FFBE
+patch=1,EE,20220EDC,extended,46001081
+
+//All 68 Event List on Theater only if you have 1 save data
+patch=1,EE,2031801C,extended,24020001

@@ -1,0 +1,21 @@
+gametitle=Orphen - Scion of Sorcery SLES-50062
+//Infinite Health
+patch=1,EE,1058BC5A,extended,00000032
+
+//Inf Blue Incense
+patch=1,EE,103433F4,extended,00000400
+
+//Inf Emerald Lantern
+patch=1,EE,103433F6,extended,00000400
+
+//Inf Purple Lantern
+patch=1,EE,103433F8,extended,00000400
+
+//Inf Sleeping Chimes
+patch=1,EE,10343408,extended,00000100
+
+//Inf Smelly bags
+patch=1,EE,1034340A,extended,00000300
+
+//Inf Herb
+patch=1,EE,1034340C,extended,00000300

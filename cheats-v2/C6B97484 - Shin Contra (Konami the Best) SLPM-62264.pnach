@@ -1,0 +1,18 @@
+gametitle=Shin Contra (Konami the Best) SLPM-62264 
+//Infinite Credits
+patch=1,EE,00912408,extended,00000063
+
+//Infinite Lives Player 1
+patch=1,EE,10912840,extended,00000063
+
+//Infinite Lives Player 2
+patch=1,EE,10912850,extended,00000063
+
+//Extra items fully open
+patch=1,EE,109123F8,extended,000003F8
+
+//Maximum game clear rank S
+patch=1,EE,0091240A,extended,00000008
+
+//Combat training
+patch=1,EE,120912410,extended,00010101

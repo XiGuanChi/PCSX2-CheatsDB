@@ -1,0 +1,6 @@
+gametitle=G-Taste Mahjong SLPM-62327
+//Player has 50000 points
+patch=1,EE,202BFE54,extended,0000C350
+
+//Opponent has 0 points
+patch=1,EE,202BFE50,extended,00000000

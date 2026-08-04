@@ -1,0 +1,66 @@
+gametitle=One Piece - Grand Battle! Rush SLPS-25473
+//1P Physical strength largest
+patch=1,EE,2038150C,extended,8F818588
+patch=1,EE,20381510,extended,8C2101E4
+patch=1,EE,20381514,extended,14220030
+patch=1,EE,20381518,extended,24030002
+patch=1,EE,2038151C,extended,A42300FE
+patch=1,EE,20381520,extended,A42000F6
+patch=1,EE,20381524,extended,1000002C
+
+//The card entirely (for extreme)
+patch=1,EE,41CEE14C,extended,01580001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//The movie of the theater entirely
+patch=1,EE,21CEE3E4,extended,FFFFFFFF
+patch=1,EE,21CEE3E8,extended,FFFFFFFF
+
+//Support character gallery entirely
+patch=1,EE,41CEE0C4,extended,00110001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Character & the costume entirely
+patch=1,EE,21CEDEB0,extended,00000F00
+patch=1,EE,21CEDECC,extended,00000F01
+patch=1,EE,21CEDEE8,extended,00000F02
+patch=1,EE,21CEDF04,extended,00000F03
+patch=1,EE,21CEDF20,extended,00000F04
+patch=1,EE,21CEDF3C,extended,00000F05
+patch=1,EE,21CEDF58,extended,00000306
+patch=1,EE,21CEDF74,extended,00000307
+patch=1,EE,21CEDF90,extended,00000308
+patch=1,EE,21CEDFAC,extended,00000309
+patch=1,EE,21CEDFC8,extended,00000F0A
+patch=1,EE,21CEDFE4,extended,0000030B
+patch=1,EE,21CEE000,extended,0000030C
+patch=1,EE,21CEE01C,extended,0000030D
+patch=1,EE,21CEE038,extended,0000030E
+patch=1,EE,21CEE054,extended,0000030F
+patch=1,EE,21CEE070,extended,00000310
+patch=1,EE,21CEE08C,extended,00000311
+patch=1,EE,21CEE0A8,extended,00000312
+
+//When it enters into the card game collection, card full opening
+patch=1,EE,20396F60,extended,2401FFFF
+patch=1,EE,20396F64,extended,ACC10000
+patch=1,EE,20397074,extended,00000000
+
+//In gallery player character full opening & character data voice addition
+patch=1,EE,41CEDEB8,extended,00130007
+patch=1,EE,00030003,extended,00000000
+patch=1,EE,41CEDEBC,extended,00130007
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Option: System voice full opening
+patch=1,EE,21CEE3D0,extended,FFFFFFFF
+patch=1,EE,21CEE3D4,extended,FFFFFFFF
+
+//Day B back fighting spirit: 999 game 999 victories
+patch=1,EE,21CEDDEC,extended,000003E7
+patch=1,EE,11CEDDEA,extended,000003E7
+
+//Day B back fighting spirit: Mini- game full opening
+patch=1,EE,21CEDDEC,extended,000003E7
+patch=1,EE,21CEE11C,extended,00000000
+patch=1,EE,11CEE116,extended,00000000

@@ -1,0 +1,26 @@
+gametitle=Scooby Doo! - Night of 100 Frights SLES-51017
+//Refill Health (Press L1+L2+R1+R2)
+patch=1,EE,D0360102,extended,0000F0FF
+patch=1,EE,00360C68,extended,00000005
+
+//Invincible (Press L3 To Activate And R3 To Deactivate)
+patch=1,EE,D0360102,extended,0000FFFD
+patch=1,EE,20360CC8,extended,3F800000
+
+//Loads Of Scooby Snacks
+patch=1,EE,20360F34,extended,23071978
+
+//Multi Jumps
+patch=1,EE,10360F14,extended,00000001
+
+//Have All Power Ups
+patch=1,EE,20360F38,extended,FFFFFFFF
+
+//Infinite Bubble Gum
+patch=1,EE,00360F40,extended,0000000A
+
+//Infinite Soap Bubbles
+patch=1,EE,00360F44,extended,0000000A
+
+//Skycam
+patch=1,EE,20360AA0,extended,41800000

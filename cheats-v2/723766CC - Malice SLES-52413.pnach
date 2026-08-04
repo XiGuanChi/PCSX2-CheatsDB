@@ -1,0 +1,16 @@
+gametitle=Malice SLES-52413
+//Infinite Health
+patch=1,EE,203E6890,extended,42C80000
+patch=1,EE,203E6898,extended,42C80000
+
+//Infinite Mana
+patch=1,EE,203E6724,extended,42C80000
+
+//Have all Magic
+patch=1,EE,203E644C,extended,40000000
+patch=1,EE,203E6454,extended,40000000
+patch=1,EE,203E65FC,extended,40000000
+patch=1,EE,203E6600,extended,40000000
+
+//Unlock Bonus
+patch=1,EE,203CCB10,extended,0000000F

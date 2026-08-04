@@ -1,0 +1,28 @@
+gametitle=Mercenaries - Playground of Destruction SLES-52588
+//Infinite Health
+patch=1,EE,21940614,extended,43FA0000
+
+//Alternate Infinite Health
+patch=1,EE,2019D510,extended,3C0143FA
+patch=1,EE,2019D514,extended,AE210094
+
+//Invincible
+patch=1,EE,D05595B4,extended,00100000
+
+//Max Cash
+patch=1,EE,20168970,extended,3C014CBE
+patch=1,EE,20168978,extended,AE010B60
+
+//Infinite Ammo
+patch=1,EE,20124E5C,extended,00000000
+
+//Activate Ingame Cheats Infinite Health
+patch=1,EE,200C0250,extended,96010110
+patch=1,EE,200C0254,extended,34210004
+patch=1,EE,200C0258,extended,A6010110
+patch=1,EE,200C025C,extended,03E00008
+patch=1,EE,200C0260,extended,46000834
+patch=1,EE,2012FF08,extended,0C030094
+
+//Infinite Ammo/Grenades (All Weapons)
+patch=1,EE,20515370,extended,00000001

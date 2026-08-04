@@ -1,0 +1,15 @@
+gametitle=Silent Scope  3  SLUS-20514
+//Infinite Health
+patch=1,EE,20530D60,extended,3F800000
+
+//Infinite Bullets
+patch=1,EE,10530D86,extended,00000006
+
+//Infinite Critical Time
+patch=1,EE,10530D9C,extended,00000016
+
+//Infinite Credits (Silent Scope EXStory Mode)
+patch=1,EE,1056BD50,extended,00000063
+
+//Always Low Mission Time
+patch=1,EE,20530CB8,extended,00000000

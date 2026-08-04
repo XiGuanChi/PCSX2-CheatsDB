@@ -1,0 +1,6 @@
+gametitle=Taiko no Tatsujin: Waku Waku Anime Matsuri SLPS-20330
+//Max Soul gauge for solo play after increases
+patch=1,EE,20CD7944,extended,0000270F
+
+//Survival mode Soul gauge does not decrease
+patch=1,EE,2047AEA8,extended,0000270F

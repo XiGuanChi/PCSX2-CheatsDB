@@ -1,0 +1,34 @@
+gametitle=The Punisher SLES-53195
+//Infinite Health
+patch=1,EE,20128420,extended,3C0143C8
+patch=1,EE,2012860C,extended,AE410284
+
+//Infinite Ammo
+patch=1,EE,00540ED4,extended,00000001
+
+//Max Body Armor
+patch=1,EE,21B4C23C,extended,00000004
+
+//Kill Recovery
+patch=1,EE,21B4C240,extended,00000001
+
+//Max Longer Slaughter Mode
+patch=1,EE,21B4C244,extended,00000004
+
+//Max Increase Accuracy
+patch=1,EE,21B4C248,extended,00000004
+
+//Max Increase Ammo Capacity
+patch=1,EE,21B4C24C,extended,00000003
+
+//Increase Grenade Capacity
+patch=1,EE,21B4C250,extended,00000001
+
+//Unlock All Levels Requires saving onto profile
+patch=1,EE,203191F8,extended,24030001
+patch=1,EE,203191FC,extended,ACA36F38
+
+//Complete All Levels Requires saving onto profile
+patch=1,EE,20319204,extended,24030001
+patch=1,EE,20319208,extended,ACA36F44
+

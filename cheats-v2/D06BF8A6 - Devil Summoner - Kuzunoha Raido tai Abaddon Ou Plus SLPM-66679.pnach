@@ -1,0 +1,59 @@
+gametitle=Devil Summoner - Kuzunoha Raido tai Abaddon Ou Plus SLPM-66679
+//Max Money
+patch=1,EE,20124B38,extended,00A0100A
+
+//Max loyalty of Nakama after battle
+patch=1,EE,202DF820,extended,2409270F
+
+//MP does not decrease (only during battle)
+patch=1,EE,202D5CEC,extended,00000000
+
+//Bullets do not decrease (only in battle)
+patch=1,EE,202D5D88,extended,00000000
+
+//Max with MAG fluctuation
+patch=1,EE,202D5BF4,extended,24020000
+patch=1,EE,202D5CB0,extended,24020000
+
+//Loyalty 100 when entering the demon union screen
+patch=1,EE,203A3A04,extended,24060064
+patch=1,EE,203A3A08,extended,A6E6000E
+
+//No encounter
+patch=0,EE,2028BEA8,extended,53E00007
+
+//Currently HP 999
+patch=1,EE,112A3C56,extended,000003E7
+
+//Maximum HP 999
+patch=1,EE,112A3C58,extended,000003E7
+
+//Currently MP 999
+patch=1,EE,112A3C5A,extended,000003E7
+
+//Maximum MP 999
+patch=1,EE,112A3C5C,extended,000003E7
+
+//Magatama ALL
+patch=1,EE,012A4EF7,extended,00000001
+patch=1,EE,212A4EF8,extended,05040302
+patch=1,EE,212A4EFC,extended,09080706
+patch=1,EE,212A4F00,extended,0D0C0B0A
+patch=1,EE,212A4F04,extended,11100F0E
+patch=1,EE,212A4F08,extended,15141312
+patch=1,EE,212A4F0C,extended,19181716
+patch=1,EE,012A4F77,extended,00000019
+
+//The number of bullets does not decrease (in battle)
+patch=1,EE,202D5D88,extended,00601823
+
+//Maximum MAG time recovery (in battle)
+patch=1,EE,202D5CB0,extended,24020000
+
+//MAG does not decrease (in battle)
+patch=1,EE,202D5C60,extended,01004023
+patch=1,EE,202D5BE4,extended,00A02823
+
+//Items do not decrease (in battle)
+patch=1,EE,202D5D0C,extended,24420000
+

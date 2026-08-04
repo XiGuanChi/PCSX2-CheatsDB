@@ -1,0 +1,21 @@
+gametitle=Jet Ion GP SLES-50544
+//Infinite Ammo - Gust
+patch=1,EE,002BDF3A,extended,0000000A
+
+//Infinite Sheild- Gust
+patch=1,EE,102B9462,extended,0000428C
+
+//Infinite Ammo - C&M
+patch=1,EE,002BB47A,extended,0000000A
+
+//Infinite Shield - C&M
+patch=1,EE,102BB472,extended,00004296
+
+//Inf Ammo - Forkner/Akashina
+patch=1,EE,002BC9DA,extended,0000000A
+
+//Inf Shield - Forkner/Akashina
+patch=1,EE,202BC9D2,extended,42A00000
+
+//Timer Stop
+patch=1,EE,202B8E00,extended,00000000

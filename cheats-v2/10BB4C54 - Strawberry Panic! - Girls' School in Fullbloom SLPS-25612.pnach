@@ -1,0 +1,23 @@
+gametitle=Strawberry Panic! - Girls' School in Fullbloom SLPS-25612
+//Crear flag ON
+patch=1,EE,01E45450,extended,00000001
+
+//Fully open CG and scene recollection
+patch=1,EE,2016741C,extended,0080402D
+patch=1,EE,20167424,extended,14600027
+patch=1,EE,20167438,extended,10000022
+patch=1,EE,20167470,extended,0100202D
+patch=1,EE,20167484,extended,1488FFE5
+
+//Strawberry check fully open
+patch=1,EE,200F8800,extended,34010009
+patch=1,EE,200F8804,extended,00350818
+patch=1,EE,200F8808,extended,0034082D
+patch=1,EE,200F880C,extended,3C020019
+patch=1,EE,200F8810,extended,0041102D
+patch=1,EE,200F8814,extended,90591490
+patch=1,EE,200F8878,extended,08059C2C
+patch=1,EE,20151D04,extended,0C03E200
+patch=1,EE,20151D18,extended,0259182A
+patch=1,EE,201670FC,extended,3402FFFF
+patch=1,EE,20167100,extended,A0620000

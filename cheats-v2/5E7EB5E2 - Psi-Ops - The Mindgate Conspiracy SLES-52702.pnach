@@ -1,0 +1,9 @@
+gametitle=Psi-Ops - The Mindgate Conspiracy SLES-52702
+//Infinite Health
+patch=1,EE,20228BC4,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,20553748,extended,00000000
+
+//Infinite Psi Power
+patch=1,EE,20228A84,extended,00000000

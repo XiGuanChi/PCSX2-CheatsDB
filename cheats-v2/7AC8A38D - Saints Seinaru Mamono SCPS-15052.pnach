@@ -1,0 +1,10 @@
+gametitle=Saints Seinaru Mamono SCPS-15052
+//Movie fully open
+patch=1,EE,2048E4B0,extended,FFFFFFFF
+patch=1,EE,2048E4B4,extended,FFFFFFFF
+
+//Tarot card open
+patch=1,EE,2048E420,extended,FFFFFFFF
+
+//Fully open bonus
+patch=1,EE,2048B6A4,extended,00000005

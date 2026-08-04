@@ -1,0 +1,15 @@
+gametitle=Ikusa Gami SLPM-66184
+//Infinite Super Energy
+patch=1,EE,202cf0dc,extended,42480000
+
+//max Super Energy
+patch=1,EE,202cf0dc,extended,44000000
+
+//Infinite Lives
+patch=1,EE,002cf104,extended,00000005
+
+//Infinite Energy
+patch=1,EE,202cf10c,extended,42480000
+
+//max Energy
+patch=1,EE,202cf110,extended,42480000

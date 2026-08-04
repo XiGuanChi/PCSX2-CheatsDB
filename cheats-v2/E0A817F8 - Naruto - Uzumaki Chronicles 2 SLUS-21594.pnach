@@ -1,0 +1,28 @@
+gametitle=Naruto - Uzumaki Chronicles 2 SLUS-21594
+//Invincibility 
+patch=1,EE,200A0000,extended,8F8285A8
+patch=1,EE,200A0004,extended,14530003
+patch=1,EE,200A0008,extended,908202C0
+patch=1,EE,200A000C,extended,0805CD42
+patch=1,EE,200A0014,extended,0805C918
+patch=1,EE,200A0018,extended,0002173C
+patch=1,EE,20172458,extended,08028000
+
+//Naruto Codes  cant die
+patch=1,EE,003cfb9a,extended,00000001
+
+//max.Health 500
+patch=1,EE,003cfbc4,extended,00000014
+
+/// infinite Chakra
+patch=1,EE,103cfbb6,extended,000001f4
+
+//9.999.999 Virtue
+patch=1,EE,203cfbbc,extended,0098967f
+
+//all Items x99
+patch=1,EE,003cff9d,extended,00000063
+patch=1,EE,103cff9e,extended,00006363
+patch=1,EE,203cffa0,extended,63636363
+patch=1,EE,203cffa4,extended,63636363
+patch=1,EE,003cffa8,extended,00000063

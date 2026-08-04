@@ -1,0 +1,31 @@
+gametitle=Minna no Golf 4 - Everybody's Golf SCPS-15059
+//All gears can be selected
+patch=1,EE,20465D40,extended,04040505
+patch=1,EE,20465D44,extended,05040404
+patch=1,EE,20465D48,extended,03030101
+patch=1,EE,20465D4C,extended,01030303
+patch=1,EE,20465D50,extended,04040405
+patch=1,EE,20465D54,extended,04040404
+
+//All courses can be selected
+patch=1,EE,20465D58,extended,04040405
+patch=1,EE,20465D5C,extended,04040504
+patch=1,EE,20465D60,extended,04050404
+
+//All caddies can be selected
+patch=1,EE,00465D8E,extended,00000004
+patch=1,EE,20465D90,extended,04040404
+patch=1,EE,10465D94,extended,00000404
+patch=1,EE,10465D96,extended,00000404
+patch=1,EE,20465D98,extended,04040404
+patch=1,EE,20465D9C,extended,04040404
+
+//Affection MAX (for PAR1.6j or later & Exploder)
+patch=1,EE,40475668,extended,00120001
+patch=1,EE,FF00FF00,extended,00000000
+
+
+
+
+
+

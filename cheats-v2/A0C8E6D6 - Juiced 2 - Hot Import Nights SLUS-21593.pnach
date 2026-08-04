@@ -1,0 +1,29 @@
+gametitle=Juiced 2 - Hot Import Nights SLUS-21593
+//infinite Cash
+patch=1,EE,21e61d8c,extended,05f5e0ff
+
+//Start with full nitro
+patch=1,EE,201974d8,extended,00000000
+
+//infinitely nitro
+patch=1,EE,201acb48,extended,00000000
+
+//alt. Nitro
+patch=1,EE,202dc3e8,extended,00000000
+
+//999,999 Driftpoints
+patch=1,EE,210f025c,extended,000f423f
+patch=1,EE,21dc9194,extended,000f423f
+patch=1,EE,21dc926c,extended,000f423f
+
+//Idiot A.I. L3 On/R3 Off 
+patch=1,EE,D05241C2,extended,0000FFFD
+patch=1,EE,20419648,extended,00000000
+patch=1,EE,D05241C2,extended,0000FFFB
+patch=1,EE,20419648,extended,44026000
+
+//Always Win Drift Event
+patch=1,EE,20257884,extended,AC84007C
+
+//Infinite Prototype Points 
+patch=1,EE,2028D798,extended,24040063

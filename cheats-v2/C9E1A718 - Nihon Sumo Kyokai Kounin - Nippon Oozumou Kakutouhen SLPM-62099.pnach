@@ -1,0 +1,7 @@
+gametitle=Nihon Sumo Kyokai Kounin - Nippon Oozumou Kakutouhen SLPM-62099
+//Yao Cho Victory 1P side
+patch=1,EE,102412B0,extended,00000100
+
+//Suddenly achieved 100 cuts
+patch=1,EE,102412B0,extended,00000064
+patch=1,EE,1024132E,extended,00000064

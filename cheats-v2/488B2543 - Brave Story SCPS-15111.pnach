@@ -1,0 +1,10 @@
+gametitle=Brave Story SCPS-15111
+//Infinite HP (100)
+patch=1,EE,203D5752,extended,00000064
+patch=1,EE,203D5756,extended,00000064
+
+//Infinite BP (100)
+patch=1,EE,203D576E,extended,00000064
+
+//Infinite Gold 9999999
+patch=1,EE,203D5788,extended,0098967F

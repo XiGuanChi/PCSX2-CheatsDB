@@ -1,0 +1,13 @@
+gametitle=Kaitou - Sly Cooper 2 SCPS-15090
+//Gold coin maximum
+patch=1,EE,203DE300,extended,0098967F
+
+//Life does not decrease
+patch=1,EE,203DE2B0,extended,00000028
+
+//Skill meter does not decrease
+patch=1,EE,203DE2B4,extended,00000064
+
+//All skills
+patch=1,EE,203DE2F8,extended,FFFFFFFF
+patch=1,EE,203DE2FC,extended,FFFFFFFF

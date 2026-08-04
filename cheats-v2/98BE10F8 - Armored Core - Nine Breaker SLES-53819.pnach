@@ -1,0 +1,24 @@
+gametitle=Armored Core - Nine Breaker SLUS-21200
+//Infinite AP
+patch=1,EE,20291AF4,extended,00009C3C
+
+//Infinite Energy
+patch=1,EE,50291B04,extended,00000004
+patch=1,EE,00291B00,extended,00000000
+
+//Max Ammo (All Weapons)
+patch=1,EE,2025528C,extended,2402270F
+patch=1,EE,20255294,extended,A602001A
+
+//Infinite Ammo (All Weapons)
+patch=1,EE,20255274,extended,9608001A
+patch=1,EE,2025527C,extended,A6080018
+
+//Max Arena Points
+patch=1,EE,20484BC0,extended,05F5E0FF
+
+//Max Training Points
+patch=1,EE,20484960,extended,05F5E0FF
+
+//Never Overheat
+patch=1,EE,20291BB0,extended,41A00000

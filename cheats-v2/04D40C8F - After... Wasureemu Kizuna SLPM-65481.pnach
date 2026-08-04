@@ -1,0 +1,14 @@
+gametitle=After... Wasureemu Kizuna SLPM-65481
+//Unlock All CG mode
+patch=1,EE,20163218,extended,FFFFFFFF
+patch=1,EE,2016321C,extended,FFFFFFFF
+patch=1,EE,20163220,extended,FFFFFFFF
+patch=1,EE,20163224,extended,FFFFFFFF
+patch=1,EE,20163228,extended,FFFFFFFF
+patch=1,EE,2016322C,extended,FFFFFFFF
+patch=1,EE,20163230,extended,FFFFFFFF
+patch=1,EE,20163234,extended,FFFFFFFF
+
+//extra
+patch=1,EE,00163257,extended,00000001
+

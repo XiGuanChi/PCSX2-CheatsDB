@@ -1,0 +1,20 @@
+gametitle=Cabela's Alaskan Adventures SLUS-21384
+//Infinite Health
+patch=1,EE,2058C4AC,extended,3C0142C8
+patch=1,EE,2058C4B4,extended,AC81017C
+
+//Infinite Stamina
+patch=1,EE,2058CC64,extended,00000000
+patch=1,EE,2058CC8C,extended,00000000
+patch=1,EE,2058CCAC,extended,00000000
+
+//Never Reload
+patch=1,EE,20599BF0,extended,00000000
+patch=1,EE,20599C24,extended,00000000
+patch=1,EE,20599C3C,extended,00000000
+
+//God Mode
+patch=1,EE,2070B718,extended,00000001
+
+//Adventure Mode Infinite Credits
+patch=1,EE,10730F78,extended,0000FFFF

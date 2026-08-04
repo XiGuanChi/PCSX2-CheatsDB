@@ -1,0 +1,31 @@
+gametitle=Jikkyou Powerful Pro Yakyuu 15 SLPM-55024
+//Money in maximum
+patch=1,EE,D0EA6C94,extended,00008B80
+patch=1,EE,20EA6C9C,extended,00620821
+patch=1,EE,D0EA6C94,extended,00008B80
+patch=1,EE,20EA6CA0,extended,2402270F
+patch=1,EE,D0EA6C94,extended,00008B80
+patch=1,EE,20EA6CA4,extended,AC2293DC
+
+//Distributing experience points 999
+patch=1,EE,D0BCE84C,extended,000003E8
+patch=1,EE,20BCE850,extended,00000000
+
+//White Ball Dream Mode Money in maximum
+patch=1,EE,21FF2000,extended,8C82019C
+patch=1,EE,21FF2004,extended,3403270F
+patch=1,EE,21FF2008,extended,A4430000
+
+//White Ball Dream Mode - Maximum experience points
+patch=1,EE,21FF200C,extended,8C8200FC
+patch=1,EE,21FF2010,extended,3C0303E7
+patch=1,EE,21FF2014,extended,346303E7
+patch=1,EE,21FF2018,extended,AC430000
+patch=1,EE,21FF201C,extended,AC430004
+patch=1,EE,21FF2020,extended,A4430008
+
+//White Ball Dream Mode - Maximum strength
+patch=1,EE,21FF2024,extended,8C82001C
+patch=1,EE,21FF2028,extended,34030078
+patch=1,EE,21FF202C,extended,A4430000
+patch=1,EE,21FF2030,extended,A4430002

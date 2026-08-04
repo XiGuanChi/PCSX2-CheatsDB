@@ -1,0 +1,14 @@
+gametitle=Kingdom Hearts II SLPM-66233
+//Manny does not decrease even if I shop
+patch=1,EE,2023C618,extended,0000802D
+patch=1,EE,2023C648,extended,0000802D
+
+//The HP of the operating character does not decrease
+patch=1,EE,2019D12C,extended,8C820004
+patch=1,EE,2019D144,extended,AC820000
+
+//HP does not decrease
+patch=1,EE,200F7000,extended,8C820004
+patch=1,EE,200F7004,extended,08068312
+patch=1,EE,200F7008,extended,AC820000
+patch=1,EE,201669C8,extended,0C03DC00

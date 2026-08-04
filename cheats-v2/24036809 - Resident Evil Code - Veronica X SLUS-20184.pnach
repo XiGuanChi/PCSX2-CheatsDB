@@ -1,0 +1,37 @@
+gametitle=Resident Evil Code - Veronica X SLUS-20184
+//Infinite Health
+patch=1,EE,104326FC,extended,000000A0
+
+//First Person View
+patch=0,EE,0043315C,extended,000000C2
+
+//Always Low Time
+patch=1,EE,204339A0,extended,00000000
+
+//Press + For Item Box Anywhere
+patch=1,EE,D1E0DBC2,extended,0000FFFD
+patch=1,EE,00433166,extended,00000004
+
+//Press + For Security Box 1 Anywhere
+patch=1,EE,D1E0DBC2,extended,00007EFF
+patch=1,EE,00433166,extended,0000000C
+
+//Press + For Security Box 2 Anywhere
+patch=1,EE,D1E0DBC2,extended,0000BEFF
+patch=1,EE,00433166,extended,00000014
+
+//Press + To Save Anywhere
+patch=1,EE,D1E0DBC2,extended,0000BBFF
+patch=1,EE,00433166,extended,00000020
+
+//No Times Saved Recorded
+patch=1,EE,10433180,extended,00000000
+
+//Infinite Item Usage
+patch=1,EE,2028AD68,extended,00000000
+patch=1,EE,2028AD7C,extended,00000000
+
+//Extra Items
+patch=1,EE,1028AD00,extended,00000001
+patch=1,EE,1028AD0C,extended,00000001
+patch=1,EE,1028AD1C,extended,00000001

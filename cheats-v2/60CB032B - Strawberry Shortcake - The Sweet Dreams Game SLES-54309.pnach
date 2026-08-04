@@ -1,0 +1,6 @@
+gametitle=Strawberry Shortcake - The Sweet Dreams Game SLES-54309
+//Infinite Time
+patch=1,EE,201E0A88,extended,00000000
+
+//Max Seeds
+patch=1,EE,1064C494,extended,0000FFFF

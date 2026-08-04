@@ -1,0 +1,18 @@
+gametitle=Def Jam - Vendetta SLUS-20639
+//Unlock All Characters (All User Slots)
+patch=1,EE,201570E0,extended,24030001
+patch=1,EE,201570E4,extended,A0430000
+
+//Infinite Health Player 1
+patch=1,EE,202301B0,extended,43FA0000
+patch=1,EE,202301B4,extended,43FA0000
+patch=1,EE,202301B8,extended,43FA0000
+
+//No Health Player 2
+patch=1,EE,20230E88,extended,00000000
+
+//Final Grade Always A+
+patch=1,EE,202A0310,extended,00000000
+
+//Max Funds
+patch=1,EE,2029EB2C,extended,05F5E0FF

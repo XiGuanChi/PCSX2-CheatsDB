@@ -1,0 +1,36 @@
+gametitle=Der Herr der Ringe - Die zwei Türme SLES-51254
+//Must be on This code must be on for three codes below to work
+patch=1,EE,200FFF04,extended,2402270F
+patch=1,EE,200FFF00,extended,8F8385BC
+patch=1,EE,200FFF08,extended,10030009
+patch=1,EE,200FFF30,extended,24030070
+patch=1,EE,200FFF34,extended,080B114E
+patch=1,EE,202C4534,extended,0803FFC0
+
+//Infinite health
+patch=1,EE,200FFF10,extended,AC620300
+patch=1,EE,200FFF14,extended,AC620304
+
+//Max ammo
+patch=1,EE,200FFF18,extended,A4620308
+patch=1,EE,200FFF1C,extended,A462030A
+
+//Better speed
+patch=1,EE,200FFF24,extended,3C014000
+patch=1,EE,200FFF28,extended,AC610310
+
+//1 hit kill monsters
+patch=1,EE,200FFF40,extended,8F8385BC
+patch=1,EE,200FFF48,extended,14710002
+patch=1,EE,200FFF4C,extended,24030001
+patch=1,EE,200FFF50,extended,8C430024
+patch=1,EE,200FFF58,extended,AE230300
+patch=1,EE,200FFF5C,extended,0809FF12
+patch=1,EE,2027FC40,extended,0803FFD0
+
+//Unlock Isildur
+patch=1,EE,004648A3,extended,00000001
+patch=1,EE,004648A1,extended,00000001
+
+//Unlock everything - Menu
+patch=1,EE,201C27E4,extended,24020001

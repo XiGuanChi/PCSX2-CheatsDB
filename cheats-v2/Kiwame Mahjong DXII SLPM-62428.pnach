@@ -1,0 +1,13 @@
+gametitle=Kiwame Mahjong DXII SLPM-62428
+//Self score with SELECT button 999900
+patch=1,EE,D0281028,extended,00000100
+patch=1,EE,202E8138,extended,000F41DC
+
+//P1 score 999900
+patch=1,EE,202E8138,extended,000F41DC
+
+//Magazine profile interview & sparrow name changeable
+patch=1,EE,40308534,extended,00080001
+patch=1,EE,01010101,extended,00000000
+
+

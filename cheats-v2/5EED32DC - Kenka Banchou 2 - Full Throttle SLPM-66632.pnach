@@ -1,0 +1,46 @@
+gametitle=Kenka Banchou 2 - Full Throttle SLPM-66632
+//Money 9999999
+patch=1,EE,20DCC900,extended,05F5E0FF
+
+//All Stats 30
+patch=1,EE,20DCC8AC,extended,0000001E
+patch=1,EE,20DCC8B0,extended,0000001E
+patch=1,EE,20DCC8B4,extended,0000001E
+patch=1,EE,20DCC8B8,extended,0000001E
+patch=1,EE,20DCC8C0,extended,0000001E
+
+//Unlock All 108 Episodes
+patch=1,EE,20DDAF30,extended,FFFFFFFF
+patch=1,EE,20DDAF34,extended,FFFFFFFF
+patch=1,EE,20DDAF38,extended,FFFFFFFF
+patch=1,EE,10DDAF3C,extended,0000FFFF
+
+//Have Character Skills
+patch=1,EE,40DCF81C,extended,00070001
+patch=1,EE,11111111,extended,00000000
+
+//All Character Edit
+patch=1,EE,40DCF85C,extended,000F0001
+patch=1,EE,11111111,extended,00000000
+patch=1,EE,00DCF898,extended,00000011
+
+//Menchi Beam infinite
+patch=1,EE,A022FF04,extended,3C01447A
+patch=1,EE,A022F94C,extended,0C08BFC1
+patch=1,EE,A022FF08,extended,0808CF28
+patch=1,EE,A022FF0C,extended,AC4136CC
+
+//Call Taxi Map (L1+ L2+ down)
+patch=1,EE,202396E0,extended,148300FD
+patch=1,EE,D0371E42,extended,0000FABF
+patch=1,EE,202396E0,extended,100000C8
+
+//No fatigue in running
+patch=1,EE,20158AF8,extended,00000000
+
+//Infinite Energy
+patch=1,EE,2022F914,extended,C44036C0
+patch=1,EE,2022F91C,extended,E44036C4
+patch=1,EE,2022F924,extended,E44036BC
+patch=1,EE,2022F940,extended,24E60000
+patch=1,EE,2022F944,extended,24E50000

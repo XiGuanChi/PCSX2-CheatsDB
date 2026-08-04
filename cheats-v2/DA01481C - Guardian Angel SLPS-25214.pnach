@@ -1,0 +1,14 @@
+gametitle=Guardian Angel SLPS-25214
+//Flow screen fully opened
+patch=1,EE,4024DC98,extended,00110001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Synchronizable Lucia
+patch=1,EE,2024DA68,extended,00000001
+
+//Synchronizable Cecilia
+patch=1,EE,2024DA6C,extended,00000001
+
+//CG album full opening
+patch=1,EE,4024DCA4,extended,00140001
+patch=1,EE,FFFFFFFF,extended,00000000

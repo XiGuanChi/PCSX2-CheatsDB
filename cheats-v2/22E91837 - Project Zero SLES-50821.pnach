@@ -1,0 +1,60 @@
+gametitle=Project Zero SLES-50821
+//Time Frozen
+patch=1,EE,2019A658,extended,03E00008
+patch=1,EE,2019A65C,extended,00000000
+
+//Monster Score
+patch=1,EE,20269A78,extended,05F5E0FF
+
+//Infinite Health
+patch=1,EE,20256824,extended,000001FD
+
+//Infinite Spirit Stones
+patch=1,EE,002580E5,extended,00000009
+
+//Infinite Film Type-7
+patch=1,EE,002580E0,extended,00000063
+
+//Infinite Film Type-14
+patch=1,EE,002580E1,extended,00000063
+
+//Infinite Film Type-37
+patch=1,EE,002580E2,extended,00000063
+
+//Infinite Film Type-74
+patch=1,EE,002580E3,extended,00000063
+
+//Infinite Film Type-90
+patch=1,EE,002580E4,extended,00000063
+
+//Racing Life Chapter Codes Have Chapter 1 Open
+patch=1,EE,2050A5E4,extended,00000001
+//Have Chapter 2 Open
+patch=1,EE,2050A5E8,extended,00000001
+//Have Chapter 3 Open
+patch=1,EE,2050A5EC,extended,00000001
+//Have Chapter 4 Open
+patch=1,EE,2050A5F0,extended,00000001
+//Have Chapter 5 Open
+patch=1,EE,2050A5F4,extended,00000001
+//Have Chapter 6 Open
+patch=1,EE,2050A5F8,extended,00000001
+//Have Chapter 7 Open
+patch=1,EE,2050A5FC,extended,00000001
+//Have Chapter 8 Open
+patch=1,EE,2050A600,extended,00000001
+//Have Chapter 9 Open
+patch=1,EE,2050A604,extended,00000001
+//Have Chapter 10 Open
+patch=1,EE,2050A608,extended,00000001
+//Have Chapter 11 Open
+patch=1,EE,2050A60C,extended,00000001
+//Have Chapter 12 Open
+patch=1,EE,2050A610,extended,00000001
+//Have Chapter 13 Open
+patch=1,EE,2050A614,extended,00000001
+//Have Chapter 14 Open
+patch=1,EE,2050A618,extended,00000001
+
+//Have Max RP In Event Challenge
+patch=1,EE,20509DB4,extended,05F5E0FF

@@ -1,0 +1,12 @@
+gametitle=Drome Racers SLUS-20577
+//Max Build Tokens
+patch=1,EE,204F3F04,extended,05F5E0FF
+
+//Max Credits 
+patch=1,EE,204F3F00,extended,05F5E0FF
+
+//Stop Lap Timer 
+patch=1,EE,20270F2C,extended,00000000
+
+//Stop Total Lap Timer
+patch=1,EE,202AF7DC,extended,00000000

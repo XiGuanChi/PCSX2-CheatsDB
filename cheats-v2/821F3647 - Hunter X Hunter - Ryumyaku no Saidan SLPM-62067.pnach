@@ -1,0 +1,13 @@
+gametitle=Hunter X Hunter - Ryumyaku no Saidan SLPM-62067
+//The killer does not decrease
+patch=1,EE,201454A0,extended,24420000
+
+//AURA gauge immediate recovery
+patch=1,EE,201478C0,extended,00000000
+
+//All items
+patch=1,EE,20198004,extended,24010001
+patch=1,EE,2019800C,extended,A0410000
+
+//Full recovery When recovery LIFE
+patch=1,EE,2013ABE0,extended,00000000

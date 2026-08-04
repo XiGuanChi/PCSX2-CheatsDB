@@ -1,0 +1,15 @@
+gametitle=Brave - The Search for Spirit Dancer SLUS-21127
+//Keep Save Ability
+patch=1,EE,00401A18,extended,00000000
+
+//Infinite Health
+patch=1,EE,00465930,extended,00000008
+
+//Infinite Spirit Energy
+patch=1,EE,00465988,extended,00000008
+
+//Infinite Arrows
+patch=1,EE,004659E0,extended,00000008
+
+//Level Unlock
+patch=1,EE,00465938,extended,00000008

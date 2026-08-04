@@ -1,0 +1,26 @@
+gametitle=ObsCure SLES-52508
+// All Characters infinite Health
+patch=1,EE,0015ab90,word,46010030
+patch=1,EE,0015ab54,word,46000840
+
+//Characters never exhausted when Running
+patch=1,EE,0016115c,word,00401021
+
+//Pistol Ammo not decreasing
+patch=1,EE,0036a820,word,24420000
+
+//Laser never overcharges with infinite Ammo
+patch=1,EE,0014c3c4,word,10000003
+patch=1,EE,0014c3c8,word,44820000
+patch=1,EE,0014c434,word,ae8001f0
+patch=1,EE,0014ce24,word,ae8001f0
+
+//Energy Drinks not decreasing
+patch=1,EE,001addd8,word,24630000
+
+//Discs not decreasing
+patch=1,EE,002e8fe0,word,24630000
+
+//Pump-Action Shotgun Ammo not decreasing
+patch=1,EE,00363614,word,24420000
+

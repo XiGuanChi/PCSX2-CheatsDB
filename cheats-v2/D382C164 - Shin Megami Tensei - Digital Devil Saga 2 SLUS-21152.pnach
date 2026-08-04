@@ -1,0 +1,118 @@
+gametitle=Shin Megami Tensei - Digital Devil Saga 2 SLUS-21152
+//Max Cash
+patch=1,EE,2117433C,extended,05F5E0FF
+
+//Serph Codes
+//Max Level
+patch=1,EE,01174D74,extended,00000063
+
+//Infinite HP
+patch=1,EE,11174D66,extended,000003E7
+
+//Max HP
+patch=1,EE,11174D68,extended,000003E7
+
+//Infinite MP
+patch=1,EE,11174D6A,extended,000003E7
+
+//Max MP
+patch=1,EE,11174D6C,extended,000003E7
+
+//Max St
+patch=1,EE,01174D76,extended,00000063
+
+//Max Vi
+patch=1,EE,01174D77,extended,00000063
+
+//Max Ma
+patch=1,EE,01174D78,extended,00000063
+
+//Max Ag
+patch=1,EE,01174D79,extended,00000063
+
+//Max Lu
+patch=1,EE,01174D7A,extended,00000063
+
+//Argilla Codes
+//Max Level
+patch=1,EE,01174F38,extended,00000063
+
+//Infinite HP
+patch=1,EE,11174F2A,extended,000003E7
+
+//Max HP
+patch=1,EE,11174F2C,extended,000003E7
+
+//Infinite MP
+patch=1,EE,11174F2E,extended,000003E7
+
+//Max MP
+patch=1,EE,11174F3A,extended,000003E7
+
+//Max St
+patch=1,EE,11174F3B,extended,00000063
+
+//Max Vi
+patch=1,EE,11174F3C,extended,00000063
+
+//Max Ma
+patch=1,EE,11174F3D,extended,00000063
+
+//Max Ag
+patch=1,EE,11174F3E,extended,00000063
+
+//Max Lu
+patch=1,EE,11174F3F,extended,00000063
+
+//Gale Codes
+//Max Level
+patch=1,EE,011750FC,extended,00000063
+
+//Infinite HP
+patch=1,EE,111750EE,extended,000003E7
+
+//Max HP
+patch=1,EE,111750F0,extended,000003E7
+
+//Infinite MP
+patch=1,EE,111750F2,extended,000003E7
+
+//Max MP
+patch=1,EE,111750F4,extended,000003E7
+
+//Max St
+patch=1,EE,111750FE,extended,00000063
+
+//Max Vi
+patch=1,EE,111750FF,extended,00000063
+
+//Max Ma
+patch=1,EE,11175100,extended,00000063
+
+//Max Ag
+patch=1,EE,11175101,extended,00000063
+
+//Max Lu
+patch=1,EE,11175102,extended,00000063
+
+//Master Code In-Battle Codes
+patch=1,EE,200C2060,extended,03E00008
+patch=1,EE,200C2064,extended,96650126
+patch=1,EE,201C76B0,extended,0C030814
+
+//Inf HP In-Battle 
+patch=1,EE,200C2050,extended,96610128
+patch=1,EE,200C2054,extended,A6610126
+
+//Inf MP In-Battle 
+patch=1,EE,200C2058,extended,9661012C
+patch=1,EE,200C205C,extended,A661012A
+
+// No Random Battles
+/patch=0,EE,21175744,extended,00000000
+
+//Random Battles L1+Select To Disable, L2+Select To Enable
+patch=1,EE,D0476282,extended,0000FBFE
+patch=1,EE,2011EA28,extended,00000000
+patch=1,EE,D0476282,extended,0000FEFE
+patch=1,EE,2011EA28,extended,A4831444

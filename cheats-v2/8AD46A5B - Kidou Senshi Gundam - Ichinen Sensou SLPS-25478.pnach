@@ -1,0 +1,29 @@
+gametitle=Kidou Senshi Gundam - Ichinen Sensou SLPS-25478
+//Free mission all stages appear
+patch=1,EE,204BA960,extended,0000001C
+patch=1,EE,204BA964,extended,0000001C
+
+//All memorial actions All movies will also appear.
+patch=1,EE,204BAD6C,extended,00003FFF
+
+//All model viewers open when you enter each item of MODEL VIEWER.
+patch=1,EE,203142E0,extended,24040001
+patch=1,EE,203142E4,extended,AC640000
+
+//All music
+patch=1,EE,204BAFB0,extended,7FFFFFFF
+
+//Own HP does not decrease
+patch=1,EE,202E95D0,extended,E4630000
+
+//Invincible (namely HP does not reduce)
+patch=1,EE,20165340,extended,1000033E
+
+//Enemy MS single blow death.It is invalid in other than the mobile suit.
+patch=1,EE,20147760,extended,AE4001CC
+
+//MS thruster gauge it does not decrease.
+patch=1,EE,202EDD74,extended,E62144EC
+
+//SCORE is highest (namely RANK S)
+patch=1,EE,204DE0BC,extended,4B18967F

@@ -1,0 +1,7 @@
+gametitle=Kyo Kara Maoh! Hajimari no Tabi SLPS-25663
+//Battle in Uesama gauge s MAX
+patch=1,EE,20239158,extended,00000100
+
+//Gallery fully open
+patch=1,EE,40238DF0,extended,00120001
+patch=1,EE,FFFFFFFF,extended,00000000

@@ -1,0 +1,12 @@
+gametitle=Rocky SLES-51208
+//Open All Characters
+patch=1,EE,1022DEF4,extended,00000016
+
+//Infinite Health P1
+patch=1,EE,10278F42,extended,00003F80
+patch=1,EE,10278F46,extended,00003F80
+
+//1 Hit KO On P2
+patch=1,EE,10279802,extended,00000001
+patch=1,EE,10279806,extended,00000001
+

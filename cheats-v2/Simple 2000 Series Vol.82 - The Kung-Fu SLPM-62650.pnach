@@ -1,0 +1,20 @@
+gametitle=Simple 2000 Series Vol.82 - The Kung-Fu SLPM-62650
+//Infinite HP
+patch=1,EE,1069E058,extended,000000C8
+patch=1,EE,1069E070,extended,000000C8
+
+//Protagonist status
+//Physical fitness
+patch=1,EE,0062E81A,extended,00000005
+
+//Strength
+patch=1,EE,0062E81E,extended,00000005
+
+//Defense power
+patch=1,EE,0062E822,extended,00000005
+
+//Mental strength
+patch=1,EE,0062E826,extended,00000005
+
+//Achievement
+patch=1,EE,0062E82A,extended,00000005

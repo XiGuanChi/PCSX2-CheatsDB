@@ -1,0 +1,35 @@
+gametitle=Spawn - Armageddon SLUS-20707
+//Infinite Health
+patch=1,EE,200C0220,extended,08087C2C
+patch=1,EE,200C0224,extended,E62D01D4
+patch=1,EE,201614B0,extended,0C030088
+
+//Infinite Necroplasm
+patch=1,EE,20339580,extended,42C80000
+
+//Infinite Souls (Powerup Screen)
+patch=1,EE,20339594,extended,000003E7
+
+//Have All Weapons
+patch=1,EE,10339944,extended,0000FFFF
+patch=1,EE,1033D3D4,extended,0000FFFF
+
+//infinite Ammo (All Weapons)
+patch=1,EE,2016B4EC,extended,00000000
+patch=1,EE,2016C130,extended,00000000
+
+//Unlock All Comic Gallery
+patch=1,EE,10339946,extended,0000FFFF
+patch=1,EE,20339948,extended,FFFFFFFF
+patch=1,EE,2033994C,extended,FFFFFFFF
+patch=1,EE,20339950,extended,FFFFFFFF
+patch=1,EE,1033D3D6,extended,0000FFFF
+patch=1,EE,2033D3D8,extended,FFFFFFFF
+patch=1,EE,2033D3DC,extended,FFFFFFFF
+patch=1,EE,2033D3E0,extended,FFFFFFFF
+
+//Unlock All Encyclopedia
+patch=1,EE,0033995F,extended,000000FF
+patch=1,EE,20339960,extended,FFFFFFFF
+patch=1,EE,0033D3EF,extended,000000FF
+patch=1,EE,2033D3F0,extended,FFFFFFFF

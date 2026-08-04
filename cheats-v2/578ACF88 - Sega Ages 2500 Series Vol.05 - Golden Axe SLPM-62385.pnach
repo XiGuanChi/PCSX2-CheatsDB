@@ -1,0 +1,15 @@
+gametitle=Sega Ages 2500 Series Vol.05 - Golden Axe SLPM-62385
+//Invincible· ON SELECT + L1  OFF SELECT + L2 
+patch=1,EE,D0A7BDC2,extended,0000FBFE
+patch=1,EE,20A7BC70,extended,00000001
+patch=1,EE,D0A7BDC2,extended,0000FEFE
+patch=1,EE,20A7BC70,extended,00000000
+
+//Infinite MP
+patch=1,EE,20A7BC78,extended,00000001
+
+//Infinite Credits
+patch=1,EE,2019E0D4,extended,00000000
+
+//Invincible
+patch=1,EE,20A7BC70,extended,00000001

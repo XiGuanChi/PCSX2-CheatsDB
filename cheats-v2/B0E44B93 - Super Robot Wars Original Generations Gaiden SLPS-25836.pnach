@@ -1,0 +1,65 @@
+gametitle=Super Robot Wars Original Generations Gaiden SLPS-25836
+//Maximum due to fluctuations in funds
+patch=1,EE,20172F4C,extended,24010000
+
+//MAX due to changes in funds
+patch=1,EE,A0172F50,extended,00000000
+
+//Maximum experience points
+patch=1,EE,20269C84,extended,00000000
+
+//Change your taste and soul 15 times
+patch=1,EE,202A3818,extended,3C024170
+
+//Lifting the power limit of the weapon used (modified version)
+patch=1,EE,D04A9F1C,extended,0000008F
+patch=1,EE,204A9F24,extended,24020000
+patch=1,EE,2020CAB0,extended,24020000
+
+//Enemy controllable (modified version) ON: L2 + L3 OFF: L2 + R3 When turned on, the enemy will be excluded from the attack target.
+//Turn it on only when operating an enemy.
+patch=1,EE,D0319982,extended,0000FEFD
+patch=1,EE,2044FF90,extended,24020000
+patch=1,EE,D0319982,extended,0000FEFB
+patch=1,EE,2044FF90,extended,0C08DA74
+
+//Equipped with 4 parts
+patch=1,EE,202769A8,extended,24020003
+
+//HP remodeling limit 15
+patch=1,EE,20276414,extended,2402000F
+
+//EN modification limit 15
+patch=1,EE,20276388,extended,2402000F
+
+//Motility modification limit 15
+patch=1,EE,20276304,extended,2402000F
+
+//Armor modification limit 15
+patch=1,EE,20276278,extended,2402000F
+
+//PP 9999
+patch=1,EE,2026A3BC,extended,50C00006
+patch=1,EE,2026A3C0,extended,2402270F
+patch=1,EE,2026A3D8,extended,03E00008
+patch=1,EE,2026A3DC,extended,A482000C
+
+//Number of shots down 999
+patch=1,EE,2026A46C,extended,50C00006
+patch=1,EE,2026A470,extended,240203E7
+patch=1,EE,2026A488,extended,03E00008
+patch=1,EE,2026A48C,extended,A4820006
+
+//Mode change (15 ban SPECIAL)
+patch=1,EE,E0043157,extended,00576BA0
+patch=1,EE,205981D8,extended,24030002
+patch=1,EE,205981E0,extended,AC430FEC
+patch=1,EE,205981E4,extended,AC43104C
+patch=1,EE,205981E8,extended,AC431050
+
+//Infinite action ON: L1 + L3 OFF: L1 + R3
+patch=1,EE,D0319982,extended,0000FBFD
+patch=1,EE,20224904,extended,64040000
+patch=1,EE,D0319982,extended,0000FBFB
+patch=1,EE,20224904,extended,64040010
+

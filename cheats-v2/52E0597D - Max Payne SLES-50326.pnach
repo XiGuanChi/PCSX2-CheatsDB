@@ -1,0 +1,149 @@
+gametitle=Max Payne SLES-50326
+//Infinite Painkillers
+patch=1,EE,2036EC80,extended,00000000
+
+//Infinite Ammo With No Reloads
+patch=1,EE,2036F648,extended,00000000
+
+//Infinite Bullet Time
+patch=1,EE,20164070,extended,00000000
+patch=1,EE,20163FBC,extended,00000000
+
+//Unlock Level Codes Part I Roscoe St. Station
+patch=1,EE,105B0010,extended,000004DD
+//So Much For Being Subtle
+patch=1,EE,105B0814,extended,000004E2
+//One Way Or The Other
+patch=1,EE,105B1018,extended,000004D6
+//Live From The Crime Scene
+patch=1,EE,105B181C,extended,000004D6
+//Stepping On Toes
+patch=1,EE,105B2020,extended,000004D6
+//Playing It Bogart
+patch=1,EE,105B2824,extended,000004D6
+//Without Warning
+patch=1,EE,105B3028,extended,000004D6
+//A Few Hundred Bullets Back
+patch=1,EE,105B382C,extended,000004D6
+//Caught In the Crossfire
+patch=1,EE,105B4030,extended,000004D6
+//Rico Muerte Big Time Hustler
+patch=1,EE,105B4834,extended,000004D6
+//The Blood Veins Of New York
+patch=1,EE,105B5038,extended,000004D6
+//The Man Riding Shotgun
+patch=1,EE,105B583C,extended,000004D6
+//Something More Sinister
+patch=1,EE,105B6040,extended,000004D6
+//Let The Gun Do The Talking
+patch=1,EE,105B6844,extended,000004D6
+//The Alternate Route
+patch=1,EE,105B7048,extended,000004D6
+//A One Man War
+patch=1,EE,105B784C,extended,000004D6
+//A Citywide APB
+patch=1,EE,105B8050,extended,000004D6
+//Fear That Gives Men Wings
+patch=1,EE,105B8854,extended,000004D6
+//Better Than The Last One
+patch=1,EE,105B9058,extended,000004D6
+//Ice Hard And Slick
+patch=1,EE,105B985C,extended,000004D6
+//All A Blur
+patch=1,EE,105BA060,extended,000004D6
+//A Den Of Drugs
+patch=1,EE,105BA864,extended,000004D6
+//Ragna Rock
+patch=1,EE,105BB068,extended,000004D6
+//An Empire Of Evil
+patch=1,EE,105BB86C,extended,000004D6
+//Straight From A Bad Dream
+patch=1,EE,105BC070,extended,000004D6
+//Part II
+//Prologue
+patch=1,EE,105BC874,extended,000004D6
+//The Baseball Bat
+patch=1,EE,105BD078,extended,000004D6
+//From Bad To Worse
+patch=1,EE,105BD87C,extended,000004D6
+//Mobster Muscle
+patch=1,EE,105BE080,extended,000004D6
+//An Offer You Can't Refuse
+patch=1,EE,105BE884,extended,000004D6
+//Cold And To The Point
+patch=1,EE,105BF088,extended,000004D6
+//Family Troubles
+patch=1,EE,105BF88C,extended,000004D6
+//With Rats And Oily Water
+patch=1,EE,105C0090,extended,000004D6
+//Pissing Punchinello Off
+patch=1,EE,105C0894,extended,000004D6
+//A Dangerous Game
+patch=1,EE,105C1098,extended,000004D6
+//No Payne No Gain
+patch=1,EE,105C189C,extended,000004D6
+//Put Out My Flames-Gasoline
+patch=1,EE,105C20A0,extended,000004D6
+//Murderous Hearts
+patch=1,EE,105C28A4,extended,000004D6
+//Angel Of Death
+patch=1,EE,105C30A8,extended,000004D6
+//Trouble On Dagger Heels
+patch=1,EE,105C38AC,extended,000004D6
+//Part III
+//Prologue - Vortex GB
+patch=1,EE,105C40B0,extended,000004D6
+//Funny As Hell
+patch=1,EE,105C48B4,extended,000004D6
+//The Killer Was Smiling
+patch=1,EE,105C50B8,extended,000004D6
+//Take Me To Cold Steel
+patch=1,EE,105C58BC,extended,000004D6
+//Operation Dead Eyes
+patch=1,EE,105C60C0,extended,000004D6
+//Hidden Truths
+patch=1,EE,105C68C4,extended,000004D6
+//A Tight Operation
+patch=1,EE,105C70C8,extended,000004D6
+//The Next Doorway
+patch=1,EE,105C78CC,extended,000004D6
+//The Deep Six
+patch=1,EE,105C88D4,extended,000004D6
+//Final Revelation
+patch=1,EE,105C80D0,extended,000004D6
+//Project Valhalla
+patch=1,EE,105C90D8,extended,000004D6
+//Backstabbing Bastard
+patch=1,EE,105C98DC,extended,000004D6
+//Alive And At Large
+patch=1,EE,105CA0E0,extended,000004D6
+//The Name Of Your Enemy
+patch=1,EE,105CA8E4,extended,000004D6
+//In The Land Of The Blind
+patch=1,EE,105CB0E8,extended,000004D6
+//Providing A Service
+patch=1,EE,105CB8EC,extended,000004D6
+//A Sci-Fi Fortress
+patch=1,EE,105CC0F0,extended,000004D6
+//Byzantine Power Game
+patch=1,EE,105CC8F4,extended,000004D6
+//Nothing To Lose
+patch=1,EE,105CD0F8,extended,000004D6
+//Clean Up Duty
+patch=1,EE,105CD8FC,extended,000004D6
+//An Eye For An Eye
+patch=1,EE,105CE100,extended,000004D6
+//Stone-Cold Dead
+patch=1,EE,105CE904,extended,000004D6
+//Take Your Pick
+patch=1,EE,105CF108,extended,000004D6
+//A Warrior's Heaven
+patch=1,EE,105CF90C,extended,000004D6
+//A One-Way Demon Ride
+patch=1,EE,105D0110,extended,000004D6
+//Pain And Suffering
+patch=1,EE,105D0914,extended,000004D6
+//End Credits
+patch=1,EE,105D1118,extended,000004D6
+//End Combat
+patch=1,EE,105D191C,extended,000004D6

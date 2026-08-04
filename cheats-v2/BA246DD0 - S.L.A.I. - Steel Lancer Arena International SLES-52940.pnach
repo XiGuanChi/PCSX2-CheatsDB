@@ -1,0 +1,28 @@
+gametitle=S.L.A.I. - Steel Lancer Arena International SLES-52940
+//Infinite CR
+patch=1,EE,20603b40,extended,05f5e0ff
+
+//Infinite Ammo
+patch=1,EE,2072d898,extended,43480000
+patch=1,EE,2072db98,extended,43480000
+patch=1,EE,2072de98,extended,43480000
+patch=1,EE,2072e198,extended,43480000
+
+//unendlich Rüstung (50.000)
+patch=1,EE,10cbab14,extended,0000c350
+patch=1,EE,10cbab24,extended,0000c350
+patch=1,EE,10cbab28,extended,0000c350
+
+//Punkte 9,999,999
+patch=1,EE,20cbaad8,extended,0098967f
+patch=1,EE,20cbaadc,extended,0098967f
+
+//Zerstört 9999
+patch=1,EE,20cbaae4,extended,0000270f
+
+//Zeit O.T. (fehlerhaft)
+patch=1,EE,2030c8b4,extended,43020000
+
+//alle Waffen
+patch=1,EE,204d74a0,extended,a0630000
+patch=1,EE,204d77d0,extended,a0630000

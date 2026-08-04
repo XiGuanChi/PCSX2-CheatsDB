@@ -1,0 +1,10 @@
+gametitle=Prince of Persia - Kenshi no Kokoro SLPM-66002
+//Maximum physical strength, maximum sand bowl, time skill can be used Time skills cannot be used in the opening battle on board.
+patch=1,EE,20369910,extended,10000069
+patch=1,EE,203F4B14,extended,1000000D
+
+//Extra gallery fully open
+patch=1,EE,207DEC40,extended,FFFFFFFF
+patch=1,EE,207DEC44,extended,FFFFFFFF
+patch=1,EE,207DEC48,extended,FFFFFFFF
+patch=1,EE,207DEC4C,extended,FFFFFFFF

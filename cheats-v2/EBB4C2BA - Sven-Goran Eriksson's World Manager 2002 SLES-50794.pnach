@@ -1,0 +1,20 @@
+gametitle=Sven-Goran Eriksson's World Manager 2002 SLES-50794
+//Home Team score 99: sel+L2
+patch=1,EE,D0382182,extended,0000FEFE
+patch=1,EE,103450E8,extended,00000063
+
+//Home Team score 0: sel+R2
+patch=1,EE,D0382182,extended,0000FEFE
+patch=1,EE,103450E8,extended,00000000
+
+//Away team score 99: sel+R2
+patch=1,EE,D0382182,extended,0000FEFE
+patch=1,EE,103450EA,extended,00000063
+
+//Away team score 0: sel+L2
+patch=1,EE,D0382182,extended,0000FEFE
+patch=1,EE,103450EA,extended,00000000
+
+//Jump to Half Time: L1+L2+R1+R2
+patch=1,EE,D0382182,extended,0000F0F0
+patch=1,EE,1034526C,extended,00003E26

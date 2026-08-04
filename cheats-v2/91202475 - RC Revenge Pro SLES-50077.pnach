@@ -1,0 +1,83 @@
+gametitle=RC Revenge Pro SLES-50077
+//Have Turbo Boost
+patch=1,EE,1078DA06,extended,00000002
+patch=1,EE,1078DB54,extended,00000201
+
+//All Cars
+patch=1,EE,101EBE34,extended,00000001
+patch=1,EE,101EBE68,extended,00000001
+patch=1,EE,101EBE9C,extended,00000001
+patch=1,EE,101EBED0,extended,00000001
+patch=1,EE,101EBF04,extended,00000001
+patch=1,EE,101EBF38,extended,00000001
+patch=1,EE,101EBF6C,extended,00000001
+patch=1,EE,101EBFA0,extended,00000001
+patch=1,EE,101EBFD4,extended,00000001
+patch=1,EE,101EC008,extended,00000001
+patch=1,EE,101EC070,extended,00000001
+patch=1,EE,101EC03C,extended,00000001
+patch=1,EE,101EC0A4,extended,00000001
+patch=1,EE,101EC0D8,extended,00000001
+patch=1,EE,101EC10C,extended,00000001
+patch=1,EE,101EC140,extended,00000001
+patch=1,EE,101EBD98,extended,00000001
+patch=1,EE,101EBDCC,extended,00000001
+patch=1,EE,101EBE00,extended,00000001
+
+//All Cups
+patch=1,EE,101ECF34,extended,00000008
+
+//All Time Trials 1
+patch=1,EE,201ECE74,extended,00007190
+patch=1,EE,201ECE78,extended,00007190
+patch=1,EE,201ECE7C,extended,00007190
+patch=1,EE,201ECE80,extended,00007190
+patch=1,EE,201ECE84,extended,00007190
+patch=1,EE,201ECE88,extended,00007190
+patch=1,EE,201ECE8C,extended,00007190
+patch=1,EE,201ECE90,extended,00007190
+patch=1,EE,201ECE94,extended,00007190
+patch=1,EE,201ECE98,extended,00007190
+patch=1,EE,201ECE9C,extended,00007190
+patch=1,EE,201ECEA0,extended,00007190
+patch=1,EE,201ECEA4,extended,00007190
+patch=1,EE,201ECEA8,extended,00007190
+patch=1,EE,201ECEAC,extended,00007190
+patch=1,EE,201ECEB0,extended,00007190
+patch=1,EE,201ECEB4,extended,00007190
+patch=1,EE,201ECEB8,extended,00007190
+patch=1,EE,201ECEBC,extended,00007190
+patch=1,EE,201ECEC0,extended,00007190
+patch=1,EE,201ECEC4,extended,00007190
+
+//All Time Trials 2
+patch=1,EE,201ECEC8,extended,00007190
+patch=1,EE,201ECECC,extended,00007190
+patch=1,EE,201ECED0,extended,00007190
+patch=1,EE,201ECED4,extended,00007190
+patch=1,EE,201ECED8,extended,00007190
+patch=1,EE,201ECEDC,extended,00007190
+patch=1,EE,201ECEE0,extended,00007190
+patch=1,EE,201ECEE4,extended,00007190
+patch=1,EE,201ECEE8,extended,00007190
+patch=1,EE,201ECEEC,extended,00007190
+patch=1,EE,201ECEF0,extended,00007190
+patch=1,EE,201ECEF4,extended,00007190
+patch=1,EE,201ECEF8,extended,00007190
+patch=1,EE,201ECEFC,extended,00007190
+patch=1,EE,201ECF00,extended,00007190
+patch=1,EE,201ECF04,extended,00007190
+patch=1,EE,201ECF08,extended,00007190
+patch=1,EE,201ECF0C,extended,00007190
+patch=1,EE,201ECF10,extended,00007190
+patch=1,EE,201ECF14,extended,00007190
+patch=1,EE,201ECF18,extended,00007190
+patch=1,EE,201ECF1C,extended,00007190
+patch=1,EE,201ECF20,extended,00007190
+patch=1,EE,201ECF24,extended,00007190
+patch=1,EE,201ECF28,extended,00007190
+patch=1,EE,201ECF2C,extended,00007190
+patch=1,EE,201ECF30,extended,00007190
+
+//Timer Zero
+patch=1,EE,201EDB98,extended,00002CFF

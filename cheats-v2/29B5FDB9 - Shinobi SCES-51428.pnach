@@ -1,0 +1,12 @@
+gametitle=Shinobi SCES-51428
+//Infinite Health
+patch=1,EE,2019DD88,extended,00000000
+
+//Infinite Shuriken
+patch=1,EE,201B338C,extended,00000000
+
+//One Hit Kills
+patch=1,EE,201A9984,extended,00000000
+
+//All Movies/Levels Unlocked
+patch=1,EE,2083228C,extended,01000012

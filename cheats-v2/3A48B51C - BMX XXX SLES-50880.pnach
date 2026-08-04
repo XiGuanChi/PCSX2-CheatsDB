@@ -1,0 +1,50 @@
+gametitle=BMX XXX SLES-50880
+//Infinite health
+patch=1,EE,201AD1B0,extended,240200FF
+patch=1,EE,201AD1B8,extended,A2020194
+
+//All characters Stats maxed
+patch=1,EE,201DAAA8,extended,44811000
+patch=1,EE,201DAA94,extended,3C013FC0
+
+//Max score
+patch=1,EE,200FFF00,extended,3C024E00
+patch=1,EE,200FFF04,extended,AE420000
+patch=1,EE,200FFF08,extended,24040005
+patch=1,EE,200FFF0C,extended,0806C381
+patch=1,EE,201B0DFC,extended,0803FFC0
+
+//Freeze challenge timer
+patch=1,EE,201EBCE0,extended,00000000
+
+//Infinite time (run)
+patch=1,EE,202F2F24,extended,00004048
+
+//Unlock Amish Boy
+patch=1,EE,10270B14,extended,00000000
+
+//Unlock all movies
+patch=1,EE,2027AAEC,extended,00000001
+patch=1,EE,2027AAF0,extended,00000001
+patch=1,EE,2027AAE8,extended,00000001
+patch=1,EE,2027AAF4,extended,00000001
+patch=1,EE,2027AAF8,extended,00000001
+patch=1,EE,2027AAFC,extended,00000001
+patch=1,EE,2027AB00,extended,00000001
+patch=1,EE,2027AB04,extended,00000001
+patch=1,EE,2027AB08,extended,00000001
+patch=1,EE,2027AB0C,extended,00000001
+patch=1,EE,2027AB10,extended,00000001
+patch=1,EE,2027AB14,extended,00000001
+patch=1,EE,2027AB18,extended,00000001
+patch=1,EE,2027AB1C,extended,00000001
+patch=1,EE,2027AB20,extended,00000001
+patch=1,EE,2027AB24,extended,00000001
+patch=1,EE,2027AB28,extended,00000001
+patch=1,EE,2027AB2C,extended,00000001
+
+//Have all special modes
+patch=1,EE,10258B80,extended,0000FFFF
+
+//All bikes
+patch=1,EE,00272B4B,extended,00000005

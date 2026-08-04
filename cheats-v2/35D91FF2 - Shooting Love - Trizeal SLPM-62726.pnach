@@ -1,0 +1,12 @@
+gametitle=Shooting Love - Trizeal SLPM-62726
+//Infinite Lives Player 1
+patch=1,EE,203C71C4,extended,00000003
+
+//Infinite Bombs Player 1
+patch=1,EE,203C7200,extended,00000005
+
+//Infinite Lives Player 2
+patch=1,EE,203C7218,extended,00000003
+
+//Infinite Bombs Player 2
+patch=1,EE,203C7254,extended,00000005

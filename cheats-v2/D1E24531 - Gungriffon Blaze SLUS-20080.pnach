@@ -1,0 +1,107 @@
+gametitle=Gungriffon Blaze SLUS-20080
+
+//Have All Weapons Systems
+patch=1,EE,203D9A40,extended,FFFFFFFF
+patch=1,EE,103D9A44,extended,0000FFFF
+
+//Max Score
+patch=1,EE,204886C8,extended,05F5E0FF
+
+//Infinite Firepower 1
+patch=1,EE,104466C4,extended,00000009
+
+//Infinite Super Reload
+patch=1,EE,104466C6,extended,00000009
+
+//Infinite Flash Roll
+patch=1,EE,104466C8,extended,00000009
+
+//Infinite Advance Armor 2
+patch=1,EE,104466CA,extended,00000009
+
+//Infinite Wheel Adaptor
+patch=1,EE,104466CC,extended,00000009
+
+//Infinite Super Zoom
+patch=1,EE,104466CE,extended,00000009
+
+//Infinite Hyper Zoom
+patch=1,EE,104466D0,extended,00000009
+
+//Infinite IG System
+patch=1,EE,104466D2,extended,00000009
+
+//Infinite Jump Regulator
+patch=1,EE,104466D4,extended,00000009
+
+//Infinite Firepower M
+patch=1,EE,104466D6,extended,00000009
+
+//Infinite Advance Armor M
+patch=1,EE,104466D8,extended,00000009
+
+//Infinite Firepower 2
+patch=1,EE,104466DA,extended,00000009
+
+//Infinite Advance Armor 1
+patch=1,EE,104466DC,extended,00000009
+
+//Infinite Quick Reload
+patch=1,EE,104466DE,extended,00000009
+
+//Infinite Hyper Reload
+patch=1,EE,104466E0,extended,00000009
+
+//Infinite CH Missile
+patch=1,EE,104464C4,extended,00000009
+
+//Infinite MS Bomb
+patch=1,EE,104464C6,extended,00000009
+
+//Infinite NP Gun
+patch=1,EE,104464C8,extended,00000009
+
+//Infinite Rocket Pod
+patch=1,EE,104464CA,extended,00000009
+
+//Infinite AT Missile
+patch=1,EE,104464CC,extended,00000009
+
+//Infinite Gun
+patch=1,EE,104464CE,extended,00000009
+
+//Infinite MG Version 1
+patch=1,EE,104464D0,extended,00000009
+
+//Infinite S Shotgun
+patch=1,EE,104464D2,extended,00000009
+
+//Infinite Grenade Version 1
+patch=1,EE,104464D4,extended,00000009
+
+//Infinite Grenade Version 2
+patch=1,EE,104464D6,extended,00000009
+
+//Infinite Hyper Grenade
+patch=1,EE,104464D8,extended,00000009
+
+//Infinite Shotgun
+patch=1,EE,104464DA,extended,00000009
+
+//Infinite Power MG
+patch=1,EE,104464DC,extended,00000009
+
+//Infinite SS Rocket Gun
+patch=1,EE,104464DE,extended,00000009
+
+//Infinite MG Version 2
+patch=1,EE,104464E0,extended,00000009
+
+//Infinite MG Version 3
+patch=1,EE,104464E2,extended,00000009
+
+//Infinite HH Missile
+patch=1,EE,104464E4,extended,00000009
+
+//Infinite Fuel
+patch=1,EE,104464E6,extended,00000009

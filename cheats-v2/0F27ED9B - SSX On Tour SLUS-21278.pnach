@@ -1,0 +1,25 @@
+gametitle=SSX On Tour SLUS-21278
+//Infinite Cash
+patch=1,EE,2053BFA8,extended,05F5E0FF
+
+//Infinite Boost
+patch=1,EE,20115E40,extended,00000000
+patch=1,EE,20116154,extended,00000000
+
+//Max Score After 1 Trick
+patch=1,EE,2010BCB4,extended,3C0305F5
+patch=1,EE,2010BCC4,extended,3463E0FF
+patch=1,EE,2010BF04,extended,3C0305F5
+patch=1,EE,2010BF14,extended,3463E0FF
+
+//Quick Score Gain
+patch=1,EE,2010BCC4,extended,2463270F
+
+//Unlock All Characters
+patch=1,EE,205AE52C,extended,00000001
+
+//Enable All Movies
+patch=1,EE,205AE528,extended,00000001
+
+//Enable Freeride
+patch=1,EE,205AE530,extended,00000001

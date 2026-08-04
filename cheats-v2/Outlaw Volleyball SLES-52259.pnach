@@ -1,0 +1,45 @@
+gametitle=Outlaw Volleyball SLES-52259
+//Press Select For 9999 Drill Points
+patch=1,EE,D052D8C2,extended,0000FFFE
+patch=1,EE,105444FC,extended,0000270F
+
+//Team 1 99 Points/Instant Win (Press L2 To Activate)
+patch=1,EE,D052D8C2,extended,0000FEFF
+patch=1,EE,1053B80C,extended,00000063
+
+//Team 1 0 Points (Press Select+L2 To Activate)
+patch=1,EE,D052D8C2,extended,0000FEFE
+patch=1,EE,1053B80C,extended,00000000
+
+//Team 2 99 Points/Instant Win (Press R2 To Activate)
+patch=1,EE,D052D8C2,extended,0000FDFF
+patch=1,EE,1053B810,extended,00000063
+
+//Team 2 0 Points (Press Select+R2 To Activate)
+patch=1,EE,D052D8C2,extended,0000FDFE
+patch=1,EE,1053B810,extended,00000000
+
+//Have All Characters Open
+patch=1,EE,2053AD54,extended,01010101
+patch=1,EE,2053AD58,extended,01010101
+patch=1,EE,2053AD5C,extended,01010101
+
+//Have All Costumes
+patch=1,EE,2053B0F8,extended,FFFFFFFF
+
+//Have All Tour Mode Games Open And Complete
+patch=1,EE,2053B0B8,extended,02020202
+patch=1,EE,2053B0BC,extended,02020202
+patch=1,EE,2053B0C0,extended,02020202
+patch=1,EE,2053B0C4,extended,02020202
+patch=1,EE,2053B0C8,extended,02020202
+patch=1,EE,2053B0CC,extended,02020202
+patch=1,EE,2053B0D0,extended,02020202
+patch=1,EE,2053B0D4,extended,02020202
+patch=1,EE,2053B0D8,extended,02020202
+patch=1,EE,2053B0DC,extended,02020202
+patch=1,EE,2053B0E0,extended,02020202
+patch=1,EE,2053B0E4,extended,02020202
+patch=1,EE,2053B0E8,extended,02020202
+patch=1,EE,2053B0EC,extended,01010101
+patch=1,EE,2053B0F0,extended,01010101

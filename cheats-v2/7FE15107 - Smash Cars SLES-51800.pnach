@@ -1,0 +1,11 @@
+gametitle=Smash Cars SLES-51800
+//Disable AI
+patch=1,EE,201D972C,extended,24030000
+
+//All Championships Open
+patch=1,EE,200FFF40,extended,24020001
+patch=1,EE,200FFF44,extended,03E00008
+patch=1,EE,20294810,extended,0803FFD0
+
+//All Tracks Available
+patch=1,EE,202C5148,extended,10000009

@@ -1,0 +1,19 @@
+gametitle=Midnight Club - Street Racing SLUS-20063
+//Infinite Damage
+patch=1,EE,201B0E34,extended,AC400038
+
+//Always Low Time
+patch=1,EE,20117938,extended,AE800018
+
+//Have All Vehicles (Career Mode)
+patch=1,EE,202C3C88,extended,FFFFFFFF
+
+//Arcade Have All Vehicles
+patch=1,EE,202C2270,extended,FFFFFFFF
+patch=1,EE,202C2274,extended,FFFFFFFF
+
+//Arcade Menu Have All New York Head To Head Races
+patch=1,EE,202C227C,extended,FFFFFFFF
+
+//Arcade Have All London Head To Head Races
+patch=1,EE,202C2280,extended,FFFFFFFF

@@ -1,0 +1,17 @@
+gametitle=Need for Speed - Undercover SLES-55351
+//Inf Money
+patch=1,EE,200A0018,extended,3C0205F5
+patch=1,EE,200A001C,extended,3442E0FF
+patch=1,EE,200A0020,extended,AC22004C
+
+//Infinite NOS Usage
+patch=1,EE,204162A0,extended,00000000
+
+//Idiot Racer AI
+patch=1,EE,20148E7C,extended,1000000D
+
+//Freeze Timers
+patch=1,EE,20459C4C,extended,00000000
+
+//Open All Parts/Cars/Races/Challenges**not saveable
+patch=1,EE,00690794,extended,00000001

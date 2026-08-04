@@ -1,0 +1,14 @@
+gametitle=Total Overdose - A Gunslinger's Tale in Mexico SLUS-21283
+//Infinite Health
+patch=1,EE,200C0200,extended,081516FC
+patch=1,EE,200C0204,extended,ADE00020
+patch=1,EE,202A5DB0,extended,0C030080
+
+//Pause To Have All Weapon Skill Goodies
+patch=1,EE,200C0240,extended,8C4601BC
+patch=1,EE,200C0244,extended,08059BB8
+patch=1,EE,200C0248,extended,AC4601CC
+patch=1,EE,203A3994,extended,0C030090
+
+//Never Reload-Handguns & Shotgun
+patch=1,EE,10521CF6,extended,00001000

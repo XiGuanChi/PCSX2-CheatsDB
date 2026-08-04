@@ -1,0 +1,10 @@
+gametitle=MotoGP 4 SCES-52892
+//Max Cash After Buying an Item in Paddock
+patch=1,EE,201B688C,extended,3C0F000F
+
+//Freeze Challenge Timers
+patch=1,EE,202065C8,extended,00000000
+
+//Freeze Training Timers 
+patch=1,EE,201BABF8,extended,00000000
+

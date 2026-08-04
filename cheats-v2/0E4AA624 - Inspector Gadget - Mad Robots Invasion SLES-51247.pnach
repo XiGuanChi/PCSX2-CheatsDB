@@ -1,0 +1,9 @@
+gametitle=Inspector Gadget - Mad Robots Invasion SLES-51247
+//Infinite Lives 
+patch=1,EE,205EDBE8,extended,00000009
+
+//Infinite health Level 1
+patch=1,EE,206DB70C,extended,00060000
+
+//Infinite health Level 2
+patch=1,EE,206ECC0C,extended,00060000

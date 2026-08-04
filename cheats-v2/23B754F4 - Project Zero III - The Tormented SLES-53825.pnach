@@ -1,0 +1,37 @@
+gametitle=Project Zero III - The Tormented SLES-53825
+//Infinite Health
+patch=1,EE,2032F598,extended,0000251C
+patch=1,EE,2032F8E8,extended,00001D4C
+patch=1,EE,2032FC38,extended,000032C8
+
+//Max Infinite All Film
+patch=1,EE,201EA568,extended,24050063
+
+//Have All Data
+patch=1,EE,003251BF,extended,00000002
+patch=1,EE,403251C0,extended,00050001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,003251D4,extended,00000002
+
+//Have All Notes
+patch=1,EE,4032B560,extended,00100001
+patch=1,EE,00020002,extended,00000000
+patch=1,EE,1032B5A0,extended,00000002
+
+//Have All Other
+patch=1,EE,003251D5,extended,00000002
+patch=1,EE,103251D6,extended,00000202
+patch=1,EE,403251D8,extended,000A0001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,10325200,extended,00000202
+patch=1,EE,00325202,extended,00000002
+
+//Have All Photos
+patch=1,EE,00325203,extended,00000002
+patch=1,EE,40325204,extended,000E0001
+patch=1,EE,02020202,extended,00000000
+
+//Have All Text
+patch=1,EE,40325198,extended,00090001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,103251BC,extended,00000202

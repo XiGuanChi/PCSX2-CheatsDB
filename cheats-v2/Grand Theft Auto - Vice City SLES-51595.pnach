@@ -1,0 +1,42 @@
+gametitle=Grand Theft Auto - Vice City SLES-51595
+//unendlich Energie
+patch=1,EE,200FFF00,extended,3C0542C8
+patch=1,EE,200FFF04,extended,AC450368
+patch=1,EE,200FFF08,extended,03E00008
+patch=1,EE,200FFF0C,extended,46000024
+patch=1,EE,202D2CA4,extended,0C03FFC0
+
+//unendlich Armor
+patch=1,EE,200FFF00,extended,3C0542C8
+patch=1,EE,200FFF04,extended,AC45036C
+patch=1,EE,200FFF08,extended,03E00008
+patch=1,EE,200FFF0C,extended,46000836
+patch=1,EE,202D2CA4,extended,0C03FFC0
+
+//Stop Missionszeit
+patch=1,EE,202703E8,extended,00000000
+
+//Viel Geld
+patch=1,EE,205C7DDC,extended,05F5E0FF
+patch=1,EE,205C7DE0,extended,05F5E0FF
+
+//niemals die Waffen verlieren
+patch=1,EE,201B2AD0,extended,03E00008
+patch=1,EE,201B2AD4,extended,00000000
+
+//dumme Polizei
+patch=1,EE,20199760,extended,03E00008
+patch=1,EE,20199764,extended,00000000
+
+//Autos können nicht zerstört werden
+patch=1,EE,2016838C,extended,00000000
+
+//niemals Gesucht
+patch=1,EE,2029F1EC,extended,24060000
+
+//alle 100 Pakete
+patch=1,EE,205C7DE4,extended,00000064
+
+//Game 100% Komplett
+patch=1,EE,204B222C,extended,431A0000
+

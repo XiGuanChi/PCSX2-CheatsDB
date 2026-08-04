@@ -1,0 +1,43 @@
+gametitle=Midnight Club II SLUS-20209
+//Infinite Damage
+patch=1,EE,2020E6E4,extended,AE00005C
+patch=1,EE,2020E67C,extended,AE20005C
+
+//Machine Gun & Rockets
+patch=1,EE,00427788,extended,00000001
+
+//Never Take Damage
+patch=1,EE,0042780C,extended,00000001
+
+//Infinite Nitro
+patch=1,EE,0042780D,extended,00000001
+
+//Unlock All Races
+patch=1,EE,0042CCE8,extended,00000001
+
+//Unlock All Cities
+patch=1,EE,0042CCE9,extended,00000001
+
+//Unlock All Vehicles
+patch=1,EE,0042CCEA,extended,00000001
+
+//Unlock Customization
+patch=1,EE,0042CCEB,extended,00000001
+
+//Unlock All Abilities
+patch=1,EE,0042CCEC,extended,00000001
+
+//Unlock Insanity
+patch=1,EE,0042CCED,extended,00000001
+
+//Quick Win (Arcade ModeCircuit)
+patch=1,EE,201AE674,extended,2441FFFF
+patch=1,EE,201AE678,extended,A1010030
+
+//Game Completed
+patch=1,EE,205B4C80,extended,FFFFFFFF
+patch=1,EE,205B4C84,extended,FFFFFFFF
+patch=1,EE,205B4C88,extended,FFFFFFFF
+patch=1,EE,205B4C8C,extended,FFFFFFFF
+patch=1,EE,205B4C90,extended,FFFFFFFF
+patch=1,EE,205B4C94,extended,FFFFFFFF

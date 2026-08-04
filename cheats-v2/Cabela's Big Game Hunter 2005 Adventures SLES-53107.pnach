@@ -1,0 +1,6 @@
+gametitle=Cabela's Big Game Hunter 2005 Adventures SLES-53107
+//God Mode
+patch=1,EE,205B4228,extended,00000001
+
+//Never Reload
+patch=1,EE,2049CBE8,extended,00000000

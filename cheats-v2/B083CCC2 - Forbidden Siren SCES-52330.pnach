@@ -1,0 +1,21 @@
+gametitle=Forbidden Siren SCES-52330
+//Infinite Ammo
+patch=1,EE,20162590,extended,00000000
+
+//Invincible (main Character)
+patch=1,EE,2019908C,extended,10000168
+
+//Disable AI
+patch=0,EE,201550D4,extended,10000016
+
+//Invincible NPCs
+patch=1,EE,201599BC,extended,080567A2
+
+//Enemies 1 Hit KO
+patch=1,EE,201599A8,extended,24030000
+
+//60 Hertz
+patch=1,EE,20103188,extended,24120002
+
+//Archives Opened
+patch=1,EE,201F91DC,extended,240A0001

@@ -1,0 +1,43 @@
+gametitle=Sunrise Eiyuutan 3 SLPS-25592
+//Player Stats 999
+patch=1,EE,201DEDCC,extended,03E70000
+patch=1,EE,201DEDD0,extended,03E703E7
+
+//Upgrade Accesory & item 99
+patch=1,EE,401E4240,extended,00040001
+patch=1,EE,63636363,extended,00000000
+
+//Shaun's on-target hit technical skill + 9999
+patch=1,EE,101DEDCE,extended,0000270F
+
+//Shaun's attack technical skill + 9999
+patch=1,EE,101DEDD0,extended,0000270F
+
+//Shaun's evasion technical skill + 9999
+patch=1,EE,101DEDD2,extended,0000270F
+
+//Hero work (program) reliability max
+patch=1,EE,201DEDE0,extended,FFFFFFFF
+patch=1,EE,201DEDE4,extended,FFFFFFFF
+patch=1,EE,201DEDE8,extended,FFFFFFFF
+patch=1,EE,201DEDEC,extended,FFFFFFFF
+patch=1,EE,201DEDF0,extended,FFFFFFFF
+
+//All Museum Card
+patch=1,EE,201DF040,extended,FFFFFFFF
+patch=1,EE,201DF044,extended,FFFFFFFF
+patch=1,EE,201DF048,extended,FFFFFFFF
+patch=1,EE,201DF04C,extended,FFFFFFFF
+patch=1,EE,201DF050,extended,FFFFFFFF
+patch=1,EE,201DF054,extended,FFFFFFFF
+patch=1,EE,201DF058,extended,FFFFFFFF
+patch=1,EE,201DF05C,extended,FFFFFFFF
+patch=1,EE,201DF060,extended,FFFFFFFF
+patch=1,EE,201DF064,extended,FFFFFFFF
+patch=1,EE,201DF068,extended,FFFFFFFF
+patch=1,EE,201DF06C,extended,FFFFFFFF
+patch=1,EE,201DF070,extended,FFFFFFFF
+patch=1,EE,201DF074,extended,FFFFFFFF
+patch=1,EE,201DF078,extended,FFFFFFFF
+patch=1,EE,001DF07E,extended,000000FF
+patch=1,EE,101DF07C,extended,0000FFFF

@@ -1,0 +1,13 @@
+gametitle=Capcom vs. SNK 2 - Mark of the Millennium 2001 SLUS-20246
+//Max Groove Points
+patch=1,EE,20481CB0,extended,0098967F
+
+//Have S. Akuma & U. Rugal
+patch=1,EE,103F2514,extended,0000FFFF
+
+//Player 1 Infinite Health
+patch=1,EE,204818C4,extended,36003600
+patch=1,EE,104818C8,extended,00003600
+
+//Unlock Shin Akuma & God Rugal
+patch=1,EE,203F701C,extended,FFFFFFFF

@@ -1,0 +1,91 @@
+gametitle=Tales of Destiny 2 SLPS-25172
+//Max Gald
+patch=1,EE,201BA104,extended,0098967F
+
+//Quartz (100)
+patch=1,EE,201BA108,extended,00000064
+
+//Charactere 1 HP 9999
+patch=1,EE,101B82B6,extended,0000270F
+patch=1,EE,101B82BA,extended,0000270F
+
+//Charactere 2 HP 9999
+patch=1,EE,101B8722,extended,0000270F
+patch=1,EE,101B871E,extended,0000270F
+
+//Charactere 3 HP 9999
+patch=1,EE,101B84EE,extended,0000270F
+patch=1,EE,101B84EA,extended,0000270F
+
+//Charactere 4 HP 9999
+patch=1,EE,101B8956,extended,0000270F
+patch=1,EE,101B8952,extended,0000270F
+
+//Charactere 5 HP 9999
+patch=1,EE,101B8B8A,extended,0000270F
+patch=1,EE,101B8B86,extended,0000270F
+
+//Charactere 6 HP 9999
+patch=1,EE,101B8DBE,extended,0000270F
+patch=1,EE,101B8DBA,extended,0000270F
+
+//Squad general attack impact
+patch=1,EE,202151A0,extended,000003EB
+
+//Lead [ Kyle ] MAX HP
+patch=1,EE,101B82B6,extended,0000270F
+patch=1,EE,101B82BA,extended,0000270F
+
+//Required code
+patch=1,EE,2015E06C,extended,0C03C080
+patch=1,EE,200F03F8,extended,0806418E
+
+//HP 9999
+patch=1,EE,200F0200,extended,2407270F
+patch=1,EE,200F0204,extended,A6A70042
+
+//TP full recovery
+patch=1,EE,200F0214,extended,8EA2021C
+patch=1,EE,200F0218,extended,AEA20220
+
+//No Random Battle Press L1+R1 for start battle
+patch=1,EE,2011DB90,extended,24020001
+patch=1,EE,D023C342,extended,0000F3FF
+patch=1,EE,2011DB90,extended,24020000
+
+//HP infinte/ TP infinite
+patch=1,EE,2015E06C,extended,0C03C080
+patch=1,EE,100F03F8,extended,0806418E
+patch=1,EE,100F0208,extended,A6A7003E
+patch=1,EE,100F0214,extended,8EA2021C
+patch=1,EE,100F0218,extended,AEA20220
+
+//Monster Chart Complete
+patch=1,EE,200F02D8,extended,3C03001C
+patch=1,EE,200F02DC,extended,247801FE
+patch=1,EE,200F02E0,extended,3402FFFF
+patch=1,EE,200F02E4,extended,A702A150
+patch=1,EE,200F02E8,extended,1478FFFE
+patch=1,EE,200F02EC,extended,2718FFFE
+
+//Collector picture book complete
+patch=1,EE,200F02F0,extended,3C03001C
+patch=1,EE,200F02F4,extended,24780040
+patch=1,EE,200F02F8,extended,3402FFFF
+patch=1,EE,200F02FC,extended,A702A350
+patch=1,EE,200F0300,extended,1478FFFE
+patch=1,EE,200F0304,extended,2718FFFE
+
+//Battle Rank All appearances
+patch=1,EE,200F0308,extended,3C03001C
+patch=1,EE,200F030C,extended,9462AE26
+patch=1,EE,200F0310,extended,3442001E
+patch=1,EE,200F0314,extended,A462AE26
+
+//Screen chat fully open
+patch=1,EE,200F0378,extended,3C03001C
+patch=1,EE,200F037C,extended,2478004E
+patch=1,EE,200F0380,extended,3402FFFF
+patch=1,EE,200F0384,extended,A702B0A8
+patch=1,EE,200F0398,extended,1478FFFA
+patch=1,EE,200F039C,extended,2718FFFE

@@ -1,0 +1,10 @@
+gametitle=Choro Q HG 4 SLPM-65326
+//Have All Parts
+patch=1,EE,2011ECA4,extended,24010001
+patch=1,EE,2011ECA8,extended,A0410000
+
+//Story 9999999999 G
+patch=1,EE,2026845C,extended,3B9AC9FF
+
+//Always 1st Place
+patch=1,EE,0026B73C,extended,00000001

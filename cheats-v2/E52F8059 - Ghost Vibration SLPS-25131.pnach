@@ -1,0 +1,9 @@
+gametitle=Ghost Vibration SLPS-25131
+//HP will be lost, but you will not die
+patch=1,EE,10DC4B46,extended,000042C8
+
+//Energy will be reduced, but it will not become unusable.
+patch=1,EE,10DC4B4A,extended,000041F0
+
+//Infinite Life capsule always possesses 
+patch=1,EE,00DC4B6D,extended,00000001

@@ -1,0 +1,216 @@
+gametitle=Capcom Classics Collection SLUS-21316
+//Enable Debug Features
+patch=1,EE,202568AC,extended,ABCD0DBF
+
+//Street Fighter 2 Hyper Fighting P1 Infinite Health
+patch=1,EE,E0014653,extended,002E1170
+patch=1,EE,20608548,extended,00900090
+
+//Street Fighter 2 Hyper Fighting P1 Needs 1 Win To Win
+patch=1,EE,E0024653,extended,002E1170
+patch=1,EE,D06087A8,extended,00000000
+patch=1,EE,006087A8,extended,00000001
+
+//Street Fighter 2 Hyper Fighting P2 No Health (P1 Tri+X)
+patch=1,EE,E0024653,extended,002E1170
+patch=1,EE,D0A84E42,extended,0000AFFF
+patch=1,EE,10608238,extended,00000001
+
+//Street Fighter 2 Champion Edition P1 Infinite Health
+patch=1,EE,E0014653,extended,002D6B90
+patch=1,EE,205FDFC8,extended,00900090
+
+//Street Fighter 2 Champion Edition P1 Needs 1 Win To Win
+patch=1,EE,E0024653,extended,002D6B90
+patch=1,EE,D05FE228,extended,00000000
+patch=1,EE,005FE228,extended,00000001
+
+//Street Fighter 2 Champion Edition P2 No Health (P1 Tri+X)
+patch=1,EE,E0024653,extended,002D6B90
+patch=1,EE,D0A7AAC2,extended,0000AFFF
+patch=1,EE,105FDCB8,extended,00000001
+
+//Street Fighter 2 The World Warrior P1 Infinite Health
+patch=1,EE,E0014653,extended,002AE980
+patch=1,EE,205D4EC8,extended,00900090
+
+//Street Fighter 2 The World Warrior P1 Needs 1 Win To Win
+patch=1,EE,E0024653,extended,002AE980
+patch=1,EE,D05D5128,extended,00000000
+patch=1,EE,005D5128,extended,00000001
+
+//Street Fighter 2 The World Warrior P2 No Health (P1 Tri+X)
+patch=1,EE,E0024653,extended,002AE980
+patch=1,EE,D0A4B7C2,extended,0000AFFF
+patch=1,EE,105D4BB8,extended,00000001
+
+//Street Fighter 2 Deluxe P1 Infinite Health
+patch=1,EE,E0014653,extended,0036FAB0
+patch=1,EE,206983A8,extended,00900090
+
+//Street Fighter 2 Deluxe P1 Needs 1 Win To Win
+patch=1,EE,E0024653,extended,0036FAB0
+patch=1,EE,D0698608,extended,00000000
+patch=1,EE,00698608,extended,00000001
+
+//Street Fighter 2 Deluxe P2 1-Hit Death
+patch=1,EE,E0024653,extended,0036FAB0
+patch=1,EE,D0698098,extended,00000090
+patch=1,EE,10698098,extended,00000001
+
+//1942 P1 Infinite Lives
+patch=1,EE,D01BE370,extended,00004653
+patch=1,EE,001D2D40,extended,00000005
+
+//1942 P1 Infinite Loops
+patch=1,EE,D01BE370,extended,00004653
+patch=1,EE,001D2DC0,extended,00000005
+
+//1942 P2 Infinite Lives
+patch=1,EE,D01BE370,extended,00004653
+patch=1,EE,001D2D3C,extended,00000005
+
+//1942 P2 Infinite Loops
+patch=1,EE,D01BE370,extended,00004653
+patch=1,EE,001D2DBC,extended,00000005
+
+//1942 Invincibility 
+patch=1,EE,D01BE370,extended,00004653
+patch=1,EE,001D2DA4,extended,00000002
+
+//Ghosts 'N Goblins Infinite Time
+patch=1,EE,D01DA070,extended,00004653
+patch=1,EE,10229FCA,extended,00005802
+
+//Ghosts 'N Goblins Infinite Lives
+patch=1,EE,D01DA070,extended,00004653
+patch=1,EE,00229F80,extended,00000008
+
+//Ghosts 'N Goblins Invincibility (Water Still Kills!)
+patch=1,EE,D01DA070,extended,00004653
+patch=1,EE,00229FCD,extended,0000007F
+
+//Ghosts 'N Goblins Always have the Armour
+patch=1,EE,D01DA070,extended,00004653
+patch=1,EE,00229FCC,extended,00000000
+
+//Ghouls 'N Ghosts Infinite Time
+patch=1,EE,D0325BA0,extended,00004653
+patch=1,EE,006C06D3,extended,00000059
+
+//Ghouls 'N Ghosts IInvincibility ON
+patch=1,EE,D0325BA0,extended,00004653
+patch=1,EE,006C0931,extended,000000FF
+
+//Ghouls 'N Ghosts IAlways have Powerup
+patch=1,EE,D0325BA0,extended,00004653
+patch=1,EE,006C095E,extended,00000001
+
+//Ghouls 'N Ghosts IP1 Infinite Lives 
+patch=1,EE,D0325BA0,extended,00004653
+patch=1,EE,006C07AD,extended,00000008
+
+//GunSmoke P1 Infinite Lives 
+patch=1,EE,D01C48E0,extended,00004653
+patch=1,EE,0072C5C0,extended,00000006
+
+//GunSmoke P1 IInfinite Boots (Speed)
+patch=1,EE,D01C48E0,extended,00004653
+patch=1,EE,0072C5C1,extended,00000006
+
+//GunSmoke P1 IInfinite Bullets (Shot Speed)
+patch=1,EE,D01C48E0,extended,00004653
+patch=1,EE,0072C5C2,extended,00000006
+
+//GunSmoke P1 IInfinite Rifles (Range)
+patch=1,EE,D01C48E0,extended,00004653
+patch=1,EE,0072C5C3,extended,00000006
+
+//GunSmoke P1 Always Have Horse Invincibility
+patch=1,EE,D01C48E0,extended,00004653
+patch=1,EE,001DAEC4,extended,0000000F
+
+//Legendary Wings P1 Infinite Lives
+patch=1,EE,D0188FA8,extended,00004653
+patch=1,EE,005B3FC0,extended,00000006
+
+//Legendary Wings P1 Invincibility
+patch=1,EE,D0188FA8,extended,00004653
+patch=1,EE,005B4050,extended,000000FF
+
+//Legendary Wings P2 Infinite Lives
+patch=1,EE,D0188FA8,extended,00004653
+patch=1,EE,005B3FC1,extended,00000006
+
+//Legendary Wings P2 Invincibility
+patch=1,EE,D0188FA8,extended,00004653
+patch=1,EE,005B4070,extended,000000FF
+
+//Mercs P1 Infinite Health
+patch=1,EE,D024A020,extended,00004653
+patch=1,EE,007368E7,extended,00000020
+
+//Mercs P2 Infinite Health
+patch=1,EE,D024A020,extended,00004653
+patch=1,EE,0073699F,extended,00000020
+
+//Mercs P3 Infinite Health
+patch=1,EE,D024A020,extended,00004653
+patch=1,EE,00736A57,extended,00000020
+
+//Pirate Ship Higemaru Infinite Lives (Both Players)
+patch=1,EE,D0212A90,extended,00004653
+patch=1,EE,001F9C50,extended,00000005
+
+//Pirate Ship Higemaru Invincibility
+patch=1,EE,D0212A90,extended,00004653
+patch=1,EE,001F9750,extended,000000FF
+
+//Section Z Infinite Lives (Both Players)
+patch=1,EE,D0187768,extended,00004653
+patch=1,EE,005E6950,extended,00000005
+
+//Section Z Invincibility
+patch=1,EE,D0187768,extended,00004653
+patch=1,EE,005E5CB0,extended,000000FF
+
+//Super Ghouls 'N Ghosts Infinite Time
+patch=1,EE,E0024653,extended,002D0820
+patch=1,EE,004A02A7,extended,00000009
+patch=1,EE,104A02A8,extended,00000909
+
+//Super Ghouls 'N Ghosts Infinite Lives
+patch=1,EE,D02D0820,extended,00004653
+patch=1,EE,004A02A4,extended,00000009
+
+//Super Ghouls 'N Ghosts Invincible
+patch=1,EE,D02D0820,extended,00004653
+patch=1,EE,004A046A,extended,00000064
+
+//Trojan Infinite Lives (Both Players)
+patch=1,EE,D0189988,extended,00004653
+patch=1,EE,005F14C0,extended,00000005
+
+//Trojan Infinite Health (Both Players)
+patch=1,EE,D0189988,extended,00004653
+patch=1,EE,005F0798,extended,00000000
+
+//Vulgus Infinite Lives (Both Players)
+patch=1,EE,D025A3E0,extended,00004653
+patch=1,EE,00240310,extended,00000005
+
+//Vulgus Infinite Grenades (Both Players)
+patch=1,EE,D025A3E0,extended,00004653
+patch=1,EE,00240316,extended,00000006
+
+//Vulgus Infinite Lives
+patch=1,EE,D025A3E0,extended,00004653
+patch=1,EE,00240330,extended,00000005
+
+//Vulgus Invincibility
+patch=1,EE,D025A3E0,extended,00004653
+patch=1,EE,0023FF10,extended,000000FF
+
+//All Content Unlock
+patch=1,EE,40250B30,extended,00160073
+patch=1,EE,02020202,extended,00000000

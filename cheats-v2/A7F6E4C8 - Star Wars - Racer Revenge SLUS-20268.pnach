@@ -1,0 +1,87 @@
+gametitle=Star Wars - Racer Revenge SLUS-20268
+//Anakin Skywalker Have All Gold Medals
+patch=1,EE,406171D4,extended,00030001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,006171E0,extended,00000001
+
+//Anakin Skywalker Codes ==
+
+//Max Career Winnings
+patch=1,EE,2061743C,extended,05F5E0FF
+
+//Max Available Truguts
+patch=1,EE,20617440,extended,05F5E0FF
+
+//Max Career KO's
+patch=1,EE,20617444,extended,05F5E0FF
+
+//Max Acceleration
+patch=1,EE,206171BC,extended,3F666666
+
+//Max Top Speed
+patch=1,EE,206171C0,extended,3F733333
+
+//Max Handling
+patch=1,EE,206171C4,extended,3F666666
+
+//Max Defense
+patch=1,EE,206171C8,extended,3F666666
+
+//Max Repair
+patch=1,EE,206171CC,extended,3F666666
+
+//Max Cooling
+patch=1,EE,206171D0,extended,3F599999
+
+
+//Stop Time
+patch=1,EE,201AFA38,extended,00000000
+
+//Place Mod
+patch=1,EE,201B08C8,extended,24050001
+
+//Unlock Character Codes 
+//Clegg Holdfast
+patch=1,EE,2061BF68,extended,00000001
+
+//Gasgano
+patch=1,EE,2061BF78,extended,00000001
+
+//Mawhonic
+patch=1,EE,2061BF80,extended,00000001
+
+//Knire Dark
+patch=1,EE,2061BFB4,extended,00000001
+
+//Kraid Nemmeso
+patch=1,EE,2061BFB8,extended,00000001
+
+//Wan Sandage
+patch=1,EE,2061BF9C,extended,00000001
+
+//Mars Guo
+patch=1,EE,2061BF7C,extended,00000001
+
+//Scorch Zanales
+patch=1,EE,2061BFA0,extended,00000001
+
+//Tzikik Wrantojo
+patch=1,EE,2061BFBC,extended,00000001
+
+//Sebulba
+patch=1,EE,2061BFA4,extended,00000001
+
+//Young Anakin
+patch=1,EE,2061BF60,extended,00000001
+
+//Sebulba (Episode I)
+patch=1,EE,2061BF94,extended,00000001
+
+//Watto
+patch=1,EE,2061BFC0,extended,00000001
+
+//Darth Maul
+patch=1,EE,2061BFB0,extended,00000001
+
+//Darth Vader
+patch=1,EE,2061BFC4,extended,00000001

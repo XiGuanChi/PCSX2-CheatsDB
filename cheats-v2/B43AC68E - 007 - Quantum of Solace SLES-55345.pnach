@@ -1,0 +1,30 @@
+gametitle=007 - Quantum of Solace SLES-55345
+//Infinite Ammo - Gun (99)
+patch=1,EE,20421DE4,extended,00000063
+
+//Infinite Ammo (machine gun) (99)
+patch=1,EE,20421E04,extended,00000063
+
+//Infinite Health (1120403456)
+patch=1,EE,204D5540,extended,42C80000
+
+//Infinite time in Hack sequences
+patch=1,EE,20445DC4,extended,41D13CC2
+
+//Have All Weapons With Max Infinite Ammo
+patch=1,EE,202004E4,extended,240203E7
+
+//P1 Press R3+Up To Enable Debug Menu
+patch=1,EE,D0423B82,extended,0000FFEB
+patch=1,EE,003C9FB0,extended,00000001
+
+//P1 Press R3+Down To Disable Debug Menu
+patch=1,EE,D0423B82,extended,0000FFBB
+patch=1,EE,003C9FB0,extended,00000000
+
+//Infinite Health ALT
+patch=0,EE,20130CA8,extended,C6200D24
+patch=0,EE,20130CB0,extended,E6200D20
+
+//Have All Weapons With Max Infinite Ammo
+patch=1,EE,202004E4,extended,240203E7

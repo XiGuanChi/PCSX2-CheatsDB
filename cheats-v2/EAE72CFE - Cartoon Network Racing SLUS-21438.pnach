@@ -1,0 +1,7 @@
+gametitle=Cartoon Network Racing SLUS-21438
+//Always Low Time
+patch=1,EE,202DECD4,extended,AE000010
+
+//Unlock All Gallery
+patch=1,EE,4059ED28,extended,000C0002
+patch=1,EE,00001D4C,extended,00000001

@@ -1,0 +1,7 @@
+gametitle=Ratchet & Clank 2 SCPS-15056
+//Infinite Health
+patch=1,EE,101A7A08,extended,00000015
+patch=1,EE,101A7A14,extended,00031FFF
+
+//Max Bolts
+patch=1,EE,201A7A00,extended,0098967F

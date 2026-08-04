@@ -1,0 +1,34 @@
+gametitle=Gaika no Gouhou - Air Land Force SLPM-65260
+//Current Supply Drop Max
+patch=1,EE,20FD2408,extended,05F5E0FF
+
+//Current Supply Drop 0
+//Enemy1
+patch=1,EE,20FD3388,extended,00000000
+
+//Enemy2
+patch=1,EE,20FD4308,extended,00000000
+
+//Enemy 3
+patch=1,EE,20FD5288,extended,00000000
+
+//1st legion formation unit
+//Enemy1
+//level 1
+patch=1,EE,00FD2486,extended,00000001
+
+//EXP0
+patch=1,EE,10FD2490,extended,00000000
+
+//Enemy2
+patch=1,EE,00FD3406,extended,00000001
+
+//EXP0
+patch=1,EE,10FD3410,extended,00000000
+
+//Enemy 3
+patch=1,EE,00FD4386,extended,00000001
+
+//EXP0
+patch=1,EE,10FD4390,extended,00000000
+

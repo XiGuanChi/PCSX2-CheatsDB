@@ -1,0 +1,18 @@
+gametitle=F1 2001 SLUS-20264
+//All Races Are One Lap 
+patch=1,EE,10376010,extended,00000001
+
+//Track Challenges Are Complete
+patch=1,EE,203B2750,extended,64646464
+patch=1,EE,203B2754,extended,64646464
+patch=1,EE,203B2758,extended,64646464
+patch=1,EE,203B275C,extended,64646464
+patch=1,EE,203B2760,extended,64646464
+
+//Training Challenges Are Complete 
+patch=1,EE,203B2738,extended,64646464
+patch=1,EE,203B273C,extended,64646464
+patch=1,EE,203B2740,extended,64646464
+patch=1,EE,203B2744,extended,64646464
+patch=1,EE,203B2748,extended,64646464
+patch=1,EE,203B274C,extended,64646464

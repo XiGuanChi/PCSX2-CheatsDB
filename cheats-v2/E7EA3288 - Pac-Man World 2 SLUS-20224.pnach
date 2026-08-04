@@ -1,0 +1,16 @@
+gametitle=Pac-Man World 2 SLUS-20224
+//All Map Levels
+patch=1,EE,205B86C4,extended,FFFFFFFF
+
+//Ghost Are Frozen
+patch=1,EE,205B7B80,extended,FFFFFFFF
+
+//Infinite Lives
+patch=1,EE,10495B50,extended,00000009
+
+//Invincible
+patch=1,EE,201775B0,extended,03E00008
+patch=1,EE,201775B4,extended,00000000
+
+//Unlock All Levels
+patch=1,EE,205B86C4,extended,00000001

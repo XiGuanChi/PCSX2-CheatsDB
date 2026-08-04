@@ -1,0 +1,12 @@
+gametitle=DT Racer SLUS-21095
+//Always Low Lap Time
+patch=1,EE,201BED74,extended,00000000
+
+//Always Low Total Time
+patch=1,EE,201BED6C,extended,00000000
+
+//Infinite Fuel
+patch=1,EE,2012FF6C,extended,00000000
+
+//No Car Damage 
+patch=1,EE,2016D040,extended,00000000

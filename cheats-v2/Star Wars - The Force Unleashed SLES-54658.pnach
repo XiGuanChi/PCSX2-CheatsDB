@@ -1,0 +1,76 @@
+gametitle=Star Wars - The Force Unleashed SLES-54658
+//Infinite Health
+patch=1,EE,202B22E8,extended,00000000
+
+//Infinite Force Power
+patch=1,EE,202BB130,extended,00000000
+patch=1,EE,202BB228,extended,00000000
+
+//Infinite Force Points
+patch=1,EE,203ED0F8,extended,00000000
+
+//Max Infinite Force Points
+patch=1,EE,20A49F50,extended,3B9AC9FF
+
+//Have All Force Powers
+patch=1,EE,203ED558,extended,24010000
+patch=1,EE,203ED560,extended,ACE10030
+
+//Have All Force Powers At Maximum Level
+patch=1,EE,200C0220,extended,24040003
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,AC440030
+patch=1,EE,203ECC34,extended,0C030088
+
+//Unlock All Costumes
+patch=1,EE,2021EE60,extended,24020001
+
+//Have All Color Crytals
+patch=1,EE,203EA1A0,extended,24010007
+patch=1,EE,203EA1A4,extended,A0810000
+
+//Have All Combat Crystals
+patch=1,EE,203E959C,extended,240100FF
+patch=1,EE,203E95A4,extended,A0C10000
+
+//Have All Saber Hilt
+patch=1,EE,203EB238,extended,2401FFFF
+patch=1,EE,203EB240,extended,A0A10000
+
+//Have All Holocron
+patch=1,EE,2040F6A0,extended,2401FFFF
+patch=1,EE,2040F6A8,extended,A1610000
+patch=1,EE,2040E60C,extended,2401FFFF
+patch=1,EE,2040E614,extended,A1010000
+
+//Have All Jedi Holocron (NOTE)
+patch=1,EE,20456D14,extended,2401FFFF
+patch=1,EE,20456D1C,extended,A0810000
+
+//1-Hit Death (Enemies)
+patch=1,EE,200C0230,extended,8C410470
+patch=1,EE,200C0234,extended,3C033F80
+patch=1,EE,200C0238,extended,0023082B
+patch=1,EE,200C023C,extended,50200001
+patch=1,EE,200C0240,extended,AC430470
+patch=1,EE,200C0244,extended,08086934
+patch=1,EE,200C0248,extended,C4410470
+patch=1,EE,2021A4CC,extended,0803008C
+
+//1-Hit Death (Boss)
+patch=1,EE,200C0250,extended,8C410470
+patch=1,EE,200C0254,extended,3C033F80
+patch=1,EE,200C0258,extended,0023082B
+patch=1,EE,200C025C,extended,50200001
+patch=1,EE,200C0260,extended,AC430470
+patch=1,EE,200C0264,extended,080A524C
+patch=1,EE,200C0268,extended,C4410470
+patch=1,EE,2029492C,extended,08030094
+
+//Activated Cheat Codes
+
+//Invincible
+patch=1,EE,207B04D0,extended,00000001
+
+//Infinite Force Power
+patch=1,EE,207B04D4,extended,00000001

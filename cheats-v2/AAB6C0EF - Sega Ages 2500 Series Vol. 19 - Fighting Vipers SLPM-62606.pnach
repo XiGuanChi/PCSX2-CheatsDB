@@ -1,0 +1,17 @@
+gametitle=Sega Ages 2500 Series Vol. 19 - Fighting Vipers SLPM-62606
+//Infinite HP P1
+patch=1,EE,116C7B7C,extended,00000118
+
+//Player 2 HP 0
+patch=1,EE,116C9B7C,extended,00000000
+
+//Player 2 HP 0 Press select
+patch=1,EE,D0378882,extended,0000FFFE
+patch=1,EE,116C9B7C,extended,00000000
+
+//Mahler available
+patch=1,EE,0184AB70,extended,00000001
+
+//Departing Honey skirt
+patch=1,EE,201F1928,extended,00000000
+patch=1,EE,201F196C,extended,10000203

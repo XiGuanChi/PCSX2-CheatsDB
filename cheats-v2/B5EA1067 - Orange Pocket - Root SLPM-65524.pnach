@@ -1,0 +1,9 @@
+gametitle=Orange Pocket - Root SLPM-65524
+//CG mode fully open
+patch=1,EE,401DAC24,extended,03900001
+patch=1,EE,00000001,extended,00000000
+
+//View CG Page to Unlock That Page
+patch=1,EE,2012C0A0,extended,24040001
+patch=1,EE,2012C0A4,extended,AC44002C
+patch=1,EE,2012C0AC,extended,8C42002C

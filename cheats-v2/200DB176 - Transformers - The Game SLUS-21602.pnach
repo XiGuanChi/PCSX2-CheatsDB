@@ -1,0 +1,29 @@
+gametitle=Transformers - The Game SLUS-21602
+//Inf HP
+patch=1,EE,2027d50c,extended,08028000
+patch=1,EE,2027d510,extended,00000000
+patch=1,EE,200a0000,extended,240105dc
+patch=1,EE,200a0004,extended,14410005
+patch=1,EE,200a000c,extended,3c0144bb
+patch=1,EE,200a0010,extended,34218000
+patch=1,EE,200a0014,extended,44816000
+patch=1,EE,200a001c,extended,e60c0024
+patch=1,EE,200a0020,extended,0809f544
+patch=1,EE,200a0024,extended,7bb00010
+
+//Inf Time
+patch=1,EE,2024F2a0,extended,C6000024
+
+//At menu (Campaign/Bonus'Oprions Section) Press said buttons
+//Press Left Active INf HP
+patch=1,EE,204d30b0,extended,00000001
+patch=1,EE,204d30b4,extended,00000000
+
+//Press Right Active All Missions
+patch=1,EE,204d30b8,extended,00020000
+patch=1,EE,204d30bC,extended,00000000
+patch=1,EE,204d30c0,extended,00000000
+
+//Press Up Active INf Ammo
+patch=1,EE,204d30c4,extended,00000004
+patch=1,EE,204d30c8,extended,00000000

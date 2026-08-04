@@ -1,0 +1,43 @@
+gametitle=Grand Theft Auto - Liberty City Stories SLPM-66851
+//Max Money
+patch=1,EE,204048AC,extended,3B9AC9FF
+patch=1,EE,204048B0,extended,3B9AC9FF
+
+//With L1 dirty physical reconditioning
+patch=1,EE,D03EB482,extended,0000FBFF
+patch=1,EE,2172CC48,extended,42C80000
+
+//The bulletproof vest it does not decrease
+patch=1,EE,20253CB4,extended,3C0142C8
+patch=1,EE,20253CB8,extended,AC6104BC
+
+// you push, in restriction time 5 minutes
+patch=1,EE,2033F80C,extended,3C020005
+patch=1,EE,D03EB482,extended,0010FBFF
+patch=1,EE,2033F80C,extended,8C620000
+patch=1,EE,2033F814,extended,AC620000
+
+//When R2 is pushed, time becomes 0
+patch=1,EE,D03EB482,extended,0000FDFF
+patch=1,EE,2033F80C,extended,3C020000
+patch=1,EE,D03EB482,extended,0010FDFF
+patch=1,EE,2033F80C,extended,8C620000
+patch=1,EE,2033F814,extended,AC620000
+
+//slaughter mission restriction time 60 minutes
+patch=1,EE,203E0F40,extended,0036EE80
+
+//With L2 slaughter mission restriction time 0 minutes
+patch=1,EE,D03EB482,extended,0000FEFF
+patch=1,EE,203E0F40,extended,00000000
+
+//The bullet it does not decrease
+patch=1,EE,2014CAEC,extended,24420000
+patch=1,EE,2014CB50,extended,24420000
+patch=1,EE,2014CEE4,extended,24420000
+patch=1,EE,2014CEF0,extended,24420000
+patch=1,EE,2014CF44,extended,24420000
+
+//no car damages
+patch=1,EE,201280DC,extended,00000000
+

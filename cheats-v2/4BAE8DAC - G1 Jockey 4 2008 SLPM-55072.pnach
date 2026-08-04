@@ -1,0 +1,26 @@
+gametitle=G1 Jockey 4 2008 SLPM-55072
+//Riding Point Increase and MAX
+patch=1,EE,20118A94,extended,00000000
+
+//Main battle level 30 when you run
+patch=1,EE,2010DA7C,extended,2403001E
+
+//New horse breeding related
+
+//Competitive ability MAX
+patch=1,EE,20263120,extended,03E00008
+patch=1,EE,20263124,extended,2402003F
+
+//Physique
+patch=1,EE,20264780,extended,03E00008
+patch=1,EE,20264784,extended,24020000
+
+//Speed up with L3 Normal with R3
+patch=1,EE,E002FFFD,extended,003B1A02
+patch=1,EE,20252030,extended,00000000
+patch=1,EE,2025204C,extended,00000000
+patch=1,EE,E002FFFB,extended,003B1A02
+patch=1,EE,20252030,extended,1043FFFA
+patch=1,EE,2025204C,extended,1C40FFFA
+
+

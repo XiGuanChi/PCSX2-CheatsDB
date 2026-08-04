@@ -1,0 +1,14 @@
+gametitle=Tsugunai - Atonement SLUS-20292
+//Infinite Money
+patch=1,EE,20320E68,extended,05F5E0FF
+
+//Save Anywhere
+patch=1,EE,20264450,extended,00000001
+
+//Infinite HP
+patch=1,EE,103247AA,extended,0000270F
+patch=1,EE,10324988,extended,0000270F
+
+//Infinite MP
+patch=1,EE,103247AE,extended,000003E7
+patch=1,EE,1032498C,extended,000003E7

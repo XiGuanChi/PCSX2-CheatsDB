@@ -1,0 +1,14 @@
+gametitle=Gradius V SLPM-62462
+//Invincible (score attack is invalid) Suicide R2
+patch=1,EE,202C6E7C,extended,10000003
+patch=1,EE,D0576142,extended,0000FDFF
+patch=1,EE,202C6E7C,extended,0000F000
+patch=1,EE,D04BB03C,extended,00000200
+patch=1,EE,202C6E7C,extended,10400003
+
+//Unlock All Stage Select Levels
+patch=1,EE,004A05A6,extended,00000002
+patch=1,EE,104A05A4,extended,000007FF
+
+//Infinite Lives Both Players
+patch=1,EE,004A05A1,extended,00000063

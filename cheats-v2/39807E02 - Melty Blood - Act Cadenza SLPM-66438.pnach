@@ -1,0 +1,26 @@
+gametitle=Melty Blood - Act Cadenza SLPM-66438
+//1P Life infinite Magic Circuit max
+patch=1,EE,203941FC,extended,00002AF8
+patch=1,EE,20394200,extended,00002AF8
+patch=1,EE,203941F4,extended,00007530
+
+//SELECT + down 2P physical strength 0
+patch=1,EE,D06871F0,extended,00004100
+patch=1,EE,20396C44,extended,00000000
+
+//Unlock Special Mode 100% Complete (all 23 gallery/music/voice)
+patch=1,EE,402B3DC0,extended,000F0001
+patch=1,EE,000F000F,extended,00000000
+patch=1,EE,402B3E30,extended,000F0001
+patch=1,EE,000F000F,extended,00000000
+patch=1,EE,102B3EF8,extended,00000001
+patch=1,EE,102B3F00,extended,00000001
+
+//Being defeated full opening
+patch=1,EE,402B3DC0,extended,000F0001
+patch=1,EE,000F000F,extended,00000000
+patch=1,EE,402B3E30,extended,000F0001
+patch=1,EE,000F000F,extended,00000000
+patch=1,EE,102B3EF8,extended,00000001
+patch=1,EE,102B3F00,extended,00000001
+

@@ -1,0 +1,45 @@
+gametitle=Sengoku Basara 2 SLPM-66447
+//Possession MAX
+patch=1,EE,2051A500,extended,0098967F
+
+//Experience value fluctuation MAX
+patch=1,EE,201F314C,extended,00000000
+
+//Possession money fluctuation MAX
+patch=1,EE,201E82CC,extended,00000000
+
+//Required
+patch=1,EE,201DB36C,extended,0C03E048
+patch=1,EE,200F81A0,extended,0807A0A0
+
+//Maintain maximum physical strength
+patch=1,EE,200F8134,extended,8E010564
+patch=1,EE,200F8138,extended,AE0104F8
+
+//Basara gauge maximum maintenance
+patch=1,EE,200F813C,extended,8E0109BC
+patch=1,EE,200F8140,extended,AE0109B4
+
+//all armors
+patch=1,EE,404F326C,extended,001D0567
+patch=1,EE,E4E4E400,extended,00000000
+
+//costume a few can be selected
+patch=1,EE,404F3278,extended,001D0567
+patch=1,EE,00008181,extended,00000000
+
+//all items
+patch=1,EE,4051A520,extended,002D0001
+patch=1,EE,E4E4E4E4,extended,00000000
+
+//all titles
+patch=1,EE,2051A6E0,extended,FFFFFFFF
+patch=1,EE,2051A6E4,extended,FFFFFFFF
+patch=1,EE,2051A6E8,extended,001FFFFF
+
+//all music
+patch=1,EE,2051A718,extended,FFFFFFFF
+patch=1,EE,2051A71C,extended,0003FFFF
+
+//all movies
+patch=1,EE,2051A720,extended,003FFFFF

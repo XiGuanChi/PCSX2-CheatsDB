@@ -1,0 +1,12 @@
+gametitle=Mahjong Sengen Sakende de Ron SLPM-62030
+//Player has 99999 points
+patch=1,EE,20D21280,extended,0001869F
+
+//Opponent 1 has 0 points
+patch=1,EE,20D21520,extended,00000000
+
+//Opponent 2 has 0 points
+patch=1,EE,20D21440,extended,00000000
+
+//Opponent 3 has 0 points
+patch=1,EE,20D21360,extended,00000000

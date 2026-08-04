@@ -1,0 +1,15 @@
+gametitle=Shinsengumi Gunrou-den SLPM-65823
+//Infinte Health 999
+patch=1,EE,202FAC08,extended,1000005E
+
+//Attack power 999
+patch=1,EE,202FABC0,extended,1000006A
+
+//Defensive power 999
+patch=1,EE,202FABE4,extended,10000064
+
+//When duty it completes, the step rank 30
+patch=1,EE,202FAEA4,extended,AE10005C
+
+//Configuration debug mode
+patch=1,EE,203073A4,extended,0C0CCAC4

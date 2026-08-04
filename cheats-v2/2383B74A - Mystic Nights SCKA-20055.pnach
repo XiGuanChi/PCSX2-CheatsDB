@@ -1,0 +1,15 @@
+gametitle=Mystic Nights SCKA-20055]
+//Infinite Health
+patch=1,EE,001f98f0,extended,84c30012
+
+//Pistol Ammunition not decreasing
+patch=1,EE,001f7f90,extended,24420000
+
+//Pistol Spare Ammunition not decreasing
+patch=1,EE,001F8984,extended,24420000
+
+//Infinity Ammo (All)
+patch=1,EE,201F7F94,extended,C6E20030
+
+//Infinity Armor (Bruce)
+patch=1,EE,204A1F00,extended,0FFF000F

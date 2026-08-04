@@ -1,0 +1,57 @@
+gametitle=Final Fantasy X-2 (Ultimate Hits) SLPM-66125
+//MAX money
+patch=1,EE,2034BAB8,extended,3B9AC9FF
+
+//Combat obtaining AP mass
+patch=1,EE,201D1E78,extended,24077FFF
+
+//99 that item and use items
+patch=1,EE,201C5A2C,extended,24020064
+patch=1,EE,201C5A70,extended,A2660000
+
+//Experience value MAX Yuna
+patch=1,EE,2034C494,extended,3B9AC9FF
+
+//Experience value MAX Luc
+patch=1,EE,2034C4EC,extended,3B9AC9FF
+
+//Experience value MAX Pine
+patch=1,EE,2034C544,extended,3B9AC9FF
+
+//Yuna Current HP 99999
+patch=1,EE,2034C49C,extended,0001869F
+
+//Yuna Maximum HP 99999
+patch=1,EE,2034C4A4,extended,0001869F
+
+//Yuna The current MP 9999
+patch=1,EE,2034C4A0,extended,0000270F
+
+//Yuna Maximum MP 9999
+patch=1,EE,2034C4A8,extended,0000270F
+
+//Luc Current HP 99999
+patch=1,EE,2034C4F4,extended,0001869F
+
+//Luc Maximum HP 99999
+patch=1,EE,2034C4FC,extended,0001869F
+
+//Luc current MP 9999
+patch=1,EE,2034C4F8,extended,0000270F
+
+//Luc Maximum MP 9999
+patch=1,EE,2034C500,extended,0000270F
+
+//Pine Current HP 99999
+patch=1,EE,2034C54C,extended,0001869F
+
+//Pine Maximum HP 99999
+patch=1,EE,2034C554,extended,0001869F
+
+//Pine current MP 9999
+patch=1,EE,2034C550,extended,0000270F
+
+//Pine Maximum MP 9999
+patch=1,EE,2034C558,extended,0000270F
+
+

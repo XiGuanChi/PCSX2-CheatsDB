@@ -1,0 +1,17 @@
+gametitle=God Hand SLUS-21503
+//Infinite Health
+patch=1,EE,2012C290,extended,00000000
+
+//Infinite Gold
+patch=1,EE,205686F0,extended,000F423F
+
+//Infinite TP (Press SELECT to stop Godhand mode)
+patch=1,EE,205CB004,extended,44480000
+patch=1,EE,D05E8142,extended,0000FFFE
+patch=1,EE,205CB004,extended,00000000
+
+//Infinite Orbs
+patch=1,EE,20568778,extended,01010101
+
+//Meter Always Die Level
+patch=1,EE,105686EC,extended,00001400

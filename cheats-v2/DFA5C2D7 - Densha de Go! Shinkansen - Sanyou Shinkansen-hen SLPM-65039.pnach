@@ -1,0 +1,8 @@
+gametitle=Densha de Go! Shinkansen - Sanyou Shinkansen-hen SLPM-65039
+//0km per hour L2 button
+patch=1,EE,D0377278,extended,00000001
+patch=1,EE,2028C588,extended,00000000
+
+//999km per hour R2 + L2  button
+patch=1,EE,D0377278,extended,00000003
+patch=1,EE,2028C588,extended,447A0000

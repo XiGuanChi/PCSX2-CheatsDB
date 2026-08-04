@@ -1,0 +1,15 @@
+gametitle=True Crime - Streets of L.A. SLES-51754
+//Infinite Health
+patch=1,EE,20228D40,extended,ACC101D0
+
+//Extra Cars In Impound Lot
+patch=1,EE,0075DC24,extended,00000003
+
+//All Driving Upgrades
+patch=1,EE,1075DC1C,extended,0000FFFF
+
+//All Combat Moves
+patch=1,EE,1075DBE4,extended,0000FFFF
+
+//All Guns & Gun Upgrades
+patch=1,EE,1075DB88,extended,0000FFFF

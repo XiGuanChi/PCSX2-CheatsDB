@@ -1,0 +1,29 @@
+gametitle=Front Mission 4 SLPM-65443
+//Fund 9999999
+patch=1,EE,203E5800,extended,0098967F
+patch=1,EE,203E6824,extended,0098967F
+
+//All tools 99
+patch=1,EE,203E5E04,extended,63636300
+patch=1,EE,203E5E08,extended,63636363
+patch=1,EE,203E5E0C,extended,63006300
+patch=1,EE,203E5E10,extended,63006300
+patch=1,EE,203E5E14,extended,63006300
+patch=1,EE,203E5E18,extended,63006300
+patch=1,EE,003E5E1D,extended,00000063
+patch=1,EE,203E6E28,extended,63636300
+patch=1,EE,203E6E2C,extended,63636363
+patch=1,EE,203E6E30,extended,63006300
+patch=1,EE,203E6E34,extended,63006300
+patch=1,EE,203E6E38,extended,63006300
+patch=1,EE,203E6E3C,extended,63006300
+patch=1,EE,003E6E41,extended,00000063
+
+//All EP 9999
+patch=1,EE,403E5EE4,extended,00060045
+patch=1,EE,0000270F,extended,00000000
+patch=1,EE,403E6F08,extended,00060045
+patch=1,EE,0000270F,extended,00000000
+
+
+

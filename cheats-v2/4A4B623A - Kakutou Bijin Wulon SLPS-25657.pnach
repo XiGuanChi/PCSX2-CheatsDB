@@ -1,0 +1,29 @@
+gametitle=Kakutou Bijin Wulon SLPS-25657
+//Required 
+patch=1,EE,202DAC2C,extended,0803E3F8
+patch=1,EE,202DAC30,extended,8E41FFF8
+patch=1,EE,200F8FE0,extended,3C030000
+patch=1,EE,200F8FE4,extended,346300F0
+patch=1,EE,200F8FE8,extended,50230002
+patch=1,EE,200F8FEC,extended,24010001
+patch=1,EE,200F8FF0,extended,24010000
+patch=1,EE,200F8FF4,extended,3C034400
+patch=1,EE,200F8FF8,extended,10200005
+patch=1,EE,200F9000,extended,44830000
+patch=1,EE,200F8910,extended,C4400000
+patch=1,EE,200F9014,extended,080B6B0D
+patch=1,EE,200F9018,extended,3C013F80
+
+//HP maximum maintenance (on required)
+patch=1,EE,200F9004,extended,E4400000
+
+//Stamina maximum maintenance (on required)
+patch=1,EE,200F9008,extended,E4400008
+patch=1,EE,200F900C,extended,E440000C
+
+//Bonus fully open
+patch=1,EE,40B130F4,extended,005E0001
+patch=1,EE,00000001,extended,00000000
+
+//Style fully open
+patch=1,EE,00B133E4,extended,000000FF

@@ -1,0 +1,4 @@
+gametitle=Bouken Shounen Club Gahou SLPS-25279
+//Press Select for maximum money
+patch=1,EE,D02422A0,extended,00000100
+patch=1,EE,20246870,extended,05F5E0FF

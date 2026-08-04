@@ -1,0 +1,22 @@
+gametitle=Jissen Pachi-Slot Hisshouhou! Kemono-Oh SLPS-20131
+//SC does not end
+patch=1,EE,002FCC98,extended,00000000
+
+//Pull the SC permanently SC latent
+patch=1,EE,002FCCB4,extended,000000FF
+
+//One game SC with L1 button at normal play
+patch=1,EE,D02FCE08,extended,00000004
+patch=1,EE,002FCD28,extended,00000080
+
+//Simulation mode setting 5 · 6 selectable
+patch=1,EE,00356E44,extended,00000006
+
+//Extra opening
+patch=1,EE,00356E7C,extended,00000001
+
+//Time attack mode remaining number of games 0
+patch=1,EE,002FCE31,extended,0000000A
+
+//Time Attack Mode All Characters Available to Battle
+patch=1,EE,0029FB60,extended,00000004

@@ -1,0 +1,20 @@
+gametitle=Dragon Ball Z - Sagas SLUS-20874
+//Max Zenny
+patch=1,EE,2048243C,extended,00000063
+
+//Infinite Health P1
+patch=1,EE,200C2000,extended,C44C02C8
+patch=1,EE,200C2004,extended,46006006
+patch=1,EE,200C2008,extended,0807CEB9
+patch=1,EE,200C200C,extended,E44002C4
+patch=1,EE,201F3ADC,extended,08030800
+patch=1,EE,201F3AE0,extended,00000000
+
+//Infinite Ki P1
+patch=1,EE,2018FC70,extended,C48002D4
+
+//All Levels Unlocked/All Extras
+patch=1,EE,2048253C,extended,00000016
+
+//Unlock Pendulum
+patch=1,EE,204825BC,extended,00000001

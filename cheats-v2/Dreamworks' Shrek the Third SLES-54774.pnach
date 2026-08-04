@@ -1,0 +1,16 @@
+gametitle=Dreamworks' Shrek the Third SLES-54774
+//Always full power +
+patch=1,EE,2022EC9C,extended,3C1B42C8
+patch=1,EE,2022ECD4,extended,AE1B0550
+// 
+//Each coin worth 100 coins
+patch=1,EE,20256B00,extended,24060064
+
+//Enemies don't attack
+patch=1,EE,D06A6CC2,extended,0000B7FF
+patch=1,EE,20106ED8,extended,00000000
+patch=1,EE,D06A6CC2,extended,0000BFFE
+patch=1,EE,20106ED8,extended,0C05B138
+
+//Infinite life 
+patch=1,EE,2015F5E4,extended,AE23001C

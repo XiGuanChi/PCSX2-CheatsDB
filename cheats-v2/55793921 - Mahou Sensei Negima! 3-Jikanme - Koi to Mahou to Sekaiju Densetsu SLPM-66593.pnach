@@ -1,0 +1,21 @@
+gametitle=Mahou Sensei Negima! 3-Jikanme - Koi to Mahou to Sekaiju Densetsu SLPM-66593
+//Infinite HP
+patch=1,EE,2011E8BC,extended,00000000
+
+//Max Level All Characters 
+patch=1,EE,403560C0,extended,00080001
+patch=1,EE,03030303,extended,00000000
+
+//Unlock All Characters 
+patch=1,EE,00356021,extended,000000FF
+patch=1,EE,10356022,extended,0000FFFF
+patch=1,EE,40356024,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Unlock All Menu Options 
+patch=1,EE,203563B0,extended,00000001
+patch=1,EE,003563C1,extended,00000001
+patch=1,EE,103563C2,extended,00000101
+patch=1,EE,403563C4,extended,00070001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,203563B4,extended,FFFFFFFF

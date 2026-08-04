@@ -1,0 +1,29 @@
+gametitle=Final Fantasy XII SLUS-20963 - 21475
+//GIL 99.999.999
+patch=1,EE,20547f08,extended,05f5e0ff
+
+//HP 9999/9999 & MP 999/999 (from new game or after save data)
+patch=1,EE,202f4188,extended,10000008
+patch=1,EE,202f41d8,extended,00000000
+
+//HP infinite / infinite
+patch=1,EE,2030c108,extended,00000000
+patch=1,EE,2030c110,extended,AE620048
+
+//MP infinite / infinite
+patch=1,EE,2030c154,extended,00000000
+patch=1,EE,2030c170,extended,86620028
+patch=1,EE,2030c174,extended,A662004C
+patch=1,EE,2030c180,extended,AE020028
+
+//Max.Lizense Points After Fight / After the Fighting License Points 9999
+patch=1,EE,202ec734,extended,00000000
+
+//After a hit, you get Lv99 / After 1 Hit Level 99 / Exp 999999
+patch=1,EE,202ec6e8,extended,00000000
+
+//Infinity Chocobo Energy / Chocobo Turbo Energy Infinite
+patch=1,EE,203019b0,extended,26040000
+
+//Infinity Chocobo Time / Chocobo Time 999
+patch=1,EE,203018e0,extended,3C01461C

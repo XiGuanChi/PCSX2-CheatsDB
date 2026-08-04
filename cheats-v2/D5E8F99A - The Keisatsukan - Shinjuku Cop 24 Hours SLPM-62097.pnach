@@ -1,0 +1,16 @@
+gametitle=The Keisatsukan - Shinjuku Cop 24 Hours SLPM-62097
+//Another Story Open
+patch=1,EE,0029E2F0,extended,00000001
+
+//Infinite credits
+patch=1,EE,0037DE50,extended,00000005
+
+//Elapsed time 00: 00: 000
+patch=1,EE,203819A8,extended,00000000
+
+//Infinite Life
+patch=1,EE,00381968,extended,00000005
+patch=1,EE,0038196A,extended,00000005
+
+//No Reload
+patch=1,EE,10381C30,extended,00000808

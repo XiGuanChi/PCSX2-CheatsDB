@@ -1,0 +1,9 @@
+gametitle=SpongeBob SquarePants - Creature from the Krusty Krab SLES-54400
+//Infinite health
+patch=1,EE,20214974,extended,00000000
+
+//Infinite double jumps
+patch=1,EE,20224500,extended,00000000
+
+//Max Z
+patch=1,EE,21C34688,extended,240403E7

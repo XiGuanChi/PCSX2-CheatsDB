@@ -1,0 +1,48 @@
+gametitle=Smuggler's Run SLUS-20065
+//All missions open a
+patch=1,EE,1028AD30,extended,0000FFFF
+patch=1,EE,1028AD40,extended,0000FFFF
+patch=1,EE,1028AD50,extended,0000FFFF
+patch=1,EE,1028AD60,extended,0000FFFF
+patch=1,EE,1028AD70,extended,0000FFFF
+patch=1,EE,1028AD80,extended,0000FFFF
+patch=1,EE,1028AD90,extended,0000FFFF
+patch=1,EE,1028ADA0,extended,0000FFFF
+patch=1,EE,1028ADB0,extended,0000FFFF
+patch=1,EE,1028ADC0,extended,0000FFFF
+patch=1,EE,1028ADD0,extended,0000FFFF
+patch=1,EE,1028ADE0,extended,0000FFFF
+
+//All missions open b
+patch=1,EE,1028ADF0,extended,0000FFFF
+patch=1,EE,1028AE00,extended,0000FFFF
+patch=1,EE,1028AE10,extended,0000FFFF
+patch=1,EE,1028AE20,extended,0000FFFF
+patch=1,EE,1028AE30,extended,0000FFFF
+patch=1,EE,1028AE40,extended,0000FFFF
+patch=1,EE,1028AE50,extended,0000FFFF
+patch=1,EE,1028AE60,extended,0000FFFF
+patch=1,EE,1028AE70,extended,0000FFFF
+patch=1,EE,1028AE80,extended,0000FFFF
+patch=1,EE,1028AE90,extended,0000FFFF
+patch=1,EE,1028AEA0,extended,0000FFFF
+patch=1,EE,1028AEB0,extended,0000FFFF
+patch=1,EE,1028AEC0,extended,0000FFFF
+patch=1,EE,1028AED0,extended,0000FFFF
+patch=1,EE,1028AEE0,extended,0000FFFF
+patch=1,EE,1028AEF0,extended,0000FFFF
+patch=1,EE,1028AF00,extended,0000FFFF
+patch=1,EE,1028AF10,extended,0000FFFF
+patch=1,EE,1028AF20,extended,0000FFFF
+patch=1,EE,1028AF30,extended,0000FFFF
+patch=1,EE,1028AF40,extended,0000FFFF
+
+//Max Score
+patch=1,EE,20285D6C,extended,05F5E0FF
+
+//Invisibility
+patch=1,EE,20108528,extended,00000000
+
+//Infinite Time
+patch=1,EE,20149EE8,extended,00000000
+patch=1,EE,2014BA28,extended,00000000

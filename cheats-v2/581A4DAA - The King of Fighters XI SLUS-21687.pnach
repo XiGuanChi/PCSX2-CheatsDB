@@ -1,0 +1,28 @@
+gametitle=The King of Fighters XI SLUS-21687
+//Infinite Health Character 1 P1
+patch=1,EE,208A97E4,extended,00700070
+
+//Infinite Health Character 2 P1
+patch=1,EE,208A9804,extended,00700070
+
+//Infinite Health Character 3 P1
+patch=1,EE,208A9824,extended,00700070
+
+//1 Hit Kill Character 1 P2
+patch=1,EE,D08A9A2C,extended,00000070
+patch=1,EE,208A9A2C,extended,00000000
+
+//1 Hit Kill Character 2 P2
+patch=1,EE,D08A9A4C,extended,00000070
+patch=1,EE,208A9A4C,extended,00000000
+
+//1 Hit Kill Character 3 P2
+patch=1,EE,D08A9A6C,extended,00000070
+patch=1,EE,208A9A6C,extended,00000000
+
+//Unlock Extra Characters
+patch=1,EE,108AA7C0,extended,0000FFFF
+
+//100% Complete Status
+patch=1,EE,408AA7D0,extended,00140001
+patch=1,EE,FFFFFFFF,extended,00000000

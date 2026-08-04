@@ -1,0 +1,70 @@
+gametitle=Shifters SLUS-20271
+//Infinite Attribute Points
+patch=1,EE,205D2594,extended,00000064
+patch=1,EE,205D2598,extended,00000064
+
+//Infinite Form Points
+patch=1,EE,205D26D8,extended,00000064
+
+//Max Level
+patch=1,EE,20C12408,extended,0000001E
+
+//Quick Level Up
+patch=1,EE,10C1240C,extended,0000FFFF
+
+//Max Mind
+patch=1,EE,00C12418,extended,00000064
+
+//Max Body
+patch=1,EE,00C12419,extended,00000064
+
+//Max Spirit
+patch=1,EE,00C1241A,extended,00000064
+
+//Infinite Gold Pieces
+patch=1,EE,10C12444,extended,0000FFFF
+
+//Max Gold Pieces
+patch=1,EE,20C12444,extended,05F5E0FF
+
+
+//== Have Form Codes ==
+
+//Beast Grunt
+patch=1,EE,00C1245D,extended,00000000
+
+//Undead Grunt
+patch=1,EE,00C1245E,extended,00000000
+
+//Kreegan Grunt
+patch=1,EE,00C1245F,extended,00000000
+
+//Djinn Grunt
+patch=1,EE,00C12460,extended,00000000
+
+//Hybrid Grunt
+patch=1,EE,00C12461,extended,00000000
+
+//Automaton Grunt
+patch=1,EE,00C12462,extended,00000000
+
+
+//== Max Form Codes ==
+
+//Beast Grunt
+patch=1,EE,00C12451,extended,0000000A
+
+//Undead Grunt
+patch=1,EE,00C12452,extended,0000000A
+
+//Kreegan Grunt
+patch=1,EE,00C12453,extended,0000000A
+
+//Djinn Grunt
+patch=1,EE,00C12454,extended,0000000A
+
+//Hybrid Grunt
+patch=1,EE,00C12455,extended,0000000A
+
+//Automaton Grunt
+patch=1,EE,00C12456,extended,0000000A

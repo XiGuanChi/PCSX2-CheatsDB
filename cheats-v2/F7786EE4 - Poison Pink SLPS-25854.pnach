@@ -1,0 +1,30 @@
+gametitle=Poison Pink SLPS-25854
+//Max Money
+patch=1,EE,204C74E8,extended,0098967F
+
+//Max PP 
+patch=1,EE,204C7520,extended,0098967F
+
+//Infinite action possible
+patch=1,EE,20147A44,extended,0000102D
+
+//Operate HP in battle HP recovery when HP is displayed while pressing L2 If you display HP while pressing R2, HP0
+patch=1,EE,200F7000,extended,3C050062
+patch=1,EE,200F7004,extended,94A5CE42
+patch=1,EE,200F7008,extended,30A10100
+patch=1,EE,200F700C,extended,10200006
+patch=1,EE,200F7010,extended,0240202D
+patch=1,EE,200F7014,extended,30A10200
+patch=1,EE,200F7018,extended,10200005
+patch=1,EE,200F701C,extended,0000102D
+patch=1,EE,200F7020,extended,10000004
+patch=1,EE,200F7028,extended,0C09C4F8
+patch=1,EE,200F702C,extended,0000282D
+patch=1,EE,200F7030,extended,A6420022
+patch=1,EE,200F7034,extended,080B42CE
+patch=1,EE,200F7038,extended,0200202D
+patch=1,EE,202D0B34,extended,0803DC00
+
+//Overkill when doing damage
+patch=1,EE,20185134,extended,00000000
+

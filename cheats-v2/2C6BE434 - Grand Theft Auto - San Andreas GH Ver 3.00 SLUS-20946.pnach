@@ -1,0 +1,47 @@
+gametitle=Grand Theft Auto - San Andreas GH Ver 3.00 SLUS-20946
+//Max Money
+patch=1,EE,2070A244,extended,3B9AC9FF
+patch=1,EE,2070A248,extended,3B9AC9FF
+
+//Infinite Health
+patch=1,EE,202A9C48,extended,3C0142C8
+patch=1,EE,202A9C50,extended,AC610580
+patch=1,EE,202A9C54,extended,3063FFFF
+
+//Infinite Armor
+patch=1,EE,202A9968,extended,3C0142C8
+patch=1,EE,202A996C,extended,AC610588
+
+//Never Hungry
+patch=1,EE,202649DC,extended,A6200170
+
+//Infinite Air
+patch=1,EE,201A7FF4,extended,00000000
+
+//Infinite Run
+patch=1,EE,0070A2D8,extended,00000001
+
+//Infinite Ammo-All Weapons
+patch=1,EE,20134344,extended,00000000
+patch=1,EE,201343A8,extended,00000000
+
+//Have All Girlfriends
+patch=1,EE,206B2DD8,extended,FFFFFFFF
+
+//Only Your Car Receives No Damage From Collisions
+patch=1,EE,20146A2C,extended,00000000
+patch=1,EE,20146A40,extended,00000000
+
+//Only Your Car Is Immune To Weapons
+patch=1,EE,2016A504,extended,00000000
+patch=1,EE,1016A568,extended,00000202
+
+//Infinite Nitrous
+patch=1,EE,20159BF0,extended,00000000
+
+//Infinite Time
+patch=1,EE,20292CB0,extended,03E00008
+patch=1,EE,20292CB4,extended,00000000
+
+//Never Wanted 
+patch=1,EE,2027BF74,extended,24040000

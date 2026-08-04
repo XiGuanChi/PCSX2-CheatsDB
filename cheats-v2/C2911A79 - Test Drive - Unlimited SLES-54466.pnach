@@ -1,0 +1,12 @@
+gametitle=Test Drive - Unlimited SLES-54466
+//Infinite Cash
+patch=1,EE,21ABC6E8,extended,05F00000
+
+//Max Cash After a Paint Job
+patch=1,EE,203BACA4,extended,3C0505F0
+
+//All Cars Are Available to Purchase without Condition
+patch=1,EE,203B9550,extended,00000000
+
+//Always Low Race Time
+patch=1,EE,205DF0FC,extended,00000000

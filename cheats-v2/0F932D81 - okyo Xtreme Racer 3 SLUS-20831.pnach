@@ -1,0 +1,27 @@
+gametitle=okyo Xtreme Racer 3 SLUS-20831
+//Max Odometer Meter
+patch=1,EE,203AEB54,extended,3B9AC9FF
+
+//Always Low Time
+patch=1,EE,D041E8D2,extended,00000041
+patch=1,EE,2041EAC0,extended,00000000
+
+//Max Trip Meter
+patch=1,EE,D041E8D2,extended,00000041
+patch=1,EE,2041EABC,extended,00189BC6
+
+//Infinite SP Player 1
+patch=1,EE,D041E8D2,extended,00000041
+patch=1,EE,2041E958,extended,004C4B40
+
+//Never Lose SP From Damage Player 1
+patch=1,EE,201653F0,extended,00000000
+
+//Access All Cars (Free Mode)
+patch=1,EE,201D338C,extended,00000000
+
+//Easy Wins
+patch=1,EE,2041E9A8,extended,00000001
+
+//Infinite Money With this code, start a race for max money.
+patch=1,EE,103AEBB0,extended,0000FFFF

@@ -1,0 +1,40 @@
+gametitle=Kingdom Hearts SCES-50971
+//Infinite health Sora in battle
+patch=1,EE,003F4625,extended,00000096
+patch=1,EE,00526F94,extended,00000096
+
+//Infinite Munny
+patch=1,EE,2040AFAC,extended,0001869F
+
+//Have All Trinities
+patch=1,EE,003F67AB,extended,0000007F
+
+//Have Dumbo Summon
+patch=1,EE,003F5360,extended,00000000
+
+//Have Bambi Summon
+patch=1,EE,003F5361,extended,00000001
+
+//Have Mushu Summon
+patch=1,EE,003F5362,extended,00000004
+
+//Have Tinker Bell Summon
+patch=1,EE,003F5363,extended,00000003
+
+//Have Simba Summon
+patch=1,EE,003F5364,extended,00000005
+
+//Have Genie Summon
+patch=1,EE,003F5365,extended,00000002
+
+//All dalmatians
+patch=1,EE,003F6293,extended,000000FF
+patch=1,EE,203F6294,extended,FFFFFFFF
+patch=1,EE,203F6298,extended,FFFFFFFF
+patch=1,EE,203F629C,extended,7FFFFFFF
+
+//Slot 2 - Infinite HP in battle (do not use it if Sora alone)
+patch=0,EE,00527078,extended,00000063
+
+//Slot 3 - Infinite HP in battle (do not use it if Sora alone)
+patch=0,EE,0052715C,extended,00000063

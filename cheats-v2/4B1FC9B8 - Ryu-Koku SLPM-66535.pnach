@@ -1,0 +1,4 @@
+gametitle=Ryu-Koku SLPM-66535
+//Replace New Game With Debug Menu
+patch=1,EE,D10BBBD2,extended,00000003
+patch=1,EE,110BBBD2,extended,00000004

@@ -1,0 +1,38 @@
+gametitle=Devil May Cry 2 SLUS-20484-20627
+//The Character Is Invincible
+patch=1,EE,0056FCAF,extended,00000005
+
+//Infinite Health
+patch=1,EE,2056F860,extended,270F270F
+
+//1 Hit Kill Enemies
+patch=1,EE,200FFF80,extended,3C010056
+patch=1,EE,200FFF84,extended,3421F760
+patch=1,EE,200FFF88,extended,24027FFF
+patch=1,EE,200FFF8C,extended,14310002
+patch=1,EE,200FFF94,extended,44020000
+patch=1,EE,200FFF9C,extended,08065371
+patch=1,EE,20194DC0,extended,0803FFE0
+
+//Have All Guns
+patch=1,EE,0056FD70,extended,0000000F
+patch=1,EE,10570BCE,extended,00000101
+patch=1,EE,00570BD0,extended,00000001
+
+//Have All Swords
+patch=1,EE,0056FD71,extended,0000000F
+patch=1,EE,10570BC8,extended,00000101
+
+//Unlock All Characters And Modes
+patch=1,EE,10570D4E,extended,00000303
+patch=1,EE,00573C92,extended,0000001F
+
+//Load a game to activate this code
+
+//Unlock All Missions On Disc 1
+patch=1,EE,10574192,extended,0000120F
+patch=1,EE,10574194,extended,00001212
+
+//Unlock All Missions On Disc 2
+patch=1,EE,10574192,extended,00000D0F
+patch=1,EE,10574194,extended,00000D0D

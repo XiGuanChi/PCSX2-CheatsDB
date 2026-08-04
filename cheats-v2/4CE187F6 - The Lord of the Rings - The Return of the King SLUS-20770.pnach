@@ -1,0 +1,9 @@
+gametitle=The Lord of the Rings - The Return of the King SLUS-20770
+//Infinite Health
+patch=1,EE,20198E50,extended,00000000
+
+//Infinite Arrows
+patch=1,EE,20DECDA8,extended,001E001E
+
+//One Hit Kills
+patch=1,EE,201EF820,extended,AE600090

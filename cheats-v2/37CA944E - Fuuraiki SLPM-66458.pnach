@@ -1,0 +1,15 @@
+gametitle=Fuuraiki SLPM-66458	
+//Press R1 + Triangle For Debug Menu by punk7890
+patch=1,EE,003506BC,extended,00000001
+
+//Unlock extras CG in album mode is not fully opened.
+patch=1,EE,10389E50,extended,00000030
+
+//Point players 99 sentences
+patch=1,EE,2062E5B0,extended,00000063
+
+//Point owner challenger 0 sentences
+patch=1,EE,2062E5B4,extended,00000000
+
+//All Characters Emerge not reflected in save data
+patch=1,EE,2062EA60,extended,00000003

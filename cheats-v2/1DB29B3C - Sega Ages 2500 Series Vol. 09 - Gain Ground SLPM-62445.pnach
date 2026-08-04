@@ -1,0 +1,9 @@
+gametitle=Sega Ages 2500 Series Vol. 09 - Gain Ground SLPM-62445
+//EXTRA GAME Add
+patch=1,EE,202651DC,extended,00000001
+
+//Invincible (1P, 2P Common)
+patch=1,EE,201AF27C,extended,24030100
+
+//Infinite time (1P, 2P Common)
+patch=1,EE,2015FC54,extended,00000000

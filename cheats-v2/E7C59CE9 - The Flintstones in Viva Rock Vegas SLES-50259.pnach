@@ -1,0 +1,16 @@
+gametitle=The Flintstones in Viva Rock Vegas SLES-50259
+//Freeze Timer
+patch=1,EE,203A0494,extended,00000000
+patch=1,EE,203A0498,extended,00000000
+patch=1,EE,203A049C,extended,00000000
+patch=1,EE,203A04A0,extended,00000000
+
+//Start On Last Lap
+patch=1,EE,203A0474,extended,00000003
+
+//Mirror, Reverse And G-Slam Tracks Open
+patch=1,EE,203A13AC,extended,00000001
+patch=1,EE,203A13B0,extended,00000001
+patch=1,EE,203A13B4,extended,00000001
+patch=1,EE,203A13B8,extended,00000001
+patch=1,EE,203A13C0,extended,00000001

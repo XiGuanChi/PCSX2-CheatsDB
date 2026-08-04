@@ -1,0 +1,24 @@
+gametitle=Marvel vs. Capcom 2 SLUS-20486
+//Player 1 - Infinite Health Character 1
+patch=1,EE,104F24E4,extended,00000090
+
+//Player 1 - Infinite Health Character 2
+patch=1,EE,104F3054,extended,00000090
+
+//Player 1 - Infinite Health Character 3
+patch=1,EE,104F3BC4,extended,00000090
+
+//Unlock All Characters
+patch=1,EE,204F4330,extended,F8FFFFFF
+patch=1,EE,204F4334,extended,07FFFFFF
+
+//Unlock All New Colors
+patch=1,EE,204F4338,extended,F8FFFFFF
+patch=1,EE,204F433C,extended,07FFFFFF
+
+//Have All Gallery
+patch=1,EE,204F7FB4,extended,FFFFFFFF
+patch=1,EE,204F7FB8,extended,FFFFFFFF
+
+//Have All Stages
+patch=1,EE,004D179A,extended,00000007

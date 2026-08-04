@@ -1,0 +1,16 @@
+gametitle=God of War SLPM-67010
+//Power orb maximum
+patch=1,EE,203017A8,extended,0000EA60
+//Power Orb 30000
+patch=1,EE,203017A8,extended,00007530
+
+//Magic meter does not decrease
+patch=1,EE,2030179C,extended,42C80000
+
+//Maximum Rage of Gods meter with L3 button
+patch=1,EE,D029D6E0,extended,00000200
+patch=1,EE,203017A0,extended,42C80000
+
+//With L1 button physical reconditioning
+patch=1,EE,D029D6E0,extended,00000004
+patch=1,EE,201E19AC,extended,46016328

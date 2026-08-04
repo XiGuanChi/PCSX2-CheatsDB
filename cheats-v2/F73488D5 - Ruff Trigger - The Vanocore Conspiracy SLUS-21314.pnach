@@ -1,0 +1,18 @@
+gametitle=Ruff Trigger - The Vanocore Conspiracy SLUS-21314
+//Infinite Health
+patch=1,EE,2010B708,extended,00000000
+
+//Infinite Air
+patch=1,EE,201A97F4,extended,24420000
+
+//Infinite Ammo
+patch=1,EE,20129FAC,extended,24620000
+
+//Infinite Time
+patch=1,EE,2019EDD8,extended,00000000
+
+//Infinite Lives
+patch=1,EE,201388DC,extended,00000000
+
+//Quick Max Tykels
+patch=1,EE,2010B048,extended,00000000

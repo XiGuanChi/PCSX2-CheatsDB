@@ -1,0 +1,36 @@
+gametitle=Biohazard Outbreak File 2  english patched SLPM-65692
+//Virus 0.00&
+patch=1,EE,2063BB94,extended,AE200BC4
+
+//Inf. Ammo
+patch=1,EE,205865D8,extended,24820000
+
+//Inf. HP
+patch=1,EE,205CAADC,extended,84820542
+patch=1,EE,205CAAE0,extended,A4820540
+
+//No Infection
+patch=1,EE,205CAAF0,extended,A0800BB8
+
+//One hit Kill
+patch=1,EE,20615A6C,extended,A6620138
+
+//Enemy Won't Attack/No Damage
+patch=1,EE,20634748,extended,00000000
+
+//Notes For Codes Below
+//- Use it One time then save and turn off.
+//- Load the game without codes again.
+
+//All Collection
+patch=1,EE,20549A10,extended,00431025
+
+//Collection 99999
+patch=1,EE,20311D34,extended,3B9AC9FF
+
+//All SP Items
+patch=1,EE,205517F4,extended,0002082D
+patch=1,EE,20551800,extended,8C220000
+patch=1,EE,20551804,extended,00431025
+patch=1,EE,20551808,extended,03E00008
+patch=1,EE,2055180C,extended,AC220000

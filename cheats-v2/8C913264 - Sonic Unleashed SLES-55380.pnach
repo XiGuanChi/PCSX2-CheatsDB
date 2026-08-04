@@ -1,0 +1,34 @@
+gametitle=Sonic Unleashed SLES-55380
+//Dark Gaia Force points
+patch=1,EE,2089507C,extended,05F5E0FF
+
+//Gain Max Special/Coins
+patch=1,EE,2024F058,extended,C4602718
+
+//Infinite HP Werehog
+patch=1,EE,2024E3A0,extended,461F0841
+
+//Other Timer(Mission Time Freeze code)
+patch=1,EE,201ECDD4,extended,461F0800
+
+//Main Timer Freeze
+patch=1,EE,201ECD4C,extended,461F0800
+
+//Refill Health On Coin Pickup
+patch=1,EE,2025000C,extended,C4802708
+
+//Max Suns
+patch=1,EE,00892370,extended,000000FF
+
+//Max Moons
+patch=1,EE,00892371,extended,000000FF
+
+//Have Max Sun After Pickup
+patch=1,EE,20420560,extended,24050064
+patch=1,EE,20420564,extended,03E00008
+patch=1,EE,20420568,extended,A0850000
+
+//Have Max Moon After Pickup
+patch=1,EE,20420570,extended,24050064
+patch=1,EE,20420574,extended,03E00008
+patch=1,EE,20420578,extended,A0850001

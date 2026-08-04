@@ -1,0 +1,58 @@
+gametitle=Star Trek - Shattered Universe SLUS-20112
+//Infinite Shield
+patch=1,EE,200C0220,extended,C62C0E80
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,E62C0E68
+patch=1,EE,2011B15C,extended,0C030088
+
+//Infinite Health
+patch=1,EE,200C0230,extended,C62C0E84
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,E62C0E70
+patch=1,EE,2011B1AC,extended,0C03008C
+
+//Infinite Primary Weapon
+patch=1,EE,2010DD94,extended,00000000
+
+//Infinite Secondary Weapon
+patch=1,EE,2010DDA0,extended,00000000
+
+//Infinite Primary & Secondary Weapons
+patch=1,EE,2010DD60,extended,03E00008
+patch=1,EE,2010DD64,extended,00000000
+
+//Always Low Time
+patch=1,EE,20132B5C,extended,00000000
+
+//Infinite Shield (ISS Excelsior)
+patch=1,EE,200C0240,extended,C4820E80
+patch=1,EE,200C0244,extended,08047806
+patch=1,EE,200C0248,extended,E4820E68
+patch=1,EE,2011E010,extended,08030090
+
+//Infinite Health (ISS Excelsior)
+patch=1,EE,200C0250,extended,C4800E84
+patch=1,EE,200C0254,extended,08047809
+patch=1,EE,200C0258,extended,E4800E70
+patch=1,EE,2011E01C,extended,08030094
+
+//Unlock All Levels/Movies
+patch=1,EE,201A5CB8,extended,00000012
+
+//Unlock Kobayashi Maru Difficulty
+patch=1,EE,201A5CC0,extended,00000001
+
+//Rank Commander
+patch=1,EE,201A5E1C,extended,00000009
+
+//Have All Levels Completed
+patch=1,EE,401A5CC4,extended,004C0001
+patch=1,EE,00000001,extended,00000000
+
+//Unlock All Ships
+patch=1,EE,401A5DF4,extended,00060001
+patch=1,EE,00000001,extended,00000000
+
+//Have All Medals
+patch=1,EE,401A5E0C,extended,00040001
+patch=1,EE,00000001,extended,00000000

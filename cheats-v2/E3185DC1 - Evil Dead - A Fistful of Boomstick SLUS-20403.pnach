@@ -1,0 +1,18 @@
+gametitle=Evil Dead - A Fistful of Boomstick SLUS-20403
+//Infinite Health
+patch=1,EE,2014ADE8,extended,240207D0
+patch=1,EE,2014ADEC,extended,A4620110
+patch=1,EE,1014ADF2,extended,00001000
+
+//Infinite Magic
+patch=1,EE,202E8368,extended,43200000
+
+//Infinite Ammo
+patch=1,EE,201CBE90,extended,00000000
+
+//Infinite Save Game Tokens
+patch=1,EE,002BAA73,extended,00000063
+
+//Have All Spells (In Spell Book)
+patch=1,EE,402E8390,extended,000B0001
+patch=1,EE,00000001,extended,00000000

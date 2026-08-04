@@ -1,0 +1,35 @@
+gametitle=Grand Theft Auto - Vice City Stories SLPM-66917
+//Possession gold MAX
+patch=1,EE,204DAE8C,extended,05F5E0FF
+patch=1,EE,204DAE90,extended,05F5E0FF
+
+//Cheat commands use flag OFF
+patch=1,EE,204C7A88,extended,00000000
+
+//Bullet-proof vest 500 fixed & stamina When you press the select + R3 can be suicide on the spot.
+patch=1,EE,20283DA0,extended,3C0143FA
+patch=1,EE,20283DC8,extended,E44104E8
+patch=1,EE,D04CDAC2,extended,0000FFFA
+patch=1,EE,20283DC8,extended,AC4004E4
+
+
+//It does not decrease the bullet
+patch=1,EE,2016453C,extended,24420000
+patch=1,EE,2016494C,extended,24420000
+
+//Timer stop Resume stop · R1 + R2 at the L1 + L2
+patch=1,EE,D04CDAC2,extended,0000FAFF
+patch=1,EE,204206B4,extended,10000039
+patch=1,EE,D04CDAC2,extended,0000F5FF
+patch=1,EE,204206B4,extended,10400039
+
+//No collision damage while riding, only their own car
+patch=1,EE,20139E7C,extended,3442001F
+patch=1,EE,20139E8C,extended,00000000
+
+//Bulletproof effect at the time of boarding only their own car
+patch=1,EE,2019AFCC,extended,3442001F
+patch=1,EE,2019AFDC,extended,00000000
+
+//Without all bike collision damage
+patch=1,EE,2035C4C0,extended,100001E0

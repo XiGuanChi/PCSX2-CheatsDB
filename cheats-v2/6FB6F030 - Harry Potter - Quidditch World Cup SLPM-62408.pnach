@@ -1,0 +1,18 @@
+gametitle=Harry Potter - Quidditch World Cup SLPM-62408
+//All cards can be used 104/104
+patch=1,EE,21DF3C00,extended,FFFFFFFF
+patch=1,EE,21DF3C04,extended,FFFFFFFF
+patch=1,EE,21DF3C08,extended,FFFFFFFF
+patch=1,EE,21DF3C0C,extended,FFFFFFFF
+patch=1,EE,21DF3C10,extended,FFFFFFFF
+patch=1,EE,21DF3C14,extended,FFFFFFFF
+patch=1,EE,21DF3C18,extended,FFFFFFFF
+patch=1,EE,11DF3C1C,extended,0000FFFF
+
+//1P score
+patch=1,EE,D0399488,extended,00000000
+patch=1,EE,10399488,extended,000003E7
+
+//Time 00:00:00 After pressing the SELECT button
+patch=1,EE,D054C142,extended,0000FFFE
+patch=1,EE,10462B18,extended,00000000

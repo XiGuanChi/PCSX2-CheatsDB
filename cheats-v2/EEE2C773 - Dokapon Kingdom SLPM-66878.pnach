@@ -1,0 +1,22 @@
+gametitle=Dokapon Kingdom SLPM-66878
+//Player 1 (Your Player) Money Max
+patch=1,EE,2040E4D4,extended,3B9AC9FF
+patch=1,EE,2040E44C,extended,3B9AC9FF
+
+//Player 2 Money Max
+patch=1,EE,2040E694,extended,3B9AC9FF
+patch=1,EE,2040E70C,extended,3B9AC9FF
+
+//Player 3 Money Max
+patch=1,EE,2040E854,extended,3B9AC9FF
+patch=1,EE,2040E8CC,extended,3B9AC9FF
+
+//Player 4 Money Max
+patch=1,EE,2040EA14,extended,3B9AC9FF
+patch=1,EE,2040EA8C,extended,3B9AC9FF
+
+//Zako defeat and Lv99 OFF in ON R2 in L2
+patch=1,EE,D05373C2,extended,0000FEFF
+patch=1,EE,00182FB4,extended,00000000
+patch=1,EE,D05373C2,extended,0000FDFF
+patch=1,EE,00182FB4,extended,14200002

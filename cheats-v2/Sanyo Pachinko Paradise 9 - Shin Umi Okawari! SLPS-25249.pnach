@@ -1,0 +1,12 @@
+gametitle=Sanyo Pachinko Paradise 9 - Shin Umi Okawari! SLPS-25249
+//MaxTrick gauge 
+patch=1,EE,206568BC,extended,0BB80BB8
+
+//full Patchoul cloud 
+patch=1,EE,2059C16C,extended,00000005
+
+//Hold START at Press Start Screen for Debug Menu 
+patch=1,EE,D0714FC2,extended,0000FFF7
+patch=1,EE,0010D618,extended,0000000B
+patch=1,EE,D0714FC2,extended,0000FFFF
+patch=1,EE,0010D618,extended,00000007

@@ -1,0 +1,9 @@
+gametitle=Kira Kira Rock 'n' Roll Show SLPM-55132
+//Bonus fully open
+patch=1,EE,4018F9E4,extended,00060001
+patch=1,EE,00010001,extended,00000000
+patch=1,EE,10190EC6,extended,0000FFFF
+patch=1,EE,0018F82C,extended,00000001
+patch=1,EE,0018F831,extended,00000001
+patch=1,EE,0018F82F,extended,00000001
+patch=1,EE,0018F82B,extended,00000001

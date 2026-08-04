@@ -1,0 +1,18 @@
+gametitle=Need for Speed - Most Wanted SLES-53558
+//unendlich Nitro
+patch=1,EE,2036f4fc,extended,e6000178
+
+//Nitro immer aktiviert
+patch=1,EE,2036f510,extended,e6010180
+
+//unendlich Geld
+patch=1,EE,2023e454,extended,ac4700f0
+
+//unendlich Speedbreaker
+patch=1,EE,203967c0,extended,e601010c
+
+//schalte die CPU AI aus
+patch=1,EE,20118B80,extended,00000000
+
+//Open All Tracks/Challenges/Cars/Parts 
+patch=1,EE,00574C24,extended,00000001

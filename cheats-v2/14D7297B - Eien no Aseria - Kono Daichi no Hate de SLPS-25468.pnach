@@ -1,0 +1,45 @@
+gametitle=Eien no Aseria - Kono Daichi no Hate de SLPS-25468
+//Held Mana MAX
+patch=1,EE,203D2BE4,extended,3B9AC9FF
+
+//Held Et MAX
+patch=1,EE,203D2BE0,extended,3B9AC9FF
+
+//All CG
+patch=1,EE,403D5E5C,extended,00090001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Yuuto Takamine - HP MAX
+patch=1,EE,2032E414,extended,0001869F
+patch=1,EE,2032E418,extended,0001869F
+
+//Yuuto Takamine - Attack Power MAX
+patch=1,EE,1032E41C,extended,0000270F
+
+//Esperia Greenspirit - HP MAX
+patch=1,EE,2032E68C,extended,0001869F
+patch=1,EE,2032E688,extended,0001869F
+
+//Esperia Greenspirit - Attack Power MAX
+patch=1,EE,1032E68C,extended,0000270F
+
+//Kaori Takamine - HP MAX
+patch=1,EE,2032ED6C,extended,0001869F
+patch=1,EE,2032ED70,extended,0001869F
+
+//Kaori Takamine - Attack Power MAX
+patch=1,EE,1032ED74,extended,0000270F
+
+//Aselia Bluespirit - HP MAX
+patch=1,EE,2032E4E4,extended,0001869F
+patch=1,EE,2032E4E8,extended,0001869F
+
+//Aselia Bluespirit - Attack Power MAX
+patch=1,EE,1032E4EC,extended,0000270F
+
+//Oruphaliru Redspirit - HP MAX
+patch=1,EE,2032E5E4,extended,0001869F
+patch=1,EE,2032E5B8,extended,0001869F
+
+//Oruphaliru Redspirit - Attack Power MAX
+patch=1,EE,1032E5BC,extended,0000270

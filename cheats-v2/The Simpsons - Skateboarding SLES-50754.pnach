@@ -1,0 +1,133 @@
+gametitle=The Simpsons - Skateboarding SLES-50754
+//Press Select to activate the codes All Characters
+patch=1,EE,D033CA44,extended,00000100
+patch=1,EE,10776FCE,extended,000001FF
+
+//All Alterna Char.
+patch=1,EE,D033CA44,extended,00000100
+patch=1,EE,10776FD0,extended,0000FFFF
+
+//Homer All Levels
+patch=1,EE,D033CA44,extended,00000100
+patch=1,EE,10777914,extended,0000000A
+
+//Bart All Levels
+patch=1,EE,D033CA44,extended,00000100
+patch=1,EE,10777004,extended,0000000A
+
+//Marge All Levels
+patch=1,EE,D033CA44,extended,00000100
+patch=1,EE,10777248,extended,0000000A
+
+//Lisa All Levels
+patch=1,EE,D033CA44,extended,00000100
+patch=1,EE,107776D0,extended,0000000A
+
+//Nelson All Levels
+patch=1,EE,D033CA44,extended,00000100
+patch=1,EE,10777D9C,extended,0000000A
+
+//Otto All Levels
+patch=1,EE,D033CA44,extended,00000100
+patch=1,EE,10777FE0,extended,0000000A
+
+//Frink All Levels
+patch=1,EE,D033CA44,extended,00000100
+patch=1,EE,1077748C,extended,0000000A
+
+//Krusty All Levels
+patch=1,EE,D033CA44,extended,00000100
+patch=1,EE,10777B58,extended,0000000A
+
+//Wiggum All Levels
+patch=1,EE,D033CA44,extended,00000100
+patch=1,EE,10778224,extended,0000000A
+
+//Unlock all Skaters
+patch=1,EE,10776FCE,extended,000001FF
+
+//Unlock all alternate Characters
+patch=1,EE,10776FD0,extended,0000FFFF
+
+//Unlock all Big Head Characters
+patch=1,EE,10776FD2,extended,0000FFFF
+
+//Homer Simpson Codes
+//Maximum Speed
+patch=1,EE,207778EC,extended,42C80000
+
+//Maximum Turns
+patch=1,EE,207778F0,extended,42C80000
+
+//Maximum Jumps
+patch=1,EE,207778F4,extended,42C80000
+
+//Maximum Grabs
+patch=1,EE,207778F8,extended,42C80000
+
+//Maximum Grinds
+patch=1,EE,207778FC,extended,42C80000
+
+//Unlock All Levels
+patch=1,EE,20777914,extended,0000000A
+
+//Unlimited Money
+patch=1,EE,20777910,extended,42C60000
+
+//Skatefest all Objectives Achieved
+patch=1,EE,2077791C,extended,000001FE
+
+//Bart Simpson Codes
+//Maximum Speed
+patch=1,EE,20776FDC,extended,42C80000
+
+//Maximum Turns
+patch=1,EE,20776FE0,extended,42C80000
+
+//Maximum Jumps
+patch=1,EE,20776FE4,extended,42C80000
+
+//Maximum Grabs
+patch=1,EE,20776FE8,extended,42C80000
+
+//Maximum Grinds
+patch=1,EE,20776FEC,extended,42C80000
+
+//Unlock All Levels
+patch=1,EE,20777004,extended,0000000A
+
+//Unlimited Money
+patch=1,EE,20777000,extended,42C60000
+
+//Skatefest all Objectives Achieved
+patch=1,EE,2077700C,extended,000001FE
+
+//Unlock Codes
+//Unlock all Characters
+patch=1,EE,10776FCE,extended,000001FF
+
+//Unlock all Alternate Characters
+patch=1,EE,10776FD0,extended,0000FFFF
+
+//Unlock all Big Head Characters
+patch=1,EE,10776FD2,extended,0000FFFF
+
+//Unlock all Levels Codes
+//Homer
+patch=1,EE,10777914,extended,0000000A
+//Bart
+patch=1,EE,10777004,extended,0000000A
+//Marge
+patch=1,EE,10777248,extended,0000000A
+//Lisa
+patch=1,EE,107776D0,extended,0000000A
+//Nelson
+patch=1,EE,10777D9C,extended,0000000A
+//Otto
+patch=1,EE,10777FE0,extended,0000000A
+//Frink
+patch=1,EE,1077748C,extended,0000000A
+//Krusty
+patch=1,EE,10777B58,extended,0000000A
+//Wiggum
+patch=1,EE,10778224,extended,0000000A

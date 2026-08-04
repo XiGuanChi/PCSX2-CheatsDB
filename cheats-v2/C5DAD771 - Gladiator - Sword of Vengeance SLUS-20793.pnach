@@ -1,0 +1,29 @@
+gametitle=Gladiator - Sword of Vengeance SLUS-20793
+//Infinite Health
+patch=1,EE,200C0230,extended,E46101F4
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,C46001F4
+patch=1,EE,2013E5C0,extended,0C03008C
+
+//Player 1 Press r1 + select For Max Special Meter
+patch=1,EE,D0449282,extended,0000F7FE
+patch=1,EE,2010EDC0,extended,E44101AC
+
+//Player 1 Press r2 + select For Normal Special Meter
+patch=1,EE,D0449282,extended,0000FDFE
+patch=1,EE,2010EDC0,extended,00000000
+
+//Have All Health Slot Vials
+patch=1,EE,414A16F8,extended,00030001
+patch=1,EE,02020202,extended,00000000
+
+//Have All Titan Tablets
+patch=1,EE,214A1720,extended,02020202
+patch=1,EE,214A1724,extended,02020202
+
+//Have All Emperor's Coins
+patch=1,EE,214A1748,extended,02020202
+
+//Have All Priest's Amulets
+patch=1,EE,214A1770,extended,02020202
+patch=1,EE,214A1774,extended,02020202

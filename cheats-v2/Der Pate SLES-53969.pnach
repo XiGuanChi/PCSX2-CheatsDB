@@ -1,0 +1,12 @@
+gametitle=Der Pate SLES-53969
+//unendlich Geld
+patch=1,EE,2069c254,extended,05f5e0ff
+
+//unendlich Energie
+patch=1,EE,201ec158,extended,e6541048
+
+//unendlich Munition
+patch=1,EE,201582cc,extended,24420000
+
+//unendlich Munition v2
+patch=1,EE,20156c5c,extended,00000000

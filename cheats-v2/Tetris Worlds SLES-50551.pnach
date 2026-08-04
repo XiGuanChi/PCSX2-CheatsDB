@@ -1,0 +1,13 @@
+gametitle=Tetris Worlds SLES-50551
+//Story Mode Quick Level Up
+patch=1,EE,201CFEF0,extended,00000000
+patch=1,EE,201CFEF4,extended,44810000
+
+//Start At Level 5 - Arcade
+patch=1,EE,202390DC,extended,24020005
+
+//Start At Level 10 - Arcade
+patch=0,EE,202390DC,extended,2402000A
+
+//Start At Level 15 - Arcade
+patch=0,EE,202390DC,extended,2402000F

@@ -1,0 +1,11 @@
+gametitle=Frogger - Ancient Shadow SLUS-21098
+//Infinite Lives
+patch=1,EE,2023E180,extended,00000000
+
+//Max Gold Coins (On Pickup)
+patch=1,EE,2023E620,extended,241303E7
+patch=1,EE,2023E6AC,extended,241303E7
+
+//Unlock All Levels
+patch=1,EE,4038B034,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000

@@ -1,0 +1,105 @@
+gametitle=Der Herr der Ringe - Die Rückkehr des Königs SLES-52018
+//Infinite Health
+patch=1,EE,201979E8,extended,00000000
+
+//1 Hit Kills
+patch=1,EE,201EE230,extended,AE600090
+
+//ARAGORN Rapid Level Gain
+patch=1,EE,202F3900,extended,49000000
+
+//All Upgrades
+patch=1,EE,202F38EC,extended,FFFFFFFF
+patch=1,EE,202F38F0,extended,FFFFFFFF
+
+//All Levels Available
+patch=1,EE,202F38E4,extended,0000FFFF
+patch=1,EE,202F38E8,extended,0000FFFF
+
+//LEGOLAS Rapid Level Gain
+patch=1,EE,202F393C,extended,49000000
+
+//All Upgrades
+patch=1,EE,202F3928,extended,FFFFFFFF
+patch=1,EE,202F392C,extended,FFFFFFFF
+
+//All Levels Available
+patch=1,EE,202F3920,extended,0000FFFF
+patch=1,EE,202F3924,extended,0000FFFF
+
+//GIMLI Rapid Level Gain
+patch=1,EE,202F3978,extended,49000000
+
+//All Upgrades
+patch=1,EE,202F3964,extended,FFFFFFFF
+patch=1,EE,202F3968,extended,FFFFFFFF
+
+//All Levels Available
+patch=1,EE,202F395C,extended,0000FFFF
+patch=1,EE,202F3960,extended,0000FFFF
+
+//GANDALF Rapid Level Gain
+patch=1,EE,202F39B4,extended,49000000
+
+//All Upgrades
+patch=1,EE,202F39A0,extended,FFFFFFFF
+patch=1,EE,202F39A4,extended,FFFFFFFF
+
+//All Levels Available
+patch=1,EE,202F3998,extended,0000FFFF
+patch=1,EE,202F399C,extended,0000FFFF
+
+//SAM Rapid Level Gain
+patch=1,EE,202F39F0,extended,49000000
+
+//All Upgrades
+patch=1,EE,202F39DC,extended,FFFFFFFF
+patch=1,EE,202F39E0,extended,FFFFFFFF
+
+//All Levels Available
+patch=1,EE,202F39D4,extended,0000FFFF
+patch=1,EE,202F39D8,extended,0000FFFF
+
+//FRODO Rapid Level Gain
+patch=1,EE,202F3A2C,extended,49000000
+
+//All Upgrades
+patch=1,EE,202F3A18,extended,FFFFFFFF
+patch=1,EE,202F3A1C,extended,FFFFFFFF
+
+//All Levels Available
+patch=1,EE,202F3A10,extended,0000FFFF
+patch=1,EE,202F3A14,extended,0000FFFF
+
+//PIPPIN Rapid Level Gain
+patch=1,EE,202F3A68,extended,49000000
+
+//All Upgrades
+patch=1,EE,202F3A54,extended,FFFFFFFF
+patch=1,EE,202F3A58,extended,FFFFFFFF
+
+//All Levels Available
+patch=1,EE,202F3A4C,extended,0000FFFF
+patch=1,EE,202F3A50,extended,0000FFFF
+
+//MERRY Rapid Level Gain
+patch=1,EE,202F3AA4,extended,49000000
+
+//All Upgrades
+patch=1,EE,202F3A90,extended,FFFFFFFF
+patch=1,EE,202F3A94,extended,FFFFFFFF
+
+//All Levels Available
+patch=1,EE,202F3A88,extended,0000FFFF
+patch=1,EE,202F3A8C,extended,0000FFFF
+
+//FARAMIR Rapid Level Gain
+patch=1,EE,202F3AE0,extended,49000000
+
+//All Upgrades
+patch=1,EE,202F3ACC,extended,FFFFFFFF
+patch=1,EE,202F3AD0,extended,FFFFFFFF
+
+//All Levels Available
+patch=1,EE,202F3AC4,extended,0000FFFF
+patch=1,EE,202F3AC8,extended,0000FFFF

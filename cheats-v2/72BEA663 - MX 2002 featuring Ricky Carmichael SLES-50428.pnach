@@ -1,0 +1,13 @@
+gametitle=MX 2002 featuring Ricky Carmichael SLES-50428
+//Infinite Career Points
+patch=1,EE,10344F0C,extended,0000FFFF
+
+//Infinite Freestyle Points
+patch=1,EE,204349B8,extended,7FFFFFFF
+
+//Open all tracks and all modes
+patch=1,EE,20355F80,extended,FFFFFFFF
+
+//Open all movies
+patch=1,EE,10355F94,extended,0000FFFF
+patch=1,EE,00355F96,extended,000000FF

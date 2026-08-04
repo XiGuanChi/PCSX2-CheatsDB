@@ -1,0 +1,16 @@
+gametitle= Tom Clancy's Splinter Cell - Double Agent SLUS-21356
+//Infinite Health
+patch=1,EE,20232a38,extended,2401012C
+patch=1,EE,20232a3c,extended,AC4102c0
+
+//Infinite Ammo v2
+patch=1,EE,20498c50,extended,00000000
+
+//Always No Noise
+patch=1,EE,205ee624,extended,00000000
+
+//Enemies Cant See You
+patch=1,EE,2039222c,extended,44800000
+
+//Load Game-Unlock All Missions
+patch=1,EE,2056A640,extended,AE420020

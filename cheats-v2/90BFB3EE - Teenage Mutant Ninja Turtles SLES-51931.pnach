@@ -1,0 +1,18 @@
+gametitle=Teenage Mutant Ninja Turtles SLES-51931
+//Infinite Continues
+patch=1,EE,20D76560,extended,00000009
+
+//All stages
+patch=1,EE,20D76A80,extended,00000025
+patch=1,EE,20D76AB0,extended,00000025
+patch=1,EE,20D76A50,extended,00000025
+patch=1,EE,20D76A20,extended,00000025
+
+//All databases
+patch=1,EE,20D76B60,extended,0000000F
+patch=1,EE,20D76B74,extended,0000000F
+patch=1,EE,20D76B4C,extended,0000000F
+patch=1,EE,20D76B38,extended,0000000F
+
+//Have All Characters And Extra Modes Open
+patch=1,EE,20D76B20,extended,FFFFFFFF

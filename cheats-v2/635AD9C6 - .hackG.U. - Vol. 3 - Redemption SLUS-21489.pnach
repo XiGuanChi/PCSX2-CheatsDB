@@ -1,0 +1,124 @@
+gametitle=.hack//G.U. - Vol. 3 Redemption SLUS-21489
+//Haseo Main Character Max HP
+patch=1,EE,20B46494,extended,0001869F
+
+//Haseo Main Character Max SP
+patch=1,EE,20B46498,extended,0001869F
+
+//Instant Enemy Kill Press Select When in battle
+patch=1,EE,E002FFFE,extended,004CF4C2
+patch=1,EE,20584C00,extended,08028000
+patch=1,EE,20584C04,extended,00000000
+patch=1,EE,200A0000,extended,3C07004D
+patch=1,EE,200A0004,extended,90E7F4C2
+patch=1,EE,200A0008,extended,240500FE
+patch=1,EE,200A000C,extended,14E50005
+patch=1,EE,200A0010,extended,90820008
+patch=1,EE,200A0014,extended,24050005
+patch=1,EE,200A0018,extended,14450002
+patch=1,EE,200A0020,extended,A48000E8
+patch=1,EE,200A0024,extended,03E00008
+patch=1,EE,200A0028,extended,848200E8
+
+//Have 99 Chims
+patch=1,EE,10B53B00,extended,00000063
+
+//Have All Characters
+patch=1,EE,20B4F798,extended,FFFFFFFF
+patch=1,EE,20B4F79C,extended,FFFFFFFF
+
+//Always online
+patch=1,EE,20B4F7A0,extended,00000000
+patch=1,EE,20B4F7A4,extended,00000000
+patch=1,EE,20B4F7A8,extended,FFFFFFFF
+patch=1,EE,20B4F7AC,extended,FFFFFFFF
+
+//All Crimson VS cards
+patch=1,EE,40B55AB8,extended,00250001
+patch=1,EE,0A0A0A0A,extended,00000000
+patch=1,EE,10B55B4C,extended,00000A0A
+
+//99 of All Greeting Cards
+patch=1,EE,20B4F6D0,extended,63636363
+patch=1,EE,20B4F6D4,extended,63636363
+patch=1,EE,10B4F6D8,extended,00006363
+patch=1,EE,00B4F6DA,extended,00000063
+
+//Chim Side Quest
+patch=1,EE,10B5512E,extended,0000270F
+patch=1,EE,20B55130,extended,270F270F
+patch=1,EE,20B55134,extended,270F270F
+patch=1,EE,10B55138,extended,0000270F
+
+//All Background Music
+patch=1,EE,10B53B0A,extended,00000202
+patch=1,EE,10B53B0C,extended,00000202
+patch=1,EE,00B53B0F,extended,00000002
+patch=1,EE,00B53B11,extended,00000002
+patch=1,EE,10B53B14,extended,00000202
+patch=1,EE,00B53B17,extended,00000002
+patch=1,EE,00B53B1B,extended,00000002
+patch=1,EE,40B53B20,extended,00070001
+patch=1,EE,02020202,extended,00000000
+
+//All Wallpapers
+patch=1,EE,10B53B3E,extended,00000202
+patch=1,EE,40B53B40,extended,00340001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,10B53C10,extended,00000101
+
+//All Movies (Some are unlocked with time)
+patch=1,EE,40B53C4C,extended,00050001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,10B53C60,extended,00000202
+patch=1,EE,00B53C63,extended,00000002
+
+//Ryu Book I
+patch=1,EE,20B55548,extended,27102710
+patch=1,EE,20B5554C,extended,27102710
+
+//Ryu Book II (all 35 members)
+patch=1,EE,40B55374,extended,00230003
+patch=1,EE,03e803e8,extended,00000000
+patch=1,EE,40B55378,extended,00230003
+patch=1,EE,00002710,extended,00000000
+patch=1,EE,40B5537C,extended,00230003
+patch=1,EE,00989680,extended,00000000
+
+//Ryu Book III
+patch=1,EE,20B55550,extended,27102710
+patch=1,EE,20B55554,extended,27102710
+
+//Ryu Book IV
+patch=1,EE,40B55570,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40B55674,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,00B55680,extended,000000FF
+patch=1,EE,40B556E4,extended,00020001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,10B556E2,extended,0000FFFF
+patch=1,EE,20B556EC,extended,000FFFFF
+patch=1,EE,40B55714,extended,000A0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,20B5573C,extended,00FFFFFF
+
+//Book V
+patch=1,EE,20B46488,extended,0CDFE5C4
+patch=1,EE,20B55558,extended,27102710
+patch=1,EE,20B5555C,extended,27102710
+patch=1,EE,10B55560,extended,00002710
+
+
+//Ryu Book VI
+patch=1,EE,10B558E2,extended,00002710
+patch=1,EE,10B558E4,extended,00002710
+
+//Ryu Book VII
+patch=1,EE,10B55822,extended,0000FFFF
+patch=1,EE,40B55824,extended,00090001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Ryu Book VIII
+patch=1,EE,20B55564,extended,0CDFE5C4
+patch=1,EE,10B55568,extended,00002710

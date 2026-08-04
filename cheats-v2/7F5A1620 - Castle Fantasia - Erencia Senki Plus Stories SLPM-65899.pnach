@@ -1,0 +1,8 @@
+gametitle=Castle Fantasia - Erencia Senki Plus Stories SLPM-65899
+//Art Gallery fully open
+patch=1,EE,403E20B0,extended,00500001
+patch=1,EE,01010101,extended,00000000
+
+//Memorial fully open
+patch=1,EE,403DE0B4,extended,00220001
+patch=1,EE,00000001,extended,00000000

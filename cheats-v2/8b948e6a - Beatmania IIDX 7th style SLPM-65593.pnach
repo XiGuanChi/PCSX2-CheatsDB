@@ -1,0 +1,12 @@
+gametitle=Beatmania IIDX 7th style SLPM-65593
+//Max Gauge
+patch=1,EE,20148DA4,extended,20010000
+
+//Max Gauge Master Mode
+patch=1,EE,20148C60,extended,0003082A
+
+//All gallery collections
+patch=1,EE,2113E610,extended,FFFFFFFF
+patch=1,EE,2113E614,extended,00001FFF
+patch=1,EE,2113E618,extended,00000000
+patch=1,EE,2113E61C,extended,00000000

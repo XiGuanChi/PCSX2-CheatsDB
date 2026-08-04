@@ -1,0 +1,8 @@
+gametitle=Sweet Season SLPS-25483
+//Add hint to option
+patch=1,EE,2023C7B0,extended,00000000
+
+//CG fully open
+patch=1,EE,2023C78C,extended,FFFFFFFF
+patch=1,EE,2023C790,extended,FFFFFFFF
+patch=1,EE,2023C794,extended,FFFFFFFF

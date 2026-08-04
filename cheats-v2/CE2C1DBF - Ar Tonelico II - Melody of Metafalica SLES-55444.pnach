@@ -1,0 +1,47 @@
+gametitle=Ar Tonelico II - Sekai ni Hibiku Shoujo Tachi no Souzoushi SLPS-25819
+//Ar Tonelico II - Sekai ni Hibiku Shoujo Tachi no Souzoushi SLPS-25819Gold 9999999 DC !
+patch=1,EE,209DFCE0,extended,0098967F
+
+//After 1 Battle = Level 99 / HP 5945 / Exp 1000000
+patch=1,EE,2018D81C,extended,00000000
+
+//Necessity Code
+patch=1,EE,2029E28C,extended,0803D020
+patch=1,EE,200F414C,extended,0000982D
+patch=1,EE,200F4150,extended,080A78A5
+
+//HP infinite (player attack turn HP recovery)
+patch=1,EE,200F40BC,extended,24130032
+patch=1,EE,200F40C0,extended,52530023
+patch=1,EE,200F40C4,extended,24130064
+
+//Press L2 = Total Damage 9999999
+patch=1,EE,2021BEF8,extended,55E00009
+patch=1,EE,D09E381C,extended,0000FEFF
+patch=1,EE,2021BEF8,extended,10000009
+
+//MP max / Dirty Burst / Harmonics / Reduciate / MD Regist 100%
+patch=1,EE,2029EAB0,extended,240203E8
+patch=1,EE,2029EAB8,extended,24020064
+patch=1,EE,2029EAD0,extended,240203E8
+patch=1,EE,2029EAD8,extended,24020064
+patch=1,EE,2029EAE0,extended,24020064
+
+//SP 99999 Points
+patch=1,EE,20C0CF8C,extended,0001869F
+
+//DP 99999 Points
+patch=1,EE,20C0CF80,extended,0001869F
+patch=1,EE,20C0CF84,extended,0001869F
+patch=1,EE,20C0CF88,extended,0001869F
+
+//No Random Battle L1+R1 = ON L1+R2 = OFF
+patch=1,EE,D09E381C,extended,0000F9FF
+patch=1,EE,201D91EC,extended,14000053
+patch=1,EE,D09E381C,extended,0000F3FF
+patch=1,EE,201D91EC,extended,10000053
+
+//Unlock Extra Menu Load Game = Save = Turn OFF code
+patch=1,EE,009DFD00,extended,00000001
+
+

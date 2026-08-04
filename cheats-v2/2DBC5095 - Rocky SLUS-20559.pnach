@@ -1,0 +1,9 @@
+gametitle=Rocky SLUS-20559
+//Unlock All Characters
+patch=1,EE,2022DFF4,extended,000000FF
+
+//Infinite Health Player 1
+patch=1,EE,20279040,extended,3F800000
+
+//No Health Player 2
+patch=1,EE,20279900,extended,00000000

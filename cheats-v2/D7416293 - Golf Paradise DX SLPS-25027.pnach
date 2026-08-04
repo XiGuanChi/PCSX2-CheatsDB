@@ -1,0 +1,10 @@
+gametitle=Golf Paradise DX SLPS-25027
+//Possession gold MAX
+patch=1,EE,20468980,extended,000F423F
+
+//Tour point MAX
+patch=1,EE,10468984,extended,000003E7
+
+//Parameter MAX
+patch=1,EE,10468B6A,extended,00006464
+patch=1,EE,10468B6C,extended,00006464

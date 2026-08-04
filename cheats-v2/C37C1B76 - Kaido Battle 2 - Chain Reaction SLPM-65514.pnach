@@ -1,0 +1,29 @@
+gametitle=Kaido Battle 2 - Chain Reaction SLPM-65514
+//CP MAX
+patch=1,EE,2075A808,extended,05F5E0FF
+
+//All PLAYER'S PARTS90 one possession (dedicated PS2PAR Ver1.6 or later)
+patch=1,EE,407594F0,extended,00B10001
+patch=1,EE,005A005A,extended,00000000
+
+//All models, can be purchased all parts (dedicated PS2PAR Ver1.6 or later)
+patch=1,EE,407597B8,extended,03A20001
+patch=1,EE,00000001,extended,00000000
+
+//SP Battle immediate victory
+patch=1,EE,201DD198,extended,24030000
+
+//FL Battle immediate victory
+patch=1,EE,201DF8B0,extended,00000000
+
+//LF Battle immediate victory
+patch=1,EE,201DF904,extended,00000000
+
+//In CA point interval pass 9999999
+patch=1,EE,201E0B50,extended,10000027
+patch=1,EE,201E0B54,extended,3C020099
+patch=1,EE,201E0BF0,extended,2442967F
+patch=1,EE,201E0C00,extended,00000000
+
+//65535 fans
+patch=1,EE,1075A814,extended,0000FFFF

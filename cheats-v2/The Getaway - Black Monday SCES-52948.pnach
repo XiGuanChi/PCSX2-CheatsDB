@@ -1,0 +1,10 @@
+gametitle=The Getaway - Black Monday SCES-52948
+//Infinite Health
+patch=1,EE,201da8f4,extended,3C0142C8
+patch=1,EE,201da8fc,extended,AC810630
+
+//Never Reload
+patch=1,EE,201ebcc4,extended,00000000
+
+//Infinite Grenades
+patch=1,EE,201eb594,extended,00000000

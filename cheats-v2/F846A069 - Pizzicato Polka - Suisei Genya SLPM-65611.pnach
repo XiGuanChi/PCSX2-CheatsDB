@@ -1,0 +1,7 @@
+gametitle=Pizzicato Polka - Suisei Genya SLPM-65611
+//Special fully open
+patch=1,EE,40352357,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Debug menu
+patch=1,EE,20322F20,extended,00000003

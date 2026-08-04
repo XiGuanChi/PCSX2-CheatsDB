@@ -1,0 +1,28 @@
+gametitle=Tiger Woods PGA Tour 2004 SLUS-20757
+//Max Cash
+patch=1,EE,205B7F2C,extended,05F5E0FF
+
+//All Holes Always Hole In One P1
+patch=1,EE,40327144,extended,00120001
+patch=1,EE,00000000,extended,00000000
+
+//Unlock All Characters
+patch=1,EE,20212130,extended,24010001
+patch=1,EE,20212134,extended,A061001C
+
+//Unlock All Normal Courses
+patch=1,EE,202121F0,extended,24010001
+patch=1,EE,202121F4,extended,A061003A
+patch=1,EE,20212200,extended,A1010000
+
+//Unlock All Tiger's Dream Courses
+patch=1,EE,20214A04,extended,24010001
+patch=1,EE,20214A08,extended,A0610051
+
+//All Attributes Are Free (Edit Golfer)
+patch=1,EE,20212314,extended,ACA00000
+
+//Unlock All Animations, Equipment, Apparel & Accessories
+patch=1,EE,202904F4,extended,2402FFFF
+patch=1,EE,202904F8,extended,AC22B28C
+

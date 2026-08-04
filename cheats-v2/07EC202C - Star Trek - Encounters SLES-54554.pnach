@@ -1,0 +1,14 @@
+gametitle=Star Trek - Encounters SLES-54554
+//infinite energy
+patch=1,EE,20338908,extended,00000001
+
+//All character cards
+patch=1,EE,203388e8,extended,03ffffff
+
+//all levels
+patch=1,EE,203386c4,extended,fffffffff
+patch=1,EE,203386c8,extended,ffffffffff
+
+//All levels 2
+patch=1,EE,40338674,extended,00130001
+patch=1,EE,00000001,extended,00000000

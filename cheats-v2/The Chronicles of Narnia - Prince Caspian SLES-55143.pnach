@@ -1,0 +1,16 @@
+gametitle= The Chronicles of Narnia - Prince Caspian SLES-55143
+//No Player Damage
+patch=1,EE,0056C1CC,extended,00000001
+
+//Unlock Everything
+patch=1,EE,0056C1F7,extended,00000001
+
+//Unlock All Levels
+patch=1,EE,0056C1F8,extended,00000001
+
+//1 Hit Kills (Enemy)
+patch=1,EE,0056C31C,extended,00000001
+
+//Save Anytime (Press Select)
+patch=1,EE,D1FA9142,extended,0000FFFE
+patch=1,EE,0056C32F,extended,00000001

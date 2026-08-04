@@ -1,0 +1,50 @@
+gametitle=Harukanaru Toki no Naka de - Hachiyoushou SLPM-65957
+//Combat hero energy 100 attack 255 anti-99 Spirit 99
+patch=1,EE,203B2B40,extended,6363FF64
+
+//Infinite HP First character (100)
+patch=1,EE,203B2B60,extended,00000064
+
+//Infinite HP Third character (100)
+patch=1,EE,203B2B80,extended,00000064
+
+//Learn 3 techniques
+patch=1,EE,201A24F0,extended,10000013
+patch=1,EE,201A24F4,extended,24020001
+
+//4 pieces of heart
+patch=1,EE,201A2410,extended,00C42025
+patch=1,EE,201A2414,extended,A0640013
+patch=1,EE,201A2424,extended,2CE10004
+patch=1,EE,201A2428,extended,1420FFF9
+
+//Memo fully open
+patch=1,EE,201A2390,extended,00000000
+patch=1,EE,201A2398,extended,08069C14
+patch=1,EE,201A239C,extended,24020001
+
+//Maximum thoughts
+patch=1,EE,201A22D0,extended,240203E8
+patch=1,EE,201A22D4,extended,0040282D
+
+//Required code
+patch=1,EE,201A1E64,extended,240203E8
+patch=1,EE,201A1E68,extended,03E00008
+patch=1,EE,201A1E6C,extended,A4620000
+
+//Maximum belief
+patch=1,EE,201A1E28,extended,00431821
+patch=1,EE,201A1E2C,extended,1000000D
+
+//Maximum trust in friends
+patch=1,EE,201A1E54,extended,10000003
+patch=1,EE,201A1E58,extended,00431821
+
+//Concentration 100
+patch=1,EE,20174A14,extended,24020064
+
+//All land levels 10
+patch=1,EE,201A3180,extended,00430821
+patch=1,EE,201A3184,extended,24030063
+patch=1,EE,201A3190,extended,A0230000
+patch=1,EE,201A3194,extended,00430018

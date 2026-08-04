@@ -1,0 +1,24 @@
+gametitle=Gantz - The Game SLPM-65950
+//Gravure all
+patch=1,EE,20579D0C,extended,FFFFFFFF
+patch=1,EE,20579D10,extended,FFFFFFFF
+patch=1,EE,20579D14,extended,FFFFFFFF
+patch=1,EE,20579D18,extended,FFFFFFFF
+patch=1,EE,20579D1C,extended,FFFFFFFF
+
+//Maximum leader point
+patch=1,EE,1057913C,extended,00001388
+
+//Maximum hero points
+patch=1,EE,10579140,extended,00001388
+
+//Infinite HP Main Character
+patch=1,EE,2120076C,extended,0000007D0
+
+//Unlock All Extra Options
+patch=1,EE,40579D4C,extended,00110001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40579D0C,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40579D1C,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000

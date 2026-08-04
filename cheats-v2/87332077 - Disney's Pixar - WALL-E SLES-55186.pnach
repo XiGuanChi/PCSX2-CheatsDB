@@ -1,0 +1,35 @@
+gametitle=Disney's Pixar - WALL-E SLES-55186
+//Laser Infinito spanish language
+patch=1,EE,20A1E05C,extended,41A00000
+
+//Have 65536 Points
+patch=1,EE,20578370,extended,3C020001
+patch=1,EE,20578374,extended,AC820068
+patch=1,EE,20578378,extended,03E00008
+patch=1,EE,2057837C,extended,8C820068
+
+//Inf Health
+patch=1,EE,205784B4,extended,C4800008
+patch=1,EE,005784C2,extended,00000080
+
+//Inf Beam
+patch=1,EE,20578574,extended,C4800018
+patch=1,EE,00578582,extended,00000080
+
+//Invincible
+patch=1,EE,006bb511,extended,00000001
+
+//Infinite Laser
+patch=1,EE,006bb512,extended,00000001
+
+//Infinite Vision
+patch=1,EE,006bb514,extended,00000001
+
+//All Weapons
+patch=1,EE,006bb527,extended,00000001
+
+//Debug Menu
+patch=1,EE,006bb255,extended,00000001
+
+//time
+patch=1,EE,002a4404,extended,24060e10

@@ -1,0 +1,10 @@
+gametitle=Ecco the Dolphin - Defender of the Future SLUS-20394
+//Infinite Air
+patch=1,EE,201AD5E8,extended,00000000
+
+//Infinite Health
+patch=1,EE,201AD318,extended,AE01007C
+
+//Have All Levels
+patch=1,EE,20489650,extended,FFFFFFFF
+patch=1,EE,20489654,extended,0000000F

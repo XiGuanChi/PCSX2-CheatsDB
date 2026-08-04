@@ -1,0 +1,31 @@
+gametitle=Code Age Commanders SLPM-66109
+//CP MAX
+patch=1,EE,20424ECC,extended,000F423F
+
+//More chances 0
+patch=1,EE,0042F940,extended,00000009
+
+//received damage 0
+patch=1,EE,2042FB4C,extended,00000000
+
+//MAX in the score up
+patch=1,EE,201299D8,extended,AC64FA58
+
+//Physical fitness operation Maximum fixed by select + d-pad up Select + d-pad down is normal
+patch=1,EE,200FFF00,extended,AC960418
+patch=1,EE,200FFF04,extended,080547FE
+patch=1,EE,D041AB9C,extended,0000FFEE
+patch=1,EE,20212CC8,extended,0C03FFC0
+patch=1,EE,D041AB9C,extended,0000FFBE
+patch=1,EE,20212CC8,extended,0C0547FE
+
+//Not decrease L · R gauge
+patch=1,EE,2041D3A4,extended,00000001
+patch=1,EE,2041D3A8,extended,00000001
+
+//Fellow invincible
+patch=1,EE,2041D398,extended,00000001
+
+//Countdown stop
+patch=1,EE,2041D3B0,extended,00000001
+

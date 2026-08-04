@@ -1,0 +1,34 @@
+gametitle=NASCAR '06 - Total Team Control SLUS-21266
+//Infinite Cash Usage
+//Press Select+X while buying plates
+patch=1,EE,D05EC2C2,extended,0000BFFE
+patch=1,EE,20327CF8,extended,00000000
+patch=1,EE,D05EC2C2,extended,0010BFFE
+patch=1,EE,20327CF8,extended,0C0C7CFA
+
+//Max Cash After Buying a Plate
+//Press Select+X while buying plates to activate
+patch=1,EE,D05EC2C2,extended,0000BFFE
+patch=1,EE,20327CF8,extended,0C03FFC0
+patch=1,EE,D05EC2C2,extended,0010BFFE
+patch=1,EE,20327CF8,extended,0C0C7CFA
+patch=1,EE,200FFF00,extended,3C0105F0
+patch=1,EE,200FFF04,extended,AE410000
+patch=1,EE,200FFF08,extended,080C7CFA
+
+//Cars Take No Damage 
+patch=1,EE,201C21E8,extended,03E00008
+patch=1,EE,201C21EC,extended,00000000
+
+//Challenges Never Have Fail Stipulations
+patch=1,EE,201CE090,extended,03E00008
+patch=1,EE,201CE094,extended,00000000
+
+//Infinite Available Skill Points 
+patch=1,EE,11FD1220,extended,0000FFFF
+
+//Infinite Fuel 
+patch=1,EE,20160BC8,extended,00000000
+
+//Infinite Tire Wear 
+patch=1,EE,2015303C,extended,00000000

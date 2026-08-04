@@ -1,0 +1,9 @@
+gametitle=Shin Bakusou Dekotora Densetsu - Tenkatouitsu Chyoujyoukessen - Deco-Tora X Geijutsu-den SLPM-65816
+//Victory if the goal (It is not valid in the race and luggage damage conditional. You always win if finishers in other race)
+patch=1,EE,201E9A70,extended,00000000
+
+//gold 99999 AP
+patch=1,EE,20242004,extended,0001869F
+
+//Maximum Brand
+patch=1,EE,20242000,extended,000003E8

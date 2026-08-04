@@ -1,0 +1,30 @@
+gametitle=Nicktoons Unite! SLUS-21284
+//Infinite Health (All Characters)1954CA54 0CA10539
+patch=1,EE,200C0224,extended,080BE64B
+patch=1,EE,200C0228,extended,E44C0180
+patch=1,EE,202F9928,extended,08030088
+
+//Infinite Power (All Characters)31405E4B 37AD7992
+patch=1,EE,200C0234,extended,080BFFBA
+patch=1,EE,200C0238,extended,E44C02E4
+patch=1,EE,202FFEE4,extended,0803008C
+
+//Infinite Lives
+patch=1,EE,202BE530,extended,00000000
+
+//Unlock All Cross Save Extra
+//s88157101 6C287B0F
+patch=1,EE,708978FC,extended,00000007
+
+//Activate Cheat Codes Infinite Lives
+patch=1,EE,204884A8,extended,00000001
+
+//Infinite Power
+patch=1,EE,20486B3C,extended,00000001
+
+//Super Slam
+patch=1,EE,20486B44,extended,00000001
+
+//Give All Weapons
+patch=1,EE,D0893322,extended,00000089
+patch=1,EE,20893318,extended,00000001

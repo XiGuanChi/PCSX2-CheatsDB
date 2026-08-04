@@ -1,0 +1,13 @@
+gametitle=Hudson Selection Vol. 04 - Takahashi Meijin no Bouken Jima SLPM-62422 SLPM-62570
+//Infinite Health
+patch=1,EE,201CE994,extended,0000083A
+
+//Infinite TIme
+patch=1,EE,20136668,extended,2402076C
+patch=1,EE,2013666C,extended,00000000
+
+//Invincible
+patch=1,EE,201358A0,extended,24040800
+
+//Weapon Modifier Fireball
+patch=1,EE,001CE98A,extended,00000004

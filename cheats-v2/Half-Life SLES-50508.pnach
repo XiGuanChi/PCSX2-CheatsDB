@@ -1,0 +1,15 @@
+gametitle=Half-Life SLES-50508
+//niedrige Schwerkraft
+patch=1,EE,2032ED1C,extended,3F800000
+
+//unsterblich
+patch=1,EE,2032ED34,extended,3F800000
+
+//unendlich Munition für alle Waffen
+patch=1,EE,2032ED4C,extended,3F800000
+
+//Tarnkappe
+patch=1,EE,2032ED64,extended,3F800000
+
+//Zeitlupe
+patch=1,EE,2032ED7C,extended,3F800000

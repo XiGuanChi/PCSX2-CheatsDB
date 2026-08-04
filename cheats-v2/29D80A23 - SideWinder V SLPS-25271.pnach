@@ -1,0 +1,12 @@
+gametitle=SideWinder V SLPS-25271
+//Campaign full selection is possible
+patch=1,EE,2023A6AC,extended,24DAFFFF
+patch=1,EE,2023A6B0,extended,AC7A0130
+
+//No damage
+patch=1,EE,00439913,extended,00000001
+
+//Infinite Missiles Collisions with obstacles and the ground will die
+patch=1,EE,20439854,extended,00000001
+
+

@@ -1,0 +1,25 @@
+gametitle=Beatmania IIDX 6th style SLPM-65156
+//Max Gauge
+patch=1,EE,2010E3D4,extended,24020000
+
+//Play mode= 1 P AUTO PLAY
+patch=1,EE,20A81828,extended,00000001
+
+//Gallery Collection Complete
+patch=1,EE,20A73CFC,extended,FFFFFFFF
+patch=1,EE,00A73D00,extended,000000FF
+
+//Free mode & music clip full song appearance
+patch=1,EE,20A500EC,extended,FFFFFFFF
+patch=1,EE,20A500F0,extended,FFFFFFFF
+patch=1,EE,00A500F4,extended,000000FF
+
+//All gurus movies appear
+patch=1,EE,20A73D0C,extended,FFFFFFFF
+
+
+//Autoplay During playing, auto play starts at L2, ends at R2
+patch=1,EE,D0A76540,extended,00000001
+patch=1,EE,20A81828,extended,00000003
+patch=1,EE,D0A76540,extended,00000002
+patch=1,EE,20A81828,extended,00000000

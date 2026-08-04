@@ -1,0 +1,30 @@
+gametitle=MX Unleashed SLES-52043
+//Unlock Supercross Tracks
+patch=1,EE,0056B2C4,extended,00000001
+
+//Unlock National Tracks
+patch=1,EE,0056B2C8,extended,00000001
+
+//Unlock Freestyle Tracks
+patch=1,EE,0056B2CC,extended,00000001
+
+//Unlock Expert AI
+patch=1,EE,0056B2D4,extended,00000001
+
+//Unlock Pro Physics
+patch=1,EE,0056B2D0,extended,00000001
+
+//Unlock 50cc Bikes
+patch=1,EE,0056B2DC,extended,00000001
+
+//Unlock 500cc Bikes
+patch=1,EE,0056B2E0,extended,00000001
+
+//Unlock Machines
+patch=1,EE,0056B2D8,extended,00000001
+
+//Unlock AI Bowling
+patch=1,EE,0056B2E8,extended,00000001
+
+//Have Infinite Store Points
+patch=1,EE,0057AF60,extended,05F5E0FF

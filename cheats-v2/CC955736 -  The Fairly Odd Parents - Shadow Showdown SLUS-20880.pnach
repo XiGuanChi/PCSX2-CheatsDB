@@ -1,0 +1,19 @@
+gametitle= The Fairly Odd Parents - Shadow Showdown SLUS-20880
+//Infinite Sprint
+patch=1,EE,2016A81C,extended,00000000
+
+//Max Crowns
+patch=1,EE,200C0220,extended,2401270F
+patch=1,EE,200C0224,extended,AC413414
+patch=1,EE,200C0228,extended,08068D6B
+patch=1,EE,200C022C,extended,C44C3414
+patch=1,EE,201A35A8,extended,08030088
+
+//Infinite Luck
+patch=1,EE,200C0230,extended,24020008
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,ACA20380
+patch=1,EE,201C52D4,extended,0C03008C
+
+//Infinite Double Jumps
+patch=1,EE,20169AE8,extended,00000000

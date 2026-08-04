@@ -1,0 +1,26 @@
+gametitle=Need for Speed - Carbon [Collector's Edition] SLES-54492
+//infinite Speedbreaker
+patch=1,EE,20422640,extended,e601010c
+
+//infinite Nitro only Player
+patch=1,EE,203e4d70,extended,e6200178
+
+//infinite NOS Cheat
+patch=1,EE,006125D8,extended,00000001
+
+// infinite Speedbreaker Cheat
+patch=1,EE,00612614,extended,00000001
+
+//Infinite Crew Charge Bar
+patch=1,EE,201403dc,extended,00000000
+
+//All Races Only Have 1 Racer
+patch=1,EE,20344008,extended,24020001
+patch=1,EE,2034400c,extended,AC820F00
+
+//All Challenges Completed
+patch=1,EE,200C0230,extended,00300825
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,AC410004
+patch=1,EE,2030b9b4,extended,0C03008C
+patch=1,EE,2030b9b8,extended,8C410004

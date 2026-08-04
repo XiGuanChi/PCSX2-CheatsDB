@@ -1,0 +1,10 @@
+gametitle=Memories Off Duet - 1st and 2nd Stories SLPM-65664
+//Your Memories full opened
+patch=1,EE,407CFF04,extended,00140001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,407D2910,extended,000D0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,407D0010,extended,09C00001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,407D2814,extended,003F0001
+patch=1,EE,FFFFFFFF,extended,00000000

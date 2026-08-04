@@ -1,0 +1,18 @@
+gametitle=Shining Force EXA SLUS-21567
+//Gain Gold For Max
+patch=1,EE,202263B0,extended,00000000
+
+//Gain Mithril For Max
+patch=1,EE,20226488,extended,00000000
+
+//Open Menu for HP/MP restore
+patch=1,EE,20200448,extended,8C430490
+patch=1,EE,20200458,extended,AC430494
+patch=1,EE,20200460,extended,8C430498
+patch=1,EE,20200468,extended,AC43049C
+
+//Infinite HP
+patch=1,EE,2022ECE8,extended,00000000
+
+//Infinite MP
+patch=1,EE,201C1BB0,extended,00000000

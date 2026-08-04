@@ -1,0 +1,15 @@
+gametitle=Sega Ages 2500 Series Vol. 12 - Puyo Puyo Tsuu Perfect Set SLPM-62400
+//Score 9999999
+patch=1,EE,21E4C430,extended,0098967F
+
+//1 P side Oja Puyo 0"
+patch=1,EE,21E4C540,extended,00000000
+
+//2P side Ojamapuyo MAX
+patch=1,EE,21E4D298,extended,0000FFFF
+
+//Mystery Puyo all problems can be selected Puyo puzzle
+patch=1,EE,01E51E5A,extended,00000064
+
+//Mystery Puyo all problems can be selected"Puyo puzzle 1
+patch=1,EE,01E51E5A,extended,000000C8

@@ -1,0 +1,6 @@
+gametitle=RockMan - Power Battle Fighters SLPM-62491
+//Infinite Time
+patch=1,EE,00C58119,extended,00000045
+
+//Invincible
+patch=1,EE,00C58352,extended,00000078

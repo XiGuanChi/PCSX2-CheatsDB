@@ -1,0 +1,11 @@
+gametitle=Kidou Senshi Gundam SLPS-25020
+//Infinite HP
+patch=1,EE,201DF4AC,extended,8CA31E34
+patch=1,EE,201DF4BC,extended,ACA31E38
+
+//Infinite Shield
+patch=1,EE,201DF4DC,extended,8E4C1E40
+patch=1,EE,201DF4E8,extended,AE431E44
+
+//Indinite Ammo
+patch=1,EE,201466B0,extended,00000000

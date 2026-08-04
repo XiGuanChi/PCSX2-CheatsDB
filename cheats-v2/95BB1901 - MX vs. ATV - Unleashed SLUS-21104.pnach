@@ -1,0 +1,16 @@
+gametitle=MX vs. ATV - Unleashed SLUS-21104
+//Max Points
+patch=1,EE,2091775C,extended,05F5E0FF
+
+//Max Store Points
+patch=1,EE,E003F768,extended,004E2210
+patch=1,EE,204E221C,extended,3C0105F5
+patch=1,EE,204E2220,extended,3421E0FF
+patch=1,EE,204E2224,extended,AC41015C
+
+//View Store To Unlock Everything
+patch=1,EE,202DF3B4,extended,304200FB
+patch=1,EE,202DF3B8,extended,A082003A
+patch=1,EE,202DF3BC,extended,00000000
+
+

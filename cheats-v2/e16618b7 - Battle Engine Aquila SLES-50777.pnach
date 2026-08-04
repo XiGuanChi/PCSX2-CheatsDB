@@ -1,0 +1,21 @@
+gametitle=Battle Engine Aquila SLES-50777
+//Infinite Health
+patch=1,EE,2010C134,extended,44800000
+
+//Weapons Never Heat
+patch=1,EE,2010B0C0,extended,AC600000
+
+//Infinite Ammo
+patch=1,EE,2011B920,extended,00000000
+
+//1 Hit Kill
+patch=1,EE,202B6DAC,extended,44800000
+
+//Infinite Fuel
+patch=1,EE,20115DDC,extended,10000011
+
+//All Goodies Unlocked
+patch=1,EE,200FFF00,extended,24020003
+patch=1,EE,200FFF04,extended,AC621F44
+patch=1,EE,200FFF08,extended,08062C9B
+patch=1,EE,2018B268,extended,0803FFC0

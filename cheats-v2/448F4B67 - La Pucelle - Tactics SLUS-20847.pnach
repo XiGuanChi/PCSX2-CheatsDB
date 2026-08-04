@@ -1,0 +1,11 @@
+gametitle=La Pucelle - Tactics SLUS-20847
+//Prina 9.999.999
+patch=1,EE,20376B70,extended,0096987f
+
+//Infinite & Max Hp in battle Prier
+patch=1,EE,2032F0FC,extended,000003E7
+patch=1,EE,2032F0D4,extended,000003E7
+
+//Infinite & Max Sp in battle Prier
+patch=1,EE,2032F104,extended,000003E7
+patch=1,EE,2032F0D8,extended,000003E7

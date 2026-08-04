@@ -1,0 +1,12 @@
+gametitle=Taikyoku Mahjong Net de Ron SLPS-20117
+//Player has 99999 points
+patch=1,EE,2047362C,extended,0001869F
+
+//Opponent 1 has 0 points
+patch=1,EE,20473638,extended,00000000
+
+//Opponent 2 has 0 points
+patch=1,EE,20473634,extended,00000000
+
+//Opponent 3 has 0 points
+patch=1,EE,20473630,extended,00000000

@@ -1,0 +1,18 @@
+gametitle=Agent Hugo -  RoboRumble SLES-53265
+//Infinite Time
+patch=1,EE,205254B0,extended,00000001
+
+//Aliens 4/4
+patch=1,EE,2078E52C,extended,00000004
+
+//Aliens 10
+patch=1,EE,2078E52C,extended,0000000a
+
+//Aliens 20
+patch=1,EE,2078E52C,extended,00000014
+
+//Aliens 50
+patch=1,EE,2078E52C,extended,00000032
+
+//Aliens 100
+patch=1,EE,2078E52C,extended,00000064

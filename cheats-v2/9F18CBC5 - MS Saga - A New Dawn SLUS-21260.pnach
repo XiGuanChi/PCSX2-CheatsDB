@@ -1,0 +1,57 @@
+gametitle=MS Saga - A New Dawn SLUS-21260
+//Character 1 - Infinite HP
+patch=1,EE,11FDDB94,extended,0000270F
+
+//Character 1 - Infinite TP
+patch=1,EE,11FDDB92,extended,000003E7
+
+//Character 1 - Infinite EN
+patch=1,EE,01FDDB91,extended,00000063
+
+//Character 2 - Infinite HP
+patch=1,EE,11FDDBA0,extended,0000270F
+
+//Character 2 - Infinite TP
+patch=1,EE,11FDDB9E,extended,000003E7
+
+//Character 2 - Infinite EN
+patch=1,EE,01FDDB9D,extended,00000063
+
+//Character 3 - Infinite HP
+patch=1,EE,11FDDBAC,extended,0000270F
+
+//Character 3 - Infinite TP
+patch=1,EE,11FDDBAA,extended,000003E7
+
+//Character 3 - Infinite EN
+patch=1,EE,01FDDBAB,extended,00000063
+
+//Character 4 - Infinite HP
+patch=1,EE,11FDDBB8,extended,0000270F
+
+//Character 4 - Infinite TP
+patch=1,EE,11FDDBB6,extended,000003E7
+
+//Character 4 - Infinite EN
+patch=1,EE,01FDDBB5,extended,00000063
+
+//Character 5 - Infinite HP
+patch=1,EE,11FDDBC4,extended,0000270F
+
+//Character 5 - Infinite TP
+patch=1,EE,11FDDBC2,extended,000003E7
+
+//Character 5 - Infinite EN
+patch=1,EE,01FDDBC1,extended,00000063
+
+//Character 6 - Infinite HP
+patch=1,EE,11FDDBD0,extended,0000270F
+
+//Character 6 - Infinite TP
+patch=1,EE,11FDDBCE,extended,000003E7
+
+//Character 6 - Infinite EN
+patch=1,EE,01FDDBCD,extended,00000063
+
+//Infinite Money
+patch=1,EE,11FDD000,extended,0000FFFF

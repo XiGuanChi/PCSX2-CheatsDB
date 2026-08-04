@@ -1,0 +1,9 @@
+gametitle=PaRappa the Rapper 2 SCES-50408
+//Unlock All Levels
+patch=1,EE,11C638D8,extended,00000004
+
+//Massive Score
+patch=1,EE,101898B8,extended,0000FFFF
+
+//Rap Cool
+patch=1,EE,1018989C,extended,00000000

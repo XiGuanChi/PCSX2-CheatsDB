@@ -1,0 +1,12 @@
+gametitle=Gacharoku SCPS-11026
+//Player 1 has 9999 points
+patch=1,EE,207783D8,extended,0000270F
+
+//Player 2 has 0 points
+patch=1,EE,20778628,extended,00000000
+
+//Player 3 has 0 points
+patch=1,EE,20778878,extended,00000000
+
+//Player 4 has 0 points
+patch=1,EE,20778AC8,extended,00000000

@@ -1,0 +1,11 @@
+gametitle=Harry Potter and the Goblet of Fire SLES-53726
+//Infinite Health
+patch=1,EE,203A260C,extended,42C80000
+patch=1,EE,203A2614,extended,42C80000
+patch=1,EE,203A2618,extended,42C80000
+
+//Level Select Press L1+L2+R1+R2 on main menu for level select choose ENG UK if your version is english
+patch=1,EE,20398644,extended,24020001
+patch=1,EE,20388FC4,extended,24030001
+patch=1,EE,20380F10,extended,24020001
+patch=1,EE,202FAC20,extended,24040001

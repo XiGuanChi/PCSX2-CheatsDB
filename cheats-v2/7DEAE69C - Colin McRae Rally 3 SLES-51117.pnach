@@ -1,0 +1,20 @@
+gametitle=Colin McRae Rally 3 SLES-51117
+//All Cars
+patch=1,EE,002C9B17,extended,000000FF
+
+//All Tracks
+patch=1,EE,002C9B3F,extended,000000FF
+
+//All Parts
+patch=1,EE,002C9B67,extended,000000FF
+
+//All Difficulties
+patch=1,EE,002C9B8F,extended,000000FF
+
+//Championship Codes Colin McRae-255 Pts
+patch=1,EE,2038FCF0,extended,636363FF
+patch=1,EE,2038FCF4,extended,63636363
+
+
+//Unlock All Cheats
+patch=1,EE,202CA9DC,extended,FFFFFFFF

@@ -1,0 +1,15 @@
+gametitle=True Tears SLPM-66935
+//Fully open CG by browsing the album
+patch=1,EE,2011870C,extended,24020001
+patch=1,EE,20118710,extended,1000FF1F
+patch=1,EE,20118714,extended,A1E200B0
+
+//All characters cleared 99 times
+patch=1,EE,204641EC,extended,63636363
+patch=1,EE,204641F0,extended,63636363
+patch=1,EE,004641F4,extended,00000063
+
+//Unlock All CG Gallery
+patch=1,EE,40464228,extended,00230001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,104642B4,extended,00000101

@@ -1,0 +1,35 @@
+gametitle=Saru Get You: Million Monkeys SCPS-15115
+//Capsule & Costume fully open
+patch=1,EE,2076C838,extended,FFFFFFFF
+patch=1,EE,2076C83C,extended,FFFFFFFF
+
+//All the chips possession
+patch=1,EE,2076C828,extended,000F8000
+patch=1,EE,2076C82C,extended,000F8024
+patch=1,EE,2076C830,extended,000F8030
+patch=1,EE,200F8000,extended,01010000
+patch=1,EE,200F8004,extended,03030202
+patch=1,EE,200F8008,extended,05050404
+patch=1,EE,200F800C,extended,07070606
+patch=1,EE,200F8010,extended,09090808
+patch=1,EE,200F8014,extended,0B0B0A0A
+patch=1,EE,200F8018,extended,0D0D0C0C
+patch=1,EE,200F801C,extended,0F0F0E0E
+patch=1,EE,200F8020,extended,11111010
+
+//Mission evaluation Max (I do not use other than the story mode)
+patch=1,EE,201ABEB8,extended,00000000
+patch=1,EE,201ABEE0,extended,00000000
+
+//All characters, Full Story cleared & Coliseum fully open
+patch=1,EE,20647C68,extended,FFFFFFFF
+patch=1,EE,20647C2C,extended,00011E1E
+patch=1,EE,20647C30,extended,00011E1E
+patch=1,EE,20647C34,extended,01010101
+patch=1,EE,20647C38,extended,01010101
+patch=1,EE,20647C3C,extended,01010101
+patch=1,EE,20647C40,extended,01010101
+
+//Selected character monkey book fully open
+patch=1,EE,4076C840,extended,00130001
+patch=1,EE,03030303,extended,00000000

@@ -1,0 +1,27 @@
+gametitle=Kidou Senshi Gundam - Seed - Rengo vs. Z.A.F.T.SLPS-25569
+//(1P Blue) Invincible (2P Red) Death
+patch=1,EE,2016E244,extended,80820005
+patch=1,EE,2016E248,extended,14400003
+patch=1,EE,2016E268,extended,46010841
+
+//(1P Blue) Strength Gauge 1000
+patch=1,EE,105D3E14,extended,000003E8
+
+//Select + R1 to 2P Red Fighter Gauge 0"
+patch=1,EE,D058465C,extended,0000F7FE
+patch=1,EE,105D3E34,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,202851F8,extended,00A02023
+patch=1,EE,20285218,extended,1000002B
+
+//All aircraft
+patch=1,EE,202A9AD4,extended,24040001
+patch=1,EE,202ACB3C,extended,24020001
+
+//All characters
+patch=1,EE,202AA234,extended,24030001
+patch=1,EE,202ACBF4,extended,24040001
+
+//All aircraft appearance of all characters (save reflection)
+patch=1,EE,004B2B90,extended,0000000D

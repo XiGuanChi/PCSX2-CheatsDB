@@ -1,0 +1,48 @@
+gametitle=The Sword of Etheria SLES-53768
+//infinite Gold 
+patch=1,EE,D01280FC,extended,00002823
+patch=1,EE,201280FC,extended,20050000
+
+//invulnerability
+patch=1,EE,2078cbc0,extended,081e3bdb
+
+//Infinite HP
+patch=1,EE,205FF530,extended,0060100A
+patch=1,EE,205FF4F0,extended,0060100A
+
+//1000 Etheria Per Pick Up
+patch=1,EE,205DC600,extended,246303E8
+patch=1,EE,205DC5F0,extended,246303E8
+patch=1,EE,205DC5E0,extended,246303E8
+
+//Infinity Team Attack Lv2
+patch=1,EE,205dd404,extended,24030003
+patch=1,EE,205dd20c,extended,17e0007d
+
+//Max.Energy all characters
+patch=1,EE,2078dad0,extended,64040018
+
+//Team attack fills faster
+patch=1,EE,209dc358,extended,42000000
+
+//infiniteTeam Attack Lv1 is available
+patch=1,EE,205dd404,extended,24030002
+patch=1,EE,205dd20c,extended,17e0007d
+
+//infinite Super Level 2
+patch=1,EE,015f81f4,extended,00000002
+
+//infinite Super Level 3
+patch=1,EE,015f81f4,extended,00000003
+
+//Unlock Most Faces And Costumes
+patch=1,EE,20272680,extended,FFFFFFFF
+patch=1,EE,20272684,extended,FFFFFFFF
+patch=1,EE,20272688,extended,FFFFFFFF
+patch=1,EE,2027268C,extended,FFFFFFFF
+
+//Unlock Geisha And Finish Training
+patch=1,EE,2024613C,extended,00000001
+
+//Unlock Extra Time Attack Stage
+patch=1,EE,202736D4,extended,01010101

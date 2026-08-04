@@ -1,0 +1,24 @@
+gametitle=The History Channel - Civil War - A Nation Divided SLUS-21474
+//Invincible
+patch=1,EE,20105a84,extended,24020001
+
+//1 Hit Kill
+patch=1,EE,20109860,extended,00000000
+
+//Instant Death Enemies
+patch=1,EE,2010982c,extended,3C0142c8
+patch=1,EE,20109830,extended,AC810004
+
+//Infinite Energy
+patch=1,EE,200C0240,extended,2401270F
+patch=1,EE,200C0244,extended,A4810182
+patch=1,EE,200C0248,extended,03E00008
+patch=1,EE,200C024C,extended,84820182
+patch=1,EE,2031a388,extended,08030090
+
+//Max Ammo In Clip
+patch=1,EE,200C0210,extended,2401270F
+patch=1,EE,200C0214,extended,ac810178
+patch=1,EE,200C0218,extended,03E00008
+patch=1,EE,200C021c,extended,8c820178
+patch=1,EE,20346af8,extended,08030084

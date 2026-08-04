@@ -1,0 +1,6 @@
+gametitle=Simple 2000 Series Vol. 47 - The Kassen Gekigahara SLPM-62477
+//Infinite HP
+patch=1,EE,1020665C,extended,0000270F
+
+//Infinite Attack
+patch=1,EE,10209B0C,extended,0000270F

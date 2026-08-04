@@ -1,0 +1,10 @@
+gametitle=TBS All Star Kansha Matsuri 2003 - Aki Chou Gouka! Quiz Ketteiban SLPM-65369
+//Not reduced program mode right answer
+patch=1,EE,201C12D8,extended,00000001
+patch=1,EE,201C12E0,extended,00000001
+
+//Challenge mode clear time 0
+patch=1,EE,201C13B8,extended,00000000
+
+//Correct number 100
+patch=1,EE,201C13C0,extended,00000064

@@ -1,0 +1,28 @@
+gametitle=LEGO Racers 2 SLES-50443
+//Open up worlds
+patch=1,EE,10E9F4C4,extended,000000FF
+
+//Open up portal
+patch=1,EE,10E9F4DC,extended,0000FFFF
+
+//All golden bricks
+patch=1,EE,10E9F4D4,extended,0000FFFF
+patch=1,EE,10E9F4F6,extended,0000FFFF
+patch=1,EE,10E9F4F8,extended,0000FFFF
+
+//No car damage
+patch=1,EE,20286D68,extended,00000000
+
+//Always on last lap
+patch=1,EE,110C37FC,extended,000000FF
+
+//Opponents don't move 
+patch=1,EE,20284D70,extended,08028000
+patch=1,EE,200A0000,extended,8C8301AC
+patch=1,EE,200A0004,extended,3C01003A
+patch=1,EE,200A0008,extended,8C21126C
+patch=1,EE,200A000C,extended,8C21000C
+patch=1,EE,200A0010,extended,8C210180
+patch=1,EE,200A0014,extended,10240003
+patch=1,EE,200A001C,extended,03E00008
+patch=1,EE,200A0024,extended,080A135E

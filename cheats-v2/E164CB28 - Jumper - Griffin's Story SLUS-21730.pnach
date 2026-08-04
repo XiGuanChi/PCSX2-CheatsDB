@@ -1,0 +1,6 @@
+gametitle=Jumper - Griffin's Story SLUS-21730
+//Infinite HP
+patch=1,EE,200A0038,extended,AC460000
+
+//Infinite Action Bar
+patch=1,EE,200A003C,extended,AC460008

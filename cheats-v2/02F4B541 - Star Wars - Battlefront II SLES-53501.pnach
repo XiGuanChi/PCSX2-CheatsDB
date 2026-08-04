@@ -1,0 +1,10 @@
+gametitle=Star Wars - Battlefront II SLES-53501
+//Infinite Health
+patch=1,EE,201DFC58,extended,24010001
+patch=1,EE,201DFC5C,extended,A0412CD4
+
+//Infinite Ammo
+patch=1,EE,20303890,extended,00000000
+
+//Infinite Jet Pack
+patch=1,EE,20244608,extended,00000000

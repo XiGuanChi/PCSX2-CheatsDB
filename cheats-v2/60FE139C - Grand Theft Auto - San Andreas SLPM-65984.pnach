@@ -1,0 +1,16 @@
+gametitle=Grand Theft Auto - San Andreas SLPM-65984
+//Possession gold MAX
+patch=1,EE,2070C2C4,extended,3B9AC9FF
+patch=1,EE,2070C2C8,extended,3B9AC9FF
+
+//Not decrease bulletproof vest
+patch=1,EE,202AA974,extended,3C0543FA
+patch=1,EE,202AA97C,extended,AC650588
+
+//It does not decrease the bullet
+patch=1,EE,20134400,extended,24420000
+patch=1,EE,20134464,extended,24420000
+patch=1,EE,20134720,extended,24420000
+
+//Do not lose weapon
+patch=1,EE,201994A4,extended,14BD005B

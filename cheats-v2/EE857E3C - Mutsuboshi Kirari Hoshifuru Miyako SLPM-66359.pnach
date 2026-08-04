@@ -1,0 +1,9 @@
+gametitle=Mutsuboshi Kirari Hoshifuru Miyako SLPM-66359
+//Bonus fully opened
+patch=1,EE,4054ADB8,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,201A1DD4,extended,00000064
+patch=1,EE,401A00C0,extended,00120002
+patch=1,EE,00000003,extended,00000000
+patch=1,EE,401A00C4,extended,00120002
+patch=1,EE,00000001,extended,00000000

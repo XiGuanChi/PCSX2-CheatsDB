@@ -1,0 +1,10 @@
+gametitle=Off-Road Wide Open SLES-50232
+//Max Money (Career Mode)
+patch=1,EE,102E4850,extended,0000FFFF
+patch=1,EE,102E4852,extended,000000FF
+
+//Division Standings 99 pts
+patch=1,EE,102E5E2C,extended,00000063
+
+//Infinite Retries
+patch=1,EE,102E1710,extended,00000004

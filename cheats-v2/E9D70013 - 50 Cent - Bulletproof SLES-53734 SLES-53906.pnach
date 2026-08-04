@@ -1,0 +1,40 @@
+gametitle= 50 Cent - Bulletproof SLES-53734 SLES-53906
+//Invincible
+patch=1,EE,004FD1E4,extended,00000001
+
+//Press Select for Debug menu
+patch=1,EE,D056961C,extended,0000FFFE
+patch=1,EE,204FAFC0,extended,00000009
+
+//Infinite Health
+patch=1,EE,20235624,extended,C6400544
+patch=1,EE,2023562C,extended,E6400534
+
+//Infinite Armor
+patch=1,EE,202381BC,extended,C6000014
+patch=1,EE,202381C8,extended,E6000004
+
+//Infinite Stamina
+patch=1,EE,2023606C,extended,E4410008
+
+//Infinite Ammo
+patch=1,EE,20105510,extended,00000000
+
+//Max Cash
+patch=1,EE,200C2000,extended,3C0505F5
+patch=1,EE,200C2004,extended,34A5E0FF
+patch=1,EE,200C2008,extended,AC853C78
+patch=1,EE,200C200C,extended,08044E0E
+patch=1,EE,200C2010,extended,00A0202D
+patch=1,EE,201D33F4,extended,0C030800
+patch=1,EE,201D33F8,extended,00000000
+
+//Unlock all Cheats
+patch=1,EE,204FB3A0,extended,01010101
+patch=1,EE,104FB3A4,extended,00000101
+patch=1,EE,004FB3A6,extended,00000001
+
+//Unlock all Movies
+patch=1,EE,404FB260,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,104FB270,extended,00000101

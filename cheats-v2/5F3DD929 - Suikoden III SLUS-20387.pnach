@@ -1,0 +1,39 @@
+gametitle=Suikoden III SLUS-20387
+//Max Money
+patch=1,EE,2196E5F0,extended,000F423F
+
+//Infinite Item Usage
+patch=1,EE,116DD7DE,extended,00001000
+patch=1,EE,216DD7F4,extended,00000000
+
+//Infinite Rune Usage (InBattle)
+patch=1,EE,2181B8B0,extended,00000000
+
+//Quick Exp Gain (After Battle)
+patch=1,EE,216C905C,extended,24420063
+
+//Quick Skill Point Gain (After Battle)
+patch=1,EE,216C9124,extended,24420063
+
+//Hugo Codes ==
+
+//Quick Level Up
+patch=1,EE,D196E78C,extended,002003E7
+patch=1,EE,1196E78C,extended,000003E7
+
+//Max Skill Points
+patch=1,EE,2196E790,extended,000F423F
+
+//Infinite HP
+patch=1,EE,1196E7BC,extended,000003E7
+
+//Max HP
+patch=1,EE,1196E7BE,extended,000003E7
+
+//Level 99
+patch=1,EE,0196E7CC,extended,00000063
+
+
+
+
+

@@ -1,0 +1,20 @@
+gametitle=GetBackers Dakkanoku - Dakkandayo! Zenin Shuugou! SLPM-62276
+//Success reward MAX
+patch=1,EE,2070FBA0,extended,05F5E0FF
+
+//Code debt amount MAX
+patch=1,EE,2070FB90,extended,05F5E0FF
+
+//1P life
+patch=1,EE,1072CB2C,extended,000001F4
+
+//Special
+patch=1,EE,1072CB34,extended,00000260
+patch=1,EE,0072CB3A,extended,00000003
+
+//time
+patch=1,EE,0070FBD7,extended,00000064
+
+//2P life
+patch=1,EE,1072D00C,extended,000000C2
+

@@ -1,0 +1,33 @@
+gametitle=Super Robot Taisen - Scramble Commander The 2nd SLPS-25750
+//Money 999999999 DC
+patch=1,EE,20488A04,extended,3B9AC9FF
+
+//When experience value it allocates 9999
+patch=1,EE,2010B320,extended,2406270F
+
+//Item 99x
+patch=1,EE,20488A10,extended,63636363
+patch=1,EE,20488A14,extended,63636363
+
+//Special technical skill 99
+patch=1,EE,20488A30,extended,63636300
+patch=1,EE,20488A34,extended,63636363
+patch=1,EE,20488A38,extended,63636363
+patch=1,EE,20488A3C,extended,63636363
+patch=1,EE,20488A40,extended,63636363
+patch=1,EE,10488A44,extended,00006363
+
+//SP it does not decrease
+patch=1,EE,201A016C,extended,01C07023
+
+//When vigor it rises, 150
+patch=1,EE,20174A18,extended,240E0000
+patch=1,EE,20175BA8,extended,240F0000
+
+//It receovers completely with EN recovery
+patch=1,EE,2017F230,extended,240F0001
+
+//Active unit all the appearance code desires of free battle mode.
+patch=1,EE,00488A74,extended,00000063
+patch=1,EE,40488A50,extended,00090001
+patch=1,EE,63636363,extended,00000000

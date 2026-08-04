@@ -1,0 +1,34 @@
+gametitle=Star Ocean - Till the End of Time SLES-82028-9
+//View Status for:Max Fol
+patch=1,EE,200C2000,extended,3C017916
+patch=1,EE,200C2004,extended,34212708
+patch=1,EE,200C2008,extended,AE410034
+patch=1,EE,200C200C,extended,964400A6
+patch=1,EE,200C2010,extended,26450026
+patch=1,EE,200C2014,extended,0C115CF8
+patch=1,EE,200C2018,extended,00453023
+patch=1,EE,200C201C,extended,A64200A4
+patch=1,EE,200C2020,extended,0809A497
+patch=1,EE,200C2024,extended,964400A6
+patch=1,EE,D0269258,extended,000000A6
+patch=1,EE,20269258,extended,08030800
+
+//Infinite HP In Battle:
+patch=1,EE,200C2030,extended,AC680010
+patch=1,EE,200C2034,extended,AC680018
+patch=1,EE,200C2038,extended,01082821
+patch=1,EE,200C203C,extended,8C6700A8
+patch=1,EE,200C2040,extended,01052026
+patch=1,EE,200C2044,extended,00E42026
+patch=1,EE,200C2048,extended,AC64008C
+
+//Infinite MP In Battle:
+patch=1,EE,200C2050,extended,8C690020
+patch=1,EE,200C2054,extended,AC69001C
+patch=1,EE,200C2058,extended,AC690024
+patch=1,EE,200C205C,extended,01292821
+patch=1,EE,200C2060,extended,8C6700A8
+patch=1,EE,200C2064,extended,01252026
+patch=1,EE,200C2068,extended,00E42026
+patch=1,EE,200C206C,extended,AC640090
+

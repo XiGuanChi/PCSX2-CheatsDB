@@ -1,0 +1,15 @@
+gametitle=Shinobi SLUS-20459
+//Infinite Life
+patch=1,EE,2024E1E8,extended,00000000
+
+//Unlock Almost Everything
+patch=1,EE,20832280,extended,FFFFFFFF
+
+//Unlock Normal Levels
+patch=1,EE,0083228C,extended,00000011
+
+//Unlock Hard Levels
+patch=1,EE,0083228D,extended,00000011
+
+//Unlock Super Levels
+patch=1,EE,0083228E,extended,00000011

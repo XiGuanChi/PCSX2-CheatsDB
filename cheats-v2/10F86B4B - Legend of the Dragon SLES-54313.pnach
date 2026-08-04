@@ -1,0 +1,6 @@
+gametitle=Legend of the Dragon SLES-54313
+//Infinite HP 
+patch=1,EE,205F812C,extended,42C80000
+
+//Opponent has no HP
+patch=1,EE,205F8614,extended,00000000

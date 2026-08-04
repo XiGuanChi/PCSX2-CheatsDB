@@ -1,0 +1,8 @@
+gametitle=Driving Emotion Type-S SLPS-20007
+//Pole position Always 
+patch=1,EE,0029CA18,extended,00000000
+
+//Always 1st
+patch=1,EE,002B6474,extended,00000000
+patch=1,EE,003F7D60,extended,00000000
+patch=1,EE,003F7D61,extended,00000000

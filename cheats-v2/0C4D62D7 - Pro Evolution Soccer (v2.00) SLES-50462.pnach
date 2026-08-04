@@ -1,0 +1,28 @@
+gametitle=Pro Evolution Soccer SLES-50462
+//Home Team Score 99 Press L1 to activate
+patch=1,EE,D128C782,extended,0000FBFF
+patch=1,EE,012206CB,extended,00000063
+
+//Home Team Score 0 Press L2 to activate
+patch=1,EE,D128C782,extended,0000FEFF
+patch=1,EE,012206CB,extended,00000000
+
+//Away Team Score 99 Press R1 to activate
+patch=1,EE,D128C782,extended,0000F7FF
+patch=1,EE,012206CC,extended,00000063
+
+//Away Team Score 0 Press R2 to activate
+patch=1,EE,D128C782,extended,0000FDFF
+patch=1,EE,012206CC,extended,00000000
+
+//Infinite Cash
+patch=1,EE,11277DC8,extended,000003E7
+
+//Win All Trophies
+patch=1,EE,01221D3C,extended,000000FF
+
+//Infinite Transfers
+patch=1,EE,0127946C,extended,00000063
+
+//Unlock All Teams
+patch=1,EE,01221D30,extended,000000FF

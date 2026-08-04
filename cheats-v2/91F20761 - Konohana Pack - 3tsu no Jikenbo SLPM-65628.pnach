@@ -1,0 +1,20 @@
+gametitle=Konohana Pack - 3tsu no Jikenbo (SuperLite 2000 Adventure) SLPM-65628
+//Album fully open Konohana -True Report
+patch=1,EE,20225D10,extended,FFFFFFFF
+patch=1,EE,20225D14,extended,FFFFFFFF
+patch=1,EE,20225D18,extended,FFFFFFFF
+
+//Album fully open Konohana 2
+patch=1,EE,20228F90,extended,FFFFFFFF
+patch=1,EE,20228F94,extended,FFFFFFFF
+patch=1,EE,20228F98,extended,FFFFFFFF
+patch=1,EE,10228F9C,extended,0000FFFF
+
+//Album & music mode fully open Konohana 3
+patch=1,EE,20244EE0,extended,FFFFFFFF
+patch=1,EE,20244EE4,extended,FFFFFFFF
+patch=1,EE,20244EE8,extended,FFFFFFFF
+patch=1,EE,20244EEC,extended,FFFFFFFF
+patch=1,EE,00244EF0,extended,000000FF
+patch=1,EE,10244F48,extended,0000FFFF
+patch=1,EE,00244F4A,extended,000000FF

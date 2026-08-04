@@ -1,0 +1,33 @@
+gametitle=Gran Turismo 3 - A-Spec SCUS-97102
+//Instant Win (Single Race)
+patch=1,EE,E0080000,extended,01FBCB74
+patch=1,EE,D1FA1E5C,extended,00000002
+patch=1,EE,01FBCB74,extended,00000002
+patch=1,EE,D1FA1E5C,extended,00000003
+patch=1,EE,01FBCB74,extended,00000003
+patch=1,EE,D1FA1E5C,extended,00000004
+patch=1,EE,01FBCB74,extended,00000004
+patch=1,EE,D1FA1E5C,extended,00000005
+patch=1,EE,01FBCB74,extended,00000005
+
+//Simulation Mode - Max Races
+patch=1,EE,20958EEC,extended,0000270F
+
+//Simulation Mode - Max Wins
+patch=1,EE,20958EF4,extended,0000270F
+
+//Simulation Mode - Max Money
+patch=1,EE,20958EF8,extended,D4A50FFF
+patch=1,EE,20958EFC,extended,000000E8
+
+//Have All Licenses - Gold Trophies
+patch=1,EE,40978430,extended,00300065
+patch=1,EE,00000000,extended,00000000
+
+//Have All Licenses - Silver Trophies
+patch=1,EE,40978430,extended,00300065
+patch=1,EE,00000001,extended,00000000
+
+//Have All Licenses- Bronze Trophies
+patch=1,EE,40978430,extended,00300065
+patch=1,EE,00000002,extended,00000000

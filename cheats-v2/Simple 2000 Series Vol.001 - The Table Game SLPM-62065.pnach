@@ -1,0 +1,6 @@
+gametitle=Simple 2000 Series Vol.001 - The Table Game SLPM-62065
+//Max money 
+patch=1,EE,20D2A6A0,extended,0001869F
+
+//1P time control does not decrease
+patch=1,EE,1016A700,extended,00000000

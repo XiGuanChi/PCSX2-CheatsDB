@@ -1,0 +1,19 @@
+gametitle=G1 Jockey 4 2006 SLPM-66538
+//RP50000 display, effective even when saved
+patch=1,EE,10A99A00,extended,0000C350
+
+//negotiation
+patch=1,EE,202758B4,extended,00000000
+
+//main battle level 30
+patch=1,EE,2010DA40,extended,2402001E
+
+//Alternatively, if you start running, level 30
+patch=1,EE,2010DB58,extended,2403001E
+
+//Jockey friendship
+patch=1,EE,20113D44,extended,240200FA
+patch=1,EE,20113D98,extended,240400FA
+
+//trainer you know
+patch=1,EE,2011B918,extended,240200FA

@@ -1,0 +1,87 @@
+gametitle=Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. The Soulless Army SLUS-21431
+//Max Money
+patch=1,EE,20E6DE48,extended,05F5E0FF
+
+//Infinite item use in battle
+patch=1,EE,2029c26c,extended,00000000
+
+//Infinite mp use in battle
+patch=1,EE,2029c24c,extended,00000000
+
+//HP and MP fast recover after battle
+patch=1,EE,2024bd94,extended,ADA40018
+patch=1,EE,2024bdc4,extended,ADA30020
+
+//Main Character Max Mag
+patch=1,EE,20E6DE44,extended,000003E7
+
+//Main Character Level 99
+patch=1,EE,00E6DE5C,extended,00000063
+
+//Main Character Max Total Loyalty
+patch=1,EE,10E6DE62,extended,000003E7
+
+//Main Character Infinite HP
+patch=1,EE,20E6DE6C,extended,000003E7
+
+//Main Character Max HP
+patch=1,EE,20E6DE70,extended,000003E7
+patch=1,EE,20E6DE88,extended,000003E7
+
+//Main Character Max St
+patch=1,EE,10E6DE7C,extended,00000028
+patch=1,EE,10E6DE94,extended,00000028
+
+//Main Character Max Vi
+patch=1,EE,10E6DE7E,extended,00000028
+patch=1,EE,10E6DE96,extended,00000028
+
+//Main Character Max Ma
+patch=1,EE,10E6DE80,extended,00000028
+patch=1,EE,10E6DE98,extended,00000028
+
+//Main Character Max Lu
+patch=1,EE,10E6DE82,extended,00000028
+patch=1,EE,10E6DE9A,extended,00000028
+
+//Demon 1 Level 99
+patch=1,EE,10E6E100,extended,00000063
+
+//Demon 1 Max Loyalty
+patch=1,EE,10E6E106,extended,00000064
+
+//Demon 1 Infinite HP
+patch=1,EE,20E6E110,extended,000003E7
+
+//Demon 1 Max HP
+patch=1,EE,20E6E114,extended,000003E7
+patch=1,EE,20E6E12C,extended,000003E7
+
+//Demon 1 Infinite MP
+patch=1,EE,20E6E118,extended,000003E7
+
+//Demon 1 Max MP
+patch=1,EE,20E6E11C,extended,000003E7
+patch=1,EE,20E6E134,extended,000003E7
+
+//Demon 1 Max St
+patch=1,EE,10E6E120,extended,00000028
+patch=1,EE,10E6E138,extended,00000028
+
+//Demon 1 Max Vi
+patch=1,EE,10E6E122,extended,00000028
+patch=1,EE,10E6E13A,extended,00000028
+
+//Demon 1 Max Ma
+patch=1,EE,10E6E124,extended,00000028
+patch=1,EE,10E6E13C,extended,00000028
+
+//Demon 1 Max Lu
+patch=1,EE,10E6E126,extended,00000028
+patch=1,EE,10E6E13E,extended,00000028
+
+//Random Battles (L1+Select To Disable, L2+Select To Enable)
+patch=1,EE,D04FD1C2,extended,0000FBFE
+patch=1,EE,201226C8,extended,00000000
+patch=1,EE,D04FD1C2,extended,0000FEFE
+patch=1,EE,201226C8,extended,AC832C44

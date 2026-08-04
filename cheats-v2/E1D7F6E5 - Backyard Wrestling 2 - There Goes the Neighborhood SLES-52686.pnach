@@ -1,0 +1,22 @@
+gametitle=Backyard Wrestling 2 - There Goes the Neighborhood SLES-52686
+//endless money
+patch=1,EE,20539BD8,extended,05F5E0FF
+
+//P1 Infinite Health
+patch=1,EE,103CFE38,extended,000009C4
+
+//Infinity energy player 1
+patch=1,EE,205501E8,extended,00001F40
+
+//1-Hit Kills Player 2
+patch=1,EE,D0552F38,extended,00300000
+patch=1,EE,10552F38,extended,00000001
+
+//1 hit Kill P2
+patch=1,EE,103D2F78,extended,00000001
+
+//All Characters
+patch=1,EE,20145498,extended,AC40000C
+
+//All Levels
+patch=1,EE,20145760,extended,AC400008

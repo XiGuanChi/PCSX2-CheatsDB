@@ -1,0 +1,16 @@
+gametitle=Obscure SLES-53322
+// All Characters infinite Health
+patch=1,EE,0015a4c4,word,46010030
+patch=1,EE,0015a4c8,word,4500000E
+
+// Pistol Ammo not decreasing
+patch=1,EE,003615fc,word,24420000
+
+// Energy Drinks not decreasing
+patch=1,EE,001ad154,word,24630000
+
+// Discs not decreasing
+patch=1,EE,002def94,word,24630000
+
+// Characters never exhausted when Running
+patch=1,EE,0016047c,word,00401021

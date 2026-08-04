@@ -1,0 +1,16 @@
+gametitle=LEGO Soccer Mania SLUS-20456
+//Unlock All Teams
+patch=1,EE,406D71FC,extended,000C0001
+patch=1,EE,01000100,extended,00000000
+
+//Home Team Scores 5
+patch=1,EE,105F306C,extended,00000005
+
+//Home Team Scores 0
+patch=0,EE,105F306C,extended,00000000
+
+//Away Team Scores 5
+patch=0,EE,105F3FBC,extended,00000005
+
+//Away Team Scores 0
+patch=0,EE,105F3FBC,extended,00000000

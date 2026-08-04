@@ -1,0 +1,33 @@
+gametitle=Cold Winter SLES-52963
+//(Must work for power, endurance, and protection codes to work)
+patch=1,EE,200C201C,extended,03E00008
+patch=1,EE,200C2020,extended,8CA2000C
+patch=1,EE,20322B40,extended,0C030800
+
+//infinite energy
+patch=1,EE,200C2008,extended,E60000F4
+
+//max energy
+patch=1,EE,200C2000,extended,3C0142C8
+patch=1,EE,200C2004,extended,AE0100F8
+
+//infinity ammunition
+patch=1,EE,2033A82C,extended,00000000
+
+//infinity protection
+patch=1,EE,200C200C,extended,8E020380
+patch=1,EE,200C2010,extended,AE02037C
+
+//infinite endurance
+patch=1,EE,200C2014,extended,8CA208C4
+patch=1,EE,200C2018,extended,ACA208C0
+
+//infinity shells
+patch=1,EE,20343D3C,extended,00000000
+
+//All levels
+patch=1,EE,202EE67C,extended,24020001
+patch=1,EE,202EE680,extended,A0620000
+
+//infinitely grenades
+patch=1,EE,20343D3C,extended,24420000

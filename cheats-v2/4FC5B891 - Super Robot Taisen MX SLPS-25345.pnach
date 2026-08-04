@@ -1,0 +1,53 @@
+gametitle=Super Robot Taisen MX SLPS-25345
+//9999 with PP fluctuation only by battle.
+patch=1,EE,2023962C,extended,03A0200A
+
+//Max fund with fund change
+patch=1,EE,20337300,extended,03A3200A
+
+//SP does not decrease
+patch=1,EE,20239494,extended,00802023
+
+//Increase / decrease value of spirit, spirit, encouragement, weakness 50
+patch=1,EE,2022D340,extended,24050032
+patch=1,EE,2022D4B0,extended,24050032
+patch=1,EE,2020311C,extended,24050032
+patch=1,EE,20203164,extended,2405FFCE
+
+//After the fight strikes falls several 999
+patch=1,EE,202393CC,extended,00000000
+
+//When fight physical strength not increase (150 maximum values)
+patch=1,EE,20239168,extended,00000000
+
+//After fight empirical value massive computations
+patch=1,EE,2025C08C,extended,00101240
+
+//SP does not reduce
+patch=1,EE,20239494,extended,10000000
+
+//EN 999 (enemy side/we are general)
+patch=1,EE,20243B74,extended,4A0002FF
+
+//After realizes the infinite motion
+patch=1,EE,2023BE68,extended,10000000
+
+//The organism condition and the weapon transform 15 all to open
+patch=1,EE,20332E40,extended,2402000F
+patch=1,EE,20332E6C,extended,2402000F
+patch=1,EE,20332E94,extended,2402000F
+patch=1,EE,20332EBC,extended,2402000F
+patch=1,EE,20332F0C,extended,2402000F
+patch=1,EE,20332F30,extended,2402000F
+patch=1,EE,20332F58,extended,2402000F
+
+//The organism part may equip 4
+patch=1,EE,20332CB0,extended,24020004
+
+//Completely strengthens part 99
+patch=1,EE,4044A02C,extended,00240001
+patch=1,EE,00000063,extended,00000000
+
+//Max Pilot points
+patch=1,EE,10537E78,extended,0000270F
+patch=1,EE,10538874,extended,0000270F

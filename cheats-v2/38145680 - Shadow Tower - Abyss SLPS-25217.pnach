@@ -1,0 +1,25 @@
+gametitle=Shadow Tower - Abyss SLPS-25217
+//Infinite HP 999
+patch=1,EE,204B4D10,extended,270F270F
+patch=1,EE,104B4D14,extended,0000270F
+
+//Infinite MP 999
+patch=1,EE,104B4D12,extended,0000270F
+patch=1,EE,104B4D16,extended,0000270F
+
+//HP maximum maintenance
+patch=1,EE,201CF3C4,extended,00000000
+
+//Maintain MP maximum
+patch=1,EE,201CF3EC,extended,00000000
+
+//Total weight 0 (Save not yet reflected)
+patch=1,EE,201CF2E0,extended,A6400418
+
+//Guns available for continuous fire
+patch=1,EE,201C1B44,extended,00000000
+patch=1,EE,201C1C18,extended,00000000
+
+//Maintain durability 99 on weapons equipped
+patch=1,EE,201CEE18,extended,24050063
+patch=1,EE,201CEE24,extended,A04500A0

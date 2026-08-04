@@ -1,0 +1,27 @@
+gametitle=Fullmetal Alchemist 3 - Kami o Tsugu Shojo SLPM-66073
+//SP MAX
+patch=1,EE,20174480,extended,24020001
+
+//Counter possible, regardless of the timing of the guard
+patch=1,EE,201A9C0C,extended,0806A707
+
+//Edward Infinite and Max HP
+patch=1,EE,1036E708,extended,0000270F
+patch=1,EE,1036E70A,extended,0000270F
+
+//Alphonse Infinite and Max HP
+patch=1,EE,1036E72C,extended,0000270F
+patch=1,EE,1036E72E,extended,0000270F
+
+//All graphics can be viewed
+patch=1,EE,202B3998,extended,0C08BD38
+patch=1,EE,202B39A0,extended,00000025
+
+//All movies can be viewed
+patch=1,EE,202B3C78,extended,0C08BD38
+patch=1,EE,202B3C80,extended,00000025
+
+//Tag Battle all characters stage selectable
+patch=1,EE,202AB958,extended,00000025
+patch=1,EE,202ABEC0,extended,00000025
+patch=1,EE,202AF758,extended,00000025

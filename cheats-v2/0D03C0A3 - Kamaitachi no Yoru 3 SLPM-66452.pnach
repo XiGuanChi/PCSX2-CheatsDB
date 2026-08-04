@@ -1,0 +1,32 @@
+gametitle=Kamaitachi no Yoru 3 SLPM-66452
+//Fastest message sending when auto play is decided
+patch=1,EE,20115C1C,extended,AC800008
+patch=1,EE,20115C24,extended,AC80000C
+
+//Automatic message sending other than choices
+patch=1,EE,201201E0,extended,00000000
+
+//Automatic message sending ON / OFF switching other than options Semi-auto ON with SELECT + up button
+//Semi-auto OFF with SELECT + down button
+patch=1,EE,D1E419C2,extended,0000FFEE
+patch=1,EE,201201E0,extended,00000000
+patch=1,EE,D1E419C2,extended,0000FFBE
+patch=1,EE,201201E0,extended,51E0000B
+
+//Playing: Fully open when looking at the table of contents common to Spur and nursery rhymes Please note that it may affect the progress of the scenario.
+patch=1,EE,201AF3F0,extended,240D00FF
+patch=1,EE,201AF3F4,extended,A1CD0000
+
+//Playing: Fully open when looking at the ending list common to all Please note that it may affect the progress of the scenario.
+patch=1,EE,201AB5C8,extended,240F00FF
+patch=1,EE,201AB5CC,extended,A1CF0000
+
+//The truth of the crescent island case All starting characters Please note that it may affect the progress of the scenario.
+patch=1,EE,20238AF8,extended,00030007
+
+//The truth of the crescent island case Fully open when looking at the time chart during play Contents may change depending on the progress of the scenario.
+patch=1,EE,201AD268,extended,240E00FF
+patch=1,EE,201AD26C,extended,A1AE0000
+
+//Enable Debug Menu
+patch=1,EE,20175F7C,extended,24020001

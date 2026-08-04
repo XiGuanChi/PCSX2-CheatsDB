@@ -1,0 +1,18 @@
+gametitle=Pirates - The Legend of Black Kat SLES-50680
+//Pots Of Doubloons
+patch=1,EE,20411F68,extended,05F5E0FF
+
+//Rapid Gain Special
+patch=1,EE,20411EC8,extended,3F800000
+
+//Always 3 Hearts
+patch=1,EE,20411EE4,extended,00000050
+
+//25 Throwing Knives
+patch=1,EE,20411F0C,extended,00000019
+
+//Constant Wind Meter
+patch=1,EE,204123EC,extended,3F800000
+
+//Solid Hull
+patch=1,EE,2032066C,extended,44000000

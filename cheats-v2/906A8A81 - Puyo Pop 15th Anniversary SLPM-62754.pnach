@@ -1,0 +1,29 @@
+gametitle=Puyo Pop 15th Anniversary SLPM-62754
+//Character full opening
+patch=1,EE,2032BB48,extended,FFFFFFFF
+
+//Jugyo: Clear all drills
+patch=1,EE,4032BB58,extended,000A0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//When you enter the push, the demo will be fully opened.
+patch=1,EE,2023F6C0,extended,2402FFFF
+patch=1,EE,2023F6C4,extended,A4C201D0
+
+//When you erase Puyo, only 1P is 99 chains
+patch=1,EE,2014BB00,extended,8F8281F0
+patch=1,EE,2014BB04,extended,10540017
+patch=1,EE,2014BB08,extended,24010063
+patch=1,EE,2014BB64,extended,A2812CF2
+patch=1,EE,2014BB68,extended,08052EC3
+
+//Puyo Puyo Fever Fever with one offset only for 1P
+patch=1,EE,2014F968,extended,8F8281F0
+patch=1,EE,2014F96C,extended,54500012
+
+//Puyo Puyo Fever Fever gauge rises with the SELECT button only for 1P
+patch=1,EE,2014F904,extended,8F8281F0
+patch=1,EE,2014F908,extended,50500004
+patch=1,EE,2014F8FC,extended,1040002E
+patch=1,EE,D053AE82,extended,0000FFFE
+patch=1,EE,2014F8FC,extended,00000000

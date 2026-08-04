@@ -1,0 +1,22 @@
+gametitle=RTL Skijumping 2003 SLES-51391
+//Infinite Cash
+patch=1,EE,206E1BF0,extended,05F5E0FF
+
+//Infinite Creation Points
+patch=1,EE,206F0FB4,extended,42480000
+
+//Infinite Experience Points
+patch=1,EE,206F0FBC,extended,00000064
+
+//Press R2 to activate and L2 to de-activate.Infinite Training Points
+patch=1,EE,D01CD102,extended,0000FDFF
+patch=1,EE,000FFF00,extended,00000001
+patch=1,EE,D00FFF00,extended,00000001
+patch=1,EE,206F0F60,extended,00000064
+patch=1,EE,D01CD102,extended,0000FEFF
+patch=1,EE,000FFF00,extended,00000000
+patch=1,EE,D00FFF00,extended,00000000
+patch=1,EE,206F0F60,extended,00000000
+
+//Max Experience - Career
+patch=1,EE,207A3EEC,extended,05F5E0FF

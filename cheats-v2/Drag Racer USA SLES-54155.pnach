@@ -1,0 +1,6 @@
+gametitle=Drag Racer USA SLES-54155
+//Buying Upgrades Doesn't Decrease Cash
+patch=1,EE,2018C120,extended,00000000
+
+//Max/Infinite Cash
+patch=1,EE,20AAD5C4,extended,05F5E0FF

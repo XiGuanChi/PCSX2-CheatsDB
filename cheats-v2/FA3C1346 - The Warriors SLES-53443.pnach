@@ -1,0 +1,22 @@
+gametitle=The Warriors SLES-53443
+//Infinite Money 
+patch=1,EE,21FD88FC,extended,000003E7
+
+//Infiniye Health
+patch=1,EE,200C2010,extended,84620146
+patch=1,EE,200C2014,extended,A4620144
+patch=1,EE,200C2018,extended,03E00008
+patch=1,EE,200C201C,extended,28420002
+patch=1,EE,20221130,extended,0C030804
+
+//Infinite Rage
+patch=1,EE,200C2000,extended,00021821
+patch=1,EE,200C2004,extended,AE430650
+patch=1,EE,200C2008,extended,03E00008
+patch=1,EE,200C200C,extended,0062182A
+patch=1,EE,2024AC78,extended,0C030800
+
+//Unlock All Modes/Levels/Characters
+patch=1,EE,406FE8F8,extended,00130001
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,206F1590,extended,00000000

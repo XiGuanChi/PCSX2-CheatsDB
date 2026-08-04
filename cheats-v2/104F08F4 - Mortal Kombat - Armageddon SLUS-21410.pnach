@@ -1,0 +1,52 @@
+gametitle=Mortal Kombat - Armageddon SLUS-21410
+//Infinite Health Player 1
+patch=1,EE,20664738,extended,3f800000
+patch=1,EE,2066473C,extended,3f800000
+
+//Infinite Health P1
+patch=1,EE,20664738,extended,3F800000
+
+//P1 Needs 1 Win To Win
+patch=1,EE,D0664748,extended,00000000
+patch=1,EE,20664748,extended,00000001
+
+//P1 Press L2+R2 To Go Straight To Finish Him/Her
+patch=1,EE,E002FCFF,extended,006aedc2
+patch=1,EE,20664748,extended,00000001
+patch=1,EE,20664780,extended,00000000
+
+//No Health P2
+patch=1,EE,20664780,extended,00000000
+
+//Max Health Konquest Mode
+patch=1,EE,20BBFD64,extended,40400000
+
+//Infinite Health Konquest Mode
+patch=1,EE,20BBFD68,extended,40400000
+
+//Max Magic Konquest Mode
+patch=1,EE,20BBFD9C,extended,40400000
+
+//Infinite Magic Konquest Mode
+patch=1,EE,20BBFDA0,extended,40400000
+
+//Unlock All Characters
+patch=1,EE,20664B08,extended,FFFFFFFF
+patch=1,EE,20664B0C,extended,FFFFFFFF
+
+//Unlock All Arenas
+patch=1,EE,20664B10,extended,FFFFFFFF
+patch=1,EE,20664B14,extended,FFFFFFFF
+
+//Unlock All Koncept Art
+patch=1,EE,406B3CC4,extended,00030001
+patch=1,EE,000045FF,extended,00000000
+patch=1,EE,106B3CD0,extended,0000FFFF
+patch=1,EE,006B3CD2,extended,000000FF
+
+//Unlock All Media
+patch=1,EE,006B3CDD,extended,000000FF
+patch=1,EE,106B3CDE,extended,0000FFFF
+patch=1,EE,206B3CE0,extended,FFFFFFFF
+patch=1,EE,106B3CE4,extended,0000FFFF
+patch=1,EE,006B3CE6,extended,000000FF

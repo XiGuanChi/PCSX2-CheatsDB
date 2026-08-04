@@ -1,0 +1,47 @@
+gametitle=G1 Jockey 3 SLES-51357
+//Infinite Riding Points
+patch=1,EE,105B52FC,extended,0000FFFF
+
+//Inf. Stamina
+patch=1,EE,200FFF00,extended,3C0144F0
+patch=1,EE,200FFF04,extended,AE010074
+
+//Inf. Potential
+patch=1,EE,200FFF08,extended,3C01469C
+patch=1,EE,200FFF0C,extended,AE010078
+
+//Max Acc
+patch=1,EE,200FFF18,extended,3C0143C8
+patch=1,EE,200FFF1C,extended,AE010030
+
+//Max Vit
+patch=1,EE,200FFF20,extended,3C0146C8
+patch=1,EE,200FFF24,extended,AE010008
+
+//Slow Enemy AI
+patch=1,EE,200FFF80,extended,3C010010
+patch=1,EE,200FFF84,extended,8C21FFF0
+patch=1,EE,200FFF88,extended,10340004
+patch=1,EE,200FFF94,extended,3C014080
+patch=1,EE,200FFF98,extended,AE810000
+patch=1,EE,200FFFA0,extended,92840102
+patch=1,EE,200FFFA4,extended,03E00008
+patch=1,EE,2015C8B0,extended,0C03FFE0
+
+//Max EXP
+patch=1,EE,105B4D98,extended,0000FFFF
+
+//Max RP
+patch=1,EE,105B52FC,extended,0000FFFF
+
+//All Skills
+patch=1,EE,205B5330,extended,FFFFFFFF
+
+//Max Career Earning
+patch=1,EE,205B4D94,extended,05F00000
+
+//Max Season Earning
+patch=1,EE,205B5280,extended,05F00000
+
+//Tons of First Places
+patch=1,EE,205B5260,extended,0000FFFF

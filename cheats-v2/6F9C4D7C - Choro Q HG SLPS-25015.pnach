@@ -1,0 +1,15 @@
+gametitle=Choro Q HG SLPS-25015
+//Possession money MAX
+patch=1,EE,20238390,extended,0098967F
+
+//All parts
+patch=1,EE,1021789E,extended,0000FFFF
+patch=1,EE,202178A0,extended,FFFFFFFF
+patch=1,EE,202178A4,extended,FFFFFFFF
+patch=1,EE,202178A8,extended,FFFFFFFF
+patch=1,EE,202178AC,extended,FFFFFFFF
+patch=1,EE,202178B0,extended,0001FFFF
+patch=1,EE,202178E0,extended,FFFFFFFF
+patch=1,EE,202178E4,extended,FFFFFFFF
+patch=1,EE,202178E8,extended,FFFFFFFF
+patch=1,EE,002178EC,extended,000000FF

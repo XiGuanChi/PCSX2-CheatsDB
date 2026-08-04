@@ -1,0 +1,24 @@
+gametitle=Armored Core 2 SLES-50079
+//Infinite Health
+patch=1,EE,102BBB74,extended,00009C38
+
+//Infinite Boost
+patch=1,EE,102BBB78,extended,00006D60
+
+//Infinite Ammo 1
+patch=1,EE,002BC438,extended,000000B4
+
+//Infinite Ammo 2
+patch=1,EE,002BC4B8,extended,00000018
+
+//Temperature
+patch=1,EE,102BBC12,extended,000043C9
+
+//Max Credits
+patch=1,EE,203B8F00,extended,05F5E0FF
+
+//All Missions Completed
+patch=1,EE,003B8F04,extended,00000001
+patch=1,EE,203B8FD0,extended,02020202
+patch=1,EE,203B8FD4,extended,02020202
+patch=1,EE,203B8FD8,extended,02020202

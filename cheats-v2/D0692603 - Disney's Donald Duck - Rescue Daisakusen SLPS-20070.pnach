@@ -1,0 +1,9 @@
+gametitle=Disney's Donald Duck - Rescue Daisakusen!!:SLPS-20070
+//Number of credits
+patch=1,EE,108EC074,extended,00000005
+
+//time
+patch=1,EE,105C5F1D,extended,00009F9F
+
+//Extra jump
+patch=1,EE,11A679DE,extended,0000414C

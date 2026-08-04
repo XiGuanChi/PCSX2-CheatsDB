@@ -1,0 +1,11 @@
+gametitle=Jikuu Bouken Zentrix SLPS-25498
+//With SELECT button (2P) life 0
+patch=1,EE,D0631F88,extended,00000001
+patch=1,EE,205E3B6C,extended,00000000
+
+//Unlock Everything 
+patch=1,EE,20585870,extended,FFFFFFFF
+patch=1,EE,20585874,extended,FFFFFFFF
+patch=1,EE,20585878,extended,FFFFFFFF
+patch=1,EE,20585880,extended,FFFFFFFF
+patch=1,EE,20585884,extended,FFFFFFFF

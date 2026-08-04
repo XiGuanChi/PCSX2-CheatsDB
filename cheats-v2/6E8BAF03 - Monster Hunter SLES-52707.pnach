@@ -1,0 +1,41 @@
+gametitle=Monster Hunter SLES-52707
+//Performance patch
+patch=1,EE,00152CDC,extended,24050000
+
+//Infinite Money (99999999)
+patch=1,EE,203AE360,extended,05F5E0FF
+
+//Infinite Health
+patch=1,EE,003CC3F2,extended,00000096
+patch=1,EE,003CC882,extended,00000096
+
+//Infinite  endurance + Refil hunger
+patch=1,EE,103CC838,extended,000001C2
+patch=1,EE,103CC972,extended,000001C2
+
+//No Poison Time
+patch=1,EE,103CC8AA,extended,00000000
+
+//No Shock Time
+patch=1,EE,103CCA24,extended,00000000
+
+//No Knock Out Time
+patch=1,EE,103CC0F7,extended,00000000
+
+//See Monster on Map
+patch=1,EE,103CCA20,extended,00000121
+
+//No Reload
+patch=1,EE,103CC10C,extended,000000FF
+
+//Infinite Ammo
+patch=1,EE,003CC10D,extended,00000028
+
+//Infinite Large Bomb Plant
+patch=1,EE,003DB300,extended,00000000
+
+//Infinite Meat Plant
+patch=1,EE,003DB301,extended,00000000
+
+//Infinite Traps Plant
+patch=1,EE,003DB302,extended,00000000

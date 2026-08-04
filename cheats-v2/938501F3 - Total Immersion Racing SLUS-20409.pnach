@@ -1,0 +1,11 @@
+gametitle=Total Immersion Racing SLUS-20409
+//Max Total Points (Career Mode
+patch=1,EE,1040BAEC,extended,0000270F
+
+//Unlock All Challenges
+patch=1,EE,40274998,extended,00250084
+patch=1,EE,00000001,extended,00000000
+
+//Unlock All Tracks
+patch=1,EE,40416440,extended,000C01B1
+patch=1,EE,00000001,extended,00000000

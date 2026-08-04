@@ -1,0 +1,24 @@
+gametitle=The Grim Adventures of Billy & Mandy SLUS-21451
+//Infinite Health P1
+patch=1,EE,200C0008,extended,8C820004
+patch=1,EE,200C000C,extended,8C420000
+patch=1,EE,200C0010,extended,8C41000C
+patch=1,EE,200C0014,extended,AC410014
+
+//Infinite Health P2
+patch=1,EE,200C0088,extended,8C820004
+patch=1,EE,200C008C,extended,8C420000
+patch=1,EE,200C0090,extended,8C41000C
+patch=1,EE,200C0094,extended,AC410014
+
+//Infinite Lives P1
+patch=1,EE,200C0018,extended,8C820004
+patch=1,EE,200C001C,extended,8C420004
+patch=1,EE,200C0020,extended,8C41000C
+patch=1,EE,200C0024,extended,AC410014
+
+//Infinite Lives P2
+patch=1,EE,200C0098,extended,8C820004
+patch=1,EE,200C009C,extended,8C420004
+patch=1,EE,200C00A0,extended,8C41000C
+patch=1,EE,200C00A4,extended,AC410014

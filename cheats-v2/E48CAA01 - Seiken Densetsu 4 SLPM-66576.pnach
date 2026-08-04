@@ -1,0 +1,19 @@
+gametitle=Seiken Densetsu 4 SLPM-66576
+//All Pets Collection
+patch=1,EE,406B9D24,extended,00310001
+patch=1,EE,01010101,extended,00000000
+
+//Unlock Hard / Ultimate Mode
+patch=1,EE,006B9DFC,extended,00000008
+
+//Unlock Challenge Arena / Select Chapter Mode
+patch=1,EE,206BA778,extended,00010000
+
+//All Arena
+patch=1,EE,406BA780,extended,00090001
+patch=1,EE,01010101,extended,00000000
+
+//All Media Player
+patch=1,EE,206B99A0,extended,FFFFFFFF
+patch=1,EE,206B99A4,extended,FFFFFFFF
+patch=1,EE,206B99A8,extended,FFFFFFFF

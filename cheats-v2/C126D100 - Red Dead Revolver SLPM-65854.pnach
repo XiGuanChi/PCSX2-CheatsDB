@@ -1,0 +1,22 @@
+gametitle=Red Dead Revolver SLPM-65854
+//Invulnerable
+patch=1,EE,2029A650,extended,00000000
+patch=1,EE,2029AC98,extended,00000000
+
+//Infinite Health
+patch=1,EE,200C2000,extended,46006346
+patch=1,EE,200C2004,extended,080E1BEA
+patch=1,EE,200C2008,extended,E44C0010
+patch=1,EE,2029DF04,extended,0C030800
+
+//nfinite Ammo
+patch=1,EE,2038F258,extended,240403E7
+patch=1,EE,2038F25C,extended,AEA40014
+
+//Infinite Monney
+patch=1,EE,200C2020,extended,3C030098
+patch=1,EE,200C2024,extended,3463967F
+patch=1,EE,200C2028,extended,080A784D
+patch=1,EE,200C202C,extended,AC43587C
+patch=1,EE,2029E120,extended,08030808
+

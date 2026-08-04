@@ -1,0 +1,9 @@
+gametitle=Hudson Selection Vol. 3 - PC Genjin SLPM-62418
+//Infinite Health
+patch=1,EE,202B9138,extended,00000003
+
+//Infinite Lives
+patch=1,EE,202B9134,extended,000000009
+
+//1 Hit Kill - except for bosses 
+patch=1,EE,2012ED24,extended,00000000

@@ -1,0 +1,26 @@
+gametitle=Star Wars - Battlefront SLUS-20898
+//Infinite Health
+patch=1,EE,202C2A24,extended,8C410004
+patch=1,EE,202C2A28,extended,AC410000
+
+//Infinite Primary Ammo
+patch=1,EE,20285528,extended,00000000
+
+//Infinite Secondary Ammo
+patch=1,EE,2028ECCC,extended,00000000
+
+//Infinite Jetpack
+patch=1,EE,202072A4,extended,00000000
+patch=1,EE,2020958C,extended,00000000
+
+//Invincibility Always On
+patch=1,EE,20519060,extended,00000001
+
+//Unlimited Ammo Always On
+patch=1,EE,20519064,extended,00000001
+
+//Never Overheat
+patch=1,EE,20288F34,extended,00000000
+
+//Unlock All Special Features
+patch=1,EE,20643878,extended,FFFFFFFF

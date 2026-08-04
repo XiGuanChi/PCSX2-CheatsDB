@@ -1,0 +1,17 @@
+gametitle=Densha de Go! 3 SLPM-62049
+//Infinite Time 1:47 IN Free Mode
+patch=1,EE,2060D500,extended,00003227
+
+
+//MAX in every point Hen
+patch=1,EE,20164ABC,extended,00010821
+
+//No penalty
+patch=1,EE,20164EDC,extended,1021001A
+
+//No running resistance Max velocity
+patch=1,EE,2014E098,extended,00000000
+patch=1,EE,2014E988,extended,44806000
+patch=1,EE,2014E9A4,extended,44806000
+patch=1,EE,2014E9E0,extended,44806000
+patch=1,EE,2014EA00,extended,44806000

@@ -1,0 +1,10 @@
+gametitle=Airblade SCES-50246
+//Infinite Time in Story mode 
+patch=1,EE,203308C8,extended,43160000
+
+//All Levels, stunt attack Open
+patch=1,EE,20325CB8,extended,00000001
+patch=1,EE,20325CD0,extended,00000001
+patch=1,EE,20325CE8,extended,00000001
+patch=1,EE,20325D00,extended,00000001
+patch=1,EE,20325D18,extended,00000001

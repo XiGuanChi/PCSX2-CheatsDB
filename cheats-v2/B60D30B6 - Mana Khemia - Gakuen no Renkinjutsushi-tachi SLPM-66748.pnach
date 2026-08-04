@@ -1,0 +1,52 @@
+gametitle=Mana Khemia - Gakuen no Renkinjutsushi-tachi SLPM-66748
+//Gold 9999999
+patch=1,EE,20B93938,extended,000F423F
+
+//After 1 Battle = Everyone AP 99999
+patch=1,EE,2018DE24,extended,00000000
+
+//With item fluctuation 99x
+patch=1,EE,20192564,extended,54000005
+
+//Burst gauge max
+patch=1,EE,204089EC,extended,240209C4
+
+//No Random battle R2+up=ON,R2+down=OFF
+patch=1,EE,D0B95BDC,extended,0000FDEF
+patch=1,EE,201B4DA4,extended,0000102D
+patch=1,EE,D0B95BDC,extended,0000FDBF
+patch=1,EE,201B4DA4,extended,0200102D
+
+//Unlock All Extra ( Gallery / BGM / Ending )
+patch=1,EE,201456A8,extended,24020001
+patch=1,EE,2045EE60,extended,00000000
+patch=1,EE,2045EE78,extended,00000000
+patch=1,EE,2045EFA8,extended,00000000
+patch=1,EE,2045EFC0,extended,00000000
+patch=1,EE,2045EFD8,extended,00000000
+
+//After 1 Save Unlock All Extra ( Gallery / BGM / Ending )When you save push START+SELECT (warning : dont save on your save data , create new block)
+patch=1,EE,D0B95BDC,extended,0000FFF6
+patch=1,EE,00DC1A18,extended,00000002
+patch=1,EE,00DC3304,extended,000000FF
+
+//Charactere 1 HP/SP/Stats 999
+patch=1,EE,40E86DF8,extended,00040001
+patch=1,EE,03E703E7,extended,00000000
+
+//Charactere 1 AP 99999
+patch=1,EE,20E86D9C,extended,0001869F
+
+//Charactere 2 HP/SP/Stats 999
+patch=1,EE,40E87314,extended,00040001
+patch=1,EE,03E703E7,extended,00000000
+
+//Charactere 2 AP 99999
+patch=1,EE,20E872B8,extended,0001869F
+
+//Charactere 3 HP/SP/Stats 999
+patch=1,EE,40E8767C,extended,00040001
+patch=1,EE,03E703E7,extended,00000000
+
+//Charactere 3 AP 99999
+patch=1,EE,20E87620,extended,0001869F

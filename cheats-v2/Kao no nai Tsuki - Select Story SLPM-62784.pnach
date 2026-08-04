@@ -1,0 +1,4 @@
+gametitle=Kao no nai Tsuki - Select Story SLPM-62784
+//Enable Test Menu in Main Menu (Select Continue)
+patch=1,EE,007EF40F,extended,00000001
+patch=1,EE,002717A1,extended,00000001

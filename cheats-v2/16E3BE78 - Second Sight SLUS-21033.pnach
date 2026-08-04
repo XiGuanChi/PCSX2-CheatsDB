@@ -1,0 +1,24 @@
+gametitle=Second Sight SLUS-21033
+//Infinite Health
+patch=1,EE,200C0220,extended,C4410214
+patch=1,EE,200C0224,extended,E4410210
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,46010034
+patch=1,EE,20283908,extended,0C030088
+
+//Infinite PSI Power
+patch=1,EE,203B1778,extended,C4410EFC
+patch=1,EE,203B1780,extended,E4410EF4
+
+//infinite Ammo
+patch=1,EE,20278280,extended,00000000
+
+//Unlock All Cutscenes
+patch=1,EE,20464DA4,extended,FFFFFFFF
+patch=1,EE,20464DA8,extended,FFFFFFFF
+
+//Unlock All Levels
+patch=1,EE,20464DAC,extended,FFFFFFFF
+
+//Infinite Psi
+patch=1,EE,203B26C0,extended,E4400EF4

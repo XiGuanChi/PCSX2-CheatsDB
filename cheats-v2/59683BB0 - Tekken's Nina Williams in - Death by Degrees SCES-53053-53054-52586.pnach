@@ -1,0 +1,38 @@
+gametitle=Tekken's Nina Williams in - Death by Degrees SCES-53053 SCES-53054 SCES-52586
+//Infinite Health
+patch=1,EE,20EDA1E0,extended,00000500
+
+//Infinite Air
+patch=1,EE,20EDA1F0,extended,00000500
+
+//Sniper Mode Infinite Ammo
+patch=1,EE,20F6E520,extended,0000000A
+
+//Infinite Health in Sniper Mode Nina
+patch=1,EE,20F6E498,extended,000005A0
+
+//Infinite Machine Gun Ammo
+patch=1,EE,20EDED98,extended,0000001E
+
+//Infinite Skill Points:
+patch=1,EE,20EDA200,extended,0000270F
+
+//Infinite Focus:
+patch=1,EE,20EDA1E8,extended,00000B40
+patch=1,EE,20EDA1E4,extended,00000B40
+
+//99 Meal Kit M
+patch=1,EE,00EDA239,extended,00000063
+
+//All Fingerprints
+patch=1,EE,20EDA2AC,extended,FFFFFFFF
+patch=1,EE,00EDA2B0,extended,000000FF
+
+//Sniper Mode Infinite Ammo
+patch=1,EE,20F6B5A0,extended,0000000A
+
+//Sniper Mode Infinite Health
+patch=1,EE,20F6B518,extended,00000F00
+
+//Sniper Mode Infinite Health-Frank
+patch=1,EE,20F6CAE4,extended,00000064

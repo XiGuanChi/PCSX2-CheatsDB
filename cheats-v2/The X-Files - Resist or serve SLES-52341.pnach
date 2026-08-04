@@ -1,0 +1,16 @@
+gametitle=The X-Files - Resist or serve SLES-52341
+//Infinite Health
+patch=1,EE,20193DF8,extended,24060032
+patch=1,EE,20193DFC,extended,AE460540
+
+//No Reload
+patch=1,EE,20111404,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,20111434,extended,00000000
+
+//Infinite First Aid Kits
+patch=1,EE,201113A8,extended,00000000
+
+//All Levels-both
+patch=1,EE,202B2974,extended,00500006

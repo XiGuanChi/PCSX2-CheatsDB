@@ -1,0 +1,26 @@
+gametitle=Colin McRae Rally 2005 SLES-52636
+//All Cars Open
+patch=1,EE,2015EBE8,extended,24020001
+
+//All Tracks Open
+patch=1,EE,2015EC70,extended,24020001
+
+//All Movies Open
+patch=1,EE,2015EC98,extended,24020001
+
+//No Damage
+patch=1,EE,202266C0,extended,03E00008
+patch=1,EE,202266C4,extended,00000000
+
+//Alt. Unlock All Cars
+patch=1,EE,404E77B0,extended,00080001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,104E77D0,extended,00000101
+patch=1,EE,004E77D2,extended,00000001
+
+//Alt. Unlock All Courses
+patch=1,EE,404E77D4,extended,00160001
+patch=1,EE,01010101,extended,00000000
+
+//Alt. Unlock All Movies
+patch=1,EE,204E7824,extended,01010101

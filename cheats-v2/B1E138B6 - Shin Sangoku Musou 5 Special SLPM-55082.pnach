@@ -1,0 +1,28 @@
+gametitle=Shin Sangoku Musou 5 Special SLPM-55082
+//Continuous shock waves, bows and stones
+patch=1,EE,201E8F7C,extended,00000000
+
+//If you increase the martial arts, MAX
+patch=1,EE,202958AC,extended,00000000
+
+//Maintaining maximum physical fitness gauge
+patch=1,EE,201B275C,extended,C60103F8
+patch=1,EE,201B2768,extended,E60103FC
+
+//Musou gauge maximum maintenance
+patch=1,EE,201A43E0,extended,E6010408
+
+//Maximum after killing the enemy
+patch=1,EE,20280C0C,extended,00000000
+
+//Maximum upper limit of physical strength
+patch=1,EE,20280A58,extended,00000000
+
+//Maximum after continuous movement
+patch=1,EE,201D3680,extended,00000000
+
+//Mid-career preservation
+patch=1,EE,202818A4,extended,26450000
+
+
+

@@ -1,0 +1,39 @@
+gametitle=Grand Theft Auto - Liberty City Stories SLES-54136
+//unendlich Energie
+patch=1,EE,200C0220,extended,3C0142C8
+patch=1,EE,200C0224,extended,AC6104B8
+patch=1,EE,200C0228,extended,0809022F
+patch=1,EE,200C022C,extended,C46004B8
+patch=1,EE,2023ea38,extended,08030088
+
+//unendlich Schutz
+patch=1,EE,200C0230,extended,3C0142C8
+patch=1,EE,200C0234,extended,AC6104BC
+patch=1,EE,200C0238,extended,08090263
+patch=1,EE,200C023C,extended,C46004BC
+patch=1,EE,2023ea08,extended,0803008C
+
+//max.Geld
+patch=1,EE,20408f4c,extended,05F5E0FF
+patch=1,EE,20408f50,extended,05F5E0FF
+
+//unendlich Renn-Ausdauer
+patch=1,EE,20408ffc,extended,00000001
+
+//unendlich Munition alle Waffen
+patch=1,EE,202a1ae0,extended,00000000
+patch=1,EE,202a1b44,extended,00000000
+
+//unendlich Munition alle Waffen 2
+patch=1,EE,202a1adc,extended,24020063
+patch=1,EE,202a1b40,extended,240203E7
+
+//Infinite Ammo-All Weapons (Inside Car) / unendlich Munition alle Waffen
+patch=1,EE,202A31C8,extended,00000000
+patch=1,EE,202A3228,extended,00000000
+
+//unendlich Schutz
+patch=1,EE,201c0b64,extended,00000000
+
+//Aufstand
+patch=1,EE,201D28E8,extended,2404FFFF

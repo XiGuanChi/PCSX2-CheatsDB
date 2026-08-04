@@ -1,0 +1,32 @@
+gametitle=Ratchet & Clank SCES-50916
+//Infinite Health
+patch=1,EE,201416F8,extended,00000004
+
+//Infinite Air
+patch=1,EE,201416F0,extended,00002710
+
+//Giant Clank Has Infinite Health
+patch=1,EE,20141080,extended,000000C8
+
+//Infinite Bolts
+patch=1,EE,2015ED98,extended,5F000FAB
+
+//Unlock all Planets
+patch=1,EE,2013D510,extended,00000001
+patch=1,EE,2013D514,extended,00000002
+patch=1,EE,2013D518,extended,00000003
+patch=1,EE,2013D51C,extended,00000004
+patch=1,EE,2013D520,extended,00000005
+patch=1,EE,2013D524,extended,00000006
+patch=1,EE,2013D528,extended,00000007
+patch=1,EE,2013D52C,extended,00000008
+patch=1,EE,2013D530,extended,00000009
+patch=1,EE,2013D534,extended,0000000A
+patch=1,EE,2013D538,extended,0000000B
+patch=1,EE,2013D53C,extended,0000000C
+patch=1,EE,2013D540,extended,0000000D
+patch=1,EE,2013D544,extended,0000000E
+patch=1,EE,2013D548,extended,0000000F
+patch=1,EE,2013D54C,extended,00000010
+patch=1,EE,2013D550,extended,00000011
+patch=1,EE,2013D554,extended,00000012

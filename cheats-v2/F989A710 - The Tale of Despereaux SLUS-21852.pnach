@@ -1,0 +1,14 @@
+gametitle=The Tale of Despereaux SLUS-21852
+//God Mode +1 Hit Kill
+patch=1,EE,2010F780,extended,0C028000
+patch=1,EE,200A0000,extended,3C0100B8
+patch=1,EE,200A0004,extended,3421B10C
+patch=1,EE,200A0008,extended,10330003
+patch=1,EE,200A000C,extended,00000000
+patch=1,EE,200A0010,extended,08075186
+patch=1,EE,200A0014,extended,00000000
+patch=1,EE,200A0018,extended,03E00008
+patch=1,EE,202514B8,extended,AC400008
+
+//99999 Cheese
+patch=1,EE,2131d778,extended,0001869f

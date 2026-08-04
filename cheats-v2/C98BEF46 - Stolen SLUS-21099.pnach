@@ -1,0 +1,39 @@
+gametitle=Stolen SLUS-21099
+//Infinite Health
+patch=1,EE,201E9370,extended,00000000
+
+//Infinite Trackers
+patch=1,EE,2083DD94,extended,00000063
+
+//Infinite Nullifiers
+patch=1,EE,2083DDA4,extended,00000063
+
+//Infinite Sonic Emitters
+patch=1,EE,2083DDB4,extended,00000063
+
+//Infinite Motion Tripwires
+patch=1,EE,2083DDC4,extended,00000063
+
+//Infinite Grand Tracker
+patch=1,EE,2083DDD4,extended,00000063
+
+//Infinite Health Packs
+patch=1,EE,2083DDE4,extended,00000063
+
+//Enable Trackers
+patch=1,EE,2083DD9C,extended,00000000
+
+//Enable Nullifiers
+patch=1,EE,2083DDAC,extended,00000000
+
+//Enable Sonic Emitters
+patch=1,EE,2083DDBC,extended,00000000
+
+//Enable Motion Tripwires
+patch=1,EE,2083DDCC,extended,00000000
+
+//Enable Grand Tracker
+patch=1,EE,2083DDDC,extended,00000000
+
+//All Concept Art
+patch=1,EE,204B2848,extended,00000000

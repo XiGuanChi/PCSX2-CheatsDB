@@ -1,0 +1,45 @@
+gametitle=Tales of Fandom Vol. 2 (Tear Version) SLPS-25773
+//Maximum Money
+patch=1,EE,202DB810,extended,05F5E0FF
+
+//All items
+patch=1,EE,402E1068,extended,00100001
+patch=1,EE,11111111,extended,00000000
+
+//All title
+patch=1,EE,402E10BC,extended,00180001
+patch=1,EE,01010101,extended,00000000
+
+//Appearance in various ways - gallery, theater and chat will appear
+patch=1,EE,402E1168,extended,00060001
+patch=1,EE,11111111,extended,00000000
+
+//All gallery
+patch=1,EE,202E1128,extended,01010101
+patch=1,EE,202E112C,extended,01010101
+patch=1,EE,202E1130,extended,01010101
+patch=1,EE,202E1134,extended,01010101
+patch=1,EE,202E1138,extended,00010101
+
+//Chat all theater
+patch=1,EE,402E1180,extended,00120001
+patch=1,EE,01010101,extended,00000000
+
+//Donjara Mode - Character all
+patch=1,EE,202E1454,extended,FFFFFFFF
+
+//Donjara Mode - Role list all
+patch=1,EE,202E1458,extended,FFFFFFFF
+patch=1,EE,202E145C,extended,FFFFFFFF
+patch=1,EE,202E1460,extended,FFFFFFFF
+patch=1,EE,202E1464,extended,FFFFFFFF
+
+//Casino - The success even choose a double up one of Black Jack
+patch=1,EE,2015E368,extended,24020001
+
+//Sniper - not damage
+patch=1,EE,201DD188,extended,10000036
+
+//Infinite items
+patch=1,EE,201DC220,extended,24420000
+patch=1,EE,201DC340,extended,24630000

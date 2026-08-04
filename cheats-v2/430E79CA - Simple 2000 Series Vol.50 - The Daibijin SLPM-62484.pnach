@@ -1,0 +1,40 @@
+gametitle=Simple 2000 Series Vol.50 - The Daibijin SLPM-62484
+//Quest mode all appearance
+patch=1,EE,203EA770,extended,01010101
+patch=1,EE,203EA774,extended,01010101
+patch=1,EE,203EA778,extended,01010101
+patch=1,EE,203EA77C,extended,01010101
+patch=1,EE,203EA780,extended,01010101
+patch=1,EE,003EA786,extended,00000001
+patch=1,EE,103EA76E,extended,00000101
+patch=1,EE,103EA784,extended,00000101
+
+//Quest fully open mode, and browse
+patch=1,EE,20184614,extended,00430821
+patch=1,EE,20184618,extended,24020001
+patch=1,EE,20184620,extended,A022A76E
+
+//Hidden Swimwear & hidden difficulty adding
+patch=1,EE,003A777C,extended,000000FF
+patch=1,EE,003EA766,extended,000000FF
+patch=1,EE,003EA768,extended,000000FF
+
+//Responsibility part
+patch=1,EE,203EA770,extended,01010101
+patch=1,EE,203EA774,extended,01010101
+patch=1,EE,203EA778,extended,01010101
+patch=1,EE,203EA77C,extended,01010101
+patch=1,EE,203EA780,extended,01010101
+patch=1,EE,203EA786,extended,00000001
+patch=1,EE,103EA76E,extended,00000101
+patch=1,EE,103EA784,extended,0000007F
+
+//Ownership responsibility Development
+patch=1,EE,20184614,extended,00430821
+patch=1,EE,20184618,extended,24020001
+patch=1,EE,20184620,extended,A022A76E
+
+//basis Difficulty emergence
+patch=1,EE,003A777C,extended,000000FF
+patch=1,EE,003EA766,extended,000000FF
+patch=1,EE,003EA768,extended,000000FF

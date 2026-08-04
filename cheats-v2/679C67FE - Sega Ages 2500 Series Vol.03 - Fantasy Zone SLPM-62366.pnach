@@ -1,0 +1,17 @@
+gametitle=Sega Ages 2500 Series Vol.03 - Fantasy Zone SLPM-62366
+//Infinite Lives
+patch=1,EE,20493A00,extended,00000009
+
+//Infinite Gold
+patch=1,EE,20493A08,extended,05F5E0FF
+
+//Invinicble
+patch=1,EE,204B4CD8,extended,00000001
+
+//Gallery full open (save reflection) with 1 challenge clear
+patch=1,EE,203B1130,extended,FFFFFFFF
+patch=1,EE,203B1134,extended,FFFFFFFF
+
+//All weapon attack power maximum
+patch=1,EE,402B1800,extended,000D0001
+patch=1,EE,00002710,extended,00000000

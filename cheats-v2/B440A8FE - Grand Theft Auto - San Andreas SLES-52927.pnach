@@ -1,0 +1,26 @@
+gametitle=Grand Theft Auto - San Andreas SLES-52927
+//infinity Ammo
+patch=1,EE,20134340,extended,24420000
+patch=1,EE,201343A4,extended,24420000
+
+//Money 99,999,999
+patch=1,EE,20709734,extended,05F5E0FF
+patch=1,EE,20709738,extended,05F5E0FF
+
+//All tags
+patch=1,EE,2066C5C0,extended,00000064
+
+//All Oysters Collected
+patch=1,EE,2080251C,extended,00000032
+
+//All Photos Taken
+patch=1,EE,208024EC,extended,00000032
+
+//infinite energy
+patch=1,EE,202A9BC8,extended,AC610580
+patch=1,EE,202A9BC0,extended,3C0142C8
+patch=1,EE,202A9BCC,extended,24030064
+
+//Infinite energy v2
+patch=1,EE,20709650,extended,00640064
+patch=1,EE,20709654,extended,00640064

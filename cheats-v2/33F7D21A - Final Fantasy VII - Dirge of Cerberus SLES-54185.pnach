@@ -1,0 +1,27 @@
+gametitle=Final Fantasy VII - Dirge of Cerberus SLES-54185
+//Infinite Gils
+patch=1,EE,20A09E08,extended,05F5E0FF
+
+//Infinite Health
+patch=1,EE,203346BC,extended,AC410020
+patch=1,EE,203346B8,extended,8C410004
+patch=1,EE,203346C0,extended,10000038
+
+//Infinite Potions
+patch=1,EE,20A096C0,extended,69300000
+patch=1,EE,20A096C4,extended,000003E7
+
+//Infinite Handgun Ammo
+patch=1,EE,10A08C00,extended,00000012
+patch=1,EE,10A096D0,extended,000003E7
+
+//Infinite Rifle Ammo
+patch=1,EE,10A08B34,extended,0000000F
+patch=1,EE,10A096DC,extended,000003E7
+
+//Infinite Machine Gun Ammo
+patch=1,EE,10A096E8,extended,000003E7
+patch=1,EE,10A08A68,extended,0000001B
+
+//One Shot Kill
+patch=1,EE,10A09E24,extended,00002710

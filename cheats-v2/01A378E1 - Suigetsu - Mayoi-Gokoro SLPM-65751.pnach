@@ -1,0 +1,9 @@
+gametitle=Suigetsu - Mayoi-Gokoro SLPM-65751
+//All Cleared & bonus
+patch=1,EE,20528EE0,extended,FFFF7FFF
+patch=1,EE,40528EE4,extended,05D00001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//New Game = Debug Menu 
+patch=0,EE,D0E8FB8A,extended,00000002
+patch=0,EE,10E8FB8A,extended,00000003

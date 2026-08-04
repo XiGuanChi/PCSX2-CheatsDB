@@ -1,0 +1,17 @@
+gametitle=King Arthur SLES-52861
+//Invincible Player
+patch=1,EE,005671C9,extended,00000001
+
+//Infinite Adrenaline
+patch=1,EE,00567208,extended,00000001
+
+//All Bonus Movies And Levels Open
+patch=1,EE,201BF040,extended,24020001
+
+//All Battle Arenas Open
+patch=1,EE,201BEFC0,extended,24020001
+
+//Pad Up To Freeze Mission Timer
+patch=1,EE,D050355C,extended,0000FFEF
+patch=1,EE,2027ACDC,extended,00000000
+

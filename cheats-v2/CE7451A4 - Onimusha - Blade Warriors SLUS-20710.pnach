@@ -1,0 +1,14 @@
+gametitle=Onimusha - Blade Warriors SLUS-20710
+//Infinite Health Player 1
+patch=1,EE,20509AB8,extended,00640064
+
+//Infinite Special Player 1
+patch=1,EE,20509AC0,extended,00320032
+
+//All Characters
+patch=1,EE,40500DC8,extended,00080001
+patch=1,EE,01010101,extended,00000000
+
+//All Stages
+patch=1,EE,40500DF8,extended,00070001
+patch=1,EE,01010101,extended,00000000

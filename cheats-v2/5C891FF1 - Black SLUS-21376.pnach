@@ -1,0 +1,13 @@
+gametitle=Black SLUS-21376
+//Infinite Health
+patch=1,EE,205A8DA8,extended,44960000
+
+//Infinite Health Kits
+patch=1,EE,2013CBF4,extended,24840000
+
+//Infinite Ammo-All Weapons
+patch=1,EE,20157878,extended,24420000
+
+//All Levels
+patch=1,EE,4048EFC4,extended,00200008
+patch=1,EE,00010000,extended,00000000

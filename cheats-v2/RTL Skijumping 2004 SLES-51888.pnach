@@ -1,0 +1,6 @@
+gametitle=RTL Skijumping 2004 SLES-51888
+//Infinite Skill Points
+patch=1,EE,20525B30,extended,42480000
+
+//Infinite Power Points
+patch=1,EE,20525B38,extended,00000064

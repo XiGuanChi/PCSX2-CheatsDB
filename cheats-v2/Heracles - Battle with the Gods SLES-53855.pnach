@@ -1,0 +1,24 @@
+gametitle=Heracles - Battle with the Gods SLES-53855
+//1 killed enemy is worth 50 killed enemies 
+patch=1,EE,204ACFC0,extended,24420032
+
+//1 Hit Kill all bosses 
+patch=1,EE,204B7E24,extended,24020000
+patch=1,EE,204B0D5C,extended,24020000
+patch=1,EE,204B4144,extended,24020000
+patch=1,EE,204B9FD4,extended,24020000
+patch=1,EE,204B6488,extended,24020000
+
+//Always have 99 lives 
+patch=1,EE,2051E7C4,extended,00000063
+
+//Always invulnerable 
+patch=1,EE,204A1780,extended,10000003
+patch=1,EE,204A1790,extended,24020064
+
+//Only 1 enemy must be killed to unlock the bonus leve
+patch=1,EE,204D9A00,extended,00000000
+
+//Untouchable in the boss levels 
+patch=1,EE,204947AC,extended,1000004E
+patch=1,EE,204B01DC,extended,1000003F

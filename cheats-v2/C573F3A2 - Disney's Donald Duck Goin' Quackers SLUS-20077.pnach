@@ -1,0 +1,9 @@
+gametitle=Disney's Donald Duck Goin' Quackers SLUS-20077
+//Infinite Lives
+patch=1,EE,1087F074,extended,00000005
+
+//Infinite Time
+patch=1,EE,105C2D6C,extended,00009F9F
+
+//Max Cogs
+patch=1,EE,1087F070,extended,00000064

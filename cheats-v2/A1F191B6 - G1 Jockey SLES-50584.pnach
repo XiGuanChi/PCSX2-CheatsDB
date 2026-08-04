@@ -1,0 +1,19 @@
+gametitle=G1 Jockey SLES-50584
+//Infinite Riding Points
+patch=1,EE,208641C8,extended,00008000
+
+//Pots Of Cash
+patch=1,EE,208641B8,extended,00009999
+patch=1,EE,208641BC,extended,00009999
+
+//100 Wins
+patch=1,EE,20864150,extended,00000064
+patch=1,EE,208641D8,extended,00000064
+
+//Infinite Stamina
+patch=1,EE,20116610,extended,03E00008
+patch=1,EE,20116614,extended,00000000
+
+//Great Finishing Speed
+patch=1,EE,2013AF20,extended,03E00008
+patch=1,EE,2013AF24,extended,00000000

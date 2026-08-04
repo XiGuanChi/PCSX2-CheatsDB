@@ -1,0 +1,14 @@
+gametitle=Backyard Wrestling 2 - There Goes the Neighborhood SLUS-21043
+//Infinite Health P1
+patch=1,EE,105501C8,extended,00001F40
+
+//One-Hit Death P2
+patch=1,EE,D0552F18,extended,00001F40
+patch=1,EE,10552F18,extended,00000001
+
+//Max Money
+patch=1,EE,20539BB0,extended,05F5E0FF
+
+//All Movies
+patch=1,EE,405313E0,extended,00050009
+patch=1,EE,00000001,extended,00000000

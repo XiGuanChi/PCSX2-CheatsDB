@@ -1,0 +1,20 @@
+gametitle=The Guy Game SLUS-21074
+//Unlock All Episodes/Super Stiff Mode
+patch=1,EE,20148E2C,extended,24020002
+patch=1,EE,20148E30,extended,AC620000
+patch=1,EE,20148E3C,extended,ACE40190
+patch=1,EE,20148E40,extended,00000000
+
+//Start With Max Money
+patch=1,EE,200C0220,extended,3C0505F5
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,34A5E0FF
+patch=1,EE,20158B2C,extended,0C030088
+
+//Unlock All Videos
+patch=1,EE,20111364,extended,24030001
+patch=1,EE,20111368,extended,A0430F09
+
+//Unlock All Pictures
+patch=1,EE,201113A4,extended,24030001
+patch=1,EE,201113A8,extended,A0430F10

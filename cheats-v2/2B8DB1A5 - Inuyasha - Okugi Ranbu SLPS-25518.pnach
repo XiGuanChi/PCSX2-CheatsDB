@@ -1,0 +1,14 @@
+gametitle=Inuyasha - Okugi Ranbu
+//No Health P2
+patch=1,EE,1044AD64,extended,00000000
+
+//Mission Mode All characters available
+patch=1,EE,0043381C,extended,00000002
+patch=1,EE,00433818,extended,00000002
+patch=1,EE,00433810,extended,00000002
+patch=1,EE,00433820,extended,00000002
+
+//Story Mode All stages available
+patch=1,EE,00433854,extended,00000002
+patch=1,EE,00433858,extended,00000002
+patch=1,EE,0043385C,extended,00000002

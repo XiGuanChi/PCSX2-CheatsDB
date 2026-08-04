@@ -1,0 +1,35 @@
+gametitle=The Sims -  Bustin’ Out SLUS-20842
+//Max Money
+patch=1,EE,200C0220,extended,3C01000F
+patch=1,EE,200C0224,extended,3421423F
+patch=1,EE,200C0228,extended,08074020
+patch=1,EE,200C022C,extended,ACC10480
+patch=1,EE,201BA9EC,extended,0C030088
+
+//Motives Dont Go Down
+patch=1,EE,202D38D8,extended,03E00008
+patch=1,EE,202D38DC,extended,00000000
+
+//Bladder Motive Never Decreases
+patch=1,EE,202D4070,extended,00000000
+
+//Comfort Motive Never Decreases
+patch=1,EE,202D3FA4,extended,00000000
+
+//Energy Motive Never Decreases
+patch=1,EE,202D3EF8,extended,00000000
+
+//Hunger Motive Never Decreases
+patch=1,EE,202D3FA8,extended,00000000
+
+//Hygiene Motive Never Decreases
+patch=1,EE,202D406C,extended,00000000
+
+//All Items Are Free
+patch=1,EE,203F8750,extended,00000000
+
+//All Objects Unlocked
+patch=1,EE,103F8758,extended,00000001
+
+//Unlock All Houses
+patch=1,EE,203F875C,extended,00000001

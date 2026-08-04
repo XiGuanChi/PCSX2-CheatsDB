@@ -1,0 +1,38 @@
+gametitle=Shinobido - Way of the Ninja SCES-53931
+//Money 9999999
+patch=1,EE,2062a008,extended,0098967F
+
+//Max HP in Mission
+patch=1,EE,2029f06c,extended,080a7ead
+patch=1,EE,2029fab4,extended,8C410020
+patch=1,EE,2029fab8,extended,080a7c1f
+patch=1,EE,2029fabC,extended,AC41001C
+
+//Theater/Secret full opening
+patch=1,EE,20636644,extended,FFFFFFFF
+patch=1,EE,20636648,extended,FFFFFFFF
+patch=1,EE,2063664C,extended,FFFFFFFF
+patch=1,EE,20636650,extended,FFFFFFFF
+patch=1,EE,20636634,extended,FFFFFFFF
+patch=1,EE,20636638,extended,FFFFFFFF
+patch=1,EE,20636624,extended,01010101
+patch=1,EE,20636628,extended,01010101
+patch=1,EE,1063662C,extended,00000101
+
+//1 Hit to Kill
+patch=1,EE,20237154,extended,24032710
+patch=1,EE,20237164,extended,24020001
+
+//Invisible
+patch=1,EE,200F8200,extended,16200003
+patch=1,EE,200F8204,extended,3C030080
+patch=1,EE,200F8208,extended,00832025
+patch=1,EE,200F820C,extended,AE440280
+patch=1,EE,200F8210,extended,03E00008
+patch=1,EE,200F8214,extended,3C038000
+patch=1,EE,2011acd0,extended,0C03E080
+
+//All Missions
+patch=1,EE,202B27A4,extended,00000000
+patch=1,EE,202B27B0,extended,00000000
+patch=1,EE,202B28C8,extended,00000000

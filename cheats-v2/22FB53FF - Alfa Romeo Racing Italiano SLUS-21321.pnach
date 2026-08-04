@@ -1,0 +1,32 @@
+gametitle=Alfa Romeo Racing Italiano SLUS-21321
+//Unlock All Skills 
+patch=1,EE,204452D0,extended,24020000
+patch=1,EE,204452D4,extended,03E00008
+patch=1,EE,204452D8,extended,AC82031C
+
+//Infinite Skill Points 
+patch=1,EE,204461DC,extended,00000000
+
+//Extra Skill Points 
+patch=1,EE,104461D8,extended,00000001
+
+//Max Infinite Skill Points 
+patch=1,EE,204461D8,extended,2402270F
+
+//Press L1+Select To Rest Race Timer 
+patch=1,EE,D05A5C9C,extended,0000FBFE
+patch=1,EE,202B063C,extended,AC600008
+patch=1,EE,D05A5C9C,extended,0000FFFF
+patch=1,EE,202B063C,extended,E4600008
+
+//No Car Damage From Collisions 
+patch=1,EE,202E6E48,extended,00000000
+
+//No Car Damage From Driving Offroad 
+patch=1,EE,202E77E8,extended,00000000
+
+//Infinite Tiger Effect 
+patch=1,EE,102E7866,extended,00001000
+
+//Always Best Driver Condition 
+patch=1,EE,102E789E,extended,00001000

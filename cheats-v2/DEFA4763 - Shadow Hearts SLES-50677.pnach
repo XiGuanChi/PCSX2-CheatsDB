@@ -1,0 +1,85 @@
+gametitle=Shadow Hearts SLES-50677
+//Max Money
+patch=1,EE,20100008,extended,0098967F
+
+patch=1,EE,20100008,extended,0098967F
+
+//All Souls
+patch=1,EE,101001CE,extended,00000101
+patch=1,EE,201001D0,extended,01010101
+patch=1,EE,201001D4,extended,01010101
+patch=1,EE,201001D8,extended,01010101
+patch=1,EE,001001DC,extended,00000001
+
+//Inf HP - Yuri
+patch=1,EE,10100286,extended,000003E7
+patch=1,EE,101002A0,extended,000003E7
+
+//Inf MP - Yuri
+patch=1,EE,10100288,extended,000003E7
+patch=1,EE,101002A2,extended,000003E7
+
+//Inf SP - Yuri
+patch=1,EE,1010028A,extended,000003E7
+patch=1,EE,101002A4,extended,000003E7
+
+//Quick Level Up
+patch=1,EE,2010028C,extended,05F5E0FF
+
+//Inf HP - Alice
+patch=1,EE,101002D6,extended,000003E7
+patch=1,EE,101002F0,extended,000003E7
+
+//Inf MP - Alice
+patch=1,EE,101002D8,extended,000003E7
+patch=1,EE,101002F2,extended,000003E7
+
+//Inf SP - Alice
+patch=1,EE,101002DA,extended,000003E7
+patch=1,EE,101002F4,extended,000003E7
+
+//Quick Level Up
+patch=1,EE,201002DC,extended,05F5E0FF
+
+//Inf HP - Zhuzhen
+patch=1,EE,10100326,extended,000003E7
+patch=1,EE,10100340,extended,000003E7
+
+//Inf MP - Zhuzhen
+patch=1,EE,10100328,extended,000003E7
+patch=1,EE,10100342,extended,000003E7
+
+//Inf SP - Zhuzhen
+patch=1,EE,1010032A,extended,000003E7
+patch=1,EE,10100344,extended,000003E7
+
+//Quick Level Up
+patch=1,EE,2010032C,extended,05F5E0FF
+
+//Inf HP - Margarete
+patch=1,EE,10100376,extended,000003E7
+patch=1,EE,10100390,extended,000003E7
+
+//Inf MP - Margarete
+patch=1,EE,10100378,extended,000003E7
+patch=1,EE,10100392,extended,000003E7
+
+//Inf SP-Margarete
+patch=1,EE,1010037A,extended,000003E7
+patch=1,EE,10100394,extended,000003E7
+
+//Quick Level Up
+patch=1,EE,2010037C,extended,05F5E0FF
+
+//Inf HP - Kieth
+patch=1,EE,101003C6,extended,000003E7
+patch=1,EE,101003E0,extended,000003E7
+
+//Inf MP - Kieth
+patch=1,EE,101003C8,extended,000003E7
+patch=1,EE,101003E2,extended,000003E7
+
+//Inf SP - Keith
+patch=1,EE,101003CA,extended,000003E7
+patch=1,EE,101003E4,extended,000003E7
+

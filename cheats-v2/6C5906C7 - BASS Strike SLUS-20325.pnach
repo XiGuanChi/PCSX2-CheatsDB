@@ -1,0 +1,11 @@
+gametitle=BASS Strike SLUS-20325
+//0 Fish Caught Opp Tournament
+patch=1,EE,103B7E68,extended,00000000
+
+//Infinite Time (Arcade Mode)
+patch=1,EE,103B7E1E,extended,00005000
+
+//Instant Win (Arcade Mode)
+patch=1,EE,103B7E1E,extended,00000000
+patch=1,EE,103B7E64,extended,00000009
+patch=1,EE,103B7E4C,extended,0000270F

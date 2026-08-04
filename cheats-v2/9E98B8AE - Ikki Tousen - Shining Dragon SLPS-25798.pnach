@@ -1,0 +1,34 @@
+gametitle=Ikki Tousen - Shining Dragon SLPS-25798
+//Infinite HP
+patch=1,EE,20152CB4,extended,8C810244
+patch=1,EE,20152CBC,extended,AC810248
+
+//Infinite Energy
+patch=1,EE,10b503d6,extended,00004348
+patch=1,EE,10b503da,extended,00004348
+
+//Infinite Special Energy
+patch=1,EE,10b503e2,extended,000042c8
+
+//Explosion fighter biographies cleared
+patch=1,EE,00B130E1,extended,00000001
+
+//Eight team and cosplay mode stone soldier Cleared
+patch=1,EE,20B130F4,extended,01010101
+patch=1,EE,20B130F8,extended,01010101
+patch=1,EE,20B130FC,extended,01010101
+patch=1,EE,20B13100,extended,01010101
+patch=1,EE,20B13104,extended,01010101
+patch=1,EE,20B13108,extended,01010101
+patch=1,EE,20B1310C,extended,01010101
+patch=1,EE,20B13110,extended,01010101
+
+//Cosplay mode addition
+patch=1,EE,10B13048,extended,00000101
+
+//Hidden character appearance
+patch=1,EE,00B131A0,extended,00000001
+patch=1,EE,00B13200,extended,00000001
+patch=1,EE,00B13320,extended,00000001
+patch=1,EE,00B13440,extended,00000001
+

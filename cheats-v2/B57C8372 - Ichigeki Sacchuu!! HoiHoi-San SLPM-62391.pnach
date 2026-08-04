@@ -1,0 +1,44 @@
+gametitle=Ichigeki Sacchuu!! HoiHoi-San SLPM-62391
+//Invincible
+patch=1,EE,201A7794,extended,10000010
+
+//Max Gold Money
+patch=1,EE,205514EC,extended,000F423F
+
+//Max Points
+patch=1,EE,20582C0C,extended,05F5E0F6
+
+//something unlocked you have to open up OMAKE Movie Mode 1st
+patch=1,EE,2055177C,extended,007FFFFF
+
+//Stage clear by pressing Select
+patch=1,EE,2020950C,extended,14400036
+patch=1,EE,D038CB84,extended,00000100
+patch=1,EE,2020950C,extended,00000000
+
+//One hit Kill on Enemy for type of centipede you have to target the right spot
+patch=1,EE,201CAF5C,extended,24030000
+patch=1,EE,201CBEC8,extended,10000011
+patch=1,EE,201CD280,extended,1000003F
+patch=1,EE,201D69B8,extended,10000018
+patch=1,EE,201DB198,extended,10000016
+
+//All Weapon unlocked
+patch=1,EE,00582C29,extended,00000002
+patch=1,EE,00582C2C,extended,00000002
+patch=1,EE,10582C2A,extended,00000202
+
+//Mission-Stage 8-1 Opened- Unlocked
+patch=1,EE,20582C10,extended,33333333
+patch=1,EE,20582C14,extended,33333333
+patch=1,EE,20582C18,extended,33333333
+patch=1,EE,20582C1C,extended,33333333
+
+//All Stages unlocked
+patch=1,EE,201BA104,extended,0098967F
+patch=1,EE,201BA108,extended,00000064
+patch=1,EE,201BA128,extended,0001869F
+patch=1,EE,201BA118,extended,0001869F
+patch=1,EE,2014F77C,extended,0000270F
+patch=1,EE,2011DB34,extended,24030001
+patch=1,EE,2011DB80,extended,24110000

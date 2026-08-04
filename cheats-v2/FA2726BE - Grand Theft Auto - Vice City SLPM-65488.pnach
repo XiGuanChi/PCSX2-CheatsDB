@@ -1,0 +1,57 @@
+gametitle=Grand Theft Auto - Vice City SLPM-65488
+//Possession money MAX
+patch=1,EE,20292130,extended,080A4850
+patch=1,EE,2029215C,extended,080A485B
+
+//Possession money MAX A
+patch=1,EE,205D48DC,extended,3B9AC9FF
+patch=1,EE,205D48E0,extended,3B9AC9FF
+
+//A large amount of weapons for hideouts
+patch=1,EE,205D48E4,extended,00000064
+
+//Bulletproof vest 500
+patch=1,EE,202D947C,extended,3C0343FA
+patch=1,EE,202D9480,extended,AC43036C
+
+//Infinite dash
+patch=1,EE,201D0CD4,extended,24030001
+
+//Infinite bullets
+patch=1,EE,201583E0,extended,00401021
+patch=1,EE,20158B50,extended,00401021
+
+//Do not lose weapons
+patch=1,EE,201B3EB8,extended,0401005F
+
+//Infinite time limit Normal missions and submissions do not reduce time
+patch=1,EE,20273FB8,extended,4A0002FF
+
+//Car does not puncture 
+patch=1,EE,2015C964,extended,38640000
+
+//Arrangement level 0 Ready to go to level 0 with L2 + L3 If you change the crime level in the ready state, it will be 0. L2 + R3 will return to the original arrangement level.
+patch=1,EE,D05CDC02,extended,0000FEFD
+patch=1,EE,202A350C,extended,12730068
+patch=1,EE,D05CDC02,extended,0000FEFB
+patch=1,EE,202A350C,extended,10200002
+
+//Bulletproof specifications for all cars Bulletproof with L1 + L3, normal with L1 + R3
+patch=1,EE,D05CDC02,extended,0000FBFD
+patch=1,EE,20186E78,extended,00601824
+patch=1,EE,D05CDC02,extended,0000FBFB
+patch=1,EE,20186E78,extended,00031FFE
+
+//Car will not be damaged No damage with R2 + L3, normal damage with R2 + R3
+patch=1,EE,D05CDC02,extended,0000FDFD
+patch=1,EE,20170040,extended,00001FFE
+patch=1,EE,D05CDC02,extended,0000FDFB
+patch=1,EE,20170040,extended,00031FFE
+
+//The bike will not be damaged
+patch=1,EE,2039D2A0,extended,3C0242C8
+patch=1,EE,2039D2B8,extended,E6810204
+patch=1,EE,2039D2CC,extended,1440015A
+
+
+

@@ -1,0 +1,8 @@
+gametitle=Forgotten Realms - Demon Stone SLPM-65927
+//Infinite HP
+patch=1,EE,2026320C,extended,3C013F80
+patch=1,EE,20263210,extended,44810000
+patch=1,EE,20263208,extended,E460030C
+
+//Gold 99999999
+patch=1,EE,2050C084,extended,05F5E0FF

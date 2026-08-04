@@ -1,0 +1,7 @@
+gametitle=Kamaitachi no Yoru 2 SLPS-25135
+//Auto play speed 0 with R1 + R2 buttons
+patch=1,EE,D1F8D882,extended,0000F5FF
+patch=1,EE,21F57260,extended,00000000
+
+//Enable Debug Menu
+patch=1,EE,2017A074,extended,24020001

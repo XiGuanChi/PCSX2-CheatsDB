@@ -1,0 +1,8 @@
+gametitle=D.C.II P.S. - Da Capo II Plus Situation SLPM-66924-5
+//Extra Full opening
+patch=1,EE,405057EC,extended,00510001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//New Game = Debug Menu
+patch=1,EE,205E24FC,extended,000FB000
+patch=1,EE,205E2500,extended,0000808B

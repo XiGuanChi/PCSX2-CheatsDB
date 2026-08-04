@@ -1,0 +1,14 @@
+gametitle=The Getaway SCUS-97133
+//Infinite Health
+patch=1,EE,2018E4CC,extended,3C0140C0
+patch=1,EE,2018E4DC,extended,AE010360
+
+//Immune To Bullets
+patch=1,EE,201ACBA0,extended,03E00008
+patch=1,EE,201ACBA4,extended,00000000
+
+//infinite Ammo
+patch=1,EE,201751C0,extended,00000000
+
+//Unlock Extra Features
+patch=1,EE,20392708,extended,00000002

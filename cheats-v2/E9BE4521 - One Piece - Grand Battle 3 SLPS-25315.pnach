@@ -1,0 +1,18 @@
+gametitle=One Piece - Grand Battle 3 SLPS-25315
+//Difficulty strongest appearance
+patch=1,EE,01E3B4B8,extended,00000001
+
+//Competition stage all
+patch=1,EE,01E3B4BC,extended,0000007F
+
+//Gallery and hidden characters all
+patch=1,EE,21E3B4C4,extended,FFFFFFFF
+patch=1,EE,11E3B4C8,extended,0000FFFF
+
+//Card Collection all
+patch=1,EE,21E3B4FC,extended,FFFFFFFF
+patch=1,EE,11E3B500,extended,0000FFFF
+
+//Hidden characters costume all At the same time gallery, also emerged ending
+patch=1,EE,41E3B504,extended,00100010
+patch=1,EE,0000FFFF,extended,00000000

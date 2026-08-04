@@ -1,0 +1,13 @@
+gametitle=Hitman 2 - Silent Assassin SLUS-20374 SLES-50992-51107-51108-51109-51110
+//Infinite Health
+patch=1,EE,2015C7DC,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,202DE9AC,extended,00000000
+
+//God Mode
+patch=1,EE,204DA580,extended,3F800000
+
+//All Weapons/Max Ammo
+patch=1,EE,201567E0,extended,00000000
+patch=1,EE,20156898,extended,00000000

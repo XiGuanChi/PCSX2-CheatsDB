@@ -1,0 +1,18 @@
+gametitle=Silent Scope  2  - Dark Silhouette SLUS-20243
+//Infinite Health Player 1
+patch=1,EE,2025084C,extended,00000100
+
+//Infinite Bullets Player 1
+patch=1,EE,20250876,extended,00000006
+
+//Infinite Credits
+patch=1,EE,20262674,extended,00000005
+
+//Infinite Time
+patch=1,EE,10250882,extended,000000FF
+
+//Have All Bosses
+patch=1,EE,203E161E,extended,0000FFFF
+
+//Have All Extra Options
+patch=1,EE,203E1618,extended,FFFFFFFF

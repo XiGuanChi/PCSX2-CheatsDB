@@ -1,0 +1,21 @@
+gametitle=Saru! Get You! 2 SCPS-15025
+//Infinite Lives
+patch=1,EE,203C0218,extended,38F878EF
+
+//Infinite Cookies
+patch=1,EE,203C021C,extended,38F87870
+
+//Max Gold Coins
+patch=1,EE,203C0220,extended,38F87B25
+
+//Unlock All Stages
+patch=1,EE,203C0224,extended,38F8787A
+
+//Have All Stages Cleared
+patch=1,EE,203C0228,extended,38F8787A
+
+//Have All Standard Gadgets
+patch=1,EE,203C022C,extended,38F878DD
+
+//Unlock All MiniGames
+patch=1,EE,203C0504,extended,3DF979C7

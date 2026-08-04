@@ -1,0 +1,16 @@
+gametitle=Guilty Gear XX Reload SLKA-25070 
+//All characters use All
+patch=1,EE,40307158,extended,00130001
+patch=1,EE,01010101,extended,00000000
+
+//Mission Gallery all
+patch=1,EE,40308C2C,extended,00080001
+patch=1,EE,01010101,extended,00000000
+
+//Mission all Complete
+patch=1,EE,40308C4C,extended,00320001
+patch=1,EE,00010001,extended,00000000
+
+//Arcade, story gallery all
+patch=1,EE,40308D3C,extended,000B0001
+patch=1,EE,07070707,extended,00000000

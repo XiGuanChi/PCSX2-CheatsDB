@@ -1,0 +1,9 @@
+gametitle=Legacy of Kain - Soul Reaver 2 SLUS-20165
+//R3 For Invincibility -  L3 To Disable
+patch=1,EE,D026CAC0,extended,0000FFFB
+patch=1,EE,1023BAD4,extended,00000000
+patch=1,EE,D026CAC0,extended,0000FFFD
+patch=1,EE,1023BAD4,extended,00000800
+
+//Have All Abilities
+patch=1,EE,20241C64,extended,3FFFFEFF

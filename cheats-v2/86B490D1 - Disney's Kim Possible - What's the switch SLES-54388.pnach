@@ -1,0 +1,12 @@
+gametitle=Disney's Kim Possible - What's the switch SLES-54388
+//infinite Health
+patch=1,EE,21350e90,extended,24030002
+
+//Lives
+patch=1,EE,10d072c4,extended,00000009
+
+//infinite Lives (alt.Code)
+patch=1,EE,20d21674,extended,00000000
+
+//99 Chips
+patch=1,EE,005fc31c,extended,00000063

@@ -1,0 +1,13 @@
+gametitle=Rune Princess SLPM-66157
+//CG 100% fully open
+patch=1,EE,4021A1F0,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,202AB3F0,extended,FFFFFFFF
+patch=1,EE,102A73B0,extended,0000FFFF
+patch=1,EE,0021A200,extended,000000FF
+
+//Unlock Everything
+patch=1,EE,2010EA08,extended,0C04D758
+patch=1,EE,20135D60,extended,2402FFFF
+patch=1,EE,20135D64,extended,A1E20000
+patch=1,EE,20135D6C,extended,91EF0000

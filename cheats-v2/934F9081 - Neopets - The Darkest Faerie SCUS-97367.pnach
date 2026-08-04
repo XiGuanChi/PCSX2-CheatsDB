@@ -1,0 +1,10 @@
+gametitle=Neopets - The Darkest Faerie SCUS-97367
+//Infinite Health
+patch=1,EE,203353C4,extended,00000096
+
+//Infinite Magic
+patch=1,EE,203353CC,extended,00000064
+
+//Infinite NeoPoints
+patch=1,EE,2037F2CC,extended,0000270F
+

@@ -1,0 +1,52 @@
+gametitle=The Sims 2 - Pets SLUS-21536
+//Max Money For New Family
+patch=1,EE,20530490,extended,05F5E0FF
+
+//Always Max Bladder
+patch=1,EE,201AD700,extended,3C0142C8
+patch=1,EE,201AD704,extended,44812800
+
+//Always Max Comfort
+patch=1,EE,201AD6A8,extended,3C0142C8
+patch=1,EE,201AD6C0,extended,44811800
+
+//Always Max Energy
+patch=1,EE,201AD658,extended,3C0142C8
+patch=1,EE,201AD670,extended,44811000
+
+//Always Max Fun
+patch=1,EE,201AD6F0,extended,3C0142C8
+patch=1,EE,201AD6F4,extended,44814800
+
+//Always Max Hygiene
+patch=1,EE,201AD6F0,extended,3C0142C8
+patch=1,EE,201AD6F4,extended,44814800
+
+//Always Max Motives
+patch=1,EE,2023CDC4,extended,00000000
+
+//Always Max Room
+patch=1,EE,201AD784,extended,3C0142C8
+patch=1,EE,201AD78C,extended,44810000
+
+//Always Max Social
+patch=1,EE,201AD730,extended,3C0142C8
+patch=1,EE,201AD734,extended,44814000
+
+//Motives Don't Decrease
+patch=1,EE,201ad5f0,extended,03E00008
+patch=1,EE,201ad5f4,extended,00000000
+
+//Hunger Never Decreases
+patch=1,EE,201AD6E8,extended,00000000
+
+//Max Motives+Asperation Bar
+patch=1,EE,2023cdb4,extended,3c0142c8
+
+//Money Press L3
+patch=1,EE,D1a547c2,extended,0000fffd
+patch=1,EE,21a5a30c,extended,05F5E0FF
+
+//Pet-Points Press R3
+patch=1,EE,D1a547c2,extended,0000fffb
+patch=1,EE,21a5a310,extended,05F5E0FF

@@ -1,0 +1,12 @@
+gametitle=Momotarou Dentetsu 11 SLPM-62266
+//Player 1 has 99990 money
+patch=1,EE,2031686C,extended,0000270F
+
+//Opponent 1 has 0 money
+patch=1,EE,203168B8,extended,00000000
+
+//Opponent 2 has 0 money
+patch=1,EE,20316820,extended,00000000
+
+//Opponent 3 has 0 money
+patch=1,EE,20316904,extended,00000000

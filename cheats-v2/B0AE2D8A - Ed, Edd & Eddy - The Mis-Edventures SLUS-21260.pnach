@@ -1,0 +1,20 @@
+gametitle=Ed, Edd & Eddy - The Mis-Edventures SLUS-21260
+//Infinite Cool/Fool Meter
+patch=1,EE,2079FC20,extended,0000000A
+
+//Max Coins
+patch=1,EE,2079CBA4,extended,0001869F
+
+//All Regular Jawbreakers
+patch=1,EE,2079C9FC,extended,FFFFFFFF
+patch=1,EE,2079CBA8,extended,FFFFFFFF
+
+//All Vintage Jawbreakers
+patch=1,EE,2079CA00,extended,FFFFFFFF
+patch=1,EE,2079CBAC,extended,FFFFFFFF
+
+//All Easter Eggs
+patch=1,EE,2079CBB0,extended,FFFFFFFF
+
+//All Costumes
+patch=1,EE,2079CBB4,extended,FFFFFFFF

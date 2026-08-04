@@ -1,0 +1,44 @@
+gametitle=Heroes of Might and Magic - Quest for the Dragon Bone Staff SLES-50186
+//Army Slot 1 4095 Troops
+patch=1,EE,102B1C98,extended,00000FFF
+
+//Constant 600 Days
+patch=1,EE,102A8932,extended,00000258
+
+//Pots Of Cash
+patch=1,EE,102B1E64,extended,0000FFFF
+patch=1,EE,102B1E66,extended,000000FF
+
+//Stacks Of Leadership
+patch=1,EE,102B1C92,extended,0000FFFF
+
+//Big Commission
+patch=1,EE,102B1C94,extended,00000FFF
+
+//0 Followers Killed
+patch=1,EE,102B1C96,extended,00000000
+
+//Inf Bridge/Time Stop
+patch=1,EE,102A895E,extended,00000A0A
+
+//Inf Villain/Ctle Gate
+patch=1,EE,102A8960,extended,00000A0A
+
+//Inf Town Gate/Inst Army
+patch=1,EE,102A8962,extended,00000A0A
+
+//Inf Raise Control
+patch=1,EE,102A8964,extended,00000A0A
+
+//Inf Clone
+patch=1,EE,102A8956,extended,00000A0A
+
+//Inf Teleport/Fireball
+patch=1,EE,102A8958,extended,00000A0A
+
+//Inf Lightning/Freeze
+patch=1,EE,102A895A,extended,00000A0A
+
+//Inf Resurrect/Turn Undead
+patch=1,EE,102A895C,extended,00000A0A
+

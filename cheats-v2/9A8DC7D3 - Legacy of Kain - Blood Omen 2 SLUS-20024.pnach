@@ -1,0 +1,14 @@
+gametitle=Legacy of Kain - Blood Omen 2 SLUS-20024
+//Have All Dark Gifts
+patch=1,EE,200C0220,extended,24010001
+patch=1,EE,200C0224,extended,AC81000C
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,8C82000C
+patch=1,EE,20254F60,extended,08030088
+
+//Invulnerable
+patch=1,EE,204915E0,extended,00000001
+
+//Have Soulreaver
+patch=1,EE,20491C88,extended,00000001
+

@@ -1,0 +1,21 @@
+gametitle=Dead to Rights II SLUS-20843
+//Infinite Health
+patch=1,EE,20659664,extended,000003E8
+
+//Infinite Adrenaline
+patch=1,EE,20659674,extended,0000002F
+
+//Infinite Body Armor
+patch=1,EE,20659684,extended,000001F4
+
+//Infinite Ammo
+patch=1,EE,2016891C,extended,00000000
+
+//Unlock Art Gallery 1
+patch=1,EE,719CA548,extended,00000001
+
+//Unlock Art Gallery 2
+patch=1,EE,719CA548,extended,00000002
+
+//Unlock All Difficulties
+patch=1,EE,219CA54C,extended,00000003

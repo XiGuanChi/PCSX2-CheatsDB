@@ -1,0 +1,6 @@
+gametitle=Kanuchi - Shiroki Tsubasa no Sho SLPM-55055
+//Infinite HP (100)
+patch=1,EE,21899D34,extended,00000064
+
+//Infinite Money (9999999)
+patch=1,EE,21899D30,extended,0098967F

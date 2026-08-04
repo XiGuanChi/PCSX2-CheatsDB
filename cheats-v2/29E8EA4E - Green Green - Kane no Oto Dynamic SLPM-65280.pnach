@@ -1,0 +1,46 @@
+gametitle=Green Green - Kane no Oto Dynamic SLPM-65280
+//Secret fully opened
+patch=1,EE,208ACBEC,extended,FFFFFFFF
+patch=1,EE,408ACC18,extended,000D0001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Clear flag ON 
+patch=1,EE,208ACBEC,extended,FFFFFFFF
+
+//SCENE REPLAY all 
+patch=1,EE,208ACC1C,extended,FFFFFFFF
+patch=1,EE,208ACC20,extended,FFFFFFFF
+patch=1,EE,208ACC24,extended,FFFFFFFF
+patch=1,EE,208ACC28,extended,FFFFFFFF
+patch=1,EE,208ACC2C,extended,FFFFFFFF
+patch=1,EE,208ACC30,extended,FFFFFFFF
+patch=1,EE,208ACC34,extended,FFFFFFFF
+patch=1,EE,208ACC38,extended,FFFFFFFF
+patch=1,EE,208ACC3C,extended,FFFFFFFF
+patch=1,EE,208ACC40,extended,FFFFFFFF
+
+//Whole scene ornamental possible (on clear flag)
+patch=1,EE,20369C74,extended,01010101
+patch=1,EE,20369C78,extended,01010101
+patch=1,EE,20369C7C,extended,01010101
+patch=1,EE,20369C80,extended,01010101
+patch=1,EE,20369C84,extended,01010101
+patch=1,EE,20369C88,extended,01010101
+patch=1,EE,10369C8C,extended,00000101
+
+//Songs appear in music appreciation (on clear flag)
+patch=1,EE,20366E04,extended,01010101
+patch=1,EE,20366E08,extended,01010101
+patch=1,EE,20366E0C,extended,01010101
+patch=1,EE,20366E10,extended,01010101
+patch=1,EE,20366E14,extended,01010101
+patch=1,EE,20366E18,extended,01010101
+patch=1,EE,20366E1C,extended,01010101
+patch=1,EE,20366E20,extended,01010101
+patch=1,EE,20366E24,extended,01010101
+patch=1,EE,20366E28,extended,01010101
+patch=1,EE,20366E2C,extended,01010101
+patch=1,EE,20366E30,extended,01010101
+patch=1,EE,20366E34,extended,01010101
+patch=1,EE,20366E38,extended,01010101
+patch=1,EE,10366E3C,extended,00000101

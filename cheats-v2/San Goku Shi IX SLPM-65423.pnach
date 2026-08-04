@@ -1,0 +1,47 @@
+gametitle=San Goku Shi IX SLPM-65423
+//When creating a new military commander, learn all military methods
+patch=1,EE,21C8FA9C,extended,7FFFFFFF
+
+//Required code
+patch=1,EE,2011E5A4,extended,0803C000
+patch=1,EE,200F1234,extended,03E00008
+
+//Resident of merchants in all cities
+patch=1,EE,200F0000,extended,3C08006F
+patch=1,EE,200F0004,extended,3508BC30
+patch=1,EE,200F0008,extended,2409002D
+patch=1,EE,200F000C,extended,3C0A0000
+patch=1,EE,200F0010,extended,254A0003
+patch=1,EE,200F0014,extended,AD0A0000
+patch=1,EE,200F0018,extended,2529FFFF
+patch=1,EE,200F001C,extended,25080200
+patch=1,EE,200F002C,extended,1520FFF9
+
+//Normal military commander ability limit MAX (255)
+patch=1,EE,200F0080,extended,3C040070
+patch=1,EE,200F0084,extended,34848728
+patch=1,EE,200F0088,extended,2405028A
+patch=1,EE,200F008C,extended,3C06000F
+patch=1,EE,200F0090,extended,DCC71600
+patch=1,EE,200F0094,extended,FC870000
+patch=1,EE,200F0098,extended,FC870008
+patch=1,EE,200F009C,extended,24A5FFFF
+patch=1,EE,200F00A0,extended,24840148
+patch=1,EE,200F00AC,extended,14A0FFF9
+patch=1,EE,200F1600,extended,000000FF
+patch=1,EE,200F1604,extended,000000FF
+
+//Normal all military commanders act infinitely Unlimited actions in the strategy phase
+patch=1,EE,200F0180,extended,3C040070
+patch=1,EE,200F0184,extended,348487B5
+patch=1,EE,200F0188,extended,2405028A
+patch=1,EE,200F018C,extended,24060001
+patch=1,EE,200F0190,extended,A0860000
+patch=1,EE,200F0194,extended,24A5FFFF
+patch=1,EE,200F0198,extended,24840148
+patch=1,EE,200F01A4,extended,14A0FFF9
+
+
+
+
+

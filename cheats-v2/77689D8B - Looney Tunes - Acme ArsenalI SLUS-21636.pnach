@@ -1,0 +1,34 @@
+gametitle=Looney Tunes - Acme ArsenalI SLUS-21636
+//Invincibility 
+patch=1,EE,202B2C50,extended,03E00008
+
+//Infinite Ammo 
+patch=1,EE,202BC4BC,extended,00000000
+
+//Infinite Health 
+patch=1,EE,201F6434,extended,C48C0010
+patch=1,EE,201F6438,extended,E48C000C
+patch=1,EE,201F643C,extended,E4AC0000
+
+//Infinite Power Up Usage(Green Bar)
+patch=1,EE,201DDF40,extended,E48F005C
+
+//Max Coins
+patch=1,EE,2014644C,extended,240D03E8
+
+//Wile E. Coyote Chase Infinite Time
+patch=1,EE,2018D88C,extended,00000000
+
+//Alt.Infinite Time
+patch=1,EE,2018D86C,extended,24A50000
+
+//1 Hit Kill 
+patch=1,EE,200a0000,extended,820400bd
+patch=1,EE,200a0004,extended,14800003
+patch=1,EE,200a000c,extended,ae00000c
+patch=1,EE,200a0010,extended,10000002
+patch=1,EE,200a0014,extended,460d6036
+patch=1,EE,200a0018,extended,e60c000c
+patch=1,EE,200a001c,extended,03e00008
+patch=1,EE,2024c070,extended,0c028000
+patch=1,EE,2024c07c,extended,00000000

@@ -1,0 +1,129 @@
+gametitle=ADK Tamashii SLPS-25906
+//English Mode
+patch=1,EE,003D7622,extended,00000001
+
+//Toukai Gan Gan (aka Aggressors of Dark Combat) Inf Time
+patch=1,EE,D0316A5A,extended,0000444F
+patch=1,EE,103D2EE8,extended,00002C78
+
+//Toukai Gan Gan (aka Aggressors of Dark Combat) P1 Inf HP
+patch=1,EE,D0316A5A,extended,0000444F
+patch=1,EE,103C7906,extended,00000BFF
+
+//Toukai Gan Gan (aka Aggressors of Dark Combat) P2 No HP (P1 Press Start)
+patch=1,EE,E002444F,extended,00316A5A
+patch=1,EE,D04B8A82,extended,0000FFF7
+patch=1,EE,103C7A06,extended,00000001
+
+//Toukai Gan Gan (aka Aggressors of Dark Combat) P2 Inf HP
+patch=1,EE,D0316B5A,extended,0000444F
+patch=1,EE,103C7A06,extended,00000BFF
+
+//Toukai Gan Gan (aka Aggressors of Dark Combat) P1 No HP (P2 Press Start)
+patch=1,EE,E002444F,extended,00316A5A
+patch=1,EE,D04B8B82,extended,0000FFF7
+patch=1,EE,103C7906,extended,00000001
+
+//Ninja Masters Inf Time
+patch=1,EE,D0316A5A,extended,00004E49
+patch=1,EE,003D38C1,extended,00000090
+
+//Ninja Masters P1 Inf HP
+patch=1,EE,D0316A5A,extended,00004E49
+patch=1,EE,003C78F1,extended,000000D0
+
+//Ninja Masters P1 Inf Pow
+patch=1,EE,D0316A5A,extended,00004E49
+patch=1,EE,003C794F,extended,00000060
+
+//Ninja Masters P2 Inf HP
+patch=1,EE,D0316A5A,extended,00004E49
+patch=1,EE,003C88F1,extended,000000D0
+
+//Ninja Masters P2 Inf Pow
+patch=1,EE,D0316A5A,extended,00004E49
+patch=1,EE,003C894F,extended,00000060
+
+//Twinkle Star Sprites P1 Inf Lives
+patch=1,EE,D0316A5A,extended,00004957
+patch=1,EE,003D38A4,extended,00000005
+
+//Twinkle Star Sprites P1 Inf HP
+patch=1,EE,D0316A5A,extended,00004957
+patch=1,EE,103D38B4,extended,00002828
+
+//Twinkle Star Sprites P1 Inf Bombs
+patch=1,EE,D0316A5A,extended,00004957
+patch=1,EE,003D38C0,extended,00000002
+
+//Twinkle Star Sprites P1 Inf Power
+patch=1,EE,D0316A5A,extended,00004957
+patch=1,EE,103D392A,extended,00003000
+
+//Twinkle Star Sprites P2 Inf Lives
+patch=1,EE,D0316A5A,extended,00004957
+patch=1,EE,003D48A4,extended,00000005
+
+//Twinkle Star Sprites P2 Inf HP
+patch=1,EE,D0316A5A,extended,00004957
+patch=1,EE,103D48B4,extended,00002828
+
+//Twinkle Star Sprites P2 Inf Bombs
+patch=1,EE,D0316A5A,extended,00004957
+patch=1,EE,003D48C0,extended,00000002
+
+//Twinkle Star Sprites P2 Inf Power
+patch=1,EE,D0316A5A,extended,00004957
+patch=1,EE,103D492A,extended,00003000
+
+//Ninja Combat P1 Inf Time
+patch=1,EE,D0316A5C,extended,0000424D
+patch=1,EE,003C90B8,extended,00007FFF
+
+//Ninja Combat P1 Inf Continues
+patch=1,EE,D0316A5C,extended,0000424D
+patch=1,EE,003C90B0,extended,00000064
+
+//Ninja Combat P1 Inf Lives
+patch=1,EE,D0316A5C,extended,0000424D
+patch=1,EE,003C9CA3,extended,0000000A
+
+//Ninja Combat P1 Inf HP
+patch=1,EE,D0316A5C,extended,0000424D
+patch=1,EE,103C7ED2,extended,00001408
+
+//Ninja Combat P2 Inf Continues
+patch=1,EE,D0316A5C,extended,0000424D
+patch=1,EE,003C9100,extended,00000064
+
+//Ninja Combat P2 Inf Lives
+patch=1,EE,D0316A5C,extended,0000424D
+patch=1,EE,003C9CF3,extended,0000000A
+
+//Ninja Combat P2 Inf HP
+patch=1,EE,D0316A5C,extended,0000424D
+patch=1,EE,103C7F22,extended,00001408
+
+//Ninja Commando P1 Inf Time
+patch=1,EE,D0316A5C,extended,00004D4D
+patch=1,EE,003CD8C8,extended,000000CC
+
+//Ninja Commando P1 Inf HP
+patch=1,EE,D0316A5C,extended,00004D4D
+patch=1,EE,103CD8D0,extended,00000200
+
+//Ninja Commando P1 Invincibility
+patch=1,EE,D0316A5C,extended,00004D4D
+patch=1,EE,003C7961,extended,0000003F
+
+//Ninja Commando P2 Inf Time
+patch=1,EE,D0316A5C,extended,00004D4D
+patch=1,EE,003CD9C8,extended,000000CC
+
+//Ninja Commando P2 Inf HP
+patch=1,EE,D0316A5C,extended,00004D4D
+patch=1,EE,103CD9D0,extended,00000200
+
+//Ninja Commando P2 Invincibility
+patch=1,EE,D0316A5C,extended,00004D4D
+patch=1,EE,003C7A61,extended,0000003F

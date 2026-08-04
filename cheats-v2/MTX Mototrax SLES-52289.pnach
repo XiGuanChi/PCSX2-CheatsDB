@@ -1,0 +1,25 @@
+gametitle=MTX Mototrax SLES-52289
+//Max Money
+patch=1,EE,206220F8,extended,FFF0E4D1
+
+//1 Lap Race
+patch=1,EE,003021C7,extended,000000AC
+
+//Always 1st (Races) 
+patch=1,EE,003021C7,extended,000000AC
+
+//Add MTXP L1+Tri)angle
+patch=1,EE,E002EBFF,extended,00AC6302
+patch=1,EE,30500000,extended,007AD218
+patch=1,EE,FFFFFF00,extended,00000000
+
+//Freeze Trick Timer (Off) L1+Square
+patch=1,EE,D0AC6302,extended,00007BFF
+patch=1,EE,00247123,extended,000000AE
+
+// Freeze Trick Timer (ON) L1+X
+patch=1,EE,D0AC6302,extended,0000BBFF
+patch=1,EE,00247123,extended,0000008E
+
+//Massive Trick Points
+patch=1,EE,0033F376,extended,0000009F

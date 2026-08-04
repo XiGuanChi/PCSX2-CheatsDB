@@ -1,0 +1,62 @@
+gametitle=Transformers SLUS-20668
+//Infinite Autobot Energon Level
+patch=1,EE,20716FB4,extended,42FA0000
+
+//Unlock All Extras
+patch=1,EE,207170E0,extended,FFFFFFFF
+patch=1,EE,207170E4,extended,FFFFFFFF
+
+//Unlock All MiniCons
+patch=1,EE,207173C0,extended,FFFFFFFF
+patch=1,EE,107173C4,extended,0000FFFF
+
+//Infinite Energy Usage
+patch=1,EE,203EE5EC,extended,00000000
+
+//All Levels
+patch=1,EE,40717114,extended,00080013
+patch=1,EE,00000001,extended,00000000
+
+//Have All MiniCons Resecued Codes
+//Amazon
+patch=1,EE,20717158,extended,00000009
+
+//Antarctica
+patch=1,EE,207171A4,extended,0000000A
+
+//Deep Amazon
+patch=1,EE,207171F0,extended,00000008
+
+//MidAtlantic
+patch=1,EE,2071723C,extended,00000001
+
+//Alaska
+patch=1,EE,20717288,extended,00000005
+
+//Starship
+patch=1,EE,207172D4,extended,00000001
+
+//Pacific Island
+patch=1,EE,20717320,extended,00000006
+
+//Have All DataCons Resecued Codes 
+//Amazon
+patch=1,EE,2071715C,extended,0000000D
+
+//Antarctica
+patch=1,EE,207171A8,extended,00000006
+
+//Deep Amazon
+patch=1,EE,207171F4,extended,00000007
+
+//MidAtlantic
+patch=1,EE,20717240,extended,00000001
+
+//Alaska
+patch=1,EE,2071728C,extended,00000009
+
+//Starship
+patch=1,EE,207172D8,extended,0000000A
+
+//Pacific Island
+patch=1,EE,20717324,extended,0000000C

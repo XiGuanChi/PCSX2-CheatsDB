@@ -1,0 +1,23 @@
+gametitle=Spartan - Total Warrior SLES-53393
+//Activate Invinicible Cheat Code
+patch=1,EE,005EA67D,extended,00000001
+
+//Infinite Health
+patch=1,EE,200C0220,extended,8F838B90
+patch=1,EE,200C0224,extended,A46402FA
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,000427C7
+patch=1,EE,203BB660,extended,0C030088
+
+//Infinite Arrows
+patch=1,EE,2030DDB0,extended,00000000
+
+//Unlock All Single Mission Replay
+patch=1,EE,20381330,extended,2406000E
+patch=1,EE,005EC1E8,extended,0000000E
+
+//Unlock Everything
+patch=1,EE,005EC1E8,extended,0000000E
+patch=1,EE,205EC238,extended,01010105
+patch=1,EE,405EC23C,extended,00100001
+patch=1,EE,01010101,extended,00000000

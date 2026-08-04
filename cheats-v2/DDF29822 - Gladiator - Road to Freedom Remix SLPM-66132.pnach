@@ -1,0 +1,19 @@
+gametitle=Gladiator - Road to Freedom Remix SLPM-66132
+//Possession money 1000000000
+patch=1,EE,20771D9C,extended,3B9ACA00
+
+//TRAINIG POINT of meal not decreasing
+patch=1,EE,2033E774,extended,00000000
+
+//All models available
+patch=1,EE,20776920,extended,FFFFFFFF
+patch=1,EE,207767EC,extended,FFFFFFFF
+patch=1,EE,207767F0,extended,00000003
+patch=1,EE,2014B0F8,extended,00000000
+patch=1,EE,2014B8C0,extended,00000000
+patch=1,EE,2014AFAC,extended,00000000
+patch=1,EE,2014AF4C,extended,00000000
+patch=1,EE,2014AEAC,extended,00000000
+
+//Status LIMIT 9999
+patch=1,EE,2033F534,extended,2402270F

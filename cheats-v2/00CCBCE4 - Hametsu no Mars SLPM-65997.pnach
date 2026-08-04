@@ -1,0 +1,10 @@
+gametitle=Hametsu no Mars SLPM-65997
+//Deathblow full recovery and HP Press R2
+patch=1,EE,D144C130,extended,00000002
+patch=1,EE,11617E62,extended,0000000A
+patch=1,EE,D144C130,extended,00000002
+patch=1,EE,21615ACC,extended,00320032
+
+//HP allies
+patch=1,EE,2017ECD4,extended,84237E64
+patch=1,EE,2017ECDC,extended,A4237E62

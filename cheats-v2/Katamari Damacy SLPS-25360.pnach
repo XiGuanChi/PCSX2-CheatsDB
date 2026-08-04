@@ -1,0 +1,6 @@
+gametitle=Katamari Damacy SLPS-25360
+//Maximum lump record network 999m99cm
+patch=1,EE,204EAB10,extended,000F423F
+
+//1 second goal of our time when cleared
+patch=1,EE,204EC618,extended,00000020

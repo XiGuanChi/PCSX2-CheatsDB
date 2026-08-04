@@ -1,0 +1,9 @@
+gametitle=Evil Twin - Cyprien's Chronicles SLES-50201
+//Infinite Health
+patch=1,EE,20350D54,extended,00000000
+
+//Infinite Lives
+patch=1,EE,20350F9C,extended,24420000
+
+//Quick Gain Power Bar
+patch=1,EE,2034B128,extended,24630010

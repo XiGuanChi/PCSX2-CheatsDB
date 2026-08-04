@@ -1,0 +1,14 @@
+gametitle=The Getaway SCES-51159
+//Unlock Extra Features
+patch=1,EE,00394ED8,extended,00000002
+
+//Inf Ammo most weapons
+patch=1,EE,201AE37C,extended,00000000
+patch=1,EE,201AE2E0,extended,00000000
+
+//Bullet Proof
+patch=1,EE,201AD588,extended,03E00008
+patch=1,EE,201AD58C,extended,00000000
+
+//Choose to load a saved game to get access to the chosen level.24-Land Of Hope And Glory
+patch=1,EE,00394E5C,extended,00000018

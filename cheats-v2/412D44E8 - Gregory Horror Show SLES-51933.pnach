@@ -1,0 +1,26 @@
+gametitle=Gregory Horror Show SLES-51933
+//Infinite Health
+patch=1,EE,204505D0,extended,45458000
+
+//Infinite Health (Alternate)
+patch=1,EE,2014AE04,extended,3C034548
+patch=1,EE,2014AE14,extended,AC2305D0
+
+//Max Infinite Health
+patch=1,EE,204505D4,extended,7F000000
+patch=1,EE,204505D0,extended,7F000000
+
+//Condition Never Tired
+patch=1,EE,004505EB,extended,00000000
+
+//Condition Never Have A Headache
+patch=1,EE,004505E8,extended,00000000
+
+//Condition Never Nervous
+patch=1,EE,004505EA,extended,00000000
+
+//Condition Never Confusion
+patch=1,EE,004505EC,extended,00000000
+
+//Condition Never Melancholy
+patch=1,EE,004505E9,extended,00000000

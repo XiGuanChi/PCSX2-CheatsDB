@@ -1,0 +1,10 @@
+gametitle=Frank Herbert's Dune SLES-50654
+//Infinite Health
+patch=1,EE,200FFF00,extended,3C03004D
+patch=1,EE,200FFF04,extended,8C6308C0
+patch=1,EE,200FFF08,extended,24040190
+patch=1,EE,200FFF0C,extended,10030004
+patch=1,EE,200FFF24,extended,24030070
+patch=1,EE,200FFF28,extended,0804ABA4
+patch=1,EE,2012AE8C,extended,0803FFC0
+patch=1,EE,200FFF14,extended,A4640060

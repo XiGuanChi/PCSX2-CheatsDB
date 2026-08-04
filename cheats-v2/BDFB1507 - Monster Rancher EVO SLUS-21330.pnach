@@ -1,0 +1,35 @@
+gametitle=Monster Rancher EVO SLUS-21330
+//Max Money
+patch=1,EE,2051b360,extended,05F5E0FF
+
+//First Monster All Stats Max
+patch=1,EE,2051C802,extended,00000000
+patch=1,EE,2051C800,extended,00006464
+patch=1,EE,2051C80E,extended,0000270F
+patch=1,EE,2051C810,extended,0000270F
+patch=1,EE,2051C812,extended,0000270F
+patch=1,EE,2051C814,extended,0000270F
+patch=1,EE,2051C816,extended,0000270F
+patch=1,EE,2051C818,extended,0000270F
+patch=1,EE,2051C8AC,extended,0000270F
+
+//Second Monster All Stats Max
+patch=1,EE,2051C9E6,extended,00000000
+patch=1,EE,2051C9E4,extended,00006464
+patch=1,EE,2051C9F2,extended,0000270F
+patch=1,EE,2051C9F4,extended,0000270F
+patch=1,EE,2051C9F6,extended,0000270F
+patch=1,EE,2051C9F8,extended,0000270F
+patch=1,EE,2051C9FA,extended,0000270F
+patch=1,EE,2051C9FC,extended,0000270F
+patch=1,EE,2051CA90,extended,0000270F
+
+//All Property
+patch=1,EE,1051b832,extended,00006363
+patch=1,EE,4051B834,extended,01f30000
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,1051c000,extended,00006363
+
+//Monster book Compleated
+patch=1,EE,4051c668,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000

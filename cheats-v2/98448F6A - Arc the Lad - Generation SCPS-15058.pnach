@@ -1,0 +1,25 @@
+gametitle=Arc the Lad - Generation SCPS-15058
+//Money in hand
+patch=1,EE,20295680,extended,000F423F
+
+//All parts
+patch=1,EE,40295724,extended,00480001
+patch=1,EE,01010101,extended,00000000
+
+//MAX money after increase
+patch=1,EE,20107984,extended,00BD100B
+
+//SP MAX after increase
+patch=1,EE,20105138,extended,00A0080A
+
+//Enemies drop items always
+patch=1,EE,20105018,extended,24020000
+patch=1,EE,20105040,extended,24020000
+patch=1,EE,20105090,extended,24020000
+
+//HP · CP other than the status of all MAX (save unreflected I will also affect the enemy at the end of the Hunter test
+patch=1,EE,20104C34,extended,00C0080A
+patch=1,EE,201086DC,extended,00C0080A
+
+//CP Unlimited
+patch=1,EE,2011F704,extended,14400001

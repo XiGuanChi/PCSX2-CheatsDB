@@ -1,0 +1,31 @@
+gametitle=BioHazard Outbreak SLPM-65428
+//Infinite bullet
+patch=1,EE,20581AC0,extended,00000000
+
+//Invincible
+patch=1,EE,2062F148,extended,00000000
+
+//COLLECTION All items purchased
+patch=1,EE,40305E54,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Scenario achievement item All scenarios 100%
+patch=1,EE,2030227C,extended,7FFFFFFF
+patch=1,EE,20302284,extended,07FFFFFF
+patch=1,EE,2030228C,extended,007FFFFF
+patch=1,EE,20302294,extended,1FFFFFFF
+patch=1,EE,2030229C,extended,FFFFFFFF
+patch=1,EE,103022A0,extended,00000FFF
+
+//All SP items have been obtained
+patch=1,EE,40301D84,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,00301DA4,extended,0000000F
+
+//All Collection Unlocked
+patch=1,EE,40305E54,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Unlock All Scenario 
+patch=1,EE,40305DD0,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000

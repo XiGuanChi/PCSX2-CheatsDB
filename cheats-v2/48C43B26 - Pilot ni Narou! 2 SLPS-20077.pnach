@@ -1,0 +1,10 @@
+gametitle=Pilot ni Narou! 2 SLPS-20077
+//Training edition Training score 100 points
+patch=1,EE,2038CA08,extended,000F423F
+
+//Training ends suddenly with the × button
+patch=1,EE,00219804,extended,00000001
+patch=1,EE,00219850,extended,00000001
+
+//Occupation Edition Possession Money Max
+patch=1,EE,209455DC,extended,3B9AC9FF

@@ -1,0 +1,17 @@
+gametitle=Rogue Ops SLUS-20746
+//Infinite Battery
+patch=1,EE,203BD20C,extended,3F800000
+
+//Infinite Health
+patch=1,EE,201C57BC,extended,C4800014
+patch=1,EE,201C57C0,extended,E4800018
+
+//Invincible (Cant Be Shot)
+patch=1,EE,201C3B80,extended,03E00008
+patch=1,EE,201C3B84,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,201AACB4,extended,00000063
+
+//Activate All Cheats
+patch=1,EE,2043ECD8,extended,0000FFFF

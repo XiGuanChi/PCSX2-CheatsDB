@@ -1,0 +1,17 @@
+gametitle=Memories Off - After Rain vol.1 - Oridzuru SLPM-65858
+//Bonus fully opened
+patch=1,EE,008AA144,extended,000000FF
+patch=1,EE,408AA150,extended,00080001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,408AA250,extended,00DC0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,408AC5A0,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,208AC450,extended,FFFFFFFF
+patch=1,EE,208AC590,extended,FFFFFFFF
+patch=1,EE,208AC594,extended,FFFFFFFF
+patch=1,EE,208AC550,extended,FFFFFFFF
+patch=1,EE,208AC554,extended,FFFFFFFF
+
+//Replace New Game With Debug Menu
+patch=0,EE,1087A18C,extended,00000031

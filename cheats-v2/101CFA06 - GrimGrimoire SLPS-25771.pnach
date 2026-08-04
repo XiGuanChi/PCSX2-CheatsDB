@@ -1,0 +1,19 @@
+gametitle=GrimGrimoire SLPS-25771
+//R 9999
+patch=1,EE,201C357C,extended,AE010004
+patch=1,EE,201C3580,extended,00000000
+
+//Full Book
+patch=1,EE,21C6F934,extended,00000059
+patch=1,EE,21C6F938,extended,0000007D
+patch=1,EE,41C6FC40,extended,00370001
+patch=1,EE,0000000F,extended,00000000
+
+//Charge time max
+patch=1,EE,201996C0,extended,80810004
+patch=1,EE,201996C4,extended,14200009
+patch=1,EE,201996D8,extended,24017000
+patch=1,EE,201996DC,extended,A60101DE
+patch=1,EE,201996E0,extended,3C014974
+patch=1,EE,201996E4,extended,AE0101E4
+patch=1,EE,201996E8,extended,AE0101E0

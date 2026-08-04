@@ -1,0 +1,15 @@
+gametitle=Soul Calibur II SLPS-25230
+//Infinite Health Player 1
+patch=1,EE,203D1D1C,extended,43700000
+patch=1,EE,203D1D2C,extended,43700000
+
+//Exp 99999900 Weapon Master Mode
+patch=1,EE,2045B508,extended,05F5E09C
+
+//Gold 99999900 Weapon Master Mode
+patch=1,EE,2045B6EC,extended,05F5E09C
+
+//Weapons and hidden element fully open Weapon Master Mode save data is required.
+patch=1,EE,201A2A7C,extended,240500FF
+patch=1,EE,201A2A80,extended,A1050000
+patch=1,EE,201A2AB8,extended,04E1FFF0

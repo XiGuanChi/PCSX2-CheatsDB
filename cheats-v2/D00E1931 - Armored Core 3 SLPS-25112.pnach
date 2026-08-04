@@ -1,0 +1,6 @@
+gametitle=Armored Core 3 SLPS-25112
+//Not decrease energy gauge
+patch=1,EE,104F54A8,extended,00007FFF
+
+//MAX in CREDIT increase
+patch=1,EE,20147C9C,extended,10600001

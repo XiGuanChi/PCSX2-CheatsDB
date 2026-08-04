@@ -1,0 +1,75 @@
+gametitle=Shin Sangoku Musou 2 (Mega Hits!) SLPM-66505
+//Guards of all military commanders, number, class, title MAX
+patch=1,EE,40314140,extended,00290008
+patch=1,EE,03030000,extended,00000000
+patch=1,EE,40314144,extended,00290008
+patch=1,EE,03030303,extended,00000000
+
+//Playing (common to 1P & 2P)
+//HP gauge maximum maintenance
+patch=1,EE,201D1AE8,extended,A4C9021C
+
+//Musou gauge maximum maintenance
+patch=1,EE,201D1B5C,extended,A4C80222
+
+//99 bows and arrows
+patch=1,EE,201D1B9C,extended,24070063
+patch=1,EE,201D1BA0,extended,A4C70250
+
+//All treasures & parameters +99
+patch=1,EE,20314648,extended,63016300
+patch=1,EE,2031464C,extended,63036302
+patch=1,EE,20314650,extended,63056304
+patch=1,EE,20314654,extended,63076306
+patch=1,EE,20314658,extended,63096308
+patch=1,EE,2031465C,extended,630B630A
+patch=1,EE,20314660,extended,000D630C
+patch=1,EE,20314664,extended,000F000E
+patch=1,EE,20314668,extended,00110010
+patch=1,EE,2031466C,extended,00130012
+patch=1,EE,20314670,extended,00150014
+patch=1,EE,20314674,extended,00170016
+patch=1,EE,10314678,extended,00000018
+
+//All treasures & parameters MAX
+patch=1,EE,20314648,extended,10011000
+patch=1,EE,2031464C,extended,3C033C02
+patch=1,EE,20314650,extended,28051404
+patch=1,EE,20314654,extended,28072806
+patch=1,EE,20314658,extended,28092808
+patch=1,EE,2031465C,extended,140B140A
+patch=1,EE,20314660,extended,000D140C
+patch=1,EE,20314664,extended,000F000E
+patch=1,EE,20314668,extended,00110010
+patch=1,EE,2031466C,extended,00130012
+patch=1,EE,20314670,extended,00150014
+patch=1,EE,20314674,extended,00170016
+patch=1,EE,10314678,extended,00000018
+
+//All military commander state MAX
+patch=1,EE,40314128,extended,00290008
+patch=1,EE,015E01F4,extended,00000000
+patch=1,EE,4031412C,extended,00290008
+patch=1,EE,00009696,extended,00000000
+
+//All Character Status Max (Version 1.6 or later only)
+patch=1,EE,40314128,extended,00290008
+patch=1,EE,015E01F4,extended,00000000
+patch=1,EE,4031412C,extended,00290008
+patch=1,EE,00009696,extended,00000000
+
+//All Guards Status Max (Version 1.6 or later only)
+patch=1,EE,40314140,extended,00290008
+patch=1,EE,03030000,extended,00000000
+patch=1,EE,40314144,extended,00290008
+patch=1,EE,03030303,extended,00000000
+
+//All Characters, All Stages, All Options these are all unlockable with in-game button codes
+patch=1,EE,40314EA0,extended,00190001
+patch=1,EE,01010101,extended,00000000
+
+//Challenge Mode, VS Mode, All Characters Status Max (V1.6 or later only)
+patch=1,EE,40300820,extended,00290008
+patch=1,EE,01900190,extended,00000000
+patch=1,EE,40300824,extended,00290008
+patch=1,EE,0000FAFA,extended,00000000

@@ -1,0 +1,11 @@
+gametitle=Mark Davis Pro Bass Challenge SLUS-20646
+//Arcade Mode Infinite Time
+patch=1,EE,20249D00,extended,0000467F
+
+//Unlock All Lures
+patch=1,EE,40427258,extended,000E0001
+patch=1,EE,00010001,extended,00000000
+
+//Always Good Tension
+patch=1,EE,2019649C,extended,3C0141F0
+patch=1,EE,201964A4,extended,44813800

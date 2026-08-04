@@ -1,0 +1,22 @@
+gametitle=Dynasty Warriors 4 - Empires SLUS-20938
+//Max Gold
+patch=1,EE,104D1CA8,extended,0000FFFF
+
+//Infinite Health Player 1
+patch=1,EE,105C053E,extended,00001900
+
+//Max Health Player 1
+patch=1,EE,105C053C,extended,00000190
+
+//Infinite Health Player 2
+patch=1,EE,105C077E,extended,00001900
+
+//Max Health Player 2
+patch=1,EE,105C077C,extended,00000190
+
+//Infinite Arrows (Both Players)
+patch=1,EE,201C149C,extended,00000000
+
+//Unlock All Artwork
+patch=1,EE,409815F0,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000

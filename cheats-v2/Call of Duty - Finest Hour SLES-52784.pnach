@@ -1,0 +1,25 @@
+gametitle=Call of Duty - Finest Hour SLES-52784
+//Infinite Health (Disable Damage)
+patch=1,EE,2022BB78,extended,24020001
+patch=1,EE,2022BFE0,extended,24020001
+
+//Infinite Ammo
+patch=1,EE,2023490C,extended,1000000C
+
+//Health
+patch=1,EE,E00319BC,extended,002228E0
+patch=1,EE,202228DC,extended,3C013F80
+patch=1,EE,202228E0,extended,AE6119BC
+patch=1,EE,202228E8,extended,C66019BC
+
+//Ammo
+patch=1,EE,D0234934,extended,0000FFFF
+patch=1,EE,20234934,extended,24020063
+
+
+//Unlock All Missions
+patch=1,EE,D0148890,extended,0000005C
+patch=1,EE,20148890,extended,24030026
+
+//All Extras
+patch=1,EE,20113F38,extended,FFFFFFFF

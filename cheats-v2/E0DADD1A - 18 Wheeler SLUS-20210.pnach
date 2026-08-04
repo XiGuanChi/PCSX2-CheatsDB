@@ -1,0 +1,9 @@
+gametitle=18 Wheeler SLUS-20210
+//Infinite Money
+patch=1,EE,1030379C,extended,0000FFFF
+
+//Max Money
+patch=1,EE,2030379C,extended,0098967F
+
+//Infinite Time
+patch=1,EE,203037A4,extended,00001740

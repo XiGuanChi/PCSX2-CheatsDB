@@ -1,0 +1,8 @@
+gametitle=Oookuki SLPM-66441
+//Information gathering abstract change of elapsed time Press the [L1 + ?] button to stop the time· 4x speed with [L1 + ?] button  Normally with the [L1 + L2] button
+patch=1,EE,D0323CC8,extended,00001004
+patch=1,EE,201361A0,extended,280D003D
+patch=1,EE,D0323CC8,extended,00004004
+patch=1,EE,201361A0,extended,29ED0010
+patch=1,EE,D0323CC8,extended,00000005
+patch=1,EE,201361A0,extended,29ED003D

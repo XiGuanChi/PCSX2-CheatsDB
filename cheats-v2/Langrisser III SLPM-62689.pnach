@@ -1,0 +1,62 @@
+gametitle=Langrisser III SLPM-62689
+//Max Money
+patch=1,EE,202B7DA4,extended,05F5E0FF
+
+//Number destroyed 999 / Withdrawal number 0
+patch=1,EE,202BADB4,extended,000003E7
+
+//Number of hired mercenaries 8
+patch=1,EE,002BADB8,extended,00000008
+
+//HP 99
+patch=1,EE,002BADBC,extended,00000063
+
+//MP 99
+patch=1,EE,002BADBD,extended,00000063
+
+//AT 99
+patch=1,EE,002BADBE,extended,00000063
+
+//DF 99
+patch=1,EE,002BADBF,extended,00000063
+
+//AT+ 99
+patch=1,EE,002BADC2,extended,00000063
+
+//DF+ 99
+patch=1,EE,002BADC3,extended,00000063
+
+//MV 32
+patch=1,EE,002BADC1,extended,00000020
+
+//Intelligence 99
+patch=1,EE,002BADC0,extended,00000063
+
+//Basic magic resistance 100
+patch=1,EE,202BADC4,extended,64646464
+patch=1,EE,102BADC8,extended,00006464
+patch=1,EE,002BADCA,extended,00000064
+
+//All Magic
+patch=1,EE,202BAD98,extended,FFFFFFFF
+patch=1,EE,202BAD9C,extended,FFFFFFFF
+
+//all Summon
+patch=1,EE,202BADA8,extended,FFFFFFFF
+
+//All skills
+patch=1,EE,202BADAC,extended,007F07FF
+
+//Favorability Max with all characters
+patch=1,EE,002BAC8E,extended,00000064
+patch=1,EE,002BAC91,extended,00000064
+patch=1,EE,002BAC96,extended,00000064
+patch=1,EE,002BAC97,extended,00000064
+patch=1,EE,002BACA4,extended,00000064
+
+//Langriser 99 pieces
+patch=1,EE,002B7E09,extended,00000063
+
+//Album fully opened
+patch=1,EE,20263470,extended,FFFFFFFF
+patch=1,EE,20263474,extended,FFFFFFFF

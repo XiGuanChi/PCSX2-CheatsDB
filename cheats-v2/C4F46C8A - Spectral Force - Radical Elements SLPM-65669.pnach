@@ -1,0 +1,95 @@
+gametitle=Spectral Force - Radical Elements SLPM-65669
+//Tonati
+//HP
+patch=1,EE,116FB49C,extended,0001869F
+
+//AP
+patch=1,EE,116FB498,extended,0001869F
+
+//Mov
+patch=1,EE,116FB4A4,extended,0000270F
+
+//Sol
+patch=1,EE,116FB4A8,extended,0000270F
+
+//DF
+patch=1,EE,116FB4A0,extended,0001869F
+
+//EXP
+patch=1,EE,216FB4AC,extended,000F423F
+
+//Cost 0
+patch=1,EE,116FB4B0,extended,00000000
+patch=1,EE,116FB4B4,extended,00000000
+patch=1,EE,116FB4B8,extended,00000000
+
+//Tilia
+//HP
+patch=1,EE,116FB5E4,extended,0001869F
+
+//AP
+patch=1,EE,116FB5E0,extended,0001869F
+
+//Mov
+patch=1,EE,116FB5EC,extended,0000270F
+
+//Sol
+patch=1,EE,116FB5F0,extended,0000270F
+
+//DF
+patch=1,EE,116FB5E8,extended,0001869F
+
+//EXP
+patch=1,EE,216FB5F4,extended,000F423F
+
+//Cost 0
+patch=1,EE,116FB5F8,extended,00000000
+patch=1,EE,116FB5FC,extended,00000000
+patch=1,EE,116FB600,extended,00000000
+
+//Dora
+//HP
+patch=1,EE,116FB688,extended,0001869F
+
+//AP
+patch=1,EE,116FB684,extended,0001869F
+
+//Mov
+patch=1,EE,116FB690,extended,0000270F
+
+//Sol
+patch=1,EE,116FB694,extended,0000270F
+
+//DF
+patch=1,EE,116FB68C,extended,0001869F
+
+//EXP
+patch=1,EE,216FB698,extended,000F423F
+
+//Cost 0
+patch=1,EE,116FB69C,extended,00000000
+patch=1,EE,116FB6A0,extended,00000000
+patch=1,EE,116FB6A4,extended,00000000
+
+//War chest MAX
+patch=1,EE,216FC170,extended,000F423F
+
+//Not reduced war chest in the shop
+patch=1,EE,A01CFA50,extended,00000000
+
+//98 in the element purchase
+patch=1,EE,A014B168,extended,24020062
+
+//Chara HP operations in the battlefield map Hold L3 and open details to fully recover If you open it while pressing R3, you will have 1 left It affects all enemies and allies, so be careful when using it.
+patch=1,EE,20154E0C,extended,10200002
+patch=1,EE,D16D1930,extended,00000200
+patch=1,EE,20154E0C,extended,10200001
+patch=1,EE,D16D1930,extended,00000400
+patch=1,EE,20154E0C,extended,24030001
+
+//Facility HP operation Hold L3 and open details to fully recover If you open it while pressing R3, you will have 1 left It affects all enemies and allies, so be careful when using it.
+patch=1,EE,20154FE8,extended,10200002
+patch=1,EE,D16D1930,extended,00000200
+patch=1,EE,20154FE8,extended,10200001
+patch=1,EE,D16D1930,extended,00000400
+patch=1,EE,20154FE8,extended,24030001

@@ -1,0 +1,25 @@
+gametitle=Front Mission 4 SLUS-20888
+//Infinite Funds
+patch=1,EE,203B6200,extended,0000FFFF
+
+//Infinite AP 
+patch=1,EE,201C1544,extended,00000000
+
+//Infinite EP Usage 
+patch=1,EE,202A912C,extended,00000000
+
+//Infinite Body - Character 1
+patch=1,EE,103BB874,extended,000003E7
+patch=1,EE,103BB872,extended,000003E7
+
+//Infinite Arm L - Character 1
+patch=1,EE,103BB894,extended,000003E7
+patch=1,EE,103BB892,extended,000003E7
+
+//Infinite Arm R - Character 1
+patch=1,EE,103BB8B4,extended,000003E7
+patch=1,EE,103BB8B2,extended,000003E7
+
+//Infinite Legs - Character 1
+patch=1,EE,103BB8D4,extended,000003E7
+patch=1,EE,103BB8D2,extended,000003E7

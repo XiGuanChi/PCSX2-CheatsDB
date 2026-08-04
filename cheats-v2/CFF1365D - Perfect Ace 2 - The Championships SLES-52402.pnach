@@ -1,0 +1,6 @@
+gametitle=Perfect Ace 2 - The Championships SLES-52402
+//Infinite Creation Points
+patch=1,EE,201D20A0,extended,00000000
+
+//Always Win Tournament Matches
+patch=1,EE,20148BEC,extended,24050001

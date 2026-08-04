@@ -1,0 +1,22 @@
+gametitle=Monster Rancher 3 SLUS-20190
+//Max Money
+patch=1,EE,2037BF2C,extended,000F423F
+
+//Infinite HP Player 1 In Battle
+patch=1,EE,10374BAA,extended,000003E7
+patch=1,EE,10374BA0,extended,000003E7
+
+//Max Pow Player 1 In Battle
+patch=1,EE,10374BA2,extended,000003E7
+
+//Max Int Player 1 In Battle
+patch=1,EE,10374BA4,extended,000003E7
+
+//Max Spd Player 1 In Battle
+patch=1,EE,10374BA6,extended,000003E7
+
+//Max Def Player 1 In Battle
+patch=1,EE,10374BA8,extended,000003E7
+
+//No HP Player 2 In Battle
+patch=1,EE,10374E82,extended,00000000

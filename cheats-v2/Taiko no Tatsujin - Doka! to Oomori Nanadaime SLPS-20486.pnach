@@ -1,0 +1,14 @@
+gametitle=Taiko no Tatsujin - Doka! to Oomori Nanadaime SLPS-20486
+//Max Don point 
+patch=1,EE,2017F09C,extended,015F600B
+
+//Required code for performance only
+patch=1,EE,20126DD8,extended,0803CC40
+patch=1,EE,200F3100,extended,3C17000F
+patch=1,EE,200F3110,extended,36F7423F
+patch=1,EE,200F3140,extended,2417270F
+patch=1,EE,200F3180,extended,08049B77
+patch=1,EE,200F3184,extended,8DAF004C
+
+//Max Soul gauge 
+patch=1,EE,200F3130,extended,AE3700C4

@@ -1,0 +1,10 @@
+gametitle=Sanyo Pachinko Paradise 11 - Shin Umi to Saraba Gintama no Ookami SLPS-25455
+//Dedama MAX
+patch=1,EE,201384E4,extended,8CA300C0
+
+//It cleared the ball number 9999999
+patch=1,EE,20236308,extended,00000000
+
+//Pachi Pro Flight Clip Max
+patch=1,EE,201B6814,extended,3C020010
+patch=1,EE,1D58F65D,extended,1F123D4F

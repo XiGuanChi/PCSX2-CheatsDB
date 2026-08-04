@@ -1,0 +1,26 @@
+gametitle=The Sopranos - Road to Respect SLUS-21388
+//Infinite Health
+patch=1,EE,200A0000,extended,3C0101BF
+patch=1,EE,200A0004,extended,8C21C4E0
+patch=1,EE,200A0008,extended,10200007
+patch=1,EE,200A0010,extended,8C210020
+patch=1,EE,200A0014,extended,10200004
+patch=1,EE,200A001C,extended,240201F4
+patch=1,EE,200A0020,extended,A422000E
+patch=1,EE,200A002C,extended,03E00008
+patch=1,EE,203be4ec,extended,08028000
+
+//1 Hit Kill
+patch=1,EE,202E55C4,extended,A600000E
+
+//Infinite Money
+patch=1,EE,204AA140,extended,05F5E0FF
+
+//Never Reload
+patch=1,EE,202E67FC,extended,00000000
+
+//Max Respect
+patch=1,EE,204AA144,extended,00000064
+
+//Unlock All Concept Art
+patch=1,EE,204AA7A0,extended,FFFFFFFF

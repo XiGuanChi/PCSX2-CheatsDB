@@ -1,0 +1,25 @@
+gametitle=Tom Clancy's Splinter Cell  - Chaos Theory SLES-53007
+//infinite Health
+patch=1,EE,205BDBE4,extended,E481031C
+
+//Infinite Health alt
+patch=1,EE,2022D8CC,extended,2401012C
+patch=1,EE,2022D8D0,extended,AC41031C
+
+//iinfinite Ammo (No Reload)
+patch=1,EE,204A1B54,extended,00000000
+patch=1,EE,204A1B60,extended,00000000
+
+//always Silent
+patch=1,EE,20608624,extended,AE20047C
+patch=1,EE,20608750,extended,AE20047C
+
+//always in Shadow
+patch=1,EE,203B63C8,extended,AE0000E8
+
+//Alt. Always in the Dark
+patch=1,EE,203B63C4,extended,44800000
+patch=1,EE,203B63BC,extended,AE0010BC
+
+//Mission Select
+patch=1,EE,20578B78,extended,24030001

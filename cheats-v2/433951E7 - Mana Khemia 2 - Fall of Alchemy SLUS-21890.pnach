@@ -1,0 +1,32 @@
+gametitle=Mana Khemia 2 - Fall of Alchemy SLUS-21890
+//Max Money
+patch=1,EE,20C3CB80,extended,000F423F
+
+//IN-BATTLE Infinite HP & SP
+patch=1,EE,200FF520,extended,AC84003C
+patch=1,EE,200FF524,extended,08083E99
+patch=1,EE,200FF528,extended,AC840040
+patch=1,EE,20254090,extended,0C03FD48
+
+//Start of Battle you have Unite Gauge Max
+patch=1,EE,20258378,extended,240203E8
+
+//Finishing Gauge Max (Sel+L2=on/Sel+R2=off)
+patch=1,EE,E002FEFE,extended,00C4069C
+patch=1,EE,1025862E,extended,0000AE10
+patch=1,EE,00258632,extended,00000010
+patch=1,EE,E002FDFE,extended,00C4069C
+patch=1,EE,1025862E,extended,00008E0F
+patch=1,EE,00258632,extended,0000000F
+
+//Mission timer Doesn't Increase (R2+up=ON R2+down=OFF)
+patch=1,EE,D0C4069C,extended,0000FDEF
+patch=1,EE,001F6198,extended,00000001
+patch=1,EE,D0C4069C,extended,0000FDBF
+patch=1,EE,001F6198,extended,00000000
+
+//Monsters dont see you (R2+up=ON R2+down=OFF)
+patch=1,EE,D0C4069C,extended,0000FDEF
+patch=1,EE,001C12EF,extended,00000000
+patch=1,EE,D0C4069C,extended,0000FDBF
+patch=1,EE,001C12EF,extended,00000002

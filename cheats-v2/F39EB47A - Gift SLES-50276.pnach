@@ -1,0 +1,6 @@
+gametitle=Gift SLES-50276
+//Infinite Magic (on pickup)
+patch=1,EE,10242106,extended,00003F80
+
+//Infinite Shadow Gun Ammo
+patch=1,EE,118EA90C,extended,0000000A

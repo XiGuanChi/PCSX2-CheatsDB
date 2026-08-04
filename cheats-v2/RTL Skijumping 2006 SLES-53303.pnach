@@ -1,0 +1,41 @@
+gametitle=RTL Skijumping 2006 SLES-53303
+//Viel Kohle
+patch=1,EE,20b59744,extended,05F5E0FF
+
+//Viel Gehalt
+patch=1,EE,20209790,extended,05F5E0FF
+
+//Weltranglistenposition: 1
+patch=1,EE,20b596e8,extended,00000000
+
+//Stufe 100
+patch=1,EE,20b59758,extended,00000064
+
+//Max Exp
+patch=1,EE,20b5975c,extended,05F5E0FF
+
+//MAX Train Pkt. R3 On L3 Off
+patch=1,EE,D067EC42,extended,0000FFFB
+patch=1,EE,00B0E794,extended,00000063
+patch=1,EE,D067EC42,extended,0000FFFD
+
+//Max Landetechnik
+patch=1,EE,20b596f4,extended,42C80000
+
+//Max Flugtechnik
+patch=1,EE,20b596f8,extended,42C80000
+
+//Max Anlauftechnik
+patch=1,EE,20b596fc,extended,42c80000
+
+//Max Sprungkraft
+patch=1,EE,20b59700,extended,42c80000
+
+//Max Fitness
+patch=1,EE,20b59704,extended,42c80000
+
+//Max Motivation
+patch=1,EE,20b59708,extended,42c80000
+
+//Rang: Legende
+patch=1,EE,20b59740,extended,00000002

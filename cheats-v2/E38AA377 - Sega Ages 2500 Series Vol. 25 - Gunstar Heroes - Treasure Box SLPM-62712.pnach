@@ -1,0 +1,36 @@
+gametitle=Sega Ages 2500 Series Vol. 25 - Gunstar Heroes - Treasure Box SLPM-62712
+//Alien Soldier 1 hi tkill bosses
+patch=1,EE,600A0010,extended,00000001
+patch=1,EE,00010001,extended,00008200
+
+//Alien Soldier Always invulnerable
+patch=1,EE,600A0010,extended,0000001F
+patch=1,EE,00010001,extended,0000A45E
+
+//Alien Soldier Infinite ammo 4
+patch=1,EE,600A0010,extended,000003E8
+patch=1,EE,00010001,extended,0000A260
+patch=1,EE,600A0010,extended,000003E8
+patch=1,EE,00010001,extended,0000A262
+patch=1,EE,600A0010,extended,000003E8
+patch=1,EE,00010001,extended,0000A264
+patch=1,EE,600A0010,extended,000003E8
+patch=1,EE,00010001,extended,0000A266
+
+//Alien Soldier Infinite time 
+patch=1,EE,600A0010,extended,00000999
+patch=1,EE,00010001,extended,0000A270
+
+//Alien Soldier  MAX life 
+patch=1,EE,600A0010,extended,000003E7
+patch=1,EE,00010001,extended,0000A216
+patch=1,EE,600A0010,extended,000003E8
+patch=1,EE,00010001,extended,0000A218
+
+//Gunstar Heroes Always invulnerable
+patch=1,EE,600A0010,extended,0000003F
+patch=1,EE,00000001,extended,0000A47C
+
+//Gunstar Heroes  MAX life 
+patch=1,EE,600A0010,extended,000003E7
+patch=1,EE,00010001,extended,0000A424

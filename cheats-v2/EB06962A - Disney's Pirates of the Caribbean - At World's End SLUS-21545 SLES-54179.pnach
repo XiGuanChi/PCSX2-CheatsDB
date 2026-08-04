@@ -1,0 +1,20 @@
+gametitle=Disney's Pirates of the Caribbean - At World's End SLUS-21545 SLES-54179
+//Infinite HP
+patch=1,EE,2010A6A8,extended,00000000
+
+//Gain/Use For Max (Everything)
+//Note: this works for anything in the Invintory Screen And Stats
+patch=1,EE,2018F724,extended,ac850004
+patch=1,EE,2018F694,extended,ac830004
+
+//Combat Challenge Inf Time
+patch=1,EE,201845A8,extended,00000000
+
+//Combo Challenge Inf Time
+patch=1,EE,20184578,extended,00000000
+
+//Loot Challenge Inf Time
+patch=1,EE,20184544,extended,00000000
+
+//Inf Time Code
+patch=1,EE,201845dc,extended,00000000

@@ -1,0 +1,13 @@
+gametitle=Reign of Fire SLUS-20556
+//Infinite Health Human
+patch=1,EE,201D6FB4,extended,3C014448
+patch=1,EE,201D6FB8,extended,03E00008
+patch=1,EE,201D6FBC,extended,AC81008C
+
+//Infinite Health Dragon
+patch=1,EE,201CD210,extended,3C014516
+patch=1,EE,201CD214,extended,03E00008
+patch=1,EE,201CD218,extended,AC81008C
+
+//Unlock All Levels / Unlock Dragon)
+patch=1,EE,20275AF0,extended,FFFFFFFF

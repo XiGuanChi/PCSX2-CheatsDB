@@ -1,0 +1,20 @@
+gametitle=Bode Miller Alpine Skiing SLUS-21381
+//Freeze Infinite Skill Points
+patch=1,EE,20863C84,extended,00000014
+
+//Infnite Money
+patch=1,EE,104E541C,extended,0000FFFF
+
+//Max money
+patch=1,EE,204E541C,extended,05F5E0FF
+
+//All Awards
+patch=1,EE,104E54DE,extended,00000101
+patch=1,EE,404E54E0,extended,00180001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,004E5540,extended,00000001time
+patch=1,EE,102F524A,extended,00000000
+patch=1,EE,1025524C,extended,00000000
+
+//First place
+patch=1,EE,00255200,extended,00000000

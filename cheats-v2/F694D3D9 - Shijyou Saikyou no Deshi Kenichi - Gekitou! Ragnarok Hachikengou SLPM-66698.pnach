@@ -1,0 +1,18 @@
+gametitle=Shijyou Saikyou no Deshi Kenichi - Gekitou! Ragnarok Hachikengou SLPM-66698
+//Code required for 1P Battle
+patch=1,EE,2017EF74,extended,0C0602B5
+patch=1,EE,20180AD8,extended,08060729
+patch=1,EE,20181CA8,extended,0805AB2C
+
+//P1 Infinite Health
+patch=1,EE,20180AD4,extended,AC801738
+
+//P1 Infinite Energy
+patch=1,EE,20181CA4,extended,2401012C
+patch=1,EE,20181CAC,extended,AC811754
+
+//Unlock all bonus galleries & mini games
+patch=1,EE,2048E900,extended,FFFFFFFF
+patch=1,EE,2048E904,extended,FFFFFFFF
+patch=1,EE,2048E908,extended,FFFFFFFF
+patch=1,EE,2048E90C,extended,FFFFFFFF

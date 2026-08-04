@@ -1,0 +1,6 @@
+gametitle=Chaos Field SLPM-66176
+//Infinite shield
+patch=1,EE,101E22BC,extended,00000007
+
+//Infinite Meta stock
+patch=1,EE,101E22B8,extended,000003E8

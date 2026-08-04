@@ -1,0 +1,25 @@
+gametitle=Rayman 3 - Hoodlum Havoc SLES-51222
+//PAL
+//Infinite Health
+patch=1,EE,211C262C,extended,000000C8
+
+//Play a level to Unlock all Bonus 
+patch=1,EE,211E1F44,extended,000F423F
+
+//Always saved Geezer
+patch=1,EE,D11C27F0,extended,00000000
+patch=1,EE,011C27F0,extended,00000005
+
+//Bonus Game Codes use only when needed !!!
+//Always 40-0: Racket Jump
+patch=1,EE,D1896E68,extended,00000000
+patch=1,EE,21896E68,extended,00000003
+patch=1,EE,21896E6C,extended,00000000
+//Always 99 Hits: Crush
+patch=1,EE,0160FF68,extended,00000063
+//No Reload: Razoff Circus
+patch=1,EE,0185AC40,extended,00000006
+//Infinite Health: Sentinal
+patch=1,EE,116EB0B8,extended,00000078
+//Infinite Retries: Commando
+patch=1,EE,0193435A,extended,00000003

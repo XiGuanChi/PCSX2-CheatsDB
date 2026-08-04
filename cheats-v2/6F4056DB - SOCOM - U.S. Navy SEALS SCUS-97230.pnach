@@ -1,0 +1,19 @@
+gametitle=SOCOM - U.S. Navy SEALS SCUS-97230
+//Immune To Bullets
+patch=1,EE,200C0220,extended,92410000
+patch=1,EE,200C0224,extended,14200003
+patch=1,EE,200C0228,extended,00000000
+patch=1,EE,200C022C,extended,080AE294
+patch=1,EE,200C0230,extended,00000000
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200C0238,extended,00000000
+patch=1,EE,202BA59C,extended,0C030088
+
+//infinite Ammo
+patch=1,EE,202B8F9C,extended,00000000
+
+//Infinite Grenades
+patch=1,EE,202BB5B8,extended,00000000
+
+//Always Complete Missions
+patch=1,EE,201D8270,extended,24020001

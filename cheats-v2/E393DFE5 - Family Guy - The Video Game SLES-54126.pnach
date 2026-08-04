@@ -1,0 +1,9 @@
+gametitle=Family Guy - The Video Game SLES-54126
+//Infinite Health Stevie Level 1
+patch=1,EE,21A24C20,extended,42C80000
+
+//Infinite Health Stevie Level 2
+patch=1,EE,219EC890,extended,42C80000
+
+//Twenty Upgrades Stevie weapon
+patch=1,EE,2035EA84,extended,00000014

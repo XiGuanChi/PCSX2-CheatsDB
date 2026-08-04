@@ -1,0 +1,38 @@
+gametitle=Ready 2 Rumble  - Round 2 SLES-50010
+//Infinite Health Player 1
+patch=1,EE,101EEF30,extended,00000064
+
+//1 Hit Death Player 2
+patch=1,EE,101F17A0,extended,00000001
+
+//Have All Characters
+patch=1,EE,101EC59C,extended,00000003
+patch=1,EE,101EC5A0,extended,00000003
+patch=1,EE,101EC5A4,extended,00000003
+patch=1,EE,101EC5A8,extended,00000003
+patch=1,EE,101EC5AC,extended,00000003
+patch=1,EE,101EC5B0,extended,00000003
+patch=1,EE,101EC5B4,extended,00000003
+patch=1,EE,101EC5B8,extended,00000003
+patch=1,EE,101EC5BC,extended,00000003
+patch=1,EE,101EC5C0,extended,00000003
+patch=1,EE,101EC5C4,extended,00000003
+patch=1,EE,101EC5C8,extended,00000003
+
+//Championship Mode Codes  Infinite Money
+patch=1,EE,101D9258,extended,0000FFFF
+
+//Max Strength
+patch=1,EE,101D925E,extended,0000447A
+
+//Max Stamina
+patch=1,EE,101D9262,extended,0000447A
+
+//Max Endurance
+patch=1,EE,101D9266,extended,0000447A
+
+//Max Dexterity
+patch=1,EE,101D926A,extended,0000447A
+
+//Max Experience
+patch=1,EE,101D926E,extended,0000447A

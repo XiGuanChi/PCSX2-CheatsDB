@@ -1,0 +1,11 @@
+gametitle=Kamen Rider Hibiki SLPS-20447
+//Enable all characters
+patch=1,EE,201EFD2C,extended,FFFFFFFF
+
+//Press L3 For Debug Menu
+patch=1,EE,D01CEE02,extended,0000FFFD
+patch=1,EE,2020E1D0,extended,00000000
+patch=1,EE,D01CEE02,extended,0000FFFD
+patch=1,EE,2020E7C8,extended,00000001
+patch=1,EE,20143A24,extended,00000000
+patch=1,EE,20143FC4,extended,00000000

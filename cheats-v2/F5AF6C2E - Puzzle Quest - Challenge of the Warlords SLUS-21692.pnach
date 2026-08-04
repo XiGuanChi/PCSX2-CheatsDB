@@ -1,0 +1,48 @@
+gametitle=Puzzle Quest - Challenge of the Warlords SLUS-21692
+//Infinite Money
+patch=1,EE,2014B6A0,extended,00000000
+
+//In-Battle Codes Infinite HP
+patch=1,EE,201868EC,extended,08030094
+patch=1,EE,201868F0,extended,00000000
+patch=1,EE,200C0250,extended,15000007
+patch=1,EE,200C0264,extended,00401023
+patch=1,EE,200C0268,extended,08061A3C
+patch=1,EE,200C026C,extended,0062182A
+patch=1,EE,200C0270,extended,00511023
+patch=1,EE,200C0274,extended,08061A3C
+patch=1,EE,200C0278,extended,0062182A
+
+//Max Infinite HP
+patch=1,EE,200C0250,extended,15000007
+patch=1,EE,200C0258,extended,240203E8
+patch=1,EE,200C025C,extended,AE020050
+patch=1,EE,200C0260,extended,AE02005C
+patch=1,EE,200C0264,extended,00401023
+patch=1,EE,200C0268,extended,08061A3C
+patch=1,EE,200C026C,extended,0062182A
+patch=1,EE,200C0270,extended,00511023
+patch=1,EE,200C0274,extended,08061A3C
+patch=1,EE,200C0278,extended,0062182A
+patch=1,EE,201868EC,extended,08030094
+patch=1,EE,201868F0,extended,00000000
+
+//Have All Magic Items (Equipment)
+patch=1,EE,2025CC00,extended,08030080
+patch=1,EE,200C0200,extended,3C0100CF
+patch=1,EE,200C0204,extended,3421E390
+patch=1,EE,200C0208,extended,3C02000A
+patch=1,EE,200C020C,extended,34420000
+patch=1,EE,200C0210,extended,3C0300D0
+patch=1,EE,200C0214,extended,8C63FC68
+patch=1,EE,200C0218,extended,8C250000
+patch=1,EE,200C021C,extended,10A30005
+patch=1,EE,200C0220,extended,AC450000
+patch=1,EE,200C0224,extended,24210028
+patch=1,EE,200C0228,extended,24420008
+patch=1,EE,200C022C,extended,1000FFFA
+patch=1,EE,200C0234,extended,03E00008
+patch=1,EE,200A0500,extended,534B4C49
+patch=1,EE,20E05BF0,extended,000A0000
+patch=1,EE,20E05BF4,extended,000A0500
+

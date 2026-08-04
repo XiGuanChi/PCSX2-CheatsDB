@@ -1,0 +1,66 @@
+gametitle=Mahou Sensei Negima! 1-Jikanme ~Okochama Sensei wa Mahoutsukai!~ SLPM-65871
+//Does not decrease magic
+patch=1,EE,201D3E58,extended,00A02023
+
+//Green onion, physical fitness status 99
+patch=1,EE,00345FE0,extended,00000063
+
+//Maximum strength 99
+patch=1,EE,00345FE2,extended,00000063
+
+//Magic 12
+patch=1,EE,00345FEA,extended,0000000C
+
+//Maximum magic 12
+patch=1,EE,00345FEE,extended,0000000C
+
+//Magic avoidance 999
+patch=1,EE,10345FF2,extended,000003E7
+
+//Magic Attack 999
+patch=1,EE,10345FF6,extended,000003E7
+
+//Magic Resist 999
+patch=1,EE,10345FF8,extended,000003E7
+
+//Wind barrier 999
+patch=1,EE,10345FFA,extended,000003E7
+
+//Moving force 999
+patch=1,EE,10345FFC,extended,000003E7
+
+//Reliability of current 99999
+patch=1,EE,20346000,extended,0001869F
+
+//All students Stress 0
+patch=1,EE,201768F4,extended,10000077
+patch=1,EE,20176ADC,extended,A4800078
+
+//All students Concentration 999
+patch=1,EE,20176904,extended,10000076
+
+//All students Academic achievement 999
+patch=1,EE,20176914,extended,10000075
+
+//All students Ability to take action 999
+patch=1,EE,20176924,extended,10000074
+
+//All students Sociability 999
+patch=1,EE,20176934,extended,10000073
+
+//All students 999 sex appeal
+patch=1,EE,20176944,extended,10000072
+
+//All students Luck 999
+patch=1,EE,20176964,extended,10000070
+
+//Album fully open
+patch=1,EE,4033A7D0,extended,00400001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,0033A8D0,extended,00000001
+
+//Happening fully open
+patch=1,EE,4033A8E0,extended,00060001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,1033A8DE,extended,00000101
+patch=1,EE,2033A8F8,extended,FF010101

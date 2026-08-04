@@ -1,0 +1,164 @@
+gametitle=Pac-Man World 2 GH SLUS-20224
+//Extra Lives
+patch=1,EE,10172468,extended,00000001
+
+//Invincible (Alternate)
+patch=1,EE,20172A10,extended,03E00008
+patch=1,EE,20172A14,extended,00000000
+
+//Max Cherries
+patch=1,EE,103561A4,extended,00000009
+
+//Max Strawberries
+patch=1,EE,103561A8,extended,00000063
+
+//Max Oranges
+patch=1,EE,103561AC,extended,00000063
+
+//Max Apples
+patch=1,EE,103561B0,extended,00000063
+
+//Max Mellons
+patch=1,EE,103561B4,extended,00000063
+
+//Max Galaxians
+patch=1,EE,103561B8,extended,00000063
+
+//Infinite Lives
+patch=1,EE,10488EB8,extended,00000009
+
+//Max Tokens
+patch=1,EE,10488EE8,extended,000000C8
+
+
+//Max Dots Eaten
+patch=1,EE,205A9578,extended,000003E7
+
+//Invincible (Alternate)
+patch=1,EE,201722B0,extended,03E00008
+patch=1,EE,201722B4,extended,00000000
+
+//Ghosts Paused
+patch=1,EE,205A7178,extended,00000001
+
+//Unlock All Levels
+patch=1,EE,20488EEC,extended,00000001
+
+//PacMan Arcade Codes ==
+
+//unendlich Leben / Infinite Lives
+patch=1,EE,105AAAB0,extended,00000005
+
+//Quick Score Gain
+patch=1,EE,105AAAE8,extended,0000FFFF
+
+//Max Score
+patch=1,EE,205AAAE8,extended,05F5E0FF
+
+//Always Eat Ghost 1
+patch=1,EE,205DC700,extended,00000000
+
+//Always Eat Ghost 2
+patch=1,EE,205DC72C,extended,00000000
+
+//Always Eat Ghost 3
+patch=1,EE,205DC758,extended,00000000
+
+//Always Eat Ghost 4
+patch=1,EE,205DC784,extended,00000000
+
+
+//== Ms. PacMan Arcade Codes ==
+
+//unendlich Leben / Infinite Lives
+patch=1,EE,105AA900,extended,00000005
+
+//Quick Score Gain
+patch=1,EE,105BA028,extended,0000FFFF
+
+//Max Score
+patch=1,EE,205BA028,extended,05F5E0FF
+
+//Always Eat Ghost 1
+patch=1,EE,205BA088,extended,00000000
+
+//Always Eat Ghost 2
+patch=1,EE,205BA0B4,extended,00000000
+
+//Always Eat Ghost 3
+patch=1,EE,205BA0E0,extended,00000000
+
+//Always Eat Ghost 4
+patch=1,EE,205BA10C,extended,00000000
+
+
+//== PacAttack Arcade Codes ==
+
+//Quick Score Gain
+patch=1,EE,10571694,extended,0000FFFF
+
+//Max Score
+patch=1,EE,20571694,extended,0098967F
+
+//Always PacMan Piece
+patch=1,EE,105715A0,extended,00000001
+
+
+//== PacVillage Codes ==
+
+//Open Next Path
+patch=1,EE,2048FEF8,extended,00000001
+
+//Have Level Completed
+patch=1,EE,2048FEFC,extended,00000001
+
+//Best Time Trial
+patch=1,EE,2048FF04,extended,00000000
+
+//Max Score
+patch=1,EE,2048FF0C,extended,000F423F
+
+//Max Cherries Total
+patch=1,EE,1048FF10,extended,00000063
+
+//Max Strawberries Total
+patch=1,EE,1048FF12,extended,00000063
+
+//Max Oranges Total
+patch=1,EE,1048FF14,extended,00000063
+
+//Max Apples Total
+patch=1,EE,1048FF16,extended,00000063
+
+//Max Melons Total
+patch=1,EE,1048FF18,extended,00000063
+
+//Max Galaxians Total
+patch=1,EE,1048FF1A,extended,00000063
+
+//Max Cherries
+patch=1,EE,1048FF1C,extended,00000063
+
+//Max Strawberries
+patch=1,EE,1048FF1E,extended,00000063
+
+//Max Oranges
+patch=1,EE,1048FF20,extended,00000063
+
+//Max Apples
+patch=1,EE,1048FF22,extended,00000063
+
+//Max Peaches
+patch=1,EE,1048FF24,extended,00000063
+
+//Max Galaxians
+patch=1,EE,1048FF26,extended,00000063
+
+//Max Dots Total
+patch=1,EE,1048FF68,extended,000003E7
+
+//Max Dots
+patch=1,EE,1048FF6A,extended,000003E7
+
+//100% Complete
+patch=1,EE,1048FF70,extended,00000064

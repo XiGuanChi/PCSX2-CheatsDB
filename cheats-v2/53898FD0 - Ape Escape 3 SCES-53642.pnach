@@ -1,0 +1,31 @@
+gametitle=Ape Escape 3 SCES-53642
+//Infinite Health
+patch=1,EE,2026FBDC,extended,00000000
+
+//Infinites Lives
+patch=1,EE,20649CD4,extended,00000063
+
+//Morph Gauge Does Not Decrease
+patch=1,EE,20324064,extended,00000000
+
+//9999 Coins
+patch=1,EE,2026FC64,extended,240D270F
+patch=1,EE,2026FC80,extended,00000000
+
+//All Concept Art
+patch=1,EE,40649FF4,extended,00070001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,1064A010,extended,00000101
+
+//All Movies
+patch=1,EE,4064A0BC,extended,00070001
+patch=1,EE,01010101,extended,00000000
+
+//All Music
+patch=1,EE,4064A084,extended,000D0001
+patch=1,EE,01010101,extended,00000000
+
+//All Secrret Photos
+patch=1,EE,4064A028,extended,00070001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,1064A026,extended,00000101

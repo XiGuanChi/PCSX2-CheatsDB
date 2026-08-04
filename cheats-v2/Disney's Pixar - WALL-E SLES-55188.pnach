@@ -1,0 +1,20 @@
+gametitle=Disney's Pixar - WALL-E SLES-55188
+//inf health
+patch=1,EE,20578704,extended,C4800008
+patch=1,EE,00578712,extended,00000080
+
+//inf beam
+patch=1,EE,205786c4,extended,C4800018
+patch=1,EE,005786d2,extended,00000080
+
+//invincible
+patch=1,EE,006bb791,extended,00000001
+
+//Infinite Laser
+patch=1,EE,006bb792,extended,00000001
+
+//Infinite Vision
+patch=1,EE,006bb794,extended,00000001
+
+//Infinite time
+patch=1,EE,002a4404,extended,24060e10

@@ -1,0 +1,15 @@
+gametitle=Pac-Man World Rally SLUS-21328
+//Max Circuit Points
+patch=1,EE,2024C29C,extended,0000270F
+
+//Infinite Pac-Mobile Meter
+patch=1,EE,2024C25C,extended,00000001
+
+//Unlock Fygar
+patch=1,EE,2024E074,extended,00000000
+
+//Unlock Pooka
+patch=1,EE,2024E04C,extended,00000000
+
+//Unlock The Prince
+patch=1,EE,2024E07C,extended,00000000

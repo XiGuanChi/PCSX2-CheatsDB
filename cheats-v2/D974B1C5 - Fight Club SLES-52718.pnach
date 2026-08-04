@@ -1,0 +1,15 @@
+gametitle=Fight Club SLES-52718
+//Infinite Health P1
+patch=1,EE,203287BA,extended,000043D4
+patch=1,EE,203287C2,extended,000043D0
+
+//Infinite Character Creation Points
+patch=1,EE,20132A70,extended,3C020006
+
+//Unlock All Characters
+patch=1,EE,4046E734,extended,00040001
+patch=1,EE,00000001,extended,00000000
+
+//Unlock All Movies
+patch=1,EE,4046E7D4,extended,000E0001
+patch=1,EE,00000001,extended,00000000

@@ -1,0 +1,18 @@
+gametitle=Turok - Evolution SLES-50479
+//Level Select - Load a Save For Code To Activate
+patch=1,EE,107D8868,extended,00000001
+
+//Unlock All Weapons Cheat
+patch=1,EE,107D8848,extended,00000001
+
+//Unlock Unlim Ammo Cheat
+patch=1,EE,107D8850,extended,00000001
+
+//Unlock Invincible Cheat
+patch=1,EE,107D8858,extended,00000001
+
+//Unlock Invisible Cheat
+patch=1,EE,107D8860,extended,00000001
+
+//Unlock Big Head Cheat
+patch=1,EE,107D8870,extended,00000001

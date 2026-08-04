@@ -1,0 +1,7 @@
+gametitle=Disney's Bolt SLES-55429
+//1 Hit Kill 
+patch=1,EE,20204CC8,extended,00000000
+
+//Always full energy
+patch=1,EE,20150188,extended,00000000
+patch=1,EE,20150238,extended,00000000

@@ -1,0 +1,15 @@
+gametitle=Serious Sam - Next Encounter SLES-52450
+//God Mode
+patch=1,EE,2020ED6C,extended,24030001
+
+//Have All Levels Open
+patch=1,EE,20220828,extended,240200FF
+patch=1,EE,202207FC,extended,240300FF
+
+//Infinite Ammo
+patch=1,EE,201FCB3C,extended,24020063
+patch=1,EE,201FCB40,extended,A4620000
+patch=1,EE,201FCB48,extended,00000000
+
+//Have All Weapons
+patch=1,EE,20226048,extended,24060001

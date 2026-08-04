@@ -1,0 +1,10 @@
+gametitle=Choro Q Works SLPM-65724
+//Story mode money 99999 G
+patch=1,EE,20278630,extended,000F423F
+
+//999 coins
+patch=1,EE,20278640,extended,000003E7
+
+//All parts
+patch=1,EE,40278660,extended,00280001
+patch=1,EE,01010101,extended,00000000

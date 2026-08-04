@@ -1,0 +1,9 @@
+gametitle=State of Emergency (Platinium) SLES-51046
+//Infinite Health
+patch=1,EE,101DD1F8,extended,00000004
+
+//Infinite Ammo
+patch=1,EE,101DD200,extended,00000004
+
+//Unlock All Characters
+patch=1,EE,101DE578,extended,0000071F

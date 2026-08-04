@@ -1,0 +1,45 @@
+gametitle=Bomberman Kart SLES-51302
+//Unlimited Ammunition All Weapons
+patch=1,EE,200C0000,extended,1CA00023
+patch=1,EE,200C0004,extended,8C430AC4
+patch=1,EE,200C0008,extended,27BDFFD0
+patch=1,EE,200C000C,extended,AFA40000
+patch=1,EE,200C0010,extended,AFA70010
+patch=1,EE,200C0014,extended,AFA60020
+patch=1,EE,200C0018,extended,3C04000C
+patch=1,EE,200C001C,extended,34840100
+patch=1,EE,200C0020,extended,34010003
+patch=1,EE,200C0024,extended,AC410ACC
+patch=1,EE,200C0028,extended,80870000
+patch=1,EE,200C002C,extended,3C01002A
+patch=1,EE,200C0030,extended,342129F2
+patch=1,EE,200C0034,extended,80210000
+patch=1,EE,200C0038,extended,30210050
+patch=1,EE,200C003C,extended,34060050
+patch=1,EE,200C0040,extended,50C1000D
+patch=1,EE,200C0044,extended,34070000
+patch=1,EE,200C0048,extended,1CE0000B
+patch=1,EE,200C004C,extended,00000000
+patch=1,EE,200C0050,extended,34060040
+patch=1,EE,200C0054,extended,50C10002
+patch=1,EE,200C0058,extended,24630001
+patch=1,EE,200C005C,extended,2463FFFF
+patch=1,EE,200C0060,extended,3406000D
+patch=1,EE,200C0064,extended,50C30003
+patch=1,EE,200C0068,extended,34030001
+patch=1,EE,200C006C,extended,50600001
+patch=1,EE,200C0070,extended,3403000C
+patch=1,EE,200C0074,extended,34070001
+patch=1,EE,200C0078,extended,A0870000
+patch=1,EE,200C007C,extended,AC430AC4
+patch=1,EE,200C0080,extended,8FA60020
+patch=1,EE,200C0084,extended,8FA70010
+patch=1,EE,200C0088,extended,8FA40000
+patch=1,EE,200C008C,extended,27BD0030
+patch=1,EE,200C0090,extended,0804E09D
+patch=1,EE,200C0094,extended,AE230000
+patch=1,EE,2013826C,extended,08030000
+patch=1,EE,20138270,extended,00000000
+
+//Grand Prix Mode: Player 1 Scores 99 Points
+patch=1,EE,202C20CC,extended,00000063

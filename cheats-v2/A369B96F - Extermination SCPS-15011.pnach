@@ -1,0 +1,36 @@
+gametitle=Extermination SCPS-15011
+//Infinite HP
+patch=1,EE,2080F450,extended,42C80000
+
+//Infinite immunity
+patch=1,EE,2080F458,extended,00000000
+
+//Infinite battery
+patch=1,EE,2080FC32,extended,00000030
+
+//Max Battery
+patch=1,EE,2080FC36,extended,00000030
+
+//Infinte Gun Ammo
+patch=1,EE,2080FBE0,extended,00C73100
+
+//Infinite Shotgun Ammo
+patch=1,EE,2080FC28,extended,000003E7
+
+//Infinite Grenade Launcher Ammo
+patch=1,EE,2080FC2A,extended,000003E7
+
+//Infinite Flamethrower Ammo
+patch=1,EE,2080FC2C,extended,00630063
+
+//Infinite Missile Launcher Ammo
+patch=1,EE,2080FC30,extended,000003E7
+
+//Equipped with all items available
+patch=1,EE,2080FBFD,extended,00000001
+patch=1,EE,2080FBFE,extended,00000001
+
+//Recovering all available items
+patch=1,EE,2080FC02,extended,00006363
+patch=1,EE,2080FC04,extended,00006363
+patch=1,EE,2080FC06,extended,00000063

@@ -1,0 +1,24 @@
+gametitle= The Powerpuff Girls - Relish Rampage SLUS-20585
+//Infinite Health
+patch=1,EE,2021C910,extended,42C80000
+
+//Always Full Chemical X
+patch=1,EE,2021CA04,extended,42C80000
+
+//Infinite Time
+patch=1,EE,20142824,extended,00000000
+
+//Infinite Chemical X Usage (Rapid Fire)
+patch=1,EE,201730F4,extended,00000000
+patch=1,EE,20173108,extended,00000000
+
+//Unlock All Movies
+patch=1,EE,2021CE60,extended,00000004
+
+//Have All Scrapbook MiniGames
+patch=1,EE,4021C340,extended,001F000A
+patch=1,EE,00000001,extended,00000000
+
+//Have All Scrapbook Pics
+patch=1,EE,4021C354,extended,001F000A
+patch=1,EE,00000001,extended,00000000

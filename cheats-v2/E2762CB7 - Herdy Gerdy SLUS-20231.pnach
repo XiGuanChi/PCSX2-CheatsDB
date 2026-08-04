@@ -1,0 +1,14 @@
+gametitle=Herdy Gerdy SLUS-20231
+//Max Bells
+patch=1,EE,10350B20,extended,00000064
+
+//Enable All Level On Map
+patch=1,EE,20267034,extended,24020001
+patch=1,EE,20267038,extended,AE420000
+
+//Unlock All Secrets
+patch=1,EE,403A9120,extended,00140001
+patch=1,EE,00000001,extended,00000000
+
+//Max Doops
+patch=1,EE,20350900,extended,000003E7

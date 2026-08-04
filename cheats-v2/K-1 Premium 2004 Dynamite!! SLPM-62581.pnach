@@ -1,0 +1,8 @@
+gametitle=K-1 Premium 2004 Dynamite!! SLPM-62581
+//2P CPU HP gauge 1 press select
+patch=1,EE,D026AB00,extended,00000100
+patch=1,EE,20232C64,extended,00000001
+
+//2P CPU DP gauge 1 press select
+patch=1,EE,D026AB00,extended,00000100
+patch=1,EE,20232C68,extended,00000001

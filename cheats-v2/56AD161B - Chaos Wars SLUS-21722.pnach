@@ -1,0 +1,39 @@
+gametitle=Chaos Wars SLUS-21722
+//Infinite Money
+patch=1,EE,2039DDE8,extended,05F5E0FF
+
+//Main Members Slot 1 Max Hp
+patch=1,EE,11D015A4,extended,0000270F
+
+//Max Sp
+patch=1,EE,11D015A8,extended,0000270F
+
+//Sub Members Slot 1 Max Hp
+patch=1,EE,11D05A3C,extended,0000270F
+
+//Sub Members Slot 1 Max Sp
+patch=1,EE,11D05A40,extended,0000270F
+
+//S Power Dont Decrease/Inf Realize Time
+patch=1,EE,10191A04,extended,00000000
+patch=1,EE,1027EE1C,extended,00000000
+patch=1,EE,1019F87C,extended,00000000
+patch=1,EE,102445DC,extended,00000001
+
+//Quick Proficiencys Exp Gain
+patch=1,EE,200A0000,extended,8C42009C
+patch=1,EE,200A0004,extended,0014A100
+patch=1,EE,200A0008,extended,080678A9
+patch=1,EE,200A000C,extended,02822821
+patch=1,EE,2019E2A0,extended,08028000
+patch=1,EE,2019E2A4,extended,00000000
+
+//Infinite Move (50) Make your First Move Command then Press O to Cancle then u will have Inf MOves
+patch=1,EE,200a0010,extended,3c0141ff
+patch=1,EE,200a0014,extended,44810000
+patch=1,EE,200a0018,extended,08092e4f
+patch=1,EE,200a001c,extended,e6000028
+patch=1,EE,2024b934,extended,08028004
+
+//Enemys Cant Move
+patch=1,EE,2024CE54,extended,4480a000

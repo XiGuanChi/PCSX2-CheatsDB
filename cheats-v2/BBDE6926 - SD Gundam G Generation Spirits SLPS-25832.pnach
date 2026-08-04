@@ -1,0 +1,30 @@
+gametitle=SD Gundam G Generation Spirits SLPS-25832
+//Max Money
+patch=1,EE,2059AF78,extended,00A0082A
+patch=1,EE,2059AFB8,extended,00A0082A
+
+//Halo score 131072
+patch=1,EE,203626B0,extended,3C020002
+
+//EN does not decrease
+patch=1,EE,203021C8,extended,00021000
+
+//All optional parts
+patch=1,EE,204E4F08,extended,24010001
+patch=1,EE,204E4F0C,extended,A041000E
+
+//Fully open the productionable unit
+patch=1,EE,204EC54C,extended,24030001
+patch=1,EE,204EC554,extended,A2230006
+
+//Profile 100% character
+patch=1,EE,203F26EC,extended,24020001
+patch=1,EE,203F26F0,extended,8E010118
+patch=1,EE,203F26F4,extended,00230821
+patch=1,EE,203F26FC,extended,A0220000
+
+//Infinite action possible Select + d-pad left : ON Select + d-pad right OFF
+patch=1,EE,D07EA042,extended,0000FF7E
+patch=1,EE,20577C38,extended,2402FFFF
+patch=1,EE,D07EA042,extended,0000FFDE
+patch=1,EE,20577C38,extended,2402FFFE

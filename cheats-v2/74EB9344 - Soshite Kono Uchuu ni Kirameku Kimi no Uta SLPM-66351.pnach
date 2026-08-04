@@ -1,0 +1,18 @@
+gametitle=Soshite Kono Uchuu ni Kirameku Kimi no Uta SLPM-66351
+//Max Shop Money
+patch=1,EE,2122FCD0,extended,0000FFFF
+
+//Unlock All CG 
+patch=1,EE,4122DA48,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,1122DA58,extended,0000FFFF
+
+//Unlock All Music 
+patch=1,EE,1122DC16,extended,00000001
+patch=1,EE,4122DC18,extended,000A0001
+patch=1,EE,00010001,extended,00000000
+patch=1,EE,1122DC40,extended,00000001
+
+//Unlock All Shop Items 
+patch=1,EE,4122DAEC,extended,000F0001
+patch=1,EE,00010001,extended,00000000

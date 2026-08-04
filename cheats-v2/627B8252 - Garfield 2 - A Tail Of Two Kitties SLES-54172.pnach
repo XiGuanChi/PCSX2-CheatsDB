@@ -1,0 +1,21 @@
+gametitle=Garfield 2 - A Tail Of Two Kitties SLES-54172
+//Always have helmet and invulnerable effect
+patch=1,EE,2044C9D8,extended,00000000
+patch=1,EE,2044C9F8,extended,00000000
+patch=1,EE,2044CA00,extended,0C113238
+
+
+//Always perfect musical game
+patch=1,EE,2045F944,extended,E4810490
+
+//Take 1 circle to complete the goal with the goose
+patch=1,EE,2045BC54,extended,00000000
+
+//Take 1 piece of cake to complete the goal
+patch=1,EE,2042549C,extended,340300FF
+
+//Take 1 watch to complete the goal
+patch=1,EE,2045BA6C,extended,00000000
+
+//Timer stopped
+patch=1,EE,2045C734,extended,1000002B

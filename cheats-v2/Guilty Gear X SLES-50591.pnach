@@ -1,0 +1,10 @@
+gametitle=Guilty Gear X SLES-50591
+//Always Full Tension Gauge P1
+patch=1,EE,1053BB10,extended,0000308D
+
+//1P Always Win After 1st Round
+patch=1,EE,1053BA28,extended,00000000
+patch=1,EE,1053BA30,extended,0000FFFF
+
+//Unlock Characters
+patch=1,EE,20576F50,extended,00000002

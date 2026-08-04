@@ -1,0 +1,72 @@
+gametitle=Ring of Red SLPM-62013
+//Weitzecker
+patch=1,EE,00451051,extended,00000063
+patch=1,EE,00451052,extended,00000063
+patch=1,EE,00451053,extended,00000063
+patch=1,EE,00451054,extended,00000063
+patch=1,EE,20451060,extended,63636363
+patch=1,EE,10451064,extended,00006363
+patch=1,EE,10450054,extended,0000012C
+
+//Ryoko Minagawa
+patch=1,EE,0045106F,extended,00000063
+patch=1,EE,00451070,extended,00000063
+patch=1,EE,00451071,extended,00000063
+patch=1,EE,00451072,extended,00000063
+patch=1,EE,1045107E,extended,00000063
+patch=1,EE,20451080,extended,63636363
+patch=1,EE,10450088,extended,0000012C
+
+//Kinasa Kenichi
+patch=1,EE,0045108D,extended,00000063
+patch=1,EE,0045108E,extended,00000063
+patch=1,EE,0045108F,extended,00000063
+patch=1,EE,00451090,extended,00000063
+patch=1,EE,2045109C,extended,63636363
+patch=1,EE,104510A0,extended,00006363
+patch=1,EE,104500BC,extended,00000154
+
+//John Lizgo
+patch=1,EE,004510AB,extended,00000063
+patch=1,EE,004510AC,extended,00000063
+patch=1,EE,004510AD,extended,00000063
+patch=1,EE,004510AE,extended,00000063
+patch=1,EE,104510BA,extended,00006363
+patch=1,EE,204510BC,extended,63636363
+patch=1,EE,104500F0,extended,000001A4
+
+//Kirino Ayana
+patch=1,EE,004510C9,extended,00000063
+patch=1,EE,004510CA,extended,00000063
+patch=1,EE,004510AD,extended,00000063
+patch=1,EE,004510CC,extended,00000063
+patch=1,EE,204510D8,extended,63636363
+patch=1,EE,104510DC,extended,00006363
+patch=1,EE,10450124,extended,00000190
+
+//Jun Hasebe
+patch=1,EE,004510E7,extended,00000063
+patch=1,EE,004510E8,extended,00000063
+patch=1,EE,004510E9,extended,00000063
+patch=1,EE,004510EA,extended,00000063
+patch=1,EE,104510F6,extended,00006363
+patch=1,EE,204510F8,extended,63636363
+patch=1,EE,10450158,extended,0000014A
+
+//Kirino Ichihei
+patch=1,EE,00451105,extended,00000063
+patch=1,EE,00451106,extended,00000063
+patch=1,EE,00451107,extended,00000063
+patch=1,EE,00451108,extended,00000063
+patch=1,EE,20451114,extended,63636363
+patch=1,EE,10451118,extended,00006363
+patch=1,EE,1045018C,extended,00000118
+
+//Emilio Panini
+patch=1,EE,00451123,extended,00000063
+patch=1,EE,00451124,extended,00000063
+patch=1,EE,00451125,extended,00000063
+patch=1,EE,00451126,extended,00000063
+patch=1,EE,10451132,extended,00006363
+patch=1,EE,20451134,extended,63636363
+patch=1,EE,104501C0,extended,0000012C

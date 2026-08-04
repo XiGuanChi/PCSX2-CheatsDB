@@ -1,0 +1,17 @@
+gametitle=Simple 2000 Ultimate Series Vol.24 - Makai Tenshou SLPM-65872 SLPM-65329
+//Enemy death blow
+patch=1,EE,A01266A8,extended,70001588
+
+//Spirit 100 currently
+patch=1,EE,0029CC8A,extended,00000064
+
+//Current and maximum HP999
+patch=1,EE,202459A8,extended,000003E7
+patch=1,EE,202459AC,extended,000003E7
+patch=1,EE,202459B4,extended,000003E7
+
+//Activate "Map Book" effect on turn
+patch=1,EE,200F4000,extended,3C040023
+patch=1,EE,200F4018,extended,08043B0E
+patch=1,EE,200F401C,extended,248410B0
+patch=1,EE,2011BFCC,extended,0803D000

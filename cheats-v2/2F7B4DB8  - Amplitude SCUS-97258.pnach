@@ -1,0 +1,13 @@
+gametitle=Amplitude SCUS-97258
+//Quick Max Score 
+patch=1,EE,2012DDBC,extended,2406270F
+
+//Max Energy 
+patch=1,EE,200C0220,extended,3C0141C0
+patch=1,EE,200C0224,extended,AC810000
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,C4800000
+patch=1,EE,20151778,extended,08030088
+
+//Access All Arenas 
+patch=1,EE,201923E8,extended,00000000

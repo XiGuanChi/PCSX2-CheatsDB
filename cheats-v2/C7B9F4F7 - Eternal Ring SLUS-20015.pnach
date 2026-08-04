@@ -1,0 +1,71 @@
+gametitle=Eternal Ring SLUS-20015
+//Level 99
+patch=1,EE,101FF890,extended,00000063
+
+//Infinite HP
+patch=1,EE,101FF894,extended,000003E7
+
+//Max HP
+patch=1,EE,101FF896,extended,000003E7
+
+//Infinite MP
+patch=1,EE,101FF898,extended,000003E7
+
+//Max MP
+patch=1,EE,101FF89A,extended,000003E7
+
+//Quick Exp Gain
+patch=1,EE,101FF89C,extended,0000FFFF
+
+//Max Exp
+patch=1,EE,201FF89C,extended,05F5E0FF
+
+//Quick Level Up
+patch=1,EE,201FF8A8,extended,00000001
+
+//Max Fire
+patch=1,EE,101FF8C0,extended,000003E7
+
+//Max Earth
+patch=1,EE,101FF8C2,extended,000003E7
+
+//Max Wind
+patch=1,EE,101FF8C4,extended,000003E7
+
+//Max Water
+patch=1,EE,101FF8C6,extended,000003E7
+
+//Max Light
+patch=1,EE,101FF8C8,extended,000003E7
+
+//Max Dark
+patch=1,EE,101FF8CA,extended,000003E7
+
+//Max Str
+patch=1,EE,101FF8CC,extended,000003E7
+
+//Have All Weapons
+patch=1,EE,4021E730,extended,00040001
+patch=1,EE,01010101,extended,00000000
+
+//Have All Items
+patch=1,EE,2021E740,extended,01010101
+patch=1,EE,0021E744,extended,00000001
+patch=1,EE,1021E746,extended,00000101
+patch=1,EE,0021E748,extended,00000001
+patch=1,EE,0021E773,extended,00000001
+patch=1,EE,4021E774,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,1021E784,extended,00000101
+patch=1,EE,0021E786,extended,00000001
+
+//Have All Rings
+patch=1,EE,4021E7C0,extended,001A0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,0021E83F,extended,00000001
+
+//Have All Mag Gems
+patch=1,EE,4021E840,extended,00060001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,1021E858,extended,00000101
+patch=1,EE,0021E85A,extended,00000001

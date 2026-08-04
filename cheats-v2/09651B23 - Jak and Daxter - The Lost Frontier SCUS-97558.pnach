@@ -1,0 +1,739 @@
+gametitle=Jak and Daxter - The Lost Frontier SCUS-97558
+//INf HP (ASM) Level 1
+patch=1,EE,D1C88DF4,extended,0000026C
+patch=1,EE,21C88E10,extended,00000000
+
+//Max Precursor Orbs
+patch=1,EE,11E87B48,extended,00000999
+
+//Max Dark Eco
+patch=1,EE,11E87B4C,extended,000003E7
+
+//Max Scraps
+patch=1,EE,11E87B50,extended,0000270F
+
+//Level Select Aeropa 2.5 01 = Brink Island 1
+//02 = Brink Island 1.2 (Plane)
+//21 = Aeropa 2.1 (Ship Bay)
+//1E = Aeropa 2.2 (after ship bay)
+//22 = Aeropa 2.3 (Entering Danger Course)
+//04 = Aeropa 2.4 (Danger Course)
+//05 = Aeropa 2.5 (Dark Eco Daxter)
+patch=1,EE,01E85CA8,extended,00000005
+
+//Brink Island
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,00000001
+patch=1,EE,21C88E10,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,00000001
+patch=1,EE,21BFE7AC,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E0040001,extended,01e85ca8
+patch=1,EE,21c7f410,extended,00000000
+patch=1,EE,21c77a94,extended,00000000
+patch=1,EE,21c71278,extended,00000000
+patch=1,EE,21c6b734,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086DFD35
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E0020001,extended,01E85CA8
+patch=1,EE,21B7F4D0,extended,08028000
+patch=1,EE,21B7F4D4,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,00000001
+patch=1,EE,21b7f4d0,extended,24020001
+
+//Ship Options
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,00000002
+patch=1,EE,2199b7b8,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E0040002,extended,01e85ca8
+patch=1,EE,4199b7bc,extended,00020001
+patch=1,EE,42480000,extended,00000000
+patch=1,EE,4199b7c4,extended,00060001
+patch=1,EE,42660000,extended,00000000
+
+//Aeropa
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,0000001e
+patch=1,EE,21cafe68,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,0000001e
+patch=1,EE,21c30bbc,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E004001e,extended,01e85ca8
+patch=1,EE,21c91ec4,extended,00000000
+patch=1,EE,21c9e224,extended,00000000
+patch=1,EE,21c97a08,extended,00000000
+patch=1,EE,21ca5ba0,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086ed2bd
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E002001e,extended,01E85CA8
+patch=1,EE,21bb4af0,extended,08028000
+patch=1,EE,21bb4af4,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,0000001e
+patch=1,EE,21bb4af0,extended,24020001
+
+//Aeropa(Gun Course)
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,00000004
+patch=1,EE,21ca46d8,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,00000004
+patch=1,EE,21c23704,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E0040004,extended,01e85ca8
+patch=1,EE,21c8763c,extended,00000000
+patch=1,EE,21c9399c,extended,00000000
+patch=1,EE,21c8d180,extended,00000000
+patch=1,EE,21c9b318,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086e999d
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E0020004,extended,01E85CA8
+patch=1,EE,21ba6670,extended,08028000
+patch=1,EE,21ba6674,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,00000004
+patch=1,EE,21ba6670,extended,24020001
+
+//Aeropa(Dark Daxter)
+
+//Infinite Health
+patch=1,EE,D1e85ca8,extended,00000005
+patch=1,EE,21cbfba8,extended,00000000
+
+//Infinite Dark Eco
+patch=1,EE,D1e85ca8,extended,00000005
+patch=1,EE,21cbe618,extended,00000000
+
+//Pirate Chase
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,00000006
+patch=1,EE,21542748,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E0040006,extended,01e85ca8
+patch=1,EE,4154274c,extended,00020001
+patch=1,EE,42480000,extended,00000000
+patch=1,EE,41542754,extended,00060001
+patch=1,EE,42660000,extended,00000000
+
+//Brink Island II
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,00000007
+patch=1,EE,21c74290,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,00000007
+patch=1,EE,21be87ac,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E0040007,extended,01e85ca8
+patch=1,EE,21c68950,extended,00000000
+patch=1,EE,21c60fd4,extended,00000000
+patch=1,EE,21c5a7b8,extended,00000000
+patch=1,EE,21c54c74,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086d9d65
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E0020007,extended,01E85CA8
+patch=1,EE,21b67590,extended,08028000
+patch=1,EE,21b67594,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,00000007
+patch=1,EE,21b67590,extended,24020001
+
+//Brink Island III
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,00000008
+patch=1,EE,21c70b10,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,00000008
+patch=1,EE,21be8344,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E0040008,extended,01e85ca8
+patch=1,EE,21c515b4,extended,00000000
+patch=1,EE,21c5d914,extended,00000000
+patch=1,EE,21c570f8,extended,00000000
+patch=1,EE,21c65290,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086d9c8d
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E0020008,extended,01E85CA8
+patch=1,EE,21b67230,extended,08028000
+patch=1,EE,21b67234,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,00000008
+patch=1,EE,21b67230,extended,24020001
+
+//Brink Island III(Ship-Shoot out Thrusters Pirate Ship)
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,00000009
+patch=1,EE,218dd118,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E0040009,extended,01e85ca8
+patch=1,EE,418dd11c,extended,00020001
+patch=1,EE,423c0000,extended,00000000
+patch=1,EE,418dd124,extended,00060001
+patch=1,EE,42583333,extended,00000000
+
+//Infinite Missiles
+patch=1,EE,D1e85ca8,extended,00000009
+patch=1,EE,21db1dec,extended,00000010
+
+//After Ship(Ship Bay-Phantom Blade)
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,00000014
+patch=1,EE,21c8e420,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,00000014
+patch=1,EE,21c0686c,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E0040014,extended,01e85ca8
+patch=1,EE,21c6fa64,extended,00000000
+patch=1,EE,21c7bdc4,extended,00000000
+patch=1,EE,21c755a8,extended,00000000
+patch=1,EE,21c83740,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086e181d
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E0020014,extended,01E85CA8
+patch=1,EE,21b86070,extended,08028000
+patch=1,EE,21b86074,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,00000014
+patch=1,EE,21b86070,extended,24020001
+
+//Ship (Search For Seeker)
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,00000009
+patch=1,EE,218dd118,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E0040009,extended,01e85ca8
+patch=1,EE,418dd11c,extended,00020001
+patch=1,EE,42240000,extended,00000000
+patch=1,EE,418dd124,extended,00060001
+patch=1,EE,4244ccce,extended,00000000
+
+//Infinite Missiles
+patch=1,EE,D1e85ca8,extended,00000009
+patch=1,EE,21db1dec,extended,00000010
+
+//Brink Island(Volcano)
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,0000000A
+patch=1,EE,21c78cf0,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,0000000A
+patch=1,EE,21be8894,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E004000A,extended,01e85ca8
+patch=1,EE,21c5abb4,extended,00000000
+patch=1,EE,21c66f14,extended,00000000
+patch=1,EE,21c606f8,extended,00000000
+patch=1,EE,21c6e890,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086d9e4b
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E002000A,extended,01E85CA8
+patch=1,EE,21b67928,extended,08028000
+patch=1,EE,21b6792C,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,0000000A
+patch=1,EE,21b67928,extended,24020001
+
+//Brink Island(Ship)
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,00000009
+patch=1,EE,218dd118,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E0040009,extended,01e85ca8
+patch=1,EE,418dd11c,extended,00020001
+patch=1,EE,42240000,extended,00000000
+patch=1,EE,418dd124,extended,00060001
+patch=1,EE,4244ccce,extended,00000000
+
+//Infinite Missiles
+patch=1,EE,D1e85ca8,extended,00000009
+patch=1,EE,21db1dec,extended,00000010
+
+//Far Drop(Plane)
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,00000018
+patch=1,EE,2190f2d8,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E0040018,extended,01e85ca8
+patch=1,EE,4190f2dc,extended,00020001
+patch=1,EE,42240000,extended,00000000
+patch=1,EE,4190f2e4,extended,00060001
+patch=1,EE,42a40000,extended,00000000
+
+//Infinite Missiles
+patch=1,EE,D1e85ca8,extended,00000018
+patch=1,EE,21dad86c,extended,00000010
+
+//Infinite Rockets
+patch=1,EE,D1e85ca8,extended,00000018
+patch=1,EE,21dad88c,extended,00000003
+
+//Far Drop(Jak)
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,0000000B
+patch=1,EE,21c64d00,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,0000000B
+patch=1,EE,21bc7164,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E004000B,extended,01e85ca8
+patch=1,EE,21c4405c,extended,00000000
+patch=1,EE,21c503bc,extended,00000000
+patch=1,EE,21c49ba0,extended,00000000
+patch=1,EE,21c57d38,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086d1a81
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E002000B,extended,01E85CA8
+patch=1,EE,21b46a00,extended,08028000
+patch=1,EE,21b46a04,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,0000000B
+patch=1,EE,21b46a00,extended,24020001
+
+//Far Drop(Jak-Bar)
+
+//Infinite Health
+patch=1,EE,D1e85ca8,extended,0000000C
+patch=1,EE,21c87f80,extended,00000000
+
+//Research Rig
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,0000000D
+patch=1,EE,21c84238,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,0000000D
+patch=1,EE,21bf89bc,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E004000D,extended,01e85ca8
+patch=1,EE,21c6697c,extended,00000000
+patch=1,EE,21c72cdc,extended,00000000
+patch=1,EE,21c6c4c0,extended,00000000
+patch=1,EE,21c7a658,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086ddd9f
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E002000D,extended,01E85CA8
+patch=1,EE,21b77678,extended,08028000
+patch=1,EE,21b7767C,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,0000000D
+patch=1,EE,21b77678,extended,24020001
+
+//Research Rig (Dark Daxter)
+
+//Infinite Health
+patch=1,EE,D1e85ca8,extended,0000000e
+patch=1,EE,21cb1290,extended,00000000
+
+//Infinite Dark Eco
+patch=1,EE,D1e85ca8,extended,0000000e
+patch=1,EE,21cafd00,extended,00000000
+
+//Barracks
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,0000000F
+patch=1,EE,21c69698,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,0000000F
+patch=1,EE,21bd16d4,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E004000F,extended,01e85ca8
+patch=1,EE,21c4a9e4,extended,00000000
+patch=1,EE,21c56d44,extended,00000000
+patch=1,EE,21c50528,extended,00000000
+patch=1,EE,21c5e6c0,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086d3d89
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E002000F,extended,01E85CA8
+patch=1,EE,21b4f620,extended,08028000
+patch=1,EE,21b4f624,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,0000000F
+patch=1,EE,21b4f620,extended,24020001
+
+//Ship
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,00000010
+patch=1,EE,21919258,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E0040010,extended,01e85ca8
+patch=1,EE,4191925c,extended,00020001
+patch=1,EE,42240000,extended,00000000
+patch=1,EE,41919264,extended,00060001
+patch=1,EE,428b6666,extended,00000000
+
+//Infinite Missiles
+patch=1,EE,D1e85ca8,extended,00000010
+patch=1,EE,21dafb6c,extended,00000010
+
+//Infinite Rockets
+patch=1,EE,D1e85ca8,extended,00000010
+patch=1,EE,21dafb8c,extended,00000003
+
+//Bar Boss Fight
+
+//Infinite Health
+patch=1,EE,D1e85ca8,extended,00000011
+patch=1,EE,21c803a8,extended,00000000
+
+//Sector Zero-Boss
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,00000013
+patch=1,EE,21687788,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E0040013,extended,01e85ca8
+patch=1,EE,4168778c,extended,00020001
+patch=1,EE,42A40000,extended,00000000
+patch=1,EE,41687794,extended,00060001
+patch=1,EE,43240000,extended,00000000
+
+//Infinite Missiles
+patch=1,EE,D1e85ca8,extended,00000013
+patch=1,EE,21dac30c,extended,00000063
+
+//Infinite Rockets
+patch=1,EE,D1e85ca8,extended,00000013
+patch=1,EE,21dac32c,extended,00000063
+
+//Vortex
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,00000012
+patch=1,EE,213dc578,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E0040012,extended,01e85ca8
+patch=1,EE,413dc57C,extended,00020001
+patch=1,EE,42A40000,extended,00000000
+patch=1,EE,413dc584,extended,00060001
+patch=1,EE,43240000,extended,00000000
+
+//Infinite Missiles
+patch=1,EE,D1e85ca8,extended,00000012
+patch=1,EE,21db0b8c,extended,00000063
+
+//Infinite Rockets
+patch=1,EE,D1e85ca8,extended,00000012
+patch=1,EE,21db0bac,extended,00000063
+
+//Protect Phantom Blade
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,00000016
+patch=1,EE,21c8bad0,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,00000016
+patch=1,EE,21c05e54,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E0040016,extended,01e85ca8
+patch=1,EE,21c6e6cc,extended,00000000
+patch=1,EE,21c7ad94,extended,00000000
+patch=1,EE,21c74210,extended,00000000
+patch=1,EE,21c82710,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086e16ee
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E0020016,extended,01E85CA8
+patch=1,EE,21b85bb8,extended,08028000
+patch=1,EE,21b85bbC,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,00000016
+patch=1,EE,21b85bb8,extended,24020001
+
+//Research Rig II-Ship
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,00000015
+patch=1,EE,216877e8,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E0040015,extended,01e85ca8
+patch=1,EE,416877ec,extended,00020001
+patch=1,EE,420c0000,extended,00000000
+patch=1,EE,416877f4,extended,00060001
+patch=1,EE,428c0000,extended,00000000
+
+//Infinite Missiles
+patch=1,EE,D1e85ca8,extended,00000015
+patch=1,EE,21dabc6c,extended,00000063
+
+//Infinite Rockets
+patch=1,EE,D1e85ca8,extended,00000015
+patch=1,EE,21dabc8c,extended,00000063
+
+//Far Drop III
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,00000017
+patch=1,EE,21c60960,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,00000017
+patch=1,EE,21bc8d4c,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E0040017,extended,01e85ca8
+patch=1,EE,21c41f8c,extended,00000000
+patch=1,EE,21c4dfb4,extended,00000000
+patch=1,EE,21c47790,extended,00000000
+patch=1,EE,21c55930,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086d1fd3
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E0020017,extended,01E85CA8
+patch=1,EE,21b47f48,extended,08028000
+patch=1,EE,21b47f4C,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,00000017
+patch=1,EE,21b47f48,extended,24020001
+
+//Far Drop III-Behemoth Fight
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,00000018
+patch=1,EE,2190f2d8,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E0040018,extended,01e85ca8
+patch=1,EE,4190f2dc,extended,00020001
+patch=1,EE,420c0000,extended,00000000
+patch=1,EE,4190f2e4,extended,00060001
+patch=1,EE,428c0000,extended,00000000
+
+//Infinite Missiles
+patch=1,EE,D1e85ca8,extended,00000018
+patch=1,EE,21dad86c,extended,00000063
+
+//Infinite Rockets
+patch=1,EE,D1e85ca8,extended,00000018
+patch=1,EE,21dad88c,extended,00000063
+
+//Dark Daxter
+
+//Infinite Health
+patch=1,EE,D1e85ca8,extended,00000019
+patch=1,EE,21ccde30,extended,00000000
+
+//Infinite Dark Eco
+patch=1,EE,D1e85ca8,extended,00000019
+patch=1,EE,21ccc8a0,extended,00000000
+
+//Aeropa II -Laser Maze
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,0000001A
+patch=1,EE,21c5f730,extended,00000000
+
+//Infinite Precursor Orbs
+patch=1,EE,D1E85CA8,extended,0000001A
+patch=1,EE,21bd007c,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E004001A,extended,01e85ca8
+patch=1,EE,21c42054,extended,00000000
+patch=1,EE,21c4e3b4,extended,00000000
+patch=1,EE,21c47b98,extended,00000000
+patch=1,EE,21c55d30,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086d3dcf
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E002001A,extended,01E85CA8
+patch=1,EE,21b4f738,extended,08028000
+patch=1,EE,21b4f73C,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,0000001A
+patch=1,EE,21b4f738,extended,24020001
+
+//Boss Fight-Skyheed
+
+//Infinite Health
+patch=1,EE,D1E85CA8,extended,0000001B
+patch=1,EE,21c85130,extended,00000000
+
+//Infinite Ammo(All Weapons)
+patch=1,EE,E004001B,extended,01e85ca8
+patch=1,EE,21c67c34,extended,00000000
+patch=1,EE,21c73f94,extended,00000000
+patch=1,EE,21c6d778,extended,00000000
+patch=1,EE,21c7b910,extended,00000000
+
+//Have All Weapons/Armor And Items(Savable)
+patch=1,EE,200A0000,extended,241F0001
+patch=1,EE,200A0004,extended,AC5F0014
+patch=1,EE,200A0008,extended,DFBF0000
+patch=1,EE,200A000C,extended,086e11db
+patch=1,EE,200A0010,extended,8C420014
+patch=1,EE,E002001B,extended,01E85CA8
+patch=1,EE,21b84768,extended,08028000
+patch=1,EE,21b8476C,extended,00000000
+
+//All Weapons (Not Savable)
+patch=1,EE,D1e85ca8,extended,0000001B
+patch=1,EE,21b84768,extended,24020001
+
+//Skyheed Chase
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,0000001C
+patch=1,EE,216f04f8,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E004001c,extended,01e85ca8
+patch=1,EE,416f04fc,extended,00020001
+patch=1,EE,420C0000,extended,00000000
+patch=1,EE,416f0504,extended,00060001
+patch=1,EE,428c0000,extended,00000000
+
+//Infinite Missiles
+patch=1,EE,D1e85ca8,extended,0000001C
+patch=1,EE,21db306c,extended,00000063
+
+//Infinite Rockets
+patch=1,EE,D1e85ca8,extended,0000001C
+patch=1,EE,21db308c,extended,00000063
+
+//Boss Fight-Behemoth III
+
+//Infinite Ship Repairs
+patch=1,EE,D1e85ca8,extended,0000001D
+patch=1,EE,21966328,extended,00000008
+
+//Infinite Ship Health(Ship Condition)
+patch=1,EE,E004001D,extended,01e85ca8
+patch=1,EE,4196632c,extended,00020001
+patch=1,EE,420C0000,extended,00000000
+patch=1,EE,41966334,extended,00060001
+patch=1,EE,428c0000,extended,00000000
+
+//Infinite Missiles
+patch=1,EE,D1e85ca8,extended,0000001D
+patch=1,EE,21dac5ec,extended,00000063
+
+//Infinite Rockets
+patch=1,EE,D1e85ca8,extended,0000001D
+patch=1,EE,21dac60c,extended,00000063

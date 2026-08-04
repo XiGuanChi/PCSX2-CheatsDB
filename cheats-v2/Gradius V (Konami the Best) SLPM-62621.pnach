@@ -1,0 +1,5 @@
+gametitle=Gradius V (Konami the Best) SLPM-62621
+//Invincible (press R2 to self-destruct)
+patch=1,EE,202C6E7C,extended,10000003
+patch=1,EE,D0576142,extended,0000FDFF
+patch=1,EE,202C6E7C,extended,00000000

@@ -1,0 +1,17 @@
+gametitle=Kidou Senshi Gundam 00 - Gundam Meisters SLPS-25900
+//Mission mode Kizuna level all members maximum
+patch=1,EE,41E99C78,extended,00100001
+patch=1,EE,00000005,extended,00000000
+
+//Infinite HP
+patch=1,EE,20216D1C,extended,C4840020
+patch=1,EE,20216D28,extended,E484001C
+
+//Infinite GN
+patch=1,EE,20216D14,extended,00000000
+
+//Mission Mode All Bonds Level 5
+patch=1,EE,41E99CBC,extended,00100001
+patch=1,EE,3B9AC9FF,extended,00000000
+patch=1,EE,41E99C78,extended,00100001
+patch=1,EE,00000005,extended,00000000

@@ -1,0 +1,12 @@
+gametitle=The Suffering SLUS-21189
+//Infinite Health
+patch=1,EE,200C0220,extended,03E00008
+patch=1,EE,200C0224,extended,E4800018
+patch=1,EE,20314C58,extended,08030088
+patch=1,EE,20314C5C,extended,C480001C
+
+//Extra Health Kits/Amo
+patch=1,EE,202839B8,extended,00511021
+
+//Infinite Insanity
+patch=1,EE,202B49BC,extended,00000000

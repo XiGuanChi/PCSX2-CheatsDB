@@ -1,0 +1,57 @@
+gametitle=Super Robot Wars Original Generations SLPS-25733
+//Max fund with fund change
+patch=1,EE,20199674,extended,10000008
+patch=1,EE,20199698,extended,3C0205F6
+patch=1,EE,2019969C,extended,2442E0FF
+
+//When acquiring PP Max
+patch=1,EE,201F0FE0,extended,2412270F
+
+//Modification limit 15
+patch=1,EE,201A71D4,extended,2402000F
+patch=1,EE,201A7148,extended,2402000F
+patch=1,EE,201A70C4,extended,2402000F
+patch=1,EE,201A7038,extended,2402000F
+
+//When loading data OG 2.5 appearance Please save after loading data and use without using the code
+patch=1,EE,202E468C,extended,24020001
+patch=1,EE,20456884,extended,00000000
+patch=1,EE,204568D0,extended,00000000
+patch=1,EE,20456A88,extended,00000000
+
+
+//Ability to browse robots large reference books
+patch=1,EE,2019A6EC,extended,10000003
+patch=1,EE,2019A6F8,extended,2401FFFF
+patch=1,EE,2019A6FC,extended,AC41005C
+patch=1,EE,2019A700,extended,24020001
+
+//Character dictionary available for viewing
+patch=1,EE,2019A66C,extended,10000003
+patch=1,EE,2019A678,extended,2401FFFF
+patch=1,EE,2019A67C,extended,AC4100BC
+patch=1,EE,2019A680,extended,24020001
+
+//Acronym dictionary viewable
+patch=1,EE,2019A5E4,extended,10000004
+patch=1,EE,2019A5F8,extended,2401FFFF
+patch=1,EE,2019A5FC,extended,AC41011C
+patch=1,EE,2019A600,extended,24020001
+
+//Sound Select Viewable
+patch=1,EE,2019A564,extended,10000004
+patch=1,EE,2019A578,extended,2401FFFF
+patch=1,EE,2019A57C,extended,AC41029C
+patch=1,EE,2019A580,extended,24020001
+
+//Demo select browsable
+patch=1,EE,2019A4E4,extended,10000004
+patch=1,EE,2019A4F8,extended,2401FFFF
+patch=1,EE,2019A4FC,extended,AC4102BC
+patch=1,EE,2019A500,extended,24020001
+
+//Scenario chart viewable
+patch=1,EE,2019A464,extended,10000004
+patch=1,EE,2019A478,extended,2401FFFF
+patch=1,EE,2019A47C,extended,AC4102CC
+patch=1,EE,2019A480,extended,24020001

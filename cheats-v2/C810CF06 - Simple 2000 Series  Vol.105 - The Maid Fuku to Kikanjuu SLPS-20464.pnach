@@ -1,0 +1,17 @@
+gametitle=Simple 2000 Series  Vol.105 - The Maid Fuku to Kikanjuu SLPS-20464
+//Max Points
+patch=1,EE,20234A4C,extended,05F5E0FF
+
+//Inf. Ammo
+patch=1,EE,2012DF1C,extended,00000000
+patch=1,EE,2012DF30,extended,AC600974
+
+//Never Damage
+patch=1,EE,20130698,extended,00000000
+patch=1,EE,201306B4,extended,AC800970
+
+//All Costumes
+patch=1,EE,10234AE8,extended,00000002
+patch=1,EE,10234AF0,extended,00000002
+patch=1,EE,10234AF8,extended,00000002
+patch=1,EE,10234B00,extended,00000002

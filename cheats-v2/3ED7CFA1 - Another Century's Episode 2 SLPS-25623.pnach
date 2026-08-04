@@ -1,0 +1,99 @@
+gametitle= Another Century's Episode 2 SLPS-25623
+//AcePoint MAX
+patch=1,EE,20389DF4,extended,0098967F
+
+//Maximum shooting point
+patch=1,EE,20385B54,extended,000F423F
+
+//Maximum when ace point fluctuates
+patch=1,EE,201C8FD0,extended,00000000
+
+//Maximum when the shooting point fluctuates
+patch=1,EE,201EF1F4,extended,10000003
+
+//In battle: Maintain maximum durability of your ship
+patch=1,EE,2027B32C,extended,0809F1D5
+patch=1,EE,2027C754,extended,8C8200D0
+patch=1,EE,2027C758,extended,0809ECCD
+patch=1,EE,2027C75C,extended,AC8200D4
+
+//In battle: Maintain maximum vernier gauge
+patch=1,EE,2027B474,extended,0809F445
+patch=1,EE,2027D114,extended,C48103D8
+patch=1,EE,2027D118,extended,0809ED1F
+patch=1,EE,2027D11C,extended,E48103D4
+
+//In battle: Maximum when chain time increases
+patch=1,EE,201C67C0,extended,00000000
+
+//Reload Weapon Mandatory Code
+patch=1,EE,2027BFD4,extended,0809F595
+patch=1,EE,2027D658,extended,0809F68D
+patch=1,EE,2027DA38,extended,0809EFF7
+patch=1,EE,2027DA3C,extended,8446000E
+
+//Reload moment Valid only for reloadable weapons. Used in combination with the reload weapon required code.
+patch=1,EE,2027D654,extended,3C013000
+patch=1,EE,2027D65C,extended,AC410004
+
+//Can be fired continuously Free missions will be added, and special performance enhancement restrictions will be lifted.
+patch=1,EE,2027DA34,extended,AC400000
+
+//When strengthening a unit: Maximum unit experience value
+patch=1,EE,20215B98,extended,00430821
+patch=1,EE,20215B9C,extended,08085781
+patch=1,EE,20215BA0,extended,3C020001
+patch=1,EE,20215E04,extended,344286A0
+patch=1,EE,20215E08,extended,080856EA
+patch=1,EE,20215E0C,extended,AC220840
+
+//Maximum when you get unit experience points
+patch=1,EE,201C926C,extended,10000003
+
+//Maximum when skill increases
+patch=1,EE,201C95FC,extended,24500000
+
+//Looking at the modules, 99
+patch=1,EE,20215E24,extended,00A20821
+patch=1,EE,20215E28,extended,08085782
+patch=1,EE,20215E2C,extended,24020063
+patch=1,EE,20215E08,extended,03E00008
+patch=1,EE,20215E0C,extended,A0220000
+
+//1 lap cleared flag Free missions will be added, and special performance enhancement restrictions will be lifted.
+patch=1,EE,003886E4,extended,00000002
+
+//All aircraft appear by selecting a sortie and browsing the player unit
+patch=1,EE,2021505C,extended,00A20821
+patch=1,EE,20215060,extended,24020002
+patch=1,EE,20215064,extended,A0220010
+patch=1,EE,20215068,extended,03E00008
+
+//Maximum combination gauge with L2 button
+patch=1,EE,2029539C,extended,00000000
+patch=1,EE,202953A0,extended,46000803
+patch=1,EE,D03842C2,extended,0000FEFF
+patch=1,EE,2029539C,extended,E480001C
+
+//Maximum wingman durability
+patch=1,EE,2027C5A4,extended,00029080
+patch=1,EE,2027C5A8,extended,8C8200D0
+patch=1,EE,2027C5B8,extended,AC8200D4
+
+//Own & wingman: Maintain maximum durability
+patch=1,EE,202563B8,extended,03E00008
+patch=1,EE,202563BC,extended,AC8200D4
+patch=1,EE,2027B32C,extended,0C0958ED
+patch=1,EE,2027C5A4,extended,0C0958ED
+
+//Maximum when the combination gauge rises
+patch=1,EE,2029517C,extended,00000000
+patch=1,EE,20295198,extended,00000000
+
+//Achieve a secret when you clear the mission
+patch=1,EE,201C727C,extended,00000000
+
+//Great attack power of own machine
+patch=1,EE,20242C94,extended,10000003
+patch=1,EE,20242CD4,extended,3C017000
+patch=1,EE,20242CD8,extended,AC410018

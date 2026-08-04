@@ -1,0 +1,27 @@
+gametitle=Star Ocean - Till the End of Time  - Director's Cut SCAJ 20070-1
+//exp x16
+patch=1,EE,20252FD0,extended,4A0002FF
+patch=1,EE,20252FD8,extended,00129100
+
+//money max
+patch=1,EE,20253310,extended,14200001
+patch=1,EE,20253318,extended,3C123B9A
+patch=1,EE,20253324,extended,3652C9FF
+
+//sp 9999
+patch=1,EE,D035614C,extended,0000200A
+patch=1,EE,2035614C,extended,00052025
+
+//1 hit kill
+patch=1,EE,201E4F68,extended,24037D72
+patch=1,EE,201E4F70,extended,24027D72
+patch=1,EE,201E56A8,extended,24037D72
+patch=1,EE,201E56B0,extended,24027D72
+
+//mp99999
+patch=1,EE,D03FA7C2,extended,00000062
+patch=1,EE,203FA7C0,extended,0060280A
+
+//hp99999
+patch=1,EE,D03FAB92,extended,00000062
+patch=1,EE,203FAB90,extended,0060280A

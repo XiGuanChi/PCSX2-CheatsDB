@@ -1,0 +1,37 @@
+gametitle=Shinseiki Genso - Spectral Souls SLPM-65391
+//Max Money 
+patch=1,EE,2019FF38,extended,00000000
+
+//Forced enemy HP = 1
+patch=1,EE,20192558,extended,34020001
+patch=1,EE,20192560,extended,5C600060
+patch=1,EE,20192564,extended,AE620CA4
+
+//HP complete
+patch=1,EE,200F4014,extended,8C810D78
+patch=1,EE,200F4018,extended,AC810CA4
+
+//MP complete
+patch=1,EE,200F401C,extended,8C810D7C
+patch=1,EE,200F4020,extended,AC810CA8
+
+//AP (99)
+patch=1,EE,200F4038,extended,340326AC
+patch=1,EE,200F403C,extended,AC830D80
+patch=1,EE,200F4040,extended,AC830CAC
+patch=1,EE,200F4044,extended,AC830CC0
+
+//Status Max when leveling up
+patch=1,EE,20193538,extended,00000000
+patch=1,EE,20193638,extended,2403270F
+patch=1,EE,20193648,extended,240303E7
+patch=1,EE,20193658,extended,24030032
+patch=1,EE,20193668,extended,24030032
+patch=1,EE,20193678,extended,24030032
+patch=1,EE,20193688,extended,24030032
+patch=1,EE,20193698,extended,24030032
+patch=1,EE,201936A8,extended,240303E7
+patch=1,EE,201936B0,extended,AC830CE0
+patch=1,EE,20193640,extended,AC830CC0
+patch=1,EE,201936B8,extended,03E00008
+

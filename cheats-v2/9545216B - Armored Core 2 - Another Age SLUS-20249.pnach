@@ -1,0 +1,42 @@
+gametitle=Armored Core 2 - Another Age SLUS-20249
+//Max Money
+patch=1,EE,2031A700,extended,05F5E0FF
+
+//Infinite AP
+patch=1,EE,10306F44,extended,00009C3C
+
+//Infinite Power
+patch=1,EE,10306F48,extended,00009C3C
+
+//Infinite Right Ammo
+patch=1,EE,10307808,extended,000003E7
+
+//Max Right Ammo
+patch=1,EE,1030780A,extended,000003E7
+
+//Max Infinite Right Ammo
+patch=1,EE,20307808,extended,03E703E7
+
+//Infinite Back Ammo
+patch=1,EE,10307888,extended,00000063
+patch=1,EE,10307908,extended,00000063
+
+//infinite Ammo (All Weapons)
+patch=1,EE,2014E7CC,extended,00000000
+
+//Extra Ammo (All Weapons)
+patch=1,EE,1014E7C8,extended,00000001
+
+//System Info Codes ==
+
+//Max Sorties
+patch=1,EE,1031A70A,extended,000003E7
+
+//Max Successful Sorties
+patch=1,EE,1031A70C,extended,000003E7
+
+//Have All Objectives Complete
+patch=1,EE,1031A8F2,extended,00000202
+patch=1,EE,4031A8F4,extended,00180001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,1031A954,extended,00000202

@@ -1,0 +1,13 @@
+gametitle=Tokobot Plus - Mysteries of the Karakuri SLUS-21471
+//Max Money
+patch=1,EE,206B6FBC,extended,000F423F
+
+//Infinite Health
+patch=1,EE,006B6BD0,extended,00000064
+patch=1,EE,006B6BD4,extended,00000064
+
+//999 Prehistorik Items
+patch=1,EE,406B6FC0,extended,00030001
+patch=1,EE,000003E7,extended,00000000
+
+

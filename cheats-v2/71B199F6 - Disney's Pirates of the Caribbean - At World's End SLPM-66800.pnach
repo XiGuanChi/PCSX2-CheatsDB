@@ -1,0 +1,10 @@
+gametitle=Disney's Pirates of the Caribbean - At World's End SLPM-66800
+//Unlock Stage selection, Character selection, Challenge mode, Duel
+patch=1,EE,40397F90,extended,00C20002
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,003985B8,extended,00000001
+patch=1,EE,003985D0,extended,00000001
+patch=1,EE,003985E8,extended,00000001
+patch=1,EE,003985A8,extended,00000001
+patch=1,EE,003985A0,extended,00000001
+patch=1,EE,003985C0,extended,00000001

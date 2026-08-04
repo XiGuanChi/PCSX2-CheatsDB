@@ -1,0 +1,20 @@
+gametitle=DearS SLPS-25372
+//Infinite Money (99999)
+patch=1,EE,202705C8,extended,0001869F
+
+//Gallery fully open
+patch=1,EE,40270433,extended,00250001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,102704D0,extended,0000FFFF
+patch=1,EE,002704C7,extended,000000FF
+
+//Unlock All CG 
+patch=1,EE,40270430,extended,00260001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Unlock All Characters 
+patch=1,EE,20270504,extended,FFFFFFFF
+patch=1,EE,20270508,extended,FFFFFFFF
+
+//Unlock All Music 
+patch=1,EE,102704D0,extended,0000FFFF

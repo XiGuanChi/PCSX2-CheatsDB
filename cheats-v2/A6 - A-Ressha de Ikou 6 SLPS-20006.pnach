@@ -1,0 +1,9 @@
+gametitle=A6 - A-Ressha de Ikou 6 SLPS-20006
+//The Kyoto funds 5000
+patch=1,EE,20881380,extended,37E08000
+patch=1,EE,20881384,extended,0011C379
+
+//All checkpoints unlocked
+patch=1,EE,20903840,extended,02020202
+patch=1,EE,20903844,extended,02020202
+

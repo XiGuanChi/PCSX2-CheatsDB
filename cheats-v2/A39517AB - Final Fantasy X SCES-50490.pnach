@@ -1,0 +1,31 @@
+gametitle=Final Fantasy X SCES-50490
+
+//Inf. Gil
+patch=1,EE,0031D218,extended,05F5BABE
+
+//No Random Battles
+patch=0,EE,003173F7,extended,00000000
+
+//Invincible Mode
+patch=1,EE,00317319,extended,00000001
+
+//All Enemies Start With 1 HP
+patch=1,EE,0031733E,extended,00000001
+
+//Unlimited MP
+patch=1,EE,00317321,extended,00000001
+
+//Unlimited Overdrive
+patch=1,EE,0031732C,extended,00000001
+
+//Max HP Tidus
+patch=1,EE,0031EAC0,extended,0000270F
+
+//Max MP Tidus
+patch=1,EE,0031EAC4,extended,000003E7
+
+//Max HP Yuna 
+patch=1,EE,0031EB54,extended,0000270F
+
+//Max MP Yuna 
+patch=1,EE,0031EB58,extended,000003E7

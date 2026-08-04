@@ -1,0 +1,7 @@
+gametitle=Simple 2000 Series Vol. 53: The Camera Koz SLPM-62495
+//Max  by getting points
+patch=1,EE,20126D40,extended,00000000
+
+//Maximum attractiveness when requested
+patch=1,EE,20149F34,extended,3C0142C8
+patch=1,EE,20149F44,extended,44810800

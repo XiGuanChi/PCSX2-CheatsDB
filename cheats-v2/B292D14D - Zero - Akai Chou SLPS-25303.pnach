@@ -1,0 +1,30 @@
+gametitle=Zero - Akai Chou SLPS-25303
+//Infinite Health
+patch=1,EE,201FD260,extended,00006000
+patch=1,EE,201FD268,extended,00006000
+
+//max Points
+patch=1,EE,204083FC,extended,000F423F
+
+//99 pieces when you take the japamala
+patch=1,EE,201A534C,extended,00000000
+
+//Film does not decrease
+patch=1,EE,201FB448,extended,24050000
+
+//Recovery items do not decrease
+patch=1,EE,2019F898,extended,0000282D
+
+//Activated without Kagamiishi
+patch=1,EE,201F9058,extended,03FD1025
+patch=1,EE,201F90C4,extended,00002825
+
+//max by getting consumable items
+patch=1,EE,2019F778,extended,00000000
+
+//Camera can be strengthened without the need for points
+patch=1,EE,201B89CC,extended,AD000AD4
+patch=1,EE,201B89F8,extended,AD000AE4
+patch=1,EE,201B8A24,extended,AD000AF4
+patch=1,EE,201B92B0,extended,AD000B04
+patch=1,EE,201B9B34,extended,0000202D

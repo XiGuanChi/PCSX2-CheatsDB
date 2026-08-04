@@ -1,0 +1,54 @@
+gametitle=Rez SLPM-62101
+//CCC
+patch=1,EE,2014E718,extended,0803C000
+patch=1,EE,200F0100,extended,03E00008
+patch=1,EE,200F0000,extended,3C040005
+patch=1,EE,200F0004,extended,03842022
+patch=1,EE,200F0008,extended,8484FEB8
+patch=1,EE,200F000C,extended,3C01001F
+patch=1,EE,200F0010,extended,3425349C
+patch=1,EE,200F0014,extended,03E52820
+
+//CMC - 01: Player level rise with L1
+patch=1,EE,200F0030,extended,30880004
+patch=1,EE,200F0034,extended,11000003
+patch=1,EE,200F0038,extended,20090008
+patch=1,EE,200F003C,extended,ACA94084
+
+//CMC-02: Overdrive gauge MAX with L2
+patch=1,EE,200F0050,extended,30880001
+patch=1,EE,200F0054,extended,11000003
+patch=1,EE,200F0058,extended,20090004
+patch=1,EE,200F005C,extended,ACA94088
+
+//CMC-03: All beyond
+patch=1,EE,200F0070,extended,200869F2
+patch=1,EE,200F0074,extended,3C090104
+patch=1,EE,200F0078,extended,70084788
+patch=1,EE,200F007C,extended,01094025
+patch=1,EE,200F0080,extended,20090006
+patch=1,EE,200F0084,extended,AD090504
+patch=1,EE,200F0088,extended,21290001
+patch=1,EE,200F008C,extended,AD09051C
+patch=1,EE,200F0090,extended,21290001
+patch=1,EE,200F0094,extended,AD090514
+patch=1,EE,200F0098,extended,2129FFFD
+patch=1,EE,200F009C,extended,AD090524
+patch=1,EE,200F00A0,extended,20090001
+patch=1,EE,200F00A4,extended,AD090508
+patch=1,EE,200F00A8,extended,AD09050C
+patch=1,EE,200F00AC,extended,AD090510
+patch=1,EE,200F00B0,extended,AD090518
+patch=1,EE,200F00B4,extended,AD090520
+
+//CMC-04: R2, Score + = 10 / R1 + R2 and Score + = 200
+patch=1,EE,200F00C0,extended,2008000A
+patch=1,EE,200F00C4,extended,3089000A
+patch=1,EE,200F00C8,extended,51280004
+patch=1,EE,200F00CC,extended,200A00C8
+patch=1,EE,200F00D0,extended,30880002
+patch=1,EE,200F00D4,extended,11000004
+patch=1,EE,200F00D8,extended,200A000A
+patch=1,EE,200F00DC,extended,8CA8409C
+patch=1,EE,200F00E0,extended,010A4020
+patch=1,EE,200F00E4,extended,ACA8409C

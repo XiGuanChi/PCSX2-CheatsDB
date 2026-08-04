@@ -1,0 +1,32 @@
+gametitle=Shadow Man: 2econd Coming SLES-50446
+//Take No Damage
+patch=1,EE,20104078,extended,00000000
+
+//Infinite Health
+patch=1,EE,2010C0C0,extended,03E00008
+patch=1,EE,2010C0C4,extended,00000000
+
+//Invincible
+patch=1,EE,202BB454,extended,00000001
+
+//Have All Menu Items/Weapons
+patch=1,EE,202BA1CC,extended,00000001
+
+//Options Menu Codes Press: L1+L2 Debug 1 Menu Activated
+patch=1,EE,E002FAFF,extended,002F74C2
+patch=1,EE,20306CE4,extended,FFFFFFFF
+patch=1,EE,10161150,extended,00000041
+
+//Press: R1+R2 Debug 2 Menu Activated
+patch=1,EE,E002F5FF,extended,002F74C2
+patch=1,EE,20306CE4,extended,FFFFFFFF
+patch=1,EE,10161150,extended,00000045
+
+//(Press: L3+R3) Debug 3 Menu Activated
+patch=1,EE,E002FFF9,extended,002F74C2
+patch=1,EE,20306CE4,extended,FFFFFFFF
+patch=1,EE,10161150,extended,00000049
+
+//Infinite Voodoo Codes All Voodoos
+patch=1,EE,20187178,extended,03E00008
+patch=1,EE,2018717C,extended,00000000

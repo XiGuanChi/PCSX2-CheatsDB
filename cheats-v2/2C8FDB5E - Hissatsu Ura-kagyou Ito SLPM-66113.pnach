@@ -1,0 +1,33 @@
+gametitle=Hissatsu Ura-kagyou Ito SLPM-66113
+//Max Money 
+patch=1,EE,2068E548,extended,0098967F
+
+//Does not decrease life 
+patch=1,EE,2068E558,extended,00000064
+
+//Does not decrease the original 
+patch=1,EE,2068E55C,extended,00000064
+
+//Max reputation of table
+patch=1,EE,2068E550,extended,00000064
+
+//Max Resentment degree
+patch=1,EE,2068F564,extended,00000064
+
+//Play time 0
+patch=1,EE,2068E54C,extended,00000000
+
+//Max reputation of the back
+patch=1,EE,2068E554,extended,00000064
+
+//Back breadwinner at the time, not decrease life
+patch=1,EE,D0440482,extended,00107FFF
+patch=1,EE,201AA1B8,extended,00000000
+patch=1,EE,D0440482,extended,00007FFF
+patch=1,EE,201AA1B8,extended,46010001
+
+//Fight time, not decrease life
+patch=1,EE,D0440482,extended,00107FFF
+patch=1,EE,201A9D48,extended,00000000
+patch=1,EE,D0440482,extended,00007FFF
+patch=1,EE,201A9D48,extended,46010001

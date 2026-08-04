@@ -1,0 +1,12 @@
+gametitle=Police 24-7 SLES-50285
+//Another Story Open
+patch=1,EE,202C33A0,extended,00000001
+
+//Infinite credits
+patch=1,EE,203A2F10,extended,00000003
+
+//No Reload
+patch=1,EE,203A6CF0,extended,00000808
+
+//Infinite Time
+patch=1,EE,203A69F8,extended,00000999

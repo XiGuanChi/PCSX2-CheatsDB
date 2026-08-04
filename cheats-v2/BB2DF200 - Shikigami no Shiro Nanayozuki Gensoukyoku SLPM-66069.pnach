@@ -1,0 +1,26 @@
+gametitle=Shikigami no Shiro Nanayozuki Gensoukyoku SLPM-66069
+//Coins 99999
+patch=1,EE,20143AC0,extended,AE0400B0
+
+//T·B·S The time of T, B, S becomes longer than usual.
+patch=1,EE,20143B6C,extended,01072021
+
+//All CG galleries 
+patch=1,EE,203A5628,extended,FFFFFFFF 
+patch=1,EE,203A562C,extended,FFFFFFFF 
+patch=1,EE,203A5630,extended,FFFFFFFF 
+patch=1,EE,203A5634,extended,FFFFFFFF 
+patch=1,EE,203A5638,extended,FFFFFFFF 
+patch=1,EE,203A563C,extended,FFFFFFFF
+
+//Enable Debug Menus The first debug menu (Scene Select & Test Options) is enabled when starting a new game. If you are using an emulator, you will need to restart your game.
+//The second debug Debug Menu 2 (Boss Selector) menu is accessed by pressing and holding L1 + Circle at the main menu.
+//The third debug menu Debug Menu 3 (Scene Selector) is accessed by pressing and holding L2 + Circle at the main menu.
+patch=1,EE,00295124,extended,00000002
+patch=1,EE,D037EB02,extended,0000DBFF
+patch=1,EE,20167444,extended,24020006
+patch=1,EE,D037EB02,extended,0000DEFF
+patch=1,EE,20167444,extended,2402000C
+patch=1,EE,D037EB02,extended,0000FFFF
+patch=1,EE,20167444,extended,96223F58
+

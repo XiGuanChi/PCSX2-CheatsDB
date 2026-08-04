@@ -1,0 +1,30 @@
+gametitle=Armored Core - Silent Line SLUS-20644
+//Arena point MAX
+patch=1,EE,20483BC0,extended,000F423F
+
+//1P AP 999
+patch=1,EE,20291174,extended,00009C3BMax Money
+patch=1,EE,204E2DB0,extended,05F5E0FF
+
+//Infinite AP
+patch=1,EE,103402C4,extended,00009C3C
+
+//Infinite Power
+patch=1,EE,103402C8,extended,00009C3C
+
+//Mechs Never Overweight
+patch=1,EE,1010C14E,extended,00001000
+
+//infinite Ammo (All Weapons)
+patch=1,EE,201103F0,extended,00000000
+
+//Extra Ammo (All Weapons)
+patch=1,EE,101103E4,extended,00000001
+
+//Start On Last Mission
+patch=1,EE,E04E2DC0,extended,00200020
+patch=1,EE,204E2DC0,extended,00000021
+
+//Credits Dont Decrease For Consorts
+patch=1,EE,201EE410,extended,24020000
+patch=1,EE,201EE438,extended,24020000

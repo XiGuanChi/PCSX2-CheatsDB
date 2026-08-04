@@ -1,0 +1,16 @@
+gametitle=Madden NFL '07 SLUS-21476
+//Always 4th Down
+patch=1,EE,1096C8E0,extended,00000004
+
+//Infinite Tokens
+patch=1,EE,21DF5878,extended,00002710
+
+//Super Score-Training
+patch=1,EE,203F0A98,extended,24032710
+
+//All Madden Cards
+patch=1,EE,21DF5964,extended,0000011B
+patch=1,EE,41DF59D0,extended,00FF0001
+patch=1,EE,0033E010,extended,00000010
+patch=1,EE,41DF5DCC,extended,001C0001
+patch=1,EE,0033F000,extended,00000010

@@ -1,0 +1,12 @@
+gametitle=Splatter Master SLES-53368
+//Infinite Health ASM 
+patch=1,EE,201667BC,extended,00000000
+
+//Infinite Heart
+patch=1,EE,20283F00,extended,006400C8
+
+//Infinite Gas
+patch=1,EE,20283F04,extended,000509C4
+
+//Infinite Gold
+patch=1,EE,20283F08,extended,0001869F

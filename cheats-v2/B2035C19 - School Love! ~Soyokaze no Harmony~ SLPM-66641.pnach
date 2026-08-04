@@ -1,0 +1,5 @@
+gametitle=School Love! ~Soyokaze no Harmony~ SLPM-66641
+//Unlock All CG 
+patch=1,EE,4023DDD0,extended,00090001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,0023DDF4,extended,000000FF

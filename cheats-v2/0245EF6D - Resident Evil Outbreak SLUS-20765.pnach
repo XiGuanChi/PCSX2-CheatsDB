@@ -1,0 +1,24 @@
+gametitle=Resident Evil Outbreak SLUS-20765
+//Infinite Health
+patch=1,EE,206607A0,extended,2403270F
+patch=1,EE,206607A8,extended,AE030544
+
+//Iinfinite Ammo
+patch=1,EE,205B1FDC,extended,00000000
+
+//Infinite Item Usage
+patch=1,EE,205B215C,extended,00000000
+patch=1,EE,205B2170,extended,00000000
+patch=1,EE,205B5184,extended,00000000
+
+//Don't Become A Zombie Over Time
+patch=1,EE,D0667DF4,extended,00009F8C
+patch=1,EE,20667DFC,extended,00000000
+
+//Don't Become A Zombie When Bitten
+patch=1,EE,D06600FC,extended,00009FCC
+patch=1,EE,20660100,extended,00000000
+
+//Have All Collection Purchased
+patch=1,EE,403232D4,extended,00060001
+patch=1,EE,FFFFFFFF,extended,00000000

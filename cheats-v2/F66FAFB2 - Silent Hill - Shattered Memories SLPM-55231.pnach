@@ -1,0 +1,7 @@
+gametitle=Silent Hill - Shattered Memories SLPM-55231
+//Infinite health
+patch=1,EE,2016B520,extended,C48117A8
+patch=1,EE,2016B528,extended,E48117A4
+
+//Enemies Don't Grab You
+patch=1,EE,2015CBC4,extended,100000B4

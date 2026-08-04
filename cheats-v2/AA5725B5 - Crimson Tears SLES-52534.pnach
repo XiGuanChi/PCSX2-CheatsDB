@@ -1,0 +1,30 @@
+gametitle=Crimson Tears SLES-52534
+//Infinite Funds
+patch=1,EE,203AD7AC,extended,000F423F
+
+//All Levels Unlocked
+patch=1,EE,203AEA34,extended,02020202
+
+//All Movies Unlocked
+patch=1,EE,103AFC46,extended,00000101
+patch=1,EE,403AFC48,extended,00050001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,103AFC5C,extended,00000101
+
+//All Monsters Unlocked
+patch=1,EE,103AFC66,extended,00000101
+patch=1,EE,403AFC68,extended,00060001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,103AFC80,extended,00000101
+
+//Amber Quick Level Up
+patch=1,EE,203AFCD0,extended,000F423F
+
+//Amber Max/Full Health
+patch=1,EE,103AFC98,extended,000003E7
+patch=1,EE,103AFCA0,extended,000003E7
+
+//Tokio Max/Full Health
+patch=1,EE,103AFED8,extended,000003E7
+patch=1,EE,103AFEE0,extended,000003E7
+

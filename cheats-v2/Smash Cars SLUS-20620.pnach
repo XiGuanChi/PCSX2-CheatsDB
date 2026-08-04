@@ -1,0 +1,27 @@
+gametitle=Smash Cars SLUS-20620
+//Always Low Time
+patch=1,EE,20498988,extended,00000000
+
+//1Hit For 999 Points
+patch=1,EE,202CC7D8,extended,3C034479
+patch=1,EE,202CC7DC,extended,3463C000
+patch=1,EE,202CC7E0,extended,44830000
+
+//Infinite Boost
+patch=1,EE,20306CBC,extended,00000000
+
+//Max Cash
+patch=1,EE,20893A28,extended,0001869F
+
+//Unlock All Tracks
+patch=1,EE,40893910,extended,00050001
+patch=1,EE,02020202,extended,00000000
+
+//Have All Championship Tracks Passed
+patch=1,EE,408938F0,extended,00050001
+patch=1,EE,02020202,extended,00000000
+
+//Unlock All Cars
+patch=1,EE,408938F0,extended,00030001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,0089393C,extended,00000001

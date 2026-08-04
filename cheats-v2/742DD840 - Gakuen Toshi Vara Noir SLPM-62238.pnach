@@ -1,0 +1,159 @@
+gametitle=Gakuen Toshi Vara Noir SLPM-62238
+//HP999 fixed Miu current
+patch=1,EE,21823638,extended,000003E7
+
+//HP999 fixed lute current
+patch=1,EE,218240D8,extended,000003E7
+
+//HP999 fixed Nagi current
+patch=1,EE,21824B78,extended,000003E7
+
+//HP999 fixed Norns current
+patch=1,EE,21825618,extended,000003E7
+
+//HP999 fixed Neige current
+patch=1,EE,218260B8,extended,000003E7
+
+//HP999 fixed current week
+patch=1,EE,21826B58,extended,000003E7
+
+//HP999 fixed Corno current
+patch=1,EE,218275F8,extended,000003E7
+
+//HP999 fixed Frederica current
+patch=1,EE,21828098,extended,000003E7
+
+//HP999 fixed timid current
+patch=1,EE,21828B38,extended,000003E7
+
+//HP999 vanilla fixed current
+patch=1,EE,218295D8,extended,000003E7
+
+//HP999 fixed Choco current
+patch=1,EE,2182A078,extended,000003E7
+
+//HP999 fixed false charge current
+patch=1,EE,2182AB18,extended,000003E7
+
+//HP999 fixed Rimurimu current
+patch=1,EE,2182B5B8,extended,000003E7
+
+//HP999 fixed Dupre current
+patch=1,EE,2182C058,extended,000003E7
+
+//HP999 fixed Tarunada current
+patch=1,EE,2182CAF8,extended,000003E7
+
+//HP999 fixed Garahado current
+patch=1,EE,2182D598,extended,000003E7
+
+//HP999 fixed Figo current
+patch=1,EE,2182E038,extended,000003E7
+
+//HP999 fixed night sky right now
+patch=1,EE,2182EAD8,extended,000003E7
+
+//HP999 fixed Mirko current
+patch=1,EE,2182F578,extended,000003E7
+
+//HP999 fixed Grunewald default current
+patch=1,EE,21830018,extended,000003E7
+
+//HP999 fixed two current waste
+patch=1,EE,21830AB8,extended,000003E7
+
+//HP999 fixed flask current
+patch=1,EE,21831558,extended,000003E7
+
+//HP999 Horn fixed current
+patch=1,EE,21831FF8,extended,000003E7
+
+//HP999 fixed Raoul current
+patch=1,EE,21832A98,extended,000003E7
+
+//HP999 fixed Charion current
+patch=1,EE,21833538,extended,000003E7
+
+//HP999 fixed current Brad Rose
+patch=1,EE,21833FD8,extended,000003E7
+
+//HP999 fixed Kyuo current
+patch=1,EE,21834A78,extended,000003E7
+
+//HP999 fixed Helene current
+patch=1,EE,21835518,extended,000003E7
+
+//HP999 fixed Nora Nora current
+patch=1,EE,21835FB8,extended,000003E7
+
+//HP999 fixed Fabieru current
+patch=1,EE,21836A58,extended,000003E7
+
+//HP999 fixed musette current
+patch=1,EE,218374F8,extended,000003E7
+
+//HP999 fixed Lionel current
+patch=1,EE,21837F98,extended,000003E7
+
+//HP999 fixed Lutz current
+patch=1,EE,21838A38,extended,000003E7
+
+//HP999 fixed nail current
+patch=1,EE,218394D8,extended,000003E7
+
+//HP999 fixed Len Walt current
+patch=1,EE,21839F78,extended,000003E7
+
+//HP999 first fixed current
+patch=1,EE,2183AA18,extended,000003E7
+
+//HP999 fixed Himihana current
+patch=1,EE,2183B4B8,extended,000003E7
+
+//HP999 fixed Mine currently
+patch=1,EE,2183BF58,extended,000003E7
+
+//HP999 fixed Ciel current
+patch=1,EE,2183C9F8,extended,000003E7
+
+//HP999 fixed Scarface current
+patch=1,EE,2183D498,extended,000003E7
+
+//Always pass test
+patch=1,EE,21822188,extended,00000001
+
+//999 Philosopher's Stone
+patch=1,EE,21811ED4,extended,000003E7
+
+//All titles
+patch=1,EE,0182288D,extended,00000001
+patch=1,EE,1182288E,extended,00000101
+patch=1,EE,21822890,extended,01010101
+patch=1,EE,21822894,extended,01010101
+patch=1,EE,21822898,extended,01010101
+patch=1,EE,2182289C,extended,01010101
+patch=1,EE,218228A0,extended,01010101
+patch=1,EE,218228A4,extended,01010101
+patch=1,EE,218228A8,extended,01010101
+patch=1,EE,018228AC,extended,00000001
+
+//Item dictionary fully open
+patch=1,EE,01822791,extended,00000001
+patch=1,EE,0182288C,extended,00000001
+patch=1,EE,11822792,extended,00000101
+patch=1,EE,41822794,extended,003E0001
+patch=1,EE,01010101,extended,00000000
+
+//CG & Yoshiyoshi fully open
+patch=1,EE,4134B250,extended,01520001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,41349B18,extended,00290001
+patch=1,EE,00000002,extended,00000000
+patch=1,EE,41349B18,extended,00290001
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,41349F78,extended,00E40001
+patch=1,EE,00000002,extended,00000000
+
+//All diaries can be viewed save data is required (save not reflected)
+patch=1,EE,2016929C,extended,24030001
+patch=1,EE,201692A0,extended,A0430000

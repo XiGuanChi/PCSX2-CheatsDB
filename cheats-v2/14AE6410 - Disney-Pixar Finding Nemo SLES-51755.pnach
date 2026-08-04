@@ -1,0 +1,80 @@
+gametitle=Disney/Pixar Finding Nemo SLES-51755
+//Invincibility Mode
+patch=1,EE,2043EA64,extended,3FDC0000
+
+//Loadsa Sea Snails
+patch=1,EE,20431A58,extended,05F5E0FF
+patch=1,EE,20431A5C,extended,05F5E0FF
+
+//Unlock/Complete Level Codes Do not use more than one code per level.
+//Going To School
+patch=0,EE,20435D08,extended,0003FFFF
+patch=0,EE,20435DE0,extended,0003FFFF
+
+//Field Trip
+patch=0,EE,20435D14,extended,0003FFFF
+patch=0,EE,20435DEC,extended,0003FFFF
+
+//The Drop Off
+patch=0,EE,20435D20,extended,0003FFFF
+patch=0,EE,20435DF8,extended,0003FFFF
+
+//Mask Chase
+patch=0,EE,20435D2C,extended,0003FFFF
+patch=0,EE,20435E04,extended,0003FFFF
+
+//Catch Dory
+patch=0,EE,20435D38,extended,0003FFFF
+patch=0,EE,20435E10,extended,0003FFFF
+
+//Minefield
+patch=0,EE,20435D44,extended,0003FFFF
+patch=0,EE,20435E1C,extended,0003FFFF
+
+//Submarine
+patch=0,EE,20435D50,extended,0003FFFF
+patch=0,EE,20435E28,extended,0003FFFF
+
+//Hide And Seek
+patch=0,EE,20435D5C,extended,0003FFFF
+patch=0,EE,20435E34,extended,0003FFFF
+
+//Mask Search
+patch=0,EE,20435D68,extended,0003FFFF
+patch=0,EE,20435E40,extended,0003FFFF
+
+//Anglerfish Chase
+patch=0,EE,20435D74,extended,0003FFFF
+patch=0,EE,20435E4C,extended,0003FFFF
+
+//Mount Wannahockaloogie
+patch=0,EE,20435D80,extended,0003FFFF
+patch=0,EE,20435E58,extended,0003FFFF
+
+//Jellyfish Race
+patch=0,EE,20435D8C,extended,0003FFFF
+patch=0,EE,20435E64,extended,0003FFFF
+
+//Training With Gill
+patch=0,EE,20435D98,extended,0003FFFF
+patch=0,EE,20435E70,extended,0003FFFF
+
+//East Australian Current
+patch=0,EE,20435DA4,extended,0003FFFF
+patch=0,EE,20435E7C,extended,0003FFFF
+
+//The Plan
+patch=0,EE,20435DB0,extended,0003FFFF
+patch=0,EE,20435E88,extended,0003FFFF
+
+//Whale Chase
+patch=0,EE,20435DBC,extended,0003FFFF
+patch=0,EE,20435E94,extended,0003FFFF
+
+//Treatment Plant
+patch=0,EE,20435DC8,extended,0003FFFF
+patch=0,EE,20435EA0,extended,0003FFFF
+
+//Fishing Net Rescue
+patch=1,EE,20435DD4,extended,0003FFFF
+patch=1,EE,20435EAC,extended,0003FFFF

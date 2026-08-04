@@ -1,0 +1,21 @@
+gametitle=SkyGunner SCPS-11006
+//Aircraft temperature recovers instantly · Ciel
+patch=1,EE,D074A4DE,extended,00003DCC
+patch=1,EE,2074A4DC,extended,42480000
+
+//Recovery at aircraft temperature in a moment · FAM
+patch=1,EE,D074A5DE,extended,00003DEE
+patch=1,EE,2074A5DC,extended,42480000
+
+//Recovery at aircraft temperature in a moment · Copan
+patch=1,EE,D074A55E,extended,00003DCC
+patch=1,EE,2074A55C,extended,42480000
+
+//Recover at moment of machine temperature · Aldi
+patch=1,EE,D074A65E,extended,00003DAA
+patch=1,EE,2074A65C,extended,42480000
+
+//Infinite bullets
+patch=1,EE,2017CFC0,extended,63636363
+patch=1,EE,1017CFC4,extended,00006363
+

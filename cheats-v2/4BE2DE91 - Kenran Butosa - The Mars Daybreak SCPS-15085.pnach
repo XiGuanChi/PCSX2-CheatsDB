@@ -1,0 +1,87 @@
+gametitle=Kenran Butosa - The Mars Daybreak SCPS-15085
+//Degree of sufficiency
+patch=1,EE,205C45AC,extended,00000001
+
+//Body ability
+patch=1,EE,205C45B0,extended,00000001
+
+//Spiritual ability
+patch=1,EE,205C45B4,extended,00000001
+
+//Feeling value
+patch=1,EE,205C45B8,extended,00000001
+
+//The conduct limit it does not decrease
+patch=1,EE,205C4650,extended,00000001
+
+//Durability it does not decrease
+patch=1,EE,205C4654,extended,00000001
+
+//The torpedo it does not decrease
+patch=1,EE,205C4658,extended,00000001
+
+//The mine it does not decrease
+patch=1,EE,205C465C,extended,00000001
+
+//Necessary cord code  During status indicating when the L2 + SELECT button is pushed, effective motion.
+patch=1,EE,200F4100,extended,03E00008
+patch=1,EE,204132DC,extended,03E00008
+patch=1,EE,D043C802,extended,0000FEFE
+patch=1,EE,204132DC,extended,0803D000
+
+//Money in hand 999,999,999
+patch=1,EE,200F4000,extended,3C023B9A
+patch=1,EE,200F4004,extended,3442C9FF
+patch=1,EE,200F4008,extended,AC824EF8
+
+//Dignity point 50000
+patch=1,EE,200F4010,extended,2401C350
+patch=1,EE,200F4014,extended,A481012A
+
+//Direction basic value 99
+patch=1,EE,200F4028,extended,24010063
+patch=1,EE,200F402C,extended,A081013C
+
+//DC basic value 99
+patch=1,EE,200F4030,extended,24010063
+patch=1,EE,200F4034,extended,A0810144
+
+//Operation basic value 99
+patch=1,EE,200F4038,extended,24010063
+patch=1,EE,200F403C,extended,A081014C
+
+//Service basic value 99
+patch=1,EE,200F4040,extended,24010063
+patch=1,EE,200F4044,extended,A0810154
+
+//Steering basic value 99
+patch=1,EE,200F4048,extended,24010063
+patch=1,EE,200F404C,extended,A081015C
+
+//Navigation basic value 99
+patch=1,EE,200F4050,extended,24010063
+patch=1,EE,200F4054,extended,A0810164
+
+//Water measuring basic value 99
+patch=1,EE,200F4058,extended,24010063
+patch=1,EE,200F405C,extended,A081016C
+
+//Torpedo basic value 99
+patch=1,EE,200F4060,extended,24010063
+patch=1,EE,200F4064,extended,A0810174
+
+//Medical basic value 99
+patch=1,EE,200F4068,extended,24010063
+patch=1,EE,200F406C,extended,A081017C
+
+//Land game basic value 99
+patch=1,EE,200F4070,extended,24010063
+patch=1,EE,200F4074,extended,A0810184
+
+//Political basic value 99
+patch=1,EE,200F4078,extended,24010063
+patch=1,EE,200F407C,extended,A081018C
+
+//Adult basic value 99
+patch=1,EE,200F4080,extended,24010063
+patch=1,EE,200F4084,extended,A0810194

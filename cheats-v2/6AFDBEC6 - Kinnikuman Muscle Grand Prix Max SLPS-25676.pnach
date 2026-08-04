@@ -1,0 +1,19 @@
+gametitle=Kinnikuman Muscle Grand Prix Max SLPS-25676
+//Story golden mask compilation addition
+patch=1,EE,20457BD4,extended,00000001
+
+//All the charactere enabled
+patch=1,EE,404575C4,extended,00130001
+patch=1,EE,01010101,extended,00000000
+
+//All the tournament ranking S
+patch=1,EE,40457610,extended,000B0001
+patch=1,EE,07070707,extended,00000000
+
+//1P Physical strength gauge it does not decrease
+patch=1,EE,20351458,extended,0000270F
+patch=1,EE,20351460,extended,0000270F
+
+//With SELECT + right button (2P) physical strength 0
+patch=1,EE,D04F9402,extended,0000FFDE
+patch=1,EE,2035282C,extended,00000000

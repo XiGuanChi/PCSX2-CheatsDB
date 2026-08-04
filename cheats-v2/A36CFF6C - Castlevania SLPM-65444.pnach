@@ -1,0 +1,15 @@
+gametitle=Castlevania SLPM-65444
+//Infinite Gold
+patch=1,EE,20B64BA0,extended,000F423F
+
+//All Skills available
+patch=1,EE,10B64E24,extended,1CDE7FFF
+
+//Maximum variation maintained in HP
+patch=1,EE,204685BC,extended,C4C00000
+
+//Maximum variation maintained in MP
+patch=1,EE,20468D24,extended,0C11A30A
+
+//Maintained at maximum heart change
+patch=1,EE,20468710,extended,C6000004

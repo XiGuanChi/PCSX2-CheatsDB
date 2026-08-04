@@ -1,0 +1,18 @@
+gametitle=Tekken 5 SCES-53202
+//Infinite Health P1
+patch=1,EE,203BD2CC,extended,00910000
+
+//All Characters Unlocked
+patch=1,EE,203F8B08,extended,FFFFFFFF
+
+//All Movies Unlocked
+patch=1,EE,203F8B10,extended,FFFFFFFF
+patch=1,EE,003F8B14,extended,0000000F
+
+//Unlock all Movies, Characters, Gallery, Tekken Bowl
+patch=1,EE,2043DFB0,extended,FFFFFFFF
+patch=1,EE,2043DFB4,extended,FFFFFFFF
+patch=1,EE,2043DFB8,extended,FFFFFFFF
+
+//Maximum Cash
+patch=1,EE,203F8BD8,extended,05F0A0B0

@@ -1,0 +1,19 @@
+gametitle=Kill.switch SLUS-20706
+//Infinite Health
+patch=1,EE,2018DF40,extended,8E411330
+patch=1,EE,2018DF48,extended,AE41132C
+
+//Infinite Ammo
+patch=1,EE,20250790,extended,00000000
+
+//Never Reload
+patch=1,EE,2025021C,extended,00000000
+
+//Infinite Grenades
+patch=1,EE,2018B6DC,extended,00000000
+
+//Infinite Time (Timed Missions)
+patch=1,EE,202015D4,extended,00000000
+
+//Unlock Mission Select (Main Menu)
+patch=1,EE,203CD5AC,extended,00000024

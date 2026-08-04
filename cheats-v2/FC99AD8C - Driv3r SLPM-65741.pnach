@@ -1,0 +1,48 @@
+gametitle=Driv3r SLPM-65741
+//Infinite Health  It is ineffective for a blow strike.
+patch=1,EE,2022C8C0,extended,0C03FE0C
+patch=1,EE,200FF830,extended,3C023F80
+patch=1,EE,200FF834,extended,08071F6A
+patch=1,EE,200FF838,extended,AC820024
+
+//Infinite Ammo
+patch=1,EE,201D8C34,extended,0040100A
+
+//Car  No damage with R2 + L3 It will be damaged with R2 + R3
+patch=1,EE,D070391C,extended,0000FDFD
+patch=1,EE,201FADE8,extended,3403001C
+patch=1,EE,D070391C,extended,0000FDFB
+patch=1,EE,201FADE8,extended,8EE30090
+
+//Police attention operation It becomes normal with attention degree 0, L2 + R3 with L2 + L3 Even if it goes to 0, it will react a bit when passing the police station
+patch=1,EE,200FF800,extended,C4420014
+patch=1,EE,200FF804,extended,AC40000C
+patch=1,EE,200FF808,extended,AC400010
+patch=1,EE,200FF80C,extended,03E00008
+patch=1,EE,200FF810,extended,AC400014
+patch=1,EE,D070391C,extended,0000FEFD
+patch=1,EE,20137834,extended,0C03FE00
+patch=1,EE,D070391C,extended,0000FEFB
+patch=1,EE,20137834,extended,C4420014
+
+//Cheat code
+patch=1,EE,20715C94,extended,00000001
+patch=1,EE,20715C9C,extended,00000001
+patch=1,EE,20715CA4,extended,00000001
+patch=1,EE,20715CAC,extended,00000001
+patch=1,EE,20715CC4,extended,00000001
+patch=1,EE,20715CB4,extended,00000001
+patch=1,EE,20715EF8,extended,00000001
+patch=1,EE,20715F00,extended,00000001
+patch=1,EE,20715F10,extended,00000001
+patch=1,EE,20715F08,extended,00000001
+patch=1,EE,20715F18,extended,00000001
+patch=1,EE,20715F28,extended,00000001
+
+//Hidden cars
+patch=1,EE,00715CE5,extended,00000001
+patch=1,EE,00715CE9,extended,00000001
+patch=1,EE,00715CED,extended,00000001
+patch=1,EE,00715CF1,extended,00000001
+patch=1,EE,00715CF5,extended,00000001
+patch=1,EE,00715CF9,extended,00000001

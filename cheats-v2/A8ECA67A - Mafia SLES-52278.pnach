@@ -1,0 +1,16 @@
+gametitle=Mafia SLES-52278
+//infinite Health (car)
+patch=1,EE,2017109C,extended,00000000
+patch=1,EE,201710AC,extended,00000000
+
+//Infinite Health
+patch=1,EE,201C0B30,extended,3C0143C8
+patch=1,EE,201C0B3C,extended,AC610000
+
+//Infinite Time
+patch=1,EE,202AFAB0,extended,00000000
+patch=1,EE,202AFAD8,extended,00000000
+
+//All Cars - Race Modes
+patch=1,EE,208E7430,extended,FFFFFFFF
+patch=1,EE,208E7428,extended,FFFFFFFF

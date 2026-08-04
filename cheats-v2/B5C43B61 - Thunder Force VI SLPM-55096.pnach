@@ -1,0 +1,12 @@
+gametitle=Thunder Force VI SLPM-55096
+//Infinite credits
+patch=1,EE,2032738C,extended,00000009
+
+//Infinite Lives
+patch=1,EE,2032B62C,extended,00000009
+
+//Invincible ( Aircraft not flickering ) 
+patch=1,EE,001584DC,extended,00000000
+
+//Unlock all machines
+patch=1,EE,2032717C,extended,00000002

@@ -1,0 +1,53 @@
+gametitle=Tales of Legendia SLPS-25533
+//Gold 9.999.999
+patch=1,EE,204A2800,extended,0098967F
+
+//Gold 9.999.999 (shop)
+patch=1,EE,A02F27D4,extended,10000005
+
+//Grade maximum
+patch=1,EE,204A2820,extended,461C3FF6
+
+//1 Hit to Kill ( L3+? ON R3 +? OFF )
+patch=1,EE,D049125C,extended,0000FFFD
+patch=1,EE,202A2908,extended,70A510E8
+patch=1,EE,D049125C,extended,0000FFFB
+patch=1,EE,202A2908,extended,70A210E8
+
+//Level 255/ HP 9999/ TP 999
+patch=1,EE,A028E91C,extended,24020000
+
+//All Recipes
+patch=1,EE,204A2D30,extended,03030303
+patch=1,EE,204A2D34,extended,03030303
+patch=1,EE,204A2D38,extended,03030303
+patch=1,EE,204A2D3C,extended,03030303
+patch=1,EE,204A2D40,extended,03030303
+patch=1,EE,204A2D44,extended,03030303
+patch=1,EE,204A2D48,extended,03030303
+patch=1,EE,204A2D4C,extended,03030303
+patch=1,EE,204A2D50,extended,03030303
+patch=1,EE,204A2D54,extended,03030303
+patch=1,EE,204A2D58,extended,03030303
+patch=1,EE,204A2D5C,extended,03030303
+patch=1,EE,204A2D60,extended,00030303
+
+//Sener Infinita & Max HP
+patch=1,EE,104A28B8,extended,000040FA
+patch=1,EE,104A28C6,extended,000040FA
+
+//Sener Infinita & Max TP
+patch=1,EE,104A28C8,extended,00002CC2
+patch=1,EE,104A28BA,extended,00002CC2
+
+//Will Infinita & Max HP
+patch=1,EE,104A290C,extended,000040FA
+patch=1,EE,104A291A,extended,000040FA
+
+//Will Infinita & Max TP
+patch=1,EE,104A290E,extended,00002CC2
+patch=1,EE,104A291C,extended,00002CC2
+
+//Recipe all
+patch=1,EE,404A2D30,extended,000B0001
+patch=1,EE,03030303,extended,00000000

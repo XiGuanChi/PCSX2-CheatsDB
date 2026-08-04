@@ -1,0 +1,6 @@
+gametitle=Oni SLUS-20064
+//Infinite Health
+patch=1,EE,106E5620,extended,00000190
+
+//infinite Ammo
+patch=1,EE,006E55EC,extended,00000063

@@ -1,0 +1,6 @@
+gametitle=Chulip SLPS-20230
+//Number of times 65535
+patch=1,EE,101E8E1E,extended,0000FFFF
+
+//Possession money 32767
+patch=1,EE,101E8E14,extended,00007FFF

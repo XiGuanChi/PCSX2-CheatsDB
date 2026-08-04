@@ -1,0 +1,73 @@
+gametitle=Shin Megami Tensei III - Nocturne Maniax SLPM-65242
+//Max Macca 
+patch=1,EE,2127A4C4,extended,0098967F
+
+//Obtain a large amount of experience points
+patch=1,EE,20259448,extended,10000004
+patch=1,EE,20259464,extended,3C02000F
+patch=1,EE,2025946C,extended,3442423F
+
+//Possess all 98 items
+patch=1,EE,2021E004,extended,24030062
+patch=1,EE,2021E008,extended,A0431924
+
+//Encounter control R2 + move to encounter immediately (usually there is no encounter).
+patch=1,EE,2028BC84,extended,3C010059
+patch=1,EE,2028BC88,extended,9021D048
+patch=1,EE,2028BC9C,extended,38220002
+
+//Possession of Magatama ALL
+patch=1,EE,012A4BF7,extended,00000001
+patch=1,EE,212A4BF8,extended,05040302
+patch=1,EE,212A4BFC,extended,09080706
+patch=1,EE,212A4C00,extended,0D0C0B0A
+patch=1,EE,212A4C04,extended,11100F0E
+patch=1,EE,212A4C08,extended,15141312
+patch=1,EE,212A4C0C,extended,19181716
+patch=1,EE,012A4C77,extended,00000019
+
+//Required code
+patch=1,EE,202AE314,extended,0803C000
+patch=1,EE,200F0000,extended,27BDFFB0
+patch=1,EE,200F0004,extended,7FA80000
+patch=1,EE,200F0008,extended,7FA90010
+patch=1,EE,200F000C,extended,7FAA0020
+patch=1,EE,200F0010,extended,7FAB0030
+patch=1,EE,200F0014,extended,7FAC0040
+patch=1,EE,200F0050,extended,7BAC0040
+patch=1,EE,200F0054,extended,7BAB0030
+patch=1,EE,200F0058,extended,7BAA0020
+patch=1,EE,200F005C,extended,7BA90010
+patch=1,EE,200F0060,extended,7BA80000
+patch=1,EE,200F0064,extended,03E00008
+patch=1,EE,200F0068,extended,27BD0050
+
+//Devil Complete Book 100%
+patch=1,EE,012894B0,extended,000000A8
+patch=1,EE,200F0024,extended,0803C034
+patch=1,EE,200F00D0,extended,3C080128
+patch=1,EE,200F00D4,extended,350894C0
+patch=1,EE,200F00D8,extended,24090001
+patch=1,EE,200F00DC,extended,3C0A03E7
+patch=1,EE,200F00E0,extended,354A03E7
+patch=1,EE,200F00E4,extended,3C0C2828
+patch=1,EE,200F00E8,extended,358C2828
+patch=1,EE,200F00EC,extended,A5090000
+patch=1,EE,200F00F0,extended,AD0A0004
+patch=1,EE,200F00F4,extended,240B0063
+patch=1,EE,200F00F8,extended,A50B000C
+patch=1,EE,200F00FC,extended,A10C000E
+patch=1,EE,200F0100,extended,AD0C0010
+patch=1,EE,200F0104,extended,25290001
+patch=1,EE,200F0108,extended,240B009C
+patch=1,EE,200F010C,extended,112B0007
+patch=1,EE,200F0110,extended,240B00A2
+patch=1,EE,200F0114,extended,112B0007
+patch=1,EE,200F0118,extended,240B00B3
+patch=1,EE,200F011C,extended,112BFFC3
+patch=1,EE,200F0124,extended,0803C03B
+patch=1,EE,200F0128,extended,250800B0
+patch=1,EE,200F012C,extended,0803C049
+patch=1,EE,200F0130,extended,240900A1
+patch=1,EE,200F0134,extended,0803C049
+patch=1,EE,200F0138,extended,240900A7

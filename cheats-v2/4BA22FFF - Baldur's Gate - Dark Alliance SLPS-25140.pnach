@@ -1,0 +1,27 @@
+gametitle=Baldur's Gate - Dark Alliance SLPS-25140
+//y Player 1
+patch=1,EE,2023AACC,extended,000F423F
+
+//P1 Point 9999
+patch=1,EE,2023AAD0,extended,0000270F
+
+//P1 Gross weight 0
+patch=1,EE,2023AB14,extended,00000000
+
+//Infinite Health Player 2
+patch=1,EE,2023E374,extended,461C3C00
+patch=1,EE,2023E378,extended,461C3C00
+
+//Infinite Magic Player 2
+patch=1,EE,2023E38C,extended,461C3C00
+patch=1,EE,2023E390,extended,461C3C00
+
+
+//Infinite Money Player 2
+patch=1,EE,2023E3AC,extended,000F423F
+
+//P2 Point 9999
+patch=1,EE,2023E3B0,extended,0000270F
+
+//P2 Gross weight 0
+patch=1,EE,2023E3F4,extended,00000000

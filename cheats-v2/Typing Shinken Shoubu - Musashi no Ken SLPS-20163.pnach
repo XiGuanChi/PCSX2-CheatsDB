@@ -1,0 +1,4 @@
+gametitle=Typing Shinken Shoubu - Musashi no Ken SLPS-20163
+//Victory even if you lose with F1  key
+patch=1,EE,D01600CC,extended,0000003A
+patch=1,EE,10590880,extended,00000101

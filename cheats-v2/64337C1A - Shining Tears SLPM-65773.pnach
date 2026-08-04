@@ -1,0 +1,12 @@
+gametitle=Shining Tears SLPM-65773
+//War chest 99999999
+patch=1,EE,204D1514,extended,05F5E0FF
+
+//End of combat after EXP9999999
+patch=1,EE,203C9068,extended,14000004
+
+//Bonus EXP 999999
+patch=1,EE,203CAA68,extended,14000004
+
+//Xion Infinite HP
+patch=1,EE,204D013E,extended,000003E7

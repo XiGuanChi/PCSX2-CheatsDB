@@ -1,0 +1,12 @@
+gametitle=Simple 2000 Honkaku Shikou Vol.004 - The Mahjong SLPM-62198
+//Player has 99999 points
+patch=1,EE,201B4FD0,extended,0001869F
+
+//Opponent 1 has 0 points
+patch=1,EE,201B4FE8,extended,00000000
+
+//Opponent 2 has 0 points
+patch=1,EE,201B4FE0,extended,00000000
+
+//Opponent 3 has 0 points
+patch=1,EE,201B4FD8,extended,00000000

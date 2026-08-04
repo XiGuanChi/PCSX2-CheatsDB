@@ -1,0 +1,9 @@
+gametitle=Project Minerva Professional SLES-52472
+//Free mode selected
+patch=1,EE,01221420,extended,00000001
+
+//Infinite ammo
+patch=1,EE,0020f368,extended,00000063
+
+//Infinite Time
+patch=1,EE,0020d518,extended,000000c5

@@ -1,0 +1,31 @@
+gametitle=Jet X20 SCUS-97173
+//Hella Score Gain
+patch=1,EE,20114590,extended,2407270F
+
+//Infinite Turbo Boost
+patch=1,EE,20117A60,extended,3C013FE8
+patch=1,EE,20117A68,extended,AE210000
+
+//Infinite Points Remaining
+patch=1,EE,D0269488,extended,0010BFFF
+patch=1,EE,202616E8,extended,00000063
+patch=1,EE,D0269488,extended,0000BFFF
+patch=1,EE,202616E8,extended,00000000
+
+//Unlock All Craft
+patch=1,EE,402ACE3C,extended,00040001
+patch=1,EE,01010101,extended,00000000
+
+//Unlock All Wetsuits
+patch=1,EE,402ACE4C,extended,00060001
+patch=1,EE,01010101,extended,00000000
+
+//Unlock All Decals
+patch=1,EE,402ACE64,extended,000C0001
+patch=1,EE,01010101,extended,00000000
+
+//Max Speed Always 0 CPU Opponents
+patch=1,EE,2026446C,extended,00000000
+
+//World Tour Mode Codes Unlock All Riders
+patch=1,EE,20260A40,extended,01010101

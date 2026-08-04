@@ -1,0 +1,54 @@
+gametitle=Beat Down SLPM-66181
+//All battle characters appear
+patch=1,EE,20602A58,extended,FFFFFFFF
+patch=1,EE,20602A5C,extended,FFFFFFFF
+patch=1,EE,20602A60,extended,FFFFFFFF
+patch=1,EE,20602A64,extended,FFFFFFFF
+
+//MOVIE VIEWER (option menu)
+patch=1,EE,00602A9F,extended,000000FF
+
+//Maximum money
+patch=1,EE,206036A0,extended,05F5E0FF
+
+//Police risk 0% with SELECT + L1 button
+patch=1,EE,D0681242,extended,0000FBFE
+patch=1,EE,10602E68,extended,00006400
+
+//Mafia risk 0% with SELECT + R1 button
+patch=1,EE,D0681242,extended,0000F7FE
+patch=1,EE,10603164,extended,00006400
+
+//Even if you use items on the Menu screen, it does not decrease
+patch=1,EE,201730A8,extended,00000000
+patch=1,EE,20173184,extended,00000000
+
+//Does not decrease even if you use the recovered item that is equipped
+patch=1,EE,202FCA48,extended,1000000E
+//* Weapon items equipped will decrease.
+
+//Increase in store products
+patch=1,EE,2032CB48,extended,00000000
+patch=1,EE,2032CB60,extended,00000000
+patch=1,EE,2032CB78,extended,00000000
+patch=1,EE,2032CB90,extended,00000000
+
+//The store becomes a Nandemo shop
+patch=1,EE,2033C984,extended,10000011
+
+//Mastering fellow skills (partly)
+patch=1,EE,1060365A,extended,00000505
+patch=1,EE,1060365C,extended,00000505
+patch=1,EE,0060365E,extended,00000005
+
+//Maximum ability
+patch=1,EE,00603655,extended,00000005
+patch=1,EE,10603656,extended,00000505
+
+//<Main character>
+
+//Physical strength does not decrease
+patch=1,EE,206CF54C,extended,270F270F
+
+//Level 50
+patch=1,EE,006036AC,extended,00000032

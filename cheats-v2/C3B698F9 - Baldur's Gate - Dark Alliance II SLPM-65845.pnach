@@ -1,0 +1,16 @@
+gametitle=Baldur's Gate - Dark Alliance II SLPM-65845
+//Maximum 1P & 2P ownership
+patch=1,EE,20569E64,extended,05F5E0FF
+
+//Earn Exp 128 times
+patch=1,EE,202B4F6C,extended,000529C0
+
+//1P invincible
+patch=1,EE,0036952C,extended,00000001
+
+//Artemis & DRIZZT available
+patch=1,EE,004548E0,extended,00000011
+
+//Secret menu  After pressing the L1 + L2 button in the pause menu
+patch=1,EE,D04DA402,extended,0000FAFF
+patch=1,EE,20369838,extended,00310768

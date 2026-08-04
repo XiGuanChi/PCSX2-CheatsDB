@@ -1,0 +1,16 @@
+gametitle=Project Snowblind SLUS-21037
+//Infinite Health
+patch=1,EE,20253A8C,extended,C64104C8
+patch=1,EE,20253AA0,extended,E64104C0
+patch=1,EE,2024B938,extended,C4410498
+patch=1,EE,2024B940,extended,E4410490
+
+//Infinite Ammo
+patch=1,EE,20258DB8,extended,24020063
+patch=1,EE,20258DC0,extended,AE62003C
+patch=1,EE,20147B20,extended,24030063
+patch=1,EE,20147B28,extended,AC830008
+
+//Infinite Biomod Energy
+patch=1,EE,20129F70,extended,C6000018
+patch=1,EE,20129F78,extended,E600000C

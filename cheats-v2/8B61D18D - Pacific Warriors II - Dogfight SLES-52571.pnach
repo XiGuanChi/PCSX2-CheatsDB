@@ -1,0 +1,9 @@
+gametitle=Pacific Warriors II - Dogfight SLES-52571
+//Infinite Bombs
+patch=1,EE,20265870,extended,25C60000
+
+//Infinite Missiles
+patch=1,EE,20265F78,extended,25C60000
+
+//Engine Does Not Overheat
+patch=1,EE,20255DB0,extended,00000000

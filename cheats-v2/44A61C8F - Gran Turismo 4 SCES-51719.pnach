@@ -1,0 +1,117 @@
+gametitle=Gran Turismo 4 SCES-51719
+//Max Cash
+patch=1,EE,20A39740,extended,44B14400
+patch=1,EE,20A39744,extended,44B14400
+
+//No Time Penalties
+patch=1,EE,2035047C,extended,AC80060C
+
+//Disable AI Presss Select+Right to activate, select+Left to stop
+patch=1,EE,D064C794,extended,0000FF7E
+patch=1,EE,2034DFC8,extended,24020000
+patch=1,EE,D064C794,extended,0000FFDE
+patch=1,EE,2034DFC8,extended,1440FFF9
+
+//Freeze Timer R3 to activate, L3 to stop
+patch=1,EE,D064C794,extended,0000FFFD
+patch=1,EE,1035812E,extended,00002442
+patch=1,EE,D064C794,extended,0000FFFB
+patch=1,EE,1035812E,extended,00002A00
+
+//Infinite Fuel
+patch=1,EE,200C20D0,extended,C48005D0
+patch=1,EE,200C20D4,extended,03E00008
+patch=1,EE,200C20D8,extended,E48005D4
+patch=1,EE,2039E3A0,extended,0C030834
+
+//Infinite Nitrous
+patch=1,EE,20354DA8,extended,3C01461C
+patch=1,EE,20354DAC,extended,34214000
+patch=1,EE,20354DBC,extended,E46204E0
+
+//All Cars Are Free
+patch=1,EE,20163A00,extended,24100000
+patch=1,EE,2043B348,extended,0002282D
+patch=1,EE,20448D1C,extended,24020000
+
+//All Tune Shop Parts Are Free
+patch=1,EE,20163A00,extended,24100000
+patch=1,EE,2043B348,extended,0002282D
+
+//ll Gold "B" License
+patch=1,EE,40A32268,extended,00100001
+patch=1,EE,0000F991,extended,00000000
+
+//All Gold "A" License
+patch=1,EE,40A322A8,extended,00100001
+patch=1,EE,0000F991,extended,00000000
+
+//All Gold "IB" License
+patch=1,EE,40A322E8,extended,00100001
+patch=1,EE,0000F991,extended,00000000
+
+//Have All Cars In Garage*
+patch=1,EE,200C0260,extended,27BDFFE0
+patch=1,EE,200C0264,extended,FFBF0000
+patch=1,EE,200C0268,extended,FFB00008
+patch=1,EE,200C026C,extended,24040000
+patch=1,EE,200C0270,extended,FFA40010
+patch=1,EE,200C0274,extended,0C112296
+patch=1,EE,200C0278,extended,3C05000C
+patch=1,EE,200C027C,extended,10400005
+patch=1,EE,200C0280,extended,DFA40010
+patch=1,EE,200C0284,extended,FE040008
+patch=1,EE,200C0288,extended,24010001
+patch=1,EE,200C028C,extended,AE010010
+patch=1,EE,200C0290,extended,26100020
+patch=1,EE,200C0294,extended,24840001
+patch=1,EE,200C0298,extended,2C810500
+patch=1,EE,200C029C,extended,1420FFF4
+patch=1,EE,200C02A0,extended,00000000
+patch=1,EE,200C02A4,extended,DFB00008
+patch=1,EE,200C02A8,extended,DFBF0000
+patch=1,EE,200C02AC,extended,08172C38
+patch=1,EE,200C02B0,extended,27BD0020
+patch=1,EE,D0A17AC8,extended,00000015
+patch=1,EE,201702AC,extended,0C172C38
+patch=1,EE,D0A17AC8,extended,00100015
+patch=1,EE,201702AC,extended,0C030098
+
+//Unlock All Arcade Tracks*
+patch=1,EE,E024FFFF,extended,00A44578
+patch=1,EE,40A443EC,extended,00330002
+patch=1,EE,00000022,extended,00000000
+patch=1,EE,40A443E8,extended,00040002
+patch=1,EE,00000002,extended,00000001
+patch=1,EE,40A44408,extended,00060002
+patch=1,EE,00000007,extended,00000001
+patch=1,EE,40A44438,extended,00070002
+patch=1,EE,00000016,extended,00000001
+patch=1,EE,20A44470,extended,00000028
+patch=1,EE,20A44478,extended,0000002B
+patch=1,EE,20A44480,extended,00000040
+patch=1,EE,20A44488,extended,00000041
+patch=1,EE,20A44490,extended,00000043
+patch=1,EE,20A44498,extended,00000045
+patch=1,EE,20A444A0,extended,0000004C
+patch=1,EE,20A444A8,extended,0000004E
+patch=1,EE,20A444B0,extended,00000050
+patch=1,EE,20A444B8,extended,00000051
+patch=1,EE,20A444C0,extended,00000053
+patch=1,EE,20A444C8,extended,00000054
+patch=1,EE,20A444D0,extended,00000059
+patch=1,EE,20A444D8,extended,0000005D
+patch=1,EE,20A444E0,extended,00000063
+patch=1,EE,20A444E8,extended,00000064
+patch=1,EE,20A444F0,extended,00000068
+patch=1,EE,40A444F8,extended,00080002
+patch=1,EE,0000006A,extended,00000001
+patch=1,EE,20A44538,extended,00000077
+patch=1,EE,20A44540,extended,0000007C
+patch=1,EE,20A44548,extended,00000081
+patch=1,EE,20A44550,extended,00000083
+patch=1,EE,20A44558,extended,00000086
+patch=1,EE,20A44560,extended,00000088
+patch=1,EE,20A44568,extended,00000089
+patch=1,EE,20A44570,extended,00000094
+patch=1,EE,20A44578,extended,00000099

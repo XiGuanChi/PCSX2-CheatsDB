@@ -1,0 +1,7 @@
+gametitle=Runabout 3 - Neo Age SLES-51223
+//Unlock Everything
+patch=1,EE,203139D8,extended,FFFFFFFF
+patch=1,EE,203139DC,extended,FFFFFFFF
+
+//Infinite Time
+patch=1,EE,201DD7A4,extended,34040001

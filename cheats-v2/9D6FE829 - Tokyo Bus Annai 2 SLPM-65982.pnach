@@ -1,0 +1,7 @@
+gametitle=Tokyo Bus Annai 2 SLPM-65982
+//Always full bar (6553700)
+patch=1,EE,21C14E3C,extended,00640064
+
+//Bus collapses
+patch=1,EE,21C17C64,extended,40000000
+

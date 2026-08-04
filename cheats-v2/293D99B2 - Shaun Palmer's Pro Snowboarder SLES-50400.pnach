@@ -1,0 +1,19 @@
+gametitle=Shaun Palmer's Pro Snowboarder SLES-50400
+//Must Finish Level For Codes To Update All Challenges Complete Career Mode
+patch=1,EE,103C04D4,extended,000001FF
+patch=1,EE,103C04D6,extended,000001FF
+patch=1,EE,103C04D8,extended,000001FF
+patch=1,EE,103C04DA,extended,000001FF
+patch=1,EE,103C04DC,extended,000001FF
+patch=1,EE,103C04DE,extended,000001FF
+patch=1,EE,103C04E0,extended,000001FF
+patch=1,EE,103C04E2,extended,000001FF
+
+//All Movies Open
+patch=1,EE,103475D8,extended,00007FFF
+
+//Rooftop Open
+patch=1,EE,10347A68,extended,00000001
+
+//Cory Open
+patch=1,EE,10347ADC,extended,00000001

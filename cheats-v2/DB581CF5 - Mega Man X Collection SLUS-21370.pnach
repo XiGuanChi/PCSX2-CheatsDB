@@ -1,0 +1,108 @@
+gametitle=Mega Man X Collection SLUS-21370
+//Mega Man X Infinite Lives
+patch=1,EE,00FE31C0,extended,00000009
+
+//Mega Man X Infinite Homing T
+patch=1,EE,00FE31C8,extended,0000005C
+
+//Mega Man X Infinite C Sting
+patch=1,EE,00FE31CA,extended,0000005C
+
+//Mega Man X Infinite R Shield
+patch=1,EE,00FE31CC,extended,0000005C
+
+//Mega Man X Infinite Fire W
+patch=1,EE,00FE31CE,extended,0000005C
+
+//Mega Man X Infinite Storm T
+patch=1,EE,00FE31D0,extended,0000005C
+
+//Mega Man X Infinite E Spark
+patch=1,EE,00FE31D2,extended,0000005C
+
+//Mega Man X Infinite B Cutter
+patch=1,EE,00FE31D4,extended,0000005C
+
+//Mega Man X Infinite S Ice
+patch=1,EE,00FE31D6,extended,0000005C
+
+//Mega Man X2 Infinite Health
+patch=1,EE,00FE1C3F,extended,00000010
+
+//Mega Man X2 Infinite Lives
+patch=1,EE,00FE31F3,extended,00000009
+
+//Mega Man X3 Infinite Health
+patch=1,EE,008804A1,extended,0000009C
+
+//Mega Man X3 Infinite Lives
+patch=1,EE,0087FB53,extended,00000009
+
+//Mega Man X4 Infinite Health
+patch=1,EE,10996D2C,extended,00002020
+
+//Mega Man X4 Infinite Lives
+patch=1,EE,00996E04,extended,00000009
+
+//Mega Man X4 All Weapons
+patch=1,EE,10996D88,extended,0000FFFF
+
+//Mega Man X5 Infinite Health
+patch=1,EE,10C0A15C,extended,00002020
+
+//Mega Man X5 Infinite Lives
+patch=1,EE,00C0A2A5,extended,00000063
+
+//MegaMan X6 Infinite Health 
+patch=1,EE,00B63B4C,extended,0000003C
+
+// P1 Press L1+Up To Enable Infinite Health
+patch=1,EE,E0040007,extended,00662E84
+patch=1,EE,D01A4582,extended,0000FBEF
+patch=1,EE,100C0000,extended,00000001
+patch=1,EE,D00C0000,extended,00000001
+patch=1,EE,00B63B4C,extended,0000003C
+
+// P1 Press L1+Down To Disable Infinite Health
+patch=1,EE,E0020007,extended,00662E84
+patch=1,EE,D01A4582,extended,0000FBBF
+patch=1,EE,100C0000,extended,00000000
+
+//P1 Press L1+Right To Enable Invincibility
+patch=1,EE,E0040007,extended,00662E84
+patch=1,EE,D01A4582,extended,0000FBDF
+patch=1,EE,100C0002,extended,00000001
+patch=1,EE,D00C0002,extended,00000001
+patch=1,EE,10B63B50,extended,00003500
+
+// P1 Press L1+Left To Disable Invincibility
+patch=1,EE,E0020007,extended,00662E84
+patch=1,EE,D01A4582,extended,0000FB7F
+patch=1,EE,100C0002,extended,00000000
+
+//Infinite Lives
+patch=1,EE,00B63C89,extended,00000009
+
+//Unlock Mega Man Battle & Chase
+patch=1,EE,E0010001,extended,00662E84
+patch=1,EE,00669980,extended,00000001
+
+//Mega Man Battle & Chase Inf Time
+patch=1,EE,D0662EA2,extended,00006278
+patch=1,EE,2070C540,extended,00000000
+
+//Mega Man Battle & Chase P1 Inf Buster Fire
+patch=1,EE,D0662EA2,extended,00006278
+patch=1,EE,00714567,extended,00000078
+
+//Mega Man Battle & Chase P1 Turbo Speed (P1 Press X)
+patch=1,EE,E0026278,extended,00662EA2
+patch=1,EE,D01A4582,extended,0000BFFF
+patch=1,EE,007144FE,extended,000000FF
+
+//Unlock All Gallery
+patch=1,EE,E0010001,extended,00662E84
+patch=1,EE,206699C4,extended,FFFFFFFF
+
+
+

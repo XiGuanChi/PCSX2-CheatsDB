@@ -1,0 +1,17 @@
+gametitle=Colosseum - Road to Freedom SLUS-21179
+//Infinite Stamina
+patch=1,EE,2070AB24,extended,45252000
+
+//Infinite Training Points
+patch=1,EE,10784A70,extended,000003E7
+
+//Max Money
+patch=1,EE,2078380C,extended,540BE3FF
+patch=1,EE,20783810,extended,00000002
+
+//One Hit Kill-Duels
+patch=1,EE,2070B12C,extended,3F800000
+
+//Max VIT
+patch=1,EE,10701C80,extended,000000FF
+patch=1,EE,10701C84,extended,000000FF

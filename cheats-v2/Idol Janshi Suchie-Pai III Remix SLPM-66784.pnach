@@ -1,0 +1,10 @@
+gametitle=Idol Janshi Suchie-Pai III Remix SLPM-66784
+//Max Album Points
+patch=1,EE,2039F580,extended,0000FFFF
+
+//Unlock All Album Characters
+patch=1,EE,2039F668,extended,FFFFFFFF
+
+//Unlock All Art
+patch=1,EE,4039F584,extended,00360001
+patch=1,EE,FFFFFFFF,extended,00000000

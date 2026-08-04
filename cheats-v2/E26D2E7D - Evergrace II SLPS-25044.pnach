@@ -1,0 +1,7 @@
+gametitle=Evergrace II SLPS-25044
+//Ein MAX
+patch=1,EE,203FC7C4,extended,0001869F
+
+//Soul gauge MAX 
+patch=1,EE,103FC7C0,extended,0000270F
+patch=1,EE,103FC7C2,extended,0000270F

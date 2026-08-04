@@ -1,0 +1,14 @@
+gametitle=Freekstyle SLPS-20231
+//Adrenaline gauge
+patch=1,EE,201CED64,extended,3C024000
+patch=1,EE,201EEA80,extended,00000000
+patch=1,EE,201D4F84,extended,00000000
+patch=1,EE,201D4FA8,extended,00000000
+
+//Freak gauge maximum
+patch=1,EE,201F7B80,extended,00000000
+patch=1,EE,201F7B90,extended,00000000
+
+//Infinite rollover
+patch=1,EE,201D4F20,extended,00000000
+patch=1,EE,201D4F3C,extended,00000000

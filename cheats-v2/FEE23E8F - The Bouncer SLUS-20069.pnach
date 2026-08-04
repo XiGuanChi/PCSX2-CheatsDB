@@ -1,0 +1,15 @@
+gametitle=The Bouncer SLUS-20069
+//Infinite Bouncer Points
+patch=1,EE,203DC068,extended,0001869F
+
+//Sion Barzahd Infinite Life
+patch=1,EE,21D89F64,extended,0000012C
+
+//Volt Krueger Infinite Life
+patch=1,EE,21D89FF4,extended,0000012C
+
+//Kou Leifoh Infinite Life
+patch=1,EE,21D8A084,extended,0000012C:
+
+//Have All Characters (VS. Mode)
+patch=1,EE,21D8CB40,extended,FFFFFFFF

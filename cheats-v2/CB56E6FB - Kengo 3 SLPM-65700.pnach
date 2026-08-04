@@ -1,0 +1,46 @@
+gametitle=Kengo 3 SLPM-65700
+//Max Gold 
+patch=1,EE,2044219C,extended,05F5E0FF
+
+//After the fighting physical strength 100%
+patch=1,EE,20440A4C,extended,3F800000
+
+//arm 9999
+patch=1,EE,20440994,extended,461C3C00
+patch=1,EE,204409DC,extended,461C3C00
+patch=1,EE,204409F8,extended,461C3C00
+
+//Cut 9999
+patch=1,EE,20440998,extended,461C3C00
+patch=1,EE,204409E0,extended,461C3C00
+patch=1,EE,204409FC,extended,461C3C00
+
+//Agility 9999
+patch=1,EE,2044099C,extended,461C3C00
+patch=1,EE,204409E4,extended,461C3C00
+patch=1,EE,20440A00,extended,461C3C00
+
+//Parting 9999
+patch=1,EE,204409A0,extended,461C3C00
+patch=1,EE,204409E8,extended,461C3C00
+patch=1,EE,20440A04,extended,461C3C00
+
+//Spirit 9999
+patch=1,EE,204409A4,extended,461C3C00
+patch=1,EE,204409EC,extended,461C3C00
+patch=1,EE,20440A08,extended,461C3C00
+
+//Robust 9999
+patch=1,EE,204409A8,extended,461C3C00
+patch=1,EE,204409F0,extended,461C3C00
+patch=1,EE,20440A0C,extended,461C3C00
+
+//Recovery 9999
+patch=1,EE,204409AC,extended,461C3C00
+patch=1,EE,204409F4,extended,461C3C00
+patch=1,EE,20440A10,extended,461C3C00
+
+//Maximum fame
+patch=1,EE,20442130,extended,497423F0
+patch=1,EE,204421A0,extended,497423F0
+

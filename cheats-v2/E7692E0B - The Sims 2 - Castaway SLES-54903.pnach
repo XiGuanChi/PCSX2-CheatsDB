@@ -1,0 +1,42 @@
+gametitle=The Sims 2 - Castaway SLES-54903
+//Max Motives
+patch=1,EE,20250424,extended,00000000
+
+//Motives Don't Decrease Codes
+//Sleep
+patch=1,EE,201feec0,extended,00000000
+
+//Eating
+patch=1,EE,201fef24,extended,00000000
+
+//Bladder
+patch=1,EE,201fefe0,extended,00000000
+
+//Max/Inf Items
+//Gain/Use to get 999 Must have more then 1
+patch=1,EE,2024dc1c,extended,00000000
+
+//Enable All Plans
+patch=1,EE,00493cac,extended,00000001
+
+//Enable Ignore Crafting Requirements/Ressources
+patch=1,EE,20493CB0,extended,00000001
+patch=1,EE,20493CB4,extended,00000001
+
+//All Plans Are Available
+patch=1,EE,20493CAC,extended,00000001
+
+//All Maps/Islands Available
+patch=1,EE,20516C38,extended,00000001
+
+//All Clothing Available
+patch=1,EE,20516CC0,extended,00000001
+
+//Motives Don't Decrease
+patch=1,EE,201AE124,extended,24030001
+
+//Ignore Damage to Sims and Objects
+patch=1,EE,20516CCC,extended,00000001
+
+//Build Without Regard to Fire Code
+patch=1,EE,20516C64,extended,00000001

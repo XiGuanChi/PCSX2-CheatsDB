@@ -1,0 +1,26 @@
+gametitle=Disney's Peter Pan - The Legend of Never-Land SCES-50522
+//Infinite Lives
+patch=1,EE,1027EE2A,extended,000041CE
+
+//Infinite Health
+patch=1,EE,1027EE26,extended,000040A0
+
+//99 crystals
+patch=1,EE,1026C68C,extended,00000000
+
+//99 fairy jars
+patch=1,EE,0026C67C,extended,00000063
+patch=1,EE,1026C678,extended,0000270F
+
+//99 Keys
+patch=1,EE,1026C6AC,extended,00000063
+
+//All Treasure
+patch=1,EE,1026C69C,extended,0000FFFF
+patch=1,EE,1026C69E,extended,0000FFF0
+
+//Open all levels
+patch=1,EE,10284E08,extended,00000FFF
+
+//Always have knife
+patch=1,EE,2027F8F0,extended,00000000

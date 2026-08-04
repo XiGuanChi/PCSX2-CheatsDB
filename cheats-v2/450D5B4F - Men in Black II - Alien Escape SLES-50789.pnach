@@ -1,0 +1,14 @@
+gametitle=Men in Black II - Alien Escape SLES-50789
+//Infinite Health
+patch=1,EE,208E498C,extended,42C80000
+
+//Infinite Lives
+patch=1,EE,208E4984,extended,00000003
+
+//Infinite Xeno Bombs
+patch=1,EE,208E49AC,extended,00000009
+
+//Unlock Everything
+patch=1,EE,20608028,extended,01010101
+patch=1,EE,2060802C,extended,01010101
+

@@ -1,0 +1,15 @@
+gametitle=Dragon Rage SLUS-20195
+//Have All Levels
+patch=1,EE,00489EC6,extended,0000000F
+
+//Infinite Health
+patch=1,EE,40BACCAC,extended,A98CF94F
+patch=1,EE,00000000,extended,00000000
+
+//Infinite Lives
+patch=1,EE,0022E2E4,extended,00000063
+
+//Infinite Mana
+patch=1,EE,11466880,extended,00003C88
+patch=1,EE,40E01F23,extended,03737002
+patch=1,EE,6C3BD6B5,extended,F1B6C6ED

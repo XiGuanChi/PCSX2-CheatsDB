@@ -1,0 +1,68 @@
+gametitle=Castlevania - Curse of Darkness SLES-53755
+//Gold 9.999.999
+patch=1,EE,20afa6b4,extended,0098967f
+
+//Infinite HP
+patch=1,EE,10af2184,extended,000003e7
+patch=1,EE,10af2188,extended,000003e7
+
+//Level 99
+patch=1,EE,20af2178,extended,00000063
+
+//Infinite HP Innocent Devil Ben
+patch=1,EE,10af23bc,extended,000003e7
+patch=1,EE,10af23c0,extended,000003e7
+
+//all abilities
+patch=1,EE,20AEFC30,extended,0001010D
+patch=1,EE,20AEFC34,extended,00010111
+patch=1,EE,20AEFC38,extended,00010112
+patch=1,EE,20AEFC3C,extended,00010117
+patch=1,EE,20AEFC40,extended,0001010F
+patch=1,EE,20AEFC44,extended,00010113
+patch=1,EE,20AEFC48,extended,00010116
+patch=1,EE,20AEFC4C,extended,00010115
+patch=1,EE,20AEFC50,extended,00010110
+patch=1,EE,20AEFC54,extended,0001010E
+patch=1,EE,20AEFC58,extended,00010119
+patch=1,EE,20AEFC5C,extended,00010114
+patch=1,EE,20AEFC60,extended,00010118
+
+//Have all Weapons
+patch=1,EE,40AEF800,extended,004F0001
+patch=1,EE,00630001,extended,00000001
+
+//all Head armour
+patch=1,EE,40AEF9E4,extended,00140001
+patch=1,EE,0063007A,extended,00000001
+
+//all Body Armor
+patch=1,EE,40AEF95C,extended,00170001
+patch=1,EE,00630058,extended,00000001
+
+//all Accessories
+patch=1,EE,40AEFA58,extended,00110001
+patch=1,EE,00630097,extended,00000001
+
+//all Usable items
+patch=1,EE,40AEFAC4,extended,001B0001
+patch=1,EE,006300b2,extended,00000001
+
+//all Rare items
+patch=1,EE,40AEFC84,extended,00190001
+patch=1,EE,0063013E,extended,00000001
+
+//all Materials
+patch=1,EE,40AEFB70,extended,00240001
+patch=1,EE,006300e0,extended,00000001
+
+//all Tips
+patch=1,EE,20AE5624,extended,FFFFFFFF
+
+//all Skills
+patch=1,EE,40AEFC30,extended,000D0001
+patch=1,EE,0001010D,extended,00000001
+
+//Bestiary complete
+patch=1,EE,40B19754,extended,00E80003
+patch=1,EE,000000FF,extended,00000000

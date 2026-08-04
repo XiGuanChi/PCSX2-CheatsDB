@@ -1,0 +1,17 @@
+gametitle=Tom Clancy's Splinter Cell  - Chaos Theory SLUS-21137
+//InfiniteHealth
+patch=1,EE,205BD984,extended,E481031C
+
+//InfiniteAmmo (No Reload)
+patch=1,EE,204A18F4,extended,00000000
+patch=1,EE,204A1900,extended,00000000
+
+//always Silent
+patch=1,EE,206083C4,extended,AE20047C
+patch=1,EE,206084F0,extended,AE20047C
+
+//always in Shadow
+patch=1,EE,203B6168,extended,AE0000E8
+
+//Mission Select
+patch=1,EE,20578918,extended,24030001

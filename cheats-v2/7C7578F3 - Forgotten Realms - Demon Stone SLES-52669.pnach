@@ -1,0 +1,8 @@
+gametitle=Forgotten Realms - Demon Stone SLES-52669
+//infinite Health
+patch=1,EE,2026313C,extended,3C013F80
+patch=1,EE,20263140,extended,44810000
+patch=1,EE,20263138,extended,E460030C
+
+//infinite Arrows
+patch=1,EE,201A8708,extended,00000000

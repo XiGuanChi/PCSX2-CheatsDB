@@ -1,0 +1,54 @@
+gametitle=Jikkyou Powerful Pro Yakyuu 14 SLPM-66777
+//Reliance friendship max
+patch=1,EE,20bf7ab0,extended,00000000
+
+//Mylar if physical strength max
+patch=1,EE,200FF500,extended,24080028
+patch=1,EE,200FF504,extended,14A80002
+patch=1,EE,200FF508,extended,24060064 
+patch=1,EE,200FF50C,extended,A0660000
+patch=1,EE,200FF5F8,extended,082FE17C
+patch=1,EE,20BF8590,extended,0803FD40
+
+//Experience Point Max
+patch=1,EE,20BE8934,extended,00000000
+
+//Appraisal Fluctuation Max
+patch=1,EE,20F08E28,extended,00000000
+
+//Supervision Appraisal
+patch=1,EE,E0020014,extended,013D6D74
+patch=1,EE,113D6D74,extended,000003E7
+patch=1,EE,213D6D40,extended,00000000
+patch=1,EE,D0B258F4,extended,000000FF
+patch=1,EE,20B258FC,extended,24020001
+
+//When It Shops, Gold Max
+patch=1,EE,20184EE0,extended,24030079
+patch=1,EE,20184EE4,extended,0000000C
+patch=1,EE,201A23F0,extended,087FF000
+patch=1,EE,21FFCFF8,extended,03E00008
+patch=1,EE,21FFC000,extended,3C080162
+patch=1,EE,21FFC004,extended,95011A28
+patch=1,EE,21FFC008,extended,38213812
+patch=1,EE,21FFC00C,extended,14200003
+patch=1,EE,21FFC010,extended,3C012407
+patch=1,EE,21FFC014,extended,3421270F
+patch=1,EE,21FFC018,extended,AD011A28
+
+//When you practice, physical strength max
+patch=1,EE,213DA74C,extended,24420064
+
+//Scholastic ability max (deviation value becomes 75)
+patch=1,EE,20EF31D8,extended,00000000
+
+//Scout appraisal max
+patch=1,EE,20EF31B0,extended,00000000
+
+//Gland level max (99)
+patch=1,EE,20EEA39C,extended,00000000
+
+//Acquisition experience value
+patch=1,EE,E002FF80,extended,00EF3E10
+patch=1,EE,20BF3F2C,extended,24037FFF
+patch=1,EE,20BF4334,extended,24037FFF

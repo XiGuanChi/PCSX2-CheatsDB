@@ -1,0 +1,17 @@
+gametitle=Tiger Woods PGA Tour '08 SLUS-21646
+//All Holes Always Hole In One P1
+patch=1,EE,4056B5B0,extended,00120001
+patch=1,EE,00000000,extended,00000000
+
+//All Attributes Are Free (Edit Golfer)D0D72873 78098C72 
+patch=1,EE,20163C78,extended,00000000
+
+//View Items To Unlock All Items
+patch=1,EE,201D325C,extended,2403FFFF
+patch=1,EE,201D3260,extended,AC4313D8
+
+//Buying Pro Shop Items Doesnt Decrease Cash
+patch=1,EE,20395FE8,extended,00000000
+
+//Profile 1 Codes Max Current Cash
+patch=1,EE,21DF8804,extended,05F5E0FF

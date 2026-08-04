@@ -1,0 +1,18 @@
+gametitle=Evil Dead - A Fistful of Boomstick SLES-51588
+//Infinite Health
+patch=1,EE,20191630,extended,2402270F
+
+//Infinite Standard Boomstick Ammo
+patch=1,EE,2025028C,extended,000203E7
+
+//Infinite Explosive Boomstick Ammo
+patch=1,EE,202502AC,extended,000203E7
+
+//Infinite Standard Pistol Ammo
+patch=1,EE,102502BC,extended,000003E7
+
+//Infinite Dynamite
+patch=1,EE,1025035C,extended,000003E7
+
+//Infinite Save Tokens
+patch=1,EE,002BAC73,extended,00000064

@@ -1,0 +1,10 @@
+gametitle=007 Nightfire SLPS-25203
+//It does not decrease the bullet
+patch=1,EE,201A1F38,extended,00000000
+
+//Not reduced physical strength at the time of the attack from the people
+patch=1,EE,20190ACC,extended,00000000
+
+//Compass Ms. reference Not reduced physical strength 
+patch=1,EE,20190AC4,extended,00000000
+patch=1,EE,20190AC8,extended,00000000

@@ -1,0 +1,16 @@
+gametitle=Sly Raccoon SCES-50917
+//Have 99 Coins
+patch=1,EE,10287388,extended,00000063
+
+//Infinite Lives
+patch=1,EE,10287380,extended,00000063
+
+//Secret Moves
+patch=1,EE,10287390,extended,0000FFFF
+
+//Open All Maps
+patch=1,EE,10286F28,extended,00000021
+
+//All Movies Open
+patch=1,EE,10287394,extended,0000FFFF
+patch=1,EE,10287398,extended,0000FFFF

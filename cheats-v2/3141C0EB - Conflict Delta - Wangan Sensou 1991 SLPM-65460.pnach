@@ -1,0 +1,9 @@
+gametitle=Conflict Delta - Wangan Sensou 1991 SLPM-65460
+//Enable Cheat Menu (Options) 
+patch=1,EE,00356244,extended,00000001
+
+//Next mission After pressing the R1 button
+patch=1,EE,D03F0A82,extended,0000F7FF
+patch=1,EE,003569E0,extended,00000001
+patch=1,EE,D03F0A82,extended,0000FFFF
+patch=1,EE,003569E0,extended,00000000

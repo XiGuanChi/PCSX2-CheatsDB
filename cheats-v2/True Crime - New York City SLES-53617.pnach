@@ -1,0 +1,13 @@
+gametitle=True Crime - New York City SLES-53617
+//unendlich Munition
+patch=1,EE,2052b3ac,extended,00000001
+
+//unendlich Ausdauer
+patch=1,EE,0052b3b0,extended,00000001
+
+//Passanten sterben nicht durch Schl?ge
+patch=1,EE,2053da48,extended,45000000
+patch=1,EE,2019e438,extended,24040000
+
+//habe alle Waffen
+patch=1,EE,0052b3b4,extended,00000001

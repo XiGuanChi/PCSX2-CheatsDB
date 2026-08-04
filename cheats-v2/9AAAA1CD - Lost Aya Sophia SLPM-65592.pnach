@@ -1,0 +1,24 @@
+gametitle=Lost Aya Sophia SLPM-65592
+//Album fully open
+patch=1,EE,41B2C950,extended,00560001
+patch=1,EE,00A80001,extended,00010000
+patch=1,EE,21B2CAAC,extended,00FF0001
+patch=1,EE,41B2CAB0,extended,00440001
+patch=1,EE,01000001,extended,00010000
+patch=1,EE,21B2CBB8,extended,01490001
+patch=1,EE,21B2CBBC,extended,014C0001
+patch=1,EE,21B2CBC0,extended,01550001
+patch=1,EE,21B2CBC4,extended,01560001
+patch=1,EE,21B2CBC8,extended,01570001
+patch=1,EE,21B2CBCC,extended,01590001
+patch=1,EE,21B2CBD0,extended,015A0001
+patch=1,EE,41B2CBD4,extended,00060001
+patch=1,EE,01620001,extended,00010000
+patch=1,EE,21B2CBEC,extended,01690001
+patch=1,EE,21B2CBF0,extended,016A0001
+patch=1,EE,21B2CBF4,extended,016B0001
+patch=1,EE,21B2CBF8,extended,016C0001
+patch=1,EE,21B2CBFC,extended,01730001
+patch=1,EE,21B2CC00,extended,01740001
+patch=1,EE,41B2CC04,extended,00050001
+patch=1,EE,01770001,extended,00010000

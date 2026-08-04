@@ -1,0 +1,27 @@
+gametitle=Hokuto no Ken SLPM-66660
+//P1 Infinite health
+patch=1,EE,00AAED58,extended,000000C0
+patch=1,EE,10AAEDB0,extended,00000707
+
+//P1 Infinite aura
+patch=1,EE,00AAEDA2,extended,000000DE
+
+//P1 Infinite boost
+patch=1,EE,20AAED70,extended,43800000
+
+//P1 player 7 stars bar
+patch=1,EE,20AAEDB1,extended,43800000
+
+//P2 player no 7 stars
+patch=1,EE,20AB0DD1,extended,00000000
+
+//Unlock all modes
+patch=1,EE,20329F90,extended,3B9AC9FF
+
+//Unlock All History
+patch=1,EE,202A6C64,extended,A0A401C0
+
+//History 77/77
+patch=1,EE,40393978,extended,00130001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,003939C4,extended,00000001

@@ -1,0 +1,12 @@
+gametitle=Bob Esponja - La Pelicula SLES-52986
+//Bob Infinite health
+patch=1,EE,207ADC00,extended,00000003
+
+//Patricio Infinite health
+patch=1,EE,207AE070,extended,00000003
+
+//Car Infinite health
+patch=1,EE,207AE4E0,extended,00000003
+
+//Gooberfichas 9
+patch=1,EE,00000009,extended,00000009

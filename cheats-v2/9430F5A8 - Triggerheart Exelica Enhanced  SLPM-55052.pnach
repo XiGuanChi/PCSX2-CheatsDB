@@ -1,0 +1,18 @@
+gametitle=Triggerheart Exelica Enhanced  SLPM-55052
+//Maximum life
+patch=1,EE,004880D0,extended,00000009
+
+//Bomb maximum
+patch=1,EE,004880D8,extended,00000009
+
+//Infinite HP
+patch=1,EE,202B3994,extended,2403FFFF
+
+//Infinite Time
+patch=1,EE,204880A0,extended,0000FFFF
+
+//Infinite Power
+patch=1,EE,204880F0,extended,00000004
+
+//Invicible
+patch=1,EE,202B3994,extended,2403FFFF

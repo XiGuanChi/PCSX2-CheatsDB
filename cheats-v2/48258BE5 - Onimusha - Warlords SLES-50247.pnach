@@ -1,0 +1,22 @@
+gametitle=Onimusha - Warlords SLES-50247
+//Infinite Health 
+patch=1,EE,10293CB0,extended,00000080
+
+//Inf Lightning magic
+patch=1,EE,1029357E,extended,00000080
+
+//Inf Fire Magic
+patch=1,EE,10293580,extended,00000080
+
+//Inf Wind Magic
+patch=1,EE,10293582,extended,00000080
+
+//Inf Fire Arrows
+patch=1,EE,20293418,extended,3000FF18
+
+//Inf Bullets
+patch=1,EE,20293420,extended,3000FF19
+
+//1 Hit Win-Final Boss
+patch=1,EE,D0B73200,extended,00002EE0
+patch=1,EE,10B73200,extended,00000000

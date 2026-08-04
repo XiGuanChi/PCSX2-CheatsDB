@@ -1,0 +1,21 @@
+gametitle=Superman Returns SLUS-21434
+//Infinite Health
+patch=1,EE,20221408,extended,8C410004
+patch=1,EE,2022140C,extended,AC410000
+patch=1,EE,20221418,extended,3C013F80
+patch=1,EE,20221420,extended,AC41000C
+patch=1,EE,2022143C,extended,44816000
+
+//Infinite Superpower
+patch=1,EE,202AA12C,extended,24105000
+patch=1,EE,202AA130,extended,AC50000C
+
+//Infinite Metropolis Health
+patch=1,EE,200C0220,extended,3C013F80
+patch=1,EE,200C0224,extended,080AA850
+patch=1,EE,200C0228,extended,AC41000C
+patch=1,EE,202A9FBC,extended,0C030088
+
+//Infinite Stamina
+patch=1,EE,202AA0A4,extended,24102710
+patch=1,EE,202AA118,extended,AC50000C

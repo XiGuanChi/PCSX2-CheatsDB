@@ -1,0 +1,11 @@
+gametitle=Keiei Simulation - Jurassic Park SLPM-62346
+//initial budget 999,999,999$
+patch=1,EE,2059C30C,extended,3B9AC9FF
+
+//5 stars
+patch=1,EE,20272E3C,extended,3C013F80
+patch=1,EE,20272E60,extended,44810000
+patch=1,EE,20272E70,extended,E6400004
+
+//Site B appearance
+patch=1,EE,2083EB18,extended,00000012

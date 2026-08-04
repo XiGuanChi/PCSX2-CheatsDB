@@ -1,0 +1,12 @@
+gametitle=Beat Down - Fists of Vengeance SLES-53505
+//Infinite HP in Battle
+patch=1,EE,206CC93C,extended,270F270F
+
+//Infinite Gold
+patch=1,EE,20600CA0,extended,0098967F
+
+//Infinite HPs 9999
+patch=1,EE,10600CB4,extended,0000270F
+
+//Max.HPs 9999
+patch=1,EE,10600CAE,extended,0000270F

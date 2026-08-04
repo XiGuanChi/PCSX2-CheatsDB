@@ -1,0 +1,50 @@
+gametitle=The Magician's Academy SLPS-25775
+//Battle Only Strategy map Charactere 1 HP9999/9999
+patch=1,EE,10ED7FFC,extended,0000270F
+patch=1,EE,10ED8000,extended,0000270F
+
+//When magical experience it is worthy of procures magical level max.
+patch=1,EE,20172AFC,extended,2407270F
+
+//Friend HP largest maintenance
+patch=1,EE,20173160,extended,8DE100BC
+patch=1,EE,20173164,extended,ADE100C0
+patch=1,EE,20173168,extended,1000001B
+patch=1,EE,2017316C,extended,0000782D
+
+//Charactere 1 MP 9999
+patch=1,EE,10ED8008,extended,0000270F
+patch=1,EE,10ED800C,extended,0000270F
+
+//Stats 999 
+patch=1,EE,40ED7FD4,extended,00050001
+patch=1,EE,03E703E7,extended,00000000
+
+//P1 MOV.15 
+patch=1,EE,10ED8016,extended,0000000F
+
+//Charactere 2 HP/MP 9999 (code by touffu)
+patch=1,EE,10ED81B0,extended,0000270F
+patch=1,EE,10ED81B4,extended,0000270F
+patch=1,EE,10ED81BC,extended,0000270F
+patch=1,EE,10ED81C0,extended,0000270F
+
+//Charactere 2 Stats 999 (code by touffu)
+patch=1,EE,40ED8188,extended,00050001
+patch=1,EE,03E703E7,extended,00000000
+
+//Charactere 2 MOV. 15 (code by touffu)
+patch=1,EE,10ED81CA,extended,0000000F
+
+//Charactere 3 HP/MP 9999 (code by touffu)
+patch=1,EE,10ED8364,extended,0000270F
+patch=1,EE,10ED8368,extended,0000270F
+patch=1,EE,10ED8370,extended,0000270F
+patch=1,EE,10ED8374,extended,0000270F
+
+//Charactere 3 Stats 999 (code by touffu)
+patch=1,EE,40ED833C,extended,00050001
+patch=1,EE,03E703E7,extended,00000000
+
+//Charactere 3 MOV. 15 (code by touffu)
+patch=1,EE,10ED837E,extended,0000000F

@@ -1,0 +1,14 @@
+gametitle=Disney's Pixar - WALL-E SLUS-21736
+//Have 65536 Points (Enter Cheats Section to get)
+patch=1,EE,20577fc0,extended,3c020001
+patch=1,EE,20577fc4,extended,ac820068
+patch=1,EE,20577fc8,extended,03e00008
+patch=1,EE,20577fcc,extended,8c820068
+
+//Infinite Beam
+patch=1,EE,205781c4,extended,c4800018
+patch=1,EE,005781D2,extended,00000080
+
+//Infinite Health
+patch=1,EE,20578104,extended,c4800008
+patch=1,EE,00578112,extended,00000080

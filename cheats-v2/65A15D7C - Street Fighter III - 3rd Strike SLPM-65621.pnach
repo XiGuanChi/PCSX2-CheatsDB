@@ -1,0 +1,14 @@
+gametitle=Street Fighter III - 3rd Strike SLPM-65621
+//Infinite Health Player 1
+patch=1,EE,00563E3E,extended,000000A0
+
+//P2 1-Hit Death
+patch=1,EE,D05642AA,extended,000000A0
+patch=1,EE,005642AA,extended,00000001
+
+//Extra Option Unlocked
+patch=1,EE,00634133,extended,00000001
+
+//System Direction Complete & Gill Unlocked
+patch=1,EE,40634134,extended,000A0001
+patch=1,EE,01010101,extended,00000000

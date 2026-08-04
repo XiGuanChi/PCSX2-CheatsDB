@@ -1,0 +1,92 @@
+gametitle=Shining Wind SLPM-66671
+//Gold 9999999
+patch=1,EE,2069DC48,extended,05F5E0FF
+
+//After 1 Battle = Level 50
+patch=1,EE,20253DC4,extended,00541021
+patch=1,EE,20253DC8,extended,AEA20000
+patch=1,EE,20253DC0,extended,0014A500
+
+//Bonus Points 99
+patch=1,EE,201EDD84,extended,24040063
+
+//Chain Points 999
+patch=1,EE,2026474C,extended,24010000
+
+//Unlock All Gates ( Map Area )
+patch=1,EE,2069DC6C,extended,02020202
+patch=1,EE,2069DC70,extended,02020202
+patch=1,EE,2069DC74,extended,02020202
+patch=1,EE,2069DC78,extended,02020202
+patch=1,EE,0069DC7C,extended,00000002
+
+//Charactere 1 HP 999/999 All Stats 999 Skill Points 999
+patch=1,EE,2069D144,extended,03E703E7
+patch=1,EE,2069D13C,extended,03E703E7
+patch=1,EE,2069D140,extended,03E703E7
+patch=1,EE,2069D13E,extended,03E730E7
+patch=1,EE,2069D138,extended,03E703E7
+
+//All Skill Level 6
+patch=1,EE,2069D158,extended,14141414
+
+//Character 1 Exp 99999999
+patch=1,EE,2069D10E,extended,05F5E0FF
+
+//Character 2 HP 999/999 All Stats 999 Skill Points 999
+patch=1,EE,2069D1B8,extended,03E703E7
+patch=1,EE,2069D1BC,extended,03E703E7
+patch=1,EE,2069D1BE,extended,03E703E7
+patch=1,EE,2069D1C0,extended,03E730E7
+patch=1,EE,2069D1C4,extended,03E703E7
+patch=1,EE,1069D1C8,extended,000003E7
+
+//All Skill Level 6
+patch=1,EE,2069D1DC,extended,14141414
+patch=1,EE,2069D1E0,extended,14141414
+patch=1,EE,2069D1E4,extended,14141414
+
+//Character 2 Exp 99999999
+patch=1,EE,2069D190,extended,05F5E0FF
+
+//Character 3 HP 999/999 All Stats 999 Skill Points 999
+patch=1,EE,2069D240,extended,03E703E7
+patch=1,EE,2069D244,extended,03E703E7
+patch=1,EE,2069D248,extended,03E703E7
+patch=1,EE,2069D24E,extended,03E730E7
+
+//All Skill Level 6
+patch=1,EE,2069D260,extended,14141414
+patch=1,EE,2069D264,extended,14141414
+
+//Charactere 3 Exp 99999999
+patch=1,EE,2069D214,extended,05F5E0FF
+
+//Charactere 4 HP 999/999 All Stats 999 Skill Points 999
+patch=1,EE,2069D660,extended,03E703E7
+patch=1,EE,2069D664,extended,03E703E7
+patch=1,EE,2069D668,extended,03E703E7
+patch=1,EE,2069D66C,extended,03E730E7
+
+//All Skill Level 6
+patch=1,EE,2069D680,extended,14141414
+patch=1,EE,2069D684,extended,14141414
+patch=1,EE,2069D688,extended,14141414
+
+//Character 4 Exp 99999999
+patch=1,EE,2069D634,extended,05F5E0FF
+
+//Character 5 HP 999/999 All Stats 999 Skill Points 999
+patch=1,EE,2069D2C4,extended,03E703E7
+patch=1,EE,2069D2C8,extended,03E703E7
+patch=1,EE,2069D2CC,extended,03E703E7
+patch=1,EE,2069D2CE,extended,03E730E7
+patch=1,EE,2069D2D0,extended,03E730E7
+
+//All Skill Level 6
+patch=1,EE,2069D2E4,extended,14141414
+patch=1,EE,2069D2E8,extended,14141414
+patch=1,EE,2069D2EC,extended,14141414
+
+//Character 5 Exp 99999999
+patch=1,EE,2069D298,extended,05F5E0FF

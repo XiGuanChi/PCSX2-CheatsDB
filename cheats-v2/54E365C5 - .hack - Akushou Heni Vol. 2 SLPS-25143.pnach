@@ -1,0 +1,71 @@
+gametitle=.hack - Akushou Heni Vol. 2 SLPS-25143
+//Level Up once for LEVEL 99
+patch=1,EE,D053EC3C,extended,0000005F
+patch=1,EE,2053EC58,extended,24020063
+
+//Level Up once for HP 9999
+patch=1,EE,D053ECE8,extended,00000003
+patch=1,EE,2053ECE8,extended,14200001
+patch=1,EE,D053ED60,extended,00000003
+patch=1,EE,2053ED60,extended,14200001
+
+//Level Up once for SP 9999
+patch=1,EE,D053ED18,extended,00000003
+patch=1,EE,2053ED18,extended,14200001
+patch=1,EE,D053ED78,extended,00000003
+
+//All members can appear & call
+patch=1,EE,20A965F0,extended,0003FFFF
+patch=1,EE,20A965F4,extended,0003FFFF
+patch=1,EE,20A965FC,extended,0003FFFF
+
+//Wallpaper appearance
+patch=1,EE,20A96608,extended,FFFFFFFF
+patch=1,EE,10A9660C,extended,0000FFFF
+
+//BGM appearance
+patch=1,EE,20A96614,extended,FFFFFFFF
+patch=1,EE,20A96618,extended,0003FFFF
+
+//Video appearance
+patch=1,EE,20A96620,extended,FFFFFFFF
+patch=1,EE,20A96624,extended,FFFFFFFF
+patch=1,EE,20A96628,extended,03FFFFFF
+
+//Status related (by character)
+//Kite (hero) Experience 999
+patch=1,EE,10A9B868,extended,000003E7
+
+//Kite (hero) Possession money MAX
+patch=1,EE,20A9B86C,extended,0098967F
+
+//Kite (hero) Maximum HP MAX
+patch=1,EE,10A9B87C,extended,0000270F
+
+//Kite (hero) Maximum SP MAX
+patch=1,EE,10A9B87E,extended,000003E7
+
+//Mia Experience 999
+patch=1,EE,10A9B944,extended,000003E7
+
+//Mia Money in possession
+patch=1,EE,20A9B948,extended,0098967F
+
+//Mia Maximum HP MAX
+patch=1,EE,10A9B958,extended,0000270F
+
+//Mia Maximum SP MAX
+patch=1,EE,10A9B95A,extended,000003E7
+
+//Orca Experience 999
+patch=1,EE,10A9BA20,extended,000003E7
+
+//Orca Money in possession
+patch=1,EE,20A9BA24,extended,0098967F
+
+//Orca Maximum HP MAX
+patch=1,EE,10A9BA34,extended,0000270F
+
+//Orca Maximum SP MAX
+patch=1,EE,10A9BA36,extended,000003E7
+

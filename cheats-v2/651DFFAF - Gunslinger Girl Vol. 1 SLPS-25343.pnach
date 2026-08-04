@@ -1,0 +1,23 @@
+gametitle=Gunslinger Girl Vol. 1 SLPS-25343
+//All Stage & costume choice
+patch=1,EE,00301CD3,extended,00000004
+patch=1,EE,203020E4,extended,01010101
+
+//Infinite damage
+patch=1,EE,20170C6C,extended,00000000
+
+//Infinite HP 
+patch=1,EE,2016FEEC,extended,00000000
+
+//Gauge Recovery C
+patch=1,EE,2016FED4,extended,00000000
+
+//Infinite Bullets
+patch=1,EE,D0306502,extended,0000FBFE
+patch=1,EE,20171C60,extended,00000000
+patch=1,EE,D0306502,extended,0000FBFE
+patch=1,EE,20179368,extended,00000000
+patch=1,EE,D0306502,extended,0000F7FE
+patch=1,EE,20171C60,extended,00501023
+patch=1,EE,D0306502,extended,0000F7FE
+patch=1,EE,20179368,extended,AC60000C

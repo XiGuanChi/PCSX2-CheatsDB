@@ -1,0 +1,7 @@
+gametitle=KimiStar - Kimi to Stud SLPM-66377
+//Bonus fully opened
+patch=1,EE,401A6330,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,101A6352,extended,00000001
+patch=1,EE,401A6354,extended,00100001
+patch=1,EE,00010001,extended,00000000

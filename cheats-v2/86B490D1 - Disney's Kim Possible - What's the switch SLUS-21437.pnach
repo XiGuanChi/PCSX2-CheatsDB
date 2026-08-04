@@ -1,0 +1,14 @@
+gametitle=Disney's Kim Possible - What's the switch SLUS-21437
+//Infinite Lives
+patch=1,EE,20D07444,extended,00000009
+
+//infinite Health
+patch=1,EE,21350810,extended,24030005
+patch=1,EE,21350818,extended,AC4307E0
+
+//All coins
+patch=1,EE,205FEB98,extended,00000064
+patch=1,EE,205FEB9C,extended,00000064
+
+//God Mode
+patch=1,EE,212EFB40,extended,24020001

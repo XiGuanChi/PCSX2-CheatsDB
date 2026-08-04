@@ -1,0 +1,15 @@
+gametitle=Disney's Treasure Planet SCUS-97146
+//Infinite Health
+patch=1,EE,002DD3D0,extended,00000003
+
+//Drubloons Worth 50
+patch=1,EE,101F5804,extended,00000032
+
+//Green Energies Worth 5
+patch=1,EE,101F2D10,extended,00000005
+
+//Unlock All Levels
+patch=1,EE,20145ACC,extended,24A20000
+
+//Infinite Time (Time Based Missions)
+patch=1,EE,20168B60,extended,00000000

@@ -1,0 +1,53 @@
+gametitle=Devil May Cry 3 - Special Edition SLES-54186
+//infinite Energie Dante
+patch=1,EE,217e5dd4,extended,45bb8000
+
+//infinite Health
+patch=1,EE,202f0d5c,extended,10000022
+
+//infinite Devil Trigger
+patch=1,EE,2021f020,extended,00000000
+patch=1,EE,2021f024,extended,00000000
+
+//infitine Energy
+patch=1,EE,20206c14,extended,c4802aa8
+
+//all Stages
+patch=1,EE,204a23d8,extended,24050000
+
+//infinite Time
+patch=1,EE,20365ffc,extended,00001021
+
+//MAX Orbs after kill
+patch=1,EE,202f40cc,extended,ac61001c
+
+//God mode v2
+patch=1,EE,202f0d58,extended,a0630028
+
+//1 Hit Kill 
+patch=1,EE,202f25c0,extended,10400091
+
+//Open All Levels
+patch=1,EE,204A2400,extended,0000000
+
+//Open All Modes/Gallery
+patch=1,EE,21D1071C,extended,FFFFFFFF
+patch=1,EE,21D10720,extended,FFFFFFFF
+patch=1,EE,21D10724,extended,FFFFFFFF
+patch=1,EE,21D10728,extended,FFFFFFFF
+
+//Open All Movies in Demo Digest
+patch=1,EE,20542F98,extended,00000000
+
+//Infinite Health
+patch=1,EE,20221224,extended,3C0145C0
+patch=1,EE,20221230,extended,AE212AD4
+
+//Infinite Devil Trigger Use (L3 to activate, R3 to stop)
+patch=1,EE,D06C5E02,extended,0000FFFD
+patch=1,EE,2021F014,extended,00000000
+patch=1,EE,D06C5E02,extended,0000FFFB
+patch=1,EE,2021F014,extended,460C0841
+
+//Max Red Orbs After Collecting Some
+patch=1,EE,202F40D0,extended,3C02000F

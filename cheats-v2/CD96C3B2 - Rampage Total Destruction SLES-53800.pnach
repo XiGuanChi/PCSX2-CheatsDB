@@ -1,0 +1,17 @@
+gametitle=Rampage Total Destruction SLES-53800
+//Easy Challenges
+patch=1,EE,004D5094,extended,00000001
+
+//Infinite Health Against Weapons
+patch=1,EE,202D9364,extended,00000000
+
+//Infinite Lives
+patch=1,EE,204D7BB4,extended,00000003
+
+//Enable All Characters
+patch=1,EE,404D7B0C,extended,001E0001
+patch=1,EE,0000008F,extended,00000000
+
+//All Levels
+patch=1,EE,404D7A90,extended,00070001
+patch=1,EE,0000008F,extended,00000000

@@ -1,0 +1,6 @@
+gametitle=Nodame Cantabile SLPS-25780
+//Appraisal modification · [ L1+R1 ] with button MAX · [ L2+R2 ] with button 0
+patch=1,EE,D02E05E4,extended,0000000C
+patch=1,EE,202E0E68,extended,42C80000
+patch=1,EE,D02E05E4,extended,00000003
+patch=1,EE,202E0E68,extended,00000000

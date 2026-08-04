@@ -1,0 +1,21 @@
+gametitle=Machi-ing Maker SLPM-62066
+//Possession money 2 billion yen
+patch=1,EE,201CB0F0,extended,77359400
+
+//Physical fitness maximum
+patch=1,EE,20A5CAD4,extended,001E8480
+
+//Population 9999 people
+patch=1,EE,20978CD4,extended,0000270F
+
+//Maximum intimacy with conversation
+patch=1,EE,2013CDCC,extended,24030078
+
+//(1P) Start + R2 button to popular 120%
+patch=1,EE,D01F9442,extended,0000FDF7
+patch=1,EE,1093B2D0,extended,00000078
+
+//When you browse the town page, it is fully opened
+patch=1,EE,2013CA7C,extended,2403FFFF
+patch=1,EE,2013CA80,extended,AC430000
+patch=1,EE,2013CA8C,extended,24020001

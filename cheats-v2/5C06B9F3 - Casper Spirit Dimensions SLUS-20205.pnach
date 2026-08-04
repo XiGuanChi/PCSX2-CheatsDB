@@ -1,0 +1,15 @@
+gametitle=Casper Spirit Dimensions SLUS-20205
+//Infinite Health
+patch=1,EE,20510DB0,extended,00000032
+
+//Infinite Shield Energy
+patch=1,EE,20510DC0,extended,00000003
+
+//Infinite Comet Energy
+patch=1,EE,20510DB8,extended,000000B4
+
+//Infinite Fire Enhancer
+patch=1,EE,20510DA0,extended,0000000A
+
+//Infinite Ice Enhancer
+patch=1,EE,20510DA4,extended,0000000A

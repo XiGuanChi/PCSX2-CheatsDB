@@ -1,0 +1,27 @@
+gametitle=Routes PE SLPS-25722-7
+//CG mode fully open (It is reflected in the save)
+patch=1,EE,0057AD31,extended,000000FF
+patch=1,EE,1057AD32,extended,0000FFFF
+patch=1,EE,2057AD34,extended,FFFFFFFF
+patch=1,EE,2057AD38,extended,FFFFFFFF
+patch=1,EE,2057AD3C,extended,FFFFFFFF
+
+//Music mode fully open (It is reflected in the save)
+patch=1,EE,2057AD24,extended,FFFFFF0F
+patch=1,EE,1057AD28,extended,00003FFF
+
+//Unlock All CG 
+patch=1,EE,0057AD31,extended,000000FF
+patch=1,EE,1057AD32,extended,0000FFFF
+patch=1,EE,2057AD38,extended,FFFFFFFF
+patch=1,EE,2057AD3C,extended,FFFFFFFF
+
+//Unlock All Extra Missions
+patch=1,EE,2057A798,extended,00000001
+patch=1,EE,2057A79C,extended,00000001
+
+//Unlock All Music 
+patch=1,EE,1057AD28,extended,0000FFFF
+
+//Unlock Extra Mission 
+patch=1,EE,2057A764,extended,00000001

@@ -1,0 +1,27 @@
+gametitle=Conflict - Desert Storm SLES-50902
+//Inf Ammo
+patch=1,EE,201A85EC,extended,24420001
+
+//Disable Damage
+patch=1,EE,2012FE00,extended,00000000
+patch=1,EE,2012FDE0,extended,00000000
+patch=1,EE,2012FDF0,extended,00000000
+patch=1,EE,2012FDE0,extended,10400017
+patch=1,EE,2012FDF0,extended,10400013
+
+//Disable Damage - R1+R2+L1+L2
+patch=1,EE,2012FE00,extended,00000000
+patch=1,EE,D03D85C2,extended,0000F0FF
+patch=1,EE,2012FDE0,extended,00000000
+patch=1,EE,D03D85C2,extended,0000F0FF
+patch=1,EE,2012FDF0,extended,00000000
+patch=1,EE,D03D85C2,extended,0000F0FF
+patch=1,EE,2012FDE0,extended,10400017
+patch=1,EE,D03D85C2,extended,0000F0FF
+patch=1,EE,2012FDF0,extended,10400013
+
+//Skip Level - R1+R2+L1+L2+Sel
+patch=1,EE,D03D85C2,extended,0000F0FE
+patch=1,EE,003C9A95,extended,00000001
+patch=1,EE,D03D85C2,extended,0000F0FE
+patch=1,EE,003C9A95,extended,00000000

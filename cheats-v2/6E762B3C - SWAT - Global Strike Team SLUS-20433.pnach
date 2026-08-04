@@ -1,0 +1,123 @@
+gametitle=SWAT - Global Strike Team SLUS-20433
+//Max Weapon Customize Points Available
+patch=1,EE,21B23F40,extended,0000270F
+
+//Infinite Continues
+patch=1,EE,01B2B9A9,extended,00000009
+
+//Extra Continues
+patch=1,EE,203BCBFC,extended,00621821
+
+//Unlock All Extras
+patch=1,EE,01B2BC10,extended,000000FF
+
+//Infinite Health
+patch=1,EE,200C0220,extended,3C01447A
+patch=1,EE,200C0224,extended,080A39C0
+patch=1,EE,200C0228,extended,AC810130
+patch=1,EE,20226D28,extended,0C030088
+
+//Infinite Health (Partner)
+patch=1,EE,200C0230,extended,3C01447A
+patch=1,EE,200C0234,extended,080A39C0
+patch=1,EE,200C0238,extended,AC810130
+patch=1,EE,20208AE8,extended,0C03008C
+
+//infinite Ammo
+patch=1,EE,20178B28,extended,00000000
+
+//infinite Ammo Max
+patch=1,EE,20178B20,extended,24020063
+
+//Infinite Grenades
+patch=1,EE,2017A134,extended,00000000
+
+//Max Infinite Grenades
+patch=1,EE,2017A130,extended,24020009
+
+//Have All Medals  Unlocked
+patch=1,EE,201DA570,extended,24010001
+patch=1,EE,201DA574,extended,A0A2010D
+
+//Unlock All Missions
+patch=1,EE,200C0000,extended,08076BD1
+patch=1,EE,200C0004,extended,A041010C
+patch=1,EE,201DAEB0,extended,08030000
+patch=1,EE,201DAEB4,extended,24010001
+
+//Enable Gore
+patch=1,EE,202750B4,extended,24040001
+
+//Infinite Health (Tim)
+patch=1,EE,2028E6D0,extended,46000000
+
+//Infinite Health (Alternate)
+patch=1,EE,2028E6C8,extended,10000007
+
+//Debug Menu (Options, Use CIRCLE + X Buttons)
+patch=1,EE,203BAB60,extended,8C45340C
+
+//Campaign MissionProfile Option Codes ==
+
+//All Campaign Missions Complete
+patch=1,EE,01B239AD,extended,00000021
+
+//All Time Attack Missions Complete
+patch=1,EE,01B239AE,extended,00000021
+
+//All Cooperative Missions Complete
+patch=1,EE,01B239AF,extended,00000021
+
+//All Cooperative Time Attack Missions Complete
+patch=1,EE,01B239B0,extended,00000021
+
+//Always No Total Saves
+patch=1,EE,21B239BC,extended,00000000
+
+//Always Low Time
+patch=1,EE,21B239C0,extended,00000000
+
+//unendlich Energie / Infinite Health (PartnerAlternate Version)
+patch=1,EE,2028E6E0,extended,00000000
+patch=1,EE,2028E6E4,extended,00000000
+
+//Infinite Time
+patch=1,EE,2039F858,extended,00000000
+
+//Infinite Time (Time Attack Mode)
+patch=1,EE,2018B1D8,extended,00000000
+
+
+//== Activate InGame Cheat Codes ==
+
+//Invulnerable
+patch=1,EE,004433E8,extended,00000001
+
+//unendlich Munition / infinite Ammo
+patch=1,EE,004433E9,extended,00000001
+
+//unendlich Munition / infinite Ammo & Invulnerable
+patch=1,EE,104433E8,extended,00000101
+
+
+//== Campaign Mission Codes ==
+
+//== Profile Option Codes ==
+
+//All Campaign Missions Complete
+patch=1,EE,01B239AD,extended,00000021
+
+//All Time Attack Missions Complete
+patch=1,EE,01B239AE,extended,00000021
+
+//All Cooperative Missions Complete
+patch=1,EE,01B239AF,extended,00000021
+
+//All Cooperative Time Attack Missions Complete
+patch=1,EE,01B239B0,extended,00000021
+
+//Always No Total Saves
+patch=1,EE,21B239BC,extended,00000000
+
+//Always Low Time
+patch=1,EE,21B239C0,extended,00000000

@@ -1,0 +1,278 @@
+gametitle=Slam Tennis SLES-50776
+//P2 Never Score
+patch=1,EE,0032ABF4,extended,0032ABF4
+
+//1P Max Points
+patch=1,EE,0032ABF0,extended,0032ABF0
+
+//Max point sun,S.S
+patch=1,EE,20368B3C,extended,20368B3C
+
+//Max points Crazy C.C
+patch=1,EE,203DE630,extended,203DE630
+
+//Max points Bubble B.B.
+patch=1,EE,203E19A4,extended,203E19A4
+
+//Max points Rockin,R.R
+patch=1,EE,203DE410,extended,203DE410
+
+//USA Unlock Challenge
+
+//Lob Challenge
+patch=1,EE,203D2BC0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D2BE0,extended,00000001
+
+//British IM
+patch=1,EE,203D2D00,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D2D20,extended,00000001
+
+//Serve Challenge Australia
+patch=1,EE,203D2DC0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D2DE0,extended,00000001
+
+//CCC queens_Unit States
+patch=1,EE,203D2E10,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D2E30,extended,00000001
+
+//Sun See And Serve
+patch=1,EE,203D2C10,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D2C30,extended,00000001
+
+//Bubble Burst Bon.
+patch=1,EE,203D2C60,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D2C80,extended,00000001
+
+//Smash Challenge
+patch=1,EE,203D2CB0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D2BD0,extended,00000001
+
+//Rio Double
+patch=1,EE,203D2D40,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D2D60,extended,00000001
+
+//French Int Masters
+patch=1,EE,203D2D80,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D2BA0,extended,00000001
+
+//US Slam Championship
+patch=1,EE,203D2E60,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D2E80,extended,00000001
+
+//Crazy Coll. Col.
+patch=1,EE,203D2E10,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D2E30,extended,00000001
+
+//US Slam Chchip
+patch=1,EE,203D2E60,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D2E80,extended,00000001
+
+//England Unlock Challenge
+
+//Serve Challenge Rio
+patch=1,EE,203D3010,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3030,extended,00000001
+
+//Rockin Ring Riot
+patch=1,EE,203D3060,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3080,extended,00000001
+
+//Smach Challenge
+patch=1,EE,203D3100,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3120,extended,00000001
+
+//Australian Int Masters
+patch=1,EE,203D3150,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3170,extended,00000001
+
+//Tokyo Double Cup
+patch=1,EE,203D3190,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D31B0,extended,00000001
+
+//US Int Masters
+patch=1,EE,203D31D0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D31F0,extended,00000001
+
+//Volley Challenge
+patch=1,EE,203D3210,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3230,extended,00000001
+
+//Bubble Burst.
+patch=1,EE,203D3260,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3280,extended,00000001
+
+//British Slam Champ
+patch=1,EE,203D32B0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D32D0,extended,00000001
+
+//Sun Sea and Serve
+patch=1,EE,203D30B0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D30D0,extended,00000001
+
+//France Unlock Challenge
+
+//Returns Chall.
+patch=1,EE,203D3460,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3480,extended,00000001
+
+//Bubble Bursting...
+patch=1,EE,203D34B0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D34D0,extended,00000001
+
+//Crazy Collaps..
+patch=1,EE,203D3500,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3520,extended,00000001
+
+//Lob Challenge
+patch=1,EE,203D3550,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3570,extended,00000001
+
+//Goteborg Cup
+patch=1,EE,203D35A0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D35C0,extended,00000001
+
+//Brazilian International
+patch=1,EE,203D3620,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3640,extended,00000001
+
+//NY Doubles
+patch=1,EE,203D35E0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3600,extended,00000001
+
+//Groundstroke Challenge
+patch=1,EE,203D3660,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3680,extended,00000001
+
+//Rockin Ring Riot
+patch=1,EE,203D36B0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D36D0,extended,00000001
+
+//French Slam Chip.
+patch=1,EE,203D3700,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3720,extended,00000001
+
+//Australia Unlock Challenge
+
+//Volley Challenge
+patch=1,EE,203D38B0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D38D0,extended,00000001
+
+//Rockin Riot Fr.
+patch=1,EE,203D3900,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3920,extended,00000001
+
+//Crazy Coll Col.
+patch=1,EE,203D3950,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3970,extended,00000001
+
+//Return Challenge
+patch=1,EE,203D39A0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D39C0,extended,00000001
+
+//Swedish Int Masters
+patch=1,EE,203D39F0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3A10,extended,00000001
+
+//Paris Double Cup
+patch=1,EE,203D3A30,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3A50,extended,00000001
+
+//Japanese International
+patch=1,EE,203D3A70,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3A90,extended,00000001
+
+//Winner Challenge
+patch=1,EE,203D3AB0,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3AD0,extended,00000001
+
+//Sun, Sea And Dive
+patch=1,EE,203D3B00,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3B20,extended,00000001
+
+//Austrailian Slam Champ
+patch=1,EE,203D3B50,extended,00000001
+
+//Challenge Done
+patch=1,EE,203D3B70,extended,00000001

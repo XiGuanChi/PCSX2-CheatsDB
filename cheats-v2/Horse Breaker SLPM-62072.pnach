@@ -1,0 +1,53 @@
+gametitle=Horse Breaker SLPM-62072
+//Traine female full capacity Max
+patch=1,EE,11171FBC,extended,00007FFF
+
+//Traine male full capacity Max
+patch=1,EE,11171FBC,extended,00003FFF
+
+//Fame 10000
+patch=1,EE,21171FB4,extended,FFFFFFFF
+
+//ranch friendship
+patch=1,EE,20132728,extended,24020064
+patch=1,EE,201326D4,extended,24020064
+
+//ranch gratitude
+patch=1,EE,201323F8,extended,24020064
+patch=1,EE,201323A4,extended,24020064
+
+//Dissatisfied with the stables
+patch=1,EE,20138E04,extended,24020000
+
+//Horse owner friendship
+patch=1,EE,2015BEC8,extended,24020064
+patch=1,EE,2015BE74,extended,24020064
+
+//horse owner patience
+patch=1,EE,2015BAD8,extended,24020000
+patch=1,EE,2015BA84,extended,24020000
+
+//training assistant friendship
+patch=1,EE,20136400,extended,24020064
+
+//best racehorse
+patch=1,EE,20145FF4,extended,2402001E
+
+//Earned prize money MAX
+patch=1,EE,21171FAC,extended,0098967F
+
+//Ranch Prize Money MAX
+patch=1,EE,2116EB48,extended,0098967F
+
+//Racehorse finish always 120%
+patch=1,EE,20140E2C,extended,2402001E
+
+//Racehorse fatigue is always 0
+patch=1,EE,201413D8,extended,24020000
+
+//Fatigue addition 0 (= no fatigue accumulation)
+patch=1,EE,20141250,extended,24020000
+
+//Racehorse physical strength always MAX
+patch=1,EE,201417B4,extended,240200FF
+patch=1,EE,2014BFDC,extended,240200FF

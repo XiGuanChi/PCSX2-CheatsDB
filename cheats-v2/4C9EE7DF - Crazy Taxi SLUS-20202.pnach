@@ -1,0 +1,12 @@
+gametitle=Crazy Taxi SLUS-20202
+//Infinite Fare Time
+patch=1,EE,102F0404,extended,00000FFF
+
+//Max Money
+patch=1,EE,202F03E0,extended,05F5E0FF
+
+//Max Customers
+patch=1,EE,1047BDE4,extended,000003E7
+
+//Max Big Drift Combo
+patch=1,EE,1047B950,extended,000003E7

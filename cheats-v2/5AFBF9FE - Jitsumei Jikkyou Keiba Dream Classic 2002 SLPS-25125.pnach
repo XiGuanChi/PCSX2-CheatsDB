@@ -1,0 +1,8 @@
+gametitle=Jitsumei Jikkyou Keiba Dream Classic 2002 SLPS-25125
+//99,999,900,000 yen with select + L1L2 button
+patch=1,EE,D08BE644,extended,00000105
+patch=1,EE,208D9374,extended,000F423F
+
+//Extended Pt120 with Select + R1 + R2 button
+patch=1,EE,D08BE644,extended,0000010A
+patch=1,EE,20912BA4,extended,00000078

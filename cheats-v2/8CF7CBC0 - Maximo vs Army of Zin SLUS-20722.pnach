@@ -1,0 +1,35 @@
+gametitle=Maximo vs Army of Zin SLUS-20722
+//Infinite Shield
+patch=1,EE,200C0220,extended,24010708
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,ACC10008
+patch=1,EE,201409B4,extended,0C030088
+
+//Infinite Weapon Energy
+patch=1,EE,20140278,extended,8F818358
+patch=1,EE,20140280,extended,24051680
+patch=1,EE,2014028C,extended,AC25003C
+
+//Never Need Gold Keys To Open Gold Locks
+patch=1,EE,20164D44,extended,24020001
+
+//Start With Max Koins
+patch=1,EE,20302704,extended,0000270F
+
+//Start With Max Soul Stones
+patch=1,EE,20302708,extended,0000270F
+
+//Start With Max Iron Keys
+patch=1,EE,20302714,extended,00000063
+
+//Have All Treasure Found
+patch=1,EE,202E8D84,extended,00000063
+patch=1,EE,202E8D88,extended,00000063
+
+//Have All Innocents Rescued
+patch=1,EE,202E8D8C,extended,00000063
+patch=1,EE,202E8D90,extended,00000063
+
+//Have All Secrets Found
+patch=1,EE,202E8D94,extended,00000063
+patch=1,EE,202E8D98,extended,00000063

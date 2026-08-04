@@ -1,0 +1,21 @@
+gametitle=Umisho SLPM-66864
+//Maximum play time during the main story
+patch=1,EE,21B628F0,extended,00057E3F
+
+//Maximum total play time of results
+patch=1,EE,21B62460,extended,157529FF
+
+//Special addition to title
+patch=1,EE,01B62268,extended,00000001
+
+//Free talk fully open
+patch=1,EE,0044B3BE,extended,000000FF
+
+//When you look at the album, CG is fully open
+patch=1,EE,20145228,extended,240E0001
+patch=1,EE,2014522C,extended,A1EE0000
+
+//When you browse the results, the read achievement rate is 100%.
+patch=1,EE,2010C340,extended,240B00FF
+patch=1,EE,2010C344,extended,A1CB0000
+patch=1,EE,2010C348,extended,24020001

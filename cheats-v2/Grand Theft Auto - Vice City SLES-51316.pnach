@@ -1,0 +1,28 @@
+gametitle=Grand Theft Auto - Vice City SLES-51316
+//Infinite health
+patch=1,EE,200FFF00,extended,3C0542C8
+patch=1,EE,200FFF04,extended,AC450368
+patch=1,EE,200FFF08,extended,03E00008
+patch=1,EE,200FFF0C,extended,46000024
+patch=1,EE,202D2F44,extended,0C03FFC0
+
+//Infinite armour
+patch=1,EE,200FFF00,extended,3C0542C8
+patch=1,EE,200FFF04,extended,AC45036C
+patch=1,EE,200FFF08,extended,03E00008
+patch=1,EE,200FFF0C,extended,46000836
+patch=1,EE,202D2F44,extended,0C03FFC0
+
+//Freeze mission timer
+patch=1,EE,20270378,extended,00000000
+
+//Max money
+patch=1,EE,205C835C,extended,05F50FAB
+patch=1,EE,205C8360,extended,05F50FAB
+
+//Infinite ammo
+patch=1,EE,201588A0,extended,24420000
+patch=1,EE,20158908,extended,24420000
+patch=1,EE,2015812C,extended,24420000
+patch=1,EE,20158190,extended,24420000
+

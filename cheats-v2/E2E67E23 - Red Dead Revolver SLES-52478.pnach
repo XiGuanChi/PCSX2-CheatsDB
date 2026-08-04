@@ -1,0 +1,23 @@
+gametitle=Red Dead Revolver SLES-52478
+//Infinite Health
+patch=1,EE,20364B38,extended,03E00008
+patch=1,EE,20364B3C,extended,00000000
+
+//Invincible
+patch=1,EE,2035D8E8,extended,00000000
+patch=1,EE,2035DF30,extended,00000000
+
+//Start With Max Cash
+patch=1,EE,2035D84C,extended,00000000
+
+//Unlock Journal/Multiplayer
+patch=1,EE,201003F4,extended,24020001
+
+//Open Journal
+patch=1,EE,2011CCF8,extended,24020001
+
+//Open Multi-Missions
+patch=1,EE,20132794,extended,24020001
+
+//Open Characters in Multi-Missions
+patch=1,EE,2013FC3C,extended,24020001

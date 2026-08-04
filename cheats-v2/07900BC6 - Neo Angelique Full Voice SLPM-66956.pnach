@@ -1,0 +1,6 @@
+gametitle=Neo Angelique Full Voice SLPM-66956
+//HP 999 (only battle)
+patch=1,EE,108C99F0,extended,000003E7
+
+//1 Hit To Kill (code by touffu)
+patch=1,EE,208C9A00,extended,00000000

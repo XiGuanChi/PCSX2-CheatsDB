@@ -1,0 +1,6 @@
+gametitle=Oretachi Game Center Zoku - Quarth SLPM-62704
+//Infinite Lives
+patch=1,EE,00302E70,extended,00000001
+
+//Max Score
+patch=1,EE,20302E68,extended,0098967F

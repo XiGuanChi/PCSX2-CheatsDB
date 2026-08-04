@@ -1,0 +1,12 @@
+gametitle=Shining Force EXA SLPM-66646
+//Gain 1 Gold to turn it Max
+patch=1,EE,201BA350,extended,00000000
+patch=1,EE,202263B0,extended,00000000
+
+//Inf. HP
+patch=1,EE,20C65D10,extended,000003E7
+patch=1,EE,20C65D14,extended,000003E7
+
+//Inf. MP
+patch=1,EE,20C65D18,extended,000003E7
+patch=1,EE,20C65D1C,extended,000003E7

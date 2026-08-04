@@ -1,0 +1,17 @@
+gametitle=Rumble Roses SLUS-20970
+//Infinite Lethal / Killer Moves Player 1
+patch=1,EE,216D6EEC,extended,00000002
+
+//Enable All Characters in Exhibition mode
+patch=1,EE,403DA86C,extended,000B0001
+patch=1,EE,0000FF01,extended,00000000
+
+//Enable All Characters in Story Mode
+patch=1,EE,403DA852,extended,000A0001
+patch=1,EE,0000FF01,extended,00000000
+
+//Unlock All Gallery
+patch=1,EE,103DA886,extended,00000101
+patch=1,EE,403DA888,extended,00040001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,103DA898,extended,00000101

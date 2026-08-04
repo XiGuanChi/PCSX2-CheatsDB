@@ -1,0 +1,71 @@
+gametitle=Scarface - The World Is Yours SLUS-21111
+//Infinite Health (On-Foot)
+patch=1,EE,2039E9BC,extended,C4820184
+patch=1,EE,2039E9C4,extended,E4820180
+
+//Infinite Health (In-Car)
+patch=1,EE,20537EA8,extended,3C0142C8
+patch=1,EE,20537EB8,extended,AE610080
+
+//Infinite Ammo
+patch=1,EE,203CE77C,extended,00000000
+
+//Exra Ammo
+patch=1,EE,203CE774,extended,00511021
+
+//Never Reload
+patch=1,EE,203D03F4,extended,00000000
+
+//Less Vehicle Damage
+patch=1,EE,20380CB0,extended,03E00008
+patch=1,EE,20380CB4,extended,00000000
+
+//Vehicles Never Locked
+patch=1,EE,20380AB0,extended,03E00008
+patch=1,EE,20380AB4,extended,24020000
+
+//Visibility Never Increases
+patch=1,EE,20475BE0,extended,00000000
+
+//Cop Heat Never Increases
+patch=1,EE,20475980,extended,03E00008
+patch=1,EE,20475984,extended,00000000
+
+//Always Gain Balls
+patch=1,EE,1081C6DC,extended,00000064
+
+//P1 Press L1+Up To Increase Balls
+patch=1,EE,D0842502,extended,0000FBEF
+patch=1,EE,1081C6DC,extended,0000000A
+patch=1,EE,D0842502,extended,0000FFFF
+patch=1,EE,1081C6DC,extended,00000000
+
+//P1 Press L1+Down To Decrease Balls
+patch=1,EE,D0842502,extended,0000FBBF
+patch=1,EE,1081C6DC,extended,0000FFF6
+patch=1,EE,D0842502,extended,0000FFFF
+patch=1,EE,1081C6DC,extended,00000000
+
+//Press R1+Up To Increase Cop Heat
+patch=1,EE,D0842502,extended,0000F7EF
+patch=1,EE,1081C6DE,extended,0000000A
+patch=1,EE,D0842502,extended,0000FFFF
+patch=1,EE,1081C6DE,extended,00000000
+
+//Press R1+Down To Decrease Cop Heat
+patch=1,EE,D0842502,extended,0000F7BF
+patch=1,EE,1081C6DE,extended,0000FFF6
+patch=1,EE,D0842502,extended,0000FFFF
+patch=1,EE,1081C6DE,extended,00000000
+
+//Press R2+Up To Increase Gang Heat
+patch=1,EE,D0842502,extended,0000FDEF
+patch=1,EE,1081C6E0,extended,00000001
+patch=1,EE,D0842502,extended,0000FFFF
+patch=1,EE,1081C6E0,extended,00000000
+
+//Press R2+Down To Decrease Gang Heat
+patch=1,EE,D0842502,extended,0000FDBF
+patch=1,EE,1081C6E0,extended,00000001
+patch=1,EE,D0842502,extended,0000FFFF
+patch=1,EE,1081C6E0,extended,00000000

@@ -1,0 +1,7 @@
+gametitle=Kikou Heidan J-Phoenix 2  JOSHOUHEN SLPM-62339
+//Max Development point 
+patch=1,EE,2032E188,extended,000F423F
+
+//HP 100% Code airframe
+patch=1,EE,201A2AFC,extended,00000000
+patch=1,EE,201A2B00,extended,ACC50004

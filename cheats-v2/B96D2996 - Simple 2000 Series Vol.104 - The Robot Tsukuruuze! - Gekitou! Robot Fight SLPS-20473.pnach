@@ -1,0 +1,39 @@
+gametitle=Simple 2000 Series Vol.104 - The Robot Tsukuruuze! - Gekitou! Robot Fight SLPS-20473
+//1P Life Max After pressing the L3 + R3 button
+patch=1,EE,D066BC3A,extended,0000FFF9
+patch=1,EE,11490252,extended,000044 A8
+patch=1,EE,D066BC3A,extended,0000FFF9
+patch=1,EE,1149023E,extended,000044A8
+
+//Max money when you spend money
+patch=1,EE,201AED9C,extended,00000000
+
+//Match time does not decrease
+patch=1,EE,2011824C,extended,00000000
+patch=1,EE,2011825C,extended,00000000
+
+//The maximum production technology when parts are manufactured
+patch=1,EE,201A09C8,extended,240600FF
+
+//The maximum strengthening technology when parts are strengthened
+patch=1,EE,201A24D8,extended,240600FF
+
+//Program development is the largest program technology
+patch=1,EE,201ADA28,extended,240600FF
+
+//Maximum repair technology when repaired
+patch=1,EE,201A37C8,extended,240600FF
+
+//When studying and selecting subjects, the character's full ability is maximum
+patch=1,EE,201AEC60,extended,2402FFFF
+patch=1,EE,201AEC64,extended,ADE2001C
+patch=1,EE,201AEC68,extended,03E00008
+patch=1,EE,201AEC6C,extended,A1E20020
+patch=1,EE,2027F458,extended,001AEC58
+
+//Parts will not break even if strengthening fails
+patch=1,EE,201A1A0C,extended,00000000
+patch=1,EE,201A1A94,extended,24020001
+
+//If the upgrade is successful, the number of upgrades is 0.
+patch=1,EE,201A1BB8,extended,A6400010

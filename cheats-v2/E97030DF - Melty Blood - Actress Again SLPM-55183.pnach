@@ -1,0 +1,32 @@
+gametitle=Melty Blood - Actress Again SLPM-55183
+//Arcade mode - Infinite life gauge
+patch=1,EE,10486CE0,extended,000025B1
+patch=1,EE,10486CE4,extended,000025B1
+
+////Arcade mode SELECT + down 2P physical strength 0
+patch=1,EE,D06871F0,extended,00004100
+patch=1,EE,00487858,extended,00000000
+patch=1,EE,00487859,extended,00000000
+
+//P1 Infinite HP
+patch=1,EE,10486CE0,extended,000025B1
+patch=1,EE,10486CE4,extended,000025B1
+
+//P1 Infinite MP
+patch=1,EE,10486D00,extended,00007530
+
+//SELECT + down 2P physical strength 0
+patch=1,EE,D06871F0,extended,00004100
+patch=1,EE,10487858,extended,00000000
+patch=1,EE,1048785C,extended,00000000
+
+//Unlock EveryThing
+patch=1,EE,40347B90,extended,00FF0001
+patch=1,EE,00020002,extended,00000000
+patch=1,EE,40347F8C,extended,008C0001
+patch=1,EE,00010001,extended,00000000
+patch=1,EE,403481F8,extended,00080002
+patch=1,EE,00000001,extended,00000000
+
+
+

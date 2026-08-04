@@ -1,0 +1,11 @@
+gametitle=Th3 Plan SLUS-21618
+//Infinite Health
+patch=1,EE,20298C58,extended,C4800760
+patch=1,EE,20298C5C,extended,E48007C4
+
+//Infinite Stamina
+patch=1,EE,20192CB4,extended,00000000
+
+//Unlock Bonus Mode
+patch=1,EE,00309A90,extended,00000001
+patch=1,EE,0030A0C0,extended,00000001

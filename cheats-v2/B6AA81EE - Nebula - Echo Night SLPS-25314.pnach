@@ -1,0 +1,10 @@
+gametitle=Nebula - Echo Night SLPS-25314
+//Always Low Heart Rate
+patch=1,EE,209C4C04,extended,42A00000
+patch=1,EE,209C4C0C,extended,42A00000
+
+//It is not received Damage
+patch=1,EE,202137E4,extended,00000000
+patch=1,EE,202137F4,extended,00000000
+patch=1,EE,2020C4BC,extended,00000000
+patch=1,EE,2020AF8C,extended,00000000

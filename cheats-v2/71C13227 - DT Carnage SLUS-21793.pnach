@@ -1,0 +1,38 @@
+gametitle=DT Carnage SLUS-21793
+//Always 1st Place
+patch=1,EE,20251F08,extended,AD800038
+
+//Always Low Total Time
+patch=1,EE,20251DC0,extended,00000000
+
+//Always Low Lap Time
+patch=1,EE,20251DC8,extended,00000000
+
+//Infinite HP Bar
+patch=1,EE,201703d0,extended,00000000
+
+//Infinite Boost
+patch=1,EE,2014a274,extended,00000000
+
+//Infinite Fuel
+patch=1,EE,2014b180,extended,00000000
+
+//Growth Board Options
+
+//Max/Infinite Skill Credit
+patch=1,EE,205A5458,extended,3B9AC9FF
+
+//Infinite Fuel **memory** may not work for all levels
+patch=1,EE,208C57FC,extended,428c0000
+
+//Infinite Fuel
+patch=1,EE,200C0200,extended,3C03005A
+patch=1,EE,200C0204,extended,8C63E8CC
+patch=1,EE,200C0208,extended,10200004
+patch=1,EE,200C0210,extended,8C640280
+patch=1,EE,200C0214,extended,AC64027C
+patch=1,EE,200C021C,extended,03E00008
+patch=1,EE,20310C70,extended,08030080
+
+//Infinite Boost Time
+patch=1,EE,2014a774,extended,00000000

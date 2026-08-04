@@ -1,0 +1,20 @@
+gametitle=Dynasty Warriors 5 SLES-53341
+//Sofortiger Sieg (drück Select)
+patch=1,EE,D0321a1c,extended,0000fffe
+patch=1,EE,204c4a68,extended,00050005
+
+
+//unendlich Zeit 
+patch=1,EE,204c4a60,extended,01010101
+
+
+//unendlich Musou
+patch=1,EE,2018fad8,extended,8441022a
+patch=1,EE,2018fadc,extended,00010900
+patch=1,EE,2018fae0,extended,a441022c
+
+
+//unendlich Health
+patch=1,EE,2018fad8,extended,84410224
+patch=1,EE,2018fadc,extended,00010900
+patch=1,EE,2018fae0,extended,a4410226

@@ -1,0 +1,56 @@
+gametitle=Kido Senshi Gundam Seed - Owaranai Ashita e SLPS-25389
+//Seed Points Max
+patch=1,EE,2194BEDC,extended,05F5E0FF
+
+//All the missions appear
+patch=1,EE,2194BEC4,extended,FFFFFFFF
+
+//Shoot down point Max at the time of clear
+patch=1,EE,20206C54,extended,00000000
+patch=1,EE,20206C9C,extended,00000000
+
+//Life & Time Bonus Max
+patch=1,EE,20206DEC,extended,00000000
+patch=1,EE,20206E4C,extended,00000000
+patch=1,EE,202C8650,extended,0001869F
+
+//Partner experience value Max when selecting a partner
+patch=1,EE,20231F50,extended,3C020002
+patch=1,EE,20231F54,extended,ACC20004
+
+//P1 side HP will not decrease PS · SP gauge will be reduced.
+patch=1,EE,201BEF30,extended,14C00004
+
+//P1 side SP · PS MAX
+patch=1,EE,20385A74,extended,469C0000
+patch=1,EE,20385A78,extended,469C0000
+
+//P1 side tension gauge MAX
+patch=1,EE,20385A64,extended,469C0000
+
+//P1 side residual bullet will not decrease
+patch=1,EE,201C8888,extended,241003E7
+patch=1,EE,201C8890,extended,AC900834
+patch=1,EE,201C8894,extended,AC900830
+
+//Thruster gauge does not increase
+patch=1,EE,2019FDEC,extended,10000004
+patch=1,EE,2019FE00,extended,3C020000
+patch=1,EE,2019FE3C,extended,10000004
+patch=1,EE,2019FE50,extended,3C020000
+
+//Defense target HP MAX You can not receive a unit bonus when clearing.
+patch=1,EE,2025526C,extended,9603002E
+patch=1,EE,20255270,extended,AE03001C
+patch=1,EE,20255274,extended,AE030020
+
+//All unit appearance in item shop
+patch=1,EE,20231F8C,extended,304200DF
+patch=1,EE,20231F90,extended,A2020200
+patch=1,EE,202320D4,extended,306300DF
+patch=1,EE,202320D8,extended,A2430288
+
+//Story mode cleared Free select is added to survival mode and Kira · Asuran edition respectively
+patch=1,EE,1194BEC8,extended,00000001
+patch=1,EE,1194BECC,extended,00007FFF
+patch=1,EE,1194BED0,extended,000007FF

@@ -1,0 +1,44 @@
+gametitle=Over the Monochrome Rainbow SLPM-65271
+//Time limit 999.9ah
+patch=1,EE,203902D4,extended,0000270F
+patch=1,EE,203902D8,extended,0000270F
+
+//Live appearance 360
+patch=1,EE,103111BE,extended,00000101
+
+//Colibis game mistake does not increase
+patch=1,EE,0038F7F4,extended,00000000
+
+//Instrument Beast
+patch=1,EE,40610A88,extended,006C0001
+patch=1,EE,00000001,extended,00000000
+// 
+//Stage beast
+patch=1,EE,40610D50,extended,000A0001
+patch=1,EE,00000001,extended,00000000
+// 
+//Light Beast
+patch=1,EE,40610C60,extended,00160001
+patch=1,EE,00000001,extended,00000000
+// 
+//Special Beast
+patch=1,EE,40610D00,extended,00080001
+patch=1,EE,00000001,extended,00000000
+// 
+//Transmission insects
+patch=1,EE,40610F30,extended,00050010
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,40610F34,extended,00050010
+patch=1,EE,00000001,extended,00000000
+
+//FREE LIVE MODE Full Expansion
+patch=1,EE,403111D0,extended,0007001B
+patch=1,EE,00000001,extended,00000000
+patch=1,EE,403114C4,extended,002A0001
+patch=1,EE,01010101,extended,00000000
+
+//All Movies
+patch=1,EE,003111A1,extended,00000001
+patch=1,EE,103111B0,extended,00000101
+patch=1,EE,403111A4,extended,00030001
+patch=1,EE,01010101,extended,00000000

@@ -1,0 +1,10 @@
+gametitle=RLH - Run Like Hell SLES-51345
+//Infinite Armour
+patch=1,EE,20174C7C,extended,2402000A
+
+//Infinite Health
+patch=1,EE,20174F20,extended,2402016C
+patch=1,EE,20174F24,extended,A482026C
+
+//Infinite Ammo
+patch=1,EE,201487B8,extended,00000000

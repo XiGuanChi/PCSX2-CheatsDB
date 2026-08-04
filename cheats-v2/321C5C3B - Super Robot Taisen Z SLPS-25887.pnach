@@ -1,0 +1,32 @@
+gametitle=Super Robot Taisen Z SLPS-25887
+//Fund Max
+patch=1,EE,20558560,extended,00000000
+
+//BS Max
+patch=1,EE,205585A8,extended,000F423F
+
+//Reinforced parts 99
+patch=1,EE,40558700,extended,00240001
+patch=1,EE,00630000,extended,00000000
+
+//PP does not decrease
+patch=1,EE,202D9980,extended,24050000
+patch=1,EE,202D8FE0,extended,24050000
+
+//Gold MAX
+patch=1,EE,20558560,extended,05F5E0FF
+
+//Private memo Parts ALL90 shortened ver
+patch=1,EE,40558702,extended,01040001
+patch=1,EE,5A5A5A5A,extended,00000000
+
+//SR (encryption required)
+patch=1,EE,0055856F,extended,00000063
+
+//MAX with PP fluctuation
+patch=1,EE,2017E67C,extended,00000000
+patch=1,EE,201AED68,extended,00000000
+patch=1,EE,2027762C,extended,00000000
+
+//Infinite behavior
+patch=1,EE,20186AC4,extended,10000040

@@ -1,0 +1,24 @@
+gametitle=Garou Densetsu Battle Archive 2 (NeoGeo Online Collection Vol. 6) SLPS-25698
+//Real Bout Fatal Fury 1P Max HP
+patch=1,EE,D0C5F4D2,extended,0000A530
+patch=1,EE,00C5F958,extended,000000C0
+
+//Real Bout Fatal Fury 2P No HP
+patch=1,EE,D0C5F4D0,extended,0000A530
+patch=1,EE,00C5FA58,extended,00000001
+
+//Real Bout Fatal Fury Special 1P Max HP
+patch=1,EE,D0C5F4D0,extended,0000AC5C
+patch=1,EE,00C5F95A,extended,000000C0
+
+//Real Bout Fatal Fury Special 2P No HP
+patch=1,EE,D0C5F4D0,extended,0000AC5C
+patch=1,EE,00C5FA5A,extended,00000001
+
+//Real Bout Fatal Fury 2 1P Max HP
+patch=1,EE,D0C5F4D2,extended,0000F55A
+patch=1,EE,00C5F95A,extended,000000C0
+
+//Real Bout Fatal Fury 2 2P No HP
+patch=1,EE,D0C5F4D2,extended,0000F55
+patch=1,EE,00C5FA5A,extended,00000001

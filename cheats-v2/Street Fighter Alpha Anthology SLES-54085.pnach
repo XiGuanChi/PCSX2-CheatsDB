@@ -1,0 +1,82 @@
+gametitle=Street Fighter Alpha Anthology SLES-54085
+//Activator (Must Be On)
+patch=1,EE,200A0000,extended,3C150051
+patch=1,EE,200A0004,extended,86B6DDFA
+patch=1,EE,200A0008,extended,20170060
+patch=1,EE,200A000C,extended,12D70017
+patch=1,EE,200A0010,extended,00000000
+patch=1,EE,200A0014,extended,3C150065
+patch=1,EE,200A0018,extended,86B6C26A
+patch=1,EE,200A001C,extended,20170066
+patch=1,EE,200A0020,extended,12D7005C
+patch=1,EE,200A0028,extended,3C150077
+patch=1,EE,200A002C,extended,86B651F2
+patch=1,EE,200A0030,extended,20170080
+patch=1,EE,200A0034,extended,12D70028
+patch=1,EE,200A003C,extended,3C150078
+patch=1,EE,200A0040,extended,86B62C4A
+patch=1,EE,200A0044,extended,20170080
+patch=1,EE,200A0048,extended,12D70021
+patch=1,EE,200A0050,extended,3C150089
+patch=1,EE,200A0054,extended,86B6C7DA
+patch=1,EE,200A0058,extended,20170090
+patch=1,EE,200A005C,extended,12D70034
+patch=1,EE,200A0064,extended,10000064
+patch=1,EE,200A006C,extended,8EB5DDF8
+patch=1,EE,200A0070,extended,3C100090
+patch=1,EE,200A0074,extended,36100090
+patch=1,EE,200A0078,extended,AEB00440
+patch=1,EE,200A00C8,extended,10000048
+patch=1,EE,200A00D0,extended,10000002
+patch=1,EE,200A00D4,extended,8EB52C48
+patch=1,EE,200A00D8,extended,8EB551F0
+patch=1,EE,200A00DC,extended,00000000
+patch=1,EE,200A0128,extended,10000030
+patch=1,EE,200A0130,extended,8EB5C7D8
+patch=1,EE,200A0134,extended,00000000
+patch=1,EE,200A018C,extended,10000017
+patch=1,EE,200A0194,extended,8EB5C268
+patch=1,EE,200A0198,extended,00000000
+patch=1,EE,200A01EC,extended,DFB10080
+patch=1,EE,200A01F0,extended,03E00008
+patch=1,EE,200A01F4,extended,DFBF0090
+patch=1,EE,200A01F8,extended,3C1500B6
+patch=1,EE,200A01FC,extended,86B675CA
+patch=1,EE,200A0200,extended,201700B8
+patch=1,EE,200A0204,extended,12D70008
+patch=1,EE,200A020C,extended,3C15009A
+patch=1,EE,200A0210,extended,86B604EA
+patch=1,EE,200A0214,extended,201700A0
+patch=1,EE,200A0218,extended,12D7001D
+patch=1,EE,200A0220,extended,1000FFF2
+patch=1,EE,200A0228,extended,8EB575C8
+patch=1,EE,200A0288,extended,1000FFD8
+patch=1,EE,200A0290,extended,8EB504E8
+patch=1,EE,200A02E8,extended,1000FFC0
+patch=1,EE,20106C64,extended,0C028000
+patch=1,EE,20106C68,extended,00000000
+
+//Street Fighter Alpha Infinite Health P1
+patch=1,EE,200A0070,extended,3C100090
+patch=1,EE,200A0074,extended,36100090
+patch=1,EE,200A0078,extended,AEB00440
+
+//Street Fighter Alpha 2 Infinite Health P1
+patch=1,EE,200A00DC,extended,3C100090
+patch=1,EE,200A00E0,extended,36100090
+patch=1,EE,200A00E4,extended,AEB00450
+
+//Street Fighter Alpha 3 Infinite Health P1
+patch=1,EE,200A0134,extended,3C100090
+patch=1,EE,200A0138,extended,36100090
+patch=1,EE,200A013C,extended,AEB00450
+
+//Street Fighter Alpha 3U Infinite Health P1
+patch=1,EE,200A0294,extended,3C100090
+patch=1,EE,200A0298,extended,36100090
+patch=1,EE,200A029C,extended,AEB00450
+
+//Super Gem Fighter MiniMix Infinite Health P1
+patch=1,EE,200A0198,extended,3C100090
+patch=1,EE,200A019C,extended,36100090
+patch=1,EE,200A01A0,extended,AEB00440

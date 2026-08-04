@@ -1,0 +1,52 @@
+gametitle=Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. The Soulless Army SLES-54629
+//Infinite Money
+patch=1,EE,20E6F448,extended,000F423F
+
+//Infinite Health
+patch=1,EE,201215F0,extended,8C85001C
+patch=1,EE,201215F4,extended,AC850018
+
+//Max Mag After A Battle
+patch=1,EE,202A440C,extended,00000000
+
+//1000 Loyalty Per Battle
+patch=1,EE,202A4570,extended,00000000
+patch=1,EE,202A4574,extended,240303E8
+
+//All Items
+patch=1,EE,40E6F5B8,extended,00280001
+patch=1,EE,00090009,extended,00000000
+
+//Infinite/All Reloads
+patch=1,EE,40E6F658,extended,00070001
+patch=1,EE,00630063,extended,00000000
+patch=1,EE,10E6F674,extended,00000063
+
+//Demon Slot 1
+
+//Full HP
+patch=1,EE,10E6F710,extended,000003E7
+
+//Max HP
+patch=1,EE,10E6F714,extended,000003E7
+patch=1,EE,10E6F72C,extended,000003E7
+
+//Full MAG
+patch=1,EE,10E6F718,extended,000003E7
+
+//Max MAG
+patch=1,EE,10E6F71C,extended,000003E7
+patch=1,EE,10E6F734,extended,000003E7
+
+//Max St
+patch=1,EE,10E6F720,extended,00000028
+
+//Max Ma
+patch=1,EE,10E6F724,extended,00000028
+
+//Max Vi
+patch=1,EE,10E6F722,extended,00000028
+
+//Max Lu
+patch=1,EE,10E6F726,extended,00000028
+

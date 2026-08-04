@@ -1,0 +1,78 @@
+gametitle=Jikkyou Powerful Pro Yakyuu 2009 SLPM-55146
+//A genius type when creating a player
+patch=1,EE,D0E35024,extended,0000616D
+patch=1,EE,20E61664,extended,00000000
+
+//Experience does not decrease
+patch=1,EE,D0BE5024,extended,00006962
+patch=1,EE,20BF2224,extended,00000000
+
+//Experience 999
+patch=1,EE,D0BE5024,extended,00006962
+patch=1,EE,20BF67C0,extended,240303E7
+patch=1,EE,D0BE5024,extended,00006962
+patch=1,EE,20BF67E0,extended,240903E7
+patch=1,EE,D0BE5024,extended,00006962
+patch=1,EE,20BF67F8,extended,240803E7
+patch=1,EE,D0BE5024,extended,00006962
+patch=1,EE,20BF6800,extended,240703E7
+patch=1,EE,D0BE5024,extended,00006962
+patch=1,EE,20BF6808,extended,240303E7
+
+//White ball dream required
+patch=1,EE,D0E35024,extended,0000616D
+patch=1,EE,20E456E4,extended,0C7FC800
+patch=1,EE,21FF21F8,extended,083947BC
+
+//Cash maximum
+patch=1,EE,21FF2000,extended,8C82019C
+patch=1,EE,21FF2004,extended,3403270F
+patch=1,EE,21FF2008,extended,A4430000
+
+//Experience maximum
+patch=1,EE,21FF200C,extended,8C8200FC
+patch=1,EE,21FF2010,extended,3C0303E7
+patch=1,EE,21FF2014,extended,346303E7
+patch=1,EE,21FF2018,extended,AC430000
+patch=1,EE,21FF201C,extended,AC430004
+patch=1,EE,21FF2020,extended,A4430008
+
+//Maximum physical strength
+patch=1,EE,21FF2024,extended,8C82001C
+patch=1,EE,21FF2028,extended,34030078
+patch=1,EE,21FF202C,extended,A4430000
+patch=1,EE,21FF2030,extended,A4430002
+
+//Rehabilitation
+patch=1,EE,21FF2034,extended,8C82002C
+patch=1,EE,21FF2038,extended,A0400000
+
+//Hot blood maximum
+patch=1,EE,21FF203C,extended,8C82003C
+patch=1,EE,21FF2040,extended,3403000A
+patch=1,EE,21FF2044,extended,A0430000
+
+//Director, scout, director criticism maximum
+patch=1,EE,21FF2070,extended,3403C8C8
+patch=1,EE,21FF2074,extended,8C82014C
+patch=1,EE,21FF2078,extended,A4430000
+patch=1,EE,21FF207C,extended,8C82016C
+patch=1,EE,21FF2080,extended,A0430000
+
+//Director's comment 0, scout, director's comment maximum
+patch=1,EE,21FF20E4,extended,340300C8
+patch=1,EE,21FF20E8,extended,8C82014C
+patch=1,EE,21FF20EC,extended,A0400000
+patch=1,EE,21FF20F0,extended,A0430001
+patch=1,EE,21FF20F4,extended,8C82016C
+patch=1,EE,21FF20F8,extended,A0430000
+
+//Maximum likability for her
+patch=1,EE,21FF2150,extended,8C8201AC
+patch=1,EE,21FF2154,extended,3C03C8C8
+patch=1,EE,21FF2158,extended,3463C8C8
+patch=1,EE,21FF215C,extended,AC430000
+patch=1,EE,21FF2160,extended,A0430004
+
+
+

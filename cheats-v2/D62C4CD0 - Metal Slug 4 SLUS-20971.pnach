@@ -1,0 +1,34 @@
+gametitle=Metal Slug 4 SLUS-20971
+//Infinite Time
+patch=1,EE,10701190,extended,000060FF
+
+//Enable All Missions
+patch=1,EE,11070640,extended,00000006
+
+//All Trophy Items
+patch=1,EE,410706D8,extended,00020001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//P1 Invincible
+patch=1,EE,00AD3DCC,extended,0000005E
+
+//P1 Infinite Lives
+patch=1,EE,00AD4295,extended,00000009
+
+//P1 Infinite Ammo: All Weapons
+patch=1,EE,10A9BACC,extended,0000FFFF
+
+//P1 Infinite Bombs
+patch=1,EE,00A9BAC7,extended,00000063
+
+//P2 Invincible
+patch=1,EE,00AD3C9C,extended,0000005E
+
+//P2 Infinite Lives
+patch=1,EE,00AD4165,extended,00000009
+
+//P2 Infinite Ammo: All Weapons
+patch=1,EE,10A9BABC,extended,0000FFFF
+
+//P2 Infinite Bombs
+patch=1,EE,00A9BAB7,extended,00000063

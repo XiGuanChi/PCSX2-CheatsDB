@@ -1,0 +1,21 @@
+gametitle=Gundam Musou 2 SLPM-55122
+//Thruster gauge does not decrease
+patch=1,EE,001665BC,extended,0000002A
+
+//ARMOR maximum maintenance
+patch=1,EE,200FF800,extended,3C05003D
+patch=1,EE,200FF804,extended,94A58F82
+patch=1,EE,200FF8F8,extended,0878D3A1
+patch=1,EE,200FF8FC,extended,8FA30130
+patch=1,EE,20234E80,extended,0813FE00
+patch=1,EE,200FF810,extended,96030026
+patch=1,EE,200FF818,extended,A60300A6
+
+//SP maximum maintenance
+patch=1,EE,200FF800,extended,3C05003D
+patch=1,EE,200FF804,extended,94A5AF82
+patch=1,EE,200FF8F8,extended,0808D3A1
+patch=1,EE,200FF8FC,extended,8FA30130
+patch=1,EE,20234E80,extended,080CFE00
+patch=1,EE,200FF824,extended,96030028
+patch=1,EE,200FF82C,extended,A60300A8

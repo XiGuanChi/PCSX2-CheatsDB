@@ -1,0 +1,44 @@
+gametitle=Bleach - Blade Battlers 2nd SCPS-15119
+//inf life and blade gauge:
+patch=1,EE,202534A0,extended,9663000E
+patch=1,EE,202534A4,extended,1460001C
+patch=1,EE,202534B8,extended,10000010
+patch=1,EE,20253504,extended,24050064
+patch=1,EE,202534AC,extended,966200E4
+patch=1,EE,202534B0,extended,A662001A
+
+//Player 1 has unlimited HP, bankai, and EX
+patch=1,EE,20815dc8,extended,038403e8
+patch=1,EE,10815dcc,extended,00000384
+
+//Money 999999
+patch=1,EE,20388124,extended,000F423F 
+
+//player 1 lives 4
+patch=1,EE,00389c16,extended,00000004
+
+//have all items
+patch=1,EE,203882bc,extended,ffffffff
+patch=1,EE,203882c0,extended,ffffffff
+patch=1,EE,203882c4,extended,ffffffff
+patch=1,EE,203882c8,extended,ffffffff
+
+//Unlock all characters
+patch=1,EE,2038824c,extended,ffffffff
+patch=1,EE,20388250,extended,ffffffff
+
+//Unlock all levels
+patch=1,EE,1038825c,extended,0000ffff
+
+//Unlock all episodes in story mode
+patch=1,EE,1038825e,extended,0000ffff
+patch=1,EE,20388260,extended,00ffffff
+
+//all episodes in story mode are complete
+patch=1,EE,00388263,extended,000000ff
+patch=1,EE,20388264,extended,0fffffff
+
+//story mode is complete
+patch=1,EE,1038825e,extended,0000ffff
+patch=1,EE,20388260,extended,ffffffff
+patch=1,EE,20388264,extended,0fffffff

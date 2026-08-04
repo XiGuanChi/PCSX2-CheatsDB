@@ -1,0 +1,9 @@
+gametitle=Taiko no Tatsujin - Appare Sandaime SLPS-20321
+//Only for solo play Soul gauge does not decrease
+patch=1,EE,11207EC4,extended,0000270F
+
+//Max number of combos for single play only
+patch=1,EE,11206A1C,extended,000003E7
+
+//Max Score for single play only
+patch=1,EE,21205D20,extended,000F4236

@@ -1,0 +1,53 @@
+gametitle=Naruto - Ultimate Ninja 3 SLUS-21727
+//Infinite Health P1
+patch=1,EE,200C0228,extended,AC810068
+//Infinite Health P1
+patch=1,EE,200C0228,extended,AC810068
+
+//P1 Press L2+Select For Instant Kill P2
+patch=1,EE,D06A5642,extended,0000FEFE
+patch=1,EE,200C0230,extended,AC800068
+
+//Max Ryo
+patch=1,EE,200C0260,extended,3C0505F5
+patch=1,EE,200C0264,extended,34A5E0FF
+patch=1,EE,200C0268,extended,03E00008
+patch=1,EE,200C026C,extended,AC450644
+patch=1,EE,202D0008,extended,0C030098
+
+//Unlock All Characters Mission Mode
+patch=1,EE,202781D4,extended,24020003
+
+//Unlock All Characters VS. Duel Mode
+patch=1,EE,20278188,extended,24020003
+
+//Naruto's House Codes Have Figures
+patch=1,EE,20275D58,extended,2402FFFF
+
+//Have Videos/Ultimate Jutsu
+patch=1,EE,20275FC0,extended,2402FFFF
+
+//Have Voices
+patch=1,EE,20275E08,extended,2402FFFF
+
+//Have Musics
+patch=1,EE,20275DB0,extended,2402FFFF
+
+//Have Sinobi Ninja Info Card
+patch=1,EE,20275F10,extended,2402FFFF
+
+//Have Jutsu Ninja Info Card
+patch=1,EE,20275EB8,extended,2402FFFF
+
+//Have Tactics Ninja Info Card
+patch=1,EE,20275F68,extended,2402FFFF
+
+//Have Client Ninja Info Card
+patch=1,EE,20275E60,extended,2402FFFF
+
+//Have Secret Techniques
+patch=1,EE,20276018,extended,2402FFFF
+
+//Have Guide Ninja
+patch=1,EE,2027C0DC,extended,2402FFFF
+

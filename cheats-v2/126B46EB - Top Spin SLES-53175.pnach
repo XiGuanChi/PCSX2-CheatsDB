@@ -1,0 +1,8 @@
+gametitle=Top Spin SLES-53175
+//Player 1 Always Scores/P2 Never Scores
+patch=1,EE,D062EE88,extended,0000001C
+patch=1,EE,2062EE8C,extended,24030000
+
+//Max Cash After Buying Something
+patch=1,EE,D06F47C4,extended,00000100
+patch=1,EE,206F47C8,extended,3C0205F0

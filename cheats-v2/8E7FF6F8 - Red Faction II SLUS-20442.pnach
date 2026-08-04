@@ -1,0 +1,31 @@
+gametitle=Red Faction II SLUS-20442
+//Infinite Health
+patch=1,EE,200C0220,extended,3C01437A
+patch=1,EE,200C0224,extended,AE0100B0
+patch=1,EE,200C0228,extended,03E00008
+patch=1,EE,200C022C,extended,C60100B0
+patch=1,EE,20127858,extended,0C030088
+
+//Infinite Health Kits
+patch=1,EE,201551A0,extended,00000000
+
+//Infinite Grenades
+patch=1,EE,20155094,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,20213A58,extended,00000000
+patch=1,EE,20213AF8,extended,00000000
+
+//Unlock Movies 
+patch=1,EE,21CE12E4,extended,02020202
+
+//Unlock All Cheats
+patch=1,EE,41CE11DC,extended,00030001
+patch=1,EE,01010101,extended,00000000
+
+//Have All Levels Completed
+patch=1,EE,01CE1223,extended,00000002
+patch=1,EE,41CE1224,extended,000A0001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,11CE124C,extended,00000102
+patch=1,EE,01CE124E,extended,00000002

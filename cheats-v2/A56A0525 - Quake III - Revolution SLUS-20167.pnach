@@ -1,0 +1,31 @@
+gametitle=Quake III - Revolution SLUS-20167
+//IInfinite Health 
+patch=1,EE,105B9210,extended,000003E7
+
+//nfinite Armor
+patch=1,EE,10688310,extended,000000C8
+patch=1,EE,1076DD94,extended,000000C8
+
+//Max Frags
+patch=1,EE,10688340,extended,000003E7
+
+// infinite Ammo (Machine Gun)
+patch=1,EE,10688408,extended,000003E7
+
+// infinite Ammo (Shotgun)
+patch=1,EE,1068840C,extended,000003E7
+
+//infinite Ammo (Rocket Launcher)
+patch=1,EE,10688414,extended,000003E7
+
+// infinite Ammo (Plasma Gun)
+patch=1,EE,10688420,extended,000003E7
+
+// infinite Ammo (Chain Gun)
+patch=1,EE,10688434,extended,000003E7
+
+//Extra Armor
+patch=1,EE,D0688310,extended,00000000
+patch=1,EE,10688310,extended,000000C8
+patch=1,EE,D076DD94,extended,00000000
+patch=1,EE,1076DD94,extended,000000C8

@@ -1,0 +1,25 @@
+gametitle=Kujibiki Unbalance SLPS-25729
+//Gem maximum
+patch=1,EE,201ECA94,extended,0098967F
+
+//Challenge and Gallery fully open
+patch=1,EE,201EBED0,extended,FFFFFFFF
+patch=1,EE,201EBED4,extended,FFFFFFFF
+patch=1,EE,201EBED8,extended,FFFFFFFF
+patch=1,EE,201EBEDC,extended,FFFFFFFF
+patch=1,EE,201EBEE8,extended,FFFFFFFF
+
+//All HP Heart 7 /8 (can be favorability rating up by recovery items)
+patch=1,EE,401EC734,extended,0010000B
+patch=1,EE,00A0008C,extended,00000000
+
+//All SP 999/999
+patch=1,EE,401EC738,extended,0010000B
+patch=1,EE,03E703E7,extended,00000000
+
+//Press L3 For Debug Menu 
+patch=1,EE,2019F024,extended,08064A84
+patch=1,EE,D02A4F82,extended,0000FFFD
+patch=1,EE,201A3BB4,extended,08045784
+patch=1,EE,D02A4F82,extended,0000FFFF
+patch=1,EE,201A3BB4,extended,03E00008

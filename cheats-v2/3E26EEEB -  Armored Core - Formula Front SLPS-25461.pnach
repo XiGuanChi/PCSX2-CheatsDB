@@ -1,0 +1,11 @@
+gametitle= Armored Core - Formula Front SLPS-25461
+//Time with SELECT button 0
+patch=1,EE,D192D302,extended,0000FFFE
+patch=1,EE,202FED08,extended,00000000
+
+//GRID 1 aircraft AP operation 1P SELECT + L1 button GRID 1 AP9999
+patch=1,EE,D192D302,extended,0000FBFE 
+patch=1,EE,2192E414,extended,00009C3C
+patch=1,EE,D192D302,extended,0000FEFE
+patch=1,EE,2192E414,extended,00000001
+

@@ -1,0 +1,13 @@
+gametitle=Juiced SLUS-20872
+//Infinite N2O
+patch=1,EE,2014770C,extended,3C014080
+patch=1,EE,20147718,extended,AC4103D8
+patch=1,EE,20147720,extended,AC610100
+
+//Max Respect
+patch=1,EE,20221290,extended,240105DC
+patch=1,EE,20221294,extended,AE610070
+patch=1,EE,2022129C,extended,44810000
+
+//Start A New Game With Max Cash
+patch=1,EE,201C0D7C,extended,3C0205F0

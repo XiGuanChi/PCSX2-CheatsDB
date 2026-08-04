@@ -1,0 +1,41 @@
+gametitle=Cabela's - Outdoor Adventures SLUS-21192
+//Infinite Health
+patch=1,EE,202E597C,extended,C62101D0
+patch=1,EE,202E5980,extended,E621017C
+
+//Infinite Stamina
+patch=1,EE,2049ED04,extended,00000000
+
+//Infinite Stealth Meter
+patch=1,EE,2049E450,extended,00000000
+
+//Never Hungry
+patch=1,EE,2049E7B0,extended,AC600314
+
+//Never Thirsty
+patch=1,EE,2049EA90,extended,AC600318
+
+//Never Tired
+patch=1,EE,2049E894,extended,ACA0031C
+
+//Health Doesnt Decrease Over Time
+patch=1,EE,2049E6DC,extended,00000000
+
+//Never Reload
+patch=1,EE,204C7914,extended,00000000
+
+//God Mode
+patch=1,EE,205BB788,extended,00000001
+
+//Adventure Mode Max Cash
+patch=1,EE,20B2D7C0,extended,05F5E0FF
+
+//All Missions
+patch=1,EE,40B2D8F4,extended,00050001
+patch=1,EE,10B2D908,extended,00000101
+
+//All Contests
+patch=1,EE,10B2D90A,extended,00000101
+patch=1,EE,20B2D90C,extended,01010101
+patch=1,EE,20B2D910,extended,01010101
+patch=1,EE,00B2D914,extended,00000001

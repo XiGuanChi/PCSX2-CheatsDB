@@ -1,0 +1,49 @@
+gametitle=Metal Slug 6 SLPS-25674
+//Infinite Lives
+patch=1,EE,00A0FAB7,extended,000000FF
+
+//Bomb 99
+patch=1,EE,00A0F705,extended,00000063
+
+//Infinite Ammo 
+patch=1,EE,20A0F708,extended,0000FFFF
+
+//Infinite Canon
+patch=1,EE,00A26D86,extended,0000000A
+
+//Invincible state maintenance
+patch=1,EE,00A0F6C8,extended,000000B3
+
+//Captive rescue 99
+patch=1,EE,D0979778,extended,00000000
+patch=1,EE,00979778,extended,00000063
+
+//Infinite Life P1
+patch=1,EE,00A0FAB7,extended,00000063
+
+//Infinite Life P2
+patch=1,EE,00A0F9B7,extended,00000063
+
+//Infinite Bomb P1
+patch=1,EE,00A0F705,extended,00000063
+
+//Infinite Bomb P2
+patch=1,EE,00A0F615,extended,00000063
+
+//Infinite Ammo P1
+patch=1,EE,10A0F708,extended,0000FFFF
+
+//Infinite Ammo P2
+patch=1,EE,10A0F618,extended,0000FFFF
+
+//Infinite Canon P1
+patch=1,EE,00A26D86,extended,00000063
+
+//Infinite Canon P2
+patch=1,EE,00A26D46,extended,00000063
+
+//Invincible P1
+patch=1,EE,00A0F6C8,extended,000000B3
+
+//Invincible P2
+patch=1,EE,00A0F5D8,extended,000000B3

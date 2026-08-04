@@ -1,0 +1,7 @@
+gametitle=Armored Core - Nexus SLPS-25338-9
+//Infinite AP
+patch=1,EE,20298FD4,extended,00007D00
+
+//Infinite energy & Overheat
+patch=1,EE,20298FDC,extended,00007FFF
+patch=1,EE,20298FE0,extended,00007FFF

@@ -1,0 +1,18 @@
+gametitle=Fallout - Brotherhood of Steel SLES-51526
+//Infinite Health Player 1
+patch=1,EE,20A60A94,extended,43C80000
+
+//Infinite Health Player 2
+patch=1,EE,20A61614,extended,43C80000
+
+//Infinite Ammo P1
+patch=1,EE,20A60BB4,extended,00000014
+
+//Infinite Ammo P2
+patch=1,EE,20A61734,extended,00000014
+
+//Infinte Money P1
+patch=1,EE,20A61264,extended,0098967F
+
+//Infinte Money P2
+patch=1,EE,20A61DE4,extended,0098967F

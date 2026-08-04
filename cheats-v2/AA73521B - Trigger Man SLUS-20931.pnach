@@ -1,0 +1,10 @@
+gametitle=Trigger Man SLUS-20931
+//God Mode
+patch=1,EE,D1279C08,extended,00000000
+patch=1,EE,20279C08,extended,00000001
+
+//Have All Weapons
+patch=1,EE,2025183C,extended,00000001
+
+//Infinite Ammo
+patch=1,EE,2025185C,extended,00000001

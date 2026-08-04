@@ -1,0 +1,16 @@
+gametitle=Neo Contra SLPM-65752
+//Infinite Credits
+patch=1,EE,00912408,extended,00000063
+
+//Extra items fully open
+patch=1,EE,109123F8,extended,000003F8
+
+//Clear count 999 times
+patch=1,EE,10912400,extended,000003E7
+
+//Number of sorties 999
+patch=1,EE,109123F0,extended,000003E7
+
+
+//Maximum game clear rank S
+patch=1,EE,0091240A,extended,00000008

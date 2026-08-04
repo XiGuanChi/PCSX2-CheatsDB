@@ -1,0 +1,22 @@
+gametitle=Harry Potter - Quidditch World Cup SLUS-20769
+//Home Team Scores 999
+patch=1,EE,20399608,extended,000003E7
+
+//Home Team Scores 0
+patch=1,EE,20399608,extended,00000000
+
+//Away Team Scores 999
+patch=1,EE,2039960C,extended,000003E7
+
+//Away Team Scores 0
+patch=1,EE,2039960C,extended,00000000
+
+//Have All Cards
+patch=1,EE,21DF3D80,extended,FFFFFFFF
+patch=1,EE,21DF3D84,extended,FFFFFFFF
+patch=1,EE,21DF3D88,extended,FFFFFFFF
+patch=1,EE,21DF3D8C,extended,FFFFFFFF
+patch=1,EE,21DF3D90,extended,FFFFFFFF
+patch=1,EE,21DF3D94,extended,FFFFFFFF
+patch=1,EE,21DF3D98,extended,FFFFFFFF
+patch=1,EE,11DF3D9C,extended,0000FFFF

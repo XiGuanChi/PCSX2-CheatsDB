@@ -1,0 +1,65 @@
+gametitle=Rogue Galaxy SCUS-97490
+//Max Z
+patch=1,EE,205C1010,extended,05F5E0FF
+patch=1,EE,205C5204,extended,05F5E0FF
+
+//P1 Press L2 To Win Bug Tournaments
+patch=1,EE,D04B2A82,extended,0000FEFF
+patch=1,EE,0172CECF,extended,000000E4
+
+//Infinite HP Character 1
+patch=1,EE,205C7D94,extended,000003E7
+patch=1,EE,205C7D9C,extended,000003E7
+
+//Infinite AP Character 1
+patch=1,EE,205C7D98,extended,000003E7
+patch=1,EE,205C7DA4,extended,03E703E7
+
+//Infinite HP Character 2
+patch=1,EE,205C825C,extended,000003E7
+patch=1,EE,205C8264,extended,000003E7
+
+//Infinite AP Character 2
+patch=1,EE,205C8260,extended,000003E7
+patch=1,EE,205C826C,extended,03E703E7
+
+//Max Hunter Points
+patch=1,EE,205C1030,extended,0098967F
+
+//Feed Once For Max Stats
+patch=1,EE,00465D80,extended,000000FF
+patch=1,EE,200A0000,extended,A045001C
+patch=1,EE,200A0004,extended,A045001E
+patch=1,EE,200A0008,extended,A0450020
+patch=1,EE,200A000C,extended,A0450021
+patch=1,EE,200A0010,extended,A0450022
+patch=1,EE,200A0014,extended,A0450023
+patch=1,EE,200A0018,extended,A0450024
+patch=1,EE,200A001C,extended,A0450025
+patch=1,EE,200A0020,extended,080F46D3
+patch=1,EE,203D1B48,extended,08028000
+
+//Battle Activator
+patch=1,EE,200A0000,extended,8C82000C
+patch=1,EE,200A0004,extended,2C410080
+patch=1,EE,200A0008,extended,10200005
+patch=1,EE,200A001C,extended,10000003
+patch=1,EE,200A0030,extended,03E00008
+patch=1,EE,200A0034,extended,8C820014
+patch=1,EE,20200940,extended,08028000
+patch=1,EE,20200944,extended,00000000
+
+//Infinite HP (Battle)
+patch=1,EE,200A0010,extended,8C82001C
+patch=1,EE,200A0014,extended,AC820014
+
+//1 Hit Kills Enemys (Battle) - Enemys seem to Stand still
+patch=1,EE,200A0024,extended,24020000
+patch=1,EE,200A0028,extended,AC820014
+
+//Infinite AP
+patch=1,EE,203B7FE8,extended,00000000
+
+//Infinite Attack Bar
+patch=1,EE,203B65A8,extended,00000000
+

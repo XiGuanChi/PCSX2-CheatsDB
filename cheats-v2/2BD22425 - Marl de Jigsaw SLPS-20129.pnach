@@ -1,0 +1,20 @@
+gametitle=Marl de Jigsaw SLPS-20129
+//1P technique power Lv1 MAX when accumulated
+patch=1,EE,D0557C74,extended,00300018
+patch=1,EE,10557C74,extended,000000FF
+
+//Does not go to the timer gauge
+patch=1,EE,10557C76,extended,00000064
+
+//2P technique power 0
+patch=1,EE,1058CF8C,extended,00000000
+
+//Timer gauge 0
+patch=1,EE,1058CF8E,extended,00000000
+
+//All exhibitions
+patch=1,EE,4018F178,extended,00CC0003
+patch=1,EE,00000001,extended,00000000
+
+//Enable Debug Mode
+patch=0,EE,004C24E0,extended,00000001

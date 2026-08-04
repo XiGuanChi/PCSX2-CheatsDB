@@ -1,0 +1,14 @@
+gametitle=Madden NFL 2005 [Special Collectors Edition] SLUS-21025
+//Always 4th Down
+patch=1,EE,1080AF10,extended,00000004
+
+//Max Tokens Earned
+patch=1,EE,21E308C0,extended,05F5E0FF
+
+//Max Tokens Remaining
+patch=1,EE,21E308C8,extended,05F5E0FF
+
+//Have All Cards
+patch=1,EE,21E309B4,extended,00000119
+patch=1,EE,41E30A20,extended,01190001
+patch=1,EE,00FFE01F,extended,00000010

@@ -1,0 +1,25 @@
+gametitle=Lara Croft - Tomb Raider - The Angel of Darkness SLES-51227
+//Infinite Health
+patch=1,EE,20128150,extended,3C017FAB
+patch=1,EE,2012815C,extended,AC410D54
+
+//Pause for Level Select - Skip Use Infinite Health with this code
+patch=1,EE,004162B0,extended,00000001
+
+//Infinite Ammo/Bypass Ammo Check
+patch=1,EE,200FFFD0,extended,24080009
+patch=1,EE,200FFFD4,extended,A2280032
+patch=1,EE,200FFFD8,extended,0804DC11
+patch=1,EE,20137040,extended,0803FFF4
+
+//All Weapons
+patch=1,EE,200FFF80,extended,3C010042
+patch=1,EE,200FFF84,extended,80248604
+patch=1,EE,200FFF88,extended,2885000C
+patch=1,EE,200FFF94,extended,24040000
+patch=1,EE,200FFF98,extended,24840001
+patch=1,EE,200FFF9C,extended,A0248604
+patch=1,EE,200FFFA4,extended,24040100
+patch=1,EE,200FFFA8,extended,0805A094
+patch=1,EE,2016824C,extended,0803FFE0
+patch=1,EE,200FFF8C,extended,14050002

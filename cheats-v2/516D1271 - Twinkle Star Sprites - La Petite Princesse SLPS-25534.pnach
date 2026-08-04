@@ -1,0 +1,55 @@
+gametitle=Twinkle Star Sprites - La Petite Princesse SLPS-25534
+//Unlimited Health P1
+patch=1,EE,D03ECD0A,extended,00002442
+patch=1,EE,00446FAE,extended,0000000A
+
+//Unlimied Bombs P1
+patch=1,EE,D03ECD0A,extended,00002442
+patch=1,EE,00446FAB,extended,00000002
+
+//Always in Fever Mode P1
+patch=1,EE,D03ECD0A,extended,00002442
+patch=1,EE,10446F9C,extended,0000FFFF
+
+//Can't Get Hit P1
+patch=1,EE,D03ECD0A,extended,00002442
+patch=1,EE,10446FA0,extended,0000FFFF
+
+//Max Points P1
+patch=1,EE,E0052442,extended,003ECD0A
+patch=1,EE,203EFDAC,extended,0C070648
+patch=1,EE,201C1920,extended,2406FFFF
+patch=1,EE,201C1924,extended,AC4600A8
+patch=1,EE,201C1928,extended,03E00008
+patch=1,EE,201C192C,extended,8C4600A8
+
+// Max Power Gauge P1
+patch=1,EE,D03ECD0A,extended,00002442
+patch=1,EE,00446FA9,extended,0000003C
+
+//Unlimited Health P2
+patch=1,EE,D03ECD0A,extended,00002442
+patch=1,EE,0044706E,extended,0000000A
+
+//Unlimied Bombs P2
+patch=1,EE,D03ECD0A,extended,00002442
+patch=1,EE,0044706B,extended,00000002
+
+//Always in Fever Mode P2
+patch=1,EE,D03ECD0A,extended,00002442
+patch=1,EE,1044705C,extended,0000FFFF
+
+//Can't Get Hit P2
+patch=1,EE,D03ECD0A,extended,00002442
+patch=1,EE,10447060,extended,0000FFFF
+
+//Max Power Gauge P2
+patch=1,EE,D03ECD0A,extended,00002442
+patch=1,EE,00447069,extended,0000003C
+
+//Unlock All Characters
+patch=1,EE,2029F0B4,extended,01010101
+
+
+
+

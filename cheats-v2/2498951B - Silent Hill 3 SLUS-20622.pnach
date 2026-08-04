@@ -1,0 +1,17 @@
+gametitle=Silent Hill 3 SLUS-20622
+//Infinite Health
+patch=1,EE,203D4AEC,extended,43480000
+patch=1,EE,203D4AF0,extended,43480000
+patch=1,EE,203D4AF4,extended,42C80000
+
+//infinite Ammo
+patch=1,EE,2016D91C,extended,00000000
+
+//1Hit Death (Enemies)
+patch=1,EE,2022EF78,extended,AC80019C
+
+//Access All Maps
+patch=1,EE,202D1898,extended,24020001
+
+//Never Tired
+patch=1,EE,21D87F6C,extended,00000000

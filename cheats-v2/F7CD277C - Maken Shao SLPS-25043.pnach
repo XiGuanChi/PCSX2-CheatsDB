@@ -1,0 +1,15 @@
+gametitle=Maken Shao SLPS-25043
+//Infinite strength
+patch=1,EE,102CD678,extended,0000000F
+
+//Extra gauge Max
+patch=1,EE,002CD680,extended,00000064
+
+//Image Max
+patch=1,EE,20231630,extended,00018696
+
+//Museum & trial appearance It is not reflected in save data.
+patch=1,EE,102F2534,extended,0000000F
+
+//Sound test appearance It is not reflected in save data.
+patch=1,EE,102F2532,extended,00000001

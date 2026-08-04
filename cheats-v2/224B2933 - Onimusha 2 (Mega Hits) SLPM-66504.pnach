@@ -1,0 +1,13 @@
+gametitle=Onimusha 2 (Mega Hits) SLPM-66504
+//Infinite Health
+patch=1,EE,117DA740,extended,00000F00
+patch=1,EE,117DA742,extended,00000F00
+
+//Soul MAX
+patch=1,EE,217DCDE0,extended,000F423F
+
+//Max Soul 
+patch=1,EE,217DCDE0,extended,000F423F
+
+//Do not decrease after tool use
+patch=1,EE,20193E58,extended,00401023

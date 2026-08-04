@@ -1,0 +1,31 @@
+gametitle=Outlaw Tennis SLUS-21190
+//Infinite Skill Points
+patch=1,EE,20659C14,extended,00000000
+
+//Player 1 Always Wins
+patch=1,EE,0064EB18,extended,00000004
+patch=1,EE,0064EB24,extended,00000000
+patch=1,EE,0064ECFC,extended,00000000
+
+//Unlock All Drills
+patch=1,EE,0064F4B0,extended,00000001
+patch=1,EE,0064F4B1,extended,00000001
+patch=1,EE,0064F4B2,extended,00000001
+patch=1,EE,0064F4B3,extended,00000001
+patch=1,EE,0064F4B4,extended,00000001
+patch=1,EE,0064F4B5,extended,00000001
+patch=1,EE,0064F4B6,extended,00000001
+patch=1,EE,0064F4B7,extended,00000001
+patch=1,EE,0064F4B8,extended,00000001
+patch=1,EE,0064F4B9,extended,00000001
+patch=1,EE,0064F4BA,extended,00000001
+patch=1,EE,0064F4BB,extended,00000001
+patch=1,EE,0064F4BC,extended,00000001
+patch=1,EE,0064F4BD,extended,00000001
+patch=1,EE,0064F4BE,extended,00000001
+patch=1,EE,0064F4BF,extended,00000001
+patch=1,EE,0064F4C0,extended,00000001
+patch=1,EE,0064F4C1,extended,00000001
+patch=1,EE,0064F4C2,extended,00000001
+patch=1,EE,0064F4C3,extended,00000001
+patch=1,EE,0064F4C4,extended,00000001

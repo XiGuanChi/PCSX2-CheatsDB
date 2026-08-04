@@ -1,0 +1,62 @@
+gametitle=Appleseed EX SLPM-66551
+//Infinite Health Mission 1
+patch=1,EE,210F1012,extended,0000437F
+
+//Infinite Health Mission 2-1
+patch=1,EE,2116DE12,extended,0000437F
+
+//Infinite Health Mission 2-2
+patch=1,EE,2116C192,extended,0000437F
+
+//Infinite Health Mission 2-3
+patch=1,EE,21173A12,extended,0000437F
+
+//Infinite Health Mission 2-4 Boss
+patch=1,EE,21199412,extended,0000437F
+
+//Infinite Ammo (20=
+patch=1,EE,2075043A,extended,00000014
+
+//Infinite Money
+patch=1,EE,203C1CD4,extended,0000C350
+
+//The player does not decrease waiting
+patch=1,EE,20209758,extended,E60C0210
+
+//Press [SELECT + Left] button stage change
+patch=1,EE,D0435342,extended,0000FF7E
+patch=1,EE,003C44FC,extended,00000003
+
+//1 player invincible· ON in the [SELECT + L2] button· OFF in the [SELECT + R2] button
+patch=1,EE,D0435342,extended,0000FEFE
+patch=1,EE,202097BC,extended,A6010148
+patch=1,EE,D0435342,extended,0000FEFE
+patch=1,EE,202097C4,extended,A6010150
+patch=1,EE,D0435342,extended,0000FDFE
+patch=1,EE,202097BC,extended,00000000
+patch=1,EE,D0435342,extended,0000FDFE
+patch=1,EE,202097C4,extended,00000000
+patch=1,EE,202097B0,extended,24014000
+
+//Fully open database
+patch=1,EE,103C46F2,extended,00000101
+patch=1,EE,203C46F4,extended,01010101
+patch=1,EE,203C46F8,extended,01010101
+patch=1,EE,203C46FC,extended,01010101
+patch=1,EE,203C4700,extended,01010101
+patch=1,EE,203C4704,extended,01010101
+patch=1,EE,203C4708,extended,01010101
+patch=1,EE,103C470C,extended,00000101
+
+//Fully open video player
+patch=1,EE,103C46D2,extended,00000101
+
+//100% achievement rate all missions Rank S
+patch=1,EE,203C4524,extended,00640100
+patch=1,EE,203C4530,extended,00640100
+patch=1,EE,203C453C,extended,00640100
+patch=1,EE,203C4548,extended,00640100
+patch=1,EE,203C4554,extended,00640100
+patch=1,EE,203C4560,extended,00640100
+patch=1,EE,203C456C,extended,00640000
+

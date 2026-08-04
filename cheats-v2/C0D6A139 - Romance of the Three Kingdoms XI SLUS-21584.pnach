@@ -1,0 +1,55 @@
+gametitle=Romance of the Three Kingdoms XI SLUS-21584
+//Max AP
+patch=1,EE,2026BA98,extended,00000003
+
+//Max Status Character 1
+patch=1,EE,11BDAA8A,extended,0000FFFF
+patch=1,EE,21BDAA88,extended,FFFFFFFF
+patch=1,EE,21BDAA8C,extended,FFFFFFFF
+patch=1,EE,11BDAAD6,extended,0000FFFF
+patch=1,EE,21BDAAD8,extended,FFFFFFFF
+patch=1,EE,21BDAADC,extended,FFFFFFFF
+
+//City 1
+//Max Troops 
+patch=1,EE,21B9E888,extended,05F5E0FF
+patch=1,EE,21B9E88C,extended,05F5E0FF
+
+//Max Gold
+patch=1,EE,21B9E890,extended,05F5E0FF
+
+//MaX Food
+patch=1,EE,21B9E894,extended,05F5E0FF
+
+//Max Spears
+patch=1,EE,21B9E89C,extended,05F5E0FF
+
+//Max Pikes
+patch=1,EE,21B9E8A0,extended,05F5E0FF
+
+//Max Bows
+patch=1,EE,21B9E8A4,extended,05F5E0FF
+
+//Max Horses
+patch=1,EE,21B9E8A8,extended,05F5E0FF
+
+//Max Rams
+patch=1,EE,21B9E8AC,extended,05F5E0FF
+
+//Max Ships
+patch=1,EE,21B9E8C0,extended,05F5E0FF
+
+//Max Revenue
+patch=1,EE,11B9E8CA,extended,0000FFFF
+
+//Max Harvest
+patch=1,EE,11B9E8CC,extended,0000FFFF
+
+//Max HP
+patch=1,EE,11B9E8CE,extended,0000FFFF
+
+//Max Will
+patch=1,EE,01B9E8D0,extended,00000064
+
+//Max Order
+patch=1,EE,01B9E8D1,extended,00000064

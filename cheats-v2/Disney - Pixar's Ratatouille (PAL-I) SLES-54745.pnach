@@ -1,0 +1,21 @@
+gametitle=Disney - Pixar's Ratatouille (PAL-I) SLES-54745
+//All Secrets unlocked 
+patch=1,EE,20A59854,extended,00000001
+patch=1,EE,20A5EF58,extended,00000001
+
+//Enemies are not to be alarmed if they see Remy 
+patch=1,EE,2028B334,extended,1000040B
+
+//Maximum life 
+patch=1,EE,20A5FCC4,extended,00000008
+patch=1,EE,20A5FCC8,extended,00000008
+
+//No Damage 
+patch=1,EE,20288800,extended,03E00008
+
+//Take a star to have them all, take a collectible to have them all
+patch=1,EE,2033C3D4,extended,8E820030
+patch=1,EE,2033C3D8,extended,00000000
+
+//Unlock Gusteaucombo in the secrets 
+patch=1,EE,20A5EF58,extended,00000001

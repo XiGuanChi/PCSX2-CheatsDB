@@ -1,0 +1,23 @@
+gametitle=Magna Carta - Tears of Blood SLUS-21221
+//Infinite Sid
+patch=1,EE,20E3EE3C,extended,05F5E0FF
+
+//Must be on
+patch=1,EE,200C0000,extended,8E010000
+patch=1,EE,200C0004,extended,30210100
+patch=1,EE,200C0008,extended,8E03020C
+patch=1,EE,200C000C,extended,1020001C
+patch=1,EE,200C0010,extended,8C630060
+patch=1,EE,200C0078,extended,0810B62C
+patch=1,EE,200C00F8,extended,0810B62C
+patch=1,EE,203FE074,extended,0C030000
+
+//In Battle 1-Hit Death (Enemies)
+patch=1,EE,200C0014,extended,24010001
+patch=1,EE,200C0018,extended,AC6100AC
+
+//In Battle Infinite & Max HP
+patch=1,EE,200C0088,extended,2401270F
+patch=1,EE,200C008C,extended,AC6100AC
+patch=1,EE,200C0080,extended,2401270F
+patch=1,EE,200C0084,extended,AC610034

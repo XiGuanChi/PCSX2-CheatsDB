@@ -1,0 +1,16 @@
+gametitle=Crash Twinsanity SLES-52568
+//Infinite Lives
+patch=1,EE,20171160,extended,24030064
+
+//Infinite Mask
+patch=1,EE,201375E4,extended,24020086
+
+//Max Apples
+patch=1,EE,201713AC,extended,24040064
+
+//Infinite Aku Aku (Press: Select+L2=ON, Select+R2=OFF)
+patch=1,EE,20130894,extended,344200C0
+
+//All Gems & Extras
+patch=1,EE,4098EFA4,extended,00100001
+patch=1,EE,FFFFFFFF,extended,00000000

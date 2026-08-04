@@ -1,0 +1,65 @@
+gametitle=Mai-Otome Hime - Otome Butou Shi SLPS-25681
+//Album fully opened
+patch=1,EE,20ABD954,extended,FFFFFFFF
+patch=1,EE,20ABD958,extended,FFFFFFFF
+
+//Character fully opened
+patch=1,EE,20ABCFEC,extended,FFFFFFFF
+
+//View characters VOICE of database and collection of 100%
+patch=1,EE,201FAAA8,extended,10000004
+patch=1,EE,201FAABC,extended,2401FFFF
+patch=1,EE,201FAAC0,extended,AC6105D4
+patch=1,EE,201FAACC,extended,00000000
+
+//Festival all characters clear
+patch=1,EE,20ABCFF0,extended,FFFFFFFF
+
+//System voice fully open
+patch=1,EE,20ABD534,extended,FFFFFFFF
+
+//Database MODEL perspective restriction release
+patch=1,EE,2020CF3C,extended,10000002
+patch=1,EE,2020CF60,extended,10000002
+patch=1,EE,2020D074,extended,10000002
+patch=1,EE,2020D0AC,extended,10000002
+patch=1,EE,2020D1B4,extended,10000019
+
+//Challenge & Survival appearance
+patch=1,EE,00ABCFE4,extended,000000FF
+
+//Challenge points up
+patch=1,EE,20ABD530,extended,0001869F
+
+//Archive all goods purchased
+patch=1,EE,20ABD51C,extended,FFFFFFFF
+
+//All training Cleared
+patch=1,EE,20ABD4EC,extended,FFFFFFFF
+patch=1,EE,20ABD4FC,extended,FFFFFFFF
+
+//Bonus all open
+patch=1,EE,40ABCFE4,extended,00040001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40ABD554,extended,00380001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,20ABD4EC,extended,FFFFFFFF
+patch=1,EE,20ABD4FC,extended,FFFFFFFF
+patch=1,EE,20ABD534,extended,FFFFFFFF
+patch=1,EE,20ABD954,extended,FFFFFFFF
+patch=1,EE,20ABD958,extended,FFFFFFFF
+patch=1,EE,20ABD530,extended,0001869F
+
+//1P HP & dance gauge maximum maintenance
+patch=1,EE,201727EC,extended,4100992A
+patch=1,EE,201727F0,extended,E46003E0
+patch=1,EE,201727F4,extended,102000F7
+patch=1,EE,201727F8,extended,C43E4600
+patch=1,EE,20172BD4,extended,08059065
+patch=1,EE,20172BD8,extended,C0143FF6
+patch=1,EE,20172BDC,extended,AC6103EC
+
+//In SELECT button 2P strength 0
+patch=1,EE,101AA800,extended,8E770000
+patch=1,EE,102AA29C,extended,FFFE00B4
+patch=1,EE,101AA800,extended,03E0AC60

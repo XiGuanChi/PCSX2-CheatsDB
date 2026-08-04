@@ -1,0 +1,51 @@
+gametitle= TNA iMPACT! Total Nonstop Action Wrestling SLES-55150
+//infinite energy upper body
+patch=1,EE,218B7F98,extended,000003E8
+
+//max energy upper body 10000
+patch=1,EE,218B7F9C,extended,00002710
+
+//infinite max energy upper body 10000
+patch=1,EE,218B7F98,extended,00002710
+
+//infinite energy head
+patch=1,EE,218B7FA0,extended,000003E8
+
+//max.energy head 10000
+patch=1,EE,218B7FA4,extended,00002710
+
+//infinite max.energy head 10000
+patch=1,EE,218B7FA0,extended,00002710
+
+//infinite arms upper body
+patch=1,EE,218B7FA8,extended,000003E8
+
+//max energy arms 10000
+patch=1,EE,218B7FAC,extended,00002710
+
+//infinite max energy arms 10000
+patch=1,EE,218B7FA8,extended,00002710
+
+//infinite energy legs
+patch=1,EE,218B7FB0,extended,000003E8
+
+//max. energy legs 10000
+patch=1,EE,218B7FB4,extended,00002710
+
+//infinite max.energy legs 10000
+patch=1,EE,218B7FB0,extended,00002710
+
+//Max character stats 
+patch=1,EE,218B7FC8,extended,42C80000
+patch=1,EE,218B7FCC,extended,42C80000
+patch=1,EE,218B7FD0,extended,42C80000
+patch=1,EE,218B7FD4,extended,42C80000
+
+//max. iMPACT 10000
+patch=1,EE,218B7F94,extended,00002710
+
+//full max.iMPACT 10000
+patch=1,EE,218B7F90,extended,00002710
+
+//Stun bar full
+patch=1,EE,218B7FDC,extended,000003E8

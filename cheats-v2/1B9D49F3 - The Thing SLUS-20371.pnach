@@ -1,0 +1,17 @@
+gametitle=The Thing SLUS-20371
+//Infinite Health(NPC+Player)
+patch=1,EE,20730CA0,extended,C64100A4
+patch=1,EE,20730CA8,extended,E641009C
+
+//Infinite Ammo(NPC+Player)
+patch=1,EE,2050A834,extended,2402270F
+patch=1,EE,2050A84C,extended,AC620010
+
+//Give Weapon/Ammo For Max Trust Level(NPC)
+patch=1,EE,2025A654,extended,3C013F80
+patch=1,EE,2025A668,extended,AE610008
+
+//Never Cold
+patch=1,EE,204194D4,extended,AE0104A4
+patch=1,EE,204194DC,extended,AE0104A4
+patch=1,EE,204194E0,extended,AE0104A4

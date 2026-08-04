@@ -1,0 +1,15 @@
+gametitle=Samurai Aces SLES-53872
+//Infinite Lives Player 1
+patch=1,EE,20293218,extended,00000004
+
+//Infinite Bombs Player 1
+patch=1,EE,202932F2,extended,00000002
+
+//Infinite Lives Player 2
+patch=1,EE,202930D8,extended,00000004
+
+//Infinite Bombs Player 2
+patch=1,EE,202931B2,extended,00000002
+
+//Infinite Credits
+patch=1,EE,20266AB0,extended,00000009

@@ -1,0 +1,40 @@
+gametitle=Tokyo Xtreme Racer SLES-50115
+//Max Money
+patch=1,EE,2037E788,extended,05F5E0FF
+
+//Have lots of wins
+patch=1,EE,2037E78C,extended,05F5E0FF
+patch=1,EE,2037E790,extended,05F5E0FF
+
+//0 lose/0 draw
+patch=1,EE,2037E794,extended,00000000
+patch=1,EE,2037E798,extended,00000000
+
+//All 400 Rivals Beaten
+patch=1,EE,2037E6E4,extended,FFFFFFFF
+patch=1,EE,2037E6E8,extended,FFFFFFFF
+patch=1,EE,2037E6EC,extended,FFFFFFFF
+patch=1,EE,2037E6F0,extended,FFFFFFFF
+patch=1,EE,2037E6F4,extended,FFFFFFFF
+patch=1,EE,2037E6F8,extended,FFFFFFFF
+patch=1,EE,2037E6FC,extended,FFFFFFFF
+patch=1,EE,2037E700,extended,FFFFFFFF
+patch=1,EE,2037E704,extended,FFFFFFFF
+patch=1,EE,2037E708,extended,FFFFFFFF
+patch=1,EE,2037E70C,extended,FFFFFFFF
+patch=1,EE,2037E710,extended,FFFFFFFF
+patch=1,EE,2037E714,extended,FFFFFFFF
+
+//All 165 Cars in Shop
+patch=1,EE,2037E764,extended,FFFFFFFF
+patch=1,EE,2037E768,extended,FFFFFFFF
+patch=1,EE,2037E76C,extended,FFFFFFFF
+patch=1,EE,2037E770,extended,FFFFFFFF
+patch=1,EE,2037E774,extended,FFFFFFFF
+patch=1,EE,2037E778,extended,FFFFFFFF
+
+//Inf SP P1
+patch=1,EE,207512F8,extended,004C4B40
+
+//Just Pass opponent to win
+patch=1,EE,207512FC,extended,00000001

@@ -1,0 +1,20 @@
+gametitle=The King of Fighters 2000 SLUS-20834
+//SLUS-20834
+//Uncensored version
+//patch=1,EE,00152cf0,word,93838a68
+//patch=1,EE,00152d04,word,93828a8c
+//patch=1,EE,00152d14,word,9062133e
+
+//Whip's original desert eagle ending
+//patch=0,EE,002f97b4,word,90443ee6
+
+//Infinite Health Player 1
+patch=1,EE,10E844E8,extended,00000066
+
+//1Hit Death Player 2
+patch=1,EE,D0E847E8,extended,00000066
+patch=1,EE,10E847E8,extended,00000001
+
+//Unlock All Memory
+patch=1,EE,4066E0E0,extended,00030001
+patch=1,EE,01010101,extended,00000000

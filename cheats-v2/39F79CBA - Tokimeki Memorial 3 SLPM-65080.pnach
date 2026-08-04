@@ -1,0 +1,23 @@
+gametitle=Tokimeki Memorial 3 SLPM-65080
+//Debug Mode with SELECT of the controller of 2P
+patch=1,EE,0031934C,extended,0000000F
+
+//In ability UP all ability Lv.99
+patch=1,EE,202597C0,extended,10400001
+patch=1,EE,202597DC,extended,24040063
+
+//By all means levelling up - Literature
+patch=1,EE,009322F6,extended,00000001
+
+//By all means levelling up - Science
+patch=1,EE,009322FA,extended,00000001
+
+//By all means levelling up - Art
+patch=1,EE,009322FE,extended,00000001
+
+//By all means levelling up - Motion
+patch=1,EE,00932302,extended,00000001
+
+//All abilities Lv.99 with ability UP
+patch=1,EE,202597C0,extended,10400001
+patch=1,EE,202597DC,extended,24040063

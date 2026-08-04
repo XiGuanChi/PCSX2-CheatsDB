@@ -1,0 +1,6 @@
+gametitle=Bobobobo Bobobo - Hajike Matsuri SLPM-65262
+//All stages can be selected
+patch=1,EE,101EABCC,extended,00000004
+
+//Infinite HP - Level 2 (50)
+patch=1,EE,201D75EC,extended,00000032

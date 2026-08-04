@@ -1,0 +1,5 @@
+gametitle=Erde Nezu no Ki no Shitade SLPS-25188
+//Special album fully open
+patch=1,EE,41AA48C8,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,01AA48DC,extended,000000FF

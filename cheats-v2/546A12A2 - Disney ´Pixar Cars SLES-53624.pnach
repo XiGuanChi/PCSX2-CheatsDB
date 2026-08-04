@@ -1,0 +1,49 @@
+gametitle=Disney ´Pixar Cars SLES-53624
+//Max Points
+patch=1,EE,208171EC,extended,05F5E0FF
+
+//Infinite Boost
+patch=1,EE,2022620C,extended,00000000
+
+//All Cars Have Boost
+patch=1,EE,20225970,extended,24020001
+patch=1,EE,20225978,extended,AE020098
+
+//Always Low Lap Time
+patch=1,EE,2022AFD4,extended,AC400020
+
+//Start On Lap 3
+patch=1,EE,200C0220,extended,8CA1003C
+patch=1,EE,200C0224,extended,50200001
+patch=1,EE,200C0228,extended,24010002
+patch=1,EE,200C022C,extended,ACA1003C
+patch=1,EE,200C0230,extended,03E00008
+patch=1,EE,200C0234,extended,C4A2003C
+patch=1,EE,2038B31C,extended,0C030088
+
+//Activate Cheat Codes Unlock All Cars
+patch=1,EE,7052E230,extended,00000002
+
+//Fast Start
+patch=1,EE,7052E230,extended,00000004
+
+//Unlock All Tracks
+patch=1,EE,7052E230,extended,00000008
+
+//Unlock Everything
+patch=1,EE,7052E231,extended,00000080
+
+//Infinite Boost
+patch=1,EE,7052E232,extended,00000020
+
+//Unlock Master's Speedy Circuit/Countdown Cleanup
+patch=1,EE,7052E232,extended,00000040
+
+//Unlock All Concept Art
+patch=1,EE,7052E232,extended,00000080
+
+//Unlock All Movies
+patch=1,EE,7052E233,extended,00000001
+
+//Unlock All Character Skins
+patch=1,EE,7052E233,extended,00000002

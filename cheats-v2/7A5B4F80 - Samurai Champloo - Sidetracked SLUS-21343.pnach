@@ -1,0 +1,25 @@
+gametitle=Samurai Champloo - Sidetracked SLUS-21343
+//infinite Health
+patch=1,EE,201B1D54,extended,00000000
+
+//Infinite Health-Tate Mode
+patch=1,EE,201B1B6C,extended,24A50000
+
+//max Kobans
+patch=1,EE,20200918,extended,8C830024
+
+//max Coins
+patch=1,EE,20200910,extended,8C83002C
+
+//max Trick Point Time
+patch=1,EE,20271D80,extended,241103E7
+patch=1,EE,2026FD7C,extended,24046000
+
+//All Special Rewards
+patch=1,EE,404EB790,extended,00190001
+patch=1,EE,03030303,extended,00000000
+
+//Enable Deathmatch
+patch=1,EE,004EB78C,extended,00000001
+
+

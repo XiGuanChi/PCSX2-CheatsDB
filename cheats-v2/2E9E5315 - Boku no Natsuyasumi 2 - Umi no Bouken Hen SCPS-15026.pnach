@@ -1,0 +1,7 @@
+gametitle=Boku no Natsuyasumi 2 - Umi no Bouken Hen SCPS-15026
+//Max Money 
+patch=1,EE,10261A4E,extended,000003E7
+
+//Debug Menu This will appear on startup
+patch=1,EE,0020A970,extended,00000028
+patch=1,EE,1020A978,extended,0000EE50

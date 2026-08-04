@@ -1,0 +1,16 @@
+gametitle=Shadow of Rome SLUS-20902
+//Infinite Health
+patch=1,EE,204BD8C8,extended,0F000F00
+
+//Infinite Coins
+patch=1,EE,20551184,extended,0000270F
+
+//Infinite Detected Meter
+patch=1,EE,201d38b8,extended,00000000
+
+//Infinite Bow Durability
+patch=1,EE,2027147C,extended,2403000F
+patch=1,EE,20271480,extended,A26305D6Ç
+
+//Unlock All Secrets of Rome & Cheats
+patch=1,EE,20550998,extended,FFFFFFFF

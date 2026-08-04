@@ -1,0 +1,41 @@
+gametitle=Ichigo Mashimaro SLPS-25547
+//Money max
+patch=1,EE,204B033C,extended,0001869F
+
+//Item fully open
+patch=1,EE,204B0550,extended,01010101
+patch=1,EE,204B0554,extended,01010101
+patch=1,EE,204B0558,extended,01010101
+patch=1,EE,104B055C,extended,00000101
+patch=1,EE,004B055E,extended,00000001
+
+//Gallery fully open Add a gallery to the title, fully open the gallery album, and fully open the gallery interview
+patch=1,EE,404B0294,extended,001E0001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,204B030C,extended,00000101
+
+//Gallery appearance Albums and interviews have been added to the gallery.
+patch=1,EE,204B0308,extended,01010101
+patch=1,EE,204B030C,extended,00000101
+
+//When you look at the album, CG is fully open
+patch=1,EE,20134C38,extended,00440821
+patch=1,EE,20134C3C,extended,0804D32E
+patch=1,EE,20134C40,extended,24020001
+patch=1,EE,20134CB8,extended,03E00008
+patch=1,EE,20134CBC,extended,A0220000
+
+//Maximum likability Nobue
+patch=1,EE,204B0340,extended,00000064
+
+//Maximum likability Chika
+patch=1,EE,204B0344,extended,00000064
+
+//Maximum likability Miu
+patch=1,EE,204B0348,extended,00000064
+
+//Maximum likability Mari
+patch=1,EE,204B034C,extended,00000064
+
+//Maximum likability Anna
+patch=1,EE,204B0350,extended,00000064

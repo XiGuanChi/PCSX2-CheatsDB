@@ -1,0 +1,15 @@
+gametitle=I-Ninja SCES-52099
+//Infinite Health
+patch=1,EE,2032D1C8,extended,44000000
+
+//Max Health
+patch=1,EE,2032D1CC,extended,44000000
+
+//Max Continues
+patch=1,EE,1032D268,extended,000003E7
+
+//Kyza Robot Enemy Energy = 0
+patch=1,EE,21227584,extended,00000000
+
+//Open Debug Option: Flag Setters  Go to the beach to find the Debug Flags (green Boxes)
+patch=1,EE,001FDC40,extended,00000008

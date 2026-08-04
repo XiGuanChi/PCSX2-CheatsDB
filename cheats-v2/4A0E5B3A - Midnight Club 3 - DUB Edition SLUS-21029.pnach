@@ -1,0 +1,16 @@
+gametitle=Midnight Club 3 - DUB Edition SLUS-21029
+//Infinite Cash
+patch=1,EE,207BC01C,extended,05F5E0FF
+
+//Infinite Nitrous
+patch=1,EE,200C2000,extended,34110005
+patch=1,EE,200C2004,extended,080A288B
+patch=1,EE,200C2008,extended,A4510012
+patch=1,EE,2028A228,extended,08030800
+
+//100 Tournament Points
+patch=1,EE,207CE4C8,extended,00000064
+
+//Unlock Everything All Cars, Areas, And Parts
+patch=1,EE,407BBFFC,extended,00080001
+patch=1,EE,2E187D54,extended,0CA57A65

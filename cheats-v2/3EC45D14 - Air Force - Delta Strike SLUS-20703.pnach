@@ -1,0 +1,35 @@
+gametitle=Air Force - Delta Strike SLUS-20703
+//Infinite Health
+patch=1,EE,202FE3CC,extended,24040640
+patch=1,EE,202FE3D0,extended,A44401A4
+patch=1,EE,202FE3D4,extended,10000011
+
+//Infinite Missiles
+patch=1,EE,201CC174,extended,00000000
+
+//Infinite time
+patch=1,EE,202C20F8,extended,00000000
+
+//Unlock Movie After The Festival
+patch=1,EE,004D15EC,extended,00000001
+
+//All Movies
+patch=1,EE,104D15E2,extended,00000101
+patch=1,EE,204D15E4,extended,01010101
+patch=1,EE,204D15E8,extended,01010101
+patch=1,EE,104D15EC,extended,00000101
+patch=1,EE,004D15EE,extended,00000001
+
+//Infinite Health alt
+patch=1,EE,200C2000,extended,8C610058
+patch=1,EE,200C2004,extended,A44101A4
+patch=1,EE,200C2008,extended,03E00008
+patch=1,EE,200C200C,extended,00011020
+patch=1,EE,202FDDDC,extended,0C030800
+
+//Infinite Mission Timer
+patch=1,EE,202C20F0,extended,2401C9CC
+
+//Infinite Special Weapons
+patch=1,EE,201D06DC,extended,00000000
+patch=1,EE,201D0744,extended,00000000

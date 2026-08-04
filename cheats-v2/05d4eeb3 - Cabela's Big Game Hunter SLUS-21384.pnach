@@ -1,0 +1,21 @@
+gametitle=Cabela's Big Game Hunter SLUS-21384
+//Infinite Stamina
+patch=1,EE,2035504C,extended,00000000
+
+//Never Reload
+patch=1,EE,2036182C,extended,00000000
+
+//Max Money (Career Mode)
+patch=1,EE,2060DDA0,extended,05F5E0FF
+
+//All Maps
+patch=1,EE,2060E800,extended,01010101
+patch=1,EE,2060E804,extended,01010101
+
+
+
+//Auto Claim Trophy Always Off
+patch=0,EE,2060DFCC,extended,00000000
+
+//Auto Claim Trophy Always On
+patch=0,EE,2060DFCC,extended,00000001

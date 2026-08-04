@@ -1,0 +1,19 @@
+gametitle=Splashdown SLUS-20223
+//Unlock All Levels (Arcade Mode)
+patch=1,EE,10620178,extended,00000001
+patch=1,EE,1062017C,extended,00000001
+patch=1,EE,10620180,extended,00000001
+patch=1,EE,10620184,extended,00000001
+patch=1,EE,10620188,extended,00000001
+patch=1,EE,1062018C,extended,00000001
+patch=1,EE,10620190,extended,00000001
+patch=1,EE,10620194,extended,00000001
+patch=1,EE,10620198,extended,00000001
+patch=1,EE,1062019C,extended,00000001
+patch=1,EE,106201A0,extended,00000001
+patch=1,EE,106201A4,extended,00000001
+patch=1,EE,106201A8,extended,00000001
+
+//All Movies
+patch=1,EE,40620228,extended,00080001
+patch=1,EE,00000001,extended,00000000

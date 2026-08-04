@@ -1,0 +1,10 @@
+gametitle=24 -The Game SCES-53358
+//Infinite Ammo
+patch=1,EE,20170744,extended,00000000
+
+//Infinite Body Armor
+patch=1,EE,201F2808,extended,00000000
+patch=1,EE,201F27BC,extended,00000000
+
+//Health Packs Never Decrease
+patch=1,EE,2036FC24,extended,00000000

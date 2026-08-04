@@ -1,0 +1,25 @@
+gametitle=Tim Burton's The Nightmare Before Christmas - Boogy no Gyakushuu SLPM-65739
+//Max Souls
+patch=1,EE,2048B404,extended,0001869F
+
+//Pumpkin gauge 15 pieces
+patch=1,EE,1048B3C8,extended,0000001E
+patch=1,EE,10496AEC,extended,0000001E
+
+//Soul rubber fully open
+patch=1,EE,004E2678,extended,000000FF
+
+//Index fully open
+patch=1,EE,104E2670,extended,0000FFFF
+patch=1,EE,004E2672,extended,000000FF
+
+//Stage fully open
+patch=1,EE,204E23B8,extended,00000018
+
+//Rank S
+patch=1,EE,204E23E0,extended,04040404
+patch=1,EE,004E23E4,extended,00000004
+
+//Collection fully open
+patch=1,EE,404E2640,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000

@@ -1,0 +1,14 @@
+gametitle=Megaman X7 SLUS-20487
+//Infinite Lives
+patch=1,EE,004637A0,extended,00000009
+
+//All Characters Infinite Health
+patch=1,EE,00E5131C,extended,00000063
+patch=1,EE,00E5141C,extended,00000020
+
+//All Characters Infinite Special 
+patch=1,EE,004EDBD8,extended,00000063
+
+//All Characters All Reploids Rescued
+patch=1,EE,40E09638,extended,000F0001
+patch=1,EE,31186352,extended,1F66FBB8

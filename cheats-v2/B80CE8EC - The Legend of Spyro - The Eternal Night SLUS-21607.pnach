@@ -1,0 +1,16 @@
+gametitle=The Legend of Spyro - The Eternal Night SLUS-21607
+//Infinite Level Ups
+patch=1,EE,20955CB4,word,540BE400
+
+//Infinite Dragon Time
+patch=1,EE,20955D24,word,41F00000
+
+//Infinite Health
+patch=1,EE,20955C98,word,42500000
+patch=1,EE,20955C9C,extended,42C80000
+
+//Infinite Magic
+patch=1,EE,20955CD0,word,41F00000
+
+//Infinite Fury
+patch=1,EE,20955CEC,word,43160000

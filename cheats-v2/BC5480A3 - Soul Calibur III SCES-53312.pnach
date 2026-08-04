@@ -1,0 +1,65 @@
+gametitle=Soul Calibur III SCES-53312
+//Infinite Health Player 1
+patch=1,EE,204BB6A4,extended,43700000
+patch=1,EE,204BB6B0,extended,43700000
+
+//1-Hit Death P2
+patch=1,EE,D04D8E26,extended,00004370
+patch=1,EE,204D8E24,extended,3F800000
+
+//Maximum Cash
+patch=1,EE,204F3014,extended,05F00000
+
+//Unlock All Modes
+patch=1,EE,005098BD,extended,00000066
+patch=1,EE,105098BE,extended,00006666
+patch=1,EE,205098C0,extended,66666666
+patch=1,EE,205098C4,extended,66666666
+patch=1,EE,105098C8,extended,00006666
+//Unlock All Weapons
+patch=1,EE,005098CD,extended,00000066
+patch=1,EE,105098CE,extended,00006666
+patch=1,EE,405098D0,extended,00260001
+patch=1,EE,66666666,extended,00000000
+
+//Unlock All Art Gallery
+patch=1,EE,00509967,extended,00000066
+patch=1,EE,40509968,extended,00240001
+patch=1,EE,66666666,extended,00000000
+patch=1,EE,105099F8,extended,00006666
+
+//Unlock All Movies
+patch=1,EE,105099FA,extended,00006666
+patch=1,EE,105099FC,extended,00006666
+
+//Unlock All Exhibition Theater
+patch=1,EE,105099FE,extended,00006666
+patch=1,EE,20509A00,extended,66666666
+patch=1,EE,20509A04,extended,66666666
+patch=1,EE,10509A08,extended,00006666
+patch=1,EE,00509A0A,extended,00000066
+
+//Unlock All Character Profiles
+patch=1,EE,40509A10,extended,00030001
+patch=1,EE,66666666,extended,00000000
+patch=1,EE,10509A1C,extended,00006666
+
+//Unlock All Costumes/Class/Slots for Character Creation
+patch=1,EE,40509B38,extended,00740001
+patch=1,EE,66666666,extended,00000000
+
+//Unlock Characters/Weapons
+patch=1,EE,10509898,extended,00006666
+
+//Unlock All Single Player/Soul Arena Missions
+patch=1,EE,10509B06,extended,00006666
+patch=1,EE,40509B08,extended,00060001
+patch=1,EE,66666666,extended,00000000
+
+//Unlock All Armor
+patch=1,EE,40509B38,extended,00860001
+patch=1,EE,66666666,extended,00000000
+
+//Unlock Everything
+patch=1,EE,40509898,extended,012E0001
+patch=1,EE,66666666,extended,00000000

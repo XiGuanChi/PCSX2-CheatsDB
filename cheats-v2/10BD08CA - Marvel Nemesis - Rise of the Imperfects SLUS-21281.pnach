@@ -1,0 +1,59 @@
+gametitle=Marvel Nemesis - Rise of the Imperfects SLUS-21281
+//Infinite Health & Stamina
+patch=1,EE,201FD264,extended,00000000
+patch=1,EE,201FD268,extended,E441032C
+patch=1,EE,201FD26C,extended,E441033C
+
+//Unlock Characters
+//Iron Man
+patch=1,EE,205D2BD4,extended,00000001
+
+//Venom
+patch=1,EE,205D2CB8,extended,00000001
+
+//Magneto
+patch=1,EE,205D2D04,extended,00000001
+
+//Storm
+patch=1,EE,205D2D9C,extended,00000001
+
+//Human Torch
+patch=1,EE,205D2DE8,extended,00000001
+
+//Daredevil
+patch=1,EE,205D2E34,extended,00000001
+
+//Paragon
+patch=1,EE,205D2ECC,extended,00000001
+
+//Hazmat
+patch=1,EE,205D2F18,extended,00000001
+
+//Fault Zone
+patch=1,EE,205D2F64,extended,00000001
+
+//Solara
+patch=1,EE,205D3048,extended,00000001
+
+//Brigade
+patch=1,EE,205D3094,extended,00000001
+
+//Niles Van Roekel
+patch=1,EE,205D30E0,extended,00000001
+
+//Unlock All Arenas
+patch=1,EE,405D387C,extended,00040011
+patch=1,EE,00000001,extended,00000000
+
+//Unlock All Cards
+patch=1,EE,405D3990,extended,002B0011
+patch=1,EE,00000001,extended,00000000
+
+//Unlock All Movies
+patch=1,EE,405D44C0,extended,00090001
+patch=1,EE,00000001,extended,00000000
+
+//Unlock All Comics
+patch=1,EE,405D4528,extended,00120011
+patch=1,EE,00000001,extended,00000000
+

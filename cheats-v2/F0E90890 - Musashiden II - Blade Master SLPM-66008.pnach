@@ -1,0 +1,39 @@
+gametitle=Musashiden II - Blade Master SLPM-66008
+//Infinite Money
+patch=1,EE,2067FB78,extended,47C35000
+
+//Infinite LVUP
+patch=1,EE,2027C600,extended,24020001
+
+//Infinite HP
+patch=1,EE,2067FB58,extended,43960000
+patch=1,EE,2067FB5C,extended,43960000
+
+//Infinite MP
+patch=1,EE,2067FB60,extended,43960000
+patch=1,EE,2067FB64,extended,43960000
+
+//Attack power 200
+patch=1,EE,2067FB68,extended,43480000
+
+//Defensive power 200
+patch=1,EE,2067FB6C,extended,43480000
+
+//Insight 200
+patch=1,EE,2067FB70,extended,43480000
+
+//Luck power
+//200 2067FB74 43480000
+
+//Lv.30
+patch=1,EE,2067FB7C,extended,41E80000
+
+//Holocard Complete
+patch=1,EE,2025EAC0,extended,24020001
+
+//Holocard transparent
+patch=1,EE,2025C504,extended,10000007
+
+
+//Casino Mot 99
+patch=1,EE,006804C9,extended,00000063

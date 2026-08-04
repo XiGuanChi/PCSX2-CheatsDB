@@ -1,0 +1,9 @@
+gametitle=Surveillance - Kanshisha SCPS-15012
+//Data fully open Clearing Stage 1 and saving it will have an effect.
+patch=1,EE,40164A60,extended,00DA0001
+patch=1,EE,00010001,extended,00000000
+
+//Movie fully open Clearing Stage 1 and saving it will have an effect.
+//40164 DBC 002E0001
+patch=1,EE,00010001,extended,00000000
+

@@ -1,0 +1,13 @@
+gametitle=Tak - The Great Juju Challenge SLUS-21218
+//Access All Extras
+patch=1,EE,20547360,extended,00000001
+
+//Infinite Health
+patch=1,EE,20247658,extended,C6A10284
+patch=1,EE,20247664,extended,E6A10280
+
+//Infinite Time
+patch=1,EE,2014D168,extended,00000000
+
+//Infinite Mana Usage
+patch=1,EE,202524F4,extended,00000000

@@ -1,0 +1,35 @@
+gametitle=Backyard Wrestling - Don't Try This at Home SLUS-20638
+//Infinite Health Player 1
+patch=1,EE,203CBEA8,extended,000009C4
+
+//1Hit Death Player 2
+patch=1,EE,D03CEFE8,extended,000009C4
+patch=1,EE,103CEFE8,extended,00000001
+
+//Unlock Talk Show Mode All Segments
+patch=1,EE,403AF700,extended,00070003
+patch=1,EE,00000000,extended,00000000
+
+//Unlock Exhibition All Arenas
+patch=1,EE,403BF958,extended,00070003
+patch=1,EE,00000000,extended,00000000
+
+//Media RoomUnlock All Movies
+patch=1,EE,403BF9B0,extended,00090003
+patch=1,EE,00000000,extended,00000000
+
+//Unlock All Wrestlers
+patch=1,EE,403BFD9C,extended,00240004
+patch=1,EE,00000000,extended,00000000
+patch=1,EE,203BFFDC,extended,00000000
+
+
+//== Unlock Bonus Games Codes == (VS. Modes)
+//Survival Mode
+patch=1,EE,203C0730,extended,00000000
+
+//King Of The Hill
+patch=1,EE,203C073C,extended,00000000
+
+//Tag
+patch=1,EE,203C0748,extended,00000000

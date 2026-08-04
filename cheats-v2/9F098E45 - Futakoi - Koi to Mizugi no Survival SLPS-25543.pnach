@@ -1,0 +1,15 @@
+gametitle=Futakoi - Koi to Mizugi no Survival SLPS-25543
+//Unlock All Album (not saveable)
+patch=1,EE,2017E2BC,extended,24020001
+patch=1,EE,2017E33C,extended,24020001
+
+//Album fully open
+patch=1,EE,401C616B,extended,005B0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,401C6000,extended,004C0001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,201C5FE0,extended,FFFFFFFF
+patch=1,EE,201C5FE4,extended,FFFFFFFF
+patch=1,EE,001C5FE8,extended,000000FF
+patch=1,EE,001C62D7,extended,000000FF
+

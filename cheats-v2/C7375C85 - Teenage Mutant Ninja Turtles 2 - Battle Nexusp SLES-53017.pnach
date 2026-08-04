@@ -1,0 +1,50 @@
+gametitle=Teenage Mutant Ninja Turtles 2 - Battle Nexusp SLES-53017
+//infinite Energy
+patch=1,EE,202CDC60,extended,8C82000C
+patch=1,EE,202CDC64,extended,03E00008
+patch=1,EE,202CDC68,extended,AC820008
+
+//1 Hit Kill
+patch=1,EE,20257FE8,extended,00631823
+
+//Player 1 No Damage
+patch=1,EE,207940E4,extended,00000000
+
+//Infinite Shurikens
+patch=1,EE,207940E8,extended,00000063
+
+//Player 2 No Damage
+patch=1,EE,2079411C,extended,00000000
+
+//Infinite Shurikens
+patch=1,EE,20794120,extended,00000063
+
+//Player 3 No Damage
+patch=1,EE,20794154,extended,00000000
+
+//Infinite Shurikens
+patch=1,EE,20794158,extended,00000063
+
+//Player 4 No Damage
+patch=1,EE,2079418C,extended,00000000
+
+//Infinite Shurikens
+patch=1,EE,20794190,extended,00000063
+
+//Unlock All Stages
+patch=1,EE,200C2000,extended,A4410000
+patch=1,EE,200C2004,extended,080E0071
+patch=1,EE,200C2008,extended,80420000
+patch=1,EE,203801BC,extended,24010702
+patch=1,EE,203801B8,extended,08030800
+
+//Unlock All Bonus Materials
+patch=1,EE,200C2010,extended,A0410001
+patch=1,EE,200C2014,extended,03E00008
+patch=1,EE,200C2018,extended,90420001
+patch=1,EE,203806FC,extended,24010002
+patch=1,EE,203806F8,extended,08030804
+
+//Unlock All 2nd Time Around
+patch=1,EE,407254C8,extended,00370004
+patch=1,EE,00000002,extended,00000000

@@ -1,0 +1,6 @@
+gametitle=Shadow of the Colossus SCUS-97472
+//Infinite Grip
+patch=1,EE,212DE260,extended,447A0000
+
+//Infinite Health
+patch=1,EE,212DE264,extended,447A0000

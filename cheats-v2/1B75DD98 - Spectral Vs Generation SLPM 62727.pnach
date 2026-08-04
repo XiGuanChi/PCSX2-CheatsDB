@@ -1,0 +1,10 @@
+gametitle=Spectral Vs Generation SLPM 62727
+//Infinite Health P1
+patch=1,EE,211D10DC,extended,01F401F4
+
+//2P life gauge Life does not decrease After pressing the L1 + R1 button
+//Gauge reduction After pressing the L2 + R2 button
+patch=1,EE,D07C5D82,extended,0000F3FF
+patch=1,EE,211D121C,extended,01F401F4
+patch=1,EE,D07C5D82,extended,0000FCFF
+patch=1,EE,211D121C,extended,00000000

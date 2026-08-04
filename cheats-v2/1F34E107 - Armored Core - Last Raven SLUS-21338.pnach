@@ -1,0 +1,19 @@
+gametitle=Armored Core - Last Raven SLUS-21338
+//Infinite Credits
+patch=1,EE,208C7438,extended,05F5E0FF
+
+//Infinite Armor
+patch=1,EE,D1D052B4,extended,00100008
+patch=1,EE,21D052B4,extended,00002705
+
+//Infinite Energy
+patch=1,EE,D1D07318,extended,0010302D
+patch=1,EE,21D07318,extended,00014000
+
+//Infinite Ammo
+patch=1,EE,D02B8510,extended,00000001
+patch=1,EE,21C4D180,extended,24620000
+
+//Low Temperature
+patch=1,EE,D1D07320,extended,001000B1
+patch=1,EE,21D07320,extended,41A00000

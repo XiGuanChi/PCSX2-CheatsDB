@@ -1,0 +1,56 @@
+gametitle=Atelier Iris - Eternal Mana 2 SLPM-65985
+//Max Money 
+patch=1,EE,20F690B8,extended,000F423F
+
+//P1 Level 50
+patch=1,EE,10B15B90,extended,00000032
+
+//P1 physical strength 999
+patch=1,EE,10B15B92,extended,000003E7
+patch=1,EE,10B15B94,extended,000003E7
+
+//Does not decrease skill Wali point
+patch=1,EE,202379E8,extended,24040001
+patch=1,EE,2023996C,extended,00000000
+
+//Directory full opening
+patch=1,EE,20AEEBC0,extended,02020202
+patch=1,EE,20AEEBC4,extended,02020202
+patch=1,EE,20AEEBC8,extended,02020202
+patch=1,EE,20AEEBCC,extended,00020202
+
+//Music hall full opening
+patch=1,EE,40AEEBFC,extended,00130001
+patch=1,EE,01010101,extended,00000000
+
+//Cinema full opening
+patch=1,EE,10AEEC56,extended,00000101
+patch=1,EE,20AEEC58,extended,01010101
+
+//When the menu you open, performance figure maximum
+patch=1,EE,2017F880,extended,240F0001
+
+//Enemy first stage HP1 when fighting
+patch=1,EE,201BC418,extended,240F0001
+patch=1,EE,201BC420,extended,240F0001
+
+//Enemy performance figure 0 when fighting
+patch=1,EE,201BC42C,extended,AE600034
+patch=1,EE,201BC434,extended,AE600038
+patch=1,EE,201BC43C,extended,AE60003C
+patch=1,EE,201BC444,extended,AE600040
+patch=1,EE,201BC44C,extended,AE600044
+patch=1,EE,201BC454,extended,AE600048
+patch=1,EE,201BC45C,extended,AE60004C
+patch=1,EE,201BC464,extended,AE600050
+patch=1,EE,201BC46C,extended,AE600054
+
+//When the monster picture book you open, full opening
+patch=1,EE,20181610,extended,0803D000
+patch=1,EE,200F4000,extended,240200FF
+patch=1,EE,200F4004,extended,A08201AC
+patch=1,EE,200F4008,extended,03E00008
+
+//When the picking item you see from the menu, 98
+patch=1,EE,2025E6C8,extended,24010062
+patch=1,EE,2025E6CC,extended,A5E10000

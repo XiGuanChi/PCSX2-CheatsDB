@@ -1,0 +1,13 @@
+gametitle=Fantavision SCUS-97105
+//Hold L1 To Open Extra/Extra 2 Menus (Main Menu)
+patch=1,EE,2048A5DC,extended,00000001
+
+//Infinite Health
+patch=1,EE,1048AC38,extended,00002710
+patch=1,EE,1048AC40,extended,00002710
+
+//Infinite Time
+patch=1,EE,1048AC38,extended,00002810
+
+//Score 99,999,999 Points
+patch=1,EE,20664EF8,extended,3B9AC9FF

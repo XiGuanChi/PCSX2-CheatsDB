@@ -1,0 +1,9 @@
+gametitle=Shining Force Neo SLPM-65908
+//Max money
+patch=1,EE,20443294,extended,0098967F
+
+//Experience value acquisition magnification 1024 times
+patch=1,EE,20218F68,extended,00108280
+
+//Max Energy
+patch=1,EE,2021B190,extended,05F5E0FF

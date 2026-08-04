@@ -1,0 +1,47 @@
+gametitle=Sega Ages 2500 Series 17 - Phantasy Star Generation 2 SLPM-62553
+//Gold 9999999
+patch=1,EE,20248314,extended,0098967F
+
+//Charactere 1 Exp 999999 after 1 battle = level 99/all skills
+patch=1,EE,20247754,extended,0098967F
+
+//Charactere 1 HP999/All Stats 999
+patch=1,EE,40247706,extended,000C0001
+patch=1,EE,000003E7,extended,00000000
+
+//No Random Batlle Press Select+L2 Select+R2 normal game
+patch=1,EE,D0245B82,extended,0000FEFE
+patch=1,EE,2010D060,extended,00000000
+patch=1,EE,D0245B82,extended,0000FDFE
+patch=1,EE,2010D060,extended,2442FFFF
+
+//Charactere 7 Exp 999999 after 1 battle = level 99/all skills 
+patch=1,EE,20247AF2,extended,0098967F
+
+//Charactere 7 HP999/All Stats 999 
+patch=1,EE,40247AA2,extended,000C0001
+patch=1,EE,000003E7,extended,00000000
+
+//Charactere 2 HP/Stats 999 
+patch=1,EE,4024778A,extended,000C0001
+patch=1,EE,000003E7,extended,00000000
+
+//Exp 999999 after 1 battle = level 99/all skills 
+patch=1,EE,202477DA,extended,0098967F
+
+//Charactere 3 HP/Stats 999 
+patch=1,EE,4024780E,extended,000C0001
+patch=1,EE,000003E7,extended,00000000
+
+//Exp 999999 after 1 battle = level 99/all skills 
+patch=1,EE,2024785E,extended,0098967F
+
+//Charactere 4 HP/Stats 999 
+patch=1,EE,40247892,extended,000C0001
+patch=1,EE,000003E7,extended,00000000
+
+//Exp 999999 after 1 battle = level 99/all skills 
+patch=1,EE,202478E2,extended,0098967F
+
+//Start Game With 3 Characteres 
+patch=1,EE,202476A0,extended,000000xx

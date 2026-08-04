@@ -1,0 +1,19 @@
+gametitle=Samurai Warriors 2 - Xtreme Legends SLUS-21726
+//Invicible 1P
+patch=1,EE,1048019e,extended,00001000
+
+//1P weapon strengthening
+patch=1,EE,20480178,extended,42000000
+
+//Max Gold After Stage
+patch=1,EE,201a7aa4,extended,00000000
+
+//Steel Ratio rise
+patch=1,EE,201ac184,extended,24030000
+
+//Multi-stage jump  (Press: R2+R3=On, R2+L3=Off)
+patch=1,EE,20258b34,extended,00000000
+patch=1,EE,20258b44,extended,00000000
+
+//All Character unlock in Musou Mode
+patch=1,EE,2029c414,extended,24030001

@@ -1,0 +1,40 @@
+gametitle=Dragon Quest V - Tenkuu no Hanayome English Patch SLPM-65555
+//999 Quantity Bag Items
+patch=1,EE,204D6870,extended,10000001
+patch=1,EE,204D687C,extended,A448125E
+
+//All Item (Exclude Key Items)
+patch=1,EE,4079AE06,extended,00750001
+patch=1,EE,00400001,extended,00010001
+
+//Max money
+patch=1,EE,2079ADE0,extended,000F423F
+
+//Max Coins Casino
+patch=1,EE,2079ADE8,extended,0098967F
+
+//999 medals were deposited in the medal king
+patch=1,EE,2079ADF0,extended,000003E7
+
+//Max Experience After battle
+patch=1,EE,2051F758,extended,00000000
+
+//Max Status after one level up
+patch=1,EE,2052226C,extended,00000000
+patch=1,EE,205222A8,extended,00000000
+patch=1,EE,205222E8,extended,00000000
+patch=1,EE,20522324,extended,00000000
+patch=1,EE,2052235C,extended,00000000
+patch=1,EE,20522394,extended,00000000
+patch=1,EE,205223CC,extended,00000000
+
+//After battle target monster acquisition
+patch=1,EE,00747CC5,extended,00000000
+
+//Zako enemy, does not go ouf
+patch=1,EE,007474D0,extended,00000000
+
+//Monster Box Complete
+patch=1,EE,20679F30,extended,24030001
+patch=1,EE,20679F34,extended,10210008
+patch=1,EE,20679F38,extended,A4430078

@@ -1,0 +1,24 @@
+gametitle=Digital Devil Saga - Avatar Tuner 2 SLPM-65795
+//Maximum amount of money
+patch=1,EE,201179F0,extended,8C640020
+patch=1,EE,201179F8,extended,AC64003C
+patch=1,EE,20117A00,extended,AC650034
+
+//Full recovery of HPMP after battle It has no effect on characters who have not acquired Atma.
+patch=1,EE,200F7030,extended,9489000C
+patch=1,EE,200F7034,extended,A489000A
+patch=1,EE,200F7038,extended,08046677
+patch=1,EE,200F703C,extended,94820008
+patch=1,EE,201D2200,extended,0C03DC0C
+
+//Even if you are surprised, your allies will be the first
+patch=1,EE,201B3768,extended,24020001
+
+//Devil state even if surprised
+patch=1,EE,201B3DA8,extended,24020000
+
+//All linkages
+patch=1,EE,211F8400,extended,FFFFFFF0
+patch=1,EE,211F8404,extended,FFFFFFFF
+patch=1,EE,211F8408,extended,FFFFFFFF
+patch=1,EE,011F840C,extended,000000FF

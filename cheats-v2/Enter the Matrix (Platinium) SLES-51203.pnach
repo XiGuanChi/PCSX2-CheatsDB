@@ -1,0 +1,27 @@
+gametitle=Enter the Matrix (Platinium) SLES-51203
+//Infinite Health
+patch=1,EE,20128094,extended,00000000
+
+//Infinite Focus
+patch=1,EE,202998B8,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,20286B6C,extended,00000000
+
+//All Available Weapons
+patch=1,EE,203A6760,extended,00000000
+
+//Enemies Can't See You
+patch=1,EE,20134734,extended,00000000
+
+//Unlock Secret Level
+patch=1,EE,20548144,extended,00002000
+
+//Unlock All Cheats
+patch=1,EE,20548144,extended,FFFFFFFF
+
+//Unlock Multiplayer
+patch=1,EE,20548144,extended,00000080
+
+//Unlock MP/Secret Level
+patch=1,EE,20548144,extended,00002080

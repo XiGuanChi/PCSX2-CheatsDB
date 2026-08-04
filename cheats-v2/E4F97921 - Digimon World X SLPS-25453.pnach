@@ -1,0 +1,15 @@
+gametitle=Digimon World X SLPS-25453
+//Max Bits
+patch=1,EE,203D9F88,extended,00000000
+
+//Max damage done to enemies
+patch=1,EE,203FFDB4,extended,00000000
+
+//Maximum HP 99999 It is not reflected in save data
+patch=1,EE,203FC330,extended,00000000
+
+//Maximum MP 99999 It is not reflected in save data
+patch=1,EE,203FC410,extended,00000000
+ 
+//Status max
+patch=1,EE,203FC1E0,extended,00000000

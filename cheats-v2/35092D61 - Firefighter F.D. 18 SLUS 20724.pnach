@@ -1,0 +1,18 @@
+gametitle=Firefighter F.D. 18 SLUS 20724
+//Infinite Health
+patch=1,EE,201831A4,extended,00000000
+
+//Infinite Impulse Ammo
+patch=1,EE,205C4FB4,extended,0000000F
+
+//Stop Timer
+patch=1,EE,2011DFE0,extended,00000000
+
+//Survivors Never Die
+patch=1,EE,201B6BDC,extended,00000000
+
+//Infinite: Fire-Fighting Support Calls
+patch=1,EE,200C2000,extended,341B000A
+patch=1,EE,200C2004,extended,0804BF74
+patch=1,EE,200C2008,extended,AC7B0054
+patch=1,EE,2012FDCC,extended,08030800

@@ -1,0 +1,19 @@
+gametitle=Crouching Tiger, Hidden Dragon SLES-51916
+//Infinite Health
+patch=1,EE,2023BC50,extended,50000000
+patch=1,EE,2023BC58,extended,50000000
+
+//Rapid Weapons Level Gain
+patch=1,EE,2023BC90,extended,40000000
+
+//Rapid Unarmed Level Gain
+patch=1,EE,2023BC88,extended,40000000
+
+//Attack Maxed
+patch=1,EE,2023BC68,extended,40B00000
+
+//Defence Maxed
+patch=1,EE,2023BC6C,extended,40800000
+
+//99 Continues
+patch=1,EE,0023C52C,extended,00000063

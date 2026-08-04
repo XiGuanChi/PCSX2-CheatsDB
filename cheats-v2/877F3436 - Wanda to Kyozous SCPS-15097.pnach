@@ -1,0 +1,16 @@
+gametitle=Wanda to Kyozous SCPS-15097
+//Infinite Grip
+patch=1,EE,212E0860,extended,43480000
+
+//Infinite Health
+patch=1,EE,212E0864,extended,43480000
+
+//Maximum force reservoir
+patch=1,EE,2135B044,extended,4A0002FF
+
+//All items have appeared
+patch=1,EE,B0000BB8,extended,00000000
+patch=1,EE,212DC15C,extended,FF003DFB
+patch=1,EE,212DC160,extended,000800FF
+patch=1,EE,212DC164,extended,00155540
+patch=1,EE,212DC168,extended,00005555

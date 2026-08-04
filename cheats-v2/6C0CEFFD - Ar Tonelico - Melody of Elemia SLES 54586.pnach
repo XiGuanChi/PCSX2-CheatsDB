@@ -1,0 +1,32 @@
+gametitle=Ar Tonelico - Melody of Elemia SLES-54586
+//Max Infinite Health (L1+L2 to Enable/R1+R2 to Stop)
+patch=1,EE,200FFF40,extended,2401270F
+patch=1,EE,200FFF44,extended,ACA1002C
+patch=1,EE,200FFF48,extended,ACA10034
+patch=1,EE,200FFF54,extended,080AE9F6
+patch=1,EE,202BABDC,extended,0C03FFD0
+patch=1,EE,D0A956DC,extended,0000FAFF
+patch=1,EE,202BABDC,extended,0C03FFD0
+patch=1,EE,D0A956DC,extended,0000F5FF
+patch=1,EE,202BABDC,extended,0C0AE9F6
+
+//Max Infinite Health & MP (L1+L2 to Enable/R1+R2 to Stop)
+patch=1,EE,200FFF40,extended,2401270F
+patch=1,EE,200FFF44,extended,ACA1002C
+patch=1,EE,200FFF48,extended,ACA10038
+patch=1,EE,200FFF4C,extended,ACA10030
+patch=1,EE,200FFF50,extended,ACA10034
+patch=1,EE,200FFF54,extended,080AE9F6
+patch=1,EE,D0A956DC,extended,0000FAFF
+patch=1,EE,202BABDC,extended,0C03FFD0
+patch=1,EE,D0A956DC,extended,0000F5FF
+patch=1,EE,202BABDC,extended,0C0AE9F6
+
+//Disable Random Battles (Press L3 to Disable/R3 to Restart)
+patch=1,EE,D0A9575C,extended,0000FFFD
+patch=1,EE,201CC184,extended,240F0000
+patch=1,EE,D0A9575C,extended,0000FFFB
+patch=1,EE,201CC184,extended,0040782D
+
+//Max Money After a Fight
+patch=1,EE,202C1924,extended,3C040098

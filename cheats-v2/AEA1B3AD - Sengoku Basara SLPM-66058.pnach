@@ -1,0 +1,32 @@
+gametitle=Sengoku Basara SLPM-66058
+//All the character enabled
+patch=1,EE,2054A0E4,extended,FFFFFFFF
+
+//Free battle stage entirely
+patch=1,EE,2054A0E8,extended,FFFFFFFF
+
+//While fighting physical strength gauge it does not decrease
+patch=1,EE,217B82CC,extended,00013880
+patch=1,EE,217B82D4,extended,00013880
+
+//While fighting Bassara gauge always maximum
+patch=1,EE,217B8FDC,extended,00000000
+
+//The equipment entirely
+patch=1,EE,2054A094,extended,63636363
+patch=1,EE,4054A098,extended,00130001
+patch=1,EE,01010101,extended,00000000
+
+//All Character - All Movies - All Music - All Galery
+patch=1,EE,2054A0E4,extended,FFFFFFFF
+patch=1,EE,2054A0E8,extended,FFFFFFFF
+patch=1,EE,2054A0EC,extended,01010101
+patch=1,EE,2054A0F0,extended,01010101
+patch=1,EE,2054A0F4,extended,01010101
+patch=1,EE,2054A0F8,extended,01010101
+patch=1,EE,2054A0FC,extended,01010101
+patch=1,EE,2054A14C,extended,FFFFFFFF
+patch=1,EE,2054A150,extended,FFFFFFFF
+patch=1,EE,2054A154,extended,FFFFFFFF
+patch=1,EE,2054A158,extended,FFFFFFFF
+patch=1,EE,2054A15C,extended,000000FF

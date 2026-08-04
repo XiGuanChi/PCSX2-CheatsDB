@@ -1,0 +1,35 @@
+gametitle=Shinobido Imashime SLPM-66091
+//Money 9999999
+patch=1,EE,20619E7C,extended,0098967F
+
+//All 120 Theaters/ All Secrets (extra charactere and difficulty level)
+patch=1,EE,20636624,extended,01010101
+patch=1,EE,20636628,extended,01010101
+patch=1,EE,1063662C,extended,00000101
+patch=1,EE,20636644,extended,FFFFFFFF
+patch=1,EE,20636648,extended,FFFFFFFF
+patch=1,EE,2063664C,extended,FFFFFFFF
+patch=1,EE,20636650,extended,FFFFFFFF
+
+//Infinite item usage
+patch=1,EE,201DE128,extended,00000000
+patch=1,EE,201DB668,extended,00000000
+patch=1,EE,201E079C,extended,00000000
+
+//1 Hit to Kill
+patch=1,EE,20232314,extended,24032710
+patch=1,EE,20232324,extended,24020001
+
+//Invisible
+patch=1,EE,200F8200,extended,16200003
+patch=1,EE,200F8204,extended,3C030080
+patch=1,EE,200F8208,extended,00832025
+patch=1,EE,200F820C,extended,AE440280
+patch=1,EE,200F8210,extended,03E00008
+patch=1,EE,200F8214,extended,3C038000
+patch=1,EE,2011A654,extended,0C03E080
+
+//All Missions
+patch=1,EE,202AA504,extended,00000000
+patch=1,EE,202AA510,extended,00000000
+patch=1,EE,202AA628,extended,00000000

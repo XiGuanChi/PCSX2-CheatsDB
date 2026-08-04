@@ -1,0 +1,28 @@
+gametitle=Chaos Legion SLUS-20695
+//Player Max Life
+patch=1,EE,105C1438,extended,000003E8
+
+//Player Max Soul
+patch=1,EE,105C13F8,extended,000005DC
+
+//Player Max Attack
+patch=1,EE,105C143C,extended,00005000
+
+//Player Max Defense
+patch=1,EE,105C1440,extended,00000000
+
+//Infinite Health
+patch=1,EE,105A99C4,extended,000003E8
+
+//Infinite Soul
+patch=1,EE,105C13F4,extended,000005DC
+
+//All Movies
+patch=1,EE,205C1050,extended,0000000E
+
+//All Legions
+patch=1,EE,005C13E5,extended,000000FF
+
+//All Extras
+patch=1,EE,205C1050,extended,FFFFFFFF
+patch=1,EE,205C1054,extended,FFFFFFFF

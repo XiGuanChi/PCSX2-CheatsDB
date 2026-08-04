@@ -1,0 +1,12 @@
+gametitle=Tony Hawk's Pro Skater 3 SLUS-20013
+//Have All Characters
+patch=1,EE,10AEA1C0,extended,0000FFFF
+
+//Have All Cheats/Movies
+patch=1,EE,10AEA1C2,extended,0000FFFF
+patch=1,EE,20AEA1C4,extended,FFFFFFFF
+patch=1,EE,10AEA1C8,extended,0000FFFF
+
+//Infinite Time
+patch=1,EE,20CC4490,extended,00000120
+patch=1,EE,20CC4498,extended,00000120

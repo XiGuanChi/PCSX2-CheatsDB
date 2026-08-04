@@ -1,0 +1,6 @@
+gametitle=Memories Off - After Rain vol.3 - Sotsugyou SLPM-65939
+//Ending fully open
+patch=1,EE,008AF0C4,extended,000000FF
+
+//Replace New Game With Debug Menu
+patch=0,EE,1087F114,extended,00000032

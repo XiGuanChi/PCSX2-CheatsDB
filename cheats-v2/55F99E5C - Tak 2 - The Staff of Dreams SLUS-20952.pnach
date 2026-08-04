@@ -1,0 +1,13 @@
+gametitle=Tak 2 - The Staff of Dreams SLUS-20952
+//Infinite Health
+patch=1,EE,20210468,extended,C6410264
+patch=1,EE,20210474,extended,E6410260
+
+//Max Infinite Mana
+patch=1,EE,20218C7C,extended,C6000110
+
+//Infinite Mana Usage
+patch=1,EE,20218E84,extended,00000000
+
+//Access All Extras
+patch=1,EE,2051AA84,extended,00000001

@@ -1,0 +1,14 @@
+gametitle=Monster Hunter SLPM-65495
+//Gallery fully open
+patch=1,EE,103F30AC,extended,0000FFFF
+
+//Max Money 
+patch=1,EE,203C6FE0,extended,0098967F
+
+//Infinite Health 
+patch=1,EE,2015357C,extended,1000000D
+patch=1,EE,201535CC,extended,00000000
+patch=1,EE,201535E4,extended,00000000
+patch=1,EE,2015343C,extended,10000016
+patch=1,EE,201534A4,extended,00000000
+patch=1,EE,201534BC,extended,00000000

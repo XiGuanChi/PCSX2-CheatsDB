@@ -1,0 +1,8 @@
+gametitle=Disney Golf Classic SLPM-62168
+//Energy gauge 9999
+patch=1,EE,1033E850,extended,0000270F
+patch=1,EE,1033E854,extended,0000270F
+
+//All characters can be selected
+patch=1,EE,203447B0,extended,FFFFFFFF
+patch=1,EE,203447B4,extended,FFFFFFFF

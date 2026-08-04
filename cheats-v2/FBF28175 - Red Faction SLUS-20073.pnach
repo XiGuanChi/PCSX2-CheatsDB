@@ -1,0 +1,18 @@
+gametitle=Red Faction SLUS-20073
+//Infinite Health
+patch=1,EE,2028E5F0,extended,00000000
+patch=1,EE,2028E5F4,extended,00000000
+patch=1,EE,2028E5F8,extended,00000000
+patch=1,EE,2028E5FC,extended,00000000
+patch=1,EE,2028E600,extended,00000000
+
+//Infinite ammo
+patch=1,EE,20154940,extended,03E00008
+patch=1,EE,20154944,extended,00000000
+
+//Invulnerable
+patch=1,EE,201A5028,extended,8E03007C
+patch=1,EE,201A5048,extended,34630004
+
+//Unlock all hidden characters
+patch=1,EE,202AC8F8,extended,00000001

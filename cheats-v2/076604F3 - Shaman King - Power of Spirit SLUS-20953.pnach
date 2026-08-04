@@ -1,0 +1,10 @@
+gametitle=Shaman King - Power of Spirit SLUS-20953
+//Yoh Asakura Infinite HP
+patch=1,EE,204E3DA4,extended,2160EC00
+patch=1,EE,204E3F04,extended,2160EC00
+
+//All Character Infinite Strength Points Usage
+patch=1,EE,2033E48C,extended,00000000
+
+//Yoh Asakura Infinite Strength Points
+patch=1,EE,204E3DA1,extended,00000009

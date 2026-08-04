@@ -1,0 +1,51 @@
+gametitle=The Sims -  Bustin’ Out SLES-52047
+//All Locations
+patch=1,EE,103F8B5C,extended,00000001
+
+//All Objects Unlocked
+patch=1,EE,203F8B58,extended,00000001
+
+//All Objects Unlocked
+patch=1,EE,203F8B58,extended,00000001
+
+//All Locations
+patch=1,EE,103F8B5C,extended,00000001
+
+//Secrect Interactions
+patch=1,EE,203F8B68,extended,00000001
+
+//100% Friendship:- Any Sim
+patch=1,EE,20337798,extended,24130064
+
+//Free Play Mode
+patch=1,EE,203F7534,extended,497423F0
+
+//No Hunger Decrease
+patch=1,EE,203F74F4,extended,00000000
+
+//No Hygene Decrease
+patch=1,EE,203F7508,extended,00000000
+patch=1,EE,203F750C,extended,00000000
+
+//No Energy Decrease
+patch=1,EE,203F74D4,extended,00000000
+patch=1,EE,203F74D8,extended,00000000
+
+//No Social Decrease
+patch=1,EE,203F74F8,extended,00000000
+patch=1,EE,203F74FC,extended,00000000
+
+//No Comfort Decrease
+patch=1,EE,203F74EC,extended,00000000
+patch=1,EE,203F74F0,extended,00000000
+
+//No Bladder Decrease
+patch=1,EE,203F7510,extended,00000000
+patch=1,EE,203F7514,extended,00000000
+
+//No Fun Decrease
+patch=1,EE,203F7500,extended,203F7504
+
+//Everythings Free
+patch=1,EE,203F8B50,extended,00000000
+patch=1,EE,2033E0CC,extended,00000000

@@ -1,0 +1,16 @@
+gametitle=Sphinx and the Cursed Mummy SLUS-20482
+//Infinite Health
+patch=1,EE,204778AC,extended,00000024
+patch=1,EE,204778B0,extended,00000024
+
+//Invincible (Sphinx)
+patch=1,EE,004778B5,extended,00000008
+
+//Infinite Air (Sphinx)
+patch=1,EE,1047796C,extended,000007CF
+
+//Infinite Air (Sphinx) (Alternate)
+patch=1,EE,201D7880,extended,AE020B6C
+
+//Walk On Lava (Sphinx)
+patch=1,EE,20477958,extended,00000D47

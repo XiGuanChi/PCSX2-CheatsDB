@@ -1,0 +1,24 @@
+gametitle=G1 Jockey 4 2007 SLPM-66888
+//Riding Dirty Points max
+patch=1,EE,10A93480,extended,00001388
+
+//Negotiation
+patch=1,EE,2027D364,extended,00000000
+
+//When it starts running, level 30
+patch=1,EE,2010DA78,extended,2403001E
+
+//Potential rise same maximum
+patch=1,EE,20180C00,extended,1000000A
+patch=1,EE,20180C2C,extended,3C034300
+
+//Degree of tamer friendship MAX
+patch=1,EE,2011C118,extended,240200FA
+
+//Rearing horse ability UP
+patch=1,EE,20260AF8,extended,24110064
+
+//New horse rearing competitive ability MAX
+patch=1,EE,20263C20,extended,03E00008
+patch=1,EE,20263C24,extended,2402003F
+

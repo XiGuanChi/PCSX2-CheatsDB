@@ -1,0 +1,20 @@
+gametitle=Shinseiki GPX Cyber Formula - Road to the Infinity 2 SLPS-25541
+//Unlock Everything
+patch=1,EE,203ED088,extended,FFFFFFFF
+patch=1,EE,203ED08C,extended,FFFFFFFF
+patch=1,EE,203ED090,extended,FFFFFFFF
+patch=1,EE,103ED096,extended,0000FFFF
+patch=1,EE,103ED098,extended,0000FFFF
+
+//Unlock Everything (Alt)
+patch=1,EE,403ED088,extended,00030001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Max Distance
+patch=1,EE,203ED078,extended,3B9AC9FF
+
+//Max 999999999
+patch=1,EE,2019d604,extended,24010000
+
+//Max Played Time
+patch=1,EE,2019d2dc,extended,24010000

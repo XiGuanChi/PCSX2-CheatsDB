@@ -1,0 +1,6 @@
+gametitle=Guitar Hero III - Legends of Rock SLES-54962
+//P1 Infinite Star Power
+patch=1,EE,20A6B430,extended,44FA0000
+
+//ROCK METER Always in the Green
+patch=1,EE,20A6B954,extended,40000000

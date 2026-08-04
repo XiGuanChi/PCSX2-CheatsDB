@@ -1,0 +1,34 @@
+gametitle=Lethal Skies Elite Pilot - Team SW SLUS-20386
+//Press ps2 select + ps2 l2.To Complete Mission
+patch=1,EE,D04AD342,extended,0000FEFE
+patch=1,EE,20498F30,extended,00000002
+
+//Have Planes X16S
+patch=1,EE,204586A4,extended,00000001
+
+//F15E
+patch=1,EE,204586AC,extended,00000001
+
+//F22
+patch=1,EE,204586B0,extended,00000001
+
+//F25
+patch=1,EE,204586B4,extended,00000001
+
+//YF23
+patch=1,EE,204586B8,extended,00000001
+
+//EF2000
+patch=1,EE,204586BC,extended,00000001
+
+//JAS39
+patch=1,EE,204586C0,extended,00000001
+
+//MIG29
+patch=1,EE,204586C4,extended,00000001
+
+//Su27K
+patch=1,EE,204586C8,extended,00000001
+
+//S37
+patch=1,EE,204586D0,extended,00000001

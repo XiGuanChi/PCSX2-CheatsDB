@@ -1,0 +1,20 @@
+gametitle=Sega Ages 2500 Series Vol.02 - Monaco GP SLPM-62364
+//Maximum score
+patch=1,EE,20469D9C,extended,0098967F
+
+//(1P 3 minutes remaining time
+patch=1,EE,20469D98,extended,00002A30
+
+//(1P) Remaining machine 9
+patch=1,EE,20469D8D,extended,00000009
+
+//(1P) Square button for 3 minutes remaining time
+patch=1,EE,D01C50C2,extended,00007FFF
+patch=1,EE,20469D98,extended,00002A30
+
+//LAP TIME 0
+patch=1,EE,2012A014,extended,ACC0001C
+
+//Grand Prix (1P) Goal with SELECT + L1 + R1 button
+patch=1,EE,D01C50C2,extended,0000F3FE
+patch=1,EE,20400CF6,extended,00000009

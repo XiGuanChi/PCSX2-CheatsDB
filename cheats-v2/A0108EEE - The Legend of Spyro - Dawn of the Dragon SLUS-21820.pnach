@@ -1,0 +1,39 @@
+gametitle=The Legend of Spyro - Dawn of the Dragon SLUS-21820
+//Upgrades dont Decreas EXP
+patch=1,EE,203BF968,extended,00401023
+
+//Spyro Inf HP
+patch=1,EE,20395200,extended,8C620004
+
+//Cynder Inf HP
+patch=1,EE,20395240,extended,8C620004
+
+//Spyro Inf Elements Power
+patch=1,EE,203954E0,extended,00401023
+
+//Cynder Inf Elements Power
+patch=1,EE,20395520,extended,00401023
+
+//Spyros Inf Hp
+patch=1,EE,209FEAE0,extended,0000270F
+
+//Spyros Max HP
+patch=1,EE,209FEAE4,extended,0000270F
+
+//Spyros Inf Elements
+patch=1,EE,209FEAF8,extended,0000270F
+
+//Spyros Max Elements
+patch=1,EE,209FEAFC,extended,0000270F
+
+//Cynders Inf HP
+patch=1,EE,209FEAE8,extended,0000270F
+
+//Cynders Max HP
+patch=1,EE,209FEAEC,extended,0000270F
+
+//Cynders Inf Elements
+patch=1,EE,209FEB00,extended,0000270F
+
+//Cynders Max Elements
+patch=1,EE,209FEB04,extended,0000270F

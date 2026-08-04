@@ -1,0 +1,104 @@
+gametitle=P.T.O. IV - Pacific Theater of Operations SLUS-20567
+//Campaign Mode 
+//== Japan Codes ==
+//Max Money
+patch=1,EE,20422D04,extended,0098967F
+
+//No Money
+patch=1,EE,20422D04,extended,00000000
+
+//Max Oil
+patch=1,EE,20422D08,extended,0098967F
+
+//No Oil
+patch=1,EE,20422D08,extended,00000000
+
+//Max Steel
+patch=1,EE,20422D0C,extended,0098967F
+
+//No Steel
+patch=1,EE,20422D0C,extended,00000000
+
+//Max AL
+patch=1,EE,20422D10,extended,0098967F
+
+//No AL
+patch=1,EE,20422D10,extended,00000000
+
+
+//== USA Codes ==
+//Max Money
+patch=1,EE,20422D48,extended,0098967F
+
+//No Money
+patch=1,EE,20422D48,extended,00000000
+
+//Max Oil
+patch=1,EE,20422D4C,extended,0098967F
+
+//No Oil
+patch=1,EE,20422D4C,extended,00000000
+
+//Max Steel
+patch=1,EE,20422D50,extended,0098967F
+
+//No Steel
+patch=1,EE,20422D50,extended,00000000
+
+//Max AL
+patch=1,EE,20422D54,extended,0098967F
+
+//No AL
+patch=1,EE,20422D54,extended,00000000
+
+
+//== Britain Codes ==
+//Max Money
+patch=1,EE,20422D8C,extended,0098967F
+
+//No Money
+patch=1,EE,20422D8C,extended,00000000
+
+//Max Oil
+patch=1,EE,20422D90,extended,0098967F
+
+//No Oil
+patch=1,EE,20422D90,extended,00000000
+
+//Max Steel
+patch=1,EE,20422D94,extended,0098967F
+
+//No Steel
+patch=1,EE,20422D94,extended,00000000
+
+//Max AL
+patch=1,EE,20422D98,extended,0098967F
+
+//No AL
+patch=1,EE,20422D98,extended,00000000
+
+
+//== Germany Codes ==
+//Max Money
+patch=1,EE,20422DD0,extended,0098967F
+
+// No Money
+patch=1,EE,20422DD0,extended,00000000
+
+//Max Oil
+patch=1,EE,20422DD4,extended,0098967F
+
+//No Oil
+patch=1,EE,20422DD4,extended,00000000
+
+//Max Steel
+patch=1,EE,20422DD8,extended,0098967F
+
+//No Steel
+patch=1,EE,20422DD8,extended,00000000
+
+//Max AL
+patch=1,EE,20422DDC,extended,0098967F
+
+//No AL
+patch=1,EE,20422DDC,extended,00000000

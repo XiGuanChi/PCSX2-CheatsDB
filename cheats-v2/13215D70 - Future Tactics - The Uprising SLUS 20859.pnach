@@ -1,0 +1,25 @@
+gametitle=Future Tactics - The Uprising SLUS 20859
+//Unlock All Maps Vs. CPU
+patch=1,EE,105A78F0,extended,00000013
+
+//Unlock All Maps Vs. Player 2
+patch=1,EE,105A78F2,extended,00000013
+
+//Unlock All Maps
+patch=1,EE,205A78F0,extended,00130013
+
+//Health Refilled Periodically
+patch=1,EE,20185BB0,extended,AC480044
+
+//Unlock Story Mode All Tricks
+patch=1,EE,405A78F4,extended,00060001
+patch=1,EE,00010001,extended,00000000
+patch=1,EE,105A790C,extended,00000001
+
+//Max Level Codes All Characters
+patch=1,EE,4058C10C,extended,00140003
+patch=1,EE,00000063,extended,00000000
+
+//Max Level All Characters
+patch=1,EE,4058C108,extended,00140003
+patch=1,EE,00000005,extended,00000000

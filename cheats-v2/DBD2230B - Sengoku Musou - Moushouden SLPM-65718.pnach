@@ -1,0 +1,96 @@
+gametitle=Sengoku Musou - Moushouden SLPM-65718
+//Chigyo acquisition Kokudaka change
+patch=1,EE,2051A61C,extended,00000000
+
+//Acquired Chigyo Stone height change 9999999
+patch=1,EE,2051A66C,extended,0000967F
+
+//Gold nugget MAX
+patch=1,EE,2051A668,extended,0098967F
+
+//50 defeats when one person is defeated
+patch=1,EE,201A2A38,extended,24A50032
+
+//MAX with merit acquisition
+patch=1,EE,201A2B6C,extended,00212021
+
+//MAX with increased merit
+patch=1,EE,201A2B74,extended,14000003
+
+//MAX by increasing skill points
+patch=1,EE,201D29DC,extended,10000003
+
+//MAX with increased stone height
+patch=1,EE,201D052C,extended,14000003
+
+//Hideyoshi Hashiba All Skills & Level MAX
+patch=1,EE,005187ED,extended,00000004
+patch=1,EE,105187EE,extended,00000404
+patch=1,EE,205187F0,extended,04040404
+patch=1,EE,205187F4,extended,04040404
+patch=1,EE,005187F9,extended,00000004
+patch=1,EE,105187FA,extended,00000404
+patch=1,EE,205187FC,extended,01040404
+patch=1,EE,20518800,extended,01010101
+patch=1,EE,20518804,extended,01010101
+patch=1,EE,20518808,extended,01010101
+patch=1,EE,2051880C,extended,04010101
+patch=1,EE,20518810,extended,04040404
+patch=1,EE,20518814,extended,04040404
+patch=1,EE,10518818,extended,00000404
+patch=1,EE,00518819,extended,00000001
+
+//Required code
+patch=1,EE,2012B7FC,extended,0803C400
+patch=1,EE,200F1254,extended,03E00008
+
+//Please be sure to use it together when using the following code
+//All characters all skills acquisition & skill level MAX
+patch=1,EE,200F1000,extended,3C080051
+patch=1,EE,200F1004,extended,350880A8
+patch=1,EE,200F1008,extended,25290013
+patch=1,EE,200F100C,extended,3C0A000F
+patch=1,EE,200F1010,extended,8D4B5000
+patch=1,EE,200F1014,extended,8D4C5004
+patch=1,EE,200F1018,extended,8D4D5008
+patch=1,EE,200F101C,extended,8D4E500C
+patch=1,EE,200F1028,extended,A10B0001
+patch=1,EE,200F102C,extended,A50B0002
+patch=1,EE,200F1030,extended,AD0B0004
+patch=1,EE,200F1034,extended,AD0B0008
+patch=1,EE,200F1038,extended,A10B0001
+patch=1,EE,200F103C,extended,A50B000E
+patch=1,EE,200F1040,extended,AD0C0010
+patch=1,EE,200F1044,extended,AD0D0014
+patch=1,EE,200F1048,extended,AD0D0018
+patch=1,EE,200F104C,extended,AD0D001C
+patch=1,EE,200F1050,extended,AD0E0020
+patch=1,EE,200F1054,extended,AD0B0024
+patch=1,EE,200F1058,extended,AD0B0028
+patch=1,EE,200F105C,extended,A50B002C
+patch=1,EE,200F1060,extended,A10D002E
+patch=1,EE,200F1064,extended,2529FFFF
+patch=1,EE,200F1068,extended,2508007C
+patch=1,EE,200F1070,extended,1520FFED
+patch=1,EE,200F5000,extended,04040404
+patch=1,EE,200F5004,extended,01040404
+patch=1,EE,200F5008,extended,01010101
+patch=1,EE,200F500C,extended,04010101
+
+//Rewind time limit with R3 button
+patch=1,EE,20186D44,extended,AC239878
+patch=1,EE,D0375778,extended,00000004
+patch=1,EE,20186D44,extended,AC209878
+
+//Ability change required code
+patch=1,EE,201762DC,extended,0C03FC00
+patch=1,EE,201762E0,extended,005F400B
+patch=1,EE,200FF084,extended,84430272
+patch=1,EE,200FF088,extended,03E00008
+patch=1,EE,200FF08C,extended,2463000F
+
+//Currently physical strength MAX
+patch=1,EE,200FF000,extended,84450270
+patch=1,EE,200FF004,extended,00052900
+patch=1,EE,200FF008,extended,A4450272
+

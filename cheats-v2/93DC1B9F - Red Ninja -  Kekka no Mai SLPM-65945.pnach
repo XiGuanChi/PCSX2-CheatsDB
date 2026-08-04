@@ -1,0 +1,69 @@
+gametitle=Red Ninja -  Kekka no Mai SLPM-65945
+//Infinite Health
+patch=1,EE,D0AD3170,extended,00000001
+patch=1,EE,20AD3194,extended,00000064
+
+
+//Do not reduce ninjutsu gauge
+patch=1,EE,D0AD3170,extended,00000001
+patch=1,EE,20AD31A0,extended,42C80000
+
+//Do not freeze
+patch=1,EE,D0AD3170,extended,00000001
+patch=1,EE,20AD228C,extended,00000000
+
+//Mind Release - effect always
+patch=1,EE,D0AD3170,extended,00000001
+patch=1,EE,20AD2290,extended,3F800000
+
+//Hook
+patch=1,EE,209AAC44,extended,00000001
+patch=1,EE,209AAC4C,extended,00000001
+
+//Medicine 99
+patch=1,EE,209AAC84,extended,00000001
+patch=1,EE,209AAC8C,extended,00000063
+
+//Arcanum 99
+patch=1,EE,209AACC4,extended,00000001
+patch=1,EE,209AACCC,extended,00000063
+
+//Wards 99 book
+patch=1,EE,209AAD04,extended,00000001
+patch=1,EE,209AAD0C,extended,00000063
+
+//Blowguns
+patch=1,EE,209AAD44,extended,00000001
+patch=1,EE,209AAD4C,extended,00000063
+
+//99 smoke ball
+patch=1,EE,209AAD84,extended,00000001
+patch=1,EE,209AAD8C,extended,00000063
+
+//99 mind Release
+patch=1,EE,209AADC4,extended,00000001
+patch=1,EE,209AADCC,extended,00000063
+
+//99 -propelled Scarlet
+patch=1,EE,209AAE04,extended,00000001
+patch=1,EE,209AAE0C,extended,00000063
+
+//Telescope
+patch=1,EE,209AAE44,extended,00000001
+patch=1,EE,209AAE4C,extended,00000001
+
+//Amulet
+patch=1,EE,209AAE84,extended,00000001
+patch=1,EE,209AAE8C,extended,00000001
+
+//Iron claw
+patch=1,EE,209AAEC4,extended,00000001
+patch=1,EE,209AAECC,extended,00000001
+
+//Water spider
+patch=1,EE,209AAF04,extended,00000001
+patch=1,EE,209AAF0C,extended,00000001
+
+//Ninja outfit
+patch=1,EE,209AAF44,extended,00000001
+patch=1,EE,209AAF4C,extended,00000001

@@ -1,0 +1,32 @@
+gametitle=Idol Janshi R - Janguru Project SLPS-25183
+//Team finishing move number of uses
+patch=1,EE,1071E0BA,extended,0000000F
+
+//Player's point of possession (pointed bar) = 900000
+patch=1,EE,20160D28,extended,24032328
+
+//All-you-can-Match Panel Match
+patch=1,EE,20137600,extended,00000000
+
+//Its Special Moves
+patch=1,EE,20160F1C,extended,10000037
+
+//Point MAX
+patch=1,EE,2071F99C,extended,000003E7
+
+//Number of uses of deathblow A
+patch=1,EE,1071E0B6,extended,00000009
+
+//Number of uses of deathblow technique B MAX
+patch=1,EE,1071E0B8,extended,00000009
+
+//TEAM Special Movement Flag ON
+patch=1,EE,1071E0BA,extended,0000000F
+
+//All characters available
+patch=1,EE,2071F998,extended,00000FFF
+
+//All items purchased
+patch=1,EE,2071F9C0,extended,7FFF7FFF
+patch=1,EE,2071F9C4,extended,7FFF7FFF
+patch=1,EE,4071F9CC,extended,001D0001

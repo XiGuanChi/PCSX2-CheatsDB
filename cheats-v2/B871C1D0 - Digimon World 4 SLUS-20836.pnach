@@ -1,0 +1,25 @@
+gametitle=Digimon World 4 SLUS-20836
+//Max Bits
+patch=1,EE,203D88B8,extended,00000000
+
+//Pause to Restore HP
+patch=1,EE,203F9CEC,extended,8C520024
+
+//Pause to Restore MP
+patch=1,EE,203F9E84,extended,8C550024
+
+//Infinite Item Use
+patch=1,EE,203CF740,extended,26030000
+
+//1-Hit Death (Enemies)
+patch=1,EE,200C0240,extended,50E00001
+patch=1,EE,200C0244,extended,AC60000C
+patch=1,EE,200C0248,extended,8C63000C
+patch=1,EE,200C024C,extended,14600003
+patch=1,EE,200C0250,extended,00000000
+patch=1,EE,200C0254,extended,03E00008
+patch=1,EE,200C0258,extended,00000000
+patch=1,EE,200C025C,extended,08110FBE
+patch=1,EE,200C0260,extended,00000000
+patch=1,EE,20443CF4,extended,0C030090
+patch=1,EE,20443CF8,extended,00000000

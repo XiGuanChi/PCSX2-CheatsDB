@@ -1,0 +1,13 @@
+gametitle=Simple 2000 Series Vol.55 - The Catfight - Onna Neko Densetsu SLPM-62494
+//Do not attack 2P characters
+patch=1,EE,00284D4D,extended,0000000C
+
+//All characters and all costumes
+patch=1,EE,2010A860,extended,00000000
+patch=1,EE,2010A878,extended,00000000
+
+//1P character operation (1P controller)
+patch=1,EE,00284D4C,extended,0000000B
+
+//Survival without 99 people
+patch=1,EE,00284D6F,extended,00000063

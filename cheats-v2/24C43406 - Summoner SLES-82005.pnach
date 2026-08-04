@@ -1,0 +1,14 @@
+gametitle=Summoner SLES-82005
+//999.999.999 GS
+patch=1,EE,21288f80,extended,3b9ac9ff
+
+//Infinite TP
+patch=1,EE,203b7fd0,extended,0000270F
+patch=1,EE,203b7fd4,extended,0000270F
+
+//Infinite AP
+patch=1,EE,103b7fd8,extended,0000270F
+patch=1,EE,103b7fda,extended,0000270F
+
+//EP: 99.999.999
+patch=1,EE,203b7fe0,extended,05f5e0ff

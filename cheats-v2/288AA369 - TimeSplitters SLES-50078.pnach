@@ -1,0 +1,154 @@
+gametitle=TimeSplitters SLES-50078
+//Invincible
+patch=1,EE,203C8728,extended,00000001
+
+//Story Mode Health Codes
+//Infinite Health 1935 Tomb
+patch=1,EE,10B8DAFA,extended,00003F80
+//Infinite Health 1970 Chinese
+patch=1,EE,10B8572A,extended,00003F80
+//Infinite Health 2005 Cyberden
+patch=1,EE,10B8CACA,extended,00003F80
+//Infinite Health 1950 Village
+patch=1,EE,10B8B15A,extended,00003F80
+//Infinite Health 1985 Chemic.P
+patch=1,EE,10B869AA,extended,00003F80
+//Infinite Health 2020 Planet-X
+patch=1,EE,10B8244A,extended,00003F80
+//Infinite Health 1965 Mansion
+patch=1,EE,10B8C62A,extended,00003F80
+//Infinite Health 2000 Docks
+patch=1,EE,10B88EAA,extended,00003F80
+//Infinite Health 2035 Spaceway
+patch=1,EE,10B8503A,extended,00003F80
+
+//Infinite Ammo All Weapons
+patch=1,EE,10BB0280,extended,0000000F
+patch=1,EE,10BB0284,extended,0000000F
+patch=1,EE,10BB03A4,extended,0000000A
+patch=1,EE,10BB03A0,extended,0000000A
+patch=1,EE,10BB0378,extended,00000018
+patch=1,EE,10BB0380,extended,0000000A
+patch=1,EE,10BB028C,extended,00000032
+
+//Unlock Levels Codes
+//Play a level and make a save to activate these codes.
+//Tomb
+patch=1,EE,2040D108,extended,00000050
+patch=1,EE,2040D10C,extended,00000050
+patch=1,EE,2040D110,extended,00000050
+//Chinese
+patch=1,EE,2040D0C0,extended,00000050
+patch=1,EE,2040D0C4,extended,00000050
+patch=1,EE,2040D0C8,extended,00000050
+//Cyberden
+patch=1,EE,2040CFC4,extended,00000050
+patch=1,EE,2040CFC8,extended,00000050
+patch=1,EE,2040CFCC,extended,00000050
+//Village
+patch=1,EE,2040CE14,extended,00000050
+patch=1,EE,2040CE18,extended,00000050
+patch=1,EE,2040CE1C,extended,00000050
+//Chemical Plant
+patch=1,EE,2040CE80,extended,00000050
+patch=1,EE,2040CE84,extended,00000050
+patch=1,EE,2040CE88,extended,00000050
+//Planet-X
+patch=1,EE,2040CF10,extended,00000050
+patch=1,EE,2040CF14,extended,00000050
+patch=1,EE,2040CF18,extended,00000050
+//Mansion
+patch=1,EE,2040CEEC,extended,00000050
+patch=1,EE,2040CEF0,extended,00000050
+patch=1,EE,2040CEF4,extended,00000050
+//Docks
+patch=1,EE,2040D12C,extended,00000050
+patch=1,EE,2040D130,extended,00000050
+patch=1,EE,2040D134,extended,00000050
+//Spaceways
+patch=1,EE,2040D198,extended,00000050
+patch=1,EE,2040D19C,extended,00000050
+patch=1,EE,2040D1A0,extended,00000050
+//Challenges Unlocked
+//1-A
+patch=1,EE,2040D1FC,extended,00000050
+patch=1,EE,2040D200,extended,00000050
+//1-B
+patch=1,EE,2040D204,extended,00000050
+patch=1,EE,2040D208,extended,00000050
+//1-C
+patch=1,EE,2040D20C,extended,05F5E0FF
+patch=1,EE,2040D210,extended,05F5E0FF
+//2-A
+patch=1,EE,2040D214,extended,00000050
+patch=1,EE,2040D218,extended,00000050
+//2-B
+patch=1,EE,2040D21C,extended,00000050
+patch=1,EE,2040D220,extended,00000050
+//2-C
+patch=1,EE,2040D224,extended,0000FFFF
+patch=1,EE,2040D228,extended,0000FFFF
+//3-A
+patch=1,EE,2040D22C,extended,0000FFFF
+patch=1,EE,2040D230,extended,0000FFFF
+//3-B
+patch=1,EE,2040D234,extended,0000FFFF
+patch=1,EE,2040D238,extended,0000FFFF
+//3-C
+patch=1,EE,2040D23C,extended,0000FFFF
+patch=1,EE,2040D240,extended,0000FFFF
+//4-A
+patch=1,EE,2040D244,extended,00000050
+patch=1,EE,2040D248,extended,00000050
+//4-B
+patch=1,EE,2040D24C,extended,00000050
+patch=1,EE,2040D250,extended,00000050
+//4-C
+patch=1,EE,2040D254,extended,00000050
+patch=1,EE,2040D258,extended,00000050
+//5-A
+patch=1,EE,2040D25C,extended,00000050
+patch=1,EE,2040D260,extended,00000050
+//5-B
+patch=1,EE,2040D264,extended,00000050
+patch=1,EE,2040D268,extended,00000050
+//5-C
+patch=1,EE,2040D26C,extended,00000050
+patch=1,EE,2040D270,extended,00000050
+//6-A
+patch=1,EE,2040D274,extended,00000050
+patch=1,EE,2040D278,extended,00000050
+//6-B
+patch=1,EE,2040D27C,extended,0000FFFF
+patch=1,EE,2040D280,extended,0000FFFF
+//6-C
+patch=1,EE,2040D284,extended,00000001
+patch=1,EE,2040D288,extended,00000001
+//7-A
+patch=1,EE,2040D28C,extended,0000FFFF
+patch=1,EE,2040D290,extended,0000FFFF
+//7-B
+patch=1,EE,2040D294,extended,0000FFFF
+patch=1,EE,2040D298,extended,0000FFFF
+//7-C
+patch=1,EE,2040D29C,extended,0000FFFF
+patch=1,EE,2040D2A0,extended,0000FFFF
+//8-A
+patch=1,EE,2040D2A4,extended,0000FFFF
+patch=1,EE,2040D2A8,extended,0000FFFF
+//8-B
+patch=1,EE,2040D2AC,extended,0000FFFF
+patch=1,EE,2040D2B0,extended,0000FFFF
+//8-C
+patch=1,EE,2040D2B4,extended,0000FFFF
+patch=1,EE,2040D2B8,extended,0000FFFF
+//9-A
+patch=1,EE,2040D2BC,extended,0000FFFF
+patch=1,EE,2040D2C0,extended,0000FFFF
+//9-B
+patch=1,EE,2040D2C4,extended,0000FFFF
+patch=1,EE,2040D2C8,extended,0000FFFF
+//9-C
+patch=1,EE,2040D2D0,extended,0000FFFF
+patch=1,EE,2040D2D4,extended,0000FFFF
+

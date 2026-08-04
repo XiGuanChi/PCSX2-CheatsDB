@@ -1,0 +1,12 @@
+gametitle=Digital Holmes SLPS-20138
+//Infinite tension gauge
+patch=1,EE,202C074C,extended,001F001F
+patch=1,EE,202C0784,extended,001F001F
+
+//Profile fully open
+patch=1,EE,102C0A94,extended,0000FFFF
+patch=1,EE,002C0A96,extended,000000FF
+
+//SPECIAL ADDITION  After pressing the L3 + R3 button
+patch=1,EE,D019F242,extended,0000FFF9
+patch=1,EE,00436274,extended,00000003

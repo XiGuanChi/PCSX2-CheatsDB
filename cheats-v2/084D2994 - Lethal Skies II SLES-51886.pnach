@@ -1,0 +1,66 @@
+gametitle=Lethal Skies II SLES-51886
+//Press R3 To Complete Mission
+patch=1,EE,D032C122,extended,0000FFFB
+patch=1,EE,2043C04C,extended,00000002
+
+//Guns Never Overheat
+patch=1,EE,20321024,extended,00000000
+
+//All Weapons Are Infinite
+patch=1,EE,2043BFE4,extended,00000001
+
+//Have A-10 Unlocked by Codejunkies
+patch=1,EE,2039DB38,extended,00000001
+
+//Have AV8B Unlocked by Codejunkies
+patch=1,EE,2039DB74,extended,00000001
+
+//Have EF2000 Unlocked by Codejunkies
+patch=1,EE,2039DB50,extended,00000001
+
+//Have F-14D Unlocked by Codejunkies
+patch=1,EE,2039DB50,extended,00000001
+
+//Have F-15E Unlocked by Codejunkies
+patch=1,EE,2039DB40,extended,00000001
+
+//Have F-16 Unlocked by Codejunkies
+patch=1,EE,2039DB34,extended,00000001
+
+//Have F-25 Unlocked by Codejunkies
+patch=1,EE,2039DB48,extended,00000001
+
+//Have F-35 Unlocked by Codejunkies
+patch=1,EE,2039DB78,extended,00000001
+
+//Have F-5Z Unlocked by Codejunkies
+patch=1,EE,2039DB6C,extended,00000001
+
+//Have F/A-18 Unlocked by Codejunkies
+patch=1,EE,2039DB3C,extended,00000001
+
+//Have F/A-22 Unlocked by Codejunkies
+patch=1,EE,2039DB3C,extended,00000001
+
+//Have JAS39 Unlocked by Codejunkies
+patch=1,EE,2039DB54,extended,00000001
+
+//Have MIG29 Unlocked by Codejunkies
+patch=1,EE,2039DB58,extended,00000001
+
+//Have S-37 Unlocked
+patch=1,EE,2039DB64,extended,00000001
+
+//Have S-47 Unlocked
+patch=1,EE,2039DB7C,extended,00000001
+
+//Have SU35 Unlocked
+patch=1,EE,2039DB60,extended,00000001
+
+//Have X29Z Unlocked
+patch=1,EE,2039DB68,extended,00000001
+
+//Have YF23 Unlocked
+patch=1,EE,2039DB4C,extended,00000001
+
+

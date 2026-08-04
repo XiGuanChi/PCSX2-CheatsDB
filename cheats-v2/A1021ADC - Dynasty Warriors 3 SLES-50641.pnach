@@ -1,0 +1,41 @@
+gametitle=Dynasty Warriors 3 SLES-50641
+//Infinite Health
+patch=1,EE,201CEF98,extended,A6A3021C
+
+//Infinite Musou
+patch=1,EE,20140334,extended,A60B0222
+
+//Unlock All Movies
+patch=1,EE,20321324,extended,003FFFFF
+
+//Unlock Opening In Option Mode
+patch=1,EE,10321322,extended,0000FFFF
+
+//Unlock All Characters
+patch=1,EE,203212FC,extended,01010101
+patch=1,EE,20321300,extended,01010101
+patch=1,EE,20321304,extended,01010101
+patch=1,EE,20321308,extended,01010101
+patch=1,EE,2032130C,extended,01010101
+patch=1,EE,20321310,extended,01010101
+patch=1,EE,20321314,extended,01010101
+patch=1,EE,20321318,extended,01010101
+patch=1,EE,2032131C,extended,01010101
+patch=1,EE,20321320,extended,01010101
+
+//Unlock All Levels
+patch=1,EE,203212C0,extended,FFFFFFFF
+patch=1,EE,203212C4,extended,FFFFFFFF
+patch=1,EE,203212C8,extended,FFFFFFFF
+patch=1,EE,203212CC,extended,FFFFFFFF
+patch=1,EE,203212D0,extended,FFFFFFFF
+patch=1,EE,203212D4,extended,FFFFFFFF
+patch=1,EE,203212D8,extended,FFFFFFFF
+patch=1,EE,203212DC,extended,FFFFFFFF
+patch=1,EE,203212E0,extended,FFFFFFFF
+patch=1,EE,203212E4,extended,FFFFFFFF
+patch=1,EE,203212E8,extended,FFFFFFFF
+patch=1,EE,203212EC,extended,FFFFFFFF
+patch=1,EE,203212F0,extended,FFFFFFFF
+patch=1,EE,203212F4,extended,FFFFFFFF
+patch=1,EE,203212F8,extended,FFFFFFFF

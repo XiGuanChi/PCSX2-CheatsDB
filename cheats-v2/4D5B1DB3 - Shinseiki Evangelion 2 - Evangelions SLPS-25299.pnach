@@ -1,0 +1,25 @@
+gametitle=Shinseiki Evangelion 2 - Evangelions SLPS-25299
+//Money 9999999
+//01657E0 0082182A
+
+//Information technical skill 99
+patch=1,EE,20333EF4,extended,00000063
+
+//White soldier technical skill 99
+patch=1,EE,20333EF8,extended,00000063
+
+//Skill MAX
+patch=1,EE,2016591C,extended,28850000
+
+//Scenario fully open
+patch=1,EE,20333A3C,extended,FFFFFFFF
+
+//Shinji physical condition fixed
+patch=1,EE,20333EAC,extended,00000064
+patch=1,EE,20333EB0,extended,00000064
+patch=1,EE,20333EB4,extended,00000064
+patch=1,EE,20333EB8,extended,00000064
+patch=1,EE,20333EBC,extended,00000064
+
+//Debug Menu At Boot
+patch=1,EE,001D3914,extended,00000000

@@ -1,0 +1,13 @@
+gametitle=Rocky - Legends SLUS-20890
+//Max Funds
+patch=1,EE,2059BFE4,extended,05F5E0FF
+
+//Infinite Health Player 1
+patch=1,EE,20440178,extended,3F800000
+
+//no Health Player 2
+patch=1,EE,20442178,extended,00000000
+
+//All Venues
+patch=1,EE,4059B7CC,extended,00150004
+patch=1,EE,00000001,extended,00000000

@@ -1,0 +1,72 @@
+gametitle=World Soccer Winning Eleven 2009 SLPM-55131
+//WEN
+patch=1,EE,218D7FCC,extended,0001869F
+
+//MLP 999999
+patch=1,EE,D0B611B4,extended,000000BC
+patch=1,EE,20B611C8,extended,0C0484C5
+patch=1,EE,D0B611B4,extended,000000BC
+patch=1,EE,20B611CC,extended,3C04000F
+patch=1,EE,20121314,extended,3484423F
+patch=1,EE,20121318,extended,0826DE44
+patch=1,EE,2012131C,extended,AE040034
+
+//Legend EditPointInfinity
+patch=1,EE,D0C0FBB8,extended,0000F803
+patch=1,EE,20C0FB5C,extended,1000001B
+patch=1,EE,D0C28090,extended,0000F803
+patch=1,EE,20C280A8,extended,1000FFE7
+
+//Legend Edit Unlock Ability
+patch=1,EE,D0C0F5D0,extended,0000F802
+patch=1,EE,20C0F598,extended,10000007
+patch=1,EE,D0C0F754,extended,0000F802
+patch=1,EE,20C0F714,extended,10000008
+patch=1,EE,D0C0FA6C,extended,0000005D
+patch=1,EE,20C0FA6C,extended,10000007
+patch=1,EE,D0C2796C,extended,0000F802
+patch=1,EE,20C2793C,extended,10000006
+patch=1,EE,D0C27BD0,extended,0000F802
+patch=1,EE,20C27B9C,extended,10000006
+patch=1,EE,D0C28008,extended,00000034
+patch=1,EE,20C28008,extended,00000000
+
+//WE-SHOP 99999 WEN
+patch=1,EE,218D7FCC,extended,0001869F
+
+//All Cup Gallery
+patch=1,EE,218D7FB8,extended,FFFFFFFF
+
+//Become a Legend
+//Abilities Points 99999
+patch=1,EE,E0022494,extended,00BB3172
+patch=1,EE,20A21754,extended,0001869F
+patch=1,EE,20A21758,extended,0001869F
+
+//Special Skill Points 99
+patch=1,EE,D0BB3172,extended,00002494
+patch=1,EE,20A21764,extended,00000063
+
+//Become a Legend Exp 99%
+patch=1,EE,D0AFA020,extended,00006166
+patch=1,EE,20B21E10,extended,08030880
+patch=1,EE,200C2200,extended,2401270F
+patch=1,EE,200C2204,extended,A4813154
+patch=1,EE,200C2208,extended,082C8786
+patch=1,EE,200C220C,extended,84873154
+
+//Master League 999999 Pts
+patch=1,EE,D0AFA020,extended,0000616D
+patch=1,EE,20829F00,extended,08030840
+patch=1,EE,200C2100,extended,3C01000F
+patch=1,EE,200C2104,extended,3421423F
+patch=1,EE,200C2108,extended,0820A7C3
+patch=1,EE,200C210C,extended,AC410034
+
+//Master League Exp 99%
+patch=1,EE,D0AFA020,extended,0000616D
+patch=1,EE,20B12DA0,extended,08030880
+patch=1,EE,200C2200,extended,2401270F
+patch=1,EE,200C2204,extended,A481D4D0
+patch=1,EE,200C2208,extended,082C4B6A
+patch=1,EE,200C220C,extended,8487D4D0

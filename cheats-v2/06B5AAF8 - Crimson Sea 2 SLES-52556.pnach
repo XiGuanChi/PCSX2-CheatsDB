@@ -1,0 +1,39 @@
+gametitle=Crimson Sea 2 SLES-52556
+//Infinite: Health
+patch=1,EE,1074F66A,extended,000000FA
+
+//Max: Health
+patch=1,EE,1074F668,extended,000000FA
+
+//Max: Origin Points
+patch=1,EE,1074F6C0,extended,0000270F
+
+//Vulcan: Power
+patch=1,EE,1074F6C0,extended,0000270F
+
+//Vulcan: Range
+patch=1,EE,1074F636,extended,00000004
+
+//Vulcan: Rapid
+patch=1,EE,1074F638,extended,00000004
+
+//Legion: Power
+patch=1,EE,1074F63E,extended,00000004
+
+//Legion: Range
+patch=1,EE,1074F642,extended,00000004
+
+//Legion: Rapid
+patch=1,EE,1074F646,extended,00000004
+
+//Kronos: 1st
+patch=1,EE,1074F648,extended,00000004
+
+//Kronos: 2nd
+patch=1,EE,1074F64E,extended,00000004
+
+//Kronos: 3rd
+patch=1,EE,1074F652,extended,00000004
+
+//Kronos: 4th
+patch=1,EE,1074F656,extended,00000004

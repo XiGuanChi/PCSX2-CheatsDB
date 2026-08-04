@@ -1,0 +1,24 @@
+gametitle=Disney's Pixar - Up SLUS-21864
+//Infinite Health
+patch=1,EE,007b6c49,extended,00000001
+
+//All Weapons
+patch=1,EE,00794d60,extended,00000001
+
+//Invincible
+patch=1,EE,00794d49,extended,00000001
+
+//Laser Unlimited
+patch=1,EE,00794d4a,extended,00000001
+
+//Alt.Laser Unlimited
+patch=1,EE,206c2034,extended,24020063
+
+//Player Weapons Unlimited
+patch=1,EE,00794d5f,extended,00000001
+
+//Freeze Cons
+patch=1,EE,00794d4b,extended,00000001
+
+//Infinite Vision
+patch=1,EE,00794d4c,extended,00000001

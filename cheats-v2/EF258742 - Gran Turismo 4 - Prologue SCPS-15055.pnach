@@ -1,0 +1,12 @@
+gametitle=Gran Turismo 4 - Prologue SCPS-15055
+//Press [R3] in scroll mode (normally) to TIME0
+patch=1,EE,0D6CE968,extended,1456EBA5
+patch=1,EE,1D6A72D8,extended,1456E7A5
+
+//Press [R3] in scroll mode (coffee break) to TIME 0
+patch=1,EE,0D69E278,extended,1456EBA5
+patch=1,EE,1D6A72E8,extended,1456E7A5
+
+//Press [R3] in arcade mode to TIME 0
+patch=1,EE,0D6CEB78,extended,1456EBA5
+patch=1,EE,1D6A7B30,extended,1456E7A5

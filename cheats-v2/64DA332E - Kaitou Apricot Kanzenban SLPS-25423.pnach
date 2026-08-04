@@ -1,0 +1,5 @@
+gametitle=Kaitou Apricot Kanzenban SLPS-25423
+//New Game = Debug Menu
+patch=1,EE,205359E4,extended,07808910
+patch=1,EE,205359E8,extended,808A1000
+patch=1,EE,205359EC,extended,8B10001E

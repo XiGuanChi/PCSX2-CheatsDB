@@ -1,0 +1,9 @@
+gametitle=Pitfall - The Lost Expedition SLES-51690
+//Infinite Health
+patch=1,EE,20EB5388,extended,00000005
+
+//Enable Lost Caverns
+patch=1,EE,2055C28C,extended,00000001
+
+//Enable Pitfall!
+patch=1,EE,2055C288,extended,00000001

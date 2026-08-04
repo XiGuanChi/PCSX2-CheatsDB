@@ -1,0 +1,23 @@
+gametitle=Godzilla - Save the Earth SLUS-20809
+//Infinite Health Player 1
+patch=1,EE,206E57E8,extended,3F800000
+
+//Unlock All Gallery Pictures
+patch=1,EE,406A6B30,extended,001B0001
+patch=1,EE,00000000,extended,00000000
+
+//Unlock Godzilla Final Wars Gallery Pictures
+patch=1,EE,406A6B9D,extended,000D0001
+patch=1,EE,00000000,extended,00000000
+
+//Unlock All Monsters
+patch=1,EE,406A67D0,extended,0012000C
+patch=1,EE,00000000,extended,00000000
+
+//Unlock All Monsters Packages
+patch=1,EE,406A6794,extended,00030001
+patch=1,EE,00000000,extended,00000000
+
+//All Cities Purchased
+patch=1,EE,406A6740,extended,00150001
+patch=1,EE,5179A4D1,extended,00000000

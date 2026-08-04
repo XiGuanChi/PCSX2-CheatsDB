@@ -1,0 +1,6 @@
+gametitle=Barbarian SLES-50972
+//Dumb AI
+patch=1,EE,2013DFE4,extended,00000000
+
+//Infinite AP
+patch=1,EE,0049AE8D,extended,00000001

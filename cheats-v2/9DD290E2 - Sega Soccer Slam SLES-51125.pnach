@@ -1,0 +1,24 @@
+gametitle=Sega Soccer Slam SLES-51125
+//Infinite Turbo (All Players)
+patch=1,EE,2025F580,extended,00000000
+
+//Home Team Scores 20
+patch=0,EE,21D3B464,extended,00000014
+
+//Home Team Scores 0
+patch=0,EE,21D3B464,extended,00000000
+
+//Away Team Scores 20
+patch=0,EE,21D3B468,extended,00000014
+
+//Away Team Scores 0
+patch=0,EE,21D3B468,extended,00000000
+
+//Unlock All Characters
+patch=1,EE,202B6A9C,extended,24020001
+
+//Unlock All Stadiums
+patch=1,EE,2028D364,extended,24020001
+
+//Unlock All Teams
+patch=1,EE,202B69E4,extended,24020001

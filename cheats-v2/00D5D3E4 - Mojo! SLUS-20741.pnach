@@ -1,0 +1,26 @@
+gametitle=Mojo! SLUS-20741
+//Always Low Time 
+patch=1,EE,20262A70,extended,AF80843C
+
+//Infinite Health 
+patch=1,EE,20260410,extended,03E00008
+patch=1,EE,20260414,extended,00000000
+
+//Infinite Turbo
+patch=1,EE,20260560,extended,03E00008
+patch=1,EE,20260564,extended,00000000
+
+//Quickly Get All Blue Blocks 
+patch=1,EE,20275D84,extended,24020000
+
+//Quickly Get All Green Blocks
+patch=1,EE,20275D70,extended,24020000
+
+//Quickly Get All Mojo Blocks 
+patch=1,EE,20275DC0,extended,24030000
+
+//Quickly Get All Red Blocks 
+patch=1,EE,20275D60,extended,24020000
+
+//Quickly Get All Yellow Blocks
+patch=1,EE,20275D98,extended,24020000

@@ -1,0 +1,10 @@
+gametitle=Sub Rebellion SLUS-20548
+//Infinite Decoy's
+patch=1,EE,002556EC,extended,00000009
+
+//Infinite Shield
+patch=1,EE,2016A5A8,extended,240207D0
+patch=1,EE,2016A5AC,extended,AFC200FC
+
+//Mission 21 Unlocked
+patch=1,EE,00255721,extended,00000001

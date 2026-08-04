@@ -1,0 +1,11 @@
+gametitle=Simple 2000 Ultimate Series Vol.26 - Love  Smash! 5.1: Tennis Robo no Gyakushuu SLPM-62635
+//Score only 1P
+patch=1,EE,20118E60,extended,24050000
+
+//Story mode: Clear in 1 stage
+patch=1,EE,20165ED0,extended,2402000A
+
+//Bonus fully open
+patch=1,EE,201423D4,extended,00000000
+patch=1,EE,201424D0,extended,00000000
+patch=1,EE,201424E8,extended,00000000

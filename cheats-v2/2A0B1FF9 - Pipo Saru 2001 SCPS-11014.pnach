@@ -1,0 +1,52 @@
+gametitle=Pipo Saru 2001 SCPS-11014
+//Not enough people left
+patch=1,EE,0096F9F4,extended,00000063
+
+//Clear with just one pair of pants Please do not use in the final stage.
+patch=1,EE,1096F2E8,extended,00000001
+
+//EXPERT World Cup selectable All stages selectable (normal)
+patch=1,EE,0096F9FC,extended,00000001
+
+//Monkey Nami course
+patch=1,EE,0096FAC4,extended,00000030
+patch=1,EE,0096FB4C,extended,00000014
+patch=1,EE,0096FBD4,extended,00000014
+patch=1,EE,0096FCE4,extended,00000054
+patch=1,EE,0096FD6C,extended,00000090
+patch=1,EE,00970014,extended,00000014
+patch=1,EE,0097009C,extended,00000014
+patch=1,EE,00970234,extended,00000054
+patch=1,EE,009702BC,extended,00000090
+
+//Human Nami course
+patch=1,EE,00970124,extended,00000014
+patch=1,EE,00970564,extended,00000034
+patch=1,EE,009705EC,extended,00000014
+patch=1,EE,00970674,extended,00000014
+patch=1,EE,00970784,extended,00000054
+patch=1,EE,0097080C,extended,00000094
+patch=1,EE,00970AB4,extended,00000014
+patch=1,EE,00970B3C,extended,00000014
+patch=1,EE,00970BC4,extended,00000014
+patch=1,EE,00970CD4,extended,00000054
+patch=1,EE,00970D5C,extended,00000094
+patch=1,EE,00971004,extended,00000014
+patch=1,EE,0097108C,extended,00000014
+
+//Hakase Nami course
+patch=1,EE,0096FC5C,extended,00000010
+patch=1,EE,009701AC,extended,00000010
+patch=1,EE,009706FC,extended,00000010
+patch=1,EE,00970C4C,extended,00000010
+patch=1,EE,00971114,extended,00000034
+patch=1,EE,0097119C,extended,00000010
+patch=1,EE,00971224,extended,00000050
+patch=1,EE,009712AC,extended,00000080
+
+//Spector Nami course
+patch=1,EE,00971554,extended,00000034
+patch=1,EE,009715DC,extended,00000014
+patch=1,EE,00971664,extended,00000010
+patch=1,EE,009716EC,extended,00000010
+patch=1,EE,00971774,extended,00000010

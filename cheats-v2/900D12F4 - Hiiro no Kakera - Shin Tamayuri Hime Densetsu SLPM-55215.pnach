@@ -1,0 +1,26 @@
+gametitle=Hiiro no Kakera - Shin Tamayuri Hime Densetsu SLPM-55215
+//Unlock Gallery
+patch=1,EE,20145AE8,extended,24010001
+patch=1,EE,20145AEC,extended,A0410000
+
+//Unlock Movies
+patch=1,EE,20191B30,extended,24050001
+patch=1,EE,20191B38,extended,0C054FC0
+
+//Max favorability Onizaki Katanashin
+patch=1,EE,10FE9AB4,extended,0000000A
+
+//Max favorability Serpent Ryo
+patch=1,EE,10FE9ACA,extended,0000000A
+
+//Max favorability Kitsune Leu
+patch=1,EE,10FE9AE0,extended,0000000A
+
+//Max favorability Karasuto Hayao
+patch=1,EE,10FE9AF6,extended,0000000A
+
+//Max favorability Inutani Shiro
+patch=1,EE,10FE9B0C,extended,0000000A
+
+//Max favorability Dog Commandment Hibiki
+patch=1,EE,10FE9B22,extended,0000000A

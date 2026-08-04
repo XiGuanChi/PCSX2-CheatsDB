@@ -1,0 +1,8 @@
+gametitle=Madden NFL 2002 SLUS-20263
+//Always 4th Down
+patch=1,EE,104F6440,extended,00000004
+
+//Infinite Tokens
+patch=1,EE,11E6C278,extended,0000FFFF
+
+

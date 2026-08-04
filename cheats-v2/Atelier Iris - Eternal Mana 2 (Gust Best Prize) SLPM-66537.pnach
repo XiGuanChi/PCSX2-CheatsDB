@@ -1,0 +1,7 @@
+gametitle=Atelier Iris - Eternal Mana 2 SLPM-65985
+//Money in MAX
+patch=1,EE,20F690B8,extended,000F423F
+
+//Does not decrease skill Wali point
+patch=1,EE,202379E8,extended,24040001
+patch=1,EE,2023996C,extended,00000000

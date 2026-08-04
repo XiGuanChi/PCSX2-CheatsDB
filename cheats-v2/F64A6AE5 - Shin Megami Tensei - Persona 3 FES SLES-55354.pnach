@@ -1,0 +1,116 @@
+gametitle=Shin Megami Tensei - Persona 3 FES SLES-55354
+//Max Cash
+patch=1,EE,2083CA5C,extended,00989680
+
+//Main Character Infinite Health
+patch=1,EE,2016DC44,extended,240203E7
+patch=1,EE,2016DC48,extended,A4820008
+
+//Support Characters Infinite Health
+patch=1,EE,2016DC7C,extended,240203E7
+patch=1,EE,2016DC80,extended,A4820008
+
+//Hero MaxInf Current HP/SP
+patch=1,EE,208385AC,extended,03E703E7
+//Academics Stats Max
+patch=1,EE,108385E0,extended,000003E7
+//Charm Stats Max
+patch=1,EE,108385E2,extended,000003E7
+//Courage Stats Max
+patch=1,EE,108385E4,extended,000003E7
+
+//Yukari MaxInf Current HP/SP
+patch=1,EE,2083639C,extended,03E703E7
+//Yukari Max Stats
+patch=1,EE,108363F6,extended,000003E7
+patch=1,EE,108363F8,extended,000003E7
+patch=1,EE,1083640E,extended,000003E7
+patch=1,EE,10836424,extended,000003E7
+
+//Aigis MaxInf Current HP/SP
+patch=1,EE,20836700,extended,03E703E7
+//Aigis Max Stats
+patch=1,EE,1083675A,extended,000003E7
+patch=1,EE,1083675C,extended,000003E7
+patch=1,EE,10836772,extended,000003E7
+patch=1,EE,10836788,extended,000003E7
+//Aigis Persona Max Stats
+patch=1,EE,208367EC,extended,63636363
+patch=1,EE,008367F0,extended,00000063
+//Mitsuru Codes
+//Mitsuru MaxInf Current HP/SP
+patch=1,EE,20836A64,extended,03E703E7
+//Mitsuru Max Stats
+patch=1,EE,10836ABE,extended,000003E7
+patch=1,EE,10836AC0,extended,000003E7
+patch=1,EE,10836AD6,extended,000003E7
+patch=1,EE,10836AEC,extended,000003E7
+//Mitsuru Persona Max Stats
+patch=1,EE,20836B50,extended,63636363
+patch=1,EE,00836B54,extended,00000063
+//Junpei Codes
+//Junpei MaxInf Current HP/SP
+patch=1,EE,20836DC8,extended,03E703E7
+//Junpei Max Stats
+patch=1,EE,10836E22,extended,000003E7
+patch=1,EE,10836E24,extended,000003E7
+patch=1,EE,10836E3A,extended,000003E7
+patch=1,EE,10836E50,extended,000003E7
+//Persona Max Stats
+patch=1,EE,20836EB4,extended,63636363
+patch=1,EE,00836EB8,extended,00000063
+//Fuuka Codes
+//Fuuka MaxInf Current HP/SP
+patch=1,EE,2083712C,extended,03E703E7
+//Fuuka Max Stats
+patch=1,EE,10837186,extended,000003E7
+patch=1,EE,10837188,extended,000003E7
+patch=1,EE,1083719E,extended,000003E7
+patch=1,EE,108371B4,extended,000003E7
+//Fuuka Persona Max Stats
+patch=1,EE,20837218,extended,63636363
+patch=1,EE,0083721C,extended,00000063
+//Akihiko Codes
+//Akihiko MaxInf Current HP/SP
+patch=1,EE,20837490,extended,03E703E7
+//Akihiko Max Stats
+patch=1,EE,108374EA,extended,000003E7
+patch=1,EE,108374EC,extended,000003E7
+patch=1,EE,10837502,extended,000003E7
+patch=1,EE,10837518,extended,000003E7
+//Akihiko Persona Max Stats
+patch=1,EE,2083757C,extended,63636363
+patch=1,EE,00837580,extended,00000063
+//Ken Codes
+//Ken MaxInf Current HP/SP
+patch=1,EE,208377F4,extended,03E703E7
+//Ken Max Stats
+patch=1,EE,1083784E,extended,000003E7
+patch=1,EE,10837850,extended,000003E7
+patch=1,EE,10837866,extended,000003E7
+patch=1,EE,1083787C,extended,000003E7
+//Ken Persona Max Stats
+patch=1,EE,208378E0,extended,63636363
+patch=1,EE,008378E4,extended,00000063
+//Metis Codes (Shinjiro Codes in Journey)
+//Metis MaxInf Current HP/SP
+patch=1,EE,20837B58,extended,03E703E7
+//Metis Max Stats
+patch=1,EE,10837BB2,extended,000003E7
+patch=1,EE,10837BB4,extended,000003E7
+patch=1,EE,10837BCA,extended,000003E7
+patch=1,EE,10837BE0,extended,000003E7
+//Metis Persona Max Stats
+patch=1,EE,20837C44,extended,63636363
+patch=1,EE,00837C48,extended,00000063
+//Koromaru Codes
+//Koromaru MaxInf Current HP/SP
+patch=1,EE,20837EBC,extended,03E703E7
+//Koromaru Max Stats
+patch=1,EE,10837F16,extended,000003E7
+patch=1,EE,10837F18,extended,000003E7
+patch=1,EE,10837F2E,extended,000003E7
+patch=1,EE,10837F44,extended,000003E7
+//Koromaru Persona Max Stats
+patch=1,EE,20837FA8,extended,63636363
+patch=1,EE,00837FAC,extended,00000063

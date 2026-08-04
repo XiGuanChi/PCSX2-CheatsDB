@@ -1,0 +1,18 @@
+gametitle=S.L.A.I. - Steel Lancer Arena International SLPM-65791
+//Gold 99.999999 CR
+patch=1,EE,20654CC0,extended,05F5E0FF
+
+//Necessity
+patch=1,EE,20270098,extended,3C04000F
+patch=1,EE,200F6010,extended,6F726463
+patch=1,EE,200F6014,extended,5C3A306D
+patch=1,EE,200F6018,extended,4E43544E
+patch=1,EE,200F601C,extended,4F4D5C46
+patch=1,EE,200F6020,extended,454C5544
+patch=1,EE,200F6024,extended,4F495C53
+patch=1,EE,200F6028,extended,33505250
+patch=1,EE,200F602C,extended,492E3030
+patch=1,EE,200F6030,extended,313B474D
+
+//With money in hand fluctuation maximum
+patch=1,EE,20258170,extended,24C20000

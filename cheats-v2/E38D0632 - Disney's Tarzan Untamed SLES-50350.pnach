@@ -1,0 +1,48 @@
+gametitle=Disney's Tarzan Untamed SLES-50350
+//Inf Lives - Story Mode
+patch=1,EE,10FB7590,extended,00000009
+
+//No Damage - Raft
+patch=1,EE,2028C840,extended,03E00008
+patch=1,EE,2028C844,extended,00000000
+
+//No Damage - Water Ski
+patch=1,EE,202910B0,extended,03E00008
+patch=1,EE,202910B4,extended,00000000
+
+//No Damage - Jungles
+patch=1,EE,202B4310,extended,03E00008
+patch=1,EE,202B4314,extended,00000000
+
+//Crocodile Clash
+patch=1,EE,00F3FBD8,extended,00000001
+
+//Elephant Graveyard
+patch=1,EE,00F3F758,extended,00000001
+
+//Hang-sliding
+patch=1,EE,00F3FC98,extended,00000001
+
+//Hunter's Trail
+patch=1,EE,00F3FC38,extended,00000001
+
+//In Search Of Porter
+patch=1,EE,00F3FB18,extended,00000001
+
+//Into The Caverns
+patch=1,EE,00F3FAF8,extended,00000001
+
+//Skiing The Swamp
+patch=1,EE,00F3FBF8,extended,00000001
+
+//Subterranean Search
+patch=1,EE,00F3FC78,extended,00000001
+
+//Surf For Terk
+patch=1,EE,00F3FC18,extended,00000001
+
+//Tarzan Vs Wolff
+patch=1,EE,00F3FC58,extended,00000001
+
+//Underground Rapids
+patch=1,EE,00F3FBB8,extended,00000001

@@ -1,0 +1,12 @@
+gametitle=Guitar Hero III - Legends of Rock SLPS-25840-25890
+//P1 Star Power Meter MAX
+patch=1,EE,20A85D90,extended,44FA0000
+
+//P1 Always in the Green Rock Meter
+patch=1,EE,20A862B4,extended,40000000
+
+//Never Pass Mid Yellow CPU
+patch=1,EE,20A6B834,extended,3F800000
+
+//lock meter will not decrease
+patch=1,EE,202C78B8,extended,00000000

@@ -1,0 +1,22 @@
+gametitle=Samurai Warriors - Xtreme Legends  SLES-53002
+//9999 Kills
+patch=1,EE,1052CFB0,extended,0000270F
+
+//infinite Power Up Time
+patch=1,EE,20144a9c,extended,24630000
+
+//infinite Musou
+patch=1,EE,201767c4,extended,84410276
+patch=1,EE,201767c8,extended,00010900
+patch=1,EE,201767cc,extended,a4410278
+
+
+//infinite Energie
+patch=1,EE,201767c4,extended,84410270
+patch=1,EE,201767c8,extended,00010900
+patch=1,EE,201767cc,extended,a4410272
+
+//all Items
+patch=1,EE,10500c4e,extended,0000ffff
+patch=1,EE,10500c50,extended,0000ffff
+patch=1,EE,00500c52,extended,0000000f

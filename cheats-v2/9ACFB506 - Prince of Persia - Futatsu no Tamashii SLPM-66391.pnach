@@ -1,0 +1,15 @@
+gametitle=Prince of Persia - Futatsu no Tamashii SLPM-66391
+//Infinite Health
+patch=1,EE,20EB7CE0,extended,0000007D
+
+//Infinite Sands of Time
+patch=1,EE,20326B64,extended,00000006
+
+//Infinite Sand Credits
+patch=1,EE,20A997F4,extended,00002710
+
+//Blow death (including the boss)
+patch=1,EE,201FCDA4,extended,24020000
+
+//Movie fully open
+patch=1,EE,20ABBBF4,extended,FFFFFFFF

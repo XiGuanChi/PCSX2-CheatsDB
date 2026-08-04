@@ -1,0 +1,10 @@
+gametitle=Enjoy Golf! SLPS-25517
+//Character course items fully open
+patch=1,EE,1075647C,extended,00001FFF
+patch=1,EE,0075647F,extended,000000C0
+patch=1,EE,00756480,extended,0000001F
+patch=1,EE,00756491,extended,000000FF
+patch=1,EE,10756492,extended,0000FFFF
+patch=1,EE,20756494,extended,FFFFFFFF
+patch=1,EE,20756498,extended,FFFFFFFF
+patch=1,EE,1075649C,extended,0000FFFF

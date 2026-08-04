@@ -1,0 +1,10 @@
+gametitle=Cricket 07 SLES-54396
+//Team 1: 999/0 (Press Select+Up)
+patch=1,EE,E002FFEE,extended,00834D82
+patch=1,EE,207AAFEC,extended,000003E7
+patch=1,EE,207AB020,extended,00000000
+
+//Team 2: 999/0 (Press Select+Down)
+patch=1,EE,E002FFBE,extended,00834D82
+patch=1,EE,207AAFEC,extended,03E70000
+patch=1,EE,207AB020,extended,00000000

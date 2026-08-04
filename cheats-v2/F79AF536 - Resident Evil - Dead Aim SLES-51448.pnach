@@ -1,0 +1,21 @@
+gametitle=Resident Evil - Dead Aim SLES-51448
+//Infinite Time Don't use this code in the 2nd battle with Morpheus
+patch=1,EE,2022535C,extended,24430000
+
+//Bruce McGivern Infinite Health
+patch=1,EE,202DEA94,extended,00000000
+
+//Bruce McGivern Have All Weapons
+patch=1,EE,202DEA98,extended,000000FF
+
+//Bruce McGivern Infinite Handgun Ammo
+patch=1,EE,202DEADC,extended,0000000F
+
+//Fong Ling Infinite Health
+patch=1,EE,202DEB08,extended,00000000
+
+//Fong Ling Have All Weapons
+patch=1,EE,202DEB0C,extended,000000FF
+
+//Fong Ling Infinite Handgun Ammo
+patch=1,EE,202DEB50,extended,0000000F

@@ -1,0 +1,17 @@
+gametitle=Killer 7 SLUS-21154
+//Infinite Health
+patch=1,EE,20207174,extended,00000000
+
+//Never Reload
+patch=1,EE,201FC6A4,extended,24420000
+
+//Max Serum
+patch=1,EE,1067FD96,extended,0000270F
+
+//All Characters Available
+patch=1,EE,1061C870,extended,00000FFF
+patch=1,EE,1061C874,extended,0000FFFF
+
+//Team Members Always Alive
+patch=1,EE,2061C868,extended,00000000
+patch=1,EE,2061C86C,extended,FFFFFFFF

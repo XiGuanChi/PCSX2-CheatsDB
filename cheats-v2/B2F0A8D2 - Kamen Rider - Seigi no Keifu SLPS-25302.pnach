@@ -1,0 +1,20 @@
+gametitle=Kamen Rider - Seigi no Keifu SLPS-25302
+//Infinite HP (Player)
+patch=1,EE,1044BAE4,extended,000001C2
+
+//Infinite HP (Bike game)
+patch=1,EE,104613BC,extended,0000012C
+
+//Infinite Power
+patch=1,EE,1044E938,extended,00000064
+
+//Hint file fully open
+patch=1,EE,2041F3D4,extended,FFFFFFFF
+patch=1,EE,2041F3D8,extended,FFFFFFFF
+patch=1,EE,0041F3D3,extended,000000FF
+patch=1,EE,0041F3DC,extended,000000FF
+patch=1,EE,2041F25C,extended,FFFFFFFF
+
+//Unlock Museum
+patch=1,EE,2042C1A0,extended,FFFFFFFF
+patch=1,EE,2042C1A4,extended,FFFFFFFF

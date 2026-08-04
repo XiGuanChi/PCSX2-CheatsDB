@@ -1,0 +1,9 @@
+gametitle=Soccer Life 2 SLES-53846
+//Infinite Training Center Cash (Good for creating the best players)
+patch=1,EE,2053FC30,extended,1000FFFF
+
+//Big Monthly Wage for Player Slot 1
+patch=1,EE,2068E19C,extended,1000FFFF
+
+//No Agent Fee for Player Slot 1
+patch=1,EE,2084D118,extended,00000000

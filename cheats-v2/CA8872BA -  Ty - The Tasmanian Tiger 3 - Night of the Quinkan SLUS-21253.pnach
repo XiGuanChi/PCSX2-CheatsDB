@@ -1,0 +1,26 @@
+gametitle= Ty - The Tasmanian Tiger 3 - Night of the Quinkan SLUS-21253
+//Infinite Health
+patch=1,EE,2069653C,extended,00000064
+patch=1,EE,20696534,extended,00000064
+
+//Max Opals (Coins)
+patch=1,EE,2076E4B8,extended,0098967F
+
+//10 GooBoo Berries
+patch=1,EE,2076E5F0,extended,0000000A
+
+//40 Bilbies Saved
+patch=1,EE,2076E604,extended,00000028
+
+//120 Picture Frames
+patch=1,EE,2076E618,extended,00000078
+
+//30 Kromium Orbs
+patch=1,EE,2076E62C,extended,0000001E
+
+//6 Frill Spies Found
+patch=1,EE,2076E640,extended,00000006
+
+//Have All Missions Completed
+patch=1,EE,202C65A0,extended,24020001
+patch=1,EE,202C65A8,extended,AC8201B8

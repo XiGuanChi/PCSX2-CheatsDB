@@ -1,0 +1,45 @@
+gametitle=Jak and Daxter - The Lost Frontier SCES-55510
+//Have All Secrets On
+patch=1,EE,11E852E2,extended,00007FFF
+
+//Low Game Time
+patch=1,EE,21E87A84,extended,00000000
+
+//Max Precursor Orbs
+patch=1,EE,11E87A88,extended,00000999
+
+//Max Dark Eco
+patch=1,EE,11E87A8C,extended,000003E7
+
+//All Levels Have All Secrets On
+patch=1,EE,11E852E2,extended,00007FFF
+
+//Plane Damage Healed
+patch=1,EE,21E87B1C,extended,4CBEBC20
+
+//Infinite Health LEVEL 1
+patch=1,EE,D1E85BE8,extended,00000001
+patch=1,EE,21C88D50,extended,00000000
+
+//Infinite Ammo (All Weapons)
+patch=1,EE,E0040001,extended,01E85BE8
+patch=1,EE,21C7F350,extended,00000000
+patch=1,EE,21C779D4,extended,00000000
+patch=1,EE,21C711B8,extended,00000000
+patch=1,EE,21C6B674,extended,00000000
+
+//Unlock All Secrets (Need to unlock the names)
+patch=1,EE,41E87A84,extended,00060001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,11E87A9C,extended,00000202
+patch=1,EE,01E87A9E,extended,00000001
+
+//Level Select Aeropa 2.5 01 = Brink Island 1
+//02 = Brink Island 1.2 (Plane)
+//21 = Aeropa 2.1 (Ship Bay)
+//1E = Aeropa 2.2 (after ship bay)
+//22 = Aeropa 2.3 (Entering Danger Course)
+//04 = Aeropa 2.4 (Danger Course)
+//05 = Aeropa 2.5 (Dark Eco Daxter)
+patch=1,EE,01E85be8,extended,00000005
+

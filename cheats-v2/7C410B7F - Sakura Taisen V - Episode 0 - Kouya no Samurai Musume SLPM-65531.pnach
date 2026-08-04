@@ -1,0 +1,24 @@
+gametitle=Sakura Taisen V - Episode 0 - Kouya no Samurai Musume SLPM-65531
+//Infinite Max Health
+patch=1,EE,1064159A,extended,000003E7
+patch=1,EE,1064159C,extended,000003E7
+
+//Infinite Special Attack
+patch=1,EE,106415EC,extended,0000012C
+
+//Max Crush
+patch=1,EE,102CDE26,extended,000003E7
+patch=1,EE,102CDE28,extended,000003E7
+
+//Infinite SP
+patch=1,EE,201FBBC8,extended,00000000
+
+//invincible The fall death is not supported.
+patch=1,EE,2014FF34,extended,54000004
+patch=1,EE,2015CFA0,extended,54000004
+
+//Player strength LV.10
+patch=1,EE,002C5C22,extended,0000000A
+
+//Player speed LV.10
+patch=1,EE,002C5C20,extended,0000000A

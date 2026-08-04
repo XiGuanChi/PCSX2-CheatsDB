@@ -1,0 +1,31 @@
+gametitle=Fatal Frame III - The Tormented SLUS-21244
+//Infinite Health
+patch=1,EE,2032D018,extended,0000251C
+patch=1,EE,2032D368,extended,00001D4C
+patch=1,EE,2032D6B8,extended,000032C8
+
+//Infinite All Film
+patch=1,EE,201E9C20,extended,00000000
+
+//Total Score
+patch=1,EE,20325278,extended,000F423F
+patch=1,EE,20421058,extended,000F423F
+
+//Enable All Equipment
+patch=1,EE,203E52A4,extended,01010101
+patch=1,EE,203E52A8,extended,01010101
+patch=1,EE,003E52AC,extended,00000001
+
+//Have All Files
+patch=1,EE,00322ECF,extended,00000002
+patch=1,EE,40322ED0,extended,00050001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,00322EE5,extended,00000002
+
+//All Other 
+patch=1,EE,00322EE5,extended,00000002
+patch=1,EE,10322EE6,extended,00000202
+patch=1,EE,40322EE9,extended,000A0001
+patch=1,EE,02020202,extended,00000000
+patch=1,EE,10322F10,extended,00000202
+patch=1,EE,00322F12,extended,00000002

@@ -1,0 +1,33 @@
+gametitle=Super Monkey Ball Adventure Deluxe SLES-53037
+//999 Bananas
+patch=1,EE,2055E618,extended,000003E7
+
+//L1 + L2 For More Time
+patch=1,EE,D04EB542,extended,0000FAFF
+patch=1,EE,2054DBB4,extended,0E100E10
+
+//Unlock All Movies
+patch=1,EE,1055F92A,extended,0000FFFF
+
+//Unlock Story Levels
+patch=1,EE,40599C30,extended,00070001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Unlock Challenge Levels
+patch=1,EE,4054DDF0,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//Monkey Race DX 999 Points-Grand Prix
+patch=1,EE,10618670,extended,000003E7
+
+//Monkey Race DX Start On 5th Lap
+patch=1,EE,20615B74,extended,00040004
+
+//Monkey Target DX Start On 4th Lap
+patch=1,EE,006120E7,extended,00000003
+
+//Monkey Shot Infinite Health
+patch=1,EE,20671E28,extended,00000005
+
+//Monkey Dogfight Infinite Health
+patch=1,EE,2060549C,extended,00000064

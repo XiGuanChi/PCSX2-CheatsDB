@@ -1,0 +1,6 @@
+gametitle=Ice Age 2 - The Meltdown SLPM-66497
+//When you spin attack, your physical strength and attack MAX
+patch=1,EE,201BED8C,extended,3C014300
+patch=1,EE,201BEDA4,extended,E6010550
+patch=1,EE,201BED9C,extended,24170032
+patch=1,EE,201BEDA0,extended,AE1702A0

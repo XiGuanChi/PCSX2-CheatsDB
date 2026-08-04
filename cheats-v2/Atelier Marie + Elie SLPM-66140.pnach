@@ -1,0 +1,49 @@
+gametitle=Atelier Lilie Plus - Lilie no Atelier Plus - Salberg no Renkinjutsushi 3 SLPM-65116
+//PLUS VERSION
+//Have 99999 money
+patch=1,EE,205D95B0,extended,0001869F
+
+//Infinite & Max HP Lilie in Battle
+patch=1,EE,2064820C,extended,000003E7
+patch=1,EE,2064820E,extended,000003E7
+
+//Infinite & Max MP Lilie in Battle
+patch=1,EE,20648210,extended,000003E7
+patch=1,EE,20648212,extended,000003E7
+
+//FIRST VERSION CODES
+//Lilie - Currently HP
+patch=1,EE,106EE7B4,extended,00000000
+
+//Lilie - Maximum HP
+patch=1,EE,106EE7B6,extended,00000000
+
+//Lilie - Current MP
+patch=1,EE,106EE7B8,extended,00000000
+
+//Lilie - Maximum MP
+patch=1,EE,106EE7BA,extended,00000000
+
+//Adventurers LV
+patch=1,EE,106EE7BC,extended,00000000
+
+//Adventurers EX
+patch=1,EE,106EE7BE,extended,00000000
+
+//Physical Attack
+patch=1,EE,106EE7C0,extended,00000000
+
+//Physical Defense
+patch=1,EE,106EE7C2,extended,00000000
+
+//Magic Attack
+patch=1,EE,106EE7C4,extended,00000000
+
+//Magic defense force
+patch=1,EE,106EE7C6,extended,00000000
+
+//Rapidity
+patch=1,EE,106EE7C8,extended,00000000
+
+//Charge
+patch=1,EE,106EE7CA,extended,00000000

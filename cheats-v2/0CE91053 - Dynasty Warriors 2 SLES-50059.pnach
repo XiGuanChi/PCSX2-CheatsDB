@@ -1,0 +1,27 @@
+gametitle=Dynasty Warriors 2 SLES-50059
+//Inf Arrows
+patch=1,EE,0AA134A4,extended,00000063
+
+//Always 99 Combo
+patch=1,EE,0AA734A4,extended,00000063
+
+//Huge weapon range for Zhao Yun
+patch=1,EE,2ADB15A5,extended,FFFFFFFF
+
+//Horses cant move
+patch=1,EE,2AF73C38,extended,00000000
+
+//All Chars open
+patch=1,EE,0AEF4DD2,extended,00000001
+
+//All stages open
+patch=1,EE,0AE34DD2,extended,00000001
+
+//Music test open
+patch=1,EE,0ADF4DD2,extended,00000001
+
+//Pick force-free mode
+patch=1,EE,0AD74DD2,extended,00000001
+
+//Intro Edit open
+patch=1,EE,0AD34DD2,extended,00000001

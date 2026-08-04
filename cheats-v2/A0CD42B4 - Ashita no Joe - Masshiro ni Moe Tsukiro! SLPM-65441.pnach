@@ -1,0 +1,6 @@
+gametitle=Ashita no Joe - Masshiro ni Moe Tsukiro! SLPM-65441
+//Infinite Health
+patch=1,EE,002F3C38,extended,0000008C
+
+//Infinite deathblow gauge
+patch=1,EE,002F3C48,extended,0000008C

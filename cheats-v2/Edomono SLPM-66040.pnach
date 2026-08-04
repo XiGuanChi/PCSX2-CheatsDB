@@ -1,0 +1,24 @@
+gametitle=Edomono SLPM-66040
+//Fund 999999
+patch=1,EE,1D55E460,extended,144F25CC
+
+//Being defeated theater full opening
+patch=1,EE,1D55E438,extended,61DFB00C
+
+//Person list full opening
+patch=1,EE,1D55E520,extended,61DFB00C
+patch=1,EE,1D55E524,extended,61DFB00C
+patch=1,EE,1D55E428,extended,61DFB00C
+patch=1,EE,1D55E428,extended,61DFB00C
+
+//Item list full opening
+patch=1,EE,1D55E434,extended,14DFB00C
+
+//Building list full opening
+patch=1,EE,1D55E50C,extended,61DFB00C
+patch=1,EE,1D55E510,extended,61DFB00C
+patch=1,EE,1D55E514,extended,61DFB00C
+
+//When the member is verified in the outside conquering war, Lv30
+patch=1,EE,1CBC8AC4,extended,3853DC4D
+patch=1,EE,1CBC8AC8,extended,B8937EF1

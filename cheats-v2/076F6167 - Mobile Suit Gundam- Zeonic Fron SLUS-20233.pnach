@@ -1,0 +1,31 @@
+gametitle=Mobile Suit Gundam- Zeonic Fron SLUS-20233
+//Infinite Health
+patch=1,EE,2019991C,extended,24040004
+patch=1,EE,20199924,extended,24030004
+patch=1,EE,20199928,extended,A0430084
+
+//Infinite Ammo
+patch=1,EE,201964E4,extended,00000000
+
+//Always Play Mission Modifier 01-21
+patch=1,EE,00313CE8,extended,00000021
+
+//All Pilots Available
+patch=1,EE,20313F08,extended,01010101
+patch=1,EE,20313F0C,extended,01010101
+patch=1,EE,20313F10,extended,01010101
+patch=1,EE,20313F14,extended,01010101
+patch=1,EE,20313F18,extended,01010101
+
+//Unlock All Simulations
+patch=1,EE,20333334,extended,03030303
+patch=1,EE,20333338,extended,03030303
+patch=1,EE,2033333C,extended,03030303
+patch=1,EE,20333340,extended,03030303
+patch=1,EE,20333344,extended,03030303
+patch=1,EE,20333348,extended,03030303
+patch=1,EE,2033334C,extended,03030303
+patch=1,EE,20333350,extended,03030303
+patch=1,EE,20333354,extended,03030303
+patch=1,EE,20333358,extended,03030303
+

@@ -1,0 +1,46 @@
+gametitle=Monster Farm SLPS-25035
+//Max Money
+patch=1,EE,2037241C,extended,000F423F
+
+//Winning Max
+patch=1,EE,2037A194,extended,000F423F
+
+//Monster 1st body reinforcement (All 999)
+patch=1,EE,10377E70,extended,00002706
+patch=1,EE,10377E76,extended,00002706
+patch=1,EE,10377E74,extended,00002706
+patch=1,EE,10377E72,extended,00002706
+patch=1,EE,10377E78,extended,00002706
+
+//All Stats Max
+patch=1,EE,10379E58,extended,00002706
+patch=1,EE,10379E50,extended,00002706
+patch=1,EE,10379E54,extended,00002706
+patch=1,EE,10379E52,extended,00002706
+
+//Technical experience value Max
+patch=1,EE,10379EE4,extended,0000FFFF
+patch=1,EE,10379F2C,extended,0000FFFF
+patch=1,EE,10379F74,extended,0000FFFF
+patch=1,EE,10379FBC,extended,0000FFFF
+patch=1,EE,10379E56,extended,00002706
+
+//All accessories
+patch=1,EE,10377C0E,extended,0000FFFF
+patch=1,EE,40377C10,extended,00150001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,20377C4C,extended,0000007F
+
+//Parameter during game All 5000
+patch=1,EE,1036B3E0,extended,00001388
+patch=1,EE,1036B3E6,extended,00001388
+patch=1,EE,1036B3E2,extended,00001388
+patch=1,EE,1036B3E4,extended,00001388
+patch=1,EE,1036B3E8,extended,00001388
+
+//Parameter of the other party All 5000
+patch=1,EE,1036B6B8,extended,00001388
+patch=1,EE,1036B6BA,extended,00001388
+patch=1,EE,1036B6BC,extended,00001388
+patch=1,EE,1036B6BE,extended,00001388
+patch=1,EE,1036B6C0,extended,00001388

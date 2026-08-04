@@ -1,0 +1,36 @@
+gametitle= Naruto Shippuuden - Narutimate Accel SLPS-25768
+//Money 9999999
+patch=1,EE,20B43B04,extended,0098967F
+
+//Unlock All Characteres 
+patch=1,EE,40B442C0,extended,00130001
+patch=1,EE,0F0F0F0F,extended,00000000
+patch=1,EE,20B442B0,extended,0F0F0F0F
+patch=1,EE,20B442B4,extended,0F0F0F0F
+patch=1,EE,20B442B8,extended,0F0F0F0F
+
+//Items 99x 
+patch=1,EE,40B444A0,extended,00050001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,10B446F8,extended,00000063
+
+//Unlock All Movies 
+patch=1,EE,20B446D8,extended,10101010
+patch=1,EE,20B446DC,extended,10101010
+patch=1,EE,20B446DE,extended,10101010
+patch=1,EE,20B446E0,extended,10101010
+
+//Stop Timer Battle
+patch=1,EE,20303EA0,extended,00000000
+
+//Inf Attack Bar (RPG)
+patch=1,EE,D071C968,extended,000002D0
+patch=1,EE,2071C968,extended,E44002D0
+
+//Alt. Inf Attack Bar (RPG)
+patch=1,EE,D06D4988,extended,000002d0
+patch=1,EE,206D4990,extended,C48002d4
+
+//Inf HP (RPG)
+patch=1,EE,D06D4778,extended,000002c8
+patch=1,EE,206D4780,extended,C48002cc

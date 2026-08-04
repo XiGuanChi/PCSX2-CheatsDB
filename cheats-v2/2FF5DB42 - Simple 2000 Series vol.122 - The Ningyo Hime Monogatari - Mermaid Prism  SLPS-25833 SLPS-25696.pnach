@@ -1,0 +1,17 @@
+gametitle=Simple 2000 Series vol.122 - The Ningyo Hime Monogatari - Mermaid Prism  SLPS-25833 SLPS-25696 
+//Infinite HP
+patch=1,EE,204CF86C,extended,00000064
+patch=1,EE,204CF082,extended,000042C8
+
+//HP MAX
+patch=1,EE,204CC600,extended,42C80000
+
+//GALLERY will appear in the title menu
+patch=1,EE,004CA830,extended,00000001
+
+//Item fully open
+patch=1,EE,404CF156,extended,00190001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,404CF12F,extended,00070001
+patch=1,EE,01010101,extended,00000000
+patch=1,EE,004CF14B,extended,00000001

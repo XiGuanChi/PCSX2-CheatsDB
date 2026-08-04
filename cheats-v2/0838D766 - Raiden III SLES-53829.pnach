@@ -1,0 +1,6 @@
+gametitle=Raiden III SLES-53829
+//Infinite Lives P1
+patch=1,EE,002d7458,extended,00000007
+
+//Infinite Bombs P1
+patch=1,EE,002d74bc,extended,00000007

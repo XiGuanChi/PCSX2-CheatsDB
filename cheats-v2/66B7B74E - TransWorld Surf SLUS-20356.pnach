@@ -1,0 +1,20 @@
+gametitle=TransWorld Surf SLUS-20356
+//Unlock Super Kook2AACC91F 24050001 
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,AE0500F4
+patch=1,EE,2013362C,extended,0C030088
+
+//Paddle Faster
+patch=1,EE,20279810,extended,00000001
+
+//Perfect Floater Balance
+patch=1,EE,20279828,extended,00000001
+
+//Press L2+R2 To Wipeout! & Restart
+patch=1,EE,20279834,extended,00000001
+
+//Max Trick Meter
+patch=1,EE,20279840,extended,00000001
+
+//Complete All Goals Current Level
+patch=1,EE,20279870,extended,00000001

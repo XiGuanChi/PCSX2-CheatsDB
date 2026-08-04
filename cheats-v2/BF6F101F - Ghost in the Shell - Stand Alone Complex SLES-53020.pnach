@@ -1,0 +1,24 @@
+gametitle=Ghost in the Shell - Stand Alone Complex SLES-53020
+//Infinite Ammo
+patch=1,EE,20115CAC,extended,00000000
+
+//Infinite Health
+patch=1,EE,2016B12C,extended,3C0144BC
+patch=1,EE,2016B138,extended,AC610334
+patch=1,EE,2016B13C,extended,10000006
+patch=1,EE,2016B140,extended,AC610338
+
+//Infinite Armour
+patch=1,EE,200C200C,extended,8E01034C
+patch=1,EE,200C2010,extended,AE010348
+patch=1,EE,200C2018,extended,AE010344
+
+//Extra Hacking Time
+patch=1,EE,200FFF00,extended,3C014F00
+patch=1,EE,200FFF04,extended,44810000
+patch=1,EE,200FFF08,extended,AE210068
+patch=1,EE,200FFF0C,extended,03E00008
+patch=1,EE,2026979C,extended,0C03FFC0
+
+//In Hack Timer Frozen
+patch=1,EE,2013EE48,extended,00000000

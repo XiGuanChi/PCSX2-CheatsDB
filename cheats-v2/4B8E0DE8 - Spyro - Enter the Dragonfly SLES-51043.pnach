@@ -1,0 +1,24 @@
+gametitle=Spyro - Enter the Dragonfly SLES-51043
+//Infinite Lives
+patch=1,EE,2034BDEC,extended,00000063
+
+//Max Treasure
+patch=1,EE,2034BE3C,extended,000003E7
+
+//Have All Powers
+patch=1,EE,2034BF90,extended,FFFFFFFF
+
+//Infinite Time (Timed Missions)
+patch=1,EE,201BB610,extended,00000000
+patch=1,EE,201BB618,extended,00000000
+patch=1,EE,201BA748,extended,00000000
+
+//Unlock Warp To Level
+patch=1,EE,0A0E37CD,extended,00000001
+patch=1,EE,0A0D37CD,extended,00000001
+patch=1,EE,0A0C37CD,extended,00000001
+patch=1,EE,0A0337CD,extended,00000001
+patch=1,EE,0A0237CD,extended,00000001
+patch=1,EE,0A0137CD,extended,00000001
+patch=1,EE,0A0037CD,extended,00000001
+patch=1,EE,0A0737CD,extended,00000001

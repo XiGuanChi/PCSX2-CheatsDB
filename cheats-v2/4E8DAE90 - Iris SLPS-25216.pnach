@@ -1,0 +1,13 @@
+gametitle=Iris SLPS-25216
+//Unlock all extras
+patch=1,EE,201D1B4C,extended,00000001
+patch=1,EE,201D1BDC,extended,FFFFFFFF
+patch=1,EE,201D1C4C,extended,FFFFFFFF
+patch=1,EE,218CB560,extended,FFFFFFFF
+patch=1,EE,218CB564,extended,FFFFFFFF
+patch=1,EE,418C419C,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,418CB440,extended,00050001
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,418D4CB0,extended,027F0001
+patch=1,EE,FFFFFFFF,extended,00000000

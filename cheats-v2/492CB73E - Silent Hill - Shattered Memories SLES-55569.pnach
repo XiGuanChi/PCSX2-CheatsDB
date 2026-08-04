@@ -1,0 +1,13 @@
+gametitle=Silent Hill - Shattered Memories SLES-55569
+//Infinite Health
+patch=1,EE,2016B518,extended,C48117A8
+patch=1,EE,2016B530,extended,E48117A4
+
+//Enemies Don't Grab You
+patch=1,EE,1015CBF6,extended,00001000
+
+//Nosie Filter
+patch=1,EE,2047ADC0,extended,00000000
+
+//1 Hit Kill
+patch=1,EE,2016C1D0,extended,46140001

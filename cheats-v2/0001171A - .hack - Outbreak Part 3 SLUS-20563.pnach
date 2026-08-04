@@ -1,0 +1,32 @@
+gametitle=.hack - Outbreak Part 3 SLUS-20563
+//Max Money
+patch=1,EE,20A8A494,extended,0098967F
+
+//Infinite HP (All Characters-In Battle)
+patch=1,EE,E002301C,extended,00539948
+patch=1,EE,20539940,extended,86240074
+patch=1,EE,2053994C,extended,A6240070
+
+//Infinite SP (All Characters-In Battle)
+patch=1,EE,E002202D,extended,00539AB0
+patch=1,EE,20539AA8,extended,862A0076
+patch=1,EE,20539AC0,extended,A62A0072
+
+//Have All Party Members
+patch=1,EE,20A84CF0,extended,FFFFFFFF
+
+//Have All Servers Accessible2AB7A4D2 0000001F Have All Desktops
+patch=1,EE,20A84D08,extended,FFFFFFFF
+patch=1,EE,20A84D0C,extended,FFFFFFFF
+
+//Have All BGM's
+patch=1,EE,20A84D14,extended,FFFFFFFF
+patch=1,EE,20A84D18,extended,FFFFFFFF
+
+//Unlock All Movies
+patch=1,EE,20A84D20,extended,FFFFFFFF
+patch=1,EE,20A84D24,extended,FFFFFFFF
+patch=1,EE,20A84D28,extended,FFFFFFFF
+
+//Never Infected
+patch=1,EE,20A8923C,extended,00000000

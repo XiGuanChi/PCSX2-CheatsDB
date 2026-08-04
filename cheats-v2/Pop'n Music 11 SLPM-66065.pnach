@@ -1,0 +1,12 @@
+gametitle=Pop'n Music 11 SLPM-66065
+//Mileage maximum
+patch=1,EE,219B3D5C,extended,3B9AC9FF
+
+//Autoplay
+patch=1,EE,2024666C,extended,00000001
+
+//Automatic play 1P with SELECT + L2 button automatic ON 1P with SELECT + R2 button automatic OFF
+patch=1,EE,D19B3202,extended,0000FEFE
+patch=1,EE,2014CF28,extended,24030001
+patch=1,EE,D19B3202,extended,0000FDFE
+patch=1,EE,2014CF28,extended,8F83877C

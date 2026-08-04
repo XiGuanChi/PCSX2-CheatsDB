@@ -1,0 +1,10 @@
+gametitle=TBS All-Star Kansha Matsuri Vol .1 - Chou Gouka! Quiz Ketteiban SLPM-65261
+//Not reduced program mode right answer
+patch=1,EE,201953D8,extended,00000001
+patch=1,EE,201953E0,extended,00000001
+
+//Challenge mode clear time 0
+patch=1,EE,201954B8,extended,00000000
+
+//Correct number 500
+patch=1,EE,201954C0,extended,000001F4

@@ -1,0 +1,53 @@
+gametitle=RTX Red Rock SLUS-20491 SLES-51069
+//Infinite Health
+patch=1,EE,201E9B08,extended,3C01447A
+patch=1,EE,201E9B0C,extended,AE4105A4
+
+//Infinite Oxygen
+patch=1,EE,20152398,extended,00000000
+
+//Buying Items Doesnt Decrease Credit Limit
+patch=1,EE,201EF5E8,extended,00000000
+
+//Use Item Once For Max Item
+patch=1,EE,201DBF08,extended,240203E7
+
+//Infinite Time (Iris' World)
+patch=1,EE,202483F0,extended,00000000
+
+//Infinite Health (Iris' World)
+patch=1,EE,202494DC,extended,00000000
+
+//Unlock All Special Features
+patch=1,EE,205D53E0,extended,FFFFFFFF
+
+//Unlock Level Codes 
+//Level 01Phobos Station
+patch=1,EE,005A2ED0,extended,00000001
+
+//Level 02Thermal Research Outpost
+patch=1,EE,005A2ED1,extended,00000001
+
+//Level 03Kuztnetsov Diamond Mine
+patch=1,EE,005A2ED2,extended,00000001
+
+//Level 04Chryse Canal Complex
+patch=1,EE,005A2ED3,extended,00000001
+
+//Level 05Red Rock Township
+patch=1,EE,005A2ED4,extended,00000001
+
+//Level 06Xanthe Terra Power & Light
+patch=1,EE,005A2ED5,extended,00000001
+
+//Level 07Red Rock Sally Port Zulu
+patch=1,EE,005A2ED6,extended,00000001
+
+//Level 08Red Rock West Gate
+patch=1,EE,005A2ED7,extended,00000001
+
+//Level 09Aromatum Chaos
+patch=1,EE,005A2ED8,extended,00000001
+
+//Level 10Shalbatana Vallis
+patch=1,EE,005A2ED9,extended,00000001

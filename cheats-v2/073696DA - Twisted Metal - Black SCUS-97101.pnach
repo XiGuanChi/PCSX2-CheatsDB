@@ -1,0 +1,32 @@
+gametitle=Twisted Metal - Black SCUS-97101
+//Idiot AI
+patch=1,EE,20104818,extended,03E00008
+patch=1,EE,2010481C,extended,00000000
+
+//Infinite Ammo
+patch=1,EE,201BA050,extended,03E00008
+patch=1,EE,201BA054,extended,00000000
+
+//Infinite Turbo
+patch=1,EE,201AAA58,extended,03E00008
+patch=1,EE,201AAA5C,extended,00000000
+
+//Infinite Health (Most Levels)
+patch=1,EE,20257F44,extended,447A0000
+
+//Stop Enemies
+patch=1,EE,20104818,extended,03E00008
+patch=1,EE,2010481C,extended,00000000
+patch=1,EE,20105164,extended,00000000
+patch=1,EE,2010293C,extended,00000000
+patch=1,EE,20102940,extended,00000000
+
+//Unlock Level
+patch=1,EE,10425E94,extended,00000000
+patch=1,EE,10425E98,extended,00000000
+patch=1,EE,10425E9C,extended,00000000
+patch=1,EE,10425EC4,extended,00000000
+
+//Unlock All Characters
+patch=1,EE,40425E70,extended,00060001
+patch=1,EE,00000000,extended,00000000

@@ -1,0 +1,19 @@
+gametitle=Just Cause SLUS-21436
+//Infinite Health
+patch=1,EE,2010F940,extended,C5E00044
+patch=1,EE,2010F944,extended,E5E00048
+
+//Infinite Ammo
+patch=1,EE,203043D0,extended,25EF0000
+
+//Infinite Grenades
+patch=1,EE,2013E46C,extended,25EF0000
+
+//Max Rioja Cartel Relations
+patch=1,EE,1183C468,extended,00002710
+
+//Max Guerrilla Relations
+patch=1,EE,1183C478,extended,00002710
+
+//Unlock Dirt Bike/GP/Gyrocopter/Boat
+patch=1,EE,0183D668,extended,0000000F

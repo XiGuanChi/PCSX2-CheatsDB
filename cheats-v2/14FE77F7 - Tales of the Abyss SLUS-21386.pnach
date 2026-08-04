@@ -1,0 +1,59 @@
+gametitle=Tales of the Abyss SLUS-21386
+//Infinite Gald
+patch=1,EE,206D2C10,extended,05F5E0FF
+
+//Luke Infinite & Max HP
+patch=1,EE,206D2F0C,extended,0000270F
+patch=1,EE,206D2F54,extended,0000270F
+
+//Luke Infinite & Max TP
+patch=1,EE,206D2F10,extended,000003E7
+patch=1,EE,206D2F58,extended,000003E7
+
+//Tear Infinite & Max HP
+patch=1,EE,206D325C,extended,0000270F
+patch=1,EE,206D32A4,extended,0000270F
+
+//Tear Infinite & Max TP
+patch=1,EE,206D3260,extended,000003E7
+patch=1,EE,206D32A8,extended,000003E7
+
+//Jade Infinite & Max HP
+patch=1,EE,206D35AC,extended,0000270F
+patch=1,EE,206D35C4,extended,0000270F
+
+//Jade Infinite & Max TP
+patch=1,EE,206D35B0,extended,000003E7
+patch=1,EE,206D35C8,extended,000003E7
+
+//Anise Infinite & Max HP
+patch=1,EE,206D38FC,extended,0000270F
+patch=1,EE,206D3944,extended,0000270F
+
+//Anise Infinite & Max TP
+patch=1,EE,206D3900,extended,000003E7
+patch=1,EE,206D3948,extended,000003E7
+
+//Guy Infinite & Max HP
+patch=1,EE,206D3C4C,extended,0000270F
+patch=1,EE,206D3C94,extended,0000270F
+
+//Guy Infinite & Max TP
+patch=1,EE,206D3C50,extended,000003E7
+patch=1,EE,206D3C98,extended,000003E7
+
+//Natalia Infinite & Max HP
+patch=1,EE,206D3F9C,extended,0000270F
+patch=1,EE,206D3FE4,extended,0000270F
+
+//Natalia Infinite & Max TP
+patch=1,EE,206D3FA0,extended,000003E7
+patch=1,EE,206D3FE8,extended,000003E7
+
+//Asch Infinite & Max HP
+patch=1,EE,206D42EC,extended,0000270F
+patch=1,EE,206D4334,extended,0000270F
+
+//Asch Infinite & Max TP
+patch=1,EE,206D42F0,extended,000003E7
+patch=1,EE,206D4338,extended,000003E7

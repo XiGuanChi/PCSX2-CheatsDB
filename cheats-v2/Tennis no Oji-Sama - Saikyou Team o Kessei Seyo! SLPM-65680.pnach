@@ -1,0 +1,61 @@
+gametitle=Tennis no Oji-Sama - Saikyou Team o Kessei Seyo! SLPM-65680
+//practice level 2
+patch=1,EE,40593074,extended,000A0001
+patch=1,EE,00000002,extended,00000000
+
+//SS 1st person (leader) in status change
+//FTW
+patch=1,EE,105956E6,extended,000003E8
+
+//POW
+patch=1,EE,105956E8,extended,000003E8
+
+//TEC
+patch=1,EE,105956EA,extended,000003E8
+
+//STAs
+patch=1,EE,105956EC,extended,000003E8
+
+//MTL
+patch=1,EE,105956EE,extended,000003E8
+
+//All characters, all skills learned
+patch=1,EE,40593148,extended,0035002E
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,4059314C,extended,0035002E
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40593150,extended,0035002E
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40593154,extended,0035002E
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40593158,extended,0035002E
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,4059315C,extended,0035002E
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40593160,extended,0035002E
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40593140,extended,0035002E
+patch=1,EE,FFFFFFFF,extended,00000000
+patch=1,EE,40593144,extended,0035002E
+patch=1,EE,FFFFFFFF,extended,00000000
+
+//All characters, leader point 8
+patch=1,EE,405930D8,extended,0035002E
+patch=1,EE,00000008,extended,00000000
+
+//Friendship level 100
+//1st character (leader)
+//against the second
+patch=1,EE,005956D4,extended,00000064
+
+//against the third
+patch=1,EE,005956D6,extended,00000064
+
+//against the fourth
+patch=1,EE,005956D8,extended,00000064
+
+//for the fifth
+patch=1,EE,005956DA,extended,00000064
+
+//All Charcters
+patch=1,EE,205A0430,extended,FFFFFFFF

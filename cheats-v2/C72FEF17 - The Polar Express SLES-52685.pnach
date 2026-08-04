@@ -1,0 +1,15 @@
+gametitle=The Polar Express SLES-52685
+//19 Gold Coins
+patch=1,EE,207FE740,extended,00000013
+
+//Infinite Continues
+patch=1,EE,207FE764,extended,00000009
+
+//Invulnerable
+patch=1,EE,20113710,extended,00000000
+
+//Scrooge 1 hit kill
+patch=1,EE,2018D208,extended,00000000
+
+//Tennis challenge - 1 point to win or lose
+patch=1,EE,2017D054,extended,00000000

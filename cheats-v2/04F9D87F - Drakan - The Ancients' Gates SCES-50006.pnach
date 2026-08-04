@@ -1,0 +1,18 @@
+gametitle=Drakan - The Ancients' Gates SCES-50006
+//Infinite Health
+patch=1,EE,204FBB24,extended,739ACC45
+
+//Infinite Health Dragon
+patch=1,EE,002807e4,word,00402823
+
+//Infinite Health Rynn 
+patch=1,EE,00314ec0,word,00402823
+
+// Unlimited Breath Underwater
+patch=1,EE,0032ce5c,word,46000006
+
+//Maximum Cash
+patch=1,EE,204FBAE0,extended,7FFFFF45
+
+//Rapid Level Gain
+patch=1,EE,204FBAEC,extended,73C14750

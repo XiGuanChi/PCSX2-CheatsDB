@@ -1,0 +1,18 @@
+gametitle=Simple 2000 Series Vol. 18 - The Party Sugoroku SLPM-62272
+//1P Max money
+patch=1,EE,2017C290,extended,3B9AC9FF
+
+//Remaining turn & target operation 1P L2 + square remaining 2, R2 + square remaining 50
+patch=1,EE,D0178702,extended,00007EFF
+patch=1,EE,1017C1A6,extended,00000002
+patch=1,EE,D0178702,extended,00007DFF
+patch=1,EE,1017C1A6,extended,00000032
+
+//Museum (treasure) all appearance
+patch=1,EE,20176958,extended,FFFFFFFF
+patch=1,EE,2017695C,extended,FFFFFFFF
+patch=1,EE,20176960,extended,FFFFFFFF
+patch=1,EE,20176964,extended,FFFFFFFF
+patch=1,EE,20176968,extended,FFFFFFFF
+patch=1,EE,2017696C,extended,FFFFFFFF
+patch=1,EE,10176970,extended,000003FF

@@ -1,0 +1,15 @@
+gametitle=Legends of Wrestling SLES-50107
+//Infinite Health P1
+patch=1,EE,20740D64,extended,00000898
+patch=1,EE,20740D94,extended,00000064
+patch=1,EE,20740D98,extended,00000000
+patch=1,EE,20740D9C,extended,00000064
+
+//Max skill points
+patch=1,EE,10978EDE,extended,00000063
+
+//Max abilities points
+patch=1,EE,10978EE0,extended,00000063
+
+//Unlock wrestlers
+patch=1,EE,204766A8,extended,0001FFFF

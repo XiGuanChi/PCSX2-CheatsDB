@@ -1,0 +1,17 @@
+gametitle=Black Cat SLPM-66289
+//Infinite HP
+patch=1,EE,104B2634,extended,000003E7
+patch=1,EE,104B2638,extended,000003E7
+patch=1,EE,104B82A0,extended,000003E7
+patch=1,EE,104B8BEC,extended,000003E7
+
+//Start with 10 feather
+patch=1,EE,004B2644,extended,000000FF
+patch=1,EE,004B264C,extended,000000FF
+
+//Attack possession
+patch=1,EE,004B2654,extended,000000FF
+
+//Battle escape After pressing the L3 button
+patch=1,EE,D02A5F0A,extended,0000FFFD
+patch=1,EE,004B28BC,extended,000000FF

@@ -1,0 +1,34 @@
+gametitle=Pro Yakyuu Spirits 6 SLPM-55158
+//VP MAX
+patch=1,EE,21DA8C20,extended,000F423F
+
+//VP MAX alt
+patch=1,EE,208B588C,extended,0098967F
+
+//[Spirit mode, each point 9999]
+//[pitcher]
+patch=1,EE,10FF4278,extended,0000270F
+
+//[stamina]
+patch=1,EE,10FF427C,extended,0000270F
+
+//[mental]
+patch=1,EE,10FF4280,extended,0000270F
+
+//[Ball type]
+patch=1,EE,10FF4284,extended,0000270F
+
+//[meat]
+patch=1,EE,10FF4288,extended,0000270F
+
+//[power]
+patch=1,EE,10FF428C,extended,0000270F
+
+//[Running power]
+patch=1,EE,10FF4290,extended,0000270F
+
+//[Defensive power]
+patch=1,EE,10FF4294,extended,0000270F
+
+//[Spirits]
+patch=1,EE,10FF4298,extended,0000270F
