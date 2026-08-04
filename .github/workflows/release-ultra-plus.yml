@@ -221,13 +221,10 @@ jobs:
           count_patchesv1=$(find "patches-v1" -type f -name "*.pnach" 2>/dev/null | wc -l)
           count_patchesv2=$(find "patches-v2" -type f -name "*.pnach" 2>/dev/null | wc -l)
           count_patchesv3=$(find "patches-v3" -type f -name "*.pnach" 2>/dev/null | wc -l)
-
-          # ---- Count BIOS files (excluding specified extensions) ----
-          count_bios_ps1=$(find "Retro-Database/bios/PS1" -type f ! -iname "*.bin" ! -iname "*.rom" ! -iname "*.rom0" ! -iname "*.rom1" ! -iname "*.erom" ! -iname "*.mec" 2>/dev/null | wc -l)
-          count_bios_ps2=$(find "Retro-Database/bios/PS2" -type f ! -iname "*.bin" ! -iname "*.rom" ! -iname "*.rom0" ! -iname "*.rom1" ! -iname "*.erom" ! -iname "*.mec" 2>/dev/null | wc -l)
-
-          total=$((count_pcsx2 + count_cheatsv1 + count_cheatsv2 + count_cheatsv3 + count_cheatsv4 + count_cheatsv5 + count_patchesv1 + count_patchesv2 + count_patchesv3 + count_bios_ps1 + count_bios_ps2))
-
+          # ---- Added for Retro-Database (all files) ----
+          count_retro=$(find "Retro-Database" -type f 2>/dev/null | wc -l)
+          # -------------------------------------------------------
+          total=$((count_pcsx2 + count_cheatsv1 + count_cheatsv2 + count_cheatsv3 + count_cheatsv4 + count_cheatsv5 + count_patchesv1 + count_patchesv2 + count_patchesv3))
           echo "PCSX2 Patches : $count_pcsx2 .pnach files" >> changelog.txt
           echo "cheats-v1     : $count_cheatsv1 .pnach files" >> changelog.txt
           echo "cheats-v2     : $count_cheatsv2 .pnach files" >> changelog.txt
@@ -237,10 +234,13 @@ jobs:
           echo "patches-v1    : $count_patchesv1 .pnach files" >> changelog.txt
           echo "patches-v2    : $count_patchesv2 .pnach files" >> changelog.txt
           echo "patches-v3    : $count_patchesv3 .pnach files" >> changelog.txt
-          echo "BIOS PS1      : $count_bios_ps1 files (excluding .bin/.rom/.rom0/.rom1/.erom/.mec)" >> changelog.txt
-          echo "BIOS PS2      : $count_bios_ps2 files (excluding .bin/.rom/.rom0/.rom1/.erom/.mec)" >> changelog.txt
           echo "----------------------------------------" >> changelog.txt
-          echo "Total         : $total files" >> changelog.txt
+          echo "Total         : $total .pnach files" >> changelog.txt
+          # ---- Added statistics for new folders ----
+          echo "" >> changelog.txt
+          echo "BIOS PS1 & PS2 folders:" >> changelog.txt
+          echo "  Retro-Database    : $count_retro files (total)" >> changelog.txt
+          # ------------------------------------------
 
           # APK Information (only if available)
           if [ "${{ env.APK_AVAILABLE }}" = "true" ]; then
@@ -308,31 +308,22 @@ jobs:
           process_folder "patches-v2" "changelog-game.txt"
           process_folder "patches-v3" "changelog-game.txt"
 
-      # ===== 8. BUILD patches.zip (maximum compression) with new BIOS folders and exclusions =====
+      # ===== 8. BUILD patches.zip (maximum compression) =====
       - name: Build patches.zip
         run: |
-          # Build list of folders to include (only if they exist)
-          FOLDERS=""
-          for dir in "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" \
-                     "patches-v1" "patches-v2" "patches-v3" \
-                     "Retro-Database/bios/PS1" "Retro-Database/bios/PS2"; do
-            if [ -d "$dir" ]; then
-              FOLDERS="$FOLDERS \"$dir\""
-            fi
-          done
-
-          # Include changelog files and apk_info if exists
-          EXTRA_FILES="changelog.txt changelog-game.txt"
           if [ -f "apk_info.txt" ]; then
-            EXTRA_FILES="$EXTRA_FILES apk_info.txt"
+            7z a -tzip -mx=9 -mm=Deflate patches.zip \
+              "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" \
+              "patches-v1" "patches-v2" "patches-v3" \
+              "Retro-Database" \
+              changelog.txt changelog-game.txt apk_info.txt
+          else
+            7z a -tzip -mx=9 -mm=Deflate patches.zip \
+              "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" \
+              "patches-v1" "patches-v2" "patches-v3" \
+              "Retro-Database" \
+              changelog.txt changelog-game.txt
           fi
-
-          # Build 7z command with exclusion patterns for unwanted BIOS files
-          # Exclude: .bin, .BIN, .ROM, .ROM0, .ROM1, .EROM, .MEC (case-sensitive as specified)
-          7z a -tzip -mx=9 -mm=Deflate patches.zip \
-            $FOLDERS \
-            $EXTRA_FILES \
-            -x!*.bin -x!*.BIN -x!*.ROM -x!*.ROM0 -x!*.ROM1 -x!*.EROM -x!*.MEC
 
       # ===== 9. CREATE RELEASE AND UPLOAD ASSETS =====
       - name: Create GitHub release
