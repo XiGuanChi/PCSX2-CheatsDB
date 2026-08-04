@@ -1,0 +1,11 @@
+gametitle=The Getaway - Black Monday (PAL-M6) SCES-52758 09C3DF79
+
+[Remove Blackbars]
+author=PeterDelta
+description=Removes black bars in cutscenes.
+patch=1,EE,004B06C8,extended,00000000
+
+[50 FPS]
+author=Snake356
+description=Might need EE Overclock (130%).
+patch=1,EE,20252DF8,extended,24020001
