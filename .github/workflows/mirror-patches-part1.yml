@@ -1,0 +1,64 @@
+name: Mirror Patches (TheAdmiester)
+
+on:
+  workflow_dispatch:   # Allow manual triggering
+
+permissions:
+  contents: write     # Required to push to the destination repository
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          repository: TheAdmiester/PCSX2-Cheats
+          ref: main
+          path: source_repo
+          fetch-depth: 1
+
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: XiGuanChi/PCSX2-CheatsDB
+          ref: main
+          path: target_repo
+          fetch-depth: 1
+
+      - name: Sync only .pnach files into patches-v1 folder
+        run: |
+          # Ensure the destination directory exists
+          mkdir -p target_repo/patches-v1
+
+          # Sync only .pnach files, preserving directory structure
+          # --delete removes files in dest that are not .pnach (keeps it clean)
+          # --include='*/' includes all directories (so structure is preserved)
+          # --include='*.pnach' includes all .pnach files
+          # --exclude='*' excludes everything else (files)
+          # --exclude='.git' skips any .git folder that might be copied
+          rsync -av --delete \
+            --exclude='.git' \
+            --include='*/' \
+            --include='*.pnach' \
+            --exclude='*' \
+            source_repo/ target_repo/patches-v1/
+
+          # Remove any stray .git folder just in case
+          rm -rf target_repo/patches-v1/.git
+
+      - name: Commit and push if changes exist
+        run: |
+          cd target_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add patches-v1
+
+          # Check if there are any changes staged for commit
+          if git diff --cached --quiet; then
+            echo "No changes detected in .pnach files. Skipping commit."
+          else
+            git commit -m "Sync .pnach files from PCSX2-Cheats (commit ${{ github.sha }})"
+            git push origin main
+          fi
