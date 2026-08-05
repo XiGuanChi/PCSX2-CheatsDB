@@ -1,0 +1,84 @@
+gametitle=Shadow of the Colossus NTSC-U SCUS-97472
+
+// Shadow of the Colossus - Graphics/Visual Tweak Patches
+// Author: Google
+
+// ============================================================
+//  DISABLE SUN
+// ============================================================
+
+// [By manipulating the Setter function to assign value 0 via $v1 to the control address,
+//  which receives the 4-byte constant 0-value: 01286410 00000000]
+patch=1,EE,0119baa8,word,3C020128
+patch=1,EE,0119baac,word,24030000
+patch=1,EE,0119bab0,word,03E00008
+patch=1,EE,0119bab4,word,AC436410
+
+// [By manipulating the Getter function to assign value 0 to register $a0]
+patch=1,EE,0119ba50,word,24040000
+
+// [By setting the inconspicuous constant activator value from 1 to 0, and also setting
+//  the sun intensity value adder register $a2 to 0, to finally place both zeros
+//  (fake sum) into register $s0]
+patch=1,EE,01198c08,word,24100000
+
+// [Return early with no operation]
+patch=1,EE,0119ba48,word,03e00008
+patch=1,EE,0119ba4c,word,00000000
+
+// ============================================================
+//  DISABLE (LARGE PORTION OF) SUNLIGHT BEAMS
+// ============================================================
+
+// [Return 1]
+patch=1,EE,0123c200,word,03E00008
+patch=1,EE,0123c204,word,24020001
+
+// ============================================================
+//  NO DUST AROUND COLOSSI FEET
+// ============================================================
+
+// No Dust [Variant 2]
+patch=1,EE,01238fc0,word,03e00008
+patch=1,EE,01238fc4,word,00000000
+
+// No Dust [Variant 2] (alt.)
+patch=1,EE,01237ed4,word,0000302D
+
+// No Dust (main)
+patch=1,EE,01238cc0,word,03e00008
+patch=1,EE,01238cc4,word,00000000
+
+// No Dust (alt.)
+patch=1,EE,01237ddc,word,0000302D
+
+// ============================================================
+//  NO SHADOWS
+// ============================================================
+
+patch=1,EE,011976a0,word,03e00008
+patch=1,EE,011976a4,word,00000000
+
+// ============================================================
+//  ENHANCE BACKGROUND SHARPNESS
+// ============================================================
+
+patch=1,EE,011a6428,word,03e00008
+patch=1,EE,011a642c,word,00000000
+patch=1,EE,01185508,word,03e00008
+patch=1,EE,0118550c,word,00000000
+
+// ============================================================
+//  REMOVE BLACK BARS
+// ============================================================
+
+// [Assign value zero to registers $f0 and $f12 instead of the
+//  black-bar-causing value 0x3F800000 from address 0x01465aa8]
+patch=1,EE,0134634c,word,44800000
+patch=1,EE,013463ec,word,44806000
+
+// ============================================================
+//  MAXIMUM GRAPHICS BOOSTER (further enhances background sharpness)
+// ============================================================
+
+patch=1,EE,01182c7c,word,24100001
