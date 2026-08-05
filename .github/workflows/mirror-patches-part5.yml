@@ -13,7 +13,7 @@ jobs:
       - name: Checkout source repository
         uses: actions/checkout@v4
         with:
-          repository: Silentwarior112/PCSX2-Cheats
+          repository: Silentwarior112/PCSX2-patches
           ref: main
           path: source_repo
           fetch-depth: 1
