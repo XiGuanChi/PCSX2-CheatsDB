@@ -1,0 +1,116 @@
+gametitle=Gran Turismo 4 - Asia (SCAJ-30007)
+author=Silentwarior112
+
+[1st Letter fix]
+description=Uncheck "Enable VU0 recompiler (Micro Mode)" in Advanced tab.
+
+[Car paint strings fix]
+description=Fixes strings that have full width unicode when should be standard, and/or outright invisible text glyphs
+author=Silentwarior112
+
+// SpecDB String fix: Midget Cream
+patch=1,EE,20C55A1C,extended,6764694D // Midg
+patch=1,EE,20C55A20,extended,43207465 // et C
+patch=1,EE,20C55A24,extended,6D616572 // ream
+patch=1,EE,40C55A28,extended,00060001 // Blanking unused bytes
+patch=1,EE,00000000,extended,00000000
+
+// SpecDB String fix: Midget Green
+patch=1,EE,20C55A44,extended,6764694D // Midg
+patch=1,EE,20C55A48,extended,47207465 // et G
+patch=1,EE,20C55A4C,extended,6E656572 // reen
+patch=1,EE,40C55A50,extended,00060001 // Blanking unused bytes
+patch=1,EE,00000000,extended,00000000
+
+// SpecDB String fix: Light Blue Titan Metallic
+patch=1,EE,20C5A293,extended,61746954 // Tita
+patch=1,EE,20C5A297,extended,654D206E // n Me
+patch=1,EE,20C5A29B,extended,6C6C6174 // tall
+patch=1,EE,20C5A29F,extended,00006369 // ic
+patch=1,EE,40C5A2A3,extended,00050001 // Blanking unused bytes
+patch=1,EE,00000000,extended,00000000
+
+// SpecDB String fix: Alaskan White
+patch=1,EE,20C59AEC,extended,73616C41 // Alas
+patch=1,EE,20C59AF0,extended,206E616B // kan 
+patch=1,EE,20C59AF4,extended,74696857 // Whit
+patch=1,EE,20C59AF8,extended,00000065 // e
+patch=1,EE,40C59AFC,extended,00060001 // Blanking unused bytes
+patch=1,EE,00000000,extended,00000000
+
+// SpecDB String fix: Blue Metallic
+patch=1,EE,20C5A06E,extended,65756C42 // Blue
+patch=1,EE,20C5A072,extended,74654D20 //  Met
+patch=1,EE,20C5A076,extended,696C6C61 // alli
+patch=1,EE,20C5A07A,extended,00000063 // c   
+patch=1,EE,40C5A07E,extended,00060001 // Blanking unused bytes
+patch=1,EE,00000000,extended,00000000
+
+// SpecDB String fix: Tahitian Blue Metallic
+patch=1,EE,20C59A60,extended,69686154 // Tahi
+patch=1,EE,20C59A64,extended,6E616974 // tian
+patch=1,EE,20C59A68,extended,756C4220 //  Blu
+patch=1,EE,20C59A6C,extended,654D2065 // e Me
+patch=1,EE,20C59A70,extended,6C6C6174 // tall
+patch=1,EE,20C59A74,extended,00006369 // ic  
+patch=1,EE,40C59A78,extended,000B0001 // Blanking unused bytes
+patch=1,EE,00000000,extended,00000000
+
+// SpecDB String fix: Mine's Skyline Car name, this version is missing the dot symbol this car's name uses, so this switches it to use dashes.
+patch=1,EE,20C50317,extended,4E202D20 // " - N"
+patch=1,EE,20C5031B,extended,2D562031 // "1 V-"
+patch=1,EE,20C5031F,extended,63657053 // "Spec"
+patch=1,EE,20C50323,extended,33522820 // " (R3"
+patch=1,EE,20C50327,extended,60202934 // "4) `"
+patch=1,EE,20C5032B,extended,20203030 // "00  "
+
+[Full progressive scan]
+author=Silentwarior112
+description=Use `No interlacing`. 480p autoboot + Progressive menus
+patch=1,EE,0049AA2C,word,0000102D // 80A202C0
+patch=1,EE,00AB20F8,short,01 // 480p mode flag
+
+[Add GT4FP stiff cam]
+author=CookiePLMonster / Silentwarior112
+patch=1,EE,2037500C,extended,84E30000
+patch=1,EE,10375010,extended,0002
+patch=1,EE,10375020,extended,0004
+patch=1,EE,20375030,extended,84E30000
+
+patch=1,EE,10375040,extended,0004
+patch=1,EE,00375058,extended,40
+patch=1,EE,1037506A,extended,8442
+
+patch=1,EE,206186C8,extended,00010000
+patch=1,EE,206186CC,extended,00060014
+
+[GT3-like chase camera]
+author=CookiePLMonster / Silentwarior112
+description=Looser chase camera
+// Camera damper, default - 120.0
+// Higher values make the camera center quicker
+patch=1,EE,20695988,extended,41F00000 // 30.0
+// Camera max angle, default - 15.0
+// Higher values make the camera lean further to the sides
+patch=1,EE,20695990,extended,41200000 // 10.0
+
+[Trigger Sensitivity]
+author=CookiePLMonster / Silentwarior112
+description=100% trigger press for full Gas, Brake, Reverse, & E-Brake
+//Throttle
+patch=1,EE,204346B0,extended,00000000
+patch=1,EE,104346BC,extended,00000064
+//Brake
+patch=1,EE,20434710,extended,00000000
+patch=1,EE,1043471C,extended,00000064
+//E-Brake
+patch=1,EE,20434770,extended,00000000
+patch=1,EE,1043477C,extended,00000064
+//Reverse
+patch=1,EE,204347D0,extended,00000000
+patch=1,EE,104347DC,extended,00000064
+
+[10 Billion Credits]
+author=Silentwarior112
+patch=1,EE,20A8BB98,extended,3867B65E
+patch=1,EE,20A8BB9C,extended,7A726F72
