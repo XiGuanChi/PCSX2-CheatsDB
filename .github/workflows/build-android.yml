@@ -1,0 +1,93 @@
+name: Download Android APK from ARMSX2 and Release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  download-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+
+      # 1. Get the latest successful workflow run from ARMSX2
+      - name: Get latest successful workflow run from ARMSX2
+        id: get_run
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: runs } = await github.rest.actions.listWorkflowRuns({
+              owner: 'ARMSX2',
+              repo: 'ARMSX2',
+              workflow_id: 'build-all.yml',
+              status: 'success',
+              per_page: 1,
+              branch: 'master'
+            });
+            if (runs.workflow_runs.length === 0) {
+              core.setFailed('No successful runs found in ARMSX2');
+              return;
+            }
+            const run = runs.workflow_runs[0];
+            core.setOutput('run_id', run.id);
+            console.log('Found run ID:', run.id);
+
+      # 2. Get the Android artifact information
+      - name: Get Android artifact info
+        id: get_artifact
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: artifacts } = await github.rest.actions.listWorkflowRunArtifacts({
+              owner: 'ARMSX2',
+              repo: 'ARMSX2',
+              run_id: ${{ steps.get_run.outputs.run_id }}
+            });
+            const androidArtifact = artifacts.artifacts.find(a => a.name === 'armsx2-android-arm64');
+            if (!androidArtifact) {
+              core.setFailed('No Android artifact (armsx2-android-arm64) found');
+              return;
+            }
+            core.setOutput('artifact_id', androidArtifact.id);
+            core.setOutput('archive_download_url', androidArtifact.archive_download_url);
+            console.log('Found artifact ID:', androidArtifact.id);
+
+      # 3. Download the artifact (contains the APK)
+      - name: Download APK artifact
+        run: |
+          curl -L -o artifact.zip "${{ steps.get_artifact.outputs.archive_download_url }}"
+          unzip artifact.zip -d apk/
+          echo "APK files downloaded:"
+          ls -la apk/
+
+      # 4. Compress APK with ultra compression (using 7z or zip)
+      - name: Compress APK with ultra compression
+        run: |
+          # Install 7zip (already available on the runner, but we ensure it)
+          sudo apt-get update && sudo apt-get install -y p7zip-full
+          # Compress all APKs into a single .7z file with ultra compression
+          7z a -mx=9 -mfb=273 -ms=on apk-ultra.7z apk/*.apk
+          # (Optional) If you prefer ZIP format with level 9:
+          # zip -9 -r apk-ultra.zip apk/*.apk
+
+      # 5. Create a Release and upload the compressed archive
+      - name: Create Release and upload compressed APK
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ github.run_number }}
+          name: "Android APK from ARMSX2 #${{ github.run_number }}"
+          body: |
+            Automatically downloaded the latest Android APK from the ARMSX2 repository.
+            Build time: ${{ github.run_started_at }}
+            Source Workflow Run ID: ${{ steps.get_run.outputs.run_id }}
+            
+            This file is an archive containing the APK with ultra compression (7z).
+          files: |
+            apk-ultra.7z    # or apk-ultra.zip if you choose ZIP
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
