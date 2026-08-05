@@ -65,8 +65,8 @@ jobs:
           done < <(find /tmp/ARMSX2 -type f -name "*.pnach" -print0 2>/dev/null)
           echo "CRC index built with ${#crc_index[@]} entries."
 
-          # Process all folders (including cheats‑v5 and patches‑v4)
-          for folder in "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" "patches-v1" "patches-v2" "patches-v3" "patches-v4"; do
+          # Process all folders (including cheats‑v5 and patches‑v5)
+          for folder in "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" "patches-v1" "patches-v2" "patches-v3" "patches-v4" "patches-v5"; do   # <-- patches‑v5 added
             echo "Processing folder: $folder"
             find "$folder" -type f -name "*.pnach" -print0 | while IFS= read -r -d '' file; do
               if grep -q -i "^crc=" "$file"; then
@@ -222,7 +222,8 @@ jobs:
           count_patchesv2=$(find "patches-v2" -type f -name "*.pnach" 2>/dev/null | wc -l)
           count_patchesv3=$(find "patches-v3" -type f -name "*.pnach" 2>/dev/null | wc -l)
           count_patchesv4=$(find "patches-v4" -type f -name "*.pnach" 2>/dev/null | wc -l)
-          total=$((count_pcsx2 + count_cheatsv1 + count_cheatsv2 + count_cheatsv3 + count_cheatsv4 + count_cheatsv5 + count_patchesv1 + count_patchesv2 + count_patchesv3 + count_patchesv4))
+          count_patchesv5=$(find "patches-v5" -type f -name "*.pnach" 2>/dev/null | wc -l)   # <-- patches‑v5 added
+          total=$((count_pcsx2 + count_cheatsv1 + count_cheatsv2 + count_cheatsv3 + count_cheatsv4 + count_cheatsv5 + count_patchesv1 + count_patchesv2 + count_patchesv3 + count_patchesv4 + count_patchesv5))   # <-- patches‑v5 added to total
           echo "PCSX2 Patches : $count_pcsx2 .pnach files" >> changelog.txt
           echo "cheats-v1     : $count_cheatsv1 .pnach files" >> changelog.txt
           echo "cheats-v2     : $count_cheatsv2 .pnach files" >> changelog.txt
@@ -233,6 +234,7 @@ jobs:
           echo "patches-v2    : $count_patchesv2 .pnach files" >> changelog.txt
           echo "patches-v3    : $count_patchesv3 .pnach files" >> changelog.txt
           echo "patches-v4    : $count_patchesv4 .pnach files" >> changelog.txt
+          echo "patches-v5    : $count_patchesv5 .pnach files" >> changelog.txt   # <-- patches‑v5 added
           echo "----------------------------------------" >> changelog.txt
           echo "Total         : $total .pnach files" >> changelog.txt
 
@@ -291,7 +293,7 @@ jobs:
             fi
           }
 
-          # Process folders in the desired order (includes cheats‑v5 and patches‑v4)
+          # Process folders in the desired order (includes cheats‑v5 and patches‑v5)
           process_folder "PCSX2 Patches" "changelog-game.txt"
           process_folder "cheats-v1" "changelog-game.txt"
           process_folder "cheats-v2" "changelog-game.txt"
@@ -302,6 +304,7 @@ jobs:
           process_folder "patches-v2" "changelog-game.txt"
           process_folder "patches-v3" "changelog-game.txt"
           process_folder "patches-v4" "changelog-game.txt"
+          process_folder "patches-v5" "changelog-game.txt"   # <-- patches‑v5 added
 
       # ===== 8. BUILD patches.zip (maximum compression) =====
       - name: Build patches.zip
@@ -309,12 +312,12 @@ jobs:
           if [ -f "apk_info.txt" ]; then
             7z a -tzip -mx=9 -mm=Deflate patches.zip \
               "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" \
-              "patches-v1" "patches-v2" "patches-v3" "patches-v4" \
+              "patches-v1" "patches-v2" "patches-v3" "patches-v4" "patches-v5" \
               changelog.txt changelog-game.txt apk_info.txt
           else
             7z a -tzip -mx=9 -mm=Deflate patches.zip \
               "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" \
-              "patches-v1" "patches-v2" "patches-v3" "patches-v4" \
+              "patches-v1" "patches-v2" "patches-v3" "patches-v4" "patches-v5" \
               changelog.txt changelog-game.txt
           fi
 
