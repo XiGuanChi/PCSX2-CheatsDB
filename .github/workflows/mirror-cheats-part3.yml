@@ -1,11 +1,13 @@
 name: Mirror Cheats (xGamingDragon93x)
 
 on:
-  workflow_dispatch:              # Can be manually triggered from the Actions tab
+  workflow_dispatch:   # Allows manual triggering from the Actions tab
 
 jobs:
-  mirror:
+  update-cheats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Required to push to the repository
 
     steps:
       - name: Checkout target repository
@@ -13,28 +15,39 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Get latest release download URL
-        id: get_url
+      - name: Get .rar asset URL from the latest source release
+        id: get_asset
         run: |
-          REPO="xGamingDragon93x/PCSX2-Ultimative-Cheats-Collection-PNACH"
-          API_URL="https://api.github.com/repos/$REPO/releases/latest"
-          DOWNLOAD_URL=$(curl -s $API_URL | jq -r '.assets[0].browser_download_url')
-          echo "download_url=$DOWNLOAD_URL" >> $GITHUB_OUTPUT
+          RELEASE_API="https://api.github.com/repos/xGamingDragon93x/PCSX2-Ultimative-Cheats-Collection-PNACH/releases/latest"
+          ASSET_URL=$(curl -s $RELEASE_API | jq -r '.assets[] | select(.name | endswith(".rar")) | .browser_download_url')
+          if [ -z "$ASSET_URL" ]; then
+            echo "No .rar file found in the latest release!"
+            exit 1
+          fi
+          echo "asset_url=$ASSET_URL" >> $GITHUB_OUTPUT
 
-      - name: Download zip file
+      - name: Download the .rar file
         run: |
-          curl -L -o cheats.zip ${{ steps.get_url.outputs.download_url }}
+          curl -L -o cheats.rar "${{ steps.get_asset.outputs.asset_url }}"
 
-      - name: Extract all .pnach files
+      - name: Install unrar
+        run: sudo apt-get update && sudo apt-get install -y unrar
+
+      - name: Extract .rar to a temporary folder
         run: |
+          mkdir extracted
+          unrar x cheats.rar extracted/
+
+      - name: Clean cheats-v6 folder and copy only .pnach files
+        run: |
+          rm -rf cheats-v6
           mkdir -p cheats-v6
-          rm -rf cheats-v6/*                     # Clear the folder to keep it in sync
-          unzip -j cheats.zip "*.pnach" -d cheats-v6/
+          find extracted -type f -name "*.pnach" -exec cp {} cheats-v6/ \;
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add cheats-v6/
-          git diff --staged --quiet || git commit -m "Mirror latest PNACH files from source"
+          git commit -m "Update cheats from upstream $(date -u +'%Y-%m-%d')" || echo "No new changes"
           git push
