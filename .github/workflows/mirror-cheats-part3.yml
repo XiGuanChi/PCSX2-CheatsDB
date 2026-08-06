@@ -1,0 +1,40 @@
+name: Mirror Data (xGamingDragon93x)
+
+on:
+  workflow_dispatch:              # Can be manually triggered from the Actions tab
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get latest release download URL
+        id: get_url
+        run: |
+          REPO="xGamingDragon93x/PCSX2-Ultimative-Cheats-Collection-PNACH"
+          API_URL="https://api.github.com/repos/$REPO/releases/latest"
+          DOWNLOAD_URL=$(curl -s $API_URL | jq -r '.assets[0].browser_download_url')
+          echo "download_url=$DOWNLOAD_URL" >> $GITHUB_OUTPUT
+
+      - name: Download zip file
+        run: |
+          curl -L -o cheats.zip ${{ steps.get_url.outputs.download_url }}
+
+      - name: Extract all .pnach files
+        run: |
+          mkdir -p cheats-v6
+          rm -rf cheats-v6/*                     # Clear the folder to keep it in sync
+          unzip -j cheats.zip "*.pnach" -d cheats-v6/
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cheats-v6/
+          git diff --staged --quiet || git commit -m "Mirror latest PNACH files from source"
+          git push
