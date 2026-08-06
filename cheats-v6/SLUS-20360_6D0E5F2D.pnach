@@ -1,0 +1,9 @@
+gametitle=Blade II NTSC-U SLUS-20360 6D0E5F2D
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (130%).
+patch=0,EE,0018B2D8,word,00000000
+patch=0,EE,001fd47c,word,3c033c88
+patch=0,EE,001a8fe8,word,3c023c88
+patch=0,EE,001BA110,word,24420002

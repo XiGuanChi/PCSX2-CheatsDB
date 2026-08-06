@@ -1,0 +1,23 @@
+gametitle=Red Dead Revolver PAL-M SLES-52478 E2E67E23
+
+[50/60 FPS]
+author=GamingDragon93
+description=Might need EE overclock (130%).
+patch=1,EE,004FD20C,word,00000001
+
+[NTSC Mode]
+author=GamingDragon93
+description=NTSC mode at start instead PAL Mode.
+patch=1,EE,003C1598,word,A0A1D3A4
+patch=1,EE,00235B3C,word,70430004
+
+[Disable Blur]
+author=GamingDragon93
+description=Disable the Post-Processing blur effect.
+patch=1,EE,00310B54,word,00000000
+
+[Disable Black Bars]
+author=GamingDragon93
+description=Disable black bars in gameplay.
+patch=1,EE,0073ED84,word,00000000
+patch=1,EE,0073E694,word,3F866666

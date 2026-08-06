@@ -1,0 +1,11 @@
+gametitle=Silent Hill 4 - The Room SLES-52445 0A5E41A5
+
+[Infinite Health]
+author=GamingDragon93
+patch=1,EE,2045CDC8,extended,42C80000
+patch=1,EE,20626C14,extended,42C80000
+patch=1,EE,20626C18,extended,42C80000
+
+[Infinite Ammo]
+author=GamingDragon93
+patch=1,EE,201B1DC0,extended,00000000

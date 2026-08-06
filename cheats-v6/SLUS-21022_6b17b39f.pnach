@@ -1,0 +1,13 @@
+gametitle=Prince of Persia - Warrior Within NTSC-U SLUS_21022 6B17B39F SLUS-21022
+// checked_by=GamingDragon93; original_file=SLUS-21022_6b17b39f.pnach; filename_fix=known-fix
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE overclock (180%).
+patch=1,EE,0052D5D8,word,00000000
+
+[Disable Blur/Bloom]
+author=GamingDragon93
+description=Disable post-processing blur/bloom effect.
+patch=1,EE,005379AC,word,00000000
+//patch=1,EE,008206A8,word,00010000

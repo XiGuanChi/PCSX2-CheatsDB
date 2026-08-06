@@ -1,0 +1,9 @@
+gametitle=Blade II PAL-E SLES-51013 66CC8148
+
+[50 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (130%).
+patch=0,EE,0018B3B8,word,00000000
+patch=0,EE,001fd8cc,word,3c033c88
+patch=0,EE,001a9268,word,3c023CA3
+patch=0,EE,001BA450,word,24420002

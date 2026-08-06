@@ -1,0 +1,224 @@
+gametitle=Beyond Good And Evil [SLUS-20763] [591ABA45]
+// checked_by=GamingDragon93; original_file=SLUS-20763_3.68E+61.pnach; filename_fix=known-fix
+
+[B.List]
+author=GamingDragon93
+description=B.List
+// B.List
+patch=1,EE,F0100044,extended,006E31D7
+
+[Max Health]
+author=GamingDragon93
+description=Max Health
+// Max Health
+patch=1,EE,20D2F958,extended,440C0000
+
+[Infinite Health]
+author=GamingDragon93
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20D2F988,extended,440C0000
+
+[Infinite 'Easy-Unit' Cards]
+author=GamingDragon93
+description=Infinite 'Easy-Unit' Cards
+// Infinite 'Easy-Unit' Cards
+patch=1,EE,20D2F998,extended,0000270F
+
+[Camera]
+author=GamingDragon93
+description=Camera
+// Camera
+patch=1,EE,20D300F8,extended,00000001
+
+[Cutting Pliers]
+author=GamingDragon93
+description=Cutting Pliers
+// Cutting Pliers
+patch=1,EE,20D300FC,extended,00000001
+
+[Fuse]
+author=GamingDragon93
+description=Fuse
+// Fuse
+patch=1,EE,20D30100,extended,00000001
+
+[Dai-Jo]
+author=GamingDragon93
+description=Dai-Jo
+// Dai-Jo
+patch=1,EE,20D30108,extended,00000001
+
+[City-Pass]
+author=GamingDragon93
+description=City-Pass
+// City-Pass
+patch=1,EE,20D30110,extended,00000001
+
+[Gyrodisc Launcher]
+author=GamingDragon93
+description=Gyrodisc Launcher
+// Gyrodisc Launcher
+patch=1,EE,20D30120,extended,00000001
+
+[Mirror]
+author=GamingDragon93
+description=Mirror
+// Mirror
+patch=1,EE,20D30124,extended,00000001
+
+[Flight Stabilizer]
+author=GamingDragon93
+description=Flight Stabilizer
+// Flight Stabilizer
+patch=1,EE,20D30128,extended,00000001
+
+[Meca-Impulser]
+author=GamingDragon93
+description=Meca-Impulser
+// Meca-Impulser
+patch=1,EE,20D30130,extended,00000001
+
+[P-O-D]
+author=GamingDragon93
+description=P-O-D
+// P-O-D
+patch=1,EE,20D30134,extended,00000001
+
+[Set Of Pods]
+author=GamingDragon93
+description=Set Of Pods
+// Set Of Pods
+patch=1,EE,20D30138,extended,00000001
+
+[Room 03 Ticket]
+author=GamingDragon93
+description=Room 03 Ticket
+// Room 03 Ticket
+patch=1,EE,20D3013C,extended,00000001
+
+[Animal Detector]
+author=GamingDragon93
+description=Animal Detector
+// Animal Detector
+patch=1,EE,20D30140,extended,00000001
+
+[Pearl Detector]
+author=GamingDragon93
+description=Pearl Detector
+// Pearl Detector
+patch=1,EE,20D30144,extended,00000001
+
+[Triangular Key]
+author=GamingDragon93
+description=Triangular Key
+// Triangular Key
+patch=1,EE,20D3014C,extended,00000001
+
+[Square Key]
+author=GamingDragon93
+description=Square Key
+// Square Key
+patch=1,EE,20D30150,extended,00000001
+
+[Box Of K-Bups]
+author=GamingDragon93
+description=Box Of K-Bups
+// Box Of K-Bups
+patch=1,EE,20D30154,extended,00000001
+
+[Star Key]
+author=GamingDragon93
+description=Star Key
+// Star Key
+patch=1,EE,20D30158,extended,00000001
+
+[Armor]
+author=GamingDragon93
+description=Armor
+// Armor
+patch=1,EE,20D3015C,extended,00000001
+
+[Mdisk]
+author=GamingDragon93
+description=Mdisk
+// Mdisk
+patch=1,EE,20D30164,extended,00000001
+
+[FA 1]
+author=GamingDragon93
+description=FA 1
+// FA 1
+patch=1,EE,20D30168,extended,00000001
+
+[Jet-Boots]
+author=GamingDragon93
+description=Jet-Boots
+// Jet-Boots
+patch=1,EE,20D3016C,extended,00000001
+
+[Starkos]
+author=GamingDragon93
+description=Starkos
+// Starkos
+patch=1,EE,20D30170,extended,00000001
+
+[Super-Attack Strengthened]
+author=GamingDragon93
+description=Super-Attack Strengthened
+// Super-Attack Strengthened
+patch=1,EE,20D30174,extended,00000001
+
+['Easy Unit' Card]
+author=GamingDragon93
+description='Easy Unit' Card
+// 'Easy Unit' Card
+patch=1,EE,20D30180,extended,00000001
+
+[Carlson-Peeters]
+author=GamingDragon93
+description=Carlson-Peeters
+// Carlson-Peeters
+patch=1,EE,20D30184,extended,00000001
+
+[Jump Kit]
+author=GamingDragon93
+description=Jump Kit
+// Jump Kit
+patch=1,EE,20D30188,extended,00000001
+
+[Boost]
+author=GamingDragon93
+description=Boost
+// Boost
+patch=1,EE,20D3018C,extended,00000001
+
+[Neutralizing Cannon]
+author=GamingDragon93
+description=Neutralizing Cannon
+// Neutralizing Cannon
+patch=1,EE,20D30190,extended,00000001
+
+[Speedcraft Motor]
+author=GamingDragon93
+description=Speedcraft Motor
+// Speedcraft Motor
+patch=1,EE,20D3019C,extended,00000001
+
+[Compass]
+author=GamingDragon93
+description=Compass
+// Compass
+patch=1,EE,20D301A0,extended,00000001
+
+[Stellar Motor]
+author=GamingDragon93
+description=Stellar Motor
+// Stellar Motor
+patch=1,EE,20D301A4,extended,00000001
+
+[Alpha Section Tickets]
+author=GamingDragon93
+description=Alpha Section Tickets
+// Alpha Section Tickets
+patch=1,EE,20D301B0,extended,00000001

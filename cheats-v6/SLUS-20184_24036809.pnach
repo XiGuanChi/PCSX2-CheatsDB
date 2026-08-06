@@ -1,0 +1,9 @@
+gametitle=Resident Evil: Code - Veronica X NTSC-U SLUS-20184 24036809
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=GamingDragon93
+description=Widescreen hack ported from PAL-M4 ver by ElHecht
+patch=1,EE,01128700,word,3f400000 //3f800000 x-fov
+patch=1,EE,01E218C0,word,01aa0280 //01400280 FMVs
+patch=1,EE,01E218C4,word,000c0000 //00400000

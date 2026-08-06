@@ -1,0 +1,13 @@
+gametitle=Disney/Pixar WALL-E PAL-S SLES-55186 87332077
+
+[NTSC Mode]
+author=GamingDragon93
+description=NTSC Mode at start.
+patch=0,EE,00425A58,word,24020000
+patch=0,EE,002F1D68,word,84852F70
+
+[Disable Blur/Bloom]
+author=GamingDragon93
+description=Might need to set Shade Boost, Brightnes:75 and Contrast:48.
+patch=1,EE,00733AE0,word,00070000
+patch=1,EE,00733EE0,word,00070000

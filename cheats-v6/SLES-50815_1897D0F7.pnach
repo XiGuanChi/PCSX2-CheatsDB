@@ -1,0 +1,38 @@
+gametitle=Blood Omen 2 - Legacy of Kain SLES-50815 1897D0F7
+
+[Infinite Health]
+author=GamingDragon93
+patch=1,EE,20220D64,extended,00000000
+patch=1,EE,20220D6C,extended,3C0143C8
+patch=1,EE,20220D70,extended,44816000
+patch=1,EE,20220D98,extended,E44C0010
+patch=1,EE,20220DC0,extended,00000000
+
+[Infinite Rage]
+author=GamingDragon93
+patch=1,EE,20220BA4,extended,00000000
+patch=1,EE,20220CEC,extended,C68C0024
+patch=1,EE,20220D10,extended,C68C0024
+patch=1,EE,20220D24,extended,E68C0020
+patch=1,EE,202203C8,extended,00000000
+
+[Unbreakable Weapons]
+author=GamingDragon93
+patch=1,EE,20205460,extended,00000000
+patch=1,EE,20205470,extended,AC400004
+patch=1,EE,20205494,extended,00000000
+
+[One Hit Kills Baddies]
+author=GamingDragon93
+patch=1,EE,202728AC,extended,3C013F80
+patch=1,EE,202728B4,extended,AC410068
+
+[No Collision With Baddies' Weapons]
+author=GamingDragon93
+patch=1,EE,201C9810,extended,03E00008
+patch=1,EE,201C9814,extended,00000000
+
+[Disable AI]
+author=GamingDragon93
+patch=1,EE,2026EEB8,extended,24020001
+patch=1,EE,2026BF64,extended,24020001

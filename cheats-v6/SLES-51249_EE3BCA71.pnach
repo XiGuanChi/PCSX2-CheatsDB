@@ -1,0 +1,17 @@
+gametitle=Castleween PAL-M SLES-51249 EE3BCA71
+
+[50/60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (130%).
+patch=1,EE,00217344,word,3C030000 //3C030001
+
+[Disable Blur]
+author=GamingDragon93
+description=Disable blur effect in PAL Mode, patch no needed in NTSC Mode.
+patch=1,EE,0049B5C8,word,00000000 //00080040
+
+[NTSC Mode]
+author=GamingDragon93
+description=NTSC Mode at start.
+patch=1,EE,0021561C,word,10450006 //14450006
+patch=1,EE,0049B5C0,word,000001c0 //00000200

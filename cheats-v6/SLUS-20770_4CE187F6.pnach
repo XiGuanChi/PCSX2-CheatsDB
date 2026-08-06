@@ -1,0 +1,6 @@
+gametitle=Lord of the Ring, The - The Return of the King NTSC-U SLUS-20770 4CE187F6
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock.
+patch=1,EE,0014B784,word,3C030000 //3C033F80

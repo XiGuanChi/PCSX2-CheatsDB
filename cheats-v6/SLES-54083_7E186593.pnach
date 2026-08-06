@@ -1,0 +1,13 @@
+gametitle=Pirates of the Caribbean - The Legend of Jack Sparrow PAL-E SLES-54083 7E186593
+
+[50/60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (180%).
+patch=0,EE,001856BC,word,24020000
+//patch=1,EE,00430E40,word,00000000
+
+[NTSC Mode]
+author=GamingDragon93
+description=NTSC mode at start. FMVs skip.
+patch=0,EE,0038320C,word,24030002
+patch=0,EE,0049b090,word,000001c0

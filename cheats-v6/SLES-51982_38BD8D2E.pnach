@@ -1,0 +1,8 @@
+gametitle=ShellShock - Nam '67 PAL-M SLES-51982 38BD8D2E
+
+[50/60 FPS]
+author=GamingDragon93
+description=Might need EE overclock (130%).
+patch=1,EE,20297B28,extended,AF808B0C
+patch=1,EE,E0010001,extended,0067C0DC
+patch=1,EE,20297B28,extended,AF828B0C

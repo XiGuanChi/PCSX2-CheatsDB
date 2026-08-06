@@ -1,0 +1,6 @@
+gametitle=Skyscraper PAL-M SLES-55152 EAEEC017
+
+[50 FPS]
+author=GamingDragon93
+description=Might need EE Overclock.
+patch=1,EE,0022AF9C,word,10400010 //14400010

@@ -1,0 +1,6 @@
+gametitle=Freedom Fighters NTSC-U SLUS-20658 1DA7E9BC
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE overclock (130%).
+patch=0,EE,001F999C,word,24050001

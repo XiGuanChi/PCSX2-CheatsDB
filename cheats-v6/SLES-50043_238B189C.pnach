@@ -1,0 +1,6 @@
+gametitle=Disney's Dinosaur PAL-M SLES-50043 238B189C
+
+[50 FPS]
+author=GamingDragon93
+description=Might need EE Overclock.
+patch=1,EE,0015EF14,word,3C023F0C //3C023F8C

@@ -1,0 +1,20 @@
+gametitle=Matrix, The - Path of Neo NTSC-U SLUS-21273 8BE5DFF3
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE overclock (130%).
+patch=1,EE,20233478,extended,3C013F26
+patch=1,EE,E0010001,extended,003FC658
+patch=1,EE,20233478,extended,3C013FA6
+patch=1,EE,202335f8,extended,3c013f80
+patch=1,EE,201E7B40,extended,3C013F00
+patch=1,EE,E0010001,extended,0046E008
+patch=1,EE,201E7B40,extended,3C013F80
+patch=1,EE,E001E650,extended,005BE658
+patch=1,EE,201E7B40,extended,3C013F80
+patch=1,EE,202D4848,extended,2C42003C
+
+[Disable Blur/Bloom]
+author=GamingDragon93
+description=Disable post-processing Blur/Bloom effect.
+patch=1,EE,0044F3E8,word,00000000

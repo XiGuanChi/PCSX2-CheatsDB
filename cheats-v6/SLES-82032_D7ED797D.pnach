@@ -1,0 +1,12 @@
+gametitle=Metal Gear Solid 3 - Snake Eater SLES-82032 D7ED797D
+
+[Infinite & Max HP]
+author=GamingDragon93
+patch=1,EE,200C200C,extended,85A10686
+patch=1,EE,200C2010,extended,A5A10684
+patch=1,EE,200C2004,extended,24010190
+patch=1,EE,200C2008,extended,A5A10686
+
+[Infinite Ammo MK22 Gun]
+author=GamingDragon93
+patch=1,EE,004A1CD4,extended,00000009

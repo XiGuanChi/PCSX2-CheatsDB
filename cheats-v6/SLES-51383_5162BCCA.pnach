@@ -1,0 +1,12 @@
+gametitle=Beach King Stunt Racer PAL-M SLES-51383 5162BCCA
+
+[50/60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock.
+patch=1,EE,00111b54,word,24020001 //24020002 native
+//patch=1,EE,0016D4A0,word,24020000 //24020001
+
+[NTSC Mode]
+author=GamingDragon93
+description=NTSC mode at start. FMVs skip.
+patch=1,EE,001114C8,word,14400009 //10400009

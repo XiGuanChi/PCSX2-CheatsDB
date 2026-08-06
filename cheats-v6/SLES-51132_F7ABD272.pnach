@@ -1,0 +1,25 @@
+gametitle=Tony Hawk's Pro Skater 4 SLES-51132 F7ABD272
+
+[Have All Characters]
+author=GamingDragon93
+patch=1,EE,10AEA8C0,extended,0000FFFF
+
+[Have All Cheats/Movies]
+author=GamingDragon93
+patch=1,EE,10AEA8C2,extended,0000FFFF
+patch=1,EE,20AEA8C4,extended,FFFFFFFF
+patch=1,EE,10AEA8C8,extended,0000FFFF
+
+[Infinite Time]
+author=GamingDragon93
+patch=1,EE,20CC5390,extended,00000000
+patch=1,EE,20CC5398,extended,00000000
+
+[Open All Levels]
+author=GamingDragon93
+patch=1,EE,2096FAC0,extended,0018FFFF
+
+[Max Pro Points]
+author=GamingDragon93
+patch=1,EE,2096F648,extended,000000BE
+patch=1,EE,2096F638,extended,000000BE

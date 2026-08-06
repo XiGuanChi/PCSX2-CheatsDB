@@ -1,0 +1,15 @@
+gametitle=Reservoir Dogs SLUS-21479 08C682C1
+
+[Infinite Health]
+author=GamingDragon93
+patch=1,EE,201ECF64,extended,C4410004
+patch=1,EE,201ECF74,extended,E460154C
+
+[Infinite Ammo]
+author=GamingDragon93
+patch=1,EE,20106660,extended,00000000
+
+[Unlock Levels]
+author=GamingDragon93
+patch=1,EE,41DD8E64,extended,000F0010
+patch=1,EE,00000087,extended,00000000

@@ -1,0 +1,19 @@
+gametitle=The Getaway SCES-51159 458485EF
+
+[Unlock Extra Features]
+author=GamingDragon93
+patch=1,EE,00391E58,extended,00000002
+
+[Infinite Ammo]
+author=GamingDragon93
+patch=1,EE,201AD77C,extended,00000000
+patch=1,EE,201AD6E0,extended,00000000
+
+[Bullet Proof Press Select+Up to activate and Select+Down to deactivate.]
+author=GamingDragon93
+patch=1,EE,201AC950,extended,03E00008
+patch=1,EE,201AC954,extended,00000000
+
+[Level Modifier Codes load your save for 24-Land Of Hope And Glory]
+author=GamingDragon93
+patch=1,EE,00391E5C,extended,00000018

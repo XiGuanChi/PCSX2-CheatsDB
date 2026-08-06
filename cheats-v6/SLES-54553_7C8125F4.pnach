@@ -1,0 +1,11 @@
+gametitle=DreamWorks Shrek - Smash n' Crash Racing PAL-M SLES-54553 7C8125F4
+
+[NTSC Mode]
+author=GamingDragon93
+description=NTSC mode at start. FMVs remain in PAL.
+patch=0,EE,0016E1F4,word,240201c0 //24030200
+
+[Disable Blur/Bloom]
+author=GamingDragon93
+description=Disable post-processing blur/bloom effect.
+patch=1,EE,00170328,word,00000000

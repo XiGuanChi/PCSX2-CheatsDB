@@ -1,0 +1,6 @@
+gametitle=Dora the Explorer - Dora's Big Birthday Adventure NTSC-U SLUS-21944 EAEDE6E8
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock.
+patch=1,EE,0040B278,word,00000001 //00000002

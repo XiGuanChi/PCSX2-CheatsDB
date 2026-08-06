@@ -1,0 +1,535 @@
+gametitle=Island Xtreme Stunts [SLUS-20575] [BC910F04]
+
+[All Characters-All Events]
+author=GamingDragon93
+description=All Characters-All Events
+// All Characters-All Events
+patch=1,EE,F01010F8,extended,0021E31F
+
+[Quick Score Gain]
+author=GamingDragon93
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,102D2660,extended,0000FFFF
+
+[Max Score]
+author=GamingDragon93
+description=Max Score
+// Max Score
+patch=1,EE,202D2660,extended,0098967F
+
+[Infinite Time]
+author=GamingDragon93
+description=Infinite Time
+// Infinite Time
+patch=1,EE,202D2668,extended,0000003B
+
+[Infinite Time]
+author=GamingDragon93
+description=Infinite Time
+// Infinite Time
+patch=1,EE,202D266C,extended,0000003B
+
+[Infinite Health]
+author=GamingDragon93
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,2401000A
+
+[Infinite Health]
+author=GamingDragon93
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,AE010F3C
+
+[Infinite Health]
+author=GamingDragon93
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Health]
+author=GamingDragon93
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,8E0400C8
+
+[Infinite Health]
+author=GamingDragon93
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201B7F30,extended,0C030088
+
+[1-Hit Death (Opponents)]
+author=GamingDragon93
+description=1-Hit Death (Opponents)
+// 1-Hit Death (Opponents)
+patch=1,EE,201BD1A8,extended,2403001E
+
+[Max Brick Pool]
+author=GamingDragon93
+description=Max Brick Pool
+// Max Brick Pool
+patch=1,EE,202DAEE8,extended,000003E7
+
+[Max Brickimals]
+author=GamingDragon93
+description=Max Brickimals
+// Max Brickimals
+patch=1,EE,202DAEEC,extended,00000015
+
+[Have Road License]
+author=GamingDragon93
+description=Have Road License
+// Have Road License
+patch=1,EE,202DAF04,extended,00000001
+
+[Have Sea License]
+author=GamingDragon93
+description=Have Sea License
+// Have Sea License
+patch=1,EE,202DAF08,extended,00000001
+
+[Have Air License]
+author=GamingDragon93
+description=Have Air License
+// Have Air License
+patch=1,EE,202DAF0C,extended,00000001
+
+[Have Secret LA F. TA #1]
+author=GamingDragon93
+description=Have Secret LA F. TA #1
+// Have Secret LA F. TA #1
+patch=1,EE,202DAF10,extended,00000001
+
+[Have Secret LA F. TA #2]
+author=GamingDragon93
+description=Have Secret LA F. TA #2
+// Have Secret LA F. TA #2
+patch=1,EE,202DAF14,extended,00000001
+
+[Have Golden LA F. TA]
+author=GamingDragon93
+description=Have Golden LA F. TA
+// Have Golden LA F. TA
+patch=1,EE,202DAF18,extended,00000001
+
+[Have Platinum LA F. TA]
+author=GamingDragon93
+description=Have Platinum LA F. TA
+// Have Platinum LA F. TA
+patch=1,EE,202DAF1C,extended,00000001
+
+[Infinite Double Jumps]
+author=GamingDragon93
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,21E8783C,extended,00000001
+
+[Pepper Roni]
+author=GamingDragon93
+description=Pepper Roni
+// Pepper Roni
+patch=1,EE,01E7140D,extended,00000001
+
+[The Brickster]
+author=GamingDragon93
+description=The Brickster
+// The Brickster
+patch=1,EE,01E8DA21,extended,00000001
+
+[Brickster-Bot]
+author=GamingDragon93
+description=Brickster-Bot
+// Brickster-Bot
+patch=1,EE,01E8DA45,extended,00000001
+
+[Belinda Blink]
+author=GamingDragon93
+description=Belinda Blink
+// Belinda Blink
+patch=1,EE,01E8DB65,extended,00000001
+
+[The Director]
+author=GamingDragon93
+description=The Director
+// The Director
+patch=1,EE,01E8DB89,extended,00000001
+
+[Shugu]
+author=GamingDragon93
+description=Shugu
+// Shugu
+patch=1,EE,01E8DBAD,extended,00000001
+
+[Dr Clickitt]
+author=GamingDragon93
+description=Dr Clickitt
+// Dr Clickitt
+patch=1,EE,01E8DBD1,extended,00000001
+
+[Dr Jackitt]
+author=GamingDragon93
+description=Dr Jackitt
+// Dr Jackitt
+patch=1,EE,01E8DBF5,extended,00000001
+
+[Enter]
+author=GamingDragon93
+description=Enter
+// Enter
+patch=1,EE,01E8DC19,extended,00000001
+
+[Gnarly Bones]
+author=GamingDragon93
+description=Gnarly Bones
+// Gnarly Bones
+patch=1,EE,01E8DC3D,extended,00000001
+
+[Rhoda Hogg]
+author=GamingDragon93
+description=Rhoda Hogg
+// Rhoda Hogg
+patch=1,EE,01E8DC61,extended,00000001
+
+[Infomaniac]
+author=GamingDragon93
+description=Infomaniac
+// Infomaniac
+patch=1,EE,01E8DCA9,extended,00000001
+
+[Jack O'Trades]
+author=GamingDragon93
+description=Jack O'Trades
+// Jack O'Trades
+patch=1,EE,01E8DCCD,extended,00000001
+
+[Sky Lane]
+author=GamingDragon93
+description=Sky Lane
+// Sky Lane
+patch=1,EE,01E8DCF1,extended,00000001
+
+[Lucky Larry]
+author=GamingDragon93
+description=Lucky Larry
+// Lucky Larry
+patch=1,EE,01E8DD15,extended,00000001
+
+[Liam Lense]
+author=GamingDragon93
+description=Liam Lense
+// Liam Lense
+patch=1,EE,01E8DD39,extended,00000001
+
+[Laura Brick]
+author=GamingDragon93
+description=Laura Brick
+// Laura Brick
+patch=1,EE,01E8DD5D,extended,00000001
+
+[Ed Mail]
+author=GamingDragon93
+description=Ed Mail
+// Ed Mail
+patch=1,EE,01E8DD81,extended,00000001
+
+[Mama Brickolini]
+author=GamingDragon93
+description=Mama Brickolini
+// Mama Brickolini
+patch=1,EE,01E8DDA5,extended,00000001
+
+[Nancy Nubbins]
+author=GamingDragon93
+description=Nancy Nubbins
+// Nancy Nubbins
+patch=1,EE,01E8DDC9,extended,00000001
+
+[Nick Brick]
+author=GamingDragon93
+description=Nick Brick
+// Nick Brick
+patch=1,EE,01E8DDED,extended,00000001
+
+[Nubby Stevens]
+author=GamingDragon93
+description=Nubby Stevens
+// Nubby Stevens
+patch=1,EE,01E8DE11,extended,00000001
+
+[Papa Brickolini]
+author=GamingDragon93
+description=Papa Brickolini
+// Papa Brickolini
+patch=1,EE,01E8DE35,extended,00000001
+
+[Phil Maker]
+author=GamingDragon93
+description=Phil Maker
+// Phil Maker
+patch=1,EE,01E8DE59,extended,00000001
+
+[Margaret Patricia Post]
+author=GamingDragon93
+description=Margaret Patricia Post
+// Margaret Patricia Post
+patch=1,EE,01E8DE7D,extended,00000001
+
+[Penelope Puff]
+author=GamingDragon93
+description=Penelope Puff
+// Penelope Puff
+patch=1,EE,01E8DEA1,extended,00000001
+
+[Red Greenbase]
+author=GamingDragon93
+description=Red Greenbase
+// Red Greenbase
+patch=1,EE,01E8DEC5,extended,00000001
+
+[Return]
+author=GamingDragon93
+description=Return
+// Return
+patch=1,EE,01E8DEE9,extended,00000001
+
+[Snap Lockitt]
+author=GamingDragon93
+description=Snap Lockitt
+// Snap Lockitt
+patch=1,EE,01E8DF0D,extended,00000001
+
+[Studz Linkin]
+author=GamingDragon93
+description=Studz Linkin
+// Studz Linkin
+patch=1,EE,01E8DF31,extended,00000001
+
+[Super Stationmaster]
+author=GamingDragon93
+description=Super Stationmaster
+// Super Stationmaster
+patch=1,EE,01E8DF55,extended,00000001
+
+[Technician Bob]
+author=GamingDragon93
+description=Technician Bob
+// Technician Bob
+patch=1,EE,01E8DF79,extended,00000001
+
+[Valergie Stubbins]
+author=GamingDragon93
+description=Valergie Stubbins
+// Valergie Stubbins
+patch=1,EE,01E8DF9D,extended,00000001
+
+[Jenny]
+author=GamingDragon93
+description=Jenny
+// Jenny
+patch=1,EE,01E8DFC1,extended,00000001
+
+[Jimmy]
+author=GamingDragon93
+description=Jimmy
+// Jimmy
+patch=1,EE,01E8DFE5,extended,00000001
+
+[Timmy]
+author=GamingDragon93
+description=Timmy
+// Timmy
+patch=1,EE,01E8E009,extended,00000001
+
+[Biran Shrimp]
+author=GamingDragon93
+description=Biran Shrimp
+// Biran Shrimp
+patch=1,EE,01E8E2FD,extended,00000001
+
+[Air Chase]
+author=GamingDragon93
+description=Air Chase
+// Air Chase
+patch=1,EE,002DAF78,extended,00000001
+
+[Freeway Frenzy]
+author=GamingDragon93
+description=Freeway Frenzy
+// Freeway Frenzy
+patch=1,EE,002DAF7C,extended,00000001
+
+[Ripcord Rescue]
+author=GamingDragon93
+description=Ripcord Rescue
+// Ripcord Rescue
+patch=1,EE,002DAF80,extended,00000001
+
+[Wave Catcher]
+author=GamingDragon93
+description=Wave Catcher
+// Wave Catcher
+patch=1,EE,002DAF84,extended,00000001
+
+[Motorbike Mayhem]
+author=GamingDragon93
+description=Motorbike Mayhem
+// Motorbike Mayhem
+patch=1,EE,002DAF88,extended,00000001
+
+[Air Chase]
+author=GamingDragon93
+description=Air Chase
+// Air Chase
+patch=1,EE,002DAF79,extended,00000007
+
+[Freeway Frenzy]
+author=GamingDragon93
+description=Freeway Frenzy
+// Freeway Frenzy
+patch=1,EE,002DAF7D,extended,00000007
+
+[Ripcord Rescue]
+author=GamingDragon93
+description=Ripcord Rescue
+// Ripcord Rescue
+patch=1,EE,002DAF81,extended,00000007
+
+[Wave Catcher]
+author=GamingDragon93
+description=Wave Catcher
+// Wave Catcher
+patch=1,EE,002DAF85,extended,00000007
+
+[Motorbike Mayhem]
+author=GamingDragon93
+description=Motorbike Mayhem
+// Motorbike Mayhem
+patch=1,EE,002DAF89,extended,00000007
+
+[Dog]
+author=GamingDragon93
+description=Dog
+// Dog
+patch=1,EE,002EBE1B,extended,00000002
+
+[Platypus]
+author=GamingDragon93
+description=Platypus
+// Platypus
+patch=1,EE,002EBE1F,extended,00000002
+
+[Giraffe]
+author=GamingDragon93
+description=Giraffe
+// Giraffe
+patch=1,EE,002EBE23,extended,00000002
+
+[Whale]
+author=GamingDragon93
+description=Whale
+// Whale
+patch=1,EE,002EBE27,extended,00000002
+
+[Goose]
+author=GamingDragon93
+description=Goose
+// Goose
+patch=1,EE,002EBE2B,extended,00000002
+
+[Elephant]
+author=GamingDragon93
+description=Elephant
+// Elephant
+patch=1,EE,002EBE2F,extended,00000002
+
+[Gazelle]
+author=GamingDragon93
+description=Gazelle
+// Gazelle
+patch=1,EE,002EBE33,extended,00000002
+
+[Snamel]
+author=GamingDragon93
+description=Snamel
+// Snamel
+patch=1,EE,002EBE37,extended,00000002
+
+[Rhino]
+author=GamingDragon93
+description=Rhino
+// Rhino
+patch=1,EE,002EBE3B,extended,00000002
+
+[Baby Rhino]
+author=GamingDragon93
+description=Baby Rhino
+// Baby Rhino
+patch=1,EE,002EBE3F,extended,00000002
+
+[Tufted Duck]
+author=GamingDragon93
+description=Tufted Duck
+// Tufted Duck
+patch=1,EE,002EBE43,extended,00000002
+
+[Bison]
+author=GamingDragon93
+description=Bison
+// Bison
+patch=1,EE,002EBE47,extended,00000002
+
+[Baby Elephant]
+author=GamingDragon93
+description=Baby Elephant
+// Baby Elephant
+patch=1,EE,002EBE4B,extended,00000002
+
+[Squirrel]
+author=GamingDragon93
+description=Squirrel
+// Squirrel
+patch=1,EE,002EBE4F,extended,00000002
+
+[Bill]
+author=GamingDragon93
+description=Bill
+// Bill
+patch=1,EE,002EBE53,extended,00000002
+
+[Pelican]
+author=GamingDragon93
+description=Pelican
+// Pelican
+patch=1,EE,002EBE57,extended,00000002
+
+[Fish]
+author=GamingDragon93
+description=Fish
+// Fish
+patch=1,EE,002EBE5B,extended,00000002
+
+[Cutesy Duck]
+author=GamingDragon93
+description=Cutesy Duck
+// Cutesy Duck
+patch=1,EE,002EBE5F,extended,00000002
+
+[Duck]
+author=GamingDragon93
+description=Duck
+// Duck
+patch=1,EE,002EBE63,extended,00000002
+
+[Speed Boat]
+author=GamingDragon93
+description=Speed Boat
+// Speed Boat
+patch=1,EE,002EBE67,extended,00000002
+
+[Phoenix]
+author=GamingDragon93
+description=Phoenix
+// Phoenix
+patch=1,EE,002EBE6B,extended,00000002

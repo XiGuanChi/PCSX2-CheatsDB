@@ -1,0 +1,10 @@
+gametitle=WWE Crush Hour PAL-E SLES-51600 D2738AD3
+
+[50/60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (300%). Semaphore still double speed.
+patch=1,EE,20177828,extended,24420002
+patch=1,EE,E0010001,extended,003D3130
+patch=1,EE,20177828,extended,24420001
+//patch=1,EE,0017786C,word,2C610001 //2C610002 less stable
+//patch=1,EE,001778AC,word,24040001 //24040002 native (hang with videos)

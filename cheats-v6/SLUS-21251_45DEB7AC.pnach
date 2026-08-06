@@ -1,0 +1,8 @@
+gametitle=FlatOut 2 NTSC-U SLUS-21251 45DEB7AC
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (130%).
+patch=1,EE,102E31F4,extended,24420002
+patch=1,EE,E0010001,extended,0044C690
+patch=1,EE,102E31F4,extended,24420001

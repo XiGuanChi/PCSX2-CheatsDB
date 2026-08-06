@@ -1,0 +1,8 @@
+gametitle=Heatseeker PAL-M SLES-54346 816CB6E8
+
+[50/60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (130%).
+patch=0,EE,003C8104,word,3C023F80
+patch=0,EE,004DD610,word,3C023F80
+patch=0,EE,00544FD8,word,3C023F80

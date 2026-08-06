@@ -1,0 +1,27 @@
+gametitle=Manhunt 2 SLES-54819 887AD3A0
+
+[Infinite Health]
+author=GamingDragon93
+patch=1,EE,202E7010,extended,3C0142FA
+patch=1,EE,202E7014,extended,AE2100D0
+
+[Never Reload]
+author=GamingDragon93
+patch=1,EE,203647F4,extended,00000000
+
+[God Mode]
+author=GamingDragon93
+patch=0,EE,204BF1A4,extended,00000001
+
+[Save Anywhere]
+author=GamingDragon93
+patch=1,EE,00482C0C,extended,00000001
+
+[Skip Level (R1+R2+L1+L2)]
+author=GamingDragon93
+patch=1,EE,D0574D62,extended,0000F0FF
+patch=1,EE,003FBD98,extended,00000001
+patch=1,EE,D0574D62,extended,0000BFFF
+patch=1,EE,003FBD98,extended,00000000
+patch=1,EE,D0574D62,extended,00007FFF
+patch=1,EE,003FBD98,extended,00000000

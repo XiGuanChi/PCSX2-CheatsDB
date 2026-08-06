@@ -1,0 +1,46 @@
+gametitle=Freedom Fighters PAL-G SLES-51469 BADCA543
+
+[God Mode / Infinite Health]
+description=Unendlich Leben. RAW/PNACH code for PAL BADCA543 version.
+author=GamingDragon93
+patch=1,EE,20540588,extended,3F800000
+
+[Invisible To Enemies]
+description=Gegner sehen dich nicht. RAW/PNACH code for PAL BADCA543 version.
+author=GamingDragon93
+patch=1,EE,2053DD38,extended,3F800000
+
+[Infinite Ammo]
+description=Unendlich Munition. Testcode fuer PAL BADCA543; falls Probleme, deaktivieren.
+author=GamingDragon93
+patch=1,EE,202F1224,extended,24030001
+
+[Widescreen 16:9]
+description=Native Widescreen 16:9.
+author=GamingDragon93
+gsaspectratio=16:9
+patch=1,EE,2056967C,extended,00000001
+
+[60 FPS / NTSC Mode Experimental]
+description=Experimentell: erzwingt Progressive/60 FPS. Kann Bugs machen oder EE Overclock brauchen.
+author=GamingDragon93
+patch=1,EE,2046CA84,extended,3C050000
+patch=1,EE,2046CA8C,extended,3C060052
+patch=1,EE,2046CA94,extended,3C070001
+patch=1,EE,2056B808,extended,00000000
+patch=1,EE,20540530,extended,00000009
+
+[ALT Test - God Mode SLES-51467]
+description=Alternativer alter PAL-Code. Nur benutzen, falls der normale God Mode nicht geht.
+author=GamingDragon93
+patch=1,EE,205403F8,extended,3F800000
+
+[ALT Test - Infinite Ammo SLES-51467]
+description=Alternativer alter PAL-Code. Nur benutzen, falls der normale Ammo-Code nicht geht.
+author=GamingDragon93
+patch=1,EE,202F1094,extended,24030001
+
+[ALT Test - Invisible SLES-51467]
+description=Alternativer alter PAL-Code. Nur benutzen, falls Invisible oben nicht geht.
+author=GamingDragon93
+patch=1,EE,2053DBB8,extended,3F800000

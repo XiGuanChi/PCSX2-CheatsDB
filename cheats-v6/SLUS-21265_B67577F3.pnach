@@ -1,0 +1,6 @@
+gametitle=Sims 2, The NTSC-U SLUS-21265 B67577F3
+
+[60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock.
+patch=1,EE,003EA6FC,word,28820001 //28820002

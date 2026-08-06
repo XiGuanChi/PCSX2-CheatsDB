@@ -1,0 +1,6 @@
+gametitle=Fahrenheit PAL-M SLES-53540 8191D10A
+
+[50/60 FPS]
+author=GamingDragon93
+description=Might need EE Overclock (130%).
+patch=1,EE,00209688,word,10400004 //14400004
