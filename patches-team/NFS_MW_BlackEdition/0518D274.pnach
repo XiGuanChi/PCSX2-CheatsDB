@@ -25,7 +25,7 @@ author=Steelmax
 description=Removes fog from the game.
 patch=1,EE,00550029,byte,00
 
-[Speed Limiter remover]
+[Speed Limiter remover (Experimental)]
 patch=1,EE,2036F800,extended,3C014500
 patch=1,EE,2036F814,extended,3C014500
 patch=1,EE,2036F81C,extended,3C014500
