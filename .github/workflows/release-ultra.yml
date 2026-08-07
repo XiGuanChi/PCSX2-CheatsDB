@@ -198,7 +198,7 @@ jobs:
           echo "========================================" >> changelog.txt
           echo "Date       : $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> changelog.txt
           echo "Commit     : ${{ env.short_sha }}" >> changelog.txt
-          echo "Build by   : ${{ github.actor }}" >> changelog.txt
+          echo "Build by   : "XForYouX" >> changelog.txt
 
           if [ -f "notes.txt" ]; then
             echo "" >> changelog.txt
