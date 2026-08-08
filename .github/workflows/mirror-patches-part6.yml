@@ -26,7 +26,31 @@ jobs:
           path: target_repo
           fetch-depth: 1
 
+      - name: Check for new commits in source
+        id: check_update
+        run: |
+          cd source_repo
+          SOURCE_SHA=$(git rev-parse HEAD)
+          echo "source_sha=$SOURCE_SHA" >> $GITHUB_OUTPUT
+
+          cd ../target_repo
+          if [ -f .last_sync_commit ]; then
+            STORED_SHA=$(cat .last_sync_commit)
+          else
+            STORED_SHA=""
+          fi
+          echo "stored_sha=$STORED_SHA" >> $GITHUB_OUTPUT
+
+          if [ "$SOURCE_SHA" == "$STORED_SHA" ]; then
+            echo "No new commits. Skipping sync."
+            echo "skip_sync=true" >> $GITHUB_OUTPUT
+          else
+            echo "New commit detected. Proceeding with sync."
+            echo "skip_sync=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Sync only .pnach files into patches-v6 folder
+        if: steps.check_update.outputs.skip_sync == 'false'
         run: |
           # Ensure the destination directory exists
           mkdir -p target_repo/patches-v6
@@ -47,18 +71,22 @@ jobs:
           # Remove any stray .git folder just in case
           rm -rf target_repo/patches-v6/.git
 
-      - name: Commit and push if changes exist
+      - name: Update last sync commit and push
+        if: steps.check_update.outputs.skip_sync == 'false'
         run: |
           cd target_repo
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add patches-v6
+          # Write the new commit SHA to a file (outside patches-v6)
+          echo "${{ steps.check_update.outputs.source_sha }}" > .last_sync_commit
+
+          git add patches-v6 .last_sync_commit
 
           # Check if there are any changes staged for commit
           if git diff --cached --quiet; then
-            echo "No changes detected in .pnach files. Skipping commit."
+            echo "No changes detected in .pnach files or .last_sync_commit. Skipping commit."
           else
-            git commit -m "Sync .pnach files from PCSX2 (commit ${{ github.sha }})"
+            git commit -m "Sync .pnach files from PCSX2 (commit ${{ steps.check_update.outputs.source_sha }})"
             git push origin main
           fi
