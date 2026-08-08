@@ -1,0 +1,33 @@
+gametitle=Champions - Return to Arms (PAL-M4) SLES-53039 5C64E73A
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9.
+patch=0,EE,0018AAB0,extended,19
+patch=0,EE,001952B4,extended,19
+patch=0,EE,0019A50C,extended,E2
+patch=0,EE,0019A90C,extended,E2
+patch=0,EE,0019A540,extended,E2
+patch=0,EE,0019ADF4,extended,E2
+patch=0,EE,001C1794,extended,74
+patch=0,EE,101C1D18,extended,4426
+patch=0,EE,001C17FC,extended,6A
+patch=0,EE,101C1D50,extended,C424
+patch=0,EE,1018AAB4,extended,9999
+patch=0,EE,101952B8,extended,9999
+patch=0,EE,1019A510,extended,FC95
+patch=0,EE,1019A910,extended,FC95
+patch=0,EE,1019A544,extended,FC95
+patch=0,EE,1019ADF8,extended,FC95
+
+[No-Interlacing]
+gsinterlacemode=1
+author=Agrippa
+description=Fuerza el modo frame. Puede requerir aumentar la frecuencia del EE (180%).
+patch=0,EE,20451640,extended,00000000
+patch=0,EE,20451644,extended,00000001
+patch=0,EE,204516B4,extended,00000001
+patch=0,EE,2019E41C,extended,10000010
+patch=0,EE,2019E47C,extended,10000004
+//patch=1,EE,2019ED0C,extended,24020001 //causes slowdowns

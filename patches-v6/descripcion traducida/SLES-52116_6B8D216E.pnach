@@ -1,0 +1,34 @@
+gametitle=Sitting Ducks (PAL-M) SLES-52116 6B8D216E
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa.
+patch=0,EE,003E545C,word,3C033FE3
+patch=0,EE,003E5460,word,34638E39
+patch=0,EE,003E54C8,word,3C033FE3
+patch=0,EE,003E54CC,word,34638E39
+//patch=1,EE,004677F0,word,3FE38E39 //old
+
+[Remove Blackbars]
+author=PeterDelta
+description=Elimina las barras negras en las escenas.
+patch=0,EE,003C44F8,word,3C023B00
+
+[50/60 FPS]
+author=PeterDelta
+description=Desbloquea FPS internos.
+patch=1,EE,0067DA58,extended,00000032
+patch=1,EE,E0010001,extended,0046786C
+patch=1,EE,0067DA58,extended,00000019
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar. Active la opción área de sobrebarrido para obtener el mejor ajuste.
+patch=0,EE,00239A3C,word,10450007 //ntsc gameplay
+patch=0,EE,0023A418,word,240601C0 //res
+patch=0,EE,0023A3EC,word,14C00002 //res 640
+patch=0,EE,0034945C,word,24030000
+patch=0,EE,003495D8,word,24020002
+//patch=0,EE,003495E4,word,1062000B //ntsc inicio
+//patch=0,EE,00248780,word,14400008 //ntsc fmv

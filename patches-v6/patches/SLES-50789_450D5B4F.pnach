@@ -1,0 +1,9 @@
+gametitle=Men in Black II - Alien Escape (PAL-M) SLES-50789 450D5B4F
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=0,EE,003CBA50,word,24420002
+patch=0,EE,00180D2C,word,3C024248
+patch=0,EE,00288A40,word,3C02BF58
+patch=0,EE,00288A58,word,3C023F58

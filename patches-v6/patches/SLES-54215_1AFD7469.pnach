@@ -1,0 +1,14 @@
+gametitle=Monster House (PAL-M) SLES-54215 1AFD7469
+
+[50/60 FPS]
+author=asasega
+description=Might need EE Overclock (130%).
+patch=1,EE,0015BCC4,word,2C620000
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,0010E34C,word,24110000
+patch=1,EE,0010E350,word,24120050
+patch=1,EE,0010E35C,word,24130001
