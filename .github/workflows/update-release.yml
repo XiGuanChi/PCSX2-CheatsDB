@@ -1,64 +1,76 @@
-name: Check and Update Folder List
+name: Check and Update Workflows
 
 on:
-  workflow_dispatch:         # Allow manual trigger
+  workflow_dispatch:             # Can also be triggered manually
 
 jobs:
-  update-folders:
+  update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # Required for commit & push
+      contents: write            # Required to push changes
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
-      - name: Generate folder list
-        id: generate
+      - name: Install yq (YAML processor)
+        uses: mikefarah/yq@v4.44.3
+
+      - name: Get list of folders from cheats
         run: |
-          # Initialize folder array
-          folders=()
-
-          # Static folders
-          folders+=("PCSX2 Patches")
-
-          # Auto‑detect cheats‑v* folders (sorted by version)
-          while IFS= read -r dir; do
-            folders+=("$dir")
-          done < <(find . -maxdepth 1 -type d -name "cheats-v*" -printf "%f\n" | sort -V)
-
-          # Auto‑detect patches‑v* folders (sorted by version)
-          while IFS= read -r dir; do
-            folders+=("$dir")
-          done < <(find . -maxdepth 1 -type d -name "patches-v*" -printf "%f\n" | sort -V)
-
-          # Static folder
-          folders+=("patches-team")
-
-          # Build folder list string: "folder1" "folder2" ...
-          list=""
-          for f in "${folders[@]}"; do
-            list="$list \"$f\""
-          done
-          list="${list# }"   # Remove leading space
-
-          echo "FOLDER_LIST=$list" >> $GITHUB_ENV
-          echo "Generated folder list: $list"
+          # List all subdirectories inside cheats, excluding the directory itself
+          find cheats -maxdepth 1 -type d -not -name "." -exec basename {} \; | sort > folder_list.txt
+          echo "FOLDER_LIST=folder_list.txt" >> $GITHUB_ENV
 
       - name: Update release-ultra-plus.yml
         run: |
-          perl -pi -e 's/for folder in .*?;/for folder in $ENV{FOLDER_LIST};/' \
-            .github/workflows/release-ultra-plus.yml
+          FILE=".github/workflows/release-ultra-plus.yml"
+          PATH=".jobs.ultra-plus.strategy.matrix.folder"   # Adjust if your YAML structure differs
+
+          # Read the current array
+          CURRENT=$(yq eval "$PATH" "$FILE")
+          if [ "$CURRENT" = "null" ]; then
+            yq eval "$PATH = []" -i "$FILE"
+            CURRENT="[]"
+          fi
+
+          # Add folders that are not yet present
+          while IFS= read -r folder; do
+            if [ -n "$folder" ] && ! echo "$CURRENT" | grep -q "\"$folder\""; then
+              yq eval "$PATH += [\"$folder\"]" -i "$FILE"
+              echo "Added $folder to $FILE"
+            fi
+          done < "${{ env.FOLDER_LIST }}"
 
       - name: Update release-ultra.yml
         run: |
-          perl -pi -e 's/for folder in .*?;/for folder in $ENV{FOLDER_LIST};/' \
-            .github/workflows/release-ultra.yml
+          FILE=".github/workflows/release-ultra.yml"
+          PATH=".jobs.ultra.strategy.matrix.folder"         # Adjust if your YAML structure differs
+
+          CURRENT=$(yq eval "$PATH" "$FILE")
+          if [ "$CURRENT" = "null" ]; then
+            yq eval "$PATH = []" -i "$FILE"
+            CURRENT="[]"
+          fi
+
+          while IFS= read -r folder; do
+            if [ -n "$folder" ] && ! echo "$CURRENT" | grep -q "\"$folder\""; then
+              yq eval "$PATH += [\"$folder\"]" -i "$FILE"
+              echo "Added $folder to $FILE"
+            fi
+          done < "${{ env.FOLDER_LIST }}"
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .github/workflows/release-ultra-plus.yml .github/workflows/release-ultra.yml
-          git diff --staged --quiet || git commit -m "chore: update folder list in release workflows"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update folder list in release workflows"
+            git push
+          fi
