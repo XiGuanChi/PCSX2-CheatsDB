@@ -1,4 +1,4 @@
-name: Mirror Patches (Bulk)
+name: Mirror Patches (Combined)
 
 on:
   workflow_dispatch:
@@ -51,8 +51,8 @@ jobs:
             git push origin main
           fi
 
-      - name: Delay 1 minute before next job
-        run: sleep 60
+      - name: Delay 30 seconds before next job
+        run: sleep 30
 
   mirror-v2:
     name: Mirror PCSX2 (pcsx2_patches)
@@ -99,8 +99,8 @@ jobs:
             git push origin main
           fi
 
-      - name: Delay 1 minute before next job
-        run: sleep 60
+      - name: Delay 30 seconds before next job
+        run: sleep 30
 
   mirror-v3:
     name: Mirror PeterDelta (pcsx2_patches)
@@ -138,7 +138,7 @@ jobs:
         run: |
           cd target_repo
           git config user.name "github-actions[bot]"
-          git config.user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add patches-v3
           if git diff --cached --quiet; then
             echo "No changes. Skipping commit."
@@ -147,8 +147,8 @@ jobs:
             git push origin main
           fi
 
-      - name: Delay 1 minute before next job
-        run: sleep 60
+      - name: Delay 30 seconds before next job
+        run: sleep 30
 
   mirror-v4:
     name: Mirror AeroWidescreen
@@ -195,8 +195,8 @@ jobs:
             git push origin main
           fi
 
-      - name: Delay 1 minute before next job
-        run: sleep 60
+      - name: Delay 30 seconds before next job
+        run: sleep 30
 
   mirror-v5:
     name: Mirror Silentwarior112
@@ -243,8 +243,8 @@ jobs:
             git push origin main
           fi
 
-      - name: Delay 1 minute before next job
-        run: sleep 60
+      - name: Delay 30 seconds before next job
+        run: sleep 30
 
   mirror-v6:
     name: Mirror PeterDelta (PCSX2)
@@ -305,7 +305,7 @@ jobs:
         run: |
           cd target_repo
           git config user.name "github-actions[bot]"
-          git config.user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           echo "${{ steps.check_update.outputs.source_sha }}" > .last_sync_commit
           git add patches-v6 .last_sync_commit
           if git diff --cached --quiet; then
