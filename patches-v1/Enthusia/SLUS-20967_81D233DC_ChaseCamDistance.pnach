@@ -5,20 +5,20 @@ author=TheAdmiester
 
 // NOTE: Only uncomment (// symbol) one patch to avoid conflicts!
 
-[-- -4.5]
+// -- -4.5
 //patch=1,EE,2037F118,extended,C0900000
 
-[-- -4.0]
+// -- -4.0
 //patch=1,EE,2037F118,extended,C0600000
 
 // -- -3.5 - default for this patch
 patch=1,EE,2037F118,extended,C0600000
 
-[-- -3.1 - game default]
+// -- -3.1 - game default
 //patch=1,EE,2037F118,extended,C0466666
 
-[-- -3.0]
+// -- -3.0
 //patch=1,EE,2037F118,extended,C0400000
 
-[-- -2.5]
+// -- -2.5
 //patch=1,EE,2037F118,extended,C0200000
