@@ -14,7 +14,7 @@ patch=1,EE,200C0010,extended,E4810000
 patch=1,EE,200C0014,extended,0C0A0F4C
 patch=1,EE,200C001C,extended,0809DE67
 
-[Battle Cursor Fix]
+//Battle Cursor Fix
 patch=1,EE,E001FF80,extended,002ACF80
 patch=1,EE,202ACFD4,extended,3C02BF40
 

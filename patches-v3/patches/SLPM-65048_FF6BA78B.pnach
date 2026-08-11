@@ -4,7 +4,7 @@ gametitle=Kinniku Banzuke - Muscle Wars 21 (J)(SLPM-65048)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,003c5c94,word,081083f4 // c6010068
 patch=1,EE,003c5c98,word,00000000 // c602006c

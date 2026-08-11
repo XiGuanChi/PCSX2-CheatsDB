@@ -4,7 +4,7 @@ gametitle=Inuyasha - Okugi Ranbu [NTSC-J] (SLPS-25518)
 gsaspectratio=16:9
 author=Little Giant
 
-[16:9]
+//16:9
 patch=1,EE,0011ff90,word,3c013fdc //3c013fa5 hor 1
 patch=1,EE,0011ff94,word,34211ade //34211eb8
 

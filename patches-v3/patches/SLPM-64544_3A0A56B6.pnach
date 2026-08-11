@@ -4,9 +4,9 @@ gametitle=Tetsu 1 - Densha de Battle! - World Grand Prix (K)(SLPM-64544)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,001a0420,word,08030000
 patch=1,EE,000c0000,word,3c013f40
 patch=1,EE,000c0004,word,4481f000

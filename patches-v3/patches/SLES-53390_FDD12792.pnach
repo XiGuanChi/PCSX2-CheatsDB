@@ -1,9 +1,9 @@
 gametitle=Ultimate Spider-Man (PAL-E) SLES-53390 FDD12792
 
-[[Widescreen 16:9]]
-[gsaspectratio=16:9]
-[author=Arapapa & PeterDelta]
-[description=Renders the game in 16:9 aspect ratio]
+//[Widescreen 16:9]
+//gsaspectratio=16:9
+//author=Arapapa & PeterDelta
+//description=Renders the game in 16:9 aspect ratio
 //patch=0,EE,0058B210,word,08030000
 //patch=0,EE,000C0000,word,3C030074
 //patch=0,EE,000C0004,word,3C013FAA
@@ -12,8 +12,8 @@ gametitle=Ultimate Spider-Man (PAL-E) SLES-53390 FDD12792
 //patch=0,EE,000C0010,word,461E18C2
 //patch=0,EE,000C0014,word,08162C85
 //patch=0,EE,002EF740,word,3C013FB0
-[Causes problems with some textures and movement when swaying.]
-[One of those problems: https://github.com/PCSX2/pcsx2/issues/13679]
+//Causes problems with some textures and movement when swaying.
+//One of those problems: https://github.com/PCSX2/pcsx2/issues/13679
 
 [50 FPS]
 author=PeterDelta & asasega

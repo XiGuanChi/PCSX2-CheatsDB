@@ -22,7 +22,7 @@ patch=1,EE,2098EFA0,extended,00000001 // 00000000
 patch=1,EE,001B6B34,word,3C013F55 // 3C013F40 - source HOW - GamePlay X-axis.
 patch=1,EE,204A4E10,extended,3F555555 // 3F800000\3F400000 - HOW set from 001B6B34.
 patch=1,EE,204A4E18,extended,3F555555 // 3F800000\3F400000 - HOW set from 001B6B34.
-[- 204A4E10 & 204A4E18 might not work with all BIOS types & configurations.]
+// - 204A4E10 & 204A4E18 might not work with all BIOS types & configurations.
 patch=1,EE,001401D4,word,3C013F55 // 3C013F40
 patch=1,EE,0014EA44,word,3C013F55 // 3C013F40
 patch=1,EE,0014ED00,word,3C013F55 // 3C013F40

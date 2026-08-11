@@ -4,12 +4,12 @@ gametitle=Soul Nomad & the World Eaters (SLUS-21603)
 gsaspectratio=16:9
 author=nemesis2000
 
-[gameplay]
+//gameplay
 patch=1,EE,001048e4,word,3c013f40
 patch=1,EE,001048e8,word,44810000
 patch=1,EE,001048F0,word,4600c602
 
-[sprite fix]
+//sprite fix
 patch=1,EE,00150e20,word,3c033f40
 patch=1,EE,00150e34,word,3c033f80
 patch=1,EE,00150e38,word,ac830010
@@ -19,10 +19,10 @@ patch=1,EE,00150e44,word,ac80001c
 patch=1,EE,00150e48,word,03e00008
 patch=1,EE,00150e4c,word,ac830020
 
-[text width]
+//text width
 patch=1,EE,0012FAA4,word,3C023F40
 
-[text box fix]
+//text box fix
 patch=1,EE,0020B584,word,252AFFE5
 patch=1,EE,0020B54C,word,2444FFDd
 patch=1,EE,0020b8e8,word,24840036
@@ -31,7 +31,7 @@ patch=1,EE,0020B3E0,word,26860040
 patch=1,EE,0020b564,word,27c7fff8
 
 
-[portraits fix]
+//portraits fix
 patch=1,EE,001A887C,word,24050135
 patch=1,EE,001a8884,word,24080018
 patch=1,EE,001A8858,word,2409001c

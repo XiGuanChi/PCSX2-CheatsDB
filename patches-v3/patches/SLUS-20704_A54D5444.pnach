@@ -4,9 +4,9 @@ gametitle=Backyard Basketball (U)(SLUS-20704)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 
 patch=1,EE,002c9820,word,080e33b8
 patch=1,EE,0038cee0,word,46043403

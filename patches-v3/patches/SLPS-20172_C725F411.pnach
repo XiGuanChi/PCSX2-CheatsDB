@@ -4,7 +4,7 @@ gametitle=Koushien - Konpeki no Sora (J)(SLPS-20172)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,00139fc0,word,08098395 // c6010068
 patch=1,EE,00139fc4,word,00000000 // c602006c

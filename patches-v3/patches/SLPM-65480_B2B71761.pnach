@@ -3,9 +3,9 @@ gametitle=Michigan [NTSC-J] (SLPM-65480)
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-[Added conditions for PAL50 and PAL60 (ElHecht)]
+// Added conditions for PAL50 and PAL60 (ElHecht)
 
-[16:9]
+// 16:9
 patch=1,EE,0013BDF8,word,3C02C2A8 // 3C02C2E0
 patch=1,EE,0013BE08,word,3C024328 // 3C024360
 patch=1,EE,0013BE20,word,3C02C2A8 // 3C02C2E0

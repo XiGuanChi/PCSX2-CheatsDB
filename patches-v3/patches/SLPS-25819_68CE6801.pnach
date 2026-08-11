@@ -4,16 +4,16 @@ gametitle=Ar tonelico II: Melody of Metafalica (JPN) (SLPS-25819)
 gsaspectratio=16:9
 author=nemesis2000 (NTSC-J by Arapapa)
 
-[3D scenes]
+//3D scenes
 patch=1,EE,002bab2c,word,3c013f40 // hor value
 patch=1,EE,002bab30,word,44810000
 patch=1,EE,002bab38,word,4600c602
 
-[battle fix]
+//battle fix
 patch=1,EE,009dcb04,word,44400000 // right side fix
 patch=1,EE,009dcb0c,word,c4400000 // left side fix
 
-[2D scenes]
+//2D scenes
 patch=1,EE,001a95e0,word,3c014480
 patch=1,EE,001a95e8,word,44811800
 patch=1,EE,001a95ec,word,3c014a00

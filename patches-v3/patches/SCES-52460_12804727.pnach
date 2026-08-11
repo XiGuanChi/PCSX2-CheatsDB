@@ -6,10 +6,10 @@ author=ElHecht
 description=Enable native widescreen
 patch=1,EE,207d6158,extended,0014877D // 00146171 force native 16:9 mode
 
-[Disabled due to causing black texture flickering in desert areas.]
+// Disabled due to causing black texture flickering in desert areas.
 //patch=1,EE,2030afc8,extended,3c033f1f // 3c033f00 zoom
 
-[menu fix]
+// menu fix
 //patch=1,EE,20C15870,extended,43A90000 // 436E33F5
 //patch=1,EE,20C17AB0,extended,43420000 // 43082F0F
 

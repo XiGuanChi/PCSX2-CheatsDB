@@ -4,7 +4,7 @@ gametitle= King of Fighters - Maximum Impact [NTSC-J] [SLPS-25386]
 gsaspectratio=16:9
 author=nemesis2000 (pnach by Arapapa)
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,00384054,word,3c043f24 //3c043f00
 patch=1,EE,0038408c,word,46010003 //00000000

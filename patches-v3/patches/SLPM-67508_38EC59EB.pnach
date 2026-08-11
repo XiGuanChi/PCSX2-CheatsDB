@@ -4,11 +4,11 @@ gametitle=Gitaroo Man (K)(SLPM-67508)
 gsaspectratio=16:9
 description=Widescreen Hack
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,202773C0,extended,3F400000
 
-[Zoom]
+//Zoom
 //patch=1,EE,001d2580,word,3c073f40 //3c073f80
 
 

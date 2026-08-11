@@ -9,7 +9,7 @@ patch=1,EE,002644ec,word,3c014440 // hor fov
 
 [Remove Blackbars]
 description=Removes black bars in cutscenes
-[8642013c 67662134]
+//8642013c 67662134
 patch=1,EE,00225ffc,word,3c014000 //3c014286
 patch=1,EE,00226000,word,00000000 //34216667
 

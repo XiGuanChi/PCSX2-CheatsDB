@@ -4,18 +4,18 @@ gametitle=One Piece - Grand Adventure (PAL-E) (SLES-54165)
 gsaspectratio=16:9
 author=ElHecht
 
-[16:9]
+// 16:9
 patch=1,EE,002b56d8,word,3c013f40
 patch=1,EE,002b56ec,word,4481f000
 patch=1,EE,002b5730,word,461ec602
 
-[16:10]
+// 16:10
 //patch=1,EE,002b56d8,word,3c013f55
 //patch=1,EE,002b56ec,word,34215555
 //patch=1,EE,002b56f0,word,4481f000
 //patch=1,EE,002b5730,word,461ec602
 
-[16:9 and 16:10 menu fixes]
+// 16:9 and 16:10 menu fixes
 patch=1,EE,00426754,word,461e0003
 
 patch=1,EE,002b1ebc,word,46000802

@@ -5,7 +5,7 @@ gsaspectratio=16:9
 author=Bigdemon
 description=Widescreen Hack Conversion
 
-[Gameplay 16:9]
+//Gameplay 16:9
 patch=1,EE,002b0144,word,3f199999 //3f4ccccd (Increases hor. axis)
 patch=1,EE,002b0184,word,3f199999 //3f4ccccd
 patch=1,EE,003e32d4,word,3f199999 //3f4ccccd
@@ -34,7 +34,7 @@ patch=1,EE,00619604,word,3f199999 //3f4ccccd
 patch=1,EE,00626144,word,3f199999 //3f4ccccd
 patch=1,EE,002b0144,word,3f199999 //3f4ccccd
 
-[Render fix]
+//Render fix
 patch=1,EE,0012D4FC,word,3C0143D6 //3C0143A0
 patch=1,EE,00117740,word,3C0143D6 //3C0143A0
 

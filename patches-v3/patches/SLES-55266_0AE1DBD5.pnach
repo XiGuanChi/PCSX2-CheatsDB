@@ -4,7 +4,7 @@ gametitle=MotoGP 08 [PAL-M5] (SLES_552.66)
 gsaspectratio=16:9
 author=El_Patas
 
-[Gameplay 16:9]
+//Gameplay 16:9
 patch=1,EE,0013CBD8,word,4482E000 //44820000
 patch=1,EE,0013CBE8,word,460CE002 //460C0002
 patch=1,EE,0013CBEC,word,4483E800 //44830800
