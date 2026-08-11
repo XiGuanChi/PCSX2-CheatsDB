@@ -1,32 +1,37 @@
-name: Rename / Remove Text in .pnach files
+name: Rename Text in .pnach Files
 
 on:
-  push:
-  workflow_dispatch:  # allows manual trigger
+  workflow_dispatch:   # allows manual trigger
+
+permissions:
+  contents: write      # needed to commit and push changes
 
 jobs:
   rename:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0   # full history for commit
 
-      - name: Replace [text] with //text in all .pnach files
-        run: |
-          find . -name "*.pnach" -type f -exec sed -i 's/^\[\(.*\)\]$/\/\/\1/' {} \;
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-      - name: Check if there are changes
-        id: check_changes
-        run: |
-          git diff --quiet || echo "changed=true" >> $GITHUB_OUTPUT
+      - name: Run rename script
+        run: python .github/scripts/rename_pnach.py
 
-      - name: Commit and push if changed
-        if: steps.check_changes.outputs.changed == 'true'
+      - name: Commit and push if changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add .
-          git commit -m "Auto-rename: [text] → //text in .pnach files"
-          git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: replace [Nama] with //Nama in .pnach files"
+            git push
+          else
+            echo "No changes to commit."
+          fi
