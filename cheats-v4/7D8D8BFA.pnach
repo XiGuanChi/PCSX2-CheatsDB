@@ -162,5 +162,20 @@ patch=1,EE,00100244,word,3c060050
 patch=1,EE,0010024c,word,3c070001
 patch=1,EE,0010050c,word,3c090010
 
-// Language (0-Japanese 1-English 3-French 4-Italian 5-German 6-Spanish) By Mr_Beacon00(信标先生)
+// Japan Language By Mr_Beacon00(信标先生)
+patch=1,EE,20657C1C,extended,0
+
+// English Language By Mr_Beacon00(信标先生)
 patch=1,EE,20657C1C,extended,1
+
+// French Language By Mr_Beacon00(信标先生)
+patch=1,EE,20657C1C,extended,3
+
+// Italian Language By Mr_Beacon00(信标先生)
+patch=1,EE,20657C1C,extended,4
+
+// German Language By Mr_Beacon00(信标先生)
+patch=1,EE,20657C1C,extended,5
+
+// Spanish Language By Mr_Beacon00(信标先生)
+patch=1,EE,20657C1C,extended,6
