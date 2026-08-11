@@ -1,14 +1,14 @@
 gametitle=Guilty Gear XX - The Midnight Carnival SLPS-25184
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,20140B10,extended,3C0201E7
 patch=1,EE,20140B14,extended,341A01A4
 patch=1,EE,20140B18,extended,A45AD816
 patch=1,EE,20140B20,extended,10000039
 
-//Hidden characters, GG mode available
+[Hidden characters, GG mode available]
 patch=1,EE,202E4C40,extended,01010101
 
-//All EX characters can be used
+[All EX characters can be used]
 patch=1,EE,202E4C44,extended,01010101
 patch=1,EE,202E4C48,extended,01010101
 patch=1,EE,202E4C4C,extended,01010101
@@ -16,12 +16,12 @@ patch=1,EE,202E4C50,extended,01010101
 patch=1,EE,202E4C54,extended,01010101
 patch=1,EE,202E4C58,extended,01010101
 
-//All SP, EX, hidden characters, GG mode available
+[All SP, EX, hidden characters, GG mode available]
 patch=1,EE,102E4C12,extended,00000001
 patch=1,EE,402E4C14,extended,00120001
 patch=1,EE,01010105,extended,00000000
 
-//All mission CG added
+[All mission CG added]
 patch=1,EE,202E64EC,extended,01010101
 patch=1,EE,202E64F0,extended,01010101
 patch=1,EE,202E64F4,extended,01010101
@@ -29,11 +29,11 @@ patch=1,EE,202E64F8,extended,01010101
 patch=1,EE,202E64FC,extended,01010101
 patch=1,EE,202E6500,extended,01010101
 
-//All mission CG added a
+[All mission CG added a]
 patch=1,EE,402E64EC,extended,00060001
 patch=1,EE,01010105,extended,00000000
 
-//All missions complete
+[All missions complete]
 patch=1,EE,202E6504,extended,00010001
 patch=1,EE,202E6508,extended,00010001
 patch=1,EE,202E650C,extended,00010001
@@ -60,15 +60,15 @@ patch=1,EE,202E655C,extended,00010001
 patch=1,EE,202E6560,extended,00010001
 patch=1,EE,202E6564,extended,00010001
 
-//All missions complete
+[All missions complete]
 patch=1,EE,402E6504,extended,00190001
 patch=1,EE,00010001,extended,00000000
 
-//All mission CG addition & all mission complete
+[All mission CG addition & all mission complete]
 patch=1,EE,402E64EC,extended,001F0001
 patch=1,EE,01010101,extended,00000000
 
-//Arcade & Story All endings added
+[Arcade & Story All endings added]
 patch=1,EE,402E6590,extended,000B0001
 patch=1,EE,07070707,extended,00000000
 

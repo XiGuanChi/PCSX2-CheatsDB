@@ -1,22 +1,22 @@
 gametitle=MTX Mototrax SLES-52290
-//No Opponent Races
+[No Opponent Races]
 patch=1,EE,10305F78,extended,00000002
 
-//1 Lap Race
+[1 Lap Race]
 patch=1,EE,2030226C,extended,AC820034
 
-//Freeze Timer (Race)
+[Freeze Timer (Race)]
 patch=1,EE,20302298,extended,00000000
 
-//Max MTX
+[Max MTX]
 patch=1,EE,20348E6C,extended,3C01000E
 patch=1,EE,20348E70,extended,3C02007B
 patch=1,EE,20348E74,extended,AC41D42C
 
-//Ultra Slow Timer (Freestyle)
+[Ultra Slow Timer (Freestyle)]
 patch=1,EE,20247158,extended,2463FFFF
 
-//Max Freestyle
+[Max Freestyle]
 patch=1,EE,20348E78,extended,3C01000E
 patch=1,EE,20348E7C,extended,3C02009C
 patch=1,EE,20348E80,extended,AC419AB4

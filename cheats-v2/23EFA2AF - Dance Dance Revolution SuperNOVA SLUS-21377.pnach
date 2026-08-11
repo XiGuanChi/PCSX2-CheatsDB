@@ -1,20 +1,20 @@
 gametitle=Dance Dance Revolution SuperNOVA SLUS-21377
-//View Song For Max Ratings
+[View Song For Max Ratings]
 patch=1,EE,20156820,extended,24010001
 patch=1,EE,20156824,extended,A0410052
 
-//Infinite Shop Points
+[Infinite Shop Points]
 patch=1,EE,10457624,extended,0000FFFF
 
-//Max Shop Points
+[Max Shop Points]
 patch=1,EE,20457624,extended,3B9AC9FF
 
-//Have Everything Available For Purchase
+[Have Everything Available For Purchase]
 patch=1,EE,104577EA,extended,00000202
 patch=1,EE,404577EC,extended,00210001
 patch=1,EE,02020202,extended,00000000
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,104577EA,extended,00000C0C
 patch=1,EE,404577EC,extended,00210001
 patch=1,EE,0C0C0C0C,extended,00000000

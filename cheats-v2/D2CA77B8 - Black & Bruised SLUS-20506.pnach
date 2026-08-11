@@ -1,28 +1,28 @@
 gametitle=Black & Bruised SLUS-20506
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,208DD474,extended,461C4000
 
-//1-Hit Knockdown P2
+[1-Hit Knockdown P2]
 patch=1,EE,D08E6192,extended,10103F80
 patch=1,EE,208E6190,extended,3F800000
 
-//Intercontinental Mode Unlocked
+[Intercontinental Mode Unlocked]
 patch=1,EE,2099A8EC,extended,00000001
 
-//Second Skin Unlocked
+[Second Skin Unlocked]
 patch=1,EE,2099A8FC,extended,00000001
 
-//All Boxers Are Unlocked
+[All Boxers Are Unlocked]
 patch=1,EE,2099A90C,extended,00000001
 
-//Scrap Yard Scene Unlocked
+[Scrap Yard Scene Unlocked]
 patch=1,EE,2099A91C,extended,00000001
 
-//Conversation Mode Unlocked
+[Conversation Mode Unlocked]
 patch=1,EE,2099A92C,extended,00000001
 
-//Invulnerability For Boxer 1
+[Invulnerability For Boxer 1]
 patch=1,EE,2099A93C,extended,00000001
 
-//All Boxer's Life Unlocked
+[All Boxer's Life Unlocked]
 patch=1,EE,2099A95C,extended,00000001

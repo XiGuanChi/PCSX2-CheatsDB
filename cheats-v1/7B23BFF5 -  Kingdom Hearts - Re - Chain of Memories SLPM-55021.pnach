@@ -1,57 +1,57 @@
-//Cheats/Max Moogle Points after level up
+[Cheats/Max Moogle Points after level up]
 patch=1,EE,201ED6A0,extended,24A60000
 
-//Cheats/Max Experience points after level up
+[Cheats/Max Experience points after level up]
 patch=1,EE,2022A3C4,extended,3C023B9A
 patch=1,EE,2022A3C8,extended,3442C9FF
 
-//Cheats/Status HP 560/560
+[Cheats/Status HP 560/560]
 patch=1,EE,20218A94,extended,24010230 
 patch=1,EE,20218A9C,extended,AC410304
 patch=1,EE,20218AA0,extended,AC410300
 patch=1,EE,20218AAC,extended,AC610004
 patch=1,EE,20218AB0,extended,AC610000
 
-//Cheats/You can edit the deck even if the CP is over
+[Cheats/You can edit the deck even if the CP is over]
 patch=1,EE,201B5ACC,extended,00001040
 
-//Cheats/Max CP value is 9999 If you edit the deck
+[Cheats/Max CP value is 9999 If you edit the deck]
 patch=1,EE,201B5AC0,extended,2402270F
 patch=1,EE,201B5AC4,extended,AC62000C
 patch=1,EE,201B5ACC,extended,00001040
 
-//Cheats/Riku Attack points are 99 when you look at the status 9
+[Cheats/Riku Attack points are 99 when you look at the status 9]
 patch=1,EE,20218ABC,extended,240203E7
 patch=1,EE,20218AC4,extended,AC820310
 
-//Cheats/In Battle Not attacked
+[Cheats/In Battle Not attacked]
 patch=1,EE,20224CF8,extended,10000003
 
-//Cheats/In Battle Recovers HP when damaged
+[Cheats/In Battle Recovers HP when damaged]
 patch=1,EE,20224E20,extended,8E300304
 
-//Cheats/After level up Max HP increases to 560
+[Cheats/After level up Max HP increases to 560]
 patch=1,EE,202CC470,extended,34020230
 
-//Cheats/After level up CP increases to CP 1625
+[Cheats/After level up CP increases to CP 1625]
 patch=1,EE,202CC4A4,extended,34030659
 
-//Cheats/When browsing map card Map card RGB If you have more than 99 cards, Moogle will stop selling you cards until you reduce the number of cards, so be careful. Not valid for "!" series map cards.The number of cards included in the deck will be displayed with a reduced number.
+[Cheats/When browsing map card Map card RGB If you have more than 99 cards, Moogle will stop selling you cards until you reduce the number of cards, so be careful. Not valid for "!" series map cards.The number of cards included in the deck will be displayed with a reduced number.]
 patch=1,EE,201B4F34,extended,240A0009
 patch=1,EE,201B5044,extended,A04A0396
 
-//Cheats/Deck check 9 red battle cards
+[Cheats/Deck check 9 red battle cards]
 patch=1,EE,201B4F34,extended,240A0009
 patch=1,EE,201B4F78,extended,A04A0030
 
-//Cheats/Deck check 9 blue battle cards
+[Cheats/Deck check 9 blue battle cards]
 patch=1,EE,201B4F34,extended,240A0009 
 patch=1,EE,201B4FBC,extended,A04A0210 
 
-//Cheats/Deck check 9 green battle cards
+[Cheats/Deck check 9 green battle cards]
 patch=1,EE,201B4F34,extended,240A0009 
 patch=1,EE,201B4FE8,extended,A04A 0350 
 
-//Cheats/Deck checkPossess all 9 battle card enemies
+[Cheats/Deck checkPossess all 9 battle card enemies]
 patch=1,EE,201B4F34,extended,240A0009 
 patch=1,EE,201B500C,extended,A06A0490

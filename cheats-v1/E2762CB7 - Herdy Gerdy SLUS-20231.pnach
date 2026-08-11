@@ -1,31 +1,31 @@
-//Cheats/Max Bells
+[Cheats/Max Bells]
 patch=1,EE,10350B20,extended,00000064
 
-//Cheats/Max Doops
+[Cheats/Max Doops]
 patch=1,EE,20350900,extended,000003E7
 
-//Cheats/Max Gromps
+[Cheats/Max Gromps]
 patch=1,EE,2035090C,extended,000003E7
 
-//Cheats/Have All Items
+[Cheats/Have All Items]
 patch=1,EE,0035227B,extended,00000005
 patch=1,EE,2035227C,extended,04030201
 patch=1,EE,00352284,extended,00000005
 
-//Cheats/Have Super Jump Ability
+[Cheats/Have Super Jump Ability]
 patch=1,EE,00352288,extended,00000001
 
-//Cheats/Have Feather
+[Cheats/Have Feather]
 patch=1,EE,0035228C,extended,00000001
 
-//Cheats/Have Swimming Ability
+[Cheats/Have Swimming Ability]
 patch=1,EE,00352290,extended,00000001
 
-//Cheats/Unlock Enable All Level On Map
+[Cheats/Unlock Enable All Level On Map]
 patch=1,EE,20267034,extended,24020001
 patch=1,EE,20267038,extended,AE420000
 
-//Cheats/Unlock All Secrets
+[Cheats/Unlock All Secrets]
 patch=1,EE,403A9120,extended,00140001
 patch=1,EE,00000001,extended,00000000
 

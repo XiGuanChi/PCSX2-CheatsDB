@@ -1,23 +1,23 @@
 gametitle=Hot Shots Golf Fore! SCUS-97401
-//Always Hole in One All Holes
+[Always Hole in One All Holes]
 patch=1,EE,4051250C,extended,0012000A
 patch=1,EE,00000001,extended,00000000
 
-//Have All Capsules
+[Have All Capsules]
 patch=1,EE,0051BEEE,extended,00000005
 patch=1,EE,1051BEEE,extended,00000505
 patch=1,EE,2051BEF0,extended,05050505
 patch=1,EE,2051BEF4,extended,05050505
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,4050BF70,extended,00060001
 patch=1,EE,02020202,extended,00000000
 
-//Have All Clubs
+[Have All Clubs]
 patch=1,EE,2051BF18,extended,01010101
 patch=1,EE,2051BF1C,extended,01010101
 
-//Unlock All Costumes
+[Unlock All Costumes]
 patch=1,EE,0051BED5,extended,00000005
 patch=1,EE,1051BED6,extended,00000505
 patch=1,EE,4051BED8,extended,00040001
@@ -25,13 +25,13 @@ patch=1,EE,05050505,extended,00000000
 patch=1,EE,1051BEE8,extended,00000505
 patch=1,EE,0051BEEA,extended,00000005
 
-//Unlock All Courses
+[Unlock All Courses]
 patch=1,EE,0051BED4,extended,00000005
 patch=1,EE,4051BF28,extended,00030001
 patch=1,EE,05050505,extended,00000000
 patch=1,EE,0051BF34,extended,00000005
 
-//Unlock All Other
+[Unlock All Other]
 patch=1,EE,1051BF0C,extended,00000505
 patch=1,EE,4051BEF8,extended,00060001
 patch=1,EE,05050505,extended,00000000

@@ -1,5 +1,5 @@
 gametitle=Syphon Filter - The Omega Strain SCUS-97264
-//Infinite Health & 1Hit Death Enemies
+[Infinite Health & 1Hit Death Enemies]
 patch=1,EE,200C0220,extended,3C01004F
 patch=1,EE,200C0224,extended,8C217858
 patch=1,EE,200C0228,extended,50340001
@@ -9,11 +9,11 @@ patch=1,EE,200C0234,extended,00000000
 patch=1,EE,203CCB58,extended,0C030088
 patch=1,EE,203CCBB0,extended,AE800040
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2013FC34,extended,00000000
 
-//Access All Equipment (Equipment Modify)
+[Access All Equipment (Equipment Modify)]
 patch=1,EE,20332B5C,extended,00000000
 
-//Access All Levels (Command Center)
+[Access All Levels (Command Center)]
 patch=1,EE,20333030,extended,24020001

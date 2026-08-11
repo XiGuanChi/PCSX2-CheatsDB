@@ -1,31 +1,31 @@
-//Cheats/Invincible Player
+[Cheats/Invincible Player]
 patch=1,EE,005671C9,extended,00000001
 
-//Cheats/Infinite Adrenaline
+[Cheats/Infinite Adrenaline]
 patch=1,EE,00567208,extended,00000001
 
-//Cheats/Unlock All Bonus Movies And Levels
+[Cheats/Unlock All Bonus Movies And Levels]
 patch=1,EE,201BF040,extended,24020001
 
-//Cheats/Unlock All Battle Arenas
+[Cheats/Unlock All Battle Arenas]
 patch=1,EE,201BEFC0,extended,24020001
 
-//Cheats/D-Pad Up To Freeze Mission Timer
+[Cheats/D-Pad Up To Freeze Mission Timer]
 patch=1,EE,D050355C,extended,0000FFEF
 patch=1,EE,2027ACDC,extended,00000000
 
-//Cheats/Debug Mode Code AI Ignore Player
+[Cheats/Debug Mode Code AI Ignore Player]
 patch=1,EE,00567204,extended,00000001
 
-//Cheats/Debug Mode Code Debug Keys Press shoulder buttons to activate various items
+[Cheats/Debug Mode Code Debug Keys Press shoulder buttons to activate various items]
 patch=1,EE,00567210,extended,00000001
 
-//Cheats/Debug Mode Code Cutscene Skip Press X to skip cutscenes
+[Cheats/Debug Mode Code Cutscene Skip Press X to skip cutscenes]
 patch=1,EE,00567214,extended,00000001
 
-//Cheats/Debug Mode Code Invincible
+[Cheats/Debug Mode Code Invincible]
 patch=1,EE,005671C9,extended,00000001
 
-//Cheats/Debug Mode Code Unlimited Power
+[Cheats/Debug Mode Code Unlimited Power]
 patch=1,EE,00567208,extended,00000001
 

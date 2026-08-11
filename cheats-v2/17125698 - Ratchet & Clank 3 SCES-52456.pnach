@@ -1,26 +1,26 @@
 gametitle=Ratchet & Clank 3 SCES-52456
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201A7430,extended,0000000C
 
-//Max Bolts
+[Max Bolts]
 patch=1,EE,20142660,extended,05F5E0FF
 
-//Max. spare parts
+[Max. spare parts]
 patch=1,EE,20142660,extended,0098967f
 
-//Max energy in the state (restore energy by pressing briefly triangle)
+[Max energy in the state (restore energy by pressing briefly triangle)]
 patch=1,EE,20142668,extended,000003e7
 
-//Max.Energy / Nanotech Level
+[Max.Energy / Nanotech Level]
 patch=1,EE,00142696,extended,00000064
 
-//Infinite energy (not in status)
+[Infinite energy (not in status)]
 patch=1,EE,201A7430,extended,00000064
 
-//Access All Cinematics/Sketchbook/Credits
+[Access All Cinematics/Sketchbook/Credits]
 patch=1,EE,00142692,extended,00000001
 
-//Unlock All Cinematics
+[Unlock All Cinematics]
 patch=1,EE,20142BA8,extended,FFFFFFFF
 patch=1,EE,20142BAC,extended,FFFFFFFF
 patch=1,EE,20142BB0,extended,FFFFFFFF
@@ -31,11 +31,11 @@ patch=1,EE,20142BC0,extended,FFFFFFFF
 patch=1,EE,20142BC4,extended,FFFFFFFF
 patch=1,EE,20142BC8,extended,FFFFFFFF
 
-//All Titanium Bolts
+[All Titanium Bolts]
 patch=1,EE,401BBB18,extended,000A0001
 patch=1,EE,01010101,extended,00000000
 
-//Unlock All Planets
+[Unlock All Planets]
 patch=1,EE,20143050,extended,00000001
 patch=1,EE,20143054,extended,00000002
 patch=1,EE,20143058,extended,00000003
@@ -62,46 +62,46 @@ patch=1,EE,201430A8,extended,0000000E
 patch=1,EE,201430AC,extended,00000016
 patch=1,EE,201430B0,extended,00000014
 
-//Invincible (Can't Be Hit)
+[Invincible (Can't Be Hit)]
 patch=1,EE,101A4DBC,extended,00000041
 
-//Unlock Best Armor Infernox
+[Unlock Best Armor Infernox]
 patch=1,EE,001426A0,extended,00000004
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,201426D0,extended,00000000
 
-//Infinite Ammo all Weapons
+[Infinite Ammo all Weapons]
 patch=1,EE,20520858,extended,00000000
 
-//Infinite Health Giant Clank
+[Infinite Health Giant Clank]
 patch=1,EE,201A6664,extended,000005DC
 
-//Infinite Health Land Vehicle (Tyhrranosis)
+[Infinite Health Land Vehicle (Tyhrranosis)]
 patch=1,EE,D03C5FB6,extended,00004601
 patch=1,EE,203C5FB4,extended,46150001
 
-//Infinite Health Ship (Daxx)
+[Infinite Health Ship (Daxx)]
 patch=1,EE,D034EDB6,extended,00004601
 patch=1,EE,2034EDB4,extended,46150001
 
-//Infinite Health Ship (Aridia 2)
+[Infinite Health Ship (Aridia 2)]
 patch=1,EE,D035383E,extended,00004601
 patch=1,EE,2035383C,extended,46150001
 
-//Infinite Health Land Vehicle (Aridia 3&4)
+[Infinite Health Land Vehicle (Aridia 3&4)]
 patch=1,EE,D03C2A6E,extended,00004601
 patch=1,EE,203C2A6C,extended,46150001
 
-//Infinite Health Land Vehicle (Command Center)
+[Infinite Health Land Vehicle (Command Center)]
 patch=1,EE,D03B9416,extended,00004601
 patch=1,EE,203B9414,extended,46150001
 
-//Infinite Health (Ship-Command Center)
+[Infinite Health (Ship-Command Center)]
 patch=1,EE,D035B4DE,extended,00004601
 patch=1,EE,2035B4DC,extended,46150001
 
-//Infinite Health all Vehicles (Press: L1+L2+R1+R2 when you finish a vehical mission)
+[Infinite Health all Vehicles (Press: L1+L2+R1+R2 when you finish a vehical mission)]
 patch=1,EE,200A0000,extended,3C01001A
 patch=1,EE,200A0004,extended,8C2165C0
 patch=1,EE,200A0008,extended,3C02000A

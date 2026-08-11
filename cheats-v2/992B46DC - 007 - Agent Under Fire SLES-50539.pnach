@@ -1,14 +1,14 @@
 gametitle=007 - Agent Under Fire SLES-50539 Multi-6 (English, Dutch, French, German, Swedish & Spanish)
-//Unlock all levels (Number between 0-b to select level)
+[Unlock all levels (Number between 0-b to select level)]
 patch=1,EE,20413684,extended,0000000B
 
-//Infinite Health Driving Mission
+[Infinite Health Driving Mission]
 patch=1,EE,2111FE44,extended,453B8000
 
-//Infinite Ammo Driving Mission 2nd
+[Infinite Ammo Driving Mission 2nd]
 patch=1,EE,20153890,extended,00000000
 
-//Infinite health Action Mission
+[Infinite health Action Mission]
 patch=1,EE,200C0220,extended,3C0143FA
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AC6102EC

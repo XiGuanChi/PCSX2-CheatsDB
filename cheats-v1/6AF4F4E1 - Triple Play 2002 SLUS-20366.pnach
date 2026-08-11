@@ -1,10 +1,10 @@
-//Cheats/P1 Press L1+R1 For No Outs, No Strikes & 3 Balls
+[Cheats/P1 Press L1+R1 For No Outs, No Strikes & 3 Balls]
 patch=1,EE,E0030005,extended,003E988C
 patch=1,EE,003C7A61,extended,00000000
 patch=1,EE,003C7A62,extended,00000003
 patch=1,EE,003C7A63,extended,00000000
 
-//Cheats/P1 Press L2+R2 For 2 Outs, 2 Strikes & No Balls
+[Cheats/P1 Press L2+R2 For 2 Outs, 2 Strikes & No Balls]
 patch=1,EE,E003000A,extended,003E988C
 patch=1,EE,003C7A61,extended,00000002
 patch=1,EE,003C7A62,extended,00000000

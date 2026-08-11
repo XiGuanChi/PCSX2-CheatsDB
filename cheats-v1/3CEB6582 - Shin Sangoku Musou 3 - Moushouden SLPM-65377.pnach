@@ -1,53 +1,53 @@
 [Cheats/Unlock ] Changes money to MAX (Shura mode)
 patch=1,EE,202DD96C,extended,00000000
 
-//Cheats/Infinite Health 1P generals only
+[Cheats/Infinite Health 1P generals only]
 patch=1,EE,201C7368,extended,14800003
 
-//Cheats/Max Musou Gauge 1P generals only
+[Cheats/Max Musou Gauge 1P generals only]
 patch=1,EE,201C72E8,extended,50800007
 
-//Cheats/Weapon level 11 of all military commanders
+[Cheats/Weapon level 11 of all military commanders]
 patch=1,EE,4046B518,extended,00170001
 patch=1,EE,EA60EA60,extended,1CDE2FEB
 patch=1,EE,1046B574,extended,0000EA60
 
-//Cheats/Max Health with dim sum
+[Cheats/Max Health with dim sum]
 patch=1,EE,2013D26C,extended,14200001
 patch=1,EE,20146E4C,extended,14200001
 
-//Cheats/Max Musou largest in Senshu
+[Cheats/Max Musou largest in Senshu]
 patch=1,EE,2013D20C,extended,14200001
 patch=1,EE,20146DEC,extended,14200001
 
-//Cheats/Max Attack power sword items
+[Cheats/Max Attack power sword items]
 patch=1,EE,2013D1AC,extended,14200001
 patch=1,EE,20146C7C,extended,14200001
 
-//Cheats/Max Defense shield items
+[Cheats/Max Defense shield items]
 patch=1,EE,2013D14C,extended,14200001
 patch=1,EE,20146BDC,extended,14200001
 
-//Cheats/In Battle Code Required Fixed status code during play
+[Cheats/In Battle Code Required Fixed status code during play]
 patch=1,EE,2017FA28,extended,0803BC00
 patch=1,EE,200EF020,extended,0805FE8C
 patch=1,EE,200EF024,extended,845301DC
 
-//Cheats/In Battle Infinite Health
+[Cheats/In Battle Infinite Health]
 patch=1,EE,200EF000,extended,845301DC
 patch=1,EE,200EF004,extended,00131900
 patch=1,EE,200EF008,extended,A44301DE
 
-//Cheats/In Battle Infinite Musou
+[Cheats/In Battle Infinite Musou]
 patch=1,EE,200EF00C,extended,00129100
 patch=1,EE,200EF010,extended,A45201E4
 patch=1,EE,200EF01C,extended,845201E2
 
-//Cheats/In Battle Infinite Arrows 99
+[Cheats/In Battle Infinite Arrows 99]
 patch=1,EE,200EF014,extended,24120063
 patch=1,EE,200EF018,extended,A232000C
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,1046AE12,extended,0000FFFF
 
 [Cheats/Unlock ] All Rank S in Retsuden Mode)
@@ -55,17 +55,17 @@ patch=1,EE,4046C700,extended,000A0001
 patch=1,EE,00000000,extended,00000000
 patch=1,EE,1046C728,extended,00000000
 
-//Cheats/Unlock All Sound Tests
+[Cheats/Unlock All Sound Tests]
 patch=1,EE,1046AE0C,extended,00003FFF
 
-//Cheats/Unlock All Movies ALT
+[Cheats/Unlock All Movies ALT]
 patch=1,EE,2046AE10,extended,FFFFFFFF
 
 [Cheats/Unlock All Musou Endings To add the option to watch the endings,
 you need the following two codes flags] 
 patch=1,EE,2046AE14,extended,FFFFFFFF
 
-//Cheats/Unlock Musou Mode cleared
+[Cheats/Unlock Musou Mode cleared]
 patch=1,EE,2046B508,extended,01010101
 patch=1,EE,2046B50C,extended,01010101
 patch=1,EE,2046B510,extended,01010101

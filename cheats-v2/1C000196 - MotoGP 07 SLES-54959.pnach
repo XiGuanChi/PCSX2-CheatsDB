@@ -1,8 +1,8 @@
 gametitle=MotoGP 07 SLES-54959
-//Always Low Lap Time
+[Always Low Lap Time]
 patch=1,EE,2038D938,extended,AC60000C
 
-//Start On Lap 5
+[Start On Lap 5]
 patch=1,EE,200C0220,extended,84C10020
 patch=1,EE,200C0224,extended,50200001
 patch=1,EE,200C0228,extended,24010004

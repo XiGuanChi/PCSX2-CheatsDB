@@ -1,9 +1,9 @@
 gametitle=Dynasty Tactics 2 SLUS-20761
-//Unlock All Main Scenarios
+[Unlock All Main Scenarios]
 patch=1,EE,10B21EBC,extended,00000001
 
-//Infinite Troops (In-Battle) by Code Master
-//Codebreaker v7+
+[Infinite Troops (In-Battle) by Code Master]
+[Codebreaker v7+]
 patch=1,EE,2AACC91F,extended,14C00002
 patch=1,EE,20ACA456,extended,2401270F
 patch=1,EE,20ACB056,extended,A4610000
@@ -11,7 +11,7 @@ patch=1,EE,20AC4C56,extended,0827E95C
 patch=1,EE,20ACB856,extended,00000000
 patch=1,EE,209E51F8,extended,0C030088
 
-//Instant Enemies Death (In-Battle) by Code Master
+[Instant Enemies Death (In-Battle) by Code Master]
 patch=1,EE,20ACA856,extended,54C00003
 patch=1,EE,20ACA456,extended,A4600000
 patch=1,EE,20ACB056,extended,2401270F

@@ -1,12 +1,12 @@
 gametitle=Pop'n Music 14 - Fever! SLPM-66742
-//Max groove gauge
+[Max groove gauge]
 patch=1,EE,20176888,extended,00000000
 
-//Max points to purchase songs
+[Max points to purchase songs]
 patch=1,EE,21A59A50,extended,000F423F
 
-//Automatic play ON
+[Automatic play ON]
 patch=1,EE,0024F580,extended,00000001
 
-//Timely lease time maximum & secret open fully.
+[Timely lease time maximum & secret open fully.]
 patch=1,EE,21A53A58,extended,FFFFFFFF

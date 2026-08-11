@@ -1,42 +1,42 @@
-//Cheats/Infinite Lives P1
+[Cheats/Infinite Lives P1]
 patch=1,EE,00A9D515,extended,0000000A
 
-//Cheats/Infinite Ammo P1
+[Cheats/Infinite Ammo P1]
 patch=1,EE,10A64D4C,extended,0000FFFF
 
-//Cheats/Infinite Bombs 99 P1
+[Cheats/Infinite Bombs 99 P1]
 patch=1,EE,00A64D47,extended,00000063
 
-//Cheats/Infinite Arms 999 P1
+[Cheats/Infinite Arms 999 P1]
 patch=1,EE,10A64D4C,extended,000003E7
 
-//Cheats/Infinite Lives P2
+[Cheats/Infinite Lives P2]
 patch=1,EE,00A9D515,extended,00000009
 
-//Cheats/Infinite Ammo P2
+[Cheats/Infinite Ammo P2]
 patch=1,EE,10A64D3C,extended,0000FFFF
 
-//Cheats/Infinite Bombs 99 P2
+[Cheats/Infinite Bombs 99 P2]
 patch=1,EE,00A64D47,extended,00000063
 
-//Cheats/Infinite Arms 999 P2
+[Cheats/Infinite Arms 999 P2]
 patch=1,EE,10A64C1C,extended,000003E7
 
-//Cheats/Invincible 1P It has no effect on falls
+[Cheats/Invincible 1P It has no effect on falls]
 patch=1,EE,00A9D04C,extended,0000005C
 
-//Cheats/Invincible 2P It has no effect on falls
+[Cheats/Invincible 2P It has no effect on falls]
 patch=1,EE,00A9CF1C,extended,0000005C
 
-//Cheats/Time Limit 99
+[Cheats/Time Limit 99]
 patch=1,EE,10A92048,extended,000099FF
 
-//Cheats/Unlock All Trophy Items
+[Cheats/Unlock All Trophy Items]
 patch=1,EE,20E900A8,extended,FFFFFFFF
 
-//Cheats/Unlock All Stage Select
+[Cheats/Unlock All Stage Select]
 patch=1,EE,00E90010,extended,00000005
 
-//Cheats/Unlock All Record Full List Of Soldiers
+[Cheats/Unlock All Record Full List Of Soldiers]
 patch=1,EE,40E90024,extended,00210001
 patch=1,EE,FFFFFFFF,extended,00000000

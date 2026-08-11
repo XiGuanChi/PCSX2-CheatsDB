@@ -1,6 +1,6 @@
 gametitle= Taito Legends SLUS-21122
-//Bubble Bobble Activator
-//Up+Select = ON, Down+Select = OFF
+[Bubble Bobble Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,340AE366
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -25,25 +25,25 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Bubble Bobble Codes (Bubble bobble Activator must be on)
+[Bubble Bobble Codes (Bubble bobble Activator must be on)]
 
-//Infinite Credits
+[Infinite Credits]
 patch=1,EE,200A0054,extended,A0220366
 
-//Infinite Lives PL1
+[Infinite Lives PL1]
 patch=1,EE,200A005C,extended,A0220645
 
-//Infinite Lives PL2
+[Infinite Lives PL2]
 patch=1,EE,200A0060,extended,A022064A
 
-//Invincibility PL1
+[Invincibility PL1]
 patch=1,EE,200A0068,extended,A02206B6
 
-//Invincibility PL2
+[Invincibility PL2]
 patch=1,EE,200A006C,extended,A02206E8
 
-//Battle Shark Activator
-//Up+Select = ON, Down+Select = OFF
+[Battle Shark Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,3C0A0010
 patch=1,EE,200A0004,extended,354A793E
 patch=1,EE,200A0008,extended,15430003
@@ -68,17 +68,17 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Inf Credits
+[Inf Credits]
 patch=1,EE,200A0054,extended,A422093E
 
-//Infinite Torpedos
+[Infinite Torpedos]
 patch=1,EE,200A005C,extended,A0226E35
 
-//Inf HP (Screen Damage still shows)
+[Inf HP (Screen Damage still shows)]
 patch=1,EE,200A0060,extended,A0206D88
 
-//Continental Circus Activator
-//Up+Select = ON, Down+Select = OFF
+[Continental Circus Activator]
+[Up+Select = ON, Down+Select = OFF]
 
 patch=1,EE,200A0000,extended,3C0A0008
 patch=1,EE,200A0004,extended,354A273E
@@ -103,11 +103,11 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Inf Credits
+[Inf Credits]
 patch=1,EE,200A0054,extended,A422003E
 
-//Colony 7 Activator
-//Up+Select = ON, Down+Select = OFF
+[Colony 7 Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,340AA012
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -129,29 +129,29 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Infinite Credits
+[Infinite Credits]
 patch=1,EE,200A0054,extended,A0220012
 
-//Keep Shooting after Gun Loss
+[Keep Shooting after Gun Loss]
 patch=1,EE,200A005C,extended,A0220073
 
-//Only a few Fighters to Kill
+[Only a few Fighters to Kill]
 patch=1,EE,200A0064,extended,A0220020
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,200A0068,extended,A020000C
 
-//Infinite Scatter Shots
+[Infinite Scatter Shots]
 patch=1,EE,200A006C,extended,A020007F
 
-//Infinite Smart Bombs/Eradicator
+[Infinite Smart Bombs/Eradicator]
 patch=1,EE,200A0070,extended,A0200082
 
-//Infinite City
+[Infinite City]
 patch=1,EE,200A0074,extended,A020007C
 
-//Elevator Action Activator
-//Up+Select = ON, Down+Select = OFF
+[Elevator Action Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,340A8234
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -174,14 +174,14 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Inf Lives
+[Inf Lives]
 patch=1,EE,200A0054,extended,A0220034
 
-//Invincable (Needs jokering)
+[Invincable (Needs jokering)]
 patch=1,EE,200A0058,extended,A0200323
 
-//Exzisus Activator
-//Up+Select = ON, Down+Select = OFF
+[Exzisus Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,340AF80B
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -205,14 +205,14 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//INF Credits
+[INF Credits]
 patch=1,EE,200A0054,extended,A022130B
 
-//Invincibility
+[Invincibility]
 patch=1,EE,200A0058,extended,A0200670
 
-//Jungle Hunt Activator
-//Up+Select = ON, Down+Select = OFF
+[Jungle Hunt Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,340A8169
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -235,24 +235,24 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//INf Credits
+[INf Credits]
 patch=1,EE,200A0054,extended,A0220169
 
-//Inf Timer
+[Inf Timer]
 patch=1,EE,200A005C,extended,A022042E
 patch=1,EE,200A0060,extended,A022042F
 
-//Inf Lives Player 1
+[Inf Lives Player 1]
 patch=1,EE,200A0068,extended,A0220425
 
-//Inf Lives Player 2
+[Inf Lives Player 2]
 patch=1,EE,200A006C,extended,A0220426
 
-//Inf Oxygen
+[Inf Oxygen]
 patch=1,EE,200A0074,extended,A0220457
 
-//Operation Thunderbolt Activator
-//Up+Select = ON, Down+Select = OFF
+[Operation Thunderbolt Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,3C0A0008
 patch=1,EE,200A0004,extended,354A26F0
 patch=1,EE,200A0008,extended,15430003
@@ -279,40 +279,40 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Inf Credits
+[Inf Credits]
 patch=1,EE,200A0054,extended,A42226F0
 
-//Have All Hostages (Level 4 and 6)
+[Have All Hostages (Level 4 and 6)]
 patch=1,EE,200A0058,extended,A4223716
 
-//Inf Hp Player 1
+[Inf Hp Player 1]
 patch=1,EE,200A0060,extended,A4222800
 patch=1,EE,200A0064,extended,A4222802
 
-//inf HP Player 2
+[inf HP Player 2]
 patch=1,EE,200A0068,extended,A4222804
 patch=1,EE,200A006C,extended,A4222806
 
-//Inf Bullets Player 1
+[Inf Bullets Player 1]
 patch=1,EE,200A0074,extended,A42227C8
 
-//Inf Bullets Player 2
+[Inf Bullets Player 2]
 patch=1,EE,200A0078,extended,A42227CA
 
-//inf Magazine player 1
+[inf Magazine player 1]
 patch=1,EE,200A007C,extended,A42227CC
 
-//inf Magazine Player 2
+[inf Magazine Player 2]
 patch=1,EE,200A0080,extended,A42227CE
 
-//Inf Grenades Player 1
+[Inf Grenades Player 1]
 patch=1,EE,200A0084,extended,A42227D0
 
-//Inf Grenades Player 2
+[Inf Grenades Player 2]
 patch=1,EE,200A0088,extended,A42227D2
 
-//Operation Wolf Activator
-//Up+Select = ON, Down+Select = OFF
+[Operation Wolf Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,3C0A0010
 patch=1,EE,200A0004,extended,354A0C58
 patch=1,EE,200A0008,extended,15430003
@@ -340,23 +340,23 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Inf Energy
+[Inf Energy]
 patch=1,EE,200A004C,extended,a4220C58
 
-//Inf Magazine
+[Inf Magazine]
 patch=1,EE,200A0054,extended,A0220B20
 
-//Inf Bullets
+[Inf Bullets]
 patch=1,EE,200A005C,extended,A0220B1E
 
-//Inf Grenades
+[Inf Grenades]
 patch=1,EE,200A0064,extended,A0220B22
 
-//Inf Credits
+[Inf Credits]
 patch=1,EE,200A0074,extended,A0220083
 
-//Hold (R1 + R2) To finish Level
-//#Need to get Hostages for last 2 stages befor Pressing 
+[Hold (R1 + R2) To finish Level]
+[#Need to get Hostages for last 2 stages befor Pressing]
 patch=1,EE,400A0084,extended,00040001
 patch=1,EE,00000000,extended,00000000
 patch=1,EE,E004F5FF,extended,00713F02
@@ -365,8 +365,8 @@ patch=1,EE,200A0088,extended,A020004E
 patch=1,EE,200A008C,extended,A020004F
 patch=1,EE,200A0090,extended,A0200050
 
-//Have Hostage Code (Stage 5)
-//#Hold Select + R1 
+[Have Hostage Code (Stage 5)]
+[#Hold Select + R1]
 patch=1,EE,200A0078,extended,00000000
 patch=1,EE,200A007C,extended,00000000
 patch=1,EE,200A0080,extended,00000000
@@ -375,8 +375,8 @@ patch=1,EE,200A0078,extended,80220051
 patch=1,EE,200A007C,extended,A0220052
 patch=1,EE,200A0080,extended,A0200051
 
-//Rastan Activator
-//Up+Select = ON, Down+Select = OFF
+[Rastan Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,3C0A0010
 patch=1,EE,200A0004,extended,354AC012
 patch=1,EE,200A0008,extended,15430003
@@ -400,11 +400,11 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Inf Credits
+[Inf Credits]
 patch=1,EE,200A0054,extended,A4220012
 
-//Rainbow Island Activator
-//Up+Select = ON, Down+Select = OFF
+[Rainbow Island Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,3C0A0010
 patch=1,EE,200A0004,extended,354AD0AA
 patch=1,EE,200A0008,extended,15430003
@@ -428,11 +428,11 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Inf Credits
+[Inf Credits]
 patch=1,EE,200A0054,extended,A42200AA
 
-//Space Gun Activator
-//Up+Select = ON, Down+Select = OFF
+[Space Gun Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,3C0A0031
 patch=1,EE,200A0004,extended,354A733C
 patch=1,EE,200A0008,extended,15430003
@@ -456,11 +456,11 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Inf Credits
+[Inf Credits]
 patch=1,EE,200A0054,extended,A422003C
 
-//Thunder Fox Activator
-//Up+Select = ON, Down+Select = OFF
+[Thunder Fox Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,3C0A0030
 patch=1,EE,200A0004,extended,354A3B6C
 patch=1,EE,200A0008,extended,15430003
@@ -484,11 +484,11 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Inf Credits
+[Inf Credits]
 patch=1,EE,200A0054,extended,A422006C
 
-//The Ninja Kids Activator
-//Up+Select = ON, Down+Select = OFF
+[The Ninja Kids Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,3C0A0010
 patch=1,EE,200A0004,extended,354A29D8
 patch=1,EE,200A0008,extended,15430003
@@ -516,35 +516,35 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Max Credits
+[Max Credits]
 patch=1,EE,200A0054,extended,A02229D8
 
-//Inf Lives Player 1
+[Inf Lives Player 1]
 patch=1,EE,200A005C,extended,A0221005
 
-//Inf Lives Player 2
+[Inf Lives Player 2]
 patch=1,EE,200A0060,extended,A0221045
 
-//Inf Energy Player 1
+[Inf Energy Player 1]
 patch=1,EE,200A0068,extended,A0221004
 
-//Inf Energy Player 2
+[Inf Energy Player 2]
 patch=1,EE,200A006C,extended,A0221044
 
-//Invincibility Player 1
+[Invincibility Player 1]
 patch=1,EE,200A0074,extended,A022102E
 
-//Invincibility Player 2
+[Invincibility Player 2]
 patch=1,EE,200A0078,extended,A022106E
 
-//Inf Magic Player 1
+[Inf Magic Player 1]
 patch=1,EE,200A0080,extended,A0221036
 
-//Inf Magic Player 2
+[Inf Magic Player 2]
 patch=1,EE,200A0084,extended,A0221076
 
-//The New Zealand Story Activator
-//Up+Select = ON, Down+Select = OFF
+[The New Zealand Story Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,340AE6B3
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -567,32 +567,32 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//INF lives 
+[INF lives]
 patch=1,EE,200A0054,extended,A02206B3
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,200A005C,extended,A02206B7
 
-//Invincibility
+[Invincibility]
 patch=1,EE,200A0064,extended,A02207C1
 patch=1,EE,200A006C,extended,A02207C0
 
-//Infinite SCUBA Air
+[Infinite SCUBA Air]
 patch=1,EE,200A0070,extended,A02007D6
 
-//Weapon Mod
+[Weapon Mod]
 patch=1,EE,200A0074,extended,240200??
 patch=1,EE,200A0078,extended,A0220F28
 
-//Level Mod Hold R1+R2 Befor u enter Level to goto level
+[Level Mod Hold R1+R2 Befor u enter Level to goto level]
 patch=1,EE,200A007c,extended,00000000
 patch=1,EE,200A0080,extended,00000000
 patch=1,EE,E002F5FF,extended,00713F02
 patch=1,EE,200A007c,extended,240200??
 patch=1,EE,200A0080,extended,A02206B6
 
-//Volfied Activator
-//Up+Select = ON, Down+Select = OFF
+[Volfied Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,3C0A0010
 patch=1,EE,200A0004,extended,354A0026
 patch=1,EE,200A0008,extended,15430003
@@ -620,25 +620,25 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Inf Credits
+[Inf Credits]
 patch=1,EE,200A0054,extended,A0220026
 
-//INf Lives
+[INf Lives]
 patch=1,EE,200A005C,extended,A0220180
 
-//Max Shield
+[Max Shield]
 patch=1,EE,200A0064,extended,A022018A
 patch=1,EE,200A0070,extended,A022018B
 
-//Compleat Level (R1 + R2)
+[Compleat Level (R1 + R2)]
 patch=1,EE,200A0068,extended,00000000
 patch=1,EE,200A0074,extended,00000000
 patch=1,EE,E002F5FF,extended,00713F02
 patch=1,EE,200A0068,extended,A0220191
 patch=1,EE,200A0074,extended,A0220192
 
-//The Electric Yo-Yo Activator
-//Up+Select = ON, Down+Select = OFF
+[The Electric Yo-Yo Activator]
+[Up+Select = ON, Down+Select = OFF]
 patch=1,EE,200A0000,extended,340A8740
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -658,7 +658,7 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//INf Lives
+[INf Lives]
 patch=1,EE,200A0054,extended,A0220040
 
 

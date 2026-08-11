@@ -1,17 +1,17 @@
 gametitle=Marvel vs. Capcom 2 SLPM-62227
-//Max Points
+[Max Points]
 patch=1,EE,1056B790,extended,00006363
 
-//Player 1 All Characters Infinite health
+[Player 1 All Characters Infinite health]
 patch=1,EE,10565CE4,extended,00000090
 patch=1,EE,10565CE8,extended,00000090
 patch=1,EE,105450F6,extended,00000090
 
-//Player 2 No Health
+[Player 2 No Health]
 patch=1,EE,D0566854,extended,00000090
 patch=1,EE,10566854,extended,00000001
 
-//All Characters
+[All Characters]
 patch=1,EE,20567B30,extended,F8FFFFFF
 patch=1,EE,20567B34,extended,07FFFFFF
 patch=1,EE,20567B38,extended,F8FFFFFF

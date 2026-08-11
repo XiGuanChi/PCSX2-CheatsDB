@@ -1,4 +1,4 @@
-//Cheats/Max Fol View Menu
+[Cheats/Max Fol View Menu]
 patch=1,EE,200C0220,extended,3C017916
 patch=1,EE,200C0224,extended,34212708
 patch=1,EE,200C0228,extended,AE410034
@@ -8,15 +8,15 @@ patch=1,EE,20269500,extended,00408021
 patch=1,EE,20269508,extended,A65000A4
 patch=1,EE,202694E8,extended,0C030088
 
-//Cheats/Save Anywhere
+[Cheats/Save Anywhere]
 patch=1,EE,E001FFFF,extended,002D1458
 patch=1,EE,102D1462,extended,00001000
 
-//Cheats/Infinite Item Usage In Battle
+[Cheats/Infinite Item Usage In Battle]
 patch=1,EE,E001882D,extended,00274670
 patch=1,EE,2027468C,extended,00000000
 
-//Cheats/Infinite HP In Battle
+[Cheats/Infinite HP In Battle]
 patch=1,EE,200C02A0,extended,AC620010
 patch=1,EE,200C02A4,extended,AC620018
 patch=1,EE,200C02A8,extended,080A4387
@@ -27,7 +27,7 @@ patch=1,EE,10290ECA,extended,00001000
 patch=1,EE,20290ECC,extended,AC64008C
 patch=1,EE,20290E14,extended,080300A8
 
-//Cheats/Infinite MP In Battle
+[Cheats/Infinite MP In Battle]
 patch=1,EE,200C02B0,extended,AD4B001C
 patch=1,EE,200C02B4,extended,AD4B0024
 patch=1,EE,200C02B8,extended,08081606
@@ -38,55 +38,55 @@ patch=1,EE,102058BA,extended,00001000
 patch=1,EE,202058BC,extended,AD510090
 patch=1,EE,20205810,extended,080300AC
 
-//Cheats/One Hit fills Bonus Battle Gauge
+[Cheats/One Hit fills Bonus Battle Gauge]
 patch=1,EE,D03F5D80,extended,0000802D
 patch=1,EE,203F5D80,extended,24102710
 
-//Cheats/View Menu For Max HP
+[Cheats/View Menu For Max HP]
 patch=1,EE,E002202D,extended,003F9AD8
 patch=1,EE,203F9ADC,extended,3C100001
 patch=1,EE,203F9AE4,extended,3610869F
 
-//Cheats/View Menu To Refill HP To Max
+[Cheats/View Menu To Refill HP To Max]
 patch=1,EE,E001082A,extended,003FDE04
 patch=1,EE,203FDE08,extended,00000000
 
-//Cheats/View Menu For Max MP
+[Cheats/View Menu For Max MP]
 patch=1,EE,E002282D,extended,003FDEE0
 patch=1,EE,203FDEE4,extended,3C100001
 patch=1,EE,203FDEEC,extended,3610869F
 
-//Cheats/View Menu To Refill MP To Max
+[Cheats/View Menu To Refill MP To Max]
 patch=1,EE,E001082A,extended,003FDF9C
 patch=1,EE,203FDFA0,extended,00000000
 
-//Cheats/View Menu For Max ATK
+[Cheats/View Menu For Max ATK]
 patch=1,EE,E001202D,extended,003FE0BC
 patch=1,EE,203FE0C0,extended,2410270F
 
-//Cheats/View Menu For Max DEF
+[Cheats/View Menu For Max DEF]
 patch=1,EE,E001202D,extended,003FE4C4
 patch=1,EE,203FE4C8,extended,2410270F
 
-//Cheats/View Menu For Max AGL
+[Cheats/View Menu For Max AGL]
 patch=1,EE,E001202D,extended,003FE874
 patch=1,EE,203FE878,extended,2410270F
 
-//Cheats/View Menu For Max HIT
+[Cheats/View Menu For Max HIT]
 patch=1,EE,E001202D,extended,003F9F14
 patch=1,EE,203F9F18,extended,2410270F
 
-//Cheats/View Menu For Max INT
+[Cheats/View Menu For Max INT]
 patch=1,EE,E001202D,extended,003FABE0
 patch=1,EE,203FABE4,extended,2416270F
 
-//Cheats/Treasure Boxes Always Displayed On Map
+[Cheats/Treasure Boxes Always Displayed On Map]
 patch=1,EE,202D8720,extended,24020002
 
-//Cheats/Enemies Always Displayed On Map
+[Cheats/Enemies Always Displayed On Map]
 patch=1,EE,202D8734,extended,24020002
 
-//Cheats/Infinite Water in Mosel Dunes
+[Cheats/Infinite Water in Mosel Dunes]
 patch=1,EE,E0020020,extended,0032CB78
 patch=1,EE,2032CB70,extended,3C0342C8
 patch=1,EE,2032CB74,extended,44830000

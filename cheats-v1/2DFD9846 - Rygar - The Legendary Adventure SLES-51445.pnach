@@ -1,19 +1,19 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,204BBF40,extended,000026FE
 patch=1,EE,204BBF44,extended,000026FE
 
-//Cheats/Infinite Icol
+[Cheats/Infinite Icol]
 patch=1,EE,204BBF48,extended,000026FE
 patch=1,EE,204BBF4C,extended,000026FE
 
-//Cheats/Max Points
+[Cheats/Max Points]
 patch=1,EE,204BBF68,extended,0000270F
 
-//Cheats/Attack Maxed
+[Cheats/Attack Maxed]
 patch=1,EE,204BBF54,extended,000003E7
 
-//Cheats/Defence Maxed
+[Cheats/Defence Maxed]
 patch=1,EE,204BBF58,extended,000003E7
 
-//Cheats/All Mystic Stones Active
+[Cheats/All Mystic Stones Active]
 patch=1,EE,204688BC,extended,FFFFFFFF

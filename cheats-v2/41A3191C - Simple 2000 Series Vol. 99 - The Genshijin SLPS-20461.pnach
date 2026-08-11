@@ -1,10 +1,10 @@
 gametitle=Simple 2000 Series Vol. 99 - The Genshijin SLPS-20461
-//Max Konomi's 99
+[Max Konomi's 99]
 patch=1,EE,10801BAA,extended,00000063
 patch=1,EE,20801BAC,extended,00630063
 
-//Max stones 9999
+[Max stones 9999]
 patch=1,EE,10801BB0,extended,0000270F
 
-//Max village level after new material
+[Max village level after new material]
 patch=1,EE,2018F47C,extended,00000000

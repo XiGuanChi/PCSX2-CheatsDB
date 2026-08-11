@@ -1,4 +1,4 @@
-//Cheats/Activator Must Be On
+[Cheats/Activator Must Be On]
 patch=1,EE,200A0000,extended,3C150051
 patch=1,EE,200A0004,extended,86B6DDFA
 patch=1,EE,200A0008,extended,20170060
@@ -55,27 +55,27 @@ patch=1,EE,200A02E8,extended,1000FFC0
 patch=1,EE,20106C64,extended,0C028000
 patch=1,EE,20106C68,extended,00000000
 
-//Cheats/Street Fighter Alpha Infinite Health P1
+[Cheats/Street Fighter Alpha Infinite Health P1]
 patch=1,EE,200A0070,extended,3C100090
 patch=1,EE,200A0074,extended,36100090
 patch=1,EE,200A0078,extended,AEB00440
 
-//Cheats/Street Fighter Alpha 2 Infinite Health P1
+[Cheats/Street Fighter Alpha 2 Infinite Health P1]
 patch=1,EE,200A00DC,extended,3C100090
 patch=1,EE,200A00E0,extended,36100090
 patch=1,EE,200A00E4,extended,AEB00450
 
-//Cheats/Street Fighter Alpha 3 Infinite Health P1
+[Cheats/Street Fighter Alpha 3 Infinite Health P1]
 patch=1,EE,200A0134,extended,3C100090
 patch=1,EE,200A0138,extended,36100090
 patch=1,EE,200A013C,extended,AEB00450
 
-//Cheats/Street Fighter Alpha 3U Infinite Health P1
+[Cheats/Street Fighter Alpha 3U Infinite Health P1]
 patch=1,EE,200A0294,extended,3C100090
 patch=1,EE,200A0298,extended,36100090
 patch=1,EE,200A029C,extended,AEB00450
 
-//Cheats/Super Gem Fighter MiniMix Infinite Health P1
+[Cheats/Super Gem Fighter MiniMix Infinite Health P1]
 patch=1,EE,200A0198,extended,3C100090
 patch=1,EE,200A019C,extended,36100090
 patch=1,EE,200A01A0,extended,AEB00440

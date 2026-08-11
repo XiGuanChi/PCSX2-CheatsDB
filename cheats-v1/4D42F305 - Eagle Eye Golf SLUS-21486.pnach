@@ -1,21 +1,21 @@
-//Cheats/Player 1 Always 1 Shot Recorded All Holes
+[Cheats/Player 1 Always 1 Shot Recorded All Holes]
 patch=1,EE,40745784,extended,00080001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Unlock All Golfers
+[Cheats/Unlock All Golfers]
 patch=1,EE,10746D9C,extended,00001FFF
 
-//Cheats/Unlock All Courses
+[Cheats/Unlock All Courses]
 patch=1,EE,00746D9F,extended,0000000C
 patch=1,EE,00746DA0,extended,0000001F
 
-//Cheats/Unlock All Clubs
+[Cheats/Unlock All Clubs]
 patch=1,EE,10746DB2,extended,0000FFFF
 patch=1,EE,10746DB4,extended,0000FFFF
 
-//Cheats/Unlock All Balls
+[Cheats/Unlock All Balls]
 patch=1,EE,10746DB8,extended,0000FFFF
 
-//Cheats/Unlock All Accessories
+[Cheats/Unlock All Accessories]
 patch=1,EE,10746DBA,extended,0000FFFE
 patch=1,EE,10746DBC,extended,00003FFF

@@ -1,176 +1,176 @@
 gametitle=RoadKill SLES-51842
-//Infinite Time
+[Infinite Time]
 patch=1,EE,2017ac70,extended,00000000
 
-//Max & Inf Health
+[Max & Inf Health]
 patch=1,EE,20441EF0,extended,3F800000
 
-//Super Nitro Boost
+[Super Nitro Boost]
 patch=1,EE,20441F98,extended,42C80000
 
-//VEHICLE UNLOCKS
-//Axl
+[VEHICLE UNLOCKS]
+[Axl]
 patch=1,EE,10599B5C,extended,00000001
 patch=1,EE,10599B60,extended,00000001
-//Bagger
+[Bagger]
 patch=1,EE,10598CC0,extended,00000001
-//Banjo
+[Banjo]
 patch=1,EE,10598A7C,extended,00000001
 patch=1,EE,10598A80,extended,00000001
-//Bean
+[Bean]
 patch=1,EE,10598960,extended,00000001
-//Beaver
+[Beaver]
 patch=1,EE,1059871C,extended,00000001
 patch=1,EE,10598720,extended,00000001
-//Bling
+[Bling]
 patch=1,EE,105997FC,extended,00000001
 patch=1,EE,10599800,extended,00000001
-//Brady
+[Brady]
 patch=1,EE,10597C70,extended,00000001
-//Brahma
+[Brahma]
 patch=1,EE,10597AC0,extended,00000001
-//Bruiser
+[Bruiser]
 patch=1,EE,10599770,extended,00000001
-//Bulldog
+[Bulldog]
 patch=1,EE,10597E20,extended,00000001
-//Bumper
+[Bumper]
 patch=1,EE,1059991C,extended,00000001
 patch=1,EE,10599920,extended,00000001
-//Burner
+[Burner]
 patch=1,EE,10599260,extended,00000001
-//Clintos
+[Clintos]
 patch=1,EE,10599D0C,extended,00000001
 patch=1,EE,10599D10,extended,00000001
-//Crate
+[Crate]
 patch=1,EE,10599BEC,extended,00000001
 patch=1,EE,10599BF0,extended,00000001
-//Drifter
+[Drifter]
 patch=1,EE,10598060,extended,00000001
-//Drone
+[Drone]
 patch=1,EE,1059988C,extended,00000001
 patch=1,EE,10599890,extended,00000001
-//DWI
+[DWI]
 patch=1,EE,10598B0C,extended,00000001
 patch=1,EE,10598B10,extended,00000001
-//Ese
+[Ese]
 patch=1,EE,105987B0,extended,00000001
-//Fireball
+[Fireball]
 patch=1,EE,105979A0,extended,00000001
-//Gauntlet
+[Gauntlet]
 patch=1,EE,10599A3C,extended,00000001
 patch=1,EE,10599A40,extended,00000001
-//Goblin
+[Goblin]
 patch=1,EE,105988D0,extended,00000001
-//Grim
+[Grim]
 patch=1,EE,105985FC,extended,00000001
 patch=1,EE,10598600,extended,00000001
-//Grinder
+[Grinder]
 patch=1,EE,105999B0,extended,00000001
-//Gutless
+[Gutless]
 patch=1,EE,1059940C,extended,00000001
 patch=1,EE,10599410,extended,00000001
-//Hoss
+[Hoss]
 patch=1,EE,105984DC,extended,00000001
 patch=1,EE,105984E0,extended,00000001
-//Dumper
+[Dumper]
 patch=1,EE,10599ACC,extended,00000001
 patch=1,EE,10599AD0,extended,00000001
-//Jethro
+[Jethro]
 patch=1,EE,10598C2C,extended,00000001
 patch=1,EE,10598C30,extended,00000001
-//Juice
+[Juice]
 patch=1,EE,10597D00,extended,00000001
-//Junky
+[Junky]
 patch=1,EE,1059856C,extended,00000001
 patch=1,EE,10598570,extended,00000001
-//Lawdog
+[Lawdog]
 patch=1,EE,10597D90,extended,00000001
-//Lizard
+[Lizard]
 patch=1,EE,10597F40,extended,00000001
-//Mercenary
+[Mercenary]
 patch=1,EE,10598450,extended,00000001
-//Molotov
+[Molotov]
 patch=1,EE,10598B9C,extended,00000001
 patch=1,EE,10598BA0,extended,00000001
-//Monster
+[Monster]
 patch=1,EE,105991D0,extended,00000001
-//Mullet
+[Mullet]
 patch=1,EE,10598330,extended,00000001
-//Offroad
+[Offroad]
 patch=1,EE,105994A0,extended,00000001
-//Omega
+[Omega]
 patch=1,EE,105995C0,extended,00000001
-//Orange
+[Orange]
 patch=1,EE,10599C7C,extended,00000001
 patch=1,EE,10599C80,extended,00000001
-//Pinata
+[Pinata]
 patch=1,EE,10598840,extended,00000001
-//Primer
+[Primer]
 patch=1,EE,105992F0,extended,00000001
-//Pumpkin
+[Pumpkin]
 patch=1,EE,10599380,extended,00000001
-//Rattail
+[Rattail]
 patch=1,EE,10599530,extended,00000001
-//Ray
+[Ray]
 patch=1,EE,10598D50,extended,00000001
-//Razor
+[Razor]
 patch=1,EE,10597A30,extended,00000001
-//Rigg
+[Rigg]
 patch=1,EE,105983C0,extended,00000001
-//Sanford
+[Sanford]
 patch=1,EE,10597EB0,extended,00000001
-//Senor
+[Senor]
 patch=1,EE,10598690,extended,00000001
-//Shag
+[Shag]
 patch=1,EE,10597B50,extended,00000001
-//Spirit
+[Spirit]
 patch=1,EE,1059964C,extended,00000001
 patch=1,EE,10599650,extended,00000001
-//Stalker
+[Stalker]
 patch=1,EE,105996E0,extended,00000001
-//Stump
+[Stump]
 patch=1,EE,105980F0,extended,00000001
-//S.T.V.
+[S.T.V.]
 patch=1,EE,10598180,extended,00000001
-//Thunder
+[Thunder]
 patch=1,EE,10598F00,extended,00000001
-//Tornado
+[Tornado]
 patch=1,EE,105982A0,extended,00000001
-//Tub
+[Tub]
 patch=1,EE,10597FD0,extended,00000001
-//Vault
+[Vault]
 patch=1,EE,10598DE0,extended,00000001
-//Widget
+[Widget]
 patch=1,EE,105989EC,extended,00000001
 patch=1,EE,105989F0,extended,00000001
-//Yellow
+[Yellow]
 patch=1,EE,10597BDC,extended,00000001
 patch=1,EE,10597BE0,extended,00000001
 
-//WEAPON CODES - ON PICK-UP
-//Infinite Mini Gun Ammo
+[WEAPON CODES - ON PICK-UP]
+[Infinite Mini Gun Ammo]
 patch=1,EE,10470EC0,extended,000000C8
-//Infinite Twister Rocket
+[Infinite Twister Rocket]
 patch=1,EE,10470ED0,extended,00000009
-//Infinite Cluster Rocket
+[Infinite Cluster Rocket]
 patch=1,EE,10470ED4,extended,00000014
-//Infinite Homing Rockets
+[Infinite Homing Rockets]
 patch=1,EE,10470ED8,extended,00000009
-//Infinite BGM
+[Infinite BGM]
 patch=1,EE,10470EDC,extended,00000009
-//Infinite Sniper
+[Infinite Sniper]
 patch=1,EE,10470EF8,extended,0000000F
-//Infinite Air-Strike
+[Infinite Air-Strike]
 patch=1,EE,10470EFC,extended,00000009
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,10470EE0,extended,00000009
-//Infinite Concussion Mine
+[Infinite Concussion Mine]
 patch=1,EE,10470EF0,extended,00000005
-//Infinite EMP
+[Infinite EMP]
 patch=1,EE,10470EC8,extended,00000005
-//Infinite Bombs
+[Infinite Bombs]
 patch=1,EE,10470EEC,extended,00000009
-//Infinite Laser Trip Mine
+[Infinite Laser Trip Mine]
 patch=1,EE,10470EE4,extended,00000009
-//Infinite Det Mines
+[Infinite Det Mines]
 patch=1,EE,10470EF4,extended,00000009

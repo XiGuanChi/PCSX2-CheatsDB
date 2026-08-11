@@ -1,181 +1,181 @@
-//Cheats/Bare Knuckle P1 Infinite Lives
+[Cheats/Bare Knuckle P1 Infinite Lives]
 patch=1,EE,00FD8AE0,extended,00000009
 
-//Cheats/Bare Knuckle P1 Infinite Health
+[Cheats/Bare Knuckle P1 Infinite Health]
 patch=1,EE,00FD43F3,extended,00000050
 
-//Cheats/Bare Knuckle P1 Infinite SP
+[Cheats/Bare Knuckle P1 Infinite SP]
 patch=1,EE,00FD8AE1,extended,00000009
 
-//Cheats/Bare Knuckle P2 Infinite Lives
+[Cheats/Bare Knuckle P2 Infinite Lives]
 patch=1,EE,00FD8AE3,extended,00000009
 
-//Cheats/Bare Knuckle P2 Infinite Health
+[Cheats/Bare Knuckle P2 Infinite Health]
 patch=1,EE,00FD4473,extended,00000050
 
-//Cheats/Bare Knuckle P2 Infinite SP
+[Cheats/Bare Knuckle P2 Infinite SP]
 patch=1,EE,00FD8AE4,extended,00000009
 
-//Cheats/Bare Knuckle 2 P1 Infinite Lives
+[Cheats/Bare Knuckle 2 P1 Infinite Lives]
 patch=1,EE,00FD7B43,extended,00000009
 
-//Cheats/Bare Knuckle 2 P1 Infinite Health
+[Cheats/Bare Knuckle 2 P1 Infinite Health]
 patch=1,EE,00FD7B41,extended,00000068
 
-//Cheats/Bare Knuckle 2 P2 Infinite Lives
+[Cheats/Bare Knuckle 2 P2 Infinite Lives]
 patch=1,EE,00FD7C43,extended,00000009
 
-//Cheats/Bare Knuckle 2 P2 Infinite Health
+[Cheats/Bare Knuckle 2 P2 Infinite Health]
 patch=1,EE,00FD7C41,extended,00000068
 
-//Cheats/Bare Knuckle 3 P1 Infinite Lives
+[Cheats/Bare Knuckle 3 P1 Infinite Lives]
 patch=1,EE,D1FC5C54,extended,0000000E
 patch=1,EE,00FD6B4B,extended,00000009
 
-//Cheats/Bare Knuckle 3 P1 Infinite Health
+[Cheats/Bare Knuckle 3 P1 Infinite Health]
 patch=1,EE,D1FC5C54,extended,0000000E
 patch=1,EE,00FD6B2C,extended,00000034
 
-//Cheats/Bare Knuckle 3 P1 Max Score
+[Cheats/Bare Knuckle 3 P1 Max Score]
 patch=1,EE,D1FC5C54,extended,0000000E
 patch=1,EE,10FD6B42,extended,0000FFFF
 
-//Cheats/Bare Knuckle 3 P1 Invincible
+[Cheats/Bare Knuckle 3 P1 Invincible]
 patch=1,EE,D1FC5C54,extended,0000000E
 patch=1,EE,00FD6B1D,extended,00000014
 
-//Cheats/Bare Knuckle 3 P2 Infinite Lives
+[Cheats/Bare Knuckle 3 P2 Infinite Lives]
 patch=1,EE,D1FC5C54,extended,0000000E
 patch=1,EE,00FD6C4B,extended,00000009
 
-//Cheats/Bare Knuckle 3 P2 Infinite Health
+[Cheats/Bare Knuckle 3 P2 Infinite Health]
 patch=1,EE,D1FC5C54,extended,0000000E
 patch=1,EE,00FD6C2C,extended,00000034
 
-//Cheats/Bare Knuckle 3 P2 Max Score
+[Cheats/Bare Knuckle 3 P2 Max Score]
 patch=1,EE,D1FC5C54,extended,0000000E
 patch=1,EE,10FD6C42,extended,0000FFFF
 
-//Cheats/Bare Knuckle 3 P2 Invincible
+[Cheats/Bare Knuckle 3 P2 Invincible]
 patch=1,EE,D1FC5C54,extended,0000000E
 patch=1,EE,00FD6C1D,extended,00000014
 
-//Cheats/Bare Knuckle 3 Stage Select Available In Options
+[Cheats/Bare Knuckle 3 Stage Select Available In Options]
 patch=1,EE,D1FC5C54,extended,0000000E
 patch=1,EE,00FD80E5,extended,00000001
 
-//Cheats/Bonanza Bros P1 Infinite Hit
+[Cheats/Bonanza Bros P1 Infinite Hit]
 patch=1,EE,D1FC5C54,extended,0000000B
 patch=1,EE,00FD4C15,extended,0000000B
 
-//Cheats/Bonanza Bros P1 Invincible
+[Cheats/Bonanza Bros P1 Invincible]
 patch=1,EE,D1FC5C54,extended,0000000B
 patch=1,EE,00FCE27F,extended,00000002
 
-//Cheats/Bonanza Bros P2 Infinite Hit
+[Cheats/Bonanza Bros P2 Infinite Hit]
 patch=1,EE,D1FC5C54,extended,0000000B
 patch=1,EE,00FD4C13,extended,0000000B
 
-//Cheats/Bonanza Bros P2 Invincible
+[Cheats/Bonanza Bros P2 Invincible]
 patch=1,EE,D1FC5C54,extended,0000000B
 patch=1,EE,00FCE329,extended,00000002
 
-//Cheats/Bonanza Bros Infinite Continues
+[Cheats/Bonanza Bros Infinite Continues]
 patch=1,EE,D1FC5C54,extended,0000000B
 patch=1,EE,00FD4C39,extended,00000004
 
-//Cheats/Bonanza Bros Infinite Time
+[Cheats/Bonanza Bros Infinite Time]
 patch=1,EE,D1FC5C54,extended,0000000B
 patch=1,EE,00FCF80A,extended,00000000
 
-//Cheats/Sonic CD Palm Tree Panic Codes Infinite Rings
+[Cheats/Sonic CD Palm Tree Panic Codes Infinite Rings]
 patch=1,EE,21043F90,extended,000003E7
 
-//Cheats/Sonic CD Infinite HP Coins
+[Cheats/Sonic CD Infinite HP Coins]
 patch=1,EE,200A001C,extended,24020099
 patch=1,EE,200A0020,extended,AC2200A0
 
-//Cheats/Sonic CD Infinite Lives
+[Cheats/Sonic CD Infinite Lives]
 patch=1,EE,200A0024,extended,24020003
 patch=1,EE,200A0028,extended,A0220058
 
-//Cheats/Sonic CD Infinite Time
+[Cheats/Sonic CD Infinite Time]
 patch=1,EE,2104A939,extended,00000000
 
 [Cheats/Sonic CD ] 0 UFO's Remaining Instant Win UFO MiniGame
 patch=1,EE,21020060,extended,00000000
 
-//Cheats/Sonic CD Infinite Time UFO MiniGame
+[Cheats/Sonic CD Infinite Time UFO MiniGame]
 patch=1,EE,21020070,extended,000003E7
 
-//Cheats/Sonic Drift 2 Rings 99
+[Cheats/Sonic Drift 2 Rings 99]
 patch=1,EE,D1FC5C54,extended,00000006
 patch=1,EE,00992843,extended,00000063
 
-//Cheats/Sonic R 1st place In Grand Prix Race
+[Cheats/Sonic R 1st place In Grand Prix Race]
 patch=1,EE,004F0014,extended,00000001
 
-//Cheats/Sonic R 999 Rings
+[Cheats/Sonic R 999 Rings]
 patch=1,EE,104EFFD0,extended,00000999
 
-//Cheats/Sonic the Fighters P1 Infinite HP
+[Cheats/Sonic the Fighters P1 Infinite HP]
 patch=1,EE,0188BE6C,extended,0000008C
 patch=1,EE,0188C392,extended,0000008C
 
-//Cheats/Sonic the Fighters P1 Infinite Barrier
+[Cheats/Sonic the Fighters P1 Infinite Barrier]
 patch=1,EE,0188C930,extended,00000005
 patch=1,EE,0188C934,extended,00000005
 
-//Cheats/Sonic the Hedgehog 2 GG Rings 99
+[Cheats/Sonic the Hedgehog 2 GG Rings 99]
 patch=1,EE,D1FC5C54,extended,00000003
 patch=1,EE,00991E19,extended,00000063
 
-//Cheats/Sonic the Hedgehog 2 GG Infinite Health
+[Cheats/Sonic the Hedgehog 2 GG Infinite Health]
 patch=1,EE,D1FC5C54,extended,00000003
 patch=1,EE,00991E18,extended,00000009
 
-//Cheats/Sonic the Hedgehog 2 GG No Attack
+[Cheats/Sonic the Hedgehog 2 GG No Attack]
 patch=1,EE,D1FC5C54,extended,00000003
 patch=1,EE,00991F29,extended,00000015
 
-//Cheats/Sonic the Hedgehog 2 GG Zero Retention Time
+[Cheats/Sonic the Hedgehog 2 GG Zero Retention Time]
 patch=1,EE,E0020003,extended,01FC5C54
 patch=1,EE,00991E39,extended,00000000
 patch=1,EE,00991E3A,extended,00000000
 
-//Cheats/Sonic Spinball Infinite Balls
+[Cheats/Sonic Spinball Infinite Balls]
 patch=1,EE,D1FC5C54,extended,00000004
 patch=1,EE,00992596,extended,00000009
 
-//Cheats/Sonic Spinball Infinite Continues
+[Cheats/Sonic Spinball Infinite Continues]
 patch=1,EE,D1FC5C54,extended,00000004
 patch=1,EE,0099259B,extended,00000009
 
-//Cheats/Sonic Spinball 99 Rings
+[Cheats/Sonic Spinball 99 Rings]
 patch=1,EE,D1FC5C54,extended,00000004
 patch=1,EE,009927AF,extended,00000099
 
-//Cheats/Sonic Triple Trouble Infinite Lives
+[Cheats/Sonic Triple Trouble Infinite Lives]
 patch=1,EE,D1FC5C54,extended,00000005
 patch=1,EE,00991CC0,extended,00000009
 
-//Cheats/Sonic Triple Trouble 98 Rings
+[Cheats/Sonic Triple Trouble 98 Rings]
 patch=1,EE,D1FC5C54,extended,00000005
 patch=1,EE,00991CD9,extended,00000098
 
-//Cheats/Sonic Triple Trouble Infinite Time
+[Cheats/Sonic Triple Trouble Infinite Time]
 patch=1,EE,D1FC5C54,extended,00000005
 patch=1,EE,00991CDD,extended,00000000
 
-//Cheats/Sonic Triple Trouble Character Change Sonic
+[Cheats/Sonic Triple Trouble Character Change Sonic]
 patch=1,EE,D1FC5C54,extended,00000000
 patch=1,EE,00991CBF,extended,00000001
 
-//Cheats/Sonic Triple Trouble Character Change Tails
+[Cheats/Sonic Triple Trouble Character Change Tails]
 patch=1,EE,D1FC5C54,extended,00000000
 patch=1,EE,00991CBF,extended,00000002
 
-//Cheats/Tails Adventure Rings 99
+[Cheats/Tails Adventure Rings 99]
 patch=1,EE,D1FC5C54,extended,00000008
 patch=1,EE,009920A6,extended,00000099
 
@@ -183,7 +183,7 @@ patch=1,EE,009920A6,extended,00000099
 patch=1,EE,D1FC5C54,extended,00000007
 patch=1,EE,00992315,extended,00000009
 
-//Cheats/Tails Skypatrol 99 Crystals
+[Cheats/Tails Skypatrol 99 Crystals]
 patch=1,EE,D1FC5C54,extended,00000007
 patch=1,EE,00992317,extended,00000099
 
@@ -191,72 +191,72 @@ patch=1,EE,00992317,extended,00000099
 patch=1,EE,D1FC5C54,extended,00000007
 patch=1,EE,0099230E,extended,00000020
 
-//Cheats/Vectorman Infinite Time
+[Cheats/Vectorman Infinite Time]
 patch=1,EE,D1FC5C54,extended,00000009
 patch=1,EE,00FD7450,extended,00003B04
 
-//Cheats/Vectorman Invincible
+[Cheats/Vectorman Invincible]
 patch=1,EE,D1FC5C54,extended,00000009
 patch=1,EE,00FD702C,extended,0000001F
 
-//Cheats/Vectorman Infinite Max Health
+[Cheats/Vectorman Infinite Max Health]
 patch=1,EE,D1FC5C54,extended,00000009
 patch=1,EE,00FD7439,extended,0000000B
 
-//Cheats/Vectorman Infinite Ammo All Weapons
+[Cheats/Vectorman Infinite Ammo All Weapons]
 patch=1,EE,D1FC5C54,extended,00000009
 patch=1,EE,00FD7447,extended,00000078
 
-//Cheats/Vectorman Rapid Fire Attack All Weapons
+[Cheats/Vectorman Rapid Fire Attack All Weapons]
 patch=1,EE,D1FC5C54,extended,00000009
 patch=1,EE,00FD6F50,extended,000000FF
 
-//Cheats/Vectorman 2 Infinite Max Stamina
+[Cheats/Vectorman 2 Infinite Max Stamina]
 patch=1,EE,D1FC5C54,extended,0000000A
 patch=1,EE,00FD757B,extended,0000000B
 
-//Cheats/Vectorman 2 Infinite Time
+[Cheats/Vectorman 2 Infinite Time]
 patch=1,EE,D1FC5C54,extended,0000000A
 patch=1,EE,00FD7592,extended,00003B04
 
-//Cheats/Vectorman 2 Invincible
+[Cheats/Vectorman 2 Invincible]
 patch=1,EE,D1FC5C54,extended,0000000A
 patch=1,EE,00FD716A,extended,00000024
 
-//Cheats/Vectorman 2 Infinite Ammo All Weapons
+[Cheats/Vectorman 2 Infinite Ammo All Weapons]
 patch=1,EE,D1FC5C54,extended,0000000A
 patch=1,EE,00FD7589,extended,00000064
 
-//Cheats/Vectorman 2 Rapid Fire Attack All Weapons
+[Cheats/Vectorman 2 Rapid Fire Attack All Weapons]
 patch=1,EE,D1FC5C54,extended,0000000A
 patch=1,EE,00FD708E,extended,000000FF
 
-//Cheats/Vectorman 2 Have Fire Ant Weapon Secret
+[Cheats/Vectorman 2 Have Fire Ant Weapon Secret]
 patch=1,EE,D1FC5C54,extended,0000000A
 patch=1,EE,00FD708F,extended,00000009
 
-//Cheats/Unlock Bare Knuckle
+[Cheats/Unlock Bare Knuckle]
 patch=1,EE,01FC5D74,extended,00000001
 
-//Cheats/Unlock Bare Knuckle II
+[Cheats/Unlock Bare Knuckle II]
 patch=1,EE,01FC5D78,extended,00000001
 
-//Cheats/Unlock Bare Knuckle III
+[Cheats/Unlock Bare Knuckle III]
 patch=1,EE,01FC5D7C,extended,00000001
 
-//Cheats/Unlock Bonanza Bros
+[Cheats/Unlock Bonanza Bros]
 patch=1,EE,01FC5D70,extended,00000001
 
-//Cheats/Unlock Vectorman
+[Cheats/Unlock Vectorman]
 patch=1,EE,01FC5D68,extended,00000001
 
-//Cheats/Unlock Vectorman 2
+[Cheats/Unlock Vectorman 2]
 patch=1,EE,01FC5D6C,extended,00000001
 
-//Cheats/Unlock Enable English Mode
+[Cheats/Unlock Enable English Mode]
 patch=1,EE,20103AA0,extended,24020001
 
-//Cheats/Unlock All Extra And All Museum Acquisition
+[Cheats/Unlock All Extra And All Museum Acquisition]
 patch=1,EE,41FC5DB8,extended,00500001
 patch=1,EE,12121212,extended,00000000
 patch=1,EE,41FC5CCC,extended,000F0001

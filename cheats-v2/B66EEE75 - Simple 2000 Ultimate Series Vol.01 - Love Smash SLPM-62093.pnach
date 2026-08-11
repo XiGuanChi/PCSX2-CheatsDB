@@ -1,33 +1,33 @@
 gametitle=Simple 2000 Ultimate Series Vol.01 - Love Smash SLPM-62093
-//Myself to point addition no matter what
+[Myself to point addition no matter what]
 patch=1,EE,20103FA4,extended,8CC20000
 patch=1,EE,20103FB0,extended,ACC20000
 
-//Get / Game in Love Game
+[Get / Game in Love Game]
 patch=1,EE,00103FA8,extended,00000005
 
-//Player judgment
+[Player judgment]
 patch=1,EE,20103F98,extended,00061821
 patch=1,EE,20103FA0,extended,00061821
 
-//Gauge rises at high speed
+[Gauge rises at high speed]
 patch=1,EE,2024B160,extended,41200000
 
-//Victory P1
+[Victory P1]
 patch=1,EE,0024BA10,extended,00000004
 patch=1,EE,0024BA18,extended,00000006
 patch=1,EE,0024BA20,extended,00000004
 
-//P1 power gauge collects immediately
+[P1 power gauge collects immediately]
 patch=1,EE,D024BA02,extended,002042C7
 patch=1,EE,1024BA02,extended,000042C7
 
-//P2 score 0 point
+[P2 score 0 point]
 patch=1,EE,0024BA14,extended,00000000
 
-//P2 power gauge 0
+[P2 power gauge 0]
 patch=1,EE,1024BA06,extended,00000000
 
-//Hidden element fully opened Exit after entering the option and all the extras, stages, characters and costumes are unlocked
+[Hidden element fully opened Exit after entering the option and all the extras, stages, characters and costumes are unlocked]
 patch=1,EE,20140A10,extended,10000006
 patch=1,EE,20140A40,extended,00000000

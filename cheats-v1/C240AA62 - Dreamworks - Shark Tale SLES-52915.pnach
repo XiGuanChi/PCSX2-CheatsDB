@@ -1,10 +1,10 @@
-//Cheats/Invincible Oscar
+[Cheats/Invincible Oscar]
 patch=1,EE,2016FC9C,extended,00000000
 
-//Cheats/Press R2 To Turn On Debug Menu
+[Cheats/Press R2 To Turn On Debug Menu]
 patch=1,EE,D13836C2,extended,0000FDFF
 patch=1,EE,20342810,extended,00000001
 
-//Cheats/Press L2 To Turn Off Debug Menu
+[Cheats/Press L2 To Turn Off Debug Menu]
 patch=1,EE,D13836C2,extended,0000FEFF
 patch=1,EE,20342810,extended,00000000

@@ -1,7 +1,7 @@
-//Cheats/Max Money 9999999
+[Cheats/Max Money 9999999]
 patch=1,EE,21ED0AEC,extended,0001869F
 
-//Cheats/Characters Stats 999
+[Cheats/Characters Stats 999]
 patch=1,EE,01ED0468,extended,00000063
 patch=1,EE,01ED0464,extended,00000063
 patch=1,EE,01ED046C,extended,00000063
@@ -18,11 +18,11 @@ patch=1,EE,01ED0540,extended,00000063
 patch=1,EE,01ED053C,extended,00000063
 patch=1,EE,01ED0544,extended,00000063
 
-//Cheats/Always Your Turn MOV and ATTK
+[Cheats/Always Your Turn MOV and ATTK]
 patch=1,EE,20116064,extended,35EF0000
 patch=1,EE,20115AC0,extended,35CE0000
 
-//Cheats/Infinite Health Press L3 On And R3 Off
+[Cheats/Infinite Health Press L3 On And R3 Off]
 patch=1,EE,2012526C,extended,0803FFC4
 patch=1,EE,200FFF10,extended,968B0004
 patch=1,EE,200FFF1C,extended,01F07823

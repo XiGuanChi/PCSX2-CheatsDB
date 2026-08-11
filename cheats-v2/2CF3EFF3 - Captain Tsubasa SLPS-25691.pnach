@@ -1,33 +1,33 @@
 gametitle=Captain Tsubasa SLPS-25691
-//There is no skies wing stamina
+[There is no skies wing stamina]
 patch=1,EE,202E6B54,extended,42C80000
 
-//Enemy BAD (automatic)
+[Enemy BAD (automatic)]
 patch=1,EE,2022AF84,extended,00000000
 patch=1,EE,2022AF90,extended,24020004
 
-//Skies wing stamina maximum
+[Skies wing stamina maximum]
 patch=1,EE,202E6B20,extended,42000000
 
-//Skies wing morphism sphere power 9990
+[Skies wing morphism sphere power 9990]
 patch=1,EE,202E6B2C,extended,42000000
 
-//TP max
+[TP max]
 patch=1,EE,202E77C0,extended,00000003
 patch=1,EE,202E77C4,extended,00000064
 
-//Experience value 256x
+[Experience value 256x]
 patch=1,EE,2022BFC8,extended,00063200
 patch=1,EE,2022BFF0,extended,00113200
 
-//Chute command being visible
+[Chute command being visible]
 patch=1,EE,2021DFB4,extended,24010001
 patch=1,EE,2021DFB8,extended,A441074C
 
-//Ability limited breaking
+[Ability limited breaking]
 patch=1,EE,201BD290,extended,286103E8
 
-//Unlock 11 Match (story mode) - My Captain Edit - All Star Edit
+[Unlock 11 Match (story mode) - My Captain Edit - All Star Edit]
 patch=1,EE,202E9394,extended,00010001
 patch=1,EE,202E939C,extended,00010001
 patch=1,EE,202E93A0,extended,00010001

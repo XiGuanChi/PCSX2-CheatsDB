@@ -1,34 +1,34 @@
 gametitle=Knight Rider SLES-51011
-//Monster Score
+[Monster Score]
 patch=1,EE,20809E24,extended,05F5E0FF
 
-//Extra Time
+[Extra Time]
 patch=1,EE,20813A1C,extended,42E3822C
 
-//Campaign (Choose Only One)
-//Start On Lvl 1
+[Campaign (Choose Only One)]
+[Start On Lvl 1]
 patch=0,EE,10809E30,extended,00000001
 
-//Start On Lvl 2
+[Start On Lvl 2]
 patch=0,EE,10809E30,extended,00000002
 
-//Start On Lvl 3
+[Start On Lvl 3]
 patch=0,EE,10809E30,extended,00000003
 
-//Start On Lvl 4
+[Start On Lvl 4]
 patch=0,EE,10809E30,extended,00000004
 
-//Start On Lvl 5
+[Start On Lvl 5]
 patch=0,EE,10809E30,extended,00000005
 
-//Start On Lvl 6
+[Start On Lvl 6]
 patch=0,EE,10809E30,extended,00000006
 
-//Start On Lvl 7
+[Start On Lvl 7]
 patch=0,EE,10809E30,extended,00000007
 
-//Start On Lvl 8
+[Start On Lvl 8]
 patch=0,EE,10809E30,extended,00000008
 
-//Start On Lvl 9
+[Start On Lvl 9]
 patch=1,EE,10809E30,extended,00000009

@@ -1,26 +1,26 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,8E610684
 patch=1,EE,200C0224,extended,0805DBC3
 patch=1,EE,200C0228,extended,AE610688
 patch=1,EE,20176EA0,extended,08030088
 
-//Cheats/1 Hit Death Bosses
+[Cheats/1 Hit Death Bosses]
 patch=1,EE,20233008,extended,00000000
 
-//Cheats/Unlock Nicole
+[Cheats/Unlock Nicole]
 patch=1,EE,2055C268,extended,00000001
 
-//Cheats/Unlock Native
+[Cheats/Unlock Native]
 patch=1,EE,2055C26C,extended,00000001
 
-//Cheats/Unlock Original Harry
+[Cheats/Unlock Original Harry]
 patch=1,EE,2055C284,extended,00000001
 
-//Cheats/Unlock Pitfall
+[Cheats/Unlock Pitfall]
 patch=1,EE,2055C288,extended,00000001
 
-//Cheats/Unlock Pitfall II - The Lost Caverns
+[Cheats/Unlock Pitfall II - The Lost Caverns]
 patch=1,EE,2055C28C,extended,00000001
 
-//Cheats/Unlock Lost Caverns
+[Cheats/Unlock Lost Caverns]
 patch=1,EE,2055C28C,extended,00000001

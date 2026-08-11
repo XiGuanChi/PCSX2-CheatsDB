@@ -1,29 +1,29 @@
-//Cheats/Max Zenny
+[Cheats/Max Zenny]
 patch=1,EE,205C154C,extended,000F423F
 
-//Cheats/Infinite Time Mission
+[Cheats/Infinite Time Mission]
 patch=1,EE,202F3C7C,extended,00000000
 
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,20530EE0,extended,453B8000
 
-//Cheats/Infinite Ki P1
+[Cheats/Infinite Ki P1]
 patch=1,EE,20530EEC,extended,45DAC000
 
-//Cheats/P1 Infinite Fusion Time
+[Cheats/P1 Infinite Fusion Time]
 patch=1,EE,20531148,extended,44E10000
 
-//Cheats/P1 No Fatigue
+[Cheats/P1 No Fatigue]
 patch=1,EE,20530EF8,extended,00000000
 
-//Cheats/P2 No HP P1 Press L2+R2
+[Cheats/P2 No HP P1 Press L2+R2]
 patch=1,EE,D04AE0C2,extended,0000FCFF
 patch=1,EE,20532FB0,extended,00000000
 
-//Cheats/1 Hit Kill P2
+[Cheats/1 Hit Kill P2]
 patch=1,EE,20532FB0,extended,3D800000
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,405C1554,extended,00FF0001
 patch=1,EE,E1E1E1E1,extended,00000000
 patch=1,EE,405C1950,extended,00580001

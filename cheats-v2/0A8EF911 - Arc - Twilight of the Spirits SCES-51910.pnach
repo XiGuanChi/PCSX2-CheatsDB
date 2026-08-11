@@ -1,19 +1,19 @@
 gametitle=Arc - Twilight of the Spirits SCES-51910
-//Infinite money
+[Infinite money]
 patch=1,EE,2023B338,extended,05F5E0FF
 
-//Infinite Spirit Stones
+[Infinite Spirit Stones]
 patch=1,EE,1023B33C,extended,000003E7
 
-//Infinite airship energy
+[Infinite airship energy]
 patch=1,EE,1023BE86,extended,000003E7
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20170038,extended,241003E7
 patch=1,EE,20170048,extended,A6D00008
 
-//All Characters:Maximum HP
+[All Characters:Maximum HP]
 patch=1,EE,20106FF8,extended,340403E7
 
-//All Characters:Maximum Spirit Stones
+[All Characters:Maximum Spirit Stones]
 patch=1,EE,20107038,extended,340403E7

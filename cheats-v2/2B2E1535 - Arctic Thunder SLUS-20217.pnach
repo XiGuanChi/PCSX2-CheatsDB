@@ -1,18 +1,18 @@
 gametitle=Arctic Thunder SLUS-20217
-//Max Shield Str
+[Max Shield Str]
 patch=1,EE,1021FAE0,extended,00000015
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,202829D8,extended,00000000
 
-//Enable Hidden Modes
+[Enable Hidden Modes]
 patch=1,EE,102815A4,extended,00000001
 
-//Have All Characters
+[Have All Characters]
 patch=1,EE,102813C0,extended,00000012
 
-//Have All Tracks
+[Have All Tracks]
 patch=1,EE,102813C8,extended,0000000B
 
-//Have All Battle Arenas
+[Have All Battle Arenas]
 patch=1,EE,102813D0,extended,00000004

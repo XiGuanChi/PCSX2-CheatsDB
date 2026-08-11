@@ -1,34 +1,34 @@
 gametitle=Ford Racing 3 SLES-52720
-//Infinite Boost
+[Infinite Boost]
 patch=1,EE,203691C0,extended,40A00000
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,20368F50,extended,42C80000
 
-//Easy Drafting Challenges
+[Easy Drafting Challenges]
 patch=1,EE,20368F60,extended,00000000
 
-//Time Attack All Race Types
+[Time Attack All Race Types]
 patch=1,EE,003C8B91,extended,00000001
 patch=1,EE,103C8B92,extended,00000101
 patch=1,EE,203C8B94,extended,01010101
 patch=1,EE,103C8B98,extended,00000101
 patch=1,EE,003C8B9A,extended,00000001
 
-//Time Attack All Track Themes
+[Time Attack All Track Themes]
 patch=1,EE,403C8DF0,extended,00060001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,103C8E08,extended,00000101
 
-//Time Attack All Cars
+[Time Attack All Cars]
 patch=1,EE,403C8930,extended,000E0001
 patch=1,EE,01010101,extended,00000000
 
-//All Ford Challenge Tokens
+[All Ford Challenge Tokens]
 patch=1,EE,403C8D40,extended,000D0001
 patch=1,EE,01010101,extended,00000000
 
-//All Ford Competition Cups
+[All Ford Competition Cups]
 patch=1,EE,403C8B10,extended,00040001
 patch=1,EE,01010101,extended,00000000
 

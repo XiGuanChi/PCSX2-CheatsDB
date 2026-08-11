@@ -1,5 +1,5 @@
 gametitle=Spider-Man 3 SLES-54724
-//infinite energy
+[infinite energy]
 patch=1,EE,200FFF20,extended,AC890018
 patch=1,EE,200FFF24,extended,C4810018
 patch=1,EE,200FFF28,extended,0807539B
@@ -7,10 +7,10 @@ patch=1,EE,200FFF2C,extended,46011042
 patch=1,EE,201D4E64,extended,0803FFC8
 patch=1,EE,201D4E68,extended,3C093F80
 
-//Full adrenaline after a hit
+[Full adrenaline after a hit]
 patch=0,EE,20175510,extended,C6000010
 patch=0,EE,2017551C,extended,46000506
 patch=0,EE,202E10C4,extended,00000000
 
-//infinite heroes POINTS
+[infinite heroes POINTS]
 patch=1,EE,2115d9a0,extended,42c80000

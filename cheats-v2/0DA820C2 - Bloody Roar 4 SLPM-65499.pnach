@@ -1,21 +1,21 @@
 gametitle=Bloody Roar 4 SLPM-65499
-//max.DNA
+[max.DNA]
 patch=1,EE,20406D20,extended,05F5E0FF
 patch=1,EE,20406D24,extended,05F5E0FF
 
-//Hidden characters fully open
+[Hidden characters fully open]
 patch=1,EE,20406CE0,extended,00000001
 patch=1,EE,20406CE4,extended,00000001
 patch=1,EE,20406CE8,extended,00000001
 patch=1,EE,20406CEC,extended,00000001
 patch=1,EE,20406CF0,extended,00000001
 
-//Competition stage 9-11 added
+[Competition stage 9-11 added]
 patch=1,EE,20406CF4,extended,00000001
 patch=1,EE,20406CF8,extended,00000001
 patch=1,EE,20406CFC,extended,00000001
 
-//All Visulas
+[All Visulas]
 patch=1,EE,203F6CE0,extended,00000003
 patch=1,EE,203F6CE4,extended,00000005
 patch=1,EE,203F6CE8,extended,00000003
@@ -33,7 +33,7 @@ patch=1,EE,203F6D14,extended,00000003
 patch=1,EE,203F6D18,extended,00000006
 patch=1,EE,203F6D1C,extended,00000001
 
-//CAREER MODE select character, ability all acquisition
+[CAREER MODE select character, ability all acquisition]
 patch=1,EE,20407408,extended,FFFFFFFF
 patch=1,EE,2040740C,extended,FFFFFFFF
 patch=1,EE,20407410,extended,FFFFFFFF

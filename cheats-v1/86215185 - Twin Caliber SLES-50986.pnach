@@ -1,20 +1,20 @@
-//Cheats/Infinite Continues
+[Cheats/Infinite Continues]
 patch=1,EE,206738AC,extended,00000009
 
-//Cheats/Infinite HP player 1
+[Cheats/Infinite HP player 1]
 patch=1,EE,2187D924,extended,42C80000
 
-//Cheats/Infinite TNT Player 1
+[Cheats/Infinite TNT Player 1]
 patch=1,EE,2066EDB0,extended,00000063
 
-//Cheats/Max Bodycount Player 1
+[Cheats/Max Bodycount Player 1]
 patch=1,EE,2187DA18,extended,3B9AC9FF
 
-//Cheats/Infinite HP player 2
+[Cheats/Infinite HP player 2]
 patch=1,EE,2187EFB0,extended,42C80000
 
-//Cheats/Infinite TNT Player 2
+[Cheats/Infinite TNT Player 2]
 patch=1,EE,2066EE04,extended,00000063
 
-//Cheats/Max Bodycount Player 2
+[Cheats/Max Bodycount Player 2]
 patch=1,EE,2187F0B8,extended,3B9AC9FF

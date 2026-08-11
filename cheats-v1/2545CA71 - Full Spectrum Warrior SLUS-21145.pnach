@@ -1,14 +1,14 @@
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,0070D12A,extended,00000001
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2011E440,extended,24020001
 patch=1,EE,2011F614,extended,24020001
 patch=1,EE,2013B248,extended,24020001
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,208BFD68,extended,FFFFFFFF
 
-//Cheats/Unlock All Bonus Material
+[Cheats/Unlock All Bonus Material]
 patch=1,EE,108BFD6C,extended,0000FFFF
 

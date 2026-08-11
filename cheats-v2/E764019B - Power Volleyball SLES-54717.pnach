@@ -1,6 +1,6 @@
 gametitle=Power Volleyball SLES-54717
-//Blue Team Wins on First Point Scored 
+[Blue Team Wins on First Point Scored]
 patch=1,EE,009FCAC8,extended,0000000F
 
-//Red Team Never Scores 
+[Red Team Never Scores]
 patch=1,EE,009FCACC,extended,00000000

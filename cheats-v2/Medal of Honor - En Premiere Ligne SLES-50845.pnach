@@ -1,15 +1,15 @@
 gametitle=Medal of Honor - En Premiere Ligne SLES-50845
-//infiniteHealth
+[infiniteHealth]
 patch=1,EE,00241660,extended,00000001
 
-//infiniteAmmo
+[infiniteAmmo]
 patch=1,EE,00241664,extended,00000001
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,1024015C,extended,0000FFFF
 patch=1,EE,0024015E,extended,000000FF
 
-//All Bonuses-R1+L1+R2+L2+Sel
+[All Bonuses-R1+L1+R2+L2+Sel]
 patch=1,EE,D033F382,extended,0000F0FE
 patch=1,EE,10241B4C,extended,00005555
 patch=1,EE,D033F382,extended,0000F0FE

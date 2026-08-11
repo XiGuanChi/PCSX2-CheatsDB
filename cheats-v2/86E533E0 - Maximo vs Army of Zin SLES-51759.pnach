@@ -1,23 +1,23 @@
 gametitle=Maximo vs Army of Zin SLES-51759
-//One Pick-Up For Max Pick Up. Infinite Health, Special & Grim Time. Combo always 99.
+[One Pick-Up For Max Pick Up. Infinite Health, Special & Grim Time. Combo always 99.]
 patch=1,EE,2016787C,extended,2403270F
 
-//Never Pay When Buying Stuff
+[Never Pay When Buying Stuff]
 patch=1,EE,20167FA8,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C2000,extended,240103E8
 patch=1,EE,200C2004,extended,ACC10008
 patch=1,EE,200C2008,extended,03E00008
 patch=1,EE,200C200C,extended,8C750014
 patch=1,EE,20142268,extended,0C030800
 
-//Infinite Grim Meter
+[Infinite Grim Meter]
 patch=1,EE,201415a0,extended,24030029
 patch=1,EE,201415a8,extended,AC430000
 patch=1,EE,20167FA8,extended,AE9203E8
 
-//Infinite Super Meter
+[Infinite Super Meter]
 patch=1,EE,20141B28,extended,8F8183D8
 patch=1,EE,20141B30,extended,24050780
 patch=1,EE,20141B3C,extended,AC25003C

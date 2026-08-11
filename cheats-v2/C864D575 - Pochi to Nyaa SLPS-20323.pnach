@@ -1,8 +1,8 @@
 gametitle=Playboy - The Mansion SLUS-20988
-//Maximum cash
+[Maximum cash]
 patch=1,EE,203444B0,extended,3C050000
 
-//Infinite Bank Account
+[Infinite Bank Account]
 patch=1,EE,200C2000,extended,3E0605F5
 patch=1,EE,200C2004,extended,34C6E0FF
 patch=1,EE,200C2008,extended,080D1060
@@ -10,10 +10,10 @@ patch=1,EE,200C200C,extended,ACA601C8
 patch=1,EE,2037B6D0,extended,08030800
 patch=1,EE,2037B6D4,extended,00000000
 
-//Quick Reward Points Gain
+[Quick Reward Points Gain]
 patch=1,EE,20391444,extended,24122710
 
-//Unlock All Archives 
+[Unlock All Archives]
 patch=1,EE,200C0240,extended,A261000C
 patch=1,EE,200C0244,extended,08106FE0
 patch=1,EE,200C0248,extended,24130001

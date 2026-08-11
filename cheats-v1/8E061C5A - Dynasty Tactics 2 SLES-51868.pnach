@@ -1,4 +1,4 @@
-//Cheats/Infinite Troops
+[Cheats/Infinite Troops]
 patch=1,EE,10A7C8E2,extended,0000270F
 patch=1,EE,10A7C91E,extended,0000270F
 patch=1,EE,10A7C95A,extended,0000270F
@@ -7,7 +7,7 @@ patch=1,EE,10A7C9D2,extended,0000270F
 patch=1,EE,10A7CA0E,extended,0000270F
 patch=1,EE,10A7CA4A,extended,0000270F
 
-//Cheats/Low Enemy Troops
+[Cheats/Low Enemy Troops]
 patch=1,EE,10A7CBB2,extended,00000001
 patch=1,EE,10A7CBEE,extended,00000001
 patch=1,EE,10A7CC2A,extended,00000001
@@ -15,16 +15,16 @@ patch=1,EE,10A7CC66,extended,00000001
 patch=1,EE,10A7CCA2,extended,00000001
 patch=1,EE,10A7CCDE,extended,00000001
 
-//Cheats/Infinite Craft
+[Cheats/Infinite Craft]
 patch=1,EE,20A7BAE0,extended,05FAB000
 
-//Cheats/Liu Bei The Three Kingdoms
+[Cheats/Liu Bei The Three Kingdoms]
 patch=1,EE,10A77FBC,extended,00000001
 
-//Cheats/Liu Be The Han Restoration
+[Cheats/Liu Be The Han Restoration]
 patch=1,EE,10A77FC2,extended,00000001
 
-//Cheats/Liu Be Zhuge Liang Marches
+[Cheats/Liu Be Zhuge Liang Marches]
 patch=1,EE,10A77FC8,extended,00000001
 
 [Cheats/Unlock ] Cao Cao The Three Kingdoms
@@ -33,25 +33,25 @@ patch=1,EE,10A7AB5C,extended,00000001
 [Cheats/Unlock ] Cao Cao Unification
 patch=1,EE,10A7AB62,extended,00000001
 
-//Cheats/Sun Ce The Three Kingdoms
+[Cheats/Sun Ce The Three Kingdoms]
 patch=1,EE,10A7AC7C,extended,00000001
 
-//Cheats/Sun Ce and Cao Cao
+[Cheats/Sun Ce and Cao Cao]
 patch=1,EE,10A7AC82,extended,00000001
 
-//Cheats/Lu Bu Seige at Xia Pi
+[Cheats/Lu Bu Seige at Xia Pi]
 patch=1,EE,10A7AD9C,extended,00000001
 
-//Cheats/Lu Bu Escape from Xia Pi
+[Cheats/Lu Bu Escape from Xia Pi]
 patch=1,EE,10A7ADA2,extended,00000001
 
-//Cheats/Lu Bu Rises
+[Cheats/Lu Bu Rises]
 patch=1,EE,10A7ADA8,extended,00000001
 
-//Cheats/Unlock All Main Scenarios
+[Cheats/Unlock All Main Scenarios]
 patch=1,EE,10A7B33C,extended,00000001
 
-//Cheats/Unlock All Officers In Database
+[Cheats/Unlock All Officers In Database]
 patch=1,EE,40A7A938,extended,003A0001
 patch=1,EE,03030303,extended,00000000
 patch=1,EE,00A7AA18,extended,00000003

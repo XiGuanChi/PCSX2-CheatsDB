@@ -1,84 +1,84 @@
 gametitle=Fantastic 4 SLES-53143
-//All Levels Open
+[All Levels Open]
 patch=1,EE,00320D28,extended,00000009
 
-//Invincible Players
+[Invincible Players]
 patch=1,EE,2031F970,extended,00000000
 
-//Infinite Cosmic Power
+[Infinite Cosmic Power]
 patch=1,EE,2031DF64,extended,00000001
 
-//Bonuses Infinite Bonus Points
+[Bonuses Infinite Bonus Points]
 patch=1,EE,20320D24,extended,05F5E0FF
-//All Concepts
+[All Concepts]
 patch=1,EE,00320DEF,extended,0000001F
-//All Ultimates
+[All Ultimates]
 patch=1,EE,00320DF0,extended,0000001F
-//All Covers
+[All Covers]
 patch=1,EE,00320DF1,extended,0000003F
-//All Bios
+[All Bios]
 patch=1,EE,00320DF2,extended,0000001F
-//All Interviews
+[All Interviews]
 patch=1,EE,00320DF3,extended,0000007F
-//All F4 Secrets
+[All F4 Secrets]
 patch=1,EE,00320DF4,extended,0000007F
-//Unlock Bonus Level: Hell
+[Unlock Bonus Level: Hell]
 patch=1,EE,00320D2D,extended,00000001
-//Unlock Bonus Level: Latveria 1
+[Unlock Bonus Level: Latveria 1]
 patch=1,EE,00320D2E,extended,00000001
-//Unlock Bonus Level: Latveria 2
+[Unlock Bonus Level: Latveria 2]
 patch=1,EE,00320D2F,extended,00000001
-//Unlock Arena Fight: Guard Granny
+[Unlock Arena Fight: Guard Granny]
 patch=1,EE,20320DD4,extended,00000004
 
-//All F4 Secrets Intro
+[All F4 Secrets Intro]
 patch=1,EE,00320D68,extended,0000001F
-//Brooklyn
+[Brooklyn]
 patch=1,EE,00320D69,extended,00000007
-//Underground
+[Underground]
 patch=1,EE,00320D6A,extended,0000000F
-//Tikal
+[Tikal]
 patch=1,EE,00320D6B,extended,0000000F
-//Museum
+[Museum]
 patch=1,EE,00320D6C,extended,0000000F
-//Times Square
+[Times Square]
 patch=1,EE,00320D6D,extended,00000007
-//Vault
+[Vault]
 patch=1,EE,00320D6E,extended,0000000F
-//SHIELD
+[SHIELD]
 patch=1,EE,00320D6F,extended,00000003
-//Space
+[Space]
 patch=1,EE,00320D70,extended,00000007
-//Doom
+[Doom]
 patch=1,EE,00320D71,extended,0000003F
 
-//All Secrets
+[All Secrets]
 patch=1,EE,20320D68,extended,0F0F071F
 patch=1,EE,20320D6C,extended,030F070F
 patch=1,EE,10320D70,extended,00003F07
 
-//All Goals Intro
+[All Goals Intro]
 patch=1,EE,00320D72,extended,0000001F
-//Brooklyn
+[Brooklyn]
 patch=1,EE,00320D73,extended,00000007
-//Underground
+[Underground]
 patch=1,EE,00320D74,extended,0000000F
-//Tikal
+[Tikal]
 patch=1,EE,00320D75,extended,0000000F
-//Museum
+[Museum]
 patch=1,EE,00320D76,extended,0000000F
-//Times Square
+[Times Square]
 patch=1,EE,00320D77,extended,00000007
-//Vault
+[Vault]
 patch=1,EE,00320D78,extended,0000000F
-//SHIELD
+[SHIELD]
 patch=1,EE,00320D79,extended,00000003
-//Space
+[Space]
 patch=1,EE,00320D7A,extended,00000007
-//Doom
+[Doom]
 patch=1,EE,00320D7B,extended,0000003F
 
-//All Complete
+[All Complete]
 patch=1,EE,10320D72,extended,0000071F
 patch=1,EE,20320D74,extended,070F0F0F
 patch=1,EE,20320D78,extended,3F07030F

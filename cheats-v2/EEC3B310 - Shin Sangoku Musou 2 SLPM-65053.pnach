@@ -1,11 +1,11 @@
 gametitle=Shin Sangoku Musou 2 SLPM-65053
-//Do not reduce physical strength
+[Do not reduce physical strength]
 patch=1,EE,200F6008,extended,24035000
 patch=1,EE,200F600C,extended,A44301DE
 patch=1,EE,200F6010,extended,03E00008
 patch=1,EE,201780CC,extended,0C03D800
 
-//Do not reduce Muso gauge
+[Do not reduce Muso gauge]
 patch=1,EE,200F6030,extended,845201E2
 patch=1,EE,200F6034,extended,00129100
 patch=1,EE,200F6038,extended,A45201E4
@@ -13,14 +13,14 @@ patch=1,EE,200F603C,extended,03E00008
 patch=1,EE,200F6040,extended,845201E2
 patch=1,EE,201780D4,extended,0C03D80C
 
-//Possession arrow number MAX
+[Possession arrow number MAX]
 patch=1,EE,20178284,extended,24150063
 patch=1,EE,20178288,extended,A235000C
 
-//Sound test fully open
+[Sound test fully open]
 patch=1,EE,204370B8,extended,FFFFFFFF
 patch=1,EE,104370BC,extended,000003FF
 
-//Movie fully open
+[Movie fully open]
 patch=1,EE,204370C0,extended,FFFFFFFF
 patch=1,EE,204370C4,extended,FFFFFFFF

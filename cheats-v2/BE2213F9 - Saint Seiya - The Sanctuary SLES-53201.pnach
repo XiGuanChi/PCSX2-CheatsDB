@@ -1,22 +1,22 @@
 gametitle=Saint Seiya - The Sanctuary SLES-53201
-//Open All Characters/Demon Pope Fist
+[Open All Characters/Demon Pope Fist]
 patch=1,EE,20527EBC,extended,FFFFFFFF
 
-//Player 1 Has Infinite Health
+[Player 1 Has Infinite Health]
 patch=1,EE,200FFF04,extended,14600003
 patch=1,EE,200FFF0C,extended,3C0142C8
 patch=1,EE,200FFF10,extended,AC81005C
 patch=1,EE,200FFF20,extended,03E00008
 patch=1,EE,202B483C,extended,0803FFC0
 
-//God Power Maximum
+[God Power Maximum]
 patch=1,EE,20399260,extended,8F819048
 patch=1,EE,20399264,extended,240203E7
 patch=1,EE,20399268,extended,AC220060
 
-//Max exp <Mine Game>
+[Max exp <Mine Game>]
 patch=1,EE,20378200,extended,ACA10008
 
-//100% Complete
+[100% Complete]
 patch=1,EE,40527BFC,extended,008E0001
 patch=1,EE,24242424,extended,00000000

@@ -1,22 +1,22 @@
-//Cheats/Buy Even Without Munny
+[Cheats/Buy Even Without Munny]
 patch=1,EE,20229DB4,extended,00000000
 
-//Cheats/Infinite Health Sora And Allies
+[Cheats/Infinite Health Sora And Allies]
 patch=1,EE,20239EB4,extended,AC50003C
 patch=1,EE,20239EBC,extended,2A020079
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,20140EE8,extended,ACA0003C
 patch=1,EE,201414A0,extended,AE00003C
 patch=1,EE,20140AAC,extended,AE00003C
 
-//Cheats/Heartless Don't Appear
+[Cheats/Heartless Don't Appear]
 patch=1,EE,2014E444,extended,00000000
 
-//Cheats/Invulnerable Sora And Allies
+[Cheats/Invulnerable Sora And Allies]
 patch=1,EE,20154424,extended,1000007A
 
-//Cheats/Invulnerable Gummiship Pass Through Objects And Enemies
+[Cheats/Invulnerable Gummiship Pass Through Objects And Enemies]
 patch=1,EE,E0021480,extended,00F2AB0E
 patch=1,EE,D02C05D5,extended,00000010
 patch=1,EE,20F2AB0C,extended,100000A5

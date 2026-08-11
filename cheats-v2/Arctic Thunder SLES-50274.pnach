@@ -1,34 +1,34 @@
 gametitle=Arctic Thunder SLUS-20217
-//Max Shield Str
+[Max Shield Str]
 patch=1,EE,1021FAE0,extended,00000015
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,202829D8,extended,00000000
 
-//Enable Hidden Modes
+[Enable Hidden Modes]
 patch=1,EE,102815A4,extended,00000001
 
-//Have All Characters
+[Have All Characters]
 patch=1,EE,102813C0,extended,00000012
 
-//Have All Tracks
+[Have All Tracks]
 patch=1,EE,102813C8,extended,0000000B
 
-//Have All Battle Arenas
+[Have All Battle Arenas]
 patch=1,EE,102813D0,extended,00000004
 
-//Gold Medal
-//Lost Himalayan City
+[Gold Medal]
+[Lost Himalayan City]
 patch=1,EE,2022EEB0,extended,00000001
 
-//Chernobyl Meltdown
+[Chernobyl Meltdown]
 patch=1,EE,2022EEAC,extended,00000001
 
-//Blizzard In DC
+[Blizzard In DC]
 patch=1,EE,2022EEA0,extended,00000001
 
-//Swiss Alps
+[Swiss Alps]
 patch=1,EE,2022EEA4,extended,00000001
 
-//Haunted Forest
+[Haunted Forest]
 patch=1,EE,2022EEBC,extended,00000001

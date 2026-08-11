@@ -1,6 +1,6 @@
 gametitle=Kya - Dark Lineage PAL-M SLES-51473 95B6BC43
 
-//NTSC Mode
+[NTSC Mode]
 author=GamingDragon93
 description=NTSC mode at start. FMVs skip.
 patch=0,EE,001BA8D4,word,10400004

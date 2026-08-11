@@ -1,39 +1,39 @@
-//Cheats/Max Gil
+[Cheats/Max Gil]
 patch=1,EE,0031D218,extended,05F5BABE
 
-//Cheats/Invincible Mode
+[Cheats/Invincible Mode]
 patch=1,EE,00317319,extended,00000001
 
-//Cheats/All Enemies Start With 1 HP
+[Cheats/All Enemies Start With 1 HP]
 patch=1,EE,0031733E,extended,00000001
 
-//Cheats/Infinite MP
+[Cheats/Infinite MP]
 patch=1,EE,00317321,extended,00000001
 
-//Cheats/Infinite Overdrive
+[Cheats/Infinite Overdrive]
 patch=1,EE,0031732C,extended,00000001
 
-//Cheats/Max HP Tidus
+[Cheats/Max HP Tidus]
 patch=1,EE,0031EAC0,extended,0000270F
 
-//Cheats/Max MP Tidus
+[Cheats/Max MP Tidus]
 patch=1,EE,0031EAC4,extended,000003E7
 
-//Cheats/Max HP Yuna
+[Cheats/Max HP Yuna]
 patch=1,EE,0031EB54,extended,0000270F
 
-//Cheats/Max MP Yuna
+[Cheats/Max MP Yuna]
 patch=1,EE,0031EB58,extended,000003E7
 
-//Cheats/No Random Battles
+[Cheats/No Random Battles]
 patch=1,EE,003173F7,extended,00000000
 
-//Cheats/All Normal Overdrives
+[Cheats/All Normal Overdrives]
 patch=1,EE,0031D23C,word,FFFFFFFF
 patch=1,EE,0031D240,word,FFFFFFFF
 patch=1,EE,0031D244,word,FFFFFFFF
 
-//Cheats/Blitzball Always Win
+[Cheats/Blitzball Always Win]
 patch=1,EE,0031AB0E,byte,00000063
 patch=1,EE,0031AB71,byte,00000063
 patch=1,EE,0031AB0F,byte,00000000

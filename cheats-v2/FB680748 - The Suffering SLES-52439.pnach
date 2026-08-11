@@ -1,17 +1,17 @@
 gametitle=The Suffering SLES-52439
-//infinite Ammo
+[infinite Ammo]
 patch=1,EE,202A9DA0,extended,00000000
 
-//infinite Flashlight
+[infinite Flashlight]
 patch=1,EE,20284CE0,extended,00000000
 
-//infinite Item
+[infinite Item]
 patch=1,EE,20284CE0,extended,00000000
 
-//infinite Rage
+[infinite Rage]
 patch=1,EE,202B5D54,extended,00000000
 
-//infinite Health
+[infinite Health]
 patch=1,EE,200FFF00,extended,8C85001C
 patch=1,EE,200FFF04,extended,AC850018
 patch=1,EE,200FFF0C,extended,080AD71A

@@ -1,11 +1,11 @@
-//Cheats/Always 999999 Elm after battle
+[Cheats/Always 999999 Elm after battle]
 patch=1,EE,203C7568,extended,000F423F
 
-//Cheats/Level up to experience value acquisition hero
+[Cheats/Level up to experience value acquisition hero]
 patch=1,EE,D03B6B38,extended,00000001
 patch=1,EE,003BF653,extended,00000063
 
-//Cheats/Level up to experience value acquisition Second character
+[Cheats/Level up to experience value acquisition Second character]
 patch=1,EE,D03B6B38,extended,00000001
 patch=1,EE,003BF657,extended,00000063
 
@@ -13,10 +13,10 @@ patch=1,EE,003BF657,extended,00000063
 patch=1,EE,D03B6B38,extended,00000001
 patch=1,EE,003BF65B,extended,00000063
 
-//Cheats/Level up to experience value acquisition Fourth character
+[Cheats/Level up to experience value acquisition Fourth character]
 patch=1,EE,D03B6B38,extended,00000001
 
-//Cheats/Enable Debug Menus & Displays R3 + D-Pad Up = Sound Test R3+D-Pad Down = Voice Test R3+D-Pad Left = Sound Test R3+D-Pad Right = Movie Test L3+D-Pad Up = Debug Time Display L3+D-Pad Down = Debug CCNT Display L3+D-Pad Left = Debug CNT Display L3+D-Pad Right = Debug Friendship Meter Display L3+R3 = All disable
+[Cheats/Enable Debug Menus & Displays R3 + D-Pad Up = Sound Test R3+D-Pad Down = Voice Test R3+D-Pad Left = Sound Test R3+D-Pad Right = Movie Test L3+D-Pad Up = Debug Time Display L3+D-Pad Down = Debug CCNT Display L3+D-Pad Left = Debug CNT Display L3+D-Pad Right = Debug Friendship Meter Display L3+R3 = All disable]
 patch=1,EE,D0945072,extended,0000FFEB
 patch=1,EE,203B6888,extended,00000001
 patch=1,EE,D0945072,extended,0000FFBB

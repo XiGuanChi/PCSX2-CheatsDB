@@ -1,16 +1,16 @@
-//Cheats/R3 For Invincibility L3 To Disable
+[Cheats/R3 For Invincibility L3 To Disable]
 patch=1,EE,D026D5C0,extended,0000FFFB
 patch=1,EE,1023C5D4,extended,00000000
 patch=1,EE,D026D5C0,extended,0000FFFD
 patch=1,EE,1023C5D4,extended,00000800
 
-//Cheats/Have All Abilities
+[Cheats/Have All Abilities]
 patch=1,EE,20242764,extended,3FFFFEFF
 
-//Cheats/All Face Attr and Flags Activated
+[Cheats/All Face Attr and Flags Activated]
 patch=1,EE,2023C6F8,extended,FFFFFFFF
 
-//Cheats/Debug Menu Press L3 to Enter Debug Menu, when you are finished in there, Press R3 to Resume Gameplay
+[Cheats/Debug Menu Press L3 to Enter Debug Menu, when you are finished in there, Press R3 to Resume Gameplay]
 patch=1,EE,E001FFFD,extended,0026D5C0
 patch=1,EE,1023C6A6,extended,00000004
 patch=1,EE,E002FFFB,extended,0026D5C0

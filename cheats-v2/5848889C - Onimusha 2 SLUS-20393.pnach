@@ -1,11 +1,11 @@
 gametitle=Onimusha 2 SLUS-20393
-//Infinite Health
+[Infinite Health]
 patch=1,EE,217DC1C0,extended,00001388
 patch=1,EE,217DC1C2,extended,00001388
 
-//Infinite Ogre Power
+[Infinite Ogre Power]
 patch=1,EE,217DE602,extended,00000A00
 patch=1,EE,217DE85A,extended,00000A00
 
-//Max Gold
+[Max Gold]
 patch=1,EE,217DE9C4,extended,000F423F

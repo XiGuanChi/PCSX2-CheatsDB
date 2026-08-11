@@ -1,15 +1,15 @@
 gametitle=The Adventures of Jimmy Neutron - Boy Genius - Jet Fusion SLUS-20696
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,202CFB30,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,0057DFA0,extended,00000001
 
-//Infinite Battery Pack
+[Infinite Battery Pack]
 patch=1,EE,0057DF9E,extended,00000001
 
-//Enemies Dont Attack You
+[Enemies Dont Attack You]
 patch=1,EE,0057DF9F,extended,00000001
 
-//Unlock All Extras
+[Unlock All Extras]
 patch=1,EE,0057DFA1,extended,00000001

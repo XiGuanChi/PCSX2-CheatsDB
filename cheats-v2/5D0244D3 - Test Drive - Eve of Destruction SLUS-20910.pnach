@@ -1,31 +1,31 @@
 gametitle=Test Drive - Eve of Destruction SLUS-20910
-//Unlock All Cars
+[Unlock All Cars]
 patch=1,EE,203CC150,extended,000F423F
 patch=1,EE,203CC158,extended,000F423F
 
-//Unlock All Videos
+[Unlock All Videos]
 patch=1,EE,203D8180,extended,00000001
 
-//Unlock All Feats
+[Unlock All Feats]
 patch=1,EE,203D18E0,extended,FFFFFFFF
 
-//Unlock All Chapters Arcade Dare Mode
+[Unlock All Chapters Arcade Dare Mode]
 patch=1,EE,004A8AF9,extended,0000001F
 
-//Career Mode Max Money
+[Career Mode Max Money]
 patch=1,EE,200C0220,extended,3C0205F5
 patch=1,EE,200C0224,extended,3442E0FF
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,AC620004
 patch=1,EE,202E1DA0,extended,08030088
 
-//Career Mode View Repair Menu To Fix All Cars Normal Damage
+[Career Mode View Repair Menu To Fix All Cars Normal Damage]
 patch=1,EE,200C0240,extended,AC800294
 patch=1,EE,200C0244,extended,03E00008
 patch=1,EE,200C0248,extended,C4800294
 patch=1,EE,202DD710,extended,08030090
 
-//View Repair Menu To Fix All Cars Irrepairable Damage
+[View Repair Menu To Fix All Cars Irrepairable Damage]
 patch=1,EE,200C0250,extended,AC800298
 patch=1,EE,200C0254,extended,03E00008
 patch=1,EE,200C0258,extended,C4800298

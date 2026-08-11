@@ -1,19 +1,19 @@
 gametitle=The Bard's Tale SLUS-20803
-//Infinite HP
+[Infinite HP]
 patch=1,EE,105FC024,extended,0000270F
 
-//Infinite HP (In Battle)
+[Infinite HP (In Battle)]
 patch=1,EE,201C426C,extended,3C030060
 patch=1,EE,201C4270,extended,8464C026
 patch=1,EE,201C4274,extended,44840000
 patch=1,EE,201C4278,extended,46800020
 patch=1,EE,201C427C,extended,E6000068
 
-//Infinite Mana
+[Infinite Mana]
 patch=1,EE,105FC02C,extended,0000270F
 
-//Infinite Silver
+[Infinite Silver]
 patch=1,EE,105FBF7C,extended,0000FFFF
 
-//9999 Adderstones
+[9999 Adderstones]
 patch=1,EE,105FC02A,extended,0000270F

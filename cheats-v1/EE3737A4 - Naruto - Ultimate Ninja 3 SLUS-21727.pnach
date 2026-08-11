@@ -1,50 +1,50 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,200C0228,extended,AC810068
 
-//Cheats/P1 Press L2+Select For Instant Kill P2
+[Cheats/P1 Press L2+Select For Instant Kill P2]
 patch=1,EE,D06A5642,extended,0000FEFE
 patch=1,EE,200C0230,extended,AC800068
 
-//Cheats/Max Ryo
+[Cheats/Max Ryo]
 patch=1,EE,200C0260,extended,3C0505F5
 patch=1,EE,200C0264,extended,34A5E0FF
 patch=1,EE,200C0268,extended,03E00008
 patch=1,EE,200C026C,extended,AC450644
 patch=1,EE,202D0008,extended,0C030098
 
-//Cheats/Unlock All Characters Mission Mode
+[Cheats/Unlock All Characters Mission Mode]
 patch=1,EE,202781D4,extended,24020003
 
-//Cheats/Unlock All Characters VS. Duel Mode
+[Cheats/Unlock All Characters VS. Duel Mode]
 patch=1,EE,20278188,extended,24020003
 
-//Cheats/Naruto's House Have All Figures
+[Cheats/Naruto's House Have All Figures]
 patch=1,EE,20275D58,extended,2402FFFF
 
-//Cheats/Naruto's House Have All Videos And Ultimate Jutsu
+[Cheats/Naruto's House Have All Videos And Ultimate Jutsu]
 patch=1,EE,20275FC0,extended,2402FFFF
 
-//Cheats/Naruto's House Have All Voices
+[Cheats/Naruto's House Have All Voices]
 patch=1,EE,20275E08,extended,2402FFFF
 
-//Cheats/Naruto's House Have All Musics
+[Cheats/Naruto's House Have All Musics]
 patch=1,EE,20275DB0,extended,2402FFFF
 
-//Cheats/Naruto's House Have Shinobi Ninja Info Card
+[Cheats/Naruto's House Have Shinobi Ninja Info Card]
 patch=1,EE,20275F10,extended,2402FFFF
 
-//Cheats/Naruto's House Have Jutsu Ninja Info Card
+[Cheats/Naruto's House Have Jutsu Ninja Info Card]
 patch=1,EE,20275EB8,extended,2402FFFF
 
-//Cheats/Naruto's House Have Tactics Ninja Info Card
+[Cheats/Naruto's House Have Tactics Ninja Info Card]
 patch=1,EE,20275F68,extended,2402FFFF
 
-//Cheats/Naruto's House Have Client Ninja Info Card
+[Cheats/Naruto's House Have Client Ninja Info Card]
 patch=1,EE,20275E60,extended,2402FFFF
 
-//Cheats/Naruto's House Have Secret Techniques
+[Cheats/Naruto's House Have Secret Techniques]
 patch=1,EE,20276018,extended,2402FFFF
 
-//Cheats/Naruto's House Have Guide Ninja
+[Cheats/Naruto's House Have Guide Ninja]
 patch=1,EE,2027C0DC,extended,2402FFFF
 

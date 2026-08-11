@@ -1,40 +1,40 @@
 gametitle=Need for Speed - Hot Pursuit 2 SLUS-20362 SLES-50731
-//Max NFS Points
+[Max NFS Points]
 patch=1,EE,2030CE54,extended,05F5E0FF
 
-//Unlock All Cars
+[Unlock All Cars]
 patch=1,EE,4030C710,extended,00190001
 patch=1,EE,31586352,extended,1F66FBB8
 
-//Get Busted Once To Get Arrested
+[Get Busted Once To Get Arrested]
 patch=1,EE,202270C8,extended,00000000
 
-//Infinite Times Getting Busted
+[Infinite Times Getting Busted]
 patch=1,EE,202272B0,extended,00000000
 
-//Cops Cant Bust You
+[Cops Cant Bust You]
 patch=1,EE,20226F30,extended,03E00008
 patch=1,EE,20226F34,extended,00000000
 
-//Always Low Time
+[Always Low Time]
 patch=1,EE,201A369C,extended,00000000
 
-//Idiot Cop AI
+[Idiot Cop AI]
 patch=1,EE,20225078,extended,03E00008
 patch=1,EE,2022507C,extended,00000000
 patch=1,EE,2022FF58,extended,03E00008
 patch=1,EE,2022FF5C,extended,00000000
 
-//You're The Cop Mode Infinite Time
+[You're The Cop Mode Infinite Time]
 patch=1,EE,202280DC,extended,00000000
 
-//You're The Cop Mode Start/Stop Timer
+[You're The Cop Mode Start/Stop Timer]
 patch=1,EE,D02DEB82,extended,0000FFFD
 patch=1,EE,202280DC,extended,00000000
 patch=1,EE,D02DEB82,extended,0000FFFE
 patch=1,EE,202280DC,extended,E66028F0
 
-//You're The Cop Mode Infinite Helicopter Assistances
+[You're The Cop Mode Infinite Helicopter Assistances]
 patch=1,EE,20224F60,extended,00000000
 
 

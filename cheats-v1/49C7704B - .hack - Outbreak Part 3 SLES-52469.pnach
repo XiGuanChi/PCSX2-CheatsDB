@@ -1,32 +1,32 @@
-//Cheats/Max Money After Shopping
+[Cheats/Max Money After Shopping]
 patch=1,EE,20557E44,extended,00000000
 
-//Cheats/Infinite Health All
+[Cheats/Infinite Health All]
 patch=1,EE,200FFF00,extended,2401270F
 patch=1,EE,200FFF04,extended,A6210070
 patch=1,EE,200FFF08,extended,A6210074
 patch=1,EE,200FFF0C,extended,08147BB6
 patch=1,EE,2051EED0,extended,0803FFC0
 
-//Cheats/Infinite SP All
+[Cheats/Infinite SP All]
 patch=1,EE,200FFF10,extended,240103E7
 patch=1,EE,200FFF14,extended,A6210072
 patch=1,EE,200FFF18,extended,A6210076
 patch=1,EE,200FFF1C,extended,08147BBA
 patch=1,EE,2051EEE0,extended,0803FFC4
 
-//Cheats/Max Health All
+[Cheats/Max Health All]
 patch=1,EE,205735D8,extended,2402270F
 
-//Cheats/Max Health All Saveable
+[Cheats/Max Health All Saveable]
 patch=1,EE,20578564,extended,2401270F
 patch=1,EE,205735D8,extended,A6410024
 patch=1,EE,205735DC,extended,A6210074
 
-//Cheats/Max SP All
+[Cheats/Max SP All]
 patch=1,EE,205735E0,extended,240203E7
 
-//Cheats/Max SP All Saveable
+[Cheats/Max SP All Saveable]
 patch=1,EE,205735E0,extended,A6460026
 patch=1,EE,205735E4,extended,A6260076
 

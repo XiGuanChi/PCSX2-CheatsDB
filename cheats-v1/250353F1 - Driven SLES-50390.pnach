@@ -1,11 +1,11 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,1031E0F4,extended,00000005
 
-//Cheats/No Wind Resistance
+[Cheats/No Wind Resistance]
 patch=1,EE,009E9D63,extended,000000D1
 patch=1,EE,009E9D67,extended,000000E9
 
-//Cheats/Unlock All Levels Story Mode
+[Cheats/Unlock All Levels Story Mode]
 patch=1,EE,103CBBCC,extended,0000FFFF
 
 

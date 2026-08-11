@@ -1,18 +1,18 @@
 gametitle=Dynasty Warriors 4 SLES-51665
-//Max Health
+[Max Health]
 patch=1,EE,1050814C,extended,00000270
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,1050814E,extended,00002700
 
-//Max Mosou
+[Max Mosou]
 patch=1,EE,10508152,extended,000001F0
 
-//Infinite Mosou
+[Infinite Mosou]
 patch=1,EE,10508154,extended,00001F00
 
-//Infinite Arrows
+[Infinite Arrows]
 patch=1,EE,0052912C,extended,00000014
 
-//Empire Mode Infinite Money
+[Empire Mode Infinite Money]
 patch=1,EE,104D54C8,extended,0000270F

@@ -1,17 +1,17 @@
 gametitle=Pirates - Legend of the Black Buccaneer SLES-54213
-//Infinite Energy
+[Infinite Energy]
 patch=1,EE,205ffe60,extended,0000270f
 patch=1,EE,205ffe64,extended,0000270f
 
-//Infinite Special Energy
+[Infinite Special Energy]
 patch=1,EE,205ffe70,extended,0000270f
 patch=1,EE,205ffe74,extended,0000270f
 
-//All Films
+[All Films]
 patch=1,EE,20435c7c,extended,2401ffff
 patch=1,EE,20435c80,extended,ac4100C0
 
 
-//All Galleries
+[All Galleries]
 patch=1,EE,20435c8c,extended,2401ffff
 patch=1,EE,20435c94,extended,ae010010

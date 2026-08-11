@@ -1,22 +1,22 @@
 gametitle=Tony Hawk's Underground 2 SLES-52622
-//Always Special
+[Always Special]
 patch=1,EE,202ED668,extended,24030001
 
-//Never Fail Goal
+[Never Fail Goal]
 patch=1,EE,202A87C0,extended,080AA184
 patch=1,EE,202A87C4,extended,00000000
 
-//Freeze Arcade Timer
-//Press Select & L3 To activate, Select & R3 to stop.
+[Freeze Arcade Timer]
+[Press Select & L3 To activate, Select & R3 to stop.]
 patch=1,EE,D047DC58,extended,00000300
 patch=1,EE,202B2350,extended,00000000
 patch=1,EE,D047DC58,extended,00000500
 patch=1,EE,202B2350,extended,00621823
 
-//All Arcade Levels & cheats
+[All Arcade Levels & cheats]
 patch=1,EE,20B97014,extended,FFFFFFFF
 patch=1,EE,20B97010,extended,FFFFFFFF
 
-//All Story Levels & Shreck & cheats
+[All Story Levels & Shreck & cheats]
 patch=1,EE,20B96FEC,extended,FFFFFFFF
 patch=1,EE,20B96FF0,extended,FFFFFFFF

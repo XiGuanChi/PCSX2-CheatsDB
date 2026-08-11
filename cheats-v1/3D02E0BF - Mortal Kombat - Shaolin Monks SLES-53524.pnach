@@ -1,15 +1,15 @@
-//Cheats/Infinite Health You can still take environment damage when there are no enemies present
+[Cheats/Infinite Health You can still take environment damage when there are no enemies present]
 patch=1,EE,20296D38,extended,8C4303A0
 patch=1,EE,20296D3C,extended,AC430398
 
-//Cheats/Infinite Health Alternate
+[Cheats/Infinite Health Alternate]
 patch=1,EE,20C08C28,extended,000000FF
 patch=1,EE,20C08C30,extended,000000FF
 
-//Cheats/Infinite Energy
+[Cheats/Infinite Energy]
 patch=1,EE,20169464,extended,00000000
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,200FFF00,extended,3C0100C1
 patch=1,EE,200FFF04,extended,24218890
 patch=1,EE,200FFF08,extended,12010003
@@ -17,7 +17,7 @@ patch=1,EE,200FFF10,extended,AE000398
 patch=1,EE,200FFF20,extended,080A17C8
 patch=1,EE,202871B8,extended,0C03FFC0
 
-//Cheats/Unlock All Kontent And Vs Characters
+[Cheats/Unlock All Kontent And Vs Characters]
 patch=1,EE,205D8588,extended,FFFFFFFF
 patch=1,EE,205D858C,extended,FFFFFFFF
 patch=1,EE,205D8590,extended,FFFFFFFF

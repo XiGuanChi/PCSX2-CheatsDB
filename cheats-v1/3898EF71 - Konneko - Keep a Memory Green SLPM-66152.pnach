@@ -1,8 +1,8 @@
-//Cheats/Unlock All CG
+[Cheats/Unlock All CG]
 patch=1,EE,201FC720,extended,FFFFFFFF
 patch=1,EE,41CFE640,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Hold Circle Over New Game for Debug Menu This allows viewing of all character routes
+[Cheats/Hold Circle Over New Game for Debug Menu This allows viewing of all character routes]
 patch=1,EE,D01FCE02,extended,0000DFFF
 patch=1,EE,20420C50,extended,00000369

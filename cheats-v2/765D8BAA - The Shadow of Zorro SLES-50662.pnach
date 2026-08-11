@@ -1,5 +1,5 @@
 gametitle=The Shadow of Zorro SLES-50662
-//Must Be On
+[Must Be On]
 patch=1,EE,200FFF04,extended,3C03003B
 patch=1,EE,200FFF08,extended,3463C5BC
 patch=1,EE,200FFF0C,extended,8C630000
@@ -9,14 +9,14 @@ patch=1,EE,200FFF34,extended,24030070
 patch=1,EE,200FFF38,extended,0804C248
 patch=1,EE,2013091C,extended,0803FFC0
 
-//Inf pistol ammo
+[Inf pistol ammo]
 patch=1,EE,200FFF1C,extended,A064012C
 
-//Inf low bomb
+[Inf low bomb]
 patch=1,EE,200FFF20,extended,A0640128
 
-//Inf rosa
+[Inf rosa]
 patch=1,EE,200FFF24,extended,A0640124
 
-//Inf soporific bombs
+[Inf soporific bombs]
 patch=1,EE,200FFF28,extended,A0640120

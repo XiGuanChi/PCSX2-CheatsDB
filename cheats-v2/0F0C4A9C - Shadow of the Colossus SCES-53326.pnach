@@ -1,18 +1,18 @@
 gametitle=Shadow of the Colossus SCES-53326
-//Infinite Health
+[Infinite Health]
 patch=1,EE,212E9FE4,extended,42C80000
 
-//Infinite Grip
+[Infinite Grip]
 patch=1,EE,212E9FE0,extended,42C80000
 
-//Infinite Health ASM Version
+[Infinite Health ASM Version]
 patch=1,EE,21369520,extended,00000000
 
-//1-Hit Kills
+[1-Hit Kills]
 patch=1,EE,E0029FE4,extended,01369420
 patch=1,EE,412E55A4,extended,00130002
 patch=1,EE,43C80000,extended,00000000
 
-//Start Game Standing + Have All Save Altars On Your Map
+[Start Game Standing + Have All Save Altars On Your Map]
 patch=1,EE,E0019FE4,extended,01369420
 patch=1,EE,212E58D0,extended,03FFFFFC

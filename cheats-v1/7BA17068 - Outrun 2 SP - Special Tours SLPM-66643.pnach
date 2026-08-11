@@ -1,16 +1,16 @@
-//Cheats/Infinite Time 99 seconds
+[Cheats/Infinite Time 99 seconds]
 patch=1,EE,205A250C,extended,0000176F
 
-//Cheats/Max score for outrun mode
+[Cheats/Max score for outrun mode]
 patch=1,EE,2057FFE0,extended,0098967F
 
-//Cheats/Total time does not increase
+[Cheats/Total time does not increase]
 patch=1,EE,201D5DFC,extended,24020001
 
-//Cheats/Infinite Stage lap time
+[Cheats/Infinite Stage lap time]
 patch=1,EE,201D5E24,extended,24020001
 
-//Cheats/Showroom total Item purchased
+[Cheats/Showroom total Item purchased]
 patch=1,EE,2055EBA0,extended,FFFFFFFF
 patch=1,EE,2055EBA4,extended,FFFFFFFF
 patch=1,EE,2055EBA8,extended,FFFFFFFF
@@ -19,16 +19,16 @@ patch=1,EE,2055EBB0,extended,FFFFFFFF
 patch=1,EE,2055EBB4,extended,FFFFFFFF
 patch=1,EE,2055EBB8,extended,0007FFFF
 
-//Cheats/Unlock All Original Mode COAST 2 COAST when entering stage selection
+[Cheats/Unlock All Original Mode COAST 2 COAST when entering stage selection]
 patch=1,EE,20245E60,extended,24 026666
 patch=1,EE,20245E68,extended,A4E2036E
 patch=1,EE,202473E0,extended,24020006
 patch=1,EE,202473E4,extended,A0620000
 
-//Cheats/Heart Attack Mode Total number of hearts 9999
+[Cheats/Heart Attack Mode Total number of hearts 9999]
 patch=1,EE,20560A40,extended,05F5E0FF
 
-//Cheats/Max hearts acquired when requesting Not compatible with COAST 2 COAST The heart total number may increase abnormally
+[Cheats/Max hearts acquired when requesting Not compatible with COAST 2 COAST The heart total number may increase abnormally]
 patch=1,EE,201B3A8C,extended,AE80010C
 patch=1,EE,201B3A94,extended,AE800110
 patch=1,EE,201B3A98,extended,AE800114 
@@ -40,23 +40,23 @@ patch=1,EE,201B34D4,extended,3C040014
 patch=1,EE,201B34D8,extended,03E00008 
 patch=1,EE,201B34DC,extended,AC440CC4 
 
-//Cheats/COAST 2 COAST For CLARISSA JENNIFER HOLY's heart attack Max hearts obtained at the time of request
+[Cheats/COAST 2 COAST For CLARISSA JENNIFER HOLY's heart attack Max hearts obtained at the time of request]
 patch=1,EE,202370BC,extended,3C0142C8 
 patch=1,EE,202370C0,extended,AC610028 
 patch=1,EE,2023551C,extended,00000000 
 patch=1,EE,2023367C,extended,00000000
 
-//Cheats/COAST 2 COAST For CLARISSA JENNIFER HOLY's heart attack total hearts 9999
+[Cheats/COAST 2 COAST For CLARISSA JENNIFER HOLY's heart attack total hearts 9999]
 patch=1,EE,20235F40,extended,2402270F 
 
-//Cheats/COAST 2 COAST For FLAGMAN's mission 1st place after finishing
+[Cheats/COAST 2 COAST For FLAGMAN's mission 1st place after finishing]
 patch=1,EE,201FFED8,extended,24040000
 patch=1,EE,20201AE8,extended,24020000
 
-//Cheats/Rating AAA
+[Cheats/Rating AAA]
 patch=1,EE,20200048,extended,24100000
 patch=1,EE,20201B74,extended,24030000
 
-//Cheats/Score 9999999 points
+[Cheats/Score 9999999 points]
 patch=1,EE,20363178,extended,0098967F
 

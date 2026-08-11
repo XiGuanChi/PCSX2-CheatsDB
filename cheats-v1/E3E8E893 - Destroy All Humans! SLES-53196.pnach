@@ -1,4 +1,4 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF80,extended,3C014270
 patch=1,EE,200FFF88,extended,AC8100D8
 patch=1,EE,200FFF8C,extended,3C013F80
@@ -7,7 +7,7 @@ patch=1,EE,200FFF94,extended,03E00008
 patch=1,EE,2040EDF4,extended,000FFF80
 patch=1,EE,2040FB5C,extended,000FFF80
 
-//Cheats/Infinite Concentration
+[Cheats/Infinite Concentration]
 patch=1,EE,2029BC84,extended,00000000
 patch=1,EE,2029C878,extended,00000000
 patch=1,EE,2029CC88,extended,00000000
@@ -15,24 +15,24 @@ patch=1,EE,2028E9F0,extended,00000000
 patch=1,EE,202980A8,extended,00000000
 patch=1,EE,2029A398,extended,00000000
 
-//Cheats/Infinite Zap-O-Matic Power
+[Cheats/Infinite Zap-O-Matic Power]
 patch=1,EE,2029FD68,extended,00000000
 patch=1,EE,2029F5AC,extended,00000000
 
-//Cheats/Infinite Saucer Death Ray
+[Cheats/Infinite Saucer Death Ray]
 patch=1,EE,2028F0EC,extended,00000000
 
-//Cheats/Infinite Disintegrator Ray
+[Cheats/Infinite Disintegrator Ray]
 patch=1,EE,20296C3C,extended,00000000
 
-//Cheats/Infinite Ion Detonator Ammo
+[Cheats/Infinite Ion Detonator Ammo]
 patch=1,EE,2029B014,extended,00000000
 
-//Cheats/Infinite Sonic Boom And Quantum Deconstructor
+[Cheats/Infinite Sonic Boom And Quantum Deconstructor]
 patch=1,EE,2029DB18,extended,00000000
 
-//Cheats/Infinite Jetpack Use
+[Cheats/Infinite Jetpack Use]
 patch=1,EE,202242F0,extended,00000000
 
-//Cheats/Collect Or Spend DNA for 9984 DNA
+[Cheats/Collect Or Spend DNA for 9984 DNA]
 patch=1,EE,202778BC,extended,3C04461C

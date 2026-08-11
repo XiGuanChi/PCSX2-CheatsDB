@@ -1,19 +1,19 @@
 gametitle=Tony Hawk's American Wasteland SLUS-21208 SLUS-21295
-//All Characters
+[All Characters]
 patch=1,EE,209AF754,extended,FFFFFFFF
 patch=1,EE,209AF758,extended,FFFFFFFF
 
-//All Cheats
+[All Cheats]
 patch=1,EE,009AF710,extended,000000FF
 
-//All Movies
+[All Movies]
 patch=1,EE,009AF711,extended,000000FF
 
-//Story Mode - Infinite Cash
+[Story Mode - Infinite Cash]
 patch=1,EE,20D24294,extended,05F5E0FF
 
-//Story Mode -Super Combos
+[Story Mode -Super Combos]
 patch=1,EE,2071688C,extended,42C60000
 
-//Story Mode -Infinite Special
+[Story Mode -Infinite Special]
 patch=1,EE,2071689C,extended,00000B3D

@@ -1,18 +1,18 @@
 gametitle=Disney's Pixar - The Incredibles SLUS-20905 SLES-52812
-//Invincibility
+[Invincibility]
 patch=1,EE,206482E0,extended,00000001
 
-//Infinite Incredi-Meter
+[Infinite Incredi-Meter]
 patch=1,EE,2024103C,extended,24020064
 patch=1,EE,20241040,extended,A4820798
 
-//All Video
+[All Video]
 patch=1,EE,406CFE68,extended,00060001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,006CFE82,extended,00000001
 patch=1,EE,006CFE87,extended,00000001
 
-//All Artwork
+[All Artwork]
 patch=1,EE,406CFE90,extended,00100001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,106CFED0,extended,00000101

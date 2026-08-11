@@ -1,13 +1,13 @@
 gametitle=Blood the Last Vampire - Vol.1 Joukan SCPS-15007
-//Blood gauge
+[Blood gauge]
 patch=1,EE,1066C210,extended,00000258
 patch=1,EE,1066C214,extended,00000258
 
-//Game 100%
+[Game 100%]
 patch=1,EE,4066B510,extended,00260001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Presents
+[Presents]
 patch=1,EE,1066B380,extended,0000FFFF
 patch=1,EE,0066B387,extended,00000001
 patch=1,EE,0066B38B,extended,00000001
@@ -29,9 +29,9 @@ patch=1,EE,0066B3C7,extended,00000001
 patch=1,EE,0066B3CB,extended,00000001
 patch=1,EE,1066B3CF,extended,00000101
 
-//Play time
+[Play time]
 patch=1,EE,2066B290,extended,00000000
 
-//Answer time
+[Answer time]
 patch=1,EE,0067915C,extended,000000B4
 

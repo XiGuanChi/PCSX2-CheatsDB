@@ -1,63 +1,63 @@
-//Cheats/Max Money 99999999
+[Cheats/Max Money 99999999]
 patch=1,EE,203B33D8,extended,05F5E0FF
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,20231CBC,extended,8E0F01F8
 patch=1,EE,20231CC0,extended,35EF8000
 patch=1,EE,20231CC4,extended,AE0F01F8
 patch=1,EE,20231CC8,extended,0808C755
 patch=1,EE,20231CCC,extended,966F1AA0
 
-//Cheats/Infinite Missiles
+[Cheats/Infinite Missiles]
 patch=1,EE,20230C94,extended,10000036
 patch=1,EE,202331D8,extended,10000051
 
-//Cheats/Infinite Missiles alt
+[Cheats/Infinite Missiles alt]
 patch=1,EE,20230CB8,extended,00000000
 
-//Cheats/Infinite Special Weapons
+[Cheats/Infinite Special Weapons]
 patch=1,EE,20233904,extended,00000000
 
-//Cheats/No Collision Damage
+[Cheats/No Collision Damage]
 patch=1,EE,202322A8,extended,4A0002FF
 
-//Cheats/Missile fire Continuous Fire
+[Cheats/Missile fire Continuous Fire]
 patch=1,EE,20230828,extended,240E0000
 patch=1,EE,20230848,extended,240E0000
 
-//Cheats/Special Weapon Continuous Fire
+[Cheats/Special Weapon Continuous Fire]
 patch=1,EE,20233034,extended,00000000
 
-//Cheats/Injury Free
+[Cheats/Injury Free]
 patch=1,EE,200FFF80,extended,90810414
 patch=1,EE,200FFF84,extended,10200003
 patch=1,EE,200FFF8C,extended,0807F240
 patch=1,EE,200FFF94,extended,08040161
 patch=1,EE,202322A8,extended,0C03FFE0
 
-//Cheats/Injury Free of Two or More 2 Availability
+[Cheats/Injury Free of Two or More 2 Availability]
 patch=1,EE,200FFF80,extended,90810414
 patch=1,EE,200FFF84,extended,10200003
 patch=1,EE,200FFF8C,extended,0807F240
 patch=1,EE,200FFF94,extended,08040161
 patch=1,EE,202322A8,extended,0C03FFE0
 
-//Cheats/Unlock All Free Missions
+[Cheats/Unlock All Free Missions]
 patch=1,EE,403B3E68,extended,00640001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All aircraft available for purchase
+[Cheats/Unlock All aircraft available for purchase]
 patch=1,EE,202BBB2C,extended,240E0001
 patch=1,EE,202BBB30,extended,A1EE0008
 
-//Cheats/Unlock All Units & Special Weapons
+[Cheats/Unlock All Units & Special Weapons]
 patch=1,EE,403B33DC,extended,00900001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock SP NEW GAME, FREE MISSION, SCENE VIEWER In GALLERY, MUSIC PLAYER, Additional Difficulty Level Not Added to NEW GAME
+[Cheats/Unlock SP NEW GAME, FREE MISSION, SCENE VIEWER In GALLERY, MUSIC PLAYER, Additional Difficulty Level Not Added to NEW GAME]
 patch=1,EE,003B9104,extended,00000001
 patch=1,EE,003B910C,extended,00000005
 
-//Cheats/Unlock All SCENE VIEWER
+[Cheats/Unlock All SCENE VIEWER]
 patch=1,EE,403B9110,extended,00090001 
 patch=1,EE,01010101,extended,00000000

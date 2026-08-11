@@ -1,19 +1,19 @@
 gametitle=Suikoden III SLPM-65073
-//Max Possess money 999999P
+[Max Possess money 999999P]
 patch=1,EE,219753F0,extended,000F423F
 
 
 
-//Max skill points in one battle
+[Max skill points in one battle]
 patch=1,EE,216C8A74,extended,00000000
 
-//Hugo Maximum HP 999
+[Hugo Maximum HP 999]
 patch=1,EE,119755BE,extended,000003E7
 
-//Hugo Lv 99
+[Hugo Lv 99]
 patch=1,EE,019755CC,extended,00000063
 
-//The speed force - trick - Magic - avoidance - Magic-proof - 999 luck
+[The speed force - trick - Magic - avoidance - Magic-proof - 999 luck]
 patch=1,EE,200FD338,extended,3C080198
 patch=1,EE,200FD33C,extended,95080500
 patch=1,EE,200FD340,extended,31090080
@@ -31,7 +31,7 @@ patch=1,EE,200FD384,extended,085B200C
 patch=1,EE,216C801C,extended,00C7502B
 patch=1,EE,216C8020,extended,0803F4CE
 
-//ON / OFF switching of encounter with R3 while pressing L1
+[ON / OFF switching of encounter with R3 while pressing L1]
 patch=1,EE,200F1944,extended,3C010198
 patch=1,EE,200F1948,extended,94280500
 patch=1,EE,200F194C,extended,31090004
@@ -48,28 +48,28 @@ patch=1,EE,200F197C,extended,A149F240
 patch=1,EE,200F1980,extended,03E00008
 patch=1,EE,21773918,extended,0803C651
 
-//All (108 people)
-//HP999
+[All (108 people)]
+[HP999]
 patch=1,EE,419755BC,extended,006C0023
 patch=1,EE,03E703E7,extended,00000000
 
-//power, skill 999
+[power, skill 999]
 patch=1,EE,419755AC,extended,006C0023
 patch=1,EE,03E703E7,extended,00000000
 
-//Demon, Evasion 999
+[Demon, Evasion 999]
 patch=1,EE,419755B0,extended,006C0023
 patch=1,EE,03E703E7,extended,00000000
 
-//Magic resistance 999
+[Magic resistance 999]
 patch=1,EE,419755B4,extended,006C0023
 patch=1,EE,03E703E7,extended,00000000
 
-//speed, luck 999
+[speed, luck 999]
 patch=1,EE,419755B8,extended,006C0023
 patch=1,EE,03E703E7,extended,00000000
 
-//Skill 99999
+[Skill 99999]
 patch=1,EE,41975590,extended,006C0023
 patch=1,EE,0001869F,extended,00000000
 

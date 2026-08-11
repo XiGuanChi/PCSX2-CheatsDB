@@ -1,4 +1,4 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,200C2000,extended,341B0001
 patch=1,EE,200C2004,extended,105B0003
 patch=1,EE,200C200C,extended,1440B5E4
@@ -7,19 +7,19 @@ patch=1,EE,200C2014,extended,0804BDE6
 patch=1,EE,2012F790,extended,08030800
 patch=1,EE,2012F794,extended,00000000
 
-//Cheats/Infinite Armor
+[Cheats/Infinite Armor]
 patch=1,EE,200C0230,extended,8E21034C
 patch=1,EE,200C0234,extended,AE210348
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,200C023C,extended,AE600010
 patch=1,EE,20145E50,extended,0C03008C
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,20115CAC,extended,24420000
 
-//Cheats/Infinite Ammo All Weapons
+[Cheats/Infinite Ammo All Weapons]
 patch=1,EE,20115CB4,extended,00000000
 
-//Cheats/Halo-Legacy Mode Analog Sticks
+[Cheats/Halo-Legacy Mode Analog Sticks]
 patch=1,EE,00101E3C,extended,00000006
 patch=1,EE,00101E5C,extended,00000004

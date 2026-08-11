@@ -1,9 +1,9 @@
 gametitle=Generation of Chaos SLPS-20087
-//Search infinitely feasible
+[Search infinitely feasible]
 patch=1,EE,D1C21312,extended,00000100
 patch=1,EE,01C21313,extended,00000000
 
-//Item ALL 99 pieces
+[Item ALL 99 pieces]
 patch=1,EE,01C21297,extended,00000063
 patch=1,EE,21C21298,extended,63636363
 patch=1,EE,21C2129C,extended,63636363

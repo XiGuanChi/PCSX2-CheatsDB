@@ -1,11 +1,11 @@
 gametitle=Kotoba no Puzzle - Mojipittan SLPS-20259
-//Time stop
+[Time stop]
 patch=1,EE,20122D00,extended,1000001A
 
-//Stage cleared once character touched
+[Stage cleared once character touched]
 patch=1,EE,201407D4,extended,00000000
 
-//Maximum score once a character
+[Maximum score once a character]
 patch=1,EE,20123694,extended,3C03000F
 patch=1,EE,20123698,extended,3463423F
 patch=1,EE,2013D834,extended,1000000B

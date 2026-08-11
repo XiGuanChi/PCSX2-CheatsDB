@@ -1,9 +1,9 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201B1024,extended,24010064
 patch=1,EE,201B1028,extended,AE2102BC
 
-//Cheats/Infinite Ammo No Reload
+[Cheats/Infinite Ammo No Reload]
 patch=1,EE,201BC4C8,extended,00000000
 
-//Cheats/Invisible
+[Cheats/Invisible]
 patch=1,EE,201B2764,extended,00000000

@@ -1,7 +1,7 @@
 gametitle=DTM Racer Driver 2 SLES-52638
-//Zeit aus
+[Zeit aus]
 patch=1,EE,2025DFE0,extended,00000000
 patch=1,EE,2025DFF8,extended,00000000
 
-//Friert Zeit ein
+[Friert Zeit ein]
 patch=1,EE,2025DF98,extended,00000000

@@ -1,26 +1,26 @@
-//Cheats/Max P 99999999
+[Cheats/Max P 99999999]
 patch=1,EE,2038B438,extended,3B9AC9FF
 
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,2038B17C,extended,FFFFFFFF
 patch=1,EE,2038B180,extended,FFFFFFFF
 
-//Cheats/Infinite SP
+[Cheats/Infinite SP]
 patch=1,EE,2038B1F0,extended,FFFFFFFF
 patch=1,EE,2038B1F4,extended,FFFFFFFF
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,2038B17C,extended,FFFFFFFF
 patch=1,EE,2038B180,extended,FFFFFFFF
 
-//Cheats/Unlock All Special Characters
+[Cheats/Unlock All Special Characters]
 patch=1,EE,2038B1F0,extended,FFFFFFFF 
 patch=1,EE,2038B1F4,extended,FFFFFFFF
 
-//Cheats/Unlock All Characters Voices
+[Cheats/Unlock All Characters Voices]
 patch=1,EE,2038B1DC,extended,FFFFFFFF
 
-//Cheats/Unlock All Arms
+[Cheats/Unlock All Arms]
 patch=1,EE,2038B0FC,extended,FFFFFFFF
 patch=1,EE,2038B100,extended,FFFFFFFF
 patch=1,EE,2038B104,extended,FFFFFFFF
@@ -29,26 +29,26 @@ patch=1,EE,2038B10C,extended,FFFFFFFF
 patch=1,EE,2038B110,extended,FFFFFFFF
 patch=1,EE,2038B114,extended,FFFFFFFF
 
-//Cheats/Unlock All Movies and Songs
+[Cheats/Unlock All Movies and Songs]
 patch=1,EE,2038B1E4,extended,FFFFFFFF
 patch=1,EE,2038B1E8,extended,FFFFFFFF
 patch=1,EE,2038B1EC,extended,FFFFFFFF
 
-//Cheats/Unlock All Cards
+[Cheats/Unlock All Cards]
 patch=1,EE,2038B1B8,extended,FFFFFFFF
 patch=1,EE,2038B1BC,extended,FFFFFFFF
 patch=1,EE,2038B1C0,extended,FFFFFFFF
 patch=1,EE,2038B1C4,extended,FFFFFFFF
 patch=1,EE,2038B1C8,extended,FFFFFFFF
 
-//Cheats/Unlock All Labyrinth Maps
+[Cheats/Unlock All Labyrinth Maps]
 patch=1,EE,2038B184,extended,FFFFFFFF
 patch=1,EE,2038B188,extended,FFFFFFFF
 patch=1,EE,2038B18C,extended,FFFFFFFF
 patch=1,EE,2038B190,extended,FFFFFFFF
 
-//Cheats/All Labyrinth Clear
+[Cheats/All Labyrinth Clear]
 patch=1,EE,2038B194,extended,FFFFFFFF
 
-//Cheats/Title Screen = Debug Title Screen Select Game Mode -Title Screen = Debug Title ScreenSelect Game Mode -- Fight Training P-movie Drama Sound Test Menu Store Demo Demo Tr
+[Cheats/Title Screen = Debug Title Screen Select Game Mode -Title Screen = Debug Title ScreenSelect Game Mode -- Fight Training P-movie Drama Sound Test Menu Store Demo Demo Tr]
 patch=1,EE,20413FC0,extended,00000001

@@ -1,8 +1,8 @@
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,101F7834,extended,00008D00
 
-//Cheats/Infinite Time alt
+[Cheats/Infinite Time alt]
 patch=1,EE,101F780C,extended,00000000
 
-//Cheats/Debug Menu Replaces Arcade Mode  select the first option at the menu menu and press Circle twice to enter the debug menu. If you are using an emulator with the code you will need to restart the game while the code is active.TEST CSEADMIN A stage viewing option.
+[Cheats/Debug Menu Replaces Arcade Mode  select the first option at the menu menu and press Circle twice to enter the debug menu. If you are using an emulator with the code you will need to restart the game while the code is active.TEST CSEADMIN A stage viewing option.]
 patch=1,EE,10100918,extended,00000000

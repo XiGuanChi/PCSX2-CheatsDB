@@ -1,8 +1,8 @@
 gametitle=Airblade SLUS-20346
-//Have Infinite Time
+[Have Infinite Time]
 patch=1,EE,203310C8,extended,43000000
 
-//All Levels
+[All Levels]
 patch=1,EE,10328500,extended,00000001
 patch=1,EE,203284B8,extended,00000001
 patch=1,EE,203284D0,extended,00000001

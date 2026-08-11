@@ -1,13 +1,13 @@
 gametitle=Kinnikuman Muscle Grand Prix 2 Tokumori SLPS-25881
-//Player 1 Infinite energy
+[Player 1 Infinite energy]
 patch=1,EE,2035A110,extended,0000270F
 patch=1,EE,2035A114,extended,0000270F
 patch=1,EE,2035A118,extended,0000270F
 
-//Player 1 Maximum gauge
+[Player 1 Maximum gauge]
 patch=1,EE,2035A11C,extended,000003E7
 patch=1,EE,2035A120,extended,000003E7
 patch=1,EE,2035A124,extended,000003E7
 
-//Infinite physical strength throne of contention Edition
+[Infinite physical strength throne of contention Edition]
 patch=1,EE,006D6BE9,extended,00000040

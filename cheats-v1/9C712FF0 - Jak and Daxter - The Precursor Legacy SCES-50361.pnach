@@ -1,22 +1,22 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,20182970,extended,41000000
 
-//Cheats/Infinite HP ASM
+[Cheats/Infinite HP ASM]
 patch=1,EE,20786F38,extended,00000000
 
-//Cheats/Carg 200 fish in minigame
+[Cheats/Carg 200 fish in minigame]
 patch=1,EE,201948B4,extended,00000DAD
 
-//Cheats/No escape fish in minigame
+[Cheats/No escape fish in minigame]
 patch=1,EE,201948B8,extended,c8c8c8c8
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,20642efc,extended,01010101
 patch=1,EE,20642f00,extended,01010101
 patch=1,EE,20642f04,extended,01010101
 patch=1,EE,20642f08,extended,01010101
 
-//Cheats/Have all 200 eggs
+[Cheats/Have all 200 eggs]
 patch=1,EE,20642e9c,extended,c8c8c8c8
 patch=1,EE,20642ea0,extended,c8c8c8c8
 patch=1,EE,20642ea4,extended,c8c8c8c8

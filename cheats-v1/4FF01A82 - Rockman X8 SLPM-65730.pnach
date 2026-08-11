@@ -1,4 +1,4 @@
-//Cheats/Invincible suicide Press SELECT+R2
+[Cheats/Invincible suicide Press SELECT+R2]
 patch=1,EE,202DBBEC,extended,240200C8
 patch=1,EE,202DBBF0,extended,AE02002C
 patch=1,EE,202DBBF4,extended,AE020040
@@ -7,24 +7,24 @@ patch=1,EE,20217568,extended,03E00008
 patch=1,EE,D0A0E642,extended,0000FDFE
 patch=1,EE,20217560,extended,24020001
 
-//Cheats/Infinite Weapon Energy
+[Cheats/Infinite Weapon Energy]
 patch=1,EE,20231158,extended,00441821
 patch=1,EE,2023115C,extended,24020090
 patch=1,EE,20231160,extended,A4620808
 patch=1,EE,20231164,extended,03E00008
 
-//Cheats/Possession Metal 9999999
+[Cheats/Possession Metal 9999999]
 patch=1,EE,20653974,extended,0098967F
 
-//Cheats/Max Attack Gauge After Rise
+[Cheats/Max Attack Gauge After Rise]
 patch=1,EE,201A7F24,extended,00000000
 
-//Cheats/Accelerator Hover Continuously Available
+[Cheats/Accelerator Hover Continuously Available]
 patch=1,EE,2021CDC4,extended,10000003
 
-//Cheats/Max Combo Counter
+[Cheats/Max Combo Counter]
 patch=1,EE,201CF244,extended,240203E7
 
-//Cheats/Chip Development Three Almost 100%
+[Cheats/Chip Development Three Almost 100%]
 patch=1,EE,20162E58,extended,24010001
 patch=1,EE,20162E6C,extended,A0410018

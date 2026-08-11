@@ -1,38 +1,38 @@
-//Cheats/Max Zenny
+[Cheats/Max Zenny]
 patch=1,EE,207657A8,extended,0098967F
 
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20753E68,extended,0098967F
 
-//Cheats/Max Community Deposit Money
+[Cheats/Max Community Deposit Money]
 patch=1,EE,20754F90,extended,0098967F
 
-//Cheats/Max Party Experience
+[Cheats/Max Party Experience]
 patch=1,EE,20753E70,extended,0098967F
 
-//Cheats/Max Rewards Experience Value
+[Cheats/Max Rewards Experience Value]
 patch=1,EE,2054FED0,extended,0098967F
 
-//Cheats/Max HP & AP After 1 Level Up
+[Cheats/Max HP & AP After 1 Level Up]
 patch=1,EE,2102A490,extended,24010000
 patch=1,EE,2102A4C4,extended,24010000
 
-//Cheats/Enemy Character Status HP 1
+[Cheats/Enemy Character Status HP 1]
 patch=1,EE,210133B8,extended,24070001
 patch=1,EE,21013404,extended,24060001
 
-//Cheats/Possession Of All Skills
+[Cheats/Possession Of All Skills]
 patch=1,EE,20754C08,extended,FFFFFFFF
 patch=1,EE,20754C0C,extended,FFFFFFFF
 patch=1,EE,20754C10,extended,FFFFFFFF
 patch=1,EE,20754C14,extended,FFFFFFFF
 patch=1,EE,20754C18,extended,0000007F
 
-//Cheats/No Random Battles
+[Cheats/No Random Battles]
 patch=1,EE,2015E6F8,extended,24020000
 patch=1,EE,2020DE58,extended,24020000
 
-//Cheats/Save without save token
+[Cheats/Save without save token]
 patch=1,EE,210683C4,extended,24020001
 patch=1,EE,21068460,extended,24020001
 

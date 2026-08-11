@@ -1,11 +1,11 @@
 gametitle=The Incredible Hulk SLUS-21765
-//Infinite HP
+[Infinite HP]
 patch=1,EE,201DADCC,extended,00401023
 
-//Infinite Rage
+[Infinite Rage]
 patch=1,EE,201DB3D0,extended,00401023
 
-//Infinite Gain Max Rage Meter (one hit)
+[Infinite Gain Max Rage Meter (one hit)]
 patch=1,EE,201DB128,extended,8C500004
 
 

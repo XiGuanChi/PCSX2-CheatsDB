@@ -1,20 +1,20 @@
 gametitle=Akudaidan 3 SLPM-66653
-//Infinite Money 99999
+[Infinite Money 99999]
 patch=1,EE,2035D638,extended,0098967F
 
-//Infinite HP
+[Infinite HP]
 patch=1,EE,201D17A0,extended,20989849
 
-//Infinite Money Trap
+[Infinite Money Trap]
 patch=1,EE,201D17D0,extended,20989849
 
-//Infinite Money in battle
+[Infinite Money in battle]
 patch=1,EE,0046D5A5,extended,8A000002
 
-//Infinite HP in battle
+[Infinite HP in battle]
 patch=1,EE,00429895,extended,410000FF
 
-//Max weapons
+[Max weapons]
 patch=1,EE,200FB2F8,extended,03E00008
 patch=1,EE,201B4558,extended,0803EC80
 patch=1,EE,200FB270,extended,0803F09B

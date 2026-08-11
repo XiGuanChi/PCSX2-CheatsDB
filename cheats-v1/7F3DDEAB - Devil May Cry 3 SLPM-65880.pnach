@@ -1,29 +1,29 @@
-//Cheats/Infinite Health & Large Damage In One Hit Health will decrease over time in Mssion 12
+[Cheats/Infinite Health & Large Damage In One Hit Health will decrease over time in Mssion 12]
 patch=1,EE,202E793C,extended,10000022
 patch=1,EE,202E8C7C,extended,3C033000
 
-//Cheats/Mssion 12 Health Does Not Decrease Over Time
+[Cheats/Mssion 12 Health Does Not Decrease Over Time]
 patch=1,EE,2021CD14,extended,00000000 
 
-//Cheats/Combo Gauge Max Iin One Hit
+[Cheats/Combo Gauge Max Iin One Hit]
 patch=1,EE,203328B8,extended,1000000D
 patch=1,EE,203328F0,extended,3C024800
 
-//Cheats/Infinite Devil Trigger
+[Cheats/Infinite Devil Trigger]
 patch=1,EE,20307D1C,extended,E44028C4
 patch=1,EE,20307D20,extended,44800000
 
-//Cheats/Red Orb Max It will be maximized by pressi SELECT on the customization screen at the start of the mission
+[Cheats/Red Orb Max It will be maximized by pressi SELECT on the customization screen at the start of the mission]
 patch=1,EE,D0665AD4,extended,01000100
 patch=1,EE,217823C8,extended,000F423F
 
-//Cheats/Press L2+R2 Max Health Gauge
+[Cheats/Press L2+R2 Max Health Gauge]
 patch=1,EE,D0665AD4,extended,00030003
 patch=1,EE,217853A8,extended,469C4000
 patch=1,EE,D0665AD4,extended,00030003 
 patch=1,EE,217853D4,extended,469C4000 
 
-//Cheats/Press L1+R1 To Max Out Style Experience Points
+[Cheats/Press L1+R1 To Max Out Style Experience Points]
 patch=1,EE,D0665AD4,extended,000C000C 
 patch=1,EE,2178657C,extended,497423 F0
 

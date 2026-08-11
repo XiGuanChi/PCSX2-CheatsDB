@@ -1,11 +1,11 @@
 gametitle=Masters of the Universe - He-Man - Defender of Greyskull SLES-53035
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202A35F4,extended,3C014F00
 patch=1,EE,202A35F8,extended,AE2101E0
 
-//Infinite Skull Power
+[Infinite Skull Power]
 patch=1,EE,202A35E4,extended,00000000
 patch=1,EE,202A35CC,extended,00000000
 
-//99 Lives
+[99 Lives]
 patch=1,EE,20272D3C,extended,00000000

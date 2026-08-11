@@ -1,7 +1,7 @@
 gametitle=Knockout Kings 2002 SLES-50727
-//Infinite Creation Points
+[Infinite Creation Points]
 patch=1,EE,004094D0,extended,000000FF
 
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,00408A83,extended,00000002
 

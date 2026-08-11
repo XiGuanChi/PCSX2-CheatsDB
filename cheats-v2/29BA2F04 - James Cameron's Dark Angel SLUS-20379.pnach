@@ -1,18 +1,18 @@
 gametitle=James Cameron's Dark Angel SLUS-20379
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,C48002A4
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,E48002A0
 patch=1,EE,20210638,extended,0C030088
 
-//Always Max Rage
+[Always Max Rage]
 patch=1,EE,200C0230,extended,C48002B8
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,E48002B4
 patch=1,EE,20210644,extended,0C03008C
 
-//Infinite Item Usage
+[Infinite Item Usage]
 patch=1,EE,20213610,extended,00000000
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,20211CA8,extended,00000000

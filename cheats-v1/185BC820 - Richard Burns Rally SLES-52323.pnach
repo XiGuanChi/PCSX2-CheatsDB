@@ -1,14 +1,14 @@
-//Cheats/Low Total Time
+[Cheats/Low Total Time]
 patch=1,EE,2068AAC0,extended,00000000
 
-//Cheats/Display Grid
+[Cheats/Display Grid]
 patch=1,EE,2035F4B4,extended,00000001
 patch=1,EE,2035F4B8,extended,00000001
 
-//Cheats/Infinite Turbo
+[Cheats/Infinite Turbo]
 patch=1,EE,201A7020,extended,3C014100
 
-//Cheats/Unlock All Training Lessons Done
+[Cheats/Unlock All Training Lessons Done]
 patch=1,EE,1068CD58,extended,00000002
 patch=1,EE,1068CD5C,extended,00000002
 patch=1,EE,1068CD60,extended,00000002
@@ -27,11 +27,11 @@ patch=1,EE,1068CD90,extended,00000002
 patch=1,EE,1068CD94,extended,00000002
 patch=1,EE,1068CD98,extended,00000002
 
-//Cheats/Unlock All Tracks
+[Cheats/Unlock All Tracks]
 patch=1,EE,20273DD0,extended,24020001
 patch=1,EE,20273DD8,extended,A0620030
 
-//Cheats/Unlock All Cars
+[Cheats/Unlock All Cars]
 patch=1,EE,20273E68,extended,24020001
 patch=1,EE,20273E70,extended,A0820020
 

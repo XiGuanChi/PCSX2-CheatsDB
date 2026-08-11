@@ -1,15 +1,15 @@
 gametitle=Sega Ages 2500 Series  Vol.27 - Panzer Dragoon SLPM-62718
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20A84278,extended,00000104
 
-//Invincible
+[Invincible]
 patch=1,EE,201DAF14,extended,1000012E
 
-//100% defeat rate
+[100% defeat rate]
 patch=1,EE,20A83234,extended,000003E7
 patch=1,EE,20A83238,extended,000003E7
 
-//PANDORA'S BOX fully open
+[PANDORA'S BOX fully open]
 patch=1,EE,20B2A498,extended,00000008
 patch=1,EE,20B2A49C,extended,00000001
 patch=1,EE,20B2A4A0,extended,00000001

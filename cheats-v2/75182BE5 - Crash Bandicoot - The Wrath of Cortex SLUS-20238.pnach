@@ -1,23 +1,23 @@
 gametitle=Crash Bandicoot - The Wrath of Cortex SLUS-20238
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,00648D30,extended,00000063
 
-//Infinite Lives (Alternate)
+[Infinite Lives (Alternate)]
 patch=1,EE,201CC0CC,extended,00000000
 
-//Always Low Time
+[Always Low Time]
 patch=1,EE,205ADCBC,extended,00000064
 
-//Invincible (Hold Select To Die)
+[Invincible (Hold Select To Die)]
 patch=1,EE,D1D56642,extended,0010FFFE
 patch=1,EE,1059AD5E,extended,00000088
 
-//Have All Secret Levels
+[Have All Secret Levels]
 patch=1,EE,005A6D9C,extended,000000FF
 
-//Have All Powers
+[Have All Powers]
 patch=1,EE,005A717E,extended,000000FF
 
-//Have All World Levels Completed
+[Have All World Levels Completed]
 patch=1,EE,405A6D8C,extended,00050001
 patch=1,EE,000000FF,extended,00000000

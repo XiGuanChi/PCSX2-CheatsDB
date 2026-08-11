@@ -1,5 +1,5 @@
 gametitle=Dance Dance Revolution X SLPM-55090
-//Unlock 25 hidden songs
+[Unlock 25 hidden songs]
 patch=1,EE,204A11B8,extended,01090909
 patch=1,EE,204A11BC,extended,09010109
 patch=1,EE,204A11C0,extended,09090901
@@ -13,14 +13,14 @@ patch=1,EE,004A11E5,extended,09
 patch=1,EE,204A11E6,extended,09090909
 patch=1,EE,204A11EA,extended,09090909
 
-//Unlock 6 hidden courses
+[Unlock 6 hidden courses]
 patch=1,EE,104A11EE,extended,0909
 patch=1,EE,204A11F0,extended,09090909
 
-//Unlock 12 hidden arrow skins
+[Unlock 12 hidden arrow skins]
 patch=1,EE,404A11F4,extended,00030001
 patch=1,EE,09090909,extended,0
 
-//Unlock 32 hidden characters
+[Unlock 32 hidden characters]
 patch=1,EE,404A1200,extended,00080001
 patch=1,EE,09090909,extended,0

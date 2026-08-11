@@ -1,80 +1,80 @@
 gametitle=.hack - G.U. vol. 1 - Rebirth SLUS 21258
-//All Characters Unlocked:
+[All Characters Unlocked:]
 patch=1,EE,2AF3A86E,extended,FFFFFFFF
 patch=1,EE,2AFFA86E,extended,FFFFFFFF
 
-//All Characters Online And Never Busy:
+[All Characters Online And Never Busy:]
 patch=1,EE,2AE3A86E,extended,FFFFFFFF
 patch=1,EE,2AEFA86E,extended,FFFFFFFF
 patch=1,EE,2AFBA86E,extended,00000000
 
-//Lots of Money (Starting New Game)
+[Lots of Money (Starting New Game)]
 patch=1,EE,1016904c,extended,00007FFF
 
-//Max Greeting Cards
+[Max Greeting Cards]
 patch=1,EE,20AC9100,extended,63636363
 patch=1,EE,20AC9104,extended,63636363
 patch=1,EE,10AC9108,extended,00006363
 patch=1,EE,00AC910A,extended,00000063
 
-//Min Time
+[Min Time]
 patch=1,EE,20ABFEB8,extended,00000000
 
-//Max Time
+[Max Time]
 patch=1,EE,20ABFEB8,extended,0CDFe5c5
 
-//GP MAX
+[GP MAX]
 patch=1,EE,20ABFEC0,extended,05F5E0FF
 
-//Max Chims
+[Max Chims]
 patch=1,EE,10ACD530,extended,00000063
 
-//Haseo Level 50
+[Haseo Level 50]
 patch=1,EE,00ABFEBC,extended,00000032
 
-//Infinite GP
+[Infinite GP]
 patch=1,EE,10ABFEC0,extended,0000FFFF
 
-//Max GP
+[Max GP]
 patch=1,EE,20ABFEC0,extended,05F5E0FF
 
-//Haseo Main Character Max HP
+[Haseo Main Character Max HP]
 patch=1,EE,20ABFEC4,extended,0001869F
 
-//Haseo Main Character Max SP
+[Haseo Main Character Max SP]
 patch=1,EE,20ABFEC8,extended,0001869F
 
-//Haseo Max P-ATK
+[Haseo Max P-ATK]
 patch=1,EE,10ABFECC,extended,0000270F
 
-//Haseo Max P-DEF
+[Haseo Max P-DEF]
 patch=1,EE,10ABFECE,extended,0000270F
 
-//Haseo Max M-ATK
+[Haseo Max M-ATK]
 patch=1,EE,10ABFED0,extended,0000270F
 
-//Haseo Max M-DEF
+[Haseo Max M-DEF]
 patch=1,EE,10ABFED2,extended,0000270F
 
-//Haseo Max Fire
+[Haseo Max Fire]
 patch=1,EE,10ABFED4,extended,0000270F
 
-//Haseo Max Water
+[Haseo Max Water]
 patch=1,EE,10ABFED6,extended,0000270F
 
-//Haseo Max Wind
+[Haseo Max Wind]
 patch=1,EE,10ABFED8,extended,0000270F
 
-//Max Earth
+[Max Earth]
 patch=1,EE,10ABFEDA,extended,0000270F
 
-//Haseo Max Light
+[Haseo Max Light]
 patch=1,EE,10ABFEDC,extended,0000270F
 
-//Haseo Max Dark
+[Haseo Max Dark]
 patch=1,EE,10ABFEDE,extended,0000270F
 
-//Haseo Max Weapon Skill Level
+[Haseo Max Weapon Skill Level]
 patch=1,EE,10AC09FE,extended,00000014
 patch=1,EE,10AC0A00,extended,00000014
 patch=1,EE,10AC0A02,extended,00000014

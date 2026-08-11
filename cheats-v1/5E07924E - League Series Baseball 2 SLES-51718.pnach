@@ -1,11 +1,11 @@
-//Cheats/Clear Strikes Hold R2 and Press Up
+[Cheats/Clear Strikes Hold R2 and Press Up]
 patch=1,EE,D0550182,extended,0000FDEF
 patch=1,EE,2054D3EC,extended,00000000
 
-//Cheats/Clear No Balls Hold R2 and Press Left
+[Cheats/Clear No Balls Hold R2 and Press Left]
 patch=1,EE,D0550182,extended,0000FD7F
 patch=1,EE,2054D3F0,extended,00000000
 
-//Cheats/Clear Outs Hold R2 and Press Down
+[Cheats/Clear Outs Hold R2 and Press Down]
 patch=1,EE,D0550182,extended,0000FDBF
 patch=1,EE,2054D3F4,extended,00000000

@@ -1,27 +1,27 @@
-//Cheats/Max Cash
+[Cheats/Max Cash]
 patch=1,EE,2042DE6A,extended,05F5E0FF
 
-//Cheats/Max Infinite Health Main
+[Cheats/Max Infinite Health Main]
 patch=1,EE,1042DE74,extended,00000960
 patch=1,EE,1042DE76,extended,00000960
 
-//Cheats/Max Infinite Health Partner
+[Cheats/Max Infinite Health Partner]
 patch=1,EE,1042DE78,extended,000004B0
 patch=1,EE,1042DE7A,extended,000004B0
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,201C2D1C,extended,24020000
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,2012020C,extended,24420000
 
 [Cheats/Max Infinite Ammo 
 patch=1,EE,2012031C,extended,24020318
 
-//Cheats/Unlock All Ada's Reports
+[Cheats/Unlock All Ada's Reports]
 patch=1,EE,0043136B,extended,00000004
 
-//Cheats/Unlock All Doors
+[Cheats/Unlock All Doors]
 patch=1,EE,1042E1A6,extended,0000FFFF
 patch=1,EE,2042E1BE,extended,FFFFFFFF
 patch=1,EE,2042E1C2,extended,FFFFFFFF
@@ -32,19 +32,19 @@ patch=1,EE,2042E1CE,extended,FFFFFFFF
 [Cheats/Unlock ] Unlock Extras Menu
 patch=1,EE,20431365,extended,00000080
 
-//Cheats/Unlock Ada's Reports Extras
+[Cheats/Unlock Ada's Reports Extras]
 patch=1,EE,20431364,extended,00000001
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,10431364,extended,0000FFFF
 
-//Cheats/The Mercenaries Unlock All Characters
+[Cheats/The Mercenaries Unlock All Characters]
 patch=1,EE,20431365,extended,0000000F
 
-//Cheats/The Mercenaries Infinite Health
+[Cheats/The Mercenaries Infinite Health]
 patch=1,EE,1042DE74,extended,00000960
 
-//Cheats/The Mercenaries Infinite Health Alternate
+[Cheats/The Mercenaries Infinite Health Alternate]
 patch=1,EE,201C2A7C,extended,00000000
 
 

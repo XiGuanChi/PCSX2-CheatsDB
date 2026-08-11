@@ -1,15 +1,15 @@
 gametitle=Kuon SLUS-21007
-//Infinite Health
+[Infinite Health]
 patch=1,EE,206B2D70,extended,00000064
 
-//Have All equipment
+[Have All equipment]
 patch=1,EE,20A2FEB0,extended,81818181
 
-//Infinite Vessels
+[Infinite Vessels]
 patch=1,EE,00A2FD4D,extended,0000008F
 
-//Infinite Fire Spell 
+[Infinite Fire Spell]
 patch=1,EE,20A2FE3C,extended,009400CA
 
-//Infinite Summoning 
+[Infinite Summoning]
 patch=1,EE,20A2FE4C,extended,00949200

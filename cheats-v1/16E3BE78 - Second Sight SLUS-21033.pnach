@@ -1,24 +1,24 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,C4410214
 patch=1,EE,200C0224,extended,E4410210
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,46010034
 patch=1,EE,20283908,extended,0C030088
 
-//Cheats/Infinite PSI Power
+[Cheats/Infinite PSI Power]
 patch=1,EE,203B1778,extended,C4410EFC
 patch=1,EE,203B1780,extended,E4410EF4
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,20278280,extended,00000000
 
-//Cheats/Infinite Psi
+[Cheats/Infinite Psi]
 patch=1,EE,203B26C0,extended,E4400EF4
 
-//Cheats/Unlock All Cutscenes
+[Cheats/Unlock All Cutscenes]
 patch=1,EE,20464DA4,extended,FFFFFFFF
 patch=1,EE,20464DA8,extended,FFFFFFFF
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,20464DAC,extended,FFFFFFFF
 

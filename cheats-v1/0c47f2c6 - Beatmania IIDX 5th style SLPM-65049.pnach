@@ -1,20 +1,20 @@
-//Cheats/Max Gauge
+[Cheats/Max Gauge]
 patch=1,EE,10E20B70,extended,00001388
 
-//Cheats/Play mode= 1P AUTO PLAY
+[Cheats/Play mode= 1P AUTO PLAY]
 patch=1,EE,20E20E80,extended,00000001
 
-//Cheats/Unlock Original course setting
+[Cheats/Unlock Original course setting]
 patch=1,EE,00E0A134,extended,00000001
 
-//Cheats/Unlock All songs
+[Cheats/Unlock All songs]
 patch=1,EE,20E0A0EC,extended,FFFFFFFF
 patch=1,EE,20E0A0F0,extended,FFFFFFFF
 
-//Cheats/Unlock All expert courses
+[Cheats/Unlock All expert courses]
 patch=1,EE,20E0A130,extended,FFFFFFFF
 
-//Cheats/Autoplay During playing, auto play starts Press L2 ends R2
+[Cheats/Autoplay During playing, auto play starts Press L2 ends R2]
 patch=1,EE,D0E15B00,extended,00000001
 patch=1,EE,20E20E80,extended,00000003
 patch=1,EE,D0E15B00,extended,00000002

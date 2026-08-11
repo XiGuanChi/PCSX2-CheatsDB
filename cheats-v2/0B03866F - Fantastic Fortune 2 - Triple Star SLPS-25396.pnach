@@ -1,66 +1,66 @@
 gametitle=Fantastic Fortune 2 - Triple Star SLPS-25396
-//Status 999 - Culture
+[Status 999 - Culture]
 patch=1,EE,103F1802,extended,0000270F
 
-//Status 999 - Tastefulness
+[Status 999 - Tastefulness]
 patch=1,EE,103F1804,extended,0000270F
 
-//Status 999 - Martial arts
+[Status 999 - Martial arts]
 patch=1,EE,103F1806,extended,0000270F
 
-//Status 999 - Magic
+[Status 999 - Magic]
 patch=1,EE,103F1808,extended,0000270F
 
-//Status 999 - Charm
+[Status 999 - Charm]
 patch=1,EE,103F180A,extended,0000270F
 
-//Status 0 - Fatigue
+[Status 0 - Fatigue]
 patch=1,EE,103F181C,extended,00000000
 
-//Affinity parameter Love Max - Marine
+[Affinity parameter Love Max - Marine]
 patch=1,EE,103F1810,extended,000003E7
 
-//Affinity parameter Love Max - Aqua
+[Affinity parameter Love Max - Aqua]
 patch=1,EE,103F1814,extended,000003E7
 
-//Affinity parameter Love Max - Mallow
+[Affinity parameter Love Max - Mallow]
 patch=1,EE,103F1818,extended,000003E7
 
-//Affinity parameter Love Max - Pluto
+[Affinity parameter Love Max - Pluto]
 patch=1,EE,103F181C,extended,000003E7
 
-//Affinity parameter Love Max - Sirius
+[Affinity parameter Love Max - Sirius]
 patch=1,EE,103F1820,extended,000003E7
 
-//Affinity parameter Love Max - Arc
+[Affinity parameter Love Max - Arc]
 patch=1,EE,103F1824,extended,000003E7
 
-//Affinity parameter Love Max - Lute
+[Affinity parameter Love Max - Lute]
 patch=1,EE,103F1828,extended,000003E7
 
-//Affinity parameter Love Max - Johann
+[Affinity parameter Love Max - Johann]
 patch=1,EE,103F182C,extended,000003E7
 
-//Affinity parameter Love Max - Unisys
+[Affinity parameter Love Max - Unisys]
 patch=1,EE,103F1830,extended,000003E7
 
-//Affinity parameter Love Max - Set
+[Affinity parameter Love Max - Set]
 patch=1,EE,103F1834,extended,000003E7
 
-//Affinity parameter Love Max - other
+[Affinity parameter Love Max - other]
 patch=1,EE,103F1838,extended,000003E7
 
-//Unlock All Album
+[Unlock All Album]
 patch=1,EE,2015C554,extended,2406FFFF
 patch=1,EE,2015C584,extended,FC460000
 patch=1,EE,2015C588,extended,03E00008
 patch=1,EE,2015C58C,extended,DC420000
 
-//Unlock All Gallery
+[Unlock All Gallery]
 patch=1,EE,2015C5F4,extended,2406FFFF
 patch=1,EE,2015C620,extended,A0460000
 patch=1,EE,2015C624,extended,03E00008
 patch=1,EE,2015C628,extended,90420000
 
-//Unlock Main Menu Items
+[Unlock Main Menu Items]
 patch=1,EE,003F1784,extended,000000FF

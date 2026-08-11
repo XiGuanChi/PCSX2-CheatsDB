@@ -1,27 +1,27 @@
 gametitle=Gungrave SLES-51236
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2020A380,extended,437F0000
 
-//Infinite Shield
+[Infinite Shield]
 patch=1,EE,2020A384,extended,42480000
 
-//Max Demolition Shot
+[Max Demolition Shot]
 patch=1,EE,002146FC,extended,00000009
 
-//All Demolition Shot
+[All Demolition Shot]
 patch=1,EE,002146F8,extended,00000003
 
-//Unlock Slow Motion
+[Unlock Slow Motion]
 patch=1,EE,00228E5C,extended,00000001
 
-//Unlock Videos
+[Unlock Videos]
 patch=1,EE,00228E5E,extended,00000001
 
-//Unlock Characters
+[Unlock Characters]
 patch=1,EE,00228E60,extended,00000001
 
-//Unlock emolition Shot
+[Unlock emolition Shot]
 patch=1,EE,00228E62,extended,00000001
 
-//Unlock Level Select
+[Unlock Level Select]
 patch=1,EE,00228E64,extended,00000001

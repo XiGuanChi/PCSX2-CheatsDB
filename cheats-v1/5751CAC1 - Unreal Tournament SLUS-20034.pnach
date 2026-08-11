@@ -1,4 +1,4 @@
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,E0065354,extended,008BDC20
 patch=1,EE,208BDA70,extended,01010101
 patch=1,EE,208BDA74,extended,01010101
@@ -14,7 +14,7 @@ patch=1,EE,208B9A6C,extended,01010101
 patch=1,EE,208B9A70,extended,01010101
 patch=1,EE,008B9A74,extended,00000001
 
-//Cheats/Unlock All Death Match Levels
+[Cheats/Unlock All Death Match Levels]
 patch=1,EE,E00D6857,extended,010361A0
 patch=1,EE,21035DB8,extended,00000001
 patch=1,EE,21036858,extended,00000001
@@ -44,7 +44,7 @@ patch=1,EE,21043238,extended,00000001
 patch=1,EE,210443B8,extended,00000001
 patch=1,EE,21045568,extended,00000001
 
-//Cheats/Unlock All Domination Levels
+[Cheats/Unlock All Domination Levels]
 patch=1,EE,E0056641,extended,010523A0
 patch=1,EE,21051738,extended,00000001
 patch=1,EE,21051FB8,extended,00000001
@@ -58,7 +58,7 @@ patch=1,EE,2104EA48,extended,00000001
 patch=1,EE,2104F4E8,extended,00000001
 patch=1,EE,2104FD68,extended,00000001
 
-//Cheats/Unlock All CTF Levels
+[Cheats/Unlock All CTF Levels]
 patch=1,EE,E0076854,extended,0103A130
 patch=1,EE,21039D48,extended,00000001
 patch=1,EE,2103A7E8,extended,00000001
@@ -76,7 +76,7 @@ patch=1,EE,21038598,extended,00000001
 patch=1,EE,210398B8,extended,00000001
 patch=1,EE,2103A358,extended,00000001
 
-//Cheats/Unlock All Assault Levels
+[Cheats/Unlock All Assault Levels]
 patch=1,EE,E006694C,extended,01031B80
 patch=1,EE,21031798,extended,00000001
 patch=1,EE,21032238,extended,00000001

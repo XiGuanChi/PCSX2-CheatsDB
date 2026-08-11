@@ -1,19 +1,19 @@
 gametitle=Romance of the Three Kingdoms X SLUS-21202
-//Gallery All Portraits
+[Gallery All Portraits]
 patch=1,EE,41B3A4E0,extended,00150001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//All Items
+[All Items]
 patch=1,EE,41B3A540,extended,00070001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//All Event Stills
+[All Event Stills]
 patch=1,EE,41B3A55C,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//All Animated Events
+[All Animated Events]
 patch=1,EE,21B3A568,extended,FFFFFFFF
 
-//New Officer All Skills Officer 1
+[New Officer All Skills Officer 1]
 patch=1,EE,21B7E5AC,extended,FFFFFFFF
 patch=1,EE,11B7E5B0,extended,000003FF

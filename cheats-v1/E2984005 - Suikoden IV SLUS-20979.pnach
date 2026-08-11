@@ -1,53 +1,53 @@
-//Cheats/Infinite Potch Cash
+[Cheats/Infinite Potch Cash]
 patch=1,EE,20535EF8,extended,05F5E0FF
 
-//Cheats/Always Max Runes Codes All Characters
+[Cheats/Always Max Runes Codes All Characters]
 patch=1,EE,401B8D68,extended,00040037
 patch=1,EE,09090909,extended,00000000
 
-//Cheats/Infinite HP Character 1
+[Cheats/Infinite HP Character 1]
 patch=1,EE,201B8D60,extended,000003E7
 
-//Cheats/Infinite HP Character 2
+[Cheats/Infinite HP Character 2]
 patch=1,EE,201B8E3C,extended,000003E7
 
-//Cheats/Infinite HP Character 3
+[Cheats/Infinite HP Character 3]
 patch=1,EE,201B8F18,extended,000003E7
 
-//Cheats/Infinite HP Character 4
+[Cheats/Infinite HP Character 4]
 patch=1,EE,201B8FF4,extended,000003E7
 
-//Cheats/Infinite HP Character 1 In Battle
+[Cheats/Infinite HP Character 1 In Battle]
 patch=1,EE,D0535E60,extended,00100000
 patch=1,EE,201B8D60,extended,000003E7
 
-//Cheats/Infinite HP Character 2 In Battle
+[Cheats/Infinite HP Character 2 In Battle]
 patch=1,EE,D0535E62,extended,00100000
 patch=1,EE,201B8E3C,extended,000003E7
 
-//Cheats/Infinite HP Character 3 In Battle
+[Cheats/Infinite HP Character 3 In Battle]
 patch=1,EE,D0535E64,extended,00100000
 patch=1,EE,201B8F18,extended,000003E7
 
-//Cheats/Infinite HP Character 4 In Battle
+[Cheats/Infinite HP Character 4 In Battle]
 patch=1,EE,D0535E66,extended,00100000
 patch=1,EE,201B8FF4,extended,000003E7
 
-//Cheats/All Characters Level 99 After Battle
+[Cheats/All Characters Level 99 After Battle]
 patch=1,EE,202BA4D8,extended,00608821
 
-//Cheats/P1 Press R3 To Disable Random Battles
+[Cheats/P1 Press R3 To Disable Random Battles]
 patch=1,EE,D05BC402,extended,0000FFFB
 patch=1,EE,202D5C84,extended,24020000
 
-//Cheats/P1 Press L3 To Enable Random Battles
+[Cheats/P1 Press L3 To Enable Random Battles]
 patch=1,EE,D05BC402,extended,0000FFFD
 patch=1,EE,202D5C84,extended,0C0B575C
 
-//Cheats/Rush Always Available
+[Cheats/Rush Always Available]
 patch=1,EE,20535F04,extended,3F800000
 
-//Cheats/Have All Items
+[Cheats/Have All Items]
 patch=1,EE,200C04E0,extended,3C01000C
 patch=1,EE,200C04E4,extended,80220700
 patch=1,EE,200C04E8,extended,1440000E

@@ -1,46 +1,46 @@
-//Cheats/Infinite Gold
+[Cheats/Infinite Gold]
 patch=1,EE,2148FBE8,extended,000F423F
 
-//Cheats/Infinite Fodder
+[Cheats/Infinite Fodder]
 patch=1,EE,1149F73C,extended,000003E8
 
-//Cheats/Max Tolerances
+[Cheats/Max Tolerances]
 patch=1,EE,4148FE74,extended,00050002
 patch=1,EE,005B7CB1,extended,00000000
 
-//Cheats/Never Hungry
+[Cheats/Never Hungry]
 patch=1,EE,2148FD64,extended,00149970
 
-//Cheats/Never Tired
+[Cheats/Never Tired]
 patch=1,EE,2148FD54,extended,000186A0
 patch=1,EE,2148FD70,extended,0001869F
 
-//Cheats/Barn Can Hold Max Capacity
+[Cheats/Barn Can Hold Max Capacity]
 patch=1,EE,1149F73C,extended,000003E8
 
-//Cheats/Max Skill Farm Tools
+[Cheats/Max Skill Farm Tools]
 patch=1,EE,4148FD90,extended,00080003
 patch=1,EE,0000C350,extended,00000000
 
-//Cheats/Pet 1 Always Happy
+[Cheats/Pet 1 Always Happy]
 patch=1,EE,21493034,extended,00000064
 
-//Cheats/Quick Dog Training
+[Cheats/Quick Dog Training]
 patch=1,EE,2032631C,extended,00000000
 
-//Cheats/Full AP Bar
+[Cheats/Full AP Bar]
 patch=1,EE,2148FD64,extended,003186A0
 
-//Cheats/Full SP Bar
+[Cheats/Full SP Bar]
 patch=1,EE,2148FD74,extended,0000869F
 
-//Cheats/Full ST Bar
+[Cheats/Full ST Bar]
 patch=1,EE,2148FD54,extended,000186A0
 
-//Cheats/Auto Run
+[Cheats/Auto Run]
 patch=1,EE,201BA4AC,extended,00000000
 
-//Cheats/Farming Tool Uses Max Degree Of Skill
+[Cheats/Farming Tool Uses Max Degree Of Skill]
 patch=1,EE,2148FD90,extended,0000C350
 patch=1,EE,2148FD98,extended,0000C350
 patch=1,EE,2148FD9C,extended,0000C350
@@ -58,7 +58,7 @@ patch=1,EE,2148FDE0,extended,0000C350
 patch=1,EE,2148FDE4,extended,0000C350
 patch=1,EE,2148FDEC,extended,0000C350
 
-//Cheats/Time Control L1+X = Add Time L1+ CIRCLE  Subtract Time
+[Cheats/Time Control L1+X = Add Time L1+ CIRCLE  Subtract Time]
 patch=1,EE,201BADA4,extended,0803C000
 patch=1,EE,200F0000,extended,3C0801AA
 patch=1,EE,200F0004,extended,3C09005E
@@ -83,6 +83,6 @@ patch=1,EE,200F004C,extended,016C5822
 patch=1,EE,200F0050,extended,AD0B0000
 patch=1,EE,200F0054,extended,03E00008
 
-//Cheats/Have All Tools
+[Cheats/Have All Tools]
 patch=1,EE,4148E6EC,extended,00050001
 patch=1,EE,81818181,extended,00000000

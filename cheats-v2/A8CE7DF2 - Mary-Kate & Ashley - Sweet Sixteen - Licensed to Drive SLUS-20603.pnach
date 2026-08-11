@@ -1,42 +1,42 @@
 gametitle=Mary-Kate & Ashley - Sweet Sixteen - Licensed to Drive SLUS-20603
-//Adventure Mode Ashley Start On Lap 10
+[Adventure Mode Ashley Start On Lap 10]
 patch=1,EE,D07F0B30,extended,00000000
 patch=1,EE,207F0B30,extended,0000000A
 
-//Adventure Mode Ashley Max Coins
+[Adventure Mode Ashley Max Coins]
 patch=1,EE,207F0B38,extended,000003E7
 
-//Adventure Mode Ashley Max Gold Keys
+[Adventure Mode Ashley Max Gold Keys]
 patch=1,EE,207F0B3C,extended,00000003
 
-//Adventure Mode Mary Kate Start On Lap 10
+[Adventure Mode Mary Kate Start On Lap 10]
 patch=1,EE,D07F0BB0,extended,00000000
 patch=1,EE,207F0BB0,extended,0000000A
 
-//Adventure Mode Mary Kate Max Coins
+[Adventure Mode Mary Kate Max Coins]
 patch=1,EE,207F0BB8,extended,000003E7
 
-//Adventure Mode Mary Kate Max Gold Keys
+[Adventure Mode Mary Kate Max Gold Keys]
 patch=1,EE,207F0BBC,extended,00000003
 
-//Adventure Mode Claire Start On Lap 10
+[Adventure Mode Claire Start On Lap 10]
 patch=1,EE,D07F0A30,extended,00000000
 patch=1,EE,207F0A30,extended,0000000A
 
-//Adventure Mode Claire Max Coins
+[Adventure Mode Claire Max Coins]
 patch=1,EE,207F0A38,extended,000003E7
 
-//Adventure Mode Claire Max Gold Keys
+[Adventure Mode Claire Max Gold Keys]
 patch=1,EE,207F0A3C,extended,00000003
 
-//Tiffany Start On Lap 10
+[Tiffany Start On Lap 10]
 patch=1,EE,D07F0AB0,extended,00000000
 patch=1,EE,207F0AB0,extended,0000000A
 
-//Tiffany Max Coins
+[Tiffany Max Coins]
 patch=1,EE,207F0AB8,extended,000003E7
 
-//Tiffany Max Gold Keys
+[Tiffany Max Gold Keys]
 patch=1,EE,207F0ABC,extended,00000003
 
 

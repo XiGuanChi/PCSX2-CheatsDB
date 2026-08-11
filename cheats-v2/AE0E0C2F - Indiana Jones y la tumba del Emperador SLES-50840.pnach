@@ -1,13 +1,13 @@
 gametitle=Indiana Jones y la tumba del Emperador SLES-50840
-//Infinite Health Nivel 1
+[Infinite Health Nivel 1]
 patch=1,EE,20A57180,extended,3F800000
-//Infinita municion Pistola
+[Infinita municion Pistola]
 patch=1,EE,21C554C0,extended,00000006
-//Infinite Health Nivel 2
+[Infinite Health Nivel 2]
 patch=1,EE,21B0042C,extended,43FCCCCA
-//Infinita municion Pistola Nivel 2
+[Infinita municion Pistola Nivel 2]
 patch=1,EE,21BE8810,extended,00000006
-//Infinite Ammo Gun Ceilan - Level 3 (6)
+[Infinite Ammo Gun Ceilan - Level 3 (6)]
 patch=1,EE,21BEDEC0,extended,00000006
-//Infinite HP Celian - Level 3 (1140640970)
+[Infinite HP Celian - Level 3 (1140640970)]
 patch=1,EE,21B01FFC,extended,43FCCCCA

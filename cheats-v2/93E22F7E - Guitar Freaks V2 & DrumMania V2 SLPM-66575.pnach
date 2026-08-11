@@ -1,13 +1,13 @@
 gametitle=Guitar Freaks V2 & DrumMania V2 SLPM-66575
-//Temporarily hidden song fully open
+[Temporarily hidden song fully open]
 patch=1,EE,20149FC4,extended,24020001
 
-//Maximum maintenance guitar gauge
+[Maximum maintenance guitar gauge]
 patch=1,EE,201BF7A8,extended,24030BB8
 
-//1P - 2P Maximum maintenance drum gauge
+[1P - 2P Maximum maintenance drum gauge]
 patch=1,EE,201BFAF8,extended,24030BB8
 patch=1,EE,201BFBA4,extended,24030BB8
 
-//Open all in a single roulette
+[Open all in a single roulette]
 patch=1,EE,20267330,extended,2403FFFF

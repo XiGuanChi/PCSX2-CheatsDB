@@ -1,29 +1,29 @@
 gametitle=Evolution Skateboarding SLUS-20540
-//Infinite Time
+[Infinite Time]
 patch=1,EE,202A61C8,extended,00000000
 
-//Quick Score Gain
+[Quick Score Gain]
 patch=1,EE,11E6A9E8,extended,0000FFFF
 
-//Quick Score Gain
+[Quick Score Gain]
 patch=1,EE,21E6A9E8,extended,05F5E0FF
 
-//Infinite Special Trick Stocks
+[Infinite Special Trick Stocks]
 patch=1,EE,202A7C98,extended,00440821
 patch=1,EE,202A7C9C,extended,24020005
 patch=1,EE,202A7CA0,extended,03E00008
 patch=1,EE,202A7CA4,extended,AC22005C
 
-//Grind For Quicker Special Gain
+[Grind For Quicker Special Gain]
 patch=1,EE,10188548,extended,00000020
 
-//Grind For Hella Special Gain
+[Grind For Hella Special Gain]
 patch=1,EE,10188548,extended,00000064
 
-//Have All Challenges Complete
+[Have All Challenges Complete]
 patch=1,EE,11E9FB2A,extended,00000101
 patch=1,EE,41E9FB2C,extended,00070001
 patch=1,EE,01010101,extended,00000000
 
-//Arto Saari Unlock All Stages
+[Arto Saari Unlock All Stages]
 patch=1,EE,11EA194E,extended,0000FFFF

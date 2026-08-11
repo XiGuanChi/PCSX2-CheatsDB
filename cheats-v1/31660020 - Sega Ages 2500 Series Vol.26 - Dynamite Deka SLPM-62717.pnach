@@ -1,10 +1,10 @@
-//Cheats/Infinite Credits
+[Cheats/Infinite Credits]
 patch=1,EE,21FA9BF0,extended,00000063
 
-//Cheats/1P Invencible
+[Cheats/1P Invencible]
 patch=1,EE,20207B10,extended,00000000
 
-//Cheats/Debug Menus Press and Hold L1+Start Level Select while at the main menu, before selecting a game mode R1+L1 for Test Menu when the game is first booting up nothing works here L2+Start Object Viewer 1 while at the main menu, before selecting a game mode R1+Start Object Viewer 2 while at the main menu, before selecting a game mode
+[Cheats/Debug Menus Press and Hold L1+Start Level Select while at the main menu, before selecting a game mode R1+L1 for Test Menu when the game is first booting up nothing works here L2+Start Object Viewer 1 while at the main menu, before selecting a game mode R1+Start Object Viewer 2 while at the main menu, before selecting a game mode]
 patch=1,EE,D0D42102,extended,0000FBF7
 patch=1,EE,00217C7C,extended,00000001
 patch=1,EE,D0D42102,extended,0000FFFF

@@ -1,15 +1,15 @@
 gametitle=The Terminator - Dawn of Fate SLES-50922
-//All Levels Accessible
+[All Levels Accessible]
 patch=1,EE,201FC17C,extended,00000000
 
-//All Characters
+[All Characters]
 patch=1,EE,20200718,extended,AC830580
 patch=1,EE,20200714,extended,24030001
 
-//All Cheats
+[All Cheats]
 patch=1,EE,202001AC,extended,AC800564
 
-//Must Be On For Health/Armour
+[Must Be On For Health/Armour]
 patch=1,EE,200FFF00,extended,3C030047
 patch=1,EE,200FFF04,extended,8C63E734
 patch=1,EE,200FFF08,extended,3C017F00
@@ -19,8 +19,8 @@ patch=1,EE,200FFF24,extended,24030070
 patch=1,EE,200FFF28,extended,080F4F4C
 patch=1,EE,203D3D2C,extended,0803FFC0
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200FFF1C,extended,AC610040
 
-//Infinite Armour
+[Infinite Armour]
 patch=1,EE,200FFF20,extended,AC610044

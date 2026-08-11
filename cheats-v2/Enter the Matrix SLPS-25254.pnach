@@ -1,16 +1,16 @@
 gametitle=Enter the Matrix SLPS-25254
-//Focus & assist Unlimited
+[Focus & assist Unlimited]
 patch=1,EE,20294870,extended,00000000
 
-//When you map move stamina and focus all recovery
+[When you map move stamina and focus all recovery]
 patch=1,EE,201D41A4,extended,00000000
 patch=1,EE,201D41F0,extended,00000000
 
-//Player only invincible
+[Player only invincible]
 patch=1,EE,20294980,extended,8CC30358
 patch=1,EE,20294988,extended,ACC30354
 
-//Player invincible & enemy blow death
+[Player invincible & enemy blow death]
 patch=1,EE,200F2000,extended,8C642100
 patch=1,EE,200F2004,extended,00822026
 patch=1,EE,200F2008,extended,10800002
@@ -24,5 +24,5 @@ patch=1,EE,20130838,extended,0803C800
 patch=1,EE,2013083C,extended,3C03000F
 patch=1,EE,20294980,extended,0803C808
 
-//Infinite bullets
+[Infinite bullets]
 patch=1,EE,20281B4C,extended,00000000

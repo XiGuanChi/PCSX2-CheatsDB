@@ -1,20 +1,20 @@
-//Cheats/Max Money 9999
+[Cheats/Max Money 9999]
 patch=1,EE,2018A1F4,extended,10000003
 
-//Cheats/Max with fluctuation
+[Cheats/Max with fluctuation]
 patch=1,EE,2018A1E0,extended,3C050001
 patch=1,EE,2018A1E4,extended,34A5869F
 
-//Cheats/Philosopher's Stone 9999
+[Cheats/Philosopher's Stone 9999]
 patch=1,EE,20964004,extended,0000270F
 
-//Cheats/Max Experience Points
+[Cheats/Max Experience Points]
 patch=1,EE,20964000,extended,05F5E0FF
 
-//Cheats/Max Experience Points Earned
+[Cheats/Max Experience Points Earned]
 patch=1,EE,20382CB4,extended,05F5E0FF
 
-//Cheats/Press Square To Recover HP All Allies
+[Cheats/Press Square To Recover HP All Allies]
 patch=1,EE,200F7100,extended,3C010035
 patch=1,EE,200F7104,extended,94217B02
 patch=1,EE,200F7108,extended,30218000
@@ -26,7 +26,7 @@ patch=1,EE,200F7120,extended,A482068E
 patch=1,EE,200F7124,extended,03E00008
 patch=1,EE,2018E1E8,extended,0803DC40
 
-//Cheats/Press Triangle Recover MP All Allies
+[Cheats/Press Triangle Recover MP All Allies]
 patch=1,EE,200F712C,extended,3C010035
 patch=1,EE,200F7130,extended,94217B02
 patch=1,EE,200F7134,extended,30211000
@@ -38,40 +38,40 @@ patch=1,EE,200F714C,extended,A4820692
 patch=1,EE,200F7150,extended,03E00008
 patch=1,EE,2018E188,extended,0803DC4B
 
-//Cheats/AP 9
+[Cheats/AP 9]
 patch=1,EE,20185A30,extended,0C03D400
 patch=1,EE,200F5060,extended,08063378
 patch=1,EE,200F5000,extended,2402000A
 patch=1,EE,200F5004,extended,A0620685
 patch=1,EE,200F5008,extended,A0620686
 
-//Cheats/After Level Up HP 9999
+[Cheats/After Level Up HP 9999]
 patch=1,EE,201859B0,extended,2405270F 
 patch=1,EE,201859B8,extended,2405270F 
 
-//Cheats/After Level Up MP 999
+[Cheats/After Level Up MP 999]
 patch=1,EE,201859C0,extended,240503E7
 
-//Cheats/After Level Up AT 999
+[Cheats/After Level Up AT 999]
 patch=1,EE,201859CC,extended,240503E7
 
-//Cheats/After Level Up DF 999
+[Cheats/After Level Up DF 999]
 patch=1,EE,201859D4,extended,240503E7
 
-//Cheats/After Level Up MAT 999
+[Cheats/After Level Up MAT 999]
 patch=1,EE,201859DC,extended,240503E7 
 
-//Cheats/After Level Up MDF 999
+[Cheats/After Level Up MDF 999]
 patch=1,EE,201859E4,extended,240503E7 
 
-//Cheats/After Level Up TEC 999
+[Cheats/After Level Up TEC 999]
 patch=1,EE,201859EC,extended,240503E7 
 
-//Cheats/After Level Up AGL 999
+[Cheats/After Level Up AGL 999]
 patch=1,EE,201859F4,extended,240503E7 
 
-//Cheats/After Level Up WT 100
+[Cheats/After Level Up WT 100]
 patch=1,EE,20185A0C,extended,241600C7 
 
-//Cheats/After Level Up MOV +9
+[Cheats/After Level Up MOV +9]
 patch=1,EE,20185A20,extended,24170008

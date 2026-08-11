@@ -1,8 +1,8 @@
 gametitle= FIFA Total Football SLPM-65527
-//Whichever goal you enter, one team will score Home side After pressing the L3 + R3 button
+[Whichever goal you enter, one team will score Home side After pressing the L3 + R3 button]
 patch=1,EE,D06B6C02,extended,0000FFF9
 patch=1,EE,005E886C,extended,00000063
 
-//Whichever goal you enter, one team will score Away side After pressing the L3 + R3 button
+[Whichever goal you enter, one team will score Away side After pressing the L3 + R3 button]
 patch=1,EE,D06B6C02,extended,0000FFF9
 patch=1,EE,005E8868,extended,00000063

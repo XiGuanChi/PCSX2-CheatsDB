@@ -1,37 +1,37 @@
 gametitle=.hack//Mutation Part 2 SLES-52467
-//Max Money After Shopping
+[Max Money After Shopping]
 patch=1,EE,2046E554,extended,00000000
 
-//Max Health All
+[Max Health All]
 patch=1,EE,20489A78,extended,2402270F
 
-//Max Health All (saveable)
+[Max Health All (saveable)]
 patch=1,EE,2048EA04,extended,2401270F
 patch=1,EE,20489A78,extended,A6410024
 patch=1,EE,20489A7C,extended,A6210074
 
-//Max SP
+[Max SP]
 patch=1,EE,20489A80,extended,240203E7
 
-//Max SP All (Saveable)
+[Max SP All (Saveable)]
 patch=1,EE,20489A80,extended,A6460026
 patch=1,EE,20489A84,extended,A6260076
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20435EA0,extended,0803FFC0
 patch=1,EE,200FFF00,extended,2401270F
 patch=1,EE,200FFF04,extended,A6210070
 patch=1,EE,200FFF08,extended,A6210074
 patch=1,EE,200FFF0C,extended,0810D7AA
 
-//Infinite SP
+[Infinite SP]
 patch=1,EE,200FFF10,extended,240103E7
 patch=1,EE,200FFF14,extended,A6210072
 patch=1,EE,200FFF18,extended,A6210076
 patch=1,EE,200FFF1C,extended,0810D7AE
 patch=1,EE,20435EB0,extended,0803FFC4
 
-//All Party Available
+[All Party Available]
 patch=1,EE,200FFF40,extended,3C017FFF
 patch=1,EE,200FFF44,extended,3421FFFF
 patch=1,EE,200FFF48,extended,ACA12220

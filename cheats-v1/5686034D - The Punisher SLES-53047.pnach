@@ -1,32 +1,32 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20128420,extended,3C0143C8
 patch=1,EE,2012860C,extended,AE410284
 
-//Cheats/Infinite Slaughter Mode
+[Cheats/Infinite Slaughter Mode]
 patch=1,EE,2054235c,extended,42C80000
 
-//Cheats/Infinite Shotgun Ammo
+[Cheats/Infinite Shotgun Ammo]
 patch=1,EE,2028e564,extended,24630000
 
-//Cheats/Infinite Pistol Ammo
+[Cheats/Infinite Pistol Ammo]
 patch=1,EE,2028e564,extended,24630000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,2023e0c4,extended,24630000
 
-//Cheats/Turn On Cheats Invulnerability
+[Cheats/Turn On Cheats Invulnerability]
 patch=1,EE,01B4C36B,extended,00000001
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,203192F8,extended,24030001
 patch=1,EE,203192FC,extended,ACA36F38
 
-//Cheats/Unlock All Flashbacks
+[Cheats/Unlock All Flashbacks]
 patch=1,EE,11B42C72,extended,00000101
 patch=1,EE,41B42C74,extended,00050001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,11B42C88,extended,00000101
 
-//Cheats/Unlock All Cheats
+[Cheats/Unlock All Cheats]
 patch=1,EE,21B42C64,extended,01010101
 patch=1,EE,11B42C68,extended,00000101

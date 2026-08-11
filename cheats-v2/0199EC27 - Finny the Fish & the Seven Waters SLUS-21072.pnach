@@ -1,24 +1,24 @@
 gametitle=Finny the Fish & the Seven Waters SLUS-21072
-//SA
-//Max Green Scales (Life)
+[SA]
+[Max Green Scales (Life)]
 patch=1,EE,107D25B4,extended,000003FF
 
-//Max Yellow Scales (Tummy)
+[Max Yellow Scales (Tummy)]
 patch=1,EE,107D25B8,extended,000003FF
 
-//Max Blue Scales (Hearing)
+[Max Blue Scales (Hearing)]
 patch=1,EE,107D25BC,extended,000000FF
 
-//Max Red Scales (Jaw)
+[Max Red Scales (Jaw)]
 patch=1,EE,107D25C0,extended,000000FF
 
-//Max White Scales
+[Max White Scales]
 patch=1,EE,107D25C4,extended,0000003F
 
-//Tons of Prey Eaten
+[Tons of Prey Eaten]
 patch=1,EE,407D25E0,extended,00680001
 patch=1,EE,000003E7,extended,00000000
 
-//All Lures Collected
+[All Lures Collected]
 patch=1,EE,407D2940,extended,00630001
 patch=1,EE,000003E7,extended,00000000

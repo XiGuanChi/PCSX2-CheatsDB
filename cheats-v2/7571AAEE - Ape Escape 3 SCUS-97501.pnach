@@ -1,33 +1,33 @@
 gametitle=Ape Escape 3 SCUS-97501
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20649918,extended,42C80000
 
-//Infinite Coins
+[Infinite Coins]
 patch=1,EE,206499D4,extended,0000270F
 patch=1,EE,206499D8,extended,0000270F
 
-//99 Jackets
+[99 Jackets]
 patch=1,EE,20649914,extended,00000063
 
-//All Concept Art
+[All Concept Art]
 patch=1,EE,40649C34,extended,00070001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,10649C3C,extended,00000101
 
-//All Secret Photos
+[All Secret Photos]
 patch=1,EE,40649C68,extended,00070001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,10649C66,extended,00000101
 
-//All Movies
+[All Movies]
 patch=1,EE,40649CFC,extended,00070001
 patch=1,EE,01010101,extended,00000000
 
-//All Music
+[All Music]
 patch=1,EE,40649CC8,extended,000C0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,10649CC6,extended,00000101
 
-//All Mini-games
+[All Mini-games]
 patch=1,EE,00649C9B,extended,00000001
 patch=1,EE,10649C9C,extended,00000101

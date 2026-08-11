@@ -1,15 +1,15 @@
-//Cheats/Single Player And CO-OP Press L1+R1 Instant Complete Mission
+[Cheats/Single Player And CO-OP Press L1+R1 Instant Complete Mission]
 patch=1,EE,D06D021C,extended,0000F3FF
 patch=1,EE,20907114,extended,00000001
 
-//Cheats/Single Player And CO-OP Infinite Health
+[Cheats/Single Player And CO-OP Infinite Health]
 patch=1,EE,200C0300,extended,3C013F80
 patch=1,EE,200C0304,extended,AE2109E8
 patch=1,EE,200C0308,extended,08186FDA
 patch=1,EE,200C030C,extended,922300F1
 patch=1,EE,2061BF64,extended,080300C0
 
-//Cheats/Single Player And CO-OP Infinite Health v2
+[Cheats/Single Player And CO-OP Infinite Health v2]
 patch=1,EE,200FFF00,extended,3C014352
 patch=1,EE,200FFF04,extended,AC410900
 patch=1,EE,200FFF08,extended,3C014160
@@ -19,28 +19,28 @@ patch=1,EE,200FFF14,extended,8C4200D0
 patch=1,EE,20610EF8,extended,0803FFC0
 patch=1,EE,20610EFC,extended,00000000
 
-//Cheats/Single Player And CO-OP Immune To Bullets
+[Cheats/Single Player And CO-OP Immune To Bullets]
 patch=1,EE,204152FC,extended,46001046
 
-//Cheats/Single Player And CO-OP No Explosion Damage
+[Cheats/Single Player And CO-OP No Explosion Damage]
 patch=1,EE,2041049C,extended,00000000
 
-//Cheats/Single Player And CO-OP Infinite Everything. No Reload And Ammo Counts Up
+[Cheats/Single Player And CO-OP Infinite Everything. No Reload And Ammo Counts Up]
 patch=1,EE,20555024,extended,00901821
 
-//Cheats/Single Player And CO-OP Unlock All Weapons
+[Cheats/Single Player And CO-OP Unlock All Weapons]
 patch=1,EE,2055C930,extended,03E00008
 patch=1,EE,2055C934,extended,00000000
 patch=1,EE,20566AB0,extended,24100136
 
-//Cheats/Single Player And CO-OP Idiot AI
+[Cheats/Single Player And CO-OP Idiot AI]
 patch=1,EE,204699A0,extended,03E00008
 patch=1,EE,204699A4,extended,00000000
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,40713AF8,extended,000E0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Badges
+[Cheats/Unlock All Badges]
 patch=1,EE,40713B80,extended,00080001
 patch=1,EE,01010101,extended,00000000

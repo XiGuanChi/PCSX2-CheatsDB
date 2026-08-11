@@ -1,9 +1,9 @@
 gametitle=Simple 2000 Series Vol. 51 - The Senkan SLPM-62497
-//Army Songmo Gauge MAX
+[Army Songmo Gauge MAX]
 patch=1,EE,1033B628,extended,000005DC
 
-//The number of salvos does not decrease
+[The number of salvos does not decrease]
 patch=1,EE,0033B664,extended,00000003
 
-//All missions can be selected
+[All missions can be selected]
 patch=1,EE,20236620,extended,0000001D

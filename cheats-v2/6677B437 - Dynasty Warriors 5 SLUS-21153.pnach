@@ -1,33 +1,33 @@
 gametitle=Dynasty Warriors 5 SLUS-21153
-//Instant Win (Press Select)
+[Instant Win (Press Select)]
 patch=1,EE,D031849c,extended,0000fffe
 patch=1,EE,204bb4e8,extended,00050005
 
-//infinite Time  
+[infinite Time]
 patch=1,EE,204bb4e0,extended,01010101
 
-//infinite Musou
+[infinite Musou]
 patch=1,EE,2018f198,extended,8441022a
 patch=1,EE,2018f19c,extended,00010900
 patch=1,EE,2018f1a0,extended,a441022c
 
-//infinite Health
+[infinite Health]
 patch=1,EE,2018f198,extended,84410224
 patch=1,EE,2018f19c,extended,00010900
 patch=1,EE,2018f1a0,extended,a4410226
 
-//all Charakters
+[all Charakters]
 patch=1,EE,20195cb0,extended,a0420000
 
-//all Movies
+[all Movies]
 patch=1,EE,20194ca4,extended,00000000
 
-//all stages in free mode
+[all stages in free mode]
 patch=1,EE,201973b0,extended,a0420000
 
-//all sound 
+[all sound]
 patch=1,EE,20194dc4,extended,2403FFFF
 
 
-//P1 Max Health
+[P1 Max Health]
 patch=1,EE,10441804,extended,00000260

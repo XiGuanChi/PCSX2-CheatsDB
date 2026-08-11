@@ -1,14 +1,14 @@
 gametitle=Ape Escape 2 SCES-50885
-//Full Pack A' Cookies
+[Full Pack A' Cookies]
 patch=1,EE,103E197C,extended,00000032
 
-//99 Jackets
+[99 Jackets]
 patch=1,EE,103E1978,extended,00000063
 
-//999 Coins
+[999 Coins]
 patch=1,EE,103E1980,extended,000003E7
 
-//Unlock Codes If you turn these codes on, then try to spend coins in the Gotcha Box, the game will crash Monkey Novels
+[Unlock Codes If you turn these codes on, then try to spend coins in the Gotcha Box, the game will crash Monkey Novels]
 patch=1,EE,103E1C16,extended,00000002
 patch=1,EE,103E1C18,extended,00000002
 patch=1,EE,103E1C1C,extended,00000002
@@ -30,13 +30,13 @@ patch=1,EE,103E1C58,extended,00000008
 patch=1,EE,103E1C5C,extended,00000008
 patch=1,EE,103E1C60,extended,00000008
 
-//Tissues
+[Tissues]
 patch=1,EE,103E1CA2,extended,00000001
 
-//Pudding
+[Pudding]
 patch=1,EE,103E1CA4,extended,00000001
 
-//Manga Collection Comic Strips
+[Manga Collection Comic Strips]
 patch=1,EE,103E1CA4,extended,00000101
 patch=1,EE,103E1CA6,extended,00000101
 patch=1,EE,103E1CA8,extended,00000101
@@ -47,7 +47,7 @@ patch=1,EE,103E1CB0,extended,00000101
 patch=1,EE,103E1CB2,extended,00000101
 patch=1,EE,103E1CB4,extended,00000101
 
-//All Soundtracks
+[All Soundtracks]
 patch=1,EE,103E1C7E,extended,00000101
 patch=1,EE,103E1C7C,extended,00000101
 patch=1,EE,103E1C7A,extended,00000101
@@ -75,7 +75,7 @@ patch=1,EE,103E1C9C,extended,00000101
 patch=1,EE,103E1C9E,extended,00000101
 patch=1,EE,103E1CA0,extended,00000001
 
-//Secret Photos
+[Secret Photos]
 patch=1,EE,103E1CE8,extended,00000101
 patch=1,EE,103E1CEA,extended,00000101
 patch=1,EE,103E1CEC,extended,00000101
@@ -102,7 +102,7 @@ patch=1,EE,103E1D14,extended,00000101
 patch=1,EE,103E1D16,extended,00000101
 patch=1,EE,103E1D18,extended,00000101
 
-//All Movies
+[All Movies]
 patch=1,EE,103E1C66,extended,00000100
 patch=1,EE,103E1C68,extended,00000101
 patch=1,EE,103E1C6A,extended,00000101

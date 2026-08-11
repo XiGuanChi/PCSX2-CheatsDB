@@ -1,32 +1,32 @@
-//Cheats/Infinite Health and Musou
+[Cheats/Infinite Health and Musou]
 patch=1,EE,20220F44,extended,14000000
 
-//Cheats/Infinite Bow and Arrows
+[Cheats/Infinite Bow and Arrows]
 patch=1,EE,2022DBC4,extended,24820000
 
 [Cheats/Win] Max Bow and arrow number change 
 patch=1,EE,00336882,extended,00000063
 
-//Cheats/Max attack with one of the power-up items
+[Cheats/Max attack with one of the power-up items]
 patch=1,EE,20220E94,extended,14000000
 
-//Cheats/Max defense
+[Cheats/Max defense]
 patch=1,EE,20220EEC,extended,14000000
 
-//Cheats/Friend or foe invincible
+[Cheats/Friend or foe invincible]
 patch=1,EE,2022CF28,extended,24030160
 
-//Cheats/Required Codes  for all of the codes below
+[Cheats/Required Codes  for all of the codes below]
 patch=1,EE,201D1BB8,extended,0803C000
 patch=1,EE,200F0058,extended,24080002
 patch=1,EE,200F005C,extended,24090001
 patch=1,EE,200F0060,extended,00C02821
 patch=1,EE,200F0064,extended,080746F0
 
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,200F0000,extended,84A90220
 patch=1,EE,200F0004,extended,A4A9021C
 
-//Cheats/Infinite HP is near death always invincible
+[Cheats/Infinite HP is near death always invincible]
 patch=1,EE,200F0000,extended,24090032
 patch=1,EE,200F0004,extended,A4A9021C

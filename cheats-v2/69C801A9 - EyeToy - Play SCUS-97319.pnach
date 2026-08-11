@@ -1,88 +1,88 @@
 gametitle=EyeToy - Play SCUS-97319
-//Beat Freak Max Score
+[Beat Freak Max Score]
 patch=1,EE,20453A00,extended,0098967F
 
-//Kung Foo Infinite Lives
+[Kung Foo Infinite Lives]
 patch=1,EE,2043A8F0,extended,00000003
 
 
-//Kung Foo Infinite Time
+[Kung Foo Infinite Time]
 patch=1,EE,2043AA8C,extended,00002A40
 
-//Wishi Washi Infinite Time
+[Wishi Washi Infinite Time]
 patch=1,EE,20432398,extended,42F00000
 
-//Wishi Washi Max Score
+[Wishi Washi Max Score]
 patch=1,EE,2042FF88,extended,000F423F
 
 
-//Soccer Craze Infinite Lives
+[Soccer Craze Infinite Lives]
 patch=1,EE,20427874,extended,00000003
 
-//Soccer Craze Infinite Time
+[Soccer Craze Infinite Time]
 patch=1,EE,20429C30,extended,00002A40
 
-//Soccer Craze Max Score
+[Soccer Craze Max Score]
 patch=1,EE,2042A50C,extended,000F423F
 
-//Boxing Chump  Infinite Health
+[Boxing Chump  Infinite Health]
 patch=1,EE,20282F70,extended,3C013F80
 patch=1,EE,20282F78,extended,AC410120
 
-//UFO Juggler Infinite Time
+[UFO Juggler Infinite Time]
 patch=1,EE,2042DCD0,extended,00002A00
 
-//UFO Juggler Infinite Lives
+[UFO Juggler Infinite Lives]
 patch=1,EE,201FB1D0,extended,00000000
 
-//Slap Stream Infinite Time
+[Slap Stream Infinite Time]
 patch=1,EE,20432398,extended,43340000
 
-//Slap Stream Infinite Lives
+[Slap Stream Infinite Lives]
 patch=1,EE,20441198,extended,00000003
 
-//Slap Stream Max Score
+[Slap Stream Max Score]
 patch=1,EE,20441178,extended,0001869F
 
-//Plate Spinner Infinite Time
+[Plate Spinner Infinite Time]
 patch=1,EE,203F0AB0,extended,00002A00
 
-//Plate Spinner Infinite Lives
+[Plate Spinner Infinite Lives]
 patch=1,EE,2018FF10,extended,00000000
 
-//Plate Spinner Quick Score Gain
+[Plate Spinner Quick Score Gain]
 patch=1,EE,203F0BA4,extended,42C80000
 
-//Disco Stars  Infinite Health
+[Disco Stars  Infinite Health]
 patch=1,EE,2020F69C,extended,00000000
 
-//Disco Stars Quick Score Gain
+[Disco Stars Quick Score Gain]
 patch=1,EE,2020F7A4,extended,3C01461C
 patch=1,EE,2020F7A8,extended,44816000
 
-//Ghost Eliminator Infinite Time
+[Ghost Eliminator Infinite Time]
 patch=1,EE,201AC870,extended,00000000
 
-//Ghost Eliminator  Infinite Health
+[Ghost Eliminator  Infinite Health]
 patch=1,EE,20421DE8,extended,00000003
 
-//Ghost Eliminator Max Score
+[Ghost Eliminator Max Score]
 patch=1,EE,204209EC,extended,000F423F
 
-//Mirror Time Infinite Time
+[Mirror Time Infinite Time]
 patch=1,EE,2028E814,extended,00000000
 
-//Mirror Time Infinite Lives
+[Mirror Time Infinite Lives]
 patch=1,EE,2043FF7C,extended,00000003
 
-//Mirror Time Max Score
+[Mirror Time Max Score]
 patch=1,EE,2043FF10,extended,000F423F
 
-//Rocket Rumble Infinite Time
+[Rocket Rumble Infinite Time]
 patch=1,EE,20442FEC,extended,00002A00
 
-//Rocket Rumble  Infinite Health
+[Rocket Rumble  Infinite Health]
 patch=1,EE,20443010,extended,42C80000
 
-//Rocket Rumble Max Score
+[Rocket Rumble Max Score]
 patch=1,EE,20445B8C,extended,0098967F

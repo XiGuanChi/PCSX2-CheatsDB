@@ -1,9 +1,9 @@
 gametitle=Quake III - Revolution SLES-50126
-//Infinite Health
+[Infinite Health]
 patch=1,EE,105B9190,extended,000003E7
 
-//Have All Weapons
+[Have All Weapons]
 patch=1,EE,1068828C,extended,0000FFFF
 
-//Open all Arenas
+[Open all Arenas]
 patch=1,EE,106A074C,extended,0000001A

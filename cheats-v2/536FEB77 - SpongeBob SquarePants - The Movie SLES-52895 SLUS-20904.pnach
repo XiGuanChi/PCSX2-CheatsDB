@@ -1,27 +1,27 @@
 gametitle=SpongeBob SquarePants - The Movie SLES-52895 SLUS-20904
-//All Characters Infinite Health
+[All Characters Infinite Health]
 patch=1,EE,200C200C,extended,8C230464
 patch=1,EE,200C2010,extended,AC230460
 
-//All Characters Max Health
+[All Characters Max Health]
 patch=1,EE,200C2004,extended,24030006
 patch=1,EE,200C2008,extended,AC230464
 
-//All Characters Manliness Points
+[All Characters Manliness Points]
 patch=1,EE,207ACED4,extended,0001869F
 
-//All Characters Goofy Goober Tokens
+[All Characters Goofy Goober Tokens]
 patch=1,EE,207ACEDC,extended,0000270F
 
-//All Characters Treasure Chests
+[All Characters Treasure Chests]
 patch=1,EE,207ACFD8,extended,00000063
 
-//All Characters Upgrade Points
+[All Characters Upgrade Points]
 patch=1,EE,107ACFE8,extended,0000001E
 
-//All Characters N2O
+[All Characters N2O]
 patch=1,EE,2068518C,extended,00000063
 
-//Have all Chests Collected
+[Have all Chests Collected]
 patch=1,EE,507ACF30,extended,00000048
 patch=1,EE,007ACEE0,extended,00000000

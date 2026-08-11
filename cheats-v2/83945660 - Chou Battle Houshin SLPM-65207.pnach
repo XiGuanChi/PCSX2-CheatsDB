@@ -1,7 +1,7 @@
 gametitle=Chou Battle Houshin SLPM-65207
-//Hidden characters appear
+[Hidden characters appear]
 patch=1,EE,0031E3D3,extended,000000F0
 patch=1,EE,0031E3D4,extended,00000003
 
-//Senjutsu is free
+[Senjutsu is free]
 patch=1,EE,20133AC0,extended,AC2081C0

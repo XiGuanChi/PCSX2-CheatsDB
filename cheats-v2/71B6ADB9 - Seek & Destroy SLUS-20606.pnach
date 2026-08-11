@@ -1,13 +1,13 @@
 gametitle=Seek & Destroy SLUS-20606
-//Max Gold
+[Max Gold]
 patch=1,EE,2025D1DC,extended,0001869F
 
-//Infinite Damage
+[Infinite Damage]
 patch=1,EE,200C0220,extended,240300C8
 patch=1,EE,200C0224,extended,AC430000
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,8C450010
 patch=1,EE,20160D44,extended,0C030088
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20153544,extended,00000000

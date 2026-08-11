@@ -1,31 +1,31 @@
-//Cheats/Infinite Health All Characters
+[Cheats/Infinite Health All Characters]
 patch=1,EE,200C0220,extended,C44C017C
 patch=1,EE,200C0224,extended,080BE64B
 patch=1,EE,200C0228,extended,E44C0180
 patch=1,EE,202F9928,extended,08030088
 
-//Cheats/Infinite Power All Characters
+[Cheats/Infinite Power All Characters]
 patch=1,EE,200C0230,extended,C44C02E0
 patch=1,EE,200C0234,extended,080BFFBA
 patch=1,EE,200C0238,extended,E44C02E4
 patch=1,EE,202FFEE4,extended,0803008C
 
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,202BE530,extended,00000000
 
-//Cheats/Unlock All Cross Save Extra
+[Cheats/Unlock All Cross Save Extra]
 patch=1,EE,D08978FC,extended,00000000
 patch=1,EE,708978FC,extended,00000007
 
-//Cheats/Activate Cheat Infinite Lives
+[Cheats/Activate Cheat Infinite Lives]
 patch=1,EE,204884A8,extended,00000001
 
-//Cheats/Activate Cheat Infinite Power
+[Cheats/Activate Cheat Infinite Power]
 patch=1,EE,20486B3C,extended,00000001
 
-//Cheats/Activate Cheat Super Slam
+[Cheats/Activate Cheat Super Slam]
 patch=1,EE,20486B44,extended,00000001
 
-//Cheats/Activate Cheat Give All Weapons
+[Cheats/Activate Cheat Give All Weapons]
 patch=1,EE,D0893322,extended,00000089
 patch=1,EE,20893318,extended,00000001

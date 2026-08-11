@@ -1,14 +1,14 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,203287BA,extended,000043D4
 patch=1,EE,203287C2,extended,000043D0
 
-//Cheats/Infinite Character Creation Points
+[Cheats/Infinite Character Creation Points]
 patch=1,EE,20132A70,extended,3C020006
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,4046E734,extended,00040001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,4046E7D4,extended,000E0001
 patch=1,EE,00000001,extended,00000000

@@ -1,16 +1,16 @@
 gametitle=Phantasy Star Universe  - Ambition of the Illumnius SLES-54892
-//Infinite/Max Health
+[Infinite/Max Health]
 patch=1,EE,200FFF40,extended,0C0E3054
 patch=1,EE,200FFF48,extended,2406270F
 patch=1,EE,200FFF50,extended,0C0FFF4C
 patch=1,EE,200FFF58,extended,08141AA0
 patch=1,EE,20506A78,extended,0803FFD0
 
-//Max Meseta After Earning Some
+[Max Meseta After Earning Some]
 patch=1,EE,2029A034,extended,00000000
 
-//Infinite PP
+[Infinite PP]
 patch=1,EE,202E9B30,extended,8603000E
 
-//Instant Max Level Up
+[Instant Max Level Up]
 patch=1,EE,2029C3B4,extended,00000000

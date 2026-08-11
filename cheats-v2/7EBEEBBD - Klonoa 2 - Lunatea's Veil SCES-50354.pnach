@@ -1,22 +1,22 @@
 gametitle=Klonoa 2 - Lunatea's Veil SCES-50354
-//Infinite Health (3)
+[Infinite Health (3)]
 patch=1,EE,203778E0,extended,00000003
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,10377FE8,extended,00000063
 
-//Have 99 Gems
+[Have 99 Gems]
 patch=1,EE,1040EFD0,extended,00000063
 patch=1,EE,1040EFD4,extended,00000063
 
-//All Visions open
+[All Visions open]
 patch=1,EE,203532C8,extended,FFFFFFFF
 patch=1,EE,203532F0,extended,203532F4
 patch=1,EE,203532F8,extended,203532FC
 patch=1,EE,20353300,extended,20353304
 patch=1,EE,20353308,extended,2035330C
 
-//Max Gems on all levels
+[Max Gems on all levels]
 patch=1,EE,203532D0,extended,FFFFFFFF
 patch=1,EE,203532D4,extended,FFFFFFFF
 patch=1,EE,203532D8,extended,FFFFFFFF
@@ -24,7 +24,7 @@ patch=1,EE,203532DC,extended,FFFFFFFF
 patch=1,EE,103532E0,extended,0000FFFF
 patch=1,EE,003532E2,extended,000000FF
 
-//All Momett Dolls
+[All Momett Dolls]
 patch=1,EE,003532E3,extended,00000006
 patch=1,EE,203532E4,extended,06060606
 patch=1,EE,203532E8,extended,06060606

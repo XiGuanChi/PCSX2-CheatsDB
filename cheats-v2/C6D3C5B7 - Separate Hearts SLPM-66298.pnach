@@ -1,4 +1,4 @@
 gametitle=Separate Hearts SLPM-66298
-//Special & Short Cut Full opening
+[Special & Short Cut Full opening]
 patch=1,EE,4058E000,extended,02B80001
 patch=1,EE,FFFFFFFF,extended,00000000

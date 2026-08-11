@@ -1,18 +1,18 @@
 gametitle=Midnight Club II SLES-51054
-//All Cars Unlocked
+[All Cars Unlocked]
 patch=1,EE,0042C35E,extended,00000001
 
-//All Abilities & Nitros
+[All Abilities & Nitros]
 patch=1,EE,0042C360,extended,00000001
 
-//All Tracks & Cities
+[All Tracks & Cities]
 patch=1,EE,1042C35C,extended,00000101
 
-//No Car Damage
+[No Car Damage]
 patch=1,EE,00426E8C,extended,00000001
 
-//Infinite Nitros
+[Infinite Nitros]
 patch=1,EE,00426E8D,extended,00000001
 
-//Guns L3, Missiles R3
+[Guns L3, Missiles R3]
 patch=1,EE,00426E08,extended,00000001

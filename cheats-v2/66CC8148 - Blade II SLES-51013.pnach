@@ -1,18 +1,18 @@
 gametitle=Blade II SLES-51013
-//Infinite Health
+[Infinite Health]
 patch=1,EE,0048D122,extended,00000001
 
-//Infinite Rage
+[Infinite Rage]
 patch=1,EE,0048D132,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,0048D152,extended,00000001
 
-//Unlock All Missions
+[Unlock All Missions]
 patch=1,EE,0048D162,extended,00000001
 
-//Unlock All Weapons
+[Unlock All Weapons]
 patch=1,EE,0048D172,extended,00000001
 
-//Unlock Daywalker Mode
+[Unlock Daywalker Mode]
 patch=1,EE,0048D182,extended,00000001

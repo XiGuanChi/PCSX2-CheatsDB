@@ -1,6 +1,6 @@
-//Cheats/Unlock All CG
+[Cheats/Unlock All CG]
 patch=1,EE,401F26C8,extended,001E0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Change New Game Script Flag & Route Select Menu
+[Cheats/Change New Game Script Flag & Route Select Menu]
 patch=1,EE,0192A2B4,extended,000000A1 

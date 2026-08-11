@@ -1,23 +1,23 @@
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,002B5EF5,extended,000000FF
 
-//Cheats/Unlock All Music
+[Cheats/Unlock All Music]
 patch=1,EE,002B5EED,extended,000000FF
 patch=1,EE,102B5EEE,extended,0000FFFF
 patch=1,EE,202B5EF0,extended,FFFFFFFF
 
-//Cheats/Unlock All Pictures
+[Cheats/Unlock All Pictures]
 patch=1,EE,002B5EE3,extended,000000FF
 patch=1,EE,202B5EE4,extended,FFFFFFFF
 patch=1,EE,202B5EE8,extended,FFFFFFFF
 
-//Cheats/Unlock All Scenarios
+[Cheats/Unlock All Scenarios]
 patch=1,EE,002B5F99,extended,000000FF
 patch=1,EE,102B5F9A,extended,0000FFFF
 patch=1,EE,402B5FA0,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,002B5FB8,extended,000000FF
 
-//Cheats/New Game = Debug Men  will send you to a menu. You can choose any event to view as well as a Bust Up Test and a Movie Test  on the third page. Bust Up Test allows you to view character sprites
+[Cheats/New Game = Debug Men  will send you to a menu. You can choose any event to view as well as a Bust Up Test and a Movie Test  on the third page. Bust Up Test allows you to view character sprites]
 patch=1,EE,20103D90,extended,2405FFFF] 
 patch=1,EE,20103D90,extended,2405FFFF

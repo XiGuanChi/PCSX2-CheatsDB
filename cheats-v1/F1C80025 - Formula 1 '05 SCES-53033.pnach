@@ -1,11 +1,11 @@
-//Cheats/Unlock All Cars
+[Cheats/Unlock All Cars]
 patch=1,EE,200FFF00,extended,240500FF
 patch=1,EE,200FFF04,extended,AC850264
 patch=1,EE,200FFF08,extended,0040202D
 patch=1,EE,200FFF0C,extended,08058955
 patch=1,EE,2016254C,extended,0803FFC0
 
-//Cheats/Unlock All Helmets
+[Cheats/Unlock All Helmets]
 patch=1,EE,200FFF14,extended,3C10FFFF
 patch=1,EE,200FFF18,extended,3610FFFF
 patch=1,EE,200FFF1C,extended,AC900268
@@ -13,7 +13,7 @@ patch=1,EE,200FFF20,extended,DFB00000
 patch=1,EE,200FFF24,extended,0805444F
 patch=1,EE,20151134,extended,0803FFC5
 
-//Cheats/Unlock All Trophies
+[Cheats/Unlock All Trophies]
 patch=1,EE,200FFF2C,extended,3C05FFFF
 patch=1,EE,200FFF30,extended,34A5FFFF
 patch=1,EE,200FFF34,extended,AE650270
@@ -21,7 +21,7 @@ patch=1,EE,200FFF38,extended,8E650270
 patch=1,EE,200FFF3C,extended,08055116
 patch=1,EE,20154450,extended,0803FFCB
 
-//Cheats/Unlock Street Circuit Track
+[Cheats/Unlock Street Circuit Track]
 patch=1,EE,200FFF44,extended,3C05FFFF
 patch=1,EE,200FFF48,extended,34A5FFFF
 patch=1,EE,200FFF4C,extended,AE05026C

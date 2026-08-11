@@ -1,11 +1,11 @@
 gametitle=Medal of Honor - Shijou Saidai no Sakusen SLPS-25151
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20240F60,extended,00000001
 
-//invincible
+[invincible]
 patch=1,EE,002418E0,extended,00000001
 
-//All appearance + image privilege appearance
+[All appearance + image privilege appearance]
 patch=1,EE,D02403CC,extended,00000000
 patch=1,EE,202403CC,extended,00055554
 patch=1,EE,202403D0,extended,0000077F
@@ -17,9 +17,9 @@ patch=1,EE,20241790,extended,01010101
 patch=1,EE,20241794,extended,01010101
 patch=1,EE,20241798,extended,01010101
 patch=1,EE,2024179C,extended,01010101
-//002417 A0 00000001
+[002417 A0 00000001]
 
-//Making image appearance of trip to holland After pressing the R1 button
+[Making image appearance of trip to holland After pressing the R1 button]
 patch=1,EE,D033D602,extended,0000F7FF
 patch=1,EE,002405D0,extended,000000FF
 patch=1,EE,D033D602,extended,0000F7FF

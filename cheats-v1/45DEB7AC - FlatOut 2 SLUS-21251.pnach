@@ -1,21 +1,21 @@
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,00CA8781,extended,000000FF
 patch=1,EE,00CA8782,extended,000000FF
 
-//Cheats/Infinite Nitro Usage
+[Cheats/Infinite Nitro Usage]
 patch=1,EE,2010E34C,extended,00000000
 
-//Cheats/Unlock All Races
+[Cheats/Unlock All Races]
 patch=1,EE,20184928,extended,AC850510
 patch=1,EE,2018492C,extended,24010001
 patch=1,EE,20184950,extended,AC410068
 
-//Cheats/Have All Cups and Events Completed
+[Cheats/Have All Cups and Events Completed]
 patch=1,EE,40CAC3C0,extended,000D0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,10CAC3F4,extended,00000101
 
-//Cheats/Have All Races Completed
+[Cheats/Have All Races Completed]
 patch=1,EE,20184978,extended,AC850510
 patch=1,EE,2018497C,extended,24010001
 patch=1,EE,201849A0,extended,AC41006C

@@ -1,21 +1,21 @@
 gametitle=Naruto - Ultimate Ninja 2 SLUS-21575
-//Press L3 to skip levels
+[Press L3 to skip levels]
 patch=1,EE,D08B6242,extended,0000FFFD
 patch=1,EE,201073A0,extended,24020001
 
-//999999 money
+[999999 money]
 patch=1,EE,203D977C,extended,000F423F
 
-//999 combo
+[999 combo]
 patch=1,EE,103A45BC,extended,000003E6
 
-//99 of all items
+[99 of all items]
 patch=1,EE,003D9B9D,extended,00000063
 patch=1,EE,103D9B9E,extended,00006363
 patch=1,EE,403D9BA0,extended,00040001
 patch=1,EE,63636363,extended,00000000
 
-//9999999 Virtue orbs for everyone 203D97BC 0098967F
+[9999999 Virtue orbs for everyone 203D97BC 0098967F]
 patch=1,EE,203D9800,extended,0098967F
 patch=1,EE,203D9844,extended,0098967F
 patch=1,EE,203D9888,extended,0098967F
@@ -27,7 +27,7 @@ patch=1,EE,203D99DC,extended,0098967F
 patch=1,EE,203D9A20,extended,0098967F
 patch=1,EE,203D9A64,extended,0098967F
 
-//Infinite Health-All Characters
+[Infinite Health-All Characters]
 patch=1,EE,103CFBA0,extended,000003E7
 patch=1,EE,103CFBE4,extended,000003E7
 patch=1,EE,103CFC28,extended,000003E7
@@ -40,7 +40,7 @@ patch=1,EE,103CFDC0,extended,000003E7
 patch=1,EE,103CFE04,extended,000003E7
 patch=1,EE,103CFE48,extended,000003E7
 
-//Infinite Chakra-All Characters
+[Infinite Chakra-All Characters]
 patch=1,EE,103CFBB6,extended,000003E7
 patch=1,EE,103CFBFA,extended,000003E7
 patch=1,EE,103CFC3E,extended,000003E7

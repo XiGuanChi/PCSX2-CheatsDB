@@ -1,23 +1,23 @@
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,201BD158,extended,43F00000
 
-//Cheats/Easy Levels Completion
+[Cheats/Easy Levels Completion]
 patch=1,EE,401E072C,extended,00240008
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,401E0730,extended,00240008
 patch=1,EE,05F5E0FF,extended,00000000
 
-//Cheats/Max Level High Scores
+[Cheats/Max Level High Scores]
 patch=1,EE,401E0734,extended,00240008
 patch=1,EE,05F5E0FF,extended,00000000
 
-//Cheats/Unlock All Levels to fully unlock them, need to start a level, and exit.
+[Cheats/Unlock All Levels to fully unlock them, need to start a level, and exit.]
 patch=1,EE,401E072C,extended,00240008
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,401E0730,extended,00240008
 patch=1,EE,05F5E0FF,extended,00000000
 
-//Cheats/Unlock All Golds
+[Cheats/Unlock All Golds]
 patch=1,EE,401E072C,extended,00240008
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,401E0730,extended,00240008
@@ -25,5 +25,5 @@ patch=1,EE,05F5E0FF,extended,00000000
 patch=1,EE,401E0734,extended,00240008
 patch=1,EE,05F5E0FF,extended,00000000
 
-//Cheats/Enable Debug Mode in pause menu change between 50-60Hz, toggle invincibility among other developer options
+[Cheats/Enable Debug Mode in pause menu change between 50-60Hz, toggle invincibility among other developer options]
 patch=1,EE,001BD6A0,extended,00000001

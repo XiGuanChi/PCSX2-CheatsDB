@@ -1,14 +1,14 @@
 gametitle=SD Gundam G Generation Neo SLPS-25170
-//CP 9999999
+[CP 9999999]
 patch=1,EE,206FF160,extended,0098967F
 
-//Capture success without fail
+[Capture success without fail]
 patch=1,EE,20256870,extended,10000006
 
-//Units other than general soldiers can also be captured
+[Units other than general soldiers can also be captured]
 patch=1,EE,20256648,extended,10000005
 
-//Experience value of all friendly units & characters 999 It will become effective when fighting.
+[Experience value of all friendly units & characters 999 It will become effective when fighting.]
 patch=1,EE,20113ACC,extended,0C03D000
 patch=1,EE,200F4004,extended,3C11006F
 patch=1,EE,200F4008,extended,00001021
@@ -24,17 +24,17 @@ patch=1,EE,200F402C,extended,26310014
 patch=1,EE,200F4030,extended,03E00008
 patch=1,EE,200F4034,extended,3C02006E
 
-//Character 1st person status Max
+[Character 1st person status Max]
 patch=1,EE,206F7B24,extended,FFFFF7E7
 patch=1,EE,206F7B28,extended,FFFFFFFF
 patch=1,EE,206F7B2C,extended,0001FFFF
 
-//Character 2 Status Max
+[Character 2 Status Max]
 patch=1,EE,206F7B38,extended,FFFFF7E7
 patch=1,EE,206F7B3C,extended,FFFFFFFF
 patch=1,EE,206F7B40,extended,0001FFFF
 
-//Character 3 Status Max
+[Character 3 Status Max]
 patch=1,EE,206F7B4C,extended,FFFFF7E7
 patch=1,EE,206F7B50,extended,FFFFFFFF
 patch=1,EE,206F7B54,extended,0001FFFF

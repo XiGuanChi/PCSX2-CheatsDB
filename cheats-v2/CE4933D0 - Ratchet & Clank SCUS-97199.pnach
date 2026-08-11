@@ -1,75 +1,75 @@
 gametitle=Ratchet & Clank SCUS-97199
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201415F8,extended,00000004
 
-//Infinite Air
+[Infinite Air]
 patch=1,EE,201415F0,extended,00002710
 
-//Giant Clank Has Infinite Health
+[Giant Clank Has Infinite Health]
 patch=1,EE,20140980,extended,000000C8
 
-//Unlock Goodies
+[Unlock Goodies]
 patch=1,EE,2015EE20,extended,00000001
 
-//Have All Gold Bolts
+[Have All Gold Bolts]
 patch=1,EE,0014BEC5,extended,00000001
 patch=1,EE,1014BEC6,extended,00000101
 patch=1,EE,4014BEC8,extended,00090001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,0014BEEC,extended,00000001
 
-//Unlock Map Codes ==
+[Unlock Map Codes ==]
 
-//Planet Novalis
+[Planet Novalis]
 patch=1,EE,2013D510,extended,00000001
 
-//Planet Aridia
+[Planet Aridia]
 patch=1,EE,2013D514,extended,00000002
 
-//Planet Kerwan
+[Planet Kerwan]
 patch=1,EE,2013D518,extended,00000003
 
-//Planet Eudora
+[Planet Eudora]
 patch=1,EE,2013D51C,extended,00000004
 
-//Planet Rilgar
+[Planet Rilgar]
 patch=1,EE,2013D520,extended,00000005
 
-//Nebula G34
+[Nebula G34]
 patch=1,EE,2013D524,extended,00000006
 
-//Planet Umbris
+[Planet Umbris]
 patch=1,EE,2013D528,extended,00000007
 
-//Planet Batalia
+[Planet Batalia]
 patch=1,EE,2013D52C,extended,00000008
 
-//Planet Gaspar
+[Planet Gaspar]
 patch=1,EE,2013D530,extended,00000009
 
-//Planet Orxon
+[Planet Orxon]
 patch=1,EE,2013D534,extended,0000000A
 
-//Planet Pokitaru
+[Planet Pokitaru]
 patch=1,EE,2013D538,extended,0000000B
 
-//Planet Hoven
+[Planet Hoven]
 patch=1,EE,2013D53C,extended,0000000C
 
-//Oltanis Orbit
+[Oltanis Orbit]
 patch=1,EE,2013D540,extended,0000000D
 
-//Planet Oltanis
+[Planet Oltanis]
 patch=1,EE,2013D544,extended,0000000E
 
-//Planet Quartu
+[Planet Quartu]
 patch=1,EE,2013D548,extended,0000000F
 
-//Planet Kalebo III
+[Planet Kalebo III]
 patch=1,EE,2013D54C,extended,00000010
 
-//Veldin Orbit
+[Veldin Orbit]
 patch=1,EE,2013D550,extended,00000011
 
-//Planet Veldin
+[Planet Veldin]
 patch=1,EE,2013D554,extended,00000012

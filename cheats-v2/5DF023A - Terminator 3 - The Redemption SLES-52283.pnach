@@ -1,12 +1,12 @@
 gametitle=Terminator 3 - The Redemption SLES-52283
-//All Videos/levels
+[All Videos/levels]
 patch=1,EE,20585A5C,extended,FFFFFFFF
 
-//All Cheats
+[All Cheats]
 patch=1,EE,2028945C,extended,24030001
 patch=1,EE,20289460,extended,AC430000
 patch=1,EE,2028966C,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201FC334,extended,C64201A0
 patch=1,EE,201FC340,extended,E64201A4

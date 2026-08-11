@@ -1,13 +1,13 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,206D5D20,extended,000F4240
 
-//Cheats/Physical Strength 100 Decreases when you receive damage in Battle etc.
+[Cheats/Physical Strength 100 Decreases when you receive damage in Battle etc.]
 patch=1,EE,006D5D3E,extended,00000064
 
-//Cheats/Physical Strength 255 Wins Instantly in battles such as Battle
+[Cheats/Physical Strength 255 Wins Instantly in battles such as Battle]
 patch=1,EE,006D5D3E,extended,000000FF
 
-//Cheats/Max or 0 by increasing large cylinder Up key + R1 is MAX, Up key + R2 is 0, R1 + R2 is OFF
+[Cheats/Max or 0 by increasing large cylinder Up key + R1 is MAX, Up key + R2 is 0, R1 + R2 is OFF]
 patch=1,EE,D08B0882,extended,0000F7EF
 patch=1,EE,2017747C,extended,24021770
 patch=1,EE,D08B0882,extended,0000FDEF
@@ -15,7 +15,7 @@ patch=1,EE,2017747C,extended,24020000
 patch=1,EE,D08B0882,extended,0000F5FF
 patch=1,EE,2017747C,extended,0C0CF680
 
-//Cheats/Max or 0 with gun increase Up key + L1 is MAX, Up key + L2 is 0, R1 + R2 is OFF
+[Cheats/Max or 0 with gun increase Up key + L1 is MAX, Up key + L2 is 0, R1 + R2 is OFF]
 patch=1,EE,D08B0882,extended,0000FBEF
 patch=1,EE,201772DC,extended,3402EA60
 patch=1,EE,D08B0882,extended,0000FEEF
@@ -23,7 +23,7 @@ patch=1,EE,201772DC,extended,24020000
 patch=1,EE,D08B0882,extended,0000F5FF
 patch=1,EE,201772DC,extended,0C0CF680
 
-//Cheats/Max or 0 by war horse increase R1 + L1 to MAX, R2 + L2 to 0, R1 + R2 to OFF
+[Cheats/Max or 0 by war horse increase R1 + L1 to MAX, R2 + L2 to 0, R1 + R2 to OFF]
 patch=1,EE,D08B0882,extended,0000F3FF
 patch=1,EE,201770DC,extended,3402EA60
 patch=1,EE,D08B0882,extended,0000FCFF
@@ -31,11 +31,11 @@ patch=1,EE,201770DC,extended,24020000
 patch=1,EE,D08B0882,extended,0000F5FF
 patch=1,EE,201770DC,extended,0C0CF680
 
-//Cheats/Mandatory code must be used together when using the code below
+[Cheats/Mandatory code must be used together when using the code below]
 patch=1,EE,20124C50,extended,0803C400
 patch=1,EE,200F1460,extended,03E00008
 
-//Cheats/All New Warlords Ability Max
+[Cheats/All New Warlords Ability Max]
 patch=1,EE,200F1000,extended,3C08006E
 patch=1,EE,200F1004,extended,3508C978
 patch=1,EE,200F1008,extended,24090028
@@ -49,7 +49,7 @@ patch=1,EE,200F1028,extended,25080024
 patch=1,EE,200F1030,extended,1520FFF9
 patch=1,EE,200F3000,extended,00646464
 
-//Cheats/Unlock All New Warlords Battle Cards
+[Cheats/Unlock All New Warlords Battle Cards]
 patch=1,EE,200F1200,extended,3C08006F
 patch=1,EE,220F1204,extended,350842AC
 patch=1,EE,200F1208,extended,24090028
@@ -62,7 +62,7 @@ patch=1,EE,200F1224,extended,2529FFFF
 patch=1,EE,200F1230,extended,1520FFF9
 patch=1,EE,200F3100,extended,FFFFFFFF
 
-//Cheats/The First New Warlord Who Controls All Castles Max
+[Cheats/The First New Warlord Who Controls All Castles Max]
 patch=1,EE,200F1400,extended,3C080071
 patch=1,EE,200F1404,extended,35081C5C
 patch=1,EE,200F1408,extended,240900B4
@@ -89,10 +89,10 @@ patch=1,EE,200F5508,extended,EA60EA60
 patch=1,EE,200F550C,extended,FA1903E8
 patch=1,EE,200F5510,extended,64FAFAFA
 
-//Cheats/Unlock All Landmark Cards
+[Cheats/Unlock All Landmark Cards]
 patch=1,EE,206D5EDC,extended,FFFFFFFF
 
-//Cheats/Unlock All Other Cards
+[Cheats/Unlock All Other Cards]
 patch=1,EE,406D5EE4,extended,00020001
 patch=1,EE,FFFFFFFF,extended,00000000
 

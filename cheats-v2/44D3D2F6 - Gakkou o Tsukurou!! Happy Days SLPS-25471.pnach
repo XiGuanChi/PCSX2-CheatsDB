@@ -1,17 +1,17 @@
 gametitle=Gakkou o Tsukurou!! Happy Days SLPS-25471
-//Maximum funds
+[Maximum funds]
 patch=1,EE,2056C67C,extended,3B9AC9FF
 patch=1,EE,2056C68C,extended,3B9AC9FF
 
-//All instruction book possession
+[All instruction book possession]
 patch=1,EE,4057FF74,extended,000F0001
 patch=1,EE,00000001,extended,00000000
 
-//Development facility fully opened
+[Development facility fully opened]
 patch=1,EE,4051AFC4,extended,00220001
 patch=1,EE,01010101,extended,00000000
 
-//Missions fully open &Recipes Arakata MAX
+[Missions fully open &Recipes Arakata MAX]
 patch=1,EE,2048B770,extended,00000001
 patch=1,EE,2048B774,extended,00000001
 patch=1,EE,2048B778,extended,00000001
@@ -23,26 +23,26 @@ patch=1,EE,2048B78C,extended,00000001
 patch=1,EE,2048B790,extended,00000001
 patch=1,EE,2048B794,extended,00000001
 
-//Increasing staff experience value 9999
+[Increasing staff experience value 9999]
 patch=1,EE,202BDE04,extended,00000000
 
-//All teacher education force 99
+[All teacher education force 99]
 patch=1,EE,20285214,extended,00000000
 
-//All teacher leadership 99
+[All teacher leadership 99]
 patch=1,EE,202852B0,extended,00000000
 
-//All teachers charisma 99
+[All teachers charisma 99]
 patch=1,EE,2028542C,extended,00000000
 
-//All teachers spirit force 99
+[All teachers spirit force 99]
 patch=1,EE,20285694,extended,00000000
 
-//All teacher M stress 0
+[All teacher M stress 0]
 patch=1,EE,2028580C,extended,00000000
 patch=1,EE,20285814,extended,24020000
 patch=1,EE,202858DC,extended,00000000
 patch=1,EE,202858E4,extended,24020000
 
-//Satisfaction 100
+[Satisfaction 100]
 patch=1,EE,202A2320,extended,00000000

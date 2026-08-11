@@ -1,100 +1,100 @@
 gametitle=Naruto - Uzumaki Ninden SLPS-25542
-//Naruto: 99 total recovery items
+[Naruto: 99 total recovery items]
 patch=1,EE,00374B8D,extended,00000063
 patch=1,EE,00374B98,extended,00000063
 patch=1,EE,20374B90,extended,63636363
 patch=1,EE,20374B94,extended,63636363
 patch=1,EE,10374B8E,extended,00006363
 
-//Naruto: 99 all attack items
+[Naruto: 99 all attack items]
 patch=1,EE,20374BCC,extended,63636363
 patch=1,EE,20374BD0,extended,63636363
 patch=1,EE,20374BD4,extended,63636363
 patch=1,EE,20374BD8,extended,63636363
 patch=1,EE,10374BDC,extended,00006363
 
-//Automatic collection of scattered chakra balls
+[Automatic collection of scattered chakra balls]
 patch=1,EE,2021F094,extended,1000000D
 
-//Release the power of nine tails at any time Press the TRIANGLE + CIRCLE buttons to release.
+[Release the power of nine tails at any time Press the TRIANGLE + CIRCLE buttons to release.]
 patch=1,EE,2016F4F0,extended,00000000
 patch=1,EE,2021416C,extended,1000000C
 patch=1,EE,202161CC,extended,1000000F
 
-//99 recovery items
+[99 recovery items]
 patch=1,EE,201A7168,extended,00000000
 
-//99 items when using attack items
+[99 items when using attack items]
 patch=1,EE,201A72FC,extended,00000000
 
-//One virtue is the maximum possession of virtue
+[One virtue is the maximum possession of virtue]
 patch=1,EE,201A431C,extended,00000000
 patch=1,EE,201A4328,extended,AE04001C
 
-//Time limit stopPress the SELECT + up button to stop the time Press SELECT + down button to restart the time
+[Time limit stopPress the SELECT + up button to stop the time Press SELECT + down button to restart the time]
 patch=1,EE,D080E842,extended,0000FFEE
 patch=1,EE,2021AF40,extended,24630000
 patch=1,EE,D080E842,extended,0000FFBE
 patch=1,EE,2021AF40,extended,24630001
 
-//Maintaining maximum physical strength
+[Maintaining maximum physical strength]
 patch=1,EE,201A82B0,extended,240203E7
 
-//Maximum stamina
+[Maximum stamina]
 patch=1,EE,201A8040,extended,3C0203E7
 
-//Possession of all skill cards
+[Possession of all skill cards]
 patch=1,EE,2027EC0C,extended,24030001
 patch=1,EE,2027EC10,extended,A0430002
 
-//Possession of all skill cards Part 2
+[Possession of all skill cards Part 2]
 patch=1,EE,2027ECDC,extended,A1830002
 
-//Wakaba tatami mat
+[Wakaba tatami mat]
 patch=1,EE,00383545,extended,00000001
 
-//Kunai tatami mat
+[Kunai tatami mat]
 patch=1,EE,00383549,extended,00000001
 
-//Konoha tatami
+[Konoha tatami]
 patch=1,EE,0038354D,extended,00000001
 
-//Gamacho
+[Gamacho]
 patch=1,EE,00383551,extended,00000001
 
-//Helix tatami mat
+[Helix tatami mat]
 patch=1,EE,00383555,extended,00000001
 
-//Kyubicho
+[Kyubicho]
 patch=1,EE,00383559,extended,00000001
 
-//Shriken tatami
+[Shriken tatami]
 patch=1,EE,0038355D,extended,00000001
 
-//Physical strength 999
+[Physical strength 999]
 patch=1,EE,20374A20,extended,03E703E7
 
-//Stamina 999
+[Stamina 999]
 patch=1,EE,10374A2E,extended,000003E7
 patch=1,EE,10374A32,extended,000003E7
 
-//Virtue 9999999
+[Virtue 9999999]
 patch=1,EE,20374A34,extended,0098967F
 
-//Physical strength +999
+[Physical strength +999]
 patch=1,EE,10374B14,extended,000003E7
 
-//Stamina +999
+[Stamina +999]
 patch=1,EE,10374B16,extended,000003E7
 
-//Physical attack +99
+[Physical attack +99]
 patch=1,EE,10374B18,extended,000003E7
 
-//Ninjutsu attack +99
+[Ninjutsu attack +99]
 patch=1,EE,10374B1A,extended,000003E7
 
-//Jiu-Jitsu defense +99
+[Jiu-Jitsu defense +99]
 patch=1,EE,10374B1C,extended,000003E7
 
-//Ninjutsu Defense +99
+[Ninjutsu Defense +99]
 patch=1,EE,10374B1E,extended,000003E7

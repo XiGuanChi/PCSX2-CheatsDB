@@ -1,14 +1,14 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2055df24,extended,240203E8
 patch=1,EE,2055df28,extended,aea203fc
 patch=1,EE,2055df2c,extended,10000009
 
-//Cheats/Infinite Ammo And No Reload
+[Cheats/Infinite Ammo And No Reload]
 patch=1,EE,203F96D8,extended,24020063
 patch=1,EE,203F96DC,extended,AE62048C
 patch=1,EE,203F9B1C,extended,24060063
 patch=1,EE,203F9B24,extended,AC460474
 
-//Cheats/Unlock All Medals, Extras And Levels
+[Cheats/Unlock All Medals, Extras And Levels]
 patch=1,EE,40648FA0,extended,00560001
 patch=1,EE,00000001,extended,00000000

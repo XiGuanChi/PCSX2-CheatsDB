@@ -1,43 +1,43 @@
 gametitle=.Hack Part 1 - Infection SLUS-20267
-//Have 9999999 Money
+[Have 9999999 Money]
 patch=1,EE,2098B36C,extended,0098967F
-//Inf PS Main Character
+[Inf PS Main Character]
 patch=1,EE,21729540,extended,00000063
-//Inf HP In Battle Main Character (63)
+[Inf HP In Battle Main Character (63)]
 patch=1,EE,20A200F0,extended,00000063
-//Inf HP in Battle BlackRose
+[Inf HP in Battle BlackRose]
 patch=1,EE,2171B5F0,extended,00000063
-//Max Money
+[Max Money]
 patch=1,EE,20A47394,extended,0098967F
 
-//Infinite HP (All Characters-In Battle)
+[Infinite HP (All Characters-In Battle)]
 patch=1,EE,E002AA7C,extended,00520910
 patch=1,EE,2052090C,extended,00A02021
 patch=1,EE,20520914,extended,A6240070
 
-//Infinite SP (All Characters-In Battle)
+[Infinite SP (All Characters-In Battle)]
 patch=1,EE,E00201D0,extended,00520A18
 patch=1,EE,20520A2C,extended,01605021
 patch=1,EE,20520A58,extended,A62A0072
 
-//Have All Party Members
+[Have All Party Members]
 patch=1,EE,20A41BF0,extended,FFFFFFFF
 
-//Have All Servers Accessible
+[Have All Servers Accessible]
 patch=1,EE,20A41C04,extended,0000001F
 
-//Have All Desktops
+[Have All Desktops]
 patch=1,EE,20A41C08,extended,FFFFFFFF
 patch=1,EE,20A41C0C,extended,FFFFFFFF
 
-//Have All BGMs
+[Have All BGMs]
 patch=1,EE,20A41C14,extended,FFFFFFFF
 patch=1,EE,20A41C18,extended,FFFFFFFF
 
-//Unlock All Movies
+[Unlock All Movies]
 patch=1,EE,20A41C20,extended,FFFFFFFF
 patch=1,EE,20A41C24,extended,FFFFFFFF
 patch=1,EE,20A41C28,extended,FFFFFFFF
 
-//Never Infected
+[Never Infected]
 patch=1,EE,20A4613C,extended,00000000

@@ -1,21 +1,21 @@
 gametitle=Beatmania IIDX 4th style SLPM-65026
-//Max Gauge
+[Max Gauge]
 patch=1,EE,109ED550,extended,00001388
 
-//Play mode= 1 P AUTO PLAY
+[Play mode= 1 P AUTO PLAY]
 patch=1,EE,209ED838,extended,00000001
 
-//Original course setting appearance
+[Original course setting appearance]
 patch=1,EE,009DAD30,extended,00000001
 
-//Survival appearance
+[Survival appearance]
 patch=1,EE,009DAD3C,extended,00000001
 
-//All expert courses appearance
+[All expert courses appearance]
 patch=1,EE,109DAD2C,extended,0000FFFF
 patch=1,EE,009DAD2F,extended,0000001F
 
-//Sana BLT Light 7 Perfect
+[Sana BLT Light 7 Perfect]
 patch=1,EE,209DFD50,extended,000001BB
 patch=1,EE,209DFD54,extended,00000000
 patch=1,EE,209DFD58,extended,01BB0000

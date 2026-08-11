@@ -1,48 +1,48 @@
 gametitle=Gran Turismo 4 SCUS-97328
-//Max Cash
+[Max Cash]
 patch=1,EE,20A1FCA8,extended,44B14400
 patch=1,EE,20A1FCAC,extended,44B14400
 
-//Disable AI Press Select & Left to activate, Press Select & Right to disable
+[Disable AI Press Select & Left to activate, Press Select & Right to disable]
 patch=1,EE,D064C794,extended,0000FF7E
 patch=1,EE,2034DE60,extended,24020000
 patch=1,EE,D064C794,extended,0000FFDE
 patch=1,EE,2034DE60,extended,1440FFF9
 
-//Freeze Timer Press L3 to stop, R3 to restart
+[Freeze Timer Press L3 to stop, R3 to restart]
 patch=1,EE,D064C794,extended,0000FFFD
 patch=1,EE,10357FBE,extended,00002442
 patch=1,EE,D064C794,extended,0000FFFB
 patch=1,EE,10357FBE,extended,00002A00
 
-//No Time Penalties
+[No Time Penalties]
 patch=1,EE,20350314,extended,AC80060C
 
-//All Gold B Licenses
+[All Gold B Licenses]
 patch=1,EE,40A205F4,extended,00100001
 patch=1,EE,0000FB91,extended,00000000
 
-//All A Licenses
+[All A Licenses]
 patch=1,EE,40A20634,extended,00100001
 patch=1,EE,0000FB91,extended,00000000
 
-//All IB Licenses
+[All IB Licenses]
 patch=1,EE,40A20674,extended,00100001
 patch=1,EE,0000FB91,extended,00000000
 
-//All IA Licenses
+[All IA Licenses]
 patch=1,EE,40A206B4,extended,00100001
 patch=1,EE,0000FB91,extended,00000000
 
-//All S Licenses
+[All S Licenses]
 patch=1,EE,40A206F4,extended,00100001
 patch=1,EE,0000FB91,extended,00000000
 
-//All Cars Permitted
+[All Cars Permitted]
 patch=1,EE,201A2BB0,extended,03E00008
 patch=1,EE,201A2BB4,extended,00000000
 
-//Have All Cars In Garage
+[Have All Cars In Garage]
 patch=1,EE,200C0260,extended,27BDFFE0
 patch=1,EE,200C0264,extended,FFBF0000
 patch=1,EE,200C0268,extended,FFB00008
@@ -69,7 +69,7 @@ patch=1,EE,201702AC,extended,0C172C38
 patch=1,EE,D0A17AC8,extended,00100015
 patch=1,EE,201702AC,extended,0C030098
 
-//Unlock All Arcade Tracks
+[Unlock All Arcade Tracks]
 patch=1,EE,E024FFFF,extended,00A44578
 patch=1,EE,40A443EC,extended,00330002
 patch=1,EE,00000022,extended,00000000

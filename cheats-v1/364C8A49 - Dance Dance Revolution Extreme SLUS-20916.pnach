@@ -1,21 +1,21 @@
-//Cheats/Max Score
+[Cheats/Max Score]
 patch=1,EE,2058E810,extended,3B9AC9FF
 
-//Cheats/Max Gauge
+[Cheats/Max Gauge]
 patch=1,EE,1058E6FA,extended,00000400
 
-//Cheats/999 Perfect
+[Cheats/999 Perfect]
 patch=1,EE,2058E7B4,extended,000003E7
 
-//Cheats/Unlock All Songs Except Memories
+[Cheats/Unlock All Songs Except Memories]
 patch=1,EE,202B0518,extended,FFFFFFFF
 
-//Cheats/Unlock Memories Song
+[Cheats/Unlock Memories Song]
 patch=1,EE,702B0520,extended,00000004
 
-//Cheats/Unlock All Extra Options and Endless Mode
+[Cheats/Unlock All Extra Options and Endless Mode]
 patch=1,EE,202B051C,extended,FFFFFFFF
 
-//Cheats/Unlock All Lessons and All Sections Completed
+[Cheats/Unlock All Lessons and All Sections Completed]
 patch=1,EE,402AF160,extended,00060001
 patch=1,EE,02020202,extended,00000000

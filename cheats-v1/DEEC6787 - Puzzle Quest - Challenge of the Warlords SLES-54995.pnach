@@ -1,7 +1,7 @@
-//Cheats/Allow Illegal Moves
+[Cheats/Allow Illegal Moves]
 patch=1,EE,201A863C,extended,00000000
 
-//Cheats/Press L2 Always Extra Turn After Matching Gems R2 to Disable
+[Cheats/Press L2 Always Extra Turn After Matching Gems R2 to Disable]
 patch=1,EE,E003FEFF,extended,0032A2C2
 patch=1,EE,201ACA7C,extended,00000000
 patch=1,EE,201ACA68,extended,00000000
@@ -11,12 +11,12 @@ patch=1,EE,201ACA7C,extended,14600028
 patch=1,EE,201ACA68,extended,1040002D
 patch=1,EE,201ACA44,extended,10400035
 
-//Cheats/Max Cash After Buying an Item or Rumor
+[Cheats/Max Cash After Buying an Item or Rumor]
 patch=1,EE,2014B698,extended,00000000
 patch=1,EE,20158270,extended,00000000
 
-//Cheats/Max Cash After a Battle
+[Cheats/Max Cash After a Battle]
 patch=1,EE,2015A32C,extended,00000000
 
-//Cheats/Max Exp After a Battle
+[Cheats/Max Exp After a Battle]
 patch=1,EE,2015A02C,extended,00000000

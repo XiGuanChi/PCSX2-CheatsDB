@@ -1,10 +1,10 @@
 gametitle=Jikkyou Powerful Pro Yakyuu 08 SLPM-62071
-//Experience value MAX
+[Experience value MAX]
 patch=1,EE,206357EC,extended,00FF00FF
 patch=1,EE,206357F0,extended,00FF00FF
 patch=1,EE,006357F4,extended,000000FF
 
-//Stamp card ALL
+[Stamp card ALL]
 patch=1,EE,106358AA,extended,00000A0A
 patch=1,EE,206358AC,extended,0A0A0A0A
 patch=1,EE,206358B0,extended,0A0A0A0A

@@ -1,8 +1,8 @@
-//Cheats/Infinite Health on Solo Mode
+[Cheats/Infinite Health on Solo Mode]
 patch=1,EE,20153978,extended,3C013F80
 patch=1,EE,20153980,extended,AC810098
 
-//Cheats/Unlock Normal Levels
+[Cheats/Unlock Normal Levels]
 patch=1,EE,2027F0B0,extended,00000001
 patch=1,EE,2027F0C0,extended,00000001
 patch=1,EE,2027F0D0,extended,00000001
@@ -14,7 +14,7 @@ patch=1,EE,2027F120,extended,00000001
 patch=1,EE,2027F130,extended,00000001
 patch=1,EE,2027F140,extended,00000001
 
-//Cheats/Unlock Master Levels
+[Cheats/Unlock Master Levels]
 patch=1,EE,2027F160,extended,00000001
 patch=1,EE,2027F170,extended,00000001
 patch=1,EE,2027F180,extended,00000001
@@ -26,6 +26,6 @@ patch=1,EE,2027F1D0,extended,00000001
 patch=1,EE,2027F1E0,extended,00000001
 patch=1,EE,2027F1F0,extended,00000001
 
-//Cheats/Unlock Complete Collection
+[Cheats/Unlock Complete Collection]
 patch=1,EE,202AC490,extended,FFFFFFFF
 patch=1,EE,202AC4A0,extended,FFFFFFFF

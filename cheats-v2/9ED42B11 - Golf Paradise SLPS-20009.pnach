@@ -1,10 +1,10 @@
 gametitle=Golf Paradise SLPS-20009
-//Possession gold MAX
+[Possession gold MAX]
 patch=1,EE,203CFD80,extended,000F423F
 
-//Tour point MAX
+[Tour point MAX]
 patch=1,EE,103CFD84,extended,000003E7
 
-//Parameter MAX
+[Parameter MAX]
 patch=1,EE,103CFF6A,extended,00006464
 patch=1,EE,103CFF6C,extended,00006464

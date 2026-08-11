@@ -1,11 +1,11 @@
 gametitle=J-League Winning Eleven 2007 - Club Championship
-//WEN 99999 points
+[WEN 99999 points]
 patch=1,EE,218B8650,extended,0001869F
 
-//Cup gallery fully open
+[Cup gallery fully open]
 patch=1,EE,218B8638,extended,FFFFFFFF
 
-//Master League Points 999999
+[Master League Points 999999]
 patch=1,EE,D0B05BDC,extended,00006ADC
 patch=1,EE,20B05BDC,extended,0C081DD1
 patch=1,EE,D0B05BE0,extended,00000034
@@ -14,16 +14,16 @@ patch=1,EE,20207744,extended,3484423F
 patch=1,EE,20207748,extended,08266ADC
 patch=1,EE,2020774C,extended,AE040034
 
-//Player experience points, maximum when obtained
+[Player experience points, maximum when obtained]
 patch=1,EE,D0B1B988,extended,0000851F
 patch=1,EE,20B1B980,extended,2407270F
 patch=1,EE,D0B1B988,extended,0000851F
 patch=1,EE,20B1B990,extended,A4875D44
 patch=1,EE,D0B1B988,extended,0000851F
 patch=1,EE,20B1B994,extended,000727C2
-//* Effective in Master League (when players are growing) and Fantasista. Some abilities, such as agility, do not increase. Also, as we get older, our abilities may decline.
+[* Effective in Master League (when players are growing) and Fantasista. Some abilities, such as agility, do not increase. Also, as we get older, our abilities may decline.]
 
-//As for experience upper limit about 9999exp
+[As for experience upper limit about 9999exp]
 patch=1,EE,D0B17740,extended,00000064
 patch=1,EE,20B1771C,extended,3C01461D
 patch=1,EE,D0B17740,extended,00000064
@@ -33,7 +33,7 @@ patch=1,EE,20B1CA68,extended,3C01461D
 patch=1,EE,D0B1CA88,extended,00000064
 patch=1,EE,20B1CA7C,extended,4481A000
 
-//Only Fantasista prayer with experience procurement Max
+[Only Fantasista prayer with experience procurement Max]
 patch=1,EE,D09349B0,extended,00005D44
 patch=1,EE,209349F4,extended,08082035
 patch=1,EE,202080D4,extended,2403270F
@@ -42,6 +42,6 @@ patch=1,EE,20208124,extended,A6430000
 patch=1,EE,20208128,extended,0824D27F
 patch=1,EE,2020812C,extended,A6030002
 
-//At the time of player editing, with SELECT + L2 button agile characteristic 99
+[At the time of player editing, with SELECT + L2 button agile characteristic 99]
 patch=1,EE,D04FF3C2,extended,0000FEFE
 patch=1,EE,00D455A1,extended,000000E3

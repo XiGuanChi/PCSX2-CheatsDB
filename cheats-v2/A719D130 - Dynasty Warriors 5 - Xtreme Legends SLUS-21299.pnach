@@ -1,40 +1,40 @@
 gametitle=Dynasty Warriors 5 - Xtreme Legends SLUS-21299
-//Infinite Funds-Xtreme Mode
+[Infinite Funds-Xtreme Mode]
 patch=1,EE,204E0E90,extended,05F5E0FF
 
-//Infinite Iron-Xtreme Mode
+[Infinite Iron-Xtreme Mode]
 patch=1,EE,204E0E94,extended,05F5E0FF
 
-//Infinite Skill Points-Destiny Mode
+[Infinite Skill Points-Destiny Mode]
 patch=1,EE,104E0C32,extended,000000C8
 
-//9999 Tactical Kills-Destiny Mode
+[9999 Tactical Kills-Destiny Mode]
 patch=1,EE,1088F5C8,extended,0000270F
 
-//Power-Up Infinite All Power-Up Points
+[Power-Up Infinite All Power-Up Points]
 patch=1,EE,204DE1E0,extended,63636363
 patch=1,EE,104DE1E4,extended,00006363
 
-//P1 Max Health
+[P1 Max Health]
 patch=1,EE,104B94B0,extended,00000260
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,104B94B2,extended,00002600
 
-//Max Musou
+[Max Musou]
 patch=1,EE,104B94B6,extended,00000130
 
-//Infinite Musou
+[Infinite Musou]
 patch=1,EE,104B94B8,extended,00001300
 
-//Infinite Arrows
+[Infinite Arrows]
 patch=1,EE,104F3446,extended,00000063
 
-//Press Select for Musou Token
+[Press Select for Musou Token]
 patch=1,EE,D0369AA0,extended,0000FFFE
 patch=1,EE,104B946C,extended,0000FFFF
 
-//1-Hit Death (Enemies) 
+[1-Hit Death (Enemies)]
 patch=1,EE,200C02B0,extended,34219504
 patch=1,EE,200C02B4,extended,0201082B
 patch=1,EE,200C02B8,extended,50200003
@@ -46,7 +46,7 @@ patch=1,EE,200C02CC,extended,00000000
 patch=1,EE,201A5E7C,extended,0C0300AC
 patch=1,EE,201A5E80,extended,3C01004B
 
-//Unlock All Movies
+[Unlock All Movies]
 patch=1,EE,404DE1AC,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 

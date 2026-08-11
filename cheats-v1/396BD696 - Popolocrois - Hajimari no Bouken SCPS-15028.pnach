@@ -1,44 +1,44 @@
-//Cheats/Max Funds at End of Combat
+[Cheats/Max Funds at End of Combat]
 patch=1,EE,202D485C,extended,14000000
 
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,2052FF78,extended,000F423F
 
-//Cheats/Max EXP
+[Cheats/Max EXP]
 patch=1,EE,202D4018,extended,14000000
 
-//Cheats/Max Current HP
+[Cheats/Max Current HP]
 patch=1,EE,1052FDA4,extended,000003E7
 
-//Cheats/Max HP
+[Cheats/Max HP]
 patch=1,EE,1052FDA8,extended,000003E7
 
-//Cheats/Max Current MP
+[Cheats/Max Current MP]
 patch=1,EE,1052FDAC,extended,000003E7
 
-//Cheats/Max MP
+[Cheats/Max MP]
 patch=1,EE,1052FDB0,extended,000003E7
 
-//Cheats/99 Wind Elements
+[Cheats/99 Wind Elements]
 patch=1,EE,0052FF7C,extended,00000063
 
-//Cheats/99 Fire Elements
+[Cheats/99 Fire Elements]
 patch=1,EE,0052FF80,extended,00000063
 
-//Cheats/99 Water Elements
+[Cheats/99 Water Elements]
 patch=1,EE,0052FF84,extended,00000063
 
-//Cheats/Experience Gained 16 Times
+[Cheats/Experience Gained 16 Times]
 patch=1,EE,201E6168,extended,0803C400
 patch=1,EE,200F1000,extended,00042100
 patch=1,EE,200F1004,extended,00641821
 patch=1,EE,200F1008,extended,0807985C
 
-//Cheats/No Random Battles Press L3 Encounter R3
+[Cheats/No Random Battles Press L3 Encounter R3]
 patch=1,EE,D0438102,extended,0000FFFD
 patch=1,EE,2019B300,extended,100000B8
 patch=1,EE,D0438102,extended,0000FFFB
 patch=1,EE,2019B300,extended,00000000
 
-//Cheats/Enemy does not Work
+[Cheats/Enemy does not Work]
 patch=1,EE,201D6E54,extended,00000000

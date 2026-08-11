@@ -1,13 +1,13 @@
 gametitle=Seaman 2 - Peking Genjin Ikusei Kit SLPM-66685
-//Max Gold
+[Max Gold]
 patch=1,EE,204D1920,extended,0001863C
 
-//Max Battery
+[Max Battery]
 patch=1,EE,204D18FC,extended,42C80000
 patch=1,EE,204D1900,extended,42C80000
 
-//Max Jin 
+[Max Jin]
 patch=1,EE,204D1920,extended,0001863C
 
-//The gold it does not decrease with the battery
+[The gold it does not decrease with the battery]
 patch=1,EE,20167F6C,extended,00000000

@@ -1,12 +1,12 @@
 gametitle=Formula One 2003 SCES-51592
-//All Cars Open Go into View Achievements and chekl the trophies to activate this code.
+[All Cars Open Go into View Achievements and chekl the trophies to activate this code.]
 patch=1,EE,200FFF00,extended,240500FF
 patch=1,EE,200FFF04,extended,AC850264
 patch=1,EE,200FFF08,extended,0040202D
 patch=1,EE,200FFF0C,extended,08058955
 patch=1,EE,2016254C,extended,0803FFC0
 
-//All Helmets Open Go into View Achievements and chekl the trophies to activate this code.
+[All Helmets Open Go into View Achievements and chekl the trophies to activate this code.]
 patch=1,EE,200FFF14,extended,3C10FFFF
 patch=1,EE,200FFF18,extended,3610FFFF
 patch=1,EE,200FFF1C,extended,AC900268
@@ -14,7 +14,7 @@ patch=1,EE,200FFF20,extended,DFB00000
 patch=1,EE,200FFF24,extended,0805444F
 patch=1,EE,20151134,extended,0803FFC5
 
-//Have All Trophies Go into View Achievements and chekl the trophies to activate this code.
+[Have All Trophies Go into View Achievements and chekl the trophies to activate this code.]
 patch=1,EE,200FFF2C,extended,3C05FFFF
 patch=1,EE,200FFF30,extended,34A5FFFF
 patch=1,EE,200FFF34,extended,AE650270
@@ -22,7 +22,7 @@ patch=1,EE,200FFF38,extended,8E650270
 patch=1,EE,200FFF3C,extended,08055116
 patch=1,EE,20154450,extended,0803FFCB
 
-//Have Street Circuit Track Unlocked Go into View Achievements and chekl the trophies to activate this code.
+[Have Street Circuit Track Unlocked Go into View Achievements and chekl the trophies to activate this code.]
 patch=1,EE,200FFF44,extended,3C05FFFF
 patch=1,EE,200FFF48,extended,34A5FFFF
 patch=1,EE,200FFF4C,extended,AE05026C

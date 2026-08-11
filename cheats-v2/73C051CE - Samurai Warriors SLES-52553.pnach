@@ -1,47 +1,47 @@
 gametitle=Samurai Warriors SLES-52553
 
-//9.999.999 Erfahrung Charakter
+[9.999.999 Erfahrung Charakter]
 patch=1,EE,205289B0,extended,05F5E0FF
 
 
-//99.999 Erfahrung Shinobi 
+[99.999 Erfahrung Shinobi]
 patch=1,EE,204FC800,extended,000F423F
 
-// 
-// 
-//99.999 Erfahrung Teppou 
+[]
+[]
+[99.999 Erfahrung Teppou]
 patch=1,EE,204FC840,extended,000F423F
 
-// 
-// 
-//99.999 Erfahrung Kengou 
+[]
+[]
+[99.999 Erfahrung Kengou]
 patch=1,EE,204FC880,extended,000F423F
 
 
-//99.999 Erfahrung Shinobi+Teppou+Kengou
+[99.999 Erfahrung Shinobi+Teppou+Kengou]
 patch=1,EE,404FC800,extended,00030010
 patch=1,EE,000F423F,extended,00000000
-// 
-//Yukimura Sanada Codes  max.Skill Punkte
+[]
+[Yukimura Sanada Codes  max.Skill Punkte]
 patch=1,EE,204FBDF4,extended,0001869F
-// 
-//max.Leben
+[]
+[max.Leben]
 patch=1,EE,004FBDB0,extended,000000FF
-// 
-//max.Musou 
+[]
+[max.Musou]
 patch=1,EE,004FBDB1,extended,000000FF
-// 
-//max.Angriff
+[]
+[max.Angriff]
 patch=1,EE,004FBDB2,extended,000000C8
-// 
-//max.Verteidigung
+[]
+[max.Verteidigung]
 patch=1,EE,004FBDB3,extended,000000C8
 
-//alle Charaktere
+[alle Charaktere]
 patch=1,EE,204fcc00,extended,060D000F
 patch=1,EE,204fcc04,extended,0A090305
 patch=1,EE,204fcc08,extended,02040708
 patch=1,EE,204fcc0C,extended,010B0C0E
-// 
-//alle Klamotten
+[]
+[alle Klamotten]
 patch=1,EE,204fcc10,extended,FFFFFFFF

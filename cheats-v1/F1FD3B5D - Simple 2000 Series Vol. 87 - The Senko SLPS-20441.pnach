@@ -1,61 +1,61 @@
-//Cheats/Max Corpse Soul
+[Cheats/Max Corpse Soul]
 patch=1,EE,202A3E04,extended,000F423F
 
-//Cheats/Infinite Health 1P
+[Cheats/Infinite Health 1P]
 patch=1,EE,2034F2F4,extended,00000320
 patch=1,EE,2034F2F8,extended,00000320
 
-//Cheats/1P 5 cartridge shots
+[Cheats/1P 5 cartridge shots]
 patch=1,EE,2034F438,extended,00000005
 
-//Cheats/Infinite Health 2P
+[Cheats/Infinite Health 2P]
 patch=1,EE,20356F74,extended,00000320
 patch=1,EE,20356F78,extended,00000320
 
-//Cheats/It Does Not Hit The Attack
+[Cheats/It Does Not Hit The Attack]
 patch=1,EE,201409EC,extended,10000028
 patch=1,EE,20140D14,extended,10000027
 
-//Cheats/999 Consecutive Attacks in one shot
+[Cheats/999 Consecutive Attacks in one shot]
 patch=1,EE,20139658,extended,00000000
 
-//Cheats/2P 5 cartridge shots
+[Cheats/2P 5 cartridge shots]
 patch=1,EE,203570B8,extended,00000005
 
-//Cheats/1P & 2P Scattered souls automatic collection
+[Cheats/1P & 2P Scattered souls automatic collection]
 patch=1,EE,2020B484,extended,00000000
 
-//Cheats/Mobile Guardian Girl Hana Physical strength 99 stages
+[Cheats/Mobile Guardian Girl Hana Physical strength 99 stages]
 patch=1,EE,202A3DAC,extended,00000062
 
-//Cheats/Mobile Guardian Girl Hana Destructive power 99 stages
+[Cheats/Mobile Guardian Girl Hana Destructive power 99 stages]
 patch=1,EE,202A3DB0,extended,00000062
 
-//Cheats/Mobile Guardian Girl Hana Speed 99 stages
+[Cheats/Mobile Guardian Girl Hana Speed 99 stages]
 patch=1,EE,202A3DB4,extended,00000062
 
-//Cheats/Mobile Guardian Girl Hana Jumping 99 stages
+[Cheats/Mobile Guardian Girl Hana Jumping 99 stages]
 patch=1,EE,202A3DB8,extended,00000062
 
-//Cheats/Mobile Guardian Girl Hana Ruthless 99 stages
+[Cheats/Mobile Guardian Girl Hana Ruthless 99 stages]
 patch=1,EE,202A3DBC,extended,00000062
 
-//Cheats/Mobile guardian girl Kiku hysical strength 99 stages
+[Cheats/Mobile guardian girl Kiku hysical strength 99 stages]
 patch=1,EE,202A3DC0,extended,00000062 
 
-//Cheats/Mobile guardian girl Kiku Destructive power 99 steps
+[Cheats/Mobile guardian girl Kiku Destructive power 99 steps]
 patch=1,EE,202A3DC4,extended,00000062 
 
-//Cheats/Mobile guardian girl Kiku Speed 99 steps
+[Cheats/Mobile guardian girl Kiku Speed 99 steps]
 patch=1,EE,202A3DC8,extended,00000062 
 
-//Cheats/Mobile guardian girl Kiku Jumping 99 steps
+[Cheats/Mobile guardian girl Kiku Jumping 99 steps]
 patch=1,EE,202A3DCC,extended,00000062 
 
-//Cheats/Mobile guardian girl Kiku Ruthless 99 steps
+[Cheats/Mobile guardian girl Kiku Ruthless 99 steps]
 patch=1,EE,202A3DD0,extended,00000062
 
-//Cheats/Unlock All Techniques When you look at the secret leaf vein
+[Cheats/Unlock All Techniques When you look at the secret leaf vein]
 patch=1,EE,2012DFA4,extended,24020001
 patch=1,EE,2012DFA8,extended,03E00008
 patch=1,EE,2012DFAC,extended,AC620228
@@ -63,17 +63,17 @@ patch=1,EE,2012DFCC,extended,24020001
 patch=1,EE,2012DFD0,extended,03E00008
 patch=1,EE,2012DFD4,extended,AC620458
 
-//Cheats/Unlock All stages Wandering in Purgatory
+[Cheats/Unlock All stages Wandering in Purgatory]
 patch=1,EE,2012DE18,extended,24020003
 patch=1,EE,2012DE1C,extended,ACA2003C
 
-//Cheats/Unlock All stages of Heroic Battles appear
+[Cheats/Unlock All stages of Heroic Battles appear]
 patch=1,EE,202A3BEC,extended,0000000B
 patch=1,EE,202A3BF0,extended,0000000B
 patch=1,EE,202A3BF4,extended,0000000B
 patch=1,EE,202A3BF8,extended,0000000B
 
-//Cheats/Unlock All bonus Hidden characters Dianthus and Chrysanthemum can be used, dark expansion can be purchased by acquiring skills, and ``Flower'' and ``Chrysanthemum'' can be purchased by increasing the number of mysteries that can be purchased with Mystery Leaf Vein.
+[Cheats/Unlock All bonus Hidden characters Dianthus and Chrysanthemum can be used, dark expansion can be purchased by acquiring skills, and ``Flower'' and ``Chrysanthemum'' can be purchased by increasing the number of mysteries that can be purchased with Mystery Leaf Vein.]
 patch=1,EE,002A3BE0,extended,000000FF
 patch=1,EE,202A40C0,extended,00000001
 patch=1,EE,402A4054,extended,00090001

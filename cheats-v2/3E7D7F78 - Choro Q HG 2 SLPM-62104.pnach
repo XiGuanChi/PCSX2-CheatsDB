@@ -1,52 +1,52 @@
 gametitle=Choro Q HG 2 SLPM-62104
-//Max Money
+[Max Money]
 patch=1,EE,21795274,extended,000F423F
 
-//Own all parts
-//tire
+[Own all parts]
+[tire]
 patch=1,EE,01795864,extended,000000FF
 patch=1,EE,01795871,extended,0000001F
 
-//engine
+[engine]
 patch=1,EE,11795878,extended,00000FFF
 
-//chassis
+[chassis]
 patch=1,EE,0179588C,extended,0000001F
 
-//Mission
+[Mission]
 patch=1,EE,017958A0,extended,0000003F
 
-//steering
+[steering]
 patch=1,EE,017958B4,extended,0000000F
 
-//break
+[break]
 patch=1,EE,017958C8,extended,0000000F
 
-//wheel
+[wheel]
 patch=1,EE,117958DC,extended,00007FFF
 
-//light
+[light]
 patch=1,EE,017958F0,extended,00000007
 
-//wing
+[wing]
 patch=1,EE,01795904,extended,00000003
 
-//special parts
+[special parts]
 patch=1,EE,01795918,extended,00000007
 
-//option
+[option]
 patch=1,EE,0179592C,extended,0000007F
 
-//sticker
+[sticker]
 patch=1,EE,01795940,extended,00000003
 
-//Horn
+[Horn]
 patch=1,EE,11795954,extended,00007FFF
 
-//meter
+[meter]
 patch=1,EE,11795968,extended,000007FF
 
-//body
+[body]
 patch=1,EE,21795850,extended,FFFFFFFF
 patch=1,EE,21795854,extended,FFFFFFFF
 patch=1,EE,21795858,extended,FFFFFFFF

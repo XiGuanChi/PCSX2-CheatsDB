@@ -1,20 +1,20 @@
-//Cheats/Infinite Time Don't Use In Race Mode
+[Cheats/Infinite Time Don't Use In Race Mode]
 patch=1,EE,20A4E594,extended,42B33328
 
-//Cheats/Full Boost Bar Race
+[Cheats/Full Boost Bar Race]
 patch=1,EE,20BEF628,extended,00000006
 patch=1,EE,20C89BA8,extended,00000006
 patch=1,EE,20DEE6A8,extended,00000006
 patch=1,EE,20B350A8,extended,00000006
 
-//Cheats/Max Score Race
+[Cheats/Max Score Race]
 patch=1,EE,20BEF690,extended,7FFFFFFF
 patch=1,EE,20C89C10,extended,7FFFFFFF
 patch=1,EE,20DEE710,extended,7FFFFFFF
 patch=1,EE,20B35110,extended,7FFFFFFF
 
-//Cheats/All Characters Max Status
+[Cheats/All Characters Max Status]
 patch=1,EE,203344AC,extended,00000001
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,203364A0,extended,00000001

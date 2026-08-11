@@ -1,8 +1,8 @@
-//Cheats/Ally attack Power Up
+[Cheats/Ally attack Power Up]
 patch=1,EE,2010E540,extended,340107D0
 patch=1,EE,2010E544,extended,ADC1000C
 
-//Cheats/Unlock All Scene Select
+[Cheats/Unlock All Scene Select]
 patch=1,EE,201FF6F4,extended,0000007F
 patch=1,EE,201FF6F8,extended,0000007F
 patch=1,EE,201FF6FC,extended,0000007F
@@ -10,9 +10,9 @@ patch=1,EE,201FF700,extended,0000007F
 patch=1,EE,201FF704,extended,0000007F
 patch=1,EE,201FF708,extended,0000007F
 
-//Cheats/Unlock All CG
+[Cheats/Unlock All CG]
 patch=1,EE,401FF5FC,extended,00070001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Replace New Game Script with Test Script This allows selecting of routes and testing pre-rendered movies.
+[Cheats/Replace New Game Script with Test Script This allows selecting of routes and testing pre-rendered movies.]
 patch=1,EE,10107E58,extended,0000077B

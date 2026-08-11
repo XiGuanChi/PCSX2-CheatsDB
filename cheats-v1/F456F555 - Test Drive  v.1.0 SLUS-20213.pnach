@@ -1,20 +1,20 @@
-//Cheats/Press R1 + R2 For Low Lap Time
+[Cheats/Press R1 + R2 For Low Lap Time]
 patch=1,EE,D0299A02,extended,0000F5FF
 patch=1,EE,2026DF90,extended,00000000
 
-//Cheats/Press L1+L2 For More Time Navigation Challenge Mode
+[Cheats/Press L1+L2 For More Time Navigation Challenge Mode]
 patch=1,EE,D0299A02,extended,0000FAFF
 patch=1,EE,209EB024,extended,0000177F
 
-//Cheats/Press L1+L2 For More Time Circuit & Linear Modes
+[Cheats/Press L1+L2 For More Time Circuit & Linear Modes]
 patch=1,EE,D0299A02,extended,0000F5FF
 patch=1,EE,209E7E24,extended,0000177F
 
-//Cheats/Unlock All Cars
+[Cheats/Unlock All Cars]
 patch=1,EE,4024D0AC,extended,00080001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Tracks
+[Cheats/Unlock All Tracks]
 patch=1,EE,4024D0D8,extended,000B0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,0024D104,extended,00000001

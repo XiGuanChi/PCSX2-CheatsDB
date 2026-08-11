@@ -1,17 +1,17 @@
 gametitle=Enter the Matrix SLES-51203
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2012826C,extended,00000000
 
-//Infinite Focus
+[Infinite Focus]
 patch=1,EE,202A0B18,extended,00000000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,202885B8,extended,00000000
 
-//All Available Weapons
+[All Available Weapons]
 patch=1,EE,203C67B0,extended,00000000
 
-//One Hit Kills
+[One Hit Kills]
 patch=1,EE,200FFF80,extended,3C01004B
 patch=1,EE,200FFF84,extended,8C2119B4
 patch=1,EE,200FFF8C,extended,14410002
@@ -20,5 +20,5 @@ patch=1,EE,200FFF94,extended,E4400354
 patch=1,EE,200FFF9C,extended,0804C26D
 patch=1,EE,201309B0,extended,0803FFE0
 
-//All Cheat Codes Active Make a save in Hacking to unlock levels
+[All Cheat Codes Active Make a save in Hacking to unlock levels]
 patch=1,EE,20585604,extended,0000FFFF

@@ -1,21 +1,21 @@
 gametitle=The King of Fighters XI SLES-54437
-//Infinite Health Character 1 P1
+[Infinite Health Character 1 P1]
 patch=1,EE,208EF964,extended,00700070
 
-//Infinite Health Character 2 P1
+[Infinite Health Character 2 P1]
 patch=1,EE,208EF984,extended,00700070
 
-//Infinite Health Character 3 P1
+[Infinite Health Character 3 P1]
 patch=1,EE,208EF9A4,extended,00700070
 
-//Unlock Extra Characters
+[Unlock Extra Characters]
 patch=1,EE,108F0940,extended,0000FFFF
 
-//100% Complete Status
+[100% Complete Status]
 patch=1,EE,408F0950,extended,00140001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Unlock All Endings
+[Unlock All Endings]
 patch=1,EE,208F0978,extended,FFFFFFFF
 patch=1,EE,208F097C,extended,FFFFFFFF
 patch=1,EE,208F0980,extended,FFFFFFFF
@@ -26,7 +26,7 @@ patch=1,EE,208F0990,extended,FFFFFFFF
 patch=1,EE,208F0994,extended,FFFFFFFF
 patch=1,EE,208F0998,extended,FFFFFFFF
 
-//Unlock All Character Gallery
+[Unlock All Character Gallery]
 patch=1,EE,208F0950,extended,FFFFFFFF
 patch=1,EE,208F0954,extended,FFFFFFFF
 patch=1,EE,208F0958,extended,FFFFFFFF

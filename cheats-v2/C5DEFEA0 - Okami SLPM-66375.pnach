@@ -1,11 +1,11 @@
 gametitle=Okami SLPM-66375
-//Max Wallet 
+[Max Wallet]
 patch=1,EE,204A88F0,extended,05F5E0FF
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2067D900,extended,17701770
 
-//Mirror, magatama, sword ALL
+[Mirror, magatama, sword ALL]
 patch=1,EE,104A8962,extended,0000FFFF
 patch=1,EE,204A8964,extended,FFFFFFFF
 patch=1,EE,204A8968,extended,FFFFFFFF

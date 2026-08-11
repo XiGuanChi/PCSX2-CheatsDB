@@ -1,15 +1,15 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,2092282C,extended,3B9AC9FF
 
-//Cheats/Money 99,999,999G
+[Cheats/Money 99,999,999G]
 patch=1,EE,208EA84C,extended,05F5E0FF 
 
-//Cheats/Start
+[Cheats/Start]
 patch=1,EE,E002DFFF,extended,002B2742 
 patch=1,EE,2041C620,extended,00000000 
 patch=1,EE,2041C624,extended,00000000
  
-//Cheats/Press L3 to immediately end the race automatic cancellation for each race Force cancellation with R3
+[Cheats/Press L3 to immediately end the race automatic cancellation for each race Force cancellation with R3]
 patch=1,EE,E001FFFD,extended,002B2742 
 patch=1,EE,2018AA20,extended,8C600078 
 patch=1,EE,E001FFFB,extended,002B2742 
@@ -17,15 +17,15 @@ patch=1,EE,2018AA20,extended,8C620078
 patch=1,EE,E0010000,extended,0029CCAC 
 patch=1,EE,2018AA20,extended,8C620078 
 
-//Cheats/Revolution anytime Press R2 a little slow
+[Cheats/Revolution anytime Press R2 a little slow]
 patch=1,EE,E002FDFF,extended,002B2742 
 patch=1,EE,00405DC0,extended,00000001 
 patch=1,EE,00405DC8,extended,00000002 
 
-//Cheats/My Horse Tolerance from 1st horse to 2nd horse
+[Cheats/My Horse Tolerance from 1st horse to 2nd horse]
 patch=1,EE,002CEFAA,extended,00000007
 
-//Cheats/My Horse 2nd Horse
+[Cheats/My Horse 2nd Horse]
 patch=1,EE,002CF882,extended,00000007 
 patch=1,EE,102CF862,extended,00006B80 
 patch=1,EE,202CF864,extended,CC660000 
@@ -39,7 +39,7 @@ patch=1,EE,102CF888,extended,00005073
 patch=1,EE,202CF8B0,extended,32323232 
 patch=1,EE,002CF8B4,extended,00000032 
 
-//Cheats/COM Horse SP Decreases Every Time You Press L2
+[Cheats/COM Horse SP Decreases Every Time You Press L2]
 patch=1,EE,E024FEFF,extended,002B2742 
 patch=1,EE,D0405768,extended,0010FF00 
 patch=1,EE,20417090,extended,00000000 
@@ -78,7 +78,7 @@ patch=1,EE,20417790,extended,00000000
 patch=1,EE,D0405768,extended,0010FF11 
 patch=1,EE,20417800,extended,00000000
 
-//Cheats/Your Horse Response is less likely to decrease&SP MAX L2+select=ON Please turn on the paddock before starting. Otherwise, it may freeze.
+[Cheats/Your Horse Response is less likely to decrease&SP MAX L2+select=ON Please turn on the paddock before starting. Otherwise, it may freeze.]
 patch=1,EE,E002FEFE,extended,002B2742 
 patch=1,EE,204812D0,extended,0803E400 
 patch=1,EE,204812D4,extended,3C1B0040 
@@ -93,10 +93,10 @@ patch=1,EE,200F901C,extended,8C430028
 patch=1,EE,200F9020,extended,081204B5 
 patch=1,EE,200F9024,extended,AC430024 
 
-//Cheats/Unlock All 9 Horse Figures
+[Cheats/Unlock All 9 Horse Figures]
 patch=1,EE,40922544,extended,00510001
 patch=1,EE,09090909,extended,00000000
 
-//Cheats/Unlock All 9 Race Cards
+[Cheats/Unlock All 9 Race Cards]
 patch=1,EE,40922694,extended,00490001
 patch=1,EE,09090909,extended,00000000

@@ -1,30 +1,30 @@
-//Cheats/Max Pesetas
+[Cheats/Max Pesetas]
 patch=1,EE,2042E72C,extended,05F5E0FF
 
-//Cheats/Hero Infinite Health
+[Cheats/Hero Infinite Health]
 patch=1,EE,1042E738,extended,00000960
 
-//Cheats/Hero Health Recovery Press L2
+[Cheats/Hero Health Recovery Press L2]
 patch=1,EE,D0431C64,extended,00000080
 patch=1,EE,1042E736,extended,00000960
 
-//Cheats/Partner Infinite Health
+[Cheats/Partner Infinite Health]
 patch=1,EE,1042E73C,extended,000004B0
 
-//Cheats/Partner Health Recovery Press L2
+[Cheats/Partner Health Recovery Press L2]
 patch=1,EE,D0431C64,extended,00000080
 patch=1,EE,1042E73A,extended,000004B0
 
-//Cheats/Does Not Receive Damage do not support the death blow of the last verge
+[Cheats/Does Not Receive Damage do not support the death blow of the last verge]
 patch=1,EE,2014A858,extended,10000011
 patch=1,EE,20146568,extended,10000029
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,1012024C,extended,00000000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,1011F0E0,extended,00000000
 
-//Cheats/Unlock All Extras
+[Cheats/Unlock All Extras]
 patch=1,EE,10431C26,extended,0000FFFF
 patch=1,EE,00431C2D,extended,00000005

@@ -1,18 +1,18 @@
 gametitle=Pac-Man World 3 SLES-53959
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,20320d04,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20320B5C,extended,00000000
 
-//Infinite Energie
+[Infinite Energie]
 patch=1,EE,20320b64,extended,8E040000
 
-//Infinite Energie v2
+[Infinite Energie v2]
 patch=1,EE,20320b54,extended,00451021
 
-//Galaxian Maze Infinite Lives
+[Galaxian Maze Infinite Lives]
 patch=1,EE,202e0650,extended,00000000
 
-//Pac-Man Arcade Infinite Lives
+[Pac-Man Arcade Infinite Lives]
 patch=1,EE,202d7e00,extended,00000000

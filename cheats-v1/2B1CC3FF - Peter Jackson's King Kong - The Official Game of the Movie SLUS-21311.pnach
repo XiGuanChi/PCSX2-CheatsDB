@@ -1,21 +1,21 @@
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,102D5412,extended,00001000
 
-//Cheats/Never Reload Pistol
+[Cheats/Never Reload Pistol]
 patch=1,EE,202C3508,extended,24420000
 
-//Cheats/Never Reload Sniper Rifle
+[Cheats/Never Reload Sniper Rifle]
 patch=1,EE,202C38A0,extended,24420000
 
-//Cheats/Never Reload Shotgun
+[Cheats/Never Reload Shotgun]
 patch=1,EE,202C3AE8,extended,24420000
 
-//Cheats/Never Reload Machine Gun
+[Cheats/Never Reload Machine Gun]
 patch=1,EE,202C48E0,extended,24630000
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,406AFA88,extended,00270001
 patch=1,EE,05F5E0FF,extended,00000000
 
-//Cheats/Unlock All Bonus
+[Cheats/Unlock All Bonus]
 patch=1,EE,204A8E9B,extended,3C371F73

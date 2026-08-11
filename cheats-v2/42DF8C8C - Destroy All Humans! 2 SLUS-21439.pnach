@@ -1,32 +1,32 @@
 gametitle=Destroy All Humans! 2 SLUS-21439
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0880,extended,8C8100D0
 patch=1,EE,200C0884,extended,01800008
 patch=1,EE,200C0888,extended,AC8100CC
 patch=1,EE,20205F78,extended,0C030220
 
-//Infinite Zap-O-Matic
+[Infinite Zap-O-Matic]
 patch=1,EE,202BAC28,extended,00000000
 patch=1,EE,202BB544,extended,00000000
 
-//Infinite Dislocator
+[Infinite Dislocator]
 patch=1,EE,202AE0D4,extended,00000000
 
-//Infinite Jetpack
+[Infinite Jetpack]
 patch=1,EE,201EC188,extended,00000000
 
-//Super High Jetpack
+[Super High Jetpack]
 patch=1,EE,201EC188,extended,00000000
 patch=1,EE,20501940,extended,40000000
 
-//6 Ultra High Jetpack
+[6 Ultra High Jetpack]
 patch=1,EE,201EC188,extended,00000000
 patch=1,EE,20501940,extended,40800000
 
-//Alert Level Never Increases
+[Alert Level Never Increases]
 patch=1,EE,201D6488,extended,AE000098
 
-//One Hit Kills Enemys/Inf Hp Player 
+[One Hit Kills Enemys/Inf Hp Player]
 patch=1,EE,200A0000,extended,8E2300E0
 patch=1,EE,200A0004,extended,3C046974
 patch=1,EE,200A0008,extended,34846341

@@ -1,6 +1,6 @@
 gametitle=Outlaw Golf 2 SLUS-21030
-//Always Hole In One
-//Enabler
+[Always Hole In One]
+[Enabler]
 patch=1,EE,200C2000,extended,3E09000C
 patch=1,EE,200C2004,extended,8F889B2C
 patch=1,EE,200C2008,extended,01284820
@@ -11,15 +11,15 @@ patch=1,EE,200C2018,extended,03E00008
 patch=1,EE,200C201C,extended,AC620000
 patch=1,EE,20269EC8,extended,0C030800
 
-//Player 1
+[Player 1]
 patch=1,EE,000C0000,extended,00000001
 
-//All Courses
+[All Courses]
 patch=1,EE,406C8EC0,extended,00110001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,106C8F04,extended,00000101
 
-//All Golfers
+[All Golfers]
 patch=1,EE,006C8F3F,extended,00000001
 patch=1,EE,206C8F40,extended,01010101
 patch=1,EE,206C8F44,extended,01010101

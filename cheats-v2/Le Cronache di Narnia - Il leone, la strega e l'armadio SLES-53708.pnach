@@ -1,32 +1,32 @@
 gametitle=Le Cronache di Narnia - Il leone, la strega e l'armadio SLES-53708
-//All action points visible and one shot to fill red bar 
+[All action points visible and one shot to fill red bar]
 patch=1,EE,203352A8,extended,C60200B0
 patch=1,EE,20302534,extended,00000000
 
-//Buy upgrades even without coins 
+[Buy upgrades even without coins]
 patch=1,EE,2037CBE8,extended,00000000
 patch=1,EE,2037B460,extended,00000000
 
-//One hit to fill red bar 
+[One hit to fill red bar]
 patch=1,EE,20334720,extended,00000000
 patch=1,EE,20302534,extended,00000000
 
-//Red bar does not drop after hitting objects 
+[Red bar does not drop after hitting objects]
 patch=1,EE,20335440,extended,00000000
 
-//Throwing tennis balls even without ammunition 
+[Throwing tennis balls even without ammunition]
 patch=1,EE,202D7F60,extended,10000003
 patch=1,EE,202D7570,extended,10000020
 patch=1,EE,202D6364,extended,00000000
 patch=1,EE,2027127C,extended,00000000
 
-//Timer stopped
+[Timer stopped]
 patch=1,EE,202D86B0,extended,C4800CA4
 
-//Use arrows even without ammunition 
+[Use arrows even without ammunition]
 patch=1,EE,2029BB1C,extended,1000000B
 
-//Use healing power even with zero power 
+[Use healing power even with zero power]
 patch=1,EE,20277C50,extended,00000000
 
 

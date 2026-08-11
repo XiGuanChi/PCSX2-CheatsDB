@@ -1,5 +1,5 @@
 gametitle=Keyboardmania SLPM-62012
-//Auto Play while playing in the L2 auto play starts, ends at R2
+[Auto Play while playing in the L2 auto play starts, ends at R2]
 patch=1,EE,D0D46202,extended,00000001
 patch=1,EE,20CD8828,extended,00000101
 patch=1,EE,D0D46202,extended,00000002

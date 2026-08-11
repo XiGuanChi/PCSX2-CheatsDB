@@ -1,17 +1,17 @@
 gametitle=Dragon Quest V - Tenkuu no Hanayome SLPM-65555
-//Max money
+[Max money]
 patch=1,EE,2079ADE0,extended,000F423F
 
-//Max Coins Casino
+[Max Coins Casino]
 patch=1,EE,2079ADE8,extended,0098967F
 
-//999 medals were deposited in the medal king
+[999 medals were deposited in the medal king]
 patch=1,EE,2079ADF0,extended,000003E7
 
-//Max Experience After battle
+[Max Experience After battle]
 patch=1,EE,2051F758,extended,00000000
 
-//Max Status after one level up
+[Max Status after one level up]
 patch=1,EE,2052226C,extended,00000000
 patch=1,EE,205222A8,extended,00000000
 patch=1,EE,205222E8,extended,00000000
@@ -20,13 +20,13 @@ patch=1,EE,2052235C,extended,00000000
 patch=1,EE,20522394,extended,00000000
 patch=1,EE,205223CC,extended,00000000
 
-//After battle target monster acquisition
+[After battle target monster acquisition]
 patch=1,EE,00747CC5,extended,00000000
 
-//Zako enemy, does not go ouf
+[Zako enemy, does not go ouf]
 patch=1,EE,007474D0,extended,00000000
 
-//Monster Box Complete
+[Monster Box Complete]
 patch=1,EE,20679F30,extended,24030001
 patch=1,EE,20679F34,extended,10210008
 patch=1,EE,20679F38,extended,A4430078

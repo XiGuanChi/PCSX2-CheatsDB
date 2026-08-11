@@ -1,11 +1,11 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,2013C850,extended,3C010100
 patch=1,EE,2013C854,extended,AC612208
 
-//Cheats/Max Power
+[Cheats/Max Power]
 patch=1,EE,202DC35C,extended,42C80000
 
-//Cheats/Max Score After 1 Jump
+[Cheats/Max Score After 1 Jump]
 patch=1,EE,201EA328,extended,3C014960
 patch=1,EE,201EA338,extended,44811000
 

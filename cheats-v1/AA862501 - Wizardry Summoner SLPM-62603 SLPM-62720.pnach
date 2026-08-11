@@ -1,51 +1,51 @@
-//Cheats/Character Creation Bonus L1 99 R1 0
+[Cheats/Character Creation Bonus L1 99 R1 0]
 patch=1,EE,D01C2874,extended,00000400
 patch=1,EE,002219D1,extended,00000063
 patch=1,EE,D01C2874,extended,00000800
 patch=1,EE,002219D1,extended,00000000
 
-//Cheats/P1 Max Status
+[Cheats/P1 Max Status]
 patch=1,EE,20230470,extended,63636363
 patch=1,EE,10230474,extended,00006363
 
-//Cheats/P1 Max EXP
+[Cheats/P1 Max EXP]
 patch=1,EE,20230478,extended,3B9AC9FF
 
-//Cheats/P1 Max Gold
+[Cheats/P1 Max Gold]
 patch=1,EE,2023047C,extended,3B9AC9FF
 
-//Cheats/P1 Max Marks
+[Cheats/P1 Max Marks]
 patch=1,EE,20230480,extended,3B9AC9F
 
-//Cheats/P1 Level 99
+[Cheats/P1 Level 99]
 patch=1,EE,00230498,extended,00000063
 
-//Cheats/P1 Max AC 99
+[Cheats/P1 Max AC 99]
 patch=1,EE,0023049E,extended,00000063
 
-//Cheats/P1 Max HP 9999
+[Cheats/P1 Max HP 9999]
 patch=1,EE,202304BC,extended,000003E7
 patch=1,EE,202304D0,extended,000003E7
 
-//Cheats/P2 Max Status
+[Cheats/P2 Max Status]
 patch=1,EE,20230550,extended,63636363
 patch=1,EE,10230554,extended,00006363
 
-//Cheats/P2 Max EXP
+[Cheats/P2 Max EXP]
 patch=1,EE,20230558,extended,3B9AC9FF
 
-//Cheats/P2 Max Gold
+[Cheats/P2 Max Gold]
 patch=1,EE,2023055C,extended,3B9AC9FF
 
-//Cheats/P2 Max Marks
+[Cheats/P2 Max Marks]
 patch=1,EE,20230560,extended,3B9AC9FF
 
-//Cheats/P2 Level 99
+[Cheats/P2 Level 99]
 patch=1,EE,00230578,extended,00000063
 
-//Cheats/P2 Max AC 99
+[Cheats/P2 Max AC 99]
 patch=1,EE,0023057E,extended,00000063
 
-//Cheats/P2 HP 9999
+[Cheats/P2 HP 9999]
 patch=1,EE,2023059C,extended,000003E7
 patch=1,EE,202305B0,extended,000003E7

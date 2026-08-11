@@ -1,14 +1,14 @@
-//Cheats/Max Money 999999999 DC
+[Cheats/Max Money 999999999 DC]
 patch=1,EE,20488A04,extended,3B9AC9FF
 
-//Cheats/Max Experience 9999
+[Cheats/Max Experience 9999]
 patch=1,EE,2010B320,extended,2406270F
 
-//Cheats/All Items 99
+[Cheats/All Items 99]
 patch=1,EE,20488A10,extended,63636363
 patch=1,EE,20488A14,extended,63636363
 
-//Cheats/Special Technical Skill 99
+[Cheats/Special Technical Skill 99]
 patch=1,EE,20488A30,extended,63636300
 patch=1,EE,20488A34,extended,63636363
 patch=1,EE,20488A38,extended,63636363
@@ -16,17 +16,17 @@ patch=1,EE,20488A3C,extended,63636363
 patch=1,EE,20488A40,extended,63636363
 patch=1,EE,10488A44,extended,00006363
 
-//Cheats/Infinite SP
+[Cheats/Infinite SP]
 patch=1,EE,201A016C,extended,01C07023
 
-//Cheats/After Rise Ki 150
+[Cheats/After Rise Ki 150]
 patch=1,EE,20174A18,extended,240E0000
 patch=1,EE,20175BA8,extended,240F0000
 
-//Cheats/It Receovers Completely with EN Recovery
+[Cheats/It Receovers Completely with EN Recovery]
 patch=1,EE,2017F230,extended,240F0001
 
-//Cheats/Reinforcement Parts 99
+[Cheats/Reinforcement Parts 99]
 patch=1,EE,20488A50,extended,63636363
 patch=1,EE,20488A54,extended,63636363
 patch=1,EE,20488A58,extended,63636363
@@ -38,7 +38,7 @@ patch=1,EE,20488A6C,extended,63636363
 patch=1,EE,20488A70,extended,63636363
 patch=1,EE,00488A74,extended,00000063
 
-//Cheats/Active Unit All the Appearance Code Desires of Free Battle Mode
+[Cheats/Active Unit All the Appearance Code Desires of Free Battle Mode]
 patch=1,EE,00488A74,extended,00000063
 patch=1,EE,40488A50,extended,00090001
 patch=1,EE,63636363,extended,00000000

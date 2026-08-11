@@ -1,28 +1,28 @@
-//Cheats/Infinite Health Not Physical Appearance
+[Cheats/Infinite Health Not Physical Appearance]
 patch=1,EE,201FC2AC,extended,C64201A0
 patch=1,EE,201FC2B8,extended,E64201A4
 
-//Cheats/Infinite Health Vehicles
+[Cheats/Infinite Health Vehicles]
 patch=1,EE,20206AF0,extended,C44001A0
 patch=1,EE,20206AF8,extended,E44001A4
 
-//Cheats/Have All Upgrades
+[Cheats/Have All Upgrades]
 patch=1,EE,40585928,extended,00040001
 patch=1,EE,00000003,extended,00000000
 
-//Cheats/Invincibility
+[Cheats/Invincibility]
 patch=1,EE,20585764,extended,00000001
 
-//Cheats/CoOp Mode Infinite Health
+[Cheats/CoOp Mode Infinite Health]
 patch=1,EE,200C0230,extended,C49501A0
 patch=1,EE,200C0234,extended,E49501A4
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,200C023C,extended,E49506F8
 patch=1,EE,201CBA98,extended,0C03008C
 
-//Cheats/CoOp Mode infinite Ammo
+[Cheats/CoOp Mode infinite Ammo]
 patch=1,EE,20246938,extended,00000000
 
-//Cheats/Unlock Access All Levels, Ending Movie, Concept Art And Cheats
+[Cheats/Unlock Access All Levels, Ending Movie, Concept Art And Cheats]
 patch=1,EE,205856DC,extended,00000001
 

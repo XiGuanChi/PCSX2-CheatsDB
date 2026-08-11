@@ -1,20 +1,20 @@
 gametitle=Dragon Ball Z - Infinite World SLUS-21842
-//Max Zenny
+[Max Zenny]
 patch=1,EE,205C0D4C,extended,0098967F
 
-//Infinite HP P1
+[Infinite HP P1]
 patch=1,EE,205306E0,extended,45DAC000
 patch=1,EE,205306E4,extended,45DAC000
 patch=1,EE,205306E8,extended,45DAC000
 
-//Infinite Ki P1
+[Infinite Ki P1]
 patch=1,EE,205306EC,extended,45DAC000
 
-//P2 No HP (P1 Press L2+R2)
+[P2 No HP (P1 Press L2+R2)]
 patch=1,EE,D04AD8C2,extended,0000FCFF
 patch=1,EE,205327B0,extended,00000000
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,405C0D54,extended,00FF0001
 patch=1,EE,E1E1E1E1,extended,00000000
 patch=1,EE,405C1150,extended,00580001

@@ -1,8 +1,8 @@
 gametitle=Shinseiki Evangelion - Ayanami Ikusei Keikaku with Asuka Hokan Keikaku SLPM-65334
-//Max Money
+[Max Money]
 patch=1,EE,2028D9F0,extended,000F423F
 
-//Max Stats
+[Max Stats]
 patch=1,EE,1028DBA2,extended,000001F4
 patch=1,EE,1028DBA4,extended,000001F4
 patch=1,EE,1028DBA6,extended,000001F4
@@ -20,10 +20,10 @@ patch=1,EE,1028DBBC,extended,000000C8
 patch=1,EE,1028DBBE,extended,000000C8
 patch=1,EE,1028DBC0,extended,000001F4
 
-//Can use Asuka
+[Can use Asuka]
 patch=1,EE,0028D9C8,extended,0000001F
 
-//Unlock Rei's Album (All Events and Endings)
+[Unlock Rei's Album (All Events and Endings)]
 patch=1,EE,2028D940,extended,FFFFFFFF
 patch=1,EE,2028D944,extended,FFFFFFFF
 patch=1,EE,2028D948,extended,FFFFFFFF
@@ -33,7 +33,7 @@ patch=1,EE,2028D954,extended,FFFFFFFF
 patch=1,EE,2028D958,extended,FFFFFFFF
 patch=1,EE,2028D95C,extended,FFFFFFFF
 
-//Unlock Asuka's Album (All Events and Endings)
+[Unlock Asuka's Album (All Events and Endings)]
 patch=1,EE,2028D9A0,extended,FFFFFFFF
 patch=1,EE,2028D9A4,extended,FFFFFFFF
 patch=1,EE,2028D9A8,extended,FFFFFFFF

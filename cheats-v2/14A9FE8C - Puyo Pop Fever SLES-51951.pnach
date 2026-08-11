@@ -1,9 +1,9 @@
 gametitle=Puyo Pop Fever SLES-51951
-//Enable Dev Menu (Press R1+X at main menu) 
+[Enable Dev Menu (Press R1+X at main menu)]
 patch=1,EE,D03CA042,extended,0000B7FF
 patch=1,EE,003C259C,extended,00000004
 
-//Enable Japanese Voices 
+[Enable Japanese Voices]
 patch=0,EE,D03CA042,extended,0000FAFF
 patch=0,EE,006EE549,extended,00000000
 patch=0,EE,D03CA042,extended,0000F5FF

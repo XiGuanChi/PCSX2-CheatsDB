@@ -1,15 +1,15 @@
-//Cheats/Start With 999 Screams
+[Cheats/Start With 999 Screams]
 patch=1,EE,D0B00620,extended,00000000
 patch=1,EE,10B00620,extended,000003E7
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,10B00622,extended,00000005
 
-//Cheats/Start With 4 Canisters
+[Cheats/Start With 4 Canisters]
 patch=1,EE,D0B00628,extended,00000000
 patch=1,EE,10B00628,extended,00000004
 
-//Cheats/Start With 4 Mice
+[Cheats/Start With 4 Mice]
 patch=1,EE,D0B0062A,extended,00000000
 patch=1,EE,10B0062A,extended,00000004
 
@@ -17,38 +17,38 @@ patch=1,EE,10B0062A,extended,00000004
 patch=1,EE,201BB090,extended,240303E7
 patch=1,EE,201BB09C,extended,A6630010
 
-//Cheats/Unlock Level Mailroom
+[Cheats/Unlock Level Mailroom]
 patch=1,EE,20AFD928,extended,00000001
 
-//Cheats/Unlock Level Main Street
+[Cheats/Unlock Level Main Street]
 patch=1,EE,20AFD950,extended,00000001
 
-//Cheats/Unlock Level Sulley's Apartment
+[Cheats/Unlock Level Sulley's Apartment]
 patch=1,EE,20AFD978,extended,00000001
 
-//Cheats/Unlock Level Garbage Disposal
+[Cheats/Unlock Level Garbage Disposal]
 patch=1,EE,20AFD9B4,extended,00000001
 
-//Cheats/Unlock Level Himalayas
+[Cheats/Unlock Level Himalayas]
 patch=1,EE,20AFD9F0,extended,00000001
 
-//Cheats/Unlock Level Door Vault
+[Cheats/Unlock Level Door Vault]
 patch=1,EE,20AFDA04,extended,00000001
 
-//Cheats/Unlock Level Showdown
+[Cheats/Unlock Level Showdown]
 patch=1,EE,20AFDA18,extended,00000001
 
-//Cheats/Unlock Bonus Level Tot Bot Scare Fair
+[Cheats/Unlock Bonus Level Tot Bot Scare Fair]
 patch=1,EE,20AFD944,extended,00000032
 
-//Cheats/Unlock Bonus Level Canister Catastrophe
+[Cheats/Unlock Bonus Level Canister Catastrophe]
 patch=1,EE,20AFD96C,extended,0000003C
 
-//Cheats/Unlock Bonus Level Closet Chaos
+[Cheats/Unlock Bonus Level Closet Chaos]
 patch=1,EE,20AFD9A8,extended,00000046
 
-//Cheats/Unlock Bonus Level Furry Scurry
+[Cheats/Unlock Bonus Level Furry Scurry]
 patch=1,EE,20AFD9E4,extended,00000050
 
-//Cheats/Unlock Bonus Level Yeti Says
+[Cheats/Unlock Bonus Level Yeti Says]
 patch=1,EE,20AFD9F8,extended,0000005A

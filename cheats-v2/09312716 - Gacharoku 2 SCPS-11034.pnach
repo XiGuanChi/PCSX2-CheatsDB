@@ -1,12 +1,12 @@
 gametitle=Gacharoku 2 SCPS-11034
-//Player 1 has 9999 points
+[Player 1 has 9999 points]
 patch=1,EE,06632BE8,extended,0000270F
 
-//Player 2 has 0 points
+[Player 2 has 0 points]
 patch=1,EE,06632BF0,extended,00000000
 
-//Player 3 has 0 points
+[Player 3 has 0 points]
 patch=1,EE,06632BF8,extended,00000000
 
-//Player 4 has 0 points
+[Player 4 has 0 points]
 patch=1,EE,06632C00,extended,00000000

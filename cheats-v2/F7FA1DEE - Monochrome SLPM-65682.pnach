@@ -1,7 +1,7 @@
 gametitle=Monochrome SLPM-65682
-//Special fully open
+[Special fully open]
 patch=1,EE,4051D620,extended,03330001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Replace New Game With Debug Menu 
+[Replace New Game With Debug Menu]
 patch=0,EE,202A00A8,extended,00000003

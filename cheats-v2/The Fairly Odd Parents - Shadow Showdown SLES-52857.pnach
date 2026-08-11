@@ -1,10 +1,10 @@
 gametitle= The Fairly Odd Parents - Shadow Showdown SLES-52857
-//GodMode
+[GodMode]
 patch=1,EE,201C82E8,extended,03E00008
 patch=1,EE,201C82EC,extended,00000000
 
-//Infinite sprint to run
+[Infinite sprint to run]
 patch=1,EE,2016A828,extended,00000000
 
-//Suit Spray shoot even without ammo
+[Suit Spray shoot even without ammo]
 patch=1,EE,201855A0,extended,00000000

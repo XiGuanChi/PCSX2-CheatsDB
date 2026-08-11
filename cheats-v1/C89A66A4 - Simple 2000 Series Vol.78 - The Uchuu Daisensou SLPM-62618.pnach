@@ -1,4 +1,4 @@
-//Cheats/Invincible Both Player And Wingman
+[Cheats/Invincible Both Player And Wingman]
 patch=1,EE,2015F6B0,extended,10000252
 patch=1,EE,2015FB54,extended,00000000
 patch=1,EE,2039F454,extended,461C0000
@@ -6,21 +6,21 @@ patch=1,EE,2039F458,extended,461C0000
 patch=1,EE,2039F5A4,extended,461C0000
 patch=1,EE,2039F5A8,extended,461C0000
 
-//Cheats/Unlock Aircrafts All Weapons
+[Cheats/Unlock Aircrafts All Weapons]
 patch=1,EE,1023DFA6,extended,00000101 
 patch=1,EE,2023DFA8,extended,01010101
 patch=1,EE,2023DFAC,extended,01010101
 patch=1,EE,2023DFB0,extended,01010101
 patch=1,EE,2023DFB4,extended,01010101
 
-//Cheats/Unlock All MISSION SELECT
+[Cheats/Unlock All MISSION SELECT]
 patch=1,EE,0023DFA5,extended,00000018
 
-//Cheats/Unlock All MISSION SELECT View Clear Rank S
+[Cheats/Unlock All MISSION SELECT View Clear Rank S]
 patch=1,EE,20130534,extended,A1E00024 
 patch=1,EE,20130548,extended,00007080
 
-//Cheats/All Player Aircraft And Aircraft Weapons can be tuned Bombs cannot be tuned
+[Cheats/All Player Aircraft And Aircraft Weapons can be tuned Bombs cannot be tuned]
 patch=1,EE,2023E060,extended,FFFFFFFF
 patch=1,EE,2023E064,extended,FFFFFFFF
 patch=1,EE,2023E068,extended,FFFFFFFF
@@ -30,7 +30,7 @@ patch=1,EE,2023E074,extended,FFFFFFFF
 patch=1,EE,2023E078,extended,FFFFFFFF
 patch=1,EE,2023E07C,extended,FFFFFFFF
 
-//Cheats/All Wingman Aircraft And Aircraft Weapons tuneable Bombs cannot be tuned
+[Cheats/All Wingman Aircraft And Aircraft Weapons tuneable Bombs cannot be tuned]
 patch=1,EE,2023E200,extended,FFFFFFFF
 patch=1,EE,2023E204,extended,FFFFFFFF
 patch=1,EE,2023E208,extended,FFFFFFFF
@@ -40,5 +40,5 @@ patch=1,EE,2023E214,extended,FFFFFFFF
 patch=1,EE,2023E218,extended,FFFFFFFF
 patch=1,EE,2023E21C,extended,FFFFFFFF
 
-//Cheats/Weapon Reload Time 0 common to players and wingmen Invalid for weapons without reload
+[Cheats/Weapon Reload Time 0 common to players and wingmen Invalid for weapons without reload]
 patch=1,EE,2013A868,extended,240F0000

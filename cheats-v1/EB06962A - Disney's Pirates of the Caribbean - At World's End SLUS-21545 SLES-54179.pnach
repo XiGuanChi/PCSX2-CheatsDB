@@ -1,12 +1,12 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,2010A6A8,extended,00000000
 
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,2010A6A0,extended,C48003D4
 patch=1,EE,2010A6B4,extended,10000002
 patch=1,EE,2010A6B8,extended,E48303D0
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,201D5220,extended,08028000
 patch=1,EE,200A0000,extended,4401A000
 patch=1,EE,200A0004,extended,10200003
@@ -16,18 +16,18 @@ patch=1,EE,200A0010,extended,00000000
 patch=1,EE,200A0014,extended,0807548A
 
 
-//Cheats/Gain Use For Max Everything this works for anything in the Inventory Screen And Stats
+[Cheats/Gain Use For Max Everything this works for anything in the Inventory Screen And Stats]
 patch=1,EE,2018F724,extended,ac850004
 patch=1,EE,2018F694,extended,ac830004
 
-//Cheats/Infinite Time Combat Challenge
+[Cheats/Infinite Time Combat Challenge]
 patch=1,EE,201845A8,extended,00000000
 
-//Cheats/Infinite Time Combo Challenge
+[Cheats/Infinite Time Combo Challenge]
 patch=1,EE,20184578,extended,00000000
 
-//Cheats/Infinite Time Loot Challenge
+[Cheats/Infinite Time Loot Challenge]
 patch=1,EE,20184544,extended,00000000
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,201845dc,extended,00000000

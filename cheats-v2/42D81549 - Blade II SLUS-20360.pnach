@@ -1,24 +1,24 @@
 gametitle=Blade II SLUS-20360
-//Infinite Health
+[Infinite Health]
 patch=1,EE,1048C522,extended,00000101
 
-//Rage Always On
+[Rage Always On]
 patch=1,EE,1048C532,extended,00000101
 
-//Invulnerability
+[Invulnerability]
 patch=1,EE,1048C542,extended,00000101
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,1048C552,extended,00000101
 
-//Unlock Missions
+[Unlock Missions]
 patch=1,EE,1048C562,extended,00000101
 
-//Unlock Weapons
+[Unlock Weapons]
 patch=1,EE,1048C572,extended,00000101
 
-//Unlock All Campaign Levels
+[Unlock All Campaign Levels]
 patch=1,EE,0075BD6E,extended,00000013
 
-//Unlock Daywalker
+[Unlock Daywalker]
 patch=1,EE,1048C582,extended,00000101

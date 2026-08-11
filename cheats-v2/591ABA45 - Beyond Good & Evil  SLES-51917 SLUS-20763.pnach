@@ -1,39 +1,39 @@
 gametitle=Beyond Good & Evil  SLES-51917 SLUS-20763
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20D2F988,extended,44200000
 
-//Infinite Super Attack Strength
+[Infinite Super Attack Strength]
 patch=1,EE,20D30174,extended,00000063
 
-//Infinite Starkos - Jade
+[Infinite Starkos - Jade]
 patch=1,EE,20D30170,extended,00000063
 
-//Infinite Starkos - Pey'J's
+[Infinite Starkos - Pey'J's]
 patch=1,EE,20D2FB30,extended,00000063
 
-//Easy-Unit Card Maxed
+[Easy-Unit Card Maxed]
 patch=1,EE,20D2F998,extended,0001869F
 
-//Infinite PA1
+[Infinite PA1]
 patch=1,EE,20D30168,extended,00000010
 
-//Have Pey'J's Jet-Boots
+[Have Pey'J's Jet-Boots]
 patch=1,EE,20D3016C,extended,00000001
 
-//Inf H-Craft Boost Capsules
+[Inf H-Craft Boost Capsules]
 patch=1,EE,20D3018C,extended,00000005
 
-//Have Speedcraft Motor
+[Have Speedcraft Motor]
 patch=1,EE,20D3019C,extended,00000001
 
-//Have Neutralizing Cannon
+[Have Neutralizing Cannon]
 patch=1,EE,20D30190,extended,00000001
 
-//Have Jump Kit
+[Have Jump Kit]
 patch=1,EE,20D30188,extended,00000001
 
-//Have Stellar Motor
+[Have Stellar Motor]
 patch=1,EE,20D301A4,extended,00000001
 
-//Have Compass
+[Have Compass]
 patch=1,EE,20D301A0,extended,00000001

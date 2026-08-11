@@ -1,57 +1,57 @@
 gametitle=Dual Hearts SLUS-20475
-//Infinite Health
+[Infinite Health]
 patch=1,EE,206FD678,extended,00005050
 
-//Have All Weapon Data
+[Have All Weapon Data]
 patch=1,EE,206FD698,extended,FFFFFFFF
 
-//Have Baku Diary
+[Have Baku Diary]
 patch=1,EE,206FD6D0,extended,00000001
 
-//Max Dream Crystals
+[Max Dream Crystals]
 patch=1,EE,206FD6DA,extended,000003E7
 
-//Max Dream Energy
+[Max Dream Energy]
 patch=1,EE,206FD6DC,extended,00000064
 
-//Max Gold Esamon
+[Max Gold Esamon]
 patch=1,EE,206FD6DD,extended,00000064
 
-//Have All Baku Abilities
+[Have All Baku Abilities]
 patch=1,EE,206FD6CC,extended,FFFFFFFF
 
-//Baku Infinite Kigen
+[Baku Infinite Kigen]
 patch=1,EE,206B5410,extended,000003E7
 
-//Baku Infinite Esamon
+[Baku Infinite Esamon]
 patch=1,EE,206B5414,extended,000003E7
 
-//Baku Max Esamon
+[Baku Max Esamon]
 patch=1,EE,206B5418,extended,000003E7
 
-//Have Green Key
+[Have Green Key]
 patch=1,EE,206BB5E0,extended,00000001
 
-//Have Red Key
+[Have Red Key]
 patch=1,EE,206BB5E1,extended,00000001
 
-//Have Orange Key
+[Have Orange Key]
 patch=1,EE,206BB5E2,extended,00000001
 
-//Have Indigo Key
+[Have Indigo Key]
 patch=1,EE,206BB5E3,extended,00000001
 
-//Have Yellow Key
+[Have Yellow Key]
 patch=1,EE,206BB5E4,extended,00000001
 
-//Have Purple Key
+[Have Purple Key]
 patch=1,EE,206BB5E5,extended,00000001
 
-//Have Blue Key
+[Have Blue Key]
 patch=1,EE,206BB5E6,extended,00000001
 
-//Have Black Key
+[Have Black Key]
 patch=1,EE,206BB5E7,extended,00000001
 
-//Have White Key
+[Have White Key]
 patch=1,EE,206BB5E8,extended,00000001

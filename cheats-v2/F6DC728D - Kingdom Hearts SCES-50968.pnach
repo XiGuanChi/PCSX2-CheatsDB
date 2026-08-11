@@ -1,36 +1,36 @@
 gametitle=Kingdom Hearts SCES-50968
-//Infinite Munny
+[Infinite Munny]
 patch=1,EE,20407ECC,extended,0001869F
 
-//All Trinities Available
+[All Trinities Available]
 patch=1,EE,203F36C8,extended,FFFFFFFF
 
-//All Dalmations
+[All Dalmations]
 patch=1,EE,003F31B3,extended,000000FF
 patch=1,EE,203F31B4,extended,FFFFFFFF
 patch=1,EE,203F31B8,extended,FFFFFFFF
 patch=1,EE,203F31BC,extended,7FFFFFFF
 
-//Sora Infinite HP - Battle
+[Sora Infinite HP - Battle]
 patch=1,EE,00523EB4,extended,00000063
 
-//Sora Infinite MP - Battle
+[Sora Infinite MP - Battle]
 patch=1,EE,00523EBC,extended,00000063
 
-//Slot 2 Infinite HP - Battle
+[Slot 2 Infinite HP - Battle]
 patch=1,EE,00523F98,extended,00000063
 
-//Slot 2 Infinite MP - Battle
+[Slot 2 Infinite MP - Battle]
 patch=1,EE,00523FA0,extended,00000063
 
-//Slot 3 Infinite HP - Battle
+[Slot 3 Infinite HP - Battle]
 patch=1,EE,0052407C,extended,00000063
 
-//Slot 3 Infinite MP - Battle
+[Slot 3 Infinite MP - Battle]
 patch=1,EE,00524084,extended,00000063
 
-//Inf Armour - Gummi Ship
+[Inf Armour - Gummi Ship]
 patch=1,EE,00FAA930,extended,000000FF
 
-//Inf Power - Gummi Ship
+[Inf Power - Gummi Ship]
 patch=1,EE,00FAA938,extended,000000FF

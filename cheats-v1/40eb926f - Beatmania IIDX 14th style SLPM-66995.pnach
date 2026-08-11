@@ -1,28 +1,28 @@
-//Cheats/Max Gauge
+[Cheats/Max Gauge]
 patch=1,EE,107E7570,extended,00001388
 
-//Cheats/Max Gauge ALT
+[Cheats/Max Gauge ALT]
 patch=1,EE,201F3D3C,extended,24010000
 
-//Cheats/1P AUTO PLAY
+[Cheats/1P AUTO PLAY]
 patch=1,EE,101DA7CC,extended,0000883D
 patch=1,EE,101DA844,extended,0000883D
 patch=1,EE,101DAEE8,extended,0000883D
 patch=1,EE,002E08AD,extended,00000001
 patch=1,EE,2088780C,extended,FFFFFFFF
 
-//Cheats/Unlock Hidden Song enter FREE O TRAINING Mode check the song list, save it and uncheck code after
+[Cheats/Unlock Hidden Song enter FREE O TRAINING Mode check the song list, save it and uncheck code after]
 patch=1,EE,20192954,extended,24090080
 patch=1,EE,20192958,extended,A0690007
 patch=1,EE,2019295C,extended,A0610007
 patch=1,EE,20192960,extended,10000007
 
-//Cheats/Unlock All Galleries
+[Cheats/Unlock All Galleries]
 patch=1,EE,20887804,extended,FFFFFFFF
 patch=1,EE,20887808,extended,FFFFFFFF
 patch=1,EE,1088780C,extended,0000FFFF
 
-//Cheats/Unlock All Customize
+[Cheats/Unlock All Customize]
 patch=1,EE,2086D084,extended,01010101
 patch=1,EE,2086D088,extended,01010101
 patch=1,EE,1086D10C,extended,00000101
@@ -32,11 +32,11 @@ patch=1,EE,2086D18C,extended,01010101
 patch=1,EE,2086D190,extended,01010101
 patch=1,EE,1086D1CA,extended,00000101
 
-//Cheats/Unlock All FRAME
+[Cheats/Unlock All FRAME]
 patch=1,EE,2086D084,extended,01010101
 patch=1,EE,2086D088,extended,01010101
 
-//Cheats/Unlock All LANE COVER
+[Cheats/Unlock All LANE COVER]
 patch=1,EE,0086D0C4,extended,00000001
 patch=1,EE,1086D0C6,extended,00000101
 patch=1,EE,1086D0D4,extended,00000101
@@ -44,22 +44,22 @@ patch=1,EE,2086D0C8,extended,01010101
 patch=1,EE,2086D0CC,extended,01010101
 patch=1,EE,2086D0D0,extended,01010101
 
-//Cheats/Unlock All TURN TABLE
+[Cheats/Unlock All TURN TABLE]
 patch=1,EE,1086D106,extended,00000101
 patch=1,EE,1086D10C,extended,00000101
 patch=1,EE,2086D108,extended,01010101
 
-//Cheats/Unlock All EXPLOSION
+[Cheats/Unlock All EXPLOSION]
 patch=1,EE,0086D147,extended,00000001
 patch=1,EE,2086D148,extended,01010101
 patch=1,EE,2086D14C,extended,01010101
 
-//Cheats/Unlock All MUSIC SELECT BGM
+[Cheats/Unlock All MUSIC SELECT BGM]
 patch=1,EE,2086D188,extended,01010101
 patch=1,EE,2086D18C,extended,01010101
 patch=1,EE,2086D190,extended,01010101
 
-//Cheats/Unlock All CATEGORY VOICE
+[Cheats/Unlock All CATEGORY VOICE]
 patch=1,EE,0086D1C9,extended,00000001
 patch=1,EE,1086D1CA,extended,00000101
 

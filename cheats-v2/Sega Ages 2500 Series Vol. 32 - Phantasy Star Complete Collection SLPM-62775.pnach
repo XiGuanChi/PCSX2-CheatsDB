@@ -1,110 +1,110 @@
 gametitle=Sega Ages 2500 Series Vol. 32 - Phantasy Star Complete Collection SLPM-62775
-//Alisa's EP65535 Phantasy Star I
+[Alisa's EP65535 Phantasy Star I]
 patch=1,EE,00E31B03,extended,000000FF
 patch=1,EE,00E31B04,extended,000000FF
 
-//Alisa's HP 255/255 Phantasy Star I
+[Alisa's HP 255/255 Phantasy Star I]
 patch=1,EE,00E31B01,extended,000000FF
 patch=1,EE,00E31B06,extended,000000FF
 
-//Alisa's MP255 / 255 Phantasy Star I
+[Alisa's MP255 / 255 Phantasy Star I]
 patch=1,EE,00E31B02,extended,000000FF
 patch=1,EE,00E31B07,extended,000000FF
 
-//Alisa's Kogekiryoku / Shubiryoku Phantasy Star I
+[Alisa's Kogekiryoku / Shubiryoku Phantasy Star I]
 patch=1,EE,00E31B08,extended,000000FF
 patch=1,EE,00E31B09,extended,000000FF
 
-//Experience value 65535 after the end of the battle Phantasy Star I
+[Experience value 65535 after the end of the battle Phantasy Star I]
 patch=1,EE,00E319D0,extended,000000FF
 patch=1,EE,00E319D1,extended,000000FF
 
-//Obtain Laconian Sword after the battle Phantasy Star I
+[Obtain Laconian Sword after the battle Phantasy Star I]
 patch=1,EE,00E319DF,extended,0000000E
 
-//After the battle Meseta 65535 Phantasy Star I
+[After the battle Meseta 65535 Phantasy Star I]
 patch=1,EE,00E319DD,extended,000000FF
 patch=1,EE,00E319DE,extended,000000FF
 
-//Meseta MAX Phantasy Star I
+[Meseta MAX Phantasy Star I]
 patch=1,EE,10E31BE0,extended,0000FFFF
 
-//Meseta MAX Phantasy Star II
+[Meseta MAX Phantasy Star II]
 patch=1,EE,20DAFBA2,extended,967F0098
 
-//The enemy does not come out Phantasy Star II
+[The enemy does not come out Phantasy Star II]
 patch=1,EE,20DB018C,extended,00000000
 
-//Visiphone for Usis items Phantasy Star II
+[Visiphone for Usis items Phantasy Star II]
 patch=1,EE,00DAF5A8,extended,0000007D
 
-//Eusis, Ney, Ludger EXPMAX Phantasy Star II
+[Eusis, Ney, Ludger EXPMAX Phantasy Star II]
 patch=1,EE,20DAF58C,extended,967F0098
 patch=1,EE,20DAF5CC,extended,967F0098
 patch=1,EE,20DAF60C,extended,967F0098
 
-//Huey, Armia, Cainz EXPMAX Phantasy Star II
+[Huey, Armia, Cainz EXPMAX Phantasy Star II]
 patch=1,EE,20DAF68C,extended,967F0098
 patch=1,EE,20DAF6CC,extended,967F0098
 patch=1,EE,20DAF70C,extended,967F0098
 
-//Silka EXPMAX  Phantasy Star II
+[Silka EXPMAX  Phantasy Star II]
 patch=1,EE,20DAF74C,extended,967F0098
 
-//Meseta MAX Phantasy Star III
+[Meseta MAX Phantasy Star III]
 patch=1,EE,20DAF5C0,extended,E0FF05F5
 
 
-//Protagonist experience value MAX Phantasy Star III
+[Protagonist experience value MAX Phantasy Star III]
 patch=1,EE,10DAF63A,extended,000005F5
 patch=1,EE,10DAF63C,extended,0000E0FF
 
-//1st companion, 2nd companion Experience value MAX Phantasy Star III
+[1st companion, 2nd companion Experience value MAX Phantasy Star III]
 patch=1,EE,10DAF6BA,extended,000005F5
 patch=1,EE,10DAF6BC,extended,0000E0FF
 patch=1,EE,10DAF73A,extended,000005F5
 patch=1,EE,10DAF73C,extended,0000E0FF
 
-//3rd fellow, 4th fellow Experience value MAX Phantasy Star III
+[3rd fellow, 4th fellow Experience value MAX Phantasy Star III]
 patch=1,EE,10DAF7BA,extended,000005F5
 patch=1,EE,10DAF7BC,extended,0000E0FF
 patch=1,EE,10DAF83A,extended,000005F5
 patch=1,EE,10DAF83C,extended,0000E0FF
 
-//Meseta MAX Phantasy Star in Japan-at the end of the Millennium.
+[Meseta MAX Phantasy Star in Japan-at the end of the Millennium.]
 patch=1,EE,20DB29B8,extended,967F0098
 
-//Rudy, Laila EXMAX Phantasy Star in Japan-at the end of the Millennium.
+[Rudy, Laila EXMAX Phantasy Star in Japan-at the end of the Millennium.]
 patch=1,EE,10DB2A8A,extended,00000098
 patch=1,EE,10DB2A8C,extended,0000967F
 patch=1,EE,10DB2B0A,extended,00000098
 patch=1,EE,10DB2B0C,extended,0000967F
 
-//Hahn, Srey EXMAX Phantasy Star in Japan-at the end of the Millennium.
+[Hahn, Srey EXMAX Phantasy Star in Japan-at the end of the Millennium.]
 patch=1,EE,10DB2B8A,extended,00000098
 patch=1,EE,10DB2B8C,extended,0000967F
 patch=1,EE,10DB2C0A,extended,00000098
 patch=1,EE,10DB2C0C,extended,0000967F
 
-//Pike, Fal EXMAX Phantasy Star in Japan-at the end of the Millennium.
+[Pike, Fal EXMAX Phantasy Star in Japan-at the end of the Millennium.]
 patch=1,EE,10DB2C8A,extended,00000098
 patch=1,EE,10DB2C8C,extended,0000967F
 patch=1,EE,10DB2D0A,extended,00000098
 patch=1,EE,10DB2D0C,extended,0000967F
 
-//Frena, Foren EXMAX Phantasy Star in Japan-at the end of the Millennium.
+[Frena, Foren EXMAX Phantasy Star in Japan-at the end of the Millennium.]
 patch=1,EE,10DB2D8A,extended,00000098
 patch=1,EE,10DB2D8C,extended,0000967F
 patch=1,EE,10DB2E0A,extended,00000098
 patch=1,EE,10DB2E0C,extended,0000967F
 
-//Raja, Chess EXMAX Phantasy Star in Japan-at the end of the Millennium.
+[Raja, Chess EXMAX Phantasy Star in Japan-at the end of the Millennium.]
 patch=1,EE,10DB2E8A,extended,00000098
 patch=1,EE,10DB2E8C,extended,0000967F
 patch=1,EE,10DB2F0A,extended,00000098
 patch=1,EE,10DB2F0C,extended,0000967F
 
-//Siam EXMAX Phantasy Star in Japan-at the end of the Millennium.
+[Siam EXMAX Phantasy Star in Japan-at the end of the Millennium.]
 patch=1,EE,10DB2F8A,extended,00000098
 patch=1,EE,10DB2F8C,extended,0000967F
 

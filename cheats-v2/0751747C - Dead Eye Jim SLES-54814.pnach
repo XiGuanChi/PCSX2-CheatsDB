@@ -1,13 +1,13 @@
 gametitle=Dead Eye Jim SLES-54814
-//Invincible
+[Invincible]
 patch=1,EE,001B6BA4,extended,00000009
 
-//Just kill 1 opponent
+[Just kill 1 opponent]
 patch=1,EE,D01B70D8,extended,00000014
 patch=1,EE,001B70D8,extended,00000001
 
-//Mission Complete
+[Mission Complete]
 patch=1,EE,001B70D8,extended,00000000
 
-//infinity ammunition
+[infinity ammunition]
 patch=1,EE,0098A8C8,extended,00000063

@@ -1,10 +1,10 @@
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,202E9EDC,extended,00000000
 
-//Cheats/Infinite Tank Armour
+[Cheats/Infinite Tank Armour]
 patch=1,EE,202DC860,extended,3C0442C8
 patch=1,EE,202DC864,extended,AC440058
 patch=1,EE,202DC868,extended,00000000
 
-//Cheats/Rapid Fire Cannon
+[Cheats/Rapid Fire Cannon]
 patch=1,EE,202EA4A0,extended,00000000

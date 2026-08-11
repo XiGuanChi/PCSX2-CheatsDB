@@ -1,19 +1,19 @@
 gametitle=Space Channel 5 Special Edition SLUS-20806
-//Space Channel 5 - Infinite Hearts
+[Space Channel 5 - Infinite Hearts]
 patch=1,EE,201180A4,extended,00000000
 patch=1,EE,2011D994,extended,00000000
 
-//Space Channel 5 - Max Rating After 1 Dance
+[Space Channel 5 - Max Rating After 1 Dance]
 patch=1,EE,101001CA,extended,00001000
 patch=1,EE,101001EA,extended,00001000
 patch=1,EE,10100202,extended,00001000
 
-//Space Channel 5 - Unlock All Character Profiles
+[Space Channel 5 - Unlock All Character Profiles]
 patch=1,EE,2151F150,extended,FFFFFFFF
 patch=1,EE,2151F154,extended,FFFFFFFF
 patch=1,EE,1151F158,extended,0000FFFF
 
-//Space Channel 5 - All Character Profiles Not New Anymore
+[Space Channel 5 - All Character Profiles Not New Anymore]
 patch=1,EE,1151F15A,extended,0000FFFF
 patch=1,EE,2151F15C,extended,FFFFFFFF
 patch=1,EE,2151F160,extended,FFFFFFFF

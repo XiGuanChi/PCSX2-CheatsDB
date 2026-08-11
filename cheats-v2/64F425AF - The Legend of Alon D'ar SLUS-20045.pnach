@@ -1,26 +1,26 @@
 gametitle=The Legend of Alon D'ar SLUS-20045
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,204516D4,extended,000F423F
 
-//Jarik Infinite HP
+[Jarik Infinite HP]
 patch=1,EE,104E6E68,extended,0000270F
 patch=1,EE,104E6F70,extended,0000270F
 patch=1,EE,104E6E66,extended,0000270F
 patch=1,EE,104E6F6E,extended,0000270F
 
-//Jarik Infinite MP
+[Jarik Infinite MP]
 patch=1,EE,104E6E6C,extended,000003E7
 patch=1,EE,104E6F74,extended,000003E7
 patch=1,EE,104E6E6A,extended,000003E7
 patch=1,EE,104E6F72,extended,000003E7
 
-//Have All Magic Skills
+[Have All Magic Skills]
 patch=1,EE,404E6ED4,extended,000B0001
 patch=1,EE,315FE7AA,extended,1F66FB36
 patch=1,EE,404E6FDC,extended,000B0001
 patch=1,EE,315FE7AA,extended,1F66FB36
 
-//Have All Weapon Skills
+[Have All Weapon Skills]
 patch=1,EE,404E6E74,extended,00170001
 patch=1,EE,315FE7AA,extended,1F66FB36
 patch=1,EE,404E6F7C,extended,00170001

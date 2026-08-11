@@ -1,63 +1,63 @@
 gametitle=FullMetal Alchemist - Hagane no Renkinjutsushi - Dream Carnival SLPS-25402
-//have all 64 items x9
+[have all 64 items x9]
 patch=1,EE,403bc6f4,extended,00100001
 patch=1,EE,09090909,extended,00000000
 
-//training mode Player 1 full of special energy (press L3)
+[training mode Player 1 full of special energy (press L3)]
 patch=1,EE,E001fffd,extended,003ba2c2
 patch=1,EE,01bf0c38,extended,00000064
 
-//training mode Player 1 full power (press L3)
+[training mode Player 1 full power (press L3)]
 patch=1,EE,E002fffd,extended,003ba2c2
 patch=1,EE,11bf0c28,extended,0000270f
 patch=1,EE,11bf0c2c,extended,0000270f
 
-//Story Mode Player 1 full of special energy (press L3)
+[Story Mode Player 1 full of special energy (press L3)]
 patch=1,EE,E001fffd,extended,003ba2c2
 patch=1,EE,01bf0c98,extended,00000064
 
-//Story Mode Player 1 full power (press L3)
+[Story Mode Player 1 full power (press L3)]
 patch=1,EE,E002fffd,extended,003ba2c2
 patch=1,EE,11bf0c88,extended,0000270f
 patch=1,EE,11bf0c8c,extended,0000270f
 
-//1P Life MISSION 1 After pressing the L3 + R3 button
+[1P Life MISSION 1 After pressing the L3 + R3 button]
 patch=1,EE,D03BA2C2,extended,0000FFF9
 patch=1,EE,11BF0C88,extended,0000270F
 patch=1,EE,D03BA2C2,extended,0000FFF9
 patch=1,EE,11CF1AFC,extended,0000270F
 
-//1P Life MISSION 2 After pressing the L2 + R2 button
+[1P Life MISSION 2 After pressing the L2 + R2 button]
 patch=1,EE,D03BA2C2,extended,0000FCFF
 patch=1,EE,11BF0C58,extended,0000270F
 patch=1,EE,D03BA2C2,extended,0000FCFF
 patch=1,EE,11CF21DC,extended,0000270F
 
-//KO! MISSION 1 After pressing the R1 + R2 button
+[KO! MISSION 1 After pressing the R1 + R2 button]
 patch=1,EE,D03BA2C2,extended,0000F5FF
 patch=1,EE,01C246D0,extended,00000000
 
-//KO! MISSION 2 After pressing the R1 + R3 button
+[KO! MISSION 2 After pressing the R1 + R3 button]
 patch=1,EE,D03BA2C2,extended,0000F7FB
 patch=1,EE,01C238C0,extended,00000000
 
-//KO! MISSION 3  After pressing the SELECT + R1 button
+[KO! MISSION 3  After pressing the SELECT + R1 button]
 patch=1,EE,D03BA2C2,extended,0000FDFE
 patch=1,EE,01C23430,extended,00000000
 
-//KO! MISSION 4 After pressing the SELECT + L2 button
+[KO! MISSION 4 After pressing the SELECT + L2 button]
 patch=1,EE,D03BA2C2,extended,0000FEFE
 patch=1,EE,01C24D90,extended,00000000
 
-//KO! MISSION 5 After pressing the SELECT + R2 button
+[KO! MISSION 5 After pressing the SELECT + R2 button]
 patch=1,EE,D03BA2C2,extended,0000F7FE
 patch=1,EE,01C234D0,extended,00000000
 
-//KO! MISSION 6 After pressing the SELECT + R3 button
+[KO! MISSION 6 After pressing the SELECT + R3 button]
 patch=1,EE,D03BA2C2,extended,0000FFFB
 patch=1,EE,01C272D0,extended,00000000
 
-//All bonuses can be used
+[All bonuses can be used]
 patch=1,EE,003BBDF0,extended,000000FF
 patch=1,EE,003BBDF4,extended,000000FF
 patch=1,EE,003BBDE4,extended,000000FF
@@ -67,7 +67,7 @@ patch=1,EE,000000FF,extended,00000000
 patch=1,EE,403BC678,extended,00140001
 patch=1,EE,000000FF,extended,00000000
 
-//Enable Debug Menu
+[Enable Debug Menu]
 patch=1,EE,20100340,extended,0C04D7CE
 
 

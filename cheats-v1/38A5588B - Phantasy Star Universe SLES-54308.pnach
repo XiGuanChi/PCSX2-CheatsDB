@@ -1,12 +1,12 @@
-//Cheats/Infinite & Max HP Ethan
+[Cheats/Infinite & Max HP Ethan]
 patch=1,EE,21F30824,extended,0000270F
 patch=1,EE,21F30828,extended,0000270F
 
-//Cheats/Level 100 after one Kill
+[Cheats/Level 100 after one Kill]
 patch=1,EE,D02A6470,extended,0000982D
 patch=1,EE,202A6470,extended,00059D00
 
-//Cheats/Infinite PP
+[Cheats/Infinite PP]
 patch=1,EE,D02FBF02,extended,00008602
 patch=1,EE,202FBF00,extended,8608000E
 patch=1,EE,D02FBF0A,extended,0000A642

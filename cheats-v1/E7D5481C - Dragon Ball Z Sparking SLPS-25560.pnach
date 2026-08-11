@@ -1,27 +1,27 @@
-//Cheats/Necessary Code In Battle Codes
+[Cheats/Necessary Code In Battle Codes]
 patch=1,EE,D038B20C,extended,0000C6DC 
 patch=1,EE,2038B210,extended,0C03E000 
 patch=1,EE,200F80F0,extended,8C83000C 
 patch=1,EE,200F80F4,extended,30630010 
 patch=1,EE,200F80F8,extended,03E00008 
 
-//Cheats/In Battle Infinite Health 1P
+[Cheats/In Battle Infinite Health 1P]
 patch=1,EE,200F8000,extended,8CC10004 
 patch=1,EE,200F8004,extended,ACC10000
 
-//Cheats/In Battle 1P Max Energy Gauge
+[Cheats/In Battle 1P Max Energy Gauge]
 patch=1,EE,200F8008,extended,3C010002
 patch=1,EE,200F800C,extended,ACC10008
 
-//Cheats/In Battle 1P Max Energy Gauge
+[Cheats/In Battle 1P Max Energy Gauge]
 patch=1,EE,200F8010,extended,24017530
 patch=1,EE,200F8014,extended,ACC10010
 
-//Cheats/In Battle 2P Health 1
+[Cheats/In Battle 2P Health 1]
 patch=1,EE,200F8020,extended,AD010004
 patch=1,EE,200F8024,extended,AD000000
 
-//Cheats/Life + 1 ~ Up to 6 becomes 999
+[Cheats/Life + 1 ~ Up to 6 becomes 999]
 patch=1,EE,20550B64,extended,03E70001
 patch=1,EE,20550B68,extended,03E70001
 patch=1,EE,20550B6C,extended,03E70001
@@ -29,7 +29,7 @@ patch=1,EE,20550B70,extended,03E70001
 patch=1,EE,20550B74,extended,03E70001
 patch=1,EE,20550B78,extended,03E70001
 
-//Cheats/Vigor + 1 ~ Up to 6 becomes 999
+[Cheats/Vigor + 1 ~ Up to 6 becomes 999]
 patch=1,EE,20550B88,extended,03E70001
 patch=1,EE,20550B8C,extended,03E70001
 patch=1,EE,20550B90,extended,03E70001
@@ -37,27 +37,27 @@ patch=1,EE,20550B94,extended,03E70001
 patch=1,EE,20550B98,extended,03E70001
 patch=1,EE,20550B9C,extended,03E70001
 
-//Cheats/Unlock All Z Item Secret Type
+[Cheats/Unlock All Z Item Secret Type]
 patch=1,EE,40550DB0,extended,001B0001
 patch=1,EE,03E70001,extended,00000000
 patch=1,EE,40550E20,extended,00610001
 patch=1,EE,03E70001,extended,00000000
 
-//Cheats/Player 1 Infinite Health
+[Cheats/Player 1 Infinite Health]
 patch=1,EE,21812CC8,extended,0001869F
 
-//Cheats/Player 1 Infinite Health Alt
+[Cheats/Player 1 Infinite Health Alt]
 patch=1,EE,21812D88,extended,0001869F
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,40550DB0,extended,005B0001
 patch=1,EE,00010003,extended,00000000
 
-//Cheats/Unlock All Characters & All Gallery
+[Cheats/Unlock All Characters & All Gallery]
 patch=1,EE,40550F1C,extended,00220001
 patch=1,EE,00010001,extended,00000000
 
-//Cheats/Unlock All Items In Evolution Z 999
+[Cheats/Unlock All Items In Evolution Z 999]
 patch=1,EE,D02476FC,extended,00000A64
 patch=1,EE,20247700,extended,3C0203E7
 patch=1,EE,D02476FC,extended,00000A64
@@ -65,15 +65,15 @@ patch=1,EE,20247704,extended,34420001
 patch=1,EE,D02476FC,extended,00000A64
 patch=1,EE,20247708,extended,AC820A64.
 
-//Cheats/Unlock All Items 999
+[Cheats/Unlock All Items 999]
 patch=1,EE,40550B64,extended,01100001
 patch=1,EE,03E70001,extended,00000000
 
-//Cheats/Unlock All 7 Dragon Balls
+[Cheats/Unlock All 7 Dragon Balls]
 patch=1,EE,40550D94,extended,00070001
 patch=1,EE,00010001,extended,00000000
 
-//Cheats/Unlock All Menu On
+[Cheats/Unlock All Menu On]
 patch=1,EE,40550DB0,extended,001B0001
 patch=1,EE,00010001,extended,00000000
 patch=1,EE,40550E20,extended,004C0001

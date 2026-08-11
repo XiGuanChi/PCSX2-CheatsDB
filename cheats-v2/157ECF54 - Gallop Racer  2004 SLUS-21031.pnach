@@ -1,23 +1,23 @@
 gametitle=Gallop Racer  2004 SLUS-21031
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,10B47D38,extended,0000FFFF
 
-//Infinite Total Points 
+[Infinite Total Points]
 patch=1,EE,10B47D30,extended,0000FFFF
 
-//Infinite Whip Usage
+[Infinite Whip Usage]
 patch=1,EE,201C0B60,extended,AE20000C
 patch=1,EE,201C0B84,extended,AE200010
 patch=1,EE,201C0BAC,extended,AE200014
 
-//Never Banned
+[Never Banned]
 patch=1,EE,00B47D2E,extended,00000000
 
-//All Lessons Enabled
+[All Lessons Enabled]
 patch=1,EE,40432D70,extended,00040001
 patch=1,EE,01010101,extended,00000000
 
-//Get A Head Start
+[Get A Head Start]
 patch=1,EE,200C0220,extended,8C226E70
 patch=1,EE,200C0224,extended,3C034440
 patch=1,EE,200C0228,extended,0043102B

@@ -1,15 +1,15 @@
-//Cheats/Complete One Task to Clear Level
+[Cheats/Complete One Task to Clear Level]
 patch=1,EE,001F91CC,extended,00000000
 
-//Cheats/Freeze Timer
+[Cheats/Freeze Timer]
 patch=1,EE,201F91AC,extended,00000000
 
-//Cheats/Infinite Battery Power
+[Cheats/Infinite Battery Power]
 patch=1,EE,101D0C04,extended,0000FFFF
 
-//Cheats/Infinite Crash Points
+[Cheats/Infinite Crash Points]
 patch=1,EE,001D0BF8,extended,0000000D
 patch=1,EE,001D0BFC,extended,0000000D
 
-//Cheats/Max Clear Points
+[Cheats/Max Clear Points]
 patch=1,EE,201D0A10,extended,05F5E0FF

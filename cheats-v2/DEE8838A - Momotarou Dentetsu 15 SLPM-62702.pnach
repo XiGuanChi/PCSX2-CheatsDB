@@ -1,12 +1,12 @@
 gametitle=Momotarou Dentetsu 15 SLPM-62702
-//P1 Money Max
+[P1 Money Max]
 patch=1,EE,20329F90,extended,3B9ACA00
 
-//P2 Money 0
+[P2 Money 0]
 patch=1,EE,2032A010,extended,00000000
 
-//P3 Money 0
+[P3 Money 0]
 patch=1,EE,2032A090,extended,00000000
 
-//P4 Money 0
+[P4 Money 0]
 patch=1,EE,2032A110,extended,00000000

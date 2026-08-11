@@ -1,9 +1,9 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,AE810210
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C6800210
 patch=1,EE,20141418,extended,0C030088
 
-//Cheats/Hella Score Gained Per Trick
+[Cheats/Hella Score Gained Per Trick]
 patch=1,EE,2024BC9C,extended,2442270F

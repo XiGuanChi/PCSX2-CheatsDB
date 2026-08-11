@@ -1,18 +1,18 @@
 gametitle=	Galactic Wrestling Featuring Ultimated Muscle SLUS-20822
-//All Wrestlers
+[All Wrestlers]
 patch=1,EE,402B2148,extended,001C0001
 patch=1,EE,00000001,extended,00000000
 
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,202BDEC8,extended,00000960
 
-//Infinite Muscle P P1
+[Infinite Muscle P P1]
 patch=1,EE,202BDEE0,extended,46000000
 
-//One -Hit Death P2
+[One -Hit Death P2]
 patch=1,EE,D02BE9E0,extended,00300001
 patch=1,EE,202BE9E0,extended,00000001
 
-//All Toys
+[All Toys]
 patch=1,EE,402B1720,extended,00990001
 patch=1,EE,00000001,extended,00000000

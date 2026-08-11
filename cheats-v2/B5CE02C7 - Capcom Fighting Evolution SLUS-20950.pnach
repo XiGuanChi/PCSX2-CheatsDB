@@ -1,7 +1,7 @@
 gametitle=Capcom Fighting Evolution SLUS-20950
-//Infinite health
+[Infinite health]
 patch=1,EE,20340D94,extended,38403840
 
-//Everything unlocked
+[Everything unlocked]
 patch=1,EE,2033BA10,extended,FFFFFFFF
 patch=1,EE,2033BA14,extended,FFFFFFFF

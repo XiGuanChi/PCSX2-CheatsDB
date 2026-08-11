@@ -1,56 +1,56 @@
-//Cheats/Max Money 9999999
+[Cheats/Max Money 9999999]
 patch=1,EE,204e3324,extended,0098967f
 
-//Cheats/Max Money 999999999 ALT
+[Cheats/Max Money 999999999 ALT]
 patch=1,EE,204e3320,extended,3b9ac9ff
 
-//Cheats/Max Played Time
+[Cheats/Max Played Time]
 patch=1,EE,204e331c,extended,0cdfe5ff
 
-//Cheats/Max When The Amount Of Money Increases
+[Cheats/Max When The Amount Of Money Increases]
 patch=1,EE,0014DDF0,extended,00000000
 
-//Cheats/Mileage: 1 Million km If you use this, BGM20.21.22.23.24 will be displayed in the SHOP. 24 is the OP instrumental.
+[Cheats/Mileage: 1 Million km If you use this, BGM20.21.22.23.24 will be displayed in the SHOP. 24 is the OP instrumental.]
 patch=1,EE,204E3320,extended,3B9ACA00
 
-//Cheats/Unlock GPX, Point Battle, Survival, Clear All TA & Obtain All Cards
+[Cheats/Unlock GPX, Point Battle, Survival, Clear All TA & Obtain All Cards]
 patch=1,EE,204E3334,extended,FFFFFFFF
 patch=1,EE,204E3338,extended,FFFFFFFF
 patch=1,EE,204E333C,extended,FFFFFFFF
 patch=1,EE,204E3340,extended,FFFFFFFF
 patch=1,EE,204E3344,extended,FFFFFFFF
 
-//Cheats/Unlock All Machines And Cards Including Color Variations Available For Purchase
+[Cheats/Unlock All Machines And Cards Including Color Variations Available For Purchase]
 patch=1,EE,204E3354,extended,FFFFFFFF
 patch=1,EE,204E3358,extended,FFFFFFFF
 
-//Cheats/Unlock GPX, Point Battle, Survival All Coursesses And Cards Available For Purchase
+[Cheats/Unlock GPX, Point Battle, Survival All Coursesses And Cards Available For Purchase]
 patch=1,EE,204E3360,extended,FFFFFFFF
 patch=1,EE,204E3364,extended,FFFFFFFF
 patch=1,EE,204E3368,extended,FFFFFFFF
 
-//Cheats/Unlock All Machines Purchased
+[Cheats/Unlock All Machines Purchased]
 patch=1,EE,204E336C,extended,FFFFFFFF
 patch=1,EE,204E3370,extended,FFFFFFFF
 
-//Cheats/Unlock Point Battle, Survival And All Courses Purchased
+[Cheats/Unlock Point Battle, Survival And All Courses Purchased]
 patch=1,EE,204E3378,extended,FFFFFFFF
 patch=1,EE,204E337C,extended,FFFFFFFF
 
-//Cheats/Unlock All BGM Purchased
+[Cheats/Unlock All BGM Purchased]
 patch=1,EE,104E3382,extended,FFFFFFFF
 
-//Cheats/Unlock All GPX Purchased
+[Cheats/Unlock All GPX Purchased]
 patch=1,EE,204E3380,extended,FFFFFFFF
 
-//Cheats/Unlock Game Level NORMAL
+[Cheats/Unlock Game Level NORMAL]
 patch=1,EE,204E3318,extended,00000001
 patch=1,EE,204E331C,extended,00000001
 
-//Cheats/Unlock Game level HARD
+[Cheats/Unlock Game level HARD]
 patch=1,EE,204E3318,extended,00000002
 patch=1,EE,204E331C,extended,00000002
 
-//Cheats/Main Menu Extra Movie = Debug Menu Contains various game modes you can choose from along with custom settings for each mode.
+[Cheats/Main Menu Extra Movie = Debug Menu Contains various game modes you can choose from along with custom settings for each mode.]
 patch=1,EE,00180370,extended,00000032
 patch=1,EE,1018037C,extended,000019B0

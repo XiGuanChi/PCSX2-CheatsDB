@@ -1,6 +1,6 @@
 gametitle=Kin'iro no Koruda - La Corda d'Oro SLPM-65567
-//BP is 99999
+[BP is 99999]
 patch=1,EE,2038EC7C,extended,0001869F
 
-//When you buy an item, that item 99
+[When you buy an item, that item 99]
 patch=1,EE,201A2C2C,extended,00000000

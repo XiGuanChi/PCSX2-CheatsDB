@@ -1,49 +1,49 @@
 gametitle=Beatmania IIDX 16th style SLPM-55222
-//PREMIUM BEST Auto Play
+[PREMIUM BEST Auto Play]
 patch=1,EE,201E6D50,extended,24030000
 patch=1,EE,201FA430,extended,24020001
 patch=1,EE,201FA4A4,extended,24020001
 patch=1,EE,002B2348,extended,00000003
 
-//All category voices
+[All category voices]
 patch=1,EE,2083CD06,extended,01010101
 patch=1,EE,2083CD0A,extended,01010101
 
-//All BGM
+[All BGM]
 patch=1,EE,2083CCB8,extended,01010101
 patch=1,EE,2083CCBC,extended,01010101
 patch=1,EE,2083CCC0,extended,01010101
 patch=1,EE,2083CCC4,extended,01010101
 patch=1,EE,2083CCC8,extended,01010101
 
-//All explosions
+[All explosions]
 patch=1,EE,2083CC6C,extended,01010101
 patch=1,EE,2083CC70,extended,01010101
 patch=1,EE,1083CC74,extended,00000101
 
-//All of the turntable
+[All of the turntable]
 patch=1,EE,1083CC1E,extended,00000101
 patch=1,EE,2083CC20,extended,01010101
 patch=1,EE,2083CC24,extended,01010101
 
-//All frames
+[All frames]
 patch=1,EE,2083CB84,extended,01010101
 patch=1,EE,2083CB88,extended,01010101
 
-//All lane covers
+[All lane covers]
 patch=1,EE,1083CBE6,extended,00000101
 patch=1,EE,2083CBE8,extended,01010101
 patch=1,EE,2083CBEC,extended,01010101
 patch=1,EE,2083CBF0,extended,01010101
 patch=1,EE,1083CBF4,extended,00000101
 
-//All galleries
+[All galleries]
 patch=1,EE,20878804,extended,FFFFFFFF
 patch=1,EE,00878808,extended,000000FF
 patch=1,EE,0087885D,extended,000000C0
 patch=1,EE,1087885E,extended,000007FF
 
-//All archives
+[All archives]
 patch=1,EE,0087D609,extended,000000FF
 patch=1,EE,1087D60A,extended,0000FFFF
 patch=1,EE,2087D60C,extended,FFFFFFFF
@@ -68,7 +68,7 @@ patch=1,EE,2087D654,extended,FFFFFFFF
 patch=1,EE,2087D658,extended,FFFFFFFF
 patch=1,EE,2087D65C,extended,00003FFF
 
-//SELECT + REGUL SPEED switch up and down
+[SELECT + REGUL SPEED switch up and down]
 patch=1,EE,D0724B82,extended,0000FFBE
 patch=1,EE,0083CB46,extended,00000001
 patch=1,EE,D0724B82,extended,0000FFEE

@@ -1,6 +1,6 @@
 gametitle=Rayman Raving Rabbids SLUS-21576
-//Disable Timer
+[Disable Timer]
 patch=1,EE,204EE118,extended,00000000
 
-//Super Scoring
+[Super Scoring]
 patch=1,EE,20486D34,extended,24030064

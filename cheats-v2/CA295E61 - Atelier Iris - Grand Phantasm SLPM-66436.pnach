@@ -1,21 +1,21 @@
 gametitle=Atelier Iris - Grand Phantasm SLPM-66436
-//Max Cole
+[Max Cole]
 patch=1,EE,208F3EB8,extended,000F423F
 
-//Alchemy LV MAX
+[Alchemy LV MAX]
 patch=1,EE,108F3EE6,extended,00000008
 patch=1,EE,108F3EE4,extended,00000290
 
-//99 items acquired * 99 items picked up and bought at the store
+[99 items acquired * 99 items picked up and bought at the store]
 patch=1,EE,2018429C,extended,00000000
 
-//Post-battle LV MAX (50)
+[Post-battle LV MAX (50)]
 patch=1,EE,20181364,extended,00000000
 
-//Post-battle BLADES MASTER
+[Post-battle BLADES MASTER]
 patch=1,EE,201856C0,extended,50000006
 
-//Ignore Encounter Ignore at L3, normal at R3, no loss of time.
+[Ignore Encounter Ignore at L3, normal at R3, no loss of time.]
 patch=1,EE,D08F615C,extended,0000FFFD
 patch=1,EE,201F47C8,extended,4A0002FF
 patch=1,EE,D08F615C,extended,0000FFFB

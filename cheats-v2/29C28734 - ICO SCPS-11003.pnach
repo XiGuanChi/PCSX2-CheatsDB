@@ -1,15 +1,15 @@
 gametitle=ICO SCPS-11003
-//Do not die
+[Do not die]
 patch=1,EE,20159720,extended,080565D5
 
-//One hit kill
+[One hit kill]
 patch=1,EE,20159720,extended,00000000
 
-//Jordan can't be taken away
+[Jordan can't be taken away]
 patch=1,EE,2016868C,extended,00000000
 
-//no enemies appear Please turn off the code in the final battle because the final battle with the shadow will not end
+[no enemies appear Please turn off the code in the final battle because the final battle with the shadow will not end]
 patch=0,EE,2019AE20,extended,08066C8D
 
-//Cleared
+[Cleared]
 patch=1,EE,206344C8,extended,00000001

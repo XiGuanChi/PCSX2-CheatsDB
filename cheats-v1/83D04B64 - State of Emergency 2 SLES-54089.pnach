@@ -1,19 +1,19 @@
-//Cheats/Invincibility
+[Cheats/Invincibility]
 patch=1,EE,20444C74,extended,00000001
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,20444C78,extended,00000001
 
-//Cheats/Invincibility 60HZ MODE
+[Cheats/Invincibility 60HZ MODE]
 patch=1,EE,20444a74,extended,00000001
 
-//Cheats/Infinite Ammo 60HZ MODE
+[Cheats/Infinite Ammo 60HZ MODE]
 patch=1,EE,20444a78,extended,00000001
 
-//Cheats/Unlock All Cheats And Characters
+[Cheats/Unlock All Cheats And Characters]
 patch=1,EE,204563F0,extended,FFFFFFFF
 patch=1,EE,204563F4,extended,FFFFFFFF
 
-//Cheats/Unlock All Levels Make New Save
+[Cheats/Unlock All Levels Make New Save]
 patch=1,EE,204216FC,extended,FFFFFFFF
 patch=1,EE,204565D4,extended,00000001

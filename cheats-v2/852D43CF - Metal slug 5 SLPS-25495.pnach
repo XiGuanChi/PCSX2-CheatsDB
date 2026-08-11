@@ -1,27 +1,27 @@
 gametitle=Metal slug 5 SLPS-25495
-//Infinite ammunition 1P
+[Infinite ammunition 1P]
 patch=1,EE,10A64D4C,extended,0000FFFF
 
-//Infinite ammunition 2P
+[Infinite ammunition 2P]
 patch=1,EE,10A64D3C,extended,0000FFFF
 
-//1P Accuracy life 9
+[1P Accuracy life 9]
 patch=1,EE,00A9D515,extended,0000000A
 
-//1P Bomb 99
+[1P Bomb 99]
 patch=1,EE,00A64D47,extended,00000063
 
-//1P Arms 999
+[1P Arms 999]
 patch=1,EE,10A64D4C,extended,000003E7
 
-//2P Arms 999
+[2P Arms 999]
 patch=1,EE,10A64C1C,extended,000003E7
 
-//The remaining machine it does not decrease
+[The remaining machine it does not decrease]
 patch=1,EE,00A9D515,extended,00000009
 
-//Bullet several infinity
+[Bullet several infinity]
 patch=1,EE,10A64D4C,extended,0000FFFF
 
-//Bomb 99
+[Bomb 99]
 patch=1,EE,00A64D47,extended,00000063

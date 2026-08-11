@@ -1,119 +1,119 @@
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,21FDD000,extended,000F423F
 
-//Cheats/Max Character Level After One Battle
+[Cheats/Max Character Level After One Battle]
 patch=1,EE,D0519D2C,extended,00004B40
 patch=1,EE,20519D58,extended,00000000
 
-//Cheats/Dungeon Small Fish Enemies Do Not Appear
+[Cheats/Dungeon Small Fish Enemies Do Not Appear]
 patch=1,EE,D0520BB0,extended,0000001A
 patch=1,EE,20520BA8,extended,10000004
 
-//Cheats/Field Small Fry Enemies Do Not Appear Invalid for event enemies whose appearance locations are fixed
+[Cheats/Field Small Fry Enemies Do Not Appear Invalid for event enemies whose appearance locations are fixed]
 patch=1,EE,D051C804,extended,0000001F
 patch=1,EE,2051C804,extended,1000001F
 
-//Cheats/In Battle Max EN Recovery After Each Turn
+[Cheats/In Battle Max EN Recovery After Each Turn]
 patch=1,EE,D0521754,extended,0000DB91
 patch=1,EE,2052179C,extended,2402000A
 patch=1,EE,D0521754,extended,0000DB91
 patch=1,EE,205217B0,extended,A0820000
 
-//Cheats/In Battle 1st Ally Aircraft Current EN 10
+[Cheats/In Battle 1st Ally Aircraft Current EN 10]
 patch=1,EE,01FDDB91,extended,0000000A
 
-//Cheats/In Battle 1st Ally Aircraft Current TP 9999
+[Cheats/In Battle 1st Ally Aircraft Current TP 9999]
 patch=1,EE,11FDDB92,extended,00 00270F
 
-//Cheats/In Battle 1st Ally Aircraft Current HP 9999
+[Cheats/In Battle 1st Ally Aircraft Current HP 9999]
 patch=1,EE,11FDDB94,extended,0000270F
 
-//Cheats/In Battle 2nd Ally Aircraft Current EN 10
+[Cheats/In Battle 2nd Ally Aircraft Current EN 10]
 patch=1,EE,01FDDB9D,extended,0000000A
 
-//Cheats/In Battle 2nd Ally Aircraft Current TP 9999
+[Cheats/In Battle 2nd Ally Aircraft Current TP 9999]
 patch=1,EE,11FDDB9E,extended,0000270F
 
-//Cheats/In Battle 2nd Ally Aircraft Current HP 9999
+[Cheats/In Battle 2nd Ally Aircraft Current HP 9999]
 patch=1,EE,11FDDBA0,extended,0000270F
 
-//Cheats/In Battle 3rd Ally Aircraft Current EN 10
+[Cheats/In Battle 3rd Ally Aircraft Current EN 10]
 patch=1,EE,01FDDBA9,extended,0000000A
 
-//Cheats/In Battle 3rd Ally Aircraft Current TP 9999
+[Cheats/In Battle 3rd Ally Aircraft Current TP 9999]
 patch=1,EE,11FDDBAA,extended,0000270F
 
-//Cheats/In Battle 3rd Ally Aircraft Current HP 9999
+[Cheats/In Battle 3rd Ally Aircraft Current HP 9999]
 patch=1,EE,11FDDBAC,extended,0000270F
 
-//Cheats/Trash Main Character Level 50
+[Cheats/Trash Main Character Level 50]
 patch=1,EE,01FDE88E,extended,00000032
 
-//Cheats/Trash Main Character Max Exp
+[Cheats/Trash Main Character Max Exp]
 patch=1,EE,21FDE890,extended,004C4B40
 
-//Cheats/Trash Main Character Max TP 9999
+[Cheats/Trash Main Character Max TP 9999]
 patch=1,EE,11FDE894,extended,0000270F
 
-//Cheats/Trash Main Character Martial Arts 999
+[Cheats/Trash Main Character Martial Arts 999]
 patch=1,EE,11FDE896,extended,000003E7
 
-//Cheats/Trash Main Character Shooting Skill 999
+[Cheats/Trash Main Character Shooting Skill 999]
 patch=1,EE,11FDE898,extended,000003E7
 
-//Cheats/Trash Main Character Reaction 999
+[Cheats/Trash Main Character Reaction 999]
 patch=1,EE,11FDE89A,extended,000003E7
 
-//Cheats/Trash Main Character Intelligence 999
+[Cheats/Trash Main Character Intelligence 999]
 patch=1,EE,11FDE89C,extended,000003E7
 
-//Cheats/Trash Main Character Spirit 999
+[Cheats/Trash Main Character Spirit 999]
 patch=1,EE,11FDE89E,extended,000003E7
 
-//Cheats/Each Level 50
+[Cheats/Each Level 50]
 patch=1,EE,01FDE906,extended,00000032
 
-//Cheats/Each Max Exp
+[Cheats/Each Max Exp]
 patch=1,EE,21FDE908,extended,004C4B40
 
-//Cheats/Each Max TP 9999
+[Cheats/Each Max TP 9999]
 patch=1,EE,11FDE90C,extended,0000270F
 
-//Cheats/Each Martial Arts 999
+[Cheats/Each Martial Arts 999]
 patch=1,EE,11FDE90E,extended,000003E7
 
-//Cheats/Each Shooting Skills 999
+[Cheats/Each Shooting Skills 999]
 patch=1,EE,11FDE910,extended,000003E7
 
-//Cheats/Each Reactions 999
+[Cheats/Each Reactions 999]
 patch=1,EE,11FDE912,extended,000003E7
 
-//Cheats/Each Intelligence 999
+[Cheats/Each Intelligence 999]
 patch=1,EE,11FDE914,extended,000003E7 
 
-//Cheats/Each Spirit 999
+[Cheats/Each Spirit 999]
 patch=1,EE,11FDE916,extended,000003E7
 
-//Cheats/Max TP After Level Up
+[Cheats/Max TP After Level Up]
 patch=1,EE,D0519EF8,extended,0000006F
 patch=1,EE,20519E1C,extended,240303E7
 
-//Cheats/Max Martial Arts After Level Up
+[Cheats/Max Martial Arts After Level Up]
 patch=1,EE,D0519EF8,extended,0000006F
 patch=1,EE,20519E40,extended,240303E7
 
-//Cheats/Max Marksmanship After Level Up
+[Cheats/Max Marksmanship After Level Up]
 patch=1,EE,D0519EF8,extended,0000006F
 patch=1,EE,20519E64,extended,240303E7
 
-//Cheats/Max Reaction After Level Up
+[Cheats/Max Reaction After Level Up]
 patch=1,EE,D0519EF8,extended,0000006F
 patch=1,EE,20519E88,extended,240303E7
 
-//Cheats/Max Intelligence After Level Up
+[Cheats/Max Intelligence After Level Up]
 patch=1,EE,D0519EF8,extended,0000006F
 patch=1,EE,20519EAC,extended,240303E7
 
-//Cheats/Max Spirit After Level Up
+[Cheats/Max Spirit After Level Up]
 patch=1,EE,D0519EF8,extended,0000006F
 patch=1,EE,20519EE0,extended,240303E7

@@ -1,11 +1,11 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,3C014400
 patch=1,EE,200C0224,extended,AE61001C
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C660001C
 patch=1,EE,201F4578,extended,0C030088
 
-//Cheats/Infinite Armor
+[Cheats/Infinite Armor]
 patch=1,EE,200C0230,extended,3C01005F
 patch=1,EE,200C0234,extended,8C21BEC8
 patch=1,EE,200C0238,extended,50350001
@@ -14,62 +14,62 @@ patch=1,EE,200C0240,extended,03E00008
 patch=1,EE,200C0244,extended,44020000
 patch=1,EE,20272314,extended,0C03008C
 
-//Cheats/Infinite Health Partner
+[Cheats/Infinite Health Partner]
 patch=1,EE,200C0250,extended,3C01437A
 patch=1,EE,200C0254,extended,AE01001C
 patch=1,EE,200C0258,extended,03E00008
 patch=1,EE,200C025C,extended,C600001C
 patch=1,EE,2026A1FC,extended,0C030094
 
-//Cheats/Infinite Armor Partner
+[Cheats/Infinite Armor Partner]
 patch=1,EE,200C0260,extended,2402012C
 patch=1,EE,200C0264,extended,AE020560
 patch=1,EE,200C0268,extended,03E00008
 patch=1,EE,200C026C,extended,8E020560
 patch=1,EE,2026A18C,extended,0C030098
 
-//Cheats/Infinite Armor Both Players
+[Cheats/Infinite Armor Both Players]
 patch=1,EE,2027231C,extended,00000000
 
-//Cheats/1 Hit Death Enemies
+[Cheats/1 Hit Death Enemies]
 patch=1,EE,203F2C6C,extended,AE20001C
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,10286E34,extended,00000000
 
-//Cheats/Never Reload With Max Clip
+[Cheats/Never Reload With Max Clip]
 patch=1,EE,20286E34,extended,240503E7
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2028753C,extended,00000000
 
-//Cheats/Max Infinite Ammo
+[Cheats/Max Infinite Ammo]
 patch=1,EE,20287538,extended,240303E7
 
-//Cheats/Extra Ammo
+[Cheats/Extra Ammo]
 patch=1,EE,20287538,extended,00641821
 
-//Cheats/Invulnerable
+[Cheats/Invulnerable]
 patch=1,EE,2053CBB8,extended,00000030
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,20286E3C,extended,00000000
 
-//Cheats/Max Flashlight
+[Cheats/Max Flashlight]
 patch=1,EE,20533F38,extended,41800000
 patch=1,EE,20533F30,extended,41E00000
 patch=1,EE,20533EC8,extended,41000000
 patch=1,EE,20533F28,extended,42400000
 
-//Cheats/Missions Never Fail
+[Cheats/Missions Never Fail]
 patch=1,EE,201DE2C0,extended,08077858
 
-//Cheats/With This Code On Dying Allows Level Completion Walk Through walls L1+L2 Activate R1+R2 Disable
+[Cheats/With This Code On Dying Allows Level Completion Walk Through walls L1+L2 Activate R1+R2 Disable]
 patch=1,EE,D06475DC,extended,0000FAFF
 patch=1,EE,202834B8,extended,00000000
 patch=1,EE,D06475DC,extended,0000F5FF
 patch=1,EE,202834B8,extended,0C11D1BC
 
-//Cheats/Unlock Levels And Bonus Levels
+[Cheats/Unlock Levels And Bonus Levels]
 patch=1,EE,2037C8CC,extended,24020001
 patch=1,EE,2037C92C,extended,24020001

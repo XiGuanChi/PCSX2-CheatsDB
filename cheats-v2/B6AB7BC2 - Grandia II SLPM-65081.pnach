@@ -1,25 +1,25 @@
 gametitle=Grandia II SLPM-65081
-//Infinite gold
+[Infinite gold]
 patch=1,EE,202B2CB8,extended,0098967F
 
-//Ryudo Infinite HP & MP
+[Ryudo Infinite HP & MP]
 patch=1,EE,202B2D1C,extended,270F270F
 patch=1,EE,202B2D20,extended,03E703E7`
 
-//Elena Infinite HP & MP
+[Elena Infinite HP & MP]
 patch=1,EE,202B2D88,extended,270F270F
 patch=1,EE,202B2D8C,extended,03E703E7
 
-//Special points MAX
+[Special points MAX]
 patch=1,EE,21352A68,extended,0001869F
 
-//Magical point MAX
+[Magical point MAX]
 patch=1,EE,21352A6C,extended,0001869F
 
-//All Magic
+[All Magic]
 patch=1,EE,405B7560,extended,00070001
 patch=1,EE,09090909,extended,00000000
 
-//All Skills
+[All Skills]
 patch=1,EE,405B7740,extended,000B0001
 patch=1,EE,09090909,extended,00000000

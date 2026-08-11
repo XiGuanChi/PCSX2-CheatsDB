@@ -1,22 +1,22 @@
 gametitle=Dawn of Mana SLUS-21574
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20273230,extended,3C0143FA
 patch=1,EE,20273238,extended,AC810178
 
-//Max Health
+[Max Health]
 patch=1,EE,106C5350,extended,00009C40
 
-//Infinite Lucre
+[Infinite Lucre]
 patch=1,EE,106C5414,extended,0000FFFF
 
-//Max Lucre
+[Max Lucre]
 patch=1,EE,206C5414,extended,05F5E0FF
 
-//Max White Eggs
+[Max White Eggs]
 patch=1,EE,206C51BC,extended,00000063
 
-//Max Gold Eggs
+[Max Gold Eggs]
 patch=1,EE,206C51C0,extended,00000063
 
-//Max STR
+[Max STR]
 patch=1,EE,106C5354,extended,000061A8

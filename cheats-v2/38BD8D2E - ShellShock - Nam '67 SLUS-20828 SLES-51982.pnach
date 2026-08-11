@@ -1,38 +1,38 @@
 gametitle=ShellShock - Nam '67 SLUS-20828 SLES-51982
-//Infinite Stamina
+[Infinite Stamina]
 patch=1,EE,201A850C,extended,00000000
 
-//Infinite Shock Defense
+[Infinite Shock Defense]
 patch=1,EE,200C0230,extended,3C0142C8
 patch=1,EE,200C0234,extended,AE81029C
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,200C023C,extended,0000902D
 patch=1,EE,2023C7CC,extended,0C03008C
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201E7E7C,extended,00000000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,201E0FC4,extended,00000000
 
-//Unlock All Missions
+[Unlock All Missions]
 patch=1,EE,2067BCBC,extended,0000000A
 
-//All Photos
+[All Photos]
 patch=1,EE,4067BCD8,extended,00060001
 patch=1,EE,00000001,extended,00000000
 
-//Unlock Code (View Level In Level Select)
-//Unlock All Levels
+[Unlock Code (View Level In Level Select)]
+[Unlock All Levels]
 patch=1,EE,2015D8D4,extended,24020001
 patch=1,EE,203F5C0C,extended,2401000A
 patch=1,EE,203F5C10,extended,AC41021C
 patch=1,EE,203F5C18,extended,24220001
-//Unlock All Photo's
+[Unlock All Photo's]
 patch=1,EE,2015DFC8,extended,24010001
 patch=1,EE,2015DFCC,extended,AC410238
 patch=1,EE,2015DFD4,extended,24020001
-//Have Purple Heart All Levels
+[Have Purple Heart All Levels]
 patch=1,EE,200C2020,extended,24010003
 patch=1,EE,200C2024,extended,AC41006C
 patch=1,EE,200C2028,extended,03E00008

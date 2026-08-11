@@ -1,20 +1,20 @@
 gametitle=Final Fantasy VII - Dirge of Cerberus SLPM-66271
-//Infinite Gil
+[Infinite Gil]
 patch=1,EE,209ed808,extended,05f5e0ff
 
-//max.HPs 9999
+[max.HPs 9999]
 patch=1,EE,109ed830,extended,0000270f
 
-//MP infinite
+[MP infinite]
 patch=1,EE,20328ED8,extended,13E00002
 
-//1 Hit 9999
+[1 Hit 9999]
 patch=1,EE,409ED818,extended,00060001
 patch=1,EE,270F270F,extended,00000000
 
-//Exp 9.999.999
+[Exp 9.999.999]
 patch=1,EE,209ed810,extended,0098967f
 
-//Items 999x
+[Items 999x]
 patch=1,EE,409ED0C4,extended,00320001
 patch=1,EE,000003E7,extended,00000000

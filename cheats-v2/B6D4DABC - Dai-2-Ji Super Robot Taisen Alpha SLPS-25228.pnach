@@ -1,8 +1,8 @@
 gametitle=Dai-2-Ji Super Robot Taisen Alpha SLPS-25228
-//Max Funding
+[Max Funding]
 patch=1,EE,20681F40,extended,3B9AC9FF
 
-//Reinforced parts ALL & do not decrease
+[Reinforced parts ALL & do not decrease]
 patch=1,EE,106820B8,extended,0000000F
 patch=1,EE,106820BA,extended,0000000F
 patch=1,EE,106820BC,extended,0000000F
@@ -53,7 +53,7 @@ patch=1,EE,10682114,extended,0000000F
 patch=1,EE,10682116,extended,0000000F
 patch=1,EE,10682118,extended,0000000F
 
-//Genesic halo
+[Genesic halo]
 patch=1,EE,002F9E64,extended,00000005
 patch=1,EE,102F9E66,extended,000007D0
 patch=1,EE,202F9E68,extended,012C07D0

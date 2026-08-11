@@ -1,8 +1,8 @@
-//Cheats/Asunaro Player Ability Points UP Change 0pts Press L1 99pts Press R1 When you finish the distribution of points 0pts Press L1
+[Cheats/Asunaro Player Ability Points UP Change 0pts Press L1 99pts Press R1 When you finish the distribution of points 0pts Press L1]
 patch=1,EE,D026A09A,extended,00000400
 patch=1,EE,0026BE60,extended,00000000
 patch=1,EE,D026A09A,extended,00000800
 patch=1,EE,0026BE60,extended,00000063
 
-//Cheats/Acquired Asunaro Number 999999
+[Cheats/Acquired Asunaro Number 999999]
 patch=1,EE,2012DDC0,extended,000F423F

@@ -1,11 +1,11 @@
 gametitle=MVP Baseball 2005 SLUS-21135
-//Owner's Mode infinte Bank
+[Owner's Mode infinte Bank]
 patch=1,EE,2104E868,extended,4C3EBC20
 
-//Profile 1 Max MVP Points 
+[Profile 1 Max MVP Points]
 patch=1,EE,20FFC520,extended,FFFFFFFF
 
-//Profile 1  Unlock All Rewards 
+[Profile 1  Unlock All Rewards]
 patch=1,EE,200C02D0,extended,2401FFFF
 patch=1,EE,200C02D4,extended,ACC10054
 patch=1,EE,200C02D8,extended,ACC10058

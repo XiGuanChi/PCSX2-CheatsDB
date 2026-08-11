@@ -1,5 +1,5 @@
 gametitle=Alien Hominid SLUS-21090
-//Infinite Lives (All Players)
+[Infinite Lives (All Players)]
 patch=1,EE,200C0220,extended,24010009
 patch=1,EE,200C0224,extended,54A00001
 patch=1,EE,200C0228,extended,ACA10008
@@ -7,23 +7,23 @@ patch=1,EE,200C022C,extended,03E00008
 patch=1,EE,200C0230,extended,0040A82D
 patch=1,EE,201447A4,extended,0C030088
 
-//Infinite Credits (All Players)
+[Infinite Credits (All Players)]
 patch=1,EE,20145100,extended,24020063
 patch=1,EE,20145104,extended,1000012C
 patch=1,EE,20145108,extended,ACA20008
 
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20144E64,extended,00000000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,20127568,extended,00000000
 
-//Unlock All Mini Games
+[Unlock All Mini Games]
 patch=1,EE,00506603,extended,00000001
 patch=1,EE,20506604,extended,01010101
 
-//Unlock All Hats
+[Unlock All Hats]
 patch=1,EE,005065D3,extended,00000001
 patch=1,EE,405065D4,extended,00070001
 patch=1,EE,01010101,extended,00000000

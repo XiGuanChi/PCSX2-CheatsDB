@@ -1,18 +1,18 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,1069E058,extended,000000C8
 patch=1,EE,1069E070,extended,000000C8
 
-//Cheats/Main Character Max Health
+[Cheats/Main Character Max Health]
 patch=1,EE,0062E81A,extended,00000005
 
-//Cheats/Main Character Max Strength
+[Cheats/Main Character Max Strength]
 patch=1,EE,0062E81E,extended,00000005
 
-//Cheats/Main Character Max Defense Power
+[Cheats/Main Character Max Defense Power]
 patch=1,EE,0062E822,extended,00000005
 
-//Cheats/Main Character Max Mental Strength
+[Cheats/Main Character Max Mental Strength]
 patch=1,EE,0062E826,extended,00000005
 
-//Cheats/Main Character Max Achievement
+[Cheats/Main Character Max Achievement]
 patch=1,EE,0062E82A,extended,00000005

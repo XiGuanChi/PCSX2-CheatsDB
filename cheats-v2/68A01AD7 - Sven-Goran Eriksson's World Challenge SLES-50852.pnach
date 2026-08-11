@@ -1,25 +1,25 @@
 gametitle=Sven-Goran Eriksson's World Challenge SLES-50852
-//Away team score 0: sel+L2
+[Away team score 0: sel+L2]
 patch=1,EE,D02C2B00,extended,0000FEFE
 patch=1,EE,00281012,extended,00000000
 
-//Away team score 99: sel+R2
+[Away team score 99: sel+R2]
 patch=1,EE,D02C2B00,extended,0000FDFE
 patch=1,EE,00281012,extended,00000063
 
-//Home team score 0: sel+up
+[Home team score 0: sel+up]
 patch=1,EE,D02C2B00,extended,0000FFEE
 patch=1,EE,00281010,extended,00000000
 
-//Home team score 99: sel+down
+[Home team score 99: sel+down]
 patch=1,EE,D02C2B00,extended,0000FFBE
 patch=1,EE,00281010,extended,00000063
 
-//Go to half time: L1+R1+R2+L2
+[Go to half time: L1+R1+R2+L2]
 patch=1,EE,D02C2B00,extended,0000F0FF
 patch=1,EE,102811A8,extended,00003A00
 
-//Dumb AI
+[Dumb AI]
 patch=1,EE,2015F90C,extended,03E00008
 patch=1,EE,2015F910,extended,00000000
 patch=1,EE,20160228,extended,03E00008

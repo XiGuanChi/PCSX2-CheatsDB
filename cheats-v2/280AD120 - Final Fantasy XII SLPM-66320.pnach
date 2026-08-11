@@ -1,37 +1,37 @@
 gametitle=Final Fantasy XII SLPM-66320
-//Press select to LP999999
+[Press select to LP999999]
 
-//Van (1st person)
+[Van (1st person)]
 patch=1,EE,D05A32DC,extended,0000FFFE
 patch=1,EE,20581A98,extended,0001869F
 
-//Ashe (second person)
+[Ashe (second person)]
 patch=1,EE,D05A32DC,extended,0000FFFE
 patch=1,EE,20581C5C,extended,0001869F
 
-//Fran (third person)
+[Fran (third person)]
 patch=1,EE,D05A32DC,extended,0000FFFE
 patch=1,EE,20581E20,extended,0001869F
 
-//Balflare (4th person)
+[Balflare (4th person)]
 patch=1,EE,D05A32DC,extended,0000FFFE
 patch=1,EE,20581FE4,extended,0001869F
 
-//Bash (fifth person)
+[Bash (fifth person)]
 patch=1,EE,D05A32DC,extended,0000FFFE
 patch=1,EE,205821A8,extended,0001869F
 
-//Pannero (6th person)
+[Pannero (6th person)]
 patch=1,EE,D05A32DC,extended,0000FFFE
 patch=1,EE,2058236C,extended,0001869F
 
-//Required code
+[Required code]
 patch=1,EE,2035FEA8,extended,0803F800
 patch=1,EE,200FE500,extended,3C03004F
 patch=1,EE,200FE504,extended,3C0205F5
 patch=1,EE,200FE508,extended,080D7FAC
 
-//Possess all consumable items
+[Possess all consumable items]
 patch=1,EE,200FE084,extended,3C020058
 patch=1,EE,200FE088,extended,3442B000
 patch=1,EE,200FE08C,extended,24050040
@@ -47,7 +47,7 @@ patch=1,EE,200FE0B0,extended,24420002
 patch=1,EE,200FE0B4,extended,24C60001
 patch=1,EE,200FE0B8,extended,14C5FFF9
 
-//Possess all weapons
+[Possess all weapons]
 patch=1,EE,200FE0C0,extended,3C020058
 patch=1,EE,200FE0C4,extended,3442B000
 patch=1,EE,200FE0C8,extended,240500C8
@@ -63,7 +63,7 @@ patch=1,EE,200FE0EC,extended,24420002
 patch=1,EE,200FE0F0,extended,24C60001
 patch=1,EE,200FE0F4,extended,14C5FFF9
 
-//Possess all skills
+[Possess all skills]
 patch=1,EE,200FE000,extended,3C020058
 patch=1,EE,200FE004,extended,2401FFFF
 patch=1,EE,200FE008,extended,AC41677C
@@ -77,7 +77,7 @@ patch=1,EE,200FE024,extended,24420002
 patch=1,EE,200FE028,extended,24C60001
 patch=1,EE,200FE034,extended,14C5FFFA
 
-//Possess all magic
+[Possess all magic]
 patch=1,EE,200FE03C,extended,3C020058
 patch=1,EE,200FE040,extended,2401FFFF
 patch=1,EE,200FE044,extended,AC416770

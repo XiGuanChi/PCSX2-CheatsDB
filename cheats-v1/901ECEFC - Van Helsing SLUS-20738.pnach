@@ -1,48 +1,48 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0240,extended,24840050
 patch=1,EE,200C0244,extended,3C014348
 patch=1,EE,200C0248,extended,03E00008
 patch=1,EE,200C024C,extended,AC810004
 patch=1,EE,201C5ABC,extended,0C030090
 
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,200C0230,extended,24840050
 patch=1,EE,200C0234,extended,3C014348
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,200C023C,extended,AC810008
 patch=1,EE,201C5A98,extended,0C03008C
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2015C4C8,extended,00000000
 
-//Cheats/Infinite Finishing Moves
+[Cheats/Infinite Finishing Moves]
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,AC820334
 patch=1,EE,2015C518,extended,0803008A
 patch=1,EE,2015C51C,extended,24020005
 
-//Cheats/Max Finishing Moves
+[Cheats/Max Finishing Moves]
 patch=1,EE,200C0220,extended,03E00008
 patch=1,EE,200C0224,extended,AC820338
 patch=1,EE,2015C568,extended,08030088
 patch=1,EE,2015C56C,extended,24020005
 
-//Cheats/Infinite Item Usage
+[Cheats/Infinite Item Usage]
 patch=1,EE,2019DDBC,extended,00000000
 
-//Cheats/Infinite Power Glyphs
+[Cheats/Infinite Power Glyphs]
 patch=1,EE,102E7F38,extended,0000FFFF
 
-//Cheats/1 Hit Death Enemies
+[Cheats/1 Hit Death Enemies]
 patch=1,EE,200C0250,extended,3C01C7C4
 patch=1,EE,200C0254,extended,0804D1B6
 patch=1,EE,200C0258,extended,44816000
 patch=1,EE,20146F38,extended,0C030094
 
-//Cheats/Unlock All Cheats
+[Cheats/Unlock All Cheats]
 patch=1,EE,2019FFB0,extended,24100001
 
-//Cheats/Enable Debug Menus L3 + D-Pad Up for Debug Cheat Menu.L3 + D-Pad Right for Debug Room Menu.L3 + D-Pad Left for Debug Spawn Menu.L3 + D-Pad Down for normal pause menu.
+[Cheats/Enable Debug Menus L3 + D-Pad Up for Debug Cheat Menu.L3 + D-Pad Right for Debug Room Menu.L3 + D-Pad Left for Debug Spawn Menu.L3 + D-Pad Down for normal pause menu.]
 patch=1,EE,D0351302,extended,0000FFEB
 patch=1,EE,001D362C,extended,00000002
 patch=1,EE,D0351302,extended,0000FFDB

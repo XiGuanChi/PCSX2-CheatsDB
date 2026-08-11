@@ -1,15 +1,15 @@
 gametitle=Master Rally SLES-50906
-//Disable Engine Damage
+[Disable Engine Damage]
 patch=1,EE,201411AC,extended,AE200018
 
-//Disable Gear Damage 
+[Disable Gear Damage]
 patch=1,EE,20141224,extended,AE200020
 
-//Disable Steering Damage by Codejunkies
+[Disable Steering Damage by Codejunkies]
 patch=1,EE,20141170,extended,AE200014
 
-//Disable Suspension Damage by Codejunkies
+[Disable Suspension Damage by Codejunkies]
 patch=1,EE,201411E8,extended,AE20001C
 
-//Disable Tyres Damage by Codejunkies
+[Disable Tyres Damage by Codejunkies]
 patch=1,EE,20141260,extended,AE200024

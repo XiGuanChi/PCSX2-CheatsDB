@@ -1,21 +1,21 @@
-//Cheats/Required Code Must Be On
+[Cheats/Required Code Must Be On]
 patch=1,EE,200EE000,extended,3C080043
 patch=1,EE,200EE004,extended,0100580A
 patch=1,EE,200EE700,extended,03E00008
 patch=1,EE,20124B60,extended,0803B800
 
-//Cheats/Player 1 Infinite Health
+[Cheats/Player 1 Infinite Health]
 patch=1,EE,105170BC,extended,000000C0
 patch=1,EE,105170BE,extended,00000C00
 
-//Cheats/Player 1 Infinite Musou
+[Cheats/Player 1 Infinite Musou]
 patch=1,EE,105170C2,extended,000000C0
 patch=1,EE,105170C4,extended,00000C00
 
-//Cheats/Player 1 Infinite Arrows
+[Cheats/Player 1 Infinite Arrows]
 patch=1,EE,0053809C,extended,00000063
 
-//Cheats/Infinite Health and Musou In Battle
+[Cheats/Infinite Health and Musou In Battle]
 patch=1,EE,200EF000,extended,845301DC
 patch=1,EE,200EF004,extended,00131900
 patch=1,EE,200EF008,extended,00129100
@@ -25,16 +25,16 @@ patch=1,EE,200EF014,extended,845201E2
 patch=1,EE,200EF018,extended,0805E036
 patch=1,EE,201780D0,extended,0803BC00
 
-//Cheats/Max Ability Gauge
+[Cheats/Max Ability Gauge]
 patch=1,EE,201B8E1C,extended,24630000
 
-//Cheats/Max Martial Arts Points All Models
+[Cheats/Max Martial Arts Points All Models]
 patch=1,EE,20437110,extended,0001869F
 
-//Cheats/99 Bows and Arrows
+[Cheats/99 Bows and Arrows]
 patch=1,EE,0053809C,extended,00000063
 
-//Cheats/All Character Status Max
+[Cheats/All Character Status Max]
 patch=1,EE,200EE040,extended,0100580A
 patch=1,EE,200EE044,extended,2409002E
 patch=1,EE,200EE048,extended,240A00F0
@@ -47,16 +47,16 @@ patch=1,EE,200EE060,extended,2529FFFF
 patch=1,EE,200EE064,extended,1520FFF8
 patch=1,EE,200EE068,extended,256B0018
 
-//Cheats/No Loss Of Health + One Hit Kill ON 1P officers only
+[Cheats/No Loss Of Health + One Hit Kill ON 1P officers only]
 patch=1,EE,201B89F0,extended,14800003
 patch=1,EE,201B8A1C,extended,04410001
 
-//Cheats/Unlock All Special Items
+[Cheats/Unlock All Special Items]
 patch=1,EE,1043783E,extended,00000101
 patch=1,EE,20437840,extended,01010101
 patch=1,EE,10437844,extended,00000101
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,200EE014,extended,2409002A
 patch=1,EE,200EE01C,extended,240A0001
 patch=1,EE,200EE020,extended,A16A70E8

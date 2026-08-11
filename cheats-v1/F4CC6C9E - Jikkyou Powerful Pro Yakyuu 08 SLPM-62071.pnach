@@ -1,65 +1,65 @@
-//Cheats/Max Experience Value
+[Cheats/Max Experience Value]
 patch=1,EE,206357EC,extended,00FF00FF
 patch=1,EE,206357F0,extended,00FF00FF
 patch=1,EE,006357F4,extended,000000FF
 
-//Cheats/Max Stamina
+[Cheats/Max Stamina]
 patch=1,EE,006357A2,extended,000000A0
 patch=1,EE,006357A4,extended,000000A0
 
-//Cheats/Max Motivation
+[Cheats/Max Motivation]
 patch=1,EE,006357A6,extended,00000004
 
-//Cheats/Max Experience Points
+[Cheats/Max Experience Points]
 patch=1,EE,006357EE,extended,000000FF
 patch=1,EE,006357EC,extended,000000FF
 patch=1,EE,006357F0,extended,000000FF
 patch=1,EE,006357F6,extended,000000FF
 patch=1,EE,006357F4,extended,000000FF
 
-//Cheats/Max Beat
+[Cheats/Max Beat]
 patch=1,EE,0063574D,extended,00000007
 
-//Cheats/Max Power
+[Cheats/Max Power]
 patch=1,EE,0063574E,extended,000000FF
 
-//Cheats/Max Running Ability
+[Cheats/Max Running Ability]
 patch=1,EE,00635750,extended,0000000F
 
-//Cheats/Max Shoulder Strength
+[Cheats/Max Shoulder Strength]
 patch=1,EE,0063574F,extended,0000000F
 
-//Cheats/Max Defense
+[Cheats/Max Defense]
 patch=1,EE,00635751,extended,0000000F
 
-//Cheats/Max Trajectory Type
+[Cheats/Max Trajectory Type]
 patch=1,EE,0063575F,extended,00000004
 
-//Cheats/Max Ball Speed
+[Cheats/Max Ball Speed]
 patch=1,EE,00635778,extended,000000A0
 
-//Cheats/Max Control
+[Cheats/Max Control]
 patch=1,EE,0063577A,extended,000000FF
 
-//Cheats/Max Stamina
+[Cheats/Max Stamina]
 patch=1,EE,0063577B,extended,000000FF
 
-//Cheats/Max Slider
+[Cheats/Max Slider]
 patch=1,EE,0063577C,extended,00000007
 
-//Cheats/Max Curve
+[Cheats/Max Curve]
 patch=1,EE,0063577D,extended,00000007
 
-//Cheats/Max Fork
+[Cheats/Max Fork]
 patch=1,EE,0063577E,extended,00000007
 
-//Cheats/Max Sinker
+[Cheats/Max Sinker]
 patch=1,EE,0063577F,extended,00000007
 
-//Cheats/Max Shoot
+[Cheats/Max Shoot]
 patch=1,EE,00635780,extended,00000007
 
-//Cheats/Max Fielder Special Ability
+[Cheats/Max Fielder Special Ability]
 patch=1,EE,0063580E,extended,00000003
 patch=1,EE,0063580C,extended,00000001
 patch=1,EE,00635812,extended,00000003
@@ -95,7 +95,7 @@ patch=1,EE,00635856,extended,00000001
 patch=1,EE,00635890,extended,00000001
 patch=1,EE,006358A4,extended,00000001
 
-//Cheats/Max Pitcher Special Ability
+[Cheats/Max Pitcher Special Ability]
 patch=1,EE,0063580C,extended,00000097
 patch=1,EE,00635862,extended,00000001
 patch=1,EE,00635860,extended,00000001
@@ -119,14 +119,14 @@ patch=1,EE,00635856,extended,00000001
 patch=1,EE,00635890,extended,00000001
 patch=1,EE,006358A4,extended,00000001
 
-//Cheats/Press L3 Home run
+[Cheats/Press L3 Home run]
 patch=1,EE,D028AE10,extended,00000200
 patch=1,EE,10E426A6,extended,0000C000
 patch=1,EE,D028AE10,extended,00000200
 patch=1,EE,10E426AA,extended,00003F00
 
 
-//Cheats/Unlock All Stamp Cards
+[Cheats/Unlock All Stamp Cards]
 patch=1,EE,106358AA,extended,00000A0A
 patch=1,EE,206358AC,extended,0A0A0A0A
 patch=1,EE,206358B0,extended,0A0A0A0A

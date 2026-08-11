@@ -1,7 +1,7 @@
-//Cheats/Max Money 9999999
+[Cheats/Max Money 9999999]
 patch=1,EE,203FD9E8,extended,00980967
 
-//Cheats/Necessary Code
+[Cheats/Necessary Code]
 patch=1,EE,201A0874,extended,0803E000
 patch=1,EE,200F8000,extended,12400021
 patch=1,EE,200F8008,extended,3C020049
@@ -9,7 +9,7 @@ patch=1,EE,200F800C,extended,84428CF0
 patch=1,EE,200F8080,extended,0806821F
 patch=1,EE,200F8088,extended,08068255
 
-//Cheats/Experience Value 250 Main Point Necessary Code Press R2 In The Map Picture It Adjusts Cursor To Unit
+[Cheats/Experience Value 250 Main Point Necessary Code Press R2 In The Map Picture It Adjusts Cursor To Unit]
 patch=1,EE,200F8010,extended,30410002
 patch=1,EE,200F8014,extended,10200002
 patch=1,EE,200F8018,extended,240300FA

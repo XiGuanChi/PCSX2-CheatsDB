@@ -1,23 +1,23 @@
 gametitle=Rygar - The Legendary Adventure SLUS-20471
-//max.Life
+[max.Life]
 patch=1,EE,204B12F0,extended,0000270F
 
-//Infinite Life
+[Infinite Life]
 patch=1,EE,204B12F4,extended,0000270F
 
-//Max Icol
+[Max Icol]
 patch=1,EE,204B12F8,extended,0000270F
 
-//Infinite Icol
+[Infinite Icol]
 patch=1,EE,204B12FC,extended,0000270F
 
-//Max Attack
+[Max Attack]
 patch=1,EE,204B1304,extended,000003E7
 
-//Max Defense
+[Max Defense]
 patch=1,EE,204B1308,extended,000003E7
 
-//Music Complete
+[Music Complete]
 patch=1,EE,104AC2EE,extended,0000FFFF
 patch=1,EE,204AC2F0,extended,FFFFFFFF
 patch=1,EE,204AC2F4,extended,FFFFFFFF
@@ -27,7 +27,7 @@ patch=1,EE,204AC304,extended,FFFFFFFF
 patch=1,EE,104AC308,extended,0000FFFF
 patch=1,EE,004AC30A,extended,000000FF
 
-//Pictures Complete 
+[Pictures Complete]
 patch=1,EE,004AC30B,extended,000000FF
 patch=1,EE,204AC30C,extended,FFFFFFFF
 patch=1,EE,204AC310,extended,FFFFFFFF
@@ -36,7 +36,7 @@ patch=1,EE,204AC318,extended,FFFFFFFF
 patch=1,EE,204AC31C,extended,FFFFFFFF
 patch=1,EE,104AC320,extended,0000FFFF
 
-//Theater Complete 
+[Theater Complete]
 patch=1,EE,204AC2D8,extended,FFFFFFFF
 patch=1,EE,204AC2DC,extended,FFFFFFFF
 patch=1,EE,204AC2E0,extended,FFFFFFFF

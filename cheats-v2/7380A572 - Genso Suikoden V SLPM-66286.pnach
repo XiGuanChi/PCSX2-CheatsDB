@@ -1,16 +1,16 @@
 gametitle=Genso Suikoden V SLPM-66286
-//Max Gold
+[Max Gold]
 patch=1,EE,203697C4,extended,00000000
 
-//Max SP
+[Max SP]
 patch=1,EE,20369834,extended,00000000
 
-//Everyone hp 999
+[Everyone hp 999]
 patch=1,EE,202CCE70,extended,00000000
 patch=1,EE,202CF960,extended,00000000
 patch=1,EE,202CFB80,extended,00000000
 patch=1,EE,202D0058,extended,00000000
 patch=1,EE,202D034C,extended,00000000
 
-//Max Common SP 
+[Max Common SP]
 patch=1,EE,20984EF4,extended,000F423F

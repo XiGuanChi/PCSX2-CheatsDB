@@ -1,16 +1,16 @@
 gametitle=Love Doll -  Lovely Idol SLPM-65968
-//All CGs 
+[All CGs]
 patch=1,EE,20192EB0,extended,FFFFFFFF
 patch=1,EE,20192EB4,extended,FFFFFFFF
 patch=1,EE,20192EB8,extended,FFFFFFFF
 patch=1,EE,10192EBC,extended,0000FFFF
 patch=1,EE,00192EBE,extended,000000FF
 
-//All Endings + Omake
+[All Endings + Omake]
 patch=1,EE,40192ED4,extended,00090001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-// Press L3 for Texture Viewer, R3 to Disable 
+[Press L3 for Texture Viewer, R3 to Disable]
 patch=1,EE,1013D2C4,extended,0000D9C0
 patch=1,EE,10136740,extended,00008E98
 patch=1,EE,D05A9282,extended,0000FFFD

@@ -1,181 +1,181 @@
 gametitle=Alter Echo SLUS-20465
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,0806192A
 patch=1,EE,200C0224,extended,E44100B8
 patch=1,EE,2011BCC0,extended,0C030088
 
-//Infinite Double Jumps
+[Infinite Double Jumps]
 patch=1,EE,20211C90,extended,24030001
 
-//Infinite Special Attacks
+[Infinite Special Attacks]
 patch=1,EE,20210690,extended,00000000
 
-//Quick Plasm Gain
+[Quick Plasm Gain]
 patch=1,EE,1034E39C,extended,0000FFFF
 
-//Max Plasm
+[Max Plasm]
 patch=1,EE,2034E39C,extended,05F5E0FF
 patch=1,EE,2034E3A0,extended,4CBEBC1F
 patch=1,EE,203C51EC,extended,05F5E0FF
 
-//Buying New Abilities Cost
+[Buying New Abilities Cost]
 patch=1,EE,2029D270,extended,00000000
 
-//Buy New Abilities With No Plasma
+[Buy New Abilities With No Plasma]
 patch=1,EE,1029D41E,extended,00001000
 
-//Have All Abilities
+[Have All Abilities]
 patch=1,EE,408485D4,extended,00310001
 patch=1,EE,00000002,extended,00000000
 
-//== Load Save For Level Modifier Codes ==
+[== Load Save For Level Modifier Codes ==]
 
-//RebirthEcho
+[RebirthEcho]
 patch=1,EE,203C51F4,extended,00000001
 
-//RebirthGunplay
+[RebirthGunplay]
 patch=1,EE,203C51F4,extended,00000002
 
-//RebirthStealth
+[RebirthStealth]
 patch=1,EE,203C51F4,extended,00000003
 
-//RebirthTime
+[RebirthTime]
 patch=1,EE,203C51F4,extended,00000004
 
-//RebirthMaster
+[RebirthMaster]
 patch=1,EE,203C51F4,extended,00000005
 
-//SurfaceSearch
+[SurfaceSearch]
 patch=1,EE,203C51F4,extended,00000006
 
-//SurfaceArana
+[SurfaceArana]
 patch=1,EE,203C51F4,extended,00000007
 
-//SurfaceMaster
+[SurfaceMaster]
 patch=1,EE,203C51F4,extended,00000008
 
-//HuntedReunion
+[HuntedReunion]
 patch=1,EE,203C51F4,extended,00000009
 
-//HuntedGunship
+[HuntedGunship]
 patch=1,EE,203C51F4,extended,0000000A
 
-//HuntedPursuit
+[HuntedPursuit]
 patch=1,EE,203C51F4,extended,0000000B
 
-//HuntedShowdown
+[HuntedShowdown]
 patch=1,EE,203C51F4,extended,0000000C
 
-//HuntedMaster
+[HuntedMaster]
 patch=1,EE,203C51F4,extended,0000000D
 
-//PowerTransmit
+[PowerTransmit]
 patch=1,EE,203C51F4,extended,0000000E
 
-//PowerKess
+[PowerKess]
 patch=1,EE,203C51F4,extended,0000000F
 
-//PowerMaster
+[PowerMaster]
 patch=1,EE,203C51F4,extended,00000010
 
-//TransitStome
+[TransitStome]
 patch=1,EE,203C51F4,extended,00000011
 
-//TransitAmbush
+[TransitAmbush]
 patch=1,EE,203C51F4,extended,00000012
 
-//TransitSeedlings
+[TransitSeedlings]
 patch=1,EE,203C51F4,extended,00000013
 
-//TransitObstacles
+[TransitObstacles]
 patch=1,EE,203C51F4,extended,00000014
 
-//TransitCooperation
+[TransitCooperation]
 patch=1,EE,203C51F4,extended,00000015
 
-//TransitMaster
+[TransitMaster]
 patch=1,EE,203C51F4,extended,00000016
 
-//SpaceportPlans 1
+[SpaceportPlans 1]
 patch=1,EE,203C51F4,extended,00000017
 
-//SpaceportPlans 2
+[SpaceportPlans 2]
 patch=1,EE,203C51F4,extended,00000018
 
-//SpaceportShuttle
+[SpaceportShuttle]
 patch=1,EE,203C51F4,extended,00000019
 
-//BrainPlea
+[BrainPlea]
 patch=1,EE,203C51F4,extended,0000001A
 
-//BrainUnderneath
+[BrainUnderneath]
 patch=1,EE,203C51F4,extended,0000001B
 
-//BrainGherran
+[BrainGherran]
 patch=1,EE,203C51F4,extended,0000001C
 
-//BrainToxic 1
+[BrainToxic 1]
 patch=1,EE,203C51F4,extended,0000001D
 
-//BrainToxic 2
+[BrainToxic 2]
 patch=1,EE,203C51F4,extended,0000001E
 
-//BrainKess
+[BrainKess]
 patch=1,EE,203C51F4,extended,0000001F
 
-//BrainMaster
+[BrainMaster]
 patch=1,EE,203C51F4,extended,00000020
 
-//RescueArana
+[RescueArana]
 patch=1,EE,203C51F4,extended,00000021
 
-//RescueForcefield
+[RescueForcefield]
 patch=1,EE,203C51F4,extended,00000022
 
-//RescueSacrifice
+[RescueSacrifice]
 patch=1,EE,203C51F4,extended,00000023
 
-//BreachLanding
+[BreachLanding]
 patch=1,EE,203C51F4,extended,00000024
 
-//BreachBarriers 1
+[BreachBarriers 1]
 patch=1,EE,203C51F4,extended,00000025
 
-//BreachBarriers 2
+[BreachBarriers 2]
 patch=1,EE,203C51F4,extended,00000026
 
-//BreachApproach
+[BreachApproach]
 patch=1,EE,203C51F4,extended,00000027
 
-//BreachElevator
+[BreachElevator]
 patch=1,EE,203C51F4,extended,00000028
 
-//BreachShield 1
+[BreachShield 1]
 patch=1,EE,203C51F4,extended,00000029
 
-//BreachShield 2
+[BreachShield 2]
 patch=1,EE,203C51F4,extended,0000002A
 
-//BreachMaster
+[BreachMaster]
 patch=1,EE,203C51F4,extended,0000002B
 
-//CitadelAlone
+[CitadelAlone]
 patch=1,EE,203C51F4,extended,0000002C
 
-//CitadelAscent
+[CitadelAscent]
 patch=1,EE,203C51F4,extended,0000002D
 
-//CitadelAssault
+[CitadelAssault]
 patch=1,EE,203C51F4,extended,0000002E
 
-//CitadelInside
+[CitadelInside]
 patch=1,EE,203C51F4,extended,0000002F
 
-//CitadelGuardian
+[CitadelGuardian]
 patch=1,EE,203C51F4,extended,00000030
 
-//CitadelPaavo
+[CitadelPaavo]
 patch=1,EE,203C51F4,extended,00000031
 
-//CitadelEnding
+[CitadelEnding]
 patch=1,EE,203C51F4,extended,00000032

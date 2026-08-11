@@ -1,11 +1,11 @@
 gametitle=Conan PAL-M SLES-52451 9A206BA3
 
-//50/60 FPS
+[50/60 FPS]
 author=GamingDragon93
 description=Might need EE Overclock.
 patch=1,EE,20107FDC,extended,2C630001 //2C630002 fps 1
 
-//480p Mode
+[480p Mode]
 gsinterlacemode=1
 author=GamingDragon93
 description=SDTV 480p mode at start. Might need enable EE Overclock to be stable.

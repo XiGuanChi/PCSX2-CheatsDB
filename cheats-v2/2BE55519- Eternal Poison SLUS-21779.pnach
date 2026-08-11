@@ -1,11 +1,11 @@
 gametitle=Eternal Poison SLUS-21779
-//Max Money
+[Max Money]
 patch=1,EE,204CBD68,extended,0098967F
 
-//Infinite  PP
+[Infinite  PP]
 patch=1,EE,204CBDA0,extended,0098967F
 
-//In Battle Infinite HP Select+Down = On When u enter battle  Select+Up = Off When your Leaving Battle
+[In Battle Infinite HP Select+Down = On When u enter battle  Select+Up = Off When your Leaving Battle]
 patch=1,EE,200A0000,extended,3C01004E
 patch=1,EE,200A0004,extended,8C211384
 patch=1,EE,200A0008,extended,3C02004E
@@ -23,11 +23,11 @@ patch=1,EE,2036946C,extended,08028000
 patch=1,EE,D0621B82,extended,0000FFEE
 patch=1,EE,2036946C,extended,03E00008
 
-//Activator for Have All Codes (Must Be On)
+[Activator for Have All Codes (Must Be On)]
 patch=1,EE,202775AC,extended,0803B800
 patch=1,EE,200EE18C,extended,03E00008
 
-//Have All Weapons
+[Have All Weapons]
 patch=1,EE,200EE000,extended,3C08004D
 patch=1,EE,200EE004,extended,24090001
 patch=1,EE,200EE008,extended,240A0096
@@ -51,7 +51,7 @@ patch=1,EE,200EE068,extended,2718FFFF
 patch=1,EE,200EE06C,extended,25CE0006
 patch=1,EE,200EE07C,extended,1700FFF9
 
-//Have All Armor
+[Have All Armor]
 patch=1,EE,200EE084,extended,3C08004D
 patch=1,EE,200EE088,extended,24090002
 patch=1,EE,200EE08C,extended,240A002E
@@ -75,7 +75,7 @@ patch=1,EE,200EE0EC,extended,2718FFFF
 patch=1,EE,200EE0F0,extended,25CE0006
 patch=1,EE,200EE100,extended,1700FFF9
 
-//Have All ACC
+[Have All ACC]
 patch=1,EE,200EE108,extended,3C08004D
 patch=1,EE,200EE10C,extended,24090003
 patch=1,EE,200EE110,extended,240A003B

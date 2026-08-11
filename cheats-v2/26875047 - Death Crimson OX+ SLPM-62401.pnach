@@ -1,14 +1,14 @@
 gametitle=Death Crimson OX+ SLPM-62401
-//Credit 99
+[Credit 99]
 patch=1,EE,004110F0,extended,00000063
 
-//Life does not decrease
+[Life does not decrease]
 patch=1,EE,10CCDC76,extended,000040A0
 patch=1,EE,10CCDC7A,extended,0000A0A0
 
-//Clear on stage After pressing the L3 button
+[Clear on stage After pressing the L3 button]
 patch=1,EE,D0CD6A82,extended,0000FFFD
 patch=1,EE,00411106,extended,000000FF
 
-//Spatula
+[Spatula]
 patch=1,EE,00411061,extended,0000000A

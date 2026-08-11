@@ -1,55 +1,55 @@
 gametitle=Onimusha - Dawn of Dreams SLES-82038-9
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,208E72DC,extended,05F00000
 patch=1,EE,208E72E0,extended,05F00000
 
-//Infinite Health & Magic
+[Infinite Health & Magic]
 patch=1,EE,202D4F80,extended,2416270F
 patch=1,EE,202D506C,extended,A6360000
 patch=1,EE,202D509C,extended,A6360006
 
 
-//Soki Infinite LP
+[Soki Infinite LP]
 patch=1,EE,10939c00,extended,0000270f
 patch=1,EE,10939c02,extended,0000270f
 
-//Soki Infinite MP
+[Soki Infinite MP]
 patch=1,EE,10939c06,extended,0000270f
 patch=1,EE,10939c08,extended,0000270f
 
-//Jubei Infinite LP
+[Jubei Infinite LP]
 patch=1,EE,10939c64,extended,0000270f
 patch=1,EE,10939c66,extended,0000270f
 
-//Jubei Infinite MP
+[Jubei Infinite MP]
 patch=1,EE,10939c6a,extended,0000270f
 patch=1,EE,10939c6c,extended,0000270f
 
-//Ohatsu Infinite LP
+[Ohatsu Infinite LP]
 patch=1,EE,10939CC8,extended,0000270f
 patch=1,EE,10939CCA,extended,0000270f
 
-//Ohatsu Infinite MP
+[Ohatsu Infinite MP]
 patch=1,EE,10939CCE,extended,0000270f
 patch=1,EE,10939CD0,extended,0000270f
 
-//Roberto Infinite LP
+[Roberto Infinite LP]
 patch=1,EE,10939D2C,extended,0000270f
 patch=1,EE,10939D2E,extended,0000270f
 
-//Roberto Infinite MP
+[Roberto Infinite MP]
 patch=1,EE,10939D32,extended,0000270f
 patch=1,EE,10939D34,extended,0000270f
 
-//Tenkai Infinite LP
+[Tenkai Infinite LP]
 patch=1,EE,10939D90,extended,0000270f
 patch=1,EE,10939D92,extended,0000270f
 
-//Tenkai Infinite MP
+[Tenkai Infinite MP]
 patch=1,EE,10939D96,extended,0000270f
 patch=1,EE,10939D98,extended,0000270f
 
-//Special functions
+[Special functions]
 patch=1,EE,2092C8E8,extended,001003E0
 patch=1,EE,2092C900,extended,004E4B09
 patch=1,EE,2092C904,extended,00511AE2
@@ -63,7 +63,7 @@ patch=1,EE,2093FA4C,extended,02020202
 patch=1,EE,2093FA50,extended,02020202
 patch=1,EE,2093FA54,extended,02020202
 
-//Unlock All Special Content
+[Unlock All Special Content]
 patch=1,EE,2092C8E8,extended,001003E0
 patch=1,EE,2092C900,extended,004E4B09
 patch=1,EE,2092C904,extended,00511AE2

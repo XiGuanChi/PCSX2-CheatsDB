@@ -1,11 +1,11 @@
 gametitle=Dokapon the World SLPM-65750
-//Infinite HP Player 1 (150)
+[Infinite HP Player 1 (150)]
 patch=1,EE,2056C5F0,extended,00000096
 
-//Max Money player 1
+[Max Money player 1]
 patch=1,EE,2056C5F4,extended,05F5E0FF
 
-//Lv99 when Zako is defeated ON with L2 OFF with R2
+[Lv99 when Zako is defeated ON with L2 OFF with R2]
 patch=1,EE,D05373C2,extended,0000FEFF
 patch=1,EE,00182FB4,extended,00000000
 patch=1,EE,D05373C2,extended,0000FDFF

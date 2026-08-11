@@ -1,4 +1,4 @@
-//Cheats/Activate In Game Cheats Infinite Health
+[Cheats/Activate In Game Cheats Infinite Health]
 patch=1,EE,200C0250,extended,96010110
 patch=1,EE,200C0254,extended,34210004
 patch=1,EE,200C0258,extended,A6010110
@@ -6,5 +6,5 @@ patch=1,EE,200C025C,extended,03E00008
 patch=1,EE,200C0260,extended,46000834
 patch=1,EE,2012FF08,extended,0C030094
 
-//Cheats/Infinite Ammo and Grenades All Weapons
+[Cheats/Infinite Ammo and Grenades All Weapons]
 patch=1,EE,20515370,extended,00000001

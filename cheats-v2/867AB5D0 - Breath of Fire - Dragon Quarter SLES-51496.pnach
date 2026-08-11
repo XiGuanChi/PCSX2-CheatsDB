@@ -1,17 +1,17 @@
 gametitle=Breath of Fire - Dragon Quarter SLES-51496
-//Infinite Health All Characters
+[Infinite Health All Characters]
 patch=1,EE,20181B1C,extended,8E030064
 patch=1,EE,20181B20,extended,AE030018
 
-//Infinite AP All Characters
+[Infinite AP All Characters]
 patch=1,EE,20181B7C,extended,9607006A
 patch=1,EE,20181B80,extended,A607001C
 
-//Infinite Save Upon Use
+[Infinite Save Upon Use]
 patch=1,EE,201BEC58,extended,00000000
 
-//1 Hit Kill Baddies
+[1 Hit Kill Baddies]
 patch=1,EE,21013698,extended,24070000
 
-//Infinite Zennys
+[Infinite Zennys]
 patch=1,EE,20769928,extended,0050FFAB

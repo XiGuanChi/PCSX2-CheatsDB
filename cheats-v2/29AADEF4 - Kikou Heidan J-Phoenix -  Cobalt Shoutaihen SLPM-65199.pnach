@@ -1,23 +1,23 @@
 gametitle=Kikou Heidan J-Phoenix -  Cobalt Shoutaihen SLPM-65199
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,202FFA10,extended,000F423F
 
-//Infinite  HP
+[Infinite  HP]
 patch=1,EE,201F5814,extended,00041002
 patch=1,EE,201F5818,extended,A6E20002
 patch=1,EE,201F582C,extended,1000001A
 
-//Infinite  
+[Infinite]
 patch=1,EE,201CF970,extended,241A03E7
 patch=1,EE,201CF974,extended,A45A0020
 
-//Infinite   EP
+[Infinite   EP]
 patch=1,EE,201F7204,extended,24087000
 patch=1,EE,201F7208,extended,A4C80004
 patch=1,EE,201F720C,extended,1000002A
 
-//All Parts
-//Unnamed Cheat
+[All Parts]
+[Unnamed Cheat]
 patch=1,EE,4033D5E4,extended,0025000D
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,4033DDCC,extended,0014000C

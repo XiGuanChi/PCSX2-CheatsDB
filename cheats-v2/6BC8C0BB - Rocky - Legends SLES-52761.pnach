@@ -1,11 +1,11 @@
 gametitle=Rocky - Legends SLES-52761
-//Max Funds
+[Max Funds]
 patch=1,EE,2059C264,extended,05F5E0FF
 
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,20440338,extended,3F800000
 patch=1,EE,2044033C,extended,3F800000
 patch=1,EE,20440340,extended,3F800000
 
-//Easy TKO P2
+[Easy TKO P2]
 patch=1,EE,2044218C,extended,00000003

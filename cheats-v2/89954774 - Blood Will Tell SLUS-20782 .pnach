@@ -1,31 +1,31 @@
 gametitle=Blood Will Tell SLUS-20782
-//Infinite Health
+[Infinite Health]
 patch=1,EE,21E9B760,extended,4479C000
 
-//Max Health
+[Max Health]
 patch=1,EE,21E9B75C,extended,4479C000
 
-//Infinite Spirit Usage
+[Infinite Spirit Usage]
 patch=1,EE,2020B9F0,extended,00000000
 patch=1,EE,2020BAF8,extended,00000000
 patch=1,EE,2020BAFC,extended,00000000
 patch=1,EE,2020BB28,extended,00000000
 
-//Max Infinite Spirit
+[Max Infinite Spirit]
 patch=1,EE,2020B66C,extended,00000000
 
-//Player 1 Press L1+Select To Enable Save Anywhere
+[Player 1 Press L1+Select To Enable Save Anywhere]
 patch=1,EE,E002FBFE,extended,01E6D842
 patch=1,EE,201ED1CC,extended,24010001
 patch=1,EE,201ED1D4,extended,A20103BA
 
-//Unlock All Modes/Movie Chapters
+[Unlock All Modes/Movie Chapters]
 patch=1,EE,11E9B42E,extended,00000009
 
-//Unlock All Gallery Concept Art/Movies
+[Unlock All Gallery Concept Art/Movies]
 patch=1,EE,21E9BA20,extended,FFFFFFFF
 patch=1,EE,21E9BA24,extended,FFFFFFFF
 
-//All Chapters
+[All Chapters]
 patch=1,EE,21E9BA20,extended,01010101
 patch=1,EE,21E9BA24,extended,01010101

@@ -1,12 +1,12 @@
 gametitle=Garfield - Arleene o Sukue! SLPM-66378
-//99 credits
+[99 credits]
 patch=1,EE,01DB8274,extended,00000063
 
-//Physical strength does not decrease
+[Physical strength does not decrease]
 patch=1,EE,11DB8272,extended,00004080
 patch=1,EE,11DB81FA,extended,00004080
 
-//Item 9
+[Item 9]
 patch=1,EE,01DB8278,extended,00000009
 patch=1,EE,016D0D10,extended,00000009
 patch=1,EE,016D0D1C,extended,00000009

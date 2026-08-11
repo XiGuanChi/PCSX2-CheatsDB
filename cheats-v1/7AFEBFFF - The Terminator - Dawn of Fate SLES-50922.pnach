@@ -1,4 +1,4 @@
-//Cheats/Must Be On For Health And Armour
+[Cheats/Must Be On For Health And Armour]
 patch=1,EE,200FFF00,extended,3C030047
 patch=1,EE,200FFF04,extended,8C63E734
 patch=1,EE,200FFF08,extended,3C017F00
@@ -8,18 +8,18 @@ patch=1,EE,200FFF24,extended,24030070
 patch=1,EE,200FFF28,extended,080F4F4C
 patch=1,EE,203D3D2C,extended,0803FFC0
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF1C,extended,AC610040
 
-//Cheats/Infinite Armour
+[Cheats/Infinite Armour]
 patch=1,EE,200FFF20,extended,AC610044
 
-//Cheats/Unlock All Levels Select the level you want to play close but you can play the level Maybe Needs a savegame
+[Cheats/Unlock All Levels Select the level you want to play close but you can play the level Maybe Needs a savegame]
 patch=1,EE,201FC17C,extended,00000000
 
-//Cheats/Unlock All Characters Needs a savegame
+[Cheats/Unlock All Characters Needs a savegame]
 patch=1,EE,20200718,extended,AC830580
 patch=1,EE,20200714,extended,24030001
 
-//Cheats/Unlock All Cheats
+[Cheats/Unlock All Cheats]
 patch=1,EE,202001AC,extended,AC800564

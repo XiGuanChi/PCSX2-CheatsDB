@@ -1,11 +1,11 @@
 gametitle=Shoujo Yoshitsume-Den 2 SLPM-65989
-//Exp. 9999999 After Battle
+[Exp. 9999999 After Battle]
 patch=1,EE,201FBD84,extended,00000000
 
-//EXP max 1 Player
+[EXP max 1 Player]
 patch=1,EE,202E1B50,extended,000F423F
 
-//Being defeated entirely
+[Being defeated entirely]
 patch=1,EE,202E07E0,extended,FFFFFFFF
 patch=1,EE,202E07E4,extended,FFFFFFFF
 patch=1,EE,202E07E8,extended,FFFFFFFF
@@ -17,25 +17,25 @@ patch=1,EE,202E0820,extended,FFFFFFFF
 patch=1,EE,202E0824,extended,FFFFFFFF
 patch=1,EE,202E0830,extended,FFFFFFFF
 
-//1 P score maximum
+[1 P score maximum]
 patch=1,EE,2038F9B8,extended,0098967F
 
-//2 P scores 0
+[2 P scores 0]
 patch=1,EE,2038F9C0,extended,00000000
 
-//3 P scores 0
+[3 P scores 0]
 patch=1,EE,2038F9C8,extended,00000000
 
-//4 P scores 0
+[4 P scores 0]
 patch=1,EE,2038F9D0,extended,00000000
 
-//In nine connected treasure lights reach state
+[In nine connected treasure lights reach state]
 patch=1,EE,2038FDB0,extended,02010101
 patch=1,EE,2038FDB4,extended,06050403
 patch=1,EE,2038FDB8,extended,09080807
 patch=1,EE,1038FDBC,extended,00000909
 
-//All CG gallery 
+[All CG gallery]
 patch=1,EE,203B9F68,extended,00000007
 patch=1,EE,203BA01C,extended,00000007
 patch=1,EE,203BA0D0,extended,00000007
@@ -44,36 +44,36 @@ patch=1,EE,203BA238,extended,00000007
 patch=1,EE,203BA2EC,extended,00000007
 patch=1,EE,203BA3A0,extended,00000007
 
-//Album Full opening
+[Album Full opening]
 patch=1,EE,201DEB24,extended,13E00002
 
-//Movie Full opening
+[Movie Full opening]
 patch=1,EE,201DE150,extended,13E00002
 
-//Event Full opening
+[Event Full opening]
 patch=1,EE,201DDD10,extended,13E00002
 
-//Necessity
+[Necessity]
 patch=1,EE,201CB1A4,extended,10000030
 
-//HP
+[HP]
 patch=1,EE,201CB268,extended,10000000
-//MP
+[MP]
 patch=1,EE,201CB274,extended,10000000
-//AT
+[AT]
 patch=1,EE,201CB27C,extended,2403270F
 patch=1,EE,201CB280,extended,10000000
-//DF
+[DF]
 patch=1,EE,201CB288,extended,2403270F
 patch=1,EE,201CB28C,extended,10000000
-//MA
+[MA]
 patch=1,EE,201CB294,extended,2403270F
 patch=1,EE,201CB298,extended,10000000
-//MD
+[MD]
 patch=1,EE,201CB2A0,extended,2403270F
 patch=1,EE,201CB2A4,extended,10000000
-//SP
+[SP]
 patch=1,EE,201CB2AC,extended,2403270F
 patch=1,EE,201CB2B0,extended,10000000
-//MOV
+[MOV]
 patch=1,EE,201CB2BC,extended,10000000

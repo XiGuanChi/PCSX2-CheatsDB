@@ -1,12 +1,12 @@
-//Cheats/Infinite Courage Meter Points
+[Cheats/Infinite Courage Meter Points]
 patch=1,EE,201CCA28,extended,00000003
 
-//Cheats/Unlock All Database When You View The Database
+[Cheats/Unlock All Database When You View The Database]
 patch=1,EE,20147A64,extended,10000009
 patch=1,EE,20147AD8,extended,240100FF
 patch=1,EE,20147ADC,extended,A0410800
 patch=1,EE,20147AEC,extended,24020001
 
-//Cheats/100% Read Rate for All Database When You Save
+[Cheats/100% Read Rate for All Database When You Save]
 patch=1,EE,201557AC,extended,2403FFFF
 patch=1,EE,201557B0,extended,ACC30000

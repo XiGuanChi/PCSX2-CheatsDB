@@ -1,10 +1,10 @@
 gametitle=Return to Castle Wolfenstein SLES-51450
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201B1024,extended,24010064
 patch=1,EE,201B1028,extended,AE2102BC
 
-//Infinite Ammo No Reload
+[Infinite Ammo No Reload]
 patch=1,EE,201BC4C8,extended,00000000
 
-//Invisible
+[Invisible]
 patch=1,EE,201B2764,extended,00000000

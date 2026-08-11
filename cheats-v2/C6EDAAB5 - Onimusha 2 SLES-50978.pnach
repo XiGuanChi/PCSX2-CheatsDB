@@ -1,9 +1,9 @@
 gametitle=Onimusha 2 SLES-50978
-//Infinite Health
+[Infinite Health]
 patch=1,EE,21849F40,extended,06000600
 
-//Infinite Magic
+[Infinite Magic]
 patch=1,EE,2184C380,extended,06000600
 
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,2184C748,extended,0001869F

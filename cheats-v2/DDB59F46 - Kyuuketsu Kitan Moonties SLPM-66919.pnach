@@ -1,16 +1,16 @@
 gametitle=Kyuuketsu Kitan Moonties SLPM-66919
-//Title CG, Scene, Music can be selected
+[Title CG, Scene, Music can be selected]
 patch=1,EE,102ADEB0,extended,0000FFFF
 
-//Fully open when viewing CG
+[Fully open when viewing CG]
 patch=1,EE,2015B06C,extended,240F00FF
 patch=1,EE,2015B070,extended,A1AF0000
 
-//Fully open when viewing the Scene
+[Fully open when viewing the Scene]
 patch=1,EE,2015B210,extended,240E0001
 patch=1,EE,2015B214,extended,A5EE0000
 
-//Config voice fully open
+[Config voice fully open]
 patch=1,EE,102ADEC6,extended,00000001
 patch=1,EE,402ADEC8,extended,00050001
 patch=1,EE,00010001,extended,00000000

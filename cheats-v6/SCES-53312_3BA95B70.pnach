@@ -2,44 +2,44 @@ gametitle=SoulCalibur III PAL SCES-53312 CRC 3BA95B70
 comment=PCSX2 PNACH for SoulCalibur III PAL (SCES-53312 / 3BA95B70)
 comment=Built for RAVEN by GamingDragon93 - RAW codes from public PS2 cheat sources
 
-//Cheats\Freeze Timer
+[Cheats\Freeze Timer]
 author=GamingDragon93
 description=Friert den Kampf-Timer ein.
 patch=1,EE,201E99C4,extended,10000051
 
-//Cheats\Maximum Cash
+[Cheats\Maximum Cash]
 author=GamingDragon93
 description=Setzt Geld/Cash auf Maximum.
 patch=1,EE,204F3014,extended,05F00000
 
-//Cheats\Player 1 Infinite Health
+[Cheats\Player 1 Infinite Health]
 author=GamingDragon93
 description=Spieler 1 hat unendlich Leben.
 patch=1,EE,204BB6A4,extended,43700000
 patch=1,EE,204BB6B0,extended,43700000
 
-//Cheats\Player 2 Infinite Health
+[Cheats\Player 2 Infinite Health]
 author=GamingDragon93
 description=Spieler 2 hat unendlich Leben.
 patch=1,EE,204D8E24,extended,43700000
 patch=1,EE,204D8E30,extended,43700000
 
-//Cheats\Player 2 Low Health / Easy Win
+[Cheats\Player 2 Low Health / Easy Win]
 author=GamingDragon93
 description=Spieler 2 hat sehr wenig Leben. Praktisch fuer schnelle Siege gegen CPU.
 patch=1,EE,204D8E24,extended,3F800000
 
-//Cheats\Player 1 Low Health
+[Cheats\Player 1 Low Health]
 author=GamingDragon93
 description=Spieler 1 hat wenig Leben. Nur zum Testen aktivieren.
 patch=1,EE,204BB6A4,extended,3F800000
 
-//Cheats\Unlock Characters and Weapons
+[Cheats\Unlock Characters and Weapons]
 author=GamingDragon93
 description=Schaltet Charaktere/Waffen frei. Danach speichern und Cheat wieder deaktivieren.
 patch=1,EE,10509898,extended,00006666
 
-//Cheats\Unlock All Costumes Classes Slots
+[Cheats\Unlock All Costumes Classes Slots]
 author=GamingDragon93
 description=Schaltet Kostueme/Klassen/Slots fuer Character Creation frei. Danach speichern und Cheat wieder deaktivieren.
 patch=1,EE,40509B38,extended,00740001

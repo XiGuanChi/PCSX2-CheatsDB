@@ -1,15 +1,15 @@
 gametitle=Realm of the Dead SLES-54339
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201763F4,extended,240207D0
 patch=1,EE,201763F8,extended,AC820084
 
-//Infinite Special 1
+[Infinite Special 1]
 patch=1,EE,20176404,extended,240203E8
 patch=1,EE,20176408,extended,AC820088
 
-//Infinite Special 2
+[Infinite Special 2]
 patch=1,EE,201763E4,extended,240200FE
 patch=1,EE,201763E8,extended,AC82008C
 
-//Infinite Item Use
+[Infinite Item Use]
 patch=1,EE,2038367C,extended,24830000

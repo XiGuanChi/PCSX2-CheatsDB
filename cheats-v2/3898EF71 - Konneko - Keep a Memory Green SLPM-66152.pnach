@@ -1,9 +1,9 @@
 gametitle=Konneko - Keep a Memory Green SLPM-66152
-//Hold Circle Over New Game for Debug Menu 
+[Hold Circle Over New Game for Debug Menu]
 patch=1,EE,D01FCE02,extended,0000DFFF
 patch=1,EE,20420C50,extended,00000369
 
-//Unlock All CG
+[Unlock All CG]
 patch=1,EE,201FC720,extended,FFFFFFFF
 patch=1,EE,41CFE640,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000

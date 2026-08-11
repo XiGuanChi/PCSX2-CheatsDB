@@ -1,36 +1,36 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20510428,extended,05F5E0FF
 patch=1,EE,2051042C,extended,05F5E0FF
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,3C0142C8
 patch=1,EE,200C0224,extended,AC410300
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,44020000
 patch=1,EE,202D012C,extended,0C030088
 
-//Cheats/Infinite Armor
+[Cheats/Infinite Armor]
 patch=1,EE,200C0230,extended,3C0142C8
 patch=1,EE,200C0234,extended,AC410304
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,200C023C,extended,46000836
 patch=1,EE,202D0328,extended,0C03008C
 
-//Cheats/Infinite Ammo All Weapons
+[Cheats/Infinite Ammo All Weapons]
 patch=1,EE,201A34E8,extended,00000000
 patch=1,EE,201A3508,extended,00000000
 
-//Cheats/Infinite Ammo All Weapons Inside Car
+[Cheats/Infinite Ammo All Weapons Inside Car]
 patch=1,EE,201A2FB4,extended,00000000
 patch=1,EE,201A2FD4,extended,00000000
 
-//Cheats/No Car Damage From Collisions Your Car Only
+[Cheats/No Car Damage From Collisions Your Car Only]
 patch=1,EE,201B3558,extended,00000000
 patch=1,EE,201B3568,extended,00000000
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,202B88F0,extended,03E00008
 patch=1,EE,202B88F4,extended,00000000
 
-//Cheats/Have All Weapons At Safehouse
+[Cheats/Have All Weapons At Safehouse]
 patch=1,EE,00510430,extended,00000064

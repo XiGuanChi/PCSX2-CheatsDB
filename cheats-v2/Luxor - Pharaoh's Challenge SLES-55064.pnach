@@ -1,17 +1,17 @@
 gametitle=Luxor - Pharaoh's Challenge SLES-55064
-//Each coin taken adds one ankh+
+[Each coin taken adds one ankh+]
 patch=1,EE,2011AE88,extended,000000
 
-//9 Ankh Lives
+[9 Ankh Lives]
 patch=1,EE,003a78a4,extended,00000009
 
-//Max score
+[Max score]
 patch=1,EE,203a787c,extended,05f5e100
 
-//9 Ankh Medals
+[9 Ankh Medals]
 patch=1,EE,003a78cc,extended,00000009
 
-//Freeze balls
+[Freeze balls]
 patch=1,EE,2011CF34,extended,460C0000
 patch=1,EE,E0010010,extended,00376BC0
 patch=1,EE,2011CF34,extended,00000000

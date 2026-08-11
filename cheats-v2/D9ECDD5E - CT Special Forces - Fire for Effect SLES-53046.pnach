@@ -1,18 +1,18 @@
 gametitle=CT Special Forces - Fire for Effect SLES-53046
-//All weapons
+[All weapons]
 patch=1,EE,005A1AF0,extended,00000001
 
-//Hostages Invincible
+[Hostages Invincible]
 patch=1,EE,005A1ADF,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,005A1AEF,extended,00000001
 
-//Infinite Vision
+[Infinite Vision]
 patch=1,EE,005A1AE1,extended,00000001
 
-//Player Invincible
+[Player Invincible]
 patch=1,EE,005A1ADE,extended,00000001
 
-//Disable Enemy AI
+[Disable Enemy AI]
 patch=1,EE,005A1AE0,extended,00000001

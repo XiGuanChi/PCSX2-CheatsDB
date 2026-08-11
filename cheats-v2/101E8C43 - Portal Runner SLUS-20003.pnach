@@ -1,35 +1,35 @@
 gametitle=Portal Runner SLUS-20003
-//Infinite Basic Arrows
+[Infinite Basic Arrows]
 patch=1,EE,1028ADBC,extended,00000063
 
-//Infinite Fire Arrows
+[Infinite Fire Arrows]
 patch=1,EE,1028ADC0,extended,00000063
 
-//Infinite Explosive Arrows
+[Infinite Explosive Arrows]
 patch=1,EE,1028ADC4,extended,00000063
 
-//Infinite Lightning Arrows
+[Infinite Lightning Arrows]
 patch=1,EE,1028ADC8,extended,00000063
 
-//Infinite Golden Arrows
+[Infinite Golden Arrows]
 patch=1,EE,1028ADCC,extended,00000063
 
-//Infinite Piercing Arrows
+[Infinite Piercing Arrows]
 patch=1,EE,1028ADD0,extended,00000063
 
-//Infinite Trident Arrows
+[Infinite Trident Arrows]
 patch=1,EE,1028ADD4,extended,00000063
 
-//Infinite Water Arrows
+[Infinite Water Arrows]
 patch=1,EE,1028ADD8,extended,00000063
 
-//Max Jewels
+[Max Jewels]
 patch=1,EE,1028BA40,extended,00000063
 
-//Max Total Jewels
+[Max Total Jewels]
 patch=1,EE,1028BA44,extended,00000063
 
-//Press L3 For Debug Menu, R3 to Disable 
+[Press L3 For Debug Menu, R3 to Disable]
 patch=1,EE,20159E64,extended,AC60FFF4
 patch=1,EE,20159E00,extended,08072558
 patch=1,EE,201C9560,extended,27BDFFF8

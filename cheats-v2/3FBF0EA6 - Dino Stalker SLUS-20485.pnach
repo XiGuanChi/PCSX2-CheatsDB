@@ -1,28 +1,28 @@
 gametitle=Dino Stalker SLUS-20485
-//Infinite Time
+[Infinite Time]
 patch=1,EE,20219B98,extended,00000000
 patch=1,EE,20219BA0,extended,00000000
 
-//Never Reload
+[Never Reload]
 patch=1,EE,20133954,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202F1F14,extended,40A00000
 
-//Max Score
+[Max Score]
 patch=1,EE,202F1FC4,extended,0098967F
 
-//Max Recovery Aid
+[Max Recovery Aid]
 patch=1,EE,202F2078,extended,00000063
 
-//Max Resuscitation
+[Max Resuscitation]
 patch=1,EE,202F207C,extended,00000063
 
-//Max Antidote
+[Max Antidote]
 patch=1,EE,202F2080,extended,00000063
 
-//Have Ample
+[Have Ample]
 patch=1,EE,202F2088,extended,00000001
 
-//Max Tachyon
+[Max Tachyon]
 patch=1,EE,202F208C,extended,0000270F

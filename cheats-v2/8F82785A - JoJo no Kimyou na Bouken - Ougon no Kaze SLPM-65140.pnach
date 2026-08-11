@@ -1,28 +1,28 @@
 gametitle=JoJo no Kimyou na Bouken - Ougon no Kaze SLPM-65140
-//Infinite stamina gauge
+[Infinite stamina gauge]
 patch=1,EE,20178748,extended,86030122
 patch=1,EE,2017874C,extended,A6030124
 patch=1,EE,20178754,extended,10000005
 
-//Maximum emotion gauge
+[Maximum emotion gauge]
 patch=1,EE,201E6E70,extended,2402270F
 patch=1,EE,1059D830,extended,000027D8
 
-//Maximum spirit gauge
+[Maximum spirit gauge]
 patch=1,EE,201787D0,extended,84620122
 patch=1,EE,201787D4,extended,A4620124
 patch=1,EE,201787DC,extended,10000005
 
-//Super Story stage fully open
+[Super Story stage fully open]
 patch=1,EE,4059D864,extended,00220001
 patch=1,EE,0000C805,extended,00000000
 patch=1,EE,0059D838,extended,00000023
 
-//Another story and Gallery open in menu  After pressing the L3 + R3 button
+[Another story and Gallery open in menu  After pressing the L3 + R3 button]
 patch=1,EE,D0370B42,extended,0000FFF9
 patch=1,EE,105B6495,extended,00000101
 
-//Skip level After pressing the L2 + R2 button
+[Skip level After pressing the L2 + R2 button]
 patch=1,EE,D0370B42,extended,0000FCFF
 patch=1,EE,0059DD90,extended,00000003
 

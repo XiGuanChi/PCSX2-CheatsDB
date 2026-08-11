@@ -1,10 +1,10 @@
 gametitle=Disney's Princess - Enchanted Journey SLES-54942
-//GodMode
+[GodMode]
 patch=1,EE,20178150,extended,00000000
 patch=1,EE,20178154,extended,00000000
 
-//Unlock all levels and start at the final boss battle
+[Unlock all levels and start at the final boss battle]
 patch=1,EE,20236340,extended,10000008
 
-//Unlock Belle's kingdom
+[Unlock Belle's kingdom]
 patch=1,EE,0094170C,extended,00000004

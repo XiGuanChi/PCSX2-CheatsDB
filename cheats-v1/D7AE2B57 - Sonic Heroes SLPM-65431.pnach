@@ -1,19 +1,19 @@
-//Cheats/Max Ring 999
+[Cheats/Max Ring 999]
 patch=1,EE,202B5FA0,extended,00000000
 
-//Cheats/Max Score
+[Cheats/Max Score]
 patch=1,EE,202B5D1C,extended,00000000
 
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,004DE0A0,extended,00000063
 
-//Cheats/Unlock All Stages And CG
+[Cheats/Unlock All Stages And CG]
 patch=1,EE,203038A4,extended,00000000
 patch=1,EE,203038C4,extended,00000000
 patch=1,EE,20303908,extended,00000000
 patch=1,EE,0051A1E2,extended,00000788
 
-//Cheats/Debug Mode Press L1+SELECT ON After press L2+SELECT OFF
+[Cheats/Debug Mode Press L1+SELECT ON After press L2+SELECT OFF]
 patch=1,EE,D051969C,extended,0000FBFE
 patch=1,EE,204AD1C0,extended,00000001
 patch=1,EE,D051969C,extended,0000FEFE

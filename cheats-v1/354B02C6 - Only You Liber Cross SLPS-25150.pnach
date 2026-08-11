@@ -1,80 +1,80 @@
-//Cheats/Max Otoko Points
+[Cheats/Max Otoko Points]
 patch=1,EE,0044ACD4,extended,00000014
 
-//Cheats/Max Ruin Counter 9999
+[Cheats/Max Ruin Counter 9999]
 patch=1,EE,1044A894,extended,0000270F 
 
-//Cheats/Max Current Level
+[Cheats/Max Current Level]
 patch=1,EE,1046FF84,extended,0000270F
 
-//Cheats/Max Current HP
+[Cheats/Max Current HP]
 patch=1,EE,10470114,extended,0000270F
 
-//Cheats/Max HP
+[Cheats/Max HP]
 patch=1,EE,1046F174,extended,0000270F
 
-//Cheats/Max Current Attack Power
+[Cheats/Max Current Attack Power]
 patch=1,EE,104702A4,extended,0000270F 
 
-//Cheats/Max Current Defense Power
+[Cheats/Max Current Defense Power]
 patch=1,EE,10470434,extended,0000270F
 
-//Cheats/Max Current Speed
+[Cheats/Max Current Speed]
 patch=1,EE,104705C4,extended,0000270F 
 
-//Cheats/Max EXP
+[Cheats/Max EXP]
 patch=1,EE,10470754,extended,0000270F
 
-//Cheats/Max Yuan Level
+[Cheats/Max Yuan Level]
 patch=1,EE,1046EFE4,extended,0000270F 
 
-//Cheats/Unlock Yuan Attack Power
+[Cheats/Unlock Yuan Attack Power]
 patch=1,EE,1046F304,extended,0000xxxx 
 
-//Cheats/Max Yuan Defense Power
+[Cheats/Max Yuan Defense Power]
 patch=1,EE,1046F494,extended,0000270F
 
-//Cheats/Max Elemental Speed
+[Cheats/Max Elemental Speed]
 patch=1,EE,1046F624,extended,0000270F
 
-//Cheats/Max Han
+[Cheats/Max Han]
 patch=1,EE,0044ACD4,extended,00000014 
 
-//Cheats/Max Preemptive Attack
+[Cheats/Max Preemptive Attack]
 patch=1,EE,0044ACC8,extended,00000001
 
-//Cheats/Max Accuracy Rate 100%
+[Cheats/Max Accuracy Rate 100%]
 patch=1,EE,0044ACCC,extended,00000064 
 
-//Cheats/Damage 0
+[Cheats/Damage 0]
 patch=1,EE,1044ACD0,extended,00000000 
 
-//Cheats/No Sleep
+[Cheats/No Sleep]
 patch=1,EE,0044ACE0,extended,00000000 
 
-//Cheats/No Numbness
+[Cheats/No Numbness]
 patch=1,EE,0044ACE4,extended,00000000 
 
-//Cheats/No Poison
+[Cheats/No Poison]
 patch=1,EE,0044ACE8,extended,00000000 
 
-//Cheats/All Special Move ON
+[Cheats/All Special Move ON]
 patch=1,EE,0044af4c,extended,00000001 
 patch=1,EE,0044af50,extended,00000001
 
-//Cheats/Unlock All Special Move ON
+[Cheats/Unlock All Special Move ON]
 patch=1,EE,4044af4c,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,40214218,extended,00220001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,002142A0,extended,00000001
 patch=1,EE,201734E0,extended,24050089
 patch=1,EE,201734CC,extended,14000007
 
-//Cheats/Unlock All Memory Of The Battle
+[Cheats/Unlock All Memory Of The Battle]
 patch=1,EE,40214400,extended,000E0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,10214438,extended,00000101

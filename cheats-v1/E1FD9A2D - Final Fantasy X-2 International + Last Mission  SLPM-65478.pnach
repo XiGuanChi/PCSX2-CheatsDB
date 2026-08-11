@@ -1,51 +1,51 @@
-//Cheats/Max Gil 999999999
+[Cheats/Max Gil 999999999]
 patch=1,EE,20373F68,extended,3B9AC9FF
 
-//Cheats/Max Experience Value
+[Cheats/Max Experience Value]
 patch=1,EE,20374954,extended,0098967F
 patch=1,EE,203749D4,extended,0098967F
 patch=1,EE,20374A54,extended,0098967F
 
-//Cheats/MP 255
+[Cheats/MP 255]
 patch=1,EE,00380EDC,extended,000000FF
 patch=1,EE,00380EE0,extended,000000FF
 
-//Cheats/HP 255
+[Cheats/HP 255]
 patch=1,EE,00380ED4,extended,000000FF
 patch=1,EE,00380ED8,extended,000000FF
 
-//Cheats/No Wait on using Actions Useless for Songstress
+[Cheats/No Wait on using Actions Useless for Songstress]
 patch=1,EE,0036A87C,extended,00000001
 
-//Cheats/100% Hit Rate
+[Cheats/100% Hit Rate]
 patch=1,EE,0036A88E,extended,00000001
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,0036A878,extended,00000001
 
-//Cheats/Use 0 MP
+[Cheats/Use 0 MP]
 patch=1,EE,0036A885,extended,00000001
 
-//Cheats/Rare Items 100%
+[Cheats/Rare Items 100%]
 patch=1,EE,0036A895,extended,00000001
 
-//Cheats/Gil 100x
+[Cheats/Gil 100x]
 patch=1,EE,0036A897,extended,00000001
 
-//Cheats/Party Always Attacks First
+[Cheats/Party Always Attacks First]
 patch=1,EE,0036A8A4,extended,00000001
 
-//Cheats/Oversoul
+[Cheats/Oversoul]
 patch=1,EE,0036A899,extended,00000001
 
-//Cheats/Albedo Language Master
+[Cheats/Albedo Language Master]
 patch=1,EE,20373F64,extended,03FFFFFF
 
-//Cheats/Last Mission Enemy & Ally Parameter Max
+[Cheats/Last Mission Enemy & Ally Parameter Max]
 patch=1,EE,21D390B0,extended,240500FF
 patch=1,EE,21D390C0,extended,00000000
 
-//Cheats/Last Mission Exp 9999999999 with Max Gil
+[Cheats/Last Mission Exp 9999999999 with Max Gil]
 patch=1,EE,21D36B44,extended,3C033B9A
 patch=1,EE,21D36B48,extended,3463C9FF
 patch=1,EE,21D36B50,extended,00000000

@@ -1,27 +1,27 @@
 gametitle=Soul Nomad & the World Eaters SLUS-21603
-//Have 999999 Money
+[Have 999999 Money]
 patch=1,EE,20415B88,extended,0098967F
 
-//Infinite HP in battle
+[Infinite HP in battle]
 patch=1,EE,2042EEFC,extended,0000270F
 
-//Infinite Stamina Press Start = ON, Select = OFF Turn on when its your turn to move, Turn off when its not your turn Move
+[Infinite Stamina Press Start = ON, Select = OFF Turn on when its your turn to move, Turn off when its not your turn Move]
 patch=1,EE,D03a6302,extended,0000FFF7
 patch=1,EE,202379C8,extended,00000000
 patch=1,EE,D03a6302,extended,0000FFFE
 patch=1,EE,202379C8,extended,a6830128
 
-//Infinite Hp Press Select = ON, Start = OFF Turn on when its Not your turn, Turn off when its your turn to attack
+[Infinite Hp Press Select = ON, Start = OFF Turn on when its Not your turn, Turn off when its your turn to attack]
 patch=1,EE,D03a6302,extended,0000FFFE
 patch=1,EE,201D528C,extended,00000000
 patch=1,EE,D03a6302,extended,0000FFF7
 patch=1,EE,201D528C,extended,aca20000
 
-//Control Enemy Units 
+[Control Enemy Units]
 patch=1,EE,D03A6302,extended,0000FBFE
 patch=1,EE,003AA350,extended,0000000A
 
-//Debug Mode
+[Debug Mode]
 patch=1,EE,20136D78,extended,00000000
 patch=1,EE,20136FA8,extended,00000000
 patch=1,EE,203A6718,extended,00000003

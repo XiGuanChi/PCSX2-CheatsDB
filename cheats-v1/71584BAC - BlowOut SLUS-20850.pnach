@@ -1,58 +1,58 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201AE084,extended,3C0142C8
 patch=1,EE,201AE08C,extended,AE011DD4
 
-//Cheats/infinite Ammo
+[Cheats/infinite Ammo]
 patch=1,EE,20193638,extended,00000000
 
-//Cheats/Change Weapons For Max Ammo
+[Cheats/Change Weapons For Max Ammo]
 patch=1,EE,201A4FC4,extended,00000000
 patch=1,EE,201A4FDC,extended,24010063
 patch=1,EE,201A4FE0,extended,AC81029C
 
-//Cheats/Pause To Have All Weapons
+[Cheats/Pause To Have All Weapons]
 patch=1,EE,201C5A40,extended,24030001
 patch=1,EE,201C5A48,extended,AC4302CC
 
-//Cheats/Unlock All Cheats
+[Cheats/Unlock All Cheats]
 patch=1,EE,203BB530,extended,FFFFFFFF
 
-//Cheats/Unlock Level Area 1
+[Cheats/Unlock Level Area 1]
 patch=1,EE,20378FB8,extended,00000001
 patch=1,EE,20379D90,extended,05F5E0FF
 
-//Cheats/Unlock Level Area 2
+[Cheats/Unlock Level Area 2]
 patch=1,EE,20378FBC,extended,00000001
 patch=1,EE,20379D94,extended,05F5E0FF
 
-//Cheats/Unlock Level Area 3
+[Cheats/Unlock Level Area 3]
 patch=1,EE,20378FC0,extended,00000001
 patch=1,EE,20379D98,extended,05F5E0FF
 
-//Cheats/Unlock Level Area 4
+[Cheats/Unlock Level Area 4]
 patch=1,EE,20378FC4,extended,00000001
 patch=1,EE,20379D9C,extended,05F5E0FF
 
-//Cheats/Unlock Level Area 5
+[Cheats/Unlock Level Area 5]
 patch=1,EE,20378FC8,extended,00000001
 patch=1,EE,20379DA0,extended,05F5E0FF
 
-//Cheats/Unlock Level Area 6
+[Cheats/Unlock Level Area 6]
 patch=1,EE,20378FCC,extended,00000001
 patch=1,EE,20379DA4,extended,05F5E0FF
 
-//Cheats/Unlock Level Area 7
+[Cheats/Unlock Level Area 7]
 patch=1,EE,20378FD0,extended,00000001
 patch=1,EE,20379DA8,extended,05F5E0FF
 
-//Cheats/Unlock Level Area 8
+[Cheats/Unlock Level Area 8]
 patch=1,EE,20378FD4,extended,00000001
 patch=1,EE,20379DAC,extended,05F5E0FF
 
-//Cheats/Unlock Level Area 9
+[Cheats/Unlock Level Area 9]
 patch=1,EE,20378FD8,extended,00000001
 patch=1,EE,20379DB0,extended,05F5E0FF
 
-//Cheats/Unlock Level Area 10
+[Cheats/Unlock Level Area 10]
 patch=1,EE,20378FDC,extended,00000001
 patch=1,EE,20379DB4,extended,05F5E0FF

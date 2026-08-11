@@ -1,4 +1,4 @@
 gametitle=Patisserie na Nyanko - Hatsukoi wa Ichigo Aji SLPM-65639
-//Press L3 for Debug Menu 
+[Press L3 for Debug Menu]
 patch=1,EE,D015EB0A,extended,0000FFFD
 patch=1,EE,2016D580,extended,00000002

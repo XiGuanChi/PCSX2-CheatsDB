@@ -1,21 +1,21 @@
 gametitle=Clock Tower 3 SLPM-65221
-//No more play time"
+[No more play time"]
 patch=1,EE,2193AB8C,extended,00000000
 patch=1,EE,2193EC98,extended,00000000
 
-//Always Empty Panic Meter
+[Always Empty Panic Meter]
 patch=1,EE,219400B4,extended,00000000
 patch=1,EE,21940440,extended,00000000
 
-//Infinite holy water
+[Infinite holy water]
 patch=1,EE,019404C8,extended,00000009
 patch=1,EE,019404D0,extended,00000009
 
-//Invisible R2 button
+[Invisible R2 button]
 patch=1,EE,D19410F0,extended,00000002
 patch=1,EE,219407E0,extended,00800000
 
-//Get & CINEMA THEATER can select the key to the dresser  It is saved as soon as you start the game, please complete without this code later. The data that are saved will be NEW GAME play.
+[Get & CINEMA THEATER can select the key to the dresser  It is saved as soon as you start the game, please complete without this code later. The data that are saved will be NEW GAME play.]
 patch=1,EE,2194052C,extended,00000001
 patch=1,EE,21940530,extended,00000001
 patch=1,EE,219407E4,extended,FFFFFFFF

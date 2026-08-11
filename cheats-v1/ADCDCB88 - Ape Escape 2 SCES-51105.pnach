@@ -1,19 +1,19 @@
-//Cheats/Infinite Cookies
+[Cheats/Infinite Cookies]
 patch=1,EE,103E197C,extended,00000032
 
-//Cheats/Infinite Coins
+[Cheats/Infinite Coins]
 patch=1,EE,103E1980,extended,000003E7
 
-//Cheats/99 Jackets
+[Cheats/99 Jackets]
 patch=1,EE,103E1978,extended,00000063
 
-//Cheats/Unlock All Stages
+[Cheats/Unlock All Stages]
 patch=1,EE,103E1984,extended,0000001C
 
-//Cheats/Unlock All Stages Cleared
+[Cheats/Unlock All Stages Cleared]
 patch=1,EE,103E1988,extended,0000001C
 
-//Cheats/Unlock Codes If you turn these codes on, then try to spend coins in the Gotcha Box, the game will crash Monkey Novels
+[Cheats/Unlock Codes If you turn these codes on, then try to spend coins in the Gotcha Box, the game will crash Monkey Novels]
 patch=1,EE,103E1C16,extended,00000002
 patch=1,EE,103E1C18,extended,00000002
 patch=1,EE,103E1C1C,extended,00000002
@@ -35,16 +35,16 @@ patch=1,EE,103E1C58,extended,00000008
 patch=1,EE,103E1C5C,extended,00000008
 patch=1,EE,103E1C60,extended,00000008
 
-//Cheats/Unlock All MiniGames
+[Cheats/Unlock All MiniGames]
 patch=1,EE,103E1C64,extended,00000100
 
-//Cheats/Unlock All Tissues
+[Cheats/Unlock All Tissues]
 patch=1,EE,103E1CA2,extended,00000001
 
-//Cheats/Unlock All Pudding
+[Cheats/Unlock All Pudding]
 patch=1,EE,103E1CA4,extended,00000001
 
-//Cheats/Unlock All Manga Collection Comic Strips
+[Cheats/Unlock All Manga Collection Comic Strips]
 patch=1,EE,103E1CA4,extended,00000101
 patch=1,EE,103E1CA6,extended,00000101
 patch=1,EE,103E1CA8,extended,00000101
@@ -55,7 +55,7 @@ patch=1,EE,103E1CB0,extended,00000101
 patch=1,EE,103E1CB2,extended,00000101
 patch=1,EE,103E1CB4,extended,00000101
 
-//Cheats/Unlock All Soundtracks
+[Cheats/Unlock All Soundtracks]
 patch=1,EE,103E1C7E,extended,00000101
 patch=1,EE,103E1C7C,extended,00000101
 patch=1,EE,103E1C7A,extended,00000101
@@ -83,7 +83,7 @@ patch=1,EE,103E1C9C,extended,00000101
 patch=1,EE,103E1C9E,extended,00000101
 patch=1,EE,103E1CA0,extended,00000001
 
-//Cheats/Unlock All Secret Photos
+[Cheats/Unlock All Secret Photos]
 patch=1,EE,103E1CE8,extended,00000101
 patch=1,EE,103E1CEA,extended,00000101
 patch=1,EE,103E1CEC,extended,00000101
@@ -110,7 +110,7 @@ patch=1,EE,103E1D14,extended,00000101
 patch=1,EE,103E1D16,extended,00000101
 patch=1,EE,103E1D18,extended,00000101
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,103E1C66,extended,00000100
 patch=1,EE,103E1C68,extended,00000101
 patch=1,EE,103E1C6A,extended,00000101

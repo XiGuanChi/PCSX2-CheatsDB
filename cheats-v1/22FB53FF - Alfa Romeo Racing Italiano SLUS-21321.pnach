@@ -1,31 +1,31 @@
-//Cheats/Infinite Skill Points
+[Cheats/Infinite Skill Points]
 patch=1,EE,204461DC,extended,00000000
 
-//Cheats/Extra Skill Points
+[Cheats/Extra Skill Points]
 patch=1,EE,104461D8,extended,00000001
 
-//Cheats/Max Infinite Skill Points
+[Cheats/Max Infinite Skill Points]
 patch=1,EE,204461D8,extended,2402270F
 
-//Cheats/Press L1+Select To Rest Race Timer
+[Cheats/Press L1+Select To Rest Race Timer]
 patch=1,EE,D05A5C9C,extended,0000FBFE
 patch=1,EE,202B063C,extended,AC600008
 patch=1,EE,D05A5C9C,extended,0000FFFF
 patch=1,EE,202B063C,extended,E4600008
 
-//Cheats/No Car Damage From Collisions
+[Cheats/No Car Damage From Collisions]
 patch=1,EE,202E6E48,extended,00000000
 
-//Cheats/No Car Damage From Driving Offroad
+[Cheats/No Car Damage From Driving Offroad]
 patch=1,EE,202E77E8,extended,00000000
 
-//Cheats/Infinite Tiger Effect
+[Cheats/Infinite Tiger Effect]
 patch=1,EE,102E7866,extended,00001000
 
-//Cheats/Always Best Driver Condition
+[Cheats/Always Best Driver Condition]
 patch=1,EE,102E789E,extended,00001000
 
-//Cheats/Unlock All Skills
+[Cheats/Unlock All Skills]
 patch=1,EE,204452D0,extended,24020000
 patch=1,EE,204452D4,extended,03E00008
 patch=1,EE,204452D8,extended,AC82031C

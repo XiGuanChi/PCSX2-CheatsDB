@@ -1,5 +1,5 @@
 gametitle=RPG Maker 3 SLUS-21178
-//Infinite HP & MP (In-Battle)
+[Infinite HP & MP (In-Battle)]
 patch=1,EE,200C0340,extended,AC220024
 patch=1,EE,200C0344,extended,AC220028
 patch=1,EE,200C0348,extended,AC22002C
@@ -11,7 +11,7 @@ patch=1,EE,20150D10,extended,00400821
 patch=1,EE,20150D14,extended,0C0300D0
 patch=1,EE,20150D18,extended,2402270F
 
-//View Status For Max Gold
+[View Status For Max Gold]
 patch=1,EE,200C0220,extended,3C0505F5
 patch=1,EE,200C0224,extended,34A5E0FF
 patch=1,EE,200C0228,extended,08087A82

@@ -1,11 +1,11 @@
 gametitle=Rogue Galaxy SCPS-15102
-//Max money
+[Max money]
 patch=1,EE,205FE980,extended,05F5E0FF
 
-//Max level experience value acquisition
+[Max level experience value acquisition]
 patch=1,EE,203A7D58,extended,24010001
 
-//Random encounter control SELECT + L2 = no encounter SELECT + R1 = Challenge battle occurred SELECT + R2 = normal operation
+[Random encounter control SELECT + L2 = no encounter SELECT + R1 = Challenge battle occurred SELECT + R2 = normal operation]
 patch=1,EE,D04BE9C2,extended,0000FEFE
 patch=1,EE,203AA528,extended,1000FF58
 patch=1,EE,D04BE9C2,extended,0000FDFE

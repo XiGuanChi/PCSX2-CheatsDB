@@ -1,27 +1,27 @@
-//Cheats/Max Gauge
+[Cheats/Max Gauge]
 patch=1,EE,20138040,extended,11CE0062
 
-//Cheats/Max Gauge Increase Up To
+[Cheats/Max Gauge Increase Up To]
 patch=1,EE,2013803C,extended,24010000
 
-//Cheats/In Tune Play PLAY COUNT 9999
+[Cheats/In Tune Play PLAY COUNT 9999]
 patch=1,EE,20183C4C,extended,2403270F
 
-//Cheats/In Result Picture AAA
+[Cheats/In Result Picture AAA]
 patch=1,EE,20138B68,extended,24050000
 
-//Cheats/Forced Analog Mode
+[Cheats/Forced Analog Mode]
 patch=1,EE,002D9914,extended,0000000
 
-//Cheats/GAMBOL Analog
+[Cheats/GAMBOL Analog]
 patch=1,EE,21403E08,extended,00000001
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,214042BC,extended,FFFFFFFF
 patch=1,EE,214042C0,extended,FFFFFFFF
 patch=1,EE,114042C4,extended,0000FFFF
 
-//Cheats/Unlock All Customize
+[Cheats/Unlock All Customize]
 patch=1,EE,214439E0,extended,0F0F7F7F
 patch=1,EE,014439E4,extended,00000001
 

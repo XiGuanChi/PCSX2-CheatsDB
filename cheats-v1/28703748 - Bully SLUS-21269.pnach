@@ -1,10 +1,10 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,21C68AB0,extended,05F5E100
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,21C68AC8,extended,43480000
 
-//Cheats/Infinite Health Alternate
+[Cheats/Infinite Health Alternate]
 patch=1,EE,200C0220,extended,3C014348
 patch=1,EE,200C0224,extended,AE8119F4
 patch=1,EE,200C0228,extended,AE811A08
@@ -12,10 +12,10 @@ patch=1,EE,200C022C,extended,03E00008
 patch=1,EE,200C0230,extended,C68219F4
 patch=1,EE,2041F568,extended,0C030088
 
-//Cheats/Max Pocket Change
+[Cheats/Max Pocket Change]
 patch=1,EE,21C68AB0,extended,05F5E0FF
 
-//Cheats/Max Pocket Change Alternate
+[Cheats/Max Pocket Change Alternate]
 patch=1,EE,200C0240,extended,3C0205F5
 patch=1,EE,200C0244,extended,3442E0FF
 patch=1,EE,200C0248,extended,03E00008
@@ -23,9 +23,9 @@ patch=1,EE,200C024C,extended,AC2219F0
 patch=1,EE,2042ED50,extended,8C418520
 patch=1,EE,2042ED58,extended,0C030090
 
-//Cheats/Always Low Trouble Meter
+[Cheats/Always Low Trouble Meter]
 patch=1,EE,21C68B50,extended,00000000
 
-//Cheats/Infinite Health People You Got To Protect
+[Cheats/Infinite Health People You Got To Protect]
 patch=1,EE,2042B6B8,extended,E4811A08
 patch=1,EE,2042B6C0,extended,C48119F4

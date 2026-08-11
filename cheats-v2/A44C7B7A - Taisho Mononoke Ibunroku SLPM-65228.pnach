@@ -1,16 +1,16 @@
 gametitle=Taisho Mononoke Ibunroku SLPM-65228
-//99 sen money in hand 9999 Yen
+[99 sen money in hand 9999 Yen]
 patch=1,EE,20D288C0,extended,000F423F
 
-//9999 spirit stones
+[9999 spirit stones]
 patch=1,EE,10D288C4,extended,0000270F
 
-//All instrument, arms and crest 90 place holding
+[All instrument, arms and crest 90 place holding]
 patch=1,EE,40D28B80,extended,01E40001
 patch=1,EE,0000005A,extended,00000000
 
-//With experience point procurement experience point Max
+[With experience point procurement experience point Max]
 patch=1,EE,201458C0,extended,00000000
 
-//Debug Menu At Boot 
+[Debug Menu At Boot]
 patch=0,EE,00285AC4,extended,00000000

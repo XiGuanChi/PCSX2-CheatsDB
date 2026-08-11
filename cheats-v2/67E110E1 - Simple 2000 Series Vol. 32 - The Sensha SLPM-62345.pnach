@@ -1,6 +1,6 @@
 gametitle=Simple 2000 Series Vol. 32 - The Sensha SLPM-62345
-//Infinite HP
+[Infinite HP]
 patch=1,EE,0021EF72,extended,00000000
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,1021DF10,extended,00000000

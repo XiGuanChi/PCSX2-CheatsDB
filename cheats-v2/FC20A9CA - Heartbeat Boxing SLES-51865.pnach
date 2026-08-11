@@ -1,14 +1,14 @@
 gametitle=Heartbeat Boxing SLES-51865
-//player 1 Infinite HP
+[player 1 Infinite HP]
 patch=1,EE,2023B95C,extended,000003E7
 
-//Stamina
+[Stamina]
 patch=1,EE,2023B958,extended,0000012C
 
-//All characters
+[All characters]
 patch=1,EE,101B635A,extended,00000101
 
-//All costumes
+[All costumes]
 patch=1,EE,001B6349,extended,00000003
 patch=1,EE,101B634A,extended,00000303
 patch=1,EE,201B634C,extended,03030403

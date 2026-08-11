@@ -1,38 +1,38 @@
 gametitle=Aoi Sora no Neosphere - Nanoca Flanka Hatsumei Koubouki 2 SLPS-25749
-//Money Max
+[Money Max]
 patch=1,EE,21917274,extended,0098967F
 
-//Gingin state
+[Gingin state]
 patch=1,EE,2191726C,extended,00000013
 
-//Bing state
+[Bing state]
 patch=1,EE,21917270,extended,00000013
 
-//Public facilities construction funds
+[Public facilities construction funds]
 patch=1,EE,21917280,extended,0098967F
 
-//Reconstruction funds wall-side
+[Reconstruction funds wall-side]
 patch=1,EE,21925AB8,extended,0098967F
 
-//Item change 99
+[Item change 99]
 patch=1,EE,20148000,extended,14000002
 
-//Construction shortcuts
+[Construction shortcuts]
 patch=1,EE,20138280,extended,00000000
 
-//Encyclopedia Comp in item change
+[Encyclopedia Comp in item change]
 patch=1,EE,201480F4,extended,14000002
 
-//All Items 99 available (it will not be reflected in the picture book)
+[All Items 99 available (it will not be reflected in the picture book)]
 patch=1,EE,419172B8,extended,012F0005
 patch=1,EE,00000063,extended,00000000
 patch=1,EE,419172BC,extended,012F0005
 patch=1,EE,00000063,extended,00000000
 
-//Encyclopedia Completed
+[Encyclopedia Completed]
 patch=1,EE,41926930,extended,012F0001
 patch=1,EE,00000001,extended,00000000
 
-//Album Completed
+[Album Completed]
 patch=1,EE,41926730,extended,00630001
 patch=1,EE,00000001,extended,00000000

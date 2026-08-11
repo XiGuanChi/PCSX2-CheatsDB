@@ -1,70 +1,70 @@
-//Cheats/Infinite Munny
+[Cheats/Infinite Munny]
 patch=1,EE,2040A10C,extended,0001869F
 
-//Cheats/Must Be On For Battle Codes
+[Cheats/Must Be On For Battle Codes]
 patch=1,EE,20142280,extended,0803FFC0
 patch=1,EE,200FFF20,extended,080508A1
 patch=1,EE,200FFF24,extended,8C830044
 
-//Cheats/In Battle Infinite HP All Characters
+[Cheats/In Battle Infinite HP All Characters]
 patch=1,EE,200FFF04,extended,24020072
 patch=1,EE,200FFF08,extended,AC82003C
 patch=1,EE,200FFF0C,extended,AC820040
 
-//Cheats/In Battle Infinite MP All Characters
+[Cheats/In Battle Infinite MP All Characters]
 patch=1,EE,200FFF14,extended,24020013
 patch=1,EE,200FFF18,extended,AC820044
 patch=1,EE,200FFF1C,extended,AC820048
 
-//Cheats/In Battle Infinite Armour Gummi Ship
+[Cheats/In Battle Infinite Armour Gummi Ship]
 patch=1,EE,00FACB70,extended,000000FF
 
-//Cheats/In Battle Infinite Power Gummi Ship
+[Cheats/In Battle Infinite Power Gummi Ship]
 patch=1,EE,00FACB78,extended,000000FF
 
-//Cheats/All Trinities Available
+[Cheats/All Trinities Available]
 patch=1,EE,203F5908,extended,FFFFFFFF
 
-//Cheats/All Dalmations
+[Cheats/All Dalmations]
 patch=1,EE,003F53F3,extended,000000FF
 patch=1,EE,203F53F4,extended,FFFFFFFF
 patch=1,EE,203F53F8,extended,FFFFFFFF
 patch=1,EE,203F53F8,extended,7FFFFFFF
 
-//Cheats/Unlock World Traverse Town
+[Cheats/Unlock World Traverse Town]
 patch=1,EE,003F5BE0,extended,00000004
 
-//Cheats/Unlock World Wonderland
+[Cheats/Unlock World Wonderland]
 patch=1,EE,003F5BE1,extended,00000004
 
-//Cheats/Unlock World Olympus Coliseum
+[Cheats/Unlock World Olympus Coliseum]
 patch=1,EE,003F5BE2,extended,00000004
 
-//Cheats/Unlock World Deep Jungle
+[Cheats/Unlock World Deep Jungle]
 patch=1,EE,103F5C02,extended,0000F0FE
 patch=1,EE,003F5BE3,extended,00000004
 
-//Cheats/Unlock World Agrabah
+[Cheats/Unlock World Agrabah]
 patch=1,EE,003F5BE4,extended,00000004
 
-//Cheats/Unlock World Halloween Town
+[Cheats/Unlock World Halloween Town]
 patch=1,EE,003F5BE5,extended,00000004
 
-//Cheats/Unlock World Monstro
+[Cheats/Unlock World Monstro]
 patch=1,EE,103F5C04,extended,000000FC
 patch=1,EE,003F5BEA,extended,00000004
 
-//Cheats/Unlock World Atlantica
+[Cheats/Unlock World Atlantica]
 patch=1,EE,003F5BE6,extended,00000004
 
-//Cheats/Unlock World Neverland
+[Cheats/Unlock World Neverland]
 patch=1,EE,003F5BE7,extended,00000003
 
-//Cheats/Unlock World Hollow Bastian
+[Cheats/Unlock World Hollow Bastian]
 patch=1,EE,103F5C04,extended,000000FC
 patch=1,EE,003F5BE8,extended,00000004
 
-//Cheats/Unlock World End Of The World
+[Cheats/Unlock World End Of The World]
 patch=1,EE,103F5C06,extended,000000E0
 patch=1,EE,003F5BE9,extended,00000004
 

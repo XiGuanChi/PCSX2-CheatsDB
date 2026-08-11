@@ -1,18 +1,18 @@
 gametitle=Ghost Master SLES-52671
-//infinite Health (All Ghosts)
+[infinite Health (All Ghosts)]
 patch=1,EE,201FDE00,extended,E4410070
 
-//infinite Plasma Bar
+[infinite Plasma Bar]
 patch=1,EE,202B5A80,extended,0000000F
 patch=1,EE,202B5A84,extended,0000000F
 
-//Have Mega Scare
+[Have Mega Scare]
 patch=1,EE,20199B5C,extended,46000001
 
-//Fast Resistance Reduction
+[Fast Resistance Reduction]
 patch=1,EE,20199CC8,extended,3C014120
 patch=1,EE,20199CCC,extended,44810000
 
-//Fast Spell Use
+[Fast Spell Use]
 patch=1,EE,20115B04,extended,3C013F00
 patch=1,EE,20115B14,extended,44810000

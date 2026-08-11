@@ -1,12 +1,12 @@
 gametitle=Genji - Dawn of the Samurai SCES-53328
-//Infinite Money
+[Infinite Money]
 patch=1,EE,205A1884,extended,000F423F
 
-//Infinite Kamui
+[Infinite Kamui]
 patch=1,EE,2057BA98,extended,04EC0000
 
-//Yoshitsune Infinite Health
+[Yoshitsune Infinite Health]
 patch=1,EE,2057B49C,extended,000003E8
 
-//Infinite Health Benkei
+[Infinite Health Benkei]
 patch=1,EE,2065BA40,extended,000003E8

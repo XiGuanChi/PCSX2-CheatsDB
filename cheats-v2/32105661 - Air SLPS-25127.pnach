@@ -1,21 +1,21 @@
 gametitle=Air SLPS-25127
-//Clear flag ON prequel
+[Clear flag ON prequel]
 patch=1,EE,001AEF4A,extended,0000001F
 
-//Unlock All APPENDIX CG
+[Unlock All APPENDIX CG]
 patch=1,EE,201AEEB4,extended,FFFFFFFF
 patch=1,EE,201AEEB8,extended,FFFFFFFF
 patch=1,EE,201AEEBC,extended,FEFFFFFF
 patch=1,EE,201AEEC0,extended,01EFFFFF
 patch=1,EE,101AEEC4,extended,00007FFC
 
-//Enable Debug Mode
+[Enable Debug Mode]
 patch=1,EE,201AEDD0,extended,00000001
 patch=1,EE,20253F48,extended,00000001
 
-//Clear flag
-//SUMMER, AIR selectable
-//APPENDIX selectable
-//(SUMMER clear state)
+[Clear flag]
+[SUMMER, AIR selectable]
+[APPENDIX selectable]
+[(SUMMER clear state)]
 
 patch=1,EE,001AEF4A,extended,0000000F

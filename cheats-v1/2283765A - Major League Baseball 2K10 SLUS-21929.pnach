@@ -1,7 +1,7 @@
-//Cheats/Profile 1 Max Available Tokens
+[Cheats/Profile 1 Max Available Tokens]
 patch=1,EE,2085CCEC,extended,05F5E0FF
 
-//Cheats/Infinite Outs Press L3 Have Outs Press R3
+[Cheats/Infinite Outs Press L3 Have Outs Press R3]
 patch=1,EE,E002FFFD,extended,006D49C2
 patch=1,EE,20170F5C,extended,24030000
 patch=1,EE,20170F60,extended,AC430074
@@ -9,7 +9,7 @@ patch=1,EE,E002FFFB,extended,006D49C2
 patch=1,EE,20170F5C,extended,8C430074
 patch=1,EE,20170F60,extended,14640010
 
-//Cheats/Infinite Strikes Press R1+R2 Have Strikes Press L1+L2
+[Cheats/Infinite Strikes Press R1+R2 Have Strikes Press L1+L2]
 patch=1,EE,E002FAFF,extended,006D49C2
 patch=1,EE,2018CE68,extended,24020000
 patch=1,EE,2018CE6C,extended,AC82007C
@@ -17,13 +17,13 @@ patch=1,EE,E002F5FF,extended,006D49C2
 patch=1,EE,2018CE68,extended,8C82007C
 patch=1,EE,2018CE6C,extended,14430009
 
-//Cheats/In Game Pitching Stamina Never Decreases
+[Cheats/In Game Pitching Stamina Never Decreases]
 patch=1,EE,2048748C,extended,00000000
 
-//Cheats/In Game Pitching Stamina at 100%
+[Cheats/In Game Pitching Stamina at 100%]
 patch=1,EE,208D5DFC,extended,3F800000
 
-//Cheats/Unlock All Unlockables
+[Cheats/Unlock All Unlockables]
 patch=1,EE,4085D188,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 

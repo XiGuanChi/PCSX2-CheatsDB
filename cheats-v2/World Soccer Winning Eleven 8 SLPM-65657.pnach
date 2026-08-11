@@ -1,13 +1,13 @@
 gametitle=World Soccer Winning Eleven 8 SLPM-65657
-//ML League WEFA rank 1st & maximum points
+[ML League WEFA rank 1st & maximum points]
 patch=1,EE,00518A02,extended,000000FF
 patch=1,EE,10518A04,extended,000000FF
 
-//ML League All players of their own team have an annual salary of 1 and a contract period of 5 years.
+[ML League All players of their own team have an annual salary of 1 and a contract period of 5 years.]
 patch=1,EE,40518A50,extended,0020000A
 patch=1,EE,00010005,extended,00000000
 
-//Lots of stamina for own team players, good condition, uniform number distribution
+[Lots of stamina for own team players, good condition, uniform number distribution]
 patch=1,EE,20518A48,extended,FF000000
 patch=1,EE,20518A70,extended,FF000001
 patch=1,EE,20518A98,extended,FF000002

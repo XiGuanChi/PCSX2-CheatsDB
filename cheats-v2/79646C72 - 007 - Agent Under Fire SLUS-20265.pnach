@@ -1,35 +1,35 @@
 gametitle=007 - Agent Under Fire SLUS-20265
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,40381230,extended,000C0001
 patch=1,EE,00000001,extended,00000000
 
-//Unlock All Rewards
+[Unlock All Rewards]
 patch=1,EE,4037F790,extended,00180001
 patch=1,EE,00000001,extended,00000000
 
-//Never Reload Driving Mission
+[Never Reload Driving Mission]
 patch=1,EE,2A0337C5,extended,00000000
 
-//Infinite Health Driving Mission
+[Infinite Health Driving Mission]
 patch=1,EE,200C0220,extended,3C01453B
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AC410008
 patch=1,EE,2017BB34,extended,0C030088
 patch=1,EE,2017BB38,extended,46031034
 
-//Infinite Lives Driving Mission
+[Infinite Lives Driving Mission]
 patch=1,EE,2010009C,extended,00000009
 
-//Infinite health Action Mission
+[Infinite health Action Mission]
 patch=1,EE,200C0220,extended,3C0143FA
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AC6102EC
 patch=1,EE,202730EC,extended,0C030088
 patch=1,EE,202730F0,extended,46020034
 
-//Never recharge Action Mission
+[Never recharge Action Mission]
 patch=1,EE,202D7C48,extended,00000000
 
-//Start with 9 lives Action Mission
+[Start with 9 lives Action Mission]
 patch=1,EE,2037F610,extended,00000009
 patch=1,EE,0037F890,extended,00000009

@@ -1,14 +1,14 @@
 gametitle=Drakengard 2 SLUS-21373
-//Infinite HP
+[Infinite HP]
 patch=1,EE,204959F0,extended,00000190
 patch=1,EE,204914B0,extended,00000190
 
-//Infinite MP
+[Infinite MP]
 patch=1,EE,204959F4,extended,000003E8
 patch=1,EE,204914B4,extended,000003E8
 
-//100 Chain
+[100 Chain]
 patch=1,EE,20495EA0,extended,00000064
 
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,204C3F34,extended,05F5E0FF

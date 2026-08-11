@@ -1,4 +1,4 @@
-//Cheats/Unlock All The Kodama Family Appears In The Title & The Ending Is In Full Swing
+[Cheats/Unlock All The Kodama Family Appears In The Title & The Ending Is In Full Swing]
 patch=1,EE,101B7CE2,extended,00000001
 patch=1,EE,201B7CE4,extended,00010001
 patch=1,EE,201B7CE8,extended,00010001
@@ -8,7 +8,7 @@ patch=1,EE,201B7CF4,extended,00010001
 patch=1,EE,201B7CF8,extended,00010001
 patch=1,EE,201B7CFC,extended,00010001
 
-//Cheats/Unlock All CG Viewing
+[Cheats/Unlock All CG Viewing]
 patch=1,EE,201B7CC0,extended,FFFFFFFF
 patch=1,EE,201B7CC4,extended,FFFFFFFF
 patch=1,EE,201B7CC8,extended,FFFFFFFF
@@ -17,6 +17,6 @@ patch=1,EE,201B7CD0,extended,FFFFFFFF
 patch=1,EE,201B7CD4,extended,FFFFFFFF
 patch=1,EE,201B7CD8,extended,FFFFFFFF
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,401B7CC0,extended,00100001
 patch=1,EE,FFFFFFFF,extended,00000000

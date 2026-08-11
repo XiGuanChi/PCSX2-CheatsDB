@@ -1,12 +1,12 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,0036C0F8,extended,00000064
 
-//Cheats/Unlock All Abilities
+[Cheats/Unlock All Abilities]
 patch=1,EE,0036C068,extended,00000003
 patch=1,EE,0036C069,extended,00000003
 patch=1,EE,0036C06A,extended,00000003
 
-//Cheats/Unlock Time Attack Mode
+[Cheats/Unlock Time Attack Mode]
 patch=1,EE,0036C06B,extended,00000001
 
  

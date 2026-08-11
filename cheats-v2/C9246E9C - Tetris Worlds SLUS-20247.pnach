@@ -1,22 +1,22 @@
 gametitle=Tetris Worlds SLUS-20247
-//Quick Level Up (Story Mode)
+[Quick Level Up (Story Mode)]
 patch=1,EE,201CFF00,extended,24020001
 patch=1,EE,201CFF04,extended,44820000
 
-//Arcade - Start At Level 2
+[Arcade - Start At Level 2]
 patch=1,EE,20237EAC,extended,24020002
 
-//Arcade - Start At Level 3
+[Arcade - Start At Level 3]
 patch=1,EE,20237EAC,extended,24020003
 
-//Arcade - Start At Level 4
+[Arcade - Start At Level 4]
 patch=1,EE,20237EAC,extended,24020004
 
-//Arcade - Start At Level 5
+[Arcade - Start At Level 5]
 patch=1,EE,20237EAC,extended,24020005
 
-//Arcade - Start At Level 10
+[Arcade - Start At Level 10]
 patch=1,EE,20237EAC,extended,2402000A
 
-//Arcade - Start At Level 20
+[Arcade - Start At Level 20]
 patch=1,EE,20237EAC,extended,24020014

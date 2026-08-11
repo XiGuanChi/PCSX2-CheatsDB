@@ -1,19 +1,19 @@
 gametitle=NeoGeo Battle Coliseum SLES-54395
-//infinite Health Charakter 1
+[infinite Health Charakter 1]
 patch=1,EE,003ca568,extended,000000e0
 
-//Player 1 Character 2 Has Infinite health
+[Player 1 Character 2 Has Infinite health]
 patch=1,EE,203CA584,extended,00E000E0
 
-//1 Hit Kill Player 2
-//Target device does not support
-//the size specified by test command.
+[1 Hit Kill Player 2]
+[Target device does not support]
+[the size specified by test command.]
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,20318A88,extended,FFFFFFFF
 patch=1,EE,20318A84,extended,FFFFFFFF
 
-//Unlock All Endings
+[Unlock All Endings]
 patch=1,EE,20323388,extended,FFFFFFFF
 patch=1,EE,2032338C,extended,FFFFFFFF
 patch=1,EE,20323390,extended,FFFFFFFF
@@ -25,7 +25,7 @@ patch=1,EE,203233A4,extended,FFFFFFFF
 patch=1,EE,203233A8,extended,FFFFFFFF
 patch=1,EE,203233AC,extended,FFFFFFFF
 
-//Unlock All GFX
+[Unlock All GFX]
 patch=1,EE,20323384,extended,FFFFFFFF
 patch=1,EE,20323380,extended,FFFFFFFF
 patch=1,EE,2032337C,extended,FFFFFFFF
@@ -49,7 +49,7 @@ patch=1,EE,20323338,extended,FFFFFFFF
 patch=1,EE,20323334,extended,FFFFFFFF
 patch=1,EE,20323330,extended,FFFFFFFF
 
-//100% Complete
+[100% Complete]
 patch=1,EE,40323330,extended,00200001
 patch=1,EE,FFFFFFFF,extended,00000000
 

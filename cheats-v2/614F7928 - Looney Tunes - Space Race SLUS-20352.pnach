@@ -1,24 +1,24 @@
 gametitle=Looney Tunes - Space Race SLUS-20352
-//Max Tokens
+[Max Tokens]
 patch=1,EE,20393290,extended,3B9AC9FF
 
-//Have All Planets
+[Have All Planets]
 patch=1,EE,203932A0,extended,FFFFFFFF
 
-//Have All Characters
+[Have All Characters]
 patch=1,EE,203932A4,extended,FFFFFFFF
 
-//Have All Galleria Items
+[Have All Galleria Items]
 patch=1,EE,203932AC,extended,FFFFFFFF
 
-//Have All Acme Events
+[Have All Acme Events]
 patch=1,EE,203932B0,extended,FFFFFFFF
 
-//Have All Gold Medals (Tournament Mode)
+[Have All Gold Medals (Tournament Mode)]
 patch=1,EE,203932B8,extended,FFFFFFFF
 
-//Infinite Retry's
+[Infinite Retry's]
 patch=1,EE,103932E8,extended,00000003
 
-//Max Points (Tournament Mode)
+[Max Points (Tournament Mode)]
 patch=1,EE,109EEFB0,extended,0000270F

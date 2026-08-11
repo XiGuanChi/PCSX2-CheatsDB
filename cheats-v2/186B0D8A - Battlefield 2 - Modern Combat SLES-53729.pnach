@@ -1,16 +1,16 @@
 gametitle=Battlefield 2 - Modern Combat SLES-53729
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,203F3A3C,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,203EC450,extended,24020001
 
-//All Weapons
+[All Weapons]
 patch=1,EE,4075D890,extended,00060001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,1075D8A8,extended,00000101
 
-//Infinite Time In Missions (Press L2 To Stop Time, L1 to Resume)
+[Infinite Time In Missions (Press L2 To Stop Time, L1 to Resume)]
 patch=1,EE,D077741C,extended,0000FEFF
 patch=1,EE,203F99A4,extended,C48C0000
 patch=1,EE,D077741C,extended,0000FBFF

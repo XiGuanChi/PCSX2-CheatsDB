@@ -1,13 +1,13 @@
 gametitle=Oshiete! Popotan SLPM-65535
-//CG 100% recovery rate
+[CG 100% recovery rate]
 patch=1,EE,40B13668,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//All Characters Cleared
+[All Characters Cleared]
 patch=1,EE,40B13540,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-//Unlock All CG
+[Unlock All CG]
 patch=1,EE,20B13668,extended,FFFFFFFF
 patch=1,EE,20B1366C,extended,FFFFFFFF
 patch=1,EE,20B13670,extended,FFFFFFFF

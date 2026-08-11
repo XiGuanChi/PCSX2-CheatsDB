@@ -1,34 +1,34 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,205CC3A0,extended,05F5E0FF
 
-//Cheats/Hunter Points 9999
+[Cheats/Hunter Points 9999]
 patch=1,EE,205CC3C0,extended,0098967F
 
-//Cheats/Jester Status Max
+[Cheats/Jester Status Max]
 patch=1,EE,405D31C4,extended,00040001
 patch=1,EE,0000270F,extended,00000000
 patch=1,EE,205D31D4,extended,270F270F
 patch=1,EE,405D31DC,extended,00040001
 patch=1,EE,270F270F,extended,00000000
 
-//Cheats/Unlock All The Flash Generally & Ability Almost Acquisition
+[Cheats/Unlock All The Flash Generally & Ability Almost Acquisition]
 patch=1,EE,405D3490,extended,00080132
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,405D3494,extended,00080132
 patch=1,EE,000000FF,extended,00000000
 
-//Cheats/No Battles Press Select+R2 OFF Select+L2
+[Cheats/No Battles Press Select+R2 OFF Select+L2]
 patch=1,EE,D04BD082,extended,0000FEFE
 patch=1,EE,203A8AC0,extended,00000000
 patch=1,EE,D04BD082,extended,0000FDFE
 patch=1,EE,203A8AC0,extended,44800800
 
-//Cheats/Skill Max When Looking At The Ability Of Owned Weapons
+[Cheats/Skill Max When Looking At The Ability Of Owned Weapons]
 patch=1,EE,203D9480,extended,2402000F
 patch=1,EE,203D9484,extended,03E00008
 patch=1,EE,203D9488,extended,A0820016
 
-//Cheats/Possession Of Weapon Ability Max Attribute Value
+[Cheats/Possession Of Weapon Ability Max Attribute Value]
 patch=1,EE,203D6E94,extended,24020063
 patch=1,EE,203D6E98,extended,03E00008
 patch=1,EE,203D6E9C,extended,A0220017

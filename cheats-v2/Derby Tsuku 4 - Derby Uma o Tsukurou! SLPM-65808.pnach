@@ -1,12 +1,12 @@
 gametitle=Derby Tsuku 4 - Derby Uma o Tsukurou! SLPM-65808
-//Money MAX (99,999,999,999 yen)
+[Money MAX (99,999,999,999 yen)]
 patch=1,EE,20EE749C,extended,3B9AC9FF
 
-//Broodmare, (both US and EU) does not age
+[Broodmare, (both US and EU) does not age]
 patch=1,EE,2034FD3C,extended,24630000
 
-//Home stallion doesn't age
+[Home stallion doesn't age]
 patch=1,EE,203AC40C,extended,24630000
 
-//BOOKFULL
+[BOOKFULL]
 patch=1,EE,2034C4E8,extended,24020000

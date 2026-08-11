@@ -1,18 +1,18 @@
 gametitle=Monster Hunter  G SLPM-65869
-//Infinite Money
+[Infinite Money]
 patch=1,EE,2032C230,extended,005F0000
 
-//99 Herbs
+[99 Herbs]
 patch=1,EE,1032CE36,extended,00000063
 
-//Large Max HP, and Infinite Recover Gauge
+[Large Max HP, and Infinite Recover Gauge]
 patch=1,EE,2034DBE0,extended,00A000A0
 
-//Infinite Stamina
+[Infinite Stamina]
 patch=1,EE,2034DB98,extended,0000012C
 
-//Infinite Weapon Durability
+[Infinite Weapon Durability]
 patch=1,EE,1034DCCE,extended,000001FF
 
-//Never Poisoned
+[Never Poisoned]
 patch=1,EE,2034DC0A,extended,00000000

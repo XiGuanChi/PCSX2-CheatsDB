@@ -1,68 +1,68 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20383714,extended,3F800000
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,202845D0,extended,00000BC0
 
-//Cheats/One Hit Kill
+[Cheats/One Hit Kill]
 patch=1,EE,20391854,extended,3B85DA80
 
-//Cheats/Max Attack Power
+[Cheats/Max Attack Power]
 patch=1,EE,10272768,extended,0000FFFF
 patch=1,EE,1027272E,extended,0000FFFF
 
-//Cheats/Max Attack Speed
+[Cheats/Max Attack Speed]
 patch=1,EE,1027276A,extended,0000FFFF
 patch=1,EE,10272730,extended,0000FFFF
 
-//Cheats/Max Agility
+[Cheats/Max Agility]
 patch=1,EE,1027276C,extended,0000FFFF
 patch=1,EE,10272732,extended,0000FFFF
 
-//Cheats/Max Insight
+[Cheats/Max Insight]
 patch=1,EE,1027276E,extended,0000FFFF
 patch=1,EE,10272734,extended,0000FFFF
 
-//Cheats/Max Spirit
+[Cheats/Max Spirit]
 patch=1,EE,10272770,extended,0000FFFF
 patch=1,EE,10272736,extended,0000FFFF
 
-//Cheats/Max Strong
+[Cheats/Max Strong]
 patch=1,EE,10272772,extended,0000FFFF
 patch=1,EE,10272738,extended,0000FFFF
 
-//Cheats/Max Recovery
+[Cheats/Max Recovery]
 patch=1,EE,10272774,extended,0000FFFF
 patch=1,EE,1027273A,extended,0000FFFF
 
-//Cheats/Max Fame
+[Cheats/Max Fame]
 patch=1,EE,20272778,extended,000F423F
 
-//Cheats/No Bad Fame
+[Cheats/No Bad Fame]
 patch=1,EE,2027277C,extended,00000000
 
-//Cheats/Instant Kill Enemy Press L1+L2+R1+R2
+[Cheats/Instant Kill Enemy Press L1+L2+R1+R2]
 patch=1,EE,D0245B82,extended,0000F0FF
 patch=1,EE,20391854,extended,00000000
 
-//Cheats/Enemies Retreat ON Press L1+D-Up
+[Cheats/Enemies Retreat ON Press L1+D-Up]
 patch=1,EE,D0245B82,extended,0000FBEF
 patch=1,EE,201968C8,extended,03E00008
 patch=1,EE,201968CC,extended,00000000
 
-//Cheats/Enemies Retreat OFF Press L1+D-Down
+[Cheats/Enemies Retreat OFF Press L1+D-Down]
 patch=1,EE,D0245B82,extended,0000FBBF
 patch=1,EE,201968C8,extended,27BDFFF0
 patch=1,EE,201968CC,extended,FFB00000
 
-//Cheats/Low Time Attack Time
+[Cheats/Low Time Attack Time]
 patch=1,EE,00160B52,extended,00000000
 
-//Cheats/Reset Stage Timer Press L1+Select
+[Cheats/Reset Stage Timer Press L1+Select]
 patch=1,EE,D0245B82,extended,0000FBFE
 patch=1,EE,102845D0,extended,00000BB8
 
-//Cheats/Perfect Player Stats
+[Cheats/Perfect Player Stats]
 patch=1,EE,2027272E,extended,0000FFFF
 patch=1,EE,40272730,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
@@ -72,19 +72,19 @@ patch=1,EE,10272774,extended,0000FFFF
 patch=1,EE,20272778,extended,000F423F
 patch=1,EE,2027277C,extended,00000000
 
-//Cheats/Unlock All Extras
+[Cheats/Unlock All Extras]
 patch=1,EE,2024613C,extended,00000001
 patch=1,EE,40272680,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,202736D4,extended,01010101
 
-//Cheats/Have All Swords
+[Cheats/Have All Swords]
 patch=1,EE,2027278C,extended,FFFFFFFF
 patch=1,EE,20272790,extended,FFFFFFFF
 patch=1,EE,20272794,extended,FFFFFFFF
 patch=1,EE,20272798,extended,FFFFFFFF
 
-//Cheats/Know All Techniques
+[Cheats/Know All Techniques]
 patch=1,EE,202727A4,extended,FFFFFFFF
 patch=1,EE,202727A8,extended,FFFFFFFF
 patch=1,EE,202727AC,extended,FFFFFFFF
@@ -101,19 +101,19 @@ patch=1,EE,202728B0,extended,FFFFFFFF
 patch=1,EE,202728B4,extended,FFFFFFFF
 patch=1,EE,202728B8,extended,FFFFFFFF
 
-//Cheats/Unlock Most Faces and Costumes
+[Cheats/Unlock Most Faces and Costumes]
 patch=1,EE,20272680,extended,FFFFFFFF
 patch=1,EE,20272684,extended,FFFFFFFF
 patch=1,EE,20272688,extended,FFFFFFFF
 patch=1,EE,2027268C,extended,FFFFFFFF
 
-//Cheats/Unlock Geisha and Finish Training
+[Cheats/Unlock Geisha and Finish Training]
 patch=1,EE,2024613C,extended,00000001
 
-//Cheats/Unlock Extra Time Attack Stage Needs A save for this code to work in Time Attack
+[Cheats/Unlock Extra Time Attack Stage Needs A save for this code to work in Time Attack]
 patch=1,EE,202736D4,extended,01010101
 
-//Cheats/PAL to NTSC
+[Cheats/PAL to NTSC]
 patch=1,EE,20213D78,extended,24120002
 patch=1,EE,00214018,extended,00000010
 patch=1,EE,10214044,extended,000002A8

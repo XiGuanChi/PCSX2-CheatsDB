@@ -1,8 +1,8 @@
 gametitle=Kanon SLPS-20121
-//debug mode
+[debug mode]
 patch=1,EE,001B9840,extended,00000001
 
-//Bonus selectable & 100% CG
+[Bonus selectable & 100% CG]
 patch=1,EE,201B9994,extended,FFFFFFFF
 patch=1,EE,201B9998,extended,FFFFFFFF
 patch=1,EE,201B999C,extended,FFFFFFFF

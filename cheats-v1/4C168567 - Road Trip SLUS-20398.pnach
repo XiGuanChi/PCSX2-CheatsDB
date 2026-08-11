@@ -1,26 +1,26 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,2177FDB4,extended,000F423F
 
-//Cheats/Always Low Total Timer
+[Cheats/Always Low Total Timer]
 patch=1,EE,2177A7B0,extended,00000001
 
-//Cheats/Always Low Lap Timer
+[Cheats/Always Low Lap Timer]
 patch=1,EE,2177AEB0,extended,00000001
 
-//Cheats/Start On Lap 3
+[Cheats/Start On Lap 3]
 patch=1,EE,D177ADEA,extended,00000000
 patch=1,EE,0177ADEB,extended,00000002
 
-//Cheats/Warp To All Towns
+[Cheats/Warp To All Towns]
 patch=1,EE,11780A3A,extended,00000000
 
-//Cheats/Have All Choro Q Coins
+[Cheats/Have All Choro Q Coins]
 patch=1,EE,4178FCA8,extended,00030001
 patch=1,EE,00000000,extended,00000000
 patch=1,EE,0178FCB4,extended,00000000
 
-//Cheats/Debug Menu coad Choose New Game
+[Cheats/Debug Menu coad Choose New Game]
 patch=1,EE,20205200,extended,24A5B848
 
-//Cheats/Debug Mode
+[Cheats/Debug Mode]
 patch=1,EE,0033590B,extended,00000001

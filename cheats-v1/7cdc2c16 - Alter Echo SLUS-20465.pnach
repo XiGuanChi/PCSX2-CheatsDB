@@ -1,178 +1,178 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,0806192A
 patch=1,EE,200C0224,extended,E44100B8
 patch=1,EE,2011BCC0,extended,0C030088
 
-//Cheats/Infinite Double Jumps
+[Cheats/Infinite Double Jumps]
 patch=1,EE,20211C90,extended,24030001
 
-//Cheats/Infinite Special Attacks
+[Cheats/Infinite Special Attacks]
 patch=1,EE,20210690,extended,00000000
 
-//Cheats/Quick Plasm Gain
+[Cheats/Quick Plasm Gain]
 patch=1,EE,1034E39C,extended,0000FFFF
 
-//Cheats/Max Plasm
+[Cheats/Max Plasm]
 patch=1,EE,2034E39C,extended,05F5E0FF
 patch=1,EE,2034E3A0,extended,4CBEBC1F
 patch=1,EE,203C51EC,extended,05F5E0FF
 
-//Cheats/Buying New Abilities Cost 0
+[Cheats/Buying New Abilities Cost 0]
 patch=1,EE,2029D270,extended,00000000
 
-//Cheats/Buy New Abilities With No Plasma
+[Cheats/Buy New Abilities With No Plasma]
 patch=1,EE,1029D41E,extended,00001000
 
-//Cheats/Have All Abilities
+[Cheats/Have All Abilities]
 patch=1,EE,408485D4,extended,00310001
 patch=1,EE,00000002,extended,00000000
 
-//Cheats/Load Save For Level Rebirth - Echo
+[Cheats/Load Save For Level Rebirth - Echo]
 patch=1,EE,203C51F4,extended,00000001
 
-//Cheats/Load Save For Level Rebirth - Gunplay
+[Cheats/Load Save For Level Rebirth - Gunplay]
 patch=1,EE,203C51F4,extended,00000002
 
-//Cheats/Load Save For Level Rebirth - Stealth
+[Cheats/Load Save For Level Rebirth - Stealth]
 patch=1,EE,203C51F4,extended,00000003
 
-//Cheats/Load Save For Level Rebirth - Time
+[Cheats/Load Save For Level Rebirth - Time]
 patch=1,EE,203C51F4,extended,00000004
 
-//Cheats/Load Save For Level Rebirth - Master
+[Cheats/Load Save For Level Rebirth - Master]
 patch=1,EE,203C51F4,extended,00000005
 
-//Cheats/Load Save For Level Surface - Search
+[Cheats/Load Save For Level Surface - Search]
 patch=1,EE,203C51F4,extended,00000006
 
-//Cheats/Load Save For Level Surface - Arana
+[Cheats/Load Save For Level Surface - Arana]
 patch=1,EE,203C51F4,extended,00000007
 
-//Cheats/Load Save For Level Surface - Master
+[Cheats/Load Save For Level Surface - Master]
 patch=1,EE,203C51F4,extended,00000008
 
-//Cheats/Load Save For Level Hunted - Reunion
+[Cheats/Load Save For Level Hunted - Reunion]
 patch=1,EE,203C51F4,extended,00000009
 
-//Cheats/Load Save For Level Hunted - Gunship
+[Cheats/Load Save For Level Hunted - Gunship]
 patch=1,EE,203C51F4,extended,0000000A
 
-//Cheats/Load Save For Level Hunted - Pursuit
+[Cheats/Load Save For Level Hunted - Pursuit]
 patch=1,EE,203C51F4,extended,0000000B
 
-//Cheats/Load Save For Level Hunted - Showdown
+[Cheats/Load Save For Level Hunted - Showdown]
 patch=1,EE,203C51F4,extended,0000000C
 
-//Cheats/Load Save For Level Hunted - Master
+[Cheats/Load Save For Level Hunted - Master]
 patch=1,EE,203C51F4,extended,0000000D
 
-//Cheats/Load Save For Level Power - Transmit
+[Cheats/Load Save For Level Power - Transmit]
 patch=1,EE,203C51F4,extended,0000000E
 
-//Cheats/Load Save For Level Power - Kess
+[Cheats/Load Save For Level Power - Kess]
 patch=1,EE,203C51F4,extended,0000000F
 
-//Cheats/Load Save For Level Power - Master
+[Cheats/Load Save For Level Power - Master]
 patch=1,EE,203C51F4,extended,00000010
 
-//Cheats/Load Save For Level Transit - Stome
+[Cheats/Load Save For Level Transit - Stome]
 patch=1,EE,203C51F4,extended,00000011
 
-//Cheats/Load Save For Level Transit - Ambush
+[Cheats/Load Save For Level Transit - Ambush]
 patch=1,EE,203C51F4,extended,00000012
 
-//Cheats/Load Save For Level Transit - Seedlings
+[Cheats/Load Save For Level Transit - Seedlings]
 patch=1,EE,203C51F4,extended,00000013
 
-//Cheats/Load Save For Level Transit - Obstacles
+[Cheats/Load Save For Level Transit - Obstacles]
 patch=1,EE,203C51F4,extended,00000014
 
-//Cheats/Load Save For Level Transit - Cooperation
+[Cheats/Load Save For Level Transit - Cooperation]
 patch=1,EE,203C51F4,extended,00000015
 
-//Cheats/Load Save For Level Transit - Master
+[Cheats/Load Save For Level Transit - Master]
 patch=1,EE,203C51F4,extended,00000016
 
-//Cheats/Load Save For Level Spaceport - Plans 1
+[Cheats/Load Save For Level Spaceport - Plans 1]
 patch=1,EE,203C51F4,extended,00000017
 
-//Cheats/Load Save For Level Spaceport - Plans 2
+[Cheats/Load Save For Level Spaceport - Plans 2]
 patch=1,EE,203C51F4,extended,00000018
 
-//Cheats/Load Save For Level Spaceport - Shuttle
+[Cheats/Load Save For Level Spaceport - Shuttle]
 patch=1,EE,203C51F4,extended,00000019
 
-//Cheats/Load Save For Level Brain - Plea
+[Cheats/Load Save For Level Brain - Plea]
 patch=1,EE,203C51F4,extended,0000001A
 
-//Cheats/Load Save For Level Brain - Underneath
+[Cheats/Load Save For Level Brain - Underneath]
 patch=1,EE,203C51F4,extended,0000001B
 
-//Cheats/Load Save For Level Brain - Gherran
+[Cheats/Load Save For Level Brain - Gherran]
 patch=1,EE,203C51F4,extended,0000001C
 
-//Cheats/Load Save For Level Brain - Toxic 1
+[Cheats/Load Save For Level Brain - Toxic 1]
 patch=1,EE,203C51F4,extended,0000001D
 
-//Cheats/Load Save For Level Brain - Toxic 2
+[Cheats/Load Save For Level Brain - Toxic 2]
 patch=1,EE,203C51F4,extended,0000001E
 
-//Cheats/Load Save For Level Brain - Kess
+[Cheats/Load Save For Level Brain - Kess]
 patch=1,EE,203C51F4,extended,0000001F
 
-//Cheats/Load Save For Level Brain - Master
+[Cheats/Load Save For Level Brain - Master]
 patch=1,EE,203C51F4,extended,00000020
 
-//Cheats/Load Save For Level Rescue - Arana
+[Cheats/Load Save For Level Rescue - Arana]
 patch=1,EE,203C51F4,extended,00000021
 
-//Cheats/Load Save For Level Rescue - Force Field
+[Cheats/Load Save For Level Rescue - Force Field]
 patch=1,EE,203C51F4,extended,00000022
 
-//Cheats/Load Save For Level Rescue - Sacrifice
+[Cheats/Load Save For Level Rescue - Sacrifice]
 patch=1,EE,203C51F4,extended,00000023
 
-//Cheats/Load Save For Level Breach - Landing
+[Cheats/Load Save For Level Breach - Landing]
 patch=1,EE,203C51F4,extended,00000024
 
-//Cheats/Load Save For Level Breach - Barriers 1
+[Cheats/Load Save For Level Breach - Barriers 1]
 patch=1,EE,203C51F4,extended,00000025
 
-//Cheats/Load Save For Level Breach - Barriers 2
+[Cheats/Load Save For Level Breach - Barriers 2]
 patch=1,EE,203C51F4,extended,00000026
 
-//Cheats/Load Save For Level Breach - Approach
+[Cheats/Load Save For Level Breach - Approach]
 patch=1,EE,203C51F4,extended,00000027
 
-//Cheats/Load Save For Level Breach - Elevator
+[Cheats/Load Save For Level Breach - Elevator]
 patch=1,EE,203C51F4,extended,00000028
 
-//Cheats/Load Save For Level Breach - Shield 1
+[Cheats/Load Save For Level Breach - Shield 1]
 patch=1,EE,203C51F4,extended,00000029
 
-//Cheats/Load Save For Level Breach- Shield 2
+[Cheats/Load Save For Level Breach- Shield 2]
 patch=1,EE,203C51F4,extended,0000002A
 
-//Cheats/Load Save For Level Breach - Master
+[Cheats/Load Save For Level Breach - Master]
 patch=1,EE,203C51F4,extended,0000002B
 
-//Cheats/Load Save For Level Citadel - Alone
+[Cheats/Load Save For Level Citadel - Alone]
 patch=1,EE,203C51F4,extended,0000002C
 
-//Cheats/Load Save For Level Citadel - Ascent
+[Cheats/Load Save For Level Citadel - Ascent]
 patch=1,EE,203C51F4,extended,0000002D
 
-//Cheats/Load Save For Level Citadel - Assault
+[Cheats/Load Save For Level Citadel - Assault]
 patch=1,EE,203C51F4,extended,0000002E
 
-//Cheats/Load Save For Level Citadel - Inside
+[Cheats/Load Save For Level Citadel - Inside]
 patch=1,EE,203C51F4,extended,0000002F
 
-//Cheats/Load Save For Level Citadel - Guardian
+[Cheats/Load Save For Level Citadel - Guardian]
 patch=1,EE,203C51F4,extended,00000030
 
-//Cheats/Load Save For Level Citadel - Paavo
+[Cheats/Load Save For Level Citadel - Paavo]
 patch=1,EE,203C51F4,extended,00000031
 
-//Cheats/Load Save For Level Citadel - Ending
+[Cheats/Load Save For Level Citadel - Ending]
 patch=1,EE,203C51F4,extended,00000032

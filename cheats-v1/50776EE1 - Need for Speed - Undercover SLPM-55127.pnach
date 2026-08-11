@@ -1,13 +1,13 @@
-//Cheats/Msx Cash 99,999,999 After Change
+[Cheats/Msx Cash 99,999,999 After Change]
 patch=1,EE,201ACAEC,extended,3C0205F6
 patch=1,EE,201ACAF0,extended,2442E0FF
 
-//Cheats/Msx Rank Points 9999999
+[Cheats/Msx Rank Points 9999999]
 patch=1,EE,D0A9D9D8,extended,00000900
 patch=1,EE,20A99CFC,extended,0098967F
 
-//Cheats/Msx Cache
+[Cheats/Msx Cache]
 patch=1,EE,20A99CF8,extended,3B9ACA00
 
-//Cheats/Msx Rank Points
+[Cheats/Msx Rank Points]
 patch=1,EE,20A99CFC,extended,05F5E100

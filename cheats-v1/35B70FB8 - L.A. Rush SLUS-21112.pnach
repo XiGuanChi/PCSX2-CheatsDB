@@ -1,36 +1,36 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,203FC100,extended,05F5E0FF
 
-//Cheats/Infinite Turbo
+[Cheats/Infinite Turbo]
 patch=1,EE,21F181BC,extended,00000003
 
-//Cheats/Unlock All Cars
+[Cheats/Unlock All Cars]
 patch=1,EE,403FC3E0,extended,003C0001
 patch=1,EE,00000002,extended,00000000
 
-//Cheats/Unlock All Roam Events
+[Cheats/Unlock All Roam Events]
 patch=1,EE,403FC118,extended,00050001
 patch=1,EE,00000005,extended,00000000
 
-//Cheats/Wanted Level Never Increases
+[Cheats/Wanted Level Never Increases]
 patch=1,EE,20149760,extended,00000000
 
-//Cheats/All Mission Events Completed
+[Cheats/All Mission Events Completed]
 patch=1,EE,403FC18C,extended,00230001
 patch=1,EE,00000005,extended,00000000
 
-//Cheats/All Stunt Events Completed
+[Cheats/All Stunt Events Completed]
 patch=1,EE,403FC218,extended,00190001
 patch=1,EE,00000005,extended,00000000
 
-//Cheats/All Race Events Completed
+[Cheats/All Race Events Completed]
 patch=1,EE,403FC2B8,extended,00330001
 patch=1,EE,00000005,extended,00000000
 
-//Cheats/All Lowrider Events Completed
+[Cheats/All Lowrider Events Completed]
 patch=1,EE,403FC164,extended,000A0001
 patch=1,EE,00000005,extended,00000000
 
-//Cheats/All Cruise Events Completed
+[Cheats/All Cruise Events Completed]
 patch=1,EE,403FC27C,extended,000F0001
 patch=1,EE,00000005,extended,00000000

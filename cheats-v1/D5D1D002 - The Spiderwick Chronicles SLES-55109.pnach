@@ -1,14 +1,14 @@
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,D043A11C,extended,0000F5FF
 patch=1,EE,00628000,extended,00000002
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,00628001,extended,00000008
 
-//Cheats/Invincible Press R1+R2
+[Cheats/Invincible Press R1+R2]
 patch=1,EE,D043A11C,extended,0000F5FF
 patch=1,EE,00628000,extended,00000002
 
-//Cheats/Infinite Ammo Press R1+R2
+[Cheats/Infinite Ammo Press R1+R2]
 patch=1,EE,D043A11C,extended,0000F5FF
 patch=1,EE,00628001,extended,00000008

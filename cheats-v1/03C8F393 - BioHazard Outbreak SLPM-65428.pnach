@@ -1,33 +1,33 @@
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,2062F148,extended,00000000
 
-//Cheats/Infinite bullet
+[Cheats/Infinite bullet]
 patch=1,EE,20581AC0,extended,00000000
 
-//Cheats/Max Result Points
+[Cheats/Max Result Points]
 patch=1,EE,20301D60,extended,0098967F
 
-//Cheats/Virus Invasion Level 0 Viruses do not invade. Enemy attacks remain at 0
+[Cheats/Virus Invasion Level 0 Viruses do not invade. Enemy attacks remain at 0]
 patch=1,EE,20636408,extended,AE200BAC
 
-//Cheats/COLLECTION All items purchased
+[Cheats/COLLECTION All items purchased]
 patch=1,EE,40305E54,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/All SP items have been obtained
+[Cheats/All SP items have been obtained]
 patch=1,EE,40301D84,extended,00080001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,00301DA4,extended,0000000F
 
-//Cheats/Unlock All Collections
+[Cheats/Unlock All Collections]
 patch=1,EE,40305E54,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Scenarios
+[Cheats/Unlock All Scenarios]
 patch=1,EE,40305DD0,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Scenario achievement item All scenarios 100%
+[Cheats/Scenario achievement item All scenarios 100%]
 patch=1,EE,2030227C,extended,7FFFFFFF
 patch=1,EE,20302284,extended,07FFFFFF
 patch=1,EE,2030228C,extended,007FFFFF

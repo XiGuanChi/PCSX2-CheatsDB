@@ -1,14 +1,14 @@
 gametitle=Gladius SLUS-20490
-//Infinite Health 1st Warrior in Battle
+[Infinite Health 1st Warrior in Battle]
 patch=1,EE,10761C36,extended,000003E7
 
-//Infinite Health 2nd Warrior in Battle
+[Infinite Health 2nd Warrior in Battle]
 patch=1,EE,107620BA,extended,000003E7
 
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,105BC97C,extended,0000FFFF
 
-//Quick Level Gain-Most Char
+[Quick Level Gain-Most Char]
 patch=1,EE,10577304,extended,0000FFFF
 patch=1,EE,105773B0,extended,0000FFFF
 patch=1,EE,1057745C,extended,0000FFFF
@@ -19,6 +19,6 @@ patch=1,EE,10577A68,extended,0000FFFF
 patch=1,EE,10577B14,extended,0000FFFF
 patch=1,EE,10577F1C,extended,0000FFFF
 
-//1-Hit Death Enemies
+[1-Hit Death Enemies]
 patch=1,EE,013861C7,extended,00000048
 patch=1,EE,30307FFE,extended,00B39B18

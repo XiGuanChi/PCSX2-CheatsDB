@@ -1,7 +1,7 @@
-//Cheats/Max Gil
+[Cheats/Max Gil]
 patch=1,EE,2031CE98,extended,3B9AC9FF
 
-//Cheats/In Battle Invincible Press L3 One Hit Kill Press R3
+[Cheats/In Battle Invincible Press L3 One Hit Kill Press R3]
 patch=1,EE,D078A7CA,extended,00000200
 patch=1,EE,201C7CD0,extended,00401023
 patch=1,EE,D078A7CA,extended,00000400
@@ -9,63 +9,63 @@ patch=1,EE,201C7CD0,extended,00001023
 patch=1,EE,D078A7CA,extended,00000100
 patch=1,EE,201C7CD0,extended,00521023
 
-//Cheats/In Battle Infinite MP
+[Cheats/In Battle Infinite MP]
 patch=1,EE,201C25C8,extended,00802023
   
-//Cheats/Max HP Everyone
+[Cheats/Max HP Everyone]
 patch=1,EE,201BEEF0,extended,AFC60004
 
-//Cheats/Max MP Everyone
+[Cheats/Max MP Everyone]
 patch=1,EE,201BEF30,extended,AFD00008
 
-//Cheats/Max Offensive power Everyone
+[Cheats/Max Offensive power Everyone]
 patch=1,EE,201BEF50,extended,A3C6002F
 
-//Cheats/Max Defense power Everyone
+[Cheats/Max Defense power Everyone]
 patch=1,EE,201BEF64,extended,A3C60030
 
-//Cheats/Max Magical power Everyone
+[Cheats/Max Magical power Everyone]
 patch=1,EE,201BEF78,extended,A3C60031
 
-//Cheats/Max Magic defense Everyone
+[Cheats/Max Magic defense Everyone]
 patch=1,EE,201BEF8C,extended,A3C60032
 
-//Cheats/Max Speed Everyone
+[Cheats/Max Speed Everyone]
 patch=1,EE,201BEFA0,extended,A3C60033
 
-//Cheats/Max luck Everyone
+[Cheats/Max luck Everyone]
 patch=1,EE,201BEFB4,extended,A3C60034
 
-//Cheats/Max Avoidance Everyone
+[Cheats/Max Avoidance Everyone]
 patch=1,EE,201BEFC8,extended,A3C60035
 
-//Cheats/Max Hit Everyone
+[Cheats/Max Hit Everyone]
 patch=1,EE,201BEFDC,extended,A3C60036
 patch=1,EE,201BEFE4,extended,8FC60024
 
-//Cheats/HP & MP Limit Breakthrough at any Time
+[Cheats/HP & MP Limit Breakthrough at any Time]
 patch=1,EE,201BEEF0,extended,0140300A
 patch=1,EE,201BEF30,extended,0140300A
 
-//Cheats/Max Compatibility with Yojimbo
+[Cheats/Max Compatibility with Yojimbo]
 patch=1,EE,201E5B70,extended,AE063DA4
 
-//Cheats/Sphere Board Level Does not Decrease even if you move
+[Cheats/Sphere Board Level Does not Decrease even if you move]
 patch=1,EE,201BE6CC,extended,00601823
 
-//Cheats/All Key Items
+[Cheats/All Key Items]
 patch=1,EE,2031D5DC,extended,FFFFFFFF
 patch=1,EE,0131D5E2,extended,0000000F
 patch=1,EE,1031D5E0,extended,0000FFFB
 
-//Cheats/All Overdrives
+[Cheats/All Overdrives]
 patch=1,EE,2031CEBC,extended,FFFFFFFF
 patch=1,EE,2031CEC0,extended,FFFFFFFF
 patch=1,EE,2031CEC4,extended,FFFFFFFF
 patch=1,EE,2031CEC8,extended,FFFFFFFF
 patch=1,EE,1031CECC,extended,0000FFEB
 
-//Cheats/Nagi Plain Monster Training Area All 10 Normal Monsters Have been captured
+[Cheats/Nagi Plain Monster Training Area All 10 Normal Monsters Have been captured]
 patch=1,EE,4031D35C,extended,000A0001
 patch=1,EE,0A0A0A0A,extended,74424362
 patch=1,EE,4031D398,extended,000B0001
@@ -78,52 +78,52 @@ patch=1,EE,1031D394,extended,00000A0A
 patch=1,EE,0031D386,extended,0000000A
 patch=1,EE,0031D396,extended,0000000A
 
-//Cheats/All kinds of 99 Items Just by Displaying the Item
+[Cheats/All kinds of 99 Items Just by Displaying the Item]
 patch=1,EE,2024C8F0,extended,24132000
 patch=1,EE,2024C900,extended,24110063
 patch=1,EE,2024C9FC,extended,26730001
 
-//Cheats/Enable English Forces the game to use English at all times
+[Cheats/Enable English Forces the game to use English at all times]
 patch=1,EE,0031ce5e,byte,00000001
 
-//Cheats/Text Always In English Mode
+[Cheats/Text Always In English Mode]
 patch=1,EE,001CF48D,extended,00000001
 
-//Cheats/Invincibility
+[Cheats/Invincibility]
 patch=1,EE,00316f99,byte,00000001
 
-//Cheats/All Enemies Enter Battle At 1 HP
+[Cheats/All Enemies Enter Battle At 1 HP]
 patch=1,EE,00316fbe,byte,00000001
 
-//Cheats/Break 99,999 Damage Limit On Some Items & Special Attacks
+[Cheats/Break 99,999 Damage Limit On Some Items & Special Attacks]
 patch=1,EE,201C21A4,extended,3C0B0099
 
-//Cheats/Break Item Damage And Healing Limit
+[Cheats/Break Item Damage And Healing Limit]
 patch=1,EE,201C21B4,extended,3C030099
 
-//Cheats/Break HP Limit Completely Without Armor Ability Enabled 9999 & 99,999
+[Cheats/Break HP Limit Completely Without Armor Ability Enabled 9999 & 99,999]
 patch=1,EE,201BEED8,extended,3C0A05F6
 
-//Cheats/Break MP Limit Completely Without Armor Ability Enabled 9999 & 99,999
+[Cheats/Break MP Limit Completely Without Armor Ability Enabled 9999 & 99,999]
 patch=1,EE,201BEF10,extended,3C0A05F6
 
-//Cheats/Max MP All Characters & Aeons
+[Cheats/Max MP All Characters & Aeons]
 patch=1,EE,4031E724,extended,00120025
 patch=1,EE,0000270F,extended,00000000
 
-//Cheats/Unlock All Items
+[Cheats/Unlock All Items]
 patch=1,EE,A01BF9F8,extended,0806F33E
 
-//Cheats/All Characters S.Lv 99
+[Cheats/All Characters S.Lv 99]
 patch=1,EE,201BE652,extended,0000A206
 
-//Cheats/Al Bhed Dialogue Translated
+[Cheats/Al Bhed Dialogue Translated]
 patch=1,EE,2031CE60,extended,FFFFFFFF
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,00316F99,extended,00000001
 patch=1,EE,00316FBE,extended,00000001
 patch=1,EE,00316FC3,extended,00000001
 
-//Cheats/Debug Mode Load from a save file, Nakazawa-san Test Map, Camera Test Map work, everything else freezes the game
+[Cheats/Debug Mode Load from a save file, Nakazawa-san Test Map, Camera Test Map work, everything else freezes the game]
 patch=1,EE,1031920A,extended,00000001

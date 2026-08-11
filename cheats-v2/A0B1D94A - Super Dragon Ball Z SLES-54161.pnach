@@ -1,15 +1,15 @@
 gametitle=Super Dragon Ball Z SLES-54161
-//Enable All Characters
+[Enable All Characters]
 patch=1,EE,205EA1B0,extended,00003FF0
 
-//Infinite Dragon Balls
+[Infinite Dragon Balls]
 patch=1,EE,405EB22C,extended,00200029
 patch=1,EE,00007F00,extended,00000000
 
-//Trainings Mode infinite Super Energy Player 1
+[Trainings Mode infinite Super Energy Player 1]
 patch=1,EE,005b50ac,extended,000000f0
 
-//Trainings Mode Iinfinite Super Energy Player 1 (R3+R1 on  R3+R2 off)
+[Trainings Mode Iinfinite Super Energy Player 1 (R3+R1 on  R3+R2 off)]
 patch=1,EE,D0506502,extended,0000f7fb
 patch=1,EE,000ffff0,extended,00000001
 patch=1,EE,D0506502,extended,0000fdfb
@@ -17,13 +17,13 @@ patch=1,EE,000ffff0,extended,00000000
 patch=1,EE,D00ffff0,extended,00000001
 patch=1,EE,005b50ac,extended,000000f0
 
-//Trainings Mode Iinfinite Health
+[Trainings Mode Iinfinite Health]
 patch=1,EE,005b509c,extended,000000fa
 
-//Orginal Mode  infinite Super Energy Player 1
+[Orginal Mode  infinite Super Energy Player 1]
 patch=1,EE,005b50e4,extended,000000f0
 
-//Orginal Mode Iinfinite Super Energy Player 1 (R3+R1 on  R3+R2 off)
+[Orginal Mode Iinfinite Super Energy Player 1 (R3+R1 on  R3+R2 off)]
 patch=1,EE,D0506502,extended,0000f7fb
 patch=1,EE,000ffff0,extended,00000001
 patch=1,EE,D0506502,extended,0000fdfb
@@ -31,5 +31,5 @@ patch=1,EE,000ffff0,extended,00000000
 patch=1,EE,D00ffff0,extended,00000001
 patch=1,EE,005b50e4,extended,000000f0
 
-//Orginal Mode Iinfinite Health
+[Orginal Mode Iinfinite Health]
 patch=1,EE,005b50d4,extended,000000fa

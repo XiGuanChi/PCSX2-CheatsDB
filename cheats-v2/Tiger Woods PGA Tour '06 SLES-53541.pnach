@@ -1,30 +1,30 @@
 gametitle=Tiger Woods PGA Tour '06 SLES-53541
-//Max Cash After Buying tems
+[Max Cash After Buying tems]
 patch=1,EE,2034B4F8,extended,3C0205D0
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,204d9a68,extended,ffffffff
 patch=1,EE,204d9a6c,extended,ffffffff
 
-//Unlock All Courses
+[Unlock All Courses]
 patch=1,EE,20491de8,extended,ffffffff
 
-//Hole in One Codes
-//Hole 1
+[Hole in One Codes]
+[Hole 1]
 patch=1,EE,004D9E70,extended,00000001
 
-//Hole 2
+[Hole 2]
 patch=1,EE,004D9E74,extended,00000001
 
-//Hole 3
+[Hole 3]
 patch=1,EE,004D9E78,extended,00000001
 
-//Hole 4
+[Hole 4]
 patch=1,EE,004D9E7C,extended,00000001
 
-//Hole 5
+[Hole 5]
 patch=1,EE,004D9E80,extended,00000001
 
-//Hole 6
+[Hole 6]
 patch=1,EE,004D9E84,extended,00000001
 

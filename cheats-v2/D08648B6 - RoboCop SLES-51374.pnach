@@ -1,13 +1,13 @@
 gametitle=RoboCop SLES-51374
-//Infinite Power
+[Infinite Power]
 patch=1,EE,20223800,extended,03E00008
 patch=1,EE,20223804,extended,00000000
 
-//Infinite Ammo & No Reload
+[Infinite Ammo & No Reload]
 patch=1,EE,20472A84,extended,00000001
 
-//only 1 shot
+[only 1 shot]
 patch=1,EE,2020075C,extended,00000000
 
-//Play Bonus Video Select Credits to Activate
+[Play Bonus Video Select Credits to Activate]
 patch=1,EE,20472AA4,extended,00000001

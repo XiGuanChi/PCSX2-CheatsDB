@@ -1,15 +1,15 @@
 gametitle=The Simpsons - Road Rage SLUS-20305
-//Max Money
+[Max Money]
 patch=1,EE,2032085C,extended,000F423F
 patch=1,EE,2032ECF0,extended,000F423F
 
-//Press L1.+ L2 For More Time
+[Press L1.+ L2 For More Time]
 patch=1,EE,D0485EC2,extended,0000FAFF
 patch=1,EE,20320EB0,extended,0007FFFF
 
-//Unlock All Missions (Mission Mode)
+[Unlock All Missions (Mission Mode)]
 patch=1,EE,20320908,extended,0000000A
 
-//Have All Characters
+[Have All Characters]
 patch=1,EE,40320980,extended,000C0001
 patch=1,EE,00000001,extended,00000000

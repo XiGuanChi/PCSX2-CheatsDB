@@ -1,21 +1,21 @@
 gametitle=BloodRayne SLPM-65665
-//Cheat fully open
+[Cheat fully open]
 patch=1,EE,2031A400,extended,0000FFFF
 
-//Added debug to cheat items
+[Added debug to cheat items]
 patch=1,EE,203AB710,extended,00000001
 
-//Blood Last Gauge MAX Press the SELECT button for the effect
+[Blood Last Gauge MAX Press the SELECT button for the effect]
 patch=1,EE,201AE88C,extended,00000000
 patch=1,EE,D0516B42,extended,0000FFFE
 patch=1,EE,201AE88C,extended,E60150AC
 
-//Maintaining maximum physical strength
+[Maintaining maximum physical strength]
 patch=1,EE,201ECBA0,extended,0C03D000
 patch=1,EE,200F4000,extended,8F81E560
 patch=1,EE,200F4004,extended,16010002
 patch=1,EE,200F400C,extended,E60006B4
 
-//Maintaining maximum physical strength A
+[Maintaining maximum physical strength A]
 patch=1,EE,200F4010,extended,0804165A
 

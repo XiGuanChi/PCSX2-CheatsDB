@@ -1,11 +1,11 @@
 gametitle=Dream Audition SLPS-20016
-//Infinite bar Player 1
+[Infinite bar Player 1]
 patch=1,EE,2033ACC8,extended,00000100
 patch=1,EE,2033AD0C,extended,00000100
 
-//Infinite bar Player 2
+[Infinite bar Player 2]
 patch=1,EE,2033AD70,extended,00000100
 patch=1,EE,2033AE14,extended,00000100
 
-//Main Menu Option = Debug SND Test Info Menu 
+[Main Menu Option = Debug SND Test Info Menu]
 patch=1,EE,2023B518,extended,0012FDD8

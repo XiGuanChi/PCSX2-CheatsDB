@@ -1,28 +1,28 @@
-//Cheats/Infinite Health Player 1
+[Cheats/Infinite Health Player 1]
 patch=1,EE,20509AB8,extended,00640064
 
-//Cheats/Infinite Special Player 1
+[Cheats/Infinite Special Player 1]
 patch=1,EE,20509AC0,extended,00320032
 
-//Cheats/U1 Hit Death P2
+[Cheats/U1 Hit Death P2]
 patch=1,EE,0050ADF8,extended,00000001
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,40500DC8,extended,00080001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Stages
+[Cheats/Unlock All Stages]
 patch=1,EE,40500DF8,extended,00070001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Weapons
+[Cheats/Unlock All Weapons]
 patch=1,EE,4050275C,extended,002F0001
 patch=1,EE,81818181,extended,00000000
 
-//Cheats/Unlock All Items
+[Cheats/Unlock All Items]
 patch=1,EE,40502824,extended,000A0001
 patch=1,EE,81818181,extended,00000000
 
-//Cheats/Unlock All Items, Weapons And Outfits
+[Cheats/Unlock All Items, Weapons And Outfits]
 patch=1,EE,4050275C,extended,003B0001
 patch=1,EE,81818181,extended,00000000

@@ -1,18 +1,18 @@
 gametitle=Psi-Ops - The Mindgate Conspiracy SLUS-20688
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20226FC0,extended,C601000C
 patch=1,EE,20226FD0,extended,E6010008
 
-//Infinite PSI
+[Infinite PSI]
 patch=1,EE,20227914,extended,00000000
 
-//Never Reload
+[Never Reload]
 patch=1,EE,2055116C,extended,00000000
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,40C96630,extended,00260001
 patch=1,EE,01010101,extended,00000000
 
-//1Hit Kills (Enemies & Bosses)
+[1Hit Kills (Enemies & Bosses)]
 patch=1,EE,2010E300,extended,03E00008
 patch=1,EE,2010E304,extended,00000000

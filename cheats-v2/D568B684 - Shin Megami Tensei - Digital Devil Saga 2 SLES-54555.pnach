@@ -1,44 +1,44 @@
 gametitle=Shin Megami Tensei - Digital Devil Saga 2 SLES-54555
-//Infinite money
+[Infinite money]
 patch=1,EE,2113FF3C,extended,0098967F
 
-//Shop Points Max
+[Shop Points Max]
 patch=1,EE,2115E554,extended,000F423F
 
-//Infinite/Max HP
+[Infinite/Max HP]
 patch=1,EE,11140966,extended,000003E7
 patch=1,EE,11140968,extended,000003E7
 
-//Infinite/Max MP
+[Infinite/Max MP]
 patch=1,EE,1114096A,extended,000003E7
 patch=1,EE,1114096C,extended,000003E7
 
-//Exp Max
+[Exp Max]
 patch=1,EE,21140970,extended,0098967F
 
-//Max Lvl
+[Max Lvl]
 patch=1,EE,01140974,extended,00000063
 
-//Reserve 1
-//Character MOD
+[Reserve 1]
+[Character MOD]
 patch=1,EE,01140B28,extended,FFFFFFE8
 
-//Infinite/Max HP
+[Infinite/Max HP]
 patch=1,EE,11140B2A,extended,000003E7
 patch=1,EE,11140B2C,extended,000003E7
 
-//Random Battles L1+Select To Disable L2+Select To Enable
+[Random Battles L1+Select To Disable L2+Select To Enable]
 patch=1,EE,D040CFC2,extended,0000FBFE
 patch=1,EE,2011ADB4,extended,00000000
 patch=1,EE,D040CFC2,extended,0000FEFE
 patch=1,EE,2011ADB4,extended,94831444
 
-//All Combos
+[All Combos]
 patch=1,EE,21156E00,extended,FFFFFFF0
 patch=1,EE,21156E04,extended,FFFFFFFF
 patch=1,EE,21156E08,extended,FFFFFFFF
 patch=1,EE,01156E0C,extended,000000FF
 
-//Have All Rings
+[Have All Rings]
 patch=1,EE,41141300,extended,000E0001
 patch=1,EE,05050505,extended,00000000

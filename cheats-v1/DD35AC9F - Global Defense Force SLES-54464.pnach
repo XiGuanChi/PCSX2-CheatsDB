@@ -1,40 +1,40 @@
-//Cheats/Max Armor
+[Cheats/Max Armor]
 patch=1,EE,202C5180,extended,000186A0
 patch=1,EE,202C5180,extended,000186A0
 
-//Cheats/Infinite Endurance Team Members and Item that need to be sent
+[Cheats/Infinite Endurance Team Members and Item that need to be sent]
 patch=1,EE,2011B6E4,extended,3C014E6E
 patch=1,EE,2011B6E8,extended,08046D26
 patch=1,EE,2011B6EC,extended,AC8100B8
 patch=1,EE,201BF8A4,extended,0C046DB0
 patch=1,EE,201BF934,extended,0C046DB0
 
-//Cheats/Infinite Energy or peiruuingu
+[Cheats/Infinite Energy or peiruuingu]
 patch=1,EE,2011B874,extended,10000008
 
-//Cheats/Invincibility You might still get hurt if you get thrown
+[Cheats/Invincibility You might still get hurt if you get thrown]
 patch=1,EE,201F3BC4,extended,00000000
 patch=1,EE,201F3C08,extended,100001E8
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,201A6B90,extended,24620000
 
-//Cheats/Rapid Fire
+[Cheats/Rapid Fire]
 patch=1,EE,201A6B78,extended,00000000
 
-//Cheats/Infinite Jump Land Army ONLY
+[Cheats/Infinite Jump Land Army ONLY]
 patch=1,EE,201F5EE8,extended,00000000
 patch=1,EE,201F5EF4,extended,00000000
 
-//Cheats/Emergency Avoid Land Army ONLY
+[Cheats/Emergency Avoid Land Army ONLY]
 patch=1,EE,201F593C,extended,00000000
 patch=1,EE,201F5948,extended,00000000
 
-//Cheats/Unlock All Weapons
+[Cheats/Unlock All Weapons]
 patch=1,EE,201A908C,extended,24040001
 patch=1,EE,201A9090,extended,A0E40008
 
-//Cheats/Unlock All Mission Completed 100%
+[Cheats/Unlock All Mission Completed 100%]
 patch=1,EE,20195EF8,extended,24020101
 patch=1,EE,20195EFC,extended,A4620008
 patch=1,EE,20195F00,extended,A462000A

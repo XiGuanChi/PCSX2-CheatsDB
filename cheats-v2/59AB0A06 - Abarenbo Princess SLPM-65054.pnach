@@ -1,13 +1,13 @@
 gametitle=Abarenbo Princess SLPM-65054
-//It does not decrease the number of gifts
+[It does not decrease the number of gifts]
 patch=1,EE,D0510C7A,extended,0020000A
 patch=1,EE,10510C7A,extended,0000000A
 
-//All treasure list 
+[All treasure list]
 patch=1,EE,40516D10,extended,00290001
 patch=1,EE,01010101,extended,00000000
 
-//First character All stats Max In battle
+[First character All stats Max In battle]
 patch=1,EE,1050E1EC,extended,000003E7
 patch=1,EE,1050E1EE,extended,000003E7
 patch=1,EE,1050E1F0,extended,000003E7
@@ -15,7 +15,7 @@ patch=1,EE,1050E1F2,extended,000003E7
 patch=1,EE,1050E200,extended,000003E7
 patch=1,EE,1050E202,extended,000003E7
 
-//Unlock All Menu Options (and items inside them) 
+[Unlock All Menu Options (and items inside them)]
 patch=1,EE,00516270,extended,00000001
 patch=1,EE,2022B4E8,extended,03E00008
 patch=1,EE,2022B4EC,extended,24020001

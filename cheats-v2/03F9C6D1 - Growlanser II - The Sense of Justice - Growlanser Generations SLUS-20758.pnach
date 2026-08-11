@@ -1,27 +1,27 @@
 gametitle=Growlanser Generations SLUS-20758
-//Infinite Elm
+[Infinite Elm]
 patch=1,EE,20341C04,extended,000F423F
 
-//Character 1 Infinite HP
+[Character 1 Infinite HP]
 patch=1,EE,1033A74A,extended,000003E7
 patch=1,EE,1033A74C,extended,000003E7
 
-//Character 1 Infinite MP
+[Character 1 Infinite MP]
 patch=1,EE,1033A74E,extended,000003E7
 patch=1,EE,1033A750,extended,000003E7
 
-//Character 2 Infinite HP
+[Character 2 Infinite HP]
 patch=1,EE,1033AAFA,extended,000003E7
 patch=1,EE,1033AAFC,extended,000003E7
 
-//Character 2 Infinite MP
+[Character 2 Infinite MP]
 patch=1,EE,1033AAFE,extended,000003E7
 patch=1,EE,1033AB00,extended,000003E7
 
-//Character 3 Infinite HP
+[Character 3 Infinite HP]
 patch=1,EE,1033AEAA,extended,000003E7
 patch=1,EE,1033AEAC,extended,000003E7
 
-//Character 3 Infinite MP
+[Character 3 Infinite MP]
 patch=1,EE,1033AEAE,extended,000003E7
 patch=1,EE,1033AEB0,extended,000003E7

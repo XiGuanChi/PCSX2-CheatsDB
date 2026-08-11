@@ -1,11 +1,11 @@
 gametitle=Monster Hunter SLPM-65495
-//Gallery fully open
+[Gallery fully open]
 patch=1,EE,103F30AC,extended,0000FFFF
 
-//Money MAX
+[Money MAX]
 patch=1,EE,203C6FE0,extended,0098967F
 
-//Physical fitness recovery (not reduced HP, gauge as well)
+[Physical fitness recovery (not reduced HP, gauge as well)]
 patch=1,EE,2015357C,extended,1000000D
 patch=1,EE,201535CC,extended,00000000
 patch=1,EE,201535E4,extended,00000000

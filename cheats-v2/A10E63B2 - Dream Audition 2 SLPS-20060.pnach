@@ -1,7 +1,7 @@
 gametitle=Dream Audition 2 SLPS-20060
-//Infinite bar Player 1
+[Infinite bar Player 1]
 patch=1,EE,202DD100,extended,00000100
 patch=1,EE,202DD1A4,extended,00000100
 
-//Player 1 has 9999999 money in Sugoroku mode
+[Player 1 has 9999999 money in Sugoroku mode]
 patch=1,EE,2031DEA4,extended,0098967F

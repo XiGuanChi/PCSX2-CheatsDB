@@ -1,12 +1,12 @@
 gametitle=Brave - The Search for Spirit Dancer SCES-51635
-//Infinite Energy
+[Infinite Energy]
 patch=1,EE,21C33EC8,extended,42C80000
 
-//Inf Spirit Energy
+[Inf Spirit Energy]
 patch=1,EE,00465200,extended,00000001
 
-//Inf Arrows
+[Inf Arrows]
 patch=1,EE,00465258,extended,00000001
 
-//Level Unlock
+[Level Unlock]
 patch=1,EE,004651b0,extended,00000001

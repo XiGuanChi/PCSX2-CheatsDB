@@ -1,17 +1,17 @@
 gametitle=Crash - Mind Over Mutant SLES-55206
-//Infinite Health (Crash)
+[Infinite Health (Crash)]
 patch=1,EE,202BB3F4,extended,3C0142B4
 patch=1,EE,202BB3F8,extended,AC410004
 patch=1,EE,202BB3FC,extended,00000000
 
-//Infinite Power (Mounts)
+[Infinite Power (Mounts)]
 patch=1,EE,2027AC74,extended,00000000
 
-//Gain 1000 Experience per Orb
+[Gain 1000 Experience per Orb]
 patch=1,EE,204745C0,extended,240603E8
 patch=1,EE,204745C4,extended,00461021
 patch=1,EE,204745C8,extended,03E00008
 patch=1,EE,204745CC,extended,AC820000
 
-//Quick Mojo Gain
+[Quick Mojo Gain]
 patch=1,EE,202B9B0C,extended,241003E8

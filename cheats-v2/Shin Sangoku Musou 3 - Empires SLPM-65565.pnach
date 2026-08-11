@@ -1,26 +1,26 @@
 gametitle=Shin Sangoku Musou 3 - Empires SLPM-65565
-//MAX with martial arts acquisition
+[MAX with martial arts acquisition]
 patch=1,EE,202EFD58,extended,00000000
 
-//Physical strength does not decrease
+[Physical strength does not decrease]
 patch=1,EE,201C47F0,extended,14070003
 
-//MAX with Musou gauge fluctuation
+[MAX with Musou gauge fluctuation]
 patch=1,EE,201C4640,extended,14400055
 patch=1,EE,201C46C4,extended,0003082A
 
-//Get 99 arrows
+[Get 99 arrows]
 patch=1,EE,A01B6DE4,extended,34100063
 
-//The arrow does not decrease
+[The arrow does not decrease]
 patch=1,EE,A01C1C24,extended,24630000
 
-//Time limit rewind with L3 button
+[Time limit rewind with L3 button]
 patch=1,EE,20145E8C,extended,24630001
 patch=1,EE,D061005C,extended,0000FFFD
 patch=1,EE,20145E8C,extended,24030000
 
-//Player military commander basic status
+[Player military commander basic status]
 patch=1,EE,204DBC88,extended,01180118
 patch=1,EE,104DBC8C,extended,0000D296
 

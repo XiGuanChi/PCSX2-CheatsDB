@@ -1,11 +1,11 @@
-//Cheats/GT Mode Max Possession Gold
+[Cheats/GT Mode Max Possession Gold]
 patch=1,EE,20940DF8,extended,4876E7FF
 patch=1,EE,20940DFC,extended,00000017
 
-//Cheats/No Tire Wear
+[Cheats/No Tire Wear]
 patch=1,EE,201E78C8,extended,00000000
 
-//Cheats/L2+R2 Laps & 1st Place
+[Cheats/L2+R2 Laps & 1st Place]
 patch=1,EE,E005FFFF,extended,004991D2
 patch=1,EE,001EC26B,extended,10
 patch=1,EE,201EC648,extended,00000000
@@ -17,10 +17,10 @@ patch=1,EE,001EC26B,extended,45
 patch=1,EE,201EC648,extended,45000090
 patch=1,EE,201EABA0,extended,A0431465
 
-//Cheats/Arcade Unlock All Courses
+[Cheats/Arcade Unlock All Courses]
 patch=1,EE,00940E24,extended,00000005
 
-//Cheats/Unlock All Goodies
+[Cheats/Unlock All Goodies]
 patch=1,EE,30000010,extended,000F0000
 patch=1,EE,240A0001,extended,34088405
 patch=1,EE,3409001E,extended,712842A9
@@ -34,12 +34,12 @@ patch=1,EE,200F004C,extended,1409FFF9
 patch=1,EE,200F0054,extended,03E00008
 patch=1,EE,2026FC04,extended,0803C000
 
-//Cheats/Auto Drive
+[Cheats/Auto Drive]
 patch=1,EE,201DB5D0,extended,34050001
 
-//Cheats/License not expired You will no longer be disqualified if you go off course or crash into a wall
+[Cheats/License not expired You will no longer be disqualified if you go off course or crash into a wall]
 patch=1,EE,201ECDBC,extended,10000018
 
-//Cheats/Unlock License complete GOLD
+[Cheats/Unlock License complete GOLD]
 patch=1,EE,201ECF28,extended,34100000
 

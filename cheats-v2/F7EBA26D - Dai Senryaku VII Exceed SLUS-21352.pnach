@@ -1,5 +1,5 @@
 gametitle=Dai Senryaku VII Exceed SLUS-21352
-//Activator for Codes
+[Activator for Codes]
 patch=1,EE,2018A678,extended,08028000
 patch=1,EE,2018A67C,extended,00000000
 patch=1,EE,200A0000,extended,15400023
@@ -10,22 +10,22 @@ patch=1,EE,200A007C,extended,0806299F
 patch=1,EE,200A0080,extended,25CEF248
 patch=1,EE,200A00F8,extended,1000FFDF
 
-//Infinite  funds
+[Infinite  funds]
 patch=1,EE,200A0010,extended,ACD00000
 
-//Infinite Fuel
+[Infinite Fuel]
 patch=1,EE,200A0014,extended,ACD00004
 
-//Zero Funds Enemys
+[Zero Funds Enemys]
 patch=1,EE,200A0090,extended,ACC00000
 
-//Zero Fuel Enemys
+[Zero Fuel Enemys]
 patch=1,EE,200A0094,extended,ACC00004
 
-//Always able to move Might affect everyone not just your side . let me know
+[Always able to move Might affect everyone not just your side . let me know]
 patch=1,EE,10137CC8,extended,00000000
 
-//Infinite HP Hold Select Durning Battle If ur The attacker side ,Hold L2  if your on the Defender side
+[Infinite HP Hold Select Durning Battle If ur The attacker side ,Hold L2  if your on the Defender side]
 patch=1,EE,D0443642,extended,0000FFFE
 patch=1,EE,201F28E0,extended,00000000
 patch=1,EE,D0443642,extended,0010FFFE
@@ -35,5 +35,5 @@ patch=1,EE,201F28EC,extended,00000000
 patch=1,EE,D0443642,extended,0010FEFF
 patch=1,EE,201F28EC,extended,A54E0000
 
-//Infinite Ammo/Gain
+[Infinite Ammo/Gain]
 patch=1,EE,201F448C,extended,240F0009

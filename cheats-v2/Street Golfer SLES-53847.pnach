@@ -1,5 +1,5 @@
 gametitle=Street Golfer SLES-53847
-//Unlock All Golfers
+[Unlock All Golfers]
 patch=1,EE,10203378,extended,00000101
 patch=1,EE,10203380,extended,00000101
 patch=1,EE,10203388,extended,00000101
@@ -9,6 +9,6 @@ patch=1,EE,102033A0,extended,00000101
 patch=1,EE,102033A8,extended,00000101
 patch=1,EE,102033B0,extended,00000101
 
-//Always hole-in-one
+[Always hole-in-one]
 patch=1,EE,D0211962,extended,000016E3
 patch=1,EE,20211960,extended,00000000

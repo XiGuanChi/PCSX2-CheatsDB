@@ -1,16 +1,16 @@
 gametitle=007 - Quantum of Solace SLUS-21813
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20130C38,extended,C6200D24
 patch=1,EE,20130C40,extended,E6200D20
 
-//No Reload
+[No Reload]
 patch=1,EE,201FEF6C,extended,00000000
 
-//Infinite Time For Electo-Hack
+[Infinite Time For Electo-Hack]
 patch=1,EE,2021E674,extended,00000000
 
-//Have All Weapons With Max Infinite Ammo
+[Have All Weapons With Max Infinite Ammo]
 patch=1,EE,2020046C,extended,240203E7
 
-//Debug Menu
+[Debug Menu]
 patch=1,EE,003C9EB0,extended,00000001

@@ -1,38 +1,38 @@
 gametitle=Romancing SaGa SLUS-21263
-//Max Money
+[Max Money]
 patch=1,EE,204233DC,extended,000F423F
 
-//Infinite Jewels
+[Infinite Jewels]
 patch=1,EE,204234C0,extended,0000270F
 
-//Infinite HP In Battle
+[Infinite HP In Battle]
 patch=1,EE,200C2090,extended,ACC40010
 patch=1,EE,200C2094,extended,03E00008
 patch=1,EE,200C2098,extended,2407FFFF
 patch=1,EE,20104DE0,extended,0C030824
 
-//Infinite LP In Battle
+[Infinite LP In Battle]
 patch=1,EE,200C20A0,extended,ACC30018
 patch=1,EE,200C20A4,extended,03E00008
 patch=1,EE,200C20A8,extended,00032820
 patch=1,EE,20104E0C,extended,0C030828
 
-//All Map Locations
+[All Map Locations]
 patch=1,EE,40424544,extended,00110001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,00424589,extended,00000001
 
-//All Skills levels 5
+[All Skills levels 5]
 patch=1,EE,201F480C,extended,24060005
 patch=1,EE,201F4810,extended,AC460000
 
-//View Abilities Get All Tech/Abilities
+[View Abilities Get All Tech/Abilities]
 patch=1,EE,20201E38,extended,2403FFFF
 patch=1,EE,20201E3C,extended,AC430000
 patch=1,EE,20201EEC,extended,2402FFFF
 patch=1,EE,20201EF0,extended,AC620000
 
-//View Tech/Abilities To Have All Tech/Abilities
+[View Tech/Abilities To Have All Tech/Abilities]
 patch=1,EE,20201E3C,extended,2403FFFF
 patch=1,EE,20201E40,extended,AC430000
 patch=1,EE,20201EEC,extended,2402FFFF

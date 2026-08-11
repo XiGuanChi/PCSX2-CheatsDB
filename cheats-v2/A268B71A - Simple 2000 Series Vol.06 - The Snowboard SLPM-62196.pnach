@@ -1,11 +1,11 @@
 gametitle=Simple 2000 Series Vol.06 - The Snowboard SLPM-62196
-//Select all courses
+[Select all courses]
 patch=1,EE,201ECF80,extended,01010101
 patch=1,EE,201ED084,extended,01010101
 patch=1,EE,101ECF84,extended,00000101
 patch=1,EE,101ED088,extended,00000101
 
-//All-Star Acquisition
+[All-Star Acquisition]
 patch=1,EE,201ECF8C,extended,03030303
 patch=1,EE,201ED090,extended,03030303
 patch=1,EE,101ECF90,extended,00000303
@@ -13,18 +13,18 @@ patch=1,EE,101ED094,extended,00000303
 patch=1,EE,101ED0EC,extended,00000303
 patch=1,EE,101ED144,extended,00000303
 
-//all costumes
+[all costumes]
 patch=1,EE,201ED150,extended,00000003
 patch=1,EE,201ED154,extended,0000000F
 patch=1,EE,201ED158,extended,0000000F
 patch=1,EE,201ED15C,extended,00000003
 
-//Add a hidden character Hidden characters appear with the triangle button when selecting a character
+[Add a hidden character Hidden characters appear with the triangle button when selecting a character]
 patch=1,EE,201ED160,extended,00000001
 
-//Add credit to options
+[Add credit to options]
 patch=1,EE,201ED164,extended,00000001
 
-//Crash mode 1 departure retire clear
+[Crash mode 1 departure retire clear]
 patch=1,EE,20114BBC,extended,ACE00088
 

@@ -1,13 +1,13 @@
 gametitle=007 - From Russia with Love PAL-M SLES-53553 22DC8EAC
 
-//NTSC Mode
+[NTSC Mode]
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,002e266c,word,240201c0
 
-//480p Mode
+[480p Mode]
 author=GamingDragon93
 description=SDTV 480p mode at start.
 patch=0,EE,00335638,word,24020050
 patch=0,EE,002e266c,word,240201c0
-//00335D10
+[00335D10]

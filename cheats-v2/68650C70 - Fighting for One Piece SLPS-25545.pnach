@@ -1,14 +1,14 @@
 gametitle=Fighting for One Piece SLPS-25545
-//Fighting spirit very 9999990000
+[Fighting spirit very 9999990000]
 patch=1,EE,202040EC,extended,000F423F
 
-//Infinite HP Player 1
+[Infinite HP Player 1]
 patch=1,EE,20565D38,extended,00000320
 
-//Command gauge maximum P1
+[Command gauge maximum P1]
 patch=1,EE,20565D50,extended,0008CA00
 patch=1,EE,20565D5C,extended,00000006
 
-//HP P2 1 Press Select Button
+[HP P2 1 Press Select Button]
 patch=1,EE,D02A39C0,extended,00000100
 patch=1,EE,20565F0C,extended,00000001

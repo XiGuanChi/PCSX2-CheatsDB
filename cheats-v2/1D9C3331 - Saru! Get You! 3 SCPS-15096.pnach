@@ -1,66 +1,66 @@
 gametitle=Saru! Get You! 3 SCPS-15096
-//Biscuits five
+[Biscuits five]
 patch=1,EE,20668B88,extended,42C80000
 
-//1P not reduced physical strength
+[1P not reduced physical strength]
 patch=1,EE,202ECA24,extended,3C0142C8
 patch=1,EE,202ECA28,extended,ADE10240
 patch=1,EE,202ECA2C,extended,10000006
 
-//Not reduced physical strength
+[Not reduced physical strength]
 patch=1,EE,20541858,extended,00000000
 
-//Not decrease banana pistol bullets
+[Not decrease banana pistol bullets]
 patch=1,EE,20544D00,extended,00000000
 
-//Not decrease pineapple bomb
+[Not decrease pineapple bomb]
 patch=1,EE,20544970,extended,00000000
 
-//Not decrease Suikabomu
+[Not decrease Suikabomu]
 patch=1,EE,202D5710,extended,00000000
 
-//All ammunition 100 rounds
+[All ammunition 100 rounds]
 patch=1,EE,202BAFE8,extended,240F0064
 patch=1,EE,202BAFF0,extended,A66F0000
 patch=1,EE,202BB014,extended,24010064
 patch=1,EE,202BB01C,extended,A6610000
 
-//Bakerugeji Mitan
+[Bakerugeji Mitan]
 patch=1,EE,20668B94,extended,42C80000
 
-//Bakel gauge stock 10 Mitan
+[Bakel gauge stock 10 Mitan]
 patch=1,EE,20668B94,extended,44898000
 patch=1,EE,20668B98,extended,44898000
 
-//Explosion Damas 9
+[Explosion Damas 9]
 patch=1,EE,00668C08,extended,00000009
 
-//Induction Damas 9
+[Induction Damas 9]
 patch=1,EE,00668C0C,extended,00000009
 
-//All Gachameka
+[All Gachameka]
 patch=1,EE,20231440,extended,00000000
 
-//Makeover costume all
+[Makeover costume all]
 patch=1,EE,2023149C,extended,00000000
 
-//Secret game all
+[Secret game all]
 patch=1,EE,00668F0B,extended,00000001
 patch=1,EE,10668F0C,extended,00000101
 
-//Cinema additional Mesarugia to Sarushinema
+[Cinema additional Mesarugia to Sarushinema]
 patch=1,EE,20231304,extended,00000000
 
-//Mecha Yon clock body all
+[Mecha Yon clock body all]
 patch=1,EE,20668F08,extended,01010101
 
-//Dance stations all Genie
+[Dance stations all Genie]
 patch=1,EE,20668F68,extended,01010101
 
-//Various fully open
+[Various fully open]
 patch=1,EE,2028F854,extended,24010001
 patch=1,EE,2028F858,extended,A1E10306
 
-//Secret games, home theater, gallery (other than Sarubukku) fully open
+[Secret games, home theater, gallery (other than Sarubukku) fully open]
 patch=1,EE,20269818,extended,24060001
 patch=1,EE,20269828,extended,A1E60306

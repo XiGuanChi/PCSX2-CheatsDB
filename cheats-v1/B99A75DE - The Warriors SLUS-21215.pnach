@@ -1,55 +1,55 @@
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,21FD88FC,extended,000003E7
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C2010,extended,84620146
 patch=1,EE,200C2014,extended,A4620144
 patch=1,EE,200C2018,extended,03E00008
 patch=1,EE,200C201C,extended,28420002
 patch=1,EE,20221130,extended,0C030804
 
-//Cheats/Infinite Rage
+[Cheats/Infinite Rage]
 patch=1,EE,20256628,extended,00000000
 
-//Cheats/Infinite Time Timed Missions
+[Cheats/Infinite Time Timed Missions]
 patch=1,EE,204234A4,extended,00000000
 
-//Cheats/Rembrandt Swan Infinite Health
+[Cheats/Rembrandt Swan Infinite Health]
 patch=1,EE,1065A684,extended,000009C4
 
-//Cheats/Rembrandt Swan Max Health
+[Cheats/Rembrandt Swan Max Health]
 patch=1,EE,1065A686,extended,000009C4
 
-//Cheats/Rembrandt Swan Max Infinite Health
+[Cheats/Rembrandt Swan Max Infinite Health]
 patch=1,EE,2065A684,extended,09C409C4
 
-//Cheats/Ajax Cowboy Infinite Health
+[Cheats/Ajax Cowboy Infinite Health]
 patch=1,EE,1065A804,extended,000009C4
 
-//Cheats/Ajax Cowboy Max Health
+[Cheats/Ajax Cowboy Max Health]
 patch=1,EE,1065A806,extended,000009C4
 
-//Cheats/Ajax Cowboy Max Infinite Health
+[Cheats/Ajax Cowboy Max Infinite Health]
 patch=1,EE,2065A804,extended,09C409C4
 
-//Cheats/Vermin Cochise Infinite Health
+[Cheats/Vermin Cochise Infinite Health]
 patch=1,EE,1065A984,extended,000009C4
 
-//Cheats/Vermin Cochise Max Health
+[Cheats/Vermin Cochise Max Health]
 patch=1,EE,1065A986,extended,000009C4
 
-//Cheats/Vermin Cochise Max Infinite Health
+[Cheats/Vermin Cochise Max Infinite Health]
 patch=1,EE,2065A984,extended,09C409C4
 
-//Cheats/Cleon Infinite Health
+[Cheats/Cleon Infinite Health]
 patch=1,EE,1065AB04,extended,000009C4
 
-//Cheats/Cleon Max Health
+[Cheats/Cleon Max Health]
 patch=1,EE,1065AB06,extended,000009C4
 
-//Cheats/Cleon Max Infinite Health
+[Cheats/Cleon Max Infinite Health]
 patch=1,EE,2065AB04,extended,09C409C4
 
-//Cheats/Unlock All Replay Levels
+[Cheats/Unlock All Replay Levels]
 patch=1,EE,406FE8F8,extended,00140001
 patch=1,EE,00000000,extended,00000000

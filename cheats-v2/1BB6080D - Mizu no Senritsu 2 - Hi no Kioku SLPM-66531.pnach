@@ -1,4 +1,4 @@
 gametitle=Mizu no Senritsu 2 - Hi no Kioku SLPM-66531
-//Additional elements fully open & DebugMenu appearance
+[Additional elements fully open & DebugMenu appearance]
 patch=1,EE,403E2270,extended,03D00001
 patch=1,EE,FFFFFFFF,extended,00000000

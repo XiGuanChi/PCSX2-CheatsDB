@@ -1,16 +1,16 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,2034AD94,extended,400040 00
 patch=1,EE,1034AD98,extended,00004000
 
-//Cheats/Max Gauge P1
+[Cheats/Max Gauge P1]
 patch=1,EE,1034AEA0,extended,000000F0
 
-//Cheats/P2 1 Hit Kill Press SELECT+L2
+[Cheats/P2 1 Hit Kill Press SELECT+L2]
 patch=1,EE,D03FB69C,extended,0000FEFE
 patch=1,EE,2034B354,extended,00010001
 
-//Cheats/Unlock Shin Gouki Pylon
+[Cheats/Unlock Shin Gouki Pylon]
 patch=1,EE,20345A10,extended,FFFFFFFF
 
-//Cheats/Unlock SOUND TEST All Songs
+[Cheats/Unlock SOUND TEST All Songs]
 patch=1,EE,20345A14,extended,FFFFFFFF

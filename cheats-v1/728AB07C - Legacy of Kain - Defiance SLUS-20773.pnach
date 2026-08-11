@@ -1,35 +1,35 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201FB044,extended,E60103A8
 
-//Cheats/Infinite Telekinetic Meter
+[Cheats/Infinite Telekinetic Meter]
 patch=1,EE,20203DB0,extended,E60105D8
 
-//Cheats/Player 1 Press R3 For Invincibility On
+[Cheats/Player 1 Press R3 For Invincibility On]
 patch=1,EE,D072551C,extended,0000FFFB
 patch=1,EE,10339724,extended,00000000
 
-//Cheats/Player 1 Press L3 For Invincibility Off
+[Cheats/Player 1 Press L3 For Invincibility Off]
 patch=1,EE,D072551C,extended,0000FFFD
 patch=1,EE,10339724,extended,00000800
 
-//Cheats/Have All Moves and Max Combat EXP
+[Cheats/Have All Moves and Max Combat EXP]
 patch=1,EE,2023F1D0,extended,2402270F
 patch=1,EE,2023F1D8,extended,ACA20A24
 
-//Cheats/Have All Health Talismans
+[Cheats/Have All Health Talismans]
 patch=1,EE,2023F200,extended,24050001
 patch=1,EE,2023F204,extended,A44503A6
 patch=1,EE,2023F210,extended,24020001
 
-//Cheats/Have All Telekinetic Runes
+[Cheats/Have All Telekinetic Runes]
 patch=1,EE,2023F228,extended,24020008
 patch=1,EE,2023F230,extended,A46203BA
 
-//Cheats/Have All Reavers
+[Cheats/Have All Reavers]
 patch=1,EE,2028EF68,extended,FFFFFFFF
 
-//Cheats/Have All Dark World Arcane Tomes
+[Cheats/Have All Dark World Arcane Tomes]
 patch=1,EE,207BAEA4,extended,0000000A
 
-//Cheats/Have All Light World Arcane Tomes
+[Cheats/Have All Light World Arcane Tomes]
 patch=1,EE,207BAEB4,extended,0000000A

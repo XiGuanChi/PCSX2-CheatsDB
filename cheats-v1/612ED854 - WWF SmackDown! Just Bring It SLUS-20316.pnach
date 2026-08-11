@@ -1,31 +1,31 @@
-//Cheats/Always Have Specials
+[Cheats/Always Have Specials]
 patch=1,EE,201C0760,extended,24020005
 patch=1,EE,201C0768,extended,AE2201AC
 
-//Cheats/Infinite Specials
+[Cheats/Infinite Specials]
 patch=1,EE,201AE5EC,extended,00000000
 
-//Cheats/Extra Specials
+[Cheats/Extra Specials]
 patch=1,EE,101AE5E8,extended,00000001
 
-//Cheats/Infinite Ability Points
+[Cheats/Infinite Ability Points]
 patch=1,EE,20217E90,extended,240203E7
 patch=1,EE,20218580,extended,00000000
 
-//Cheats/Always Max Smack Down Meters
+[Cheats/Always Max Smack Down Meters]
 patch=1,EE,2027EA88,extended,24020064
 patch=1,EE,2027EA90,extended,24020064
 
-//Cheats/Player 2 Cant Move
+[Cheats/Player 2 Cant Move]
 patch=1,EE,10725B14,extended,00000E84
 
-//Cheats/Save For All Characters
+[Cheats/Save For All Characters]
 patch=1,EE,007245A6,extended,000000FF
 
-//Cheats/Save For All Special Modes
+[Cheats/Save For All Special Modes]
 patch=1,EE,007245A8,extended,000000FF
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,0072B018,extended,000000FF
 
 

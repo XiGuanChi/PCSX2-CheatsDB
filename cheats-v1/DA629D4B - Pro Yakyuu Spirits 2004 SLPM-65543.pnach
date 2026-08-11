@@ -1,13 +1,13 @@
-//Cheats/Max Victory Points
+[Cheats/Max Victory Points]
 patch=1,EE,21E5FF9C,extended,000F423F
 
-//Cheats/Max when using charisma value
+[Cheats/Max when using charisma value]
 patch=1,EE,203CE68C,extended,1000000E
 
-//Cheats/Rookie Mode Max Points
+[Cheats/Rookie Mode Max Points]
 patch=1,EE,21EAC84C,extended,000F423F
 
-//Cheats/Ball Count Control R2 + SELECT = Ball, L2 + SELECT = Strike
+[Cheats/Ball Count Control R2 + SELECT = Ball, L2 + SELECT = Strike]
 patch=1,EE,E002FEFE,extended,01BF2742
 patch=1,EE,203942F8,extended,50830001
 patch=1,EE,20394300,extended,8C830000
@@ -15,8 +15,8 @@ patch=1,EE,E002FDFE,extended,01BF2742
 patch=1,EE,203942F8,extended,03E00008
 patch=1,EE,20394300,extended,1000FFFB
 
-//Cheats/Forced Pitching Auto
+[Cheats/Forced Pitching Auto]
 patch=1,EE,20304CC4,extended,34020001
 
-//Cheats/Forced Batting Auto
+[Cheats/Forced Batting Auto]
 patch=1,EE,20304DA4,extended,34020001

@@ -1,26 +1,26 @@
-//Cheats/Infinite Meter
+[Cheats/Infinite Meter]
 patch=1,EE,104AD148,extended,00000032
 patch=1,EE,104AD3A0,extended,00000032
 
-//Cheats/Unlock View Store Mode Level Select
+[Cheats/Unlock View Store Mode Level Select]
 patch=1,EE,20333454,extended,00000001
 
-//Cheats/Unlock All Free Play Levels
+[Cheats/Unlock All Free Play Levels]
 patch=1,EE,4033345C,extended,00220001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Bonus Games Levels
+[Cheats/Unlock All Bonus Games Levels]
 patch=1,EE,403334E8,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Music Room Levels
+[Cheats/Unlock All Music Room Levels]
 patch=1,EE,40333510,extended,00220001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Easy Difficulty Story Rank S All Stages
+[Cheats/Easy Difficulty Story Rank S All Stages]
 patch=1,EE,4033367C,extended,000A0001
 patch=1,EE,00000005,extended,00000000
 
-//Cheats/Normal Difficulty Story Rank S All Stages
+[Cheats/Normal Difficulty Story Rank S All Stages]
 patch=1,EE,403336AC,extended,000A0001
 patch=1,EE,00000005,extended,00000000

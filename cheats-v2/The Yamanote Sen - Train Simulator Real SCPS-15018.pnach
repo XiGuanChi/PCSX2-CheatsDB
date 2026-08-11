@@ -1,16 +1,16 @@
 gametitle=The Yamanote Sen - Train Simulator Real SCPS-15018
-//SELECT + L1 button at a speed 60 km
+[SELECT + L1 button at a speed 60 km]
 patch=1,EE,D022A004,extended,00000104
 patch=1,EE,20F4F34C,extended,42700000
 
-//SELECT + R1 per hour button 120km
+[SELECT + R1 per hour button 120km]
 patch=1,EE,D8C36575,extended,08A14C9F
 patch=1,EE,20F4F34C,extended,42F00000
 
-//all training contents can be selected
+[all training contents can be selected]
 patch=1,EE,10EA9450,extended,00000003
 
-//all training content [gold]
+[all training content [gold]]
 patch=1,EE,10EA8F48,extended,00000032
 patch=1,EE,20EA8F4C,extended,00000002
 patch=1,EE,10EA8F84,extended,00000032
@@ -32,10 +32,10 @@ patch=1,EE,20EA912C,extended,00000002
 patch=1,EE,10EA9164,extended,00000032
 patch=1,EE,20EA9168,extended,00000002
 
-//all driving test appearance
+[all driving test appearance]
 patch=1,EE,20EA9454,extended,00000002
 
-//entire operating test [gold]
+[entire operating test [gold]]
 patch=1,EE,10EA91A4,extended,00000032
 patch=1,EE,20EA91A8,extended,00000002
 patch=1,EE,10EA91E0,extended,00000032

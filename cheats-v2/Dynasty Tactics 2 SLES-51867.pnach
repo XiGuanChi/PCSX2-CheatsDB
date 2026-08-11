@@ -1,8 +1,8 @@
 gametitle=Dynasty Tactics 2 SLES-51867
-//Infinite Craft 
+[Infinite Craft]
 patch=1,EE,20A79060,extended,05FAB000
 
-//Infinite Troops 
+[Infinite Troops]
 patch=1,EE,10A79E62,extended,0000270F
 patch=1,EE,10A79E9E,extended,0000270F
 patch=1,EE,10A79EDA,extended,0000270F
@@ -11,7 +11,7 @@ patch=1,EE,10A79F52,extended,0000270F
 patch=1,EE,10A79F8E,extended,0000270F
 patch=1,EE,10A79FCA,extended,0000270F
 
-//Low Enemy Troops
+[Low Enemy Troops]
 patch=1,EE,10A7A132,extended,00000001
 patch=1,EE,10A7A16E,extended,00000001
 patch=1,EE,10A7A1AA,extended,00000001

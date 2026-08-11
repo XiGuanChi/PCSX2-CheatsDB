@@ -1,10 +1,10 @@
 gametitle=GTR-400	SLES-52045
-//have All Cars 
+[have All Cars]
 patch=1,EE,200C2000,extended,2002FFFF
 patch=1,EE,200C2004,extended,03E00008
 patch=1,EE,200C2008,extended,ACA202A8
 patch=1,EE,20160188,extended,08030800
 
-//have All Tracks
+[have All Tracks]
 patch=1,EE,201601C4,extended,2002FFFF
 patch=1,EE,201601DC,extended,2002FFFF

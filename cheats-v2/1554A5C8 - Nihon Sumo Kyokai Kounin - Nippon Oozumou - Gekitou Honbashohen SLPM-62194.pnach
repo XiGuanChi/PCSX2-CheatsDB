@@ -1,10 +1,10 @@
 gametitle=Nihon Sumo Kyokai Kounin - Nippon Oozumou - Gekitou Honbashohen SLPM-62194
-//Achieved without 100 people
+[Achieved without 100 people]
 patch=1,EE,20266D38,extended,00640064
 
-//Number of charts possessed MAX
+[Number of charts possessed MAX]
 patch=1,EE,10266CA8,extended,0000270F
 
-//Full power can be selected
+[Full power can be selected]
 patch=1,EE,20266C90,extended,FFFFFFFF
 patch=1,EE,20266C94,extended,FFFFFFFF

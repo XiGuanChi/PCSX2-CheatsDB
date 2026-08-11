@@ -1,39 +1,39 @@
-//Cheats/Invincible Mode
+[Cheats/Invincible Mode]
 patch=1,EE,10812E30,extended,00000103
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,10813052,extended,000042C8
 patch=1,EE,108133DA,extended,000042C8
 
-//Cheats/0% Infection
+[Cheats/0% Infection]
 patch=1,EE,1081305A,extended,00000000
 patch=1,EE,10813064,extended,00000000
 
-//Cheats/Infinite Nato Ammo
+[Cheats/Infinite Nato Ammo]
 patch=1,EE,10813834,extended,000003E7
 
-//Cheats/No Reloads Nato Ammo
+[Cheats/No Reloads Nato Ammo]
 patch=1,EE,108137E2,extended,00000231
 
-//Cheats/Infinite Shotgun Shells
+[Cheats/Infinite Shotgun Shells]
 patch=1,EE,10813828,extended,000003E7
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,1081382A,extended,000003E7
 
-//Cheats/Infinite Napalm
+[Cheats/Infinite Napalm]
 patch=1,EE,1081382E,extended,000003E7
 
-//Cheats/Infinite Rockets
+[Cheats/Infinite Rockets]
 patch=1,EE,10813830,extended,00000064
 
-//Cheats/Have Infinite Battery Power
+[Cheats/Have Infinite Battery Power]
 patch=1,EE,10813832,extended,0000003C
 
-//Cheats/Have 99 Recovery Type A
+[Cheats/Have 99 Recovery Type A]
 patch=1,EE,00813802,extended,00000063
 
-//Cheats/Have 99 Recovery Type B
+[Cheats/Have 99 Recovery Type B]
 patch=1,EE,00813803,extended,00000063
 
 

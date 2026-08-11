@@ -1,28 +1,28 @@
-//Cheats/Infinite Health Action Levels Deactivate them in training mission in Level 2
+[Cheats/Infinite Health Action Levels Deactivate them in training mission in Level 2]
 patch=1,EE,D0264684,extended,E48109CC
 patch=1,EE,20264690,extended,00000000
 
-//Cheats/Infinite Ammo Action Levels Deactivate them in training mission in Level 2
+[Cheats/Infinite Ammo Action Levels Deactivate them in training mission in Level 2]
 patch=1,EE,D0264684,extended,E48109CC
 patch=1,EE,202104F8,extended,00000000
 
-//Cheats/Infinite Battery Action Levels Deactivate them in training mission in Level 2
+[Cheats/Infinite Battery Action Levels Deactivate them in training mission in Level 2]
 patch=1,EE,D0241E06,extended,00004500
 patch=1,EE,20241E04,extended,C48214E8
 
-//Cheats/Infinite Health Driving Levels Deactivate them in training mission in Level 2
+[Cheats/Infinite Health Driving Levels Deactivate them in training mission in Level 2]
 patch=1,EE,D024B2E4,extended,261028C0
 patch=1,EE,2024B3D4,extended,24020001
 
-//Cheats/Infinite Ammo Driving Levels Deactivate them in training mission in Level 2
+[Cheats/Infinite Ammo Driving Levels Deactivate them in training mission in Level 2]
 patch=1,EE,D024B2E4,extended,261028C0
 patch=1,EE,202537D4,extended,10000005
 
-//Cheats/Infinite Battery Driving Levels Deactivate them in training mission in Level 2
+[Cheats/Infinite Battery Driving Levels Deactivate them in training mission in Level 2]
 patch=1,EE,D02558FE,extended,00004614
 patch=1,EE,202558FC,extended,46000006
 
-//Cheats/Unlock Rewards And Gallery
+[Cheats/Unlock Rewards And Gallery]
 patch=1,EE,20100858,extended,FFFFFFFF
 patch=1,EE,2010085C,extended,FFFFFFFF
 patch=1,EE,20100860,extended,FFFFFFFF

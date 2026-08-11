@@ -1,63 +1,63 @@
-//Cheats/Infinite Dev Points
+[Cheats/Infinite Dev Points]
 patch=1,EE,10406E0C,extended,0000FFFF
 
-//Cheats/Max Dev Points
+[Cheats/Max Dev Points]
 patch=1,EE,20406E0C,extended,05F5E0FF
 
-//Cheats/Home Team Score 9
+[Cheats/Home Team Score 9]
 patch=1,EE,104D0AEC,extended,00000009
 
-//Cheats/Away Team Score 9
+[Cheats/Away Team Score 9]
 patch=1,EE,104D0AEE,extended,00000009
 
-//Cheats/Home Team Never Scores
+[Cheats/Home Team Never Scores]
 patch=1,EE,2021B800,extended,00000000
 
-//Cheats/Away Team Never Scores
+[Cheats/Away Team Never Scores]
 patch=1,EE,2021B808,extended,00000000
 
-//Cheats/Home Team Infinite Style Points
+[Cheats/Home Team Infinite Style Points]
 patch=1,EE,104F9C90,extended,0000FFFF
 
-//Cheats/Home Team No Style Points
+[Cheats/Home Team No Style Points]
 patch=1,EE,204F9C90,extended,00000000
 
-//Cheats/Home Team Max Style Points
+[Cheats/Home Team Max Style Points]
 patch=1,EE,204F9C90,extended,05F5E0FF
 
-//Cheats/Away Team Infinite Style Points
+[Cheats/Away Team Infinite Style Points]
 patch=1,EE,104F9C94,extended,0000FFFF
 
-//Cheats/Away Team No Style Points
+[Cheats/Away Team No Style Points]
 patch=1,EE,104F9C94,extended,00000000
 
-//Cheats/Away Team Max Style Points
+[Cheats/Away Team Max Style Points]
 patch=1,EE,204F9C94,extended,05F5E0FF
 
-//Cheats/Home Team Always Have GameBreaker
+[Cheats/Home Team Always Have GameBreaker]
 patch=1,EE,204F9C98,extended,00002710
 
-//Cheats/Home Team Never Has GameBreaker
+[Cheats/Home Team Never Has GameBreaker]
 patch=1,EE,204F9C98,extended,00000000
 
-//Cheats/Away Team Always Have GameBreaker
+[Cheats/Away Team Always Have GameBreaker]
 patch=1,EE,204F9C9C,extended,00002710
 
-//Cheats/Away Team Never Has GameBreaker
+[Cheats/Away Team Never Has GameBreaker]
 patch=1,EE,204F9C9C,extended,00000000
 
-//Cheats/Away Team Infinite Turbo
+[Cheats/Away Team Infinite Turbo]
 patch=1,EE,204F7778,extended,3B9ACA00
 
-//Cheats/Away Team No Turbo
+[Cheats/Away Team No Turbo]
 patch=1,EE,204F7778,extended,00000000
 
-//Cheats/Home Team Infinite Turbo
+[Cheats/Home Team Infinite Turbo]
 patch=1,EE,204F77A8,extended,3B9ACA00
 
-//Cheats/Home Team No Turbo
+[Cheats/Home Team No Turbo]
 patch=1,EE,204F77A8,extended,00000000
 
-//Cheats/P1 Press R2+Select For 4th Down
+[Cheats/P1 Press R2+Select For 4th Down]
 patch=1,EE,D04A1FC2,extended,0000FDFE
 patch=1,EE,204D0AE0,extended,00000004

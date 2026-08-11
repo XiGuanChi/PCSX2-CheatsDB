@@ -1,21 +1,21 @@
-//Cheats/Max Money 999999999
+[Cheats/Max Money 999999999]
 patch=1,EE,2025E838,extended,05F5E09C
 
-//Cheats/Max Money After Using
+[Cheats/Max Money After Using]
 patch=1,EE,D0176E10,extended,10000007
 patch=1,EE,20176E14,extended,AC65E838
 
-//Cheats/Experience Points Gained 9999
+[Cheats/Experience Points Gained 9999]
 patch=1,EE,2025A03C,extended,00000000
 
-//Cheats/Infinite SP
+[Cheats/Infinite SP]
 patch=1,EE,40267DE8,extended,00240001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Infinite EN & Ammo Effective on all units on the map
+[Cheats/Infinite EN & Ammo Effective on all units on the map]
 patch=1,EE,10170516,extended,00001000
 
-//Cheats/Max EXP After One Battle
+[Cheats/Max EXP After One Battle]
 patch=1,EE,201702A4,extended,0803C000
 patch=1,EE,201702A8,extended,00000000
 patch=1,EE,200F0000,extended,3C020001
@@ -23,7 +23,7 @@ patch=1,EE,200F0004,extended,2442BF68
 patch=1,EE,200F0008,extended,03E00008
 patch=1,EE,200F000C,extended,27BD0030
 
-//Cheats/Change the Effect of V-UP Unit HP +10000, EN +400, Mobility +250, Armor +1000, Limit +100
+[Cheats/Change the Effect of V-UP Unit HP +10000, EN +400, Mobility +250, Armor +1000, Limit +100]
 patch=1,EE,20266AE4,extended,00002710
 patch=1,EE,20266AE8,extended,00002710
 patch=1,EE,20266AEC,extended,00002710
@@ -45,19 +45,19 @@ patch=1,EE,20266B58,extended,00000064
 patch=1,EE,20266B5C,extended,00000064
 patch=1,EE,20266B60,extended,00000064
 
-//Cheats/Repair cost 0
+[Cheats/Repair cost 0]
 patch=1,EE,40B6E940,extended,038C0040
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/All terrain S rank
+[Cheats/All terrain S rank]
 patch=1,EE,40B6E950,extended,038C0040
 patch=1,EE,00004924,extended,00000000
 
-//Cheats/HP 99999, EN 999, Mobility 999, Armor 9999, Limit 999 Modification upper limit release When modifying, the following values should be the upper limit:
+[Cheats/HP 99999, EN 999, Mobility 999, Armor 9999, Limit 999 Modification upper limit release When modifying, the following values should be the upper limit:]
 patch=1,EE,40B6E9A8,extended,038C0040
 patch=1,EE,00F00000,extended,00000000
 
-//Cheats/Unlock All Reinforced Parts
+[Cheats/Unlock All Reinforced Parts]
 patch=1,EE,0025E8B5,extended,00000009
 patch=1,EE,1025E8B6,extended,00000909
 patch=1,EE,2025E8B8,extended,09090909

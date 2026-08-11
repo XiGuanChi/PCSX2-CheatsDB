@@ -1,24 +1,24 @@
 gametitle=Jade Cocoon 2 SLES-50735
-//Max Reputation
+[Max Reputation]
 patch=1,EE,1087A08C,extended,0000270F
 
-//Inf Yens
+[Inf Yens]
 patch=1,EE,1087A088,extended,0000FFFF
 
-//Carry Up To 8 Beasts
+[Carry Up To 8 Beasts]
 patch=1,EE,0087A094,extended,00000008
 
-//Arena code - No Shield for enemy beast hunter
+[Arena code - No Shield for enemy beast hunter]
 patch=1,EE,11C71A34,extended,00000000
 
-//Beast 1 Max Health
+[Beast 1 Max Health]
 patch=1,EE,1087A810,extended,000003E7
 
-//Beast 1 Full Health
+[Beast 1 Full Health]
 patch=1,EE,1087A814,extended,000003E7
 
-//Beast 1 Max MP
+[Beast 1 Max MP]
 patch=1,EE,1087A828,extended,000003E7
 
-//Beast 1 Full MP
+[Beast 1 Full MP]
 patch=1,EE,1087A82C,extended,000003E7

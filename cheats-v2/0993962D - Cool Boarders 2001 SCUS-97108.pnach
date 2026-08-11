@@ -1,21 +1,21 @@
 gametitle=Cool Boarders 2001 SCUS-97108
-//Gate Misses Dont Count
+[Gate Misses Dont Count]
 patch=1,EE,20130430,extended,00000000
 patch=1,EE,2013114C,extended,00000000
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,10302288,extended,0000FFFF
 
-//Quick Race Codes - Have All Characters
+[Quick Race Codes - Have All Characters]
 patch=1,EE,2018C65C,extended,FFFFFFFF
 
-//Quick Race Codes - Have All Events
+[Quick Race Codes - Have All Events]
 patch=1,EE,4018C544,extended,00060001
 patch=1,EE,01010101,extended,00000000
 
-//Career Codes - Unlock All Characters
+[Career Codes - Unlock All Characters]
 patch=1,EE,2018A6D0,extended,FFFFFFFF
 
-//Career Codes - Have All Events
+[Career Codes - Have All Events]
 patch=1,EE,4018A690,extended,00100001
 patch=1,EE,01010101,extended,00000000

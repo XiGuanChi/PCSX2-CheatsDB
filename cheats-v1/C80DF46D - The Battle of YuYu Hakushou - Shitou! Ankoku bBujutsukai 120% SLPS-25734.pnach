@@ -1,39 +1,39 @@
-//Cheats/1P Infinite Health
+[Cheats/1P Infinite Health]
 patch=1,EE,1029C988,extended,000001E0
 
-//Cheats/1P Infinite Energy and Transform
+[Cheats/1P Infinite Energy and Transform]
 patch=1,EE,1029C994,extended,0000012C
 patch=1,EE,1015A4A8,extended,00000700
 
-//Cheats/Max Physical Fitness Gauge
+[Cheats/Max Physical Fitness Gauge]
 patch=1,EE,2029C988,extended,000003E7
 patch=1,EE,2029C98C,extended,000003E7
 patch=1,EE,2029C990,extended,000003E7
 
-//Cheats/Max Ghost Power Gauge
+[Cheats/Max Ghost Power Gauge]
 patch=1,EE,2029C994,extended,000003E7
 patch=1,EE,2029C998,extended,000003E7
 patch=1,EE,2029C99C,extended,000003E7
 
-//Cheats/2P Health 0
+[Cheats/2P Health 0]
 patch=1,EE,2029E408,extended,00000000
 
-//Cheats/1P Time attack 0 seconds
+[Cheats/1P Time attack 0 seconds]
 patch=1,EE,202A35F0,extended,00000000
 
-//Cheats/Infinnite Time
+[Cheats/Infinnite Time]
 patch=1,EE,20231C88,extended,00001734
 
-//Cheats/Unlock All Characters and Movies
+[Cheats/Unlock All Characters and Movies]
 patch=1,EE,202A3584,extended,FFFFFFFF
 patch=1,EE,0029FDE0,extended,0000000F
 
-//Cheats/Unlock All Bonus
+[Cheats/Unlock All Bonus]
 patch=1,EE,2029FCC8,extended,FFFFFFFF
 patch=1,EE,2029FDE0,extended,0000000F
 patch=1,EE,2029FDE4,extended,0000000F
 
-//Cheats/Character Gallery Viewpoint Restriction Lifted
+[Cheats/Character Gallery Viewpoint Restriction Lifted]
 patch=1,EE,201545D8,extended,10000003
 patch=1,EE,20154600,extended,10000003
 patch=1,EE,201546BC,extended,10000004

@@ -1,20 +1,20 @@
 gametitle=Ace Combat Zero - The Belkan War SLUS-21346
-//Infinite Money
+[Infinite Money]
 patch=1,EE,203B3868,extended,05F5E0FF
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20231B2C,extended,240E0065
 patch=1,EE,20231B34,extended,A6EE0398
 patch=1,EE,10231B3A,extended,00001000
 
-//Invincible
+[Invincible]
 patch=1,EE,200C0220,extended,8E0F01F8
 patch=1,EE,200C0224,extended,35EF8000
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,AE0F01F8
 patch=1,EE,2027B39C,extended,0C030088
 
-//Press L1+Select To Complete Mission
+[Press L1+Select To Complete Mission]
 patch=1,EE,E002FBFE,extended,0069751C
 patch=1,EE,201DDBFC,extended,00000000
 patch=1,EE,201DDDC0,extended,00000000
@@ -22,17 +22,17 @@ patch=1,EE,E002FFFF,extended,0069751C
 patch=1,EE,201DDBFC,extended,52C00086
 patch=1,EE,201DDDC0,extended,06200014
 
-//All SP Weapons
+[All SP Weapons]
 patch=1,EE,403B3A40,extended,001B0001
 patch=1,EE,01010101,extended,00000000
 
-//All Aircraft
+[All Aircraft]
 patch=1,EE,403B3A90,extended,002C0001
 patch=1,EE,01010101,extended,00000000
 
-//Infinite Missiles
+[Infinite Missiles]
 patch=1,EE,202310E8,extended,25EF0000
 
-//Infinite Special Weapons
+[Infinite Special Weapons]
 patch=1,EE,20233D34,extended,25EF0000
 

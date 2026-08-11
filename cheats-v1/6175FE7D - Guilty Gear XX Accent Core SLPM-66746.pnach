@@ -1,7 +1,7 @@
-//Cheats/Infinite HP 1P
+[Cheats/Infinite HP 1P]
 patch=1,EE,11EF681E,extended,000001A4
 
-//Cheats/Infinite HP 1P Selecn+L3 on Select+R3 OFF
+[Cheats/Infinite HP 1P Selecn+L3 on Select+R3 OFF]
 patch=1,EE,D0412B34,extended,00000300
 patch=1,EE,000FFFF0,extended,00000001
 patch=1,EE,D00FFFF0,extended,00000001
@@ -9,30 +9,30 @@ patch=1,EE,11EF681E,extended,000001A4
 patch=1,EE,D0412B34,extended,00000500
 patch=1,EE,000FFFF0,extended,00000000
 
-//Cheats/Max Tension 1P
+[Cheats/Max Tension 1P]
 patch=1,EE,10397CB8,extended,00002710
 patch=1,EE,10397DA4,extended,00002710
 
-//Cheats/Max Guard 1P
+[Cheats/Max Guard 1P]
 patch=1,EE,10397CD2,extended,00000080
 
-//Cheats/Max Burst 1P
+[Cheats/Max Burst 1P]
 patch=1,EE,20397DB0,extended,00013A98
 
-//Cheats/Always Blue Traits
+[Cheats/Always Blue Traits]
 patch=1,EE,10397CC2,extended,00000001
 
-//Cheats/Press L1+L2 2P HP 0
+[Cheats/Press L1+L2 2P HP 0]
 patch=1,EE,D041509C,extended,0000FAFF
 patch=1,EE,11EF6942,extended,00000000
 
-//Cheats/SURVIVAL MODE Level 1000
+[Cheats/SURVIVAL MODE Level 1000]
 patch=1,EE,102D4F1C,extended,000003E8
 
-//Cheats/Unlock All Characters Color Normal EX and Mode AC?GG ,GGX
+[Cheats/Unlock All Characters Color Normal EX and Mode AC?GG ,GGX]
 patch=1,EE,20320648,extended,0000EA60
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,102D49C2,extended,00000019
 patch=1,EE,402D49C4,extended,000C0001
 patch=1,EE,00010000,extended,00020002

@@ -1,26 +1,26 @@
-//Cheats/Always 1st Place
+[Cheats/Always 1st Place]
 patch=1,EE,20215850,extended,00000000
 patch=1,EE,202158A8,extended,AC400C64
 
-//Cheats/Infinite Continues
+[Cheats/Infinite Continues]
 patch=1,EE,21E2D140,extended,00000003
 
-//Cheats/Unlock Extra GPs
+[Cheats/Unlock Extra GPs]
 patch=1,EE,21E2D17E,extended,0000010F
 
-//Cheats/Unlock All Cars
+[Cheats/Unlock All Cars]
 patch=1,EE,41E2D1C8,extended,00070001
 patch=1,EE,02020202,extended,00000000
 
-//Cheats/Unlock All Trophies
+[Cheats/Unlock All Trophies]
 patch=1,EE,21E2F328,extended,01010101
 patch=1,EE,21E2F32C,extended,01010101
 
-//Cheats/Unlock All Medals
+[Cheats/Unlock All Medals]
 patch=1,EE,21E2F330,extended,01010101
 patch=1,EE,21E2F334,extended,01010101
 
-//Cheats/Unlock Race Modes
+[Cheats/Unlock Race Modes]
 patch=1,EE,01E2D1A1,extended,00000001
 patch=1,EE,01E2D1A5,extended,00000001
 patch=1,EE,11E2D1A6,extended,00000601

@@ -1,9 +1,9 @@
 gametitle=Sega Ages 2500 Series Vol.10 - After Burner 2 SLPM-62446
-//invincible
+[invincible]
 patch=1,EE,2014C620,extended,03E00008
 
-//Infinite planes
+[Infinite planes]
 patch=1,EE,20172A28,extended,00000000
 
-//Infinite missile
+[Infinite missile]
 patch=1,EE,2014DB0C,extended,00000000

@@ -1,38 +1,38 @@
 gametitle=Ace Combat - Squadron Leader SCES-52424
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2013E6C8,extended,A4C2031C
 
-//Infinite Gun Ammo
+[Infinite Gun Ammo]
 patch=1,EE,20128A78,extended,00041021
 
-//Special Weapon Ammo
+[Special Weapon Ammo]
 patch=1,EE,20129654,extended,00000000
 
-//Infinite: Missile Ammo
+[Infinite: Missile Ammo]
 patch=1,EE,20127D7C,extended,00000000
 
-//Instant Missile Reload Time
+[Instant Missile Reload Time]
 patch=1,EE,201275D8,extended,00000000
 patch=1,EE,20127664,extended,00000000
 
-//Infinite Bombs/Secondary Missiles
+[Infinite Bombs/Secondary Missiles]
 patch=1,EE,2012964C,extended,00000000
 
-//Instant Bomb/Secondary Missile Reload Time
+[Instant Bomb/Secondary Missile Reload Time]
 patch=1,EE,20128F84,extended,00000000
 
-//Purchase A Plane For Lots Of Cash
+[Purchase A Plane For Lots Of Cash]
 patch=1,EE,2029E878,extended,3C0305F5
 
-//Maximum Points After Getting Some
+[Maximum Points After Getting Some]
 patch=1,EE,201684F8,extended,3C0305F5
 
 
 
 
-//Have:No Ground/Building Collisions
+[Have:No Ground/Building Collisions]
 patch=1,EE,20168098,extended,12A0002B
 
-//View Aircraft Data to Have Planes All Aircraft Available
+[View Aircraft Data to Have Planes All Aircraft Available]
 patch=1,EE,202D2DE8,extended,24030001
 patch=1,EE,202D2DF0,extended,A04332C0

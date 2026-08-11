@@ -1,32 +1,32 @@
-//Cheats/Victory P1
+[Cheats/Victory P1]
 patch=1,EE,0024BA10,extended,00000004
 patch=1,EE,0024BA18,extended,00000006
 patch=1,EE,0024BA20,extended,00000004
 
-//Cheats/P1 Power Gauge Collects Immediately
+[Cheats/P1 Power Gauge Collects Immediately]
 patch=1,EE,D024BA02,extended,002042C7
 patch=1,EE,1024BA02,extended,000042C7
 
-//Cheats/Gauge Rises At High Speed
+[Cheats/Gauge Rises At High Speed]
 patch=1,EE,2024B160,extended,41200000
 
-//Cheats/P2 Score 0 Points
+[Cheats/P2 Score 0 Points]
 patch=1,EE,0024BA14,extended,00000000
 
-//Cheats/P2 Power Gauge 0
+[Cheats/P2 Power Gauge 0]
 patch=1,EE,1024BA06,extended,00000000
 
-//Cheats/Myself Point Addition No Matter What
+[Cheats/Myself Point Addition No Matter What]
 patch=1,EE,20103FA4,extended,8CC20000
 patch=1,EE,20103FB0,extended,ACC20000
 
-//Cheats/Get Game in Love Game
+[Cheats/Get Game in Love Game]
 patch=1,EE,00103FA8,extended,00000005
 
-//Cheats/Player Judgment favoring players Even if you miss a point, it will always be the player's point (in a single-player game)
+[Cheats/Player Judgment favoring players Even if you miss a point, it will always be the player's point (in a single-player game)]
 patch=1,EE,20103F98,extended,00061821
 patch=1,EE,20103FA0,extended,00061821
 
-//Cheats/Unlock All Bonus Exit after entering the option and all the extras, stages, characters and costumes are unlocked
+[Cheats/Unlock All Bonus Exit after entering the option and all the extras, stages, characters and costumes are unlocked]
 patch=1,EE,20140A10,extended,10000006
 patch=1,EE,20140A40,extended,00000000

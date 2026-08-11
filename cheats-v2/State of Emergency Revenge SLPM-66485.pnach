@@ -1,20 +1,20 @@
 gametitle=State of Emergency Revenge SLPM-66485
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201FC2D4,extended,248402B0
 patch=1,EE,201FC2D8,extended,24130009
 patch=1,EE,201FC2DC,extended,A493000E
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201FBF3C,extended,8E8400F4
 patch=1,EE,201FBF5C,extended,A4930018
 
-//All the mini-games
+[All the mini-games]
 patch=1,EE,204579A0,extended,03030303
 
-//Cheat & call full opening
+[Cheat & call full opening]
 patch=1,EE,204579A8,extended,FFFFFFFF
 patch=1,EE,204579AC,extended,FFFFFFFF
 
-//All the stages Saving, when it loads, there is an effect.
+[All the stages Saving, when it loads, there is an effect.]
 patch=1,EE,40457DE4,extended,00140001
 patch=1,EE,00000001,extended,00000000

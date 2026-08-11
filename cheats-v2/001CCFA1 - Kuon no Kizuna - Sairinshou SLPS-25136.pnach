@@ -1,11 +1,11 @@
 gametitle=Kuon no Kizuna - Sairinshou SLPS-25136
-//Unlocj all gallery and music
+[Unlocj all gallery and music]
 patch=1,EE,402E2DAC,extended,004D0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,202E2ED8,extended,01010101
 patch=1,EE,202E2EDC,extended,01010101
 
-//Display bug. From top to bottom From the beginning from the continuation
-//Eternal memory BGM listening option second advent debug
+[Display bug. From top to bottom From the beginning from the continuation]
+[Eternal memory BGM listening option second advent debug]
 patch=1,EE,002E2EE1,extended,00000001
 patch=1,EE,002C2160,extended,00000001

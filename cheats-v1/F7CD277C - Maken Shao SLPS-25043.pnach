@@ -1,20 +1,20 @@
-//Cheats/Infinite Strength
+[Cheats/Infinite Strength]
 patch=1,EE,102CD678,extended,0000000F
 
-//Cheats/Max Extra Gauge
+[Cheats/Max Extra Gauge]
 patch=1,EE,002CD680,extended,00000064
 
-//Cheats/Max Image
+[Cheats/Max Image]
 patch=1,EE,20231630,extended,00018696
 
-//Cheats/ress Select+L1 Invincibility. Select+R1 to cancel
+[Cheats/ress Select+L1 Invincibility. Select+R1 to cancel]
 patch=1,EE,D0391B42,extended,0000FBFE
 patch=1,EE,2015914C,extended,1000026B
 patch=1,EE,D0391B42,extended,0000F7FE
 patch=1,EE,2015914C,extended,1C40026B
 
-//Cheats/Unlock All Museum & Trial It is not reflected in save data
+[Cheats/Unlock All Museum & Trial It is not reflected in save data]
 patch=1,EE,102F2534,extended,0000000F
 
-//Cheats/Unlock All Sound TesT It is not reflected in save data
+[Cheats/Unlock All Sound TesT It is not reflected in save data]
 patch=1,EE,102F2532,extended,00000001

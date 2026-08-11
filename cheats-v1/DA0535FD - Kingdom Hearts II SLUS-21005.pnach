@@ -1,33 +1,33 @@
-//Cheats/Infinite Munny
+[Cheats/Infinite Munny]
 patch=1,EE,2033FE60,extended,000F423F
 
-//Cheats/Infinite HP-All Characters
+[Cheats/Infinite HP-All Characters]
 patch=1,EE,2019F980,extended,922F0005
 
-//Cheats/Infinite MP All Characters
+[Cheats/Infinite MP All Characters]
 patch=1,EE,2019F990,extended,922E0007
 
-//Cheats/Level 99 All Characters
+[Cheats/Level 99 All Characters]
 patch=1,EE,0033FECF,extended,00000063
 
-//Cheats/Infinite Health Gummi Ship
+[Cheats/Infinite Health Gummi Ship]
 patch=1,EE,E0020008,extended,01F23408
 patch=1,EE,21F23408,extended,8C820008
 patch=1,EE,21F2340C,extended,AC820004
 
-//Cheats/Jimmies Note Book All Maps GIves u Drives as well
+[Cheats/Jimmies Note Book All Maps GIves u Drives as well]
 patch=1,EE,20340E28,extended,FFFFFFFF
 patch=1,EE,20340E2C,extended,FFFFFFFF
 patch=1,EE,20340E30,extended,FFFFFFFF
 
-//Cheats/Unlock All Jiminy's Journal its not to fill just to have
+[Cheats/Unlock All Jiminy's Journal its not to fill just to have]
 patch=1,EE,4033FDB0,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Heartless Monsters Defeted Jimmies notes
+[Cheats/Unlock All Heartless Monsters Defeted Jimmies notes]
 patch=1,EE,40340EB0,extended,002F0001
 patch=1,EE,000000FF,extended,00000000
 
-//Cheats/Unlock All Nobody Monsters Defeted Jimmies notes
+[Cheats/Unlock All Nobody Monsters Defeted Jimmies notes]
 patch=1,EE,40341030,extended,000C0001
 patch=1,EE,000000FF,extended,00000000

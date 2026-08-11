@@ -1,20 +1,20 @@
 gametitle=Rally Fusion - Race of Champions SLUS-20361
-//Access All Multiplayer Cars
+[Access All Multiplayer Cars]
 patch=1,EE,20918FF8,extended,FFFFFFFF
 
-//Access All Multiplayer Tracks
+[Access All Multiplayer Tracks]
 patch=1,EE,20918FFC,extended,FFFFFFFF
 
-//Access All Multiplayer Modes
+[Access All Multiplayer Modes]
 patch=1,EE,20919000,extended,FFFFFFFF
 
-//Access All Tracks
+[Access All Tracks]
 patch=1,EE,20919008,extended,FFFFFFFF
 
-//Always Low Time
+[Always Low Time]
 patch=1,EE,201BBB0C,extended,00000000
 
-//Press L1f + select.To End Race
+[Press L1f + select.To End Race]
 patch=1,EE,200C0220,extended,9421E082
 patch=1,EE,200C0224,extended,3402FBFE
 patch=1,EE,200C0228,extended,14220002

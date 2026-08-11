@@ -1,19 +1,19 @@
-//Cheats/Press R3 Scroll Mode Normally Time 0
+[Cheats/Press R3 Scroll Mode Normally Time 0]
 patch=1,EE,0D6CE968,extended,1456EBA5
 patch=1,EE,1D6A72D8,extended,1456E7A5
 
-//Cheats/Press R3 Scroll Mode Coffee Break Time 0
+[Cheats/Press R3 Scroll Mode Coffee Break Time 0]
 patch=1,EE,0D69E278,extended,1456EBA5
 patch=1,EE,1D6A72E8,extended,1456E7A5
 
-//Cheats/Press R3 Arcade Mode Time 0
+[Cheats/Press R3 Arcade Mode Time 0]
 patch=1,EE,0D6CEB78,extended,1456EBA5
 patch=1,EE,1D6A7B30,extended,1456E7A5
 
-//Cheats/Car Has Emotion
+[Cheats/Car Has Emotion]
 patch=1,EE,203C3A00,extended,1000
 
-//Cheats/Unlock All Gold License Open the game status in the upper left or upper right corner to reflect this Choose a license and return to receive the gift car Reflected in your save data
+[Cheats/Unlock All Gold License Open the game status in the upper left or upper right corner to reflect this Choose a license and return to receive the gift car Reflected in your save data]
 patch=1,EE,203FE168,extended,08033333
 patch=1,EE,200CCCCC,extended,24190003
 patch=1,EE,200CCCD0,extended,03E00008

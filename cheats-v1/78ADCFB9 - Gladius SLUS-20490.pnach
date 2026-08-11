@@ -1,13 +1,13 @@
-//Cheats/Infinite Health 1st Warrior In Battle
+[Cheats/Infinite Health 1st Warrior In Battle]
 patch=1,EE,10761C36,extended,000003E7
 
-//Cheats/Infinite Health 2nd Warrior In Battle
+[Cheats/Infinite Health 2nd Warrior In Battle]
 patch=1,EE,107620BA,extended,000003E7
 
-//Cheats/Infinite Gold
+[Cheats/Infinite Gold]
 patch=1,EE,105BC97C,extended,0000FFFF
 
-//Cheats/Quick Level Gain Most Characters
+[Cheats/Quick Level Gain Most Characters]
 patch=1,EE,10577304,extended,0000FFFF
 patch=1,EE,105773B0,extended,0000FFFF
 patch=1,EE,1057745C,extended,0000FFFF
@@ -18,11 +18,11 @@ patch=1,EE,10577A68,extended,0000FFFF
 patch=1,EE,10577B14,extended,0000FFFF
 patch=1,EE,10577F1C,extended,0000FFFF
 
-//Cheats/1 Hit Death Enemies
+[Cheats/1 Hit Death Enemies]
 patch=1,EE,013861C7,extended,00000048
 patch=1,EE,30307FFE,extended,00B39B18
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,24020032
 patch=1,EE,200C0224,extended,52400001
 patch=1,EE,200C0228,extended,A4820102
@@ -30,22 +30,22 @@ patch=1,EE,200C022C,extended,03E00008
 patch=1,EE,200C0230,extended,84820102
 patch=1,EE,2018AAEC,extended,0C030088
 
-//Cheats/Infinite Offensive Affinity
+[Cheats/Infinite Offensive Affinity]
 patch=1,EE,201EC93C,extended,24010064
 patch=1,EE,101EC942,extended,00001000
 patch=1,EE,201EC944,extended,AC81010C
 
-//Cheats/Infinite Defensive Affinity
+[Cheats/Infinite Defensive Affinity]
 patch=1,EE,201EC9CC,extended,24010064
 patch=1,EE,101EC9D2,extended,00001000
 patch=1,EE,201EC9D4,extended,AC810110
 
-//Cheats/Infinite Job Points Usage
+[Cheats/Infinite Job Points Usage]
 patch=1,EE,20142014,extended,00000000
 
-//Cheats/Max Days
+[Cheats/Max Days]
 patch=1,EE,20605884,extended,4A828480
 
-//Cheats/Have All Rogues Gallery
+[Cheats/Have All Rogues Gallery]
 patch=1,EE,405BC9A0,extended,00200001
 patch=1,EE,01010101,extended,00000000

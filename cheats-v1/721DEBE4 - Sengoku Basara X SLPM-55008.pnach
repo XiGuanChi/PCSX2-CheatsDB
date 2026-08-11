@@ -1,47 +1,47 @@
-//Cheats/Infinite HP Player 1
+[Cheats/Infinite HP Player 1]
 patch=1,EE,20A1FFC8,extended,444E0000
 patch=1,EE,20A1FFD4,extended,444E0000
 
-//Cheats/Player 1 - Death blow
+[Cheats/Player 1 - Death blow]
 patch=1,EE,20A1FFD4,extended,3F800000
 
-//Cheats/Reinforcements Level Rise Rate
+[Cheats/Reinforcements Level Rise Rate]
 patch=1,EE,202922BC,extended,00000000
 patch=1,EE,202922E4,extended,zz000001
 
-//Cheats/ARCADE Start from the Last Side
+[Cheats/ARCADE Start from the Last Side]
 patch=1,EE,20A1FE90,extended,00000007
 
-//Cheats/CHALLENGE LEVEL Up Max
+[Cheats/CHALLENGE LEVEL Up Max]
 patch=1,EE,202F9B44,extended,00000000
 
-//Cheats/CHALLENGE Start from the last level
+[Cheats/CHALLENGE Start from the last level]
 patch=1,EE,00A26C28,extended,0000000C
 
-//Cheats/CHALLENGE Remaining time fixed at 10 minutes
+[Cheats/CHALLENGE Remaining time fixed at 10 minutes]
 patch=1,EE,20A26BE4,extended,00008CDB
 
-//Cheats/CHALLENGE Remaining time does not decrease
+[Cheats/CHALLENGE Remaining time does not decrease]
 patch=1,EE,202F0C34,extended,00000000
 
-//Cheats/CHALLENGE 1P Infinite Health
+[Cheats/CHALLENGE 1P Infinite Health]
 patch=1,EE,20A1FFC8,extended,444E0000
 patch=1,EE,20A1FFD4,extended,444E0000
 
-//Cheats/CHALLENGE 1P Max Basara Gauge
+[Cheats/CHALLENGE 1P Max Basara Gauge]
 patch=1,EE,20A1FFF8,extended,4439000
 
-//Cheats/CHALLENGE 1P Don't Panic
+[Cheats/CHALLENGE 1P Don't Panic]
 patch=1,EE,10A20030,extended,00000000
 patch=1,EE,20A20038,extended,00000000
 
-//Cheats/CHALLENGE 1P Infinite Jump
+[Cheats/CHALLENGE 1P Infinite Jump]
 patch=1,EE,10A20050,extended,00001000
 
-//Cheats/CHALLENGE 1P Max Stylish Points
+[Cheats/CHALLENGE 1P Max Stylish Points]
 patch=1,EE,20A1FE5C,extended,3B9AC9FF
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,103952EA,extended,00000101
 patch=1,EE,103952F4,extended,00000101
 patch=1,EE,203952EC,extended,01010101

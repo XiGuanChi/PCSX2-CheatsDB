@@ -1,12 +1,12 @@
 gametitle=Silent Hill 3 SLPM-65257
-//Invincible (except blow death)
+[Invincible (except blow death)]
 patch=1,EE,2018B954,extended,4A0002FF
 patch=1,EE,2018B95C,extended,E600019C
 
-//Infinite bullets
+[Infinite bullets]
 patch=1,EE,2016D8D8,extended,24420000
 
-//All Items & Weapons 
+[All Items & Weapons]
 patch=1,EE,21D31BF0,extended,FFFFFFFF
 patch=1,EE,21D31BF4,extended,FFFFFFFF
 patch=1,EE,21D31BF8,extended,FFFFFFFF

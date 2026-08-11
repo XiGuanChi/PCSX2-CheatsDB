@@ -1,19 +1,19 @@
-//Cheats/Infinite AMR P1
+[Cheats/Infinite AMR P1]
 patch=1,EE,20308B04,extended,43FA0000
 
-//Cheats/Infinite BA P1
+[Cheats/Infinite BA P1]
 patch=1,EE,20308B00,extended,43FA0000
 
-//Cheats/Infinite Power Gauge P1
+[Cheats/Infinite Power Gauge P1]
 patch=1,EE,20308B08,extended,447A0000
 
-//Cheats/Infinite Skill Shields P1
+[Cheats/Infinite Skill Shields P1]
 patch=1,EE,20308B0C,extended,00000003
 
-//Cheats/Infinite Support Character BA P1
+[Cheats/Infinite Support Character BA P1]
 patch=1,EE,20308B14,extended,447A0000
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,1030B956,extended,00000001
 patch=1,EE,4030B958,extended,00090001
 patch=1,EE,00010001,extended,00000000
@@ -25,19 +25,19 @@ patch=1,EE,1030B9CE,extended,00000001
 patch=1,EE,2030B9D0,extended,00010001
 patch=1,EE,1030B9D4,extended,00000001
 
-//Cheats/Unlock All Options
+[Cheats/Unlock All Options]
 patch=1,EE,4030B914,extended,00040001
 patch=1,EE,00010001,extended,00000000
 
-//Cheats/Unlock All Missions
+[Cheats/Unlock All Missions]
 patch=1,EE,4030BA54,extended,00070001
 patch=1,EE,00010001,extended,00000000
 
-//Cheats/Unlock All Modes
+[Cheats/Unlock All Modes]
 patch=1,EE,4030B918,extended,00030001
 patch=1,EE,00010001,extended,00000000
 
-//Cheats/Unlock All Tag Team Levels
+[Cheats/Unlock All Tag Team Levels]
 patch=1,EE,4030BA14,extended,00100001
 patch=1,EE,00010001,extended,00000000
 

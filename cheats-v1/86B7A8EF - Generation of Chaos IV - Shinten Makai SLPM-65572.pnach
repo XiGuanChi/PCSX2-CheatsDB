@@ -1,39 +1,39 @@
-//Cheats/Max Gold 99,999
+[Cheats/Max Gold 99,999]
 patch=1,EE,2032C1B0,extended,0001869f
 
-//Cheats/Character Level 50
+[Cheats/Character Level 50]
 patch=1,EE,0032c198,extended,00000032
 
-//Cheats/Strengthen Your Character Up To 99 By Allocating Bonus Points
+[Cheats/Strengthen Your Character Up To 99 By Allocating Bonus Points]
 patch=1,EE,20230650,extended,28610064
 patch=1,EE,2023065C,extended,24030063
 
-//Cheats/Max Loyalty After A Month
+[Cheats/Max Loyalty After A Month]
 patch=1,EE,20158EAC,extended,10000028
 patch=1,EE,20158F68,extended,00401025
 
-//Cheats/Attacks Miss All Members Of Your Army
+[Cheats/Attacks Miss All Members Of Your Army]
 patch=1,EE,201FBF4C,extended,0016880A
 patch=1,EE,201FBF50,extended,122000DF
 
-//Cheats/Max SP
+[Cheats/Max SP]
 patch=1,EE,20238E9C,extended,3415006B
 
-//Cheats/Jina Max HP
+[Cheats/Jina Max HP]
 patch=1,EE,102485F2,extended,0000270F
 patch=1,EE,102485F4,extended,0000270F
 
-//Cheats/Jina Max SP
+[Cheats/Jina Max SP]
 patch=1,EE,002485F6,extended,00000063
 patch=1,EE,002485F8,extended,00000063
 
-//Cheats/TOP Menu Display 99 Actions
+[Cheats/TOP Menu Display 99 Actions]
 patch=1,EE,20171BE8,extended,34070063
 patch=1,EE,20171BF0,extended,24080002
 patch=1,EE,20171BFC,extended,A0470000
 patch=1,EE,20156864,extended,24080002
 
-//Cheats/Semi-automatic Infinite Action
+[Cheats/Semi-automatic Infinite Action]
 patch=1,EE,200F4800,extended,90810000
 patch=1,EE,200F4804,extended,3021FFEC
 patch=1,EE,200F4808,extended,A0810000
@@ -42,18 +42,18 @@ patch=1,EE,200F4878,extended,03E00008
 patch=1,EE,20175EC4,extended,0C03D200
 patch=1,EE,20175EE0,extended,2624006C
 
-//Cheats/All Swords
+[Cheats/All Swords]
 patch=1,EE,4032C09C,extended,000B0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/All Armors
+[Cheats/All Armors]
 patch=1,EE,4032C0C8,extended,000D0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/All Shields
+[Cheats/All Shields]
 patch=1,EE,4032C0FC,extended,000D0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Generals Can Be Selected As Your Ruler Koc Mode
+[Cheats/Unlock All Generals Can Be Selected As Your Ruler Koc Mode]
 patch=1,EE,20230490,extended,10000007
 patch=1,EE,202336BC,extended,10000007

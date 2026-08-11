@@ -1,174 +1,174 @@
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,202A61C8,extended,00000000
 
-//Cheats/Quick Score Gain
+[Cheats/Quick Score Gain]
 patch=1,EE,21E6A9E8,extended,05F5E0FF
 
-//Cheats/Infinite Special Trick Stocks
+[Cheats/Infinite Special Trick Stocks]
 patch=1,EE,202A7C98,extended,00440821
 patch=1,EE,202A7C9C,extended,24020005
 patch=1,EE,202A7CA0,extended,03E00008
 patch=1,EE,202A7CA4,extended,AC22005C
 
-//Cheats/Grind For Quicker Special Gain
+[Cheats/Grind For Quicker Special Gain]
 patch=1,EE,10188548,extended,00000020
 
-//Cheats/Grind For Hella Special Gain
+[Cheats/Grind For Hella Special Gain]
 patch=1,EE,10188548,extended,00000064
 
-//Cheats/Have All Challenges Complete
+[Cheats/Have All Challenges Complete]
 patch=1,EE,11E9FB2A,extended,00000101
 patch=1,EE,41E9FB2C,extended,00070001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Arto Saari Unlock All Stages
+[Cheats/Arto Saari Unlock All Stages]
 patch=1,EE,11EA194E,extended,0000FFFF
 
-//Cheats/Arto Saari Have All Missions Completed
+[Cheats/Arto Saari Have All Missions Completed]
 patch=1,EE,21E9F8CC,extended,FFFFFFFF
 patch=1,EE,21E9F8C0,extended,FFFFFFFF
 patch=1,EE,21E9F8C4,extended,FFFFFFFF
 patch=1,EE,21E9F8C8,extended,FFFFFFFF
 
-//Cheats/Colin McKay Unlock All Stages
+[Cheats/Colin McKay Unlock All Stages]
 patch=1,EE,11EA1952,extended,0000FFFF
 
-//Cheats/Colin McKay Have All Missions Completed
+[Cheats/Colin McKay Have All Missions Completed]
 patch=1,EE,21E9F90C,extended,FFFFFFFF
 patch=1,EE,21E9F910,extended,FFFFFFFF
 patch=1,EE,21E9F914,extended,FFFFFFFF
 patch=1,EE,21E9F918,extended,FFFFFFFF
 
-//Cheats/Created Skater Unlock All Stages
+[Cheats/Created Skater Unlock All Stages]
 patch=1,EE,11EA195C,extended,0000FFFF
 
-//Cheats/Created Skater Have All Missions Completed
+[Cheats/Created Skater Have All Missions Completed]
 patch=1,EE,21E9F9AC,extended,FFFFFFFF
 patch=1,EE,21E9F9B0,extended,FFFFFFFF
 patch=1,EE,21E9F9B4,extended,FFFFFFFF
 patch=1,EE,21E9F9B8,extended,FFFFFFFF
 
-//Cheats/Danny Way Unlock All Stages
+[Cheats/Danny Way Unlock All Stages]
 patch=1,EE,11EA1950,extended,0000FFFF
 
-//Cheats/Danny Way Have All Missions Completed
+[Cheats/Danny Way Have All Missions Completed]
 patch=1,EE,21E9F8EC,extended,FFFFFFFF
 patch=1,EE,21E9F8F0,extended,FFFFFFFF
 patch=1,EE,21E9F8F4,extended,FFFFFFFF
 patch=1,EE,21E9F8F8,extended,FFFFFFFF
 
-//Cheats/Frogger Unlock All Stages
+[Cheats/Frogger Unlock All Stages]
 patch=1,EE,11EA1964,extended,0000FFFF
 
-//Cheats/Frogger Have All Missions Completed
+[Cheats/Frogger Have All Missions Completed]
 patch=1,EE,21E9FA2C,extended,FFFFFFFF
 patch=1,EE,21E9FA30,extended,FFFFFFFF
 patch=1,EE,21E9FA34,extended,FFFFFFFF
 patch=1,EE,21E9FA38,extended,FFFFFFFF
 
-//Cheats/Gorilla Unlock All Stages
+[Cheats/Gorilla Unlock All Stages]
 patch=1,EE,11EA196A,extended,0000FFFF
 
-//Cheats/Gorilla Have All Missions Completed
+[Cheats/Gorilla Have All Missions Completed]
 patch=1,EE,21E9FA8C,extended,FFFFFFFF
 patch=1,EE,21E9FA90,extended,FFFFFFFF
 patch=1,EE,21E9FA94,extended,FFFFFFFF
 patch=1,EE,21E9FA98,extended,FFFFFFFF
 
-//Cheats/Gray Unlock All Stages
+[Cheats/Gray Unlock All Stages]
 patch=1,EE,11EA196E,extended,0000FFFF
 
-//Cheats/Gray Have All Missions Completed
+[Cheats/Gray Have All Missions Completed]
 patch=1,EE,21E9FACC,extended,FFFFFFFF
 patch=1,EE,21E9FAD0,extended,FFFFFFFF
 patch=1,EE,21E9FAD4,extended,FFFFFFFF
 patch=1,EE,21E9FAD8,extended,FFFFFFFF
 
-//Cheats/Gurlukovich1 Unlock All Stages
+[Cheats/Gurlukovich1 Unlock All Stages]
 patch=1,EE,11EA1960,extended,0000FFFF
 
-//Cheats/Gurlukovich1 Have All Missions Completed
+[Cheats/Gurlukovich1 Have All Missions Completed]
 patch=1,EE,21E9F9EC,extended,FFFFFFFF
 patch=1,EE,21E9F9F0,extended,FFFFFFFF
 patch=1,EE,21E9F9F4,extended,FFFFFFFF
 patch=1,EE,21E9F9F8,extended,FFFFFFFF
 
-//Cheats/Gurlukovich2 Unlock All Stages
+[Cheats/Gurlukovich2 Unlock All Stages]
 patch=1,EE,11EA1962,extended,0000FFFF
 
-//Cheats/Gurlukovich2 Have All Missions Completed
+[Cheats/Gurlukovich2 Have All Missions Completed]
 patch=1,EE,21E9FA0C,extended,FFFFFFFF
 patch=1,EE,21E9FA10,extended,FFFFFFFF
 patch=1,EE,21E9FA14,extended,FFFFFFFF
 patch=1,EE,21E9FA18,extended,FFFFFFFF
 
-//Cheats/Kerry Getz Unlock All Stages
+[Cheats/Kerry Getz Unlock All Stages]
 patch=1,EE,11EA194C,extended,0000FFFF
 
-//Cheats/Kerry Getz Have All Missions Completed
+[Cheats/Kerry Getz Have All Missions Completed]
 patch=1,EE,21E9F8AC,extended,FFFFFFFF
 patch=1,EE,21E9F8B0,extended,FFFFFFFF
 patch=1,EE,21E9F8B4,extended,FFFFFFFF
 patch=1,EE,21E9F8B8,extended,FFFFFFFF
 
-//Cheats/Mark Appleyard Unlock All Stages
+[Cheats/Mark Appleyard Unlock All Stages]
 patch=1,EE,11EA1956,extended,0000FFFF
 
-//Cheats/Mark Appleyard Have All Missions Completed
+[Cheats/Mark Appleyard Have All Missions Completed]
 patch=1,EE,21E9F94C,extended,FFFFFFFF
 patch=1,EE,21E9F950,extended,FFFFFFFF
 patch=1,EE,21E9F954,extended,FFFFFFFF
 patch=1,EE,21E9F958,extended,FFFFFFFF
 
-//Cheats/Raiden Unlock All Stages
+[Cheats/Raiden Unlock All Stages]
 patch=1,EE,11EA1966,extended,0000FFFF
 
-//Cheats/Raiden Have All Missions Completed
+[Cheats/Raiden Have All Missions Completed]
 patch=1,EE,21E9FA4C,extended,FFFFFFFF
 patch=1,EE,21E9FA50,extended,FFFFFFFF
 patch=1,EE,21E9FA54,extended,FFFFFFFF
 patch=1,EE,21E9FA58,extended,FFFFFFFF
 
-//Cheats/Rick McCrank Unlock All Stages
+[Cheats/Rick McCrank Unlock All Stages]
 patch=1,EE,11EA1958,extended,0000FFFF
 
-//Cheats/Rick McCrank Have All Missions Completed
+[Cheats/Rick McCrank Have All Missions Completed]
 patch=1,EE,21E9F96C,extended,FFFFFFFF
 patch=1,EE,21E9F970,extended,FFFFFFFF
 patch=1,EE,21E9F974,extended,FFFFFFFF
 patch=1,EE,21E9F978,extended,FFFFFFFF
 
-//Cheats/Solid Snake Unlock All Stages
+[Cheats/Solid Snake Unlock All Stages]
 patch=1,EE,11EA195E,extended,0000FFFF
 
-//Cheats/Solid Snake Have All Missions Completed
+[Cheats/Solid Snake Have All Missions Completed]
 patch=1,EE,21E9F9CC,extended,FFFFFFFF
 patch=1,EE,21E9F9D0,extended,FFFFFFFF
 patch=1,EE,21E9F9D4,extended,FFFFFFFF
 patch=1,EE,21E9F9D8,extended,FFFFFFFF
 
-//Cheats/Stevie Williams Unlock All Stages
+[Cheats/Stevie Williams Unlock All Stages]
 patch=1,EE,11EA195A,extended,0000FFFF
 
-//Cheats/Stevie Williams Have All Missions Completed
+[Cheats/Stevie Williams Have All Missions Completed]
 patch=1,EE,21E9F98C,extended,FFFFFFFF
 patch=1,EE,21E9F990,extended,FFFFFFFF
 patch=1,EE,21E9F994,extended,FFFFFFFF
 patch=1,EE,21E9F998,extended,FFFFFFFF
 
-//Cheats/Unknown Unlock All Stages
+[Cheats/Unknown Unlock All Stages]
 patch=1,EE,11EA196C,extended,0000FFFF
 
-//Cheats/Unknown Have All Missions Completed
+[Cheats/Unknown Have All Missions Completed]
 patch=1,EE,21E9FAAC,extended,FFFFFFFF
 patch=1,EE,21E9FAB0,extended,FFFFFFFF
 patch=1,EE,21E9FAB4,extended,FFFFFFFF
 patch=1,EE,21E9FAB8,extended,FFFFFFFF
 
-//Cheats/Vampire Killer Unlock All Stages
+[Cheats/Vampire Killer Unlock All Stages]
 patch=1,EE,11EA1968,extended,0000FFFF
 
-//Cheats/Vampire Killer Have All Missions Completed
+[Cheats/Vampire Killer Have All Missions Completed]
 patch=1,EE,21E9FA6C,extended,FFFFFFFF
 patch=1,EE,21E9FA70,extended,FFFFFFFF
 patch=1,EE,21E9FA74,extended,FFFFFFFF

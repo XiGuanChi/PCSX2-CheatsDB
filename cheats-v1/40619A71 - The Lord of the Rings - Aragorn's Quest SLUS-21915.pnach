@@ -1,23 +1,23 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,200A0000,extended,96030030
 patch=1,EE,200A0004,extended,08063CD6
 patch=1,EE,200A0008,extended,A603002E
 patch=1,EE,2018F354,extended,08028000
 
-//Cheats/Infinite Max Morale
+[Cheats/Infinite Max Morale]
 patch=1,EE,200A000C,extended,8C6800DC
 patch=1,EE,200A0010,extended,AC6800D4
 patch=1,EE,200A0014,extended,08053430
 patch=1,EE,200A0018,extended,8C6600D4
 patch=1,EE,2014D0BC,extended,08028003
 
-//Cheats/Infinite Max Morale Mem
+[Cheats/Infinite Max Morale Mem]
 patch=1,EE,002BD9FC,extended,000000A5
 
-//Cheats/Infinite Bow Ammo
+[Cheats/Infinite Bow Ammo]
 patch=1,EE,1012278C,extended,00000000
 
-//Cheats/Unlock All Equipment and Journal
+[Cheats/Unlock All Equipment and Journal]
 patch=1,EE,002CEE57,extended,000000FF
 patch=1,EE,202CEE58,extended,FFFFFFFF
 patch=1,EE,202CEE5C,extended,FFFFFFFF

@@ -1,20 +1,20 @@
 gametitle=Lara Croft - Tomb Raider - The Angel of Darkness SLUS-20467
-//Infinite Strength
+[Infinite Strength]
 patch=1,EE,2012C1A4,extended,00000000
 
-//Infinite Money
+[Infinite Money]
 patch=1,EE,10413BE8,extended,0000FFFF
 
-//Enable Skip Level
+[Enable Skip Level]
 patch=1,EE,20166BC0,extended,24060000
 
-//Not gripping gauge
+[Not gripping gauge]
 patch=1,EE,2012C7F0,extended,3C0142C8
 patch=1,EE,2012C824,extended,AC410080
 
-//Infinite Strengh
+[Infinite Strengh]
 patch=1,EE,2012CAD0,extended,3C0142C8
 patch=1,EE,2012CAD8,extended,AE010D58
 
-//Enable Level Select
+[Enable Level Select]
 patch=1,EE,20166BD8,extended,24060000

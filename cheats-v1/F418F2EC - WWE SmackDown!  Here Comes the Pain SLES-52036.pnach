@@ -1,18 +1,18 @@
-//Cheats/Disable AI Press L3 to Activate, R3 to Stop
+[Cheats/Disable AI Press L3 to Activate, R3 to Stop]
 patch=1,EE,D04FDF82,extended,0000FFFD
 patch=1,EE,20268F2C,extended,10000003
 patch=1,EE,D04FDF82,extended,0000FFFB
 patch=1,EE,20268F2C,extended,14400003
 
-//Cheats/Infinite Smackdown Use
+[Cheats/Infinite Smackdown Use]
 patch=1,EE,201BB9C4,extended,00000000
 
-//Cheats/Items In Shop Cost Nothing
+[Cheats/Items In Shop Cost Nothing]
 patch=1,EE,20305F4C,extended,24020000
 
-//Cheats/No Experience required to Buy Attribute Points
+[Cheats/No Experience required to Buy Attribute Points]
 patch=1,EE,2012D638,extended,24020000
 patch=1,EE,202EDB74,extended,2403270F
 
-//Cheats/Unlock All Locked Options
+[Cheats/Unlock All Locked Options]
 patch=1,EE,20305D70,extended,24020001

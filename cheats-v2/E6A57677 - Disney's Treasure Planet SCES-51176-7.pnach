@@ -1,9 +1,9 @@
 gametitle=Disney's Treasure Planet SCES-51176 SCES-51177
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2014557C,extended,24020063
 
-//Freeze Time Trial Timer
+[Freeze Time Trial Timer]
 patch=1,EE,201F5F18,extended,00000000
 
-//All Levels Opened
+[All Levels Opened]
 patch=1,EE,20145B0C,extended,24020001

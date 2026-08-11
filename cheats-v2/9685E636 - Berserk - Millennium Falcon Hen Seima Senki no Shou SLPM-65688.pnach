@@ -1,38 +1,38 @@
 gametitle=Berserk - Millennium Falcon Hen Seima Senki no Shou SLPM-65688
-//Max money
+[Max money]
 patch=1,EE,20244258,extended,00A01021
 
-//Infinite HP
+[Infinite HP]
 patch=1,EE,201FACE4,extended,00000000
 
-//Press Select To Enable Mark/Deathblow
+[Press Select To Enable Mark/Deathblow]
 patch=1,EE,D03DC4C2,extended,0000FFFE
 patch=1,EE,203D87F0,extended,00000100
 
-//HP/MP 999
-//for any character after 1 level up
+[HP/MP 999]
+[for any character after 1 level up]
 patch=1,EE,20242AD8,extended,240203E7
 patch=1,EE,20242B58,extended,240203E7
 
-//IInfinite Arm Cannon Ammo
+[IInfinite Arm Cannon Ammo]
 patch=1,EE,201AFDB4,extended,24020000
 
-//Infinite Throwing Knives
+[Infinite Throwing Knives]
 patch=1,EE,201AFDE4,extended,24020000
 
-//Infinite Crossbow Arrows
+[Infinite Crossbow Arrows]
 patch=1,EE,201AFE08,extended,24020000
 
-//Infinite Exploding Bullets
+[Infinite Exploding Bullets]
 patch=1,EE,201AFDCC,extended,24020000
 
-//Infinite Exploding Bullets
+[Infinite Exploding Bullets]
 patch=1,EE,201AFDCC,extended,24020000
 
-//Infinite Berserker Mode
+[Infinite Berserker Mode]
 patch=1,EE,201AFEE4,extended,1000000A
 
-//MAP fully open After pressing the R1 button
+[MAP fully open After pressing the R1 button]
 patch=1,EE,D03DC4C2,extended,0000F7FF
 patch=1,EE,203D8648,extended,FFFFFFFF
 patch=1,EE,D03DC4C2,extended,0000F7FF

@@ -1,31 +1,31 @@
 gametitle=Ace Combat Zero - The Belkan War SLPS-25629
-//Free Mission fully open
+[Free Mission fully open]
 patch=1,EE,403B3E68,extended,00640001
 patch=1,EE,01010101,extended,00000000
 
-//Money 99999999
+[Money 99999999]
 patch=1,EE,203B33D8,extended,05F5E0FF
 
-//Injury - free
+[Injury - free]
 patch=1,EE,200FFF80,extended,90810414
 patch=1,EE,200FFF84,extended,10200003
 patch=1,EE,200FFF8C,extended,0807F240
 patch=1,EE,200FFF94,extended,08040161
 patch=1,EE,202322A8,extended,0C03FFE0
 
-//Injury Free of two or more 2 availability
+[Injury Free of two or more 2 availability]
 patch=1,EE,200FFF80,extended,90810414
 patch=1,EE,200FFF84,extended,10200003
 patch=1,EE,200FFF8C,extended,0807F240
 patch=1,EE,200FFF94,extended,08040161
 patch=1,EE,202322A8,extended,0C03FFE0
 
-//Orochi undamaged harm
+[Orochi undamaged harm]
 patch=1,EE,202322A8,extended,00000000
 
-//All aircraft available for purchase
+[All aircraft available for purchase]
 patch=1,EE,202BBB2C,extended,240E0001
 patch=1,EE,202BBB30,extended,A1EE0008
 
-//Collision undamaged harm
+[Collision undamaged harm]
 patch=1,EE,202322A8,extended,4A0002FF

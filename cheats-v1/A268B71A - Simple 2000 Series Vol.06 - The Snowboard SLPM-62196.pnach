@@ -1,13 +1,13 @@
-//Cheats/Crash Mode 1 Retire Clear
+[Cheats/Crash Mode 1 Retire Clear]
 patch=1,EE,20114BBC,extended,ACE00088
 
-//Cheats/Unlock All Courses
+[Cheats/Unlock All Courses]
 patch=1,EE,201ECF80,extended,01010101
 patch=1,EE,201ED084,extended,01010101
 patch=1,EE,101ECF84,extended,00000101
 patch=1,EE,101ED088,extended,00000101
 
-//Cheats/Unlock All Star Acquisition
+[Cheats/Unlock All Star Acquisition]
 patch=1,EE,201ECF8C,extended,03030303
 patch=1,EE,201ED090,extended,03030303
 patch=1,EE,101ECF90,extended,00000303
@@ -15,16 +15,16 @@ patch=1,EE,101ED094,extended,00000303
 patch=1,EE,101ED0EC,extended,00000303
 patch=1,EE,101ED144,extended,00000303
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,201ED150,extended,00000003
 patch=1,EE,201ED154,extended,0000000F
 patch=1,EE,201ED158,extended,0000000F
 patch=1,EE,201ED15C,extended,00000003
 
-//Cheats/Unlock Add a Hidden Character Appear Press Triangle When Selecting a Character
+[Cheats/Unlock Add a Hidden Character Appear Press Triangle When Selecting a Character]
 patch=1,EE,201ED160,extended,00000001
 
-//Cheats/Unlock Add Credit to Options
+[Cheats/Unlock Add Credit to Options]
 patch=1,EE,201ED164,extended,00000001
 
 

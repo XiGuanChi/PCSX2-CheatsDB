@@ -1,18 +1,18 @@
-//Cheats/Max Race Points
+[Cheats/Max Race Points]
 patch=1,EE,1041FEE4,extended,000003E7
 
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,204204A8,extended,05F5E0FF
 
-//Cheats/Idiot AI
+[Cheats/Idiot AI]
 patch=1,EE,201E0C10,extended,03E00008
 patch=1,EE,201E0C14,extended,00000000
 
-//Cheats/Unlock All Riders
+[Cheats/Unlock All Riders]
 patch=1,EE,20412D20,extended,00000000
 
-//Cheats/Unlock All Bikes
+[Cheats/Unlock All Bikes]
 patch=1,EE,20412D24,extended,0000FFFF
 
-//Cheats/Unlock All MiniGames
+[Cheats/Unlock All MiniGames]
 patch=1,EE,20412D28,extended,0000FFFF

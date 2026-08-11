@@ -1,9 +1,9 @@
 gametitle=SuperLite 2000 Vol. 13 - Tetris - Kiwame Michi SLPM-62423
-//Required special code (always checked)
+[Required special code (always checked)]
 patch=1,EE,200F4100,extended,0804D642
 patch=1,EE,201392B4,extended,0C03D000
 
-//Score MAX
+[Score MAX]
 patch=1,EE,200F4000,extended,3C050098
 patch=1,EE,200F4004,extended,34A5967F
 patch=1,EE,200F4008,extended,AE4520BC

@@ -1,30 +1,30 @@
 gametitle=Baldur's Gate - Dark Alliance ll SLES-50672
-//Infinite Money
+[Infinite Money]
 patch=1,EE,2055F0E4,extended,0098967F
 
-//P1 Infinite Health
+[P1 Infinite Health]
 patch=1,EE,2055F0AC,extended,46C80000
 patch=1,EE,2055F0B0,extended,46C80000
 
-//P1 Infinite Magic
+[P1 Infinite Magic]
 patch=1,EE,2055F0C4,extended,46C80000
 patch=1,EE,2055F0C8,extended,46C80000
 
-//P2 Infinite Health
+[P2 Infinite Health]
 patch=1,EE,205653DC,extended,46C80000
 patch=1,EE,205653E0,extended,46C80000
 
-//P2 Infinite Magic
+[P2 Infinite Magic]
 patch=1,EE,205653F4,extended,46C80000
 patch=1,EE,205653F8,extended,46C80000
 
-//60 Hertz Mode
+[60 Hertz Mode]
 patch=1,EE,202D2708,extended,2414FFC0
 patch=1,EE,202D24A0,extended,24120002
 
-//Unlock Extreme Mode & char.
+[Unlock Extreme Mode & char.]
 patch=1,EE,0044C2E0,extended,0000001F
 
-//L3 During Pause For Debug Menu
+[L3 During Pause For Debug Menu]
 patch=1,EE,D04CF682,extended,0000FFFD
 patch=1,EE,203608C8,extended,00311510

@@ -1,9 +1,9 @@
 gametitle=Akudaidan SLPM-65151
-//Infinite Money 99999
+[Infinite Money 99999]
 patch=1,EE,20246D4C,extended,0001869F
 
-//Infinite HP (30000)
+[Infinite HP (30000)]
 patch=1,EE,20214504,extended,00007530
 
-//Enemy HP = 0
+[Enemy HP = 0]
 patch=1,EE,2021859C,extended,00000000

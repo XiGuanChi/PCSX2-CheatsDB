@@ -1,36 +1,36 @@
 gametitle=Summon Night 3 SLPS-25267
-//Infinite Money (50000)
+[Infinite Money (50000)]
 patch=1,EE,20297F64,extended,0000C350
 
-//Infinite & Max HP Main Character
+[Infinite & Max HP Main Character]
 patch=1,EE,202AB72E,extended,000003E7
 patch=1,EE,202AB72C,extended,000003E7
 
-//Infinite & Max MP Main Character
+[Infinite & Max MP Main Character]
 patch=1,EE,202AB732,extended,000003E7
 patch=1,EE,202AB730,extended,000003E7
 
-//Infinite & Max HP 2nd character
+[Infinite & Max HP 2nd character]
 patch=1,EE,202AB792,extended,000003E7
 patch=1,EE,202AB790,extended,000003E7
 
-//Infinite & Max HP 3rd character
+[Infinite & Max HP 3rd character]
 patch=1,EE,202AB7F6,extended,000003E7
 patch=1,EE,202AB7F4,extended,000003E7
 
-//Infinite & Max HP 4th character
+[Infinite & Max HP 4th character]
 patch=1,EE,202AC3AC,extended,000003E7
 patch=1,EE,202AC3AE,extended,000003E7
 
-//NO PROBADOS
-//Allies' physical attacks are always critical
+[NO PROBADOS]
+[Allies' physical attacks are always critical]
 patch=1,EE,201619BC,extended,10000027
 
-//Acquire all party abilities
+[Acquire all party abilities]
 patch=1,EE,201FD81C,extended,24010001
 patch=1,EE,201FD820,extended,A0410000
 
-//HP / MP recovery when displaying HP while pressing R3 only for allies
+[HP / MP recovery when displaying HP while pressing R3 only for allies]
 patch=1,EE,200F7000,extended,2D29002C
 patch=1,EE,200F7004,extended,11200005
 patch=1,EE,200F7008,extended,3C01003B
@@ -40,19 +40,19 @@ patch=1,EE,200F7014,extended,50200001
 patch=1,EE,200F7018,extended,A542001E
 patch=1,EE,200F701C,extended,03E00008
 
-//MP
+[MP]
 patch=1,EE,201F6DD4,extended,248A0004
 patch=1,EE,201F6E40,extended,0803DC00
 patch=1,EE,201F6E44,extended,95490000
 
-//HP
+[HP]
 patch=1,EE,201F6E74,extended,0080502D
 patch=1,EE,201F6EE0,extended,0803DC00
 patch=1,EE,201F6EE4,extended,95490004
 
-//Please omit unnecessary items
+[Please omit unnecessary items]
 
-//HP / MP0 when displaying HP while pressing SELECT only for enemies
+[HP / MP0 when displaying HP while pressing SELECT only for enemies]
 patch=1,EE,200F7028,extended,2C62002C
 patch=1,EE,200F702C,extended,14400007
 patch=1,EE,200F7030,extended,3C02003B
@@ -63,19 +63,19 @@ patch=1,EE,200F704C,extended,03E00008
 patch=1,EE,200F7050,extended,9612001E
 patch=1,EE,2014C514,extended,0C03DC0A
 
-//HP
+[HP]
 patch=1,EE,200F7044,extended,A600001E
 
-//MP
+[MP]
 patch=1,EE,200F7048,extended,A6000022
 
 
 
-//Other than the gallery ending possible ornamental
+[Other than the gallery ending possible ornamental]
 patch=1,EE,201FA0B4,extended,24080001
 patch=1,EE,201FA0B8,extended,A0680000
 
-//Gallery ending all
+[Gallery ending all]
 patch=1,EE,202A4C88,extended,01010101
 patch=1,EE,202A4C8C,extended,01010101
 patch=1,EE,202A4C90,extended,01010101

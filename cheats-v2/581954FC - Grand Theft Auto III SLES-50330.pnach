@@ -1,29 +1,29 @@
 gametitle=Grand Theft Auto III SLES-50330
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20B66810,extended,42C80000
 
-//Infinite Armour
+[Infinite Armour]
 patch=1,EE,20B66814,extended,42C80000
 
-//Max Cash
+[Max Cash]
 patch=1,EE,20511928,extended,05F5E0FF
 
-//Never Wanted
+[Never Wanted]
 patch=1,EE,202A37B0,extended,00000000
 patch=1,EE,202A3A28,extended,00000000
 patch=1,EE,20415908,extended,00000000
 
-//Turn Off Car Damage
+[Turn Off Car Damage]
 patch=1,EE,201AE558,extended,00000000
 
-//All Weapons At Hideout
+[All Weapons At Hideout]
 patch=1,EE,20511930,extended,00000064
 
-//Pistol Ammo
+[Pistol Ammo]
 patch=1,EE,20B668EC,extended,0000000C
 patch=1,EE,20B668F0,extended,00000034
 
-//Freeze Mission Timers (Press L2 to activate and R2 to deactivate)
+[Freeze Mission Timers (Press L2 to activate and R2 to deactivate)]
 patch=1,EE,D050A242,extended,0000FEFF
 patch=1,EE,202BE2B8,extended,00000000
 patch=1,EE,D050A242,extended,0000FDFF

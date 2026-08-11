@@ -1,17 +1,17 @@
 gametitle=Stuart Little 3 - Big Photo Adventure SLUS-21341
-//Max Cat Snack Counter
+[Max Cat Snack Counter]
 patch=1,EE,203A4344,extended,00000006
 
-//Max Electric Counter
+[Max Electric Counter]
 patch=1,EE,203A4358,extended,000007D0
 
-//Max Flash/Charge/Spark Counter
+[Max Flash/Charge/Spark Counter]
 patch=1,EE,203A4308,extended,00000063
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,2031E11C,extended,00000001
 
-//Have All Photos
+[Have All Photos]
 patch=1,EE,203A42CC,extended,00000032
 patch=1,EE,203A42D0,extended,0302010A
 patch=1,EE,203A42D4,extended,07060504

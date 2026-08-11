@@ -1,28 +1,28 @@
 gametitle=Disney's Pixar - Cars SLES-54012
-//Unlock All Cars, all Skins, all Tracks,  all Mini-Games, all Art and all Movie Clips + fast Start and infinite Boost
+[Unlock All Cars, all Skins, all Tracks,  all Mini-Games, all Art and all Movie Clips + fast Start and infinite Boost]
 patch=1,EE,2052E230,extended,03E0800E
 
-//Max Points
+[Max Points]
 patch=1,EE,208171EC,extended,05F5E0FF
 
-//Infinite Boost
+[Infinite Boost]
 patch=1,EE,2022620C,extended,00000000
 
-//Activate Cheat Codes Unlock All Cars
+[Activate Cheat Codes Unlock All Cars]
 patch=1,EE,7052E230,extended,00000002
-//Fast Start
+[Fast Start]
 patch=1,EE,7052E230,extended,00000004
-//Unlock All Tracks
+[Unlock All Tracks]
 patch=1,EE,7052E230,extended,00000008
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,7052E231,extended,00000080
-//Infinite Boost
+[Infinite Boost]
 patch=1,EE,7052E232,extended,00000020
-//Unlock Master's Speedy Circuit/Countdown Cleanup
+[Unlock Master's Speedy Circuit/Countdown Cleanup]
 patch=1,EE,7052E232,extended,00000040
-//Unlock All Concept Art
+[Unlock All Concept Art]
 patch=1,EE,7052E232,extended,00000080
-//Unlock All Movies
+[Unlock All Movies]
 patch=1,EE,7052E233,extended,00000001
-//Unlock All Character Skins
+[Unlock All Character Skins]
 patch=1,EE,7052E233,extended,00000002

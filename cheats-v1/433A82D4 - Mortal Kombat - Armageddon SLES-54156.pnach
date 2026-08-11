@@ -1,49 +1,49 @@
-//Cheats/Infinite Health Player 1
+[Cheats/Infinite Health Player 1]
 patch=1,EE,20664738,extended,3f800000
 patch=1,EE,2066473C,extended,3f800000
 
-//Cheats/Infinite Health P1 alt
+[Cheats/Infinite Health P1 alt]
 patch=1,EE,20664738,extended,3F800000
 
-//Cheats/P1 Needs 1 Win To Win
+[Cheats/P1 Needs 1 Win To Win]
 patch=1,EE,D0664748,extended,00000000
 patch=1,EE,20664748,extended,00000001
 
-//Cheats/P1 Press L2+R2 To Go Straight To Finish Him or Her
+[Cheats/P1 Press L2+R2 To Go Straight To Finish Him or Her]
 patch=1,EE,E002FCFF,extended,006aedc2
 patch=1,EE,20664748,extended,00000001
 patch=1,EE,20664780,extended,00000000
 
-//Cheats/No Health P2
+[Cheats/No Health P2]
 patch=1,EE,20664780,extended,00000000
 
-//Cheats/Max Health Konquest Mode
+[Cheats/Max Health Konquest Mode]
 patch=1,EE,20BBFD64,extended,40400000
 
-//Cheats/Infinite Health Konquest Mode
+[Cheats/Infinite Health Konquest Mode]
 patch=1,EE,20BBFD68,extended,40400000
 
-//Cheats/Max Magic Konquest Mode
+[Cheats/Max Magic Konquest Mode]
 patch=1,EE,20BBFD9C,extended,40400000
 
-//Cheats/Infinite Magic Konquest Mode
+[Cheats/Infinite Magic Konquest Mode]
 patch=1,EE,20BBFDA0,extended,40400000
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,20664B08,extended,FFFFFFFF
 patch=1,EE,20664B0C,extended,FFFFFFFF
 
-//Cheats/Unlock All Arenas
+[Cheats/Unlock All Arenas]
 patch=1,EE,20664B10,extended,FFFFFFFF
 patch=1,EE,20664B14,extended,FFFFFFFF
 
-//Cheats/Unlock All Koncept Art
+[Cheats/Unlock All Koncept Art]
 patch=1,EE,406B3CC4,extended,00030001
 patch=1,EE,000045FF,extended,00000000
 patch=1,EE,106B3CD0,extended,0000FFFF
 patch=1,EE,006B3CD2,extended,000000FF
 
-//Cheats/Unlock All Media
+[Cheats/Unlock All Media]
 patch=1,EE,006B3CDD,extended,000000FF
 patch=1,EE,106B3CDE,extended,0000FFFF
 patch=1,EE,206B3CE0,extended,FFFFFFFF

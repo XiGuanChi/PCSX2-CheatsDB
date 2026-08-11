@@ -1,21 +1,21 @@
-//Cheats/Max Points
+[Cheats/Max Points]
 patch=1,EE,2091775C,extended,05F5E0FF
 
-//Cheats/Max Store Points
+[Cheats/Max Store Points]
 patch=1,EE,E003F768,extended,004E2210
 patch=1,EE,204E221C,extended,3C0105F5
 patch=1,EE,204E2220,extended,3421E0FF
 patch=1,EE,204E2224,extended,AC41015C
 
-//Cheats/Always Low Lap Time
+[Cheats/Always Low Lap Time]
 patch=1,EE,D0468800,extended,00001024
 patch=1,EE,20468814,extended,00000000
 
-//Cheats/Always Low TBL Time
+[Cheats/Always Low TBL Time]
 patch=1,EE,D04687D8,extended,00001024
 patch=1,EE,204687F0,extended,00000000
 
-//Cheats/Unlock Everything View Store
+[Cheats/Unlock Everything View Store]
 patch=1,EE,202DF3B4,extended,304200FB
 patch=1,EE,202DF3B8,extended,A082003A
 patch=1,EE,202DF3BC,extended,00000000

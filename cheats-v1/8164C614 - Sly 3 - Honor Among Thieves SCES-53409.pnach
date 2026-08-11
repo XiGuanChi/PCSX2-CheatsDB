@@ -1,19 +1,19 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2021e4b0,extended,0c07d21a
 patch=1,EE,2021e4bC,extended,AC82016C
 
-//Cheats/Have All Gadgets
+[Cheats/Have All Gadgets]
 patch=1,EE,2046A44C,extended,FFFFFFFF
 patch=1,EE,2046a450,extended,FFFFFFFF
 
-//Cheats/Infinite Gadget Usage
+[Cheats/Infinite Gadget Usage]
 patch=1,EE,201f48c4,extended,24020064
 patch=1,EE,201f4960,extended,24020064
 
-//Cheats/Unlock All Episodes Not Saveable
+[Cheats/Unlock All Episodes Not Saveable]
 patch=1,EE,2025EAAC,extended,24100001
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,200C2000,extended,8C864F68
 patch=1,EE,200C2004,extended,24010008
 patch=1,EE,200C2008,extended,03E00008

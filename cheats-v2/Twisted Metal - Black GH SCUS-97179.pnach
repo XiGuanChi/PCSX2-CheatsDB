@@ -1,20 +1,20 @@
 gametitle=Twisted Metal - Black GH SCUS-97179
-//Idiot AI
+[Idiot AI]
 patch=1,EE,20104818,extended,03E00008
 patch=1,EE,2010481C,extended,00000000
 
-//Infinite Ammo 
+[Infinite Ammo]
 patch=1,EE,201BA050,extended,03E00008
 patch=1,EE,201BA054,extended,00000000
 
-//Infinite Health (Most Levels) 
+[Infinite Health (Most Levels)]
 patch=1,EE,20257F44,extended,447A0000
 
-//Infinite Turbo
+[Infinite Turbo]
 patch=1,EE,201AAA58,extended,03E00008
 patch=1,EE,201AAA5C,extended,00000000
 
-//Stop Enemies 
+[Stop Enemies]
 patch=1,EE,20104818,extended,03E00008
 patch=1,EE,2010481C,extended,00000000
 patch=1,EE,20105164,extended,00000000

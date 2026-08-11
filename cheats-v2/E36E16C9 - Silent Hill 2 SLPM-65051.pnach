@@ -1,27 +1,27 @@
 gametitle=Silent Hill 2 SLPM-65051
-//James Infinite Health
+[James Infinite Health]
 patch=1,EE,103E7876,extended,000042C8
 patch=1,EE,103E787A,extended,000042C8
 patch=1,EE,103E787E,extended,000042C8
 
-//Maria Infinite Health
+[Maria Infinite Health]
 patch=1,EE,103E7BB6,extended,000042A0
 
-//Does not decrease
+[Does not decrease]
 patch=1,EE,201B4FDC,extended,00000000
 
-//Infinite H.Gun Ammo
+[Infinite H.Gun Ammo]
 patch=1,EE,D111EF74,extended,00000001
 patch=1,EE,1111EF74,extended,0000000A
 
-//Map display
+[Map display]
 patch=1,EE,01225379,extended,00000001
 
-//Item & Weapon Acquisition Flag ON
+[Item & Weapon Acquisition Flag ON]
 patch=1,EE,1111F660,extended,0000FFFF
 patch=1,EE,1111F662,extended,0000FFFF
 patch=1,EE,2111F664,extended,FFFFFFFF
 patch=1,EE,1111F668,extended,0000FFFF
 
-//Have all the endings
+[Have all the endings]
 patch=1,EE,012252F4,extended,000000FF

@@ -1,23 +1,23 @@
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,105C57C0,extended,00000001
 
-//Cheats/Infinite Wen
+[Cheats/Infinite Wen]
 patch=1,EE,019C56EC,extended,00000001
 
-//Cheats/Unlock Stage Selection and All Movies
+[Cheats/Unlock Stage Selection and All Movies]
 patch=1,EE,019C56AC,extended,00000001
 patch=1,EE,019C56B0,extended,00000001
 patch=1,EE,019C56B4,extended,00000001
 patch=1,EE,019C56F8,extended,00000001
 
-//Cheats/Unlock NEXT STAGE to the Pause Menu
+[Cheats/Unlock NEXT STAGE to the Pause Menu]
 patch=1,EE,019C56F4,extended,00000001
 
-//Cheats/Unlock All Combos
+[Cheats/Unlock All Combos]
 patch=1,EE,019C56F0,extended,00000001
 
-//Cheats/No Longer Overheats when using Green Goblins
+[Cheats/No Longer Overheats when using Green Goblins]
 patch=1,EE,019C5710,extended,00000001
 
-//Cheats/Bowling Appears in Training
+[Cheats/Bowling Appears in Training]
 patch=1,EE,019C56AC,extended,00000001

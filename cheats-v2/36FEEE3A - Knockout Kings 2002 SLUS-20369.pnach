@@ -1,10 +1,10 @@
 gametitle=Knockout Kings 2002 SLUS-20369
-//Infinite Creation Points
+[Infinite Creation Points]
 patch=1,EE,00409A50,extended,00000096
 
-//Max All Stats
+[Max All Stats]
 patch=1,EE,20409A78,extended,FFFFFFFF
 patch=1,EE,10409A7C,extended,0000FFFF
 
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,20166C08,extended,00000000

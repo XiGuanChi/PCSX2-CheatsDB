@@ -1,19 +1,19 @@
 gametitle=Metal Saga SLUS-21293
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,207E7BC4,extended,05F5E0FF
 
-//Enable All Mini Games
+[Enable All Mini Games]
 patch=1,EE,107E7BC0,extended,00000FFF
 
-//Max Leve Hero 
+[Max Leve Hero]
 patch=1,EE,2080F824,extended,000000FF
 
-//Infinite & Max HP Hero
+[Infinite & Max HP Hero]
 patch=1,EE,2080F828,extended,0000270F
 patch=1,EE,2080F82C,extended,0000270F
 
-//Enable all 3 menu options (able to pick from all 3)
+[Enable all 3 menu options (able to pick from all 3)]
 patch=1,EE,0094CC38,extended,00000003
 
-//Infinite Stamps
+[Infinite Stamps]
 patch=1,EE,107E7BD8,extended,000003E7

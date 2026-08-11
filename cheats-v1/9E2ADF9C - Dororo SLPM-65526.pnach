@@ -1,11 +1,11 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,2023AC60,extended,00000000
 patch=1,EE,21E9C148,extended,4479C000
 patch=1,EE,21E9C14C,extended,4479C000
 
-//Cheats/Infinite HP Max
+[Cheats/Infinite HP Max]
 patch=1,EE,21E9C150,extended,4479C000
 patch=1,EE,21E9C154,extended,4479C000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2023A0B8,extended,24420000

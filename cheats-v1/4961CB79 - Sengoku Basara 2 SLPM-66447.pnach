@@ -1,49 +1,49 @@
-//Cheats/Max Gold 999999
+[Cheats/Max Gold 999999]
 patch=1,EE,204E06C8,extended,0098967F
 
-//Cheats/Max Experience After Stage Clear Level Max You verify in the free battle
+[Cheats/Max Experience After Stage Clear Level Max You verify in the free battle]
 patch=1,EE,2020E2B4,extended,00000000
 
-//Cheats/Max Money After Fluctuation
+[Cheats/Max Money After Fluctuation]
 patch=1,EE,20207114,extended,00000000
 
-//Cheats/Need to be on for Health Codes
+[Cheats/Need to be on for Health Codes]
 patch=1,EE,201FD208,extended,0C03E048
 patch=1,EE,200F81A0,extended,08081C32
 
-//Cheats/In Battle Infinite Health and Basara Gauge
+[Cheats/In Battle Infinite Health and Basara Gauge]
 patch=1,EE,200F8134,extended,8E010528
 patch=1,EE,200F8138,extended,AE010520
 patch=1,EE,200F813C,extended,8E010908
 patch=1,EE,200F8140,extended,AE010900
 
-//Cheats/In Battle Infinite Health
+[Cheats/In Battle Infinite Health]
 patch=1,EE,20214E18,extended,8C820528
 patch=1,EE,20214E20,extended,AC820520
 
-//Cheats/In Battle Max Basara gauge player only
+[Cheats/In Battle Max Basara gauge player only]
 patch=1,EE,2011996C,extended,8C410908
 patch=1,EE,20119970,extended,AC410900
 patch=1,EE,20119978,extended,44816800
 
-//Cheats/In Battle Sengoku Drive can be activated player only
+[Cheats/In Battle Sengoku Drive can be activated player only]
 patch=1,EE,20214E1C,extended,0803E400
 patch=1,EE,200F9000,extended,8081097E
 patch=1,EE,200F9004,extended,03E00008
 patch=1,EE,200F9008,extended,A081097D
 
-//Cheats/In Battle Sengoku Drive activation possible & effect permanent player only
+[Cheats/In Battle Sengoku Drive activation possible & effect permanent player only]
 patch=1,EE,20214E1C,extended,0803E400
 patch=1,EE,200F9000,extended,8081097E
 patch=1,EE,200F9008,extended,A081097D
 patch=1,EE,200F900C,extended,03E00008 
 patch=1,EE,200F9010,extended,A49C0980 
 
-//Cheats/All Items 151-120
+[Cheats/All Items 151-120]
 patch=1,EE,404E06E0,extended,00260001
 patch=1,EE,E4E4E4E4,extended,00000000
 
-//Cheats/Unlock All Weapon and Armor items
+[Cheats/Unlock All Weapon and Armor items]
 patch=1,EE,404C9188,extended,0016043E
 patch=1,EE,E4E4E4E4,extended,00000000
 patch=1,EE,404C918C,extended,0016043E
@@ -51,29 +51,29 @@ patch=1,EE,E4E4E4E4,extended,00000000
 patch=1,EE,404C9190,extended,0016043E
 patch=1,EE,E4E4E400,extended,00000000
 
-//Cheats/Unlock 2 Costumes for All Characters
+[Cheats/Unlock 2 Costumes for All Characters]
 patch=1,EE,404C919C,extended,0016043E
 patch=1,EE,00000081,extended,00000000
 
-//Cheats/Unlock All 21 Characters
+[Cheats/Unlock All 21 Characters]
 patch=1,EE,204E06C4,extended,03FFFFFF
 
-//Cheats/Unlock Free Battle All Stages
+[Cheats/Unlock Free Battle All Stages]
 patch=1,EE,204E06B4,extended,FFFFFFFF
 patch=1,EE,204E06B8,extended,FFFFFFFF
 
-//Cheats/Unlock All Characters Introductions
+[Cheats/Unlock All Characters Introductions]
 patch=1,EE,204E0820,extended,FFFFFFFF
 
-//Cheats/Unlock All Music
+[Cheats/Unlock All Music]
 patch=1,EE,204E08A4,extended,FFFFFFFF
 patch=1,EE,204E08A8,extended,FFFFFFFF
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,204E08AC,extended,FFFFFFFF
 patch=1,EE,104E08B0,extended,0000FFFF
 
-//Cheats/Unlock All Titles
+[Cheats/Unlock All Titles]
 patch=1,EE,204E08B8,extended,FFFFFFFF
 patch=1,EE,204E08BC,extended,FFFFFFFF
 

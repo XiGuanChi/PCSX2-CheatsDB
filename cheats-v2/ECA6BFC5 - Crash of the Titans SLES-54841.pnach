@@ -1,22 +1,22 @@
 gametitle=Crash of the Titans SLES-54841
-//max.Total Mojo 9.999.999
+[max.Total Mojo 9.999.999]
 patch=1,EE,21ced4e4,extended,0098967f
 
-//Lives 9
+[Lives 9]
 patch=1,EE,21ced5d4,extended,00000009
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,101934F4,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20200728,extended,3C0142B4
 patch=1,EE,2020072C,extended,AC410004
 patch=1,EE,10200730,extended,00001000
 
-//Quick Max Mojo
+[Quick Max Mojo]
 patch=1,EE,2038DF5C,extended,3C023B9A
 patch=1,EE,2038DF60,extended,3442C9FF
 
-//Quick Max Green Mojo
+[Quick Max Green Mojo]
 patch=1,EE,2038DF4C,extended,3C063B9A
 patch=1,EE,2038DF54,extended,3463C9FF

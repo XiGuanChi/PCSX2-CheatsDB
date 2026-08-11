@@ -1,40 +1,40 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201488B8,extended,E6410278
 
-//Cheats/Infinite Energy 1
+[Cheats/Infinite Energy 1]
 patch=1,EE,202B5FBC,extended,E6000284
 
-//Cheats/Infinite Stat And Skill Points
+[Cheats/Infinite Stat And Skill Points]
 patch=1,EE,204D2A90,extended,24050063
 patch=1,EE,204D2A94,extended,A4850010
 patch=1,EE,204D2A98,extended,03E00008
 patch=1,EE,204D2A9C,extended,A4850012
 patch=1,EE,204D2ABC,extended,00000000
 
-//Cheats/Infinite Energy
+[Cheats/Infinite Energy]
 patch=1,EE,202B76B4,extended,C48C0280
 
-//Cheats/Infinite Tech Bits
+[Cheats/Infinite Tech Bits]
 patch=1,EE,211112E0,extended,05F5E0FF
 
-//Cheats/Infinite Health Packs
+[Cheats/Infinite Health Packs]
 patch=1,EE,0110EFA9,extended,00000063
 
-//Cheats/Infinite Energy Packs
+[Cheats/Infinite Energy Packs]
 patch=1,EE,0110EFE5,extended,00000063
 
-//Cheats/Infinite Skill Points
+[Cheats/Infinite Skill Points]
 patch=1,EE,2063EEAC,extended,26620000
 
-//Cheats/Max Skill Points
+[Cheats/Max Skill Points]
 patch=1,EE,204D2AA0,extended,24020063
 patch=1,EE,204D2AA4,extended,03E00008
 patch=1,EE,204D2AA8,extended,A4820010
 
-//Cheats/Fast Exp Gain
+[Cheats/Fast Exp Gain]
 patch=1,EE,204D8AF4,extended,24117530
 
-//Cheats/Max Tech Bits
+[Cheats/Max Tech Bits]
 patch=1,EE,20341E50,extended,3C0205F5
 patch=1,EE,20341E54,extended,3442E0FF
 patch=1,EE,20341E58,extended,03E00008

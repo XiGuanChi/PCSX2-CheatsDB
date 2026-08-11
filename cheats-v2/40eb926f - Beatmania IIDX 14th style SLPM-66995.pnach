@@ -1,17 +1,17 @@
 gametitle=Beatmania IIDX 14th style SLPM-66995
-//Max Gauge
+[Max Gauge]
 patch=1,EE,107E7570,extended,00001388
 
-//Hidden song appearance While using the code enter FREE mode, check the song list, save it and uncheck code after
+[Hidden song appearance While using the code enter FREE mode, check the song list, save it and uncheck code after]
 patch=1,EE,20192954,extended,24090080
 patch=1,EE,20192958,extended,A0690007
 patch=1,EE,20192960,extended,10C60007
 
-//All Galleries
+[All Galleries]
 patch=1,EE,20887804,extended,FFFFFFFF
 patch=1,EE,20887808,extended,FFFFFFFF
 
-//Alll Customize
+[Alll Customize]
 patch=1,EE,2086D084,extended,01010101
 patch=1,EE,2086D088,extended,01010101
 patch=1,EE,1086D10C,extended,00000101
@@ -21,7 +21,7 @@ patch=1,EE,2086D18C,extended,01010101
 patch=1,EE,2086D190,extended,01010101
 patch=1,EE,1086D1CA,extended,00000101
 
-//1P AUTO PLAY
+[1P AUTO PLAY]
 patch=1,EE,101DA7CC,extended,0000883D
 patch=1,EE,101DA844,extended,0000883D
 patch=1,EE,101DAEE8,extended,0000883D

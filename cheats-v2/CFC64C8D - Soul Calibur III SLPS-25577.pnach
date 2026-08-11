@@ -1,15 +1,15 @@
 gametitle=Soul Calibur III SLPS-25577
-//Gold 9999999
+[Gold 9999999]
 patch=1,EE,204F2D94,extended,0098967F
 
-//Infinite Health Player1 Soul Edfe Mode
+[Infinite Health Player1 Soul Edfe Mode]
 patch=1,EE,204BB424,extended,43700000
 
-//Select + R1 with 2P fitness 0
+[Select + R1 with 2P fitness 0]
 patch=1,EE,D0473C82,extended,0000F7FE
 patch=1,EE,204D8BA4,extended,3F800000
 
-//All Characteres / extra
+[All Characteres / extra]
 patch=1,EE,20509618,extended,66666666
 patch=1,EE,2050961C,extended,66666666
 patch=1,EE,20509620,extended,66666666

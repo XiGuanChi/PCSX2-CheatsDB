@@ -1,28 +1,28 @@
 gametitle=Dino Stalker SLES-50930
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202F2394,extended,40A00000
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,205DEC68,extended,0000540E
 patch=1,EE,205DEC6C,extended,00053C00
 
-//Inf Resuscitations
+[Inf Resuscitations]
 patch=1,EE,202F24FC,extended,00000063
 
-//Inf Antidotes
+[Inf Antidotes]
 patch=1,EE,202F2500,extended,00000004
 
-//Max Crystals
+[Max Crystals]
 patch=1,EE,202F250C,extended,0000270F
 
-//Inf Power Bullets
+[Inf Power Bullets]
 patch=1,EE,203C28DC,extended,00000063
 
-//No Reload - Normal Gun
+[No Reload - Normal Gun]
 patch=1,EE,203C28D8,extended,0000000C
 
-//No. of Dinos to kill is 0
+[No. of Dinos to kill is 0]
 patch=1,EE,20673EC4,extended,00000000
 
-//1 Hit Kill Bosses
+[1 Hit Kill Bosses]
 patch=1,EE,20402148,extended,00000000

@@ -1,8 +1,8 @@
 gametitle=Outrun 2006 - Coast 2 Coast SLES-53998
-//Infinite Time
+[Infinite Time]
 patch=1,EE,201CE250,extended,00000000
 patch=1,EE,201CE278,extended,00000000
 
-//Max Miles After Buying an Item
+[Max Miles After Buying an Item]
 patch=1,EE,201A1C60,extended,3C014FAB
 patch=1,EE,201A1C64,extended,AE610024

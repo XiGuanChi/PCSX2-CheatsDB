@@ -1,23 +1,23 @@
-//Cheats/Infinite Time Arcade Mode
+[Cheats/Infinite Time Arcade Mode]
 patch=1,EE,2037022C,extended,00000F85
 
-//Cheats/Max Championship Points
+[Cheats/Max Championship Points]
 patch=1,EE,1046B670,extended,00630063
 
-//Cheats/Timer Stopped
+[Cheats/Timer Stopped]
 patch=1,EE,20196AF4,extended,1000002A
 
-//Cheats/Opponents Don't Move
+[Cheats/Opponents Don't Move]
 patch=1,EE,201473BC,extended,00000000
 
-//Cheats/Opponents Don't Move Alt
+[Cheats/Opponents Don't Move Alt]
 patch=1,EE,201EE798,extended,AE000050
 patch=1,EE,201489A4,extended,00000000
 
-//Cheats/Drive Through Opponents
+[Cheats/Drive Through Opponents]
 patch=1,EE,20137E8C,extended,10000076
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,20431F18,extended,00000001
 patch=1,EE,20431F6C,extended,00000001
 patch=1,EE,20431CCC,extended,00000001

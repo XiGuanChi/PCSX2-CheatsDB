@@ -1,24 +1,24 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,203AFC6C,extended,43960000
 
-//Cheats/Infinite Life
+[Cheats/Infinite Life]
 patch=1,EE,20171C9C,extended,100000A0
 
-//Cheats/Invincible No Collision Detection
+[Cheats/Invincible No Collision Detection]
 patch=1,EE,20171FD4,extended,3442800B
 patch=1,EE,201760EC,extended,10000008
 
-//Cheats/Max DEMOLITION SHOT COUNTER
+[Cheats/Max DEMOLITION SHOT COUNTER]
 patch=1,EE,103B0422,extended,00000004
 
-//Cheats/Max DEMOLITION SHOT GAUGE increase
+[Cheats/Max DEMOLITION SHOT GAUGE increase]
 patch=1,EE,2016BB7C,extended,34020708
 
-//Cheats/Unlock DEMOLITION SHOT It is effective to refer to DATA of the target character in OPTIONS
+[Cheats/Unlock DEMOLITION SHOT It is effective to refer to DATA of the target character in OPTIONS]
 patch=1,EE,2023A4F0,extended,34010001
 patch=1,EE,2023A4F4,extended,A04100C4
 
-//Cheats/Unlock All CUSTOMIZE & EXTRA Please save and turn the code off
+[Cheats/Unlock All CUSTOMIZE & EXTRA Please save and turn the code off]
 patch=1,EE,102A6366,extended,00000303
 patch=1,EE,202A6368,extended,01010101
 patch=1,EE,202A636C,extended,01010101

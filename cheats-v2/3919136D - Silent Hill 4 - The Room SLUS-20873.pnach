@@ -1,10 +1,10 @@
 gametitle=Silent Hill 4 - The Room SLUS-20873
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2045A548,extended,447A0000
 patch=1,EE,20624390,extended,447A0000
 
-//1Hit Kills
+[1Hit Kills]
 patch=1,EE,2045A54C,extended,50000000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201B1984,extended,00000000

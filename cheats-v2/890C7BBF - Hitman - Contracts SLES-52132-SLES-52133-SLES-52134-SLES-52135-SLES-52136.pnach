@@ -1,17 +1,17 @@
 gametitle=Hitman - Contracts SLES-52132-SLES-52133-SLES-52134-SLES-52135-SLES-52136
-//Godmode
+[Godmode]
 patch=1,EE,20507318,extended,3F800000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,203A3990,extended,00000000
 
-//Infinite Ammo/No Reload
+[Infinite Ammo/No Reload]
 patch=1,EE,1020F9AC,extended,00000000
 
-//Saves Left Dont Decrease When Saving
+[Saves Left Dont Decrease When Saving]
 patch=1,EE,1037BD94,extended,00000000
 
-//Press SELECT in Start Menu for Level Select Unlock Levels
+[Press SELECT in Start Menu for Level Select Unlock Levels]
 patch=1,EE,D0483D42,extended,0000FFFE
 patch=1,EE,2041F9E8,extended,24020001
 patch=1,EE,D0483D42,extended,0010FFFE

@@ -1,14 +1,14 @@
-//Cheats/Max Power Orbs
+[Cheats/Max Power Orbs]
 patch=1,EE,203017A8,extended,0000EA60
 
-//Cheats/Press L1 Health Recovery
+[Cheats/Press L1 Health Recovery]
 patch=1,EE,D029D6E0,extended,00000004
 patch=1,EE,201E19AC,extended,46016328
 
-//Cheats/Infinite Magic Energy
+[Cheats/Infinite Magic Energy]
 patch=1,EE,2030179C,extended,42C80000
 
-//Cheats/Max Rage of Gods meter with L3 button
+[Cheats/Max Rage of Gods meter with L3 button]
 patch=1,EE,D029D6E0,extended,00000200
 patch=1,EE,203017A0,extended,42C80000
 

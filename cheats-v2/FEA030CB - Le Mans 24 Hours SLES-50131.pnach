@@ -1,15 +1,15 @@
 gametitle=Le Mans 24 Hours SLES-50131
-//Freeze lap timer
+[Freeze lap timer]
 patch=1,EE,206B94E0,extended,00000100
 
-//Easy 2 wheels
+[Easy 2 wheels]
 patch=1,EE,20221B6C,extended,00000000
 
-//No slow-down off track
+[No slow-down off track]
 patch=1,EE,20221B94,extended,00000000
 
-//No fuel useage
+[No fuel useage]
 patch=1,EE,20221BDC,extended,00000000
 
-//No tyre wear
+[No tyre wear]
 patch=1,EE,20221BEC,extended,00000000

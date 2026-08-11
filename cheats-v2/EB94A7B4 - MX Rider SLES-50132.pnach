@@ -1,8 +1,8 @@
 gametitle=MX Rider	SLES-50132
-//Pots of cash - File 1
+[Pots of cash - File 1]
 patch=1,EE,2040A1C8,extended,05F5E0FF
 
-//Challenge - Easy
+[Challenge - Easy]
 patch=1,EE,1040D538,extended,00000001
 patch=1,EE,1040D53C,extended,00000001
 patch=1,EE,1040D540,extended,00000001
@@ -16,7 +16,7 @@ patch=1,EE,1040D55C,extended,00000001
 patch=1,EE,1040D560,extended,00000001
 patch=1,EE,1040D564,extended,00000001
 
-//Attempt a challenge to unlock Challenge - Medium
+[Attempt a challenge to unlock Challenge - Medium]
 patch=1,EE,1040D568,extended,00000001
 patch=1,EE,1040D56C,extended,00000001
 patch=1,EE,1040D570,extended,00000001
@@ -30,7 +30,7 @@ patch=1,EE,1040D58C,extended,00000001
 patch=1,EE,1040D590,extended,00000001
 patch=1,EE,1040D594,extended,00000001
 
-//Attempt a challenge to unlock Challenge - Hard
+[Attempt a challenge to unlock Challenge - Hard]
 patch=1,EE,1040D598,extended,00000001
 patch=1,EE,1040D59C,extended,00000001
 patch=1,EE,1040D5A0,extended,00000001

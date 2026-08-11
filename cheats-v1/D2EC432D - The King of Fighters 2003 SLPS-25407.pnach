@@ -1,4 +1,4 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,209EC690,extended,FFFFFFFF
 patch=1,EE,209EC694,extended,FFFFFFFF
 patch=1,EE,109D5BDC,extended,00000070
@@ -6,11 +6,11 @@ patch=1,EE,109D5ADC,extended,00000070
 patch=1,EE,109D59DC,extended,00000070
 patch=1,EE,109D5CC4,extended,00000005
 
-//Cheats/Unlock Hidden Character
+[Cheats/Unlock Hidden Character]
 patch=1,EE,009EC895,extended,00000003
 patch=1,EE,009EC896,extended,00000003
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,209EC690,extended,FFFFFFFF
 patch=1,EE,209EC694,extended,FFFFFFFF
 patch=1,EE,209EC698,extended,FFFFFFFF

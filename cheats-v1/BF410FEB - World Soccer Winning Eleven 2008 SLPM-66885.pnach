@@ -1,29 +1,29 @@
-//Cheats/Max WEN 99999
+[Cheats/Max WEN 99999]
 patch=1,EE,218CF4AC,extended,0001869F
 
-//Cheats/Max Master League Points
+[Cheats/Max Master League Points]
 patch=1,EE,202284A0,extended,10000014
 patch=1,EE,202284F4,extended,3C010010
 patch=1,EE,202284F8,extended,0808A12B
 patch=1,EE,202284FC,extended,AC410034
 
-//Cheats/HOME Goals 9 Press SELECT+L1
+[Cheats/HOME Goals 9 Press SELECT+L1]
 patch=1,EE,D05348C2,extended,0000FBFE
 patch=1,EE,00D1A368,extended,00000009
 
-//Cheats/HOME Goals 0 Press SELECT+L2
+[Cheats/HOME Goals 0 Press SELECT+L2]
 patch=1,EE,D05348C2,extended,0000FEFE
 patch=1,EE,00D1A368,extended,00000000
 
-//Cheats/AWAY Goals 9 Press SELECT+R1
+[Cheats/AWAY Goals 9 Press SELECT+R1]
 patch=1,EE,D05348C2,extended,0000F7FE6
 patch=1,EE,00D1A65C,extended,00000009
 
-//Cheats/AWAY Goals 0 Press SELECT+R2
+[Cheats/AWAY Goals 0 Press SELECT+R2]
 patch=1,EE,D05348C2,extended,0000FDFE
 patch=1,EE,00D1A65C,extended,00000000
 
-//Cheats/Master League Player Exp 99% after match
+[Cheats/Master League Player Exp 99% after match]
 patch=1,EE,D0acf820,extended,0000616D
 patch=1,EE,20ae8020,extended,08030880
 patch=1,EE,200C2200,extended,2401270F
@@ -31,5 +31,5 @@ patch=1,EE,200C2204,extended,a481a690
 patch=1,EE,200C2208,extended,082ba00a
 patch=1,EE,200C220C,extended,8487a690
 
-//Cheats/Unlock All Cup Gallery
+[Cheats/Unlock All Cup Gallery]
 patch=1,EE,218CF498,extended,FFFFFFFF

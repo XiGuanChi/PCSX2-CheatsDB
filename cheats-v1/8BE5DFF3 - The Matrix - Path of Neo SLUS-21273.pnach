@@ -1,36 +1,36 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20240830,extended,C44103C4
 patch=1,EE,2024083C,extended,E44103C0
 
-//Cheats/Infinite Focus
+[Cheats/Infinite Focus]
 patch=1,EE,20243348,extended,C46103D4
 patch=1,EE,20243350,extended,E46103D0
 
-//Cheats/Infinite Focus Usage
+[Cheats/Infinite Focus Usage]
 patch=1,EE,20140EC4,extended,00000000
 
-//Cheats/One Hit Death Enemies
+[Cheats/One Hit Death Enemies]
 patch=1,EE,20140AD8,extended,AC8003C0
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,202DBFA0,extended,00000000
 
-//Cheats/P1 Press R1+Select For More Upgrade Points
+[Cheats/P1 Press R1+Select For More Upgrade Points]
 patch=1,EE,D044E882,extended,0000F7FE
 patch=1,EE,2046C500,extended,00000005
 
-//Cheats/P1 Press R+Select For No Upgrade Points
+[Cheats/P1 Press R+Select For No Upgrade Points]
 patch=1,EE,D044E882,extended,0000FDFE
 patch=1,EE,2046C500,extended,00000000
 
-//Cheats/Activate Cheat Codes All Cheats
+[Cheats/Activate Cheat Codes All Cheats]
 patch=1,EE,20468181,extended,000000FC
 
-//Cheats/Unlock Media All Media Viewer
+[Cheats/Unlock Media All Media Viewer]
 patch=1,EE,20465648,extended,0010081F
 patch=1,EE,20465654,extended,00000040
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,20465648,extended,00107060
 patch=1,EE,1046564A,extended,0000FFFF
 patch=1,EE,2046564D,extended,00105001

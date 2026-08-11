@@ -1,34 +1,34 @@
-//Cheats/Max Gold
+[Cheats/Max Gold]
 patch=1,EE,20185F38,extended,2402FFFF
 patch=1,EE,20185F3C,extended,AC82044C
 
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,200F7000,extended,03E00008
 patch=1,EE,200F7004,extended,A48200EA
 patch=1,EE,20213398,extended,0803DC00
 patch=1,EE,2021339C,extended,2402270F
 
-//Cheats/Infinite MP
+[Cheats/Infinite MP]
 patch=1,EE,200F7008,extended,03E00008
 patch=1,EE,200F700C,extended,A48200EE
 patch=1,EE,202134B8,extended,0803DC02
 patch=1,EE,202134BC,extended,2402270F
 
-//Cheats/Max HP L2+Triangle ON L2+X OFF
+[Cheats/Max HP L2+Triangle ON L2+X OFF]
 patch=1,EE,D0BE3F88,extended,00000011
 patch=1,EE,202133D8,extended,08084D1C
 patch=1,EE,D0BE3F88,extended,00000041
 patch=1,EE,202133D8,extended,03E00008
 
-//Cheats/Max MP
+[Cheats/Max MP]
 patch=1,EE,202134F8,extended,08084D60
 
-//Cheats/No Random Battles SELECT ON START OFF
+[Cheats/No Random Battles SELECT ON START OFF]
 patch=1,EE,D0BE3F88,extended,00000100
 patch=1,EE,20192B08,extended,24020000
 patch=1,EE,D0BE3F88,extended,00000800
 patch=1,EE,20192B08,extended,2C420001
 
-//Cheats/Unlock All Movies Needs a Savegame
+[Cheats/Unlock All Movies Needs a Savegame]
 patch=1,EE,2016DEA0,extended,24020001
 

@@ -1,19 +1,19 @@
-//Cheats/Infinite Hero Health
+[Cheats/Infinite Hero Health]
 patch=1,EE,21CE0BCC,extended,0000270F
 
-//Cheats/Infinite Hero Spiritual power
+[Cheats/Infinite Hero Spiritual power]
 patch=1,EE,21CE0BD0,extended,0000270F
 
-//Cheats/Hikaru Experience Value max
+[Cheats/Hikaru Experience Value max]
 patch=1,EE,21CE0B80,extended,0098967F
 
-//Cheats/Level 99 After Level up
+[Cheats/Level 99 After Level up]
 patch=1,EE,2026FE68,extended,00000000
 
-//Cheats/Obtained 999 Balls and Souls
+[Cheats/Obtained 999 Balls and Souls]
 patch=1,EE,20280FA8,extended,00000000
 
-//Cheats/Unlock All CG
+[Cheats/Unlock All CG]
 patch=1,EE,4192AB28,extended,00120001
 patch=1,EE,20202020,extended,00000000
 patch=1,EE,4192ABA8,extended,00050001
@@ -22,7 +22,7 @@ patch=1,EE,1192AB70,extended,00002020
 patch=1,EE,0192AB72,extended,00000020
 patch=1,EE,0192ABBC,extended,00000020
 
-//Cheats/Unlock Sound and CG Mode After Press L3+R3 on the Title Screen
+[Cheats/Unlock Sound and CG Mode After Press L3+R3 on the Title Screen]
 patch=1,EE,D1936042,extended,0000FFF9
 patch=1,EE,0192BA4C,extended,00000005
 patch=1,EE,D1936042,extended,0000FFF9

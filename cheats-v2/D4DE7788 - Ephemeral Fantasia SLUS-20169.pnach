@@ -1,27 +1,27 @@
 gametitle=Ephemeral Fantasia SLUS-20169
-//Infinite & Max HP Mouse
+[Infinite & Max HP Mouse]
 patch=1,EE,206370AA,extended,000003E7
 patch=1,EE,206370AC,extended,000003E7
 
-//Infinite & Max MP Mouse
+[Infinite & Max MP Mouse]
 patch=1,EE,206370AE,extended,000003E7
 patch=1,EE,206370B0,extended,000003E7
 
-//Infinite HP in Battle Mouse (SOLO CON SAVESTATE)
+[Infinite HP in Battle Mouse (SOLO CON SAVESTATE)]
 patch=1,EE,20421D6C,extended,000003E7
 
-//Infinite MP in Battle Mouse (SOLO CON SAVESTATE)
+[Infinite MP in Battle Mouse (SOLO CON SAVESTATE)]
 patch=1,EE,206370B0,extended,000003E7
 
-//Infinite Money
+[Infinite Money]
 patch=1,EE,203BBF34,extended,0098967F
 patch=1,EE,20637F2C,extended,0098967F
 
-//Max Strength - Mouse
+[Max Strength - Mouse]
 patch=1,EE,10637080,extended,000003E7
 
-//Max Sp - Mouse
+[Max Sp - Mouse]
 patch=1,EE,10637082,extended,000003E7
 
-//No Random Battles
+[No Random Battles]
 patch=0,EE,103F9FA2,extended,00000000

@@ -1,7 +1,7 @@
 gametitle=Kengo - Master of Bushido SLES-50114
-//Inf health P1
+[Inf health P1]
 patch=1,EE,201EC282,extended,00003F80
 patch=1,EE,201EC286,extended,00003F80
 
-//Inf KI P1
+[Inf KI P1]
 patch=1,EE,201EC288,extended,00001000

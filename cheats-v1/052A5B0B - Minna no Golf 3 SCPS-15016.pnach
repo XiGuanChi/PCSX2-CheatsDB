@@ -1,12 +1,12 @@
-//Cheats/Max Points
+[Cheats/Max Points]
 patch=1,EE,20582C0C,extended,05F5E0F6
 
-//Cheats/Unlock All Courses
+[Cheats/Unlock All Courses]
 patch=1,EE,00582C29,extended,00000002
 patch=1,EE,00582C2C,extended,00000002
 patch=1,EE,10582C2A,extended,00000202
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,20582C10,extended,33333333
 patch=1,EE,20582C14,extended,33333333
 patch=1,EE,20582C18,extended,33333333

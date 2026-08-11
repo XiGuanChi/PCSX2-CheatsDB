@@ -1,10 +1,10 @@
-//Cheats/Unlock Special Needs a savegame to work
+[Cheats/Unlock Special Needs a savegame to work]
 patch=1,EE,20128200,extended,64020001
 
-//Cheats/Unlock All Ending Needs a savegame to work
+[Cheats/Unlock All Ending Needs a savegame to work]
 patch=1,EE,21A00040,extended,0000FFFF
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,41A00040,extended,00150001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,41A0009C,extended,00040001

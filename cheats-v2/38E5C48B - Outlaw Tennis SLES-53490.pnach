@@ -1,21 +1,21 @@
 gametitle=Outlaw Tennis SLES-53490
-//Open All Characters
+[Open All Characters]
 patch=1,EE,2064F84C,extended,01010101
 patch=1,EE,2064F850,extended,01010101
 patch=1,EE,2064F854,extended,01010101
 patch=1,EE,2064F858,extended,01010101
 
-//Player 1 Always Wins (Normal Match)
+[Player 1 Always Wins (Normal Match)]
 patch=1,EE,0064F318,extended,00000004
 patch=1,EE,0064F324,extended,00000000
 patch=1,EE,0064F4FC,extended,00000000
 
-//Player 1 Always Wins (Baseball Match)
+[Player 1 Always Wins (Baseball Match)]
 patch=1,EE,0064F318,extended,00000063
 patch=1,EE,0064F324,extended,00000000
 patch=1,EE,0064F4FC,extended,00000000
 
-//All Drills Open
+[All Drills Open]
 patch=1,EE,0064FCB0,extended,00000001
 patch=1,EE,0064FCB1,extended,00000001
 patch=1,EE,0064FCB2,extended,00000001
@@ -38,11 +38,11 @@ patch=1,EE,0064FCC2,extended,00000001
 patch=1,EE,0064FCC3,extended,00000001
 patch=1,EE,0064FCC4,extended,00000001
 
-//Infinite Skill Points
+[Infinite Skill Points]
 patch=1,EE,2065A404,extended,00000000
 
-//Player 1 99999 Cash In Casino Matches
+[Player 1 99999 Cash In Casino Matches]
 patch=1,EE,2064F320,extended,0001869F
 
-//Player 1 9999 Points In Pinball Matches
+[Player 1 9999 Points In Pinball Matches]
 patch=1,EE,2064F388,extended,0000270F

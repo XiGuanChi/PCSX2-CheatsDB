@@ -1,28 +1,28 @@
 gametitle=Fullmetal Alchemist 2 - Curse of the Crimson Elixir SLUS-21166
-//Edward ALC 999
+[Edward ALC 999]
 patch=1,EE,102c8a2e,extended,000003e7
 
-//Edward HP 9999
+[Edward HP 9999]
 patch=1,EE,102c8a28,extended,0000270f
 patch=1,EE,102c8a2a,extended,0000270f
 
-//Edward ATK 999
+[Edward ATK 999]
 patch=1,EE,102c8a2c,extended,000003e7
 
-//Alphonse HP 9999
+[Alphonse HP 9999]
 patch=1,EE,102C8A4C,extended,0000270f
 patch=1,EE,102C8A4E,extended,0000270f
 
-//Alphonse ATK 999
+[Alphonse ATK 999]
 patch=1,EE,102C8A50,extended,000003e7
 
-//all Items x99
+[all Items x99]
 patch=1,EE,002c8a69,extended,00000063
 patch=1,EE,102c8a6a,extended,00006363
 patch=1,EE,202c8a6c,extended,63636363
 patch=1,EE,202c8a70,extended,63636363
 patch=1,EE,102c8a74,extended,00006363
 
-//all Accessories x9
+[all Accessories x9]
 patch=1,EE,402c8aa8,extended,00100001
 patch=1,EE,09090909,extended,00000000

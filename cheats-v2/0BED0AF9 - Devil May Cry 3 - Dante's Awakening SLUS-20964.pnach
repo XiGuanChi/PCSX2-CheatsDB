@@ -1,22 +1,22 @@
 gametitle=Devil May Cry 3 - Dante's Awakening SLUS-20964
-//Infinite Health 
+[Infinite Health]
 patch=1,EE,205C3870,extended,3C030073
 patch=1,EE,205C3874,extended,8C6317A8
 patch=1,EE,205C3878,extended,AC832AD4
 patch=1,EE,205C387C,extended,03E00008
 patch=1,EE,202057B4,extended,08170E1C
 
-//Infinite Devil Trigger
+[Infinite Devil Trigger]
 patch=1,EE,2021CCD8,extended,00000000
 
-//Infinite Holy Water
+[Infinite Holy Water]
 patch=1,EE,007316A3,extended,0000001E
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,41CB0520,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//1-Hit Enemy Kills (Bosses Also) 
+[1-Hit Enemy Kills (Bosses Also)]
 patch=1,EE,200C2070,extended,341B0001
 patch=1,EE,200C2074,extended,111B0004
 patch=1,EE,200C2078,extended,3E1B461E

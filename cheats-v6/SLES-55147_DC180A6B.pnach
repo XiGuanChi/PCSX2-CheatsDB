@@ -1,34 +1,34 @@
 gametitle=Silent Hill - Origins SLES-55147 DC180A6B
 
-//Infinite Health
+[Infinite Health]
 author=GamingDragon93
 patch=1,EE,20136178,extended,E6000BDC
 
-//1 Hit Kill
+[1 Hit Kill]
 author=GamingDragon93
 patch=1,EE,20126F00,extended,460C0001
 
-//Infinite Ammo
+[Infinite Ammo]
 author=GamingDragon93
 patch=1,EE,2018fb08,extended,00000000
 
-//Infinite Items
+[Infinite Items]
 author=GamingDragon93
 patch=1,EE,20190B8C,extended,00000000
 
-//Activate Ingame Cheat - God Mode
+[Activate Ingame Cheat - God Mode]
 author=GamingDragon93
 patch=1,EE,2013617C,extended,AE010F64
 
-//Activate Ingame Cheat - 1 Hit Kill
+[Activate Ingame Cheat - 1 Hit Kill]
 author=GamingDragon93
 patch=1,EE,1012eee8,extended,00000003
 patch=1,EE,2012ef08,extended,10000004
 
-//Activate Ingame Cheat - Unlock Extra Options
+[Activate Ingame Cheat - Unlock Extra Options]
 author=GamingDragon93
 patch=1,EE,20338cec,extended,00000000
 
-//Activate Ingame Cheat - Unlock all Maps
+[Activate Ingame Cheat - Unlock all Maps]
 author=GamingDragon93
 patch=1,EE,20338d04,extended,00000000

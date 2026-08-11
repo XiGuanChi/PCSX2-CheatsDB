@@ -1,22 +1,22 @@
 gametitle=Konjiki no Gashbell !!: Yuujou Tag Battle SLPS-25358
-//1P Life Gauge MAX
+[1P Life Gauge MAX]
 patch=1,EE,11602E42,extended,00004347
 
-//CPU life gauge 0 After pressing the L3 + R3 button
+[CPU life gauge 0 After pressing the L3 + R3 button]
 patch=1,EE,D045F342,extended,0000FFF9
 patch=1,EE,11629EE2,extended,0000BF80
 
-//1P Life Gauge MAX After pressing the L2 + R2 button
+[1P Life Gauge MAX After pressing the L2 + R2 button]
 patch=1,EE,D045F342,extended,0000FCFF
 patch=1,EE,11602E42,extended,00004347
 
-//Mission mode character full open
+[Mission mode character full open]
 patch=1,EE,0046F7D4,extended,000000FF
 
-//Growth point 999999 Gash
+[Growth point 999999 Gash]
 patch=1,EE,2046F2C4,extended,497423F0
 
-//Extra mode fully open
+[Extra mode fully open]
 patch=1,EE,4047B450,extended,000C0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,00460DB4,extended,000000FF

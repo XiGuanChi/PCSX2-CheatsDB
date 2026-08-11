@@ -1,4 +1,4 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,240100C8
 patch=1,EE,200C0224,extended,AC41022C
 patch=1,EE,200C0228,extended,3C014348
@@ -6,88 +6,88 @@ patch=1,EE,200C022C,extended,03E00008
 patch=1,EE,200C0230,extended,44810000
 patch=1,EE,2020DEC4,extended,0C030088
 
-//Cheats/Infinite Zen
+[Cheats/Infinite Zen]
 patch=1,EE,200C0240,extended,3C0144FA
 patch=1,EE,200C0244,extended,44810000
 patch=1,EE,200C0248,extended,03E00008
 patch=1,EE,200C024C,extended,E4600080
 patch=1,EE,2020DEE8,extended,0C030090
 
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,21AFBA98,extended,00000003
 
-//Cheats/Max Power
+[Cheats/Max Power]
 patch=1,EE,21AFBA9C,extended,00000003
 
-//Cheats/Max Zen
+[Cheats/Max Zen]
 patch=1,EE,21AFBAA0,extended,00000003
 
-//Cheats/Powered Up Health
+[Cheats/Powered Up Health]
 patch=1,EE,21AFBAB0,extended,42C80000
 
-//Cheats/Can Throw Ninja Star With 0 Quantity
+[Cheats/Can Throw Ninja Star With 0 Quantity]
 patch=1,EE,201E30D0,extended,24020032
 
-//Cheats/Infinite Ninja Stars Upon Pickup
+[Cheats/Infinite Ninja Stars Upon Pickup]
 patch=1,EE,201DCB70,extended,00000000
 
-//Cheats/Can Shoot Arrows With 0 Quantity
+[Cheats/Can Shoot Arrows With 0 Quantity]
 patch=1,EE,201DDEA8,extended,24020032
 patch=1,EE,201DE090,extended,24020032
 
-//Cheats/Infinite Arrows Upon Pickup
+[Cheats/Infinite Arrows Upon Pickup]
 patch=1,EE,201DD2E8,extended,00000000
  
-//Cheats/Have Level Stats Unlocked Reach The Village
+[Cheats/Have Level Stats Unlocked Reach The Village]
 patch=1,EE,21AFBA10,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Rescue The King
+[Cheats/Have Level Stats Unlocked Rescue The King]
 patch=1,EE,21AFBA14,extended,00000001
 
-//Cheats/Have Level Stats Unlocked The Burning Building
+[Cheats/Have Level Stats Unlocked The Burning Building]
 patch=1,EE,21AFBA18,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Destroy The Statue
+[Cheats/Have Level Stats Unlocked Destroy The Statue]
 patch=1,EE,21AFBA1C,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Free The Priest
+[Cheats/Have Level Stats Unlocked Free The Priest]
 patch=1,EE,21AFBA20,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Break The Siege
+[Cheats/Have Level Stats Unlocked Break The Siege]
 patch=1,EE,21AFBA24,extended,00000001
 
-//Cheats/Have Level Stats Unlocked The Greenhouse
+[Cheats/Have Level Stats Unlocked The Greenhouse]
 patch=1,EE,21AFBA28,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Find The Tree Spirit
+[Cheats/Have Level Stats Unlocked Find The Tree Spirit]
 patch=1,EE,21AFBA2C,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Defeat The Foreman
+[Cheats/Have Level Stats Unlocked Defeat The Foreman]
 patch=1,EE,21AFBA30,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Rescue THe Archaeologist
+[Cheats/Have Level Stats Unlocked Rescue THe Archaeologist]
 patch=1,EE,21AFBA38,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Find The Map Tablet
+[Cheats/Have Level Stats Unlocked Find The Map Tablet]
 patch=1,EE,21AFBA3C,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Disable Security System
+[Cheats/Have Level Stats Unlocked Disable Security System]
 patch=1,EE,21AFBA40,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Find The Time Portal
+[Cheats/Have Level Stats Unlocked Find The Time Portal]
 patch=1,EE,21AFBA44,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Enter The City
+[Cheats/Have Level Stats Unlocked Enter The City]
 patch=1,EE,21AFBA4C,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Free The Scotsman
+[Cheats/Have Level Stats Unlocked Free The Scotsman]
 patch=1,EE,21AFBA50,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Stop The Designer
+[Cheats/Have Level Stats Unlocked Stop The Designer]
 patch=1,EE,21AFBA54,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Break Into The Central Computer
+[Cheats/Have Level Stats Unlocked Break Into The Central Computer]
 patch=1,EE,21AFBA58,extended,00000001
 
-//Cheats/Have Level Stats Unlocked Penetrate Aku's Fortress
+[Cheats/Have Level Stats Unlocked Penetrate Aku's Fortress]
 patch=1,EE,21AFBA5C,extended,00000001

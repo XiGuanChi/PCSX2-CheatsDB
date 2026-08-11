@@ -1,13 +1,13 @@
 gametitle=Animaniacs - The Great Edgar Hunt SLES-52729
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201D2644,extended,00000000
 
-//Infinite Lightning Gun Power
+[Infinite Lightning Gun Power]
 patch=1,EE,201CAD18,extended,00000000
 
-//Infinite Lives - Mini Games
+[Infinite Lives - Mini Games]
 patch=1,EE,20215D18,extended,00000000
 
-//Invincibility 
+[Invincibility]
 patch=0,EE,2013CFFC,extended,34020000

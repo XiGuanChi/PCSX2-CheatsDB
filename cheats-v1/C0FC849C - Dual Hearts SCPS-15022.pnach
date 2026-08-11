@@ -1,10 +1,10 @@
-//Cheats/Max HP Main Character
+[Cheats/Max HP Main Character]
 patch=1,EE,106FF308,extended,00005050
 
-//Cheats/Max Weapon Level
+[Cheats/Max Weapon Level]
 patch=1,EE,206FF330,extended,03030303
 
-//Cheats/Unlock All Weapons & Tools Possession
+[Cheats/Unlock All Weapons & Tools Possession]
 patch=1,EE,106FF308,extended,0000FFFF
 patch=1,EE,206FF31C,extended,01010101
 

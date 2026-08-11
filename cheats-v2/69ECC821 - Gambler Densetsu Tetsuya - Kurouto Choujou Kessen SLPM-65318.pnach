@@ -1,22 +1,22 @@
 gametitle=Gambler Densetsu Tetsuya - Kurouto Choujou Kessen SLPM-65318
-//Player has 99999 points
+[Player has 99999 points]
 patch=1,EE,2039F464,extended,0001869F
 
-//Opponent 1 has 0 points
+[Opponent 1 has 0 points]
 patch=1,EE,2039F470,extended,00000000
 
-//Opponent 2 has 0 points
+[Opponent 2 has 0 points]
 patch=1,EE,2039F46C,extended,00000000
 
-//Opponent 3 has 0 points
+[Opponent 3 has 0 points]
 patch=1,EE,2039F468,extended,00000000
 
-//Tetsuya Gen Xi Does not reduce power when using skill
+[Tetsuya Gen Xi Does not reduce power when using skill]
 patch=1,EE,201F9B58,extended,11200007
 
-//COM professional skill unusable
+[COM professional skill unusable]
 patch=1,EE,201F9B7C,extended,1520FFF7
 patch=1,EE,201F9B80,extended,10C00005
 
-//Tetsuya Gen Xi Do not reduce the power when using the technique + COM Xuan skill unavailable
+[Tetsuya Gen Xi Do not reduce the power when using the technique + COM Xuan skill unavailable]
 patch=1,EE,201F9B54,extended,11200008

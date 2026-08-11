@@ -1,60 +1,60 @@
-//Cheats/Max Gold 999999
+[Cheats/Max Gold 999999]
 patch=1,EE,20C02A00,extended,000F423F
 
-//Cheats/Max Military Funding
+[Cheats/Max Military Funding]
 patch=1,EE,20C02A00,extended,000F423F
 
-//Cheats/Max Experience Value
+[Cheats/Max Experience Value]
 patch=1,EE,20C02A04,extended,000F423F
 
-//Cheats/Unlock All Items
+[Cheats/Unlock All Items]
 patch=1,EE,40C02A08,extended,00070001
 patch=1,EE,000F000F,extended,00000000
 
-//Cheats/Character 1 Stats Max
+[Cheats/Character 1 Stats Max]
 patch=1,EE,40C02A54,extended,000D0001
 patch=1,EE,00010000,extended,00000000
 
-//Cheats/Character 2 Stats Max
+[Cheats/Character 2 Stats Max]
 patch=1,EE,40C02AF0,extended,000D0001
 patch=1,EE,00010000,extended,00000000
 
-//Cheats/Character 3 Stats Max
+[Cheats/Character 3 Stats Max]
 patch=1,EE,40C02B8C,extended,000D0001
 patch=1,EE,00010000,extended,00000000
 
-//Cheats/Character 4 Stats Max
+[Cheats/Character 4 Stats Max]
 patch=1,EE,40C02C28,extended,000D0001
 patch=1,EE,00010000,extended,00000000
 
-//Cheats/Character 5 Stats Max
+[Cheats/Character 5 Stats Max]
 patch=1,EE,40C02CC4,extended,000D0001
 patch=1,EE,00010000,extended,00000000
 
-//Cheats/Character 1 Lv 99 HP 999
+[Cheats/Character 1 Lv 99 HP 999]
 patch=1,EE,00C02A52,extended,00000000
 patch=1,EE,00C02A4C,extended,00000063
 
-//Cheats/Character 2 Lv 99 HP 999
+[Cheats/Character 2 Lv 99 HP 999]
 patch=1,EE,00C02AEE,extended,00000000
 patch=1,EE,00C02AE8,extended,00000063
 
-//Cheats/Character 3 Lv 99 HP 999
+[Cheats/Character 3 Lv 99 HP 999]
 patch=1,EE,00C02B8A,extended,00000000
 patch=1,EE,00C02B84,extended,00000063
 
-//Cheats/Character 4 Lv 99 HP 999
+[Cheats/Character 4 Lv 99 HP 999]
 patch=1,EE,00C02C26,extended,00000000
 patch=1,EE,00C02C20,extended,00000063
 
-//Cheats/Skeleton A Lv 99 HP 999
+[Cheats/Skeleton A Lv 99 HP 999]
 patch=1,EE,00C02CC2,extended,00000000
 patch=1,EE,00C02CBC,extended,00000063
 
-//Cheats/Lv.Up 999999 Points Level 99 HP 999
+[Cheats/Lv.Up 999999 Points Level 99 HP 999]
 patch=1,EE,20C02A04,extended,000F423F
 
-//Cheats/All Demon Souls 99
+[Cheats/All Demon Souls 99]
 patch=1,EE,00C034C0,extended,000000CE
 patch=1,EE,00C034D4,extended,00000063
 patch=1,EE,00C034C8,extended,000000CF

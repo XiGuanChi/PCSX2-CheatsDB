@@ -1,8 +1,8 @@
 gametitle=Kyuuketsu Hime Yui Senyasyo SLPM-65272
-//Infinite Life 
+[Infinite Life]
 patch=1,EE,206E5D8C,extended,0064001B
 
-//Album fully open
+[Album fully open]
 patch=1,EE,406E5DA8,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,106E5DC0,extended,0000FFFF

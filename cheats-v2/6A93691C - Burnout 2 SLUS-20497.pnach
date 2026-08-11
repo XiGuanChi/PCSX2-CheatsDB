@@ -1,38 +1,38 @@
 gametitle=Burnout 2 SLUS-20497
-//Infinite Turbo
+[Infinite Turbo]
 patch=1,EE,20398A84,extended,42C80000
 
-//Max Score
+[Max Score]
 patch=1,EE,203984C0,extended,05F5E0FF
 
-//Have Offensive Driving 101 Completed
+[Have Offensive Driving 101 Completed]
 patch=1,EE,203659C4,extended,00000001
 
-//Always Low Time
+[Always Low Time]
 patch=1,EE,20367550,extended,000006F0
 
-//Max Number Of Crashes
+[Max Number Of Crashes]
 patch=1,EE,20398EC0,extended,05F5E0FF
 
-//Max Score
+[Max Score]
 patch=1,EE,20398B1C,extended,05F5E0FF
 
-//Unlock All Cars
+[Unlock All Cars]
 patch=1,EE,40365860,extended,00160001
 patch=1,EE,00000000,extended,00000000
 
-//Unlock All Single Tracks
+[Unlock All Single Tracks]
 patch=1,EE,403658B8,extended,001E0001
 patch=1,EE,00000000,extended,00000000
 
-//Unlock All Championship Stages
+[Unlock All Championship Stages]
 patch=1,EE,40365930,extended,000F0001
 patch=1,EE,00000000,extended,00000000
 
-//Unlock All Custom Series Championship Stages
+[Unlock All Custom Series Championship Stages]
 patch=1,EE,4036596C,extended,00070001
 patch=1,EE,00000000,extended,00000000
 
-//Unlock All Misc.
+[Unlock All Misc.]
 patch=1,EE,40265988,extended,00070001
 patch=1,EE,00000000,extended,00000000

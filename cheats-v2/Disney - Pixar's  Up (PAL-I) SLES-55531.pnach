@@ -1,11 +1,11 @@
 gametitle=Disney - Pixar's  Up (PAL-I) SLES-55531
-//Fruits always restore max life 
+[Fruits always restore max life]
 patch=1,EE,205414A0,extended,C4800008
 patch=1,EE,205414A4,extended,00000000
 
-//God Mode 
+[God Mode]
 patch=1,EE,20541530,extended,03E00008
 patch=1,EE,20541534,extended,00000000
 
-//Unlock all the tricks, sketches and high-resolution images [Creating new game] 
+[Unlock all the tricks, sketches and high-resolution images [Creating new game]]
 patch=1,EE,204CC834,extended,24020000

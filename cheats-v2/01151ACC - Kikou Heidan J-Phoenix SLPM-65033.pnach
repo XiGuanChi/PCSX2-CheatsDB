@@ -1,28 +1,28 @@
 gametitle=Kikou Heidan J-Phoenix SLPM-65033
-//Gold 99900
+[Gold 99900]
 patch=1,EE,20213D90,extended,000F3E58
 
-//Replace Options Menu (from main menu) with Level Select + Camera Debugger
+[Replace Options Menu (from main menu) with Level Select + Camera Debugger]
 patch=1,EE,2020F8AC,extended,00140518
 
-//Gold maximum when going to LABO
+[Gold maximum when going to LABO]
 patch=1,EE,2010F4C4,extended,AE020010
 
-//Instant HP Recovery
+[Instant HP Recovery]
 patch=1,EE,201664D0,extended,00000000
 patch=1,EE,201664D6,extended,A443004A
 
-//I don't like EN
+[I don't like EN]
 patch=1,EE,2014076C,extended,00000000
 patch=1,EE,20140790,extended,24027000
 
-//Garage assembled no shortage of output
+[Garage assembled no shortage of output]
 patch=1,EE,10112792,extended,0000A620
 patch=1,EE,1011279E,extended,00001000
 
-//Garage assembled no excess weight
+[Garage assembled no excess weight]
 patch=1,EE,101127E2,extended,0000A620
 patch=1,EE,101127EA,extended,00001000
 
-//Weapons can be used even if power is insufficient
+[Weapons can be used even if power is insufficient]
 patch=1,EE,20154348,extended,00000000

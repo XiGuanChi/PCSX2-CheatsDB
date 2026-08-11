@@ -1,14 +1,14 @@
-//Cheats/Performance patch
+[Cheats/Performance patch]
 patch=1,EE,0015B698,word,24050000
 
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,203E99E0,extended,05F5E0FF
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,10407A22,extended,00000096
 
-//Cheats/Infinite Stamina
+[Cheats/Infinite Stamina]
 patch=1,EE,10407E68,extended,0000270F
 
-//Cheats/Infinite Quest Time
+[Cheats/Infinite Quest Time]
 patch=1,EE,203EA0C0,extended,0001A5DF

@@ -1,22 +1,22 @@
-//Cheats/All Holes Always Hole In One P1
+[Cheats/All Holes Always Hole In One P1]
 patch=1,EE,404D8C70,extended,00120001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/All Attributes Are Free Edit Golfer
+[Cheats/All Attributes Are Free Edit Golfer]
 patch=1,EE,20150F0C,extended,00000000
 patch=1,EE,20150F50,extended,00000000
 
-//Cheats/Profile 1 Codes Max Current Cash
+[Cheats/Profile 1 Codes Max Current Cash]
 patch=1,EE,21DC5824,extended,05F5E0FF
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,21DCAD30,extended,FFFFFFFF
 patch=1,EE,11DCAD34,extended,0000FFFF
 patch=1,EE,01DCAD36,extended,000000FF
 
-//Cheats/Unlock All Courses
+[Cheats/Unlock All Courses]
 patch=1,EE,01DCAD37,extended,000000FF
 
-//Cheats/Unlock All Pro Shop Items
+[Cheats/Unlock All Pro Shop Items]
 patch=1,EE,41DDD52C,extended,00740001
 patch=1,EE,FFFFFFFF,extended,00000000

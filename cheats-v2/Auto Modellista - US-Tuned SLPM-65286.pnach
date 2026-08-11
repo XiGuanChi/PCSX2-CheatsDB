@@ -1,8 +1,8 @@
 gametitle=Auto Modellista - US-Tuned SLPM-65286
-//CPU does not move cars
+[CPU does not move cars]
 patch=1,EE,201F0D40,extended,03E00008
 
-//Each new car all
+[Each new car all]
 patch=1,EE,205180BC,extended,FFFFFFFF
 patch=1,EE,205180C0,extended,FFFFFFFF
 patch=1,EE,205180C4,extended,FFFFFFFF

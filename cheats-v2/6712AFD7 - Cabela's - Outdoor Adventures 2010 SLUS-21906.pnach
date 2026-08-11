@@ -1,12 +1,12 @@
 gametitle=Cabela's - Outdoor Adventures 2010 SLUS-21906
-//Infinite Stamina
+[Infinite Stamina]
 patch=1,EE,206A3D3C,extended,3F800000
 
-//Infinite Money
+[Infinite Money]
 patch=1,EE,106A3D08,extended,0000FFFF
 
-//God Mode On
+[God Mode On]
 patch=1,EE,205AF068,extended,00000001
 
-//Unlock All Subregions
+[Unlock All Subregions]
 patch=1,EE,206A3D00,extended,00000011

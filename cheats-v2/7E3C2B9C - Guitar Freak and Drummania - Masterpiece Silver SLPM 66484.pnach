@@ -1,16 +1,16 @@
 gametitle=Guitar Freak and Drummania - Masterpiece Silver SLPM 66484
-//Open all in a single roulette
+[Open all in a single roulette]
 patch=1,EE,20267330,extended,2403FFFF
 
-//Temporarily hidden song fully open
+[Temporarily hidden song fully open]
 patch=1,EE,20146C2C,extended,24020001
 
-//Panel full opening with roulette once
+[Panel full opening with roulette once]
 patch=1,EE,2029D8D8,extended,2403FFFF
 
-//Maximum maintenance guitar gauge
+[Maximum maintenance guitar gauge]
 patch=1,EE,20197630,extended,24030BB8
 
-//Maximum maintenance drum gauge
+[Maximum maintenance drum gauge]
 patch=1,EE,2019787C,extended,24060BB8
 patch=1,EE,2019795C,extended,24060BB8

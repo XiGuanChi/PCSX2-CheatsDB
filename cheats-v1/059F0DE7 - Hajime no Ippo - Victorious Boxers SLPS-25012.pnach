@@ -1,9 +1,9 @@
-//Cheats/P1 Infinite Health
+[Cheats/P1 Infinite Health]
 patch=1,EE,101BE832,extended,00007FFF
 patch=1,EE,101BE836,extended,00007FFF
 
-//Cheats/2P COM Strength 0
+[Cheats/2P COM Strength 0]
 patch=1,EE,101BF9C2,extended,00000000
 
-//Cheats/2P COM Stamina 0
+[Cheats/2P COM Stamina 0]
 patch=1,EE,101BFA12,extended,00000000

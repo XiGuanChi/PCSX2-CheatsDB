@@ -1,14 +1,14 @@
 gametitle=Catwoman SLES-52567
-//Infinite Health/Power
+[Infinite Health/Power]
 patch=1,EE,2025D2DC,extended,447A0000
 
-//Lots Of Points
+[Lots Of Points]
 patch=1,EE,2025DB70,extended,0001869F
 
-//9999 Diamonds
+[9999 Diamonds]
 patch=1,EE,2025DACC,extended,0000270F
 
-//Lots Of Unlocked Goodies
+[Lots Of Unlocked Goodies]
 patch=1,EE,20341CE8,extended,FFFFFFFF
 patch=1,EE,20341CEC,extended,FFFFFFFF
 patch=1,EE,20341CF0,extended,FFFFFFFF

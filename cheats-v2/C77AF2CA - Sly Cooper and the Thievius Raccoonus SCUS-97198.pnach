@@ -1,25 +1,25 @@
 gametitle=Sly Cooper and the Thievius Raccoonus SCUS-97198
-//Have 99 Coins
+[Have 99 Coins]
 patch=1,EE,1027DC08,extended,00000063
 
-//All Secret Moves
+[All Secret Moves]
 patch=1,EE,1027DC10,extended,0000FFFF
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,0027DC00,extended,00000063
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,1026E9CA,extended,0000428D
 
-//All Movies
+[All Movies]
 patch=1,EE,1027DC18,extended,0000FFFF
 patch=1,EE,1027DC14,extended,0000FFFF
 
-//Unlock Maps China
+[Unlock Maps China]
 patch=1,EE,1027D35C,extended,00000021
 
-//Unlock Maps Mesa City
+[Unlock Maps Mesa City]
 patch=1,EE,1027CF10,extended,00000021
 
-//Unlock Maps Russia
+[Unlock Maps Russia]
 patch=1,EE,1027D7A8,extended,00000021

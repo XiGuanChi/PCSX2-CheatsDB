@@ -1,19 +1,19 @@
 gametitle=Sunrise World War SLPS-25270
-//Max Money 
+[Max Money]
 patch=1,EE,202F0CF8,extended,000F423F
 
-//99 items Reflected on aircraft, items etc.
+[99 items Reflected on aircraft, items etc.]
 patch=1,EE,2010173C,extended,A0860000
 
-//Number of possession of all units 99
+[Number of possession of all units 99]
 patch=1,EE,40232E60,extended,00570001
 patch=1,EE,63636363,extended,00000000
 
-//Do not act on enemy battleships
+[Do not act on enemy battleships]
 patch=1,EE,2014252C,extended,1000004E
 
-//Do not act on enemy units
+[Do not act on enemy units]
 patch=1,EE,2013FD14,extended,10000015
 
-//Level up at LV 99
+[Level up at LV 99]
 patch=1,EE,2014B840,extended,00C0100A

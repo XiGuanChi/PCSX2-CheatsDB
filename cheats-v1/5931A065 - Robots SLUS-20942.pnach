@@ -1,10 +1,10 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0230,extended,C44003D4
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,E44003D0
 patch=1,EE,201B496C,extended,0C03008C
 
-//Cheats/Infinite Scrap Launcher Usage
+[Cheats/Infinite Scrap Launcher Usage]
 patch=1,EE,2011DF30,extended,00000000
 
 

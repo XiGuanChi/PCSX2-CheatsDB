@@ -1,11 +1,11 @@
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,200C2020,extended,3E02000F
 patch=1,EE,200C2024,extended,3442423F
 patch=1,EE,200C2028,extended,03E00008
 patch=1,EE,200C202C,extended,ACC2007C
 patch=1,EE,2027DB54,extended,08030808
 
-//Cheats/Max All Needs Full Green Press R2 to activate press R1 before talking to people
+[Cheats/Max All Needs Full Green Press R2 to activate press R1 before talking to people]
 patch=1,EE,200C2000,extended,3E1B42C8
 patch=1,EE,200C2004,extended,449B0000
 patch=1,EE,200C2008,extended,03E00008
@@ -17,7 +17,7 @@ patch=1,EE,E002F7FF,extended,018D4A42
 patch=1,EE,202629D8,extended,03E00008
 patch=1,EE,202629DC,extended,C48000A8
 
-//Cheats/Always Max Urb's Needs
+[Cheats/Always Max Urb's Needs]
 patch=1,EE,200C0230,extended,3C0142C8
 patch=1,EE,200C0234,extended,AC410000
 patch=1,EE,200C0238,extended,54E00001
@@ -26,57 +26,57 @@ patch=1,EE,200C0240,extended,03E00008
 patch=1,EE,200C0244,extended,C4440000
 patch=1,EE,20262B18,extended,0C03008C
 
-//Cheats/Urb's Bladder Meter Needs Never Decrease
+[Cheats/Urb's Bladder Meter Needs Never Decrease]
 patch=1,EE,201F5B00,extended,00000000
 patch=1,EE,201F5C40,extended,00000000
 
-//Cheats/Urb's Hygiene Meter Never Decreases
+[Cheats/Urb's Hygiene Meter Never Decreases]
 patch=1,EE,201F5C3C,extended,00000000
 
-//Cheats/Urb's Hunger Meter Never Decreases
+[Cheats/Urb's Hunger Meter Never Decreases]
 patch=1,EE,201F5B78,extended,00000000
 
-//Cheats/Urb's Fun Meter Never Decreases
+[Cheats/Urb's Fun Meter Never Decreases]
 patch=1,EE,201F5C38,extended,00000000
 
-//Cheats/Urb's Energy Meter Never Decreases
+[Cheats/Urb's Energy Meter Never Decreases]
 patch=1,EE,201F5AC8,extended,00000000
 
-//Cheats/Max Reputation
+[Cheats/Max Reputation]
 patch=1,EE,20200358,extended,00000000
 
-//Cheats/P1 Hold L3 To Complete Reputation Goal
+[Cheats/P1 Hold L3 To Complete Reputation Goal]
 patch=1,EE,D18D4A42,extended,0000FFFD
 patch=1,EE,20200358,extended,00000000
 patch=1,EE,D18D4A42,extended,0000FFFF
 patch=1,EE,20200358,extended,14600003
 
-//Cheats/Super Urb also Unlocks All Areas Press L2 While In Game
+[Cheats/Super Urb also Unlocks All Areas Press L2 While In Game]
 patch=1,EE,E003FEFF,extended,018D4A42
 patch=1,EE,202004B0,extended,34020064
 patch=1,EE,202004B4,extended,A602001E
 patch=1,EE,202004B8,extended,0C080052
 
-//Cheats/Have All Objects In Inventory
+[Cheats/Have All Objects In Inventory]
 patch=1,EE,204C528C,extended,00000001
 
-//Cheats/Unlock All Skins And Ringtones In Xam
+[Cheats/Unlock All Skins And Ringtones In Xam]
 patch=1,EE,204C5290,extended,00000001
 
-//Cheats/Unlock All Interactions Need Items
+[Cheats/Unlock All Interactions Need Items]
 patch=1,EE,204C52B0,extended,00000001
 
-//Cheats/Enable God Mode
+[Cheats/Enable God Mode]
 patch=1,EE,204C52BC,extended,00000001
 
-//Cheats/Disable God Mode
+[Cheats/Disable God Mode]
 patch=1,EE,204C52BC,extended,00000000
 
-//Cheats/Enable All Player Cheats
+[Cheats/Enable All Player Cheats]
 patch=1,EE,204C52C0,extended,00000001
 
-//Cheats/Disable All Player Cheats
+[Cheats/Disable All Player Cheats]
 patch=1,EE,204C52C0,extended,00000000
 
-//Cheats/60 FPS
+[Cheats/60 FPS]
 patch=1,EE,203AD050,extended,28820001

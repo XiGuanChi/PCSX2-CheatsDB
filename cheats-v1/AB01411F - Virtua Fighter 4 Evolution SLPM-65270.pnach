@@ -1,34 +1,34 @@
-//Cheats/Max Money 9999999
+[Cheats/Max Money 9999999]
 patch=1,EE,20758E84,extended,0098967
 
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,00737090,extended,000000C9
 
-//Cheats/No Health P2 0
+[Cheats/No Health P2 0]
 patch=1,EE,007378C0,extended,00000000
 
-//Cheats/Invincible Against Blow 1P
+[Cheats/Invincible Against Blow 1P]
 patch=1,EE,201F5C90,extended,32C20010
 patch=1,EE,201F5C94,extended,14400300
 
-//Cheats/Almost Invincible Against Throwing 1P
+[Cheats/Almost Invincible Against Throwing 1P]
 patch=1,EE,201F5ADC,extended,32210010
 patch=1,EE,201F5AE0,extended,14200051
 
-//Cheats/Buy Items Free
+[Cheats/Buy Items Free]
 patch=1,EE,20329E00,extended,54000001
 patch=1,EE,2032A5E0,extended,0280102D
 
-//Cheats/Always Promoted Ver.1 10th Grade To 1st Dan
+[Cheats/Always Promoted Ver.1 10th Grade To 1st Dan]
 patch=1,EE,2023F0B0,extended,28010000
 
-//Cheats/Always Promoted Ver.2 10th Grade To 1st Dan You will be promoted if you compete against each other
+[Cheats/Always Promoted Ver.2 10th Grade To 1st Dan You will be promoted if you compete against each other]
 patch=1,EE,2023F7E4,extended,10000003
 patch=1,EE,2023F9CC,extended,00000000
 patch=1,EE,20242048,extended,2AA1001E
 patch=1,EE,20242138,extended,2A61001E
 
-//Cheats/Unlock All Items & Colors
+[Cheats/Unlock All Items & Colors]
 patch=1,EE,40758E3C,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10758E3A,extended,0000FFFF

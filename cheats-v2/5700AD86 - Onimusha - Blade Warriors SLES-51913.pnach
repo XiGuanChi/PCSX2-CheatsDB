@@ -1,11 +1,11 @@
 gametitle=Onimusha - Blade Warriors SLES-51913
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,20518E38,extended,00640064
 
-//Infinite Special 1P
+[Infinite Special 1P]
 patch=1,EE,20518E40,extended,00320032
 
-//All characters
+[All characters]
 patch=1,EE,2051014F,extended,00000001
 patch=1,EE,20510152,extended,00000001
 patch=1,EE,20510153,extended,00000001
@@ -19,7 +19,7 @@ patch=1,EE,20510165,extended,00000001
 patch=1,EE,20510167,extended,00000001
 
 
-//All stages
+[All stages]
 patch=1,EE,2051017F,extended,00000001
 patch=1,EE,20510186,extended,00000001
 patch=1,EE,20510187,extended,00000001

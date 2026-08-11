@@ -1,49 +1,49 @@
 gametitle=MDK 2 - Armageddon SLUS-20105
-//Infinite HealthKurt (Normal Mode)
+[Infinite HealthKurt (Normal Mode)]
 patch=1,EE,2013F218,extended,03E00008
 patch=1,EE,2013F21C,extended,00000000
 
-//Infinite HealthKurt (Sniper Mode)
+[Infinite HealthKurt (Sniper Mode)]
 patch=1,EE,201413E0,extended,03E00008
 patch=1,EE,201413E4,extended,00000000
 
-//Infinite HealthMax
+[Infinite HealthMax]
 patch=1,EE,2014AA08,extended,03E00008
 patch=1,EE,2014AA0C,extended,00000000
 
-//Infinite HealthDr. Fluke
+[Infinite HealthDr. Fluke]
 patch=1,EE,2012EB98,extended,03E00008
 patch=1,EE,2012EB9C,extended,00000000
 
-//Infinite HealthHyde
+[Infinite HealthHyde]
 patch=1,EE,2013AFF8,extended,03E00008
 patch=1,EE,2013AFFC,extended,00000000
 
-//infinite AmmoKurt (Sniper Mode)
+[infinite AmmoKurt (Sniper Mode)]
 patch=1,EE,20140EB8,extended,24020000
 
-//infinite AmmoMax
+[infinite AmmoMax]
 patch=1,EE,2014B3DC,extended,24020000
 
-//Max Always Has Missiles
+[Max Always Has Missiles]
 patch=1,EE,2014B080,extended,00000000
 
-//Infinite JetpackMax
+[Infinite JetpackMax]
 patch=1,EE,201493F0,extended,00000000
 patch=1,EE,201493F4,extended,00000000
 
-//Kurt Infinite Items/Ammo Usage
+[Kurt Infinite Items/Ammo Usage]
 patch=1,EE,2013FDB0,extended,00000000
 patch=1,EE,2013F5F0,extended,00000000
 
-//Dr. Fluke Infinite Items Usage
+[Dr. Fluke Infinite Items Usage]
 patch=1,EE,20130960,extended,00000000
 patch=1,EE,20130A80,extended,00000000
 
-//1Hit Death (Enemies)
+[1Hit Death (Enemies)]
 patch=1,EE,20135950,extended,00000000
 
-//Player 1 Press l1.+l2.+ r1+ r2 +select To Save Anywhere
+[Player 1 Press l1.+l2.+ r1+ r2 +select To Save Anywhere]
 patch=1,EE,E002F0FE,extended,001F9502
 patch=1,EE,001F03D4,extended,00000001
 patch=1,EE,001F0418,extended,00000001

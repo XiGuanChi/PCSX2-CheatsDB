@@ -1,11 +1,11 @@
 gametitle=GrimGrimoire SLES-54897
-//Max Mana After Collecting Some
+[Max Mana After Collecting Some]
 patch=1,EE,201991E0,extended,3C020002
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,201871E4,extended,00000000
 
-//Selected Troops Have Infinite/Full Health & MP
+[Selected Troops Have Infinite/Full Health & MP]
 patch=1,EE,20194610,extended,0C03FFC0
 patch=1,EE,200FFF00,extended,24020032
 patch=1,EE,200FFF04,extended,A6420006

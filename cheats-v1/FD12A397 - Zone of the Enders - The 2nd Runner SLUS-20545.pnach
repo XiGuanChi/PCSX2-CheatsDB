@@ -1,4 +1,4 @@
-//Cheats/Infinite Energy
+[Cheats/Infinite Energy]
 patch=1,EE,200C0240,extended,3C030021
 patch=1,EE,200C0244,extended,8C636430
 patch=1,EE,200C0248,extended,10600002
@@ -8,7 +8,7 @@ patch=1,EE,200C0254,extended,03E00008
 patch=1,EE,200C0258,extended,00000000
 patch=1,EE,201ABCD4,extended,08030090
 
-//Cheats/Max Infinite Sub Energy
+[Cheats/Max Infinite Sub Energy]
 patch=1,EE,200C0260,extended,3C030021
 patch=1,EE,200C0264,extended,8C636430
 patch=1,EE,200C0268,extended,10600003
@@ -19,14 +19,14 @@ patch=1,EE,200C0278,extended,03E00008
 patch=1,EE,200C027C,extended,00000000
 patch=1,EE,20139810,extended,08030098
 
-//Cheats/All Characters Versus Modw
+[Cheats/All Characters Versus Modw]
 patch=1,EE,41FD7E40,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock Versus Mode
+[Cheats/Unlock Versus Mode]
 patch=1,EE,01FDD874,extended,00000001
 
-//Cheats/Press R3 For Debug Stage Select
+[Cheats/Press R3 For Debug Stage Select]
 patch=1,EE,D0214CC2,extended,0000FFFB
 patch=1,EE,2020CF68,extended,656C6573
 patch=1,EE,D0214CC2,extended,0000FFFB

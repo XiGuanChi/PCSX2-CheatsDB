@@ -1,16 +1,16 @@
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,200FFF00,extended,24020022
 patch=1,EE,200FFF04,extended,03E00008
 patch=1,EE,2052A40C,extended,000FFF00
 
-//Cheats/Max Gold Press R1
+[Cheats/Max Gold Press R1]
 patch=1,EE,105E2D02,extended,0000F7FF
 patch=1,EE,20C14774,extended,05F5E0FF
 
-//Cheats/Press R2 Then X Infinite Ability Points
+[Cheats/Press R2 Then X Infinite Ability Points]
 patch=1,EE,105E2D02,extended,0000FDFF
 patch=1,EE,105D2124,extended,00000002
 
-//Cheats/Unlock Movie Menu On the Main Title, Select Credits
+[Cheats/Unlock Movie Menu On the Main Title, Select Credits]
 patch=1,EE,D04F4A5C,extended,00000005
 patch=1,EE,204F4A5C,extended,00000006

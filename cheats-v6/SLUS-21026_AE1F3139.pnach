@@ -1,16 +1,16 @@
 gametitle=Battlefield 2 - Modern Combat NTSC-U SLUS-21026 AE1F3139
 
-//60 FPS
+[60 FPS]
 author=GamingDragon93
 description=Might need EE Overclock (130%).
 patch=1,EE,009854B4,word,00000000
 
-//Disable Blur
+[Disable Blur]
 author=GamingDragon93
 description=Disable post-processing blur effect.
 patch=1,EE,00225010,word,0000B82B //00E0B82D
 
-//Disable Bloom
+[Disable Bloom]
 author=GamingDragon93
 description=Disable post-processing bloom effect.
 patch=1,EE,0022507C,word,AFA40140 //AFA50140

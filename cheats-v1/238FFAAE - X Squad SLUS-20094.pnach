@@ -1,37 +1,37 @@
-//Cheats/Infinite Health Level 1
+[Cheats/Infinite Health Level 1]
 patch=1,EE,11AC1AF8,extended,00000099
 
-//Cheats/Infinite Health Level 2
+[Cheats/Infinite Health Level 2]
 patch=1,EE,11C973C8,extended,00000099
 
-//Cheats/Infinite Health Level 3
+[Cheats/Infinite Health Level 3]
 patch=1,EE,11C2CB28,extended,00000099
 
-//Cheats/Infinite Health Level 4
+[Cheats/Infinite Health Level 4]
 patch=1,EE,11C65188,extended,00000099
 
-//Cheats/Infinite Health Level 5
+[Cheats/Infinite Health Level 5]
 patch=1,EE,11C76508,extended,00000099
 
-//Cheats/Infinite Health Level 6
+[Cheats/Infinite Health Level 6]
 patch=1,EE,11A4F128,extended,00000099
 
-//Cheats/Infinite Health Level 7
+[Cheats/Infinite Health Level 7]
 patch=1,EE,1199DA78,extended,00000099
 
-//Cheats/Infinite Health Level 8
+[Cheats/Infinite Health Level 8]
 patch=1,EE,119C0068,extended,00000099
 
-//Cheats/Infinite Health Level 9
+[Cheats/Infinite Health Level 9]
 patch=1,EE,115B1C98,extended,00000099
 
-//Cheats/Infinite Pistol Ammo
+[Cheats/Infinite Pistol Ammo]
 patch=1,EE,11AD03D4,extended,0000000F
 
-//Cheats/Infinite Mission Points
+[Cheats/Infinite Mission Points]
 patch=1,EE,10224DDC,extended,0000270F
 
-//Cheats/Have All Weapons
+[Cheats/Have All Weapons]
 patch=1,EE,E013FFFE,extended,1022DFCA
 patch=1,EE,202246EC,extended,0000CA58
 patch=1,EE,202246F0,extended,0000CA59
@@ -53,7 +53,7 @@ patch=1,EE,2022472C,extended,0000CA68
 patch=1,EE,20224730,extended,0000CA69
 patch=1,EE,20224734,extended,0000CA6A
 
-//Cheats/Have All Items
+[Cheats/Have All Items]
 patch=1,EE,E008FFFE,extended,1022DFCA
 patch=1,EE,20224738,extended,0001FE77
 patch=1,EE,2022473C,extended,0001FE78

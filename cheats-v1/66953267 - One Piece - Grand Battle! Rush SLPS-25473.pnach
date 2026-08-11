@@ -1,4 +1,4 @@
-//Cheats/Infinite Health 1P
+[Cheats/Infinite Health 1P]
 patch=1,EE,2038150C,extended,8F818588
 patch=1,EE,20381510,extended,8C2101E4
 patch=1,EE,20381514,extended,14220030
@@ -7,31 +7,31 @@ patch=1,EE,2038151C,extended,A42300FE
 patch=1,EE,20381520,extended,A42000F6
 patch=1,EE,20381524,extended,1000002C
 
-//Cheats/Unlock Minigame Davy Buck Fight
+[Cheats/Unlock Minigame Davy Buck Fight]
 patch=1,EE,21CEE118,extended,00000000
 patch=1,EE,21CEE11C,extended,00000000
 patch=1,EE,11CEE116,extended,00000000
 
-//Cheats/Unlock Minigame Davy Buck Fight 999 Fights 999 Wins
+[Cheats/Unlock Minigame Davy Buck Fight 999 Fights 999 Wins]
 patch=1,EE,21CEDDEC,extended,000003E7
 patch=1,EE,11CEDDEA,extended,000003E7
 
-//Cheats/Unlock Event battle: Difficulty added today
+[Cheats/Unlock Event battle: Difficulty added today]
 patch=1,EE,01CEE3E0,extended,000000FF
 
-//Cheats/Unlock All Cards For Extreme
+[Cheats/Unlock All Cards For Extreme]
 patch=1,EE,41CEE14C,extended,01580001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Movies In The Theater
+[Cheats/Unlock All Movies In The Theater]
 patch=1,EE,21CEE3E4,extended,FFFFFFFF
 patch=1,EE,21CEE3E8,extended,FFFFFFFF
 
-//Cheats/Unlock All Support Characters Gallery
+[Cheats/Unlock All Support Characters Gallery]
 patch=1,EE,41CEE0C4,extended,00110001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Characters & Costumes
+[Cheats/Unlock All Characters & Costumes]
 patch=1,EE,21CEDEB0,extended,00000F00
 patch=1,EE,21CEDECC,extended,00000F01
 patch=1,EE,21CEDEE8,extended,00000F02
@@ -52,26 +52,26 @@ patch=1,EE,21CEE070,extended,00000310
 patch=1,EE,21CEE08C,extended,00000311
 patch=1,EE,21CEE0A8,extended,00000312
 
-//Cheats/Unlock All Cards When it Enters Into The Card Game Collection
+[Cheats/Unlock All Cards When it Enters Into The Card Game Collection]
 patch=1,EE,20396F60,extended,2401FFFF
 patch=1,EE,20396F64,extended,ACC10000
 patch=1,EE,20397074,extended,00000000
 
-//Cheats/Unlock All Gallery Player Characters & Characters Data Voice
+[Cheats/Unlock All Gallery Player Characters & Characters Data Voice]
 patch=1,EE,41CEDEB8,extended,00130007
 patch=1,EE,00030003,extended,00000000
 patch=1,EE,41CEDEBC,extended,00130007
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock Option All System Voices
+[Cheats/Unlock Option All System Voices]
 patch=1,EE,21CEE3D0,extended,FFFFFFFF
 patch=1,EE,21CEE3D4,extended,FFFFFFFF
 
-//Cheats/Minigame Day B Back Fighting Spirit 999 Game 999 Victories
+[Cheats/Minigame Day B Back Fighting Spirit 999 Game 999 Victories]
 patch=1,EE,21CEDDEC,extended,000003E7
 patch=1,EE,11CEDDEA,extended,000003E7
 
-//Cheats/Unlock Minigame Day B Back Fighting Spirit
+[Cheats/Unlock Minigame Day B Back Fighting Spirit]
 patch=1,EE,21CEDDEC,extended,000003E7
 patch=1,EE,21CEE11C,extended,00000000
 patch=1,EE,11CEE116,extended,00000000

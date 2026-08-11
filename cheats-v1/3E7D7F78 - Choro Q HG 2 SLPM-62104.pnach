@@ -1,19 +1,19 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,21795274,extended,000F423F
 
-//Cheats/Always 1st when you reach the goal
+[Cheats/Always 1st when you reach the goal]
 patch=1,EE,015C60C8,extended,00000000
 patch=1,EE,01790357,extended,00000000
 
-//Cheats/Opponents Don't Move
+[Cheats/Opponents Don't Move]
 patch=1,EE,2021A2C8,extended,27C2F770
 patch=1,EE,2021A2CC,extended,145002E9
 
-//Cheats/Owns All Items
+[Cheats/Owns All Items]
 patch=1,EE,2179597C,extended,FFFFFFFF
 patch=1,EE,11795980,extended,0000FFFF
 
-//Cheats/Owns All Parts
+[Cheats/Owns All Parts]
 patch=1,EE,11795864,extended,00001FFF
 patch=1,EE,11795878,extended,00000FFF
 patch=1,EE,1179588C,extended,0000001F
@@ -34,55 +34,55 @@ patch=1,EE,21795858,extended,FFFFFFFF
 patch=1,EE,2179585C,extended,FFFFFFFF
 patch=1,EE,21795860,extended,003FFFFF
 
-//Cheats/Own All Tire Parts
+[Cheats/Own All Tire Parts]
 patch=1,EE,01795864,extended,000000FF
 patch=1,EE,01795871,extended,0000001F
 
-//Cheats/Own All Engine Parts
+[Cheats/Own All Engine Parts]
 patch=1,EE,11795878,extended,00000FFF
 
-//Cheats/Own All Chassis Parts
+[Cheats/Own All Chassis Parts]
 patch=1,EE,0179588C,extended,0000001F
 
-//Cheats/Own All Mission Parts
+[Cheats/Own All Mission Parts]
 patch=1,EE,017958A0,extended,0000003F
 
-//Cheats/Own All Steering Parts
+[Cheats/Own All Steering Parts]
 patch=1,EE,017958B4,extended,0000000F
 
-//Cheats/Own All Brake Parts
+[Cheats/Own All Brake Parts]
 patch=1,EE,017958C8,extended,0000000F
 
-//Cheats/Own All Wheel Parts
+[Cheats/Own All Wheel Parts]
 patch=1,EE,117958DC,extended,00007FFF
 
-//Cheats/Own All Light Parts
+[Cheats/Own All Light Parts]
 patch=1,EE,017958F0,extended,00000007
 
-//Cheats/Own All Wing Parts
+[Cheats/Own All Wing Parts]
 patch=1,EE,01795904,extended,00000003
 
-//Cheats/Own All Special Parts
+[Cheats/Own All Special Parts]
 patch=1,EE,01795918,extended,00000007
 
-//Cheats/Own All Option Parts
+[Cheats/Own All Option Parts]
 patch=1,EE,0179592C,extended,0000007F
 
-//Cheats/Own All Sticker Parts
+[Cheats/Own All Sticker Parts]
 patch=1,EE,01795940,extended,00000003
 
-//Cheats/Own All Horn Parts
+[Cheats/Own All Horn Parts]
 patch=1,EE,11795954,extended,00007FFF
 
-//Cheats/Own All Meter Parts
+[Cheats/Own All Meter Parts]
 patch=1,EE,11795968,extended,000007FF
 
-//Cheats/Own All Body Parts
+[Cheats/Own All Body Parts]
 patch=1,EE,21795850,extended,FFFFFFFF
 patch=1,EE,21795854,extended,FFFFFFFF
 patch=1,EE,21795858,extended,FFFFFFFF
 patch=1,EE,2179585C,extended,FFFFFFFF
 patch=1,EE,21795860,extended,007FFFFF
 
-//Cheats/Debug Mode
+[Cheats/Debug Mode]
 patch=1,EE,0034FA0B,extended,00000001

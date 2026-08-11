@@ -1,7 +1,7 @@
 gametitle=Just Cause SLES-54200
-//Infinite ammo
+[Infinite ammo]
 patch=1,EE,00144b9c,extended,00000021
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2010f938,extended,C5E00044
 patch=1,EE,2010f93c,extended,E5E00048

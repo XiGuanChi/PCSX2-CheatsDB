@@ -1,14 +1,14 @@
 gametitle=Star Wars - The Clone Wars SLUS-20510
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202463A4,extended,C6610014
 patch=1,EE,202463B0,extended,E6610010
 
-//infinite Ammo
+[infinite Ammo]
 patch=1,EE,20155C2C,extended,00000000
 
-//Unlock All Bonus Materials
+[Unlock All Bonus Materials]
 patch=1,EE,20338968,extended,FFFFFFFF
 
-//Unlock All Missions
+[Unlock All Missions]
 patch=1,EE,403387EC,extended,00100003
 patch=1,EE,00000001,extended,00000000

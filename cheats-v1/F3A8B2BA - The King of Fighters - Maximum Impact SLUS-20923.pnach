@@ -1,29 +1,29 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,006039EC,extended,000000C8
 
-//Cheats/1 Hit Death P2
+[Cheats/1 Hit Death P2]
 patch=1,EE,D0603AF4,extended,000000C8
 patch=1,EE,10603AF4,extended,00000000
 
-//Cheats/Unlock All Level Missions
+[Cheats/Unlock All Level Missions]
 patch=1,EE,2069570C,extended,00000003
 
-//Cheats/Unlock All Level 1 Missions Complete
+[Cheats/Unlock All Level 1 Missions Complete]
 patch=1,EE,40695640,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Level 2 Missions Complete
+[Cheats/Unlock All Level 2 Missions Complete]
 patch=1,EE,40695668,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Level 3 Missions Complete
+[Cheats/Unlock All Level 3 Missions Complete]
 patch=1,EE,40695690,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Level 4 Missions Complete
+[Cheats/Unlock All Level 4 Missions Complete]
 patch=1,EE,406956B8,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Stages
+[Cheats/Unlock All Stages]
 patch=1,EE,406955E4,extended,000B0001
 patch=1,EE,00000001,extended,00000000

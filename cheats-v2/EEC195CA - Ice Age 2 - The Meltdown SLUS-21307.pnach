@@ -1,21 +1,21 @@
 gametitle=Ice Age 2 - The Meltdown SLUS-21307
-//Infinite Energy
+[Infinite Energy]
 patch=1,EE,200C0250,extended,3C0142C8
 patch=1,EE,200C0254,extended,AC610550
 patch=1,EE,200C0258,extended,0808ADA0
 patch=1,EE,200C025C,extended,C4600550
 patch=1,EE,2022B67C,extended,08030094
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0230,extended,AC4302A0
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,8E020160
 patch=1,EE,2022A234,extended,0C03008C
 patch=1,EE,2022A238,extended,8C4302A4
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201BF82C,extended,24020019
 patch=1,EE,201BBC48,extended,24020019
 
-//All Bonus Features
+[All Bonus Features]
 patch=1,EE,7014C600,extended,0000007F

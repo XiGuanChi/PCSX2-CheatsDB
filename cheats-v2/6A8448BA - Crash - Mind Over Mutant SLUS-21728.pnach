@@ -1,40 +1,40 @@
 gametitle=Crash - Mind Over Mutant SLUS-21728
-//Infinite Power (Mounts)
+[Infinite Power (Mounts)]
 patch=1,EE,2027AC74,extended,00000000
 
-//Infinite Health (Crash) 
+[Infinite Health (Crash)]
 patch=1,EE,200FFF80,extended,8C810014
 patch=1,EE,200FFF84,extended,AC810004
 patch=1,EE,200FFF88,extended,080AED13
 patch=1,EE,200FFF8C,extended,03E00008
 patch=1,EE,202BB44C,extended,0803FFE0
 
-//Infinite Time Using Free Jack Power-up
+[Infinite Time Using Free Jack Power-up]
 patch=1,EE,202BAE98,extended,00000000
 
-//Infinite Time Using Quad Damage Power-up
+[Infinite Time Using Quad Damage Power-up]
 patch=1,EE,202BAF6C,extended,00000000
 
-//All Skins Unlocked
+[All Skins Unlocked]
 patch=1,EE,40701B70,extended,000B0001
 patch=1,EE,00000000,extended,00000001
 
-//All Concept Art Unlocked 
+[All Concept Art Unlocked]
 patch=1,EE,4073BCD8,extended,000C0001
 patch=1,EE,00000000,extended,00000001
 
-//All Enemy Info Unlocked 
+[All Enemy Info Unlocked]
 patch=1,EE,4073BD18,extended,00140001
 patch=1,EE,00000000,extended,00000001
 
-//All Movies Unlocked 
+[All Movies Unlocked]
 patch=1,EE,40700208,extended,00080001
 patch=1,EE,6A8075B9,extended,00000001
 patch=1,EE,4070022C,extended,000A0001
 patch=1,EE,6A8075D7,extended,00000001
 patch=1,EE,20700288,extended,00700254
 
-//All Movies Unlocked Alt
+[All Movies Unlocked Alt]
 patch=1,EE,20700208,extended,6A8075B9 
 patch=1,EE,2070020C,extended,6A8075BA 
 patch=1,EE,20700210,extended,6A8075BB 

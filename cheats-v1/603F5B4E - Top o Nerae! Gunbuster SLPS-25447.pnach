@@ -1,34 +1,34 @@
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,10252DF4,extended,000005DC
 
-//Cheats/Max Health Exp
+[Cheats/Max Health Exp]
 patch=1,EE,10252E0C,extended,0000270F
 
-//Cheats/Max Guts Exp
+[Cheats/Max Guts Exp]
 patch=1,EE,10252E0E,extended,000027
 
-//Cheats/Max Atack Exp
+[Cheats/Max Atack Exp]
 patch=1,EE,10252E10,extended,0000270F
 
-//Cheats/Max Effort Exp
+[Cheats/Max Effort Exp]
 patch=1,EE,20252E28,extended,0098967F
 
-//Cheats/Adventure Part Time Max Press SELECT*Up Time 0 Press SELECT+Down
+[Cheats/Adventure Part Time Max Press SELECT*Up Time 0 Press SELECT+Down]
 patch=1,EE,D02C4882,extended,00 00FFEE
 patch=1,EE,10252DF4,extended,00000600
 patch=1,EE,D02C4882,extended,0000FFBE
 patch=1,EE,10252DF4,extended,00000000
 
-//Cheats/Adventure Part To Paint All Machine Robots Time 0 However there will be no opponents
+[Cheats/Adventure Part To Paint All Machine Robots Time 0 However there will be no opponents]
 patch=1,EE,20252CE4,extended,FFFFFFFF
 patch=1,EE,20252CE8,extended,FFFFFFFF
 patch=1,EE,20252CEC,extended,FFFFFFFF
 
-//Cheats/Mock Battle Maintain Max Physical Strength In The Action Part
+[Cheats/Mock Battle Maintain Max Physical Strength In The Action Part]
 patch=1,EE,2013BE1C,extended,A60E08BE
 patch=1,EE,2013BE24,extended,448E0000
 
-//Cheats/Mock Battle Maintain Max Strength In The Action Part Not Compatible With The Special Training Part
+[Cheats/Mock Battle Maintain Max Strength In The Action Part Not Compatible With The Special Training Part]
 patch=1,EE,2013C1A8,extended,85F12E2C
 patch=1,EE,2013C1AC,extended,A5D1005E
 patch=1,EE,2013C1B0,extended,2A2F03E8

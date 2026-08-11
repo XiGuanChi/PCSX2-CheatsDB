@@ -1,16 +1,16 @@
 gametitle=Sengoku Musou 2 Moushouden SLPM-67014 
-//With status fluctuation of Yuri all maximum
+[With status fluctuation of Yuri all maximum]
 patch=1,EE,40268F1C,extended,0008000C
 patch=1,EE,00E0282D,extended,00000000
 
-//Money 9999999
+[Money 9999999]
 patch=1,EE,204F8BB0,extended,0098967F
 
-//Physical strength gauge largest maintenance
+[Physical strength gauge largest maintenance]
 patch=1,EE,200FA820,extended,94A80000
 patch=1,EE,200FA828,extended,A4A80002
 
-//(1P & 2P) physical strength & hit and miss largest maintenance
+[(1P & 2P) physical strength & hit and miss largest maintenance]
 patch=1,EE,2015F2DC,extended,10000025
 patch=1,EE,20202770,extended,2C410002
 patch=1,EE,2020275C,extended,3C0D0045
@@ -21,16 +21,16 @@ patch=1,EE,202027A8,extended,94A10006
 patch=1,EE,202027AC,extended,540D0001
 patch=1,EE,202027B0,extended,A4A10008
 
-//Steel ratio rise
+[Steel ratio rise]
 patch=1,EE,201AB804,extended,24030000
 
-//Acquisition gold maximum
+[Acquisition gold maximum]
 patch=1,EE,201A7124,extended,00000000
 
-//1P weapon strengthening
+[1P weapon strengthening]
 patch=1,EE,20496F78,extended,42000000
 
-//Special skill max
+[Special skill max]
 patch=1,EE,1015B098,extended,00007FFF
 patch=1,EE,1015B0A4,extended,00007FFF
 patch=1,EE,1015B0E0,extended,00007FFF

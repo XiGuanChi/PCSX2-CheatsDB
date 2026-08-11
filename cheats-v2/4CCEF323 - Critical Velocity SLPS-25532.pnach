@@ -1,52 +1,52 @@
 gametitle=Critical Velocity SLPS-25532
-//Credit up to the SELECT button
+[Credit up to the SELECT button]
 patch=1,EE,D034EA82,extended,0000FFFE
 patch=1,EE,204AD764,extended,3B9AC9FF
 
-//TOTAL CREDIT 999999999 (With mission end)
+[TOTAL CREDIT 999999999 (With mission end)]
 patch=1,EE,201F9CC0,extended,14000002
 
-//Clear Mission Press Select + Down
+[Clear Mission Press Select + Down]
 patch=1,EE,D034EA82,extended,0000FFBE
 patch=1,EE,004B89B8,extended,00000008
 
-//Restriction time stop select + Up time 0
+[Restriction time stop select + Up time 0]
 patch=1,EE,202354A4,extended,00000000
 patch=1,EE,D034EA82,extended,0000FFEE
 patch=1,EE,202354A4,extended,A4408A90
 
-//Action point 1 hundred million
+[Action point 1 hundred million]
 patch=1,EE,204B5C00,extended,05F5E100
 
-//Max HP
+[Max HP]
 patch=1,EE,20275AA4,extended,E6141200
 
-//4 nitro stocks
+[4 nitro stocks]
 patch=1,EE,204B5BEC,extended,00000004
 
-//Nitro gauge maximum
+[Nitro gauge maximum]
 patch=1,EE,204B5BE4,extended,42C80000
 
-//CPU car stop (SELECT + L2: ON SELECT + R2: OFF)
+[CPU car stop (SELECT + L2: ON SELECT + R2: OFF)]
 patch=1,EE,D034EA82,extended,0000FEFE
 patch=1,EE,2022D114,extended,14600098
 patch=1,EE,D034EA82,extended,0000FDFE
 patch=1,EE,2022D114,extended,10600006
 
-//Unlock All Cars
+[Unlock All Cars]
 patch=1,EE,404AD5DC,extended,00120002
 patch=1,EE,00000009,extended,00000000
 
-//Unlock All Musics
+[Unlock All Musics]
 patch=1,EE,204AD5AC,extended,FFFFFFFF
 
-//Unlock All Story Missions
+[Unlock All Story Missions]
 patch=1,EE,204AD778,extended,55555555
 patch=1,EE,204AD77C,extended,55555555
 patch=1,EE,204AD780,extended,55555555
 patch=1,EE,004AD784,extended,00000055
 
-//Unlock All Free Missions
+[Unlock All Free Missions]
 patch=1,EE,004AD771,extended,000000FF
 patch=1,EE,104AD772,extended,0000FFFF
 patch=1,EE,404AD790,extended,00140001

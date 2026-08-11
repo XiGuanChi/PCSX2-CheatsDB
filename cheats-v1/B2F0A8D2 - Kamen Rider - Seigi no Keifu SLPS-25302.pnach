@@ -1,13 +1,13 @@
-//Cheats/Infinite HP Player
+[Cheats/Infinite HP Player]
 patch=1,EE,1044BAE4,extended,000001C2
 
-//Cheats/Infinite HP Bike Game
+[Cheats/Infinite HP Bike Game]
 patch=1,EE,104613BC,extended,0000012C
 
-//Cheats/Infinite Power
+[Cheats/Infinite Power]
 patch=1,EE,1044E938,extended,00000064
 
-//Cheats/Max Skill Press L3+R3
+[Cheats/Max Skill Press L3+R3]
 patch=1,EE,D042C482,extended,0000FFF9
 patch=1,EE,1044E978,extended,00000090
 patch=1,EE,D042C482,extended,0000FFF9
@@ -17,13 +17,13 @@ patch=1,EE,1044E980,extended,00000090
 patch=1,EE,D042C482,extended,0000FFF9
 patch=1,EE,1044E984,extended,00000090
 
-//Cheats/Unlock All Hint Files
+[Cheats/Unlock All Hint Files]
 patch=1,EE,2041F3D4,extended,FFFFFFFF
 patch=1,EE,2041F3D8,extended,FFFFFFFF
 patch=1,EE,0041F3D3,extended,000000FF
 patch=1,EE,0041F3DC,extended,000000FF
 patch=1,EE,2041F25C,extended,FFFFFFFF
 
-//Cheats/Unlock All Museum It seems there are some missed info on monster, so better turn on when you start to play and save in the mid game then turn off the codes and continuing load your save game for continue play
+[Cheats/Unlock All Museum It seems there are some missed info on monster, so better turn on when you start to play and save in the mid game then turn off the codes and continuing load your save game for continue play]
 patch=1,EE,2042C1A0,extended,FFFFFFFF
 patch=1,EE,2042C1A4,extended,FFFFFFFF

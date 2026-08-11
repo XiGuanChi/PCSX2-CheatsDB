@@ -1,27 +1,27 @@
 gametitle=TearRing Saga Series - Berwick Saga SLPS-25497
-//Max Money
+[Max Money]
 patch=1,EE,21EC52E4,extended,000F423F
 patch=1,EE,202918A8,extended,00000000
 
-//After combat status all UP
+[After combat status all UP]
 patch=1,EE,20223890,extended,10000019
 patch=1,EE,202238F8,extended,3C100044
 patch=1,EE,2022390C,extended,1000002F
 patch=1,EE,202239E0,extended,10000011
 
-//Gold 9999999
+[Gold 9999999]
 patch=1,EE,20291570,extended,3C02000F
 patch=1,EE,20291574,extended,3442423F
 patch=1,EE,20291578,extended,03E00008
 patch=1,EE,2029157C,extended,AC8200D0
 
-//After Hit Gain 100 Exp = 1 Level Up Press L1 OFF Code Press R1.
+[After Hit Gain 100 Exp = 1 Level Up Press L1 OFF Code Press R1.]
 patch=1,EE,D0503A42,extended,0000F7FF
 patch=1,EE,20224580,extended,0040982D
 patch=1,EE,D0503A42,extended,0000FBFF
 patch=1,EE,20224580,extended,24130064
 
-//No Damage Player Turn Press L2  Enemy Turn Press X = OFF Code.
+[No Damage Player Turn Press L2  Enemy Turn Press X = OFF Code.]
 patch=1,EE,D0503A42,extended,0000BFFF
 patch=1,EE,202274EC,extended,1020000C
 patch=1,EE,D0503A42,extended,0000FEFF

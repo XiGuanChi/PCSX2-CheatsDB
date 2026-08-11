@@ -1,11 +1,11 @@
 gametitle=MTV Pimp My Ride SLES-54607 
-//Max Cash
+[Max Cash]
 patch=1,EE,20543FF4,extended,05F5E0FF
 
-//Press L1+Select To Stop Timer
+[Press L1+Select To Stop Timer]
 patch=1,EE,D0533182,extended,0000FBFE
 patch=1,EE,201248CC,extended,00000000
 
-//Press L2+Select To Start Timer
+[Press L2+Select To Start Timer]
 patch=1,EE,D0533182,extended,0000FBFE
 patch=1,EE,201248CC,extended,E6000010

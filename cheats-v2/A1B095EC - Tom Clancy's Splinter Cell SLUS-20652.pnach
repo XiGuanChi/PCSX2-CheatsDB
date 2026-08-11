@@ -1,22 +1,22 @@
 gametitle=Tom Clancy's Splinter Cell SLUS-20652
-//Infinite Health
+[Infinite Health]
 patch=1,EE,203296A8,extended,240200C8
 patch=1,EE,203296B0,extended,AE420394
 
-//Unlock All Levels (Load Game)
+[Unlock All Levels (Load Game)]
 patch=1,EE,20373F48,extended,2416002A
 patch=1,EE,20373F60,extended,AC76035C
 
-//Guards Cant Use Grenades
+[Guards Cant Use Grenades]
 patch=1,EE,20455AC4,extended,00306F00
 
-//Guards Cant Use Mines
+[Guards Cant Use Mines]
 patch=1,EE,20455AC8,extended,00306F00
 
-//Always No Noise
+[Always No Noise]
 patch=1,EE,2032CE64,extended,AE800284
 
-//Max Ammo (View Weapon In Inventory)
+[Max Ammo (View Weapon In Inventory)]
 patch=1,EE,200C0230,extended,240103E7
 patch=1,EE,200C0234,extended,AEA10470
 patch=1,EE,200C0238,extended,AEA10474

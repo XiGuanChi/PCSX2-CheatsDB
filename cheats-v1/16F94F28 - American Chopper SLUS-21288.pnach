@@ -1,14 +1,14 @@
-//Cheats/Infinite Style Points
+[Cheats/Infinite Style Points]
 patch=1,EE,10A6EC8C,extended,0000FFFF
 
-//Cheats/Cars Always shoud avoid you
+[Cheats/Cars Always shoud avoid you]
 patch=1,EE,202D2F10,extended,03E00008
 patch=1,EE,202D2F14,extended,24020001
 
-//Cheats/Unlock All Bikes
+[Cheats/Unlock All Bikes]
 patch=1,EE,202B9180,extended,03E00008
 patch=1,EE,202B9184,extended,24020001
 
-//Cheats/Unlock All Chapters
+[Cheats/Unlock All Chapters]
 patch=1,EE,2034CEBC,extended,24020001
 

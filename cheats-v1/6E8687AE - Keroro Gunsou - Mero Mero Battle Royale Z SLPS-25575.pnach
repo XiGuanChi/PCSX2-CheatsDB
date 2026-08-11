@@ -1,14 +1,14 @@
-//Cheats/Infinte HP 1P
+[Cheats/Infinte HP 1P]
 patch=1,EE,203418A8,extended,00000000
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,201887A0,extended,FFFFFFFF
 patch=1,EE,201887A4,extended,FFFFFFFF
 
-//Cheats/Unlock Difficulty Extra
+[Cheats/Unlock Difficulty Extra]
 patch=1,EE,0018BD20,extended,000000FF
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,D0A056A8,extended,0000036C
 patch=1,EE,20A056A8,extended,26650000
 patch=1,EE,D0A056BC,extended,0000001E

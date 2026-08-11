@@ -1,19 +1,19 @@
 gametitle= Club Football 2005 - Manchester United SLES-52647
-//Infinite Creation Stat Points
+[Infinite Creation Stat Points]
 patch=1,EE,1047CEC6,extended,000003E7
 
-//Position 1 Scores 99 Goals Press L3
+[Position 1 Scores 99 Goals Press L3]
 patch=1,EE,10524CC2,extended,0000FFFD
 patch=1,EE,104EB0AC,extended,00000063
 
-//Position 2 Scores 99 Goals Press R3
+[Position 2 Scores 99 Goals Press R3]
 patch=1,EE,10524CC2,extended,0000FFFB
 patch=1,EE,104EC3B8,extended,00000063
 
-//Reset Scores To Zero Press R2
+[Reset Scores To Zero Press R2]
 patch=1,EE,10524CC2,extended,0000FDFF
 patch=1,EE,104EB0AC,extended,00000000
 patch=1,EE,104EC3B8,extended,00000000
 
-//Make A Massive Player
+[Make A Massive Player]
 patch=1,EE,20A7E358,extended,40800000

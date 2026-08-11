@@ -1,20 +1,20 @@
 gametitle=Evil Dead - Regeneration SLES-53457
-//infinite energy
+[infinite energy]
 patch=1,EE,204dddf4,extended,3c014280
 patch=1,EE,204dddf8,extended,a4820054
 
-//Skull always shines
+[Skull always shines]
 patch=1,EE,204ddec4,extended,00000000
 
-//Infinite Health Ash
+[Infinite Health Ash]
 patch=1,EE,204DDDEC,extended,84820054
 patch=1,EE,204DDDF4,extended,A4820052
 
-//Infinite Health Sam
+[Infinite Health Sam]
 patch=1,EE,204DE1AC,extended,86220054
 patch=1,EE,204DE1B4,extended,A6220052
 
-//Unlock all Movies/Extras
+[Unlock all Movies/Extras]
 patch=1,EE,006EB63C,extended,00000000
 patch=1,EE,006EB63D,extended,00000000
 patch=1,EE,006EB63E,extended,00000000
@@ -68,10 +68,10 @@ patch=1,EE,006EB66D,extended,00000000
 patch=1,EE,006EB66E,extended,00000000
 patch=1,EE,006EB66F,extended,00000000
 
-//Unlock all Levels
+[Unlock all Levels]
 patch=1,EE,006EB618,extended,00000009
 
-//1 Hit Kill
+[1 Hit Kill]
 patch=1,EE,200FFF1C,extended,080EF1C4
 patch=1,EE,203BC708,extended,0803FFC0
 patch=1,EE,200FFF00,extended,24010001

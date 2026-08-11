@@ -1,7 +1,7 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,207A9F18,extended,0098967F
 
-//Cheats/In Battle Infinite HP 999 returns to normal when you sleep
+[Cheats/In Battle Infinite HP 999 returns to normal when you sleep]
 patch=1,EE,20234BA8,extended,0803FC00 
 patch=1,EE,200FF000,extended,241B0001 
 patch=1,EE,200FF004,extended,17650003 
@@ -13,7 +13,7 @@ patch=1,EE,200FF018,extended,3202FFFF
 patch=1,EE,200FF01C,extended,0808D2EB 
 patch=1,EE,200FF020,extended,00000000 
 
-//Cheats/In Battle Infinite SP 999 returns to normal when you sleep
+[Cheats/In Battle Infinite SP 999 returns to normal when you sleep]
 patch=1,EE,20234C18,extended,0803FC40 
 patch=1,EE,200FF100,extended,241B0001 
 patch=1,EE,200FF104,extended,17650003 
@@ -23,7 +23,7 @@ patch=1,EE,200FF110,extended,10000002
 patch=1,EE,200FF114,extended,00000000 
 patch=1,EE,200FF118,extended,3202FFFF 
 
-//Cheats/Protagonist Allies No Status Abnormalities
+[Cheats/Protagonist Allies No Status Abnormalities]
 patch=1,EE,107A5C5C,extended,00000000 
 patch=1,EE,107A5700,extended,00000000 
 patch=1,EE,107A5788,extended,00000000 
@@ -32,49 +32,49 @@ patch=1,EE,107A5898,extended,00000000
 patch=1,EE,107A5920,extended,00000000 
 patch=1,EE,107A59A8,extended,00000000
 
-//Cheats/HP And SP Complete Recovery At The End Of Battle
+[Cheats/HP And SP Complete Recovery At The End Of Battle]
 patch=1,EE,201B7F2C,extended,00000000
 
-//Cheats/All Skill Consumption HP1
+[Cheats/All Skill Consumption HP1]
 patch=1,EE,20308454,extended,00000000
 
-//Cheats/All Skill Consumption SP 1
+[Cheats/All Skill Consumption SP 1]
 patch=1,EE,20308588,extended,00000000
 
-//Cheats/All Skill Consumption HP1
+[Cheats/All Skill Consumption HP1]
 patch=1,EE,20240148,extended,00000000
 
-//Cheats/All Skill Consumption SP1
+[Cheats/All Skill Consumption SP1]
 patch=1,EE,20240320,extended,00000000
 
-//Cheats/Courage 999
+[Cheats/Courage 999]
 patch=1,EE,107A5C80,extended,000003E7
 
-//Cheats/Knowledge 999
+[Cheats/Knowledge 999]
 patch=1,EE,107A5C82,extended,000003E7
 
-//Cheats/Perseverance 999
+[Cheats/Perseverance 999]
 patch=1,EE,107A5C84,extended,000003E7
 
-//Cheats/Forgiveness 999
+[Cheats/Forgiveness 999]
 patch=1,EE,107A5C86,extended,000003E7
 
-//Cheats/Transmission Power 999
+[Cheats/Transmission Power 999]
 patch=1,EE,107A5C88,extended,000003E7
 
-//Cheats/Experience Points Gained After Battle 65535
+[Cheats/Experience Points Gained After Battle 65535]
 patch=1,EE,202205CC,extended,00000000
 
-//Cheats/Persona Gained Experience Points 128 Times
+[Cheats/Persona Gained Experience Points 128 Times]
 patch=1,EE,2010D164,extended,000581C0
 
-//Cheats/When Using Item 99 PiecesPress SELECT+Up On SELECT+Down Off tThe display will decrease immediately after use, but the number will be reflected when you switch the screen
+[Cheats/When Using Item 99 PiecesPress SELECT+Up On SELECT+Down Off tThe display will decrease immediately after use, but the number will be reflected when you switch the screen]
 patch=1,EE,D08CEA02,extended,0000FFEE
 patch=1,EE,20106E10,extended,00000000
 patch=1,EE,D08CEA02,extended,0000FFBE
 patch=1,EE,20106E10,extended,14200002
 
-//Cheats/Persona Full Ability Parameters 99 Check the persona's status
+[Cheats/Persona Full Ability Parameters 99 Check the persona's status]
 patch=1,EE,2010A2EC,extended,00520821
 patch=1,EE,2010A2F0,extended,34020063
 patch=1,EE,2010A308,extended,A022001C

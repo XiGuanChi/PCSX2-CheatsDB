@@ -1,21 +1,21 @@
-//Cheats/Player 1 Has Max Smackdown Bar
+[Cheats/Player 1 Has Max Smackdown Bar]
 patch=1,EE,D0316410,extended,00000001
 patch=1,EE,21B28C4C,extended,00630000
 patch=1,EE,D0316410,extended,00000001
 patch=1,EE,21B42514,extended,00000063
 
-//Cheats/Player 1 Always Has 3 Smackdowns
+[Cheats/Player 1 Always Has 3 Smackdowns]
 patch=1,EE,D0316410,extended,00000001
 patch=1,EE,21B4250C,extended,00000003
 
-//Cheats/99 Wins Slobber Knocker
+[Cheats/99 Wins Slobber Knocker]
 patch=1,EE,10726084,extended,00000063
 
-//Cheats/Unlock All Characters Make a save to activate this code.
+[Cheats/Unlock All Characters Make a save to activate this code.]
 patch=1,EE,007249A6,extended,000000FF
 
-//Cheats/Unlock Special Modes Make a save to activate this code.
+[Cheats/Unlock Special Modes Make a save to activate this code.]
 patch=1,EE,007249A8,extended,000000FF
 
-//Cheats/Unlock All Movies In Theater
+[Cheats/Unlock All Movies In Theater]
 patch=1,EE,0072B418,extended,0000003F

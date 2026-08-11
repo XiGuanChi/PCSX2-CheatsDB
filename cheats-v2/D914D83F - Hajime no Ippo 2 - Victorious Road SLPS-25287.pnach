@@ -1,30 +1,30 @@
 gametitle=Hajime no Ippo 2 - Victorious Road SLPS-25287
-//Hairstyles Selectable
+[Hairstyles Selectable]
 patch=1,EE,201E5928,extended,11200001
 
-//All Trunks Selectable
+[All Trunks Selectable]
 patch=1,EE,201E5E10,extended,11200001
 
-//All Shoes Selectable
+[All Shoes Selectable]
 patch=1,EE,201E5CE0,extended,11200001
 
-//All battle characters can be used
+[All battle characters can be used]
 patch=1,EE,201E5F60,extended,10200001
 
-//Boxer's Road Status  MAX GLUCOSE
+[Boxer's Road Status  MAX GLUCOSE]
 patch=1,EE,20897838,extended,3B9AC9FF
 patch=1,EE,20897860,extended,3B9AC9FF
 patch=1,EE,20897874,extended,3B9AC9FF
 patch=1,EE,20897888,extended,3B9AC9FF
 
-//MINERAL
+[MINERAL]
 patch=1,EE,2089789C,extended,3B9AC9FF
 patch=1,EE,208978B0,extended,3B9AC9FF
 patch=1,EE,208978C4,extended,3B9AC9FF
 patch=1,EE,208978D8,extended,3B9AC9FF
 patch=1,EE,208978D8,extended,3B9ACB8B
 
-//VITAMIN
+[VITAMIN]
 patch=1,EE,20897964,extended,3B9AC9FF
 patch=1,EE,20897978,extended,3B9AC9FF
 patch=1,EE,2089798C,extended,3B9AC9FF
@@ -36,16 +36,16 @@ patch=1,EE,20897950,extended,3B9AC9FF
 patch=1,EE,208979F0,extended,3B9AC9FF
 patch=1,EE,20897A04,extended,3B9AC9FF
 
-//NECK MUSCLES
+[NECK MUSCLES]
 patch=1,EE,20897040,extended,0098967F
 
-//BACK MUSCLES
+[BACK MUSCLES]
 patch=1,EE,20897054,extended,0098967F
 patch=1,EE,20897068,extended,0098967F
 patch=1,EE,2089707C,extended,0098967F
 patch=1,EE,20898090,extended,0098967F
 
-//CHEST MUSCLES
+[CHEST MUSCLES]
 patch=1,EE,208970A4,extended,0098967F
 patch=1,EE,208970B8,extended,0098967F
 patch=1,EE,208970CC,extended,0098967F
@@ -53,12 +53,12 @@ patch=1,EE,208970E0,extended,0098967F
 patch=1,EE,208970F4,extended,0098967F
 patch=1,EE,20897108,extended,0098967F
 
-//ABDOMEN MUSCLES
+[ABDOMEN MUSCLES]
 patch=1,EE,2089711C,extended,0098967F
 patch=1,EE,20897130,extended,0098967F
 patch=1,EE,20897144,extended,0098967F
 
-//BRACHIAL MUSCLES
+[BRACHIAL MUSCLES]
 patch=1,EE,20897158,extended,0098967F
 patch=1,EE,2089716C,extended,0098967F
 patch=1,EE,20897180,extended,0098967F
@@ -66,15 +66,15 @@ patch=1,EE,20897194,extended,0098967F
 patch=1,EE,208971A8,extended,0098967F
 patch=1,EE,208971BC,extended,0098967F
 
-//ARM MUSCLES
+[ARM MUSCLES]
 patch=1,EE,208971D0,extended,0098967F
 patch=1,EE,208971E4,extended,0098967F
 
-//HIP MUSCLES
+[HIP MUSCLES]
 patch=1,EE,208971F8,extended,0098967F
 
-//THIGH MUSCLES
+[THIGH MUSCLES]
 patch=1,EE,2089720C,extended,0098967F
 
-//CALVES MUSCLES
+[CALVES MUSCLES]
 patch=1,EE,20897220,extended,0098967F

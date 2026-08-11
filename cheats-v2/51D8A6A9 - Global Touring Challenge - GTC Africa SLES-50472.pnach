@@ -1,7 +1,7 @@
 gametitle=Global Touring Challenge - GTC Africa SLES-50472
-//Start On 3rd Lap
+[Start On 3rd Lap]
 patch=1,EE,103D430C,extended,00000003
 
-//Turn Off CPU AI
+[Turn Off CPU AI]
 patch=1,EE,20107E50,extended,00000000
 patch=1,EE,20107F64,extended,00000000

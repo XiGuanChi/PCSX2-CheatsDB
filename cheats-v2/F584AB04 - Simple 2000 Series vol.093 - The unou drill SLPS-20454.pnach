@@ -1,8 +1,8 @@
 gametitle=Simple 2000 Series vol.093 - The unou drill SLPS-20454
-//Infinite Time
+[Infinite Time]
 patch=1,EE,21FFEAC0,extended,00000000
 
-//Unlock All
+[Unlock All]
 patch=1,EE,21FFE8CC,extended,00000002
 patch=1,EE,21FFE940,extended,0000000A
 patch=1,EE,21FFE9D4,extended,00000002

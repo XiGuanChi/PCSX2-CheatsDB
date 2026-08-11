@@ -1,8 +1,8 @@
-//Cheats/Unlock All Bonus Stages
+[Cheats/Unlock All Bonus Stages]
 patch=1,EE,00B959E4,extended,00000001
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,00B959E5,extended,00000001
 
-//Cheats/Pause Menu's control menu = debug menu This allows you to change car parameters, enable or disable collision or damage, and more.
+[Cheats/Pause Menu's control menu = debug menu This allows you to change car parameters, enable or disable collision or damage, and more.]
 patch=1,EE,2022981C,extended,001E8E98

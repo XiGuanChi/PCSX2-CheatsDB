@@ -1,40 +1,40 @@
 gametitle=Street Fighter Alpha Anthology SLUS-21317
-//Street Fighter Alpha 2 Infinite Health P1
+[Street Fighter Alpha 2 Infinite Health P1]
 patch=1,EE,E0010080,extended,00775172
 patch=1,EE,10808450,extended,00000090
 
-//Street Fighter Alpha 2 Gold nfinite Health P1
+[Street Fighter Alpha 2 Gold nfinite Health P1]
 patch=1,EE,E0010080,extended,00782BCA
 patch=1,EE,10808450,extended,00000090
 
-//Street Fighter Alpha 2 Gold 1-Hit Death P2
+[Street Fighter Alpha 2 Gold 1-Hit Death P2]
 patch=1,EE,E0020080,extended,00782BCA
 patch=1,EE,D0808850,extended,00000090
 patch=1,EE,10808850,extended,00000001
 
-//Street Fighter Alpha 3 Infinite Health P1
+[Street Fighter Alpha 3 Infinite Health P1]
 patch=1,EE,E0010090,extended,0088C75A
 patch=1,EE,10908450,extended,00000000
 
-//Street Fighter Alpha 3 1-Hit Death P2
+[Street Fighter Alpha 3 1-Hit Death P2]
 patch=1,EE,E0020090,extended,0088C75A
 patch=1,EE,D0908850,extended,00000090
 patch=1,EE,10908850,extended,00000001
 
-//Street Fighter Alpha-Warriors Dreams Infinite Health P1
+[Street Fighter Alpha-Warriors Dreams Infinite Health P1]
 patch=1,EE,E0010060,extended,0050DDFA
 patch=1,EE,10608440,extended,00000090
 
-//Street Fighter Alpha-Warriors Dreams 1-Hit Death P2
+[Street Fighter Alpha-Warriors Dreams 1-Hit Death P2]
 patch=1,EE,E0020060,extended,0050DDFA
 patch=1,EE,D0608840,extended,00000090
 patch=1,EE,10608840,extended,00000001
 
-//Super Gem Fighter MiniMix Infinite Health P1
+[Super Gem Fighter MiniMix Infinite Health P1]
 patch=1,EE,E0010066,extended,0064C1EA
 patch=1,EE,10668440,extended,00000090
 
-//Super Gem Fighter MiniMix 1-Hit Death P2
+[Super Gem Fighter MiniMix 1-Hit Death P2]
 patch=1,EE,E0020066,extended,0064C1EA
 patch=1,EE,D0668840,extended,00000090
 patch=1,EE,10668840,extended,00000001

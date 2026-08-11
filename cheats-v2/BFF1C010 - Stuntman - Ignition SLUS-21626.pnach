@@ -1,9 +1,9 @@
 gametitle=Stuntman - Ignition SLUS-21626
-//Quick Max Score
+[Quick Max Score]
 patch=1,EE,1015352E,extended,00001000
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,204E42E8,extended,FFFFFFFF
 
-//Access All Cheats
+[Access All Cheats]
 patch=1,EE,2056E088,extended,00000001

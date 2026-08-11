@@ -1,4 +1,4 @@
 gametitle=Jissen Pachinko Hisshouhou! CR Sakura Taisen SLPM-66820
-//Press L3 For Debug Menu 
+[Press L3 For Debug Menu]
 patch=1,EE,D064B71E,extended,0000FFFD
 patch=1,EE,2064B7D0,extended,00000000

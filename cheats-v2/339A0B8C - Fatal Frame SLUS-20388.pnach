@@ -1,30 +1,30 @@
 gametitle=Fatal Frame SLUS-20388
-//Always Low Game Time
+[Always Low Game Time]
 patch=1,EE,202522F8,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,10252AA4,extended,000001F4
 
-//Max Score
+[Max Score]
 patch=1,EE,20265CF8,extended,0098967F
 
-//1Hit Death (Enemies)
+[1Hit Death (Enemies)]
 patch=1,EE,D0252E98,extended,0003000A
 patch=1,EE,10252E98,extended,00000001
 patch=1,EE,D02536F8,extended,0003000A
 patch=1,EE,102536F8,extended,00000001
 
-//Type7 Film
+[Type7 Film]
 patch=1,EE,00254360,extended,00000063
 
-//Type14 Film
+[Type14 Film]
 patch=1,EE,00254361,extended,00000063
 
-//Type37 Film
+[Type37 Film]
 patch=1,EE,00254362,extended,00000063
 
-//Type74 Film
+[Type74 Film]
 patch=1,EE,00254363,extended,00000063
 
-//Type90 Film
+[Type90 Film]
 patch=1,EE,00254364,extended,00000063

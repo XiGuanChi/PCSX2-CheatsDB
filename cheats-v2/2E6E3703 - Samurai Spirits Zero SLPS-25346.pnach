@@ -1,10 +1,10 @@
 gametitle=Samurai Spirits Zero SLPS-25346
-//Infinite HP
+[Infinite HP]
 patch=1,EE,10B94554,extended,0000007D
 
-//Infinity Special
+[Infinity Special]
 patch=1,EE,10B9455E,extended,00004000
 
-//2P blow death After pressing the L3 + R3 button
+[2P blow death After pressing the L3 + R3 button]
 patch=1,EE,D031E036,extended,0000FFF9
 patch=1,EE,10B94764,extended,00000000

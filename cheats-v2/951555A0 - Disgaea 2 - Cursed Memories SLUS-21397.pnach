@@ -1,24 +1,24 @@
 gametitle=Disgaea 2 - Cursed Memories SLUS-21397
-//Enable All Areas
+[Enable All Areas]
 patch=1,EE,40333240,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Infinite Funds
+[Infinite Funds]
 patch=1,EE,20333330,extended,05F5E0FF
 
-//Charakter 1 Infinite HP: 999.999
+[Charakter 1 Infinite HP: 999.999]
 patch=1,EE,20334444,extended,0000270F
 patch=1,EE,2033444C,extended,0000270F
 
-//Charakter 1 Infinite SP: 999.999
+[Charakter 1 Infinite SP: 999.999]
 patch=1,EE,20334448,extended,0000270F
 patch=1,EE,20334450,extended,0000270F
 
-//Charakter 2 Infinite HP: 999.999
+[Charakter 2 Infinite HP: 999.999]
 patch=1,EE,20334D5C,extended,0000270F
 patch=1,EE,20334D64,extended,0000270F
 
 
-//Charakter 2 Infinite SP: 999.999
+[Charakter 2 Infinite SP: 999.999]
 patch=1,EE,20334D60,extended,0000270F
 patch=1,EE,20334D68,extended,0000270F

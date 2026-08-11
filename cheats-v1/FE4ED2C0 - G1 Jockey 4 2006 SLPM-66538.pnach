@@ -1,36 +1,36 @@
-//Cheats/RP 50000 Display Effective Even When Saved
+[Cheats/RP 50000 Display Effective Even When Saved]
 patch=1,EE,10A99A00,extended,0000C350
 
-//Cheats/Jockey Skill All S
+[Cheats/Jockey Skill All S]
 patch=1,EE,00A99A4F,extended,000000FF
 
-//Cheats/Max Negotiation
+[Cheats/Max Negotiation]
 patch=1,EE,202758B4,extended,00000000
 
-//Cheats/Main Battle Level 30
+[Cheats/Main Battle Level 30]
 patch=1,EE,2010DA40,extended,2402001E
 
-//Cheats/Level 30 When Running
+[Cheats/Level 30 When Running]
 patch=1,EE,2010DB58,extended,2403001E
 
-//Cheats/Max Jockey Friendship
+[Cheats/Max Jockey Friendship]
 patch=1,EE,20113D44,extended,240200FA
 patch=1,EE,20113D98,extended,240400FA
 
-//Cheats/Max Trainer You Know
+[Cheats/Max Trainer You Know]
 patch=1,EE,2011B918,extended,240200FA
 
-//Cheats/Trainer Flag All Trainers Friendship Level Max
+[Cheats/Trainer Flag All Trainers Friendship Level Max]
 patch=1,EE,40A99A0C,extended,000F0001
 patch=1,EE,FAFAFAFA,extended,00000000
 patch=1,EE,20A99A4A,extended,FAFAFAFA
 
-//Cheats/Rocket Start
+[Cheats/Rocket Start]
 patch=1,EE,E0020000,extended,00388F9C
 patch=1,EE,0039A083,extended,000000EF
 patch=1,EE,0039A103,extended,000000EF
 
-//Cheats/Great Potential Increase L1+R1=ON L1+R2=OFF
+[Cheats/Great Potential Increase L1+R1=ON L1+R2=OFF]
 patch=1,EE,E002F3FF,extended,0039A102
 patch=1,EE,2017E2D4,extended,1000000A
 patch=1,EE,2017E300,extended,3C034300
@@ -38,7 +38,7 @@ patch=1,EE,E002F9FF,extended,0039A102
 patch=1,EE,2017E2D4,extended,5083000B
 patch=1,EE,2017E300,extended,3C033F86
 
-//Cheats/After Start Pote Max & Infinite Stamina L2+R2=ON L2+R3=OFF
+[Cheats/After Start Pote Max & Infinite Stamina L2+R2=ON L2+R3=OFF]
 patch=1,EE,E00AFCFF,extended,0039A102
 patch=1,EE,2017E2D4,extended,10000006
 patch=1,EE,2017E2F0,extended,3C034300
@@ -62,45 +62,45 @@ patch=1,EE,2017E308,extended,44830000
 patch=1,EE,2017E30C,extended,00000000
 patch=1,EE,2017E310,extended,4600A502
 
-//Cheats/Big Runaway L3+UP=ON R3+?UP=OFF
+[Cheats/Big Runaway L3+UP=ON R3+?UP=OFF]
 patch=1,EE,E001FFED,extended,0039A102
 patch=1,EE,2017D758,extended,00000000
 patch=1,EE,E001FFEB,extended,0039A102
 patch=1,EE,2017D758,extended,46020001
 
-//Cheats/Potential Decrease Is Small L3=ON R3=OFF released
+[Cheats/Potential Decrease Is Small L3=ON R3=OFF released]
 patch=1,EE,E001FFFD,extended,0039A102
 patch=1,EE,2017D75C,extended,1000003F
 patch=1,EE,E001FFFB,extended,0039A102
 patch=1,EE,2017D75C,extended,1602003F
 
-//Cheats/New Horse Training Weekly feed All Abilities Grow Hy 1
+[Cheats/New Horse Training Weekly feed All Abilities Grow Hy 1]
 patch=1,EE,202595D8,extended,24110064
 
-//Cheats/Max Competitive Ability When Creating A New Horse
+[Cheats/Max Competitive Ability When Creating A New Horse]
 patch=1,EE,2025C600,extended,03E00008
 patch=1,EE,2025C604,extended,2402003F
 
-//Cheats/Growth type when creating a new horse Super persistent
+[Cheats/Growth type when creating a new horse Super persistent]
 patch=1,EE,2025CBA0,extended,03E00008
 patch=1,EE,2025CBA4,extended,2402001C
 
-//Cheats/Appropriate distance when creating a new horse: 2400m
+[Cheats/Appropriate distance when creating a new horse: 2400m]
 patch=1,EE,2025BE80,extended,03E00008
 patch=1,EE,2025BE84,extended,2402000E
 
-//Cheats/Whip Skill All A
+[Cheats/Whip Skill All A]
 patch=1,EE,00A99AAA,extended,0000001B
 
-//Cheats/Race Ends Press L3+Right When rooftop zoom appears Press Triangle
+[Cheats/Race Ends Press L3+Right When rooftop zoom appears Press Triangle]
 patch=1,EE,E001FFFD,extended,0039A102
 patch=1,EE,203BFF64,extended,00000001
 patch=1,EE,E001FFFB,extended,0039A102
 patch=1,EE,203BFF64,extended,0000001E
 
-//Cheats/Max Rank Up Rxperience Value
+[Cheats/Max Rank Up Rxperience Value]
 patch=1,EE,20118C20,extended,240200FF
 
-//Cheats/Total Number Of First Place Wins
+[Cheats/Total Number Of First Place Wins]
 patch=1,EE,20A98218,extended,03E803E8
 

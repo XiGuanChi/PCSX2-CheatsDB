@@ -1,20 +1,20 @@
-//Cheats/Always Special
+[Cheats/Always Special]
 patch=1,EE,202ED668,extended,24030001
 
-//Cheats/Never Fail Goal
+[Cheats/Never Fail Goal]
 patch=1,EE,202A87C0,extended,080AA184
 patch=1,EE,202A87C4,extended,00000000
 
-//Cheats/Freeze Arcade Timer Press Select+L3 Activate Select+R3 Stop
+[Cheats/Freeze Arcade Timer Press Select+L3 Activate Select+R3 Stop]
 patch=1,EE,D047DC58,extended,00000300
 patch=1,EE,202B2350,extended,00000000
 patch=1,EE,D047DC58,extended,00000500
 patch=1,EE,202B2350,extended,00621823
 
-//Cheats/Unlock All Arcade Levels & Cheats
+[Cheats/Unlock All Arcade Levels & Cheats]
 patch=1,EE,20B97014,extended,FFFFFFFF
 patch=1,EE,20B97010,extended,FFFFFFFF
 
-//Cheats/Unlock All Story Levels, Shreck & Cheats
+[Cheats/Unlock All Story Levels, Shreck & Cheats]
 patch=1,EE,20B96FEC,extended,FFFFFFFF
 patch=1,EE,20B96FF0,extended,FFFFFFFF

@@ -1,35 +1,35 @@
-//Cheats/Infinite HP & SP
+[Cheats/Infinite HP & SP]
 patch=1,EE,20165A18,extended,00409023
 
-//Cheats/Infinite Grim & Coin
+[Cheats/Infinite Grim & Coin]
 patch=1,EE,201659FC,extended,00409023
 
-//Cheats/Everything Increased Will be Max
+[Cheats/Everything Increased Will be Max]
 patch=1,EE,201655F8,extended,10200001
 
-//Cheats/Max Koins
+[Cheats/Max Koins]
 patch=1,EE,20316984,extended,0000270F
 
-//Cheats/Max HP
+[Cheats/Max HP]
 patch=1,EE,203169AC,extended,00000009
 patch=1,EE,203169B0,extended,00001680
 
-//Cheats/Max Soul Stones
+[Cheats/Max Soul Stones]
 patch=1,EE,20316988,extended,0000270F
 
-//Cheats/Max Iron Keys
+[Cheats/Max Iron Keys]
 patch=1,EE,20316994,extended,00000063
 
-//Cheats/Max Death Coins
+[Cheats/Max Death Coins]
 patch=1,EE,2031699C,extended,0000270F
 
-//Cheats/Max Shield
+[Cheats/Max Shield]
 patch=1,EE,2031697C,extended,00000708
 patch=1,EE,20316980,extended,00000009
 
-//Cheats/Max Grim Energy
+[Cheats/Max Grim Energy]
 patch=1,EE,203169A4,extended,00000028
 patch=1,EE,203169A8,extended,00000028
 
-//Cheats/Have All Hint Scrolls
+[Cheats/Have All Hint Scrolls]
 patch=1,EE,203169C8,extended,FFFFFFFF

@@ -1,8 +1,8 @@
 gametitle=Gadget Racers SLUS-20225
-//Always In 1st Place
+[Always In 1st Place]
 patch=1,EE,0021C4B4,extended,00000001
 
-//Have All O Licenses
+[Have All O Licenses]
 patch=1,EE,10342B48,extended,00000001
 patch=1,EE,10342B88,extended,00000001
 patch=1,EE,10342BC8,extended,00000001
@@ -14,7 +14,7 @@ patch=1,EE,10342D08,extended,00000001
 patch=1,EE,10342D48,extended,00000001
 patch=1,EE,10342D88,extended,00000001
 
-//Have All P Licenses
+[Have All P Licenses]
 patch=1,EE,10342DC8,extended,00000001
 patch=1,EE,10342E08,extended,00000001
 patch=1,EE,10342E48,extended,00000001
@@ -26,7 +26,7 @@ patch=1,EE,10342F88,extended,00000001
 patch=1,EE,10342FC8,extended,00000001
 patch=1,EE,10343008,extended,00000001
 
-//Have All Q Licenses
+[Have All Q Licenses]
 patch=1,EE,10343048,extended,00000001
 patch=1,EE,10343088,extended,00000001
 patch=1,EE,103430C8,extended,00000001
@@ -38,5 +38,5 @@ patch=1,EE,10343208,extended,00000001
 patch=1,EE,10343248,extended,00000001
 patch=1,EE,10343288,extended,00000001
 
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,2023D210,extended,05F5E0FF

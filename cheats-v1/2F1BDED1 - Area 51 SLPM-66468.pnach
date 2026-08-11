@@ -1,36 +1,36 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2026ACFC,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,201569EC,extended,00000000
 
-//Cheats/No Reload
+[Cheats/No Reload]
 patch=1,EE,20156930,extended,00000000
 
-//Cheats/does not lose strength
+[Cheats/does not lose strength]
 patch=1,EE,2026C624,extended,00000000
 
-//Cheats/Ammo doesn't run out
+[Cheats/Ammo doesn't run out]
 patch=1,EE,20158064,extended,00000000
 patch=1,EE,20158124,extended,00000000
 patch=1,EE,201522E4,extended,00000000
 patch=1,EE,201522FC,extended,00000000
 
-//Cheats/Grenade does not decrease
+[Cheats/Grenade does not decrease]
 patch=1,EE,20209268,extended,00000000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,20207A10,extended,00000000
 
-//Cheats/Unlock All Secret Files
+[Cheats/Unlock All Secret Files]
 patch=1,EE,004F93A8,extended,00000015
 
-//Cheats/Unlock All Databank
+[Cheats/Unlock All Databank]
 patch=1,EE,404F938C,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,104F939C,extended,0000FFFF
 
-//Cheats/Unlock All Data Bank & Secrets During the mission, you will not be able to scan the target, but there is no problem in proceeding with the scenario.
+[Cheats/Unlock All Data Bank & Secrets During the mission, you will not be able to scan the target, but there is no problem in proceeding with the scenario.]
 patch=1,EE,20506D3C,extended,FFFFFFFF
 patch=1,EE,20506D40,extended,FFFFFFFF
 patch=1,EE,20506D44,extended,FFFFFFFF

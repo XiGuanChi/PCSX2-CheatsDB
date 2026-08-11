@@ -1,33 +1,33 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20423E44,extended,000F423F
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF00,extended,962F0046
 patch=1,EE,200FFF04,extended,A62F0044
 patch=1,EE,200FFF08,extended,0809AB62
 patch=1,EE,202D35B0,extended,0C03FFC0
 
-//Cheats/Character 1 Stats Max
+[Cheats/Character 1 Stats Max]
 patch=1,EE,204296E8,extended,03E703E7
 patch=1,EE,204296EC,extended,03E703E7
 patch=1,EE,204296F0,extended,03E703E7
 patch=1,EE,204296F4,extended,03E703E7
 patch=1,EE,204296F8,extended,03E703E7
 
-//Cheats/Unlock All Weapons
+[Cheats/Unlock All Weapons]
 patch=1,EE,40423E50,extended,001C0001
 patch=1,EE,09090909,extended,00000000
 patch=1,EE,00423EC1,extended,00000009
 patch=1,EE,00423EC2,extended,00000009
 patch=1,EE,00423EC3,extended,00000009
 
-//Cheats/Unlock All Armor
+[Cheats/Unlock All Armor]
 patch=1,EE,40423EC4,extended,00100001
 patch=1,EE,09090909,extended,00000000
 patch=1,EE,00423F05,extended,00000009
 patch=1,EE,00423F06,extended,00000009
 
-//Cheats/Unlock All Accessories
+[Cheats/Unlock All Accessories]
 patch=1,EE,40423F07,extended,001C0001
 patch=1,EE,09090909,extended,00000000
 patch=1,EE,00423F78,extended,00000009

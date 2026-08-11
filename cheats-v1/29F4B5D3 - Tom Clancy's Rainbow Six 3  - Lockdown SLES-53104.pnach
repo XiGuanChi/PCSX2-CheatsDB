@@ -1,25 +1,25 @@
-//Cheats/Activate Ingame Cheat God Mode
+[Cheats/Activate Ingame Cheat God Mode]
 patch=1,EE,20440068,extended,24020001
 patch=1,EE,2044006C,extended,A202036B
 
-//Cheats/Infinite Health You Big Explosions Still Kill You
+[Cheats/Infinite Health You Big Explosions Still Kill You]
 patch=1,EE,203B373C,extended,2403007F
 patch=1,EE,203B3744,extended,A04303F4
 
-//Cheats/Infinite Health Entire Squad Big Explosions Still Kill You
+[Cheats/Infinite Health Entire Squad Big Explosions Still Kill You]
 patch=1,EE,200C2000,extended,2402007F
 patch=1,EE,200C2004,extended,080C39C0
 patch=1,EE,200C2008,extended,A02203F4
 patch=1,EE,2030E6F8,extended,08030800
 patch=1,EE,2030E6FC,extended,00020820
 
-//Cheats/Infinite Ammo No Reload
+[Cheats/Infinite Ammo No Reload]
 patch=1,EE,20274AA0,extended,00000000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,202774F8,extended,AC830010
 
-//Cheats/Max Intel Points
+[Cheats/Max Intel Points]
 patch=1,EE,200C2010,extended,3C1205F5
 patch=1,EE,200C2014,extended,3652E0FF
 patch=1,EE,200C2018,extended,AC52004C
@@ -27,33 +27,33 @@ patch=1,EE,200C201C,extended,03E00008
 patch=1,EE,200C2020,extended,3C020070
 patch=1,EE,2043E31C,extended,0C030804
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,20267060,extended,00640821
 patch=1,EE,20267064,extended,90220058
 patch=1,EE,20267068,extended,34420001
 patch=1,EE,2026706C,extended,A0220058
 patch=1,EE,20267074,extended,30420001
 
-//Cheats/Unlock All Cheat Codes View Cheat To Unlock
+[Cheats/Unlock All Cheat Codes View Cheat To Unlock]
 patch=1,EE,202672EC,extended,00820821
 patch=1,EE,202672F0,extended,00000000
 patch=1,EE,202672F4,extended,24020001
 patch=1,EE,202672FC,extended,A0220410
 
-//Cheats/Unlock All Characters View Character To Unlock
+[Cheats/Unlock All Characters View Character To Unlock]
 patch=1,EE,202673C4,extended,00820821
 patch=1,EE,202673C8,extended,00000000
 patch=1,EE,202673CC,extended,24020001
 patch=1,EE,202673D4,extended,A0220444
 
-//Cheats/Unlock All Weapons View Weapon To Unlock
+[Cheats/Unlock All Weapons View Weapon To Unlock]
 patch=1,EE,200C2030,extended,24020001
 patch=1,EE,200C2034,extended,03E00008
 patch=1,EE,200C2038,extended,A0620020
 patch=1,EE,2043CC70,extended,0C03080C
 patch=1,EE,2043CC74,extended,8C430000
 
-//Cheats/Unlock All Concept Art View Art To Unlock
+[Cheats/Unlock All Concept Art View Art To Unlock]
 patch=1,EE,2026720C,extended,00820821
 patch=1,EE,20267210,extended,00000000
 patch=1,EE,20267214,extended,24020001

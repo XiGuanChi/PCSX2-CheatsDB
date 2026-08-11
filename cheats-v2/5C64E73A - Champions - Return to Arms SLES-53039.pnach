@@ -1,14 +1,14 @@
 gametitle=Champions - Return to Arms SLES-53039
-//Activate cheat mode
+[Activate cheat mode]
 patch=1,EE,D04FA7E0,extended,00000000
 patch=1,EE,004FA7E0,extended,00000001
 
-//Immortality / menu invulnerability
+[Immortality / menu invulnerability]
 patch=1,EE,D0450B0C,extended,00000000
 patch=1,EE,00450B0C,extended,00000001
 
-//Max Gold
+[Max Gold]
 patch=1,EE,204DA4D4,extended,05F5E0FF
 
-//Max Gold P2
+[Max Gold P2]
 patch=1,EE,204DF104,extended,05F5E0FF

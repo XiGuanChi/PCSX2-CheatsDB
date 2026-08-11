@@ -1,11 +1,11 @@
-//Cheats/Max Money 9999999 B
+[Cheats/Max Money 9999999 B]
 patch=1,EE,20AC54A4,extended,05F5E0FF
 
-//Cheats/All Items 90 + Compilation Success Ratios 100%
+[Cheats/All Items 90 + Compilation Success Ratios 100%]
 patch=1,EE,40AD9D6C,extended,00F00003
 patch=1,EE,005A0064,extended,00000000
 
-//Cheats/Unlock All Album
+[Cheats/Unlock All Album]
 patch=1,EE,40AC4FA0,extended,00200001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,40AC5040,extended,000A0001
@@ -15,6 +15,6 @@ patch=1,EE,20AC5028,extended,00000001
 patch=1,EE,20AC5038,extended,00000001
 patch=1,EE,20AC503C,extended,00000001
 
-//Cheats/Unlock All Encyclopedias
+[Cheats/Unlock All Encyclopedias]
 patch=1,EE,40AC5070,extended,00FB0001
 patch=1,EE,00000001,extended,00000000

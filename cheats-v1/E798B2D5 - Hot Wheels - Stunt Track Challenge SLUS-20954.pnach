@@ -1,18 +1,18 @@
-//Cheats/Infinite Boost
+[Cheats/Infinite Boost]
 patch=1,EE,2032CF40,extended,10000003
 
-//Cheats/Finish Race For Best Score
+[Cheats/Finish Race For Best Score]
 patch=1,EE,200C0220,extended,080DBAB1
 patch=1,EE,200C0224,extended,AC620004
 patch=1,EE,2036EA84,extended,2402270F
 patch=1,EE,2036EA88,extended,08030088
 
-//Cheats/5 Decals Collected-All Game Break
+[Cheats/5 Decals Collected-All Game Break]
 patch=1,EE,203153F0,extended,24030005
 patch=1,EE,203153F4,extended,AC83000C
 patch=1,EE,203153FC,extended,24020000
 
-//Cheats/Unlock All Events
+[Cheats/Unlock All Events]
 patch=1,EE,20315350,extended,24020001
 patch=1,EE,20315358,extended,AC820004
 

@@ -1,9 +1,9 @@
 gametitle=FIFA Street 2 SLES-53796
-//Unlock RTS
+[Unlock RTS]
 patch=1,EE,0047B064,extended,00000001
 
-//Skillbills/Talentcents
+[Skillbills/Talentcents]
 patch=1,EE,202F6474,extended,10000005
 
-//Unlock ******** Street Mode
+[Unlock ******** Street Mode]
 patch=1,EE,0047B06C,extended,00000001

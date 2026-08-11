@@ -1,24 +1,24 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,005A1A31,extended,00000005
 
-//Cheats/Infinite Gold Jack
+[Cheats/Infinite Gold Jack]
 patch=1,EE,20675638,extended,05F5E0FF
 
-//Cheats/Infinite Gold Will And Elizabeth
+[Cheats/Infinite Gold Will And Elizabeth]
 patch=1,EE,2067563C,extended,05F5E0FF
 
-//Cheats/Always Full Of Life Jack and Will - Elizabeth1
+[Cheats/Always Full Of Life Jack and Will - Elizabeth1]
 patch=1,EE,2023C858,extended,0C028000
 patch=1,EE,200A0000,extended,8C820010
 patch=1,EE,200A0004,extended,A444000E
 patch=1,EE,200A0008,extended,08062140
 
-//Cheats/Infinite Grog Bombs Jack
+[Cheats/Infinite Grog Bombs Jack]
 patch=1,EE,105A19D0,extended,0000000A
 
-//Cheats/Infinite Hatchets Will And Elizabeth
+[Cheats/Infinite Hatchets Will And Elizabeth]
 patch=1,EE,105A1A70,extended,0000000A
 
-//Cheats/Unlock Complete Map Collection
+[Cheats/Unlock Complete Map Collection]
 patch=1,EE,40675C60,extended,00070001
 patch=1,EE,FFFFFFFF,extended,00000000

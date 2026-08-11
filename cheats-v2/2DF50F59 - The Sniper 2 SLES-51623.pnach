@@ -1,11 +1,11 @@
 gametitle=The Sniper 2 SLES-51623
-//Infinite Time
+[Infinite Time]
 patch=1,EE,20130A50,extended,00000000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2011E13C,extended,00000000
 
-//All Levels Open
+[All Levels Open]
 patch=1,EE,20190F60,extended,01010101
 patch=1,EE,20190F64,extended,01010101
 patch=1,EE,20190F68,extended,01010101

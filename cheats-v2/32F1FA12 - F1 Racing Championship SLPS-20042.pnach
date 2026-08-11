@@ -1,5 +1,5 @@
 gametitle=F1 Racing Championship SLPS-20042
-//Goal in 1st place
+[Goal in 1st place]
 patch=1,EE,D02A67F0,extended,00000004
 patch=1,EE,202A6804,extended,00000003
 patch=1,EE,D02A67F0,extended,00000005
@@ -9,7 +9,7 @@ patch=1,EE,202A6804,extended,00000005
 patch=1,EE,D02A67F0,extended,00000007
 patch=1,EE,202A6804,extended,00000006
 
-//All cleared ARCADE mode
+[All cleared ARCADE mode]
 patch=1,EE,20F708E4,extended,41800000
 patch=1,EE,20F70880,extended,3F800000
 patch=1,EE,20F707A4,extended,3F800000
@@ -28,7 +28,7 @@ patch=1,EE,20F70858,extended,3F800000
 patch=1,EE,20F708A8,extended,3F800000
 patch=1,EE,20F707CC,extended,3F800000
 
-//All cleared SCENARIO mode
+[All cleared SCENARIO mode]
 patch=1,EE,20F87464,extended,3F800000
 patch=1,EE,20F87478,extended,3F800000
 patch=1,EE,20F8748C,extended,3F800000
@@ -40,7 +40,7 @@ patch=1,EE,20F874F0,extended,3F800000
 patch=1,EE,20F87504,extended,3F800000
 patch=1,EE,20F87518,extended,3F800000
 
-//All cleared DRIVING SCHOOL mode
+[All cleared DRIVING SCHOOL mode]
 patch=1,EE,20F7094C,extended,41700000
 patch=1,EE,20F8CE08,extended,3F800000
 patch=1,EE,20F8CE1C,extended,3F800000

@@ -1,15 +1,15 @@
-//Cheats/Unlock All Voice Select and CG Gallery
+[Cheats/Unlock All Voice Select and CG Gallery]
 patch=1,EE,404F0B20,extended,00100001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,204F0B50,extended,FFFFFFFF
 
-//Cheats/Unlock All CG after Browse
+[Cheats/Unlock All CG after Browse]
 patch=1,EE,20218DF4,extended,240200FF
 patch=1,EE,20218DF8,extended,A062000C
 
-//Cheats/Unlock All Theater Mode after Browse
+[Cheats/Unlock All Theater Mode after Browse]
 patch=1,EE,20218DF4,extended,240200FF
 patch=1,EE,20218DF8,extended,A062000C
 patch=1,EE,20218CE4,extended,240200FF

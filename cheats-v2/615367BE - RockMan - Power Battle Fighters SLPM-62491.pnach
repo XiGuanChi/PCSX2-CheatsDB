@@ -1,6 +1,6 @@
 gametitle=RockMan - Power Battle Fighters SLPM-62491
-//invincible
+[invincible]
 patch=1,EE,00C58352,extended,00000078
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,00C58350,extended,00000010

@@ -1,12 +1,12 @@
 gametitle=Silent Scope  3  SLES-51157
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20533650,extended,3F800000
 
-//Low Timer 
+[Low Timer]
 patch=1,EE,205335A8,extended,00000000
 
-//Infinite Credits 
+[Infinite Credits]
 patch=1,EE,1056EA40,extended,00000009
 
-//Open All Options 
+[Open All Options]
 patch=1,EE,20222470,extended,24020001

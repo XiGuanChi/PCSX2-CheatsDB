@@ -1,15 +1,15 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,0096ede8,extended,00000066
 
-//Cheats/Special Bar Full P1
+[Cheats/Special Bar Full P1]
 patch=1,EE,0096ED99,extended,00000048
 
-//Cheats/Have All Time Attack Challenges Completed
+[Cheats/Have All Time Attack Challenges Completed]
 patch=1,EE,209717F0,extended,00000028
 
-//Cheats/Unlock All Character Art Gallery
+[Cheats/Unlock All Character Art Gallery]
 patch=1,EE,209712E8,extended,FFFFFFFF
 patch=1,EE,009712EC,extended,000000FF
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,20971814,extended,FFFFFFFF

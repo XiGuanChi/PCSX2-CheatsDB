@@ -1,18 +1,18 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF00,extended,85210000
 patch=1,EE,200FFF04,extended,A5210002
 patch=1,EE,2028128C,extended,0803FFC0
 patch=1,EE,200FFF20,extended,080A04A4
 patch=1,EE,200FFF24,extended,85270002
 
-//Cheats/Infinite Mosou
+[Cheats/Infinite Mosou]
 patch=1,EE,200FFF08,extended,85210006
 patch=1,EE,200FFF0C,extended,A5210008
 patch=1,EE,2028128C,extended,0803FFC0
 patch=1,EE,200FFF20,extended,080A04A4
 patch=1,EE,200FFF24,extended,85270002
 
-//Cheats/Infinite Health & Mosou
+[Cheats/Infinite Health & Mosou]
 patch=1,EE,2028128C,extended,0803FFC0
 patch=1,EE,200FFF20,extended,080A04A4
 patch=1,EE,200FFF24,extended,85270002
@@ -21,28 +21,28 @@ patch=1,EE,200FFF0C,extended,A5210008
 patch=1,EE,200FFF00,extended,85210000
 patch=1,EE,200FFF04,extended,A5210002
 
-//Cheats/Infinite Health In Battle
+[Cheats/Infinite Health In Battle]
 patch=1,EE,10543040,extended,00000180
 patch=1,EE,10543042,extended,00000180
 
-//Cheats/Infinite Musou In Battle
+[Cheats/Infinite Musou In Battle]
 patch=1,EE,10543046,extended,00000180
 patch=1,EE,10543048,extended,00000180
 
-//Cheats/Max Growth Points
+[Cheats/Max Growth Points]
 patch=1,EE,20532C00,extended,0001869F
 
-//Cheats/Freeze Timer
+[Cheats/Freeze Timer]
 patch=1,EE,2020C00C,extended,00000000
 
-//Cheats/Super Fast Runners
+[Cheats/Super Fast Runners]
 patch=1,EE,200FFF10,extended,340141D9
 patch=1,EE,200FFF14,extended,A5210012
 patch=1,EE,2028128C,extended,0803FFC0
 patch=1,EE,200FFF20,extended,080A04A4
 patch=1,EE,200FFF24,extended,85270002
 
-//Cheats/No Clip
+[Cheats/No Clip]
 patch=1,EE,201A2FE8,extended,10000039
 
 

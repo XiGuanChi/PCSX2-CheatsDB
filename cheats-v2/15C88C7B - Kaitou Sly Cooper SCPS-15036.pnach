@@ -1,9 +1,9 @@
 gametitle=Kaitou Sly Cooper SCPS-15036
-//Coins 999999999
+[Coins 999999999]
 patch=1,EE,203DE300,extended,3B9AC9FF
 
-//Sly does not decrease life meter
+[Sly does not decrease life meter]
 patch=1,EE,203DE2B0,extended,00000028
 
-//Sly skill meter will not decrease
+[Sly skill meter will not decrease]
 patch=1,EE,203DE2B4,extended,00000064

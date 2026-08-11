@@ -1,16 +1,16 @@
-//Cheats/Max Cat Snack Counter
+[Cheats/Max Cat Snack Counter]
 patch=1,EE,203A4344,extended,00000006
 
-//Cheats/Max Electric Counter
+[Cheats/Max Electric Counter]
 patch=1,EE,203A4358,extended,000007D0
 
-//Cheats/Max Flash, Charge and Spark Counter
+[Cheats/Max Flash, Charge and Spark Counter]
 patch=1,EE,203A4308,extended,00000063
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,2031E11C,extended,00000001
 
-//Cheats/Unlock All Photos
+[Cheats/Unlock All Photos]
 patch=1,EE,203A42CC,extended,00000032
 patch=1,EE,203A42D0,extended,0302010A
 patch=1,EE,203A42D4,extended,07060504

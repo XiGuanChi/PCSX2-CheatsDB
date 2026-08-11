@@ -1,25 +1,25 @@
 gametitle=Jurassic - The Hunted SLUS-21907
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,10291D6C,extended,00000000
 
-//Infinite Clips
+[Infinite Clips]
 patch=1,EE,20280418,extended,00000000
 
-//Max Clip (After 1 use)
+[Max Clip (After 1 use)]
 patch=1,EE,20280414,extended,240203E7
 
-//999 Rounds (Use With Max Clip)
+[999 Rounds (Use With Max Clip)]
 patch=1,EE,202910F8,extended,240603E7
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2036b1bc,extended,00000000
 
-//Infinite Adrenaline Time
+[Infinite Adrenaline Time]
 patch=1,EE,2036E0C8,extended,00000000
 patch=1,EE,2036E0F4,extended,00000000
 
-//Weapons Never Overheats
+[Weapons Never Overheats]
 patch=1,EE,2024634C,extended,AE0001A4
 
-//One Hit Kill Dinosaurs
+[One Hit Kill Dinosaurs]
 patch=1,EE,20351D68,extended,ACC001AC

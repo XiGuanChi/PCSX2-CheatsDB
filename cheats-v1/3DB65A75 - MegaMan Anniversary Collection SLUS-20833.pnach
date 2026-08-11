@@ -1,7 +1,7 @@
-//Cheats/MegaMan 1 Unlock Game
+[Cheats/MegaMan 1 Unlock Game]
 patch=1,EE,10209400,extended,00000101
 
-//Cheats/MegaMan 1 Activator
+[Cheats/MegaMan 1 Activator]
 patch=1,EE,200A0000,extended,3C017000
 patch=1,EE,200A0004,extended,34210000
 patch=1,EE,200A0008,extended,2402001C
@@ -12,10 +12,10 @@ patch=1,EE,200A0068,extended,03E00008
 patch=1,EE,D0648A14,extended,0000EC18
 patch=1,EE,2067B294,extended,08028000
 
-//Cheats/MegaMan 1 Infinite Hp
+[Cheats/MegaMan 1 Infinite Hp]
 patch=1,EE,200A000C,extended,A0220B02
 
-//Cheats/Megaman 1 Infinite Health
+[Cheats/Megaman 1 Infinite Health]
 patch=1,EE,E005EC18,extended,00648A14
 patch=1,EE,200C0000,extended,3C037000
 patch=1,EE,200C0004,extended,2401001C
@@ -23,7 +23,7 @@ patch=1,EE,200C0008,extended,081B4A8C
 patch=1,EE,200C000C,extended,A0610B02
 patch=1,EE,20648A18,extended,0C030000
 
-//Cheats/Megaman 1 Infinite Lives
+[Cheats/Megaman 1 Infinite Lives]
 patch=1,EE,E005B424,extended,00648A48
 patch=1,EE,200C0010,extended,3C037000
 patch=1,EE,200C0014,extended,24010063
@@ -31,16 +31,16 @@ patch=1,EE,200C0018,extended,081B4AAE
 patch=1,EE,200C001C,extended,A0610B3E
 patch=1,EE,20648A4C,extended,0C030004
 
-//Cheats/Megaman 1 1 Hit Death Bosses
+[Cheats/Megaman 1 1 Hit Death Bosses]
 patch=1,EE,10B62218,extended,00000000
 
-//Cheats/MegaMan 1 Have All Weapons
+[Cheats/MegaMan 1 Have All Weapons]
 patch=1,EE,200A004C,extended,A0220AF5
 
-//Cheats/MegaMan 2 Unlock Game
+[Cheats/MegaMan 2 Unlock Game]
 patch=1,EE,10209401,extended,00000101
 
-//Cheats/MegaMan 2 Activator
+[Cheats/MegaMan 2 Activator]
 patch=1,EE,200A0070,extended,3C017000
 patch=1,EE,200A0074,extended,34210000
 patch=1,EE,200A0078,extended,2402001C
@@ -50,7 +50,7 @@ patch=1,EE,200A00C8,extended,03E00008
 patch=1,EE,D06E0B84,extended,0000F038
 patch=1,EE,206D5058,extended,0802801C
 
-//Cheats/Megaman 2 Infinite Lives
+[Cheats/Megaman 2 Infinite Lives]
 patch=1,EE,E005F038,extended,006E0B84
 patch=1,EE,200C0100,extended,3C037000
 patch=1,EE,200C0104,extended,24010064
@@ -58,35 +58,35 @@ patch=1,EE,200C0108,extended,08046B72
 patch=1,EE,200C010C,extended,A0610B40
 patch=1,EE,206E0BB4,extended,0C030040
 
-//Cheats/Megaman 2 Infinite Health
+[Cheats/Megaman 2 Infinite Health]
 patch=1,EE,00B62218,extended,0000001C
 
-//Cheats/MegaMan 2 Infinite Energy Tanks
+[Cheats/MegaMan 2 Infinite Energy Tanks]
 patch=1,EE,200A00AC,extended,A0220B3F
 
-//Cheats/MegaMan 2 All Weapons
+[Cheats/MegaMan 2 All Weapons]
 patch=1,EE,200A00B8,extended,A4220B32
 
-//Cheats/MegaMan 3 Unlock Game
+[Cheats/MegaMan 3 Unlock Game]
 patch=1,EE,10209402,extended,00000101
 
-//Cheats/MegaMan 3 Refill HP when Leaving menu
+[Cheats/MegaMan 3 Refill HP when Leaving menu]
 patch=1,EE,D07EEA00,extended,0000882D
 patch=1,EE,208349A8,extended,2405009C
 
-//Cheats/MegaMan 3 All Weapons Leaving Menu
+[Cheats/MegaMan 3 All Weapons Leaving Menu]
 patch=1,EE,D07EEA00,extended,0000882D
 patch=1,EE,208349B0,extended,2405009C
 
-//Cheats/MegaMan 3 Infinite HP
+[Cheats/MegaMan 3 Infinite HP]
 patch=1,EE,D07EEA00,extended,0000882D
 patch=1,EE,20770D1C,extended,2403001C
 
-//Cheats/MegaMan 3 Infinite Ammo
+[Cheats/MegaMan 3 Infinite Ammo]
 patch=1,EE,D07EEA00,extended,0000882D
 patch=1,EE,2080A5F8,extended,2405009C
 
-//Cheats/Megaman 3 Infinite Health
+[Cheats/Megaman 3 Infinite Health]
 patch=1,EE,E005882D,extended,007EEA00
 patch=1,EE,200C0200,extended,3C037000
 patch=1,EE,200C0204,extended,2401009C
@@ -94,7 +94,7 @@ patch=1,EE,200C0208,extended,08046B72
 patch=1,EE,200C020C,extended,A0610B3A
 patch=1,EE,207EEA04,extended,0C030080
 
-//Cheats/Megaman 3 Infinite Lives
+[Cheats/Megaman 3 Infinite Lives]
 patch=1,EE,E005802D,extended,007EEA0C
 patch=1,EE,200C0210,extended,3C037000
 patch=1,EE,200C0214,extended,24010099
@@ -102,10 +102,10 @@ patch=1,EE,200C0218,extended,08046B72
 patch=1,EE,200C021C,extended,A0610B46
 patch=1,EE,207EEA10,extended,0C030084
 
-//Cheats/MegaMan 4 Unlock Game
+[Cheats/MegaMan 4 Unlock Game]
 patch=1,EE,10209403,extended,00000101
 
-//Cheats/MegaMan 4 Have All Weapons Go to Menu
+[Cheats/MegaMan 4 Have All Weapons Go to Menu]
 patch=1,EE,200A00D0,extended,3C017000
 patch=1,EE,200A00D4,extended,34210B56
 patch=1,EE,200A00D8,extended,90220000
@@ -120,15 +120,15 @@ patch=1,EE,200A00FC,extended,03E00008
 patch=1,EE,D08E2E98,extended,0000802D
 patch=1,EE,206D5058,extended,08028034
 
-//Cheats/MegaMan 4 Infinite HP
+[Cheats/MegaMan 4 Infinite HP]
 patch=1,EE,D08E2E98,extended,0000802D
 patch=1,EE,2084F4F0,extended,2403001C
 
-//Cheats/MegaMan 4 Start With 99 lives
+[Cheats/MegaMan 4 Start With 99 lives]
 patch=1,EE,D08E2E98,extended,0000802D
 patch=1,EE,008CD4B0,extended,00000099
 
-//Cheats/Megaman 4 Infinite Health
+[Cheats/Megaman 4 Infinite Health]
 patch=1,EE,E005882D,extended,008E2E8C
 patch=1,EE,200C0300,extended,3C037000
 patch=1,EE,200C0304,extended,2401009C
@@ -136,7 +136,7 @@ patch=1,EE,200C0308,extended,08046B72
 patch=1,EE,200C030C,extended,A0610B48
 patch=1,EE,208E2E90,extended,0C0300C0
 
-//Cheats/Megaman 4 Infinite Lives
+[Cheats/Megaman 4 Infinite Lives]
 patch=1,EE,E005802D,extended,008E2E98
 patch=1,EE,200C0310,extended,3C037000
 patch=1,EE,200C0314,extended,24010009
@@ -144,26 +144,26 @@ patch=1,EE,200C0318,extended,08046B72
 patch=1,EE,200C031C,extended,A0610B39
 patch=1,EE,208E2E9C,extended,0C0300C4
 
-//Cheats/MegaMan 4 Infinite Ammo
+[Cheats/MegaMan 4 Infinite Ammo]
 patch=1,EE,D08E2E98,extended,0000802D
 patch=1,EE,208DE60C,extended,2404001C
 
-//Cheats/MegaMan 4 Infinite Energy Tanks
+[Cheats/MegaMan 4 Infinite Energy Tanks]
 patch=1,EE,D08E2E98,extended,0000802D
 patch=1,EE,2090B420,extended,24040063
 
-//Cheats/MegaMan 5 Unlock Game
+[Cheats/MegaMan 5 Unlock Game]
 patch=1,EE,10209404,extended,00000101
 
-//Cheats/MegaMan 5 Infinite Lives
+[Cheats/MegaMan 5 Infinite Lives]
 patch=1,EE,D09A91E0,extended,0000882D
 patch=1,EE,209C2580,extended,24030099
 
-//Cheats/MegaMan 5 Infinite Health
+[Cheats/MegaMan 5 Infinite Health]
 patch=1,EE,D09A91E0,extended,0000882D
 patch=1,EE,20929FA8,extended,2403001C
 
-//Cheats/MegaMan 5 Have All Weapons + Infinite
+[Cheats/MegaMan 5 Have All Weapons + Infinite]
 patch=1,EE,200A0104,extended,3C017000
 patch=1,EE,200A0108,extended,34210B49
 patch=1,EE,200A010C,extended,2402009C
@@ -177,7 +177,7 @@ patch=1,EE,200A012C,extended,03E00008
 patch=1,EE,D09A91E0,extended,0000882D
 patch=1,EE,206D5228,extended,08028041
 
-//Cheats/Megaman 5 Infinite Health
+[Cheats/Megaman 5 Infinite Health]
 patch=1,EE,E005882D,extended,009A91E0
 patch=1,EE,200C0400,extended,3C037000
 patch=1,EE,200C0404,extended,2401009C
@@ -185,7 +185,7 @@ patch=1,EE,200C0408,extended,08046B72
 patch=1,EE,200C040C,extended,A0610B48
 patch=1,EE,209A91E4,extended,0C030100
 
-//Cheats/Megaman 5 Infinite Lives
+[Cheats/Megaman 5 Infinite Lives]
 patch=1,EE,E005802D,extended,009A91EC
 patch=1,EE,200C0410,extended,3C037000
 patch=1,EE,200C0414,extended,24010009
@@ -193,81 +193,81 @@ patch=1,EE,200C0418,extended,08046B72
 patch=1,EE,200C041C,extended,A0610B57
 patch=1,EE,209A91F0,extended,0C030104
 
-//Cheats/MegaMan 6 Unlock Game
+[Cheats/MegaMan 6 Unlock Game]
 patch=1,EE,10209405,extended,00000101
 
-//Cheats/MegaMan 6 Infinite Health
+[Cheats/MegaMan 6 Infinite Health]
 patch=1,EE,00B61F3D,extended,0000001B
 
-//Cheats/MegaMan 6 All Weapons
+[Cheats/MegaMan 6 All Weapons]
 patch=1,EE,20B621E0,extended,1B1B1B1B
 patch=1,EE,20B621E4,extended,1B1B1B1B
 patch=1,EE,10B621E8,extended,00001B1B
 
-//Cheats/MegaMan 7 Unlock Game
+[Cheats/MegaMan 7 Unlock Game]
 patch=1,EE,10209406,extended,00000101
 
-//Cheats/MegaMan 7 Infinite Lives
+[Cheats/MegaMan 7 Infinite Lives]
 patch=1,EE,00EC1321,extended,00000009
 
-//Cheats/MegaMan 7 Infinite Health
+[Cheats/MegaMan 7 Infinite Health]
 patch=1,EE,00EC13D3,extended,0000001C
 
-//Cheats/MegaMan 7 Infinite EN
+[Cheats/MegaMan 7 Infinite EN]
 patch=1,EE,00EC1340,extended,00000004
 
-//Cheats/MegaMan 7 Infinite WP
+[Cheats/MegaMan 7 Infinite WP]
 patch=1,EE,00EC1341,extended,00000004
 
-//Cheats/MegaMan 7 Infinite SP
+[Cheats/MegaMan 7 Infinite SP]
 patch=1,EE,00EC1342,extended,00000001
 
-//Cheats/MegaMan 8 Unlock Game
+[Cheats/MegaMan 8 Unlock Game]
 patch=1,EE,10209407,extended,00000101
 
-//Cheats/MegaMan 8 Infinite Lives
+[Cheats/MegaMan 8 Infinite Lives]
 patch=1,EE,0075E96C,extended,00000009
 
-//Cheats/MegaMan 8 Infinite Health
+[Cheats/MegaMan 8 Infinite Health]
 patch=1,EE,0075EA8F,extended,00000028
 
-//Cheats/MegaMan 8 Max Bolts
+[Cheats/MegaMan 8 Max Bolts]
 patch=1,EE,0075E9A0,extended,00000063
 
-//Cheats/MegaMan 8 Have EX
+[Cheats/MegaMan 8 Have EX]
 patch=1,EE,0075E9FC,extended,00000001
 
-//Cheats/MegaMan - The Power Fighters Unlock Game
+[Cheats/MegaMan - The Power Fighters Unlock Game]
 patch=1,EE,10209408,extended,00000101
 
-//Cheats/Megaman - The Power Battle Infinite Health Player 1
+[Cheats/Megaman - The Power Battle Infinite Health Player 1]
 patch=1,EE,11190BB0,extended,00000010
 
-//Cheats/Megaman - The Power Battle 1 Hit Death Enemies
+[Cheats/Megaman - The Power Battle 1 Hit Death Enemies]
 patch=1,EE,11195FB0,extended,00000000
 patch=1,EE,111960B0,extended,00000000
 patch=1,EE,111961B0,extended,00000000
 patch=1,EE,111962B0,extended,00000000
 
-//Cheats/MegaMan 2 - The Power Fighters Unlock Game
+[Cheats/MegaMan 2 - The Power Fighters Unlock Game]
 patch=1,EE,10209409,extended,00000101
 
-//Cheats/MegaMan 2 - The Power Fighters Region Japan
+[Cheats/MegaMan 2 - The Power Fighters Region Japan]
 patch=1,EE,D121C754,extended,0000882D
 patch=1,EE,0129091E,extended,00000000
 
-//Cheats/MegaMan 2 - The Power Fighters Region USA
+[Cheats/MegaMan 2 - The Power Fighters Region USA]
 patch=1,EE,D121C754,extended,0000882D
 patch=1,EE,0129091E,extended,00000002
 
-//Cheats/MegaMan 2 - The Power Fighters Region Hispanic
+[Cheats/MegaMan 2 - The Power Fighters Region Hispanic]
 patch=1,EE,D121C754,extended,0000882D
 patch=1,EE,0129091E,extended,00000004
 
-//Cheats/Megaman 2 - The Power Fighters Infinite Health Player 1
+[Cheats/Megaman 2 - The Power Fighters Infinite Health Player 1]
 patch=1,EE,11290BE0,extended,00000020
 
-//Cheats/Megaman 2 - The Power Fighters 1 Hit Death Enemies
+[Cheats/Megaman 2 - The Power Fighters 1 Hit Death Enemies]
 patch=1,EE,112953E0,extended,00000000
 patch=1,EE,112954E0,extended,00000000
 patch=1,EE,112955E0,extended,00000000

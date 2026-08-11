@@ -1,11 +1,11 @@
 gametitle=Robots SLES-53052
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C2000,extended,46000046
 patch=1,EE,200C2004,extended,03E00008
 patch=1,EE,200C2008,extended,E44103D0
 patch=1,EE,201B4E40,extended,0C030800
 
-//Infinite Scrap
+[Infinite Scrap]
 patch=1,EE,200C2010,extended,2402270F
 patch=1,EE,200C2014,extended,03E00008
 patch=1,EE,200C2018,extended,AC820004

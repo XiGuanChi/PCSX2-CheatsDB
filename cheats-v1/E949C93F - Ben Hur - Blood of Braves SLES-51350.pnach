@@ -1,51 +1,51 @@
-//Cheats/All Characters Quick Magic Regen
+[Cheats/All Characters Quick Magic Regen]
 patch=1,EE,2A9B3BB2,extended,240300FF
 
-//Cheats/All Characters Infinite Health
+[Cheats/All Characters Infinite Health]
 patch=1,EE,2AFF37F9,extended,240300FF
 
-//Cheats/All Characters Never Exhausted Horse
+[Cheats/All Characters Never Exhausted Horse]
 patch=1,EE,2A033206,extended,00000000
 
-//Cheats/All Characters Infinite Energy Horse
+[Cheats/All Characters Infinite Energy Horse]
 patch=1,EE,2A94CCAF,extended,00000000
 
-//Cheats/This Code Must Always Be On This is the activator for the cheat codes below.
+[Cheats/This Code Must Always Be On This is the activator for the cheat codes below.]
 patch=1,EE,D05986E2,extended,0000FFFF
 patch=1,EE,20178AA4,extended,0805E2B6
 patch=1,EE,20178C68,extended,00000000
 
-//Cheats/Disable AI Press R3+Up to activate.
+[Cheats/Disable AI Press R3+Up to activate.]
 patch=1,EE,D05986E2,extended,0000FFEB
 patch=1,EE,20178AA4,extended,1000001C
 patch=1,EE,D05986E2,extended,0000FFEB
 patch=1,EE,20178CB0,extended,0805E3AA
 
-//Cheats/Restart AI Press L3+Down to activate.
+[Cheats/Restart AI Press L3+Down to activate.]
 patch=1,EE,D05986E2,extended,0000FFBD
 patch=1,EE,20178CB0,extended,0805E3CE
 patch=1,EE,D05986E2,extended,0000FFBD
 patch=1,EE,20178AA4,extended,1000001C
 
-//Cheats/Body Cheat Press R3+Down to activate.
+[Cheats/Body Cheat Press R3+Down to activate.]
 patch=1,EE,D05986E2,extended,0000FFBB
 patch=1,EE,20178CB0,extended,0805E36E
 patch=1,EE,D05986E2,extended,0000FFBB
 patch=1,EE,20178AA4,extended,1000001C
 
-//Cheats/Mana Cheat Press R3+Right to activate.
+[Cheats/Mana Cheat Press R3+Right to activate.]
 patch=1,EE,D05986E2,extended,0000FFDB
 patch=1,EE,20178CB0,extended,0805E34E
 patch=1,EE,D05986E2,extended,0000FFDB
 patch=1,EE,20178AA4,extended,1000001C
 
-//Cheats/Life Cheat Press R3+Left to activate.
+[Cheats/Life Cheat Press R3+Left to activate.]
 patch=1,EE,D05986E2,extended,0000FF7B
 patch=1,EE,20178CB0,extended,0805E32E
 patch=1,EE,D05986E2,extended,0000FF7B
 patch=1,EE,20178AA4,extended,1000001C
 
-//Cheats/End Of the Race Press L3+Up to activate.
+[Cheats/End Of the Race Press L3+Up to activate.]
 patch=1,EE,D05986E2,extended,0000FFED
 patch=1,EE,20178CB0,extended,0805E38A
 patch=1,EE,D05986E2,extended,0000FFED

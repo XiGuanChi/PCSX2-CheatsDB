@@ -1,116 +1,116 @@
 gametitle=Nobunaga's Ambition - Iron Triangle SLUS-21868
-//Base Codes Below codes will Affect your Cash/Food and your First town Always
-//Cash
+[Base Codes Below codes will Affect your Cash/Food and your First town Always]
+[Cash]
 patch=1,EE,200A0000,extended,3C12????
 patch=1,EE,200A0004,extended,36522410
 patch=1,EE,200A0008,extended,AC520014
 
-//Food
+[Food]
 patch=1,EE,200A000C,extended,3C122410
 patch=1,EE,200A0010,extended,36522410
 patch=1,EE,200A0014,extended,AC520018
 
-//Troops
+[Troops]
 patch=1,EE,200A0048,extended,3C112410
 patch=1,EE,200A004C,extended,36312410
 patch=1,EE,200A0050,extended,AE510020
 
-//Always 0 Injured
+[Always 0 Injured]
 patch=1,EE,200A0054,extended,AE400024
 
-//Horses
+[Horses]
 patch=1,EE,200A0058,extended,3C112410
 patch=1,EE,200A005C,extended,36312410
 patch=1,EE,200A0060,extended,AE51002C
 
-//Muskets
+[Muskets]
 patch=1,EE,200A0064,extended,3C112410
 patch=1,EE,200A0068,extended,36312410
 patch=1,EE,200A006C,extended,AE510030
 
-//Rams
+[Rams]
 patch=1,EE,200A0070,extended,3C112410
 patch=1,EE,200A0074,extended,36312410
 patch=1,EE,200A0078,extended,AE510034
 
-//Towers
+[Towers]
 patch=1,EE,200A007C,extended,3C112410
 patch=1,EE,200A0080,extended,36312410
 patch=1,EE,200A0084,extended,AE510038
 
-//Cannons
+[Cannons]
 patch=1,EE,200A0088,extended,3C112410
 patch=1,EE,200A008C,extended,36312410
 patch=1,EE,200A0090,extended,AE51003C
 
-//Boats
+[Boats]
 patch=1,EE,200A0094,extended,3C112410
 patch=1,EE,200A0098,extended,36312410
 patch=1,EE,200A009C,extended,AE510040
 
-//Warships
+[Warships]
 patch=1,EE,200A00A0,extended,3C112410
 patch=1,EE,200A00A4,extended,36312410
 patch=1,EE,200A00A8,extended,AE510044
 
-//BattleShips
+[BattleShips]
 patch=1,EE,200A00AC,extended,3C112410
 patch=1,EE,200A00B0,extended,36312410
 patch=1,EE,200A00B4,extended,AE510048
 
-//Always 100 Moral
+[Always 100 Moral]
 patch=1,EE,200A00B8,extended,24110064
 patch=1,EE,200A00BC,extended,AE51004C
 
-//Active City Codes Codes below will Affect the City you Have/Had Looked at only affects ones you own not enemys
-//Troops
+[Active City Codes Codes below will Affect the City you Have/Had Looked at only affects ones you own not enemys]
+[Troops]
 patch=1,EE,200A0144,extended,3C1F2410
 patch=1,EE,200A0148,extended,37FF2410
 patch=1,EE,200A014C,extended,AE1F0020
 
-//ALways 0 Injured
+[ALways 0 Injured]
 patch=1,EE,200A0150,extended,AE000024
 
-//Horses
+[Horses]
 patch=1,EE,200A0154,extended,3C1F2410
 patch=1,EE,200A0158,extended,37FF2410
 patch=1,EE,200A015C,extended,AE1F002C
 
-//Muskets
+[Muskets]
 patch=1,EE,200A0160,extended,3C1F2410
 patch=1,EE,200A0164,extended,37FF2410
 patch=1,EE,200A0168,extended,AE1F0030
 
-//Rams
+[Rams]
 patch=1,EE,200A016C,extended,3C1F2410
 patch=1,EE,200A0170,extended,37FF2410
 patch=1,EE,200A0174,extended,AE1F0034
 
-//Towers
+[Towers]
 patch=1,EE,200A0178,extended,3C1F2410
 patch=1,EE,200A017C,extended,37FF2410
 patch=1,EE,200A0180,extended,AE1F0038
 
-//Cannons
+[Cannons]
 patch=1,EE,200A0184,extended,3C1F2410
 patch=1,EE,200A0188,extended,37FF2410
 patch=1,EE,200A018C,extended,AE1F003C
 
-//Boats
+[Boats]
 patch=1,EE,200A0190,extended,3C1F2410
 patch=1,EE,200A0194,extended,37FF2410
 patch=1,EE,200A0198,extended,AE1F0040
 
-//Warships
+[Warships]
 patch=1,EE,200A019C,extended,3C1F2410
 patch=1,EE,200A01A0,extended,37FF2410
 patch=1,EE,200A01A4,extended,AE1F0044
 
-//Battleships
+[Battleships]
 patch=1,EE,200A01A8,extended,3C1F2410
 patch=1,EE,200A01AC,extended,37FF2410
 patch=1,EE,200A01B0,extended,AE1F0048
 
-//Always 100 Moral
+[Always 100 Moral]
 patch=1,EE,200A01B4,extended,241F0064
 patch=1,EE,200A01B8,extended,AE1F004C

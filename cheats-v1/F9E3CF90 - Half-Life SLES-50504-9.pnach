@@ -1,30 +1,30 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201C51BC,extended,3C014348
 patch=1,EE,201C51C4,extended,ACA10140
 
-//Cheats/Infinite Suit
+[Cheats/Infinite Suit]
 patch=1,EE,201CE248,extended,C4610190
 patch=1,EE,201CE250,extended,E461019C
 
-//Cheats/Invincibility
+[Cheats/Invincibility]
 patch=1,EE,2032ED34,extended,3F800000
 
-//Cheats/One Hit Kill
+[Cheats/One Hit Kill]
 patch=1,EE,20286D14,extended,AE0001F8
 
-//Cheats/Infinite Flash Lamp Battery
+[Cheats/Infinite Flash Lamp Battery]
 patch=1,EE,201CE49C,extended,00000000
 
-//Cheats/Never Reload With Max Clip
+[Cheats/Never Reload With Max Clip]
 patch=1,EE,202110DC,extended,24030063
 patch=1,EE,202110E4,extended,AE230078
 
-//Cheats/Max Infinite Ammo And Grenades
+[Cheats/Max Infinite Ammo And Grenades]
 patch=1,EE,201CDF00,extended,24030063
 
-//Cheats/Unlock Cheat Codes Infinite Ammo
+[Cheats/Unlock Cheat Codes Infinite Ammo]
 patch=1,EE,2032ED4C,extended,3F800000
 
-//Cheats/Enable Debug Console
+[Cheats/Enable Debug Console]
 patch=1,EE,00331918,extended,00000000
 

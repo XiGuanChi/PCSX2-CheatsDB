@@ -1,19 +1,19 @@
-//Cheats/Infinite & Max Health
+[Cheats/Infinite & Max Health]
 patch=1,EE,202E6F1C,extended,000003E7
 patch=1,EE,202E6F20,extended,000003E7
 
-//Cheats/Unlock All Stages
+[Cheats/Unlock All Stages]
 patch=1,EE,202E76BC,extended,FFFFFFFF
 
-//Cheats/Unlock All Weapons
+[Cheats/Unlock All Weapons]
 patch=1,EE,402E76D8,extended,00060001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Accessories
+[Cheats/Unlock All Accessories]
 patch=1,EE,402E7480,extended,00140001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,402E6BF0,extended,00070001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,202E7740,extended,00000001

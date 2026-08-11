@@ -1,14 +1,14 @@
-//Cheats/Max Pesetas
+[Cheats/Max Pesetas]
 patch=1,EE,2042DCEC,extended,0098967F
 
-//Cheats/Infinite Health Leon
+[Cheats/Infinite Health Leon]
 patch=1,EE,1042DCF6,extended,00000960
 patch=1,EE,1042DCF8,extended,00000960
 
-//Cheats/Infinite Ammo and No Reload
+[Cheats/Infinite Ammo and No Reload]
 patch=1,EE,2012020C,extended,24420000
 
-//Cheats/Infinite health Ashley
+[Cheats/Infinite health Ashley]
 patch=1,EE,201AE3C8,extended,8E215588
 patch=1,EE,201AE3CC,extended,84227EDC
 patch=1,EE,201C2A24,extended,00000000
@@ -17,30 +17,30 @@ patch=1,EE,201AE3D4,extended,A4227EDA
 patch=1,EE,D0451682,extended,0000F0FF
 patch=1,EE,201AE3D4,extended,A4207EDA
 
-//Cheats/Max Infinite Partners Hp
+[Cheats/Max Infinite Partners Hp]
 patch=1,EE,1042DCFA,extended,000004B0
 patch=1,EE,1042DCFC,extended,000004B0
 
-//Cheats/The Mercenaries
+[Cheats/The Mercenaries]
 patch=1,EE,010FB6F4,extended,00000002
 
-//Cheats/Movie Browser
+[Cheats/Movie Browser]
 patch=1,EE,010FB6F4,extended,00000003
 
-//Cheats/Adas report
+[Cheats/Adas report]
 patch=1,EE,010FB6F4,extended,00000004
 
-//Cheats/Seperate Ways
+[Cheats/Seperate Ways]
 patch=1,EE,010FB6F4,extended,00000000
 
-//Cheats/Assignment Ada
+[Cheats/Assignment Ada]
 patch=1,EE,010FB6F4,extended,00000001
 
-//Cheats/Unlock Extras Menu
+[Cheats/Unlock Extras Menu]
 patch=1,EE,204311E7,extended,00000080
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,104311E6,extended,0000FFFF
 
-//Cheats/Unlock All Characters The Mercenaries
+[Cheats/Unlock All Characters The Mercenaries]
 patch=1,EE,204311E7,extended,0000000F

@@ -1,34 +1,34 @@
 gametitle=Cabela's Dangerous Hunts 2 SLUS-21350
-//God Mode
+[God Mode]
 patch=1,EE,205EFE38,extended,00000001
 
-//Unlock All Missions
+[Unlock All Missions]
 patch=1,EE,20621F00,extended,00000010
 
-//Max Stumps Shot
+[Max Stumps Shot]
 patch=1,EE,20622088,extended,0000270F
 
-//Max Infinite Ammo
+[Max Infinite Ammo]
 patch=1,EE,204E9554,extended,240303E7
 
-//Never Reload
+[Never Reload]
 patch=1,EE,204E9640,extended,00000000
 
-//P1 Press L1+Right To Enable Idiot AI-Animals
+[P1 Press L1+Right To Enable Idiot AI-Animals]
 patch=1,EE,D05EBBC2,extended,0000FBDF
 patch=1,EE,20600D78,extended,00000001
 
-//P1 Press L1+Left To Enable Idiot AI-Animals
+[P1 Press L1+Left To Enable Idiot AI-Animals]
 patch=1,EE,D05EBBC2,extended,0000FB7F
 patch=1,EE,20600D78,extended,00000000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20621A70,extended,00000001
 
-//Game Statistics Always Low Time
+[Game Statistics Always Low Time]
 patch=1,EE,20621D98,extended,00000000
 patch=1,EE,20621DA0,extended,00000000
 patch=1,EE,20621DA8,extended,00000000
 
-//Max Animals Hunted
+[Max Animals Hunted]
 patch=1,EE,20621DF0,extended,05F5E0FF

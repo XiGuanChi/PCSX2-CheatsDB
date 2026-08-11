@@ -1,39 +1,39 @@
 gametitle=Demento SLPM-65913
-//Infinite Health Dog
+[Infinite Health Dog]
 patch=1,EE,216BF908,extended,00000064 
 
-//Dog Does not hit an attack
+[Dog Does not hit an attack]
 patch=1,EE,20164544,extended,00000000
 patch=1,EE,20195028,extended,00000000
 
-//Fiona Immediate recovery from fatigue
+[Fiona Immediate recovery from fatigue]
 patch=1,EE,2018112C,extended,AC60D5F4
 
-//Fiona Immediate recovery from damage one-shot death such as a gun
+[Fiona Immediate recovery from damage one-shot death such as a gun]
 patch=1,EE,201A22A8,extended,10000007
 patch=1,EE,201A22DC,extended,24040000
 
-//Fiona no enemy damage only one-shot death or fall due to a trap
+[Fiona no enemy damage only one-shot death or fall due to a trap]
 patch=1,EE,201A0394,extended,00000000
 patch=1,EE,2019FA1C,extended,00000000
 
-//Panic Immediate Recovery
+[Panic Immediate Recovery]
 patch=1,EE,202EF780,extended,2403FFFF
 patch=1,EE,202F0794,extended,AE20001C
 patch=1,EE,202F089C,extended,AE200004
 
-//Stand Still To Be Invisible L2 + up button to turn on effect L2 + down button to turn off
+[Stand Still To Be Invisible L2 + up button to turn on effect L2 + down button to turn off]
 patch=1,EE,201A2C24,extended,00000000
 patch=1,EE,D04F171C,extended,0000FEEF
 patch=1,EE,201A2BB4,extended,00000000
 patch=1,EE,D04F171C,extended,0000FEBF
 patch=1,EE,201A2BB4,extended,14430036
 
-//items 98 pieces
+[items 98 pieces]
 patch=1,EE,2025FDE8,extended,24030061
 patch=1,EE,2025FE50,extended,24420002
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,20487AA4,extended,FFFFFFFF
 patch=1,EE,20487AA8,extended,FFFFFFFF
 patch=1,EE,20487AAC,extended,FFFFFFFF

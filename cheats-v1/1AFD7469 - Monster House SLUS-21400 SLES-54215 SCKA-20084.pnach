@@ -1,29 +1,29 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,21382738,extended,00000063
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,E002F02D,extended,01397DB8
 patch=1,EE,21397DE0,extended,C4400004
 patch=1,EE,21397DE8,extended,E4400008
 
-//Cheats/Infinite Water
+[Cheats/Infinite Water]
 patch=1,EE,D10DB2E5,extended,0000802D
 patch=1,EE,210DB2F0,extended,00000000
 
-//Cheats/Max Score
+[Cheats/Max Score]
 patch=1,EE,2138273C,extended,05F5E0FF
 
-//Cheats/Thou Art Dead Codes Infinite Credits
+[Cheats/Thou Art Dead Codes Infinite Credits]
 patch=1,EE,2088F424,extended,00000063
 
-//Cheats/Unlock All Replay Chapters
+[Cheats/Unlock All Replay Chapters]
 patch=1,EE,2088F4A0,extended,00000008
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,4088F3A4,extended,00200001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Re-enable Debug Options in Main Menu and Pause Menu move the menu cursor to the very bottom option while in these menus.
+[Cheats/Re-enable Debug Options in Main Menu and Pause Menu move the menu cursor to the very bottom option while in these menus.]
 patch=1,EE,D185A304,extended,00000006
 patch=1,EE,1185A304,extended,00000007
 patch=1,EE,D113B18C,extended,00000004

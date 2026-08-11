@@ -1,11 +1,11 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,00310758,extended,00000005
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=0,EE,00213884,word,00000000
 
-//Cheats/Infinite Bombs
+[Cheats/Infinite Bombs]
 patch=1,EE,0031075C,extended,00000005
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,0033D96C,extended,00000037

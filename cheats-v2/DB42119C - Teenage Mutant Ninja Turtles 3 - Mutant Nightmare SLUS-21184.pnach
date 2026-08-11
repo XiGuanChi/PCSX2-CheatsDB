@@ -1,18 +1,18 @@
 gametitle=Teenage Mutant Ninja Turtles 3 - Mutant Nightmare SLUS-21184
-//Infinite Health All (Most Levels)
+[Infinite Health All (Most Levels)]
 patch=1,EE,202E0544,extended,8C820008
 
-//Infinite Shuriken
+[Infinite Shuriken]
 patch=1,EE,202E04D4,extended,8C820010
 
-//Infinite Upgrade Points
+[Infinite Upgrade Points]
 patch=1,EE,2091CA44,extended,000F423F
 
-//Unlock Challenge Mode
+[Unlock Challenge Mode]
 patch=1,EE,0091CA63,extended,00000001
 
-//Unlock Movie Viewer
+[Unlock Movie Viewer]
 patch=1,EE,0091CA64,extended,00000001
 
-//Unlock Arcade Mode
+[Unlock Arcade Mode]
 patch=1,EE,0091CA65,extended,00000001

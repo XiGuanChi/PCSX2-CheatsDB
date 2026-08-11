@@ -1,24 +1,24 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFE00,extended,3C0142C8
 patch=1,EE,200FFE0C,extended,AE210098
 patch=1,EE,200FFE10,extended,AE21002C
 patch=1,EE,200FFE14,extended,03E00008
 patch=1,EE,2021F4F0,extended,0C03FF80
 
-//Cheats/Infinite Lore
+[Cheats/Infinite Lore]
 patch=1,EE,200FFE00,extended,3C0142C8
 patch=1,EE,200FFE04,extended,AE2100A0
 patch=1,EE,200FFE08,extended,AE2100A4
 patch=1,EE,200FFE14,extended,03E00008
 patch=1,EE,2021F4F0,extended,0C03FF80
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,202A5C78,extended,00000000
 
-//Cheats/Infinite Reload
+[Cheats/Infinite Reload]
 patch=1,EE,202A7944,extended,00000000
 
-//Cheats/Infinite Blood Shield
+[Cheats/Infinite Blood Shield]
 patch=1,EE,200C0240,extended,8C81000C
 patch=1,EE,200C0244,extended,8C210090
 patch=1,EE,200C0248,extended,30210006
@@ -29,66 +29,66 @@ patch=1,EE,200C0258,extended,08087A55
 patch=1,EE,200C025C,extended,C48000A0
 patch=1,EE,2021E950,extended,08030090
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,202A7948,extended,00000000
 
-//Cheats/Infinite Blood Bar
+[Cheats/Infinite Blood Bar]
 patch=1,EE,2021F684,extended,00000000
 
-//Cheats/Infinite Power Usage press Right+Select=ON Left+Select=OFF
+[Cheats/Infinite Power Usage press Right+Select=ON Left+Select=OFF]
 patch=1,EE,D073E182,extended,0000FFDE
 patch=1,EE,202693A8,extended,00000000
 patch=1,EE,D073E182,extended,0000FF7E
 patch=1,EE,202693A8,extended,E60100FC
 patch=1,EE,202A7944,extended,00000000
 
-//Cheats/Level Modifiers Canyon Shoot - Ride Like The Devil
+[Cheats/Level Modifiers Canyon Shoot - Ride Like The Devil]
 patch=0,EE,20320908,extended,24040001
 
-//Cheats/Level Modifiers Cemetery - Boneyard
+[Cheats/Level Modifiers Cemetery - Boneyard]
 patch=0,EE,20320908,extended,24040002
 
-//Cheats/Level Modifiers Devil's Belly Mine
+[Cheats/Level Modifiers Devil's Belly Mine]
 patch=0,EE,20320908,extended,24040003
 
-//Cheats/Level Modifiers Darkwatch Outpost
+[Cheats/Level Modifiers Darkwatch Outpost]
 patch=0,EE,20320908,extended,24040004
 
-//Cheats/Level Modifiers War Train
+[Cheats/Level Modifiers War Train]
 patch=0,EE,20320908,extended,24040005
 
-//Cheats/Level Modifiers Torture Maze
+[Cheats/Level Modifiers Torture Maze]
 patch=0,EE,20320908,extended,24040006
 
-//Cheats/Level Modifiers Trading Post - Baptism Of Fire
+[Cheats/Level Modifiers Trading Post - Baptism Of Fire]
 patch=0,EE,20320908,extended,24040007
 
-//Cheats/Level Modifiers Citadel
+[Cheats/Level Modifiers Citadel]
 patch=0,EE,20320908,extended,24040008
 
-//Cheats/Level Modifiers Regulator - Rescue
+[Cheats/Level Modifiers Regulator - Rescue]
 patch=0,EE,20320908,extended,2404000A
 
-//Cheats/Level Modifiers Splitting Paths - The Deadlight Prism
+[Cheats/Level Modifiers Splitting Paths - The Deadlight Prism]
 patch=0,EE,20320908,extended,24040009
 
-//Cheats/Level Modifiers Invasion
+[Cheats/Level Modifiers Invasion]
 patch=0,EE,20320908,extended,2404000B
 
-//Cheats/Level Modifiers Hangtown
+[Cheats/Level Modifiers Hangtown]
 patch=0,EE,20320908,extended,2404000C
 
-//Cheats/Level Modifiers Citadel Under Attack - The Morning After
+[Cheats/Level Modifiers Citadel Under Attack - The Morning After]
 patch=0,EE,20320908,extended,2404000D
 
-//Cheats/Level Modifiers Fall Of Citadel - Showdown
+[Cheats/Level Modifiers Fall Of Citadel - Showdown]
 patch=0,EE,20320908,extended,2404000E
 
-//Cheats/Level Modifiers Ride To Deadfall - The Right Train
+[Cheats/Level Modifiers Ride To Deadfall - The Right Train]
 patch=0,EE,20320908,extended,2404000F
 
-//Cheats/Level Modifiers Penetrating Deadfall - Deadfall
+[Cheats/Level Modifiers Penetrating Deadfall - Deadfall]
 patch=0,EE,20320908,extended,24040010
 
-//Cheats/Level Modifiers Ground Zero - Curse Of The West
+[Cheats/Level Modifiers Ground Zero - Curse Of The West]
 patch=1,EE,20320908,extended,24040011

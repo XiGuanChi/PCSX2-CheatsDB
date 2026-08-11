@@ -1,8 +1,8 @@
 gametitle=Spy Hunter 2 SLES-51841
-//Infinite Ammo And Invincible
+[Infinite Ammo And Invincible]
 patch=1,EE,0042071A,extended,00000018
 
-//All Levels Open
+[All Levels Open]
 patch=1,EE,20420CC4,extended,03010000
 patch=1,EE,20420CC8,extended,13011307
 patch=1,EE,20420CCC,extended,17011103

@@ -1,10 +1,10 @@
-//Cheats/Infinite Points
+[Cheats/Infinite Points]
 patch=1,EE,205281E0,extended,05F5E0FF
 
-//Cheats/Infinite Power Shots
+[Cheats/Infinite Power Shots]
 patch=1,EE,20528010,extended,00000009
 
-//Cheats/Always Hole In One
+[Cheats/Always Hole In One]
 patch=1,EE,2051E80C,extended,00000001
 patch=1,EE,2051E834,extended,00000001
 patch=1,EE,2051E85C,extended,00000001
@@ -24,17 +24,17 @@ patch=1,EE,2051EA64,extended,00000001
 patch=1,EE,2051EA8C,extended,00000001
 patch=1,EE,2051EAB4,extended,00000001
 
-//Cheats/Unlock All balls
+[Cheats/Unlock All balls]
 patch=1,EE,20528230,extended,05050505
 patch=1,EE,20528234,extended,05050505
 
-//Cheats/Unlock All Capsules
+[Cheats/Unlock All Capsules]
 patch=1,EE,005281FD,extended,00000005
 patch=1,EE,105281FE,extended,00000505
 patch=1,EE,20528200,extended,05050505
 patch=1,EE,20528204,extended,05050505
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,20528280,extended,02020202
 patch=1,EE,20528284,extended,02020202
 patch=1,EE,20528288,extended,02020202
@@ -42,7 +42,7 @@ patch=1,EE,2052828C,extended,02020202
 patch=1,EE,20528290,extended,02020202
 patch=1,EE,20528294,extended,02020202
 
-//Cheats/Unlock All Clubs
+[Cheats/Unlock All Clubs]
 patch=1,EE,20528228,extended,01010101
 patch=1,EE,1052822C,extended,00000101
 patch=1,EE,0052822E,extended,00000001
@@ -57,13 +57,13 @@ patch=1,EE,205281F4,extended,05050505
 patch=1,EE,205281F8,extended,05050505
 patch=1,EE,005281FC,extended,00000005
 
-//Cheats/Unlock All Courses
+[Cheats/Unlock All Courses]
 patch=1,EE,20528238,extended,05050505
 patch=1,EE,2052823C,extended,05050505
 patch=1,EE,20528240,extended,05050505
 patch=1,EE,005281E4,extended,00000005
 
-//Cheats/Unlock All Others
+[Cheats/Unlock All Others]
 patch=1,EE,20528208,extended,05050505
 patch=1,EE,2052820C,extended,05050505
 patch=1,EE,20528210,extended,05050505

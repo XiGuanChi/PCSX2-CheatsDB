@@ -1,13 +1,13 @@
-//Cheats/Max Gauge
+[Cheats/Max Gauge]
 patch=1,EE,201384BC,extended,24010000
 
-//Cheats/Play Song Play Count 9999
+[Cheats/Play Song Play Count 9999]
 patch=1,EE,2017E944,extended,2403270F
 
-//Cheats/Unlock Hidden Song
+[Cheats/Unlock Hidden Song]
 patch=1,EE,21491800,extended,00FFFFFF
 
-//Cheats/Unlock All Gallery Including different colors of A, AA, and day of the week results
+[Cheats/Unlock All Gallery Including different colors of A, AA, and day of the week results]
 patch=1,EE,21491ACC,extended,FFFFFFFF
 patch=1,EE,21491AD0,extended,FFFFFFFF
 patch=1,EE,21491AE4,extended,000FFFFF

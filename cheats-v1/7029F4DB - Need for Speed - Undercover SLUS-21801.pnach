@@ -1,24 +1,24 @@
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,200A0018,extended,3C0205F5
 patch=1,EE,200A001C,extended,3442E0FF
 patch=1,EE,200A0020,extended,AC22004C
 
-//Cheats/High Rank
+[Cheats/High Rank]
 patch=1,EE,200A0018,extended,3C0205F5
 patch=1,EE,200A001C,extended,3442E0FF
 patch=1,EE,200A0024,extended,AC220050
 
-//Cheats/Infinite NOS Usage
+[Cheats/Infinite NOS Usage]
 patch=1,EE,20416178,extended,00000000
 
-//Cheats/Freeze Timer
+[Cheats/Freeze Timer]
 patch=1,EE,20459B2C,extended,00000000
 
-//Cheats/Infinite Speedbreaker
+[Cheats/Infinite Speedbreaker]
 patch=1,EE,2045B6F8,extended,00000000
 
-//Cheats/Unlock All Parts, Cars, Races and Challenges not saveable
+[Cheats/Unlock All Parts, Cars, Races and Challenges not saveable]
 patch=1,EE,00690594,extended,00000001
 
-//Cheats/Idiot Racer AI
+[Cheats/Idiot Racer AI]
 patch=0,EE,20148E7C,extended,1000000D

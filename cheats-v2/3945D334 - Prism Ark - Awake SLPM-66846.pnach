@@ -1,20 +1,20 @@
 gametitle=Prism Ark - Awake SLPM-66846
-//Infinite & Max HP
+[Infinite & Max HP]
 patch=1,EE,203E3E20,extended,000003E7
 patch=1,EE,203E3E2C,extended,000003E7
 
-//Infinite & Max HP - 2nd Character (Priecia)
+[Infinite & Max HP - 2nd Character (Priecia)]
 patch=1,EE,203E8C80,extended,000003E7
 patch=1,EE,203E8C8C,extended,000003E7
 
-//Appearance of SpecialBonus & Playing Data
+[Appearance of SpecialBonus & Playing Data]
 patch=1,EE,202F27D0,extended,00000001
 
-//ART GALLERY fully open
+[ART GALLERY fully open]
 patch=1,EE,402F2938,extended,000B0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//ENDING INFO & SPECIAL MESSAGE fully open
+[ENDING INFO & SPECIAL MESSAGE fully open]
 patch=1,EE,402F27D4,extended,00090001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,402F289C,extended,00080001
@@ -24,40 +24,40 @@ patch=1,EE,202F2774,extended,00000001
 patch=1,EE,202F2780,extended,00000001
 patch=1,EE,202F2788,extended,00000001
 
-//Battle part Obtain all prisms at the start (reflect save)
+[Battle part Obtain all prisms at the start (reflect save)]
 patch=1,EE,201A046C,extended,240F0001
 patch=1,EE,201A0470,extended,ADCF0000
 
-//All prisms can be equipped (save not reflected)
+[All prisms can be equipped (save not reflected)]
 patch=1,EE,201B0D38,extended,240F0001
 patch=1,EE,201B0D3C,extended,A62F0000
 
-//Maximum level when you get experience points
+[Maximum level when you get experience points]
 patch=1,EE,201CD8B0,extended,00000000
 
-//Maximum experience value Hayaway
+[Maximum experience value Hayaway]
 patch=1,EE,202F2B18,extended,000F423F
 
-//Priecia
+[Priecia]
 patch=1,EE,202F2B1C,extended,000F423F
 
-//Kagura
+[Kagura]
 patch=1,EE,202F2B20,extended,000F423F
 
-//Fel
+[Fel]
 patch=1,EE,202F2B24,extended,000F423F
 
-//Flower bell
+[Flower bell]
 patch=1,EE,202F2B28,extended,000F423F
 
-//Theresa
+[Theresa]
 patch=1,EE,202F2B2C,extended,000F423F
 
-//Litte
+[Litte]
 patch=1,EE,202F2B30,extended,000F423F
 
-//Philia
+[Philia]
 patch=1,EE,202F2B34,extended,000F423F
 
-//Lur
+[Lur]
 patch=1,EE,202F2B38,extended,000F423F

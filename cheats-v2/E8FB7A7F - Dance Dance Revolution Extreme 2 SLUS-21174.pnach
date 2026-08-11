@@ -1,21 +1,21 @@
 gametitle=Dance Dance Revolution Extreme 2 SLUS-21174
-//Unlock All Songs
+[Unlock All Songs]
 patch=1,EE,20347FC0,extended,FFFFFFFF
 patch=1,EE,20347FC4,extended,FFFFFFFF
 
-//Unlock All CharactersF5DDCB7C A441C946
+[Unlock All CharactersF5DDCB7C A441C946]
 patch=1,EE,20347FCC,extended,FFFFFFFF
 
-//Have All Shop Items Available For Purchase
+[Have All Shop Items Available For Purchase]
 patch=1,EE,40347FA0,extended,00080001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Max Shop Points
+[Max Shop Points]
 patch=1,EE,203657CC,extended,3B9AC9FF
 
-//Max Meter P1
+[Max Meter P1]
 patch=1,EE,10644952,extended,000003E8
 
-//All Lessons-All Sections Completed
+[All Lessons-All Sections Completed]
 patch=1,EE,4034593C,extended,00060001
 patch=1,EE,02020202,extended,00000000

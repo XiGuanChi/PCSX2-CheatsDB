@@ -1,16 +1,16 @@
-//Cheats/P1 Only Has Finisher
+[Cheats/P1 Only Has Finisher]
 patch=1,EE,200FFF20,extended,081352F0
 patch=1,EE,2028C158,extended,0C03FFC0
 patch=1,EE,200FFF00,extended,14110002
 patch=1,EE,200FFF04,extended,3C013F80
 patch=1,EE,200FFF08,extended,AC810088
 
-//Cheats/Career Max Stats
+[Cheats/Career Max Stats]
 patch=1,EE,2036C9F4,extended,3C016363
 patch=1,EE,2036C9F8,extended,34216363
 patch=1,EE,2036C9FC,extended,AC410000
 patch=1,EE,2036CA00,extended,AC410004
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,201D5A78,extended,24020001
 patch=1,EE,201D5A7C,extended,24020001

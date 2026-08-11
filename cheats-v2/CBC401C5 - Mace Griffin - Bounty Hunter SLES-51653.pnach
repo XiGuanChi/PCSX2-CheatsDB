@@ -1,23 +1,23 @@
 gametitle=Mace Griffin - Bounty Hunter SLES-51653
-//Infinite Health (Ship)
+[Infinite Health (Ship)]
 patch=1,EE,20CD3774,extended,45FA0000
 
-//God Mode
+[God Mode]
 patch=1,EE,0013359C,extended,00000001
 
-//infinite Ammunition
+[infinite Ammunition]
 patch=1,EE,203458F0,extended,340303E7
 patch=1,EE,203458F4,extended,AE03018C
 
-//infinite Secondary Ammunition
+[infinite Secondary Ammunition]
 patch=1,EE,20345940,extended,341103E7
 patch=1,EE,20345944,extended,AE110198
 
-//infinite Ship Armour
+[infinite Ship Armour]
 patch=1,EE,200C0024,extended,C4800200
 
-//infinite Ship Missiles & Lasers
+[infinite Ship Missiles & Lasers]
 patch=1,EE,2031063C,extended,340303E8
 
-//Enable Level Select (Press Square on menu)
+[Enable Level Select (Press Square on menu)]
 patch=1,EE,20133598,extended,00000001

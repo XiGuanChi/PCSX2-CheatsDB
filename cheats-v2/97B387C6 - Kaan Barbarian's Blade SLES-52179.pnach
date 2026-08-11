@@ -1,8 +1,8 @@
 gametitle=Kaan Barbarian's Blade SLES-52179
-//Infinite Health
+[Infinite Health]
 patch=1,EE,6066F3A4,extended,43400000
 patch=1,EE,00020000,extended,0000022C
 
-//Infinite Power
+[Infinite Power]
 patch=1,EE,6066F3A4,extended,42C80000
 patch=1,EE,00020000,extended,0000052C

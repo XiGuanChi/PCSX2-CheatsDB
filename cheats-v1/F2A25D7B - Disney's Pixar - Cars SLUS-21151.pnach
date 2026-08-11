@@ -1,10 +1,10 @@
-//Cheats/Infinite Boost
+[Cheats/Infinite Boost]
 patch=1,EE,202261DC,extended,00000000
 
-//Cheats/Max Points
+[Cheats/Max Points]
 patch=1,EE,208150AC,extended,05F5E0FF
 
-//Cheats/Start On Lap 3
+[Cheats/Start On Lap 3]
 patch=1,EE,200C0220,extended,8CA1003C
 patch=1,EE,200C0224,extended,50200001
 patch=1,EE,200C0228,extended,24010002
@@ -13,34 +13,34 @@ patch=1,EE,200C0230,extended,03E00008
 patch=1,EE,200C0234,extended,C4A2003C
 patch=1,EE,20389B6C,extended,0C030088
 
-//Cheats/All Cars Have Boost
+[Cheats/All Cars Have Boost]
 patch=1,EE,20225940,extended,24020001
 patch=1,EE,20225948,extended,AE020098
 
-//Cheats/Activate Cheat Unlock All Cars
+[Cheats/Activate Cheat Unlock All Cars]
 patch=1,EE,2052BEB0,extended,00000002
 
-//Cheats/Activate Cheat Fast Start
+[Cheats/Activate Cheat Fast Start]
 patch=1,EE,2052BEB0,extended,00000004
 
-//Cheats/Activate Cheat Unlock All Tracks
+[Cheats/Activate Cheat Unlock All Tracks]
 patch=1,EE,2052BEB0,extended,00000008
 
-//Cheats/Activate Cheat Unlock Everything
+[Cheats/Activate Cheat Unlock Everything]
 patch=1,EE,2052BEB1,extended,00000080
 
-//Cheats/Activate Cheat Infinite Boost
+[Cheats/Activate Cheat Infinite Boost]
 patch=1,EE,2052BEB2,extended,00000020
 
-//Cheats/Activate Cheat Unlock Master's Speedy Circuit And Countdown Cleanup
+[Cheats/Activate Cheat Unlock Master's Speedy Circuit And Countdown Cleanup]
 patch=1,EE,2052BEB2,extended,00000040
 
-//Cheats/Activate Cheat Unlock All Concept Art
+[Cheats/Activate Cheat Unlock All Concept Art]
 patch=1,EE,2052BEB2,extended,00000080
 
-//Cheats/Activate Cheat Unlock All Movies
+[Cheats/Activate Cheat Unlock All Movies]
 patch=1,EE,2052BEB3,extended,00000001
 
-//Cheats/Activate Cheat Unlock All Character Skins
+[Cheats/Activate Cheat Unlock All Character Skins]
 patch=1,EE,2052BEB3,extended,00000002
 

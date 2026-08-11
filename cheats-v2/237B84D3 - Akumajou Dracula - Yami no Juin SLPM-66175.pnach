@@ -1,23 +1,23 @@
 gametitle=Akumajou Dracula - Yami no Juin SLPM-66175
-//Max Gold
+[Max Gold]
 patch=1,EE,20AF8014,extended,05F5E0FF
 
-//Infinite HP
+[Infinite HP]
 patch=1,EE,20AF0DE4,extended,000003E7
 patch=1,EE,20AF0DE8,extended,000003E7
 
-//Max Money 
+[Max Money]
 patch=1,EE,20AF9314,extended,0098967F
 
-//Experience value Max (LV99)
+[Experience value Max (LV99)]
 patch=1,EE,20AF0DDC,extended,0098967F
 
-//Baby Fairy EXP Max (LV99)
+[Baby Fairy EXP Max (LV99)]
 patch=1,EE,20AF1014,extended,0098967F
 
-//Baby Fairy's Crystal All 99
+[Baby Fairy's Crystal All 99]
 patch=1,EE,40AF10AC,extended,00050001
 patch=1,EE,00000063,extended,00000000
 
-//Magmado EXP Max (LV99)
+[Magmado EXP Max (LV99)]
 patch=1,EE,20AF124C,extended,0098967F

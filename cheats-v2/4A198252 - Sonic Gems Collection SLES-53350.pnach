@@ -1,96 +1,96 @@
 gametitle=Sonic Gems Collection SLES-53350
-//Sonic Drift Racing Have 99 Rings
+[Sonic Drift Racing Have 99 Rings]
 patch=1,EE,00987A43,extended,00000063
 
-//Sonic Spinball Infinite Lives
+[Sonic Spinball Infinite Lives]
 patch=1,EE,00987796,extended,00000009
 
-//Sonic Spinball Infinite Continues
+[Sonic Spinball Infinite Continues]
 patch=1,EE,0098779B,extended,00000009
 
-//Sonic Spinball Have 99 Rings
+[Sonic Spinball Have 99 Rings]
 patch=1,EE,009879AF,extended,00000099
 
-//Sonic Triple Trouble Codes
-//Infinite Lives
+[Sonic Triple Trouble Codes]
+[Infinite Lives]
 patch=1,EE,00986EC0,extended,00000009
 
-//Infinite Rings
+[Infinite Rings]
 patch=1,EE,00986ED9,extended,00000098
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,00986EDD,extended,00000000
 
-//Sonic The Hedgehog 2 Infinite Lives
+[Sonic The Hedgehog 2 Infinite Lives]
 patch=1,EE,00987018,extended,00000009
 
-//Sonic Triple Trouble Infinite Lives
+[Sonic Triple Trouble Infinite Lives]
 patch=1,EE,00986EC0,extended,00000009
 
-//Tails Adventures Have 9 Health Rings
+[Tails Adventures Have 9 Health Rings]
 patch=1,EE,009872A6,extended,00000009
 
-//Tails Skypatrol Infinite Lives
+[Tails Skypatrol Infinite Lives]
 patch=1,EE,00987515,extended,00000063
 
-//99 Crystals
+[99 Crystals]
 patch=1,EE,00987517,extended,00000099
 
-//Infinite Fuel
+[Infinite Fuel]
 patch=1,EE,0098750E,extended,00000020
 
-//Unlock Vectorman
+[Unlock Vectorman]
 patch=1,EE,01FC5D68,extended,00000001
 
-//Press A for Debug Menu (Options) (ABC Mode)
+[Press A for Debug Menu (Options) (ABC Mode)]
 patch=1,EE,D1FC5C54,extended,00000009
 patch=1,EE,00FCC668,extended,00000008
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,00FCC650,extended,00003B04
-//Invincible
+[Invincible]
 patch=1,EE,00FCC22C,extended,0000001F
-//Max/Infinite Health
+[Max/Infinite Health]
 patch=1,EE,00FCC639,extended,0000000B
-//Infinite Ammo (All Weapons)
+[Infinite Ammo (All Weapons)]
 patch=1,EE,00FCC647,extended,00000078
 
-//Rapid Fire (All Weapons)
+[Rapid Fire (All Weapons)]
 patch=1,EE,00FCC150,extended,000000FF
 
-//Unlock Vectorman 2
+[Unlock Vectorman 2]
 patch=1,EE,01FC5D6C,extended,00000001
 
-//Max/Infinite Health
+[Max/Infinite Health]
 patch=1,EE,00FCC77B,extended,0000000B
 
-//Press Down for Level Select (ABC Mode)
+[Press Down for Level Select (ABC Mode)]
 patch=1,EE,D1FC5C54,extended,0000000A
 patch=1,EE,00FCCAC3,extended,00000008
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,00FCC792,extended,00003B04
 
-//Invincible
+[Invincible]
 patch=1,EE,00FCC36A,extended,00000024
 
-//Infinite Ammo (All Weapons)
+[Infinite Ammo (All Weapons)]
 patch=1,EE,00FCC789,extended,00000064
 
-//Rapid Fire (All Weapons)
+[Rapid Fire (All Weapons)]
 patch=1,EE,00FCC28E,extended,000000FF
 
-//Sonic The Hedgehog 2 Codes (GG Version)
-//Infinite Rings
+[Sonic The Hedgehog 2 Codes (GG Version)]
+[Infinite Rings]
 patch=1,EE,00987019,extended,00000063
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,00987018,extended,00000009
 
-//Better Invincibility
+[Better Invincibility]
 patch=1,EE,00987129,extended,00000015
 
-//Keeps Time At Zero
+[Keeps Time At Zero]
 patch=1,EE,00987039,extended,00000000
 patch=1,EE,0098703A,extended,00000000
 

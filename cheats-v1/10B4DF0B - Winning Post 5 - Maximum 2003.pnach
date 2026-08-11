@@ -1,41 +1,41 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,21096200,extended,0098967F
 
-//Cheats/Max Fame 60000
+[Cheats/Max Fame 60000]
 patch=1,EE,111F86C4,extended,0000EA60
 
-//Cheats/UCareer Victory Number 99999 Winsnlock
+[Cheats/UCareer Victory Number 99999 Winsnlock]
 patch=1,EE,211F86C8,extended,0001869F
 
-//Cheats/G1 Victory Number 255 Wins
+[Cheats/G1 Victory Number 255 Wins]
 patch=1,EE,011F86C0,extended,000000FF
 
-//Cheats/Max Acquisition Funds
+[Cheats/Max Acquisition Funds]
 patch=1,EE,211F86CC,extended,0098967F
 patch=1,EE,211F86D0,extended,0098967F
 
-//Cheats/Ranch expansion creating period 1 week
+[Cheats/Ranch expansion creating period 1 week]
 patch=1,EE,01096298,extended,0000001F
 
-//Cheats/Ranch construction period: 1 week
+[Cheats/Ranch construction period: 1 week]
 patch=1,EE,2029B270,extended,24040001
   
-//Cheats/Overseas Breeding Stallions available for breeding
+[Cheats/Overseas Breeding Stallions available for breeding]
 patch=1,EE,201384CC,extended,24020001
  
-//Cheats/Insemination is possible even if the book is full
+[Cheats/Insemination is possible even if the book is full]
 patch=1,EE,20289EC0,extended,1000000D
 patch=1,EE,20289BA0,extended,10000007
 patch=1,EE,2028B260,extended,1000000D
 
-//Cheats/You can also buy mares from overseas all from Meiji Farm
+[Cheats/You can also buy mares from overseas all from Meiji Farm]
 patch=1,EE,202791C4,extended,24020000
 
-//Cheats/Mares that cannot be purchased are now available for purchase
+[Cheats/Mares that cannot be purchased are now available for purchase]
 patch=1,EE,202A8A58,extended,10000010
 patch=1,EE,202A8AA8,extended,17E00010
 
-//Cheats/Fatigue 0
+[Cheats/Fatigue 0]
 patch=1,EE,E003FFFB,extended,00B07502
 patch=1,EE,201450A0,extended,0C09E478
 patch=1,EE,20145530,extended,0C09E478
@@ -54,5 +54,5 @@ patch=1,EE,200F0058,extended,A0800000
 patch=1,EE,200F005C,extended,0809E478
 patch=1,EE,200F0060,extended,00000000
 
-//Cheats/Win Medals from the list of major prizes by week
+[Cheats/Win Medals from the list of major prizes by week]
 patch=1,EE,20318AF4,extended,13E00075

@@ -1,13 +1,13 @@
 gametitle=The Urbz - Sims in the City SLES-52908
-//Buy 1 Item For 999,999 Cash
+[Buy 1 Item For 999,999 Cash]
 patch=1,EE,202D763C,extended,3C05000F
 patch=1,EE,202D764C,extended,24A5423F
 
-//Have All Objects In Inventory
+[Have All Objects In Inventory]
 patch=1,EE,204C5C8C,extended,00000001
 
-//Have All Skins And Ringtones In XAM
+[Have All Skins And Ringtones In XAM]
 patch=1,EE,204C5C90,extended,00000001
 
-//All Interactions Need Items Are Available
+[All Interactions Need Items Are Available]
 patch=1,EE,204C5CB0,extended,00000001

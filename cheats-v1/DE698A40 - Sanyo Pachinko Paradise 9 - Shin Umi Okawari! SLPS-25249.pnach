@@ -1,10 +1,10 @@
-//Cheats/Max Trick Gauge
+[Cheats/Max Trick Gauge]
 patch=1,EE,206568BC,extended,0BB80BB8
 
-//Cheats/Full Patchoul Cloud
+[Cheats/Full Patchoul Cloud]
 patch=1,EE,2059C16C,extended,00000005
 
-//Cheats/Hold START at Press Start Screen for Debug Menu All of the options here send you to menu screens and game modes.
+[Cheats/Hold START at Press Start Screen for Debug Menu All of the options here send you to menu screens and game modes.]
 patch=1,EE,D0714FC2,extended,0000FFF7
 patch=1,EE,0010D618,extended,0000000B
 patch=1,EE,D0714FC2,extended,0000FFFF

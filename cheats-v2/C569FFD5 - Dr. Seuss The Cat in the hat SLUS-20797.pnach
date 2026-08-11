@@ -1,13 +1,13 @@
 gametitle=Dr. Seuss The Cat in the hat SLUS-20797
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,1082222C,extended,00000909
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,1082222E,extended,00000404
 
-//Invincible
+[Invincible]
 patch=1,EE,1010C682,extended,00001000
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,D0D8DA70,extended,000007C8
 patch=1,EE,20D8DA7C,extended,24030001

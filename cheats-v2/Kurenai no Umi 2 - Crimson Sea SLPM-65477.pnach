@@ -1,25 +1,25 @@
 gametitle=Kurenai no Umi 2 - Crimson Sea SLPM-65477
-//MAX money
-//070EE30 000F423F
+[MAX money]
+[070EE30 000F423F]
 patch=1,EE,2074C578,extended,000F423F
 
-//ORIGIN MAX 
+[ORIGIN MAX]
 patch=1,EE,2074C580,extended,0000270F
 
-//Small Experience value MAX 
+[Small Experience value MAX]
 patch=1,EE,2074C524,extended,000F423F
 
-//Modified code that does not reduce HP gauge
+[Modified code that does not reduce HP gauge]
 patch=1,EE,1074C52A,extended,000003E8
 
-//NP gauge MAX 
+[NP gauge MAX]
 patch=1,EE,1074C52C,extended,000003E8
 
-//Dauphine Experience value MAX 
+[Dauphine Experience value MAX]
 patch=1,EE,2074C568,extended,000F423F
 
-//does not reduce HP gauge
+[does not reduce HP gauge]
 patch=1,EE,1074C56E,extended,000003E8
 
-//NP gauge MAX 
+[NP gauge MAX]
 patch=1,EE,1074C570,extended,000003E8

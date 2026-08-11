@@ -1,20 +1,20 @@
 gametitle=Gundam Battle Assault 3 Featuring Gundam Seed SLUS-20929
-//Infinite AMR P1
+[Infinite AMR P1]
 patch=1,EE,20308B04,extended,43FA0000
 
-//Infinite BA P1
+[Infinite BA P1]
 patch=1,EE,20308B00,extended,43FA0000
 
-//Infinite Power Gauge P1
+[Infinite Power Gauge P1]
 patch=1,EE,20308B08,extended,447A0000
 
-//Infinite Skill Shields P1
+[Infinite Skill Shields P1]
 patch=1,EE,20308B0C,extended,00000003
 
-//Infinite Support Character BA P1
+[Infinite Support Character BA P1]
 patch=1,EE,20308B14,extended,447A0000
 
-//All Characters
+[All Characters]
 patch=1,EE,1030B956,extended,00000001
 patch=1,EE,4030B958,extended,00090001
 patch=1,EE,00010001,extended,00000000
@@ -26,19 +26,19 @@ patch=1,EE,1030B9CE,extended,00000001
 patch=1,EE,2030B9D0,extended,00010001
 patch=1,EE,1030B9D4,extended,00000001
 
-//All Options
+[All Options]
 patch=1,EE,4030B914,extended,00040001
 patch=1,EE,00010001,extended,00000000
 
-//All Missions
+[All Missions]
 patch=1,EE,4030BA54,extended,00070001
 patch=1,EE,00010001,extended,00000000
 
-//All Modes
+[All Modes]
 patch=1,EE,4030B918,extended,00030001
 patch=1,EE,00010001,extended,00000000
 
-//All Tag Team Levels
+[All Tag Team Levels]
 patch=1,EE,4030BA14,extended,00100001
 patch=1,EE,00010001,extended,00000000
 

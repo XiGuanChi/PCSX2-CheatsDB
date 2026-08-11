@@ -1,10 +1,10 @@
-//Cheats/Unlock Bonus When the Code is ON, El Cielo can be Selected, Cafe Time can be Selected, All Shortcuts can be Selected and Extra Completion
+[Cheats/Unlock Bonus When the Code is ON, El Cielo can be Selected, Cafe Time can be Selected, All Shortcuts can be Selected and Extra Completion]
 patch=1,EE,20104744,extended,24040001
 
-//Cheats/Unlock All Bonus
+[Cheats/Unlock All Bonus]
 patch=1,EE,20A81AC0,extended,FFFFFFFF
 
-//Cheats/Enable Debug Menu Boot To Debug Menu At anytime, to go back to it, press and hold Select button while entering any mode, such as the Options Menu
+[Cheats/Enable Debug Menu Boot To Debug Menu At anytime, to go back to it, press and hold Select button while entering any mode, such as the Options Menu]
 patch=1,EE,0010D840,extended,00000000
 patch=1,EE,D047EC80,extended,0000FFFE
 patch=1,EE,202746DC,extended,00000000

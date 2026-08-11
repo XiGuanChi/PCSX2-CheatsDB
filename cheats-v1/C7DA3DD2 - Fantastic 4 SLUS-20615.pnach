@@ -1,35 +1,35 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2017EF18,extended,24500000
 patch=1,EE,2017EF1C,extended,A602000E
 patch=1,EE,2017EF20,extended,44822000
 patch=1,EE,2017EF2C,extended,00000000
 
-//Cheats/Max Cosmic Power
+[Cheats/Max Cosmic Power]
 patch=1,EE,403201D0,extended,00040008
 patch=1,EE,00000B54,extended,00000000
 
-//Cheats/Infinite Cosmic Power Bars
+[Cheats/Infinite Cosmic Power Bars]
 patch=1,EE,418A07F0,extended,00040024
 patch=1,EE,03E803E8,extended,00000000
 
-//Cheats/Infinite Supers Available
+[Cheats/Infinite Supers Available]
 patch=1,EE,018A0862,extended,00000063
 
-//Cheats/All Charaters Infinite Lives
+[Cheats/All Charaters Infinite Lives]
 patch=1,EE,201B3C30,extended,00000000
 
-//Cheats/All Characters Max Supers Avaliaable
+[Cheats/All Characters Max Supers Avaliaable]
 patch=1,EE,403201C0,extended,00040008
 patch=1,EE,00000064,extended,00000000
 
-//Cheats/Have All Upgrades Available For Purchase
+[Cheats/Have All Upgrades Available For Purchase]
 patch=1,EE,403201B8,extended,00040008
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Secrets
+[Cheats/Unlock All Secrets]
 patch=1,EE,20320368,extended,0F0F071F
 patch=1,EE,2032036C,extended,030F070F
 patch=1,EE,10320370,extended,00003F07
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,00320328,extended,0000000A

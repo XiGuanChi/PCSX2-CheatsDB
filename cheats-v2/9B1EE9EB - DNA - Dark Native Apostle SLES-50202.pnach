@@ -1,11 +1,11 @@
 gametitle=DNA - Dark Native Apostle SLES-50202	 
-//Save Anywhere
+[Save Anywhere]
 patch=1,EE,2057B0FC,extended,03002D2D
 
-//Inf Stamina/Power
+[Inf Stamina/Power]
 patch=1,EE,201D8900,extended,007103E8
 
-//Have lots of Bio-chips
+[Have lots of Bio-chips]
 patch=1,EE,2054FA10,extended,641C0000
 patch=1,EE,2054FA14,extended,64166415
 patch=1,EE,2054FA18,extended,64146417

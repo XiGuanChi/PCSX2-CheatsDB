@@ -1,23 +1,23 @@
 gametitle=The Bard's Tale SLES-53154
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201C4A18,extended,E4800068
 
-//9999 Adderstones
+[9999 Adderstones]
 patch=1,EE,105FDA3A,extended,0000270F
 
-//9999 Silver
+[9999 Silver]
 patch=1,EE,105FD98C,extended,0000270F
 
-//Quick Level Up
+[Quick Level Up]
 patch=1,EE,405FD97C,extended,00020001
 patch=1,EE,3E583E58,extended,00000000
 
-//All Talents
+[All Talents]
 patch=1,EE,205FDBE4,extended,FFFFFFFF
 
-//All Tunes
+[All Tunes]
 patch=1,EE,205FDBE8,extended,FFFFFFFF
 
-//Debug Menu (Press L3)
+[Debug Menu (Press L3)]
 patch=1,EE,D063F9C2,extended,0000FFFD
 patch=1,EE,205FDF60,extended,0000000

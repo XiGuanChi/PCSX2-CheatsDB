@@ -1,10 +1,10 @@
 gametitle=Falling Stars SLUS 21734
-//Max Monde to start the game
+[Max Monde to start the game]
 patch=1,EE,204ae228,extended,000f423fLots of Moons
 patch=1,EE,204AFB58,extended,0001869F
 
-//Inf Moons When Buying
+[Inf Moons When Buying]
 patch=1,EE,00294368,extended,000000b0
 
-//Get 1000 Items For buying 1 (Seems to Be just look at items gain 1000 to)
+[Get 1000 Items For buying 1 (Seems to Be just look at items gain 1000 to)]
 patch=1,EE,20258930,extended,240503E8

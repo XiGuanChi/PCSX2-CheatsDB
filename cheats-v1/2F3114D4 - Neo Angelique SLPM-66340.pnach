@@ -1,4 +1,4 @@
-//Cheats/Press L2 Debug menu Press select+left to enter the setting If you press L2 there, the setting items will change each time. Press L2 until the UTILITES screen appears Then select an item with the R3 stick and select with L2 Select EDIT PARAMETER to go to the debug menu Select SOUND TEST to go to SOUND TEST
+[Cheats/Press L2 Debug menu Press select+left to enter the setting If you press L2 there, the setting items will change each time. Press L2 until the UTILITES screen appears Then select an item with the R3 stick and select with L2 Select EDIT PARAMETER to go to the debug menu Select SOUND TEST to go to SOUND TEST]
 patch=1,EE,D1EDFDC2,extended,0000FF7E
 patch=1,EE,0072B580,extended,00000002
 patch=1,EE,2014B768,extended,10000006

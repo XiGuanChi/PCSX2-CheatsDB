@@ -1,7 +1,7 @@
 gametitle=The King of Fighters 2001 SLUS-20839
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,1104FD78,extended,00000066
 
-//1Hit Death Player 2
+[1Hit Death Player 2]
 patch=1,EE,D104FF78,extended,00000066
 patch=1,EE,1104FF78,extended,00000001

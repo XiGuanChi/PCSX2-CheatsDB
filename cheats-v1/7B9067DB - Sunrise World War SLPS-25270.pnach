@@ -1,30 +1,30 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,202F0CF8,extended,000F423F
 
-//Cheats/All Items 99
+[Cheats/All Items 99]
 patch=1,EE,2010173C,extended,A0860000
 
-//Cheats/Number 0f Possession Of All Units 99
+[Cheats/Number 0f Possession Of All Units 99]
 patch=1,EE,40232E60,extended,00570001
 patch=1,EE,63636363,extended,00000000
 
 [Cheats/Do Not Act On Enemy Units] Do not act on enemy Battleships
 patch=1,EE,2014252C,extended,1000004E
 
-//Cheats/Do Not Act On Enemy Units
+[Cheats/Do Not Act On Enemy Units]
 patch=1,EE,2013FD14,extended,10000015
 
-//Cheats/Level Up LV 99
+[Cheats/Level Up LV 99]
 patch=1,EE,2014B840,extended,00C0100A
 
-//Cheats/All Units Priced at 1 & no unit sales limit
+[Cheats/All Units Priced at 1 & no unit sales limit]
 patch=1,EE,2014ADF8,extended,24020001
 
-//Cheats/Unlock All PRESETs cleared Versus Mode
+[Cheats/Unlock All PRESETs cleared Versus Mode]
 patch=1,EE,203CBDC0,extended,FFFFFFFF
 patch=1,EE,203CBDC4,extended,FFFFFFFF
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,403CBDD0,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 

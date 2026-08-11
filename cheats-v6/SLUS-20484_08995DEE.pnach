@@ -1,745 +1,745 @@
 gametitle=Devil May Cry 2 [SLUS-20484] [08995DEE]
 
-//Secret Mission 2
+[Secret Mission 2]
 author=GamingDragon93
 description=Secret Mission 2
-// Secret Mission 2
+[Secret Mission 2]
 patch=1,EE,90129820,extended,0C047DA8
 
-//Max Health
+[Max Health]
 author=GamingDragon93
 description=Max Health
-// Max Health
+[Max Health]
 patch=1,EE,1056F864,extended,0000270F
 
-//Infinite Health
+[Infinite Health]
 author=GamingDragon93
 description=Infinite Health
-// Infinite Health
+[Infinite Health]
 patch=1,EE,2056F860,extended,270F270F
 
-//Max Infinite Health
+[Max Infinite Health]
 author=GamingDragon93
 description=Max Infinite Health
-// Max Infinite Health
+[Max Infinite Health]
 patch=1,EE,2056F860,extended,270F270F
 
-//Max Infinite Health
+[Max Infinite Health]
 author=GamingDragon93
 description=Max Infinite Health
-// Max Infinite Health
+[Max Infinite Health]
 patch=1,EE,1056F864,extended,0000270F
 
-//Infinite Devil Trigger
+[Infinite Devil Trigger]
 author=GamingDragon93
 description=Infinite Devil Trigger
-// Infinite Devil Trigger
+[Infinite Devil Trigger]
 patch=1,EE,1056FB8E,extended,0000270F
 
-//Infinite Devil Trigger
+[Infinite Devil Trigger]
 author=GamingDragon93
 description=Infinite Devil Trigger
-// Infinite Devil Trigger
+[Infinite Devil Trigger]
 patch=1,EE,1056FB90,extended,0000270F
 
-//Max Devil Trigger
+[Max Devil Trigger]
 author=GamingDragon93
 description=Max Devil Trigger
-// Max Devil Trigger
+[Max Devil Trigger]
 patch=1,EE,1056FB92,extended,0000270F
 
-//Max Infinite Devil Trigger
+[Max Infinite Devil Trigger]
 author=GamingDragon93
 description=Max Infinite Devil Trigger
-// Max Infinite Devil Trigger
+[Max Infinite Devil Trigger]
 patch=1,EE,1056FB8E,extended,0000270F
 
-//Max Infinite Devil Trigger
+[Max Infinite Devil Trigger]
 author=GamingDragon93
 description=Max Infinite Devil Trigger
-// Max Infinite Devil Trigger
+[Max Infinite Devil Trigger]
 patch=1,EE,2056FB90,extended,270F270F
 
-//Infinite Double Jumps
+[Infinite Double Jumps]
 author=GamingDragon93
 description=Infinite Double Jumps
-// Infinite Double Jumps
+[Infinite Double Jumps]
 patch=1,EE,1056FBB2,extended,00000101
 
-//Red Orbs Worth 255
+[Red Orbs Worth 255]
 author=GamingDragon93
 description=Red Orbs Worth 255
-// Red Orbs Worth 255
+[Red Orbs Worth 255]
 patch=1,EE,00570BA8,extended,000000FF
 
-//Max Red Orbs
+[Max Red Orbs]
 author=GamingDragon93
 description=Max Red Orbs
-// Max Red Orbs
+[Max Red Orbs]
 patch=1,EE,20570BA8,extended,000F423F
 
-//Max Blue Orbs
+[Max Blue Orbs]
 author=GamingDragon93
 description=Max Blue Orbs
-// Max Blue Orbs
+[Max Blue Orbs]
 patch=1,EE,20570BB4,extended,00000004
 
-//Max Yellow Orbs
+[Max Yellow Orbs]
 author=GamingDragon93
 description=Max Yellow Orbs
-// Max Yellow Orbs
+[Max Yellow Orbs]
 patch=1,EE,00570BB1,extended,00000063
 
-//Have All Enemy File
+[Have All Enemy File]
 author=GamingDragon93
 description=Have All Enemy File
-// Have All Enemy File
+[Have All Enemy File]
 patch=1,EE,20570C08,extended,FFFFFFFF
 
-//Have All Enemy File
+[Have All Enemy File]
 author=GamingDragon93
 description=Have All Enemy File
-// Have All Enemy File
+[Have All Enemy File]
 patch=1,EE,10570C0C,extended,0000FFFF
 
-//Always 1st Devil Form
+[Always 1st Devil Form]
 author=GamingDragon93
 description=Always 1st Devil Form
-// Always 1st Devil Form
+[Always 1st Devil Form]
 patch=1,EE,0056FB88,extended,00000001
 
-//Always Show Time!
+[Always Show Time!]
 author=GamingDragon93
 description=Always Show Time!
-// Always Show Time!
+[Always Show Time!]
 patch=1,EE,0056FC99,extended,00000063
 
-//Invincible
+[Invincible]
 author=GamingDragon93
 description=Invincible
-// Invincible
+[Invincible]
 patch=1,EE,0056FCAF,extended,00000009
 
-//Have All Guns
+[Have All Guns]
 author=GamingDragon93
 description=Have All Guns
-// Have All Guns
+[Have All Guns]
 patch=1,EE,0056FD70,extended,0000000F
 
-//Have All Weapons
+[Have All Weapons]
 author=GamingDragon93
 description=Have All Weapons
-// Have All Weapons
+[Have All Weapons]
 patch=1,EE,0056FD71,extended,00000007
 
-//Infinite Time
+[Infinite Time]
 author=GamingDragon93
 description=Infinite Time
-// Infinite Time
+[Infinite Time]
 patch=1,EE,10570288,extended,0000FFFF
 
-//Have All Item Files
+[Have All Item Files]
 author=GamingDragon93
 description=Have All Item Files
-// Have All Item Files
+[Have All Item Files]
 patch=1,EE,20570B4C,extended,FFFFFFFF
 
-//Have All Item Files
+[Have All Item Files]
 author=GamingDragon93
 description=Have All Item Files
-// Have All Item Files
+[Have All Item Files]
 patch=1,EE,20570B50,extended,FFFFFFFF
 
-//Load A Game For Character & Mode/Mission Select
+[Load A Game For Character & Mode/Mission Select]
 author=GamingDragon93
 description=Load A Game For Character & Mode/Mission Select
-// Load A Game For Character & Mode/Mission Select
+[Load A Game For Character & Mode/Mission Select]
 patch=1,EE,10570D4E,extended,00000303
 
-//Unlock All Characters
+[Unlock All Characters]
 author=GamingDragon93
 description=Unlock All Characters
-// Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,10573C92,extended,000001FF
 
-//1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=1-Hit Kills (All Enemies & Bosses)
-// 1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C0220,extended,3C010056
 
-//1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=1-Hit Kills (All Enemies & Bosses)
-// 1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C0224,extended,3421F760
 
-//1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=1-Hit Kills (All Enemies & Bosses)
-// 1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C0228,extended,54310002
 
-//1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=1-Hit Kills (All Enemies & Bosses)
-// 1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C022C,extended,24020000
 
-//1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=1-Hit Kills (All Enemies & Bosses)
-// 1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C0230,extended,00501021
 
-//1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=1-Hit Kills (All Enemies & Bosses)
-// 1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C0234,extended,03E00008
 
-//1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=1-Hit Kills (All Enemies & Bosses)
-// 1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C0238,extended,A6220100
 
-//1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=1-Hit Kills (All Enemies & Bosses)
-// 1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,20194E58,extended,0C030088
 
-//1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=1-Hit Kills (All Enemies & Bosses)
-// 1-Hit Kills (All Enemies & Bosses)
+[1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,20194E5C,extended,86220100
 
-//Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
-// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C0220,extended,3C010056
 
-//Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
-// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C0224,extended,3421F760
 
-//Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
-// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C0228,extended,54310002
 
-//Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
-// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C022C,extended,24020000
 
-//Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
-// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C0230,extended,00000000
 
-//Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
-// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C0234,extended,03E00008
 
-//Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
-// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,200C0238,extended,A6220100
 
-//Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
-// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,20194E58,extended,0C030088
 
-//Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 author=GamingDragon93
 description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
-// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
 patch=1,EE,20194E5C,extended,86220100
 
-//Max Orbs
+[Max Orbs]
 author=GamingDragon93
 description=Max Orbs
-// Max Orbs
+[Max Orbs]
 patch=1,EE,20570BAC,extended,000F423F
 
-//Low Clear Time
+[Low Clear Time]
 author=GamingDragon93
 description=Low Clear Time
-// Low Clear Time
+[Low Clear Time]
 patch=1,EE,20570BA0,extended,00000000
 
-//Low Clear Time
+[Low Clear Time]
 author=GamingDragon93
 description=Low Clear Time
-// Low Clear Time
+[Low Clear Time]
 patch=1,EE,20570BA4,extended,00000000
 
-//Clear Time-Rank S
+[Clear Time-Rank S]
 author=GamingDragon93
 description=Clear Time-Rank S
-// Clear Time-Rank S
+[Clear Time-Rank S]
 patch=1,EE,00571A94,extended,00000000
 
-//Orbs-Rank S
+[Orbs-Rank S]
 author=GamingDragon93
 description=Orbs-Rank S
-// Orbs-Rank S
+[Orbs-Rank S]
 patch=1,EE,00571A95,extended,00000000
 
-//Stylish Average-Rank S
+[Stylish Average-Rank S]
 author=GamingDragon93
 description=Stylish Average-Rank S
-// Stylish Average-Rank S
+[Stylish Average-Rank S]
 patch=1,EE,00571A96,extended,00000000
 
-//Damage-Rank S
+[Damage-Rank S]
 author=GamingDragon93
 description=Damage-Rank S
-// Damage-Rank S
+[Damage-Rank S]
 patch=1,EE,00571A97,extended,00000000
 
-//Item Used-Rank S
+[Item Used-Rank S]
 author=GamingDragon93
 description=Item Used-Rank S
-// Item Used-Rank S
+[Item Used-Rank S]
 patch=1,EE,00571A98,extended,00000000
 
-//Devil Hunter Rank-Rank S
+[Devil Hunter Rank-Rank S]
 author=GamingDragon93
 description=Devil Hunter Rank-Rank S
-// Devil Hunter Rank-Rank S
+[Devil Hunter Rank-Rank S]
 patch=1,EE,00571A9B,extended,00000000
 
-//Start On Level 9999
+[Start On Level 9999]
 author=GamingDragon93
 description=Start On Level 9999
-// Start On Level 9999
+[Start On Level 9999]
 patch=1,EE,D0570C20,extended,00000000
 
-//Start On Level 9999
+[Start On Level 9999]
 author=GamingDragon93
 description=Start On Level 9999
-// Start On Level 9999
+[Start On Level 9999]
 patch=1,EE,10570C20,extended,0000270F
 
-//Start On Level 999
+[Start On Level 999]
 author=GamingDragon93
 description=Start On Level 999
-// Start On Level 999
+[Start On Level 999]
 patch=1,EE,D0570C20,extended,00000000
 
-//Start On Level 999
+[Start On Level 999]
 author=GamingDragon93
 description=Start On Level 999
-// Start On Level 999
+[Start On Level 999]
 patch=1,EE,10570C20,extended,000003E7
 
-//Start On Level 99
+[Start On Level 99]
 author=GamingDragon93
 description=Start On Level 99
-// Start On Level 99
+[Start On Level 99]
 patch=1,EE,D0570C20,extended,00000000
 
-//Start On Level 99
+[Start On Level 99]
 author=GamingDragon93
 description=Start On Level 99
-// Start On Level 99
+[Start On Level 99]
 patch=1,EE,10570C20,extended,00000063
 
-//Start On Level 9
+[Start On Level 9]
 author=GamingDragon93
 description=Start On Level 9
-// Start On Level 9
+[Start On Level 9]
 patch=1,EE,D0570C20,extended,00000000
 
-//Start On Level 9
+[Start On Level 9]
 author=GamingDragon93
 description=Start On Level 9
-// Start On Level 9
+[Start On Level 9]
 patch=1,EE,10570C20,extended,00000009
 
-//Always Low Time
+[Always Low Time]
 author=GamingDragon93
 description=Always Low Time
-// Always Low Time
+[Always Low Time]
 patch=1,EE,205741CC,extended,00000000
 
-//Max Enemy
+[Max Enemy]
 author=GamingDragon93
 description=Max Enemy
-// Max Enemy
+[Max Enemy]
 patch=1,EE,205741D0,extended,0098967F
 
-//Max Orbs
+[Max Orbs]
 author=GamingDragon93
 description=Max Orbs
-// Max Orbs
+[Max Orbs]
 patch=1,EE,205741D4,extended,000F423F
 
-//Max Bonus
+[Max Bonus]
 author=GamingDragon93
 description=Max Bonus
-// Max Bonus
+[Max Bonus]
 patch=1,EE,205741D8,extended,0098967F
 
-//Aqua Heart
+[Aqua Heart]
 author=GamingDragon93
 description=Aqua Heart
-// Aqua Heart
+[Aqua Heart]
 patch=1,EE,00570BBE,extended,00000001
 
-//Aerial Heart
+[Aerial Heart]
 author=GamingDragon93
 description=Aerial Heart
-// Aerial Heart
+[Aerial Heart]
 patch=1,EE,00570BBF,extended,00000001
 
-//Quick Heart
+[Quick Heart]
 author=GamingDragon93
 description=Quick Heart
-// Quick Heart
+[Quick Heart]
 patch=1,EE,00570BC0,extended,00000001
 
-//Flame Heart
+[Flame Heart]
 author=GamingDragon93
 description=Flame Heart
-// Flame Heart
+[Flame Heart]
 patch=1,EE,00570BC1,extended,00000001
 
-//Frost Heart
+[Frost Heart]
 author=GamingDragon93
 description=Frost Heart
-// Frost Heart
+[Frost Heart]
 patch=1,EE,00570BC2,extended,00000001
 
-//Electro Heart
+[Electro Heart]
 author=GamingDragon93
 description=Electro Heart
-// Electro Heart
+[Electro Heart]
 patch=1,EE,00570BC3,extended,00000001
 
-//Chrono Heart
+[Chrono Heart]
 author=GamingDragon93
 description=Chrono Heart
-// Chrono Heart
+[Chrono Heart]
 patch=1,EE,00570BC4,extended,00000001
 
-//Healing Heart
+[Healing Heart]
 author=GamingDragon93
 description=Healing Heart
-// Healing Heart
+[Healing Heart]
 patch=1,EE,00570BC5,extended,00000001
 
-//Offence Heart
+[Offence Heart]
 author=GamingDragon93
 description=Offence Heart
-// Offence Heart
+[Offence Heart]
 patch=1,EE,00570BC6,extended,00000001
 
-//All Amulets
+[All Amulets]
 author=GamingDragon93
 description=All Amulets
-// All Amulets
+[All Amulets]
 patch=1,EE,10570BBE,extended,00000101
 
-//All Amulets
+[All Amulets]
 author=GamingDragon93
 description=All Amulets
-// All Amulets
+[All Amulets]
 patch=1,EE,20570BC0,extended,01010101
 
-//All Amulets
+[All Amulets]
 author=GamingDragon93
 description=All Amulets
-// All Amulets
+[All Amulets]
 patch=1,EE,10570BC4,extended,01010101
 
-//All Amulets
+[All Amulets]
 author=GamingDragon93
 description=All Amulets
-// All Amulets
+[All Amulets]
 patch=1,EE,00570BC6,extended,00000001
 
-//Vital Star L.
+[Vital Star L.]
 author=GamingDragon93
 description=Vital Star L.
-// Vital Star L.
+[Vital Star L.]
 patch=1,EE,00570BB7,extended,00000063
 
-//Vital Star S.
+[Vital Star S.]
 author=GamingDragon93
 description=Vital Star S.
-// Vital Star S.
+[Vital Star S.]
 patch=1,EE,00570BB8,extended,00000063
 
-//Devil Star L.
+[Devil Star L.]
 author=GamingDragon93
 description=Devil Star L.
-// Devil Star L.
+[Devil Star L.]
 patch=1,EE,00570BB9,extended,00000063
 
-//Devil Star S.
+[Devil Star S.]
 author=GamingDragon93
 description=Devil Star S.
-// Devil Star S.
+[Devil Star S.]
 patch=1,EE,00570BBA,extended,00000063
 
-//Holy Star
+[Holy Star]
 author=GamingDragon93
 description=Holy Star
-// Holy Star
+[Holy Star]
 patch=1,EE,00570BBB,extended,00000063
 
-//Smell Of Fear
+[Smell Of Fear]
 author=GamingDragon93
 description=Smell Of Fear
-// Smell Of Fear
+[Smell Of Fear]
 patch=1,EE,00570BBD,extended,00000063
 
-//Key (1)
+[Key (1)]
 author=GamingDragon93
 description=Key (1)
-// Key (1)
+[Key (1)]
 patch=1,EE,00570BD5,extended,00000063
 
-//Key (2)
+[Key (2)]
 author=GamingDragon93
 description=Key (2)
-// Key (2)
+[Key (2)]
 patch=1,EE,00570BD6,extended,00000063
 
-//Evilheart
+[Evilheart]
 author=GamingDragon93
 description=Evilheart
-// Evilheart
+[Evilheart]
 patch=1,EE,00570BD7,extended,00000063
 
-//Sacrilege
+[Sacrilege]
 author=GamingDragon93
 description=Sacrilege
-// Sacrilege
+[Sacrilege]
 patch=1,EE,00570BD8,extended,00000063
 
-//Arcana Spada
+[Arcana Spada]
 author=GamingDragon93
 description=Arcana Spada
-// Arcana Spada
+[Arcana Spada]
 patch=1,EE,00570BD9,extended,00000063
 
-//Arcana Calice
+[Arcana Calice]
 author=GamingDragon93
 description=Arcana Calice
-// Arcana Calice
+[Arcana Calice]
 patch=1,EE,00570BDA,extended,00000063
 
-//Arcana Medaglia
+[Arcana Medaglia]
 author=GamingDragon93
 description=Arcana Medaglia
-// Arcana Medaglia
+[Arcana Medaglia]
 patch=1,EE,00570BDB,extended,00000063
 
-//Arcana Bastone
+[Arcana Bastone]
 author=GamingDragon93
 description=Arcana Bastone
-// Arcana Bastone
+[Arcana Bastone]
 patch=1,EE,00570BDC,extended,00000063
 
-//Always 2nd Devil Form
+[Always 2nd Devil Form]
 author=GamingDragon93
 description=Always 2nd Devil Form
-// Always 2nd Devil Form
+[Always 2nd Devil Form]
 patch=1,EE,0056FB88,extended,00000002
 
-//Unlock All Normal Missions
+[Unlock All Normal Missions]
 author=GamingDragon93
 description=Unlock All Normal Missions
-// Unlock All Normal Missions
+[Unlock All Normal Missions]
 patch=1,EE,00574193,extended,00000012
 
-//Unlock All Hard Missions
+[Unlock All Hard Missions]
 author=GamingDragon93
 description=Unlock All Hard Missions
-// Unlock All Hard Missions
+[Unlock All Hard Missions]
 patch=1,EE,00574194,extended,00000012
 
-//Unlock All Dante Must Die Missions
+[Unlock All Dante Must Die Missions]
 author=GamingDragon93
 description=Unlock All Dante Must Die Missions
-// Unlock All Dante Must Die Missions
+[Unlock All Dante Must Die Missions]
 patch=1,EE,00574195,extended,00000012
 
-//Max Handguns Level
+[Max Handguns Level]
 author=GamingDragon93
 description=Max Handguns Level
-// Max Handguns Level
+[Max Handguns Level]
 patch=1,EE,0056FD76,extended,00000002
 
-//Max Submachine Guns Level
+[Max Submachine Guns Level]
 author=GamingDragon93
 description=Max Submachine Guns Level
-// Max Submachine Guns Level
+[Max Submachine Guns Level]
 patch=1,EE,0056FD77,extended,00000002
 
-//Max Shotgun Level
+[Max Shotgun Level]
 author=GamingDragon93
 description=Max Shotgun Level
-// Max Shotgun Level
+[Max Shotgun Level]
 patch=1,EE,0056FD78,extended,00000002
 
-//Max Missile Launcher Level
+[Max Missile Launcher Level]
 author=GamingDragon93
 description=Max Missile Launcher Level
-// Max Missile Launcher Level
+[Max Missile Launcher Level]
 patch=1,EE,0056FD79,extended,00000002
 
-//Max Rebellion/Cutlaseer Level
+[Max Rebellion/Cutlaseer Level]
 author=GamingDragon93
 description=Max Rebellion/Cutlaseer Level
-// Max Rebellion/Cutlaseer Level
+[Max Rebellion/Cutlaseer Level]
 patch=1,EE,0056FD7A,extended,00000004
 
-//Max Merciles Level
+[Max Merciles Level]
 author=GamingDragon93
 description=Max Merciles Level
-// Max Merciles Level
+[Max Merciles Level]
 patch=1,EE,0056FD7B,extended,00000004
 
-//Max Vendetta Level
+[Max Vendetta Level]
 author=GamingDragon93
 description=Max Vendetta Level
-// Max Vendetta Level
+[Max Vendetta Level]
 patch=1,EE,0056FD7C,extended,00000004
 
-//Have Merciless
+[Have Merciless]
 author=GamingDragon93
 description=Have Merciless
-// Have Merciless
+[Have Merciless]
 patch=1,EE,00570BC8,extended,00000001
 
-//Have Vendetta
+[Have Vendetta]
 author=GamingDragon93
 description=Have Vendetta
-// Have Vendetta
+[Have Vendetta]
 patch=1,EE,00570BC9,extended,00000001
 
-//Have Submachine Guns
+[Have Submachine Guns]
 author=GamingDragon93
 description=Have Submachine Guns
-// Have Submachine Guns
+[Have Submachine Guns]
 patch=1,EE,00570BCE,extended,00000001
 
-//Have Shotgun
+[Have Shotgun]
 author=GamingDragon93
 description=Have Shotgun
-// Have Shotgun
+[Have Shotgun]
 patch=1,EE,00570BCF,extended,00000001
 
-//Have Missile Launcher
+[Have Missile Launcher]
 author=GamingDragon93
 description=Have Missile Launcher
-// Have Missile Launcher
+[Have Missile Launcher]
 patch=1,EE,00570BD0,extended,00000001
 
-//Unlock All Normal Missions
+[Unlock All Normal Missions]
 author=GamingDragon93
 description=Unlock All Normal Missions
-// Unlock All Normal Missions
+[Unlock All Normal Missions]
 patch=1,EE,00574193,extended,0000000D
 
-//Unlock All Hard Missions
+[Unlock All Hard Missions]
 author=GamingDragon93
 description=Unlock All Hard Missions
-// Unlock All Hard Missions
+[Unlock All Hard Missions]
 patch=1,EE,00574194,extended,0000000D
 
-//Unlock All Lucia Must Die Missions
+[Unlock All Lucia Must Die Missions]
 author=GamingDragon93
 description=Unlock All Lucia Must Die Missions
-// Unlock All Lucia Must Die Missions
+[Unlock All Lucia Must Die Missions]
 patch=1,EE,00574195,extended,0000000D
 
-//Max Throwing Daggers Level
+[Max Throwing Daggers Level]
 author=GamingDragon93
 description=Max Throwing Daggers Level
-// Max Throwing Daggers Level
+[Max Throwing Daggers Level]
 patch=1,EE,0056FD76,extended,00000002
 
-//Max Darts Guns Level
+[Max Darts Guns Level]
 author=GamingDragon93
 description=Max Darts Guns Level
-// Max Darts Guns Level
+[Max Darts Guns Level]
 patch=1,EE,0056FD77,extended,00000002
 
-//Max Cranky Bomb Level
+[Max Cranky Bomb Level]
 author=GamingDragon93
 description=Max Cranky Bomb Level
-// Max Cranky Bomb Level
+[Max Cranky Bomb Level]
 patch=1,EE,0056FD78,extended,00000002
 
-//Max Bow Gun Level
+[Max Bow Gun Level]
 author=GamingDragon93
 description=Max Bow Gun Level
-// Max Bow Gun Level
+[Max Bow Gun Level]
 patch=1,EE,0056FD79,extended,00000002
 
-//Max Cutlaseer Level
+[Max Cutlaseer Level]
 author=GamingDragon93
 description=Max Cutlaseer Level
-// Max Cutlaseer Level
+[Max Cutlaseer Level]
 patch=1,EE,0056FD7A,extended,00000004
 
-//Max Klyamoor Level
+[Max Klyamoor Level]
 author=GamingDragon93
 description=Max Klyamoor Level
-// Max Klyamoor Level
+[Max Klyamoor Level]
 patch=1,EE,0056FD7B,extended,00000004
 
-//Max Zambak Level
+[Max Zambak Level]
 author=GamingDragon93
 description=Max Zambak Level
-// Max Zambak Level
+[Max Zambak Level]
 patch=1,EE,0056FD7C,extended,00000004
 
-//Klyamoor
+[Klyamoor]
 author=GamingDragon93
 description=Klyamoor
-// Klyamoor
+[Klyamoor]
 patch=1,EE,00570BCB,extended,00000001
 
-//Zambak
+[Zambak]
 author=GamingDragon93
 description=Zambak
-// Zambak
+[Zambak]
 patch=1,EE,00570BCC,extended,00000001
 
-//Darts
+[Darts]
 author=GamingDragon93
 description=Darts
-// Darts
+[Darts]
 patch=1,EE,00570BD2,extended,00000001
 
-//Cranky Bomb
+[Cranky Bomb]
 author=GamingDragon93
 description=Cranky Bomb
-// Cranky Bomb
+[Cranky Bomb]
 patch=1,EE,00570BD3,extended,00000001
 
-//Bow Gun
+[Bow Gun]
 author=GamingDragon93
 description=Bow Gun
-// Bow Gun
+[Bow Gun]
 patch=1,EE,00570BD4,extended,00000001

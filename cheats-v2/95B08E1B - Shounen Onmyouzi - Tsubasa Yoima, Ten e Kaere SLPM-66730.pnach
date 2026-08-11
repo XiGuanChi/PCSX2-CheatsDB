@@ -1,7 +1,7 @@
 gametitle=Shounen Onmyouzi - Tsubasa Yoima, Ten e Kaere SLPM-66730
-//Infinite HP in battles
+[Infinite HP in battles]
 patch=1,EE,2033375A,extended,0000006E
 
-//Dictionary fully open
+[Dictionary fully open]
 patch=1,EE,4031BBC0,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000

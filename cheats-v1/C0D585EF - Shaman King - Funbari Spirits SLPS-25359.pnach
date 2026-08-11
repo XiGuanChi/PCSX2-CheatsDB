@@ -1,25 +1,25 @@
-//Cheats/Story Mode Max Shaman Force
+[Cheats/Story Mode Max Shaman Force]
 patch=1,EE,203BE380,extended,000002BC
 
-//Cheats/Story Mode Max Spiritual Power
+[Cheats/Story Mode Max Spiritual Power]
 patch=1,EE,203BE384,extended,000002BC
 
-//Cheats/Story Mode Coin 99
+[Cheats/Story Mode Coin 99]
 patch=1,EE,203BDFF0,extended,00000063
 
-//Cheats/Infinite Health P1 SMP
+[Cheats/Infinite Health P1 SMP]
 patch=1,EE,20399EA8,extended,42C50F5C
 
-//Cheats/Infinite Health P1 OSP
+[Cheats/Infinite Health P1 OSP]
 patch=1,EE,20399EAC,extended,42C50F5C
 
-//Cheats/P2 SMP 0
+[Cheats/P2 SMP 0]
 patch=1,EE,20399EF4,extended,00000000
 
-//Cheats/P2 OSP 0
+[Cheats/P2 OSP 0]
 patch=1,EE,20399EF8,extended,00000000
 
-//Cheats/Unlock All Characters & Gallery After confirming turn off
+[Cheats/Unlock All Characters & Gallery After confirming turn off]
 patch=1,EE,403BDE48,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,203BDE6C,extended,00000005
@@ -31,5 +31,5 @@ patch=1,EE,203BDF04,extended,FFFF009B
 patch=1,EE,203BDF08,extended,FFFFFFFF
 patch=1,EE,203BDF0C,extended,FFFFFFFF
 
-//Cheats/Training Mode = Debug Menu 5th Main Menu Option TITLE DEMO	Sends you to the opening logos.MODE SELECT Sends you to the main menu.PLAYER SELECT Doesn't work.STORY MODE Doesn't work.TEST NAKABAYASHI Sends you to a map with nothing to do.TEST MIYAMI Doesn't work.TEST KARIMATA Doesn't work.TEST MACHIDA Sends you to a map when pressing Start.TEST TATSUMI Unknown.TEST SOUND	Opens a sound test menu
+[Cheats/Training Mode = Debug Menu 5th Main Menu Option TITLE DEMO	Sends you to the opening logos.MODE SELECT Sends you to the main menu.PLAYER SELECT Doesn't work.STORY MODE Doesn't work.TEST NAKABAYASHI Sends you to a map with nothing to do.TEST MIYAMI Doesn't work.TEST KARIMATA Doesn't work.TEST MACHIDA Sends you to a map when pressing Start.TEST TATSUMI Unknown.TEST SOUND	Opens a sound test menu]
 patch=1,EE,201DE99C,extended,0C082D0C

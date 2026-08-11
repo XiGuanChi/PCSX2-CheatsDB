@@ -1,56 +1,56 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,203B1BFC,extended,447A0000
 patch=1,EE,203B1BF8,extended,447A0000
 
-//Cheats/Infinite Shield
+[Cheats/Infinite Shield]
 patch=1,EE,203B1C08,extended,447A0000
 patch=1,EE,203B1C04,extended,447A0000
 
-//Cheats/Infinite Demolition Shots
+[Cheats/Infinite Demolition Shots]
 patch=1,EE,203B23B4,extended,00000004
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,002A8578,extended,00000000
 
-//Cheats/Unlimited Demolition
+[Cheats/Unlimited Demolition]
 patch=1,EE,002A8579,extended,00000000
 
-//Cheats/Unlock All Secret Character
+[Cheats/Unlock All Secret Character]
 patch=1,EE,002A857A,extended,00000000
 
-//Cheats/Unlock All Alternate Characters
+[Cheats/Unlock All Alternate Characters]
 patch=1,EE,002A857E,extended,00000000
 
-//Cheats/Unlock All Customize
+[Cheats/Unlock All Customize]
 patch=1,EE,102A8576,extended,00000303
 patch=1,EE,202A8578,extended,00000000
 patch=1,EE,102A857C,extended,00000000
 patch=1,EE,002A857E,extended,00000000
 
-//Cheats/Unlock Extras Stage Select
+[Cheats/Unlock Extras Stage Select]
 patch=1,EE,002A857F,extended,00000000
 
-//Cheats/Unlock Extras Boss Rush
+[Cheats/Unlock Extras Boss Rush]
 patch=1,EE,002A8580,extended,00000000
 
-//Cheats/Unlock Extras Enemy Rush
+[Cheats/Unlock Extras Enemy Rush]
 patch=1,EE,002A8581,extended,00000000
 
-//Cheats/Unlock Extras Play Movies
+[Cheats/Unlock Extras Play Movies]
 patch=1,EE,002A8582,extended,00000000
 
-//Cheats/Unlock Extras Play Conversations
+[Cheats/Unlock Extras Play Conversations]
 patch=1,EE,002A8583,extended,00000000
 
-//Cheats/Unlock Extras Play Sound Effects
+[Cheats/Unlock Extras Play Sound Effects]
 patch=1,EE,002A8584,extended,00000000
 
-//Cheats/Unlock Extras All Customize
+[Cheats/Unlock Extras All Customize]
 patch=1,EE,002A857F,extended,00000000
 patch=1,EE,202A8580,extended,00000000
 patch=1,EE,002A8584,extended,00000000
 
-//Cheats/Enable Debug Menu Press L3 For Debug Menu
+[Cheats/Enable Debug Menu Press L3 For Debug Menu]
 patch=1,EE,001E7CAF,extended,00000020
 patch=1,EE,D02A8902,extended,0000FFFD
 patch=1,EE,2042FF4C,extended,0000001A

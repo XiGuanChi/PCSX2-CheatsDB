@@ -1,17 +1,17 @@
-//Cheats/Max Power Measure Points when you go to the shop
+[Cheats/Max Power Measure Points when you go to the shop]
 patch=1,EE,204692BC,extended,00000000
 
-//Cheats/Season Mode Max Points
+[Cheats/Season Mode Max Points]
 patch=1,EE,205411E4,extended,AC460000
 
-//Cheats/Home Run Competition Mode Max PP Points Earned at the End
+[Cheats/Home Run Competition Mode Max PP Points Earned at the End]
 patch=1,EE,203B6FA4,extended,3C02000F
 patch=1,EE,203B6FAC,extended,3442423F
 
-//Cheats/Home Run Competition Mode No Fewer Balls Remaining To end, select End from the Pause Menu
+[Cheats/Home Run Competition Mode No Fewer Balls Remaining To end, select End from the Pause Menu]
 patch=1,EE,2027DDCC,extended,00000000
 
-//Cheats/Umpire's Strike Decision Changed Fouls are Treated as Strikes. All Strike Press SELECT+UP All Balls SELECT+down
+[Cheats/Umpire's Strike Decision Changed Fouls are Treated as Strikes. All Strike Press SELECT+UP All Balls SELECT+down]
 patch=1,EE,D0AE1302,extended,0000FFEE
 patch=1,EE,20275A10,extended,0809D714
 patch=1,EE,D0AE1302,extended,0000FFEE
@@ -21,7 +21,7 @@ patch=1,EE,20275A10,extended,27BDFFD0
 patch=1,EE,D0AE1302,extended,0000FFBE
 patch=1,EE,20275C50,extended,0809D684
 
-//Cheats/During Game Time 9 Innings Press SELECT+R2 It will not be reflected while the match is in progress. Please perform the operation during the time given press START
+[Cheats/During Game Time 9 Innings Press SELECT+R2 It will not be reflected while the match is in progress. Please perform the operation during the time given press START]
 patch=1,EE,2029BB50,extended,01E70821
 patch=1,EE,2029BBC0,extended,9027B060
 patch=1,EE,2029BBBC,extended,0C124CB4
@@ -31,7 +31,7 @@ patch=1,EE,202A031C,extended,A422B060
 patch=1,EE,D0AE1302,extended,0000FDFE
 patch=1,EE,2029BBBC,extended,0C0A80C5
 
-//Cheats/0 Strikes, 3 Balls 0 Outs Press SELECT+L2
+[Cheats/0 Strikes, 3 Balls 0 Outs Press SELECT+L2]
 patch=1,EE,202968F8,extended,9047B07B
 patch=1,EE,2029BB10,extended,9047B07B
 patch=1,EE,200FF000,extended,A040B07B
@@ -44,7 +44,7 @@ patch=1,EE,202968F8,extended,0C03FC00
 patch=1,EE,D0AE1302,extended,0000FEFE
 patch=1,EE,2029BB10,extended,0C03FC00
 
-//Cheats/2 Strikes, 0 Balls, 2 Outs Press SELECT+L1
+[Cheats/2 Strikes, 0 Balls, 2 Outs Press SELECT+L1]
 patch=1,EE,20296924,extended,9063B07C
 patch=1,EE,2029BB3C,extended,9063B07C
 patch=1,EE,200FF020,extended,A060B07C
@@ -57,13 +57,13 @@ patch=1,EE,20296924,extended,0C03FC08
 patch=1,EE,D0AE1302,extended,0000FBFE
 patch=1,EE,2029BB3C,extended,0C03FC08
 
-//Cheats/Ball Speed Change A type when Pitching Ball Speed 80km/h SELECT+Left  Ball Speed 165km/h SELECT+Right
+[Cheats/Ball Speed Change A type when Pitching Ball Speed 80km/h SELECT+Left  Ball Speed 165km/h SELECT+Right]
 patch=1,EE,D0AE1302,extended,0000FF7E
 patch=1,EE,20277224,extended,24020050
 patch=1,EE,D0AE1302,extended,0000FFDE
 patch=1,EE,20277224,extended,240200A5
 
-//Cheats/Trajectory Correction is Applied to the Bat When Correction is ON, Home Runs are more likely to occur. Turn on correction Press L1+Up  turn off L1+Down
+[Cheats/Trajectory Correction is Applied to the Bat When Correction is ON, Home Runs are more likely to occur. Turn on correction Press L1+Up  turn off L1+Down]
 patch=1,EE,D0AE1302,extended,0000FBEF
 patch=1,EE,202548A4,extended,00000000
 patch=1,EE,D0AE1302,extended,0000FBBF
@@ -73,97 +73,97 @@ patch=1,EE,20256C38,extended,00000000
 patch=1,EE,20256C48,extended,4600A500
 patch=1,EE,20256C4C,extended,E6140004
 
-//Cheats/Success Mode Samurai Edition Mind, Technique, and Body Meter Max
+[Cheats/Success Mode Samurai Edition Mind, Technique, and Body Meter Max]
 patch=1,EE,20A0BFE8,extended,03640364
 patch=1,EE,10A0BFEC,extended,00000364
 
-//Cheats/Success Mode Guts 5
+[Cheats/Success Mode Guts 5]
 patch=1,EE,00A091A7,extended,00000005
 
-//Cheats/Success Mode Physical Ztrength 100
+[Cheats/Success Mode Physical Ztrength 100]
 patch=1,EE,10A091A8,extended,00000064
 
-//Cheats/Success Mode Ball Speed 165km/h
+[Cheats/Success Mode Ball Speed 165km/h]
 patch=1,EE,00A09169,extended,000000A5
 
-//Cheats/Success Mode Control 255
+[Cheats/Success Mode Control 255]
 patch=1,EE,00A0916A,extended,000000FF
 
-//Cheats/Success Mode Stamina 255
+[Cheats/Success Mode Stamina 255]
 patch=1,EE,00A0916B,extended,000000FF
 
-//Cheats/Success Mode Meet 7
+[Cheats/Success Mode Meet 7]
 patch=1,EE,00A09155,extended,00000007
 
-//Cheats/Success Mode Power 255
+[Cheats/Success Mode Power 255]
 patch=1,EE,00A09156,extended,000000FF
 
-//Cheats/Success Mode Running Power 15
+[Cheats/Success Mode Running Power 15]
 patch=1,EE,00A09157,extended,0000000F
 
-//Cheats/Success Mode Shoulder Strength 15
+[Cheats/Success Mode Shoulder Strength 15]
 patch=1,EE,00A09158,extended,0000000F
 
-//Cheats/Success Mode Defense Power 15
+[Cheats/Success Mode Defense Power 15]
 patch=1,EE,00A09159,extended,0000000F
 
-//Cheats/Success Mode Error Avoidance 15
+[Cheats/Success Mode Error Avoidance 15]
 patch=1,EE,00A0915A,extended,0000000F
 
-//Cheats/Success Mode Manager Max Scout Rating
+[Cheats/Success Mode Manager Max Scout Rating]
 patch=1,EE,10A0BDB2,extended,000000C8
 patch=1,EE,20A0BDB4,extended,00C800C8
 
-//Cheats/Success Mode Always Recover Guts
+[Cheats/Success Mode Always Recover Guts]
 patch=1,EE,20681AC8,extended,10000005
 
-//Cheats/Success Mode Always Recover Your Strength
+[Cheats/Success Mode Always Recover Your Strength]
 patch=1,EE,2067E78C,extended,00000000
 
-//Cheats/Success Mode Ends Immediately 4th Week of September, 2nd year Must be used in Conjunction with Max Manager and Scout Evaluation
+[Cheats/Success Mode Ends Immediately 4th Week of September, 2nd year Must be used in Conjunction with Max Manager and Scout Evaluation]
 patch=1,EE,10A0BFFE,extended,00000902
 patch=1,EE,00A0C000,extended,00000004
 
-//Cheats/Success Mode Max Money
+[Cheats/Success Mode Max Money]
 patch=1,EE,20A0C004,extended,0001869F
 
-//Cheats/Success Mode When the Screen Changes the Amount of Money you have Max
+[Cheats/Success Mode When the Screen Changes the Amount of Money you have Max]
 patch=1,EE,2067E74C,extended,00000000
 
-//Cheats/Success Mode Max Experience Points If the Points are depleted during distribution, exit the ability up screen and re-enter the point to restore the points
+[Cheats/Success Mode Max Experience Points If the Points are depleted during distribution, exit the ability up screen and re-enter the point to restore the points]
 patch=1,EE,20A0BDA8,extended,03E703E7
 patch=1,EE,20A0BDAC,extended,03E703E7
 patch=1,EE,10A0BDB0,extended,000003E7 
 
-//Cheats/Success Mode Infinite Experience Points
+[Cheats/Success Mode Infinite Experience Points]
 patch=1,EE,206CC6E0,extended,03E00008
 
-//Cheats/Success Mode Phone Number of a Woman you know Kate, Characters that have not appeared will not answer the phone. Please note that if you use the code before the date command appears, the date command will no longer appear
+[Cheats/Success Mode Phone Number of a Woman you know Kate, Characters that have not appeared will not answer the phone. Please note that if you use the code before the date command appears, the date command will no longer appear]
 patch=1,EE,10A0BFC8,extended,00000406
 
-//Cheats/Success Mode Phone Number of a Woman you know Elaine, Characters that have not appeared will not answer the phone. Please note that if you use the code before the date command appears, the date command will no longer appear
+[Cheats/Success Mode Phone Number of a Woman you know Elaine, Characters that have not appeared will not answer the phone. Please note that if you use the code before the date command appears, the date command will no longer appear]
 patch=1,EE,10A0BFCC,extended,00000406
 
-//Cheats/Success Mode Phone Number of a Woman you know Cherry, Characters that have not appeared will not answer the phone. Please note that if you use the code before the date command appears, the date command will no longer appear
+[Cheats/Success Mode Phone Number of a Woman you know Cherry, Characters that have not appeared will not answer the phone. Please note that if you use the code before the date command appears, the date command will no longer appear]
 patch=1,EE,10A0BFD0,extended,00000406
 
-//Cheats/Success Mode Phone Number of a Woman you know Ravi, Characters that have not appeared will not answer the phone. Please note that if you use the code before the date command appears, the date command will no longer appear
+[Cheats/Success Mode Phone Number of a Woman you know Ravi, Characters that have not appeared will not answer the phone. Please note that if you use the code before the date command appears, the date command will no longer appear]
 patch=1,EE,10A0BFD4,extended,00000406
 
-//Cheats/Success Mode Phone Number of a Woman you know Naomi Teacher, Characters that have not appeared will not answer the phone. Please note that if you use the code before the date command appears, the date command will no longer appear
+[Cheats/Success Mode Phone Number of a Woman you know Naomi Teacher, Characters that have not appeared will not answer the phone. Please note that if you use the code before the date command appears, the date command will no longer appear]
 patch=1,EE,10A0BFD8,extended,00000406
 
-//Cheats/Success Mode Max Likeability Kate
+[Cheats/Success Mode Max Likeability Kate]
 patch=1,EE,00A0BFDC,extended,00000064
 
-//Cheats/Success Mode Max Likeability Elaine
+[Cheats/Success Mode Max Likeability Elaine]
 patch=1,EE,00A0BFDD,extended,00000064
 
-//Cheats/Success Mode Max Likeability Cherry
+[Cheats/Success Mode Max Likeability Cherry]
 patch=1,EE,00A0BFDE,extended,00000064
 
-//Cheats/Success Mode Max Likeability Ravi
+[Cheats/Success Mode Max Likeability Ravi]
 patch=1,EE,00A0BFDF,extended,00000064
 
-//Cheats/Success Mode Max Likeability Naomi Teacher
+[Cheats/Success Mode Max Likeability Naomi Teacher]
 patch=1,EE,00A0BFE0,extended,00000064

@@ -1,34 +1,34 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C2000,extended,3C014100
 patch=1,EE,200C2004,extended,AC810630
 patch=1,EE,200C2008,extended,03E00008
 patch=1,EE,200C200C,extended,44810000
 patch=1,EE,201DA8E8,extended,0C030800
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,201EBCC0,extended,00000000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,201EB58C,extended,00000000
 
-//Cheats/Infinite Health Instant Kills' like exploding barrels still kill you.
+[Cheats/Infinite Health Instant Kills' like exploding barrels still kill you.]
 patch=1,EE,20746234,extended,00100000
 
-//Cheats/Infinite Ammo Guns
+[Cheats/Infinite Ammo Guns]
 patch=1,EE,201EBCC0,extended,00000000
 
-//Cheats/Freeze Timer R3+Up Activate R3+Down Stop
+[Cheats/Freeze Timer R3+Up Activate R3+Down Stop]
 patch=1,EE,D054E742,extended,000000EB
 patch=1,EE,2032D19C,extended,00000000
 patch=1,EE,D054E742,extended,000000BB
 patch=1,EE,2032D19C,extended,46010001
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,202DA750,extended,00071820
 patch=1,EE,20296AEC,extended,24020001
 patch=1,EE,202B9430,extended,24020001
 
-//Cheats/Unlock All Key Rings
+[Cheats/Unlock All Key Rings]
 patch=1,EE,20593EA4,extended,01010101
 patch=1,EE,20593EA8,extended,01010101
 patch=1,EE,20593EAC,extended,02020201

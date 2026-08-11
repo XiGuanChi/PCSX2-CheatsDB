@@ -1,68 +1,68 @@
-//Cheats/Max Durability
+[Cheats/Max Durability]
 patch=1,EE,10866820,extended,000003E7
 patch=1,EE,10866822,extended,000003E7
 
-//Cheats/Max Main Weapon
+[Cheats/Max Main Weapon]
 patch=1,EE,10866C4A,extended,000003E7
 patch=1,EE,10866C4C,extended,000003E7
 
-//Cheats/Shots Of Gundam's Beam Rifle 255
+[Cheats/Shots Of Gundam's Beam Rifle 255]
 patch=1,EE,204E1350,extended,00FF0001
 
-//Cheats/Hyper Bazooka Bullet Number 255
+[Cheats/Hyper Bazooka Bullet Number 255]
 patch=1,EE,204E1360,extended,00FF0000
 
-//Cheats/1 Hit Kill For The Earth Defense Against Zeon
+[Cheats/1 Hit Kill For The Earth Defense Against Zeon]
 patch=1,EE,202CC19C,extended,A4800202
 
-//Cheats/Normal Stage It Doesn't Move Except Own Machine
+[Cheats/Normal Stage It Doesn't Move Except Own Machine]
 patch=1,EE,2024F55C,extended,100000AD
 
-//Cheats/Space Stage It Doesn't Move Except Own Machine
+[Cheats/Space Stage It Doesn't Move Except Own Machine]
 patch=1,EE,2030B24C,extended,10000134
 
-//Cheats/Max Sub-weapon
+[Cheats/Max Sub-weapon]
 patch=1,EE,10866C56,extended,000003E7
 patch=1,EE,10866C58,extended,000003E7
 
-//Cheats/Infinite Boost Gauge
+[Cheats/Infinite Boost Gauge]
 patch=1,EE,10866950,extended,00000FA0
 
-//Cheats/Mission Press SELECT+LEFT to attack Federation target 0
+[Cheats/Mission Press SELECT+LEFT to attack Federation target 0]
 patch=1,EE,D0870D70,extended,00002100
 patch=1,EE,007A739C,extended,00000063
 
-//Cheats/Mission Press SELECT+UP to reduce Federal forces to 0
+[Cheats/Mission Press SELECT+UP to reduce Federal forces to 0]
 patch=1,EE,D0870D70,extended,00001100
 patch=1,EE,208711F0,extended,00000000
 
-//Cheats/Mission Press SELECT+RIGHT to attack Zeon target 0
+[Cheats/Mission Press SELECT+RIGHT to attack Zeon target 0]
 patch=1,EE,D0870D70,extended,00008100
 patch=1,EE,007A739D,extended,00000063
 
-//Cheats/Mission Press SELECT+DOWN to reduce Zeon's strength to 0
+[Cheats/Mission Press SELECT+DOWN to reduce Zeon's strength to 0]
 patch=1,EE,D0870D70,extended,00004100
 patch=1,EE,208711F8,extended,00000000
 
-//Cheats/All-you-can-use Boost
+[Cheats/All-you-can-use Boost]
 patch=1,EE,202D6164,extended,A4860330
 
-//Cheats/Unlock All MS Can Be Selected Battle mode
+[Cheats/Unlock All MS Can Be Selected Battle mode]
 patch=1,EE,10870E60,extended,0000FFFF
 
-//Cheats/Unlock Arcade Mode Capture Mode Sortie
+[Cheats/Unlock Arcade Mode Capture Mode Sortie]
 patch=1,EE,10870E64,extended,00000001
 
-//Cheats/Unlock Mission Extra Selectable
+[Cheats/Unlock Mission Extra Selectable]
 patch=1,EE,10870E66,extended,0000FFFF
 
-//Cheats/Max Mission Operation Points
+[Cheats/Max Mission Operation Points]
 patch=1,EE,107A6D70,extended,00002328
 
-//Cheats/Mission Post-Battle Newtype Rank S
+[Cheats/Mission Post-Battle Newtype Rank S]
 patch=1,EE,10868712,extended,00000600
 
-//Cheats/Unlock All Mission Development Weapons
+[Cheats/Unlock All Mission Development Weapons]
 patch=1,EE,107A6D78,extended,00000503
 patch=1,EE,107A6D7A,extended,00000202
 patch=1,EE,107A6D7C,extended,00000204

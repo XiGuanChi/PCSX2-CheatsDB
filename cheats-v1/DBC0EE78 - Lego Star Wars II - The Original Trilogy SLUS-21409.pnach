@@ -1,22 +1,22 @@
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,2029671C,extended,24020008
 patch=1,EE,20296720,extended,A1220F34
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,24130008
 patch=1,EE,200C0224,extended,080A59CE
 patch=1,EE,200C0228,extended,A1330F35
 patch=1,EE,20296728,extended,08030088
 
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,205BA390,extended,000186A0
 patch=1,EE,205BCA1C,extended,000186A0
 
-//Cheats/Infinite Studs P1
+[Cheats/Infinite Studs P1]
 patch=1,EE,205BB9DC,extended,02FAF080
 
-//Cheats/Invincibility
+[Cheats/Invincibility]
 patch=1,EE,105EE9A6,extended,00000103
 
-//Cheats/Unlock All Extras Pause Menu
+[Cheats/Unlock All Extras Pause Menu]
 patch=1,EE,205BB9D0,extended,FFFFFFFF

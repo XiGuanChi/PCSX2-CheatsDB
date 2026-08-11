@@ -1,10 +1,10 @@
 gametitle=Canvas - Sepia-iro no Motif SLPS-25223
-//CG mode fully opened
+[CG mode fully opened]
 patch=1,EE,201C95F8,extended,0004FFFF
 patch=1,EE,401C95E0,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Enable Debug Mode Press R2 to activate This unlocks everything in the game. Press R2 again to re-lock.
+[Enable Debug Mode Press R2 to activate This unlocks everything in the game. Press R2 again to re-lock.]
 patch=1,EE,201C9400,extended,00000001
 patch=1,EE,2024DA10,extended,00000001
 patch=1,EE,2024DA0C,extended,00000001

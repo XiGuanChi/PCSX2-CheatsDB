@@ -1,13 +1,13 @@
 gametitle=Eggo Mania SLUS-20452
-//Max Score Player 1
+[Max Score Player 1]
 patch=1,EE,204C05BC,extended,05F5E0FF
 
-//Max Score Player 2
+[Max Score Player 2]
 patch=1,EE,204C05C0,extended,05F5E0FF
 
-//Always Low Time
+[Always Low Time]
 patch=1,EE,204C03B0,extended,00000000
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,404C07EC,extended,00050001
 patch=1,EE,00000000,extended,00000000

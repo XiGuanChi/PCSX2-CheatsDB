@@ -1,25 +1,25 @@
 gametitle=Bakugan Battle Brawlers SLUS-21919
-//Max Bakugan Points After Battle 
+[Max Bakugan Points After Battle]
 patch=1,EE,202593B0,extended,A4830000
 patch=1,EE,202593C8,extended,8E860000
 
-//Inf Bakugan Points
+[Inf Bakugan Points]
 patch=1,EE,20282738,extended,00000000
 
-//Upgrading
-//Max Level 1 Level up
+[Upgrading]
+[Max Level 1 Level up]
 patch=1,EE,00105790,extended,0000000A
 
-//Gain Max Strength
+[Gain Max Strength]
 patch=1,EE,20105780,extended,240203E7
 
-//Stats Max After 1 Upgrade
+[Stats Max After 1 Upgrade]
 patch=1,EE,20105770,extended,24020032
 
-//Bakugan Battle Enemy 0 Attack
+[Bakugan Battle Enemy 0 Attack]
 patch=1,EE,20559160,extended,AE200044
 
-//Shop Codes Able to buy All Bakugan
+[Shop Codes Able to buy All Bakugan]
 patch=1,EE,200A0000,extended,00641821
 patch=1,EE,200A0004,extended,02231821
 patch=1,EE,200A0008,extended,24070001
@@ -28,7 +28,7 @@ patch=1,EE,200A0010,extended,A0670090
 patch=1,EE,20282624,extended,08028000
 patch=1,EE,20282628,extended,00000000
 
-//Shop Codes Able to Buy All Cards
+[Shop Codes Able to Buy All Cards]
 patch=1,EE,200A0014,extended,02241021
 patch=1,EE,200A0018,extended,24070001
 patch=1,EE,200A001C,extended,A0470282

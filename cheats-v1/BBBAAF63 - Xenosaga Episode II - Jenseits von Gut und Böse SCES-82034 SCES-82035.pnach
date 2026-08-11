@@ -1,41 +1,41 @@
-//Cheats/Character 1 Infinite HP In Battle
+[Cheats/Character 1 Infinite HP In Battle]
 patch=1,EE,20AC16FC,extended,0000270F
 patch=1,EE,10AC16A2,extended,0000270F
 patch=1,EE,10AC16A4,extended,00000000
 
-//Cheats/Character 1 Infinite EP In Battle
+[Cheats/Character 1 Infinite EP In Battle]
 patch=1,EE,10AC1700,extended,00000063
 patch=1,EE,10AC16A6,extended,00000063
 
-//Cheats/Character 2 Infinite HP In Battle
+[Cheats/Character 2 Infinite HP In Battle]
 patch=1,EE,20AC1804,extended,0000270F
 patch=1,EE,10AC17AA,extended,0000270F
 patch=1,EE,10AC17AC,extended,00000000
 
-//Cheats/Character 2 Infinite EP In Battle
+[Cheats/Character 2 Infinite EP In Battle]
 patch=1,EE,10AC1808,extended,00000063
 patch=1,EE,10AC17AE,extended,00000063
 
-//Cheats/Character 3 Infinite HP In Battle
+[Cheats/Character 3 Infinite HP In Battle]
 patch=1,EE,20AC190C,extended,0000270F
 patch=1,EE,10AC18B2,extended,0000270F
 patch=1,EE,10AC18B4,extended,00000000
 
-//Cheats/Character 3 Infinite EP In Battle
+[Cheats/Character 3 Infinite EP In Battle]
 patch=1,EE,10AC1910,extended,00000063
 patch=1,EE,10AC18B6,extended,00000063
 
-//Cheats/Infinite EP In Battle for all characters
+[Cheats/Infinite EP In Battle for all characters]
 patch=1,EE,20A8BCF0,extended,4A0002FF
 
-//Cheats/Restores HP EP After Battle
+[Cheats/Restores HP EP After Battle]
 patch=1,EE,20A8B494,extended,14630002
 patch=1,EE,20A8B4AC,extended,14630002
 
-//Cheats/All ES Parts
+[Cheats/All ES Parts]
 patch=1,EE,40617080,extended,00110001
 patch=1,EE,0000A681,extended,00000000
 
-//Cheats/Infinite All Items junk and all items can be set to 9999 if u realy want
+[Cheats/Infinite All Items junk and all items can be set to 9999 if u realy want]
 patch=1,EE,40616E80,extended,00140001
 patch=1,EE,00630063,extended,00000000

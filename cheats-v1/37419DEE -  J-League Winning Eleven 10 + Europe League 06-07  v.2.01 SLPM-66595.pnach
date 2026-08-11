@@ -1,10 +1,10 @@
-//Cheats/MaX Money WEN 99999
+[Cheats/MaX Money WEN 99999]
 patch=1,EE,218A3040,extended,0001869F
 
-//Cheats /Unlock All Cup Gallery
+[Cheats /Unlock All Cup Gallery]
 patch=1,EE,218A3028,extended,FFFFFFFF
 
-//Cheats/WE Shop All Products Purchased Except Wallpapers
+[Cheats/WE Shop All Products Purchased Except Wallpapers]
 patch=1,EE,218A2FFC,extended,FFFFFFFF
 patch=1,EE,218A3000,extended,FFFFFFFF
 patch=1,EE,218A3004,extended,FFFFFFFF
@@ -13,32 +13,32 @@ patch=1,EE218A300C,extended,FFFFFFFF
 patch=1,EE,218A3010,extended,FFFFFFFF
 patch=1,EE,118A3014,extended,0000FFEF
 
-//Cheats/Avoiding hang during score operation Avoid the hang phenomenon when pausing after score operation. Note that the scorer and assister display displayed during pause will disappear
+[Cheats/Avoiding hang during score operation Avoid the hang phenomenon when pausing after score operation. Note that the scorer and assister display displayed during pause will disappear]
 patch=1,EE,D09202C4,extended,000000B5
 patch=1,EE,209202C4,extended,100000B5
 
-//Cheats/99 Goals HOME Side SELECT+L2 Must be used in conjunction with the hang avoidance code during score operation.s
+[Cheats/99 Goals HOME Side SELECT+L2 Must be used in conjunction with the hang avoidance code during score operation.s]
 patch=1,EE,D04F8AC2,extended,0000FEFE
 patch=1,EE,20CDCD50,extended,00630063
 patch=1,EE,D04F8AC2,extended,0000FEFE
 patch=1,EE,10CDCD58,extended,00000063
 
-//Cheats/99 Goals AWAY Side SELECT+R2 Must be used in conjunction with the hang avoidance code during score operation
+[Cheats/99 Goals AWAY Side SELECT+R2 Must be used in conjunction with the hang avoidance code during score operation]
 patch=1,EE,D04F8AC2,extended,0000FDFE
 patch=1,EE,20CDD044,extended,00630063
 patch=1,EE,D04F8AC2,extended,0000FDFE
 patch=1,EE,10CDD04C,extended,00000063
 
-//Cheats/Remove Team Editing Restrictions in edit mode Even if you change the settings such as uniforms, there may be no change
+[Cheats/Remove Team Editing Restrictions in edit mode Even if you change the settings such as uniforms, there may be no change]
 patch=1,EE,20209438,extended,AE200000
 
-//Cheats/Clear star quota in World Tour You cannot advance to the next round unless you play at least one match. Also, after the section round, you cannot advance unless you win, regardless of the number of stars. Depending on how you play, the achievement rate may exceed 100%.s
+[Cheats/Clear star quota in World Tour You cannot advance to the next round unless you play at least one match. Also, after the section round, you cannot advance unless you win, regardless of the number of stars. Depending on how you play, the achievement rate may exceed 100%.s]
 patch=1,EE,2035D1BC,extended,00430821
 patch=1,EE,2035D1C0,extended,24020032
 patch=1,EE,2035D1C4,extended,AC220000
 patch=1,EE,2035D1C8,extended,03E00008
 
-//Cheats/Master League Points 999999
+[Cheats/Master League Points 999999]
 patch=1,EE,D0AE7764,extended,00000034
 patch=1,EE,20AE7764,extended,3C06000F
 patch=1,EE,D0AE7768,extended,000088A0
@@ -47,7 +47,7 @@ patch=1,EE,2021BDE4,extended,34C6423F
 patch=1,EE,2021BDE8,extended,082688A0
 patch=1,EE,2021BDEC,extended,AC 460034
 
-//Cheats/Master League After the match, the maximum player experience value Effective only when setting "Player growth". Invalid if the match is skipped. If the ability decreases due to old age, etc., the default value will be used
+[Cheats/Master League After the match, the maximum player experience value Effective only when setting "Player growth". Invalid if the match is skipped. If the ability decreases due to old age, etc., the default value will be used]
 patch=1,EE,D0B888E74,extended,00000064
 patch=1,EE,20B88E30,extended,2403270F
 patch=1,EE,D0B88E74,extended,00000064
@@ -55,6 +55,6 @@ patch=1,EE,20B88E34,extended,A6E30000
 patch=1,EE,D0B88E74,extended,00000064
 patch=1,EE,20B88E38,extended,A6630002
 
-//Cheats/Master League Experience points gained after the match +9999 Valid only for those who participated in the match with the "Player growth" setting. Invalid when skipping a match.s
+[Cheats/Master League Experience points gained after the match +9999 Valid only for those who participated in the match with the "Player growth" setting. Invalid when skipping a match.s]
 patch=1,EE,D0B02B48,extended,00005D44
 patch=1,EE,20B02B30,extended,2405270F

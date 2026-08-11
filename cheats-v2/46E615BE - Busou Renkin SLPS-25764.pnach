@@ -1,19 +1,19 @@
 gametitle=Busou Renkin SLPS-25764
-//Heat-up triggered press circle button
+[Heat-up triggered press circle button]
 patch=1,EE,20134FA4,extended,00000000
 
-//Maximum struggle gauge
+[Maximum struggle gauge]
 patch=1,EE,2013B86C,extended,00000000
 
-//EXP 999999
+[EXP 999999]
 patch=1,EE,20170940,extended,3C01000F
 patch=1,EE,20170960,extended,342F423F
 
-//All players selection available Press the R1 button
+[All players selection available Press the R1 button]
 patch=1,EE,D0252002,extended,0000F7FF
 patch=1,EE,00232A84,extended,0000003F
 
-//Papillon Park all Press the L1 button
+[Papillon Park all Press the L1 button]
 patch=1,EE,D0252002,extended,0000FBFF
 patch=1,EE,20232A92,extended,FFFFFFFF
 patch=1,EE,D0252002,extended,0000FBFF

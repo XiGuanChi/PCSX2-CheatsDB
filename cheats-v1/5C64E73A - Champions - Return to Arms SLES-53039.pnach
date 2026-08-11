@@ -1,13 +1,13 @@
-//Cheats/Activate cheat mode
+[Cheats/Activate cheat mode]
 patch=1,EE,D04FA7E0,extended,00000000
 patch=1,EE,004FA7E0,extended,00000001
 
-//Cheats/Immortality menu invulnerability
+[Cheats/Immortality menu invulnerability]
 patch=1,EE,D0450B0C,extended,00000000
 patch=1,EE,00450B0C,extended,00000001
 
-//Cheats/Max Gold
+[Cheats/Max Gold]
 patch=1,EE,204DA4D4,extended,05F5E0FF
 
-//Cheats/Max Gold P2
+[Cheats/Max Gold P2]
 patch=1,EE,204DF104,extended,05F5E0FF

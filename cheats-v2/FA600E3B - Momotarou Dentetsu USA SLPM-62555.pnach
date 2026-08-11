@@ -1,12 +1,12 @@
 gametitle=Momotarou Dentetsu USA SLPM-62555
-//P1 Money Max
+[P1 Money Max]
 patch=1,EE,2038E410,extended,3B9AC9FF
 
-//P3 Money 0
+[P3 Money 0]
 patch=1,EE,2038E47C,extended,C4653601
 
-//P3 Money 0
+[P3 Money 0]
 patch=1,EE,2038E4E8,extended,C4653601
 
-//P4 Money 0
+[P4 Money 0]
 patch=1,EE,2038E554,extended,C4653601

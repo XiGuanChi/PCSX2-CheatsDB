@@ -1,11 +1,11 @@
-//Cheats/Infinite NOS Usage
+[Cheats/Infinite NOS Usage]
 patch=1,EE,2044EDE4,extended,00000000
 
-//Cheats/Max Infinite NOS Non-Challenges
+[Cheats/Max Infinite NOS Non-Challenges]
 patch=1,EE,2026F0FC,extended,C44000B8
 patch=1,EE,2026F104,extended,E44000BC
 
-//Cheats/Max Infinite NOS Challenges
+[Cheats/Max Infinite NOS Challenges]
 patch=1,EE,200C0240,extended,AC8200AC
 patch=1,EE,200C0244,extended,3C0142C8
 patch=1,EE,200C0248,extended,AC8100B8
@@ -14,7 +14,7 @@ patch=1,EE,200C0250,extended,AC8100BC
 patch=1,EE,2026F0B0,extended,0C030090
 patch=1,EE,2026F0B4,extended,24020001
 
-//Cheats/Idiot Racer AI With this code, it does not affect traffic not in the race and series
+[Cheats/Idiot Racer AI With this code, it does not affect traffic not in the race and series]
 patch=1,EE,200C0260,extended,8C21EB98
 patch=1,EE,200C0264,extended,10240002
 patch=1,EE,200C0268,extended,00000000
@@ -26,56 +26,56 @@ patch=1,EE,200C027C,extended,7FB30170
 patch=1,EE,20451A70,extended,08030098
 patch=1,EE,20451A74,extended,3C010060
 
-//Cheats/Idiot Normal Traffic and Cop AI With this code, it affects the cars not in the race and  series
+[Cheats/Idiot Normal Traffic and Cop AI With this code, it affects the cars not in the race and  series]
 patch=1,EE,202762B0,extended,03E00008
 patch=1,EE,202762B4,extended,00000000
 
-//Cheats/Max Series Points While Racing
+[Cheats/Max Series Points While Racing]
 patch=1,EE,200C0280,extended,0807BCE2
 patch=1,EE,200C0284,extended,AE2202DC
 patch=1,EE,2027B78C,extended,2402270F
 patch=1,EE,2027B790,extended,0C0300A0
 
-//Cheats/Max Cash While Driving In City
+[Cheats/Max Cash While Driving In City]
 patch=1,EE,200C0220,extended,3C0705F5
 patch=1,EE,200C0224,extended,34E7E0FF
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,AC674C88
 patch=1,EE,202946DC,extended,0C030088
 
-//Cheats/Max Respect While Driving In City
+[Cheats/Max Respect While Driving In City]
 patch=1,EE,200C0230,extended,3C0205F5
 patch=1,EE,200C0234,extended,3442E0FF
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,200C023C,extended,AC624C90
 patch=1,EE,202946E4,extended,0C03008C
 
-//Cheats/Stop Timer
+[Cheats/Stop Timer]
 patch=1,EE,20253830,extended,00000000
 
-//Cheats/View Progress To Have All Girlfriends
+[Cheats/View Progress To Have All Girlfriends]
 patch=1,EE,201D1CD8,extended,24030001
 patch=1,EE,201D1CDC,extended,AC434500
 
-//Cheats/View Progress To Have All Crew Meet Series Completed
+[Cheats/View Progress To Have All Crew Meet Series Completed]
 patch=1,EE,201D1D68,extended,24030001
 patch=1,EE,201D1D6C,extended,A4430014
 
-//Cheats/View The Warehouse To Have All Girlfriends
+[Cheats/View The Warehouse To Have All Girlfriends]
 patch=1,EE,202E58B0,extended,24020001
 patch=1,EE,202E58B4,extended,ACC20000
 patch=1,EE,202E58EC,extended,ACC20000
 
-//Cheats/Unlock All Cars View In Showroom
+[Cheats/Unlock All Cars View In Showroom]
 patch=1,EE,202F59F4,extended,00000000
 patch=1,EE,202F59FC,extended,24020001
 patch=1,EE,202F5A00,extended,A0620018
 
-//Cheats/Unlock All Girlfriend's Video
+[Cheats/Unlock All Girlfriend's Video]
 patch=1,EE,4063332C,extended,0011004A
 patch=1,EE,00000003,extended,00000000
 patch=1,EE,206346D4,extended,00000001
 
-//Cheats/Unlock All Quick Race Challenges
+[Cheats/Unlock All Quick Race Challenges]
 patch=1,EE,406182F0,extended,00210055
 patch=1,EE,00000001,extended,00000000

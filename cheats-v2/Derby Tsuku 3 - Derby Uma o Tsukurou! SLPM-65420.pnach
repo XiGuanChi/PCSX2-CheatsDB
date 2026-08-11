@@ -1,8 +1,8 @@
 gametitle=Derby Tsuku 3 - Derby Uma o Tsukurou! SLPM-65420
-//Money MAX (99,999,999,999 yen)
+[Money MAX (99,999,999,999 yen)]
 patch=1,EE,2024D9CC,extended,AC630000
 
-//A 2-year-old horse's ability other than - (rank) isdisplay only
+[A 2-year-old horse's ability other than - (rank) isdisplay only]
 patch=1,EE,2047E184,extended,00009D81
 patch=1,EE,2047E188,extended,00009D81
 patch=1,EE,2047E18C,extended,00009D81

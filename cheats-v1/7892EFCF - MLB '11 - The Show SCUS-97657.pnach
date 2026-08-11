@@ -1,4 +1,4 @@
-//Cheats/Always Make Contact Hold R1
+[Cheats/Always Make Contact Hold R1]
 patch=1,EE,20826170,extended,8E62001C
 patch=1,EE,20826178,extended,8E250000
 patch=1,EE,20826258,extended,10400E76
@@ -7,7 +7,7 @@ patch=1,EE,20826170,extended,34050006
 patch=1,EE,20826178,extended,AE250000
 patch=1,EE,20826258,extended,00000000
 
-//Cheats/Hit Homeruns All the Time Hold R1 or Square
+[Cheats/Hit Homeruns All the Time Hold R1 or Square]
 patch=1,EE,200A0000,extended,3C060022
 patch=1,EE,200A0004,extended,24C6E3B6
 patch=1,EE,200A0008,extended,90C30001
@@ -29,10 +29,10 @@ patch=1,EE,200A0048,extended,2403FFFF
 patch=1,EE,200A004C,extended,0820A6A0
 patch=1,EE,20829A78,extended,08028000
 
-//Cheats/Infinite Funds All Teams
+[Cheats/Infinite Funds All Teams]
 patch=1,EE,20738664,extended,00000000
 
-//CheatsView Staff For 999,999,999 Funding
+[CheatsView Staff For 999,999,999 Funding]
 patch=1,EE,200C0200,extended,3C023B9A
 patch=1,EE,200C0204,extended,3442C9FF
 patch=1,EE,200C0208,extended,AC620300

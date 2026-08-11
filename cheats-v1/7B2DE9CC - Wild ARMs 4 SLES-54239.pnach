@@ -1,38 +1,38 @@
-//Cheats/Infinite Gold
+[Cheats/Infinite Gold]
 patch=1,EE,204e6104,extended,0098967f
 
-//Cheats/Infinite Health In Battle Jude Maverick
+[Cheats/Infinite Health In Battle Jude Maverick]
 patch=1,EE,20529150,extended,0000270F
 
-//Cheats/Infinite MP In Battle Jude Maverick
+[Cheats/Infinite MP In Battle Jude Maverick]
 patch=1,EE,204E6188,extended,0000270F
 patch=1,EE,204E618C,extended,0000270F
 
-//Cheats/Infinite Health In Battle Arnaud Vasquez
+[Cheats/Infinite Health In Battle Arnaud Vasquez]
 patch=1,EE,205295D0,extended,0000270F
 
-//Cheats/Infinite MP In Battle Arnaud Vasquez
+[Cheats/Infinite MP In Battle Arnaud Vasquez]
 patch=1,EE,204E6360,extended,0000270F
 patch=1,EE,204E6364,extended,0000270F
 
-//Cheats/Infinite Health In Battle Yulie Ahtreide
+[Cheats/Infinite Health In Battle Yulie Ahtreide]
 patch=1,EE,20529390,extended,0000270F
 
-//Cheats/Infinite MP In Battle Yulie Ahtreide
+[Cheats/Infinite MP In Battle Yulie Ahtreide]
 patch=1,EE,204E6274,extended,0000270F
 patch=1,EE,204E6278,extended,0000270F
 
-//Cheats/Infinite Health In Battle Raquel Applegate
+[Cheats/Infinite Health In Battle Raquel Applegate]
 patch=1,EE,20529810,extended,0000270F
 
-//Cheats/Infinite MP In Battle Raquel Applegate
+[Cheats/Infinite MP In Battle Raquel Applegate]
 patch=1,EE,204E644C,extended,0000270F
 patch=1,EE,204E6450,extended,0000270F
 
-//Cheats/Infinite Accelerator Gauge
+[Cheats/Infinite Accelerator Gauge]
 patch=1,EE,201759A4,extended,00000000
 
-//Cheats/No Damage +1 Hit Kill
+[Cheats/No Damage +1 Hit Kill]
 patch=1,EE,20183200,extended,08028000
 patch=1,EE,20183204,extended,28B60005
 patch=1,EE,200A0000,extended,12C00003
@@ -42,6 +42,6 @@ patch=1,EE,200A0014,extended,FFBF0090
 patch=1,EE,200A0018,extended,08060C82
 patch=1,EE,20185234,extended,00000000
 
-//Cheats/Win a battle to reach the max level
+[Cheats/Win a battle to reach the max level]
 patch=1,EE,20223A0C,extended,00000000
 

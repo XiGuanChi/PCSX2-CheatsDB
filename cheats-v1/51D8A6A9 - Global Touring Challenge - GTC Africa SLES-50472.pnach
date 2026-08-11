@@ -1,6 +1,6 @@
-//Cheats/Start On 3rd Lap
+[Cheats/Start On 3rd Lap]
 patch=1,EE,103D430C,extended,00000003
 
-//Cheats/Turn Off CPU AI
+[Cheats/Turn Off CPU AI]
 patch=1,EE,20107E50,extended,00000000
 patch=1,EE,20107F64,extended,00000000

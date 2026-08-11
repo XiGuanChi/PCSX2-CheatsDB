@@ -1,11 +1,11 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,3C01447A
 patch=1,EE,200C0224,extended,AC8102C4
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C48002C4
 patch=1,EE,20232930,extended,08030088
 
-//Cheats/Max Skill Points
+[Cheats/Max Skill Points]
 patch=1,EE,201D5880,extended,24020063
 patch=1,EE,201D5884,extended,03E00008
 patch=1,EE,201D5888,extended,A4820000

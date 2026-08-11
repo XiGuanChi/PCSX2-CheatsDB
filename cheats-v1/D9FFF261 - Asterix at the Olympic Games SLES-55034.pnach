@@ -1,14 +1,14 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20911188,extended,000D0D00
 
-//Cheats/Invulnerable
+[Cheats/Invulnerable]
 patch=1,EE,2031B134,extended,100000BA
 
 /[Cheats/1 Hit Kill] 
 patch=1,EE,20439B28,extended,00000000
 
-//Cheats/Camera will always follow the player when jump
+[Cheats/Camera will always follow the player when jump]
 patch=1,EE,20146C5C,extended,10000027
 
-//Cheats/Max Helmets 9999
+[Cheats/Max Helmets 9999]
 patch=1,EE,2091118C,extended,0000270F

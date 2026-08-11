@@ -1,25 +1,25 @@
 gametitle=Jak 3 SCUS-97330
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20180360,extended,41000000
 
-//Infinite Ammo (Blaster Mod)
+[Infinite Ammo (Blaster Mod)]
 patch=1,EE,205C0664,extended,42C80000
 
-//Infinite Ammo Peace Maker
+[Infinite Ammo Peace Maker]
 patch=1,EE,205C066C,extended,42C80000
 
-//Infinite Ammo Scatter Gun
+[Infinite Ammo Scatter Gun]
 patch=1,EE,205C0660,extended,42480000
 
-//Infinite Ammo Vulcan Fury
+[Infinite Ammo Vulcan Fury]
 patch=1,EE,205C0668,extended,40A00000
 
-//Max Precursor Orbs
+[Max Precursor Orbs]
 patch=1,EE,205C05F0,extended,44160000
 
-//Unlock All Secrets
+[Unlock All Secrets]
 patch=1,EE,205C0650,extended,FFFFFFFF
 patch=1,EE,205C0654,extended,FFFFFFFF
 
-//Unlock All Vehicles
+[Unlock All Vehicles]
 patch=1,EE,005C0670,extended,000000FF

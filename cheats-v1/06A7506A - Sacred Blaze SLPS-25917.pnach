@@ -1,24 +1,24 @@
-//Cheats/Max Money Press L3
+[Cheats/Max Money Press L3]
 patch=1,EE,D0208002,extended,0000FFFD
 patch=1,EE,203DF87C,extended,0098967F
 
-//Cheats/Not reduce money in hand
+[Cheats/Not reduce money in hand]
 patch=1,EE,D0253E48,extended,00009680
 patch=1,EE,20253E4C,extended,00000000
 
-//Cheats/Infinite & Max HP Main Character Girl
+[Cheats/Infinite & Max HP Main Character Girl]
 patch=1,EE,203CBE20,extended,4B10F8C0
 patch=1,EE,203CBE1C,extended,4B10F8C0
 
-//Cheats/Rewards Experience Points 100
+[Cheats/Rewards Experience Points 100]
 patch=1,EE,D02B4346,extended,0000AE23
 patch=1,EE,202B4344,extended,AE250028
 
-//Cheats/Max faith in each region increases
+[Cheats/Max faith in each region increases]
 patch=1,EE,D024A516,extended,00001420
 patch=1,EE,2024A514,extended,00000000
 
-//Cheats/Growth policy all selectable save reflect
+[Cheats/Growth policy all selectable save reflect]
 patch=1,EE,E0055060,extended,00253086
 patch=1,EE,20253084,extended,10600006
 patch=1,EE,20253088,extended,0060082D
@@ -26,56 +26,56 @@ patch=1,EE,20253098,extended,00431025
 patch=1,EE,2025309C,extended,FC220000
 patch=1,EE,202530A4,extended,24020001
 
-//Cheats/Maximum HP
+[Cheats/Maximum HP]
 patch=1,EE,200F70EC,extended,E480003C
 
-//Cheats/Status max of characters to new enrollment or to Lvup FAITH 999
+[Cheats/Status max of characters to new enrollment or to Lvup FAITH 999]
 patch=1,EE,D023B63A,extended,00004503
 patch=1,EE,2023B638,extended,00000000
 
-//Cheats/Max HP 999 New members
+[Cheats/Max HP 999 New members]
 patch=1,EE,D023B63A,extended,00004503
 patch=1,EE,2023B65C,extended,00000000
 
-//Cheats/Instant Win Press Start
+[Cheats/Instant Win Press Start]
 patch=1,EE,D020810C,extended,00000008
 patch=1,EE,20237688,extended,24020002
 patch=1,EE,20237688,extended,0240102D
 patch=1,EE,2024A888,extended,24020001
 
-//Cheats/Hiring 0 + Recovery 999
+[Cheats/Hiring 0 + Recovery 999]
 patch=1,EE,00808424,extended,00000000
 patch=1,EE,10808430,extended,000003E7
 
-//Cheats/SP 0 + AT 999
+[Cheats/SP 0 + AT 999]
 patch=1,EE,007FB0E0,extended,00000000
 patch=1,EE,107FB0EC,extended,000003E7
 
-//Cheats/Her Lv 50
+[Cheats/Her Lv 50]
 patch=1,EE,003CBE10,extended,00000032
 
-//Cheats/Her Exp 100
+[Cheats/Her Exp 100]
 patch=1,EE,103CBE14,extended,00000064
 
-//Cheats/Her Max HP
+[Cheats/Her Max HP]
 patch=1,EE,203CBE1C,extended,4479C000
 
-//Cheats/Her Max Current HP
+[Cheats/Her Max Current HP]
 patch=1,EE,203CBE20,extended,4479C000
 
-//Cheats/Her Max SP
+[Cheats/Her Max SP]
 patch=1,EE,203CBE24,extended,4479C000
 
-//Cheats/Her Max Current SP
+[Cheats/Her Max Current SP]
 patch=1,EE,203CBE28,extended,4479C000
 
-//Cheats/Infinite Move for Character In Battle
+[Cheats/Infinite Move for Character In Battle]
 patch=1,EE,D029830C,extended,00000741
 patch=1,EE,20298310,extended,24030001
 patch=1,EE,D029830C,extended,00000741
 patch=1,EE,20298314,extended,A0830741
 
-//Cheats/Unlock All Monster Encyclopedia
+[Cheats/Unlock All Monster Encyclopedia]
 patch=1,EE,403E2E58,extended,00240001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,103E2EE8,extended,0000FFFF

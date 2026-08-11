@@ -1,13 +1,13 @@
 gametitle=ATV Offroad Fury 3 SLES-53754
-//Disable A.I.
+[Disable A.I.]
 patch=1,EE,006F3970,extended,00000001
 
-//Everything Available
+[Everything Available]
 patch=1,EE,2022F7E0,extended,24020001
 patch=1,EE,2022F7E4,extended,AC820004
 patch=1,EE,2022F7EC,extended,24020000
 
-//Max Credits
+[Max Credits]
 patch=1,EE,20199B38,extended,3C03005F
 patch=1,EE,20199B48,extended,AC430034
 patch=1,EE,20199B50,extended,24130000

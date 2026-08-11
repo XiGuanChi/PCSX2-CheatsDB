@@ -1,40 +1,40 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2017B604,extended,C4410208
 patch=1,EE,2017B60C,extended,E4410200
 
-//Cheats/Press L1+L2 Race Timer Disabled
+[Cheats/Press L1+L2 Race Timer Disabled]
 patch=1,EE,D0698D82,extended,0000FAFF
 patch=1,EE,203C1720,extended,00000000
 patch=1,EE,D0698D82,extended,0000FAFF
 patch=1,EE,203C1724,extended,00000000
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,40B1E008,extended,009F0001
 patch=1,EE,3F800000,extended,00000000
 
-//Cheats/Unlock Everything alt
+[Cheats/Unlock Everything alt]
 patch=1,EE,2066FBF8,extended,00000001
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,40B1F008,extended,00280001
 patch=1,EE,3F800000,extended,00000000
 
-//Cheats/Unlock All Concept Art
+[Cheats/Unlock All Concept Art]
 patch=1,EE,40B1F0A8,extended,00130001
 patch=1,EE,3F800000,extended,00000000
 
-//Cheats/Unlock All Landmarks
+[Cheats/Unlock All Landmarks]
 patch=1,EE,40B1F0F4,extended,000F0001
 patch=1,EE,3F800000,extended,00000000
 
-//Cheats/Unlock All Covers
+[Cheats/Unlock All Covers]
 patch=1,EE,40B1F130,extended,004F0001
 patch=1,EE,3F800000,extended,00000000
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,40B1F26C,extended,00060001
 patch=1,EE,3F800000,extended,00000000
 
-//Cheats/Unlock Story Finished you can change heroes in the game
+[Cheats/Unlock Story Finished you can change heroes in the game]
 patch=0,EE,2031e1b8,extended,e6010000
 patch=0,EE,2031e1c4,extended,c6010000

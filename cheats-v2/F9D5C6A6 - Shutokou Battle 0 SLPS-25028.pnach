@@ -1,6 +1,6 @@
 gametitle=Shutokou Battle 0 SLPS-25028
-//CP 999999000
+[CP 999999000]
 patch=1,EE,2038CA08,extended,00999999
 
-//ODO meter 999999
+[ODO meter 999999]
 patch=1,EE,2038C8E0,extended,3B9AC618

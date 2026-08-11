@@ -1,16 +1,16 @@
-//Cheats/Max Experience Points 999999
+[Cheats/Max Experience Points 999999]
 patch=1,EE,2070D684,extended,000F423F
 
-//Cheats/Level Extreme
+[Cheats/Level Extreme]
 patch=1,EE,2070D670,extended,00000008
 
-//Cheats/Max Proficiency Level 999
+[Cheats/Max Proficiency Level 999]
 patch=1,EE,2070D678,extended,000003E7
 patch=1,EE,2070D67C,extended,000003E7
 patch=1,EE,2070D680,extended,000003E7
 
-//Cheats/Unlock All Mudras This may cause problems with game progress
+[Cheats/Unlock All Mudras This may cause problems with game progress]
 patch=1,EE,20683B28,extended,FFFFFF00
 
-//Cheats/Unlock Competition Mode Shikigami
+[Cheats/Unlock Competition Mode Shikigami]
 patch=1,EE,20683AA0,extended,FFFFFF00

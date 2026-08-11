@@ -1,53 +1,53 @@
 gametitle=Digimon World 4 SLES-53405
-//Max Bits
+[Max Bits]
 patch=1,EE,203d70ec,extended,3C0605F5
 patch=1,EE,203d70f0,extended,AC46000C
 
-//Pause to Restore HP
+[Pause to Restore HP]
 patch=1,EE,203fa1cc,extended,8C520024
 
-//Pause to Restore MP
+[Pause to Restore MP]
 patch=1,EE,203fa364,extended,8C550024
 
-//Infinite Item Use
+[Infinite Item Use]
 patch=1,EE,203cf9d0,extended,26030000
 
-//LP
+[LP]
 patch=1,EE,203d683c,extended,34142700
 patch=1,EE,203d6840,extended,AC54000C
 
-//Infinite MP
+[Infinite MP]
 patch=1,EE,203fa360,extended,3415270F
 patch=1,EE,203fa364,extended,AC55000C
 patch=1,EE,203d68fc,extended,3414270F
 patch=1,EE,203d6900,extended,AC54000C
 
-//All Items
+[All Items]
 patch=1,EE,203cf60c,extended,34020009
 patch=1,EE,203cf610,extended,ACA20014
 patch=1,EE,203cf614,extended,10400002
 
-//Max HP
+[Max HP]
 patch=1,EE,203FAF30,extended,00000000
 
-//Max MP
+[Max MP]
 patch=1,EE,203FB010,extended,00000000
 
-//View Status To Refill HP To Max
+[View Status To Refill HP To Max]
 patch=1,EE,200C0220,extended,3C170001
 patch=1,EE,200C0224,extended,36F7869F
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,AC57000C
 patch=1,EE,203D6758,extended,0C030088
 
-//View Status To Refill MP To Max
+[View Status To Refill MP To Max]
 patch=1,EE,200C0230,extended,3C1E0001
 patch=1,EE,200C0234,extended,37DE869F
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,200C023C,extended,AC5E000C
 patch=1,EE,203D67CC,extended,0C03008C
 
-//1-Hit Death (Enemies)
+[1-Hit Death (Enemies)]
 patch=1,EE,200C0240,extended,50E00001
 patch=1,EE,200C0244,extended,AC60000C
 patch=1,EE,200C0248,extended,8C63000C

@@ -1,58 +1,58 @@
 gametitle=Crash Twinsanity SLUS-20909
-//Infinite Lives/Gems
+[Infinite Lives/Gems]
 patch=1,EE,200C0220,extended,24023263
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,A4820000
 patch=1,EE,2016961C,extended,0C030088
 
-//Nsanity Isle
+[Nsanity Isle]
 patch=1,EE,2098C064,extended,FFFFFFFF
 
-//Jungle Bungle
+[Jungle Bungle]
 patch=1,EE,2098C068,extended,FFFFFFFF
 
-//Cavern Catastrophe
+[Cavern Catastrophe]
 patch=1,EE,2098C06C,extended,FFFFFFFF
 
-//Totem Kokum
+[Totem Kokum]
 patch=1,EE,2098C070,extended,FFFFFFFF
 
-//Iceberg Lab
+[Iceberg Lab]
 patch=1,EE,2098C674,extended,FFFFFFFF
 
-//Ice Climb
+[Ice Climb]
 patch=1,EE,2098C678,extended,FFFFFFFF
 
-//Slip Slide Icecapades
+[Slip Slide Icecapades]
 patch=1,EE,2098C67C,extended,FFFFFFFF
 
-//High Seas Hi-jinks
+[High Seas Hi-jinks]
 patch=1,EE,2098C680,extended,FFFFFFFF
 
-//Academy of Evil
+[Academy of Evil]
 patch=1,EE,2098C684,extended,FFFFFFFF
 
-//Boiler Room Doom
+[Boiler Room Doom]
 patch=1,EE,2098C688,extended,FFFFFFFF
 
-//Classroom Chaos
+[Classroom Chaos]
 patch=1,EE,2098C68C,extended,FFFFFFFF
 
-//Rooftop Rampage
+[Rooftop Rampage]
 patch=1,EE,2098C690,extended,FFFFFFFF
 
-//Twinsanity Island
+[Twinsanity Island]
 patch=1,EE,2098C694,extended,FFFFFFFF
 
-//Rockslide Rumble
+[Rockslide Rumble]
 patch=1,EE,2098C698,extended,FFFFFFFF
 
-//Bandicoot Pursuit
+[Bandicoot Pursuit]
 patch=1,EE,2098C69C,extended,FFFFFFFF
 
-//Ant Agony
+[Ant Agony]
 patch=1,EE,2098C6A0,extended,FFFFFFFF
 
-//All Gems/Extras
+[All Gems/Extras]
 patch=1,EE,4098C064,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000

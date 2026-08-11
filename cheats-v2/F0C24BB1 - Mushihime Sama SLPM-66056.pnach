@@ -1,18 +1,18 @@
 gametitle=Mushihime Sama SLPM-66056
-//Infinite Lives P1
+[Infinite Lives P1]
 patch=1,EE,201F4AD4,extended,00000000
 
-//Infinite Bomb P1
+[Infinite Bomb P1]
 patch=1,EE,0050DED0,extended,00000006
 
-//Infinite Bomb P2
+[Infinite Bomb P2]
 patch=1,EE,0050DF98,extended,00000006
 
-//Totale Immortality
+[Totale Immortality]
 patch=1,EE,0050DF68,extended,000000FF
 
-//6 Credits infinite
+[6 Credits infinite]
 patch=1,EE,0050DECC,extended,00000007
 
-//(1P & 2P) Credits infinite
+[(1P & 2P) Credits infinite]
 patch=1,EE,201F4AD4,extended,00000000

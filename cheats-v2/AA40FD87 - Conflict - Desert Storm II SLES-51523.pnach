@@ -1,20 +1,20 @@
 gametitle=Conflict - Desert Storm II SLES-51523
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20167A54,extended,3C014316
 patch=1,EE,20167A5C,extended,AC810060
 
-//Infinite/Max Ammo
+[Infinite/Max Ammo]
 patch=1,EE,201B4AF4,extended,240203E7
 
-//Infinite Ammo Main Weapon
+[Infinite Ammo Main Weapon]
 patch=1,EE,201B0238,extended,00000000
 
-//Infinite MedPacks
+[Infinite MedPacks]
 patch=1,EE,201B4B5C,extended,00000000
 
-//infinite Grenades
+[infinite Grenades]
 patch=1,EE,201AFD10,extended,00000000
 
-//God Mode (Squad & Vechicles)
+[God Mode (Squad & Vechicles)]
 patch=1,EE,203CE73C,extended,00000000
 

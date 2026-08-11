@@ -1,4 +1,4 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0200,extended,3C01005A
 patch=1,EE,200C0204,extended,8C21322C
 patch=1,EE,200C0208,extended,1020000B
@@ -12,38 +12,38 @@ patch=1,EE,200C0230,extended,AC22001C
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,204c896c,extended,08030080
 
-//Cheats/Infinite Health alt
+[Cheats/Infinite Health alt]
 patch=1,EE,200C0220,extended,03E00008
 patch=1,EE,200C0224,extended,E4800018
 patch=1,EE,20368E10,extended,08030088
 patch=1,EE,20368E14,extended,C480001C
 
-//Cheats/Infinite Health Kits And Ammo
+[Cheats/Infinite Health Kits And Ammo]
 patch=1,EE,202AF088,extended,00000000
 
-//Cheats/Infinite Insanity
+[Cheats/Infinite Insanity]
 patch=1,EE,202F0EF4,extended,00000000
 
-//Cheats/Press R3, L3 For Invincibility
+[Cheats/Press R3, L3 For Invincibility]
 patch=1,EE,20572E98,extended,00000017
 patch=1,EE,20572E9C,extended,00000014
 patch=1,EE,20572EA0,extended,FFFFFFFF
 
-//Cheats/Press L3, R3 For All Maps
+[Cheats/Press L3, R3 For All Maps]
 patch=1,EE,20572E70,extended,00000014
 patch=1,EE,20572E74,extended,00000017
 patch=1,EE,20572E78,extended,FFFFFFFF
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,203267A4,extended,00000000
 
-//Cheats/Infinite Flashlight Power
+[Cheats/Infinite Flashlight Power]
 patch=1,EE,20269944,extended,00000000
 
-//Cheats/Infinite Items
+[Cheats/Infinite Items]
 patch=1,EE,202AF088,extended,00000000
 
-//Cheats/Enemies Die Instantly Press L2 Enemies Kill You Press R2
+[Cheats/Enemies Die Instantly Press L2 Enemies Kill You Press R2]
 patch=1,EE,E002FEFF,extended,005BAF02
 patch=1,EE,20368E3C,extended,3C014348
 patch=1,EE,20368E40,extended,AC810018

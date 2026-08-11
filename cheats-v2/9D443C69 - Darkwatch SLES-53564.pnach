@@ -1,22 +1,22 @@
 gametitle=Darkwatch SLES-53564
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200FFE00,extended,3C0142C8
 patch=1,EE,200FFE0C,extended,AE210098
 patch=1,EE,200FFE10,extended,AE21002C
 patch=1,EE,200FFE14,extended,03E00008
 patch=1,EE,2021F4F0,extended,0C03FF80
 
-//Infinite Lore
+[Infinite Lore]
 patch=1,EE,200FFE00,extended,3C0142C8
 patch=1,EE,200FFE04,extended,AE2100A0
 patch=1,EE,200FFE08,extended,AE2100A4
 patch=1,EE,200FFE14,extended,03E00008
 patch=1,EE,2021F4F0,extended,0C03FF80
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,202A5C78,extended,00000000
 
-//Infinite Reload//Infinite Blood Shield
+[Infinite Reload//Infinite Blood Shield]
 patch=1,EE,200C0240,extended,8C81000C
 patch=1,EE,200C0244,extended,8C210090
 patch=1,EE,200C0248,extended,30210006
@@ -27,67 +27,67 @@ patch=1,EE,200C0258,extended,08087A55
 patch=1,EE,200C025C,extended,C48000A0
 patch=1,EE,2021E950,extended,08030090
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,202A7948,extended,00000000
 
-//Infinite Blood Bar
+[Infinite Blood Bar]
 patch=1,EE,2021F684,extended,00000000
 
-//Infinite Power Usage (Press: Right+Select=ON, Left+Select=OFF)
+[Infinite Power Usage (Press: Right+Select=ON, Left+Select=OFF)]
 patch=1,EE,D073E182,extended,0000FFDE
 patch=1,EE,202693A8,extended,00000000
 patch=1,EE,D073E182,extended,0000FF7E
 patch=1,EE,202693A8,extended,E60100FC
 patch=1,EE,202A7944,extended,00000000
 
-//Level Modifiers
-//Canyon Shoot (Ride Like The Devil)
+[Level Modifiers]
+[Canyon Shoot (Ride Like The Devil)]
 patch=0,EE,20320908,extended,24040001
 
-//Cemetery (Boneyard)
+[Cemetery (Boneyard)]
 patch=0,EE,20320908,extended,24040002
 
-//Devil's Belly Mine
+[Devil's Belly Mine]
 patch=0,EE,20320908,extended,24040003
 
-//Darkwatch Outpost
+[Darkwatch Outpost]
 patch=0,EE,20320908,extended,24040004
 
-//War Train
+[War Train]
 patch=0,EE,20320908,extended,24040005
 
-//Torture Maze
+[Torture Maze]
 patch=0,EE,20320908,extended,24040006
 
-//Trading Post (Baptism Of Fire)
+[Trading Post (Baptism Of Fire)]
 patch=0,EE,20320908,extended,24040007
 
-//Citadel
+[Citadel]
 patch=0,EE,20320908,extended,24040008
 
-//Regulator (Rescue)
+[Regulator (Rescue)]
 patch=0,EE,20320908,extended,2404000A
 
-//Splitting Paths (The Deadlight Prism)
+[Splitting Paths (The Deadlight Prism)]
 patch=0,EE,20320908,extended,24040009
 
-//Invasion
+[Invasion]
 patch=0,EE,20320908,extended,2404000B
 
-//Hangtown
+[Hangtown]
 patch=0,EE,20320908,extended,2404000C
 
-//Citadel Under Attack (The Morning After)
+[Citadel Under Attack (The Morning After)]
 patch=0,EE,20320908,extended,2404000D
 
-//Fall Of Citadel (Showdown)
+[Fall Of Citadel (Showdown)]
 patch=0,EE,20320908,extended,2404000E
 
-//Ride To Deadfall (The Right Train)
+[Ride To Deadfall (The Right Train)]
 patch=0,EE,20320908,extended,2404000F
 
-//Penetrating Deadfall (Deadfall)
+[Penetrating Deadfall (Deadfall)]
 patch=0,EE,20320908,extended,24040010
 
-//Ground Zero (Curse Of The West)
+[Ground Zero (Curse Of The West)]
 patch=1,EE,20320908,extended,24040011

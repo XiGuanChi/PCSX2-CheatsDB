@@ -1,9 +1,9 @@
 gametitle=SSX SLES-50030
-//Freeze Timer
+[Freeze Timer]
 patch=1,EE,20B6AC54,extended,429965A9
 
-//Have BIG score
+[Have BIG score]
 patch=1,EE,20BDE2F0,extended,000F4240
 
-//Open Everything
+[Open Everything]
 patch=1,EE,102CBBEC,extended,00000001

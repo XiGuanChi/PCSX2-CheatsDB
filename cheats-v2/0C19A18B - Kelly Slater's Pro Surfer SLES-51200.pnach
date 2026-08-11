@@ -1,18 +1,18 @@
 gametitle=Kelly Slater's Pro Surfer SLES-51200
-//All Events
+[All Events]
 patch=1,EE,2025CDAC,extended,24020001
 patch=1,EE,200FFF00,extended,AC820010
 patch=1,EE,200FFF04,extended,03E00008
 patch=1,EE,2025CDA8,extended,0803FFC0
 
-//All Surfers Vids
+[All Surfers Vids]
 patch=1,EE,202F0900,extended,24020001
 
-//All location boards
+[All location boards]
 patch=1,EE,202F0968,extended,24020001
 
-//All Levels
+[All Levels]
 patch=1,EE,2042C968,extended,00000000
 
-//All Surfers
+[All Surfers]
 patch=1,EE,2042C978,extended,00000000

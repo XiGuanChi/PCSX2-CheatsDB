@@ -1,54 +1,54 @@
-//Cheats/Infinite Elm
+[Cheats/Infinite Elm]
 patch=1,EE,2038D924,extended,000F423F
 
-//Cheats/Annette Infinite HP
+[Cheats/Annette Infinite HP]
 patch=1,EE,10386362,extended,000003E7
 
-//Cheats/Annette Infinite MP
+[Cheats/Annette Infinite MP]
 patch=1,EE,10386366,extended,000003E7
 
-//Cheats/Viktor Infinite HP
+[Cheats/Viktor Infinite HP]
 patch=1,EE,10386E8A,extended,000003E7
 
-//Cheats/Viktor Infinite MP
+[Cheats/Viktor Infinite MP]
 patch=1,EE,10386E8E,extended,000003E7
 
-//Cheats/Slayn Infinite HP
+[Cheats/Slayn Infinite HP]
 patch=1,EE,10385FAA,extended,000003E7
 
-//Cheats/Slayn Infinite MP
+[Cheats/Slayn Infinite MP]
 patch=1,EE,10385FAE,extended,000003E7
 
-//Cheats/Monika Infinite HP
+[Cheats/Monika Infinite HP]
 patch=1,EE,10389B2A,extended,000003E7
 
-//Cheats/Monika Infinite MP
+[Cheats/Monika Infinite MP]
 patch=1,EE,10389B2E,extended,000003E7
 
-//Cheats/Hugh Infinite HP
+[Cheats/Hugh Infinite HP]
 patch=1,EE,1038A29A,extended,000003E7
 
-//Cheats/Hugh Infinite MP
+[Cheats/Hugh Infinite MP]
 patch=1,EE,1038A29E,extended,000003E7
 
-//Cheats/Have All Magic
+[Cheats/Have All Magic]
 patch=1,EE,201BBB68,extended,24040001
 patch=1,EE,201BBB6C,extended,AC640014
 patch=1,EE,201BBB98,extended,24040109
 patch=1,EE,201BBBA8,extended,A4640028
 
-//Cheats/Infinite Master Points
+[Cheats/Infinite Master Points]
 patch=1,EE,0027DEAC,word,00430821
 patch=1,EE,0027DEB0,word,24020063
 patch=1,EE,0027DEB4,word,A02201E5
 
-//Cheats/Max All Resistances
+[Cheats/Max All Resistances]
 patch=1,EE,000C0220,word,24040006
 patch=1,EE,000C0224,word,A284FFFF
 patch=1,EE,000C0228,word,03E00008
 patch=1,EE,000C022C,word,A0640154
 patch=1,EE,001AF39C,word,0C030088
 
-//Cheats/Enable Debug Menu
+[Cheats/Enable Debug Menu]
 patch=1,EE,0037BAFC,extended,00000001
 

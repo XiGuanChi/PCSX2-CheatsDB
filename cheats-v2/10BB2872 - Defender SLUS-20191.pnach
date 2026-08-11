@@ -1,21 +1,21 @@
 gametitle=Defender SLUS-20191
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20186DB4,extended,8E01020C
 patch=1,EE,20186DB8,extended,AE010208
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,105653C4,extended,00000009
 
-//Infinite Credits
+[Infinite Credits]
 patch=1,EE,105653C8,extended,0000FFFF
 
-//Max Credits
+[Max Credits]
 patch=1,EE,205653C8,extended,05F5E0FF
 
-/// infinite Ammo
+[/ infinite Ammo]
 patch=1,EE,201DFB54,extended,00000000
 patch=1,EE,201E02BC,extended,00000000
 patch=1,EE,201E02C8,extended,00000000
 
-//Unlock All Ships
+[Unlock All Ships]
 patch=1,EE,20565360,extended,000000FF

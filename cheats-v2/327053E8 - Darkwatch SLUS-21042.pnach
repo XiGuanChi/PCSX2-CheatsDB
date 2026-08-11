@@ -1,12 +1,12 @@
 gametitle=Darkwatch SLUS-21042
-//Super Armor
+[Super Armor]
 patch=1,EE,20224DD8,extended,C6000008
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,202A7918,extended,00000000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,202A5C4C,extended,00000000
 
-//Blood Bar Never Decreases
+[Blood Bar Never Decreases]
 patch=1,EE,2021F684,extended,00000000

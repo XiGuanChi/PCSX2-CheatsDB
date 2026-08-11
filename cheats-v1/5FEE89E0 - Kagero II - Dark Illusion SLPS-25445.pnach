@@ -1,31 +1,31 @@
-//Cheats/Max Total Ark
+[Cheats/Max Total Ark]
 patch=1,EE,20B269E0,extended,3B9AC9FF
 
-//Cheats/Max Total Warl
+[Cheats/Max Total Warl]
 patch=1,EE,20B269E8,extended,3B9AC9FF
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20179AF8,extended,00000000
 
-//Cheats/Trap charging time 0
+[Cheats/Trap charging time 0]
 patch=1,EE,202575D8,extended,00000000
 
-//Cheats/All traps developed
+[Cheats/All traps developed]
 patch=1,EE,10B269F6,extended,0000FFFF
 patch=1,EE,20B269F8,extended,FFFFFFFF
 
-//Cheats/During mission Time limit 0 Press SELECT+L1
+[Cheats/During mission Time limit 0 Press SELECT+L1]
 patch=1,EE,20174888,extended,00000000
 patch=1,EE,D04B9642,extended,0000FBFE
 patch=1,EE,20174888,extended,24030000
 
-//Cheats/Scenario ABC cleared
+[Cheats/Scenario ABC cleared]
 patch=1,EE,00B26DAE,extended,00000007
 
-//Cheats/Unlock Museum Dark Illusion
+[Cheats/Unlock Museum Dark Illusion]
 patch=1,EE,00B26A0C,extended,000000FF
 patch=1,EE,00B2721C,extended,000000FF
 
-//Cheats/Unlock Museum Gallery and Sound Test
+[Cheats/Unlock Museum Gallery and Sound Test]
 patch=1,EE,00B26DB4,extended,00000017
 patch=1,EE,00B275C4,extended,00000017

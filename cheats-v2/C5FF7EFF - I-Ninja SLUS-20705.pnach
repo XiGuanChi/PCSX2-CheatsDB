@@ -1,23 +1,23 @@
 gametitle=I-Ninja SLUS-20705
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2032D0C8,extended,42C80000
 
-//Max Health
+[Max Health]
 patch=1,EE,2032D0CC,extended,42C80000
 
-//Max Gold Coins
+[Max Gold Coins]
 patch=1,EE,2032D13C,extended,000003E7
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,2032D168,extended,00000009
 
-//Have All Stage Coins
+[Have All Stage Coins]
 patch=1,EE,2032D134,extended,00000040
 
-//Have Black Belt
+[Have Black Belt]
 patch=1,EE,2032D144,extended,00000005
 
-//Have All Stages Completed
+[Have All Stages Completed]
 patch=1,EE,2032E0F4,extended,FFFFFFFF
 patch=1,EE,2032E0F8,extended,FFFFFFFF
 patch=1,EE,2032E0FC,extended,FFFFFFFF

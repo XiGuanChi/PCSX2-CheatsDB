@@ -1,22 +1,22 @@
 gametitle= Tom Clancy's Splinter Cell - Double Agent SLES-53827
-//Infinite HP
+[Infinite HP]
 patch=1,EE,20232AA8,extended,240101C2
 patch=1,EE,20232AAC,extended,AC4102C0
 
-//Inf Ammo
+[Inf Ammo]
 patch=1,EE,20498F40,extended,00000000
 
-//Never reload
+[Never reload]
 patch=1,EE,20498F34,extended,00000000
 
-//Infinite OCP Flasher
+[Infinite OCP Flasher]
 patch=1,EE,204922AC,extended,00000000
 
-//Always NO NOISE
+[Always NO NOISE]
 patch=1,EE,205EEB84,extended,00000000
 
-//Enemies Cant See You
+[Enemies Cant See You]
 patch=1,EE,2039251C,extended,44800000
 
-//Load Gagme - Unlock All Missions
+[Load Gagme - Unlock All Missions]
 patch=1,EE,2056A930,extended,AE420020

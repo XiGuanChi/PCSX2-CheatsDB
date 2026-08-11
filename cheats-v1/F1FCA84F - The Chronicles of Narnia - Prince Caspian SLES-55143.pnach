@@ -1,15 +1,15 @@
-//Cheats/No Player Damage
+[Cheats/No Player Damage]
 patch=1,EE,0056C1CC,extended,00000001
 
-//Cheats/1 Hit Kill Enemy
+[Cheats/1 Hit Kill Enemy]
 patch=1,EE,0056C31C,extended,00000001
 
-//Cheats/Save Anytime Press Select
+[Cheats/Save Anytime Press Select]
 patch=1,EE,D1FA9142,extended,0000FFFE
 patch=1,EE,0056C32F,extended,00000001
 
-//Cheats/Unlock All Levels Needs a savegame
+[Cheats/Unlock All Levels Needs a savegame]
 patch=1,EE,0056C1F8,extended,00000001
 
-//Cheats/Unlock Everything Needs a savegame
+[Cheats/Unlock Everything Needs a savegame]
 patch=1,EE,0056C1F7,extended,00000001

@@ -1,56 +1,56 @@
 gametitle=Robotech - Invasion SLUS-20823
-//Unlock Extras Codes Invincibility
+[Unlock Extras Codes Invincibility]
 patch=1,EE,D085A642,extended,0000BF80
 patch=1,EE,2085A640,extended,00000000
 
-//Unlimited Ammo
+[Unlimited Ammo]
 patch=1,EE,D085A646,extended,0000BF80
 patch=1,EE,2085A644,extended,00000000
 
-//1-Hit Kills
+[1-Hit Kills]
 patch=1,EE,D085A64A,extended,0000BF80
 patch=1,EE,2085A648,extended,00000000
 
-//Access To All Levels
+[Access To All Levels]
 patch=1,EE,D085A64E,extended,0000BF80
 patch=1,EE,2085A64C,extended,00000000
 
-//Lancer's Multiplayer Skin
+[Lancer's Multiplayer Skin]
 patch=1,EE,D085A652,extended,0000BF80
 patch=1,EE,2085A650,extended,00000000
 
-//Scott Bernard's Multiplayer Skin
+[Scott Bernard's Multiplayer Skin]
 patch=1,EE,D085A656,extended,0000BF80
 patch=1,EE,2085A654,extended,00000000
 
-//Rand's Multiplayer Skin
+[Rand's Multiplayer Skin]
 patch=1,EE,D085A65A,extended,0000BF80
 patch=1,EE,2085A658,extended,00000000
 
-//Rock's Multiplayer Skin
+[Rock's Multiplayer Skin]
 patch=1,EE,D085A65E,extended,0000BF80
 patch=1,EE,2085A65C,extended,00000000
 
-//Activate Cheat Codes Invincibility
+[Activate Cheat Codes Invincibility]
 patch=1,EE,2085A640,extended,3F800000
 
-//Unlimited Ammo
+[Unlimited Ammo]
 patch=1,EE,2085A644,extended,3F800000
 
-//1-Hit Kills
+[1-Hit Kills]
 patch=1,EE,2085A648,extended,3F800000
 
-//Access To All Levels
+[Access To All Levels]
 patch=1,EE,2085A64C,extended,3F800000
 
-//Lancer's Multiplayer Skin
+[Lancer's Multiplayer Skin]
 patch=1,EE,2085A650,extended,3F800000
 
-//Scott Bernard's Multiplayer Skin
+[Scott Bernard's Multiplayer Skin]
 patch=1,EE,2085A654,extended,3F800000
 
-//Rand's Multiplayer Skin
+[Rand's Multiplayer Skin]
 patch=1,EE,2085A658,extended,3F800000
 
-//Rock's Multiplayer Skin
+[Rock's Multiplayer Skin]
 patch=1,EE,2085A65C,extended,3F800000

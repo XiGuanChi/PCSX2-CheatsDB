@@ -1,24 +1,24 @@
 gametitle=Bistro Cupid 2 SLPM-65347-8
-//The money in fixing the management at the time
+[The money in fixing the management at the time]
 patch=1,EE,201DBF94,extended,0001307A
 patch=1,EE,201DBFA0,extended,AC460014
 
-//Fatigue complete recovery the number of days elapsed
+[Fatigue complete recovery the number of days elapsed]
 patch=1,EE,20250CD8,extended,34020100
 patch=1,EE,20250CE0,extended,AC620000
 
-//Progress UP up to the limit in the recipe research
+[Progress UP up to the limit in the recipe research]
 patch=1,EE,202030B0,extended,8EC20004
 
-//Not decrease HP
+[Not decrease HP]
 patch=1,EE,201CE0EC,extended,92610002
 patch=1,EE,201CE0F4,extended,8E840010
 patch=1,EE,201CE100,extended,0001200A
 
-//After the battle , all recipes acquisition
+[After the battle , all recipes acquisition]
 patch=1,EE,2025D128,extended,34070001
 patch=1,EE,2025D12C,extended,A127000C
 
-//An enemy annihilation in a moment
+[An enemy annihilation in a moment]
 patch=1,EE,2025D714,extended,AC60005C
 patch=1,EE,2025D718,extended,00000000

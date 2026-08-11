@@ -1,8 +1,8 @@
 gametitle=Super Farm SLES-55406
-//Open Cheat Menu Use the cheat menu to unlock everything.
+[Open Cheat Menu Use the cheat menu to unlock everything.]
 patch=1,EE,203E34B4,extended,00000000
 patch=1,EE,203E3510,extended,00000000
 patch=1,EE,203E3538,extended,00000000
 
-//AI Always Easy
+[AI Always Easy]
 patch=1,EE,204D973C,extended,00000001

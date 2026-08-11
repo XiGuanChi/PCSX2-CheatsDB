@@ -1,26 +1,26 @@
 gametitle=Pro Evolution Soccer 2 SLES-51114
-//Home Team 99 Press Select+Up to activate
+[Home Team 99 Press Select+Up to activate]
 patch=1,EE,D192F0D2,extended,0000FFEE
 patch=1,EE,019179E0,extended,00000063
 
-//Home Team 0 Press Select+Down to activate
+[Home Team 0 Press Select+Down to activate]
 patch=1,EE,D192F0D2,extended,0000FFBE
 patch=1,EE,019179E0,extended,00000000
 
-//Away Team 99 Press Select+Left to activate
+[Away Team 99 Press Select+Left to activate]
 patch=1,EE,D192F0D2,extended,0000FF7E
 patch=1,EE,019179E1,extended,00000063
 
-//Away Team 0 Press Select+Right to activate
+[Away Team 0 Press Select+Right to activate]
 patch=1,EE,D192F0D2,extended,0000FFDE
 patch=1,EE,019179E1,extended,00000000
 
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,218DE420,extended,000F423F
 
-//Unlock All Free Agents
+[Unlock All Free Agents]
 patch=1,EE,218C9CB8,extended,FFFFFFFF
 patch=1,EE,218C9CBC,extended,FFFFFFFF
 
-//Unlock All Teams
+[Unlock All Teams]
 patch=1,EE,218C9CB0,extended,FFFFFFFF

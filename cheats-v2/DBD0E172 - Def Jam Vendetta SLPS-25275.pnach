@@ -1,29 +1,29 @@
 gametitle=Def Jam Vendetta SLPS-25275
-//Max Funds
+[Max Funds]
 patch=1,EE,202A26AC,extended,05F5E0FF
 
-//Winning player After pressing the L3 + R3 button
+[Winning player After pressing the L3 + R3 button]
 patch=1,EE,D141081E,extended,0000FFF9
 patch=1,EE,00232D53,extended,00000001
 
-//P1 life After pressing the L2 button
+[P1 life After pressing the L2 button]
 patch=1,EE,D141081E,extended,0000FEFF
 patch=1,EE,10231E6A,extended,00004360
 
-//Character fully open
+[Character fully open]
 patch=1,EE,20157FC8,extended,24030001
 patch=1,EE,20157FCC,extended,A0430000
 
-//Character fully open alt
+[Character fully open alt]
 patch=1,EE,40242EFE,extended,000E0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,10242F36,extended,00000101
 
-//Gallery fully open
+[Gallery fully open]
 patch=1,EE,40242F44,extended,001E0001
 patch=1,EE,01010101,extended,00000000
 
-//Stage fully open (battle mode)
+[Stage fully open (battle mode)]
 patch=1,EE,20242F39,extended,FFFFFFFF
 patch=1,EE,20242F3D,extended,FFFFFFFF
 patch=1,EE,10242F41,extended,0000FFFF

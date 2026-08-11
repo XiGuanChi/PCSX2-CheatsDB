@@ -1,29 +1,29 @@
-//Cheats/Press R3 P1 Has 7 Points
+[Cheats/Press R3 P1 Has 7 Points]
 patch=1,EE,D080F242,extended,0000FFFB
 patch=1,EE,20788720,extended,00000007
 
-//Cheats/Press L3 P1 Has 99 Points
+[Cheats/Press L3 P1 Has 99 Points]
 patch=1,EE,D080F242,extended,0000FFFD
 patch=1,EE,20788720,extended,00000063
 
-//Cheats/P2 Has 0 Points
+[Cheats/P2 Has 0 Points]
 patch=1,EE,20788724,extended,00000000
 
-//Cheats/P3 Has 0 Points
+[Cheats/P3 Has 0 Points]
 patch=1,EE,20788728,extended,00000000
 
-//Cheats/P4 Has 0 Points
+[Cheats/P4 Has 0 Points]
 patch=1,EE,2078872C,extended,00000000
 
-//Cheats/Press Triangle+UP P1 On lap 9
+[Cheats/Press Triangle+UP P1 On lap 9]
 patch=1,EE,D080F242,extended,0000EFEF
 patch=1,EE,20787278,extended,00000009
 
-//Cheats/Press Triangle+DOWN P1 On lap 0
+[Cheats/Press Triangle+DOWN P1 On lap 0]
 patch=1,EE,D080F242,extended,0000EFBF
 patch=1,EE,20787278,extended,00000000
 
-//Cheats/Infinite Save the Bomb Time
+[Cheats/Infinite Save the Bomb Time]
 patch=1,EE,207423C4,extended,42000000
 
 

@@ -1,8 +1,8 @@
-//Cheats/Max Appraisal evaluation gauge
+[Cheats/Max Appraisal evaluation gauge]
 patch=1,EE,10B253E8,extended,0000FFFF
 
-//Cheats/Infinte Time
+[Cheats/Infinte Time]
 patch=1,EE,10B25440,extended,00000000
 
-//Cheats/Correct answer ratio 100
+[Cheats/Correct answer ratio 100]
 patch=1,EE,00AF87C4,extended,00000014

@@ -1,25 +1,25 @@
-//Cheats/Max Gauge Challenge Mode
+[Cheats/Max Gauge Challenge Mode]
 patch=1,EE,201B48D4,extended,54200001
 
-//Cheats/Max Gauge Normal Mode
+[Cheats/Max Gauge Normal Mode]
 patch=1,EE,201B89F0,extended,24420000
 
-//Cheats/Max Total Points
+[Cheats/Max Total Points]
 patch=1,EE,2053020C,extended,7FFFFFFF
 
-//Cheats/Max Combo Points
+[Cheats/Max Combo Points]
 patch=1,EE,20530210,extended,7FFFFFFF
 
-//Cheats/Max Shop Points
+[Cheats/Max Shop Points]
 patch=1,EE,2053020C,extended,3B9ACA00
 
-//Cheats/Autoplay
+[Cheats/Autoplay]
 patch=1,EE,201B651C,extended,14600001
 patch=1,EE,201B6538,extended,4A0002FF
 patch=1,EE,201B6670,extended,4A0002FF
 patch=1,EE,201B66DC,extended,4A0002FF
 
-//Cheats/Unlock All Songs
+[Cheats/Unlock All Songs]
 patch=1,EE,20530470,extended,0C0C0C03
 patch=1,EE,20530474,extended,030C0C0C
 patch=1,EE,1053047E,extended,00000C0C
@@ -37,7 +37,7 @@ patch=1,EE,205304A8,extended,0C0C0C03
 patch=1,EE,205304AC,extended,0C0C0C0C
 patch=1,EE,205304B0,extended,0C0C0C0C
 
-//Cheats/Unlock All Courses
+[Cheats/Unlock All Courses]
 patch=1,EE,005304B6,extended,00000C0C
 patch=1,EE,205304B8,extended,0C0C0C0C
 patch=1,EE,205304BC,extended,0C0C0C0C
@@ -46,29 +46,29 @@ patch=1,EE,205304C4,extended,0C0C0C0C
 patch=1,EE,105304C8,extended,00000C0C
 patch=1,EE,005304CA,extended,0000000C
 
-//Cheats/Unlock All Arrow Skins
+[Cheats/Unlock All Arrow Skins]
 patch=1,EE,005304CC,extended,00000004
 patch=1,EE,205304CC,extended,04040404
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,205304D0,extended,04040404
 patch=1,EE,205304D4,extended,04040404
 patch=1,EE,205304D8,extended,04040404
 patch=1,EE,105304DC,extended,00000404
 patch=1,EE,105304B4,extended,00000C0C
 
-//Cheats/Unlock All Modes
+[Cheats/Unlock All Modes]
 patch=1,EE,105304DE,extended,00000C0C
 patch=1,EE,005304E0,extended,0000000C
 
-//Cheats/Unlock All Custom Modules
+[Cheats/Unlock All Custom Modules]
 patch=1,EE,005304E1,extended,00000004
 patch=1,EE,105304E2,extended,00000404
 patch=1,EE,405304E4,extended,00140001
 patch=1,EE,04040404,extended,00000000
 patch=1,EE,20530534,extended,00000404
 
-//Cheats/Unlock All Information It Opens When You Enter The Title Menu
+[Cheats/Unlock All Information It Opens When You Enter The Title Menu]
 patch=1,EE,2026DAD4,extended,90418558
 patch=1,EE,2026DAD8,extended,34210001
 patch=1,EE,2026DADC,extended,A0418558

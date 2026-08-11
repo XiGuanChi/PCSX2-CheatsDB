@@ -1,8 +1,8 @@
 gametitle=Hoshiful - Hoshi no furu machi SLPM-66920
-//Special added to the title
+[Special added to the title]
 patch=1,EE,006F96FE,extended,00000001
 
-//CG mode fully open
+[CG mode fully open]
 patch=1,EE,406F9700,extended,00150001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,006F96FF,extended,00000001
@@ -16,4 +16,4 @@ patch=1,EE,206F976C,extended,01010101
 patch=1,EE,206F9770,extended,01010100
 patch=1,EE,206F9774,extended,01010101
 patch=1,EE,106F9778,extended,00000101
-//Notes
+[Notes]

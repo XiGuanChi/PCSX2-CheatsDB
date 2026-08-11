@@ -1,40 +1,40 @@
 gametitle=Gran Turismo 4 SCPS-17001
-//Max money
+[Max money]
 patch=1,EE,20A8E518,extended,57F6985E
 
-//When pressing R3 in Code scroll mode (normal) TIME 0
+[When pressing R3 in Code scroll mode (normal) TIME 0]
 patch=1,EE,D1FD6640,extended,00000400
 patch=1,EE,21FFF1B0,extended,00000000
 
-//When you press R3 in Code scroll mode (coffee break) TIME 0
+[When you press R3 in Code scroll mode (coffee break) TIME 0]
 patch=1,EE,D1FE6150,extended,00000400
 patch=1,EE,21FFF1C0,extended,00000000
 
-//When you press R3 in arcade mode TIME 0
+[When you press R3 in arcade mode TIME 0]
 patch=1,EE,D1FD6850,extended,00000400
 patch=1,EE,21FFF808,extended,00000000
 
-//B Licenses All Gold
+[B Licenses All Gold]
 patch=1,EE,40A8E568,extended,00100001
 patch=1,EE,0000F991,extended,00000000
 
-//A Licenses All Gold
+[A Licenses All Gold]
 patch=1,EE,40A8E5A8,extended,00100001
 patch=1,EE,0000F991,extended,00000000
 
-//IB Licenses All Gold
+[IB Licenses All Gold]
 patch=1,EE,40A8E5E8,extended,00100001
 patch=1,EE,0000F991,extended,00000000
 
-//IA Licenses All Gold
+[IA Licenses All Gold]
 patch=1,EE,40A8E628,extended,00100001
 patch=1,EE,0000F991,extended,00000000
 
-//S Licenses All Gold
+[S Licenses All Gold]
 patch=1,EE,40A8E668,extended,00100001
 patch=1,EE,0000F991,extended,00000000
 
-//Full Garage
+[Full Garage]
 patch=1,EE,200C2020,extended,27BDFF00
 patch=1,EE,200C2024,extended,7FBF0000
 patch=1,EE,200C2028,extended,7FA40010

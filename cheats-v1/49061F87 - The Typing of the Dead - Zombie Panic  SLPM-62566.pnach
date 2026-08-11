@@ -1,7 +1,7 @@
-//Cheats/Player 1 Infinite Lives
+[Cheats/Player 1 Infinite Lives]
 patch=1,EE,006E28F6,extended,00000005
 patch=1,EE,006E28F8,extended,00000005
 
-//Cheats/Original Only Always Got Hand
+[Cheats/Original Only Always Got Hand]
 patch=1,EE,106E5880,extended,00000414
 patch=1,EE,106E5888,extended,00000FFF

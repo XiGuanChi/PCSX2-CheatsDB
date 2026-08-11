@@ -1,12 +1,12 @@
 gametitle=Jeopardy 	SLUS-20789
-//Contestant Exam P1 Press R1+Select To Stop Timer
+[Contestant Exam P1 Press R1+Select To Stop Timer]
 patch=1,EE,D0372D02,extended,0000F7FE
 patch=1,EE,201B9778,extended,00000000
 
-//All Answers Score For P1
+[All Answers Score For P1]
 patch=1,EE,201B388C,extended,24060000
 
-//Infinite Money P1
+[Infinite Money P1]
 patch=1,EE,103586E8,extended,0000FFFF
 
 

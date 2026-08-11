@@ -1,12 +1,12 @@
 gametitle=Densha de Go! Final SLPM-65590
-//No Infractions
+[No Infractions]
 patch=1,EE,20164B44,extended,10210100
 
-//Life is not decreased by infractions
+[Life is not decreased by infractions]
 patch=1,EE,20164EDC,extended,1021001A
 
-//ATS open
+[ATS open]
 patch=1,EE,20151D80,extended,10210003
 
-//ATC open
+[ATC open]
 patch=1,EE,2014F9FC,extended,1021001E

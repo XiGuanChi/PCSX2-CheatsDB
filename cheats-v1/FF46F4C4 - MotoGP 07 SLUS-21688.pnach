@@ -1,7 +1,7 @@
-//Cheats/Always Low Lap Time
+[Cheats/Always Low Lap Time]
 patch=1,EE,2038D938,extended,AC60000C
 
-//Cheats/Start On Lap 5
+[Cheats/Start On Lap 5]
 patch=1,EE,200C0220,extended,84C10020
 patch=1,EE,200C0224,extended,50200001
 patch=1,EE,200C0228,extended,24010004

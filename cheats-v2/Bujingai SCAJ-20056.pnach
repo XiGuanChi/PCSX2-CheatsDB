@@ -1,18 +1,18 @@
 gametitle=Bujingai SCAJ-20056
-//Infinite health
+[Infinite health]
 patch=1,EE,2185BA60,extended,0270F000
 
-//Infinite defense
+[Infinite defense]
 patch=1,EE,2185BA70,extended,0000000A
 
-//Infinite spell
+[Infinite spell]
 patch=1,EE,2185BA68,extended,0270F000
 
-//All special options
+[All special options]
 patch=1,EE,405C6448,extended,00060001
 patch=1,EE,01010101,extended,00000000
 
-//All spells
+[All spells]
 patch=1,EE,405C6FF0,extended,00040001
 patch=1,EE,01010101,extended,00000000
 

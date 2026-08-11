@@ -1,34 +1,34 @@
-//Cheats/Infinite Health Bar
+[Cheats/Infinite Health Bar]
 patch=1,EE,200C0220,extended,8C61035C
 patch=1,EE,200C0224,extended,AC610320
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C4640320
 patch=1,EE,20309228,extended,0C030088
 
-//Cheats/Infinite Life Bar Escorts
+[Cheats/Infinite Life Bar Escorts]
 patch=1,EE,200C0240,extended,8C61035C
 patch=1,EE,200C0244,extended,AC610320
 patch=1,EE,200C0248,extended,03E00008
 patch=1,EE,200C024C,extended,C4630320
 patch=1,EE,203BA110,extended,0C030090
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,202EAA30,extended,00000000
 
-//Cheats/Infinite Turbo
+[Cheats/Infinite Turbo]
 patch=1,EE,201B50F8,extended,00000000
 
-//Cheats/Unlock All Cars
+[Cheats/Unlock All Cars]
 patch=1,EE,20466628,extended,24020001
 
-//Cheats/Unlock All Fighters
+[Cheats/Unlock All Fighters]
 patch=1,EE,20466D04,extended,24020001
 
-//Cheats/Unlock All Missions
+[Cheats/Unlock All Missions]
 patch=1,EE,2048E454,extended,24020001
 patch=1,EE,2047C838,extended,24020001
 patch=1,EE,2047C720,extended,24020001
 
-//Cheats/Unlock All Missions Completed
+[Cheats/Unlock All Missions Completed]
 patch=1,EE,4079F56C,extended,00420002
 patch=1,EE,00000001,extended,00000000

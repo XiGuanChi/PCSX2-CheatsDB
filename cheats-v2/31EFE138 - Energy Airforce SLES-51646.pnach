@@ -1,11 +1,11 @@
 gametitle=Energy Airforce SLES-51646
-//Infinite Fuel
+[Infinite Fuel]
 patch=1,EE,2012DBB8,extended,00000000
 
-//All Movies Open
+[All Movies Open]
 patch=1,EE,205F3F8C,extended,FFFFFFFF
 
-//All Licences 100% Passed Complete first licence test to activate.
+[All Licences 100% Passed Complete first licence test to activate.]
 patch=1,EE,201B77D8,extended,24030064
 patch=1,EE,201B77DC,extended,00000000
 patch=1,EE,201B77E0,extended,AC830000

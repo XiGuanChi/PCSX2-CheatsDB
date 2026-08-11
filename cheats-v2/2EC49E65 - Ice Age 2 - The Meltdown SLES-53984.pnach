@@ -1,14 +1,14 @@
 gametitle=Ice Age 2 - The Meltdown SLES-53984
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201C4794,extended,00000000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201BBC48,extended,24420000
 
-//Cheat Menu Available
+[Cheat Menu Available]
 patch=1,EE,203B707C,extended,00000001
 
-//Bonus Material Selectable
+[Bonus Material Selectable]
 patch=1,EE,2014EB98,extended,00000000
 patch=1,EE,2014E988,extended,00000000
 patch=1,EE,2014EA90,extended,00000000

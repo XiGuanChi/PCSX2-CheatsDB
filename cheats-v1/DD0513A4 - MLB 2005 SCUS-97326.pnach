@@ -1,82 +1,82 @@
-//Cheats/Away Team Score 9
+[Cheats/Away Team Score 9]
 patch=1,EE,E0010087,extended,0073672E
 patch=1,EE,20736744,extended,00000009
 
-//Cheats/Away Team Start With 9
+[Cheats/Away Team Start With 9]
 patch=1,EE,E0020087,extended,0073672E
 patch=1,EE,D0736744,extended,00000000
 patch=1,EE,20736744,extended,00000009
 
-//Cheats/Home Team Score 9
+[Cheats/Home Team Score 9]
 patch=1,EE,E0010087,extended,0073672E
 patch=1,EE,20736748,extended,00000009
 
-//Cheats/Home Team Start With 9
+[Cheats/Home Team Start With 9]
 patch=1,EE,E0020087,extended,0073672E
 patch=1,EE,D0736748,extended,00000000
 patch=1,EE,20736748,extended,00000009
 
-//Cheats/All Runs Score For Home Team
+[Cheats/All Runs Score For Home Team]
 patch=1,EE,D045164C,extended,0000202D
 patch=1,EE,2045165C,extended,24A50004
 
-//Cheats/All Runs Score For Away Team
+[Cheats/All Runs Score For Away Team]
 patch=1,EE,D045164C,extended,0000202D
 patch=1,EE,2045165C,extended,24A50000
 
-//Cheats/Create A Player Infinite Points Remaining
+[Cheats/Create A Player Infinite Points Remaining]
 patch=1,EE,D069B63C,extended,000001F5
 patch=1,EE,2069B644,extended,00000000
 
-//Cheats/Change Pitching Skills For Max Stat H 9
+[Cheats/Change Pitching Skills For Max Stat H 9]
 patch=1,EE,D063FE14,extended,0000202D
 patch=1,EE,2063FE1C,extended,24060063
 
-//Cheats/Change Pitching Skills For Max Stat HR 9
+[Cheats/Change Pitching Skills For Max Stat HR 9]
 patch=1,EE,D063FEA4,extended,0000202D
 patch=1,EE,2063FEAC,extended,24060063
 
-//Cheats/Change Pitching Skills For Max Stat Stamina
+[Cheats/Change Pitching Skills For Max Stat Stamina]
 patch=1,EE,D063FF34,extended,0000202D
 patch=1,EE,2063FF3C,extended,24060063
 
-//Cheats/Change Pitching Skills For Max Stat Pitch Clutch
+[Cheats/Change Pitching Skills For Max Stat Pitch Clutch]
 patch=1,EE,D063FFC4,extended,0000202D
 patch=1,EE,2063FFCC,extended,24060063
 
-//Cheats/Change Pitching Skills For Max Stat K 9
+[Cheats/Change Pitching Skills For Max Stat K 9]
 patch=1,EE,D0640054,extended,0000202D
 patch=1,EE,2064005C,extended,24060063
 
-//Cheats/Change Pitching Skills For Max Stat Durability
+[Cheats/Change Pitching Skills For Max Stat Durability]
 patch=1,EE,D06400E4,extended,0000202D
 patch=1,EE,206400EC,extended,24060063
 
-//Cheats/Change Pitching Skills For Max Stat Speed
+[Cheats/Change Pitching Skills For Max Stat Speed]
 patch=1,EE,D0640174,extended,0000202D
 patch=1,EE,2064017C,extended,24060063
 
-//Cheats/Change Pitching Skills For Max Stat Arm Str
+[Cheats/Change Pitching Skills For Max Stat Arm Str]
 patch=1,EE,D0640204,extended,0000202D
 patch=1,EE,2064020C,extended,24060063
 
-//Cheats/Change Pitching Skills For Max Stat Arm Acc
+[Cheats/Change Pitching Skills For Max Stat Arm Acc]
 patch=1,EE,D0640294,extended,0000202D
 patch=1,EE,2064029C,extended,24060063
 
-//Cheats/Change Pitching Skills For Max Stat Reaction
+[Cheats/Change Pitching Skills For Max Stat Reaction]
 patch=1,EE,D0640324,extended,0000202D
 patch=1,EE,2064032C,extended,24060063
 
-//Cheats/Change Pitching Skills For Max Stat FLD Ability
+[Cheats/Change Pitching Skills For Max Stat FLD Ability]
 patch=1,EE,D06403B4,extended,0000202D
 patch=1,EE,206403BC,extended,24060063
 
-//Cheats/Change Pitching Skills For Max Stat Pitch 1 Accuracy
+[Cheats/Change Pitching Skills For Max Stat Pitch 1 Accuracy]
 patch=1,EE,D06404CC,extended,0000202D
 patch=1,EE,206404D0,extended,24050063
 
-//Cheats/Change Pitching Skills For Max Stat Pitch 1 Break
+[Cheats/Change Pitching Skills For Max Stat Pitch 1 Break]
 patch=1,EE,D06405D8,extended,0000202D
 patch=1,EE,206405DC,extended,24050063
 
@@ -84,94 +84,94 @@ patch=1,EE,206405DC,extended,24050063
 patch=1,EE,D06406EC,extended,0000202D
 patch=1,EE,206406F0,extended,24050063
 
-//Cheats/Change Pitching Skills For Max Stat Pitch 2 Break
+[Cheats/Change Pitching Skills For Max Stat Pitch 2 Break]
 patch=1,EE,D06407F8,extended,0000202D
 patch=1,EE,206407FC,extended,24050063
 
-//Cheats/Change Pitching Skills For Max Stat Pitch 3 Accuracy
+[Cheats/Change Pitching Skills For Max Stat Pitch 3 Accuracy]
 patch=1,EE,D064090C,extended,0000202D
 patch=1,EE,20640910,extended,24050063
 
-//Cheats/Change Pitching Skills For Max Stat Pitch 3 Break
+[Cheats/Change Pitching Skills For Max Stat Pitch 3 Break]
 patch=1,EE,D0640A18,extended,0000202D
 patch=1,EE,20640A1C,extended,24050063
 
-//Cheats/Change Pitching Skills For Max Stat Pitch 4 Accuracy
+[Cheats/Change Pitching Skills For Max Stat Pitch 4 Accuracy]
 patch=1,EE,D0640B2C,extended,0000202D
 patch=1,EE,20640B30,extended,24050063
 
-//Cheats/Change Pitching Skills For Max Stat Pitch 4 Break
+[Cheats/Change Pitching Skills For Max Stat Pitch 4 Break]
 patch=1,EE,D0640C38,extended,0000202D
 patch=1,EE,20640C3C,extended,24050063
 
-//Cheats/Change Pitching Skills For Max Stat Pitch 5 Accuracy
+[Cheats/Change Pitching Skills For Max Stat Pitch 5 Accuracy]
 patch=1,EE,D0640D4C,extended,0000202D
 patch=1,EE,20640D50,extended,24050063
 
-//Cheats/Change Pitching Skills For Max Stat Pitch 5 Break
+[Cheats/Change Pitching Skills For Max Stat Pitch 5 Break]
 patch=1,EE,D0640E58,extended,0000202D
 patch=1,EE,20640E5C,extended,24050063
 
-//Cheats/Change Pitching Skills For Max Stat Pitches Speed
+[Cheats/Change Pitching Skills For Max Stat Pitches Speed]
 patch=1,EE,D0641614,extended,0000202D
 patch=1,EE,20641618,extended,2405003C
 
-//Cheats/Change Bat Skills For Max Stat RT Contact
+[Cheats/Change Bat Skills For Max Stat RT Contact]
 patch=1,EE,D0641D08,extended,0000202D
 patch=1,EE,20641D10,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat LT Contact
+[Cheats/Change Bat Skills For Max Stat LT Contact]
 patch=1,EE,D0641D98,extended,0000202D
 patch=1,EE,20641DA0,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat RT Power
+[Cheats/Change Bat Skills For Max Stat RT Power]
 patch=1,EE,D0641E28,extended,0000202D
 patch=1,EE,20641E30,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat LT Power
+[Cheats/Change Bat Skills For Max Stat LT Power]
 patch=1,EE,D0641EB8,extended,0000202D
 patch=1,EE,20641EC0,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat Plate Vision
+[Cheats/Change Bat Skills For Max Stat Plate Vision]
 patch=1,EE,D0641F48,extended,0000202D
 patch=1,EE,20641F50,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat Plate Disc
+[Cheats/Change Bat Skills For Max Stat Plate Disc]
 patch=1,EE,D0641FD8,extended,0000202D
 patch=1,EE,20641FE0,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat Clutch
+[Cheats/Change Bat Skills For Max Stat Clutch]
 patch=1,EE,D0642068,extended,0000202D
 patch=1,EE,20642070,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat Durability
+[Cheats/Change Bat Skills For Max Stat Durability]
 patch=1,EE,D06420F8,extended,0000202D
 patch=1,EE,20642100,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat Speed
+[Cheats/Change Bat Skills For Max Stat Speed]
 patch=1,EE,D0642188,extended,0000202D
 patch=1,EE,20642190,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat Arm Str
+[Cheats/Change Bat Skills For Max Stat Arm Str]
 patch=1,EE,D0642218,extended,0000202D
 patch=1,EE,20642220,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat Arm Acc
+[Cheats/Change Bat Skills For Max Stat Arm Acc]
 patch=1,EE,D06422A8,extended,0000202D
 patch=1,EE,206422B0,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat Reaction
+[Cheats/Change Bat Skills For Max Stat Reaction]
 patch=1,EE,D0642338,extended,0000202D
 patch=1,EE,20642340,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat FLD Ability
+[Cheats/Change Bat Skills For Max Stat FLD Ability]
 patch=1,EE,D06423C8,extended,0000202D
 patch=1,EE,206423D0,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat BR Ability
+[Cheats/Change Bat Skills For Max Stat BR Ability]
 patch=1,EE,D0642458,extended,0000202D
 patch=1,EE,20642460,extended,24060063
 
-//Cheats/Change Bat Skills For Max Stat BR Agg
+[Cheats/Change Bat Skills For Max Stat BR Agg]
 patch=1,EE,D06424E8,extended,0000202D
 patch=1,EE,206424F0,extended,24060063

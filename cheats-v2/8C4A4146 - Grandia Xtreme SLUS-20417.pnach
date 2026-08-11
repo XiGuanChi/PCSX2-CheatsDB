@@ -1,25 +1,25 @@
 gametitle=Grandia Xtreme SLUS-20417
-//Infinite HP in battle Evann
+[Infinite HP in battle Evann]
 patch=1,EE,20BEFB1C,extended,000003E7
 
-//Infinite HP in battle Brandol
+[Infinite HP in battle Brandol]
 patch=1,EE,20BEFE34,extended,000003E7
 
-//Infinite HP in battle Carmyne
+[Infinite HP in battle Carmyne]
 patch=1,EE,20BF014C,extended,000003E7
 
-//Infinite SP in battle Evann
+[Infinite SP in battle Evann]
 patch=1,EE,20BEFE2C,extended,000003E7
 
-//Infinite SP in battle Brandol
+[Infinite SP in battle Brandol]
 patch=1,EE,20BEFE44,extended,000003E7
 
-//Infinite SP in battle Carmyne
+[Infinite SP in battle Carmyne]
 patch=1,EE,20BF015C,extended,000003E7
 
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,204ED7AC,extended,000F423F
 
-//No Random Battles
+[No Random Battles]
 patch=0,EE,D05F8FEC,extended,000001F8
 patch=0,EE,205F8FF8,extended,24020100

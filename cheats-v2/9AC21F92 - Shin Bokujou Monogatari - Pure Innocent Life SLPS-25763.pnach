@@ -1,29 +1,29 @@
 gametitle=Shin Bokujou Monogatari - Pure Innocent Life SLPS-25763
-//Max Money
+[Max Money]
 patch=1,EE,2025C598,extended,3B9ACA00
 
-//Inf PP
+[Inf PP]
 patch=1,EE,2025C960,extended,01900190
 
-//Max Challenge
+[Max Challenge]
 patch=1,EE,1025C964,extended,00000064
 
-//Max Love
+[Max Love]
 patch=1,EE,1025C966,extended,00000064
 
-//Max Intelligence
+[Max Intelligence]
 patch=1,EE,1025C968,extended,00000064
 
-//Cooking
+[Cooking]
 patch=1,EE,1025C96A,extended,00000064
 
-//Max Creativity
+[Max Creativity]
 patch=1,EE,1025C96C,extended,00000064
 
-//Max Humor
+[Max Humor]
 patch=1,EE,1025C96E,extended,00000064
 
-//All Tools SP & Level Max
+[All Tools SP & Level Max]
 patch=1,EE,2025C9B8,extended,011E847E
 patch=1,EE,2025C99C,extended,011E847E
 patch=1,EE,2025C9D4,extended,011E847E
@@ -31,13 +31,13 @@ patch=1,EE,2025CA0C,extended,011E847E
 patch=1,EE,2025C9F0,extended,011E847E
 patch=1,EE,2025CA28,extended,011E847E
 
-//Waking up in the morning rainy day
+[Waking up in the morning rainy day]
 patch=1,EE,20106590,extended,24020002
 
-//All seeds and bulbs are available
+[All seeds and bulbs are available]
 patch=1,EE,2015F5C0,extended,2403270F
 patch=1,EE,2015F5D0,extended,A4830000
 
-//Crop of item box will not deteriorate
+[Crop of item box will not deteriorate]
 patch=1,EE,20162314,extended,34420000
 patch=1,EE,20162370,extended,34620000

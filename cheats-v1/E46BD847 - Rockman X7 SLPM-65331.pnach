@@ -1,31 +1,31 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,201BF5DC,extended,00000009
 
-//Cheats/Largest Life & Maz Weapon Energy During Stage
+[Cheats/Largest Life & Maz Weapon Energy During Stage]
 patch=1,EE,2012BB58,extended,00000000
 patch=1,EE,2012BB70,extended,00000000
 
-//Cheats/Weapons All Chips Can Be Used
+[Cheats/Weapons All Chips Can Be Used]
 patch=1,EE,20E40980,extended,FFFFFFFF
 patch=1,EE,20E40994,extended,000170FF
 patch=1,EE,20E40998,extended,0000F74F
 patch=1,EE,20E4099C,extended,0002787F
 
-//Cheats/Rescue File Death Record Deletion
+[Cheats/Rescue File Death Record Deletion]
 patch=1,EE,201B2D24,extended,A240007C
 
-//Cheats/Buster Always Charged
+[Cheats/Buster Always Charged]
 patch=1,EE,104E79D8,extended,0000005A
 patch=1,EE,104E79DA,extended,00000003
 
-//Cheats/All Chips
+[Cheats/All Chips]
 patch=1,EE,20E4099C,extended,FFFFFFFF
 
-//Cheats/Central Circuit Ride Chaser Endurance
+[Cheats/Central Circuit Ride Chaser Endurance]
 patch=1,EE,10E4EC4C,extended,00000030
 
-//Cheats/Central Circuit Explosion 0
+[Cheats/Central Circuit Explosion 0]
 patch=1,EE,00E66EA4,extended,00000000
 
-//Cheats/Central Circuit Infinite Time
+[Cheats/Central Circuit Infinite Time]
 patch=1,EE,10E66F30,extended,00002A80

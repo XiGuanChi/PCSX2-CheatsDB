@@ -1,10 +1,10 @@
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,2028C3F4,extended,3C0205F5
 
-//Cheats/Infinite Ammo No Reloads
+[Cheats/Infinite Ammo No Reloads]
 patch=1,EE,201582CC,extended,24420000
 
-//Cheats/Activation Code Must Be On For All Following Codes
+[Cheats/Activation Code Must Be On For All Following Codes]
 patch=1,EE,200C0100,extended,3C04000F
 patch=1,EE,200C0104,extended,24060000
 patch=1,EE,200C0108,extended,8C810000
@@ -19,30 +19,30 @@ patch=1,EE,200C0128,extended,080A3EF0
 patch=1,EE,200C012C,extended,C4400008
 patch=1,EE,2028FBCC,extended,08030040
 
-//Cheats/Max Respect Level
+[Cheats/Max Respect Level]
 patch=1,EE,200F0000,extended,C96BA6EB
 patch=1,EE,200F0004,extended,42480000
 
-//Cheats/Max Health Level
+[Cheats/Max Health Level]
 patch=1,EE,200F0020,extended,D5FC1905
 patch=1,EE,200F0024,extended,41200000
 
-//Cheats/Crack All Safes
+[Cheats/Crack All Safes]
 patch=1,EE,200F0038,extended,AAFB4DC0
 patch=1,EE,200F003C,extended,42C80000
 
-//Cheats/Own All Safehouses
+[Cheats/Own All Safehouses]
 patch=1,EE,200F0040,extended,4E6A0986
 patch=1,EE,200F0044,extended,41C00000
 
-//Cheats/Have All Execution Styles
+[Cheats/Have All Execution Styles]
 patch=1,EE,200F0048,extended,6C6F8186
 patch=1,EE,200F004C,extended,41B00000
 
-//Cheats/Have All Film Feels Bonus
+[Cheats/Have All Film Feels Bonus]
 patch=1,EE,200F0050,extended,D1515D40
 patch=1,EE,200F0054,extended,42C80000
 
-//Cheats/Unlock All Films
+[Cheats/Unlock All Films]
 patch=1,EE,21B6908C,extended,42C80000
 patch=1,EE,21B69190,extended,42C80000

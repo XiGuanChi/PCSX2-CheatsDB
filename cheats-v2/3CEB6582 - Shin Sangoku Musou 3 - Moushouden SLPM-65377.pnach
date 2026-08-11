@@ -1,44 +1,44 @@
 gametitle=Shin Sangoku Musou 3 - Moushouden SLPM-65377
-//All movies
+[All movies]
 patch=1,EE,1046AE12,extended,0000FFFF
 
-//Weapon level 11 of all military commanders
+[Weapon level 11 of all military commanders]
 patch=1,EE,4046B518,extended,00170001
 patch=1,EE,EA60EA60,extended,1CDE2FEB
 patch=1,EE,1046B574,extended,0000EA60
 
-//Maximum physical strength with dim sum
+[Maximum physical strength with dim sum]
 patch=1,EE,2013D26C,extended,14200001
 patch=1,EE,20146E4C,extended,14200001
 
-//Musou's largest in Senshu
+[Musou's largest in Senshu]
 patch=1,EE,2013D20C,extended,14200001
 patch=1,EE,20146DEC,extended,14200001
 
-//Maximum attack power with sword items
+[Maximum attack power with sword items]
 patch=1,EE,2013D1AC,extended,14200001
 patch=1,EE,20146C7C,extended,14200001
 
-//Maximum defense with shield items
+[Maximum defense with shield items]
 patch=1,EE,2013D14C,extended,14200001
 patch=1,EE,20146BDC,extended,14200001
 
-//Fixed status code during play
+[Fixed status code during play]
 patch=1,EE,2017FA28,extended,0803BC00
 patch=1,EE,200EF020,extended,0805FE8C
 patch=1,EE,200EF024,extended,845301DC
 
-//Fixed physical strength
+[Fixed physical strength]
 patch=1,EE,200EF000,extended,845301DC
 patch=1,EE,200EF004,extended,00131900
 patch=1,EE,200EF008,extended,A44301DE
 
-//Musou fixed
+[Musou fixed]
 patch=1,EE,200EF00C,extended,00129100
 patch=1,EE,200EF010,extended,A45201E4
 patch=1,EE,200EF01C,extended,845201E2
 
-//99 arrows
+[99 arrows]
 patch=1,EE,200EF014,extended,24120063
 patch=1,EE,200EF018,extended,A232000C
 

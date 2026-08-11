@@ -1,39 +1,39 @@
-//Cheats/Infinite Health Both Players
+[Cheats/Infinite Health Both Players]
 patch=1,EE,200C0220,extended,C460038C
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,E4600390
 patch=1,EE,203EF9B4,extended,0C030088
 
-//Cheats/1 Hit Kill For Some Enemy
+[Cheats/1 Hit Kill For Some Enemy]
 patch=1,EE,202B0614,extended,AE200390
 patch=1,EE,202D6538,extended,AC400390
 patch=1,EE,202B75F8,extended,AE800390
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,20317F58,extended,E6410154
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,203196F0,extended,00000000
 
-//Cheats/Infinite Stun Gun Battery
+[Cheats/Infinite Stun Gun Battery]
 patch=1,EE,20297F14,extended,00000000
 
-//Cheats/Infinite Chainsaw Battery
+[Cheats/Infinite Chainsaw Battery]
 patch=1,EE,2028F308,extended,00000000
 
-//Cheats/Infinite Battery For All Weapons
+[Cheats/Infinite Battery For All Weapons]
 patch=1,EE,203EED2C,extended,C4940C8C
 patch=1,EE,203EED30,extended,E4940C88
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,2037139C,extended,00000000
 
-//Cheats/Infinite Items
+[Cheats/Infinite Items]
 patch=1,EE,2030D80C,extended,00000000
 
-//Cheats/Activate Cheat Codes Infinite Ammo
+[Cheats/Activate Cheat Codes Infinite Ammo]
 patch=1,EE,2051A900,extended,00000001
 
-//Cheats/Activate Cheat Codes Invincible Both Players
+[Cheats/Activate Cheat Codes Invincible Both Players]
 patch=1,EE,20233F44,extended,24030001
 

@@ -1,14 +1,14 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,205C4F94,extended,0000EA60
 patch=1,EE,205C4F98,extended,0000EA60
 
-//Cheats/Time 0
+[Cheats/Time 0]
 patch=1,EE,205A511C,extended,00000000
 
-//Cheats/Infinite Credits
+[Cheats/Infinite Credits]
 patch=1,EE,005C4FC4,extended,00000003
 
-//Cheats/Unlock All Items
+[Cheats/Unlock All Items]
 patch=1,EE,205A517C,extended,63636363
 patch=1,EE,105A5180,extended,00006363
 patch=1,EE,005A5179,extended,00000063
@@ -16,14 +16,14 @@ patch=1,EE,005A517A,extended,00000063
 patch=1,EE,105A5182,extended,00000101
 patch=1,EE,005A5184,extended,00000001
 
-//Cheats/Stage Clear Information Clear time
+[Cheats/Stage Clear Information Clear time]
 patch=1,EE,205A511C,extended,00000000
 
-//Cheats/Stage Clear Information Number of people helped 999 people without injury
+[Cheats/Stage Clear Information Number of people helped 999 people without injury]
 patch=1,EE,205A5128,extended,000003E7
 
-//Cheats/Stage Clear Information Number of people helped 999
+[Cheats/Stage Clear Information Number of people helped 999]
 patch=1,EE,205A512C,extended,000003E7
 
-//Cheats/Stage Clear Information Max Extinguish Points
+[Cheats/Stage Clear Information Max Extinguish Points]
 patch=1,EE,205A5120,extended,0098967F

@@ -1,13 +1,13 @@
 gametitle=Aoi Umi no Tristia - Nanoca Flanka Hatsumei Koubouki SLPS-25514
-//9999999 B
+[9999999 B]
 patch=1,EE,20AC54A4,extended,05F5E0FF
 
-//Item-related
-//all the item 90 + compilation success ratios 100%
+[Item-related]
+[all the item 90 + compilation success ratios 100%]
 patch=1,EE,40AD9D6C,extended,00F00003
 patch=1,EE,005A0064,extended,00000000
 
-//All album
+[All album]
 patch=1,EE,40AC4FA0,extended,00200001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,40AC5040,extended,000A0001
@@ -17,6 +17,6 @@ patch=1,EE,20AC5028,extended,00000001
 patch=1,EE,20AC5038,extended,00000001
 patch=1,EE,20AC503C,extended,00000001
 
-//All picture book
+[All picture book]
 patch=1,EE,40AC5070,extended,00FB0001
 patch=1,EE,00000001,extended,00000000

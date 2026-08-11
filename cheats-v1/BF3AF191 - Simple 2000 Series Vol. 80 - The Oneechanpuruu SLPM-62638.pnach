@@ -1,40 +1,40 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,2021EBEC,extended,00002710
 patch=1,EE,2021EBF0,extended,00002710
 
-//Cheats/Infinite Weapon Sword
+[Cheats/Infinite Weapon Sword]
 patch=1,EE,202295A4,extended,00000000
 
-//Cheats/No Stamina Consumption During Iai
+[Cheats/No Stamina Consumption During Iai]
 patch=1,EE,20134B40,extended,00000000
 
-//Cheats/Attack Power Increase
+[Cheats/Attack Power Increase]
 patch=1,EE,2021EBF4,extended,0001869F
 
-//Cheats/Do Not Get Hit By Attacks
+[Cheats/Do Not Get Hit By Attacks]
 patch=1,EE,20135FB0,extended,03E00008
 patch=1,EE,20135FB4,extended,00000000
 
-//Cheats/Max Experience Gained By Getting 1 Yellow Orb
+[Cheats/Max Experience Gained By Getting 1 Yellow Orb]
 patch=1,EE,20123500,extended,00000000
 
-//Cheats/Distribution Points 999
+[Cheats/Distribution Points 999]
 patch=1,EE,2027A0E0,extended,000003E7
 patch=1,EE,203C6414,extended,000003E7
 
-//Cheats/Max Pollution Gauge Upper Limit
+[Cheats/Max Pollution Gauge Upper Limit]
 patch=1,EE,2027A0E8,extended,00000320
 
-//Cheats/Automatic Item Recovery
+[Cheats/Automatic Item Recovery]
 patch=1,EE,2016C3F8,extended,10000011
 
 [Cheats/Max Deterioration Gauge Upper Limit]  gauge upper limit maximum
 patch=1,EE,2027A0EC,extended,00000064
 
-//Cheats/Max Experience Value
+[Cheats/Max Experience Value]
 patch=1,EE,2027A110,extended,0098967F
 
-//Cheats/Rampage mode L2 + up  cancel L2 + down
+[Cheats/Rampage mode L2 + up  cancel L2 + down]
 patch=1,EE,D036A782,extended,0000FEBF
 patch=1,EE,20229590,extended,00000000
 patch=1,EE,D036A782,extended,0000FEBF
@@ -42,37 +42,37 @@ patch=1,EE,2022959C,extended,00000000
 patch=1,EE,D036A782,extended,0000FEEF
 patch=1,EE,2022959C,extended,00000001
 
-//Cheats/No Body Discoloration During runaway
+[Cheats/No Body Discoloration During runaway]
 patch=1,EE,20116850,extended,1000000B
 
-//Cheats/Aura Reduction during runaway
+[Cheats/Aura Reduction during runaway]
 patch=1,EE,20189718,extended,03E00008
 
-//Cheats/No Heartbeat blur effect during runaway
+[Cheats/No Heartbeat blur effect during runaway]
 patch=1,EE,201134E4,extended,10000019
 
-//Cheats/No Physical Exhaustion During Runaway
+[Cheats/No Physical Exhaustion During Runaway]
 patch=1,EE,20113558,extended,10000015
 
-//Cheats/Unlock All Story Mode Stage Select
+[Cheats/Unlock All Story Mode Stage Select]
 patch=1,EE,2021E65C,extended,00000005
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,2021E670,extended,0000000F
 patch=1,EE,2021E674,extended,0000000F
 patch=1,EE,2021E678,extended,0000000F
 patch=1,EE,2021E67C,extended,00000003
 
-//Cheats/Unlock All Quest
+[Cheats/Unlock All Quest]
 patch=1,EE,2010CE88,extended,2402000F
 patch=1,EE,2010CE8C,extended,AC62006
 
-//Cheats/Unlock All Wallpapers In the menu, you can change with the L1
+[Cheats/Unlock All Wallpapers In the menu, you can change with the L1]
 patch=1,EE,0021E6FC,extended,0000000F
 
-//Cheats/Unlock All Bonus
+[Cheats/Unlock All Bonus]
 patch=1,EE,20103324,extended,00000000
 patch=1,EE,20103358,extended,00000000
 
-//Cheats/Unlock Difficulty Level VIOLENT Selectable
+[Cheats/Unlock Difficulty Level VIOLENT Selectable]
 patch=1,EE,0021E6F0,extended,00000004

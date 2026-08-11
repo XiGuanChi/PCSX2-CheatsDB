@@ -1,26 +1,26 @@
-//Cheats/Infinite Health 1P
+[Cheats/Infinite Health 1P]
 patch=1,EE,20817E7C,extended,43480000
 
-//Cheats/1 Hit Death P2
+[Cheats/1 Hit Death P2]
 patch=1,EE,E0024279,extended,00817E7C
 patch=1,EE,20817E7C,extended,42780000
 patch=1,EE,20817E80,extended,437A0000
 
-//Cheats/Unlock All Characters & Profile
+[Cheats/Unlock All Characters & Profile]
 patch=1,EE,4081CF1C,extended,0026000C
 patch=1,EE,01010701,extended,00000000
 
-//Cheats/Unlock All Stages
+[Cheats/Unlock All Stages]
 patch=1,EE,1081C69A,extended,00000101
 patch=1,EE,1081C69C,extended,00000101
 patch=1,EE,1081C69E,extended,00000101
 patch=1,EE,1081C6A0,extended,00000101
 
-//Cheats/Unlock All Stages & Soundtest
+[Cheats/Unlock All Stages & Soundtest]
 patch=1,EE,1081C6A0,extended,00000101
 patch=1,EE,2081C690,extended,0101010A
 patch=1,EE,4081C694,extended,00030001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock Jivatma & Profile
+[Cheats/Unlock Jivatma & Profile]
 patch=1,EE,1081D39C,extended,00000701

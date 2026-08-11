@@ -1,29 +1,29 @@
 gametitle=Namco x Capcom SLPS-25505
-//Clear option added to the options music mode and dice dojo appearance.
+[Clear option added to the options music mode and dice dojo appearance.]
 patch=1,EE,20379870,extended,00000001
 
-//Select to the next stage  from the stage preparation screen.
+[Select to the next stage  from the stage preparation screen.]
 patch=1,EE,2019C040,extended,24050037
 
-//Money 99999999
+[Money 99999999]
 patch=1,EE,20999394,extended,05F5E0FF
 
-//Start in the normal combat HP 99999
+[Start in the normal combat HP 99999]
 patch=1,EE,20999DA4,extended,0001869F
 patch=1,EE,20999DA8,extended,0001869F
 
-//Equipped with all possession
+[Equipped with all possession]
 patch=1,EE,409994DD,extended,00130001
 patch=1,EE,63636363,extended,00000000
 
-//In combat HP65535
+[In combat HP65535]
 patch=1,EE,1053B188,extended,0000FFFF
 patch=1,EE,1053B18C,extended,0000FFFF
 
-//Enemy HP 0
+[Enemy HP 0]
 patch=1,EE,2053AA9C,extended,00000000
 
-//Options to music and dice dojo appearance
+[Options to music and dice dojo appearance]
 patch=1,EE,20308148,extended,24010001
 patch=1,EE,2030814C,extended,AC810170
 patch=1,EE,203081F8,extended,24010001

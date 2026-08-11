@@ -1,34 +1,34 @@
-//Cheats/Unlock All Ending list and Special items in the title can be viewed
+[Cheats/Unlock All Ending list and Special items in the title can be viewed]
 patch=1,EE,20895544,extended,FFFFFFFF
 patch=1,EE,00895548,extended,000000FF
 
-//Cheats/Unlock All Jukebox
+[Cheats/Unlock All Jukebox]
 patch=1,EE,20897990,extended,FFFFFFFF
 patch=1,EE,10897994,extended,0000FFFF
 
-//Cheats/Unlock When entering Clear List Album achievement 100%
+[Cheats/Unlock When entering Clear List Album achievement 100%]
 patch=1,EE,201037B4,extended,2401FFFF 
 patch=1,EE,201037B8,extended,A0415551
 patch=1,EE,201037C4,extended,24020001
 
-//Cheats/Unlock When entering Clear List Scene title achievement 100%
+[Cheats/Unlock When entering Clear List Scene title achievement 100%]
 patch=1,EE,201038E4,extended,2401FFFF
 patch=1,EE,201038E8,extended,A0417951 
 patch=1,EE,201038F4,extended,24020001 
 
-//Cheats/Unlock When entering Clear List TIPS achievement 100%
+[Cheats/Unlock When entering Clear List TIPS achievement 100%]
 patch=1,EE,20103A1C,extended,2401FFFF 
 patch=1,EE,20103A20,extended,A04179A1 
 patch=1,EE,20103A2C,extended,24020001 
 
-//Cheats/Unlock When entering Clear List Choice completion rate 100 %
+[Cheats/Unlock When entering Clear List Choice completion rate 100 %]
 patch=1,EE,2013FD84,extended,2401FFFF 
 patch=1,EE,2013FDA4,extended,A0812350
 patch=1,EE,2013FDB0,extended,00411807
 
-//Cheats/Unlock When entering Clear List Message completeness 100%
+[Cheats/Unlock When entering Clear List Message completeness 100%]
 patch=1,EE,2013FC5C,extended,A0850150
 patch=1,EE,2013FC68,extended,00451807
 
-//Cheats/Debug mode After skip opening logo with start button, the title screen does not appear and the screen remains frozen. At this time, press the ciircle  button to move to debugging
+[Cheats/Debug mode After skip opening logo with start button, the title screen does not appear and the screen remains frozen. At this time, press the ciircle  button to move to debugging]
 patch=1,EE,201E0A24,extended,00100258

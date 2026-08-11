@@ -1,18 +1,18 @@
 gametitle=Hitman - Blood Money SLES-53028 SLUS-21108
-//God Mode
+[God Mode]
 patch=1,EE,204FED80,extended,00000001
 
-//Have All Missions - Rookie Difficulty
+[Have All Missions - Rookie Difficulty]
 patch=1,EE,206391E8,extended,FFFFFFFF
 
-//Infinite Ammo In Gun/No Reloads
+[Infinite Ammo In Gun/No Reloads]
 patch=1,EE,201B3398,extended,25EF0000
 
-//Buy/Check Upgrades For 9 Million Cash
+[Buy/Check Upgrades For 9 Million Cash]
 patch=1,EE,203E162C,extended,3C0F0090
 
-//Infinite Saves
+[Infinite Saves]
 patch=1,EE,20534A28,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20323434,extended,00000000

@@ -1,4 +1,4 @@
-//Cheats/Not Wet Your Body Temperature Will Drop
+[Cheats/Not Wet Your Body Temperature Will Drop]
 patch=1,EE,4061F91C,extended,00290011
 patch=1,EE,FF000200,extended,00000000
 patch=1,EE,4061F92C,extended,00290011
@@ -6,17 +6,17 @@ patch=1,EE,00000000,extended,00000000
 patch=1,EE,4061F930,extended,00290011
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Infinite TP
+[Cheats/Infinite TP]
 patch=1,EE,2014BB2C,extended,C4400374
 patch=1,EE,2014BB34,extended,E4400370
 
-//Cheats/Weight Limit Release
+[Cheats/Weight Limit Release]
 patch=1,EE,20626B18,extended,0098967F
 
-//Cheats/The Coat Takes Off
+[Cheats/The Coat Takes Off]
 patch=1,EE,20326714,extended,3C024000
 
-//Cheats/Infinite P Meter Strip All Roles T
+[Cheats/Infinite P Meter Strip All Roles T]
 patch=1,EE,2014BB2C,extended,C4400374
 patch=1,EE,2014BB34,extended,E4400370
 patch=1,EE,2014BFDC,extended,C4400370

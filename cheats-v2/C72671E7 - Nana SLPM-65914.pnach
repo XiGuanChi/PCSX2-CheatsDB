@@ -1,16 +1,16 @@
 gametitle=Nana SLPM-65914
-//Max money
+[Max money]
 patch=1,EE,20718DDC,extended,0098967F
 patch=1,EE,20718DF0,extended,0098967F
 
-//Max current strength
+[Max current strength]
 patch=1,EE,20718F00,extended,0001869F
 patch=1,EE,20718F04,extended,0001869F
 
-//All clothes
+[All clothes]
 patch=1,EE,40719B10,extended,001A0001
 patch=1,EE,01010101,extended,00000000
 
-//All layout
+[All layout]
 patch=1,EE,40719B90,extended,00150001
 patch=1,EE,01010101,extended,00000000

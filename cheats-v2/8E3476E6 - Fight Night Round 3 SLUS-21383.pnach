@@ -1,35 +1,35 @@
 gametitle=Fight Night Round 3 SLUS-21383
 
 
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,2074EFBC,extended,05F5E0FF
 
-//Infinite Energy
+[Infinite Energy]
 patch=1,EE,000C0002,extended,00000001
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,000C0000,extended,00000001
 
-//Max Power
+[Max Power]
 patch=1,EE,10750D7C,extended,00000064
 
-//Max Speed
+[Max Speed]
 patch=1,EE,10750D7E,extended,00000064
 
-//Max Agility
+[Max Agility]
 patch=1,EE,10750D80,extended,00000064
 
-//Max Stamina
+[Max Stamina]
 patch=1,EE,10750D82,extended,00000064
 
-//Max Chin
+[Max Chin]
 patch=1,EE,10750D84,extended,00000064
 
-//Max Body
+[Max Body]
 patch=1,EE,10750D8A,extended,00000064
 
-//Max Heart
+[Max Heart]
 patch=1,EE,10750D86,extended,00000064
 
-//Max Cut
+[Max Cut]
 patch=1,EE,10750D88,extended,00000064

@@ -1,13 +1,13 @@
 gametitle=Eragon SLUS-21322
-//Unlock all levels
+[Unlock all levels]
 patch=1,EE,403AA444,extended,00120020
 patch=1,EE,00010101,extended,00000000
 
-//All Unlockables
+[All Unlockables]
 patch=1,EE,203AB9C0,extended,0000FFFF
 
-//Infinite Fury
+[Infinite Fury]
 patch=1,EE,201784F4,extended,00000000
 
-//Infinite Magic
+[Infinite Magic]
 patch=1,EE,20170A80,extended,00000000

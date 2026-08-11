@@ -1,23 +1,23 @@
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,2019417C,extended,24020001
 patch=1,EE,205F60AC,extended,00000001
 
-//Cheats/Body Armor Never Decreases
+[Cheats/Body Armor Never Decreases]
 patch=1,EE,201F2788,extended,00000000
 
-//Cheats/Health Packs Never Decrease
+[Cheats/Health Packs Never Decrease]
 patch=1,EE,2036FBA4,extended,00000000
 
-//Cheats/Infinite Air
+[Cheats/Infinite Air]
 patch=1,EE,20154138,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,1017309A,extended,00001000
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,201706EC,extended,24420000
 
-//Cheats/Unlock Access All Levels
+[Cheats/Unlock Access All Levels]
 patch=1,EE,20245960,extended,00000000
 patch=1,EE,20249448,extended,00000000
 patch=1,EE,20249BD4,extended,00000000
@@ -28,7 +28,7 @@ patch=1,EE,1024A60E,extended,00001000
 patch=1,EE,2024B404,extended,00000000
 patch=1,EE,2024B598,extended,00000000
 
-//Cheats/Unlock Access All Bonus
+[Cheats/Unlock Access All Bonus]
 patch=1,EE,20245B84,extended,00000000
 patch=1,EE,20249E60,extended,00000000
 patch=1,EE,2024A06C,extended,00000000

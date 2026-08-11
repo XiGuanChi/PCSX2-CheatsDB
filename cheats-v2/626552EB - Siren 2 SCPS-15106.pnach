@@ -1,8 +1,8 @@
 gametitle=Siren 2 SCPS-15106
-//Ammo infinite
+[Ammo infinite]
 patch=1,EE,20194FBC,extended,00000000
 
-//Invincible Press Select + R2 (player-enemy) OFF with Select + L2
+[Invincible Press Select + R2 (player-enemy) OFF with Select + L2]
 patch=1,EE,D04AAD02,extended,0000FDFE
 patch=1,EE,202216D8,extended,00402821
 patch=1,EE,D04AAD02,extended,0000FEFE
@@ -10,7 +10,7 @@ patch=1,EE,202216D8,extended,00502823
 
 
 
-//All 100 Archives/Kunitoris Mini Game
+[All 100 Archives/Kunitoris Mini Game]
 patch=1,EE,0059EFF5,extended,00000002
 patch=1,EE,1059EFF6,extended,00000202
 patch=1,EE,4059EFF8,extended,00180001

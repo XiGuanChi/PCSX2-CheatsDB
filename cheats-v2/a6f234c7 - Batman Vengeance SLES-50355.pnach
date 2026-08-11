@@ -1,24 +1,24 @@
 gametitle=Batman Vengeance SLES-50355
-//Inf Health
+[Inf Health]
 patch=1,EE,2089E358,extended,42C80000
 
-//Inf Power - Move bar
+[Inf Power - Move bar]
 patch=1,EE,2089E334,extended,42C80000
 
-//Inf Batarangs
+[Inf Batarangs]
 patch=1,EE,1089E3A6,extended,0000000F
 
-//Inf Bat Stunner
+[Inf Bat Stunner]
 patch=1,EE,1089E3AA,extended,00000005
 
-//Inf Batcuffs
+[Inf Batcuffs]
 patch=1,EE,1089E3B2,extended,00000003
 
-//Inf Remote Charges
+[Inf Remote Charges]
 patch=1,EE,1089E3AE,extended,0000000F
 
-//Inf Nets
+[Inf Nets]
 patch=1,EE,1089E3AC,extended,0000000F
 
-//Inf Elec. Batarangs
+[Inf Elec. Batarangs]
 patch=1,EE,1089E3A8,extended,0000000F

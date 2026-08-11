@@ -1,48 +1,48 @@
 gametitle=Jikkyou Powerful Pro Yakyuu 11 SLPM-65630
-//Score manipulation during the game SELECT + UP for first attack 99, second attack 0
+[Score manipulation during the game SELECT + UP for first attack 99, second attack 0]
 patch=1,EE,D18F0A42,extended,0000FFEE
 patch=1,EE,00502277,extended,00000063
 patch=1,EE,D18F0A42,extended,0000FFEE
 patch=1,EE,00501CC7,extended,00000000
 
-//Select + DOWN to go first 0, second 99
+[Select + DOWN to go first 0, second 99]
 patch=1,EE,D18F0A42,extended,0000FFBE
 patch=1,EE,00502277,extended,00000000
 patch=1,EE,D18F0A42,extended,0000FFBE
 patch=1,EE,00501CC7,extended,00000063
 
-//Count operation during a match With L2+R2+select Changed to 2 strikes, 0 balls, 2 outs with L2+R2+start
+[Count operation during a match With L2+R2+select Changed to 2 strikes, 0 balls, 2 outs with L2+R2+start]
 patch=1,EE,D18F0A42,extended,0000FCFE
 patch=1,EE,004FF7C7,extended,00000002
 patch=1,EE,D18F0A42,extended,0000FCFE
 patch=1,EE,104FF7C8,extended,00000200
 
-//Changed to 0 strikes, 3 balls, 0 outs
+[Changed to 0 strikes, 3 balls, 0 outs]
 patch=1,EE,D18F0A42,extended,0000FCF7
 patch=1,EE,004FF7C7,extended,00000000
 patch=1,EE,D18F0A42,extended,0000FCF7
 patch=1,EE,104FF7C8,extended,00000003
 
-//Count reset with L2+R2+L3+R3
+[Count reset with L2+R2+L3+R3]
 patch=1,EE,D18F0A42,extended,0000FCF9
 patch=1,EE,004FF7C7,extended,00000000
 patch=1,EE,D18F0A42,extended,0000FCF9
 patch=1,EE,104FF7C8,extended,00000000
 
-//All OB players 
+[All OB players]
 patch=1,EE,40509190,extended,000E0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,005091C4,extended,000000FF
 
-//success mode
-//Possess money MAX
+[success mode]
+[Possess money MAX]
 patch=1,EE,20566544,extended,0001869F
 
-//EXP MAX
+[EXP MAX]
 patch=1,EE,D0982228,extended,0000001E
 patch=1,EE,20982228,extended,10200001
 
-//success mode It does not decrease even if the experience points are distributed
+[success mode It does not decrease even if the experience points are distributed]
 patch=1,EE,D09A9FE0,extended,00001823
 patch=1,EE,209A9FE0,extended,00C01823
 

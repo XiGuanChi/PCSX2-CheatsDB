@@ -1,19 +1,19 @@
 gametitle=Manhunt SLES-52023 FE419424
 
-//Infinite Health
+[Infinite Health]
 author=GamingDragon93
 patch=1,EE,20457D28,extended,24030001
 
-//Infinite Run
+[Infinite Run]
 author=GamingDragon93
 patch=1,EE,20112F70,extended,3C023F80
 patch=1,EE,20112F74,extended,AC220FAC
 
-//Infinite Reload
+[Infinite Reload]
 author=GamingDragon93
 patch=1,EE,20267750,extended,00000000
 
-//Open All Levels
+[Open All Levels]
 author=GamingDragon93
 patch=1,EE,105E1F04,extended,00000001
 patch=1,EE,105E1FB4,extended,00000001
@@ -36,7 +36,7 @@ patch=1,EE,105E2AB4,extended,00000001
 patch=1,EE,105E2B64,extended,00000001
 patch=1,EE,105E2C14,extended,00000001
 
-//All Levels Max Stars
+[All Levels Max Stars]
 author=GamingDragon93
 patch=1,EE,105E1F08,extended,00000005
 patch=1,EE,105E1FB8,extended,00000005

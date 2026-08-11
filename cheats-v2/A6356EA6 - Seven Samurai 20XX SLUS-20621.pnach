@@ -1,7 +1,7 @@
 gametitle=Seven Samurai 20XX SLUS-20621
-//Infinite HP In Battle
+[Infinite HP In Battle]
 patch=1,EE,203DD1A4,extended,43FA0000
 patch=1,EE,203DD1A8,extended,43FA0000
 
-//Unlock Survival Mode
+[Unlock Survival Mode]
 patch=1,EE,203DD188,extended,00000001

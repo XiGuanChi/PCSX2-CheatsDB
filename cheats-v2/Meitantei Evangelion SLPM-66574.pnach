@@ -1,8 +1,8 @@
 gametitle=Meitantei Evangelion SLPM-66574
-//Game show Ver play possible Play with NEW GAME "From the beginning".
+[Game show Ver play possible Play with NEW GAME "From the beginning".]
 patch=1,EE,202B38F4,extended,24100001
 
-//Add EXTRA to title Please use the code to start the game with NEW GAME and save it during the game. If you start with LOAD GAME  it will not be reflected in the data even if you save it.
+[Add EXTRA to title Please use the code to start the game with NEW GAME and save it during the game. If you start with LOAD GAME  it will not be reflected in the data even if you save it.]
 patch=1,EE,202B2F34,extended,00440821
 patch=1,EE,202B2F3C,extended,8C220034
 patch=1,EE,2035B574,extended,24030001
@@ -11,7 +11,7 @@ patch=1,EE,202B3F54,extended,AC230034
 patch=1,EE,202B3F58,extended,080D6D60
 patch=1,EE,202B3F5C,extended,A20300D8
 
-//When turning pages at CG gallery, CG full opening After using the code to browse the CG Gallery of EXTRA to the last page, please start the game with NEW GAME and save it during the game. If you start with LOAD GAME it will not be reflected in the data even if you save it.
+[When turning pages at CG gallery, CG full opening After using the code to browse the CG Gallery of EXTRA to the last page, please start the game with NEW GAME and save it during the game. If you start with LOAD GAME it will not be reflected in the data even if you save it.]
 patch=1,EE,202B2F00,extended,00440821
 patch=1,EE,202B2F04,extended,8C220000
 patch=1,EE,20359AD4,extended,2402FFFF

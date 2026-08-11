@@ -1,16 +1,16 @@
 gametitle=Rockman X7 SLPM-65331
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,201BF5DC,extended,00000009
 
-//Largest life & the weapon energy MAX. during the stage
+[Largest life & the weapon energy MAX. during the stage]
 patch=1,EE,2012BB58,extended,00000000
 patch=1,EE,2012BB70,extended,00000000
 
-//Weapons All chips  can be used
+[Weapons All chips  can be used]
 patch=1,EE,20E40980,extended,FFFFFFFF
 patch=1,EE,20E40994,extended,000170FF
 patch=1,EE,20E40998,extended,0000F74F
 patch=1,EE,20E4099C,extended,0002787F
 
-//Rescue file death memoria
+[Rescue file death memoria]
 patch=1,EE,201B2D24,extended,A240007C

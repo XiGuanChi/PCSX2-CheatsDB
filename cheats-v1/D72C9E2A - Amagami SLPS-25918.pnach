@@ -1,4 +1,4 @@
-//Cheats/Unlock All Scene Playback need a savegame
+[Cheats/Unlock All Scene Playback need a savegame]
 patch=1,EE,200FF650,extended,65C43200
 patch=1,EE,200FF658,extended,34010090
 patch=1,EE,200FF65C,extended,90820000
@@ -27,7 +27,7 @@ patch=1,EE,200FF6C0,extended,008E1822
 patch=1,EE,200FF6C4,extended,28617000
 patch=1,EE,200FF6C8,extended,1420FFE3
 
-//Cheats/Unlock All Scenes need a savegame
+[Cheats/Unlock All Scenes need a savegame]
 patch=1,EE,200FF650,extended,65C43200
 patch=1,EE,200FF658,extended,34010090
 patch=1,EE,200FF65C,extended,90820000
@@ -56,7 +56,7 @@ patch=1,EE,200FF6C0,extended,008E1822
 patch=1,EE,200FF6C4,extended,28617000
 patch=1,EE,200FF6C8,extended,1420FFE3
 
-//Cheats/Unlock All Bonus need a savegame
+[Cheats/Unlock All Bonus need a savegame]
 patch=1,EE,200FF6D0,extended,0803FDC0
 patch=1,EE,200FF700,extended,25C40520
 patch=1,EE,200FF704,extended,34050090
@@ -75,7 +75,7 @@ patch=1,EE,200FF744,extended,15A0FFF2
 patch=1,EE,200FF748,extended,24840001
 patch=1,EE,200FF74C,extended,1200FFE2
 
-//Cheats/Debug Menu while on the main scene selection screen, press one of the following button
+[Cheats/Debug Menu while on the main scene selection screen, press one of the following button]
 patch=1,EE,D01ACF10,extended,00000100
 patch=1,EE,20116B68,extended,0040282D
 patch=1,EE,D01ACF10,extended,00000104

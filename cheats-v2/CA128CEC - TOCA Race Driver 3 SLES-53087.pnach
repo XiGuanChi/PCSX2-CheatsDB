@@ -1,12 +1,12 @@
 gametitle=TOCA Race Driver 3 SLES-53087
-//999 Points
+[999 Points]
 patch=1,EE,207C1614,extended,000003E7
 
-//Turbo Boost
+[Turbo Boost]
 patch=1,EE,005400D3,extended,00000001
 
-//Invincible Cars
+[Invincible Cars]
 patch=1,EE,00540107,extended,00000001
 
-//Unlock All Bonus Content
+[Unlock All Bonus Content]
 patch=1,EE,2055BCBC,extended,FFFFFFFF

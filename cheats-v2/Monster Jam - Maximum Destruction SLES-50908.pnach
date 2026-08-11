@@ -1,11 +1,11 @@
 gametitle=Monster Jam - Maximum Destruction SLES-50908
-//Max Money (Season Mode In Garage)
+[Max Money (Season Mode In Garage)]
 patch=1,EE,2035748C,extended,05F5E0FF
 
-//No Enemy AI - Death Match
+[No Enemy AI - Death Match]
 patch=1,EE,201156E8,extended,03E00008
 patch=1,EE,201156EC,extended,00000000
 
-//No Enemy AI - Races
+[No Enemy AI - Races]
 patch=1,EE,20111DF8,extended,03E00008
 patch=1,EE,20111DFC,extended,00000000

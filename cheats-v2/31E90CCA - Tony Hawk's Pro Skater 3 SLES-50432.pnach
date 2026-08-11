@@ -1,24 +1,24 @@
 gametitle=Tony Hawk's Pro Skater 3 SLES-50432
-//All Cheats Open
+[All Cheats Open]
 patch=1,EE,10AE8B42,extended,0000FF00
 patch=1,EE,10AE8B44,extended,0000000F
 
-//All Characters Open
+[All Characters Open]
 patch=1,EE,10AE8B40,extended,0000FFFF
 
-//Tony Hawk: Inf Stat Points
+[Tony Hawk: Inf Stat Points]
 patch=1,EE,10883488,extended,00000064
 
-//Tony Hawk: All STD Levels Open
+[Tony Hawk: All STD Levels Open]
 patch=1,EE,10AE8A2C,extended,0000FFFF
 patch=1,EE,10AE8A2E,extended,0000FFFF
 patch=1,EE,10AE8A30,extended,0000FFFF
 patch=1,EE,10AE8A32,extended,0000000F
 
-//Tony Hawk: All Gold Medals
+[Tony Hawk: All Gold Medals]
 patch=1,EE,10AE8A3C,extended,00000006
 patch=1,EE,10AE8A54,extended,00000004
 patch=1,EE,10AE8A64,extended,00000004
 
-//Tony Hawk: All Boards
+[Tony Hawk: All Boards]
 patch=1,EE,1050025C,extended,000003FF

@@ -1,5 +1,5 @@
 gametitle=Tourist Trophy SCUS-97502
-//Have All Bikes In Garage
+[Have All Bikes In Garage]
 patch=1,EE,200C0260,extended,27BDFFE0
 patch=1,EE,200C0264,extended,FFBF0000
 patch=1,EE,200C0268,extended,FFB00008
@@ -24,27 +24,27 @@ patch=1,EE,200C02B0,extended,08053F4E
 patch=1,EE,200C02B4,extended,27BD0020
 patch=1,EE,2014FD30,extended,0C030098
 
-//Infinite Fuel
+[Infinite Fuel]
 patch=1,EE,202F88F8,extended,00000000
 patch=1,EE,202F88FC,extended,00000000
 
-//All Gold Expert Licenses
+[All Gold Expert Licenses]
 patch=1,EE,40832A28,extended,000A0001
 patch=1,EE,0000FB91,extended,00000000
 
-//All Gold Junior Licenses
+[All Gold Junior Licenses]
 patch=1,EE,40832A01,extended,000A0001
 patch=1,EE,0000FB91,extended,00000000
 
-//All Gold Novice Licenses
+[All Gold Novice Licenses]
 patch=1,EE,408329D8,extended,000A0001
 patch=1,EE,0000FB91,extended,00000000
 
-//All Gold Super Licenses
+[All Gold Super Licenses]
 patch=1,EE,40832A51,extended,000A0001
 patch=1,EE,0000FB91,extended,00000000
 
-//Freeze Timer Press R3 to activate, L3 to stop.
+[Freeze Timer Press R3 to activate, L3 to stop.]
 patch=1,EE,D05986F4,extended,0000FFFD
 patch=1,EE,102FBE16,extended,00002442
 patch=1,EE,D05986F4,extended,0000FFFB

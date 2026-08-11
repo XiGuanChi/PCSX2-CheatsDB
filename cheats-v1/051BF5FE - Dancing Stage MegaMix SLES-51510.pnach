@@ -1,14 +1,14 @@
-//Cheats/Max Dance Gauge Meter
+[Cheats/Max Dance Gauge Meter]
 patch=1,EE,101491FE,extended,00003400
 
-//Cheats/Full Dance Meter After 1 Miss
+[Cheats/Full Dance Meter After 1 Miss]
 patch=1,EE,201491F8,extended,240303FF
 
-//Cheats/P1 Results Max Perfect
+[Cheats/P1 Results Max Perfect]
 patch=1,EE,1057AC70,extended,000003E7
 
-//Cheats/P1 Always Ultra Low Speed
+[Cheats/P1 Always Ultra Low Speed]
 patch=1,EE,2057AC34,extended,0000C000
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,202993A4,extended,FFFFFFFF

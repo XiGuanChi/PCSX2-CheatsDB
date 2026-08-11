@@ -1,31 +1,31 @@
-//Cheats/Infinite Zeni
+[Cheats/Infinite Zeni]
 patch=1,EE,206349FC,extended,05F5E0FF
 
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,217ebec8,extended,0000c350
 patch=1,EE,217ebecc,extended,0000c350
 patch=1,EE,217ebed0,extended,000186a0
 
-//Cheats/HP Activator Must Be On for Health Codes
+[Cheats/HP Activator Must Be On for Health Codes]
 patch=1,EE,200C0288,extended,03E00008
 patch=1,EE,200C028C,extended,8E460000
 patch=1,EE,2010DD00,extended,0C030088
 
-//Cheats/P1 Infinite Health
+[Cheats/P1 Infinite Health]
 patch=1,EE,200C0220,extended,8E410004
 patch=1,EE,200C0224,extended,52800001
 patch=1,EE,200C0228,extended,AE410000
 
-//Cheats/P1 Infinite Ki
+[Cheats/P1 Infinite Ki]
 patch=1,EE,200C022C,extended,8E410010
 patch=1,EE,200C0230,extended,52800001
 patch=1,EE,200C0234,extended,AE41000C
 
-//Cheats/Infinite Ki P1
+[Cheats/Infinite Ki P1]
 patch=1,EE,217ebed4,extended,000186a0
 patch=1,EE,217ebed8,extended,000186a0
 
-//Cheats/Player 2 No Health,Ki and Special PRESS SELECT
+[Cheats/Player 2 No Health,Ki and Special PRESS SELECT]
 patch=1,EE,E00efffe,extended,003b221c
 patch=1,EE,217ebec8,extended,000186a0
 patch=1,EE,217ebecc,extended,000186a0
@@ -42,31 +42,31 @@ patch=1,EE,217ed418,extended,00000000
 patch=1,EE,217ed41c,extended,00000000
 patch=1,EE,217ed420,extended,00000000
 
-//Cheats/Unlock All Ultimate Battle Z Courses
+[Cheats/Unlock All Ultimate Battle Z Courses]
 patch=1,EE,40632480,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Ability Type Z Items
+[Cheats/Unlock All Ability Type Z Items]
 patch=1,EE,406340F0,extended,009C0001
 patch=1,EE,03E70001,extended,00000000
 
-//Cheats/Unlock All 7 Dragon Ball Z Items
+[Cheats/Unlock All 7 Dragon Ball Z Items]
 patch=1,EE,40634680,extended,00070001
 patch=1,EE,03E70001,extended,00000000
 
-//Cheats/Unlock All Fusion Type Z Items
+[Cheats/Unlock All Fusion Type Z Items]
 patch=1,EE,40634514,extended,00550001
 patch=1,EE,03E70001,extended,00000000
 
-//Cheats/Unlock All Secret Type Z Items
+[Cheats/Unlock All Secret Type Z Items]
 patch=1,EE,4063469C,extended,00CB0001
 patch=1,EE,03E70001,extended,00000000
 
-//Cheats/Unlock All Support Type Z Items
+[Cheats/Unlock All Support Type Z Items]
 patch=1,EE,40634360,extended,006D0001
 patch=1,EE,03E70001,extended,00000000
 
-//Cheats/Unlock All Skills
+[Cheats/Unlock All Skills]
 patch=1,EE,406340f0,extended,005f0001
 patch=1,EE,03e70001,extended,00000000
 patch=1,EE,40634270,extended,00e00001

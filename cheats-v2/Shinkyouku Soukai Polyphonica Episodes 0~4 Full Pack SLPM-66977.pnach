@@ -1,14 +1,14 @@
 gametitle=Shinkyouku Soukai Polyphonica Episodes 0~4 Full Pack SLPM-66977
-//CG mode fully open
+[CG mode fully open]
 patch=1,EE,20363B50,extended,FFFFFFFF
 patch=1,EE,20363B54,extended,FFFFFFFF
 patch=1,EE,20363B58,extended,FFFFFFFF
 patch=1,EE,20363B5C,extended,FFFFFFFF
 
-//Added Jump Skip to Preferences
+[Added Jump Skip to Preferences]
 patch=1,EE,2039FA94,extended,00000001
 
-//Debug mode the debug flag is also reflected in the save. Debug ON with SELECT + up buttonDebug OFF with SELECT + down button
+[Debug mode the debug flag is also reflected in the save. Debug ON with SELECT + up buttonDebug OFF with SELECT + down button]
 patch=1,EE,D023B402,extended,0000FFEE
 patch=1,EE,20363AAC,extended,00000001
 patch=1,EE,D023B402,extended,0000FFBE

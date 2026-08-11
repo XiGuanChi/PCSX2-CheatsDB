@@ -1,19 +1,19 @@
 gametitle=Leisure Suit Larry Magna Cum Laude SLES-52644
-//Infinite money
+[Infinite money]
 patch=1,EE,2097853C,extended,0000270F
 
-//Never drunk
+[Never drunk]
 patch=1,EE,2097851C,extended,00000000
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,20CFF720,extended,00000000
 
-//Max Secret Tokens
+[Max Secret Tokens]
 patch=1,EE,2097852C,extended,000003E7
 
-//Always Confident
+[Always Confident]
 patch=1,EE,209798EC,extended,42C80000
 
-//All Concept Art
+[All Concept Art]
 patch=1,EE,409528D0,extended,003F0001
 patch=1,EE,00000001,extended,00000000

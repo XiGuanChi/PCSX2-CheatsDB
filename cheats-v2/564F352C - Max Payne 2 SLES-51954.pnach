@@ -1,16 +1,16 @@
 gametitle=Max Payne 2 SLES-51954
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20365E7C,extended,3C01437A
 patch=1,EE,20365E80,extended,AC8100DC
 
-//Infinite Painkillers
+[Infinite Painkillers]
 patch=1,EE,203EC124,extended,00000000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,203ED83C,extended,00000000
 
-//1 Hit Kills
+[1 Hit Kills]
 patch=1,EE,203853C0,extended,AC8000DC
 
-//Infinite Bullet Time
+[Infinite Bullet Time]
 patch=1,EE,20295270,extended,00000000

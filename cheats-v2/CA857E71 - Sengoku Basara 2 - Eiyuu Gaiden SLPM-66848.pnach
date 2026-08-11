@@ -1,27 +1,27 @@
 gametitle=Sengoku Basara 2 - Eiyuu Gaiden SLPM-66848
-//Max Possession money
+[Max Possession money]
 patch=1,EE,2051A500,extended,0098967F
 
-//Mandatory
+[Mandatory]
 patch=1,EE,201DB36C,extended,0C03E048
 patch=1,EE,200F81A0,extended,0807A0A0
 
-//Maximum physical fitness
+[Maximum physical fitness]
 patch=1,EE,200F8134,extended,8E010564
 patch=1,EE,200F8138,extended,AE0104F8
 
-//All items
+[All items]
 patch=1,EE,4051A520,extended,002D0001
 patch=1,EE,E4E4E4E4,extended,00000000
 
-//All titles
+[All titles]
 patch=1,EE,2051A6E0,extended,FFFFFFFF
 patch=1,EE,2051A6E4,extended,FFFFFFFF
 patch=1,EE,2051A6E8,extended,001FFFFF
 
-//All music
+[All music]
 patch=1,EE,2051A718,extended,FFFFFFFF
 patch=1,EE,2051A71C,extended,0003FFFF
 
-//All movies
+[All movies]
 patch=1,EE,2051A720,extended,003FFFFF

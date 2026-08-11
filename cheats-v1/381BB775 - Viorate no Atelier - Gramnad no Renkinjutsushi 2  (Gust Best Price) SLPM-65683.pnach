@@ -1,78 +1,78 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20F82B30,extended,000F423F
 
-//Cheats/Max Experience
+[Cheats/Max Experience]
 patch=1,EE,2019F82C,extended,8CA31520
 
-//Cheats/Max Popular Experience
+[Cheats/Max Popular Experience]
 patch=1,EE,201D64B4,extended,24022710
 
-//Cheats/HP MP LP Full Recovery Effective after battle or when checking parameters with a party
+[Cheats/HP MP LP Full Recovery Effective after battle or when checking parameters with a party]
 patch=1,EE,2014642C,extended,00000021
 patch=1,EE,2014644C,extended,00000021
 patch=1,EE,2014646C,extended,00000021
 
-//Cheats/When Store EXP Changes Store LV Max
+[Cheats/When Store EXP Changes Store LV Max]
 patch=1,EE,20285EE0,extended,24022710
 
-//Cheats/When Friendship Value Changes it is 100 Party members change when they leave the gathering area
+[Cheats/When Friendship Value Changes it is 100 Party members change when they leave the gathering area]
 patch=1,EE,20146AE0,extended,24022710
 
-//Cheats/As days pass, the quality becomes superb
+[Cheats/As days pass, the quality becomes superb]
 patch=1,EE,202354D4,extended,24022710
 
-//Cheats/Infinite MP When Synthesizing
+[Cheats/Infinite MP When Synthesizing]
 patch=1,EE,202605B8,extended,00601023
 
-//Cheats/Infinite LP When Synthesizing
+[Cheats/Infinite LP When Synthesizing]
 patch=1,EE,202605D8,extended,00601023
 
-//Cheats/Infinite Magic when using recharge items
+[Cheats/Infinite Magic when using recharge items]
 patch=1,EE,20235720,extended,00601023
 
-//Cheats/Max Magic when using recharge items
+[Cheats/Max Magic when using recharge items]
 patch=1,EE,20235720,extended,24022710
 
-//Cheats/Infinite Items when used
+[Cheats/Infinite Items when used]
 patch=1,EE,20163210,extended,00000021
 
-//Cheats/Auction special can be used multiple times
+[Cheats/Auction special can be used multiple times]
 patch=1,EE,203363C4,extended,00000021
 
-//Cheats/Dungeon Does Not Break
+[Cheats/Dungeon Does Not Break]
 patch=1,EE,20156578,extended,0805597F
 
-//Cheats/Dungeon Does Not break R3+L2=Do not break R3+R2=Collapse It works regardless of the remaining durability of the dungeon, and collapse occurs even in places where it normally does not occur You may have to break it due to an event, so in that case, please use this
+[Cheats/Dungeon Does Not break R3+L2=Do not break R3+R2=Collapse It works regardless of the remaining durability of the dungeon, and collapse occurs even in places where it normally does not occur You may have to break it due to an event, so in that case, please use this]
 patch=1,EE,D0BB2B82,extended,0000FEFB
 patch=1,EE,20156578,extended,0805597F
 patch=1,EE,D0BB2B82,extended,0000FDFB
 patch=1,EE,20156578,extended,00000021
 
-//Cheats/Max Parameters For All Party Members
+[Cheats/Max Parameters For All Party Members]
 patch=1,EE,201463F0,extended,00000021
 
-//Cheats/STATUS required code
+[Cheats/STATUS required code]
 patch=1,EE,200F702C,extended,03E00008
 patch=1,EE,20146478,extended,0803DC00
 
-//Cheats/Max HP
+[Cheats/Max HP]
 patch=1,EE,200F7004,extended,A488000E
 
-//Cheats/Max MP
+[Cheats/Max MP]
 patch=1,EE,200F7008,extended,A4880010
 
-//Cheats/Max LP
+[Cheats/Max LP]
 patch=1,EE,200F700C,extended,A4880012
 
-//Cheats/Max Attack Power
+[Cheats/Max Attack Power]
 patch=1,EE,200F7010,extended,A4880014
 
-//Cheats/Max Defense Power
+[Cheats/Max Defense Power]
 patch=1,EE,200F7014,extended,A4880016
 
-//Cheats/Max Speed
+[Cheats/Max Speed]
 patch=1,EE,200F7018,extended,A4880018 
 
-//Cheats/100% blocking activation attacks should be blocked 100% but it may not be possible.The first line is Lordfreed, the second line is Bartholomeus.
+[Cheats/100% blocking activation attacks should be blocked 100% but it may not be possible.The first line is Lordfreed, the second line is Bartholomeus.]
 patch=1,EE,201C8CFC,extended,08072344
 patch=1,EE,201C8E30,extended,08072390

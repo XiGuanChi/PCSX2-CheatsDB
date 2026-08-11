@@ -1,24 +1,24 @@
 gametitle=Scooby-Doo - Mystery Mayhem SLUS-20701 SLES-51883
-//Never Scared
+[Never Scared]
 patch=1,EE,208CB144,extended,3F800000
 
-//Infinite Book Power
+[Infinite Book Power]
 patch=1,EE,208CB148,extended,43340000
 
-//Have: All Episode Clues
+[Have: All Episode Clues]
 patch=1,EE,208CB1F1,extended,000000FF
 
-//Have: All Ghost Portraits
+[Have: All Ghost Portraits]
 patch=1,EE,208CB1E4,extended,FFFDFFFF
 
-//Have: Complete Sandwich
+[Have: Complete Sandwich]
 patch=1,EE,208CB1F0,extended,000000FF
 
-//Unlock All MiniGames
+[Unlock All MiniGames]
 patch=1,EE,208CB1E4,extended,FFFFFFFF
 
-//Have All Gallery Images/Character Models
+[Have All Gallery Images/Character Models]
 patch=1,EE,208CB204,extended,FFFFFFFF
 
-//Have All Play Rerun/Movies
+[Have All Play Rerun/Movies]
 patch=1,EE,208CB20C,extended,FFFFFFFF

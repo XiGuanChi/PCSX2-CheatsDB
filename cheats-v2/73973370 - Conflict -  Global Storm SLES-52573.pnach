@@ -1,5 +1,5 @@
 gametitle=Conflict -  Global Storm SLES-52573
-//must be on
+[must be on]
 patch=1,EE,20344E68,extended,0813780E
 patch=1,EE,204DE038,extended,3C0401E0
 patch=1,EE,204DE03C,extended,3C050008
@@ -14,14 +14,14 @@ patch=1,EE,204DE05C,extended,3C060008
 patch=1,EE,204DE060,extended,080D139C
 patch=1,EE,204DE064,extended,00000000
 
-//Disable Player Damage
+[Disable Player Damage]
 patch=1,EE,2054EF6C,extended,00000000
 
-//Enable Player Damage
+[Enable Player Damage]
 patch=1,EE,2054EF6C,extended,00000001
 
-//Infinite Ammo (Guns)
+[Infinite Ammo (Guns)]
 patch=1,EE,2023622C,extended,10000007
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,20235644,extended,00000000

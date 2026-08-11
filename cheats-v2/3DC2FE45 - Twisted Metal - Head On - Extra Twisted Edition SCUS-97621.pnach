@@ -1,32 +1,32 @@
 gametitle=Twisted Metal - Head On - Extra Twisted Edition SCUS-97621
-//Press Select Once To Enable Infinite HP P1
+[Press Select Once To Enable Infinite HP P1]
 patch=1,EE,200A0030,extended,3C03447A
 patch=1,EE,200A0034,extended,44830000
 
-//Press Select Once To Enable Hold R2 For 1-Hit Kills
+[Press Select Once To Enable Hold R2 For 1-Hit Kills]
 patch=1,EE,200A0020,extended,449B0000
 
-//Infinite Lives [5]
+[Infinite Lives [5]]
 patch=1,EE,10BE94C0,extended,00000005
 
-//Infinite Special Energy
+[Infinite Special Energy]
 patch=1,EE,2011BDCC,extended,00000000
 
-//Infinite NOS
+[Infinite NOS]
 patch=1,EE,2011BE84,extended,00000000
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,2078FF60,extended,FFFDFFFF
 patch=1,EE,2078FF64,extended,00000003
 
-//Unlock All Battlegrounds
+[Unlock All Battlegrounds]
 patch=1,EE,2078FF70,extended,00FFFFFF
 
-//Unlock All Ending Movies
+[Unlock All Ending Movies]
 patch=1,EE,2078FF74,extended,0001FFFF
 
-//Unlock Tower Tooth Challenge
+[Unlock Tower Tooth Challenge]
 patch=1,EE,2078FF78,extended,0001FFFF
 
-//Play Roman Ruins In Lost
+[Play Roman Ruins In Lost]
 patch=1,EE,2078FF70,extended,00200000

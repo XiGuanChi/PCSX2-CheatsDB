@@ -1,11 +1,11 @@
 gametitle=Gallop Racer 2006 SLPS-25564
-//Money in hand maximum
+[Money in hand maximum]
 patch=1,EE,2092282C,extended,3B9AC9FF
 
-//Horse figure entirely
+[Horse figure entirely]
 patch=1,EE,40922544,extended,00510001
 patch=1,EE,09090909,extended,00000000
 
-//The laced card entirely
+[The laced card entirely]
 patch=1,EE,40922694,extended,00490001
 patch=1,EE,09090909,extended,00000000

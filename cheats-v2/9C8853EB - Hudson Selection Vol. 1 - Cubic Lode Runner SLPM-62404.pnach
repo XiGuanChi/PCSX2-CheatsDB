@@ -1,13 +1,13 @@
 gametitle=Hudson Selection Vol. 1 - Cubic Lode Runner SLPM-62404
-//0 Gold to get
+[0 Gold to get]
 patch=1,EE,202E80DA,extended,00000000
 
-//9999 score
+[9999 score]
 patch=1,EE,201D7BCC,extended,0000270F
 
-//Exit appears from the beginning of the level 
+[Exit appears from the beginning of the level]
 patch=1,EE,2012A0A8,extended,A44080DA
 patch=1,EE,2012F638,extended,A4C0001A
 
-//Infinite lives 
+[Infinite lives]
 patch=1,EE,2012FE70,extended,00000000

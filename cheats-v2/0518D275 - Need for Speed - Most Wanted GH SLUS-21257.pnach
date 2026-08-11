@@ -1,37 +1,37 @@
 gametitle=Need for Speed - Most Wanted GH SLUS-21257
-//Infinite Cash 
+[Infinite Cash]
 patch=1,EE,10AAFE90,extended,0000FFFF
 
-//Max Cash 
+[Max Cash]
 patch=1,EE,20AAFE90,extended,05F5E0FF
 
-//Have All Blacklist Completed 
+[Have All Blacklist Completed]
 patch=1,EE,00AAFE8C,extended,00000000
 
-//Max Bounty 
+[Max Bounty]
 patch=1,EE,20AB8E90,extended,05F5E0FF
 
-//Infinite NOS Usage 
+[Infinite NOS Usage]
 patch=1,EE,2036F074,extended,00000000
 
-//Max Infinite NOS With this code, it will give cars that dont have NOS some.
+[Max Infinite NOS With this code, it will give cars that dont have NOS some.]
 patch=1,EE,2037F5A4,extended,3C013F80
 patch=1,EE,2037F5A8,extended,AC610010
 patch=1,EE,2036F0A0,extended,3C0142C8
 patch=1,EE,2036F0A4,extended,AE010178
 patch=1,EE,1036F0AA,extended,00001000
 
-//Infinite Speedbreaker 
+[Infinite Speedbreaker]
 patch=1,EE,2039636c,extended,00000000
 
-//All Races Only Have 1 Racer
+[All Races Only Have 1 Racer]
 patch=1,EE,202D78E0,extended,24020001
 patch=1,EE,202D78E4,extended,AC821C30
 
-//Access All Cars (Not Saveable) 
+[Access All Cars (Not Saveable)]
 patch=1,EE,20574624,extended,00000001
 
-//All Challenges Unlocked
+[All Challenges Unlocked]
 patch=1,EE,200C2000,extended,3421000C
 patch=1,EE,200C2008,extended,AC410004
 patch=1,EE,200C200C,extended,03E00008
@@ -39,6 +39,6 @@ patch=1,EE,200C2010,extended,00301024
 patch=1,EE,202B4794,extended,0C030800
 patch=1,EE,202B4798,extended,8C410004
 
-//All Challenges Completed
+[All Challenges Completed]
 patch=1,EE,200C2004,extended,34210001
 

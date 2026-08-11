@@ -1,49 +1,49 @@
 gametitle=Gauntlet - Dark Legacy SLES-50211
-//Player 1: All Characters Open
+[Player 1: All Characters Open]
 patch=1,EE,10222F58,extended,0000FFFF
 
-//Player 1: Inf Health
+[Player 1: Inf Health]
 patch=1,EE,10223FC2,extended,00005000
 
-//Player 1: Pots of Cash
+[Player 1: Pots of Cash]
 patch=1,EE,10223FD0,extended,0000270F
 
-//Player 1: Full Ring Of Keys
+[Player 1: Full Ring Of Keys]
 patch=1,EE,10223FC4,extended,0000000A
 
-//Player 2: All Characters Open
+[Player 2: All Characters Open]
 patch=1,EE,10225A58,extended,0000FFFF
 
-//Player 2: Inf Health
+[Player 2: Inf Health]
 patch=1,EE,10226AC2,extended,00005000
 
-//Player 2: Pots Of Cash
+[Player 2: Pots Of Cash]
 patch=1,EE,10226AD0,extended,0000270F
 
-//Player 2: Full Ring Of Keys
+[Player 2: Full Ring Of Keys]
 patch=1,EE,10226AC4,extended,0000000A
 
-//Player 3: All Characters Open
+[Player 3: All Characters Open]
 patch=1,EE,10228558,extended,0000FFFF
 
-//Player 3: Inf Health
+[Player 3: Inf Health]
 patch=1,EE,102295C2,extended,00005000
 
-//Player 3: Pots Of Cash
+[Player 3: Pots Of Cash]
 patch=1,EE,102295D0,extended,0000270F
 
-//Player 3: Full Ring Of Keys
+[Player 3: Full Ring Of Keys]
 patch=1,EE,102295C4,extended,0000000A
 
-//Player 4: All Characters Open
+[Player 4: All Characters Open]
 patch=1,EE,1022B058,extended,0000FFFF
 
-//Player 4: Inf Health
+[Player 4: Inf Health]
 patch=1,EE,1022C0C2,extended,00005000
 
-//Player 4: Pots OF Cash
+[Player 4: Pots OF Cash]
 patch=1,EE,1022C0D0,extended,0000270F
 
-//Player 4: Full Ring Of Keys
+[Player 4: Full Ring Of Keys]
 patch=1,EE,1022C0C4,extended,0000000A
 

@@ -1,14 +1,14 @@
 gametitle=Sega Ages 2500 Series Vol. 24 - Last BronxSLPM-62687
-//Inf Timer
+[Inf Timer]
 patch=1,EE,101229CC,extended,00000000
 
-//Infinite HP Player
+[Infinite HP Player]
 patch=1,EE,200A0018,extended,240F0090
 patch=1,EE,200A001C,extended,AE0F021C
 
-//Memory Hax Player 1 Inf HP
+[Memory Hax Player 1 Inf HP]
 patch=1,EE,0022AFBC,extended,00000090
 
-//1 Hi tKill player 2 
+[1 Hi tKill player 2]
 patch=1,EE,0022ECC8,extended,00000001
 patch=1,EE,0022ED50,extended,00000001

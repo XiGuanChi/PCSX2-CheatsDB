@@ -1,8 +1,8 @@
 gametitle=Centre Court - Hard Hitter SLES-50636
-//P1 1 Point Win - R1
+[P1 1 Point Win - R1]
 patch=1,EE,102ABA02,extended,0000F7FF
 patch=1,EE,1031FB78,extended,00000006
 
-//P2 Scores 0 - L1
+[P2 Scores 0 - L1]
 patch=1,EE,102ABA02,extended,0000FBFF
 patch=1,EE,1031FB7C,extended,00000000

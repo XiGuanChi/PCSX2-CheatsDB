@@ -1,12 +1,12 @@
 gametitle=Shin Sangoku Musou 4 Moushouden SLPM-66101
-//Hit and miss & free mode appearance
+[Hit and miss & free mode appearance]
 patch=1,EE,2035D380,extended,00000001
 
-//Curtain building, 99 all the strengthening items
+[Curtain building, 99 all the strengthening items]
 patch=1,EE,204DB8D0,extended,63636363
 patch=1,EE,104DB8D4,extended,00006363
 
-//Sound test & movie full opening
+[Sound test & movie full opening]
 patch=1,EE,204DB890,extended,FFFFFFFF
 patch=1,EE,204DB894,extended,FFFFFFFF
 patch=1,EE,204DB898,extended,FFFFFFFF
@@ -14,44 +14,44 @@ patch=1,EE,204DB89C,extended,FFFFFFFF
 patch=1,EE,204DB8A0,extended,FFFFFFFF
 patch=1,EE,204DB8A4,extended,FFFFFFFF
 
-//<1P>
+[<1P>]
 
-//HP infinite
+[HP infinite]
 patch=1,EE,201A57A8,extended,1060001F
 patch=1,EE,201A57B0,extended,920101FE
 patch=1,EE,201A57B4,extended,0041280A
 
-//Hit and miss gauge largest maintenance
+[Hit and miss gauge largest maintenance]
 patch=1,EE,201920D8,extended,908401FE
 patch=1,EE,201920DC,extended,28830001
 
-//With R3 button hit and miss awakening
+[With R3 button hit and miss awakening]
 patch=1,EE,201E79A8,extended,2403FFFF
 
-//1 Hit to Kill
+[1 Hit to Kill]
 patch=1,EE,201E5990,extended,16800002
 
-//Awakening time permanence
+[Awakening time permanence]
 patch=1,EE,20191FE0,extended,1000002D
 patch=1,EE,D036D69C,extended,0000FFFD
 patch=1,EE,20191FE0,extended,A4C00000
-//* While awakening with L3 button permanence cancellation.
+[* While awakening with L3 button permanence cancellation.]
 
-//The arrow infinite
+[The arrow infinite]
 patch=1,EE,201951CC,extended,00000000
 
 
-//<Outside transmission mode>
+[<Outside transmission mode>]
 
-//All the item procurement
+[All the item procurement]
 patch=1,EE,201AD458,extended,0C06B4E8
 patch=1,EE,201AD45C,extended,34050014
-//* Before the sortieing it goes to the item equipment picture.
+[* Before the sortieing it goes to the item equipment picture.]
 
-//<Timber chute mode>
+[<Timber chute mode>]
 
-//Early money in hand maximum
+[Early money in hand maximum]
 patch=1,EE,202EAA1C,extended,00000000
 
-//Early possession iron maximum
+[Early possession iron maximum]
 patch=1,EE,202EAA4C,extended,00000000

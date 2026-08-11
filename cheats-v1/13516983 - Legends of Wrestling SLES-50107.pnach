@@ -1,14 +1,14 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,20740D64,extended,00000898
 patch=1,EE,20740D94,extended,00000064
 patch=1,EE,20740D98,extended,00000000
 patch=1,EE,20740D9C,extended,00000064
 
-//Cheats/Max Skill Points
+[Cheats/Max Skill Points]
 patch=1,EE,10978EDE,extended,00000063
 
-//Cheats/Max Abilities Points
+[Cheats/Max Abilities Points]
 patch=1,EE,10978EE0,extended,00000063
 
-//Cheats/Unlock All Wrestlers
+[Cheats/Unlock All Wrestlers]
 patch=1,EE,204766A8,extended,0001FFFF

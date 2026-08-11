@@ -1,12 +1,12 @@
 gametitle=Micro Machines V4 SLES-53668
-//Disable AI
+[Disable AI]
 patch=1,EE,201440D8,extended,24020000
 
-//Open All Cars
+[Open All Cars]
 patch=1,EE,202B7CDC,extended,24030009
 patch=1,EE,202B7CE0,extended,A0430000
 patch=1,EE,202B7CE8,extended,24020001
 
-//Unlock All Circuits/Missions
+[Unlock All Circuits/Missions]
 patch=1,EE,202AB400,extended,24010003
 patch=1,EE,202AB410,extended,A08100AC

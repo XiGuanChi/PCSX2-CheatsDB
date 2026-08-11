@@ -1,30 +1,30 @@
 gametitle=Full House Kiss 2 SLPM-66288
-//Detective parameter MAX with L2 + R2 button
+[Detective parameter MAX with L2 + R2 button]
 patch=1,EE,D02326DC,extended,0000FCFF
 patch=1,EE,219BD374,extended,00000064
 patch=1,EE,D02326DC,extended,0000FCFF
 patch=1,EE,219BD378,extended,00000007
 
-//Home women level 5
+[Home women level 5]
 patch=1,EE,219BD380,extended,00000005
 
-//All characters Love Parameter Max
+[All characters Love Parameter Max]
 patch=1,EE,219BD458,extended,000007D0
 patch=1,EE,219BD528,extended,000007D0
 patch=1,EE,219BD5F8,extended,000007D0
 patch=1,EE,219BD6C8,extended,000007D0
 
-//All characters Trust parameter Max
+[All characters Trust parameter Max]
 patch=1,EE,219BD460,extended,000003E8
 patch=1,EE,219BD530,extended,000003E8
 patch=1,EE,219BD600,extended,000003E8
 patch=1,EE,219BD6D0,extended,000003E8
 
-//Housekeeper part L2 + R2 button elapsed time 0
+[Housekeeper part L2 + R2 button elapsed time 0]
 patch=1,EE,D02326DC,extended,0000FCFF
 patch=1,EE,219EA954,extended,00000000
 
-//All item possession
+[All item possession]
 patch=1,EE,219C12B0,extended,04030201
 patch=1,EE,219C12B4,extended,08070605
 patch=1,EE,219C12B8,extended,0C0B0A09
@@ -39,6 +39,6 @@ patch=1,EE,219C12D8,extended,2C2B2A29
 patch=1,EE,119C12DC,extended,00002E2D
 patch=1,EE,019C12DE,extended,0000002F
 
-//Unlock All Bonus
+[Unlock All Bonus]
 patch=1,EE,419C5B20,extended,00360001
 patch=1,EE,01010101,extended,00000000

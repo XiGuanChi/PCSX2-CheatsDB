@@ -1,17 +1,17 @@
 gametitle=Dynasty Warriors 4 - Xtreme Legends SLES-52171
-//Player 1 Unlimited Health
+[Player 1 Unlimited Health]
 patch=1,EE,1053BD7C,extended,000001F0
 patch=1,EE,1053BD7E,extended,00001F00
 
-//Player 1 Unlimited Musou
+[Player 1 Unlimited Musou]
 patch=1,EE,1053BD82,extended,000001F0
 patch=1,EE,1053BD84,extended,00001F00
 
-//Player 1 Unlimited Arrows
+[Player 1 Unlimited Arrows]
 patch=1,EE,0055F0DC,extended,00000063
 
-//unlimited Arrows (All Players)
+[unlimited Arrows (All Players)]
 patch=1,EE,201C4130,extended,24203634
 
-//Money
+[Money]
 patch=1,EE,20469618,extended,05F5E0FF

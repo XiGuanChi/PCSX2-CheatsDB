@@ -1,11 +1,11 @@
 gametitle=Winning Eleven Tactics -  European Club Soccer SLPM-65804
-//Maximum director fame
+[Maximum director fame]
 patch=1,EE,20CC1D4C,extended,0001869F
 
-//WEN maximum
+[WEN maximum]
 patch=1,EE,20CC1D84,extended,000F423F
 
-//Personnel funds & salary budget 100 billion yen
+[Personnel funds & salary budget 100 billion yen]
 patch=1,EE,200F4000,extended,3C05000F
 patch=1,EE,200F4004,extended,34A54240
 patch=1,EE,200F4008,extended,AC45002C
@@ -14,17 +14,17 @@ patch=1,EE,200F4020,extended,03E00008
 patch=1,EE,D09155A4,extended,0000002C
 patch=1,EE,209155A4,extended,0C03D000
 
-//Fully open the feat set by viewing the director's feat
+[Fully open the feat set by viewing the director's feat]
 patch=1,EE,2029FEA4,extended,24020010
 patch=1,EE,2029FEA8,extended,A02267ED
 patch=1,EE,2029FEB0,extended,24020001
 
-//Tactical support, all assistant clothes
+[Tactical support, all assistant clothes]
 patch=1,EE,20CC1D5C,extended,FFFFFFFF
 patch=1,EE,20CC1D60,extended,FFFFFFFF
 patch=1,EE,20CC1D64,extended,FFFFFFFF
 
-//All classic players
+[All classic players]
 patch=1,EE,20CC1D84,extended,FFFFFFFF
 patch=1,EE,20CC1D88,extended,FFFFFFFF
 patch=1,EE,20CC1D8C,extended,FFFFFFFF
@@ -35,13 +35,13 @@ patch=1,EE,20CC1D9C,extended,FFFFFFFF
 patch=1,EE,20CC1DA0,extended,FFFFFFFF
 patch=1,EE,20CC1DA4,extended,FFFFFFFF
 
-//Petition points do not decrease
+[Petition points do not decrease]
 patch=1,EE,00CC1D7D,extended,000000FF
 
-//At the meeting, petition points 255
+[At the meeting, petition points 255]
 patch=1,EE,2029FC78,extended,240200FF
 
-//The entire collection
+[The entire collection]
 patch=1,EE,20CC1D5C,extended,FFFFFFFF
 patch=1,EE,20CC1D60,extended,FFFFFFFF
 patch=1,EE,20CC1D64,extended,FFFFFFFF
@@ -68,7 +68,7 @@ patch=1,EE,20E219E8,extended,FFFFFFFF
 patch=1,EE,20E219EC,extended,FFFFFFFF
 patch=1,EE,00CE8440,extended,000000FF
 
-//Score operation required code
+[Score operation required code]
 patch=1,EE,200F4114,extended,08254430
 patch=1,EE,200F4214,extended,08254430
 patch=1,EE,20247604,extended,0C254430
@@ -77,14 +77,14 @@ patch=1,EE,20247604,extended,0C03D040
 patch=1,EE,D05C0C02,extended,0000FDFE
 patch=1,EE,20247604,extended,0C03D080
 
-//99 points on the HOME side with the SELECT + L2 button
+[99 points on the HOME side with the SELECT + L2 button]
 patch=1,EE,200F4100,extended,24010063
 patch=1,EE,200F4104,extended,3C0200BF
 patch=1,EE,200F4108,extended,A441E5D8
 patch=1,EE,200F410C,extended,A441E5DA
 patch=1,EE,200F4110,extended,A441E5DC
 
-//99 points on the AWAY side with the SELECT + R2 button
+[99 points on the AWAY side with the SELECT + R2 button]
 patch=1,EE,200F4200,extended,24010063
 patch=1,EE,200F4204,extended,3C0200BF
 patch=1,EE,200F4208,extended,A441E770

@@ -1,10 +1,10 @@
-//Cheats/Press L2+R2+start Change to strike 0, ball 3 and out 0
+[Cheats/Press L2+R2+start Change to strike 0, ball 3 and out 0]
 patch=1,EE,D1918242,extended,0000FCF7
 patch=1,EE,105FB4B4,extended,00000300
 patch=1,EE,D1918242,extended,0000FCF7
 patch=1,EE,005FB4B6,extended,00000000
 
-//Cheats/Ball Turns Into A Strike
+[Cheats/Ball Turns Into A Strike]
 patch=1,EE,D1918242,extended,0000FFEE
 patch=1,EE,208AE0CC,extended,9022B4B4
 patch=1,EE,D1918242,extended,0000FFEE
@@ -14,162 +14,162 @@ patch=1,EE,208AE0CC,extended,9022B4B5
 patch=1,EE,D1918242,extended,0000FFBE
 patch=1,EE,208AE0E0,extended,A022B4B5
 
-//Cheats/During Match L2+R2+select Changed to strike 2, ball 0, out 2
+[Cheats/During Match L2+R2+select Changed to strike 2, ball 0, out 2]
 patch=1,EE,0D080566,extended,1456B30B
 patch=1,EE,4CCA37DC,extended,1456E7A7
 patch=1,EE,0D080566,extended,1456B30B
 patch=1,EE,3CCA37DA,extended,1456E7A7
 
-//Cheats/Success Mode Infinite Experience Point Distribution
+[Cheats/Success Mode Infinite Experience Point Distribution]
 patch=1,EE,D0997CFC,extended,00009821
 patch=1,EE,20997D04,extended,24010000
 patch=1,EE,D0997CFC,extended,00009821
 patch=1,EE,20997D0C,extended,24020000
 
-//Cheats/Success Mode Max Ability Ballistic After Improving
+[Cheats/Success Mode Max Ability Ballistic After Improving]
 patch=1,EE,D099F6E0,extended,000001C1
 patch=1,EE,2099F6DC,extended,24020003
 
-//Cheats/Success Mode Max Ability Meat After Improving
+[Cheats/Success Mode Max Ability Meat After Improving]
 patch=1,EE,D099F6F0,extended,000001BD
 patch=1,EE,2099F6EC,extended,24020007
 
-//Cheats/Success Mode Max Ability Power After Improving
+[Cheats/Success Mode Max Ability Power After Improving]
 patch=1,EE,D099F700,extended,000001B9
 patch=1,EE,2099F6FC,extended,240200FF
 
-//Cheats/Success Mode Max Ability Running Power After Improving
+[Cheats/Success Mode Max Ability Running Power After Improving]
 patch=1,EE,D099F710,extended,000001B5
 patch=1,EE,2099F70C,extended,2402000F
 
-//Cheats/Success Mode Max Ability Shoulder Strength After Improving
+[Cheats/Success Mode Max Ability Shoulder Strength After Improving]
 patch=1,EE,D099F720,extended,000001B1
 patch=1,EE,2099F71C,extended,2402000F
 
-//Cheats/Success Mode Max Ability Defensive Power After Improving
+[Cheats/Success Mode Max Ability Defensive Power After Improving]
 patch=1,EE,D099F730,extended,000001AD
 patch=1,EE,2099F72C,extended,2402000F
 
-//Cheats/Success Mode Max Ability Ball Speed After Improving
+[Cheats/Success Mode Max Ability Ball Speed After Improving]
 patch=1,EE,D099F960,extended,00000121
 patch=1,EE,2099F95C,extended,240200A5
 
-//Cheats/Success Mode Max Ability Control After Improving
+[Cheats/Success Mode Max Ability Control After Improving]
 patch=1,EE,D099F970,extended,0000011D
 patch=1,EE,2099F96C,extended,240200FF
 
-//Cheats/Success Mode Max Ability Stamina After Improving
+[Cheats/Success Mode Max Ability Stamina After Improving]
 patch=1,EE,D099F980,extended,00000119
 patch=1,EE,2099F97C,extended,240200FF
 
-//Cheats/Success Mode Max Ability Slider After Improving
+[Cheats/Success Mode Max Ability Slider After Improving]
 patch=1,EE,D099F990,extended,0000005C
 patch=1,EE,2099F98C,extended,24020007
 
-//Cheats/Success Mode Max Ability H Slider After Improving
+[Cheats/Success Mode Max Ability H Slider After Improving]
 patch=1,EE,D099F9A8,extended,0000005E
 patch=1,EE,2099F9A4,extended,24020007
 
-//Cheats/Success Mode Max Ability Cut Ball After Improving
+[Cheats/Success Mode Max Ability Cut Ball After Improving]
 patch=1,EE,D099F9C0,extended,00000060
 patch=1,EE,2099F9BC,extended,24020007
 
-//Cheats/Success Mode Max Ability Curve After Improving
+[Cheats/Success Mode Max Ability Curve After Improving]
 patch=1,EE,D099F9D8,extended,00000068
 patch=1,EE,2099F9D4,extended,24020007
 
-//Cheats/Success Mode Max Ability Slow Curve After Improving
+[Cheats/Success Mode Max Ability Slow Curve After Improving]
 patch=1,EE,D099F9F0,extended,0000006A
 patch=1,EE,2099F9EC,extended,24020007
 
-//Cheats/Success Mode Max Ability Drop After Improving
+[Cheats/Success Mode Max Ability Drop After Improving]
 patch=1,EE,D099FA08,extended,0000006C
 patch=1,EE,2099FA04,extended,24020007
 
-//Cheats/Success Mode Max Ability S Slider After Improving
+[Cheats/Success Mode Max Ability S Slider After Improving]
 patch=1,EE,D099FA20,extended,0000006E
 patch=1,EE,2099FA1C,extended,24020007
 
-//Cheats/Success Mode Max Ability Fork After Improving
+[Cheats/Success Mode Max Ability Fork After Improving]
 patch=1,EE,D099FA38,extended,00000078
 patch=1,EE,2099FA34,extended,24020007
 
-//Cheats/Success Mode Max Ability Palm After Improving
+[Cheats/Success Mode Max Ability Palm After Improving]
 patch=1,EE,D099FA50,extended,0000007A
 patch=1,EE,2099FA4C,extended,24020007
 
-//Cheats/Success Mode Max Ability Change-up After Improving
+[Cheats/Success Mode Max Ability Change-up After Improving]
 patch=1,EE,D099FA68,extended,0000007C
 patch=1,EE,2099FA64,extended,24020007
 
-//Cheats/Success Mode Max Ability Circle Change After Improving
+[Cheats/Success Mode Max Ability Circle Change After Improving]
 patch=1,EE,D099FAC8,extended,0000007E
 patch=1,EE,2099FAC4,extended,24020007
 
-//Cheats/Success Mode Max Ability V Slider After Improving
+[Cheats/Success Mode Max Ability V Slider After Improving]
 patch=1,EE,D099FA80,extended,00000080
 patch=1,EE,2099FA7C,extended,24020007
 
-//Cheats/Success Mode Max Ability Knuckle After Improving
+[Cheats/Success Mode Max Ability Knuckle After Improving]
 patch=1,EE,D099FA98,extended,00000082
 patch=1,EE,2099FA94,extended,24020007
 
-//Cheats/Success Mode Max Ability SFF After Improving
+[Cheats/Success Mode Max Ability SFF After Improving]
 patch=1,EE,D099FAB0,extended,00000084
 patch=1,EE,2099FAAC,extended,24020007
 
-//Cheats/Success Mode Max Ability Sinker After Improving
+[Cheats/Success Mode Max Ability Sinker After Improving]
 patch=1,EE,D099FAE0,extended,00000094
 patch=1,EE,2099FADC,extended,24020007
 
-//Cheats/Success Mode Max Ability H Sinker After Improving
+[Cheats/Success Mode Max Ability H Sinker After Improving]
 patch=1,EE,D099FAF8,extended,00000096
 patch=1,EE,2099FAF4,extended,24020007
 
-//Cheats/Success Mode Max Ability Shoot After Improving
+[Cheats/Success Mode Max Ability Shoot After Improving]
 patch=1,EE,D099FB10,extended,0000009C
 patch=1,EE,2099FB0C,extended,24020007
 
-//Cheats/Success Mode Max Ability H shoot After Improving
+[Cheats/Success Mode Max Ability H shoot After Improving]
 patch=1,EE,D099FB28,extended,0000009E
 patch=1,EE,2099FB24,extended,24020007
 
-//Cheats/Success Mode Max 1 Army Director Evaluation
+[Cheats/Success Mode Max 1 Army Director Evaluation]
 patch=1,EE,1065D862,extended,000000C8
 
-//Cheats/Success Mode Max 2 Army Director Evaluation
+[Cheats/Success Mode Max 2 Army Director Evaluation]
 patch=1,EE,1065D864,extended,000000C8
 
-//Cheats/Max Experience Points Strength
+[Cheats/Max Experience Points Strength]
 patch=1,EE,1065D856,extended,000003E7
 
-//Cheats/Max Experience Points Agile
+[Cheats/Max Experience Points Agile]
 patch=1,EE,1065D858,extended,000003E7
 
-//Cheats/Max Experience Points Technology
+[Cheats/Max Experience Points Technology]
 patch=1,EE,1065D85A,extended,000003E7
 
-//Cheats/Max Experience Points Changing sphere
+[Cheats/Max Experience Points Changing sphere]
 patch=1,EE,1065D85C,extended,000003E7
 
-//Cheats/Max Experience Points Spirit
+[Cheats/Max Experience Points Spirit]
 patch=1,EE,1065D85E,extended,000003E7
 
-//Cheats/Unlock All Initial Pitching Forms
+[Cheats/Unlock All Initial Pitching Forms]
 patch=1,EE,20665AC0,extended,FFFFFFFF
 patch=1,EE,20665AC4,extended,FFFFFFFF
 patch=1,EE,20665AC8,extended,FFFFFFFF
 
-//Cheats/Unlock All Initial Batting Forms
+[Cheats/Unlock All Initial Batting Forms]
 patch=1,EE,20665AD4,extended,FFFFFFFF
 patch=1,EE,20665AD0,extended,FFFFFFFF
 
-//Cheats/Unlock All Success Mo Prizes
+[Cheats/Unlock All Success Mo Prizes]
 patch=1,EE,40658EBC,extended,00040001
 patch=1,EE,63636363,extended,00000000
 patch=1,EE,10658EBA,extended,00006363
 
-//Cheats/Unlock All 80 My Life prizes If it is 99 pieces, the event to receive a prize will not occur
+[Cheats/Unlock All 80 My Life prizes If it is 99 pieces, the event to receive a prize will not occur]
 patch=1,EE,40658EBC,extended,00040001
 patch=1,EE,50505050,extended,00000000
 patch=1,EE,10658EBA,extended,00005050

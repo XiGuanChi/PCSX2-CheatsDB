@@ -1,16 +1,16 @@
 gametitle=Final Fantasy X-2 International + Last Mission  SLPM-65478
-//GIL999999999
+[GIL999999999]
 patch=1,EE,20373F68,extended,3B9AC9FF
 
-//Experience value MAX
+[Experience value MAX]
 patch=1,EE,20374954,extended,0098967F
 patch=1,EE,203749D4,extended,0098967F
 patch=1,EE,20374A54,extended,0098967F
 
-//MP 255
+[MP 255]
 patch=1,EE,00380EDC,extended,000000FF
 patch=1,EE,00380EE0,extended,000000FF
 
-//HP 255
+[HP 255]
 patch=1,EE,00380ED4,extended,000000FF
 patch=1,EE,00380ED8,extended,000000FF

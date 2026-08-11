@@ -1,13 +1,13 @@
 gametitle=Rayman M SLES-50457
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20D2A250,extended,00000005
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,20E4FCDC,extended,00000001
 patch=1,EE,20E4FCE4,extended,00000001
 patch=1,EE,20E4FCF4,extended,00000001
 
-//Unlock Level Advanced League
+[Unlock Level Advanced League]
 patch=1,EE,20E4FD18,extended,00000001
 patch=1,EE,20E4FD1C,extended,00000001
 patch=1,EE,20E4FD20,extended,00000001
@@ -27,7 +27,7 @@ patch=1,EE,20E4FE60,extended,00000001
 patch=1,EE,20E4FE64,extended,00000001
 patch=1,EE,20E4FE68,extended,00000001
 
-//Unlock Level Beginner League
+[Unlock Level Beginner League]
 patch=1,EE,20E4FD48,extended,00000001
 patch=1,EE,20E4FD4C,extended,00000001
 patch=1,EE,20E4FD50,extended,00000001
@@ -44,7 +44,7 @@ patch=1,EE,20E4FE54,extended,00000001
 patch=1,EE,20E4FE58,extended,00000001
 patch=1,EE,20E4FE5C,extended,00000001
 
-//Unlock Level Bonus League
+[Unlock Level Bonus League]
 patch=1,EE,20E4FD3C,extended,00000001
 patch=1,EE,20E4FD78,extended,00000001
 patch=1,EE,20E4FDB4,extended,00000001
@@ -54,7 +54,7 @@ patch=1,EE,20E4FDF8,extended,00000001
 patch=1,EE,20E4FDFC,extended,00000001
 patch=1,EE,20E4FE00,extended,00000001
 
-//Unlock Level Experienceert League
+[Unlock Level Experienceert League]
 patch=1,EE,20E4FD24,extended,00000001
 patch=1,EE,20E4FD28,extended,00000001
 patch=1,EE,20E4FD2C,extended,00000001
@@ -71,7 +71,7 @@ patch=1,EE,20E4FE6C,extended,00000001
 patch=1,EE,20E4FE70,extended,00000001
 patch=1,EE,20E4FE74,extended,00000001
 
-//Unlock Level Extreme League
+[Unlock Level Extreme League]
 patch=1,EE,20E4FD30,extended,00000001
 patch=1,EE,20E4FD34,extended,00000001
 patch=1,EE,20E4FD38,extended,00000001

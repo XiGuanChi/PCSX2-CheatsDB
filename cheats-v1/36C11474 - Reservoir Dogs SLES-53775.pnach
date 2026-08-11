@@ -1,19 +1,19 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201EC66C,extended,0C03FFC0
 patch=1,EE,200FFF00,extended,3C01404C
 patch=1,EE,200FFF04,extended,AC61154C
 patch=1,EE,200FFF08,extended,C461154C
 patch=1,EE,200FFF0C,extended,03E00008
 
-//Cheats/Infinite Car Armor
+[Cheats/Infinite Car Armor]
 patch=1,EE,2018C2D4,extended,3C014296
 patch=1,EE,2018C2D8,extended,AC410600
 patch=1,EE,2018C2E0,extended,10000009
 patch=1,EE,2018C2DC,extended,44810000
 
-//Cheats/Infinite Adrenaline on Foot
+[Cheats/Infinite Adrenaline on Foot]
 patch=1,EE,201D2600,extended,44810000
 patch=1,EE,201D2608,extended,E4A01834
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,201064EC,extended,24020063

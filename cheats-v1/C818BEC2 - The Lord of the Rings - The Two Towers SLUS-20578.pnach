@@ -1,35 +1,35 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,340123F0
 patch=1,EE,200C0224,extended,03200008
 patch=1,EE,200C0228,extended,AC810300
 patch=1,EE,202246B0,extended,0C030088
 
-//Cheats/Infinite Arrows
+[Cheats/Infinite Arrows]
 patch=1,EE,2011F30C,extended,00000000
 
-//Cheats/Max Upgrade Points
+[Cheats/Max Upgrade Points]
 patch=1,EE,20381BD0,extended,05F5E0FF
 patch=1,EE,2038C510,extended,05F5E0FF
 
-//Cheats/Infinite Missiles
+[Cheats/Infinite Missiles]
 patch=1,EE,20381968,extended,00000001
 
-//Cheats/Max Level Aragorn
+[Cheats/Max Level Aragorn]
 patch=1,EE,00464B54,extended,00000009
 
-//Cheats/Max Level Legolas
+[Cheats/Max Level Legolas]
 patch=1,EE,00464EA4,extended,00000009
 
-//Cheats/Max Level Gimli
+[Cheats/Max Level Gimli]
 patch=1,EE,004651F4,extended,00000009
 
-//Cheats/Max Level Isildur
+[Cheats/Max Level Isildur]
 patch=1,EE,00465544,extended,00000009
 
-//Cheats/Unlock Secret Codes On Level Select Screen
+[Cheats/Unlock Secret Codes On Level Select Screen]
 patch=1,EE,004648CF,extended,00000001
 
-//Cheats/Unlock Isildur
+[Cheats/Unlock Isildur]
 patch=1,EE,004648A1,extended,00000001
 patch=1,EE,004648A3,extended,00000001
 

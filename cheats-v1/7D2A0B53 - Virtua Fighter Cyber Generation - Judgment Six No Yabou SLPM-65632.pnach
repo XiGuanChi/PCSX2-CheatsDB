@@ -1,13 +1,13 @@
-//Cheats/Infinite Data Points
+[Cheats/Infinite Data Points]
 patch=1,EE,208FF6A8,extended,0098967F
 
-//Cheats/Max HP
+[Cheats/Max HP]
 patch=1,EE,108FF6D4,extended,000003E7
 
-//Cheats/Max SP
+[Cheats/Max SP]
 patch=1,EE,108FF6AE,extended,000003E7
 
-//Cheats/Max Status
+[Cheats/Max Status]
 patch=1,EE,108FF6B2,extended,000003E7
 patch=1,EE,108FF6AC,extended,000003E7
 patch=1,EE,108FF5D8,extended,000003E7
@@ -15,15 +15,15 @@ patch=1,EE,108FF5DA,extended,000003E7
 patch=1,EE,108FF5DE,extended,000003E7
 patch=1,EE,108FF5DC,extended,000003E7
 
-//Cheats/All small sword tools
+[Cheats/All small sword tools]
 patch=1,EE,108F2116,extended,00000A0A
 patch=1,EE,208F2118,extended,0A0A0A0A
 
-//Cheats/All small refinements can be used
+[Cheats/All small refinements can be used]
 patch=1,EE,108F2120,extended,0000FFFF
 
-//Cheats/Combat Overthrower 9999
+[Cheats/Combat Overthrower 9999]
 patch=1,EE,108FF6B8,extended,0000270F
 
-//Cheats/Combat Number of connections 99
+[Cheats/Combat Number of connections 99]
 patch=1,EE,008FF6C9,extended,00000063

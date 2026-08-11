@@ -1,12 +1,12 @@
 gametitle=Tom Clancy's Splinter Cell - Double Agent PAL-M SLES-53827 ABE2FDE9 secondary CRC 6BD0E9C2
 
-//480p Mode
+[480p Mode]
 gsinterlacemode=1
 author=GamingDragon93
 description=SDTV 480p mode at start.
 patch=1,EE,00114938,word,24120050 //00069403
 
-//Disable Blur/Bloom
+[Disable Blur/Bloom]
 author=GamingDragon93
 description=Disable post-processing Blur/Bloom effects.
 patch=1,EE,00630938,word,00000000

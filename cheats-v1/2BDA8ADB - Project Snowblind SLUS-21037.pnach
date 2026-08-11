@@ -1,41 +1,41 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,C6410498
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,E6410490
 patch=1,EE,20129F20,extended,0C030088
 
-//Cheats/Infinite Bio-Energy
+[Cheats/Infinite Bio-Energy]
 patch=1,EE,20129F60,extended,8E010018
 patch=1,EE,20129F64,extended,AE01000C
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2024CCDC,extended,00000000
 
-//Cheats/Never Reload Primary Ammo
+[Cheats/Never Reload Primary Ammo]
 patch=1,EE,20274234,extended,00000000
 
-//Cheats/Never Reload Secondary Ammo
+[Cheats/Never Reload Secondary Ammo]
 patch=1,EE,20275C24,extended,00000000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,20266F74,extended,00000000
 
-//Cheats/1 Hit Death Enemies
+[Cheats/1 Hit Death Enemies]
 patch=1,EE,201A1380,extended,44800000
 
-//Cheats/Infinite Health alt
+[Cheats/Infinite Health alt]
 patch=1,EE,20253A8C,extended,C64104C8
 patch=1,EE,20253AA0,extended,E64104C0
 patch=1,EE,2024B938,extended,C4410498
 patch=1,EE,2024B940,extended,E4410490
 
-//Cheats/Infinite Ammo alt
+[Cheats/Infinite Ammo alt]
 patch=1,EE,20258DB8,extended,24020063
 patch=1,EE,20258DC0,extended,AE62003C
 patch=1,EE,20147B20,extended,24030063
 patch=1,EE,20147B28,extended,AC830008
 
-//Cheats/Infinite Biomod Energy alt
+[Cheats/Infinite Biomod Energy alt]
 patch=1,EE,20129F70,extended,C6000018
 patch=1,EE,20129F78,extended,E600000C
 

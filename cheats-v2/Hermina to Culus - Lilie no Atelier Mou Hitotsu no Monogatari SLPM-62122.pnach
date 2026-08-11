@@ -1,8 +1,8 @@
 gametitle=Hermina to Culus - Lilie no Atelier Mou Hitotsu no Monogatari SLPM-62122
-//Max Interest in Hermina conversation 
+[Max Interest in Hermina conversation]
 patch=1,EE,104F6EE0,extended,00000064
 
-//Debug Menu
+[Debug Menu]
 patch=1,EE,D05494B0,extended,0000FFFD
 patch=1,EE,201293B0,extended,0C0549AE
 patch=1,EE,D05494B0,extended,0000FFFB

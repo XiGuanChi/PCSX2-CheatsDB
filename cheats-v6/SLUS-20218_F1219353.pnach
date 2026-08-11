@@ -1,61 +1,61 @@
 gametitle=Stunt GP [SLUS-20218] [F1219353]
 
-//Show XYZ
+[Show XYZ]
 author=GamingDragon93
 description=Show XYZ
-// Show XYZ
+[Show XYZ]
 patch=1,EE,902A3254,extended,0C0ACE0D
 
-//Infinite Energy
+[Infinite Energy]
 author=GamingDragon93
 description=Infinite Energy
-// Infinite Energy
+[Infinite Energy]
 patch=1,EE,203C2658,extended,447A0000
 
-//Infinite Credits
+[Infinite Credits]
 author=GamingDragon93
 description=Infinite Credits
-// Infinite Credits
+[Infinite Credits]
 patch=1,EE,1055C370,extended,0000FFFF
 
-//Max Credits
+[Max Credits]
 author=GamingDragon93
 description=Max Credits
-// Max Credits
+[Max Credits]
 patch=1,EE,2055C370,extended,05F5E0FF
 
-//Max Offer-All Characters
+[Max Offer-All Characters]
 author=GamingDragon93
 description=Max Offer-All Characters
-// Max Offer-All Characters
+[Max Offer-All Characters]
 patch=1,EE,4055C500,extended,00060002
 
-//Max Offer-All Characters
+[Max Offer-All Characters]
 author=GamingDragon93
 description=Max Offer-All Characters
-// Max Offer-All Characters
+[Max Offer-All Characters]
 patch=1,EE,05F5E0FF,extended,00000000
 
-//Unlock All Cars
+[Unlock All Cars]
 author=GamingDragon93
 description=Unlock All Cars
-// Unlock All Cars
+[Unlock All Cars]
 patch=1,EE,40542678,extended,00060001
 
-//Unlock All Cars
+[Unlock All Cars]
 author=GamingDragon93
 description=Unlock All Cars
-// Unlock All Cars
+[Unlock All Cars]
 patch=1,EE,02020202,extended,00000000
 
-//Unlock All Tracks
+[Unlock All Tracks]
 author=GamingDragon93
 description=Unlock All Tracks
-// Unlock All Tracks
+[Unlock All Tracks]
 patch=1,EE,40542690,extended,00060001
 
-//Unlock All Tracks
+[Unlock All Tracks]
 author=GamingDragon93
 description=Unlock All Tracks
-// Unlock All Tracks
+[Unlock All Tracks]
 patch=1,EE,02020202,extended,00000000

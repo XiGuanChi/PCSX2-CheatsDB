@@ -1,33 +1,33 @@
 gametitle=World Soccer Winning Eleven 2008 SLPM-66885
-//WEN 99999
+[WEN 99999]
 patch=1,EE,218CF4AC,extended,0001869F
 
-//Cup Gallery
+[Cup Gallery]
 patch=1,EE,218CF498,extended,FFFFFFFF
 
-//Max Master League Pts
+[Max Master League Pts]
 patch=1,EE,202284A0,extended,10000014
 patch=1,EE,202284F4,extended,3C010010
 patch=1,EE,202284F8,extended,0808A12B
 patch=1,EE,202284FC,extended,AC410034
 
-//HOME Goals 99 (SELECT+L1)
+[HOME Goals 99 (SELECT+L1)]
 patch=1,EE,D05348C2,extended,0000FBFE
 patch=1,EE,00D1A368,extended,00000063
 
-//HOME Goals 00 (SELECT+L2)
+[HOME Goals 00 (SELECT+L2)]
 patch=1,EE,D05348C2,extended,0000FEFE
 patch=1,EE,00D1A368,extended,00000000
 
-//AWAY Goals 99 (SELECT+R1)
+[AWAY Goals 99 (SELECT+R1)]
 patch=1,EE,D05348C2,extended,0000F7FE6
 patch=1,EE,00D1A65C,extended,00000063
 
-//AWAY Goals 00 (SELECT+R2)
+[AWAY Goals 00 (SELECT+R2)]
 patch=1,EE,D05348C2,extended,0000FDFE
 patch=1,EE,00D1A65C,extended,00000000
 
-//Master League Player Exp 99% after match
+[Master League Player Exp 99% after match]
 patch=1,EE,D0acf820,extended,0000616D
 patch=1,EE,20ae8020,extended,08030880
 patch=1,EE,200C2200,extended,2401270F

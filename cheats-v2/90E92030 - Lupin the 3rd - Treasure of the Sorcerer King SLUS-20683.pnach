@@ -1,19 +1,19 @@
 gametitle=Lupin the 3rd - Treasure of the Sorcerer King SLUS-20683
-//Have All Items/Equips
+[Have All Items/Equips]
 patch=1,EE,20161F78,extended,24A20000
 patch=1,EE,20161F7C,extended,24440000
 patch=1,EE,20161F98,extended,24030001
 patch=1,EE,20161FA0,extended,00000000
 patch=1,EE,20161FA4,extended,A4430050
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201B883C,extended,000000FF
 
-//Infinite Escape Time
+[Infinite Escape Time]
 patch=1,EE,2028E72C,extended,00000000
 
-//Infinite Stamina
+[Infinite Stamina]
 patch=1,EE,2028C9F8,extended,000003E8
 
-//Low Danger-O-Meter
+[Low Danger-O-Meter]
 patch=1,EE,10163894,extended,00000000

@@ -1,28 +1,28 @@
 gametitle=The Sims SLUS-20573
-//Max Money
+[Max Money]
 patch=1,EE,201E2100,extended,AC820068
 patch=1,EE,201E2104,extended,00401821
 
-//Unlock All Locked Items/Skins/2Player Games
+[Unlock All Locked Items/Skins/2Player Games]
 patch=1,EE,2035F3C4,extended,00000001
 
-//Unlock Party Motel 2Player Game
+[Unlock Party Motel 2Player Game]
 patch=1,EE,2035F3C8,extended,00000001
 
-//Unlock Play The Sims
+[Unlock Play The Sims]
 patch=1,EE,2035F3CC,extended,00000001
 
-//All Items Are Free
+[All Items Are Free]
 patch=1,EE,2035F3BC,extended,00000001
 
-//Hunger Motive Never Decreases
+[Hunger Motive Never Decreases]
 patch=1,EE,202D3FA8,extended,00000000
 
-//Energy Motive Never Decreases
+[Energy Motive Never Decreases]
 patch=1,EE,202D3EF8,extended,00000000
 
-//Comfort Motive Never Decreases
+[Comfort Motive Never Decreases]
 patch=1,EE,202D3FA4,extended,00000000
 
-//Fun Motive Never Decreases
+[Fun Motive Never Decreases]
 patch=1,EE,202D4068,extended,00000000

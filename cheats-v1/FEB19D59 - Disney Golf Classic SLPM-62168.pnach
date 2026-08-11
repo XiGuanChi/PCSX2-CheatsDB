@@ -1,7 +1,7 @@
-//Cheats/Max Energy Gauge 9999
+[Cheats/Max Energy Gauge 9999]
 patch=1,EE,1033E850,extended,0000270F
 patch=1,EE,1033E854,extended,0000270F
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,203447B0,extended,FFFFFFFF
 patch=1,EE,203447B4,extended,FFFFFFFF

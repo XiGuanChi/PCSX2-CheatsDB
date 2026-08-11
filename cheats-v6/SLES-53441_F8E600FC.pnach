@@ -1,6 +1,6 @@
 gametitle=Heroes of the Pacific PAL-M SLES-53441 F8E600FC
 
-//Widescreen 16:9
+[Widescreen 16:9]
 gsaspectratio=16:9
 author=GamingDragon93
 description=Widescreen hack
@@ -10,7 +10,7 @@ patch=1,EE,2079AE50,extended,3FE38E3A //3FAAAAA7
 patch=1,EE,2079AE54,extended,42C20000 //42920000
 patch=1,EE,2079AEE0,extended,00000002 //00000000
 
-//50/60 FPS
+[50/60 FPS]
 author=GamingDragon93
 description=Might need EE Overclock.
 patch=0,EE,00101CE8,word,3C023f80

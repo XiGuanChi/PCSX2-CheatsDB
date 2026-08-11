@@ -1,18 +1,18 @@
 gametitle=Batman Begins SLUS-21198
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201483FC,extended,00000000
 
-//Infinite Armor
+[Infinite Armor]
 patch=1,EE,202690E0,extended,00000000
 
-//Low Game Time
+[Low Game Time]
 patch=1,EE,2040B1F4,extended,42C80000
 
-//Low Game Time-Batmobile Levels
+[Low Game Time-Batmobile Levels]
 patch=1,EE,2040BF00,extended,41584FF0
 
-//Max Area Fear
+[Max Area Fear]
 patch=1,EE,204092A0,extended,42C80000
 
-//Infinite Item Use
+[Infinite Item Use]
 patch=1,EE,20138450,extended,00000000

@@ -1,13 +1,13 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,2016282C,extended,34020064
 
-//Cheats/In Battle Health and Mana And Mana 9999 All Allies
+[Cheats/In Battle Health and Mana And Mana 9999 All Allies]
 patch=1,EE,201C35E4,extended,3405270F
 patch=1,EE,201C35EC,extended,70052EE9
 patch=1,EE,201C35F8,extended,AE25002C
 patch=1,EE,201C35FC,extended,AE250030
 
-//Cheats/Randomize monsters SELECT+L2 = Random mode  SELECT+R2 = Normal operation
+[Cheats/Randomize monsters SELECT+L2 = Random mode  SELECT+R2 = Normal operation]
 patch=1,EE,200F4900,extended,0C0B72D2
 patch=1,EE,200F4904,extended,0080A02D
 patch=1,EE,200F4908,extended,34190077
@@ -19,40 +19,40 @@ patch=1,EE,201C370C,extended,0803D240
 patch=1,EE,D0DE5A02,extended,0000FDFE
 patch=1,EE,201C370C,extended,0080A02D
 
-//Cheats/Always Critical
+[Cheats/Always Critical]
 patch=1,EE,20207878,extended,92640020
 patch=1,EE,2020787C,extended,0064800A
 
-//Cheats/Enemy Status Weakening & One Shot Death
+[Cheats/Enemy Status Weakening & One Shot Death]
 patch=1,EE,201C379C,extended,7E800030
 
-//Cheats/Encounter Control Move While Pressing L2 or R2 you will encounter with a high probability
+[Cheats/Encounter Control Move While Pressing L2 or R2 you will encounter with a high probability]
 patch=1,EE,201CF768,extended,3C0200E2
 patch=1,EE,201CF76C,extended,90428811
 patch=1,EE,201CF770,extended,30440003
 
-//Cheats/Mana Heal Not Required
+[Cheats/Mana Heal Not Required]
 patch=1,EE,201862A8,extended,3403270F
 
-//Cheats/Max Elemental Power After Change
+[Cheats/Max Elemental Power After Change]
 patch=1,EE,2016282C,extended,34020064
 
-//Cheats/Change Number Of Items Held To 8
+[Cheats/Change Number Of Items Held To 8]
 patch=1,EE,201632D4,extended,34030008
 
-//Cheats/Change Number Of Mana Items Held To 8
+[Cheats/Change Number Of Mana Items Held To 8]
 patch=1,EE,2016301C,extended,34030008
 
-//Cheats/Max Gift Mana Friendship
+[Cheats/Max Gift Mana Friendship]
 patch=1,EE,2017F330,extended,34040064
 
-//Cheats/Max Gift Mana Stamina
+[Cheats/Max Gift Mana Stamina]
 patch=1,EE,2017F2CC,extended,34040064
 
-//Cheats/Consume Skill Points To Maintain 500
+[Cheats/Consume Skill Points To Maintain 500]
 patch=1,EE,2023996C,extended,340201F4
 
-//Cheats/Max Call After Battle
+[Cheats/Max Call After Battle]
 patch=1,EE,201D056C,extended,3C030011
 
 

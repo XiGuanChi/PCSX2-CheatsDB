@@ -1,11 +1,11 @@
 gametitle=Battle Gear 3 SLPM-65434
-//Infinite time
+[Infinite time]
 patch=1,EE,104524EC,extended,00001800
 
-//First place
+[First place]
 patch=1,EE,201165B4,extended,24630000
 
-//Have All Cars and parts ON with L2+R2+select, OFF with L2+R2+start Please turn it ON after loading the main race data.
+[Have All Cars and parts ON with L2+R2+select, OFF with L2+R2+start Please turn it ON after loading the main race data.]
 patch=1,EE,204D70C8,extended,040C020F
 patch=1,EE,204D70CC,extended,03030303
 patch=1,EE,204D70D0,extended,00000304

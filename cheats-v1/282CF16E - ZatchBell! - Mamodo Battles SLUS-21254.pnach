@@ -1,14 +1,14 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,200C0224,extended,8E0103AC
 patch=1,EE,200C0228,extended,50400001
 patch=1,EE,200C022C,extended,AE0103A8
 
-//Cheats/Infinite Partner Gauge P1
+[Cheats/Infinite Partner Gauge P1]
 patch=1,EE,200C0254,extended,8E0103BC
 patch=1,EE,200C0258,extended,54400001
 patch=1,EE,200C025C,extended,AE0103B0
 
-//Cheats/P1 Press L1+Select For Death Blow On P2
+[Cheats/P1 Press L1+Select For Death Blow On P2]
 patch=1,EE,E003FBFF,extended,00456602
 patch=1,EE,200C0248,extended,2401BF80
 patch=1,EE,200C024C,extended,54400001
@@ -16,24 +16,24 @@ patch=1,EE,200C0250,extended,AE0103A8
 patch=1,EE,E001FFFF,extended,00456602
 patch=1,EE,200C0250,extended,00000000
 
-//Cheats/Zatch Max HP
+[Cheats/Zatch Max HP]
 patch=1,EE,204625E0,extended,00000005
 
-//Cheats/Tia Max HP
+[Cheats/Tia Max HP]
 patch=1,EE,20462618,extended,00000005
 
-//Cheats/Brago Max HP
+[Cheats/Brago Max HP]
 patch=1,EE,20462650,extended,00000005
 
-//Cheats/Kanchome Max HP
+[Cheats/Kanchome Max HP]
 patch=1,EE,204626C0,extended,00000005
 
-//Cheats/Infinite Points
+[Cheats/Infinite Points]
 patch=1,EE,204625BC,extended,0000270F
 
-//Cheats/All Cards
+[Cheats/All Cards]
 patch=1,EE,40462FD8,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/All Characters
+[Cheats/All Characters]
 patch=1,EE,0046295C,extended,000000FF

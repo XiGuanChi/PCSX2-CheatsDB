@@ -1,4 +1,4 @@
-//Cheats/Infinite HP People And Vehicles you die if you get run over by a tank
+[Cheats/Infinite HP People And Vehicles you die if you get run over by a tank]
 patch=1,EE,201460D0,extended,0C03C000
 patch=1,EE,200F0000,extended,8E30002C
 patch=1,EE,200F0004,extended,8E0104E0
@@ -10,16 +10,16 @@ patch=1,EE,200F0018,extended,AE0100C0
 patch=1,EE,200F001C,extended,02208021
 patch=1,EE,200F0020,extended,03E00008
 
-//Cheats/Infinite Real Time Enhancement
+[Cheats/Infinite Real Time Enhancement]
 patch=1,EE,203F4584,extended,00000000
 
-//Cheats/Max Score multiplier does not disappear
+[Cheats/Max Score multiplier does not disappear]
 patch=1,EE,203F1D20,extended,00000000
 
-//Cheats/Max Score even if you die
+[Cheats/Max Score even if you die]
 patch=1,EE,203F15E0,extended,00000000
 
-//Cheats/Time counted during mission
+[Cheats/Time counted during mission]
 patch=1,EE,203F5DE4,extended,3C023F80
 patch=1,EE,203F5DE8,extended,AC820594
 patch=1,EE,203F5DEC,extended,24020001
@@ -27,8 +27,8 @@ patch=1,EE,203F5DF0,extended,AFA20050
 patch=1,EE,203F5DF4,extended,00000000
 
 
-//Cheats/Challenge Time Stop defense time in the campaign also stops, so cancel after the challenge
+[Cheats/Challenge Time Stop defense time in the campaign also stops, so cancel after the challenge]
 patch=1,EE,201B2B74,extended,00000000
 
-//Cheats/Time Release
+[Cheats/Time Release]
 patch=1,EE,201B2B74,extended,E6340008

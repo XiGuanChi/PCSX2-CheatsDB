@@ -1,6 +1,6 @@
 gametitle=Aeon Flux SLES-54169
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20314ED0,extended,E60008FC
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,202FC5E4,extended,00000000

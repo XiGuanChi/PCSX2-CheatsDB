@@ -1,24 +1,24 @@
 gametitle=Ace Combat - Distant Thunder SCES-50410
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,200FFF0C,extended,3C146363
 patch=1,EE,200FFF10,extended,369403E7
 patch=1,EE,200FFF14,extended,AEB401C0
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,200FFF18,extended,341401CE
 patch=1,EE,200FFF1C,extended,AEB4FEEC
 
-//Unlock All crafts
+[Unlock All crafts]
 patch=1,EE,202A2D60,extended,FFFFFFFF
 patch=1,EE,202A2D64,extended,FFFFFFFF
 
-//Unlock All alternatives
+[Unlock All alternatives]
 patch=1,EE,202A2D68,extended,FFFFFFFF
 patch=1,EE,202A2D6C,extended,FFFFFFFF
 patch=1,EE,202A2D70,extended,FFFFFFFF
 patch=1,EE,202A2D74,extended,FFFFFFFF
 
-//Unlock All weapons
+[Unlock All weapons]
 patch=1,EE,202A2D78,extended,FFFFFFFF
 patch=1,EE,202A2D7C,extended,FFFFFFFF
 patch=1,EE,202A2D80,extended,FFFFFFFF

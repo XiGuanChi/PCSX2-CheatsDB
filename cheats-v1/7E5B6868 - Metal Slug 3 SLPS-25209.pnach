@@ -1,42 +1,42 @@
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,203B837C,extended,00000000
 patch=1,EE,203E7F60,extended,00000000
 
-//Cheats/Invincible Press 1P L2 Unlocked Press 1P R2
+[Cheats/Invincible Press 1P L2 Unlocked Press 1P R2]
 patch=1,EE,203E7F60,extended,00000000
 patch=1,EE,D05D4950,extended,00000001
 patch=1,EE,203B837C,extended,00000000
 patch=1,EE,D05D4950,extended,00000002
 patch=1,EE,203B837C,extended,10400005
 
-//Cheats/Number of people does not decrease
+[Cheats/Number of people does not decrease]
 patch=1,EE,203E2678,extended,00000000
 
-//Cheats/The number of POW rescued is not reset even if they die
+[Cheats/The number of POW rescued is not reset even if they die]
 patch=1,EE,203E25D8,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,203A8284,extended,2404FFFF
 patch=1,EE,203E8D0C,extended,8C2266F0
 patch=1,EE,203E8D10,extended,2404FFFF
 patch=1,EE,203E8D14,extended,A4440020
 
-//Cheats/Infinite Bomb 99 shots
+[Cheats/Infinite Bomb 99 shots]
 patch=1,EE,203A58E8,extended,24030063
 patch=1,EE,203A58EC,extended,A0830005
 patch=1,EE,203E81AC,extended,24030063
 patch=1,EE,203E81B4,extended,A0C30025
 
-//Cheats/Unlock All Missions
+[Cheats/Unlock All Missions]
 patch=1,EE,00536079,extended,00000001
 patch=1,EE,1053607A,extended,00000101
 patch=1,EE,1053607C,extended,00000101
 patch=1,EE,0053607E,extended,00000001
 
-//Cheats/Unlock Loot Item List after browse
+[Cheats/Unlock Loot Item List after browse]
 patch=1,EE,2049CCDC,extended,241A00FF
 patch=1,EE,2049CCE0,extended,A05A0000
 
-//Cheats/Unlock Soldier List after browse
+[Cheats/Unlock Soldier List after browse]
 patch=1,EE,2049D4FC,extended,241A00FF
 patch=1,EE,2049D500,extended,A05A0154

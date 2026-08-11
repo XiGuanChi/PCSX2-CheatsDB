@@ -1,5 +1,5 @@
 gametitle=Goblin Commander - Unleash the Horde SLUS-20792
-//Unlock All Campaign Acts (All Slots)
+[Unlock All Campaign Acts (All Slots)]
 patch=1,EE,200C0220,extended,AC820088
 patch=1,EE,200C0224,extended,24020005
 patch=1,EE,200C0228,extended,03E00008
@@ -7,7 +7,7 @@ patch=1,EE,200C022C,extended,AC82008C
 patch=1,EE,201B9890,extended,08030088
 patch=1,EE,201B9894,extended,24020004
 
-//Infinite Souls
+[Infinite Souls]
 patch=1,EE,200C0230,extended,14800003
 patch=1,EE,200C0234,extended,2401270F
 patch=1,EE,200C0238,extended,AC610078
@@ -16,7 +16,7 @@ patch=1,EE,200C0240,extended,03E00008
 patch=1,EE,200C0244,extended,00000000
 patch=1,EE,201C4D34,extended,0C03008C
 
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,200C0250,extended,50800003
 patch=1,EE,200C0254,extended,27FF0004
 patch=1,EE,200C0258,extended,2402270F

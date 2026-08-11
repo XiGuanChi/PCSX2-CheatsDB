@@ -1,54 +1,54 @@
-//Cheats/Infinite Health LEVEL 1
+[Cheats/Infinite Health LEVEL 1]
 patch=1,EE,D1E85BE8,extended,00000001
 patch=1,EE,21C88D50,extended,00000000
 
-//Cheats/Infinite Ammo All Weapons
+[Cheats/Infinite Ammo All Weapons]
 patch=1,EE,E0040001,extended,01E85BE8
 patch=1,EE,21C7F350,extended,00000000
 patch=1,EE,21C779D4,extended,00000000
 patch=1,EE,21C711B8,extended,00000000
 patch=1,EE,21C6B674,extended,00000000
 
-//Cheats/Low Game Time
+[Cheats/Low Game Time]
 patch=1,EE,21E87A84,extended,00000000
 
-//Cheats/Max Precursor Orbs
+[Cheats/Max Precursor Orbs]
 patch=1,EE,11E87A88,extended,00000999
 
-//Cheats/Max Dark Eco
+[Cheats/Max Dark Eco]
 patch=1,EE,11E87A8C,extended,000003E7
 
-//Cheats/All Levels Have All Secrets On
+[Cheats/All Levels Have All Secrets On]
 patch=1,EE,11E852E2,extended,00007FFF
 
-//Cheats/Plane Damage Healed
+[Cheats/Plane Damage Healed]
 patch=1,EE,21E87B1C,extended,4CBEBC20
 
-//Cheats/Unlock All Secrets Need to Unlock the Names
+[Cheats/Unlock All Secrets Need to Unlock the Names]
 patch=1,EE,41E87A84,extended,00060001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,11E87A9C,extended,00000202
 patch=1,EE,01E87A9E,extended,00000001
 
-//Cheats/Unlock Level Select Brink Island 1
+[Cheats/Unlock Level Select Brink Island 1]
 patch=1,EE,01E85be8,extended,00000001
 
-//Cheats/Unlock Level Select Brink Island 1.2 Plane
+[Cheats/Unlock Level Select Brink Island 1.2 Plane]
 patch=1,EE,01E85be8,extended,00000002
 
-//Cheats/Unlock Level Select Aeropa 2.1 Ship Bay
+[Cheats/Unlock Level Select Aeropa 2.1 Ship Bay]
 patch=1,EE,01E85be8,extended,00000021
 
-//Cheats/Unlock Level Select Aeropa 2.2 After Ship Bay
+[Cheats/Unlock Level Select Aeropa 2.2 After Ship Bay]
 patch=1,EE,01E85be8,extended,0000001E
 
-//Cheats/Unlock Level Select Aeropa 2.3 Entering Danger Course
+[Cheats/Unlock Level Select Aeropa 2.3 Entering Danger Course]
 patch=1,EE,01E85be8,extended,00000022
 
-//Cheats/Unlock Level Select Aeropa 2.4 Danger Course
+[Cheats/Unlock Level Select Aeropa 2.4 Danger Course]
 patch=1,EE,01E85be8,extended,00000004
 
-//Cheats/Unlock Level Select Aeropa 2.5 Dark Eco Daxter
+[Cheats/Unlock Level Select Aeropa 2.5 Dark Eco Daxter]
 patch=1,EE,01E85be8,extended,00000005
 
 

@@ -1,12 +1,12 @@
-//Cheats/Max Points
+[Cheats/Max Points]
 patch=1,EE,2092282C,extended,05F5E0FF
 
-//Cheats/Infinite Whip Usage
+[Cheats/Infinite Whip Usage]
 patch=1,EE,2048BD1C,extended,AE40000C
 patch=1,EE,2048BD40,extended,AE400010
 patch=1,EE,2048BD68,extended,AE400014
 
-//Cheats/P1 Press X For Super Boost
+[Cheats/P1 Press X For Super Boost]
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,44810000
 patch=1,EE,200C0228,extended,46160580

@@ -1,38 +1,38 @@
 gametitle=Global Defense Force SLES-54464
-//Max Armor
+[Max Armor]
 patch=1,EE,202C5180,extended,000186A0
 patch=1,EE,202C5180,extended,000186A0
 
-//All Weapons
+[All Weapons]
 patch=1,EE,201A908C,extended,24040001
 patch=1,EE,201A9090,extended,A0E40008
 
-//Mission Completed 100%
+[Mission Completed 100%]
 patch=1,EE,20195EF8,extended,24020101
 patch=1,EE,20195EFC,extended,A4620008
 patch=1,EE,20195F00,extended,A462000A
 patch=1,EE,20195F08,extended,A062000C
 
-//Inf. Ammo
+[Inf. Ammo]
 patch=1,EE,201A6B90,extended,24620000
 
-//Rapid Fire
+[Rapid Fire]
 patch=1,EE,201A6B78,extended,00000000
 
-//Inf. Endurance (Team Members and Item that need to be sent)
+[Inf. Endurance (Team Members and Item that need to be sent)]
 patch=1,EE,2011B6E4,extended,3C014E6E
 patch=1,EE,2011B6E8,extended,08046D26
 patch=1,EE,2011B6EC,extended,AC8100B8
 patch=1,EE,201BF8A4,extended,0C046DB0
 patch=1,EE,201BF934,extended,0C046DB0
 
-//Inf. Energy or <peiruuingu>
+[Inf. Energy or <peiruuingu>]
 patch=1,EE,2011B874,extended,10000008
 
-//Inf. Jump(Land Army ONLY)
+[Inf. Jump(Land Army ONLY)]
 patch=1,EE,201F5EE8,extended,00000000
 patch=1,EE,201F5EF4,extended,00000000
 
-//Emergency Avoid(Land Army ONLY)
+[Emergency Avoid(Land Army ONLY)]
 patch=1,EE,201F593C,extended,00000000
 patch=1,EE,201F5948,extended,00000000

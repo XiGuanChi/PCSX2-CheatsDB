@@ -1,29 +1,29 @@
 gametitle=Alpine Racer 3 SCES-50887
-//Unlimited Money
+[Unlimited Money]
 patch=1,EE,20126C20,extended,3C020590
 
-//Unlock All Tracks
+[Unlock All Tracks]
 patch=1,EE,20127598,extended,20020001
 
-//Unlock All Equipment
+[Unlock All Equipment]
 patch=1,EE,201275C8,extended,20020001
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,20127620,extended,20020001
 
-//Unlock All Costumes
+[Unlock All Costumes]
 patch=1,EE,201275F8,extended,20020001
 
-//Unlock All Theatre Option
+[Unlock All Theatre Option]
 patch=1,EE,20257F90,extended,00000001
 
-//Unlock All Movies
+[Unlock All Movies]
 patch=1,EE,20126B60,extended,20020001
 
-//Freeze Timer
+[Freeze Timer]
 patch=1,EE,201A7040,extended,00000000
 
-//Opponents don't move
+[Opponents don't move]
 patch=1,EE,20146CC8,extended,08028000
 patch=1,EE,20146CCC,extended,7FB00000
 patch=1,EE,200A0000,extended,90830834

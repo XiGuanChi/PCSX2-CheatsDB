@@ -1,5 +1,5 @@
 gametitle=Stunt GP SLES-50064
-//All Cars
+[All Cars]
 patch=1,EE,20540B88,extended,FFFFFFFF
 patch=1,EE,20540B8C,extended,FFFFFFFF
 patch=1,EE,20540B90,extended,FFFFFFFF
@@ -8,27 +8,27 @@ patch=1,EE,20540B98,extended,FFFFFFFF
 patch=1,EE,20540B84,extended,FFFFFFFF
 patch=1,EE,20540B80,extended,FFFFFFFF
 
-//Championship - Pots Of Cash
+[Championship - Pots Of Cash]
 patch=1,EE,1055A870,extended,0000FFFF
 patch=1,EE,1055A872,extended,0000000A
 
-//No Slow Down On Low Battery
+[No Slow Down On Low Battery]
 patch=1,EE,2020C218,extended,03E00008
 patch=1,EE,2020C21C,extended,00000000
 
-//Low Fuel Consumption
+[Low Fuel Consumption]
 patch=1,EE,2020D4FC,extended,03E00008
 patch=1,EE,2020D500,extended,00000000
 
-//Ultra Stunt Stat
+[Ultra Stunt Stat]
 patch=1,EE,105BB114,extended,00000070
 
-//Ultra Grip Stat
+[Ultra Grip Stat]
 patch=1,EE,105BB118,extended,00000070
 
-//Ultra Power Stat
+[Ultra Power Stat]
 patch=1,EE,105BB11C,extended,00000070
 
-//Stupid Opponents
+[Stupid Opponents]
 patch=0,EE,20202CA0,extended,03E00008
 patch=0,EE,20202CA4,extended,00000000

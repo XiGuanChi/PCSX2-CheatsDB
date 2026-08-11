@@ -1,33 +1,33 @@
 gametitle=Ready 2 Rumble  - Round 2 SLUS-20054
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,101EE8A0,extended,00000064
 
-//1 Hit Death Player 2
+[1 Hit Death Player 2]
 patch=1,EE,D01F1110,extended,00000064
 patch=1,EE,101F1132,extended,00000001
 
-//Have All Characters
+[Have All Characters]
 patch=1,EE,401EBF0C,extended,000B0001
 patch=1,EE,00000003,extended,00000000
 
-//Start At Last Fight (Arcade Mode)
+[Start At Last Fight (Arcade Mode)]
 patch=1,EE,D02052D0,extended,00000000
 patch=1,EE,102052D0,extended,0000000B
 
-//Championship Mode Codes  Infinite Money
+[Championship Mode Codes  Infinite Money]
 patch=1,EE,101D8BD8,extended,0000FFFF
 
-//Max Strength
+[Max Strength]
 patch=1,EE,101D8BDE,extended,0000447A
 
-//Max Stamina
+[Max Stamina]
 patch=1,EE,101D8BE2,extended,0000447A
 
-//Max Endurance
+[Max Endurance]
 patch=1,EE,101D8BE6,extended,0000447A
 
-//Max Dexterity
+[Max Dexterity]
 patch=1,EE,101D8BEA,extended,0000447A
 
-//Max Experience
+[Max Experience]
 patch=1,EE,101D8BEE,extended,0000447A

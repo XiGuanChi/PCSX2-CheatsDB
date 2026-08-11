@@ -1,23 +1,23 @@
-//Cheats/Max Cash
+[Cheats/Max Cash]
 patch=1,EE,20A1FCA8,extended,44B14400
 patch=1,EE,20A1FCAC,extended,44B14400
 
-//Cheats/Disable AI Press Select & Left Activate Press Select & Right Disable
+[Cheats/Disable AI Press Select & Left Activate Press Select & Right Disable]
 patch=1,EE,D064C794,extended,0000FF7E
 patch=1,EE,2034DE60,extended,24020000
 patch=1,EE,D064C794,extended,0000FFDE
 patch=1,EE,2034DE60,extended,1440FFF9
 
-//Cheats/Freeze Timer Press L3 Stop R3 Restart
+[Cheats/Freeze Timer Press L3 Stop R3 Restart]
 patch=1,EE,D064C794,extended,0000FFFD
 patch=1,EE,10357FBE,extended,00002442
 patch=1,EE,D064C794,extended,0000FFFB
 patch=1,EE,10357FBE,extended,00002A00
 
-//Cheats/No Time Penalties
+[Cheats/No Time Penalties]
 patch=1,EE,20350314,extended,AC80060C
 
-//Cheats/Autopilot Press L1 Activate R1 Deactivate
+[Cheats/Autopilot Press L1 Activate R1 Deactivate]
 patch=1,EE,200C20A0,extended,26840104
 patch=1,EE,200C20A4,extended,90810466
 patch=1,EE,200C20AC,extended,03E00008
@@ -28,47 +28,47 @@ patch=1,EE,200C20A8,extended,34210001
 patch=1,EE,D086F99C,extended,0000F7FF
 patch=1,EE,200C20A8,extended,3021FFFE
 
-//Cheats/Infinite Fuel
+[Cheats/Infinite Fuel]
 patch=1,EE,200C20D0,extended,C48005D0
 patch=1,EE,200C20D4,extended,03E00008
 patch=1,EE,200C20D8,extended,E48005D4
 patch=1,EE,2039E5EC,extended,0C030834
 
-//Cheats/Infinite Nitrous
+[Cheats/Infinite Nitrous]
 patch=1,EE,20354C38,extended,3E01461E
 patch=1,EE,20354C3C,extended,34214000
 patch=1,EE,20354C4C,extended,E46204E0
 
-//Cheats/Win Race
+[Cheats/Win Race]
 patch=1,EE,20358680,extended,4500018B
 patch=1,EE,D064C794,extended,0000FDFF
 patch=1,EE,20358680,extended,10A00192
 
-//Cheats/Have All Gold B Licenses
+[Cheats/Have All Gold B Licenses]
 patch=1,EE,40A205F4,extended,00100001
 patch=1,EE,0000FB91,extended,00000000
 
-//Cheats/Have All A Licenses
+[Cheats/Have All A Licenses]
 patch=1,EE,40A20634,extended,00100001
 patch=1,EE,0000FB91,extended,00000000
 
-//Cheats/Have All IB Licenses
+[Cheats/Have All IB Licenses]
 patch=1,EE,40A20674,extended,00100001
 patch=1,EE,0000FB91,extended,00000000
 
-//Cheats/Have All IA Licenses
+[Cheats/Have All IA Licenses]
 patch=1,EE,40A206B4,extended,00100001
 patch=1,EE,0000FB91,extended,00000000
 
-//Cheats/Have All S Licenses
+[Cheats/Have All S Licenses]
 patch=1,EE,40A206F4,extended,00100001
 patch=1,EE,0000FB91,extended,00000000
 
-//Cheats/All Cars Permitted
+[Cheats/All Cars Permitted]
 patch=1,EE,201A2BB0,extended,03E00008
 patch=1,EE,201A2BB4,extended,00000000
 
-//Cheats/Have All Cars In Garage
+[Cheats/Have All Cars In Garage]
 patch=1,EE,200C0260,extended,27BDFFE0
 patch=1,EE,200C0264,extended,FFBF0000
 patch=1,EE,200C0268,extended,FFB00008
@@ -95,7 +95,7 @@ patch=1,EE,201702AC,extended,0C172C38
 patch=1,EE,D0A17AC8,extended,00100015
 patch=1,EE,201702AC,extended,0C030098
 
-//Cheats/Unlock All Arcade Tracks
+[Cheats/Unlock All Arcade Tracks]
 patch=1,EE,E024FFFF,extended,00A44578
 patch=1,EE,40A443EC,extended,00330002
 patch=1,EE,00000022,extended,00000000

@@ -1,13 +1,13 @@
 gametitle=Harry Potter and the Philosopher's Stone SLES-52055 SLUS-20826
-//Infinite & Max Stamina
+[Infinite & Max Stamina]
 patch=1,EE,203949A0,extended,44000000
 patch=1,EE,203949A4,extended,44000000
 
-//Infinite & Max Bertie Bott's Beans
+[Infinite & Max Bertie Bott's Beans]
 patch=1,EE,1039499A,extended,0000270F
 patch=1,EE,10394998,extended,0000270F
 
-//All Quest Items
+[All Quest Items]
 patch=1,EE,203949A8,extended,00100003
 patch=1,EE,203949AC,extended,00020005
 patch=1,EE,203949B0,extended,00040001
@@ -17,7 +17,7 @@ patch=1,EE,203949BC,extended,000B000A
 patch=1,EE,203949C0,extended,000D000C
 patch=1,EE,203949C4,extended,000F000E
 
-//All Inventory Items
+[All Inventory Items]
 patch=1,EE,20394968,extended,00020001
 patch=1,EE,2039496C,extended,00080005
 patch=1,EE,20394970,extended,000C000A
@@ -31,6 +31,6 @@ patch=1,EE,2039498C,extended,00630063
 patch=1,EE,20394990,extended,00630063
 patch=1,EE,20394994,extended,00630063
 
-//Percy Has No AI
+[Percy Has No AI]
 patch=1,EE,2028C7B0,extended,03E00008
 patch=1,EE,2028C7B4,extended,00000000

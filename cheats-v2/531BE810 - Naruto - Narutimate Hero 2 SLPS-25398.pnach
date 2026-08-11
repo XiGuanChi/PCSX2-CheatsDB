@@ -1,36 +1,36 @@
 gametitle=Naruto - Narutimate Hero 2 SLPS-25398
-//Money in MAX
+[Money in MAX]
 patch=1,EE,20AE55D8,extended,0098967F
 
-//Everyone can be used to enter the character selection screen
+[Everyone can be used to enter the character selection screen]
 patch=1,EE,202385CC,extended,24010003
 patch=1,EE,202385D0,extended,AC4101E4
 patch=1,EE,00AE57A4,extended,000000FF
 patch=1,EE,00AE7D06,extended,000000FF
 patch=1,EE,00AE7D0F,extended,000000FF
 
-//effect appears when you enter the character selection screen duel with formidable enemy] etc. [learn dolphin]. "99 all items and see personal belongings [road to ultimate]"
+[effect appears when you enter the character selection screen duel with formidable enemy] etc. [learn dolphin]. "99 all items and see personal belongings [road to ultimate]"]
 patch=1,EE,2023ADAC,extended,00A20821
 patch=1,EE,2023ADB0,extended,24020063
 patch=1,EE,2023ADB8,extended,A02228F0
 
-//effect appears also that you view the items Stock in combat. "Ichapara progress chart all nine times [duel with formidable enemy]
+[effect appears also that you view the items Stock in combat. "Ichapara progress chart all nine times [duel with formidable enemy]]
 patch=1,EE,2023A194,extended,00430821
 patch=1,EE,2023A198,extended,24020009
 patch=1,EE,2023A1A0,extended,A422038A
 
-//effect will appear when you open the table Ichapara progression from character selection screen. Doll all
+[effect will appear when you open the table Ichapara progression from character selection screen. Doll all]
 patch=1,EE,20AE8EB0,extended,FFFFFFFF
 patch=1,EE,20AE8EB4,extended,01FFFFFF
 
-//Please conjunction with code [all available and enter the character selection screen. All voice
+[Please conjunction with code [all available and enter the character selection screen. All voice]
 patch=1,EE,20AE8EF4,extended,FFFFFFFF
 patch=1,EE,20AE8EF8,extended,FFFFFFFF
 patch=1,EE,20AE8EFC,extended,FFFFFFFF
 patch=1,EE,20AE8F00,extended,FFFFFFFF
 patch=1,EE,00AE8F04,extended,00000001
 
-//Please conjunction with code [all available and enter the character selection screen. Video all
+[Please conjunction with code [all available and enter the character selection screen. Video all]
 patch=1,EE,20AE8FDC,extended,FFFFFFFF
 patch=1,EE,20AE8FE0,extended,FFFFFFFF
 patch=1,EE,20AE8FE4,extended,FFFFFFFF
@@ -38,7 +38,7 @@ patch=1,EE,20AE8FE8,extended,FFFFFFFF
 patch=1,EE,20AE8FEC,extended,FFFFFFFF
 patch=1,EE,20AE8FF0,extended,007FFFFF
 
-//Please conjunction with code [all available and enter the character selection screen. "Nin Nin all
+[Please conjunction with code [all available and enter the character selection screen. "Nin Nin all]
 patch=1,EE,20AE8FA4,extended,FFFFFFFF
 patch=1,EE,20AE8FA8,extended,FFFFFFFF
 patch=1,EE,20AE8FAC,extended,FFFFFFFF
@@ -46,7 +46,7 @@ patch=1,EE,20AE8FB0,extended,FFFFFFFF
 patch=1,EE,20AE8FB4,extended,FFFFFFFF
 patch=1,EE,20AE8FB8,extended,03FFFFFF
 
-//Shinobi art
+[Shinobi art]
 patch=1,EE,20AE8F88,extended,FFFFFFFF
 patch=1,EE,20AE8F8C,extended,FFFFFFFF
 patch=1,EE,20AE8F90,extended,FFFFFFFF
@@ -54,7 +54,7 @@ patch=1,EE,20AE8F94,extended,FFFFFFFF
 patch=1,EE,20AE8F98,extended,FFFFFFFF
 patch=1,EE,00AE8F9C,extended,000000FF
 
-//Strategy all
+[Strategy all]
 patch=1,EE,20AE8FC0,extended,FFFFFFFF
 patch=1,EE,20AE8FC4,extended,FFFFFFFF
 patch=1,EE,20AE8FC8,extended,FFFFFFFF
@@ -62,9 +62,9 @@ patch=1,EE,20AE8FCC,extended,FFFFFFFF
 patch=1,EE,20AE8FD0,extended,FFFFFFFF
 patch=1,EE,20AE8FD4,extended,00001FFF
 
-//Ask Shinobu all
+[Ask Shinobu all]
 patch=1,EE,20AE8F84,extended,0007FFFF
 
-//Certificate all
+[Certificate all]
 patch=1,EE,20AE8EA4,extended,00000003
 patch=1,EE,20AE8EAC,extended,00000DFF

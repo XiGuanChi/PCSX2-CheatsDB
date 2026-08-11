@@ -1,17 +1,17 @@
-//Cheats/Gain Gold For Max
+[Cheats/Gain Gold For Max]
 patch=1,EE,202263B0,extended,00000000
 
-//Cheats/Gain Mithril For Max
+[Cheats/Gain Mithril For Max]
 patch=1,EE,20226488,extended,00000000
 
-//Cheats/Open Menu for HP And MP Restore
+[Cheats/Open Menu for HP And MP Restore]
 patch=1,EE,20200448,extended,8C430490
 patch=1,EE,20200458,extended,AC430494
 patch=1,EE,20200460,extended,8C430498
 patch=1,EE,20200468,extended,AC43049C
 
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,2022ECE8,extended,00000000
 
-//Cheats/Infinite MP
+[Cheats/Infinite MP]
 patch=1,EE,201C1BB0,extended,00000000

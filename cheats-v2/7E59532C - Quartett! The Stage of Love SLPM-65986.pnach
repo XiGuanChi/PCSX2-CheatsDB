@@ -1,5 +1,5 @@
 gametitle=Quartett! The Stage of Love SLPM-65986
-//Gallery fully open
+[Gallery fully open]
 patch=1,EE,401E2430,extended,00710001
 patch=1,EE,00000002,extended,00000000
 patch=1,EE,401E23E0,extended,00120001
@@ -8,11 +8,11 @@ patch=1,EE,001E2644,extended,00000001
 patch=1,EE,001E2648,extended,00000001
 patch=1,EE,001E264C,extended,00000001
 
-//Debug Scene Select Menu 
+[Debug Scene Select Menu]
 patch=1,EE,D01E10C2,extended,0000FFFD
 patch=1,EE,201D0DD8,extended,00000005
 
-//Unlock Everything 
+[Unlock Everything]
 patch=1,EE,201E2644,extended,00000001
 patch=1,EE,2018C724,extended,0C04AF64
 patch=1,EE,2018C728,extended,24010001

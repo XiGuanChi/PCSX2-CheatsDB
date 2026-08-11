@@ -1,16 +1,16 @@
 gametitle=Seek & Destroy SLES-51603
-//Have Lots Of Cash
+[Have Lots Of Cash]
 patch=1,EE,2025EB5C,extended,0001869F
 
-//All Weapons/Gear For Tank
+[All Weapons/Gear For Tank]
 patch=1,EE,20115C88,extended,24020001
 patch=1,EE,20116E9C,extended,24030001
 
-//All Tanks Available
+[All Tanks Available]
 patch=1,EE,20117320,extended,24020001
 
-//Infinite Damage - Level 1
+[Infinite Damage - Level 1]
 patch=1,EE,20EE0348,extended,000000C8
 
-//Infinite Damage - Level 2
+[Infinite Damage - Level 2]
 patch=1,EE,210B4148,extended,000000C8

@@ -1,12 +1,12 @@
 gametitle=Choaniki - Sei Naru Protein Densetsu SLPM-62403
-//Infinite Lives 9
+[Infinite Lives 9]
 patch=1,EE,20184924,extended,8C236860
 patch=1,EE,20184928,extended,34020009
 patch=1,EE,20614930,extended,AC620220
 
-//Always use bombs 
+[Always use bombs]
 patch=1,EE,2017C0F8,extended,00000000
 
-//No damage 
+[No damage]
 patch=1,EE,2015D628,extended,00000000
 patch=1,EE,20182C00,extended,00000000

@@ -1,15 +1,15 @@
 gametitle=Surfing H3O SLUS-20092
-//Max Score
+[Max Score]
 patch=1,EE,20457E20,extended,0098967F
 
-//Always Clear Level
+[Always Clear Level]
 patch=1,EE,20457E28,extended,00000001
 
-//Infinite Takeoffs
+[Infinite Takeoffs]
 patch=1,EE,20456AA4,extended,00000009
 
-//Infinite Continues
+[Infinite Continues]
 patch=1,EE,2024A5E4,extended,00000009
 
-//Access All Characters
+[Access All Characters]
 patch=1,EE,2018E6F4,extended,00000000

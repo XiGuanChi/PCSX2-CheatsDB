@@ -1,26 +1,26 @@
 gametitle=Mercenaries 2 - World in Flames SLUS-21650
-//Infinite ammo
+[Infinite ammo]
 patch=1,EE,2012bec8,extended,00000000
 
-//Infinite grenades
+[Infinite grenades]
 patch=1,EE,2012a054,extended,00000000
 
-//Infinite hp
+[Infinite hp]
 patch=1,EE,20138610,extended,08030088
 patch=1,EE,200c0220,extended,3c014448
 patch=1,EE,200c0224,extended,0804e1c7
 patch=1,EE,200c0228,extended,ae010098
 
-//Activate Cheat Codes
-//Infinite Ammo/Grenades (All Weapons)
+[Activate Cheat Codes]
+[Infinite Ammo/Grenades (All Weapons)]
 patch=1,EE,20575898,extended,00000001
 
-//Freeze Mission Timer 
+[Freeze Mission Timer]
 patch=1,EE,2032f390,extended,AC40002C
 
-//Disable Car Damage 
+[Disable Car Damage]
 patch=1,EE,201416e4,extended,00000000
 
-//Max Cash
+[Max Cash]
 patch=1,EE,2017b9e8,extended,3C014CBE
 patch=1,EE,2017b9f0,extended,AE0112B0

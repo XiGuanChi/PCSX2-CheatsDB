@@ -1,16 +1,16 @@
-//Cheats/Away Team Scores 9
+[Cheats/Away Team Scores 9]
 patch=1,EE,01D3C3DE,extended,00000009
 
-//Cheats/Away Team Scores 0
+[Cheats/Away Team Scores 0]
 patch=1,EE,01D3C3DE,extended,00000000
 
-//Cheats/Home Team Scores 9
+[Cheats/Home Team Scores 9]
 patch=1,EE,01D3C3E8,extended,00000009
 
-//Cheats/Home Team Scores 0
+[Cheats/Home Team Scores 0]
 patch=1,EE,01D3C3E8,extended,00000000
 
-//Cheats/Change Possession After Play  Hold L2
+[Cheats/Change Possession After Play  Hold L2]
 patch=1,EE,201E82B4,extended,46010034
 patch=1,EE,201E8360,extended,1000007A
 patch=1,EE,201E8494,extended,5622000B
@@ -19,7 +19,7 @@ patch=1,EE,201E82B4,extended,46000034
 patch=1,EE,201E8360,extended,10000000
 patch=1,EE,201E8494,extended,56220000
 
-//Cheats/Score Touchdown 2 Pt Conversion After Any Play Hold L1
+[Cheats/Score Touchdown 2 Pt Conversion After Any Play Hold L1]
 patch=1,EE,201E82BC,extended,45000009
 patch=1,EE,201E85BC,extended,45000003
 patch=1,EE,201E8614,extended,45020009
@@ -28,7 +28,7 @@ patch=1,EE,201E82BC,extended,00000000
 patch=1,EE,201E85BC,extended,00000000
 patch=1,EE,201E8614,extended,00000000
 
-//Cheats/Trades Are Always Accepted
+[Cheats/Trades Are Always Accepted]
 patch=1,EE,202BA37C,extended,24020001
 patch=1,EE,202B7788,extended,24020000
 

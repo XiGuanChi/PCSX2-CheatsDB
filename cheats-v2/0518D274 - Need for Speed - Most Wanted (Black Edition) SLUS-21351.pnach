@@ -1,17 +1,17 @@
 gametitle=Need for Speed - Most Wanted (Black Edition) SLUS-21351
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,20AAFF10,extended,05F5E0FF
 
-//Nitro Never Decreases
+[Nitro Never Decreases]
 patch=1,EE,2036F0DC,extended,00000000
 
-//Speedbreaker Never Decreases
+[Speedbreaker Never Decreases]
 patch=1,EE,203963D4,extended,00000000
 
-//Have All Blacklist Completed
+[Have All Blacklist Completed]
 patch=1,EE,00AAFF0C,extended,00000000
 
-//Have Game 100% Completed
+[Have Game 100% Completed]
 patch=1,EE,200C0230,extended,00300825
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,AC410004
@@ -45,14 +45,14 @@ patch=1,EE,200C028C,extended,AE030CA0
 patch=1,EE,20272894,extended,0C0300A0
 patch=1,EE,20272898,extended,24050002
 
-//All Cars/All Opponents Defeated
+[All Cars/All Opponents Defeated]
 patch=1,EE,20AAFF0C,extended,00000000
 
-//Challenges Complete
+[Challenges Complete]
 patch=1,EE,40A823E4,extended,00620004
 patch=1,EE,0000000D,extended,00000000
 patch=1,EE,20A81E04,extended,00000005
 patch=1,EE,20A81AA4,extended,0000000D
 
-//Unlock All Quick Race Cars
+[Unlock All Quick Race Cars]
 patch=1,EE,00AAFF0C,extended,00000001

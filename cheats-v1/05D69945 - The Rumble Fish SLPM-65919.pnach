@@ -1,24 +1,24 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,20210CC8,extended,3C0143C8
 patch=1,EE,20210CE4,extended,AE210104
 patch=1,EE,20210CD0,extended,45000004
 
-//Cheats/Max Offense Gauge P1
+[Cheats/Max Offense Gauge P1]
 patch=1,EE,20239380,extended,8F8393D8
 patch=1,EE,20239384,extended,8C630004
 patch=1,EE,20239388,extended,14730015
 
-//Cheats/Press SELECT P2 Health 0
+[Cheats/Press SELECT P2 Health 0]
 patch=1,EE,20210CFC,extended,00000000
 patch=1,EE,D0351B82,extended,0000FFFE
 patch=1,EE,20210CFC,extended,AE400104
 
-//Cheats/Survival win 99 Fights
+[Cheats/Survival win 99 Fights]
 patch=1,EE,20218ABC,extended,24070063
 patch=1,EE,20218AC0,extended,AC470050
 patch=1,EE,2020E9F8,extended,00000000
 
-//Cheats/Unlock All Bonus When you enter the Gallery
+[Cheats/Unlock All Bonus When you enter the Gallery]
 patch=1,EE,202487B0,extended,2401FFFF
 patch=1,EE,202487B4,extended,AC410004
 patch=1,EE,202487B8,extended,AC410000

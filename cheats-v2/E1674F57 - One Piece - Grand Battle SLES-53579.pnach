@@ -1,329 +1,329 @@
 gametitle=One Piece - Grand Battle SLES-53579
-//All Movies
+[All Movies]
 patch=1,EE,11CEE614,extended,0000ffff
 patch=1,EE,01CEE616,extended,00000003
 
-//Monkey D. Ruffy / Luffy Codes ==
+[Monkey D. Ruffy / Luffy Codes ==]
 
 
-//Schalte Charakter frei
+[Schalte Charakter frei]
 patch=1,EE,01cee333,extended,00000000
 
 
-//Sperre Charakter
+[Sperre Charakter]
 patch=1,EE,01cee333,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee331,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee33c,extended,ffffffff
 
 
 
-//== Lorrenor Zorro / Zolo Codes ==
+[== Lorrenor Zorro / Zolo Codes ==]
 
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee34f,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee34f,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee34d,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee358,extended,ffffffff
 
 
 
-//== Nami Codes ==
+[== Nami Codes ==]
 
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee36b,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee36b,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee369,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee374,extended,ffffffff
 
 
 
-//== Lysopp / Usopp Codes ==
+[== Lysopp / Usopp Codes ==]
 
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee387,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee387,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee385,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee390,extended,ffffffff
 
 
 
-//== Sanji Codes ==
+[== Sanji Codes ==]
 
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee3a3,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee3a3,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee3a1,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee3ac,extended,ffffffff
 
 
 
-//== Smoker / Chaser Codes ==
+[== Smoker / Chaser Codes ==]
 
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee3db,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee3db,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee3d9,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee3e4,extended,ffffffff
 
 
 
-//== Tony Chopper Codes ==
+[== Tony Chopper Codes ==]
 
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee3bf,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee3bf,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee3bd,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee3c8,extended,ffffffff
 
 
 
-//== der Rote Shanks Codes ==
+[== der Rote Shanks Codes ==]
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee3f7,extended,00000000
 
 
-//Sperre Charakter
+[Sperre Charakter]
 patch=1,EE,01cee3f7,extended,00000000
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee3f5,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee400,extended,ffffffff
 
 
 
-//== Mr.2 Codes ==
+[== Mr.2 Codes ==]
 
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee413,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee413,extended,00000000
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee411,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee42c,extended,ffffffff
 
 
 
-//== Mr.0 Crocodile Codes ==
+[== Mr.0 Crocodile Codes ==]
 patch=1,EE,01cee42f,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee42f,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee42d,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee438,extended,ffffffff
 
 
 
-//== Ms.Bloody Sunday Codes ==
+[== Ms.Bloody Sunday Codes ==]
 
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee44b,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee44b,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee449,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee454,extended,ffffffff
 
 
 
-//== Buggy Codes ==
+[== Buggy Codes ==]
 
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee467,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee467,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee465,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee470,extended,ffffffff
 
 
 
-//== Kaptain Black / Captain Kuro Codes ==
+[== Kaptain Black / Captain Kuro Codes ==]
 
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee483,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee483,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee481,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee48c,extended,ffffffff
 
 
 
-//== Don Creek / Don Krieg Codes ==
+[== Don Creek / Don Krieg Codes ==]
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee49f,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee49f,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee49d,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee4a8,extended,ffffffff
 
 
 
-//== Falkenauge Mihawk Codes ==
+[== Falkenauge Mihawk Codes ==]
 
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee4bb,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee4bb,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee4b9,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee4c4,extended,ffffffff
 
 
 
-//== Arlong Codes ==
+[== Arlong Codes ==]
 
 
-//schalte Charakter frei
+[schalte Charakter frei]
 patch=1,EE,01cee4d7,extended,00000000
 
 
-//sperre Charakter
+[sperre Charakter]
 patch=1,EE,01cee4d7,extended,00000001
 
 
-//alle Klamotten
+[alle Klamotten]
 patch=1,EE,01cee4d5,extended,0000000f
 
 
-//volle Galerie
+[volle Galerie]
 patch=1,EE,21cee4e0,extended,ffffffff
 
-//Wins: 99
+[Wins: 99]
 patch=1,EE,01ceff64,extended,00000063
 
-//Support Attack: 99
+[Support Attack: 99]
 patch=1,EE,01ceff6a,extended,00000063
 
-//Super Attack: 99
+[Super Attack: 99]
 patch=1,EE,01ceff68,extended,00000063
 
-//Secret Attack: 99
+[Secret Attack: 99]
 patch=1,EE,01ceff66,extended,00000063

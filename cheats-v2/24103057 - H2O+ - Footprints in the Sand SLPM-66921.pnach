@@ -1,7 +1,7 @@
 gametitle=H2O+: Footprints in the Sand SLPM-66921
-//Unlock Extra
+[Unlock Extra]
 patch=1,EE,10AAA142,extended,0000FFFF
 patch=1,EE,20AAA144,extended,FFFFFFFF
 
-//Replace New Game With Debug Menu 
+[Replace New Game With Debug Menu]
 patch=1,EE,0014C314,extended,00000000

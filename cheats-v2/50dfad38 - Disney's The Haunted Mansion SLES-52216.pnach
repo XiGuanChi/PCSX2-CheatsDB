@@ -1,17 +1,17 @@
 gametitle=Disney's The Haunted Mansion SLES-52216
-//Infinite Health a
+[Infinite Health a]
 patch=1,EE,20159968,extended,24030000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201563a8,extended,C6610200
 patch=1,EE,201563ac,extended,E6610204
 
-//Max Fortune Cards
+[Max Fortune Cards]
 patch=1,EE,20163714,extended,AC640000
 patch=1,EE,1016371a,extended,00001000
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,201493ac,extended,00000000
 
-//Extra Lives
+[Extra Lives]
 patch=1,EE,101493a8,extended,00000001

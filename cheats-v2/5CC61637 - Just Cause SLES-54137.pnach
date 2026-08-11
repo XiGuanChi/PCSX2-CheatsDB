@@ -1,19 +1,19 @@
 gametitle=Just Cause SLES-54137
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201F79A4,extended,3C017F00
 patch=1,EE,201F79B4,extended,AE610514
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2030401C,extended,25EF0000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,2013E468,extended,25EF0000
 
-//Max Guerrilla Relations
+[Max Guerrilla Relations]
 patch=1,EE,2183B478,extended,0001869F
 
-//Max Rioja Cartel Relations
+[Max Rioja Cartel Relations]
 patch=1,EE,2183B468,extended,0001869F
 
-//Unlock Dirt Bike, GP, Gyrocopter, Boat
+[Unlock Dirt Bike, GP, Gyrocopter, Boat]
 patch=1,EE,0183C668,extended,0000000F

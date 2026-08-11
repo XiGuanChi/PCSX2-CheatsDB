@@ -1,14 +1,14 @@
 gametitle=Obscure 2 SLES-54782 FC4AC115
 
-//infinite magazine gun
+[infinite magazine gun]
 author=GamingDragon93
 patch=1,EE,203197b0,extended,00000000
 
-//Inf HP - player & npc (cannot be heal)
+[Inf HP - player & npc (cannot be heal)]
 author=GamingDragon93
 patch=1,EE,20233F10,extended,00000000
 
-//1 hit kill
+[1 hit kill]
 author=GamingDragon93
 patch=1,EE,202b05f4,extended,3c0142c8
 patch=1,EE,202b05f8,extended,ae210390

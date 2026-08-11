@@ -1,7 +1,7 @@
-//Cheats/Unlock All Special
+[Cheats/Unlock All Special]
 patch=1,EE,201F4274,extended,00000001
 patch=1,EE,001F43F8,extended,000000FF
 
-//Cheats/New Game = Debug Menu riginal Version Starts the game normally. Debug Mode Opens a scene select menu. Function Test Tests various text and rendering modes. File Test Starts a scene. MAP Test Allows you to change map locations. Clear Flag Unlocks the Special menu. Production Test Opens a menu that allows choosing of a few scenes.
+[Cheats/New Game = Debug Menu riginal Version Starts the game normally. Debug Mode Opens a scene select menu. Function Test Tests various text and rendering modes. File Test Starts a scene. MAP Test Allows you to change map locations. Clear Flag Unlocks the Special menu. Production Test Opens a menu that allows choosing of a few scenes.]
 patch=1,EE,004193F8,extended,00000001
 patch=1,EE,104193FE,extended,000002C4

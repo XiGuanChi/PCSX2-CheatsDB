@@ -1,73 +1,73 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20413BDC,extended,000F423F
 
-//Cheats/Infinite Jewels
+[Cheats/Infinite Jewels]
 patch=1,EE,10413CC0,extended,0000270F
 
-//Cheats/Max Status Including LP And BP
+[Cheats/Max Status Including LP And BP]
 patch=1,EE,202AF418,extended,8000033C
 patch=1,EE,202AF480,extended,8000033C
 patch=1,EE,202AF8E8,extended,8000033C
 patch=1,EE,202AF948,extended,8000033C
 
-//Cheats/1st Character HP 999
+[Cheats/1st Character HP 999]
 patch=1,EE,203F1EC0,extended,000003E7 
 patch=1,EE,203F1EC4,extended,000003E7
 
-//Cheats/1st Character LP 99
+[Cheats/1st Character LP 99]
 patch=1,EE,203F1EC8,extended,00000063 
 patch=1,EE,203F1ECC,extended,00000063
 
-//Cheats/2nd Character HP 999
+[Cheats/2nd Character HP 999]
 patch=1,EE,203F2320,extended,000003E7 
 patch=1,EE,203F2324,extended,000003E7 
 
-//Cheats/2nd Character LP 99
+[Cheats/2nd Character LP 99]
 patch=1,EE,203F2328,extended,00000063 
 patch=1,EE,203F232C,extended,00000063
 
-//Cheats/3rd Character HP 999
+[Cheats/3rd Character HP 999]
 patch=1,EE,203F2780,extended,000003E7 
 patch=1,EE,203F2784,extended,000003E7
 
-//Cheats/3rd Character LP 99
+[Cheats/3rd Character LP 99]
 patch=1,EE,203F2788,extended,00000063 
 patch=1,EE,203F278C,extended,00000063
 
-//Cheats/Battle System Skill Max
+[Cheats/Battle System Skill Max]
 patch=1,EE,2020181C,extended,2403FFFF
 patch=1,EE,20201820,extended,AC430000
 patch=1,EE,20201824,extended,14000005
 
-//Cheats/Surgical Skill max
+[Cheats/Surgical Skill max]
 patch=1,EE,202018CC,extended,2402FFFF
 patch=1,EE,202018D0,extended,AC620000
 
-//Cheats/World Map Anywhere
+[Cheats/World Map Anywhere]
 patch=1,EE,201F66B8,extended,0C048B3C
 
-//Cheats/Normal Save Anywhere Please select Quicksave on the menu screen.Quick save is normal save.You can not use the original quick save while using this code.When loading please select LOAD DATA instead of CONTINUE
+[Cheats/Normal Save Anywhere Please select Quicksave on the menu screen.Quick save is normal save.You can not use the original quick save while using this code.When loading please select LOAD DATA instead of CONTINUE]
 patch=1,EE,201F69FC,extended,24040003
 
-//Cheats/All Characters LP 99 + HP Recovery Ability
+[Cheats/All Characters LP 99 + HP Recovery Ability]
 patch=1,EE,40854634,extended,00200040
 patch=1,EE,00636305,extended,00000000
 
-//Cheats/When you open the Item Section you will see EP 99  It has no effect on items without EP.
+[Cheats/When you open the Item Section you will see EP 99  It has no effect on items without EP.]
 patch=1,EE,202059A0,extended,0803F454
 patch=1,EE,200FD150,extended,AF838250
 patch=1,EE,200FD154,extended,240B0063
 patch=1,EE,200FD158,extended,A0CB0008
 patch=1,EE,200FD15C,extended,0808166A
 
-//Cheats/Open Skill Section to acquire skills It has no effect on shields or map abilities that do not have skills. Also, some techniques may be considered as already learned.
+[Cheats/Open Skill Section to acquire skills It has no effect on shields or map abilities that do not have skills. Also, some techniques may be considered as already learned.]
 patch=1,EE,2020181C,extended,2403FFFF
 patch=1,EE,20201820,extended,AC430000
 patch=1,EE,20201824,extended,14000005
 patch=1,EE,202018CC,extended,2402FFFF
 patch=1,EE,202018D0,extended,AC620000
 
-//Cheats/In Battle Enemy Is Killed In One Hit If there are a large number of enemies, some of them may be ineffective.
+[Cheats/In Battle Enemy Is Killed In One Hit If there are a large number of enemies, some of them may be ineffective.]
 patch=1,EE,203F34A0,extended,00000000
 patch=1,EE,203F3900,extended,00000000
 patch=1,EE,203F3D60,extended,00000000
@@ -76,5 +76,5 @@ patch=1,EE,203F4620,extended,00000000
 patch=1,EE,203F4A80,extended,00000000
 patch=1,EE,203F4EE0,extended,00000000
 
-//Cheats/Unlock Completed All Protagonists If you use the code and watch the ending, you'll be able to see the main characters chatting away
+[Cheats/Unlock Completed All Protagonists If you use the code and watch the ending, you'll be able to see the main characters chatting away]
 patch=1,EE,20413CB0,extended,000000FF

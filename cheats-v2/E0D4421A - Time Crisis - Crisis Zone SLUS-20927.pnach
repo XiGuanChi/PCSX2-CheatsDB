@@ -1,8 +1,8 @@
 gametitle=Time Crisis - Crisis Zone SLUS-20927
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2079C69C,extended,00000004
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,408DDA80,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,208DDAA0,extended,00000009

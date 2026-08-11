@@ -1,14 +1,14 @@
-//Cheats/Infinite Bonus Points - Character Creation
+[Cheats/Infinite Bonus Points - Character Creation]
 patch=1,EE,202AAE18,extended,00000009
 
-//Cheats/Infinite Funds
+[Cheats/Infinite Funds]
 patch=1,EE,202E7AD0,extended,05F5E0FF
 
-//Cheats/Infinite Health 1ST Character
+[Cheats/Infinite Health 1ST Character]
 patch=1,EE,203512A8,extended,0001869F
 patch=1,EE,20351288,extended,0001869F
 
-//Cheats/In Battle Move Cursor Over Character P1 Press L3 To Set HP To Max
+[Cheats/In Battle Move Cursor Over Character P1 Press L3 To Set HP To Max]
 patch=1,EE,E006FFFD,extended,002BAFC2
 patch=1,EE,200C0220,extended,3C010098
 patch=1,EE,200C0224,extended,3421967F
@@ -19,7 +19,7 @@ patch=1,EE,20163BBC,extended,0C030088
 patch=1,EE,D02BAFC2,extended,0000FFFF
 patch=1,EE,20163BBC,extended,0C044F6C
 
-//Cheats/In Battle Move Cursor Over Character P1 Press R3 To Set HP To Lowest
+[Cheats/In Battle Move Cursor Over Character P1 Press R3 To Set HP To Lowest]
 patch=1,EE,E006FFFB,extended,002BAFC2
 patch=1,EE,200C0220,extended,3C010000
 patch=1,EE,200C0224,extended,34210001
@@ -30,7 +30,7 @@ patch=1,EE,20163BBC,extended,0C030088
 patch=1,EE,D02BAFC2,extended,0000FFFF
 patch=1,EE,20163BBC,extended,0C044F6C
 
-//Cheats/In Battle Move Cursor Over Character P1 Press L3 To Set MP To Max
+[Cheats/In Battle Move Cursor Over Character P1 Press L3 To Set MP To Max]
 patch=1,EE,E006FFFD,extended,002BAFC2
 patch=1,EE,200C0240,extended,3C010098
 patch=1,EE,200C0244,extended,3421967F
@@ -41,7 +41,7 @@ patch=1,EE,20163F98,extended,0C030090
 patch=1,EE,D02BAFC2,extended,0000FFFF
 patch=1,EE,20163F98,extended,0C044F6C
 
-//Cheats/In Battle Move Cursor Over Character P1 Press R3 To Set MP To Lowest
+[Cheats/In Battle Move Cursor Over Character P1 Press R3 To Set MP To Lowest]
 patch=1,EE,E006FFFB,extended,002BAFC2
 patch=1,EE,200C0240,extended,3C010000
 patch=1,EE,200C0244,extended,34210001
@@ -52,11 +52,11 @@ patch=1,EE,20163F98,extended,0C030090
 patch=1,EE,D02BAFC2,extended,0000FFFF
 patch=1,EE,20163F98,extended,0C044F6C
 
-//Cheats/Level 9,999 After 1 Kill
+[Cheats/Level 9,999 After 1 Kill]
 patch=1,EE,20189CA8,extended,3C020001
 patch=1,EE,20189CAC,extended,0002103C
 
-//Cheats/Debug Mode This will display debug info on-screen, open up various extra menu options as well as open extra main menu options.
+[Cheats/Debug Mode This will display debug info on-screen, open up various extra menu options as well as open extra main menu options.]
 patch=1,EE,20100540,extended,8F848B84
 patch=1,EE,20100544,extended,34840002
 patch=1,EE,20100548,extended,1000000B

@@ -1,5 +1,5 @@
 gametitle=Sanyo Pachinko Paradise 7 - Edokko Gen-san SLPS-20206	
-//Hold START at Press Start Screen for Debug Menu 
+[Hold START at Press Start Screen for Debug Menu]
 patch=1,EE,D0A63242,extended,0000FFF7
 patch=1,EE,0014BDD8,extended,0000000C
 patch=1,EE,D0A63242,extended,0000FFFF

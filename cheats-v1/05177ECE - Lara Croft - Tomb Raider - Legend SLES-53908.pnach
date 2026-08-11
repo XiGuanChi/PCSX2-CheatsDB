@@ -1,4 +1,4 @@
-//Cheats/Infinite Energy
+[Cheats/Infinite Energy]
 patch=1,EE,200C2000,extended,001F4020
 patch=1,EE,200C2004,extended,0C0B62F8
 patch=1,EE,200C2008,extended,00034820
@@ -6,32 +6,32 @@ patch=1,EE,200C200C,extended,E52005E0
 patch=1,EE,200C2010,extended,01000008
 patch=1,EE,20223C9C,extended,0C030800
 
-//Cheats/Infinite Air
+[Cheats/Infinite Air]
 patch=1,EE,202C27AC,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2028D110,extended,00000000
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,202D88C8,extended,00000000
 
-//Cheats/Infinite Healthpacks
+[Cheats/Infinite Healthpacks]
 patch=1,EE,20269d7c,extended,24A20000
 
-//Cheats/Infinite Healthpacks Alt
+[Cheats/Infinite Healthpacks Alt]
 patch=1,EE,20269d84,extended,00000000
 
-//Cheats/Infinite Time Time Trials
+[Cheats/Infinite Time Time Trials]
 patch=1,EE,203923A0,extended,46FAB16F
 
-//Cheats/Player gets all weapons
+[Cheats/Player gets all weapons]
 patch=1,EE,203b928c,extended,00080000
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,2048deb8,extended,00100000
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,20194760,extended,2403FFFF
 
-//Cheats/Unlock Debug load Level
+[Cheats/Unlock Debug load Level]
 patch=1,EE,2021BF60,extended,24020001

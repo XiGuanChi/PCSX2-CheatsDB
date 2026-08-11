@@ -1,26 +1,26 @@
 gametitle=Asterix & Obelix Kick Buttix SLUS-20866
-//Max Roman Helmets Collected 
+[Max Roman Helmets Collected]
 patch=1,EE,2072C088,extended,0000270F
 
-//Max Energy Gauge (Combo) 
+[Max Energy Gauge (Combo)]
 patch=1,EE,2072BCD0,extended,0000001E
 
-//Max Helmet Multiplier 
+[Max Helmet Multiplier]
 patch=1,EE,2072C0A4,extended,00000063
 
-//Have Helmet Multiplier 
+[Have Helmet Multiplier]
 patch=1,EE,2072C0B8,extended,42C60000
 
-//Always Under Magic Potion 
+[Always Under Magic Potion]
 patch=1,EE,2072C0BC,extended,42C80000
 
-//Infinite Health 
+[Infinite Health]
 patch=1,EE,0072C070,extended,0000001E
 
-//P1 Press L1+Select To Get Magic Potion Effects 
+[P1 Press L1+Select To Get Magic Potion Effects]
 patch=1,EE,D051F082,extended,0000FBFE
 patch=1,EE,2072C0BC,extended,42C80000
 
-//P1 Press L2+Select To Remove Magic Potion Effects 
+[P1 Press L2+Select To Remove Magic Potion Effects]
 patch=1,EE,D051F082,extended,0000FEFE
 patch=1,EE,2072C0BC,extended,00000000

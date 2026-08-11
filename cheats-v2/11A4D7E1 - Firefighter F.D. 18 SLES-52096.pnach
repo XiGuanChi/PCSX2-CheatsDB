@@ -1,56 +1,56 @@
 gametitle=Firefighter F.D. 18 SLES-52096
-//Unlimited: HP
+[Unlimited: HP]
 patch=1,EE,200C2004,extended,ACA30028
 
-//Unlimited Stamina
+[Unlimited Stamina]
 patch=1,EE,200C2000,extended,ACA30024
 
-//Unlimited Survivor HP
+[Unlimited Survivor HP]
 patch=1,EE,201B6D14,extended,00000000
 
-//Unlimited Firefighting Support
+[Unlimited Firefighting Support]
 patch=1,EE,2012FE24,extended,24020003
 patch=1,EE,2012FE28,extended,AC620054
 
-//Unlimited First Aid Kits SP
+[Unlimited First Aid Kits SP]
 patch=1,EE,005A52F9,extended,00000063
 
-//Unlimited First Aid Kits
+[Unlimited First Aid Kits]
 patch=1,EE,005A52FA,extended,00000063
 
-//Unlimited Impulse Tanks
+[Unlimited Impulse Tanks]
 patch=1,EE,005A52FC,extended,00000063
 
-//Unlimited Bombs
+[Unlimited Bombs]
 patch=1,EE,005A52FD,extended,00000063
 
-//Unlimited Fire Extinguishers
+[Unlimited Fire Extinguishers]
 patch=1,EE,005A52FE,extended,00000063
 
-//Unlimited Keys
+[Unlimited Keys]
 patch=1,EE,005A52FF,extended,00000063
 
-//Unlimited Keycards
+[Unlimited Keycards]
 patch=1,EE,005A5300,extended,00000063
 
-//Unlimited Drinks
+[Unlimited Drinks]
 patch=1,EE,005A5301,extended,00000063
 
-//Have Hose
+[Have Hose]
 patch=1,EE,005A5302,extended,00000001
 
-//Have: Impulse Gun
+[Have: Impulse Gun]
 patch=1,EE,005A5303,extended,00000001
 
-//Have: Axe
+[Have: Axe]
 patch=1,EE,005A5304,extended,00000001
 
-//Have: Easy Giant Fires
+[Have: Easy Giant Fires]
 patch=1,EE,2017E7A8,extended,00421023
 
-//Have: Easy Giant Fires
+[Have: Easy Giant Fires]
 patch=1,EE,2017E7A8,extended,00421023
 
-//Stopped Timer
+[Stopped Timer]
 patch=1,EE,2011E008,extended,24003634
 

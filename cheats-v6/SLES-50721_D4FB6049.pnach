@@ -1,9 +1,9 @@
 gametitle=Pryzm - Chapter One - The Dark Unicorn PAL-M SLES-50721 D4FB6049
 
-//50/60 FPS
+[50/60 FPS]
 author=GamingDragon93
 description=Might need EE Overclock (130%).
 patch=1,EE,003ABED4,word,00000001
 patch=1,EE,001E5428,word,3C013CA3
 patch=1,EE,001E5450,word,3C013C88
-//patch=1,EE,0017E590,word,1440000A
+[patch=1,EE,0017E590,word,1440000A]

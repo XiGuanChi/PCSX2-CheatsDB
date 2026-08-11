@@ -1,5 +1,5 @@
 gametitle=Rayman Revolution SLES-50044
-//IInfinite Health
+[IInfinite Health]
 patch=1,EE,200FFF00,extended,3C020025
 patch=1,EE,200FFF04,extended,8C422394
 patch=1,EE,200FFF08,extended,24011E00
@@ -9,5 +9,5 @@ patch=1,EE,200FFF18,extended,080720C9
 patch=1,EE,201C8320,extended,0803FFC0
 patch=1,EE,200FFF1C,extended,27BDFFD0
 
-//Infinite Oxygen
+[Infinite Oxygen]
 patch=1,EE,20383F20,extended,43960000

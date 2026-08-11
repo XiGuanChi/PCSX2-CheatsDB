@@ -1,11 +1,11 @@
-//Cheats/Invisible
+[Cheats/Invisible]
 patch=1,EE,201B2774,extended,00000000
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201B1034,extended,24010064
 patch=1,EE,201B1038,extended,AE2102BC
 
-//Cheats/One Hit Kill
+[Cheats/One Hit Kill]
 patch=1,EE,200FFF00,extended,3C010023
 patch=1,EE,200FFF04,extended,8C216974
 patch=1,EE,200FFF08,extended,10310002
@@ -14,10 +14,10 @@ patch=1,EE,200FFF18,extended,8E2202BC
 patch=1,EE,200FFF1C,extended,080712D8
 patch=1,EE,201C4B5C,extended,0803FFC0
 
-//Cheats/Infinite Ammo No Reload
+[Cheats/Infinite Ammo No Reload]
 patch=1,EE,201BC4D8,extended,00000000
 
-//Cheats/Unlock All Weapons
+[Cheats/Unlock All Weapons]
 patch=1,EE,205C6CF8,extended,FFFFFFFF
 patch=1,EE,205C6CFC,extended,FFFFFFFF
 

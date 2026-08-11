@@ -1,81 +1,81 @@
 gametitle=SD Gundam G Generation Wars SLPS-25941
-//Max Money
+[Max Money]
 patch=1,EE,2031EA68,extended,00A0082A
 patch=1,EE,2031EAA8,extended,00A0082A
 
-//Capability MAX HP when unit level up
+[Capability MAX HP when unit level up]
 patch=1,EE,203250FC,extended,3C020002
 patch=1,EE,2032514C,extended,3C020002
 
-//Capability MAX EP when unit level up
+[Capability MAX EP when unit level up]
 patch=1,EE,2032510C,extended,240203E7
 patch=1,EE,2032515C,extended,240203E7
 
-//Capability MAX attack power when unit level up
+[Capability MAX attack power when unit level up]
 patch=1,EE,2032511C,extended,240203E7
 
-//Capability MAX defense power when unit level up
+[Capability MAX defense power when unit level up]
 patch=1,EE,2032512C,extended,240203E7
 
-//Capability MAX mobility when unit level up
+[Capability MAX mobility when unit level up]
 patch=1,EE,2032513C,extended,240203E7
 
-//Ability up distribution points are not reduced
+[Ability up distribution points are not reduced]
 patch=1,EE,202B35AC,extended,24030000
 patch=1,EE,202B37C8,extended,00000000
 patch=1,EE,202B3824,extended,00000000
 
-//Character acquisition experience value 128 times
+[Character acquisition experience value 128 times]
 patch=1,EE,2031B1E4,extended,000581C0
 
-//Character battle and MP 999 The guest unit has no effect.
+[Character battle and MP 999 The guest unit has no effect.]
 patch=1,EE,2031B410,extended,0C03CC40
 patch=1,EE,200F3100,extended,240303E7
 patch=1,EE,200F3104,extended,A6230014
 patch=1,EE,200F3108,extended,080C7324
 
-//MAX shooting when increasing the character ability value
+[MAX shooting when increasing the character ability value]
 patch=1,EE,2031B498,extended,24030063
 
-//MAX fighting with increasing character ability value
+[MAX fighting with increasing character ability value]
 patch=1,EE,2031B4D4,extended,24030063
 
-//MAX response when increasing the character ability value
+[MAX response when increasing the character ability value]
 patch=1,EE,2031B510,extended,24030063
 
-//MAX defense by increasing character ability value
+[MAX defense by increasing character ability value]
 patch=1,EE,2031B54C,extended,24030063
 
-//MAX awakening as the character's ability value increases
+[MAX awakening as the character's ability value increases]
 patch=1,EE,2031B5A0,extended,24030064
 
-//MAX charm with increasing character ability value
+[MAX charm with increasing character ability value]
 patch=1,EE,2031B5CC,extended,24030064
 
-//ACE POINT MAX at character development
+[ACE POINT MAX at character development]
 patch=1,EE,2031D130,extended,3C020098
 patch=1,EE,2031D134,extended,3442967F
 patch=1,EE,2031D138,extended,AC820018
 
-//No unit development level limit
+[No unit development level limit]
 patch=1,EE,2040BAD8,extended,00000000
 
-//Can produce all units
+[Can produce all units]
 patch=1,EE,2046069C,extended,24020001
 patch=1,EE,204606A4,extended,A2620006
 
-//All optional parts can be purchased If there is no effect, please browse the list
+[All optional parts can be purchased If there is no effect, please browse the list]
 patch=1,EE,20620B60,extended,24030007
 patch=1,EE,20620B64,extended,A043000C
 
-//Attacks and Attacks MAX When Singing
+[Attacks and Attacks MAX When Singing]
 patch=1,EE,2031B028,extended,24030101
 
-//Infinite action possible
+[Infinite action possible]
 patch=1,EE,2022AC50,extended,24020001
 patch=1,EE,2022AC5C,extended,A2420018
 
-//When you browse the gallery profile it opens to the full
+[When you browse the gallery profile it opens to the full]
 patch=1,EE,2032A480,extended,00430821
 patch=1,EE,2032A488,extended,24020001
 patch=1,EE,2032A494,extended,A0220000
@@ -83,7 +83,7 @@ patch=1,EE,2032A344,extended,00430821
 patch=1,EE,2032A34C,extended,24020001
 patch=1,EE,2032A358,extended,A0220000
 
-//Gallery Movie & Battle Demo Browsed When Opened
+[Gallery Movie & Battle Demo Browsed When Opened]
 patch=1,EE,2031ECB0,extended,240200FF
 patch=1,EE,2031ECB4,extended,03E00008
 patch=1,EE,2031ECB8,extended,A0820009

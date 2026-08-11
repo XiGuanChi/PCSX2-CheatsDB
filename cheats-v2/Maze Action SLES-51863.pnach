@@ -1,30 +1,30 @@
 gametitle=Maze Action SLES-51863
-//Infinite HP
+[Infinite HP]
 patch=1,EE,103BA0F4,extended,0000006E
 
-//Infinite ST
+[Infinite ST]
 patch=1,EE,103BA094,extended,0000006E
 
-//Infinite Shotgun Ammo
+[Infinite Shotgun Ammo]
 patch=1,EE,2018E780,extended,24420000
 
-//Infinite Rocket Launcher Ammo
+[Infinite Rocket Launcher Ammo]
 patch=1,EE,2018EBC8,extended,24420000
 
-//Infinite Pistol Ammo
+[Infinite Pistol Ammo]
 patch=1,EE,2018E280,extended,24420000
 
-//Infinite Medical Kits
+[Infinite Medical Kits]
 patch=1,EE,20172C9C,extended,00000000
 
-//Infinite Armour Usage
+[Infinite Armour Usage]
 patch=1,EE,20172F64,extended,00000000
 
-//Infinte Shoe Usage
+[Infinte Shoe Usage]
 patch=1,EE,20172E7C,extended,00000000
 
-//Infinite Aspirin Usage
+[Infinite Aspirin Usage]
 patch=1,EE,20172DA4,extended,00000000
 
-//Infinite Trap Item Usage
+[Infinite Trap Item Usage]
 patch=1,EE,201718FC,extended,00000000

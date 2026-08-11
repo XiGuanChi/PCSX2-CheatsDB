@@ -1,8 +1,8 @@
-//Cheats/Enable Debug MenuPicture Brightness, Sound Test, Level Meter, Movie Test, Fade Test, Tampering This allows you to set various game progression related flags.
+[Cheats/Enable Debug MenuPicture Brightness, Sound Test, Level Meter, Movie Test, Fade Test, Tampering This allows you to set various game progression related flags.]
 patch=1,EE,D01E8CC2,extended,00007FBF
 patch=1,EE,1037EF0E,extended,00000101
 
-//Cheats/Enter Event Check Press L1+ D-Pad Down start a new game, then when you have control of Mariel, press L1 + D-Pad Down to appear in this map with the event menu on-screen.
+[Cheats/Enter Event Check Press L1+ D-Pad Down start a new game, then when you have control of Mariel, press L1 + D-Pad Down to appear in this map with the event menu on-screen.]
 patch=1,EE,E002FBBF,extended,001E8CC2
 patch=1,EE,2019CEC8,extended,00000004
 patch=1,EE,2019CE00,extended,00000001

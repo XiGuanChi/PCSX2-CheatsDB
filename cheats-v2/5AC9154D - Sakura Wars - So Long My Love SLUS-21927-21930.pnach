@@ -1,42 +1,42 @@
 gametitle=Sakura Wars - So Long My Love SLUS-21927-21930
-//Infinite Lips Timer
+[Infinite Lips Timer]
 patch=1,EE,2025C148,extended,E49F003C
 
-//Level Debug (Adv Debug)
+[Level Debug (Adv Debug)]
 patch=0,EE,201B0C00,extended,24020001
 patch=0,EE,201B0C04,extended,AF8287CC
 patch=0,EE,201B0C08,extended,03E00008
 patch=0,EE,201B0C0C,extended,8F8287CC
 
-//Infinite Res
+[Infinite Res]
 patch=1,EE,200A0078,extended,8653006C
 patch=1,EE,200A007C,extended,A653006E
 
-//Infinite SP
+[Infinite SP]
 patch=1,EE,200A0080,extended,86530072
 patch=1,EE,200A0084,extended,A6530074
 
-//Infinite Mobility Gauge (Blue Bar) (Refill)
+[Infinite Mobility Gauge (Blue Bar) (Refill)]
 patch=1,EE,200A0088,extended,86530078
 patch=1,EE,200A008C,extended,A653007A
 patch=1,EE,200A0090,extended,A653007C
 
-//Att 99
+[Att 99]
 patch=1,EE,200A0094,extended,24130063
 patch=1,EE,200A0098,extended,A6530080
 
-//RMR 99
+[RMR 99]
 patch=1,EE,200A009C,extended,24130063
 patch=1,EE,200A00A0,extended,A6530082
 
-//SPD 99
+[SPD 99]
 patch=1,EE,200A00A4,extended,24130063
 patch=1,EE,200A00A8,extended,A6530084
 
-//Enemy No HP
+[Enemy No HP]
 patch=1,EE,200A00B4,extended,A640006E
 
-//In-battles Infinite Mobility Gauge (Blue Bar)
+[In-battles Infinite Mobility Gauge (Blue Bar)]
 patch=1,EE,200A00E0,extended,84450048
 patch=1,EE,200A00E4,extended,14A00003
 patch=1,EE,200A00E8,extended,84450078

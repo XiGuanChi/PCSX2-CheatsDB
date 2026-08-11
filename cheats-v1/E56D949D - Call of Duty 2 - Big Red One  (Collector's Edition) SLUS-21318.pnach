@@ -1,16 +1,16 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,E002902D,extended,00205D60
 patch=1,EE,20205D90,extended,8E620108
 patch=1,EE,20205D94,extended,AE420350
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,D0421B38,extended,00000001
 patch=1,EE,2017A168,extended,00000000
 
-//Cheats/Never Reload And Infinite Grenades
+[Cheats/Never Reload And Infinite Grenades]
 patch=1,EE,D0421B38,extended,00000001
 patch=1,EE,2017A1E8,extended,00000000
 
-//Cheats/Unlock All Levels And Bonus Material
+[Cheats/Unlock All Levels And Bonus Material]
 patch=1,EE,20393CA4,extended,0000000E
 patch=1,EE,20393CA8,extended,0000000E

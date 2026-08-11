@@ -1,14 +1,14 @@
 gametitle=The Thing SLES-50975
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20419184,extended,3C0141F0
 patch=1,EE,2041918C,extended,44810000
 patch=1,EE,20419194,extended,AE01009C
 
-//Never Cold
+[Never Cold]
 patch=1,EE,20419630,extended,44800000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2050A6D0,extended,240303E7
 
-//New Game For Level Select
+[New Game For Level Select]
 patch=1,EE,10691BC4,extended,00005A98

@@ -1,21 +1,21 @@
-//Cheats/Infinite & Max Health Player 1
+[Cheats/Infinite & Max Health Player 1]
 patch=1,EE,20791ED0,extended,0000270F
 patch=1,EE,20791ED2,extended,0000270F
 
-//Cheats/Infinite & Max Magic Player 1
+[Cheats/Infinite & Max Magic Player 1]
 patch=1,EE,20791F0C,extended,0000270F
 patch=1,EE,20791F0E,extended,0000270F
 
-//Cheats/Infinite & Max Health Player 2
+[Cheats/Infinite & Max Health Player 2]
 patch=1,EE,20791EC0,extended,0000270F
 patch=1,EE,20791EC2,extended,0000270F
 
-//Cheats/Infinite & Max Magic Player 2
+[Cheats/Infinite & Max Magic Player 2]
 patch=1,EE,20791EFC,extended,0000270F
 patch=1,EE,20791EFE,extended,0000270F
 
-//Cheats/Start On Final Stage
+[Cheats/Start On Final Stage]
 patch=1,EE,20320684,extended,00000408
 
-//Cheats/Have All Runes
+[Cheats/Have All Runes]
 patch=1,EE,203206F4,extended,0005FFFF

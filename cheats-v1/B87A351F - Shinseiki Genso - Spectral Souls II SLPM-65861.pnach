@@ -1,52 +1,52 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,21A5CE70,extended,05F5E0FF
 
-//Cheats/Max Gold Roses Liberation Army
+[Cheats/Max Gold Roses Liberation Army]
 patch=1,EE,21425BBC,extended,3B9AC9FF
 
-//Cheats/Max Gold New Simba Empire Army
+[Cheats/Max Gold New Simba Empire Army]
 patch=1,EE,21425BB4,extended,3B9AC9FF
 
-//Cheats/Max Gold Neverland Imperial Army
+[Cheats/Max Gold Neverland Imperial Army]
 patch=1,EE,21425BB8,extended,3B9AC9FF
 
-//Cheats/Max EP New Simba Empire Army
+[Cheats/Max EP New Simba Empire Army]
 patch=1,EE,21425BD4,extended,3B9AC9FF
 
-//Cheats/Max EP Neverland Imperial Army
+[Cheats/Max EP Neverland Imperial Army]
 patch=1,EE,21425BD8,extended,3B9AC9FF
 
-//Cheats/Max EP Roses Liberation Army
+[Cheats/Max EP Roses Liberation Army]
 patch=1,EE,21425BDC,extended,3B9AC9FF
 
-//Cheats/Max PP New Simba Empire Army
+[Cheats/Max PP New Simba Empire Army]
 patch=1,EE,21425BC6,extended,0000270F
 
-//Cheats/Max PP Neverland Imperial Army
+[Cheats/Max PP Neverland Imperial Army]
 patch=1,EE,21425BCA,extended,0000270F
 
-//Cheats/Max PP Roses Liberation Army
+[Cheats/Max PP Roses Liberation Army]
 patch=1,EE,21425BCE,extended,0000270F
 
-//Cheats/Press SELECT+L1 For Max Bonus Points
+[Cheats/Press SELECT+L1 For Max Bonus Points]
 patch=1,EE,D12F09F0,extended,00000104
 patch=1,EE,214F9C74,extended,0000270F
 
-//Cheats/Character First Slot HP 99999
+[Cheats/Character First Slot HP 99999]
 patch=1,EE,21D95C64,extended,0001869F
 patch=1,EE,21D95C70,extended,0001869F
 
-//Cheats/Character First Slot AP 999
+[Cheats/Character First Slot AP 999]
 patch=1,EE,21D95C68,extended,000003E7 
 patch=1,EE,21D95C74,extended,000003E7
 
-//Cheats/Character First Slot Move 99
+[Cheats/Character First Slot Move 99]
 patch=1,EE,21D95C8C,extended,00000063
 
-//Cheats/Character First Slot Jump 99
+[Cheats/Character First Slot Jump 99]
 patch=1,EE,21D95C90,extended,00000063
 
-//Cheats/Max Status When You Level Up
+[Cheats/Max Status When You Level Up]
 patch=1,EE,20193538,extended,00000000
 patch=1,EE,20193638,extended,2403270F
 patch=1,EE,20193648,extended,240303E7
@@ -60,42 +60,42 @@ patch=1,EE,201936B0,extended,AC830CE0
 patch=1,EE,20193640,extended,AC830CC0
 patch=1,EE,201936B8,extended,03E00008
 
-//Cheats/Ex 999 Press L2+R2 In Battle 1st Character
+[Cheats/Ex 999 Press L2+R2 In Battle 1st Character]
 patch=1,EE,D12F09F0,extended,00000003
 patch=1,EE,21D95C5C,extended,000003E7
 
-//Cheats/Ex 999 Press L2+R2 In Battle 2nd Character
+[Cheats/Ex 999 Press L2+R2 In Battle 2nd Character]
 patch=1,EE,D12F09F0,extended,00000003
 patch=1,EE,21D96F3C,extended,000003E7
 
-//Cheats/Ex 999 Press L2+R2 In Battle 3rd Character
+[Cheats/Ex 999 Press L2+R2 In Battle 3rd Character]
 patch=1,EE,D12F09F0,extended,00000003
 patch=1,EE,21D9821C,extended,000003E7
 
-//Cheats/Ex 999 Press L2+R2 in battle 4th Character
+[Cheats/Ex 999 Press L2+R2 in battle 4th Character]
 patch=1,EE,D12F09F0,extended,00000003
 patch=1,EE,21D994FC,extended,000003E7
 
-//Cheats/Ex 999 Press L2+R2 in battle 5th Character
+[Cheats/Ex 999 Press L2+R2 in battle 5th Character]
 patch=1,EE,D12F09F0,extended,00000003
 patch=1,EE,21D9A7DC,extended,000003E7
 
-//Cheats/Enemies Don't Grow
+[Cheats/Enemies Don't Grow]
 patch=1,EE,201936FC,extended,1000006E
 
-//Cheats/Max Proficiency Level  when attacking If you attack once, all participating members will be maxed out.It will feel like it's frozen, but it's just that the proficiency upgrade process takes a long time.
+[Cheats/Max Proficiency Level  when attacking If you attack once, all participating members will be maxed out.It will feel like it's frozen, but it's just that the proficiency upgrade process takes a long time.]
 patch=1,EE,20226194,extended,10000004
 
-//Cheats/Unlock All Encyclopedia If you look at the last item name in the list for each icon, it will be reflected in the save.They are also lined up in shops
+[Cheats/Unlock All Encyclopedia If you look at the last item name in the list for each icon, it will be reflected in the save.They are also lined up in shops]
 patch=1,EE,201E70F8,extended,2403000F
 patch=1,EE,201E70FC,extended,A0430000
 patch=1,EE,201E7100,extended,2402000F
 
-//Cheats/Unlock All Profile Gallery It may contain event flags, so think carefully before using it.
+[Cheats/Unlock All Profile Gallery It may contain event flags, so think carefully before using it.]
 patch=1,EE,201BBA98,extended,24010001
 patch=1,EE,201BBA9C,extended,AC410000
 
-//Cheats/Unlock All Title If you look at the title, it is complete It may contain event flags, so think carefully before using it.
+[Cheats/Unlock All Title If you look at the title, it is complete It may contain event flags, so think carefully before using it.]
 patch=1,EE,201A961C,extended,00000000
 patch=1,EE,201A98C0,extended,00000000
 patch=1,EE,201A9928,extended,00000000

@@ -1,31 +1,31 @@
-//Cheats/60 FPS Patch
+[Cheats/60 FPS Patch]
 patch=1,EE,20497E20,extended,00000001
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,201D71E0,extended,24020001
 patch=1,EE,201D71E4,extended,AC62D018
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,201997E0,extended,24030001
 patch=1,EE,201997E4,extended,AC43D020
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201D9920,extended,3C014348
 patch=1,EE,201D9924,extended,AC8103D0
 patch=1,EE,101D992A,extended,00001000
 
-//Cheats/Infinite Ammo ALT
+[Cheats/Infinite Ammo ALT]
 patch=1,EE,20198C8C,extended,00000000
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,2019A5A8,extended,00000000
 
-//Cheats/Activate Cheat Infinite Health
+[Cheats/Activate Cheat Infinite Health]
 patch=1,EE,2056D018,extended,00000001
 
-//Cheats/Activate Cheat Infinite Ammo
+[Cheats/Activate Cheat Infinite Ammo]
 patch=1,EE,2056D020,extended,00000001
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,20293630,extended,24080001
 patch=1,EE,20293644,extended,A208000C

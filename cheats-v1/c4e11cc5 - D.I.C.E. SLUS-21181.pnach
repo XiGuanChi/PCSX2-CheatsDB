@@ -1,50 +1,50 @@
-//Cheats/Infinite Metal Chips
+[Cheats/Infinite Metal Chips]
 patch=1,EE,103240AC,extended,0000FFFF
 
-//Cheats/Max Metal Chips
+[Cheats/Max Metal Chips]
 patch=1,EE,203240AC,extended,0098967F
 
-//Cheats/Always Low Time
+[Cheats/Always Low Time]
 patch=1,EE,20324160,extended,00000000
 patch=1,EE,20324164,extended,00000000
 
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,20323D40,extended,447A0000
 
-//Cheats/Never Overheat P1
+[Cheats/Never Overheat P1]
 patch=1,EE,20323D48,extended,00000000
 
-//Cheats/Infinite Power Gauge P1
+[Cheats/Infinite Power Gauge P1]
 patch=1,EE,20323DA8,extended,0000001E
 patch=1,EE,20323DB8,extended,0000001E
 
-//Cheats/Infinite Health P2
+[Cheats/Infinite Health P2]
 patch=1,EE,20323E30,extended,447A0000
 
-//Cheats/Never Overheat P2
+[Cheats/Never Overheat P2]
 patch=1,EE,20323E38,extended,00000000
 
-//Cheats/Infinite Power Gauge P2
+[Cheats/Infinite Power Gauge P2]
 patch=1,EE,20323E98,extended,0000001E
 patch=1,EE,20323EA8,extended,0000001E
 
-//Cheats/Unlock Enable Training
+[Cheats/Unlock Enable Training]
 patch=1,EE,103248E4,extended,00000001
 
-//Cheats/Unlock Enable Garage
+[Cheats/Unlock Enable Garage]
 patch=1,EE,103248E6,extended,00000001
 
-//Cheats/Unlock All Missions
+[Cheats/Unlock All Missions]
 patch=1,EE,40324A80,extended,00080001
 patch=1,EE,00010001,extended,00000000
 
-//Cheats/Infinite Garage Metal Chips
+[Cheats/Infinite Garage Metal Chips]
 patch=1,EE,103248D4,extended,0000FFFF
 
-//Cheats/Max Garage Metal Chips
+[Cheats/Max Garage Metal Chips]
 patch=1,EE,203248D4,extended,0098967F
 
-//Cheats/Unlock All Garage
+[Cheats/Unlock All Garage]
 patch=1,EE,103248D8,extended,00000008
 patch=1,EE,103248DC,extended,00000004
 patch=1,EE,40324900,extended,00030001

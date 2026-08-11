@@ -1,24 +1,24 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20136178,extended,E6000BDC
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,20126F00,extended,460C0001
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2018fb08,extended,00000000
 
-//Cheats/Infinite Items
+[Cheats/Infinite Items]
 patch=1,EE,20190B8C,extended,00000000
 
-//Cheats/Activate In Game Cheat God Mode
+[Cheats/Activate In Game Cheat God Mode]
 patch=1,EE,2013617C,extended,AE010F64
 
-//Cheats/Activate In Game Cheat 1 Hit Kill
+[Cheats/Activate In Game Cheat 1 Hit Kill]
 patch=1,EE,1012eee8,extended,00000003
 patch=1,EE,2012ef08,extended,10000004
 
-//Cheats/Activate In Game Cheat Unlock Extra Options
+[Cheats/Activate In Game Cheat Unlock Extra Options]
 patch=1,EE,20338cec,extended,00000000
 
-//Cheats/Activate In Game Cheat Unlock All Maps
+[Cheats/Activate In Game Cheat Unlock All Maps]
 patch=1,EE,20338d04,extended,00000000

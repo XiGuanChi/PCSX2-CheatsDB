@@ -1,25 +1,25 @@
-//Cheats/Infiite Bombers
+[Cheats/Infiite Bombers]
 patch=1,EE,0029F284,extended,00000006
 patch=1,EE,0029F285,extended,00000006
 
-//Cheats/Clear Stage Suddenly
+[Cheats/Clear Stage Suddenly]
 patch=1,EE,201245A8,extended,00000000
 
-//Cheats/In Boss Battle Press L2 To Clear
+[Cheats/In Boss Battle Press L2 To Clear]
 patch=1,EE,D057CD82,extended,0000FEFF
 patch=1,EE,102962DE,extended,00000001
 
-//Cheats/Hypermeter Goes Up Easily
+[Cheats/Hypermeter Goes Up Easily]
 patch=1,EE,1028E60C,extended,00000000
 
-//Cheats/Number Of Power-ups That Appear When You Die 8
+[Cheats/Number Of Power-ups That Appear When You Die 8]
 patch=1,EE,20144348,extended,24630008
 
-//Cheats/Enemy Bullets Turn Into Stars Press R2
+[Cheats/Enemy Bullets Turn Into Stars Press R2]
 patch=1,EE,D057CD82,extended,0000FDFF
 patch=1,EE,10299764,extended,00000001
 
-//Cheats/Enable Debug Menu Options
+[Cheats/Enable Debug Menu Options]
 patch=1,EE,002714F0,extended,0000000A
 patch=1,EE,002714F2,extended,00000007
 patch=1,EE,002714F3,extended,00000009

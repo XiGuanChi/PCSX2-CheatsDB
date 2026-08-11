@@ -1,16 +1,16 @@
 gametitle=Guitar Hero II SLUS-21447
-//Super Star Power
+[Super Star Power]
 patch=1,EE,2046E6F0,extended,3F800000
 patch=1,EE,2011EF00,extended,C78C0000
 
-//Notes Worth x10
+[Notes Worth x10]
 patch=1,EE,2011F1F8,extended,2442000A
 patch=1,EE,2011F200,extended,2463000A
 
-//nfinite Cash
+[nfinite Cash]
 patch=1,EE,20AAB4C4,extended,05F5E0FF
 
-//All Guitars
+[All Guitars]
 patch=1,EE,10AAEA1E,extended,00000007
 patch=1,EE,10AAEA2E,extended,00000007
 patch=1,EE,10AAEA3E,extended,00000007
@@ -36,7 +36,7 @@ patch=1,EE,10AAEB6E,extended,00000007
 patch=1,EE,10AAEB7E,extended,00000007
 patch=1,EE,10AAEB8E,extended,00000007
 
-//All Finishes
+[All Finishes]
 patch=1,EE,10AAEC5E,extended,00000007
 patch=1,EE,10AAEC6E,extended,00000007
 patch=1,EE,10AAEC7E,extended,00000007

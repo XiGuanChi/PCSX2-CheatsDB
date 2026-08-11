@@ -1,17 +1,17 @@
 gametitle=Resident Evil Outbreak SLES-51589
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20465144,extended,270F270F
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2056DFBC,extended,00000000
 
-//Unlock All Levels One Player Mode
+[Unlock All Levels One Player Mode]
 patch=1,EE,2032d300,extended,FFFFFFFF
 
-//Low Virus Percentage
+[Low Virus Percentage]
 patch=1,EE,204657C4,,extended,00000000
 
-//Collection Complete
+[Collection Complete]
 patch=1,EE,2032D33C,extended,FFFFFFFF
 patch=1,EE,2032D340,extended,FFFFFFFF
 patch=1,EE,2032D344,extended,FFFFFFFF

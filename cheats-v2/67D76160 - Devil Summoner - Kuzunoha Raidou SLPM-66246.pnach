@@ -1,42 +1,42 @@
 gametitle=Devil Summoner - Kuzunoha Raidou SLPM-66246
-//After 1 Battle = Level 99/ 98 Up Points
+[After 1 Battle = Level 99/ 98 Up Points]
 patch=1,EE,10E6415A,extended,00000064
 
-//All items 99
+[All items 99]
 patch=1,EE,40E64290,extended,00500001
 patch=1,EE,00630063,extended,00000000
 
-//Money 9999999
+[Money 9999999]
 patch=1,EE,20E64138,extended,0098967F
 
-//MAG 9999/9999
+[MAG 9999/9999]
 patch=1,EE,10E64130,extended,0000270F
 patch=1,EE,10E64134,extended,0000270F
 
-//Gain Exp 99999
+[Gain Exp 99999]
 patch=1,EE,202A3200,extended,00000064
 patch=1,EE,202A3204,extended,00611818
 
-//Presently HP 999
+[Presently HP 999]
 patch=1,EE,10E6415C,extended,000003E7
 patch=1,EE,10E64160,extended,000003E7
 
-//Power 40
+[Power 40]
 patch=1,EE,00E6416C,extended,00000028
 
-//Resistance 40
+[Resistance 40]
 patch=1,EE,00E6416E,extended,00000028
 
-//Demon 40
+[Demon 40]
 patch=1,EE,00E64170,extended,00000028
 
-//Luck 40
+[Luck 40]
 patch=1,EE,00E64172,extended,00000028
 
-//Demon Charactere 2 :HP 999
+[Demon Charactere 2 :HP 999]
 patch=1,EE,10E64400,extended,000003E7
 patch=1,EE,10E64404,extended,000003E7
 
-//Demon Charactere 2 MP 999
+[Demon Charactere 2 MP 999]
 patch=1,EE,10E64408,extended,000003E7
 patch=1,EE,10E6440C,extended,000003E7

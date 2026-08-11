@@ -1,5 +1,5 @@
 gametitle=Red Faction SLES-50279
-//unendlich Energie + Armor v1
+[unendlich Energie + Armor v1]
 patch=1,EE,200C0000,extended,3C0142C8
 patch=1,EE,200C0004,extended,AE010034
 patch=1,EE,200C0004,extended,AE010038
@@ -7,18 +7,18 @@ patch=1,EE,200C000C,extended,03E00008
 patch=1,EE,200C0010,extended,C6000034
 patch=1,EE,2016937c,extended,0C030000
 
-//unendlich Energie + Armor v2
+[unendlich Energie + Armor v2]
 patch=1,EE,200C0000,extended,3C0142C8
 patch=1,EE,200C0004,extended,AE010034
 patch=1,EE,200C0004,extended,AE010038
 patch=1,EE,200C000C,extended,03E00008
 patch=1,EE,200C0010,extended,C6000034
 patch=1,EE,2016d7e8,extended,0C030000
-//L2 for Inf Ammo (by Codejunkies)
+[L2 for Inf Ammo (by Codejunkies)]
 patch=1,EE,D0AA3742,extended,0000FEFF
 patch=1,EE,20154850,extended,00000000
 
-//L1 for All Weapons(a) Start of game only
+[L1 for All Weapons(a) Start of game only]
 patch=1,EE,D0AA3742,extended,0000FBFF
 patch=1,EE,212173E0,extended,01010101
 patch=1,EE,D0AA3742,extended,0000FBFF
@@ -34,7 +34,7 @@ patch=1,EE,212173F4,extended,01010101
 patch=1,EE,D0AA3742,extended,0000FBFF
 patch=1,EE,212173F8,extended,01010101
 
-//L1 for All Weapons(b) Start of game only
+[L1 for All Weapons(b) Start of game only]
 patch=1,EE,D0AA3742,extended,0000FBFF
 patch=1,EE,212172F4,extended,0000270F
 patch=1,EE,D0AA3742,extended,0000FBFF
@@ -60,13 +60,13 @@ patch=1,EE,2121731C,extended,0000270F
 patch=1,EE,D0AA3742,extended,0000FBFF
 patch=1,EE,21217320,extended,0000270F
 
-//unendlich Ammo v2
+[unendlich Ammo v2]
 patch=1,EE,20154894,extended,24630000
 
-//freeze Ammo
+[freeze Ammo]
 patch=1,EE,20154888,extended,00000000
 
-//Start mit unendlich Granaten
+[Start mit unendlich Granaten]
 patch=1,EE,2016ad80,extended,24100064
 patch=1,EE,2016ad90,extended,AC50027C
 patch=1,EE,2016afcc,extended,2410000B

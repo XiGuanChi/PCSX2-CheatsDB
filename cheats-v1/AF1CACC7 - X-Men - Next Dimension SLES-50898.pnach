@@ -1,23 +1,23 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,102EE0FC,extended,00007530
 
-//Cheats/P1 Can Always Use Super
+[Cheats/P1 Can Always Use Super]
 patch=1,EE,102EE072,extended,00000000
 
-//Cheats/1 Hit Death P2
+[Cheats/1 Hit Death P2]
 patch=1,EE,D02F0A8C,extended,00007530
 patch=1,EE,102F0A8C,extended,00000001
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,402F6648,extended,00030001
 patch=1,EE,000050FF,extended,00000000
 
-//Cheats/Unlock All Movies Need Complete Story Mode Once
+[Cheats/Unlock All Movies Need Complete Story Mode Once]
 patch=1,EE,402F6654,extended,00040001
 patch=1,EE,000050FF,extended,00000000
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,202F6640,extended,FFFFFFFF
 
-//Cheats/Unlock All Stages
+[Cheats/Unlock All Stages]
 patch=1,EE,202F6644,extended,FFFFFFFF

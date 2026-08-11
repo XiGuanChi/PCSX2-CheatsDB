@@ -1,20 +1,20 @@
 gametitle=Dreamworks' Kung Fu Panda SLUS-21757
-//Lots of Coins
+[Lots of Coins]
 patch=1,EE,206A6B20,extended,10000000
 
-//Have Max Panda Techniques
+[Have Max Panda Techniques]
 patch=1,EE,006A6B2B,extended,00000004
 patch=1,EE,006A6B34,extended,00000004
 patch=1,EE,106A6B36,extended,00000404
 patch=1,EE,006A6B39,extended,00000004
 
-//Have Max Basic Stats
+[Have Max Basic Stats]
 patch=1,EE,106A6B28,extended,00000404
 patch=1,EE,006A6B2A,extended,00000004
 patch=1,EE,206A6B2C,extended,04040404
 patch=1,EE,006A6B38,extended,00000004
 
-//Inf HP (its Buged Will fix)
+[Inf HP (its Buged Will fix)]
 patch=1,EE,200A0000,extended,46000D06
 patch=1,EE,200A0004,extended,10E00003
 patch=1,EE,200A000C,extended,3C024395

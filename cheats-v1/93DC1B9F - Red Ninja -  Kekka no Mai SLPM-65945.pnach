@@ -1,67 +1,67 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,D0AD3170,extended,00000001
 patch=1,EE,20AD3194,extended,00000064
 
-//Cheats/Infinite Ninjutsu Gauge
+[Cheats/Infinite Ninjutsu Gauge]
 patch=1,EE,D0AD3170,extended,00000001
 patch=1,EE,20AD31A0,extended,42C80000
 
-//Cheats/Do not Freeze
+[Cheats/Do not Freeze]
 patch=1,EE,D0AD3170,extended,00000001
 patch=1,EE,20AD228C,extended,00000000
 
-//Cheats/Infinite Mind Release
+[Cheats/Infinite Mind Release]
 patch=1,EE,D0AD3170,extended,00000001
 patch=1,EE,20AD2290,extended,3F800000
 
-//Cheats/Ninja Tools And Equipment Possession Hook
+[Cheats/Ninja Tools And Equipment Possession Hook]
 patch=1,EE,209AAC44,extended,00000001
 patch=1,EE,209AAC4C,extended,00000001
 
-//Cheats/99 Medicine
+[Cheats/99 Medicine]
 patch=1,EE,209AAC84,extended,00000001
 patch=1,EE,209AAC8C,extended,00000063
 
-//Cheats/99 Arcanum
+[Cheats/99 Arcanum]
 patch=1,EE,209AACC4,extended,00000001
 patch=1,EE,209AACCC,extended,00000063
 
-//Cheats/99 Wards Not
+[Cheats/99 Wards Not]
 patch=1,EE,209AAD04,extended,00000001
 patch=1,EE,209AAD0C,extended,00000063
 
-//Cheats/99 Blowguns
+[Cheats/99 Blowguns]
 patch=1,EE,209AAD44,extended,00000001
 patch=1,EE,209AAD4C,extended,00000063
 
-//Cheats/99 Smoke Balls
+[Cheats/99 Smoke Balls]
 patch=1,EE,209AAD84,extended,00000001
 patch=1,EE,209AAD8C,extended,00000063
 
-//Cheats/99 Mind Release
+[Cheats/99 Mind Release]
 patch=1,EE,209AADC4,extended,00000001
 patch=1,EE,209AADCC,extended,00000063
 
-//Cheats/99 Propelled Scarlet
+[Cheats/99 Propelled Scarlet]
 patch=1,EE,209AAE04,extended,00000001
 patch=1,EE,209AAE0C,extended,00000063
 
-//Cheats/Unlock Telescope
+[Cheats/Unlock Telescope]
 patch=1,EE,209AAE44,extended,00000001
 patch=1,EE,209AAE4C,extended,00000001
 
-//Cheats/Unlock Amulet
+[Cheats/Unlock Amulet]
 patch=1,EE,209AAE84,extended,00000001
 patch=1,EE,209AAE8C,extended,00000001
 
-//Cheats/Unlock Iron Claw
+[Cheats/Unlock Iron Claw]
 patch=1,EE,209AAEC4,extended,00000001
 patch=1,EE,209AAECC,extended,00000001
 
-//Cheats/Unlock Water Spider
+[Cheats/Unlock Water Spider]
 patch=1,EE,209AAF04,extended,00000001
 patch=1,EE,209AAF0C,extended,00000001
 
-//Cheats/Unlock Ninja Outfit
+[Cheats/Unlock Ninja Outfit]
 patch=1,EE,209AAF44,extended,00000001
 patch=1,EE,209AAF4C,extended,00000001

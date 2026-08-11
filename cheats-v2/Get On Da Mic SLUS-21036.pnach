@@ -1,13 +1,13 @@
 gametitle=Get On Da Mic SLUS-21036
-//Unlock Character Lil Mona 
+[Unlock Character Lil Mona]
 patch=1,EE,204517B0,extended,00000001
 
-//Unlock Character  Old School 
+[Unlock Character  Old School]
 patch=1,EE,20452A30,extended,00000001
 
-//Baby T Codes Max Score 
+[Baby T Codes Max Score]
 patch=1,EE,2044FBF8,extended,05F5E0FF
 
-//Baby T Codes  Start On Last Level 
+[Baby T Codes  Start On Last Level]
 patch=1,EE,D045052C,extended,00000000
 patch=1,EE,2045052C,extended,0000000B

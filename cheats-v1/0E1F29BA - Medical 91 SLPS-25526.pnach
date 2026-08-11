@@ -1,10 +1,10 @@
-//Cheats/Unlock All CG & Game Cleared
+[Cheats/Unlock All CG & Game Cleared]
 patch=1,EE,2024574C,extended,01010101
 patch=1,EE,20245758,extended,FFFFFFFF
 patch=1,EE,2024575C,extended,FFFFFFFF
 patch=1,EE,20245760,extended,FFFFFFFF
 
-//Cheats/New Game = Debug Menu This contains sound tests, image and scene viewers.
+[Cheats/New Game = Debug Menu This contains sound tests, image and scene viewers.]
 patch=1,EE,201F9E10,extended,45443030
 patch=1,EE,201F9E14,extended,2E475542
 patch=1,EE,201F9E18,extended,00524353

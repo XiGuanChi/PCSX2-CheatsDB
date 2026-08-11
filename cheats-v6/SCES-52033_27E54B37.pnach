@@ -1,18 +1,18 @@
 gametitle=Syphon Filter - The Omega Strain PAL-M SCES-52033 27E54B37
 
-//50/60 FPS
+[50/60 FPS]
 author=GamingDragon93
 description=Native 50/60 FPS. Might need EE Overclock (130%).
 patch=1,EE,00175E1C,word,24020032 //24020019
 patch=1,EE,00175E6C,word,2402003c //2402001E
 patch=1,EE,00175E90,word,2402003C //2402001E
 
-//NTSC Mode
+[NTSC Mode]
 author=GamingDragon93
 description=NTSC Mode at start. FMVs are little out of audio sync.
 patch=1,EE,00175E00,word,2C420000 //2C420001
 
-//480p Mode
+[480p Mode]
 author=GamingDragon93
 description=SDTV 480p mode at start. FMVs are little out of audio sync.
 patch=1,EE,00175E00,word,2C420000 //2C420001

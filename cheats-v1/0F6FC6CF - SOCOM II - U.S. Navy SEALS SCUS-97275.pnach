@@ -1,28 +1,28 @@
-//Cheats/Infinite Health You & Your Team
+[Cheats/Infinite Health You & Your Team]
 patch=1,EE,200C0230,extended,3C013F80
 patch=1,EE,200C0234,extended,08090744
 patch=1,EE,200C0238,extended,AE611044
 patch=1,EE,20241D04,extended,0803008C
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,D05BF694,extended,000001D4
 patch=1,EE,205BF6A8,extended,00000000
 
-//Cheats/No Recoil
+[Cheats/No Recoil]
 patch=1,EE,D05C2694,extended,00000830
 patch=1,EE,205C26B4,extended,00000000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,D05C1FDC,extended,000001D4
 patch=1,EE,205C1FEC,extended,00000000
 
-//Cheats/Never Fail
+[Cheats/Never Fail]
 patch=1,EE,20280780,extended,24020001
 
-//Cheats/Always Complete Missions
+[Cheats/Always Complete Missions]
 patch=1,EE,D0280774,extended,000064F8
 patch=1,EE,20280780,extended,24020001
 
-//Cheats/Idiot AI
+[Cheats/Idiot AI]
 patch=1,EE,2060BC40,extended,03E00008
 patch=1,EE,2060BC44,extended,00000000

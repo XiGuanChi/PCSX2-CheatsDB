@@ -1,20 +1,20 @@
 gametitle=Simple 2000 Series Vol.90 - The Oneechanbara 2 SLPS-20444
-//P1 Infinite HP
+[P1 Infinite HP]
 patch=1,EE,202A1314,extended,00002710
 patch=1,EE,202A1318,extended,00002710
 
-//The Sword It Does Not Deteriorate
+[The Sword It Does Not Deteriorate]
 patch=1,EE,202A1324,extended,00000000
 
-//Attack Power Maximum
+[Attack Power Maximum]
 patch=1,EE,202A132C,extended,0001869F
 
-//Second person of physical strength value change
+[Second person of physical strength value change]
 patch=1,EE,202C6C44,extended,00002710
 patch=1,EE,202C6C48,extended,00002710
 
-//The second person of sword does not attenuate
+[The second person of sword does not attenuate]
 patch=1,EE,202C6C54,extended,00000000
 
-//Second person of striking power biggest
+[Second person of striking power biggest]
 patch=1,EE,202C6C5C,extended,0001869F

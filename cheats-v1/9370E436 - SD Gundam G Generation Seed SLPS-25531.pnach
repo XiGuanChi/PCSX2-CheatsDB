@@ -1,41 +1,41 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,00763A05,extended,0000007F
 patch=1,EE,10763A06,extended,00009896
 
-//Cheats/Max Capital After Clearing the Stage
+[Cheats/Max Capital After Clearing the Stage]
 patch=1,EE,203725A0,extended,3C010000
 patch=1,EE,203725A8,extended,34210000
 
-//Cheats/Max Capital
+[Cheats/Max Capital]
 patch=1,EE,20372654,extended,00000000
 
-//Cheats/Max Everyones HP and CP Status save not reflected
+[Cheats/Max Everyones HP and CP Status save not reflected]
 patch=1,EE,20104C34,extended,00C0080A
 patch=1,EE,201086DC,extended,00C0080A
 
-//Cheats/Infinite CP
+[Cheats/Infinite CP]
 patch=1,EE,2011F704,extended,14400001
 
-//Cheats/Max Increase
+[Cheats/Max Increase]
 patch=1,EE,20107984,extended,00BD100B
 
-//Cheats/Max SP Increasee
+[Cheats/Max SP Increasee]
 patch=1,EE,20105138,extended,00A0080A
 
-//Cheats/Enemies Surely Drop Items
+[Cheats/Enemies Surely Drop Items]
 patch=1,EE,20105018,extended,24020000
 patch=1,EE,20105040,extended,24020000
 patch=1,EE,20105090,extended,24020000
 
-//Cheats/Unlock All Option Parts List & Machine Development Diagram List
+[Cheats/Unlock All Option Parts List & Machine Development Diagram List]
 patch=1,EE,20763BE0,extended,FFFFFFFF
 patch=1,EE,20763BE4,extended,FFFFFFFF
 patch=1,EE,10763BE8,extended,0000FFFF
 
-//Cheats/Unlock All Stages cna be Selected
+[Cheats/Unlock All Stages cna be Selected]
 patch=1,EE,40763A14,extended,006E0001
 patch=1,EE,FFFFFFFF,extended,00000100
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,40763958,extended,00270001
 patch=1,EE,FFFFFFFF,extended,00000000

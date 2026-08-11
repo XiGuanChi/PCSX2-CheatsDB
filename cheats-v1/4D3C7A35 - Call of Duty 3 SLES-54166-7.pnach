@@ -1,39 +1,39 @@
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,20104240,extended,0803FFC0
 patch=1,EE,200FFF00,extended,24030001
 patch=1,EE,200FFF04,extended,A2630268
 patch=1,EE,200FFF20,extended,24030002
 patch=1,EE,200FFF1C,extended,08041091
 
-//Cheats/God Mode On Press L1+Up
+[Cheats/God Mode On Press L1+Up]
 patch=1,EE,D051B352,extended,0000FBEF
 patch=1,EE,2010B940,extended,24020001
 
-//Cheats/God Mode Off Press L1+Down
+[Cheats/God Mode Off Press L1+Down]
 patch=1,EE,D051B352,extended,0000FBBF
 patch=1,EE,2010B940,extended,8E0205AC
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,E002907D,extended,00101CD0
 patch=1,EE,20101D54,extended,8E6202FC
 patch=1,EE,20101D58,extended,AE4202F8
 
-//Cheats/Infinite Ammo alt
+[Cheats/Infinite Ammo alt]
 patch=1,EE,D0229764,extended,00001821
 patch=1,EE,20229770,extended,00000000
 
-//Cheats/Infinite ammo
+[Cheats/Infinite ammo]
 patch=1,EE,2022976c,extended,00000000
 
-//Cheats/Infinite grenades
+[Cheats/Infinite grenades]
 patch=1,EE,202297f4,extended,00000000
 
-//Cheats/Unlock All Chapters Open
+[Cheats/Unlock All Chapters Open]
 patch=1,EE,0049C9C4,extended,0000000E
 
-//Cheats/Unlock Movies, Characters, Weapons & Vehicles
+[Cheats/Unlock Movies, Characters, Weapons & Vehicles]
 patch=1,EE,2049C9D4,extended,00000001
 
-//Cheats/Unlock All Chapters and Bonus Materials
+[Cheats/Unlock All Chapters and Bonus Materials]
 patch=1,EE,D0100288,extended,0000F7F7
 patch=1,EE,2049C994,extended,0000000E

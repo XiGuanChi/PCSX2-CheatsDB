@@ -1,14 +1,14 @@
 gametitle=The King of Fighters - Maximum Impact SLPS-25386
-//Infinite Health P1 
+[Infinite Health P1]
 patch=1,EE,205ECB3C,extended,00C800C8
 
-//1P Garto gauge maximum
+[1P Garto gauge maximum]
 patch=1,EE,105ECB42,extended,00006464
 
-//1P Power gauge maximum
+[1P Power gauge maximum]
 patch=1,EE,005ECB44,extended,00000003
 
-//All characters can be used in all colors (PS2PAR Ver1.6 or later only)
+[All characters can be used in all colors (PS2PAR Ver1.6 or later only)]
 patch=1,EE,4067E918,extended,00140014
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,4067E92C,extended,00140014

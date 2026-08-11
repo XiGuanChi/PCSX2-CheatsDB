@@ -1,5 +1,5 @@
 gametitle=Dragon Ball Z - Budokai Tenkaichi SLES-53200
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200FFF00,extended,14150003
 patch=1,EE,200FFF0C,extended,A6610000
 patch=1,EE,200FFF08,extended,3401FFFF
@@ -7,33 +7,33 @@ patch=1,EE,200FFF18,extended,080E8593
 patch=1,EE,D03A164C,extended,46000D03
 patch=1,EE,203A1644,extended,0803FFC0
 
-//Instant Win (Enemy Has No Health)
+[Instant Win (Enemy Has No Health)]
 patch=1,EE,200FFF00,extended,10150003
 patch=1,EE,200FFF0C,extended,A6600000
 patch=1,EE,200FFF18,extended,080E8593
 patch=1,EE,D03A164C,extended,46000D03
 patch=1,EE,203A1644,extended,0803FFC0
 
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,2182610c,extended,000186a0
 
-//Infinite Ki P1
+[Infinite Ki P1]
 patch=1,EE,21826118,extended,000186a0
 
-//All Dragon Balls
+[All Dragon Balls]
 patch=1,EE,205641ec,extended,03e70003
 
-//Unlock all 90 characters
+[Unlock all 90 characters]
 patch=1,EE,405641f0,extended,005a0001
 patch=1,EE,03e703e7,extended,00000000
 
-//all items
+[all items]
 patch=1,EE,40563fa4,extended,00c30001
 patch=1,EE,03e70003,extended,00000000
 
-//Unlock character images
+[Unlock character images]
 patch=1,EE,205643dc,extended,00010003
 
-//999 Victory points all characters
+[999 Victory points all characters]
 patch=1,EE,40563700,extended,005a0001
 patch=1,EE,000003e7,extended,00000000

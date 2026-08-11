@@ -1,15 +1,15 @@
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,4028205C,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10282074,extended,0000FFFF
 patch=1,EE,00282076,extended,000000FF
 
-//Cheats/Unlock All Music
+[Cheats/Unlock All Music]
 patch=1,EE,2028209C,extended,FFFFFFFF
 
-//Cheats/Quit Game = Test Menu
+[Cheats/Quit Game = Test Menu]
 patch=1,EE,201639A0,extended,0806871C
 
-//Cheats/Main Menu = Test Menu After logos
+[Cheats/Main Menu = Test Menu After logos]
 patch=1,EE,00163018,extended,0000001A
 patch=1,EE,10163020,extended,00001C70

@@ -1,47 +1,47 @@
-//Cheats/Infinite Gold
+[Cheats/Infinite Gold]
 patch=1,EE,D01280FC,extended,00002823
 patch=1,EE,201280FC,extended,20050000
 
-//Cheats/Invulnerability
+[Cheats/Invulnerability]
 patch=1,EE,2078cbc0,extended,081e3bdb
 
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,205FF530,extended,0060100A
 patch=1,EE,205FF4F0,extended,0060100A
 
-//Cheats/1000 Etheria Per Pick Up
+[Cheats/1000 Etheria Per Pick Up]
 patch=1,EE,205DC600,extended,246303E8
 patch=1,EE,205DC5F0,extended,246303E8
 patch=1,EE,205DC5E0,extended,246303E8
 
-//Cheats/Max Energy All Characters
+[Cheats/Max Energy All Characters]
 patch=1,EE,2078dad0,extended,64040018
 
-//Cheats/Team Attack Fills Faster
+[Cheats/Team Attack Fills Faster]
 patch=1,EE,209dc358,extended,42000000
 
-//Cheats/Infinite Team Attack Lv2
+[Cheats/Infinite Team Attack Lv2]
 patch=1,EE,205dd404,extended,24030003
 patch=1,EE,205dd20c,extended,17e0007d
 
-//Cheats/Infinite Team Attack Lv1 is Available
+[Cheats/Infinite Team Attack Lv1 is Available]
 patch=1,EE,205dd404,extended,24030002
 patch=1,EE,205dd20c,extended,17e0007d
 
-//Cheats/Infinite Super Level 2
+[Cheats/Infinite Super Level 2]
 patch=1,EE,015f81f4,extended,00000002
 
-//Cheats/Infinite Super Level 3
+[Cheats/Infinite Super Level 3]
 patch=1,EE,015f81f4,extended,00000003
 
-//Cheats/Unlock Most Faces And Costumes
+[Cheats/Unlock Most Faces And Costumes]
 patch=1,EE,20272680,extended,FFFFFFFF
 patch=1,EE,20272684,extended,FFFFFFFF
 patch=1,EE,20272688,extended,FFFFFFFF
 patch=1,EE,2027268C,extended,FFFFFFFF
 
-//Cheats/Unlock Geisha And Finish Training
+[Cheats/Unlock Geisha And Finish Training]
 patch=1,EE,2024613C,extended,00000001
 
-//Cheats/Unlock Extra Time Attack Stage
+[Cheats/Unlock Extra Time Attack Stage]
 patch=1,EE,202736D4,extended,01010101

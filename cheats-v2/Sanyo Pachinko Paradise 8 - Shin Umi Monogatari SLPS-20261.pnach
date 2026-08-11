@@ -1,8 +1,8 @@
 gametitle=Sanyo Pachinko Paradise 8 - Shin Umi Monogatari SLPS-20261
-//Max balls 
+[Max balls]
 patch=1,EE,20144080,extended,00000000
 
-//Hold START at Press Start Screen for Debug Menu 
+[Hold START at Press Start Screen for Debug Menu]
 patch=1,EE,D0702C02,extended,0000FFF7
 patch=1,EE,00116B08,extended,0000000C
 patch=1,EE,D0702C02,extended,0000FFFF

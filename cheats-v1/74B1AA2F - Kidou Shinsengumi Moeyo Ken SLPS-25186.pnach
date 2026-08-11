@@ -1,7 +1,7 @@
-//Cheats/Max Money 50000
+[Cheats/Max Money 50000]
 patch=1,EE,2113424C,extended,0000C350
 
-//Cheats/All Characters Max Level
+[Cheats/All Characters Max Level]
 patch=1,EE,21134300,extended,000F423F
 patch=1,EE,21134368,extended,000F423F
 patch=1,EE,211343D0,extended,000F423F
@@ -9,7 +9,7 @@ patch=1,EE,21134438,extended,000F423F
 patch=1,EE,211344A0,extended,000F423F
 patch=1,EE,21134508,extended,000F423F
 
-//Cheats/Ryunosuke Sakamoto Max Stats
+[Cheats/Ryunosuke Sakamoto Max Stats]
 patch=1,EE,1113429E,extended,000003E7
 patch=1,EE,111342A0,extended,000003E7
 patch=1,EE,111342AE,extended,000003E7
@@ -17,7 +17,7 @@ patch=1,EE,111342B0,extended,000003E7
 patch=1,EE,111342B4,extended,000003E7
 patch=1,EE,111342B6,extended,000003E7
 
-//Cheats/All Items 99
+[Cheats/All Items 99]
 patch=1,EE,211340A4,extended,63636300
 patch=1,EE,411340A8,extended,001E0001
 patch=1,EE,63636363,extended,00000000

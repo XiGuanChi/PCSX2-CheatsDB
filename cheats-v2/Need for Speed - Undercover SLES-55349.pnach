@@ -1,18 +1,18 @@
 gametitle=Need for Speed - Undercover SLES-55349
-//Max Cash After Buying A Car/Part
+[Max Cash After Buying A Car/Part]
 patch=1,EE,201ACAF0,extended,3C0205F0
 
-//All Open
+[All Open]
 patch=1,EE,00690794,extended,00000001
 
-//Disable All AI
+[Disable All AI]
 patch=1,EE,20148E7C,extended,1000000D
 
-//Idiot Racer AI
+[Idiot Racer AI]
 patch=1,EE,20150220,extended,24020000
 
-//Idiot Cop Pursuit AI
+[Idiot Cop Pursuit AI]
 patch=1,EE,201509F0,extended,24020000
 
-//Infinite Nitrous
+[Infinite Nitrous]
 patch=1,EE,20416268,extended,00000000

@@ -1,33 +1,33 @@
 gametitle=Final Fantasy X SCES-50492
-//Full hp Tidus
+[Full hp Tidus]
 patch=1,EE,1031EAB8,extended,0000270F
 
-//Full mp Tidus
+[Full mp Tidus]
 patch=1,EE,1031EABC,extended,000003E7
 
-//Max hpTidus
+[Max hpTidus]
 patch=1,EE,1031EAC0,extended,0000270F
 
-//Max mpTidus
+[Max mpTidus]
 patch=1,EE,1031EAC4,extended,000003E7
 
-//Alle Charaktere haben 999.999 HP
+[Alle Charaktere haben 999.999 HP]
 patch=1,EE,4031EAB8,extended,00070025
 patch=1,EE,000F423F,extended,DEADC0DE
 
-//Alle Charaktere haben Max.999.999 HP
+[Alle Charaktere haben Max.999.999 HP]
 patch=1,EE,4031EAC0,extended,00070025
 patch=1,EE,000F423F,extended,DEADC0DE
 
-//Alle Charaktere haben 99.999 MP
+[Alle Charaktere haben 99.999 MP]
 patch=1,EE,4031EABC,extended,00070025
 patch=1,EE,0001869F,extended,DEADC0DE
 
-//Alle Charaktere haben Max.99.999 MP
+[Alle Charaktere haben Max.99.999 MP]
 patch=1,EE,4031EAC4,extended,00070025
 patch=1,EE,0001869F,extended,DEADC0DE
 
-//ab alle Magien und Techniken mit allen Charakteren
+[ab alle Magien und Techniken mit allen Charakteren]
 patch=1,EE,4031EAD8,extended,00070025
 patch=1,EE,FFFF0000,extended,FADEABBA
 patch=1,EE,4031EADC,extended,00070025
@@ -37,6 +37,6 @@ patch=1,EE,FFFFFFFF,extended,FADEABBA
 patch=1,EE,4031EAE4,extended,00070025
 patch=1,EE,0000FFFF,extended,FADEABBA
 
-//Alle Charaktere haben Sphere Level 99
+[Alle Charaktere haben Sphere Level 99]
 patch=1,EE,4031EAD4,extended,00070025
 patch=1,EE,63000000,extended,DEADFACE

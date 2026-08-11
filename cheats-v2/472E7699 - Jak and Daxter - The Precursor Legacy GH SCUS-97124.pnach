@@ -1,13 +1,13 @@
 gametitle=Jak and Daxter - The Precursor Legacy GH SCUS-97124
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20182860,extended,41000000
 
-//Max Precursor Orbs (Current)
+[Max Precursor Orbs (Current)]
 patch=1,EE,20642D14,extended,4479C000
 
-//Max Power Cells (Current)
+[Max Power Cells (Current)]
 patch=1,EE,20642D60,extended,41A00000
 
-//Access All Level Stats
+[Access All Level Stats]
 patch=1,EE,40642D74,extended,00040001
 patch=1,EE,01010101,extended,00000000

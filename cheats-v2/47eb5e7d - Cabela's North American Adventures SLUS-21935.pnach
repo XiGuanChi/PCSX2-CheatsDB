@@ -1,24 +1,24 @@
 gametitle=Cabela's North American Adventures SLUS-21935
-//God Mode
+[God Mode]
 patch=1,EE,007862b8,extended,00000001
 
-//Freeze All Animals**supposily this code didn't work for my tester, this should freeze the deer
+[Freeze All Animals**supposily this code didn't work for my tester, this should freeze the deer]
 patch=1,EE,007bb368,extended,00000001
 
-//Stealthy
+[Stealthy]
 patch=1,EE,0079c640,extended,00000001
 
-//Never Reload
+[Never Reload]
 patch=1,EE,2049fec0,extended,24420000
 
-//Unlock All Career Levels
+[Unlock All Career Levels]
 patch=1,EE,007975B0,extended,0000000A
 
-//Unlock All Shooting Galleries
+[Unlock All Shooting Galleries]
 patch=1,EE,007975B8,extended,00000001
 patch=1,EE,007975C0,extended,00000003
 
-//Quick Score Gain/No Point Loss
+[Quick Score Gain/No Point Loss]
 patch=1,EE,200A0000,extended,8C830000
 patch=1,EE,200A0004,extended,2411270F
 patch=1,EE,200A0008,extended,0814C9C3

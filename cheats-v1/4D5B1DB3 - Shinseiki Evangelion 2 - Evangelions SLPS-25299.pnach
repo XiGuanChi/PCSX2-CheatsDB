@@ -1,33 +1,33 @@
-//Cheats/Max Money 9999999
+[Cheats/Max Money 9999999]
 patch=1,EE,01657E0,extended,0082182A
 
-//Cheats/Shinji Infinite Health
+[Cheats/Shinji Infinite Health]
 patch=1,EE,20333EAC,extended,00000064
 patch=1,EE,20333EB0,extended,00000064
 patch=1,EE,20333EB4,extended,00000064
 patch=1,EE,20333EB8,extended,00000064
 patch=1,EE,20333EBC,extended,00000064
 
-//Cheats/Information technical skill 99
+[Cheats/Information technical skill 99]
 patch=1,EE,20333EF4,extended,00000063
 
-//Cheats/White soldier technical skill 99
+[Cheats/White soldier technical skill 99]
 patch=1,EE,20333EF8,extended,00000063
 
-//Cheats/Max Skill
+[Cheats/Max Skill]
 patch=1,EE,2016591C,extended,28850000
 
-//Cheats/Unlock all Scenario
+[Cheats/Unlock all Scenario]
 patch=1,EE,20333A3C,extended,FFFFFFFF
 
-//Cheats/Debug Menu At Boot First debug menu at boot. Contains miscellaneous test modes, such as sound and network related options.
+[Cheats/Debug Menu At Boot First debug menu at boot. Contains miscellaneous test modes, such as sound and network related options.]
 patch=1,EE,001D3914,extended,00000003
 
-//Cheats/Debug Menu At Boot Second debug menu at boot. Contains event viewing options. Pressing X will yield more options to choose from.
+[Cheats/Debug Menu At Boot Second debug menu at boot. Contains event viewing options. Pressing X will yield more options to choose from.]
 patch=1,EE,001D3914,extended,00000004
 
-//Cheats/Debug Menu At Boot Third debug menu at boot. This contains model and graphic viewers. Some options do not work here and or crash the game
+[Cheats/Debug Menu At Boot Third debug menu at boot. This contains model and graphic viewers. Some options do not work here and or crash the game]
 patch=1,EE,001D3914,extended,00000005
 
-//Cheats/Debug Menu At Boot Fourth debug menu at boot. This one contains battle test options. It also enables debug info on screen.
+[Cheats/Debug Menu At Boot Fourth debug menu at boot. This one contains battle test options. It also enables debug info on screen.]
 patch=1,EE,001D3914,extended,00000008

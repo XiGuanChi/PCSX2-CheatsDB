@@ -1,9 +1,9 @@
 gametitle=Made Man - Confessions of the Family Blood SLES-54443
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201BE4D4,extended,3C01443F
 patch=1,EE,201BE4D8,extended,AE81120C
 patch=1,EE,201BE55C,extended,3C013F80
 patch=1,EE,201BE564,extended,44812000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201A1F58,extended,00000000

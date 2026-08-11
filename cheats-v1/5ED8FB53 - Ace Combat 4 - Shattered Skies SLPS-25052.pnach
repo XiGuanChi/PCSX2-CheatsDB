@@ -1,7 +1,7 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,202A0C30,extended,05F5E0FF
 
-//Cheats/Unlock All Aircrafts
+[Cheats/Unlock All Aircrafts]
 patch=1,EE,202A0220,extended,FFFFFFFF
 patch=1,EE,102A0224,extended,000003FF
 patch=1,EE,202A0228,extended,FFFFFFFF
@@ -9,11 +9,11 @@ patch=1,EE,102A022C,extended,000003FF
 patch=1,EE,202A0230,extended,FFFFFFFF
 patch=1,EE,102A0234,extended,000003FF
 
-//Cheats/Unlock All Special Weapons
+[Cheats/Unlock All Special Weapons]
 patch=1,EE,202A0240,extended,FFFFFFFF
 patch=1,EE,102A0244,extended,000003FF
 patch=1,EE,202A0248,extended,3CF0F300
 patch=1,EE,102A024C,extended,0000030C
 
-//Cheats/Unlock All Hidden Elements
+[Cheats/Unlock All Hidden Elements]
 patch=1,EE,002A0218,extended,000000FF

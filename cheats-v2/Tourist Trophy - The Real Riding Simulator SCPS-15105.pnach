@@ -1,12 +1,12 @@
 gametitle=Tourist Trophy - The Real Riding Simulator SCPS-15105
-//Speed 8X
+[Speed 8X]
 patch=1,EE,202F188C,extended,3C014100
 
-//CPU Doesn't Move (Select+Left)
+[CPU Doesn't Move (Select+Left)]
 patch=1,EE,D058AC24,extended,0000FF7E
 patch=1,EE,202ED210,extended,24020000
 patch=1,EE,D058AC24,extended,0000FFDE
 patch=1,EE,202ED210,extended,1440FFF9
 
-//Low Time
+[Low Time]
 patch=1,EE,102F6B14,extended,00000001

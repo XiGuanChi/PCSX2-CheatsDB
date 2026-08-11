@@ -1,58 +1,58 @@
 gametitle=Pop'n Music 10 SLPM-65770
-//Pressing SELECT + L2 collection tank maximum after maximum
+[Pressing SELECT + L2 collection tank maximum after maximum]
 patch=1,EE,D0C23002,extended,0000FEFE
-//2017 C628 14000002
+[2017 C628 14000002]
 
-//All elements appearance
+[All elements appearance]
 patch=1,EE,20C65714,extended,FFFFFFFF
 patch=1,EE,20C65718,extended,FFFFFFFF
 patch=1,EE,20C6571C,extended,FFFFFFFF
 
-//Automatic play * (1P) with the SELECT+L2 button automatic play, (1P) it cancels with the SELECT+R2 button
+[Automatic play * (1P) with the SELECT+L2 button automatic play, (1P) it cancels with the SELECT+R2 button]
 patch=1,EE,D0C23002,extended,0000FEFE
 patch=1,EE,2017FF08,extended,24030001
 patch=1,EE,D0C23002,extended,0000FDFE
 patch=1,EE,2017FF08,extended,8F838A20
 
-//With each tune 1 clearing play frequency maximum
+[With each tune 1 clearing play frequency maximum]
 patch=1,EE,2016809C,extended,240203E7
 
-//When the arcade, groove gauge it fluctuates, maximum
+[When the arcade, groove gauge it fluctuates, maximum]
 patch=1,EE,2017CA00,extended,00000000
 
-//Arcade, groove gauge maximum
+[Arcade, groove gauge maximum]
 patch=1,EE,20206600,extended,000003FF
 
-//Marathon addition (saving not yet reflection)
+[Marathon addition (saving not yet reflection)]
 patch=1,EE,20160460,extended,10000013
 
-//Play time maximum
+[Play time maximum]
 patch=1,EE,20C65728,extended,30000000
 
-//OMAKE gallery full opening
+[OMAKE gallery full opening]
 patch=1,EE,20C65714,extended,FFFFFFFF
 patch=1,EE,20C65718,extended,FFFFFFFF
 patch=1,EE,20C6571C,extended,FFFFFFFF
 
-//Secret 98% rescindment
+[Secret 98% rescindment]
 patch=1,EE,20C65728,extended,30000000
 patch=1,EE,00C657D0,extended,000000FF
 
-//All the tune play frequency maximum
+[All the tune play frequency maximum]
 patch=1,EE,20160460,extended,240103E7
 patch=1,EE,2016046C,extended,A54114D0
 patch=1,EE,20160478,extended,1000000D
 patch=1,EE,201604B4,extended,298301A8
 patch=1,EE,201604C0,extended,254A000C
 
-//All the tune clearing being completed
+[All the tune clearing being completed]
 patch=1,EE,20160464,extended,24030007
 patch=1,EE,20160468,extended,A54314D4
 
-//All the tune high-speed steel core 100000 points
+[All the tune high-speed steel core 100000 points]
 patch=1,EE,20160470,extended,3C030001
 patch=1,EE,20160474,extended,346386A0
 patch=1,EE,2016047C,extended,AD4314CC
 
-//Automatic play
+[Automatic play]
 patch=1,EE,2017FF08,extended,24030001

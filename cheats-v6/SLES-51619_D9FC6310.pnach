@@ -1,27 +1,27 @@
 gametitle=Clock Tower 3 SLES-51619 D9FC6310
 
-//Infinite Holy Water
+[Infinite Holy Water]
 author=GamingDragon93
 patch=1,EE,21943B08,extended,00000008
 
-//Timer Stop
+[Timer Stop]
 author=GamingDragon93
 patch=1,EE,218F2A10,extended,03E00008
 patch=1,EE,218F2A14,extended,00000000
 
-//Always Empty Panic Meter
+[Always Empty Panic Meter]
 author=GamingDragon93
 patch=1,EE,219436F4,extended,00000000
 
-//Infinite Health (Boss Battle)
+[Infinite Health (Boss Battle)]
 author=GamingDragon93
 patch=1,EE,21A57C24,extended,00000320
 
-//Instant Boss Death (Boss Battles)
+[Instant Boss Death (Boss Battles)]
 author=GamingDragon93
 patch=1,EE,2187075C,extended,24020001
 
-//Unlock Theater(Save + Reload the Game)
+[Unlock Theater(Save + Reload the Game)]
 author=GamingDragon93
 patch=1,EE,D1942270,extended,00000000
 patch=1,EE,21942270,extended,00000001

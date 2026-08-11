@@ -1,14 +1,14 @@
-//Cheats/Start On 10th Lap
+[Cheats/Start On 10th Lap]
 patch=1,EE,D094E774,extended,00000001
 patch=1,EE,1094E774,extended,0000000A
 patch=1,EE,D0955DB4,extended,00000001
 patch=1,EE,10955DB4,extended,0000000A
 
-//Cheats/Instant Win 11 Lap Race
+[Cheats/Instant Win 11 Lap Race]
 patch=1,EE,1094E774,extended,0000000B
 patch=1,EE,10955DB4,extended,0000000B
 
-//Cheats/Instant Win 19 Lap Race
+[Cheats/Instant Win 19 Lap Race]
 patch=1,EE,1094E774,extended,00000013
 patch=1,EE,10955DB4,extended,00000013
 

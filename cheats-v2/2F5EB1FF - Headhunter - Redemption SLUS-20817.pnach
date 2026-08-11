@@ -1,21 +1,21 @@
 gametitle=Headhunter - Redemption SLUS-20817
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,3C014400
 patch=1,EE,200C0224,extended,AE010038
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C6020038
 patch=1,EE,201CDE80,extended,0C030088
 
-// infinite Ammo
+[infinite Ammo]
 patch=1,EE,202364F0,extended,240403E7
 
-//Invulnerable Always On
+[Invulnerable Always On]
 patch=1,EE,00494D1D,extended,00000001
 
-//Debug Mode (Hold Select)
+[Debug Mode (Hold Select)]
 patch=1,EE,0043B8C8,extended,00000001
 
-//Unlock All Artwork & Video/Sound Clips
+[Unlock All Artwork & Video/Sound Clips]
 patch=1,EE,200C0230,extended,2401000E
 patch=1,EE,200C0230,extended,A0410018
 patch=1,EE,200C0230,extended,03E00008

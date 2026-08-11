@@ -1,39 +1,39 @@
-//Cheats/Infinite Health Player 1
+[Cheats/Infinite Health Player 1]
 patch=1,EE,202B4568,extended,432C0000
 patch=1,EE,202B456C,extended,432C0000
 
-//Cheats/Infinite Health Player 2
+[Cheats/Infinite Health Player 2]
 patch=1,EE,202C56F8,extended,432C0000
 patch=1,EE,202C56FC,extended,432C0000
 
-//Cheats/No Health Player 2
+[Cheats/No Health Player 2]
 patch=1,EE,202C56F8,extended,432C0000
 patch=1,EE,202C56FC,extended,00000000
 
-//Cheats/Infinite Health Player 3
+[Cheats/Infinite Health Player 3]
 patch=1,EE,202D6888,extended,432C0000
 patch=1,EE,202D688C,extended,432C0000
 
-//Cheats/No Health Player 3
+[Cheats/No Health Player 3]
 patch=1,EE,202D6888,extended,432C0000
 patch=1,EE,202D688C,extended,00000000
 
-//Cheats/Infinite Health Player 4
+[Cheats/Infinite Health Player 4]
 patch=1,EE,202E7A18,extended,432C0000
 patch=1,EE,202E7A1C,extended,432C0000
 
-//Cheats/No Health Player 4
+[Cheats/No Health Player 4]
 patch=1,EE,202E7A18,extended,432C0000
 patch=1,EE,202E7A1C,extended,00000000
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,402A1EB4,extended,0028000B
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,402A2594,extended,0004000B
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Minigames
+[Cheats/Unlock All Minigames]
 patch=1,EE,402A2644,extended,0003000B
 patch=1,EE,00000001,extended,00000000

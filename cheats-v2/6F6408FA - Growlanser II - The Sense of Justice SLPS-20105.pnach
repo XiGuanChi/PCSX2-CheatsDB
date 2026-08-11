@@ -1,19 +1,19 @@
 gametitle=Growlanser II - The Sense of Justice SLPS-20105
-//Always 999999 Elm in the battle after the end of available funds
+[Always 999999 Elm in the battle after the end of available funds]
 patch=1,EE,203C7568,extended,000F423F
 
-//Level up to experience value acquisition
-//hero
+[Level up to experience value acquisition]
+[hero]
 patch=1,EE,D03B6B38,extended,00000001
 patch=1,EE,003BF653,extended,00000063
 
-//2 person
+[2 person]
 patch=1,EE,D03B6B38,extended,00000001
 patch=1,EE,003BF657,extended,00000063
 
-//Third person
+[Third person]
 patch=1,EE,D03B6B38,extended,00000001
 patch=1,EE,003BF65B,extended,00000063
 
-//4th
+[4th]
 patch=1,EE,D03B6B38,extended,00000001

@@ -1,24 +1,24 @@
 gametitle=Frogger - The Great Quest SLES-50788
-//Invulnerable Frogger
+[Invulnerable Frogger]
 patch=1,EE,00202590,extended,00000001
 
-//Max Amethyst Value
+[Max Amethyst Value]
 patch=1,EE,00222966,extended,000000FF
 
-//Max Copper Coins Value 
+[Max Copper Coins Value]
 patch=1,EE,1022296C,extended,000003E8
 
-//Max Diamond Value
+[Max Diamond Value]
 patch=1,EE,10222960,extended,000003E8
 
-//Max Gold Coins Value
+[Max Gold Coins Value]
 patch=1,EE,10222968,extended,000003E8
 
-//Max Ruby Value
+[Max Ruby Value]
 patch=1,EE,10222964,extended,000003E8
 
-//Max Sapphire Value 
+[Max Sapphire Value]
 patch=1,EE,00222962,extended,000000FF
 
-//Max Silver Coins Value
+[Max Silver Coins Value]
 patch=1,EE,1022296A,extended,000003E8

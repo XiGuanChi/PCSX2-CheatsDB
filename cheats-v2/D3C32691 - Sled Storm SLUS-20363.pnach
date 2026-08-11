@@ -1,8 +1,8 @@
 gametitle=Sled Storm SLUS-20363
-//Max Points
+[Max Points]
 patch=1,EE,20B0C2B0,extended,0098967F
 
-//Start On Last Lap
+[Start On Last Lap]
 patch=1,EE,200C0220,extended,8C820028
 patch=1,EE,200C0224,extended,14400003
 patch=1,EE,200C0228,extended,00000000
@@ -12,18 +12,18 @@ patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,00000000
 patch=1,EE,2019993C,extended,0C030088
 
-//Have All Characters
+[Have All Characters]
 patch=1,EE,20B0CD40,extended,01010101
 patch=1,EE,20B0CD44,extended,01010101
 patch=1,EE,00B0CD48,extended,00000001
 
-//Have All Single Player Levels
+[Have All Single Player Levels]
 patch=1,EE,00B0CD49,extended,00000001
 patch=1,EE,10B0CD4A,extended,00000101
 patch=1,EE,10B0CD4C,extended,00000101
 patch=1,EE,00B0CD4E,extended,00000001
 
-//Have All Gold Medals
+[Have All Gold Medals]
 patch=1,EE,00B0D087,extended,00000001
 patch=1,EE,40B0D088,extended,000C0001
 patch=1,EE,01010101,extended,00000000

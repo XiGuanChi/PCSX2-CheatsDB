@@ -1,19 +1,19 @@
 gametitle=Battlestar Galactica	SLES-51702
-//All Code Unlockables
+[All Code Unlockables]
 patch=1,EE,2019D810,extended,24030001
 patch=1,EE,2019D814,extended,A0430000
 
-//All Extras
+[All Extras]
 patch=1,EE,0031C944,extended,00000001
 
-//Enable Cheats in Cheat Menu - Enable Invincibility
+[Enable Cheats in Cheat Menu - Enable Invincibility]
 patch=1,EE,0031C947,extended,00000001
 
-//Enable Cheats in Cheat Menu - Enable Missiles Maxed Out
+[Enable Cheats in Cheat Menu - Enable Missiles Maxed Out]
 patch=1,EE,0031C948,extended,00000001
 
-//Enable Cheats in Cheat Menu - Enable Wingmen Options
+[Enable Cheats in Cheat Menu - Enable Wingmen Options]
 patch=1,EE,0031C94A,extended,00000001
 
-//Enable Cheats in Cheat Menu - Infinite Missiles
+[Enable Cheats in Cheat Menu - Infinite Missiles]
 patch=1,EE,201A91DC,extended,AC410014

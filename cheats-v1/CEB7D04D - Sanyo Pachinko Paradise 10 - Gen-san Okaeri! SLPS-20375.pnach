@@ -1,11 +1,11 @@
-//Cheats/Full Patchoul Cloud
+[Cheats/Full Patchoul Cloud]
 patch=1,EE,10317BE4,extended,000003E7
 
-//Cheats/Unlock All Secrets
+[Cheats/Unlock All Secrets]
 patch=1,EE,402D2038,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock Secret Menu and Options
+[Cheats/Unlock Secret Menu and Options]
 patch=1,EE,202D2038,extended,FFFFFFFF
 patch=1,EE,202D203C,extended,FFFFFFFF
 patch=1,EE,202D2048,extended,FFFFFFFF

@@ -1,19 +1,19 @@
-//Cheats/All Characters Cleared 99 Times
+[Cheats/All Characters Cleared 99 Times]
 patch=1,EE,204641EC,extended,63636363
 patch=1,EE,204641F0,extended,63636363
 patch=1,EE,004641F4,extended,00000063
 
-//Cheats/Unlock All CG Gallery
+[Cheats/Unlock All CG Gallery]
 patch=1,EE,40464228,extended,00230001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,104642B4,extended,00000101
 
-//Cheats/Unlock All CG by Browsing the Album
+[Cheats/Unlock All CG by Browsing the Album]
 patch=1,EE,2011870C,extended,24020001
 patch=1,EE,20118710,extended,1000FF1F
 patch=1,EE,20118714,extended,A1E200B0
 
-//Cheats/Enable Debug Menu while at the main menu, press L3 + R3  then select the menu option Album
+[Cheats/Enable Debug Menu while at the main menu, press L3 + R3  then select the menu option Album]
 patch=1,EE,D0160202,extended,0000FFF9
 patch=1,EE,2047F854,extended,706D756A
 patch=1,EE,D0160202,extended,0000FFF9

@@ -1,17 +1,17 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,202BDEC8,extended,00000960
 
-//Cheats/Infinite Muscle P1
+[Cheats/Infinite Muscle P1]
 patch=1,EE,202BDEE0,extended,46000000
 
-//Cheats/One Hit Death P2
+[Cheats/One Hit Death P2]
 patch=1,EE,D02BE9E0,extended,00300001
 patch=1,EE,202BE9E0,extended,00000001
 
-//Cheats/Unlock All Toys
+[Cheats/Unlock All Toys]
 patch=1,EE,402B1720,extended,00990001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Wrestlers
+[Cheats/Unlock All Wrestlers]
 patch=1,EE,402B2148,extended,001C0001
 patch=1,EE,00000001,extended,00000000

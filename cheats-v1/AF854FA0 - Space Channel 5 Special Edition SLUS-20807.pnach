@@ -1,13 +1,13 @@
-//Cheats/Space Channel 5 Part 2 Infinite Hearts
+[Cheats/Space Channel 5 Part 2 Infinite Hearts]
 patch=1,EE,20100634,extended,00000000
 patch=1,EE,201545EC,extended,00000000
 patch=1,EE,201545B8,extended,00000000
 patch=1,EE,20159B10,extended,00000000
 
-//Cheats/Space Channel 5 Part 2 Max Rating
+[Cheats/Space Channel 5 Part 2 Max Rating]
 patch=1,EE,20380100,extended,000003E8
 
-//Cheats/Space Channel 5 Part 2 Unlock All Character Profiles
+[Cheats/Space Channel 5 Part 2 Unlock All Character Profiles]
 patch=1,EE,2035EF68,extended,FFFFFFFF
 patch=1,EE,2035EF6C,extended,FFFFFFFF
 patch=1,EE,2035EF70,extended,FFFFFFFF
@@ -20,17 +20,17 @@ patch=1,EE,2035EF88,extended,FFFFFFFF
 patch=1,EE,2035EF8C,extended,FFFFFFFF
 patch=1,EE,2035EF90,extended,FFFFFFFF
 
-//Cheats/Space Channel 5 Part 2 Unlock All Costumes
+[Cheats/Space Channel 5 Part 2 Unlock All Costumes]
 patch=1,EE,2035EFB8,extended,FFFFFFFF
 patch=1,EE,2035EFBC,extended,FFFFFFFF
 
-//Cheats/Space Channel 5 Part 2 Unlock All Items
+[Cheats/Space Channel 5 Part 2 Unlock All Items]
 patch=1,EE,2035EFC0,extended,FFFFFFFF
 
-//Cheats/Space Channel 5 Part 2 Player 1 Press L1+Select For Auto Play Mode On
+[Cheats/Space Channel 5 Part 2 Player 1 Press L1+Select For Auto Play Mode On]
 patch=1,EE,D02E7A02,extended,0000FBFE
 patch=1,EE,00361118,extended,00000001
 
-//Cheats/Space Channel 5 Part 2 Player 1 Press L2+Select For Auto Play Mode Off
+[Cheats/Space Channel 5 Part 2 Player 1 Press L2+Select For Auto Play Mode Off]
 patch=1,EE,D02E7A02,extended,0000FEFE
 patch=1,EE,00361118,extended,00000000

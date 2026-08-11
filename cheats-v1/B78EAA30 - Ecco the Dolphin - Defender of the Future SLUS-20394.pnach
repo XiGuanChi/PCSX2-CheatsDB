@@ -1,9 +1,9 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201AD318,extended,AE01007C
 
-//Cheats/Infinite Air
+[Cheats/Infinite Air]
 patch=1,EE,201AD5E8,extended,00000000
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,20489650,extended,FFFFFFFF
 patch=1,EE,20489654,extended,0000000F

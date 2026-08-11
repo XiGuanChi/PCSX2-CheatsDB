@@ -1,7 +1,7 @@
-//Cheats/Max Money 30000
+[Cheats/Max Money 30000]
 patch=1,EE,2020FAD8,extended,00007530
 
-//Cheats/Max Status
+[Cheats/Max Status]
 patch=1,EE,201390E0,extended,00000000
 patch=1,EE,20138F20,extended,00000000
 patch=1,EE,20139000,extended,00000000
@@ -10,30 +10,30 @@ patch=1,EE,20138F90,extended,00000000
 patch=1,EE,20139180,extended,A420FD32
 patch=1,EE,20138EB0,extended,00000000
 
-//Cheats/Max Favorability
+[Cheats/Max Favorability]
 patch=1,EE,201391C4,extended,00000000
 
-//Cheats/Poker Winning even if you lose
+[Cheats/Poker Winning even if you lose]
 patch=1,EE,201CE90C,extended,00000000
 
-//Cheats/Blackjack Winning even if you lose
+[Cheats/Blackjack Winning even if you lose]
 patch=1,EE,201CE034,extended,64120015
 patch=1,EE,201CE050,extended,64110016
 
-//Cheats/Unlock All CG Not reflected in the save data
+[Cheats/Unlock All CG Not reflected in the save data]
 patch=1,EE,A0125360,extended,10400001
 
-//Cheats/Clear Flag ON
+[Cheats/Clear Flag ON]
 patch=1,EE,20139BB4,extended,34020001
 patch=1,EE,20139BB8,extended,A022F508
 
-//Cheats/Unlock Special Flag, CG and Menu Section but action outside the specification study in the evening etc. can not be done
+[Cheats/Unlock Special Flag, CG and Menu Section but action outside the specification study in the evening etc. can not be done]
 patch=1,EE,20125374,extended,34110001
 
-//Cheats/Unlock All Main Menu Options
+[Cheats/Unlock All Main Menu Options]
 patch=1,EE,1020F508,extended,0000FFFF
 
-//Cheats/Mini Game Menu = Ending Test Menu
+[Cheats/Mini Game Menu = Ending Test Menu]
 patch=1,EE,201F76E0,extended,54444E45
 patch=1,EE,201F76E4,extended,00545345
 

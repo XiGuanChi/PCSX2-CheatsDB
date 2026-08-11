@@ -1,16 +1,16 @@
 gametitle=Jak x Daxter - Kyuusekai no Isan SCPS-15021
-//2000 life sphere After pressing the R3 button
+[2000 life sphere After pressing the R3 button]
 patch=1,EE,D012E8C2,extended,0000FFFB
 patch=1,EE,10182882,extended,000044FA
 
-//20 power cells After pressing the L3 button
+[20 power cells After pressing the L3 button]
 patch=1,EE,D012E8C2,extended,0000FFFD
 patch=1,EE,10642DE2,extended,000041A0
 
-//200 Precursor Orb After pressing the R2 button
+[200 Precursor Orb After pressing the R2 button]
 patch=1,EE,D012E8C2,extended,0000FDFF
 patch=1,EE,10642D96,extended,00004348
 
-//Can be used on all stages
+[Can be used on all stages]
 patch=1,EE,40642DF4,extended,00040001
 patch=1,EE,01010101,extended,00000000

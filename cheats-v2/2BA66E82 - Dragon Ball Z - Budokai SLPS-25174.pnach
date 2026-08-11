@@ -1,12 +1,12 @@
 gametitle=Dragon Ball Z - Budokai SLPS-25174
-//Runner-up and Zeni MAX
+[Runner-up and Zeni MAX]
 patch=1,EE,20225A6C,extended,1000001F
 
-//All characters can be used in character selection screen display
+[All characters can be used in character selection screen display]
 patch=1,EE,201E32A4,extended,34010001
 patch=1,EE,201E32A8,extended,A0410000
 
-//Fully invincible guard While pressing the X button, all attacks will be disabled.
+[Fully invincible guard While pressing the X button, all attacks will be disabled.]
 patch=1,EE,2019C4D4,extended,3C01004F
 patch=1,EE,2019C4D8,extended,9421A56C
 patch=1,EE,2019C4DC,extended,30224000

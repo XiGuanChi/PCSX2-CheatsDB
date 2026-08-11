@@ -1,12 +1,12 @@
 gametitle=Homura SLPM-62685
-//Infinite Life
+[Infinite Life]
 patch=1,EE,00310758,extended,00000005
 
-//Infinite Health
+[Infinite Health]
 patch=0,EE,00213884,word,00000000
 
-//Infinite Bomb
+[Infinite Bomb]
 patch=1,EE,0031075C,extended,00000005
 
-//Gallery Unlocked
+[Gallery Unlocked]
 patch=1,EE,0033D96C,extended,00000037

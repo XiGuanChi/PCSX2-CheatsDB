@@ -1,16 +1,16 @@
 gametitle=_Summer ## SLPM-66460
-//Coin 255
+[Coin 255]
 patch=1,EE,20233160,extended,000000FF
 
-//Extra appearance
+[Extra appearance]
 patch=1,EE,002331AC,extended,00000001
 patch=1,EE,002331B4,extended,00000001
 
-//Gallery fully open
+[Gallery fully open]
 patch=1,EE,40233954,extended,00160001
 patch=1,EE,00000001,extended,00000000
 
-//CG mode fully open
+[CG mode fully open]
 patch=1,EE,402331D7,extended,00210001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,40233260,extended,00850001
@@ -22,7 +22,7 @@ patch=1,EE,01010101,extended,00000000
 patch=1,EE,402336CD,extended,00450001
 patch=1,EE,01010101,extended,00000000
 
-//Unlock Everything 
+[Unlock Everything]
 patch=1,EE,202331AC,extended,00000001
 patch=1,EE,202331B0,extended,00000001
 patch=1,EE,202331B4,extended,00000001

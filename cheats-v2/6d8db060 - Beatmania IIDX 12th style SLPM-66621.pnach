@@ -1,11 +1,11 @@
 gametitle=Beatmania IIDX 12th style SLPM-66621
-//Max Gauge
+[Max Gauge]
 patch=1,EE,20138FA0,extended,10000062
 
-//All song appearance
+[All song appearance]
 patch=1,EE,20F4AF50,extended,FFFFFFFF
 
-//Unlock All
+[Unlock All]
 patch=1,EE,20138FA0,extended,10000062
 patch=1,EE,20F4B378,extended,FFFFFFFF
 patch=1,EE,20F4B37C,extended,FFFFFFFF

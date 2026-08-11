@@ -1,72 +1,72 @@
 gametitle=Peter Jackson's King Kong - The Official Game of the Movie SLES-53703
-//Invincible (Kong)
+[Invincible (Kong)]
 patch=1,EE,204DFBD0,extended,24020001
 patch=1,EE,20293FC4,extended,24020001
 patch=1,EE,2029186C,extended,24020001
 
-//Infinite Health (Jack)
+[Infinite Health (Jack)]
 patch=1,EE,202D543C,extended,24040000
 patch=1,EE,202D5B40,extended,24040000
 
-//Unlock Codes All Levels Available
+[Unlock Codes All Levels Available]
 patch=1,EE,2032B5D8,extended,24020001
 
-//Unlock all Levels
+[Unlock all Levels]
 patch=1,EE,00DAA0D0,extended,000000FF
 
-//Unlock all Extras
+[Unlock all Extras]
 patch=1,EE,00DAA0D1,extended,000000FF
 
-//All Cheats On
+[All Cheats On]
 patch=1,EE,10DAA0D2,extended,0000FFFF
 
-//Infinite Health (Human)
+[Infinite Health (Human)]
 patch=1,EE,202D5308,extended,00000000
 
-//Infinite Health (Kong)
+[Infinite Health (Kong)]
 patch=1,EE,10EE5CBE,extended,000042C8
 
-//Infinite Ammo Pistol
+[Infinite Ammo Pistol]
 patch=1,EE,20DAC958,extended,00000064
 
-//Infinite Ammo Shotgun
+[Infinite Ammo Shotgun]
 patch=1,EE,20DAC9E8,extended,00000064
 
-//Infinite Ammo Sniper
+[Infinite Ammo Sniper]
 patch=1,EE,20DACA30,extended,00000064
 
-//Infinite Ammo Machine Gun
+[Infinite Ammo Machine Gun]
 patch=1,EE,20DAC9A0,extended,00000064
 
-//All Levels
+[All Levels]
 patch=1,EE,00dae4d4,extended,0000002a
 
-//infinite ammo gun
+[infinite ammo gun]
 patch=1,EE,00dacf00,extended,00000064
 
-//infinite ammo Shotgun
+[infinite ammo Shotgun]
 patch=1,EE,00dacf90,extended,00000006
 
-//infinite ammo Machine Gun
+[infinite ammo Machine Gun]
 patch=1,EE,00dacf48,extended,000000e6
 
-//infinite ammo rifle
+[infinite ammo rifle]
 patch=1,EE,00dacfd8,extended,00000009
 
-//infinite Explosives
+[infinite Explosives]
 patch=1,EE,00dad020,extended,00000001
 
-//have gun
+[have gun]
 patch=1,EE,00dac828,extended,00000001
 
-//Have Machine Gun
+[Have Machine Gun]
 patch=1,EE,00dac828,extended,00000002
 
-//have shotgun
+[have shotgun]
 patch=1,EE,00dac828,extended,00000003
 
-//have sharp treasures gun
+[have sharp treasures gun]
 patch=1,EE,00dac828,extended,00000004
 
-//have explosives
+[have explosives]
 patch=1,EE,00dac828,extended,00000005

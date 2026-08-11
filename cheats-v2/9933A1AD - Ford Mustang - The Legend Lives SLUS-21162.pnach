@@ -1,11 +1,11 @@
 gametitle=Ford Mustang - The Legend Lives SLUS-21162
-//Infinite AmmoAlways Low Time 
+[Infinite AmmoAlways Low Time]
 patch=1,EE,201654C0,extended,AC40ED98
 
-//Max Style Points Earned 
+[Max Style Points Earned]
 patch=1,EE,2073F21C,extended,05F5E0FF
 
-//Start On Last Lap
+[Start On Last Lap]
 patch=1,EE,200C0220,extended,00A3082B
 patch=1,EE,200C0224,extended,54200001
 patch=1,EE,200C0228,extended,AE631420
@@ -13,13 +13,13 @@ patch=1,EE,200C022C,extended,03E00008
 patch=1,EE,200C0230,extended,262411B0
 patch=1,EE,201B0B28,extended,0C030088
 
-//Unlock All Series
+[Unlock All Series]
 patch=1,EE,2073F220,extended,FFFFFFFF
 
-//Unlock All Tracks
+[Unlock All Tracks]
 patch=1,EE,20175824,extended,24020001
 patch=1,EE,20175828,extended,A062000E
 
-//Unlock All Cars
+[Unlock All Cars]
 patch=1,EE,4073F224,extended,00280001
 patch=1,EE,00000000,extended,00000000

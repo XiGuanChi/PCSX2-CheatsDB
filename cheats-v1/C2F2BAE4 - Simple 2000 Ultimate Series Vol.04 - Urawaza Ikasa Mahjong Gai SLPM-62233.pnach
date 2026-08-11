@@ -1,14 +1,14 @@
-//Cheats/Player Has 99999 Points
+[Cheats/Player Has 99999 Points]
 patch=1,EE,207F85E8,extended,0001869F
 
-//Cheats/Opponent 1 Has 0 Points
+[Cheats/Opponent 1 Has 0 Points]
 patch=1,EE,207F85F4,extended,00000000
 
-//Cheats/Opponent 2 Has 0 Points
+[Cheats/Opponent 2 Has 0 Points]
 patch=1,EE,207F85F0,extended,00000000
 
-//Cheats/Opponent 3 Has 0 Points
+[Cheats/Opponent 3 Has 0 Points]
 patch=1,EE,207F85EC,extended,00000000
 
-//Cheats/Debug Mode on Controller 2 pressi Select will open a debug menu.Debug Menu, Reveal Tile , Auto, Sort, Stage Clear End, Stage Fail End, To Yaku Score Book, Win +6000, End of a Hand, Lose +6000, End of a Hand, Draw, Tile Mode, Met Quota
+[Cheats/Debug Mode on Controller 2 pressi Select will open a debug menu.Debug Menu, Reveal Tile , Auto, Sort, Stage Clear End, Stage Fail End, To Yaku Score Book, Win +6000, End of a Hand, Lose +6000, End of a Hand, Draw, Tile Mode, Met Quota]
 patch=1,EE,20114148,extended,03E00008

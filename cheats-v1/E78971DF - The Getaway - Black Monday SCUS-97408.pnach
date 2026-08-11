@@ -1,26 +1,26 @@
-//Cheats/Infinite Health Getting crushed will still kill you
+[Cheats/Infinite Health Getting crushed will still kill you]
 patch=1,EE,201A045C,extended,3C024100
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,201ECAD0,extended,24630000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,201EC39C,extended,24420000
 
-//Cheats/Max Taxi Fare
+[Cheats/Max Taxi Fare]
 patch=1,EE,204C8328,extended,4479C000
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,201ECAD4,extended,00000000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,201EC3A4,extended,00000000
 
-//Cheats/Idiot AI-All NPC's
+[Cheats/Idiot AI-All NPC's]
 patch=1,EE,201C7D50,extended,03E00008
 patch=1,EE,201C7D54,extended,00000000
 
-//Cheats/Have All Key Rings
+[Cheats/Have All Key Rings]
 patch=1,EE,20595B24,extended,01010101
 patch=1,EE,20595B28,extended,01010101
 patch=1,EE,20595B2C,extended,02020201
@@ -28,7 +28,7 @@ patch=1,EE,20595B30,extended,02020202
 patch=1,EE,20595B34,extended,02020202
 patch=1,EE,20595B38,extended,03030302
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,202DBBF0,extended,00071820
 patch=1,EE,2029142C,extended,24020001
 patch=1,EE,202BA4B0,extended,24020001

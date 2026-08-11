@@ -1,22 +1,22 @@
 gametitle=Operation Air Assault 2 SLES-54804
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2013D330,extended,3C0142C8
 patch=1,EE,2013D334,extended,AE610004
 
-//Infinite Missiles
+[Infinite Missiles]
 patch=1,EE,201152AC,extended,00000000
 
-//Infinite Fuel
+[Infinite Fuel]
 patch=1,EE,20114DC0,extended,00000000
 
-//Garage Codes: Infinite Repair
+[Garage Codes: Infinite Repair]
 patch=1,EE,201EFCFC,extended,000003E7
 
-//Infinite Refuel
+[Infinite Refuel]
 patch=1,EE,201EFD00,extended,000003E7
 
-//Infinite Reload
+[Infinite Reload]
 patch=1,EE,201EFD04,extended,000003E7
 
-//Infinite Item Use
+[Infinite Item Use]
 patch=1,EE,20132D24,extended,00000000

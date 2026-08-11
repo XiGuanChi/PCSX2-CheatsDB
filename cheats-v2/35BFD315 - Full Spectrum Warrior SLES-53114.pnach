@@ -1,12 +1,12 @@
 gametitle=Full Spectrum Warrior SLES-53114
-//God Mode
+[God Mode]
 patch=1,EE,0070D3A2,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,0070CDCD,extended,00000001
 
-//All Chapters Available
+[All Chapters Available]
 patch=1,EE,20166420,extended,00000000
 
-//Iron Man Difficulty Available
+[Iron Man Difficulty Available]
 patch=1,EE,201CC72C,extended,00000000

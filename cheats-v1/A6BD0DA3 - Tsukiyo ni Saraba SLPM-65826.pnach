@@ -1,20 +1,20 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,207E15A8,extended,00000300
 patch=1,EE,207E1598,extended,00000300
 patch=1,EE,207E1590,extended,00000400
 patch=1,EE,207E1580,extended,00000400
 
-//Cheats/ Max Skill Points
+[Cheats/ Max Skill Points]
 patch=1,EE,207BCC78,extended,000F423F
 patch=1,EE,207BCD18,extended,000F423F
 patch=1,EE,207BCCC8,extended,000F423F
 patch=1,EE,207BCD68,extended,000F423F
 patch=1,EE,207BCDB8,extended,000F423F
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,207BCC0A,extended,00000001
 
-//Cheats/Unlock Free Battle
+[Cheats/Unlock Free Battle]
 patch=1,EE,007BCFF4,extended,00000001
 patch=1,EE,007BD00C,extended,00000001
 patch=1,EE,007BD024,extended,00000001
@@ -26,7 +26,7 @@ patch=1,EE,007BD09C,extended,00000001
 patch=1,EE,007BD0B4,extended,00000001
 patch=1,EE,007BD0CC,extended,00000001
 
-//Cheats/Unlock Overall Stage Attack
+[Cheats/Unlock Overall Stage Attack]
 patch=1,EE,007BCDCC,extended,00000001
 patch=1,EE,007BCDE4,extended,00000001
 patch=1,EE,007BCDFC,extended,00000001
@@ -47,7 +47,7 @@ patch=1,EE,007BCF4C,extended,00000001
 patch=1,EE,007BCF64,extended,00000001
 patch=1,EE,007BCF7C,extended,00000001
 
-//Cheats/Rank S
+[Cheats/Rank S]
 patch=1,EE,007BCDE0,extended,00000005
 patch=1,EE,007BCDF8,extended,00000005
 patch=1,EE,007BCE10,extended,00000005

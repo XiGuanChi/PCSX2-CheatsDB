@@ -1,25 +1,25 @@
-//Cheats/Invincibility Always On
+[Cheats/Invincibility Always On]
 patch=1,EE,20519060,extended,00000001
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,202C2A24,extended,8C410004
 patch=1,EE,202C2A28,extended,AC410000
 
-//Cheats/Infinite Primary Ammo
+[Cheats/Infinite Primary Ammo]
 patch=1,EE,20285528,extended,00000000
 
-//Cheats/Infinite Secondary Ammo
+[Cheats/Infinite Secondary Ammo]
 patch=1,EE,2028ECCC,extended,00000000
 
-//Cheats/Infinite Jetpack
+[Cheats/Infinite Jetpack]
 patch=1,EE,202072A4,extended,00000000
 patch=1,EE,2020958C,extended,00000000
 
-//Cheats/Infinite Ammo Always On
+[Cheats/Infinite Ammo Always On]
 patch=1,EE,20519064,extended,00000001
 
-//Cheats/Never Overheat
+[Cheats/Never Overheat]
 patch=1,EE,20288F34,extended,00000000
 
-//Cheats/Unlock All Special Features
+[Cheats/Unlock All Special Features]
 patch=1,EE,20643878,extended,FFFFFFFF

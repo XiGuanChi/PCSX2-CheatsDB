@@ -1,18 +1,18 @@
 gametitle=Sonic Unleashed SLUS-21846
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,20875EB4,extended,0000000A
 
-//Have 150 Rings Infinte HP Sonic
+[Have 150 Rings Infinte HP Sonic]
 patch=1,EE,20E119F0,extended,00000096
 
-//Dark Gaia Force points
+[Dark Gaia Force points]
 patch=1,EE,20894FFC,extended,05F5E0FF
 
-//Gain Max Special/Coins
+[Gain Max Special/Coins]
 patch=1,EE,2024F058,extended,C4602718 
 
-//Infinite HP Werehog
+[Infinite HP Werehog]
 patch=1,EE,2024E3A0,extended,461F0841 
 
-//Mission Time Freeze
+[Mission Time Freeze]
 patch=1,EE,201ECD4C,extended,461F0800

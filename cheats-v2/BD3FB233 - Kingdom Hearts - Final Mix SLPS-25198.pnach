@@ -1,51 +1,51 @@
 gametitle=Kingdom Hearts - Final Mix SLPS-25198
-//Experience value MAX when defeating an enemy
+[Experience value MAX when defeating an enemy]
 patch=1,EE,2013C4C8,extended,0040800A
 
-//Manny MAX
+[Manny MAX]
 patch=1,EE,201EF7E8,extended,ACA4001C
 
-//Sora Level 100
+[Sora Level 100]
 patch=1,EE,003F8384,extended,00000064
 
-//Sora Currently HP
+[Sora Currently HP]
 patch=1,EE,003F8385,extended,000000FF
 
-//Sora Maximum HP
+[Sora Maximum HP]
 patch=1,EE,003F8386,extended,000000FF
 
-//Sora Currently MP
+[Sora Currently MP]
 patch=1,EE,003F8387,extended,000000FF
 
-//Sora Maximum MP
+[Sora Maximum MP]
 patch=1,EE,003F8388,extended,000000FF
 
-//Donald Level 100
+[Donald Level 100]
 patch=1,EE,003F8384,extended,00000064
 
-//Donald Currently HP
+[Donald Currently HP]
 patch=1,EE,003F8385,extended,000000FF
 
-//Donald Maximum HP
+[Donald Maximum HP]
 patch=1,EE,003F8386,extended,000000FF
 
-//Donald Currently MP
+[Donald Currently MP]
 patch=1,EE,003F8387,extended,000000FF
 
-//Donald Maximum MP
+[Donald Maximum MP]
 patch=1,EE,003F8388,extended,000000FF
 
-//Goofy Level 100
+[Goofy Level 100]
 patch=1,EE,003F846C,extended,00000064
 
-//Goofy Currently HP
+[Goofy Currently HP]
 patch=1,EE,003F846D,extended,000000FF
 
-//Goofy Maximum HP
+[Goofy Maximum HP]
 patch=1,EE,003F846E,extended,000000FF
 
-//Goofy Currently MP
+[Goofy Currently MP]
 patch=1,EE,003F846F,extended,000000FF
 
-//Goofy Maximum MP
+[Goofy Maximum MP]
 patch=1,EE,003F8470,extended,000000FF

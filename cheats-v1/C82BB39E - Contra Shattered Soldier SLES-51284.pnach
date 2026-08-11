@@ -1,13 +1,13 @@
-//Cheats/Player 1 Infinite Lives
+[Cheats/Player 1 Infinite Lives]
 patch=1,EE,00913BC0,extended,00000063
 
-//Cheats/Player 2 Infinite Lives
+[Cheats/Player 2 Infinite Lives]
 patch=1,EE,00913BD0,extended,00000063
 
-//Cheats/Player 1 Is Invincible After 1 Hit
+[Cheats/Player 1 Is Invincible After 1 Hit]
 patch=1,EE,00913A0C,extended,00000009
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,00436024,extended,64020001
 patch=1,EE,0043A71C,extended,64020001
 patch=1,EE,0043a8c8,extended,64020001

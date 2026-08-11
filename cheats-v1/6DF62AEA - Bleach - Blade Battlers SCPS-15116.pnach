@@ -1,67 +1,67 @@
-//Cheats/Max Money 999999 ring
+[Cheats/Max Money 999999 ring]
 patch=1,EE,202C56D4,extended,000F423F
 
-//Cheats/Infinite Health Story mode
+[Cheats/Infinite Health Story mode]
 patch=1,EE,201E7A58,extended,9622000E
 patch=1,EE,201E7A5C,extended,1040001A
 patch=1,EE,201E7AC0,extended,00421023
 
-//Cheats/Battle Arena Multi Player 99 Continue P1 leader left
+[Cheats/Battle Arena Multi Player 99 Continue P1 leader left]
 patch=1,EE,102C5E40,extended,00000063
 
-//Cheats/Battle Arena Multi Player 99 Continue P1 leader right
+[Cheats/Battle Arena Multi Player 99 Continue P1 leader right]
 patch=1,EE,102C5E42,extended,00000063
 
-//Cheats/Battle Arena Multi Player Select your mission 50 digit 00 to 31 00 ---> mission 1 31 ---> mission 50
+[Cheats/Battle Arena Multi Player Select your mission 50 digit 00 to 31 00 ---> mission 1 31 ---> mission 50]
 patch=1,EE,102C5E20,extended,00000031
 
-//Cheats/Battle Arena Multi Player P1 only change physical fitness
+[Cheats/Battle Arena Multi Player P1 only change physical fitness]
 patch=1,EE,201E8964,extended,10000015
 patch=1,EE,201E894C,extended,9623000E
 patch=1,EE,201E8950,extended,1460001D
 
-//Cheats/Battle Arena Multi Player Infinite Health P1
+[Cheats/Battle Arena Multi Player Infinite Health P1]
 patch=1,EE,201E7A58,extended,9622000E
 patch=1,EE,201E7A5C,extended,1040001A
 
-//Cheats/Battle Arena Multi Player Infinite Health P1 and blow death
+[Cheats/Battle Arena Multi Player Infinite Health P1 and blow death]
 patch=1,EE,201E7A58,extended,9622000E
 patch=1,EE,201E7A5C,extended,1040001A
 patch=1,EE,201E7AC0,extended,00421023
 
-//Cheats/Battle Arena Multi Player Items & Story achievement rate of 100%
+[Cheats/Battle Arena Multi Player Items & Story achievement rate of 100%]
 patch=1,EE,2020B4BC,extended,240100FF
 patch=1,EE,2020B4C0,extended,A0410000
 patch=1,EE,2020B4C4,extended,24020001
 
-//Cheats/Unlock 23 Characteres
+[Cheats/Unlock 23 Characteres]
 patch=1,EE,202C5DA4,extended,FFFFFFFF
 patch=1,EE,202C5DA8,extended,FFFFFFFF
 patch=1,EE,202C5DAC,extended,FFFFFFFF
 
-//Cheats/Unlock 9 + 1 random battle arena
+[Cheats/Unlock 9 + 1 random battle arena]
 patch=1,EE,202C5DB0,extended,FFFFFFFF
 
-//Cheats/Unlock 5 episodes clear
+[Cheats/Unlock 5 episodes clear]
 patch=1,EE,202C5DB4,extended,FFFFFFFF
 
-//Cheats/Unlock 5 pictures, cards and model figurines
+[Cheats/Unlock 5 pictures, cards and model figurines]
 patch=1,EE,202C5DC4,extended,FFFFFFFF
 
-//Cheats/Unlock Special Section
+[Cheats/Unlock Special Section]
 patch=1,EE,202C5DE8,extended,FFFFFFFF
 
-//Cheats/Unlock 16 movies
+[Cheats/Unlock 16 movies]
 patch=1,EE,202C5DEC,extended,FFFFFFFF
 
-//Cheats/Unlock 50 missions clear + 23 VS section
+[Cheats/Unlock 50 missions clear + 23 VS section]
 patch=1,EE,202C5DB8,extended,FFFFFFFF
 patch=1,EE,202C5DBC,extended,FFFFFFFF
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,2020B4B8,extended,00820821
 patch=1,EE,2020B4BC,extended,240200FF
 patch=1,EE,2020B4C0,extended,A0220000
 
-//Cheats/Start Training Mode For Debug Menu
+[Cheats/Start Training Mode For Debug Menu]
 patch=1,EE,001D4080,extended,00000008

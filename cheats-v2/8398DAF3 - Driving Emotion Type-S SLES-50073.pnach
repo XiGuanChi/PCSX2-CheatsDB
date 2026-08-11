@@ -1,12 +1,12 @@
 gametitle=Driving Emotion Type-S SLES-50073
-//Always at Max Revs
+[Always at Max Revs]
 patch=1,EE,20455238,extended,447A0000
 
-//Transparent car mode
+[Transparent car mode]
 patch=1,EE,10450800,extended,00000002
 
-//Last Lap & 1st - Arcade
+[Last Lap & 1st - Arcade]
 patch=1,EE,0040E16E,extended,00000004
 
-//Last Lap & 1st - GT
+[Last Lap & 1st - GT]
 patch=1,EE,0040BB8E,extended,00000004

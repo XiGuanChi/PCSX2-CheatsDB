@@ -1,10 +1,10 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201ECF64,extended,C4410004
 patch=1,EE,201ECF74,extended,E460154C
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,20106660,extended,00000000
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,41DD8E64,extended,000F0010
 patch=1,EE,00000087,extended,00000000

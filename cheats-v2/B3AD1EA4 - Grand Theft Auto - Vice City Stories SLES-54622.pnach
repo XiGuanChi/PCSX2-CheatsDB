@@ -1,29 +1,29 @@
 gametitle=Grand Theft Auto - Vice City Stories SLES-54622
-//Inf Money
+[Inf Money]
 patch=1,EE,204E4CCC,extended,05F5E0FF
 patch=1,EE,204E4CD0,extended,05F5E0FF
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,202c1a64,extended,24420000
 patch=1,EE,202c1ac8,extended,24420000
 
-//Infinite Ammo(In Car)
+[Infinite Ammo(In Car)]
 patch=1,EE,202c1e6c,extended,24420000
 patch=1,EE,202c1ed4,extended,24420000
 
-//No Damage To Collisions(Your Car Only)
+[No Damage To Collisions(Your Car Only)]
 patch=1,EE,20137060,extended,00000000
 patch=1,EE,20137070,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,3C0142FA
 patch=1,EE,200C0224,extended,AC6104E4
 patch=1,EE,200C0228,extended,080C7FCB
 patch=1,EE,200C022C,extended,C46004E4
 patch=1,EE,2031FF28,extended,08030088
 
-//Never Wanted
+[Never Wanted]
 patch=1,EE,203aaafc,extended,24030000
 
-//Inf Stamina (Water)
+[Inf Stamina (Water)]
 patch=1,EE,201F3130,extended,00000000

@@ -1,10 +1,10 @@
 gametitle=GuitarFreaks V3 & DrumMania V3 SLPM-66822
-//Hidden song appearance
+[Hidden song appearance]
 patch=1,EE,11D25768,extended,0000FFFF
 
-//Maximum maintenance drum gauge
+[Maximum maintenance drum gauge]
 patch=1,EE,2020CC28,extended,24030BB8
 patch=1,EE,2020CCD4,extended,24030BB8
 
-//Maximum maintenance guitar gauge
+[Maximum maintenance guitar gauge]
 patch=1,EE,2020C84C,extended,24030BB8

@@ -1,14 +1,14 @@
 gametitle=Blood + Souyoku no Battle Rondo SCPS-15112
-//99.999.999 Exp.
+[99.999.999 Exp.]
 patch=1,EE,202E19B0,extended,05F5E0FF
 
-//Level 99
+[Level 99]
 patch=1,EE,002E19AC,extended,00000062
 
-//HP 1000/1000
+[HP 1000/1000]
 patch=1,EE,102E19AC,extended,000003E6
 
-//Have all Chi (ON with select up, OFF with select down)
+[Have all Chi (ON with select up, OFF with select down)]
 patch=1,EE,A00FFF20,extended,E4400B88
 patch=1,EE,A00FFF24,extended,03E00008
 patch=1,EE,A00FFF28,extended,C4410B88
@@ -17,14 +17,14 @@ patch=1,EE,2024FE6C,extended,0C03FFC8
 patch=1,EE,D0290E82,extended,0000FFBE
 patch=1,EE,2024FE6C,extended,C4410B88
 
-//Invincible 
+[Invincible]
 patch=1,EE,20170050,extended,00000000
 patch=1,EE,20170054,extended,00000000
 
-//Survival mode
+[Survival mode]
 patch=1,EE,102913E8,extended,0000FFFF
 
-//Movie fully open 
+[Movie fully open]
 patch=1,EE,002E162C,extended,00000041
 patch=1,EE,002E1630,extended,00000041
 patch=1,EE,002E1634,extended,00000041

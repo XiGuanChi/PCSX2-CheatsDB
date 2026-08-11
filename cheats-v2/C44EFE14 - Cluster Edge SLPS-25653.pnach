@@ -1,12 +1,12 @@
 gametitle=Cluster Edge SLPS-25653
-//Energy gauge MAX
+[Energy gauge MAX]
 patch=1,EE,10694CB2,extended,000003E7
 patch=1,EE,10694CB4,extended,000003E7
 
-//Code mini-map information fully open
+[Code mini-map information fully open]
 patch=1,EE,10652184,extended,0000FFFF
 
-//COLLECTION fully open
+[COLLECTION fully open]
 patch=1,EE,40652357,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,4065410A,extended,00060001

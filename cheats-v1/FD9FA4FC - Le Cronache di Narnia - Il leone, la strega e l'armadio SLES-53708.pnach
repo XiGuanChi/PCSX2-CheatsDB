@@ -1,31 +1,31 @@
-//Cheats/All Action Points Visible And One Hit To Fill Red Bar
+[Cheats/All Action Points Visible And One Hit To Fill Red Bar]
 patch=1,EE,203352A8,extended,C60200B0
 patch=1,EE,20302534,extended,00000000
 
-//Cheats/Buy upgrades Even Without Coins
+[Cheats/Buy upgrades Even Without Coins]
 patch=1,EE,2037CBE8,extended,00000000
 patch=1,EE,2037B460,extended,00000000
 
-//Cheats/One Hit To Fill Red Bar
+[Cheats/One Hit To Fill Red Bar]
 patch=1,EE,20334720,extended,00000000
 patch=1,EE,20302534,extended,00000000
 
-//Cheats/Red Bar Does Not Drop After Hitting Objects
+[Cheats/Red Bar Does Not Drop After Hitting Objects]
 patch=1,EE,20335440,extended,00000000
 
-//Cheats/Throwing Tennis Balls Even Without Ammunition
+[Cheats/Throwing Tennis Balls Even Without Ammunition]
 patch=1,EE,202D7F60,extended,10000003
 patch=1,EE,202D7570,extended,10000020
 patch=1,EE,202D6364,extended,00000000
 patch=1,EE,2027127C,extended,00000000
 
-//Cheats/Timer Stopped
+[Cheats/Timer Stopped]
 patch=1,EE,202D86B0,extended,C4800CA4
 
-//Cheats/Use Arrows Even Without Ammunition
+[Cheats/Use Arrows Even Without Ammunition]
 patch=1,EE,2029BB1C,extended,1000000B
 
-//Cheats/Use Healing Power Even With Zero Power
+[Cheats/Use Healing Power Even With Zero Power]
 patch=1,EE,20277C50,extended,00000000
 
 

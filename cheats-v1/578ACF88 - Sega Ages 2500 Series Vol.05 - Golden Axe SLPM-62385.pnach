@@ -1,21 +1,21 @@
-//Cheats/Infinite Credits
+[Cheats/Infinite Credits]
 patch=1,EE,2019E0D4,extended,00000000
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,20A7BC70,extended,00000001
 
-//Cheats/Invincible ON SELECT+L1 OFF SELECT+L2
+[Cheats/Invincible ON SELECT+L1 OFF SELECT+L2]
 patch=1,EE,D0A7BDC2,extended,0000FBFE
 patch=1,EE,20A7BC70,extended,00000001
 patch=1,EE,D0A7BDC2,extended,0000FEFE
 patch=1,EE,20A7BC70,extended,00000000
 
-//Cheats/Infinite MP
+[Cheats/Infinite MP]
 patch=1,EE,20A7BC78,extended,00000001
 
-//Cheats/Max Attack Power
+[Cheats/Max Attack Power]
 patch=1,EE,20A7BC88,extended,00000001
 
-//Cheats/Infinite Weapon Range
+[Cheats/Infinite Weapon Range]
 patch=1,EE,20A7BC90,extended,00000001
 

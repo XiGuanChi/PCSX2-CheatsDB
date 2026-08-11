@@ -1,16 +1,16 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201416F8,extended,00000004
 
-//Cheats/Infinite Air
+[Cheats/Infinite Air]
 patch=1,EE,201416F0,extended,00002710
 
-//Cheats/Giant Clank Has Infinite Health
+[Cheats/Giant Clank Has Infinite Health]
 patch=1,EE,20141080,extended,000000C8
 
-//Cheats/Infinite Bolts
+[Cheats/Infinite Bolts]
 patch=1,EE,2015ED98,extended,5F000FAB
 
-//Cheats/Unlock All Planets
+[Cheats/Unlock All Planets]
 patch=1,EE,2013D510,extended,00000001
 patch=1,EE,2013D514,extended,00000002
 patch=1,EE,2013D518,extended,00000003

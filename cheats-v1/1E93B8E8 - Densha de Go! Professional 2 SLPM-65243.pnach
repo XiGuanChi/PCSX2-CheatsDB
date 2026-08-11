@@ -1,24 +1,24 @@
-//Cheats/When you change time limit 999 seconds
+[Cheats/When you change time limit 999 seconds]
 patch=1,EE,2014EA64,extended,14200001
 
-//Cheats/Always EXCELLENT Bonus
+[Cheats/Always EXCELLENT Bonus]
 patch=1,EE,2018CF68,extended,AF809008
 
-//Cheats/Not fall evaluation point in demerit Acts
+[Cheats/Not fall evaluation point in demerit Acts]
 patch=1,EE,2018C4C8,extended,1000003A
 
-//Cheats/Max Total Mileage
+[Cheats/Max Total Mileage]
 patch=1,EE,2048B2A0,extended,4CBEBC20
 patch=1,EE,2048B2A4,extended,4CBEBC20
 patch=1,EE,2048B2A8,extended,4CBEBC20
 patch=1,EE,2048B2AC,extended,4CBEBC20
 patch=1,EE,2048B2B0,extended,4CBEBC20
 
-//Cheats/All Routes Evaluation Points 100 points
+[Cheats/All Routes Evaluation Points 100 points]
 patch=1,EE,4048B2B4,extended,00650001
 patch=1,EE,00000064,extended,00000000
 
-//Cheats/All Routes Evaluation Points 100 points alt
+[Cheats/All Routes Evaluation Points 100 points alt]
 patch=1,EE,20115704,extended,0803C800
 patch=1,EE,200F2000,extended,3C040049
 patch=1,EE,200F2004,extended,24850190
@@ -28,15 +28,15 @@ patch=1,EE,200F2010,extended,1485FFFE
 patch=1,EE,200F2014,extended,24840004
 patch=1,EE,200F21FC,extended,03E00008
 
-//Cheats/Unlock All Routes exempt from operation Use this code and Max Total Mileage to select all routes
+[Cheats/Unlock All Routes exempt from operation Use this code and Max Total Mileage to select all routes]
 patch=1,EE,4048B448,extended,00650001
 patch=1,EE,00000003,extended,00000000
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,4048B770,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,2048B770,extended,00000001
 patch=1,EE,2048B774,extended,00000001
 patch=1,EE,2048B778,extended,00000001
@@ -48,7 +48,7 @@ patch=1,EE,2048B78C,extended,00000001
 patch=1,EE,2048B790,extended,00000001
 patch=1,EE,2048B794,extended,00000001
 
-//Cheats/Unlock All Extraordinary vehicles
+[Cheats/Unlock All Extraordinary vehicles]
 patch=1,EE,2018E334,extended,64020000
 patch=1,EE,2018E338,extended,1021001C
 patch=1,EE,2018E3C4,extended,64020000

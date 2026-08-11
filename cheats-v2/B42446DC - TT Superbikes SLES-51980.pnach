@@ -1,19 +1,19 @@
 gametitle=TT Superbikes SLES-51980
-//Have All Rider Stills
+[Have All Rider Stills]
 patch=1,EE,20140930,extended,24030001
 patch=1,EE,20140934,extended,ACC30000
 
-//Have All Challenges Open
+[Have All Challenges Open]
 patch=1,EE,2013E6C4,extended,24040000
 
-//Have All Master Class Videos Open
+[Have All Master Class Videos Open]
 patch=1,EE,201407F8,extended,2402FFFF
 
-//Press Select To Freeze TimerFinishing With a Time of 0 Will Not Pass A Challenge
+[Press Select To Freeze TimerFinishing With a Time of 0 Will Not Pass A Challenge]
 patch=1,EE,D02AD742,extended,0000FFFE
 patch=1,EE,2010E650,extended,00000000
 
-//Stupid AI
+[Stupid AI]
 patch=1,EE,20725AEC,extended,00000000
 patch=1,EE,20725E2C,extended,00000000
 patch=1,EE,2072616C,extended,00000000

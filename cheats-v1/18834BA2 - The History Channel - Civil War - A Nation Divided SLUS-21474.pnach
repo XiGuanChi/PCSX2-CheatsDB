@@ -1,31 +1,31 @@
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,20105a84,extended,24020001
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201D7778,extended,3C0142C8
 patch=1,EE,201D7780,extended,AC810008
 
-//Cheats/Infinite Ammo and Grenades
+[Cheats/Infinite Ammo and Grenades]
 patch=1,EE,20209018,extended,00000000
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,20346AFC,extended,24020006
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,20109860,extended,00000000
 
-//Cheats/Instant Death Enemies
+[Cheats/Instant Death Enemies]
 patch=1,EE,2010982c,extended,3C0142c8
 patch=1,EE,20109830,extended,AC810004
 
-//Cheats/Infinite Energy
+[Cheats/Infinite Energy]
 patch=1,EE,200C0240,extended,2401270F
 patch=1,EE,200C0244,extended,A4810182
 patch=1,EE,200C0248,extended,03E00008
 patch=1,EE,200C024C,extended,84820182
 patch=1,EE,2031a388,extended,08030090
 
-//Cheats/Max Ammo In Clip
+[Cheats/Max Ammo In Clip]
 patch=1,EE,200C0210,extended,2401270F
 patch=1,EE,200C0214,extended,ac810178
 patch=1,EE,200C0218,extended,03E00008

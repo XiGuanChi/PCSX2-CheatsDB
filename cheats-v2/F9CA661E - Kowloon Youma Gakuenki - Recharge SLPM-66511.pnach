@@ -1,29 +1,29 @@
 gametitle=Kowloon Youma Gakuenki - Re:charge SLPM-66511
-//Money 999999
+[Money 999999]
 patch=1,EE,207C6468,extended,3B9AC9FF
 
-//AP 9999
+[AP 9999]
 patch=1,EE,201310D4,extended,2402270F
 
-//Change to HP specified value
+[Change to HP specified value]
 patch=1,EE,2012CCFC,extended,240503E7
 patch=1,EE,2012CD5C,extended,240503E7
 
-//Does not decrease battery
+[Does not decrease battery]
 patch=1,EE,201343A4,extended,84426458
 
-//Does not decrease the remaining number of bullets
+[Does not decrease the remaining number of bullets]
 patch=1,EE,20138E64,extended,9442016C
 patch=1,EE,201F9404,extended,0000802D
 
-//Gun range 7
+[Gun range 7]
 patch=1,EE,201F2C7C,extended,24050007
 patch=1,EE,201F2C88,extended,A4650000
 
-//Ruins map fully open (save reflect)
+[Ruins map fully open (save reflect)]
 patch=1,EE,20184EEC,extended,0C04B0C4
 
-//Broadband fully open (save reflect)
+[Broadband fully open (save reflect)]
 patch=1,EE,2016F918,extended,0C04B0C4
 patch=1,EE,2016F930,extended,0C04B0C4
 patch=1,EE,2016F938,extended,10000004

@@ -1,11 +1,11 @@
 gametitle=Spy Fiction SLUS-20856
-//Infinite Ammo (All Weapons)
+[Infinite Ammo (All Weapons)]
 patch=1,EE,202E587C,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,105AA038,extended,00000088
 
-//Unlock All Garbology
+[Unlock All Garbology]
 patch=1,EE,70048D70,extended,00000000
 patch=1,EE,4021F780,extended,00090001
 patch=1,EE,FFFFFFFF,extended,00000000

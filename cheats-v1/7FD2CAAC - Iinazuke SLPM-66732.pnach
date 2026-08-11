@@ -1,9 +1,9 @@
-//Cheats/Unlock All CG
+[Cheats/Unlock All CG]
 patch=1,EE,401B4ED0,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,101B4EE4,extended,0000FFFF
 
-//Cheats/Unlock Omake Menu & Memories
+[Cheats/Unlock Omake Menu & Memories]
 patch=1,EE,101B4EF2,extended,0000FFFF
 patch=1,EE,401B4EF4,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000

@@ -1,21 +1,21 @@
-//Cheats/Invulnerable If you fall you don't die and go off the map Press Select+triangle to die and return to the level
+[Cheats/Invulnerable If you fall you don't die and go off the map Press Select+triangle to die and return to the level]
 patch=1,EE,005AE944,extended,00000000
 patch=1,EE,202393E0,extended,38420001
 patch=1,EE,D05B0042,extended,0000EFFE
 patch=1,EE,202393E0,extended,34020001
 
-//Cheats/Earn Upgrade Points To Have Max Quantity
+[Cheats/Earn Upgrade Points To Have Max Quantity]
 patch=1,EE,20233CC0,extended,10000003
 
-//Cheats/2 Hits Kill
+[Cheats/2 Hits Kill]
 patch=1,EE,202BEBD8,extended,10000040
 
-//Cheats/Immediate Recovery After Death
+[Cheats/Immediate Recovery After Death]
 patch=1,EE,2042209C,extended,00000000
 patch=1,EE,204220D4,extended,8462001E
 
-//Cheats/Unlimited Nukes
+[Cheats/Unlimited Nukes]
 patch=1,EE,005AE86F,extended,00000001
 
-//[Cheats/Unlock All Levels]  
+[[Cheats/Unlock All Levels]]
 patch=1,EE,00596F00,extended,00000001

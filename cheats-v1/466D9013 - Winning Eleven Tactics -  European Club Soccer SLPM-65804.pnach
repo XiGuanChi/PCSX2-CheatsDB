@@ -1,16 +1,16 @@
-//Cheats/Max Director Fame
+[Cheats/Max Director Fame]
 patch=1,EE,20CC1D4C,extended,0001869F
 
-//Cheats/Max WEN
+[Cheats/Max WEN]
 patch=1,EE,20CC1D84,extended,000F423F
 
-//Cheats/Infinite Petition Points
+[Cheats/Infinite Petition Points]
 patch=1,EE,00CC1D7D,extended,000000FF
 
-//Cheats/At The Meeting Petition Points 255
+[Cheats/At The Meeting Petition Points 255]
 patch=1,EE,2029FC78,extended,240200FF
 
-//Cheats/Score Operation Required Code
+[Cheats/Score Operation Required Code]
 patch=1,EE,200F4114,extended,08254430
 patch=1,EE,200F4214,extended,08254430
 patch=1,EE,20247604,extended,0C254430
@@ -19,21 +19,21 @@ patch=1,EE,20247604,extended,0C03D040
 patch=1,EE,D05C0C02,extended,0000FDFE
 patch=1,EE,20247604,extended,0C03D080
 
-//Cheats/99 Goals HOME Side SELECT+L2
+[Cheats/99 Goals HOME Side SELECT+L2]
 patch=1,EE,200F4100,extended,24010063
 patch=1,EE,200F4104,extended,3C0200BF
 patch=1,EE,200F4108,extended,A441E5D8
 patch=1,EE,200F410C,extended,A441E5DA
 patch=1,EE,200F4110,extended,A441E5DC
 
-//Cheats/99 Goals AWAY Side SELECT+R2
+[Cheats/99 Goals AWAY Side SELECT+R2]
 patch=1,EE,200F4200,extended,24010063
 patch=1,EE,200F4204,extended,3C0200BF
 patch=1,EE,200F4208,extended,A441E770
 patch=1,EE,200F420C,extended,A441E772
 patch=1,EE,200F4210,extended,A441E774
 
-//Cheats/Personnel Funds & Salary Budget 100 Billion Yen
+[Cheats/Personnel Funds & Salary Budget 100 Billion Yen]
 patch=1,EE,200F4000,extended,3C05000F
 patch=1,EE,200F4004,extended,34A54240
 patch=1,EE,200F4008,extended,AC45002C
@@ -42,17 +42,17 @@ patch=1,EE,200F4020,extended,03E00008
 patch=1,EE,D09155A4,extended,0000002C
 patch=1,EE,209155A4,extended,0C03D000
 
-//Cheats/Unlock Feat set by Viewing the Director's Feat
+[Cheats/Unlock Feat set by Viewing the Director's Feat]
 patch=1,EE,2029FEA4,extended,24020010
 patch=1,EE,2029FEA8,extended,A02267ED
 patch=1,EE,2029FEB0,extended,24020001
 
-//Cheats/Unlock Tactical Support and All Assistant Clothes
+[Cheats/Unlock Tactical Support and All Assistant Clothes]
 patch=1,EE,20CC1D5C,extended,FFFFFFFF
 patch=1,EE,20CC1D60,extended,FFFFFFFF
 patch=1,EE,20CC1D64,extended,FFFFFFFF
 
-//Cheats/Unlock All Classic Players
+[Cheats/Unlock All Classic Players]
 patch=1,EE,20CC1D84,extended,FFFFFFFF
 patch=1,EE,20CC1D88,extended,FFFFFFFF
 patch=1,EE,20CC1D8C,extended,FFFFFFFF
@@ -63,7 +63,7 @@ patch=1,EE,20CC1D9C,extended,FFFFFFFF
 patch=1,EE,20CC1DA0,extended,FFFFFFFF
 patch=1,EE,20CC1DA4,extended,FFFFFFFF
 
-//Cheats/Unlock Entire Collection
+[Cheats/Unlock Entire Collection]
 patch=1,EE,20CC1D5C,extended,FFFFFFFF
 patch=1,EE,20CC1D60,extended,FFFFFFFF
 patch=1,EE,20CC1D64,extended,FFFFFFFF

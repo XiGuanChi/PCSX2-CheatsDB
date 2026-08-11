@@ -1,35 +1,35 @@
-//Cheats/Infinite Munny
+[Cheats/Infinite Munny]
 patch=1,EE,20407ECC,extended,0001869F
 
-//Cheats/Unlock All Trinities Available
+[Cheats/Unlock All Trinities Available]
 patch=1,EE,203F36C8,extended,FFFFFFFF
 
-//Cheats/Unlock All Dalmations
+[Cheats/Unlock All Dalmations]
 patch=1,EE,003F31B3,extended,000000FF
 patch=1,EE,203F31B4,extended,FFFFFFFF
 patch=1,EE,203F31B8,extended,FFFFFFFF
 patch=1,EE,203F31BC,extended,7FFFFFFF
 
-//Cheats/Sora Infinite HP In Battle
+[Cheats/Sora Infinite HP In Battle]
 patch=1,EE,00523EB4,extended,00000063
 
-//Cheats/Sora Infinite MP In Battle
+[Cheats/Sora Infinite MP In Battle]
 patch=1,EE,00523EBC,extended,00000063
 
-//Cheats/Slot 2 Infinite HP In Battle
+[Cheats/Slot 2 Infinite HP In Battle]
 patch=1,EE,00523F98,extended,00000063
 
-//Cheats/Slot 2 Infinite MP In Battle
+[Cheats/Slot 2 Infinite MP In Battle]
 patch=1,EE,00523FA0,extended,00000063
 
-//Cheats/Slot 3 Infinite HP In Battle
+[Cheats/Slot 3 Infinite HP In Battle]
 patch=1,EE,0052407C,extended,00000063
 
-//Cheats/Slot 3 Infinite MP In Battle
+[Cheats/Slot 3 Infinite MP In Battle]
 patch=1,EE,00524084,extended,00000063
 
-//Cheats/Infinite Armour Gummi Ship
+[Cheats/Infinite Armour Gummi Ship]
 patch=1,EE,00FAA930,extended,000000FF
 
-//Cheats/Infinite Power Gummi Ship
+[Cheats/Infinite Power Gummi Ship]
 patch=1,EE,00FAA938,extended,000000FF

@@ -1,32 +1,32 @@
 gametitle=Dot Hack Part 1 - Infection (PAL-M5) (SLES-52237)
-//Max Money after Shopping
+[Max Money after Shopping]
 patch=1,EE,2046D0E4,extended,00000000
 
-//Have 9999999 Money
+[Have 9999999 Money]
 patch=1,EE,2098B36C,extended,0098967F
 
-//Inf PS Main Character
+[Inf PS Main Character]
 patch=1,EE,21729540,extended,00000063
 
-//Inf HP In Battle Main Character (63)
+[Inf HP In Battle Main Character (63)]
 patch=1,EE,20A200F0,extended,00000063
 
-//Inf HP in Battle BlackRose
+[Inf HP in Battle BlackRose]
 patch=1,EE,2171B5F0,extended,00000063
 
-//Max HP all (saveable)
+[Max HP all (saveable)]
 patch=1,EE,2048D0EC,extended,2401270F
 patch=1,EE,20488588,extended,A6410024
 patch=1,EE,2048858C,extended,A6210074
 
-//Max SP all (saveable)
+[Max SP all (saveable)]
 patch=1,EE,20488590,extended,A6460026
 patch=1,EE,20488594,extended,A6260076
 
-//Infinite Trade Item use
-//patch=1,EE,2017AFEC,extended,00000000
-//patch=1,EE,2017B004,extended,00000000
+[Infinite Trade Item use]
+[patch=1,EE,2017AFEC,extended,00000000]
+[patch=1,EE,2017B004,extended,00000000]
 
-//1000 XP per Enemy
+[1000 XP per Enemy]
 patch=1,EE,2048E118,extended,241103E8
 

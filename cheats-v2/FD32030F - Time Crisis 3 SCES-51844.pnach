@@ -1,18 +1,18 @@
 gametitle=Time Crisis 3 SCES-51844
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,21A1C64C,extended,00000005
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,21A1C624,extended,00002EE0
 
-//Handgun Ammo/No Reload
+[Handgun Ammo/No Reload]
 patch=1,EE,21A1C794,extended,00000009
 
-//M-Gun Ammo/No Reload
+[M-Gun Ammo/No Reload]
 patch=1,EE,21A1C798,extended,000000C8
 
-//Shotgun Ammo/No Reload
+[Shotgun Ammo/No Reload]
 patch=1,EE,21A1C79C,extended,00000050
 
-//Grenade Ammo/No Reload
+[Grenade Ammo/No Reload]
 patch=1,EE,21A1C7A0,extended,00000005

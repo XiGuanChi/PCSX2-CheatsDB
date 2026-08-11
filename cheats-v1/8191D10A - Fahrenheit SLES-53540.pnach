@@ -1,16 +1,16 @@
-//Cheats/Lucas Kane No Stress
+[Cheats/Lucas Kane No Stress]
 patch=1,EE,20BB865C,extended,00000064
 
-//Cheats/Lucas Kane Infinites Lives
+[Cheats/Lucas Kane Infinites Lives]
 patch=1,EE,20A218C4,extended,00000006
 
-//Cheats/Carla Valenti No Stress
+[Cheats/Carla Valenti No Stress]
 patch=1,EE,20BB8648,extended,00000064
 
-//Cheats/Tyler Miles No Stress
+[Cheats/Tyler Miles No Stress]
 patch=1,EE,20BB8644,extended,00000064
 
-//Cheats/Infinite Health Hold L3 3sec Refill
+[Cheats/Infinite Health Hold L3 3sec Refill]
 patch=1,EE,E001FFFF,extended,004A2AC2
 patch=1,EE,100D024C,extended,00000000
 patch=1,EE,E001FFFD,extended,004A2AC2
@@ -22,7 +22,7 @@ patch=1,EE,000D0240,extended,00000000
 patch=1,EE,608949BC,extended,00000006
 patch=1,EE,00000000,extended,000000C4
 
-//Cheats/No Stress All Players + Bonus Points 999 Hold R3 3sec Refill
+[Cheats/No Stress All Players + Bonus Points 999 Hold R3 3sec Refill]
 patch=1,EE,E001FFFF,extended,004A2AC2
 patch=1,EE,100D023C,extended,00000000
 patch=1,EE,E001FFFB,extended,004A2AC2
@@ -40,5 +40,5 @@ patch=1,EE,00000000,extended,000000A8
 patch=1,EE,608949BC,extended,000003E7
 patch=1,EE,00010000,extended,000000AC
 
-//Cheats/Freeze Game Timer
+[Cheats/Freeze Game Timer]
 patch=1,EE,2064633C,extended,00000000

@@ -1,19 +1,19 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2047C08C,extended,00000024
 patch=1,EE,2047C090,extended,00000024
 
-//Cheats/Invincible Sphinx
+[Cheats/Invincible Sphinx]
 patch=1,EE,0047C095,extended,00000008
 
-//Cheats/Infinite Air Sphinx
+[Cheats/Infinite Air Sphinx]
 patch=1,EE,201D86F0,extended,AE020B6C
 
-//Cheats/Walk On Lava Sphinx
+[Cheats/Walk On Lava Sphinx]
 patch=1,EE,2047C138,extended,00000D47
 
-//Cheats/Debug Cheats God Mode
+[Cheats/Debug Cheats God Mode]
 patch=1,EE,003927AD,extended,00000001
 
-//Cheats/Debug Cheats All Quest Items
+[Cheats/Debug Cheats All Quest Items]
 patch=1,EE,40559E74,extended,00430004
 patch=1,EE,3CEC7AD7,extended,0DAE3F25

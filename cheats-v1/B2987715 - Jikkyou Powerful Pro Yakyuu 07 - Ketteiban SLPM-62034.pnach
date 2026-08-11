@@ -1,26 +1,26 @@
-//Cheats/Count Operation During Game L2+R2+Select Strike 2, ball 0, change to out 2
+[Cheats/Count Operation During Game L2+R2+Select Strike 2, ball 0, change to out 2]
 patch=1,EE,D1918242,extended,0000FCFE
 patch=1,EE,105FB4B4,extended,00000002
 patch=1,EE,D1918242,extended,0000FCFE
 patch=1,EE,005FB4B6,extended,00000002
 
-//Cheats/Count Operation During Game L2+R2+Start Change Strike 0, ball 3, to out 0
+[Cheats/Count Operation During Game L2+R2+Start Change Strike 0, ball 3, to out 0]
 patch=1,EE,D1918242,extended,0000FCF7
 patch=1,EE,105FB4B4,extended,00000300
 patch=1,EE,D1918242,extended,0000FCF7
 patch=1,EE,005FB4B6,extended,00000000
 
-//Cheats/Unlock All Prizes
+[Cheats/Unlock All Prizes]
 patch=1,EE,40658EBC,extended,00040001
 patch=1,EE,63636363,extended,00000000
 patch=1,EE,10658EBA,extended,00006363
 
-//Cheats/Unlock All Initial Pitching Form
+[Cheats/Unlock All Initial Pitching Form]
 patch=1,EE,20665AC0,extended,FFFFFFFF
 patch=1,EE,20665AC4,extended,FFFFFFFF
 patch=1,EE,20665AC8,extended,FFFFFFFF
 
-//Cheats/Unlock All Initial Batting Form
+[Cheats/Unlock All Initial Batting Form]
 patch=1,EE,20665AD4,extended,FFFFFFFF
 patch=1,EE,20665AD0,extended,FFFFFFFF
 

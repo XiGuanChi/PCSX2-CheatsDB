@@ -1,20 +1,20 @@
 gametitle=Shin Megami Tensei - Persona 3 SLES-55018
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,20812CDC,extended,00989680
 
-//Main character Infinite Health
+[Main character Infinite Health]
 patch=1,EE,2016C004,extended,240203E7
 patch=1,EE,2016C008,extended,A4820008
 
-//Infinite Health & MP
+[Infinite Health & MP]
 patch=1,EE,2016C004,extended,240203E7
 patch=1,EE,2016C008,extended,A4820008
 patch=1,EE,2016C010,extended,A482000A
 
-//Support characters Infinite Health
+[Support characters Infinite Health]
 patch=1,EE,2016C03C,extended,240203E7
 patch=1,EE,2016C040,extended,A4820008
 
-//Infinite MP
+[Infinite MP]
 patch=1,EE,2016C0C0,extended,A482000A
 patch=1,EE,2016C0BC,extended,240203E7

@@ -1,43 +1,43 @@
 gametitle=SD Gundam Force - Showdown! SLUS-20698
-//Infinite Time
+[Infinite Time]
 patch=1,EE,2065D69C,extended,4479C000
 
-//Full Energy Charge
+[Full Energy Charge]
 patch=1,EE,10697680,extended,000000C8
 
-//Max Energy Charge
+[Max Energy Charge]
 patch=1,EE,10697682,extended,000000C8
 
-//Max Healing Charge
+[Max Healing Charge]
 patch=1,EE,1065D6BA,extended,000000C8
 
-//Max Full Healing Charge
+[Max Full Healing Charge]
 patch=1,EE,2065D6B8,extended,00C800C8
 
-//Have All Enemy S.D.G. Reports
+[Have All Enemy S.D.G. Reports]
 patch=1,EE,20697520,extended,FFFFFFFF
 patch=1,EE,20697524,extended,FFFFFFFF
 
-//Have All Form S.D.G. Reports
+[Have All Form S.D.G. Reports]
 patch=1,EE,20697528,extended,FFFFFFFF
 
-//Have All Items S.D.G. Reports
+[Have All Items S.D.G. Reports]
 patch=1,EE,2069752C,extended,FFFFFFFF
 
-//Captain Gundam - Infinite HP Sphere
+[Captain Gundam - Infinite HP Sphere]
 patch=1,EE,106974DE,extended,0000002D
 
-//Captain Gundam - Level S
+[Captain Gundam - Level S]
 patch=1,EE,00697438,extended,00000003
 
-//ZeroThe winged Knight - Infinite HP Sphere
+[ZeroThe winged Knight - Infinite HP Sphere]
 patch=1,EE,106974E0,extended,0000002D
 
-//ZeroThe winged Knight - Level S
+[ZeroThe winged Knight - Level S]
 patch=1,EE,00697440,extended,00000003
 
-//Bakunetsumaru - Infinite HP Sphere
+[Bakunetsumaru - Infinite HP Sphere]
 patch=1,EE,106974E2,extended,0000002D
 
-//Bakunetsumaru - Level S
+[Bakunetsumaru - Level S]
 patch=1,EE,00697448,extended,00000003

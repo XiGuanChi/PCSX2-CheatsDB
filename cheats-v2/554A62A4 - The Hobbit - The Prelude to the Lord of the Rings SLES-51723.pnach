@@ -1,10 +1,10 @@
 gametitle=The Hobbit - The Prelude to the Lord of the Rings SLES-51723
-//Infinite HP Bilbo
+[Infinite HP Bilbo]
 patch=1,EE,2046DFBC,extended,41400000
 
-//Max Silver Pennies
+[Max Silver Pennies]
 patch=1,EE,2046DFB0,extended,45000000
 patch=1,EE,2046E00C,extended,45000000
 
-//Infinite Srones
+[Infinite Srones]
 patch=1,EE,2046DFB4,extended,41200000

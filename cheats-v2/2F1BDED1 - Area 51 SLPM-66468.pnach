@@ -1,20 +1,20 @@
 gametitle=Area 51 SLUS-20595
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2026ACFC,extended,00000000
 
-//infinite Ammo
+[infinite Ammo]
 patch=1,EE,201569EC,extended,00000000
 
-//no Reload
+[no Reload]
 patch=1,EE,20156930,extended,00000000
 
-//infinite Grenades
+[infinite Grenades]
 patch=1,EE,20207A10,extended,00000000
 
-//all Secret Files
+[all Secret Files]
 patch=1,EE,004F93A8,extended,00000015
 
-//all Databank
+[all Databank]
 patch=1,EE,404F938C,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,104F939C,extended,0000FFFF

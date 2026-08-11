@@ -1,36 +1,36 @@
 gametitle=Metal Slug 4 SLES-53380
-//infinite bombs player 1
+[infinite bombs player 1]
 patch=1,EE,00bb1107,extended,0000000a
 
-//infinite arms player 1
+[infinite arms player 1]
 patch=1,EE,10bb110c000003e7
 
-//infinite time
+[infinite time]
 patch=1,EE,00742f51,extended,00000060
 
-//invulnerable player 1
+[invulnerable player 1]
 patch=1,EE,0074d880,extended,00000037
 
-//infinite bombs player 1
+[infinite bombs player 1]
 patch=1,EE,00bb19f0,extended,00000009
 
-//have machine gun player 1
+[have machine gun player 1]
 patch=1,EE,10bb1104,extended,00001212
 
-//got rubber bombs player 1
+[got rubber bombs player 1]
 patch=1,EE,10bb1104,extended,00002222
 
-//invulnerable player 2
+[invulnerable player 2]
 patch=1,EE,0074d750,extended,00000037
 
-//infinite arms player 2
+[infinite arms player 2]
 patch=1,EE,10bb10fc,extended,000001f4
 
-//infinite bombs player 2
+[infinite bombs player 2]
 patch=1,EE,00bb10f7,extended,0000000a
 
-//have machine gun player 2
+[have machine gun player 2]
 patch=1,EE,10bb10f4,extended,00001212
 
-//got rubber bombs player 2
+[got rubber bombs player 2]
 patch=1,EE,10bb10f4,extended,00002222

@@ -1,14 +1,14 @@
 gametitle=Star Ocean - Till the End of Time SLUS-20488 -20891
-//Save Anywhere
+[Save Anywhere]
 patch=1,EE,E001FFFF,extended,002D1458
 patch=1,EE,102D1462,extended,00001000
-//= InBattle Codes ==
+[= InBattle Codes ==]
 
-//Infinite Item Usage
+[Infinite Item Usage]
 patch=1,EE,E001882D,extended,00274670
 patch=1,EE,2027468C,extended,00000000
 
-//Infinite HP in battle
+[Infinite HP in battle]
 patch=1,EE,200C02A0,extended,AC620010
 patch=1,EE,200C02A4,extended,AC620018
 patch=1,EE,200C02A8,extended,080A4387
@@ -19,7 +19,7 @@ patch=1,EE,10290ECA,extended,00001000
 patch=1,EE,20290ECC,extended,AC64008C
 patch=1,EE,20290E14,extended,080300A8
 
-//Infinite MP n battle
+[Infinite MP n battle]
 patch=1,EE,200C02B0,extended,AD4B001C
 patch=1,EE,200C02B4,extended,AD4B0024
 patch=1,EE,200C02B8,extended,08081606
@@ -30,7 +30,7 @@ patch=1,EE,102058BA,extended,00001000
 patch=1,EE,202058BC,extended,AD510090
 patch=1,EE,20205810,extended,080300AC
 
-//Max Fol (View Menu)
+[Max Fol (View Menu)]
 patch=1,EE,200C0220,extended,3C017916
 patch=1,EE,200C0224,extended,34212708
 patch=1,EE,200C0228,extended,AE410034

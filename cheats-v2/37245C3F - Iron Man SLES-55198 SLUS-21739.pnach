@@ -1,53 +1,53 @@
 gametitle=Iron Man SLES-55198 SLUS-21739
-//Infinite Power Cells
+[Infinite Power Cells]
 patch=1,EE,D0E1A5FC,extended,000025D4
 patch=1,EE,20E1A5FC,extended,00000000
 
-//All Armours Open
+[All Armours Open]
 patch=1,EE,20F45148,extended,24020001
 patch=1,EE,20F45140,extended,24020001
 
-//All Missions Open
+[All Missions Open]
 patch=1,EE,20F78A48,extended,240E0010
 
-//God Mode
+[God Mode]
 patch=1,EE,20E19434,extended,24020001
 
-//Infinite Energy Missiles (Right Cell)
+[Infinite Energy Missiles (Right Cell)]
 patch=1,EE,20E95470,extended,00000000
 
-//Infinite Energy Propulsion (Left Cell)
+[Infinite Energy Propulsion (Left Cell)]
 patch=1,EE,20E95330,extended,00000000
 
-//Infinite Energy Health (Up Cell)
+[Infinite Energy Health (Up Cell)]
 patch=1,EE,20E0718C,extended,E6612014
 
-//Infinite grenade launcher Ammo
+[Infinite grenade launcher Ammo]
 patch=1,EE,10EDF098,extended,00000000
 
-//Infinite Basic Ammo
+[Infinite Basic Ammo]
 patch=1,EE,10ED5750,extended,00000000
 
-//Infinite Launcher Ammo
+[Infinite Launcher Ammo]
 patch=1,EE,10E73CD8,extended,00000000
 
-//Gain grenade launcher Ammo
+[Gain grenade launcher Ammo]
 patch=1,EE,10EDF098,extended,00000001
 
-//Gain Basic Ammo
+[Gain Basic Ammo]
 patch=1,EE,10ED5750,extended,00000001
 
-//Gain Launcher Ammo
+[Gain Launcher Ammo]
 patch=1,EE,10E73CD8,extended,00000001
 
-//Infinite Weapon Power
+[Infinite Weapon Power]
 patch=1,EE,20E95AA0,extended,00000000
 
-//Infinite propulsion
+[Infinite propulsion]
 patch=1,EE,20E95A5C,extended,00000000
 
-//Infinite Armor
+[Infinite Armor]
 patch=1,EE,20E95260,extended,C620000C
 
-//Max EXP One Use
+[Max EXP One Use]
 patch=1,EE,00E5A944,extended,00000001

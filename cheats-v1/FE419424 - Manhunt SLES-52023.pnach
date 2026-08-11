@@ -1,14 +1,14 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20457D28,extended,24030001
 
-//Cheats/Infinite Run
+[Cheats/Infinite Run]
 patch=1,EE,20112F70,extended,3C023F80
 patch=1,EE,20112F74,extended,AC220FAC
 
-//Cheats/Infinite Reload
+[Cheats/Infinite Reload]
 patch=1,EE,20267750,extended,00000000
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,105E1F04,extended,00000001
 patch=1,EE,105E1FB4,extended,00000001
 patch=1,EE,105E2064,extended,00000001
@@ -30,7 +30,7 @@ patch=1,EE,105E2AB4,extended,00000001
 patch=1,EE,105E2B64,extended,00000001
 patch=1,EE,105E2C14,extended,00000001
 
-//Cheats/Unlock All Levels Max Stars
+[Cheats/Unlock All Levels Max Stars]
 patch=1,EE,105E1F08,extended,00000005
 patch=1,EE,105E1FB8,extended,00000005
 patch=1,EE,105E2068,extended,00000005

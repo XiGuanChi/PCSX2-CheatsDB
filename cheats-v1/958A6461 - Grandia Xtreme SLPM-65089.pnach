@@ -1,62 +1,62 @@
-//Cheats/Max HP
+[Cheats/Max HP]
 patch=1,EE,20412F4C,extended,005D200B
 
-//Cheats/Max SP
+[Cheats/Max SP]
 patch=1,EE,2041300C,extended,0060200A
 
-//Cheats/Max Muscle Strength
+[Cheats/Max Muscle Strength]
 patch=1,EE,204130CC,extended,0060200A
 
-//Cheats/Max Physical Fitness
+[Cheats/Max Physical Fitness]
 patch=1,EE,2041318C,extended,0060200A
 
-//Cheats/Max Intelligence
+[Cheats/Max Intelligence]
 patch=1,EE,2041324C,extended,0060200A
 
-//Cheats/Max Spirit
+[Cheats/Max Spirit]
 patch=1,EE,2041330C,extended,0060200A
 
-//Cheats/Max Agile
+[Cheats/Max Agile]
 patch=1,EE,204133CC,extended,0060200A
 
-//Cheats/Max Running Power
+[Cheats/Max Running Power]
 patch=1,EE,2041348C,extended,0060380A
 
-//Cheats/Everyone HP 999
+[Cheats/Everyone HP 999]
 patch=1,EE,10412F4E,extended,00000042
 
-//Cheats/Everyone SP 999
+[Cheats/Everyone SP 999]
 patch=1,EE,1041300E,extended,00000060
 
-//Cheats/Everyone Muscle Strength 9999
+[Cheats/Everyone Muscle Strength 9999]
 patch=1,EE,104130CE,extended,00000060
 
-//Cheats/Everyone Physical Strength 9999
+[Cheats/Everyone Physical Strength 9999]
 patch=1,EE,1041318E,extended,00000060
 
-//Cheats/Everyone Intelligence 9999
+[Cheats/Everyone Intelligence 9999]
 patch=1,EE,1041324E,extended,00000060
 
-//Cheats/Everyone Spirit 9999
+[Cheats/Everyone Spirit 9999]
 patch=1,EE,1041330E,extended,00000060
 
-//Cheats/Everyone Agility 9999
+[Cheats/Everyone Agility 9999]
 patch=1,EE,104133CE,extended,00000060
 
-//Cheats/Everyone Running Power 9999
+[Cheats/Everyone Running Power 9999]
 patch=1,EE,1041348E,extended,00000060
 
-//Cheats/HP Full Recovery Every Time the Field is Displayed
+[Cheats/HP Full Recovery Every Time the Field is Displayed]
 patch=1,EE,10415962,extended,00000063
 
-//Cheats/SP Full Recovery Every Time the Field is Displayed
+[Cheats/SP Full Recovery Every Time the Field is Displayed]
 patch=1,EE,104159AA,extended,00000063
 
-//Cheats/Unlock All Composite card
+[Cheats/Unlock All Composite card]
 patch=1,EE,204EFAF0,extended,FFFFFFFF
 patch=1,EE,204EFAF4,extended,FFFFFFFF
 
-//Cheats/Debug mode press 2P controller SELECT Press 1P controller SELECT button to return to normal operation
+[Cheats/Debug mode press 2P controller SELECT Press 1P controller SELECT button to return to normal operation]
 patch=1,EE,D04B0382,extended,0000FFFE
 patch=1,EE,004F039C,extended,00000001
 patch=1,EE,D04B0202,extended,0000FFFE

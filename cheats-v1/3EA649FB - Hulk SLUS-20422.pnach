@@ -1,35 +1,35 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,E6E11290
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,26101EB8
 patch=1,EE,2035F328,extended,0C030088
 
-//Cheats/Infinite Rage
+[Cheats/Infinite Rage]
 patch=1,EE,20233704,extended,3C014348
 patch=1,EE,20233708,extended,AE01129C
 patch=1,EE,20233730,extended,00000000
 patch=1,EE,20233754,extended,00000000
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,20332BB4,extended,00000000
 
-//Cheats/Infinite Continues
+[Cheats/Infinite Continues]
 patch=1,EE,20C56FE0,extended,00000009
 
-//Cheats/Unlock Gray Hulk
+[Cheats/Unlock Gray Hulk]
 patch=1,EE,20BCE428,extended,00000000
 
-//Cheats/Invulnerability
+[Cheats/Invulnerability]
 patch=1,EE,20BCE900,extended,00000000
 
-//Cheats/Regenerator
+[Cheats/Regenerator]
 patch=1,EE,20BCE928,extended,00000000
 
-//Cheats/Full Rage Meter
+[Cheats/Full Rage Meter]
 patch=1,EE,20BCE950,extended,00000000
 
-//Cheats/Unlimited Continues
+[Cheats/Unlimited Continues]
 patch=1,EE,20BCE978,extended,00000000
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,20BCEAE0,extended,0000000

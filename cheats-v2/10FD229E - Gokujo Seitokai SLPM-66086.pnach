@@ -1,6 +1,6 @@
 gametitle=Gokujo Seitokai SLPM-66086
-//Special fully open
+[Special fully open]
 patch=1,EE,2037F570,extended,C0003C01
 
-//Replace New Game With Debug Menu 
+[Replace New Game With Debug Menu]
 patch=1,EE,10D0274A,extended,00000004

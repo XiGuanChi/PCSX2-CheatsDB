@@ -1,11 +1,11 @@
 gametitle=Sega Ages 2500 Series Vol.08 - Virtua Racing Flat Out SLPM-62443
-//Infinite Time
+[Infinite Time]
 patch=1,EE,201B2F94,extended,E4625F88
 
-//Opponents don't move
+[Opponents don't move]
 patch=1,EE,2014A1AC,extended,00000000
 
-//Press R3 during a race last lap and  first place
+[Press R3 during a race last lap and  first place]
 patch=1,EE,D0200908,extended,00000400
 patch=1,EE,2021FEC0,extended,00000003
 patch=1,EE,00000001,extended,0000009A

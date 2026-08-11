@@ -1,22 +1,22 @@
 gametitle=Simple 2000 Ultimate Series vol.33 - Ururun Quest - Koiyuuki SLPS-25717
-//Money 99999
+[Money 99999]
 patch=1,EE,2025D8F4,extended,0001869F
 
-//HP 9999/9999
+[HP 9999/9999]
 patch=1,EE,2025D850,extended,0000270F
 patch=1,EE,2025D820,extended,0000270F
 
-//MP 9999/9999
+[MP 9999/9999]
 patch=1,EE,2025D854,extended,0000270F
 patch=1,EE,2025D824,extended,0000270F
 
-//Stats 999
+[Stats 999]
 patch=1,EE,2025D858,extended,000003E7
 patch=1,EE,2025D85C,extended,000003E7
 patch=1,EE,2025D860,extended,000003E7
 
-//Exp 9999999/Level 99 After Battle (go to equip menu)
+[Exp 9999999/Level 99 After Battle (go to equip menu)]
 patch=1,EE,2025D86A,extended,0098967F
 
-//Level 99
+[Level 99]
 patch=1,EE,2025D864,extended,24030063

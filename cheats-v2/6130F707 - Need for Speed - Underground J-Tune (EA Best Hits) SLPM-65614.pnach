@@ -1,8 +1,8 @@
 gametitle=Need for Speed - Underground J-Tune (EA Best Hits) SLPM-65614
-//Max Cash
+[Max Cash]
 patch=1,EE,204B9D3C,extended,3B9AC9FF
 
-//All ownership of Performance parts 
+[All ownership of Performance parts]
 patch=1,EE,404AE3E4,extended,00090024
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,404AE3E8,extended,00090024
@@ -12,7 +12,7 @@ patch=1,EE,00000003,extended,00000000
 patch=1,EE,404AE3F0,extended,00090024
 patch=1,EE,00000004,extended,00000000
 
-//UNDERGROUND mode Other than last event cleared 
+[UNDERGROUND mode Other than last event cleared]
 patch=1,EE,404AD9E0,extended,001D0001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,004ADA54,extended,00000002

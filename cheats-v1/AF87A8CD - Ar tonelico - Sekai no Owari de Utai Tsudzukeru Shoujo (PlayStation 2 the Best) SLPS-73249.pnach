@@ -1,82 +1,82 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20A7A1E8,extended,0098967F
 
-//Cheats/Max Dive Points After Combat
+[Cheats/Max Dive Points After Combat]
 patch=1,EE,202ECB04,extended,10000011
 
-//Cheats/Experience Earned 1 Billion
+[Cheats/Experience Earned 1 Billion]
 patch=1,EE,203DFE94,extended,3C0D3B9B
 patch=1,EE,203DFE98,extended,08078FCA
 patch=1,EE,203DFE9C,extended,ADED041C
 patch=1,EE,201E3F20,extended,080F7FA5
 
-//Cheats/All Heroine Costumes can be equipped save not reflected
+[Cheats/All Heroine Costumes can be equipped save not reflected]
 patch=1,EE,2018AD4C,extended,24020004
 patch=1,EE,2031D0DC,extended,10000016
 patch=1,EE,2031D1C4,extended,2A2F001F
 
-//Cheats/All Cards Can Be Viewed
+[Cheats/All Cards Can Be Viewed]
 patch=1,EE,2018AD24,extended,24020004
 
-//Cheats/Song Magic Limit gauge rise rate up 5x rise
+[Cheats/Song Magic Limit gauge rise rate up 5x rise]
 patch=1,EE,202F4F30,extended,00000000
 patch=1,EE,202F4F3C,extended,25EF0064
 
-//Cheats/Song Magic No Decrease In Usage
+[Cheats/Song Magic No Decrease In Usage]
 patch=1,EE,20188A30,extended,00000000
 
-//Cheats/Song Magic MP No Consumption
+[Cheats/Song Magic MP No Consumption]
 patch=1,EE,202F594C,extended,00000000
 
-//Cheats/Song Magic Burst Up To Max
+[Cheats/Song Magic Burst Up To Max]
 patch=1,EE,202F598C,extended,00000000
 patch=1,EE,202F5990,extended,3C050010
 
-//Cheats/Song Magic Harmometer Red Up To Max when rising
+[Cheats/Song Magic Harmometer Red Up To Max when rising]
 patch=1,EE,202F4F0C,extended,25E22710
 
-//Cheats/During Glasmerk All Recipes Can Be Viewed
+[Cheats/During Glasmerk All Recipes Can Be Viewed]
 patch=1,EE,2031BCAC,extended,00000000
 
-//Cheats/During Glasmerk Material Infinite Items
+[Cheats/During Glasmerk Material Infinite Items]
 patch=1,EE,20315480,extended,00000000 
 
-//Cheats/During Glasmerk Synthesis Quality S
+[Cheats/During Glasmerk Synthesis Quality S]
 patch=1,EE,203154B4,extended,00000000 
 patch=1,EE,203154EC,extended,240F0063
 
-//Cheats/Unlock EXTRA Appears In The Title Menu Reflected in save only when saving system data when clearing the game
+[Cheats/Unlock EXTRA Appears In The Title Menu Reflected in save only when saving system data when clearing the game]
 patch=1,EE,00C3F357,extended,000000FF
 
-//Cheats/Unlock All Hymmnos Concert Needs a savedata
+[Cheats/Unlock All Hymmnos Concert Needs a savedata]
 patch=1,EE,10C3F0F2,extended,00000101
 patch=1,EE,20C3F0F4,extended,01010101
 patch=1,EE,20C3F0F8,extended,01010101
 
-//Cheats/Unlock All Gallery Needs a savedata
+[Cheats/Unlock All Gallery Needs a savedata]
 patch=1,EE,00C3F263,extended,00000001
 patch=1,EE,40C3F264,extended,000F0001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Movies Needs a savedata
+[Cheats/Unlock All Movies Needs a savedata]
 patch=1,EE,00C3F2C7,extended,00000001
 patch=1,EE,40C3F2C8,extended,00060001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Music Needs a savedata
+[Cheats/Unlock All Music Needs a savedata]
 patch=1,EE,40C3F2E8,extended,00190001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/100% Completion Rate of Cosmosphere
+[Cheats/100% Completion Rate of Cosmosphere]
 patch=1,EE,20C3F0EC,extended,00646464
 
-//Cheats/Costume Possession Rate 100%
+[Cheats/Costume Possession Rate 100%]
 patch=1,EE,00C3F074,extended,00000001
 patch=1,EE,10C3F056,extended,00000101
 patch=1,EE,40C3F058,extended,00070001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Magic Possessed 100%
+[Cheats/Magic Possessed 100%]
 patch=1,EE,00C3F07F,extended,00000004
 patch=1,EE,00C3F0CC,extended,00000004
 patch=1,EE,40C3F080,extended,00130001 

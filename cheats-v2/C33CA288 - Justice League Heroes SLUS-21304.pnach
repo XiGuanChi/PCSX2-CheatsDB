@@ -1,19 +1,19 @@
 gametitle=Justice League Heroes SLUS-21304
-//Infinite Shields
+[Infinite Shields]
 patch=1,EE,10575DD2,extended,0000270F
 
-//Infinite & Max Health Player 1
+[Infinite & Max Health Player 1]
 patch=1,EE,206C2D6C,extended,461C3C00
 patch=1,EE,206C2D70,extended,461C3C00
 
-//Infinite & Max Energy Player 1
+[Infinite & Max Energy Player 1]
 patch=1,EE,206C2DA4,extended,4479C000
 patch=1,EE,206C2DA8,extended,4479C000
 
-//Infinite & Max Health Player 2
+[Infinite & Max Health Player 2]
 patch=1,EE,206C2E24,extended,461C3C00
 patch=1,EE,206C2E28,extended,461C3C00
 
-//Infinite & Max Energy Player 2
+[Infinite & Max Energy Player 2]
 patch=1,EE,206C2E5C,extended,4479C000
 patch=1,EE,206C2E60,extended,4479C000

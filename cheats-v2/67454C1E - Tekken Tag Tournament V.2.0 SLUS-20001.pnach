@@ -1,17 +1,17 @@
 gametitle=Tekken Tag Tournament V.2.0 SLUS-20001
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,20879A34,extended,00097330
 patch=1,EE,20879A38,extended,00097330
 
-//Player 1 Needs 1 Win To Win
+[Player 1 Needs 1 Win To Win]
 patch=1,EE,D087969A,extended,00000000
 patch=1,EE,1087969A,extended,00000001
 
-//1Hit Death Player 2
+[1Hit Death Player 2]
 patch=1,EE,208852D4,extended,00000001
 patch=1,EE,208852D8,extended,00000001
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,20439C70,extended,FFFFFFFF
 patch=1,EE,20439C74,extended,FFFFFFFF
 patch=1,EE,20439C78,extended,FFFFFFFF

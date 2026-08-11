@@ -1,5 +1,5 @@
 gametitle=Moekan SLPM-65425
-//Bonus fully open
+[Bonus fully open]
 patch=1,EE,0027A180,extended,000000FF
 patch=1,EE,4027A184,extended,000E0001
 patch=1,EE,FFFFFFFF,extended,00000000

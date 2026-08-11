@@ -1,15 +1,15 @@
-//Cheats/Regardless Of Which Increases The COM's P0oints Will Decrease
+[Cheats/Regardless Of Which Increases The COM's P0oints Will Decrease]
 patch=1,EE,2017A510,extended,00A7F02D
 
-//Cheats/Batle Skip
+[Cheats/Batle Skip]
 patch=1,EE,2017C124,extended,1000000E
 patch=1,EE,2017C210,extended,3403000F
 
-//Cheats/Unlock All bonus open in title screen After press L3+R3
+[Cheats/Unlock All bonus open in title screen After press L3+R3]
 patch=1,EE,D058871C,extended,0000FFF9
 patch=1,EE,0027C4C8,extended,00000003
 
-//Cheats/Unlock All CG and Character CG
+[Cheats/Unlock All CG and Character CG]
 patch=1,EE,40D09B7C,extended,00110001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,40D09BC8,extended,000F0001

@@ -1,10 +1,10 @@
-//Cheats/Power Glyph 99999999
+[Cheats/Power Glyph 99999999]
 patch=1,EE,202EC148,extended,05F5E0FF
 
-//Cheats/Unlock All Cheat
+[Cheats/Unlock All Cheat]
 patch=1,EE,201A0F60,extended,24100001
 
-//Cheats/Unlock All Weapons
+[Cheats/Unlock All Weapons]
 patch=1,EE,002EE038,extended,00000001
 patch=1,EE,002EE020,extended,00000001
 patch=1,EE,002EE050,extended,00000001

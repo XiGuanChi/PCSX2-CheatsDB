@@ -1,38 +1,38 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,210E2EC8,extended,05F5E0FF
 
-//Cheats/Infinite & Max HP
+[Cheats/Infinite & Max HP]
 patch=1,EE,110E2EDA,extended,000003E7
 patch=1,EE,110E2EDC,extended,000003E7
 
-//Cheats/Infinite & Max MP
+[Cheats/Infinite & Max MP]
 patch=1,EE,110E2EDE,extended,000003E7
 patch=1,EE,110E2EE0,extended,000003E7
 
-//Cheats/Party Member A Infinite & Max HP
+[Cheats/Party Member A Infinite & Max HP]
 patch=1,EE,110E328A,extended,000003E7
 patch=1,EE,110E328C,extended,000003E7
 
-//Cheats/Party Member B Infinite & Max HP
+[Cheats/Party Member B Infinite & Max HP]
 patch=1,EE,110E3376,extended,000003E7
 patch=1,EE,110E3378,extended,000003E7
 
-//Cheats/Party Member C Infinite & Max HP
+[Cheats/Party Member C Infinite & Max HP]
 patch=1,EE,110E3462,extended,000003E7
 patch=1,EE,110E3464,extended,000003E7
 
-//Cheats/No Random Battles
+[Cheats/No Random Battles]
 patch=1,EE,110E4178,extended,00000000
 
-//Cheats/Unlock All Magatama
+[Cheats/Unlock All Magatama]
 patch=1,EE,20239064,extended,2402002E
 patch=1,EE,20239068,extended,A0621D7B
 patch=1,EE,20239094,extended,A0A6FFFF
 
-//Cheats/Unlock All SP Items
+[Cheats/Unlock All SP Items]
 patch=1,EE,210E2CC4,extended,FFFFFFFF
 patch=1,EE,110E2D3A,extended,0000FFFF
 patch=1,EE,110E2D3C,extended,0000FFFF
 
-//Cheats/Battle Debug There is also a battle debug menu with several debugging options in battle that can be activated.This code will allow you to view and enable a few extra debug displays. While in battle, press L1 to bring up collision display, R1 to look at properties of the demons in battle, L1+R1+L2+R2 to win a battle
+[Cheats/Battle Debug There is also a battle debug menu with several debugging options in battle that can be activated.This code will allow you to view and enable a few extra debug displays. While in battle, press L1 to bring up collision display, R1 to look at properties of the demons in battle, L1+R1+L2+R2 to win a battle]
 patch=1,EE,00428BA8,extended,00000001

@@ -1,39 +1,39 @@
 gametitle=Busin - Wizardry Alternative SLPM-62098
-//maximum money
+[maximum money]
 patch=1,EE,20485CA0,extended,77359400
 patch=1,EE,20485CA4,extended,00000000
 
-//98 at store stock fluctuation
+[98 at store stock fluctuation]
 patch=1,EE,20141AA0,extended,24050062
 patch=1,EE,20143994,extended,24030062
 
-//Maximum when the experience value increases
+[Maximum when the experience value increases]
 patch=1,EE,201A8E5C,extended,00000000
 
-//Remaining magic use count does not decrease when not in combat
+[Remaining magic use count does not decrease when not in combat]
 patch=1,EE,201A72C8,extended,9082FFF9
 patch=1,EE,201A76C8,extended,9082FFF9
 
-//Max when Out of Combat Trust increases
+[Max when Out of Combat Trust increases]
 patch=1,EE,201A5A90,extended,24022710
 
-//Maximum HP*
+[Maximum HP*]
 patch=1,EE,201A3A40,extended,240203E7
 
-//HP recovery Effective at loading, battle start, and battle end
+[HP recovery Effective at loading, battle start, and battle end]
 patch=1,EE,201A3A50,extended,950200C0
 patch=1,EE,201A3A64,extended,950200C0
 
-//Maximum number of spells 9 Effective at loading, battle start, and battle end
+[Maximum number of spells 9 Effective at loading, battle start, and battle end]
 patch=1,EE,201A38C4,extended,24040009
 patch=1,EE,201A396C,extended,24040009
 
-//Remaining magic count recovery Effective at loading, battle start, and battle end
+[Remaining magic count recovery Effective at loading, battle start, and battle end]
 patch=1,EE,201A38EC,extended,00000000
 patch=1,EE,201A3994,extended,00000000
 
-//Maximum trust Effective at loading, battle start, and battle end
+[Maximum trust Effective at loading, battle start, and battle end]
 patch=1,EE,201A38A4,extended,24022710
 
-//* 
+[*]
 

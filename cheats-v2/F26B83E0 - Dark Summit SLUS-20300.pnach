@@ -1,7 +1,7 @@
 gametitle=Dark Summit SLUS-20300
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,407A3B40,extended,000501CE
 patch=1,EE,00000001,extended,00000000
 
-//Pause Menu = Debug Menu
+[Pause Menu = Debug Menu]
 patch=1,EE,0025FC44,extended,00000003

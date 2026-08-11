@@ -1,25 +1,25 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,20152CB4,extended,8C810244
 patch=1,EE,20152CBC,extended,AC810248
 
-//Cheats/Infinite Energy
+[Cheats/Infinite Energy]
 patch=1,EE,10b503d6,extended,00004348
 patch=1,EE,10b503da,extended,00004348
 
-//Cheats/Infinite Special Energy
+[Cheats/Infinite Special Energy]
 patch=1,EE,10b503e2,extended,000042c8
 
-//Cheats/Max Exp All Characters
+[Cheats/Max Exp All Characters]
 patch=1,EE,00B130DC,word,000A0018
 patch=1,EE,000F423F,word,00000000
 
-//Cheats/Max Combo 999
+[Cheats/Max Combo 999]
 patch=1,EE,002C9F1C,word,240203E7
 
-//Cheats/Explosion Fighter Biographies Cleared
+[Cheats/Explosion Fighter Biographies Cleared]
 patch=1,EE,00B130E1,extended,00000001
 
-//Cheats/Eight Team And Cosplay Mode Stone Soldier Cleared
+[Cheats/Eight Team And Cosplay Mode Stone Soldier Cleared]
 patch=1,EE,20B130F4,extended,01010101
 patch=1,EE,20B130F8,extended,01010101
 patch=1,EE,20B130FC,extended,01010101
@@ -29,10 +29,10 @@ patch=1,EE,20B13108,extended,01010101
 patch=1,EE,20B1310C,extended,01010101
 patch=1,EE,20B13110,extended,01010101
 
-//Cheats/Unlock Cosplay Mode
+[Cheats/Unlock Cosplay Mode]
 patch=1,EE,10B13048,extended,00000101
 
-//Cheats/Unlock Hidden Character
+[Cheats/Unlock Hidden Character]
 patch=1,EE,00B131A0,extended,00000001
 patch=1,EE,00B13200,extended,00000001
 patch=1,EE,00B13320,extended,00000001

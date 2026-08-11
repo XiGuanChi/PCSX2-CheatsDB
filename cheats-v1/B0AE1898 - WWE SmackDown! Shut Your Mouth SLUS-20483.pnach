@@ -1,35 +1,35 @@
-//Cheats/Infinite Specials All Players
+[Cheats/Infinite Specials All Players]
 patch=1,EE,20152EA4,extended,00000000
 
-//Cheats/Easy Special Gain All Players
+[Cheats/Easy Special Gain All Players]
 patch=1,EE,20223AB8,extended,00000000
 
-//Cheats/All Players Can Hold 5 Specials
+[Cheats/All Players Can Hold 5 Specials]
 patch=1,EE,20223A60,extended,24030005
 
-//Cheats/Infinite Creation Points
+[Cheats/Infinite Creation Points]
 patch=1,EE,202B14BC,extended,24020001
 
-//Cheats/Infinite Time Out Of Ring
+[Cheats/Infinite Time Out Of Ring]
 patch=1,EE,202283F0,extended,00000000
 
-//Cheats/100 Wins Slobber Knocker
+[Cheats/100 Wins Slobber Knocker]
 patch=1,EE,20454A64,extended,00000064
 
-//Cheats/DQ Never Set
+[Cheats/DQ Never Set]
 patch=1,EE,2015BE40,extended,03E00008
 patch=1,EE,2015BE44,extended,00000000
 
-//Cheats/UIdiot AI
+[Cheats/UIdiot AI]
 patch=1,EE,101F7B26,extended,00001000
 
-//Cheats/Player 1 Press L1+Select.While Pinning For 3 Count
+[Cheats/Player 1 Press L1+Select.While Pinning For 3 Count]
 patch=1,EE,E001FBFE,extended,104EBEC2
 patch=1,EE,2013AD18,extended,14850017
 patch=1,EE,E001FBFE,extended,004EBEC2
 patch=1,EE,2013AD18,extended,00000000
 
-//Cheats/Player 1 Press L2+Sselect.While Pinning For 0 Count
+[Cheats/Player 1 Press L2+Sselect.While Pinning For 0 Count]
 patch=1,EE,E002FEFE,extended,104EBEC2
 patch=1,EE,2013AD18,extended,14850017
 patch=1,EE,2013AD1C,extended,00000000
@@ -37,11 +37,11 @@ patch=1,EE,E002FEFE,extended,004EBEC2
 patch=1,EE,2013AD18,extended,10000017
 patch=1,EE,2013AD1C,extended,AE20002C
 
-//Cheats/Unlock Almost Everything
+[Cheats/Unlock Almost Everything]
 patch=1,EE,2042CCA8,extended,FFFFFFFF
 patch=1,EE,2042CCAC,extended,FFFFFFFF
 patch=1,EE,2042CCB0,extended,FFFFFFFF
 
-//Cheats/Unlock Theatre Mode All Movies
+[Cheats/Unlock Theatre Mode All Movies]
 patch=1,EE,0043076A,extended,000000FF
 

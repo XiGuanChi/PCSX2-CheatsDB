@@ -1,20 +1,20 @@
 gametitle=Ribbit King SLES-52466 SLUS.20837
-//All Movies Unlocked
+[All Movies Unlocked]
 patch=1,EE,202785CC,extended,FFFFFFFF
 
-//Infinite C's
+[Infinite C's]
 patch=1,EE,20218A80,extended,05F5E0FF
 
-//Characters Always Have Full Power Swing Bar
+[Characters Always Have Full Power Swing Bar]
 patch=1,EE,200C2000,extended,3C1B3F80
 patch=1,EE,200C2004,extended,449B0000
 patch=1,EE,200C2008,extended,E6800008
 patch=1,EE,200C200C,extended,08052B96
 patch=1,EE,2014AE54,extended,08030800
 
-//Player 1 Only One Shot Recorded
+[Player 1 Only One Shot Recorded]
 patch=1,EE,2043D670,extended,00000000
 
-//Press L3 For Always 1st Move
+[Press L3 For Always 1st Move]
 patch=1,EE,D03AF1C2,extended,0000FFFD
 patch=1,EE,1043D670,extended,00000000

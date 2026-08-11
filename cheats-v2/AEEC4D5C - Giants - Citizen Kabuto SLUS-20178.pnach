@@ -1,21 +1,21 @@
 gametitle=Giants - Citizen Kabuto SLUS-20178
-//Invincibility
+[Invincibility]
 patch=1,EE,10306458,extended,00000001
 
-//Infinite Mana
+[Infinite Mana]
 patch=1,EE,1030645C,extended,00000001
 
-//Infinite Jetpack
+[Infinite Jetpack]
 patch=1,EE,10306464,extended,00000001
 
-//Iinfinite Ammo
+[Iinfinite Ammo]
 patch=1,EE,10306468,extended,00000001
 
-//Enable Target Select
+[Enable Target Select]
 patch=1,EE,103BC370,extended,00000001
 
-//Have Teammates
+[Have Teammates]
 patch=1,EE,103BC6E8,extended,00000001
 
-//Unlock All Missions
+[Unlock All Missions]
 patch=1,EE,103BDAF0,extended,00000001

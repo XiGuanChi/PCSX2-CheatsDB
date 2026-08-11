@@ -1,31 +1,31 @@
-//Cheats/Max Money 9999
+[Cheats/Max Money 9999]
 patch=1,EE,109B2D56,extended,0000270F
 
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,1090095A,extended,00000000
 
-//Cheats/Max Health Press SELECT+R1 Death Health 0
+[Cheats/Max Health Press SELECT+R1 Death Health 0]
 patch=1,EE,201E0460,extended,A6830040
 patch=1,EE,D0300142,extended,0000F7FE
 patch=1,EE,201E0460,extended,A6800040
 
-//Cheats/Max Willpower
+[Cheats/Max Willpower]
 patch=1,EE,209B2D58,extended,00140014
 
-//Cheats/Max Sword Hardness
+[Cheats/Max Sword Hardness]
 patch=1,EE,2024484C,extended,34110005
 patch=1,EE,20244850,extended,AC910020
 
-//Cheats/Current Stamina 2000
+[Cheats/Current Stamina 2000]
 patch=1,EE,109B2D60,extended,000007D0
 
-//Cheats/Stamina 2000 will be reflected when you appear on the town map, but it will not be fixed during play.
+[Cheats/Stamina 2000 will be reflected when you appear on the town map, but it will not be fixed during play.]
 patch=1,EE,109B2D5E,extended,000007D0
 
-//Cheats/Maintain Max Stamina Not compatible with one-hit kill
+[Cheats/Maintain Max Stamina Not compatible with one-hit kill]
 patch=1,EE,201E0460,extended,A6830040
 
-//Cheats/Any Attack Will Kill Anyone except the main character
+[Cheats/Any Attack Will Kill Anyone except the main character]
 patch=1,EE,201E0458,extended,0803E080
 patch=1,EE,201595A8,extended,0803E088
 patch=1,EE,201595AC,extended,8E830184
@@ -41,14 +41,14 @@ patch=1,EE,200F8234,extended,70001E88
 patch=1,EE,200F8238,extended,A6200040
 patch=1,EE,200F823C,extended,0805656C
 
-//Cheats/When Viewing The Toolbox All Tools Are 99
+[Cheats/When Viewing The Toolbox All Tools Are 99]
 patch=1,EE,2017A564,extended,24010001
 patch=1,EE,2017A568,extended,A0415315
 patch=1,EE,2017A56C,extended,24010063
 patch=1,EE,2017A570,extended,A0415300
 patch=1,EE,2017A574,extended,24020001
 
-//Cheats/Unlock All Decoration Items
+[Cheats/Unlock All Decoration Items]
 patch=1,EE,109B7F7A,extended,00002221
 patch=1,EE,209B7F7C,extended,26252423
 patch=1,EE,209B7F80,extended,2A292827
@@ -58,21 +58,21 @@ patch=1,EE,209B7F8C,extended,36353433
 patch=1,EE,209B7F90,extended,3A393837
 patch=1,EE,109B7F94,extended,00003C3B
 
-//Cheats/Unlock All Record Endings Reached
+[Cheats/Unlock All Record Endings Reached]
 patch=1,EE,209B2C6C,extended,01010101
 patch=1,EE,209B2C70,extended,01010101
 patch=1,EE,209B2C74,extended,01010101
 patch=1,EE,209B2C78,extended,01010101
 
-//Cheats/Unlock All Titles Obtained, view to full
+[Cheats/Unlock All Titles Obtained, view to full]
 patch=1,EE,202A52D0,extended,24020063
 patch=1,EE,202A52D8,extended,A2420000
 
-//Cheats/Unlock All Record of acquired decorations, view to full
+[Cheats/Unlock All Record of acquired decorations, view to full]
 patch=1,EE,202A3AE0,extended,24010001
 patch=1,EE,202A3AE4,extended,A0410000
 
-//Cheats/Unlock All Record of acquired swords, view to full
+[Cheats/Unlock All Record of acquired swords, view to full]
 patch=1,EE,202A4710,extended,34630001
 patch=1,EE,202A4718,extended,A0C30000
 

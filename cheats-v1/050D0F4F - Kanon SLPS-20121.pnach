@@ -1,4 +1,4 @@
-//Cheats/Unlock All Bonus & CG
+[Cheats/Unlock All Bonus & CG]
 patch=1,EE,201B9994,extended,FFFFFFFF
 patch=1,EE,201B9998,extended,FFFFFFFF
 patch=1,EE,201B999C,extended,FFFFFFFF
@@ -6,5 +6,5 @@ patch=1,EE,201B99A0,extended,FFFFFFFF
 patch=1,EE,201B99A4,extended,FFFFFFFF
 patch=1,EE,201B99A8,extended,FFFFFFFF
 
-//Cheats/Debug Mode This will unlock everything in the game, display debug information on-screen, and will open a debug menu when starting a new game
+[Cheats/Debug Mode This will unlock everything in the game, display debug information on-screen, and will open a debug menu when starting a new game]
 patch=1,EE,001B9840,extended,00000001

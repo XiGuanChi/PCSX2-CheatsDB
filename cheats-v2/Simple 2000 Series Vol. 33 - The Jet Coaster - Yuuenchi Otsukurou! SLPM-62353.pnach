@@ -1,11 +1,11 @@
 gametitle=Simple 2000 Series Vol. 33 - The Jet Coaster - Yuuenchi Otsukurou! SLPM-62353
-//Max funds
+[Max funds]
 patch=1,EE,2050FD84,extended,4B189680
 
-//Max Points
+[Max Points]
 patch=1,EE,2050FD88,extended,0098967F
 
-//Evaluation maximum when the roller coaster finishes
+[Evaluation maximum when the roller coaster finishes]
 patch=1,EE,2050FEC2,extended,0000270F
 patch=1,EE,2050FEC4,extended,270F0000
 patch=1,EE,2050FEC8,extended,270F270F

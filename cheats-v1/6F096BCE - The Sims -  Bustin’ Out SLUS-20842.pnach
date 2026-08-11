@@ -1,37 +1,37 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,200C0220,extended,3C01000F
 patch=1,EE,200C0224,extended,3421423F
 patch=1,EE,200C0228,extended,08074020
 patch=1,EE,200C022C,extended,ACC10480
 patch=1,EE,201BA9EC,extended,0C030088
 
-//Cheats/Motives Dont Go Down
+[Cheats/Motives Dont Go Down]
 patch=1,EE,202D38D8,extended,03E00008
 patch=1,EE,202D38DC,extended,00000000
 
-//Cheats/Bladder Motive Never Decreases
+[Cheats/Bladder Motive Never Decreases]
 patch=1,EE,202D4070,extended,00000000
 
-//Cheats/Comfort Motive Never Decreases
+[Cheats/Comfort Motive Never Decreases]
 patch=1,EE,202D3FA4,extended,00000000
 
-//Cheats/Energy Motive Never Decreases
+[Cheats/Energy Motive Never Decreases]
 patch=1,EE,202D3EF8,extended,00000000
 
-//Cheats/Hunger Motive Never Decreases
+[Cheats/Hunger Motive Never Decreases]
 patch=1,EE,202D3FA8,extended,00000000
 
-//Cheats/Hygiene Motive Never Decreases
+[Cheats/Hygiene Motive Never Decreases]
 patch=1,EE,202D406C,extended,00000000
 
-//Cheats/All Items Are Free
+[Cheats/All Items Are Free]
 patch=1,EE,203F8750,extended,00000000
 
-//Cheats/Unlock All Objects
+[Cheats/Unlock All Objects]
 patch=1,EE,103F8758,extended,00000001
 
-//Cheats/Unlock All Houses
+[Cheats/Unlock All Houses]
 patch=1,EE,203F875C,extended,00000001
 
-//Cheats/60 FPS
+[Cheats/60 FPS]
 patch=1,EE,202A2EB8,extended,28820001

@@ -1,12 +1,12 @@
 gametitle=Ace Combat 5 - The Unsung War SLPS-25418
-//Max Money
+[Max Money]
 patch=1,EE,205C94B0,extended,3B9AC9FF
 
-//Does not decrease missile bullet
+[Does not decrease missile bullet]
 patch=1,EE,20127BF4,extended,10000066
 patch=1,EE,20129418,extended,1000006C
 
-//No collison ground
+[No collison ground]
 patch=1,EE,20128230,extended,0C0385B1
 patch=1,EE,200E16C4,extended,AFA3041C
 patch=1,EE,200E16C8,extended,3C01000E

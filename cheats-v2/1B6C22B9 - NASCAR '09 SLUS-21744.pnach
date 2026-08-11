@@ -1,22 +1,22 @@
 gametitle=NASCAR '09 SLUS-21744
-//Always First Place
+[Always First Place]
 patch=1,EE,D05F10C6,extended,00010000
 patch=1,EE,105F10C6,extended,00000000
 
-//Press Select Last Lap
+[Press Select Last Lap]
 patch=1,EE,E002FFFE,extended,00695DC2
 patch=1,EE,506094F6,extended,00000002
 patch=1,EE,005F10C4,extended,00000000
 
-//Infinite Fuel
+[Infinite Fuel]
 patch=1,EE,20156E90,extended,00000000
 
-//Infinite Tires
+[Infinite Tires]
 patch=1,EE,20151734,extended,00000000
 patch=1,EE,20151738,extended,00000000
 patch=1,EE,20151780,extended,00000000
 
-//Gain/Use Money/Skill Points to Get max
+[Gain/Use Money/Skill Points to Get max]
 patch=1,EE,200A0000,extended,3C033B9A
 patch=1,EE,200A0004,extended,3463C9FF
 patch=1,EE,200A0008,extended,AD230000

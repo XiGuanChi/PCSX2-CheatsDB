@@ -1,110 +1,110 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,2031A700,extended,05F5E0FF
 
-//Cheats/Infinite AP
+[Cheats/Infinite AP]
 patch=1,EE,10306F44,extended,00009C3C
 
-//Cheats/Infinite Energy
+[Cheats/Infinite Energy]
 patch=1,EE,10306F48,extended,00009C3C
 
-//Cheats/Infinite Right Ammo
+[Cheats/Infinite Right Ammo]
 patch=1,EE,10307808,extended,000003E7
 
-//Cheats/Max Right Ammo
+[Cheats/Max Right Ammo]
 patch=1,EE,1030780A,extended,000003E7
 
-//Cheats/Max Infinite Right Ammo
+[Cheats/Max Infinite Right Ammo]
 patch=1,EE,20307808,extended,03E703E7
 
-//Cheats/Infinite Back Ammo
+[Cheats/Infinite Back Ammo]
 patch=1,EE,10307888,extended,00000063
 patch=1,EE,10307908,extended,00000063
 
-//Cheats/Infinite Ammo All Weapons
+[Cheats/Infinite Ammo All Weapons]
 patch=1,EE,2014E7CC,extended,00000000
 
-//Cheats/Extra Ammo All Weapons
+[Cheats/Extra Ammo All Weapons]
 patch=1,EE,1014E7C8,extended,00000001
 
-//Cheats/Have All Heads
+[Cheats/Have All Heads]
 patch=1,EE,40483C70,extended,00030001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,10483C7C,extended,00000101
 
-//Cheats/Have All Cores
+[Cheats/Have All Cores]
 patch=1,EE,00483CB0,extended,00000001
 patch=1,EE,10483CB2,extended,00000101
 patch=1,EE,10483CB4,extended,00000101
 
-//Cheats/Have All Arms
+[Cheats/Have All Arms]
 patch=1,EE,40483CF0,extended,00060001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Have All Legs
+[Cheats/Have All Legs]
 patch=1,EE,40483D30,extended,00080001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,10483D50,extended,00010101
 patch=1,EE,00483D52,extended,00000001
 
-//Cheats/Have All Boosters
+[Cheats/Have All Boosters]
 patch=1,EE,20483D70,extended,01010101
 patch=1,EE,20483D74,extended,00010101
 
-//Cheats/Have All FCS
+[Cheats/Have All FCS]
 patch=1,EE,20483DB0,extended,01010101
 patch=1,EE,20483DB4,extended,01010101
 patch=1,EE,10483DB8,extended,00000101
 
-//Cheats/Have All Generators
+[Cheats/Have All Generators]
 patch=1,EE,20483DF0,extended,01010101
 patch=1,EE,20483DF4,extended,01010101
 
-//Cheats/Have All Radiators
+[Cheats/Have All Radiators]
 patch=1,EE,20483E30,extended,01010101
 patch=1,EE,20483E34,extended,01010101
 
-//Cheats/Have All Inside Parts
+[Cheats/Have All Inside Parts]
 patch=1,EE,20483E70,extended,01010101
 patch=1,EE,20483E74,extended,01010101
 patch=1,EE,10483E78,extended,00000101
 
-//Cheats/Have All Extensions
+[Cheats/Have All Extensions]
 patch=1,EE,20483EB0,extended,01010101
 patch=1,EE,20483EB4,extended,01010101
 patch=1,EE,10483EB8,extended,00000101
 
-//Cheats/Have All Back Units R
+[Cheats/Have All Back Units R]
 patch=1,EE,40483EF0,extended,000A0001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,10483F18,extended,00000202
 
-//Cheats/Have All Back Units L
+[Cheats/Have All Back Units L]
 patch=1,EE,40483F30,extended,000A0001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,10483F58,extended,00000202
 
-//Cheats/Have All Arm Units R
+[Cheats/Have All Arm Units R]
 patch=1,EE,40483F70,extended,00070001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,00483F8C,extended,00000001
 
-//Cheats/Have All Arm Units L
+[Cheats/Have All Arm Units L]
 patch=1,EE,20483FB0,extended,01010101
 patch=1,EE,20483FB4,extended,01010101
 patch=1,EE,10483FB8,extended,00000101
 
-//Cheats/Have All Optional Parts
+[Cheats/Have All Optional Parts]
 patch=1,EE,40483FF0,extended,00030001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,20483FFC,extended,01010101
 
-//Cheats/System Info Max Sorties
+[Cheats/System Info Max Sorties]
 patch=1,EE,1031A70A,extended,000003E7
 
-//Cheats/System Info Max Successful Sorties
+[Cheats/System Info Max Successful Sorties]
 patch=1,EE,1031A70C,extended,000003E7
 
-//Cheats/Have All Objectives Complete
+[Cheats/Have All Objectives Complete]
 patch=1,EE,1031A8F2,extended,00000202
 patch=1,EE,4031A8F4,extended,00180001
 patch=1,EE,02020202,extended,00000000

@@ -1,27 +1,27 @@
 gametitle=Juuni Kokuki - Kakukakutaru Oudou Kouryoku no Uka SLPM-65596
-//Max with getting money
+[Max with getting money]
 patch=1,EE,2012D738,extended,24032800
 
-//Max possession by tool acquisition
+[Max possession by tool acquisition]
 patch=1,EE,201AF770,extended,64100063
 
-//Physical strength & enthusiasm for the menu open(non fighting
+[Physical strength & enthusiasm for the menu open(non fighting]
 patch=1,EE,2015642C,extended,8E0500E0
 patch=1,EE,20156448,extended,AE0500DC
 patch=1,EE,20156548,extended,E60100D0
 
-//Battle related Max physical strength 
+[Battle related Max physical strength]
 patch=1,EE,201EA254,extended,E44216A4
 
-//Max vigor
+[Max vigor]
 patch=1,EE,201EA258,extended,C44316B4
 patch=1,EE,201EA264,extended,E44316B0
 
-//Not damaged
+[Not damaged]
 patch=1,EE,201F3180,extended,3C030002
 patch=1,EE,201F3188,extended,14600070
 
-//There is no damage + death of an enemy SELECT + L2 = Enemy Blow Death ON SELECT + R2 = Enemy Blow Death OFF
+[There is no damage + death of an enemy SELECT + L2 = Enemy Blow Death ON SELECT + R2 = Enemy Blow Death OFF]
 patch=1,EE,201F3180,extended,3C030002
 patch=1,EE,201F3188,extended,14600070
 patch=1,EE,D0393E82,extended,0000FEFE

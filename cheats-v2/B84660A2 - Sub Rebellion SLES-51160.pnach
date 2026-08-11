@@ -1,20 +1,20 @@
 gametitle=Sub Rebellion SLES-51160
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,20257A60,extended,3B9AC9FF
 
-//All Weapons
+[All Weapons]
 patch=1,EE,20257A64,extended,02020202
 patch=1,EE,20257A68,extended,02020202
 patch=1,EE,20257A6C,extended,02020202
 patch=1,EE,20257A70,extended,02020202
 
-//All Equipment
+[All Equipment]
 patch=1,EE,20257A7C,extended,02020202
 
-//All Specials
+[All Specials]
 patch=1,EE,20257A74,extended,02020202
 patch=1,EE,20257A78,extended,02020202
 
-//No Collision
+[No Collision]
 patch=1,EE,2013B420,extended,03E00008
 patch=1,EE,2013B424,extended,00000000

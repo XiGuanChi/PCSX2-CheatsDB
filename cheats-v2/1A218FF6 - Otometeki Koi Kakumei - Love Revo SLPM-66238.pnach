@@ -1,23 +1,23 @@
 gametitle=Otometeki Koi Kakumei - Love Revo SLPM-66238
-//Gold 9999999
+[Gold 9999999]
 patch=1,EE,20330010,extended,0098967F
 
-//Collection fully open
+[Collection fully open]
 patch=1,EE,2025F460,extended,240E0001
 patch=1,EE,2025F464,extended,A1EE1D10
 
-//Three frames theater fully open
+[Three frames theater fully open]
 patch=1,EE,2026C514,extended,A1EE1E10
 patch=1,EE,2026C518,extended,15CE042D
 
-//Dream recollection fully open
+[Dream recollection fully open]
 patch=1,EE,2026621C,extended,24020001
 
-//Special voice fully open
+[Special voice fully open]
 patch=1,EE,202713F0,extended,240F0001
 patch=1,EE,002713F4,extended,00000039
 patch=1,EE,202714DC,extended,AE0FFFFC
 patch=1,EE,002714E8,extended,000000C1
 
-//The Hara-Heri gauge fluctuating and 0
+[The Hara-Heri gauge fluctuating and 0]
 patch=1,EE,2016AACC,extended,A6000066

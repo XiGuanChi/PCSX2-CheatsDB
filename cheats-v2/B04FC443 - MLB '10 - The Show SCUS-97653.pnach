@@ -1,5 +1,5 @@
 gametitle=MLB '10 - The Show SCUS-97653
-//Always Make Contact Hold R1 
+[Always Make Contact Hold R1]
 patch=1,EE,20823808,extended,8E62001C
 patch=1,EE,20823810,extended,8E250000
 patch=1,EE,208238F0,extended,10400E76
@@ -8,7 +8,7 @@ patch=1,EE,20823808,extended,34050006
 patch=1,EE,20823810,extended,AE250000
 patch=1,EE,208238F0,extended,00000000
 
-//Hit Homeruns All the Time Hold R1 or Square 
+[Hit Homeruns All the Time Hold R1 or Square]
 patch=1,EE,200A0000,extended,3C060022
 patch=1,EE,200A0004,extended,24C6DD8E
 patch=1,EE,200A0008,extended,90C30001

@@ -1,12 +1,12 @@
-//Cheats/Invincible 1P and 2P
+[Cheats/Invincible 1P and 2P]
 patch=1,EE,201AF27C,extended,24030100
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,2015FC54,extended,00000000
 
-//Cheats/Press L1 Reduce Enemy Count To 0 STAGE4-8 cannot be cleared even with 0 enemies if bug settings are ON
+[Cheats/Press L1 Reduce Enemy Count To 0 STAGE4-8 cannot be cleared even with 0 enemies if bug settings are ON]
 patch=1,EE,D0299210,extended,00000004
 patch=1,EE,20361930,extended,00000000
 
-//Cheats/Unlock EXTRA GAME
+[Cheats/Unlock EXTRA GAME]
 patch=1,EE,202651DC,extended,00000001

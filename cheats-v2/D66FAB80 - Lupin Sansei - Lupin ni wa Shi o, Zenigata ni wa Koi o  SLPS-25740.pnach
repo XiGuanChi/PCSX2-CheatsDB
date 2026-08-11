@@ -1,5 +1,5 @@
 gametitle=Lupin Sansei - Lupin ni wa Shi o, Zenigata ni wa Koi o  SLPS-25740
-//All Characters stamina gauge 200
+[All Characters stamina gauge 200]
 patch=1,EE,204BCED4,extended,0C12FDAD
 patch=1,EE,20518E74,extended,0C12FDAD
 patch=1,EE,205DEBBC,extended,0C12FDAD
@@ -13,13 +13,13 @@ patch=1,EE,204BFA9C,extended,AE0502A8
 patch=1,EE,20876664,extended,000000C8
 patch=1,EE,2087666C,extended,000000C8
 
-//Fujiko's mini-game score attack MAX
+[Fujiko's mini-game score attack MAX]
 patch=1,EE,201077F8,extended,00000000
 
-//Chapter Selection fully open
+[Chapter Selection fully open]
 patch=1,EE,208763C4,extended,FFFFFFFF
 
-//Getting benefits fully open
+[Getting benefits fully open]
 patch=1,EE,208763CC,extended,FFFFFFFF
 patch=1,EE,208763D0,extended,FFFFFFFF
 patch=1,EE,208763D4,extended,FFFFFFFF

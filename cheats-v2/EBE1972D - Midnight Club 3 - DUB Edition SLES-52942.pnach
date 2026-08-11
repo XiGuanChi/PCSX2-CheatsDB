@@ -1,15 +1,15 @@
 gametitle=Midnight Club 3 - DUB Edition SLES-52942
-//Disable Car Damage
+[Disable Car Damage]
 patch=1,EE,202D36A0,extended,03E00008
 patch=1,EE,202D36A4,extended,00000000
 
-//Turbo Acc.Press Circle+X at same time to activate.
+[Turbo Acc.Press Circle+X at same time to activate.]
 patch=1,EE,20261B40,extended,3C017F00
 patch=1,EE,20261B44,extended,44810800
 patch=1,EE,20261B40,extended,C4400024
 patch=1,EE,20261B44,extended,46000842
 
-//Open All
+[Open All]
 patch=1,EE,00615544,extended,00000001
 patch=1,EE,00615545,extended,00000001
 patch=1,EE,00615546,extended,00000001
@@ -18,23 +18,23 @@ patch=1,EE,00615548,extended,00000001
 patch=1,EE,00615549,extended,00000001
 patch=1,EE,0061554A,extended,00000001
 
-//Open Races
+[Open Races]
 patch=1,EE,00615544,extended,00000001
 
-//Open Cities
+[Open Cities]
 patch=1,EE,00615545,extended,00000001
 
-//Open Vehicules
+[Open Vehicules]
 patch=1,EE,00615546,extended,00000001
 
-//Open Customisation
+[Open Customisation]
 patch=1,EE,00615547,extended,00000001
 
-//Open Abilities
+[Open Abilities]
 patch=1,EE,00615548,extended,00000001
 
-//Open Insanity
+[Open Insanity]
 patch=1,EE,00615549,extended,00000001
 
-//Open Upgrades
+[Open Upgrades]
 patch=1,EE,0061554A,extended,00000001

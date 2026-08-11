@@ -1,20 +1,20 @@
-//Cheats/Invinicibility Mode
+[Cheats/Invinicibility Mode]
 patch=1,EE,103677B4,extended,00000001
 
-//Cheats/Infinite Health Selected Units
+[Cheats/Infinite Health Selected Units]
 patch=1,EE,201B1038,extended,C4410100
 patch=1,EE,201B105C,extended,E44100FC
 
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,200C0008,extended,3C0147C3
 patch=1,EE,200C000C,extended,34214F80
 patch=1,EE,200C0010,extended,AC410190
 
-//Cheats/Have All Gold Medals
+[Cheats/Have All Gold Medals]
 patch=1,EE,203D6A48,extended,07F7F7F0
 
-//Cheats/All Landing Zones Appear on Map Drop Ships
+[Cheats/All Landing Zones Appear on Map Drop Ships]
 patch=1,EE,103678DC,extended,00000001
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,203D6A40,extended,FFFFFFFF

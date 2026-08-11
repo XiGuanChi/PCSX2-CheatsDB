@@ -1,29 +1,29 @@
 gametitle=Kagero II - Dark Illusion SLPS-25445
-//MaxTotal Ark 
+[MaxTotal Ark]
 patch=1,EE,20B269E0,extended,3B9AC9FF
 
-//Max Total Warl 
+[Max Total Warl]
 patch=1,EE,20B269E8,extended,3B9AC9FF
 
-//Does not decrease life gauge
+[Does not decrease life gauge]
 patch=1,EE,20179AF8,extended,00000000
 
-//All traps developed
+[All traps developed]
 patch=1,EE,10B269F6,extended,0000FFFF
 patch=1,EE,20B269F8,extended,FFFFFFFF
 
-//During mission: Time limit 0 with SELECT + L1 button
+[During mission: Time limit 0 with SELECT + L1 button]
 patch=1,EE,20174888,extended,00000000
 patch=1,EE,D04B9642,extended,0000FBFE
 patch=1,EE,20174888,extended,24030000
 
-//Scenario ABC cleared
+[Scenario ABC cleared]
 patch=1,EE,00B26DAE,extended,00000007
 
-//Museum Added dark illusion
+[Museum Added dark illusion]
 patch=1,EE,00B26A0C,extended,000000FF
 patch=1,EE,00B2721C,extended,000000FF
 
-//Museum Added gallery and sound test
+[Museum Added gallery and sound test]
 patch=1,EE,00B26DB4,extended,00000017
 patch=1,EE,00B275C4,extended,00000017

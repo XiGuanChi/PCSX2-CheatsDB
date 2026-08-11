@@ -1,10 +1,10 @@
-//Cheats/Start A New Game For All Gadgets
+[Cheats/Start A New Game For All Gadgets]
 patch=1,EE,2042CDB0,extended,A0430000
 
-//Cheats/Start A New Game For All Weapons
+[Cheats/Start A New Game For All Weapons]
 patch=1,EE,2043D3E8,extended,A0430000
 
-//Cheats/1 Hit Kill All Planets
+[Cheats/1 Hit Kill All Planets]
 patch=1,EE,200A0000,extended,3C010019
 patch=1,EE,200A0004,extended,8C21C2B0
 patch=1,EE,200A0008,extended,10200006
@@ -14,78 +14,78 @@ patch=1,EE,200A001C,extended,AC200020
 patch=1,EE,200A0024,extended,03E00008
 patch=1,EE,2011d1fc,extended,08028000
 
-//Cheats/Infinite Air
+[Cheats/Infinite Air]
 patch=1,EE,2018C2E0,extended,00002710
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2018C2EC,extended,00000004
 
-//Cheats/Infinite Health Giant Clank
+[Cheats/Infinite Health Giant Clank]
 patch=1,EE,2018B694,extended,000004B0
 
-//Cheats/Max Crystals Found
+[Cheats/Max Crystals Found]
 patch=1,EE,101A7A1A,extended,0000270F
 
-//Cheats/Max Bolts
+[Cheats/Max Bolts]
 patch=1,EE,201A79F8,extended,0098967F
 
-//Cheats/Max Moonstones
+[Cheats/Max Moonstones]
 patch=1,EE,201A7A18,extended,0098967F
 
-//Cheats/Max Nanotech
+[Cheats/Max Nanotech]
 patch=1,EE,201A7A0C,extended,00001680
 
-//Cheats/Max Raritanium
+[Cheats/Max Raritanium]
 patch=1,EE,201A79FC,extended,0098967F
 
-//Cheats/Planet Aranos 1 Hit Kill Enemies+Bosses
+[Cheats/Planet Aranos 1 Hit Kill Enemies+Bosses]
 patch=1,EE,D01A79F0,extended,00000000
 patch=1,EE,20326C18,extended,AE000000
 
-//Cheats/Planet Aranos Infinite Ammo All Weapons
+[Cheats/Planet Aranos Infinite Ammo All Weapons]
 patch=1,EE,D01A79F0,extended,00000000
 patch=1,EE,202D3FA4,extended,00000000
 
-//Cheats/Planet Barlow Infinite Turbo
+[Cheats/Planet Barlow Infinite Turbo]
 patch=1,EE,2040E604,extended,00000000
 
-//Cheats/Planet Barlow Infinite Turbo Alt
+[Cheats/Planet Barlow Infinite Turbo Alt]
 patch=1,EE,21E74CBC,extended,00000003
 
-//Cheats/Planet Barlow Infinite Turbo Boost
+[Cheats/Planet Barlow Infinite Turbo Boost]
 patch=1,EE,2040e600,extended,AE230338
 
-//Cheats/Planet Barlow Infinite Turbo Boost Alt
+[Cheats/Planet Barlow Infinite Turbo Boost Alt]
 patch=1,EE,21E74CB8,extended,000000F0
 
-//Cheats/Planet Barlow Infinite weapon Ammo
+[Cheats/Planet Barlow Infinite weapon Ammo]
 patch=1,EE,2040f1b8,extended,24040003
 
-//Cheats/Planet Barlow Infinite weapon Ammo Alt
+[Cheats/Planet Barlow Infinite weapon Ammo Alt]
 patch=1,EE,21E74CE4,extended,00000003
 
-//Cheats/Planet Endako 1 Hit Kill Enemies+Bosses
+[Cheats/Planet Endako 1 Hit Kill Enemies+Bosses]
 patch=1,EE,D01A79F0,extended,00000003
 patch=1,EE,20327834,extended,AE000000
 
-//Cheats/Planet Endako Infinite Ammo All Weapons
+[Cheats/Planet Endako Infinite Ammo All Weapons]
 patch=1,EE,D01A79F0,extended,00000003
 patch=1,EE,202D4A2C,extended,00000000
 
-//Cheats/Planet Ooozla 1 Hit Kill Enemies+Bosses
+[Cheats/Planet Ooozla 1 Hit Kill Enemies+Bosses]
 patch=1,EE,D01A79F0,extended,00000001
 patch=1,EE,2031C908,extended,AE000000
 
-//Cheats/Planet Ooozla Infinite Ammo All Weapons
+[Cheats/Planet Ooozla Infinite Ammo All Weapons]
 patch=1,EE,D01A79F0,extended,00000001
 patch=1,EE,202C9724,extended,00000000
 
-//Cheats/Have All Items, Weapons and Gadgets
+[Cheats/Have All Items, Weapons and Gadgets]
 patch=1,EE,101A7B02,extended,00000101
 patch=1,EE,401A7B04,extended,000D0001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Cinematics
+[Cheats/Unlock All Cinematics]
 patch=1,EE,20139768,extended,FFFFFFFF
 patch=1,EE,2013976C,extended,FFFFFFFF
 patch=1,EE,20139770,extended,FFFFFFFF
@@ -96,14 +96,14 @@ patch=1,EE,20139780,extended,FFFFFFFF
 patch=1,EE,20139784,extended,FFFFFFFF
 patch=1,EE,201ABD88,extended,00000001
 
-//Cheats/Unlock Making Of Video
+[Cheats/Unlock Making Of Video]
 patch=1,EE,201ABD90,extended,00000001
 
-//Cheats/Unlock Cancelled Commercials
+[Cheats/Unlock Cancelled Commercials]
 patch=1,EE,201ABD94,extended,00000001
 
-//Cheats/Unlock All Sketchbook
+[Cheats/Unlock All Sketchbook]
 patch=1,EE,201ABD98,extended,00000001
 
-//Cheats/Unlock All Misc Extras
+[Cheats/Unlock All Misc Extras]
 patch=1,EE,001A7A12,extended,00000001

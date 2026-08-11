@@ -1,18 +1,18 @@
 gametitle=Shoujo Yoshitsume-Den SLPM-65364
-//Infinite & Max HP Main Character
+[Infinite & Max HP Main Character]
 patch=1,EE,202A21C8,extended,000003E7
 patch=1,EE,202A21CC,extended,000003E7
 
-//UP level in EP acquisition
+[UP level in EP acquisition]
 patch=1,EE,201B84E4,extended,A6200000
 
-//Favorability rating MAX All Characters
+[Favorability rating MAX All Characters]
 patch=1,EE,20191ECC,extended,00000000
 
-//CG Gallery fully open
+[CG Gallery fully open]
 patch=1,EE,20291A20,extended,FFFFFFFF
 patch=1,EE,20291A24,extended,FFFFFFFF
 patch=1,EE,20291A28,extended,03FFFFFF
 
-//Movie Gallery fully open
+[Movie Gallery fully open]
 patch=1,EE,10291A50,extended,000003FF

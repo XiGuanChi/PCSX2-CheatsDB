@@ -1,26 +1,26 @@
-//Cheats/infinite Health P1
+[Cheats/infinite Health P1]
 patch=1,EE,201C5BA0,extended,3C0201ED
 patch=1,EE,201C5BA4,extended,341A01A4
 patch=1,EE,201C5BA8,extended,A45AC816
 patch=1,EE,201C5BB0,extended,1000003E
 
-//Cheats/Max tension gauge P1
+[Cheats/Max tension gauge P1]
 patch=1,EE,1033A540,extended,00002710
 
-//Cheats/P1 always SP
+[Cheats/P1 always SP]
 patch=1,EE,1033A4AC,extended,00000001
 
-//Cheats/P1 guard level gauge change
+[Cheats/P1 guard level gauge change]
 patch=1,EE,1033A55A,extended,0000FF80
 
-//Cheats/Max burst gauge P1
+[Cheats/Max burst gauge P1]
 patch=1,EE,1033A634,extended,00003A98
 
-//Cheats/Unlock All Hidden Characters
+[Cheats/Unlock All Hidden Characters]
 patch=1,EE,002EAA53,extended,00000001
 patch=1,EE,002EAA54,extended,00000001
 
-//Cheats/Unlock All RELOAD Characters
+[Cheats/Unlock All RELOAD Characters]
 patch=1,EE,202EAA70,extended,01010101
 patch=1,EE,202EAA74,extended,01010101
 patch=1,EE,202EAA78,extended,01010101
@@ -28,22 +28,22 @@ patch=1,EE,202EAA7C,extended,01010101
 patch=1,EE,202EAA80,extended,01010101
 patch=1,EE,002EAA84,extended,00000001
 
-//Cheats/Unlock All Gallery, Mission Mode, MISSIN CLEAR SOL-JUSTICE
+[Cheats/Unlock All Gallery, Mission Mode, MISSIN CLEAR SOL-JUSTICE]
 patch=1,EE,002EC963,extended,00000001
 patch=1,EE,402EC964,extended,00060001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Gallery, Mission Mode, Arcade Mode ENDING SOL-JUSTICE
+[Cheats/Unlock All Gallery, Mission Mode, Arcade Mode ENDING SOL-JUSTICE]
 patch=1,EE,402EC9B0,extended,00060001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,002EC9C8,extended,00000001
 
-//Cheats/Unlock All Gallery, SpecialS, SPECIAL ILLUSTRATION 1-9
+[Cheats/Unlock All Gallery, SpecialS, SPECIAL ILLUSTRATION 1-9]
 patch=1,EE,202EC97C,extended,01010101
 patch=1,EE,202EC980,extended,01010101
 patch=1,EE,002EC984,extended,00000001
 
-//Cheats/Unlock All Gallery, Mission Mode, Arcade Mode & Special
+[Cheats/Unlock All Gallery, Mission Mode, Arcade Mode & Special]
 patch=1,EE,002EC963,extended,00000001
 patch=1,EE,402EC964,extended,00080001
 patch=1,EE,01010101,extended,00000000

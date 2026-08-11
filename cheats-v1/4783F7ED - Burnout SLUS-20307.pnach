@@ -1,25 +1,25 @@
-//Cheats/Infinite Turbo
+[Cheats/Infinite Turbo]
 patch=1,EE,203A76DC,extended,42C80000
 
-//Cheats/Infinite Credits
+[Cheats/Infinite Credits]
 patch=1,EE,1037ED50,extended,000003E7
 
-//Cheats/Have Survival
+[Cheats/Have Survival]
 patch=1,EE,0037929C,extended,00000000
 
-//Cheats/Unlock All Cars
+[Cheats/Unlock All Cars]
 patch=1,EE,403791F4,extended,000A0001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Unlock All Face Offs
+[Cheats/Unlock All Face Offs]
 patch=1,EE,4037928C,extended,00040001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Unlock All Tracks
+[Cheats/Unlock All Tracks]
 patch=1,EE,4037921C,extended,00100001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Unlock All Tracks Championship Track
+[Cheats/Unlock All Tracks Championship Track]
 patch=1,EE,4037925C,extended,00060001
 patch=1,EE,00000000,extended,00000000
 

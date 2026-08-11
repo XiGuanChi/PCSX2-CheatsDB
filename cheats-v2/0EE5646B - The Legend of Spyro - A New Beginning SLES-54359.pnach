@@ -1,20 +1,20 @@
 gametitle=The Legend of Spyro - A New Beginning SLES-54359
-//Infinite & Max Health
+[Infinite & Max Health]
 patch=1,EE,207D1A80,extended,42C80000
 patch=1,EE,207D1A84,extended,42C80000
 patch=1,EE,207D1A88,extended,42C80000
 
-//Massive Upgrade Points
+[Massive Upgrade Points]
 patch=1,EE,207D1A98,extended,4479C000
 
-//One-Hit Kills
+[One-Hit Kills]
 patch=1,EE,001E2232,extended,00000080
 
-//Unlock All Weapons
+[Unlock All Weapons]
 patch=1,EE,407D1AE0,extended,00040020
 patch=1,EE,0000000F,extended,00000000
 
-//All Upgrades Maxed
+[All Upgrades Maxed]
 patch=1,EE,207D1AE4,extended,00000003
 patch=1,EE,207D1AE8,extended,00000003
 patch=1,EE,207D1B04,extended,00000003

@@ -1,17 +1,17 @@
 gametitle=Sitting Ducks SLUS-20886
-//Have All Flyers
+[Have All Flyers]
 patch=1,EE,2094213C,extended,00000064
 
-//Max Feathers
+[Max Feathers]
 patch=1,EE,209422EC,extended,000003E7
 
-//Have All Gold/Silver/Bronze Feathers
+[Have All Gold/Silver/Bronze Feathers]
 patch=1,EE,203E61D0,extended,24010003
 patch=1,EE,203E61D4,extended,AC610AAC
 
-//Always Low Total Time
+[Always Low Total Time]
 patch=1,EE,203E8360,extended,AC800788
 
-//All Equipment
+[All Equipment]
 patch=1,EE,203F3678,extended,24020001
 patch=1,EE,203F367C,extended,A0820000

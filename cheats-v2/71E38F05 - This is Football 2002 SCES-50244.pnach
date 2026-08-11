@@ -1,20 +1,20 @@
 gametitle=This is Football 2002 SCES-50244
-//All Cups Amateur Class
+[All Cups Amateur Class]
 patch=1,EE,103A9EB0,extended,0000FFFF
 patch=1,EE,103A9EB2,extended,0000FFFF
 patch=1,EE,103A9EB4,extended,0000FFFF
 
-//All Cups Pro Class
+[All Cups Pro Class]
 patch=1,EE,103A9EB8,extended,0000FFFF
 patch=1,EE,103A9EBA,extended,0000FFFF
 patch=1,EE,103A9EBC,extended,0000FFFF
 
-//All Cups World Class
+[All Cups World Class]
 patch=1,EE,103A9EC0,extended,0000FFFF
 patch=1,EE,103A9EC2,extended,0000FFFF
 patch=1,EE,103A9EC4,extended,0000FFFF
 
-//All Cups Master Class
+[All Cups Master Class]
 patch=1,EE,103A9EC6,extended,0000FFFF
 patch=1,EE,103A9EC8,extended,0000FFFF
 patch=1,EE,103A9ECA,extended,0000FFFF

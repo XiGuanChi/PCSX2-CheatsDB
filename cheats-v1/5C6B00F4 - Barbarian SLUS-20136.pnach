@@ -1,18 +1,18 @@
-//Cheats/Infinite AP
+[Cheats/Infinite AP]
 patch=1,EE,20499D8C,extended,0000270F
 
-//Cheats/Max Damage
+[Cheats/Max Damage]
 patch=1,EE,2048322C,extended,FFFFFFFF
 patch=1,EE,20483234,extended,0000000A
 
-//Cheats/Max Defense
+[Cheats/Max Defense]
 patch=1,EE,2048328C,extended,FFFFFFFF
 patch=1,EE,20483294,extended,0000000A
 
-//Cheats/Max Magic
+[Cheats/Max Magic]
 patch=1,EE,204832BC,extended,FFFFFFFF
 patch=1,EE,204832C4,extended,0000000A
 
-//Cheats/Max Lift
+[Cheats/Max Lift]
 patch=1,EE,204832EC,extended,FFFFFFFF
 patch=1,EE,204832F4,extended,0000000A

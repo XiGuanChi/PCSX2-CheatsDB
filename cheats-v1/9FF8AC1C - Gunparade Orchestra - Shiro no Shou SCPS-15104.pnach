@@ -1,16 +1,16 @@
-//Cheats/Infinite Money 9999999
+[Cheats/Infinite Money 9999999]
 patch=1,EE,2173BBDC,extended,05F5E0FF
 
-//Cheats/Experience value after battle + 1000
+[Cheats/Experience value after battle + 1000]
 patch=1,EE,202B0928,extended,00000000
 
-//Cheats/Reinforced remodeling no need for parts
+[Cheats/Reinforced remodeling no need for parts]
 patch=1,EE,2034DB58,extended,00000000
 
-//Cheats/Reinforced remodeling
+[Cheats/Reinforced remodeling]
 patch=1,EE,2034DB88,extended,1000001D
 
-//Cheats/Max Health, aerobic 255, genius and  fortune-telling
+[Cheats/Max Health, aerobic 255, genius and  fortune-telling]
 patch=1,EE,20148844,extended,0803D400
 patch=1,EE,200F5000,extended,24030003
 patch=1,EE,200F5004,extended,AE230844
@@ -21,7 +21,7 @@ patch=1,EE,200F5014,extended,AE230004
 patch=1,EE,200F5018,extended,08052213
 patch=1,EE,200F501C,extended,AE230044
 
-//Cheats/Remaining Stamina And Energy Don't Decrease When Not In Combat
+[Cheats/Remaining Stamina And Energy Don't Decrease When Not In Combat]
 patch=1,EE,200F7030,extended,84830000
 patch=1,EE,200F7034,extended,28660002
 patch=1,EE,200F7038,extended,54C00001
@@ -30,45 +30,45 @@ patch=1,EE,200F7040,extended,0807324B
 patch=1,EE,200F7044,extended,8C830004
 patch=1,EE,201CC928,extended,0803DC0C
 
-//Cheats/Max Possession
+[Cheats/Max Possession]
 patch=1,EE,20142F60,extended,3447E0FF
 
-//Cheats/Max voice
+[Cheats/Max voice]
 patch=1,EE,20142B9C,extended,3447967F
 
-//Cheats/Max Durability
+[Cheats/Max Durability]
 patch=1,EE,403BDE98,extended,0019001C
 patch=1,EE,00640064,extended,00000000
 patch=1,EE,403BDE9C,extended,0019001C
 patch=1,EE,00640064,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2029B8A0,extended,00401021
 patch=1,EE,2029B8DC,extended,00401021
 
-//Cheats/Max Ammo Increases
+[Cheats/Max Ammo Increases]
 patch=1,EE,2034FB08,extended,14000005
 
-//Cheats/Max with emotional value fluctuation ON R2+R3 OFF L2+R3
+[Cheats/Max with emotional value fluctuation ON R2+R3 OFF L2+R3]
 patch=1,EE,D1695F82,extended,0000FDFB
 patch=1,EE,2014E734,extended,2401539F
 patch=1,EE,D1695F82,extended,0000FEFB
 patch=1,EE,2014E734,extended,0064082A
 
-//Cheats/Max Health 255
+[Cheats/Max Health 255]
 patch=1,EE,200F8300,extended,A0810144
 
-//Cheats/Voice 9,999,999
+[Cheats/Voice 9,999,999]
 patch=1,EE,200F8000,extended,3C010098
 patch=1,EE,200F8004,extended,3421967F
 patch=1,EE,200F8008,extended,AC810004
 
-//Cheats/Money 99,999,999
+[Cheats/Money 99,999,999]
 patch=1,EE,200F800C,extended,3C0105F5
 patch=1,EE,200F8010,extended,3421E0FF
 patch=1,EE,200F8014,extended,AC8 101C4
 
-//Cheats/Total Number Of Defeats 9,999
+[Cheats/Total Number Of Defeats 9,999]
 patch=1,EE,200F8018,extended,2401270F
 patch=1,EE,200F801C,extended,A48100C4
 

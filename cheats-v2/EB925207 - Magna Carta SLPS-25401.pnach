@@ -1,23 +1,23 @@
 gametitle=Magna Carta SLPS-25401
-//Achieve maximum money in increase
+[Achieve maximum money in increase]
 patch=1,EE,203A0688,extended,00000021
 
-//Charisma Max HP
+[Charisma Max HP]
 patch=1,EE,203F07D0,extended,2403270F
 patch=1,EE,203F07D4,extended,AC830054
 
-//MonoOsamu Max HP
+[MonoOsamu Max HP]
 patch=1,EE,203F07F0,extended,2403270F
 patch=1,EE,203F07F4,extended,AC83005C
 
-//Monobo Max HP
+[Monobo Max HP]
 patch=1,EE,203F0800,extended,2403270F
 patch=1,EE,203F0804,extended,AC830060
 
-//MaOsamu Max HP
+[MaOsamu Max HP]
 patch=1,EE,203F0810,extended,2403270F
 patch=1,EE,203F0814,extended,AC830064
 
-//Mabo Max HP
+[Mabo Max HP]
 patch=1,EE,203F0820,extended,2403270F
 patch=1,EE,203F0824,extended,AC830068

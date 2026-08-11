@@ -1,27 +1,27 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2021C910,extended,42C80000
 
-//Cheats/Always Full Chemical X
+[Cheats/Always Full Chemical X]
 patch=1,EE,2021CA04,extended,42C80000
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,20142824,extended,00000000
 
-//Cheats/Infinite Chemical X Usage Rapid Fire
+[Cheats/Infinite Chemical X Usage Rapid Fire]
 patch=1,EE,201730F4,extended,00000000
 patch=1,EE,20173108,extended,00000000
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,2021CE60,extended,00000004
 
-//Cheats/Unlock All Scrapbook MiniGames
+[Cheats/Unlock All Scrapbook MiniGames]
 patch=1,EE,4021C340,extended,001F000A
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Scrapbook Pics
+[Cheats/Unlock All Scrapbook Pics]
 patch=1,EE,4021C354,extended,001F000A
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Re-enable Debug Functions L2 +Square activator Unlocks special options in the pause menu and in the main menu Options option
+[Cheats/Re-enable Debug Functions L2 +Square activator Unlocks special options in the pause menu and in the main menu Options option]
 patch=1,EE,D02B3182,extended,00007EFF
 patch=1,EE,201A8B9C,extended,240200F5

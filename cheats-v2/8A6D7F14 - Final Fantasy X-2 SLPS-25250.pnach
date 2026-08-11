@@ -1,5 +1,5 @@
 gametitle=Final Fantasy X-2 SLPS-25250
-//Required code
+[Required code]
 patch=1,EE,2022B160,extended,0803C800
 patch=1,EE,200F2000,extended,27BDFFE0
 patch=1,EE,200F2004,extended,7FBF0000
@@ -9,25 +9,25 @@ patch=1,EE,200F23F4,extended,7BA20010
 patch=1,EE,200F23F8,extended,03E00008
 patch=1,EE,200F23FC,extended,27BD0020
 
-//Possession money 999999899
+[Possession money 999999899]
 patch=1,EE,200F2034,extended,0C0709CE
 
-//Maximum HP - Maximum MP MAX  It will be reflected once the status screen is opened and closed.
+[Maximum HP - Maximum MP MAX  It will be reflected once the status screen is opened and closed.]
 patch=1,EE,200F202C,extended,0C0708CE
 
-//Items do not decrease
+[Items do not decrease]
 patch=1,EE,201C5A48,extended,30121025
 
-//MAX with one experience point acquisition
+[MAX with one experience point acquisition]
 patch=1,EE,201D1E88,extended,3C063B9E
 
-//MAX with one AP acquisition
+[MAX with one AP acquisition]
 patch=1,EE,201D1E78,extended,2407270F
 
-//Maximum HP
+[Maximum HP]
 patch=1,EE,201C465C,extended,3C080002
 
-//Maximum MP
+[Maximum MP]
 patch=1,EE,201C4690,extended,2403270F
 
 

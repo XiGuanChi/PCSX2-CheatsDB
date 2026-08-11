@@ -1,14 +1,14 @@
 gametitle=The Scorpion King - Rise of the Akkadian SLUS-20424
-//Save Anywhere
+[Save Anywhere]
 patch=1,EE,20293AD0,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,3C02447A
 patch=1,EE,200C0224,extended,0806C4AC
 patch=1,EE,200C0228,extended,AE020170
 patch=1,EE,2014F8C4,extended,0C030088
 
-//Have All Bonus
+[Have All Bonus]
 patch=1,EE,202D9858,extended,FFFFFFFF
 patch=1,EE,202D985C,extended,FFFFFFFF
 patch=1,EE,202D9860,extended,FFFFFFFF

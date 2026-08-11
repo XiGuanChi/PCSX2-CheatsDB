@@ -1,8 +1,8 @@
 gametitle= Kita e Diamond Dust+ Kiss is beginningt SLPM-65569
-//Max Money
+[Max Money]
 patch=1,EE,202F669C,extended,000F41DC
 
-//Time initialization When you press SELECT it will be AM 0:00.
+[Time initialization When you press SELECT it will be AM 0:00.]
 patch=1,EE,D02FEE10,extended,00000100
 patch=1,EE,102F66A0,extended,00000000
 

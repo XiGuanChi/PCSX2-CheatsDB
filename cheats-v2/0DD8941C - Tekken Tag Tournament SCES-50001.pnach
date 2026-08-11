@@ -1,13 +1,13 @@
 gametitle=Tekken Tag Tournament SCES-50001
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,2087D934,extended,00097330
 patch=1,EE,2087D938,extended,00097330
 
-//1 hit KO P2
+[1 hit KO P2]
 patch=1,EE,208891D4,extended,00000001
 patch=1,EE,208891D8,extended,00000001
 
-//Open all movies/chars/gallery/Tekken bowl
+[Open all movies/chars/gallery/Tekken bowl]
 patch=1,EE,2043DFB0,extended,FFFFFFFF
 patch=1,EE,2043DFB4,extended,FFFFFFFF
 patch=1,EE,2043DFB8,extended,FFFFFFFF

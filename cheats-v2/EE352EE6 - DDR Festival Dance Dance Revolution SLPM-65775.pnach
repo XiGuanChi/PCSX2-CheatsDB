@@ -1,5 +1,5 @@
 gametitle=DDR Festival Dance Dance Revolution SLPM-65775
-//Hidden element appearance
+[Hidden element appearance]
 patch=1,EE,202BCE18,extended,FFFFFFFF
 patch=1,EE,202BCE1C,extended,FFFFFFFF
 patch=1,EE,202BCE20,extended,FFFFFFFF
@@ -8,8 +8,8 @@ patch=1,EE,202BCE28,extended,FFFFFFFF
 patch=1,EE,202BCE2C,extended,FFFFFFFF
 patch=1,EE,202BCE30,extended,FFFFFFFF
 
-//MAX on the dance gauge change
+[MAX on the dance gauge change]
 patch=1,EE,20159A20,extended,14200001
 
-//Does not decrease Challenge mode gauge
+[Does not decrease Challenge mode gauge]
 patch=1,EE,2015C2A8,extended,24420000

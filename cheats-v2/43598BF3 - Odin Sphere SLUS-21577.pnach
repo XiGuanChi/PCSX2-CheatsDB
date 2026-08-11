@@ -1,5 +1,5 @@
 gametitle=Odin Sphere SLUS-21577
-//Infinite HP
+[Infinite HP]
 patch=1,EE,200A0000,extended,AC8300EC
 patch=1,EE,200A0004,extended,8CE3046C
 patch=1,EE,200A0008,extended,ACE30468
@@ -8,7 +8,7 @@ patch=1,EE,200A0010,extended,8CE3046C
 patch=1,EE,201AD5CC,extended,08028000
 patch=1,EE,201AD5D0,extended,00000000
 
-//Infinite POW
+[Infinite POW]
 patch=1,EE,200A0018,extended,20020064
 patch=1,EE,200A001C,extended,C4E007D0
 patch=1,EE,200A0020,extended,E4E007CC
@@ -18,14 +18,14 @@ patch=1,EE,200A002C,extended,84E60470
 patch=1,EE,201AD604,extended,08028006
 patch=1,EE,201AD608,extended,00000000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20302B1C,extended,00000000
 
-//Always Low Mission Time
+[Always Low Mission Time]
 patch=1,EE,20200CD4,extended,AE000078
 
-//Max Psypher (Level 99 do not use it in the prologue.
+[Max Psypher (Level 99 do not use it in the prologue.]
 patch=0,EE,2018A074,extended,AE24047C
 
-//Stop Mission Timer/Always 00:00:00
+[Stop Mission Timer/Always 00:00:00]
 patch=1,EE,20200CD4,extended,AE000078

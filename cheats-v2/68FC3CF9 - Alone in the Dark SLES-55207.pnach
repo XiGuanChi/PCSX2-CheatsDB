@@ -1,13 +1,13 @@
 gametitle=Alone in the Dark SLES-55207
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2024A004,extended,3C020000
 
-//Invincible
+[Invincible]
 patch=1,EE,2020901C,extended,24020001
 
-//1 Hit Kill
+[1 Hit Kill]
 patch=1,EE,20151608,extended,10000009
 
-//Disable AI Path
+[Disable AI Path]
 patch=1,EE,201A1C20,extended,03E00008
 patch=1,EE,201A1C24,extended,00000000

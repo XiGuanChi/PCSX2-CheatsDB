@@ -1,15 +1,15 @@
-//Cheats/Max Gold
+[Cheats/Max Gold]
 patch=1,EE,2025D1DC,extended,0001869F
 
-//Cheats/Infinite Damage
+[Cheats/Infinite Damage]
 patch=1,EE,200C0220,extended,240300C8
 patch=1,EE,200C0224,extended,AC430000
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,8C450010
 patch=1,EE,20160D44,extended,0C030088
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,20153544,extended,00000000
 
-//Cheats/Unlock Debug Menu Press Triangle+START
+[Cheats/Unlock Debug Menu Press Triangle+START]
 patch=1,EE,0025D3E0,extended,00000001

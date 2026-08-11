@@ -1,18 +1,18 @@
 gametitle=Pia Carrot e Youkoso!! 3 - Round summer SLPS-25221
-//Money in 30000 
+[Money in 30000]
 patch=1,EE,2020FAD8,extended,00007530
 
-//CG all (Not reflected in the save data) 
+[CG all (Not reflected in the save data)]
 patch=1,EE,A0125360,extended,10400001
 
-//Clear flag ON
+[Clear flag ON]
 patch=1,EE,20139BB4,extended,34020001
 patch=1,EE,20139BB8,extended,A022F508
 
-//Special flag Full open CG collection rate are fully opened.Also, the menu section will be fully open, but action outside the specification (study in the evening etc.) can not be done.
+[Special flag Full open CG collection rate are fully opened.Also, the menu section will be fully open, but action outside the specification (study in the evening etc.) can not be done.]
 patch=1,EE,20125374,extended,34110001
 
-//Status Max
+[Status Max]
 patch=1,EE,201390E0,extended,00000000
 patch=1,EE,20138F20,extended,00000000
 patch=1,EE,20139000,extended,00000000
@@ -21,12 +21,12 @@ patch=1,EE,20138F90,extended,00000000
 patch=1,EE,20139180,extended,A420FD32
 patch=1,EE,20138EB0,extended,00000000
 
-//Winning even if you lose (poker)
+[Winning even if you lose (poker)]
 patch=1,EE,201CE90C,extended,00000000
 
-//Winning even if you lose  (Blackjack)
+[Winning even if you lose  (Blackjack)]
 patch=1,EE,201CE034,extended,64120015
 patch=1,EE,201CE050,extended,64110016
 
-//Favorability MAX Ver.1
+[Favorability MAX Ver.1]
 patch=1,EE,201391C4,extended,00000000

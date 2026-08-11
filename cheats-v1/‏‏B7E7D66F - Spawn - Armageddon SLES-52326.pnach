@@ -1,20 +1,20 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF00,extended,3C0142C8
 patch=1,EE,200FFF04,extended,44816000
 patch=1,EE,200FFF08,extended,AE2101F4
 patch=1,EE,200FFF0C,extended,08058676
 patch=1,EE,201619D4,extended,0803FFC0
 
-//Cheats/Infinite Necroplasm
+[Cheats/Infinite Necroplasm]
 patch=1,EE,2033DD00,extended,42C80000
 
-//Cheats/Unlock All Weapons
+[Cheats/Unlock All Weapons]
 patch=1,EE,1033E0C4,extended,0000FFFF
 patch=1,EE,0033E110,extended,00000003
 
-//Cheats/Unlock All Comics Covers
+[Cheats/Unlock All Comics Covers]
 patch=1,EE,1033E0C6,extended,0006FFFF
 
-//Cheats/Unlock All Complete Encyclopedia
+[Cheats/Unlock All Complete Encyclopedia]
 patch=1,EE,2033E0E0,extended,FFFFFFFF
 patch=1,EE,0033E0DF,extended,000000FF

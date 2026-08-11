@@ -1,6 +1,6 @@
 gametitle=Resident Evil - Outbreak NTSC-U SLUS-20765 0245EF6D
 
-//60 FPS
+[60 FPS]
 author=GamingDragon93
 description=Might need EE overclock (130%). Missing timer fix.
 patch=0,EE,001A0CF8,word,AC20FA08

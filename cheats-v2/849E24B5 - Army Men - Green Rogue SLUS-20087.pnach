@@ -1,27 +1,27 @@
 gametitle=Army Men - Green Rogue SLUS-20087
-//Invincible 
+[Invincible]
 patch=1,EE,001681D8,extended,00000001
 
-//Max Score P1 
+[Max Score P1]
 patch=1,EE,2022608C,extended,05F5E0FF
 
-//Max Score P2 
+[Max Score P2]
 patch=1,EE,20226090,extended,05F5E0FF
 
-//Infinite Lives P1 
+[Infinite Lives P1]
 patch=1,EE,20226094,extended,00000003
 
-//Infinite Lives P2 
+[Infinite Lives P2]
 patch=1,EE,20226098,extended,00000003
 
-//Infinite Continues P1 
+[Infinite Continues P1]
 patch=1,EE,2022609C,extended,00000005
 
-//Infinite Continues P2 
+[Infinite Continues P2]
 patch=1,EE,202260A0,extended,00000005
 
-//Max Bio Level P1 
+[Max Bio Level P1]
 patch=1,EE,20227FC4,extended,00000009
 
-//Max Bio Level P2 
+[Max Bio Level P2]
 patch=1,EE,20227FC8,extended,00000009

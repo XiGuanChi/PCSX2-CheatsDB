@@ -1,14 +1,14 @@
-//Cheats/Max ZP
+[Cheats/Max ZP]
 patch=1,EE,2042CD58,extended,05F5E0FF
 
-//Cheats/Unlock All Items appear in the shop
+[Cheats/Unlock All Items appear in the shop]
 patch=1,EE,2042CD60,extended,FFFFFFFF
 patch=1,EE,0042CD64,extended,000000FF
 
-//Cheats/Unlock Death Sauler & Liger Zero
+[Cheats/Unlock Death Sauler & Liger Zero]
 patch=1,EE,0042CD89,extended,000000FF
 patch=1,EE,1042CD8A,extended,0000FFFF
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,2042CD8C,extended,FFFFFFFF
 patch=1,EE,1042CD90,extended,0000FFFF

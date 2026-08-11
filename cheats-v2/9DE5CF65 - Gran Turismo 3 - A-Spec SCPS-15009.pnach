@@ -1,8 +1,8 @@
 gametitle=Gran Turismo 3 - A-Spec SCPS-15009
-//Arcade whole course appearance
+[Arcade whole course appearance]
 patch=1,EE,00940E24,extended,00000005
 
-//Filled all Goodies 
+[Filled all Goodies]
 patch=1,EE,30000010,extended,000F0000
 patch=1,EE,240A0001,extended,34088405
 patch=1,EE,3409001E,extended,712842A9
@@ -16,6 +16,6 @@ patch=1,EE,200F004C,extended,1409FFF9
 patch=1,EE,200F0054,extended,03E00008
 patch=1,EE,2026FC04,extended,0803C000
 
-//GT mode possession gold MAX
+[GT mode possession gold MAX]
 patch=1,EE,20940DF8,extended,4876E7FF
 patch=1,EE,20940DFC,extended,00000017

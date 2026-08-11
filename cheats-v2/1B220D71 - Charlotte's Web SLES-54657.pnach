@@ -1,55 +1,55 @@
 gametitle=Charlotte's Web SLES-54657
-//Equipment weight 0kg
+[Equipment weight 0kg]
 patch=1,EE,117F464C,extended,00000000
 
-//Infinite Hit point
+[Infinite Hit point]
 patch=1,EE,2023C9B8,extended,8C810114
 patch=1,EE,2023C9BC,extended,AC810118
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,217F4698,extended,43960000
 patch=1,EE,117F4642,extended,0000001E
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20268ED8,extended,1000000C
 patch=1,EE,20268F20,extended,1000000C
 patch=1,EE,20268F68,extended,1000000C
 patch=1,EE,20268FB0,extended,1000000C
 
-//Infinite grenades
+[Infinite grenades]
 patch=1,EE,20269940,extended,1000000C
 
-//Infinite recovering items
+[Infinite recovering items]
 patch=1,EE,20269AD8,extended,1000000C
 
-//Pause in the mission and get all weapons acquisition conditions
+[Pause in the mission and get all weapons acquisition conditions]
 patch=1,EE,217F48D8,extended,FFFFFFFF
 patch=1,EE,017F48DC,extended,00000007
 
-//All mission rank S" Clear one mission and it will be the ending.
+[All mission rank S" Clear one mission and it will be the ending.]
 patch=1,EE,417F4654,extended,000F0001
 patch=1,EE,00040004,extended,00000000
 
-//Total number of all weapons possessed 99 pieces
+[Total number of all weapons possessed 99 pieces]
 patch=1,EE,417F46A8,extended,00230004
 patch=1,EE,00000063,extended,00000000
 
-//Mission rank S when entering the STATUS screen There is an effect in the mission that is emerging
+[Mission rank S when entering the STATUS screen There is an effect in the mission that is emerging]
 patch=1,EE,2026A0C0,extended,10800005
 patch=1,EE,2026A0CC,extended,00430821
 patch=1,EE,2026A0D0,extended,24020004
 patch=1,EE,2026A0D4,extended,A4334654
 patch=1,EE,2026A0D8,extended,03E00008
 
-//RESULT Time 0: 00"
+[RESULT Time 0: 00"]
 patch=1,EE,20225D88,extended,AC20A7C4
 
-//RESULT Killed 999
+[RESULT Killed 999]
 patch=1,EE,202260EC,extended,00B20821
 patch=1,EE,202260F0,extended,240503E7
 patch=1,EE,202260F8,extended,AC25A7C8
 
-//RESULT Hit Rate 100%
+[RESULT Hit Rate 100%]
 patch=1,EE,20226084,extended,00D20821
 patch=1,EE,20226088,extended,240603E7
 patch=1,EE,2022608C,extended,AC26A7CC

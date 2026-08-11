@@ -1,25 +1,25 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,206D1C90,extended,05F5E0FF
 
-//Cheats/Max Grade
+[Cheats/Max Grade]
 patch=1,EE,2070E99C,extended,3B9AC9FF
 
-//Cheats/Max Chip Casino
+[Cheats/Max Chip Casino]
 patch=1,EE,20B9D7FC,extended,05F5E0FF
 
-//Cheats/HP 9999
+[Cheats/HP 9999]
 patch=1,EE,406D1F8C,extended,000700D4
 patch=1,EE,0000270F,extended,00000000
 patch=1,EE,406D1FD4,extended,000700D4
 patch=1,EE,0000270F,extended,00000000
 
-//Cheats/TP 999
+[Cheats/TP 999]
 patch=1,EE,406D1F90,extended,000700D4
 patch=1,EE,000003E7,extended,00000000
 patch=1,EE,406D1FD8,extended,000700D4
 patch=1,EE,000003E7,extended,00000000
 
-//Cheats/Ability 999
+[Cheats/Ability 999]
 patch=1,EE,106D1FDC,extended,000003E7
 patch=1,EE,106D1FE0,extended,000003E7
 patch=1,EE,106D1FE4,extended,000003E7
@@ -27,64 +27,64 @@ patch=1,EE,106D1FE8,extended,000003E7
 patch=1,EE,106D1FEC,extended,000003E7
 patch=1,EE,106D200C,extended,000003E7
 
-//Cheats/Luke HP Max
+[Cheats/Luke HP Max]
 patch=1,EE,106D1F8C,extended,0000270F
 patch=1,EE,106D1FD4,extended,0000270F
 
-//Cheats/Luke TP Max
+[Cheats/Luke TP Max]
 patch=1,EE,106D1F90,extended,000003E7
 patch=1,EE,106D1FD8,extended,000003E7
 
-//Cheats/Max Level In One Battle
+[Cheats/Max Level In One Battle]
 patch=1,EE,D0698BA0,extended,00000249 
 patch=1,EE,20698B94,extended,3C023B9A
 patch=1,EE,D0698BA0,extended,00000249
 patch=1,EE,20698B98,extended,3442C9FF
 
-//Cheats/In Battle Max HP Maintenance
+[Cheats/In Battle Max HP Maintenance]
 patch=1,EE,D0660400,extended,0000002C
 patch=1,EE,2066040C,extended,AC440004
 patch=1,EE,D0660400,extended,0000002C
 patch=1,EE,20660414,extended,00041080
 
-//Cheats/In Battle Max TP Maintenance
+[Cheats/In Battle Max TP Maintenance]
 patch=1,EE,D067216C,extended,000042A0
 patch=1,EE,206721A4,extended,E4E10008
 patch=1,EE,D067216C,extended,000042A0
 patch=1,EE,206721C8,extended,0000 582D
 
-//Cheats/Unlock All AD Actived
+[Cheats/Unlock All AD Actived]
 patch=1,EE,406D201C,extended,00200001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock Have All Items
+[Cheats/Unlock Have All Items]
 patch=1,EE,406D1CC0,extended,00640001
 patch=1,EE,0F0F0F0F,extended,00000000
 patch=1,EE,406D1E04,extended,003B0001
 patch=1,EE,0F0F0F0F,extended,00000000
 
-//Cheats/No Random Battles Press L2+L3 Normal Game Press R2+L3
+[Cheats/No Random Battles Press L2+L3 Normal Game Press R2+L3]
 patch=1,EE,D05E7782,extended,0000FEFD
 patch=1,EE,2025A910,extended,12520048
 patch=1,EE,D05E7782,extended,0000FDFD
 patch=1,EE,2025A910,extended,10400048
 
-//Cheats/Max Level After One Battle
+[Cheats/Max Level After One Battle]
 patch=1,EE,D0698BA0,extended,00000249
 patch=1,EE,20698B94,extended,3C023B9A
 patch=1,EE,D0698BA0,extended,00000249
 patch=1,EE,20698B98,extended,3442C9FF
 
-//Cheats/Unlock All Cook Recipes
+[Cheats/Unlock All Cook Recipes]
 patch=1,EE,206D39F0,extended,FFFFFFFF
 
-//Cheats/Unlock Alll Titles
+[Cheats/Unlock Alll Titles]
 patch=1,EE,206D3364,extended,00FFFFFE
 
-//Cheats/Unlock Alll AD Skills
+[Cheats/Unlock Alll AD Skills]
 patch=1,EE,206D345C,extended,FFFFFFFE
 patch=1,EE,206D3460,extended,FFFFFFFF
 patch=1,EE,206D3464,extended,FFFFFFFF
 
-//Cheats/UnlockAlll Art Skill List
+[Cheats/UnlockAlll Art Skill List]
 patch=1,EE,206D33FC,extended,FFFFFFFF

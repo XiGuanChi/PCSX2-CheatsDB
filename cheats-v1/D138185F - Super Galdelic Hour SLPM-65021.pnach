@@ -1,28 +1,28 @@
-//Cheats/Have 99999 Points Money
+[Cheats/Have 99999 Points Money]
 patch=1,EE,20251AF8,extended,0001869F
 
-//Cheats/Obtained QP 999999
+[Cheats/Obtained QP 999999]
 patch=1,EE,2025196C,extended,000F423F
 
-//Cheats/Unlock Sista On
+[Cheats/Unlock Sista On]
 patch=1,EE,102519A0,extended,00000001
 
-//Cheats/Unlock All Costumes Toko
+[Cheats/Unlock All Costumes Toko]
 patch=1,EE,10251830,extended,000001FF
 patch=1,EE,10251834,extended,0000007F
 patch=1,EE,20251838,extended,FFFFFFFF
 
-//Cheats/Unlock All Costumes Neko
+[Cheats/Unlock All Costumes Neko]
 patch=1,EE,1025186C,extended,000001FF
 patch=1,EE,10251870,extended,0000007F
 patch=1,EE,20251874,extended,FFFFFFFF
 
-//Cheats/Unlock All Costumes Coco
+[Cheats/Unlock All Costumes Coco]
 patch=1,EE,102518A8,extended,000001FF
 patch=1,EE,102518AC,extended,0000007F
 patch=1,EE,202518B0,extended,FFFFFFFF
 
-//Cheats/Unlock All Costumes Kuma
+[Cheats/Unlock All Costumes Kuma]
 patch=1,EE,102518E4,extended,000001FF
 patch=1,EE,102518E8,extended,0000007F
 patch=1,EE,202518EC,extended,FFFFFFFF

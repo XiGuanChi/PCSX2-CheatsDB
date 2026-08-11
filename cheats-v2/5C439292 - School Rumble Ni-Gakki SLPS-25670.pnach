@@ -1,8 +1,8 @@
 gametitle=School Rumble Ni-Gakki SLPS-25670
-//Points 9999
+[Points 9999]
 patch=1,EE,20442DA8,extended,0000270FF
 
-//Unlock All CG After saving
+[Unlock All CG After saving]
 patch=1,EE,2062A0D9,extended,FFFFFFFF
 patch=1,EE,2062A0DD,extended,FFFFFFFF
 patch=1,EE,1062A0E1,extended,0000FFFF

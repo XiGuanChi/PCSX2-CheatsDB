@@ -1,27 +1,27 @@
 gametitle=RoboCop SLPM-62321
 
-//Weapon super rapid fire
+[Weapon super rapid fire]
 patch=1,EE,20200704,extended,00000000
 patch=1,EE,2020074C,extended,00000000
 
-//Life does not decrease
+[Life does not decrease]
 patch=1,EE,20223890,extended,03E00008
 patch=1,EE,20223894,extended,00000000
 
-//Not reduced
+[Not reduced]
 patch=1,EE,20200C68,extended,00000000
 patch=1,EE,20200768,extended,240203E8
 
-//No reload
+[No reload]
 patch=1,EE,2020076C,extended,00000000
 
-//Infinite bullet
+[Infinite bullet]
 patch=1,EE,20200C68,extended,00000000
 patch=1,EE,20200768,extended,240203E8
 
-//Don't go to Glenade
+[Don't go to Glenade]
 patch=1,EE,202013F8,extended,00000000
 patch=1,EE,202013F4,extended,24030009
 
-//Infinite bullets & no reload
+[Infinite bullets & no reload]
 patch=1,EE,20472604,extended,00000001

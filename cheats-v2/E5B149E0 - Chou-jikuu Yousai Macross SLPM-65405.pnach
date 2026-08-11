@@ -1,34 +1,34 @@
 gametitle=Chou-jikuu Yousai Macross SLPM-65405
-//Invincibility
+[Invincibility]
 patch=1,EE,2013AD0C,extended,100000F8
 patch=1,EE,201D23A4,extended,E64017B0
 
-//Infinite Boost
+[Infinite Boost]
 patch=1,EE,20271084,extended,737B1CC9
 
-//Infinite Missiles
+[Infinite Missiles]
 patch=1,EE,2014AC64,extended,24630000
 
-//Infinite Gun Bullets
+[Infinite Gun Bullets]
 patch=1,EE,2014D210,extended,24030000
 patch=1,EE,2014D21C,extended,AB800004
 
-//Enemy single blow death
+[Enemy single blow death]
 patch=0,EE,20274558,extended,AE0002A0
 
-//Enemy single blow death With L3+L2 
+[Enemy single blow death With L3+L2]
 patch=1,EE,D07B8A02,extended,0000FEFD
 patch=1,EE,20274558,extended,AE0002A0
 patch=1,EE,D07B8A02,extended,0000FDFD
 patch=1,EE,20274558,extended,E60002A0
 
-//After Level is completed
-//HIT RATE 100%
+[After Level is completed]
+[HIT RATE 100%]
 patch=1,EE,20151800,extended,4A0002FF
 
-//Weapon indicatory chart destruction
+[Weapon indicatory chart destruction]
 patch=1,EE,201779BC,extended,1021009A
 
-//All Card Collection
+[All Card Collection]
 patch=1,EE,2026460C,extended,24010001
 patch=1,EE,20264614,extended,A0410094

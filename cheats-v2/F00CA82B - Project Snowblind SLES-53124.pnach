@@ -1,11 +1,11 @@
 gametitle=Project Snowblind SLES-53124
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20253BB4,extended,C64104C8
 patch=1,EE,20253BC8,extended,E64104C0
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20274350,extended,24430000
 patch=1,EE,20275D48,extended,AE62003C
 
-//Infinite Bio-Energy Usage
+[Infinite Bio-Energy Usage]
 patch=1,EE,202586B0,extended,AE62003C

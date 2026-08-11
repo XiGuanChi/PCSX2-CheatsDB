@@ -1,17 +1,17 @@
 gametitle=Shifters SLES-50643
-//God Mode
+[God Mode]
 patch=1,EE,200FFF00,extended,24020022
 patch=1,EE,200FFF04,extended,03E00008
 patch=1,EE,2052A40C,extended,000FFF00
 
-//Pots Of Gold Press R1
+[Pots Of Gold Press R1]
 patch=1,EE,105E2D02,extended,0000F7FF
 patch=1,EE,20C14774,extended,05F5E0FF
 
-//Press R2 Then  X Inf Ability Points
+[Press R2 Then  X Inf Ability Points]
 patch=1,EE,105E2D02,extended,0000FDFF
 patch=1,EE,105D2124,extended,00000002
 
-//Movie Menu (On the Main Title, Select Credits)
+[Movie Menu (On the Main Title, Select Credits)]
 patch=1,EE,D04F4A5C,extended,00000005
 patch=1,EE,204F4A5C,extended,00000006

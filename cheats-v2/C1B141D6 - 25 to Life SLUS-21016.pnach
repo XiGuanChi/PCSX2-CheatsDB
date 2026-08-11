@@ -1,44 +1,44 @@
 gametitle=25 to Life SLUS-21016
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2010245C,extended,E4430000
 
-//Infinite Ammo 
+[Infinite Ammo]
 patch=1,EE,201A421C,extended,00000000
 
-//Max Infinite Ammo
+[Max Infinite Ammo]
 patch=1,EE,201A41F8,extended,240203E7
 
-//Extra Ammo
+[Extra Ammo]
 patch=1,EE,201A41F8,extended,00451023
 
-//Never Reload
+[Never Reload]
 patch=1,EE,201A462C,extended,00000000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,201A7844,extended,00000000
 
-//Always Low Game Time
+[Always Low Game Time]
 patch=1,EE,2010651C,extended,AC800038
 
-//P1 Rapid Fire (All Weapons)
+[P1 Rapid Fire (All Weapons)]
 patch=1,EE,D070DBC2,extended,0000F7FF
 patch=1,EE,201A45DC,extended,00000000
 patch=1,EE,D070DBC2,extended,0000FFFF
 patch=1,EE,201A45DC,extended,AE22042C
 
-//P1 Press {R3}+Up To Enable Buster Mode
+[P1 Press {R3}+Up To Enable Buster Mode]
 patch=1,EE,D070DBC2,extended,0000FFEB
 patch=1,EE,2057C08C,extended,00000001
 
-//P1 Press {R3}+Down To Disable Buster Mode
+[P1 Press {R3}+Down To Disable Buster Mode]
 patch=1,EE,D070DBC2,extended,0000FFBB
 patch=1,EE,2057C08C,extended,00000000
 
-//All Levels
+[All Levels]
 patch=1,EE,406CEFF4,extended,000C0001
 patch=1,EE,00000001,extended,00000000
 
-//Enable All Levels 
+[Enable All Levels]
 patch=1,EE,406CEFF4,extended,000C0001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,206CEFEC,extended,0000000C

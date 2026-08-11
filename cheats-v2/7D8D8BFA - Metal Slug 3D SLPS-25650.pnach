@@ -1,25 +1,25 @@
 gametitle=Metal Slug 3D SLPS-25650
-//Infinite HP - Mission 1
+[Infinite HP - Mission 1]
 patch=1,EE,218B2068,extended,00000004
 
-//Infinite HP - Mission 2
+[Infinite HP - Mission 2]
 patch=1,EE,217F1908,extended,00000004
 
-//Infinite HP - Mission 3
+[Infinite HP - Mission 3]
 patch=1,EE,217F8278,extended,00000004
 
-//Physical strength Max
+[Physical strength Max]
 patch=1,EE,20663EB4,extended,63636363
 
-//Mission ranking S
+[Mission ranking S]
 patch=1,EE,20663EE4,extended,00000000
 patch=1,EE,20663EF4,extended,00989680
 
-//Bullet & slug bullet several infinity
+[Bullet & slug bullet several infinity]
 patch=1,EE,40663E40,extended,001A0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Skill point Max / Status Max
+[Skill point Max / Status Max]
 patch=1,EE,20892E7C,extended,0001869F
 patch=1,EE,20892E88,extended,04040404
 patch=1,EE,20892EA4,extended,0001869F

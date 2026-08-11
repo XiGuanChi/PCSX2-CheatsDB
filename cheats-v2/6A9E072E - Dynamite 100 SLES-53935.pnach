@@ -1,27 +1,27 @@
 gametitle=Dynamite 100 SLES-53935
-//Angler Codes Infinite Time
+[Angler Codes Infinite Time]
 patch=1,EE,21124D40,extended,773593FF
 
-//Ball Eater Bonus Never Decreases 
+[Ball Eater Bonus Never Decreases]
 patch=1,EE,20F883E0,extended,4E859C93
 
-//Ball Eater Fewer Red Balls 
+[Ball Eater Fewer Red Balls]
 patch=1,EE,20F883DC,extended,00000000
 
-//Ball Eater Infinite Lives 
+[Ball Eater Infinite Lives]
 patch=1,EE,20F883D8,extended,00000009
 
-//Ball Eater Maximum Score
+[Ball Eater Maximum Score]
 patch=1,EE,20F88384,extended,4EA817C8
 
-//Follower Codes Infinite Time 
+[Follower Codes Infinite Time]
 patch=1,EE,20F88498,extended,773593FF
 
-//Follower Codes Maximum Score 
+[Follower Codes Maximum Score]
 patch=1,EE,20F88310,extended,7D2B74FF
 
-//Froggy Codes Infinite Time
+[Froggy Codes Infinite Time]
 patch=1,EE,20F88388,extended,47857D38
 
-//Froggy Codes Maximum Score
+[Froggy Codes Maximum Score]
 patch=1,EE,20F88390,extended,7D2B74F

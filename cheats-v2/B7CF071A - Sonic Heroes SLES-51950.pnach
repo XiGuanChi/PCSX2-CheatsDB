@@ -1,18 +1,18 @@
 gametitle=Sonic Heroes SLES-51950
-//Have 999 rings
+[Have 999 rings]
 patch=1,EE,202B5FB0,extended,000003E7
 
-//Have 99 lives
+[Have 99 lives]
 patch=1,EE,202B5EA4,extended,00000063
 
-//Start With All Characters At Max Level
+[Start With All Characters At Max Level]
 patch=1,EE,2027CD08,extended,24060003
 patch=1,EE,20289CC4,extended,24060003
 
-//Freeze Timer
+[Freeze Timer]
 patch=1,EE,202B5990,extended,00000000
 
-//Story Levels And CG Theater Open
+[Story Levels And CG Theater Open]
 patch=1,EE,203038B4,extended,00000000
 patch=1,EE,203038D4,extended,00000000
 patch=1,EE,20303918,extended,00000000

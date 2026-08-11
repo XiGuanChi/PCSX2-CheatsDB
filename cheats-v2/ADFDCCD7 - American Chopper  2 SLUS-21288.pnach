@@ -1,9 +1,9 @@
 gametitle=American Chopper  2 SLUS-21288
-//Cars always shoud avoid you
+[Cars always shoud avoid you]
 patch=1,EE,20214E10,extended,03E00008
 patch=1,EE,20214E14,extended,00000000
 
-//Max Fabrication Points AvailableE
-//33010FE 98E4C0A0
+[Max Fabrication Points AvailableE]
+[33010FE 98E4C0A0]
 patch=1,EE,200C0224,extended,3421E0FF
 patch=1,EE,200C0228,extended,AE210030

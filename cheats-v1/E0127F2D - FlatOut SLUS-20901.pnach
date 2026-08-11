@@ -1,11 +1,11 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,208CA4FC,extended,05F5E0FF
 
-//Cheats/Unlock All Classes
+[Cheats/Unlock All Classes]
 patch=1,EE,408CA590,extended,00040001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,408CA591,extended,00040001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,408CA550,extended,00100001

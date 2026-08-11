@@ -1,14 +1,14 @@
 gametitle=Killer 7 SLPM-65947
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20209BC4,extended,A62202B8
 
-//Max Serum
+[Max Serum]
 patch=1,EE,10681896,extended,00004E20
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201FC654,extended,00000000
 
-//Modes KILLER8 & HOPPER7 addition
+[Modes KILLER8 & HOPPER7 addition]
 patch=1,EE,20250758,extended,2401FFFF
 patch=1,EE,2025075C,extended,3C030062
 patch=1,EE,20250764,extended,A461E4A8

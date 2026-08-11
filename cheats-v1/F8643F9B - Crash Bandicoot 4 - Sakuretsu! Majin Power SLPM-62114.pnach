@@ -1,23 +1,23 @@
-//Cheats/Invincibility Press L3 On R3 Off
+[Cheats/Invincibility Press L3 On R3 Off]
 patch=1,EE,D1D635AC,extended,00000200
 patch=1,EE,20652D14,extended,00000001
 patch=1,EE,D1D635AC,extended,00000400
 patch=1,EE,20652D14,extended,00000000
 
-//Cheats/Infinite Lives 99
+[Cheats/Infinite Lives 99]
 patch=1,EE,00654560,extended,00000063
 patch=1,EE,00654550,extended,00000063
 
-//Cheats/Usable At All Stages
+[Cheats/Usable At All Stages]
 patch=1,EE,005ACDB8,extended,00000001
 patch=1,EE,005ACDBC,extended,00000001
 patch=1,EE,005ACDC0,extended,00000001
 patch=1,EE,005ACDC4,extended,00000001
 
-//Cheats/Unlock All Attributes
+[Cheats/Unlock All Attributes]
 patch=1,EE,005AD4F2,extended,000000FF
 patch=1,EE,005AD4F1,extended,000000FF
 
-//Cheats/Play English Games After Press HIRAGANA
+[Cheats/Play English Games After Press HIRAGANA]
 patch=1,EE,D05ACDB3,extended,00000006
 patch=1,EE,005ACDB3,extended,00000000

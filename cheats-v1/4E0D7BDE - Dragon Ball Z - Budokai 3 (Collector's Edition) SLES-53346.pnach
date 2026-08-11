@@ -1,4 +1,4 @@
-//Cheats/Player 1 Infinite Health Tournament
+[Cheats/Player 1 Infinite Health Tournament]
 patch=1,EE,E0020000,extended,004505CA
 patch=1,EE,20451F0C,extended,453B8000
 patch=1,EE,20451F00,extended,453B8000
@@ -6,36 +6,36 @@ patch=1,EE,E002FFFF,extended,004505CA
 patch=1,EE,20453F30,extended,453B8000
 patch=1,EE,20453F3C,extended,453B8000
 
-//Cheats/Player 2 No Health Tournament
+[Cheats/Player 2 No Health Tournament]
 patch=1,EE,E003FFFF,extended,004505CA
 patch=1,EE,20451F00,extended,00000000
 patch=1,EE,E0010000,extended,004505CA
 patch=1,EE,20453F30,extended,00000000
 
-//Cheats/Max Cash
+[Cheats/Max Cash]
 patch=1,EE,201ED3A4,extended,3C0705F0
 patch=1,EE,201ED3E8,extended,AC27A568
 
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,20451F0C,extended,453B8000
 patch=1,EE,20451F00,extended,453B8000
 
-//Cheats/Infinite Ki P1
+[Cheats/Infinite Ki P1]
 patch=1,EE,20451F14,extended,453B8000
 
-//Cheats/No Health P2
+[Cheats/No Health P2]
 patch=1,EE,20453F30,extended,00000000
 
-//Cheats/P1 Infinite Fusion Time
+[Cheats/P1 Infinite Fusion Time]
 patch=1,EE,20452180,extended,44E10000
 
-//Cheats/Dragon Universe Press R1+R2+L1+L2 For 10 Upgrade Points
+[Cheats/Dragon Universe Press R1+R2+L1+L2 For 10 Upgrade Points]
 patch=1,EE,D058B602,extended,0000F0FF
 patch=1,EE,008A38C4,extended,0000000A
 
-//Cheats/Unlock All Arenas
+[Cheats/Unlock All Arenas]
 patch=1,EE,2046F65C,extended,FFFFFFFF
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,2046F668,extended,FFFFFFFF
 patch=1,EE,2046F66C,extended,FFFFFFFF

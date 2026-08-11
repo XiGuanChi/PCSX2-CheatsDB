@@ -1,11 +1,11 @@
 gametitle=Lara Croft Tomb Raider - Anniversary PAL-M SLES-54674 A629A376
 
-//50/60 FPS
+[50/60 FPS]
 author=GamingDragon93
 description=Might need EE Overclock (180%).
 patch=1,EE,003BECE4,word,00000000
 
-//Disable Blur/Bloom
+[Disable Blur/Bloom]
 author=GamingDragon93
 description=Disable post-processing blur/bloom effect.
 patch=1,EE,00122690,word,00000000

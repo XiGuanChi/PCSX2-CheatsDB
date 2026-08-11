@@ -1,14 +1,14 @@
 gametitle=Poison Pink SLPS-25854
-//Max Money
+[Max Money]
 patch=1,EE,204C74E8,extended,0098967F
 
-//Max PP 
+[Max PP]
 patch=1,EE,204C7520,extended,0098967F
 
-//Infinite action possible
+[Infinite action possible]
 patch=1,EE,20147A44,extended,0000102D
 
-//Operate HP in battle HP recovery when HP is displayed while pressing L2 If you display HP while pressing R2, HP0
+[Operate HP in battle HP recovery when HP is displayed while pressing L2 If you display HP while pressing R2, HP0]
 patch=1,EE,200F7000,extended,3C050062
 patch=1,EE,200F7004,extended,94A5CE42
 patch=1,EE,200F7008,extended,30A10100
@@ -25,6 +25,6 @@ patch=1,EE,200F7034,extended,080B42CE
 patch=1,EE,200F7038,extended,0200202D
 patch=1,EE,202D0B34,extended,0803DC00
 
-//Overkill when doing damage
+[Overkill when doing damage]
 patch=1,EE,20185134,extended,00000000
 

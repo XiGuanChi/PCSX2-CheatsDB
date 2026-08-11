@@ -1,18 +1,18 @@
 gametitle=Time Crisis II SLPS-20122
-//1P infinite child
+[1P infinite child]
 patch=1,EE,10643ABC,extended,00000009
 
-//2P infinite child
+[2P infinite child]
 patch=1,EE,10643AEC,extended,00000009
 
-//Infinite relations
+[Infinite relations]
 patch=1,EE,10482410,extended,00000009
 
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,10643958,extended,00000004
 
-//Infinite Health P2
+[Infinite Health P2]
 patch=1,EE,106439B8,extended,00000004
 
-//Infinite time
+[Infinite time]
 patch=1,EE,1064395C,extended,00002E81

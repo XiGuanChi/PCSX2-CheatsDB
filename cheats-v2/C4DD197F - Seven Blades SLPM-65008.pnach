@@ -1,26 +1,26 @@
 gametitle=Seven Blades SLPM-65008
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20496E9C,extended,03E803E8
 patch=1,EE,2049758C,extended,03E803E8
 
-//Gokujou Ojo Skills (L1 + R1)
+[Gokujou Ojo Skills (L1 + R1)]
 patch=1,EE,D061ECAC,extended,0000000C
 patch=1,EE,104F017C,extended,0000FFFF
 
-//Second invitation amount (L2 + R2)
+[Second invitation amount (L2 + R2)]
 patch=1,EE,D061ECAC,extended,00000003
 patch=1,EE,104F017C,extended,00000000
 
-//All weapons (specific Sekisho disabled)
+[All weapons (specific Sekisho disabled)]
 patch=1,EE,204750D8,extended,00010001
 patch=1,EE,204750DC,extended,00010001
 patch=1,EE,204750E0,extended,00010001
 
-//Yuri Hen Short tube weapon ammunition maximum
+[Yuri Hen Short tube weapon ammunition maximum]
 patch=1,EE,204750F4,extended,03E703E7
 patch=1,EE,204750F8,extended,03E703E7
 
-//Long-cylinder weapon ammunition maximum
+[Long-cylinder weapon ammunition maximum]
 patch=1,EE,204750DC,extended,00010001
 patch=1,EE,204750E0,extended,00010001
 patch=1,EE,204750FC,extended,03E703E7

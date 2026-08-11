@@ -1,16 +1,16 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201C6FFC,extended,E4A200C4
 
-//Cheats/Infinite Block Adrenalin
+[Cheats/Infinite Block Adrenalin]
 patch=1,EE,201ED3C0,extended,C6020010
 patch=1,EE,201ED3C8,extended,E602000C
 
-//Cheats/One Hit Kill
+[Cheats/One Hit Kill]
 patch=1,EE,20130E04,extended,46000001
 
-//Cheats/Unlock All Difficulties And Levels
+[Cheats/Unlock All Difficulties And Levels]
 patch=1,EE,202940C4,extended,A2800073
 
-//Cheats/Unlock All Special Features
+[Cheats/Unlock All Special Features]
 patch=1,EE,202B570C,extended,1000000D
 patch=1,EE,202B5744,extended,24020045

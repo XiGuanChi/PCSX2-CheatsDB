@@ -1,8 +1,8 @@
-//Cheats/Unlock All Special
+[Cheats/Unlock All Special]
 patch=1,EE,1086FC0A,extended,0000FFFF
 patch=1,EE,0086FC06,extended,000000FF
 
-//Cheats/Enable Debug Menu Press and hold one of the following buttons while entering another screen such as starting a new game, Press and hold Circle + L1 for Start debug menu. Press and hold Circle + R1 for ShortCut01 debug menu. Press and hold Circle + R2 for ShortCut02 debug menu. Press and hold Circle + Select for Filer debug menu
+[Cheats/Enable Debug Menu Press and hold one of the following buttons while entering another screen such as starting a new game, Press and hold Circle + L1 for Start debug menu. Press and hold Circle + R1 for ShortCut01 debug menu. Press and hold Circle + R2 for ShortCut02 debug menu. Press and hold Circle + Select for Filer debug menu]
 patch=1,EE,D03D2402,extended,0000DBFF
 patch=1,EE,2023AD30,extended,00000000
 patch=1,EE,D03D2402,extended,0000D7FF

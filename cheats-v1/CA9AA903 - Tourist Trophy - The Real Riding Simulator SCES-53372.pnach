@@ -1,29 +1,29 @@
-//Cheats/Enable Disable Timer Press L3 ON R3 OFF
+[Cheats/Enable Disable Timer Press L3 ON R3 OFF]
 patch=1,EE,D0596404,extended,0000FFFD
 patch=1,EE,202054F4,extended,2442003C
 patch=1,EE,D0596404,extended,0000FFFB
 patch=1,EE,202054F4,extended,24420000
 
-//Cheats/Infinite Turbo
+[Cheats/Infinite Turbo]
 patch=1,EE,200FFF04,extended,44810800
 patch=1,EE,200FFF0C,extended,0808044C
 patch=1,EE,20201128,extended,0803FFC0
 patch=1,EE,200FFF00,extended,3C014180
 patch=1,EE,20201128,extended,C6010570
 
-//Cheats/Unlock All Gold Novice Class
+[Cheats/Unlock All Gold Novice Class]
 patch=1,EE,40839DF8,extended,000A0001
 patch=1,EE,0000F991,extended,00000000
 
-//Cheats/Unlock All Gold Junior Class
+[Cheats/Unlock All Gold Junior Class]
 patch=1,EE,40839E20,extended,000A0001
 patch=1,EE,0000F991,extended,00000000
 
-//Cheats/Unlock All Gold Expert Class
+[Cheats/Unlock All Gold Expert Class]
 patch=1,EE,40839E48,extended,000A0001
 patch=1,EE,0000F991,extended,00000000
 
-//Cheats/Unlock All Gold Super Class
+[Cheats/Unlock All Gold Super Class]
 patch=1,EE,40839E70,extended,000A0001
 patch=1,EE,0000F991,extended,00000000
 

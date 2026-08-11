@@ -1,23 +1,23 @@
-//Cheats/Infinite Health 1P
+[Cheats/Infinite Health 1P]
 patch=1,EE,20351458,extended,0000270F
 patch=1,EE,20351460,extended,0000270F
 
-//Cheats/Max Tension gauge 1P
+[Cheats/Max Tension gauge 1P]
 patch=1,EE,20351464,extended,000003E7 
 patch=1,EE,2035146C,extended,000003E7
 
-//Cheats/Press SELECT+right 2P Health 0
+[Cheats/Press SELECT+right 2P Health 0]
 patch=1,EE,D04F9402,extended,0000FFDE
 patch=1,EE,2035282C,extended,00000000
 
-//Cheats/Unlock Story Golden Mask Compilation
+[Cheats/Unlock Story Golden Mask Compilation]
 patch=1,EE,20457BD4,extended,00000001
 
-//Cheats/Unlock All Charactere
+[Cheats/Unlock All Charactere]
 patch=1,EE,404575C4,extended,00130001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/All the tournament ranking S
+[Cheats/All the tournament ranking S]
 patch=1,EE,40457610,extended,000B0001
 patch=1,EE,07070707,extended,00000000
 

@@ -1,20 +1,20 @@
 gametitle=Ka SCPS-11009
-//All Stages Available 
+[All Stages Available]
 patch=1,EE,1072BB56,extended,00004300
 
-//All coloring Available 
+[All coloring Available]
 patch=1,EE,1044D088,extended,0000FFFF
 
-//Battle not go time
+[Battle not go time]
 patch=1,EE,1044D510,extended,00000000
 
-//Do not reduce the stage 12 time limit
+[Do not reduce the stage 12 time limit]
 patch=1,EE,2044CC38,extended,00034BC0
 
-//EX Tank Empty tank MAX
+[EX Tank Empty tank MAX]
 patch=1,EE,0044D1C0,extended,00000010
 
-//EX.B 100
+[EX.B 100]
 patch=1,EE,1044D1C6,extended,000040A0
 patch=1,EE,1044D1CA,extended,000040A0
 patch=1,EE,1044D1CE,extended,000040A0

@@ -1,20 +1,20 @@
 gametitle=American Idol SLUS-20816
-//Always Score Perfect Marks
+[Always Score Perfect Marks]
 patch=1,EE,201877A0,extended,03E00008
 patch=1,EE,201877A4,extended,24020004
 
-//Easier Marks
+[Easier Marks]
 patch=1,EE,20187860,extended,00000000
 
-//Max Flair Meter
+[Max Flair Meter]
 patch=1,EE,2018D5DC,extended,242007B4
 
-//Max Flair Points
+[Max Flair Points]
 patch=1,EE,20192414,extended,24030004
 
-//No Misses
+[No Misses]
 patch=1,EE,2018880C,extended,242007B4
 patch=1,EE,20188810,extended,242007B4
 
-//Perfect Timing
+[Perfect Timing]
 patch=1,EE,20187A54,extended,24050064

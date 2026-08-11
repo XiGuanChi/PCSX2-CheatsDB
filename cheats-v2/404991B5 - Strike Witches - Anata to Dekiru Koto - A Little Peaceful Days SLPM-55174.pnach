@@ -1,8 +1,8 @@
 gametitle=Strike Witches - Anata to Dekiru Koto - A Little Peaceful Days SLPM-55174
-//Gallery fully open
+[Gallery fully open]
 patch=1,EE,41A0F8FD,extended,00070001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,01A0F919,extended,000000FF
 
-//Friendship parameters
+[Friendship parameters]
 patch=1,EE,01AE1308,extended,000000FF

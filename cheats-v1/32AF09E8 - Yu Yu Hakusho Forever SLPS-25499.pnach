@@ -1,33 +1,33 @@
-//Cheats/1P Infiite Health
+[Cheats/1P Infiite Health]
 patch=1,EE,106D9F38,extended,00000500
 
-//Cheats/1P Max HP
+[Cheats/1P Max HP]
 patch=1,EE,206D9F38,extended,00001770
 patch=1,EE,206D9F6C,extended,00001770
 
-//Cheats/1P Max Emotion Bar
+[Cheats/1P Max Emotion Bar]
 patch=1,EE,206D9F3C,extended,000001C2
 patch=1,EE,206D9F70,extended,000001C2
 
-//Cheats/1P Max MP
+[Cheats/1P Max MP]
 patch=1,EE,206D9F48,extended,42C80000
 patch=1,EE,206D9F7C,extended,00000064
 
-//Cheats/2P Health 0
+[Cheats/2P Health 0]
 patch=1,EE,106D9FA0,extended,00000000
 
-//Cheats/Genkai Dojo Training Results Unlimited Distribution Of Points With TP0 Can be sorted
+[Cheats/Genkai Dojo Training Results Unlimited Distribution Of Points With TP0 Can be sorted]
 patch=1,EE,2057D994,extended,00000000
 patch=1,EE,2057D9D8,extended,00000000
 
-//Cheats/Genkai Dojo Training Results 1 Point Allocated To TP 9990
+[Cheats/Genkai Dojo Training Results 1 Point Allocated To TP 9990]
 patch=1,EE,2057D9D4,extended,24022706
 patch=1,EE,2057D9D8,extended,00000000
 
-//Cheats/Genkai Dojo Training Results All Abilities Can Be Strengthened Up To Lv 5 It is possible to strengthen the total allocation limit of 4500 points according to the specifications
+[Cheats/Genkai Dojo Training Results All Abilities Can Be Strengthened Up To Lv 5 It is possible to strengthen the total allocation limit of 4500 points according to the specifications]
 patch=1,EE,20573C48,extended,24020001
 
-//Cheats/Genkai Dojo Master Genkai's Instructions All Passed
+[Cheats/Genkai Dojo Master Genkai's Instructions All Passed]
 patch=1,EE,206F34A0,extended,01010101
 patch=1,EE,206F34A4,extended,01010101
 patch=1,EE,206F34A8,extended,01010101
@@ -38,17 +38,17 @@ patch=1,EE,D061D340,extended,00000001
 patch=1,EE,406F30C8,extended,00080001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Chapters in Story Mode Press SELECT
+[Cheats/Unlock All Chapters in Story Mode Press SELECT]
 patch=1,EE,D061D340,extended,00000001
 patch=1,EE,406F2E50,extended,00060001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Encyclopedia Press SELECT
+[Cheats/Unlock All Encyclopedia Press SELECT]
 patch=1,EE,D061D340,extended,00000001
 patch=1,EE,406F30E8,extended,002A0001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Story Activities Press SELECT
+[Cheats/Unlock All Story Activities Press SELECT]
 patch=1,EE,D061D340,extended,00000001
 patch=1,EE,406F2E70,extended,00940001
 patch=1,EE,01010101,extended,00000000

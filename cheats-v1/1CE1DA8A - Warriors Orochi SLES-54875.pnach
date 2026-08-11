@@ -1,66 +1,66 @@
-//Cheats/Player 1 Max Strength
+[Cheats/Player 1 Max Strength]
 patch=1,EE,104DE6C0,extended,00000198
 patch=1,EE,104DE6C2,extended,00000198
 patch=1,EE,104DE6C4,extended,00000198
 
-//Cheats/Player 1 Max Pair
+[Cheats/Player 1 Max Pair]
 patch=1,EE,104DE6C6,extended,00000132
 patch=1,EE,104DE6C8,extended,00000132
 
-//Cheats/Player 1 Max Degree
+[Cheats/Player 1 Max Degree]
 patch=1,EE,104CE622,extended,00001F40
 
-//Cheats/Player 1 Max Experience
+[Cheats/Player 1 Max Experience]
 patch=1,EE,204CE624,extended,0001869F
 
-//Cheats/Player 1 Stealth Press L1+R2=ON L2+R1=OFF
+[Cheats/Player 1 Stealth Press L1+R2=ON L2+R1=OFF]
 patch=1,EE,D03FC882,extended,0000F3FF
 patch=1,EE,0044B594,extended,00000000
 patch=1,EE,D03FC882,extended,0000F3FF
 patch=1,EE,0044B594,extended,00000093
 
-//Cheats/Player 1 Max Strike Power
+[Cheats/Player 1 Max Strike Power]
 patch=1,EE,104DE6CA,extended,0000270F
 
-//Cheats/Player 1 Max Defense Power
+[Cheats/Player 1 Max Defense Power]
 patch=1,EE,104DE6CC,extended,0000270F
 
-//Cheats/Player 1 Stock Exp Max
+[Cheats/Player 1 Stock Exp Max]
 patch=1,EE,204CE310,extended,0001869F
 
-//Cheats/1 Hit Level Up
+[Cheats/1 Hit Level Up]
 patch=1,EE,40321208,extended,00620001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Counter Air
+[Cheats/Counter Air]
 patch=1,EE,20248FD4,extended,00000000
 
-//Cheats/Always Running Press L1+R1=ON L2+R2=OFF
+[Cheats/Always Running Press L1+R1=ON L2+R2=OFF]
 patch=1,EE,20191168,extended,10000033
 
-//Cheats/Infinite Duty Time
+[Cheats/Infinite Duty Time]
 patch=1,EE,D03FC882,extended,0000F3FF
 patch=1,EE,204CE8C8,extended,00000000
 patch=1,EE,D03FC882,extended,0000FCFF
 patch=1,EE,204CE8C8,extended,00034BC0
 
-//Cheats/Skilled most greatly obtains
+[Cheats/Skilled most greatly obtains]
 patch=1,EE,201D7580,extended,00000000
 
-//Cheats/Unparalleled Military Commander
+[Cheats/Unparalleled Military Commander]
 patch=1,EE,204CE00C,extended,FFFFFFFF
 patch=1,EE,204CE010,extended,FFFFFFFF
 patch=1,EE,104CE014,extended,0000FFFF
 
-//Cheats/Unlock All Character Skills And Special Items
+[Cheats/Unlock All Character Skills And Special Items]
 patch=1,EE,404CA318,extended,004F0032
 patch=1,EE,0000010F,extended,00000000
 
-//Cheats/Unlock All Stages
+[Cheats/Unlock All Stages]
 patch=1,EE,404CE030,extended,003C0003
 patch=1,EE,00000003,extended,00000000
 
-//Cheats/Unlock All Special
+[Cheats/Unlock All Special]
 patch=1,EE,201D91F0,extended,01CD6825
 patch=1,EE,201D91F4,extended,A1ED0000
 

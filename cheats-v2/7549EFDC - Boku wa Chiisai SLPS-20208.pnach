@@ -1,37 +1,37 @@
 gametitle=Boku wa Chiisai SLPS-20208
-//Life does not decrease
+[Life does not decrease]
 patch=1,EE,103426E8,extended,00000020
 patch=1,EE,103426EC,extended,00000010
 
-//Himawari MAX
+[Himawari MAX]
 patch=1,EE,1034271C,extended,000000C8
 
-//Energy drop MAX
+[Energy drop MAX]
 patch=1,EE,103426F0,extended,000003E7
 patch=1,EE,103426F4,extended,000003E7
 
-//Can be equipped with four hold capacity
+[Can be equipped with four hold capacity]
 patch=1,EE,1034270C,extended,00000004
 
-//Mukkimen not reduced grip strength meter
+[Mukkimen not reduced grip strength meter]
 patch=1,EE,20342714,extended,00640064
 
-//Do not reduce Erekimen charge meter
+[Do not reduce Erekimen charge meter]
 patch=1,EE,20342710,extended,0000001E
 
-//Part-level dash MAX
+[Part-level dash MAX]
 patch=1,EE,2034273C,extended,00000020
 
-//Part-level jump MAX
+[Part-level jump MAX]
 patch=1,EE,20342740,extended,00000020
 
-//Part-level light MAX
+[Part-level light MAX]
 patch=1,EE,20342744,extended,00000021
 
-//Get All the capsules
+[Get All the capsules]
 patch=1,EE,4034276C,extended,00100001
 patch=1,EE,00010001,extended,00000000
 
-//All info available chip
+[All info available chip]
 patch=1,EE,403427D4,extended,00320001
 patch=1,EE,00020002,extended,00000000

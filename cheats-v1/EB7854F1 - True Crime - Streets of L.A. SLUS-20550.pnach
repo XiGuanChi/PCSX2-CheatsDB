@@ -1,18 +1,18 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20228C18,extended,ACC101D0
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,2023AC48,extended,00000000
 patch=1,EE,2023B274,extended,00000000
 
-//Cheats/Have All Guns & Upgrades
+[Cheats/Have All Guns & Upgrades]
 patch=1,EE,2075D488,extended,FFFFFFFF
 
-//Cheats/Have All Attacks & Grapples
+[Cheats/Have All Attacks & Grapples]
 patch=1,EE,2075D4E4,extended,FFFFFFFF
 
-//Cheats/Unlock All Maneuvers
+[Cheats/Unlock All Maneuvers]
 patch=1,EE,2075D51C,extended,FFFFFFFF
 
-//Cheats/Unlock All Cars
+[Cheats/Unlock All Cars]
 patch=1,EE,2075D524,extended,00000003

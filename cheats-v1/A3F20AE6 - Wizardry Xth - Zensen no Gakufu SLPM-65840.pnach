@@ -1,61 +1,61 @@
-//Cheats/Max Gold
+[Cheats/Max Gold]
 patch=1,EE,2012CB60,extended,3C0205F5
 patch=1,EE,2012CB64,extended,3442E0FF
 patch=1,EE,2012CB68,extended,03E00008
 patch=1,EE,2012CB6C,extended,AC820014
 
-//Cheats/Max Gold Collect or distribute
+[Cheats/Max Gold Collect or distribute]
 patch=1,EE,2012C744,extended,00000000
 
-//Cheats/Level up if you rest in the dormitory
+[Cheats/Level up if you rest in the dormitory]
 patch=1,EE,2012F40C,extended,24020000
 
-//Cheats/Max Gold And EXP in one battle
+[Cheats/Max Gold And EXP in one battle]
 patch=1,EE,2012F070,extended,00000000
 patch=1,EE,2012F080,extended,AC820018
 patch=1,EE,2012F088,extended,03E00008
 
-//Cheats/9999 HP At 1 Level Up
+[Cheats/9999 HP At 1 Level Up]
 patch=1,EE,2012FDDC,extended,00000000
 
-//Cheats/HP Always 9999-9999 Effective during party formation
+[Cheats/HP Always 9999-9999 Effective during party formation]
 patch=1,EE,2012D584,extended,24970000
 patch=1,EE,2012D590,extended,2404270F
 patch=1,EE,2012D5AC,extended,A6E4000C
 patch=1,EE,2012D5B0,extended,A6E4000E
 
-//Cheats/Infinite Bonus Points when creating a new character
+[Cheats/Infinite Bonus Points when creating a new character]
 patch=1,EE,2012F144,extended,00000000
 
-//Cheats/MP 9 maintenance If we did not want to remain in the save, use only the first line
+[Cheats/MP 9 maintenance If we did not want to remain in the save, use only the first line]
 patch=1,EE,201311A4,extended,00624021
 patch=1,EE,201311A8,extended,24020099
 patch=1,EE,201311AC,extended,A10200D0
 patch=1,EE,201311B4,extended,3042000F
 
-//Cheats/Not to ally status abnormal It is effective both combat and non-combat
+[Cheats/Not to ally status abnormal It is effective both combat and non-combat]
 patch=1,EE,2012CC30,extended,A0800000
 patch=1,EE,2012CC38,extended,03E00008
 
-//Cheats/Combat Enemy Killed Instantly It dies in the first turn
+[Cheats/Combat Enemy Killed Instantly It dies in the first turn]
 patch=1,EE,20191A18,extended,24020006
 
-//Cheats/Checking Status Max Marks
+[Cheats/Checking Status Max Marks]
 patch=1,EE,2012CC80,extended,3C0205F5
 patch=1,EE,2012CC84,extended,3442E0FF
 patch=1,EE,2012CC88,extended,03E00008
 patch=1,EE,2012CC8C,extended,AC820030
 
-//Cheats/Checking Status RIP 0
+[Cheats/Checking Status RIP 0]
 patch=1,EE,2012CC90,extended,AC800034
 patch=1,EE,2012CC98,extended,03E00008
 
-//Cheats/Checking Status Full HP Recovery
+[Cheats/Checking Status Full HP Recovery]
 patch=1,EE,200F7030,extended,A608000E
 patch=1,EE,200F7034,extended,08058898
 patch=1,EE,2016D5F4,extended,0C03DC0C
 
-//Cheats/Checking Status STR LUK 99
+[Cheats/Checking Status STR LUK 99]
 patch=1,EE,200F7000,extended,24026363
 patch=1,EE,200F7004,extended,A4820004
 patch=1,EE,200F7008,extended,A4820006
@@ -63,21 +63,21 @@ patch=1,EE,200F700C,extended,03E00008
 patch=1,EE,200F7010,extended,A4820008
 patch=1,EE,2012CA90,extended,0803DC00
 
-//Cheats/Debug Menu Enter the school year book in the library Debugging ON SELECT+Up OFF SELECT+Down
+[Cheats/Debug Menu Enter the school year book in the library Debugging ON SELECT+Up OFF SELECT+Down]
 patch=1,EE,D028F6DC,extended,0000FFEE
 patch=1,EE,201EBFF4,extended,00178120
 patch=1,EE,D028F6DC,extended,0000FFBE
 patch=1,EE,201EBFF4,extended,001537A0
 
-//Cheats/Unlock All Library when resource information is viewed
+[Cheats/Unlock All Library when resource information is viewed]
 patch=1,EE,2016C0D8,extended,2402FFFF
 patch=1,EE,2016C0DC,extended,A4620000
 
-//Cheats/Unlock All Enemy Information when is viewed
+[Cheats/Unlock All Enemy Information when is viewed]
 patch=1,EE,2016BFD8,extended,2402FFFF
 patch=1,EE,2016BFDC,extended,A4620000
 
-//Cheats/Unlock All Training Method when is viewed
+[Cheats/Unlock All Training Method when is viewed]
 patch=1,EE,2016C0D8,extended,2402FFFF
 patch=1,EE,2016C0DC,extended,A4620000
 patch=1,EE,2016C17C,extended,2402FFFF

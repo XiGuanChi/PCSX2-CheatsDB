@@ -1,33 +1,33 @@
-//Cheats/Must ON for power, endurance, and protection codes to work
+[Cheats/Must ON for power, endurance, and protection codes to work]
 patch=1,EE,200C201C,extended,03E00008
 patch=1,EE,200C2020,extended,8CA2000C
 patch=1,EE,20322B40,extended,0C030800
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C2008,extended,E60000F4
 
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,200C2000,extended,3C0142C8
 patch=1,EE,200C2004,extended,AE0100F8
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2033A82C,extended,00000000
 
-//Cheats/Infinite Protection
+[Cheats/Infinite Protection]
 patch=1,EE,200C200C,extended,8E020380
 patch=1,EE,200C2010,extended,AE02037C
 
-//Cheats/Infinite Endurance
+[Cheats/Infinite Endurance]
 patch=1,EE,200C2014,extended,8CA208C4
 patch=1,EE,200C2018,extended,ACA208C0
 
-//Cheats/Infinite Shells
+[Cheats/Infinite Shells]
 patch=1,EE,20343D3C,extended,00000000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,20343D3C,extended,24420000
 
-//Cheats/Unlock All levels
+[Cheats/Unlock All levels]
 patch=1,EE,202EE67C,extended,24020001
 patch=1,EE,202EE680,extended,A0620000
 

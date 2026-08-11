@@ -1,16 +1,16 @@
-//Cheats/1st Fish In Bag Max Size
+[Cheats/1st Fish In Bag Max Size]
 patch=1,EE,102CED28,extended,0000FFFF
 
-//Cheats/1st Fish In Bag Max Weight
+[Cheats/1st Fish In Bag Max Weight]
 patch=1,EE,102CED2C,extended,0000FFFF
 
-//Cheats/Freeze Timer
+[Cheats/Freeze Timer]
 patch=1,EE,2014DE4C,extended,24630000
 
-//Cheats/Max Points
+[Cheats/Max Points]
 patch=1,EE,10296C80,extended,0000FFFF
 
-//Cheats/Unlock Private Lake
+[Cheats/Unlock Private Lake]
 patch=1,EE,203622A4,extended,00000000
 patch=1,EE,003622A8,extended,0000000F
 

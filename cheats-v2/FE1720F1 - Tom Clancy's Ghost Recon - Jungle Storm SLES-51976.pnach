@@ -1,19 +1,19 @@
 gametitle=Tom Clancy's Ghost Recon - Jungle Storm SLES-51976
-//God Mode
+[God Mode]
 patch=1,EE,20150AE0,extended,24020001
 
-//Immuned To Amunition not to your own grenades.
+[Immuned To Amunition not to your own grenades.]
 patch=1,EE,205B3A58,extended,00580940
 patch=1,EE,20580940,extended,2401001A
 patch=1,EE,20580944,extended,10340002
 patch=1,EE,2058094C,extended,03E00008
 patch=1,EE,20580954,extended,080ECA7C
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,202200E4,extended,00000000
 
-//Unlimited Quick saves
+[Unlimited Quick saves]
 patch=1,EE,202A9F60,extended,00000000
 
-//Unlimited restarts
+[Unlimited restarts]
 patch=1,EE,202A6F60,extended,00000000

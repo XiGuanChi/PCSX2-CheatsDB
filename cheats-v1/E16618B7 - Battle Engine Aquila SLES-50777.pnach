@@ -1,19 +1,19 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2010C134,extended,44800000
 
-//Cheats/Weapons Never Heat
+[Cheats/Weapons Never Heat]
 patch=1,EE,2010B0C0,extended,AC600000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2011B920,extended,00000000
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,202B6DAC,extended,44800000
 
-//Cheats/Infinite Fuel
+[Cheats/Infinite Fuel]
 patch=1,EE,20115DDC,extended,10000011
 
-//Cheats/Unlock All Goodies
+[Cheats/Unlock All Goodies]
 patch=1,EE,200FFF00,extended,24020003
 patch=1,EE,200FFF04,extended,AC621F44
 patch=1,EE,200FFF08,extended,08062C9B

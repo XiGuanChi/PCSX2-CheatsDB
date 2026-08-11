@@ -1,4 +1,4 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2047D870,extended,42C80000
 patch=1,EE,20672138,extended,42C80000
 patch=1,EE,2033FEC0,extended,E4410080
@@ -7,90 +7,90 @@ patch=1,EE,2033FEC8,extended,0807B358
 patch=1,EE,201ECD58,extended,C7810000
 patch=1,EE,201ECD5C,extended,080CFFB0
 
-//Cheats/Infinite Health alt
+[Cheats/Infinite Health alt]
 patch=1,EE,2018097C,extended,3C0142C8
 patch=1,EE,20180988,extended,AE010080
 
-//Cheats/Infinite Item Use
+[Cheats/Infinite Item Use]
 patch=1,EE,201D44A4,extended,24630000
 
-//Cheats/Unlock All Specials Rin
+[Cheats/Unlock All Specials Rin]
 patch=1,EE,105BE4B8,extended,0000FFFF
 
-//Cheats/Unlock All Specials Ayame
+[Cheats/Unlock All Specials Ayame]
 patch=1,EE,105BE52C,extended,0000FFFF
 
-//Cheats/Unlock All Boss Battles
+[Cheats/Unlock All Boss Battles]
 patch=1,EE,405BF120,extended,000B0013
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Unlock Level Select
+[Cheats/Unlock Level Select]
 patch=1,EE,005BE598,extended,00000001
 
-//Cheats/Unlock Mission Chapter 2-1
+[Cheats/Unlock Mission Chapter 2-1]
 patch=1,EE,105BE63C,extended,00000001
 
-//Cheats/Unlock Mission Chapter 2-2
+[Cheats/Unlock Mission Chapter 2-2]
 patch=1,EE,105BE6E0,extended,00000001
 
-//Cheats/Unlock Mission Chapter 3-1
+[Cheats/Unlock Mission Chapter 3-1]
 patch=1,EE,105BE784,extended,00000001
 
-//Cheats/Unlock Mission Chapter 3-2
+[Cheats/Unlock Mission Chapter 3-2]
 patch=1,EE,105BE828,extended,00000001
 
-//Cheats/Unlock Mission Chapter 4
+[Cheats/Unlock Mission Chapter 4]
 patch=1,EE,105BE8CC,extended,00000001
 
-//Cheats/Unlock Mission Chapter 5
+[Cheats/Unlock Mission Chapter 5]
 patch=1,EE,105BE970,extended,00000001
 
-//Cheats/Unlock Mission Chapter 6-1
+[Cheats/Unlock Mission Chapter 6-1]
 patch=1,EE,105BEA14,extended,00000001
 
-//Cheats/Unlock Mission Chapter 6-2
+[Cheats/Unlock Mission Chapter 6-2]
 patch=1,EE,105BEAB8,extended,00000001
 
-//Cheats/Unlock Mission Chapter 7-1
+[Cheats/Unlock Mission Chapter 7-1]
 patch=1,EE,105BEB5C,extended,00000001
 
-//Cheats/Unlock Mission Chapter 7-2
+[Cheats/Unlock Mission Chapter 7-2]
 patch=1,EE,105BEC00,extended,00000001
 
-//Cheats/Unlock Mission Chapter 8
+[Cheats/Unlock Mission Chapter 8]
 patch=1,EE,105BECA4,extended,00000001
 
-//Cheats/Unlock Mission Chapter 9
+[Cheats/Unlock Mission Chapter 9]
 patch=1,EE,105BED48,extended,00000001
 
-//Cheats/Unlock Mission Chapter 10-1
+[Cheats/Unlock Mission Chapter 10-1]
 patch=1,EE,105BEDEC,extended,00000001
 
-//Cheats/Unlock Mission Chapter 10-2
+[Cheats/Unlock Mission Chapter 10-2]
 patch=1,EE,105BEE90,extended,00000001
 
-//Cheats/Unlock Mission Chapter 11
+[Cheats/Unlock Mission Chapter 11]
 patch=1,EE,105BEF34,extended,00000001
 
-//Cheats/Unlock Mission Chapter 12-1
+[Cheats/Unlock Mission Chapter 12-1]
 patch=1,EE,105BEFD8,extended,00000001
 
-//Cheats/Unlock Mission Chapter 12-2
+[Cheats/Unlock Mission Chapter 12-2]
 patch=1,EE,105BF07C,extended,00000001
 
-//Cheats/Unlock Extra Costumes
+[Cheats/Unlock Extra Costumes]
 patch=1,EE,105BE520,extended,0000270F
 patch=1,EE,105BE524,extended,0000270F
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,405C0680,extended,00050001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Unlock All Movies and Sound Test
+[Cheats/Unlock All Movies and Sound Test]
 patch=1,EE,405C0700,extended,00080001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Unlock All Cutscenes
+[Cheats/Unlock All Cutscenes]
 patch=1,EE,405C06C0,extended,000A0001
 patch=1,EE,00000000,extended,00000000
 patch=1,EE,005C06E8,extended,00000000

@@ -1,7 +1,7 @@
 gametitle=Capcom vs. SNK 2 - Mark of the Millennium 2001 SLES-50541
-//Player 1 Unlimited Health
+[Player 1 Unlimited Health]
 patch=1,EE,10482744,extended,00001CCF
 
-//Secret Open
+[Secret Open]
 patch=1,EE,203f3390,extended,FFFFFFFF
 patch=1,EE,203f3394,extended,FFFFFFFF

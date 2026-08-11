@@ -1,8 +1,8 @@
 gametitle=Hooligan - Kimi no Naka no Yuuki SLPS-25146
-//Does not decrease ally HP
+[Does not decrease ally HP]
 patch=1,EE,202020E8,extended,019001A4
 
-//Bonus  fully open 
+[Bonus  fully open]
 patch=1,EE,401D6448,extended,00070001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,101D6464,extended,0000FFFF

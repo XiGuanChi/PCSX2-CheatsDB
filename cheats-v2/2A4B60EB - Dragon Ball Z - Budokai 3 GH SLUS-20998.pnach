@@ -1,56 +1,56 @@
 gametitle=Dragon Ball Z - Budokai 3 GH SLUS-20998
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,2046A668,extended,FFFFFFFF
 patch=1,EE,2046A66C,extended,FFFFFFFF
 
-//Infinite Zenie
+[Infinite Zenie]
 patch=1,EE,10495568,extended,0000FFFF
 
-//Max Zenie
+[Max Zenie]
 patch=1,EE,20495568,extended,05F5E0FF
 
-//Dragon Universe Codes
-//Max Health
+[Dragon Universe Codes]
+[Max Health]
 patch=1,EE,D089E71E,extended,0000008E
 patch=1,EE,2089E75C,extended,00000014
 
-//Max Ki
+[Max Ki]
 patch=1,EE,D089E71E,extended,0000008E
 patch=1,EE,2089E760,extended,00000014
 
-//Max Attack
+[Max Attack]
 patch=1,EE,D089E71E,extended,0000008E
 patch=1,EE,2089E764,extended,00000014
 
-//Max Guard
+[Max Guard]
 patch=1,EE,D089E71E,extended,0000008E
 patch=1,EE,2089E768,extended,00000014
 
-//Max Arts
+[Max Arts]
 patch=1,EE,D089E71E,extended,0000008E
 patch=1,EE,2089E76C,extended,00000014
 
-//Max Ability
+[Max Ability]
 patch=1,EE,D089E71E,extended,0000008E
 patch=1,EE,2089E770,extended,00000014
 
-//Max Com
+[Max Com]
 patch=1,EE,D089E71E,extended,0000008E
 patch=1,EE,2089E774,extended,00000014
 
-//Max Exp
+[Max Exp]
 patch=1,EE,D089E71E,extended,0000008E
 patch=1,EE,2089E794,extended,05F5E0FF
 
-//P1 Press L1+Select For 99 Points Remaining
+[P1 Press L1+Select For 99 Points Remaining]
 patch=1,EE,D05868C2,extended,0000FBFE
 patch=1,EE,2089E8C4,extended,00000063
 
-//P1 Press L2+Select For 0 Points Remaining
+[P1 Press L2+Select For 0 Points Remaining]
 patch=1,EE,D05868C2,extended,0000FEFE
 patch=1,EE,2089E8C4,extended,00000000
 
-//Tournament Player 1 Infinite Health
+[Tournament Player 1 Infinite Health]
 patch=1,EE,D0427FBC,extended,00000000
 patch=1,EE,2044CF00,extended,453B8000
 patch=1,EE,D0427FBC,extended,00000001

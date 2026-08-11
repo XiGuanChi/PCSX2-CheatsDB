@@ -1,18 +1,18 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,204D540C,extended,E480023C
 
-//Cheats/Infinite Energy
+[Cheats/Infinite Energy]
 patch=1,EE,203CEE3C,extended,E4810244
 
-//Cheats/Max Credits Danger Room
+[Cheats/Max Credits Danger Room]
 patch=1,EE,20716AA8,extended,0000270F
 
-//Cheats/Max Tech Bits
+[Cheats/Max Tech Bits]
 patch=1,EE,2079A5A0,extended,000F423F
 
-//Cheats/P1 Press L1+Select To Stop Timer
+[Cheats/P1 Press L1+Select To Stop Timer]
 patch=1,EE,D0C92D42,extended,0000FBFE
 patch=1,EE,201414C8,extended,00000000
 
-//Cheats/Infinite All Health Packs
+[Cheats/Infinite All Health Packs]
 patch=1,EE,20389F98,extended,00000000

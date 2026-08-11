@@ -1,11 +1,11 @@
-//Cheats/Always Low Elapsed Time
+[Cheats/Always Low Elapsed Time]
 patch=1,EE,202ADBE8,extended,00000000
 
-//Cheats/Always Low Heart Rate
+[Cheats/Always Low Heart Rate]
 patch=1,EE,209D5FD4,extended,00000000
 
-//Cheats/Infinite Battery
+[Cheats/Infinite Battery]
 patch=1,EE,20AD6DEC,extended,42C80000
 
-//Cheats/Heart Rate Doesnt Increase Over Time
+[Cheats/Heart Rate Doesnt Increase Over Time]
 patch=1,EE,202176A0,extended,00000000

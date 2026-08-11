@@ -1,6 +1,6 @@
 gametitle=Simple 2000 Ultimate Series Vol.25 - Chou-Saisoku! Zokusha King BU no BU SLPM-62616
-//KP Max  increase in KP
+[KP Max  increase in KP]
 patch=1,EE,0010CC80,extended,00000000
 
-//National total dominance mode property Max
+[National total dominance mode property Max]
 patch=1,EE,201E5E6C,extended,05F5E0FF

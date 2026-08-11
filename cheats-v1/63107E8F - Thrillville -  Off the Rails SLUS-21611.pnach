@@ -1,10 +1,10 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,200C0220,extended,3C053B9A
 patch=1,EE,200C0224,extended,34A5C9FF
 patch=1,EE,200C0228,extended,080FD82A
 patch=1,EE,200C022C,extended,AC450068
 patch=1,EE,2028F0B0,extended,0C030088
 
-//Cheats/Average Guest Always Happy
+[Cheats/Average Guest Always Happy]
 patch=1,EE,20293F24,extended,240200FF
 patch=1,EE,20293F30,extended,A0620018

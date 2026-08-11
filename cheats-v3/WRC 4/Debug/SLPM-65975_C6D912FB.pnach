@@ -1,6 +1,6 @@
 gametitle=WRC 4 Japan 2.00 [SLPM 65975] (NTSC-J)
 
-//Debug\Print Files to Logs
+[Debug\Print Files to Logs]
 author=github.com/igorciz777
 description=Prints filenames of loaded files to logs
 patch=1,EE,002C9FBC,word,3C040042

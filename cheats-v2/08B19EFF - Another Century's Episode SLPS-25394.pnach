@@ -1,23 +1,23 @@
 gametitle= Another Century's Episode SLPS-25394
-//Ace Point MAX
+[Ace Point MAX]
 patch=1,EE,2028733C,extended,3C02000F
 patch=1,EE,20287344,extended,3442423F
 
-//Aemir 999
+[Aemir 999]
 patch=1,EE,2028730C,extended,2402270F
 
-//Briefing, material MAX"
+[Briefing, material MAX"]
 patch=1,EE,202699B0,extended,3C020098
 patch=1,EE,202699B8,extended,3442967F
 
-//Player unit armor max
+[Player unit armor max]
 patch=1,EE,2026DA20,extended,E4800000
 patch=1,EE,2026DA28,extended,46000003
 
-//Achievement of secret condition by mission clear
+[Achievement of secret condition by mission clear]
 patch=1,EE,2020601C,extended,00000000
 
-//Time limit operation Stop by SELECT + ? button Release Suspend with SELECT + ? button Time 0 with SELECT + ? button
+[Time limit operation Stop by SELECT + ? button Release Suspend with SELECT + ? button Time 0 with SELECT + ? button]
 patch=1,EE,D033B2C2,extended,0000FFEE
 patch=1,EE,202088D0,extended,00000000
 patch=1,EE,D033B2C2,extended,0000FFBE
@@ -25,6 +25,6 @@ patch=1,EE,202088D0,extended,46140000
 patch=1,EE,D033B2C2,extended,0000FF7E
 patch=1,EE,203440F0,extended,00000000
 
-//All aircraft purchased & added free mission
+[All aircraft purchased & added free mission]
 patch=1,EE,40515994,extended,00110001
 patch=1,EE,02020202,extended,00000000

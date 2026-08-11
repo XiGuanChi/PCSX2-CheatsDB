@@ -1,17 +1,17 @@
 gametitle=Star Wars - Bounty Hunter SLUS-20420
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202F78C0,extended,3C014348
 patch=1,EE,202F78C4,extended,AE2101E8
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2017D4BC,extended,00000000
 
-//Infinite Jetpack
+[Infinite Jetpack]
 patch=1,EE,20206038,extended,00000000
 patch=1,EE,20206774,extended,00000000
 
-//Have All Levels Complete
+[Have All Levels Complete]
 patch=1,EE,203F0638,extended,FFFFFFFF
 
-//Have All Secrets Found
+[Have All Secrets Found]
 patch=1,EE,203F063C,extended,FFFFFFFF

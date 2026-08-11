@@ -1,41 +1,41 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,008E1D84,extended,00000009
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,208E1D8C,extended,42C80000
 
-//Cheats/Infinite Bombs
+[Cheats/Infinite Bombs]
 patch=1,EE,008E1DAC,extended,00000009
 
-//Cheats/Unlock All CST Missions
+[Cheats/Unlock All CST Missions]
 patch=1,EE,0061ADC1,extended,00000001
 patch=1,EE,1061ADC2,extended,00000101
 patch=1,EE,1061ADC4,extended,00000101
 patch=1,EE,0061ADC6,extended,00000001
 
-//Cheats/Unlock Boss Modes
+[Cheats/Unlock Boss Modes]
 patch=1,EE,0061ADDC,extended,00000001
 
-//Cheats/Unlock All Agent Data
+[Cheats/Unlock All Agent Data]
 patch=1,EE,1061ADE0,extended,00000101
 
-//Cheats/Unlock All Alien Data
+[Cheats/Unlock All Alien Data]
 patch=1,EE,1061ADE2,extended,00000101
 patch=1,EE,4061ADE4,extended,00060001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,1061ADFC,extended,00000101
 patch=1,EE,0061ADFE,extended,00000001
 
-//Cheats/Unlock All Making Of
+[Cheats/Unlock All Making Of]
 patch=1,EE,0061ADFF,extended,00000001
 patch=1,EE,4061AE00,extended,00080001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,1061AE20,extended,00000101
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,D084926C,extended,0000FF40
 patch=1,EE,008492D4,extended,00000001
 
-//Cheats/Unlock All Rewards
+[Cheats/Unlock All Rewards]
 patch=1,EE,D084926C,extended,0000FF40
 patch=1,EE,008492D5,extended,00000001

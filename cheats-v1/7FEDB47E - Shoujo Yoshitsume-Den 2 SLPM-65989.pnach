@@ -1,57 +1,57 @@
-//Cheats/Exp 9999999 After Battle
+[Cheats/Exp 9999999 After Battle]
 patch=1,EE,201FBD84,extended,00000000
 
-//Cheats/Exp max 1 Player
+[Cheats/Exp max 1 Player]
 patch=1,EE,202E1B50,extended,000F423F
 
-//Cheats/Max 1P score
+[Cheats/Max 1P score]
 patch=1,EE,2038F9B8,extended,0098967F
 
-//Cheats/2P scores 0
+[Cheats/2P scores 0]
 patch=1,EE,2038F9C0,extended,00000000
 
-//Cheats/3P scores 0
+[Cheats/3P scores 0]
 patch=1,EE,2038F9C8,extended,00000000
 
-//Cheats/4P scores 0
+[Cheats/4P scores 0]
 patch=1,EE,2038F9D0,extended,00000000
 
-//Cheats/Max HP
+[Cheats/Max HP]
 patch=1,EE,201CB268,extended,10000000
 
-//Cheats/Max MP
+[Cheats/Max MP]
 patch=1,EE,201CB274,extended,10000000
 
-//Cheats/Max AT
+[Cheats/Max AT]
 patch=1,EE,201CB27C,extended,2403270F
 patch=1,EE,201CB280,extended,10000000
 
-//Cheats/Max DF
+[Cheats/Max DF]
 patch=1,EE,201CB288,extended,2403270F
 patch=1,EE,201CB28C,extended,10000000
 
-//Cheats/Max MA
+[Cheats/Max MA]
 patch=1,EE,201CB294,extended,2403270F
 patch=1,EE,201CB298,extended,10000000
 
-//Cheats/Max MD
+[Cheats/Max MD]
 patch=1,EE,201CB2A0,extended,2403270F
 patch=1,EE,201CB2A4,extended,10000000
 
-//Cheats/Max SP
+[Cheats/Max SP]
 patch=1,EE,201CB2AC,extended,2403270F
 patch=1,EE,201CB2B0,extended,10000000
 
-//Cheats/Max MOV
+[Cheats/Max MOV]
 patch=1,EE,201CB2BC,extended,10000000
 
-//Cheats/In nine connected treasure lights reach state
+[Cheats/In nine connected treasure lights reach state]
 patch=1,EE,2038FDB0,extended,02010101
 patch=1,EE,2038FDB4,extended,06050403
 patch=1,EE,2038FDB8,extended,09080807
 patch=1,EE,1038FDBC,extended,00000909
 
-//Cheats/Unlock All CG Gallery
+[Cheats/Unlock All CG Gallery]
 patch=1,EE,203B9F68,extended,00000007
 patch=1,EE,203BA01C,extended,00000007
 patch=1,EE,203BA0D0,extended,00000007
@@ -60,19 +60,19 @@ patch=1,EE,203BA238,extended,00000007
 patch=1,EE,203BA2EC,extended,00000007
 patch=1,EE,203BA3A0,extended,00000007
 
-//Cheats/Unlock All Album
+[Cheats/Unlock All Album]
 patch=1,EE,201DEB24,extended,13E00002
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,201DE150,extended,13E00002
 
-//Cheats/Unlock All Events
+[Cheats/Unlock All Events]
 patch=1,EE,201DDD10,extended,13E00002
 
-//Cheats/Necessity
+[Cheats/Necessity]
 patch=1,EE,201CB1A4,extended,10000030
 
-//Cheats/Unlock All Extras
+[Cheats/Unlock All Extras]
 patch=1,EE,202E07E0,extended,FFFFFFFF
 patch=1,EE,202E07E4,extended,FFFFFFFF
 patch=1,EE,202E07E8,extended,FFFFFFFF

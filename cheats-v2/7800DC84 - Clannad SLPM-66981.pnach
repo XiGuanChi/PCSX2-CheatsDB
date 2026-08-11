@@ -1,8 +1,8 @@
 gametitle=Clannad SLPM-66981
-//Unlock CG Mode
+[Unlock CG Mode]
 patch=1,EE,40373EB4,extended,000F0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Unlock Music Mode
+[Unlock Music Mode]
 patch=1,EE,40373F70,extended,000C0001
 patch=1,EE,01010101,extended,00000000

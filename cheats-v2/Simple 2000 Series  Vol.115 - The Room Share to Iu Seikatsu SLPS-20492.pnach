@@ -1,61 +1,61 @@
 gametitle=Simple 2000 Series  Vol.115 - The Room Share to Iu Seikatsu SLPS-20492
-//Money 9999999
+[Money 9999999]
 patch=1,EE,20237870,extended,0098967F
 
-//Stress
+[Stress]
 patch=1,EE,00237884,extended,00000016
 
-//Physical strength
+[Physical strength]
 patch=1,EE,00237882,extended,00000016
 
-//Maintain maximum health for all  Changes during the tutorial are not supported.
+[Maintain maximum health for all  Changes during the tutorial are not supported.]
 patch=1,EE,20150B50,extended,24410000
 patch=1,EE,20150B88,extended,0084001A
 patch=1,EE,20150B90,extended,A4240000
 patch=1,EE,20150B98,extended,0220202D
 
-//No stress for everyone  Changes during the tutorial are not supported.
+[No stress for everyone  Changes during the tutorial are not supported.]
 patch=1,EE,20150BA8,extended,24410000
 patch=1,EE,20150BD8,extended,00A5001A
 patch=1,EE,20150BE4,extended,A4250000
 patch=1,EE,20150BEC,extended,00432823
 
-//Maximum friendship with the first person living together
+[Maximum friendship with the first person living together]
 patch=1,EE,0023796E,extended,00000064
 
-//Second person living together Maximum friendship
+[Second person living together Maximum friendship]
 patch=1,EE,00237A56,extended,00000064
 
-//3rd person living together Maximum friendship
+[3rd person living together Maximum friendship]
 patch=1,EE,00237B3E,extended,00000064
 
-//All bald (save not reflected)
+[All bald (save not reflected)]
 patch=1,EE,2013BAB0,extended,24030000
 
-//Maximum health
+[Maximum health]
 patch=1,EE,10237882,extended,00000078
 
-//No stress
+[No stress]
 patch=1,EE,10237884,extended,00000050
 
-//Deviation value 100
+[Deviation value 100]
 patch=1,EE,2022C0BC,extended,00000064
 
-//Study efficiency 100%
+[Study efficiency 100%]
 patch=1,EE,2022C0C0,extended,00000064
 
-//Academic level 50
+[Academic level 50]
 patch=1,EE,2022C0C4,extended,00000032
 
-//Study experience value 9999999
+[Study experience value 9999999]
 patch=1,EE,2022C0C8,extended,0098967F
 
-//Study time 999999h
+[Study time 999999h]
 patch=1,EE,2022C0B8,extended,000F423F
 
-//Cooking professional grade
+[Cooking professional grade]
 patch=1,EE,10237892,extended,00000005
 
-//Cleaning professional grade
+[Cleaning professional grade]
 patch=1,EE,10237894,extended,00000005
 

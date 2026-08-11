@@ -1,22 +1,22 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20112CA4,extended,AFC20010
 
-//Cheats/Infinite Stamina
+[Cheats/Infinite Stamina]
 patch=1,EE,201B3968,extended,00000000
 
-//Cheats/Save Anywhere
+[Cheats/Save Anywhere]
 patch=1,EE,00549868,extended,00000001
 
-//Cheats/Activate Cheat God Mode
+[Cheats/Activate Cheat God Mode]
 patch=1,EE,20549B10,extended,00000001
 
-//Cheats/Activate Cheat Fully Equipped
+[Cheats/Activate Cheat Fully Equipped]
 patch=1,EE,20549B04,extended,00000001
 
-//Cheats/Have All Levels Completed
+[Cheats/Have All Levels Completed]
 patch=1,EE,405E0684,extended,0014002C
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Max Rating All Levels
+[Cheats/Max Rating All Levels]
 patch=1,EE,405E0688,extended,0014002C
 patch=1,EE,00000005,extended,00000000

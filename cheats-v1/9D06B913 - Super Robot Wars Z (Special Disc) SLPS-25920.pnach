@@ -1,55 +1,55 @@
-//Cheats/Max Funds
+[Cheats/Max Funds]
 patch=1,EE,205DBB20,extended,05F5E0FF
 
-//Cheats/Max with PP fluctuation
+[Cheats/Max with PP fluctuation]
 patch=1,EE,2018000C,extended,00000000
 patch=1,EE,201B2B68,extended,00000000
 patch=1,EE,2027E14C,extended,00000000
 
-//Cheats/Max BS
+[Cheats/Max BS]
 patch=1,EE,205DBB68,extended,000F423F
 
-//Cheats/Infinite SP
+[Cheats/Infinite SP]
 patch=1,EE,20290194,extended,24020000
 
-//Cheats/Infinite EN
+[Cheats/Infinite EN]
 patch=1,EE,202876DC,extended,00401823
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,20287788,extended,24630000
 
-//Cheats/90 pieces due to fluctuation of reinforced parts
+[Cheats/90 pieces due to fluctuation of reinforced parts]
 patch=1,EE,2027D14C,extended,2403005A
 
-//Cheats/Maintain God Gravion even after 3 turns
+[Cheats/Maintain God Gravion even after 3 turns]
 patch=1,EE,202914B4,extended,00000000
 patch=1,EE,20291510,extended,00000000
 
-//Cheats/Clear All Extra Stages
+[Cheats/Clear All Extra Stages]
 patch=1,EE,20155068,extended,2404FFFF
 patch=1,EE,2015506C,extended,A4440000
 patch=1,EE,2015508C,extended,00821025
 
-//Cheats/Clear All Extra Stages save not reflected
+[Cheats/Clear All Extra Stages save not reflected]
 patch=1,EE,2015508C,extended,24020001
 
-//Cheats/All members of the force limit breakthrough
+[Cheats/All members of the force limit breakthrough]
 patch=1,EE,2027E37C,extended,007D200A
 
-//Cheats/Pilot training special skills added
+[Cheats/Pilot training special skills added]
 patch=1,EE,203F9FC4,extended,00190003
 patch=1,EE,203F9FC8,extended,0023001E
 patch=1,EE,203F9FCC,extended,002D0028
 patch=1,EE,203F9FD0,extended,00370032
 patch=1,EE,203F9FD4,extended,0041003C
 
-//Cheats/Ally's Phase or Turn Manipulator L3=ON R3=OFF
+[Cheats/Ally's Phase or Turn Manipulator L3=ON R3=OFF]
 patch=1,EE,D0625002,extended,0000FFFD
 patch=1,EE,2015D2C0,extended,28410000
 patch=1,EE,D0625002,extended,0000FFFB
 patch=1,EE,2015D2C0,extended,28412710
 
-//Cheats/Pilot's Exceed Point For Training PP cannot be saved
+[Cheats/Pilot's Exceed Point For Training PP cannot be saved]
 patch=1,EE,2027F870,extended,286103E8
 patch=1,EE,2027F89C,extended,286103E8
 patch=1,EE,2027F8C8,extended,286103E8

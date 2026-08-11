@@ -1,58 +1,58 @@
 gametitle=Dark Cloud SCES-50295
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,11CF0192,extended,0000270F
 
-//Infinite HP - All Characters
+[Infinite HP - All Characters]
 patch=1,EE,201BFE4C,extended,00000000
 patch=1,EE,201BF84C,extended,00000000
 
-//Weapons Do Not Take Damage
+[Weapons Do Not Take Damage]
 patch=1,EE,201B6F8C,extended,00000000
 
-//Infinite Fishing Points
+[Infinite Fishing Points]
 patch=1,EE,11CE6C1C,extended,0000270F
 
-//Inf Health Toan
+[Inf Health Toan]
 patch=1,EE,11CEBE52,extended,000000FF
 patch=1,EE,11CEBE5E,extended,000000FF
 
-//Inf Health Xion
+[Inf Health Xion]
 patch=1,EE,11CEBE54,extended,000000FF
 patch=1,EE,11CEBE60,extended,000000FF
 
-//Inf Health Goro
+[Inf Health Goro]
 patch=1,EE,11CEBE56,extended,000000FF
 patch=1,EE,11CEBE62,extended,000000FF
 
-//Inf Health Ruby
+[Inf Health Ruby]
 patch=1,EE,11CEBE58,extended,000000FF
 patch=1,EE,11CEBE64,extended,000000FF
 
-//Inf Health Ungaga
+[Inf Health Ungaga]
 patch=1,EE,11CEBE5A,extended,000000FF
 patch=1,EE,11CEBE66,extended,000000FF
 
-//Infinite Health Osmond
+[Infinite Health Osmond]
 patch=1,EE,11CEBE5C,extended,000000FF
 patch=1,EE,11CEBE68,extended,000000FF
 
-//Never Thirsty Toan
+[Never Thirsty Toan]
 patch=1,EE,11CF0152,extended,000041F0
 
-//Never Thirsty Xion
+[Never Thirsty Xion]
 patch=1,EE,11CF0156,extended,000041F0
 
-//Never Thirsty Goro
+[Never Thirsty Goro]
 patch=1,EE,11CF015A,extended,000041F0
 
-//Never Thirsty Ruby
+[Never Thirsty Ruby]
 patch=1,EE,11CF015E,extended,000041F0
 
-//Never Thirsty Ungaga
+[Never Thirsty Ungaga]
 patch=1,EE,11CF0162,extended,000041F0
 
-//Never Thirsty Osmond
+[Never Thirsty Osmond]
 patch=1,EE,11CF0166,extended,000041F0
 
-//Infinite Fishing Points
+[Infinite Fishing Points]
 patch=1,EE,11CE6C1C,extended,0000270F

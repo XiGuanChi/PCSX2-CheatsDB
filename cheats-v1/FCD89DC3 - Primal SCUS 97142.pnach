@@ -1,27 +1,27 @@
-//Cheats/Infinite Health Human Form
+[Cheats/Infinite Health Human Form]
 patch=1,EE,2017D1DC,extended,3C0142C8
 patch=1,EE,2017D1E0,extended,AE210294
 
-//Cheats/Infinite Health Demon Ferai Form
+[Cheats/Infinite Health Demon Ferai Form]
 patch=1,EE,2017B4CC,extended,E4400000
 
-//Cheats/Pause For 99 Lode Stones
+[Cheats/Pause For 99 Lode Stones]
 patch=1,EE,200C0220,extended,24060063
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AE6603C0
 patch=1,EE,20117384,extended,0C030088
 
-//Cheats/Unlock Scene Select
+[Cheats/Unlock Scene Select]
 patch=1,EE,204884A8,extended,FFFFFFFF
 patch=1,EE,204884AC,extended,FFFFFFFF
 
-//Cheats/Unlock All Tarot Card Gallery
+[Cheats/Unlock All Tarot Card Gallery]
 patch=1,EE,20488410,extended,FFFFFFFF
 
-//Cheats/Unlock All Bonus Materials Options
+[Cheats/Unlock All Bonus Materials Options]
 patch=1,EE,2048569C,extended,00000005
 
-//Cheats/Fix by RazielZnot that makes the game playable in HW-mode
+[Cheats/Fix by RazielZnot that makes the game playable in HW-mode]
 patch=1,EE,003C67E8,word,00051842
 patch=1,EE,003C67F0,word,AC450014
 patch=1,EE,003C67F4,word,AC430008

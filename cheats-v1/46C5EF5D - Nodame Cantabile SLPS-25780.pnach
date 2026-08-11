@@ -1,32 +1,32 @@
-//Cheats/Max Appraisal Press L1+R1 0 Press L2+R2
+[Cheats/Max Appraisal Press L1+R1 0 Press L2+R2]
 patch=1,EE,D02E05E4,extended,0000000C
 patch=1,EE,202E0E68,extended,42C80000
 patch=1,EE,D02E05E4,extended,00000003
 patch=1,EE,202E0E68,extended,00000000
 
-//Cheats/Evaluation Switching During Performance Max Continuation Press SELECT+Up Minimum continuation SELECT+Down
+[Cheats/Evaluation Switching During Performance Max Continuation Press SELECT+Up Minimum continuation SELECT+Down]
 patch=1,EE,20121254,extended,3C0142C8
 patch=1,EE,D02E04C2,extended,0000FFEE
 patch=1,EE,2012126C,extended,AC610E68
 patch=1,EE,D02E04C2,extended,0000FFBE
 patch=1,EE,2012126C,extended,AC600E68
 
-//Cheats/Unlock All Songs Appear When Entering Free Play
+[Cheats/Unlock All Songs Appear When Entering Free Play]
 patch=1,EE,201AB444,extended,24010019
 patch=1,EE,201AB448,extended,AC418608
 patch=1,EE,201AB44C,extended,00000000
 
-//Cheats/Unlock All Music Room
+[Cheats/Unlock All Music Room]
 patch=1,EE,2015DC44,extended,A0C50022
 patch=1,EE,2015DC4C,extended,00000000
 
-//Cheats/Rating Change While Playing Highest Evaluation Press SELECT+Up Evaluation Press SELECT+Down
+[Cheats/Rating Change While Playing Highest Evaluation Press SELECT+Up Evaluation Press SELECT+Down]
 patch=1,EE,D02E04C2,extended,0000FFEE
 patch=1,EE,202E0E68,extended,42C80000
 patch=1,EE,D02E04C2,extended,0000FFBE 
 patch=1,EE,202E0E68,extended,00000000
 
-//Cheats/Unlock All Lessons Can Be Selected By Selecting From The Least Continuation
+[Cheats/Unlock All Lessons Can Be Selected By Selecting From The Least Continuation]
 patch=1,EE,2015FB4C,extended,00000000
 patch=1,EE,201ABB14,extended,00000000
 patch=1,EE,201ABF30,extended,00000000

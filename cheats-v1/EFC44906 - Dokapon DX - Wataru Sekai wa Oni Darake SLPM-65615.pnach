@@ -1,9 +1,9 @@
-//Cheats/Player 1st 999999999 Gold
+[Cheats/Player 1st 999999999 Gold]
 patch=1,EE,2040E4D4,extended,3B9AC9FF
 
-//Cheats/Infinite & Max HP Player 1
+[Cheats/Infinite & Max HP Player 1]
 patch=1,EE,2040E516,extended,000003E7
 patch=1,EE,2040E518,extended,000003E7
 
-//Cheats/Boot to Debug Menu, Sound Debug Vibration, Multi-tap, Polygon Debug, Title, Event Test, Battle Test, Title Shortcut, Quit
+[Cheats/Boot to Debug Menu, Sound Debug Vibration, Multi-tap, Polygon Debug, Title, Event Test, Battle Test, Title Shortcut, Quit]
 patch=1,EE,00109D68,extended,00000002

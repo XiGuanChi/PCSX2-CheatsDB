@@ -1,20 +1,20 @@
 gametitle=Elminage - Yami no Miko to Kamigami no Yubiwa SLPM-66929
-//A lot of money
+[A lot of money]
 patch=1,EE,202C5AB8,extended,00000000
 
-//A lot of people
+[A lot of people]
 patch=1,EE,202C5B18,extended,00000000
 
-//Boonasu pretend battery
+[Boonasu pretend battery]
 patch=1,EE,202DFB7C,extended,00000000
 patch=1,EE,202DFDB8,extended,00000000
 
-//HP9999
+[HP9999]
 patch=1,EE,10D82C46,extended,0000270F
 
-//1 year old
+[1 year old]
 patch=1,EE,00D82C41,extended,00000002
 
-//Map fully open
+[Map fully open]
 patch=1,EE,202D4200,extended,00821025
 patch=1,EE,202D4204,extended,A422515E

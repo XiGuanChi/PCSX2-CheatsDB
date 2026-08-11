@@ -1,7 +1,7 @@
-//Cheats/Unlock All Extra
+[Cheats/Unlock All Extra]
 patch=1,EE,00163257,extended,00000001
 
-//Cheats/Unlock All CG
+[Cheats/Unlock All CG]
 patch=1,EE,20163218,extended,FFFFFFFF
 patch=1,EE,2016321C,extended,FFFFFFFF
 patch=1,EE,20163220,extended,FFFFFFFF
@@ -11,13 +11,13 @@ patch=1,EE,2016322C,extended,FFFFFFFF
 patch=1,EE,20163230,extended,FFFFFFFF
 patch=1,EE,20163234,extended,FFFFFFFF
 
-//Cheats/Unlock All CG alt
+[Cheats/Unlock All CG alt]
 patch=1,EE,10163226,extended,0000FFFF
 patch=1,EE,20163228,extended,FFFFFFFF
 patch=1,EE,2016322C,extended,FFFFFFFF
 patch=1,EE,00163230,extended,000000FF
 
-//Cheats/Unlock All CG save compatible
+[Cheats/Unlock All CG save compatible]
 patch=1,EE,10163226,extended,0000FFFF
 patch=1,EE,20163228,extended,FFFFFFFF
 patch=1,EE,2016322C,extended,FFFFFFFF

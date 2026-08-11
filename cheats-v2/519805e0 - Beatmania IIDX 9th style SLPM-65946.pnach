@@ -1,8 +1,8 @@
 gametitle=Beatmania IIDX 9th style SLPM-65946
-//Max Gauge
+[Max Gauge]
 patch=1,EE,20136CE4,extended,24010000
 
-//All gallery collections
+[All gallery collections]
 patch=1,EE,21435350,extended,FFFFFFFF
 patch=1,EE,21435354,extended,FFFFFFFF
 patch=1,EE,01435358,extended,00000001
@@ -10,5 +10,5 @@ patch=1,EE,2143535C,extended,00000000
 patch=1,EE,21435360,extended,00000000
 patch=1,EE,01435364,extended,00000000
 
-//Hidden song appearance
+[Hidden song appearance]
 patch=1,EE,014350DE,extended,000000FF

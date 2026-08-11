@@ -1,5 +1,5 @@
 gametitle=Crash Nitro Kart SLES-51511
-//99 Wampa Fruits
+[99 Wampa Fruits]
 patch=1,EE,20137D94,extended,0803FFC0
 patch=1,EE,200FFF00,extended,8E220010
 patch=1,EE,200FFF04,extended,24010063
@@ -7,34 +7,34 @@ patch=1,EE,200FFF08,extended,AC4100B0
 patch=1,EE,200FFF0C,extended,AFA10074
 patch=1,EE,200FFF10,extended,0804DF69
 
-//Infinite Timer On Coin Collect Power-Up
+[Infinite Timer On Coin Collect Power-Up]
 patch=1,EE,2012FAD8,extended,00000000
 
-//Coin/Crystal Gives 9999
+[Coin/Crystal Gives 9999]
 patch=1,EE,202401B8,extended,2403270F
 
-//Infinite Turbo Use
+[Infinite Turbo Use]
 patch=1,EE,201717C8,extended,00000000
 
-//Turn Off Cart Damage
+[Turn Off Cart Damage]
 patch=1,EE,2016691C,extended,00000000
 
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,209DFB48,extended,0001869F
 
-//Infinite Power Crystals
+[Infinite Power Crystals]
 patch=1,EE,209DFB4C,extended,0000270F
 
-//All Cutscenes & Extra Tracks Unlocked 
+[All Cutscenes & Extra Tracks Unlocked]
 patch=1,EE,20792860,extended,DFFFBFFF
 
-//All Characters 
+[All Characters]
 patch=1,EE,20792864,extended,FFFFFFFF
 
-//Ghosts Unlocked (Time Trial) 
+[Ghosts Unlocked (Time Trial)]
 patch=1,EE,20792868,extended,FFFFFFFF
 
-//100% (Adventure Mode) 
+[100% (Adventure Mode)]
 patch=1,EE,20752070,extended,640D040C
 patch=1,EE,10752074,extended,00000101
 patch=1,EE,207522E0,extended,44239085

@@ -1,28 +1,28 @@
-//Cheats/Infinite Gold
+[Cheats/Infinite Gold]
 patch=1,EE,202FFA10,extended,000F423F
 
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,201F5814,extended,00041002
 patch=1,EE,201F5818,extended,A6E20002
 patch=1,EE,201F582C,extended,1000001A
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,201CF970,extended,241A03E7
 patch=1,EE,201CF974,extended,A45A0020
 
-//Cheats/Infinite EP
+[Cheats/Infinite EP]
 patch=1,EE,201F7204,extended,24087000
 patch=1,EE,201F7208,extended,A4C80004
 patch=1,EE,201F720C,extended,1000002A
 
-//Cheats/Infinite AP
+[Cheats/Infinite AP]
 patch=1,EE,204372B0,extended,000003DE
 
-//Cheats/Max Experience value LV
+[Cheats/Max Experience value LV]
 patch=1,EE,20275B6C,extended,00000000
 patch=1,EE,20275B88,extended,00000000
 
-//Cheats/Unlock All Parts
+[Cheats/Unlock All Parts]
 patch=1,EE,4033D5E4,extended,0025000D
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,4033DDCC,extended,0014000C

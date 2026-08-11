@@ -1,26 +1,26 @@
 gametitle=Gladius SLES-51064
-//Max Cash (60000)
+[Max Cash (60000)]
 patch=1,EE,205C802C,extended,000EA60
 
-//Ursula / Valens Inf Health - In Battle
+[Ursula / Valens Inf Health - In Battle]
 patch=1,EE,2076D336,extended,00000021
 
-//Urban / Ludo Inf Health - In Battle
+[Urban / Ludo Inf Health - In Battle]
 patch=1,EE,2076D7BA,extended,00000018
 
-//Unlock Debug Menu
+[Unlock Debug Menu]
 patch=1,EE,2018E1F0,extended,24030001
 patch=1,EE,2018E1F4,extended,AF83837C
 
-//Pots Of Cash
+[Pots Of Cash]
 patch=1,EE,205BA18C,extended,000F423F
 
-//SLOT 1 CODES
-//Inf Health - In Battle
+[SLOT 1 CODES]
+[Inf Health - In Battle]
 patch=1,EE,1075F8BA,extended,000003E7
 
-//Max XP
+[Max XP]
 patch=1,EE,20574BB0,extended,05F5E0FF
 
-//Job Points
+[Job Points]
 patch=1,EE,10574B02,extended,000003E7

@@ -1,15 +1,15 @@
 gametitle=Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon SLUS-21845
-//Infinite Ammo (ASM)
+[Infinite Ammo (ASM)]
 patch=1,EE,202D6490,extended,00000000
 
-//Infinite Item Usage (Battle/Out of Battle)
+[Infinite Item Usage (Battle/Out of Battle)]
 patch=1,EE,20124CF8,extended,00000000
 patch=1,EE,202D6410,extended,00000000
 
-//Max Money
+[Max Money]
 patch=1,EE,20F902C8,extended,05F5E0FF
 
-//In Battle Codes Activator
+[In Battle Codes Activator]
 patch=1,EE,200A0000,extended,A60205DE
 patch=1,EE,200A0008,extended,8E0A01FC
 patch=1,EE,200A000C,extended,11400004
@@ -19,57 +19,57 @@ patch=1,EE,200A0030,extended,00711823
 patch=1,EE,202B7CC0,extended,08028000
 patch=1,EE,202B7CC4,extended,00000000
 
-//Infinite HP (Only Your Team)
+[Infinite HP (Only Your Team)]
 patch=1,EE,200A0014,extended,00601823
 
-//Infinite Magic
+[Infinite Magic]
 patch=1,EE,202d6384,extended,8d27078C
 patch=1,EE,202d638c,extended,Ad270788
 
-//Gain 100 Loyalty
+[Gain 100 Loyalty]
 patch=1,EE,202DFCD8,extended,24030064
 
-//Character Mag Current
+[Character Mag Current]
 patch=1,EE,20F902C0,extended,0000270F
 
-//Character Mag Max
+[Character Mag Max]
 patch=1,EE,20F902C4,extended,0000270F
 
-//Character Total Loyalty
+[Character Total Loyalty]
 patch=1,EE,20F902E0,extended,869F0001
 
-//Characters Next EXP Level
+[Characters Next EXP Level]
 patch=1,EE,20F902E8,extended,05F5E0FF
 
-//Character HP current
+[Character HP current]
 patch=1,EE,20F902EC,extended,0000270F
 
-//Character HP Max
+[Character HP Max]
 patch=1,EE,20F902F0,extended,0000270F
 
-//Character ST
+[Character ST]
 patch=1,EE,20F902FC,extended,0000270F
 patch=1,EE,20F90314,extended,0000270F
 
-//Character Vi
+[Character Vi]
 patch=1,EE,20F90300,extended,0000270F
 patch=1,EE,20F90314,extended,0000270F
 
-//Character Ma
+[Character Ma]
 patch=1,EE,20F90304,extended,0000270F
 patch=1,EE,20F90314,extended,0000270F
 
-//Character Lu
+[Character Lu]
 patch=1,EE,20F90308,extended,0000270F
 patch=1,EE,20F90314,extended,0000270F
 
-//Have All Business Card
+[Have All Business Card]
 patch=1,EE,40F9654C,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10F96564,extended,0000FFFF
 patch=1,EE,00F96566,extended,00000001
 
-//Random Battles (L1+Select To Disable, L2+Select To Enable)
+[Random Battles (L1+Select To Disable, L2+Select To Enable)]
 patch=1,EE,D04FD1C2,extended,0000FBFE
 patch=1,EE,202CD1B8,extended,00000000
 patch=1,EE,D04FD1C2,extended,0000FEFE

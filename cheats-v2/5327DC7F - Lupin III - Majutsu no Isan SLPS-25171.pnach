@@ -1,12 +1,12 @@
 gametitle=Lupin III - Majutsu no Isan SLPS-25171
-//Infinite Stamina
+[Infinite Stamina]
 patch=1,EE,102869C8,extended,000005E8
 
-//Infinite Escape Time
+[Infinite Escape Time]
 patch=1,EE,102886FC,extended,00000000
 
-//Mind not increase gauge
+[Mind not increase gauge]
 patch=1,EE,102869CC,extended,00000000
 
-//Petit Fujiko score MAX
+[Petit Fujiko score MAX]
 patch=1,EE,20269D4C,extended,05F5E0FF

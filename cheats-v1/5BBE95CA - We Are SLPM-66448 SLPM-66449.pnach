@@ -1,4 +1,4 @@
-//Cheats/Unlock All Special Shortcut
+[Cheats/Unlock All Special Shortcut]
 patch=1,EE,403BD3C0,extended,022C0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,203BD380,extended,000E3E80
@@ -6,6 +6,6 @@ patch=1,EE,203BD384,extended,FF000000
 patch=1,EE,203BD388,extended,7F00FFFE
 patch=1,EE,203BD38C,extended,0000FEFD
 
-//Cheats/Debug Menu Replace New Game With Debug Menu Page 1:Next page.Start from the beginning Starts a new game.Flow check	Route select menu.Quick start	Sends you to the title screen.Run file	Event select menu.System Flag Settings	Sets various system related parameters. End Clear Process Sets route clear flags.Return to title Returns to the title screen.
+[Cheats/Debug Menu Replace New Game With Debug Menu Page 1:Next page.Start from the beginning Starts a new game.Flow check	Route select menu.Quick start	Sends you to the title screen.Run file	Event select menu.System Flag Settings	Sets various system related parameters. End Clear Process Sets route clear flags.Return to title Returns to the title screen.]
 patch=1,EE,21CEF310,extended,00000004
 

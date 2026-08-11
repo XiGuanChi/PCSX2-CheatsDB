@@ -1,24 +1,24 @@
 gametitle=Bujingai SLPM-65459
-//Number of ghosts in possession 999999
+[Number of ghosts in possession 999999]
 patch=1,EE,205C17D8,extended,000F423F
 
-//invincible
+[invincible]
 patch=1,EE,4190AAE0,extended,00040001
 patch=1,EE,007D0000,extended,00000000
 
-//Status enhancement value MAX
+[Status enhancement value MAX]
 patch=1,EE,1190AB26,extended,00000BB8
 patch=1,EE,2190AB28,extended,0BB80BB8
 patch=1,EE,2190AB2C,extended,0BB80BB8
 
-//Possession of mastery magic
+[Possession of mastery magic]
 patch=1,EE,205C17DC,extended,01010101
 patch=1,EE,205C17E0,extended,01010101
 patch=1,EE,205C17E4,extended,01010101
 patch=1,EE,105C17E8,extended,00000101
 patch=1,EE,005C17EA,extended,00000001
 
-//Special play basis set fully open
+[Special play basis set fully open]
 patch=1,EE,405C0C38,extended,000B0001
 patch=1,EE,01010101,extended,00000000
 

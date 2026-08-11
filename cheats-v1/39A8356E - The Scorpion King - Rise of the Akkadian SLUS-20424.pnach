@@ -1,13 +1,13 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,3C02447A
 patch=1,EE,200C0224,extended,0806C4AC
 patch=1,EE,200C0228,extended,AE020170
 patch=1,EE,2014F8C4,extended,0C030088
 
-//Cheats/Save Anywhere
+[Cheats/Save Anywhere]
 patch=1,EE,20293AD0,extended,00000000
 
-//Cheats/Unlock All Bonus
+[Cheats/Unlock All Bonus]
 patch=1,EE,202D9858,extended,FFFFFFFF
 patch=1,EE,202D985C,extended,FFFFFFFF
 patch=1,EE,202D9860,extended,FFFFFFFF
@@ -16,5 +16,5 @@ patch=1,EE,202D9868,extended,FFFFFFFF
 patch=1,EE,202D986C,extended,FFFFFFFF
 patch=1,EE,202D9870,extended,FFFFFFFF
 
-//Cheats/Enable Warp In Pause MenuThis enables a level select menu
+[Cheats/Enable Warp In Pause MenuThis enables a level select menu]
 patch=1,EE,2028ED90,extended,00000001

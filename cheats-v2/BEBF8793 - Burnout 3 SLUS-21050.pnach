@@ -1,51 +1,51 @@
 gametitle=Burnout 3 SLUS-21050
-//Infinite Boost
+[Infinite Boost]
 patch=1,EE,2064E574,extended,43700000
 
-//Max Score
+[Max Score]
 patch=1,EE,2064E4BC,extended,05F5E0FF
 
-//Player 1 Press L1+Select To Stop Timer
+[Player 1 Press L1+Select To Stop Timer]
 patch=1,EE,D04F50DC,extended,0000FBFE
 patch=1,EE,201D3D2C,extended,00000000
 
-//Player 1 Press L2+Select To Restart Timer
+[Player 1 Press L2+Select To Restart Timer]
 patch=1,EE,D04F50DC,extended,0000FEFE
 patch=1,EE,201D3D2C,extended,AF83A0CC
 
-//Start On Lap 3
+[Start On Lap 3]
 patch=1,EE,D064E484,extended,00000000
 patch=1,EE,1064E484,extended,00000002
 
-//Have All Gold Medals
+[Have All Gold Medals]
 patch=1,EE,1051BE86,extended,00000303
 patch=1,EE,4051BE88,extended,002A0001
 patch=1,EE,03030303,extended,00000000
 patch=1,EE,1051BF30,extended,00000303
 patch=1,EE,0051BF32,extended,00000003
 
-//Max Burnout Points
+[Max Burnout Points]
 patch=1,EE,2051BB40,extended,05F5E0FF
 
-//Max Crash Damage
+[Max Crash Damage]
 patch=1,EE,2051BB44,extended,05F5E0FF
 
-//Max # Of Takedowns
+[Max # Of Takedowns]
 patch=1,EE,2051C124,extended,05F5E0FF
 
-//Dont Lose Extra Max Boost When Crashing
+[Dont Lose Extra Max Boost When Crashing]
 patch=1,EE,2014E084,extended,00000000
 
-//Crash For x4 Boost Meter
+[Crash For x4 Boost Meter]
 patch=1,EE,2014E07C,extended,24030003
 
-//Can Do Crash Breakers Instantly
+[Can Do Crash Breakers Instantly]
 patch=1,EE,2015BB88,extended,00000000
 
-//Almost Immune To Wrecks With Other Vehicles
+[Almost Immune To Wrecks With Other Vehicles]
 patch=1,EE,204E1634,extended,7FFFFFFF
 
-//Hidden development menu, accessible through the Extras  menu, it has a working unlock all feature and more
+[Hidden development menu, accessible through the Extras  menu, it has a working unlock all feature and more]
 patch=1,EE,204E0568,extended,00425330
 
 

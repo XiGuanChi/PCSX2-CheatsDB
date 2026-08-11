@@ -1,15 +1,15 @@
 gametitle=Aqua Aqua SLUS-20162
-//Access Story Puzzle
+[Access Story Puzzle]
 patch=1,EE,2020401C,extended,00000000
 
-//Always Shielded
+[Always Shielded]
 patch=1,EE,102006D0,extended,00000001
 
-//Quick Score Gain
+[Quick Score Gain]
 patch=1,EE,20101E48,extended,3405270F
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,202006B4,extended,00000000
 
-//Water Drain Meter Never Fills
+[Water Drain Meter Never Fills]
 patch=1,EE,20103974,extended,00000000

@@ -1,23 +1,23 @@
 gametitle=Rise of the Kasai SCUS-97416
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,203F5570,extended,FFFFFFFF
 
-//Unlock All Cheats
+[Unlock All Cheats]
 patch=1,EE,203F5580,extended,FFFFFFFF
 
-//Unlock All Movies
+[Unlock All Movies]
 patch=1,EE,203F557C,extended,FFFFFFFF
 
-//Unlock All Outfits
+[Unlock All Outfits]
 patch=1,EE,203F5578,extended,FFFFFFFF
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2064A428,extended,42C80000
 patch=1,EE,20647D08,extended,42C80000
 
-//Max Health
+[Max Health]
 patch=1,EE,2064A42C,extended,42C80000
 patch=1,EE,20647D0C,extended,42C80000
 
-//Infinite Arrows
+[Infinite Arrows]
 patch=1,EE,0064BDDC,extended,00000063

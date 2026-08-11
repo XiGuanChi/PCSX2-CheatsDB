@@ -1,49 +1,49 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,2080F450,extended,42C80000
 
-//Cheats/Infinite HP alt
+[Cheats/Infinite HP alt]
 patch=1,EE,1080F450,extended,000042C8
 patch=1,EE,1080F7DA,extended,000042C8
 
-//Cheats/Infinite Immunity
+[Cheats/Infinite Immunity]
 patch=1,EE,2080F458,extended,00000000
 
-//Cheats/Infinite Battery
+[Cheats/Infinite Battery]
 patch=1,EE,2080FC32,extended,00000030
 
-//Cheats/Max Battery
+[Cheats/Max Battery]
 patch=1,EE,2080FC36,extended,00000030
 
-//Cheats/Infinte Gun Ammo
+[Cheats/Infinte Gun Ammo]
 patch=1,EE,2080FBE0,extended,00C73100
 
-//Cheats/Infinite Shotgun Ammo
+[Cheats/Infinite Shotgun Ammo]
 patch=1,EE,2080FC28,extended,000003E7
 
-//Cheats/Infinite Grenade Launcher Ammo
+[Cheats/Infinite Grenade Launcher Ammo]
 patch=1,EE,2080FC2A,extended,000003E7
 
-//Cheats/Infinite Flamethrower Ammo
+[Cheats/Infinite Flamethrower Ammo]
 patch=1,EE,2080FC2C,extended,00630063
 
-//Cheats/Infinite Missile Launcher Ammo
+[Cheats/Infinite Missile Launcher Ammo]
 patch=1,EE,2080FC30,extended,000003E7
 
-//Cheats/Equipped With All Items Available
+[Cheats/Equipped With All Items Available]
 patch=1,EE,2080FBFD,extended,00000001
 patch=1,EE,2080FBFE,extended,00000001
 
-//Cheats/Recovering All Available Items
+[Cheats/Recovering All Available Items]
 patch=1,EE,2080FC02,extended,00006363
 patch=1,EE,2080FC04,extended,00006363
 patch=1,EE,2080FC06,extended,00000063
 
-//Cheats/Unlock All Maps
+[Cheats/Unlock All Maps]
 patch=1,EE,2080FC37,extended,01010101
 patch=1,EE,2080FC3B,extended,01010101
 patch=1,EE,2080FC3F,extended,01010101
 
-//Cheats/Unlock All Database
+[Cheats/Unlock All Database]
 patch=1,EE,2080FC42,extended,01010101
 patch=1,EE,2080FC46,extended,01010101
 patch=1,EE,2080FC4A,extended,01010101 

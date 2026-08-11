@@ -1,14 +1,14 @@
 gametitle=Defender SLES-50714
-//Infinite Credits
+[Infinite Credits]
 patch=1,EE,10567348,extended,0000FFFF
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,00567344,extended,00000063
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2A933266,extended,E6420208
 patch=1,EE,2A973266,extended,C642020C
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2A473EE5,extended,00000000
 patch=1,EE,2A573EE5,extended,00000000

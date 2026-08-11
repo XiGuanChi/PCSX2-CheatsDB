@@ -1,24 +1,24 @@
-//Cheats/Always Low Time
+[Cheats/Always Low Time]
 patch=1,EE,20131210,extended,AE60003C
 
-//Cheats/Press L1+Select For Max Drift Points P1
+[Cheats/Press L1+Select For Max Drift Points P1]
 patch=1,EE,D05BF402,extended,0000FBFE
 patch=1,EE,2050C4F8,extended,447A0000
 
-//Cheats/Press L2+Select For No Drift Points Opponent
+[Cheats/Press L2+Select For No Drift Points Opponent]
 patch=1,EE,D05BF402,extended,0000FEFE
 patch=1,EE,2050C560,extended,00000000
 
-//Cheats/Unlock All Cars
+[Cheats/Unlock All Cars]
 patch=1,EE,20568E68,extended,FFFFFFFF
 
-//Cheats/Unlock D1 Series
+[Cheats/Unlock D1 Series]
 patch=1,EE,20568540,extended,00000001
 
-//Cheats/Unlock All Training Completed
+[Cheats/Unlock All Training Completed]
 patch=1,EE,40568658,extended,00030001
 patch=1,EE,02020202,extended,00000000
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,20568C48,extended,FFFFFFFF
 patch=1,EE,20568C4C,extended,FFFFFFFF

@@ -1,9 +1,9 @@
 gametitle=The Mummy Returns SLUS-20253
-//Infinite Health
+[Infinite Health]
 patch=1,EE,002CBBB0,extended,00000001
 
-//1Hit Death (Enemies)
+[1Hit Death (Enemies)]
 patch=1,EE,002CBBB4,extended,00000001
 
-//nfinite Ammo
+[nfinite Ammo]
 patch=1,EE,002CBBB5,extended,00000001

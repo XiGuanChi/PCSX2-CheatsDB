@@ -1,38 +1,38 @@
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,2032C230,extended,005F0000
 
-//Cheats/99 Herbs
+[Cheats/99 Herbs]
 patch=1,EE,1032CE36,extended,00000063
 
-//Cheats/Max HP and Infinite Recover Gauge
+[Cheats/Max HP and Infinite Recover Gauge]
 patch=1,EE,2034DBE0,extended,00A000A0
 
-//Cheats/Max Stamina Maintenance
+[Cheats/Max Stamina Maintenance]
 patch=1,EE,20123800,extended,240201C2
 patch=1,EE,20123804,extended,A6820882
 patch=1,EE,20123808,extended,A6820748
 
-//Cheats/Infinite Stamina
+[Cheats/Infinite Stamina]
 patch=1,EE,2034DB98,extended,0000012C
 
-//Cheats/Infinite Weapon Durability
+[Cheats/Infinite Weapon Durability]
 patch=1,EE,1034DCCE,extended,000001FF
 
-//Cheats/Never Poisoned
+[Cheats/Never Poisoned]
 patch=1,EE,2034DC0A,extended,00000000
 
-//Cheats/Sharpness Never Fades
+[Cheats/Sharpness Never Fades]
 patch=1,EE,204CCC70,extended,00000000
 
-//Cheats/Bowgun Ammo Doesn't Fade
+[Cheats/Bowgun Ammo Doesn't Fade]
 patch=1,EE,20124490,extended,10000004
 patch=1,EE,201244AC,extended,00052880
 patch=1,EE,201244BC,extended,00B31021
 patch=1,EE,201244C4,extended,A443082A
 patch=1,EE,201244D0,extended,A263001C
 
-//Cheats/Map Display
+[Cheats/Map Display]
 patch=1,EE,20120348,extended,00000000
 
-//Cheats/Boss Marking
+[Cheats/Boss Marking]
 patch=1,EE,201193CC,extended,24020001

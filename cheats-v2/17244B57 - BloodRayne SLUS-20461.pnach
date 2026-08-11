@@ -1,13 +1,13 @@
 gametitle=BloodRayne SLUS-20461
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201B8AA8,extended,00000000
 
-//infinite Ammo
+[infinite Ammo]
 patch=1,EE,202BFF10,extended,00000000
 
-//Blood Lust Gauge MAX (Press Select)
+[Blood Lust Gauge MAX (Press Select)]
 patch=1,EE,D065B602,extended,0000FFFE
 patch=1,EE,201C709C,extended,E60150AC
 
-//Unlock All Cheats
+[Unlock All Cheats]
 patch=1,EE,103BA0A0,extended,0000FFFF

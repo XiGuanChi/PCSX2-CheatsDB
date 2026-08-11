@@ -1,26 +1,26 @@
 gametitle=Ninja Assault SLUS-20492
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,109557F6,extended,00000100
 patch=1,EE,109557F8,extended,00000100
 
-//Never Reload Player 1
+[Never Reload Player 1]
 patch=1,EE,109557FA,extended,00000009
 
-//Infinite Health Player 2
+[Infinite Health Player 2]
 patch=1,EE,10955846,extended,00000100
 patch=1,EE,10955848,extended,00000100
 
-//Never Reload Player 2
+[Never Reload Player 2]
 patch=1,EE,1095584A,extended,00000009
 
-//Have Completed Guren Chapter
+[Have Completed Guren Chapter]
 patch=1,EE,0095BEEE,extended,00000001
 
-//Have Completed Gunjo Chapter
+[Have Completed Gunjo Chapter]
 patch=1,EE,0095BEEF,extended,00000001
 
-//Have Completed Aoi Chapter
+[Have Completed Aoi Chapter]
 patch=1,EE,0095BEF0,extended,00000001
 
-//Have Completed Arcade Mode
+[Have Completed Arcade Mode]
 patch=1,EE,0095BEF1,extended,00000001

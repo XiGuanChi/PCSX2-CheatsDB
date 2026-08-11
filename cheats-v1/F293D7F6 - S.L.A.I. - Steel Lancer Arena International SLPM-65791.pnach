@@ -1,10 +1,10 @@
-//Cheats/Max Money 99.999999 CR
+[Cheats/Max Money 99.999999 CR]
 patch=1,EE,20654CC0,extended,05F5E0FF
 
-//Cheats/Max Money 99999999 After CR Fluctuation
+[Cheats/Max Money 99999999 After CR Fluctuation]
 patch=1,EE,20258170,extended,24C20000
 
-//Cheats/Required Code
+[Cheats/Required Code]
 patch=1,EE,20270098,extended,3C04000F
 patch=1,EE,200F6010,extended,6F726463
 patch=1,EE,200F6014,extended,5C3A306D
@@ -16,29 +16,29 @@ patch=1,EE,200F6028,extended,33505250
 patch=1,EE,200F602C,extended,492E3030
 patch=1,EE,200F6030,extended,313B474D
 
-//Cheats/Does Not Attack CPU
+[Cheats/Does Not Attack CPU]
 patch=1,EE,202446AC,extended,10000008
 
-//Cheats/Max Number Of Bullets When Ammo Is Recovered 9999
+[Cheats/Max Number Of Bullets When Ammo Is Recovered 9999]
 patch=1,EE,20232B6C,extended,2402270F
 patch=1,EE,20232B74,extended,AEE20064
 
-//Cheats/Infinite Rapid Gauge
+[Cheats/Infinite Rapid Gauge]
 patch=1,EE,20234A2C,extended,3403FFFF
 patch=1,EE,20234A34,extended,AC430030
 
-//Cheats/99 RAPID
+[Cheats/99 RAPID]
 patch=1,EE,20235018,extended,24050063
 patch=1,EE,20235024,extended,AC450028
 
-//Cheats/Infinite O.C.TIM
+[Cheats/Infinite O.C.TIM]
 patch=1,EE,2024CF10,extended,46001006
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,D054BA8C,extended,00000008
 patch=1,EE,2054BAA4,extended,46000806
 
-//Cheats/Infinite Armor
+[Cheats/Infinite Armor]
 patch=1,EE,200FFF00,extended,0240202D
 patch=1,EE,200FFF04,extended,0001800A
 patch=1,EE,200FFF08,extended,08149991

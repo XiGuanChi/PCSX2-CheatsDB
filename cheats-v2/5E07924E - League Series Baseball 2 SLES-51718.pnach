@@ -1,12 +1,12 @@
 gametitle=League Series Baseball 2 SLES-51718
-//Clear Strikes( Hold R2 and Press UP
+[Clear Strikes( Hold R2 and Press UP]
 patch=1,EE,D0550182,extended,0000FDEF
 patch=1,EE,2054D3EC,extended,00000000
 
-//Clear 'No Balls Hold R2 and Press [LEFT
+[Clear 'No Balls Hold R2 and Press [LEFT]
 patch=1,EE,D0550182,extended,0000FD7F
 patch=1,EE,2054D3F0,extended,00000000
 
-//Clear 'Outs' Hold R2 and Press DOWN
+[Clear 'Outs' Hold R2 and Press DOWN]
 patch=1,EE,D0550182,extended,0000FDBF
 patch=1,EE,2054D3F4,extended,00000000

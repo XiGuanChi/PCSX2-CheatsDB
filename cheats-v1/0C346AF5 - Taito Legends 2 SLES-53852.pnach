@@ -1,67 +1,67 @@
-//Cheats/Infinite Lives G-Darius
+[Cheats/Infinite Lives G-Darius]
 patch=1,EE,0039AE9E,extended,00000003
 
-//Cheats/Invincible G-Darius
+[Cheats/Invincible G-Darius]
 patch=1,EE,0039AEA2,extended,000000B8
 
-//Cheats/Infinite Lives RayStorm
+[Cheats/Infinite Lives RayStorm]
 patch=1,EE,003858D4,extended,00000003
 
-//Cheats/Invincible RayStorm
+[Cheats/Invincible RayStorm]
 patch=1,EE,00387C90,extended,00000092
 
-//Cheats/Infinite Lives Space invaders 95
+[Cheats/Infinite Lives Space invaders 95]
 patch=1,EE,0083111C,extended,00000003
 
-//Cheats/Infinite Lives Gekirindan
+[Cheats/Infinite Lives Gekirindan]
 patch=1,EE,008718B4,extended,00000003
 
-//Cheats/Infinite Bombs Gekirindan
+[Cheats/Infinite Bombs Gekirindan]
 patch=1,EE,0087E62E,extended,00000003
 
-//Cheats/Infinite Lives Darius Gaiden
+[Cheats/Infinite Lives Darius Gaiden]
 patch=1,EE,0082061E,extended,00000002
 
-//Cheats/Invincible Darius Gaiden
+[Cheats/Invincible Darius Gaiden]
 patch=1,EE,00820622,extended,000000F0
 
-//Cheats/Infinite Bombs Darius Gaiden
+[Cheats/Infinite Bombs Darius Gaiden]
 patch=1,EE,00820632,extended,00000003
 
-//Cheats/Infinite Power Move Dungeon Magic
+[Cheats/Infinite Power Move Dungeon Magic]
 patch=1,EE,007CD686,extended,00000003
 
-//Cheats/Infinite health Dungeon Magic
+[Cheats/Infinite health Dungeon Magic]
 patch=1,EE,007C6413,extended,00000008
 
 [Cheats/Win] Infinite Time Arabian Magic
 [Cheats/Win] 0803FAA 00000061
 
-//Cheats/Infinite Health Arabian Magic
+[Cheats/Infinite Health Arabian Magic]
 patch=1,EE,00802B94,extended,00000020
 
-//Cheats/Infinite Lives Grid Seeker
+[Cheats/Infinite Lives Grid Seeker]
 patch=1,EE,0082F666,extended,00000003
 
-//Cheats/Invincible Grid Seeker
+[Cheats/Invincible Grid Seeker]
 patch=1,EE,0082F6C0,extended,0000008D
 
-//Cheats/Infinite Lives Metal Black
+[Cheats/Infinite Lives Metal Black]
 patch=1,EE,006B1450,extended,00000002
 
-//Cheats/Invincible Metal Black
+[Cheats/Invincible Metal Black]
 patch=1,EE,006B145A,extended,0000008E
 
-//Cheats/Max Beam Metal Black
+[Cheats/Max Beam Metal Black]
 patch=1,EE,006B1443,extended,00000028
 
-//Cheats/Infinite Lives Gun Frontier
+[Cheats/Infinite Lives Gun Frontier]
 patch=1,EE,006FC027,extended,00000002
 
-//Cheats/Invincible Gun Frontier
+[Cheats/Invincible Gun Frontier]
 patch=1,EE,006FC028,extended,00000053
 
-//Cheats/Bonze Adventure Activator
+[Cheats/Bonze Adventure Activator]
 patch=1,EE,200A0398,extended,24040001
 patch=1,EE,200A03A0,extended,24040002
 patch=1,EE,200A03AC,extended,24040003
@@ -75,16 +75,16 @@ patch=1,EE,200A0408,extended,2404001F
 patch=1,EE,200A0410,extended,24040050
 patch=1,EE,200A0438,extended,100002F0
 
-//Cheats/Bonze Adventure Invincibility
+[Cheats/Bonze Adventure Invincibility]
 patch=1,EE,200A03A8,extended,A02415D4
 
-//Cheats/Bonze Adventure Infinite health Energy Space Aria
+[Cheats/Bonze Adventure Infinite health Energy Space Aria]
 patch=1,EE,200A03BC,extended,A024288E
 
-//Cheats/Bonze Adventure Infinite Credits
+[Cheats/Bonze Adventure Infinite Credits]
 patch=1,EE,200A0400,extended,A02437B6
 
-//Cheats/Bust a Move Again Activator
+[Cheats/Bust a Move Again Activator]
 patch=1,EE,200A0B30,extended,3404A000
 patch=1,EE,200A0B34,extended,00812820
 patch=1,EE,200A0B38,extended,24040009
@@ -94,25 +94,25 @@ patch=1,EE,200A0B58,extended,3C060001
 patch=1,EE,200A0B5C,extended,00C12820
 patch=1,EE,200A0B78,extended,10000120
 
-//Cheats/Bust a Move Again Infinte Credits
+[Cheats/Bust a Move Again Infinte Credits]
 patch=1,EE,200A0B3C,extended,A0240092
 
-//Cheats/Bust a Move Again Unlock Alternate World
+[Cheats/Bust a Move Again Unlock Alternate World]
 patch=1,EE,200A0B44,extended,A0A40275
 
-//Cheats/Cameltry Activator
+[Cheats/Cameltry Activator]
 patch=1,EE,200A0440,extended,24040009
 patch=1,EE,200A044C,extended,24040099
 patch=1,EE,200A0458,extended,100002E8
 
-//Cheats/Cameltry Infinite Credits
+[Cheats/Cameltry Infinite Credits]
 patch=1,EE,200A0444,extended,A0242332
 
-//Cheats/Cameltry Infinite Time
+[Cheats/Cameltry Infinite Time]
 patch=1,EE,200A0448,extended,A0246687
 patch=1,EE,200A0450,extended,A0246686
 
-//Cheats/Chack 'N Pop Activator
+[Cheats/Chack 'N Pop Activator]
 patch=1,EE,200A0770,extended,8CC13C7C
 patch=1,EE,200A0774,extended,34048000
 patch=1,EE,200A0778,extended,00812820
@@ -121,43 +121,43 @@ patch=1,EE,200A0788,extended,2404000A
 patch=1,EE,200A0794,extended,24040009
 patch=1,EE,200A07A8,extended,10000214
 
-//Cheats/Chack 'N Pop Invincibility
+[Cheats/Chack 'N Pop Invincibility]
 patch=1,EE,200A0780,extended,A0241B4F
 patch=1,EE,200A0784,extended,A0242A42
 
-//Cheats/Chack 'N Pop Infinite Lives Player 1
+[Cheats/Chack 'N Pop Infinite Lives Player 1]
 patch=1,EE,200A078C,extended,A0A40403
 
-//Cheats/Chack 'N Pop Infinite Lives Player 2
+[Cheats/Chack 'N Pop Infinite Lives Player 2]
 patch=1,EE,200A0790,extended,A0A40404
 
-//Cheats/Chack 'N Pop Infinite Credits
+[Cheats/Chack 'N Pop Infinite Credits]
 patch=1,EE,200A0798,extended,A0A4042B
 
-//Cheats/Cleopatra Fortune Activator
+[Cheats/Cleopatra Fortune Activator]
 patch=1,EE,200A0460,extended,3404F9BC
 patch=1,EE,200A0464,extended,00812820
 patch=1,EE,200A0468,extended,24040009
 patch=1,EE,200A0478,extended,100002E0
 
-//Cheats/Cleopatra Fortune Infinite Credits
+[Cheats/Cleopatra Fortune Infinite Credits]
 patch=1,EE,200A046C,extended,A0A40000
 
-//Cheats/Crazy Balloon Activator
+[Cheats/Crazy Balloon Activator]
 patch=1,EE,200A07B0,extended,8CC13C7C
 patch=1,EE,200A07B4,extended,24040005
 patch=1,EE,200A07C8,extended,1000020C
 
-//Cheats/Crazy Balloon Infinite Credits
+[Cheats/Crazy Balloon Infinite Credits]
 patch=1,EE,200A07B8,extended,A0244015
 
-//Cheats/Crazy Balloon Infinite Lives Player 1
+[Cheats/Crazy Balloon Infinite Lives Player 1]
 patch=1,EE,200A07BC,extended,A02440F0
 
-//Cheats/Crazy Balloon Infinite Lives Player 2
+[Cheats/Crazy Balloon Infinite Lives Player 2]
 patch=1,EE,200A07C0,extended,A02440F1
 
-//Cheats/Don Doko Don Activator
+[Cheats/Don Doko Don Activator]
 patch=1,EE,200A0480,extended,24040009
 patch=1,EE,200A0494,extended,34048000
 patch=1,EE,200A0498,extended,00812820
@@ -166,21 +166,21 @@ patch=1,EE,200A04A8,extended,24040010
 patch=1,EE,200A04B4,extended,24040008
 patch=1,EE,200A04D8,extended,100002C8
 
-//Cheats/Don Doko Don Infinite Credits
+[Cheats/Don Doko Don Infinite Credits]
 patch=1,EE,200A0484,extended,A0240176
 
-//Cheats/Don Doko Don Player 1 Infinite Hp
+[Cheats/Don Doko Don Player 1 Infinite Hp]
 patch=1,EE,200A04A0,extended,A0A404C7
 
-//Cheats/Don Doko Don Player 2 Infinite Hp
+[Cheats/Don Doko Don Player 2 Infinite Hp]
 patch=1,EE,200A04A4,extended,A0A40505
 
-//Cheats/Elevator Action 2 Always 9 Credits Press L1
+[Cheats/Elevator Action 2 Always 9 Credits Press L1]
 patch=1,EE,200A0C0C,extended,00000000
 patch=1,EE,D023209C,extended,0000FBFF
 patch=1,EE,200A0C0C,extended,A0240092
 
-//Cheats/Front Line Activator
+[Cheats/Front Line Activator]
 patch=1,EE,200A0830,extended,8CC13C7C
 patch=1,EE,200A0834,extended,34048000
 patch=1,EE,200A0838,extended,00812820
@@ -188,35 +188,35 @@ patch=1,EE,200A083C,extended,24040006
 patch=1,EE,200A0848,extended,240400FF
 patch=1,EE,200A0858,extended,100001E8
 
-//Cheats/Front Line Infinite Lives
+[Cheats/Front Line Infinite Lives]
 patch=1,EE,200A0840,extended,A0A40620
 
-//Cheats/Front Line Infinite Credits
+[Cheats/Front Line Infinite Credits]
 patch=1,EE,200A0844,extended,A0A40009
 
-//Cheats/Growl Activator
+[Cheats/Growl Activator]
 patch=1,EE,200A05F0,extended,24040009
 patch=1,EE,200A05F8,extended,24040028
 patch=1,EE,200A0604,extended,240400EE
 patch=1,EE,200A0610,extended,24040006
 patch=1,EE,200A0638,extended,10000270
 
-//Cheats/Growl Infinite Credits
+[Cheats/Growl Infinite Credits]
 patch=1,EE,200A05F4,extended,A02477D8
 
-//Cheats/Growl Infinite Energy P1
+[Cheats/Growl Infinite Energy P1]
 patch=1,EE,200A05FC,extended,A0247868
 
-//Cheats/Growl Infinite Energy P2
+[Cheats/Growl Infinite Energy P2]
 patch=1,EE,200A0600,extended,A0247968
 
-//Cheats/Gun Frontier Infinite Credits
+[Cheats/Gun Frontier Infinite Credits]
 patch=1,EE,200A0254,extended,A0240092
 
-//Cheats/Gun Frontie Player 1 Invincibility
+[Cheats/Gun Frontie Player 1 Invincibility]
 patch=1,EE,200A0280,extended,A0247BE8
 
-//Cheats/Hat Trick Hero Activator
+[Cheats/Hat Trick Hero Activator]
 patch=1,EE,200A0530,extended,3404A000
 patch=1,EE,200A0534,extended,00812820
 patch=1,EE,200A0538,extended,2404003C
@@ -224,10 +224,10 @@ patch=1,EE,200A0544,extended,24040063
 patch=1,EE,200A0554,extended,24040009
 patch=1,EE,200A0578,extended,100002A0
 
-//Cheats/Hat Trick Hero Infinite Credits
+[Cheats/Hat Trick Hero Infinite Credits]
 patch=1,EE,200A0558,extended,A0242934
 
-//Cheats/Insector X Activator
+[Cheats/Insector X Activator]
 patch=1,EE,200A0860,extended,8CC13C7C
 patch=1,EE,200A0864,extended,3404E000
 patch=1,EE,200A0868,extended,00812820
@@ -235,16 +235,16 @@ patch=1,EE,200A086C,extended,24040003
 patch=1,EE,200A0878,extended,24040007
 patch=1,EE,200A08A8,extended,100001D4
 
-//Cheats/Insector X Infinite Lives P1
+[Cheats/Insector X Infinite Lives P1]
 patch=1,EE,200A0870,extended,A0A4001A
 
-//Cheats/Insector X Infinite Lives P2
+[Cheats/Insector X Infinite Lives P2]
 patch=1,EE,200A0874,extended,A0A4001B
 
-//Cheats/Insector X Infinite Credits
+[Cheats/Insector X Infinite Credits]
 patch=1,EE,200A087C,extended,A0A40C00
 
-//Cheats/KiKi KaiKai Activator
+[Cheats/KiKi KaiKai Activator]
 patch=1,EE,200A08B0,extended,8CC13C7C
 patch=1,EE,200A08B4,extended,3404D000
 patch=1,EE,200A08B8,extended,00812820
@@ -252,16 +252,16 @@ patch=1,EE,200A08BC,extended,24040009
 patch=1,EE,200A08C8,extended,24040001
 patch=1,EE,200A08D8,extended,100001C8
 
-//Cheats/KiKi KaiKai Infinite Credits
+[Cheats/KiKi KaiKai Infinite Credits]
 patch=1,EE,200A08C0,extended,A0A41801
 
-//Cheats/KiKi KaiKai Infinite Lives
+[Cheats/KiKi KaiKai Infinite Lives]
 patch=1,EE,200A08C4,extended,A0A40957
 
-//Cheats/KiKi KaiKai Unlock Extra Character
+[Cheats/KiKi KaiKai Unlock Extra Character]
 patch=1,EE,200A08CC,extended,A0A411DF
 
-//Cheats/Kuri Kinton Activator
+[Cheats/Kuri Kinton Activator]
 patch=1,EE,200A08E0,extended,8CC13C7C
 patch=1,EE,200A08E4,extended,34048000
 patch=1,EE,200A08E8,extended,00812820
@@ -274,13 +274,13 @@ patch=1,EE,200A0910,extended,00852820
 patch=1,EE,200A0914,extended,24040018
 patch=1,EE,200A0928,extended,100001B4
 
-//Cheats/Kuri Kinton Infinite Credits
+[Cheats/Kuri Kinton Infinite Credits]
 patch=1,EE,200A08F0,extended,A0A40187
 
-//Cheats/Kuri Kinton Infinite Energy
+[Cheats/Kuri Kinton Infinite Energy]
 patch=1,EE,200A08F8,extended,A0A42010
 
-//Cheats/Legend of Kage Activator
+[Cheats/Legend of Kage Activator]
 patch=1,EE,200A0930,extended,8CC13C7C
 patch=1,EE,200A0934,extended,3404E000
 patch=1,EE,200A0938,extended,00812820
@@ -288,19 +288,19 @@ patch=1,EE,200A093C,extended,24040009
 patch=1,EE,200A0944,extended,240400FF
 patch=1,EE,200A0958,extended,100001A8
 
-//Cheats/Legend of Kage Infinite Credits
+[Cheats/Legend of Kage Infinite Credits]
 patch=1,EE,200A0940,extended,A0A401A3
 
-//Cheats/Legend of Kage Infinite Lives P1
+[Cheats/Legend of Kage Infinite Lives P1]
 patch=1,EE,200A0948,extended,A0A40225
 
-//Cheats/Legend of Kage Infinite Lives P2
+[Cheats/Legend of Kage Infinite Lives P2]
 patch=1,EE,200A094C,extended,A0A4022C
 
-//Cheats/Legend of Kage Invincibility
+[Cheats/Legend of Kage Invincibility]
 patch=1,EE,200A0950,extended,A0A0044E
 
-//Cheats/Liquid Kids Activator
+[Cheats/Liquid Kids Activator]
 patch=1,EE,200A0640,extended,34049000
 patch=1,EE,200A0644,extended,00812820
 patch=1,EE,200A0648,extended,24040009
@@ -312,22 +312,22 @@ patch=1,EE,200A0670,extended,240400FF
 patch=1,EE,200A0680,extended,24040014
 patch=1,EE,200A0698,extended,10000258
 
-//Cheats/Liquid Kids Infinite Credits
+[Cheats/Liquid Kids Infinite Credits]
 patch=1,EE,200A064C,extended,A0A404E2
 
-//Cheats/Liquid Kids Invincibility
+[Cheats/Liquid Kids Invincibility]
 patch=1,EE,200A0664,extended,A0A40505
 patch=1,EE,200A066C,extended,A0242C6C
 
-//Cheats/Majestic Twelve - The Space Invaders Part IV Activator
+[Cheats/Majestic Twelve - The Space Invaders Part IV Activator]
 patch=1,EE,200A0A80,extended,24040009
 patch=1,EE,200A0A98,extended,24040030
 patch=1,EE,200A0AA8,extended,10000154
 
-//Cheats/Majestic Twelve - The Space Invaders Part IV Infinite Credits
+[Cheats/Majestic Twelve - The Space Invaders Part IV Infinite Credits]
 patch=1,EE,200A0A84,extended,A0240096
 
-//Cheats/Nastar Warrior Activator
+[Cheats/Nastar Warrior Activator]
 patch=1,EE,200A06AC,extended,24040009
 patch=1,EE,200A06D0,extended,2404000B
 patch=1,EE,200A06DC,extended,24040001
@@ -338,47 +338,47 @@ patch=1,EE,200A0724,extended,24040008
 patch=1,EE,200A072C,extended,2404000A
 patch=1,EE,200A0738,extended,10000230
 
-//Cheats/Nastar Warrior Infinite Credits
+[Cheats/Nastar Warrior Infinite Credits]
 patch=1,EE,200A06B0,extended,A02404D8
 
-//Cheats/Nastar Warrior infinite Time
+[Cheats/Nastar Warrior infinite Time]
 patch=1,EE,200A06B4,extended,A0241B60
 patch=1,EE,200A06B8,extended,A0241B61
 
-//Cheats/Nastar Warrior Infinite Lives P1
+[Cheats/Nastar Warrior Infinite Lives P1]
 patch=1,EE,200A06BC,extended,A024050A
 
-//Cheats/Nastar Warrior Infinite Lives P2
+[Cheats/Nastar Warrior Infinite Lives P2]
 patch=1,EE,200A06CC,extended,A0240520
 
-//Cheats/Nastar Warrior Infinite Energy P1
+[Cheats/Nastar Warrior Infinite Energy P1]
 patch=1,EE,200A06D4,extended,A0240508
 
-//Cheats/Nastar Warrior Infinite Energy P2
+[Cheats/Nastar Warrior Infinite Energy P2]
 patch=1,EE,200A06D8,extended,A024051E
 
-//Cheats/Nastar Warrior Invincibility P1
+[Cheats/Nastar Warrior Invincibility P1]
 patch=1,EE,200A0704,extended,A0240592
 
-//Cheats/Nastar Warrior Invincibility P2
+[Cheats/Nastar Warrior Invincibility P2]
 patch=1,EE,200A0708,extended,A02405A8
 
-//Cheats/Puchi Carat Activator
+[Cheats/Puchi Carat Activator]
 patch=1,EE,200A09D0,extended,24040009
 patch=1,EE,200A09E0,extended,240400FF
 patch=1,EE,200A09F4,extended,00000000
 patch=1,EE,200A09F8,extended,10000180
 
-//Cheats/Puchi Carat Infinite Credits
+[Cheats/Puchi Carat Infinite Credits]
 patch=1,EE,200A09D4,extended,A0240268
 
-//Cheats/Puchi Carat Player 1 Attack Blocks
+[Cheats/Puchi Carat Player 1 Attack Blocks]
 patch=1,EE,200A09DC,extended,A0244020
 
-//Cheats/Puchi Carat Unlock Secret Character
+[Cheats/Puchi Carat Unlock Secret Character]
 patch=1,EE,200A09E4,extended,A0242184
 
-//Cheats/Raimais Activator
+[Cheats/Raimais Activator]
 patch=1,EE,200A0990,extended,8CC13C7C
 patch=1,EE,200A0994,extended,3404A000
 patch=1,EE,200A0998,extended,00812820
@@ -389,13 +389,13 @@ patch=1,EE,200A09B4,extended,24040040
 patch=1,EE,200A09BC,extended,24040027
 patch=1,EE,200A09C8,extended,1000018C
 
-//Cheats/Raimais Infinite Credits
+[Cheats/Raimais Infinite Credits]
 patch=1,EE,200A09A0,extended,A0A401DD
 
-//Cheats/Raimais Invincibility
+[Cheats/Raimais Invincibility]
 patch=1,EE,200A09A8,extended,A0A40A74
 
-//Cheats/Space Invaders 95 Activator
+[Cheats/Space Invaders 95 Activator]
 patch=1,EE,200A0A00,extended,3404F000
 patch=1,EE,200A0A04,extended,00812820
 patch=1,EE,200A0A08,extended,24040009
@@ -403,50 +403,50 @@ patch=1,EE,200A0A18,extended,24040080
 patch=1,EE,200A0A24,extended,2404003B
 patch=1,EE,200A0A48,extended,1000016C
 
-//Cheats/Space Invaders 95 Infinite Credits
+[Cheats/Space Invaders 95 Infinite Credits]
 patch=1,EE,200A0A0C,extended,A0A40FC8
 
-//Cheats/Space Invaders 95 Infinite Lives P1
+[Cheats/Space Invaders 95 Infinite Lives P1]
 patch=1,EE,200A0A10,extended,A0A41CDC
 
-//Cheats/Space Invaders 95 Infinite Lives P2
+[Cheats/Space Invaders 95 Infinite Lives P2]
 patch=1,EE,200A0A14,extended,A0A41D5C
 
-//Cheats/Space Invaders 95 Invincibility P1
+[Cheats/Space Invaders 95 Invincibility P1]
 patch=1,EE,200A0A1C,extended,A0A41C9F
 
-//Cheats/Space Invaders 95 Invincibility P2
+[Cheats/Space Invaders 95 Invincibility P2]
 patch=1,EE,200A0A20,extended,A0A41D1F
 
-//Cheats/Space Invaders DX Activator
+[Cheats/Space Invaders DX Activator]
 patch=1,EE,200A0A50,extended,24040009
 patch=1,EE,200A0A60,extended,24040016
 patch=1,EE,200A0A68,extended,24040098
 patch=1,EE,200A0A78,extended,10000160
 
-//Cheats/Space Invaders DX Infinite Credits
+[Cheats/Space Invaders DX Infinite Credits]
 patch=1,EE,200A0A54,extended,A0242444
 
-//Cheats/Space Invaders DX Infinite Lives P1
+[Cheats/Space Invaders DX Infinite Lives P1]
 patch=1,EE,200A0A58,extended,A0243BFE
 
-//Cheats/Space Invaders DX Infinite Lives P2
+[Cheats/Space Invaders DX Infinite Lives P2]
 patch=1,EE,200A0A5C,extended,A0243CFE
 
-//Cheats/Syvalion Activator
+[Cheats/Syvalion Activator]
 patch=1,EE,200A0AF0,extended,24040009
 patch=1,EE,200A0B04,extended,24040003
 patch=1,EE,200A0B0C,extended,240400E7
 patch=1,EE,200A0B14,extended,24040014
 patch=1,EE,200A0B28,extended,10000134
 
-//Cheats/Syvalion Infinite Credits
+[Cheats/Syvalion Infinite Credits]
 patch=1,EE,200A0AF4,extended,A0242900
 
-//Cheats/Syvalion Infinite Energy
+[Cheats/Syvalion Infinite Energy]
 patch=1,EE,200A0AF8,extended,A02443B7
 
-//Cheats/The Fairyland Story Activator
+[Cheats/The Fairyland Story Activator]
 patch=1,EE,200A07D0,extended,8CC13C7C
 patch=1,EE,200A07D4,extended,3404E000
 patch=1,EE,200A07D8,extended,00812820
@@ -459,23 +459,23 @@ patch=1,EE,200A0808,extended,24040003
 patch=1,EE,200A0810,extended,24040020
 patch=1,EE,200A0828,extended,100001F4
 
-//Cheats/The Fairyland Story Infinite Credits
+[Cheats/The Fairyland Story Infinite Credits]
 patch=1,EE,200A07E0,extended,A0A40604
 
-//Cheats/Violence Fight Activator
+[Cheats/Violence Fight Activator]
 patch=1,EE,200A0AB0,extended,24040009
 patch=1,EE,200A0AC4,extended,24040099
 patch=1,EE,200A0AD4,extended,24040016
 patch=1,EE,200A0AE8,extended,10000144
 
-//Cheats/Violence Fight Infinite Credits
+[Cheats/Violence Fight Infinite Credits]
 patch=1,EE,200A0AB4,extended,A024013C
 
-//Cheats/Violence Fight Infinite Energy P1
+[Cheats/Violence Fight Infinite Energy P1]
 patch=1,EE,200A0ABC,extended,A024021D
 patch=1,EE,200A0AC8,extended,A024021C
 
-//Cheats/Wild Western Activator
+[Cheats/Wild Western Activator]
 patch=1,EE,200A0960,extended,8CC13C7C
 patch=1,EE,200A0964,extended,34048000
 patch=1,EE,200A0968,extended,00812820
@@ -483,8 +483,8 @@ patch=1,EE,200A096C,extended,24040009
 patch=1,EE,200A0974,extended,24040003
 patch=1,EE,200A0988,extended,1000019C
 
-//Cheats/Wild Western Infinite Credits
+[Cheats/Wild Western Infinite Credits]
 patch=1,EE,200A0970,extended,A0A40009
 
-//Cheats/Wild Western Infinite Lives
+[Cheats/Wild Western Infinite Lives]
 patch=1,EE,200A0978,extended,A0A40620

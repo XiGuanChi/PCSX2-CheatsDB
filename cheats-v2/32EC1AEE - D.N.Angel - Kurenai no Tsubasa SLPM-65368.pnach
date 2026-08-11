@@ -1,7 +1,7 @@
 gametitle=D.N.Angel - Kurenai no Tsubasa SLPM-65368
-//Infinite hearts (8)
+[Infinite hearts (8)]
 patch=1,EE,203A063C,extended,00000008
 
-//Unlock All Omake 
+[Unlock All Omake]
 patch=1,EE,403B6300,extended,00140001
 patch=1,EE,FFFFFFFF,extended,00000000

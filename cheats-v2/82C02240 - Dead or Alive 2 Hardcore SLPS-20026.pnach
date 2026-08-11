@@ -1,20 +1,20 @@
 gametitle=Dead or Alive 2 Hardcore SLPS-20026
-//Infinite HP P1 
+[Infinite HP P1]
 patch=1,EE,104A2BA0,extended,0000012C
 
-//2P strength 0
+[2P strength 0]
 patch=1,EE,104A2C08,extended,00000000
 
-//All Costumes 
+[All Costumes]
 patch=1,EE,204A1940,extended,FFFFFFFF
 patch=1,EE,204A1944,extended,FFFFFFFF
 patch=1,EE,204A1948,extended,FFFFFFFF
 patch=1,EE,204A194C,extended,10010500
 
-//Added CG Gallery
+[Added CG Gallery]
 patch=1,EE,004A79CF,extended,00000001
 
-//COLLECTION ALL (including ITEM GALLERY)
+[COLLECTION ALL (including ITEM GALLERY)]
 patch=1,EE,204A79E0,extended,FFFFFFFF
 patch=1,EE,204A79E4,extended,FFFFFFFF
 patch=1,EE,104A79E8,extended,0000FFFF

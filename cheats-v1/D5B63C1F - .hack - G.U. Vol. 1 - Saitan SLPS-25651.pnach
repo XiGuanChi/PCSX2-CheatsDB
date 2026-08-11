@@ -1,98 +1,98 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,209FD2D0,extended,05F5E0FF
 
-//Cheats/Max Money You Have When You Get Gold
+[Cheats/Max Money You Have When You Get Gold]
 patch=1,EE,201EB18C,extended,10000003
 patch=1,EE,201EB208,extended,10000003
 
-//Cheats/Max Favorability If You Give A Gift
+[Cheats/Max Favorability If You Give A Gift]
 patch=1,EE,201EAA54,extended,10000005
 
-//Cheats/Possession Chim 99
+[Cheats/Possession Chim 99]
 patch=1,EE,10A0A940,extended,00000063
 
-//Cheats/Haseo Level 50
+[Cheats/Haseo Level 50]
 patch=1,EE,009FD2CC,extended,00000032
 
-//Cheats/Haseo Experience Points 20000
+[Cheats/Haseo Experience Points 20000]
 patch=1,EE,109FD2CE,extended,00004E20
 
-//Cheats/Haseo Possession Gold 99999999
+[Cheats/Haseo Possession Gold 99999999]
 patch=1,EE,209FD2D0,extended,05F5E0FF
 
-//Cheats/Haseo HP 9999
+[Cheats/Haseo HP 9999]
 patch=1,EE,209FD2D4,extended,00018696
 
-//Cheats/Haseo SP 9999
+[Cheats/Haseo SP 9999]
 patch=1,EE,209FD2D8,extended,00018696
 
-//Cheats/Infinite Consumption Items Using It Press L2+Up Normal L2+Down
+[Cheats/Infinite Consumption Items Using It Press L2+Up Normal L2+Down]
 patch=1,EE,D03D0D42,extended,0000FEEF
 patch=1,EE,201F0298,extended,00000000
 patch=1,EE,D03D0D42,extended,0000FEBF
 patch=1,EE,201F0298,extended,A5230002
 
-//Cheats/Acquisition Experience Value 20000
+[Cheats/Acquisition Experience Value 20000]
 patch=1,EE,D04D10E8,extended,0004243F
 patch=1,EE,204D10EC,extended,24034E20
 
-//Cheats/HP Recovery In Battle
+[Cheats/HP Recovery In Battle]
 patch=1,EE,D04E15A0,extended,00002964
 patch=1,EE,204E162C,extended,00000000
 
-//Cheats/SP Recovery In Battle
+[Cheats/SP Recovery In Battle]
 patch=1,EE,D04E15A0,extended,00002964
 patch=1,EE,204E16C0,extended,00000000
 
-//Cheats/Max HP 9999
+[Cheats/Max HP 9999]
 patch=1,EE,D0490620,extended,00008697
 patch=1,EE,20490628,extended,1000004F
 
-//Cheats/Max SP
+[Cheats/Max SP]
 patch=1,EE,D0490638,extended,00008697
 patch=1,EE,20490640,extended,1000004D
 
-//Cheats/Max Physical Attack
+[Cheats/Max Physical Attack]
 patch=1,EE,D049064C,extended,00002707
 patch=1,EE,20490650,extended,1000004D
 
-//Cheats/Max Physical Defense
+[Cheats/Max Physical Defense]
 patch=1,EE,D049065C,extended,00002707
 patch=1,EE,20490660,extended,1000004C
 
-//Cheats/Max Magical Attack
+[Cheats/Max Magical Attack]
 patch=1,EE,D049066C,extended,00002707
 patch=1,EE,20490670,extended,1000004B
 
-//Cheats/Max Magical Defense
+[Cheats/Max Magical Defense]
 patch=1,EE,D049067C,extended,00002707
 patch=1,EE,20490680,extended,1000004A
 
-//Cheats/Max Fire Attribute
+[Cheats/Max Fire Attribute]
 patch=1,EE,D049068C,extended,00002707
 patch=1,EE,20490690,extended,10000049
 
-//Cheats/Max Water Attribute
+[Cheats/Max Water Attribute]
 patch=1,EE,D049069C,extended,00002707
 patch=1,EE,204906A0,extended,10000048
 
-//Cheats/Max Wind Attribute
+[Cheats/Max Wind Attribute]
 patch=1,EE,D04906AC,extended,00002707
 patch=1,EE,204906B0,extended,10000047
 
-//Cheats/Max Earth Attribute
+[Cheats/Max Earth Attribute]
 patch=1,EE,D04906BC,extended,00002707
 patch=1,EE,204906C0,extended,10000046
 
-//Cheats/Max Optical Attribute
+[Cheats/Max Optical Attribute]
 patch=1,EE,D04906CC,extended,00002707
 patch=1,EE,204906D0,extended,10000045
 
-//Cheats/Max Darkness Attribute
+[Cheats/Max Darkness Attribute]
 patch=1,EE,D04906DC,extended,00002707
 patch=1,EE,204906E0,extended,10000044
 
-//Cheats/Unlock All Wallpapers View The Accessories BG Setting
+[Cheats/Unlock All Wallpapers View The Accessories BG Setting]
 patch=1,EE,201EBEB4,extended,24020002
 patch=1,EE,201EBEB8,extended,A0620000
 patch=1,EE,201EBEC4,extended,10000005
@@ -102,7 +102,7 @@ patch=1,EE,201EBB64,extended,24020002
 patch=1,EE,201EBB68,extended,A0620000
 patch=1,EE,201EBB74,extended,10000005
 
-//Cheats/Unlock All Media Performer Movies Can Be Played Must Be Used With All Movies Story Progress Will Not Be Reflected In Save
+[Cheats/Unlock All Media Performer Movies Can Be Played Must Be Used With All Movies Story Progress Will Not Be Reflected In Save]
 patch=1,EE,D0499D6C,extended,00002525
 patch=1,EE,20499D60,extended,10000003
 patch=1,EE,D0499D6C,extended,00002525
@@ -110,31 +110,31 @@ patch=1,EE,20499F38,extended,00000000
 patch=1,EE,D049C12C,extended,00007A10
 patch=1,EE,2049C118,extended,00000000
 
-//Cheats/Unlock Four Thorn Book of Liu All Weapon Type 43-43
+[Cheats/Unlock Four Thorn Book of Liu All Weapon Type 43-43]
 patch=1,EE,D07336BC,extended,000000F3
 patch=1,EE,207336A4,extended,24010001
 patch=1,EE,D07336BC,extended,000000F3
 patch=1,EE,207336A8,extended,A0410000
 
-//Cheats/Unlock Four Thorn Book of Liu All Armor Type 24-24
+[Cheats/Unlock Four Thorn Book of Liu All Armor Type 24-24]
 patch=1,EE,D0733724,extended,0000005B
 patch=1,EE,2073370C,extended,24010001
 patch=1,EE,D0733724,extended,0000005B 
 patch=1,EE,20733710,extended,A0410104
 
-//Cheats/Unlock Four Thorn Book of Liu All Types Of Decorations 23-23
+[Cheats/Unlock Four Thorn Book of Liu All Types Of Decorations 23-23]
 patch=1,EE,D073378C,extended,00000026
 patch=1,EE,20733774,extended,24010001
 patch=1,EE,D073378C,extended,00000026
 patch=1,EE,20733778,extended,A0410172 
 
-//Cheats/Unlock Four Thorn Book of Liu All Types Of Consumable Items 84-84 Enabled When Viewing The Book of Yao Yojana
+[Cheats/Unlock Four Thorn Book of Liu All Types Of Consumable Items 84-84 Enabled When Viewing The Book of Yao Yojana]
 patch=1,EE,D07337F4,extended,000000FD 
 patch=1,EE,207337DC,extended,24010001 
 patch=1,EE,D07337F4,extended,000000FD 
 patch=1,EE,207337E0,extended,A04101A4
 
-//Cheats/Unlock Book of Seven Loss Liu All Monster Details When you view the monster details It will not be fully opened just by opening the Book of Yaoyoran. It will be enabled when you view the monster details list under the Book of Seven Lost Liu items
+[Cheats/Unlock Book of Seven Loss Liu All Monster Details When you view the monster details It will not be fully opened just by opening the Book of Yaoyoran. It will be enabled when you view the monster details list under the Book of Seven Lost Liu items]
 patch=1,EE,D072D820,extended,000000E1 
 patch=1,EE,2072D810,extended,24010001 
 patch=1,EE,D072D820,extended,000000E1 

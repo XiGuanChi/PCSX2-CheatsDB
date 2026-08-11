@@ -1,22 +1,22 @@
-//Cheats/R2+L2+up Freeze Timer
+[Cheats/R2+L2+up Freeze Timer]
 patch=1,EE,DA4E94C3,extended,683E6A1F
 patch=1,EE,203097AC,extended,AC40001C
 patch=1,EE,DA4E94C3,extended,683E6A1F
 patch=1,EE,203097B0,extended,4481A000
 
-//Cheats/Unlock 2nd Level
+[Cheats/Unlock 2nd Level]
 patch=1,EE,00683E11,extended,00000003
 
-//Cheats/Unlock 3rd Level
+[Cheats/Unlock 3rd Level]
 patch=1,EE,00683E7A,extended,00000003
 
-//Cheats/Unlock 4th Level
+[Cheats/Unlock 4th Level]
 patch=1,EE,00683EE3,extended,00000003
 
-//Cheats/Unlock 5th level
+[Cheats/Unlock 5th level]
 patch=1,EE,00683F4C,extended,00000003
 
-//Cheats/Unlock All Secrets
+[Cheats/Unlock All Secrets]
 patch=1,EE,2068DE00,extended,00000002
 patch=1,EE,2068DE04,extended,00000002
 patch=1,EE,2068DE08,extended,00000002

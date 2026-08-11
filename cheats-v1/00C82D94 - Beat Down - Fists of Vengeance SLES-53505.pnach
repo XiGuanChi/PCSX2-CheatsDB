@@ -1,11 +1,11 @@
-//Cheats/Infinite Gold
+[Cheats/Infinite Gold]
 patch=1,EE,20600CA0,extended,0098967F
 
-//Cheats/Infinite HP in Battle
+[Cheats/Infinite HP in Battle]
 patch=1,EE,206CC93C,extended,270F270F
 
-//Cheats/Infinite HP 9999
+[Cheats/Infinite HP 9999]
 patch=1,EE,10600CB4,extended,0000270F
 
-//Cheats/Max.HP 9999
+[Cheats/Max.HP 9999]
 patch=1,EE,10600CAE,extended,0000270F

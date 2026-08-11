@@ -1,22 +1,22 @@
 gametitle=Sorayume SLPM-55013
-//CG avaliable and fully opened
+[CG avaliable and fully opened]
 patch=1,EE,20D598CC,extended,FFFFFFFF
 patch=1,EE,20D598D0,extended,FFFFFFFF
 patch=1,EE,20D598D4,extended,FFFFFFFF
 patch=1,EE,20D598D8,extended,FFFFFFFF
 patch=1,EE,10D598DC,extended,0000FFFF
 
-//CG viewing mode fully open
+[CG viewing mode fully open]
 patch=1,EE,40D598CC,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10D598DC,extended,0000FFFF
 
-//Scenario playback mode fully open
+[Scenario playback mode fully open]
 patch=1,EE,40D598E4,extended,000C0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10D59914,extended,0000FFFF
 
-//Special fully open
+[Special fully open]
 patch=1,EE,40D59974,extended,00060001
 patch=1,EE,000000FF,extended,00000000
 patch=1,EE,40D59994,extended,000A0001

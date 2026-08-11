@@ -1,18 +1,18 @@
 gametitle=Sega Ages 2500 Series Vol.11 - Hokuto no Ken SLPM-62432
-//Strength meter maximum
+[Strength meter maximum]
 patch=1,EE,20175750,extended,3C014396
 patch=1,EE,20175754,extended,10000008
 patch=1,EE,20175758,extended,AE810000
 
-//Fighting spirit meter maximum
+[Fighting spirit meter maximum]
 patch=1,EE,20175FC0,extended,E6840004
 
-//Mystery meter maximum
+[Mystery meter maximum]
 patch=1,EE,20175FD4,extended,3C1A4334
 patch=1,EE,20175FEC,extended,AE9A0008
 
-//BATTLE MODE appearance and mystery all learning
+[BATTLE MODE appearance and mystery all learning]
 patch=1,EE,2027FE10,extended,00000001
 
-//All stages appear in the LOAD GAME
+[All stages appear in the LOAD GAME]
 patch=1,EE,2027FE14,extended,00000005

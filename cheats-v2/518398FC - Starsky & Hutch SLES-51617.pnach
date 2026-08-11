@@ -1,22 +1,22 @@
 gametitle=Starsky & Hutch SLES-51617
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201C1FDC,extended,24420000
 
-//One Hit Kill
+[One Hit Kill]
 patch=1,EE,2013B7C4,extended,44800000
 patch=1,EE,2013B7C8,extended,AE000114
 
-//Have All Items
+[Have All Items]
 patch=1,EE,20514CB0,extended,FFFFFFFF
 patch=1,EE,20514CB4,extended,FFFFFFFF
 patch=1,EE,20514CB8,extended,FFFFFFFF
 patch=1,EE,20514CBC,extended,FFFFFFFF
 patch=1,EE,20514CC0,extended,FFFFFFFF
 
-//Unlock All Episodes
+[Unlock All Episodes]
 patch=1,EE,00514C64,extended,00000006
 
-//slot 1.Unlock All Levels And Bonus Cars
+[slot 1.Unlock All Levels And Bonus Cars]
 patch=1,EE,20514C64,extended,00060606
 patch=1,EE,20514C68,extended,4D1C0003
 patch=1,EE,20514C6C,extended,4D1C0003

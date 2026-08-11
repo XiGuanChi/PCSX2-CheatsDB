@@ -1,33 +1,33 @@
-//Cheats/Max Status In Battle Not reflected in save data
+[Cheats/Max Status In Battle Not reflected in save data]
 patch=1,EE,20212934,extended,00000000
 
-//Cheats/Initial Stamina 9999 In Battle Not reflected in save data
+[Cheats/Initial Stamina 9999 In Battle Not reflected in save data]
 patch=1,EE,20211534,extended,2402270F
 patch=1,EE,20211554,extended,2402270F
 
-//Cheats/Attack 9999 In Battle Not reflected in save data
+[Cheats/Attack 9999 In Battle Not reflected in save data]
 patch=1,EE,20211524,extended,2402270F
 
-//Cheats/Defense 999 In Battle Not reflected in save data
+[Cheats/Defense 999 In Battle Not reflected in save data]
 patch=1,EE,20211514,extended,240203E7
 
-//Cheats/Skill 999 In Battle Not reflected in save data
+[Cheats/Skill 999 In Battle Not reflected in save data]
 patch=1,EE,20211504,extended,240203E7
 
-//Cheats/Command 999 In Battle Not reflected in save data
+[Cheats/Command 999 In Battle Not reflected in save data]
 patch=1,EE,202114F4,extended,240203E7
 
-//Cheats/Unlock All Weapons Including Ame-no-Murakumo
+[Cheats/Unlock All Weapons Including Ame-no-Murakumo]
 patch=1,EE,40608898,extended,00410001
 patch=1,EE,63636301,extended,00000000
 
-//Cheats/Unlock All Weapons Except Ame-no-Murakumo
+[Cheats/Unlock All Weapons Except Ame-no-Murakumo]
 patch=1,EE,40608898,extended,00150001
 patch=1,EE,63636301,extended,00000000
 patch=1,EE,406088F0,extended,002B0001
 patch=1,EE,63636301,extended,00000000
 
-//Cheats/Unlock All Yoshitsune
+[Cheats/Unlock All Yoshitsune]
 patch=1,EE,106032AE,extended,0000FFFF
 patch=1,EE,406032B0,extended,003A0001
 patch=1,EE,FFFFFFFF,extended,00000000

@@ -1,5 +1,5 @@
 gametitle=Dreamworks' Flushed Away SLUS-21484
-//Infinite Heakth
+[Infinite Heakth]
 patch=1,EE,200C0220,extended,3C014120
 patch=1,EE,200C0224,extended,8C6201FC
 patch=1,EE,200C0228,extended,AC410210
@@ -8,12 +8,12 @@ patch=1,EE,200C0230,extended,080D9571
 patch=1,EE,200C0234,extended,8C620030
 patch=1,EE,203655C0,extended,08030088
 
-//Infinite Cash-Unlockables
+[Infinite Cash-Unlockables]
 patch=1,EE,2053A748,extended,447A0000
 
-//All Images Unlocked
+[All Images Unlocked]
 patch=1,EE,4053A864,extended,000E0001
 patch=1,EE,00000000,extended,00000000
 
-//Unlock All Missions
+[Unlock All Missions]
 patch=1,EE,2053A724,extended,41A00000

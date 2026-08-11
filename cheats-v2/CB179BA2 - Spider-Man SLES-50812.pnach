@@ -1,22 +1,22 @@
 gametitle=Spider-Man SLES-50812
-//God Mode 
+[God Mode]
 patch=1,EE,2050A618,extended,00000001
 
-//Infinite Web
+[Infinite Web]
 patch=1,EE,1194A32C,extended,00000001
 
-//Unlock Levels Easy Setting
+[Unlock Levels Easy Setting]
 patch=1,EE,0194BDD0,extended,00000019
 
-//Unlock Levels Normal Setting
+[Unlock Levels Normal Setting]
 patch=1,EE,0194BDD4,extended,00000019
 
 
-//Unlock All Moves
+[Unlock All Moves]
 patch=1,EE,1194A330,extended,00000001
 
-//Unlock FMVs-movie Art
+[Unlock FMVs-movie Art]
 patch=1,EE,2194A338,extended,00000001
 
-//Unlock Skip Level Option
+[Unlock Skip Level Option]
 patch=1,EE,2194A334,extended,00000001

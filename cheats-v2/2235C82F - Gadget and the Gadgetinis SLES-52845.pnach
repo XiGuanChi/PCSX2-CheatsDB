@@ -1,12 +1,12 @@
 gametitle=Gadget and the Gadgetinis SLES-52845
-//Infinite Lives (99)
+[Infinite Lives (99)]
 patch=1,EE,21B670E8,extended,00000063
 
-//Infinite Health Level 1 (1086324736)
+[Infinite Health Level 1 (1086324736)]
 patch=1,EE,21B670E4,extended,40C00000
 
-//Infinite Health Level 2 (1086324736)
+[Infinite Health Level 2 (1086324736)]
 patch=1,EE,21A95CD4,extended,40C00000
 
-//Infinite Health Level 3 (1086324736)
+[Infinite Health Level 3 (1086324736)]
 patch=1,EE,21D07F84,extended,40C00000

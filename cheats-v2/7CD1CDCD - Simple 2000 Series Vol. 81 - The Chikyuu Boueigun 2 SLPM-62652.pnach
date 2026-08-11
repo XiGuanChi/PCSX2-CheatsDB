@@ -1,27 +1,27 @@
 gametitle=Simple 2000 Series Vol. 81 - The Chikyuu Boueigun 2 SLPM-62652
-//Acquired armor maximum
+[Acquired armor maximum]
 patch=1,EE,2021EBEC,extended,00002710
 patch=1,EE,2021EBF0,extended,00002710
 
-//All weapons
+[All weapons]
 patch=1,EE,201A8E3C,extended,24040001
 patch=1,EE,201A8E40,extended,A0E40008
 
-//Mission achievement rate 100%
+[Mission achievement rate 100%]
 patch=1,EE,20195CA8,extended,24020101
 patch=1,EE,20195CAC,extended,A4620008
 patch=1,EE,20195CB0,extended,A462000A
 patch=1,EE,20195CB8,extended,A062000C
 
-//Weapon bullets do not decrease
+[Weapon bullets do not decrease]
 patch=1,EE,201A6940,extended,24620000
 
-//Endurance does not decrease (when boarding members & vehicles)
+[Endurance does not decrease (when boarding members & vehicles)]
 patch=1,EE,2011B6D4,extended,3C014E6E
 patch=1,EE,2011B6D8,extended,08046D26
 patch=1,EE,2011B6DC,extended,AC8100B8
 patch=1,EE,201BF654,extended,0C046DB5
 patch=1,EE,201BF8E4,extended,0C046DB5
 
-//Pale wing energy does not decrease
+[Pale wing energy does not decrease]
 patch=1,EE,2011B864,extended,10000008

@@ -1,50 +1,50 @@
 gametitle=Kingdom Hearts SCES-50967
-//All Trinities Available
+[All Trinities Available]
 patch=1,EE,203F3ED8,extended,FFFFFFFF
 
-//Have All Dalmations
+[Have All Dalmations]
 patch=1,EE,003F39C3,extended,000000FF
 patch=1,EE,203F39C4,extended,FFFFFFFF
 patch=1,EE,203F39C8,extended,FFFFFFFF
 patch=1,EE,203F39CC,extended,7FFFFFFF
 
-//Infinite Munny
+[Infinite Munny]
 patch=1,EE,204086DC,extended,0001869F
 
-//Infinite Armour - Gummi Ship
+[Infinite Armour - Gummi Ship]
 patch=1,EE,00FAB140,extended,000000FF
 
-//Infinite Power - Gummi Ship
+[Infinite Power - Gummi Ship]
 patch=1,EE,00FAB148,extended,000000FF
 
-//Sora Infinite HP
+[Sora Infinite HP]
 patch=1,EE,003F22C5,extended,00000096
 
-//SoraMax HP
+[SoraMax HP]
 patch=1,EE,003F22C6,extended,00000096
 
-//Donald Infinite HP
+[Donald Infinite HP]
 patch=1,EE,003F2339,extended,00000096
 
-//Donald Max HP
+[Donald Max HP]
 patch=1,EE,003F233A,extended,00000096
 
-//Goofy Infinite HP
+[Goofy Infinite HP]
 patch=1,EE,003F23AD,extended,00000096
 
-//Goofy Max HP
+[Goofy Max HP]
 patch=1,EE,003F23AE,extended,00000096
 
-//Tarzan Infinite HP
+[Tarzan Infinite HP]
 patch=1,EE,003F2421,extended,00000063
 
-//Tarzan Max HP
+[Tarzan Max HP]
 patch=1,EE,003F2422,extended,00000063
 
 
-//Aladdin Infinite HP
+[Aladdin Infinite HP]
 patch=1,EE,003F2509,extended,00000063
 
-//Aladdin Max HP
+[Aladdin Max HP]
 patch=1,EE,003F250A,extended,00000063
 

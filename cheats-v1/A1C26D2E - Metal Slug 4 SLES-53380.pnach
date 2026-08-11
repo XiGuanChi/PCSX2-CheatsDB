@@ -1,35 +1,35 @@
-//Cheats/Invulnerable Player 1
+[Cheats/Invulnerable Player 1]
 patch=1,EE,0074d880,extended,00000037
 
-//Cheats/Infinite Bombs Player 1
+[Cheats/Infinite Bombs Player 1]
 patch=1,EE,00bb19f0,extended,00000009
 
-//Cheats/Infinite Bombs Player 1 ALT
+[Cheats/Infinite Bombs Player 1 ALT]
 patch=1,EE,00bb1107,extended,0000000a
 
-//Cheats/Infinite Arms Player 1
+[Cheats/Infinite Arms Player 1]
 patch=1,EE,10bb110c000003e7
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,00742f51,extended,00000060
 
-//Cheats/Have Machine Gun Player 1
+[Cheats/Have Machine Gun Player 1]
 patch=1,EE,10bb1104,extended,00001212
 
-//Cheats/Have Rubber Bombs Player 1
+[Cheats/Have Rubber Bombs Player 1]
 patch=1,EE,10bb1104,extended,00002222
 
-//Cheats/Invulnerable Player 2
+[Cheats/Invulnerable Player 2]
 patch=1,EE,0074d750,extended,00000037
 
-//Cheats/Infinite Arms Player 2
+[Cheats/Infinite Arms Player 2]
 patch=1,EE,10bb10fc,extended,000001f4
 
-//Cheats/Infinite Bombs Player 2
+[Cheats/Infinite Bombs Player 2]
 patch=1,EE,00bb10f7,extended,0000000a
 
-//Cheats/Have Machine Gun Player 2
+[Cheats/Have Machine Gun Player 2]
 patch=1,EE,10bb10f4,extended,00001212
 
-//Cheats/Have Rubber Bombs Player 2
+[Cheats/Have Rubber Bombs Player 2]
 patch=1,EE,10bb10f4,extended,00002222

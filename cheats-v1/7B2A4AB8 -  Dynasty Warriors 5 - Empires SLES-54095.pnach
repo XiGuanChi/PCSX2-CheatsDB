@@ -1,14 +1,14 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF00,extended,3C012700
 patch=1,EE,200FFF04,extended,34210270
 patch=1,EE,200FFF08,extended,AE810260
 
-//Cheats/Infinite Mosou
+[Cheats/Infinite Mosou]
 patch=1,EE,200FFF14,extended,24010130
 patch=1,EE,200FFF18,extended,A6810266
 
-//Cheats/Empire Max Gold
+[Cheats/Empire Max Gold]
 patch=1,EE,202F1F54,extended,2410EA60
 
-//Cheats/Empire Infinite Orders
+[Cheats/Empire Infinite Orders]
 patch=1,EE,203054FC,extended,24040005

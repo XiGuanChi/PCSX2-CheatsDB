@@ -1,21 +1,21 @@
 gametitle=Lego Star Wars - The Videogame SLUS-21083
-//Max Lego Studs (Cash)
+[Max Lego Studs (Cash)]
 patch=1,EE,20547B1C,extended,05F5E0FF
 
-//Infinite Hearts
+[Infinite Hearts]
 patch=1,EE,2025FEBC,extended,2413000A
 patch=1,EE,2025FEC0,extended,A0931061
 
-//Enable Characters Gonk Droid
+[Enable Characters Gonk Droid]
 patch=1,EE,20576080,extended,0100004D
 
-//Enable Characters PK Droid
+[Enable Characters PK Droid]
 patch=1,EE,20576110,extended,0100002B
 
-//Invincibility
+[Invincibility]
 patch=1,EE,2057A880,extended,01030000
 
-//All Extras
+[All Extras]
 patch=1,EE,10547AE8,extended,0000FFFF
 patch=1,EE,10547B18,extended,0000FFFF
 

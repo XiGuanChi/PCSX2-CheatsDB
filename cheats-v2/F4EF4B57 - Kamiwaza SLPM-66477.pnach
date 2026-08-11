@@ -1,8 +1,8 @@
 gametitle=Kamiwaza SLPM-66477
-//Money 999999
+[Money 999999]
 patch=1,EE,206CEAAC,extended,000F423F
 
-//Exp/stats/ability
+[Exp/stats/ability]
 patch=1,EE,202F568C,extended,00000000
 patch=1,EE,206CEAB0,extended,00000064
 patch=1,EE,206CEAB4,extended,000F423F
@@ -11,17 +11,17 @@ patch=1,EE,206CEAC8,extended,000F423F
 patch=1,EE,106CEADE,extended,000003E8
 patch=1,EE,20234B6C,extended,10000038
 
-//Stealth change (TO TURN ON with the SELECT+ left button, with the SELECT+ right button OFF) When being detected until it is cautious is cancelled it is invalid
+[Stealth change (TO TURN ON with the SELECT+ left button, with the SELECT+ right button OFF) When being detected until it is cautious is cancelled it is invalid]
 patch=1,EE,D03C5742,extended,0000FF7E
 patch=1,EE,20234B6C,extended,10000038
 patch=1,EE,D03C5742,extended,0000FFDE
 patch=1,EE,20234B6C,extended,12200038
 
-//The degree of healthy fixing which is tin
+[The degree of healthy fixing which is tin]
 patch=1,EE,006CEAEA,extended,000000FF
 
-//Multi-stage jump possibility
+[Multi-stage jump possibility]
 patch=1,EE,201B5140,extended,00000000
 
-//Diploma information 11 having, with just the initiation
+[Diploma information 11 having, with just the initiation]
 patch=1,EE,2030B70C,extended,10000083

@@ -1,68 +1,68 @@
-//Cheats/Infinite Dagols Cash
+[Cheats/Infinite Dagols Cash]
 patch=1,EE,2063DDA8,extended,05F5E0FF
 
-//Cheats/Infinite Volty Power
+[Cheats/Infinite Volty Power]
 patch=1,EE,1063E160,extended,00006363
 
-//Cheats/Jack Infinite HP
+[Cheats/Jack Infinite HP]
 patch=1,EE,2063DD4C,extended,0000270F
 
-//Cheats/Jack Max HP
+[Cheats/Jack Max HP]
 patch=1,EE,2063DD50,extended,0000270F
 
-//Cheats/View Status For Max Current HP
+[Cheats/View Status For Max Current HP]
 patch=1,EE,E003202D,extended,0040DA58
 patch=1,EE,2040DB4C,extended,2414270F
 patch=1,EE,1040DB52,extended,00001000
 patch=1,EE,2040DB54,extended,AE140000
 
-//Cheats/View Status For Max Overall HP
+[Cheats/View Status For Max Overall HP]
 patch=1,EE,E002202D,extended,0040DA58
 patch=1,EE,2040DA74,extended,2403270F
 patch=1,EE,2040DB40,extended,AE030004
 
-//Cheats/View Status For Max Str
+[Cheats/View Status For Max Str]
 patch=1,EE,E0031021,extended,0031AB78
 patch=1,EE,2031AB90,extended,240303E7
 patch=1,EE,2031AB98,extended,0000102D
 patch=1,EE,2031ABA0,extended,A4C30014
 
-//Cheats/View Status For Max Def
+[Cheats/View Status For Max Def]
 patch=1,EE,E0031021,extended,0031AA68
 patch=1,EE,2031AA80,extended,240303E7
 patch=1,EE,2031AA88,extended,0000102D
 patch=1,EE,2031AA90,extended,A4C30018
 
-//Cheats/View Status For Max Eva
+[Cheats/View Status For Max Eva]
 patch=1,EE,E002202D,extended,004025C8
 patch=1,EE,204025DC,extended,240303E7
 patch=1,EE,204025EC,extended,A643001C
 
-//Cheats/View Status For Max Lck
+[Cheats/View Status For Max Lck]
 patch=1,EE,E002202D,extended,00402624
 patch=1,EE,20402638,extended,240303E7
 patch=1,EE,20402648,extended,A6430020
 
-//Cheats/View Status For No Afflictions
+[Cheats/View Status For No Afflictions]
 patch=1,EE,E004202D,extended,0040D8D4
 patch=1,EE,200C0240,extended,24050000
 patch=1,EE,200C0244,extended,080C95B0
 patch=1,EE,200C0248,extended,A2050054
 patch=1,EE,2040D8E4,extended,0C030090
 
-//Cheats/View Status For Max Volty Gauge
+[Cheats/View Status For Max Volty Gauge]
 patch=1,EE,E002202D,extended,0040E348
 patch=1,EE,200C0250,extended,24050064
 patch=1,EE,200C0254,extended,03E00008
 patch=1,EE,200C0258,extended,A2250024
 patch=1,EE,2040E34C,extended,0C030094
 
-//Cheats/View Friends To Have All Friends
+[Cheats/View Friends To Have All Friends]
 patch=1,EE,E002202D,extended,003A9C3C
 patch=1,EE,203A9C50,extended,24030002
 patch=1,EE,203A9C54,extended,A2430002
 
-//Cheats/Enabler Must Be On For In Battle Codes
+[Cheats/Enabler Must Be On For In Battle Codes]
 patch=1,EE,200C2010,extended,03E00008
 patch=1,EE,200C2014,extended,8C220000
 patch=1,EE,E0030008,extended,003AD9E8
@@ -70,10 +70,10 @@ patch=1,EE,203AD9E4,extended,8C410060
 patch=1,EE,203AD9E8,extended,08030800
 patch=1,EE,203AD9EC,extended,8C220004
 
-//Cheats/In Battle Infinite Health All Party
+[Cheats/In Battle Infinite Health All Party]
 patch=1,EE,200C2000,extended,AC220000
 
-//Cheats/In Battle Infinite HP
+[Cheats/In Battle Infinite HP]
 patch=1,EE,E0070078,extended,003E35E8
 patch=1,EE,200C0260,extended,8C82008C
 patch=1,EE,200C0264,extended,8C410060
@@ -83,7 +83,7 @@ patch=1,EE,200C0270,extended,03E00008
 patch=1,EE,200C0274,extended,AC220004
 patch=1,EE,203E35EC,extended,0C030098
 
-//Cheats/In Battle Max Volty Gaugy
+[Cheats/In Battle Max Volty Gaugy]
 patch=1,EE,E00600D8,extended,003E3730
 patch=1,EE,200C0280,extended,8C820090
 patch=1,EE,200C0284,extended,8C410060
@@ -92,7 +92,7 @@ patch=1,EE,200C028C,extended,03E00008
 patch=1,EE,200C0290,extended,A0220024
 patch=1,EE,203E3734,extended,0C0300A0
 
-//Cheats/In Battle 1 Hit Death Enemies
+[Cheats/In Battle 1 Hit Death Enemies]
 patch=1,EE,E009007C,extended,003A25CC
 patch=1,EE,200C02A0,extended,8C82008C
 patch=1,EE,200C02A4,extended,8C410060
@@ -104,6 +104,6 @@ patch=1,EE,200C02B8,extended,03E00008
 patch=1,EE,200C02BC,extended,AC220000
 patch=1,EE,203A25D0,extended,0C0300A8
 
-//Infinite Item Usage
+[Infinite Item Usage]
 patch=1,EE,D02931B8,extended,0000102D
 patch=1,EE,202931C0,extended,00000000

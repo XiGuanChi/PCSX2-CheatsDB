@@ -1,15 +1,15 @@
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,1030379C,extended,0000FFFF
 
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,2030379C,extended,0098967F
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,203037A4,extended,00001740
 
-//Cheats/Press R1+X For Hella Speed
+[Cheats/Press R1+X For Hella Speed]
 patch=1,EE,D05F8D02,extended,0000B7FF
 patch=1,EE,20754588,extended,42C80000
 
-//Cheats/Max Value
+[Cheats/Max Value]
 patch=1,EE,203037C0,extended,0001869F

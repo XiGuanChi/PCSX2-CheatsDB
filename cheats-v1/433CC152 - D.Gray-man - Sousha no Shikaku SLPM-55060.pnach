@@ -1,4 +1,4 @@
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,404CFBA5,extended,00290001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,404CFB78,extended,000B0001
@@ -6,13 +6,13 @@ patch=1,EE,01010101,extended,00000000
 patch=1,EE,104CFC9C,extended,00000101
 patch=1,EE,004CFBA4,extended,00000001
 
-//Cheats/Unlock All Event CG
+[Cheats/Unlock All Event CG]
 patch=1,EE,102886EA,extended,0000A083
 patch=1,EE,002886EE,extended,00000043
 
-//Cheats/Unlock All Gallery Options
+[Cheats/Unlock All Gallery Options]
 patch=1,EE,204CFC9C,extended,FFFFFFFF
 
-//Cheats/Unlock All Voices
+[Cheats/Unlock All Voices]
 patch=1,EE,2028949C,extended,A0430035
 patch=1,EE,202894A0,extended,90420035

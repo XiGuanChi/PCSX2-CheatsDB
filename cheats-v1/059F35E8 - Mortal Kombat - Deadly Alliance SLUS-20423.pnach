@@ -1,15 +1,15 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,2040A394,extended,3F800000
 
-//Cheats/1 Round to Win
+[Cheats/1 Round to Win]
 patch=1,EE,D040A388,extended,00000000
 patch=1,EE,1040A388,extended,00000001
 
-//Cheats/1 Hit Death P2
+[Cheats/1 Hit Death P2]
 patch=1,EE,D040A392,extended,00003F80
 patch=1,EE,2040A390,extended,3C23D70A
 
-//Cheats/Unlock All Costumes, Arenas, Concept Arts and Extras
+[Cheats/Unlock All Costumes, Arenas, Concept Arts and Extras]
 patch=1,EE,20550F08,extended,FFFFFFFF
 patch=1,EE,20550F0C,extended,FFFFFFFF
 patch=1,EE,20550F10,extended,FFFFFFFF
@@ -33,5 +33,5 @@ patch=1,EE,20550F54,extended,FFFFFFFF
 patch=1,EE,20550F58,extended,FFFFFFFF
 patch=1,EE,20550F5C,extended,FFFFFFFF
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,20409024,extended,FFFFFFFF

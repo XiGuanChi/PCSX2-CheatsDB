@@ -1,4 +1,4 @@
-//Cheats/P1 Max Infinite Health Press SELECT+L1
+[Cheats/P1 Max Infinite Health Press SELECT+L1]
 patch=1,EE,200F4048,extended,8C22081C
 patch=1,EE,200F404C,extended,AC22081C
 patch=1,EE,D042EB42,extended,0000FEFE
@@ -6,14 +6,14 @@ patch=1,EE,200F4048,extended,24020001
 patch=1,EE,D042EB42,extended,0000FBFE
 patch=1,EE,200F4048,extended,8C220820
 
-//Cheats/Unsteady gauge 0
+[Cheats/Unsteady gauge 0]
 patch=1,EE,200F4010,extended,AC2003F8
 
-//Cheats/Unlock All Modes
+[Cheats/Unlock All Modes]
 patch=1,EE,004BDCB3,extended,00000000
 patch=1,EE,104BDCAE,extended,00000000
 
-//Cheats/Unlock VS mode All characters & All Stages
+[Cheats/Unlock VS mode All characters & All Stages]
 patch=1,EE,204BDCCC,extended,00000000
 patch=1,EE,204BDCD0,extended,00000000
 patch=1,EE,204BDCD4,extended,00000000
@@ -30,7 +30,7 @@ patch=1,EE,204BDCFC,extended,00000000
 patch=1,EE,204BDD00,extended,00000000
 patch=1,EE,004BDD04,extended,00000000
 
-//Cheats/Press L3 For Debug Menu
+[Cheats/Press L3 For Debug Menu]
 patch=1,EE,D042EB42,extended,0000FFFD
 patch=1,EE,2042AB60,extended,00000000
 

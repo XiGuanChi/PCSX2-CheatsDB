@@ -1,16 +1,16 @@
-//Cheats/Infinite Gold 9999
+[Cheats/Infinite Gold 9999]
 patch=1,EE,203AFFFC,extended,0000270F
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,203AFFE8,extended,4479E8A0
 patch=1,EE,203AFFF0,extended,4479E8A0
 
-//Cheats/Infinite Magic
+[Cheats/Infinite Magic]
 patch=1,EE,203AFFEC,extended,4479E8A0
 patch=1,EE,203AFFF4,extended,4479E8A0
 
-//Cheats/Infinite Air
+[Cheats/Infinite Air]
 patch=1,EE,203AFFFA,extended,00003F80
 
-//Cheats/Enable Debug Menu At Boot
+[Cheats/Enable Debug Menu At Boot]
 patch=1,EE,204403E0,extended,00201380

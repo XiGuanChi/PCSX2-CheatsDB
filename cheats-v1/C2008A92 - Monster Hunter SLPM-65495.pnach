@@ -1,7 +1,7 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,203C6FE0,extended,0098967F
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2015357C,extended,1000000D
 patch=1,EE,201535CC,extended,00000000
 patch=1,EE,201535E4,extended,00000000
@@ -9,7 +9,7 @@ patch=1,EE,2015343C,extended,10000016
 patch=1,EE,201534A4,extended,00000000
 patch=1,EE,201534BC,extended,00000000
 
-//Cheats/Physical Fitness Recovery Not Reduced HP
+[Cheats/Physical Fitness Recovery Not Reduced HP]
 patch=1,EE,2015357C,extended,1000000D
 patch=1,EE,201535CC,extended,00000000
 patch=1,EE,201535E4,extended,00000000
@@ -17,35 +17,35 @@ patch=1,EE,2015343C,extended,10000016
 patch=1,EE,201534A4,extended,00000000
 patch=1,EE,201534BC,extended,00000000
 
-//Cheats/Stamina Recovery
+[Cheats/Stamina Recovery]
 patch=1,EE,20153AFC,extended,10000010
 patch=1,EE,20153B4C,extended,00000000
 patch=1,EE,20153B8C,extended,10000014
 patch=1,EE,20153BFC,extended,00000000
 
-//Cheats/Sharpness Does Not Deteriorate
+[Cheats/Sharpness Does Not Deteriorate]
 patch=1,EE,20153728,extended,00000000
 
-//Cheats/Hammer Can Be Completed Quickly Without Accumulating
+[Cheats/Hammer Can Be Completed Quickly Without Accumulating]
 patch=1,EE,20153A94,extended,14A3000A
 patch=1,EE,20153AB4,extended,10000002
 
-//Cheats/Don't Stop
+[Cheats/Don't Stop]
 patch=1,EE,20149004,extended,A2000007
 patch=1,EE,20149100,extended,10000003
 
-//Cheats/Synthesis Success Rate Is Always 100% even if you don't have the synthesis book
+[Cheats/Synthesis Success Rate Is Always 100% even if you don't have the synthesis book]
 patch=1,EE,2011D4DC,extended,00000000
 
-//Cheats/Unlimited Bomb Storage
+[Cheats/Unlimited Bomb Storage]
 patch=1,EE,201593B4,extended,24020001
 
-//Cheats/Unlimited Use Of Barrels
+[Cheats/Unlimited Use Of Barrels]
 patch=1,EE,201593A8,extended,28020002
 
-//Cheats/Enemies In The Area Suddenly Die Deactivate cheat when entering an area with an NPC
+[Cheats/Enemies In The Area Suddenly Die Deactivate cheat when entering an area with an NPC]
 patch=1,EE,2053AB80,extended,03E00008
 patch=1,EE,2053AB84,extended,00000000
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,103F30AC,extended,0000FFFF

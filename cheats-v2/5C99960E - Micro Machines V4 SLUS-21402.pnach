@@ -1,20 +1,20 @@
 gametitle=Micro Machines V4 SLUS-21402
-//Player 1 Always Win Battles
+[Player 1 Always Win Battles]
 patch=1,EE,20708EF0,extended,0000000C
 
-//Press Select To Win Race/Checkpoint Cups
+[Press Select To Win Race/Checkpoint Cups]
 patch=1,EE,D086DF02,extended,0000FFFE
 patch=1,EE,20703BB8,extended,00000003
 
-//Save Profile To Complete All Challenges
+[Save Profile To Complete All Challenges]
 patch=1,EE,2053863C,extended,24040003
 patch=1,EE,20538648,extended,AC6400AC
 
-//Save Profile To Unlock All Challenges
+[Save Profile To Unlock All Challenges]
 patch=1,EE,2053863C,extended,24040001
 patch=1,EE,20538648,extended,AC6400AC
 
-//All Vehicles
+[All Vehicles]
 patch=1,EE,407B43F4,extended,00BB0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,107B46E0,extended,00000101

@@ -1,47 +1,47 @@
 gametitle=Kurogane no Houkou 2 - Warship Gunner SLPM-65267
-//Almost all parts MAX possession
+[Almost all parts MAX possession]
 patch=1,EE,201E9AE4,extended,00000000
 
-//MAX due to budget increase
+[MAX due to budget increase]
 patch=1,EE,202739B4,extended,14200001
 
-//MAX with increased achievements
+[MAX with increased achievements]
 patch=1,EE,20273A44,extended,14200001
 
-//Appearance of all 250 parts
+[Appearance of all 250 parts]
 patch=1,EE,201E9AD4,extended,10400001
 patch=1,EE,201E9AE0,extended,28420000
 patch=1,EE,202732E4,extended,240200FA
 
-//For save data
-//Only some data will be reflected
+[For save data]
+[Only some data will be reflected]
 
-//Weight when installing the boiler 0
+[Weight when installing the boiler 0]
 patch=1,EE,20180500,extended,AC208A60
 
-//Design finished even if the weight is over
+[Design finished even if the weight is over]
 patch=1,EE,2017DF04,extended,10000004
 
-//Level MAX in technology development
-//Aviation technology
+[Level MAX in technology development]
+[Aviation technology]
 patch=1,EE,2020F508,extended,2405001E
 
-//Institutional technology
+[Institutional technology]
 patch=1,EE,2020F518,extended,2405001E
 
-//Steel technology
+[Steel technology]
 patch=1,EE,2020F528,extended,2405001E
 
-//Weapon technology
+[Weapon technology]
 patch=1,EE,2020F538,extended,2405001E
 
-//Electrical technology
+[Electrical technology]
 patch=1,EE,2020F548,extended,2405001E
 
 
-//Steel Roar 2 WARSHIP GUNNER [Another Ver]
-//Organization value MAX
+[Steel Roar 2 WARSHIP GUNNER [Another Ver]]
+[Organization value MAX]
 patch=1,EE,211F7404,extended,0001869F
 
-//Achievement value MAX
+[Achievement value MAX]
 patch=1,EE,211F740C,extended,3B9AC9FF

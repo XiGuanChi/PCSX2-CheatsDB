@@ -1,38 +1,38 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,00241660,extended,00000001
 
-//Cheats/Infinite Health ALT
+[Cheats/Infinite Health ALT]
 patch=1,EE,202438E8,extended,000F4240
 patch=1,EE,20256BB4,extended,000F4240
 patch=1,EE,20256C08,extended,000F4240
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,00241664,extended,00000001
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,1024015C,extended,0000FFFF
 patch=1,EE,0024015E,extended,000000FF
 
-//Cheats/Unlock All Bonuses-R1+L1+R2+L2+Sel
+[Cheats/Unlock All Bonuses-R1+L1+R2+L2+Sel]
 patch=1,EE,D033D382,extended,0000F0FE
 patch=1,EE,1024014C,extended,00005555
 patch=1,EE,D033D382,extended,0000F0FE
 patch=1,EE,0024014E,extended,00000005
 
-//Cheats/Unlock FMV Unlock D-Day
+[Cheats/Unlock FMV Unlock D-Day]
 patch=1,EE,00242F1B,extended,00000001
 
-//Cheats/Unlock FMV Needle In A Haystack
+[Cheats/Unlock FMV Needle In A Haystack]
 patch=1,EE,00242F13,extended,00000001
 
-//Cheats/Unlock FMV The Northen Nest
+[Cheats/Unlock FMV The Northen Nest]
 patch=1,EE,00242F19,extended,00000001
 
-//Cheats/Unlock FMV Rolling Thunder
+[Cheats/Unlock FMV Rolling Thunder]
 patch=1,EE,00242F17,extended,00000001
 
-//Cheats/Unlock FMV Several Bridges...
+[Cheats/Unlock FMV Several Bridges...]
 patch=1,EE,00242F15,extended,00000001
 
-//Cheats/Unlock FMV A Storm In...
+[Cheats/Unlock FMV A Storm In...]
 patch=1,EE,00242F11,extended,00000001

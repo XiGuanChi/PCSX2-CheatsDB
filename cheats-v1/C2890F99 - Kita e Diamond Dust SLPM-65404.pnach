@@ -1,7 +1,7 @@
-//Cheats/Max Possession Money 999,900
+[Cheats/Max Possession Money 999,900]
 patch=1,EE,202F669C,extended,000F41DC
 
-//Cheats/Time Initialization Press SELECT it will be 0:00 AM
+[Cheats/Time Initialization Press SELECT it will be 0:00 AM]
 patch=1,EE,D02FEE10,extended,00000100
 patch=1,EE,102F66A0,extended,00000000
 

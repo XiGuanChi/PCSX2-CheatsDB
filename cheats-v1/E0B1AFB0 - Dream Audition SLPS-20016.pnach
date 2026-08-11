@@ -1,10 +1,10 @@
-//Cheats/Infinite Bar Player 1
+[Cheats/Infinite Bar Player 1]
 patch=1,EE,2033ACC8,extended,00000100
 patch=1,EE,2033AD0C,extended,00000100
 
-//Cheats/Infinite Bar Player 2
+[Cheats/Infinite Bar Player 2]
 patch=1,EE,2033AD70,extended,00000100
 patch=1,EE,2033AE14,extended,00000100
 
-//Cheats/Main Menu Option = Debug SND Test Info Menu
+[Cheats/Main Menu Option = Debug SND Test Info Menu]
 patch=1,EE,2023B518,extended,0012FDD8

@@ -1,39 +1,39 @@
 gametitle=Battlestar Galactica	SLUS-20421
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,C6400444
 patch=1,EE,200C0224,extended,080694B0
 patch=1,EE,200C0228,extended,E6400440
 patch=1,EE,201A92CC,extended,0C030088
 
-//Machine Gun Never Overheats
+[Machine Gun Never Overheats]
 patch=1,EE,203304BC,extended,42C80000
 
-//Unlock All Movies
+[Unlock All Movies]
 patch=1,EE,0031B445,extended,0000000F
 
-//Unlock All Modelviewer
+[Unlock All Modelviewer]
 patch=1,EE,0031B6FC,extended,00000014
 
-//Unlock All Renders
+[Unlock All Renders]
 patch=1,EE,0031B6FD,extended,0000001A
 
-//Unlock All Concepts
+[Unlock All Concepts]
 patch=1,EE,0031B6FE,extended,0000001D
 
-//Unlock All Series Links
+[Unlock All Series Links]
 patch=1,EE,0031B6FF,extended,0000000A
 
-//Unlock All Outtakes
+[Unlock All Outtakes]
 patch=1,EE,0031B700,extended,00000003
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,0031B701,extended,00000010
 
-//Cheats Menu - Invincibility
+[Cheats Menu - Invincibility]
 patch=1,EE,20258724,extended,00000001
 
-//Cheats Menu - Missiles Maxed Out
+[Cheats Menu - Missiles Maxed Out]
 patch=1,EE,2025E340,extended,00000001
 
-//Cheats Menu - Wingmen Options
+[Cheats Menu - Wingmen Options]
 patch=1,EE,2025E348,extended,00000001

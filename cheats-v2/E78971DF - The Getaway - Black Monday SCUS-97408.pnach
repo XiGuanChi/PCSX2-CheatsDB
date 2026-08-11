@@ -1,17 +1,17 @@
 gametitle=The Getaway - Black Monday SCUS-97408
-//Infinite Health Getting crushed will still kill you.
+[Infinite Health Getting crushed will still kill you.]
 patch=1,EE,201A045C,extended,3C024100
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201ECAD0,extended,24630000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,201EC39C,extended,24420000
 
-//Max Taxi Fare
+[Max Taxi Fare]
 patch=1,EE,204C8328,extended,4479C000
 
-//Have All Key Rings
+[Have All Key Rings]
 patch=1,EE,20595B24,extended,01010101
 patch=1,EE,20595B28,extended,01010101
 patch=1,EE,20595B2C,extended,02020201
@@ -19,7 +19,7 @@ patch=1,EE,20595B30,extended,02020202
 patch=1,EE,20595B34,extended,02020202
 patch=1,EE,20595B38,extended,03030302
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,202DBBF0,extended,00071820
 patch=1,EE,2029142C,extended,24020001
 patch=1,EE,202BA4B0,extended,24020001

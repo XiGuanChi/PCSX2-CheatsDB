@@ -1,4 +1,4 @@
-//Cheats/Must be on CCC
+[Cheats/Must be on CCC]
 patch=1,EE,2014E718,extended,0803C000
 patch=1,EE,200F0100,extended,03E00008
 patch=1,EE,200F0000,extended,3C040005
@@ -8,19 +8,19 @@ patch=1,EE,200F000C,extended,3C01001F
 patch=1,EE,200F0010,extended,3425349C
 patch=1,EE,200F0014,extended,03E52820
 
-//Cheats/Player Level Rise Press L1
+[Cheats/Player Level Rise Press L1]
 patch=1,EE,200F0030,extended,30880004
 patch=1,EE,200F0034,extended,11000003
 patch=1,EE,200F0038,extended,20090008
 patch=1,EE,200F003C,extended,ACA94084
 
-//Cheats/Max Overdrive Gauge Press L2
+[Cheats/Max Overdrive Gauge Press L2]
 patch=1,EE,200F0050,extended,30880001
 patch=1,EE,200F0054,extended,11000003
 patch=1,EE,200F0058,extended,20090004
 patch=1,EE,200F005C,extended,ACA94088
 
-//Cheats/Unlock All Beyond
+[Cheats/Unlock All Beyond]
 patch=1,EE,200F0070,extended,200869F2
 patch=1,EE,200F0074,extended,3C090104
 patch=1,EE,200F0078,extended,70084788
@@ -40,7 +40,7 @@ patch=1,EE,200F00AC,extended,AD090510
 patch=1,EE,200F00B0,extended,AD090518
 patch=1,EE,200F00B4,extended,AD090520
 
-//Cheats/Press R2 Score + 10 R1+R2 Score +200
+[Cheats/Press R2 Score + 10 R1+R2 Score +200]
 patch=1,EE,200F00C0,extended,2008000A
 patch=1,EE,200F00C4,extended,3089000A
 patch=1,EE,200F00C8,extended,51280004

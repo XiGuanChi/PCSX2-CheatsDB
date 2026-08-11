@@ -1,11 +1,11 @@
 gametitle=Gun SLES-53523
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2031BBA8,extended,24420000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,206288B4,extended,43480000
 
-//Infinite Health (Horse)
+[Infinite Health (Horse)]
 patch=1,EE,200C2000,extended,C4400058
 patch=1,EE,200C2004,extended,E4400054
 patch=1,EE,200C2008,extended,03E00008
@@ -13,20 +13,20 @@ patch=1,EE,200C200C,extended,8E220048
 patch=1,EE,2031681C,extended,0C030800
 patch=1,EE,20316820,extended,00000000
 
-//Infinite Cash - Dodge City Onwards
+[Infinite Cash - Dodge City Onwards]
 patch=1,EE,206A066C,extended,05F5E0FF
 
-//Infinite Arrows
+[Infinite Arrows]
 patch=1,EE,2031BCA0,extended,00000000
 
-//Infinite Quickdraw
+[Infinite Quickdraw]
 patch=1,EE,20828CE8,extended,3F800000
 
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,206A06E4,extended,05F5E0FF
 
-//Infinite Whiskey
+[Infinite Whiskey]
 patch=1,EE,208178A4,extended,00000006
 
-//Infinite Dynamite
+[Infinite Dynamite]
 patch=1,EE,2031AEF8,extended,00000000

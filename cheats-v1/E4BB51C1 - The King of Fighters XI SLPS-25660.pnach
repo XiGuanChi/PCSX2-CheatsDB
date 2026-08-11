@@ -1,12 +1,12 @@
-//Cheats/Infinite Health All Characters P1
+[Cheats/Infinite Health All Characters P1]
 patch=1,EE,009BDCA4,extended,00000070
 patch=1,EE,009BDCC4,extended,00000070
 patch=1,EE,009BDCE4,extended,00000070
 
-//Cheats/2P One Hit KO
+[Cheats/2P One Hit KO]
 patch=1,EE,009BDEEC,extended,00000001
 patch=1,EE,009BDF0C,extended,00000001
 patch=1,EE,009BDF2C,extended,00000001
 
-//Cheats/Unlock All Hidden Characters
+[Cheats/Unlock All Hidden Characters]
 patch=1,EE,109BEC80,extended,00003FFF

@@ -1,22 +1,22 @@
 gametitle=Izumo Zero SLPM-66764
-//Boot to Debug Menu
+[Boot to Debug Menu]
 patch=1,EE,0038F970,extended,0000003C
 patch=1,EE,1038F978,extended,00003178
 patch=1,EE,203C3178,extended,6E69616D
 patch=1,EE,203C317C,extended,6265645F
 patch=1,EE,203C3180,extended,00006775
 
-//Cancels the jade use is the MAX number
+[Cancels the jade use is the MAX number]
 patch=1,EE,20190B84,extended,03BF100A
 
-//Cancels the jade non- incantation law use to be possible
+[Cancels the jade non- incantation law use to be possible]
 patch=1,EE,20186014,extended,10000032
 
-//Cancels the jade non- incantation law possibly to practice
+[Cancels the jade non- incantation law possibly to practice]
 patch=1,EE,201870FC,extended,1000000E
 
-//Cancels equipment processing to be possible the & limit breakthrough
+[Cancels equipment processing to be possible the & limit breakthrough]
 patch=1,EE,2018790C,extended,10000018
 
-//ALL role clothing
+[ALL role clothing]
 patch=1,EE,00876A9C,extended,0000FDFF

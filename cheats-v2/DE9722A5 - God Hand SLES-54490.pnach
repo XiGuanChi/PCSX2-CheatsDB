@@ -1,29 +1,29 @@
 gametitle=God Hand SLES-54490
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,2056D4F0,extended,000F423F
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2012C290,extended,00000000
 
-//Max Tension Gauge
+[Max Tension Gauge]
 patch=1,EE,205CFE00,extended,43C80000
 
-//Infinite Tension Gauge
+[Infinite Tension Gauge]
 patch=1,EE,205CFE04,extended,43C80000
 
-//Infinite Orbs
+[Infinite Orbs]
 patch=1,EE,2056D578,extended,01010101
 
-//Max Infinite Orbs
+[Max Infinite Orbs]
 patch=1,EE,201FB170,extended,24020003
 patch=1,EE,201FB174,extended,A0820156
 patch=1,EE,2056D578,extended,01010101
 
-//Meter Always Die Level
+[Meter Always Die Level]
 patch=1,EE,1056D4EC,extended,00001400
 
-//Unlock All Techniques
+[Unlock All Techniques]
 patch=1,EE,201FB548,extended,A06000B0
 
-//All Roulettes Available
+[All Roulettes Available]
 patch=1,EE,201FBF28,extended,24020001

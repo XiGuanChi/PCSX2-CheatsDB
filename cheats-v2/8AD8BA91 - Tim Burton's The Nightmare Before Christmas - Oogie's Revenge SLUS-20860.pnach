@@ -1,28 +1,28 @@
 gametitle=Tim Burton's The Nightmare Before Christmas - Oogie's Revenge SLUS-20860
-//Max Health
+[Max Health]
 patch=1,EE,2049B494,extended,0000001E
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2049B498,extended,0000001E
 
-//4 Crystal Skulls
+[4 Crystal Skulls]
 patch=1,EE,2049B54C,extended,00000004
 
-//Unlock All ChaptersE
-//1010393 0D318797
+[Unlock All ChaptersE]
+[1010393 0D318797]
 
-//Have All Collection
+[Have All Collection]
 patch=1,EE,404F28A0,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Unlock All Figures
+[Unlock All Figures]
 patch=1,EE,404F28AC,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Unlock All Music Tracks
+[Unlock All Music Tracks]
 patch=1,EE,204F28B8,extended,FFFFFFFF
 patch=1,EE,204F28BC,extended,FFFFFFFF
 
-//Unlock All Movie Clips
+[Unlock All Movie Clips]
 patch=1,EE,404F28C0,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000

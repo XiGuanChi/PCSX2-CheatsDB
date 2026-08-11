@@ -1,16 +1,16 @@
 gametitle=Nano Breaker SLES-52964
-//Infinite HP Michelle
+[Infinite HP Michelle]
 patch=1,EE,204A9538,extended,43480000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,204D0098,extended,43480000
 patch=1,EE,204d0090,extended,43480000
 
-//infinite Booster
+[infinite Booster]
 patch=1,EE,204d009c,extended,42c80000
 patch=1,EE,204d0094,extended,42c80000
 
-//Total Gallons
+[Total Gallons]
 patch=1,EE,200C2030,extended,3C0105F5
 patch=1,EE,200C2034,extended,3421E100
 patch=1,EE,200C2038,extended,AC41000C
@@ -19,15 +19,15 @@ patch=1,EE,200C2040,extended,00011020
 patch=1,EE,201E4154,extended,00000000
 patch=1,EE,201E4158,extended,0803080C
 
-//Combo Chips
+[Combo Chips]
 patch=1,EE,201E2928,extended,00000000
 patch=1,EE,201E29F8,extended,24040009
 patch=1,EE,201E29FC,extended,A604001C
 
-//One Hit Kill
+[One Hit Kill]
 patch=1,EE,2013E8EC,extended,44800000
 patch=1,EE,2026D8E4,extended,44800000
 
-//have all Extras Use once 
+[have all Extras Use once]
 patch=1,EE,20153D3C,extended,24020001
 patch=1,EE,201540B0,extended,24020001

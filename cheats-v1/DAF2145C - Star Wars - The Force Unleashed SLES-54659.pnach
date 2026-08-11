@@ -1,17 +1,17 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,202B22E8,extended,00000000
 
-//Cheats/Infinite Force Power
+[Cheats/Infinite Force Power]
 patch=1,EE,202BB130,extended,00000000
 patch=1,EE,202BB228,extended,00000000
 
-//Cheats/Infinite Force Points
+[Cheats/Infinite Force Points]
 patch=1,EE,203ED0F8,extended,00000000
 
-//Cheats/Max Infinite Force Points
+[Cheats/Max Infinite Force Points]
 patch=1,EE,20A49F50,extended,3B9AC9FF
 
-//Cheats/1 Hit Death Enemies
+[Cheats/1 Hit Death Enemies]
 patch=1,EE,200C0230,extended,8C410470
 patch=1,EE,200C0234,extended,3C033F80
 patch=1,EE,200C0238,extended,0023082B
@@ -21,7 +21,7 @@ patch=1,EE,200C0244,extended,08086934
 patch=1,EE,200C0248,extended,C4410470
 patch=1,EE,2021A4CC,extended,0803008C
 
-//Cheats/1 Hit Death Boss
+[Cheats/1 Hit Death Boss]
 patch=1,EE,200C0250,extended,8C410470
 patch=1,EE,200C0254,extended,3C033F80
 patch=1,EE,200C0258,extended,0023082B
@@ -31,43 +31,43 @@ patch=1,EE,200C0264,extended,080A524C
 patch=1,EE,200C0268,extended,C4410470
 patch=1,EE,2029492C,extended,08030094
 
-//Cheats/Have All Force Powers
+[Cheats/Have All Force Powers]
 patch=1,EE,203ED558,extended,24010000
 patch=1,EE,203ED560,extended,ACE10030
 
-//Cheats/Have All Force Powers At Maximum Level
+[Cheats/Have All Force Powers At Maximum Level]
 patch=1,EE,200C0220,extended,24040003
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AC440030
 patch=1,EE,203ECC34,extended,0C030088
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,2021EE60,extended,24020001
 
-//Cheats/Have All Color Crytals
+[Cheats/Have All Color Crytals]
 patch=1,EE,203EA1A0,extended,24010007
 patch=1,EE,203EA1A4,extended,A0810000
 
-//Cheats/Have All Combat Crystals
+[Cheats/Have All Combat Crystals]
 patch=1,EE,203E959C,extended,240100FF
 patch=1,EE,203E95A4,extended,A0C10000
 
-//Cheats/Have All Saber Hilt
+[Cheats/Have All Saber Hilt]
 patch=1,EE,203EB238,extended,2401FFFF
 patch=1,EE,203EB240,extended,A0A10000
 
-//Cheats/Unlock Have All Holocron
+[Cheats/Unlock Have All Holocron]
 patch=1,EE,2040F6A0,extended,2401FFFF
 patch=1,EE,2040F6A8,extended,A1610000
 patch=1,EE,2040E60C,extended,2401FFFF
 patch=1,EE,2040E614,extended,A1010000
 
-//Cheats/Unlock Have All Jedi Holocron
+[Cheats/Unlock Have All Jedi Holocron]
 patch=1,EE,20456D14,extended,2401FFFF
 patch=1,EE,20456D1C,extended,A0810000
 
-//Cheats/Activated Cheat Invincible
+[Cheats/Activated Cheat Invincible]
 patch=1,EE,207B04D0,extended,00000001
 
-//Cheats/Activated Cheat Infinite Force Power
+[Cheats/Activated Cheat Infinite Force Power]
 patch=1,EE,207B04D4,extended,00000001

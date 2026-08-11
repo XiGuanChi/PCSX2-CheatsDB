@@ -1,31 +1,31 @@
 gametitle=Dynasty Warriors 4 - Xtreme Legends SLUS-20812
-//Max Gold
+[Max Gold]
 patch=1,EE,20465D98,extended,0098967F
 
-//Have All Movies
+[Have All Movies]
 patch=1,EE,20463F80,extended,FFFFFFFF
 
-//Can Always Do Musou Move (Press ps2_kreis.gif )
+[Can Always Do Musou Move (Press ps2_kreis.gif )]
 patch=1,EE,201C48CC,extended,00000000
 
-//Max K.O. Count Player 1
+[Max K.O. Count Player 1]
 patch=1,EE,1046E4F8,extended,0000270F
 
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,105384FE,extended,00001C00
 
-//Max Health Player 1
+[Max Health Player 1]
 patch=1,EE,105384FC,extended,000001C0
 
-//Max Musou Player 1
+[Max Musou Player 1]
 patch=1,EE,10538502,extended,000000C0
 
-//Max Infinite Musou Player 1
+[Max Infinite Musou Player 1]
 patch=1,EE,10538502,extended,000000C0
 patch=1,EE,10538504,extended,00000C00
 
-//Have All Powerups Player 1
+[Have All Powerups Player 1]
 patch=1,EE,005384C0,extended,000000F0
 
-//Have All Orb Powers Player 1
+[Have All Orb Powers Player 1]
 patch=1,EE,005384C1,extended,0000005F

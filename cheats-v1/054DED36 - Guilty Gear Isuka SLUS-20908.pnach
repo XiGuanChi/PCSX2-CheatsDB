@@ -1,13 +1,13 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,11F80016,extended,000001A4
 
-//Cheats/1 Hit Death P2
+[Cheats/1 Hit Death P2]
 patch=1,EE,D1F8015A,extended,000001A4
 patch=1,EE,11F8015A,extended,00000001
 
-//Cheats/Max Purchase Techniques Funds
+[Cheats/Max Purchase Techniques Funds]
 patch=1,EE,203B3ECC,extended,000F423F
 patch=1,EE,203B3ED0,extended,000F423F
 
-//Cheats/Max Total Data Bank Points
+[Cheats/Max Total Data Bank Points]
 patch=1,EE,203B3ED0,extended,000F423F

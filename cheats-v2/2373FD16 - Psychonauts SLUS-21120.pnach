@@ -1,18 +1,18 @@
 gametitle=Psychonauts SLUS-21120
-//P1 Hold L1+R1, Then Press Circle For Max Ammo
+[P1 Hold L1+R1, Then Press Circle For Max Ammo]
 patch=1,EE,D036EE42,extended,0000D3FF
 patch=1,EE,2020CA7C,extended,00000000
 patch=1,EE,D036EE42,extended,0000FFFF
 patch=1,EE,2020CA7C,extended,14400012
 
-//All Power Upgrades (Hold [L1] + [R1] Then Press [R2])
+[All Power Upgrades (Hold [L1] + [R1] Then Press [R2])]
 patch=1,EE,20369CB0,extended,00000085
 patch=1,EE,20369CB4,extended,00000000
 
-//All Powers (Hold [L1] + [R1] Then Press [Cross])
+[All Powers (Hold [L1] + [R1] Then Press [Cross])]
 patch=1,EE,20369C88,extended,00000080
 patch=1,EE,20369C8C,extended,00000000
 
-//Invincible (Hold [L1] + [R1] Then Press [L2])
+[Invincible (Hold [L1] + [R1] Then Press [L2])]
 patch=1,EE,20369C98,extended,00000082
 patch=1,EE,20369C9C,extended,00000000

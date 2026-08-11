@@ -1,5 +1,5 @@
 gametitle=Lara Croft - Tomb Raider - Underworld SLPS-25927
-//Invincible
+[Invincible]
 patch=1,EE,200C0220,extended,3C01447A
 patch=1,EE,200C0224,extended,AC410638
 patch=1,EE,200C0228,extended,AC410650
@@ -8,33 +8,33 @@ patch=1,EE,200C0230,extended,C4400638
 patch=1,EE,20272E5C,extended,0C030088
 patch=1,EE,102729F8,extended,00001000
 
-//One Shot-Kill Enemy
+[One Shot-Kill Enemy]
 patch=1,EE,201B5B14,extended,ACC00004
 
-//Infinite Ammmo With No Reload
+[Infinite Ammmo With No Reload]
 patch=1,EE,20254E04,extended,00000000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,2022CE94,extended,00000000
 
-//Max Infinite Grenades
+[Max Infinite Grenades]
 patch=1,EE,2022CE8C,extended,2402000A
 
-//Have All Max Treasures
+[Have All Max Treasures]
 patch=1,EE,2015BADC,extended,240203E7
 patch=1,EE,2015BA84,extended,240203E7
 
-//Debug Menu Codes God Mode
+[Debug Menu Codes God Mode]
 patch=1,EE,205FF840,extended,00000001
 
-//Have All Unlockables Revisit Location & Story Boards
+[Have All Unlockables Revisit Location & Story Boards]
 patch=1,EE,20104AD4,extended,2402000F
 
-//Environment Concepts
+[Environment Concepts]
 patch=1,EE,10106EBE,extended,00001000
 
-//Character Concepts
+[Character Concepts]
 patch=1,EE,1010635E,extended,00001000
 
-//Gear Concepts
+[Gear Concepts]
 patch=1,EE,1010725E,extended,00001000

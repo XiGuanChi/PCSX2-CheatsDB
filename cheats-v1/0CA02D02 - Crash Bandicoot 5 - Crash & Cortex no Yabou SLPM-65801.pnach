@@ -1,12 +1,12 @@
-//Cheats/Infinite Lives Gems
+[Cheats/Infinite Lives Gems]
 patch=1,EE,10982B50,extended,00003200
 
-//Cheats/Invincibility Hold Select Back to disable
+[Cheats/Invincibility Hold Select Back to disable]
 patch=1,EE,20137614,extended,24020006
 patch=1,EE,D0BAF682,extended,0000FFFE
 patch=1,EE,20137614,extended,8E620014
 
-//Cheats/100% Completion
+[Cheats/100% Completion]
 patch=1,EE,00982B57,extended,00000063
 patch=1,EE,40982B84,extended,00100001
 patch=1,EE,FFFFFFFF,extended,00000000

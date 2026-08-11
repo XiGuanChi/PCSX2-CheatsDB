@@ -1,11 +1,11 @@
 gametitle=Rumble Racing SLES-50120
-//Stunt Chall Big Score
+[Stunt Chall Big Score]
 patch=1,EE,1024E940,extended,0000FFFF
 patch=1,EE,1024E942,extended,0000FFFF
 patch=1,EE,101F6BBC,extended,0000FFFF
 patch=1,EE,101F6BBE,extended,00000FFF
 
-//Open All Cars 1
+[Open All Cars 1]
 patch=1,EE,2022CF40,extended,01010101
 patch=1,EE,2022CF44,extended,01010101
 patch=1,EE,2022CF48,extended,01010101
@@ -18,7 +18,7 @@ patch=1,EE,2022CF60,extended,01010101
 patch=1,EE,2022CF64,extended,01010101
 patch=1,EE,2022CF68,extended,01010101
 
-//Open All Cars 2
+[Open All Cars 2]
 patch=1,EE,2022CF6C,extended,01010101
 patch=1,EE,2022CF70,extended,01010101
 patch=1,EE,2022CF74,extended,01010101
@@ -37,10 +37,10 @@ patch=1,EE,2022CFA4,extended,01010101
 patch=1,EE,2022CFA8,extended,01010101
 patch=1,EE,2022CFAC,extended,01010101
 
-//ll Tracks Open
+[ll Tracks Open]
 patch=1,EE,2022CFB4,extended,01010101
 patch=1,EE,2022CFB8,extended,01010101
 patch=1,EE,2022CFBC,extended,01010101
 
-//Super Traction
+[Super Traction]
 patch=1,EE,20F43EB4,extended,10000005

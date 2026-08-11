@@ -1,17 +1,17 @@
-//Cheats/Infinite Panic Fiona
+[Cheats/Infinite Panic Fiona]
 patch=1,EE,202F0794,extended,AE20001C
 
-//Cheats/Take No Damage Fiona
+[Cheats/Take No Damage Fiona]
 patch=1,EE,101A22AA,extended,00001000
 
-//Cheats/Infinite Health Dog
+[Cheats/Infinite Health Dog]
 patch=1,EE,20164E60,extended,8E2414CC
 patch=1,EE,20164E64,extended,AE2414C8
 
-//Cheats/Stand Still To Be Invisible
+[Cheats/Stand Still To Be Invisible]
 patch=1,EE,201A2BB4,extended,00000000
 patch=1,EE,201A2C24,extended,00000000
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,40487A24,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000

@@ -1,13 +1,13 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF00,extended,8C94001C
 patch=1,EE,200FFF04,extended,AC940018
 patch=1,EE,200FFF0C,extended,080C5C50
 patch=1,EE,200FFF08,extended,0080982D
 patch=1,EE,20317138,extended,0803FFC0
 
-//Cheats/Infinite Ammo And No Reloads
+[Cheats/Infinite Ammo And No Reloads]
 patch=1,EE,20326A2C,extended,00000000
 
-//Cheats/Infinite Items And Grenades
+[Cheats/Infinite Items And Grenades]
 patch=1,EE,202AF2A0,extended,00000000
 

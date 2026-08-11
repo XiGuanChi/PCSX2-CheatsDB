@@ -1,47 +1,47 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,2059AF78,extended,00A0082A
 patch=1,EE,2059AFB8,extended,00A0082A
 
-//Cheats/Halo Score 131072
+[Cheats/Halo Score 131072]
 patch=1,EE,203626B0,extended,3C020002
 
-//Cheats/Infinite EN In Battle
+[Cheats/Infinite EN In Battle]
 patch=1,EE,203021C8,extended,00021000
 
-//Cheats/Infinite Action Possible Press Select+Left ON Select+Right OFF
+[Cheats/Infinite Action Possible Press Select+Left ON Select+Right OFF]
 patch=1,EE,D07EA042,extended,0000FF7E
 patch=1,EE,20577C38,extended,2402FFFF
 patch=1,EE,D07EA042,extended,0000FFDE
 patch=1,EE,20577C38,extended,2402FFFE
 
-//Cheats/CAPITAL 9999999
+[Cheats/CAPITAL 9999999]
 patch=1,EE,2059AFBC,extended,00000000
 
-//Cheats/Unlock All Option Parts List
+[Cheats/Unlock All Option Parts List]
 patch=1,EE,204E4F08,extended,24010001
 patch=1,EE,204E4F0C,extended,A041000E
 
-//Cheats/Unlock All Production List during unit production
+[Cheats/Unlock All Production List during unit production]
 patch=1,EE,204EC54C,extended,24030001
 patch=1,EE,204EC554,extended,A2230006
 
-//Cheats/Unlock Profile 100% Character
+[Cheats/Unlock Profile 100% Character]
 patch=1,EE,203F26EC,extended,24020001
 patch=1,EE,203F26F0,extended,8E010118
 patch=1,EE,203F26F4,extended,00230821
 patch=1,EE,203F26FC,extended,A0220000
 
-//Cheats/Score Increases In Battle
+[Cheats/Score Increases In Battle]
 patch=1,EE,203626A8,extended,3C013B9A 
 patch=1,EE,203626B0,extended,3422C9FF
 
-//Cheats/Unit Acquisition EXP Multiplier ON SELECT+L1 OFF SELECT+L2
+[Cheats/Unit Acquisition EXP Multiplier ON SELECT+L1 OFF SELECT+L2]
 patch=1,EE,D07EA042,extended,0000FEFE
 patch=1,EE,203CB288,extended,00A0902D
 patch=1,EE,D07EA042,extended,0000FBFE
 patch=1,EE,203CB288,extended,00059080 
 
-//Cheats/Pilot EXP Multiplier ON SELECT+L1 OFF SELECT+L2
+[Cheats/Pilot EXP Multiplier ON SELECT+L1 OFF SELECT+L2]
 patch=1,EE,D07EA042,extended,0000FEFE
 patch=1,EE,203CB288,extended,00A0802D
 patch=1,EE,D07EA042,extended,0000FBFE

@@ -1,34 +1,34 @@
 gametitle=Rapala Pro Fishing SLUS-21012
-//Infinite Line Tension
+[Infinite Line Tension]
 patch=1,EE,200C0220,extended,3C013F00
 patch=1,EE,200C0224,extended,AC810208
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C4800208
 patch=1,EE,20403A40,extended,08030088
 
-//Player 1 Press L1 + select To Restart Tournament Timer
+[Player 1 Press L1 + select To Restart Tournament Timer]
 patch=1,EE,D05C18C2,extended,0000FBFE
 patch=1,EE,204526CC,extended,00000000
 
-//Player 1 Press L2 + select To Restart Tournament Timer
+[Player 1 Press L2 + select To Restart Tournament Timer]
 patch=1,EE,D05C18C2,extended,0000FEFE
 patch=1,EE,204526CC,extended,E480007C
 
-//View Lines To Unlock Them
+[View Lines To Unlock Them]
 patch=1,EE,2045EE94,extended,A040010D
 patch=1,EE,1045EE9A,extended,00001000
 patch=1,EE,1045EEBC,extended,00000000
 
-//View Lures To Unlock Them
+[View Lures To Unlock Them]
 patch=1,EE,2045FCB4,extended,A040021D
 patch=1,EE,1045FCBA,extended,00001000
 patch=1,EE,1045FCDC,extended,00000000
 
-//View Fishing Rods To Unlock Them
+[View Fishing Rods To Unlock Them]
 patch=1,EE,204610E4,extended,A040009D
 patch=1,EE,104610EA,extended,10000000
 patch=1,EE,1046110C,extended,00000000
 
-//Unlock All Locations
+[Unlock All Locations]
 patch=1,EE,405CFC1C,extended,0015000D
 patch=1,EE,00000000,extended,00000000

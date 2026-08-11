@@ -1,25 +1,25 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,205C835C,extended,05F50FAB
 patch=1,EE,205C8360,extended,05F50FAB
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF00,extended,3C0542C8
 patch=1,EE,200FFF04,extended,AC450368
 patch=1,EE,200FFF08,extended,03E00008
 patch=1,EE,200FFF0C,extended,46000024
 patch=1,EE,202D2F44,extended,0C03FFC0
 
-//Cheats/Infinite Armour
+[Cheats/Infinite Armour]
 patch=1,EE,200FFF00,extended,3C0542C8
 patch=1,EE,200FFF04,extended,AC45036C
 patch=1,EE,200FFF08,extended,03E00008
 patch=1,EE,200FFF0C,extended,46000836
 patch=1,EE,202D2F44,extended,0C03FFC0
 
-//Cheats/Freeze Mission Timer
+[Cheats/Freeze Mission Timer]
 patch=1,EE,20270378,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,201588A0,extended,24420000
 patch=1,EE,20158908,extended,24420000
 patch=1,EE,2015812C,extended,24420000

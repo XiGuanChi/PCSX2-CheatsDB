@@ -1,14 +1,14 @@
-//Cheats/Max Funds after 1 turn
+[Cheats/Max Funds after 1 turn]
 patch=1,EE,20151B5C,extended,14000004
 
-//Cheats/Warrior Max HP
+[Cheats/Warrior Max HP]
 patch=1,EE,101FDEF0,extended,0000270F
 
-//Cheats/Search infinitely feasible
+[Cheats/Search infinitely feasible]
 patch=1,EE,D1C21312,extended,00000100
 patch=1,EE,01C21313,extended,00000000
 
-//Cheats/Item ALL 99 pieces
+[Cheats/Item ALL 99 pieces]
 patch=1,EE,01C21297,extended,00000063
 patch=1,EE,21C21298,extended,63636363
 patch=1,EE,21C2129C,extended,63636363

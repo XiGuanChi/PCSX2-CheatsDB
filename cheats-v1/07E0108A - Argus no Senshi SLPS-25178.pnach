@@ -1,13 +1,13 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,104B15F4,extended,00001388
 
-//Cheats/Infinite Icol
+[Cheats/Infinite Icol]
 patch=1,EE,104B15FC,extended,000004B0
 
-//Cheats/Max Points
+[Cheats/Max Points]
 patch=1,EE,204B1618,extended,0000270F
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,404AC5D8,extended,00120001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,104AC620,extended,0000FFFF

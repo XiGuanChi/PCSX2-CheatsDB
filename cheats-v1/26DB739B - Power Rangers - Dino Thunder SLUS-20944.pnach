@@ -1,38 +1,38 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,94C305B0
 patch=1,EE,200C0224,extended,080636BA
 patch=1,EE,200C0228,extended,A4C305B4
 patch=1,EE,2018DAE4,extended,08030088
 
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,200C0230,extended,24120005
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,A4B205B0
 patch=1,EE,2018D8A0,extended,0C03008C
 
-//Cheats/Infinite Dino Bolts
+[Cheats/Infinite Dino Bolts]
 patch=1,EE,10606E42,extended,00000063
 
-//Cheats/Infinite Dino Darts
+[Cheats/Infinite Dino Darts]
 patch=1,EE,10606E44,extended,00000063
 
-//Cheats/Infinite Dino Claws
+[Cheats/Infinite Dino Claws]
 patch=1,EE,10606E46,extended,00000063
 
-//Cheats/Unlock All Power Games
+[Cheats/Unlock All Power Games]
 patch=1,EE,20606E34,extended,00000002
 patch=1,EE,20606E38,extended,00100101
 patch=1,EE,20606E40,extended,0000003E
 
-//Cheats/Unlock All Zords
+[Cheats/Unlock All Zords]
 patch=1,EE,20606E34,extended,0000003F
 patch=1,EE,20606E38,extended,0000003F
 patch=1,EE,20606E3C,extended,0000003E
 patch=1,EE,20606E60,extended,00000048
 
-//Cheats/Unlock All Mesogog's Army
+[Cheats/Unlock All Mesogog's Army]
 patch=1,EE,20606E60,extended,0000003F
 
-//Cheats/Unlock Movie Theater All Movies
+[Cheats/Unlock Movie Theater All Movies]
 patch=1,EE,20606E65,extended,000000FE
 patch=1,EE,20606E66,extended,000000FF

@@ -1,71 +1,71 @@
 gametitle=Monster 4x4 - Masters of Metal SLUS-20796
-//Access All Trucks/Tracks
+[Access All Trucks/Tracks]
 patch=1,EE,0039DAD9,extended,00000001
 
-//Infinite Time (Exchibition Mode)
+[Infinite Time (Exchibition Mode)]
 patch=1,EE,D03D1D30,extended,0000D148
 patch=1,EE,203D1D48,extended,00000000
 
-//Always Low Lap Time (Stadium Mode)
+[Always Low Lap Time (Stadium Mode)]
 patch=1,EE,D03EE2E0,extended,00006506
 patch=1,EE,203EE2FC,extended,AE800550
 
-//Unlock All Trucks
+[Unlock All Trucks]
 patch=1,EE,4039DA74,extended,00050001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,1039DA88,extended,00000101
 patch=1,EE,0039DA8A,extended,00000001
 
-//Have All Offroad Stars
+[Have All Offroad Stars]
 patch=1,EE,4039D2AC,extended,000D0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,1039D2E0,extended,00000101
 
-//== Offroad Mode Codes ==
+[== Offroad Mode Codes ==]
 
-//Always Low Lap Time
+[Always Low Lap Time]
 patch=1,EE,D03E1BB0,extended,00006506
 patch=1,EE,203E1BCC,extended,AE80056C
 
-//press x 1 Checkpoint To Win
+[press x 1 Checkpoint To Win]
 patch=1,EE,D03F00C4,extended,00001021
 patch=1,EE,203F00EC,extended,00000000
 
-//Infinite Powerups
+[Infinite Powerups]
 patch=1,EE,203D65A0,extended,00000000
 
-//Infinite Powerup Usage
+[Infinite Powerup Usage]
 patch=1,EE,203D6774,extended,3C013F80
 patch=1,EE,203D6778,extended,44810000
 
-//Get 1 Gold $$ For Max Money
+[Get 1 Gold $$ For Max Money]
 patch=1,EE,203DB5DC,extended,3C030001
 patch=1,EE,203DB5F0,extended,3462869F
 
-//== Champ Tour Codes ==
+[== Champ Tour Codes ==]
 
-//Max Cash
+[Max Cash]
 patch=1,EE,2039D1D0,extended,05F5E0FF
 
-//Player 1  l1. + select.For More Tanks To Assign
+[Player 1  l1. + select.For More Tanks To Assign]
 patch=1,EE,D02C19C2,extended,0000FBFE
 patch=1,EE,20394970,extended,0000000C
 
-//Player 1 Press l2. + select For No Tanks To Assign
+[Player 1 Press l2. + select For No Tanks To Assign]
 patch=1,EE,D02C19C2,extended,0000FEFE
 patch=1,EE,20394970,extended,00000000
 
-//All Trucks Cost
+[All Trucks Cost]
 patch=1,EE,4039D31C,extended,00170015
 patch=1,EE,00000000,extended,00000000
 
-//Unlock All Offroad/Stadium/Exhibition Tracks
+[Unlock All Offroad/Stadium/Exhibition Tracks]
 patch=1,EE,4039D28C,extended,00070001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,0039D2A8,extended,00000001
 
 
-//Race Event & Training  Unlock All Offroad, Stadium, Exhibition Tracks
+[Race Event & Training  Unlock All Offroad, Stadium, Exhibition Tracks]
 patch=1,EE,1039D18E,extended,00000101
 patch=1,EE,4039D190,extended,00060001
 patch=1,EE,01010101,extended,00000000

@@ -1,187 +1,187 @@
 gametitle=Mister Mosquito [SLUS-20375] [33D2AA72]
 
-//Disable Alarm Sounding
+[Disable Alarm Sounding]
 author=GamingDragon93
 description=Disable Alarm Sounding
-// Disable Alarm Sounding
+[Disable Alarm Sounding]
 patch=1,EE,F0100008,extended,0010B68F
 
-//Have All Colors
+[Have All Colors]
 author=GamingDragon93
 description=Have All Colors
-// Have All Colors
+[Have All Colors]
 patch=1,EE,1038B4D8,extended,0000FFFF
 
-//Max Extra Tanks
+[Max Extra Tanks]
 author=GamingDragon93
 description=Max Extra Tanks
-// Max Extra Tanks
+[Max Extra Tanks]
 patch=1,EE,1038B610,extended,0000000F
 
-//Max Ex. B
+[Max Ex. B]
 author=GamingDragon93
 description=Max Ex. B
-// Max Ex. B
+[Max Ex. B]
 patch=1,EE,1038B654,extended,00000050
 
-//Infinite Health
+[Infinite Health]
 author=GamingDragon93
 description=Infinite Health
-// Infinite Health
+[Infinite Health]
 patch=1,EE,103992FC,extended,00000028
 
-//Max Health
+[Max Health]
 author=GamingDragon93
 description=Max Health
-// Max Health
+[Max Health]
 patch=1,EE,10399300,extended,00000014
 
-//Suck Blood Quicker
+[Suck Blood Quicker]
 author=GamingDragon93
 description=Suck Blood Quicker
-// Suck Blood Quicker
+[Suck Blood Quicker]
 patch=1,EE,2039931C,extended,42C80000
 
-//Max Rocket Gauge P1
+[Max Rocket Gauge P1]
 author=GamingDragon93
 description=Max Rocket Gauge P1
-// Max Rocket Gauge P1
+[Max Rocket Gauge P1]
 patch=1,EE,2066AA14,extended,42C80000
 
-//No Rocket Gauge P1
+[No Rocket Gauge P1]
 author=GamingDragon93
 description=No Rocket Gauge P1
-// No Rocket Gauge P1
+[No Rocket Gauge P1]
 patch=1,EE,2066AA10,extended,00000000
 
-//P1 Press {CROSS} For Hover Mode
+[P1 Press {CROSS} For Hover Mode]
 author=GamingDragon93
 description=P1 Press {CROSS} For Hover Mode
-// P1 Press {CROSS} For Hover Mode
+[P1 Press {CROSS} For Hover Mode]
 patch=1,EE,D038DEC2,extended,0000BFFF
 
-//P1 Press {CROSS} For Hover Mode
+[P1 Press {CROSS} For Hover Mode]
 author=GamingDragon93
 description=P1 Press {CROSS} For Hover Mode
-// P1 Press {CROSS} For Hover Mode
+[P1 Press {CROSS} For Hover Mode]
 patch=1,EE,20707456,extended,C3FA0000
 
-//Start With 50 Wins P1
+[Start With 50 Wins P1]
 author=GamingDragon93
 description=Start With 50 Wins P1
-// Start With 50 Wins P1
+[Start With 50 Wins P1]
 patch=1,EE,D07085C0,extended,00000000
 
-//Start With 50 Wins P1
+[Start With 50 Wins P1]
 author=GamingDragon93
 description=Start With 50 Wins P1
-// Start With 50 Wins P1
+[Start With 50 Wins P1]
 patch=1,EE,107085C0,extended,00000032
 
-//Start With 20 Wins P1
+[Start With 20 Wins P1]
 author=GamingDragon93
 description=Start With 20 Wins P1
-// Start With 20 Wins P1
+[Start With 20 Wins P1]
 patch=1,EE,D07085C0,extended,00000000
 
-//Start With 20 Wins P1
+[Start With 20 Wins P1]
 author=GamingDragon93
 description=Start With 20 Wins P1
-// Start With 20 Wins P1
+[Start With 20 Wins P1]
 patch=1,EE,107085C0,extended,00000014
 
-//Start With 10 Wins P1
+[Start With 10 Wins P1]
 author=GamingDragon93
 description=Start With 10 Wins P1
-// Start With 10 Wins P1
+[Start With 10 Wins P1]
 patch=1,EE,D07085C0,extended,00000000
 
-//Start With 10 Wins P1
+[Start With 10 Wins P1]
 author=GamingDragon93
 description=Start With 10 Wins P1
-// Start With 10 Wins P1
+[Start With 10 Wins P1]
 patch=1,EE,107085C0,extended,0000000A
 
-//Never Gain Wins P1
+[Never Gain Wins P1]
 author=GamingDragon93
 description=Never Gain Wins P1
-// Never Gain Wins P1
+[Never Gain Wins P1]
 patch=1,EE,D07085C0,extended,00200002
 
-//Never Gain Wins P1
+[Never Gain Wins P1]
 author=GamingDragon93
 description=Never Gain Wins P1
-// Never Gain Wins P1
+[Never Gain Wins P1]
 patch=1,EE,107085C0,extended,00000000
 
-//Max Rocket Gauge P2
+[Max Rocket Gauge P2]
 author=GamingDragon93
 description=Max Rocket Gauge P2
-// Max Rocket Gauge P2
+[Max Rocket Gauge P2]
 patch=1,EE,2066AA18,extended,42C80000
 
-//No Rocket Gauge P2
+[No Rocket Gauge P2]
 author=GamingDragon93
 description=No Rocket Gauge P2
-// No Rocket Gauge P2
+[No Rocket Gauge P2]
 patch=1,EE,2066AA18,extended,00000000
 
-//P2 Press {CROSS} For Hover Mode
+[P2 Press {CROSS} For Hover Mode]
 author=GamingDragon93
 description=P2 Press {CROSS} For Hover Mode
-// P2 Press {CROSS} For Hover Mode
+[P2 Press {CROSS} For Hover Mode]
 patch=1,EE,D0391EC2,extended,0000BFFF
 
-//P2 Press {CROSS} For Hover Mode
+[P2 Press {CROSS} For Hover Mode]
 author=GamingDragon93
 description=P2 Press {CROSS} For Hover Mode
-// P2 Press {CROSS} For Hover Mode
+[P2 Press {CROSS} For Hover Mode]
 patch=1,EE,207079D4,extended,C3FA0000
 
-//Start With 50 Wins P2
+[Start With 50 Wins P2]
 author=GamingDragon93
 description=Start With 50 Wins P2
-// Start With 50 Wins P2
+[Start With 50 Wins P2]
 patch=1,EE,D07085C4,extended,00000000
 
-//Start With 50 Wins P2
+[Start With 50 Wins P2]
 author=GamingDragon93
 description=Start With 50 Wins P2
-// Start With 50 Wins P2
+[Start With 50 Wins P2]
 patch=1,EE,107085C4,extended,00000032
 
-//Start With 20 Wins P2
+[Start With 20 Wins P2]
 author=GamingDragon93
 description=Start With 20 Wins P2
-// Start With 20 Wins P2
+[Start With 20 Wins P2]
 patch=1,EE,D07085C4,extended,00000000
 
-//Start With 20 Wins P2
+[Start With 20 Wins P2]
 author=GamingDragon93
 description=Start With 20 Wins P2
-// Start With 20 Wins P2
+[Start With 20 Wins P2]
 patch=1,EE,107085C4,extended,00000014
 
-//Start With 10 Wins P2
+[Start With 10 Wins P2]
 author=GamingDragon93
 description=Start With 10 Wins P2
-// Start With 10 Wins P2
+[Start With 10 Wins P2]
 patch=1,EE,D07085C4,extended,00000000
 
-//Start With 10 Wins P2
+[Start With 10 Wins P2]
 author=GamingDragon93
 description=Start With 10 Wins P2
-// Start With 10 Wins P2
+[Start With 10 Wins P2]
 patch=1,EE,107085C4,extended,0000000A
 
-//Never Gain Wins P2
+[Never Gain Wins P2]
 author=GamingDragon93
 description=Never Gain Wins P2
-// Never Gain Wins P2
+[Never Gain Wins P2]
 patch=1,EE,D07085C4,extended,00200002
 
-//Never Gain Wins P2
+[Never Gain Wins P2]
 author=GamingDragon93
 description=Never Gain Wins P2
-// Never Gain Wins P2
+[Never Gain Wins P2]
 patch=1,EE,107085C4,extended,00000000

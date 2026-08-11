@@ -1,30 +1,30 @@
 gametitle=.hack - G.U. Vol. 3 - Aruku Youna Hayasa de SLPS-25656
-//MAx Gold
+[MAx Gold]
 patch=1,EE,20B5B850,extended,05F5E0FF
 
-//GPMAX
+[GPMAX]
 patch=1,EE,20B5B850,extended,05F5E0FF
 
-//Tim MAX
+[Tim MAX]
 patch=1,EE,10B68EC0,extended,00000063
 
-//HP recovery in area
+[HP recovery in area]
 patch=1,EE,D04AE820,extended,00006167
 patch=1,EE,205277C4,extended,10000060
 
-//SP Recovery in Area
+[SP Recovery in Area]
 patch=1,EE,D04AE820,extended,00006167
 patch=1,EE,205277D8,extended,1000005D
 
-//Skill trigger gauge collects instantly
+[Skill trigger gauge collects instantly]
 patch=1,EE,D04AE820,extended,00006167
 patch=1,EE,204EAC90,extended,A6000200
 
-//When kneaded, the kneading degree MAX
+[When kneaded, the kneading degree MAX]
 patch=1,EE,D04AE820,extended,00006167
 patch=1,EE,2083D844,extended,10000007
 
-//All members can call
+[All members can call]
 patch=1,EE,20B64B58,extended,39425FFE
 patch=1,EE,00B64B5C,extended,00000006
 patch=1,EE,20B64B60,extended,00000000

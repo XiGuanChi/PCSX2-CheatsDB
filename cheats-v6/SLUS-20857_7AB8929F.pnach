@@ -1,15 +1,15 @@
 gametitle=Fight Club SLUS-20857 7AB8929F
 
-//Infinite CDP'S
+[Infinite CDP'S]
 author=GamingDragon93
 patch=1,EE,10905EF0,extended,0000FFFF
 
-//Infinite Health Player 1
+[Infinite Health Player 1]
 author=GamingDragon93
 patch=1,EE,20328638,extended,43FA0000
 patch=1,EE,20328640,extended,43FA0000
 
-//Unlock All Movies
+[Unlock All Movies]
 author=GamingDragon93
 patch=1,EE,4046E3D4,extended,000E0001
 patch=1,EE,00000001,extended,00000000

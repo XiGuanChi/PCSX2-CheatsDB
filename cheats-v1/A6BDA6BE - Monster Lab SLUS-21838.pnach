@@ -1,4 +1,4 @@
-//Cheats/Player+Enemy Activator Must be on
+[Cheats/Player+Enemy Activator Must be on]
 patch=1,EE,200C0200,extended,3C010034
 patch=1,EE,200C0204,extended,8C215D20
 patch=1,EE,200C0208,extended,1020000A
@@ -13,13 +13,13 @@ patch=1,EE,200C0250,extended,AF20007C
 patch=1,EE,200C0258,extended,03E00008
 patch=1,EE,2030e698,extended,08030090
 
-//Cheats/Infinite Energy Player
+[Cheats/Infinite Energy Player]
 patch=1,EE,200C0210,extended,8C220080
 patch=1,EE,200C0214,extended,AC22007C
 
-//Cheats/Infinite Health Player
+[Cheats/Infinite Health Player]
 patch=1,EE,200C0228,extended,8C230004
 patch=1,EE,200C022C,extended,AC230000
 
-//Cheats/No Energ Enemy
+[Cheats/No Energ Enemy]
 patch=1,EE,200C0250,extended,AF20007C

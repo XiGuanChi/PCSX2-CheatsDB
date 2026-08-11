@@ -1,21 +1,21 @@
 gametitle=Cabela's Legendary Adventures SLUS-21789
-//God Mode
+[God Mode]
 patch=1,EE,00725848,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20527c44,extended,24420000
 
-//Alt.Infinite Ammo
+[Alt.Infinite Ammo]
 patch=1,EE,0075c2d0,extended,00000001
 
-//Freeze Animals
+[Freeze Animals]
 patch=1,EE,0077c828,extended,00000001
 
-//Stealthy
+[Stealthy]
 patch=1,EE,0075b150,extended,00000001
 
-//Max/Infinite Upgrade Points
+[Max/Infinite Upgrade Points]
 patch=1,EE,20790308,extended,05F5E0FF
 
-//Max/Infinite Time
+[Max/Infinite Time]
 patch=1,EE,20573874,extended,00000000

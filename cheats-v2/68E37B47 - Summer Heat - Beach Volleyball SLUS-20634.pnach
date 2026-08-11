@@ -1,25 +1,25 @@
 gametitle=Summer Heat - Beach Volleyball SLUS-20634
-//Team A Scores 50
+[Team A Scores 50]
 patch=1,EE,002F05D4,extended,00000032
 
-//Team A Scores 0
+[Team A Scores 0]
 patch=1,EE,002F05D4,extended,00000000
 
-//Team B Scores 50
+[Team B Scores 50]
 patch=1,EE,002F05D5,extended,00000032
 
-//Team B Scores 0
+[Team B Scores 0]
 patch=1,EE,002F05D5,extended,00000000
 
-//Unlock All Difficulties
+[Unlock All Difficulties]
 patch=1,EE,00262016,extended,000000FF
 patch=1,EE,00262908,extended,000000FF
 
-//Unlock All Summer Heat US Tour Difficulties
+[Unlock All Summer Heat US Tour Difficulties]
 patch=1,EE,00262015,extended,000000FF
 patch=1,EE,00262909,extended,000000FF
 
-//Unlock Advanced Training
+[Unlock Advanced Training]
 patch=1,EE,0026201C,extended,000000FF
 patch=1,EE,D026201E,extended,00000000
 patch=1,EE,0026201E,extended,00000001
@@ -27,27 +27,27 @@ patch=1,EE,0026290A,extended,000000FF
 patch=1,EE,D026290C,extended,00200100
 patch=1,EE,0026290D,extended,00000001
 
-//Unlock All MiniGames
+[Unlock All MiniGames]
 patch=1,EE,00262014,extended,000000FF
 patch=1,EE,0026290B,extended,000000FF
 
-//Unlock All Basic Training Skills
+[Unlock All Basic Training Skills]
 patch=1,EE,0026201D,extended,000000FF
 patch=1,EE,0026290C,extended,000000FF
 
-//Unlock All Advanced Training Skills
+[Unlock All Advanced Training Skills]
 patch=1,EE,0026201E,extended,000000FF
 patch=1,EE,0026290D,extended,000000FF
 
-//Unlock All Destinations
+[Unlock All Destinations]
 patch=1,EE,20261FC8,extended,FFFFFFFF
 patch=1,EE,202628AC,extended,FFFFFFFF
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,20261FCC,extended,FFFFFFFF
 patch=1,EE,202628B0,extended,FFFFFFFF
 
-//Unlock All Swimwear
+[Unlock All Swimwear]
 patch=1,EE,202628B4,extended,FFFFFFFF
 patch=1,EE,202628B8,extended,FFFFFFFF
 patch=1,EE,202628BC,extended,FFFFFFFF

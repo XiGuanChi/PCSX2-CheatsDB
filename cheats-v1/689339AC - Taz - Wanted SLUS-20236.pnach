@@ -1,316 +1,316 @@
-//Cheats/Freeze Timer
+[Cheats/Freeze Timer]
 patch=1,EE,203FEEE8,extended,3F800FAB
 
-//Cheats/Always Have All Sandwiches
+[Cheats/Always Have All Sandwiches]
 patch=1,EE,2024A6DC,extended,24030064
 patch=1,EE,2024A6E0,extended,AC430F80
 
-//Cheats/P1 Press R3 To Activate Fly Mode
+[Cheats/P1 Press R3 To Activate Fly Mode]
 patch=1,EE,E002FFFB,extended,00514FC2
 patch=1,EE,20285770,extended,2404002A
 patch=1,EE,20285774,extended,AC6400B0
 
-//Cheats/P1 Press L3 To Deactivate Fly Mode
+[Cheats/P1 Press L3 To Deactivate Fly Mode]
 patch=1,EE,E002FFFD,extended,00514FC2
 patch=1,EE,20285770,extended,8C4301C8
 patch=1,EE,20285774,extended,1485002A
 
-//Cheats/Infinite Time Bonus Games
+[Cheats/Infinite Time Bonus Games]
 patch=1,EE,20385950,extended,00000000
 
-//Cheats/Unlock Secrets Ice Burg
+[Cheats/Unlock Secrets Ice Burg]
 patch=1,EE,20408DC8,extended,00000064
 
-//Cheats/Unlock Secrets Zooney Tunes
+[Cheats/Unlock Secrets Zooney Tunes]
 patch=1,EE,20409000,extended,00000064
 
-//Cheats/Unlock Secrets Looney Lagoon
+[Cheats/Unlock Secrets Looney Lagoon]
 patch=1,EE,20409238,extended,00000064
 
-//Cheats/Unlock Secrets Looningdale's
+[Cheats/Unlock Secrets Looningdale's]
 patch=1,EE,204098E0,extended,00000064
 
-//Cheats/Unlock Secrets Samsonia Museum
+[Cheats/Unlock Secrets Samsonia Museum]
 patch=1,EE,20409B18,extended,00000064
 
-//Cheats/Unlock Secrets Bank Of Samerica
+[Cheats/Unlock Secrets Bank Of Samerica]
 patch=1,EE,20409D50,extended,00000064
 
-//Cheats/Unlock Secrets Taz - Haunted
+[Cheats/Unlock Secrets Taz - Haunted]
 patch=1,EE,2040A3F8,extended,00000064
 
-//Cheats/Unlock Secrets Cartoon Strip-Mine
+[Cheats/Unlock Secrets Cartoon Strip-Mine]
 patch=1,EE,2040A630,extended,00000064
 
-//Cheats/Unlock Secrets Granny Canyon
+[Cheats/Unlock Secrets Granny Canyon]
 patch=1,EE,2040A868,extended,00000064
 
-//Cheats/Ice Burg Have Level Completed
+[Cheats/Ice Burg Have Level Completed]
 patch=1,EE,2040067C,extended,00000001
 
-//Cheats/Ice Burg Have All Sandwiches
+[Cheats/Ice Burg Have All Sandwiches]
 patch=1,EE,20400860,extended,00000064
 
-//Cheats/Ice Burg Have All Posters Destroyed
+[Cheats/Ice Burg Have All Posters Destroyed]
 patch=1,EE,40400864,extended,00090001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,2040088C,extended,00000007
 
-//Cheats/Ice Burg Max Captured
+[Cheats/Ice Burg Max Captured]
 patch=1,EE,20400890,extended,05F5E0FF
 
-//Cheats/Ice Burg Have Boxes Completed
+[Cheats/Ice Burg Have Boxes Completed]
 patch=1,EE,20400898,extended,00000032
 
-//Cheats/Ice Burg Have Treasure Found
+[Cheats/Ice Burg Have Treasure Found]
 patch=1,EE,204008A4,extended,00000001
 
-//Cheats/Ice Burg Always Low Time
+[Cheats/Ice Burg Always Low Time]
 patch=1,EE,204008B0,extended,00000000
 
-//Cheats/Zooney Tunes Have Level Completed
+[Cheats/Zooney Tunes Have Level Completed]
 patch=1,EE,204008B4,extended,00000001
 
-//Cheats/Zooney Tunes Have All Sandwiches
+[Cheats/Zooney Tunes Have All Sandwiches]
 patch=1,EE,20400A98,extended,00000064
 
-//Cheats/Zooney Tunes Have All Posters Destroyed
+[Cheats/Zooney Tunes Have All Posters Destroyed]
 patch=1,EE,40400A9C,extended,00090001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,20400AC4,extended,00000007
 
-//Cheats/Zooney Tunes Max Captured
+[Cheats/Zooney Tunes Max Captured]
 patch=1,EE,20400AC8,extended,05F5E0FF
 
-//Cheats/Zooney Tunes Have Boxes Completed
+[Cheats/Zooney Tunes Have Boxes Completed]
 patch=1,EE,20400AD0,extended,00000032
 
-//Cheats/Zooney Tunes Have Treasure Found
+[Cheats/Zooney Tunes Have Treasure Found]
 patch=1,EE,20400ADC,extended,00000001
 
-//Cheats/Zooney Tunes Always Low Time
+[Cheats/Zooney Tunes Always Low Time]
 patch=1,EE,20400AE8,extended,00000000
 
-//Cheats/Looney Lagoon Have Level Completed
+[Cheats/Looney Lagoon Have Level Completed]
 patch=1,EE,20400AEC,extended,00000001
 
-//Cheats/Looney Lagoon Have All Sandwiches
+[Cheats/Looney Lagoon Have All Sandwiches]
 patch=1,EE,20400CD0,extended,00000064
 
-//Cheats/Looney Lagoon Have All Posters Destroyed
+[Cheats/Looney Lagoon Have All Posters Destroyed]
 patch=1,EE,40400CD4,extended,00090001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,20400CFC,extended,00000007
 
-//Cheats/Looney Lagoon Max Captured
+[Cheats/Looney Lagoon Max Captured]
 patch=1,EE,20400D00,extended,05F5E0FF
 
-//Cheats/Looney Lagoon Have Boxes Completed
+[Cheats/Looney Lagoon Have Boxes Completed]
 patch=1,EE,20400D08,extended,00000032
 
-//Cheats/Looney Lagoon Have Treasure Found
+[Cheats/Looney Lagoon Have Treasure Found]
 patch=1,EE,20400D14,extended,00000001
 
-//Cheats/Looney Lagoon Always Low Time
+[Cheats/Looney Lagoon Always Low Time]
 patch=1,EE,20400D20,extended,00000000
 
-//Cheats/Elephant Pong Have Level Completed
+[Cheats/Elephant Pong Have Level Completed]
 patch=1,EE,20400D24,extended,00000001
 
-//Cheats/Looningdale's Have Level Completed
+[Cheats/Looningdale's Have Level Completed]
 patch=1,EE,20401194,extended,00000001
 
-//Cheats/Looningdale's Have All Sandwiches
+[Cheats/Looningdale's Have All Sandwiches]
 patch=1,EE,20401378,extended,00000064
 
-//Cheats/Looningdale's Have All Posters Destroyed
+[Cheats/Looningdale's Have All Posters Destroyed]
 patch=1,EE,4040137C,extended,00090001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,204013A4,extended,00000007
 
-//Cheats/Looningdale's Max Captured
+[Cheats/Looningdale's Max Captured]
 patch=1,EE,204013A8,extended,05F5E0FF
 
-//Cheats/Looningdale's Have Boxes Completed
+[Cheats/Looningdale's Have Boxes Completed]
 patch=1,EE,204013B0,extended,00000032
 
-//Cheats/Looningdale's Have Treasure Found
+[Cheats/Looningdale's Have Treasure Found]
 patch=1,EE,204013BC,extended,00000001
 
-//Cheats/Looningdale's Always Low Time
+[Cheats/Looningdale's Always Low Time]
 patch=1,EE,204013C8,extended,00000000
 
-//Cheats/Sansonian Museum Have Level Completed
+[Cheats/Sansonian Museum Have Level Completed]
 patch=1,EE,204013CC,extended,00000001
 
-//Cheats/Sansonian Museum Have All Sandwiches
+[Cheats/Sansonian Museum Have All Sandwiches]
 patch=1,EE,204015B0,extended,00000064
 
-//Cheats/Sansonian Museum Have All Posters Destroyed
+[Cheats/Sansonian Museum Have All Posters Destroyed]
 patch=1,EE,404015B4,extended,00090001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,204015DC,extended,00000007
 
-//Cheats/Sansonian Museum  Max Captured
+[Cheats/Sansonian Museum  Max Captured]
 patch=1,EE,204015E0,extended,05F5E0FF
 
-//Cheats/Sansonian Museum Have Boxes Completed
+[Cheats/Sansonian Museum Have Boxes Completed]
 patch=1,EE,204015E8,extended,00000032
 
-//Cheats/Sansonian Museum Have Treasure Found
+[Cheats/Sansonian Museum Have Treasure Found]
 patch=1,EE,204015F4,extended,00000001
 
-//Cheats/Sansonian Museum Always Low Time
+[Cheats/Sansonian Museum Always Low Time]
 patch=1,EE,20401600,extended,00000000
 
-//Cheats/Bank Of Samerica Have Level Completed
+[Cheats/Bank Of Samerica Have Level Completed]
 patch=1,EE,20401604,extended,00000001
 
-//Cheats/Bank Of Samerica Have All Sandwiches
+[Cheats/Bank Of Samerica Have All Sandwiches]
 patch=1,EE,204017E8,extended,00000064
 
-//Cheats/Bank Of Samerica Have All Posters Destroyed
+[Cheats/Bank Of Samerica Have All Posters Destroyed]
 patch=1,EE,404017EC,extended,00090001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,20401814,extended,00000007
 
-//Cheats/Bank Of Samerica Max Captured
+[Cheats/Bank Of Samerica Max Captured]
 patch=1,EE,20401818,extended,05F5E0FF
 
-//Cheats/Bank Of Samerica Have Boxes Completed
+[Cheats/Bank Of Samerica Have Boxes Completed]
 patch=1,EE,20401820,extended,00000032
 
-//Cheats/Bank Of Samerica Have Treasure Found
+[Cheats/Bank Of Samerica Have Treasure Found]
 patch=1,EE,2040182C,extended,00000001
 
-//Cheats/Bank Of Samerica Always Low Time
+[Cheats/Bank Of Samerica Always Low Time]
 patch=1,EE,20401838,extended,00000000
 
 [Cheats/Unlock ] Gladiatoons Have Level Completed
 patch=1,EE,2040183C,extended,00000001
 
-//Cheats/Taz-Haunted Have Level Completed
+[Cheats/Taz-Haunted Have Level Completed]
 patch=1,EE,20401CAC,extended,00000001
 
-//Cheats/Taz-Haunted Have All Sandwiches
+[Cheats/Taz-Haunted Have All Sandwiches]
 patch=1,EE,20401E90,extended,00000064
 
-//Cheats/Taz-Haunted Have All Posters Destroyed
+[Cheats/Taz-Haunted Have All Posters Destroyed]
 patch=1,EE,40401E94,extended,00090001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,20401EBC,extended,00000007
 
-//Cheats/Taz-Haunted Max Captured
+[Cheats/Taz-Haunted Max Captured]
 patch=1,EE,20401EC0,extended,05F5E0FF
 
-//Cheats/Taz-Haunted Have Boxes Completed
+[Cheats/Taz-Haunted Have Boxes Completed]
 patch=1,EE,20401EC8,extended,00000032
 
-//Cheats/Taz-Haunted Have Treasure Found
+[Cheats/Taz-Haunted Have Treasure Found]
 patch=1,EE,20401ED4,extended,00000001
 
-//Cheats/Taz-Haunted Always Low Time
+[Cheats/Taz-Haunted Always Low Time]
 patch=1,EE,20401EE0,extended,00000000
 
-//Cheats/Cartoon Strip-Mine Have Level Completed
+[Cheats/Cartoon Strip-Mine Have Level Completed]
 patch=1,EE,20401EE4,extended,00000001
 
-//Cheats/Cartoon Strip-Mine Have All Sandwiches
+[Cheats/Cartoon Strip-Mine Have All Sandwiches]
 patch=1,EE,204020C8,extended,00000064
 
-//Cheats/Cartoon Strip-Mine Have All Posters Destroyed
+[Cheats/Cartoon Strip-Mine Have All Posters Destroyed]
 patch=1,EE,404020CC,extended,00090001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,204020F4,extended,00000007
 
-//Cheats/Cartoon Strip-Mine Max Captured
+[Cheats/Cartoon Strip-Mine Max Captured]
 patch=1,EE,204020F8,extended,05F5E0FF
 
-//Cheats/Cartoon Strip-Mine Have Boxes Completed
+[Cheats/Cartoon Strip-Mine Have Boxes Completed]
 patch=1,EE,20402100,extended,00000032
 
-//Cheats/Cartoon Strip-Mine Have Treasure Found
+[Cheats/Cartoon Strip-Mine Have Treasure Found]
 patch=1,EE,2040210C,extended,00000001
 
-//Cheats/Cartoon Strip-Mine Always Low Time
+[Cheats/Cartoon Strip-Mine Always Low Time]
 patch=1,EE,20402118,extended,00000000
 
-//Cheats/Granny Canyon Have Level Completed
+[Cheats/Granny Canyon Have Level Completed]
 patch=1,EE,2040211C,extended,00000001
 
-//Cheats/Granny Canyon Have All Sandwiches
+[Cheats/Granny Canyon Have All Sandwiches]
 patch=1,EE,20402300,extended,00000064
 
-//Cheats/Granny Canyon Have All Posters Destroyed
+[Cheats/Granny Canyon Have All Posters Destroyed]
 patch=1,EE,40402304,extended,00090001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,2040232C,extended,00000007
 
-//Cheats/Granny Canyon Max Captured
+[Cheats/Granny Canyon Max Captured]
 patch=1,EE,20402330,extended,05F5E0FF
 
-//Cheats/Granny Canyon Have Boxes Completed
+[Cheats/Granny Canyon Have Boxes Completed]
 patch=1,EE,20402338,extended,00000032
 
-//Cheats/Granny Canyon Have Treasure Found
+[Cheats/Granny Canyon Have Treasure Found]
 patch=1,EE,20402344,extended,00000001
 
-//Cheats/Granny Canyon Always Low Time
+[Cheats/Granny Canyon Always Low Time]
 patch=1,EE,20402350,extended,00000000
 
 [Cheats/Unlock ] Dodge City Have Level Completed
 patch=1,EE,20402354,extended,00000001
 
-//Cheats/Tazland A-maze-ment Park Have Level Completed
+[Cheats/Tazland A-maze-ment Park Have Level Completed]
 patch=1,EE,2040258C,extended,00000001
 
-//Cheats/Tazland A-maze-ment Park Have All Sandwiches
+[Cheats/Tazland A-maze-ment Park Have All Sandwiches]
 patch=1,EE,20402770,extended,00000064
 
-//Cheats/Tazland A-maze-ment Park Have All Posters Destroyed
+[Cheats/Tazland A-maze-ment Park Have All Posters Destroyed]
 patch=1,EE,40402774,extended,00090001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,2040279C,extended,00000007
 
-//Cheats/Tazland A-maze-ment Park Max Captured
+[Cheats/Tazland A-maze-ment Park Max Captured]
 patch=1,EE,204027A0,extended,05F5E0FF
 
-//Cheats/Tazland A-maze-ment Park Have Boxes Completed
+[Cheats/Tazland A-maze-ment Park Have Boxes Completed]
 patch=1,EE,204027A8,extended,00000032
 
-//Cheats/Tazland A-maze-ment Park Have Treasure Found
+[Cheats/Tazland A-maze-ment Park Have Treasure Found]
 patch=1,EE,204027B4,extended,00000001
 
-//Cheats/Tazland A-maze-ment Park Always Low Time
+[Cheats/Tazland A-maze-ment Park Always Low Time]
 patch=1,EE,204027C0,extended,00000000
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,2010AD24,extended,24020001
 patch=1,EE,2010AD28,extended,AC6202EC
 
-//Cheats/Unlock Looningdale's
+[Cheats/Unlock Looningdale's]
 patch=1,EE,201504D8,extended,24020064
 
-//Cheats/Unlock Ice Burg
+[Cheats/Unlock Ice Burg]
 patch=1,EE,20150408,extended,24020064
 
-//Cheats/Unlock Loney Lagoon
+[Cheats/Unlock Loney Lagoon]
 patch=1,EE,20150470,extended,24020064
 
-//Cheats/Unlock Granny Canyon
+[Cheats/Unlock Granny Canyon]
 patch=1,EE,20150610,extended,24020064
 
 [Cheats/Unlock Taz - Haunted] U
 patch=1,EE,201506E0,extended,24020064
 
-//Cheats/Unlock Zooney Tunes
+[Cheats/Unlock Zooney Tunes]
 patch=1,EE,20150378,extended,24020064
 
-//Cheats/Unlock Samsonian
+[Cheats/Unlock Samsonian]
 patch=1,EE,20150540,extended,24020064
 
-//Cheats/Unlock Cartoon Strip-Mine
+[Cheats/Unlock Cartoon Strip-Mine]
 patch=1,EE,20150678,extended,24020064
 
-//Cheats/Unlock Bank Of Samerica
+[Cheats/Unlock Bank Of Samerica]
 patch=1,EE,201505A8,extended,24020064

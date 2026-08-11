@@ -1,42 +1,42 @@
 gametitle=Baldur's Gate - Dark Alliance SLUS-20035
-//Loads'o'Gold
+[Loads'o'Gold]
 patch=1,EE,20296A5C,extended,000F423F
 
-//Inf Health
+[Inf Health]
 patch=1,EE,20296A24,extended,461C3C00
 patch=1,EE,20296A28,extended,461C3C00
 
-//Inf Energy
+[Inf Energy]
 patch=1,EE,20296A3C,extended,461C3C00
 patch=1,EE,20296A40,extended,461C3C00 Infinite Health Player 1
 patch=1,EE,20297A04,extended,46C80000
 
-//Max Health Player 1
+[Max Health Player 1]
 patch=1,EE,20297A08,extended,46C80000
 
-//Infinite Magic Player 1
+[Infinite Magic Player 1]
 patch=1,EE,20297A1C,extended,46C80000
 
-//Max Magic Player 1
+[Max Magic Player 1]
 patch=1,EE,20297A20,extended,46C80000
 
-//Infinite Money Player 1
+[Infinite Money Player 1]
 patch=1,EE,10297A3C,extended,0000FFFF
 
-//Infinite Health Player 2
+[Infinite Health Player 2]
 patch=1,EE,2029B2E4,extended,46C80000
 
-//Max Health Player 2
+[Max Health Player 2]
 patch=1,EE,2029B2E8,extended,46C80000
 
-//Infinite Magic Player 2
+[Infinite Magic Player 2]
 patch=1,EE,2029B2FC,extended,46C80000
 
-//Max Magic Player 2
+[Max Magic Player 2]
 patch=1,EE,2029B300,extended,46C80000
 
-//Infinite Money Player 2
+[Infinite Money Player 2]
 patch=1,EE,1029B31C,extended,0000FFFF
 
-//Max Money Player 2
+[Max Money Player 2]
 patch=1,EE,2029B31C,extended,05F5E0FF

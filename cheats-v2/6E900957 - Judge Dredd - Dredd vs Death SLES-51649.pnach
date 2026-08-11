@@ -1,17 +1,17 @@
 gametitle=Judge Dredd - Dredd vs Death SLES-51649
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202334B4,extended,3C0142C8
 patch=1,EE,202334B8,extended,44810000
 patch=1,EE,202334C0,extended,E4800028
 
-//Infinite Armour
+[Infinite Armour]
 patch=1,EE,20205398,extended,46000806
 
-//Infinite Medical Packs
+[Infinite Medical Packs]
 patch=1,EE,20205414,extended,00000000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,202BECFC,extended,00000000
 
-//Infinite Pistol Ammo
+[Infinite Pistol Ammo]
 patch=1,EE,202B4358,extended,00000000

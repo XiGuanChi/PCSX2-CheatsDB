@@ -1,9 +1,9 @@
 gametitle=The MechSmith - Run=Dim SLPS-20031
-//Infinite Money
+[Infinite Money]
 patch=1,EE,20388380,extended,0098967F
 
-//Infinite HP Body (230)
+[Infinite HP Body (230)]
 patch=1,EE,21B62BF8,extended,000000E6
 
-//Infinite E-Tank (500)
+[Infinite E-Tank (500)]
 patch=1,EE,21B62BF0,extended,000001F4

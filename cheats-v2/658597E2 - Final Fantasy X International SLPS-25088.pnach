@@ -1,8 +1,8 @@
 gametitle=Final Fantasy X International SLPS-25088
-//Gil MAX
+[Gil MAX]
 patch=1,EE,2031CE98,extended,3B9AC9FF
 
-//HP operation during battle Invincible with L3, one-shot death with R3
+[HP operation during battle Invincible with L3, one-shot death with R3]
 patch=1,EE,D078A7CA,extended,00000200
 patch=1,EE,201C7CD0,extended,00401023
 patch=1,EE,D078A7CA,extended,00000400
@@ -10,35 +10,35 @@ patch=1,EE,201C7CD0,extended,00001023
 patch=1,EE,D078A7CA,extended,00000100
 patch=1,EE,201C7CD0,extended,00521023
 
-//Everyone status MAX
-//HP
+[Everyone status MAX]
+[HP]
 patch=1,EE,201BEEF0,extended,AFC60004
 
-//MP
+[MP]
 patch=1,EE,201BEF30,extended,AFD00008
 
-//Offensive power
+[Offensive power]
 patch=1,EE,201BEF50,extended,A3C6002F
 
-//Defense power
+[Defense power]
 patch=1,EE,201BEF64,extended,A3C60030
 
-//Magical power
+[Magical power]
 patch=1,EE,201BEF78,extended,A3C60031
 
-//Magic defense
+[Magic defense]
 patch=1,EE,201BEF8C,extended,A3C60032
 
-//Quickness
+[Quickness]
 patch=1,EE,201BEFA0,extended,A3C60033
 
-//luck
+[luck]
 patch=1,EE,201BEFB4,extended,A3C60034
 
-//Avoidance
+[Avoidance]
 patch=1,EE,201BEFC8,extended,A3C60035
 
-//hit
+[hit]
 patch=1,EE,201BEFDC,extended,A3C60036
 patch=1,EE,201BEFE4,extended,8FC60024
 

@@ -1,25 +1,25 @@
 gametitle=Dead or Alive 2 - Hardcore SLPS-25026
-//1P Infinite HP 
+[1P Infinite HP]
 patch=1,EE,104A2BA0,extended,0000012C
 
-// 2P 0 HP 
+[2P 0 HP]
 patch=1,EE,104A2C08,extended,00000000
 
-//Unlock Tengu 
+[Unlock Tengu]
 patch=1,EE,004A79CD,extended,00000001
 
-//Unlock Bayman 
+[Unlock Bayman]
 patch=1,EE,004A79CE,extended,00000001
 
-//Unlock CG GALLERY 
+[Unlock CG GALLERY]
 patch=1,EE,004A79CF,extended,00000001
 
-//Have 200 Stars Just play and lose in the SURVIVAL MODE to unlock All Costumes
+[Have 200 Stars Just play and lose in the SURVIVAL MODE to unlock All Costumes]
 patch=1,EE,004A7A52,extended,000000C8
 
 
-//Unlock COLLECTION 
+[Unlock COLLECTION]
 patch=1,EE,004A79E0,extended,00000001
 
-//Unlock Stars in the COLLECTION
+[Unlock Stars in the COLLECTION]
 patch=1,EE,004A79E8,extended,00000001

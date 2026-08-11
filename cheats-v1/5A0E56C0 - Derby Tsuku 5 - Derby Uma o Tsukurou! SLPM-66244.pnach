@@ -1,26 +1,26 @@
-//Cheats/Max Money 99,999,999,999 yen
+[Cheats/Max Money 99,999,999,999 yen]
 patch=1,EE,203E96D0,extended,AC620000
 
-//Cheats/Ideal Horse Weight After Race
+[Cheats/Ideal Horse Weight After Race]
 patch=1,EE,202115F8,extended,10000003
 patch=1,EE,20211608,extended,868300E6
 
-//Cheats/In Great Condition After Training
+[Cheats/In Great Condition After Training]
 patch=1,EE,2021D474,extended,10000006
 patch=1,EE,2021D478,extended,2403007F
 
-//Cheats/Best Horse Weight After Training
+[Cheats/Best Horse Weight After Training]
 patch=1,EE,2021D2EC,extended,868300E6
 
-//Cheats/No Fatigue
+[Cheats/No Fatigue]
 patch=1,EE,20212904,extended,A200024A
 patch=1,EE,20212908,extended,A2000271
 
-//Cheats/Home Breed Horse Max Reproductive Capacity At Birth sp pw sty st
+[Cheats/Home Breed Horse Max Reproductive Capacity At Birth sp pw sty st]
 patch=1,EE,401F438C,extended,00040023
 patch=1,EE,3403FFFF,extended,00000000
 
-//Cheats/Home Breed Horse Max Reproductive Capacity At Birth
+[Cheats/Home Breed Horse Max Reproductive Capacity At Birth]
 patch=1,EE,401F3FB0,extended,00060023
 patch=1,EE,3403FFFF,extended,00000000
 patch=1,EE,401F3FA8,extended,00060023
@@ -28,5 +28,5 @@ patch=1,EE,00000000,extended,00 000000
 patch=1,EE,401F3FA4,extended,00060023
 patch=1,EE,3403FFFF,extended,00000000
 
-//Cheats/Unlock All Book
+[Cheats/Unlock All Book]
 patch=1,EE,201D8708,extended,24020000

@@ -1,11 +1,11 @@
 gametitle=Dreamworks - Shark Tale SLES-52915
-//Invincible Oscar
+[Invincible Oscar]
 patch=1,EE,2016FC9C,extended,00000000
 
-//Press R2 To Turn On Debug Menu
+[Press R2 To Turn On Debug Menu]
 patch=1,EE,D13836C2,extended,0000FDFF
 patch=1,EE,20342810,extended,00000001
 
-//Press L2 To Turn Off Debug Menu
+[Press L2 To Turn Off Debug Menu]
 patch=1,EE,D13836C2,extended,0000FEFF
 patch=1,EE,20342810,extended,00000000

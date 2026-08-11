@@ -1,15 +1,15 @@
 gametitle=The Nightmare of Druaga SLUS-21071
-//Infinite HP
+[Infinite HP]
 patch=1,EE,21D2A40C,extended,0000270F
 
-//Max HP
+[Max HP]
 patch=1,EE,21D2A4A8,extended,0000270F
 
-//Infinite AP
+[Infinite AP]
 patch=1,EE,21D2A410,extended,0000270F
 
-//Max AP
+[Max AP]
 patch=1,EE,21D2A4AC,extended,0000270F
 
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,20762664,extended,05F5E0FF

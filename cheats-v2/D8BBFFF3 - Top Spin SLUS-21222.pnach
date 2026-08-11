@@ -1,7 +1,7 @@
 gametitle=Top Spin SLUS-21222
-//Buying Shop Items Increases Coins To Max
+[Buying Shop Items Increases Coins To Max]
 patch=1,EE,206F4718,extended,3C0205F5
 patch=1,EE,206F4728,extended,3442E0FF
 
-//All Points Score For Team 1
+[All Points Score For Team 1]
 patch=1,EE,2062ECF4,extended,24050000

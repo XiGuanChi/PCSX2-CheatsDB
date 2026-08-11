@@ -1,13 +1,13 @@
 gametitle=La Pucelle - Tactics SLES-52978
-//Prina 99.999.999
+[Prina 99.999.999]
 patch=1,EE,203717b8,extended,05f5e0ff
 
-//All Characters Infinite HP
+[All Characters Infinite HP]
 patch=1,EE,10329D3C,extended,000003E7
 patch=1,EE,1032A384,extended,000003E7
 patch=1,EE,1032A9CC,extended,000003E7
 
-//All Characters Infinite SP
+[All Characters Infinite SP]
 patch=1,EE,10329D44,extended,000003E7
 patch=1,EE,1032A38C,extended,000003E7
 patch=1,EE,1032A9D4,extended,000003E7

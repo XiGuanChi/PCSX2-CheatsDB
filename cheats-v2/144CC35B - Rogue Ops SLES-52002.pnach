@@ -1,15 +1,15 @@
 gametitle=Rogue Ops SLES-52002
-//Infinite Ammo - Level 1 
+[Infinite Ammo - Level 1]
 patch=1,EE,2173C698,extended,00000063
 
-//Infinite Battery - Level 1 
+[Infinite Battery - Level 1]
 patch=1,EE,21738B90,extended,3F800000
 
-//Infinite Health - Level 1 
+[Infinite Health - Level 1]
 patch=1,EE,21738B88,extended,42C80000
 
-//999 Medikits
+[999 Medikits]
 patch=1,EE,21393360,extended,000003E7
 
-//All Missions Open And God Mode Press R3 to top up health/Battery and toggle invisibility. Able to walk through most objects when invisible.
+[All Missions Open And God Mode Press R3 to top up health/Battery and toggle invisibility. Able to walk through most objects when invisible.]
 patch=1,EE,2042A808,extended,00000042

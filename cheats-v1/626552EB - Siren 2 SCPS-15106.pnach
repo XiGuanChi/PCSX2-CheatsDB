@@ -1,34 +1,34 @@
-//Cheats/Infinite Health & No Fatigue, Not Work For One shot deaths such as being run over by a truck and Ikuko Kifune's controlling corpses sensory vision will expire after a certain amount of time
+[Cheats/Infinite Health & No Fatigue, Not Work For One shot deaths such as being run over by a truck and Ikuko Kifune's controlling corpses sensory vision will expire after a certain amount of time]
 patch=1,EE,20296D44,extended,24014700
 patch=1,EE,20296D48,extended,AC610598
 patch=1,EE,20296D4C,extended,A4610596
 
-//Cheats/Infinite Health Ikuko Kifune's Sensory Vision Controlling Corpses Minigame
+[Cheats/Infinite Health Ikuko Kifune's Sensory Vision Controlling Corpses Minigame]
 patch=1,EE,202DB9F0,extended,24020028
 patch=1,EE,202DB9F8,extended,AE820080
 
-//Cheats/infinite Ammo
+[Cheats/infinite Ammo]
 patch=1,EE,20194FBC,extended,00000000
 
-//Cheats/Invincible Press Select+R2 Player-enemy OFF Select+L2
+[Cheats/Invincible Press Select+R2 Player-enemy OFF Select+L2]
 patch=1,EE,D04AAD02,extended,0000FDFE
 patch=1,EE,202216D8,extended,00402821
 patch=1,EE,D04AAD02,extended,0000FEFE
 patch=1,EE,202216D8,extended,00502823
 
-//Cheats/Hard Difficulty Appears in New Game
+[Cheats/Hard Difficulty Appears in New Game]
 patch=1,EE,2059F458,extended,00000001
 
-//Cheats/Unlock All Archive
+[Cheats/Unlock All Archive]
 patch=1,EE,20279060,extended,24100002
 patch=1,EE,20279068,extended,A0500004
 
-//Cheats/Unlock All Link Navigator can be selected Save not reflected
+[Cheats/Unlock All Link Navigator can be selected Save not reflected]
 patch=1,EE,2024CC2C,extended,240400FF
 patch=1,EE,2024D17C,extended,24020001
 patch=1,EE,2059F4B0,extended,00000001
 
-//Cheats/Unlock All Link Navigator can be viewed Save reflected
+[Cheats/Unlock All Link Navigator can be viewed Save reflected]
 patch=1,EE,2024CC28,extended,240400FF
 patch=1,EE,2024CC2C,extended,A0440069
 patch=1,EE,2024D174,extended,00821821
@@ -38,7 +38,7 @@ patch=1,EE,2024CC68,extended,03E00008
 patch=1,EE,2024CC6C,extended,AC620000
 patch=1,EE,2059F4B0,extended,00000001
 
-//Cheats/Unlock All 100 Archives and Kunitoris MiniGame
+[Cheats/Unlock All 100 Archives and Kunitoris MiniGame]
 patch=1,EE,0059EFF5,extended,00000002
 patch=1,EE,1059EFF6,extended,00000202
 patch=1,EE,4059EFF8,extended,00180001

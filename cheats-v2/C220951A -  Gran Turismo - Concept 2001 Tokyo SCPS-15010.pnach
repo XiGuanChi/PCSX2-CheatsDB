@@ -1,6 +1,6 @@
 gametitle= Gran Turismo - Concept 2001 Tokyo SCPS-15010
-//Single Race Always Auto Drive
+[Single Race Always Auto Drive]
 patch=1,EE,01FBC429,extended,00000001
 
-//free run always auto drive
+[free run always auto drive]
 patch=1,EE,01FBC3F9,extended,00000001

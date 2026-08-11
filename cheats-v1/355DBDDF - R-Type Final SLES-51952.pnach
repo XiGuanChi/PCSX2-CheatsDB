@@ -1,11 +1,11 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,202D0018,extended,00000009
 
-//Cheats/Infinite Credits
+[Cheats/Infinite Credits]
 patch=1,EE,202D0014,extended,00000009
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,202F0D60,extended,00000001
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,202DCE0C,extended,FFFFFFFF

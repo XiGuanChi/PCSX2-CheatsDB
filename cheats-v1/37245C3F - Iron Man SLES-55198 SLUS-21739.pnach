@@ -1,52 +1,52 @@
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,20E19434,extended,24020001
 
-//Cheats/Infinite Power Cells
+[Cheats/Infinite Power Cells]
 patch=1,EE,D0E1A5FC,extended,000025D4
 patch=1,EE,20E1A5FC,extended,00000000
 
-//Cheats/Infinite Energy Missiles Right Cell
+[Cheats/Infinite Energy Missiles Right Cell]
 patch=1,EE,20E95470,extended,00000000
 
-//Cheats/Infinite Energy Missiles Left Cell
+[Cheats/Infinite Energy Missiles Left Cell]
 patch=1,EE,20E95330,extended,00000000
 
-//Cheats/Infinite Energy Missiles Up Cell
+[Cheats/Infinite Energy Missiles Up Cell]
 patch=1,EE,20E0718C,extended,E6612014
 
-//Cheats/Infinite Grenade Launcher Ammo
+[Cheats/Infinite Grenade Launcher Ammo]
 patch=1,EE,10EDF098,extended,00000000
 
-//Cheats/Infinite Basic Ammo
+[Cheats/Infinite Basic Ammo]
 patch=1,EE,10ED5750,extended,00000000
 
-//Cheats/Infinite Launcher Ammo
+[Cheats/Infinite Launcher Ammo]
 patch=1,EE,10E73CD8,extended,00000000
 
-//Cheats/Infinite Weapon Power
+[Cheats/Infinite Weapon Power]
 patch=1,EE,20E95AA0,extended,00000000
 
-//Cheats/Infinite Propulsion
+[Cheats/Infinite Propulsion]
 patch=1,EE,20E95A5C,extended,00000000
 
-//Cheats/Infinite Armor
+[Cheats/Infinite Armor]
 patch=1,EE,20E95260,extended,C620000C
 
-//Cheats/Max EXP One Use
+[Cheats/Max EXP One Use]
 patch=1,EE,00E5A944,extended,00000001
 
-//Cheats/Gain Grenade Launcher Ammo
+[Cheats/Gain Grenade Launcher Ammo]
 patch=1,EE,10EDF098,extended,00000001
 
-//Cheats/Gain Basic Ammo
+[Cheats/Gain Basic Ammo]
 patch=1,EE,10ED5750,extended,00000001
 
-//Cheats/Gain Launcher Ammo
+[Cheats/Gain Launcher Ammo]
 patch=1,EE,10E73CD8,extended,00000001
 
-//Cheats/Unlock All Armours
+[Cheats/Unlock All Armours]
 patch=1,EE,20F45148,extended,24020001
 patch=1,EE,20F45140,extended,24020001
 
-//Cheats/Unlock All Missions
+[Cheats/Unlock All Missions]
 patch=1,EE,20F78A48,extended,240E0010

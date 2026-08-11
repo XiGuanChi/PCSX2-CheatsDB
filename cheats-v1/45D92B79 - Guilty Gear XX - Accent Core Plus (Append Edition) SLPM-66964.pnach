@@ -1,75 +1,75 @@
-//Cheats/Disc authentication No need to replace disc The disc authentication at the beginning is only for the append version disc
+[Cheats/Disc authentication No need to replace disc The disc authentication at the beginning is only for the append version disc]
 patch=1,EE,2033E6E0,extended,00405C98
 
-//Cheats/Infinite Health required code
+[Cheats/Infinite Health required code]
 patch=1,EE,200FF000,extended,3C0101F5
 patch=1,EE,200FF014,extended,03E00008
 patch=1,EE,201DB1A0,extended,0803FC00
 
-//Cheats/Infinite Health 1P
+[Cheats/Infinite Health 1P]
 patch=1,EE,200FF004,extended,240201A4
 patch=1,EE,200FF008,extended,A422D81E
 
-//Cheats/2P Health 1
+[Cheats/2P Health 1]
 patch=1,EE,200FF00C,extended,24020001
 patch=1,EE,200FF010,extended,A422D942
 
-//Cheats/1P Infinite Health Story SELECT+UP
+[Cheats/1P Infinite Health Story SELECT+UP]
 patch=1,EE,D045151C,extended,0000FFEE
 patch=1,EE,11F4D81E,extended,000001A4
 
-//Cheats/1P Max Tension Gauge
+[Cheats/1P Max Tension Gauge]
 patch=1,EE,103C4CD0,extended,00002710
 
-//Cheats/1P Max Burst Gauge
+[Cheats/1P Max Burst Gauge]
 patch=1,EE,103C4DC8,extended,00003A98
 
-//Cheats/1P Max Guard Gauge
+[Cheats/1P Max Guard Gauge]
 patch=1,EE,103C4CEA,extended,00000000
 
-//Cheats/2P Health 1 Story SELECT+Down
+[Cheats/2P Health 1 Story SELECT+Down]
 patch=1,EE,D045151C,extended,0000FFBE
 patch=1,EE,11F4D942,extended,00000001 
 
-//Cheats/Survival Mode Level 1000
+[Cheats/Survival Mode Level 1000]
 patch=1,EE,10300A08,extended,000003E8
 
-//Cheats/MOM Mode Max Medal Gauge
+[Cheats/MOM Mode Max Medal Gauge]
 patch=1,EE,103C4BE8,extended,000003E8
 
-//Cheats/MOM Mode Medal Level 6
+[Cheats/MOM Mode Medal Level 6]
 patch=1,EE,103C4BEA,extended,00000006
 
-//Cheats/MOM Mode Medal Gauge keeps rising
+[Cheats/MOM Mode Medal Gauge keeps rising]
 patch=1,EE,202619F0,extended,24630064
 
-//Cheats/Unlock All characters EX mode switchable Appears when you press the start button when selecting a character
+[Cheats/Unlock All characters EX mode switchable Appears when you press the start button when selecting a character]
 patch=1,EE,1034C9D8,extended,01010101
 patch=1,EE,1034C9DC,extended,00000101 
 
-//Cheats/Unlock Generations mode switchable Appears when you press the START button when selecting a character. Disabled in survival mode
+[Cheats/Unlock Generations mode switchable Appears when you press the START button when selecting a character. Disabled in survival mode]
 patch=1,EE,0034C9C5,extended,00000001 
 patch=1,EE,0034C9C6,extended,00000003 
 
-//Cheats/Unlock All Character SP colors can be selected Gold: When selecting a character, press the R2 button to SLASH COLOR and press the dust Black: When selecting a character, press the R2 button to change to RELOAD COLOR and press the dust button
+[Cheats/Unlock All Character SP colors can be selected Gold: When selecting a character, press the R2 button to SLASH COLOR and press the dust Black: When selecting a character, press the R2 button to change to RELOAD COLOR and press the dust button]
 patch=1,EE,4034C990,extended,000C0001 
 patch=1,EE,01010101,extended,00000000 
 patch=1,EE,1034C9C0,extended,00000101 
 
-//Cheats/Unlock All Mission Mode
+[Cheats/Unlock All Mission Mode]
 patch=1,EE,1034E8B8,extended,00000101
 patch=1,EE,4034E8BC,extended,00BB0001 
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Special & Secret Voice
+[Cheats/Unlock All Special & Secret Voice]
 patch=1,EE,4034EBE4,extended,00070001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Arcade & EX Characters
+[Cheats/Unlock All Arcade & EX Characters]
 patch=1,EE,4034EC28,extended,000C0001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/All Mission Ranks S Mark
+[Cheats/All Mission Ranks S Mark]
 patch=1,EE,4034EBA8,extended,00080001
 patch=1,EE,04040404,extended,00000000
 patch=1,EE,1034EBC4,extended,00000404

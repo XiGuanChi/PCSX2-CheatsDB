@@ -1,18 +1,18 @@
 gametitle=Simple 2000 Series  Vol.118 - The Ochimusha - Ikaebu Samurai Toujou SLPS-20491
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2010CCF0,extended,AC7000A0
 
-//Infinite Gauge
+[Infinite Gauge]
 patch=1,EE,2028801C,extended,000003E8
 
-//Infinite Death Blows
+[Infinite Death Blows]
 patch=1,EE,2027CE2C,extended,00000007
 
-//99 weapons possessed when viewing equipment screen
+[99 weapons possessed when viewing equipment screen]
 patch=1,EE,201EAB20,extended,24030063
 patch=1,EE,201EAB24,extended,AC430020
 
-//Akechi Mitsuhide
+[Akechi Mitsuhide]
 patch=1,EE,2027CCBC,extended,00002710
 patch=1,EE,2027CCC0,extended,00001F40
 patch=1,EE,2027CCC4,extended,00002710
@@ -20,18 +20,18 @@ patch=1,EE,2027CCC8,extended,00002710
 patch=1,EE,2027CCCC,extended,00001B58
 patch=1,EE,2027CCD0,extended,00001B58
 
-//River
+[River]
 patch=1,EE,2027CCD8,extended,00002710
 patch=1,EE,2027CCDC,extended,00001F40
 patch=1,EE,2027CCE0,extended,00001B58
 
-//Setting Difficulty Oni added
+[Setting Difficulty Oni added]
 patch=1,EE,2026F454,extended,FFFFFFFF
 
-//Sengoku no Roll All Stages Selectables
+[Sengoku no Roll All Stages Selectables]
 patch=1,EE,2026F3CC,extended,00000007
 
-//All costumes
+[All costumes]
 patch=1,EE,2026F444,extended,FFFFFFFF
 patch=1,EE,2026F448,extended,FFFFFFFF
 patch=1,EE,2026F44C,extended,FFFFFFFF

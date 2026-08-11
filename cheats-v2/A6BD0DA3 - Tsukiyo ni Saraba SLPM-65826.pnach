@@ -1,21 +1,21 @@
 gametitle=Tsukiyo ni Saraba SLPM-65826
-//Infinite HP
+[Infinite HP]
 patch=1,EE,207E15A8,extended,00000300
 patch=1,EE,207E1598,extended,00000300
 patch=1,EE,207E1590,extended,00000400
 patch=1,EE,207E1580,extended,00000400
 
-//All characters
+[All characters]
 patch=1,EE,207BCC0A,extended,00000001
 
-//Skill points
+[Skill points]
 patch=1,EE,207BCC78,extended,000F423F
 patch=1,EE,207BCD18,extended,000F423F
 patch=1,EE,207BCCC8,extended,000F423F
 patch=1,EE,207BCD68,extended,000F423F
 patch=1,EE,207BCDB8,extended,000F423F
 
-//Free battle appearance
+[Free battle appearance]
 patch=1,EE,007BCFF4,extended,00000001
 patch=1,EE,007BD00C,extended,00000001
 patch=1,EE,007BD024,extended,00000001
@@ -27,7 +27,7 @@ patch=1,EE,007BD09C,extended,00000001
 patch=1,EE,007BD0B4,extended,00000001
 patch=1,EE,007BD0CC,extended,00000001
 
-//Overall stage attack
+[Overall stage attack]
 patch=1,EE,007BCDCC,extended,00000001
 patch=1,EE,007BCDE4,extended,00000001
 patch=1,EE,007BCDFC,extended,00000001
@@ -48,7 +48,7 @@ patch=1,EE,007BCF4C,extended,00000001
 patch=1,EE,007BCF64,extended,00000001
 patch=1,EE,007BCF7C,extended,00000001
 
-//Rank S
+[Rank S]
 patch=1,EE,007BCDE0,extended,00000005
 patch=1,EE,007BCDF8,extended,00000005
 patch=1,EE,007BCE10,extended,00000005

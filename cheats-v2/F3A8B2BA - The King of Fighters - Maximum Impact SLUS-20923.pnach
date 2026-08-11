@@ -1,31 +1,31 @@
 gametitle=The King of Fighters - Maximum Impact SLUS-20923
-//SA
-//Infinite Health P1
+[SA]
+[Infinite Health P1]
 patch=1,EE,006039EC,extended,000000C8
 
-//1-Hit Death P2
+[1-Hit Death P2]
 patch=1,EE,D0603AF4,extended,000000C8
 patch=1,EE,10603AF4,extended,00000000
 
-//Enable All Level Missions
+[Enable All Level Missions]
 patch=1,EE,2069570C,extended,00000003
 
-//All Level 1 Missions Complete
+[All Level 1 Missions Complete]
 patch=1,EE,40695640,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-//All Level 2 Missions Complete
+[All Level 2 Missions Complete]
 patch=1,EE,40695668,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-//All Level 3 Missions Complete
+[All Level 3 Missions Complete]
 patch=1,EE,40695690,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-//All Level 4 Missions Complete
+[All Level 4 Missions Complete]
 patch=1,EE,406956B8,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-//All Stages
+[All Stages]
 patch=1,EE,406955E4,extended,000B0001
 patch=1,EE,00000001,extended,00000000

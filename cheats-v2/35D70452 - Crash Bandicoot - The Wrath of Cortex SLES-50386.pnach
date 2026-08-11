@@ -1,14 +1,14 @@
 gametitle=Crash Bandicoot - The Wrath of Cortex SLES-50386
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,20632038,extended,00630063
 
-//Invincibility
+[Invincibility]
 patch=1,EE,20630C28,extended,00000001
 
-//Unlock All Moves/Powers
+[Unlock All Moves/Powers]
 patch=1,EE,20630C34,extended,00000001
 
-//Unlock All Areas
+[Unlock All Areas]
 patch=1,EE,1058B11C,extended,000000FF
 patch=1,EE,1058B120,extended,000000FF
 patch=1,EE,1058B124,extended,000000FF

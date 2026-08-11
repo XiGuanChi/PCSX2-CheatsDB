@@ -1,21 +1,21 @@
 gametitle=Phantom Brave SLPS-20345
-//Bol maximum when selling item
+[Bol maximum when selling item]
 patch=1,EE,201DEB84,extended,00000000
 
-//Treatment and mana max
+[Treatment and mana max]
 patch=1,EE,201761EC,extended,24990094
 patch=1,EE,201761F0,extended,3C120098
 patch=1,EE,201761F4,extended,3652967F
 patch=1,EE,2017621C,extended,AF320000
 
-//Move Can be executed any number of times
+[Move Can be executed any number of times]
 patch=1,EE,201A8F50,extended,C6020614
 patch=1,EE,201A8F54,extended,E6020618
 
-//Attack Can be executed any number of times
+[Attack Can be executed any number of times]
 patch=1,EE,201A95F4,extended,A200086B
 
-//Stage clear anytime while pressing Triangle button.
+[Stage clear anytime while pressing Triangle button.]
 patch=1,EE,200F4050,extended,3C020025
 patch=1,EE,200F4054,extended,944211C4
 patch=1,EE,200F4058,extended,30420010

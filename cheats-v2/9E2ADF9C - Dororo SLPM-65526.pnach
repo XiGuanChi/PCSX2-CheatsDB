@@ -1,12 +1,12 @@
 gametitle=Dororo SLPM-65526
-//HP Max
+[HP Max]
 patch=1,EE,2023AC60,extended,00000000
 patch=1,EE,21E9C148,extended,4479C000
 patch=1,EE,21E9C14C,extended,4479C000
 
-//HP Max 2
+[HP Max 2]
 patch=1,EE,21E9C150,extended,4479C000
 patch=1,EE,21E9C154,extended,4479C000
 
-//Ammo does not decrease
+[Ammo does not decrease]
 patch=1,EE,2023A0B8,extended,24420000

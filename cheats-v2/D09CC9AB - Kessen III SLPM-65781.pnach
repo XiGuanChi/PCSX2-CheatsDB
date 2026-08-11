@@ -1,22 +1,22 @@
 gametitle=Kessen III SLPM-65781
-//Max Gold
+[Max Gold]
 patch=1,EE,001951A4,extended,14200001
 
-//And experience value MAX
+[And experience value MAX]
 patch=1,EE,001575B8,extended,14200001
 
-//Listening to music 100%
+[Listening to music 100%]
 patch=1,EE,40E610B8,extended,00090001
 patch=1,EE,03030303,extended,00000000
 
-//Lots of money
+[Lots of money]
 patch=1,EE,20E5E990,extended,0098967F
 
-//Equipment Dictionary 100%
+[Equipment Dictionary 100%]
 patch=1,EE,40E60ECC,extended,00600001
 patch=1,EE,03030303,extended,00000000
 
-//Watching movies 100%
+[Watching movies 100%]
 patch=1,EE,40E61038,extended,00210001
 patch=1,EE,03030303,extended,00000000
 patch=1,EE,10E61036,extended,00000303

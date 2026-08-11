@@ -1,18 +1,18 @@
 gametitle=Chu-Kana Janshi SLPS-25416
-//Tenge MAX & not, dropping
+[Tenge MAX & not, dropping]
 patch=1,EE,0023F104,extended,00000009
 
-//Heaven sword MAX & not, dropping
+[Heaven sword MAX & not, dropping]
 patch=1,EE,0023F108,extended,00000009
 
-//Month God MAX & not, dropping
+[Month God MAX & not, dropping]
 patch=1,EE,0023F10C,extended,00000009
 
-//Technical MAX & not, dropping
+[Technical MAX & not, dropping]
 patch=1,EE,0023F110,extended,00000009
 
-//All completion
+[All completion]
 patch=1,EE,1023F118,extended,000001FF
 
-//All element
+[All element]
 patch=1,EE,0023F120,extended,0000007F

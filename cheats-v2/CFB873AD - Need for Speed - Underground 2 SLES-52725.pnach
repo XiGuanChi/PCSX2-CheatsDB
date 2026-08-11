@@ -1,34 +1,34 @@
 gametitle=Need for Speed - Underground 2 SLES-52725
-//Infinite turbo
+[Infinite turbo]
 patch=1,EE,203050fc,extended,46000001
 
-//Infinite Nitro
+[Infinite Nitro]
 patch=1,EE,203050a8,extended,ae010434
 
-//Max Cash
+[Max Cash]
 patch=1,EE,204EF864,extended,5FAB6661
 
-//Max.Race Entered
+[Max.Race Entered]
 patch=1,EE,204F0E60,extended,05FAB000
 
-//Max.Money Spent On Car
+[Max.Money Spent On Car]
 patch=1,EE,204F7888,extended,05F5E0FF
 
-//Open All Cars (Quick Race)
+[Open All Cars (Quick Race)]
 patch=1,EE,20271D1C,extended,00000000
 
-//Open Quick Race Tracks
+[Open Quick Race Tracks]
 patch=1,EE,2026B3D0,extended,00000000
 patch=1,EE,2026B450,extended,24020001
 
-//Open Parts
+[Open Parts]
 patch=1,EE,20271874,extended,00000000
 patch=1,EE,202719CC,extended,00000000
 patch=1,EE,20271A84,extended,00000000
 patch=1,EE,20271B3C,extended,00000000
 patch=1,EE,20271BEC,extended,00000000
 
-//Stupid AI Press L3 to activate and R3 to stop. This code doesn't work in dragster mode.
+[Stupid AI Press L3 to activate and R3 to stop. This code doesn't work in dragster mode.]
 patch=1,EE,D0523302,extended,000000FD
 patch=1,EE,2056193C,extended,4FAB1111
 patch=1,EE,D0523302,extended,000000FB

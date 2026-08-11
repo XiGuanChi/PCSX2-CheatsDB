@@ -1,50 +1,50 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20186DB4,extended,8E01020C
 patch=1,EE,20186DB8,extended,AE010208
 
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,105653C4,extended,00000009
 
-//Cheats/Infinite Credits
+[Cheats/Infinite Credits]
 patch=1,EE,105653C8,extended,0000FFFF
 
-//Cheats/Max Credits
+[Cheats/Max Credits]
 patch=1,EE,205653C8,extended,05F5E0FF
 
-//Cheats/infinite Ammo
+[Cheats/infinite Ammo]
 patch=1,EE,201DFB54,extended,00000000
 patch=1,EE,201E02BC,extended,00000000
 patch=1,EE,201E02C8,extended,00000000
 
-//Cheats/Unlock All Ships
+[Cheats/Unlock All Ships]
 patch=1,EE,20565360,extended,000000FF
 
-//Cheats/Access Mission Triton-Stage 1 & 2
+[Cheats/Access Mission Triton-Stage 1 & 2]
 patch=1,EE,20565364,extended,00000003
 
-//Cheats/Access Mission Prometheus-Stage 1 & 2
+[Cheats/Access Mission Prometheus-Stage 1 & 2]
 patch=1,EE,20565368,extended,00000003
 
-//Cheats/Access Mission Rhea - Stage 1
+[Cheats/Access Mission Rhea - Stage 1]
 patch=1,EE,2056536C,extended,00000001
 
-//Cheats/Access Mission Titan - Stage 1 & 2
+[Cheats/Access Mission Titan - Stage 1 & 2]
 patch=1,EE,20565370,extended,00000003
 
-//Cheats/Access Mission Europa - Stage 1 & 2
+[Cheats/Access Mission Europa - Stage 1 & 2]
 patch=1,EE,20565374,extended,00000003
 
-//Cheats/Access Mission Phobos - Stage 1 & 2
+[Cheats/Access Mission Phobos - Stage 1 & 2]
 patch=1,EE,20565378,extended,00000003
 
-//Cheats/Access Mission Mars - Stage 1-4
+[Cheats/Access Mission Mars - Stage 1-4]
 patch=1,EE,2056537C,extended,0000000F
 
-//Cheats/Access Mission Asteroid Belt - Stage 1
+[Cheats/Access Mission Asteroid Belt - Stage 1]
 patch=1,EE,20565380,extended,00000001
 
-//Cheats/Access Mission Moon - Stage 1-3
+[Cheats/Access Mission Moon - Stage 1-3]
 patch=1,EE,20565384,extended,00000007
 
-//Cheats/Access Mission Earth - Stage 1 & 2
+[Cheats/Access Mission Earth - Stage 1 & 2]
 patch=1,EE,20565388,extended,00000003

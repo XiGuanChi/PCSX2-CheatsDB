@@ -1,12 +1,12 @@
 gametitle=Love Drops SLPM-66727
-//All Gallery 
+[All Gallery]
 patch=1,EE,4028205C,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10282074,extended,0000FFFF
 patch=1,EE,00282076,extended,000000FF
 
-//All Music 
+[All Music]
 patch=1,EE,2028209C,extended,FFFFFFFF
 
-//Quit Game = Test Menu
+[Quit Game = Test Menu]
 patch=1,EE,201639A0,extended,0806871C

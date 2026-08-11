@@ -1,13 +1,13 @@
-//Cheats/Infinite Tokens
+[Cheats/Infinite Tokens]
 patch=1,EE,21E0F958,extended,05F5E0FF
 
-//Cheats/Super Score Training
+[Cheats/Super Score Training]
 patch=1,EE,203BFEAC,extended,240303E8
 
-//Cheats/Infinite Attribute Bonus Points
+[Cheats/Infinite Attribute Bonus Points]
 patch=1,EE,2085526C,extended,00000007
 
-//Cheats/Cannot Be Tackled Hold R1
+[Cheats/Cannot Be Tackled Hold R1]
 patch=1,EE,2041C524,extended,12A0001C
 patch=1,EE,2041C448,extended,27BDFF20
 patch=1,EE,20462524,extended,1040009A
@@ -16,7 +16,7 @@ patch=1,EE,2041C524,extended,1000001C
 patch=1,EE,2041C448,extended,03E00008
 patch=1,EE,20462524,extended,1000009A
 
-//Cheats/Change Possession After Play Hold L2
+[Cheats/Change Possession After Play Hold L2]
 patch=1,EE,205239B4,extended,46010034
 patch=1,EE,20523A78,extended,1000008E
 patch=1,EE,20523B50,extended,1662000C
@@ -27,7 +27,7 @@ patch=1,EE,20523A78,extended,10000000
 patch=1,EE,20523B50,extended,00000000
 patch=1,EE,2052399C,extended,00000000
 
-//Cheats/Score Touchdown 2 Pt Conversion After Any Play Hold L1
+[Cheats/Score Touchdown 2 Pt Conversion After Any Play Hold L1]
 patch=1,EE,205239BC,extended,4500000E
 patch=1,EE,20523D14,extended,45000002
 patch=1,EE,20523D74,extended,4502000E
@@ -38,5 +38,5 @@ patch=1,EE,20523D14,extended,00000000
 patch=1,EE,20523D74,extended,00000000
 patch=1,EE,20523D78,extended,24020006
 
-//Cheats/Always 4th Down
+[Cheats/Always 4th Down]
 patch=1,EE,108F70E0,extended,00000004

@@ -1,16 +1,16 @@
 gametitle=Strike Force Bowling SLUS-20846
-//Unlock All Hidden Stages & Characters
+[Unlock All Hidden Stages & Characters]
 patch=1,EE,407DDA58,extended,00130001
 patch=1,EE,00000001,extended,00000000
 
-//Always 1st Attempt Player 1
+[Always 1st Attempt Player 1]
 patch=1,EE,203D3760,extended,00000000
 
-//Always Hole In One Player 1
+[Always Hole In One Player 1]
 patch=1,EE,203D3704,extended,00000000
 
-//Always 9 Strokes Recorded Player 1
+[Always 9 Strokes Recorded Player 1]
 patch=1,EE,203D3704,extended,00000009
 
-//Max Score Player 1
+[Max Score Player 1]
 patch=1,EE,203D3710,extended,05F5E0FF

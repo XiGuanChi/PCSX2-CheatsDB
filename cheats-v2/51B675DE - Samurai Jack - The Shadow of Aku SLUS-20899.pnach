@@ -1,5 +1,5 @@
 gametitle=Samurai Jack - The Shadow of Aku SLUS-20899
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,240100C8
 patch=1,EE,200C0224,extended,AC41022C
 patch=1,EE,200C0228,extended,3C014348
@@ -7,72 +7,72 @@ patch=1,EE,200C022C,extended,03E00008
 patch=1,EE,200C0230,extended,44810000
 patch=1,EE,2020DEC4,extended,0C030088
 
-//Infinite Zen
+[Infinite Zen]
 patch=1,EE,200C0240,extended,3C0144FA
 patch=1,EE,200C0244,extended,44810000
 patch=1,EE,200C0248,extended,03E00008
 patch=1,EE,200C024C,extended,E4600080
 patch=1,EE,2020DEE8,extended,0C030090
 
-//Max Health
+[Max Health]
 patch=1,EE,21AFBA98,extended,00000003
 
-//Max Power
+[Max Power]
 patch=1,EE,21AFBA9C,extended,00000003
 
 
-/// Unlocked Codes ==
+[/ Unlocked Codes ==]
 
-//Reach The Village
+[Reach The Village]
 patch=1,EE,21AFBA10,extended,00000001
 
-//Rescue The King
+[Rescue The King]
 patch=1,EE,21AFBA14,extended,00000001
 
-//The Burning Building
+[The Burning Building]
 patch=1,EE,21AFBA18,extended,00000001
 
-//Destroy The Statue
+[Destroy The Statue]
 patch=1,EE,21AFBA1C,extended,00000001
 
-//Free The Priest
+[Free The Priest]
 patch=1,EE,21AFBA20,extended,00000001
 
-//Break The Siege
+[Break The Siege]
 patch=1,EE,21AFBA24,extended,00000001
 
-//The Greenhouse
+[The Greenhouse]
 patch=1,EE,21AFBA28,extended,00000001
 
-//Find The Tree Spirit
+[Find The Tree Spirit]
 patch=1,EE,21AFBA2C,extended,00000001
 
-//Defeat The Foreman
+[Defeat The Foreman]
 patch=1,EE,21AFBA30,extended,00000001
 
-//Rescue THe Archaeologist
+[Rescue THe Archaeologist]
 patch=1,EE,21AFBA38,extended,00000001
 
-//Find The Map Tablet
+[Find The Map Tablet]
 patch=1,EE,21AFBA3C,extended,00000001
 
-//Disable Security System
+[Disable Security System]
 patch=1,EE,21AFBA40,extended,00000001
 
-//Find The Time Portal
+[Find The Time Portal]
 patch=1,EE,21AFBA44,extended,00000001
 
-//Enter The City
+[Enter The City]
 patch=1,EE,21AFBA4C,extended,00000001
 
-//Free The Scotsman
+[Free The Scotsman]
 patch=1,EE,21AFBA50,extended,00000001
 
-//Stop The Designer
+[Stop The Designer]
 patch=1,EE,21AFBA54,extended,00000001
 
-//Break Into The Central Computer
+[Break Into The Central Computer]
 patch=1,EE,21AFBA58,extended,00000001
 
-//Penetrate Aku's Fortress
+[Penetrate Aku's Fortress]
 patch=1,EE,21AFBA5C,extended,00000001

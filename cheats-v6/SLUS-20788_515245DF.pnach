@@ -1,117 +1,117 @@
 gametitle=Ford Racing 2 NTSC-U SLUS-20788 515245DF
-// checked_by=GamingDragon93; merged_files=SLUS-20788_515245DF.pnach | SLUS-20788_15245DF.pnach
+[checked_by=GamingDragon93; merged_files=SLUS-20788_515245DF.pnach | SLUS-20788_15245DF.pnach]
 
 
-//60 FPS
+[60 FPS]
 author=GamingDragon93
 description=Might need EE Overclock.
 patch=1,EE,00221748,word,2C420001 //2C420002
 
 
-//All Cars
+[All Cars]
 author=GamingDragon93
 description=All Cars
-// All Cars
+[All Cars]
 patch=1,EE,901F5FCC,extended,0C0831D3
 
-//Always Low Lap Time
+[Always Low Lap Time]
 author=GamingDragon93
 description=Always Low Lap Time
-// Always Low Lap Time
+[Always Low Lap Time]
 patch=1,EE,2019DCA8,extended,00000000
 
-//Unlock All Ford Challenge Cars
+[Unlock All Ford Challenge Cars]
 author=GamingDragon93
 description=Unlock All Ford Challenge Cars
-// Unlock All Ford Challenge Cars
+[Unlock All Ford Challenge Cars]
 patch=1,EE,201E8058,extended,24020001
 
-//Unlock All Ford Challenge Cars #2
+[Unlock All Ford Challenge Cars #2]
 author=GamingDragon93
 description=Unlock All Ford Challenge Cars
-// Unlock All Ford Challenge Cars
+[Unlock All Ford Challenge Cars]
 patch=1,EE,201E805C,extended,A0620000
 
-//Unlock All Ford Challenge Cars #3
+[Unlock All Ford Challenge Cars #3]
 author=GamingDragon93
 description=Unlock All Ford Challenge Cars
-// Unlock All Ford Challenge Cars
+[Unlock All Ford Challenge Cars]
 patch=1,EE,201E8060,extended,03E00008
 
-//Unlock All Ford Challenge Cars #4
+[Unlock All Ford Challenge Cars #4]
 author=GamingDragon93
 description=Unlock All Ford Challenge Cars
-// Unlock All Ford Challenge Cars
+[Unlock All Ford Challenge Cars]
 patch=1,EE,201E8064,extended,27BD0010
 
-//Unlock All Ford Collection Tracks
+[Unlock All Ford Collection Tracks]
 author=GamingDragon93
 description=Unlock All Ford Collection Tracks
-// Unlock All Ford Collection Tracks
+[Unlock All Ford Collection Tracks]
 patch=1,EE,200C0220,extended,03E00008
 
-//Unlock All Ford Collection Tracks #2
+[Unlock All Ford Collection Tracks #2]
 author=GamingDragon93
 description=Unlock All Ford Collection Tracks
-// Unlock All Ford Collection Tracks
+[Unlock All Ford Collection Tracks]
 patch=1,EE,200C0224,extended,A0620000
 
-//Unlock All Ford Collection Tracks #3
+[Unlock All Ford Collection Tracks #3]
 author=GamingDragon93
 description=Unlock All Ford Collection Tracks
-// Unlock All Ford Collection Tracks
+[Unlock All Ford Collection Tracks]
 patch=1,EE,201E80A4,extended,24020001
 
-//Unlock All Ford Collection Tracks #4
+[Unlock All Ford Collection Tracks #4]
 author=GamingDragon93
 description=Unlock All Ford Collection Tracks
-// Unlock All Ford Collection Tracks
+[Unlock All Ford Collection Tracks]
 patch=1,EE,201E80A8,extended,08030088
 
-//Unlock All Ford Collection Race Types
+[Unlock All Ford Collection Race Types]
 author=GamingDragon93
 description=Unlock All Ford Collection Race Types
-// Unlock All Ford Collection Race Types
+[Unlock All Ford Collection Race Types]
 patch=1,EE,201E80E0,extended,24020001
 
-//Unlock All Ford Collection Race Types #2
+[Unlock All Ford Collection Race Types #2]
 author=GamingDragon93
 description=Unlock All Ford Collection Race Types
-// Unlock All Ford Collection Race Types
+[Unlock All Ford Collection Race Types]
 patch=1,EE,201E80E4,extended,A0620000
 
-//Unlock All Ford Collection Race Types #3
+[Unlock All Ford Collection Race Types #3]
 author=GamingDragon93
 description=Unlock All Ford Collection Race Types
-// Unlock All Ford Collection Race Types
+[Unlock All Ford Collection Race Types]
 patch=1,EE,201E80E8,extended,03E00008
 
-//Unlock All Ford Collection Race Types #4
+[Unlock All Ford Collection Race Types #4]
 author=GamingDragon93
 description=Unlock All Ford Collection Race Types
-// Unlock All Ford Collection Race Types
+[Unlock All Ford Collection Race Types]
 patch=1,EE,201E80EC,extended,27BD0010
 
-//Unlock All Ford Collection Cars
+[Unlock All Ford Collection Cars]
 author=GamingDragon93
 description=Unlock All Ford Collection Cars
-// Unlock All Ford Collection Cars
+[Unlock All Ford Collection Cars]
 patch=1,EE,201E8120,extended,24020003
 
-//Unlock All Ford Collection Cars #2
+[Unlock All Ford Collection Cars #2]
 author=GamingDragon93
 description=Unlock All Ford Collection Cars
-// Unlock All Ford Collection Cars
+[Unlock All Ford Collection Cars]
 patch=1,EE,201E8124,extended,A0620000
 
-//Unlock All Ford Collection Cars #3
+[Unlock All Ford Collection Cars #3]
 author=GamingDragon93
 description=Unlock All Ford Collection Cars
-// Unlock All Ford Collection Cars
+[Unlock All Ford Collection Cars]
 patch=1,EE,201E8128,extended,03E00008
 
-//Unlock All Ford Collection Cars #4
+[Unlock All Ford Collection Cars #4]
 author=GamingDragon93
 description=Unlock All Ford Collection Cars
-// Unlock All Ford Collection Cars
+[Unlock All Ford Collection Cars]
 patch=1,EE,201E812C,extended,27BD0010

@@ -1,6 +1,6 @@
 gametitle=Teen Titans PAL-F SLES-54430 E1F17139
 
-//NTSC Mode
+[NTSC Mode]
 author=GamingDragon93
 description=NTSC mode at start. Might need EE Overclock (180%).
 patch=1,EE,0015E73C,word,14800004 //10800004

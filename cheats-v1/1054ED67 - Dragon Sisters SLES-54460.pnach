@@ -1,21 +1,21 @@
-//Cheats/Infinite HP P1
+[Cheats/Infinite HP P1]
 patch=1,EE,10354574,extended,000003e7
 patch=1,EE,10354578,extended,000003e7
 
-//Cheats/Infinite Special P1
+[Cheats/Infinite Special P1]
 patch=1,EE,003546b8,extended,00000005
 
-//Cheats/Infinite HP P2
+[Cheats/Infinite HP P2]
 patch=1,EE,2035C1F4,extended,000003E7
 patch=1,EE,2035C1F8,extended,000003E7
 
-//Cheats/Infinite Special P2
+[Cheats/Infinite Special P2]
 patch=1,EE,2035C338,extended,00000005
 
-//Cheats/999999 Souls
+[Cheats/999999 Souls]
 patch=1,EE,202A7A84,extended,000F423F
 
-//Cheats/Unlock All Bonus
+[Cheats/Unlock All Bonus]
 patch=1,EE,002A7860,extended,000000FF
 patch=1,EE,202A7D40,extended,00000001
 patch=1,EE,402A7CD4,extended,00090001

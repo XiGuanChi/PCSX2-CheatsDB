@@ -1,20 +1,20 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,202E5F58,extended,00000009
 
-//Cheats/Infinite Credits
+[Cheats/Infinite Credits]
 patch=1,EE,202E5F54,extended,00000009
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,201D1780,extended,AE000074
 patch=1,EE,201D1784,extended,10000005
 
-//Cheats/Max Charge Final Stage A Wave Motion Gun destruction is not supported
+[Cheats/Max Charge Final Stage A Wave Motion Gun destruction is not supported]
 patch=1,EE,D031A788,extended,0000A668
 patch=1,EE,2031A7AC,extended,3C015000
 patch=1,EE,D031A788,extended,0000A668
 patch=1,EE,2031A7B0,extended,AC610000
 
-//Cheats/Unlock All Aircrafts
+[Cheats/Unlock All Aircrafts]
 patch=1,EE,2015CF3C,extended,241A00FF
 patch=1,EE,2015CF40,extended,A05A0000
 patch=1,EE,2015CF4C,extended,24020001

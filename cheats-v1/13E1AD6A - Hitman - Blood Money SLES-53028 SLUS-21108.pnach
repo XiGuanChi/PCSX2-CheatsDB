@@ -1,17 +1,17 @@
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,204FED80,extended,00000001
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20323434,extended,00000000
 
-//Cheats/Infinite Ammo Gun and No Reloads
+[Cheats/Infinite Ammo Gun and No Reloads]
 patch=1,EE,201B3398,extended,25EF0000
 
-//Cheats/Buy or Check Upgrades For 9 Million Cash
+[Cheats/Buy or Check Upgrades For 9 Million Cash]
 patch=1,EE,203E162C,extended,3C0F0090
 
-//Cheats/Infinite Saves
+[Cheats/Infinite Saves]
 patch=1,EE,20534A28,extended,00000000
 
-//Cheats/Unlock All Missions Rookie Difficulty
+[Cheats/Unlock All Missions Rookie Difficulty]
 patch=1,EE,206391E8,extended,FFFFFFFF

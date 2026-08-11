@@ -1,42 +1,42 @@
-//Cheats/Infinite Lives P1
+[Cheats/Infinite Lives P1]
 patch=1,EE,00A0FAB7,extended,000000FF
 
-//Cheats/Infinite Lives P2
+[Cheats/Infinite Lives P2]
 patch=1,EE,00A0F9B7,extended,00000063
 
-//Cheats/Infinite Bomb P1
+[Cheats/Infinite Bomb P1]
 patch=1,EE,00A0F705,extended,00000063
 
-//Cheats/Infinite Bomb P2
+[Cheats/Infinite Bomb P2]
 patch=1,EE,00A0F615,extended,00000063
 
-//Cheats/Infinite Ammo P1
+[Cheats/Infinite Ammo P1]
 patch=1,EE,10A0F708,extended,0000FFFF
 
-//Cheats/Infinite Ammo P2
+[Cheats/Infinite Ammo P2]
 patch=1,EE,10A0F618,extended,0000FFFF
 
-//Cheats/Infinite Canon P1
+[Cheats/Infinite Canon P1]
 patch=1,EE,00A26D86,extended,00000063
 
-//Cheats/Infinite Canon P2
+[Cheats/Infinite Canon P2]
 patch=1,EE,00A26D46,extended,00000063
 
-//Cheats/Invincible P1
+[Cheats/Invincible P1]
 patch=1,EE,00A0F6C8,extended,000000B3
 
-//Cheats/Invincible P2
+[Cheats/Invincible P2]
 patch=1,EE,00A0F5D8,extended,000000B3
 
-//Cheats/Rapid Bomb & Fire P1
+[Cheats/Rapid Bomb & Fire P1]
 patch=1,EE,00A0F700,extended,00000000
 patch=1,EE,00A0F702,extended,000000FF
 
-//Cheats/Rapid Bomb & Fire P2
+[Cheats/Rapid Bomb & Fire P2]
 patch=1,EE,00A0F610,extended,00000000
 patch=1,EE,00A0F612,extended,000000FF
 
-//Cheats/Captive Rescue 99
+[Cheats/Captive Rescue 99]
 patch=1,EE,D0979778,extended,00000000
 patch=1,EE,00979778,extended,00000063
 

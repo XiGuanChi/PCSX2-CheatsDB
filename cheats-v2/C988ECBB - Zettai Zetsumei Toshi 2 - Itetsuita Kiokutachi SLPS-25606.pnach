@@ -1,5 +1,5 @@
 gametitle=Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi SLPS-25606
-//Not wet (to the decrease in body temperature)
+[Not wet (to the decrease in body temperature)]
 patch=1,EE,4061F91C,extended,00290011
 patch=1,EE,FF000200,extended,00000000
 patch=1,EE,4061F92C,extended,00290011
@@ -7,18 +7,18 @@ patch=1,EE,00000000,extended,00000000
 patch=1,EE,4061F930,extended,00290011
 patch=1,EE,00000000,extended,00000000
 
-//Not decrease TP
+[Not decrease TP]
 patch=1,EE,2014BB2C,extended,C4400374
 patch=1,EE,2014BB34,extended,E4400370
 
 
-//Weight limit release
+[Weight limit release]
 patch=1,EE,20626B18,extended,0098967F
 
-//The coat takes off
+[The coat takes off]
 patch=1,EE,20326714,extended,3C024000
 
-//All roles T the P meter strip does not reduce
+[All roles T the P meter strip does not reduce]
 patch=1,EE,2014BB2C,extended,C4400374
 patch=1,EE,2014BB34,extended,E4400370
 patch=1,EE,2014BFDC,extended,C4400370

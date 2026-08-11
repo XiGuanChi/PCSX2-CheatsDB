@@ -1,25 +1,25 @@
-//Cheats/Max Money by exchanging items from the storage room
+[Cheats/Max Money by exchanging items from the storage room]
 patch=1,EE,2019FF38,extended,00000000
 
-//Cheats/InfiniteD Distribution Bonus Points To exit, press Circle twice.
+[Cheats/InfiniteD Distribution Bonus Points To exit, press Circle twice.]
 patch=1,EE,201C7BCC,extended,00000000
 patch=1,EE,201C7E6C,extended,AF808B48
 
-//Cheats/Max HP
+[Cheats/Max HP]
 patch=1,EE,200F4014,extended,8C810D78
 patch=1,EE,200F4018,extended,AC810CA4
 
-//Cheats/Max MP
+[Cheats/Max MP]
 patch=1,EE,200F401C,extended,8C810D7C
 patch=1,EE,200F4020,extended,AC810CA8
 
-//Cheats/Max AP 99
+[Cheats/Max AP 99]
 patch=1,EE,200F4038,extended,340326AC
 patch=1,EE,200F403C,extended,AC830D80
 patch=1,EE,200F4040,extended,AC830CAC
 patch=1,EE,200F4044,extended,AC830CC0
 
-//Cheats/Max Status When Leveling Up
+[Cheats/Max Status When Leveling Up]
 patch=1,EE,20193538,extended,00000000
 patch=1,EE,20193638,extended,2403270F
 patch=1,EE,20193648,extended,240303E7
@@ -33,20 +33,20 @@ patch=1,EE,201936B0,extended,AC830CE0
 patch=1,EE,20193640,extended,AC830CC0
 patch=1,EE,201936B8,extended,03E00008
 
-//Cheats/Forced enemy HP 1 If you attack the enemy and fail to inflict damage exceeding the enemy's current HP, the enemy's HP becomes 1
+[Cheats/Forced enemy HP 1 If you attack the enemy and fail to inflict damage exceeding the enemy's current HP, the enemy's HP becomes 1]
 patch=1,EE,20192558,extended,34020001
 patch=1,EE,20192560,extended,5C600060
 patch=1,EE,20192564,extended,AE620CA4
 
-//Cheats/Max Intimacy Value in status display only for characters whose intimacy value is referenced not to refer to the enemy's intimacy value as the effect also affects the enemy.
+[Cheats/Max Intimacy Value in status display only for characters whose intimacy value is referenced not to refer to the enemy's intimacy value as the effect also affects the enemy.]
 patch=1,EE,2017FAA0,extended,340300FF
 patch=1,EE,2017FAA8,extended,AC430000
 
-//Cheats/Unlock All Title Complete
+[Cheats/Unlock All Title Complete]
 patch=1,EE,20183AC4,extended,34050001
 patch=1,EE,20183AC8,extended,AC450000
 
-//Cheats/Unlock All Item Encyclopedia Complete open the item encyclopedia and save when the code is ON. After that, if you turn off this code and start the game, it will be reflected normally
+[Cheats/Unlock All Item Encyclopedia Complete open the item encyclopedia and save when the code is ON. After that, if you turn off this code and start the game, it will be reflected normally]
 patch=1,EE,20182F30,extended,00502021
 patch=1,EE,20182F3C,extended,A0820000
 

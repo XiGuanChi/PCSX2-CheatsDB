@@ -1,11 +1,11 @@
 gametitle=God of War SLPM-66167
-//With L3 button Rage of Gods meter maximum
+[With L3 button Rage of Gods meter maximum]
 patch=1,EE,D029D6E0,extended,00000200
 patch=1,EE,203017A0,extended,42C80000
 
-//Magical meter it does not decrease
+[Magical meter it does not decrease]
 patch=1,EE,2030179C,extended,42C80000
 
-//With L1 button physical reconditioning
+[With L1 button physical reconditioning]
 patch=1,EE,D029D6E0,extended,00000004
 patch=1,EE,201E19AC,extended,46016328

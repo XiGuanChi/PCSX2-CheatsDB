@@ -1,14 +1,14 @@
 gametitle=Super Bust-A-Move 2 SLES-50562
-//Exploding Bubbles Press L3 to activate.
+[Exploding Bubbles Press L3 to activate.]
 patch=1,EE,D02090B6,extended,0000FFFD
 patch=1,EE,00366960,extended,00000029
 
-//Play As Weepy
+[Play As Weepy]
 patch=1,EE,2062D534,extended,0000000B
 
-//Puzzle mode only.
-//Max Score For Player 1
+[Puzzle mode only.]
+[Max Score For Player 1]
 patch=1,EE,20364D90,extended,003FFFAB
 
-//Infinite Bubbling Time For Player 1
+[Infinite Bubbling Time For Player 1]
 patch=1,EE,20364DB8,extended,00000000

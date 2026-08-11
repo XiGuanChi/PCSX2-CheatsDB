@@ -1,20 +1,20 @@
 gametitle=Galerians - Ash SLES-51343
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202297C0,extended,000003E8
 
-//Infinite D-Felon
+[Infinite D-Felon]
 patch=1,EE,202297D8,extended,000003E8
 
-//Infinite Nalcon
+[Infinite Nalcon]
 patch=1,EE,202297D0,extended,000003E8
 
-//Infinite Red
+[Infinite Red]
 patch=1,EE,202297D4,extended,000003E8
 
-//Infinite AP
+[Infinite AP]
 patch=1,EE,202297C8,extended,00000001
 
-//graphic fix hw Floats workaround 
+[graphic fix hw Floats workaround]
 patch=1,EE,001e7130,word,3c017e00
 patch=1,EE,001e7138,word,44812800
 patch=1,EE,001e7150,word,44813000

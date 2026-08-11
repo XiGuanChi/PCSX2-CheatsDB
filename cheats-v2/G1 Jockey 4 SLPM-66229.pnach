@@ -1,68 +1,68 @@
 gametitle=G1 Jockey 4 SLPM-66229
-//RP5000
+[RP5000]
 patch=1,EE,20A8D494,extended,00001388
 
-//Potential does not decrease (for the time being version)
+[Potential does not decrease (for the time being version)]
 patch=1,EE,2017BAA8,extended,24021000
 
-//Potential does not decrease (for now, version 2)
+[Potential does not decrease (for now, version 2)]
 patch=1,EE,2017BAB8,extended,1000002F
 
-//Potential increase degree UP (final version)
+[Potential increase degree UP (final version)]
 patch=1,EE,2017C444,extended,1000000C
 patch=1,EE,2017C478,extended,3C034300
 
-//Pad address (minus format)
+[Pad address (minus format)]
 patch=1,EE,3CB0ECE6,extended,
 
-//Trainer friendship (all trainers appear & MAX, there are bug reports)
+[Trainer friendship (all trainers appear & MAX, there are bug reports)]
 patch=1,EE,2011A858,extended,240200FA
 patch=1,EE,2011A9F8,extended,240200FA
 
-//Trainer friendliness (MAX only for trainers you know, no particular problems)
+[Trainer friendliness (MAX only for trainers you know, no particular problems)]
 patch=1,EE,2011A858,extended,240200FA
 
-//Trainer Friendship (work area version)
+[Trainer Friendship (work area version)]
 patch=1,EE,00A8D49B,extended,000000FA
 patch=1,EE,40A8D49C,extended,000F0001
 patch=1,EE,FAFAFAFA,extended,00000000
 patch=1,EE,10A8D4D8,extended,0000FAFA
 patch=1,EE,00A8D4DA,extended,000000FA
 
-//Jockey ability (work area version)
+[Jockey ability (work area version)]
 patch=1,EE,00A8D4DE,extended,000000FF
 
-//Jockey ability (program version) start
+[Jockey ability (program version) start]
 patch=1,EE,20117EC4,extended,240200FF
 
-//compromise
+[compromise]
 patch=1,EE,20117ED4,extended,240200FF
 
-//pace judgment
+[pace judgment]
 patch=1,EE,20117EEC,extended,240200FF
 
-//Chase
+[Chase]
 patch=1,EE,20117F04,extended,240200FF
 
-//Experience value MAX for improving jockey ability start
+[Experience value MAX for improving jockey ability start]
 patch=1,EE,20118020,extended,240200FF
 
-//compromise
+[compromise]
 patch=1,EE,20118030,extended,240200FF
 
-//pace judgment
+[pace judgment]
 patch=1,EE,20118040,extended,240200FF
 
-//Chase
+[Chase]
 patch=1,EE,20118050,extended,240200FF
 
-//Rank up experience value
+[Rank up experience value]
 patch=1,EE,20118060,extended,240200FF
 
-//All main battle levels are 30
+[All main battle levels are 30]
 patch=1,EE,2010D950,extended,2402001E
 
-//Prototype code Lifetime performance prize money full & total victory leg quality Max & comment change of performance by racecourse
+[Prototype code Lifetime performance prize money full & total victory leg quality Max & comment change of performance by racecourse]
 patch=1,EE,10A8BD1E,extended,0000FFFF
 patch=1,EE,40A8BD20,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000

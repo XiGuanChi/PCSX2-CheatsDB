@@ -1,13 +1,13 @@
-//Cheats/Max Money 1P
+[Cheats/Max Money 1P]
 patch=1,EE,2017C290,extended,3B9AC9FF
 
-//Cheats/Remaining Turn & Target Operation 1P Press L2+Square Remaining 2 R2+Square Remaining 50
+[Cheats/Remaining Turn & Target Operation 1P Press L2+Square Remaining 2 R2+Square Remaining 50]
 patch=1,EE,D0178702,extended,00007EFF
 patch=1,EE,1017C1A6,extended,00000002
 patch=1,EE,D0178702,extended,00007DFF
 patch=1,EE,1017C1A6,extended,00000032
 
-//Cheats/Unlock All Museum Treasures
+[Cheats/Unlock All Museum Treasures]
 patch=1,EE,20176958,extended,FFFFFFFF
 patch=1,EE,2017695C,extended,FFFFFFFF
 patch=1,EE,20176960,extended,FFFFFFFF

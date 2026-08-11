@@ -1,21 +1,21 @@
 gametitle=State of Emergency 2 SLUS-20966
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20592F08,extended,437A0000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201A6904,extended,24420000
 patch=1,EE,201A694C,extended,00000000
 
-//All Cheats/Characters
+[All Cheats/Characters]
 patch=1,EE,20455870,extended,FFFFFFFF
 patch=1,EE,20455874,extended,FFFFFFFF
 
-//All Levels (Make New Save)
+[All Levels (Make New Save)]
 patch=1,EE,20420B7C,extended,006F0101
 patch=1,EE,20455A54,extended,00000001
 
-//Invincibility
+[Invincibility]
 patch=1,EE,204440F4,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,204440F8,extended,00000001

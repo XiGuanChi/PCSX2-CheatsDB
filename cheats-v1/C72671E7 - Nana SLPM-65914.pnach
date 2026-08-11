@@ -1,15 +1,15 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20718DDC,extended,0098967F
 patch=1,EE,20718DF0,extended,0098967F
 
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,20718F00,extended,0001869F
 patch=1,EE,20718F04,extended,0001869F
 
-//Cheats/Unlock All Clothes
+[Cheats/Unlock All Clothes]
 patch=1,EE,40719B10,extended,001A0001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Layout
+[Cheats/Unlock All Layout]
 patch=1,EE,40719B90,extended,00150001
 patch=1,EE,01010101,extended,00000000

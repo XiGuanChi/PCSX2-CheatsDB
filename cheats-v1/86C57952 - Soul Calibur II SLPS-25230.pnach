@@ -1,33 +1,33 @@
-//Cheats/Msx Gold After Change
+[Cheats/Msx Gold After Change]
 patch=1,EE,20249FE4,extended,00000000
 patch=1,EE,20241E10,extended,AC820204
 
-//Cheats/Msx Exp acquisition reaches
+[Cheats/Msx Exp acquisition reaches]
 patch=1,EE,202421C8,extended,0003102B
 
-//Cheats/Infinite Health Player 1
+[Cheats/Infinite Health Player 1]
 patch=1,EE,203D1D1C,extended,43700000
 patch=1,EE,203D1D2C,extended,43700000
 
-//Cheats/Infinite Health Player 1 + One Hit Kill
+[Cheats/Infinite Health Player 1 + One Hit Kill]
 patch=1,EE,2019EAF0,extended,32030080
 patch=1,EE,2019EAF4,extended,14600006
 patch=1,EE,2019EAFC,extended,1060000F
 patch=1,EE,2019EB1C,extended,3C010000
 patch=1,EE,2019EB44,extended,3C01C370
 
-//Cheats/Exp 99999900 Weapon Master Mode
+[Cheats/Exp 99999900 Weapon Master Mode]
 patch=1,EE,2045B508,extended,05F5E09C
 
-//Cheats/Gold 99999900 Weapon Master Mode
+[Cheats/Gold 99999900 Weapon Master Mode]
 patch=1,EE,2045B6EC,extended,05F5E09C
 
-//Cheats/Unlock Weapon Master Mode All Weapons and Hidden Elements Save Data is required
+[Cheats/Unlock Weapon Master Mode All Weapons and Hidden Elements Save Data is required]
 patch=1,EE,201A2A7C,extended,240500FF
 patch=1,EE,201A2A80,extended,A1050000
 patch=1,EE,201A2AB8,extended,04E1FFF0
 
-//Cheats/Unlock All Modes
+[Cheats/Unlock All Modes]
 patch=1,EE,403FBF60,extended,000B0001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,203FBF8C,extended,02000002

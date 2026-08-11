@@ -1,30 +1,30 @@
 gametitle=The Mummy - Tomb of the Dragon Emperor SLUS-21775
-//Infinite HP
+[Infinite HP]
 patch=1,EE,200A0000,extended,C60006B4
 patch=1,EE,200A0004,extended,E60006B0
 patch=1,EE,200A0008,extended,0807228F
 patch=1,EE,201C8A38,extended,08028000
 
-//Inf Ammo (99)
+[Inf Ammo (99)]
 patch=1,EE,201B549C,extended,24020063
 patch=1,EE,201B54A0,extended,03E00008
 patch=1,EE,201B54A4,extended,AC8209A0
 
-//Press L3+R3 To Infinite Health Partner
+[Press L3+R3 To Infinite Health Partner]
 patch=1,EE,201FDDD4,extended,8C420000
 patch=1,EE,D039C1C2,extended,0000FFF9
 patch=1,EE,201FDDD4,extended,AC420000
 
-//Enable Debug Menu
+[Enable Debug Menu]
 patch=1,EE,003BF9E4,extended,00000001
 
-//Enable Cheats & Weapons & Gallery & Replay Levels
+[Enable Cheats & Weapons & Gallery & Replay Levels]
 patch=1,EE,003BF9D8,extended,00000001
 
-//1 Hit Kill Enemy
+[1 Hit Kill Enemy]
 patch=1,EE,200A0010,extended,AE0006B0
 patch=1,EE,200A0014,extended,0804EAC5
 patch=1,EE,2013AB10,extended,08028004
 
-//Always Have Hp Gain (Active)
+[Always Have Hp Gain (Active)]
 patch=1,EE,201B3D64,extended,E60306B8

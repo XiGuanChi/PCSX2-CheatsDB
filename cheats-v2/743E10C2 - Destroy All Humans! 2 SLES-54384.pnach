@@ -1,16 +1,16 @@
 gametitle=Destroy All Humans! 2 SLES-54384
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0880,extended,8C8100D0
 patch=1,EE,200C0884,extended,01800008
 patch=1,EE,200C0888,extended,AC8100CC
 patch=1,EE,20205F88,extended,0C030220
 
-//Infinite Zap-O-Matic
+[Infinite Zap-O-Matic]
 patch=1,EE,202bab80,extended,00000000
 patch=1,EE,202bb49c,extended,00000000
 
-//Infinite Ammo-All Weapons
+[Infinite Ammo-All Weapons]
 patch=1,EE,20493788,extended,00000001
 
-//Alert Level Never Increases
+[Alert Level Never Increases]
 patch=1,EE,201D64A0,extended,AE000098

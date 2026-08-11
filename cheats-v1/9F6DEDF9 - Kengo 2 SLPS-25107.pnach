@@ -1,4 +1,4 @@
-//Cheats/Max Stats 9999
+[Cheats/Max Stats 9999]
 patch=1,EE,201B6E14,extended,64040007
 patch=1,EE,201B6E18,extended,3463270F
 patch=1,EE,201B6E1C,extended,A4A30000
@@ -6,11 +6,11 @@ patch=1,EE,201B6E20,extended,2484FFFF
 patch=1,EE,201B6E24,extended,24A50002
 patch=1,EE,201B6E2C,extended,1480FFFA
 
-//Cheats/All Sword Selection Main Edition
+[Cheats/All Sword Selection Main Edition]
 patch=1,EE,201D20B0,extended,36E20FFF
 patch=1,EE,201D20B4,extended,A06200A4
 
-//Cheats/Main Story Press only R3 In Battle Heals Player Hold select+R3 Kill Enemy
+[Cheats/Main Story Press only R3 In Battle Heals Player Hold select+R3 Kill Enemy]
 patch=1,EE,200F2180,extended,3C010024
 patch=1,EE,200F2184,extended,842543C0
 patch=1,EE,200F2188,extended,30A30400
@@ -27,20 +27,20 @@ patch=1,EE,200F21B0,extended,AC20FF54
 patch=1,EE,200F21B4,extended,03E00008
 patch=1,EE,20119218,extended,0803C860
 
-//Cheats/Auto-recovery Health
+[Cheats/Auto-recovery Health]
 patch=1,EE,20381E14,extended,3F800000
 patch=1,EE,20381E18,extended,3F800000
 
-//Cheats/No Maturity
+[Cheats/No Maturity]
 patch=1,EE,201DDB00,extended,70001489
 
-//Cheats/Enemy does not move Please do not use these codes in combination they cannot be used at the dojo.
+[Cheats/Enemy does not move Please do not use these codes in combination they cannot be used at the dojo.]
 patch=1,EE,2039CBB8,extended,00000000
 
-//Cheats/Do not attack enemies Please do not use these codes in combination they cannot be used at the dojo
+[Cheats/Do not attack enemies Please do not use these codes in combination they cannot be used at the dojo]
 patch=1,EE,2039CBE0,extended,00000000
 
-//Cheats/Unlock All Swords Acquired And All Techniques Mastered Once you have started the game using the code, confirm that it has an effect, then save the game in Main Game and proceed with the game without using the code from then on
+[Cheats/Unlock All Swords Acquired And All Techniques Mastered Once you have started the game using the code, confirm that it has an effect, then save the game in Main Game and proceed with the game without using the code from then on]
 patch=1,EE,20270EAC,extended,FFFF64FF
 patch=1,EE,20270EB0,extended,64646464
 patch=1,EE,20270EB4,extended,64646464
@@ -49,12 +49,12 @@ patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,40270EB8,extended,00450001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Characters can be selected Once you have started the game using the code, confirm that it has an effect, then save the game in Main Game and proceed with the game without using the code from then on
+[Cheats/Unlock All Characters can be selected Once you have started the game using the code, confirm that it has an effect, then save the game in Main Game and proceed with the game without using the code from then on]
 patch=1,EE,202456EC,extended,00000001
 patch=1,EE,40270D80,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All faces and costumes
+[Cheats/Unlock All faces and costumes]
 patch=1,EE,201D3750,extended,0803DBD0
 patch=1,EE,200F6F40,extended,342100FF
 patch=1,EE,200F6F44,extended,A0610009

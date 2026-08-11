@@ -1,28 +1,28 @@
-//Cheats/Always Empty Panic Meter
+[Cheats/Always Empty Panic Meter]
 patch=1,EE,219400B4,extended,00000000
 patch=1,EE,21940440,extended,00000000
 
-//Cheats/Infinite Health vs Boss
+[Cheats/Infinite Health vs Boss]
 patch=1,EE,2185A4A8,extended,00000000
 patch=1,EE,21874E98,extended,10000034
 patch=1,EE,218DADEC,extended,10000046
 
-//Cheats/Max Charge Arrow can be shot at any time
+[Cheats/Max Charge Arrow can be shot at any time]
 patch=1,EE,218751F8,extended,5000005F
 
-//Cheats/Infinite Holy Water
+[Cheats/Infinite Holy Water]
 patch=1,EE,019404C8,extended,00000009
 patch=1,EE,019404D0,extended,00000009
 
-//Cheats/Invisible Press R2
+[Cheats/Invisible Press R2]
 patch=1,EE,D19410F0,extended,00000002
 patch=1,EE,219407E0,extended,00800000
 
-//Cheats/Unlock CINEMA THEATER, can select the key to the dresser  It is saved as soon as you start the game, please complete without this code later. The data that are saved will be NEW GAME
+[Cheats/Unlock CINEMA THEATER, can select the key to the dresser  It is saved as soon as you start the game, please complete without this code later. The data that are saved will be NEW GAME]
 patch=1,EE,2194052C,extended,00000001
 patch=1,EE,21940530,extended,00000001
 patch=1,EE,219407E4,extended,FFFFFFFF
 
-//Cheats/No more play time
+[Cheats/No more play time]
 patch=1,EE,2193AB8C,extended,00000000
 patch=1,EE,2193EC98,extended,00000000

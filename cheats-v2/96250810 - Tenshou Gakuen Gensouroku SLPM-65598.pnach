@@ -1,24 +1,24 @@
 gametitle=Tenshou Gakuen Gensouroku SLPM-65598
-//Max gold
+[Max gold]
 patch=1,EE,201DAFE0,extended,0001869F
 
-//Max Possess money 
+[Max Possess money]
 patch=1,EE,21ED0AEC,extended,0001869F
 
-//Max Vermilion Fragment 
+[Max Vermilion Fragment]
 patch=1,EE,01ED0AF0,extended,00000063
 
-//All equipment appears temporarily on the equipment change screen 
+[All equipment appears temporarily on the equipment change screen]
 patch=1,EE,20194A2C,extended,24020001
 
-//Move and attack as many times as you want 
+[Move and attack as many times as you want]
 patch=1,EE,20116064,extended,35EF0000
 patch=1,EE,20115AC0,extended,35CE0000
 
-//Skills do not consume experience
+[Skills do not consume experience]
 patch=1,EE,20116490,extended,01EF7824
 
-//Allies' health does not decreaseNot reduced at L3, normal at R3.
+[Allies' health does not decreaseNot reduced at L3, normal at R3.]
 patch=1,EE,2012526C,extended,0803FFC4
 patch=1,EE,200FFF10,extended,968B0004
 patch=1,EE,200FFF1C,extended,01F07823
@@ -29,33 +29,33 @@ patch=1,EE,D01CB9C2,extended,0000FFFB
 patch=1,EE,200FFF14,extended,00000000
 
 
-//Max Reinoroi
+[Max Reinoroi]
 patch=1,EE,201DAFE4,extended,000003E7
 
-//LINGZHU999
+[LINGZHU999]
 patch=1,EE,201DAFE4,extended,000003E7
 
-//QIANPIAN99
+[QIANPIAN99]
 patch=1,EE,001DB99F,extended,00000063
 
-//DAOJU99
+[DAOJU99]
 patch=1,EE,401DB8D4,extended,003C0001
 patch=1,EE,63636363,extended,00000000
 
-//XIANGXING99
+[XIANGXING99]
 patch=1,EE,2014F60C,extended,240C0000
 patch=1,EE,401DBA04,extended,00380001
 patch=1,EE,63636363,extended,00000000
 patch=1,EE,401DBA04,extended,00040001
 patch=1,EE,63636363,extended,00000000
 
-//All character affinity value 99
+[All character affinity value 99]
 patch=1,EE,401DBA04,extended,00380001
 patch=1,EE,63636363,extended,00000000
 
-//debug code
+[debug code]
 patch=1,EE,201DA658,extended,00000007
 
-//Compatibility value from Inami to other characters is 99
+[Compatibility value from Inami to other characters is 99]
 patch=1,EE,401DBA04,extended,00040001
 patch=1,EE,63636363,extended,00000000

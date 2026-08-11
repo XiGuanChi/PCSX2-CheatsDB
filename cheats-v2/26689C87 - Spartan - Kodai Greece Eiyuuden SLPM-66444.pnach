@@ -1,15 +1,15 @@
 gametitle=Spartan - Kodai Greece Eiyuuden SLPM-66444
-//Infinite Health
+[Infinite Health]
 patch=1,EE,203BE7C8,extended,081150A0
 patch=1,EE,203BE7CC,extended,A45102FA
 patch=1,EE,203BE7F8,extended,241101F4
 patch=1,EE,203BE800,extended,0C0EF9F2
 
-//infinite Rage
+[infinite Rage]
 patch=1,EE,205BD64C,extended,000025A0  
 
-//Unlock all items arena
+[Unlock all items arena]
 patch=1,EE,20384460,extended,24100002
 
-//Unlock 6 arena / 14 stages (after first save)
+[Unlock 6 arena / 14 stages (after first save)]
 patch=1,EE,2038419C,extended,2402000E

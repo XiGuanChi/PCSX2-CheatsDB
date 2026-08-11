@@ -1,20 +1,20 @@
 gametitle= Capcom vs SNK 2 SLPM-65047
-//Max Groove Points
+[Max Groove Points]
 patch=1,EE,20617E56,extended,0098967F
 
-//P1 Infinite Health
+[P1 Infinite Health]
 patch=1,EE,20510C74,extended,36003600
 patch=1,EE,10510C78,extended,00003600
 
-//Unlock Shin Akuma & God Ruga
+[Unlock Shin Akuma & God Ruga]
 patch=1,EE,203F701C,extended,FFFFFFFF
 
-//All Characters 
+[All Characters]
 patch=1,EE,103F6124,extended,0000FFFF
 
-//Added GROOVE EDIT MODE
+[Added GROOVE EDIT MODE]
 patch=1,EE,0051B71D,extended,00000001
 
-//Added EXTRA OPTION
+[Added EXTRA OPTION]
 patch=1,EE,0051B75E,extended,00000001
 

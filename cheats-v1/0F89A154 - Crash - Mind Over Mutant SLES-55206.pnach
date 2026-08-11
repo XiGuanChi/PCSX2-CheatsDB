@@ -1,16 +1,16 @@
-//Cheats/Infinite Health Crash
+[Cheats/Infinite Health Crash]
 patch=1,EE,202BB3F4,extended,3C0142B4
 patch=1,EE,202BB3F8,extended,AC410004
 patch=1,EE,202BB3FC,extended,00000000
 
-//Cheats/Infinite Power Mounts
+[Cheats/Infinite Power Mounts]
 patch=1,EE,2027AC74,extended,00000000
 
-//Cheats/Gain 1000 Experience Per Orb
+[Cheats/Gain 1000 Experience Per Orb]
 patch=1,EE,204745C0,extended,240603E8
 patch=1,EE,204745C4,extended,00461021
 patch=1,EE,204745C8,extended,03E00008
 patch=1,EE,204745CC,extended,AC820000
 
-//Cheats/Quick Mojo Gain
+[Cheats/Quick Mojo Gain]
 patch=1,EE,202B9B0C,extended,241003E8

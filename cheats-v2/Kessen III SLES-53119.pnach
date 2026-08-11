@@ -1,24 +1,24 @@
 gametitle=Kessen III SLES-53119
-//Max Cash
+[Max Cash]
 patch=1,EE,20E5EFF0,extended,70000000
 
-//Infinite Troops
+[Infinite Troops]
 patch=1,EE,203027A0,extended,E662006C
 
-//Fast Runners
+[Fast Runners]
 patch=1,EE,201ED9E0,extended,3C014600
 patch=1,EE,201ED9E4,extended,AE010054
 patch=1,EE,201ED9EC,extended,AE0100D0
 patch=1,EE,201ED9E8,extended,AE21014C
 
-//SD Mode
+[SD Mode]
 patch=1,EE,20581300,extended,3FA00000
 patch=1,EE,20581328,extended,3FA00000
 patch=1,EE,20581314,extended,3FA00000
 patch=1,EE,2058133C,extended,3FA00000
 
-//Rampage Codes Infinite Health
+[Rampage Codes Infinite Health]
 patch=1,EE,20ED867C,extended,000003E8
 
-//1 Hit Kill 2nd General
+[1 Hit Kill 2nd General]
 patch=1,EE,00ED8D2C,extended,00000001

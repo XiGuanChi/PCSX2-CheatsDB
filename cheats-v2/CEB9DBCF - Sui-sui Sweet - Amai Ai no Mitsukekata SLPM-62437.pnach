@@ -1,7 +1,7 @@
 gametitle=Sui-sui Sweet - Amai Ai no Mitsukekata SLPM-62437
-//New Game = Debug Event Select Menu
+[New Game = Debug Event Select Menu]
 patch=1,EE,0019D5FC,extended,000000FF
 
-//Love maxim fully open
+[Love maxim fully open]
 patch=1,EE,2019D818,extended,FFFFFFFF
 patch=1,EE,0019D81C,extended,000000FF

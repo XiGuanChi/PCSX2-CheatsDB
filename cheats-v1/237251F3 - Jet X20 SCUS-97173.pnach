@@ -1,30 +1,30 @@
-//Cheats/Max Score
+[Cheats/Max Score]
 patch=1,EE,20114590,extended,2407270F
 
-//Cheats/Infinite Turbo Boost
+[Cheats/Infinite Turbo Boost]
 patch=1,EE,20117A60,extended,3C013FE8
 patch=1,EE,20117A68,extended,AE210000
 
-//Cheats/Infinite Points Remaining
+[Cheats/Infinite Points Remaining]
 patch=1,EE,D0269488,extended,0010BFFF
 patch=1,EE,202616E8,extended,00000063
 patch=1,EE,D0269488,extended,0000BFFF
 patch=1,EE,202616E8,extended,00000000
 
-//Cheats/Max Speed Always 0 CPU Opponents
+[Cheats/Max Speed Always 0 CPU Opponents]
 patch=1,EE,2026446C,extended,00000000
 
-//Cheats/Unlock All Crafts
+[Cheats/Unlock All Crafts]
 patch=1,EE,402ACE3C,extended,00040001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Wetsuits
+[Cheats/Unlock All Wetsuits]
 patch=1,EE,402ACE4C,extended,00060001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Decals
+[Cheats/Unlock All Decals]
 patch=1,EE,402ACE64,extended,000C0001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Riders World Tour Mode
+[Cheats/Unlock All Riders World Tour Mode]
 patch=1,EE,20260A40,extended,01010101

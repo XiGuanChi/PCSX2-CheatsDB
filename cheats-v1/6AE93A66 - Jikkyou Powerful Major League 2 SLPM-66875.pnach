@@ -1,24 +1,24 @@
-//Cheats/Max PP
+[Cheats/Max PP]
 patch=1,EE,20A508B0,extended,000F41DC
 
-//Cheats/Max Points
+[Cheats/Max Points]
 patch=1,EE,206FF13C,extended,240803E7
 patch=1,EE,206FF154,extended,240603E7
 patch=1,EE,206FF164,extended,240503E7
 patch=1,EE,206FF174,extended,240303E7
 patch=1,EE,206FF184,extended,240203E7
 
-//Cheats/Max Season P
+[Cheats/Max Season P]
 patch=1,EE,20622E80,extended,3C030099
 patch=1,EE,20622E84,extended,2463967F
 
-//Cheats/Only COM pitch straight ball
+[Cheats/Only COM pitch straight ball]
 patch=1,EE,202A0FA0,extended,10000001
 
-//Cheats/No loss of balls in home run competition
+[Cheats/No loss of balls in home run competition]
 patch=1,EE,202A7C8C,extended,00000000
 
-//Cheats/Umpire's strike judgment change Strike all SELECT+Up get all the balls SELECT+down
+[Cheats/Umpire's strike judgment change Strike all SELECT+Up get all the balls SELECT+down]
 patch=1,EE,D0A7C482,extended,0000FFEE
 patch=1,EE,202A41A0,extended,080A90E4 
 patch=1,EE,D0A7C482,extended,0000FFEE 
@@ -28,7 +28,7 @@ patch=1,EE,202A41A0,extended,27BDFFE0
 patch=1,EE,D0A7C482,extended,0000FFBE
 patch=1,EE,202A4390,extended,080A9068
 
-//Cheats/Batting Trajectory correction on true center hit L1+up to turn on the correction home run is easier to hit L1+down turn off
+[Cheats/Batting Trajectory correction on true center hit L1+up to turn on the correction home run is easier to hit L1+down turn off]
 patch=1,EE,D0A7C482,extended,0000FBEF
 patch=1,EE,2028EC04,extended,00000000
 patch=1,EE,D0A7C482,extended,0000FBBF
@@ -37,7 +37,7 @@ patch=1,EE,2028EC10,extended,00000000
 patch=1,EE,20291828,extended,3C014500
 patch=1,EE,2029182C,extended,AE010008
 
-//Cheats/Correction Hitting Distance control on true hit True core hit L1+up increases distance L1+down turn off Cannot be used in conjunction with Batting Trajectory Correction code
+[Cheats/Correction Hitting Distance control on true hit True core hit L1+up increases distance L1+down turn off Cannot be used in conjunction with Batting Trajectory Correction code]
 patch=1,EE,D0A7C482,extended,0000FBEF
 patch=1,EE,20291828,extended,3C014500
 patch=1,EE,D0A7C482,extended,0000FBBF 
@@ -45,37 +45,37 @@ patch=1,EE,20291828,extended,3C010000
 patch=1,EE,2028EC04,extended,10000003
 patch=1,EE,20291838,extended,AE010008
 
-//Cheats/Season Mode Approximately 10,000,000 points*If it does not change, please try switching the schedule
+[Cheats/Season Mode Approximately 10,000,000 points*If it does not change, please try switching the schedule]
 patch=1,EE,20518098,extended,3C050099
 patch=1,EE,2051809C,extended,AC850000
 
-//Cheats/Success Mode Max money
+[Cheats/Success Mode Max money]
 patch=1,EE,20A63304,extended,0001869F 
 
-//Cheats/Success Mode Health 100-100
+[Cheats/Success Mode Health 100-100]
 patch=1,EE,20A6134C,extended,00640064
 
-//Cheats/Success Mode Recovers physical strength when changing scenes
+[Cheats/Success Mode Recovers physical strength when changing scenes]
 patch=1,EE,206EBE50,extended,8443134E
 patch=1,EE,206EBE58,extended,A443134C
 
-//Cheats/Success Mode When entering the ability UP screen max experience points It will decrease when you distribute it, but it will return to the maximum when you reenter it
+[Cheats/Success Mode When entering the ability UP screen max experience points It will decrease when you distribute it, but it will return to the maximum when you reenter it]
 patch=1,EE,206BCE2C,extended,240203E7
 patch=1,EE,206BCE34,extended,240203E7 
 patch=1,EE,206BCE3C,extended,240203E7
 patch=1,EE,206BCE44,extended,240203E7 
 patch=1,EE,206BCE4C,extended,240203E7
 
-//Cheats/Success Mode Max motivation
+[Cheats/Success Mode Max motivation]
 patch=1,EE,00A6134B,extended,00000000
 
-//Cheats/Success Mode Always great luck
+[Cheats/Success Mode Always great luck]
 patch=1,EE,00A62B90,extended,00000064
 
-//Cheats/Success Mode Own all types of destiny cards
+[Cheats/Success Mode Own all types of destiny cards]
 patch=1,EE,00A62B91,extended,00000001
 patch=1,EE,00A62B94,extended,00000004 
 patch=1,EE,10A62B92,extended,00000302
 
-//Cheats/Success Mode Popular Lv 4
+[Cheats/Success Mode Popular Lv 4]
 patch=1,EE,00A62B8D,extended,00000064 

@@ -1,26 +1,26 @@
 gametitle=Biker Mice from Mars SLUS-21578
-//Infinite Money
+[Infinite Money]
 patch=1,EE,200A0038,extended,AC46001C
 
-//Max Lives
+[Max Lives]
 patch=1,EE,200A0010,extended,AC460000
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,200A0014,extended,AC460010
 
-//Max Bike Nos
+[Max Bike Nos]
 patch=1,EE,200A001C,extended,AC460004
 
-//Infinite Bike Nos
+[Infinite Bike Nos]
 patch=1,EE,200A0028,extended,AC460014
 
-//Max Power
+[Max Power]
 patch=1,EE,200A0020,extended,AC460008
 
-//Infinite Power
+[Infinite Power]
 patch=1,EE,200A002C,extended,AC460018
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200A0024,extended,AC46000C
 
 

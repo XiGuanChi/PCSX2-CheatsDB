@@ -1,5 +1,5 @@
 gametitle=Driv3r SLUS-20587
-//Infinite Health (On Foot)
+[Infinite Health (On Foot)]
 patch=1,EE,200C0200,extended,8C430000
 patch=1,EE,200C0204,extended,3C014000
 patch=1,EE,200C0208,extended,54600001
@@ -8,25 +8,25 @@ patch=1,EE,200C0210,extended,03E00008
 patch=1,EE,200C0214,extended,00000000
 patch=1,EE,201CAB74,extended,08030080
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201D8184,extended,00000000
 
-//Unlock All Hidden Cars
+[Unlock All Hidden Cars]
 patch=1,EE,4070F860,extended,00060001
 patch=1,EE,00000001,extended,00000000
 
-//Unlock Cheat Code - Unlock All Missions
+[Unlock Cheat Code - Unlock All Missions]
 patch=1,EE,2070F810,extended,00000001
 patch=1,EE,2070FA74,extended,00000001
 
-//Unlock Cheat Code - Unlimited Ammo
+[Unlock Cheat Code - Unlimited Ammo]
 patch=1,EE,2070F820,extended,00000001
 patch=1,EE,2070FA84,extended,00000001
 
-//Unlock Cheat Code - Invincibility (Take A Ride)
+[Unlock Cheat Code - Invincibility (Take A Ride)]
 patch=1,EE,2070F828,extended,00000001
 patch=1,EE,2070FA8C,extended,00000001
 
-//Unlock Cheat Code - Unlock All Vehicles
+[Unlock Cheat Code - Unlock All Vehicles]
 patch=1,EE,2070F840,extended,00000001
 patch=1,EE,2070FAA4,extended,00000001

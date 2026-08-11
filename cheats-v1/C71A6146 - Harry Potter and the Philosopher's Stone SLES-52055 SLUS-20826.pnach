@@ -1,16 +1,16 @@
-//Cheats/Infinite & Max Health
+[Cheats/Infinite & Max Health]
 patch=1,EE,203949A0,extended,44000000
 patch=1,EE,203949A4,extended,44000000
 
-//Cheats/Infinite & Max Bertie Bott's Beans
+[Cheats/Infinite & Max Bertie Bott's Beans]
 patch=1,EE,1039499A,extended,0000270F
 patch=1,EE,10394998,extended,0000270F
 
-//Cheats/Percy Has No AI
+[Cheats/Percy Has No AI]
 patch=1,EE,2028C7B0,extended,03E00008
 patch=1,EE,2028C7B4,extended,00000000
 
-//Cheats/Unlock All Quest Items
+[Cheats/Unlock All Quest Items]
 patch=1,EE,203949A8,extended,00100003
 patch=1,EE,203949AC,extended,00020005
 patch=1,EE,203949B0,extended,00040001
@@ -20,12 +20,12 @@ patch=1,EE,203949BC,extended,000B000A
 patch=1,EE,203949C0,extended,000D000C
 patch=1,EE,203949C4,extended,000F000E
 
-//Cheats/Unlock All Folio Magi Cards
+[Cheats/Unlock All Folio Magi Cards]
 patch=1,EE,403949E4,extended,00320001
 patch=1,EE,00090009,extended,00000000
 patch=1,EE,10394AAC,extended,00000009
 
-//Cheats/Unlock All Inventory Items
+[Cheats/Unlock All Inventory Items]
 patch=1,EE,20394968,extended,00020001
 patch=1,EE,2039496C,extended,00080005
 patch=1,EE,20394970,extended,000C000A

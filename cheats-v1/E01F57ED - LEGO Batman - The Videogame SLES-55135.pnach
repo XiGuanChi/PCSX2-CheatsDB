@@ -1,10 +1,10 @@
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,004A2BF0,extended,00000001
 
-//Cheats/Max Studs And Full Adventure Gauge After Picking Some
+[Cheats/Max Studs And Full Adventure Gauge After Picking Some]
 patch=1,EE,20361100,extended,AE240000
 
-//Cheats/Special Enabler Must Be On for Health Codes
+[Cheats/Special Enabler Must Be On for Health Codes]
 patch=1,EE,200A0000,extended,3C01004B
 patch=1,EE,200A0004,extended,8C223790
 patch=1,EE,200A0008,extended,10400026
@@ -15,17 +15,17 @@ patch=1,EE,200A00B4,extended,2403000A
 patch=1,EE,200A012C,extended,03E00008
 patch=1,EE,2046BBE4,extended,08028000
 
-//Cheats/Player 1 Max Infinite Health
+[Cheats/Player 1 Max Infinite Health]
 patch=1,EE,200A0014,extended,A04315DE
 patch=1,EE,200A0018,extended,A04315DF
 
-//Cheats/Player 2 Max Infinite Health
+[Cheats/Player 2 Max Infinite Health]
 patch=1,EE,200A00B8,extended,A04315DE
 patch=1,EE,200A00BC,extended,A04315DF
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,4061D3C4,extended,000C0001
 patch=1,EE,03030303,extended,00000000
 
-//Cheats/Unlock All Extras
+[Cheats/Unlock All Extras]
 patch=1,EE,2061D2B8,extended,FFFFFFFF

@@ -1,20 +1,20 @@
 gametitle=Hajime no Ippo - Victorious Boxers - Championship Version SLPS-25128-9-73401
-//1P snamina does not decrease
+[1P snamina does not decrease]
 patch=1,EE,102B5A82,extended,00007FFF
 patch=1,EE,102B5A86,extended,00007FFF
 
-//TKO cannot be taken even if 1P goes down 3 times
+[TKO cannot be taken even if 1P goes down 3 times]
 patch=1,EE,002B6678,extended,00000000
 
-//2P COM Physical strength 0
+[2P COM Physical strength 0]
 patch=1,EE,102B6C32,extended,00000000
 
-//COM Stamina  The effect appears from ROUND 2.
+[COM Stamina  The effect appears from ROUND 2.]
 patch=1,EE,102B6C82,extended,00000000
 
-//2P COM TKO when down once
+[2P COM TKO when down once]
 patch=1,EE,002B7878,extended,00000003
 
-//All stages and all characters can be selected
+[All stages and all characters can be selected]
 patch=1,EE,002E649C,extended,0000002F
 patch=1,EE,002E6218,extended,00000001

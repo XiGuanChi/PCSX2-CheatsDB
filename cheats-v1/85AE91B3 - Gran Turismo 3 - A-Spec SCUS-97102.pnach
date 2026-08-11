@@ -1,41 +1,41 @@
-//Cheats/Simulation Mode Instant Win
+[Cheats/Simulation Mode Instant Win]
 patch=1,EE,D1FBEC94,extended,00000000
 patch=1,EE,01FBEC94,extended,00000003
 patch=1,EE,01FCBB55,extended,00000003
 patch=1,EE,01FA3F7C,extended,00000003
 
-//Cheats/Simulation Mode 1 Lap To Finish
+[Cheats/Simulation Mode 1 Lap To Finish]
 patch=1,EE,D1FBEC94,extended,00000000
 patch=1,EE,01FBEC94,extended,00000002
 patch=1,EE,01FCBB55,extended,00000003
 patch=1,EE,01FA3F7C,extended,00000003
 
-//Cheats/Simulation Mode Max Races
+[Cheats/Simulation Mode Max Races]
 patch=1,EE,20958EEC,extended,0000270F
 
-//Cheats/Simulation Mode Max Wins
+[Cheats/Simulation Mode Max Wins]
 patch=1,EE,20958EF4,extended,0000270F
 
-//Cheats/Simulation Mode Max Money
+[Cheats/Simulation Mode Max Money]
 patch=1,EE,20958EF8,extended,D4A50FFF
 patch=1,EE,20958EFC,extended,000000E8
 
-//Cheats/Simulation Mode Freeze Licenses Time
+[Cheats/Simulation Mode Freeze Licenses Time]
 patch=1,EE,D1FFF734,extended,00305000
 
-//Cheats/Simulation Mode Freeze Licenses Timer Press L3 On R3 Off
+[Cheats/Simulation Mode Freeze Licenses Timer Press L3 On R3 Off]
 patch=1,EE,D02EA812,extended,0000FFFD
 patch=1,EE,21FFF734,extended,00000000
 patch=1,EE,D02EA812,extended,0000FFFB
 patch=1,EE,21FFF734,extended,0000004B
 
-//Cheats/Simulation Mode No Tire Wear does not work in series races. Can be activated at any time to fix the tire.
+[Cheats/Simulation Mode No Tire Wear does not work in series races. Can be activated at any time to fix the tire.]
 patch=1,EE,21FBE960,extended,C69C4000
 patch=1,EE,21FBEA04,extended,C69C4000
 patch=1,EE,21FBEAA8,extended,C69C4000
 patch=1,EE,21FBEB4C,extended,C69C4000
 
-//Cheats/Instant Win Arcade Single Race
+[Cheats/Instant Win Arcade Single Race]
 patch=1,EE,E0080000,extended,01FBCB74
 patch=1,EE,D1FA1E5C,extended,00000002
 patch=1,EE,01FBCB74,extended,00000002
@@ -46,7 +46,7 @@ patch=1,EE,01FBCB74,extended,00000004
 patch=1,EE,D1FA1E5C,extended,00000005
 patch=1,EE,01FBCB74,extended,00000005
 
-//Cheats/1 Lap Win Arcade Press L1+R1 Do not work with the professional difficulty
+[Cheats/1 Lap Win Arcade Press L1+R1 Do not work with the professional difficulty]
 patch=1,EE,E0100000,extended,01FBCB74
 patch=1,EE,D1FA1E5C,extended,00000002
 patch=1,EE,01FBCB74,extended,00000001
@@ -57,34 +57,34 @@ patch=1,EE,01FBCB74,extended,00000003
 patch=1,EE,D1FA1E5C,extended,00000005
 patch=1,EE,01FBCB74,extended,00000004
 
-//Cheats/No Tire Damage +Prevents tire damage but does not fix existing damage. To disable it you need to restart the game
+[Cheats/No Tire Damage +Prevents tire damage but does not fix existing damage. To disable it you need to restart the game]
 patch=1,EE,201E82E0,extended,00000000
 
-//Cheats/Have All Licenses Gold Trophies
+[Cheats/Have All Licenses Gold Trophies]
 patch=1,EE,40978430,extended,00300065
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Have All Licenses Silver Trophies
+[Cheats/Have All Licenses Silver Trophies]
 patch=1,EE,40978430,extended,00300065
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Licenses Bronze Trophies
+[Cheats/Have All Licenses Bronze Trophies]
 patch=1,EE,40978430,extended,00300065
 patch=1,EE,00000002,extended,00000000
 
-//Cheats/Low Times Time Trial
+[Cheats/Low Times Time Trial]
 patch=1,EE,D1FC9A40,extended,0030F000
 patch=1,EE,21FC9A40,extended,00005000
 
-//Cheats/Max Series Points
+[Cheats/Max Series Points]
 patch=1,EE,D1FCB1B0,extended,00000000
 patch=1,EE,11FCB1B0,extended,0000270F
 
-//Cheats/Unlock All Arcade Tracks
+[Cheats/Unlock All Arcade Tracks]
 patch=1,EE,00958F24,extended,00000005
 
-//Cheats/Unlock All Cars Purchaseable
+[Cheats/Unlock All Cars Purchaseable]
 patch=1,EE,20234390,extended,24020000
 
-//Cheats/Unlock Most Parts Temporarily Makes the game think you have purchased every part for the current car. You can only install parts that the car already supports. As an added bonus it also allows you to drive any car on the rally courses. To disable it you need to restart the game
+[Cheats/Unlock Most Parts Temporarily Makes the game think you have purchased every part for the current car. You can only install parts that the car already supports. As an added bonus it also allows you to drive any car on the rally courses. To disable it you need to restart the game]
 patch=1,EE,20237BB8,extended,20420001

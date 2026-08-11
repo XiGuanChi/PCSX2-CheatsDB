@@ -1,29 +1,29 @@
 gametitle=G.I. Joe - The Rise of Cobra SLES-55537
-//Combat points
+[Combat points]
 patch=1,EE,21EC9AD0,extended,000003E7
 
-//P1 Infinite Health
+[P1 Infinite Health]
 patch=1,EE,21972A48,extended,469C4000
 patch=1,EE,21972A4C,extended,469C4000
 
-//P2 Infinite Health
+[P2 Infinite Health]
 patch=1,EE,21972B68,extended,469C4000
 patch=1,EE,21972B6C,extended,469C4000
 
-//P1 Infinite Special Attack
+[P1 Infinite Special Attack]
 patch=1,EE,21972A5C,extended,469C4000
 
-//P2 Infinite Special Attack
+[P2 Infinite Special Attack]
 patch=1,EE,21972B7C,extended,469C4000
 
-//Infinite Power Special Suite
+[Infinite Power Special Suite]
 patch=1,EE,21972C54,extended,469C4000
 
-//99 Battle Points
+[99 Battle Points]
 patch=1,EE,21E2B480,extended,00000063
 
-//Infinite Health Satellite
+[Infinite Health Satellite]
 patch=1,EE,2187FB18,extended,469C4000
 
-//Max Tokens (Press Select+Up)
+[Max Tokens (Press Select+Up)]
 patch=1,EE,00118F4C,extended,00000001

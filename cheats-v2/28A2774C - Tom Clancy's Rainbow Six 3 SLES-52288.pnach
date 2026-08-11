@@ -1,5 +1,5 @@
 gametitle=Tom Clancy's Rainbow Six 3 SLES-52288
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20100264,extended,14170003
 patch=1,EE,20100268,extended,24830000
 patch=1,EE,2010026C,extended,8FA3004C
@@ -7,8 +7,8 @@ patch=1,EE,20100270,extended,00831823
 patch=1,EE,20100274,extended,080570A9
 patch=1,EE,2015C2A0,extended,08040099
 
-//Infinite Ammo (Main Weapon)
+[Infinite Ammo (Main Weapon)]
 patch=1,EE,203F0BAC,extended,00000000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,2015D498,extended,24830000

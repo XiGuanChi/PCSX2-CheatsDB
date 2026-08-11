@@ -1,5 +1,5 @@
 gametitle=Dragon Ball Z Budokai Tenkaichi 2 SLUS-21441
-///HP Activator
+[/HP Activator]
 patch=1,EE,200C0288,extended,03E00008
 patch=1,EE,200C028C,extended,8E460000
 patch=1,EE,2010D9E8,extended,0C030088
@@ -9,10 +9,10 @@ patch=1,EE,200C0220,extended,8E410004
 patch=1,EE,200C0224,extended,52800001
 patch=1,EE,200C0228,extended,AE410000
 
-//Max Zeni
+[Max Zeni]
 patch=1,EE,2063383C,extended,0098967F
 
-//P1 Press L1+Select For Death Blow P2
+[P1 Press L1+Select For Death Blow P2]
 patch=1,EE,E003FBFE,extended,003B0B1C
 patch=1,EE,200C0244,extended,24010000
 patch=1,EE,200C0248,extended,56800001
@@ -20,10 +20,10 @@ patch=1,EE,200C024C,extended,AE410000
 patch=1,EE,E001FFFF,extended,0022611C
 patch=1,EE,200C024C,extended,00000000
 
-//Infinite Ki
+[Infinite Ki]
 patch=1,EE,202038DC,extended,00000000
 
-//P2 No Health (P1 Press R2)
+[P2 No Health (P1 Press R2)]
 patch=1,EE,200C0250,extended,00000000
 patch=1,EE,200C0254,extended,00000000
 patch=1,EE,200C0258,extended,00000000
@@ -32,27 +32,27 @@ patch=1,EE,200C0250,extended,24010001
 patch=1,EE,200C0254,extended,56800001
 patch=1,EE,200C0258,extended,AE410000
 
-//Unlock All Ultimate Battle Z Courses
+[Unlock All Ultimate Battle Z Courses]
 patch=1,EE,406312C0,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//All Ability Type Z Items
+[All Ability Type Z Items]
 patch=1,EE,40632F30,extended,009C0001
 patch=1,EE,03E70001,extended,00000000
 
-//All 7 Dragon Ball Z Items
+[All 7 Dragon Ball Z Items]
 patch=1,EE,406334C0,extended,00070001
 patch=1,EE,03E70001,extended,00000000
 
-//All Fusion Type Z Items
+[All Fusion Type Z Items]
 patch=1,EE,40633354,extended,00550001
 patch=1,EE,03E70001,extended,00000000
 
-//All Secret Type Z Items
+[All Secret Type Z Items]
 patch=1,EE,406334DC,extended,00CB0001
 patch=1,EE,03E70001,extended,00000000
 
-//All Support Type Z Items
+[All Support Type Z Items]
 patch=1,EE,406331A0,extended,006D0001
 patch=1,EE,03E70001,extended,00000000
 

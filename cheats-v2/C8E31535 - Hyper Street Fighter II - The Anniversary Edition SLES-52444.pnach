@@ -1,10 +1,10 @@
 gametitle=Hyper Street Fighter II - The Anniversary Edition SLES-52444
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,21B00364,extended,00900000
 
-//Always Super Player 1
+[Always Super Player 1]
 patch=1,EE,21B005F0,extended,00000030
 
-//No Health Player 2
+[No Health Player 2]
 patch=1,EE,D1B00764,extended,00900000
 patch=1,EE,21B00764,extended,00010000

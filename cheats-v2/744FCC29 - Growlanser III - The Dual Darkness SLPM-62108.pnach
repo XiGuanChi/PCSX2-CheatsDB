@@ -1,16 +1,16 @@
 gametitle=Growlanser III - The Dual Darkness SLPM-62108
-//Debug mode Press L3 to display the debug menu
+[Debug mode Press L3 to display the debug menu]
 patch=1,EE,204067EC,extended,00000001
 
-//Max money
+[Max money]
 patch=1,EE,20418264,extended,000F423F
 
-//All 9 goods 
+[All 9 goods]
 patch=1,EE,00C5BA2E,extended,00000009
 patch=1,EE,40C5BA30,extended,00160001
 patch=1,EE,00090009,extended,00000000
 patch=1,EE,00C5BA88,extended,00000009
 
-//MP does not decrease even if you use magic
+[MP does not decrease even if you use magic]
 patch=1,EE,201AA900,extended,00601023
 

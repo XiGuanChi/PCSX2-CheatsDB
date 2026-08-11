@@ -1,83 +1,83 @@
-//Cheats/Max Gold when collecting or distributing money
+[Cheats/Max Gold when collecting or distributing money]
 patch=1,EE,201EE304,extended,00000000
 
-//Cheats/Level Up HP 9999
+[Cheats/Level Up HP 9999]
 patch=1,EE,201E99E0,extended,00000000
 
-//Cheats/Max TP Gauge
+[Cheats/Max TP Gauge]
 patch=1,EE,2015D2F0,extended,24052710
 
-//Cheats/Level Up by 1 when resting
+[Cheats/Level Up by 1 when resting]
 patch=1,EE,2014A334,extended,24020000
 
-//Cheats/Infinite Creating Character Bonus Points do not decrease Point distribution ends with button
+[Cheats/Infinite Creating Character Bonus Points do not decrease Point distribution ends with button]
 patch=1,EE,201AB140,extended,00000000
 patch=1,EE,201AB1F0,extended,24020000
 
-//Cheats/Character Creation Initial Bonus Points 60
+[Cheats/Character Creation Initial Bonus Points 60]
 patch=1,EE,201AB474,extended,00000000
 patch=1,EE,201AB488,extended,2403003C
 patch=1,EE,2014A794,extended,10000028
 
-//Cheats/Self- destructive if you act as an enemy
+[Cheats/Self- destructive if you act as an enemy]
 patch=1,EE,201F03FC,extended,24020006
 
-//Cheats/Purchasing Department All items sold Some bug items will also appear
+[Cheats/Purchasing Department All items sold Some bug items will also appear]
 patch=1,EE,20203B40,extended,240200FF
 
-//Cheats/When Level Up do not lose the ability
+[Cheats/When Level Up do not lose the ability]
 patch=1,EE,201E97AC,extended,00000000
 
-//Cheats/Transfer To The Prohibition Area Transition Allowed
+[Cheats/Transfer To The Prohibition Area Transition Allowed]
 patch=1,EE,20179AFC,extended,00000000
 
-//Cheats/Max Marks When the enemy is defeated
+[Cheats/Max Marks When the enemy is defeated]
 patch=1,EE,201EE0E4,extended,00000000
 
-//Cheats/of sure no trap after the enemy defeat Kanebako
+[Cheats/of sure no trap after the enemy defeat Kanebako]
 patch=1,EE,D8C36482,extended,D8B74DB4
 patch=1,EE,0030BE91,extended,00000000
 patch=1,EE,20147BF0,extended,00000000
 
-//Cheats/Always Success Appraisal Items
+[Cheats/Always Success Appraisal Items]
 patch=1,EE,201569F4,extended,304200CF
 patch=1,EE,201569F8,extended,A0820003
 patch=1,EE,20156A08,extended,24020001
 
-//Cheats/Boxes of contents rarity Up
+[Cheats/Boxes of contents rarity Up]
 patch=1,EE,2012F864,extended,00000000
 patch=1,EE,20147B0C,extended,00000000
 
-//Cheats/Infinite Spell Use
+[Cheats/Infinite Spell Use]
 patch=1,EE,201EBD2C,extended,00000000
 patch=1,EE,20145EB4,extended,00000000
 patch=1,EE,201D3F88,extended,00000000
 patch=1,EE,201D66D8,extended,00000000
 
-//Cheats/Unlock All Department of selection
+[Cheats/Unlock All Department of selection]
 patch=1,EE,2014A794,extended,10000028
 
-//Cheats/Unlock All Map SELECT+Up ON SELECT+Down OFF
+[Cheats/Unlock All Map SELECT+Up ON SELECT+Down OFF]
 patch=1,EE,D19F095C,extended,0000FFEE
 patch=1,EE,201BB224,extended,24020001
 patch=1,EE,D19F095C,extended,0000FFBE
 patch=1,EE,201BB224,extended,00000000
 
-//Cheats/Max NPC Friendship Increases
+[Cheats/Max NPC Friendship Increases]
 patch=1,EE,201B9C58,extended,2402FFFF
 patch=1,EE,2018E2E4,extended,00000000
 patch=1,EE,2018E2F0,extended,241103E8
 
-//Cheats/Steal time reduction from NPC
+[Cheats/Steal time reduction from NPC]
 patch=1,EE,201CE934,extended,00000000
 
-//Cheats/Unlock Laboratory All Training Method when is viewed save not reflected
+[Cheats/Unlock Laboratory All Training Method when is viewed save not reflected]
 patch=1,EE,201BA0F0,extended,24030001
 patch=1,EE,201B9F68,extended,24020001
 patch=1,EE,201B9FB8,extended,24020001
 patch=1,EE,201BA008,extended,24020001
 
-//Cheats/Unlock All Training Method when is viewed
+[Cheats/Unlock All Training Method when is viewed]
 patch=1,EE,201BA0EC,extended,2401FFFF
 patch=1,EE,201BA0F4,extended,A48100F4
 patch=1,EE,201B9F58,extended,2402FFFF
@@ -87,23 +87,23 @@ patch=1,EE,201B9FAC,extended,A4820000
 patch=1,EE,201B9FF8,extended,2402FFFF
 patch=1,EE,201B9FFC,extended,A4820000
 
-//Cheats/Unlock All titles
+[Cheats/Unlock All titles]
 patch=1,EE,1082D816,extended,0000FFFF
 patch=1,EE,0082D818,extended,000000FF
 
-//Cheats/Unlock All Enemy Information when is viewed
+[Cheats/Unlock All Enemy Information when is viewed]
 patch=1,EE,201BA1A8,extended,2402FFFF
 patch=1,EE,201BA1AC,extended,A4620000
 
-//Cheats/Unlock All Material Information when is viewed
+[Cheats/Unlock All Material Information when is viewed]
 patch=1,EE,201BA0EC,extended,2401FFFF
 patch=1,EE,201BA0F4,extended,A48100F4
 
-//Cheats/Unlock All Map Viewable
+[Cheats/Unlock All Map Viewable]
 patch=1,EE,201BB214,extended,2401FFFF
 patch=1,EE,201BB218,extended,AC410000
 
-//Cheats/Unlock All Map Viewable Unreached area save not reflected
+[Cheats/Unlock All Map Viewable Unreached area save not reflected]
 patch=1,EE,D19F095C,extended,0000FFEE
 patch=1,EE,201BB224,extended,24020001
 patch=1,EE,D19F095C,extended,0000FFBE

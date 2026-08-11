@@ -1,20 +1,20 @@
-//Cheats/Infinite Time Free Mode
+[Cheats/Infinite Time Free Mode]
 patch=1,EE,2060D500,extended,00003227
 
-//Cheats/Max Hen in every point
+[Cheats/Max Hen in every point]
 patch=1,EE,20164ABC,extended,00010821
 
-//Cheats/No Penalty
+[Cheats/No Penalty]
 patch=1,EE,20164EDC,extended,1021001A
 
-//Cheats/Max Velocity No running Resistance
+[Cheats/Max Velocity No running Resistance]
 patch=1,EE,2014E098,extended,00000000
 patch=1,EE,2014E988,extended,44806000
 patch=1,EE,2014E9A4,extended,44806000
 patch=1,EE,2014E9E0,extended,44806000
 patch=1,EE,2014EA00,extended,44806000
 
-//Cheats/Infinite Time Driving
+[Cheats/Infinite Time Driving]
 patch=1,EE,E1FF0061,extended,00100008
 patch=1,EE,2014F730,extended,0803DCB6
 patch=1,EE,2014F734,extended,00000000
@@ -30,7 +30,7 @@ patch=1,EE,200F72DC,extended,11000002
 patch=1,EE,200F72E4,extended,A422B138
 patch=1,EE,200F72E8,extended,08053DDE
 
-//Cheats/After Stopping
+[Cheats/After Stopping]
 patch=1,EE,E1FF0061,extended,00100008
 patch=1,EE,201554C0,extended,0C03E739
 patch=1,EE,201554C4,extended,00000000
@@ -39,7 +39,7 @@ patch=1,EE,200F9CEC,extended,00621821
 patch=1,EE,200F9CF0,extended,03E00008
 patch=1,EE,200F9CF4,extended,3C01001D
 
-//Cheats/Current Time And Scheduled Time 00:00:00
+[Cheats/Current Time And Scheduled Time 00:00:00]
 patch=1,EE,E1FF0061,extended,00100008 
 patch=1,EE,20142E20,extended,00000000 
 patch=1,EE,201CAF94,extended,00000001 
@@ -59,11 +59,11 @@ patch=1,EE,201CAFC8,extended,00000000
 patch=1,EE,201CAFCC,extended,00000000
 patch=1,EE,201CAFD0,extended,00000000
 
-//Cheats/No Re-acceleration Penalty
+[Cheats/No Re-acceleration Penalty]
 patch=1,EE,E1FF0061,extended,00100008
 patch=1,EE,101CB256,extended,00000000
 
-//Cheats/Speed Left stick stop with L3
+[Cheats/Speed Left stick stop with L3]
 patch=1,EE,E1FF0061,extended,00100008
 patch=1,EE,00100008,extended,00000061
 patch=1,EE,2013DA98,extended,0803C64B
@@ -86,15 +86,15 @@ patch=1,EE,200F1964,extended,15090002
 patch=1,EE,200F196C,extended,AC20AD1C
 patch=1,EE,200F1970,extended,0804F6A8
 
-//Cheats/Press L to Speed 0 km
+[Cheats/Press L to Speed 0 km]
 patch=1,EE,D065DAFC,extended,00000001
 patch=1,EE,201CAD1C,extended,00000000
 
-//Cheats/Automatic Driving Mode
+[Cheats/Automatic Driving Mode]
 patch=1,EE,E1FF0061,extended,00100008
 patch=1,EE,001CB25D,extended,00000002
 
-//Cheats/60fps Set the EE cycle rate to 2 or more
+[Cheats/60fps Set the EE cycle rate to 2 or more]
 patch=1,EE,E1FF0061,extended,00100008
 patch=1,EE,2060C078,extended,3C888889
 patch=1,EE,2060C080,extended,3C888889

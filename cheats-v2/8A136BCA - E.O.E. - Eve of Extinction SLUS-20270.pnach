@@ -1,16 +1,16 @@
 gametitle=E.O.E. - Eve of Extinction SLUS-20270
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20119968,extended,240100FF
 patch=1,EE,20119974,extended,A48101C2
 patch=1,EE,20119978,extended,00011C3C
 
-//Infinite Weapon Power
+[Infinite Weapon Power]
 patch=1,EE,20166CE0,extended,240200FF
 patch=1,EE,20166CE4,extended,A4C201C0
 
-//Auto Weapon Level Up
+[Auto Weapon Level Up]
 patch=1,EE,2016900C,extended,24420001
 
-//Switch To Weapon For Max Level Up
+[Switch To Weapon For Max Level Up]
 patch=1,EE,202435E4,extended,24020005
 patch=1,EE,202435E8,extended,A062020C

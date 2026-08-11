@@ -1,5 +1,5 @@
 gametitle=Bakumatsu Roman - Gekka no Kenshi 1-2 SLPS-25503
-//Last Blade 1P physical strength and Power Max
+[Last Blade 1P physical strength and Power Max]
 patch=1,EE,200C2200,extended,3C080063
 patch=1,EE,200C2204,extended,8D08D810
 patch=1,EE,200C2208,extended,3C0900E4
@@ -13,7 +13,7 @@ patch=1,EE,200C2228,extended,A10B01AC
 patch=1,EE,200C2220,extended,00000000
 patch=1,EE,200C2228,extended,00000000
 
-//Last Blade 2 1P physical strength and Power Max
+[Last Blade 2 1P physical strength and Power Max]
 patch=1,EE,200C2100,extended,3C080063
 patch=1,EE,200C2104,extended,8D08D810
 patch=1,EE,200C2108,extended,3C0900E4

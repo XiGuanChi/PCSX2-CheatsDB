@@ -1,13 +1,13 @@
-//Cheats/Infinite Quiz Time
+[Cheats/Infinite Quiz Time]
 patch=1,EE,104AEACA,extended,00000225
 
-//Cheats/Press L1+Select For Next Quiz Question
+[Cheats/Press L1+Select For Next Quiz Question]
 patch=1,EE,D044EF42,extended,0000FBFE
 patch=1,EE,104AEACC,extended,00000040
 
-//Cheats/Press L1+X For Instant Reel
+[Cheats/Press L1+X For Instant Reel]
 patch=1,EE,D044EF42,extended,0000BBFF
 patch=1,EE,20389840,extended,00000000
 
-//Cheats/Have All Challenges and Tournaments Completed
+[Cheats/Have All Challenges and Tournaments Completed]
 patch=1,EE,20492134,extended,FFFFFFFF

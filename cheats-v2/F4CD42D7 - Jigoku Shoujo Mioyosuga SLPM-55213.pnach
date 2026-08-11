@@ -1,12 +1,12 @@
 gametitle=Jigoku Shoujo Mioyosuga SLPM-55213
-//Movie fully open
+[Movie fully open]
 patch=1,EE,20205B14,extended,FFFFFFFF
 patch=1,EE,00205B57,extended,000000FF
 
-//CG fully open
+[CG fully open]
 patch=1,EE,40205B18,extended,00090001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,00205B3C,extended,000000FF
 
-//"To Hell ~ Hell Girl Story ~"
+["To Hell ~ Hell Girl Story ~"]
 patch=1,EE,00205B16,extended,000000FF

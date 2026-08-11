@@ -1,34 +1,34 @@
 gametitle=Grandia II SLES-50498
-//Infinite gold
+[Infinite gold]
 patch=1,EE,202B2CB8,extended,0098967F
 
-//Ryudo Infinite HP & MP
+[Ryudo Infinite HP & MP]
 patch=1,EE,202B2D1C,extended,270F270F
 patch=1,EE,202B2D20,extended,03E703E7`
 
-//Elena Infinite HP & MP
+[Elena Infinite HP & MP]
 patch=1,EE,202B2D88,extended,270F270F
 patch=1,EE,202B2D8C,extended,03E703E7
 
-//Infinite gold
+[Infinite gold]
 patch=1,EE,11352BE4,extended,0000FFFF
 
-//Ryudo Infinite & Max HP
+[Ryudo Infinite & Max HP]
 patch=1,EE,1135327C,extended,0000270F
 patch=1,EE,1135327E,extended,0000270F
 
-//Elena Infinite & Max HP
+[Elena Infinite & Max HP]
 patch=1,EE,113532E8,extended,0000270F
 patch=1,EE,113532EA,extended,0000270F
 
-//Milenia Infinite & Max HP
+[Milenia Infinite & Max HP]
 patch=1,EE,11353354,extended,0000270F
 patch=1,EE,11353356,extended,0000270F
 
-//Roan Infinite & Max HP
+[Roan Infinite & Max HP]
 patch=1,EE,113533C0,extended,0000270F
 patch=1,EE,113533C2,extended,0000270F
 
-//Mareg Infinite & Max HP
+[Mareg Infinite & Max HP]
 patch=1,EE,11353498,extended,0000270F
 patch=1,EE,1135349A,extended,0000270F

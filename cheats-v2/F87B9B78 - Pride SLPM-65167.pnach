@@ -1,19 +1,19 @@
 gametitle=Pride SLPM-65167
 patch=1,EE,10B5EA7A,extended,00003C3C
 
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,202AB160,extended,43000000
 patch=1,EE,202AB164,extended,43000000
 
-//P1 punch force Max
+[P1 punch force Max]
 patch=1,EE,202AB150,extended,44000000
 
-//P1 kick power Max
+[P1 kick power Max]
 patch=1,EE,202AB154,extended,44000000
 
-//P1 mount attack power Max
+[P1 mount attack power Max]
 patch=1,EE,202AB158,extended,44000000
 
-//P2 Health 0
+[P2 Health 0]
 patch=1,EE,202ACC60,extended,00000000
 patch=1,EE,202ACC64,extended,00000000

@@ -1,18 +1,18 @@
 gametitle=Dark Chronicle SCES-51190
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,21E8289C,extended,0098967F
 
-//Infinite & Max HP Maximillian
+[Infinite & Max HP Maximillian]
 patch=1,EE,21E41A48,extended,4479C000
 patch=1,EE,21E41A4C,extended,4479C000
 
-//Infinite & Max HP Monica
+[Infinite & Max HP Monica]
 patch=1,EE,21E41DD4,extended,4479C000
 patch=1,EE,21E41DD8,extended,4479C000
 
-//Infinite & Max HP Ridepod
+[Infinite & Max HP Ridepod]
 patch=1,EE,21E42180,extended,4479C000
 patch=1,EE,21E42184,extended,4479C000
 
-//No Status Change
+[No Status Change]
 patch=1,EE,11E41A50,extended,00000000

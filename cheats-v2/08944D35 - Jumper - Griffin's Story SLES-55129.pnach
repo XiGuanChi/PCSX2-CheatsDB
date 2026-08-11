@@ -1,17 +1,17 @@
 gametitle=Jumper - Griffin's Story SLES-55129
-//Infinite Health Level 1 
+[Infinite Health Level 1]
 patch=1,EE,20E6ED1C,extended,43020000
 
-//Infinite Health Level 2
+[Infinite Health Level 2]
 patch=1,EE,20DC8BFC,extended,43020000
 
-//Infinite Health Level 3
+[Infinite Health Level 3]
 patch=1,EE,20D7FE1C,extended,43020000
 
-//Infinite Health Level 4
+[Infinite Health Level 4]
 patch=1,EE,20E1F5BC,extended,43020000
 
-//Activator for CMX/Szalays Codes
+[Activator for CMX/Szalays Codes]
 patch=1,EE,200C0000,extended,3C04004E
 patch=1,EE,200C0004,extended,8C85DED8
 patch=1,EE,200C0008,extended,10A0001B
@@ -32,22 +32,22 @@ patch=1,EE,200C0078,extended,03E00008
 patch=1,EE,200C007C,extended,00000000
 patch=1,EE,2040A50C,extended,08030000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0040,extended,3C014302
 patch=1,EE,200C0044,extended,8CA30004
 patch=1,EE,200C0048,extended,AC610000
 
-//Infinite Special Meter
+[Infinite Special Meter]
 patch=1,EE,200C004C,extended,8CA30004
 patch=1,EE,200C0050,extended,3C0142C8
 patch=1,EE,200C0054,extended,AC610008
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,200C0058,extended,8CA30020
 patch=1,EE,200C005C,extended,3C014040
 patch=1,EE,200C0060,extended,AC610000
 
-//Infinite Flamethrower
+[Infinite Flamethrower]
 patch=1,EE,200C0064,extended,8CA30020
 patch=1,EE,200C0068,extended,3C01447A
 patch=1,EE,200C006C,extended,AC610008

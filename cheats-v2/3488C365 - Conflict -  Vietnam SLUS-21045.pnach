@@ -1,29 +1,29 @@
 gametitle=Conflict -  Vietnam SLUS-21045
-//Never Reload
+[Never Reload]
 patch=1,EE,20222EFC,extended,00000000
 
-//Infinite MediKits
+[Infinite MediKits]
 patch=1,EE,2022AA98,extended,00000000
 
-//Extra MediKits
+[Extra MediKits]
 patch=1,EE,2022AA94,extended,00451021
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,20222750,extended,00000000
 
-//Infinite Health (Entire Team)
+[Infinite Health (Entire Team)]
 patch=1,EE,200C0220,extended,3C024376
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AE020074
 patch=1,EE,201CE040,extended,0C030088
 patch=1,EE,201CE044,extended,46010034
 
-//Infinite Health (Only Current Character)
+[Infinite Health (Only Current Character)]
 patch=1,EE,200C0230,extended,3C014348
 patch=1,EE,200C0234,extended,AC810074
 patch=1,EE,200C0238,extended,08087798
 patch=1,EE,200C023C,extended,C4800074
 patch=1,EE,2021DE5C,extended,08030088
 
-//Idiot AI
+[Idiot AI]
 patch=1,EE,2042CD9C,extended,00000001

@@ -1,9 +1,9 @@
 gametitle=Battle Gear 2 SLPM-62048
-//Access All Tracks
+[Access All Tracks]
 patch=1,EE,2061569C,extended,FFFFFFFF
 
-//Have All Cars
+[Have All Cars]
 patch=1,EE,206156A0,extended,00FFFFFF
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,101D64F8,extended,00001800

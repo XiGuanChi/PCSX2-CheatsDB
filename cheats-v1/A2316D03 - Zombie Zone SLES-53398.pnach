@@ -1,37 +1,37 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2021DECC,extended,000005DC
 
-//Cheats/Enemies Can Not Hit You
+[Cheats/Enemies Can Not Hit You]
 patch=1,EE,2012E028,extended,03E00008
 patch=1,EE,2012E02C,extended,00000000
 
-//Cheats/No Sword Deterioration
+[Cheats/No Sword Deterioration]
 patch=1,EE,20228794,extended,00000000
 
-//Cheats/Infinite Cure Gem
+[Cheats/Infinite Cure Gem]
 patch=1,EE,20228808,extended,0000000A
 
-//Cheats/Infinite Rapid Gem
+[Cheats/Infinite Rapid Gem]
 patch=1,EE,2022880C,extended,0000000A
 
-//Cheats/Infinite Power Gem
+[Cheats/Infinite Power Gem]
 patch=1,EE,20228810,extended,0000000A
 
-//Cheats/Infinite Jewel Necklace
+[Cheats/Infinite Jewel Necklace]
 patch=1,EE,20228814,extended,0000000A
 
-//Cheats/Infinite Goddess Statue
+[Cheats/Infinite Goddess Statue]
 patch=1,EE,20228818,extended,0000000A
 
-//Cheats/Always Rapid Mode
+[Cheats/Always Rapid Mode]
 patch=1,EE,20228758,extended,00000708
 
-//Cheats/Always Power Mode
+[Cheats/Always Power Mode]
 patch=1,EE,2022875C,extended,00000708
 
-//Cheats/Always Jewel Necklace Mode
+[Cheats/Always Jewel Necklace Mode]
 patch=1,EE,20228760,extended,00000708
 
-//Cheats/Always Goddess Statue Mode
+[Cheats/Always Goddess Statue Mode]
 patch=1,EE,20228770,extended,00000078
 patch=1,EE,20228774,extended,00000008

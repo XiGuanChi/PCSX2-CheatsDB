@@ -1,10 +1,10 @@
-//Cheats/Infinite Health All Characters L3 ON R3 OFF
+[Cheats/Infinite Health All Characters L3 ON R3 OFF]
 patch=1,EE,D04D6BC2,extended,0000FFFD
 patch=1,EE,2017D718,extended,00000000
 patch=1,EE,D04D6BC2,extended,0000FFFB
 patch=1,EE,2017D718,extended,2442FFFF
 
-//Cheats/Only 1P does not take Damage + does not Heal Enemies
+[Cheats/Only 1P does not take Damage + does not Heal Enemies]
 patch=1,EE,200FFF00,extended,3C080053
 patch=1,EE,200FFF04,extended,8D084590
 patch=1,EE,200FFF08,extended,8D082250
@@ -20,29 +20,29 @@ patch=1,EE,20174B70,extended,0803FFC0
 patch=1,EE,D04D6BC2,extended,0000FFBE
 patch=1,EE,20174B70,extended,8E231F74
 
-//Cheats/No Health 0 P2 Select+up ON Select+down OFF
+[Cheats/No Health 0 P2 Select+up ON Select+down OFF]
 patch=1,EE,200FFF30,extended,00032023
 patch=1,EE,200FFF34,extended,1000FFF9
 
-//Cheats/Coin slot
+[Cheats/Coin slot]
 patch=1,EE,2038BACC,extended,AE1F0020
 
-//Cheats/All 999 tickets
+[Cheats/All 999 tickets]
 patch=1,EE,2037D638,extended,240203E7
 
-//Cheats/999 tickets due to the increase and decrease of messed up tickets
+[Cheats/999 tickets due to the increase and decrease of messed up tickets]
 patch=1,EE,2037D504,extended,1000000B
 
-//Cheats/Clear time
+[Cheats/Clear time]
 patch=1,EE,20534728,extended,00000064
 
-//Cheats/Unlock All Cards
+[Cheats/Unlock All Cards]
 patch=1,EE,404D770C,extended,001F0001
 patch=1,EE,000003E7,extended,00000000
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,204D7514,extended,03FFFFFF
 
-//Cheats/Unlock All Stages, Game Modes and Gallery
+[Cheats/Unlock All Stages, Game Modes and Gallery]
 patch=1,EE,204D7518,extended,FFFFFFFF
 patch=1,EE,204D751C,extended,FFFFFFFF

@@ -1,7 +1,7 @@
-//Cheats/Unlock All Special
+[Cheats/Unlock All Special]
 patch=1,EE,0021850C,extended,00000001
 patch=1,EE,10218724,extended,0000FFFF
 
-//Cheats/Hold Circle Over New Game For Debug Menu This allows viewing of all character routes and setting clear flags.
+[Cheats/Hold Circle Over New Game For Debug Menu This allows viewing of all character routes and setting clear flags.]
 patch=1,EE,D0218D02,extended,0000DFFF
 patch=1,EE,2058F700,extended,00000270

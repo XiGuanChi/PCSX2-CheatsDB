@@ -1,20 +1,20 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF00,extended,8C85001C
 patch=1,EE,200FFF04,extended,AC850018
 patch=1,EE,200FFF0C,extended,080AD71A
 patch=1,EE,200FFF08,extended,0080902D
 patch=1,EE,202B5C60,extended,0803FFC0
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,202A9DA0,extended,00000000
 
-//Cheats/Infinite Flashlight
+[Cheats/Infinite Flashlight]
 patch=1,EE,20284CE0,extended,00000000
 
-//Cheats/Infinite Items
+[Cheats/Infinite Items]
 patch=1,EE,20284CE0,extended,00000000
 
-//Cheats/Infinite Rage
+[Cheats/Infinite Rage]
 patch=1,EE,202B5D54,extended,00000000
 
 

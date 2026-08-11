@@ -1,25 +1,25 @@
 gametitle=Super Bust-A-Move 2 SLUS-20460
-//Always Low Time (Puzzle Mode)
+[Always Low Time (Puzzle Mode)]
 patch=1,EE,2033E0D8,extended,00000000
 
-//Always Have Guide Line (Puzzle Mode Only)
+[Always Have Guide Line (Puzzle Mode Only)]
 patch=1,EE,1033E1D8,extended,00000001
 
-//Always Have Guide Line (All Modes)
+[Always Have Guide Line (All Modes)]
 patch=1,EE,10146AFE,extended,00001000
 patch=1,EE,1033E1D8,extended,00000001
 
-//Max Score Player 1
+[Max Score Player 1]
 patch=1,EE,20350510,extended,05F5E0FF
 
-//Infinite Time To Shoot Bubble Out Player 1
+[Infinite Time To Shoot Bubble Out Player 1]
 patch=1,EE,10350538,extended,00000000
 
-//Player 1 Press ps2 l3 For Super Bubble
+[Player 1 Press ps2 l3 For Super Bubble]
 patch=1,EE,D0627A02,extended,0000FFFD
 patch=1,EE,103520E0,extended,00000020
 
-//Player 1 Press ps2 r3 For Bomb Bubble
+[Player 1 Press ps2 r3 For Bomb Bubble]
 patch=1,EE,D0627A02,extended,0000FFFB
 patch=1,EE,103520E0,extended,00000029
 

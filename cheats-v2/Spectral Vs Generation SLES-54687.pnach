@@ -1,11 +1,11 @@
 gametitle=Spectral Vs Generation SLES-54687
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,113025de,extended,000001f4
 patch=1,EE,113025dc,extended,000001f4
 
-//Infinite Super P1
+[Infinite Super P1]
 patch=1,EE,012fd8d9,extended,00000003
 
-//infinite Time
+[infinite Time]
 patch=1,EE,012fd3cc,extended,00000063
 patch=1,EE,012fd3ce,extended,00000063

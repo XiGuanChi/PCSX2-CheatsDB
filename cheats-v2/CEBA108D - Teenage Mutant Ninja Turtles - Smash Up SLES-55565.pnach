@@ -1,77 +1,77 @@
 gametitle=Teenage Mutant Ninja Turtles - Smash Up SLES-55565
-//Max Time
+[Max Time]
 patch=1,EE,204977F4,extended,476A6000
 patch=1,EE,204977F8,extended,476A6000
 
-//Inf Time (Alt)
+[Inf Time (Alt)]
 patch=1,EE,201B82B4,extended,C6210048
 
-//Player 1 Codes
+[Player 1 Codes]
 
-//P1 Inf HP
+[P1 Inf HP]
 patch=1,EE,200A0010,extended,8C431FFC
 patch=1,EE,200A0014,extended,AC431FF8
 
-//P1 Max HP
+[P1 Max HP]
 patch=1,EE,204978F4,extended,44FA0000
 
-//P1 Inf Hearts
+[P1 Inf Hearts]
 patch=1,EE,00497944,extended,00000005
 
-//Player 2 Codes
+[Player 2 Codes]
 
-//P2 Inf HP
+[P2 Inf HP]
 patch=1,EE,200A0028,extended,8C431FFC
 patch=1,EE,200A002C,extended,AC431FF8
 
-//P2 Max HP
+[P2 Max HP]
 patch=1,EE,204978F8,extended,44FA0000
 
-//P2 Inf Hearts
+[P2 Inf Hearts]
 patch=1,EE,00497948,extended,00000005
 
-//P2 No HP (P1 Hold SELECT)
+[P2 No HP (P1 Hold SELECT)]
 patch=1,EE,200A002C,extended,00000000
 patch=1,EE,D044C542,extended,0000FFFE
 patch=1,EE,200A002C,extended,AC401FF8
 
-//Player 3 Codes
+[Player 3 Codes]
 
-//P3 Inf HP
+[P3 Inf HP]
 patch=1,EE,200A0040,extended,8C431FFC
 patch=1,EE,200A0044,extended,AC431FF8
 
-//P3 Max HP
+[P3 Max HP]
 patch=1,EE,204978FC,extended,44FA0000
 
-//P3 Inf Hearts
+[P3 Inf Hearts]
 patch=1,EE,0049794C,extended,00000005
 
-//P3 No HP (P1 Hold SELECT)
+[P3 No HP (P1 Hold SELECT)]
 patch=1,EE,200A0044,extended,00000000
 patch=1,EE,D044C542,extended,0000FFFE
 patch=1,EE,200A0044,extended,AC401FF8
 
-//Player 4 Codes
+[Player 4 Codes]
 
-//P4 Inf HP
+[P4 Inf HP]
 patch=1,EE,200A0058,extended,8C431FFC
 patch=1,EE,200A005C,extended,AC431FF8
 
-//P4 Max HP
+[P4 Max HP]
 patch=1,EE,20497900,extended,44FA0000
 
-//P4 Inf Hearts
+[P4 Inf Hearts]
 patch=1,EE,00497950,extended,00000005
 
-//P4 No HP (P1 Hold SELECT)
+[P4 No HP (P1 Hold SELECT)]
 patch=1,EE,200A005C,extended,00000000
 patch=1,EE,D044C542,extended,0000FFFE
 patch=1,EE,200A005C,extended,AC401FF8
 
-//Shell Coins (Unlock Game and cartoon DVD Trailers)
+[Shell Coins (Unlock Game and cartoon DVD Trailers)]
 patch=1,EE,102E1F34,extended,0000270F
 
-//Unlock Costumes and Stages and Concept Arts
+[Unlock Costumes and Stages and Concept Arts]
 patch=1,EE,402E6ADC,extended,00D00001
 patch=1,EE,00000001,extended,00000000

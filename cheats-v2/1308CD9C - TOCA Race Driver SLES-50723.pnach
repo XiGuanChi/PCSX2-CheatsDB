@@ -1,46 +1,46 @@
 gametitle=TOCA Race Driver SLES-50723
-//Always Pass Test Drives
+[Always Pass Test Drives]
 patch=1,EE,204B9ED0,extended,3FDA06C7
 
-//Win Race Press R1+R2+L1+L2 to activate code.
+[Win Race Press R1+R2+L1+L2 to activate code.]
 patch=1,EE,D0431642,extended,0000F0FF
 patch=1,EE,2046D6A4,extended,00000012
 
-//Unlock All Bonuses
+[Unlock All Bonuses]
 patch=1,EE,2046A0A0,extended,0000FFFF
 
-//Win All Races Alfa Cup
+[Win All Races Alfa Cup]
 patch=1,EE,2046BA90,extended,01010101
 patch=1,EE,2046BA94,extended,01010101
 
-//Win All Races TOCA
+[Win All Races TOCA]
 patch=1,EE,2046BA98,extended,01010101
 patch=1,EE,2046BA9C,extended,01010101
 
-//Win All Races Pacific Challenge
+[Win All Races Pacific Challenge]
 patch=1,EE,2046BAA0,extended,01010101
 patch=1,EE,2046BAA4,extended,01010101
 
-//Win All Races Americas Series
+[Win All Races Americas Series]
 patch=1,EE,2046BAA8,extended,01010101
 patch=1,EE,2046BAAC,extended,01010101
 
-//Win All Races SEC
+[Win All Races SEC]
 patch=1,EE,2046BAB0,extended,01010101
 patch=1,EE,2046BAB4,extended,01010101
 
-//Win All Races NEC
+[Win All Races NEC]
 patch=1,EE,2046BAB8,extended,01010101
 patch=1,EE,2046BABC,extended,01010101
 
-//Win All Races SDE 1st Tier
+[Win All Races SDE 1st Tier]
 patch=1,EE,2046BB00,extended,01010101
 patch=1,EE,2046BB04,extended,01010101
 
-//Win All Races V8 Supercars
+[Win All Races V8 Supercars]
 patch=1,EE,2046BAC4,extended,01010101
 patch=1,EE,2046BACC,extended,01010101
 
-//Win All Races European Tour
+[Win All Races European Tour]
 patch=1,EE,2046BAD0,extended,01010101
 patch=1,EE,2046BAD4,extended,01010101

@@ -1,45 +1,45 @@
-//Cheats/Infinite Experience Points
+[Cheats/Infinite Experience Points]
 patch=1,EE,21803830,extended,0000000A
 
-//Cheats/Infinite Turbo
+[Cheats/Infinite Turbo]
 patch=1,EE,218032C0,extended,3F800000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,21803280,extended,00000096
 
-//Cheats/Infinite Refills
+[Cheats/Infinite Refills]
 patch=1,EE,21803284,extended,00000009
 
-//Cheats/Infinite Store Credits
+[Cheats/Infinite Store Credits]
 patch=1,EE,21803834,extended,05F5E0FF
 
-//Cheats/Max Experience Points
+[Cheats/Max Experience Points]
 patch=1,EE,20248314,extended,2402270F
 patch=1,EE,20248318,extended,AE0202B8
 
-//Cheats/Max Credits Available
+[Cheats/Max Credits Available]
 patch=1,EE,200C0250,extended,3C0605F5
 patch=1,EE,200C0254,extended,34C6E0FF
 patch=1,EE,200C0258,extended,080BAAEC
 patch=1,EE,200C025C,extended,AE0602BC
 patch=1,EE,20258D2C,extended,0C030094
 
-//Cheats/Character Creation Infinite Experience Points
+[Cheats/Character Creation Infinite Experience Points]
 patch=1,EE,202336E4,extended,00000000
 
-//Cheats/Unlock God Mode
+[Cheats/Unlock God Mode]
 patch=1,EE,200C0220,extended,24050001
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,A20502C7
 patch=1,EE,2024829C,extended,0C030088
 
-//Cheats/Unlock Slow Motion Mode
+[Cheats/Unlock Slow Motion Mode]
 patch=1,EE,200C0230,extended,24050001
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,A20502C8
 patch=1,EE,202482C0,extended,0C03008C
 
-//Cheats/Unlock Extra Logos
+[Cheats/Unlock Extra Logos]
 patch=1,EE,200C0240,extended,24050001
 patch=1,EE,200C0244,extended,03E00008
 patch=1,EE,200C0248,extended,A20502C9

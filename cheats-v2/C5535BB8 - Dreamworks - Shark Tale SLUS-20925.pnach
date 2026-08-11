@@ -1,10 +1,10 @@
 gametitle=Dreamworks - Shark Tale SLUS-20925
-//Infinite Money
+[Infinite Money]
 patch=1,EE,21FDC140,extended,05F5E0FF
 patch=1,EE,21FDB084,extended,05F5E0FF
 
-//Enable Debug Menu (Press ps2_l2.gif + ps2_r2.gif To Open/Close)
+[Enable Debug Menu (Press ps2_l2.gif + ps2_r2.gif To Open/Close)]
 patch=1,EE,20334C0C,extended,00000001
 
-//Oscar Invincible Always On
+[Oscar Invincible Always On]
 patch=1,EE,20334C20,extended,00000001

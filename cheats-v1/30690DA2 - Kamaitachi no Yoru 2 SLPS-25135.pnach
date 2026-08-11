@@ -1,16 +1,16 @@
-//Cheats/Auto Play Press SELECT
+[Cheats/Auto Play Press SELECT]
 patch=1,EE,D1F8D882,extended,0000FFFE
 patch=1,EE,21F5DA50,extended,00000001
 
-//Cheats/Auto Play Speed 0 Press R1+R2
+[Cheats/Auto Play Speed 0 Press R1+R2]
 patch=1,EE,D1F8D882,extended,0000F5FF
 patch=1,EE,21F57260,extended,00000000
 
-//Cheats/Love Tester Chapter Forced Choice
+[Cheats/Love Tester Chapter Forced Choice]
 patch=1,EE,D1F8D882,extended,0000F5FE
 patch=1,EE,002245B0,extended,00000003
 
-//Cheats/Love Tester Edition 1p Can be played with controller only
+[Cheats/Love Tester Edition 1p Can be played with controller only]
 patch=1,EE,D1F8D882,extended,0000DFFF
 patch=1,EE,11F8D982,extended,0000DFFF
 patch=1,EE,D1F8D882,extended,0000BFFE
@@ -20,7 +20,7 @@ patch=1,EE,11F8D982,extended,0000EFFF
 patch=1,EE,D1F8D882,extended,00007FFE
 patch=1,EE,11F8D982,extended,00007FFF
 
-//Cheats/Unlock All Endings List Children's Songs
+[Cheats/Unlock All Endings List Children's Songs]
 patch=1,EE,21A07B44,extended,09000000
 patch=1,EE,21A07B4C,extended,09000000
 patch=1,EE,21A07C64,extended,09000000
@@ -45,7 +45,7 @@ patch=1,EE,21A080EC,extended,09000000
 patch=1,EE,21A080F0,extended,09000000
 patch=1,EE,21A08120,extended,09000000
 
-//Cheats/Unlock All Endings List Sokomushi Village
+[Cheats/Unlock All Endings List Sokomushi Village]
 patch=1,EE,21A0870C,extended,09000000
 patch=1,EE,21A08770,extended,09000000
 patch=1,EE,21A08778,extended,09000000
@@ -61,7 +61,7 @@ patch=1,EE,21A088E0,extended,09000000
 patch=1,EE,21A088E4,extended,09000000
 patch=1,EE,21A088E8,extended,09000000
 
-//Cheats/Unlock All Endings List Delusion
+[Cheats/Unlock All Endings List Delusion]
 patch=1,EE,21A08E70,extended,09000000
 patch=1,EE,21A08E8C,extended,09000000
 patch=1,EE,21A08E90,extended,09000000
@@ -71,13 +71,13 @@ patch=1,EE,21A08EA8,extended,09000000
 patch=1,EE,21A08EAC,extended,09000000
 patch=1,EE,21A08EB0,extended,09000000
 
-//Cheats/Unlock All Endings List My Love Story
+[Cheats/Unlock All Endings List My Love Story]
 patch=1,EE,21A08EC0,extended,09000000
 
-//Cheats/Unlock All Endings List My Youth
+[Cheats/Unlock All Endings List My Youth]
 patch=1,EE,21A08ECC,extended,09000000
 
-//Cheats/Unlock All Endings List Yin and Yang
+[Cheats/Unlock All Endings List Yin and Yang]
 patch=1,EE,21A08980,extended,09000000
 patch=1,EE,21A089E0,extended,09000000
 patch=1,EE,21A08A58,extended,09000000
@@ -93,7 +93,7 @@ patch=1,EE,21A08C20,extended,09000000
 patch=1,EE,21A08C4C,extended,09000000
 patch=1,EE,21A08C74,extended,09000000
 
-//Cheats/Unlock All Endings List Sensual
+[Cheats/Unlock All Endings List Sensual]
 patch=1,EE,21A08C90,extended,09000000
 patch=1,EE,21A08CA0,extended,09000000
 patch=1,EE,21A08CD4,extended,09000000
@@ -102,7 +102,7 @@ patch=1,EE,21A08CFC,extended,09000000
 patch=1,EE,21A08D2C,extended,09000000
 patch=1,EE,21A08D30,extended,09000000
 
-//Cheats/Unlock All Endings List Cave exploration
+[Cheats/Unlock All Endings List Cave exploration]
 patch=1,EE,21A08540,extended,09000000
 patch=1,EE,21A0855C,extended,09000000
 patch=1,EE,21A08564,extended,09000000
@@ -113,7 +113,7 @@ patch=1,EE,21A08624,extended,09000000
 patch=1,EE,21A08658,extended,09000000
 patch=1,EE,21A08664,extended,09000000
 
-//Cheats/Unlock All Endings List Massacre
+[Cheats/Unlock All Endings List Massacre]
 patch=1,EE,21A081CC,extended,09000000
 patch=1,EE,21A081D0,extended,09000000
 patch=1,EE,21A081D4,extended,09000000
@@ -121,7 +121,7 @@ patch=1,EE,21A081D8,extended,09000000
 patch=1,EE,21A081EC,extended,09000000
 patch=1,EE,21A081F0,extended,09000000
 
-//Cheats/Unlock All Endings List Psychic
+[Cheats/Unlock All Endings List Psychic]
 patch=1,EE,21A08230,extended,09000000
 patch=1,EE,21A08274,extended,09000000
 patch=1,EE,21A08278,extended,09000000
@@ -142,10 +142,10 @@ patch=1,EE,21A08378,extended,09000000
 patch=1,EE,21A0837C,extended,09000000
 patch=1,EE,21A08380,extended,09000000
 
-//Cheats/Unlock All Endings List Warabi Uta
+[Cheats/Unlock All Endings List Warabi Uta]
 patch=1,EE,21A08D54,extended,09000000
 patch=1,EE,21A08DB0,extended,09000000
 patch=1,EE,21A08DE0,extended,09000000
 
-//Cheats/Enable Debug Menu Start	Sends you to a scenario select menu. Load Presumably loads memory card data. Love Starts a two player mode. Config Sends you to the options menu. Tool Sends you to a sub-menu. Demo Plays the demo movie
+[Cheats/Enable Debug Menu Start	Sends you to a scenario select menu. Load Presumably loads memory card data. Love Starts a two player mode. Config Sends you to the options menu. Tool Sends you to a sub-menu. Demo Plays the demo movie]
 patch=1,EE,2017A074,extended,24020001

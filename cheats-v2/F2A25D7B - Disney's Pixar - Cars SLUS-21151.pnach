@@ -1,11 +1,11 @@
 gametitle=Disney's Pixar - Cars SLUS-21151
-//Infinite Boost
+[Infinite Boost]
 patch=1,EE,202261DC,extended,00000000
 
-//Max Points
+[Max Points]
 patch=1,EE,208150AC,extended,05F5E0FF
 
-//Start On Lap 3
+[Start On Lap 3]
 patch=1,EE,200C0220,extended,8CA1003C
 patch=1,EE,200C0224,extended,50200001
 patch=1,EE,200C0228,extended,24010002
@@ -14,7 +14,7 @@ patch=1,EE,200C0230,extended,03E00008
 patch=1,EE,200C0234,extended,C4A2003C
 patch=1,EE,20389B6C,extended,0C030088
 
-//All Cars Have Boost
+[All Cars Have Boost]
 patch=1,EE,20225940,extended,24020001
 patch=1,EE,20225948,extended,AE020098
 

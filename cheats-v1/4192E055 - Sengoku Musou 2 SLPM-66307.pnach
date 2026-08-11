@@ -1,35 +1,35 @@
-//Cheats/Max Money 9999999
+[Cheats/Max Money 9999999]
 patch=1,EE,204F4AF8,extended,0098967F
 
-//Cheats/Yukimura Sanda Max Energie
+[Cheats/Yukimura Sanda Max Energie]
 patch=1,EE,004F29B4,extended,000000FF
 
-//Cheats/Yukimura Sanda Max Musou
+[Cheats/Yukimura Sanda Max Musou]
 patch=1,EE,004F29B8,extended,000000FF
 
-//Cheats/Yukimura Sanda Max Status
+[Cheats/Yukimura Sanda Max Status]
 patch=1,EE,404f29b4,extended,00080001
 patch=1,EE,000000ff,extended,00000000
 
-//Cheats/Level up when you defeat the enemy Only officers will level up
+[Cheats/Level up when you defeat the enemy Only officers will level up]
 patch=1,EE,201A0544,extended,00000000
 
-//Cheats/Sugoroku 1P Gold Fluctuation L2+up Max Gold L2+down for 0 Gold
+[Cheats/Sugoroku 1P Gold Fluctuation L2+up Max Gold L2+down for 0 Gold]
 patch=1,EE,D0453402,extended,0000FEEF
 patch=1,EE,205D81A8,extended,0001869F
 patch=1,EE,D0453402,extended,0000FEBF
 patch=1,EE,205D81A8,extended,00000000
 
-//Cheats/Sanada Happiness Village
+[Cheats/Sanada Happiness Village]
 patch=1,EE,004F4EFB,extended,00000002
 
-//Cheats/The Maeda Celebration Next
+[Cheats/The Maeda Celebration Next]
 patch=1,EE,004F4EFF,extended,00000002
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,204F4AF4,extended,FFFFFFFF
 
-//Cheats/Unlock All Characters ED Novies
+[Cheats/Unlock All Characters ED Novies]
 patch=1,EE,004F4EFB,extended,00000002
 patch=1,EE,004F4EFF,extended,00000002
 patch=1,EE,004F4F03,extended,00000002 

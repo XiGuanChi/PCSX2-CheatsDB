@@ -1,12 +1,12 @@
 gametitle=SVC Chaos - SNK vs. Capcom SLPS-25316
-//Infinite Energy Player 1
+[Infinite Energy Player 1]
 patch=1,EE,10889998,extended,000000E0
 
-//Infinite Power gauge Player 1
+[Infinite Power gauge Player 1]
 patch=1,EE,10889948,extended,00006300
 
-//2P strength 0
+[2P strength 0]
 patch=1,EE,10889C18,extended,00000000
 
-//2P power gauge 0
+[2P power gauge 0]
 patch=1,EE,10889BC8,extended,00000000

@@ -1,4 +1,4 @@
-//Cheats/Time progress speed change L2+Up stop time L2+Down normal L2+Left speed up time Invalid when the time is forced to advance due to events
+[Cheats/Time progress speed change L2+Up stop time L2+Down normal L2+Left speed up time Invalid when the time is forced to advance due to events]
 patch=1,EE,D01C98C2,extended,0000FEEF
 patch=1,EE,201361A4,extended,10000007
 patch=1,EE,D01C98C2,extended,0000FEBF
@@ -6,10 +6,10 @@ patch=1,EE,201361A4,extended,15A00007
 patch=1,EE,D01C98C2,extended,0000FE7F 
 patch=1,EE,201361A4,extended,00000000
 
-//Cheats/Listening Event Infinite Time
+[Cheats/Listening Event Infinite Time]
 patch=1,EE,20137ED4,extended,240E0000
 
-//Cheats/Unlock Listening Event Not discovered R2+Up Effect ON  R2+down Effect off
+[Cheats/Unlock Listening Event Not discovered R2+Up Effect ON  R2+down Effect off]
 patch=1,EE,D01C98C2,extended,0000FDEF
 patch=1,EE,2016D660,extended,5000FFAC
 patch=1,EE,D01C98C2,extended,0000FDBF

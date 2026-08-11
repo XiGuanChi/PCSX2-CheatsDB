@@ -1,13 +1,13 @@
-//Cheats/R 9999
+[Cheats/R 9999]
 patch=1,EE,201C357C,extended,AE010004
 patch=1,EE,201C3580,extended,00000000
 
-//Cheats/Mana 99999
+[Cheats/Mana 99999]
 patch=1,EE,201C34F4,extended,3C030001
 patch=1,EE,201C34F8,extended,3463869F
 patch=1,EE,201C34FC,extended,AE030004
 
-//Cheats/Max Charge Time
+[Cheats/Max Charge Time]
 patch=1,EE,201996C0,extended,80810004
 patch=1,EE,201996C4,extended,14200009
 patch=1,EE,201996D8,extended,24017000
@@ -16,27 +16,27 @@ patch=1,EE,201996E0,extended,3C014974
 patch=1,EE,201996E4,extended,AE0101E4
 patch=1,EE,201996E8,extended,AE0101E0
 
-//Cheats/Installation Time 0 of Magic Square
+[Cheats/Installation Time 0 of Magic Square]
 patch=1,EE,20192C10,extended,1000000A
 patch=1,EE,20192C48,extended,82020004
 patch=1,EE,20192C74,extended,A6040008
 patch=1,EE,20192C78,extended,08064B0D
 patch=1,EE,20192C7C,extended,A6040006
 
-//Cheats/Search k
+[Cheats/Search k]
 patch=1,EE,20189E04,extended,240300003
 
-//Cheats/Unlock Unit 127
+[Cheats/Unlock Unit 127]
 patch=1,EE,201C35F4,extended,2407007F
 patch=1,EE,201C35F8,extended,08070D6E
 patch=1,EE,201C35FC,extended,A2070001
 patch=1,EE,201C35B0,extended,0C070D7D
 
-//Cheats/Unlock All Book
+[Cheats/Unlock All Book]
 patch=1,EE,21C6F934,extended,00000059
 patch=1,EE,21C6F938,extended,0000007D
 patch=1,EE,41C6FC40,extended,00370001
 patch=1,EE,0000000F,extended,00000000
 
-//Cheats/Enable Debug Menu
+[Cheats/Enable Debug Menu]
 patch=1,EE,20186404,extended,24110065

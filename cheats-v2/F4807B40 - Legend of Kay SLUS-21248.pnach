@@ -1,16 +1,16 @@
 gametitle=Legend of Kay SLUS-21248
-//Infinite energy
+[Infinite energy]
 patch=1,EE,208B7358,extended,00000004
 
-//Infinite Air 16800
+[Infinite Air 16800]
 patch=1,EE,208B73EA,extended,000041A0
 
-//Infinite Money
+[Infinite Money]
 patch=1,EE,208B7350,extended,0001869F
 
-//Access All Extras
+[Access All Extras]
 patch=1,EE,20509C78,extended,00000001
 
-//Unlock All Extras
+[Unlock All Extras]
 patch=1,EE,202EF9EC,extended,24020001
 patch=1,EE,202EF9F4,extended,ACA2002C

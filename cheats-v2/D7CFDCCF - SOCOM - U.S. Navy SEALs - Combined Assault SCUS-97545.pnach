@@ -1,25 +1,25 @@
 gametitle=SOCOM: U.S. Navy SEALs - Combined Assault SCUS-97545
-//Infinite Health (You & Your Team)
+[Infinite Health (You & Your Team)]
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,AE21093C
 patch=1,EE,200C0228,extended,0818B0F2
 patch=1,EE,200C022C,extended,922300F1
 patch=1,EE,2062C3C4,extended,08030088
 
-//Infinite Ammo/Medkits
+[Infinite Ammo/Medkits]
 patch=1,EE,2057F0E0,extended,24050000
 
-//Poor AI
+[Poor AI]
 patch=1,EE,20287E14,extended,00000000
 
-//Protect From Falls
+[Protect From Falls]
 patch=1,EE,207053F0,extended,7F000000
 
-//P1 Press L1+L2+R1+R2 To Complete Mission Successfully
+[P1 Press L1+L2+R1+R2 To Complete Mission Successfully]
 patch=1,EE,D070A4DC,extended,0000F0FF
 patch=1,EE,00948214,extended,00000001
 
-//All Badges
+[All Badges]
 patch=1,EE,4074DAC0,extended,00080001
 patch=1,EE,01010101,extended,00000000
 

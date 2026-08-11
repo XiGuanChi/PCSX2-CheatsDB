@@ -1,28 +1,28 @@
 gametitle=Taikou Risshiden IV SLPM-62105
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,204F33E0,extended,0098967F
 
-//Cheats/Main Character Health 100
+[Cheats/Main Character Health 100]
 patch=1,EE,004F33E8,extended,00000064
 
-//Cheats/Unlock Card In Play
+[Cheats/Unlock Card In Play]
 patch=1,EE,204F34CC,extended,FFFFFFFF
 patch=1,EE,204F34D0,extended,FFFFFFFF
 patch=1,EE,204F34D4,extended,FFFFFFFF
 patch=1,EE,204F34D8,extended,FFFFFFFF
 patch=1,EE,204F34DC,extended,FFFFFFFF
 
-//Cheats/The Correct Answer For The Speech Game Is Will Be Blank
+[Cheats/The Correct Answer For The Speech Game Is Will Be Blank]
 patch=1,EE,403EEF94,extended,00780038
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/A One Time Gift Max Intimacy At Tea Party
+[Cheats/A One Time Gift Max Intimacy At Tea Party]
 patch=1,EE,A01880F4,extended,24040064
 
-//Cheats/Unlock Ending After The Start Scenarios 4 and 5 will be usable for the time being
+[Cheats/Unlock Ending After The Start Scenarios 4 and 5 will be usable for the time being]
 patch=1,EE,204F2DA0,extended,00000002
 
-//Cheats/Unlock All Warrior Albums Needs a save
+[Cheats/Unlock All Warrior Albums Needs a save]
 patch=1,EE,204F2DD0,extended,5BE87401
 patch=1,EE,204F2DD4,extended,2AB642CF
 patch=1,EE,204F2DD8,extended,F884129D
@@ -187,7 +187,7 @@ patch=1,EE,204F3050,extended,46D25FEA
 patch=1,EE,204F3054,extended,14A02DB9
 patch=1,EE,104F3058,extended,0000FB87
 
-//Cheats/Unlock All Other Cards
+[Cheats/Unlock All Other Cards]
 patch=1,EE,104F305A,extended,0000FFFF
 patch=1,EE,404F305C,extended,000B0001
 patch=1,EE,FFFFFFFF,extended,00000000

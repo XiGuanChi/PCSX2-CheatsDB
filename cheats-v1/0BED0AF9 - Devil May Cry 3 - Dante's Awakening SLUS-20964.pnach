@@ -1,17 +1,17 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,205C3870,extended,3C030073
 patch=1,EE,205C3874,extended,8C6317A8
 patch=1,EE,205C3878,extended,AC832AD4
 patch=1,EE,205C387C,extended,03E00008
 patch=1,EE,202057B4,extended,08170E1C
 
-//Cheats/Infinite Devil Trigger
+[Cheats/Infinite Devil Trigger]
 patch=1,EE,2021CCD8,extended,00000000
 
-//Cheats/Infinite Holy Water
+[Cheats/Infinite Holy Water]
 patch=1,EE,007316A3,extended,0000001E
 
-//Cheats/1-Hit Kill Enemy  - Bosses Also
+[Cheats/1-Hit Kill Enemy  - Bosses Also]
 patch=1,EE,200C2070,extended,341B0001
 patch=1,EE,200C2074,extended,111B0004
 patch=1,EE,200C2078,extended,3E1B461E
@@ -23,6 +23,6 @@ patch=1,EE,200C208C,extended,E4400004
 patch=1,EE,202E91C4,extended,0803081E
 patch=1,EE,202E91C8,extended,00000000
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,41CB0520,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000

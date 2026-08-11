@@ -1,19 +1,19 @@
 gametitle=Beatmania IIDX 13th style SLPM-66828
-//Max Gauge
+[Max Gauge]
 patch=1,EE,102D0D60,extended,00001388
 
-//Always CARDINAL GATE Appearance
+[Always CARDINAL GATE Appearance]
 patch=1,EE,00FF8854,extended,00000001
 
-//All song appearance
+[All song appearance]
 patch=1,EE,20EB7BD8,extended,FFFFFFFF
 
-//Unlock Gallery
+[Unlock Gallery]
 patch=1,EE,20EB8104,extended,FFFFFFFF
 patch=1,EE,20EB8108,extended,FFFFFFFF
 patch=1,EE,10EB810C,extended,0000FFFF
 
-//All Customize
+[All Customize]
 patch=1,EE,10EEE1DC,extended,000003FF
 patch=1,EE,00EEE1D2,extended,000000FF
 patch=1,EE,00EEE1D6,extended,0000003F

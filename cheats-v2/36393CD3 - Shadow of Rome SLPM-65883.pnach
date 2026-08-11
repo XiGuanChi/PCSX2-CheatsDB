@@ -1,12 +1,12 @@
 gametitle=Shadow of Rome SLPM-65883
-//Invincible & enemy blows death
+[Invincible & enemy blows death]
 patch=1,EE,2015A4C4,extended,34630900
 patch=1,EE,2015A4BC,extended,AC23EBE4
 
-//Angrippa weapon will not break
+[Angrippa weapon will not break]
 patch=1,EE,201A20FC,extended,00000000
 patch=1,EE,201B371C,extended,00000000
 
-//All exrtras
+[All exrtras]
 patch=1,EE,405520D4,extended,000B0001
 patch=1,EE,FFFFFFFF,extended,00000000

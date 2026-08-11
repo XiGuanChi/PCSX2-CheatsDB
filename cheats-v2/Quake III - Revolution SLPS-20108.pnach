@@ -1,11 +1,11 @@
 gametitle=Quake III - Revolution SLPS-20108
-//Infinite Health
+[Infinite Health]
 patch=1,EE,105BC7E8,extended,000003E7
 patch=1,EE,1068B99C,extended,000003E7
 
-//Infinite Vehicle armor
+[Infinite Vehicle armor]
 patch=1,EE,1068B8E8,extended,000003E7
 patch=1,EE,1068B9A0,extended,000003E7
 
-//Have All Weapons
+[Have All Weapons]
 patch=1,EE,1068B8E4,extended,0000FFFF

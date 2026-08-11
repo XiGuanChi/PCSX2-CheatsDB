@@ -1,34 +1,34 @@
-//Cheats/Invincible Hold L1+R1 Then Press L2
+[Cheats/Invincible Hold L1+R1 Then Press L2]
 patch=1,EE,20369C98,extended,00000082
 patch=1,EE,20369C9C,extended,00000000
 
-//Cheats/P1 Hold L1+R1, Then Press X For Max Lives
+[Cheats/P1 Hold L1+R1, Then Press X For Max Lives]
 patch=1,EE,D036EE42,extended,0000B3FF
 patch=1,EE,2020C9C0,extended,00000000
 patch=1,EE,D036EE42,extended,0000FFFF
 patch=1,EE,2020C9C0,extended,1440000E
 
-//Cheats/P1 Hold L1+R1, Then Press Square For Super Oly
+[Cheats/P1 Hold L1+R1, Then Press Square For Super Oly]
 patch=1,EE,D036EE42,extended,000073FF
 patch=1,EE,2020CA08,extended,00000000
 patch=1,EE,D036EE42,extended,0000FFFF
 patch=1,EE,2020CA08,extended,14400019
 
-//Cheats/Max Ammo Hold L1+R1 Then Press Circle
+[Cheats/Max Ammo Hold L1+R1 Then Press Circle]
 patch=1,EE,D036EE42,extended,0000D3FF
 patch=1,EE,2020CA7C,extended,00000000
 patch=1,EE,D036EE42,extended,0000FFFF
 patch=1,EE,2020CA7C,extended,14400012
 
-//Cheats/All Power Upgrades Hold L1+R1 Then Press R2
+[Cheats/All Power Upgrades Hold L1+R1 Then Press R2]
 patch=1,EE,20369CB0,extended,00000085
 patch=1,EE,20369CB4,extended,00000000
 
-//Cheats/All Powers Hold L1+R1 Then Press Cross
+[Cheats/All Powers Hold L1+R1 Then Press Cross]
 patch=1,EE,20369C88,extended,00000080
 patch=1,EE,20369C8C,extended,00000000
 
-//Cheats/P1 Hold L1+R1, Then Press R2 For Max Arrowheads
+[Cheats/P1 Hold L1+R1, Then Press R2 For Max Arrowheads]
 patch=1,EE,D036EE42,extended,0000F1FF
 patch=1,EE,2020CB4C,extended,00000000
 patch=1,EE,D036EE42,extended,0000FFFF

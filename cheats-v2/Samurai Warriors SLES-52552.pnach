@@ -1,26 +1,26 @@
 gametitle=Samurai Warriors SLES-52552
-//Yukimura Sanada Codes max.Skill Points
+[Yukimura Sanada Codes max.Skill Points]
 patch=1,EE,20504274,extended,0001869F
-// 
-//max.Life
+[]
+[max.Life]
 patch=1,EE,00504230,extended,000000FF
-// 
-//max.Musou 
+[]
+[max.Musou]
 patch=1,EE,00504231,extended,000000FF
 
-//max.Attack
+[max.Attack]
 patch=1,EE,00504232,extended,000000C8
 
-//max.Def
+[max.Def]
 patch=1,EE,00504233,extended,000000C8
 
-//all Characters 
+[all Characters]
 patch=1,EE,20505080,extended,060D000F
 patch=1,EE,20505084,extended,0A090305
 patch=1,EE,20505088,extended,02040708
 patch=1,EE,2050508C,extended,010B0C0E
 
-//9.999 Exp Character 
+[9.999 Exp Character]
 patch=1,EE,20530e30,extended,05F5E0FF
 
 

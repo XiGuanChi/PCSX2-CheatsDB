@@ -1,10 +1,10 @@
 gametitle=Akira Psycho Ball SLPS-20150
-//Total score-999.999.999.999-
+[Total score-999.999.999.999-]
 patch=1,EE,201FED48,extended,4E729FFF
 patch=1,EE,201FED4C,extended,00000918
 
-//The ball does not decrease
+[The ball does not decrease]
 patch=1,EE,001FED10,extended,00000009
 
-//Can be used on all stages
+[Can be used on all stages]
 patch=1,EE,001FF286,extended,00000004

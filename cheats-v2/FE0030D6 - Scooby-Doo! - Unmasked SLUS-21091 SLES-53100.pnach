@@ -1,18 +1,18 @@
 gametitle=Scooby-Doo! - Unmasked SLUS-21091 SLES-53100
-//Infinite Medals (Health)
+[Infinite Medals (Health)]
 patch=1,EE,204116A0,extended,0000000C
 
-//All Monster Profiles
+[All Monster Profiles]
 patch=1,EE,40411728,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,20411694,extended,FFFFFFFF
 patch=1,EE,20411698,extended,FFFFFFFF
 
-//Infinite Medals (Health) alt
+[Infinite Medals (Health) alt]
 patch=1,EE,2041B920,extended,0000000C
 
-//All Monster Profiles and Unlock all levels
+[All Monster Profiles and Unlock all levels]
 patch=1,EE,4041B9A8,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000

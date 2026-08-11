@@ -1,13 +1,13 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,205E0F64,extended,000F423F
 
-//Cheats/Max Request Amount
+[Cheats/Max Request Amount]
 patch=1,EE,20222978,extended,10600009
 
-//Cheats/Judith Infinite HP
+[Cheats/Judith Infinite HP]
 patch=1,EE,105DE7E4,extended,0000270F
 patch=1,EE,105DE7FC,extended,0000270F
 
-//Cheats/Unlock Debug Mode HIGDON Selecting ipu view all of the background images Selecting movie will allow you to watch all the movies in the game.Event view all of the event cutscenes QV will allow you to jump to all the town maps in the game. Selecting QvPreview will take you to map specific cutscenes KONISHI map select tools, memory card viewer, and bonus menu debug
+[Cheats/Unlock Debug Mode HIGDON Selecting ipu view all of the background images Selecting movie will allow you to watch all the movies in the game.Event view all of the event cutscenes QV will allow you to jump to all the town maps in the game. Selecting QvPreview will take you to map specific cutscenes KONISHI map select tools, memory card viewer, and bonus menu debug]
 patch=1,EE,2026A9EC,extended,24100000
 

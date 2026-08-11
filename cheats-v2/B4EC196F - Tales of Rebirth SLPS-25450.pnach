@@ -1,38 +1,38 @@
 gametitle=Tales of Rebirth SLPS-25450
-//Panic Dreamer 1P life MAX
+[Panic Dreamer 1P life MAX]
 patch=1,EE,D03111B4,extended,00000001
 patch=1,EE,003111B4,extended,00000005
 
-//Infinite Gald (Money) (99999999)
+[Infinite Gald (Money) (99999999)]
 patch=1,EE,20236088,extended,05F5E0FF
 
-//Infinite & Max HP Main Character
+[Infinite & Max HP Main Character]
 patch=1,EE,20232DAA,extended,0000270F
 patch=1,EE,20232DBE,extended,0000270F
 
-//Infinite HP In Battle Main Character
+[Infinite HP In Battle Main Character]
 patch=1,EE,2034BBE4,extended,0000270F
 
-//Infinite & Max HP 2nd Character
+[Infinite & Max HP 2nd Character]
 patch=1,EE,20232F56,extended,0000270F
 patch=1,EE,20232F42,extended,0000270F
 
-//Infinite HP In Battle 2nd Character (Deactivate 2nd & 3rd character in battle codes for character 1 only battles)
+[Infinite HP In Battle 2nd Character (Deactivate 2nd & 3rd character in battle codes for character 1 only battles)]
 patch=1,EE,2034C4E4,extended,0000270F
 
-//Infinite & Max HP 3rd Character
+[Infinite & Max HP 3rd Character]
 patch=1,EE,202330DA,extended,0000270F
 patch=1,EE,202330EE,extended,0000270F
 
-//Infinite HP In Battle 3rd Character (Deactivate 2nd & 3rd character in battle codes for character 1 only battles)
+[Infinite HP In Battle 3rd Character (Deactivate 2nd & 3rd character in battle codes for character 1 only battles)]
 patch=1,EE,2034CDE4,extended,0000270F
 
-//Menu opens the HP entire reply
+[Menu opens the HP entire reply]
 patch=1,EE,20193068,extended,0C03C830
 patch=1,EE,200F20C0,extended,08065368
 patch=1,EE,200F20C4,extended,AE280108
 
-//No Encounters, unless holding SQUARE
+[No Encounters, unless holding SQUARE]
 patch=1,EE,A012D29C,extended,001F200B
 patch=1,EE,A012D2A0,extended,3C020024
 patch=1,EE,A012D2A4,extended,944225C2

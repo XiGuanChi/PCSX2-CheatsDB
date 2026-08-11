@@ -1,49 +1,49 @@
 gametitle=Burnout SLES-50445
-//Infinite Credits
+[Infinite Credits]
 patch=1,EE,1037F0D0,extended,00000063
 
-//Permanent Boost
+[Permanent Boost]
 patch=1,EE,203A7A5C,extended,42C80000
 
-//Invulnerable to Car and Wall Crashs
+[Invulnerable to Car and Wall Crashs]
 patch=1,EE,201C8FE8,extended,24020000
 patch=1,EE,2015FC4C,extended,24020000
 
-//No Car Damage
+[No Car Damage]
 patch=1,EE,2015FEA4,extended,00000000
 patch=1,EE,203A8260,extended,447A0000
 
-//Boost Never Decreases
+[Boost Never Decreases]
 patch=1,EE,201D11D8,extended,46000006
 
 
-//R2 More Time
+[R2 More Time]
 patch=1,EE,D04EA8C2,extended,0000FDFF
 patch=1,EE,204A97D0,extended,000000A5
 
-//Unlock Bonus Cars
+[Unlock Bonus Cars]
 patch=1,EE,2037957C,extended,00000000
 patch=1,EE,20379584,extended,00000000
 patch=1,EE,20379590,extended,00000000
 patch=1,EE,20379598,extended,00000000
 
-//Unlock Survival
+[Unlock Survival]
 patch=1,EE,2037961C,extended,00000000
 
-//Unlock Face Offs
+[Unlock Face Offs]
 patch=1,EE,2037960C,extended,00000000
 patch=1,EE,20379610,extended,00000000
 patch=1,EE,20379614,extended,00000000
 patch=1,EE,20379618,extended,00000000
 
-//Unlock All Championships
+[Unlock All Championships]
 patch=1,EE,203795E0,extended,00000000
 patch=1,EE,203795E4,extended,00000000
 patch=1,EE,203795E8,extended,00000000
 patch=1,EE,203795EC,extended,00000000
 patch=1,EE,203795F0,extended,00000000
 
-//Unlock All Tracks
+[Unlock All Tracks]
 patch=1,EE,203795A0,extended,00000000
 patch=1,EE,203795A4,extended,00000000
 patch=1,EE,203795A8,extended,00000000

@@ -1,30 +1,30 @@
-//Cheats/Invulnerable
+[Cheats/Invulnerable]
 patch=1,EE,204915E0,extended,00000001
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20222344,extended,3C0242C8
 patch=1,EE,20222348,extended,44826000
 patch=1,EE,20222380,extended,E44C0010
 patch=1,EE,20222394,extended,E44C0018
 
-//Cheats/Infinite Health Alternate
+[Cheats/Infinite Health Alternate]
 patch=1,EE,2021AAC8,extended,3C014400
 patch=1,EE,2021AAD0,extended,AC810010
 
-//Cheats/Infinite Lore
+[Cheats/Infinite Lore]
 patch=1,EE,202220EC,extended,3C0242C8
 patch=1,EE,202220F0,extended,44826000
 patch=1,EE,20222128,extended,E44C0004
 patch=1,EE,2022213C,extended,E44C000C
 
-//Cheats/Infinite RAGE
+[Cheats/Infinite RAGE]
 patch=1,EE,2022D174,extended,3C01447A
 patch=1,EE,2022D178,extended,44810800
 
-//Cheats/Have Soulreaver
+[Cheats/Have Soulreaver]
 patch=1,EE,20491C88,extended,00000001
 
-//Cheats/Have All Dark Gifts
+[Cheats/Have All Dark Gifts]
 patch=1,EE,200C0220,extended,24010001
 patch=1,EE,200C0224,extended,AC81000C
 patch=1,EE,200C0228,extended,03E00008

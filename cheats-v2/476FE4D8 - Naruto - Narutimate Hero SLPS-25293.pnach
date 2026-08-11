@@ -1,23 +1,23 @@
 gametitle=Naruto - Narutimate Hero SLPS-25293
-//Scenario Mode Post-match money MAX
+[Scenario Mode Post-match money MAX]
 patch=1,EE,202E2FD0,extended,00000000
 
-//MAX by increasing the amount of money in scenario mode
+[MAX by increasing the amount of money in scenario mode]
 patch=1,EE,202E2FD0,extended,14600001
 
-//99 items obtained from Gashapon
+[99 items obtained from Gashapon]
 patch=1,EE,20367D1C,extended,14200001
 
-//Does not decrease even if you withdraw items
+[Does not decrease even if you withdraw items]
 patch=1,EE,2031BC70,extended,24520000
 
-//Possession money MAX
+[Possession money MAX]
 patch=1,EE,209274CC,extended,0098967F
 
-//Mission points 9999
+[Mission points 9999]
 patch=1,EE,109274E0,extended,0000270F
 
-//All characters can be used
+[All characters can be used]
 patch=1,EE,20926E8C,extended,00000003
 patch=1,EE,20926E94,extended,00000003
 patch=1,EE,20926EA0,extended,00000003
@@ -25,48 +25,48 @@ patch=1,EE,20926EA4,extended,00000003
 patch=1,EE,20926EA8,extended,00000003
 patch=1,EE,20926EAC,extended,00000003
 
-//All battle stages
+[All battle stages]
 patch=1,EE,10927906,extended,00000101
 patch=1,EE,10927908,extended,00000101
 
-//Scenario All characters cleared 99 times
+[Scenario All characters cleared 99 times]
 patch=1,EE,00927FDD,extended,00000063
 patch=1,EE,10927FDE,extended,00006363
 patch=1,EE,20927FE0,extended,63636363
 patch=1,EE,20927FE4,extended,63636363
 patch=1,EE,00927FE8,extended,00000063
 
-//99 items for withdrawal
-//Gut weight
+[99 items for withdrawal]
+[Gut weight]
 patch=1,EE,00927F32,extended,00000063
 
-//Support item
+[Support item]
 patch=1,EE,00927F44,extended,00000063
 
-//Special Ninja Tool
+[Special Ninja Tool]
 patch=1,EE,00927F25,extended,00000063
 
-//Scroll of instant body
+[Scroll of instant body]
 patch=1,EE,00927F42,extended,00000063
 
-//Shinobi shoes
+[Shinobi shoes]
 patch=1,EE,00927F3F,extended,00000063
 
-//Hyorogan
+[Hyorogan]
 patch=1,EE,00927F40,extended,00000063
 
-//Scroll of cloud hiding
+[Scroll of cloud hiding]
 patch=1,EE,00927F41,extended,00000063
 
-//Scarecrow doll
+[Scarecrow doll]
 patch=1,EE,00927F43,extended,00000063
 
-//All scrolls
+[All scrolls]
 patch=1,EE,20927910,extended,FFFFFFFF
 patch=1,EE,20927914,extended,FFFFFFFF
 patch=1,EE,10927918,extended,00003FFF
 
-//All dolls (general purpose)
+[All dolls (general purpose)]
 patch=1,EE,20927920,extended,FFFFFFFF
 patch=1,EE,20927924,extended,FFFFFFFF
 patch=1,EE,20927928,extended,FFFFFFFF
@@ -80,15 +80,15 @@ patch=1,EE,20927944,extended,FFFFFFFF
 patch=1,EE,20927948,extended,FFFFFFFF
 patch=1,EE,2092794C,extended,7FFFFFFF
 
-//All dolls (PAR 1.6j or later & Exploder only)
+[All dolls (PAR 1.6j or later & Exploder only)]
 patch=1,EE,40927920,extended,000B0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,2092794C,extended,7FFFFFFF
 
-//All music
+[All music]
 patch=1,EE,20927954,extended,007FFFFF
 
-//All audio (general purpose)
+[All audio (general purpose)]
 patch=1,EE,2092795C,extended,FFFFFFFF
 patch=1,EE,20927960,extended,FFFFFFFF
 patch=1,EE,20927964,extended,FFFFFFFF
@@ -101,31 +101,31 @@ patch=1,EE,2092797C,extended,FFFFFFFF
 patch=1,EE,20927980,extended,FFFFFFFF
 patch=1,EE,20927984,extended,003FFFFF
 
-//All audio (PAR 1.6j or later & Exploder only)
+[All audio (PAR 1.6j or later & Exploder only)]
 patch=1,EE,4092795C,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,20927984,extended,003FFFFF
 
-//Ninja tag
-//All request ninja cards
+[Ninja tag]
+[All request ninja cards]
 patch=1,EE,0092798C,extended,0000007F
 
-//All the art ninja cards
+[All the art ninja cards]
 patch=1,EE,20927994,extended,FFFFFFFF
 patch=1,EE,20927998,extended,FFFFFFFF
 patch=1,EE,2092799C,extended,000FFFFF
 
-//All Shinobi Shinobi cards
+[All Shinobi Shinobi cards]
 patch=1,EE,209279A8,extended,FFFFFFFF
 patch=1,EE,209279AC,extended,FFFFFFFF
 patch=1,EE,209279B0,extended,03FFFFFF
 
-//All strategy ninja cards
+[All strategy ninja cards]
 patch=1,EE,209279BC,extended,FFFFFFFF
 patch=1,EE,209279C0,extended,FFFFFFFF
 patch=1,EE,209279C4,extended,01FFFFFF
 
-//All images (general purpose)
+[All images (general purpose)]
 patch=1,EE,209279D0,extended,FFFFFFFF
 patch=1,EE,209279D4,extended,FFFFFFFF
 patch=1,EE,209279D8,extended,FFFFFFFF
@@ -159,7 +159,7 @@ patch=1,EE,20927A44,extended,FFFFFFFF
 patch=1,EE,20927A48,extended,FFFFFFFF
 patch=1,EE,10927A4C,extended,0000FFFF
 
-//All images (PAR 1.6j or later & Exploder only)
+[All images (PAR 1.6j or later & Exploder only)]
 patch=1,EE,409279D0,extended,001F0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10927A4C,extended,0000FFFF

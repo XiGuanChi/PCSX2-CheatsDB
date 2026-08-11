@@ -1,45 +1,45 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2019C5C0,extended,41000000
 
-//Cheats/Infinite Ammo Blaster Weapon
+[Cheats/Infinite Ammo Blaster Weapon]
 patch=1,EE,20622F54,extended,43480000
 
-//Cheats/Infinite Ammo Scatter Gun
+[Cheats/Infinite Ammo Scatter Gun]
 patch=1,EE,20622F58,extended,42C80000
 
-//Cheats/Infinite Ammo Vulcan Fury
+[Cheats/Infinite Ammo Vulcan Fury]
 patch=1,EE,20622F5C,extended,43480000
 
-//Cheats/Infinite Ammo Peace Maker
+[Cheats/Infinite Ammo Peace Maker]
 patch=1,EE,20622F60,extended,41200000
 
-//Cheats/Max Metal Head Skull Gems Current
+[Cheats/Max Metal Head Skull Gems Current]
 patch=1,EE,20622F14,extended,4479C000
 
-//Cheats/Max Precursor Orbs Current
+[Cheats/Max Precursor Orbs Current]
 patch=1,EE,20622F1C,extended,43480000
 
-//Cheats/Max Precursor Orbs Overall
+[Cheats/Max Precursor Orbs Overall]
 patch=1,EE,20622F20,extended,43480000
 
-//Cheats/P1 Press L1+Select To Stop Race Timer
+[Cheats/P1 Press L1+Select To Stop Race Timer]
 patch=1,EE,D0128182,extended,0000FBFE
 patch=1,EE,20357144,extended,00000000
 
-//Cheats/P1 Press L2+Select To Restart Race Timer
+[Cheats/P1 Press L2+Select To Restart Race Timer]
 patch=1,EE,D0128182,extended,0000FEFE
 patch=1,EE,20357144,extended,FF830014
 
-//Cheats/Activate Single Cheat Unlimited Ammo
+[Cheats/Activate Single Cheat Unlimited Ammo]
 patch=1,EE,20622F40,extended,00000004
 
-//Cheats/Activate Single Cheat Invulnerability
+[Cheats/Activate Single Cheat Invulnerability]
 patch=1,EE,20622F40,extended,00000008
 
-//Cheats/Activate Single Cheat Unlimited Dark Jak
+[Cheats/Activate Single Cheat Unlimited Dark Jak]
 patch=1,EE,20622F40,extended,00000010
 
-//Cheats/Unlock All Secrets
+[Cheats/Unlock All Secrets]
 patch=1,EE,20622F48,extended,FFFFFFFF
 patch=1,EE,2080A704,extended,FFFFFFFF
 patch=1,EE,2080C894,extended,FFFFFFFF

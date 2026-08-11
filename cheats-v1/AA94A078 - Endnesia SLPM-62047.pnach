@@ -1,14 +1,14 @@
-//Cheats/Infinite Health, Stomach And Sleep If you use this code without having obtained Haraheri or Nemui, you will of course not be able to obtain it
+[Cheats/Infinite Health, Stomach And Sleep If you use this code without having obtained Haraheri or Nemui, you will of course not be able to obtain it]
 patch=1,EE,21C067F0,extended,437F0000
 patch=1,EE,21C06E80,extended,437F0000
 patch=1,EE,1190320C,extended,0000A000
 
-//Cheats/Infinite Emo Optional Version
+[Cheats/Infinite Emo Optional Version]
 patch=1,EE,0190341F,extended,00000003
 patch=1,EE,41903420,extended,00060001
 patch=1,EE,03030303,extended,00000000
 
-//Cheats/Infinite Emo Accurate Version
+[Cheats/Infinite Emo Accurate Version]
 patch=1,EE,0190341F,extended,00000003
 patch=1,EE,01903420,extended,00000003
 patch=1,EE,11903422,extended,00000303

@@ -1,4 +1,4 @@
-//Cheats/All Characters Stamina Gauge 200
+[Cheats/All Characters Stamina Gauge 200]
 patch=1,EE,204BCED4,extended,0C12FDAD
 patch=1,EE,20518E74,extended,0C12FDAD
 patch=1,EE,205DEBBC,extended,0C12FDAD
@@ -12,13 +12,13 @@ patch=1,EE,204BFA9C,extended,AE0502A8
 patch=1,EE,20876664,extended,000000C8
 patch=1,EE,2087666C,extended,000000C8
 
-//Cheats/Fujiko Minigame Max Score
+[Cheats/Fujiko Minigame Max Score]
 patch=1,EE,201077F8,extended,00000000
 
-//Cheats/Unlock Chapter Selection Needs a save game
+[Cheats/Unlock Chapter Selection Needs a save game]
 patch=1,EE,208763C4,extended,FFFFFFFF
 
-//Cheats/Unlock All Obtained Benefits Needs a save game
+[Cheats/Unlock All Obtained Benefits Needs a save game]
 patch=1,EE,208763CC,extended,FFFFFFFF
 patch=1,EE,208763D0,extended,FFFFFFFF
 patch=1,EE,208763D4,extended,FFFFFFFF

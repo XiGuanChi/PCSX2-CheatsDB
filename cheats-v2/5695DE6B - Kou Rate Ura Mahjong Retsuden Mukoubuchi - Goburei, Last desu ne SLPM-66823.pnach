@@ -1,12 +1,12 @@
 gametitle=Kou Rate Ura Mahjong Retsuden Mukoubuchi - Goburei, Last desu ne SLPM-66823
-//Scenario mode P1 MAX
+[Scenario mode P1 MAX]
 patch=1,EE,2032ECB8,extended,000F423F
 
-//Scenario mode P2 MAX
+[Scenario mode P2 MAX]
 patch=0,EE,2032EE48,extended,000F423F
 
-//Scenario mode P3 MAX
+[Scenario mode P3 MAX]
 patch=0,EE,2032EFD8,extended,000F423F
 
-//Scenario mode P4 MAX
+[Scenario mode P4 MAX]
 patch=0,EE,2032F168,extended,000F423F

@@ -1,20 +1,20 @@
 gametitle=Dragon Ball Z - Infinite World SLES-55347
-//Max Zenny
+[Max Zenny]
 patch=1,EE,205C154C,extended,000F423F
 
-//Infinite Time (Mission)
+[Infinite Time (Mission)]
 patch=1,EE,202F3C7C,extended,00000000
 
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,20530EE0,extended,453B8000
 
-//Infinite Ki P1
+[Infinite Ki P1]
 patch=1,EE,20530EEC,extended,45DAC000
 
-//1 Hit Kill P2
+[1 Hit Kill P2]
 patch=1,EE,20532FB0,extended,3D800000
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,405C1554,extended,00FF0001
 patch=1,EE,E1E1E1E1,extended,00000000
 patch=1,EE,405C1950,extended,00580001

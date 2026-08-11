@@ -1,18 +1,18 @@
 gametitle=Drakengard 2 SLES-53794
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,204C5834,extended,05F5E0FF
 
-//Infinite HP Nowe 
+[Infinite HP Nowe]
 patch=1,EE,204972F0,extended,00000190
 
-//Infinite HP Legna 
+[Infinite HP Legna]
 patch=1,EE,20492DB0,extended,00000190
 
-//Infinite MP Nowe
+[Infinite MP Nowe]
 patch=1,EE,204972F4,extended,000003E8
 
-//Infinite MP Legna
+[Infinite MP Legna]
 patch=1,EE,20492DB4,extended,000003E8
 
-//100 Chain
+[100 Chain]
 patch=1,EE,204977A0,extended,00000064

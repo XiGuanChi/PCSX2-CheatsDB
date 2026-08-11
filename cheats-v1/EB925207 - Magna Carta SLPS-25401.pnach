@@ -1,31 +1,31 @@
-//Cheats/Max Money After Increase
+[Cheats/Max Money After Increase]
 patch=1,EE,203A0688,extended,00000021
 
-//Cheats/Charisma Max HP
+[Cheats/Charisma Max HP]
 patch=1,EE,203F07D0,extended,2403270F
 patch=1,EE,203F07D4,extended,AC830054
 
-//Cheats/Mono Osamu Max HP
+[Cheats/Mono Osamu Max HP]
 patch=1,EE,203F07F0,extended,2403270F
 patch=1,EE,203F07F4,extended,AC83005C
 
-//Cheats/Monobo Max HP
+[Cheats/Monobo Max HP]
 patch=1,EE,203F0800,extended,2403270F
 patch=1,EE,203F0804,extended,AC830060
 
-//Cheats/Ma Osamu Max HP
+[Cheats/Ma Osamu Max HP]
 patch=1,EE,203F0810,extended,2403270F
 patch=1,EE,203F0814,extended,AC830064
 
-//Cheats/Mabo Max HP
+[Cheats/Mabo Max HP]
 patch=1,EE,203F0820,extended,2403270F
 patch=1,EE,203F0824,extended,AC830068
 
-//Cheats/When Entering Battle All Enemies Are Annihilated
+[Cheats/When Entering Battle All Enemies Are Annihilated]
 patch=1,EE,203F0608,extended,00000000 
 patch=1,EE,203F0758,extended,00000000
 
-//Cheats/When Entering Battle All Enemies Are Annihilated  On SELECT+Up Uff SELECT+Down  If the status of new characters is extremely low when annihilation is ON However, if you reload after saving, or use the "ability increases when taking a field break" code, your status will be restored.
+[Cheats/When Entering Battle All Enemies Are Annihilated  On SELECT+Up Uff SELECT+Down  If the status of new characters is extremely low when annihilation is ON However, if you reload after saving, or use the "ability increases when taking a field break" code, your status will be restored.]
 patch=1,EE,D054FC02,extended,0000FFEE
 patch=1,EE,203F0608,extended,00000000 
 patch=1,EE,D054FC02,extended,0000FFEE 
@@ -35,10 +35,10 @@ patch=1,EE,203F0608,extended,0C0FC1E0
 patch=1,EE,D054FC02,extended,0000FFBE 
 patch=1,EE,203F0758,extended,0C0FC1E0
 
-//Cheats/When Resting In The Field HP 9999
+[Cheats/When Resting In The Field HP 9999]
 patch=1,EE,203F018C,extended,10000003 
 patch=1,EE,203F01C8,extended,2403270F 
 patch=1,EE,203F01CC,extended,AE030034 
 
-//Cheats/When Resting In The Field EXP 9999 Be careful as the enemies will become stronger as you level up
+[Cheats/When Resting In The Field EXP 9999 Be careful as the enemies will become stronger as you level up]
 patch=1,EE,203F01D0,extended,AE0300BC

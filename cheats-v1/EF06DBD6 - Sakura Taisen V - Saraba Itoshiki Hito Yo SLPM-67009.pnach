@@ -1,21 +1,21 @@
-//Cheats/In Battle Part Strength & Health Recovery
+[Cheats/In Battle Part Strength & Health Recovery]
 patch=1,EE,2028D61C,extended,86230072
 patch=1,EE,2028D620,extended,A6230074
 patch=1,EE,2028D624,extended,8623006C
 patch=1,EE,2028D628,extended,A623006E
 patch=1,EE,2028D62C,extended,10000021
 
-//Cheats/SLG part - Recovery of Action when Command Menu Recover by exiting from the Command Menu with x Button
+[Cheats/SLG part - Recovery of Action when Command Menu Recover by exiting from the Command Menu with x Button]
 patch=1,EE,202B1F64,extended,84830078
 patch=1,EE,202B1F68,extended,A483007A
 patch=1,EE,202B1F6C,extended,A483007C
 
-//Cheats/Max Motivation for All Members
+[Cheats/Max Motivation for All Members]
 patch=1,EE,E0021440,extended,0048472A
 patch=1,EE,20484724,extended,3403270F
 patch=1,EE,20484728,extended,A4430042
 
-//Cheats/Erica Max Love Level
+[Cheats/Erica Max Love Level]
 patch=1,EE,200F4900,extended,34010000
 patch=1,EE,200F4904,extended,34022710
 patch=1,EE,200F4908,extended,54250001
@@ -25,10 +25,10 @@ patch=1,EE,200F4978,extended,03E00008
 patch=1,EE,D04831FC,extended,00000040
 patch=1,EE,204831FC,extended,0C03D240
 
-//Cheats/Infinite Combat Kabau
+[Cheats/Infinite Combat Kabau]
 patch=1,EE,202761EC,extended,00000000
 
-//Cheats/In Battle Required codes
+[Cheats/In Battle Required codes]
 patch=1,EE,200F4800,extended,28210007
 patch=1,EE,200F4804,extended,1020001E
 patch=1,EE,200F4878,extended,1000001F
@@ -36,26 +36,26 @@ patch=1,EE,200F48F8,extended,00400008
 patch=1,EE,20272F9C,extended,0803D200
 patch=1,EE,20272FA0,extended,92810004
 
-//Cheats/In Battle Max Ally Durability Maintain
+[Cheats/In Battle Max Ally Durability Maintain]
 patch=1,EE,200F4810,extended,9681002C
 patch=1,EE,200F4814,extended,A681002E
 
-//Cheats/In Battle Max Ally endurance 9999
+[Cheats/In Battle Max Ally endurance 9999]
 patch=1,EE,200F4848,extended,3401270F
 patch=1,EE,200F484C,extended,70110EE9
 patch=1,EE,200F4850,extended,AE81002C
 
-//Cheats/In Battle Max Ally Spirit Maintain
+[Cheats/In Battle Max Ally Spirit Maintain]
 patch=1,EE,200F4808,extended,96810034
 patch=1,EE,200F480C,extended,A6810036
 
-//Cheats/In Battle Max Ally Action Gauge Consumption
+[Cheats/In Battle Max Ally Action Gauge Consumption]
 patch=1,EE,200F4818,extended,9683003C
 patch=1,EE,200F481C,extended,A6830040
 patch=1,EE,200F4820,extended,A6830044
 
-//Cheats/In Battle Enemy Spirit 0
+[Cheats/In Battle Enemy Spirit 0]
 patch=1,EE,200F4880,extended,A6800036
 
-//Cheats/Debug mode Appears at Startup or when transitioning from the title to the game
+[Cheats/Debug mode Appears at Startup or when transitioning from the title to the game]
 patch=1,EE,205766BC,extended,00000001

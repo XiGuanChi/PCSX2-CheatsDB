@@ -1,23 +1,23 @@
-//Cheats/Player 1 Infinite Health
+[Cheats/Player 1 Infinite Health]
 patch=1,EE,203AF22C,extended,00910000
 
-//Cheats/Press SELECT 2P Health 0
+[Cheats/Press SELECT 2P Health 0]
 patch=1,EE,D0153408,extended,00000100
 patch=1,EE,203AFAFC,extended,00000000
 
-//Cheats/Story Battle Final stage
+[Cheats/Story Battle Final stage]
 patch=1,EE,003AE4B8,extended,00000008
 
-//Cheats/Max Money 99999999
+[Cheats/Max Money 99999999]
 patch=1,EE,203EA5E8,extended,05F5E0FF
 
-//Cheats/Fighting Spirit Money 999999999G
+[Cheats/Fighting Spirit Money 999999999G]
 patch=1,EE,203EA5E8,extended,3B9AC9FF
 
-//Cheats/Unlock All Characters And Starblade Added To Arcade History
+[Cheats/Unlock All Characters And Starblade Added To Arcade History]
 patch=1,EE,203EA518,extended,FFFFFFFF
 patch=1,EE,003EB5E8,extended,000000FF
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,203EA520,extended,FFFFFFFF
 patch=1,EE,203EA524,extended,FFFFFFFF

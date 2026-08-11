@@ -1,9 +1,9 @@
 gametitle=Bionicle SLES-51956
-//infinite Stamina
+[infinite Stamina]
 patch=1,EE,2032B218,extended,40400000
 
-//infinite Energy
+[infinite Energy]
 patch=1,EE,201FBCB8,extended,0000000C
 
-//unlock all Wahi
+[unlock all Wahi]
 patch=1,EE,1023B2C0,extended,00000101

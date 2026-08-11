@@ -1,11 +1,11 @@
 gametitle=Shadow Hearts - Covenant SLPS-25334~5
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,20102D30,extended,05F5E0FF
 
-//Soul Energy Max
+[Soul Energy Max]
 patch=1,EE,20100130,extended,0000270F
 
-//HP & MP recovery After Combat
+[HP & MP recovery After Combat]
 patch=1,EE,203C23E8,extended,0803E800
 patch=1,EE,200FA000,extended,8619001C
 patch=1,EE,200FA004,extended,A619001E
@@ -14,9 +14,9 @@ patch=1,EE,200FA00C,extended,A6190022
 patch=1,EE,200FA010,extended,DFBF0020
 patch=1,EE,200FA014,extended,080F08FC
 
-//Maximum HP
+[Maximum HP]
 patch=1,EE,203C21EC,extended,00000000
 
-//Maximum MP
+[Maximum MP]
 patch=1,EE,203C221C,extended,00000000
 

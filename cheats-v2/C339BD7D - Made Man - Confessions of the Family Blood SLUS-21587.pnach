@@ -1,27 +1,27 @@
 gametitle=Made Man - Confessions of the Family Blood SLUS-21587
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0224,extended,AE81120C
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C681120C
 patch=1,EE,201BE56C,extended,0C030088
 
-//Infinite Health alt
+[Infinite Health alt]
 patch=1,EE,2016ADAC,extended,3C014448
 
-//Infinite Armor
+[Infinite Armor]
 patch=1,EE,201BE714,extended,3C014448
 patch=1,EE,201BE718,extended,AE811210
 
-//God Mode
+[God Mode]
 patch=1,EE,201BE57C,extended,34420001
 patch=1,EE,201BE580,extended,AE821208
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201A1FF8,extended,00000000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,20175F90,extended,00000000
 
-//P1 Press L1+Select For Max Bush Meter
+[P1 Press L1+Select For Max Bush Meter]
 patch=1,EE,D03661C2,extended,0000FBFE
 patch=1,EE,203172B4,extended,42C80000

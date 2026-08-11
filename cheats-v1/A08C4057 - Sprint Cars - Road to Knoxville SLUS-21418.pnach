@@ -1,13 +1,13 @@
-//Cheats/Infinite Cash
+[Cheats/Infinite Cash]
 patch=1,EE,2085AFC0,extended,000F423F
 
-//Cheats/Infinite Driver Creation Points
+[Cheats/Infinite Driver Creation Points]
 patch=1,EE,202DCE70,extended,24420000
 
-//Cheats/Infinite Tear-Offs
+[Cheats/Infinite Tear-Offs]
 patch=1,EE,202783A4,extended,24630000
 
-//Cheats/Unlock All Arcade Race Classes
+[Cheats/Unlock All Arcade Race Classes]
 patch=1,EE,203FBFF0,extended,00000001
 patch=1,EE,203FC1CC,extended,00000001
 patch=1,EE,203FC0BC,extended,00000001
@@ -15,7 +15,7 @@ patch=1,EE,203FBE9C,extended,00000001
 patch=1,EE,203FBF24,extended,00000001
 patch=1,EE,203FC254,extended,00000001
 
-//Cheats/Unlock All Models
+[Cheats/Unlock All Models]
 patch=1,EE,203FBDD0,extended,00000001
 patch=1,EE,203FBE14,extended,00000001
 patch=1,EE,203FBF68,extended,00000001
@@ -23,7 +23,7 @@ patch=1,EE,203FC034,extended,00000001
 patch=1,EE,203FC100,extended,00000001
 patch=1,EE,203FC144,extended,00000001
 
-//Cheats/Unlock All Tracks
+[Cheats/Unlock All Tracks]
 patch=1,EE,203FC188,extended,00000001
 patch=1,EE,203FC210,extended,00000001
 patch=1,EE,203FBFAC,extended,00000001

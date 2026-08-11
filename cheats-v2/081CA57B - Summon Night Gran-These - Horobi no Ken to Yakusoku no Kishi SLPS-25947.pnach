@@ -1,27 +1,27 @@
 gametitle=Summon Night Gran-These - Horobi no Ken to Yakusoku no Kishi SLPS-25947
-//Max Money 
+[Max Money]
 patch=1,EE,2072ECB8,extended,000F423F
 
-//Full recovery recovery AP
+[Full recovery recovery AP]
 patch=1,EE,20372024,extended,34010000
 
-//AP comeback
+[AP comeback]
 patch=1,EE,20372068,extended,34010000
 
-//Gallery flat
+[Gallery flat]
 patch=1,EE,203739D4,extended,34020001
 
-//Illustrated full throttle monster
+[Illustrated full throttle monster]
 patch=1,EE,20373B04,extended,34020001
 patch=1,EE,20373A90,extended,34020001
 
-//Status Max
+[Status Max]
 patch=1,EE,2072E488,extended,03E703E7
 patch=1,EE,2072E48C,extended,03E703E7
 patch=1,EE,2072E490,extended,03E703E7
 patch=1,EE,1072E494,extended,000003E7
 
-//Gallery All
+[Gallery All]
 patch=1,EE,2072E18C,extended,FFFFFFFF
 patch=1,EE,2072E190,extended,FFFFFFFF
 patch=1,EE,2072E194,extended,FFFFFFFF

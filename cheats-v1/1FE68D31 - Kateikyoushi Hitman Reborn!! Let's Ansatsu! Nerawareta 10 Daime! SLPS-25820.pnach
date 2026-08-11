@@ -1,7 +1,7 @@
-//Cheats/Infinite Ninja Points
+[Cheats/Infinite Ninja Points]
 patch=1,EE,2027E3C2,extended,00000063
 
-//Cheats/Unlock All Extras
+[Cheats/Unlock All Extras]
 patch=1,EE,2027CC50,extended,FFFFFFFF
 patch=1,EE,2027CC54,extended,FFFFFFFF
 patch=1,EE,1027CC58,extended,0000FFFF

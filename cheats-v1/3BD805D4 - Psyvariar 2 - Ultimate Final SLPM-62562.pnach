@@ -1,21 +1,21 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,0043A8A0,extended,00000009
 
-//Cheats/Infinite Bombs
+[Cheats/Infinite Bombs]
 patch=1,EE,0043A8A4,extended,00000009
 
-//Cheats/Invinicible
+[Cheats/Invinicible]
 patch=1,EE,20294654,extended,1000000E
 
-//Cheats/Infinite Lives alt
+[Cheats/Infinite Lives alt]
 patch=1,EE,202981B8,extended,00000000
 
-//Cheats/Infinite Bombs alt
+[Cheats/Infinite Bombs alt]
 patch=1,EE,202961EC,extended,00000000
 
-//Cheats/Unlock All Mission and Gallery
+[Cheats/Unlock All Mission and Gallery]
 patch=1,EE,0043A8BC,extended,00000014
 patch=1,EE,0043A8C0,extended,00000014
 
-//Cheats/Unlock All Stage Selection
+[Cheats/Unlock All Stage Selection]
 patch=1,EE,2043A8CC,extended,FFFFFFFF

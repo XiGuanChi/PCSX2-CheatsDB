@@ -1,17 +1,17 @@
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,0060BD47,extended,00000001
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,20209790,extended,2405FFFF
 patch=1,EE,20209794,extended,AC85002C
 patch=1,EE,20209798,extended,03E00008
 patch=1,EE,2020979C,extended,24020010
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,21C76710,extended,00001FFF
 patch=1,EE,21C76714,extended,00001FFF
 
-//Cheats/Unlock All Movies Alt
+[Cheats/Unlock All Movies Alt]
 patch=1,EE,2020C378,extended,2402FFFF
 patch=1,EE,2020C37C,extended,03E00008
 patch=1,EE,2020C380,extended,AC823914

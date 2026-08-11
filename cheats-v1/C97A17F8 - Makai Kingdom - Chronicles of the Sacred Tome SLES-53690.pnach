@@ -1,19 +1,19 @@
-//Cheats/Infinite Funds
+[Cheats/Infinite Funds]
 patch=1,EE,202E3750,extended,05F5E0FF
 
-//Cheats/Infinite Bonus Points Character Creation
+[Cheats/Infinite Bonus Points Character Creation]
 patch=1,EE,202A6B18,extended,00000009
 
-//Cheats/Infinite Health 1ST Character
+[Cheats/Infinite Health 1ST Character]
 patch=1,EE,202E37EC,extended,0098967F
 patch=1,EE,202E3814,extended,0098967F
 
-//Cheats/Sacred Tome Infinite Health
+[Cheats/Sacred Tome Infinite Health]
 patch=1,EE,202FA3E4,extended,00098967
 patch=1,EE,202FA3EC,extended,00098967
 patch=1,EE,202FA414,extended,00098967
 
-//Cheats/Debug Mode This will display debug info on-screen, open up various extra menu options as well as open extra main menu options
+[Cheats/Debug Mode This will display debug info on-screen, open up various extra menu options as well as open extra main menu options]
 patch=1,EE,20100540,extended,8F848B80
 patch=1,EE,20100544,extended,34840003
 patch=1,EE,20100548,extended,1000000B

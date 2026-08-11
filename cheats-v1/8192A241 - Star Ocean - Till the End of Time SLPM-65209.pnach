@@ -1,41 +1,41 @@
-//Cheats/Max Money In One Battle
+[Cheats/Max Money In One Battle]
 patch=1,EE,D0241188,extended,0000182A
 patch=1,EE,20241188,extended,00001821
 
-//Cheats/Max Experience Points In One Battle
+[Cheats/Max Experience Points In One Battle]
 patch=1,EE,D0240EE8,extended,0000182A
 patch=1,EE,20240EE8,extended,00001825
 
-//Cheats/All HP 99999
+[Cheats/All HP 99999]
 patch=1,EE,203BD710,extended,0060280A
 
-//Cheats/All MP 99999
+[Cheats/All MP 99999]
 patch=1,EE,203BD340,extended,0060280A
 
 [Cheats/In Battle Infinite HP Allies]  does not decrease 
 patch=1,EE,D01DAD18,extended,0000102A
 patch=1,EE,201DAD18,extended,24020000
 
-//Cheats/In Battle Infinite MP Allies
+[Cheats/In Battle Infinite MP Allies]
 patch=1,EE,D01DA5D8,extended,0000102A
 patch=1,EE,201DA5D8,extended,24020000
 
-//Cheats/One Hit Death Enemy Characters
+[Cheats/One Hit Death Enemy Characters]
 patch=1,EE,E0045E70,extended,001DA608
 patch=1,EE,201DA608,extended,24037D72
 patch=1,EE,201DA610,extended,24027D72
 patch=1,EE,201DAD48,extended,24037D72
 patch=1,EE,201DAD50,extended,24027D72
 
-//Cheats/Max Heat Up Gauge When It Changes
+[Cheats/Max Heat Up Gauge When It Changes]
 patch=1,EE,203B98FC,extended,00000800
 
-//Cheats/HP MP 65535 Recovery At The End Of Battle
+[Cheats/HP MP 65535 Recovery At The End Of Battle]
 patch=1,EE,E002FFDF,extended,002404B8
 patch=1,EE,202404B8,extended,3402FFFF
 patch=1,EE,202404C0,extended,3402FFFF
 
-//Cheats/Save Anywhere
+[Cheats/Save Anywhere]
 patch=1,EE,E0030088,extended,002585C8
 patch=1,EE,202585C8,extended,24080001
 patch=1,EE,202585CC,extended,A0680088

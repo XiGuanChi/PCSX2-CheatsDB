@@ -1,14 +1,14 @@
-//Cheats/Alert Hanger Available
+[Cheats/Alert Hanger Available]
 patch=1,EE,104CA080,extended,00000101
 
-//Cheats/Score 999999
+[Cheats/Score 999999]
 patch=1,EE,204C2CE0,extended,000F423F
 patch=1,EE,204C2CF0,extended,000F423F
 
-//Cheats/Curriculum Mode Score 100 If You Are Not Disqualified
+[Cheats/Curriculum Mode Score 100 If You Are Not Disqualified]
 patch=1,EE,201CC164,extended,34060064
 
-//Cheats/Curriculum Cleared PRIMARY
+[Cheats/Curriculum Cleared PRIMARY]
 patch=1,EE,104C9300,extended,00000001
 patch=1,EE,104C9320,extended,00000001
 patch=1,EE,104C9340,extended,00000001
@@ -16,7 +16,7 @@ patch=1,EE,104C9360,extended,00000001
 patch=1,EE,104C9380,extended,00000001
 patch=1,EE,104C93A0,extended,00000001
 
-//Cheats/Curriculum Cleared BASIC
+[Cheats/Curriculum Cleared BASIC]
 patch=1,EE,104C93C0,extended,00000001
 patch=1,EE,104C93E0,extended,00000001
 patch=1,EE,104C9400,extended,00000001
@@ -25,7 +25,7 @@ patch=1,EE,104C9440,extended,00000001
 patch=1,EE,104C9460,extended,00000001
 patch=1,EE,104C9480,extended,00000001
 
-//Cheats/Curriculum Cleared COMBAT
+[Cheats/Curriculum Cleared COMBAT]
 patch=1,EE,104C94A0,extended,00000001
 patch=1,EE,104C94C0,extended,00000001
 patch=1,EE,104C94E0,extended,00000001
@@ -37,22 +37,22 @@ patch=1,EE,104C9580,extended,00000001
 patch=1,EE,104C95A0,extended,00000001
 patch=1,EE,104C95C0,extended,00000001
 
-//Cheats/Curriculum Cleared MISSION
+[Cheats/Curriculum Cleared MISSION]
 patch=1,EE,104C96A0,extended,00000001
 
-//Cheats/Curriculum Cleared CV OPERATION
+[Cheats/Curriculum Cleared CV OPERATION]
 patch=1,EE,104C96C0,extended,00000001
 patch=1,EE,104C96E0,extended,00000001
 patch=1,EE,104C9700,extended,00000001
 
-//Cheats/Curriculum Cleared VTOL
+[Cheats/Curriculum Cleared VTOL]
 patch=1,EE,104C9720,extended,00000001
 patch=1,EE,104C9740,extended,00000001
 patch=1,EE,104C9760,extended,00000001
 patch=1,EE,104C9780,extended,00000001
 patch=1,EE,104C97A0,extended,00000001
 
-//Cheats/Curriculum Cleared ROTARY WING B
+[Cheats/Curriculum Cleared ROTARY WING B]
 patch=1,EE,104C97C0,extended,00000001
 patch=1,EE,104C97E0,extended,00000001
 patch=1,EE,104C9800,extended,00000001
@@ -61,13 +61,13 @@ patch=1,EE,104C9840,extended,00000001
 patch=1,EE,104C9860,extended,00000001
 patch=1,EE,104C9880,extended,00000001
 
-//Cheats/Curriculum Cleared ROTARY WING F
+[Cheats/Curriculum Cleared ROTARY WING F]
 patch=1,EE,104C98A0,extended,00000001
 patch=1,EE,104C98C0,extended,00000001
 patch=1,EE,104C9DE0,extended,00000001
 patch=1,EE,104C9900,extended,00000001
 
-//Cheats/Aeromeet 2002 Cleared AIR TO AIR
+[Cheats/Aeromeet 2002 Cleared AIR TO AIR]
 patch=1,EE,104C9920,extended,00000001
 patch=1,EE,104C9940,extended,00000001
 patch=1,EE,104C9960,extended,00000001
@@ -77,7 +77,7 @@ patch=1,EE,104C99C0,extended,00000001
 patch=1,EE,104C99E0,extended,00000001
 patch=1,EE,104C9A00,extended,00000001
 
-//Cheats/Aeromeet 2002 Cleared SURFACE
+[Cheats/Aeromeet 2002 Cleared SURFACE]
 patch=1,EE,104C9A20,extended,00000001
 patch=1,EE,104C9A40,extended,00000001
 patch=1,EE,104C9A60,extended,00000001
@@ -87,7 +87,7 @@ patch=1,EE,104C9AC0,extended,00000001
 patch=1,EE,104C9AE0,extended,00000001
 patch=1,EE,104C9B00,extended,00000001
 
-//Cheats/Aeromeet 2002 Cleared MANEUVER
+[Cheats/Aeromeet 2002 Cleared MANEUVER]
 patch=1,EE,104C9B20,extended,00000001
 patch=1,EE,104C9B40,extended,00000001
 patch=1,EE,104C9B60,extended,00000001
@@ -104,18 +104,18 @@ patch=1,EE,104C9CC0,extended,00000001
 patch=1,EE,104C9CE0,extended,00000001
 patch=1,EE,104C9C00,extended,00000001
 
-//Cheats/Aeromeet 2002 Cleared RECON
+[Cheats/Aeromeet 2002 Cleared RECON]
 patch=1,EE,104C9D20,extended,00000001
 patch=1,EE,104C9D40,extended,00000001
 patch=1,EE,104C9D60,extended,00000001
 
-//Cheats/Wing Aircraft Infinite Gun 9999
+[Cheats/Wing Aircraft Infinite Gun 9999]
 patch=1,EE,104C5F5E,extended,0000270F
 
-//Cheats/Wing Aircraft Infinite Fuel
+[Cheats/Wing Aircraft Infinite Fuel]
 patch=1,EE,104C5A9A,extended,00004600
 
-//Cheats/Wing Aircraft Durabiliy Quickly Recovers
+[Cheats/Wing Aircraft Durabiliy Quickly Recovers]
 patch=1,EE,104C61F2,extended,00003F80
 patch=1,EE,104C61F6,extended,00003F80
 patch=1,EE,104C61FA,extended,00003F80
@@ -123,13 +123,13 @@ patch=1,EE,104C61FE,extended,00003F80
 patch=1,EE,104C6202,extended,00003F80
 patch=1,EE,104C6206,extended,00003F80
 
-//Cheats/Rotary Wing Aircraft Infinite Gun 9999
+[Cheats/Rotary Wing Aircraft Infinite Gun 9999]
 patch=1,EE,104C387E,extended,0000270F
 
-//Cheats/Rotary Wing Aircraft Infinite Fuel
+[Cheats/Rotary Wing Aircraft Infinite Fuel]
 patch=1,EE,104C33F6,extended,00004500
 
-//Cheats/Rotary Wing Aircraft Durabiliy Quickly Recovers
+[Cheats/Rotary Wing Aircraft Durabiliy Quickly Recovers]
 patch=1,EE,104C3AA2,extended,00003F80
 patch=1,EE,104C3AA6,extended,00003F80
 patch=1,EE,104C3AAA,extended,00003F80
@@ -137,7 +137,7 @@ patch=1,EE,104C3AAE,extended,00003F80
 patch=1,EE,104C3AB2,extended,00003F80
 patch=1,EE,104C3AB6,extended,00003F80
 
-//Cheats/No Damage Except Collisions And Crashes wing aircraft Light aircraft contact
+[Cheats/No Damage Except Collisions And Crashes wing aircraft Light aircraft contact]
 patch=1,EE,E009C4C1,extended,00156B86
 patch=1,EE,E0080894,extended,00156B84
 patch=1,EE,20156B84,extended,0803C000
@@ -149,7 +149,7 @@ patch=1,EE,200F0010,extended,08055AE3
 patch=1,EE,200F0014,extended,24030040
 patch=1,EE,200F0018,extended,08055AE5
 
-//Cheats/No Damage Except Collisions And Crashes wing aircraft Light Engine
+[Cheats/No Damage Except Collisions And Crashes wing aircraft Light Engine]
 patch=1,EE,E00B3C04,extended,00156EC2
 patch=1,EE,E00A3DCC,extended,00156EC0
 patch=1,EE,20156EC0,extended,0803C008
@@ -163,7 +163,7 @@ patch=1,EE,200F0034,extended,3484CCCD
 patch=1,EE,200F0038,extended,08055BB5
 patch=1,EE,200F003C,extended,26230010
 
-//Cheats/No Damage Except Collisions And Crashes wing aircraft Light Left and right tails
+[Cheats/No Damage Except Collisions And Crashes wing aircraft Light Left and right tails]
 patch=1,EE,E00A3C04,extended,00156F12
 patch=1,EE,E0093D4C,extended,00156F10
 patch=1,EE,20156F10,extended,0803C011
@@ -176,7 +176,7 @@ patch=1,EE,200F0054,extended,08055BC6
 patch=1,EE,200F0058,extended,3484CCCD
 patch=1,EE,200F005C,extended,08055BC8
 
-//Cheats/No Damage Except Collisions And Crashes wing aircraft Light Left and right wings
+[Cheats/No Damage Except Collisions And Crashes wing aircraft Light Left and right wings]
 patch=1,EE,E00B3C04,extended,00156F5A
 patch=1,EE,E00A3D4C,extended,00156F58
 patch=1,EE,20156F58,extended,0803C019
@@ -190,7 +190,7 @@ patch=1,EE,200F0078,extended,3485CCCD
 patch=1,EE,200F007C,extended,08055BDB
 patch=1,EE,200F0080,extended,2404FFFF
 
-//Cheats/No Damage Except Collisions And Crashes wing aircraft Light Fuselage
+[Cheats/No Damage Except Collisions And Crashes wing aircraft Light Fuselage]
 patch=1,EE,E008C621,extended,00157106
 patch=1,EE,E0070014,extended,00157104
 patch=1,EE,20157104,extended,0803C022 
@@ -201,7 +201,7 @@ patch=1,EE,200F0094,extended,C6210014
 patch=1,EE,200F0098,extended,08055C43
 patch=1,EE,200F00A0,extended,08055C45
 
-//Cheats/No Damage Except Collisions And Crashes wing aircraft Light Rotorcraft Non fuselage
+[Cheats/No Damage Except Collisions And Crashes wing aircraft Light Rotorcraft Non fuselage]
 patch=1,EE,E00900BD,extended,001F2B1E
 patch=1,EE,E0082821,extended,001F2B1C
 patch=1,EE,201F2B1C,extended,0803C02A
@@ -213,7 +213,7 @@ patch=1,EE,200F00B8,extended,0807CAC9
 patch=1,EE,200F00BC,extended,24020000
 patch=1,EE,200F00C0,extended,0807CACA
 
-//Cheats/No Damage Except Collisions And Crashes wing aircraft Light Fuselage
+[Cheats/No Damage Except Collisions And Crashes wing aircraft Light Fuselage]
 patch=1,EE,E009009D,extended,001F2B3E
 patch=1,EE,E0082021,extended,001F2B3C
 patch=1,EE,201F2B3C,extended,0803C032
@@ -225,24 +225,24 @@ patch=1,EE,200F00D8,extended,0807CAD1
 patch=1,EE,200F00DC,extended,24020000
 patch=1,EE,200F00E0,extended,0807CAD3
 
-//Cheats/Time Limit Disabled Ignore score deduction due to time
+[Cheats/Time Limit Disabled Ignore score deduction due to time]
 patch=1,EE,E002AEC3,extended,00131316
 patch=1,EE,E0010184,extended,00131314
 patch=1,EE,20131314,extended,00000000
 
-//Cheats/Ignore timeout time continues to add up after it reaches 0 seconds
+[Cheats/Ignore timeout time continues to add up after it reaches 0 seconds]
 patch=1,EE,E0020062,extended,001CA74A
 patch=1,EE,E0011023,extended,001CA748
 patch=1,EE,201CA748,extended,00000000
 
-//Cheats/Unlock All Curriculum Completed
+[Cheats/Unlock All Curriculum Completed]
 patch=1,EE,404C9300,extended,00310008
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock Aeromeet 2002 All Cleared
+[Cheats/Unlock Aeromeet 2002 All Cleared]
 patch=1,EE,404C9920,extended,00230008
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Aircrafts
+[Cheats/Unlock All Aircrafts]
 patch=1,EE,404C8730,extended,0040000C
 patch=1,EE,00000001,extended,00000000

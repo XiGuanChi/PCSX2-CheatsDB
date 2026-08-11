@@ -1,4 +1,4 @@
-//Cheats/Max Infinite Funds
+[Cheats/Max Infinite Funds]
 patch=1,EE,200C0240,extended,3C014CBE
 patch=1,EE,200C0244,extended,3421BC20
 patch=1,EE,200C0248,extended,AC4112B0
@@ -6,26 +6,26 @@ patch=1,EE,200C024C,extended,03E00008
 patch=1,EE,200C0250,extended,8E020044
 patch=1,EE,2029EAC4,extended,0C030090
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20138610,extended,08030088
 patch=1,EE,200c0220,extended,3c014448
 patch=1,EE,200c0224,extended,0804e1c7
 patch=1,EE,200c0228,extended,ae010098
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2012bec8,extended,00000000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,2012a054,extended,00000000
 
-//Cheats/Max Infinite Fuel Reserves
+[Cheats/Max Infinite Fuel Reserves]
 patch=1,EE,200C0260,extended,C4401678
 patch=1,EE,200C0264,extended,E4401674
 patch=1,EE,200C0268,extended,03E00008
 patch=1,EE,200C026C,extended,8E020044
 patch=1,EE,2029F3E4,extended,0C030098
 
-//Cheats/P1 Press L3+Left To All Good Factions
+[Cheats/P1 Press L3+Left To All Good Factions]
 patch=1,EE,E005FF7D,extended,00A83D1C
 patch=1,EE,205C8504,extended,3F800000
 patch=1,EE,205C8594,extended,3F800000
@@ -33,19 +33,19 @@ patch=1,EE,205C8534,extended,3F800000
 patch=1,EE,205C8564,extended,3F800000
 patch=1,EE,205C85C4,extended,3F800000
 
-//Cheats/Activate Cheat Infinite Ammo And Grenades All Weapons
+[Cheats/Activate Cheat Infinite Ammo And Grenades All Weapons]
 patch=1,EE,20575898,extended,00000001
 
-//Cheats/Activate Cheat Freeze Mission Timer
+[Cheats/Activate Cheat Freeze Mission Timer]
 patch=1,EE,2032f390,extended,AC40002C
 
-//Cheats/Activate Cheat Disable Car Damage
+[Cheats/Activate Cheat Disable Car Damage]
 patch=1,EE,201416e4,extended,00000000
 
-//Cheats/Activate Cheat Max Cash
+[Cheats/Activate Cheat Max Cash]
 patch=1,EE,2017b9e8,extended,3C014CBE
 patch=1,EE,2017b9f0,extended,AE0112B0
 
-//Cheats/Activate Cheat God Mode works for you & your current vehicle
+[Cheats/Activate Cheat God Mode works for you & your current vehicle]
 patch=1,EE,605CEFCC,extended,00000006
 patch=1,EE,60000001,extended,00000110

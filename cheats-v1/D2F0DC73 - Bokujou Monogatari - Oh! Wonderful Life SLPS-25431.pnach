@@ -1,14 +1,14 @@
-//Cheats/Max Money 10 million G
+[Cheats/Max Money 10 million G]
 patch=1,EE,214ADFE8,extended,00989680
 
-//Cheats/Don't Get Hungry
+[Cheats/Don't Get Hungry]
 patch=1,EE,214AE164,extended,00149970
 
-//Cheats/Never Tired
+[Cheats/Never Tired]
 patch=1,EE,214AE154,extended,000186A0
 patch=1,EE,214AE170,extended,0001869F
 
-//Cheats/Increased Sleep Tolerance
+[Cheats/Increased Sleep Tolerance]
 patch=1,EE,214AE274,extended,3B9AC9FF
 patch=1,EE,214AE27C,extended,3B9AC9FF
 patch=1,EE,214AE284,extended,3B9AC9FF
@@ -29,34 +29,34 @@ patch=1,EE,2026E1AC,extended,AC62FFF4
 patch=1,EE,2026E1B0,extended,AC62FFE8
 patch=1,EE,2026E1BC,extended,24020000
 
-//Cheats/Horse Stress 0 & Max Mood
+[Cheats/Horse Stress 0 & Max Mood]
 patch=1,EE,202514D4,extended,AC600000
 patch=1,EE,202514D8,extended,3C020098
 patch=1,EE,202514DC,extended,AC62FFD0
 patch=1,EE,202514EC,extended,24020000
  
-//Cheats/Chicken Stress 0 & Max Mood
+[Cheats/Chicken Stress 0 & Max Mood]
 patch=1,EE,20263A80,extended,AC600000
 patch=1,EE,20263A84,extended,3C020098
 patch=1,EE,20263A88,extended,AC62FFF4
 patch=1,EE,20263A8C,extended,AC62000C
 patch=1,EE,20263A98,extended,24020000
 
-//Cheats/Grass Grows On The Farm
+[Cheats/Grass Grows On The Farm]
 patch=1,EE,2024739C,extended,240101C2
 patch=1,EE,202473A0,extended,A4410004
 
-//Cheats/No Grass Grows On The Farm
+[Cheats/No Grass Grows On The Farm]
 patch=1,EE,2024739C,extended,A4400004
 patch=1,EE,202473A0,extended,24020000
 
-//Cheats/Field Has Been Watered
+[Cheats/Field Has Been Watered]
 patch=1,EE,2023DB34,extended,2402270F
  
-//Cheats/Field Has Been Fertilized
+[Cheats/Field Has Been Fertilized]
 patch=1,EE,2023DD14,extended,2402270F
 
-//Cheats/Max Skill In Using Farm Tools
+[Cheats/Max Skill In Using Farm Tools]
 patch=1,EE,214AE190,extended,0000C350
 patch=1,EE,214AE19C,extended,0000C350
 patch=1,EE,214AE1A8,extended,0000C350
@@ -66,13 +66,13 @@ patch=1,EE,214AE1CC,extended,0000C350
 patch=1,EE,214AE1D8,extended,0000C350
 patch=1,EE,214AE1E4,extended,0000C350
 
-//Cheats/Animal Kennel Box Stock 1000 Pieces
+[Cheats/Animal Kennel Box Stock 1000 Pieces]
 patch=1,EE,114BDB3C,extended,000003E8
  
-//Cheats/First Dog Max Training Level For The First Dog
+[Cheats/First Dog Max Training Level For The First Dog]
 patch=1,EE,014B1434,extended,00000064
  
-//Cheats/Max Training Level For The First Pet Dog
+[Cheats/Max Training Level For The First Pet Dog]
 patch=1,EE,114B1466,extended,0000012C
 patch=1,EE,114B146A,extended,0000012C
 patch=1,EE,114B146E,extended,0000012C

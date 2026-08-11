@@ -1,17 +1,17 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20B49818,extended,05F5E0FF
 
-//Cheats/Max Current Tear Offs
+[Cheats/Max Current Tear Offs]
 patch=1,EE,20485F00,extended,00000063
 
-//Cheats/Max Overall Tear Offs
+[Cheats/Max Overall Tear Offs]
 patch=1,EE,20485F08,extended,00000063
 
-//Cheats/P1 Press L1+Select To Stop Lap Timer After the Race Starts or it will not Start
+[Cheats/P1 Press L1+Select To Stop Lap Timer After the Race Starts or it will not Start]
 patch=1,EE,D08B1B42,extended,0000FBFE
 patch=1,EE,20155954,extended,00000000
 
-//Cheats/P1 Press L2+Select To Resume Lap Timer
+[Cheats/P1 Press L2+Select To Resume Lap Timer]
 patch=1,EE,D08B1B42,extended,0000FEFE
 patch=1,EE,20155954,extended,AC62DE34
 

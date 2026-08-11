@@ -1,14 +1,14 @@
 gametitle=Megaman X8 SLES-52988
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202DCD20,extended,24020021
 patch=1,EE,202DCD2C,extended,AE02002C
 
-//Infinite Metal Chips
+[Infinite Metal Chips]
 patch=1,EE,2065690C,extended,0098967F
 patch=1,EE,20656910,extended,0098967F
 
-//Infinite Retry Chips
+[Infinite Retry Chips]
 patch=1,EE,00656D00,extended,00000005
 
-//Mission Completed
+[Mission Completed]
 patch=1,EE,106568F6,extended,00000FFF

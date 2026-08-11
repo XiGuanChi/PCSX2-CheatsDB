@@ -1,56 +1,56 @@
 gametitle=Growlanser V Generations SLPM-66418
-//Maximum status with Lv up
-//STR
+[Maximum status with Lv up]
+[STR]
 patch=1,EE,20253D98,extended,240E6FFF
 
-//INT
+[INT]
 patch=1,EE,20253DAC,extended,240F6FFF
 
-//DEX
+[DEX]
 patch=1,EE,20253DBC,extended,240F6FFF
 
-//Colin's status training is maximum
-//knowledge
+[Colin's status training is maximum]
+[knowledge]
 patch=1,EE,2022A868,extended,00E03021
 
-//intelligence
+[intelligence]
 patch=1,EE,2022A890,extended,00E03021
 
-//Sensitivity
+[Sensitivity]
 patch=1,EE,2022A8B8,extended,00E03021
 
-//charm
+[charm]
 patch=1,EE,2022A8E0,extended,00E03021
 
-//Mental strength
+[Mental strength]
 patch=1,EE,2022A908,extended,00E03021
 
-//Dexterity
+[Dexterity]
 patch=1,EE,2022A930,extended,00E03021
 
-//Physical fitness
+[Physical fitness]
 patch=1,EE,2022A958,extended,00E03021
 
-//Agility
+[Agility]
 patch=1,EE,2022A97C,extended,240603E7
 
-//Always attack, protect, resist, cycle up effect
-//1st party member
+[Always attack, protect, resist, cycle up effect]
+[1st party member]
 patch=1,EE,00401158,extended,00000055
 patch=1,EE,204013E4,extended,09660971
 patch=1,EE,204013E8,extended,02020950
 
-//Second party member
+[Second party member]
 patch=1,EE,00401648,extended,00000055
 patch=1,EE,204018D4,extended,09820975
 patch=1,EE,204018D8,extended,01FE0910
 
-//3rd party member
+[3rd party member]
 patch=1,EE,00401B38,extended,00000055
 patch=1,EE,20401DC4,extended,093209C0
 patch=1,EE,20401DC8,extended,02050944
 
-//4th party member
+[4th party member]
 patch=1,EE,00402028,extended,00000055
 patch=1,EE,204022B4,extended,09700990
 patch=1,EE,204022B8,extended,01F90929

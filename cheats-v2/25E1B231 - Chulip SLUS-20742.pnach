@@ -1,12 +1,12 @@
 gametitle=Chulip SLUS-20742
-//Infinite Hearts
+[Infinite Hearts]
 patch=1,EE,201A69EC,extended,00630063
 
-//Infinite Money
+[Infinite Money]
 patch=1,EE,201A69F4,extended,0001869F
 
-//Infinite Kisses
+[Infinite Kisses]
 patch=1,EE,101A69FE,extended,0000FFFF
 
-//Max Level = 10 (Title: Big Shot), 100% kissing accomplished
+[Max Level = 10 (Title: Big Shot), 100% kissing accomplished]
 patch=1,EE,101A69FC,extended,0000000A

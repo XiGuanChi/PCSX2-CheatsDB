@@ -1,10 +1,10 @@
 gametitle=Cocoto - Platform Jumper SLES-52523
-//Always invulnerable 
+[Always invulnerable]
 patch=1,EE,20161B68,extended,24090064
 
-//Stay alive even without golden apples 
+[Stay alive even without golden apples]
 patch=1,EE,20163864,extended,00000000
 
-//Take gems anywhere 
+[Take gems anywhere]
 patch=1,EE,2017260C,extended,00000000
 patch=1,EE,2017FE60,extended,00000000

@@ -1,11 +1,11 @@
 gametitle=Disgaea - Hour of Darkness SLES-52458
-//Max Money 
+[Max Money]
 patch=1,EE,2029E040,extended,05F00000
 
-//Laharl Max Hp 
+[Laharl Max Hp]
 patch=1,EE,2029F010,extended,0098967F
 patch=1,EE,2029F018,extended,0098967F
 
-//Laharl Max Sp 
+[Laharl Max Sp]
 patch=1,EE,2029F014,extended,0098967F
 patch=1,EE,2029F01C,extended,0098967F

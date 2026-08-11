@@ -1,15 +1,15 @@
 gametitle=Guilty Gear XX Accent Core Plus SLPM-66965
-//Gallery & 100% hidden elements  
+[Gallery & 100% hidden elements]
 patch=1,EE,4055D2CC,extended,00170001
 patch=1,EE,00000001,extended,00000000
 
-//Ending & Story Gallery 100%
+[Ending & Story Gallery 100%]
 patch=1,EE,4055D36C,extended,003A0001
 patch=1,EE,00000001,extended,00000000
 
-//P1 Infinite HP
+[P1 Infinite HP]
 patch=1,EE,11CB40A6,extended,000001A4
 
-//P2  life 0 After pressing the L3 button
+[P2  life 0 After pressing the L3 button]
 patch=1,EE,D0218382,extended,0000FFFD
 patch=1,EE,11CB41C2,extended,00000000

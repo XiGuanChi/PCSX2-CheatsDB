@@ -1,21 +1,21 @@
 gametitle=Baroque SLPM-66747
-//HP999 max
+[HP999 max]
 patch=1,EE,20133DC0,extended,50840001
 
-//VT999 max
+[VT999 max]
 patch=1,EE,20133E44,extended,50840001
 
-//HP inf
+[HP inf]
 patch=1,EE,20134304,extended,53E00003
 
-//VT inf
+[VT inf]
 patch=1,EE,20134344,extended,53E00003
 
-//HP does not decrease while pressing L3, or full recovery
+[HP does not decrease while pressing L3, or full recovery]
 patch=1,EE,20134304,extended,50200003
 patch=1,EE,D04D6D02,extended,0000FFFD
 patch=1,EE,20134304,extended,53E00003
 
-//Option fully open (with save reflection)
+[Option fully open (with save reflection)]
 patch=1,EE,4052E7B0,extended,007C0001
 patch=1,EE,FFFFFFFF,extended,00000000

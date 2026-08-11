@@ -1,11 +1,11 @@
 gametitle=MX Vs. ATV Untamed SLES-55050
-//Max Points
+[Max Points]
 patch=1,EE,208CE37C,extended,7FFFFFFF
 
-//Gain some Gain Lots of points
+[Gain some Gain Lots of points]
 patch=1,EE,20238538,extended,3C050100
 patch=1,EE,2023853C,extended,34A50000
 
-//Store Is Free
+[Store Is Free]
 patch=1,EE,2051AD84,extended,3C030000
 patch=1,EE,2051B10C,extended,00000000

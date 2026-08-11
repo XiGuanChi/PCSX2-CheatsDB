@@ -1,16 +1,16 @@
-//Cheats/Infinite Health And Power
+[Cheats/Infinite Health And Power]
 patch=1,EE,2025D2DC,extended,447A0000
 
-//Cheats/Max Diamonds
+[Cheats/Max Diamonds]
 patch=1,EE,2025DADC,extended,000F423F
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,10341CEE,extended,0000FFFF
 patch=1,EE,20341CF0,extended,FFFFFFFF
 patch=1,EE,20341CF4,extended,FFFFFFFF
 
-//Cheats/Debug Mode Pause the game with the code on to enable this.
+[Cheats/Debug Mode Pause the game with the code on to enable this.]
 patch=1,EE,2012B134,extended,00000000
 
-//Cheats/Debug Mode invulnerability Level SelectTwo extra debug menu options will be enabled if this is active.
+[Cheats/Debug Mode invulnerability Level SelectTwo extra debug menu options will be enabled if this is active.]
 patch=1,EE,2012B090,extended,00000000

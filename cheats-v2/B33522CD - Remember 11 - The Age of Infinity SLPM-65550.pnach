@@ -1,5 +1,5 @@
 gametitle=Remember 11 - The Age of Infinity SLPM-65550
-//Album full open
+[Album full open]
 patch=1,EE,208962D0,extended,FFFFFF00
 patch=1,EE,208962D4,extended,FFFFFFFF
 patch=1,EE,208962D8,extended,FFFFFFFF
@@ -7,15 +7,15 @@ patch=1,EE,208962DC,extended,FFFFFFFF
 patch=1,EE,108962E2,extended,0000F3E0
 patch=1,EE,008962E4,extended,0000003F
 
-//Jukebox fully opened
+[Jukebox fully opened]
 patch=1,EE,20898710,extended,FFFFFF00
 patch=1,EE,10898714,extended,00001DFF
 
-//Ending list full open
+[Ending list full open]
 patch=1,EE,208962C4,extended,FFFFFFFF
 patch=1,EE,108962C8,extended,000000FF
 
-//Scene Title Full Expansion
+[Scene Title Full Expansion]
 patch=1,EE,208986D0,extended,FFFFFF00
 patch=1,EE,208986D4,extended,FFFFFFFF
 patch=1,EE,208986D8,extended,FFFFFFFF
@@ -23,13 +23,13 @@ patch=1,EE,208986DC,extended,FFFFFFFF
 patch=1,EE,208986E0,extended,FFFFFFFF
 patch=1,EE,008986E4,extended,000000FF
 
-//TIPS fully opened
+[TIPS fully opened]
 patch=1,EE,20898720,extended,FFFFFF00
 patch=1,EE,20898724,extended,FFFFFFFF
 patch=1,EE,20898728,extended,FFFFFFFF
 patch=1,EE,2089872C,extended,003FFFFF
 
-//Choice perfection degree 100%
+[Choice perfection degree 100%]
 patch=1,EE,208985D0,extended,FFFFFFFF
 patch=1,EE,208985D4,extended,FFFFFFFF
 patch=1,EE,208985D8,extended,FFFFFFFF
@@ -40,13 +40,13 @@ patch=1,EE,208985E8,extended,FFFFFFFF
 patch=1,EE,208985EC,extended,FFFFFFFF
 patch=1,EE,208985F0,extended,1FFFFFFF
 
-//Maximum playtime
+[Maximum playtime]
 patch=1,EE,2089BB88,extended,014996FF
 
-//Play time 0
+[Play time 0]
 patch=1,EE,2089BB88,extended,00000000
 
-//Message completion level 100%
+[Message completion level 100%]
 patch=1,EE,200F0000,extended,3C080089
 patch=1,EE,200F0004,extended,35086350
 patch=1,EE,200F0008,extended,25092000

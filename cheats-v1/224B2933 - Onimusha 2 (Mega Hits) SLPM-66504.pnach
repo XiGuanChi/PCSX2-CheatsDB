@@ -1,9 +1,9 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,117DA740,extended,00000F00
 patch=1,EE,117DA742,extended,00000F00
 
-//Cheats/Max Soul
+[Cheats/Max Soul]
 patch=1,EE,217DCDE0,extended,000F423F
 
-//Cheats/Do not Decrease After Tool use
+[Cheats/Do not Decrease After Tool use]
 patch=1,EE,20193E58,extended,00401023

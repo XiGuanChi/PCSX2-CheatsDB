@@ -1,25 +1,25 @@
 gametitle=Guilty Gear XX Accent Core SLPM-66746
-//1P HP Max
+[1P HP Max]
 patch=1,EE,11EF681E,extended,000001A4
 
-//1P Tension Max
+[1P Tension Max]
 patch=1,EE,10397CB8,extended,00002710
 patch=1,EE,10397DA4,extended,00002710
 
-//1P Guard Max
+[1P Guard Max]
 patch=1,EE,10397CD2,extended,00000080
 
-//1P Burst Max
+[1P Burst Max]
 patch=1,EE,20397DB0,extended,00013A98
 
-//1P Always Blue Traits
+[1P Always Blue Traits]
 patch=1,EE,10397CC2,extended,00000001
 
-//2p HP 0(L1+L2 to Act.)
+[2p HP 0(L1+L2 to Act.)]
 patch=1,EE,D041509C,extended,0000FAFF
 patch=1,EE,11EF6942,extended,00000000
 
-//All Gallery unlocked (Dont think this is saveable)
+[All Gallery unlocked (Dont think this is saveable)]
 patch=1,EE,102D49C2,extended,00000019
 patch=1,EE,402D49C4,extended,000C0001
 patch=1,EE,00010000,extended,00020002

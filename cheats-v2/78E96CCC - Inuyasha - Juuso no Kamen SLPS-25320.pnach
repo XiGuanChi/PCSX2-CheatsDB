@@ -1,12 +1,12 @@
 gametitle=Inuyasha - Juuso no Kamen SLPS-25320
-//Money in MAX when you change
+[Money in MAX when you change]
 patch=1,EE,2015542C,extended,00000000
 
-//After the battle rank MAX
+[After the battle rank MAX]
 patch=1,EE,20156A0C,extended,00000000
 
-//MAX rank in rank rise
+[MAX rank in rank rise]
 patch=1,EE,20155750,extended,00000000
 
-//MAX energy rise in rank
+[MAX energy rise in rank]
 patch=1,EE,20155798,extended,00000000

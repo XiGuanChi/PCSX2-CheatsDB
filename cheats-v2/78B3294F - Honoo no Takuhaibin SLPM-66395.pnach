@@ -1,25 +1,25 @@
 gametitle=Honoo no Takuhaibin SLPM-66395
-//999999 pts
+[999999 pts]
 patch=1,EE,20685D10,extended,000F423F
 
-//The car entirely
+[The car entirely]
 patch=1,EE,10685D88,extended,0000FFFF
 
-//Special all sale
+[Special all sale]
 patch=1,EE,10685D8C,extended,0000FFFF
 
-//Restriction time it does not decrease
+[Restriction time it does not decrease]
 patch=1,EE,201DA3B8,extended,00000000
 
-//The physical strength it does not decrease
+[The physical strength it does not decrease]
 patch=1,EE,201DA2B4,extended,3C0144FA
 patch=1,EE,201DA2BC,extended,AC410000
 
-//Delivery soul it does not decrease
+[Delivery soul it does not decrease]
 patch=1,EE,201F6094,extended,8C41FFFC
 patch=1,EE,201F609C,extended,AC410000
 
-//Word spirit full opening
+[Word spirit full opening]
 patch=1,EE,20685B98,extended,FFFFFFFF
 patch=1,EE,20685B9C,extended,FFFFFFFF
 patch=1,EE,20685BA0,extended,FFFFFFFF
@@ -28,8 +28,8 @@ patch=1,EE,20685BA8,extended,FFFFFFFF
 patch=1,EE,20685BAC,extended,FFFFFFFF
 patch=1,EE,20685BB0,extended,FFFFFFFF
 
-//Footprint full opening of flame
+[Footprint full opening of flame]
 patch=1,EE,20685BB8,extended,0000005F
 
-//One full opening of music & man
+[One full opening of music & man]
 patch=1,EE,20685BBC,extended,0000005F

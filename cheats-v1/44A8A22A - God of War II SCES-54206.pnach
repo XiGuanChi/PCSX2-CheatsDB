@@ -1,68 +1,68 @@
-//Cheats/Infinite Health Disconnect in Zeus first battle
+[Cheats/Infinite Health Disconnect in Zeus first battle]
 patch=1,EE,20A5C5BA,extended,00004348
 
-//Cheats/Infinite Health Pegasus
+[Cheats/Infinite Health Pegasus]
 patch=1,EE,20A5D31A,extended,000042C8
 
-//Cheats/Infinite Magic Energy
+[Cheats/Infinite Magic Energy]
 patch=1,EE,2033523c,extended,42c80000
 
-//Cheats/Infinite Rage of the Titans
+[Cheats/Infinite Rage of the Titans]
 patch=1,EE,20335248,extended,42c80000
 
-//Cheats/Full Level
+[Cheats/Full Level]
 patch=1,EE,20335248,extended,00002710
 
-//Cheats/Infinite Red Orbs
+[Cheats/Infinite Red Orbs]
 patch=1,EE,20335250,extended,000F423F
 
-//Cheats/Infinite 180 Press R1+Digital Pad Up to refill Time
+[Cheats/Infinite 180 Press R1+Digital Pad Up to refill Time]
 patch=1,EE,E004F7EF,extended,0032EE5C
 patch=1,EE,2036A490,extended,43340000
 patch=1,EE,2036A494,extended,43340000
 patch=1,EE,2036A4A0,extended,43340000
 patch=1,EE,2036A4A4,extended,43340000
 
-//Cheats/ZEUS Press Digital Pad Down + L1 to activate Save
+[Cheats/ZEUS Press Digital Pad Down + L1 to activate Save]
 patch=1,EE,D032EE5C,extended,0000FBBF
 patch=1,EE,002D7E54,extended,00000008
 
-//Cheats/GAIA Press Digital Pad Down + L1 to activate Save
+[Cheats/GAIA Press Digital Pad Down + L1 to activate Save]
 patch=1,EE,D032EE5C,extended,0000FBBF
 patch=1,EE,002D7E54,extended,00000001
 
-//Cheats/Enable Progressive Scan Mode Save the Game and then reset the PS2
+[Cheats/Enable Progressive Scan Mode Save the Game and then reset the PS2]
 patch=1,EE,006F4040,extended,00000001
 
-//Cheats/Have All Magic and Moves
+[Cheats/Have All Magic and Moves]
 patch=1,EE,20335234,extended,FFFFFFFF
 
-//Cheats/Have All Gorgon Eyes
+[Cheats/Have All Gorgon Eyes]
 patch=1,EE,00335276,extended,00000012
 
-//Cheats/Have All Phoenix Feathers
+[Cheats/Have All Phoenix Feathers]
 patch=1,EE,00335277,extended,00000012
 
-//Cheats/Have 19 Cyclops Eyes
+[Cheats/Have 19 Cyclops Eyes]
 patch=1,EE,0033527C,extended,00000013
 
-//Cheats/Unlock Everything in Treasure Room
+[Cheats/Unlock Everything in Treasure Room]
 patch=1,EE,102D8A4C,extended,0000FFFF
 
-//Cheats/Unlock All Challenges
+[Cheats/Unlock All Challenges]
 patch=1,EE,206F3960,extended,00000007
 
-//Cheats/Unlock All Weapon, Magic, Relics, Moves & Urns Save + Load the Game
+[Cheats/Unlock All Weapon, Magic, Relics, Moves & Urns Save + Load the Game]
 patch=1,EE,20335234,extended,FFFFFFFF
 
-//Cheats/Unlock All Weapon, Magic, Relics, Moves & Urns
+[Cheats/Unlock All Weapon, Magic, Relics, Moves & Urns]
 patch=1,EE,202D8044,extended,00010000
 patch=1,EE,20335234,extended,FFFFFFFF
 
-//Cheats/Unlock All Treasures
+[Cheats/Unlock All Treasures]
 patch=1,EE,102D8A4C,extended,0000FFFF
 
-//Cheats/Unlock All Challenges ALT
+[Cheats/Unlock All Challenges ALT]
 patch=1,EE,006F3DE0,extended,00000007
 
 

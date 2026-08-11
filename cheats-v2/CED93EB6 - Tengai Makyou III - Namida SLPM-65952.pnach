@@ -1,26 +1,26 @@
 gametitle=Tengai Makyou III - Namida SLPM-65952
-//Money 9999999
+[Money 9999999]
 patch=1,EE,20793A4C,extended,1C46D16A
 
-//Max Make
+[Max Make]
 patch=1,EE,20799F20,extended,0098967F
 
-//Until the end of battle Taku Max
+[Until the end of battle Taku Max]
 patch=1,EE,20147FE8,extended,10600001
 
-//When using one operation skill Max
+[When using one operation skill Max]
 patch=1,EE,2014967C,extended,00000000
 
-//Battle time body 9999 fixed
+[Battle time body 9999 fixed]
 patch=1,EE,20207558,extended,0000100A
 
-//Fighting technique 999 fixed
+[Fighting technique 999 fixed]
 patch=1,EE,202076A0,extended,0000100A
 
-//When entering battle enemy annihilation
+[When entering battle enemy annihilation]
 patch=1,EE,20207574,extended,0000180A
 
-//CCC - Required Code -
+[CCC - Required Code -]
 patch=1,EE,204411D4,extended,0803E840
 patch=1,EE,200FA100,extended,3C0E0079
 patch=1,EE,200FA104,extended,91CF2E42
@@ -32,7 +32,7 @@ patch=1,EE,200FA118,extended,3C0B0079
 patch=1,EE,200FA11C,extended,356B9F40
 patch=1,EE,200FA1E8,extended,03E00008
 
-//CMC1-Everyone/Dan & Toku Max *Press R3 to activate
+[CMC1-Everyone/Dan & Toku Max *Press R3 to activate]
 patch=1,EE,200FA124,extended,3B090400
 patch=1,EE,200FA128,extended,1520000B
 patch=1,EE,200FA12C,extended,240A0009
@@ -45,7 +45,7 @@ patch=1,EE,200FA14C,extended,254AFFFF
 patch=1,EE,200FA150,extended,1540FFF9
 patch=1,EE,200FA154,extended,256B018C
 
-//CMC2 -Field/Physical & Skill Recovery- Press L3 to activate
+[CMC2 -Field/Physical & Skill Recovery- Press L3 to activate]
 patch=1,EE,200FA15C,extended,3B090200
 patch=1,EE,200FA160,extended,1520000B
 patch=1,EE,200FA164,extended,240A0009
@@ -57,10 +57,10 @@ patch=1,EE,200FA188,extended,1540FFF9
 patch=1,EE,200FA18C,extended,256B018C
 
 
-//CMC3-All Specific Status Max-
+[CMC3-All Specific Status Max-]
 patch=1,EE,200FA194,extended,3B09000C
 patch=1,EE,200FA198,extended,1520000C
 patch=1,EE,200FA19C,extended,240A0009
 
-//When you fight once, the mystery is fully open
+[When you fight once, the mystery is fully open]
 patch=1,EE,20148E00,extended,0000100A

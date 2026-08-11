@@ -1,12 +1,12 @@
-//Cheats/Max Score Player 1
+[Cheats/Max Score Player 1]
 patch=1,EE,204C05BC,extended,05F5E0FF
 
-//Cheats/Max Score Player 2
+[Cheats/Max Score Player 2]
 patch=1,EE,204C05C0,extended,05F5E0FF
 
-//Cheats/Always Low Time
+[Cheats/Always Low Time]
 patch=1,EE,204C03B0,extended,00000000
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,404C07EC,extended,00050001
 patch=1,EE,00000000,extended,00000000

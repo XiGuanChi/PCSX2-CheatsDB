@@ -1,62 +1,62 @@
-//Cheats/Infinite HP Plater 1
+[Cheats/Infinite HP Plater 1]
 patch=1,EE,20469FA8,extended,00006510
 patch=1,EE,20469FAC,extended,00006510
 
-//Cheats/No Health P2 Press SELECT P1
+[Cheats/No Health P2 Press SELECT P1]
 patch=1,EE,D0493C5C,extended,0000FFFE
 patch=1,EE,2046B094,extended,00000000
 
-//Cheats/Infinite Homing P1
+[Cheats/Infinite Homing P1]
 patch=1,EE,20469DC4,extended,000011F8
 patch=1,EE,20469DC8,extended,000011F8
 patch=1,EE,20469DCC,extended,000011F8
 
-//Cheats/Infinite Super P1
+[Cheats/Infinite Super P1]
 patch=1,EE,20469DC0,extended,00026000
 
-//Cheats/Unlock Extres
+[Cheats/Unlock Extres]
 patch=1,EE,40323E70,extended,000B0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock Graphics Heart Aino
+[Cheats/Unlock Graphics Heart Aino]
 patch=1,EE,00323EA0,extended,00000011
 
-//Cheats/Unlock Graphics Saki Tsuzura
+[Cheats/Unlock Graphics Saki Tsuzura]
 patch=1,EE,00323EA4,extended,00000010
 
-//Cheats/Unlock Graphics Kamui Tokinomiya
+[Cheats/Unlock Graphics Kamui Tokinomiya]
 patch=1,EE,00323EA8,extended,0000000C
 
-//Cheats/Unlock Graphics Konoha
+[Cheats/Unlock Graphics Konoha]
 patch=1,EE,00323EAC,extended,0000000C
 
-//Cheats/Unlock Graphics Maori Kasuga
+[Cheats/Unlock Graphics Maori Kasuga]
 patch=1,EE,00323EB0,extended,0000000B
 
-//Cheats/Unlock Graphics Mel-Rang
+[Cheats/Unlock Graphics Mel-Rang]
 patch=1,EE,00323EB4,extended,0000000B
 
-//Cheats/Unlock Graphics Lilloa RelohenerowHeart Aino
+[Cheats/Unlock Graphics Lilloa RelohenerowHeart Aino]
 patch=1,EE,00323EB8,extended,0000000E
 
-//Cheats/Unlock Graphics Lieselotte Achenbach
+[Cheats/Unlock Graphics Lieselotte Achenbach]
 patch=1,EE,00323EBC,extended,0000000A
 
-//Cheats/Unlock Graphics Yoriko Yasuzumi
+[Cheats/Unlock Graphics Yoriko Yasuzumi]
 patch=1,EE,00323EC0,extended,0000000B
 
-//Cheats/Unlock Graphics Kira Daldohji
+[Cheats/Unlock Graphics Kira Daldohji]
 patch=1,EE,00323EC4,extended,0000000A
 
-//Cheats/Unlock Graphics Riona Mayfield
+[Cheats/Unlock Graphics Riona Mayfield]
 patch=1,EE,00323EC8,extended,0000000B
 
-//Cheats/Unlock Graphics Mildred Avaion
+[Cheats/Unlock Graphics Mildred Avaion]
 patch=1,EE,00323ECC,extended,00000001
 
-//Cheats/Unlock ArcanaS
+[Cheats/Unlock ArcanaS]
 patch=1,EE,40323ED0,extended,000B0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Enable Debug Menu At Boot
+[Cheats/Enable Debug Menu At Boot]
 patch=1,EE,203BA828,extended,00000001

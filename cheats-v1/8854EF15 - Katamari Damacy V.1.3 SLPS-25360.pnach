@@ -1,54 +1,54 @@
-//Cheats/Max Lump Record Network 999m99cm
+[Cheats/Max Lump Record Network 999m99cm]
 patch=1,EE,204EAB10,extended,000F423F
 
-//Cheats/Time To Clear The Goal 1 Second
+[Cheats/Time To Clear The Goal 1 Second]
 patch=1,EE,204EC618,extended,00000020
 
-//Cheats/It may not stick
+[Cheats/It may not stick]
 patch=1,EE,2013F9B4,extended,3C030000
 
-//Cheats/Mimicchi stick
+[Cheats/Mimicchi stick]
 patch=1,EE,2013F9B4,extended,3C030001
 
-//Cheats/Infinite Time Press R2+L2 to set time to 0
+[Cheats/Infinite Time Press R2+L2 to set time to 0]
 patch=1,EE,20102288,extended,00000000
 patch=1,EE,D1012A82,extended,0000FCFF
 patch=1,EE,20102288,extended,24020000
 
-//Cheats/Number Of Countries Acquired At The Ending 195 Please note that in other stages, this will be recorded as the total number acquired
+[Cheats/Number Of Countries Acquired At The Ending 195 Please note that in other stages, this will be recorded as the total number acquired]
 patch=1,EE,204688C4,extended,000000C3
 
-//Cheats/Max Number Of Captures Stage 133 Crabs
+[Cheats/Max Number Of Captures Stage 133 Crabs]
 patch=1,EE,204688C8,extended,00000085
 
-//Cheats/Max Number Of Captures Stage 70 Swan birds
+[Cheats/Max Number Of Captures Stage 70 Swan birds]
 patch=1,EE,204688C8,extended,00000046
 
-//Cheats/Max Number Of Captures Stage 107 Crested Borealis
+[Cheats/Max Number Of Captures Stage 107 Crested Borealis]
 patch=1,EE,204688C8,extended,0000006B
 
-//Cheats/Max Number Of Captures Stage 174 Pisces
+[Cheats/Max Number Of Captures Stage 174 Pisces]
 patch=1,EE,204688C8,extended,000000AE
 
-//Cheats/Max Number Of Captures Stage 199 Virgos
+[Cheats/Max Number Of Captures Stage 199 Virgos]
 patch=1,EE,204688C8,extended,000000C7
 
-//Cheats/Max Number Of Captures Stage 108 pairs of Phthalates
+[Cheats/Max Number Of Captures Stage 108 pairs of Phthalates]
 patch=1,EE,204688C8,extended,0000006C
 
-//Cheats/Unlock Bonus All Gifts
+[Cheats/Unlock Bonus All Gifts]
 patch=1,EE,204EAAC8,extended,01010101
 patch=1,EE,204EAACC,extended,01010101
 patch=1,EE,204EAAD0,extended,01010101
 patch=1,EE,204EAAD4,extended,01010101
 
-//Cheats/Unlock Great Collection All Items Enter the great collection
+[Cheats/Unlock Great Collection All Items Enter the great collection]
 patch=1,EE,D1051610,extended,00004340
 patch=1,EE,21051634,extended,24030001
 patch=1,EE,D1051610,extended,00004340
 patch=1,EE,21051638,extended,A0430000
 
-//Cheats/Unlock Great Collection All Names View the list of names in the wonderful collection
+[Cheats/Unlock Great Collection All Names View the list of names in the wonderful collection]
 patch=1,EE,D1056720,extended,0000944C
 patch=1,EE,2105674C,extended,24030001
 patch=1,EE,D1056720,extended,0000944C

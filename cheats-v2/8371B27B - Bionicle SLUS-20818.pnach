@@ -1,9 +1,9 @@
 gametitle=Bionicle SLUS-20818
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2032B198,extended,40400000
 
-//Infinite Specials
+[Infinite Specials]
 patch=1,EE,201FBC38,extended,0000000C
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,2032B240,extended,00000007

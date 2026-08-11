@@ -1,10 +1,10 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20181B40,extended,8C820684
 
-//Cheats/Buy even without idols  - Acquistare anche senza idoli
+[Cheats/Buy even without idols  - Acquistare anche senza idoli]
 patch=1,EE,20181D14,extended,24020001
 
-//Cheats/Disable AI of ground mouths and some other NPCs Activate Press Select+triangle Deactivate with R1+triangle In some cases you need to disable the code to continue with the game.In other cases, instead, it's useful to get eaten.When the mouth closes again for a moment, after spitting you out, activate the code, so the mouth then stays closed
+[Cheats/Disable AI of ground mouths and some other NPCs Activate Press Select+triangle Deactivate with R1+triangle In some cases you need to disable the code to continue with the game.In other cases, instead, it's useful to get eaten.When the mouth closes again for a moment, after spitting you out, activate the code, so the mouth then stays closed]
 patch=1,EE,D0572A02,extended,0000EFFE
 patch=1,EE,20111F78,extended,10000020
 patch=1,EE,D0572A02,extended,0000E7FF

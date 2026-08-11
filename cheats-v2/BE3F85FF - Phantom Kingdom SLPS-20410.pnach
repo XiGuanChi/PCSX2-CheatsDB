@@ -1,13 +1,13 @@
 gametitle=Phantom Kingdom SLPS-20410
-//HL Max after the end of combat 
+[HL Max after the end of combat]
 patch=1,EE,201BBE48,extended,1000200F
 
-//Defeated bonus than full 
+[Defeated bonus than full]
 patch=1,EE,20157538,extended,14200001
 
-//MANA 9999999 when you kill enemy 
+[MANA 9999999 when you kill enemy]
 patch=1,EE,20191214,extended,00000000
 
-//MT Max 
+[MT Max]
 patch=1,EE,202D9090,extended,4E729FFF
 patch=1,EE,202D9094,extended,00000918

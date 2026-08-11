@@ -1,72 +1,72 @@
 gametitle=The Lord of the Rings - The Third Age SLES-52801-2-3-4-5
-//Berethor Infinite Health
+[Berethor Infinite Health]
 patch=1,EE,20CD067C,extended,00004E20
 
-//Berethor Infinite AP
+[Berethor Infinite AP]
 patch=1,EE,10CD103E,extended,00004E20
 
-//Eaoden Infinite Health
+[Eaoden Infinite Health]
 patch=1,EE,20CCCCFC,extended,00004E20
 
-//Eaoden Infinite AP
+[Eaoden Infinite AP]
 patch=1,EE,10CCD6BE,extended,00004E20
 
-//Elegost Infinite Health
+[Elegost Infinite Health]
 patch=1,EE,20CCF81C,extended,00004E20
 
-//Elegost Infinite AP
+[Elegost Infinite AP]
 patch=1,EE,10CD01DC,extended,00004E20
 
-//Hadhod Infinite Health
+[Hadhod Infinite Health]
 patch=1,EE,20CCE9BC,extended,00004E20
 
-//Hadhod Infinite AP
+[Hadhod Infinite AP]
 patch=1,EE,10CCF37E,extended,00004E20
 
-//Idrial Infinite Health
+[Idrial Infinite Health]
 patch=1,EE,20CD14DC,extended,00004E20
 
-//Idrial Infinite AP
+[Idrial Infinite AP]
 patch=1,EE,10CD1E9E,extended,00004E20
 
-//Morwen Infinite Health
+[Morwen Infinite Health]
 patch=1,EE,20CCDB5C,extended,00004E20
 
-//Morwen Infinite AP
+[Morwen Infinite AP]
 patch=1,EE,10CCE51E,extended,00004E20
 
-//Have 999 Hoja de Reyes (999)
+[Have 999 Hoja de Reyes (999)]
 patch=1,EE,203A500C,extended,000003E7
 
-//Have 999 Lembas (999)
+[Have 999 Lembas (999)]
 patch=1,EE,203A5014,extended,000003E7
 
-//Have 999 Hoja de Viejo Tobi (999)
+[Have 999 Hoja de Viejo Tobi (999)]
 patch=1,EE,203A501C,extended,000003E7
 
-//Have 999 Medicina Elfica (999)
+[Have 999 Medicina Elfica (999)]
 patch=1,EE,203A505C,extended,000003E7
 
-//Have 999 Corteza de Ent (999)
+[Have 999 Corteza de Ent (999)]
 patch=1,EE,203A503C,extended,000003E7
 
-//Have 999 Vial de Pocion Ent (999)
+[Have 999 Vial de Pocion Ent (999)]
 patch=1,EE,203A504C,extended,000003E7
 
-//Have 999 Hoja de Reyes Seca (999)
+[Have 999 Hoja de Reyes Seca (999)]
 patch=1,EE,203A5064,extended,000003E7
 
-//Access All Skills
+[Access All Skills]
 patch=1,EE,201953CC,extended,00000000
 patch=1,EE,201953D4,extended,00000000
 patch=1,EE,201953DC,extended,00000000
 patch=1,EE,201953E4,extended,00000000
 patch=1,EE,201953EC,extended,00000000
 
-//Unlock All Scenes
+[Unlock All Scenes]
 patch=1,EE,003A6050,extended,00000001
 
-//Unlock All Scenes
+[Unlock All Scenes]
 patch=1,EE,403A6050,extended,006E0000
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,003A6CBC,extended,00000001

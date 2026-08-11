@@ -1,12 +1,12 @@
 gametitle=DDR Max - Dance Dance Revolution 6th Mix SLPM-62154
-//Autostep
+[Autostep]
 patch=1,EE,2015CB38,extended,0280A021
 patch=1,EE,2015CB58,extended,10200001
 patch=1,EE,2015CA78,extended,14420059
 patch=1,EE,2015CA98,extended,00601823
 
-//Max Gauge
+[Max Gauge]
 patch=1,EE,0015C16C,extended,00000001
 
-//All Song appearance
+[All Song appearance]
 patch=1,EE,00288704,extended,000000FF

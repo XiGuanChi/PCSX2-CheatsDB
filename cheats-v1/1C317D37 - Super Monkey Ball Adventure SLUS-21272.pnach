@@ -1,19 +1,19 @@
-//Cheats/99 Bananas
+[Cheats/99 Bananas]
 patch=1,EE,20A8F50C,extended,00000063
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,20170490,extended,24840000
 
-//Cheats/Infinite Monkeys Challenge
+[Cheats/Infinite Monkeys Challenge]
 patch=1,EE,20A91AF8,extended,0000000F
 
-//Cheats/Infinite Credits Challenge
+[Cheats/Infinite Credits Challenge]
 patch=1,EE,20A95D40,extended,0000000F
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,40A8F7A8,extended,00110001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,40A8F840,extended,000C0001
 patch=1,EE,00000001,extended,00000000

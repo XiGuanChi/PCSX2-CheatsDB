@@ -1,25 +1,25 @@
-//Cheats/Activator for Below codes
+[Cheats/Activator for Below codes]
 patch=1,EE,200A0034,extended,03E00008
 patch=1,EE,200A003C,extended,3C04447A
 patch=1,EE,200A0040,extended,AC440000
 patch=1,EE,200A0044,extended,03E00008
 patch=1,EE,20186E20,extended,08028000
 
-//Cheats/Infinite Power
+[Cheats/Infinite Power]
 patch=1,EE,107f6d36,extended,000042c8
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,207f6d28,extended,43160000
 
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,200A0000,extended,20040108
 patch=1,EE,200A0004,extended,1244000D
 
-//Cheats/Infinite Time For Transformations
+[Cheats/Infinite Time For Transformations]
 patch=1,EE,200A0008,extended,2004010B
 patch=1,EE,200A000C,extended,1244000B
 
-//Cheats/Max Omni Points Press L3
+[Cheats/Max Omni Points Press L3]
 patch=1,EE,200A0010,extended,3C040026
 patch=1,EE,200A0014,extended,90846F42
 patch=1,EE,200A0018,extended,240B00FD
@@ -27,5 +27,5 @@ patch=1,EE,200A001C,extended,148B0005
 patch=1,EE,200A0020,extended,20040115
 patch=1,EE,200A0024,extended,12440005
 
-//Cheats/Debug Options Enable DEBUG CHEATS, DEBUG TEXT, LEVEL SELECT, DEBUG SOUND, and DEBUG FLY.
+[Cheats/Debug Options Enable DEBUG CHEATS, DEBUG TEXT, LEVEL SELECT, DEBUG SOUND, and DEBUG FLY.]
 patch=1,EE,10355DD6,extended,00000275

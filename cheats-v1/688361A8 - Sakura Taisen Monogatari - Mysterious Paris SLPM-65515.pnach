@@ -1,7 +1,7 @@
-//Cheats/Infinite Health Kojiro
+[Cheats/Infinite Health Kojiro]
 patch=1,EE,104AE550,extended,00000064
 
-//Cheats/Max Favoribility All Characters
+[Cheats/Max Favoribility All Characters]
 patch=1,EE,204AE574,extended,000003E7
 patch=1,EE,204AE598,extended,000003E7
 patch=1,EE,204AE5BC,extended,000003E7
@@ -13,20 +13,20 @@ patch=1,EE,204AE670,extended,000003E7
 patch=1,EE,204AE694,extended,000003E7
 patch=1,EE,204AE6B8,extended,000003E7
 
-//Cheats/Clear flag Please save once
+[Cheats/Clear flag Please save once]
 patch=1,EE,0028940F,extended,1545000F
 
-//Cheats/Unlock Benefit Items
+[Cheats/Unlock Benefit Items]
 patch=1,EE,20289418,extended,00020100
 
-//Cheats/Unlock All Benefits, Endings, Events & Items
+[Cheats/Unlock All Benefits, Endings, Events & Items]
 patch=1,EE,4028941C,extended,004C0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,00289419,extended,00000001
 patch=1,EE,1028941A,extended,00000101
 patch=1,EE,00289497,extended,00000001
 
-//Cheats/Unlock All Benefits Items
+[Cheats/Unlock All Benefits Items]
 patch=1,EE,0028941F,extended,00000005
 patch=1,EE,10289450,extended,00000505
 patch=1,EE,4028941C,extended,000D0001

@@ -1,111 +1,111 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,202DA6C0,extended,0803FFC0
 patch=1,EE,202DA6C4,extended,AE410008
 patch=1,EE,200FFF00,extended,24010100
 patch=1,EE,200FFF04,extended,AC410000
 patch=1,EE,200FFF08,extended,080B69B1
 
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,202DA6CC,extended,0803FFC4
 patch=1,EE,202DA6D0,extended,AE410010
 patch=1,EE,200FFF10,extended,24010100
 patch=1,EE,200FFF14,extended,AC410000
 patch=1,EE,200FFF18,extended,080B69B4
 
-//Cheats/Max Power Tanks
+[Cheats/Max Power Tanks]
 patch=1,EE,202DA6D8,extended,0803FFC8
 patch=1,EE,202DA6DC,extended,AE410028
 patch=1,EE,200FFF20,extended,2401000A
 patch=1,EE,200FFF24,extended,AC410000
 patch=1,EE,200FFF28,extended,080B69B7
 
-//Cheats/Infinite Power Tanks
+[Cheats/Infinite Power Tanks]
 patch=1,EE,202DA6E4,extended,0803FFCC
 patch=1,EE,202DA6E8,extended,AE41001C
 patch=1,EE,200FFF30,extended,2401000A
 patch=1,EE,200FFF34,extended,AC410000
 patch=1,EE,200FFF38,extended,080B69BA
 
-//Cheats/Infinite Sand Bar
+[Cheats/Infinite Sand Bar]
 patch=1,EE,202DA6FC,extended,0803FFD0
 patch=1,EE,202DA700,extended,AE41003C
 patch=1,EE,200FFF40,extended,24010020
 patch=1,EE,200FFF44,extended,AC410000
 patch=1,EE,200FFF48,extended,080B69C0
 
-//Cheats/Max Sand Bar
+[Cheats/Max Sand Bar]
 patch=1,EE,202DA708,extended,2403000A
 patch=1,EE,202DA70C,extended,AC430000
 patch=1,EE,202DA710,extended,00000000
 patch=1,EE,202DA718,extended,2402000A
 
-//Cheats/Infinite Health Farah
+[Cheats/Infinite Health Farah]
 patch=1,EE,2029A1F8,extended,AE83007C
 
-//Cheats/Unlock Prince Of Persia 1
+[Cheats/Unlock Prince Of Persia 1]
 patch=1,EE,2030BAEC,extended,0803FFE0
 patch=1,EE,200FFF80,extended,34141000
 patch=1,EE,200FFF84,extended,ACD40000
 patch=1,EE,200FFF88,extended,080C2EBC
 
-//Cheats/Prince Of Persia original Infinite Health
+[Cheats/Prince Of Persia original Infinite Health]
 patch=1,EE,20181EF8,extended,00000009
 
-//Cheats/Prince Of Persia original Max Health
+[Cheats/Prince Of Persia original Max Health]
 patch=1,EE,20181EF0,extended,00000009
 
-//Cheats/Prince Of Persia original Infinite Time
+[Cheats/Prince Of Persia original Infinite Time]
 patch=1,EE,20181F7C,extended,0000003C
 
-//Cheats/Prince Of Persia original Ghost Mode
+[Cheats/Prince Of Persia original Ghost Mode]
 patch=1,EE,2018216C,extended,00000000
 patch=1,EE,20182170,extended,00000000
 patch=1,EE,20182174,extended,00000000
 
-//Cheats/Start a new game for Level 2
+[Cheats/Start a new game for Level 2]
 patch=1,EE,D0181ED0,extended,00000001
 patch=1,EE,20181ED0,extended,00000002
 
-//Cheats/Start a new game for Level 3
+[Cheats/Start a new game for Level 3]
 patch=1,EE,D0181ED0,extended,00000001
 patch=1,EE,20181ED0,extended,00000003
 
-//Cheats/Start a new game for Level 4
+[Cheats/Start a new game for Level 4]
 patch=1,EE,D0181ED0,extended,00000001
 patch=1,EE,20181ED0,extended,00000004
 
-//Cheats/Start a new game for Level 5
+[Cheats/Start a new game for Level 5]
 patch=1,EE,D0181ED0,extended,00000001
 patch=1,EE,20181ED0,extended,00000005
 
-//Cheats/Start a new game for Level 6
+[Cheats/Start a new game for Level 6]
 patch=1,EE,D0181ED0,extended,00000001
 patch=1,EE,20181ED0,extended,00000006
 
-//Cheats/Start a new game for Level 7
+[Cheats/Start a new game for Level 7]
 patch=1,EE,D0181ED0,extended,00000001
 patch=1,EE,20181ED0,extended,00000007
 
-//Cheats/Start a new game for Level 8
+[Cheats/Start a new game for Level 8]
 patch=1,EE,D0181ED0,extended,00000001
 patch=1,EE,20181ED0,extended,00000008
 
-//Cheats/Start a new game for Level 9
+[Cheats/Start a new game for Level 9]
 patch=1,EE,D0181ED0,extended,00000001
 patch=1,EE,20181ED0,extended,00000009
 
-//Cheats/Start a new game for Level 10
+[Cheats/Start a new game for Level 10]
 patch=1,EE,D0181ED0,extended,00000001
 patch=1,EE,20181ED0,extended,0000000A
 
-//Cheats/Start a new game for Level 11
+[Cheats/Start a new game for Level 11]
 patch=1,EE,D0181ED0,extended,00000001
 patch=1,EE,20181ED0,extended,0000000B
 
-//Cheats/Start a new game for Level 12a
+[Cheats/Start a new game for Level 12a]
 patch=1,EE,D0181ED0,extended,00000001
 patch=1,EE,20181ED0,extended,0000000C
 
-//Cheats/Start a new game for Level 12b
+[Cheats/Start a new game for Level 12b]
 patch=1,EE,D0181ED0,extended,00000001
 patch=1,EE,20181ED0,extended,0000000D

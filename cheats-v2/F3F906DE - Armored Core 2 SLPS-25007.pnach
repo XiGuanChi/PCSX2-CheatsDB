@@ -1,9 +1,9 @@
 gametitle=Armored Core 2 SLPS-25007
-//Possession gold MAX
+[Possession gold MAX]
 patch=1,EE,203B5900,extended,0098967F
 
-//Not decrease AP
+[Not decrease AP]
 patch=1,EE,102B8574,extended,00007D00
 
-//Not decrease energy gauge
+[Not decrease energy gauge]
 patch=1,EE,102B8578,extended,00007FFF

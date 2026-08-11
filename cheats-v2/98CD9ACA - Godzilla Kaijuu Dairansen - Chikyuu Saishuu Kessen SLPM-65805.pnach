@@ -1,14 +1,14 @@
 gametitle=Godzilla Kaijuu Dairansen - Chikyuu Saishuu Kessen SLPM-65805
-//Point maximum
+[Point maximum]
 patch=1,EE,206A3748,extended,000F423F
 
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,206E585C,extended,44160000
 
-//With L2 + R2 1P life maximum
+[With L2 + R2 1P life maximum]
 patch=1,EE,D0690400,extended,00000003
 patch=1,EE,206E585C,extended,44160000
 
-//With SELECT 2P life 1
+[With SELECT 2P life 1]
 patch=1,EE,D0690400,extended,00000100
 patch=1,EE,206F258C,extended,3F800000

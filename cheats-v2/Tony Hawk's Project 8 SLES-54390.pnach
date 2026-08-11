@@ -1,22 +1,22 @@
 gametitle=Tony Hawk's Project 8 SLES-54390
-//Quick Stoken Gain
+[Quick Stoken Gain]
 patch=1,EE,2032b724,extended,24420064
 
-//Always Max Special
+[Always Max Special]
 patch=1,EE,20323358,extended,24020BB8
 patch=1,EE,2032335c,extended,AE220094
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,2034eee0,extended,00000000
 
-//Infinite Gap Key Usage
+[Infinite Gap Key Usage]
 patch=1,EE,2037683c,extended,00000000
 
-//Infinite Running Combo
+[Infinite Running Combo]
 patch=1,EE,203d1808,extended,00000000
 patch=1,EE,203d1830,extended,00000000
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,200C0240,extended,8C620000
 patch=1,EE,200C0244,extended,00441025
 patch=1,EE,200C0248,extended,08088AA6

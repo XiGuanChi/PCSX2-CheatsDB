@@ -1,26 +1,26 @@
 gametitle=The History Channel - Battle for the Pacific SLUS-21712
-//Infinite Bomb Diffuse Time
+[Infinite Bomb Diffuse Time]
 patch=1,EE,2050af2c,extended,00000000
 patch=1,EE,2050b050,extended,00000000
 
-//God Mode
+[God Mode]
 patch=1,EE,2069EC18,extended,00000001
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,3C0142C8
 patch=1,EE,200C0224,extended,AC61017C
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C462017C
 patch=1,EE,2048BC70,extended,0C030088
 
-//Never Reload
+[Never Reload]
 patch=1,EE,20498A98,extended,00000000
 
-//All Missions
+[All Missions]
 patch=1,EE,405E06E4,extended,000C0014
 patch=1,EE,00000001,extended,00000000
 
-//Have All Commendations/Full Records
+[Have All Commendations/Full Records]
 patch=1,EE,106CB0B0,extended,0000270F
 patch=1,EE,106CB0B8,extended,0000270F
 patch=1,EE,106CB0C0,extended,0000270F

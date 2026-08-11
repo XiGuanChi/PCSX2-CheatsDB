@@ -1,17 +1,17 @@
 gametitle=Samurai Western SLES-53234
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202E871C,extended,00000064
 
-//Infinite Health Player 2
+[Infinite Health Player 2]
 patch=1,EE,202E871E00000064
 
-//Infinite Coins in level 1 (99999)
+[Infinite Coins in level 1 (99999)]
 patch=1,EE,206A62B0,extended,0001869F
 
-//Unlock All Stages
+[Unlock All Stages]
 patch=1,EE,202E8EBC,extended,FFFFFFFF
 
-//Unlock Characters
+[Unlock Characters]
 patch=1,EE,402E6BF0,extended,00070001
 patch=1,EE,01011901,extended,00000000
 patch=1,EE,202E8F40,extended,00000001

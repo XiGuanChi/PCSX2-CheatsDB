@@ -1,21 +1,21 @@
 gametitle=Bujingai - The Forsaken City SLUS-20895
-//Infinite health
+[Infinite health]
 patch=1,EE,20141D48,extended,E4336E00
 
-//Have all spells
+[Have all spells]
 patch=1,EE,2012F9E8,extended,00440821
 patch=1,EE,2012F9EC,extended,24020001
 patch=1,EE,2012F9F0,extended,03E00008
 patch=1,EE,2012F9F4,extended,A0220000
 
-//Infinite spell gauge
+[Infinite spell gauge]
 patch=1,EE,2024CA44,extended,AC836E08
 
-//Infinite swordplay gauge
+[Infinite swordplay gauge]
 patch=1,EE,2024C9B0,extended,AC836E10
 
-//Unlock stage select
+[Unlock stage select]
 patch=1,EE,005C645A,extended,000000FF
 
-//Unlock Special Options Codes Stage select
+[Unlock Special Options Codes Stage select]
 patch=1,EE,005C645B,extended,00000001

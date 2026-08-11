@@ -1,5 +1,5 @@
 gametitle=Power Rangers - Super Legends SLES-54835
-//Infinite Health - 1 Hit Kill
+[Infinite Health - 1 Hit Kill]
 patch=1,EE,213049B4,extended,08028005
 patch=1,EE,213049B8,extended,00000000
 patch=1,EE,200A0014,extended,80A20023
@@ -10,10 +10,10 @@ patch=1,EE,200A0028,extended,AC82001C
 patch=1,EE,200A002C,extended,03E00008
 patch=1,EE,200A0030,extended,8CA20018
 
-//Completed Ranger Spelling after one Pickup
+[Completed Ranger Spelling after one Pickup]
 patch=1,EE,212A6FFC,extended,200F003F
 
-//Time Orbs 1000x (Works for Both players)
+[Time Orbs 1000x (Works for Both players)]
 patch=1,EE,212A8220,extended,08028000
 patch=1,EE,200A0000,extended,200203E8
 patch=1,EE,200A0004,extended,004E7020

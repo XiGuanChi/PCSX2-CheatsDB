@@ -1,6 +1,6 @@
 gametitle=Marvel Nemesis - Rise of the Imperfects SLES-53585
-//Infinite/Max Health/Rage (Story Mode)
-//this will give infinite health to Both characters in Vs mode
+[Infinite/Max Health/Rage (Story Mode)]
+[this will give infinite health to Both characters in Vs mode]
 patch=1,EE,200FFF00,extended,3C0142C8
 patch=1,EE,200FFF04,extended,AC41032C
 patch=1,EE,200FFF08,extended,AC410330
@@ -10,54 +10,54 @@ patch=1,EE,200FFF14,extended,AC41033C
 patch=1,EE,200FFF1C,extended,03E00008
 patch=1,EE,201FD7A8,extended,0803FFC0
 
-//Unlock Arenas
+[Unlock Arenas]
 patch=1,EE,405D417C,extended,00040011
 patch=1,EE,00000001,extended,00000000
 
-//Unlock Cards
+[Unlock Cards]
 patch=1,EE,405D4290,extended,002B0011
 patch=1,EE,00000001,extended,00000000
 
-//Unlock Movies
+[Unlock Movies]
 patch=1,EE,405D4DC0,extended,00090001
 patch=1,EE,00000001,extended,00000000
 
-//Unlock Comics
+[Unlock Comics]
 patch=1,EE,405D4E28,extended,00120011
 patch=1,EE,00000001,extended,00000000
 
-//Unlock Characters Iron Man
+[Unlock Characters Iron Man]
 patch=1,EE,205D34D4,extended,00000001
 
-//Venom
+[Venom]
 patch=1,EE,205D35B8,extended,00000001
 
-//Magneto
+[Magneto]
 patch=1,EE,205D3604,extended,00000001
 
-//Storm
+[Storm]
 patch=1,EE,205D369C,extended,00000001
 
-//Magneto
+[Magneto]
 patch=1,EE,205D3734,extended,00000001
 
-//Daredevil
+[Daredevil]
 patch=1,EE,205D3734,extended,00000001
 
-//Paragon
+[Paragon]
 patch=1,EE,205D37CC,extended,00000001
 
-//Hazmat
+[Hazmat]
 patch=1,EE,205D3818,extended,00000001
 
-//Fault Zone
+[Fault Zone]
 patch=1,EE,205D3864,extended,00000001
 
-//Solara
+[Solara]
 patch=1,EE,205D3948,extended,00000001
 
-//Brigade
+[Brigade]
 patch=1,EE,205D3994,extended,00000001
 
-//Niles Van Roekel
+[Niles Van Roekel]
 patch=1,EE,205D39E0,extended,00000001

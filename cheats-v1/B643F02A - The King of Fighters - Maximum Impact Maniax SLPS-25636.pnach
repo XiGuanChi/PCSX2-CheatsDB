@@ -1,70 +1,70 @@
-//Cheats/Infinite Health 1P
+[Cheats/Infinite Health 1P]
 patch=1,EE,205FD92C,extended,00C800C8
 
-//Cheats/Max Guard Gauge 1P
+[Cheats/Max Guard Gauge 1P]
 patch=1,EE,105FD930,extended,00000F0F
 
-//Cheats/UMax Power Gauge 1P
+[Cheats/UMax Power Gauge 1P]
 patch=1,EE,105FD932,extended,00006464
 
-//Cheats/Max Power Gauge Level 3 1P
+[Cheats/Max Power Gauge Level 3 1P]
 patch=1,EE,005FD934,extended,00000003
 
-//Cheats/No Health 0 2P
+[Cheats/No Health 0 2P]
 patch=1,EE,205FDA34,extended,00C80000
 
-//Cheats/No Guard gauge 0 2P
+[Cheats/No Guard gauge 0 2P]
 patch=1,EE,105FDA38,extended,00000000
 
-//Cheats/No Power gauge 0 2P
+[Cheats/No Power gauge 0 2P]
 patch=1,EE,105FDA3A,extended,00006400
 
-//Cheats/Unlock Duke Can Be Used
+[Cheats/Unlock Duke Can Be Used]
 patch=1,EE,2068FFF4,extended,000000011
 
-//Cheats/VERSUS Same Character Battle & Team Formation possible The same character can be selected for single and team battles
+[Cheats/VERSUS Same Character Battle & Team Formation possible The same character can be selected for single and team battles]
 patch=1,EE,203DB448,extended,24030000
 patch=1,EE,203DB958,extended,24030000
 
-//Cheats/STORY Start from page 7
+[Cheats/STORY Start from page 7]
 patch=1,EE,20264FC4,extended,080994A9
 patch=1,EE,202652A4,extended,24010006
 patch=1,EE,202652A8,extended,080993F3
 patch=1,EE,202652AC,extended,A061C6D6
 
-//Cheats/STORY Final Boss Power Level 3
+[Cheats/STORY Final Boss Power Level 3]
 patch=1,EE,2038DF68,extended,1000FC76
 
-//Cheats/CHALLENGE MISSION Unlocked up to LEVEL 4
+[Cheats/CHALLENGE MISSION Unlocked up to LEVEL 4]
 patch=1,EE,2068F87C,extended,00000003
 
-//Cheats/CHALLENGE MISSION All Missions Complete Enter the MISSION selection screen
+[Cheats/CHALLENGE MISSION All Missions Complete Enter the MISSION selection screen]
 patch=1,EE,20400128,extended,24010001
 patch=1,EE,2040012C,extended,AC410000
 
-//Cheats/CHALLENGE MISSION Quota instant clear
+[Cheats/CHALLENGE MISSION Quota instant clear]
 patch=1,EE,203CD1AC,extended,24020001
 
-//Cheats/CHALLENGE TIME ATTACK Ends in 1 stage
+[Cheats/CHALLENGE TIME ATTACK Ends in 1 stage]
 patch=1,EE,005EC736,extended,00000005
 
-//Cheats/CHALLENGE TIME ATTACK Infinite Time
+[Cheats/CHALLENGE TIME ATTACK Infinite Time]
 patch=1,EE,20262550,extended,00000000
 
-//Cheats/Unlock All Stages
+[Cheats/Unlock All Stages]
 patch=1,EE,4068F754,extended,000E0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Colors When character is selected
+[Cheats/Unlock All Colors When character is selected]
 patch=1,EE,203D7FF8,extended,240B0001
 patch=1,EE,203D7FFC,extended,AD2B0000
 patch=1,EE,203D8008,extended,240B0001
 patch=1,EE,203D800C,extended,AD0B0000
 
-//Cheats/Unlock All Profiles When Enter PROFILE
+[Cheats/Unlock All Profiles When Enter PROFILE]
 patch=1,EE,203D7F64,extended,24010001
 patch=1,EE,203D7F6C,extended,AD210018
 
-//Cheats/Unlock PROFILE FREE VIEW Zoom limit canceled
+[Cheats/Unlock PROFILE FREE VIEW Zoom limit canceled]
 patch=1,EE,203FBAE8,extended,3C02CF00
 patch=1,EE,203FBB00,extended,3C024500

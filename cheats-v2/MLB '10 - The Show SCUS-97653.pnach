@@ -1,5 +1,5 @@
 gametitle=MLB '10 - The Show SCUS-97653
-//Infinite Strikes L3 Have Strikes R3
+[Infinite Strikes L3 Have Strikes R3]
 patch=1,EE,E002FFFD,extended,0021DD82
 patch=1,EE,D06A8DAC,extended,00000024
 patch=1,EE,206A8DAC,extended,AE200024
@@ -7,13 +7,13 @@ patch=1,EE,E002FFFB,extended,0021DD82
 patch=1,EE,D06A8DAC,extended,00000002
 patch=1,EE,206A8DAC,extended,AE300024
 
-//Alt.Infinite Strikes L3, Have Strikes R3
+[Alt.Infinite Strikes L3, Have Strikes R3]
 patch=1,EE,D021DD82,extended,0000FFFD
 patch=1,EE,208A12AC,extended,24020000
 patch=1,EE,D021DD82,extended,0000FFFB
 patch=1,EE,208A12AC,extended,8C820024
 
-//Alt2.Infinite Strikes L3 Have Strikes R3
+[Alt2.Infinite Strikes L3 Have Strikes R3]
 patch=1,EE,200C0200,extended,3C03008B
 patch=1,EE,200C0204,extended,8C635FF0
 patch=1,EE,200C0208,extended,10600004
@@ -25,7 +25,7 @@ patch=1,EE,20652AF4,extended,08030080
 patch=1,EE,D021DD82,extended,0000FFFB
 patch=1,EE,20652AF4,extended,03E00008
 
-//Infinite Outs L1+L2 Have Outs R1+R2
+[Infinite Outs L1+L2 Have Outs R1+R2]
 patch=1,EE,E002FAFF,extended,0021DD82
 patch=1,EE,D06A86BC,extended,0000001C
 patch=1,EE,206A86BC,extended,AC80001C
@@ -33,13 +33,13 @@ patch=1,EE,E002F5FF,extended,0021DD82
 patch=1,EE,D06A86BC,extended,0000001C
 patch=1,EE,206A86BC,extended,AC85001C
 
-//Alt.Infinite Outs L1+L2, Have Outs R1+R2
+[Alt.Infinite Outs L1+L2, Have Outs R1+R2]
 patch=1,EE,D021DD82,extended,0000FAFF
 patch=1,EE,208A12C4,extended,24020000
 patch=1,EE,D021DD82,extended,0000F5FF
 patch=1,EE,208A12C4,extended,8C82001C
 
-//Alt2.Infinite Outs L1+L2 Have Outs R1+R2
+[Alt2.Infinite Outs L1+L2 Have Outs R1+R2]
 patch=1,EE,200C0230,extended,3C19008C
 patch=1,EE,200C0234,extended,8F398430
 patch=1,EE,200C0238,extended,13200004
@@ -51,8 +51,8 @@ patch=1,EE,2012CB18,extended,0803008C
 patch=1,EE,D021DD82,extended,0000F5FF
 patch=1,EE,2012CB18,extended,03E00008
 
-//Road To The Show Options
-//Max Pitching Attributes Also works for create player
+[Road To The Show Options]
+[Max Pitching Attributes Also works for create player]
 patch=1,EE,E00430C2,extended,0055D2D6
 patch=1,EE,2055D2D4,extended,20060064
 patch=1,EE,20565068,extended,08028000
@@ -64,11 +64,11 @@ patch=1,EE,200A0008,extended,A0460002
 patch=1,EE,200A000C,extended,A0460003
 patch=1,EE,200A0010,extended,03E00008
 
-//Max Batting Attributes Also works for create player
+[Max Batting Attributes Also works for create player]
 patch=1,EE,D055D2AE,extended,000030C2
 patch=1,EE,2055D2AC,extended,20060064
 
-//Infinite Training Points, Press Select for No Training Points
+[Infinite Training Points, Press Select for No Training Points]
 patch=1,EE,219578E4,extended,00000032
 patch=1,EE,D021DD82,extended,0000FFFE
 patch=1,EE,219578E4,extended,00000000

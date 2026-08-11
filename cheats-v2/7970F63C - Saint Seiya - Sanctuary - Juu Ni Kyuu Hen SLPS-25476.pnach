@@ -1,19 +1,19 @@
 gametitle=Saint Seiya: Sanctuary - Juu Ni Kyuu Hen SLPS-25476
-//(1P) Necessary code
+[(1P) Necessary code]
 patch=1,EE,200F4100,extended,03E00008
 patch=1,EE,200F4000,extended,8F818ED8
 patch=1,EE,200F4004,extended,8C210154
 patch=1,EE,2028972C,extended,0803D000
 
-//P1 Infinite Health
+[P1 Infinite Health]
 patch=1,EE,200F4010,extended,8C233EF8
 patch=1,EE,200F4014,extended,AC233EFC
 
-//P1 Cosmo maximum
+[P1 Cosmo maximum]
 patch=1,EE,200F4020,extended,3C034348
 patch=1,EE,200F4024,extended,AC233F00
 
-//100% Completed Bonus / Unlock All Characteres
+[100% Completed Bonus / Unlock All Characteres]
 patch=1,EE,4050B3F8,extended,008E0001
 patch=1,EE,24242424,extended,00000000
 patch=1,EE,2050B6B8,extended,FFFFFF02

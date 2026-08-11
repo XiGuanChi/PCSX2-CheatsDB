@@ -1,31 +1,31 @@
-//Cheats/In Match CPU Serve Double Fault
+[Cheats/In Match CPU Serve Double Fault]
 patch=1,EE,D0481368,extended,00000149
 patch=1,EE,20481368,extended,24030002
 
-//Cheats/Unlock All Trophies
+[Cheats/Unlock All Trophies]
 patch=1,EE,2043D294,extended,01010101
 patch=1,EE,2043D298,extended,01010101
 
-//Cheats/Unlock All Challenges
+[Cheats/Unlock All Challenges]
 patch=1,EE,2043D090,extended,02020202
 patch=1,EE,2043D094,extended,02020202
 patch=1,EE,2043D098,extended,02020202
 patch=1,EE,2043D09C,extended,02020202
 patch=1,EE,1043D0A0,extended,00000202
 
-//Cheats/Unlock All Arcade & Exhibition Characters
+[Cheats/Unlock All Arcade & Exhibition Characters]
 patch=1,EE,2043D29C,extended,01010101
 
-//Cheats/Unlock All Acquisition Items
+[Cheats/Unlock All Acquisition Items]
 patch=1,EE,200F4000,extended,00641821
 patch=1,EE,200F4004,extended,A0620002
 patch=1,EE,200F4008,extended,03E00008
 patch=1,EE,20174934,extended,0C03D000
 patch=1,EE,20174938,extended,240200FF
 
-//Cheats/Pro Tour Mode Max Money
+[Cheats/Pro Tour Mode Max Money]
 patch=1,EE,20222BC4,extended,0098967F
 
-//Cheats/Pro Tour Mode Max All Stats
+[Cheats/Pro Tour Mode Max All Stats]
 patch=1,EE,40221FDC,extended,000C0001
 patch=1,EE,00000BF3,extended,00000000

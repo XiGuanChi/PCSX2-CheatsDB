@@ -1,18 +1,18 @@
 gametitle=Mana Khemia 2 - Ochita Gakuen to Renkinjutsushi Tachi SLPM-55005
-//Max Gold
+[Max Gold]
 patch=1,EE,20C86900,extended,000F423F
 
-//Inf HP & SP in Battle
+[Inf HP & SP in Battle]
 patch=1,EE,200FF520,extended,AC84003C
 patch=1,EE,200FF524,extended,08083D5B
 patch=1,EE,200FF528,extended,AC840040
 patch=1,EE,20253BC4,extended,0C03FD48
 
-//Inf HP & SP at the start of Battle
+[Inf HP & SP at the start of Battle]
 patch=1,EE,2020D654,extended,2405000D
 patch=1,EE,2020D664,extended,2405000E
 
-//Finish Max(Select+Up On Select+Down Off)
+[Finish Max(Select+Up On Select+Down Off)]
 patch=1,EE,D0C8A41C,extended,0000FFEE
 patch=1,EE,20258160,extended,AE100018
 patch=1,EE,D0C8A41C,extended,0000FFEE
@@ -22,7 +22,7 @@ patch=1,EE,20258160,extended,8E0F0018
 patch=1,EE,D0C8A41C,extended,0000FFBE
 patch=1,EE,20258164,extended,AE0F0460
 
-//Time stop L1 + Left = ON L1 + Right = OFF
+[Time stop L1 + Left = ON L1 + Right = OFF]
 patch=1,EE,D0C8A41C,extended,0000FB7F
 patch=1,EE,201F5C50,extended,25EF0000
 patch=1,EE,D0C8A41C,extended,0000FBDF
@@ -32,7 +32,7 @@ patch=1,EE,201F6818,extended,25EF0000
 patch=1,EE,D0C8A41C,extended,0000FBDF
 patch=1,EE,201F6818,extended,01E47821
 
-//No encounter R2 + up = ON R2 + down = OFF
+[No encounter R2 + up = ON R2 + down = OFF]
 patch=1,EE,D0C8A41C,extended,0000FDEF
 patch=1,EE,201C0DAC,extended,0000102D
 patch=1,EE,D0C8A41C,extended,0000FDBF

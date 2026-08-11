@@ -1,9 +1,9 @@
-//Cheats/Money Activation Code Must Be On
+[Cheats/Money Activation Code Must Be On]
 patch=1,EE,200C02F8,extended,08064FC4
 patch=1,EE,200C02FC,extended,00000000
 patch=1,EE,2016FA38,extended,0C030088
 
-//Cheats/Max Money P1
+[Cheats/Max Money P1]
 patch=1,EE,200C0220,extended,24010000
 patch=1,EE,200C0224,extended,14230003
 patch=1,EE,200C0228,extended,3C0105F5

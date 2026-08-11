@@ -1,45 +1,45 @@
-//Cheats/In Battle required Code The following codes must be used in conjunction with In Battle required codes
+[Cheats/In Battle required Code The following codes must be used in conjunction with In Battle required codes]
 patch=1,EE,200FF000,extended,16400013
 patch=1,EE,200FF048,extended,0805A9B2
 patch=1,EE,200FF098,extended,0805A9B2
 patch=1,EE,2013FA08,extended,0C03FC00
 
-//Cheats/1P Infinite Health In Battle
+[Cheats/1P Infinite Health In Battle]
 patch=1,EE,200FF008,extended,8E210008
 patch=1,EE,200FF00C,extended,AE210000
 
-//Cheats/1P Max Guard Gauge In Battle
+[Cheats/1P Max Guard Gauge In Battle]
 patch=1,EE,200FF018,extended,8E210018
 patch=1,EE,200FF01C,extended,AE210014
 
-//Cheats/1P 1st Family Member Max Gauge In Battle
+[Cheats/1P 1st Family Member Max Gauge In Battle]
 patch=1,EE,200FF020,extended,8E210028
 patch=1,EE,200FF024,extended,AE210020
 
-//Cheats/1P 2nd Family Member Max Gauge
+[Cheats/1P 2nd Family Member Max Gauge]
 patch=1,EE,200FF028,extended,8E21002C
 patch=1,EE,200FF02C,extended,AE210024
 
-//Cheats/2P No Health 0 In Battle
+[Cheats/2P No Health 0 In Battle]
 patch=1,EE,200FF058,extended,AE200000
 
-//Cheats/2P No Health 0 Press SELECT In Battle
+[Cheats/2P No Health 0 Press SELECT In Battle]
 patch=1,EE,200FF058,extended,00000000
 patch=1,EE,D0290B02,extended,0000FFFE
 patch=1,EE,200FF058,extended,AE200000
 
-//Cheats/Mafia level 20 Enter mafia level viewing It is reflected when you look at the character
+[Cheats/Mafia level 20 Enter mafia level viewing It is reflected when you look at the character]
 patch=1,EE,20186BD8,extended,3C050027
 patch=1,EE,20186BDC,extended,C4A11154
 patch=1,EE,20186BF0,extended,E4810000
 
-//Cheats/Family Confidence up and max family trust level isIt will be reflected when you enter the mafia level and view the trust level of each character
+[Cheats/Family Confidence up and max family trust level isIt will be reflected when you enter the mafia level and view the trust level of each character]
 patch=1,EE,2013658C,extended,3C0142C8
 patch=1,EE,20136590,extended,AC410014
 patch=1,EE,20136594,extended,24010064
 patch=1,EE,20136598,extended,AC810000
 
-//Cheats/Unlock All Characters can be used
+[Cheats/Unlock All Characters can be used]
 patch=1,EE,20284DDC,extended,FFFFFFFF
 patch=1,EE,20284DE0,extended,FFFFFFFF
 patch=1,EE,20284DE4,extended,FFFFFFFF

@@ -1,24 +1,24 @@
 gametitle=24 -The Game SLUS-21268
-//Never Reload
+[Never Reload]
 patch=1,EE,201706EC,extended,24420000
 
-//Body Armor Never Decreases
+[Body Armor Never Decreases]
 patch=1,EE,201F2788,extended,00000000
 
-//Health Packs Never Decrease
+[Health Packs Never Decrease]
 patch=1,EE,2036FBA4,extended,00000000
 
-//Infinite Air
+[Infinite Air]
 patch=1,EE,20154138,extended,00000000
 
-//God Mode
+[God Mode]
 patch=1,EE,2019417C,extended,24020001
 patch=1,EE,205F60AC,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,1017309A,extended,00001000
 
-//Access All Levels
+[Access All Levels]
 patch=1,EE,20245960,extended,00000000
 patch=1,EE,20249448,extended,00000000
 patch=1,EE,20249BD4,extended,00000000
@@ -29,7 +29,7 @@ patch=1,EE,1024A60E,extended,00001000
 patch=1,EE,2024B404,extended,00000000
 patch=1,EE,2024B598,extended,00000000
 
-//Access All Bonuse
+[Access All Bonuse]
 patch=1,EE,20245B84,extended,00000000
 patch=1,EE,20249E60,extended,00000000
 patch=1,EE,2024A06C,extended,00000000

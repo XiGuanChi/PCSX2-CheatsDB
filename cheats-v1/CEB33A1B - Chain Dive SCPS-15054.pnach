@@ -1,27 +1,27 @@
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,20162F78,extended,8F82D2BC
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2016C420,extended,14400001
 
-//Cheats/Not Receive Damage with hit detection
+[Cheats/Not Receive Damage with hit detection]
 patch=1,EE,20162E2C,extended,0000902D
 
-//Cheats/Does Bot Receive Damage is not supported either fall to death.No hit detection
+[Cheats/Does Bot Receive Damage is not supported either fall to death.No hit detection]
 patch=1,EE,20162D50,extended,34030007
 
-//Cheats/Complete Recovery Health When Using Special Move
+[Cheats/Complete Recovery Health When Using Special Move]
 patch=1,EE,2015DDB4,extended,34030064
 
-//Cheats/Infinite Freeze Gauge
+[Cheats/Infinite Freeze Gauge]
 patch=1,EE,2016C260,extended,8F85D388
 patch=1,EE,2016C39C,extended,00A02825
 
-//Cheats/Can Jump Multistage
+[Cheats/Can Jump Multistage]
 patch=1,EE,2015DBF8,extended,14000000
 
-//Cheats/Death Blow Weak Enemies
+[Cheats/Death Blow Weak Enemies]
 patch=1,EE,201668E4,extended,AC400000
 
-//Cheats/Death Blow Boss With some exceptions
+[Cheats/Death Blow Boss With some exceptions]
 patch=1,EE,20165E1C,extended,64127FFF

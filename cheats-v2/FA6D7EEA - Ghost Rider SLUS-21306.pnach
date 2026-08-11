@@ -1,28 +1,28 @@
 gametitle=Ghost Rider SLUS-21306
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201389C8,extended,E6210B20
 
-//Infinite Spirit
+[Infinite Spirit]
 patch=1,EE,20139630,extended,C6210EA8
 patch=1,EE,20139644,extended,E6210EA0
 
-//Unlock All Cheats
+[Unlock All Cheats]
 patch=1,EE,206BD890,extended,00000001
 
-//Unlock Movies
+[Unlock Movies]
 patch=1,EE,206BE628,extended,00000001
 patch=1,EE,206BE668,extended,00000001r
 patch=1,EE,206BE6C8,extended,00000001
 patch=1,EE,206BE728,extended,00000001
 
-//Unlock Gallery
+[Unlock Gallery]
 patch=1,EE,206BEB08,extended,00000001
 patch=1,EE,206BEB68,extended,00000001
 patch=1,EE,206BEBC8,extended,00000001
 patch=1,EE,206BEE28,extended,00000001
 patch=1,EE,206BEE88,extended,00000001
 
-//Unlock Comics Codes
+[Unlock Comics Codes]
 patch=1,EE,206BDD68,extended,00000004
 patch=1,EE,206BDDA8,extended,00000001
 patch=1,EE,206BDDE8,extended,00000001

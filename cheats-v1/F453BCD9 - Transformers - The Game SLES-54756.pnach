@@ -1,38 +1,38 @@
-//Cheats/Infinite Life Force The Life code gives life to enemy bots too, so it's useful only in missions against humans.
+[Cheats/Infinite Life Force The Life code gives life to enemy bots too, so it's useful only in missions against humans.]
 patch=1,EE,201190DC,extended,46000306
 patch=1,EE,201195D0,extended,46000306
 
-//Cheats/Infinite Weapon Energy
+[Cheats/Infinite Weapon Energy]
 patch=1,EE,2015EB78,extended,00000000
 
-//Cheats/Press Left Active Infinite HP
+[Cheats/Press Left Active Infinite HP]
 patch=1,EE,204D30B0,extended,00000001
 patch=1,EE,204D30B4,extended,00000000
 
-//Cheats/Press Right Active All Missions
+[Cheats/Press Right Active All Missions]
 patch=1,EE,204D30B8,extended,00020000
 patch=1,EE,204D30BC,extended,00000000
 
-//Cheats/Each Cube x5
+[Cheats/Each Cube x5]
 patch=1,EE,2024BE94,extended,24420005
 
-//Cheats/Each Cube x10
+[Cheats/Each Cube x10]
 patch=1,EE,2024BE94,extended,2442000A
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,2024F2A0,extended,46000806
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,40D0AE60,extended,009E0008
 patch=1,EE,00000002,extended,00000000
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,40D0C2C0,extended,00050008
 patch=1,EE,00000002,extended,00000000
 patch=1,EE,40D0C370,extended,00020008
 patch=1,EE,00000002,extended,00000000
 
-//Cheats/Unlock All Gallery And Movies
+[Cheats/Unlock All Gallery And Movies]
 patch=1,EE,201B7098,extended,24090002
 patch=1,EE,201B709C,extended,AC490000
 patch=1,EE,201B70A0,extended,24020001

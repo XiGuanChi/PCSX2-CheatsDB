@@ -1,10 +1,10 @@
 gametitle=Pro Race Driver SLUS-20329
-//No Damage
+[No Damage]
 patch=1,EE,0040384D,extended,00000001
 
-//Have All Bonus
+[Have All Bonus]
 patch=1,EE,20429700,extended,FFFFFFFF
 
-//Lap 2
+[Lap 2]
 patch=1,EE,D042CD04,extended,00000001
 patch=1,EE,1042CD04,extended,00000002

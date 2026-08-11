@@ -1,23 +1,23 @@
-//Cheats/Season Mode Max Total Funds  Condition: Enter TOP MENU Please check the breakdown of total funds in Personnel
+[Cheats/Season Mode Max Total Funds  Condition: Enter TOP MENU Please check the breakdown of total funds in Personnel]
 patch=1,EE,200F6000,extended,3C10000F
 patch=1,EE,200F6004,extended,3610423F
 patch=1,EE,200F6008,extended,AC500100
 patch=1,EE,200F600C,extended,084B29F4
 patch=1,EE,2149BBA0,extended,0C03D800
 
-//Cheats/Season Mode Total Funds over 100 billion Funds display may be a little strange.
+[Cheats/Season Mode Total Funds over 100 billion Funds display may be a little strange.]
 patch=1,EE,2149BBA0,extended,3C100010
 patch=1,EE,2149BBA4,extended,AC500100
 
-//Cheats/Manager Achievement Status Full
+[Cheats/Manager Achievement Status Full]
 patch=1,EE,4018CA90,extended,001E0001
 patch=1,EE,00001000,extended,00000000
 
-//Cheats/Lifts Foreign Player Limit By Acquiring A Player save not reflected
+[Cheats/Lifts Foreign Player Limit By Acquiring A Player save not reflected]
 patch=1,EE,D19166F8,extended,00000009
 patch=1,EE,219166F8,extended,10000009
 
-//Cheats/Lifts The Limit On The Number Of Foreign Players that can be hired when hiring a player scout. Erase foreign player quota on tactics screen save not reflected
+[Cheats/Lifts The Limit On The Number Of Foreign Players that can be hired when hiring a player scout. Erase foreign player quota on tactics screen save not reflected]
 patch=1,EE,2129BC3C,extended,10000009
 patch=1,EE,D181804C,extended,00000004
 patch=1,EE,2181804C,extended,10000004

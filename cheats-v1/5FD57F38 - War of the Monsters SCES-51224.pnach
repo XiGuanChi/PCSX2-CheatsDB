@@ -1,19 +1,19 @@
-//Cheats/P1 Infinite Health
+[Cheats/P1 Infinite Health]
 patch=1,EE,202BB31C,extended,43340000
 
-//Cheats/P1 Infinite Stamina
+[Cheats/P1 Infinite Stamina]
 patch=1,EE,202BB340,extended,42C80000
 
-//Cheats/P1 Infinite Special
+[Cheats/P1 Infinite Special]
 patch=1,EE,202BAFC0,extended,01000000
 
-//Cheats/Max Tokens
+[Cheats/Max Tokens]
 patch=1,EE,2041E654,extended,05F00FAB
 patch=1,EE,2041E658,extended,05F00FAB
 
-//Cheats/Disable A.I.
+[Cheats/Disable A.I.]
 patch=1,EE,2015DD78,extended,00000000
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,201923D4,extended,24040001
 patch=1,EE,201923D8,extended,AC440000

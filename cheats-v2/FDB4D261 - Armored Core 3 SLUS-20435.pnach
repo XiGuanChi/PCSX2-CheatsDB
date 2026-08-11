@@ -1,26 +1,26 @@
 gametitle=Armored Core 3 SLUS-20435
-//Max Money
+[Max Money]
 patch=1,EE,205BE030,extended,05F5E0FF
 
-//Infinite AP
+[Infinite AP]
 patch=1,EE,104F50A4,extended,00009C3C
 
-//Infinite Power
+[Infinite Power]
 patch=1,EE,104F50A8,extended,00009C3C
 
-//Mechs Never Overweight
+[Mechs Never Overweight]
 patch=1,EE,1010A94E,extended,00001000
 
-//infinite Ammo (All Weapons)
+[infinite Ammo (All Weapons)]
 patch=1,EE,20176DB4,extended,00000000
 
-//Extra Ammo (All Weapons)
+[Extra Ammo (All Weapons)]
 patch=1,EE,10176DB0,extended,00000001
 
-//Start On Last Mission
+[Start On Last Mission]
 patch=1,EE,E05BE040,extended,0020001A
 patch=1,EE,205BE040,extended,0000001B
 
-//Credits Dont Decrease For Consorts
+[Credits Dont Decrease For Consorts]
 patch=1,EE,20214D30,extended,24020000
 patch=1,EE,20214D54,extended,24020000

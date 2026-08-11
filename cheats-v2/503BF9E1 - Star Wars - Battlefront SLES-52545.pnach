@@ -1,22 +1,22 @@
 gametitle=Star Wars - Battlefront SLES-52545
-//Invincibility
+[Invincibility]
 patch=1,EE,20518CE0,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20518CE4,extended,00000001
 
-//Unlock All Special Features
+[Unlock All Special Features]
 patch=1,EE,20643880,extended,FFFFFFFF
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202C2A2C,extended,8C410004
 patch=1,EE,202C2A30,extended,AC410000
 
-//Infinite Primary Ammo
+[Infinite Primary Ammo]
 patch=1,EE,20285530,extended,00000000
 
-//Extra Primary Ammo
+[Extra Primary Ammo]
 patch=1,EE,20285528,extended,46010000
 
-//Infinite Secondary Ammo
+[Infinite Secondary Ammo]
 patch=1,EE,2028ECD4,extended,00000000

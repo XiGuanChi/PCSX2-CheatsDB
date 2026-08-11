@@ -1,17 +1,17 @@
 gametitle=Manhunt SLUS-20827
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20112CA4,extended,AFC20010
 
-//Infinite Stamina
+[Infinite Stamina]
 patch=1,EE,201B3968,extended,00000000
 
-//Save Anywhere
+[Save Anywhere]
 patch=1,EE,00549868,extended,00000001
 
-//Have All Levels Completed
+[Have All Levels Completed]
 patch=1,EE,405E0684,extended,0014002C
 patch=1,EE,00000001,extended,00000000
 
-//Max RatingAll Levels
+[Max RatingAll Levels]
 patch=1,EE,405E0688,extended,0014002C
 patch=1,EE,00000005,extended,00000000

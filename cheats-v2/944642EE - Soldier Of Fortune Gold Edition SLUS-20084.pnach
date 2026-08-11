@@ -1,13 +1,13 @@
 gametitle=Soldier Of Fortune Gold Edition SLUS-20084
-//God Mode
+[God Mode]
 patch=1,EE,200C0220,extended,8C4101A0
 patch=1,EE,200C0224,extended,34210010
 patch=1,EE,200C0228,extended,AC4101A0
 
-//Infinite Armor
+[Infinite Armor]
 patch=1,EE,203B920C,extended,00000000
 
-//Infinite Stealth
+[Infinite Stealth]
 patch=1,EE,202D0870,extended,E61500CC
 patch=1,EE,202D0874,extended,E60000CC
 

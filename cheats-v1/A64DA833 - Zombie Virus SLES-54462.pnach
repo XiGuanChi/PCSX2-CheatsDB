@@ -1,44 +1,44 @@
-//Cheats/Max Morale 999
+[Cheats/Max Morale 999]
 patch=1,EE,1020bcd4,extended,000003e7
 
-//Cheats/All Survivors Have Anti-Virus
+[Cheats/All Survivors Have Anti-Virus]
 patch=1,EE,00148FB7,extended,000000AD
 
-//Cheats/All Survivors Have Anti-Virus ALT
+[Cheats/All Survivors Have Anti-Virus ALT]
 patch=1,EE,404011A0,extended,00050008
 patch=1,EE,0000FFFF,extended,00000000
 
-//Cheats/Always Hospital Be Safe
+[Cheats/Always Hospital Be Safe]
 patch=1,EE,1020BCD0,extended,000000AD
 
-//Cheats/Always Hospital Be Safe ALT
+[Cheats/Always Hospital Be Safe ALT]
 patch=1,EE,0014982B,extended,0000FFFF
 
-//Cheats/Infinite Ambulance Body Power
+[Cheats/Infinite Ambulance Body Power]
 patch=1,EE,0016B01F,extended,000000AD
 
-//Cheats/Infinite Turbo
+[Cheats/Infinite Turbo]
 patch=1,EE,10149300,extended,00000000
 
-//Cheats/Morale Never Decrease
+[Cheats/Morale Never Decrease]
 patch=1,EE,20149820,extended,24430000
 
-//Cheats/Kill One Zombie For Max K.O Count 9999
+[Cheats/Kill One Zombie For Max K.O Count 9999]
 patch=1,EE,2016B78C,extended,00002710
 patch=1,EE,2016B798,extended,00002710
 patch=1,EE,2016B824,extended,00002710
 patch=1,EE,0016B790,extended,00000001
 
-//Cheats/Unlock Fight the Last Boss First find the 3 politicians
+[Cheats/Unlock Fight the Last Boss First find the 3 politicians]
 patch=1,EE,0020bccc,extended,00000005
 
-//Cheats/Politico All
+[Cheats/Politico All]
 patch=1,EE,1020BCEC,extended,000003E7
 
-//Cheats/Survivor Saved 9999
+[Cheats/Survivor Saved 9999]
 patch=1,EE,1020bcdc,extended,0000270f
 
-//Cheats/Zombie Killed 9999
+[Cheats/Zombie Killed 9999]
 patch=1,EE,1040129c,extended,0000270f
 
 

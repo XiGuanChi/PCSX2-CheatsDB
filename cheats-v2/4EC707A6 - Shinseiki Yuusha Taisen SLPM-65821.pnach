@@ -1,15 +1,15 @@
 gametitle=Shinseiki Yuusha Taisen SLPM-65821
-//Max money
+[Max money]
 patch=1,EE,202C5160,extended,0098967F
 
-//Maximum acquisition experience value
+[Maximum acquisition experience value]
 patch=1,EE,10314F32,extended,00007FFF
 
-//All parts 99
+[All parts 99]
 patch=1,EE,402C59A8,extended,00370001
 patch=1,EE,63006300,extended,00000000
 patch=1,EE,102C5A84,extended,00006300
 
-//Collection fully open
+[Collection fully open]
 patch=1,EE,402C5210,extended,00210001
 patch=1,EE,FFFFFFFF,extended,00000000

@@ -1,10 +1,10 @@
 gametitle=Kamen Rider - Climax Heroes SLPS-25944
-//1P infinite life
+[1P infinite life]
 patch=1,EE,204C7040,extended,40000000
 
-//1P rider gauge MAX
+[1P rider gauge MAX]
 patch=1,EE,104C704A,extended,00003F80
 
-//Form change time infinite
+[Form change time infinite]
 patch=1,EE,D062B6D8,extended,00000001
 patch=1,EE,104C704A,extended,00003F7F

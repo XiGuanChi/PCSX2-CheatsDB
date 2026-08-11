@@ -1,19 +1,19 @@
 gametitle=The Simpsons - Hit & Run SLES-51897
-//Freeze Timers
+[Freeze Timers]
 patch=1,EE,20173F14,extended,00000000
 
-//Infinite Money (999999)
+[Infinite Money (999999)]
 patch=1,EE,205E8BFC,extended,000F423F
 
-//Open Chapters
+[Open Chapters]
 patch=1,EE,20425EF4,extended,000000FF
 
-//Have All Levels Complete
+[Have All Levels Complete]
 patch=1,EE,005E8B70,extended,00000006
 patch=1,EE,005E8B74,extended,00000006
 
-//Character Modifier (Press Square)
+[Character Modifier (Press Square)]
 patch=1,EE,20107FC8,extended,24020001
 
-//Disable Car Damage
+[Disable Car Damage]
 patch=1,EE,2028AD3C,extended,24020001

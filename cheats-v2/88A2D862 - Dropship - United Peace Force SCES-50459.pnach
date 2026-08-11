@@ -1,9 +1,9 @@
 gametitle=Dropship - United Peace Force SCES-50459
-//God Mode 
+[God Mode]
 patch=1,EE,21E502B4,extended,01000000
 
-//Infinite Ammo 
+[Infinite Ammo]
 patch=1,EE,21E502B8,extended,00000001
 
-//Infinite Time 
+[Infinite Time]
 patch=1,EE,21EEC960,extended,00000128

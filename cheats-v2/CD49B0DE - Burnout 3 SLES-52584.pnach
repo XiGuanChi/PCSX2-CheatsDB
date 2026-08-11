@@ -1,31 +1,31 @@
 gametitle=Burnout 3 SLES-52584
-//max Boost
+[max Boost]
 patch=1,EE,2064EA04,extended,40000000
 patch=1,EE,2064E9F4,extended,44340000
 patch=1,EE,2064E9F0,extended,44340000
 patch=1,EE,2064E9EC,extended,00000003
 
-//Max Crash Damage
+[Max Crash Damage]
 patch=1,EE,2051BFC4,extended,35FAB000
 
-//Max Burnout Points
+[Max Burnout Points]
 patch=1,EE,2051BFC0,extended,35FAB000
 
-//Invincible to Frontal Collisions
+[Invincible to Frontal Collisions]
 patch=1,EE,204E1AB4,extended,7F960000
 
-//Start on Lap 3
+[Start on Lap 3]
 patch=1,EE,D064E904,extended,00000000
 patch=1,EE,2064E904,extended,00000002
 
-//No Crash Required for Crashbreaker
+[No Crash Required for Crashbreaker]
 patch=1,EE,2015BB80,extended,24020000
 
-//All Gold Medals
+[All Gold Medals]
 patch=1,EE,4051C304,extended,002B0001
 patch=1,EE,03030303,extended,00000000
 
-//All Signature Takedowns
+[All Signature Takedowns]
 patch=1,EE,0051C3B3,extended,00000001
 patch=1,EE,0051C3B4,extended,00000001
 patch=1,EE,0051C3B5,extended,00000001
@@ -47,7 +47,7 @@ patch=1,EE,0051C3C4,extended,00000001
 patch=1,EE,0051C3C5,extended,00000001
 patch=1,EE,0051C3C6,extended,00000001
 
-//All Crash Headlines
+[All Crash Headlines]
 patch=1,EE,0051C3C7,extended,00000001
 patch=1,EE,0051C3C8,extended,00000001
 patch=1,EE,0051C3C9,extended,00000001
@@ -59,7 +59,7 @@ patch=1,EE,0051C3CE,extended,00000001
 patch=1,EE,0051C3CF,extended,00000001
 patch=1,EE,0051C3D0,extended,00000001
 
-//All Postcards
+[All Postcards]
 patch=1,EE,0051C552,extended,00000001
 patch=1,EE,0051C553,extended,00000001
 patch=1,EE,0051C554,extended,00000001
@@ -71,7 +71,7 @@ patch=1,EE,0051C559,extended,00000001
 patch=1,EE,0051C55A,extended,00000001
 patch=1,EE,0051C55B,extended,00000001
 
-//All Cars Available at Selection Screen
+[All Cars Available at Selection Screen]
 patch=1,EE,0051C420,extended,00000001
 patch=1,EE,0051C421,extended,00000001
 patch=1,EE,0051C422,extended,00000001

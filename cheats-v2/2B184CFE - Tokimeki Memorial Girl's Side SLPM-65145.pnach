@@ -1,8 +1,8 @@
 gametitle=Tokimeki Memorial Girl's Side SLPM-65145
-//Have 9999 money
+[Have 9999 money]
 patch=1,EE,204ADCAC,extended,0000270F
 
-//All Bonus Mode
+[All Bonus Mode]
 patch=1,EE,404AD93C,extended,00260001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,004AD9D4,extended,00000001

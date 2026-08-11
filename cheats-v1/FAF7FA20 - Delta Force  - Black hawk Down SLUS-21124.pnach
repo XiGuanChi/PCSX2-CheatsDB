@@ -1,24 +1,24 @@
-//Cheats/Infinite Health You Only
+[Cheats/Infinite Health You Only]
 patch=1,EE,20276670,extended,3C014348
 patch=1,EE,20276678,extended,AC610028
 
-//Cheats/Infinite Air
+[Cheats/Infinite Air]
 patch=1,EE,20277D3C,extended,C60200C8
 
-//Cheats/Guns Don't Overheat
+[Cheats/Guns Don't Overheat]
 patch=1,EE,2035E060,extended,00000000
 
-//Cheats/Extra Med Packs Team
+[Cheats/Extra Med Packs Team]
 patch=1,EE,201EFEFC,extended,8C8200F8
 
-//Cheats/Extra Ammo Packs Team
+[Cheats/Extra Ammo Packs Team]
 patch=1,EE,201F056C,extended,8C82010C
 
-//Cheats/Extra Grenades
+[Cheats/Extra Grenades]
 patch=1,EE,1035A860,extended,00000001
 patch=1,EE,203580E0,extended,00851021
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,200C0220,extended,24010063
 patch=1,EE,200C0224,extended,AC81000C
 patch=1,EE,200C0228,extended,03E00008
@@ -28,22 +28,22 @@ patch=1,EE,2034E158,extended,0C030088
 patch=1,EE,D04F8482,extended,0010F7FF
 patch=1,EE,2034E158,extended,AE420004
 
-//Cheats/Infinite Attribute Points
+[Cheats/Infinite Attribute Points]
 patch=1,EE,20305658,extended,00000000
 patch=1,EE,20305688,extended,00000000
 patch=1,EE,203056C8,extended,00000000
 patch=1,EE,203056F0,extended,00000000
 
-//Cheats/Can Raise All Normal Attributes To Max
+[Cheats/Can Raise All Normal Attributes To Max]
 patch=1,EE,20307358,extended,00000000
 
-//Cheats/Can Raise All Weapon Attributes
+[Cheats/Can Raise All Weapon Attributes]
 patch=1,EE,103074C2,extended,00001000
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,4045CF58,extended,00100002
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Three Stars All Levels
+[Cheats/Three Stars All Levels]
 patch=1,EE,4045CF5C,extended,00100002
 patch=1,EE,00000003,extended,00000000

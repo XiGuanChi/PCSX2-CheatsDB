@@ -1,17 +1,17 @@
 gametitle=Frogger Beyond SLES-51409
-//infinite Lives
+[infinite Lives]
 patch=1,EE,2023142c,extended,24010063
 patch=1,EE,20231430,extended,A4610136
 patch=1,EE,20231434,extended,a6410114
 
-//infinite Speedup Powerups
+[infinite Speedup Powerups]
 patch=1,EE,2023161c,extended,00000000
 
-//infinite Feeding Frenzy Powerups
+[infinite Feeding Frenzy Powerups]
 patch=1,EE,0023165c,extended,00000000
 
-//infinite Ghost Frog Powerups
+[infinite Ghost Frog Powerups]
 patch=1,EE,20231698,extended,00000000
 
-//infinite Coins
+[infinite Coins]
 patch=1,EE,10f8f8b4,extended,000003e7

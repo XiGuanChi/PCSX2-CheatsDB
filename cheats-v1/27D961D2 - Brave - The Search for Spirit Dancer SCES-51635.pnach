@@ -1,11 +1,11 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,21C33EC8,extended,42C80000
 
-//Cheats/Infinite Spirit Energy
+[Cheats/Infinite Spirit Energy]
 patch=1,EE,00465200,extended,00000001
 
-//Cheats/Infinite Arrows
+[Cheats/Infinite Arrows]
 patch=1,EE,00465258,extended,00000001
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,004651b0,extended,00000001

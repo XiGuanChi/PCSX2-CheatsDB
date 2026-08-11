@@ -1,15 +1,15 @@
 gametitle=Top o Nerae! Gunbuster SLPS-25447
-//Infinite Time
+[Infinite Time]
 patch=1,EE,10252DF4,extended,000005DC
 
-//Physical fitness Exp Max
+[Physical fitness Exp Max]
 patch=1,EE,10252E0C,extended,0000270F
 
-//Guts Exp Max
+[Guts Exp Max]
 patch=1,EE,10252E0E,extended,000027
 
-//Atack Exp Max
+[Atack Exp Max]
 patch=1,EE,10252E10,extended,0000270F
 
-//Effort Exp Max
+[Effort Exp Max]
 patch=1,EE,20252E28,extended,0098967F

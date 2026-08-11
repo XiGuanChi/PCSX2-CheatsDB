@@ -1,28 +1,28 @@
-//Cheats/Max Hustle Points Of Learning
+[Cheats/Max Hustle Points Of Learning]
 patch=1,EE,0031E088,extended,00000008
 
-//Cheats/Max Code Evaluation
+[Cheats/Max Code Evaluation]
 patch=1,EE,0031E356,extended,00000064
 
-//Cheats/Unlock All Albums
+[Cheats/Unlock All Albums]
 patch=1,EE,2031CDC0,extended,FFFFFFFF
 patch=1,EE,2031CDC4,extended,FFFFFFFF
 patch=1,EE,2031CDC8,extended,FFFFFFFF
 patch=1,EE,2031CDCC,extended,FFFFFFFF
 
-//Cheats/Unlock All Collections
+[Cheats/Unlock All Collections]
 patch=1,EE,2031DF68,extended,FFFFFFFF
 patch=1,EE,2031DF6C,extended,FFFFFFFF
 patch=1,EE,2031DF70,extended,FFFFFFFF
 patch=1,EE,1031DF74,extended,0000FFFF
 patch=1,EE,0031DF76,extended,000000FF
 
-//Cheats/Unlock All Scenes Recollection
+[Cheats/Unlock All Scenes Recollection]
 patch=1,EE,0031DE93,extended,000000FF
 patch=1,EE,2031DE94,extended,FFFFFFFF
 patch=1,EE,2031DE98,extended,FFFFFFFF
 patch=1,EE,1031DE9C,extended,0000FFFF
 patch=1,EE,0031DE9E,extended,000000FF
 
-//Cheats/Unlock All Sounds
+[Cheats/Unlock All Sounds]
 patch=1,EE,2031DEA8,extended,FFFFFFFF

@@ -1,16 +1,16 @@
 gametitle=Monster Rancher 4 SLUS-20702
-//Max Money
+[Max Money]
 patch=1,EE,20659584,extended,0098967F
 
-//Infinite HP Player 1 In-Battle
+[Infinite HP Player 1 In-Battle]
 patch=1,EE,105EE94C,extended,000003E7
 patch=1,EE,205F65C0,extended,03E703E7
 patch=1,EE,105F65C8,extended,000003E7
 
-//Max Guts Player 1 In-Battle
+[Max Guts Player 1 In-Battle]
 patch=1,EE,105EE95C,extended,00000063
 
-//Player 1 Press L1+ Select For No HP Player 2 In-Battle
+[Player 1 Press L1+ Select For No HP Player 2 In-Battle]
 patch=1,EE,E002FBFE,extended,004ED402
 patch=1,EE,105EF44C,extended,00000000
 patch=1,EE,205F6674,extended,00000000

@@ -1,14 +1,14 @@
 gametitle=Glass Rose SLES-52358
-//Unlimited Mind Points
+[Unlimited Mind Points]
 patch=1,EE,20144204,extended,24C30000
 
-//Maximum Heart Fragments
+[Maximum Heart Fragments]
 patch=1,EE,1021E6A0,extended,0000270F
 
-//Stop Clock (Press [L3])
+[Stop Clock (Press [L3])]
 patch=1,EE,D023CA82,extended,0000FFFD
 patch=1,EE,20144BBC,extended,24640000
 
-//Start Clock (Press [R3])
+[Start Clock (Press [R3])]
 patch=1,EE,D023CA82,extended,0000FFFB
 patch=1,EE,20144BB4,extended,0064202D

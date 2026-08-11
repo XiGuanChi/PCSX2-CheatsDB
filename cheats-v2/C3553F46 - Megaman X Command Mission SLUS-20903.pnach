@@ -1,28 +1,28 @@
 gametitle=Megaman X Command Mission SLUS-20903
-//Infinite Life Energy
+[Infinite Life Energy]
 patch=1,EE,2054FCEC,extended,0000270F
 patch=1,EE,2085CC38,extended,0000270F
 patch=1,EE,20AA2644,extended,0000270F
 
-//Infinite Weapon Energy
+[Infinite Weapon Energy]
 patch=1,EE,2054FCF8,extended,00000064
 
-//Infinite Zenny
+[Infinite Zenny]
 patch=1,EE,2054FCCC,extended,0000FFFF
 
-//No Random Battles
+[No Random Battles]
 patch=0,EE,2054F220,extended,00000000
 
-//Sub Tank Full
+[Sub Tank Full]
 patch=1,EE,105502D6,extended,000004B0
 
-//One-Hit Death (Enemies)
+[One-Hit Death (Enemies)]
 patch=1,EE,201F94BC,extended,AC600164
 
-//Completed All Challenges
+[Completed All Challenges]
 patch=1,EE,4054FA68,extended,00240001
 patch=1,EE,00000001,extended,00000000
 
-//Have All Figures
+[Have All Figures]
 patch=1,EE,4054FB2D,extended,00390001
 patch=1,EE,00010001,extended,00000000

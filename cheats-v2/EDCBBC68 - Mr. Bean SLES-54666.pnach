@@ -1,16 +1,16 @@
 gametitle=Mr. Bean SLES-54666
-//1 biscuit == 100 biscuits
+[1 biscuit == 100 biscuits]
 patch=1,EE,2015BC64,extended,34020064
 
-//1 key == 100 keys
+[1 key == 100 keys]
 patch=1,EE,2015BC78,extended,34020064
 
-//1 piece of the puzzle == 100 pieces
+[1 piece of the puzzle == 100 pieces]
 patch=1,EE,2015BC8C,extended,34020064
 
-//Infinite spray 
+[Infinite spray]
 patch=1,EE,2014AA94,extended,00000000
 
-//Mr. Bean pass through enemies 
+[Mr. Bean pass through enemies]
 patch=1,EE,20144100,extended,03E00008
 patch=1,EE,20144104,extended,00000000

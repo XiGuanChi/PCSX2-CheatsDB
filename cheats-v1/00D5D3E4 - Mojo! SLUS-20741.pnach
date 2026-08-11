@@ -1,30 +1,30 @@
-//Cheats/Always Low Time
+[Cheats/Always Low Time]
 patch=1,EE,20262A70,extended,AF80843C
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20260410,extended,03E00008
 patch=1,EE,20260414,extended,00000000
 
-//Cheats/Infinite Turbo
+[Cheats/Infinite Turbo]
 patch=1,EE,20260560,extended,03E00008
 patch=1,EE,20260564,extended,00000000
 
-//Cheats/Quickly Get All Blue Blocks
+[Cheats/Quickly Get All Blue Blocks]
 patch=1,EE,20275D84,extended,24020000
 
-//Cheats/Quickly Get All Green Blocks
+[Cheats/Quickly Get All Green Blocks]
 patch=1,EE,20275D70,extended,24020000
 
-//Cheats/Quickly Get All Mojo Blocks
+[Cheats/Quickly Get All Mojo Blocks]
 patch=1,EE,20275DC0,extended,24030000
 
-//Cheats/Quickly Get All Red Blocks
+[Cheats/Quickly Get All Red Blocks]
 patch=1,EE,20275D60,extended,24020000
 
-//Cheats/Quickly Get All Yellow Blocks
+[Cheats/Quickly Get All Yellow Blocks]
 patch=1,EE,20275D98,extended,24020000
 
-//Cheats/Debug Test Mode enabled press L3 and disabled pressi R3 Lets you switch the stage on the fly and such
+[Cheats/Debug Test Mode enabled press L3 and disabled pressi R3 Lets you switch the stage on the fly and such]
 patch=1,EE,D1C939C2,extended,0000FFFD
 patch=1,EE,00293900,extended,00000001
 patch=1,EE,D1C939C2,extended,0000FFFB

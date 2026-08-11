@@ -1,22 +1,22 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,200C0224,extended,24010000
 patch=1,EE,200C0228,extended,50220001
 patch=1,EE,200C022C,extended,AE031BE4
 
-//Cheats/Infinite Health P1 Partner
+[Cheats/Infinite Health P1 Partner]
 patch=1,EE,200C023C,extended,24010002
 patch=1,EE,200C0240,extended,50220001
 patch=1,EE,200C0244,extended,AE031BE4
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,40434210,extended,00050001
 patch=1,EE,00000002,extended,00000000
 
-//Cheats/Unlock All Chapters
+[Cheats/Unlock All Chapters]
 patch=1,EE,40434254,extended,00030001
 patch=1,EE,00000002,extended,00000000
 
-//Cheats/Unlock All Characters, Levels And Chapters
+[Cheats/Unlock All Characters, Levels And Chapters]
 patch=1,EE,200C2080,extended,24080020
 patch=1,EE,200C2084,extended,24090002
 patch=1,EE,200C2088,extended,00055821
@@ -28,8 +28,8 @@ patch=1,EE,200C209C,extended,03E00008
 patch=1,EE,200C20A0,extended,3E060042
 patch=1,EE,2022DDAC,extended,0C030820
 
-//Cheats/Unlock 100% Cleared
+[Cheats/Unlock 100% Cleared]
 patch=1,EE,20432110,extended,FFFFFFFF
 
-//Cheats/Enable Debug Menu At Startup SYS MODE changes the game category to test. You can choose between the following TEST tests various game modes. EXIT exits the game.DEBUG does nothing. START starts the game without debug enabled.SUB MODE changes the SUB MODE sub category based on the SYS MODE chosen. Below are the options for this category:OCHI. Does nothing.KURO. Unknown. This doesn't start because it's missing a font file.NISHI. Loads a blank map? ISHIKI. Does nothing.MURA. This is a non existent game mode.SEQ. This is a model viewer.EFFECT. This is an effect viewer that doesn't work.MODEL. Doesn't work.MOTION. Doesn't work.WORLD. Doesn't work.TXD. Doesn't work.MAKE TXD. Doesn't work.MOTION2. Doesn't work.MISSION. Allows you to enter missions quickly.STORY. Allows you to enter story matches quickly.SURVIVAL. Starts a survival match.ARCADE. Starts a versus match.PRACTICE. Starts a practice match.GAME. Starts an unknown game type.ECT. Contains a BGM and movie test menu.Press Start button to enter a sub mode while in this screen.
+[Cheats/Enable Debug Menu At Startup SYS MODE changes the game category to test. You can choose between the following TEST tests various game modes. EXIT exits the game.DEBUG does nothing. START starts the game without debug enabled.SUB MODE changes the SUB MODE sub category based on the SYS MODE chosen. Below are the options for this category:OCHI. Does nothing.KURO. Unknown. This doesn't start because it's missing a font file.NISHI. Loads a blank map? ISHIKI. Does nothing.MURA. This is a non existent game mode.SEQ. This is a model viewer.EFFECT. This is an effect viewer that doesn't work.MODEL. Doesn't work.MOTION. Doesn't work.WORLD. Doesn't work.TXD. Doesn't work.MAKE TXD. Doesn't work.MOTION2. Doesn't work.MISSION. Allows you to enter missions quickly.STORY. Allows you to enter story matches quickly.SURVIVAL. Starts a survival match.ARCADE. Starts a versus match.PRACTICE. Starts a practice match.GAME. Starts an unknown game type.ECT. Contains a BGM and movie test menu.Press Start button to enter a sub mode while in this screen.]
 patch=1,EE,00100374,extended,00000004

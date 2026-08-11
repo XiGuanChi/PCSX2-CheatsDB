@@ -1,10 +1,10 @@
 gametitle=L.A. Rush SLUS-21112
-//Max. Money
+[Max. Money]
 patch=1,EE,203FC100,extended,05F5E0FF
 
-//Infinite Turbo
+[Infinite Turbo]
 patch=1,EE,21F181BC,extended,00000003
 
-//Unlock all Cars
+[Unlock all Cars]
 patch=1,EE,403FC3E0,extended,003C0001
 patch=1,EE,00000002,extended,00000000

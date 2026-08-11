@@ -1,20 +1,20 @@
 gametitle=Jikkyou Powerful Major League 2 SLPM-66875
-//Success gold 99999
+[Success gold 99999]
 patch=1,EE,20A63304,extended,0001869F
 
-//PP Max
+[PP Max]
 patch=1,EE,20A508B0,extended,000F41DC
 
-//Points Max
+[Points Max]
 patch=1,EE,206FF13C,extended,240803E7
 patch=1,EE,206FF154,extended,240603E7
 patch=1,EE,206FF164,extended,240503E7
 patch=1,EE,206FF174,extended,240303E7
 patch=1,EE,206FF184,extended,240203E7
 
-//Season P Max
+[Season P Max]
 patch=1,EE,20622E80,extended,3C030099
 patch=1,EE,20622E84,extended,2463967F
 
-//Only COM pitch straight ball
+[Only COM pitch straight ball]
 patch=1,EE,202A0FA0,extended,10000001

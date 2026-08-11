@@ -1,15 +1,15 @@
-//Cheats/Unlock All Story Mode
+[Cheats/Unlock All Story Mode]
 patch=1,EE,203A1D2C,extended,FFFFFFFF
 patch=1,EE,203A1D30,extended,FFFFFFFF
 patch=1,EE,203A1D34,extended,FFFFFFFF
 patch=1,EE,203A1D38,extended,FFFFFFFF
 patch=1,EE,203A1D3C,extended,FFFFFFFF
 
-//Cheats/Unlock All Items Extend Mode
+[Cheats/Unlock All Items Extend Mode]
 patch=1,EE,403A1D44,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,103A1D50,extended,0000FFFF
 patch=1,EE,003A1D52,extended,000000FF
 
-//Cheats/Enable Debug Mode Press Select once to enable it. Press Select again enable debug information. To enter the debug menu, press L1+L2+R1+R2+Select
+[Cheats/Enable Debug Mode Press Select once to enable it. Press Select again enable debug information. To enter the debug menu, press L1+L2+R1+R2+Select]
 patch=1,EE,10101160,extended,00000118

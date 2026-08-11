@@ -1,5 +1,5 @@
 gametitle=San Goku Shi VIII SLPM-62131
-//Item & Event Collection MAX
+[Item & Event Collection MAX]
 patch=1,EE,21A42B20,extended,FFFFFFFF
 patch=1,EE,21A42B24,extended,FFFFFFFF
 patch=1,EE,21A42B28,extended,FFFFFFFF
@@ -7,17 +7,17 @@ patch=1,EE,21A42B2C,extended,FFFFFFFF
 patch=1,EE,21A42B30,extended,FFFFFFFF
 patch=1,EE,21A42B34,extended,FFFFFFFF
 
-//Required (must be entered)
+[Required (must be entered)]
 patch=1,EE,205EDE00,extended,A082A082
 patch=1,EE,205EDE08,extended,A082A082
 
-//All special skills abbreviated code (for ver.1.6. Or later)
+[All special skills abbreviated code (for ver.1.6. Or later)]
 patch=1,EE,405BCC80,extended,001A0001
 patch=1,EE,00000001,extended,00000000
 
-//All tactics
+[All tactics]
 patch=1,EE,405BCCEC,extended,000F0001
 patch=1,EE,00000006,extended,00000000
 
-//If you spend your money, 9999
+[If you spend your money, 9999]
 patch=1,EE,201D1D78,extended,AC6600A4

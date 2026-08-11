@@ -1,6 +1,6 @@
 gametitle=Jimmy Neutron - Boy Genius PAL-E SLES-51298 C60BA9E7
 
-//NTSC Mode
+[NTSC Mode]
 author=GamingDragon93
 description=NTSC mode at start.
 patch=1,EE,00286680,word,30820000

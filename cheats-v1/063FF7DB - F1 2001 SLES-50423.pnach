@@ -1,7 +1,7 @@
-//Cheats/Challenge Timer 0
+[Cheats/Challenge Timer 0]
 patch=1,EE,204D4554,extended,00000000
 
-//Cheats/All Challenges Complete
+[Cheats/All Challenges Complete]
 patch=1,EE,203B2838,extended,64646464
 patch=1,EE,203B283C,extended,64646464
 patch=1,EE,203B2840,extended,64646464

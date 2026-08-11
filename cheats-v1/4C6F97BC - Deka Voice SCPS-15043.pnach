@@ -1,4 +1,4 @@
-//Cheats/USB skip After press L3+R3
+[Cheats/USB skip After press L3+R3]
 patch=1,EE,D0420C02,extended,0000FFF9
 patch=1,EE,004188EC,extended,00000000
 patch=1,EE,D0420C02,extended,0000FFF9

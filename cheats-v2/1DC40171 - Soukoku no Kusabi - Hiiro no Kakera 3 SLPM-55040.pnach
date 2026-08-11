@@ -1,15 +1,15 @@
 gametitle=Soukoku no Kusabi - Hiiro no Kakera 3 SLPM-55040
-//Yo Ball in the title screen can be selected (save reflect) the shrine
+[Yo Ball in the title screen can be selected (save reflect) the shrine]
 patch=1,EE,0109482A,extended,00000001
 
-//For award selection possible (save reflect) a mirror reflecting
+[For award selection possible (save reflect) a mirror reflecting]
 patch=1,EE,01094840,extended,00000001
 
-//Mirror reflects fully open (save unreflected)
+[Mirror reflects fully open (save unreflected)]
 patch=1,EE,201E2CD0,extended,24020001
 patch=1,EE,201E3934,extended,24020001
 
-//Required code
+[Required code]
 patch=1,EE,200F7000,extended,38C61234
 patch=1,EE,200F7004,extended,14C00002
 patch=1,EE,200F7008,extended,34060001
@@ -18,33 +18,33 @@ patch=1,EE,200F7010,extended,08063679
 patch=1,EE,200F7014,extended,84420002
 patch=1,EE,2018D9DC,extended,0803DC00
 
-//Tamayori Hime Apocrypha fully open (save reflect)
+[Tamayori Hime Apocrypha fully open (save reflect)]
 patch=1,EE,201D9E18,extended,24020001
 
-//Winning score of 99 fortune
+[Winning score of 99 fortune]
 patch=1,EE,201E12EC,extended,24020063
 
-//99 points earned for Omikuji
+[99 points earned for Omikuji]
 patch=1,EE,201E12EC,extended,24020063
 
-//The number of points earned for Omikuji does not decrease
+[The number of points earned for Omikuji does not decrease]
 patch=1,EE,201DF03C,extended,00000000
 
-//~ Favorability (not reflected in save) ~
-//Takuma Onizaki
+[~ Favorability (not reflected in save) ~]
+[Takuma Onizaki]
 patch=1,EE,010933AE,extended,0000000A
 
-//Masahiro Kotori
+[Masahiro Kotori]
 patch=1,EE,010933C4,extended,0000000A
 
-//Yuichi Fox Eup
+[Yuichi Fox Eup]
 patch=1,EE,010933DA,extended,0000000A
 
-//Shinji Inukai
+[Shinji Inukai]
 patch=1,EE,010933F0,extended,0000000A
 
-//Large snake table
+[Large snake table]
 patch=1,EE,01093406,extended,0000000A
 
-//Ryo Tani
+[Ryo Tani]
 patch=1,EE,0109341C,extended,0000000A

@@ -1,16 +1,16 @@
-//Cheats/Opponents Can't Steer
+[Cheats/Opponents Can't Steer]
 patch=1,EE,20100310,extended,03E00008
 patch=1,EE,20100314,extended,00000000
 
-//Cheats/Unlock All Bronze Trading Cards
+[Cheats/Unlock All Bronze Trading Cards]
 patch=1,EE,203733C0,extended,FFFFFFFF
 
-//Cheats/Unlock All Silver Trading Cards
+[Cheats/Unlock All Silver Trading Cards]
 patch=1,EE,203733C4,extended,FFFFFFFF
 
-//Cheats/Unlock All Gold Trading Cards
+[Cheats/Unlock All Gold Trading Cards]
 patch=1,EE,203733C8,extended,FFFFFFFF
 
-//Cheats/Unlock All Masterclasses Gold
+[Cheats/Unlock All Masterclasses Gold]
 patch=1,EE,203733E0,extended,00FFFFFF
 

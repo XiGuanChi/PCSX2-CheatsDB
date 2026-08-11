@@ -1,8 +1,8 @@
 gametitle=My Merry May With Be SLPM-66045
-//Select all scenarios - Special full open - Append story Full open Please save and then proceed with the game without using this code.
+[Select all scenarios - Special full open - Append story Full open Please save and then proceed with the game without using this code.]
 patch=1,EE,4055C5E0,extended,0C000001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Debug menu
+[Debug menu]
 patch=1,EE,204260C4,extended,02020202
 patch=1,EE,104260C8,extended,00000202

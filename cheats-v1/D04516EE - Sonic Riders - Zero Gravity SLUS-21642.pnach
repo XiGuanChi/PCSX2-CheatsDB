@@ -1,16 +1,16 @@
-//Cheats/Always Have 100 Coins
+[Cheats/Always Have 100 Coins]
 patch=1,EE,200A0010,extended,24050064
 patch=1,EE,200A0014,extended,AC250E00
 
-//Cheats/Infinite Action Bar
+[Cheats/Infinite Action Bar]
 patch=1,EE,200A0018,extended,3C0242C8
 patch=1,EE,200A001C,extended,AC220A7C
 patch=1,EE,200A0020,extended,AC220A84
 
-//Cheats/Max.Coins Shop
+[Cheats/Max.Coins Shop]
 patch=1,EE,20481880,extended,00000000
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,200A0054,extended,3C02FFFF
 patch=1,EE,200A0058,extended,3442FFFF
 patch=1,EE,200A005C,extended,AC8204C8

@@ -1,42 +1,42 @@
 gametitle=Pro Yakyuu Spirits 3 SLPM-66364
-//VP999999
+[VP999999]
 patch=1,EE,21E0AC70,extended,000F423F
 
-//Ability point required code
+[Ability point required code]
 patch=1,EE,200F8000,extended,2410270F
 patch=1,EE,200F8030,extended,03E00008
 patch=1,EE,200F8034,extended,0000882D
 patch=1,EE,D1EF928C,extended,000001B8
 patch=1,EE,21EF9288,extended,0C03E000
 
-//Pitcher points 9999
+[Pitcher points 9999]
 patch=1,EE,200F8004,extended,AE500084
 
-//Stamina point 9999
+[Stamina point 9999]
 patch=1,EE,200F8008,extended,AE500088
 
-//Mental points 9999
+[Mental points 9999]
 patch=1,EE,200F800C,extended,AE50008C
 
-//Pitch point 9999
+[Pitch point 9999]
 patch=1,EE,200F8010,extended,AE500090
 
-//Meet point 9999
+[Meet point 9999]
 patch=1,EE,200F8014,extended,AE500094
 
-//PowerPoint 9999
+[PowerPoint 9999]
 patch=1,EE,200F8018,extended,AE500098
 
-//Running power point 9999
+[Running power point 9999]
 patch=1,EE,200F801C,extended,AE50009C
 
-//Defensive power points 9999
+[Defensive power points 9999]
 patch=1,EE,200F8020,extended,AE5000A0
 
-//Spirits points 9999
+[Spirits points 9999]
 patch=1,EE,200F8024,extended,AE5000A4
 
-//3 Slike 0 Ball 2 Out with SELECT + L1 button
+[3 Slike 0 Ball 2 Out with SELECT + L1 button]
 patch=1,EE,D1B2F902,extended,0000FBFE
 patch=1,EE,204E4AA0,extended,00000003
 patch=1,EE,D1B2F902,extended,0000FBFE
@@ -44,7 +44,7 @@ patch=1,EE,204E4AA4,extended,00000000
 patch=1,EE,D1B2F902,extended,0000FBFE
 patch=1,EE,204E4AA8,extended,00000002
 
-//0 Slike 4 Ball 0 Out with SELECT + R1 button
+[0 Slike 4 Ball 0 Out with SELECT + R1 button]
 patch=1,EE,D1B2F902,extended,0000F7FE
 patch=1,EE,204E4AA0,extended,00000000
 patch=1,EE,D1B2F902,extended,0000F7FE
@@ -52,7 +52,7 @@ patch=1,EE,204E4AA4,extended,00000004
 patch=1,EE,D1B2F902,extended,0000F7FE
 patch=1,EE,204E4AA8,extended,00000000
 
-//0 Slike 0 Ball 0 Out with SELECT + R2 button
+[0 Slike 0 Ball 0 Out with SELECT + R2 button]
 patch=1,EE,D1B2F902,extended,0000FDFE
 patch=1,EE,204E4AA0,extended,00000000
 patch=1,EE,D1B2F902,extended,0000FDFE

@@ -1,4 +1,4 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201D944C,extended,C48C017C
 patch=1,EE,2021BCFC,extended,0C03FE05
 patch=1,EE,2020C740,extended,0C03FE00
@@ -13,39 +13,39 @@ patch=1,EE,200FF820,extended,17300002
 patch=1,EE,200FF828,extended,4480A000
 patch=1,EE,200FF82C,extended,03E00008
 
-//Cheats/Press L1 Recovers Health
+[Cheats/Press L1 Recovers Health]
 patch=1,EE,20213F94,extended,C443017C
 patch=1,EE,20213F9C,extended,00000000
 patch=1,EE,D0330FDC,extended,0000FBFF
 patch=1,EE,20213F9C,extended,E4430178
 
-//Cheats/Infinite Magic
+[Cheats/Infinite Magic]
 patch=1,EE,203373C0,extended,43480000
 patch=1,EE,203373C8,extended,43480000
 
-//Cheats/Max Red Orb
+[Cheats/Max Red Orb]
 patch=1,EE,203373D0,extended,000F423F
 
-//Cheats/Press R1 Recovers Amulet Gauge If you move the device while the amulet is active, it may be forcibly canceled game specification
+[Cheats/Press R1 Recovers Amulet Gauge If you move the device while the amulet is active, it may be forcibly canceled game specification]
 patch=1,EE,D0330FDC,extended,0000F7FF
 patch=1,EE,203373C4,extended,42C80000
 
-//Cheats/Infinite Magic Gauge
+[Cheats/Infinite Magic Gauge]
 patch=1,EE,202DA2C0,extended,00000001
 patch=1,EE,203373C0,extended,43480000
 
-//Cheats/Infinite Titan Gauge
+[Cheats/Infinite Titan Gauge]
 patch=1,EE,202DA2C4,extended,00000001
 patch=1,EE,203373C8,extended,42C80000
 
-//Cheats/Have All Gorgon Eyes
+[Cheats/Have All Gorgon Eyes]
 patch=1,EE,003373DD,extended,00000012
 
-//Cheats/Have All Phoenix Feathers
+[Cheats/Have All Phoenix Feathers]
 patch=1,EE,003373F7,extended,00000012
 
-//Cheats/Have All Cyclops Eyes
+[Cheats/Have All Cyclops Eyes]
 patch=1,EE,003373FC,extended,00000014
 
-//Cheats/Unlock All Treasures
+[Cheats/Unlock All Treasures]
 patch=1,EE,202DACD4,extended,FFFFFFFF

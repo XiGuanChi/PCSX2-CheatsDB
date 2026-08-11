@@ -1,21 +1,21 @@
 gametitle=Medal of Honor - Frontline SLUS-20368
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20240F60,extended,00000001
 
-//infinite Ammo 
+[infinite Ammo]
 patch=1,EE,20240F64,extended,00000001
 
-//Have All Cheats
+[Have All Cheats]
 patch=1,EE,D023FA4C,extended,00000000
 patch=1,EE,2023FA4C,extended,00055555
 
-//Have All Medals
+[Have All Medals]
 patch=1,EE,2023FA50,extended,FFFFFFFF
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,2023FA5C,extended,FFFFFFFF
 
-// Unlock All Movies
+[Unlock All Movies]
 patch=1,EE,40240E10,extended,00040001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,00240E20,extended,00000001

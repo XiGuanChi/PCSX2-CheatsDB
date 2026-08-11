@@ -1,20 +1,20 @@
 gametitle=007 - Nightfire SLES-51260-SLES-51258-SLUS-20579
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2019BD24,extended,3C0142C8
 patch=1,EE,2019BD2C,extended,AE610894
 
-//Iinfinite Ammo
+[Iinfinite Ammo]
 patch=1,EE,201A1A44,extended,00000000
 
-//Activate In-Game Cheat Codes Infinite Health
+[Activate In-Game Cheat Codes Infinite Health]
 patch=1,EE,D022433C,extended,10002420
 patch=1,EE,202A3738,extended,00000001
 
-//Activate In-Game Cheat Codes infinite Ammo
+[Activate In-Game Cheat Codes infinite Ammo]
 patch=1,EE,D022433C,extended,10002420
 patch=1,EE,202A3740,extended,00000001
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,E00C2420,extended,0022433C
 patch=1,EE,202DF2F0,extended,00000001
 patch=1,EE,202DF308,extended,00000001
@@ -29,56 +29,56 @@ patch=1,EE,202DF3C8,extended,00000001
 patch=1,EE,202DF3E0,extended,00000001
 patch=1,EE,202DF3F8,extended,00000001
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,E0461021,extended,001A215C
 patch=1,EE,20196838,extended,3C017F00
 patch=1,EE,20196834,extended,AE010894
 
-//Infinite Health (Driving Levels) DOESN'T WORK  pcx2 USE ARMOR cheat 
+[Infinite Health (Driving Levels) DOESN'T WORK  pcx2 USE ARMOR cheat]
 patch=1,EE,200FFE0C,extended,08082622
 patch=1,EE,200FFE00,extended,3C024400
 patch=1,EE,200FFE04,extended,AC620378
 patch=1,EE,200FFE08,extended,44820000
 patch=1,EE,20209868,extended,0803FF80
 
-//Infnite Ammo
+[Infnite Ammo]
 patch=1,EE,201A2080,extended,00E01023
 patch=1,EE,2020E5C4,extended,00000000
 
-//Open Everything
+[Open Everything]
 patch=1,EE,D01A215C,extended,00441021
 patch=1,EE,0030E1A7,extended,00000001
 
-//Unlock The Exchange
+[Unlock The Exchange]
 patch=1,EE,202E0130,extended,00000001
 
-//Unlock Alpine Escape
+[Unlock Alpine Escape]
 patch=1,EE,202E0148,extended,00000001
 
-//Unlock Enemies Vanquished
+[Unlock Enemies Vanquished]
 patch=1,EE,202E0160,extended,00000001
 
-//Unlock Double Cross
+[Unlock Double Cross]
 patch=1,EE,202E0178,extended,00000001
 
-//Unlock Night Shift
+[Unlock Night Shift]
 patch=1,EE,202E0190,extended,00000001
 
-//Unlock Chain Reaction
+[Unlock Chain Reaction]
 patch=1,EE,202E01A8,extended,00000001
 
-//Unlock Phoenix Fire
+[Unlock Phoenix Fire]
 patch=1,EE,202E01C0,extended,00000001
 
-//Unlock Deep Descent
+[Unlock Deep Descent]
 patch=1,EE,202E01D8,extended,00000001
 
-//Unlock Island Infiltration
+[Unlock Island Infiltration]
 patch=1,EE,202E01F0,extended,00000001
 
-//Unlock Countdown
+[Unlock Countdown]
 patch=1,EE,202E0208,extended,00000001
 
-//Unlock Equinox
+[Unlock Equinox]
 patch=1,EE,E0011023,extended,001A2080
 patch=1,EE,202E0220,extended,00000001

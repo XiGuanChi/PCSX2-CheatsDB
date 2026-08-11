@@ -1,142 +1,142 @@
 gametitle=Sega Genesis Collection SLUS-21542
-//Alex Kidd in the Enchanted Castle Invincible
+[Alex Kidd in the Enchanted Castle Invincible]
 patch=1,EE,6026B930,extended,00000004
 patch=1,EE,00000001,extended,0001D012
 
-//Golden Axe Infinite Credits 
+[Golden Axe Infinite Credits]
 patch=1,EE,004808B4,extended,00000000
 
-//Altered Beast (Arcade Version)
-//Infinite Credits
+[Altered Beast (Arcade Version)]
+[Infinite Credits]
 patch=1,EE,60206834,extended,00000009
 patch=1,EE,00000001,extended,0000F000
-//P1 Infinite Lives 
+[P1 Infinite Lives]
 patch=1,EE,60206834,extended,0000000B
 patch=1,EE,00000001,extended,0000E018
-//P1 Infinite Energy 
+[P1 Infinite Energy]
 patch=1,EE,60206834,extended,00000070
 patch=1,EE,00000001,extended,0000C04A
-//P1 Invincibility 
+[P1 Invincibility]
 patch=1,EE,60206834,extended,00000003
 patch=1,EE,00000001,extended,0000C03F
-//P2 Infinite Lives 
+[P2 Infinite Lives]
 patch=1,EE,60206834,extended,0000000B
 patch=1,EE,00000001,extended,0000E098
-//P2 Infinite Energy 
+[P2 Infinite Energy]
 patch=1,EE,60206834,extended,00000070
 patch=1,EE,00000001,extended,0000C44A
-//P2 Invincibility 
+[P2 Invincibility]
 patch=1,EE,60206834,extended,00000003
 patch=1,EE,00000001,extended,0000C43F
 
-//Altered Beast (Genesis Version)
-//P1 Infinite Lives
+[Altered Beast (Genesis Version)]
+[P1 Infinite Lives]
 patch=1,EE,6026C348,extended,00000005
 patch=1,EE,00000001,extended,0001B130
-//P1 Infinite Energy 
+[P1 Infinite Energy]
 patch=1,EE,6026C348,extended,00000014
 patch=1,EE,00000001,extended,0001CF20
-//P2 Infinite Lives 
+[P2 Infinite Lives]
 patch=1,EE,6026C348,extended,00000005
 patch=1,EE,00000001,extended,0001B136
-//P2 Infinite Energy 
+[P2 Infinite Energy]
 patch=1,EE,6026C348,extended,00000014
 patch=1,EE,00000001,extended,0001CF60
 
-//Bonanza Bros
-//P1 Infinite Hits
+[Bonanza Bros]
+[P1 Infinite Hits]
 patch=1,EE,6026BA48,extended,00000003
 patch=1,EE,00000001,extended,0001C065
-//P1 Invincible
+[P1 Invincible]
 patch=1,EE,6026BA48,extended,00000002
 patch=1,EE,00000001,extended,000156CF
-//P2 Infinite Hits
+[P2 Infinite Hits]
 patch=1,EE,6026BA48,extended,00000003
 patch=1,EE,00000001,extended,0001C063
-//P2 Invincible
+[P2 Invincible]
 patch=1,EE,6026BA48,extended,00000002
 patch=1,EE,00000001,extended,00015779
-//Infinite Continues
+[Infinite Continues]
 patch=1,EE,6026BA48,extended,00000004
 patch=1,EE,00000001,extended,0001C089
-//Timer Stopped
+[Timer Stopped]
 patch=1,EE,6026BA48,extended,00000000
 patch=1,EE,00000001,extended,00016C5A
 
-//Columns
-//Amount to Jewels to Next Level (9999)
+[Columns]
+[Amount to Jewels to Next Level (9999)]
 patch=1,EE,6026B830,extended,00000F27
 patch=1,EE,00010001,extended,0001C826
-//MAx Score (99999999)
+[MAx Score (99999999)]
 patch=1,EE,6026B830,extended,FFE0F505
 patch=1,EE,00020001,extended,0001C82C
 patch=1,EE,6026B830,extended,99999999
 patch=1,EE,00020001,extended,0001C830
-//Max Amount Of Jewels (9999)
+[Max Amount Of Jewels (9999)]
 patch=1,EE,6026B830,extended,00000F27
 patch=1,EE,00010001,extended,0001C836
 patch=1,EE,6026B830,extended,00009999
 patch=1,EE,00010001,extended,0001C83A
 
-//Max Level (999)
+[Max Level (999)]
 patch=1,EE,6026B830,extended,0000E803
 patch=1,EE,00010001,extended,0001C83E
 patch=1,EE,6026B830,extended,00000999
 patch=1,EE,00010001,extended,0001C842
 
-//Comix Zone
-//Infinite Health
+[Comix Zone]
+[Infinite Health]
 patch=1,EE,6026BF30,extended,0000FF04
 patch=1,EE,00010001,extended,0001BF14
-//Invincible
+[Invincible]
 patch=1,EE,6026BF30,extended,00000016
 patch=1,EE,00000001,extended,0001BF77
-//Invincibility Cheat Enabled
+[Invincibility Cheat Enabled]
 patch=1,EE,6026BF30,extended,000000FF
 patch=1,EE,00000001,extended,0001BEF7
-//Level Select Cheat Enabled (ABC Mode) In the Jukebox, select the sound number that corresponds to desired level and press C. Exit and start the game.
+[Level Select Cheat Enabled (ABC Mode) In the Jukebox, select the sound number that corresponds to desired level and press C. Exit and start the game.]
 patch=1,EE,6026BF30,extended,000000FF
 patch=1,EE,00000001,extended,0001BEF8
 
-//Decap Attack
-//Max/Infinite Health
+[Decap Attack]
+[Max/Infinite Health]
 patch=1,EE,6026BA30,extended,00000404
 patch=1,EE,00010001,extended,0001C276
 patch=1,EE,6026BA30,extended,00040404 
 patch=1,EE,00020001,extended,0001C278
-//Max/Infinite Lives
+[Max/Infinite Lives]
 patch=1,EE,6026BA30,extended,00003939
 patch=1,EE,00010001,extended,0001C28E
-//Invincible Lava pits can still kill you
+[Invincible Lava pits can still kill you]
 patch=1,EE,6026BA30,extended,000000A6
 patch=1,EE,00000001,extended,000180DB
 
-//Ecco the Dolphin Invincibility (Stars) With this code, you will have both infinite health and air.
+[Ecco the Dolphin Invincibility (Stars) With this code, you will have both infinite health and air.]
 patch=1,EE,6026B730,extended,0000000A
 patch=1,EE,00000001,extended,0001B7DD
 
-//Ecco: The Tides of Time Invincibility (Stars) With this code, you will have both infinite health and air.
+[Ecco: The Tides of Time Invincibility (Stars) With this code, you will have both infinite health and air.]
 patch=1,EE,6026BF30,extended,00005802 
 patch=1,EE,00010001,extended,0001AB7C
 
-//Flicky Infinite Lives
+[Flicky Infinite Lives]
 patch=1,EE,6026B330,extended,00000009
 patch=1,EE,00000001,extended,000888C2
 
-//Future Spy Infinite Lives
+[Future Spy Infinite Lives]
 patch=1,EE,0024F10B,extended,00000003
 
-//Future Spy Invincible
+[Future Spy Invincible]
 patch=1,EE,0024F27C,extended,00000000
 
-//Gain Ground
-//Timer Stopped
+[Gain Ground]
+[Timer Stopped]
 patch=1,EE,6026B730,extended,00000000
 patch=1,EE,00000001,extended,0001A215
-//Round Select Cheat Enabled (Options)
+[Round Select Cheat Enabled (Options)]
 patch=1,EE,6026B730,extended,0000FFFF
 patch=1,EE,00010001,extended,0001F814
-//P1 Have All Characters
+[P1 Have All Characters]
 patch=1,EE,6026B730,extended,00000014
 patch=1,EE,00000001,extended,0001A86D
 patch=1,EE,6026B730,extended,00000100
@@ -151,7 +151,7 @@ patch=1,EE,6026B730,extended,11100F0E
 patch=1,EE,00020001,extended,0001A88C
 patch=1,EE,6026B730,extended,00FF1312
 patch=1,EE,00020001,extended,0001A890
-//P2 Have All Characters
+[P2 Have All Characters]
 patch=1,EE,6026B730,extended,00000014
 patch=1,EE,00000001,extended,0001A96D
 patch=1,EE,6026B730,extended,00000100
@@ -169,124 +169,124 @@ patch=1,EE,00020001,extended,0001A990
 
 
 
-//Golden Axe Player 1 Infinite Health 
+[Golden Axe Player 1 Infinite Health]
 patch=1,EE,104808FE,extended,00005050
 
-//Golden Axe Infinite Health - P2
+[Golden Axe Infinite Health - P2]
 patch=1,EE,6026BC48,extended,00005050
 patch=1,EE,00010001,extended,0001FE9E
 
-//Golden Axe II
-//P1 Infinite Lives
+[Golden Axe II]
+[P1 Infinite Lives]
 patch=1,EE,6026B430,extended,00000003
 patch=1,EE,00000001,extended,00010890
-//P1 Infinite Energy
+[P1 Infinite Energy]
 patch=1,EE,6026B430,extended,00000005
 patch=1,EE,00000001,extended,0001084E
-//P1 Infinite Magic
+[P1 Infinite Magic]
 patch=1,EE,6026B430,extended,00000008
 patch=1,EE,00000001,extended,00010892
-//P2 Infinite Lives
+[P2 Infinite Lives]
 patch=1,EE,6026B430,extended,00000003
 patch=1,EE,00000001,extended,00010934
-//P2 Infinite Energy
+[P2 Infinite Energy]
 patch=1,EE,6026B430,extended,00000005
 patch=1,EE,00000001,extended,000108F2
-//P2 Infinite Magic
+[P2 Infinite Magic]
 patch=1,EE,6026B430,extended,00000008
 patch=1,EE,00000001,extended,00010936
 
-//Golden Axe III
-//P1 Infinite Lives
+[Golden Axe III]
+[P1 Infinite Lives]
 patch=1,EE,6026B530,extended,00000009
 patch=1,EE,00000001,extended,0001C8F0
-//P1 Infinite Energy
+[P1 Infinite Energy]
 patch=1,EE,6026B530,extended,00000033
 patch=1,EE,00000001,extended,0001C8F6
-//P1 Infinite Magic
+[P1 Infinite Magic]
 patch=1,EE,6026B530,extended,00000006
 patch=1,EE,00000001,extended,0001C8F4
-//P2 Infinite Lives
+[P2 Infinite Lives]
 patch=1,EE,6026B530,extended,00000009
 patch=1,EE,00000001,extended,0001CA50
-//P2 Infinite Energy
+[P2 Infinite Energy]
 patch=1,EE,6026B530,extended,00000033
 patch=1,EE,00000001,extended,0001CA56
-//P2 Infinite Magic
+[P2 Infinite Magic]
 patch=1,EE,6026B530,extended,00000006
 patch=1,EE,00000001,extended,0001CA54
 
-//Kid Chameleon
-//Timer Stopped
+[Kid Chameleon]
+[Timer Stopped]
 patch=1,EE,6026BE30,extended,00000021
 patch=1,EE,00000001,extended,0001FC2D
-//Infinite Health
+[Infinite Health]
 patch=1,EE,6026BE30,extended,00000005
 patch=1,EE,00000001,extended,0001FC51
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,6026BE30,extended,00000003
 patch=1,EE,00000001,extended,0001FC4F
-//Max Diamonds
+[Max Diamonds]
 patch=1,EE,6026BE30,extended,00000063
 patch=1,EE,00000001,extended,0001FC53
 
-//Phantasy Star 2
-//Infinite Meseta
+[Phantasy Star 2]
+[Infinite Meseta]
 patch=1,EE,6026B740,extended,0000FFFF
 patch=1,EE,00010001,extended,0001C632
-//Characters 1
-//LVL
+[Characters 1]
+[LVL]
 patch=1,EE,6026B740,extended,00000063
 patch=1,EE,00000001,extended,0001C01B
-//Current HP
+[Current HP]
 patch=1,EE,6026B740,extended,0000E703
 patch=1,EE,00010001,extended,0001C012
-//Max HP
+[Max HP]
 patch=1,EE,6026B740,extended,0000E703
 patch=1,EE,00010001,extended,0001C014
-//Current TP
+[Current TP]
 patch=1,EE,6026B740,extended,0000E703
 patch=1,EE,00010001,extended,0001C016
-//Max TP
+[Max TP]
 patch=1,EE,6026B740,extended,0000E703
 patch=1,EE,00010001,extended,0001C018
-//No Random Battles
+[No Random Battles]
 patch=0,EE,6026B740,extended,00000000
 patch=0,EE,00000001,extended,0001CB1D
 
-//Phantasy Star III - Generations of Doom
-//Infinite Meseta
+[Phantasy Star III - Generations of Doom]
+[Infinite Meseta]
 patch=1,EE,6026B630,extended,FFE0F505
 patch=1,EE,00020001,extended,0001C050
 
-//Vhys
-//Level
+[Vhys]
+[Level]
 patch=1,EE,6026B630,extended,00000032
 patch=1,EE,00000001,extended,0001C0BD
-//Max HP
+[Max HP]
 patch=1,EE,6026B630,extended,0000E803
 patch=1,EE,00010001,extended,0001C0BE
-//Intel/TPmax
+[Intel/TPmax]
 patch=1,EE,6026B630,extended,0000E803
 patch=1,EE,00010001,extended,0001C0C0
-//Inf HP
+[Inf HP]
 patch=1,EE,6026B630,extended,0000E803
 patch=1,EE,00010001,extended,0001C0C2
-//INF TP
+[INF TP]
 patch=1,EE,6026B630,extended,0000E803
 patch=1,EE,00010001,extended,0001C0C4
-//No Random Battles
+[No Random Battles]
 patch=0,EE,6026B630,extended,00000020
 patch=0,EE,00000001,extended,0001C04F
 
-//Phantasy Star IV - End of the Milleniu
-//Infinite Meseta
+[Phantasy Star IV - End of the Milleniu]
+[Infinite Meseta]
 patch=1,EE,6026BA30,extended,00000098
 patch=1,EE,00000001,extended,0001F449
 patch=1,EE,6026BA30,extended,00007F96
 patch=1,EE,00010001,extended,0001F44A
 
-//MUST BE ON FOR Infinite All codes
+[MUST BE ON FOR Infinite All codes]
 patch=1,EE,200C0600,extended,3C010027
 patch=1,EE,200C0604,extended,8C21BA30
 patch=1,EE,200C0608,extended,3C040001
@@ -298,13 +298,13 @@ patch=1,EE,200C0678,extended,1720FFEF
 patch=1,EE,200C067C,extended,24210080
 patch=1,EE,200C06C4,extended,03E00008
 patch=1,EE,2015173C,extended,08030180
-//Infinite HP - All
+[Infinite HP - All]
 patch=1,EE,200C0638,extended,84240008
 patch=1,EE,200C063C,extended,A4240006
-//Infinite TP - All
+[Infinite TP - All]
 patch=1,EE,200C0640,extended,8424000C
 patch=1,EE,200C0644,extended,A424000A
-//Infinite Skill Usage - All
+[Infinite Skill Usage - All]
 patch=1,EE,200C064C,extended,00202821
 patch=1,EE,200C0650,extended,34180008
 patch=1,EE,200C0654,extended,80A40063
@@ -312,164 +312,164 @@ patch=1,EE,200C0658,extended,A0A40062
 patch=1,EE,200C065C,extended,2718FFFF
 patch=1,EE,200C0660,extended,1700FFFC
 patch=1,EE,200C0664,extended,24A50002
-//No Random Battles
+[No Random Battles]
 patch=0,EE,6026BA30,extended,0000000A
 patch=0,EE,00000001,extended,0001ECF4
 
-//RiStar
-//Max Pts
+[RiStar]
+[Max Pts]
 patch=1,EE,6026BC30,extended,1C969800
 patch=1,EE,00020001,extended,0001E584
-//Infinite HP
+[Infinite HP]
 patch=1,EE,6026BC30,extended,00000004
 patch=1,EE,00000001,extended,0001C048
-//Level Select Cheat Enabled
+[Level Select Cheat Enabled]
 patch=1,EE,6026BC30,extended,00000004
 patch=1,EE,00000001,extended,0001FE14
-//Invincible Cheat Enabled 
+[Invincible Cheat Enabled]
 patch=1,EE,6026BC30,extended,00000002
 patch=1,EE,00000001,extended,0001FE14
 
-//Shadow Dancer Invincible 
+[Shadow Dancer Invincible]
 patch=1,EE,6026B430,extended,00000080
 patch=1,EE,00000001,extended,000113B9
-//Shadow Dancer Infinite Lives 
+[Shadow Dancer Infinite Lives]
 patch=1,EE,00471A5E,extended,00000099
-//Shadow Dancer Infinite Ninja Magic 
+[Shadow Dancer Infinite Ninja Magic]
 patch=1,EE,00471A64,extended,00000001
 
-//Shinobi 3 - Return of the Ninja Master
-//Infinite Health
+[Shinobi 3 - Return of the Ninja Master]
+[Infinite Health]
 patch=1,EE,6026B330,extended,00000010
 patch=1,EE,00000001,extended,000137F9
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,6026B330,extended,00000002
 patch=1,EE,00000001,extended,000137F0
-//Infinite Shurikens
+[Infinite Shurikens]
 patch=1,EE,6026B330,extended,00000032
 patch=1,EE,00000001,extended,000137F3
-//Infinite Jitsu
+[Infinite Jitsu]
 patch=1,EE,6026B330,extended,00000001
 patch=1,EE,00000001,extended,000137F6
-//Invincible
+[Invincible]
 patch=1,EE,6026B330,extended,00000001
 patch=1,EE,00000001,extended,00014175
 
-//Sonic The Hedgehog P1 Invincibility
+[Sonic The Hedgehog P1 Invincibility]
 patch=1,EE,6026BC48,extended,00000001
 patch=1,EE,00000001,extended,0001FE3D
-//Sonic the Hedgehog
-//Infinite Lives
+[Sonic the Hedgehog]
+[Infinite Lives]
 patch=1,EE,6026BC48,extended,00000003
 patch=1,EE,00000001,extended,0001FE22
-//Infinite Air
+[Infinite Air]
 patch=1,EE,6026BC48,extended,0000001E
 patch=1,EE,00000001,extended,0001FE25
-//All Chaos Emeralds Collected
+[All Chaos Emeralds Collected]
 patch=1,EE,6026BC48,extended,00000006
 patch=1,EE,00000001,extended,0001FE67
-//Level Select/In-Game Reset/Debug Mode Enabled (ABC Mode)
-//At the title screen, hold A and press Start for level select; while in-game, pause and press A to reset game; before the stage loads, hold A until it is displayed to enable debug mode.
+[Level Select/In-Game Reset/Debug Mode Enabled (ABC Mode)]
+[At the title screen, hold A and press Start for level select; while in-game, pause and press A to reset game; before the stage loads, hold A until it is displayed to enable debug mode.]
 patch=1,EE,6026BC48,extended,00010101
 patch=1,EE,00020001,extended,0001FFF0
-//InfiniteHP/99 Coins
+[InfiniteHP/99 Coins]
 patch=1,EE,6026BC48,extended,00000063
 patch=1,EE,00000001,extended,0001FE31
 
-//Sonic The Hedgehog 2 P1 Infinite Shields
+[Sonic The Hedgehog 2 P1 Infinite Shields]
 patch=1,EE,6026BE48,extended,00000001
 patch=1,EE,00000001,extended,0001B03B
-//Sonic The Hedgehog 2 P1 Invincibility
+[Sonic The Hedgehog 2 P1 Invincibility]
 patch=1,EE,6026BE48,extended,00000002
 patch=1,EE,00000001,extended,0001B03B
-//Level Select/In-Game Reset/Debug Mode Enabled (ABC Mode) At the title screen, hold A and press Start for level select; while in-game, pause and press A to reset game; before the stage loads, hold A until it is displayed to enable debug mode.
+[Level Select/In-Game Reset/Debug Mode Enabled (ABC Mode) At the title screen, hold A and press Start for level select; while in-game, pause and press A to reset game; before the stage loads, hold A until it is displayed to enable debug mode.]
 patch=1,EE,6026BE48,extended,00010101
 patch=1,EE,00020001,extended,0001FFE0
 
-//Sword of Vermilion
-//All Cave Maps (All Levels)
+[Sword of Vermilion]
+[All Cave Maps (All Levels)]
 patch=1,EE,6026B330,extended,000000FF
 patch=1,EE,00000001,extended,0001C8D9
-//All Overworld Maps
+[All Overworld Maps]
 patch=1,EE,6026B330,extended,000000FF
 patch=1,EE,00000001,extended,0001C56F
-//Max/Inf Money 
+[Max/Inf Money]
 patch=1,EE,6026B330,extended,00000099
 patch=1,EE,00000001,extended,0001C631
 patch=1,EE,6026B330,extended,00009999
 patch=1,EE,00010001,extended,0001C632
-//nf HP
+[nf HP]
 patch=1,EE,6026B330,extended,00000F27
 patch=1,EE,00010001,extended,0001C63C
-//Max HPr
+[Max HPr]
 patch=1,EE,6026B330,extended,00000F27
 patch=1,EE,00010001,extended,0001C63E
-//Inf MP
+[Inf MP]
 patch=1,EE,6026B330,extended,00000F27
 patch=1,EE,00010001,extended,0001C640
-//Max MP
+[Max MP]
 patch=1,EE,6026B330,extended,00000F27
 patch=1,EE,00010001,extended,0001C642
 
-//Super Tunder Blade
-//Inf Lives
+[Super Tunder Blade]
+[Inf Lives]
 patch=1,EE,6026B530,extended,00000008
 patch=1,EE,00000001,extended,0001F83A
-//Invincible
+[Invincible]
 patch=1,EE,6026B530,extended,000000FF
 patch=1,EE,00000001,extended,0001A037
 
-//TAC/SCAN Max Refills
+[TAC/SCAN Max Refills]
 patch=1,EE,00255E52,extended,00000099
 
-//Vectorman
-//Cheats Press A for Debug Menu (Options) (ABC Mode)
+[Vectorman]
+[Cheats Press A for Debug Menu (Options) (ABC Mode)]
 patch=1,EE,6026B930,extended,00000008
 patch=1,EE,00000001,extended,0001E8B8
-//Infinite Time
+[Infinite Time]
 patch=1,EE,6026B930,extended,00003B04
 patch=1,EE,00010001,extended,0001E8A0
-//Invincible
+[Invincible]
 patch=1,EE,6026B930,extended,0000001F
 patch=1,EE,00000001,extended,0001E47C
-//Max/Infinite Health
+[Max/Infinite Health]
 patch=1,EE,6026B930,extended,0000000A
 patch=1,EE,00000001,extended,0001E889
-//Infinite Ammo (All Weapons)
+[Infinite Ammo (All Weapons)]
 patch=1,EE,6026B930,extended,00000078
 patch=1,EE,00000001,extended,0001E897
 
-//Vectorman 2
-//Pause the game to enable these codes. Only use 1 cheat at a time.
-//Press Down for Level Select (ABC Mode)
+[Vectorman 2]
+[Pause the game to enable these codes. Only use 1 cheat at a time.]
+[Press Down for Level Select (ABC Mode)]
 patch=1,EE,6026B730,extended,00000008
 patch=1,EE,00000001,extended,0001ED13
-//Infinite Time
+[Infinite Time]
 patch=1,EE,6026B730,extended,00003B04
 patch=1,EE,00010001,extended,0001E9E2
-//Invincible
+[Invincible]
 patch=1,EE,6026B730,extended,00000024
 patch=1,EE,00000001,extended,0001E5BA
-//Infinite Ammo (All Weapons)
+[Infinite Ammo (All Weapons)]
 patch=1,EE,6026B730,extended,00000064
 patch=1,EE,00000001,extended,0001E9D9
 
-//Virtua Fighter 2 Genesis Version P1 Infinite HP
+[Virtua Fighter 2 Genesis Version P1 Infinite HP]
 patch=1,EE,6026B930,extended,00007070
 patch=1,EE,00010001,extended,0001DCF2
 
-//Zaxxon
-//Infinite Lives
+[Zaxxon]
+[Infinite Lives]
 patch=1,EE,0024ED17,extended,00000003 
-//Infinite Fuel
+[Infinite Fuel]
 patch=1,EE,0024EF61,extended,0000007F 
-//Invincible
+[Invincible]
 patch=1,EE,0024F0B7,extended,00000000
 
-//Zektor Player 1 Infinite Lives
+[Zektor Player 1 Infinite Lives]
 patch=1,EE,002578E1,extended,00000099
 
-//Everything Unlocked
+[Everything Unlocked]
 patch=1,EE,402B9A68,extended,000B0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,002B9A94,extended,00000001

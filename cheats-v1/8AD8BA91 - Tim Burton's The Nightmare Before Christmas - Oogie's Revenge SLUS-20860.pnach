@@ -1,39 +1,39 @@
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,2049B494,extended,0000001E
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2049B498,extended,0000001E
 
-//Cheats/Max Soul Robber Level
+[Cheats/Max Soul Robber Level]
 patch=1,EE,2049B49C,extended,00000002
 
-//Cheats/Max Souls
+[Cheats/Max Souls]
 patch=1,EE,2049B4D4,extended,0001869F
 
-//Cheats/Infinite Blue Souls
+[Cheats/Infinite Blue Souls]
 patch=1,EE,2049B4E4,extended,00000009
 
-//Cheats/Infinite Red Souls
+[Cheats/Infinite Red Souls]
 patch=1,EE,2049B534,extended,00000032
 
-//Cheats/Infinite Crystal Skulls
+[Cheats/Infinite Crystal Skulls]
 patch=1,EE,2049B54C,extended,00000004
 
-//Cheats/Unlock All Chapters
+[Cheats/Unlock All Chapters]
 patch=1,EE,204F2618,extended,00000018
 
-//Cheats/Have All Collection
+[Cheats/Have All Collection]
 patch=1,EE,404F28A0,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Figures
+[Cheats/Unlock All Figures]
 patch=1,EE,404F28AC,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Music Tracks
+[Cheats/Unlock All Music Tracks]
 patch=1,EE,204F28B8,extended,FFFFFFFF
 patch=1,EE,204F28BC,extended,FFFFFFFF
 
-//Cheats/Unlock All Movie Clips
+[Cheats/Unlock All Movie Clips]
 patch=1,EE,404F28C0,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000

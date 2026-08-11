@@ -1,15 +1,15 @@
 gametitle=Fatal Frame II - Crimson Butterfly SLUS-20766
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202E0DB8,extended,00006000
 patch=1,EE,202E0DBC,extended,00006000
 
-//Max Spirit Orbs
+[Max Spirit Orbs]
 patch=1,EE,20344250,extended,00000063
 
-//Camera Basic Functions: Have All Power-Up Lenses
+[Camera Basic Functions: Have All Power-Up Lenses]
 patch=1,EE,102BE1AC,extended,0000FFFF
 
-//Always Low Game Play Time
+[Always Low Game Play Time]
 patch=1,EE,20408E30,extended,00000000
 patch=1,EE,20408E34,extended,00000000
 patch=1,EE,20408E38,extended,00000000

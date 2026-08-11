@@ -1,16 +1,16 @@
-//Cheats/Infinite Lives Both Players
+[Cheats/Infinite Lives Both Players]
 patch=1,EE,20130C38,extended,00000000
 
-//Cheats/Invincible Both Players
+[Cheats/Invincible Both Players]
 patch=1,EE,10156482,extended,00001000
 
-//Cheats/Infinite Credits
+[Cheats/Infinite Credits]
 patch=1,EE,203C831C,extended,00000063
 
-//Cheats/All Missions Completed
+[Cheats/All Missions Completed]
 patch=1,EE,403C8394,extended,00050001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Unlock All
+[Cheats/Unlock All]
 patch=1,EE,203C8364,extended,FFFFFFFF
 patch=1,EE,203C8368,extended,FFFFFFFF

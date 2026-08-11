@@ -1,5 +1,5 @@
 gametitle=Monopoly Party! SLES-51145
-//Unlimited Money Player 1
+[Unlimited Money Player 1]
 patch=1,EE,200C0000,extended,16400006
 patch=1,EE,200C0004,extended,AFA4FFF8
 patch=1,EE,200C0008,extended,3C010001

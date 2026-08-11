@@ -1,16 +1,16 @@
-//Cheats/Opponents Don't Move
+[Cheats/Opponents Don't Move]
 patch=1,EE,2024CA4C,extended,00000000
 
-//Cheats/No Loss of Speed if you go off the Road or Collide With Walls
+[Cheats/No Loss of Speed if you go off the Road or Collide With Walls]
 patch=1,EE,20268294,extended,00000000
 patch=1,EE,20266C1C,extended,00000000
 patch=1,EE,20266C34,extended,00000000
 
-//Cheats/Unlock All Challenges
+[Cheats/Unlock All Challenges]
 patch=1,EE,4030ED14,extended,00120001
 patch=1,EE,02020202,extended,00000000
 
-//Cheats/Unlock All Challenges Complete
+[Cheats/Unlock All Challenges Complete]
 patch=1,EE,2030ED14,extended,02020202
 patch=1,EE,2030ED18,extended,02020202
 patch=1,EE,2030ED1C,extended,02020202

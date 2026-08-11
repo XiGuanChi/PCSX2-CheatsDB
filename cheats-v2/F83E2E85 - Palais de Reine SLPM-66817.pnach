@@ -1,21 +1,21 @@
 gametitle=Palais de Reine SLPM-66817
-//Maximum possession gold
+[Maximum possession gold]
 patch=1,EE,20B9BEF4,extended,0000270F
 
-//Maximum funds for Rosanju
+[Maximum funds for Rosanju]
 patch=1,EE,20B9A104,extended,0000270F
 
-//Not to overwork
+[Not to overwork]
 patch=1,EE,2017D978,extended,10000017
 
-//Not died in a duel
+[Not died in a duel]
 patch=1,EE,20172E20,extended,0000B82D
 patch=1,EE,20172E34,extended,0000F02D
 
-//If you decrease the remaining stamina x Part 1
+[If you decrease the remaining stamina x Part 1]
 patch=1,EE,2017497C,extended,24030009
 
-//MEMORIES fully open
+[MEMORIES fully open]
 patch=1,EE,40B9CC5C,extended,00210001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10B9CCE0,extended,0000FFFF

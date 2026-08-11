@@ -1,21 +1,21 @@
-//Cheats/Unlock Chapter 2 can be selected even if it is not cleared
+[Cheats/Unlock Chapter 2 can be selected even if it is not cleared]
 patch=1,EE,203E6928,extended,00000001
 
-//Cheats/Unlock Premier Reference
+[Cheats/Unlock Premier Reference]
 patch=1,EE,203E6920,extended,00000001
 
-//Cheats/Unlock All CG Gallery 100% when entering
+[Cheats/Unlock All CG Gallery 100% when entering]
 patch=1,EE,2025BF48,extended,3402FFFF
 patch=1,EE,2025BF4C,extended,AC620640
 patch=1,EE,2025BF50,extended,2442FFFE
 
-//Cheats/Unlock All Recollection Mode 100% when entering
+[Cheats/Unlock All Recollection Mode 100% when entering]
 patch=1,EE,20259AB0,extended,24030001
 patch=1,EE,20259AC0,extended,AC830000
 patch=1,EE,20259AE0,extended,24030001
 patch=1,EE,20259AF0,extended,AC83FFFC
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,403E6920,extended,00C80001
 patch=1,EE,FFFFFFFF,extended,00000000
 

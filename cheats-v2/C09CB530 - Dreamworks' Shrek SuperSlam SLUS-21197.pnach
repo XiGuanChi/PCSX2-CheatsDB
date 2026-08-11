@@ -1,9 +1,9 @@
 gametitle=Dreamworks' Shrek SuperSlam SLUS-21197
-//Unlock All Chapters
+[Unlock All Chapters]
 patch=1,EE,20207C2C,extended,24020001
 patch=1,EE,20207C30,extended,A06203C4
 
-//Have All Mega Challenge Completed
+[Have All Mega Challenge Completed]
 patch=1,EE,200C0220,extended,24020001
 patch=1,EE,200C0224,extended,08071288
 patch=1,EE,200C0228,extended,A0620244
@@ -11,8 +11,8 @@ patch=1,EE,201C49E4,extended,08030088
 patch=1,EE,20204C6C,extended,24030001
 patch=1,EE,20204C74,extended,A0430000
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,204B754C,extended,00000001
 
-//Debug Menu (Hold Select, Then Press Triangle)
+[Debug Menu (Hold Select, Then Press Triangle)]
 patch=1,EE,204B75A0,extended,00000001

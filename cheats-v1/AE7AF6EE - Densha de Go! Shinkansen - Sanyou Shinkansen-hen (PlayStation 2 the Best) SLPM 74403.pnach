@@ -1,13 +1,13 @@
-//Cheats/No Forced Stop When Overrunning To be precise, the activation distance is simply set to a distance that is virtually infinite
+[Cheats/No Forced Stop When Overrunning To be precise, the activation distance is simply set to a distance that is virtually infinite]
 patch=1,EE,20128FAC,extended,3C02F248
 
-//Cheats/Vehicle Specific Speed Limits Disabled
+[Cheats/Vehicle Specific Speed Limits Disabled]
 patch=1,EE,2016C200,extended,00000000
 
-//Cheats/ATC Limit 999km Per Hour
+[Cheats/ATC Limit 999km Per Hour]
 patch=1,EE,20172460,extended,00000000
 patch=1,EE,201724EC,extended,2405270F
 patch=1,EE,201724F0,extended,A7859490
 
-//Cheats/Change Passing Grade Points To 0
+[Cheats/Change Passing Grade Points To 0]
 patch=1,EE,20127554,extended,AF808B80

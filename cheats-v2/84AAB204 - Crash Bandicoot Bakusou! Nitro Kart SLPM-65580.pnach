@@ -1,7 +1,7 @@
 gametitle=Crash Bandicoot Bakusou! Nitro Kart SLPM-65580
-//MAX after getting an apple
+[MAX after getting an apple]
 patch=1,EE,9C84DC08,extended,1478 CDC6
 
-//Team gauge immediately MAX
+[Team gauge immediately MAX]
 patch=1,EE,A0151B64,extended,E6200168
 

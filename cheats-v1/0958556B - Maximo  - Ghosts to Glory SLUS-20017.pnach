@@ -1,20 +1,20 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,1025CEA0,extended,00000010
 
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,1025CEA8,extended,00000063
 
-//Cheats/Max Gold Koins
+[Cheats/Max Gold Koins]
 patch=1,EE,1025CEAC,extended,000003E7
 
-//Cheats/Have Gold Key
+[Cheats/Have Gold Key]
 patch=1,EE,1025CECC,extended,00000001
 
-//Cheats/Unlock Mastery
+[Cheats/Unlock Mastery]
 patch=1,EE,101CF904,extended,00000001
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,101CF914,extended,00000001
 
-//Cheats/Unlock Play Story Sequences
+[Cheats/Unlock Play Story Sequences]
 patch=1,EE,101CF954,extended,00000001

@@ -1,28 +1,28 @@
-//Cheats/Max Cash ASM
+[Cheats/Max Cash ASM]
 patch=1,EE,20222A18,extended,3C0205F5
 patch=1,EE,20222A1C,extended,3442E0FF
 
-//Cheats/Extra Cash
+[Cheats/Extra Cash]
 patch=1,EE,20228FF8,extended,02028021
 
-//Cheats/Max Cash Mem address Alt
+[Cheats/Max Cash Mem address Alt]
 patch=1,EE,20A4FF20,extended,05F5E0FF
 
-//Cheats/Always 1st Place
+[Cheats/Always 1st Place]
 patch=1,EE,2038863c,extended,24020001
 
-//Cheats/Instant Outrageous Drift
+[Cheats/Instant Outrageous Drift]
 patch=1,EE,2041C1C0,extended,3C0205F0
 
-//Cheats/Disable Car Damage
+[Cheats/Disable Car Damage]
 patch=1,EE,201E54D0,extended,10000021
 
-//Cheats/Ininite Nos
+[Cheats/Ininite Nos]
 patch=1,EE,201acd64,extended,34420063
 patch=1,EE,201ace70,extended,ae000160
 
-//Cheats/Freeze Timer
+[Cheats/Freeze Timer]
 patch=1,EE,201E5E1C,extended,00000000
 
-//Cheats/Unlock All Parts, Cars. Races and Challenges
+[Cheats/Unlock All Parts, Cars. Races and Challenges]
 patch=1,EE,20678B94,extended,00000001

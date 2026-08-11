@@ -1,17 +1,17 @@
-//Cheats/Max Score 999999999
+[Cheats/Max Score 999999999]
 patch=1,EE,204E51CC,extended,3B9AC9FF
 
-//Cheats/Max Combo Hits 999
+[Cheats/Max Combo Hits 999]
 patch=1,EE,202a0834,extended,00000000
 
-//Cheats/Unlock All Galleries
+[Cheats/Unlock All Galleries]
 patch=1,EE,404E53A4,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/All missions Points Max Working on S rank
+[Cheats/All missions Points Max Working on S rank]
 patch=1,EE,404E54BC,extended,001F0001
 patch=1,EE,3B9AC9FF,extended,00000000
 
-//Cheats/Unlock All Characters Must Save First With code on Then reload Save for code to work
+[Cheats/Unlock All Characters Must Save First With code on Then reload Save for code to work]
 patch=1,EE,204E53F8,extended,FFFFFFFF
 

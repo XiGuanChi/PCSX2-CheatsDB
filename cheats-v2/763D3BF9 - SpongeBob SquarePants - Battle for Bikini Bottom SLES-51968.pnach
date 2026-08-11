@@ -1,9 +1,9 @@
 gametitle=SpongeBob SquarePants - Battle for Bikini Bottom SLES-51968
-//I9999 Shiney Objects
+[I9999 Shiney Objects]
 patch=1,EE,2052E070,extended,0000270F
 
-//999 Golden Stapulas
+[999 Golden Stapulas]
 patch=1,EE,2052E074,extended,000003E7
 
-//Infinite Pants (Health)
+[Infinite Pants (Health)]
 patch=1,EE,2052DC10,extended,00000003

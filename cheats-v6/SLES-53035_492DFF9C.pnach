@@ -1,6 +1,6 @@
 gametitle=Masters of the Universe - He-Man - Defender of Greyskull PAL-E SLES-53035 492DFF9C
 
-//NTSC Mode
+[NTSC Mode]
 author=GamingDragon93
 description=NTSC mode at start. (Alpha patch)
 patch=0,EE,002e98e0,word,24060002 //24060003

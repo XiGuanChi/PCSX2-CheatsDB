@@ -1,11 +1,11 @@
 gametitle=The Sopranos - Road to Respect SLES-54209
-//Infinite Money
+[Infinite Money]
 patch=1,EE,204A5A40,extended,05F00000
 
-//Max Respect
+[Max Respect]
 patch=1,EE,004A5A44,extended,00000064
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200FFF00,extended,8C820018
 patch=1,EE,202350F8,extended,0803FFC0
 patch=1,EE,200FFF04,extended,10020006
@@ -15,9 +15,9 @@ patch=1,EE,200FFF1C,extended,A451000E
 patch=1,EE,200FFF20,extended,0080882D
 patch=1,EE,200FFF24,extended,0808D440
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,0040C8C0,extended,00000001
 
-//All Special Moves
+[All Special Moves]
 patch=1,EE,2013C2D0,extended,24020000
 patch=1,EE,2013C2D4,extended,A462416C

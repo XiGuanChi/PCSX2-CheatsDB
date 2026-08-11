@@ -1,17 +1,17 @@
-//Cheats/Infinite Continues
+[Cheats/Infinite Continues]
 patch=1,EE,20D76560,extended,00000009
 
-//Cheats/Unlock All stages
+[Cheats/Unlock All stages]
 patch=1,EE,20D76A80,extended,00000025
 patch=1,EE,20D76AB0,extended,00000025
 patch=1,EE,20D76A50,extended,00000025
 patch=1,EE,20D76A20,extended,00000025
 
-//Cheats/Unlock All Databases
+[Cheats/Unlock All Databases]
 patch=1,EE,20D76B60,extended,0000000F
 patch=1,EE,20D76B74,extended,0000000F
 patch=1,EE,20D76B4C,extended,0000000F
 patch=1,EE,20D76B38,extended,0000000F
 
-//Cheats/Unlock All Characters And Extra Modes
+[Cheats/Unlock All Characters And Extra Modes]
 patch=1,EE,20D76B20,extended,FFFFFFFF

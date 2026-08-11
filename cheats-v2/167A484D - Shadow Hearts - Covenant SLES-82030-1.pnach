@@ -1,33 +1,33 @@
 gametitle=Shadow Hearts - Covenant SLES-82030-1
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,20102D34,extended,05F5E0FF
 
-//Infinite HP (InBattle)
+[Infinite HP (InBattle)]
 patch=1,EE,EFA30080,extended,006AEDB4
 patch=1,EE,206AEDBC,extended,240103E7
 patch=1,EE,206AEDC0,extended,A4610130
 
-//Infinite MP (InBattle)
+[Infinite MP (InBattle)]
 patch=1,EE,D06AEDB4,extended,8FA30080
 patch=1,EE,206AEDC4,extended,A4610136
 
-//Infinite SP (InBattle)
+[Infinite SP (InBattle)]
 patch=1,EE,EFA30080,extended,006AEDB4
 patch=1,EE,206AEDF4,extended,24010063
 patch=1,EE,206AEDF8,extended,A461013A
 
-//Karin Infinite HP
+[Karin Infinite HP]
 patch=1,EE,2010054A,extended,000003E7
 patch=1,EE,20100548,extended,000003E7
 
-//Karin Infinite MP
+[Karin Infinite MP]
 patch=1,EE,2010054C,extended,000003E7
 patch=1,EE,2010054E,extended,000003E7
 
-//Nicolai Infinite HP
+[Nicolai Infinite HP]
 patch=1,EE,201009C8,extended,000003E7
 patch=1,EE,201009CA,extended,000003E7
 
-//Nicolai Infinite NP
+[Nicolai Infinite NP]
 patch=1,EE,201009CC,extended,000003E7
 patch=1,EE,201009CE,extended,000003E7

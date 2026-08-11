@@ -1,13 +1,13 @@
 gametitle=Star Wars - Battlefront SLPM-65687
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202C2BB4,extended,3E0145FA
 patch=1,EE,202C2BC4,extended,AC410000
 
-//Infinite bullets
+[Infinite bullets]
 patch=1,EE,202891E4,extended,00000000
 
-//invincible
+[invincible]
 patch=1,EE,00519C20,extended,00000001
 
-//Special fully open
+[Special fully open]
 patch=1,EE,20645878,extended,FFFFFFFF

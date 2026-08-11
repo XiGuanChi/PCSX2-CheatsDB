@@ -1,42 +1,42 @@
-//Cheats/Max Money 99,999,990,000 yen
+[Cheats/Max Money 99,999,990,000 yen]
 patch=1,EE,20A3E300,extended,05F5E0FF
 
-//Cheats/All Amulets
+[Cheats/All Amulets]
 patch=1,EE,20A3FE80,extended,63636363
 
-//Cheats/Construction Period
+[Cheats/Construction Period]
 patch=1,EE,20276540,extended,03E00008
 patch=1,EE,20276544,extended,24020001
 
-//Cheats/Administrator Reputation Value 50000
+[Cheats/Administrator Reputation Value 50000]
 patch=1,EE,10BE1288,extended,0000C350
 
-//Cheats/Jockey Friendship Level Max
+[Cheats/Jockey Friendship Level Max]
 patch=1,EE,2019F750,extended,03E00008
 patch=1,EE,2019F754,extended,24020064
 
-//Cheats/Trainer Friendship Level Max
+[Cheats/Trainer Friendship Level Max]
 patch=1,EE,201DAC60,extended,03E00008
 patch=1,EE,201DAC64,extended,24020064
 
-//Cheats/Farm Manager Friendship Level Max
+[Cheats/Farm Manager Friendship Level Max]
 patch=1,EE,2018D180,extended,03E00008
 patch=1,EE,2018D184,extended,24020064
 
-//Cheats/Owner Friendship Level Max
+[Cheats/Owner Friendship Level Max]
 patch=1,EE,201A89F0,extended,03E00008
 patch=1,EE,201A89F4,extended,24020064
 
-//Cheats/Acquaintance Friendship Level Max
+[Cheats/Acquaintance Friendship Level Max]
 patch=1,EE,201AC5D0,extended,03E00008
 patch=1,EE,201AC5D4,extended,24020064
 
-//Cheats/Unlimited purchase of young horses
+[Cheats/Unlimited purchase of young horses]
 patch=1,EE,201FAC40,extended,100002C2
 
-//Cheats/Young piece growth release
+[Cheats/Young piece growth release]
 patch=1,EE,203951BC,extended,00000000
 
-//Cheats/Racehorse growth release
+[Cheats/Racehorse growth release]
 patch=1,EE,20394D74,extended,00000000
 

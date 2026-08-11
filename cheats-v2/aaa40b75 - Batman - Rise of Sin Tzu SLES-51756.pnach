@@ -1,38 +1,38 @@
 gametitle=Batman - Rise of Sin Tzu SLES-51756
 gametitle=H
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202360D0,extended,03E00008
 patch=1,EE,202360D4,extended,00000000
 
-//Freeze Timers
+[Freeze Timers]
 patch=1,EE,20370AE0,extended,03E00008
 patch=1,EE,20370AE4,extended,00000000
 
-//All Cinematics Opened
+[All Cinematics Opened]
 patch=1,EE,202C885C,extended,24020001
 
-//All Concepts Arts
+[All Concepts Arts]
 patch=1,EE,202C88BC,extended,24020001
 
-//All Toys
+[All Toys]
 patch=1,EE,202C891C,extended,24020001
 
-//All Villain Exhibit
+[All Villain Exhibit]
 patch=1,EE,202C897C,extended,24020001
 
-//All Hero Exhibit
+[All Hero Exhibit]
 patch=1,EE,202C89DC,extended,24020001
 
-//All Comics
+[All Comics]
 patch=1,EE,202C8CD0,extended,24020001
 patch=1,EE,202C8D00,extended,24020001
 
-//All Gadgets
+[All Gadgets]
 patch=1,EE,202C9100,extended,24020001
 patch=1,EE,202C910C,extended,24020001
 
-//Infinite Points Use
+[Infinite Points Use]
 patch=1,EE,202C930C,extended,00000000
 
-//1 Hit Kill
+[1 Hit Kill]
 patch=1,EE,201AC63C,extended,00000000

@@ -1,15 +1,15 @@
 gametitle=Shinkyouku Soukai Polyphonica - After School SLPM-55270
-//Extra special fully open
+[Extra special fully open]
 patch=1,EE,002CB198,extended,00000001
 
-//Enable Debug Mode Controller #1 debug inputs:
-//Triangle + Circle + X + Square + Start will return you to the title screen.
-//Select + Triangle will enable or disable progressive mode.
-//Controller #2 debug inputs:
-//Circle to toggle debug modes. Press this once or twice to enable sound test options in the Settings menu in the main menu. This will also open a scene select menu in the pause menu in game.
-//Select for screen capture menu. This will save an image in raw bmp format to your memory card.
-//Triangle to log printf information.
-//Square to toggle Debug flag on or off. This unlocks everything.
-//X to log printf information.
-//R1 to log printf information.
+[Enable Debug Mode Controller #1 debug inputs:]
+[Triangle + Circle + X + Square + Start will return you to the title screen.]
+[Select + Triangle will enable or disable progressive mode.]
+[Controller #2 debug inputs:]
+[Circle to toggle debug modes. Press this once or twice to enable sound test options in the Settings menu in the main menu. This will also open a scene select menu in the pause menu in game.]
+[Select for screen capture menu. This will save an image in raw bmp format to your memory card.]
+[Triangle to log printf information.]
+[Square to toggle Debug flag on or off. This unlocks everything.]
+[X to log printf information.]
+[R1 to log printf information.]
 patch=0,EE,202CB0F0,extended,00000001

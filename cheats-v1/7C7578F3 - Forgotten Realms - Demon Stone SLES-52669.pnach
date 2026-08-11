@@ -1,25 +1,25 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2026313C,extended,3C013F80
 patch=1,EE,20263140,extended,44810000
 patch=1,EE,20263138,extended,E460030C
 
-//Cheats/Infinite Health and 1 Hit Deaths For Enemies
+[Cheats/Infinite Health and 1 Hit Deaths For Enemies]
 patch=1,EE,201AA6A0,extended,24030001
 patch=1,EE,201AA6B4,extended,10610002
 patch=1,EE,201AA6BC,extended,AE80030C
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,201A85EC,extended,00000000
 
-//Cheats/Infinite Arrows
+[Cheats/Infinite Arrows]
 patch=1,EE,201A8708,extended,00000000
 
-//Cheats/Max Hero Meter
+[Cheats/Max Hero Meter]
 patch=1,EE,200C0230,extended,3C013F80
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,AC810024
 patch=1,EE,202046C0,extended,0803008C
 
-//Cheats/Unlock All Chapters
+[Cheats/Unlock All Chapters]
 patch=1,EE,4050BB24,extended,000A001C
 patch=1,EE,01010101,extended,00000000

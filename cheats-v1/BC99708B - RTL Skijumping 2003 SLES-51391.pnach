@@ -1,13 +1,13 @@
-//Cheats/Infinite Cash
+[Cheats/Infinite Cash]
 patch=1,EE,206E1BF0,extended,05F5E0FF
 
-//Cheats/Infinite Creation Points
+[Cheats/Infinite Creation Points]
 patch=1,EE,206F0FB4,extended,42480000
 
-//Cheats/Infinite Experience Points
+[Cheats/Infinite Experience Points]
 patch=1,EE,206F0FBC,extended,00000064
 
-//Cheats/Infinite Training Points Press R2 To Activate And L2 To Deactivate
+[Cheats/Infinite Training Points Press R2 To Activate And L2 To Deactivate]
 patch=1,EE,D01CD102,extended,0000FDFF
 patch=1,EE,000FFF00,extended,00000001
 patch=1,EE,D00FFF00,extended,00000001
@@ -17,5 +17,5 @@ patch=1,EE,000FFF00,extended,00000000
 patch=1,EE,D00FFF00,extended,00000000
 patch=1,EE,206F0F60,extended,00000000
 
-//Cheats/Max Experience Career
+[Cheats/Max Experience Career]
 patch=1,EE,207A3EEC,extended,05F5E0FF

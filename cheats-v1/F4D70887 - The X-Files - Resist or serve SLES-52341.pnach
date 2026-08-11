@@ -1,23 +1,23 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20193DF8,extended,24060032
 patch=1,EE,20193DFC,extended,AE460540
 
-//Cheats/No Reload
+[Cheats/No Reload]
 patch=1,EE,20111404,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,20111434,extended,00000000
 
-//Cheats/Infinite First Aid Kits
+[Cheats/Infinite First Aid Kits]
 patch=1,EE,201113A8,extended,00000000
 
-//Cheats/1-Shot Kill
+[Cheats/1-Shot Kill]
 patch=1,EE,20326F68,extended,00000001
 
-//Cheats/Unlock All Levels both
+[Cheats/Unlock All Levels both]
 patch=1,EE,202B2974,extended,00500006
 
-//Cheats/Enable Debug Menus PPD Quick Start sends you into a level select sub menu.PPD NIS Test allows you to watch all of the cutscenes.
+[Cheats/Enable Debug Menus PPD Quick Start sends you into a level select sub menu.PPD NIS Test allows you to watch all of the cutscenes.]
 patch=1,EE,20325944,extended,00000000
 patch=1,EE,E003FFFD,extended,004DAC02
 patch=1,EE,202C77E0,extended,001AE4D0

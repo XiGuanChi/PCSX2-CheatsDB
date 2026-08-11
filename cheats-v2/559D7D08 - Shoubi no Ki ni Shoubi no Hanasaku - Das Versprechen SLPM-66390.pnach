@@ -1,14 +1,14 @@
 gametitle=Shoubi no Ki ni Shoubi no Hanasaku - Das Versprechen SLPM-66390
-//All album 
+[All album]
 patch=1,EE,2012BEB0,extended,240FFFFF
 patch=1,EE,2012BEB4,extended,ADAF0000
 patch=1,EE,2012BEB8,extended,24020001
 
-//All movies
+[All movies]
 patch=1,EE,2012C00C,extended,2402FFFF
 patch=1,EE,2012C010,extended,ACA20000
 
-//All notebook and letter collection
+[All notebook and letter collection]
 patch=1,EE,200F8000,extended,03E00008
 patch=1,EE,200F8004,extended,ADC20004
 patch=1,EE,2010ED00,extended,0803E000

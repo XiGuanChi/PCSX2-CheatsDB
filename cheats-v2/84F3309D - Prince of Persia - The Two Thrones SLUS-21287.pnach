@@ -1,22 +1,22 @@
 gametitle=Prince of Persia - The Two Thrones SLUS-21287
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20E9DFF0,extended,0000007D
 
-//Infinite Weapon Strength
+[Infinite Weapon Strength]
 patch=1,EE,202416B0,extended,00000000
 
-//Infinite Sands of Time
+[Infinite Sands of Time]
 patch=1,EE,20E9EA48,extended,00000006
 
-//Infinite Sand Credits
+[Infinite Sand Credits]
 patch=1,EE,20A952B4,extended,00002710
 
-//1-Hit Death (Bosses)
+[1-Hit Death (Bosses)]
 patch=1,EE,201FCD24,extended,24020000
 
-//Unlock All Sand Powers
+[Unlock All Sand Powers]
 patch=1,EE,200C2018,extended,240100FF
 patch=1,EE,200C201C,extended,3CC1177C
 
-//Unlock Video Gallery
+[Unlock Video Gallery]
 patch=1,EE,20AB76F4,extended,00000001

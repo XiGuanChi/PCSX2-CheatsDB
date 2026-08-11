@@ -1,27 +1,27 @@
 gametitle=Final Fantasy X SLUS-20312
-//Infinite Gil
+[Infinite Gil]
 patch=1,EE,1031A028,extended,0000FFFF
 
-//Infinite HP (InBattle)
+[Infinite HP (InBattle)]
 patch=1,EE,201C86D8,extended,2402270F
 patch=1,EE,201C86DC,extended,AC62027C
 
-//Infinite MP (InBattle)
+[Infinite MP (InBattle)]
 patch=1,EE,201C86EC,extended,2402270F
 patch=1,EE,201C86F0,extended,AC620280
 
-//Always Max Overdrive Meter (InBattle)
+[Always Max Overdrive Meter (InBattle)]
 patch=1,EE,200C0220,extended,240200FF
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,A0620268
 patch=1,EE,201B4AC4,extended,08030088
 
-//Max Status (All Characters & Summons)
+[Max Status (All Characters & Summons)]
 patch=1,EE,201BD958,extended,2401FFFF
 patch=1,EE,201BD96C,extended,00621021
 patch=1,EE,201BD970,extended,AC41000C
 patch=1,EE,201BD978,extended,AC410010
 
-//Max HP/MP/Limit Break (All Characters)
+[Max HP/MP/Limit Break (All Characters)]
 patch=1,EE,201BE130,extended,AFC60004
 patch=1,EE,201BE170,extended,AFC60008

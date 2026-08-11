@@ -1,21 +1,21 @@
 gametitle=Futurama SLES-51507
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,2043E124,extended,00000009
 
-//Infinite Health Level 1
+[Infinite Health Level 1]
 patch=1,EE,20F69832,extended,000042C8
 
-//Infinite Health Level 2
+[Infinite Health Level 2]
 patch=1,EE,20BA0E02,extended,000042C8
 
-//Infinite Ammo Level 2
+[Infinite Ammo Level 2]
 patch=1,EE,20BA1470,extended,000003E7
 
-//Infinite Health Level 3 (Metro)
+[Infinite Health Level 3 (Metro)]
 patch=1,EE,2077E0E2,extended,000042C8
 
-//Infinite Ammo Level 3 (Metro)
+[Infinite Ammo Level 3 (Metro)]
 patch=1,EE,2077E750,extended,000003E7
 
-//All Extras Unlocked
+[All Extras Unlocked]
 patch=1,EE,1043D4B0,extended,00000001

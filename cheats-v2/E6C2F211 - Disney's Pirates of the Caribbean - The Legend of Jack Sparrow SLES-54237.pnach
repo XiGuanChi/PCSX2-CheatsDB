@@ -1,19 +1,19 @@
 gametitle=Disney's Pirates of the Caribbean - The Legend of Jack Sparrow SLES-54237
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,005A1A31,extended,00000005
 
-//Infinite Gold-Jack
+[Infinite Gold-Jack]
 patch=1,EE,20675638,extended,05F5E0FF
 
-//Infinite Gold-Will/Elizabeth
+[Infinite Gold-Will/Elizabeth]
 patch=1,EE,2067563C,extended,05F5E0FF
 
-//Infinite Grog Bombs-Jack
+[Infinite Grog Bombs-Jack]
 patch=1,EE,105A19D0,extended,0000000A
 
-//Infinite Hatchets-Will/Elizabeth
+[Infinite Hatchets-Will/Elizabeth]
 patch=1,EE,105A1A70,extended,0000000A
 
-//Complete Map Collection
+[Complete Map Collection]
 patch=1,EE,40675C60,extended,00070001
 patch=1,EE,FFFFFFFF,extended,00000000

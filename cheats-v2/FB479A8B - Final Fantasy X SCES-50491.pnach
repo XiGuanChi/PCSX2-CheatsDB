@@ -1,30 +1,30 @@
 gametitle=Final Fantasy X SCES-50491
-//Gils infini
+[Gils infini]
 patch=1,EE,2031D218,extended,05F5BABE
 
-//Pas de combats
+[Pas de combats]
 patch=1,EE,003173F7,extended,00000000
 
-//Tidus HP complet
+[Tidus HP complet]
 patch=1,EE,1031EAB8,extended,0000270F
 
-//Tidus MP complet
+[Tidus MP complet]
 patch=1,EE,1031EABC,extended,000003E7
 
-//Tidus Max hp
+[Tidus Max hp]
 patch=1,EE,1031EAC0,extended,0000270F
 
-//Tidus Max mp
+[Tidus Max mp]
 patch=1,EE,1031EAC4,extended,000003E7
 
-//Yuna HP complet
+[Yuna HP complet]
 patch=1,EE,1031EB4C,extended,0000270F
 
-//Yuna MP complet
+[Yuna MP complet]
 patch=1,EE,1031EB50,extended,000003E7
 
-//Yuna Max hp
+[Yuna Max hp]
 patch=1,EE,1031EB54,extended,0000270F
 
-//Yuna Max mp
+[Yuna Max mp]
 patch=1,EE,1031EB58,extended,000003E7

@@ -1,29 +1,29 @@
-//Cheats/Max Money 99.999.999 Gella
+[Cheats/Max Money 99.999.999 Gella]
 patch=1,EE,20737408,extended,05F5E0FF
 
-//Cheats/Infinite HP In Battle
+[Cheats/Infinite HP In Battle]
 patch=1,EE,20227E0C,extended,AC260020
 
-//Cheats/Infinite MP In Battle
+[Cheats/Infinite MP In Battle]
 patch=1,EE,200C2070,extended,AC280024
 patch=1,EE,200C2074,extended,03E00008
 patch=1,EE,200C2078,extended,8C270024
 patch=1,EE,2019A06C,extended,0C03081C
 
-//Cheats/Infinite FP In Battle
+[Cheats/Infinite FP In Battle]
 patch=1,EE,200C2080,extended,24060064
 patch=1,EE,200C2084,extended,03E00008
 patch=1,EE,200C2088,extended,A6060000
 patch=1,EE,20194A38,extended,0C030820
 
-//Cheats/No Random Battles
+[Cheats/No Random Battles]
 patch=1,EE,20206A7C,extended,00000000
 patch=1,EE,20206B10,extended,00000000
 
-//Cheats/P1 Press L1+L2 For Random Battle On Next Step
+[Cheats/P1 Press L1+L2 For Random Battle On Next Step]
 patch=1,EE,E002FAFF,extended,00760F82
 patch=1,EE,1062A636,extended,000001F5
 patch=1,EE,1062A63C,extended,00000064
 
-//Cheats/Infinite Gimel Coins
+[Cheats/Infinite Gimel Coins]
 patch=1,EE,2073D844,extended,0000000A

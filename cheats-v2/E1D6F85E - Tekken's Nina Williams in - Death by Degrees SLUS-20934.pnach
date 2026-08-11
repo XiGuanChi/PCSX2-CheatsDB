@@ -1,44 +1,44 @@
 gametitle=Tekken's Nina Williams in - Death by Degrees SLUS-20934
-//Max HP
+[Max HP]
 patch=1,EE,20ED691C,extended,00000F00
 
-//Infinite HP
+[Infinite HP]
 patch=1,EE,20ED6920,extended,00000F00
 
-//Max Focus
+[Max Focus]
 patch=1,EE,20ED6924,extended,00000B40
 
-//Infinite Focus
+[Infinite Focus]
 patch=1,EE,20ED6928,extended,00000B40
 
-//Max Air
+[Max Air]
 patch=1,EE,20ED692C,extended,00000B40
 
-//Infinite Air
+[Infinite Air]
 patch=1,EE,20ED6930,extended,00000B40
 
-//Infinite Skill Points
+[Infinite Skill Points]
 patch=1,EE,20ED6940,extended,0000270F
 
-//All Finger prints
+[All Finger prints]
 patch=1,EE,20ED69EC,extended,FFFFFFFF
 patch=1,EE,00ED69F0,extended,000000FF
 
-//Sniper Mode Infinite Ammo
+[Sniper Mode Infinite Ammo]
 patch=1,EE,20F67CE0,extended,0000000A
 
-//Sniper Mode Infinite Health
+[Sniper Mode Infinite Health]
 patch=1,EE,20F67C58,extended,00000F00
 
-//Sniper Mode Infinite Health-Frank
+[Sniper Mode Infinite Health-Frank]
 patch=1,EE,20F69224,extended,00000064
 
-//Unlock Codes (Save & turn off)
-//Unlock All Movies
+[Unlock Codes (Save & turn off)]
+[Unlock All Movies]
 patch=1,EE,105AD3A4,extended,0000FFFF
 
-//Unlock All Pictures
+[Unlock All Pictures]
 patch=1,EE,205AD3A8,extended,FFFFFFFF
 
-//Unlock All Main Menu Items
+[Unlock All Main Menu Items]
 patch=1,EE,105AD3AC,extended,0000FFFF

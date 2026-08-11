@@ -1,13 +1,13 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,2016FEEC,extended,00000000
 
-//Cheats/No Damage
+[Cheats/No Damage]
 patch=1,EE,20170C6C,extended,00000000
 
-//Cheats/Infinite Gauge C
+[Cheats/Infinite Gauge C]
 patch=1,EE,2016FED4,extended,00000000
 
-//Cheats/Infinite Bullets L1+SELECT Release with R1+SELECT there is a scene in STAGE 1 that will not end until the bullet is depleted
+[Cheats/Infinite Bullets L1+SELECT Release with R1+SELECT there is a scene in STAGE 1 that will not end until the bullet is depleted]
 patch=1,EE,D0306502,extended,0000FBFE
 patch=1,EE,20171C60,extended,00000000
 patch=1,EE,D0306502,extended,0000FBFE
@@ -17,6 +17,6 @@ patch=1,EE,20171C60,extended,00501023
 patch=1,EE,D0306502,extended,0000F7FE
 patch=1,EE,20179368,extended,AC60000C
 
-//Cheats/Unlock All Stages & Costume Choices
+[Cheats/Unlock All Stages & Costume Choices]
 patch=1,EE,00301CD3,extended,00000004
 patch=1,EE,203020E4,extended,01010101

@@ -1,6 +1,6 @@
 gametitle=Oretachi Game Center Zoku - Pooyann SLPM-62731
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,0030E5C8,extended,000000FF
 
-//Always appear meat
+[Always appear meat]
 patch=1,EE,0030EBF0,extended,00000001

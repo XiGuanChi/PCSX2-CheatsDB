@@ -1,25 +1,25 @@
-//Cheats/Infinite money
+[Cheats/Infinite money]
 patch=1,EE,2023B338,extended,05F5E0FF
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20170038,extended,241003E7
 patch=1,EE,20170048,extended,A6D00008
 
-//Cheats/Infinite airship energy
+[Cheats/Infinite airship energy]
 patch=1,EE,1023BE86,extended,000003E7
 
 
-//Cheats/Infinite Spirit Stones
+[Cheats/Infinite Spirit Stones]
 patch=1,EE,1023B33C,extended,000003E7
 
 
-//Cheats/All Characters Max HP
+[Cheats/All Characters Max HP]
 patch=1,EE,20106FF8,extended,340403E7
 
-//Cheats/All Characters Max Spirit Stones
+[Cheats/All Characters Max Spirit Stones]
 patch=1,EE,20107038,extended,340403E7
 
-//Cheats/Enable Debug Menu press R3 once to enable the menu. After entering the pause screen, then exiting it, it will appear on-screen. Press L3 to disable.Controls for the debug menu:X to confirm an option.Circle to go back  exit debug menu. D-Pad Up or Down to move through the menu
+[Cheats/Enable Debug Menu press R3 once to enable the menu. After entering the pause screen, then exiting it, it will appear on-screen. Press L3 to disable.Controls for the debug menu:X to confirm an option.Circle to go back  exit debug menu. D-Pad Up or Down to move through the menu]
 patch=1,EE,D0233F82,extended,0000FFFB
 patch=1,EE,101811D8,extended,0000E5E0
 patch=1,EE,D0233F82,extended,0000FFFD

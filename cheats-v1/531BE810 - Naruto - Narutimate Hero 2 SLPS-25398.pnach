@@ -1,7 +1,7 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20AE55D8,extended,0098967F
 
-//Cheats/Growth Consumption Points 0 After Reaching 9999 Points or more, reset status to Tsunade If you do it and earn points normally, the possession points will be corrected to 9999.
+[Cheats/Growth Consumption Points 0 After Reaching 9999 Points or more, reset status to Tsunade If you do it and earn points normally, the possession points will be corrected to 9999.]
 patch=1,EE,202E535C,extended,00000000
 patch=1,EE,202E547C,extended,00000000
 patch=1,EE,202E559C,extended,00000000
@@ -9,7 +9,7 @@ patch=1,EE,202E56BC,extended,00000000
 patch=1,EE,202E57DC,extended,00000000
 patch=1,EE,202E58FC,extended,00000000
 
-//Cheats/Growth Limit Breakthrough
+[Cheats/Growth Limit Breakthrough]
 patch=1,EE,202E52FC,extended,10000006
 patch=1,EE,202E541C,extended,10000006
 patch=1,EE,202E553C,extended,10000006
@@ -18,43 +18,43 @@ patch=1,EE,202E577C,extended,10000006
 patch=1,EE,202E589C,extended,10000006
 
 
-//Cheats/Unlock All Characters Enter the Character Selection Screen
+[Cheats/Unlock All Characters Enter the Character Selection Screen]
 patch=1,EE,202385CC,extended,24010003
 patch=1,EE,202385D0,extended,AC4101E4
 patch=1,EE,00AE57A4,extended,000000FF
 patch=1,EE,00AE7D06,extended,000000FF
 patch=1,EE,00AE7D0F,extended,000000FF
 
-//Cheats/All Support Characters can be Selected
+[Cheats/All Support Characters can be Selected]
 patch=1,EE,40AE5694,extended,00420001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/All Characters Strongest
+[Cheats/All Characters Strongest]
 patch=1,EE,40AE5488,extended,00520001
 patch=1,EE,05005001,extended,A9964834
 
-//Cheats/Road to Ultimate Mode 99 All Items After you View Personal Belongings
+[Cheats/Road to Ultimate Mode 99 All Items After you View Personal Belongings]
 patch=1,EE,2023ADAC,extended,00A20821
 patch=1,EE,2023ADB0,extended,24020063
 patch=1,EE,2023ADB8,extended,A02228F0
 
-//Cheats/Ichapara Progress Chart All Nine Time After you View the Ichapara Progression from Character Selection Screen
+[Cheats/Ichapara Progress Chart All Nine Time After you View the Ichapara Progression from Character Selection Screen]
 patch=1,EE,2023A194,extended,00430821
 patch=1,EE,2023A198,extended,24020009
 patch=1,EE,2023A1A0,extended,A422038A
 
-//Cheats/Unlock All Dolls
+[Cheats/Unlock All Dolls]
 patch=1,EE,20AE8EB0,extended,FFFFFFFF
 patch=1,EE,20AE8EB4,extended,01FFFFFF
 
-//Cheats/Unlock All Voices
+[Cheats/Unlock All Voices]
 patch=1,EE,20AE8EF4,extended,FFFFFFFF
 patch=1,EE,20AE8EF8,extended,FFFFFFFF
 patch=1,EE,20AE8EFC,extended,FFFFFFFF
 patch=1,EE,20AE8F00,extended,FFFFFFFF
 patch=1,EE,00AE8F04,extended,00000001
 
-//Cheats/Unlock All Images
+[Cheats/Unlock All Images]
 patch=1,EE,20AE8FDC,extended,FFFFFFFF
 patch=1,EE,20AE8FE0,extended,FFFFFFFF
 patch=1,EE,20AE8FE4,extended,FFFFFFFF
@@ -62,7 +62,7 @@ patch=1,EE,20AE8FE8,extended,FFFFFFFF
 patch=1,EE,20AE8FEC,extended,FFFFFFFF
 patch=1,EE,20AE8FF0,extended,007FFFFF
 
-//Cheats/Unlock All Nin Nin
+[Cheats/Unlock All Nin Nin]
 patch=1,EE,20AE8FA4,extended,FFFFFFFF
 patch=1,EE,20AE8FA8,extended,FFFFFFFF
 patch=1,EE,20AE8FAC,extended,FFFFFFFF
@@ -70,7 +70,7 @@ patch=1,EE,20AE8FB0,extended,FFFFFFFF
 patch=1,EE,20AE8FB4,extended,FFFFFFFF
 patch=1,EE,20AE8FB8,extended,03FFFFFF
 
-//Cheats/Unlock All Shinobi arts
+[Cheats/Unlock All Shinobi arts]
 patch=1,EE,20AE8F88,extended,FFFFFFFF
 patch=1,EE,20AE8F8C,extended,FFFFFFFF
 patch=1,EE,20AE8F90,extended,FFFFFFFF
@@ -78,7 +78,7 @@ patch=1,EE,20AE8F94,extended,FFFFFFFF
 patch=1,EE,20AE8F98,extended,FFFFFFFF
 patch=1,EE,00AE8F9C,extended,000000FF
 
-//Cheats/Unlock All Strategies
+[Cheats/Unlock All Strategies]
 patch=1,EE,20AE8FC0,extended,FFFFFFFF
 patch=1,EE,20AE8FC4,extended,FFFFFFFF
 patch=1,EE,20AE8FC8,extended,FFFFFFFF
@@ -86,9 +86,9 @@ patch=1,EE,20AE8FCC,extended,FFFFFFFF
 patch=1,EE,20AE8FD0,extended,FFFFFFFF
 patch=1,EE,20AE8FD4,extended,00001FFF
 
-//Cheats/Unlock All Ask Shinobu
+[Cheats/Unlock All Ask Shinobu]
 patch=1,EE,20AE8F84,extended,0007FFFF
 
-//Cheats/Unlock All Certificates
+[Cheats/Unlock All Certificates]
 patch=1,EE,20AE8EA4,extended,00000003
 patch=1,EE,20AE8EAC,extended,00000DFF

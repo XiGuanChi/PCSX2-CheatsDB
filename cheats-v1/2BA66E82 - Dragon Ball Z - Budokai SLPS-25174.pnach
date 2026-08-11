@@ -1,12 +1,12 @@
-//Cheats/Max Zenny Runner-up
+[Cheats/Max Zenny Runner-up]
 patch=1,EE,20225A6C,extended,1000001F
 
-//Cheats/Fully Invincible Guard Press X all attacks will be disabled
+[Cheats/Fully Invincible Guard Press X all attacks will be disabled]
 patch=1,EE,2019C4D4,extended,3C01004F
 patch=1,EE,2019C4D8,extended,9421A56C
 patch=1,EE,2019C4DC,extended,30224000
 patch=1,EE,2019C4E0,extended,14400064
 
-//Cheats/Unlock All characters can be used in character selection screen display
+[Cheats/Unlock All characters can be used in character selection screen display]
 patch=1,EE,201E32A4,extended,34010001
 patch=1,EE,201E32A8,extended,A0410000

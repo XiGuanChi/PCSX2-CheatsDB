@@ -1,9 +1,9 @@
 gametitle=A-Ressha de Ikou 2001 SLPS-25017
-//The Kyoto funds 5000
+[The Kyoto funds 5000]
 patch=1,EE,206F1C78,extended,37E08000
 patch=1,EE,206F1C7C,extended,0011C379
 
-//All checkpoints available
+[All checkpoints available]
 patch=1,EE,207B6340,extended,02020202
 patch=1,EE,207B6344,extended,02020202
 patch=1,EE,107B6348,extended,00000202

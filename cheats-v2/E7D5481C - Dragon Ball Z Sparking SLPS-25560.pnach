@@ -1,13 +1,13 @@
 gametitle=Dragon Ball Z Sparking SLPS-25560
-//All the appearances
+[All the appearances]
 patch=1,EE,40550DB0,extended,005B0001
 patch=1,EE,00010003,extended,00000000
 
-//All Characteres & all Gallery
+[All Characteres & all Gallery]
 patch=1,EE,40550F1C,extended,00220001
 patch=1,EE,00010001,extended,00000000
 
-//With evolution Z 999 all items
+[With evolution Z 999 all items]
 patch=1,EE,D02476FC,extended,00000A64
 patch=1,EE,20247700,extended,3C0203E7
 patch=1,EE,D02476FC,extended,00000A64
@@ -15,21 +15,21 @@ patch=1,EE,20247704,extended,34420001
 patch=1,EE,D02476FC,extended,00000A64
 patch=1,EE,20247708,extended,AC820A64.
 
-//All Items 999
+[All Items 999]
 patch=1,EE,40550B64,extended,01100001
 patch=1,EE,03E70001,extended,00000000
 
-//All 7 Dragon Balls
+[All 7 Dragon Balls]
 patch=1,EE,40550D94,extended,00070001
 patch=1,EE,00010001,extended,00000000
 
-//All Menu On
+[All Menu On]
 patch=1,EE,40550DB0,extended,001B0001
 patch=1,EE,00010001,extended,00000000
 patch=1,EE,40550E20,extended,004C0001
 patch=1,EE,00010001,extended,00000000
 
-//Life + 1 ~ Up to 6 becomes 999
+[Life + 1 ~ Up to 6 becomes 999]
 patch=1,EE,20550B64,extended,03E70001
 patch=1,EE,20550B68,extended,03E70001
 patch=1,EE,20550B6C,extended,03E70001
@@ -37,7 +37,7 @@ patch=1,EE,20550B70,extended,03E70001
 patch=1,EE,20550B74,extended,03E70001
 patch=1,EE,20550B78,extended,03E70001
 
-//Vigor + 1 ~ Up to 6 becomes 999
+[Vigor + 1 ~ Up to 6 becomes 999]
 patch=1,EE,20550B88,extended,03E70001
 patch=1,EE,20550B8C,extended,03E70001
 patch=1,EE,20550B90,extended,03E70001
@@ -45,14 +45,14 @@ patch=1,EE,20550B94,extended,03E70001
 patch=1,EE,20550B98,extended,03E70001
 patch=1,EE,20550B9C,extended,03E70001
 
-//Z item secret type full opening
+[Z item secret type full opening]
 patch=1,EE,40550DB0,extended,001B0001
 patch=1,EE,03E70001,extended,00000000
 patch=1,EE,40550E20,extended,00610001
 patch=1,EE,03E70001,extended,00000000
 
-//Player 1 Life infinite
+[Player 1 Life infinite]
 patch=1,EE,21812CC8,extended,0001869F
 
-//Alt. Player 1 Life infinite
+[Alt. Player 1 Life infinite]
 patch=1,EE,21812D88,extended,0001869F

@@ -1,21 +1,21 @@
 gametitle=Mahjong Party - Idol to Mahjong Shoubu SLPS-20349
-//Store purchase points 99999999
+[Store purchase points 99999999]
 patch=1,EE,20247914,extended,05F5E0FF
 
-//Player has 9999 points
+[Player has 9999 points]
 patch=1,EE,2027C630,extended,0000270F
 
-//Opponent 1 has 0 points
+[Opponent 1 has 0 points]
 patch=1,EE,2027C648,extended,00000000
 
-//Opponent 2 has 0 points
+[Opponent 2 has 0 points]
 patch=1,EE,2027C640,extended,00000000
 
-//Opponent 3 has 0 points
+[Opponent 3 has 0 points]
 patch=1,EE,2027C638,extended,00000000
 
-//Infinite Lives Galpani Mahjong
+[Infinite Lives Galpani Mahjong]
 patch=1,EE,20247F9C,extended,00000004
 
-//Has 160 pieces in Galpani Mahjong - Always Win
+[Has 160 pieces in Galpani Mahjong - Always Win]
 patch=1,EE,20247FA0,extended,000000A0

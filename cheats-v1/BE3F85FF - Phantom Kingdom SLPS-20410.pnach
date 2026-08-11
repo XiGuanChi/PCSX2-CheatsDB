@@ -1,46 +1,46 @@
-//Cheats/Max HL After One Battle
+[Cheats/Max HL After One Battle]
 patch=1,EE,201BBE48,extended,1000200F
 
-//Cheats/Max Mana 9999999 When You Kill Enemy
+[Cheats/Max Mana 9999999 When You Kill Enemy]
 patch=1,EE,20191214,extended,00000000
 
-//Cheats/Max MT
+[Cheats/Max MT]
 patch=1,EE,202D9090,extended,4E729FFF
 patch=1,EE,202D9094,extended,00000918
 
-//Cheats/Can Move Infinitely Movement Range 500dm
+[Cheats/Can Move Infinitely Movement Range 500dm]
 patch=1,EE,201ADF8C,extended,A2000CD1
 patch=1,EE,201ADF90,extended,3C0143FA
 patch=1,EE,201ADF94,extended,AE010A80
 patch=1,EE,201ADFA0,extended,A6000CD2
 
-//Cheats/Techniques Can Be Used Even If SP Is Insufficient
+[Cheats/Techniques Can Be Used Even If SP Is Insufficient]
 patch=1,EE,201A947C,extended,AFA000F0
 
-//Cheats/Max HL If You Sell Items
+[Cheats/Max HL If You Sell Items]
 patch=1,EE,201F9828,extended,00000000
 
-//Cheats/Max Mana When Looking At The Status Mana
+[Cheats/Max Mana When Looking At The Status Mana]
 patch=1,EE,201628E8,extended,3C113B9A
 patch=1,EE,201628EC,extended,3631C9FF
 patch=1,EE,2016290C,extended,AE1100BC
 
-//Cheats/Max MT When Turning Items Into Materials
+[Cheats/Max MT When Turning Items Into Materials]
 patch=1,EE,201F9890,extended,00000000
 
-//Cheats/Bonus Points When Making A Character 9999
+[Cheats/Bonus Points When Making A Character 9999]
 patch=1,EE,20211E8C,extended,2410270F
 
-//Cheats/Defeated Bonus Full
+[Cheats/Defeated Bonus Full]
 patch=1,EE,20157538,extended,14200001
 
-//Cheats/Debug Mode This will display debug info on-screen, open up various extra menu options as well as open extra main menu options
+[Cheats/Debug Mode This will display debug info on-screen, open up various extra menu options as well as open extra main menu options]
 patch=1,EE,2010052C,extended,8F848B84
 patch=1,EE,20100530,extended,34840003
 patch=1,EE,20100534,extended,1000000B
 patch=1,EE,20100538,extended,AF848B84
 
-//Cheats/Debug appearance*Due to debugging, some items may not work properly.Press the 2P SELECT button to display the debug menu.
+[Cheats/Debug appearance*Due to debugging, some items may not work properly.Press the 2P SELECT button to display the debug menu.]
 patch=1,EE,2010052C,extended,1000000D
 patch=1,EE,2015816C,extended,34630002
 patch=1,EE,20158174,extended,AF838B84

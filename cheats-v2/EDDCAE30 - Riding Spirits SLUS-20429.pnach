@@ -1,14 +1,14 @@
 gametitle=Riding Spirits SLUS-20429
-//Max Money
+[Max Money]
 patch=1,EE,20236B20,extended,05F5E0FF
 
-//Always Low Total Time
+[Always Low Total Time]
 patch=1,EE,202A023C,extended,00000000
 
-//Start On Lap 3
+[Start On Lap 3]
 patch=1,EE,D02A05DC,extended,00000000
 patch=1,EE,002A05DC,extended,00000002
 
-//Access All Riding Spirit Races
+[Access All Riding Spirit Races]
 patch=1,EE,20247A78,extended,FFFFFFFF
 patch=1,EE,20247A7C,extended,FFFFFFFF

@@ -1,15 +1,15 @@
 gametitle=Killer 7 SLES-53366
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201FC554,extended,24020096
 patch=1,EE,201FC55C,extended,A64202B8
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201FD340,extended,00000000
 
-//All Characters Available
+[All Characters Available]
 patch=1,EE,10674830,extended,00000FFF
 patch=1,EE,10674834,extended,0000FFFF
 
-//Team Members Always Alive
+[Team Members Always Alive]
 patch=1,EE,20674828,extended,00000000
 patch=1,EE,2067482C,extended,0000FFFF

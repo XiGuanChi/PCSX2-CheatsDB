@@ -1,27 +1,27 @@
 gametitle=Moe Moe 2 - Ji Daisenryaku 2 SLPS-25956
-//nfinite & Max HP in battle first United States unit
+[nfinite & Max HP in battle first United States unit]
 patch=1,EE,21385360,extended,000003E7
 patch=1,EE,21385330,extended,000003E7
 
-//Infinite HP in battle second United States unit
+[Infinite HP in battle second United States unit]
 patch=1,EE,213A77E0,extended,000003E7
 patch=1,EE,213A77B0,extended,000003E7
 
-//Infinite HP in battle third United States unit
+[Infinite HP in battle third United States unit]
 patch=1,EE,213C9C30,extended,000003E7
 patch=1,EE,213C9C60,extended,000003E7
 
-//Required Code
+[Required Code]
 patch=1,EE,20241958,extended,03E00008
 patch=1,EE,D061451C,extended,0000FEFF
 patch=1,EE,20241958,extended,0803FE00
 patch=1,EE,200FF8F8,extended,03E00008
 patch=1,EE,200FF8FC,extended,8C820030
 
-//HP recovery Hold down the L2 button and move the cursor to the target unit
+[HP recovery Hold down the L2 button and move the cursor to the target unit]
 patch=1,EE,200FF800,extended,8C820010
 patch=1,EE,200FF804,extended,AC820030
 
-//EP recovery Hold down the L2 button and move the cursor to the target unit
+[EP recovery Hold down the L2 button and move the cursor to the target unit]
 patch=1,EE,200FF808,extended,8C820014
 patch=1,EE,200FF80C,extended,AC820034

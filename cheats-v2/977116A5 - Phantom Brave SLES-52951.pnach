@@ -1,27 +1,27 @@
 gametitle=Phantom Brave SLES-52951
-//Max BOR
-//99.999.999
+[Max BOR]
+[99.999.999]
 patch=1,EE,2027e940,extended,05f5e0ff
 
-//Infinitr HP Character 1
+[Infinitr HP Character 1]
 patch=1,EE,2027E9DC,extended,000F423F
 patch=1,EE,2027E9E4,extended,000F423F
 
-//Infinitr HP Character 2
+[Infinitr HP Character 2]
 patch=1,EE,2027ece4,extended,000F423F
 patch=1,EE,2027ecec,extended,000F423F
 
-//Infinitr HP Character 3
+[Infinitr HP Character 3]
 patch=1,EE,2027EFEC,extended,000F423F
 patch=1,EE,2027EFF4,extended,000F423F
 
-//Infinitr HP Character 4
+[Infinitr HP Character 4]
 patch=1,EE,2027F2F4,extended,000F423F
 patch=1,EE,2027F2FC,extended,000F423F
 
-//Maxed Exp/Lvl After 1 Fight
+[Maxed Exp/Lvl After 1 Fight]
 patch=1,EE,201A5B48,extended,3C0A5FAB
 
-//Always Win
+[Always Win]
 patch=1,EE,201AE924,extended,240207D1
 

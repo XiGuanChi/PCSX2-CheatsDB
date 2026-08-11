@@ -1,12 +1,12 @@
-//Cheats/Story Mode Quick Level Up
+[Cheats/Story Mode Quick Level Up]
 patch=1,EE,201CFEF0,extended,00000000
 patch=1,EE,201CFEF4,extended,44810000
 
-//Cheats/Start At Level 5 Arcade
+[Cheats/Start At Level 5 Arcade]
 patch=1,EE,202390DC,extended,24020005
 
-//Cheats/Start At Level 10 Arcade
+[Cheats/Start At Level 10 Arcade]
 patch=1,EE,202390DC,extended,2402000A
 
-//Cheats/Start At Level 15 Arcade
+[Cheats/Start At Level 15 Arcade]
 patch=1,EE,202390DC,extended,2402000F

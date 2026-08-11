@@ -1,11 +1,11 @@
-//Cheats/Infinite Stamina
+[Cheats/Infinite Stamina]
 patch=1,EE,204B2A10,extended,00180000
 
-//Cheats/Always Low Time
+[Cheats/Always Low Time]
 patch=1,EE,204B2954,extended,00000000
 
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,204098EC,extended,05F5E0FF
 
-//Cheats/Max Points
+[Cheats/Max Points]
 patch=1,EE,204098F4,extended,05F5E0FF

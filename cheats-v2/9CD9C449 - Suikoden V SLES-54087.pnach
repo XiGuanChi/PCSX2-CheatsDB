@@ -1,25 +1,25 @@
 gametitle=Suikoden V SLES-54087
-//max.Potch
+[max.Potch]
 patch=1,EE,20a3bd10,extended,0098967f
 
-//Infinite HP In Battle Hero
+[Infinite HP In Battle Hero]
 patch=1,EE,20ABCDF4,extended,000003E7
 patch=1,EE,20ABCDFC,extended,000003E7
 
-//Infinite HP In Battle Ship
+[Infinite HP In Battle Ship]
 patch=1,EE,20ABD5B0,extended,000003E7
 patch=1,EE,20ABD5B8,extended,000003E7
 
-//Inf Rune in Battle
+[Inf Rune in Battle]
 patch=1,EE,20A7CF7C,extended,00000000
 
-//99999 army war soldiers
+[99999 army war soldiers]
 patch=1,EE,20ABCD58,extended,0001869F
 
-//No Random Battles
+[No Random Battles]
 patch=0,EE,2025C954,extended,00001027
 
-//Unlock All Skills
+[Unlock All Skills]
 patch=1,EE,20A3D810,extended,0000000C
 patch=1,EE,40A3D814,extended,000C0002
 patch=1,EE,0000CC08,extended,00000100

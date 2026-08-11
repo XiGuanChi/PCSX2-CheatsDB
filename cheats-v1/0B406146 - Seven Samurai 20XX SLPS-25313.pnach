@@ -1,29 +1,29 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,D043587E,extended,00004601
 patch=1,EE,20435880,extended,45010001
 
-//Cheats/Max GP Maintenance
+[Cheats/Max GP Maintenance]
 patch=1,EE,20435964,extended,4A0002FF
 
-//Cheats/Max RT Maintenance
+[Cheats/Max RT Maintenance]
 patch=1,EE,204359D4,extended,137B000B
 
-//Cheats/Required Code
+[Cheats/Required Code]
 patch=1,EE,20117884,extended,0803D400
 patch=1,EE,200F5100,extended,03E00008
 patch=1,EE,200F5000,extended,3C03003D
 
-//Cheats/Infinite & Max HP In Battle
+[Cheats/Infinite & Max HP In Battle]
 patch=1,EE,200F5004,extended,3C0943FA
 patch=1,EE,200F5008,extended,AC695354
 patch=1,EE,200F500C,extended,AC695358
 
-//Cheats/Infinite & Max GP In Battle
+[Cheats/Infinite & Max GP In Battle]
 patch=1,EE,200F5010,extended,3C0943C8
 patch=1,EE,200F5014,extended,AC69535C
 patch=1,EE,200F5018,extended,AC695360
 
-//Cheats/Infinite & Max RT In Battle
+[Cheats/Infinite & Max RT In Battle]
 patch=1,EE,200F501C,extended,3C094348
 patch=1,EE,200F5020,extended,AC695368
 patch=1,EE,200F5024,extended,AC69536C
@@ -32,5 +32,5 @@ patch=1,EE,200F502C,extended,314A0200
 patch=1,EE,200F5030,extended,55400001
 patch=1,EE,200F5034,extended,AC605368
 
-//Cheats/Debug Display
+[Cheats/Debug Display]
 patch=1,EE,202C7FE4,extended,00FFFFFF

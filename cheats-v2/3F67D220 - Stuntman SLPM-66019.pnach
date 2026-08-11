@@ -1,7 +1,7 @@
 gametitle=Stuntman SLPM-66019
-//Infinite Time
+[Infinite Time]
 patch=1,EE,21F11364,extended,0000BB80
 
-//The driving game entirely
+[The driving game entirely]
 patch=1,EE,40288F98,extended,00100001
 patch=1,EE,00000001,extended,00000000

@@ -1,16 +1,16 @@
 gametitle=Tony Hawk's Underground SLUS-20731
-//Access More Menus
+[Access More Menus]
 patch=1,EE,2012B880,extended,00000000
 
-//Always Max Special
+[Always Max Special]
 patch=1,EE,202369F0,extended,24020BB8
 patch=1,EE,202369F4,extended,AE220068
 
-//Quick Score Gain
+[Quick Score Gain]
 patch=1,EE,20237FC4,extended,24A503E7
 
-//Super Score Gain
+[Super Score Gain]
 patch=1,EE,20237FC4,extended,24A5270F
 
-//Hella Score Gain
+[Hella Score Gain]
 patch=1,EE,20237FC4,extended,24A57FFF

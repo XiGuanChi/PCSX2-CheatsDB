@@ -1,28 +1,28 @@
 gametitle=Resident Evil 4 SLES-53756
-//Max Cash
+[Max Cash]
 patch=1,EE,2042DE6A,extended,05F5E0FF
 
-//Max/Infinite Health (Main)
+[Max/Infinite Health (Main)]
 patch=1,EE,1042DE74,extended,00000960
 patch=1,EE,1042DE76,extended,00000960
 
-//Max/Infinite Health (Partner)
+[Max/Infinite Health (Partner)]
 patch=1,EE,1042DE78,extended,000004B0
 patch=1,EE,1042DE7A,extended,000004B0
 
-//1-Hit Kill
+[1-Hit Kill]
 patch=1,EE,201C2D1C,extended,24020000
 
-//Never Reload
+[Never Reload]
 patch=1,EE,2012020C,extended,24420000
 
-//Max Infinite Ammo
+[Max Infinite Ammo]
 patch=1,EE,2012031C,extended,24020318
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,10431364,extended,0000FFFF
 
-//Unlock All Doors
+[Unlock All Doors]
 patch=1,EE,1042E1A6,extended,0000FFFF
 patch=1,EE,2042E1BE,extended,FFFFFFFF
 patch=1,EE,2042E1C2,extended,FFFFFFFF
@@ -30,23 +30,23 @@ patch=1,EE,2042E1C6,extended,FFFFFFFF
 patch=1,EE,2042E1CA,extended,FFFFFFFF
 patch=1,EE,2042E1CE,extended,FFFFFFFF
 
-//Unlock Extras Menu
+[Unlock Extras Menu]
 patch=1,EE,20431365,extended,00000080
 
-//Unlock Ada's Reports (Extras)
+[Unlock Ada's Reports (Extras)]
 patch=1,EE,20431364,extended,00000001
 
-//The Mercenaries
-//Unlock All Characters
+[The Mercenaries]
+[Unlock All Characters]
 patch=1,EE,20431365,extended,0000000F
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,1042DE74,extended,00000960
 
-//Infinite Health (Alternate)
+[Infinite Health (Alternate)]
 patch=1,EE,201C2A7C,extended,00000000
 
 
 
-//Have All Ada's Reports
+[Have All Ada's Reports]
 patch=1,EE,0043136B,extended,00000004

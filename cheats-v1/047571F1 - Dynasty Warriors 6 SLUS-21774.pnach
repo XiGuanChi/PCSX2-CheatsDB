@@ -1,61 +1,61 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2190f9d8,extended,000003e8
 
-//Cheats/Infinite Health alt
+[Cheats/Infinite Health alt]
 patch=1,EE,201b1ab8,extended,e60103f8
 
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,2190f9d4,extended,000003e8
 
-//Cheats/Infinite Health alternate
+[Cheats/Infinite Health alternate]
 patch=1,EE,201B1AAC,extended,C60103F8
 patch=1,EE,201B1AB8,extended,E60103FC
 
-//Cheats/Infinite Musou
+[Cheats/Infinite Musou]
 patch=1,EE,2190f9e8,extended,000003e8
 
-//Cheats/Max Musou
+[Cheats/Max Musou]
 patch=1,EE,2190f9e4,extended,000003e8
 
-//Cheats/HP and Musou Get 999 After Lv up
+[Cheats/HP and Musou Get 999 After Lv up]
 patch=1,EE,20280394,extended,00000000
 
-//Cheats/Infinite Saves
+[Cheats/Infinite Saves]
 patch=1,EE,20280ef4,extended,26450000
 
-//Cheats/Challenge Mode - Max Box Broke
+[Cheats/Challenge Mode - Max Box Broke]
 patch=1,EE,202801a8,extended,00000000
 
-//Cheats/Player HP 9999
+[Cheats/Player HP 9999]
 patch=1,EE,202b66f4,extended,00000000
 patch=1,EE,202b66fc,extended,2405270f
 
-//Cheats/Musou 9999
+[Cheats/Musou 9999]
 patch=1,EE,202b66c4,extended,00000000
 patch=1,EE,202b66cc,extended,2405270f
 
-//Cheats/Atk 9999
+[Cheats/Atk 9999]
 patch=1,EE,202b6694,extended,00000000
 patch=1,EE,202b669c,extended,2405270f
 
-//Cheats/Def 9999
+[Cheats/Def 9999]
 patch=1,EE,202b6664,extended,00000000
 patch=1,EE,202b666c,extended,2405270f
 
-//Cheats/Horse Max Stats
+[Cheats/Horse Max Stats]
 patch=1,EE,20291b08,extended,00000000
 patch=1,EE,20291cc4,extended,00000000
 patch=1,EE,20291e80,extended,00000000
 patch=1,EE,2029203c,extended,00000000
 
-//Cheats/Infinite Items
+[Cheats/Infinite Items]
 patch=1,EE,201af52c,extended,3C0248A0
 patch=1,EE,201af580,extended,3C0248A0
 patch=1,EE,201af5c4,extended,3C0248A0
 patch=1,EE,201af608,extended,3C0248A0
 patch=1,EE,201af64c,extended,3C0248A0
 
-//Cheats/ENABLER for Health Codes
+[Cheats/ENABLER for Health Codes]
 patch=1,EE,200FF020,extended,E4820004
 patch=1,EE,200FF024,extended,3C070010
 patch=1,EE,200FF028,extended,8CE7EFFC
@@ -79,7 +79,7 @@ patch=1,EE,201B67A0,extended,0803FC08
 patch=1,EE,201B67A4,extended,00000000
 patch=1,EE,201B67A8,extended,00000000
 
-//Cheats/ENABLER for Speed Freeze Codes
+[Cheats/ENABLER for Speed Freeze Codes]
 patch=1,EE,200FF0A0,extended,3C150010
 patch=1,EE,200FF0A4,extended,8EB7EFFC
 patch=1,EE,200FF0A8,extended,12E40007
@@ -100,7 +100,7 @@ patch=1,EE,200FF0F8,extended,03E00008
 patch=1,EE,201A9558,extended,0C03FC28
 patch=1,EE,201A955C,extended,00000000
 
-//Cheats/ENABLER for Horse Stats Code
+[Cheats/ENABLER for Horse Stats Code]
 patch=1,EE,200FF110,extended,3C070010
 patch=1,EE,200FF114,extended,8CE7EFE8
 patch=1,EE,200FF118,extended,10E0001A
@@ -133,91 +133,91 @@ patch=1,EE,200FF184,extended,0040302D
 patch=1,EE,200FF188,extended,27A40110
 patch=1,EE,200FF18C,extended,03E00008
 
-//Cheats/Infinite Health ON Press R1+R2+D-Up
+[Cheats/Infinite Health ON Press R1+R2+D-Up]
 patch=1,EE,D03DD79C,extended,0000F5EF
 patch=1,EE,200FEFF4,extended,00000001
 
-//Cheats/Infinite Health OFF Press R1+R2+D-Down
+[Cheats/Infinite Health OFF Press R1+R2+D-Down]
 patch=1,EE,D03DD79C,extended,0000F5BF
 patch=1,EE,200FEFF4,extended,00000000
 
-//Cheats/Instant Kills for Player ON Press R1+R2+D-Left
+[Cheats/Instant Kills for Player ON Press R1+R2+D-Left]
 patch=1,EE,D03DD79C,extended,0000F57F
 patch=1,EE,200FEFF8,extended,00000001
 
-//Cheats/Instant Kills for Player OFF Press R1+R2+D-Right
+[Cheats/Instant Kills for Player OFF Press R1+R2+D-Right]
 patch=1,EE,D03DD79C,extended,0000F5DF
 patch=1,EE,200FEFF8,extended,00000000
 
-//Cheats/Musou Always Available
+[Cheats/Musou Always Available]
 patch=1,EE,2026FE48,extended,C44108E4
 patch=1,EE,2026FE4C,extended,E44108E8
 
-//Cheats/Infinite Renbu ON Press L1+L2+D-Left
+[Cheats/Infinite Renbu ON Press L1+L2+D-Left]
 patch=1,EE,E000FA7F,extended,003DD79C
 patch=1,EE,201B6B34,extended,3C05447A
 patch=1,EE,201B6B38,extended,AC850000
 
-//Cheats/Infinite Renbu OFF Press L1+L2+D-Right
+[Cheats/Infinite Renbu OFF Press L1+L2+D-Right]
 patch=1,EE,E000FADF,extended,003DD79C
 patch=1,EE,201B6B34,extended,50A00003
 patch=1,EE,201B6B38,extended,C4810000
 
-//Cheats/Freeze All But Player ON Press R1+R2+L3
+[Cheats/Freeze All But Player ON Press R1+R2+L3]
 patch=1,EE,D03DD79C,extended,0000F5FD
 patch=1,EE,200FEFF0,extended,00000001
 
-//Cheats/Freeze All But Player OFF Press R1+R2+R3
+[Cheats/Freeze All But Player OFF Press R1+R2+R3]
 patch=1,EE,D03DD79C,extended,0000F5FB
 patch=1,EE,200FEFF0,extended,00000000
 
-//Cheats/Only 1 XP to Level Up
+[Cheats/Only 1 XP to Level Up]
 patch=1,EE,403ae964,extended,00310001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Infinite Saves Remaining
+[Cheats/Infinite Saves Remaining]
 patch=1,EE,2029E554,extended,00000000
 
-//Cheats/Freeze Timer ON Press L1+L2+D-Up
+[Cheats/Freeze Timer ON Press L1+L2+D-Up]
 patch=1,EE,D03DD79C,extended,0000FAEF
 patch=1,EE,0029E4AA,extended,00000000
 
-//Cheats/Freeze Timer OFF Press L1+L2+D-Down
+[Cheats/Freeze Timer OFF Press L1+L2+D-Down]
 patch=1,EE,D03DD79C,extended,0000FABF
 patch=1,EE,0029E4AA,extended,00000004
 
-//Cheats/Always Easy Difficulty
+[Cheats/Always Easy Difficulty]
 patch=1,EE,20722288,extended,00000000
 
-//Cheats/Always Win Blade Lock
+[Cheats/Always Win Blade Lock]
 patch=1,EE,101B1F3E,extended,0000AE22
 
-//Cheats/Max Horse XP Stats Skills Press SELECT+R3
+[Cheats/Max Horse XP Stats Skills Press SELECT+R3]
 patch=1,EE,D03DD79C,extended,0000FFFA
 patch=1,EE,200FEFE8,extended,00000001
 
-//Cheats/Massive KOs Points
+[Cheats/Massive KOs Points]
 patch=1,EE,206F5770,extended,0000270F
 
-//Cheats/Easy Destroy Structures ON PressL3+R3+L1
+[Cheats/Easy Destroy Structures ON PressL3+R3+L1]
 patch=1,EE,D03DD79C,extended,0000FBF9
 patch=1,EE,202DE376,extended,0000AC80
 
-//Cheats/Easy Destroy Structures OFF Press L3+R3+L2
+[Cheats/Easy Destroy Structures OFF Press L3+R3+L2]
 patch=1,EE,D03DD79C,extended,0000FEF9
 patch=1,EE,202DE376,extended,0000AC80
 
-//Cheats/Massive Combo Chain ON Press L3+R3+R1
+[Cheats/Massive Combo Chain ON Press L3+R3+R1]
 patch=1,EE,E000F7F9,extended,003DD79C
 patch=1,EE,20337148,extended,240603E7
 patch=1,EE,2033714C,extended,AC460416
 
-//Cheats/Massive Combo Chain OFF Press L3+R3+R2
+[Cheats/Massive Combo Chain OFF Press L3+R3+R2]
 patch=1,EE,E000FDF9,extended,003DD79C
 patch=1,EE,20337148,extended,8C840000
 patch=1,EE,2033714C,extended,84500416
 
-//Cheats/Have Lu-Bu Style Aura
+[Cheats/Have Lu-Bu Style Aura]
 patch=1,EE,20335FBC,extended,20070003
 patch=1,EE,20335FC0,extended,AE0703F4
 

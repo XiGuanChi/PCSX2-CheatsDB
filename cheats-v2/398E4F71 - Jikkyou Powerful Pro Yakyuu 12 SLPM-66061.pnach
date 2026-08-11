@@ -1,31 +1,31 @@
 gametitle=Jikkyou Powerful Pro Yakyuu 12 SLPM-66061
-//Success Mode - [Money]
+[Success Mode - [Money]]
 patch=1,EE,207890c0,extended,0001869f
 
-//Success Mode - [Physical strength] MAX
+[Success Mode - [Physical strength] MAX]
 patch=1,EE,00786A93,extended,00000078
 patch=1,EE,00786A95,extended,00000078
 
-//Success Mode - [Motivation] MAX
+[Success Mode - [Motivation] MAX]
 patch=1,EE,00786A8F,extended,00000000
 
-//Success Mode - [10] practice level
+[Success Mode - [10] practice level]
 patch=1,EE,20786A9C,extended,0A0A0A0A
 patch=1,EE,20786AA0,extended,0A0A0A0A
 
-//Success Mode - [999] experience points
+[Success Mode - [999] experience points]
 patch=1,EE,407892B4,extended,00050001
 patch=1,EE,0000007F,extended,00000000
 
-//[Director Scout evaluation MAX]
+[[Director Scout evaluation MAX]]
 patch=1,EE,2078903C,extended,C8C8C8C8
 
-//My Life - [999 999] people Number of Fans
+[My Life - [999 999] people Number of Fans]
 patch=1,EE,207e2b2c,extended,000f423f
 
-//My Life - [Money]
+[My Life - [Money]]
 patch=1,EE,207E2B1C,extended,000f423f
 
 
-//My Life - [Physical strength]
+[My Life - [Physical strength]]
 patch=1,EE,007e2b0a,extended,000000ff

@@ -1,8 +1,8 @@
 gametitle=Shin Sangoku Musou 3 SLPM-65248
-//Ability gauge fixed
+[Ability gauge fixed]
 patch=1,EE,201B8E1C,extended,24630000
 
-//Maintain maximum physical strength and Musou gauge during battle
+[Maintain maximum physical strength and Musou gauge during battle]
 patch=1,EE,200EF000,extended,845301DC
 patch=1,EE,200EF004,extended,00131900
 patch=1,EE,200EF008,extended,00129100
@@ -12,25 +12,25 @@ patch=1,EE,200EF014,extended,845201E2
 patch=1,EE,200EF018,extended,0805E036
 patch=1,EE,201780D0,extended,0803BC00
 
-//99 bows and arrows
+[99 bows and arrows]
 patch=1,EE,0053809C,extended,00000063
 
-//All special items
+[All special items]
 patch=1,EE,1043783E,extended,00000101
 patch=1,EE,20437840,extended,01010101
 patch=1,EE,10437844,extended,00000101
 
-//Martial Arts Point MAX (all models)
+[Martial Arts Point MAX (all models)]
 patch=1,EE,20437110,extended,0001869F
 
-//Player 1 has Infinite Arrows 
+[Player 1 has Infinite Arrows]
 patch=1,EE,0053809C,extended,00000063
 
-//Player 1 has Infinite Health 
+[Player 1 has Infinite Health]
 patch=1,EE,105170BC,extended,000000C0
 patch=1,EE,105170BE,extended,00000C00
 
-//Player 1 has Infinite Musou 
+[Player 1 has Infinite Musou]
 patch=1,EE,105170C2,extended,000000C0
 patch=1,EE,105170C4,extended,00000C00
 

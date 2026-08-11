@@ -1,7 +1,7 @@
 gametitle=Space Invaders - Invasion Day SLES-51746
-//Player 1 Infinite Health
+[Player 1 Infinite Health]
 patch=1,EE,201230D0,extended,3401006E
 patch=1,EE,201230D4,extended,A22101CE
 
-//Enemys Shoot And Die!
+[Enemys Shoot And Die!]
 patch=1,EE,20184D4C,extended,AE6001CC

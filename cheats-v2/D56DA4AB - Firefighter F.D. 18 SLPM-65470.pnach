@@ -1,15 +1,15 @@
 gametitle=Firefighter F.D. 18 SLPM-65470
-//Infinite HP
+[Infinite HP]
 patch=1,EE,205C4F94,extended,0000EA60
 patch=1,EE,205C4F98,extended,0000EA60
 
-//Time 00: 00.00
+[Time 00: 00.00]
 patch=1,EE,205A511C,extended,00000000
 
-//Number of credits
+[Number of credits]
 patch=1,EE,005C4FC4,extended,00000003
 
-//Full item
+[Full item]
 patch=1,EE,205A517C,extended,63636363
 patch=1,EE,105A5180,extended,00006363
 patch=1,EE,005A5179,extended,00000063
@@ -17,15 +17,15 @@ patch=1,EE,005A517A,extended,00000063
 patch=1,EE,105A5182,extended,00000101
 patch=1,EE,005A5184,extended,00000001
 
-//Stage clear information
-//Clear time
+[Stage clear information]
+[Clear time]
 patch=1,EE,205A511C,extended,00000000
 
-//Number of people helped 999 (people without injury)
+[Number of people helped 999 (people without injury)]
 patch=1,EE,205A5128,extended,000003E7
 
-//Number of people helped 999 (injured person)
+[Number of people helped 999 (injured person)]
 patch=1,EE,205A512C,extended,000003E7
 
-//Extinguish Points maximum
+[Extinguish Points maximum]
 patch=1,EE,205A5120,extended,0098967F

@@ -1,8 +1,8 @@
 gametitle=Bomberman Land 3 SLPM-62643
-//9999999 bargain hand
+[9999999 bargain hand]
 patch=1,EE,2037A340,extended,000F423F
 
-//Item all
+[Item all]
 patch=1,EE,4037A351,extended,002C0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,0037A493,extended,00000001
@@ -27,7 +27,7 @@ patch=1,EE,0037A41B,extended,00000001
 patch=1,EE,0037A424,extended,00000001
 patch=1,EE,0037A42D,extended,00000001
 
-//All collections
+[All collections]
 patch=1,EE,4037AA98,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,4037792C,extended,002C0001

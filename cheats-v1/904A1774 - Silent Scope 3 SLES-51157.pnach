@@ -1,11 +1,11 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20533650,extended,3F800000
 
 [Cheats/Infinite Time] Low  
 patch=1,EE,205335A8,extended,00000000
 
-//Cheats/Infinite Credits
+[Cheats/Infinite Credits]
 patch=1,EE,1056EA40,extended,00000009
 
-//Cheats/Unlock All Options
+[Cheats/Unlock All Options]
 patch=1,EE,20222470,extended,24020001

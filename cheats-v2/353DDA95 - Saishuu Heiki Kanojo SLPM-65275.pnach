@@ -1,16 +1,16 @@
 gametitle=Saishuu Heiki Kanojo SLPM-65275
-//Clear flag (break time can be selected.)
+[Clear flag (break time can be selected.)]
 patch=1,EE,00604B48,extended,000000FF
 
-//Movie ALL ON
+[Movie ALL ON]
 patch=1,EE,20604C68,extended,FFFFFFFF
 
-//CG ALL ON
+[CG ALL ON]
 patch=1,EE,20604C6C,extended,FFFFFFFF
 
-//Ending flag ALL ON
+[Ending flag ALL ON]
 patch=1,EE,00604C90,extended,000000FF
 patch=1,EE,10604C94,extended,0000FFFF
 
-//Mini-games ALL ON
+[Mini-games ALL ON]
 patch=1,EE,00604C98,extended,0000000F

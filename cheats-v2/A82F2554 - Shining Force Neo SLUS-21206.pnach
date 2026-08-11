@@ -1,18 +1,18 @@
 gametitle=Shining Force Neo SLUS-21206
-//Infinite Coins
+[Infinite Coins]
 patch=1,EE,2043F594,extended,05F5E0FF
 
-//Infinite Energy
+[Infinite Energy]
 patch=1,EE,2043F590,extended,05F5E0FF
 
-//Infinite HP
+[Infinite HP]
 patch=1,EE,20BB3A00,extended,0000270F
 patch=1,EE,20BB3A04,extended,0000270F
 patch=1,EE,20BB3DDC,extended,0000270F
 
-//Infinite MP
+[Infinite MP]
 patch=1,EE,20BB3A08,extended,0000270F
 patch=1,EE,20BB3A0C,extended,0000270F
 
-//Instant Health Rebuild (In-Battle)
+[Instant Health Rebuild (In-Battle)]
 patch=1,EE,101C5932,extended,00001000

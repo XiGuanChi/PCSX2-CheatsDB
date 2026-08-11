@@ -1,12 +1,12 @@
 gametitle=Madden NFL 2004 SLUS-20752 SLES-51797
-//Madden Card Points
+[Madden Card Points]
 patch=1,EE,21DB2EF8,extended,00002710
 
-//Next Team Scoring Has 90 Pts.Press Select+Up To Activate
+[Next Team Scoring Has 90 Pts.Press Select+Up To Activate]
 patch=1,EE,D05F0042,extended,0000FFEE
 patch=1,EE,204AFE28,extended,3C020060
 
-//Next Team Scoring Has 0 Pts.Press Select+Down To Activate
+[Next Team Scoring Has 0 Pts.Press Select+Down To Activate]
 patch=1,EE,D05F0042,extended,0000FFBE
 patch=1,EE,204AFE28,extended,3C020000
 

@@ -1,4 +1,4 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C2000,extended,C462006C
 patch=1,EE,200C2004,extended,460010C6
 patch=1,EE,200C2008,extended,03E00008
@@ -8,23 +8,23 @@ patch=1,EE,200C2014,extended,00701021
 patch=1,EE,201F7330,extended,0C030800
 patch=1,EE,201F926C,extended,0C030804
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,20286A08,extended,00114020
 patch=1,EE,20286A18,extended,02008823
 patch=1,EE,20286A64,extended,01001023
 
-//Cheats/Infinite Fuel
+[Cheats/Infinite Fuel]
 patch=1,EE,2028A8CC,extended,E4800020
 
-//Cheats/Infinite Cash
+[Cheats/Infinite Cash]
 patch=1,EE,210FD3F0,extended,3B9AC9FF
 
-//Cheats/Unlock All Areas
+[Cheats/Unlock All Areas]
 patch=1,EE,4113A4AC,extended,00030001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,1113A4B8,extended,00000101
 
-//Cheats/Unlock All Areas and Stages
+[Cheats/Unlock All Areas and Stages]
 patch=1,EE,4113A400,extended,002E0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,1113A4B8,extended,00000101

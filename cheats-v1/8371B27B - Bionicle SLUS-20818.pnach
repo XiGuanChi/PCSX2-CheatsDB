@@ -1,47 +1,47 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2032B198,extended,40400000
 
-//Cheats/Infinite Specials
+[Cheats/Infinite Specials]
 patch=1,EE,201FBC38,extended,0000000C
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,2032B240,extended,00000007
 
-//Cheats/Have All Lightstones Tahu
+[Cheats/Have All Lightstones Tahu]
 patch=1,EE,2032B1E0,extended,00000064
 
-//Cheats/Have All Lightstones Kopaka
+[Cheats/Have All Lightstones Kopaka]
 patch=1,EE,2032B1E4,extended,000000C8
 
-//Cheats/Have All Lightstones Gali Nuva
+[Cheats/Have All Lightstones Gali Nuva]
 patch=1,EE,2032B1E8,extended,0000005A
 
-//Cheats/Have All Lightstones Pohatu Nuva
+[Cheats/Have All Lightstones Pohatu Nuva]
 patch=1,EE,2032B1EC,extended,000000A8
 
-//Cheats/Have All Lightstones Onua Nuva
+[Cheats/Have All Lightstones Onua Nuva]
 patch=1,EE,2032B1F0,extended,00000064
 
-//Cheats/Have All Lightstones Lewa Nuva
+[Cheats/Have All Lightstones Lewa Nuva]
 patch=1,EE,2032B1F4,extended,000000AA
 
-//Cheats/Have All Lightstones Tahu Nuva
+[Cheats/Have All Lightstones Tahu Nuva]
 patch=1,EE,2032B1F8,extended,00000094
 
-//Cheats/Have All Lightstones Takua Nuva
+[Cheats/Have All Lightstones Takua Nuva]
 patch=1,EE,2032B1FC,extended,00000004
 
-//Cheats/Have All Matorans Tahu
+[Cheats/Have All Matorans Tahu]
 patch=1,EE,2032B200,extended,00000005
 
-//Cheats/Have All Gali Nuva
+[Cheats/Have All Gali Nuva]
 patch=1,EE,2032B208,extended,0000000F
 
-//Cheats/Have All Lewa Nuva
+[Cheats/Have All Lewa Nuva]
 patch=1,EE,2032B214,extended,00000006
 
-//Cheats/Enable debug mode Accessed by holding L2 while pressing START to pause. Reload Level, Collision Spheres, Show Debug, and Show Map are only shown when DEBUG_CHEATS is set to ON in cdgame.txt. However, the switch is set to ON by default
+[Cheats/Enable debug mode Accessed by holding L2 while pressing START to pause. Reload Level, Collision Spheres, Show Debug, and Show Map are only shown when DEBUG_CHEATS is set to ON in cdgame.txt. However, the switch is set to ON by default]
 patch=1,EE,201FC10C,extended,00000000
 
-//Cheats/Enable unlimited health cheat
+[Cheats/Enable unlimited health cheat]
 patch=1,EE,701FBBB8,extended,00000002

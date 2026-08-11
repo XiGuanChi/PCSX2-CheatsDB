@@ -1,33 +1,33 @@
-//Cheats/For system data Unlock All Costumes, Character Encyclopedia and Memory Encyclopedia
+[Cheats/For system data Unlock All Costumes, Character Encyclopedia and Memory Encyclopedia]
 patch=1,EE,20219420,extended,FFFFFFFF
 patch=1,EE,40219548,extended,00100001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/For system data All stages have been cleared
+[Cheats/For system data All stages have been cleared]
 patch=1,EE,402194E8,extended,00180001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/For system data Unlock All Kikai Encyclopedia
+[Cheats/For system data Unlock All Kikai Encyclopedia]
 patch=1,EE,402195CC,extended,00250001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/For game data Unlock All Costumes, Character Encyclopedia and Memory Encyclopedia
+[Cheats/For game data Unlock All Costumes, Character Encyclopedia and Memory Encyclopedia]
 patch=1,EE,20219960,extended,FFFFFFFF
 patch=1,EE,402199EC,extended,00110001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/For game data All stages have been cleared
+[Cheats/For game data All stages have been cleared]
 patch=1,EE,40219990,extended,00170001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/For game data Unlock All Kikai Encyclopedia
+[Cheats/For game data Unlock All Kikai Encyclopedia]
 patch=1,EE,40219A70,extended,00250001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,20219960,extended,FFFFFFFF
 
-//Cheats/Press L3 For Debug Menu
+[Cheats/Press L3 For Debug Menu]
 patch=1,EE,201CA7CC,extended,0806F854
 patch=1,EE,D02E0E02,extended,0000FFFD
 patch=1,EE,201CF34C,extended,08045FAC

@@ -1,17 +1,17 @@
-//Cheats/Max Parameter And Fatigue 0
+[Cheats/Max Parameter And Fatigue 0]
 patch=1,EE,4021D0B0,extended,00050001
 patch=1,EE,00000063,extended,00000000
 patch=1,EE,0021D0C4,extended,00000000
 
-//Cheats/Max Skill
+[Cheats/Max Skill]
 patch=1,EE,4021D0D0,extended,001C0001
 patch=1,EE,00000003,extended,00000000
 
-//Cheats/Friendship And Affection Level Max With Everyone
+[Cheats/Friendship And Affection Level Max With Everyone]
 patch=1,EE,4021D144,extended,001E0001
 patch=1,EE,00000063,extended,00000000
 
-//Cheats/Unlock All Museum
+[Cheats/Unlock All Museum]
 patch=1,EE,4021D880,extended,005E0001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,4021FB7C,extended,00400001

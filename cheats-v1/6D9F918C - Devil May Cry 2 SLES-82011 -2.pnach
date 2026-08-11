@@ -1,31 +1,31 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,205A77E0,extended,270F270F
 
-//Cheats/Infinite Devil Trigger
+[Cheats/Infinite Devil Trigger]
 patch=1,EE,205A7B0C,extended,270F270F
 
-//Cheats/Max Red Orbs
+[Cheats/Max Red Orbs]
 patch=1,EE,205A8B28,extended,000F423F
 
-//Cheats/Max Blue Orbs
+[Cheats/Max Blue Orbs]
 patch=1,EE,205A8B34,extended,00000004
 
-//Cheats/Max Yellow Orbs
+[Cheats/Max Yellow Orbs]
 patch=1,EE,005A8B31,extended,00000063
 
-//Cheats/Have All Guns
+[Cheats/Have All Guns]
 patch=1,EE,005A7CF0,extended,0000000F
 patch=1,EE,105A8B4E,extended,00000101
 patch=1,EE,105A8B50,extended,00000001
 
-//Cheats/Have All Swords
+[Cheats/Have All Swords]
 patch=1,EE,005A7CF1,extended,0000000F
 patch=1,EE,105A8B48,extended,00000101
 
-//Cheats/Unlock All Item Files
+[Cheats/Unlock All Item Files]
 patch=1,EE,205A8ACC,extended,FFFFFFFF
 patch=1,EE,205A8AD0,extended,FFFFFFFF
 
-//Cheats/Unlock All Enemy Files
+[Cheats/Unlock All Enemy Files]
 patch=1,EE,205A8B88,extended,FFFFFFFF
 patch=1,EE,205A8B8C,extended,FFFFFFFF

@@ -1,23 +1,23 @@
-//Cheats/Unlocck All Cheats
+[Cheats/Unlocck All Cheats]
 patch=1,EE,10AE8B42,extended,0000FF00
 patch=1,EE,10AE8B44,extended,0000000F
 
-//Cheats/Unlocck All Characters
+[Cheats/Unlocck All Characters]
 patch=1,EE,10AE8B40,extended,0000FFFF
 
-//Cheats/Tony Hawk Infinite Stat Points
+[Cheats/Tony Hawk Infinite Stat Points]
 patch=1,EE,10883488,extended,00000064
 
-//Cheats/Tony Hawk All STD Levels Open
+[Cheats/Tony Hawk All STD Levels Open]
 patch=1,EE,10AE8A2C,extended,0000FFFF
 patch=1,EE,10AE8A2E,extended,0000FFFF
 patch=1,EE,10AE8A30,extended,0000FFFF
 patch=1,EE,10AE8A32,extended,0000000F
 
-//Cheats/Tony Hawk All Gold Medals
+[Cheats/Tony Hawk All Gold Medals]
 patch=1,EE,10AE8A3C,extended,00000006
 patch=1,EE,10AE8A54,extended,00000004
 patch=1,EE,10AE8A64,extended,00000004
 
-//Cheats/Tony Hawk All Boards
+[Cheats/Tony Hawk All Boards]
 patch=1,EE,1050025C,extended,000003FF

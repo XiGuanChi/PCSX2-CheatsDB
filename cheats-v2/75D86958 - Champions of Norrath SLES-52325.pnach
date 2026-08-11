@@ -1,6 +1,6 @@
 gametitle=Champions of Norrath SLES-52325
-//Super Main Menu (Go to the option menu in game then press Circle to access the Debug menu which features level select and invincibility)
+[Super Main Menu (Go to the option menu in game then press Circle to access the Debug menu which features level select and invincibility)]
 patch=1,EE,101825BC,extended,000026F0
 
-//Quick Level Up
+[Quick Level Up]
 patch=1,EE,201C424C,extended,24820001

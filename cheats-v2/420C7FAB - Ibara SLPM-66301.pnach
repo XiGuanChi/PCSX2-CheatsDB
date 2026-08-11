@@ -1,24 +1,24 @@
 gametitle=Ibara SLPM-66301
-//Invincible
+[Invincible]
 patch=1,EE,2012A8DC,extended,10000016
 patch=1,EE,2012AB74,extended,1000001A
 
-//1P Inf lives
+[1P Inf lives]
 patch=1,EE,0044C5DA,extended,00000005
 
-//1P Inf bombs
+[1P Inf bombs]
 patch=1,EE,0044C5DD,extended,00000004
 patch=1,EE,0044C5DE,extended,00000028
 
-//1P Max score
+[1P Max score]
 patch=1,EE,2044C600,extended,3B9AC9FF
 
-//2P Inf lives
+[2P Inf lives]
 patch=1,EE,0044C86A,extended,00000005
 
-//2P Inf bombs
+[2P Inf bombs]
 patch=1,EE,0044C86D,extended,00000004
 patch=1,EE,0044C86E,extended,00000028w
 
-//2P Max score
+[2P Max score]
 patch=1,EE,2044C890,extended,3B9AC9FF

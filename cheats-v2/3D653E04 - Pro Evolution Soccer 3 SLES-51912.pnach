@@ -1,30 +1,30 @@
 gametitle=Pro Evolution Soccer 3 SLES-51912
-//Unlock All Shop Items
+[Unlock All Shop Items]
 patch=1,EE,214D0304,extended,FFFFFFFF
 patch=1,EE,214D0308,extended,FFFFFFFF
 patch=1,EE,214D030C,extended,FFFFFFFF
 
-//Win All Trophies
+[Win All Trophies]
 patch=1,EE,214D0310,extended,FFFFFFFF
 
-//Infinite Transfer Points
+[Infinite Transfer Points]
 patch=1,EE,21515438,extended,05F5E0FF
 
-//Bigger Created Characters
+[Bigger Created Characters]
 patch=1,EE,01621153,extended,000000FF
 
-//Home Team Scores 99 Press R3+L3+L1 to activate
+[Home Team Scores 99 Press R3+L3+L1 to activate]
 patch=1,EE,D1304214,extended,0000F7F9
 patch=1,EE,1156627C,extended,00000063
 
-//Home Team Scores 0 Press R3+L3+L2 to activate
+[Home Team Scores 0 Press R3+L3+L2 to activate]
 patch=1,EE,D1304214,extended,0000FEF9
 patch=1,EE,1156627C,extended,00000000
 
-//Away Team Scores 99 Press R3+L3+R1 to activate
+[Away Team Scores 99 Press R3+L3+R1 to activate]
 patch=1,EE,D1304214,extended,0000FBF9
 patch=1,EE,11568BEC,extended,00000063
 
-//Away Team Scores 0 Press R3+L3+R2 to activate
+[Away Team Scores 0 Press R3+L3+R2 to activate]
 patch=1,EE,D1304214,extended,0000F7F9
 patch=1,EE,11568BEC,extended,00000000

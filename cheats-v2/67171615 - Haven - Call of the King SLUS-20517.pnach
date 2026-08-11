@@ -1,31 +1,31 @@
 gametitle=Haven - Call of the King SLUS-20517
-//Infinite Health
+[Infinite Health]
 patch=1,EE,10526D10,extended,00000005
 
-//Max Blue Feathers
+[Max Blue Feathers]
 patch=1,EE,20526B68,extended,00000063
 
-//Max Red Feathers
+[Max Red Feathers]
 patch=1,EE,20526B6C,extended,00000063
 
-//Infinite Special
+[Infinite Special]
 patch=1,EE,20526B70,extended,00500000
 
-//Max Cogs
+[Max Cogs]
 patch=1,EE,20526B74,extended,00000063
 
-//Infinite Shield
+[Infinite Shield]
 patch=1,EE,20526ED8,extended,0000012C
 
-//Pause To Have All Objectives Completed
+[Pause To Have All Objectives Completed]
 patch=1,EE,202DECE0,extended,2401FFFF
 patch=1,EE,202DECE4,extended,00A71804
 patch=1,EE,202DECEC,extended,AC410140
 
-//Unlock Old Menu
+[Unlock Old Menu]
 patch=1,EE,2051EC84,extended,00000001
 
-//Invincible
+[Invincible]
 patch=1,EE,1029A52E,extended,00001000
 patch=1,EE,1029A62E,extended,00001000
 patch=1,EE,1029A59E,extended,00001000

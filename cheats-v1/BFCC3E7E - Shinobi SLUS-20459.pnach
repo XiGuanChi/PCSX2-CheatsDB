@@ -1,102 +1,102 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2024E1E8,extended,00000000
 
-//Cheats/Infinite Life L1+Select To Die
+[Cheats/Infinite Life L1+Select To Die]
 patch=1,EE,2024ADA0,extended,AE23032C
 patch=1,EE,D051D442,extended,0010FBFE
 patch=1,EE,2024AD90,extended,24032710
 patch=1,EE,D051D442,extended,0000FBFE
 patch=1,EE,2024AD90,extended,8E23032C
 
-//Cheats/Infinite Shurikens
+[Cheats/Infinite Shurikens]
 patch=1,EE,202B2E1C,extended,00000000
 
-//Cheats/Infinite Slash
+[Cheats/Infinite Slash]
 patch=1,EE,2024ADB8,extended,24032710
 patch=1,EE,2024ADC8,extended,AE230330
 
-//Cheats/Infinite Slash Alternate
+[Cheats/Infinite Slash Alternate]
 patch=1,EE,2024AD24,extended,00000000
 
-//Cheats/Idiot AI
+[Cheats/Idiot AI]
 patch=1,EE,202597D0,extended,03E00008
 patch=1,EE,202597D4,extended,00000000
 patch=1,EE,20259860,extended,03E00008
 patch=1,EE,20259864,extended,00000000
 
-//Cheats/Start On Level Story Mode Stage 1-B
+[Cheats/Start On Level Story Mode Stage 1-B]
 patch=1,EE,D0832288,extended,00200100
 patch=1,EE,00832289,extended,00000001
 
-//Cheats/Start On Level Story Mode Stage 2-A
+[Cheats/Start On Level Story Mode Stage 2-A]
 patch=1,EE,D0832288,extended,00200200
 patch=1,EE,00832289,extended,00000002
 
-//Cheats/Start On Level Story Mode Stage 2-B
+[Cheats/Start On Level Story Mode Stage 2-B]
 patch=1,EE,D0832288,extended,00200300
 patch=1,EE,00832289,extended,00000003
 
-//Cheats/Start On Level Story Mode Stage 3-A
+[Cheats/Start On Level Story Mode Stage 3-A]
 patch=1,EE,D0832288,extended,00200400
 patch=1,EE,00832289,extended,00000004
 
-//Cheats/Start On Level Story Mode Stage 3-B
+[Cheats/Start On Level Story Mode Stage 3-B]
 patch=1,EE,D0832288,extended,00200500
 patch=1,EE,00832289,extended,00000005
 
-//Cheats/Start On Level Story Mode Stage 4-A
+[Cheats/Start On Level Story Mode Stage 4-A]
 patch=1,EE,D0832288,extended,00200600
 patch=1,EE,00832289,extended,00000006
 
-//Cheats/Start On Level Story Mode Stage 4-B
+[Cheats/Start On Level Story Mode Stage 4-B]
 patch=1,EE,D0832288,extended,00200700
 patch=1,EE,00832289,extended,00000007
 
-//Cheats/Start On Level Story Mode Stage 5-A
+[Cheats/Start On Level Story Mode Stage 5-A]
 patch=1,EE,D0832288,extended,00200800
 patch=1,EE,00832289,extended,00000008
 
-//Cheats/Start On Level Story Mode Stage 5-B
+[Cheats/Start On Level Story Mode Stage 5-B]
 patch=1,EE,D0832288,extended,00200900
 patch=1,EE,00832289,extended,00000009
 
-//Cheats/Start On Level Story Mode Stage 6-A
+[Cheats/Start On Level Story Mode Stage 6-A]
 patch=1,EE,D0832288,extended,00200A00
 patch=1,EE,00832289,extended,0000000A
 
-//Cheats/Start On Level Story Mode Stage 6-B
+[Cheats/Start On Level Story Mode Stage 6-B]
 patch=1,EE,D0832288,extended,00200B00
 patch=1,EE,00832289,extended,0000000B
 
-//Cheats/Start On Level Story Mode Stage 7-A
+[Cheats/Start On Level Story Mode Stage 7-A]
 patch=1,EE,D0832288,extended,00200C00
 patch=1,EE,00832289,extended,0000000C
 
-//Cheats/Start On Level Story Mode Stage 7-B
+[Cheats/Start On Level Story Mode Stage 7-B]
 patch=1,EE,D0832288,extended,00200D00
 patch=1,EE,00832289,extended,0000000D
 
-//Cheats/Start On Level Story Mode Stage 8-A
+[Cheats/Start On Level Story Mode Stage 8-A]
 patch=1,EE,D0832288,extended,00200E00
 patch=1,EE,00832289,extended,0000000E
 
-//Cheats/Start On Level Story Mode Stage 8-B
+[Cheats/Start On Level Story Mode Stage 8-B]
 patch=1,EE,D0832288,extended,00200F00
 patch=1,EE,00832289,extended,0000000F
 
-//Cheats/Unlock Almost Everything
+[Cheats/Unlock Almost Everything]
 patch=1,EE,20832280,extended,FFFFFFFF
 
-//Cheats/Unlock Normal Levels they appear in the Extra Menu under the Stage Selec
+[Cheats/Unlock Normal Levels they appear in the Extra Menu under the Stage Selec]
 patch=1,EE,0083228C,extended,00000011
 
-//Cheats/Unlock Hard Levelst hey appear in the Extra Menu under the Stage Selec
+[Cheats/Unlock Hard Levelst hey appear in the Extra Menu under the Stage Selec]
 patch=1,EE,0083228D,extended,00000011
 
-//Cheats/Unlock Super Levels they appear in the Extra Menu under the Stage Selec
+[Cheats/Unlock Super Levels they appear in the Extra Menu under the Stage Selec]
 patch=1,EE,0083228E,extended,00000011
 
-//Cheats/Press L3 At Press Start Screen For Debug Menu This allows you to select any level in the game, as well as toggle debug info and unlock various options.
+[Cheats/Press L3 At Press Start Screen For Debug Menu This allows you to select any level in the game, as well as toggle debug info and unlock various options.]
 patch=1,EE,E0020400,extended,01BC93E4
 patch=1,EE,20238B1C,extended,24020001
 patch=1,EE,20238B88,extended,24020001

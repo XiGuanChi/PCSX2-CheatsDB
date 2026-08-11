@@ -1,4 +1,4 @@
-//Cheats/Press R3 Opponent Loses Frame
+[Cheats/Press R3 Opponent Loses Frame]
 patch=1,EE,205E9C60,extended,240100FB
 patch=1,EE,205E9C64,extended,14220004
 patch=1,EE,205E9C6C,extended,3C01004A
@@ -8,7 +8,7 @@ patch=1,EE,205E9C7C,extended,00021200
 patch=1,EE,205E9C80,extended,080C34D1
 patch=1,EE,2030D340,extended,0817A718
 
-//Cheats/Press R3 to Play Next Ball
+[Cheats/Press R3 to Play Next Ball]
 patch=1,EE,205E9C60,extended,240100FB
 patch=1,EE,205E9C64,extended,14220004
 patch=1,EE,205E9C6C,extended,3C01004A

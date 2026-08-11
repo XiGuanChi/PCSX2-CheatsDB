@@ -1,407 +1,407 @@
-//Cheats/Freeze Timer
+[Cheats/Freeze Timer]
 patch=1,EE,200FFF20,extended,3C014480
 patch=1,EE,200FFF24,extended,AC410134
 patch=1,EE,2016CE10,extended,0803FFC8
 patch=1,EE,200FFF28,extended,0805B389
 
-//Cheats/Max Score
+[Cheats/Max Score]
 patch=1,EE,201661F0,extended,3C020505
 
-//Cheats/Unlock Mime
+[Cheats/Unlock Mime]
 patch=1,EE,208D1BF4,extended,00000001
 
-//Cheats/Unlock Vanessa
+[Cheats/Unlock Vanessa]
 patch=1,EE,208D1BEC,extended,00000001
 
-//Cheats/Unlock Volcano
+[Cheats/Unlock Volcano]
 patch=1,EE,208D1C08,extended,00000001
 
-//Cheats/Unlock Bigfoot
+[Cheats/Unlock Bigfoot]
 patch=1,EE,208D1C18,extended,00000001
 
-//Cheats/Unlock Day Smith
+[Cheats/Unlock Day Smith]
 patch=1,EE,208D1C00,extended,00000001
 
-//Cheats/Unlock Video Mat-1
+[Cheats/Unlock Video Mat-1]
 patch=1,EE,208D1C6C,extended,00000001
 
-//Cheats/Unlock Video Mat-2
+[Cheats/Unlock Video Mat-2]
 patch=1,EE,208D1C70,extended,00000001
 
-//Cheats/Unlock Video Mat-3
+[Cheats/Unlock Video Mat-3]
 patch=1,EE,208D1C74,extended,00000001
 
-//Cheats/Unlock Video Mat-4
+[Cheats/Unlock Video Mat-4]
 patch=1,EE,208D1C78,extended,00000001
 
-//Cheats/Unlock Video Mat-5
+[Cheats/Unlock Video Mat-5]
 patch=1,EE,208D1C7C,extended,00000001
 
-//Cheats/Unlock Video Mat-6
+[Cheats/Unlock Video Mat-6]
 patch=1,EE,208D1C80,extended,00000001
 
-//Cheats/Unlock Video Mat-7
+[Cheats/Unlock Video Mat-7]
 patch=1,EE,208D1C84,extended,00000001
 
-//Cheats/Unlock Video Mat-8
+[Cheats/Unlock Video Mat-8]
 patch=1,EE,208D1C88,extended,00000001
 
-//Cheats/Unlock Video Mat-9
+[Cheats/Unlock Video Mat-9]
 patch=1,EE,208D1C8C,extended,00000001
 
-//Cheats/Unlock Video Joe-1
+[Cheats/Unlock Video Joe-1]
 patch=1,EE,208D1C90,extended,00000001
 
-//Cheats/Unlock Video Joe-2
+[Cheats/Unlock Video Joe-2]
 patch=1,EE,208D1C94,extended,00000001
 
-//Cheats/Unlock Video Joe-3
+[Cheats/Unlock Video Joe-3]
 patch=1,EE,208D1C98,extended,00000001
 
-//Cheats/Unlock Video Joe-4
+[Cheats/Unlock Video Joe-4]
 patch=1,EE,208D1C9C,extended,00000001
 
-//Cheats/Unlock Video Joe-5
+[Cheats/Unlock Video Joe-5]
 patch=1,EE,208D1CA0,extended,00000001
 
-//Cheats/Unlock Video Joe-6
+[Cheats/Unlock Video Joe-6]
 patch=1,EE,208D1CA4,extended,00000001
 
-//Cheats/Unlock Video Joe-7
+[Cheats/Unlock Video Joe-7]
 patch=1,EE,208D1CA8,extended,00000001
 
-//Cheats/Unlock Video Joe-8
+[Cheats/Unlock Video Joe-8]
 patch=1,EE,208D1CAC,extended,00000001
 
-//Cheats/Unlock Video Joe-9
+[Cheats/Unlock Video Joe-9]
 patch=1,EE,208D1CB0,extended,00000001
 
-//Cheats/Unlock Video Rick-1
+[Cheats/Unlock Video Rick-1]
 patch=1,EE,208D1CB4,extended,00000001
 
-//Cheats/Unlock Video Rick-2
+[Cheats/Unlock Video Rick-2]
 patch=1,EE,208D1CB8,extended,00000001
 
-//Cheats/Unlock Video Rick-3
+[Cheats/Unlock Video Rick-3]
 patch=1,EE,208D1CBC,extended,00000001
 
-//Cheats/Unlock Video Rick-4
+[Cheats/Unlock Video Rick-4]
 patch=1,EE,208D1CC0,extended,00000001
 
-//Cheats/Unlock Video Rick-5
+[Cheats/Unlock Video Rick-5]
 patch=1,EE,208D1CC4,extended,00000001
 
-//Cheats/Unlock Video Rick-6
+[Cheats/Unlock Video Rick-6]
 patch=1,EE,208D1CC8,extended,00000001
 
-//Cheats/Unlock Video Rick-7
+[Cheats/Unlock Video Rick-7]
 patch=1,EE,208D1CCC,extended,00000001
 
-//Cheats/Unlock Video Rick-8
+[Cheats/Unlock Video Rick-8]
 patch=1,EE,208D1CD0,extended,00000001
 
-//Cheats/Unlock Video Rick-9
+[Cheats/Unlock Video Rick-9]
 patch=1,EE,208D1CD4,extended,00000001
 
-//Cheats/Unlock Video Mike-1
+[Cheats/Unlock Video Mike-1]
 patch=1,EE,208D1CD8,extended,00000001
 
-//Cheats/Unlock Video Mike-2
+[Cheats/Unlock Video Mike-2]
 patch=1,EE,208D1CDC,extended,00000001
 
-//Cheats/Unlock Video Mike-3
+[Cheats/Unlock Video Mike-3]
 patch=1,EE,208D1CE0,extended,00000001
 
-//Cheats/Unlock Video Mike-4
+[Cheats/Unlock Video Mike-4]
 patch=1,EE,208D1CE4,extended,00000001
 
-//Cheats/Unlock Video Mike-5
+[Cheats/Unlock Video Mike-5]
 patch=1,EE,208D1CE8,extended,00000001
 
-//Cheats/Unlock Video Mike-6
+[Cheats/Unlock Video Mike-6]
 patch=1,EE,208D1CEC,extended,00000001
 
-//Cheats/Unlock Video Mike-7
+[Cheats/Unlock Video Mike-7]
 patch=1,EE,208D1CF0,extended,00000001
 
-//Cheats/Unlock Video Mike-8
+[Cheats/Unlock Video Mike-8]
 patch=1,EE,208D1CF4,extended,00000001
 
-//Cheats/Unlock Video Mike-9
+[Cheats/Unlock Video Mike-9]
 patch=1,EE,208D1CF8,extended,00000001
 
-//Cheats/Unlock Video Simon-1
+[Cheats/Unlock Video Simon-1]
 patch=1,EE,208D1CFC,extended,00000001
 
-//Cheats/Unlock Video Simon-2
+[Cheats/Unlock Video Simon-2]
 patch=1,EE,208D1D00,extended,00000001
 
-//Cheats/Unlock Video Simon-3
+[Cheats/Unlock Video Simon-3]
 patch=1,EE,208D1D04,extended,00000001
 
-//Cheats/Unlock Free Ride - Session Codes Chicago
+[Cheats/Unlock Free Ride - Session Codes Chicago]
 patch=1,EE,208D1C50,extended,00000001
 
-//Cheats/Unlock Free Ride - Session Codes LA
+[Cheats/Unlock Free Ride - Session Codes LA]
 patch=1,EE,208D1C54,extended,00000001
 
-//Cheats/Unlock Free Ride - Session Codes Las Vegas
+[Cheats/Unlock Free Ride - Session Codes Las Vegas]
 patch=1,EE,208D1C58,extended,00000001
 
-//Cheats/Unlock Free Ride - Session Codes New Orleans
+[Cheats/Unlock Free Ride - Session Codes New Orleans]
 patch=1,EE,208D1C5C,extended,00000001
 
-//Cheats/Unlock Free Ride - Session Codes Portland
+[Cheats/Unlock Free Ride - Session Codes Portland]
 patch=1,EE,208D1C60,extended,00000001
 
-//Cheats/Unlock Free Ride - Session Codes Boston
+[Cheats/Unlock Free Ride - Session Codes Boston]
 patch=1,EE,208D1C64,extended,00000001
 
-//Cheats/Unlock Free Ride - Session Codes Tiki Park
+[Cheats/Unlock Free Ride - Session Codes Tiki Park]
 patch=1,EE,208D1C68,extended,00000001
  
-//Cheats/Unlock Road Trip Codes Chicago
+[Cheats/Unlock Road Trip Codes Chicago]
 patch=1,EE,208D2554,extended,00000001
 
-//Cheats/Unlock Road Trip Codes LA
+[Cheats/Unlock Road Trip Codes LA]
 patch=1,EE,208D2558,extended,00000001
 
-//Cheats/Unlock Road Trip Codes Las Vegas
+[Cheats/Unlock Road Trip Codes Las Vegas]
 patch=1,EE,208D255C,extended,00000001
 
-//Cheats/Unlock Road Trip Codes New Orleans
+[Cheats/Unlock Road Trip Codes New Orleans]
 patch=1,EE,208D2560,extended,00000001
 
-//Cheats/Unlock Road Trip Codes Portland
+[Cheats/Unlock Road Trip Codes Portland]
 patch=1,EE,208D2564,extended,00000001
 
-//Cheats/Unlock Road Trip Codes Boston
+[Cheats/Unlock Road Trip Codes Boston]
 patch=1,EE,208D2568,extended,00000001
 
-//Cheats/Unlock Road Trip Codes Tikki Park
+[Cheats/Unlock Road Trip Codes Tikki Park]
 patch=1,EE,208D256C,extended,00000001
 
-//Cheats/Unlock Simon-4
+[Cheats/Unlock Simon-4]
 patch=1,EE,208D1D08,extended,00000001
 
-//Cheats/Unlock Simon-5
+[Cheats/Unlock Simon-5]
 patch=1,EE,208D1D0C,extended,00000001
 
-//Cheats/Unlock Simon-6
+[Cheats/Unlock Simon-6]
 patch=1,EE,208D1D10,extended,00000001
 
-//Cheats/Unlock Simon-7
+[Cheats/Unlock Simon-7]
 patch=1,EE,208D1D14,extended,00000001
 
-//Cheats/Unlock Simon-8
+[Cheats/Unlock Simon-8]
 patch=1,EE,208D1D18,extended,00000001
 
-//Cheats/Unlock Simon-9
+[Cheats/Unlock Simon-9]
 patch=1,EE,208D1D1C,extended,00000001
 
-//Cheats/Unlock Kevin-1
+[Cheats/Unlock Kevin-1]
 patch=1,EE,208D1D20,extended,00000001
 
-//Cheats/Unlock Kevin-2
+[Cheats/Unlock Kevin-2]
 patch=1,EE,208D1D24,extended,00000001
 
-//Cheats/Unlock Kevin-3
+[Cheats/Unlock Kevin-3]
 patch=1,EE,208D1D28,extended,00000001
 
-//Cheats/Unlock Kevin-4
+[Cheats/Unlock Kevin-4]
 patch=1,EE,208D1D2C,extended,00000001
 
-//Cheats/Unlock Kevin-5
+[Cheats/Unlock Kevin-5]
 patch=1,EE,208D1D30,extended,00000001
 
-//Cheats/Unlock Kevin-6
+[Cheats/Unlock Kevin-6]
 patch=1,EE,208D1D34,extended,00000001
 
-//Cheats/Unlock Kevin-7
+[Cheats/Unlock Kevin-7]
 patch=1,EE,208D1D38,extended,00000001
 
-//Cheats/Unlock Kevin-8
+[Cheats/Unlock Kevin-8]
 patch=1,EE,208D1D3C,extended,00000001
 
-//Cheats/Unlock Kevin-9
+[Cheats/Unlock Kevin-9]
 patch=1,EE,208D1D40,extended,00000001
 
-//Cheats/Unlock Corky-1
+[Cheats/Unlock Corky-1]
 patch=1,EE,208D1D44,extended,00000001
 
-//Cheats/Unlock Corky-2
+[Cheats/Unlock Corky-2]
 patch=1,EE,208D1D48,extended,00000001
 
-//Cheats/Unlock Corky-3
+[Cheats/Unlock Corky-3]
 patch=1,EE,208D1D4C,extended,00000001
 
-//Cheats/Unlock Corky-4
+[Cheats/Unlock Corky-4]
 patch=1,EE,208D1D50,extended,00000001
 
-//Cheats/Unlock Corky-5
+[Cheats/Unlock Corky-5]
 patch=1,EE,208D1D54,extended,00000001
 
-//Cheats/Unlock Corky-6
+[Cheats/Unlock Corky-6]
 patch=1,EE,208D1D58,extended,00000001
 
-//Cheats/Unlock Corky-7
+[Cheats/Unlock Corky-7]
 patch=1,EE,208D1D5C,extended,00000001
 
-//Cheats/Unlock Corky-8
+[Cheats/Unlock Corky-8]
 patch=1,EE,208D1D60,extended,00000001
 
-//Cheats/Unlock Corky-9
+[Cheats/Unlock Corky-9]
 patch=1,EE,208D1D64,extended,00000001
 
-//Cheats/Unlock Rubens-1
+[Cheats/Unlock Rubens-1]
 patch=1,EE,208D1D68,extended,00000001
 
-//Cheats/Unlock Rubens-2
+[Cheats/Unlock Rubens-2]
 patch=1,EE,208D1D6C,extended,00000001
 
-//Cheats/Unlock Rubens-3
+[Cheats/Unlock Rubens-3]
 patch=1,EE,208D1D70,extended,00000001
 
-//Cheats/Unlock Rubens-4
+[Cheats/Unlock Rubens-4]
 patch=1,EE,208D1D74,extended,00000001
 
-//Cheats/Unlock Rubens-5
+[Cheats/Unlock Rubens-5]
 patch=1,EE,208D1D78,extended,00000001
 
-//Cheats/Unlock Rubens-6
+[Cheats/Unlock Rubens-6]
 patch=1,EE,208D1D7C,extended,00000001
 
-//Cheats/Unlock Rubens-7
+[Cheats/Unlock Rubens-7]
 patch=1,EE,208D1D80,extended,00000001
 
-//Cheats/Unlock Rubens-8
+[Cheats/Unlock Rubens-8]
 patch=1,EE,208D1D84,extended,00000001
 
-//Cheats/Unlock Rubens-9
+[Cheats/Unlock Rubens-9]
 patch=1,EE,208D1D88,extended,00000001
 
-//Cheats/Unlock Seth-1
+[Cheats/Unlock Seth-1]
 patch=1,EE,208D1D8C,extended,00000001
 
-//Cheats/Unlock Seth-2
+[Cheats/Unlock Seth-2]
 patch=1,EE,208D1D90,extended,00000001
 
-//Cheats/Unlock Seth-3
+[Cheats/Unlock Seth-3]
 patch=1,EE,208D1D94,extended,00000001
 
-//Cheats/Unlock Seth-4
+[Cheats/Unlock Seth-4]
 patch=1,EE,208D1D98,extended,00000001
 
-//Cheats/Unlock Seth-5
+[Cheats/Unlock Seth-5]
 patch=1,EE,208D1D9C,extended,00000001
 
-//Cheats/Unlock Seth-6
+[Cheats/Unlock Seth-6]
 patch=1,EE,208D1DA0,extended,00000001
 
-//Cheats/Unlock Seth-7
+[Cheats/Unlock Seth-7]
 patch=1,EE,208D1DA4,extended,00000001
 
-//Cheats/Unlock Seth-8
+[Cheats/Unlock Seth-8]
 patch=1,EE,208D1DA8,extended,00000001
 
-//Cheats/Unlock Seth-9
+[Cheats/Unlock Seth-9]
 patch=1,EE,208D1DAC,extended,00000001
 
-//Cheats/Unlock Nate-1
+[Cheats/Unlock Nate-1]
 patch=1,EE,208D1DB0,extended,00000001
 
-//Cheats/Unlock Nate-2
+[Cheats/Unlock Nate-2]
 patch=1,EE,208D1DB4,extended,00000001
 
-//Cheats/Unlock Nate-3
+[Cheats/Unlock Nate-3]
 patch=1,EE,208D1DB8,extended,00000001
 
-//Cheats/Unlock Nate-4
+[Cheats/Unlock Nate-4]
 patch=1,EE,208D1DBC,extended,00000001
 
-//Cheats/Unlock Nate-5
+[Cheats/Unlock Nate-5]
 patch=1,EE,208D1DC0,extended,00000001
 
-//Cheats/Unlock Nate-6
+[Cheats/Unlock Nate-6]
 patch=1,EE,208D1DC4,extended,00000001
 
-//Cheats/Unlock Nate-7
+[Cheats/Unlock Nate-7]
 patch=1,EE,208D1DC8,extended,00000001
 
-//Cheats/Unlock Nate-8
+[Cheats/Unlock Nate-8]
 patch=1,EE,208D1DCC,extended,00000001
 
-//Cheats/Unlock Nate-9
+[Cheats/Unlock Nate-9]
 patch=1,EE,208D1DD0,extended,00000001
 
-//Cheats/Unlock Music Freestyler
+[Cheats/Unlock Music Freestyler]
 patch=1,EE,208D1C24,extended,00000001
 
-//Cheats/Unlock Music Damaged Goods
+[Cheats/Unlock Music Damaged Goods]
 patch=1,EE,208D1C28,extended,00000001
 
-//Cheats/Unlock Music Reckless
+[Cheats/Unlock Music Reckless]
 patch=1,EE,208D1C2C,extended,00000001
 
-//Cheats/Unlock Music Boot The Booty
+[Cheats/Unlock Music Boot The Booty]
 patch=1,EE,208D1C30,extended,00000001
 
-//Cheats/Unlock Music Forwrad Nation
+[Cheats/Unlock Music Forwrad Nation]
 patch=1,EE,208D1C34,extended,00000001
 
-//Cheats/Unlock Music Rock Star
+[Cheats/Unlock Music Rock Star]
 patch=1,EE,208D1C38,extended,00000001
 
-//Cheats/Unlock Music All A Dream
+[Cheats/Unlock Music All A Dream]
 patch=1,EE,208D1C3C,extended,00000001
 
-//Cheats/Unlock All Levels Free Ride And Session Chicago
+[Cheats/Unlock All Levels Free Ride And Session Chicago]
 patch=1,EE,208D1C50,extended,00000001
 
-//Cheats/Unlock All Levels Free Ride And Session LA
+[Cheats/Unlock All Levels Free Ride And Session LA]
 patch=1,EE,208D1C54,extended,00000001
 
-//Cheats/Unlock All Levels Free Ride And Session Las Vegas
+[Cheats/Unlock All Levels Free Ride And Session Las Vegas]
 patch=1,EE,208D1C58,extended,00000001
 
-//Cheats/Unlock All Levels Free Ride And Session New Orleans
+[Cheats/Unlock All Levels Free Ride And Session New Orleans]
 patch=1,EE,208D1C5C,extended,00000001
 
-//Cheats/Unlock All Levels Free Ride And Session Portland
+[Cheats/Unlock All Levels Free Ride And Session Portland]
 patch=1,EE,208D1C60,extended,00000001
 
-//Cheats/Unlock All Levels Free Ride And Session Boston
+[Cheats/Unlock All Levels Free Ride And Session Boston]
 patch=1,EE,208D1C64,extended,00000001
 
-//Cheats/Unlock All Levels Free Ride And Session Tiki Park
+[Cheats/Unlock All Levels Free Ride And Session Tiki Park]
 patch=1,EE,208D1C68,extended,00000001
 
-//Cheats/Unlock All Levels Road Trip Chicago
+[Cheats/Unlock All Levels Road Trip Chicago]
 patch=1,EE,208D2554,extended,00000001
 
-//Cheats/Unlock All Levels Road Trip LA
+[Cheats/Unlock All Levels Road Trip LA]
 patch=1,EE,208D2558,extended,00000001
 
-//Cheats/Unlock All Levels Road Trip Las Vegas
+[Cheats/Unlock All Levels Road Trip Las Vegas]
 patch=1,EE,208D255C,extended,00000001
 
-//Cheats/Unlock All Levels Road Trip New Orleans
+[Cheats/Unlock All Levels Road Trip New Orleans]
 patch=1,EE,208D2560,extended,00000001
 
-//Cheats/Unlock All Levels Road Trip Portland
+[Cheats/Unlock All Levels Road Trip Portland]
 patch=1,EE,208D2564,extended,00000001
 
-//Cheats/Unlock All Levels Road Trip Boston
+[Cheats/Unlock All Levels Road Trip Boston]
 patch=1,EE,208D2568,extended,00000001
 
-//Cheats/Unlock All Levels Road Trip Tikki Park
+[Cheats/Unlock All Levels Road Trip Tikki Park]
 patch=1,EE,208D256C,extended,00000001
 
-//Cheats/Mat Hoffman All Costumes
+[Cheats/Mat Hoffman All Costumes]
 patch=1,EE,208D2588,extended,00000001
 patch=1,EE,208D2584,extended,00000001
 
-//Cheats/Matt Hoffman All Bikes
+[Cheats/Matt Hoffman All Bikes]
 patch=1,EE,208D2578,extended,00000001
 patch=1,EE,208D2574,extended,00000001
 

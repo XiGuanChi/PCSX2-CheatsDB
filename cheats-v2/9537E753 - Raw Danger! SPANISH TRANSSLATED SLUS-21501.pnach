@@ -1,9 +1,9 @@
 gametitle=Raw Danger! SPANISH TRANSSLATED SLUS-21501
-//Infinite TP
+[Infinite TP]
 patch=1,EE,2014BD5C,extended,C4400374
 patch=1,EE,2014BD64,extended,E4400370
 
-//Always dry (Has the side effect)
+[Always dry (Has the side effect)]
 patch=1,EE,4062001C,extended,00290011
 patch=1,EE,FF000200,extended,00000000
 patch=1,EE,4062002C,extended,00290011
@@ -11,6 +11,6 @@ patch=1,EE,00000000,extended,00000000
 patch=1,EE,40620030,extended,00290011
 patch=1,EE,00000000,extended,00000000
 
-//Clothing Always Stays Dry 
+[Clothing Always Stays Dry]
 patch=1,EE,2064769C,extended,00000000
 patch=1,EE,2070FEB0,extended,00000000

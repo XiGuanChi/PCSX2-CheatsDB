@@ -1,26 +1,26 @@
-//Cheats/Max Cash
+[Cheats/Max Cash]
 patch=1,EE,203F8BD8,extended,05F0A0B0
 
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,203BD2CC,extended,00910000
 
-//Cheats/Infinite Health Devil Within
+[Cheats/Infinite Health Devil Within]
 patch=1,EE,201703F4,extended,0803FFC0
 patch=1,EE,200FFF00,extended,3C0143F8
 patch=1,EE,200FFF04,extended,AC810018
 patch=1,EE,200FFF08,extended,0805C0FE
 
-//Cheats/Infinite Devil Gauge Devil Within
+[Cheats/Infinite Devil Gauge Devil Within]
 patch=1,EE,201703F0,extended,E4810020
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,203F8B08,extended,FFFFFFFF
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,203F8B10,extended,FFFFFFFF
 patch=1,EE,003F8B14,extended,0000000F
 
-//Cheats/Unlock All Movies, Characters, Gallery, Tekken Bowl
+[Cheats/Unlock All Movies, Characters, Gallery, Tekken Bowl]
 patch=1,EE,2043DFB0,extended,FFFFFFFF
 patch=1,EE,2043DFB4,extended,FFFFFFFF
 patch=1,EE,2043DFB8,extended,FFFFFFFF

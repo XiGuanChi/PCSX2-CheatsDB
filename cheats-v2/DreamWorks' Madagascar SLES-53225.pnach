@@ -1,47 +1,47 @@
 gametitle=DreamWorks' Madagascar SLES-53225
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,2073241C,extended,00000009
 
-//Level Modifier Press R1+L1+R2+L2 anywhere to activate
-//King Of new York
+[Level Modifier Press R1+L1+R2+L2 anywhere to activate]
+[King Of new York]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,00000000
-//Marty's Escape
+[Marty's Escape]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,00000001
-//NY street Chase
+[NY street Chase]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,00000002
-//Penguin Mutiny
+[Penguin Mutiny]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,00000003
-//Mysterious Jungle
+[Mysterious Jungle]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,00000004
-//Lemur Rave
+[Lemur Rave]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,00000005
-//Save the Lemurs
+[Save the Lemurs]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,00000006
-//Jungle banquet
+[Jungle banquet]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,00000007
-//Coming of Age
+[Coming of Age]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,00000008
-//Back to the Beach
+[Back to the Beach]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,00000009
-//Marty to the rescue
+[Marty to the rescue]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,0000000A
-//Final Battle
+[Final Battle]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,0000000B
-//Shuffleboard
+[Shuffleboard]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,0000000C
-//Minigolf
+[Minigolf]
 patch=1,EE,D04B0F42,extended,0000F0FF
 patch=1,EE,20346ACC,extended,0000000D

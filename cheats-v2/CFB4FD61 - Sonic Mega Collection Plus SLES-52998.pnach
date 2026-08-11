@@ -1,79 +1,79 @@
 gametitle=Sonic Mega Collection Plus SLES-52998
-//Megadrive Codes Sonic the Hedgehog infinite Lives
+[Megadrive Codes Sonic the Hedgehog infinite Lives]
 patch=1,EE,00F3DB52,extended,00000063
 
-//infinite Rings
+[infinite Rings]
 patch=1,EE,00F3DB61,extended,00000063
 
-//0:00 Game Time
+[0:00 Game Time]
 patch=1,EE,00F3DB64,extended,00000000
 
-//max.Score
+[max.Score]
 patch=1,EE,10F3DB68,extended,0000FFFF
 
-//Invincibility
+[Invincibility]
 patch=1,EE,00F3DB6D,extended,00000001
 
-//Sonic the Hedgehog 2 infinite Lives
+[Sonic the Hedgehog 2 infinite Lives]
 patch=1,EE,00F3DB52,extended,00000063
 
-//infinite Rings
+[infinite Rings]
 patch=1,EE,00F3DB61,extended,00000063
 
-//0:00 Game Time
+[0:00 Game Time]
 patch=1,EE,00F3DB64,extended,00000000
 
-//max.Score
+[max.Score]
 patch=1,EE,10F3DB68,extended,0000FFFF
 
-//Sonic the Hedgehog 3 infinite Lives
+[Sonic the Hedgehog 3 infinite Lives]
 patch=1,EE,00F3DB52,extended,00000063
 
-//infinite Rings
+[infinite Rings]
 patch=1,EE,00F3DB61,extended,00000063
 
-//0:00 Game Time
+[0:00 Game Time]
 patch=1,EE,00F3DB64,extended,00000000
 
-//max.Score
+[max.Score]
 patch=1,EE,10F3DB68,extended,0000FFFF
 
-//Sonic & Knuckles infinite Lives
+[Sonic & Knuckles infinite Lives]
 patch=1,EE,00F3DB52,extended,00000063
 
-//infinite Rings
+[infinite Rings]
 patch=1,EE,00F3DB61,extended,00000063
 
-//0:00 Game Time
+[0:00 Game Time]
 patch=1,EE,00F3DB64,extended,00000000
 
-//max.Score
+[max.Score]
 patch=1,EE,10F3DB68,extended,0000FFFF
 
-//Sonic 3D Blast infinite Lives
+[Sonic 3D Blast infinite Lives]
 patch=1,EE,00F2E3C1,extended,00000009
 
-//infinite Rings
+[infinite Rings]
 patch=1,EE,00F2E797,extended,00000063
 
-//5 Birds Rescued
+[5 Birds Rescued]
 patch=1,EE,00F2E7CF,extended,00000005
 
-//Sonic Spinball infinite Balls
+[Sonic Spinball infinite Balls]
 patch=1,EE,00F334DE,extended,00000009
 
-//Game Gear Sonic the Hedgehog infinite Lives
+[Game Gear Sonic the Hedgehog infinite Lives]
 patch=1,EE,008F6F40,extended,00000009
 
-//infinite Rings
+[infinite Rings]
 patch=1,EE,008F6FA9,extended,00000063
 
-//0:00 Game Time
+[0:00 Game Time]
 patch=1,EE,008F6FD0,extended,00000000
 
-//Game Gear Sonic Labyrinth Infinite Lives
+[Game Gear Sonic Labyrinth Infinite Lives]
 patch=1,EE,008F6206,extended,00000009
 
-//Iinfinite Time
+[Iinfinite Time]
 patch=1,EE,008F6201,extended,00000009
 patch=1,EE,008F6202,extended,00000009

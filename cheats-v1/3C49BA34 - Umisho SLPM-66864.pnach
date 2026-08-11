@@ -1,22 +1,22 @@
-//Cheats/Max play time during the main story
+[Cheats/Max play time during the main story]
 patch=1,EE,21B628F0,extended,00057E3F
 
-//Cheats/Max total play time of results
+[Cheats/Max total play time of results]
 patch=1,EE,21B62460,extended,157529FF
 
-//Cheats/Unlock Special Menu
+[Cheats/Unlock Special Menu]
 patch=1,EE,21B62268,extended,00000001
 
-//Cheats/Unlock All CG When you look at the album
+[Cheats/Unlock All CG When you look at the album]
 patch=1,EE,20145228,extended,240E0001
 patch=1,EE,2014522C,extended,A1EE0000
 
-//Cheats/When you browse the results, the read achievement rate is 100%
+[Cheats/When you browse the results, the read achievement rate is 100%]
 patch=1,EE,2010C340,extended,240B00FF
 patch=1,EE,2010C344,extended,A1CB0000
 patch=1,EE,2010C348,extended,24020001
 
-//Cheats/Unlock All CG
+[Cheats/Unlock All CG]
 patch=1,EE,20145224,extended,0C0581F0
 patch=1,EE,20145228,extended,01F87821
 patch=1,EE,201607C0,extended,240EFFFF
@@ -24,7 +24,7 @@ patch=1,EE,201607C4,extended,A1EE0000
 patch=1,EE,201607C8,extended,03E00008
 patch=1,EE,201607CC,extended,91EE0000
 
-//Cheats/Unlock All Free Talk
+[Cheats/Unlock All Free Talk]
 patch=1,EE,0044B3BE,extended,000000FF
 
 

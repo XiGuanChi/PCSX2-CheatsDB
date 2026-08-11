@@ -1,22 +1,22 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201C4A18,extended,E4800068
 
-//Cheats/9999 Adderstones
+[Cheats/9999 Adderstones]
 patch=1,EE,105FDA3A,extended,0000270F
 
-//Cheats/9999 Silver
+[Cheats/9999 Silver]
 patch=1,EE,105FD98C,extended,0000270F
 
-//Cheats/Quick Level Up
+[Cheats/Quick Level Up]
 patch=1,EE,405FD97C,extended,00020001
 patch=1,EE,3E583E58,extended,00000000
 
-//Cheats/Unlock All Talents
+[Cheats/Unlock All Talents]
 patch=1,EE,205FDBE4,extended,FFFFFFFF
 
-//Cheats/Unlock All Tunes
+[Cheats/Unlock All Tunes]
 patch=1,EE,205FDBE8,extended,FFFFFFFF
 
-//Cheats/Debug Menu Press L3
+[Cheats/Debug Menu Press L3]
 patch=1,EE,D063F9C2,extended,0000FFFD
 patch=1,EE,205FDF60,extended,0000000

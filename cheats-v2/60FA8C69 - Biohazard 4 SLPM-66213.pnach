@@ -1,31 +1,31 @@
 gametitle=Biohazard 4 SLPM-66213
-//Max Pesetas
+[Max Pesetas]
 patch=1,EE,2042E72C,extended,05F5E0FF
 
-//Does not receive damage do not support the death blow of the last verge.
+[Does not receive damage do not support the death blow of the last verge.]
 patch=1,EE,2014A858,extended,10000011
 patch=1,EE,20146568,extended,10000029
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,1012024C,extended,00000000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,1011F0E0,extended,00000000
 
-//Hero: Maximum physical strength limit
+[Hero: Maximum physical strength limit]
 patch=1,EE,1042E738,extended,00000960
 
-//Recovery of hero's physical strength with L2 button
+[Recovery of hero's physical strength with L2 button]
 patch=1,EE,D0431C64,extended,00000080
 patch=1,EE,1042E736,extended,00000960
 
-//Partner: Maximum physical strength
+[Partner: Maximum physical strength]
 patch=1,EE,1042E73C,extended,000004B0
 
-//Partner's health recovery with L2 button
+[Partner's health recovery with L2 button]
 patch=1,EE,D0431C64,extended,00000080
 patch=1,EE,1042E73A,extended,000004B0
 
-//EXTRAS addition
+[EXTRAS addition]
 patch=1,EE,10431C26,extended,0000FFFF
 patch=1,EE,00431C2D,extended,00000005

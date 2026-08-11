@@ -1,12 +1,12 @@
-//Cheats/Idiot A.I. L1+L2 Enable R1+R2 Disable
+[Cheats/Idiot A.I. L1+L2 Enable R1+R2 Disable]
 patch=1,EE,D1CAA102,extended,0000FAFF
 patch=1,EE,205D3360,extended,24020000
 patch=1,EE,D1CAA102,extended,0000F5FF
 patch=1,EE,205D3360,extended,2C420001
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,201d5a78,extended,a0420000
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,404A2290,extended,00180001
 patch=1,EE,0a0a0a0a,extended,00000000

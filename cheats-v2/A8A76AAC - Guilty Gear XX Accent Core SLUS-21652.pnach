@@ -1,27 +1,27 @@
 gametitle=Guilty Gear XX Accent Core SLUS-21652
-//P1 Infinite HP
+[P1 Infinite HP]
 patch=1,EE,11EF801E,extended,000001A4
 
-//P1 Infinite Burst
+[P1 Infinite Burst]
 patch=1,EE,20398D48,extended,00013A98
 
-//P1 Always Blue Traits
+[P1 Always Blue Traits]
 patch=1,EE,00398C5A,extended,00000001
 
-//P2 No HP (P1 Press Select)
+[P2 No HP (P1 Press Select)]
 patch=1,EE,D045811C,extended,0000FFFE
 patch=1,EE,11EF8142,extended,00000001
 
-//All Characters' color(Normal-EX)and (AC-GG-GGX)
+[All Characters' color(Normal-EX)and (AC-GG-GGX)]
 patch=1,EE,203215E0,extended,0000EA60
 
-//Start On Level 1000 (Survival Mode)
+[Start On Level 1000 (Survival Mode)]
 patch=1,EE,102D5E9C,extended,000003E8
 
-//Always Low Time (Survival Mode)
+[Always Low Time (Survival Mode)]
 patch=1,EE,202D5E90,extended,00000000
 
-//All Gallery unlocked
+[All Gallery unlocked]
 patch=1,EE,2032355C,extended,01010101
 patch=1,EE,20323560,extended,01010101
 patch=1,EE,40323590,extended,000C0001

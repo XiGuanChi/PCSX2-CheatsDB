@@ -1,34 +1,34 @@
 gametitle=Kingdom Hearts II SLUS-21005
-//Infinite HP-All Characters
+[Infinite HP-All Characters]
 patch=1,EE,2019F980,extended,922F0005
 
-//Infinite MP All Characters
+[Infinite MP All Characters]
 patch=1,EE,2019F990,extended,922E0007
 
-//Level 99 All Characters
+[Level 99 All Characters]
 patch=1,EE,0033FECF,extended,00000063
 
-//Infinite Munny
+[Infinite Munny]
 patch=1,EE,2033FE60,extended,000F423F
 
-//Infinite Health (Gummi Ship)
+[Infinite Health (Gummi Ship)]
 patch=1,EE,E0020008,extended,01F23408
 patch=1,EE,21F23408,extended,8C820008
 patch=1,EE,21F2340C,extended,AC820004
 
-//Jimmies Note Book All Maps GIves u Drives as well
+[Jimmies Note Book All Maps GIves u Drives as well]
 patch=1,EE,20340E28,extended,FFFFFFFF
 patch=1,EE,20340E2C,extended,FFFFFFFF
 patch=1,EE,20340E30,extended,FFFFFFFF
 
-//Open all Jiminy's Journal its not to fill just to have
+[Open all Jiminy's Journal its not to fill just to have]
 patch=1,EE,4033FDB0,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//All Heartless Monsters Defeted (Jimmies notes)
+[All Heartless Monsters Defeted (Jimmies notes)]
 patch=1,EE,40340EB0,extended,002F0001
 patch=1,EE,000000FF,extended,00000000
 
-//All Nobody Monsters Defeted (Jimmies notes)
+[All Nobody Monsters Defeted (Jimmies notes)]
 patch=1,EE,40341030,extended,000C0001
 patch=1,EE,000000FF,extended,00000000

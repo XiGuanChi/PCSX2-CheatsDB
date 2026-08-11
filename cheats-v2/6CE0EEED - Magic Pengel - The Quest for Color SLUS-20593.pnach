@@ -1,24 +1,24 @@
 gametitle=Magic Pengel - The Quest for Color SLUS-20593
-//Infinite Money
+[Infinite Money]
 patch=1,EE,1083A584,extended,0000FFFF
 
-//Infinite HP - In Battle
+[Infinite HP - In Battle]
 patch=1,EE,10948FF0,extended,000003E7
 
-//Max HP - In Battle
+[Max HP - In Battle]
 patch=1,EE,10948FF4,extended,000003E7
 
-//Infinite NP - In Battle
+[Infinite NP - In Battle]
 patch=1,EE,10948FF2,extended,000003E7
 
-//Max MP - In Battle
+[Max MP - In Battle]
 patch=1,EE,10948FF6,extended,000003E7
 
-//Have All Parts
+[Have All Parts]
 patch=1,EE,2083A4D0,extended,FFFFFFFF
 
-//Have All Paint Colors
+[Have All Paint Colors]
 patch=1,EE,2083A4D4,extended,FFFFFFFF
 
-//Have All Paint Brushes/Stances
+[Have All Paint Brushes/Stances]
 patch=1,EE,2083A4D8,extended,FFFFFFFF

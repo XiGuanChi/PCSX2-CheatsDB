@@ -1,35 +1,35 @@
-//Cheats/P1 Infinite HP
+[Cheats/P1 Infinite HP]
 patch=1,EE,1050F348,extended,00000067
 patch=1,EE,D050F362,extended,00000000
 patch=1,EE,1050F348,extended,00000077
 
-//Cheats/P1 Infinite Power
+[Cheats/P1 Infinite Power]
 patch=1,EE,2050F2F8,extended,40008000
 patch=1,EE,1050F32C,extended,00000202
 patch=1,EE,0050F3F3,extended,00000004
 
-//Cheats/P2 No HP P1 Press SELECT
+[Cheats/P2 No HP P1 Press SELECT]
 patch=1,EE,D150F982,extended,0000FFFE
 patch=1,EE,1050F548,extended,00000000
 
-//Cheats/Unlock All Challenge Cleared
+[Cheats/Unlock All Challenge Cleared]
 patch=1,EE,405139E0,extended,00070001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,105139FC,extended,00000202
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,10513A10,extended,0000FFFF
 
-//Cheats/Unlock All Artwork Dream Match 1999
+[Cheats/Unlock All Artwork Dream Match 1999]
 patch=1,EE,20513AC0,extended,01010101
 
-//Cheats/Unlock All Artwork
+[Cheats/Unlock All Artwork]
 patch=1,EE,40513A50,extended,00040001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Demo & Movies
+[Cheats/Unlock All Demo & Movies]
 patch=1,EE,40513B10,extended,00040001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Enable blood particle effect e.g. Choi's claw attacks just like the Japanese version, also works in Neogeo mode
+[Cheats/Enable blood particle effect e.g. Choi's claw attacks just like the Japanese version, also works in Neogeo mode]
 patch=1,EE,00327da4,extended,a0400000

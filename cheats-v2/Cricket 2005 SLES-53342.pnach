@@ -1,16 +1,16 @@
 gametitle=Cricket 2005 SLES-53342
-//L2 = 1st Batting Team Scores 0
+[L2 = 1st Batting Team Scores 0]
 patch=1,EE,D0925C02,extended,0000FEFF
 patch=1,EE,107ECAE6,extended,00000000
 
-//R2 = 1st Batting Team Scores 9999
+[R2 = 1st Batting Team Scores 9999]
 patch=1,EE,D0925C02,extended,0000FDFF
 patch=1,EE,107ECAE6,extended,0000270F
 
-//L1 = 2nd Batting Team Scores 0
+[L1 = 2nd Batting Team Scores 0]
 patch=1,EE,D0925C02,extended,0000FBFF
 patch=1,EE,107ECAE4,extended,00000000
 
-//R1 = 2nd Batting Team Scores 9999
+[R1 = 2nd Batting Team Scores 9999]
 patch=1,EE,D0925C02,extended,0000F7FF
 patch=1,EE,107ECAE4,extended,0000270F

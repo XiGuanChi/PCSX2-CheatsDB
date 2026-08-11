@@ -1,9 +1,9 @@
 gametitle=F1 Career Challenge SLUS-20693 SLES-51584
-//Player 1 Press ps2_l1.gif + ps2_select.gif To Stop Lap Timer
+[Player 1 Press ps2_l1.gif + ps2_select.gif To Stop Lap Timer]
 patch=1,EE,D05796C2,extended,0000FBFE
 patch=1,EE,2015AE04,extended,00000000
 
-//All Races Are 1 Lap
+[All Races Are 1 Lap]
 patch=1,EE,10455894,extended,00000001
 patch=1,EE,104650A0,extended,00000001
 patch=1,EE,104868F8,extended,00000001
@@ -11,75 +11,75 @@ patch=1,EE,1048A1E8,extended,00000001
 patch=1,EE,1048F744,extended,00000001
 patch=1,EE,104B81A4,extended,00000001
 
-//Quick Licence Time
+[Quick Licence Time]
 patch=1,EE,20466630,extended,00000100
 
-//Pass Licence Test
+[Pass Licence Test]
 patch=1,EE,2032A640,extended,00000007
 
-//For 999 Points, use the code corresponding to the driver whose place you have taken.These slots correspond to the '99 season.
-//M Hakkinen 999 Points
+[For 999 Points, use the code corresponding to the driver whose place you have taken.These slots correspond to the '99 season.]
+[M Hakkinen 999 Points]
 patch=0,EE,10329EF2,extended,000003E7
 
-//D Coulthard 999 Points
+[D Coulthard 999 Points]
 patch=0,EE,10329EF4,extended,000003E7
 
-//M Schumacher 999 Points
+[M Schumacher 999 Points]
 patch=1,EE,10329EF6,extended,000003E7
 
-//E Irvine 999 Points
+[E Irvine 999 Points]
 patch=0,EE,10329EF8,extended,000003E7
 
-//A Zanardi 999 Points
+[A Zanardi 999 Points]
 patch=0,EE,10329EFA,extended,000003E7
 
-//R Scuhmacher 999 Points
+[R Scuhmacher 999 Points]
 patch=0,EE,10329EFC,extended,000003E7
 
-//D Hill 999 Points
+[D Hill 999 Points]
 patch=0,EE,10329EFE,extended,000003E7
 
-//H H Frentzen 999 Points
+[H H Frentzen 999 Points]
 patch=0,EE,10329F00,extended,000003E7
 
-//G Fisichella 999 Points
+[G Fisichella 999 Points]
 patch=0,EE,10329F02,extended,000003E7
 
-//A Wurz 999 Points
+[A Wurz 999 Points]
 patch=0,EE,10329F04,extended,000003E7
 
-//J Alesi 999 Points
+[J Alesi 999 Points]
 patch=0,EE,10329F06,extended,000003E7
 
-//P Diniz 999 Points
+[P Diniz 999 Points]
 patch=0,EE,10329F08,extended,000003E7
 
-//P De La Rosa 999 Points
+[P De La Rosa 999 Points]
 patch=0,EE,10329F0A,extended,000003E7
 
-//T Takagi 999 Points
+[T Takagi 999 Points]
 patch=0,EE,10329F0C,extended,000003E7
 
-//R Barrichello 999 Points
+[R Barrichello 999 Points]
 patch=0,EE,10329F0E,extended,000003E7
 
-//J Herbert 999 Points
+[J Herbert 999 Points]
 patch=0,EE,10329F10,extended,000003E7
 
-//O Panis 999 Points
+[O Panis 999 Points]
 patch=0,EE,10329F12,extended,000003E7
 
-//J Trulli 999 Points
+[J Trulli 999 Points]
 patch=0,EE,10329F14,extended,000003E7
 
-//L Badoer 999 Points
+[L Badoer 999 Points]
 patch=0,EE,10329F16,extended,000003E7
 
-//M Gene 999 Points
+[M Gene 999 Points]
 patch=0,EE,10329F18,extended,000003E7
 
-//J Villeneuve 999 Points
+[J Villeneuve 999 Points]
 patch=0,EE,10329F1A,extended,000003E7
 
-//M Salo 999 Points
+[M Salo 999 Points]
 patch=0,EE,10329F1C,extended,000003E7

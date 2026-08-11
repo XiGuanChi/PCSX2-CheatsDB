@@ -1,18 +1,18 @@
-//Cheats/P1 Scores 0 Goals Press Select+Up
+[Cheats/P1 Scores 0 Goals Press Select+Up]
 patch=1,EE,D0739E82,extended,0000FFEE
 patch=1,EE,00680CA0,extended,00000000
 
-//Cheats/P1 Score 9 Goals Press Select+Down
+[Cheats/P1 Score 9 Goals Press Select+Down]
 patch=1,EE,D0739E82,extended,0000FFBE
 patch=1,EE,00680CA0,extended,00000009
 
-//Cheats/P2 Scores 0 Goals Press Select+Left
+[Cheats/P2 Scores 0 Goals Press Select+Left]
 patch=1,EE,D0739E82,extended,0000FF7E
 patch=1,EE,00680CA4,extended,00000000
 
-//Cheats/P2 Scores 99 Goals Press Select+Right
+[Cheats/P2 Scores 99 Goals Press Select+Right]
 patch=1,EE,D0739E82,extended,0000FFDE
 patch=1,EE,00680CA4,extended,00000009
 
-//Cheats/Unlock All Unlockables
+[Cheats/Unlock All Unlockables]
 patch=1,EE,20182F34,extended,00000000

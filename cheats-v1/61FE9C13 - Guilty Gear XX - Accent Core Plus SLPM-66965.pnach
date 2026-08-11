@@ -1,61 +1,61 @@
-//Cheats/P1 Infinite HP
+[Cheats/P1 Infinite HP]
 patch=1,EE,11F4D81E,extended,000001A4
 patch=1,EE,203C4E3C,extended,01A401A4
 
-//Cheats/P1 Infinite Tension
+[Cheats/P1 Infinite Tension]
 patch=1,EE,103C4DD0,extended,00002710
 
-//Cheats/P1 Infinite Guard
+[Cheats/P1 Infinite Guard]
 patch=1,EE,003C4DEA,extended,00000080
 
-//Cheats/P1 Infinite Burst
+[Cheats/P1 Infinite Burst]
 patch=1,EE,203C4EC8,extended,00013A98
 
-//Cheats/P1 Always Blue Traits
+[Cheats/P1 Always Blue Traits]
 patch=1,EE,003C4DDA,extended,00000001
 
-//Cheats/P1 999 Hits
+[Cheats/P1 999 Hits]
 patch=1,EE,103C5018,extended,000003E7
 
-//Cheats/P2 No HP P1 Press Select
+[Cheats/P2 No HP P1 Press Select]
 patch=1,EE,E002FFFE,extended,0045161C
 patch=1,EE,11F4D942,extended,00000000
 patch=1,EE,203C4F84,extended,00000000
 
-//Cheats/Survival Level 9999
+[Cheats/Survival Level 9999]
 patch=1,EE,20111c34,extended,24030000
 
-//Cheats/Survival Time Never Increase
+[Cheats/Survival Time Never Increase]
 patch=1,EE,20204590,extended,00000000
 
-//Cheats/Survival 1p Max Combo Hit
+[Cheats/Survival 1p Max Combo Hit]
 patch=1,EE,202beda0,extended,24020000
 
-//Cheats/Unlock Kliff & Justice
+[Cheats/Unlock Kliff & Justice]
 patch=1,EE,0034CAC3,extended,00000001
 patch=1,EE,0034CAC4,extended,00000001
 
-//Cheats/Unlock All Characters colors
+[Cheats/Unlock All Characters colors]
 patch=1,EE,1034CA70,extended,0000FFFF
 
-//Cheats/Unlock Slash Modes including Gold and Shadow
+[Cheats/Unlock Slash Modes including Gold and Shadow]
 patch=1,EE,4034CA90,extended,000C0001
 patch=1,EE,00010001,extended,00000000
 
-//Cheats/Unlock Normal-EX and AC-GG-GGX
+[Cheats/Unlock Normal-EX and AC-GG-GGX]
 patch=1,EE,4034CAC8,extended,00070001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock Have All Missions Completed with All Characters Plus GGXX Ratings
+[Cheats/Unlock Have All Missions Completed with All Characters Plus GGXX Ratings]
 patch=1,EE,4034E9B8,extended,00C40001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock Have All Story
+[Cheats/Unlock Have All Story]
 patch=1,EE,4034ED58,extended,00060001
 patch=1,EE,03030303,extended,00000000
 patch=1,EE,2034ED70,extended,01010101
 
-//Cheats/Unlock Mission Mode All Completed
+[Cheats/Unlock Mission Mode All Completed]
 patch=1,EE,201D5B90,extended,00456821
 patch=1,EE,201D5B94,extended,24020001
 patch=1,EE,201D5B98,extended,03E00008
@@ -66,12 +66,12 @@ patch=1,EE,201D5BB4,extended,00446821
 patch=1,EE,201D5BB8,extended,0803FCC0
 patch=1,EE,201D5BBC,extended,24020001
 
-//Cheats/Unlock All Gallery Mode & Ex Characters
+[Cheats/Unlock All Gallery Mode & Ex Characters]
 patch=1,EE,4034ED28,extended,000C0001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,1034ED58,extended,00000202
 
-//Cheats/Unlock All Gallery Special & Secret
+[Cheats/Unlock All Gallery Special & Secret]
 patch=1,EE,4034ECE4,extended,00060001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,1034ECFC,extended,00000101

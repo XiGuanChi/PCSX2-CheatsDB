@@ -1,15 +1,15 @@
-//Cheats/Max Value 2
+[Cheats/Max Value 2]
 patch=1,EE,20503ce4,extended,05f5e100
 
-//Cheats/Value 3 is 0
+[Cheats/Value 3 is 0]
 patch=1,EE,20503cdc,extended,00000000
 
-//Cheats/Value 3 is 9.999
+[Cheats/Value 3 is 9.999]
 patch=1,EE,20503cdc,extended,0000270f
 
-//Cheats/Value 3 is 99.999.999
+[Cheats/Value 3 is 99.999.999]
 patch=1,EE,20503cdc,extended,05f5e0ff
 
-//Cheats/Time 00:00:00
+[Cheats/Time 00:00:00]
 patch=1,EE,20503ce0,extended,00000000
 

@@ -1,195 +1,195 @@
 gametitle=Darkwatch NTSC-U SLUS-21042 327053E8
-// checked_by=GamingDragon93; merged_files=SLUS-21042_327053e8.pnach | SLUS-21042_3.27E+13.pnach
+[checked_by=GamingDragon93; merged_files=SLUS-21042_327053e8.pnach | SLUS-21042_3.27E+13.pnach]
 
 
-//60 FPS
+[60 FPS]
 author=GamingDragon93
 description=Might need EE overclock (130%).
 patch=0,EE,004F330C,word,A38087F8
 
 
-//Bomb 5
+[Bomb 5]
 author=GamingDragon93
 description=Bomb 5
-// Bomb 5
+[Bomb 5]
 patch=1,EE,9047F3A0,extended,0C12190C
 
-//Infinite Health
+[Infinite Health]
 author=GamingDragon93
 description=Infinite Health
-// Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,8C81000C
 
-//Infinite Health #2
+[Infinite Health #2]
 author=GamingDragon93
 description=Infinite Health
-// Infinite Health
+[Infinite Health]
 patch=1,EE,200C0224,extended,8C210090
 
-//Infinite Health #3
+[Infinite Health #3]
 author=GamingDragon93
 description=Infinite Health
-// Infinite Health
+[Infinite Health]
 patch=1,EE,200C0228,extended,30210006
 
-//Infinite Health #4
+[Infinite Health #4]
 author=GamingDragon93
 description=Infinite Health
-// Infinite Health
+[Infinite Health]
 patch=1,EE,200C022C,extended,10200002
 
-//Infinite Health #5
+[Infinite Health #5]
 author=GamingDragon93
 description=Infinite Health
-// Infinite Health
+[Infinite Health]
 patch=1,EE,200C0230,extended,8C81002C
 
-//Infinite Health #6
+[Infinite Health #6]
 author=GamingDragon93
 description=Infinite Health
-// Infinite Health
+[Infinite Health]
 patch=1,EE,200C0234,extended,AC810098
 
-//Infinite Health #7
+[Infinite Health #7]
 author=GamingDragon93
 description=Infinite Health
-// Infinite Health
+[Infinite Health]
 patch=1,EE,200C0238,extended,08087A51
 
-//Infinite Health #8
+[Infinite Health #8]
 author=GamingDragon93
 description=Infinite Health
-// Infinite Health
+[Infinite Health]
 patch=1,EE,200C023C,extended,C4800098
 
-//Infinite Health #9
+[Infinite Health #9]
 author=GamingDragon93
 description=Infinite Health
-// Infinite Health
+[Infinite Health]
 patch=1,EE,2021E940,extended,08030088
 
-//Infinite Blood Shield
+[Infinite Blood Shield]
 author=GamingDragon93
 description=Infinite Blood Shield
-// Infinite Blood Shield
+[Infinite Blood Shield]
 patch=1,EE,200C0240,extended,8C81000C
 
-//Infinite Blood Shield #2
+[Infinite Blood Shield #2]
 author=GamingDragon93
 description=Infinite Blood Shield
-// Infinite Blood Shield
+[Infinite Blood Shield]
 patch=1,EE,200C0244,extended,8C210090
 
-//Infinite Blood Shield #3
+[Infinite Blood Shield #3]
 author=GamingDragon93
 description=Infinite Blood Shield
-// Infinite Blood Shield
+[Infinite Blood Shield]
 patch=1,EE,200C0248,extended,30210006
 
-//Infinite Blood Shield #4
+[Infinite Blood Shield #4]
 author=GamingDragon93
 description=Infinite Blood Shield
-// Infinite Blood Shield
+[Infinite Blood Shield]
 patch=1,EE,200C024C,extended,10200002
 
-//Infinite Blood Shield #5
+[Infinite Blood Shield #5]
 author=GamingDragon93
 description=Infinite Blood Shield
-// Infinite Blood Shield
+[Infinite Blood Shield]
 patch=1,EE,200C0250,extended,8C8100A4
 
-//Infinite Blood Shield #6
+[Infinite Blood Shield #6]
 author=GamingDragon93
 description=Infinite Blood Shield
-// Infinite Blood Shield
+[Infinite Blood Shield]
 patch=1,EE,200C0254,extended,AC8100A0
 
-//Infinite Blood Shield #7
+[Infinite Blood Shield #7]
 author=GamingDragon93
 description=Infinite Blood Shield
-// Infinite Blood Shield
+[Infinite Blood Shield]
 patch=1,EE,200C0258,extended,08087A55
 
-//Infinite Blood Shield #8
+[Infinite Blood Shield #8]
 author=GamingDragon93
 description=Infinite Blood Shield
-// Infinite Blood Shield
+[Infinite Blood Shield]
 patch=1,EE,200C025C,extended,C48000A0
 
-//Infinite Blood Shield #9
+[Infinite Blood Shield #9]
 author=GamingDragon93
 description=Infinite Blood Shield
-// Infinite Blood Shield
+[Infinite Blood Shield]
 patch=1,EE,2021E950,extended,08030090
 
-//Infinite Ammo
+[Infinite Ammo]
 author=GamingDragon93
 description=Infinite Ammo
-// Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,202A7918,extended,00000000
 
-//Max Infinite Ammo
+[Max Infinite Ammo]
 author=GamingDragon93
 description=Max Infinite Ammo
-// Max Infinite Ammo
+[Max Infinite Ammo]
 patch=1,EE,202A7914,extended,240303E7
 
-//Extra Ammo
+[Extra Ammo]
 author=GamingDragon93
 description=Extra Ammo
-// Extra Ammo
+[Extra Ammo]
 patch=1,EE,202A7914,extended,00731821
 
-//Never Reload
+[Never Reload]
 author=GamingDragon93
 description=Never Reload
-// Never Reload
+[Never Reload]
 patch=1,EE,20234D54,extended,24450000
 
-//Infinite Throwing Items
+[Infinite Throwing Items]
 author=GamingDragon93
 description=Infinite Throwing Items
-// Infinite Throwing Items
+[Infinite Throwing Items]
 patch=1,EE,202A5C4C,extended,00000000
 
-//Max Infinite Throwing Items
+[Max Infinite Throwing Items]
 author=GamingDragon93
 description=Max Infinite Throwing Items
-// Max Infinite Throwing Items
+[Max Infinite Throwing Items]
 patch=1,EE,202A5C48,extended,24030009
 
-//Extra Throwing Items
+[Extra Throwing Items]
 author=GamingDragon93
 description=Extra Throwing Items
-// Extra Throwing Items
+[Extra Throwing Items]
 patch=1,EE,202A5C48,extended,00701821
 
-//Infinite Blood Bar
+[Infinite Blood Bar]
 author=GamingDragon93
 description=Infinite Blood Bar
-// Infinite Blood Bar
+[Infinite Blood Bar]
 patch=1,EE,2021F684,extended,00000000
 
-//P1 Press Right+{SELECT} To Enable Infinite Power Usage
+[P1 Press Right+{SELECT} To Enable Infinite Power Usage]
 author=GamingDragon93
 description=P1 Press Right+{SELECT} To Enable Infinite Power Usage
-// P1 Press Right+{SELECT} To Enable Infinite Power Usage
+[P1 Press Right+{SELECT} To Enable Infinite Power Usage]
 patch=1,EE,D072C082,extended,0000FFDE
 
-//P1 Press Right+{SELECT} To Enable Infinite Power Usage #2
+[P1 Press Right+{SELECT} To Enable Infinite Power Usage #2]
 author=GamingDragon93
 description=P1 Press Right+{SELECT} To Enable Infinite Power Usage
-// P1 Press Right+{SELECT} To Enable Infinite Power Usage
+[P1 Press Right+{SELECT} To Enable Infinite Power Usage]
 patch=1,EE,202693A8,extended,00000000
 
-//P1 Press Left+{SELECT} To Disable Infinite Power Usage
+[P1 Press Left+{SELECT} To Disable Infinite Power Usage]
 author=GamingDragon93
 description=P1 Press Left+{SELECT} To Disable Infinite Power Usage
-// P1 Press Left+{SELECT} To Disable Infinite Power Usage
+[P1 Press Left+{SELECT} To Disable Infinite Power Usage]
 patch=1,EE,D072C082,extended,0000FF7E
 
-//P1 Press Left+{SELECT} To Disable Infinite Power Usage #2
+[P1 Press Left+{SELECT} To Disable Infinite Power Usage #2]
 author=GamingDragon93
 description=P1 Press Left+{SELECT} To Disable Infinite Power Usage
-// P1 Press Left+{SELECT} To Disable Infinite Power Usage
+[P1 Press Left+{SELECT} To Disable Infinite Power Usage]
 patch=1,EE,202693A8,extended,E60100FC

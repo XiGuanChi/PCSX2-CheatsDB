@@ -1,22 +1,22 @@
-//Cheats/When The Population Inflows 9999 People
+[Cheats/When The Population Inflows 9999 People]
 patch=1,EE,201B78D8,extended,2402270F
 
-//Cheats/Infinite Stamina
+[Cheats/Infinite Stamina]
 patch=1,EE,2014D22C,extended,3C03001E
 patch=1,EE,2014D230,extended,3463C000
 
-//Cheats/When You Display The Status Screen 1 Billion
+[Cheats/When You Display The Status Screen 1 Billion]
 patch=1,EE,201991C8,extended,3C063B9A
 patch=1,EE,201991CC,extended,0C06649D
 patch=1,EE,20199274,extended,34C6CA00
 [Cheats/Unlock ] 20 199278 0805E38C
 patch=1,EE,2019927C,extended,AC4601C0
 
-//Cheats/Popularity Changes Up To Conversation will make it easier to be registered on the town page
+[Cheats/Popularity Changes Up To Conversation will make it easier to be registered on the town page]
 patch=1,EE,201B7914,extended,00000000
 patch=1,EE,201B7928,extended,00000000
 
-//Cheats/Resident Dissatisfaction Progress Press R2+Left To Stop Progress R2+Up To Progress Normally Progress Faster R2+Right
+[Cheats/Resident Dissatisfaction Progress Press R2+Left To Stop Progress R2+Up To Progress Normally Progress Faster R2+Right]
 patch=1,EE,D021C402,extended,0000FD7F
 patch=1,EE,20142ED0,extended,24020000
 patch=1,EE,D021C402,extended,0000FDEF

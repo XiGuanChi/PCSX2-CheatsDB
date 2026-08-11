@@ -1,31 +1,31 @@
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,20B47CA0,extended,3B9AC9FF
 
-//Cheats/Infinite Health On Foot
+[Cheats/Infinite Health On Foot]
 patch=1,EE,2039eb8c,extended,C4820184
 patch=1,EE,2039eb94,extended,E4820180
 
-//Cheats/Infinite Health In Car
+[Cheats/Infinite Health In Car]
 patch=1,EE,20538828,extended,3C0142C8
 patch=1,EE,20538838,extended,AE610080
 
-//Cheats/Max Infinite Ammo
+[Cheats/Max Infinite Ammo]
 patch=1,EE,203ce7e4,extended,240203E7
 
-//Cheats/Never Reload With Max Clip
+[Cheats/Never Reload With Max Clip]
 patch=1,EE,203d0460,extended,24030063
 
-//Cheats/Less Vehicle Damage
+[Cheats/Less Vehicle Damage]
 patch=1,EE,20380db0,extended,03E00008
 patch=1,EE,20380db4,extended,00000000
 
-//Cheats/Vehicles Never Locked
+[Cheats/Vehicles Never Locked]
 patch=1,EE,20380bb0,extended,03E00008
 patch=1,EE,20380bb0,extended,24020000
 
-//Cheats/Visibility Never Increases
+[Cheats/Visibility Never Increases]
 patch=1,EE,204761b0,extended,00000000
 
-//Cheats/Cop Heat Never Increases
+[Cheats/Cop Heat Never Increases]
 patch=1,EE,20475f60,extended,03E00008
 patch=1,EE,20475f64,extended,00000000

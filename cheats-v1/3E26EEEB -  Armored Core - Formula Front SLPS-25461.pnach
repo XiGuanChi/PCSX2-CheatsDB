@@ -1,152 +1,152 @@
-//Cheats/Time 0 Press SELECT
+[Cheats/Time 0 Press SELECT]
 patch=1,EE,D192D302,extended,0000FFFE
 patch=1,EE,202FED08,extended,00000000
 
-//Cheats/GRID 1 aircraft AP operation 1P SELECT+L1 GRID 1 AP 9999
+[Cheats/GRID 1 aircraft AP operation 1P SELECT+L1 GRID 1 AP 9999]
 patch=1,EE,D192D302,extended,0000FBFE 
 patch=1,EE,2192E414,extended,00009C3C
 patch=1,EE,D192D302,extended,0000FEFE
 patch=1,EE,2192E414,extended,00000001
 
-//Cheats/GRID 2 unit AP operation AP operation 1P SELECT+L1 GRID 2 AP 9999
+[Cheats/GRID 2 unit AP operation AP operation 1P SELECT+L1 GRID 2 AP 9999]
 patch=1,EE,219309E4,extended,00009C3C
 patch=1,EE,D192D302,extended,0000FDFE
 patch=1,EE,219309E4,extended,00000001
 
-//Cheats/GRID 1 Right Arm Both Arms Weapon Infinite Ammo
+[Cheats/GRID 1 Right Arm Both Arms Weapon Infinite Ammo]
 patch=1,EE,2192EC94,extended,270F270F
 
-//Cheats/GRID 1 Right Arm Both Arms Weapon Max Power
+[Cheats/GRID 1 Right Arm Both Arms Weapon Max Power]
 patch=1,EE,2192ECB0,extended,0000FFFF
 
-//Cheats/GRID 1 Right Arm Both Arms Weapon gun type reload time 0
+[Cheats/GRID 1 Right Arm Both Arms Weapon gun type reload time 0]
 patch=1,EE,0192EC87,extended,00000000
 
-//Cheats/GRID 1 Right Arm Both Arms Weapon Gun Type Firing Interval 0
+[Cheats/GRID 1 Right Arm Both Arms Weapon Gun Type Firing Interval 0]
 patch=1,EE,1192ECF6,extended,00007000
 
-//Cheats/GRID 1 Right Arm Both Arms Weapon Max Lock Sight
+[Cheats/GRID 1 Right Arm Both Arms Weapon Max Lock Sight]
 patch=1,EE,2192ECB8,extended,461C0000
 patch=1,EE,2192ECBC,extended,461C0000
 patch=1,EE,2192ECC0,extended,461C0000
 patch=1,EE,2192ECC4,extended,41000000
 patch=1,EE,2192ECC8,extended,41000 000
 
-//Cheats/GRID 1 Right Arm Both Arms Weapon Max Missile Lock
+[Cheats/GRID 1 Right Arm Both Arms Weapon Max Missile Lock]
 patch=1,EE,1192ECD2,extended,0000000C
 
-//Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Infinite Ammo
+[Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Infinite Ammo]
 patch=1,EE,2192ED24,extended,270F270F
 
-//Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Max Power
+[Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Max Power]
 patch=1,EE,1192ED3E,extended,0000FFFF
 
-//Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Max Hit Fever
+[Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Max Hit Fever]
 patch=1,EE,1192ED40,extended,0000FFFF
 
-//Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Gun Type Reload Time 0
+[Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Gun Type Reload Time 0]
 patch=1,EE,0192ED17,extended,00000000
 
-//Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Gun Type Fire Interval 0
+[Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Gun Type Fire Interval 0]
 patch=1,EE,1192ED86,extended,00007000
 
-//Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Max Lock Sight
+[Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Max Lock Sight]
 patch=1,EE,2192ED48,extended,461C0000
 patch=1,EE,2192ED4C,extended,461C0000
 patch=1,EE,2192ED50,extended,461C0000 
 patch=1,EE,2192ED54,extended,41000000
 patch=1,EE,2192ED58,extended,41000000
 
-//Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Max number of missile locks
+[Cheats/GRID 1 Left Shoulder Both Shoulders Weapon Max number of missile locks]
 patch=1,EE,1192ED62,extended,0000000C
 
-//Cheats/GRID 1 Right shoulder weapon Infinite ammo
+[Cheats/GRID 1 Right shoulder weapon Infinite ammo]
 patch=1,EE,2192EDB4,extended,270F270F
 
-//Cheats/GRID 1 Right shoulder weapon Max Power
+[Cheats/GRID 1 Right shoulder weapon Max Power]
 patch=1,EE,1192EDCE,extended,0000FFFF 
 
-//Cheats/GRID 1 Right shoulder weapon Max Hit Fever
+[Cheats/GRID 1 Right shoulder weapon Max Hit Fever]
 patch=1,EE,1192EDD0,extended,0000FFFF
 
-//Cheats/GRID 1 Right shoulder weapon Gun Type Reload Time 0
+[Cheats/GRID 1 Right shoulder weapon Gun Type Reload Time 0]
 patch=1,EE,0192EDA7,extended,00000000
 
-//Cheats/GRID 1 Right shoulder weapon Gun Type Firing Interval 0
+[Cheats/GRID 1 Right shoulder weapon Gun Type Firing Interval 0]
 patch=1,EE,1192EE16,extended,00007000
 
-//Cheats/GRID 1 Right shoulder weapon Max Lock Sight
+[Cheats/GRID 1 Right shoulder weapon Max Lock Sight]
 patch=1,EE,2192EDD8,extended,461C0000
 patch=1,EE,2192EDDC,extended,461C0000
 patch=1,EE,2192EDE0,extended,461C0000 
 patch=1,EE,2192EDE4,extended,41000000 
 patch=1,EE,2192EDE8,extended,41000000
 
-//Cheats/GRID 1 Right shoulder weapon Max number of missile locks
+[Cheats/GRID 1 Right shoulder weapon Max number of missile locks]
 patch=1,EE,1192EDF2,extended,0000000C 
 
-//Cheats/GRID 1 Inside Weapon Infinite Ammo
+[Cheats/GRID 1 Inside Weapon Infinite Ammo]
 patch=1,EE,2192EE44,extended,270F270F 
 
-//Cheats/GRID 1 Inside Weapon Max Power
+[Cheats/GRID 1 Inside Weapon Max Power]
 patch=1,EE,1192EE5E,extended,0000FFFF 
 
-//Cheats/GRID 1 Inside Weapon Max Hit Fever
+[Cheats/GRID 1 Inside Weapon Max Hit Fever]
 patch=1,EE,1192EE60,extended,0000FFFF 
 
-//Cheats/GRID 1 Inside Weapon Gun Type Reload Time 0
+[Cheats/GRID 1 Inside Weapon Gun Type Reload Time 0]
 patch=1,EE,0192EE37,extended,00000000 
 
 [Cheats/GRID 1 Inside Weapon Gun Type Firing Interval 0] Firing Interval 0 
 patch=1,EE,1192EEA6,extended,00007000 
 
-//Cheats/GRID 1 Inside Weapon Max Lock Sight
+[Cheats/GRID 1 Inside Weapon Max Lock Sight]
 patch=1,EE,2192EE68,extended,461C0000 
 patch=1,EE,2192EE6C,extended,461C0000 
 patch=1,EE,2192EE70,extended,461C0000
 patch=1,EE,2192EE74,extended,41000000
 patch=1,EE,2192EE78,extended,41000000
 
-//Cheats/GRID 1 Extension Weapon Infinite ammo
+[Cheats/GRID 1 Extension Weapon Infinite ammo]
 patch=1,EE,2192EED4,extended,270F270F
 
-//Cheats/GRID 1 Extension Weapon Infinite number of auxiliary systems
+[Cheats/GRID 1 Extension Weapon Infinite number of auxiliary systems]
 patch=1,EE,1193940A,extended,0000270F
 
-//Cheats/GRID 1 Extension Weapon Max Power
+[Cheats/GRID 1 Extension Weapon Max Power]
 patch=1,EE,0192EEC7,extended,00000000 
 
-//Cheats/GRID 1 Extension Weapon Gun Type Firing Interval 0
+[Cheats/GRID 1 Extension Weapon Gun Type Firing Interval 0]
 patch=1,EE,1192EF36,extended,00007000 
 
-//Cheats/GRID 1 Extension Weapon Max Lock Sight
+[Cheats/GRID 1 Extension Weapon Max Lock Sight]
 patch=1,EE,2192EEF8,extended,461C0000 
 patch=1,EE,2192EEFC,extended,461C0000 
 patch=1,EE,2192EF00,extended,461C0000 
 patch=1,EE,2192EF04,extended,41000000 
 patch=1,EE,2192EF08,extended,41000000 
 
-//Cheats/GRID 1 Left arm weapon for gun type Infinite ammo
+[Cheats/GRID 1 Left arm weapon for gun type Infinite ammo]
 patch=1,EE,219395D8,extended,270F270F 
 
-//Cheats/GRID 1 Left arm weapon for gun type Max power
+[Cheats/GRID 1 Left arm weapon for gun type Max power]
 patch=1,EE,119395F2,extended,0000FFFF 
 
-//Cheats/GRID 1 Left arm weapon for gun type Max Hit Fever
+[Cheats/GRID 1 Left arm weapon for gun type Max Hit Fever]
 patch=1,EE,119395F4,extended,0000FFFF 
 
-//Cheats/GRID 1 Left arm weapon for Gun Type Reload Time 0
+[Cheats/GRID 1 Left arm weapon for Gun Type Reload Time 0]
 patch=1,EE,019395CB,extended,00000000 
 
-//Cheats/GRID 1 Left arm weapon for Gun Type Firing Interval 0
+[Cheats/GRID 1 Left arm weapon for Gun Type Firing Interval 0]
 patch=1,EE,1193963A,extended,00007000 
 
-//Cheats/GRID 1 Left arm weapon for gun type Max rock site
+[Cheats/GRID 1 Left arm weapon for gun type Max rock site]
 patch=1,EE,219395FC,extended,461C0000
 patch=1,EE,21939600,extended,461C0000
 patch=1,EE,21939604,extended,461C0000
 patch=1,EE,21939608,extended,41000000
 patch=1,EE,2193960C,extended,41000000
 
-//Cheats/GRID 1 Left arm weapon for gun type Max number of missile locks
+[Cheats/GRID 1 Left arm weapon for gun type Max number of missile locks]
 patch=1,EE,11939616,extended,0000000C

@@ -1,10 +1,10 @@
 gametitle=Tough - Dark Fight SLPM-62613
-//Player 1 Infinite Health
+[Player 1 Infinite Health]
 patch=1,EE,10440E2A,extended,000042C8
 
-//Player 1 Wins Fights by Winning 1 Round 
+[Player 1 Wins Fights by Winning 1 Round]
 patch=1,EE,0038F228,extended,00000002
 
-//Player 2 No Health P1 press SELECT
+[Player 2 No Health P1 press SELECT]
 patch=1,EE,D150F982,extended,0000FFFE
 patch=1,EE,10441A7A,extended,00000000

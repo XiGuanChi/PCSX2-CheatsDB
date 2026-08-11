@@ -1,12 +1,12 @@
 gametitle=Disney's The Haunted Mansion SLUS-20681
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,2014928C,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20156288,extended,C6610200
 patch=1,EE,2015628C,extended,E6610204
 
-//Have: Room Souls Collected
+[Have: Room Souls Collected]
 patch=1,EE,2015E044,extended,00020820
 patch=1,EE,2015E048,extended,8C220004
 patch=1,EE,2015E04C,extended,AC220000

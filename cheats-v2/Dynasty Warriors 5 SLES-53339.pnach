@@ -1,20 +1,20 @@
 gametitle=Dynasty Warriors 5 SLES-53339
-//Instant Win (Press Select)
+[Instant Win (Press Select)]
 patch=1,EE,D031be1c,extended,0000fffe
 patch=1,EE,204bee68,extended,00050005
 
-//infinite Time  
+[infinite Time]
 patch=1,EE,204bee60,extended,01010101
 
-//infinite Musou
+[infinite Musou]
 patch=1,EE,2018fa68,extended,8441022a
 patch=1,EE,2018fa6c,extended,00010900
 patch=1,EE,2018fa70,extended,a441022c
 
-//infinite Health
+[infinite Health]
 patch=1,EE,2018fa68,extended,84410224
 patch=1,EE,2018fa6c,extended,00010900
 patch=1,EE,2018fa70,extended,a4410226
 
-//all Charakters
+[all Charakters]
 patch=1,EE,201965b0,extended,a0420000

@@ -1,12 +1,12 @@
 gametitle=Medal of Honor - Rising Sun SLUS-20753
-//Infinite Health
+[Infinite Health]
 patch=1,EE,203CB9F0,extended,00000001
 
-//Unlock All Bonus
+[Unlock All Bonus]
 patch=1,EE,2010BF64,extended,FFFFFFFF
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,2010BF54,extended,FFFFFFFF
 
-//Unlock All Storyboards
+[Unlock All Storyboards]
 patch=1,EE,2010BF5C,extended,FFFFFFFF

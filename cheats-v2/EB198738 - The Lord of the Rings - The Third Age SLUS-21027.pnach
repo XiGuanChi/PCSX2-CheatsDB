@@ -1,5 +1,5 @@
 gametitle=The Lord of the Rings - The Third Age SLUS-21027
-//Infinite HP All Characters
+[Infinite HP All Characters]
 patch=1,EE,200A0000,extended,0043900A
 patch=1,EE,200A0004,extended,2A820002
 patch=1,EE,200A0008,extended,9206009B
@@ -11,7 +11,7 @@ patch=1,EE,200A0038,extended,08062F72
 patch=1,EE,2018BDC4,extended,08028000
 patch=1,EE,2018BDC8,extended,00000000
 
-//Unlock All Scenes
+[Unlock All Scenes]
 patch=1,EE,003A6050,extended,00000001
 patch=1,EE,003A6051,extended,00000001
 patch=1,EE,003A6052,extended,00000001

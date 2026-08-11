@@ -1,14 +1,14 @@
 gametitle=Drakengard SLUS-20732
-//Infinite & Max Health
+[Infinite & Max Health]
 patch=1,EE,203AC860,extended,00000190
 patch=1,EE,203AC864,extended,00000190
 
-//Infinite & Max Special
+[Infinite & Max Special]
 patch=1,EE,203ACD10,extended,00000028
 patch=1,EE,203ACD14,extended,00000028
 
-//Invincible
+[Invincible]
 patch=1,EE,003ACCD6,extended,00000004
 
-//1-Hit Deaths (Enemies)
+[1-Hit Deaths (Enemies)]
 patch=1,EE,20186448,extended,00000000

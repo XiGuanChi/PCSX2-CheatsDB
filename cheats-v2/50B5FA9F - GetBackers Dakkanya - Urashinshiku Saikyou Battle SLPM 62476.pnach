@@ -1,10 +1,10 @@
 gametitle=GetBackers Dakkanya - Urashinshiku Saikyou Battle SLPM 62476
-//HP 9999
+[HP 9999]
 patch=1,EE,202E33B4,extended,00000000
 
-//Physical strength fixing
+[Physical strength fixing]
 patch=1,EE,2034E63C,extended,8E21023C
 patch=1,EE,2034E644,extended,AE210240
 
-//HP 9999
+[HP 9999]
 patch=1,EE,204A7EE0,extended,270F270F

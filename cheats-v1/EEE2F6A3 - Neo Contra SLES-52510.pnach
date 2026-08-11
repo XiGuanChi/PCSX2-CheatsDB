@@ -1,24 +1,24 @@
-//Cheats/Infinite Lives Player 1
+[Cheats/Infinite Lives Player 1]
 patch=1,EE,003c89e4,extended,00000063
 
-//Cheats/Infinite Lives Player 2
+[Cheats/Infinite Lives Player 2]
 patch=1,EE,203C8A24,extended,00000064
 
-//Cheats/Infinite Credirs
+[Cheats/Infinite Credirs]
 patch=1,EE,203C891C,extended,00000063
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,00159768,extended,64020000
 
-//Cheats/Begin With 99 Lifes
+[Cheats/Begin With 99 Lifes]
 patch=1,EE,001317b0,extended,64030064
 patch=1,EE,001317c4,extended,64020064
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,203C8964,extended,00017FF3
 patch=1,EE,203C8968,extended,00017FF3
 
-//Cheats/Unlock All Mission 01-06 exclusive Mission: 07 and Mission: 00
+[Cheats/Unlock All Mission 01-06 exclusive Mission: 07 and Mission: 00]
 patch=1,EE,00145208,extended,24030002
 patch=1,EE,0014522c,extended,0440000D
 patch=1,EE,00145238,extended,0440000A
@@ -30,7 +30,7 @@ patch=1,EE,0014526c,extended,24030002
 patch=1,EE,00145270,extended,AC430008
 patch=1,EE,00145254,extended,24030002
 
-//Cheats/Unlock All Mission 01-06 inclusive Mission: 07 and Mission: 00
+[Cheats/Unlock All Mission 01-06 inclusive Mission: 07 and Mission: 00]
 patch=1,EE,00145208,extended,24030003
 patch=1,EE,0014522c,extended,0440000D
 patch=1,EE,00145238,extended,0440000A

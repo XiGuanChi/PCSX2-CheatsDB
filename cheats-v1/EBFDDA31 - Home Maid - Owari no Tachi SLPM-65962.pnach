@@ -1,11 +1,11 @@
-//Cheats/Unlock All Bonus Graphics Needs a savegame
+[Cheats/Unlock All Bonus Graphics Needs a savegame]
 patch=1,EE,40286F60,extended,002C0001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Graphics Needs a savegame
+[Cheats/Unlock All Graphics Needs a savegame]
 patch=1,EE,40256F60,extended,002C0001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Replays Needs a savegame
+[Cheats/Unlock All Replays Needs a savegame]
 patch=1,EE,401DEC34,extended,006D0001
 patch=1,EE,00000001,extended,00000000

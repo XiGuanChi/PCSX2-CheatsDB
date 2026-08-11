@@ -1,32 +1,32 @@
 gametitle=Armored Core 2 SLUS-20014
-//Max Money
+[Max Money]
 patch=1,EE,203B8C80,extended,05F5E0FF
 
-//Infinite AP
+[Infinite AP]
 patch=1,EE,102BB8F4,extended,00009C3C
 
-//Infinite Power
+[Infinite Power]
 patch=1,EE,102BB8F8,extended,00009C3C
 
-//Always Low Temperature
+[Always Low Temperature]
 patch=1,EE,102BB992,extended,00000000
 
-//infinite Ammo (All Weapons)
+[infinite Ammo (All Weapons)]
 patch=1,EE,2014802C,extended,00000000
 
-//Extra Ammo (All Weapons)
+[Extra Ammo (All Weapons)]
 patch=1,EE,10148028,extended,00000001
 
-//Start On Last Mission
+[Start On Last Mission]
 patch=1,EE,D03B8C88,extended,00200020
 patch=1,EE,203B8C88,extended,00000021
 
-//Start In 1st Rank
+[Start In 1st Rank]
 patch=1,EE,D03B8C94,extended,00300001
 patch=1,EE,103B8C94,extended,00000001
 
-//Human Plus Upgrades
+[Human Plus Upgrades]
 patch=1,EE,103B8C86,extended,0000FFFF
 
-//Quick Arena Wins
+[Quick Arena Wins]
 patch=1,EE,102BF1D4,extended,00000000

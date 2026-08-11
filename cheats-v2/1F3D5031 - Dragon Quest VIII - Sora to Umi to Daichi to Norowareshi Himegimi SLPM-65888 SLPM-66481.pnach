@@ -1,26 +1,26 @@
 gametitle=Dragon Quest VIII - Sora to Umi to Daichi to Norowareshi Himegimi SLPM-65888 SLPM-66481
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,203EA800,extended,05F5E0FF
 
-//Toherosu effect persistent
+[Toherosu effect persistent]
 patch=1,EE,103F0644,extended,000000FF
 
-//All skill level 100 skill-up
+[All skill level 100 skill-up]
 patch=1,EE,2021570C,extended,00000000
 
-//HP 999
+[HP 999]
 patch=1,EE,203EA830,extended,000003E7
 patch=1,EE,203EA834,extended,000003E7
 
-//MP 999
+[MP 999]
 patch=1,EE,203EA838,extended,000003E7
 patch=1,EE,203EA83C,extended,000003E7
 
-//Required code
+[Required code]
 patch=1,EE,20212E68,extended,0C03FFCC
 patch=1,EE,200FFFE0,extended,080856F4
 
-//HP & MP999
+[HP & MP999]
 patch=1,EE,200FFF30,extended,240203E7
 patch=1,EE,200FFF34,extended,70421488
 patch=1,EE,200FFF38,extended,FC820000

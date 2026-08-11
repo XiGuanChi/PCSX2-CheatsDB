@@ -1,34 +1,34 @@
 gametitle=BioHazard Gun Survivor 2 - Code - Veronica SLPM-65060
-//Infinite Continues
+[Infinite Continues]
 patch=1,EE,205961D3,extended,0000000F
 
-//Stage 1 CLEAR! Press  L1 button
+[Stage 1 CLEAR! Press  L1 button]
 patch=1,EE,D1DC8442,extended,0000FBFF
 patch=1,EE,20569356,extended,00000008
 
-//Stage 2 CLEAR! Press the R1 button
+[Stage 2 CLEAR! Press the R1 button]
 patch=1,EE,D1DC8442,extended,0000F7FF
 patch=1,EE,2056935F,extended,00000080
 
-//Stage 3 CLEAR! Press the  SELECT + R1 button
+[Stage 3 CLEAR! Press the  SELECT + R1 button]
 patch=1,EE,D1DC8442,extended,0000FDFE
 patch=1,EE,20569370,extended,0000000C
 
-//Stage 4 CLEAR! Press the  SELECT + L2 button
+[Stage 4 CLEAR! Press the  SELECT + L2 button]
 patch=1,EE,D1DC8442,extended,0000FEFE
 patch=1,EE,2056937F,extended,00000002
 
-//The final stage CLEAR! Press the  SELECT + R2 button
+[The final stage CLEAR! Press the  SELECT + R2 button]
 patch=1,EE,D1DC8442,extended,0000F7FE
 patch=1,EE,20569382,extended,00000010
 
-//Infinite time 
+[Infinite time]
 patch=1,EE,21DF4FB0,extended,00000000
 
-//Infinite time of the experimental body
+[Infinite time of the experimental body]
 patch=1,EE,205961BC,extended,00000000
 
-//Bonus fully open
+[Bonus fully open]
 patch=1,EE,20567E94,extended,FFFFFFFF
 patch=1,EE,00567EDC,extended,00000002
 patch=1,EE,00567EDD,extended,00000006

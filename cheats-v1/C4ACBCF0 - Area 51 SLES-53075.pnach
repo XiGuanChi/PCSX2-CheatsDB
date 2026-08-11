@@ -1,30 +1,30 @@
-//Cheats/Unlocked at 50FPS
+[Cheats/Unlocked at 50FPS]
 patch=1,EE,00382DB8,word,28620001 
 patch=1,EE,E0010001,extended,005BF0C4
 patch=1,EE,20382DB8,extended,28620002
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2026ADC8,extended,00000000
 patch=1,EE,2026ADD8,extended,00000000
 patch=1,EE,2026ADE0,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,201569D4,extended,00000000
 patch=1,EE,20156A94,extended,00000000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,20207AC8,extended,00000000
 
-//Cheats/Infinite Mutagen
+[Cheats/Infinite Mutagen]
 patch=1,EE,20222AEC,extended,00000000
 
-//Cheats/Steady Aiming No Reticule Expansion
+[Cheats/Steady Aiming No Reticule Expansion]
 patch=1,EE,20227D14,extended,00000000
 
-//Cheats/Unlock All Secret Files
+[Cheats/Unlock All Secret Files]
 patch=1,EE,204F9828,extended,00000015
 
-//Cheats/Unlock All Databanks Found
+[Cheats/Unlock All Databanks Found]
 patch=1,EE,104F980C,extended,0000FFFF
 patch=1,EE,104F980E,extended,0000FFFF
 patch=1,EE,104F9810,extended,0000FFFF

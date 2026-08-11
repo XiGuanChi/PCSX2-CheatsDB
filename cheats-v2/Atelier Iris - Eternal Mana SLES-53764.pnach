@@ -1,33 +1,33 @@
 gametitle=Atelier Iris - Eternal Mana SLES-53764
-//Max Cash
+[Max Cash]
 patch=1,EE,20F62E08,extended,000F423F
 
-//Klein Kiesling - Infinite Life
+[Klein Kiesling - Infinite Life]
 patch=1,EE,10F62E2E,extended,000003E7
 
-//Klein Kiesling - Infinite Mana
+[Klein Kiesling - Infinite Mana]
 patch=1,EE,10F62E30,extended,000003E7
 
-//Klein Kiesling - Infinite Skill Points
+[Klein Kiesling - Infinite Skill Points]
 patch=1,EE,10F62E84,extended,000003E7
 
-//999 Element From Extracted Item
+[999 Element From Extracted Item]
 patch=1,EE,2015AA4C,extended,240E03E7
 
-//Infinite Item Use
+[Infinite Item Use]
 patch=1,EE,2015B4E8,extended,00000000
 
-//Unlock all bonuses
+[Unlock all bonuses]
 patch=1,EE,10F62E04,extended,00000300
 patch=1,EE,40F62D70,extended,001E0001
 patch=1,EE,01010101,extended,00000000
 
-//Unlock all Synthesize
+[Unlock all Synthesize]
 patch=1,EE,00F6549F,extended,00000002
 patch=1,EE,40F654A0,extended,00700001
 patch=1,EE,02020202,extended,00000000
 
-//Have All Monster Log Collection
+[Have All Monster Log Collection]
 patch=1,EE,10F6567E,extended,00000202
 patch=1,EE,40F65680,extended,001E0001
 patch=1,EE,02020202,extended,00000000

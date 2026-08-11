@@ -1,21 +1,21 @@
 gametitle=Simple 2000 Series Vol. 107 - The Honoo no Kakutou Banchou SLPS-20474
-//Finish the game
+[Finish the game]
 patch=1,EE,D0574882,extended,0000FFF9
 patch=1,EE,105165FF,extended,0000FFFF
-//  
-//Physical strength 999
+[]
+[Physical strength 999]
 patch=1,EE,40516440,extended,00040001
 patch=1,EE,000003E7,extended,00000000
 
-//Level 5
+[Level 5]
 patch=1,EE,40516450,extended,00080001
 patch=1,EE,000001F4,extended,00000000
 
-//Total profit 999
+[Total profit 999]
 patch=1,EE,1051640C,extended,000003E7
 patch=1,EE,10516414,extended,000003E7
 
-//Map selection  fully open with flag
+[Map selection  fully open with flag]
 patch=1,EE,005164C8,extended,00000002
 patch=1,EE,005164B8,extended,00000002
 patch=1,EE,005164CC,extended,00000002

@@ -1,14 +1,14 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20F902C8,extended,05F5E0FF
 
-//Cheats/Infinite Ammo ASM
+[Cheats/Infinite Ammo ASM]
 patch=1,EE,202D6490,extended,00000000
 
-//Cheats/Infinite Item Usage Battle and Out of Battle
+[Cheats/Infinite Item Usage Battle and Out of Battle]
 patch=1,EE,20124CF8,extended,00000000
 patch=1,EE,202D6410,extended,00000000
 
-//Cheats/In Battle Codes Activator
+[Cheats/In Battle Codes Activator]
 patch=1,EE,200A0000,extended,A60205DE
 patch=1,EE,200A0008,extended,8E0A01FC
 patch=1,EE,200A000C,extended,11400004
@@ -18,57 +18,57 @@ patch=1,EE,200A0030,extended,00711823
 patch=1,EE,202B7CC0,extended,08028000
 patch=1,EE,202B7CC4,extended,00000000
 
-//Cheats/In Battle Infinite HP Only Your Team
+[Cheats/In Battle Infinite HP Only Your Team]
 patch=1,EE,200A0014,extended,00601823
 
-//Cheats/In Battle Infinite Magic
+[Cheats/In Battle Infinite Magic]
 patch=1,EE,202d6384,extended,8d27078C
 patch=1,EE,202d638c,extended,Ad270788
 
-//Cheats/Gain 100 Loyalty
+[Cheats/Gain 100 Loyalty]
 patch=1,EE,202DFCD8,extended,24030064
 
-//Cheats/Max Character HP current
+[Cheats/Max Character HP current]
 patch=1,EE,20F902EC,extended,0000270F
 
-//Cheats/Max Character HP
+[Cheats/Max Character HP]
 patch=1,EE,20F902F0,extended,0000270F
 
-//Cheats/Max Character Mag Current
+[Cheats/Max Character Mag Current]
 patch=1,EE,20F902C0,extended,0000270F
 
-//Cheats/Max Character Mag
+[Cheats/Max Character Mag]
 patch=1,EE,20F902C4,extended,0000270F
 
-//Cheats/Max Character Total Loyalty
+[Cheats/Max Character Total Loyalty]
 patch=1,EE,20F902E0,extended,869F0001
 
-//Cheats/Max Characters Next EXP Level
+[Cheats/Max Characters Next EXP Level]
 patch=1,EE,20F902E8,extended,05F5E0FF
 
-//Cheats/Max Character ST
+[Cheats/Max Character ST]
 patch=1,EE,20F902FC,extended,0000270F
 patch=1,EE,20F90314,extended,0000270F
 
-//Cheats/Max Character Vi
+[Cheats/Max Character Vi]
 patch=1,EE,20F90300,extended,0000270F
 patch=1,EE,20F90314,extended,0000270F
 
-//Cheats/Max Character Ma
+[Cheats/Max Character Ma]
 patch=1,EE,20F90304,extended,0000270F
 patch=1,EE,20F90314,extended,0000270F
 
-//Cheats/Max Character Lu
+[Cheats/Max Character Lu]
 patch=1,EE,20F90308,extended,0000270F
 patch=1,EE,20F90314,extended,0000270F
 
-//Cheats/Have All Business Card
+[Cheats/Have All Business Card]
 patch=1,EE,40F9654C,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10F96564,extended,0000FFFF
 patch=1,EE,00F96566,extended,00000001
 
-//Cheats/Random Battles L1+Select To Disable L2+Select To Enable
+[Cheats/Random Battles L1+Select To Disable L2+Select To Enable]
 patch=1,EE,D04FD1C2,extended,0000FBFE
 patch=1,EE,202CD1B8,extended,00000000
 patch=1,EE,D04FD1C2,extended,0000FEFE

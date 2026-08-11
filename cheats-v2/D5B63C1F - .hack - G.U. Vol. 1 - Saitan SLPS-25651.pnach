@@ -1,77 +1,77 @@
 gametitle=.hack - G.U. Vol. 1 - Saitan SLPS-25651
-//Max GP
+[Max GP]
 patch=1,EE,209FD2D0,extended,05F5E0FF
 
-//When the Kaneiri hand it does, money in hand maximum
+[When the Kaneiri hand it does, money in hand maximum]
 patch=1,EE,201EB18C,extended,10000003
 patch=1,EE,201EB208,extended,10000003
 
-//When the present it lifts, degree of good impression maximum
+[When the present it lifts, degree of good impression maximum]
 patch=1,EE,201EAA54,extended,10000005
 
-//The consumption item using, it does not decrease, It does not decrease at the L2 + top, with the L2 + bottom the normality.
+[The consumption item using, it does not decrease, It does not decrease at the L2 + top, with the L2 + bottom the normality.]
 patch=1,EE,D03D0D42,extended,0000FEEF
 patch=1,EE,201F0298,extended,00000000
 patch=1,EE,D03D0D42,extended,0000FEBF
 patch=1,EE,201F0298,extended,A5230002
 
-//Acquisition experience value 20000
+[Acquisition experience value 20000]
 patch=1,EE,D04D10E8,extended,0004243F
 patch=1,EE,204D10EC,extended,24034E20
 
-//With field HP recovery
+[With field HP recovery]
 patch=1,EE,D04E15A0,extended,00002964
 patch=1,EE,204E162C,extended,00000000
 
-//With field SP recovery
+[With field SP recovery]
 patch=1,EE,D04E15A0,extended,00002964
 patch=1,EE,204E16C0,extended,00000000
 
-//HP 9999
+[HP 9999]
 patch=1,EE,D0490620,extended,00008697
 patch=1,EE,20490628,extended,1000004F
 
-//SP max
+[SP max]
 patch=1,EE,D0490638,extended,00008697
 patch=1,EE,20490640,extended,1000004D
 
-//Physical attack max
+[Physical attack max]
 patch=1,EE,D049064C,extended,00002707
 patch=1,EE,20490650,extended,1000004D
 
-//Physical defense max
+[Physical defense max]
 patch=1,EE,D049065C,extended,00002707
 patch=1,EE,20490660,extended,1000004C
 
-//Magical attack max
+[Magical attack max]
 patch=1,EE,D049066C,extended,00002707
 patch=1,EE,20490670,extended,1000004B
 
-//Magical defense max
+[Magical defense max]
 patch=1,EE,D049067C,extended,00002707
 patch=1,EE,20490680,extended,1000004A
 
-//Fire attribute max
+[Fire attribute max]
 patch=1,EE,D049068C,extended,00002707
 patch=1,EE,20490690,extended,10000049
 
-//Water attribute max
+[Water attribute max]
 patch=1,EE,D049069C,extended,00002707
 patch=1,EE,204906A0,extended,10000048
 
-//Wind attribute max
+[Wind attribute max]
 patch=1,EE,D04906AC,extended,00002707
 patch=1,EE,204906B0,extended,10000047
 
-//Earth attribute max
+[Earth attribute max]
 patch=1,EE,D04906BC,extended,00002707
 patch=1,EE,204906C0,extended,10000046
 
-//Optical attribute max
+[Optical attribute max]
 patch=1,EE,D04906CC,extended,00002707
 patch=1,EE,204906D0,extended,10000045
 
-//Darkness attribute max
+[Darkness attribute max]
 patch=1,EE,D04906DC,extended,00002707
 patch=1,EE,204906E0,extended,10000044
 

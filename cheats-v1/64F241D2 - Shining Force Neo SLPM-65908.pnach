@@ -1,39 +1,39 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20443294,extended,0098967F
 
-//Cheats/Experience Value Acquisition Magnification 1024 Times
+[Cheats/Experience Value Acquisition Magnification 1024 Times]
 patch=1,EE,20218F68,extended,00108280
 
-//Cheats/Max Energy Hero
+[Cheats/Max Energy Hero]
 patch=1,EE,2021B190,extended,05F5E0FF
 patch=1,EE,20443290,extended,0098967F
 
-//Cheats/Max HP Hero
+[Cheats/Max HP Hero]
 patch=1,EE,20BB7704,extended,0098967F
 
-//Cheats/Max MP Hero
+[Cheats/Max MP Hero]
 patch=1,EE,20BB770C,extended,0098967F
 
-//Cheats/Max Exp Hero when obtained
+[Cheats/Max Exp Hero when obtained]
 patch=1,EE,20218F88,extended,2403FFFF
 
-//Cheats/Max HP Partner
+[Cheats/Max HP Partner]
 patch=1,EE,202917E0,extended,8E040010 
 patch=1,EE,202917F0,extended,AE040014 
 
-//Cheats/Max MP Partner
+[Cheats/Max MP Partner]
 patch=1,EE,20291808,extended,8E040018
 patch=1,EE,20291818,extended,AE04001C
 
-//Cheats/Max Exp Partner when obtained
+[Cheats/Max Exp Partner when obtained]
 patch=1,EE,20219230,extended,2403FFFF
 
-//Cheats/If you look at the item it has been identified
+[Cheats/If you look at the item it has been identified]
 patch=1,EE,2029E050,extended,34420001
 patch=1,EE,2029E054,extended,A2020007
 patch=1,EE,2029E05C,extended,24020000
 
-//Cheats/Infinite even if you use consumable items Used 255 times
+[Cheats/Infinite even if you use consumable items Used 255 times]
 patch=1,EE,20294DB4,extended,240300FF
 patch=1,EE,20294DB8,extended,A203 0008
 patch=1,EE,20294DDC,extended,240300FF

@@ -1,29 +1,29 @@
-//Cheats/Infinte Money
+[Cheats/Infinte Money]
 patch=1,EE,203A79EC,extended,0098967F
 
-//Cheats/Infinte Health In Battle
+[Cheats/Infinte Health In Battle]
 patch=1,EE,201AA680,extended,C44001FC
 patch=1,EE,201AA684,extended,E4400200
 patch=1,EE,201AA688,extended,10000002
 
-//Cheats/Infinte Ammo
+[Cheats/Infinte Ammo]
 patch=1,EE,20203214,extended,00000000
 patch=1,EE,202032D4,extended,00000000
 patch=1,EE,2020407C,extended,00000000
 
-//Cheats/Infinte Bombs
+[Cheats/Infinte Bombs]
 patch=1,EE,202021EC,extended,00000000
 
-//Cheats/Asuka Max HP
+[Cheats/Asuka Max HP]
 patch=1,EE,103A9EE0,extended,000003E7
 
-//Cheats/Kaede Max HP
+[Cheats/Kaede Max HP]
 patch=1,EE,103AA000,extended,000003E7
 
-//Cheats/Tokyo Max HP
+[Cheats/Tokyo Max HP]
 patch=1,EE,103AA120,extended,000003E7
 
-//Cheats/Asuka All Stats Max
+[Cheats/Asuka All Stats Max]
 patch=1,EE,103A9EE0,extended,000003E7
 patch=1,EE,103A9EE8,extended,000003E7
 patch=1,EE,103A9EF0,extended,000003E7
@@ -34,7 +34,7 @@ patch=1,EE,203A9FEC,extended,03030303
 patch=1,EE,103A9FF0,extended,00000303
 patch=1,EE,103A9F08,extended,00000000
 
-//Cheats/Kaede All Stats Max
+[Cheats/Kaede All Stats Max]
 patch=1,EE,103AA000,extended,000003E7
 patch=1,EE,103AA008,extended,000003E7
 patch=1,EE,103AA010,extended,000003E7
@@ -45,7 +45,7 @@ patch=1,EE,203AA10C,extended,03030303
 patch=1,EE,003AA110,extended,00000003
 patch=1,EE,103AA028,extended,00000000
 
-//Cheats/Tokyo All Stats Max
+[Cheats/Tokyo All Stats Max]
 patch=1,EE,103AA120,extended,000003E7
 patch=1,EE,103AA128,extended,000003E7
 patch=1,EE,103AA130,extended,000003E7
@@ -54,7 +54,7 @@ patch=1,EE,103AA224,extended,00000606
 patch=1,EE,103AA22C,extended,00000303
 patch=1,EE,103AA148,extended,00000000
 
-//Cheats/Unlock Movie Viewer All Movies
+[Cheats/Unlock Movie Viewer All Movies]
 patch=1,EE,203A9E88,extended,01010101
 patch=1,EE,203A9E8C,extended,01010101
 patch=1,EE,203A9E90,extended,01010101
@@ -64,7 +64,7 @@ patch=1,EE,203A9E9C,extended,01010101
 patch=1,EE,103A9E86,extended,00000101
 patch=1,EE,103A9EA0,extended,00000101
 
-//Cheats/Unlock Monster Viewer All Monsters
+[Cheats/Unlock Monster Viewer All Monsters]
 patch=1,EE,203A9EA8,extended,01010101
 patch=1,EE,203A9EAC,extended,01010101
 patch=1,EE,203A9EB0,extended,01010101

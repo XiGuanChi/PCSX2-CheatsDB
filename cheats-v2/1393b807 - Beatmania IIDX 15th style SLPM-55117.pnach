@@ -1,7 +1,7 @@
 gametitle=Beatmania IIDX 15th style SLPM-55117
 patch=1,EE,00000101
 
-//All lane covers
+[All lane covers]
 patch=1,EE,10850BC6,extended,00000101
 patch=1,EE,20850BC8,extended,01010101
 patch=1,EE,20850BCC,extended,01010101
@@ -10,32 +10,32 @@ patch=1,EE,20850BD4,extended,01010101
 patch=1,EE,20850BD8,extended,01010101
 patch=1,EE,20850BDC,extended,01010101
 
-//All turntables
+[All turntables]
 patch=1,EE,10850C06,extended,00000101
 patch=1,EE,20850C08,extended,01010101
 patch=1,EE,20850C0C,extended,00010101
 
-//All explosions
+[All explosions]
 patch=1,EE,20850C48,extended,01010101
 patch=1,EE,20850C4C,extended,01010101
 patch=1,EE,00850C50,extended,00000001
 
-//All BGM
+[All BGM]
 patch=1,EE,20850C88,extended,01010101
 patch=1,EE,20850C8C,extended,01010101
 patch=1,EE,20850C90,extended,01010101
 patch=1,EE,10850C94,extended,00000101
 
-//All Category Voice
+[All Category Voice]
 patch=1,EE,10850CCA,extended,00000101
 
-//All gallery collections
+[All gallery collections]
 patch=1,EE,20874D04,extended,FFFFFFFF
 patch=1,EE,20874D08,extended,FFFFFFFF
 patch=1,EE,10874D0C,extended,00000FFF
 
-//Always SRAN correction
+[Always SRAN correction]
 patch=1,EE,00850B44,extended,00000001
 
-//Always scratch all
+[Always scratch all]
 patch=1,EE,00850B45,extended,00000001

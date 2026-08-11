@@ -1,59 +1,59 @@
-//Cheats/Infinite Shield Energy
+[Cheats/Infinite Shield Energy]
 patch=1,EE,202B2120,extended,440FC000
 patch=1,EE,202B2128,extended,440FC000
 
-//Cheats/Infinite Weapon Energy
+[Cheats/Infinite Weapon Energy]
 patch=1,EE,202B211C,extended,447A0000
 patch=1,EE,202B2130,extended,447A0000
 
-//Cheats/Unlock Scavenger City - City Circuit
+[Cheats/Unlock Scavenger City - City Circuit]
 patch=1,EE,002A9AAD,extended,00000001
 
-//Cheats/UnlockScavenger City - Outlands Circuit
+[Cheats/UnlockScavenger City - Outlands Circuit]
 patch=1,EE,002A9AAF,extended,00000001
 
-//Cheats/UnlockVostok, Antarctica - Peaks Circuit
+[Cheats/UnlockVostok, Antarctica - Peaks Circuit]
 patch=1,EE,002A9AB1,extended,00000001
 
-//Cheats/Unlock Vostok, Anatarctica - Coastal Circuit
+[Cheats/Unlock Vostok, Anatarctica - Coastal Circuit]
 patch=1,EE,002A9AB3,extended,00000001
 
-//Cheats/Unlock Dunroth's Folly - Folly Circuit
+[Cheats/Unlock Dunroth's Folly - Folly Circuit]
 patch=1,EE,002A9AB5,extended,00000001
 
 
-//Cheats/Unlock Dunroth's Folly - Rift Circuit
+[Cheats/Unlock Dunroth's Folly - Rift Circuit]
 patch=1,EE,002A9AB7,extended,00000001
 
-//Cheats/Unlock Deep Space E.R.F. Station - Mining Dome Circuit
+[Cheats/Unlock Deep Space E.R.F. Station - Mining Dome Circuit]
 patch=1,EE,002A9AB9,extended,00000001
 
-//Cheats/Unlock Deep Space E.R.F. Station - E.R.F. Unit Circuit
+[Cheats/Unlock Deep Space E.R.F. Station - E.R.F. Unit Circuit]
 patch=1,EE,002A9ABB,extended,00000001
 
-//Cheats/Unlock Deep Sea Anomaly - Anomaly 17 Circuit
+[Cheats/Unlock Deep Sea Anomaly - Anomaly 17 Circuit]
 patch=1,EE,002A9ABD,extended,00000001
 
-//Cheats/Unlock Deep Sea Anomaly - Anomaly 19 Circuit
+[Cheats/Unlock Deep Sea Anomaly - Anomaly 19 Circuit]
 patch=1,EE,002A9ABF,extended,00000001
 
-//Cheats/Unlock Santarem, Brazilia - Reacator Circuit
+[Cheats/Unlock Santarem, Brazilia - Reacator Circuit]
 patch=1,EE,002A9AC1,extended,00000001
 
-//Cheats/Unlock Santarem, Brazilia - Tore Circuit
+[Cheats/Unlock Santarem, Brazilia - Tore Circuit]
 patch=1,EE,002A9AC3,extended,00000001
 
-//Cheats/Unlock Culver's Reach - Hellas Ridge Circuit
+[Cheats/Unlock Culver's Reach - Hellas Ridge Circuit]
 patch=1,EE,002A9AC5,extended,00000001
 
-//Cheats/Unlock Culver's Reach - Arabian Ridge Circuit
+[Cheats/Unlock Culver's Reach - Arabian Ridge Circuit]
 patch=1,EE,002A9AC7,extended,00000001
 
-//Cheats/Better speed framerate
+[Cheats/Better speed framerate]
 patch=1,EE,2019AFE4,extended,00000000
 
-//Cheats/No Racers But You
+[Cheats/No Racers But You]
 patch=1,EE,202B9BE0,extended,00000001
 
-//Cheats/Only 1 opponent per race
+[Cheats/Only 1 opponent per race]
 patch=1,EE,202B9BE0,extended,00000002

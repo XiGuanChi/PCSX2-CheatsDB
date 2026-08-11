@@ -1,11 +1,11 @@
 gametitle=Hoshigari Empusa SLPM-66969
-//Max Money Player 1 (999999)
+[Max Money Player 1 (999999)]
 patch=1,EE,203B6878,extended,000F423F
 
-//Max Fame Player 1 (999999)
+[Max Fame Player 1 (999999)]
 patch=1,EE,203B6BB0,extended,000F423F
 
-//New Game (Maria) = Debug Menu
+[New Game (Maria) = Debug Menu]
 patch=1,EE,2020C954,extended,4830305F
 patch=1,EE,2020C958,extended,5F49534F
 patch=1,EE,2020C95C,extended,55424544

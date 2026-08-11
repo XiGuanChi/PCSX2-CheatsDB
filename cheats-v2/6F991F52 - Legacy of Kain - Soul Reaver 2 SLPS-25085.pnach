@@ -1,6 +1,6 @@
 gametitle=Legacy of Kain - Soul Reaver 2 SLPS-25085
-//Debug menu after pressing the L3 button (ON)
-//after pressing the R3 button (OFF)
+[Debug menu after pressing the L3 button (ON)]
+[after pressing the R3 button (OFF)]
 patch=1,EE,D026E6C8,extended,0000FFFD
 patch=1,EE,1023D7A6,extended,00000004
 patch=1,EE,D026E6C8,extended,0000FFFB

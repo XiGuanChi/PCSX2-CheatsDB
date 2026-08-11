@@ -1,10 +1,10 @@
 gametitle=Cold Winter SLUS-20845 D6D704BB
 
-//Infinite Ammo
+[Infinite Ammo]
 author=GamingDragon93
 patch=1,EE,2033998C,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 author=GamingDragon93
 patch=1,EE,200FFE00,extended,8E0100F8
 patch=1,EE,200FFE04,extended,AE0100F4
@@ -12,7 +12,7 @@ patch=1,EE,203221F4,extended,0C03FF80
 patch=1,EE,200FFE10,extended,03E00008
 patch=1,EE,200FFE14,extended,C60000F8
 
-//Infinite Armor
+[Infinite Armor]
 author=GamingDragon93
 patch=1,EE,200FFE08,extended,8E010380
 patch=1,EE,200FFE0C,extended,AE01037C
@@ -20,7 +20,7 @@ patch=1,EE,203221F4,extended,0C03FF80
 patch=1,EE,200FFE10,extended,03E00008
 patch=1,EE,200FFE14,extended,C60000F8
 
-//Infnite Health & Armor
+[Infnite Health & Armor]
 author=GamingDragon93
 patch=1,EE,200FFE00,extended,8E0100F8
 patch=1,EE,200FFE04,extended,AE0100F4

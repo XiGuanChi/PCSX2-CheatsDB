@@ -1,37 +1,37 @@
 gametitle=Mystic Heroes SLUS-20521
-//Infinite & Max Health Player 1
+[Infinite & Max Health Player 1]
 patch=1,EE,2078EC50,extended,0000270F
 patch=1,EE,2078EC52,extended,0000270
 
-//Infinite & Max Magic Player 1
+[Infinite & Max Magic Player 1]
 patch=1,EE,2078EC8C,extended,270F270F
 patch=1,EE,2078EC8E,extended,0000270F
 
-//Infinite & Max Health Player 2
+[Infinite & Max Health Player 2]
 patch=1,EE,2078ED40,extended,0000270F
 patch=1,EE,2078ED42,extended,0000270F
 
-//Infinite & Max Magic Player 2
+[Infinite & Max Magic Player 2]
 patch=1,EE,2078ED7C,extended,0000270F
 patch=1,EE,2078ED7E,extended,0000270F
 
-//Infinite & Max Health Player 3
+[Infinite & Max Health Player 3]
 patch=1,EE,2078EE30,extended,0000270F
 patch=1,EE,2078EE32,extended,0000270F
 
-//Infinite & Max Magic Player 3
+[Infinite & Max Magic Player 3]
 patch=1,EE,2078EE6C,extended,270F270F
 patch=1,EE,2078EE6E,extended,270F270F
 
-//Infinite & Max Health Player 4
+[Infinite & Max Health Player 4]
 patch=1,EE,2078EF20,extended,0000270F
 patch=1,EE,2078EF22,extended,0000270F
 
-//Infinite & Max Magic Player 4
+[Infinite & Max Magic Player 4]
 patch=1,EE,2078EF5C,extended,0000270F
 patch=1,EE,2078EF5E,extended,0000270
 
-//Have All Runes
+[Have All Runes]
 patch=1,EE,2031E2F4,extended,FFFFFFFF
 patch=1,EE,2031E2F8,extended,FFFFFFFF
 patch=1,EE,2031E2FC,extended,FFFFFFFF 

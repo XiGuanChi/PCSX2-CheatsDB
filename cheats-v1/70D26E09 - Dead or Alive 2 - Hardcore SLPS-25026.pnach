@@ -1,24 +1,24 @@
-//Cheats/1P Infinite HP
+[Cheats/1P Infinite HP]
 patch=1,EE,104A2BA0,extended,0000012C
 
-//Cheats/2P 0 HP
+[Cheats/2P 0 HP]
 patch=1,EE,104A2C08,extended,00000000
 
-//Cheats/Unlock Tengu
+[Cheats/Unlock Tengu]
 patch=1,EE,004A79CD,extended,00000001
 
-//Cheats/Unlock Bayman
+[Cheats/Unlock Bayman]
 patch=1,EE,004A79CE,extended,00000001
 
-//Cheats/Unlock CG GALLERY
+[Cheats/Unlock CG GALLERY]
 patch=1,EE,004A79CF,extended,00000001
 
-//Cheats/Have 200 Stars Just play and lose in the SURVIVAL MODE to unlock All Costumes
+[Cheats/Have 200 Stars Just play and lose in the SURVIVAL MODE to unlock All Costumes]
 patch=1,EE,004A7A52,extended,000000C8
 
 
-//Cheats/Unlock COLLECTION
+[Cheats/Unlock COLLECTION]
 patch=1,EE,004A79E0,extended,00000001
 
-//Cheats/Unlock Stars in the COLLECTION
+[Cheats/Unlock Stars in the COLLECTION]
 patch=1,EE,004A79E8,extended,00000001

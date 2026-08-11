@@ -1,11 +1,11 @@
 gametitle=Madden NFL 2005 SLUS-21000 
-//Always 4th Down
+[Always 4th Down]
 patch=1,EE,1080AB10,extended,00000004
 
-//Max Tokens Earned
+[Max Tokens Earned]
 patch=1,EE,21E30340,extended,05F5E0FF
 
-//Have All Cards
+[Have All Cards]
 patch=1,EE,21E30434,extended,00000119
 patch=1,EE,21E304A0,extended,00FFE01F
 patch=1,EE,21E304A4,extended,00FFE02F

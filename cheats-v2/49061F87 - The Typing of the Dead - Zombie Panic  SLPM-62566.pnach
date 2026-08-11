@@ -1,8 +1,8 @@
 gametitle=The Typing of the Dead - Zombie Panic  SLPM-62566
-//Player 1 Life 5
+[Player 1 Life 5]
 patch=1,EE,006E28F6,extended,00000005
 patch=1,EE,006E28F8,extended,00000005
 
-//Original only always Got Hand
+[Original only always Got Hand]
 patch=1,EE,106E5880,extended,00000414
 patch=1,EE,106E5888,extended,00000FFF

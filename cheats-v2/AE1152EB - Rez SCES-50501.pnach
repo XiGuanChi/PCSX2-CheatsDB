@@ -1,49 +1,49 @@
 gametitle=Rez SCES-50501
-//Max overdrive
+[Max overdrive]
 patch=1,EE,102F9680,extended,00000004
 
-//Max evolution gauge
+[Max evolution gauge]
 patch=1,EE,D02F8DA0,extended,00000000
 patch=1,EE,102F967C,extended,00000006
 
-//Select+L2 life form level 0
+[Select+L2 life form level 0]
 patch=1,EE,D02F8DA0,extended,00000101
 patch=1,EE,102F9630,extended,00000000
 
-//Select+R2 life form level 1
+[Select+R2 life form level 1]
 patch=1,EE,D02F8DA0,extended,00000102
 patch=1,EE,102F9630,extended,00000001
 
-//Select+L1 life form level 2
+[Select+L1 life form level 2]
 patch=1,EE,D02F8DA0,extended,00000104
 patch=1,EE,102F9630,extended,00000002
 
-//Select+R1 life form level 3
+[Select+R1 life form level 3]
 patch=1,EE,D02F8DA0,extended,00000108
 patch=1,EE,102F9630,extended,00000003
 
-//Select+right life form level 4
+[Select+right life form level 4]
 patch=1,EE,D02F8DA0,extended,00002100
 patch=1,EE,102F9630,extended,00000004
 
-//Select+up life form level 5
+[Select+up life form level 5]
 patch=1,EE,D02F8DA0,extended,00001100
 patch=1,EE,102F9630,extended,00000005
 
-//Select+left life form ultimate level
+[Select+left life form ultimate level]
 patch=1,EE,D02F8DA0,extended,00008100
 patch=1,EE,102F9630,extended,00000006
 
-//Select+down unknown life form
+[Select+down unknown life form]
 patch=1,EE,D02F8DA0,extended,00004100
 patch=1,EE,102F9630,extended,00000007
 
-//Always ultimate life form
+[Always ultimate life form]
 patch=1,EE,102F9630,extended,00000006
 
-//Always unknown life form
+[Always unknown life form]
 patch=1,EE,102F9630,extended,00000007
 
-//L1+R1+L2+R2 at Level select to access locked levels
+[L1+R1+L2+R2 at Level select to access locked levels]
 patch=1,EE,D02F8DA0,extended,0000000F
 patch=1,EE,110A0710,extended,00000004

@@ -1,21 +1,21 @@
 gametitle=Dynasty Warriors - Gundam 2 SLUS-21873
-//P1 Infinite HP
+[P1 Infinite HP]
 patch=1,EE,200A0010,extended,8C220160
 patch=1,EE,200A0014,extended,AC220164
 
-//P1 Infinite SP
+[P1 Infinite SP]
 patch=1,EE,200A0018,extended,8C220168
 patch=1,EE,200A001C,extended,AC22016C
 
-//P1 Max Range
+[P1 Max Range]
 patch=1,EE,200A0020,extended,24027FFF
 patch=1,EE,200A0024,extended,A422018E
 
-//P1 Infinite Boost
+[P1 Infinite Boost]
 patch=1,EE,200A0028,extended,84220180
 patch=1,EE,200A002C,extended,A422017E
 
-//P1 Max Attack And Shield
+[P1 Max Attack And Shield]
 patch=1,EE,200A0030,extended,240203E8
 patch=1,EE,200A0034,extended,A4220176
 patch=1,EE,200A0038,extended,A4220178

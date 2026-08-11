@@ -1,13 +1,13 @@
 gametitle=The King of Fighters XI SLPS-25660
-//Infinite Health Characters P1
+[Infinite Health Characters P1]
 patch=1,EE,009BDCA4,extended,00000070
 patch=1,EE,009BDCC4,extended,00000070
 patch=1,EE,009BDCE4,extended,00000070
 
-//2P One Hit KO
+[2P One Hit KO]
 patch=1,EE,009BDEEC,extended,00000001
 patch=1,EE,009BDF0C,extended,00000001
 patch=1,EE,009BDF2C,extended,00000001
 
-//Unlock all hidden characters
+[Unlock all hidden characters]
 patch=1,EE,109BEC80,extended,00003FFF

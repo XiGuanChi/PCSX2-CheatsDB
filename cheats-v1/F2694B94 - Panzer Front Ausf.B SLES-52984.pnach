@@ -1,7 +1,7 @@
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2017D90C,extended,00000000
 
-//Cheats/Tank AI Don't Shoot
+[Cheats/Tank AI Don't Shoot]
 patch=1,EE,2015C4F0,extended,00000000
 patch=1,EE,2015C5A4,extended,00000000
 patch=1,EE,2015E2C0,extended,00000000
@@ -10,10 +10,10 @@ patch=1,EE,2015E208,extended,00000000
 patch=1,EE,2015E3EC,extended,00000000
 patch=1,EE,2015E484,extended,00000000
 
-//Cheats/Have All Tank Slots Available
+[Cheats/Have All Tank Slots Available]
 patch=1,EE,2012E9C4,extended,24020000
 patch=1,EE,2012E9D4,extended,A0206847
 
-//Cheats/Mission Always Completed
+[Cheats/Mission Always Completed]
 patch=1,EE,2018A910,extended,24050001
 patch=1,EE,2018A918,extended,A025FCF4

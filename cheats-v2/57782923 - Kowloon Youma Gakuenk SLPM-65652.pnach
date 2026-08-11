@@ -1,37 +1,37 @@
 gametitle=Kowloon Youma Gakuenk SLPM-65652
-//Max Money
+[Max Money]
 patch=1,EE,20137DBC,extended,00000000
 
-//HP 9999 in battle
+[HP 9999 in battle]
 patch=1,EE,2012C708,extended,00000000
 patch=1,EE,2012C768,extended,00000000
 patch=1,EE,2012C64C,extended,00000000
 
-//Change to HP specified value
+[Change to HP specified value]
 patch=1,EE,2012C70C,extended,240503E7
 patch=1,EE,2012C76C,extended,240503E7
 
-//Change the maximum AP specified value
+[Change the maximum AP specified value]
 patch=1,EE,201309F4,extended,2402270F
 
-//Battery level maximum
+[Battery level maximum]
 patch=1,EE,007799C2,extended,00000064
 
-//Gun range 7
+[Gun range 7]
 patch=1,EE,201E497C,extended,24050007
 patch=1,EE,201E4988,extended,A4650000
 
-//Not reduced armor durability value
+[Not reduced armor durability value]
 patch=1,EE,2013CAD8,extended,3003FFFF
 
-//Experience Maximum
+[Experience Maximum]
 patch=1,EE,2012FAD4,extended,00000000
 patch=1,EE,2012FAF8,extended,00000000
 
-//Ruins map fully open
+[Ruins map fully open]
 patch=1,EE,2017E228,extended,0C04AF50
 
-//All kinds of collection display
+[All kinds of collection display]
 patch=1,EE,20298B34,extended,24020001
 patch=1,EE,20298D74,extended,24020001
 patch=1,EE,20299750,extended,24020001

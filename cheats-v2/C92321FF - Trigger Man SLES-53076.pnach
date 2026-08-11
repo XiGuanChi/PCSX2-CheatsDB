@@ -1,7 +1,7 @@
 gametitle=Trigger Man SLES-53076
-//God Mode
+[God Mode]
 patch=1,EE,2027A298,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2016FEFC,extended,1000000C
 patch=1,EE,2016FF00,extended,24100001

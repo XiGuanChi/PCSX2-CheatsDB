@@ -1,18 +1,18 @@
 gametitle=Canis Canem Edit PAL-M SLES-53561 C78A495D
 
-//50/60 FPS
+[50/60 FPS]
 author=GamingDragon93
 description=Might need EE Overclock (180%).
 patch=1,EE,005E1CFC,word,00000000 //00000001
-//patch=1,EE,201F3EF8,extended,28420001 //28420002
+[patch=1,EE,201F3EF8,extended,28420001 //28420002]
 
-//480p Mode
+[480p Mode]
 gsinterlacemode=1
 author=GamingDragon93
 description=SDTV 480p mode at start. Use Software renderer for FMVs.
 patch=1,EE,0023E908,word,1462000A //1062000A
 
-//Disable DOF
+[Disable DOF]
 author=GamingDragon93
 description=Disable post-processing depth of field effect.
 patch=1,EE,003DB750,word,00000000

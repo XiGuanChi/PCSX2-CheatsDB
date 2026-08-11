@@ -1,24 +1,24 @@
 gametitle=Beatmania IIDX 11th style SLPM-66426
-//Max Gauge
+[Max Gauge]
 patch=1,EE,20138040,extended,11CE0062
 
-//In tune play PLAY COUNT9999
+[In tune play PLAY COUNT9999]
 patch=1,EE,20183C4C,extended,2403270F
 
-//Gallery Fully Open
+[Gallery Fully Open]
 patch=1,EE,214042BC,extended,FFFFFFFF
 patch=1,EE,214042C0,extended,FFFFFFFF
 patch=1,EE,114042C4,extended,0000FFFF
 
-//CUSTOMIZE all selective
+[CUSTOMIZE all selective]
 patch=1,EE,214439E0,extended,0F0F7F7F
 patch=1,EE,014439E4,extended,00000001
 
-//GAMBOL analog
+[GAMBOL analog]
 patch=1,EE,21403E08,extended,00000001
 
-//In result picture AAA
+[In result picture AAA]
 patch=1,EE,20138B68,extended,24050000
 
-//Forced analog the mode
+[Forced analog the mode]
 patch=1,EE,002D9914,extended,0000000

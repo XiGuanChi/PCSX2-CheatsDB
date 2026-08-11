@@ -1,12 +1,12 @@
 gametitle=Sly 2 - Band of Thieves SCES-52529
-//Gold Coins 9999
+[Gold Coins 9999]
 patch=1,EE,203DC300,extended,0000270F
 
-//Infinite Health-Sly
+[Infinite Health-Sly]
 patch=1,EE,203DC2B0,extended,00000028
 
-//Infinite Health-Bentley
+[Infinite Health-Bentley]
 patch=1,EE,203DC2C8,extended,00000028
 
-//Infinite Health-Murray
+[Infinite Health-Murray]
 patch=1,EE,203DC2E0,extended,00000028

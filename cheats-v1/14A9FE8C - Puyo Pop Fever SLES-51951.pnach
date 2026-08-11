@@ -1,15 +1,15 @@
-//Cheats/Gray Orbs Never Fall On P1
+[Cheats/Gray Orbs Never Fall On P1]
 20152FEC 0000202D
 
-//Cheats/Enable Dev Menu Press R1+X at main menu When inside the Dev Menu, Circle button is to confirm what option you're on. X button is to go back
+[Cheats/Enable Dev Menu Press R1+X at main menu When inside the Dev Menu, Circle button is to confirm what option you're on. X button is to go back]
 patch=1,EE,D03CA042,extended,0000B7FF
 patch=1,EE,003C259C,extended,00000004
 
-//Enable Japanese Text In Options Menu
+[Enable Japanese Text In Options Menu]
 patch=1,EE,201D2580,extended,24030005
 patch=1,EE,201D24CC,extended,24030005
 
-//Cheats/Enable Japanese Voices
+[Cheats/Enable Japanese Voices]
 patch=1,EE,D03CA042,extended,0000FAFF
 patch=1,EE,006EE549,extended,00000000
 patch=1,EE,D03CA042,extended,0000F5FF

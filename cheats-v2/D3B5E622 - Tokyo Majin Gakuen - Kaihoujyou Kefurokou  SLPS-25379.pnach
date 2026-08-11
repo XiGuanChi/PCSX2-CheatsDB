@@ -1,72 +1,72 @@
 gametitle=Tokyo Majin Gakuen - Kaihoujyou Kefurokou  SLPS-25379
-//Maximum money after combat
+[Maximum money after combat]
 patch=1,EE,2011EC8C,extended,AC661BF8
 
-//Infinite HP Main Character
+[Infinite HP Main Character]
 patch=1,EE,20FABE9C,extended,000003E7
 patch=1,EE,20FABE92,extended,000003E7
 
-//Infinite HP Second Character
+[Infinite HP Second Character]
 patch=1,EE,20FAC208,extended,000003E7
 patch=1,EE,20FAC1FE,extended,000003E7
 
-//Trick all learning
+[Trick all learning]
 patch=1,EE,20114E84,extended,554A000B
 
-//Agareru Mahjong immediately
+[Agareru Mahjong immediately]
 patch=1,EE,2021E544,extended,14420008
 
-//Maximum hero ability LV
+[Maximum hero ability LV]
 patch=1,EE,01378118,extended,00000063
 
-//Empirical value
+[Empirical value]
 patch=1,EE,01378119,extended,00000064
 
-//Ability to take action
+[Ability to take action]
 patch=1,EE,0137811B,extended,00000063
 
-//Vitality
+[Vitality]
 patch=1,EE,1137811C,extended,000003E7
 
-//Offensive power
+[Offensive power]
 patch=1,EE,1137811E,extended,000003E7
 
-//Phylactic power
+[Phylactic power]
 patch=1,EE,11378120,extended,000003E7
 
-//Mental strength
+[Mental strength]
 patch=1,EE,11378122,extended,000003E7
 
-//99 consumption items all
+[99 consumption items all]
 patch=1,EE,01379BBE,extended,00000063
 patch=1,EE,01379BBF,extended,00000063
 patch=1,EE,41379BC0,extended,001D0001
 patch=1,EE,63636363,extended,00000000
 patch=1,EE,01379C34,extended,00000063
 
-//Friends' Love, Friend's Emotion Value MAX
+[Friends' Love, Friend's Emotion Value MAX]
 patch=1,EE,41378698,extended,00200003
 patch=1,EE,03E703E7,extended,00000000
 
-//Max Vitality (999)
+[Max Vitality (999)]
 patch=1,EE,200F7004,extended,A68B0086
 
-//Attack power (999)
+[Attack power (999)]
 patch=1,EE,200F7008,extended,A68B0088
 
-//Defense (999)
+[Defense (999)]
 patch=1,EE,200F700C,extended,A68B008A
 
-//Mental Strength (999)
+[Mental Strength (999)]
 patch=1,EE,200F7010,extended,A68B008C
 
-//Number for maximum value 99
+[Number for maximum value 99]
 patch=1,EE,200F7014,extended,240B0063
 
-//Max Energy(99)
+[Max Energy(99)]
 patch=1,EE,200F7018,extended,A28B0084
 
-//Full vitality recovery
+[Full vitality recovery]
 patch=1,EE,200F7030,extended,868C0086
 patch=1,EE,200F7034,extended,A68C0090
 

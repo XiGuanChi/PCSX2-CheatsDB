@@ -1,12 +1,12 @@
 gametitle=Black SLES-54030
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201FD1E8,extended,A0455CA0
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,201551CC,extended,24020009
 patch=1,EE,201551E0,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200FFF00,extended,3C014500
 patch=1,EE,200FFF04,extended,ACC102F8
 patch=1,EE,200FFF08,extended,3C014000

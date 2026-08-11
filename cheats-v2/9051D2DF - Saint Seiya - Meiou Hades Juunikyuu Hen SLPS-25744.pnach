@@ -1,17 +1,17 @@
 gametitle=Saint Seiya - Meiou Hades Juunikyuu Hen SLPS-25744
-//Infinite Health 1P
+[Infinite Health 1P]
 patch=1,EE,202FB108,extended,0C03E000
 patch=1,EE,200F8000,extended,16400003
 patch=1,EE,200F8004,extended,3C0142C8
 patch=1,EE,200F8008,extended,AC810000
 patch=1,EE,200F8010,extended,03E00008
 
-//P2 Life 0 R1 + up ON R1 + down OFF
+[P2 Life 0 R1 + up ON R1 + down OFF]
 patch=1,EE,D0602C82,extended,0000F7EF
 patch=1,EE,203BC1A0,extended,AC800000
 patch=1,EE,D0602C82,extended,0000F7BF
 patch=1,EE,203BC1A0,extended,00000000
 
-//Unlock Bonus 100%
+[Unlock Bonus 100%]
 patch=1,EE,40540AB0,extended,00390001
 patch=1,EE,01010101,extended,00000000

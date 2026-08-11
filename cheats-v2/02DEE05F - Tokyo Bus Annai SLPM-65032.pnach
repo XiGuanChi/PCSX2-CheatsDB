@@ -1,10 +1,10 @@
 gametitle=Tokyo Bus Annai SLPM-65032
-//Always full bar (200)
+[Always full bar (200)]
 patch=1,EE,2025D0BC,extended,000000C8
 
-//Current time 0
+[Current time 0]
 patch=1,EE,2025D0C8,extended,00000000
 
-//Experience value 99999
+[Experience value 99999]
 patch=1,EE,20258080,extended,0001869F
 

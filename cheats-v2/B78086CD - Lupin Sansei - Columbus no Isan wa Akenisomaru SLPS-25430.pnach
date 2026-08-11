@@ -1,13 +1,13 @@
 gametitle=Lupin Sansei - Columbus no Isan wa Akenisomaru SLPS-25430
-//Infinite HP 
+[Infinite HP]
 patch=1,EE,20E97C4C,extended,00000096
 patch=1,EE,20E97C50,extended,00000096
 
-//Infinite Sleeping Gun Ammo 
+[Infinite Sleeping Gun Ammo]
 patch=1,EE,20E97D48,extended,00000063
 
-//Infinite Medikits 
+[Infinite Medikits]
 patch=1,EE,20E97D70,extended,00000063
 
-//Infinite continues 
+[Infinite continues]
 patch=1,EE,20E97D6C,extended,00000063

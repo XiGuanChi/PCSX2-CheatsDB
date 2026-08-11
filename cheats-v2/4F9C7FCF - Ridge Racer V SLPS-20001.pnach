@@ -1,11 +1,11 @@
 gametitle=Ridge Racer V SLPS-20001
-//Always 1st Place
+[Always 1st Place]
 patch=1,EE,202158B0,extended,AC400C64
 
-//Infinite Continues
+[Infinite Continues]
 patch=1,EE,11E2B980,extended,00000009
 
-//All Cars/Parts Unlock
+[All Cars/Parts Unlock]
 patch=1,EE,21E2BA08,extended,02020202
 patch=1,EE,21E2BA0C,extended,02020202
 patch=1,EE,21E2BA10,extended,02020202

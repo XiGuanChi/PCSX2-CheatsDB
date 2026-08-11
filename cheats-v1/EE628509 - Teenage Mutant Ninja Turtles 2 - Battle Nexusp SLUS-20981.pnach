@@ -1,50 +1,50 @@
-//Cheats/Full Energy Gauge
+[Cheats/Full Energy Gauge]
 patch=1,EE,20570B68,extended,000003E8
 
-//Cheats/Max Energy Gauge
+[Cheats/Max Energy Gauge]
 patch=1,EE,20570B6C,extended,000003E8
 
-//Cheats/No Damage Taken Player 1
+[Cheats/No Damage Taken Player 1]
 patch=1,EE,2078DCA4,extended,00000000
 
-//Cheats/Infinite Shurikens Player 1
+[Cheats/Infinite Shurikens Player 1]
 patch=1,EE,2078DCA8,extended,0000000A
 
-//Cheats/No Damage Taken Player 2
+[Cheats/No Damage Taken Player 2]
 patch=1,EE,2078DCDC,extended,00000000
 
-//Cheats/Infinite Shurikens Player 2
+[Cheats/Infinite Shurikens Player 2]
 patch=1,EE,2078DCE0,extended,0000000A
 
-//Cheats/No Damage Taken Player 3
+[Cheats/No Damage Taken Player 3]
 patch=1,EE,2078DD14,extended,00000000
 
-//Cheats/Infinite Shurikens Player 3
+[Cheats/Infinite Shurikens Player 3]
 patch=1,EE,2078DD18,extended,0000000A
 
-//Cheats/No Damage Taken Player 4
+[Cheats/No Damage Taken Player 4]
 patch=1,EE,2078DD4C,extended,00000000
 
-//Cheats/Infinite Shurikens Player 4
+[Cheats/Infinite Shurikens Player 4]
 patch=1,EE,2078DD50,extended,0000000A
 
-//Cheats/Unlock All Character Materials
+[Cheats/Unlock All Character Materials]
 patch=1,EE,1072053A,extended,00000202
 patch=1,EE,4072053C,extended,00030001
 patch=1,EE,02020202,extended,00000000
 
-//Cheats/Unlock All Enemy Materials
+[Cheats/Unlock All Enemy Materials]
 patch=1,EE,40720548,extended,00030001
 patch=1,EE,02020202,extended,00000000
 
-//Cheats/Unlock All Background Art Materials
+[Cheats/Unlock All Background Art Materials]
 patch=1,EE,20720554,extended,02020202
 patch=1,EE,20720558,extended,02020202
 
-//Cheats/Unlock All Others Materials
+[Cheats/Unlock All Others Materials]
 patch=1,EE,2072055C,extended,02020202
 patch=1,EE,00720560,extended,00000002
 
-//Cheats/Unlock All Antiques
+[Cheats/Unlock All Antiques]
 patch=1,EE,4071FFC8,extended,00370004
 patch=1,EE,00000002,extended,00000000

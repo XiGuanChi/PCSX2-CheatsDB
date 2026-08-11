@@ -1,5 +1,5 @@
 gametitle=Swashbucklers - Blue vs. Grey SLUS-21691
-//Infinite Money
+[Infinite Money]
 patch=1,EE,200A0000,extended,3C0200AC
 patch=1,EE,200A0004,extended,8C42BB58
 patch=1,EE,200A0008,extended,10400006
@@ -9,8 +9,8 @@ patch=1,EE,200A0018,extended,AC410044
 patch=1,EE,200A0024,extended,03E00008
 patch=1,EE,2025A27C,extended,08028000
 
-//Always Restore To 100 Points
+[Always Restore To 100 Points]
 patch=1,EE,204BEC08,extended,24050064
 
-//Infinite Points Usage (Need Points First)
+[Infinite Points Usage (Need Points First)]
 patch=1,EE,204BEC10,extended,00000000

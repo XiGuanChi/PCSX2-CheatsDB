@@ -1,36 +1,36 @@
 gametitle=Shin Megami Tensei - Lucifers Call SLES-53363
-//No Random Battles
+[No Random Battles]
 patch=1,EE,110E4178,extended,00000000
 
-//Max Money
+[Max Money]
 patch=1,EE,210E2EC8,extended,05F5E0FF
 
-//Infinite & Max HP
+[Infinite & Max HP]
 patch=1,EE,110E2EDA,extended,000003E7
 patch=1,EE,110E2EDC,extended,000003E7
 
-//Infinite & Max MP
+[Infinite & Max MP]
 patch=1,EE,110E2EDE,extended,000003E7
 patch=1,EE,110E2EE0,extended,000003E7
 
-//Party Member A Infinite & Max HP
+[Party Member A Infinite & Max HP]
 patch=1,EE,110E328A,extended,000003E7
 patch=1,EE,110E328C,extended,000003E7
 
-//Party Member B Infinite & Max HP
+[Party Member B Infinite & Max HP]
 patch=1,EE,110E3376,extended,000003E7
 patch=1,EE,110E3378,extended,000003E7
 
-//Party Member C Infinite & Max HP
+[Party Member C Infinite & Max HP]
 patch=1,EE,110E3462,extended,000003E7
 patch=1,EE,110E3464,extended,000003E7
 
-//All Magatama
+[All Magatama]
 patch=1,EE,20239064,extended,2402002E
 patch=1,EE,20239068,extended,A0621D7B
 patch=1,EE,20239094,extended,A0A6FFFF
 
-//All SP Items
+[All SP Items]
 patch=1,EE,210E2CC4,extended,FFFFFFFF
 patch=1,EE,110E2D3A,extended,0000FFFF
 patch=1,EE,110E2D3C,extended,0000FFFF

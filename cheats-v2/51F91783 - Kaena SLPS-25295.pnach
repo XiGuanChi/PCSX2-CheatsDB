@@ -1,13 +1,13 @@
 gametitle=Kaena SLPS-25295
-//Infinite HP - Stage 1
+[Infinite HP - Stage 1]
 patch=1,EE,206A639A,extended,00000320
 
-//Infinite HP - Stage 2
+[Infinite HP - Stage 2]
 patch=1,EE,207DE55A,extended,00000320
 
-//Infinite HP - Stage 3
+[Infinite HP - Stage 3]
 patch=1,EE,2077220A,extended,00000320
 
-//Bonus fully open
+[Bonus fully open]
 patch=1,EE,40240DBF,extended,00060001
 patch=1,EE,01010101,extended,00000000

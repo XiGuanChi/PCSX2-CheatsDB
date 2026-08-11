@@ -1,37 +1,37 @@
 gametitle=The Bouncer SLPS-25023
-//BP point MAX
+[BP point MAX]
 patch=1,EE,203DB6E0,extended,0001869F
 
-//Appearance of all character stages
+[Appearance of all character stages]
 patch=1,EE,21D8C1C0,extended,FFFFFFFF
 
-//English Menu
+[English Menu]
 patch=1,EE,203DA144,extended,00000005
 
-//Zion's current HP (because the code for two more people will also be applied to the enemy
-//This code works with the selected operating character)
+[Zion's current HP (because the code for two more people will also be applied to the enemy]
+[This code works with the selected operating character)]
 patch=1,EE,21D8B438,extended,000003E7
 patch=1,EE,21D8B440,extended,000003E7
 patch=1,EE,21D8B444,extended,000003E7
 patch=1,EE,21D8B44C,extended,000003E7
 patch=1,EE,21D8B450,extended,000003E7
 
-//Character 2
+[Character 2]
 patch=1,EE,21D8B4A8,extended,000003E7
 patch=1,EE,21D8B4B0,extended,000003E7
 patch=1,EE,21D8B4B4,extended,000003E7
 patch=1,EE,21D8B4BC,extended,000003E7
 patch=1,EE,21D8B4C0,extended,000003E7
 
-//Character 3
+[Character 3]
 patch=1,EE,21D8B518,extended,000003E7
 patch=1,EE,21D8B520,extended,000003E7
 patch=1,EE,21D8B524,extended,000003E7
 patch=1,EE,21D8B52C,extended,000003E7
 patch=1,EE,21D8B530,extended,000003E7
 
-//Recover physical strength with l2 in the scene where you run away with Dominic (in this scene
-//Please use this code instead of using Zion's current HP) PRESS L2
+[Recover physical strength with l2 in the scene where you run away with Dominic (in this scene]
+[Please use this code instead of using Zion's current HP) PRESS L2]
 patch=1,EE,D1D7DF34,extended,00000001
 patch=1,EE,11D8B5F8,extended,000003E7
 patch=1,EE,D1D7DF34,extended,00000001

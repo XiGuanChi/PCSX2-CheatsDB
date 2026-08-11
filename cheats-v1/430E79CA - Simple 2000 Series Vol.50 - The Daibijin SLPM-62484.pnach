@@ -1,12 +1,12 @@
-//Cheats/Unlock Free All
+[Cheats/Unlock Free All]
 patch=1,EE,003EA767,extended,0000007F
 
-//Cheats/Unlock All Quest
+[Cheats/Unlock All Quest]
 patch=1,EE,403EA76E,extended,00060001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,003EA786,extended,00000001
 
-//Cheats/Unlock All Quest Mode Appearance
+[Cheats/Unlock All Quest Mode Appearance]
 patch=1,EE,203EA770,extended,01010101
 patch=1,EE,203EA774,extended,01010101
 patch=1,EE,203EA778,extended,01010101
@@ -16,17 +16,17 @@ patch=1,EE,003EA786,extended,00000001
 patch=1,EE,103EA76E,extended,00000101
 patch=1,EE,103EA784,extended,00000101
 
-//Cheats/Unlock All Quest Mode and browse
+[Cheats/Unlock All Quest Mode and browse]
 patch=1,EE,20184614,extended,00430821
 patch=1,EE,20184618,extended,24020001
 patch=1,EE,20184620,extended,A022A76E
 
-//Cheats/Unlock All Hidden Swimwear & Hidden Difficulty
+[Cheats/Unlock All Hidden Swimwear & Hidden Difficulty]
 patch=1,EE,003A777C,extended,000000FF
 patch=1,EE,003EA766,extended,000000FF
 patch=1,EE,003EA768,extended,000000FF
 
-//Cheats/Unlock All Responsibility Part
+[Cheats/Unlock All Responsibility Part]
 patch=1,EE,203EA770,extended,01010101
 patch=1,EE,203EA774,extended,01010101
 patch=1,EE,203EA778,extended,01010101
@@ -36,12 +36,12 @@ patch=1,EE,203EA786,extended,00000001
 patch=1,EE,103EA76E,extended,00000101
 patch=1,EE,103EA784,extended,0000007F
 
-//Cheats/Unlock All Ownership Responsibility Development
+[Cheats/Unlock All Ownership Responsibility Development]
 patch=1,EE,20184614,extended,00430821
 patch=1,EE,20184618,extended,24020001
 patch=1,EE,20184620,extended,A022A76E
 
-//Cheats/Unlock All Basis Difficulty Emergence
+[Cheats/Unlock All Basis Difficulty Emergence]
 patch=1,EE,003A777C,extended,000000FF
 patch=1,EE,003EA766,extended,000000FF
 patch=1,EE,003EA768,extended,000000FF

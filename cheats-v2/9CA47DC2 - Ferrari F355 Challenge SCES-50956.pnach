@@ -1,11 +1,11 @@
 gametitle=Ferrari F355 Challenge SCES-50956
-//Infinite Time - Arcade Mode
+[Infinite Time - Arcade Mode]
 patch=1,EE,2037022C,extended,00000F85
 
-//Max Championship Pts
+[Max Championship Pts]
 patch=1,EE,1046B670,extended,00630063
 
-//Unlock Gallery 
+[Unlock Gallery]
 patch=1,EE,20431F18,extended,00000001
 patch=1,EE,20431F6C,extended,00000001
 patch=1,EE,20431CCC,extended,00000001

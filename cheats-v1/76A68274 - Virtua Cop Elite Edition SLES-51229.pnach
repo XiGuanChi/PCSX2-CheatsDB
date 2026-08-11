@@ -1,43 +1,43 @@
-//Cheats/P1 Infinite Health
+[Cheats/P1 Infinite Health]
 patch=1,EE,001D0ECA,extended,00000009
 
-//Cheats/P2 Infinite Health
+[Cheats/P2 Infinite Health]
 patch=1,EE,001D0F0E,extended,00000009
 
-//Cheats/P1 No Reload
+[Cheats/P1 No Reload]
 patch=1,EE,001FCECC,extended,0000000A
 
-//Cheats/P2 No Reload
+[Cheats/P2 No Reload]
 patch=1,EE,001FCF38,extended,00000007
 
-//Cheats/Language Japanese
+[Cheats/Language Japanese]
 patch=1,EE,00222D01,extended,00000000
 
-//Cheats/Language English
+[Cheats/Language English]
 patch=1,EE,00222D01,extended,00000001
 
-//Cheats/Language Italian
+[Cheats/Language Italian]
 patch=1,EE,00222D01,extended,00000002
 
-//Cheats/Language German
+[Cheats/Language German]
 patch=1,EE,00222D01,extended,00000003
 
-//Cheats/Language Spanish
+[Cheats/Language Spanish]
 patch=1,EE,00222D01,extended,00000004
 
-//Cheats/Language French
+[Cheats/Language French]
 patch=1,EE,00222D01,extended,00000005
 
-//Cheats/Unlock Free Play
+[Cheats/Unlock Free Play]
 patch=1,EE,001D1185,extended,000000FF
  
-//Cheats/Unlock Auto Reload
+[Cheats/Unlock Auto Reload]
 patch=1,EE,00222D06,extended,00000001
 
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,20222E74,extended,FFFFFFFF
 patch=1,EE,20222E78,extended,FFFFFFFF
 
-//Cheats/Unlock Random Mode
+[Cheats/Unlock Random Mode]
 patch=1,EE,0026EF1E,extended,00000001

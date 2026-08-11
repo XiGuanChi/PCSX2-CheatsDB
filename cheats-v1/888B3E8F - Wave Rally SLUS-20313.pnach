@@ -1,26 +1,26 @@
-//Cheats/Max Race Points
+[Cheats/Max Race Points]
 patch=1,EE,106658D0,extended,000003E7
 
-//Cheats/Max Engine Status
+[Cheats/Max Engine Status]
 patch=1,EE,00395ECC,extended,0000000C
 
-//Cheats/Max Grip Status
+[Cheats/Max Grip Status]
 patch=1,EE,00395ED0,extended,0000000C
 
-//Cheats/Max Handling Status
+[Cheats/Max Handling Status]
 patch=1,EE,00395EC8,extended,0000000C
 
-//Cheats/Max Tricks Status
+[Cheats/Max Tricks Status]
 patch=1,EE,00395ED4,extended,0000000C
 
-//Cheats/Never Penalty Misses
+[Cheats/Never Penalty Misses]
 patch=1,EE,0066BC24,extended,00000000
 patch=1,EE,0066BC28,extended,00000009
 
-//Cheats/Always Place 1st
+[Cheats/Always Place 1st]
 patch=1,EE,0066BC70,extended,00000000
 
-//Cheats/Start On Lap 5
+[Cheats/Start On Lap 5]
 patch=1,EE,D066BC38,extended,00000000
 patch=1,EE,1066BC38,extended,00000004
 

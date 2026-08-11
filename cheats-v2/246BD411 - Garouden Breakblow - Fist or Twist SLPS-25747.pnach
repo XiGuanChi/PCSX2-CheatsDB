@@ -1,8 +1,8 @@
 gametitle=Garouden Breakblow - Fist or Twist SLPS-25747
-//Fatal Retsuden fully open
+[Fatal Retsuden fully open]
 patch=1,EE,006F0130,extended,0000003F
 
-//Hidden character appearance
+[Hidden character appearance]
 patch=1,EE,206EFFEC,extended,00000000
 patch=1,EE,206EFFF0,extended,00000000
 patch=1,EE,206EFFF4,extended,00000000
@@ -11,12 +11,12 @@ patch=1,EE,206F0004,extended,00000000
 patch=1,EE,206F0008,extended,00000000
 patch=1,EE,206F0018,extended,00000000
 
-//Maximum body gauge
+[Maximum body gauge]
 patch=1,EE,200F8000,extended,3C010002
 patch=1,EE,200F8004,extended,AC410038
 patch=1,EE,200F8008,extended,AC41003C
 
-//Maximum site gauge
+[Maximum site gauge]
 patch=1,EE,200F800C,extended,240103E8
 patch=1,EE,200F8010,extended,AC410048
 patch=1,EE,200F8014,extended,AC41004C
@@ -25,7 +25,7 @@ patch=1,EE,200F801C,extended,AC410054
 patch=1,EE,200F8020,extended,AC410058
 patch=1,EE,200F8024,extended,AC41005C
 
-//All stages selectables
+[All stages selectables]
 patch=1,EE,1039A018,extended,00000102
 patch=1,EE,1039A01E,extended,00000105
 patch=1,EE,1039A024,extended,00000108

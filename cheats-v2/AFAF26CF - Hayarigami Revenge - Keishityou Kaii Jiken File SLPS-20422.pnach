@@ -1,13 +1,13 @@
 gametitle=Hayarigami Revenge - Keishityou Kaii Jiken File SLPS-20422
-//Infinite Courage Meter points
+[Infinite Courage Meter points]
 patch=1,EE,201CCA28,extended,00000003
 
-//Fully open when you browse database
+[Fully open when you browse database]
 patch=1,EE,20147A64,extended,10000009
 patch=1,EE,20147AD8,extended,240100FF
 patch=1,EE,20147ADC,extended,A0410800
 patch=1,EE,20147AEC,extended,24020001
 
-//Database, 100% pre message when you save
+[Database, 100% pre message when you save]
 patch=1,EE,201557AC,extended,2403FFFF
 patch=1,EE,201557B0,extended,ACC30000

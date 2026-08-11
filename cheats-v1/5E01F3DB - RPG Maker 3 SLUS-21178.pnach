@@ -1,4 +1,4 @@
-//Cheats/Infinite HP & MP In Battle
+[Cheats/Infinite HP & MP In Battle]
 patch=1,EE,200C0340,extended,AC220024
 patch=1,EE,200C0344,extended,AC220028
 patch=1,EE,200C0348,extended,AC22002C
@@ -10,37 +10,37 @@ patch=1,EE,20150D10,extended,00400821
 patch=1,EE,20150D14,extended,0C0300D0
 patch=1,EE,20150D18,extended,2402270F
 
-//Cheats/Characters Level 99 after View Status
+[Cheats/Characters Level 99 after View Status]
 patch=1,EE,05E5A5E3,extended,11F19850
 patch=1,EE,6664E2C5,extended,E643FAEF
 patch=1,EE,C1C3FCF4,extended,98E648D8
 patch=1,EE,880E7A71,extended,FA40B300
 
-//Cheats/Max HP after View Status
+[Cheats/Max HP after View Status]
 patch=1,EE,803371B9,extended,E625F9B3
 patch=1,EE,F75F82CE,extended,28EF29C1
 patch=1,EE,487FE16F,extended,535972C4
 patch=1,EE,9BD3F7D0,extended,38A6032E
 
-//Cheats/Max Current HP after View Status
+[Cheats/Max Current HP after View Status]
 patch=1,EE,0C14AFF1,extended,B4D279C5
 patch=1,EE,C1EE5318,extended,762D3F23
 patch=1,EE,CEB65A86,extended,706A1D14
 patch=1,EE,703BFB27,extended,3B6EE5E1
 
-//Cheats/Max MP after View Status
+[Cheats/Max MP after View Status]
 patch=1,EE,A2F113C7,extended,F1FB2F23
 patch=1,EE,F35731AC,extended,F3CDAB45
 patch=1,EE,DEE8AABF,extended,F91FC930
 patch=1,EE,2BA17086,extended,B557D263
 
-//Cheats/Max Current MP after View Status
+[Cheats/Max Current MP after View Status]
 patch=1,EE,2306931B,extended,FD0F89AF
 patch=1,EE,ACBE7AA2,extended,90CB6514
 patch=1,EE,161EEBB4,extended,CF1C8C49
 patch=1,EE,F1ED1E2F,extended,0FD9B366
 
-//Cheats/Max Gold after View Status
+[Cheats/Max Gold after View Status]
 patch=1,EE,200C0220,extended,3C0505F5
 patch=1,EE,200C0224,extended,34A5E0FF
 patch=1,EE,200C0228,extended,08087A82

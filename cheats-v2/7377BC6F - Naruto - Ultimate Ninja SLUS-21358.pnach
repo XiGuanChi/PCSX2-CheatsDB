@@ -1,21 +1,21 @@
 gametitle=Naruto - Ultimate Ninja SLUS-21358
-//Money Never Decreases
+[Money Never Decreases]
 patch=1,EE,2032FAD4,extended,00000000
 
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,0805FFC4
 patch=1,EE,200C0228,extended,AC810058
 patch=1,EE,2024A2D4,extended,0C030088
 patch=1,EE,2024A304,extended,0C030088
 
-//Infinite Special Weapon Use-In Game
+[Infinite Special Weapon Use-In Game]
 patch=1,EE,20273134,extended,24630000
 
-//all House Items
+[all House Items]
 patch=1,EE,4083D810,extended,00570001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,4083CD80,extended,000E0001
 patch=1,EE,5179A446,extended,00000000

@@ -1,39 +1,39 @@
 gametitle=Romance Of The Three Kingdoms IX SLUS-20879
-//Have All Item Collections
+[Have All Item Collections]
 patch=1,EE,21BB12D0,extended,FFFFFFFF
 patch=1,EE,21BB12D4,extended,FFFFFFFF
 patch=1,EE,21BB12D8,extended,FFFFFFFF
 patch=1,EE,21BB12DC,extended,324927FF
 patch=1,EE,21BB12E0,extended,0F249249
 
-//All Item Collections Not New
+[All Item Collections Not New]
 patch=1,EE,21BB12E8,extended,FFFFFFFF
 patch=1,EE,21BB12EC,extended,FFFFFFFF
 patch=1,EE,21BB12F0,extended,FFFFFFFF
 patch=1,EE,21BB12F4,extended,324927FF
 patch=1,EE,21BB12F8,extended,0F249249
 
-//Have All Event Collections
+[Have All Event Collections]
 patch=1,EE,21BB1304,extended,FFFFFFFF
 
 
-//Create New Officer Codes
+[Create New Officer Codes]
 
-//Max WAR
+[Max WAR]
 patch=1,EE,21BAD244,extended,00000064
 patch=1,EE,21BAD248,extended,00000064
 
-//Max INT
+[Max INT]
 patch=1,EE,21BAD24C,extended,00000064
 patch=1,EE,21BAD250,extended,00000064
 
-//Max POL
+[Max POL]
 patch=1,EE,21BAD254,extended,00000064
 patch=1,EE,21BAD258,extended,00000064
 
-//Max LDR
+[Max LDR]
 patch=1,EE,21BAD25C,extended,00000064
 patch=1,EE,21BAD260,extended,00000064
 
-//Have All Tactics
+[Have All Tactics]
 patch=1,EE,21BAD318,extended,FFFFFFFF

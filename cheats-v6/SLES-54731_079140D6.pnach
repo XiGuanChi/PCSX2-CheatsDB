@@ -1,12 +1,12 @@
 gametitle=King of Clubs PAL-M SLES-54731 079140D6
 
-//50/60 FPS
+[50/60 FPS]
 author=GamingDragon93
 description=Might need EE Overclock (180%).
 patch=1,EE,007E8FD0,word,00000001
-//patch=1,EE,002FEE90,word,00000000 //0C0C04D8
+[patch=1,EE,002FEE90,word,00000000 //0C0C04D8]
 
-//NTSC Mode
+[NTSC Mode]
 author=GamingDragon93
 description=NTSC Mode at start. Speed up 20%.
 patch=1,EE,002FE218,word,24020002 //24020003

@@ -1,189 +1,189 @@
 gametitle=Sotsugyou 2nd Generation SLPM-66294
-//Gallery fully open
+[Gallery fully open]
 patch=1,EE,402D3750,extended,00080001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,002D377A,extended,00000002
 
-//Unlock All Gallery & Concert Hall 
+[Unlock All Gallery & Concert Hall]
 patch=1,EE,002D377A,extended,000000FF
 patch=1,EE,402D3750,extended,00080001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Favor MAX
-//Kiyomi Arai
+[Favor MAX]
+[Kiyomi Arai]
 patch=1,EE,102D4C1A,extended,00000064
 
-//Mika Kato
+[Mika Kato]
 patch=1,EE,102D4C1C,extended,00000064
 
-//Mami Shimura
+[Mami Shimura]
 patch=1,EE,102D4C1E,extended,00000064
 
-//Reiko Takagi
+[Reiko Takagi]
 patch=1,EE,102D4C20,extended,00000064
 
-//Shizu Nakamoto
+[Shizu Nakamoto]
 patch=1,EE,102D4C22,extended,00000064
 
-//Yumiko Suwa
+[Yumiko Suwa]
 patch=1,EE,102D4C24,extended,00000064
 
-//Katsumi Arai
+[Katsumi Arai]
 
-//HP
+[HP]
 patch=1,EE,102D4C70,extended,00000064
 
-//Physical fitness
+[Physical fitness]
 patch=1,EE,102D4C72,extended,00000064
 
-//Mathematics
+[Mathematics]
 patch=1,EE,102D4C78,extended,00000064
 
-//Courtesy
+[Courtesy]
 patch=1,EE,102D4C10,extended,00000064
 
-//Grade
+[Grade]
 patch=1,EE,102D4C7C,extended,00000064
 
-//Evaluation
+[Evaluation]
 patch=1,EE,102D4C80,extended,00000064
 
-//National language
+[National language]
 patch=1,EE,102D4C74,extended,00000064
 
-//English
+[English]
 patch=1,EE,102D4C76,extended,00000064
 
-//Respect
+[Respect]
 patch=1,EE,102D4C7A,extended,00000064
 
-//Appeal
+[Appeal]
 patch=1,EE,102D4C90,extended,00000064
 
-//Kato Yuinatsu
+[Kato Yuinatsu]
 
-//HP
+[HP]
 patch=1,EE,102D4D00,extended,00000064
 
-//Physical fitness
+[Physical fitness]
 patch=1,EE,102D4D02,extended,00000064
 
-//Mathematics
+[Mathematics]
 patch=1,EE,102D4D08,extended,00000064
 
-//Courtesy
+[Courtesy]
 patch=1,EE,102D4D12,extended,00000064
 
-//Grade
+[Grade]
 patch=1,EE,102D4D0C,extended,00000064
 
-//Evaluation
+[Evaluation]
 patch=1,EE,102D4D10,extended,00000064
 
-//National language
+[National language]
 patch=1,EE,102D4D02,extended,00000064
 
-//English
+[English]
 patch=1,EE,102D4D06,extended,00000064
 
-//Respect
+[Respect]
 patch=1,EE,102D4D0A,extended,00000064
 
-//Appeal
+[Appeal]
 patch=1,EE,102D4D0E,extended,00000064
 
-//Shimura moko
+[Shimura moko]
 
-//HP
+[HP]
 patch=1,EE,102D4D90,extended,00000064
 
-//Physical fitness
+[Physical fitness]
 patch=1,EE,102D4D92,extended,00000064
 
-//Mathematics
+[Mathematics]
 patch=1,EE,102D4D98,extended,00000064
 
-//Courtesy
+[Courtesy]
 patch=1,EE,102D4C14,extended,00000064
 
-//Grade
+[Grade]
 patch=1,EE,102D4D9C,extended,00000064
 
-//Evaluation
+[Evaluation]
 patch=1,EE,102D4DA0,extended,00000064
 
-//National language
+[National language]
 patch=1,EE,102D4D94,extended,00000064
 
-//English
+[English]
 patch=1,EE,102D4D96,extended,00000064
 
-//Respect
+[Respect]
 patch=1,EE,102D4D9A,extended,00000064
 
-//Appeal
+[Appeal]
 patch=1,EE,102D4D9E,extended,00000064
 
-//Takagi Reika
+[Takagi Reika]
 
-//HP
+[HP]
 patch=1,EE,102D4E20,extended,00000064
 
-//Physical fitness
+[Physical fitness]
 patch=1,EE,102D4E22,extended,00000064
 
-//Mathematics
+[Mathematics]
 patch=1,EE,102D4E28,extended,00000064
 
-//Courtesy
+[Courtesy]
 patch=1,EE,102D4C16,extended,00000064
 
-//Grade
+[Grade]
 patch=1,EE,102D4E2C,extended,00000064
 
-//Evaluation
+[Evaluation]
 patch=1,EE,102D4E30,extended,00000064
 
-//National language
+[National language]
 patch=1,EE,102D4E24,extended,00000064
 
-//English
+[English]
 patch=1,EE,102D4E26,extended,00000064
 
-//Respect
+[Respect]
 patch=1,EE,102D4E2A,extended,00000064
 
-//Appeal
+[Appeal]
 patch=1,EE,102D4E2E,extended,00000064
 
-//Azusa Nakamoto
+[Azusa Nakamoto]
 
-//HP
+[HP]
 patch=1,EE,102D4EB0,extended,00000064
 
-//Physical fitness
+[Physical fitness]
 patch=1,EE,102D4EB2,extended,00000064
 
-//Mathematics
+[Mathematics]
 patch=1,EE,102D4EB8,extended,00000064
 
-//Courtesy
+[Courtesy]
 patch=1,EE,102D4C18,extended,00000064
 
-//Grade
+[Grade]
 patch=1,EE,102D4EBC,extended,00000064
 
-//Evaluation
+[Evaluation]
 patch=1,EE,102D4EC0,extended,00000064
 
-//National language
+[National language]
 patch=1,EE,102D4EB4,extended,00000064
 
-//English
+[English]
 patch=1,EE,102D4EB6,extended,00000064
 
-//Respect
+[Respect]
 patch=1,EE,102D4EBA,extended,00000064
 
-//Appeal
+[Appeal]
 patch=1,EE,102D4EBE,extended,00000064

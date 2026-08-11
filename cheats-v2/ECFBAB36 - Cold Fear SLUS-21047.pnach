@@ -1,5 +1,5 @@
 gametitle=Cold Fear SLUS-21047
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200FFF00,extended,3C03437A
 patch=1,EE,200FFF04,extended,AC830530
 patch=1,EE,200FFF08,extended,8C990000
@@ -7,14 +7,14 @@ patch=1,EE,200FFF0C,extended,8F390098
 patch=1,EE,200FFF10,extended,0807C128
 patch=1,EE,201F0498,extended,0803FFC0
 
-//Infinite Ammo/No Reload
+[Infinite Ammo/No Reload]
 patch=1,EE,201F6B50,extended,24450000
 patch=1,EE,201F6B38,extended,24450000
 patch=1,EE,202239F8,extended,00000000
 patch=1,EE,202239F8,extended,00000000
 
-//Infinite Resistance
+[Infinite Resistance]
 patch=1,EE,201EF3D4,extended,00000000
 
-//All Bonus Material Open
+[All Bonus Material Open]
 patch=1,EE,20345E88,extended,24020001

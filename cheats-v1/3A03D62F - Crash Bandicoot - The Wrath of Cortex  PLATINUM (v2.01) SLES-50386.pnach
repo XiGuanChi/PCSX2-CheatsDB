@@ -1,16 +1,16 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,201CCC04,extended,00000000
 
-//Cheats/Max Infinite Lives
+[Cheats/Max Infinite Lives]
 patch=1,EE,201CCBF8,extended,24020063
 
-//Cheats/P1 99 Fruits
+[Cheats/P1 99 Fruits]
 patch=1,EE,10649858,extended,00000063
 
-//Cheats/Always Low Time
+[Cheats/Always Low Time]
 patch=1,EE,205AE7F4,extended,00000000
 
-//Cheats/Invincible Press Select to Die
+[Cheats/Invincible Press Select to Die]
 patch=1,EE,D1D43302,extended,0010FFFE
 patch=1,EE,10589D7C,extended,00000096
 
@@ -19,7 +19,7 @@ patch=1,EE,E0020001,extended,0063235C
 patch=1,EE,D1D43302,extended,0000FDFF
 patch=1,EE,2059340C,extended,FF0A0A00
 
-//Cheats/Cutscene Debugger Press L1
+[Cheats/Cutscene Debugger Press L1]
 patch=1,EE,E0020001,extended,0063235C
 patch=1,EE,D1D43302,extended,0000FBFF
 patch=1,EE,2059340C,extended,FF0E0400

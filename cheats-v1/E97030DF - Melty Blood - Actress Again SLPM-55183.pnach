@@ -1,25 +1,25 @@
-//Cheats/Arcade Mode Infinite Health
+[Cheats/Arcade Mode Infinite Health]
 patch=1,EE,10486CE0,extended,000025B1
 patch=1,EE,10486CE4,extended,000025B1
 
-//Cheats/Arcade Mode Press SELECT+Down 2P Health 0
+[Cheats/Arcade Mode Press SELECT+Down 2P Health 0]
 patch=1,EE,D06871F0,extended,00004100
 patch=1,EE,00487858,extended,00000000
 patch=1,EE,00487859,extended,00000000
 
-//Cheats/P1 Infinite HP
+[Cheats/P1 Infinite HP]
 patch=1,EE,10486CE0,extended,000025B1
 patch=1,EE,10486CE4,extended,000025B1
 
-//Cheats/P1 Infinite MP
+[Cheats/P1 Infinite MP]
 patch=1,EE,10486D00,extended,00007530
 
-//Cheats/Press SELECT+Down 2P Health 0
+[Cheats/Press SELECT+Down 2P Health 0]
 patch=1,EE,D06871F0,extended,00004100
 patch=1,EE,10487858,extended,00000000
 patch=1,EE,1048785C,extended,00000000
 
-//Cheats/Unlock EveryThing
+[Cheats/Unlock EveryThing]
 patch=1,EE,40347B90,extended,00FF0001
 patch=1,EE,00020002,extended,00000000
 patch=1,EE,40347F8C,extended,008C0001

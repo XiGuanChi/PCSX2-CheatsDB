@@ -1,10 +1,10 @@
 gametitle=TimeSplitters 2 SLES-50877
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2023FC38,extended,3C014280
 patch=1,EE,2023FCF4,extended,AC41019C
 
-//InfiniteAmmo
+[InfiniteAmmo]
 patch=1,EE,202DB098,extended,00000000
 
-//All Unlocked
+[All Unlocked]
 patch=1,EE,2059E57C,extended,FFFFFFFF

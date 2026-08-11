@@ -1,19 +1,19 @@
-//Cheats/Max VP 999999 It will become 999999 if you enter the strike pitch or home run competition.
+[Cheats/Max VP 999999 It will become 999999 if you enter the strike pitch or home run competition.]
 patch=1,EE,20208014,extended,00000000
 
-//Cheats/Spirits Mode Ability Distribution Is Possible Without Points
+[Cheats/Spirits Mode Ability Distribution Is Possible Without Points]
 patch=1,EE,D1EAEDC8,extended,00000038
 patch=1,EE,21EAEDCC,extended,00000000
 patch=1,EE,D1EAEDC8,extended,00000038 
 patch=1,EE,21EAEDD8,extended,24020001
 
-//Cheats/Spirits Mode 0 Turns Remaining For Card Practice 0 turns remaining on the camp menu display
+[Cheats/Spirits Mode 0 Turns Remaining For Card Practice 0 turns remaining on the camp menu display]
 patch=1,EE,D1EDBA0C,extended,00006667
 patch=1,EE,21EDB9DC,extended,AC420000
 patch=1,EE,D1EDBA0C,extended,000066 67
 patch=1,EE,21EDB9E8,extended,24050000
 
-//Cheats/Spirits Mode 0 Turns Left In Awakening Challenge 0 turns left in the camp menu display
+[Cheats/Spirits Mode 0 Turns Left In Awakening Challenge 0 turns left in the camp menu display]
 patch=1,EE,D1EDBA0C,extended,00006667
 patch=1,EE,21EDB9F8,extended,AC42002C
 patch=1,EE,D1EDBA0C,extended,00006667

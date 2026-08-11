@@ -1,40 +1,40 @@
 gametitle=Obscure - The Aftermath SLUS-21709
-//Infinite Health Both Player 
+[Infinite Health Both Player]
 patch=1,EE,200C0220,extended,C460038C
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,E4600390
 patch=1,EE,203EF9B4,extended,0C030088
 
-//1-Hit Kill For Some Enemy
+[1-Hit Kill For Some Enemy]
 patch=1,EE,202B0614,extended,AE200390
 patch=1,EE,202D6538,extended,AC400390
 patch=1,EE,202B75F8,extended,AE800390
 
-//Never Reload
+[Never Reload]
 patch=1,EE,20317F58,extended,E6410154
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,203196F0,extended,00000000
 
-//Infinite Stun Gun Battery
+[Infinite Stun Gun Battery]
 patch=1,EE,20297F14,extended,00000000
 
-//Infinite Chainsaw Battery
+[Infinite Chainsaw Battery]
 patch=1,EE,2028F308,extended,00000000
 
-//Infinite Battery For All Weapons
+[Infinite Battery For All Weapons]
 patch=1,EE,203EED2C,extended,C4940C8C
 patch=1,EE,203EED30,extended,E4940C88
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,2037139C,extended,00000000
 
-//Infinite Items
+[Infinite Items]
 patch=1,EE,2030D80C,extended,00000000
 
-//Activate Cheat Codes Infinite Ammo
+[Activate Cheat Codes Infinite Ammo]
 patch=1,EE,2051A900,extended,00000001
 
-//Activate Cheat Codes Invincible Both Player
+[Activate Cheat Codes Invincible Both Player]
 patch=1,EE,20233F44,extended,24030001
 

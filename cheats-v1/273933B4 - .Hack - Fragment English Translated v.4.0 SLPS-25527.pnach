@@ -1,7 +1,7 @@
-//Cheats/Infinite Points Making player
+[Cheats/Infinite Points Making player]
 patch=1,EE,D01B68aA,extended,0000a4a3
 patch=1,EE,201B68a8,extended,00000000
 
-//Cheats/Max Stats Making player
+[Cheats/Max Stats Making player]
 patch=1,EE,D01B67D8,extended,00000001
 patch=1,EE,201B67D8,extended,20020063

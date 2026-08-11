@@ -1,8 +1,8 @@
 gametitle=Sega Ages 2500 Series Vol. 22 - Advanced Daisenryaku - Doitsu Dengeki Sakusen SLPM-62708
-//War expenditure 9999999
+[War expenditure 9999999]
 patch=1,EE,203FD9E8,extended,00980967
 
-//Necessary code
+[Necessary code]
 patch=1,EE,201A0874,extended,0803E000
 patch=1,EE,200F8000,extended,12400021
 patch=1,EE,200F8008,extended,3C020049
@@ -10,7 +10,7 @@ patch=1,EE,200F800C,extended,84428CF0
 patch=1,EE,200F8080,extended,0806821F
 patch=1,EE,200F8088,extended,08068255
 
-//Experience value 250 main point: Necessary code While pushing R2 in the map picture, it adjusts cursor to unit
+[Experience value 250 main point: Necessary code While pushing R2 in the map picture, it adjusts cursor to unit]
 patch=1,EE,200F8010,extended,30410002
 patch=1,EE,200F8014,extended,10200002
 patch=1,EE,200F8018,extended,240300FA

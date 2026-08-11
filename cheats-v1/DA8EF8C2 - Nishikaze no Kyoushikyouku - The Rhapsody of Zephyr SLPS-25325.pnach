@@ -1,19 +1,19 @@
-//Cheats/Max Gold
+[Cheats/Max Gold]
 patch=1,EE,20400B00,extended,05F5E0FF
 
-//Cheats/Max HP And MP All characters
+[Cheats/Max HP And MP All characters]
 patch=1,EE,20137294,extended,00000000
 patch=1,EE,20134430,extended,00000000
 
-//Cheats/Roberto De Meditch 1 Character Max HP 9999
+[Cheats/Roberto De Meditch 1 Character Max HP 9999]
 patch=1,EE,103FAAA0,extended,0000270F
 patch=1,EE,103FAB20,extended,0000270F
 
-//Cheats/Roberto De Meditch 1 Character Max MP 9999
+[Cheats/Roberto De Meditch 1 Character Max MP 9999]
 patch=1,EE,103FAAA4,extended,0000270F
 patch=1,EE,103FAB24,extended,0000270F
 
-//Cheats/Roberto De Meditch 1 Character Max Stats
+[Cheats/Roberto De Meditch 1 Character Max Stats]
 patch=1,EE,103FAAB8,extended,000003E7
 patch=1,EE,103FAABC,extended,000003E7
 patch=1,EE,103FAAC0,extended,000003E7
@@ -21,15 +21,15 @@ patch=1,EE,103FAAB4,extended,00002700
 patch=1,EE,103FAAB0,extended,00002700
 patch=1,EE,103FAAAC,extended,00002700
 
-//Cheats/Andrea Bors 2 Character Max HP 9999
+[Cheats/Andrea Bors 2 Character Max HP 9999]
 patch=1,EE,103FBF40,extended,0000270F
 patch=1,EE,103FBFC0,extended,0000270F
 
-//Cheats/Andrea Bors 2 Character Max MP 9999Unlock
+[Cheats/Andrea Bors 2 Character Max MP 9999Unlock]
 patch=1,EE,103FBF44,extended,0000270F
 patch=1,EE,103FBFC4,extended,0000270F
 
-//Cheats/Andrea Bors 2 Character Max Stats
+[Cheats/Andrea Bors 2 Character Max Stats]
 patch=1,EE,103FBF58,extended,000003E7
 patch=1,EE,103FBF5C,extended,000003E7
 patch=1,EE,103FBF60,extended,000003E7
@@ -37,11 +37,11 @@ patch=1,EE,103FBF54,extended,00002700
 patch=1,EE,103FBF50,extended,00002700
 patch=1,EE,103FBF4C,extended,00002700
 
-//Cheats/Louis Scheffer 3 Character Max HP 9999
+[Cheats/Louis Scheffer 3 Character Max HP 9999]
 patch=1,EE,103FC360,extended,0000270F
 patch=1,EE,103FC3E0,extended,0000270F
 
-//Cheats/Louis Scheffer 3 Character Max MP 9999
+[Cheats/Louis Scheffer 3 Character Max MP 9999]
 patch=1,EE,103FC364,extended,0000270F
 patch=1,EE,103FC3E4,extended,0000270F
 
@@ -53,18 +53,18 @@ patch=1,EE,103FC374,extended,00002700
 patch=1,EE,103FC370,extended,00002700
 patch=1,EE,103FC36C,extended,00002700
 
-//Cheats/Max Experience Value After Battle
+[Cheats/Max Experience Value After Battle]
 patch=1,EE,20134704,extended,3C0300F4
 patch=1,EE,2013470C,extended,34612400
 patch=1,EE,20134710,extended,0020100A
 
-//Cheats/No Random Battles Encounter On SELECT Off R3
+[Cheats/No Random Battles Encounter On SELECT Off R3]
 patch=1,EE,D0511242,extended,0000FFFE
 patch=1,EE,20144350,extended,150B0003
 patch=1,EE,D0511242,extended,0000FFFB
 patch=1,EE,20144350,extended,00000000
 
-//Cheats/Unlock All Albums
+[Cheats/Unlock All Albums]
 patch=1,EE,403F91AC,extended,00030001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,003F91B8,extended,00000001

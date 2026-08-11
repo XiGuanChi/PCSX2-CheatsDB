@@ -1,5 +1,5 @@
 gametitle=Jeremy McGrath Supercross World SLES-50209
-//Riders preset max stats
+[Riders preset max stats]
 patch=1,EE,202A59B0,extended,05050505
 patch=1,EE,202A59B4,extended,05050505
 patch=1,EE,202A59B8,extended,05050505
@@ -10,11 +10,11 @@ patch=1,EE,202A59C8,extended,05050505
 patch=1,EE,202A59CC,extended,05050505
 patch=1,EE,202A59D0,extended,05050505
 
-//Dumb CP riders
+[Dumb CP riders]
 patch=1,EE,202A4C78,extended,461C4000
 
-//Inf turbo
+[Inf turbo]
 patch=1,EE,102B327C,extended,00000001
 
-//Unlock everything
+[Unlock everything]
 patch=1,EE,102B327C,extended,00000800

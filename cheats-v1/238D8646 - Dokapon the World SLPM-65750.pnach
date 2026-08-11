@@ -1,10 +1,10 @@
-//Cheats/Max Money player 1
+[Cheats/Max Money player 1]
 patch=1,EE,2056C5F4,extended,05F5E0FF
 
-//Cheats/Infinite HP Player 1
+[Cheats/Infinite HP Player 1]
 patch=1,EE,2056C5F0,extended,00000096
 
-//Cheats/Lv 99 when Zako Is Defeated ON Press L2 OFF R2
+[Cheats/Lv 99 when Zako Is Defeated ON Press L2 OFF R2]
 patch=1,EE,D05373C2,extended,0000FEFF
 patch=1,EE,00182FB4,extended,00000000
 patch=1,EE,D05373C2,extended,0000FDFF

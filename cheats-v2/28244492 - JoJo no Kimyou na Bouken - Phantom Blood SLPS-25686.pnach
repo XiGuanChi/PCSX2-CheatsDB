@@ -1,20 +1,20 @@
 gametitle=JoJo no Kimyou na Bouken - Phantom Blood SLPS-25686
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20244500,extended,42C80000
 patch=1,EE,20244504,extended,42C80000
 patch=1,EE,20244508,extended,42C80000
 
-//Maximum points
+[Maximum points]
 patch=1,EE,20241BB8,extended,05F5E0FF
 
-//Infinite  time 
+[Infinite  time]
 patch=1,EE,2022AE48,extended,476A6000
 
-//Maximum heat gauge
+[Maximum heat gauge]
 patch=1,EE,20244558,extended,42C80000
 patch=1,EE,2024455C,extended,42C80000
 
-//Bonus fully open note Kontini Yu chapter of the story mode when you use is 30.
+[Bonus fully open note Kontini Yu chapter of the story mode when you use is 30.]
 patch=1,EE,20241BBC,extended,FFFFFFFF
 patch=1,EE,20241BC0,extended,FFFFFFFF
 patch=1,EE,20241BC4,extended,FFFFFFFF

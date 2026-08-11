@@ -1,8 +1,8 @@
-//Cheats/Required Code
+[Cheats/Required Code]
 patch=1,EE,2010366C,extended,0803F800
 patch=1,EE,200FE284,extended,03E00008
 
-//Cheats/Max Status All new generals max ability required
+[Cheats/Max Status All new generals max ability required]
 patch=1,EE,200FE000,extended,3C0801C6
 patch=1,EE,200FE004,extended,35084252
 patch=1,EE,200FE008,extended,3C090010
@@ -24,7 +24,7 @@ patch=1,EE,200FE04C,extended,15A0FFF5
 patch=1,EE,200FE050,extended,250800F0
 patch=1,EE,200FE300,extended,FFFFFFFF
 
-//Cheats/Max Status New General's Troops gold, provisions, number of troops, willpower, intelligence, attack, defense, construction, movement
+[Cheats/Max Status New General's Troops gold, provisions, number of troops, willpower, intelligence, attack, defense, construction, movement]
 patch=1,EE,200FE200,extended,3C0801CA
 patch=1,EE,200FE204,extended,3508B8B6
 patch=1,EE,200FE208,extended,24090064
@@ -52,7 +52,7 @@ patch=1,EE,200FE270,extended,A50DFFF6
 patch=1,EE,200FE274,extended,A10FFFF8
 patch=1,EE,200FE27C,extended,0803F884
 
-//Cheats/Unlock All Extras
+[Cheats/Unlock All Extras]
 patch=1,EE,41CD27D4,extended,006E0001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,41CD29BC,extended,000E0001

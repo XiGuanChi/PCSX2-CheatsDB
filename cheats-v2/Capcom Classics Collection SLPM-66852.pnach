@@ -1,4 +1,4 @@
 gametitle=Capcom Classics Collection SLPM-66852
-//Cancel all bonuses
+[Cancel all bonuses]
 patch=1,EE,4032D460,extended,00160073
 patch=1,EE,02020202,extended,00000000

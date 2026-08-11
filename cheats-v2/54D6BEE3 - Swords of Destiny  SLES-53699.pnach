@@ -1,24 +1,24 @@
 gametitle=Swords of Destiny  SLES-53699
-//infinity + max. energy
+[infinity + max. energy]
 patch=1,EE,2089f9d8,extended,43480000
 patch=1,EE,2089f9dc,extended,43480000
 
-//infinitely max.Drachenmacht bar
+[infinitely max.Drachenmacht bar]
 patch=1,EE,2089f9e4,extended,43480000
 patch=1,EE,2089f9e8,extended,43480000
 
-//have all weapons
+[have all weapons]
 patch=1,EE,407de324,extended,003e000a
 patch=1,EE,00000001,extended,00000000
 
-//Turn ABSOLUTE dates (Final Wep 1)
+[Turn ABSOLUTE dates (Final Wep 1)]
 patch=1,EE,007dec84,extended,00000001
 
-//Turn INFINITY free (Final Wep 2)
+[Turn INFINITY free (Final Wep 2)]
 patch=1,EE,007decac,extended,00000001
 
-//1 Hit Kill 
+[1 Hit Kill]
 patch=1,EE,202F7888,extended,AC8000CC
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2022232C,extended,00000000

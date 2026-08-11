@@ -1,57 +1,57 @@
-//Cheats/Infinite & Max HP
+[Cheats/Infinite & Max HP]
 patch=1,EE,203E3E20,extended,000003E7
 patch=1,EE,203E3E2C,extended,000003E7
 
-//Cheats/Infinite & Max HP 2nd Character Priecia
+[Cheats/Infinite & Max HP 2nd Character Priecia]
 patch=1,EE,203E8C80,extended,000003E7
 patch=1,EE,203E8C8C,extended,000003E7
 
-//Cheats/Battle Part Obtain All Prisms At The Start reflect save
+[Cheats/Battle Part Obtain All Prisms At The Start reflect save]
 patch=1,EE,201A046C,extended,240F0001
 patch=1,EE,201A0470,extended,ADCF0000
 
-//Cheats/All Prisms Can Be Equipped save not reflected
+[Cheats/All Prisms Can Be Equipped save not reflected]
 patch=1,EE,201B0D38,extended,240F0001
 patch=1,EE,201B0D3C,extended,A62F0000
 
-//Cheats/Max Level When You Get Experience Points
+[Cheats/Max Level When You Get Experience Points]
 patch=1,EE,201CD8B0,extended,00000000
 
-//Cheats/Max Experience Value Hayaway
+[Cheats/Max Experience Value Hayaway]
 patch=1,EE,202F2B18,extended,000F423F
 
-//Cheats/Max Experience Value Priecia
+[Cheats/Max Experience Value Priecia]
 patch=1,EE,202F2B1C,extended,000F423F
 
-//Cheats/Max Experience Value Kagura
+[Cheats/Max Experience Value Kagura]
 patch=1,EE,202F2B20,extended,000F423F
 
-//Cheats/Max Experience Value Fel
+[Cheats/Max Experience Value Fel]
 patch=1,EE,202F2B24,extended,000F423F
 
-//Cheats/Max Experience Value Flower bell
+[Cheats/Max Experience Value Flower bell]
 patch=1,EE,202F2B28,extended,000F423F
 
-//Cheats/Max Experience Value Theresa
+[Cheats/Max Experience Value Theresa]
 patch=1,EE,202F2B2C,extended,000F423F
 
-//Cheats/Max Experience Value Litte
+[Cheats/Max Experience Value Litte]
 patch=1,EE,202F2B30,extended,000F423F
 
-//Cheats/Max Experience Value Philia
+[Cheats/Max Experience Value Philia]
 patch=1,EE,202F2B34,extended,000F423F
 
-//Cheats/Max Experience Value Lur
+[Cheats/Max Experience Value Lur]
 patch=1,EE,202F2B38,extended,000F423F
 
-//Cheats/Unlock Appearance of Special Bonus & Playing Data
+[Cheats/Unlock Appearance of Special Bonus & Playing Data]
 patch=1,EE,202F27D0,extended,00000001
 
-//Cheats/Unlock All ART GALLERY
+[Cheats/Unlock All ART GALLERY]
 patch=1,EE,402F2938,extended,000B0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All ENDING INFO & SPECIAL MESSAGE
+[Cheats/Unlock All ENDING INFO & SPECIAL MESSAGE]
 patch=1,EE,402F27D4,extended,00090001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,402F289C,extended,00080001

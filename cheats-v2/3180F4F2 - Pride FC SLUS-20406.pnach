@@ -1,11 +1,11 @@
 gametitle=Pride FC SLUS-20406
-//Infinite Skill Points
+[Infinite Skill Points]
 patch=1,EE,107FA71A,extended,00002828
 
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,202A54DC,extended,43200000
 patch=1,EE,202A54E0,extended,43200000
 
-//No Health P2
+[No Health P2]
 patch=1,EE,202A6FDC,extended,43200000
 patch=1,EE,202A6FE0,extended,00000000

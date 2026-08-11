@@ -1,8 +1,8 @@
 gametitle=Puzzle Quest - Challenge of the Warlords SLUS-21692
-//Infinite Money
+[Infinite Money]
 patch=1,EE,2014B6A0,extended,00000000
 
-//In-Battle Codes Infinite HP
+[In-Battle Codes Infinite HP]
 patch=1,EE,201868EC,extended,08030094
 patch=1,EE,201868F0,extended,00000000
 patch=1,EE,200C0250,extended,15000007
@@ -13,7 +13,7 @@ patch=1,EE,200C0270,extended,00511023
 patch=1,EE,200C0274,extended,08061A3C
 patch=1,EE,200C0278,extended,0062182A
 
-//Max Infinite HP
+[Max Infinite HP]
 patch=1,EE,200C0250,extended,15000007
 patch=1,EE,200C0258,extended,240203E8
 patch=1,EE,200C025C,extended,AE020050
@@ -27,7 +27,7 @@ patch=1,EE,200C0278,extended,0062182A
 patch=1,EE,201868EC,extended,08030094
 patch=1,EE,201868F0,extended,00000000
 
-//Have All Magic Items (Equipment)
+[Have All Magic Items (Equipment)]
 patch=1,EE,2025CC00,extended,08030080
 patch=1,EE,200C0200,extended,3C0100CF
 patch=1,EE,200C0204,extended,3421E390

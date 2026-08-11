@@ -1,38 +1,38 @@
 gametitle=Burnout Revenge SLES-53507
-//Infinite Boost
+[Infinite Boost]
 patch=1,EE,202A3AA0,extended,00000000
 
-//Elite Rank
+[Elite Rank]
 patch=1,EE,21F65188,extended,000003E8
 patch=1,EE,21F6518C,extended,0000000B
 
-//All Events Open
+[All Events Open]
 patch=1,EE,200C2000,extended,2402000F
 patch=1,EE,200C2004,extended,03E00008
 patch=1,EE,200C2008,extended,AC820010
 patch=1,EE,20137D68,extended,08030800
 
-//Timer Reset (L3 Press)
+[Timer Reset (L3 Press)]
 patch=1,EE,D04F369C,extended,0000FFFD
 patch=1,EE,21D618BC,extended,00000000
 
-//Gold Medal All Events
+[Gold Medal All Events]
 patch=1,EE,41F65348,extended,002B0001
 patch=1,EE,03030303,extended,00000000
 
-//5 Stars All Events
+[5 Stars All Events]
 patch=1,EE,41F65458,extended,002B0001
 patch=1,EE,04040404,extended,00000000
 
-//All Cars
+[All Cars]
 patch=1,EE,41F65588,extended,00200001
 patch=1,EE,03030303,extended,00000000
 
-//Dominator Rank
+[Dominator Rank]
 patch=1,EE,21F65188,extended,000003E7
 patch=1,EE,21F6518C,extended,0000000A
 
 
-//All Rank 1 Races Unlocked
+[All Rank 1 Races Unlocked]
 patch=1,EE,21F6519C,extended,0000000F
 patch=1,EE,21F651DC,extended,0000000

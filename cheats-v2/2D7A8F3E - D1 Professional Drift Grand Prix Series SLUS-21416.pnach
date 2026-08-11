@@ -1,19 +1,19 @@
 gametitle=D1 Professional Drift Grand Prix Series SLUS-21416
-//Disable Timer
+[Disable Timer]
 patch=1,EE,20131208,extended,00000000
 
-//Unlock All Movies
+[Unlock All Movies]
 patch=1,EE,20568C48,extended,FFFFFFFF
 patch=1,EE,20568C4C,extended,FFFFFFFF
 
-//Unlock All Professional Cars
+[Unlock All Professional Cars]
 patch=1,EE,0056845C,extended,0000007F
 patch=1,EE,00568E68,extended,0000007F
 
-//200 Drift Points P1
+[200 Drift Points P1]
 patch=1,EE,2050C4F8,extended,43480000
 patch=1,EE,2050C504,extended,43480000
 
-//0 Drift Points Competitor
+[0 Drift Points Competitor]
 patch=1,EE,2050C560,extended,00000000
 patch=1,EE,2050C56C,extended,00000000

@@ -1,5 +1,5 @@
 gametitle=Call of Duty 3 SLUS-21426
-//God Mode
+[God Mode]
 patch=1,EE,E006902D,extended,00101CD0
 patch=1,EE,200C0220,extended,8E410268
 patch=1,EE,200C0224,extended,34210001
@@ -8,12 +8,12 @@ patch=1,EE,200C022C,extended,03E00008
 patch=1,EE,200C0230,extended,8E530200
 patch=1,EE,20101CF0,extended,0C030088
 
-//Unlock All Chapters/Bonus Materials
+[Unlock All Chapters/Bonus Materials]
 patch=1,EE,D0100238,extended,0000F7F7
 patch=1,EE,2049C944,extended,0000000E
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2022971C,extended,00000000
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,0049C944,extended,0000000E

@@ -1,16 +1,16 @@
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,20507318,extended,3F800000
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,203A3990,extended,00000000
 
-//Cheats/Infinite Ammo and No Reload
+[Cheats/Infinite Ammo and No Reload]
 patch=1,EE,1020F9AC,extended,00000000
 
-//Cheats/Saves Left Dont Decrease When Saving
+[Cheats/Saves Left Dont Decrease When Saving]
 patch=1,EE,1037BD94,extended,00000000
 
-//Cheats/Unlock All Levels Press SELECT in Start Menu for Level Select
+[Cheats/Unlock All Levels Press SELECT in Start Menu for Level Select]
 patch=1,EE,D0483D42,extended,0000FFFE
 patch=1,EE,2041F9E8,extended,24020001
 patch=1,EE,D0483D42,extended,0010FFFE

@@ -1,11 +1,11 @@
 gametitle=Frogger SLPM-65304
-//All abilities
+[All abilities]
 patch=1,EE,0036C068,extended,00000003
 patch=1,EE,0036C069,extended,00000003
 patch=1,EE,0036C06A,extended,00000003
 
-//Time attack mode
+[Time attack mode]
 patch=1,EE,0036C06B,extended,00000001
 
-//Flogger 99x
+[Flogger 99x]
 patch=1,EE,0036C0F8,extended,00000064

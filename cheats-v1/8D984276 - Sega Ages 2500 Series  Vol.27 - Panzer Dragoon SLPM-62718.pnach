@@ -1,14 +1,14 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20A84278,extended,00000104
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,201DAF14,extended,1000012E
 
-//Cheats/100% defeat rate
+[Cheats/100% defeat rate]
 patch=1,EE,20A83234,extended,000003E7
 patch=1,EE,20A83238,extended,000003E7
 
-//Cheats/Unlock Pandora'S Box
+[Cheats/Unlock Pandora'S Box]
 patch=1,EE,20B2A498,extended,00000008
 patch=1,EE,20B2A49C,extended,00000001
 patch=1,EE,20B2A4A0,extended,00000001

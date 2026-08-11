@@ -1,20 +1,20 @@
 gametitle=Soul Cradle - Sekai o Kurau Mono SLPS-25739
-//Gold 99999999
+[Gold 99999999]
 patch=1,EE,20413A00,extended,0098967F
 
-//After 2 Level Up = Stats max
+[After 2 Level Up = Stats max]
 patch=1,EE,2023822C,extended,24050001
 
-//Always Your Turn
+[Always Your Turn]
 patch=1,EE,2019793C,extended,A2000346
 patch=1,EE,20197948,extended,A2000347
 patch=1,EE,20197954,extended,00000000
 patch=1,EE,20197958,extended,A0400057
 
-//Must Be On Code
+[Must Be On Code]
 patch=1,EE,201379B8,extended,1000000E
 
-//After 1 Battle Exp/Gold max.
+[After 1 Battle Exp/Gold max.]
 patch=1,EE,2048CC10,extended,05F5E100
 patch=1,EE,2048CC18,extended,05F5E100
 patch=1,EE,2048CC20,extended,05F5E100

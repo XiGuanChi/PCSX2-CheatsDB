@@ -1,45 +1,45 @@
-//Cheats/Max Gold 99999999
+[Cheats/Max Gold 99999999]
 patch=1,EE,20413A00,extended,0098967F
 
-//Cheats/Infinite movement and attack possible
+[Cheats/Infinite movement and attack possible]
 patch=1,EE,2019793C,extended,A6000346
 
-//Cheats/Can be distributed even without image enhancement power
+[Cheats/Can be distributed even without image enhancement power]
 patch=1,EE,202C2134,extended,00000000
 
-//Cheats/Combat technique can be used even 0 times
+[Cheats/Combat technique can be used even 0 times]
 patch=1,EE,2019AD60,extended,1 0000010
 
-//Cheats/Room effect & Gig Command Store brings back products every time you enter
+[Cheats/Room effect & Gig Command Store brings back products every time you enter]
 patch=1,EE,20219C50,extended,10000011
 
-//Cheats/Can be used even if special move 0 times when attacking
+[Cheats/Can be used even if special move 0 times when attacking]
 patch=1,EE,20177A44,extended,00000000
 
-//Cheats/It does not decrease even if you use the gig command ON SELECT+ up OFF SELECT+down
+[Cheats/It does not decrease even if you use the gig command ON SELECT+ up OFF SELECT+down]
 patch=1,EE,D03A7EC2,extended,0000FFEE
 patch=1,EE,202347B4,extended,10000032
 patch=1,EE,D03A7EC2,extended,0000FFBE
 patch=1,EE,202347B4,extended,12020032
 
-//Cheats/After 2 Level Up Max Stats
+[Cheats/After 2 Level Up Max Stats]
 patch=1,EE,2023822C,extended,24050001
 
-//Cheats/Always Your Turn
+[Cheats/Always Your Turn]
 patch=1,EE,2019793C,extended,A2000346
 patch=1,EE,20197948,extended,A2000347
 patch=1,EE,20197954,extended,00000000
 patch=1,EE,20197958,extended,A0400057
 
-//Cheats/Must Be On Code
+[Cheats/Must Be On Code]
 patch=1,EE,201379B8,extended,1000000E
 
-//Cheats/After 1 Battle max Exp and Gold
+[Cheats/After 1 Battle max Exp and Gold]
 patch=1,EE,2048CC10,extended,05F5E100
 patch=1,EE,2048CC18,extended,05F5E100
 patch=1,EE,2048CC20,extended,05F5E100
 
-//Cheats/Debug flag ON Test menu appears in the title. Items such as combat tests will appear, but they cannot be selected
+[Cheats/Debug flag ON Test menu appears in the title. Items such as combat tests will appear, but they cannot be selected]
 patch=1,EE,201379B8,extended,1000000E
 patch=1,EE,2021BE20,extended,24030002
 patch=1,EE,2021BE24,extended,AC4382D0

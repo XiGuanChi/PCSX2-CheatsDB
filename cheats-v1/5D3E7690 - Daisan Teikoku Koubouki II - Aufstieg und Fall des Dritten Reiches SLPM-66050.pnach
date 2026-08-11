@@ -1,21 +1,21 @@
-//Cheats/Max Fund
+[Cheats/Max Fund]
 patch=1,EE,20224BC8,extended,38A11BDB
 
-//Cheats/Max Petroleum
+[Cheats/Max Petroleum]
 patch=1,EE,20224BCC,extended,38A11BDB
 
-//Cheats/Max Steel And Iron
+[Cheats/Max Steel And Iron]
 patch=1,EE,20224BD0,extended,38A11BDB
 
-//Cheats/999 In Home Air Force Weapons Warehouse
+[Cheats/999 In Home Air Force Weapons Warehouse]
 patch=1,EE,402280AC,extended,00070001
 patch=1,EE,03E703E7,extended,00000000
 
-//Cheats/999 In Foreign Air Force Weapons Warehouse
+[Cheats/999 In Foreign Air Force Weapons Warehouse]
 patch=1,EE,402280c8,extended,000a0001
 patch=1,EE,03E703E7,extended,00000000
 
-//Cheats/999 At Home Army Weapons Warehouse
+[Cheats/999 At Home Army Weapons Warehouse]
 patch=1,EE,20227ecc,extended,03e703e7
 patch=1,EE,20227ed0,extended,03e703e7
 patch=1,EE,20227ed4,extended,03e703e7
@@ -63,7 +63,7 @@ patch=1,EE,20227f88,extended,03e703e7
 patch=1,EE,20227f8c,extended,03e703e7
 patch=1,EE,20227f94,extended,03e703e7
 
-//Cheats/999 In Foreign Army Weapons Warehouse
+[Cheats/999 In Foreign Army Weapons Warehouse]
 patch=1,EE,40227Fac,extended,00400001
 patch=1,EE,03E703E7,extended,00000000
 

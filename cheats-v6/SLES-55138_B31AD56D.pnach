@@ -1,6 +1,6 @@
 gametitle=El Tigre, Nickelodeon - The Adventures of Manny Rivera SLES-55138 B31AD56D
 
-//NTSC Mode
+[NTSC Mode]
 author=GamingDragon93
 description=NTSC mode at start. FMVs broken.
 patch=0,EE,00259470,word,14400006

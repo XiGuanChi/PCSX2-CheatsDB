@@ -1,66 +1,66 @@
 gametitle=Terminator 3 - Rise of the Machines SLUS-20799
-//In-Game Cheat Codes Invincibility
+[In-Game Cheat Codes Invincibility]
 patch=1,EE,203889B8,extended,00000001
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,E0032021,extended,00241E5C
 patch=1,EE,20241E64,extended,240203E8
 patch=1,EE,20241E68,extended,03E00008
 patch=1,EE,20241E6C,extended,A4620584
 
-//Infinite AmmunitionEnergy
+[Infinite AmmunitionEnergy]
 patch=1,EE,1042065A,extended,000003E7
 
-//Infinite AmmunitionPlasma Charges
+[Infinite AmmunitionPlasma Charges]
 patch=1,EE,1042065C,extended,00000028
 
-//Infinite AmmunitionGrenades
+[Infinite AmmunitionGrenades]
 patch=1,EE,1042065E,extended,000003E7
 
-//Infinite AmmunitionRockets
+[Infinite AmmunitionRockets]
 patch=1,EE,10420660,extended,000003E7
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,403889F8,extended,00050001
 patch=1,EE,315C6D52,extended,1F66FBB8
 
-//Unlock Centipede
+[Unlock Centipede]
 patch=1,EE,0038FBB9,extended,00000001
 
-//Unlock Missile Command
+[Unlock Missile Command]
 patch=1,EE,0038FBBA,extended,00000001
 
-//Unlock All InGame CG Scenes
+[Unlock All InGame CG Scenes]
 patch=1,EE,0038FB11,extended,00000001
 patch=1,EE,1038FB12,extended,00000101
 patch=1,EE,2038FB14,extended,01010101
 
-//Unlock All Movie Scenes
+[Unlock All Movie Scenes]
 patch=1,EE,0038FB19,extended,00000001
 patch=1,EE,1038FB1A,extended,00000101
 patch=1,EE,2038FB1C,extended,01010101
 patch=1,EE,1038FB20,extended,00000101
 patch=1,EE,0038FB22,extended,00000001
 
-//Unlock All Exclusive Movie Scenes
+[Unlock All Exclusive Movie Scenes]
 patch=1,EE,0038FB23,extended,00000001
 patch=1,EE,1038FB24,extended,00000101
 patch=1,EE,0038FB26,extended,00000001
 
-//Unlock All Movie Concept Arts
+[Unlock All Movie Concept Arts]
 patch=1,EE,1038FB2A,extended,00000101
 patch=1,EE,4038FB2C,extended,000B0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,1038FB58,extended,00000101
 
-//Unlock All Production Shots
+[Unlock All Production Shots]
 patch=1,EE,1038FB5A,extended,00000101
 patch=1,EE,4038FB5C,extended,000B0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,1038FB88,extended,00000101
 patch=1,EE,0038FB8A,extended,00000001
 
-//Unlock All Game Concept Arts
+[Unlock All Game Concept Arts]
 patch=1,EE,0038FB8B,extended,00000001
 patch=1,EE,4038FB8C,extended,000B0001
 patch=1,EE,01010101,extended,00000000

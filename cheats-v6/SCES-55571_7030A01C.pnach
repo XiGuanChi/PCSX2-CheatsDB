@@ -1,12 +1,12 @@
 gametitle=Ghostbusters - The Video Game PAL-M SCES-55571 7030A01C
 
-//50/60 FPS
+[50/60 FPS]
 author=GamingDragon93
 description=Might need EE overclock (300%).
 patch=1,EE,E0010001,extended,0061E32C
 patch=1,EE,2014BE14,extended,00000000
 
-//NTSC Mode
+[NTSC Mode]
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,003CEF34,word,50400007

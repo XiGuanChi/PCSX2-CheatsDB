@@ -1,46 +1,46 @@
 gametitle=Sega Ages 2500 Series Vol. 18 - Dragon Force SLPM-65778
-//Medal 999
+[Medal 999]
 patch=1,EE,10C084E8,extended,000003E7
 
-//Remaining decoration several 999
+[Remaining decoration several 999]
 patch=1,EE,2016E118,extended,08067517
 patch=1,EE,2019D45C,extended,3C0100C1
 patch=1,EE,2019D460,extended,241A03E7
 patch=1,EE,2019D464,extended,A43A84E8
 patch=1,EE,2019D468,extended,03E00008
 
-//All items
+[All items]
 patch=1,EE,D03C6038,extended,00001BF0
 patch=1,EE,203C6048,extended,26300000
 patch=1,EE,D03C6038,extended,00001BF0
 patch=1,EE,203C606C,extended,2E23004A
 
-//Status codes :
+[Status codes :]
 
-//Exp. 65535
+[Exp. 65535]
 patch=1,EE,10C02BF0,extended,0000FFFF
 
-//HP 9999 max
+[HP 9999 max]
 patch=1,EE,10C00FE2,extended,0000270F
 
-//HP 9999 infinite
+[HP 9999 infinite]
 patch=1,EE,10C01138,extended,0000270F
 
-//MP 9999 max
+[MP 9999 max]
 patch=1,EE,10C0128E,extended,0000270F
 
-//MP 9999 infinite
+[MP 9999 infinite]
 patch=1,EE,10C013E4,extended,0000270F
 
-//Field mode only required code
+[Field mode only required code]
 patch=1,EE,200F8700,extended,080645D8
 patch=1,EE,20120E94,extended,0C03E140
 
-//Do not reduce the number of reserve soldiers at draft recruitment
+[Do not reduce the number of reserve soldiers at draft recruitment]
 patch=1,EE,200F8500,extended,3C030041
 patch=1,EE,200F8504,extended,AC607F1C
 
-//Level MAX with rising experience
+[Level MAX with rising experience]
 patch=1,EE,200F8510,extended,3C022402
 patch=1,EE,200F8514,extended,3442FFFF
 patch=1,EE,200F8518,extended,3C030039
@@ -49,34 +49,34 @@ patch=1,EE,200F8520,extended,3C022403
 patch=1,EE,200F8524,extended,3442FFFF
 patch=1,EE,200F8528,extended,AC6220F0
 
-//Do not reduce MP at battle
+[Do not reduce MP at battle]
 patch=1,EE,200F8530,extended,3C030050
 patch=1,EE,200F8534,extended,AC601178
 
-//Power gauge MAX of your army warlords at battle
+[Power gauge MAX of your army warlords at battle]
 patch=1,EE,200F8538,extended,2402AC40
 patch=1,EE,200F853C,extended,3C030051
 patch=1,EE,200F8540,extended,A46201F6
 
-//Can select nationwide in NewGame
+[Can select nationwide in NewGame]
 patch=1,EE,20151750,extended,24030001
 
-//EXTRA memorable memories enter full throttle
+[EXTRA memorable memories enter full throttle]
 patch=1,EE,20131B0C,extended,2402FFFF
 patch=1,EE,20131B10,extended,FC820040
 patch=1,EE,20131B24,extended,24020001
 
-//EXTRA item chart enters full when opened
+[EXTRA item chart enters full when opened]
 patch=1,EE,20131090,extended,240200FF
 patch=1,EE,20131094,extended,A2620000
 
-//EXTRA release of the star record & full opening
+[EXTRA release of the star record & full opening]
 patch=1,EE,20132664,extended,2403FFFF
 patch=1,EE,20132668,extended,DC431688
 patch=1,EE,201305D8,extended,240200FF
 patch=1,EE,201305DC,extended,A2420000
 
-//EXTRA Shoseiroku fully open
+[EXTRA Shoseiroku fully open]
 patch=1,EE,20201648,extended,FFFFFFFF
 patch=1,EE,2020164C,extended,FFFFFFFF
 patch=1,EE,20201650,extended,FFFFFFFF
@@ -85,11 +85,11 @@ patch=1,EE,20201658,extended,FFFFFFFF
 patch=1,EE,2020165C,extended,FFFFFFFF
 patch=1,EE,0020168F,extended,000000FF
 
-//EXTRA item picture book fully open
+[EXTRA item picture book fully open]
 patch=1,EE,20201674,extended,FFFFFFFF
 patch=1,EE,20201678,extended,FFFFFFFF
 patch=1,EE,2020167C,extended,FFFFFFFF
 
-//EXTRA Unforgettable memory fully open
+[EXTRA Unforgettable memory fully open]
 patch=1,EE,20201688,extended,FFFFFFFF
 patch=1,EE,0020168C,extended,000000FF

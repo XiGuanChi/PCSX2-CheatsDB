@@ -1,14 +1,14 @@
-//Cheats/Unlock All CG
+[Cheats/Unlock All CG]
 patch=1,EE,401B5B70,extended,00080001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,001B5B90,extended,000000FF
 
-//Cheats/Unlock All Memories
+[Cheats/Unlock All Memories]
 patch=1,EE,401B5BB4,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,001B5BC4,extended,000000FF
 
-//Cheats/Press L3 For Texture Viewer, R3 to Disable
+[Cheats/Press L3 For Texture Viewer, R3 to Disable]
 patch=1,EE,20102C60,extended,08055BD2
 patch=1,EE,10156F88,extended,00006264
 patch=1,EE,D0586552,extended,0000FFFD

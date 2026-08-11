@@ -1,25 +1,25 @@
-//Cheats/Max Degree of sufficiency
+[Cheats/Max Degree of sufficiency]
 patch=1,EE,205C45AC,extended,00000001
 
-//Cheats/Max Body ability
+[Cheats/Max Body ability]
 patch=1,EE,205C45B0,extended,00000001
 
-//Cheats/Max Spiritual ability
+[Cheats/Max Spiritual ability]
 patch=1,EE,205C45B4,extended,00000001
 
-//Cheats/Max Feeling value
+[Cheats/Max Feeling value]
 patch=1,EE,205C45B8,extended,00000001
 
-//Cheats/Infinite conduct limit
+[Cheats/Infinite conduct limit]
 patch=1,EE,205C4650,extended,00000001
 
-//Cheats/Infinite Durability
+[Cheats/Infinite Durability]
 patch=1,EE,205C4654,extended,00000001
 
-//Cheats/Infinite torpedos
+[Cheats/Infinite torpedos]
 patch=1,EE,205C4658,extended,00000001
 
-//Cheats/Infinite mines
+[Cheats/Infinite mines]
 patch=1,EE,205C465C,extended,00000001
 
 [Cheats/Necessary cord code During status indicating L2+SELECT is pushed effective motion].
@@ -28,73 +28,73 @@ patch=1,EE,204132DC,extended,03E00008
 patch=1,EE,D043C802,extended,0000FEFE
 patch=1,EE,204132DC,extended,0803D000
 
-//Cheats/Money in hand 999,999,999
+[Cheats/Money in hand 999,999,999]
 patch=1,EE,200F4000,extended,3C023B9A
 patch=1,EE,200F4004,extended,3442C9FF
 patch=1,EE,200F4008,extended,AC824EF8
 
-//Cheats/Dignity point 50000
+[Cheats/Dignity point 50000]
 patch=1,EE,200F4010,extended,2401C350
 patch=1,EE,200F4014,extended,A481012A
 
-//Cheats/Direction basic value 99
+[Cheats/Direction basic value 99]
 patch=1,EE,200F4028,extended,24010063
 patch=1,EE,200F402C,extended,A081013C
 
-//Cheats/DC basic value 99
+[Cheats/DC basic value 99]
 patch=1,EE,200F4030,extended,24010063
 patch=1,EE,200F4034,extended,A0810144
 
-//Cheats/Operation basic value 99
+[Cheats/Operation basic value 99]
 patch=1,EE,200F4038,extended,24010063
 patch=1,EE,200F403C,extended,A081014C
 
-//Cheats/Service basic value 99
+[Cheats/Service basic value 99]
 patch=1,EE,200F4040,extended,24010063
 patch=1,EE,200F4044,extended,A0810154
 
-//Cheats/Steering basic value 99
+[Cheats/Steering basic value 99]
 patch=1,EE,200F4048,extended,24010063
 patch=1,EE,200F404C,extended,A081015C
 
-//Cheats/Navigation basic value 99
+[Cheats/Navigation basic value 99]
 patch=1,EE,200F4050,extended,24010063
 patch=1,EE,200F4054,extended,A0810164
 
-//Cheats/Water measuring basic value 99
+[Cheats/Water measuring basic value 99]
 patch=1,EE,200F4058,extended,24010063
 patch=1,EE,200F405C,extended,A081016C
 
-//Cheats/Torpedo basic value 99
+[Cheats/Torpedo basic value 99]
 patch=1,EE,200F4060,extended,24010063
 patch=1,EE,200F4064,extended,A0810174
 
-//Cheats/Medical basic value 99
+[Cheats/Medical basic value 99]
 patch=1,EE,200F4068,extended,24010063
 patch=1,EE,200F406C,extended,A081017C
 
-//Cheats/Land game basic value 99
+[Cheats/Land game basic value 99]
 patch=1,EE,200F4070,extended,24010063
 patch=1,EE,200F4074,extended,A0810184
 
-//Cheats/Political basic value 99
+[Cheats/Political basic value 99]
 patch=1,EE,200F4078,extended,24010063
 patch=1,EE,200F407C,extended,A081018C
 
-//Cheats/Adult basic value 99
+[Cheats/Adult basic value 99]
 patch=1,EE,200F4080,extended,24010063
 patch=1,EE,200F4084,extended,A0810194
 
-//Cheats/Debug menu appears Press R2+SELECT inside the ship. You can exit the debug menu with the X button
+[Cheats/Debug menu appears Press R2+SELECT inside the ship. You can exit the debug menu with the X button]
 patch=1,EE,202CF18C,extended,1040001B
 patch=1,EE,D043C802,extended,0000FDFE
 patch=1,EE,202CF18C,extended,1000000A
 
-//Cheats/Boot to Debug Menu Test options, model viewer, map viewer, etc.
+[Cheats/Boot to Debug Menu Test options, model viewer, map viewer, etc.]
 patch=1,EE,202B3428,extended,24020001
 
-//Cheats/Boot to Debug Menu Miscellaneous test. Contains a lot of test options.
+[Cheats/Boot to Debug Menu Miscellaneous test. Contains a lot of test options.]
 patch=1,EE,202B3428,extended,2402000A
 
-//Cheats/Boot to Debug Menu Menu tests and game flag editors.
+[Cheats/Boot to Debug Menu Menu tests and game flag editors.]
 patch=1,EE,202B3428,extended,2402000B

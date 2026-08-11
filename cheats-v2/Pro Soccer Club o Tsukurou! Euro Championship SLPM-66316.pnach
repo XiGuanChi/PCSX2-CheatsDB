@@ -1,102 +1,102 @@
 gametitle=Pro Soccer Club o Tsukurou! Euro Championship SLPM-66316
-//Money after first Game: 9,999,999,999
+[Money after first Game: 9,999,999,999]
 patch=1,EE,207505C0,extended,05F5E0FF
 
-//Money 999999999
+[Money 999999999]
 patch=1,EE,21DE3050,extended,FC23AC00
 patch=1,EE,21DE3054,extended,00000006
 
-//Correspondence of supervision policy all
+[Correspondence of supervision policy all]
 patch=1,EE,21E0A990,extended,0707070C
 patch=1,EE,21E0A994,extended,07070707
 patch=1,EE,01E0A998,extended,00000007
 
-//When practice it does, fatigue 0
+[When practice it does, fatigue 0]
 patch=1,EE,2021CEE4,extended,24020000
 
-//When practice it does, the condition highest
+[When practice it does, the condition highest]
 patch=1,EE,2021A3EC,extended,3402FFFF
 
-//With schedule advance Motivation maximum
+[With schedule advance Motivation maximum]
 patch=1,EE,2021C614,extended,A6230242
 
-//There is no the supporter dissatisfaction
+[There is no the supporter dissatisfaction]
 patch=1,EE,20259654,extended,A6200000
 
-//When practice it does, accumulation fatigue 0
+[When practice it does, accumulation fatigue 0]
 patch=1,EE,2021CEE4,extended,24020000
 
-//When practice it does, fatigue durable value maximum
+[When practice it does, fatigue durable value maximum]
 patch=1,EE,2021CFDC,extended,240203E8
 
-//When practice it does, tournament intuition maximum
+[When practice it does, tournament intuition maximum]
 patch=1,EE,2021CF70,extended,A626024E
 
-//There is no the player dissatisfaction
+[There is no the player dissatisfaction]
 patch=1,EE,2023755C,extended,24030000
 patch=1,EE,2023751C,extended,24030000
 
-//When motivation maximum (schedule it advances?)
+[When motivation maximum (schedule it advances?)]
 patch=1,EE,2021C5CC,extended,3410FFFF
 
-//When practice it does, team fitting maximum (all team)
+[When practice it does, team fitting maximum (all team)]
 patch=1,EE,20270570,extended,24020064
 
-//The wound it does not do with practice
+[The wound it does not do with practice]
 patch=1,EE,2021B2A0,extended,1000006E
 
-//When practice it does, wound recovery
+[When practice it does, wound recovery]
 patch=1,EE,2021B6B8,extended,24020000
 
-//When practice it does, only the team fitting largest (our team)
+[When practice it does, only the team fitting largest (our team)]
 patch=1,EE,20270C8C,extended,24020064
 
-//When practice it does, to the ability temporary limit growth (use)
+[When practice it does, to the ability temporary limit growth (use)]
 patch=1,EE,202464D4,extended,A5050000
 
-//When practice it does, ability maximum (use)
+[When practice it does, ability maximum (use)]
 patch=1,EE,202464B0,extended,A489000C
 patch=1,EE,202464D4,extended,A5090000
 
-//Player one public attention ogre Shigeru
+[Player one public attention ogre Shigeru]
 patch=1,EE,202563B8,extended,03E00008
 patch=1,EE,202563BC,extended,AC8200D4
 
-//The player it does not retire?
+[The player it does not retire?]
 patch=1,EE,20267748,extended,24020001
 
-//The supervision year is not taken
+[The supervision year is not taken]
 patch=1,EE,2026CA6C,extended,00000000
 
-//There are no supervision contract year several spatulas
+[There are no supervision contract year several spatulas]
 patch=1,EE,2026CA70,extended,00000000
 
-//The coach year is not taken
+[The coach year is not taken]
 patch=1,EE,2026CAE8,extended,00000000
 
-//The number of coach contract years it does not decrease
+[The number of coach contract years it does not decrease]
 patch=1,EE,2026CAEC,extended,00000000
 
-//The use supervision year is not taken
+[The use supervision year is not taken]
 patch=1,EE,2026CB34,extended,00000000
 
-//The number of use supervision contract years it does not decrease
+[The number of use supervision contract years it does not decrease]
 patch=1,EE,2026CB38,extended,00000000
 
-//The scout year is not taken
+[The scout year is not taken]
 patch=1,EE,2026CBB0,extended,00000000
 
-//The number of scout contract years it does not decrease
+[The number of scout contract years it does not decrease]
 patch=1,EE,2026CBB4,extended,00000000
 
-//When practice it does, the for cooperation largest (human pillar)
+[When practice it does, the for cooperation largest (human pillar)]
 patch=1,EE,2020FF88,extended,3413FFFF
 
-//When schedule it advances, degree of friendship to all the other teams maximum
+[When schedule it advances, degree of friendship to all the other teams maximum]
 patch=1,EE,2025547C,extended,08095535
 patch=1,EE,20255310,extended,70000C88
 patch=1,EE,20255320,extended,24100064
 patch=1,EE,20255324,extended,A050009A
 
-//Club ranking largest (correction edition)
+[Club ranking largest (correction edition)]
 patch=1,EE,01E0A2FC,extended,0000001F

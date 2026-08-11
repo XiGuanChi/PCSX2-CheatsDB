@@ -1,17 +1,17 @@
 gametitle=Sonic Heroes SLUS-20718
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,204DE0A0,extended,00000063
 
-//999 Rings
+[999 Rings]
 patch=1,EE,204DE080,extended,000003E7
 
-//All Characters Max Level
+[All Characters Max Level]
 patch=1,EE,202175F8,extended,20020003
 
-//Always Low Time
+[Always Low Time]
 patch=1,EE,20477D7C,extended,00000000
 patch=1,EE,20477D80,extended,00000000
 patch=1,EE,20477D84,extended,00000000
 
-//Unlock Challenges
+[Unlock Challenges]
 patch=1,EE,0051A1E2,extended,00000078

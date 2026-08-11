@@ -1,4 +1,4 @@
-//Cheats/Enable Debug Mode Holding L1+R1 when the game is first starting up will send you to a debug screen. It's not clear what this does.Holding Triangle + X when the game is first starting up will allow you to turn on progressive mode
+[Cheats/Enable Debug Mode Holding L1+R1 when the game is first starting up will send you to a debug screen. It's not clear what this does.Holding Triangle + X when the game is first starting up will allow you to turn on progressive mode]
 patch=1,EE,20519B08,extended,00000001
 patch=1,EE,20519B0C,extended,00000001
 

@@ -1,12 +1,12 @@
 gametitle=Manhunt 2 Uncut SLES-54819
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202E2528,extended,3C0142FA
 patch=1,EE,202E252C,extended,AE2110D0
 
-//Max Infinite Ammo
+[Max Infinite Ammo]
 patch=1,EE,2035DA98,extended,240203E7
 
-//Skip Level (R1+R2+L1+L2)
+[Skip Level (R1+R2+L1+L2)]
 patch=1,EE,D056FDE2,extended,0000F0FF
 patch=1,EE,003F7498,extended,00000001
 patch=1,EE,D056FDE2,extended,0000BFFF

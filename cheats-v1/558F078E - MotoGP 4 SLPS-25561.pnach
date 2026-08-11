@@ -1,42 +1,42 @@
-//Cheats/Max Possession GP 999999999 P
+[Cheats/Max Possession GP 999999999 P]
 patch=1,EE,205C734C,extended,3B9AC9FF
 
-//Cheats/Max Cumulative GP Points
+[Cheats/Max Cumulative GP Points]
 patch=1,EE,205C7350,extended,05F5E0FF
 
-//Cheats/Arcade Mode Max Tuned When Selecting A Bike The tuned value will be maximized when selecting a bike. Valid only for player bike types (invalid for bikes with rider
+[Cheats/Arcade Mode Max Tuned When Selecting A Bike The tuned value will be maximized when selecting a bike. Valid only for player bike types (invalid for bikes with rider]
 patch=1,EE,200F8100,extended,3C01461C
 patch=1,EE,200F8104,extended,AE010000
 patch=1,EE,200F8108,extended,03E00008
 patch=1,EE,200F810C,extended,C60C0000
 patch=1,EE,2010A138,extended,0C03E040
 
-//Cheats/Unlock All Gold Trophies When Entering The Challenge
+[Cheats/Unlock All Gold Trophies When Entering The Challenge]
 patch=1,EE,201A8380,extended,24040002
 patch=1,EE,201A8384,extended,24010007
 patch=1,EE,201A8388,extended,A1E40665
 patch=1,EE,201A838C,extended,A1E106E5
 patch=1,EE,201A8390,extended,10000005
 
-//Cheats/Unlock When I Started Training One Cleared All Gold
+[Cheats/Unlock When I Started Training One Cleared All Gold]
 patch=1,EE,201A69D0,extended,240D0015
 patch=1,EE,201A69D8,extended,240F0002
 patch=1,EE,201A69E0,extended,A1CF0000
 patch=1,EE,201A69E8,extended,240F0001
 
-//Cheats/CPU Bike Stopped Press L3 Restart Press R3
+[Cheats/CPU Bike Stopped Press L3 Restart Press R3]
 patch=1,EE,D0513FC2,extended,0000FFFD
 patch=1,EE,202039C0,extended,10000261
 patch=1,EE,D0513FC2,extended,0000FFFB
 patch=1,EE,202039C0,extended,19C00261
 
-//Cheats/Lap Time Stop
+[Cheats/Lap Time Stop]
 patch=1,EE,200F8000,extended,24040000
 patch=1,EE,200F8004,extended,03E00008
 patch=1,EE,200F8008,extended,ACA40000
 patch=1,EE,201C2868,extended,0C03E000
 
-//Cheats/Training, Basics & Applications Are All Gold Ranked
+[Cheats/Training, Basics & Applications Are All Gold Ranked]
 patch=1,EE,005A69D5,extended,00000002
 patch=1,EE,105A69D6,extended,00000202
 patch=1,EE,205A69D8,extended,02020202
@@ -46,7 +46,7 @@ patch=1,EE,205A69E4,extended,02020202
 patch=1,EE,105A69E8,extended,00000202
 patch=1,EE,005A69EA,extended,00000002
 
-//Cheats/Paddock Shop Benefits Purchased
+[Cheats/Paddock Shop Benefits Purchased]
 patch=1,EE,105C742C,extended,00000002
 patch=1,EE,405C7358,extended,00350001
 patch=1,EE,00020002,extended,00000000

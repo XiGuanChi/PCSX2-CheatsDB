@@ -1,13 +1,13 @@
 gametitle=Cabela's African Safari SLUS-21379
-//God Mode Always On
+[God Mode Always On]
 patch=1,EE,206D2708,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20517918,extended,00000000
 
-//Draw Nests
+[Draw Nests]
 patch=1,EE,006fffe0,extended,00000001
 
-//Animals Never Attack Player
+[Animals Never Attack Player]
 patch=1,EE,205ac7d0,extended,03E00008
 patch=1,EE,205ac7d4,extended,00000000

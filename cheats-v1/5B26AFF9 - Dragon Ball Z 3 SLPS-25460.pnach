@@ -1,26 +1,26 @@
-//Cheats/Money in hand 990000
+[Cheats/Money in hand 990000]
 patch=1,EE,20499708,extended,000F1B30
 
-//Cheats/When it enters into skill compilation, all the skill capsule 9 procurement
+[Cheats/When it enters into skill compilation, all the skill capsule 9 procurement]
 patch=1,EE,20273DEC,extended,24020009
 patch=1,EE,20273DF0,extended,A0620000
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,2046E758,extended,FFFFFFFF
 patch=1,EE,2046E75C,extended,FFFFFFFF
 patch=1,EE,2046E760,extended,FFFFFFFF
 patch=1,EE,2046E764,extended,FFFFFFFF
 
-//Cheats/The dragon universe With experience value procurement max
+[Cheats/The dragon universe With experience value procurement max]
 patch=1,EE,202CA128,extended,00000000
 
-//Cheats/There is no Z point consumption when level up
+[Cheats/There is no Z point consumption when level up]
 patch=1,EE,202C98BC,extended,00000000
 patch=1,EE,202C96D8,extended,24020000
 
-//Cheats/Unlock All Characters Tenkaichi Taketokai
+[Cheats/Unlock All Characters Tenkaichi Taketokai]
 patch=1,EE,2046E808,extended,FFFFFFFF
 patch=1,EE,2046E80C,extended,FFFFFFFF
 
-//Cheats/Unlock All Voice Data Original Reproduction
+[Cheats/Unlock All Voice Data Original Reproduction]
 patch=1,EE,2049970C,extended,FFFFFFFF

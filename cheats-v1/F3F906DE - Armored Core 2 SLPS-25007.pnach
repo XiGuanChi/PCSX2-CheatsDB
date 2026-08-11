@@ -1,33 +1,33 @@
-//Cheats/Max Credit 99999999
+[Cheats/Max Credit 99999999]
 patch=1,EE,203B5900,extended,0098967F
 
-//Cheats/Infinite AP 1P
+[Cheats/Infinite AP 1P]
 patch=1,EE,102B8574,extended,00007D00
 
-//Cheats/Infinite Energy Gauge 1P
+[Cheats/Infinite Energy Gauge 1P]
 patch=1,EE,102B8578,extended,00007FFF
 
-//Cheats/Max Enhanced Humanization
+[Cheats/Max Enhanced Humanization]
 patch=1,EE,003B5906,extended,00000007
 
-//Cheats/Heat Amount 0 It also has an effect on opponent AC in the arena
+[Cheats/Heat Amount 0 It also has an effect on opponent AC in the arena]
 patch=1,EE,A01395D8,extended,E60300A0
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,202B8E38,extended,000000B4
 
-//Cheats/Infinite Missiles
+[Cheats/Infinite Missiles]
 patch=1,EE,202B8EB8,extended,00000018
 
-//Cheats/AP Enemy On Arena 0
+[Cheats/AP Enemy On Arena 0]
 patch=1,EE,202BBE54,extended,00000000
 
-//Cheats/Infinite Ammo It also has an effect on opponent AC in the arena
+[Cheats/Infinite Ammo It also has an effect on opponent AC in the arena]
 patch=1,EE,201476B8,extended,00000000
 
-//Cheats/FCS ERROR Immediate Release
+[Cheats/FCS ERROR Immediate Release]
 patch=1,EE,D03E3790,extended,00000000
 patch=1,EE,102B91FC,extended,00000000
 
-//Cheats/Becomes Clear You will be able to sortie even if you are overweight, and all missions within the area will be selectable
+[Cheats/Becomes Clear You will be able to sortie even if you are overweight, and all missions within the area will be selectable]
 patch=1,EE,003B5904,extended,00000001

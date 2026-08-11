@@ -1,14 +1,14 @@
-//Cheats/Infinite & Max HP Main Character
+[Cheats/Infinite & Max HP Main Character]
 patch=1,EE,202A21C8,extended,000003E7
 patch=1,EE,202A21CC,extended,000003E7
 
-//Cheats/Level up with EP acquisition
+[Cheats/Level up with EP acquisition]
 patch=1,EE,201B84E4,extended,A6200000
 
-//Cheats/Max Favorability Rating All Characters
+[Cheats/Max Favorability Rating All Characters]
 patch=1,EE,20191ECC,extended,00000000
 
-//Cheats/Max Parameters For All Allies except level
+[Cheats/Max Parameters For All Allies except level]
 patch=1,EE,200F4000,extended,340903E7
 patch=1,EE,200F4004,extended,70094EE9
 patch=1,EE,200F4008,extended,FE090000
@@ -21,10 +21,10 @@ patch=1,EE,201B0C64,extended,0C03D000
 
 [Cheats/Unlock ] *This is effective when you display the status under "Information
 
-//Cheats/Unlock All CG Gallery
+[Cheats/Unlock All CG Gallery]
 patch=1,EE,20291A20,extended,FFFFFFFF
 patch=1,EE,20291A24,extended,FFFFFFFF
 patch=1,EE,20291A28,extended,03FFFFFF
 
-//Cheats/Unlock All Movie Gallery
+[Cheats/Unlock All Movie Gallery]
 patch=1,EE,10291A50,extended,000003FF

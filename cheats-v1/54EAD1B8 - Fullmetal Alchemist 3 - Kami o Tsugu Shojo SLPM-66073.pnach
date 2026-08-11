@@ -1,50 +1,50 @@
-//Cheats/Max SP
+[Cheats/Max SP]
 patch=1,EE,20174480,extended,24020001
 
-//Cheats/Max Points 9999
+[Cheats/Max Points 9999]
 patch=1,EE,1036E712,extended,0000270F
 
-//Cheats/Edward Infinite and Max HP
+[Cheats/Edward Infinite and Max HP]
 patch=1,EE,1036E708,extended,0000270F
 patch=1,EE,1036E70A,extended,0000270F
 
-//Cheats/Alphonse Infinite and Max HP
+[Cheats/Alphonse Infinite and Max HP]
 patch=1,EE,1036E72C,extended,0000270F
 patch=1,EE,1036E72E,extended,0000270F
 
-//Cheats/Edward Max Attack Power
+[Cheats/Edward Max Attack Power]
 patch=1,EE,1036E70C,extended,000003E7
 
-//Cheats/Edward Max Training Power
+[Cheats/Edward Max Training Power]
 patch=1,EE,1036E70E,extended,000003E7
 
-//Cheats/Edward Max Defensive Power
+[Cheats/Edward Max Defensive Power]
 patch=1,EE,1036E710,extended,000003E7
 
-//Cheats/Alphonse Max Attack Power
+[Cheats/Alphonse Max Attack Power]
 patch=1,EE,1036E730,extended,000003E7
 
-//Cheats/Alphonse Max Training Power
+[Cheats/Alphonse Max Training Power]
 patch=1,EE,1036E732,extended,000003E7
 
-//Cheats/Alphonse Max Defensive Power
+[Cheats/Alphonse Max Defensive Power]
 patch=1,EE,1036E734,extended,000003E7
 
-//Cheats/Counter Possible Regardless Of The Timing Of The Guard
+[Cheats/Counter Possible Regardless Of The Timing Of The Guard]
 patch=1,EE,201A9C0C,extended,0806A707
 
-//Cheats/Infinite Weapon Using it remains and frequency
+[Cheats/Infinite Weapon Using it remains and frequency]
 patch=1,EE,201A9338,extended,2C020001
 patch=1,EE,201B848C,extended,00000025
 
-//Cheats/1 Hit For Level Up And Exp Max
+[Cheats/1 Hit For Level Up And Exp Max]
 patch=1,EE,1036E704,extended,FFFFFFFF
 
-//Cheats/All Items 9999
+[Cheats/All Items 9999]
 patch=1,EE,201770F4,extended,24110063
 patch=1,EE,201775E4,extended,24100063
 
-//Cheats/All Accessories 99
+[Cheats/All Accessories 99]
 patch=1,EE,1036E7FE,extended,24110063
 patch=1,EE,1036E7FC,extended,24110063
 patch=1,EE,1036E7FA,extended,24110063
@@ -53,21 +53,21 @@ patch=1,EE,1036E7E8,extended,24110063
 patch=1,EE,1036E7DC,extended,24110063
 patch=1,EE,1036E7DE,extended,24110063
 
-//Cheats/Unlock All CG
+[Cheats/Unlock All CG]
 patch=1,EE,202B3998,extended,0C08BD38
 patch=1,EE,202B39A0,extended,00000025
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,2036E6AC,extended,FFFFFFFF
 patch=1,EE,2036E6B0,extended,FFFFFFFF
 patch=1,EE,2036E6B4,extended,FFFFFFFF
 patch=1,EE,2036E6B8,extended,FFFFFFFF
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,202B3C78,extended,0C08BD38
 patch=1,EE,202B3C80,extended,00000025
 
-//Cheats/Unlock All Tag Battle characters stages
+[Cheats/Unlock All Tag Battle characters stages]
 patch=1,EE,202AB958,extended,00000025
 patch=1,EE,202ABEC0,extended,00000025
 patch=1,EE,202AF758,extended,00000025

@@ -1,19 +1,19 @@
 gametitle=Bouken - ou Beat - Dark Next Century SLPS-25470
-//Gold MAX
+[Gold MAX]
 patch=1,EE,20CAC890,extended,05F5E0FF
 
-//Beet elevation value: 999999
+[Beet elevation value: 999999]
 patch=1,EE,20CAD1C0,extended,000F423F
 
-//Maximum stigma
+[Maximum stigma]
 patch=1,EE,10CAD164,extended,00000064
 
-//All galleries
+[All galleries]
 patch=1,EE,402BC140,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,002BC168,extended,00000007
 
-//All Cards
+[All Cards]
 patch=1,EE,402BC0B4,extended,00090001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,202BC0E8,extended,FFFFFFFF

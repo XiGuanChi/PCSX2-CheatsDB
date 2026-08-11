@@ -1,37 +1,37 @@
 gametitle=The Incredible Hulk - Ultimate Destruction SLUS-20941
-//Infinite Power (Normal Maximum)
+[Infinite Power (Normal Maximum)]
 patch=1,EE,200C0220,extended,C4411B14
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,E4411B0C
 patch=1,EE,201F2D5C,extended,0C030088
 
-//Invulnerability
+[Invulnerability]
 patch=1,EE,01E47970,extended,00000000
 
-//Complete Comic Book Gallery
+[Complete Comic Book Gallery]
 patch=1,EE,41D75C90,extended,003C0038
 patch=1,EE,00691800,extended,00000000
 
-//Complete Character Gallery
+[Complete Character Gallery]
 patch=1,EE,41D79110,extended,00260038
 patch=1,EE,00691800,extended,00000000
 
-//Complete Enemy Gallery
+[Complete Enemy Gallery]
 patch=1,EE,41D7BCD0,extended,00110038
 patch=1,EE,00691800,extended,00000000
 
-//Complete Environment Gallery
+[Complete Environment Gallery]
 patch=1,EE,41D7D2B0,extended,00240038
 patch=1,EE,00691800,extended,00000000
 
-//Complete Character Render Gallery
+[Complete Character Render Gallery]
 patch=1,EE,41D7F230,extended,000F0038
 patch=1,EE,00691800,extended,00000000
 
-//All In-Game Movies
+[All In-Game Movies]
 patch=1,EE,41E40950,extended,000F0036
 patch=1,EE,00691800,extended,00000000
 
-//All The Making Of Movies
+[All The Making Of Movies]
 patch=1,EE,41E41750,extended,00080036
 patch=1,EE,00691800,extended,00000000

@@ -1,136 +1,136 @@
 gametitle=The King of Route 66 SLUS-20522
-//Infinite Nitros Player 1
+[Infinite Nitros Player 1]
 patch=1,EE,007899C2,extended,00000012
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,10789A22,extended,000003E7
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,006D498C,extended,000000FF
 
-//== Rival Challenge Mode Codes ==
+[== Rival Challenge Mode Codes ==]
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,204E2BEC,extended,00000000
 
-//Instant Win
+[Instant Win]
 patch=1,EE,201CF89C,extended,AC820824
 
-//Press l1 + select To Beat Rival
+[Press l1 + select To Beat Rival]
 patch=1,EE,D04ED34C,extended,0000FBFE
 patch=1,EE,201CF89C,extended,AC820824
 patch=1,EE,D04ED34C,extended,0010FBFE
 patch=1,EE,201CF89C,extended,00000000
 
-//== Rival Challenge & King Of Route 66 Mode Codes ==
-//Max Total Emblems
+[== Rival Challenge & King Of Route 66 Mode Codes ==]
+[Max Total Emblems]
 patch=1,EE,206D3FE8,extended,0098967F
 
-//Max Current Stage Emblems
+[Max Current Stage Emblems]
 patch=1,EE,207899E0,extended,000003E7
 
 
-//== The King Of Route 66 Mode Codes ==
+[== The King Of Route 66 Mode Codes ==]
 
-//Max Money
+[Max Money]
 patch=1,EE,207899E8,extended,0098967F
 
-//100% Complete
+[100% Complete]
 patch=1,EE,206D4AF8,extended,FFFFFFFF
 patch=1,EE,206D4AFC,extended,FFFFFFFF
 patch=1,EE,206D4B00,extended,FFFFFFFF
 
-//== The Queen Of Route 66 Mode Codes ==
+[== The Queen Of Route 66 Mode Codes ==]
 
-//Start With 10 Gems
+[Start With 10 Gems]
 patch=1,EE,D0813558,extended,00000000
 patch=1,EE,20813558,extended,0000000A
 
 
-//Infinite Money
+[Infinite Money]
 patch=1,EE,106D4284,extended,0000FFFF
 
 
-//All States Completed
+[All States Completed]
 patch=1,EE,006D425E,extended,0000001B
 
 
-//== Route 66 Challenge Mode Codes ==
+[== Route 66 Challenge Mode Codes ==]
 
-//Max Emblems
+[Max Emblems]
 patch=1,EE,007899DF,extended,00000064
 
 
-//== Have Medal Codes ==
+[== Have Medal Codes ==]
 
-//Emblem CatchBronze
+[Emblem CatchBronze]
 patch=1,EE,006D43DE,extended,00000001
 
-//Emblem CatchSilver
+[Emblem CatchSilver]
 patch=1,EE,006D43DD,extended,00000001
 
-//Emblem CatchGold
+[Emblem CatchGold]
 patch=1,EE,006D43DC,extended,00000001
 
-//Emblem Catch 2Bronze
+[Emblem Catch 2Bronze]
 patch=1,EE,006D43E1,extended,00000001
 
-//Emblem Catch 2Silver
+[Emblem Catch 2Silver]
 patch=1,EE,006D43E0,extended,00000001
 
-//Emblem Catch 2Gold
+[Emblem Catch 2Gold]
 patch=1,EE,006D43DF,extended,00000001
 
-//Convoy GolfBronze
+[Convoy GolfBronze]
 patch=1,EE,006D43E4,extended,00000001
 
-//Convoy GolfSilver
+[Convoy GolfSilver]
 patch=1,EE,006D43E3,extended,00000001
 
-//Convoy GolfGold
+[Convoy GolfGold]
 patch=1,EE,006D43E2,extended,00000001
 
-//Moving TargetsBronze
+[Moving TargetsBronze]
 patch=1,EE,006D43E7,extended,00000001
 
-//Moving TargetsSilver
+[Moving TargetsSilver]
 patch=1,EE,006D43E6,extended,00000001
 
-//Moving TargetsGold
+[Moving TargetsGold]
 patch=1,EE,006D43E5,extended,00000001
 
-//Destroy The CarsBronze
+[Destroy The CarsBronze]
 patch=1,EE,006D43EA,extended,00000001
 
-//Destroy The CarsSilver
+[Destroy The CarsSilver]
 patch=1,EE,006D43E9,extended,00000001
 
-//Destroy The CarsGold
+[Destroy The CarsGold]
 patch=1,EE,006D43E8,extended,00000001
 
-//Long Haul SlamBronze
+[Long Haul SlamBronze]
 patch=1,EE,006D43ED,extended,00000001
 
-//Long Haul SlamSilver
+[Long Haul SlamSilver]
 patch=1,EE,006D43EC,extended,00000001
 
-//Long Haul SlamGold
+[Long Haul SlamGold]
 patch=1,EE,006D43EB,extended,00000001
 
-//Protect AnnieBronze
+[Protect AnnieBronze]
 patch=1,EE,006D43F0,extended,00000001
 
-//Protect AnnieSilver
+[Protect AnnieSilver]
 patch=1,EE,006D43EF,extended,00000001
 
-//Protect AnnieGold
+[Protect AnnieGold]
 patch=1,EE,006D43EE,extended,00000001
 
-//Sooner The BetterBronze
+[Sooner The BetterBronze]
 patch=1,EE,006D43F3,extended,00000001
 
-//Sooner The BetterSilver
+[Sooner The BetterSilver]
 patch=1,EE,006D43F2,extended,00000001
 
-//Sooner The BetterGold
+[Sooner The BetterGold]
 patch=1,EE,006D43F1,extended,00000001

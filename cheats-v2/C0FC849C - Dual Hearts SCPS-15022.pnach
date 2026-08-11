@@ -1,10 +1,10 @@
 gametitle=Dual Hearts SCPS-15022
-//Main character HP MAX
+[Main character HP MAX]
 patch=1,EE,106FF308,extended,00005050
 
-//All weapons & tools possession
+[All weapons & tools possession]
 patch=1,EE,106FF308,extended,0000FFFF
 patch=1,EE,206FF31C,extended,01010101
 
-//Weapon LV MAX
+[Weapon LV MAX]
 patch=1,EE,206FF330,extended,03030303

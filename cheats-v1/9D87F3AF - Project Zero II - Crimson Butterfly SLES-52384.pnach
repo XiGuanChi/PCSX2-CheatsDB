@@ -1,39 +1,39 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,202E8D18,extended,00006000
 patch=1,EE,202E8D1C,extended,00006000
 
-//Cheats/Infinite Film and Item Use
+[Cheats/Infinite Film and Item Use]
 patch=1,EE,201A24F8,extended,00000000
 
-//Cheats/1 Photo Taken
+[Cheats/1 Photo Taken]
 patch=1,EE,204148D4,extended,00000001
 
-//Cheats/Max Photo Taken
+[Cheats/Max Photo Taken]
 patch=1,EE,204148D4,extended,001F423F
 
-//Cheats/No Defeat
+[Cheats/No Defeat]
 patch=1,EE,204148D8,extended,00000000
 
-//Cheats/Enable All Camera Lens
+[Cheats/Enable All Camera Lens]
 patch=1,EE,102C544C,extended,000003FF
 
-//Cheats/Unlock All Notes, Photos, Scraps and Notebook
+[Cheats/Unlock All Notes, Photos, Scraps and Notebook]
 patch=1,EE,20172B40,extended,24010002
 patch=1,EE,200FFF00,extended,A0410000
 patch=1,EE,200FFF04,extended,03E00008
 patch=1,EE,200FFF08,extended,24020002
 patch=1,EE,20172B48,extended,0803FFC0
 
-//Cheats/Have All Costumes
+[Cheats/Have All Costumes]
 patch=1,EE,20286058,extended,000001FF
 
-//Cheats/Unlock Accessory For Mio & Mayu
+[Cheats/Unlock Accessory For Mio & Mayu]
 patch=1,EE,00286050,extended,00000006
 
-//Cheats/Unlock All Difficulty Levels
+[Cheats/Unlock All Difficulty Levels]
 patch=1,EE,2028605C,extended,0000000F
 
-//Cheats/All Missions Completed SE & S = 100%
+[Cheats/All Missions Completed SE & S = 100%]
 patch=1,EE,4040F4B0,extended,00190004
 patch=1,EE,00000002,extended,00000000
 patch=1,EE,4040F4B4,extended,00190004

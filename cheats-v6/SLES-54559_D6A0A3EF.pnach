@@ -1,11 +1,11 @@
 gametitle=Free Running PAL-E SLES-54559 D6A0A3EF
 
-//50 FPS
+[50 FPS]
 author=GamingDragon93
 description=Might need EE Overclock.
 patch=1,EE,001AB670,word,10400003 //14800003
 
-//Disable Blur/Bloom
+[Disable Blur/Bloom]
 author=GamingDragon93
 description=Disable post-processing blur/bloom effect.
 patch=1,EE,007A39E4,word,00000000

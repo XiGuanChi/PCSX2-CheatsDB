@@ -1,11 +1,11 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20800870,extended,3B9AC9FF
 
-//Cheats/No Car Damage
+[Cheats/No Car Damage]
 patch=1,EE,202D4A28,extended,03E00008
 patch=1,EE,202D4A28,extended,00000000
 
-//Cheats/Infinite Nitro Press Circle+X at same time to activate
+[Cheats/Infinite Nitro Press Circle+X at same time to activate]
 patch=1,EE,E102009F,extended,006B6A43
 patch=1,EE,20261B40,extended,3C017F00
 patch=1,EE,20261B44,extended,44810800
@@ -13,31 +13,31 @@ patch=1,EE,E102009F,extended,106B6A43
 patch=1,EE,20261B40,extended,C4400024
 patch=1,EE,20261B44,extended,46000842
 
-//Cheats/Infinite Nitro
+[Cheats/Infinite Nitro]
 patch=1,EE,0028B0D4,extended,24110005
 patch=1,EE,0028B0D8,extended,A4510012
 patch=1,EE,0028B0E0,extended,24060005
 patch=1,EE,0028B0CC,extended,24070064
 patch=1,EE,0028B0D0,extended,A447000E
 
-//Cheats/Max Tournament Points
+[Cheats/Max Tournament Points]
 patch=1,EE,207F4C3C,extended,00000064
 
-//Cheats/P1 Press L1+Select To Activate Idiot AI
+[Cheats/P1 Press L1+Select To Activate Idiot AI]
 patch=1,EE,D06BB442,extended,0000FBFE
 patch=1,EE,104022DA,extended,00001000
 
-//Cheats/P1 Press L2+Select To Deactivate Idiot AI
+[Cheats/P1 Press L2+Select To Deactivate Idiot AI]
 patch=1,EE,D06BB442,extended,0000FEFE
 patch=1,EE,104022DA,extended,00001840
 
-//Cheats/Unlock More Cars And Customization
+[Cheats/Unlock More Cars And Customization]
 patch=1,EE,40800864,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Arcade Mode
+[Cheats/Unlock All Arcade Mode]
 patch=1,EE,00619B1D,extended,00000001
 
-//Cheats/Have All Cities
+[Cheats/Have All Cities]
 patch=1,EE,40800850,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000

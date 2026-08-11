@@ -1,8 +1,8 @@
 gametitle=Gallop Racer  2006 SLUS-21393
-//Max Points
+[Max Points]
 patch=1,EE,2092282C,extended,05F5E0FF
 
-//Infinite Whip Usage
+[Infinite Whip Usage]
 patch=1,EE,2048BD1C,extended,AE40000C
 patch=1,EE,2048BD40,extended,AE400010
 patch=1,EE,2048BD68,extended,AE400014

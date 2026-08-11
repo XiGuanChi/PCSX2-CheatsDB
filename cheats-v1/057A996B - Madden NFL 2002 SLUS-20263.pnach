@@ -1,7 +1,7 @@
-//Cheats/Always 4th Down
+[Cheats/Always 4th Down]
 patch=1,EE,104F6440,extended,00000004
 
-//Cheats/Change Possession After Play Hold L2
+[Cheats/Change Possession After Play Hold L2]
 patch=1,EE,201380BC,extended,46010034
 patch=1,EE,20138164,extended,1000008C
 patch=1,EE,20138298,extended,5642000B
@@ -10,7 +10,7 @@ patch=1,EE,201380BC,extended,46000034
 patch=1,EE,20138164,extended,10000000
 patch=1,EE,20138298,extended,00000000
 
-//Cheats/Score Touchdown 2 Pt Conversion After Any Play Hold L1
+[Cheats/Score Touchdown 2 Pt Conversion After Any Play Hold L1]
 patch=1,EE,201380C4,extended,45000009
 patch=1,EE,20138408,extended,45000003
 patch=1,EE,20138460,extended,45020009
@@ -19,7 +19,7 @@ patch=1,EE,201380C4,extended,00000000
 patch=1,EE,20138408,extended,00000000
 patch=1,EE,20138460,extended,00000000
 
-//Cheats/Tackle Press L2 Auto Fumble R2 Disable
+[Cheats/Tackle Press L2 Auto Fumble R2 Disable]
 patch=1,EE,20168AB4,extended,0040802D
 patch=1,EE,20168CA4,extended,0040802D
 patch=1,EE,20168C68,extended,12200071

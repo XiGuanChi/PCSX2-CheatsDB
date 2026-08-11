@@ -1,17 +1,17 @@
-//Cheats/Infinite Ammo Cannot Be Reloaded
+[Cheats/Infinite Ammo Cannot Be Reloaded]
 patch=1,EE,20ADA807,extended,D0800000
 patch=1,EE,20106E70,extended,00000000
 patch=1,EE,20106E88,extended,00000000
 
-//Cheats/Infinite Time Limit For Emergency Missions This also applies to the time limit for the main story's friend rescue event
+[Cheats/Infinite Time Limit For Emergency Missions This also applies to the time limit for the main story's friend rescue event]
 patch=1,EE,20247A24,extended,00000000
 
-//Cheats/Infinite Time Limit ALT For Emergency Missions This also applies to the time limit for the main story's friend rescue event
+[Cheats/Infinite Time Limit ALT For Emergency Missions This also applies to the time limit for the main story's friend rescue event]
 patch=1,EE,20247A24,extended,46000840
 
-//Cheats/Infinite Reserve Ammo
+[Cheats/Infinite Reserve Ammo]
 patch=1,EE,20106BDC,extended,00000000
 
-//Cheats/Even If You Kill A Gang Leader It's Still An Arrest
+[Cheats/Even If You Kill A Gang Leader It's Still An Arrest]
 patch=1,EE,20278238,extended,0C06B6DC
 patch=1,EE,2027823C,extended,A0710018

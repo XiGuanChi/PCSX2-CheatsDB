@@ -1,19 +1,19 @@
 gametitle=Mobile Suit Gundam - Meguriai Sora SLPS-25062
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201DF70C,extended,8CA31E34
 patch=1,EE,201DF71C,extended,ACA31E38
 
-//Infinite Shield
+[Infinite Shield]
 patch=1,EE,201DF73C,extended,8E431E40
 patch=1,EE,201DF748,extended,AE431E44
 
-//Infinite SP
+[Infinite SP]
 patch=1,EE,2014EBF0,extended,AE000000
 
-//Infinite Weapons
+[Infinite Weapons]
 patch=1,EE,201466AC,extended,24420000
 
-//Unlock bmg
+[Unlock bmg]
 patch=1,EE,20257E28,extended,139C000F
 patch=1,EE,20257E3C,extended,17BD0001
 patch=1,EE,20257E50,extended,17BD0001

@@ -1,6 +1,6 @@
 gametitle=Buccaneer SLES-54476 
-//Max Point
+[Max Point]
 patch=1,EE,205862C8,extended,05F5E0FF
 
-//Max/Inf. HP
+[Max/Inf. HP]
 patch=1,EE,2058DB70,extended,00C800C8

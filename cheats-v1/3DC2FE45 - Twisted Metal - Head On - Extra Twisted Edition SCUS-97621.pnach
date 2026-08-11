@@ -1,39 +1,39 @@
-//Cheats/Press Select Once To Enable Infinite HP P1
+[Cheats/Press Select Once To Enable Infinite HP P1]
 patch=1,EE,200A0030,extended,3C03447A
 patch=1,EE,200A0034,extended,44830000
 
-//Cheats/Press Select Once To Enable Hold R2 For 1 Hit Kill
+[Cheats/Press Select Once To Enable Hold R2 For 1 Hit Kill]
 patch=1,EE,200A0020,extended,449B0000
 
-//Cheats/Infinite Lives 5
+[Cheats/Infinite Lives 5]
 patch=1,EE,10BE94C0,extended,00000005
 
-//Cheats/Infinite Special Energy
+[Cheats/Infinite Special Energy]
 patch=1,EE,2011BDCC,extended,00000000
 
-//Cheats/Infinite NOS
+[Cheats/Infinite NOS]
 patch=1,EE,2011BE84,extended,00000000
 
-//Cheats/Infinite Weapons ASM
+[Cheats/Infinite Weapons ASM]
 patch=1,EE,D01487A4,extended,2442FFFF
 patch=1,EE,201487A4,extended,00000000
 patch=1,EE,D01487AC,extended,ACA20038
 patch=1,EE,201487AC,extended,00000000
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,2078FF60,extended,FFFDFFFF
 patch=1,EE,2078FF64,extended,00000003
 
-//Cheats/Unlock All Battlegrounds
+[Cheats/Unlock All Battlegrounds]
 patch=1,EE,2078FF70,extended,00FFFFFF
 
-//Cheats/Unlock All Ending Movies
+[Cheats/Unlock All Ending Movies]
 patch=1,EE,2078FF74,extended,0001FFFF
 
-//Cheats/Unlock Tower Tooth Challenge
+[Cheats/Unlock Tower Tooth Challenge]
 patch=1,EE,2078FF78,extended,0001FFFF
 
-//Cheats/Play Roman Ruins In Lost
+[Cheats/Play Roman Ruins In Lost]
 patch=1,EE,2078FF70,extended,00200000
 
 

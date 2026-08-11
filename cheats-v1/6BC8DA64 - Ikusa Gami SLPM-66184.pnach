@@ -1,26 +1,26 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,002cf104,extended,00000005
 
-//Cheats/Infinite Energy
+[Cheats/Infinite Energy]
 patch=1,EE,202cf10c,extended,42480000
 
-//Cheats/Max Energy
+[Cheats/Max Energy]
 patch=1,EE,202cf110,extended,42480000
 
-//Cheats/Infinite Super Energy
+[Cheats/Infinite Super Energy]
 patch=1,EE,202cf0dc,extended,42480000
 
-//Cheats/Max Super Energy
+[Cheats/Max Super Energy]
 patch=1,EE,202cf0dc,extended,44000000
 
-//Cheats/Max Soul Flame
+[Cheats/Max Soul Flame]
 patch=1,EE,2015DB04,extended,8C670278
 patch=1,EE,2015DB0C,extended,AC670274
 
-//Cheats/Max Spiritual Power while spiritual power is released
+[Cheats/Max Spiritual Power while spiritual power is released]
 patch=1,EE,20174610,extended,C6210250
 
-//Cheats/Acquire All Weapons in preparation for war Currently equipped weapons will come off, so save and power off after checking the effect.From now on, please start the game without using the code
+[Cheats/Acquire All Weapons in preparation for war Currently equipped weapons will come off, so save and power off after checking the effect.From now on, please start the game without using the code]
 patch=1,EE,201B17B8,extended,24020001
 patch=1,EE,201B17C0,extended,AE620028
 

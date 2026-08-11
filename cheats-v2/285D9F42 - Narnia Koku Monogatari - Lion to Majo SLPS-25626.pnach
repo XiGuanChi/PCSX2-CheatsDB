@@ -1,31 +1,31 @@
 gametitle=Narnia Koku Monogatari - Lion to Majo SLPS-25626
-//Infinite Coins
+[Infinite Coins]
 patch=1,EE,20637104,extended,0098967F
 
-//Cheat mode
+[Cheat mode]
 patch=1,EE,0066E048,extended,00000001
 
-//Infinite Health/Ammo
+[Infinite Health/Ammo]
 patch=1,EE,202716F0,extended,24440000
 patch=1,EE,202D815C,extended,C60008A0
 patch=1,EE,202D8168,extended,E60008A4
 
-//Timer Disabled
+[Timer Disabled]
 patch=1,EE,20668260,extended,4560 F000
 patch=1,EE,20668264,extended,4560 F000
 
-//All stages selectable
-//40636 CD8 00140003
+[All stages selectable]
+[40636 CD8 00140003]
 patch=1,EE,00000002,extended,00000000
 
-//Technical list fully opened
+[Technical list fully opened]
 patch=1,EE,20636F00,extended,0FEFFFFF
 patch=1,EE,20636F04,extended,0FEFFFFF
 patch=1,EE,20636F08,extended,0FEFFFFF
 patch=1,EE,20636F0C,extended,0FEFFFFF
 
-//All bonus can be selected
+[All bonus can be selected]
 patch=1,EE,206397E0,extended,01010101
-//206397E 4 01010101
+[206397E 4 01010101]
 patch=1,EE,206397E8,extended,01010101
-//206397 EC 01010101
+[206397 EC 01010101]

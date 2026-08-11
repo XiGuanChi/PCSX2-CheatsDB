@@ -1,17 +1,17 @@
 gametitle=Ready 2 Rumble  - Round 2 SLPM-62124
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,001EFB30,extended,00000064
 patch=1,EE,001EFB34,extended,00000064
 
-//1 Hit Death Player 2 L3 + R3 button
+[1 Hit Death Player 2 L3 + R3 button]
 patch=1,EE,D02084C2,extended,0000FFF9
 patch=1,EE,001F23A0,extended,00000000
 patch=1,EE,D02084C2,extended,0000FFF9
 patch=1,EE,001F23A4,extended,00000000
 
-//Have All Characters
+[Have All Characters]
 patch=1,EE,401ED19C,extended,000B0001
 patch=1,EE,00000003,extended,00000000
 
-//Championship Mode Codes  Infinite Money
+[Championship Mode Codes  Infinite Money]
 patch=1,EE,101D9C58,extended,0000FFFF

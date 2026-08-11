@@ -1,6 +1,6 @@
 gametitle=Jeremy McGrath - Supercross World 2002 PAL-M SLES-50209 05BEDF8F
 
-//50 FPS
+[50 FPS]
 author=GamingDragon93
 description=Might need EE Overclock.
 patch=1,EE,00503DD4,word,00000000 //00000001 asDisplayFrameLimitMax

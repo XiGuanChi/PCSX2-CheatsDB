@@ -1,11 +1,11 @@
 gametitle=NASCAR 06 - Total Team Control SLES-53635
-//Infinite Cash Usage Press Select+X while buying plates
+[Infinite Cash Usage Press Select+X while buying plates]
 patch=1,EE,D04EE442,extended,0000BFFE
 patch=1,EE,202F4EE8,extended,00000000
 patch=1,EE,D04EE442,extended,0010BFFE
 patch=1,EE,202F4EE8,extended,0C0BB176
 
-//Max Cash After Buying a Plate Press Select+X while buying plates 
+[Max Cash After Buying a Plate Press Select+X while buying plates]
 patch=1,EE,D04EE442,extended,0000BFFE
 patch=1,EE,202F4EE8,extended,0C03FFC0
 patch=1,EE,D04EE442,extended,0010BFFE

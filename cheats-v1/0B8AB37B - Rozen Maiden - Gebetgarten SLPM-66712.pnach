@@ -1,8 +1,8 @@
-//Cheats/Skip aerial fight Press L3+R3
+[Cheats/Skip aerial fight Press L3+R3]
 patch=1,EE,D040A042,extended,0000FFF9
 patch=1,EE,0022DABC,extended,000000FF
 
-//Cheats/Unlock All Extra
+[Cheats/Unlock All Extra]
 patch=1,EE,2022BE28,extended,FFFFFFFF
 patch=1,EE,2022BE2C,extended,FFFFFFFF
 patch=1,EE,1022BE30,extended,0000FFFF

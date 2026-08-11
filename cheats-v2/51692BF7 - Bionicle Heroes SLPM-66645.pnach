@@ -1,15 +1,15 @@
 gametitle=Bionicle Heroes SLPM-66645
-//Possession money MAX
+[Possession money MAX]
 patch=1,EE,2065EE3C,extended,00989680
 
-//Physical strength does not decrease
+[Physical strength does not decrease]
 patch=1,EE,20409380,extended,2418270F
 patch=1,EE,20409384,extended,AFB80070
 
-//Hero mode all the time
+[Hero mode all the time]
 patch=1,EE,203BA4D0,extended,E4811328
 
-//All stores
+[All stores]
 patch=1,EE,2065ECE8,extended,01010101
 patch=1,EE,2065ECEC,extended,01010101
 patch=1,EE,2065ECF0,extended,01010101

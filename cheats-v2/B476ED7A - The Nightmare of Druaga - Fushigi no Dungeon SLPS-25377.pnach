@@ -1,15 +1,15 @@
 gametitle=The Nightmare of Druaga - Fushigi no Dungeon SLPS-25377
-//Protection 100
+[Protection 100]
 patch=1,EE,20760200,extended,00002710
 
-//HP 999
+[HP 999]
 patch=1,EE,21D2A40C,extended,000003E7
 patch=1,EE,21D2A4A8,extended,000003E7
 
-//AP 999
+[AP 999]
 patch=1,EE,21D2A410,extended,000003E7
 patch=1,EE,21D2A4AC,extended,000003E7
 
-//In Dungeon Press Select tp HP 999
+[In Dungeon Press Select tp HP 999]
 patch=1,EE,D06B2502,extended,0000FFFE
 patch=1,EE,21D2A40C,extended,000003E7

@@ -1,19 +1,19 @@
 gametitle=The Shield SLUS-21040
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2018EAF0,extended,E48001EC
 
-//Infinite Ammo Clips
+[Infinite Ammo Clips]
 patch=1,EE,20158AB8,extended,00000000
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,20340994,extended,447A0000
 
-//Invincibility
+[Invincibility]
 patch=1,EE,2033A9F4,extended,00000001
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,2033DEBC,extended,FFFFFFFF
 
-//All Extras
+[All Extras]
 patch=1,EE,402EA854,extended,00040023
 patch=1,EE,00000001,extended,00000000

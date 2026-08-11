@@ -1,56 +1,56 @@
 gametitle=Gran Turismo 4 SCES-51719
-//Max Cash
+[Max Cash]
 patch=1,EE,20A39740,extended,44B14400
 patch=1,EE,20A39744,extended,44B14400
 
-//No Time Penalties
+[No Time Penalties]
 patch=1,EE,2035047C,extended,AC80060C
 
-//Disable AI Presss Select+Right to activate, select+Left to stop
+[Disable AI Presss Select+Right to activate, select+Left to stop]
 patch=1,EE,D064C794,extended,0000FF7E
 patch=1,EE,2034DFC8,extended,24020000
 patch=1,EE,D064C794,extended,0000FFDE
 patch=1,EE,2034DFC8,extended,1440FFF9
 
-//Freeze Timer R3 to activate, L3 to stop
+[Freeze Timer R3 to activate, L3 to stop]
 patch=1,EE,D064C794,extended,0000FFFD
 patch=1,EE,1035812E,extended,00002442
 patch=1,EE,D064C794,extended,0000FFFB
 patch=1,EE,1035812E,extended,00002A00
 
-//Infinite Fuel
+[Infinite Fuel]
 patch=1,EE,200C20D0,extended,C48005D0
 patch=1,EE,200C20D4,extended,03E00008
 patch=1,EE,200C20D8,extended,E48005D4
 patch=1,EE,2039E3A0,extended,0C030834
 
-//Infinite Nitrous
+[Infinite Nitrous]
 patch=1,EE,20354DA8,extended,3C01461C
 patch=1,EE,20354DAC,extended,34214000
 patch=1,EE,20354DBC,extended,E46204E0
 
-//All Cars Are Free
+[All Cars Are Free]
 patch=1,EE,20163A00,extended,24100000
 patch=1,EE,2043B348,extended,0002282D
 patch=1,EE,20448D1C,extended,24020000
 
-//All Tune Shop Parts Are Free
+[All Tune Shop Parts Are Free]
 patch=1,EE,20163A00,extended,24100000
 patch=1,EE,2043B348,extended,0002282D
 
-//ll Gold "B" License
+[ll Gold "B" License]
 patch=1,EE,40A32268,extended,00100001
 patch=1,EE,0000F991,extended,00000000
 
-//All Gold "A" License
+[All Gold "A" License]
 patch=1,EE,40A322A8,extended,00100001
 patch=1,EE,0000F991,extended,00000000
 
-//All Gold "IB" License
+[All Gold "IB" License]
 patch=1,EE,40A322E8,extended,00100001
 patch=1,EE,0000F991,extended,00000000
 
-//Have All Cars In Garage*
+[Have All Cars In Garage*]
 patch=1,EE,200C0260,extended,27BDFFE0
 patch=1,EE,200C0264,extended,FFBF0000
 patch=1,EE,200C0268,extended,FFB00008
@@ -77,7 +77,7 @@ patch=1,EE,201702AC,extended,0C172C38
 patch=1,EE,D0A17AC8,extended,00100015
 patch=1,EE,201702AC,extended,0C030098
 
-//Unlock All Arcade Tracks*
+[Unlock All Arcade Tracks*]
 patch=1,EE,E024FFFF,extended,00A44578
 patch=1,EE,40A443EC,extended,00330002
 patch=1,EE,00000022,extended,00000000

@@ -1,22 +1,22 @@
-//Cheats/Infinite HP P1
+[Cheats/Infinite HP P1]
 patch=1,EE,116C7B7C,extended,00000118
 
-//Cheats/Infinite HP P1 ALT
+[Cheats/Infinite HP P1 ALT]
 patch=1,EE,116B6E70,extended,000000DC
 patch=1,EE,116C7B7C,extended,000000DC
 
-//Cheats/Player 2 HP 0
+[Cheats/Player 2 HP 0]
 patch=1,EE,116C9B7C,extended,00000000
 
-//Cheats/Player 2 HP 0 Press select
+[Cheats/Player 2 HP 0 Press select]
 patch=1,EE,D0378882,extended,0000FFFE
 patch=1,EE,116C9B7C,extended,00000000
 
-//Cheats/Match count 1
+[Cheats/Match count 1]
 patch=1,EE,016B6E22,extended,00000001
 
-//Cheats/Unlock Kids mode
+[Cheats/Unlock Kids mode]
 patch=1,EE,2028A5DC,extended,00000001
 
-//Cheats/Unlock Malar
+[Cheats/Unlock Malar]
 patch=1,EE,0184AB70,extended,00000001

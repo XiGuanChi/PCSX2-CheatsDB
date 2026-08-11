@@ -1,56 +1,56 @@
 gametitle=Aggressive Inline SLUS-20327
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,1024CBB8,extended,0000FFFF
 patch=1,EE,0024CBBA,extended,0000000F
 
-//Unlock All Park Editor Parts
+[Unlock All Park Editor Parts]
 patch=1,EE,0024CBD2,extended,000000FF
 
-//Chris E. Codes
+[Chris E. Codes]
 
-//Tutorial Stage Is 100% Complete
+[Tutorial Stage Is 100% Complete]
 patch=1,EE,2024E1EC,extended,00000018
 
-//Movie Stage Is 100% Complete
+[Movie Stage Is 100% Complete]
 patch=1,EE,2024E1A0,extended,00000018
 patch=1,EE,2024E1A4,extended,00000018
 patch=1,EE,2024E1AC,extended,02025353
 
-//Civic Stage Is 100% Complete
+[Civic Stage Is 100% Complete]
 patch=1,EE,2024E0EC,extended,00000023
 patch=1,EE,2024E0F0,extended,00000023
 patch=1,EE,2024E0F8,extended,02028282
 
-//Industrial Stage Is 100% Complete
+[Industrial Stage Is 100% Complete]
 patch=1,EE,2024E17C,extended,00000014
 patch=1,EE,2024E180,extended,00000014
 patch=1,EE,2024E188,extended,01015757
 
-//Boardwalk Stage Is 100% Complete
+[Boardwalk Stage Is 100% Complete]
 patch=1,EE,2024E110,extended,0000001C
 patch=1,EE,2024E114,extended,0000001C
 patch=1,EE,2024E11C,extended,03034C4C
 
-//Cannery Stage Is 100% Complete
+[Cannery Stage Is 100% Complete]
 patch=1,EE,2024E134,extended,00000018
 patch=1,EE,2024E138,extended,00000018
 patch=1,EE,2024E140,extended,01016363
 
-//Airfield Stage Is 100% Complete
+[Airfield Stage Is 100% Complete]
 patch=1,EE,2024E158,extended,00000012
 patch=1,EE,2024E15C,extended,00000012
 patch=1,EE,2024E164,extended,01013B3B
 
-//Museum Stage Is 100% Complete
+[Museum Stage Is 100% Complete]
 patch=1,EE,2024E1C4,extended,00000017
 patch=1,EE,2024E1C8,extended,00000017
 patch=1,EE,2024E1D0,extended,01018484
 
-//Unlock All Special Tricks
+[Unlock All Special Tricks]
 patch=1,EE,1024E050,extended,0000FFFF
 
-//Have All Keys And Power Ups
+[Have All Keys And Power Ups]
 patch=1,EE,1024E048,extended,0000FFFF
 
-//All Levels Are Unlocked
+[All Levels Are Unlocked]
 patch=1,EE,0024E040,extended,000000FF

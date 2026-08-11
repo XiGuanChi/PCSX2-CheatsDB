@@ -1,17 +1,17 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,209C2064,extended,00000009
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,209C2060,extended,000003E7
 
-//Cheats/Have 999 Rings
+[Cheats/Have 999 Rings]
 patch=1,EE,209C206C,extended,000003E7
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,409BE188,extended,00160015
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/All Keys
+[Cheats/All Keys]
 patch=1,EE,409BE1C8,extended,00160015
 patch=1,EE,00000000,extended,00000000
 patch=1,EE,409BE1CC,extended,00160015
@@ -23,10 +23,10 @@ patch=1,EE,00000000,extended,00000000
 patch=1,EE,409BE1D8,extended,00160015
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Press L1+L2 Fill Dark Gauge
+[Cheats/Press L1+L2 Fill Dark Gauge]
 patch=1,EE,D09C7594,extended,0000AFFF
 patch=1,EE,209C203C,extended,00007530
 
-//Cheats/Press R1+R2 Fill Hero Gauge
+[Cheats/Press R1+R2 Fill Hero Gauge]
 patch=1,EE,D09C7594,extended,00005FFF
 patch=1,EE,209C2030,extended,00007530

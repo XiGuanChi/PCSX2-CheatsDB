@@ -1,19 +1,19 @@
 gametitle=Fantastic 4 SLUS-20615
-//All Charaters Infinite Lives
+[All Charaters Infinite Lives]
 patch=1,EE,201B3C30,extended,00000000
 
-//All Characters Max Supers Avaliaable
+[All Characters Max Supers Avaliaable]
 patch=1,EE,403201C0,extended,00040008
 patch=1,EE,00000064,extended,00000000
 
-//Have All Upgrades Available For Purchase
+[Have All Upgrades Available For Purchase]
 patch=1,EE,403201B8,extended,00040008
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//All Secrets
+[All Secrets]
 patch=1,EE,20320368,extended,0F0F071F
 patch=1,EE,2032036C,extended,030F070F
 patch=1,EE,10320370,extended,00003F07
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,00320328,extended,00000009

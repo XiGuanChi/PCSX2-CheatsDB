@@ -1,35 +1,35 @@
-//Cheats/Infinite Gil
+[Cheats/Infinite Gil]
 patch=1,EE,2031D218,extended,05F5BABE
 
-//Cheats/Full HP Tidus
+[Cheats/Full HP Tidus]
 patch=1,EE,1031EAB8,extended,0000270F
 
-//Cheats/Full MP Tidus
+[Cheats/Full MP Tidus]
 patch=1,EE,1031EABC,extended,000003E7
 
-//Cheats/Max HP Tidus
+[Cheats/Max HP Tidus]
 patch=1,EE,1031EAC0,extended,0000270F
 
-//Cheats/Max MP Tidus
+[Cheats/Max MP Tidus]
 patch=1,EE,1031EAC4,extended,000003E7
 
-//Cheats/Alle Charaktere haben 999.999 HP
+[Cheats/Alle Charaktere haben 999.999 HP]
 patch=1,EE,4031EAB8,extended,00070025
 patch=1,EE,000F423F,extended,DEADC0DE
 
-//Cheats/Alle Charaktere haben Max.999.999 HP
+[Cheats/Alle Charaktere haben Max.999.999 HP]
 patch=1,EE,4031EAC0,extended,00070025
 patch=1,EE,000F423F,extended,DEADC0DE
 
-//Cheats/Alle Charaktere haben 99.999 MP
+[Cheats/Alle Charaktere haben 99.999 MP]
 patch=1,EE,4031EABC,extended,00070025
 patch=1,EE,0001869F,extended,DEADC0DE
 
-//Cheats/Alle Charaktere haben Max.99.999 MP
+[Cheats/Alle Charaktere haben Max.99.999 MP]
 patch=1,EE,4031EAC4,extended,00070025
 patch=1,EE,0001869F,extended,DEADC0DE
 
-//Cheats/ab alle Magien und Techniken mit allen Charakteren
+[Cheats/ab alle Magien und Techniken mit allen Charakteren]
 patch=1,EE,4031EAD8,extended,00070025
 patch=1,EE,FFFF0000,extended,FADEABBA
 patch=1,EE,4031EADC,extended,00070025
@@ -39,27 +39,27 @@ patch=1,EE,FFFFFFFF,extended,FADEABBA
 patch=1,EE,4031EAE4,extended,00070025
 patch=1,EE,0000FFFF,extended,FADEABBA
 
-//Cheats/Alle Charaktere haben Sphere Level 99
+[Cheats/Alle Charaktere haben Sphere Level 99]
 patch=1,EE,4031EAD4,extended,00070025
 patch=1,EE,63000000,extended,DEADFACE
 
-//Cheats/No Random Battles
+[Cheats/No Random Battles]
 patch=1,EE,003173F7,extended,00000000
 
-//Cheats/Al Bhed Translated
+[Cheats/Al Bhed Translated]
 patch=1,EE,2031D1E0,extended,03FFFFFF
 
-//Cheats/All Ekstase
+[Cheats/All Ekstase]
 patch=1,EE,2031D23C,extended,FFFFFFFF
 patch=1,EE,2031D240,extended,FFFFFFFF
 patch=1,EE,2031D244,extended,FFFFFFFF
 
-//Cheats/All Key Items
+[Cheats/All Key Items]
 patch=1,EE,2031D95C,extended,FFFFFFFF
 patch=1,EE,2031D960,extended,000FFFFB
 patch=1,EE,1031983C,extended,00000101
 
-//Cheats/Have All Items Infinite
+[Cheats/Have All Items Infinite]
 patch=1,EE,200FFF30,extended,96F30000
 patch=1,EE,200FFF38,extended,26730001
 patch=1,EE,200FFF3C,extended,A6F30002
@@ -70,5 +70,5 @@ patch=1,EE,2024C9DC,extended,24110063
 patch=1,EE,2024C9E8,extended,A2D10000
 patch=1,EE,2031D39C,extended,20012000
 
-//Cheats/Show Endings
+[Cheats/Show Endings]
 patch=1,EE,103194D0,extended,00000186

@@ -1,18 +1,18 @@
 gametitle=Juuni Kokuki - Guren no Shirube, Koujin no Michi SLPM-65338
-//Infinite HP
+[Infinite HP]
 patch=1,EE,207CA836,extended,00004370
 
-//Max with getting money
+[Max with getting money]
 patch=1,EE,20169FA0,extended,1000000A
 
-//Max by getting stone
+[Max by getting stone]
 patch=1,EE,2016A57C,extended,00000000
 
-//In battle Infinite HP
+[In battle Infinite HP]
 patch=1,EE,201D1800,extended,32060FFF
 patch=1,EE,201D1808,extended,34030190
 patch=1,EE,201D180C,extended,10C300AD
 
-//In Battle always invokable
+[In Battle always invokable]
 patch=1,EE,201F1904,extended,64070005
 patch=1,EE,201F1918,extended,A6C70054

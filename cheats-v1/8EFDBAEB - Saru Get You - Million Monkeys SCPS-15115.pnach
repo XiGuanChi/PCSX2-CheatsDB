@@ -1,4 +1,4 @@
-//Cheats/All the chips possession
+[Cheats/All the chips possession]
 patch=1,EE,2076C828,extended,000F8000
 patch=1,EE,2076C82C,extended,000F8024
 patch=1,EE,2076C830,extended,000F8030
@@ -12,11 +12,11 @@ patch=1,EE,200F8018,extended,0D0D0C0C
 patch=1,EE,200F801C,extended,0F0F0E0E
 patch=1,EE,200F8020,extended,11111010
 
-//Cheats/Mission evaluation Max I do not use other than the story mode
+[Cheats/Mission evaluation Max I do not use other than the story mode]
 patch=1,EE,201ABEB8,extended,00000000
 patch=1,EE,201ABEE0,extended,00000000
 
-//Cheats/Unlock All Characters, Full Story cleared & Coliseum
+[Cheats/Unlock All Characters, Full Story cleared & Coliseum]
 patch=1,EE,20647C68,extended,FFFFFFFF
 patch=1,EE,20647C2C,extended,00011E1E
 patch=1,EE,20647C30,extended,00011E1E
@@ -25,10 +25,10 @@ patch=1,EE,20647C38,extended,01010101
 patch=1,EE,20647C3C,extended,01010101
 patch=1,EE,20647C40,extended,01010101
 
-//Cheats/Unlock All Selected Character Monkey Book
+[Cheats/Unlock All Selected Character Monkey Book]
 patch=1,EE,4076C840,extended,00130001
 patch=1,EE,03030303,extended,00000000
 
-//Cheats/Unlock All Capsules & Costumes
+[Cheats/Unlock All Capsules & Costumes]
 patch=1,EE,2076C838,extended,FFFFFFFF
 patch=1,EE,2076C83C,extended,FFFFFFFF

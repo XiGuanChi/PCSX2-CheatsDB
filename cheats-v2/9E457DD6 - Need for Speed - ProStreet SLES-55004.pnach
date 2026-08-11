@@ -1,21 +1,21 @@
 gametitle=Need for Speed - ProStreet SLES-55004
-//Max Cash
+[Max Cash]
 patch=1,EE,20A4F720,extended,05F5E0FF
 
-//Max Cash After Buying Parts
+[Max Cash After Buying Parts]
 patch=1,EE,20222A24,extended,3C0205F0
 
-//Disable Car Damage
+[Disable Car Damage]
 patch=1,EE,201E54D0,extended,10000021
 
-//All Open
+[All Open]
 patch=1,EE,20678E94,extended,00000001
 
-//Freeze Timers (L1+L2+Up to Freeze, L1+L2+Down to Restart)
+[Freeze Timers (L1+L2+Up to Freeze, L1+L2+Down to Restart)]
 patch=1,EE,D0B14F02,extended,0000FAEF
 patch=1,EE,201E5E1C,extended,00000000
 patch=1,EE,D0B14F02,extended,0000FABF
 patch=1,EE,201E5E1C,extended,E4C0FB60
 
-//Max Championship Score After A Race
+[Max Championship Score After A Race]
 patch=1,EE,203AE108,extended,3C120089

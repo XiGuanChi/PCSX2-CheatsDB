@@ -1,44 +1,44 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,2015C2FC,extended,AC8300A4
 
-//Cheats/Infinite Special
+[Cheats/Infinite Special]
 patch=1,EE,2015F79C,extended,240200C8
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,203CC2F4,extended,00000000
 
-//Cheats/Infinite Spirit Energy
+[Cheats/Infinite Spirit Energy]
 patch=1,EE,1179B6F4,extended,000000FF
 
-//Cheats/Max Spirit Energy
+[Cheats/Max Spirit Energy]
 patch=1,EE,1179B6F8,extended,000000FF
 
-//Cheats/Infinite Special Attack
+[Cheats/Infinite Special Attack]
 patch=1,EE,0179B82C,extended,000000C8
 
-//Cheats/Save Anywhere
+[Cheats/Save Anywhere]
 patch=1,EE,0179B878,extended,0000000F
 
-//Cheats/Unlock Garuda
+[Cheats/Unlock Garuda]
 patch=1,EE,0179B880,extended,00000001
 
-//Cheats/Unlock Merman
+[Cheats/Unlock Merman]
 patch=1,EE,0179B886,extended,00000001
 
-//Cheats/Unlock Minotaur
+[Cheats/Unlock Minotaur]
 patch=1,EE,0179B889,extended,00000001
 
-//Cheats/Unlock Wendigo
+[Cheats/Unlock Wendigo]
 patch=1,EE,0179B88F,extended,00000001
 
-//Cheats/Unlock Tiger
+[Cheats/Unlock Tiger]
 patch=1,EE,0179B898,extended,00000001
 
-//Cheats/Unlock All Beasts
+[Cheats/Unlock All Beasts]
 patch=1,EE,4179B87C,extended,00090001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Beasts
+[Cheats/Have All Beasts]
 patch=1,EE,200A0040,extended,AC22037C
 patch=1,EE,200A0044,extended,AC220380
 patch=1,EE,200A0048,extended,AC220384
@@ -46,7 +46,7 @@ patch=1,EE,200A004C,extended,AC220388
 patch=1,EE,200A0050,extended,AC22038C
 patch=1,EE,200A0054,extended,AC220390
 
-//Cheats/Activator
+[Cheats/Activator]
 patch=1,EE,200A0000,extended,3C01005F
 patch=1,EE,200A0004,extended,8C21BB38
 patch=1,EE,200A0008,extended,1020001F
@@ -56,29 +56,29 @@ patch=1,EE,200A003C,extended,24020001
 patch=1,EE,200A0088,extended,03E00008
 patch=1,EE,2014EB84,extended,08028000
 
-//Cheats/Infinite Health alt
+[Cheats/Infinite Health alt]
 patch=1,EE,E0020000,extended,105EBB38
 patch=1,EE,605EBB38,extended,000000C8
 patch=1,EE,00010001,extended,000000A0
 
-//Cheats/Infinite Energy alt
+[Cheats/Infinite Energy alt]
 patch=1,EE,E0020000,extended,105EBB38
 patch=1,EE,605EBB38,extended,000000C8
 patch=1,EE,00010001,extended,000001F4
 
-//Cheats/Unlimited Specials Max
+[Cheats/Unlimited Specials Max]
 patch=1,EE,E0020000,extended,105EBB38
 patch=1,EE,605EBB38,extended,000000C8
 patch=1,EE,00010001,extended,0000032C
 
-//Cheats/Stopped Time at 59'59"99
+[Cheats/Stopped Time at 59'59"99]
 patch=1,EE,203CC2C0,extended,14400006
 patch=1,EE,203CC2DC,extended,8E420658
 patch=1,EE,203CC2E0,extended,18400005
 patch=1,EE,203CC2E8,extended,3C020003
 patch=1,EE,203CC2EC,extended,34424BBF
 
-//Cheats/Get 9 Beast Characters
+[Cheats/Get 9 Beast Characters]
 patch=1,EE,E00C0000,extended,105EBB38
 patch=1,EE,605EBB38,extended,00000001
 patch=1,EE,00010001,extended,0000037C
@@ -93,7 +93,7 @@ patch=1,EE,00010001,extended,0000038C
 patch=1,EE,605EBB38,extended,00000001
 patch=1,EE,00010001,extended,00000390
 
-//Cheats/Enable Debug Level SelectSave in Load Game Menu Press Left on File 1 Enable the below code, then enter the Load Game screen and press Left while File 1 is highlighted. Select it, then start a Story game.
+[Cheats/Enable Debug Level SelectSave in Load Game Menu Press Left on File 1 Enable the below code, then enter the Load Game screen and press Left while File 1 is highlighted. Select it, then start a Story game.]
 patch=1,EE,2034F990,extended,2402FFFF
 patch=1,EE,0034F996,extended,00000042
 patch=1,EE,1034F91C,extended,0000FFFF

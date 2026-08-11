@@ -1,10 +1,10 @@
-//Cheats/Infinite Shields
+[Cheats/Infinite Shields]
 patch=1,EE,102BF4D4,extended,0000000A
 
-//Cheats/Have All Weapons
+[Cheats/Have All Weapons]
 patch=1,EE,202BF52C,extended,FFFFFFFF
 
-//Cheats/Level Select press Select+Left at the title screen to display the level select menu. Press Start+Select to exit this menu
+[Cheats/Level Select press Select+Left at the title screen to display the level select menu. Press Start+Select to exit this menu]
 patch=1,EE,D08CAB42,extended,0000FF7E
 patch=1,EE,20137AD4,extended,0C062FFC
 patch=1,EE,D08CAB42,extended,0000FFF6

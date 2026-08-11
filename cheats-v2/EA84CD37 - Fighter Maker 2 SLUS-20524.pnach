@@ -1,15 +1,15 @@
 gametitle=Fighter Maker 2 SLUS-20524
-//Infinite Time
+[Infinite Time]
 patch=1,EE,2027DB64,extended,00000000
 
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,200C0220,extended,240100C8
 patch=1,EE,200C0224,extended,AC810038
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,248508F0
 patch=1,EE,2027CB74,extended,0C030088
 
-//No Health Player 2
+[No Health Player 2]
 patch=1,EE,200C0230,extended,24010000
 patch=1,EE,200C0234,extended,AC81003C
 patch=1,EE,200C0238,extended,03E00008

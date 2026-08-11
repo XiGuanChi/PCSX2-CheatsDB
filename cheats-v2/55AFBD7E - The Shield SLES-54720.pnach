@@ -1,28 +1,28 @@
 gametitle=The Shield SLES-54720
-//Retirement Fund: .999.999
+[Retirement Fund: .999.999]
 patch=1,EE,2033d23c,extended,0098967f
 
-//Black market value 9,999,999
+[Black market value 9,999,999]
 patch=1,EE,2033d244,extended,0098967f
 
-//Heat reduction 0%
+[Heat reduction 0%]
 patch=1,EE,2033d248,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2018F388,extended,E48001EC
 
-//Max Infinite Ammo Clips
+[Max Infinite Ammo Clips]
 patch=1,EE,2015934C,extended,24020063
 
-//Never Reload
+[Never Reload]
 patch=1,EE,20197504,extended,00000000
 
-//Invincibility
+[Invincibility]
 patch=1,EE,2033C374,extended,00000001
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,2033F83C,extended,FFFFFFFF
 
-//All Extras
+[All Extras]
 patch=1,EE,402EC064,extended,00040023
 patch=1,EE,00000899,extended,00000000

@@ -1,7 +1,7 @@
 gametitle=Amagoushi no Yakata - Ichiyanagi Nagomu, Saisho no Junan [The Best Price] SLPS-25847
-//OMAKE ROOM
+[OMAKE ROOM]
 patch=1,EE,0038D3E4,extended,00000003
-// 
-//Bonus survey diary fully open
+[]
+[Bonus survey diary fully open]
 patch=1,EE,4038D8CC,extended,00130001
 patch=1,EE,FFFFFFFF,extended,00000000

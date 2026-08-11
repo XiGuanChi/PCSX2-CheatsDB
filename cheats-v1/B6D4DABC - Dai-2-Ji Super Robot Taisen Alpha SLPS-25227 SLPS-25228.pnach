@@ -1,49 +1,49 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20681F40,extended,3B9AC9FF
 
-//Cheats/Infinite SP
+[Cheats/Infinite SP]
 patch=1,EE,0025EF94,extended,00000000
 
-//Cheats/Modification Cost 0
+[Cheats/Modification Cost 0]
 patch=1,EE,2023A2D8,extended,00401023
 patch=1,EE,202336A4,extended,00C03023
 
-//Cheats/LV 99 In One Battle or experience value change Special skill level will no longer increase
+[Cheats/LV 99 In One Battle or experience value change Special skill level will no longer increase]
 patch=1,EE,2025ED9C,extended,00000000
 
-//Cheats/PP 9999 When Ability Value Is Increased
+[Cheats/PP 9999 When Ability Value Is Increased]
 patch=1,EE,2022BCE8,extended,24027530
 patch=1,EE,2022BD14,extended,2402270F
 
-//Cheats/PP 9999 minus the amount used If You Learn Special Skills
+[Cheats/PP 9999 minus the amount used If You Learn Special Skills]
 patch=1,EE,2022C340,extended,2402270F
 patch=1,EE,2022C348,extended,A622015A
 patch=1,EE,2022C34C,extended,10000014
 
-//Cheats/PP 9999 With Terrain Adaptation Elevation
+[Cheats/PP 9999 With Terrain Adaptation Elevation]
 patch=1,EE,2022D1C0,extended,2402270F
 patch=1,EE,2022D1FC,extended,2402270F
 
-//Cheats/PP Training Status Increase Limit Change From 400 To 999
+[Cheats/PP Training Status Increase Limit Change From 400 To 999]
 patch=1,EE,2022BB50,extended,284103E7
 patch=1,EE,4025FC94,extended,00060006
 patch=1,EE,286103E7,extended,00000000
 patch=1,EE,4025FC9C,extended,00060006
 patch=1,EE,240303E7,extended,00000000
 
-//Cheats/Skill Level 255
+[Cheats/Skill Level 255]
 patch=1,EE,00681F4D,extended,000000FF
 
-//Cheats/Total Number Of Turns 0
+[Cheats/Total Number Of Turns 0]
 patch=1,EE,10681F4A,extended,00000000
 
-//Cheats/When You Defeat An Enemy Number Of Kills is 999
+[Cheats/When You Defeat An Enemy Number Of Kills is 999]
 patch=1,EE,2025EE70,extended,28610000
 
-//Cheats/Defeating An Enemy Gives You 9999 PP
+[Cheats/Defeating An Enemy Gives You 9999 PP]
 patch=1,EE,2025EE24,extended,28610000
 
-//Cheats/Unlock Genesic Halo Movement power +5, maximum HP +2000, maximum EN +2000 Armor +300, mobility +50, hit rate +50, critical rate +50, range +3 Movement type "Sky", HP recovery 99% at the beginning of the turn, EN recovery 99% at the beginning of the turn, Gravity Territory, clone, energy +150 when sortie, adaptive terrain ALLS, Formation cost -5
+[Cheats/Unlock Genesic Halo Movement power +5, maximum HP +2000, maximum EN +2000 Armor +300, mobility +50, hit rate +50, critical rate +50, range +3 Movement type "Sky", HP recovery 99% at the beginning of the turn, EN recovery 99% at the beginning of the turn, Gravity Territory, clone, energy +150 when sortie, adaptive terrain ALLS, Formation cost -5]
 patch=1,EE,002F9E64,extended,00000005
 patch=1,EE,102F9E66,extended,000007D0
 patch=1,EE,202F9E68,extended,012C07D0
@@ -52,16 +52,16 @@ patch=1,EE,202F9E70,extended,01636301
 patch=1,EE,202F9E74,extended,00960307
 patch=1,EE,102F9E78,extended,00000500
 
-//Cheats/Unlock All 9 Reinforcement Parts
+[Cheats/Unlock All 9 Reinforcement Parts]
 patch=1,EE,406820B8,extended,00180001
 patch=1,EE,00090009,extended,00000000
 patch=1,EE,20682118,extended,00000009
 
-//Cheats/Unlock All Reinforcement Parts
+[Cheats/Unlock All Reinforcement Parts]
 patch=1,EE,406820B8,extended,00190001
 patch=1,EE,00090009,extended,00000000
 
-//Cheats/Unlock All Reinforced Parts & Do Not Decrease
+[Cheats/Unlock All Reinforced Parts & Do Not Decrease]
 patch=1,EE,106820B8,extended,0000000F
 patch=1,EE,106820BA,extended,0000000F
 patch=1,EE,106820BC,extended,0000000F
@@ -109,16 +109,16 @@ patch=1,EE,1068210E,extended,0000000F
 patch=1,EE,10682110,extended,0000000F
 patch=1,EE,10682112,extended,0000000F
 
-//Cheats/Unlock All Demo Selection
+[Cheats/Unlock All Demo Selection]
 patch=1,EE,206BD8B0,extended,FFFFFFFF
 
-//Cheats/Unlock All Robot Encyclopedia & Character Dictionary
+[Cheats/Unlock All Robot Encyclopedia & Character Dictionary]
 patch=1,EE,406BD830,extended,00090001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,406BD870,extended,00090001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Enable Debug Menu ress Right when the main menu option, OPTION is highlighted. This will move your cursor over START then, press Circle to enter this menu.Movie Allows viewing of movies.Pilot Illustration Robot Illustration	Unknown. Probably shows total completion of this statistic.CHECK	Expression Check	Displays character portraits. Map Check	Level select menu BGM Check	Music test.Standard Robot Pose	Allows viewing of robot / Gundam sprites. PCM Test	Voice test.Scenario Debug Allows viewing of events
+[Cheats/Enable Debug Menu ress Right when the main menu option, OPTION is highlighted. This will move your cursor over START then, press Circle to enter this menu.Movie Allows viewing of movies.Pilot Illustration Robot Illustration	Unknown. Probably shows total completion of this statistic.CHECK	Expression Check	Displays character portraits. Map Check	Level select menu BGM Check	Music test.Standard Robot Pose	Allows viewing of robot / Gundam sprites. PCM Test	Voice test.Scenario Debug Allows viewing of events]
 patch=1,EE,00136930,extended,00000004
 patch=1,EE,10682114,extended,0000000F
 patch=1,EE,10682116,extended,0000000F

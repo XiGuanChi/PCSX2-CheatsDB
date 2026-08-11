@@ -1,15 +1,15 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,101FFB94,extended,00000063
 patch=1,EE,101FFB96,extended,00000063
 
-//Cheats/Infinite Mana
+[Cheats/Infinite Mana]
 patch=1,EE,101FFB98,extended,00000063
 patch=1,EE,101FFB9A,extended,00000063
 
-//Cheats/Constant Magic
+[Cheats/Constant Magic]
 patch=1,EE,101FFC10,extended,0000012C
 
-//Cheats/MaxAttributes
+[Cheats/MaxAttributes]
 patch=1,EE,101FFBB0,extended,00000384
 patch=1,EE,101FFBB2,extended,00000384
 patch=1,EE,101FFBB4,extended,00000384
@@ -18,8 +18,8 @@ patch=1,EE,101FFBB8,extended,00000384
 patch=1,EE,101FFBBA,extended,00000384
 patch=1,EE,101FFBBC,extended,00000384
 
-//Cheats/Level 99
+[Cheats/Level 99]
 patch=1,EE,101FFB90,extended,00000063
 
-//Cheats/Max Experience
+[Cheats/Max Experience]
 patch=1,EE,101FFB9C,extended,0001869F

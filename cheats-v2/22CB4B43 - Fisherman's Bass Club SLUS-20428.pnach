@@ -1,14 +1,14 @@
 gametitle=Fisherman's Bass Club SLUS-20428
-//Have All Challenges/Tournaments Completed
+[Have All Challenges/Tournaments Completed]
 patch=1,EE,20492134,extended,FFFFFFFF
 
-//Infinite Quiz Time
+[Infinite Quiz Time]
 patch=1,EE,104AEACA,extended,00000225
 
-//Press L1+Select For Next Quiz Question
+[Press L1+Select For Next Quiz Question]
 patch=1,EE,D044EF42,extended,0000FBFE
 patch=1,EE,104AEACC,extended,00000040
 
-//Press L1+X For Instant Reel 
+[Press L1+X For Instant Reel]
 patch=1,EE,D044EF42,extended,0000BBFF
 patch=1,EE,20389840,extended,00000000

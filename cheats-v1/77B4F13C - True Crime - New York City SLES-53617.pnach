@@ -1,12 +1,12 @@
-//Cheats/Unendlich Munition
+[Cheats/Unendlich Munition]
 patch=1,EE,2052b3ac,extended,00000001
 
-//Cheats/Unendlich Ausdauer
+[Cheats/Unendlich Ausdauer]
 patch=1,EE,0052b3b0,extended,00000001
 
-//Cheats/Passanten sterben nicht durch Schlge
+[Cheats/Passanten sterben nicht durch Schlge]
 patch=1,EE,2053da48,extended,45000000
 patch=1,EE,2019e438,extended,24040000
 
-//Cheats/Habe Alle Waffen
+[Cheats/Habe Alle Waffen]
 patch=1,EE,0052b3b4,extended,00000001

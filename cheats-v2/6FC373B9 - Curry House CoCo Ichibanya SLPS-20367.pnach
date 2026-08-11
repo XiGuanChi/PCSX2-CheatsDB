@@ -1,9 +1,9 @@
 gametitle=Curry House CoCo Ichibanya SLPS-20367
-//Appraisal evaluation gauge MAX
+[Appraisal evaluation gauge MAX]
 patch=1,EE,10B253E8,extended,0000FFFF
 
-//Infinte Time
+[Infinte Time]
 patch=1,EE,10B25440,extended,00000000
 
-//Correct answer ratio100
+[Correct answer ratio100]
 patch=1,EE,00AF87C4,extended,00000014

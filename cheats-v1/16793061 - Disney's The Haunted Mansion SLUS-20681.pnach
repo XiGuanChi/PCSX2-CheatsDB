@@ -1,23 +1,23 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,2014928C,extended,00000000
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20156288,extended,C6610200
 patch=1,EE,2015628C,extended,E6610204
 
-//Cheats/Have Beacon Upgrades
+[Cheats/Have Beacon Upgrades]
 patch=1,EE,200C2000,extended,2411003F
 patch=1,EE,200C2004,extended,AC710000
 patch=1,EE,200C2008,extended,03E00008
 patch=1,EE,200C200C,extended,24120001
 patch=1,EE,201637C4,extended,0C030800
 
-//Cheats/Have Room Souls Collected
+[Cheats/Have Room Souls Collected]
 patch=1,EE,2015E044,extended,00020820
 patch=1,EE,2015E048,extended,8C220004
 patch=1,EE,2015E04C,extended,AC220000
 patch=1,EE,2015E050,extended,24013634
 
-//Cheats/Max Fortune Cards
+[Cheats/Max Fortune Cards]
 patch=1,EE,20163574,extended,AC640000
 patch=1,EE,1016357A,extended,00001000

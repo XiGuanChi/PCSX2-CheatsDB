@@ -2,13 +2,13 @@ gametitle=SLES-53147_F67E4351
 
 gameplay=Los 4 Fantásticos PAL-S SLES-53147 F67E4351
 
-//50/60 FPS
+[50/60 FPS]
 author=GamingDragon93
 description=Might need EE overclock (180%).
 patch=0,EE,00176870,word,AC20FC70
-//0031FC70
+[0031FC70]
 
-//NTSC Mode
+[NTSC Mode]
 author=GamingDragon93
 description=NTSC mode at start. logo and demos videos glitched.
 patch=0,EE,0017688c,word,24020002

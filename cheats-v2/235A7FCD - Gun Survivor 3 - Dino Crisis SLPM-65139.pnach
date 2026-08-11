@@ -1,28 +1,28 @@
 gametitle=Gun Survivor 3 - Dino Crisis SLPM-65139
-//invincible
+[invincible]
 patch=1,EE,20665080,extended,000000FF
 
-//99 possession of recovery agent
+[99 possession of recovery agent]
 patch=1,EE,102EC4E8,extended,00000063
 
-//Max Resuscitations
+[Max Resuscitations]
 patch=1,EE,102EC4EC,extended,00000063
 
-//Max Antidotes
+[Max Antidotes]
 patch=1,EE,102EC4F0,extended,00000063
 
-//Have Ample
+[Have Ample]
 patch=1,EE,202EC4F8,extended,00000001
 
-//Max Tachyon
+[Max Tachyon]
 patch=1,EE,102EC4FC,extended,0000270F
 
-//Never Reload (Pad)
+[Never Reload (Pad)]
 patch=1,EE,2013315C,extended,00000000
 
-//Never Reload (Gun)
+[Never Reload (Gun)]
 patch=1,EE,201333C8,extended,00000000
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,20218990,extended,00000000
 patch=1,EE,20218998,extended,00000000

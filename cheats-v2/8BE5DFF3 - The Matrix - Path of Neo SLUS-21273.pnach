@@ -1,29 +1,29 @@
 gametitle=The Matrix - Path of Neo SLUS-21273
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20240830,extended,C44103C4
 patch=1,EE,2024083C,extended,E44103C0
 
-//Infinite Focus
+[Infinite Focus]
 patch=1,EE,20243348,extended,C46103D4
 patch=1,EE,20243350,extended,E46103D0
 
-//Infinite Focus Usage
+[Infinite Focus Usage]
 patch=1,EE,20140EC4,extended,00000000
 
-//One-Hit Death (Enemies)
+[One-Hit Death (Enemies)]
 patch=1,EE,20140AD8,extended,AC8003C0
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,202DBFA0,extended,00000000
 
-//Activate Cheat Codes All Cheats
+[Activate Cheat Codes All Cheats]
 patch=1,EE,70468181,extended,000000FC
 
-//Unlock MediaAll Media Viewer
+[Unlock MediaAll Media Viewer]
 patch=1,EE,70465648,extended,0010081F
 patch=1,EE,70465654,extended,00000040
 
-//Unlock All Movies
+[Unlock All Movies]
 patch=1,EE,70465648,extended,00107060
 patch=1,EE,1046564A,extended,0000FFFF
 patch=1,EE,7046564C,extended,00105001

@@ -1,62 +1,62 @@
 gametitle=Tales of Destiny - Director's Cut english translated SLPS-25842
-//Max Gald
+[Max Gald]
 patch=1,EE,202C3D10,extended,0098967F
 
-//EX points 9999999
+[EX points 9999999]
 patch=1,EE,202C403C,extended,0098967F
 
-//Monster book complete
+[Monster book complete]
 patch=1,EE,402C34F4,extended,007B0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Food book complete
+[Food book complete]
 patch=1,EE,402C3DF0,extended,00190001
 patch=1,EE,03E703E7,extended,00000000
 
-//Discovery book complete
+[Discovery book complete]
 patch=1,EE,202C3CEC,extended,FFFFFFFF
 patch=1,EE,202C3CF0,extended,0FFFFFFF
 
-//Collector book complete
+[Collector book complete]
 patch=1,EE,002C343D,extended,000000FF
 patch=1,EE,102C343E,extended,0000FFFF
 patch=1,EE,402C3440,extended,00190001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,002C3494,extended,00000007
 
-//No Encounters. Only with L3
+[No Encounters. Only with L3]
 patch=1,EE,20132E98,extended,24020000
 patch=1,EE,D02F6902,extended,0000FFFD
 patch=1,EE,20132E98,extended,0200102D
 
-//9990 of all Lens
+[9990 of all Lens]
 patch=1,EE,102C3D1C,extended,00002706
 patch=1,EE,102C3D1E,extended,00002706
 patch=1,EE,102C3D20,extended,00002706
 patch=1,EE,102C3D22,extended,00002706
 patch=1,EE,102C3D24,extended,00002706
 
-//Dimlos 999 SD Points
+[Dimlos 999 SD Points]
 patch=1,EE,102C3768,extended,000003E7
 patch=1,EE,102C376A,extended,000003E7
 
-//Atwight 999 SD Points
+[Atwight 999 SD Points]
 patch=1,EE,102C3802,extended,000003E7
 patch=1,EE,102C3804,extended,000003E7
 
-//Clemente 999 SD Points
+[Clemente 999 SD Points]
 patch=1,EE,102C389C,extended,000003E7
 patch=1,EE,102C389E,extended,000003E7
 
-//Igtenos 999 SD Points
+[Igtenos 999 SD Points]
 patch=1,EE,102C3936,extended,000003E7
 patch=1,EE,102C3938,extended,000003E7
 
-//Chaltier 999 SD Points
+[Chaltier 999 SD Points]
 patch=1,EE,102C39D0,extended,000003E7
 patch=1,EE,102C39D2,extended,000003E7
 
-//All Titles
+[All Titles]
 patch=1,EE,002C34A5,extended,000000FF
 patch=1,EE,102C34A6,extended,0000FFFF
 patch=1,EE,202C34A8,extended,FFFFFFFF
@@ -70,6 +70,6 @@ patch=1,EE,202C4290,extended,FFFFFFFF
 patch=1,EE,202C4294,extended,FFFFFFFF
 patch=1,EE,102C4298,extended,0000FFFF
 
-//Infinite CC in Battle
+[Infinite CC in Battle]
 patch=1,EE,D03D9AF8,extended,000002D8
 patch=1,EE,203D9AFC,extended,960202DE

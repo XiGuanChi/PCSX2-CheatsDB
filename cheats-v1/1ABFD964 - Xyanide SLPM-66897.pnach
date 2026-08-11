@@ -1,11 +1,11 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,20138CE0,extended,2401270F
 patch=1,EE,20138CE4,extended,10000006
 patch=1,EE,20138CE8,extended,AC410058
 
-//Cheats/Instant HP Recovery Of Own Machine
+[Cheats/Instant HP Recovery Of Own Machine]
 patch=1,EE,20138CC4,extended,24020001
 patch=1,EE,20138CCC,extended,A2620070
 
-//Cheats/Infinite Bombs
+[Cheats/Infinite Bombs]
 patch=1,EE,2013AF5C,extended,00000003

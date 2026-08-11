@@ -1,11 +1,11 @@
 gametitle=Naruto - Ultimate Ninja 2 SLES-54878
-//Invincible
+[Invincible]
 patch=1,EE,20548CDA,extended,00000001
 
-//Max Money
+[Max Money]
 patch=1,EE,20548CBC,extended,0098967F
 
-//Max Virtue all Characters
+[Max Virtue all Characters]
 patch=1,EE,20548CFC,extended,0098967F
 patch=1,EE,20548D40,extended,0098967F
 patch=1,EE,20548D84,extended,0098967F
@@ -18,7 +18,7 @@ patch=1,EE,20548F1C,extended,0098967F
 patch=1,EE,20548F60,extended,0098967F
 patch=1,EE,20548FA4,extended,0098967F
 
-//Infinite Health all Characters
+[Infinite Health all Characters]
 patch=1,EE,10548CE0,extended,000003E7
 patch=1,EE,10548D24,extended,000003E7
 patch=1,EE,10548D68,extended,000003E7
@@ -31,7 +31,7 @@ patch=1,EE,10548F00,extended,000003E7
 patch=1,EE,10548F44,extended,000003E7
 patch=1,EE,10548F88,extended,000003E7
 
-//Infinite Chakra all Characters
+[Infinite Chakra all Characters]
 patch=1,EE,10548CF6,extended,000003E7
 patch=1,EE,10548D3A,extended,000003E7
 patch=1,EE,10548D7E,extended,000003E7
@@ -44,50 +44,50 @@ patch=1,EE,10548F16,extended,000003E7
 patch=1,EE,10548F5A,extended,000003E7
 patch=1,EE,10548F9E,extended,000003E7
 
-//Money Max
+[Money Max]
 patch=1,EE,2011bb6c,extended,00431021
 
-//infinite Time
+[infinite Time]
 patch=1,EE,202397c0,extended,00000000
 
-//Infinite Energy
+[Infinite Energy]
 patch=1,EE,20f56038,extended,3f800000
 
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,08062384
 patch=1,EE,200C0228,extended,AC810058
 patch=1,EE,2023F194,extended,0C030088
 patch=1,EE,2023F1C4,extended,0C030088
 
-//No Health P2
+[No Health P2]
 patch=1,EE,200C0230,extended,24010000
 patch=1,EE,200C0234,extended,08062384
 patch=1,EE,200C0238,extended,AC810058
 patch=1,EE,2023F1A8,extended,0C03008C
 patch=1,EE,2023F1D8,extended,0C03008C
 
-//Unlock Characters (all but the last 3)
+[Unlock Characters (all but the last 3)]
 patch=1,EE,40ABE0E8,extended,00220001
 patch=1,EE,00000003,extended,00000000
-//House Codes: Have Ninja Info Cards
+[House Codes: Have Ninja Info Cards]
 patch=1,EE,40AC1A64,extended,00150001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Have Figures
+[Have Figures]
 patch=1,EE,20AC1990,extended,FFFFFFFF
 patch=1,EE,20AC1994,extended,FFFFFFFF
 
-//Have Videos
+[Have Videos]
 patch=1,EE,40AC1ABC,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Have Voices
+[Have Voices]
 patch=1,EE,40AC1B34,extended,000D0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,20AC19E0,extended,FFFFFFFF
 
-//Have Musics
+[Have Musics]
 patch=1,EE,20AC19D4,extended,FFFFFFFF
 patch=1,EE,20AC1B28,extended,FFFFFFFF
 

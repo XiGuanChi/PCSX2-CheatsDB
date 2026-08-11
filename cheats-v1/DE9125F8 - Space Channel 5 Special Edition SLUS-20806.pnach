@@ -1,18 +1,18 @@
-//Cheats/Space Channel 5 Infinite Hearts
+[Cheats/Space Channel 5 Infinite Hearts]
 patch=1,EE,201180A4,extended,00000000
 patch=1,EE,2011D994,extended,00000000
 
-//Cheats/Space Channel 5 Max Rating After 1 Dance
+[Cheats/Space Channel 5 Max Rating After 1 Dance]
 patch=1,EE,101001CA,extended,00001000
 patch=1,EE,101001EA,extended,00001000
 patch=1,EE,10100202,extended,00001000
 
-//Cheats/Space Channel 5 Unlock All Character Profiles
+[Cheats/Space Channel 5 Unlock All Character Profiles]
 patch=1,EE,2151F150,extended,FFFFFFFF
 patch=1,EE,2151F154,extended,FFFFFFFF
 patch=1,EE,1151F158,extended,0000FFFF
 
-//Cheats/Unlock Space Channel 5 All Character Profiles Not New Anymore
+[Cheats/Unlock Space Channel 5 All Character Profiles Not New Anymore]
 patch=1,EE,1151F15A,extended,0000FFFF
 patch=1,EE,2151F15C,extended,FFFFFFFF
 patch=1,EE,2151F160,extended,FFFFFFFF

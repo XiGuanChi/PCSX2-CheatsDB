@@ -1,39 +1,39 @@
 gametitle=Rebirth Moon SLPM-66043
-//SH 999999999
+[SH 999999999]
 patch=1,EE,211A75A8,extended,3B9AC9FF
 
-//CH 999999999
+[CH 999999999]
 patch=1,EE,211A75AC,extended,3B9AC9FF
 
-//Slot 1 HP
+[Slot 1 HP]
 patch=1,EE,21164564,extended,000F423f
 patch=1,EE,211644EC,extended,000F423f
 patch=1,EE,211644F8,extended,000F423f
 patch=1,EE,211644FC,extended,000F423f
 
-//Slot 1 SP
+[Slot 1 SP]
 patch=1,EE,21164568,extended,000F423f
 patch=1,EE,211644F0,extended,000F423f
 patch=1,EE,21164500,extended,000F423f
 
-//Slot 2 HP
+[Slot 2 HP]
 patch=1,EE,211655F0,extended,000F423f
 patch=1,EE,21165578,extended,000F423f
 patch=1,EE,21165584,extended,000F423f
 patch=1,EE,21165588,extended,000F423f
 
-//Slot 2 SP
+[Slot 2 SP]
 patch=1,EE,211655F4,extended,000F423f
 patch=1,EE,2116557C,extended,000F423f
 patch=1,EE,2116558C,extended,000F423f
 
-//Slot 3 HP
+[Slot 3 HP]
 patch=1,EE,2116667C,extended,000F423f
 patch=1,EE,21166604,extended,000F423f
 patch=1,EE,21166610,extended,000F423f
 patch=1,EE,21166614,extended,000F423f
 
-//Slot 3 SP
+[Slot 3 SP]
 patch=1,EE,21166680,extended,000F423f
 patch=1,EE,21166608,extended,000F423f
 patch=1,EE,21166618,extended,000F423f

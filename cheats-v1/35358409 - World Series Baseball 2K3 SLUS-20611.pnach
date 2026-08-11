@@ -1,23 +1,23 @@
-//Cheats/Home Team Infinite Outs
+[Cheats/Home Team Infinite Outs]
 patch=1,EE,E0010001,extended,004F6A08
 patch=1,EE,204F6A0C,extended,00000000
 
-//Cheats/Home Team Infinite Balls
+[Cheats/Home Team Infinite Balls]
 patch=1,EE,E0010001,extended,004F6A08
 patch=1,EE,204F6A10,extended,00000000
 
-//Cheats/Home Team Infinite Strikes
+[Cheats/Home Team Infinite Strikes]
 patch=1,EE,E0010001,extended,004F6A08
 patch=1,EE,204F6A14,extended,00000001
 
-//Cheats/Away Team Infinite Outs
+[Cheats/Away Team Infinite Outs]
 patch=1,EE,E0010000,extended,004F6A08
 patch=1,EE,204F6A0C,extended,00000000
 
-//Cheats/Away Team Infinite Balls
+[Cheats/Away Team Infinite Balls]
 patch=1,EE,E0010000,extended,004F6A08
 patch=1,EE,204F6A10,extended,00000000
 
-//Cheats/Away Team Infinite Strikes
+[Cheats/Away Team Infinite Strikes]
 patch=1,EE,E0010000,extended,004F6A08
 patch=1,EE,204F6A14,extended,00000001

@@ -1,11 +1,11 @@
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,4043DCA0,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Stages
+[Cheats/Unlock All Stages]
 patch=1,EE,2043DC8C,extended,0000003B
 patch=1,EE,2043DC98,extended,FFE7FFBF
 patch=1,EE,2043DC9C,extended,07FFFBFF
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,2043DCB0,extended,FFFFFFFF

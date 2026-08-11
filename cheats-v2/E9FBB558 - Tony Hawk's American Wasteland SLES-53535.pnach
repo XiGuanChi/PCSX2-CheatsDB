@@ -1,26 +1,26 @@
 gametitle=Tony Hawk's American Wasteland SLES-53535
-//All Characters
+[All Characters]
 patch=1,EE,200FFF10,extended,A04114D8
 patch=1,EE,200FFF0C,extended,A04114D4
 
-//All Cheats
+[All Cheats]
 patch=1,EE,200FFF14,extended,A0411490
 
-//All Movies
+[All Movies]
 patch=1,EE,200FFF1C,extended,A0411491
 
-//Infinite Special
+[Infinite Special]
 patch=1,EE,2071711C,extended,00000B50
 
-//Max Cash After Buying An Item
+[Max Cash After Buying An Item]
 patch=1,EE,2034DACC,extended,3C020098
 
-//Load a Profile for All Movies
+[Load a Profile for All Movies]
 patch=1,EE,200C2038,extended,8D09FF90
 patch=1,EE,200C203C,extended,3529F000
 patch=1,EE,200C2040,extended,AD09FF90
 
-//Load a Profile fo All Cheats
+[Load a Profile fo All Cheats]
 patch=1,EE,200C2044,extended,8D09FF90
 patch=1,EE,200C2048,extended,3529003A
 patch=1,EE,200C204C,extended,AD09FF90
@@ -37,38 +37,38 @@ patch=1,EE,200C2074,extended,8D09FF98
 patch=1,EE,200C2078,extended,35290004
 patch=1,EE,200C207C,extended,AD09FF98
 
-//The Skate Ranch
+[The Skate Ranch]
 patch=1,EE,200C2080,extended,8D09FF8C
 patch=1,EE,200C2084,extended,35290040
 patch=1,EE,200C2088,extended,AD09FF8C
 
-//Level Complete Codes
-//Easy Story Mode
+[Level Complete Codes]
+[Easy Story Mode]
 patch=1,EE,200C208C,extended,8D09FF9C
 patch=1,EE,200C2090,extended,35290800
 patch=1,EE,200C2094,extended,AD09FF9C
 
-//Normal Story Mode
+[Normal Story Mode]
 patch=1,EE,200C2098,extended,8D09FF9C
 patch=1,EE,200C209C,extended,35291000
 patch=1,EE,200C20A0,extended,AD09FF9C
 
-//Sick Story Mode
+[Sick Story Mode]
 patch=1,EE,200C20A4,extended,8D09FF9C
 patch=1,EE,200C20A8,extended,35292000
 patch=1,EE,200C20AC,extended,AD09FF9C
 
-//Normal Classic Mode
+[Normal Classic Mode]
 patch=1,EE,200C20B0,extended,8D09FF9C
 patch=1,EE,200C20B4,extended,35294000
 patch=1,EE,200C20B8,extended,AD09FF9C
 
-//Sick Classic Mode
+[Sick Classic Mode]
 patch=1,EE,200C20BC,extended,8D09FF9C
 patch=1,EE,200C20C0,extended,35298000
 patch=1,EE,200C20C4,extended,AD09FF9C
 
-//All Skate Levels
+[All Skate Levels]
 patch=1,EE,200C20D0,extended,8C82000C
 patch=1,EE,200C20D4,extended,00051942
 patch=1,EE,200C20D8,extended,00031880
@@ -82,10 +82,10 @@ patch=1,EE,200C20F4,extended,03E00008
 patch=1,EE,200C20F8,extended,AC620000
 patch=1,EE,202FB7BC,extended,0C030834
 
-//Story Mode Max Cash
+[Story Mode Max Cash]
 patch=1,EE,20D2B574,extended,05F5E0FF
 
-//Story Mode All Abilities
+[Story Mode All Abilities]
 patch=1,EE,203CCCB4,extended,00510821
 patch=1,EE,203CCCB8,extended,24020001
 patch=1,EE,203CCCBC,extended,AC220020

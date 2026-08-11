@@ -1,367 +1,367 @@
 gametitle=Global Folktale SLPS-20052
-//Allen - Experience
+[Allen - Experience]
 patch=1,EE,10233F40,extended,0000270F
 
-//Allen - Infinite & Maximum HP
+[Allen - Infinite & Maximum HP]
 patch=1,EE,10233F44,extended,0000270F
 patch=1,EE,10233F48,extended,0000270F
 
-//Allen - Infinite & Maximum MP
+[Allen - Infinite & Maximum MP]
 patch=1,EE,10233F4C,extended,0000270F
 patch=1,EE,10233F50,extended,0000270F
 
-//Fall - Experience
+[Fall - Experience]
 patch=1,EE,10234054,extended,0000270F
 
-//Fall - Infinitie & Maximum HP
+[Fall - Infinitie & Maximum HP]
 patch=1,EE,10234058,extended,0000270F
 patch=1,EE,1023405C,extended,0000270F
 
-//Fall - Infinite & Maximum MP
+[Fall - Infinite & Maximum MP]
 patch=1,EE,10234060,extended,0000270F
 patch=1,EE,10234064,extended,0000270F
 
-//Salt - Experience
+[Salt - Experience]
 patch=1,EE,10234168,extended,0000270F
 
-//Salt - Infinite & Maximum HP
+[Salt - Infinite & Maximum HP]
 patch=1,EE,1023416C,extended,0000270F
 patch=1,EE,10234170,extended,0000270F
 
-//Salt - Infinite & Maximum MP
+[Salt - Infinite & Maximum MP]
 patch=1,EE,10234174,extended,0000270F
 patch=1,EE,10234178,extended,0000270F
 
 
-//Bunt - Experience
+[Bunt - Experience]
 patch=1,EE,1023427C,extended,0000270F
 
-//Bunt - Maximum HP
+[Bunt - Maximum HP]
 patch=1,EE,10234280,extended,0000270F
 
-//Bunt - HP
+[Bunt - HP]
 patch=1,EE,10234284,extended,0000270F
 
-//current Bunt - Maximum MP
+[current Bunt - Maximum MP]
 patch=1,EE,10234288,extended,0000270F
 
-//Bunt - MP
+[Bunt - MP]
 patch=1,EE,1023428C,extended,0000270F
 
-//current Fail - Experience
+[current Fail - Experience]
 patch=1,EE,10234390,extended,0000270F
 
-//Fail - Maximum HP
+[Fail - Maximum HP]
 patch=1,EE,10234394,extended,0000270F
 
-//Fail - HP
+[Fail - HP]
 patch=1,EE,10234398,extended,0000270F
 
-//current Fail - Maximum MP
+[current Fail - Maximum MP]
 patch=1,EE,1023439C,extended,0000270F
 
-//Fail - MP
+[Fail - MP]
 patch=1,EE,102343A0,extended,0000270F
 
-//current Ganz - Experience
+[current Ganz - Experience]
 patch=1,EE,102344A4,extended,0000270F
 
-//Ganz - Maximum HP
+[Ganz - Maximum HP]
 patch=1,EE,102344A8,extended,0000270F
 
-//Ganz - HP
+[Ganz - HP]
 patch=1,EE,102344AC,extended,0000270F
 
-//current Ganz - Maximum MP
+[current Ganz - Maximum MP]
 patch=1,EE,102344B0,extended,0000270F
 
-//Ganz - MP
+[Ganz - MP]
 patch=1,EE,102344B4,extended,0000270F
 
-//current Bra Steel - Experience
+[current Bra Steel - Experience]
 patch=1,EE,102345B8,extended,0000270F
 
-//Bra Steel - Maximum HP
+[Bra Steel - Maximum HP]
 patch=1,EE,102345BC,extended,0000270F
 
-//Bra Steel - HP 4CB6C6E8 1456089Ccurrent Bra Steel - Maximum MP
+[Bra Steel - HP 4CB6C6E8 1456089Ccurrent Bra Steel - Maximum MP]
 patch=1,EE,102345C4,extended,0000270F
 
-//Bra Steel - MP
+[Bra Steel - MP]
 patch=1,EE,102345C8,extended,0000270F
 
-//current Retisheru - Experience
+[current Retisheru - Experience]
 patch=1,EE,102346CC,extended,0000270F
 
-//Retisheru - Maximum HP
+[Retisheru - Maximum HP]
 patch=1,EE,102346D0,extended,0000270F
 
-//Retisheru - HP
+[Retisheru - HP]
 patch=1,EE,102346D4,extended,0000270F
 
-//current Retisheru - Maximum MP
+[current Retisheru - Maximum MP]
 patch=1,EE,102346D8,extended,0000270F
 
-//Retisheru - MP
+[Retisheru - MP]
 patch=1,EE,102346DC,extended,0000270F
 
-//current Haiu~izu - Experience
+[current Haiu~izu - Experience]
 patch=1,EE,102347E0,extended,0000270F
 
-//Haiu~izu - Maximum HP
+[Haiu~izu - Maximum HP]
 patch=1,EE,102347E4,extended,0000270F
 
-//Haiu~izu - HP
+[Haiu~izu - HP]
 patch=1,EE,102347E8,extended,0000270F
 
-//current Haiu~izu - Maximum MP
+[current Haiu~izu - Maximum MP]
 patch=1,EE,102347EC,extended,0000270F
 
-//Haiu~izu - MP
+[Haiu~izu - MP]
 patch=1,EE,102347F0,extended,0000270F
 
-//current Area - Experience
+[current Area - Experience]
 patch=1,EE,102348F4,extended,0000270F
 
-//Area - Maximum HP
+[Area - Maximum HP]
 patch=1,EE,102348F8,extended,0000270F
 
-//Area - HP
+[Area - HP]
 patch=1,EE,102348FC,extended,0000270F
 
-//current Area - Maximum MP
+[current Area - Maximum MP]
 patch=1,EE,10234900,extended,0000270F
 
-//Area - MP
+[Area - MP]
 patch=1,EE,10234904,extended,0000270F
 
-//current Elinor - Experience
+[current Elinor - Experience]
 patch=1,EE,10234A08,extended,0000270F
 
-//Elinor - Maximum HP
+[Elinor - Maximum HP]
 patch=1,EE,10234A0C,extended,0000270F
 
-//Elinor - HP
+[Elinor - HP]
 patch=1,EE,10234A10,extended,0000270F
 
-//current Elinor - Maximum MP
+[current Elinor - Maximum MP]
 patch=1,EE,10234A14,extended,0000270F
 
-//Elinor - MP
+[Elinor - MP]
 patch=1,EE,10234A18,extended,0000270F
 
-//current Vu~eruku - Experience
+[current Vu~eruku - Experience]
 patch=1,EE,10234B1C,extended,0000270F
 
-//Vu~eruku - Maximum HP
+[Vu~eruku - Maximum HP]
 patch=1,EE,10234B20,extended,0000270F
 
-//Vu~eruku - HP
+[Vu~eruku - HP]
 patch=1,EE,10234B24,extended,0000270F
 
-//current Vu~eruku - Maximum MP
+[current Vu~eruku - Maximum MP]
 patch=1,EE,10234B28,extended,0000270F
 
-//Vu~eruku - MP
+[Vu~eruku - MP]
 patch=1,EE,10234B2C,extended,0000270F
 
-//current Yushia - Experience
+[current Yushia - Experience]
 patch=1,EE,10234C30,extended,0000270F
 
-//Yushia - Maximum HP
+[Yushia - Maximum HP]
 patch=1,EE,10234C34,extended,0000270F
 
-//Yushia - HP
+[Yushia - HP]
 patch=1,EE,10234C38,extended,0000270F
 
-//current Yushia - Maximum MP
+[current Yushia - Maximum MP]
 patch=1,EE,10234C3C,extended,0000270F
 
-//Yushia - MP
+[Yushia - MP]
 patch=1,EE,10234C40,extended,0000270F
 
-//current Tilia - Experience
+[current Tilia - Experience]
 patch=1,EE,10234D44,extended,0000270F
 
-//Tilia - Maximum HP
+[Tilia - Maximum HP]
 patch=1,EE,10234D48,extended,0000270F
 
-//Tilia - HP
+[Tilia - HP]
 patch=1,EE,10234D4C,extended,0000270F
 
-//current Tilia - Maximum MP
+[current Tilia - Maximum MP]
 patch=1,EE,10234D50,extended,0000270F
 
-//Tilia - MP
+[Tilia - MP]
 patch=1,EE,10234D54,extended,0000270F
 
-//current Lennon - Experience
+[current Lennon - Experience]
 patch=1,EE,10234E58,extended,0000270F
 
-//Lennon - Maximum HP
+[Lennon - Maximum HP]
 patch=1,EE,10234E5C,extended,0000270F
 
-//Lennon - HP 4CB6D188 1456089Ccurrent Lennon - Maximum MP
+[Lennon - HP 4CB6D188 1456089Ccurrent Lennon - Maximum MP]
 patch=1,EE,10234E64,extended,0000270F
 
-//Lennon - MP
+[Lennon - MP]
 patch=1,EE,10234E68,extended,0000270F
 
-//current Ranosu - Experience
+[current Ranosu - Experience]
 patch=1,EE,10234F6C,extended,0000270F
 
-//Ranosu - Maximum HP
+[Ranosu - Maximum HP]
 patch=1,EE,10234F70,extended,0000270F
 
-//Ranosu - HP
+[Ranosu - HP]
 patch=1,EE,10234F74,extended,0000270F
 
-//current Ranosu - Maximum MP
+[current Ranosu - Maximum MP]
 patch=1,EE,10234F78,extended,0000270F
 
-//Ranosu - MP
+[Ranosu - MP]
 patch=1,EE,10234F7C,extended,0000270F
 
-//current Cyrus - Experience
+[current Cyrus - Experience]
 patch=1,EE,10235080,extended,0000270F
 
-//Cyrus - Maximum HP
+[Cyrus - Maximum HP]
 patch=1,EE,10235084,extended,0000270F
 
-//Cyrus - HP
+[Cyrus - HP]
 patch=1,EE,10235088,extended,0000270F
 
-//current Cyrus - Maximum MP
+[current Cyrus - Maximum MP]
 patch=1,EE,1023508C,extended,0000270F
 
-//Cyrus - MP
+[Cyrus - MP]
 patch=1,EE,10235090,extended,0000270F
 
-//current Leona - Experience
+[current Leona - Experience]
 patch=1,EE,10235194,extended,0000270F
 
-//Leona - Maximum HP
+[Leona - Maximum HP]
 patch=1,EE,10235198,extended,0000270F
 
-//Leona - HP
+[Leona - HP]
 patch=1,EE,1023519C,extended,0000270F
 
-//current Leona - Maximum MP
+[current Leona - Maximum MP]
 patch=1,EE,102351A0,extended,0000270F
 
-//Leona - MP
+[Leona - MP]
 patch=1,EE,102351A4,extended,0000270F
 
-//current Reina - Experience
+[current Reina - Experience]
 patch=1,EE,102352A8,extended,0000270F
 
-//Reina - Maximum HP
+[Reina - Maximum HP]
 patch=1,EE,102352AC,extended,0000270F
 
-//Reina - HP
+[Reina - HP]
 patch=1,EE,102352B0,extended,0000270F
 
-//current Reina - Maximum MP
+[current Reina - Maximum MP]
 patch=1,EE,102352B4,extended,0000270F
 
-//Reina - MP
+[Reina - MP]
 patch=1,EE,102352B8,extended,0000270F
 
-//current Ragunasu - Experience
+[current Ragunasu - Experience]
 patch=1,EE,102353BC,extended,0000270F
 
-//Ragunasu - Maximum HP
+[Ragunasu - Maximum HP]
 patch=1,EE,102353C0,extended,0000270F
 
-//Ragunasu - HP
+[Ragunasu - HP]
 patch=1,EE,102353C4,extended,0000270F
 
-//current Ragunasu - Maximum MP
+[current Ragunasu - Maximum MP]
 patch=1,EE,102353C8,extended,0000270F
 
-//Ragunasu - MP
+[Ragunasu - MP]
 patch=1,EE,102353CC,extended,0000270F
 
-//current Gail - Experience
+[current Gail - Experience]
 patch=1,EE,102354D0,extended,0000270F
 
-//Gail - Maximum HP
+[Gail - Maximum HP]
 patch=1,EE,102354D4,extended,0000270F
 
-//Gail - HP
+[Gail - HP]
 patch=1,EE,102354D8,extended,0000270F
 
-//current Gail - Maximum MP
+[current Gail - Maximum MP]
 patch=1,EE,102354DC,extended,0000270F
 
-//Gail - MP
+[Gail - MP]
 patch=1,EE,102354E0,extended,0000270F
 
-//current Vu~aruken - Experience
+[current Vu~aruken - Experience]
 patch=1,EE,102355E4,extended,0000270F
 
-//Vu~aruken - Maximum HP
+[Vu~aruken - Maximum HP]
 patch=1,EE,102355E8,extended,0000270F
 
-//Vu~aruken - HP
+[Vu~aruken - HP]
 patch=1,EE,102355EC,extended,0000270F
 
-//current Vu~aruken - Maximum MP
+[current Vu~aruken - Maximum MP]
 patch=1,EE,102355F0,extended,0000270F
 
-//Vu~aruken - MP
+[Vu~aruken - MP]
 patch=1,EE,102355F4,extended,0000270F
 
-//current Fureishia - Experience
+[current Fureishia - Experience]
 patch=1,EE,102356F8,extended,0000270F
 
-//Fureishia - Maximum HP
+[Fureishia - Maximum HP]
 patch=1,EE,102356FC,extended,0000270F
 
-//Fureishia - HP
+[Fureishia - HP]
 patch=1,EE,10235700,extended,0000270F
 
-//current Fureishia - Maximum MP
+[current Fureishia - Maximum MP]
 patch=1,EE,10235704,extended,0000270F
 
-//Fureishia - MP
+[Fureishia - MP]
 patch=1,EE,10235708,extended,0000270F
 
-//current Fantesu - Experience
+[current Fantesu - Experience]
 patch=1,EE,1023580C,extended,0000270F
 
-//Fantesu - Maximum HP
+[Fantesu - Maximum HP]
 patch=1,EE,10235810,extended,0000270F
 
-//Fantesu - HP
+[Fantesu - HP]
 patch=1,EE,10235814,extended,0000270F
 
-//current Fantesu - Maximum MP
+[current Fantesu - Maximum MP]
 patch=1,EE,10235818,extended,0000270F
 
-//Fantesu - MP 4CB6DB44 1456089Ccurrent Arthur - Experience
+[Fantesu - MP 4CB6DB44 1456089Ccurrent Arthur - Experience]
 patch=1,EE,10235920,extended,0000270F
 
-//Arthur - Maximum HP
+[Arthur - Maximum HP]
 patch=1,EE,10235924,extended,0000270F
 
-//Arthur - HP
+[Arthur - HP]
 patch=1,EE,10235928,extended,0000270F
 
-//current Arthur - Maximum MP
+[current Arthur - Maximum MP]
 patch=1,EE,1023592C,extended,0000270F
 
-//Arthur - MP 4CB6DA58 1456089Ccurrent Saber - Experience
+[Arthur - MP 4CB6DA58 1456089Ccurrent Saber - Experience]
 patch=1,EE,10235A34,extended,0000270F
 
-//Saber - Maximum HP
+[Saber - Maximum HP]
 patch=1,EE,10235A38,extended,0000270F
 
-//Saber - HP
+[Saber - HP]
 patch=1,EE,10235A3C,extended,0000270F
 
-//current Saber - Maximum MP
+[current Saber - Maximum MP]
 patch=1,EE,10235A40,extended,0000270F
 
-//Saber - MP
+[Saber - MP]
 patch=1,EE,10235A44,extended,0000270F

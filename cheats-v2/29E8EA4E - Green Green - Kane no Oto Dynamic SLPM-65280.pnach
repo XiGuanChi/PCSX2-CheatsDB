@@ -1,13 +1,13 @@
 gametitle=Green Green - Kane no Oto Dynamic SLPM-65280
-//Secret fully opened
+[Secret fully opened]
 patch=1,EE,208ACBEC,extended,FFFFFFFF
 patch=1,EE,408ACC18,extended,000D0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Clear flag ON 
+[Clear flag ON]
 patch=1,EE,208ACBEC,extended,FFFFFFFF
 
-//SCENE REPLAY all 
+[SCENE REPLAY all]
 patch=1,EE,208ACC1C,extended,FFFFFFFF
 patch=1,EE,208ACC20,extended,FFFFFFFF
 patch=1,EE,208ACC24,extended,FFFFFFFF
@@ -19,7 +19,7 @@ patch=1,EE,208ACC38,extended,FFFFFFFF
 patch=1,EE,208ACC3C,extended,FFFFFFFF
 patch=1,EE,208ACC40,extended,FFFFFFFF
 
-//Whole scene ornamental possible (on clear flag)
+[Whole scene ornamental possible (on clear flag)]
 patch=1,EE,20369C74,extended,01010101
 patch=1,EE,20369C78,extended,01010101
 patch=1,EE,20369C7C,extended,01010101
@@ -28,7 +28,7 @@ patch=1,EE,20369C84,extended,01010101
 patch=1,EE,20369C88,extended,01010101
 patch=1,EE,10369C8C,extended,00000101
 
-//Songs appear in music appreciation (on clear flag)
+[Songs appear in music appreciation (on clear flag)]
 patch=1,EE,20366E04,extended,01010101
 patch=1,EE,20366E08,extended,01010101
 patch=1,EE,20366E0C,extended,01010101

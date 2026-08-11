@@ -1,7 +1,7 @@
 gametitle=25 To Live SLES-53199
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2016FE58,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2010245C,extended,44810000
 patch=1,EE,20102460,extended,E4400000

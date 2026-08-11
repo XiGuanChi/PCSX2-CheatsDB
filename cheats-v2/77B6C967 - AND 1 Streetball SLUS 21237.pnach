@@ -1,27 +1,27 @@
 gametitle=AND 1 Streetball SLUS 21237
-//Unlock All I-Ball Moves
+[Unlock All I-Ball Moves]
 patch=1,EE,4053F77C,extended,000C0001
 patch=1,EE,00000001,extended,00000000
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,4053F7AC,extended,00050001
 patch=1,EE,00000001,extended,00000000
 
-//Unlock All Blacktops (Courts)
+[Unlock All Blacktops (Courts)]
 patch=1,EE,4053F7C0,extended,000D0001
 patch=1,EE,00000001,extended,00000000
 
-//Unlock All Videos
+[Unlock All Videos]
 patch=1,EE,4053F7F4,extended,001A0001
 patch=1,EE,00000001,extended,00000000
 
-//Unlock All Breakdowns
+[Unlock All Breakdowns]
 patch=1,EE,4053F860,extended,00110001
 patch=1,EE,00000001,extended,00000000
 
-//Unlock All Wardrobe
+[Unlock All Wardrobe]
 patch=1,EE,4053F8A4,extended,00290001
 patch=1,EE,00000001,extended,00000000
 
-//Debug Menu At Startup
+[Debug Menu At Startup]
 patch=1,EE,20657F80,extended,00000000

@@ -1,5 +1,5 @@
 gametitle=Star Wars - Super Bombad Racing SLUS-20043 SLES-50204-8
-//Infinite Energy (Human Players)
+[Infinite Energy (Human Players)]
 patch=1,EE,200C0220,extended,8C82002C
 patch=1,EE,200C0224,extended,3C014080
 patch=1,EE,200C0228,extended,AC4100CC
@@ -7,27 +7,27 @@ patch=1,EE,200C022C,extended,03E00008
 patch=1,EE,200C0230,extended,C44000CC
 patch=1,EE,202536D0,extended,0C030088
 
-//Infinite Boost (Human Players)
+[Infinite Boost (Human Players)]
 patch=1,EE,202533FC,extended,3C014120
 patch=1,EE,20253404,extended,AE01005C
 
-//Fly mode
+[Fly mode]
 patch=0,EE,00256DE7,extended,00000014
 
-//Inf Boost
+[Inf Boost]
 patch=1,EE,202BC3EC,extended,00000000
 
-//Always on Lap 3
+[Always on Lap 3]
 patch=1,EE,10AEECAC,extended,00000003
 
-//Race as AAT Battle Tank
+[Race as AAT Battle Tank]
 patch=0,EE,203F20F4,extended,00000001
 
-//Race as Darth Vader
+[Race as Darth Vader]
 patch=0,EE,203F206C,extended,00000008
 
-//Race as Boba Fett
+[Race as Boba Fett]
 patch=0,EE,203F20F4,extended,00000002
 
-//Unlock all circuits / courses
+[Unlock all circuits / courses]
 patch=1,EE,2023E834,extended,24050001

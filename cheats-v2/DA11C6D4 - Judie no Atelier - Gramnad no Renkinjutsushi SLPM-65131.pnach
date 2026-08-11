@@ -1,10 +1,10 @@
 gametitle=Judie no Atelier - Gramnad no Renkinjutsushi SLPM-65131
-//Max Money
+[Max Money]
 patch=1,EE,205E0F64,extended,000F423F
 
-//Judith HP 
+[Judith HP]
 patch=1,EE,105DE7E4,extended,0000270F
 patch=1,EE,105DE7FC,extended,0000270F
 
-//Debug Mode
+[Debug Mode]
 patch=1,EE,2026A9EC,extended,24100000

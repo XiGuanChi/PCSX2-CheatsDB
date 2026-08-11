@@ -1,13 +1,13 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,2021BF00,extended,00002710
 patch=1,EE,2021BF04,extended,0000270F
 
-//Cheats/Infinite AP
+[Cheats/Infinite AP]
 patch=1,EE,2021BF08,extended,00000000
 patch=1,EE,2021BF0C,extended,0000270F
 
-//Cheats/Shield ESP Ability LV 3
+[Cheats/Shield ESP Ability LV 3]
 patch=1,EE,0021BF85,extended,00000003
 
-//Cheats/99 Recovery Items
+[Cheats/99 Recovery Items]
 patch=1,EE,0021C698,extended,00000063

@@ -1,9 +1,9 @@
 gametitle=Skate Attack SLES-54628
-//Infinite Health
+[Infinite Health]
 patch=1,EE,208EA754,extended,3F000000
 
-//Max adrenalin
+[Max adrenalin]
 patch=1,EE,208EA74C,extended,62884A8F
 
-//Points 9999
+[Points 9999]
 patch=1,EE,208EA708,extended,0000270F

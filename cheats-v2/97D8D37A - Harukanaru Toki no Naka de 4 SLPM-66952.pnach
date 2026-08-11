@@ -1,14 +1,14 @@
 gametitle=Harukanaru Toki no Naka de 4 SLPM-66952
-//Infinite HP Main character
+[Infinite HP Main character]
 patch=1,EE,21EDAB8C,extended,00000064
 
-//Infinite HP 2nd character
+[Infinite HP 2nd character]
 patch=1,EE,21EDABB8,extended,00000064
 
-//Infinite HP 3rd character
+[Infinite HP 3rd character]
 patch=1,EE,21EDABE4,extended,00000064
 
-//999 Happiness
+[999 Happiness]
 patch=1,EE,11EB33E6,extended,000003E7
 patch=1,EE,11EB33F8,extended,000003E7
 patch=1,EE,21EB33E8,extended,03E703E7
@@ -16,53 +16,53 @@ patch=1,EE,21EB33EC,extended,03E703E7
 patch=1,EE,21EB33F0,extended,03E703E7
 patch=1,EE,21EB33F4,extended,03E703E7
 
-//Extra Fully Open
+[Extra Fully Open]
 patch=1,EE,21EB0A00,extended,FFFFFFFF
 patch=1,EE,21EB0A04,extended,FFFFFFFF
 patch=1,EE,01EB2F10,extended,000000FF
 patch=1,EE,04CF64E4,extended,000000FF
 
-//Ki / concentration 200 (specified value MAX)
+[Ki / concentration 200 (specified value MAX)]
 
-//Miko
+[Miko]
 patch=1,EE,01EB3AE1,extended,000000C8
 patch=1,EE,01EB3AE2,extended,000000C8
 
-//Kazehaya
+[Kazehaya]
 patch=1,EE,01EB3B09,extended,000000C8
 patch=1,EE,01EB3B0A,extended,000000C8
 
-//Ashvin
+[Ashvin]
 patch=1,EE,01EB3B31,extended,000000C8
 patch=1,EE,01EB3B32,extended,000000C8
 
-//Sazaki
+[Sazaki]
 patch=1,EE,01EB3B59,extended,000000C8
 patch=1,EE,01EB3B5A,extended,000000C8
 
-//Nagi
+[Nagi]
 patch=1,EE,01EB3B81,extended,000000C8
 patch=1,EE,01EB3B82,extended,000000C8
 
-//Nunotohiko
+[Nunotohiko]
 patch=1,EE,01EB3BA9,extended,000000C8
 patch=1,EE,01EB3BAA,extended,000000C8
 
-//Hiiragi
+[Hiiragi]
 patch=1,EE,01EB3BD1,extended,000000C8
 patch=1,EE,01EB3BD2,extended,000000C8
 
-//Far night
+[Far night]
 patch=1,EE,01EB3BF9,extended,000000C8
 patch=1,EE,01EB3BFA,extended,000000C8
 
-//Katsuragi Ninja
+[Katsuragi Ninja]
 patch=1,EE,01EB3C21,extended,000000C8
 patch=1,EE,01EB3C22,extended,000000C8
 
-//Special skills can be learned
+[Special skills can be learned]
 
-//Miko
+[Miko]
 patch=1,EE,01EB3AC1,extended,00000005
 patch=1,EE,11EB3AC2,extended,00000505
 patch=1,EE,21EB3AC4,extended,05050505
@@ -70,7 +70,7 @@ patch=1,EE,21EB3AC8,extended,05050505
 patch=1,EE,21EB3ACC,extended,05050505
 patch=1,EE,01EB3AD0,extended,00000005
 
-//Kazehaya
+[Kazehaya]
 patch=1,EE,01EB3AE9,extended,00000005
 patch=1,EE,11EB3AEA,extended,00000505
 patch=1,EE,21EB3AEC,extended,05050505
@@ -78,7 +78,7 @@ patch=1,EE,21EB3AF0,extended,05050505
 patch=1,EE,21EB3AF4,extended,05050505
 patch=1,EE,01EB3AF8,extended,00000005
 
-//Ashvin
+[Ashvin]
 patch=1,EE,01EB3B11,extended,00000005
 patch=1,EE,11EB3B12,extended,00000505
 patch=1,EE,21EB3B14,extended,05050505
@@ -86,7 +86,7 @@ patch=1,EE,21EB3B18,extended,05050505
 patch=1,EE,21EB3B1C,extended,05050505
 patch=1,EE,01EB3B20,extended,00000005
 
-//Sazaki
+[Sazaki]
 patch=1,EE,01EB3B39,extended,00000005
 patch=1,EE,11EB3B3A,extended,00000505
 patch=1,EE,21EB3B3C,extended,05050505
@@ -94,7 +94,7 @@ patch=1,EE,21EB3B40,extended,05050505
 patch=1,EE,21EB3B44,extended,05050505
 patch=1,EE,01EB3B48,extended,00000005
 
-//Nagi
+[Nagi]
 patch=1,EE,01EB3B61,extended,00000005
 patch=1,EE,11EB3B62,extended,00000505
 patch=1,EE,21EB3B64,extended,05050505
@@ -102,7 +102,7 @@ patch=1,EE,21EB3B68,extended,05050505
 patch=1,EE,21EB3B6C,extended,05050505
 patch=1,EE,01EB3B70,extended,00000005
 
-//Nunotohiko
+[Nunotohiko]
 patch=1,EE,01EB3B89,extended,00000005
 patch=1,EE,11EB3B8A,extended,00000505
 patch=1,EE,21EB3B8C,extended,05050505
@@ -110,7 +110,7 @@ patch=1,EE,21EB3B90,extended,05050505
 patch=1,EE,21EB3B94,extended,05050505
 patch=1,EE,01EB3B98,extended,00000005
 
-//Hiiragi
+[Hiiragi]
 patch=1,EE,01EB3BB1,extended,00000005
 patch=1,EE,11EB3BB2,extended,00000505
 patch=1,EE,21EB3BB4,extended,05050505
@@ -118,7 +118,7 @@ patch=1,EE,21EB3BB8,extended,05050505
 patch=1,EE,21EB3BBC,extended,05050505
 patch=1,EE,01EB3BC0,extended,00000005
 
-//Far night
+[Far night]
 patch=1,EE,01EB3BD9,extended,00000005
 patch=1,EE,11EB3BDA,extended,00000505
 patch=1,EE,21EB3BDC,extended,05050505
@@ -126,7 +126,7 @@ patch=1,EE,21EB3BE0,extended,05050505
 patch=1,EE,21EB3BE4,extended,05050505
 patch=1,EE,01EB3BE8,extended,00000005
 
-//Katsuragi Ninja
+[Katsuragi Ninja]
 patch=1,EE,01EB3C01,extended,00000005
 patch=1,EE,11EB3C02,extended,00000505
 patch=1,EE,21EB3C04,extended,05050505

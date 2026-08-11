@@ -1,20 +1,20 @@
 gametitle=Suzumiya Haruhi no Tomadoi SLPS-25822
-//Have 9999 Preparedness point
+[Have 9999 Preparedness point]
 patch=1,EE,2068221C,extended,0000270F
 
-//Motivation 99999
+[Motivation 99999]
 patch=1,EE,20682218,extended,0001869F
 
-//Gallery fully open
+[Gallery fully open]
 patch=1,EE,00681C90,extended,00000003
 patch=1,EE,40681C68,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Debug Mode 
+[Debug Mode]
 patch=0,EE,203068B0,extended,00000000
 patch=0,EE,203068B8,extended,00000001
 
-//Unlock Everything 
+[Unlock Everything]
 patch=1,EE,E0150000,extended,0068AD2C
 patch=1,EE,1068AD3C,extended,00000101
 patch=1,EE,0068AD3E,extended,00000001

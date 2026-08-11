@@ -1,35 +1,35 @@
-//Cheats/Opponents Don't Move And Go Under The Ground
+[Cheats/Opponents Don't Move And Go Under The Ground]
 patch=1,EE,20124F64,extended,00000000
 
-//Cheats/Teleportation If Out Of Road Disabled
+[Cheats/Teleportation If Out Of Road Disabled]
 patch=1,EE,2022BDBC,extended,00000000
 patch=1,EE,2022C0D0,extended,00000000
 
 
-//Cheats/Cheats Codes Enabled  CONC3PT
+[Cheats/Cheats Codes Enabled  CONC3PT]
 patch=1,EE,0052E232,extended,00000080
 
 [Cheats/Cheats Codes Enabled IF900HP 
 patch=1,EE,0052E231,extended,00000080
 
-//Cheats/Cheats Codes Enabled IMSPEED
+[Cheats/Cheats Codes Enabled IMSPEED]
 patch=1,EE,0052E230,extended,00000004
 
-//Cheats/Cheats Codes Enabled MATTL66
+[Cheats/Cheats Codes Enabled MATTL66]
 patch=1,EE,0052E230,extended,00000008
 
-//Cheats/Cheats Codes Enabled R4MONE
+[Cheats/Cheats Codes Enabled R4MONE]
 patch=1,EE,0052E233,extended,00000002
 
-//Cheats/Cheats Codes Enabled TRGTEXC
+[Cheats/Cheats Codes Enabled TRGTEXC]
 patch=1,EE,0052E232,extended,00000040
 
-//Cheats/Cheats Codes Enabled VROOOOM
+[Cheats/Cheats Codes Enabled VROOOOM]
 patch=1,EE,0052E232,extended,00000020
 
-//Cheats/Cheats Codes Enabled WATCHIT
+[Cheats/Cheats Codes Enabled WATCHIT]
 patch=1,EE,0052E233,extended,00000001
 
-//Cheats/Cheats Codes Enabled YAYCARS
+[Cheats/Cheats Codes Enabled YAYCARS]
 patch=1,EE,0052E230,extended,00000002
 

@@ -1,40 +1,40 @@
 gametitle=Tekken's Nina Williams in - Death by Degrees SLPS-25422
-//Defeat enemy skill point maximum
+[Defeat enemy skill point maximum]
 patch=1,EE,202E5328,extended,00000000
 
-//Defeat enemy level maximum
+[Defeat enemy level maximum]
 patch=1,EE,20142FC8,extended,00000000
 
-//One fight at the time of fighting 999 combo
+[One fight at the time of fighting 999 combo]
 patch=1,EE,2014453C,extended,00003000
 
-//Blow Death
+[Blow Death]
 patch=1,EE,2015DD04,extended,8E2200B4
 
-//Challenge mode mini game Time Stop
+[Challenge mode mini game Time Stop]
 patch=1,EE,203EBFC4,extended,46001046
 patch=1,EE,203EC284,extended,46001046
 
-//Sniper mission Infinite Heath
+[Sniper mission Infinite Heath]
 patch=1,EE,20253B4C,extended,8E8104D0
 patch=1,EE,20253B50,extended,AE8104D8
 
-//Sniper mission Infinite Heath Partner
+[Sniper mission Infinite Heath Partner]
 patch=1,EE,20253B84,extended,00540821
 patch=1,EE,20253B88,extended,C420095C
 patch=1,EE,20253BA8,extended,24020064
 patch=1,EE,20253BAC,extended,AC22095C
 
-//Sniper mission Infinite Ammo
+[Sniper mission Infinite Ammo]
 patch=1,EE,20251B10,extended,00000000
 
-//Sniper mission Infinite Time
+[Sniper mission Infinite Time]
 patch=1,EE,20251140,extended,00000000
 patch=1,EE,20465D14,extended,00000000
 
-//Stigray mission Infinite
+[Stigray mission Infinite]
 patch=1,EE,202876DC,extended,E60121C4
 
-//[START+UP] Exp9999
+[[START+UP] Exp9999]
 patch=1,EE,D056DD20,extended,00000018
 patch=1,EE,20ED613C,extended,0000270F

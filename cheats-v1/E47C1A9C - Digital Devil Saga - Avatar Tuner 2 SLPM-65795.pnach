@@ -1,37 +1,37 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,211E153C,extended,0098967F
 
-//Cheats/Max Money alt
+[Cheats/Max Money alt]
 patch=1,EE,201179F0,extended,8C640020
 patch=1,EE,201179F8,extended,AC64003C
 patch=1,EE,20117A00,extended,AC650034
 
-//Cheats/Max Shop Points
+[Cheats/Max Shop Points]
 patch=1,EE,211FFB54,extended,000F423F
 
-//Cheats/Max Karma 1st Person
+[Cheats/Max Karma 1st Person]
 patch=1,EE,211E1F70,extended,0098967F
 
-//Cheats/Max Karma 2nd Person
+[Cheats/Max Karma 2nd Person]
 patch=1,EE,211E2134,extended,0098967F
 
-//Cheats/Max Karma 3rd Person
+[Cheats/Max Karma 3rd Person]
 patch=1,EE,211E22F8,extended,00989 67F
 
-//Cheats/Full Recovery HP And MP After Battle It has no effect on characters who have not acquired Atma
+[Cheats/Full Recovery HP And MP After Battle It has no effect on characters who have not acquired Atma]
 patch=1,EE,200F7030,extended,9489000C
 patch=1,EE,200F7034,extended,A489000A
 patch=1,EE,200F7038,extended,08046677
 patch=1,EE,200F703C,extended,94820008
 patch=1,EE,201D2200,extended,0C03DC0C
 
-//Cheats/Even If You Are Surprised Your Allies Attack First
+[Cheats/Even If You Are Surprised Your Allies Attack First]
 patch=1,EE,201B3768,extended,24020001
 
-//Cheats/Devil State Even If Surprised
+[Cheats/Devil State Even If Surprised]
 patch=1,EE,201B3DA8,extended,24020000
 
-//Cheats/Unlock All Linkages
+[Cheats/Unlock All Linkages]
 patch=1,EE,211F8400,extended,FFFFFFF0
 patch=1,EE,211F8404,extended,FFFFFFFF
 patch=1,EE,211F8408,extended,FFFFFFFF

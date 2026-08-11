@@ -1,13 +1,13 @@
 gametitle=Tekken Tag Tournament SLPS-20015
-//P1 Unlimited Life
+[P1 Unlimited Life]
 patch=1,EE,20879934,extended,00097333
 patch=1,EE,20879938,extended,00097333
 
-//P2 one hit kill
+[P2 one hit kill]
 patch=1,EE,208851D4,extended,00000001
 patch=1,EE,208851D8,extended,00000001
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,10439B70,extended,0000FFFF
 patch=1,EE,10439B72,extended,0000FFFF
 patch=1,EE,10439B74,extended,0000003F

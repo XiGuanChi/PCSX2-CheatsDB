@@ -1,21 +1,21 @@
 gametitle=Sonic Heroes SLPM-65431
-//Ring 999
+[Ring 999]
 patch=1,EE,202B5FA0,extended,00000000
 
-//Increase score full
+[Increase score full]
 patch=1,EE,202B5D1C,extended,00000000
 
-//1P remaining challenge number 99
+[1P remaining challenge number 99]
 patch=1,EE,004DE0A0,extended,00000063
 
-//debug* After pressing the L1 + SELECT button, -ON- After pressing the L2 + SELECT button -OFF-
+[debug* After pressing the L1 + SELECT button, -ON- After pressing the L2 + SELECT button -OFF-]
 patch=1,EE,D051969C,extended,0000FBFE
 patch=1,EE,204AD1C0,extended,00000001
 patch=1,EE,D051969C,extended,0000FEFE
 patch=1,EE,204AD1C0,extended,00000000
 
 
-//All stages / CG available
+[All stages / CG available]
 patch=1,EE,203038A4,extended,00000000
 patch=1,EE,203038C4,extended,00000000
 patch=1,EE,20303908,extended,00000000

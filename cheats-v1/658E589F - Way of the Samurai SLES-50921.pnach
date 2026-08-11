@@ -1,32 +1,32 @@
 [Cheats/Unlock ] Max Money
 patch=1,EE,109EDFB6,extended,0000270F
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201CC828,extended,94830042
 patch=1,EE,201CC82C,extended,A4830040
 
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,200C0220,extended,240307D0
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,A6830042
 patch=1,EE,201DADAC,extended,0C030088
 
-//Cheats/Infinite Life
+[Cheats/Infinite Life]
 patch=1,EE,10C15C88,extended,000003E8
 
-//Cheats/Infinite Yen
+[Cheats/Infinite Yen]
 patch=1,EE,108EB4A8,extended,0000270F
 
-//Cheats/Infinite EP
+[Cheats/Infinite EP]
 patch=1,EE,109EDFB8,extended,00000014
 
-//Cheats/Unlock All Moves
+[Cheats/Unlock All Moves]
 patch=1,EE,409EE1C0,extended,00060001
 patch=1,EE,0100D9E1,extended,00000000
 patch=1,EE,109EE1D8,extended,00000101
 
-//Cheats/Unlock All Heads, Costumes And Difficulties
+[Cheats/Unlock All Heads, Costumes And Difficulties]
 patch=1,EE,209EDEB8,extended,05F5E0FF
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,108EB380,extended,00000BBB

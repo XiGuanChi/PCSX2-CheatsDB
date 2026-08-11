@@ -1,13 +1,13 @@
-//Cheats/Attribute Points Can Go To 100
+[Cheats/Attribute Points Can Go To 100]
 patch=1,EE,2026075C,extended,24030064
 
-//Cheats/Max Infinite Attribute Points After One Match
+[Cheats/Max Infinite Attribute Points After One Match]
 patch=1,EE,203B5CD0,extended,240203E7
 
-//Cheats/Use 1 Point For 99 Stats
+[Cheats/Use 1 Point For 99 Stats]
 patch=1,EE,10260754,extended,00000001
 
-//Cheats/Idiot AI L1+L2 On R1+R2 Off
+[Cheats/Idiot AI L1+L2 On R1+R2 Off]
 patch=1,EE,E002FAFF,extended,01C63802
 patch=1,EE,206FF648,extended,00000000
 patch=1,EE,206FFA58,extended,00000000
@@ -15,17 +15,17 @@ patch=1,EE,E002F5FF,extended,01C63802
 patch=1,EE,206FF648,extended,2C420001
 patch=1,EE,206FFA58,extended,2C420001
 
-//Cheats/Infinite Weapon Usage
+[Cheats/Infinite Weapon Usage]
 patch=1,EE,D0342F4C,extended,00000001
 patch=1,EE,20342F4C,extended,24420000
 
-//Cheats/Unlock Access Blanked-Out Move Categories
+[Cheats/Unlock Access Blanked-Out Move Categories]
 patch=1,EE,D068B294,extended,00000038
 patch=1,EE,2068B294,extended,24020001
 
-//Cheats/First Blood Always On
+[Cheats/First Blood Always On]
 patch=1,EE,004D4EB8,extended,00000001
 
-//Cheats/Unlock Everyone
+[Cheats/Unlock Everyone]
 patch=1,EE,D01E107C,extended,000000DD
 patch=1,EE,201E107C,extended,24030001

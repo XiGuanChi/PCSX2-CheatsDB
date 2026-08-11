@@ -1,34 +1,34 @@
 gametitle=Burnout 3 - Takedown SLPM-65719
-//Boost maximum
+[Boost maximum]
 patch=1,EE,20672A6C,extended,00000003
 patch=1,EE,20672A70,extended,44340000
 patch=1,EE,20672A74,extended,44340000
 patch=1,EE,20672A78,extended,40000000
 
-//No collision with ordinary cars
+[No collision with ordinary cars]
 patch=1,EE,201B7338,extended,00000000
 
-//Extra turbo
+[Extra turbo]
 patch=1,EE,205A13C4,extended,44000000
 patch=1,EE,205A1484,extended,41000000
 
-//No head-on collision
+[No head-on collision]
 patch=1,EE,20505B2C,extended,7F960000
 
-//No crash
+[No crash]
 patch=1,EE,2015BBA0,extended,24020000
 
-//Maximum crash damage points
+[Maximum crash damage points]
 patch=1,EE,20540044,extended,3B9AC9FF
 
-//Maximum burnout point
+[Maximum burnout point]
 patch=1,EE,20540040,extended,3B9AC9FF
 
-//3 LAP from the beginning
+[3 LAP from the beginning]
 patch=1,EE,D0672984,extended,00000000
 patch=1,EE,20672984,extended,00000002
 
-//All gold medals 172-173
+[All gold medals 172-173]
 patch=1,EE,40540384,extended,002B0001
 patch=1,EE,03030303,extended,00000000
 patch=1,EE,00540431,extended,00000003

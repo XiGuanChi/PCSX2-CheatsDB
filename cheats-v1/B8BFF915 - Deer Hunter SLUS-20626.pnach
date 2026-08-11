@@ -1,14 +1,14 @@
-//Cheats/Activate Cheat Codes Deer Visible On GPS
+[Cheats/Activate Cheat Codes Deer Visible On GPS]
 patch=1,EE,205343F4,extended,00000001
 
-//Cheats/Activate Cheat Codes Infinite Ammo
+[Cheats/Activate Cheat Codes Infinite Ammo]
 patch=1,EE,20534400,extended,00000001
 
-//Cheats/Activate Cheat Codes Easy Hit
+[Cheats/Activate Cheat Codes Easy Hit]
 patch=1,EE,205343E4,extended,00000001
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,20163458,extended,00000000
 
-//Cheats/Unlock All Locations
+[Cheats/Unlock All Locations]
 patch=1,EE,20535338,extended,FFFFFFFF

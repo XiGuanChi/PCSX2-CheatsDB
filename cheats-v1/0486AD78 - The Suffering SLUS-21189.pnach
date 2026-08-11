@@ -1,14 +1,14 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,03E00008
 patch=1,EE,200C0224,extended,E4800018
 patch=1,EE,20314C58,extended,08030088
 patch=1,EE,20314C5C,extended,C480001C
 
-//Cheats/Extra Health Kits and Ammo
+[Cheats/Extra Health Kits and Ammo]
 patch=1,EE,202839B8,extended,00511021
 
-//Cheats/Infinite Insanity
+[Cheats/Infinite Insanity]
 patch=1,EE,202B49BC,extended,00000000
 
-//Cheats/Infinite Flashlight Power
+[Cheats/Infinite Flashlight Power]
 patch=1,EE,20240FF4,extended,00000000

@@ -1,12 +1,12 @@
-//Cheats/Infinite Health On Foot
+[Cheats/Infinite Health On Foot]
 patch=1,EE,2039EAFC,extended,C4820184
 patch=1,EE,2039EB04,extended,E4820180
 
-//Cheats/Infinite Health In Car
+[Cheats/Infinite Health In Car]
 patch=1,EE,20537668,extended,3C0142C8
 patch=1,EE,20537678,extended,AE610080
 
-//Cheats/Infinite Health On Foot Alt
+[Cheats/Infinite Health On Foot Alt]
 patch=1,EE,2039EB0C,extended,C4820184
 patch=1,EE,2039EB14,extended,E4820180
 
@@ -14,37 +14,37 @@ patch=1,EE,2039EB14,extended,E4820180
 patch=1,EE,20538198,extended,3C0142C8
 patch=1,EE,205381A8,extended,AE610080
 
-//Cheats/Infinite Health Car only your car
+[Cheats/Infinite Health Car only your car]
 patch=1,EE,200A0000,extended,10400025
 patch=1,EE,200A0008,extended,3C0142C8
 patch=1,EE,200A000C,extended,AC410080
 patch=1,EE,200A009C,extended,03E00008
 patch=1,EE,20458480,extended,08028000
 
-//Cheats/Max Infinite Ammo
+[Cheats/Max Infinite Ammo]
 patch=1,EE,203CE6D4,extended,240203E7
 
-//Cheats/Never Reload With Max Clip
+[Cheats/Never Reload With Max Clip]
 patch=1,EE,203D0350,extended,24030063
 
-//Cheats/Less Vehicle Damage
+[Cheats/Less Vehicle Damage]
 patch=1,EE,20380DB0,extended,03E00008
 patch=1,EE,20380DB4,extended,00000000
 
-//Cheats/Vehicles Never Locked
+[Cheats/Vehicles Never Locked]
 patch=1,EE,20380BB0,extended,03E00008
 patch=1,EE,20380BB4,extended,24020000
 
-//Cheats/Visibility Never Increases
+[Cheats/Visibility Never Increases]
 patch=1,EE,20475C00,extended,00000000
 
-//Cheats/Cop Heat Never Increases
+[Cheats/Cop Heat Never Increases]
 patch=1,EE,204759A0,extended,03E00008
 patch=1,EE,204759A4,extended,00000000
 
-//Cheats/Always Gain Balls
+[Cheats/Always Gain Balls]
 patch=1,EE,1081B45C,extended,00000064
 
-//Cheats/Unlock Cheat Refill Health
+[Cheats/Unlock Cheat Refill Health]
 patch=1,EE,200C0100,extended,8C820524
 patch=1,EE,200C0104,extended,AC400000

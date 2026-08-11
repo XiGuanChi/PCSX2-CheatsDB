@@ -1,44 +1,44 @@
-//Cheats/Infinite Stamina
+[Cheats/Infinite Stamina]
 patch=1,EE,206A3D3C,extended,3F800000
 
-//Cheats/Infinite Health Head
+[Cheats/Infinite Health Head]
 patch=1,EE,206A3D50,extended,3F800000
 
-//Cheats/Infinite Health Right Arm
+[Cheats/Infinite Health Right Arm]
 patch=1,EE,206A3D54,extended,3F800000
 
-//Cheats/Infinite Health Left Arm
+[Cheats/Infinite Health Left Arm]
 patch=1,EE,206A3D58,extended,3F800000
 
-//Cheats/Infinite Health Right Leg
+[Cheats/Infinite Health Right Leg]
 patch=1,EE,206A3D5C,extended,3F800000
 
-//Cheats/Infinite Health Left Leg
+[Cheats/Infinite Health Left Leg]
 patch=1,EE,206A3D60,extended,3F800000
 
-//Cheats/Infinite Stealth
+[Cheats/Infinite Stealth]
 patch=1,EE,206A3D7C,extended,3F800000
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,20498D38,extended,00000000
 
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,206A3D08,extended,05F5E0FF
 
-//Cheats/Infinite Creation Points
+[Cheats/Infinite Creation Points]
 patch=1,EE,206A3D80,extended,3F800000
 
-//Cheats/God Mode On
+[Cheats/God Mode On]
 patch=1,EE,205AF068,extended,00000001
 
-//Cheats/Disable AI Think
+[Cheats/Disable AI Think]
 patch=1,EE,205AD590,extended,00000001
 
-//Cheats/Disable AI Actions
+[Cheats/Disable AI Actions]
 patch=1,EE,205AD598,extended,00000001
 
-//Cheats/Unlock Access All Subregions
+[Cheats/Unlock Access All Subregions]
 patch=1,EE,206A3F2C,extended,00000001
 
-//Cheats/Unlock All Subregions
+[Cheats/Unlock All Subregions]
 patch=1,EE,206A3D00,extended,00000011

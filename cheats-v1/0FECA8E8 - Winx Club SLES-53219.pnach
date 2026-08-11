@@ -1,16 +1,16 @@
-//Cheats/Max Energy
+[Cheats/Max Energy]
 patch=1,EE,0059b6d0,extended,00000018
 
-//Cheats/Infinite Energy
+[Cheats/Infinite Energy]
 patch=1,EE,0059b6d8,extended,00000018
 
-//Cheats/Have 999 Diamonds
+[Cheats/Have 999 Diamonds]
 patch=1,EE,1084470c,extended,000003e7
 
-//Cheats/Have 999 Stars
+[Cheats/Have 999 Stars]
 patch=1,EE,10844a14,extended,000003e7
 
-//Cheats/Have All 24 Dragon Seeds
+[Cheats/Have All 24 Dragon Seeds]
 patch=1,EE,0057176f,extended,00000001
 patch=1,EE,20571770,extended,01010101
 patch=1,EE,20571774,extended,01010101 

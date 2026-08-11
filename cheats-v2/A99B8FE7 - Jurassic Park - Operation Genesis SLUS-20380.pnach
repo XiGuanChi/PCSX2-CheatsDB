@@ -1,44 +1,44 @@
 gametitle=Jurassic Park - Operation Genesis SLUS-20380
-//Max Money
+[Max Money]
 patch=1,EE,20590F04,extended,05F5E0FF
 
-//Safari Codes Instant Win
+[Safari Codes Instant Win]
 patch=1,EE,200C0220,extended,8C820038
 patch=1,EE,200C0224,extended,0809898C
 patch=1,EE,200C0228,extended,AC820034
 patch=1,EE,201F86A8,extended,0C030088
 
-//Ranger Attack/Rescue Codes infinite Ammo
+[Ranger Attack/Rescue Codes infinite Ammo]
 patch=1,EE,201EBBBC,extended,00000000
 
-//Have Mission Completed Codes 
-//SafariA Picture's Worth 100 Points
+[Have Mission Completed Codes]
+[SafariA Picture's Worth 100 Points]
 patch=1,EE,20859368,extended,000000AB
 
-//Ranger AttackWhen Carnivores Attack
+[Ranger AttackWhen Carnivores Attack]
 patch=1,EE,2085936C,extended,0000012B
 
-//DinomusterTime To Get Moving
+[DinomusterTime To Get Moving]
 patch=1,EE,20859370,extended,0000006B
 
-//Safari Dinosaurs & Weather
+[Safari Dinosaurs & Weather]
 patch=1,EE,20859374,extended,0000008B
 
-//Ranger Rescue Rescue The President
+[Ranger Rescue Rescue The President]
 patch=1,EE,20859378,extended,0000022B
 
-//Safari Danger Club Photo Safari
+[Safari Danger Club Photo Safari]
 patch=1,EE,2085937C,extended,000000AB
 
-//Ranger Rescue Rescue Hammond
+[Ranger Rescue Rescue Hammond]
 patch=1,EE,20859380,extended,0000022B
 
-//Ranger Attack Cleanup Operation
+[Ranger Attack Cleanup Operation]
 patch=1,EE,20859384,extended,0000012B
 
-//DinomusterThe Amazing Maze
+[DinomusterThe Amazing Maze]
 patch=1,EE,20859388,extended,0000006B
 
-//Safari Jurassic Park Calender
+[Safari Jurassic Park Calender]
 patch=1,EE,2085938C,extended,000000AB
 

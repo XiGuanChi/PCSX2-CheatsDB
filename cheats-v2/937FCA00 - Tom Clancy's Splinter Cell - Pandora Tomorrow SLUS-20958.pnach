@@ -1,10 +1,10 @@
 gametitle=Tom Clancy's Splinter Cell - Pandora Tomorrow SLUS-20958
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20307678,extended,2402012C
 patch=1,EE,20307680,extended,AE420454
 
-//Always No Noise
+[Always No Noise]
 patch=1,EE,2030B1E4,extended,AE400330
 
-//Level Select Select Level From Load Level.
+[Level Select Select Level From Load Level.]
 patch=1,EE,20429CB8,extended,24020007

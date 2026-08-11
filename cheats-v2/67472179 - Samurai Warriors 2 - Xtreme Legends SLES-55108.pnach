@@ -1,32 +1,32 @@
 gametitle=Samurai Warriors 2 - Xtreme Legends SLES-55108
-//Invicible
+[Invicible]
 patch=1,EE,1048891E,extended,00001000
 
-//Weapons Strengh
+[Weapons Strengh]
 patch=1,EE,204888F8,extended,42000000
 
-//Max Gold After Stage
+[Max Gold After Stage]
 patch=1,EE,201A7B54,extended,00000000
 
-//Max Gold
+[Max Gold]
 patch=1,EE,204EA530,extended,0098967F
 
-//Max Orbs
+[Max Orbs]
 patch=1,EE,202D43C8,extended,24020063
 patch=1,EE,202D43D4,extended,A0622CC1
 
-//Max Points (General)
+[Max Points (General)]
 patch=1,EE,201AA9C4,extended,00000000
 
-//Max Points (Bodyguard)
+[Max Points (Bodyguard)]
 patch=1,EE,201ABCA4,extended,00000000
 
-//Steel Ratio Rise
+[Steel Ratio Rise]
 patch=1,EE,201AC234,extended,24030000
 
-//Anytime Multi-Stage Jump (Press: R2+R3=On, R2+L3=Off)
+[Anytime Multi-Stage Jump (Press: R2+R3=On, R2+L3=Off)]
 patch=1,EE,20258FB4,extended,00000000
 patch=1,EE,20258FC4,extended,00000000
 
-//Unlock All Characters (Musou Mode)
+[Unlock All Characters (Musou Mode)]
 patch=1,EE,2029C904,extended,24030001

@@ -1,19 +1,19 @@
-//Cheats/Infinite Creation Points
+[Cheats/Infinite Creation Points]
 patch=1,EE,00409A50,extended,00000096
 
-//Cheats/Max All Stats
+[Cheats/Max All Stats]
 patch=1,EE,20409A78,extended,FFFFFFFF
 patch=1,EE,10409A7C,extended,0000FFFF
 
-//Cheats/Infinite Health Player 1
+[Cheats/Infinite Health Player 1]
 patch=1,EE,20166C08,extended,00000000
 
-//Cheats/KO Punch P1
+[Cheats/KO Punch P1]
 patch=1,EE,00409001,extended,00000002
 
-//Cheats/Invincible P1
+[Cheats/Invincible P1]
 patch=1,EE,00409003,extended,00000002
 
-//Cheats/Last Round
+[Cheats/Last Round]
 patch=1,EE,00409008,extended,00000001
 

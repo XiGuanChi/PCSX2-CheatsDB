@@ -1,8 +1,8 @@
 gametitle=Kashimashi! Girl Meets Girl SLPS-25621
-//Unlock all album
+[Unlock all album]
 patch=1,EE,402DDDA0,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Unlock all Costume
+[Unlock all Costume]
 patch=1,EE,402DF018,extended,00070001
 patch=1,EE,FFFFFFFF,extended,00000000

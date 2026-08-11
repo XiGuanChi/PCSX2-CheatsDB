@@ -1,5 +1,5 @@
 gametitle=Bomberman Kart SLES-51302
-//Unlimited Ammunition All Weapons
+[Unlimited Ammunition All Weapons]
 patch=1,EE,200C0000,extended,1CA00023
 patch=1,EE,200C0004,extended,8C430AC4
 patch=1,EE,200C0008,extended,27BDFFD0
@@ -41,5 +41,5 @@ patch=1,EE,200C0094,extended,AE230000
 patch=1,EE,2013826C,extended,08030000
 patch=1,EE,20138270,extended,00000000
 
-//Grand Prix Mode: Player 1 Scores 99 Points
+[Grand Prix Mode: Player 1 Scores 99 Points]
 patch=1,EE,202C20CC,extended,00000063

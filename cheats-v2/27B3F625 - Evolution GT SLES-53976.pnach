@@ -1,19 +1,19 @@
 gametitle=Evolution GT SLES-53976
-//99 Skill Points after Using Some
+[99 Skill Points after Using Some]
 patch=1,EE,202B658C,extended,24040063
 
-//Freeze Timer
+[Freeze Timer]
 patch=1,EE,201F09E4,extended,00000000
 
-//No Damage
+[No Damage]
 patch=1,EE,202BCD7C,extended,3C0142C8
 patch=1,EE,202BCDA0,extended,4481A800
 patch=1,EE,202BCDB4,extended,AC410024
 
-//RPG mode Challenges/Seasons/Gear open
+[RPG mode Challenges/Seasons/Gear open]
 patch=1,EE,2027C4F0,extended,24030001
 patch=1,EE,2027C550,extended,24030001
 patch=1,EE,2027C5B4,extended,24040001
 
-//Lap Modifier - 9 Lap Races
+[Lap Modifier - 9 Lap Races]
 patch=1,EE,2033BF48,extended,24020009

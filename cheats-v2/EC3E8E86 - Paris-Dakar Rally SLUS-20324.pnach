@@ -1,24 +1,24 @@
 gametitle=Paris-Dakar Rally SLUS-20324
-//Always Low Time
+[Always Low Time]
 patch=1,EE,20178C68,extended,00000000
 
-//Infinite Repairs
+[Infinite Repairs]
 patch=1,EE,204D6AAC,extended,000003E7
 
-//Unlock All 4x4 Drive Vehicles
+[Unlock All 4x4 Drive Vehicles]
 patch=1,EE,004D8F4C,extended,0000000F
 
-//Unlock All Motorbike Vehicles
+[Unlock All Motorbike Vehicles]
 patch=1,EE,004D8F4D,extended,0000000F
 
-//Unlock All Buggy Vehicles
+[Unlock All Buggy Vehicles]
 patch=1,EE,004D8F4E,extended,0000000F
 
-//Unlock All Quad Vehicles
+[Unlock All Quad Vehicles]
 patch=1,EE,004D8F4F,extended,0000000F
 
-//Unlock All Stages (Arcade Mode)
+[Unlock All Stages (Arcade Mode)]
 patch=1,EE,204D6A8C,extended,0000FFFF
 
-//Unlock All Stages (Time Attack Mode)
+[Unlock All Stages (Time Attack Mode)]
 patch=1,EE,204D6A90,extended,0000FFFF

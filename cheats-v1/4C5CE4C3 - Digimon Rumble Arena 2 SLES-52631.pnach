@@ -1,10 +1,10 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,01B57A4E,extended,000000C8
 
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,01B57EC4,extended,00000003
 
-//Cheats/Unlock All
+[Cheats/Unlock All]
 patch=1,EE,2053D204,extended,00000001
 patch=1,EE,2053D208,extended,00000001
 patch=1,EE,2053D20C,extended,00000001

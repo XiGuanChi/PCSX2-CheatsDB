@@ -1,29 +1,29 @@
 gametitle=Driver - Parallel Lines SLES-54027
-//Infinite Health
+[Infinite Health]
 patch=1,EE,21ED6E00,extended,3F800000
 
-//Never Reload
+[Never Reload]
 patch=1,EE,20266580,extended,24420000
 
-//Infinite Nitro
+[Infinite Nitro]
 patch=1,EE,202E1B40,extended,00000000
 
-//All Vehicles Upgraded
+[All Vehicles Upgraded]
 patch=1,EE,406E29B0,extended,00620042
 patch=1,EE,0000FFF3,extended,00000000
 
-//Freeze Timers
+[Freeze Timers]
 patch=1,EE,20180920,extended,00000000
 patch=1,EE,20180918,extended,00000000
 
-//Enable Cheat Indestructible Cars
+[Enable Cheat Indestructible Cars]
 patch=1,EE,006E1ABB,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,006E1ABC,extended,00000001
 
-//Infinite Nitro
+[Infinite Nitro]
 patch=1,EE,006E1ABD,extended,00000001
 
-//Invincibility
+[Invincibility]
 patch=1,EE,006E1ABE,extended,00000001

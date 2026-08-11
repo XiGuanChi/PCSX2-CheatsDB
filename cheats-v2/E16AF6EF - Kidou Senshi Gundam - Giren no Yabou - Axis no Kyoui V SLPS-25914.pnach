@@ -1,32 +1,32 @@
 gametitle=Kidou Senshi Gundam - Giren no Yabou - Axis no Kyoui V SLPS-25914
-//Fund 9999999
+[Fund 9999999]
 patch=1,EE,213EB168,extended,0098967F
 
-//Resources 9999999
+[Resources 9999999]
 patch=1,EE,213EB16C,extended,0098967F
 
-//All tecnologies LV30
+[All tecnologies LV30]
 patch=1,EE,013EB14A,extended,0000001E
 patch=1,EE,013EB14B,extended,0000001E
 patch=1,EE,013EB196,extended,0000001E
 patch=1,EE,013EB197,extended,0000001E
 patch=1,EE,013EB198,extended,0000001E
 
-//Movement 99 Hold down R2 and select mobile unit
+[Movement 99 Hold down R2 and select mobile unit]
 patch=1,EE,201308B0,extended,93C30044
 patch=1,EE,D0D60DC2,extended,0000FDFF
 patch=1,EE,201308B0,extended,24030063
 
-//All units of your army Fatigue 0 + Morale 127 + Durability 70
+[All units of your army Fatigue 0 + Morale 127 + Durability 70]
 patch=1,EE,413EB24C,extended,0064000B
 patch=1,EE,00467F00,extended,00000000
 
-//All scenarios
+[All scenarios]
 patch=1,EE,11404104,extended,0000FFFF
 
-//DATA BASE All units can be viewed
+[DATA BASE All units can be viewed]
 patch=1,EE,2012740C,extended,A04416A0
 
-//DATA BASE All characters can be browsed
+[DATA BASE All characters can be browsed]
 patch=1,EE,201FCB5C,extended,24020001
 patch=1,EE,201FCB64,extended,A0620000

@@ -1,22 +1,22 @@
 gametitle=Gauntlet - Seven Sorrows SLES-53667
-//all Levels Infinite Mana
+[all Levels Infinite Mana]
 patch=1,EE,202046f8,extended,e4800004
 patch=1,EE,20204708,extended,e4800004
 
-//Infinite Health Player 1 - Level 2 
+[Infinite Health Player 1 - Level 2]
 patch=1,EE,21980C20,extended,43FB8000
 
-//Infinite Health Player 2 - Level 2 
+[Infinite Health Player 2 - Level 2]
 patch=1,EE,2195FD20,extended,43FC8000
 
-//Infinite Health Player 1 - Level 3 
+[Infinite Health Player 1 - Level 3]
 patch=1,EE,21D79200,extended,43FB8000
 
-//Infinite Health Player 2 - Level 3 
+[Infinite Health Player 2 - Level 3]
 patch=1,EE,21D2CFF0,extended,43FC8000
 
-//Infinite Health Player 1 - Level 4 
+[Infinite Health Player 1 - Level 4]
 patch=1,EE,21C59450,extended,43FE8000
 
-//Infinite Health Player 2 - Level 4 
+[Infinite Health Player 2 - Level 4]
 patch=1,EE,21BBA3E0,extended,4400C000

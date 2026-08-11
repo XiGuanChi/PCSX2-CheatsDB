@@ -1,23 +1,23 @@
 gametitle=Minna no Tennis - Everybody's Tennis SCPS-15113
-//Operating all players with 1P side controller
+[Operating all players with 1P side controller]
 patch=1,EE,002F1BE3,extended,00000000
 patch=1,EE,002F1BEF,extended,00000000
 patch=1,EE,002F1BFB,extended,00000000
 patch=1,EE,002F1B07,extended,00000000
 
-//Training menu (training selection
-//Comprehensive practice 9999 points
+[Training menu (training selection]
+[Comprehensive practice 9999 points]
 patch=1,EE,D0324920,extended,00006167
 patch=1,EE,203EFA8C,extended,13E00003
 
-//Serve practice 9999 points 
+[Serve practice 9999 points]
 patch=1,EE,D0324920,extended,00006167
 patch=1,EE,203EDD74,extended,13E00003
 
-//Volley practice 9999 points 
+[Volley practice 9999 points]
 patch=1,EE,D0324920,extended,00006167
 patch=1,EE,203EC0E8,extended,13E00003
 
-//Smash practice 9999 points 
+[Smash practice 9999 points]
 patch=1,EE,D0324920,extended,00006167
 patch=1,EE,203EED7C,extended,13E00003

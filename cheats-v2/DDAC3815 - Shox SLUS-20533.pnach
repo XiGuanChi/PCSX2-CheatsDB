@@ -1,30 +1,30 @@
 gametitle=Shox SLUS-20533
-//Max Money
+[Max Money]
 patch=1,EE,2035BC60,extended,05F5E0FF
 
-//Idiot AI
+[Idiot AI]
 patch=1,EE,202FFDB8,extended,00000001
 
-//Have Compact Gold Trophy
+[Have Compact Gold Trophy]
 patch=1,EE,0035BD70,extended,00000003
 
-//Have Sports Gold Trophy
+[Have Sports Gold Trophy]
 patch=1,EE,0035BD71,extended,00000003
 
-//Have Turbo Gold Trophy
+[Have Turbo Gold Trophy]
 patch=1,EE,0035BD72,extended,00000003
 
-//Have Power Gold Trophy
+[Have Power Gold Trophy]
 patch=1,EE,0035BD73,extended,00000003
 
-//Have All Compact Stages
+[Have All Compact Stages]
 patch=1,EE,0035BC2B,extended,00000006
 
-//Have All Sports Stages
+[Have All Sports Stages]
 patch=1,EE,0035BC2C,extended,00000006
 
-//Have All Turbo Stages
+[Have All Turbo Stages]
 patch=1,EE,0035BC2D,extended,00000006
 
-//Have All Power Stages
+[Have All Power Stages]
 patch=1,EE,0035BC2E,extended,00000006

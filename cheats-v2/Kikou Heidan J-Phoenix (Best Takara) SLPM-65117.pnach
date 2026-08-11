@@ -1,30 +1,30 @@
 gametitle=Kikou Heidan J-Phoenix (Best Takara) SLPM-65117
-//Gold 99900
+[Gold 99900]
 patch=1,EE,20118B34,extended,AE020010
 
-//Recovery Soon
+[Recovery Soon]
 patch=1,EE,20188DE0,extended,00000000
 patch=1,EE,20188DE4,extended,A4430074
 patch=1,EE,10188E0A,extended,00001000
 
-//Gold maximum when going to LABO
+[Gold maximum when going to LABO]
 patch=1,EE,20118B34,extended,AE020010
 
-//Instant HP Recovery
+[Instant HP Recovery]
 patch=1,EE,20188DE0,extended,00000000
 patch=1,EE,20188DE4,extended,A4430074
 
-//I don't like EN
+[I don't like EN]
 patch=1,EE,2015CFAC,extended,00000000
 patch=1,EE,2015CFE4,extended,24027000
 
-//Garage assembled no shortage of output
+[Garage assembled no shortage of output]
 patch=1,EE,1011C6D2,extended,0000A620
 patch=1,EE,1011C6DE,extended,00001000
 
-//Garage assembled no excess weight
+[Garage assembled no excess weight]
 patch=1,EE,1011C72E,extended,0000A620
 patch=1,EE,1011C736,extended,00001000
 
-//Weapons can be used even if power is insufficient
+[Weapons can be used even if power is insufficient]
 patch=1,EE,20173BBC,extended,00000000

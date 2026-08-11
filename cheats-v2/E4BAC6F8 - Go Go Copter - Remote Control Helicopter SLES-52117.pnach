@@ -1,10 +1,10 @@
 gametitle=Go Go Copter - Remote Control Helicopter SLES-52117
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,2013A22C,extended,24003634
 
-//Unlock All Challenges
+[Unlock All Challenges]
 patch=1,EE,21FFAD7C,extended,00000004
 
-//Unlock All Helicopters
+[Unlock All Helicopters]
 patch=1,EE,21FFAD74,extended,FFFFFFFF
 patch=1,EE,21FFAD78,extended,FFFFFFFF

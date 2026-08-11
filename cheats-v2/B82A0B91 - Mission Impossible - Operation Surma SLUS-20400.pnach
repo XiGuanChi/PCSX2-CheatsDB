@@ -1,23 +1,23 @@
 gametitle=Mission Impossible - Operation Surma SLUS-20400
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2020EE24,extended,0C030800
 patch=1,EE,200C2000,extended,8E440018
 patch=1,EE,200C2004,extended,03E00008
 patch=1,EE,200C2008,extended,E4620040
 
-//Never Reload
+[Never Reload]
 patch=1,EE,201E3430,extended,00000000
 
-//Stealth Enemies & Cameras Are Blind
+[Stealth Enemies & Cameras Are Blind]
 patch=1,EE,20116138,extended,20020001
 
-//Stealth No Alarms
+[Stealth No Alarms]
 patch=1,EE,202B8B28,extended,24020001
 
-//Unlock Missions Only
+[Unlock Missions Only]
 patch=1,EE,1087F60C,extended,0000001C
 
-//Unlock All Objectives
+[Unlock All Objectives]
 patch=1,EE,2087EC14,extended,44AB9789
 patch=1,EE,2087EC18,extended,00000001
 patch=1,EE,2087EC40,extended,00000001

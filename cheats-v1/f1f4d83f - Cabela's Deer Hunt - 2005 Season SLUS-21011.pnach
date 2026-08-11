@@ -1,34 +1,34 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,206584F8,extended,05F5E0FF
 
-//Cheats/Infinite Condition
+[Cheats/Infinite Condition]
 patch=1,EE,2046CA94,extended,00000000
 
-//Cheats/Infinite Hydration
+[Cheats/Infinite Hydration]
 patch=1,EE,2046CC90,extended,00000000
 
-//Cheats/Infinite Stamina
+[Cheats/Infinite Stamina]
 patch=1,EE,2046CE50,extended,00000000
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,2048A648,extended,00000000
 
-//Cheats/Unlock View Gear To Unlock Them
+[Cheats/Unlock View Gear To Unlock Them]
 patch=1,EE,2050B7CC,extended,24030000
 patch=1,EE,2050B7DC,extended,AE630484
 
-//Cheats/Unlock View Contests To Unlock Them
+[Cheats/Unlock View Contests To Unlock Them]
 patch=1,EE,200C0220,extended,24110001
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,A0D101BC
 patch=1,EE,20518A5C,extended,0C030088
 
-//Cheats/Unlock View Missions To Unlock Them
+[Cheats/Unlock View Missions To Unlock Them]
 patch=1,EE,200C0230,extended,24100001
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,A05001AA
 patch=1,EE,20517A1C,extended,0C03008C
 
-//Cheats/Unlock View Locations To Unlock Them
+[Cheats/Unlock View Locations To Unlock Them]
 patch=1,EE,205156F8,extended,24030001
 patch=1,EE,205156FC,extended,A04301C6

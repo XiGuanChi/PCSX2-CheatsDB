@@ -1,30 +1,30 @@
 gametitle=Big Mutha Truckers 2 SLES-52980
-//Freeze Timers
+[Freeze Timers]
 patch=1,EE,201F5B54,extended,00000000
 patch=1,EE,201F5B68,extended,00000000
 
-//Max Cash
+[Max Cash]
 patch=1,EE,201A6820,extended,00000000
 patch=1,EE,201A682C,extended,AC8200C0
 
-//Extra Time per Checkpoint
+[Extra Time per Checkpoint]
 patch=1,EE,201F5D88,extended,3C014610
 patch=1,EE,201F5D90,extended,AC810140
 
-//No Damage
+[No Damage]
 patch=1,EE,201E70F4,extended,24030000
 
-//Open Gallery
+[Open Gallery]
 patch=1,EE,2022299C,extended,24030000
 
-//Activate Cheat Codes MISSIONS
+[Activate Cheat Codes MISSIONS]
 patch=1,EE,2059A718,extended,00000000
 
-//Activate Cheat Codes NODAMAGE
+[Activate Cheat Codes NODAMAGE]
 patch=1,EE,2059A724,extended,00000000
 
-//Activate Cheat Codes CASH
+[Activate Cheat Codes CASH]
 patch=1,EE,2059A728,extended,00000000
 
-//Activate Cheat Codes GALLERY
+[Activate Cheat Codes GALLERY]
 patch=1,EE,2059A748,extended,00000000

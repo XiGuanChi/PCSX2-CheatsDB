@@ -1,22 +1,22 @@
 gametitle=Crash of the Titans SLES-54843
-//Quick Max Mojo
+[Quick Max Mojo]
 patch=1,EE,2038e24c,extended,3C023B9A
 patch=1,EE,2038e250,extended,3442C9FF
 
-//Quick Max Green Mojo
+[Quick Max Green Mojo]
 patch=1,EE,2038e23c,extended,3C063B9A
 patch=1,EE,2038e244,extended,3463C9FF
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,101934f4,extended,00000000
 
-//Extra Lives
+[Extra Lives]
 patch=1,EE,101934f4,extended,00000001
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20200488,extended,3C0142B4
 patch=1,EE,2020048c,extended,AC410004
 patch=1,EE,10200492,extended,00001000
 
-//Infinite Power (Mounts)
+[Infinite Power (Mounts)]
 patch=1,EE,201cabe4,extended,00000000

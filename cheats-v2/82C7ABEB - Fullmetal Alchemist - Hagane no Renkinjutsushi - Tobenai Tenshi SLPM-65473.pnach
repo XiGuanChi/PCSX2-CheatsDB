@@ -1,25 +1,25 @@
 gametitle=Fullmetal Alchemist - Hagane no Renkinjutsushi - Tobenai Tenshi SLPM-65473
-//maximum bonus point
+[maximum bonus point]
 patch=1,EE,20136CE4,extended,14200000
 
-//HP & physical strength (Edward and Alphonse ) Alphonse shared) 
+[HP & physical strength (Edward and Alphonse ) Alphonse shared)]
 patch=1,EE,20136DE4,extended,14200000
 
-//Edward training power 
+[Edward training power]
 patch=1,EE,20136D64,extended,14200000
 
-//Edward Lv 
+[Edward Lv]
 patch=1,EE,002CB368,extended,00000063
 
-//HP 
+[HP]
 patch=1,EE,102CB36C,extended,000003E7
 
-//attack power 
+[attack power]
 patch=1,EE,102CB36E,extended,000003E7
 
-//defense power 
+[defense power]
 patch=1,EE,102CB370,extended,000003E7
 
-//training power 
+[training power]
 patch=1,EE,102CB372,extended,000003E7
 

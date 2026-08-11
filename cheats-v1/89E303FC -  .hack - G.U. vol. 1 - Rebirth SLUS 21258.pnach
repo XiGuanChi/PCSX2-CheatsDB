@@ -1,76 +1,76 @@
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,20AC91C8,extended,FFFFFFFF
 patch=1,EE,20AC91CC,extended,FFFFFFFF
 
-//Cheats/Unlock All Characters Online And Never Busy
+[Cheats/Unlock All Characters Online And Never Busy]
 patch=1,EE,20AC91D8,extended,FFFFFFFF
 patch=1,EE,20AC91DC,extended,FFFFFFFF
 patch=1,EE,20AC91D0,extended,00000000
 
-//Cheats/Max Money Starting New Game
+[Cheats/Max Money Starting New Game]
 patch=1,EE,1016904c,extended,00007FFF
 
-//Cheats/Max Greeting Cards
+[Cheats/Max Greeting Cards]
 patch=1,EE,20AC9100,extended,63636363
 patch=1,EE,20AC9104,extended,63636363
 patch=1,EE,10AC9108,extended,00006363
 patch=1,EE,00AC910A,extended,00000063
 
-//Cheats/Min Time
+[Cheats/Min Time]
 patch=1,EE,20ABFEB8,extended,00000000
 
-//Cheats/Max Time
+[Cheats/Max Time]
 patch=1,EE,20ABFEB8,extended,0CDFe5c5
 
-//Cheats/Max GP
+[Cheats/Max GP]
 patch=1,EE,20ABFEC0,extended,05F5E0FF
 
-//Cheats/Infinite GP
+[Cheats/Infinite GP]
 patch=1,EE,10ABFEC0,extended,0000FFFF
 
-//Cheats/Max Chims
+[Cheats/Max Chims]
 patch=1,EE,10ACD530,extended,00000063
 
-//Cheats/Haseo Level 50
+[Cheats/Haseo Level 50]
 patch=1,EE,00ABFEBC,extended,00000032
 
-//Cheats/Haseo Main Character Max HP
+[Cheats/Haseo Main Character Max HP]
 patch=1,EE,20ABFEC4,extended,0001869F
 
-//Cheats/Haseo Main Character Max SP
+[Cheats/Haseo Main Character Max SP]
 patch=1,EE,20ABFEC8,extended,0001869F
 
-//Cheats/Haseo Max P-ATK
+[Cheats/Haseo Max P-ATK]
 patch=1,EE,10ABFECC,extended,0000270F
 
-//Cheats/Haseo Max P-DEF
+[Cheats/Haseo Max P-DEF]
 patch=1,EE,10ABFECE,extended,0000270F
 
-//Cheats/Haseo Max M-ATK
+[Cheats/Haseo Max M-ATK]
 patch=1,EE,10ABFED0,extended,0000270F
 
-//Cheats/Haseo Max M-DEF
+[Cheats/Haseo Max M-DEF]
 patch=1,EE,10ABFED2,extended,0000270F
 
-//Cheats/Haseo Max Fire
+[Cheats/Haseo Max Fire]
 patch=1,EE,10ABFED4,extended,0000270F
 
-//Cheats/Haseo Max Water
+[Cheats/Haseo Max Water]
 patch=1,EE,10ABFED6,extended,0000270F
 
-//Cheats/Haseo Max Wind
+[Cheats/Haseo Max Wind]
 patch=1,EE,10ABFED8,extended,0000270F
 
-//Cheats/Haseo Max Earth
+[Cheats/Haseo Max Earth]
 patch=1,EE,10ABFEDA,extended,0000270F
 
-//Cheats/Haseo Max Light
+[Cheats/Haseo Max Light]
 patch=1,EE,10ABFEDC,extended,0000270F
 
-//Cheats/Haseo Max Dark
+[Cheats/Haseo Max Dark]
 patch=1,EE,10ABFEDE,extended,0000270F
 
-//Cheats/Haseo Max Weapon Skill Level
+[Cheats/Haseo Max Weapon Skill Level]
 patch=1,EE,10AC09FE,extended,00000014
 patch=1,EE,10AC0A00,extended,00000014
 patch=1,EE,10AC0A02,extended,00000014

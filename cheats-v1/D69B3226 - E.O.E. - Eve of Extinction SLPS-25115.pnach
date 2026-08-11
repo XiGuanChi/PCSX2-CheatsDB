@@ -1,12 +1,12 @@
-//Cheats/All Weapons Level Max
+[Cheats/All Weapons Level Max]
 patch=1,EE,202F8FEC,extended,05050505
 patch=1,EE,202F8FF0,extended,05050505
 patch=1,EE,202F8FF4,extended,00050505
 
-//Cheats/All Weapons
+[Cheats/All Weapons]
 patch=1,EE,202F801C,extended,7FFFFFFF
 
-//Cheats/Unlock Special Game
+[Cheats/Unlock Special Game]
 patch=1,EE,202F94D4,extended,00000001
 patch=1,EE,202F94D8,extended,00000001
 patch=1,EE,202F94DC,extended,00000001
@@ -14,10 +14,10 @@ patch=1,EE,202F94E0,extended,00000001
 patch=1,EE,202F94E4,extended,00000001
 patch=1,EE,202F94E8,extended,00000001
 
-//Cheats/Unlock All Action Movies
+[Cheats/Unlock All Action Movies]
 patch=1,EE,2031B840,extended,FFFFFFFF
 
-//Cheats/Unlock All Bonus can be used After pressing the L3 + R3 button on the title screen
+[Cheats/Unlock All Bonus can be used After pressing the L3 + R3 button on the title screen]
 patch=1,EE,D02F7D02,extended,0000FFF9
 patch=1,EE,002F90D9,extended,00000001
 patch=1,EE,D02F7D02,extended,0000FFF9

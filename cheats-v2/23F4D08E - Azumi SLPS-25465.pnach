@@ -1,25 +1,25 @@
 gametitle=Azumi SLPS-25465
-//Infinite Life
+[Infinite Life]
 patch=1,EE,204EE08C,extended,03E703E7
 
-//Combat ward 99
+[Combat ward 99]
 patch=1,EE,004EE14F,extended,00000063
 
-//Invincible in combat
+[Invincible in combat]
 patch=1,EE,204EE0A4,extended,40400000
 
-//Bomb 99
+[Bomb 99]
 patch=1,EE,004EE150,extended,00000063
 
-//Kunai 99
+[Kunai 99]
 patch=1,EE,004EE14F,extended,00000063
 
-//all Equipment 
+[all Equipment]
 patch=1,EE,104EE96C,extended,0000FFFF
 
-//all Ornaments 
+[all Ornaments]
 patch=1,EE,204EE970,extended,FFFFFFFF
 
-//Kill 999 people
+[Kill 999 people]
 patch=1,EE,104EE148,extended,000003E7
 

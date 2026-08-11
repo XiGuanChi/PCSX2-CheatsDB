@@ -1,19 +1,19 @@
 gametitle=Okami SLES-54439
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20686770,extended,11941194
 
-//Infinite Ink Pot
+[Infinite Ink Pot]
 patch=1,EE,204AE368,extended,00025800
 patch=1,EE,204AE36C,extended,00025800
 
-//Max Astral Pouches
+[Max Astral Pouches]
 patch=1,EE,10686776,extended,00000320
 
-//Max Purse
+[Max Purse]
 patch=1,EE,104AE374,extended,00000103
 
-//Infinite Money
+[Infinite Money]
 patch=1,EE,204AE370,extended,05F5E0FF
 
-//All Brush Powers
+[All Brush Powers]
 patch=1,EE,204F5728,extended,FFFFFFFF

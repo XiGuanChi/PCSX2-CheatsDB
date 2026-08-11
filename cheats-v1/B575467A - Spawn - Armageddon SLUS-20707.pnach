@@ -1,23 +1,23 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,08087C2C
 patch=1,EE,200C0224,extended,E62D01D4
 patch=1,EE,201614B0,extended,0C030088
 
-//Cheats/Infinite Necroplasm
+[Cheats/Infinite Necroplasm]
 patch=1,EE,20339580,extended,42C80000
 
-//Cheats/Infinite Souls Power-up Screen
+[Cheats/Infinite Souls Power-up Screen]
 patch=1,EE,20339594,extended,000003E7
 
-//Cheats/Have All Weapons
+[Cheats/Have All Weapons]
 patch=1,EE,10339944,extended,0000FFFF
 patch=1,EE,1033D3D4,extended,0000FFFF
 
-//Cheats/Infinite Ammo All Weapons
+[Cheats/Infinite Ammo All Weapons]
 patch=1,EE,2016B4EC,extended,00000000
 patch=1,EE,2016C130,extended,00000000
 
-//Cheats/Unlock All Comic Gallery
+[Cheats/Unlock All Comic Gallery]
 patch=1,EE,10339946,extended,0000FFFF
 patch=1,EE,20339948,extended,FFFFFFFF
 patch=1,EE,2033994C,extended,FFFFFFFF
@@ -27,13 +27,13 @@ patch=1,EE,2033D3D8,extended,FFFFFFFF
 patch=1,EE,2033D3DC,extended,FFFFFFFF
 patch=1,EE,2033D3E0,extended,FFFFFFFF
 
-//Cheats/Unlock All Encyclopedia
+[Cheats/Unlock All Encyclopedia]
 patch=1,EE,0033995F,extended,000000FF
 patch=1,EE,20339960,extended,FFFFFFFF
 patch=1,EE,0033D3EF,extended,000000FF
 patch=1,EE,2033D3F0,extended,FFFFFFFF
 
-//Cheats/Enable Debug Menu Hold Select button at Dolby Logo screen X to accept or toggle an option.D-Pad Left / Right to change an option. Select to enable scrolling of the top menu bar.Triangle to start the game normally.Menu Option Level Changes the level category.SubLev	Changes the sub level.Position Spawns you in different locations.Camera Number Display Displays debug information on-screen while in-game.Widescreen ModeToggles widescreen mode.Slow Motion  has no effect on the PS2 version.Disable Hell Doors Display Blood Effects	Turns blood on or off
+[Cheats/Enable Debug Menu Hold Select button at Dolby Logo screen X to accept or toggle an option.D-Pad Left / Right to change an option. Select to enable scrolling of the top menu bar.Triangle to start the game normally.Menu Option Level Changes the level category.SubLev	Changes the sub level.Position Spawns you in different locations.Camera Number Display Displays debug information on-screen while in-game.Widescreen ModeToggles widescreen mode.Slow Motion  has no effect on the PS2 version.Disable Hell Doors Display Blood Effects	Turns blood on or off]
 patch=1,EE,20210158,extended,00000000
 patch=1,EE,D02F0102,extended,0000FFFE
 patch=1,EE,10226388,extended,0000995C

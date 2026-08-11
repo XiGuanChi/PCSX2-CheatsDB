@@ -1,18 +1,18 @@
 gametitle=Karaoke Revolution Country - CMT Presents SLUS-21329
-//Always Max Crowd Meter 
+[Always Max Crowd Meter]
 patch=1,EE,20125348,extended,3C014000
 patch=1,EE,2012534C,extended,44810000
 patch=1,EE,20124988,extended,00000000
 
-//Access All Locked Clothing 
+[Access All Locked Clothing]
 patch=1,EE,2019BCBC,extended,00000000
 
-//Unlock All Clothing 
+[Unlock All Clothing]
 patch=1,EE,2019BC9C,extended,24020001
 patch=1,EE,2019BCA0,extended,AC82000C
 
-//Max Total Points 
+[Max Total Points]
 patch=1,EE,20401620,extended,05F5E0FF
 
-//Have All Songs Completed 
+[Have All Songs Completed]
 patch=1,EE,20401680,extended,00000028

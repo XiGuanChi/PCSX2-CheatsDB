@@ -1,42 +1,42 @@
 gametitle=.hack -Zettai Houi Vol. 4 SLPS-25202
-//Clear flag ON You need to save once.
+[Clear flag ON You need to save once.]
 patch=1,EE,00B37A82,extended,00000004
 
-//98 items when event items change
+[98 items when event items change]
 patch=1,EE,20177570,extended,24100062
 
-//98 items when normal items change
+[98 items when normal items change]
 patch=1,EE,20177648,extended,24020062
 
-//Erosion degree 0 when data drain
+[Erosion degree 0 when data drain]
 patch=1,EE,20178B34,extended,A600676E
 
-//Time stop of the god of time
+[Time stop of the god of time]
 patch=1,EE,2016724C,extended,00001021
 
-//Petit Guso Race Time Stop
+[Petit Guso Race Time Stop]
 patch=1,EE,D0619610,extended,0000282D
 patch=1,EE,20619614,extended,24060001
 patch=1,EE,D0619610,extended,0000282D
 patch=1,EE,2061961C,extended,A6A60090
 
-//With one level up HP 9999
+[With one level up HP 9999]
 patch=1,EE,D05AEBF8,extended,00000003
 patch=1,EE,205AEBF8,extended,14200001
 patch=1,EE,D05AEC70,extended,00000003
 patch=1,EE,205AEC70,extended,14200001
 
-//With one level up SP 999
+[With one level up SP 999]
 patch=1,EE,D05AEC28,extended,00000003
 patch=1,EE,205AEC28,extended,14200001
 patch=1,EE,D05AEC88,extended,00000003
 patch=1,EE,205AEC88,extended,14200001
 
-//With one level up Level 99
+[With one level up Level 99]
 patch=1,EE,D05AECAC,extended,00000007
 patch=1,EE,205AECAC,extended,14400001
 
-//Possession of all event items
+[Possession of all event items]
 patch=1,EE,00B38B65,extended,00000001
 patch=1,EE,10B38B66,extended,00000101
 patch=1,EE,20B38B68,extended,01010101
@@ -53,36 +53,36 @@ patch=1,EE,20B38A90,extended,01010101
 patch=1,EE,20B38A94,extended,01010101
 patch=1,EE,20B38A98,extended,00010101
 
-//Video data can be viewed even if it is not cleared
+[Video data can be viewed even if it is not cleared]
 patch=1,EE,D0436F0C,extended,00001040
 patch=1,EE,20436FC8,extended,10200001
 
-//Possess all the books of 800 Yuku
+[Possess all the books of 800 Yuku]
 patch=1,EE,00B38B5D,extended,00000001
 patch=1,EE,10B38B5E,extended,00000101
 patch=1,EE,20B38B60,extended,01010101
 patch=1,EE,10B38B64,extended,00000001
 
-//All can be called
+[All can be called]
 patch=1,EE,20B39F70,extended,001FFFFF
 patch=1,EE,20B39F74,extended,001FFFFF
 patch=1,EE,20B39F7C,extended,001FFFFF
 
-//All wallpaper data
+[All wallpaper data]
 patch=1,EE,20B39F88,extended,FFFFFFFF
 patch=1,EE,20B39F8C,extended,FFFFFFFF
 patch=1,EE,20B39F90,extended,00FFFFFF
 
-//All BGM data
+[All BGM data]
 patch=1,EE,20B39F94,extended,FFFFFFFF
 patch=1,EE,20B39F98,extended,FFFFFFFF
 patch=1,EE,20B39F9C,extended,0007FFFF
 
-//All video data
+[All video data]
 patch=1,EE,20B39FA0,extended,FFFFFFFF
 patch=1,EE,20B39FA4,extended,FFFFFFFF
 patch=1,EE,20B39FA8,extended,FFFFFFFF
 patch=1,EE,00B39FAC,extended,0000003F
 
-//The book of 800 verses Ichi (Position) Liu's BookNumber of times I went to the area
+[The book of 800 verses Ichi (Position) Liu's BookNumber of times I went to the area]
 patch=1,EE,10B3E5B2,extended,0000270F

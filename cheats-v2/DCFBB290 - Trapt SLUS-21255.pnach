@@ -1,24 +1,24 @@
 gametitle=Trapt SLUS-21255
-//1 Hit Kill
+[1 Hit Kill]
 patch=1,EE,2016CE34,extended,2403FFFF
 
-//Invincible
+[Invincible]
 patch=1,EE,20176D18,extended,00000000
 patch=1,EE,20176D34,extended,00000000
 
-//Ark Max after Clearing Mission
+[Ark Max after Clearing Mission]
 patch=1,EE,20170E94,extended,00000000
 
-//Warl Max after Clearing Mission
+[Warl Max after Clearing Mission]
 patch=1,EE,20170Ec0,extended,00000000
 
-//Max combo(99)
+[Max combo(99)]
 patch=1,EE,202D58DC,extended,00000000
 
-//Zero Charge Time
+[Zero Charge Time]
 patch=1,EE,20254B08,extended,00000000
 
-//Costume selective possibility
+[Costume selective possibility]
 patch=1,EE,20229CB4,extended,2402000F
 patch=1,EE,20229CD0,extended,AC820D14
 patch=1,EE,20229CD4,extended,10000004

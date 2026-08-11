@@ -1,17 +1,17 @@
 gametitle=Eureka Seven - TR1 - New Wave SLPS-25554
-//Money maximum
+[Money maximum]
 patch=1,EE,203E0E84,extended,05F5E100
 
-//Maximum mission funding Appears in Episode.4.
+[Maximum mission funding Appears in Episode.4.]
 patch=1,EE,203E0E88,extended,05F5E100
 
-//Weapon Instant Reload (Player Only) Only LFO weapons can be fired continuously by hitting the fire button repeatedly.
+[Weapon Instant Reload (Player Only) Only LFO weapons can be fired continuously by hitting the fire button repeatedly.]
 patch=1,EE,202D6BE0,extended,AC800268
 patch=1,EE,202D6BE4,extended,AC800278
 patch=1,EE,202D6BE8,extended,03E00008
 patch=1,EE,202D6BEC,extended,8C82026C
 
-//All mission modes (save data required)Please create save data in story mode in advance.
+[All mission modes (save data required)Please create save data in story mode in advance.]
 patch=1,EE,003E0E30,extended,00000007
 patch=1,EE,003E0E32,extended,00000007
 patch=1,EE,003E0E3A,extended,00000007
@@ -29,17 +29,17 @@ patch=1,EE,203E0E40,extended,07070707
 patch=1,EE,203E0E4C,extended,07070707
 patch=1,EE,203E0E50,extended,07070707
 
-//Samna: Maintaining maximum physical strength
+[Samna: Maintaining maximum physical strength]
 patch=1,EE,2021CF90,extended,8E6207E4
 patch=1,EE,2021CF98,extended,AE6207E0
 
-//Maintaining the maximum AP of your LFO
+[Maintaining the maximum AP of your LFO]
 patch=1,EE,2021CFB8,extended,8E6207E4
 patch=1,EE,2021CFC0,extended,AE6207E0
 
-//Samna: Stamina & LFO Boost Maximum Maintenance
+[Samna: Stamina & LFO Boost Maximum Maintenance]
 patch=1,EE,20299488,extended,C4600854
 patch=1,EE,20299494,extended,E4600850
 
-//Samna Health level 99
+[Samna Health level 99]
 patch=1,EE,203E1054,extended,00000063

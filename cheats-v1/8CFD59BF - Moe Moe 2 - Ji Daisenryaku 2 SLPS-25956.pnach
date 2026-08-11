@@ -1,26 +1,26 @@
-//Cheats/Infinite HP In Battle First United States unit
+[Cheats/Infinite HP In Battle First United States unit]
 patch=1,EE,21385360,extended,000003E7
 patch=1,EE,21385330,extended,000003E7
 
-//Cheats/Infinite HP In Battle Second United States unit
+[Cheats/Infinite HP In Battle Second United States unit]
 patch=1,EE,213A77E0,extended,000003E7
 patch=1,EE,213A77B0,extended,000003E7
 
-//Cheats/Infinite HP In Battle Third United States unit
+[Cheats/Infinite HP In Battle Third United States unit]
 patch=1,EE,213C9C30,extended,000003E7
 patch=1,EE,213C9C60,extended,000003E7
 
-//Cheats/Required Code
+[Cheats/Required Code]
 patch=1,EE,20241958,extended,03E00008
 patch=1,EE,D061451C,extended,0000FEFF
 patch=1,EE,20241958,extended,0803FE00
 patch=1,EE,200FF8F8,extended,03E00008
 patch=1,EE,200FF8FC,extended,8C820030
 
-//Cheats/HP recovery Hold L2 and move the cursor to the target unit
+[Cheats/HP recovery Hold L2 and move the cursor to the target unit]
 patch=1,EE,200FF800,extended,8C820010
 patch=1,EE,200FF804,extended,AC820030
 
-//Cheats/EP recovery Hold L2 and move the cursor to the target unit
+[Cheats/EP recovery Hold L2 and move the cursor to the target unit]
 patch=1,EE,200FF808,extended,8C820014
 patch=1,EE,200FF80C,extended,AC820034

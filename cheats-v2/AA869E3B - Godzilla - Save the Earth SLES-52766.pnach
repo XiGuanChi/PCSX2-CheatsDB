@@ -1,13 +1,13 @@
 gametitle=Godzilla - Save the Earth SLES-52766
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,206E645C,extended,437A0000
 
-//Infinite Health Player 2
+[Infinite Health Player 2]
 patch=1,EE,206F345C,extended,437A0000
 
-//No Health Player 2 Press Select
+[No Health Player 2 Press Select]
 patch=1,EE,D0BE3F88,extended,00000800
 patch=1,EE,206F345C,extended,00000000
 
-//Mamixum Points
+[Mamixum Points]
 patch=1,EE,206A4348,extended,05F5E0FF

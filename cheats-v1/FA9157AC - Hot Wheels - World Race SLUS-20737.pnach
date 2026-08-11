@@ -1,232 +1,232 @@
-//Cheats/Infinite Time Challenge Mode
+[Cheats/Infinite Time Challenge Mode]
 patch=1,EE,201A9484,extended,00000000
 
-//Cheats/Infinite Nitro X2
+[Cheats/Infinite Nitro X2]
 patch=1,EE,201BFDA8,extended,3C013F80
 patch=1,EE,201BFDB0,extended,AC410000
 
-//Cheats/Get 1 Pickup For Max Pickups
+[Cheats/Get 1 Pickup For Max Pickups]
 patch=1,EE,201A30EC,extended,24020063
 
-//Cheats/Start On Last Lap
+[Cheats/Start On Last Lap]
 patch=1,EE,200C0220,extended,00602021
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AC440390
 patch=1,EE,201E940C,extended,0C030088
 
-//Cheats/Unlock All Tracks
+[Cheats/Unlock All Tracks]
 patch=1,EE,408E33D0,extended,000F0208
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Unlock Roadbeasts Team Jerry Boylan
+[Cheats/Unlock Roadbeasts Team Jerry Boylan]
 patch=1,EE,208F7478,extended,00000000
 
-//Cheats/Unlock Roadbeasts Team Banjee Castillo
+[Cheats/Unlock Roadbeasts Team Banjee Castillo]
 patch=1,EE,208F7838,extended,00000000
 
-//Cheats/Unlock Roadbeasts Team Pete Karris
+[Cheats/Unlock Roadbeasts Team Pete Karris]
 patch=1,EE,208F7C38,extended,00000000
 
-//Cheats/Unlock Roadbeasts Team Skeet
+[Cheats/Unlock Roadbeasts Team Skeet]
 patch=1,EE,208F8038,extended,00000000
 
-//Cheats/Unlock Roadbeasts Team Ric Handy
+[Cheats/Unlock Roadbeasts Team Ric Handy]
 patch=1,EE,208F8438,extended,00000000
 
-//Cheats/Unlock Roadbeasts Team Vucatan
+[Cheats/Unlock Roadbeasts Team Vucatan]
 patch=1,EE,208F8838,extended,00000000
 
-//Cheats/Unlock Roadbeasts Team Esmeralda Sanchez
+[Cheats/Unlock Roadbeasts Team Esmeralda Sanchez]
 patch=1,EE,208F8C38,extended,00000000
 
-//Cheats/Unlock Wave Rippers Team Lani Tam
+[Cheats/Unlock Wave Rippers Team Lani Tam]
 patch=1,EE,208F9038,extended,00000000
 
-//Cheats/Unlock Wave Rippers Team Josef 'Vert' Wheeler
+[Cheats/Unlock Wave Rippers Team Josef 'Vert' Wheeler]
 patch=1,EE,208F9438,extended,00000000
 
-//Cheats/Unlock Wave Rippers Team Finn Serpa
+[Cheats/Unlock Wave Rippers Team Finn Serpa]
 patch=1,EE,208F9838,extended,00000000
 
-//Cheats/Unlock Wave Rippers Team Alec 'Hud' Wood
+[Cheats/Unlock Wave Rippers Team Alec 'Hud' Wood]
 patch=1,EE,208F9C38,extended,00000000
 
-//Cheats/Unlock Wave Rippers Team Felix Sharky
+[Cheats/Unlock Wave Rippers Team Felix Sharky]
 patch=1,EE,208FA038,extended,00000000
 
-//Cheats/Unlock Wave Rippers Team Fluke
+[Cheats/Unlock Wave Rippers Team Fluke]
 patch=1,EE,208FA438,extended,00000000
 
-//Cheats/Unlock Wave Rippers Team Mark Wylde
+[Cheats/Unlock Wave Rippers Team Mark Wylde]
 patch=1,EE,208FA838,extended,00000000
 
-//Cheats/Unlock Scorchers Team Taro Kitano
+[Cheats/Unlock Scorchers Team Taro Kitano]
 patch=1,EE,208FAC38,extended,00000000
 
-//Cheats/Unlock Scorchers Team Wayne Casper
+[Cheats/Unlock Scorchers Team Wayne Casper]
 patch=1,EE,208FB038,extended,00000000
 
-//Cheats/Unlock Scorchers Team Vesuvius
+[Cheats/Unlock Scorchers Team Vesuvius]
 patch=1,EE,208FB438,extended,00000000
 
-//Cheats/Unlock Scorchers Team Krakatoa
+[Cheats/Unlock Scorchers Team Krakatoa]
 patch=1,EE,208FB858,extended,00000000
 
-//Cheats/Unlock Scorchers Team Everest
+[Cheats/Unlock Scorchers Team Everest]
 patch=1,EE,208FBC58,extended,00000000
 
-//Cheats/Unlock Scorchers Team Jet Blaney
+[Cheats/Unlock Scorchers Team Jet Blaney]
 patch=1,EE,208FC058,extended,00000000
 
-//Cheats/Unlock Scorchers Team Harrison Lau
+[Cheats/Unlock Scorchers Team Harrison Lau]
 patch=1,EE,208FC458,extended,00000000
 
-//Cheats/Unlock Dune Ratz Team Chuvo
+[Cheats/Unlock Dune Ratz Team Chuvo]
 patch=1,EE,208F3BB8,extended,00000000
 
-//Cheats/Unlock Dune Ratz Team Toni Berry
+[Cheats/Unlock Dune Ratz Team Toni Berry]
 patch=1,EE,208F4018,extended,00000000
 
-//Cheats/Unlock Dune Ratz Team Charlie Raffa
+[Cheats/Unlock Dune Ratz Team Charlie Raffa]
 patch=1,EE,208F4418,extended,00000000
 
-//Cheats/Unlock Dune Ratz Team Rekkas
+[Cheats/Unlock Dune Ratz Team Rekkas]
 patch=1,EE,208F4818,extended,00000000
 
-//Cheats/Unlock Dune Ratz Team Heralda
+[Cheats/Unlock Dune Ratz Team Heralda]
 patch=1,EE,208F4C18,extended,00000000
 
-//Cheats/Unlock Dune Ratz Team Mojave
+[Cheats/Unlock Dune Ratz Team Mojave]
 patch=1,EE,208F5018,extended,00000000
 
-//Cheats/Unlock Dune Ratz Team Brian 'Zone' Kadeem
+[Cheats/Unlock Dune Ratz Team Brian 'Zone' Kadeem]
 patch=1,EE,208F5418,extended,00000000
 
-//Cheats/Unlock Street Breed Team Tono
+[Cheats/Unlock Street Breed Team Tono]
 patch=1,EE,208F5818,extended,00000000
 
-//Cheats/Unlock Street Breed Team Kurt Wylde
+[Cheats/Unlock Street Breed Team Kurt Wylde]
 patch=1,EE,208F5C18,extended,00000000
 
-//Cheats/Unlock Street Breed Team Ricky Bell
+[Cheats/Unlock Street Breed Team Ricky Bell]
 patch=1,EE,208F6078,extended,00000000
 
-//Cheats/Unlock Street Breed Team Dan Dresden
+[Cheats/Unlock Street Breed Team Dan Dresden]
 patch=1,EE,208F6478,extended,00000000
 
-//Cheats/Unlock Street Breed Team Bart 'Shrimp' Scampi
+[Cheats/Unlock Street Breed Team Bart 'Shrimp' Scampi]
 patch=1,EE,208F6878,extended,00000000
 
-//Cheats/Unlock Street Breed Team San Jay Khan
+[Cheats/Unlock Street Breed Team San Jay Khan]
 patch=1,EE,208F6C78,extended,00000000
 
-//Cheats/Unlock Street Breed Team Maximo
+[Cheats/Unlock Street Breed Team Maximo]
 patch=1,EE,208F7078,extended,00000000
 
-//Cheats/Unlock Gallery Item 1
+[Cheats/Unlock Gallery Item 1]
 patch=1,EE,208ED910,extended,00000000
 
-//Cheats/Unlock Gallery Item 2
+[Cheats/Unlock Gallery Item 2]
 patch=1,EE,208ED960,extended,00000000
 
-//Cheats/Unlock Gallery Item 3
+[Cheats/Unlock Gallery Item 3]
 patch=1,EE,208ED9B0,extended,00000000
 
-//Cheats/Unlock Gallery Item 4
+[Cheats/Unlock Gallery Item 4]
 patch=1,EE,208EDA00,extended,00000000
 
-//Cheats/Unlock Gallery Item 5
+[Cheats/Unlock Gallery Item 5]
 patch=1,EE,208EDA50,extended,00000000
 
-//Cheats/Unlock Gallery Item 6
+[Cheats/Unlock Gallery Item 6]
 patch=1,EE,208EDAA0,extended,00000000
 
-//Cheats/Unlock Gallery Item 7
+[Cheats/Unlock Gallery Item 7]
 patch=1,EE,208EDAF0,extended,00000000
 
-//Cheats/Unlock Gallery Item 8
+[Cheats/Unlock Gallery Item 8]
 patch=1,EE,208EDB40,extended,00000000
 
-//Cheats/Unlock Gallery Item 9
+[Cheats/Unlock Gallery Item 9]
 patch=1,EE,208EDBB0,extended,00000000
 
-//Cheats/Unlock Gallery Item 10
+[Cheats/Unlock Gallery Item 10]
 patch=1,EE,208EDC00,extended,00000000
 
-//Cheats/Unlock Gallery Item 11
+[Cheats/Unlock Gallery Item 11]
 patch=1,EE,208EDC50,extended,00000000
 
-//Cheats/Unlock Gallery Item 12
+[Cheats/Unlock Gallery Item 12]
 patch=1,EE,208EDCA0,extended,00000000
 
-//Cheats/Unlock Gallery Item 13
+[Cheats/Unlock Gallery Item 13]
 patch=1,EE,208EDCF0,extended,00000000
 
-//Cheats/Unlock Gallery Item 14
+[Cheats/Unlock Gallery Item 14]
 patch=1,EE,208EDD40,extended,00000000
 
-//Cheats/Unlock Gallery Item 15
+[Cheats/Unlock Gallery Item 15]
 patch=1,EE,208EDD90,extended,00000000
 
-//Cheats/Unlock Gallery Item 16
+[Cheats/Unlock Gallery Item 16]
 patch=1,EE,208EDDE0,extended,00000000
 
-//Cheats/Unlock Gallery Item 17
+[Cheats/Unlock Gallery Item 17]
 patch=1,EE,208EDE30,extended,00000000
 
-//Cheats/Unlock Gallery Item 18
+[Cheats/Unlock Gallery Item 18]
 patch=1,EE,208EDE80,extended,00000000
 
-//Cheats/Unlock Gallery Item 19
+[Cheats/Unlock Gallery Item 19]
 patch=1,EE,208EDED0,extended,00000000
 
-//Cheats/Unlock Gallery Item 20
+[Cheats/Unlock Gallery Item 20]
 patch=1,EE,208EDF20,extended,00000000
 
-//Cheats/Unlock Gallery Item 21
+[Cheats/Unlock Gallery Item 21]
 patch=1,EE,208EDF70,extended,00000000
 
-//Cheats/Unlock Gallery Item 22
+[Cheats/Unlock Gallery Item 22]
 patch=1,EE,208EDFC0,extended,00000000
 
-//Cheats/Unlock Gallery Item 23
+[Cheats/Unlock Gallery Item 23]
 patch=1,EE,208EE010,extended,00000000
 
-//Cheats/Unlock Gallery Item 24
+[Cheats/Unlock Gallery Item 24]
 patch=1,EE,208EE060,extended,00000000
 
-//Cheats/Unlock Gallery Item 25
+[Cheats/Unlock Gallery Item 25]
 patch=1,EE,208EE0B0,extended,00000000
 
-//Cheats/Unlock Gallery Item 26
+[Cheats/Unlock Gallery Item 26]
 patch=1,EE,208EE120,extended,00000000
 
-//Cheats/Unlock Gallery Item 27
+[Cheats/Unlock Gallery Item 27]
 patch=1,EE,208EE170,extended,00000000
 
-//Cheats/Unlock Gallery Item 28
+[Cheats/Unlock Gallery Item 28]
 patch=1,EE,208EE1C0,extended,00000000
 
-//Cheats/Unlock Gallery Item 29
+[Cheats/Unlock Gallery Item 29]
 patch=1,EE,208EE210,extended,00000000
 
-//Cheats/Unlock Gallery Item 30
+[Cheats/Unlock Gallery Item 30]
 patch=1,EE,208EE260,extended,00000000
 
-//Cheats/Unlock Gallery Item 31
+[Cheats/Unlock Gallery Item 31]
 patch=1,EE,208EE2B0,extended,00000000
 
-//Cheats/Unlock Gallery Item 32
+[Cheats/Unlock Gallery Item 32]
 patch=1,EE,208EE300,extended,00000000
 
-//Cheats/Unlock Gallery Item 33
+[Cheats/Unlock Gallery Item 33]
 patch=1,EE,208EE350,extended,00000000
 
-//Cheats/Unlock Gallery Item 34
+[Cheats/Unlock Gallery Item 34]
 patch=1,EE,208EE3A0,extended,00000000
 
-//Cheats/Unlock Gallery Item 35
+[Cheats/Unlock Gallery Item 35]
 patch=1,EE,208EE3F0,extended,00000000
 
-//Cheats/Unlock Gallery Item 36
+[Cheats/Unlock Gallery Item 36]
 patch=1,EE,208EE440,extended,00000000

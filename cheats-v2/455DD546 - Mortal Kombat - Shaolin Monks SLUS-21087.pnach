@@ -1,13 +1,13 @@
 gametitle=Mortal Kombat - Shaolin Monks SLUS-21087
-//Infinite Energy
+[Infinite Energy]
 patch=1,EE,205CCE30,extended,42C80000
 patch=1,EE,205CCE54,extended,42C80000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20C08928,extended,000000FF
 patch=1,EE,20C08930,extended,000000FF
 
-//God Mode
+[God Mode]
 patch=1,EE,202FEE1C,extended,08121EE1
 patch=1,EE,20487B84,extended,E7B404F0
 patch=1,EE,20487B88,extended,10520003
@@ -18,13 +18,13 @@ patch=1,EE,20487B98,extended,8E422760
 patch=1,EE,20487B9C,extended,38420001
 patch=1,EE,20487BA0,extended,080BFBC1
 
-//Unlock Mortal Kombat II
+[Unlock Mortal Kombat II]
 patch=1,EE,205D82B0,extended,00000001
 
-//Unlock All Characters-VS Mode
+[Unlock All Characters-VS Mode]
 patch=1,EE,205D8288,extended,FFFFFFFF
 
-//Unlock All Arenas/Art/Movies
+[Unlock All Arenas/Art/Movies]
 patch=1,EE,405D828C,extended,00090001
 patch=1,EE,FFFFFFFF,extended,00000000
 

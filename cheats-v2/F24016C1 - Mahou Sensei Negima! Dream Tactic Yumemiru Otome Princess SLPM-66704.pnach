@@ -1,29 +1,29 @@
 gametitle=Mahou Sensei Negima! Dream Tactic Yumemiru Otome Princess SLPM-66704
-//At the time of marshaling all item & equipment appearance
+[At the time of marshaling all item & equipment appearance]
 patch=1,EE,201D1964,extended,241A0001
 patch=1,EE,201D1964,extended,AC5A082C
 patch=1,EE,201D1984,extended,AC7A0000
 
-//HP 100
+[HP 100]
 patch=1,EE,201794BC,extended,24060064
 patch=1,EE,201794C8,extended,AC46000C
 
-//PW100
+[PW100]
 patch=1,EE,201794F0,extended,24060064
 patch=1,EE,201794FC,extended,AC460010
 
-//Maximum sleep & removable
+[Maximum sleep & removable]
 patch=1,EE,20174148,extended,AC400C74
 patch=1,EE,2017414C,extended,AC400C5C
 patch=1,EE,20174150,extended,1000006B
 
-//Bonus fully open & free battle added
+[Bonus fully open & free battle added]
 patch=1,EE,204FBB2C,extended,FFFFFFFF
 patch=1,EE,204FBB30,extended,FFFFFFFF
 patch=1,EE,204FBB34,extended,FFFFFFFF
 patch=1,EE,204FBB38,extended,FFFFFFFF
 
-//All items & equipment appear when preparing for sortie
+[All items & equipment appear when preparing for sortie]
 patch=1,EE,201D1964,extended,241A0001
 patch=1,EE,201D1964,extended,AC5A082C
 patch=1,EE,201D1984,extended,AC7A0000

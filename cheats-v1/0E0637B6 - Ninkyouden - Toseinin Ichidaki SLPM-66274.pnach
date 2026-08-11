@@ -1,47 +1,47 @@
-//Cheats/Max Gold
+[Cheats/Max Gold]
 patch=1,EE,204DB60C,extended,0001869F
 
-//Cheats/Max Attack power
+[Cheats/Max Attack power]
 patch=1,EE,20159D48,extended,240F270F
 patch=1,EE,20159D54,extended,240F270F
 
-//Cheats/Max Defensive power
+[Cheats/Max Defensive power]
 patch=1,EE,20159F68,extended,01E0800A
 
-//Cheats/Max HP 999
+[Cheats/Max HP 999]
 patch=1,EE,204DB5E8,extended,03E703E7
 
-//Cheats/Max Strength 999
+[Cheats/Max Strength 999]
 patch=1,EE,204DB5EC,extended,000003E7
 
-//Cheats/Max Agility 999
+[Cheats/Max Agility 999]
 patch=1,EE,204DB5F0,extended,000003E7
 
-//Cheats/Max Chivalry 999
+[Cheats/Max Chivalry 999]
 patch=1,EE,104DB604,extended,000003E7
 
-//Cheats/Max Quality 999
+[Cheats/Max Quality 999]
 patch=1,EE,104DB608,extended,000003E7
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,004DB978,extended,00000001
 patch=1,EE,404DB950,extended,000A0001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Puns
+[Cheats/Unlock All Puns]
 patch=1,EE,004DB929,extended,00000001
 patch=1,EE,104DB92A,extended,00000101
 patch=1,EE,404DB92C,extended,00090001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Tools
+[Cheats/Unlock All Tools]
 patch=1,EE,004DB8ED,extended,00000001
 patch=1,EE,104DB8EE,extended,00000101
 patch=1,EE,004DB928,extended,00000001
 patch=1,EE,404DB8F0,extended,000E0001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Dyeing
+[Cheats/Unlock All Dyeing]
 patch=1,EE,204DB9B4,extended,01010101
 patch=1,EE,204DB9B8,extended,01010101
 patch=1,EE,204DB9BC,extended,01010101

@@ -1,21 +1,21 @@
 gametitle=God Hand SLPM-66550
-//Gold 999999
+[Gold 999999]
 patch=1,EE,20567BF0,extended,000F423F
 
-//All 114/114 Techniques
+[All 114/114 Techniques]
 patch=1,EE,201FACD0,extended,A06000B0
 
-//All 29/29 God Reel
+[All 29/29 God Reel]
 patch=1,EE,20567D00,extended,FFFFFFFF
 
-//Life max
+[Life max]
 patch=1,EE,201098F8,extended,86250548
 patch=1,EE,20109904,extended,A625054A
 
-//God skills
+[God skills]
 patch=1,EE,00567D26,extended,00000006
 patch=1,EE,20567C78,extended,01010101
 patch=1,EE,10567C7C,extended,00000101
 
-//Tension gauge max
+[Tension gauge max]
 patch=1,EE,202A93B4,extended,00000000

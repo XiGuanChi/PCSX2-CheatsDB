@@ -1,13 +1,13 @@
 gametitle=G1 Jockey 4 SLES-53917
-//Infinite RP
+[Infinite RP]
 patch=1,EE,20947438,extended,0000FFFF
 
-//Infinite Stamina
+[Infinite Stamina]
 patch=1,EE,2016DE58,extended,00000000
 
-//Max Earnings
+[Max Earnings]
 patch=1,EE,20946ECC,extended,000F423F
 patch=1,EE,209473C4,extended,000F423F
 
-//Quick Fill Potential
+[Quick Fill Potential]
 patch=1,EE,2016E404,extended,00000000

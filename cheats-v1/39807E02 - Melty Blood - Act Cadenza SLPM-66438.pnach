@@ -1,18 +1,18 @@
-//Cheats/1P Infinite Health
+[Cheats/1P Infinite Health]
 patch=1,EE,203941FC,extended,00002AF8
 patch=1,EE,20394200,extended,00002AF8
 
-//Cheats/1P Max Magic Circuit
+[Cheats/1P Max Magic Circuit]
 patch=1,EE,203941F4,extended,00007530
 
-//Cheats/2P Health 0
+[Cheats/2P Health 0]
 patch=1,EE,20396C44,extended,00000000
 
-//Cheats/2P Health 0 Press SELECT+Down
+[Cheats/2P Health 0 Press SELECT+Down]
 patch=1,EE,D06871F0,extended,00004100
 patch=1,EE,20396C44,extended,00000000
 
-//Cheats/Unlock Special Mode 100 Complete, All 23 Gallery, Music and Voices
+[Cheats/Unlock Special Mode 100 Complete, All 23 Gallery, Music and Voices]
 patch=1,EE,402B3DC0,extended,000F0001
 patch=1,EE,000F000F,extended,00000000
 patch=1,EE,402B3E30,extended,000F0001
@@ -20,7 +20,7 @@ patch=1,EE,000F000F,extended,00000000
 patch=1,EE,102B3EF8,extended,00000001
 patch=1,EE,102B3F00,extended,00000001
 
-//Cheats/Unlock All Bonus
+[Cheats/Unlock All Bonus]
 patch=1,EE,402B3DC0,extended,000F0001
 patch=1,EE,000F000F,extended,00000000
 patch=1,EE,402B3E30,extended,000F0001

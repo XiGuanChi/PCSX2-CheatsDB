@@ -1,21 +1,21 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20257FD0,extended,24C20000
 
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,20258178,extended,00000000
 
-//Cheats/Infinite Chips
+[Cheats/Infinite Chips]
 patch=1,EE,2023B164,extended,2403270F
 patch=1,EE,2023B16C,extended,A443003A
 
-//Cheats/Infinite Ammo Right Arm
+[Cheats/Infinite Ammo Right Arm]
 patch=1,EE,20725A18,extended,4479C000
 
-//Cheats/Infinite Ammo Left Arm
+[Cheats/Infinite Ammo Left Arm]
 patch=1,EE,20725D18,extended,4479C000
 
-//Cheats/Infinite Ammo Right Shoulder
+[Cheats/Infinite Ammo Right Shoulder]
 patch=1,EE,20726018,extended,42F00000
 
-//Cheats/Infinite Ammo Left Shoulder
+[Cheats/Infinite Ammo Left Shoulder]
 patch=1,EE,20726318,extended,42F00000

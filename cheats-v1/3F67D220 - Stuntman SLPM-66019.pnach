@@ -1,14 +1,14 @@
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,21F11364,extended,0000BB80
 
-//Cheats/Unlock All Driving Games
+[Cheats/Unlock All Driving Games]
 patch=1,EE,40288F98,extended,00100001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Objects
+[Cheats/Unlock All Objects]
 patch=1,EE,40287700,extended,00220001
 patch=1,EE,00000002,extended,00000000
 
-//Cheats/Unlock All Cars
+[Cheats/Unlock All Cars]
 patch=1,EE,40287788,extended,00340001
 patch=1,EE,00000002,extended,00000000

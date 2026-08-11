@@ -1,4 +1,4 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,8F838D28
 patch=1,EE,200C0224,extended,24010001
 patch=1,EE,200C0228,extended,54600001
@@ -7,7 +7,7 @@ patch=1,EE,200C0230,extended,03E00008
 patch=1,EE,200C0234,extended,00000000
 patch=1,EE,206267F4,extended,08030088
 
-//Cheats/Enemies Can't See You
+[Cheats/Enemies Can't See You]
 patch=1,EE,200C0240,extended,8F838D28
 patch=1,EE,200C0244,extended,24010001
 patch=1,EE,200C0248,extended,54600001

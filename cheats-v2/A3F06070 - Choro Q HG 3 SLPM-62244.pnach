@@ -1,27 +1,27 @@
 gametitle=Choro Q HG 3 SLPM-62244
-//Always In 1st Place
+[Always In 1st Place]
 patch=1,EE,01044491,extended,00000000
 
-//Money MAX
+[Money MAX]
 patch=1,EE,2104DDF4,extended,000F423F
 
-//engine
+[engine]
 patch=1,EE,0104E5DC,extended,0000007F
 
-//A part
+[A part]
 patch=1,EE,1104E5F0,extended,00001F3F
 
-//B Parts
+[B Parts]
 patch=1,EE,0104E60C,extended,0000000E
 
-//C parts
+[C parts]
 patch=1,EE,0104E61C,extended,0000003E
 
-//D Parts
+[D Parts]
 patch=1,EE,2104E62C,extended,F40F7DDF
 
-//Horn
+[Horn]
 patch=1,EE,1104E654,extended,00007FFF
 
-//Meter
+[Meter]
 patch=1,EE,1104E668,extended,000001EF

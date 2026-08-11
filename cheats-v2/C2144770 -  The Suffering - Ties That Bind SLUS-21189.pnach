@@ -1,5 +1,5 @@
 gametitle= The Suffering - Ties That Bind SLUS-21189
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0200,extended,3C01005A
 patch=1,EE,200C0204,extended,8C21322C
 patch=1,EE,200C0208,extended,1020000B
@@ -13,33 +13,33 @@ patch=1,EE,200C0230,extended,AC22001C
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,204c896c,extended,08030080
 
-//Infinite Health alt
+[Infinite Health alt]
 patch=1,EE,200C0220,extended,03E00008
 patch=1,EE,200C0224,extended,E4800018
 patch=1,EE,20368E10,extended,08030088
 patch=1,EE,20368E14,extended,C480001C
 
-//Infinite Health Kits/Ammo
+[Infinite Health Kits/Ammo]
 patch=1,EE,202AF088,extended,00000000
 
-//Infinite Insanity
+[Infinite Insanity]
 patch=1,EE,202F0EF4,extended,00000000
 
-//Press R3, L3 For Invincibility
+[Press R3, L3 For Invincibility]
 patch=1,EE,20572E98,extended,00000017
 patch=1,EE,20572E9C,extended,00000014
 patch=1,EE,20572EA0,extended,FFFFFFFF
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,203267A4,extended,00000000
 
-//Infinite Flashlight Power
+[Infinite Flashlight Power]
 patch=1,EE,20269944,extended,00000000
 
-//Infinite Items
+[Infinite Items]
 patch=1,EE,202AF088,extended,00000000
 
-//Enemies Die Instantly Press L2 Enemies Kill You Press R2
+[Enemies Die Instantly Press L2 Enemies Kill You Press R2]
 patch=1,EE,E002FEFF,extended,005BAF02
 patch=1,EE,20368E3C,extended,3C014348
 patch=1,EE,20368E40,extended,AC810018

@@ -1,18 +1,18 @@
 gametitle=World Soccer Winning Eleven 10 SLPM-66374
-//WEN 99999
+[WEN 99999]
 patch=1,EE,2183ABEC,extended,0001869F
 
-//Cup gallery full opening
+[Cup gallery full opening]
 patch=1,EE,2183ABD8,extended,FFFFFFFF
 
-//The point approximately 1000 ten thousand (only our team)
+[The point approximately 1000 ten thousand (only our team)]
 patch=1,EE,D0B11E74,extended,00000034
 patch=1,EE,20B11E74,extended,0C0877C5
 patch=1,EE,2021DF14,extended,3C060099
 patch=1,EE,2021DF18,extended,03E00008
 patch=1,EE,2021DF1C,extended,AC460034
 
-//Player experience value maximum after the playing
+[Player experience value maximum after the playing]
 patch=1,EE,D0B42750,extended,00000064
 patch=1,EE,20B42708,extended,0C03E000
 patch=1,EE,200F8000,extended,2402270F

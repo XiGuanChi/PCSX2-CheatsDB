@@ -1,35 +1,35 @@
 gametitle=Lara Croft - Tomb Raider - Underworld SLES-55442
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20272E2C,extended,3C01447A
 patch=1,EE,20272E48,extended,AC410638
 patch=1,EE,20272E4C,extended,AC41063C
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20254E68,extended,00000000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,2022CEF4,extended,00000000
 
-//1 Hit Kill
+[1 Hit Kill]
 patch=1,EE,205FF2FC,extended,00000001
 
-//Invincible
+[Invincible]
 patch=1,EE,205FF5C0,extended,00000001
 
-//Debug Menu Codes God Mode
+[Debug Menu Codes God Mode]
 patch=1,EE,205FF5C0,extended,00000001
 
-//One Hit Kill
+[One Hit Kill]
 patch=1,EE,205FF2FC,extended,00000001
 
-//Have All Unlockables Revisit Location & Story Boards
+[Have All Unlockables Revisit Location & Story Boards]
 patch=1,EE,20104AD4,extended,2402000F
 
-//Environment Concepts
+[Environment Concepts]
 patch=1,EE,10106EBE,extended,00001000
 
-//Character Concepts
+[Character Concepts]
 patch=1,EE,1010635E,extended,00001000
 
-//Gear Concepts
+[Gear Concepts]
 patch=1,EE,1010725E,extended,00001000

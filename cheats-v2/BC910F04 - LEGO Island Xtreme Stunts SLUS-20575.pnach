@@ -1,62 +1,62 @@
 gametitle=LEGO Island Xtreme Stunts SLUS-20575
-//Max Score
+[Max Score]
 patch=1,EE,202D2660,extended,0098967F
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,202D2668,extended,0000003B
 patch=1,EE,202D266C,extended,0000003B
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,2401000A
 patch=1,EE,200C0224,extended,AE010F3C
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,8E0400C8
 patch=1,EE,201B7F30,extended,0C030088
 
-//1Hit Death (Opponents)
+[1Hit Death (Opponents)]
 patch=1,EE,201BD1A8,extended,2403001E
 
-//Max Brick Pool
+[Max Brick Pool]
 patch=1,EE,202DAEE8,extended,000003E7
 
-//Max Brickimals
+[Max Brickimals]
 patch=1,EE,202DAEEC,extended,00000015
 
-//Have Road License
+[Have Road License]
 patch=1,EE,202DAF04,extended,00000001
 
-//Have Sea License
+[Have Sea License]
 patch=1,EE,202DAF08,extended,00000001
 
-//Have Air License
+[Have Air License]
 patch=1,EE,202DAF0C,extended,00000001
 
-//Have Secret LA F. TA #1
+[Have Secret LA F. TA #1]
 patch=1,EE,202DAF10,extended,00000001
 
-//Have Secret LA F. TA #2
+[Have Secret LA F. TA #2]
 patch=1,EE,202DAF14,extended,00000001
 
-//Have Golden LA F. TA
+[Have Golden LA F. TA]
 patch=1,EE,202DAF18,extended,00000001
 
-//Have Platinum LA F. TA
+[Have Platinum LA F. TA]
 patch=1,EE,202DAF1C,extended,00000001
 
-//Infinite Double Jumps
+[Infinite Double Jumps]
 patch=1,EE,21E8783C,extended,00000001
 
-//Unlock Air Chase
+[Unlock Air Chase]
 patch=1,EE,002DAF78,extended,00000001
 
-//Unlock Freeway Frenzy
+[Unlock Freeway Frenzy]
 patch=1,EE,002DAF7C,extended,00000001
 
-//Unlock Ripcord Rescue
+[Unlock Ripcord Rescue]
 patch=1,EE,002DAF80,extended,00000001
 
-//Unlock Wave Catcher
+[Unlock Wave Catcher]
 patch=1,EE,002DAF84,extended,00000001
 
-//Unlock Motorbike Mayhem
+[Unlock Motorbike Mayhem]
 patch=1,EE,002DAF88,extended,00000001

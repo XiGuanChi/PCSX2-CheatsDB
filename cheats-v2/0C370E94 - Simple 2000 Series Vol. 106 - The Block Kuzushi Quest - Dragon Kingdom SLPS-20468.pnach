@@ -1,66 +1,66 @@
 gametitle=Simple 2000 Series Vol. 106 - The Block Kuzushi Quest - Dragon Kingdom SLPS-20468
-//QUEST HARD selective possibility
+[QUEST HARD selective possibility]
 patch=1,EE,2022A0CC,extended,00000002
 
-//EXP max
+[EXP max]
 patch=1,EE,20230704,extended,3B9AC9FF
 
-//POINT max
+[POINT max]
 patch=1,EE,20230708,extended,3B9AC9FF
 
-//LIFE Upper limit 9900
+[LIFE Upper limit 9900]
 patch=1,EE,2023070C,extended,000026AC
 
-//MANA Upper limit 9900
+[MANA Upper limit 9900]
 patch=1,EE,20230710,extended,000026AC
 
-//SHOT Upper limit 990
+[SHOT Upper limit 990]
 patch=1,EE,20230714,extended,000003DE
 
-//POWER Upper limit 990
+[POWER Upper limit 990]
 patch=1,EE,20230718,extended,000003DE
 
-//LIFE Presently value 9900
+[LIFE Presently value 9900]
 patch=1,EE,202307EC,extended,000026AC
 
-//MANA Presently value 9900
+[MANA Presently value 9900]
 patch=1,EE,202307F0,extended,000026AC
 
-//SHOT Presently value 990
+[SHOT Presently value 990]
 patch=1,EE,202307F4,extended,000003DE
 
-//POWER Presently value 990
+[POWER Presently value 990]
 patch=1,EE,202307F8,extended,000003DE
 
-//Lightning volt/bolt Lv3
+[Lightning volt/bolt Lv3]
 patch=1,EE,20230730,extended,00000003
 
-//2P EXP maximum
+[2P EXP maximum]
 patch=1,EE,20230854,extended,3B9AC9FF
 
-//P2 POINT maximum
+[P2 POINT maximum]
 patch=1,EE,20230858,extended,3B9AC9FF
 
-//2P LIFE upper limit 9900
+[2P LIFE upper limit 9900]
 patch=1,EE,2023085C,extended,000026AC
 
-//2P MANA upper limit 9900
+[2P MANA upper limit 9900]
 patch=1,EE,20230860,extended,000026AC
 
-//2P SHOT upper limit 990
+[2P SHOT upper limit 990]
 patch=1,EE,20230864,extended,000003DE
 
-//2P POWER upper limit 990
+[2P POWER upper limit 990]
 patch=1,EE,20230868,extended,000003DE
 
-//2P LIFE current value 9900
+[2P LIFE current value 9900]
 patch=1,EE,2023093C,extended,000026AC
 
-//2P MANA current value 9900
+[2P MANA current value 9900]
 patch=1,EE,20230940,extended,000026AC
 
-//2P SHOT current value 990
+[2P SHOT current value 990]
 patch=1,EE,20230944,extended,000003DE
 
-//2P POWER current value 990
+[2P POWER current value 990]
 patch=1,EE,20230948,extended,000003DE

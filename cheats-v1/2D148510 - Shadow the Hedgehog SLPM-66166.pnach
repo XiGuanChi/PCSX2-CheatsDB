@@ -1,9 +1,9 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,109C09E4,extended,00000063
 
-//Cheats/Have 999 Rings
+[Cheats/Have 999 Rings]
 patch=1,EE,109C09EC,extended,000003E7
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,409BCB08,extended,00160015
 patch=1,EE,00000001,extended,00000000

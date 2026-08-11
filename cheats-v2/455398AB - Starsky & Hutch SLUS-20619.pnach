@@ -1,26 +1,26 @@
 gametitle=Starsky & Hutch SLUS-20619
-//Infinite Time
+[Infinite Time]
 patch=1,EE,201910BC,extended,00000000
 
-//Complete All Story Episodes
+[Complete All Story Episodes]
 patch=1,EE,2051A0EC,extended,00060606
 
-//Have All Story Gold Badges
+[Have All Story Gold Badges]
 patch=1,EE,4051A0F0,extended,00120001
 patch=1,EE,461C3C00,extended,00000000
 
-//Have All Items
+[Have All Items]
 patch=1,EE,2051A138,extended,FFFFFFFF
 patch=1,EE,2051A13C,extended,FFFFFFFF
 patch=1,EE,2051A140,extended,FFFFFFFF
 patch=1,EE,2051A144,extended,FFFFFFFF
 patch=1,EE,1051A148,extended,0000FFFF
 
-//Unlock All Free Roam
+[Unlock All Free Roam]
 patch=1,EE,0052D70D,extended,00000001
 
-//Unlock All TV Specials
+[Unlock All TV Specials]
 patch=1,EE,0052D70E,extended,00000001
 
-//Unlock All Locker Items
+[Unlock All Locker Items]
 patch=1,EE,0052D712,extended,00000001

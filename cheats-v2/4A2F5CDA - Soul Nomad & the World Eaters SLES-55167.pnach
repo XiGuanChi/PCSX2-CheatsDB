@@ -1,25 +1,25 @@
 gametitle=Soul Nomad & the World Eaters SLES-55167
-//Infinite GP
+[Infinite GP]
 patch=1,EE,10416188,extended,0000FFFF
 
-//Max GP
+[Max GP]
 patch=1,EE,20416188,extended,3B9AC9FF
 
-//Max EXP
+[Max EXP]
 patch=1,EE,20137098,extended,1000000E
 patch=1,EE,20493720,extended,3B9AC9FF
 
-//Max Skill
+[Max Skill]
 patch=1,EE,20137098,extended,1000000E
 patch=1,EE,20493728,extended,3B9AC9FF
 
-//Infinite Stamina (Press: L1+Select=On, L2+Select=Off)
+[Infinite Stamina (Press: L1+Select=On, L2+Select=Off)]
 patch=1,EE,D03A6902,extended,0000FBFE
 patch=1,EE,20237F48,extended,00000000
 patch=1,EE,D03A6902,extended,0000FEFE
 patch=1,EE,20237F48,extended,A6830128
 
-//Infinite HP (Press: R1+Select=On, R2+Select=Off)
+[Infinite HP (Press: R1+Select=On, R2+Select=Off)]
 patch=1,EE,D03A6902,extended,0000F7FE
 patch=1,EE,201D571C,extended,00000000
 patch=1,EE,D03A6902,extended,0000FDFE

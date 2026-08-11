@@ -1,31 +1,31 @@
 gametitle=Sea World - Shamu's Deep Sea Adventures SLES-53804
-//Infinite Health
+[Infinite Health]
 patch=1,EE,204B9A34,extended,AE82017C
 
-//Infinite Air
+[Infinite Air]
 patch=1,EE,2044D34C,extended,3C0142C8
 patch=1,EE,2044D364,extended,AC810248
 patch=1,EE,2044D368,extended,44040000
 
-//Max Kracken Krystals
+[Max Kracken Krystals]
 patch=1,EE,2062D150,extended,000003E7
 
-//Infinite Points (ausgebessert von GodShin)
+[Infinite Points (ausgebessert von GodShin)]
 patch=1,EE,2062D340,extended,05F5E0FF
 
-//400 Krystals 
+[400 Krystals]
 patch=1,EE,2062D150,extended,00000190
 
-//All Photos Unlocked (ausgebessert von GodShin)
+[All Photos Unlocked (ausgebessert von GodShin)]
 patch=1,EE,4062D480,extended,00180001
 patch=1,EE,00000001,extended,00000000
 
-//All Movies Unlocked 
+[All Movies Unlocked]
 patch=1,EE,4062D4E0,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,4062D444,extended,000E0001
 patch=1,EE,00000001,extended,00000000
 
-//All Artwork Unlocked 
+[All Artwork Unlocked]
 patch=1,EE,4062D3F4,extended,00120001
 patch=1,EE,00000001,extended,00000000

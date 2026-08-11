@@ -1,32 +1,32 @@
-//Cheats/Infinite Cash
+[Cheats/Infinite Cash]
 patch=1,EE,20102D34,extended,05F5E0FF
 
-//Cheats/Infinite HP In Battle
+[Cheats/Infinite HP In Battle]
 patch=1,EE,EFA30080,extended,006AEDB4
 patch=1,EE,206AEDBC,extended,240103E7
 patch=1,EE,206AEDC0,extended,A4610130
 
-//Cheats/Infinite SP MP Battle
+[Cheats/Infinite SP MP Battle]
 patch=1,EE,D06AEDB4,extended,8FA30080
 patch=1,EE,206AEDC4,extended,A4610136
 
-//Cheats/Infinite SP In Battle
+[Cheats/Infinite SP In Battle]
 patch=1,EE,EFA30080,extended,006AEDB4
 patch=1,EE,206AEDF4,extended,24010063
 patch=1,EE,206AEDF8,extended,A461013A
 
-//Cheats/Karin Infinite HP
+[Cheats/Karin Infinite HP]
 patch=1,EE,2010054A,extended,000003E7
 patch=1,EE,20100548,extended,000003E7
 
-//Cheats/Karin Infinite MP
+[Cheats/Karin Infinite MP]
 patch=1,EE,2010054C,extended,000003E7
 patch=1,EE,2010054E,extended,000003E7
 
-//Cheats/Nicolai Infinite HP
+[Cheats/Nicolai Infinite HP]
 patch=1,EE,201009C8,extended,000003E7
 patch=1,EE,201009CA,extended,000003E7
 
-//Cheats/Nicolai Infinite NP
+[Cheats/Nicolai Infinite NP]
 patch=1,EE,201009CC,extended,000003E7
 patch=1,EE,201009CE,extended,000003E7

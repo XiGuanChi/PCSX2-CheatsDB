@@ -1,98 +1,98 @@
 gametitle=Dragon Quest Characters - Torneko no Daiboiken 3 - Fushigi no Dungeon SLPM-62199
-//max Gold 
+[max Gold]
 patch=1,EE,20926B18,extended,0098967F
 
-//The Gold maximum custody of bank
+[The Gold maximum custody of bank]
 patch=1,EE,20926B24,extended,0098967F
 
-//Coin largest casino
+[Coin largest casino]
 patch=1,EE,20926B28,extended,0001869F
 
-//9999999 medal that was deposited in the medal King
+[9999999 medal that was deposited in the medal King]
 patch=1,EE,20926B2C,extended,0098967F
 
-//HP 500 / 500
+[HP 500 / 500]
 patch=1,EE,205FA438,extended,000001F4
 patch=1,EE,205FA43C,extended,000001F4
 
-//Satiety 100/100
+[Satiety 100/100]
 patch=1,EE,005FA440,extended,00000064
 patch=1,EE,005FA444,extended,00000064
 
-//Power 8/8
+[Power 8/8]
 patch=1,EE,205FA448,extended,00080008
 
-//Level 99
+[Level 99]
 patch=1,EE,005FA44E,extended,00000063
 
-//Maximum experience value
+[Maximum experience value]
 patch=1,EE,205FA458,extended,00986F70
 
-//Blacksmith forced labor
+[Blacksmith forced labor]
 patch=1,EE,20329694,extended,10000018
 
-//Casino lottery tickets MAX
+[Casino lottery tickets MAX]
 patch=1,EE,20926B1C,extended,000F423F
 
-//Acquisition experience value 9999
+[Acquisition experience value 9999]
 patch=1,EE,20209FD0,extended,00A0880A
 
-//After fellow level up HP MAX
+[After fellow level up HP MAX]
 patch=1,EE,20299A2C,extended,14800001
 patch=1,EE,20299A44,extended,10000001
 
-//Character 1
+[Character 1]
 
-//Current HP
+[Current HP]
 patch=1,EE,106A7F0C,extended,000001F4
 
-//Total HP
+[Total HP]
 patch=1,EE,106A7F24,extended,000001F4
 
-//EXP 
+[EXP]
 patch=1,EE,206A7F20,extended,0098967F
 
-//Lvl 99
+[Lvl 99]
 patch=1,EE,006A7F18,extended,00000063
 
-//Max Stats 
+[Max Stats]
 patch=1,EE,206A7F10,extended,00630063
 patch=1,EE,206A7F14,extended,00630063
 
 
-//Character 2
+[Character 2]
 
-//Current HP
+[Current HP]
 patch=1,EE,106A7F98,extended,000001F4
 
-//Total HP
+[Total HP]
 patch=1,EE,106A7FB0,extended,000001F4
 
-//EXP 
+[EXP]
 patch=1,EE,206A7FAC,extended,0098967F
 
-//Lvl 99
+[Lvl 99]
 patch=1,EE,006A7FA4,extended,00000063
 
-//Max Stats 
+[Max Stats]
 patch=1,EE,206A7F9C,extended,00630063
 patch=1,EE,206A7FA0,extended,00630063
 
 
-//Character 3
+[Character 3]
 
-//Current HP
+[Current HP]
 patch=1,EE,106A8024,extended,000001F4
 
-//Total HP
+[Total HP]
 patch=1,EE,106A803C,extended,000001F4
 
-//EXP 
+[EXP]
 patch=1,EE,206A8038,extended,0098967F
 
-//Lvl 99
+[Lvl 99]
 patch=1,EE,006A8030,extended,00000063
 
-//Max Stats 
+[Max Stats]
 patch=1,EE,206A8028,extended,00630063
 patch=1,EE,206A802C,extended,00630063

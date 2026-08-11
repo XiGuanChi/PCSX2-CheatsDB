@@ -1,11 +1,11 @@
 gametitle=Star Wars - Episode III - Revenge of the Sith SLUS-21143
-//God Mode
+[God Mode]
 patch=1,EE,01FDED99,extended,00000001
 
-//To activate these Cheats you will need to quit a Game in progress,
-//Exit to the Main Menu, then load from a saved Game
+[To activate these Cheats you will need to quit a Game in progress,]
+[Exit to the Main Menu, then load from a saved Game]
 
-//All Duelist Arenas
+[All Duelist Arenas]
 patch=1,EE,00DCE1EB,extended,00000001
 patch=1,EE,00DCE1EC,extended,00000001
 patch=1,EE,00DCE1ED,extended,00000001
@@ -20,23 +20,23 @@ patch=1,EE,00DCE1F5,extended,00000001
 patch=1,EE,00DCE1F6,extended,00000001
 patch=1,EE,00DCE1F7,extended,00000001
 
-//All Story Missions
+[All Story Missions]
 patch=1,EE,00DCDF50,extended,00000010
 
-//All Bonus Missions
+[All Bonus Missions]
 patch=1,EE,00DCE1E1,extended,00000001
 patch=1,EE,00DCE1E2,extended,00000001
 patch=1,EE,00DCE1E3,extended,00000001
 patch=1,EE,00DCE1E4,extended,00000001
 patch=1,EE,00DCE1E5,extended,00000001
 
-//All Cooperative Missions
+[All Cooperative Missions]
 patch=1,EE,00DCE1E7,extended,00000001
 patch=1,EE,00DCE1E8,extended,00000001
 patch=1,EE,00DCE1E9,extended,00000001
 
-//All Movies
+[All Movies]
 patch=1,EE,00DCDF5E,extended,00000001
 
-//All Concept Art
+[All Concept Art]
 patch=1,EE,00DCE1F8,extended,00000001

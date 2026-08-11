@@ -1,50 +1,50 @@
 gametitle=Dai-3-Ji Super Robot Taisen Alpha - Shuuen no Ginga e SLPS-25537
-//Fund MAX
+[Fund MAX]
 patch=1,EE,2061C440,extended,3B9AC9FF
 
-//Unconditionally maximum when fighting PP once
+[Unconditionally maximum when fighting PP once]
 patch=1,EE,201BC5B4,extended,28610000
 
-//Increases energy to 170 without using PP training
+[Increases energy to 170 without using PP training]
 patch=1,EE,201BC8BC,extended,00000000
 patch=1,EE,20172BD8,extended,00000000
 
-//Speeding up (It seems that the movie is so fast that it seems ugly)
+[Speeding up (It seems that the movie is so fast that it seems ugly)]
 patch=1,EE,2010D274,extended,00000000
 
-//Speed up L3 ON, R3 OFF
+[Speed up L3 ON, R3 OFF]
 patch=1,EE,D0699CC2,extended,0000FFFD
 patch=1,EE,2010D274,extended,00000000
 patch=1,EE,D0699CC2,extended,0000FFFB
 patch=1,EE,2010D274,extended,0C046ADC
 
-//Infinite action If you change the platoon leader after acting, it will be effective. It seems that even a single horse can be done by pressing the square button.
+[Infinite action If you change the platoon leader after acting, it will be effective. It seems that even a single horse can be done by pressing the square button.]
 patch=1,EE,201524AC,extended,34420008
 patch=1,EE,201524B0,extended,A0820018
 patch=1,EE,201524C0,extended,24020000
 
-//Character encyclopedia
+[Character encyclopedia]
 patch=1,EE,40666DB0,extended,00110001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Glossary
+[Glossary]
 patch=1,EE,40666E00,extended,00020001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10666E08,extended,0000FFFF
 patch=1,EE,00666E0A,extended,00100007
 
-//Sound select
+[Sound select]
 patch=1,EE,40666E20,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10666E30,extended,00003FFF
 
-//Scenario chart
+[Scenario chart]
 patch=1,EE,40666E34,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10666E40,extended,0000FFFF
 patch=1,EE,00666E42,extended,000010C9
 
-//Optional full open code (short version)
+[Optional full open code (short version)]
 patch=1,EE,20148494,extended,24050037
 patch=1,EE,20148498,extended,2403FFFF
 patch=1,EE,2014849C,extended,24A5FFFF
@@ -52,7 +52,7 @@ patch=1,EE,201484A0,extended,ACE30000
 patch=1,EE,201484A4,extended,14A0FFFD
 patch=1,EE,201484A8,extended,24E70004
 
-//Scenario selection
+[Scenario selection]
 patch=1,EE,202EA884,extended,0080102D
 patch=1,EE,202EA894,extended,28630005
 patch=1,EE,202EA898,extended,14600003

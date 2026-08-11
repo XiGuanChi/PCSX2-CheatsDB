@@ -1,18 +1,18 @@
-//Cheats/Infinite Cash
+[Cheats/Infinite Cash]
 patch=1,EE,20102D30,extended,05F5E0FF
 patch=1,EE,20102D34,extended,05F5E0FF
 
-//Cheats/Infinite HP In Battle
+[Cheats/Infinite HP In Battle]
 patch=1,EE,E0021821,extended,006A85C8
 patch=1,EE,206A85CC,extended,8C62012C
 patch=1,EE,206A85D0,extended,AC620130
 
-//Cheats/Infinite MP In Battle
+[Cheats/Infinite MP In Battle]
 patch=1,EE,E0021021,extended,00500210
 patch=1,EE,20500214,extended,84430134
 patch=1,EE,2050021C,extended,A4430136
 
-//Cheats/Infinite SP In Battle
+[Cheats/Infinite SP In Battle]
 patch=1,EE,E0031821,extended,006A8600
 patch=1,EE,206A8604,extended,84610138
 patch=1,EE,206A8608,extended,A461013A

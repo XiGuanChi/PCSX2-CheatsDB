@@ -1,11 +1,11 @@
 gametitle=Samurai Western - Katsugeki Samurai-dou SLPM-65755
-//Infinite HP
+[Infinite HP]
 patch=1,EE,201733D4,extended,10000003
 
-//Infinite MP
+[Infinite MP]
 patch=1,EE,20173334,extended,10000003
 
-//All Characters
+[All Characters]
 patch=1,EE,002D1AB1,extended,000000FF
 patch=1,EE,002D2C94,extended,00000001
 patch=1,EE,202D1AF0,extended,01010101

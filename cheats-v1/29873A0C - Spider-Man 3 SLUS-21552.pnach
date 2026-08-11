@@ -1,19 +1,19 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF20,extended,AC890018
 patch=1,EE,200FFF24,extended,C4810018
 patch=1,EE,200FFF28,extended,0807539B
 patch=1,EE,200FFF2C,extended,46011042
 patch=1,EE,201D4E64,extended,0803FFC8
 
-//Cheats/Infinite Health alt
+[Cheats/Infinite Health alt]
 patch=1,EE,201D451C,extended,3C014000
 patch=1,EE,201D4528,extended,AC610018
 
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,201D4534,extended,3C014000
 patch=1,EE,201D4540,extended,AC61001C
 
-//Cheats/Infinite Hero Points
+[Cheats/Infinite Hero Points]
 patch=1,EE,200FFF00,extended,44890000
 patch=1,EE,200FFF04,extended,AC490010
 patch=1,EE,200FFF08,extended,3C024F00
@@ -22,13 +22,13 @@ patch=1,EE,200FFF10,extended,44820800
 patch=1,EE,202D3714,extended,0803FFC0
 patch=1,EE,202D3718,extended,3C0942C8
 
-//Cheats/Press Select+L2 Full Adrenaline and Rage on First Hit
+[Cheats/Press Select+L2 Full Adrenaline and Rage on First Hit]
 patch=1,EE,E003FEFE,extended,00C814A4
 patch=1,EE,20175510,extended,C6000010
 patch=1,EE,2017551C,extended,46000506
 patch=1,EE,202E10C4,extended,00000000
 
-//Cheats/Max Upgrade Points
+[Cheats/Max Upgrade Points]
 patch=1,EE,200C0220,extended,34213C00
 patch=1,EE,200C0224,extended,54400001
 patch=1,EE,200C0228,extended,AC410010

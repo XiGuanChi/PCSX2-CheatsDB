@@ -1,34 +1,34 @@
 gametitle=Aa Megami-sama SLPS-25743
-//Costume fully open
+[Costume fully open]
 patch=1,EE,20219960,extended,FFFFFFFF
 
-//For system data Costume, person picture book, memory picture book fully open
+[For system data Costume, person picture book, memory picture book fully open]
 patch=1,EE,20219420,extended,FFFFFFFF
 patch=1,EE,40219548,extended,00100001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//For system data All stages have been cleared
+[For system data All stages have been cleared]
 patch=1,EE,402194E8,extended,00180001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//For system data Kikai picture book fully open
+[For system data Kikai picture book fully open]
 patch=1,EE,402195CC,extended,00250001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//For game data Costume, person picture book, memory picture book fully open
+[For game data Costume, person picture book, memory picture book fully open]
 patch=1,EE,20219960,extended,FFFFFFFF
 patch=1,EE,402199EC,extended,00110001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//For game data All stages have been cleared
+[For game data All stages have been cleared]
 patch=1,EE,40219990,extended,00170001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//For game data Kikai picture book fully open
+[For game data Kikai picture book fully open]
 patch=1,EE,40219A70,extended,00250001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Press L3 For Debug Menu
+[Press L3 For Debug Menu]
 patch=1,EE,201CA7CC,extended,0806F854
 patch=1,EE,D02E0E02,extended,0000FFFD
 patch=1,EE,201CF34C,extended,08045FAC

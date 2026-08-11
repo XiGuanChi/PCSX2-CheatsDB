@@ -1,48 +1,48 @@
-//Cheats/infinite Health
+[Cheats/infinite Health]
 patch=1,EE,201ae128,extended,84410260
 patch=1,EE,201ae12c,extended,00010900
 patch=1,EE,201ae130,extended,a4410262
 
-//Cheats/infinite Musou
+[Cheats/infinite Musou]
 patch=1,EE,201ae128,extended,84410266
 patch=1,EE,201ae12c,extended,00010900
 patch=1,EE,201ae130,extended,a4410268
 
-//Cheats/Instant Win Press Select
+[Cheats/Instant Win Press Select]
 patch=1,EE,D03fc11c,extended,0000fffe
 patch=1,EE,205e75d8,extended,00050005
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,205e75d0,extended,01010101
 
-//Cheats/Empire Mode Tortoise Amulet x9
+[Cheats/Empire Mode Tortoise Amulet x9]
 patch=1,EE,0058c723,extended,00000009
 
-//Cheats/Empire Mode Max Gold
+[Cheats/Empire Mode Max Gold]
 patch=1,EE,200C0220,extended,3403EA60
 patch=1,EE,200C0224,extended,A4430006
 patch=1,EE,200C0228,extended,080BC0F7
 patch=1,EE,200C022C,extended,7BB00000
 patch=1,EE,202F03D4,extended,08030088
 
-//Cheats/All Items +9
+[Cheats/All Items +9]
 patch=1,EE,4058c720,extended,000a0001
 patch=1,EE,09090909,extended,00000000
 
-//Cheats/Infinite Interim Save Usage
+[Cheats/Infinite Interim Save Usage]
 patch=1,EE,D078453C,extended,0000982D
 patch=1,EE,20784544,extended,00000000
 
-//Cheats/Infinite Mission Time Left
+[Cheats/Infinite Mission Time Left]
 patch=1,EE,201E92D0,extended,AC2075CC
 
-//Cheats/Infinite Powerups On Pickup
+[Cheats/Infinite Powerups On Pickup]
 patch=1,EE,20199858,extended,00000000
 
-//Cheats/Infinite Arrows Both Characters
+[Cheats/Infinite Arrows Both Characters]
 patch=1,EE,2019C8E0,extended,00000000
 
-//Cheats/1 Hit Death Enemies
+[Cheats/1 Hit Death Enemies]
 patch=1,EE,200C02B0,extended,342189A4
 patch=1,EE,200C02B4,extended,0201082B
 patch=1,EE,200C02B8,extended,50200003
@@ -54,7 +54,7 @@ patch=1,EE,200C02CC,extended,00000000
 patch=1,EE,201AE1BC,extended,0C0300AC
 patch=1,EE,201AE1C0,extended,3C010054
 
-//Cheats/1 Hit Death Enemies & Infinite Health P1 And P2
+[Cheats/1 Hit Death Enemies & Infinite Health P1 And P2]
 patch=1,EE,200C02B0,extended,342189A4
 patch=1,EE,200C02B4,extended,0201082B
 patch=1,EE,200C02B8,extended,50200003
@@ -66,15 +66,15 @@ patch=1,EE,200C02CC,extended,00000000
 patch=1,EE,201AE1BC,extended,0C0300AC
 patch=1,EE,201AE1C0,extended,3C010054
 
-//Cheats/Unlock All Ending Edits
+[Cheats/Unlock All Ending Edits]
 patch=1,EE,2058C208,extended,FFFFFFFF
 patch=1,EE,2058C20C,extended,FFFFFFFF
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,2059051C,extended,FFFFFFFF
 patch=1,EE,20590520,extended,FFFFFFFF
 
-//Cheats/Unlock All Artwork
+[Cheats/Unlock All Artwork]
 patch=1,EE,40590524,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,0059053C,extended,000000FF

@@ -1,27 +1,27 @@
-//Cheats/Unlock All CG Avaliable
+[Cheats/Unlock All CG Avaliable]
 patch=1,EE,20D598CC,extended,FFFFFFFF
 patch=1,EE,20D598D0,extended,FFFFFFFF
 patch=1,EE,20D598D4,extended,FFFFFFFF
 patch=1,EE,20D598D8,extended,FFFFFFFF
 patch=1,EE,10D598DC,extended,0000FFFF
 
-//Cheats/Unlock All CG Viewing Mode
+[Cheats/Unlock All CG Viewing Mode]
 patch=1,EE,40D598CC,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10D598DC,extended,0000FFFF
 
-//Cheats/Unlock All Scenario Playback Mode
+[Cheats/Unlock All Scenario Playback Mode]
 patch=1,EE,40D598E4,extended,000C0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10D59914,extended,0000FFFF
 
-//Cheats/Unlock All Special
+[Cheats/Unlock All Special]
 patch=1,EE,40D59974,extended,00060001
 patch=1,EE,000000FF,extended,00000000
 patch=1,EE,40D59994,extended,000A0001
 patch=1,EE,000000FF,extended,00000000
 
-//Cheats/New Game = Debug Menu This lets you choose scenes to view. The right most middle options start various script tests
+[Cheats/New Game = Debug Menu This lets you choose scenes to view. The right most middle options start various script tests]
 patch=1,EE,2020D998,extended,55424544
 patch=1,EE,2020D99C,extended,54535F47
 patch=1,EE,2020D9A0,extended,00545241

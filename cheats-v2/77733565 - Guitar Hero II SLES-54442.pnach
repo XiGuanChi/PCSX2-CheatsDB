@@ -1,10 +1,10 @@
 gametitle=Guitar Hero II SLES-54442
-//All Characters
+[All Characters]
 patch=1,EE,10AAE95E,extended,00000006
 patch=1,EE,10AAE97E,extended,00000006
 patch=1,EE,10AAE99E,extended,00000006
 
-//All Guitars
+[All Guitars]
 patch=1,EE,10AAE19E,extended,00000006
 patch=1,EE,10AAE1AE,extended,00000006
 patch=1,EE,10AAE1BE,extended,00000006
@@ -30,23 +30,23 @@ patch=1,EE,10AAE2EE,extended,00000006
 patch=1,EE,10AAE2FE,extended,00000006
 patch=1,EE,10AAE30E,extended,00000006
 
-//Notes Value x10
+[Notes Value x10]
 patch=1,EE,2011F1F8,extended,2442000A
 patch=1,EE,2011F200,extended,2463000A
 
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,20AAAC44,extended,05F5E0FF
 
-//Easy Shout At the Devil Unlock
+[Easy Shout At the Devil Unlock]
 patch=1,EE,10AAD40E,extended,00000002
 
-//Easy Shout At the Devil Unlock High Score
+[Easy Shout At the Devil Unlock High Score]
 patch=1,EE,20AAD408,extended,05F5E0FF
 patch=1,EE,10AAD40C,extended,00000505
 
-//Easy Mother Unlock
+[Easy Mother Unlock]
 patch=1,EE,10AAD41E,extended,00000002
 
-//Easy Mother High Score
+[Easy Mother High Score]
 patch=1,EE,20AAD418,extended,05F5E0FF
 patch=1,EE,10AAD41C,extended,00000505

@@ -1,16 +1,16 @@
 gametitle=Mission Impossible - Operation Surma SLES-52001
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20120BAC,extended,8E210048
 patch=1,EE,20120BB4,extended,AE210040
 
-//Open Levels Menu
+[Open Levels Menu]
 patch=1,EE,205972E4,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201E3404,extended,24C20000
 
-//Bypass Death Check
+[Bypass Death Check]
 patch=1,EE,201156E0,extended,00000000
 
-//Mission Never Fail
+[Mission Never Fail]
 patch=1,EE,2059400C,extended,00000001

@@ -1,11 +1,11 @@
 gametitle=Harry Potter and the Prisoner of Azkaban SLES-52440 SLUS-20926
-//Infinite Health
-//Use only after the intro train sequence
+[Infinite Health]
+[Use only after the intro train sequence]
 patch=1,EE,2010DC18,extended,C4410038
 patch=1,EE,2010DC1C,extended,E4410034
 
-//Infinite Health (alternate)
-//Press L3 to activate R3 to disable
+[Infinite Health (alternate)]
+[Press L3 to activate R3 to disable]
 patch=1,EE,E002FFFD,extended,004F57C0
 patch=1,EE,2010DC18,extended,C4410038
 patch=1,EE,2010DC1C,extended,E4410034
@@ -13,33 +13,33 @@ patch=1,EE,E002FFFB,extended,004F57C0
 patch=1,EE,2010DC18,extended,54400001
 patch=1,EE,2010DC1C,extended,C4410034
 
-//Max Wiggenwelds
+[Max Wiggenwelds]
 patch=1,EE,200C0240,extended,080D1300
 patch=1,EE,200C0244,extended,A0660000
 patch=1,EE,2010EF0C,extended,24060063
 patch=1,EE,2010EF18,extended,0C030090
 
-//Boss Has No Health
+[Boss Has No Health]
 patch=1,EE,2010E250,extended,AC400034
 patch=1,EE,2010E254,extended,44806000
 
-//Debug Menu: Chapter Selection
-//Press L1 on the main menu screen
+[Debug Menu: Chapter Selection]
+[Press L1 on the main menu screen]
 patch=1,EE,201120F8,extended,24A5CCC0
 
 
-//Owl Racing Available
+[Owl Racing Available]
 patch=1,EE,2010F6C8,extended,00000000
 
-//Access Hippogrip Flight Challenge
+[Access Hippogrip Flight Challenge]
 patch=1,EE,204D9E48,extended,00000001
 
-//All Spells
+[All Spells]
 patch=1,EE,201B0F40,extended,AE020004
 patch=1,EE,201B0F50,extended,24020001
 
-//10000 House Points
+[10000 House Points]
 patch=1,EE,1047C86C,extended,0000270f
 
-//Game Map Always Visible
+[Game Map Always Visible]
 patch=1,EE,2011212C,extended,00000000

@@ -1,20 +1,20 @@
 gametitle=Gunparade Orchestra - Midori no Shou SCPS-15108
-//Even without weapons parts and possible remodeling
+[Even without weapons parts and possible remodeling]
 patch=1,EE,203607D8,extended,00000000
 
-//Increase voice power after battle
+[Increase voice power after battle]
 patch=1,EE,2015583C,extended,3C060098
 
-//Enhance even without items
+[Enhance even without items]
 patch=1,EE,203607D8,extended,1400005F
 
-//It seems there are lots of possessions Actually it does not increase, but I can shop
+[It seems there are lots of possessions Actually it does not increase, but I can shop]
 patch=1,EE,2014826C,extended,3C1005F5
 
-//Voice power MAX
+[Voice power MAX]
 patch=1,EE,20134FAC,extended,0080300A
 
-//Physical strength, aerobic 255, genius, fortune mastered
+[Physical strength, aerobic 255, genius, fortune mastered]
 patch=1,EE,201478A4,extended,0803D400
 patch=1,EE,200F5000,extended,24030003
 patch=1,EE,200F5004,extended,AE230844
@@ -25,11 +25,11 @@ patch=1,EE,200F5014,extended,AE230004
 patch=1,EE,200F5018,extended,08051E2B
 patch=1,EE,200F501C,extended,AE230044
 
-//Maximum ammunition increases
+[Maximum ammunition increases]
 patch=1,EE,20362968,extended,14000004
 
-//Acquired experience value 1000
+[Acquired experience value 1000]
 patch=1,EE,202B9D80,extended,240303E8
 
-//Scenario & cast selection from the first time
+[Scenario & cast selection from the first time]
 patch=1,EE,201AD4DC,extended,AE3F0118

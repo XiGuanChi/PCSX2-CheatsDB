@@ -1,61 +1,61 @@
-//Cheats/Max Gold
+[Cheats/Max Gold]
 patch=1,EE,2025D554,extended,00099999
 
-//Cheats/Have All Tanks
+[Cheats/Have All Tanks]
 patch=1,EE,401ED7F4,extended,006E0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Main Guns
+[Cheats/Have All Main Guns]
 patch=1,EE,201ED654,extended,00000001
 patch=1,EE,201ED658,extended,00000001
 patch=1,EE,401ED614,extended,000F0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Dual Armaments A
+[Cheats/Have All Dual Armaments A]
 patch=1,EE,401ED660,extended,000B0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Dual Armaments B
+[Cheats/Have All Dual Armaments B]
 patch=1,EE,401ED690,extended,00100001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Engines
+[Cheats/Have All Engines]
 patch=1,EE,401ED6D4,extended,00090001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Running Parts
+[Cheats/Have All Running Parts]
 patch=1,EE,401ED6FC,extended,000C0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Special Parts
+[Cheats/Have All Special Parts]
 patch=1,EE,401ED730,extended,000B0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Turret Gears
+[Cheats/Have All Turret Gears]
 patch=1,EE,401ED774,extended,00070001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Computers
+[Cheats/Have All Computers]
 patch=1,EE,401ED794,extended,00070001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Radars
+[Cheats/Have All Radars]
 patch=1,EE,401ED7B4,extended,00070001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Internal Equipment
+[Cheats/Have All Internal Equipment]
 patch=1,EE,401ED760,extended,00030001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Have All Additional Armor
+[Cheats/Have All Additional Armor]
 patch=1,EE,401ED7D4,extended,00070001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Error Avoidance
+[Cheats/Error Avoidance]
 patch=1,EE,201A14C8,extended,03E00008
 patch=1,EE,201A14CC,extended,00000000
 patch=1,EE,201A1820,extended,03E00008
 patch=1,EE,201A1824,extended,00000000
 
-//Cheats/Main Debug DEBUG DIRECT On
+[Cheats/Main Debug DEBUG DIRECT On]
 patch=1,EE,0023FF7B,extended,00000002

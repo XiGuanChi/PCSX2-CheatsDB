@@ -1,5 +1,5 @@
 gametitle=Rockman X8 SLPM-65730
-//Invincible (suicide in the SELECT + R2 button)
+[Invincible (suicide in the SELECT + R2 button)]
 patch=1,EE,202DBBEC,extended,240200C8
 patch=1,EE,202DBBF0,extended,AE02002C
 patch=1,EE,202DBBF4,extended,AE020040
@@ -8,24 +8,24 @@ patch=1,EE,20217568,extended,03E00008
 patch=1,EE,D0A0E642,extended,0000FDFE
 patch=1,EE,20217560,extended,24020001
 
-//Not decrease weapon energy
+[Not decrease weapon energy]
 patch=1,EE,20231158,extended,00441821
 patch=1,EE,2023115C,extended,24020090
 patch=1,EE,20231160,extended,A4620808
 patch=1,EE,20231164,extended,03E00008
 
-//Possession metal 9999999
+[Possession metal 9999999]
 patch=1,EE,20653974,extended,0098967F
 
-//MAX in the attack gauge rise
+[MAX in the attack gauge rise]
 patch=1,EE,201A7F24,extended,00000000
 
-//Accelerator hover continuously available
+[Accelerator hover continuously available]
 patch=1,EE,2021CDC4,extended,10000003
 
-//Combo Counter MAX
+[Combo Counter MAX]
 patch=1,EE,201CF244,extended,240203E7
 
-//Chip development three almost 100%
+[Chip development three almost 100%]
 patch=1,EE,20162E58,extended,24010001
 patch=1,EE,20162E6C,extended,A0410018

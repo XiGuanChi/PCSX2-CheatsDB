@@ -1,33 +1,33 @@
 gametitle=Devil Kings SLUS-21297
-//Quick Level Up with Immortal Status in Battle!
+[Quick Level Up with Immortal Status in Battle!]
 patch=1,EE,217C93A4,extended,000003E7
 
-//Infinite HP
+[Infinite HP]
 patch=1,EE,217C844C,extended,00013880
 
-//Max HP
+[Max HP]
 patch=1,EE,217C8454,extended,00013880
 
-//Infinite Fury
+[Infinite Fury]
 patch=1,EE,217C93E4,extended,00004E20
 
-//Max Fury
+[Max Fury]
 patch=1,EE,217C93EC,extended,00004E20
 
-//All Characters
+[All Characters]
 patch=1,EE,40561110,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,2056114C,extended,FFFFFFFF
 
-//All Movies
+[All Movies]
 patch=1,EE,20561158,extended,FFFFFFFF
 
-//All Music
+[All Music]
 patch=1,EE,20561150,extended,FFFFFFFF
 patch=1,EE,20561154,extended,FFFFFFFF
 
-//Unlock All Land
+[Unlock All Land]
 patch=1,EE,205610E8,extended,FFFFFFFF
 
-//Unlock All Generals
+[Unlock All Generals]
 patch=1,EE,205610E4,extended,FFFFFFFF

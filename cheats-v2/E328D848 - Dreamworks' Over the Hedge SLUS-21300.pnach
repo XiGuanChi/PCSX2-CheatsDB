@@ -1,16 +1,16 @@
 gametitle=Dreamworks' Monsters vs Aliens SLUS-21870
-//Max Score Points
+[Max Score Points]
 patch=1,EE,20985B00,extended,3B9AC9FF
 
-//Inf/Max Health
+[Inf/Max Health]
 patch=1,EE,109C8FD0,extended,0000270F
 patch=1,EE,109C8FD8,extended,0000270F
 
-//Gain 1000DNA each Pickup
+[Gain 1000DNA each Pickup]
 patch=1,EE,209C821C,extended,2402270F
 
-//INF HP
+[INF HP]
 patch=1,EE,209C7344,extended,AC830000
 
-//Inf Gun (ASM) Player 2
+[Inf Gun (ASM) Player 2]
 patch=1,EE,209C7738,extended,E43F8FEC

@@ -1,4 +1,4 @@
-//Cheats/View Status Max Fol
+[Cheats/View Status Max Fol]
 patch=1,EE,200C2000,extended,3C017916
 patch=1,EE,200C2004,extended,34212708
 patch=1,EE,200C2008,extended,AE410034
@@ -12,7 +12,7 @@ patch=1,EE,200C2024,extended,964400A6
 patch=1,EE,D0269258,extended,000000A6
 patch=1,EE,20269258,extended,08030800
 
-//Cheats/Infinite HP In Battle
+[Cheats/Infinite HP In Battle]
 patch=1,EE,200C2030,extended,AC680010
 patch=1,EE,200C2034,extended,AC680018
 patch=1,EE,200C2038,extended,01082821
@@ -21,7 +21,7 @@ patch=1,EE,200C2040,extended,01052026
 patch=1,EE,200C2044,extended,00E42026
 patch=1,EE,200C2048,extended,AC64008C
 
-//Cheats/Infinite MP In Battle
+[Cheats/Infinite MP In Battle]
 patch=1,EE,200C2050,extended,8C690020
 patch=1,EE,200C2054,extended,AC69001C
 patch=1,EE,200C2058,extended,AC690024
@@ -31,7 +31,7 @@ patch=1,EE,200C2064,extended,01252026
 patch=1,EE,200C2068,extended,00E42026
 patch=1,EE,200C206C,extended,AC640090
 
-//Cheats/Skip the integrity check of the main executable file
+[Cheats/Skip the integrity check of the main executable file]
 patch=1,EE,E0110011,extended,001F7660
 patch=1,EE,201e2530,extended,10000016
 patch=1,EE,201e2ff8,extended,10000016
@@ -51,7 +51,7 @@ patch=1,EE,201f73d0,extended,10000016
 patch=1,EE,201f7500,extended,10000016
 patch=1,EE,201f7660,extended,10000016
 
-//Cheats/In Battle anti-cheat checks
+[Cheats/In Battle anti-cheat checks]
 patch=1,EE,E002FFFA,extended,001EDB44
 patch=1,EE,201EDB44,extended,1400fffa
 patch=1,EE,201E94E0,extended,1000000F 

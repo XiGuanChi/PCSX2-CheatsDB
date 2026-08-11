@@ -1,18 +1,18 @@
-//Cheats/Unlock All Bustup
+[Cheats/Unlock All Bustup]
 patch=1,EE,41E34F10,extended,00080001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All CG
+[Cheats/Unlock All CG]
 patch=1,EE,41E34D70,extended,000C0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Menu Options
+[Cheats/Unlock All Menu Options]
 patch=1,EE,21E34EF8,extended,00000001
 patch=1,EE,21E34EFC,extended,00000001
 patch=1,EE,21E34F00,extended,00000001
 patch=1,EE,21E34F04,extended,00000001
 patch=1,EE,21E34F08,extended,00000001
 
-//Cheats/Unlock All Omake
+[Cheats/Unlock All Omake]
 patch=1,EE,41E34F30,extended,000C0001
 patch=1,EE,00000001,extended,00000000

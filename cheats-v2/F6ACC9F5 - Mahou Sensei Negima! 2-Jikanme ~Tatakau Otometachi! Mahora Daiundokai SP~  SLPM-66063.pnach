@@ -1,43 +1,43 @@
 gametitle=Mahou Sensei Negima! 2-Jikanme ~Tatakau Otometachi! Mahora Daiundokai SP~  SLPM-66063
-//Reliability of current 99999
+[Reliability of current 99999]
 patch=1,EE,2035AB00,extended,0001869F
 
-//Remark Ponto 99999
+[Remark Ponto 99999]
 patch=1,EE,2035B820,extended,0001869F
 
-//One level up in the intimacy of conversation success once
+[One level up in the intimacy of conversation success once]
 patch=1,EE,20179FA4,extended,24010000
 
-//Does not decrease magic
+[Does not decrease magic]
 patch=1,EE,201D37E4,extended,00A02023
 
-//Album fully open
+[Album fully open]
 patch=1,EE,4034ED90,extended,00380001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,2034EE6C,extended,FF010101
 
-//Happening fully open
+[Happening fully open]
 patch=1,EE,2034EEBC,extended,01010101
 patch=1,EE,2034EEC0,extended,01010101
 patch=1,EE,0034EEC4,extended,00000001
 
-//Sports Festival preparation, all 100%
+[Sports Festival preparation, all 100%]
 patch=1,EE,2017C888,extended,94E30048
 patch=1,EE,2017C88C,extended,A5031F30
 patch=1,EE,2017C890,extended,00032880
 patch=1,EE,2017C894,extended,00A33021
 
-//All attribute lighting
+[All attribute lighting]
 patch=1,EE,2035AB10,extended,FFFFFFFF
 patch=1,EE,2035AB14,extended,FFFFFFFF
 patch=1,EE,2035AB20,extended,FFFFFFFF
 patch=1,EE,2035AB24,extended,FFFFFFFF
 
-//All sports festival practice command ? lighting
+[All sports festival practice command ? lighting]
 patch=1,EE,2035AB30,extended,FFFFFFFF
 patch=1,EE,2035AB38,extended,FFFFFFFF
 patch=1,EE,2035AB3C,extended,FFFFFFFF
 
-//All students stress status 0
+[All students stress status 0]
 patch=1,EE,20177784,extended,5000005F
 patch=1,EE,20177788,extended,24030000

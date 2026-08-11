@@ -1,21 +1,21 @@
-//Cheats/Max Bonus Points & allotment When you press left points becomes 0
+[Cheats/Max Bonus Points & allotment When you press left points becomes 0]
 patch=1,EE,2013DF08,extended,28410000
 patch=1,EE,2014A43C,extended,14000000
 patch=1,EE,2014A4C8,extended,00001025
 
-//Cheats/Max Money After Getting Some
+[Cheats/Max Money After Getting Some]
 patch=1,EE,201B70F0,extended,00000000
 
-//Cheats/Max MP
+[Cheats/Max MP]
 patch=1,EE,201C6AAC,extended,3404000C
 patch=1,EE,201C6AE4,extended,A072FFFF
 patch=1,EE,201C74CC,extended,3404000C
 patch=1,EE,201C7504,extended,A072FFFF
 
-//Cheats/Level Up To 9999 HP
+[Cheats/Level Up To 9999 HP]
 patch=1,EE,201C8684,extended,14200001
 
-//Cheats/Max Status Press L3 on the status screen to increase Only the character being referenced at that time will be at MAX except for evasion and agility.  The status will not change until you press the L3 button.This will also be reflected in your save data.
+[Cheats/Max Status Press L3 on the status screen to increase Only the character being referenced at that time will be at MAX except for evasion and agility.  The status will not change until you press the L3 button.This will also be reflected in your save data.]
 patch=1,EE,201C3188,extended,0803CC00
 patch=1,EE,201C318C,extended,3C010057
 patch=1,EE,200F3000,extended,9421AA82
@@ -26,47 +26,47 @@ patch=1,EE,200F3014,extended,A4410000
 patch=1,EE,200F301C,extended,84420000
 patch=1,EE,200F3020,extended,08070C64
 
-//Cheats/Max Status When you open the status screen
+[Cheats/Max Status When you open the status screen]
 patch=1,EE,201C3188,extended,0803CC00
 patch=1,EE,201C318C,extended,240103E7
 patch=1,EE,200F3000,extended,A4410000
 patch=1,EE,200F3004,extended,84420000
 
-//Cheats/Hero Status Max Power
+[Cheats/Hero Status Max Power]
 patch=1,EE,1055C5C8,extended,000003E7
 
-//Cheats/Hero Status Max Wisdom
+[Cheats/Hero Status Max Wisdom]
 patch=1,EE,1055C5CA,extended,000003E7
 
-//Cheats/Hero Status Max Faith
+[Cheats/Hero Status Max Faith]
 patch=1,EE,1055C5CC,extended,000003E7
 
-//Cheats/Hero Status Max Vitality
+[Cheats/Hero Status Max Vitality]
 patch=1,EE,1055C5CE,extended,000003E7
 
-//Cheats/Hero Status Max Agility
+[Cheats/Hero Status Max Agility]
 patch=1,EE,1055C5D0,extended,000003E7
 
-//Cheats/Hero Status Max Luck
+[Cheats/Hero Status Max Luck]
 patch=1,EE,1055C5D2,extended,000003E7
 
-//Cheats/Hero Status Max HP
+[Cheats/Hero Status Max HP]
 patch=1,EE,1055C65A,extended,0000270F
 
-//Cheats/Hero Status Max Current HP
+[Cheats/Hero Status Max Current HP]
 patch=1,EE,1055C65C,extended,270F270F
 
-//Cheats/Hero Status Max Experience point
+[Cheats/Hero Status Max Experience point]
 patch=1,EE,2055C640,extended,4876E7FF
 patch=1,EE,2055C644,extended,00000017
 
-//Cheats/When Using A Magic Stone The Magician Magic Rank Is Max Master
+[Cheats/When Using A Magic Stone The Magician Magic Rank Is Max Master]
 patch=1,EE,201C6F30,extended,00000021
 
-//Cheats/When Using A Magic Stone The Monk Magic Rank Is Max Master
+[Cheats/When Using A Magic Stone The Monk Magic Rank Is Max Master]
 patch=1,EE,201C7958,extended,00000021
 
-//Cheats/Unlock All Monsters Kill monsters that have not been encountered, all items other than the name and illustration in the encyclopedia will be recorded
+[Cheats/Unlock All Monsters Kill monsters that have not been encountered, all items other than the name and illustration in the encyclopedia will be recorded]
 patch=1,EE,201BCE1C,extended,00434021
 patch=1,EE,201BCE20,extended,3C020001
 patch=1,EE,201BCE24,extended,3442869F
@@ -78,12 +78,12 @@ patch=1,EE,2046C98C,extended,00435821
 patch=1,EE,2046C990,extended,24020001
 patch=1,EE,2046C994,extended,A1620000
 
-//Cheats/Unlock Item Registration For Monster Encyclopedia Information 2
+[Cheats/Unlock Item Registration For Monster Encyclopedia Information 2]
 patch=1,EE,2046DE40,extended,00506021
 patch=1,EE,2046DE44,extended,34029F9F
 patch=1,EE,2046DE4C,extended,A5820818
 
-//Cheats/Unlock Library New Mark Removed New mark appears when checking R2 fast forwarding It will disappear
+[Cheats/Unlock Library New Mark Removed New mark appears when checking R2 fast forwarding It will disappear]
 patch=1,EE,200F7090,extended,316B0001
 patch=1,EE,200F7094,extended,A04B0000
 patch=1,EE,200F7098,extended,03E00008

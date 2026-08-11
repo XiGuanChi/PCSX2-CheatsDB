@@ -1,15 +1,15 @@
 gametitle=Dynasty Warriors 4 SLUS-20653
-//Have All Movies
+[Have All Movies]
 patch=1,EE,20432220,extended,FFFFFFFF
 
-//Can Always Do Musou Move (Press ps2_kreis.gif )
+[Can Always Do Musou Move (Press ps2_kreis.gif )]
 patch=1,EE,201B6B1C,extended,00000000
 
-//Max K.O. Count Player 1
+[Max K.O. Count Player 1]
 patch=1,EE,1043BFA8,extended,0000270F
 
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,1050414E,extended,00001C00
 
-//Max Health Player 1
+[Max Health Player 1]
 patch=1,EE,1050414C,extended,000001C0

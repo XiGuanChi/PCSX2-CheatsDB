@@ -1,20 +1,20 @@
 gametitle=Tom Clancy's Splinter Cell SLES-51466
-//Infinite health
+[Infinite health]
 patch=1,EE,200FFFD0,extended,240100C8
 patch=1,EE,200FFFD4,extended,AE410394
 patch=1,EE,200FFFD8,extended,080CA79A
 patch=1,EE,20329E3C,extended,0803FFF4
 
-//Always in the Dark
+[Always in the Dark]
 patch=1,EE,2032D5F4,extended,AE800284
 
-//Full Ammo (99)
+[Full Ammo (99)]
 patch=1,EE,20367E30,extended,0C03FFC4
 patch=1,EE,200FFF10,extended,24060063
 patch=1,EE,200FFF14,extended,AEA60470
 patch=1,EE,200FFF18,extended,03E00008
 
-//Zero AlarmsThis code won't work on last level's entrance alarm
+[Zero AlarmsThis code won't work on last level's entrance alarm]
 patch=1,EE,200FFF40,extended,3C03004D
 patch=1,EE,200FFF44,extended,8C63B2D4
 patch=1,EE,200FFF4C,extended,8C63006C
@@ -23,8 +23,8 @@ patch=1,EE,200FFF64,extended,03E00008
 patch=1,EE,20329DB4,extended,0C03FFD0
 patch=1,EE,200FFF54,extended,AC6006C4
 
-//All Missions UK/DE
+[All Missions UK/DE]
 patch=1,EE,01068A3C,extended,0000002B
 
-//All Missions FR
+[All Missions FR]
 patch=1,EE,010AA87C,extended,0000002B

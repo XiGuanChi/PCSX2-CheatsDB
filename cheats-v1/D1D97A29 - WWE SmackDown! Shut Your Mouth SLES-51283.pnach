@@ -1,42 +1,42 @@
-//Cheats/Disable A.I.
+[Cheats/Disable A.I.]
 patch=1,EE,201F831C,extended,24020000
 
-//Cheats/Hyper Mode Press Select+L2 to activate. Press Select+R2 to deactivate.
+[Cheats/Hyper Mode Press Select+L2 to activate. Press Select+R2 to deactivate.]
 patch=1,EE,D04EE1C2,extended,0000FEFE
 patch=1,EE,20100B2C,extended,00000000
 patch=1,EE,D04EE1C2,extended,0000FDFE
 patch=1,EE,20100B2C,extended,0C04310C
 
-//Cheats/Freeze Timer
+[Cheats/Freeze Timer]
 patch=1,EE,203D01B8,extended,00000010
 
-//Cheats/Infinite Smackdown Usage
+[Cheats/Infinite Smackdown Usage]
 patch=1,EE,20152FF0,extended,00000000
 
-//Cheats/Never Ring Out Count
+[Cheats/Never Ring Out Count]
 patch=1,EE,003D0334,extended,00000000
 
-//Cheats/Max Ability Points
+[Cheats/Max Ability Points]
 patch=1,EE,202B2584,extended,240203E7
 patch=1,EE,202B257C,extended,00000000
 
-//Cheats/100 Opponent Slobber Knocker
+[Cheats/100 Opponent Slobber Knocker]
 patch=1,EE,10456DE4,extended,00000064
 
-//Cheats/No Disqualification
+[Cheats/No Disqualification]
 patch=1,EE,2015C0A0,extended,03E00008
 patch=1,EE,2015C0A4,extended,00000000
 
-//Cheats/Unlock Always Have Tables
+[Cheats/Unlock Always Have Tables]
 patch=1,EE,2013DE98,extended,00000000
 
-//Cheats/Unlock Always Have Mike
+[Cheats/Unlock Always Have Mike]
 patch=1,EE,2013DED0,extended,00000000
 
-//Cheats/Unlock All FMVs
+[Cheats/Unlock All FMVs]
 patch=1,EE,00432AEA,extended,000000FF
 
-//Cheats/Unlock All Unlockable Items
+[Cheats/Unlock All Unlockable Items]
 patch=1,EE,2042F028,extended,FFFFFFFF
 patch=1,EE,2042F02C,extended,FFFFFFFF
 patch=1,EE,2042F030,extended,FFFFFFFF

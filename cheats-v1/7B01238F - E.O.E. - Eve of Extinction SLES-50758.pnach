@@ -1,10 +1,10 @@
-//Cheats/Infinite Health Level 1
+[Cheats/Infinite Health Level 1]
 patch=1,EE,21032E60,extended,00FF00FF
 
-//Cheats/Infinite Health Level 2
+[Cheats/Infinite Health Level 2]
 patch=1,EE,2102F6A0,extended,00FF00FF
 
-//Cheats/Must Be On
+[Cheats/Must Be On]
 patch=1,EE,200FFF00,extended,3C030032
 patch=1,EE,200FFF04,extended,8C639980
 patch=1,EE,200FFF08,extended,2404FFFF
@@ -13,12 +13,12 @@ patch=1,EE,200FFFA8,extended,24030070
 patch=1,EE,200FFFAC,extended,08043788
 patch=1,EE,2010DE1C,extended,0803FFC0
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF14,extended,A06401C2
 
-//Cheats/Infinite Legacy Power
+[Cheats/Infinite Legacy Power]
 patch=1,EE,200FFF18,extended,A06401C0
 
-//Cheats/Full Ley Seeds
+[Cheats/Full Ley Seeds]
 patch=1,EE,200FFF1C,extended,AC640154
 patch=1,EE,200FFF20,extended,AC640158

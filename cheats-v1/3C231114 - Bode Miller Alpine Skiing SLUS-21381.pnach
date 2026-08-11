@@ -1,16 +1,16 @@
-//Cheats/Freeze Infinite Skill Points
+[Cheats/Freeze Infinite Skill Points]
 patch=1,EE,20863C84,extended,00000014
 
-//Cheats/Infnite Money
+[Cheats/Infnite Money]
 patch=1,EE,104E541C,extended,0000FFFF
 
-//Cheats/Max money
+[Cheats/Max money]
 patch=1,EE,204E541C,extended,05F5E0FF
 
-//Cheats/First place
+[Cheats/First place]
 patch=1,EE,00255200,extended,00000000
 
-//Cheats/Have All Awards
+[Cheats/Have All Awards]
 patch=1,EE,104E54DE,extended,00000101
 patch=1,EE,404E54E0,extended,00180001
 patch=1,EE,01010101,extended,00000000

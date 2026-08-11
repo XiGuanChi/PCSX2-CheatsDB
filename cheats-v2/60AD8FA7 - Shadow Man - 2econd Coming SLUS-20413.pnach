@@ -1,21 +1,21 @@
 gametitle=Shadow Man: 2econd Coming SLUS-20413
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2010C0F0,extended,03E00008
 patch=1,EE,2010C0F4,extended,00000000
 
-//Invincible
+[Invincible]
 patch=1,EE,202BBF04,extended,00000001
 
-//Have All Menu Items/Weapons
+[Have All Menu Items/Weapons]
 patch=1,EE,202BABCC,extended,00000001
 
-//infinite Ammo Usage
+[infinite Ammo Usage]
 patch=1,EE,201414A0,extended,00000000
 
-//Can Use Voodoo When Empty
+[Can Use Voodoo When Empty]
 patch=1,EE,20187148,extended,03E00008
 patch=1,EE,2018714C,extended,24020001
 
-//All Voodoos
+[All Voodoos]
 patch=1,EE,20187200,extended,03E00008
 patch=1,EE,20187204,extended,00000000

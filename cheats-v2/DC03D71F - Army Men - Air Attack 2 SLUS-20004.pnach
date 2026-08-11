@@ -1,54 +1,54 @@
 gametitle=Army Men - Air Attack 2 SLUS-20004
-//Have All Levels 
+[Have All Levels]
 patch=1,EE,202E0D20,extended,00000014
 patch=1,EE,202E0E58,extended,00000014
 
-//Have All Co-Pilots 
+[Have All Co-Pilots]
 patch=1,EE,202E0D0C,extended,000000FF
 patch=1,EE,202E0E44,extended,000000FF
 
-//Access All Helicopters 
+[Access All Helicopters]
 patch=1,EE,2014FD54,extended,2410000F
 
-//Bee Mode 
+[Bee Mode]
 patch=1,EE,10A86DB4,extended,00000003
 
-//Single Player Mode Codes Infinite Health 
+[Single Player Mode Codes Infinite Health]
 patch=1,EE,D0A51AAE,extended,000000A1
 patch=1,EE,20A51A8C,extended,000F5000
 
-//Infinite Ammo (Helicopter) 
+[Infinite Ammo (Helicopter)]
 patch=1,EE,D0A46442,extended,000000A1
 patch=1,EE,00A4642A,extended,00000063
 
-//Infinite Ammo (Co-Pilot) 
+[Infinite Ammo (Co-Pilot)]
 patch=1,EE,D0A46522,extended,000000A1
 patch=1,EE,00A4650A,extended,00000063
 
-//Infinite Health cheat
+[Infinite Health cheat]
 patch=1,EE,10A51A8E,extended,0000001A
 
-//Infinite Copter Ammo Cheat
+[Infinite Copter Ammo Cheat]
 patch=1,EE,00A4642A,extended,00000062
 
-//Infinite Co-Pilot Ammo Cheat
+[Infinite Co-Pilot Ammo Cheat]
 patch=1,EE,00A4650A,extended,000000626
 
-//Multi Player Mode Codes Infinite Health P1 
+[Multi Player Mode Codes Infinite Health P1]
 patch=1,EE,20A50E4C,extended,000F5000
 
-//Infinite Health P2 
+[Infinite Health P2]
 patch=1,EE,20A512CC,extended,000F5000
 
-//Infinite Ammo P1 (Helicopter) 
+[Infinite Ammo P1 (Helicopter)]
 patch=1,EE,00A457EA,extended,00000063
 
-//Infinite Ammo P2 (Helicopter) 
+[Infinite Ammo P2 (Helicopter)]
 patch=1,EE,00A45B6A,extended,00000063
 
-//Infinite Ammo P1 (Co-Pilot) 
+[Infinite Ammo P1 (Co-Pilot)]
 patch=1,EE,00A458CA,extended,00000063
 
-//Infinite Ammo P2 (Co-Pilot) 
+[Infinite Ammo P2 (Co-Pilot)]
 patch=1,EE,00A45C4A,extended,00000063
 

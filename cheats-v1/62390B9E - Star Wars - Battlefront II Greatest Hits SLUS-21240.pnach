@@ -1,15 +1,15 @@
-//Cheats/Infinite Stamina
+[Cheats/Infinite Stamina]
 patch=1,EE,201E2030,extended,20620001
 
-//Cheats/Infinite Jetpack Fuel
+[Cheats/Infinite Jetpack Fuel]
 patch=1,EE,20247748,extended,00000000
 patch=1,EE,20244618,extended,00000000
 
-//Cheats/Most Enemies Can't Move L2 Left On - L2 Right Off
+[Cheats/Most Enemies Can't Move L2 Left On - L2 Right Off]
 patch=1,EE,D07CD75C,extended,0000FE7F
 patch=1,EE,202AFB50,extended,1000000A
 patch=1,EE,D07CD75C,extended,0000FEDF
 patch=1,EE,202AFB50,extended,1040000A
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,203038A4,extended,00000000

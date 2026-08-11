@@ -1,16 +1,16 @@
-//Cheats/Press L3 In Battle to Restore SP, HP, grant unlimited items and have all items
+[Cheats/Press L3 In Battle to Restore SP, HP, grant unlimited items and have all items]
 patch=1,EE,D035F842,extended,0000FFFD
 patch=1,EE,002FE361,extended,00000001
 patch=1,EE,D035F842,extended,0000FFFD
 patch=1,EE,002FE364,extended,00000001
 
-//Cheats/Max SP
+[Cheats/Max SP]
 patch=1,EE,10B92A90,extended,0000270f
 
-//Cheats/Max LV
+[Cheats/Max LV]
 patch=1,EE,00B92A88,extended,00000063
 
-//Cheats/All Items 9999 Pieces
+[Cheats/All Items 9999 Pieces]
 patch=1,EE,10C98796,extended,0000270F
 patch=1,EE,40C98798,extended,00150001
 patch=1,EE,270F270F,extended,00000000

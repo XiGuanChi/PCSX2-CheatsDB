@@ -1,6 +1,6 @@
 gametitle=Oni SLES-50177
-//Infinite Health
+[Infinite Health]
 patch=1,EE,106E6C20,extended,000003E8
 
-//Infinite Main Weapon Ammo
+[Infinite Main Weapon Ammo]
 patch=1,EE,1052511E,extended,0000000A

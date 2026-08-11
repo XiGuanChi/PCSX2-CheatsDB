@@ -1,32 +1,32 @@
-//Cheats/Max BOR
+[Cheats/Max BOR]
 patch=1,EE,20286940,extended,05F5E0FF
 
-//Cheats/Infinitr HP Character 1
+[Cheats/Infinitr HP Character 1]
 patch=1,EE,202869DC,extended,0098967F
 patch=1,EE,202869E4,extended,0098967F
 
-//Cheats/Infinitr HP Character 2
+[Cheats/Infinitr HP Character 2]
 patch=1,EE,20286CE4,extended,0098967F
 patch=1,EE,20286CEC,extended,0098967F
 
-//Cheats/Infinitr HP Character 3
+[Cheats/Infinitr HP Character 3]
 patch=1,EE,20286FEC,extended,0098967F
 patch=1,EE,20286FF4,extended,0098967F
 
-//Cheats/Infinitr HP Character 4
+[Cheats/Infinitr HP Character 4]
 patch=1,EE,202872F4,extended,0098967F
 patch=1,EE,202872FC,extended,0098967F
 
-//Cheats/Quick EXP Gain In Battle
+[Cheats/Quick EXP Gain In Battle]
 patch=1,EE,201824E8,extended,64427FFF
 
-//Cheats/Phantoms Never Removed From Battle
+[Cheats/Phantoms Never Removed From Battle]
 patch=1,EE,201AD980,extended,00000000
 
-//Cheats/Unlock All Phantoms Stay For 99 Turns
+[Cheats/Unlock All Phantoms Stay For 99 Turns]
 patch=1,EE,2015B2C8,extended,24020063
 
-//Cheats/Enable Debug Mode
+[Cheats/Enable Debug Mode]
 patch=1,EE,201004B8,extended,8F848814
 patch=1,EE,201004BC,extended,34840002
 patch=1,EE,201004C0,extended,1000000B
@@ -38,7 +38,7 @@ patch=1,EE,20248744,extended,0000000A
 patch=1,EE,D0260442,extended,0000FFFB
 patch=1,EE,20248744,extended,00000014
 
-//Cheats/Save Load Enable Code
+[Cheats/Save Load Enable Code]
 patch=1,EE,20143D3C,extended,10000006
 
  

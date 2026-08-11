@@ -1,38 +1,38 @@
-//Cheats/Infinite Munny
+[Cheats/Infinite Munny]
 patch=1,EE,2040AFAC,extended,0001869F
 
-//Cheats/Infinite health Sora In Battle
+[Cheats/Infinite health Sora In Battle]
 patch=1,EE,003F4625,extended,00000096
 patch=1,EE,00526F94,extended,00000096
 
-//Cheats/Slot 2 - Infinite HP In Battle do not use it if Sora alone
+[Cheats/Slot 2 - Infinite HP In Battle do not use it if Sora alone]
 patch=1,EE,00527078,extended,00000063
 
-//Cheats/Slot 3 - Infinite HP In Battle do not use it if Sora alone
+[Cheats/Slot 3 - Infinite HP In Battle do not use it if Sora alone]
 patch=1,EE,0052715C,extended,00000063
 
-//Cheats/Have All Trinities
+[Cheats/Have All Trinities]
 patch=1,EE,003F67AB,extended,0000007F
 
-//Cheats/Have Dumbo Summon
+[Cheats/Have Dumbo Summon]
 patch=1,EE,003F5360,extended,00000000
 
-//Cheats/Have Bambi Summon
+[Cheats/Have Bambi Summon]
 patch=1,EE,003F5361,extended,00000001
 
-//Cheats/Have Mushu Summon
+[Cheats/Have Mushu Summon]
 patch=1,EE,003F5362,extended,00000004
 
-//Cheats/Have Tinker Bell Summon
+[Cheats/Have Tinker Bell Summon]
 patch=1,EE,003F5363,extended,00000003
 
-//Cheats/Have Simba Summon
+[Cheats/Have Simba Summon]
 patch=1,EE,003F5364,extended,00000005
 
-//Cheats/Have Genie Summon
+[Cheats/Have Genie Summon]
 patch=1,EE,003F5365,extended,00000002
 
-//Cheats/All Dalmatians
+[Cheats/All Dalmatians]
 patch=1,EE,003F6293,extended,000000FF
 patch=1,EE,203F6294,extended,FFFFFFFF
 patch=1,EE,203F6298,extended,FFFFFFFF

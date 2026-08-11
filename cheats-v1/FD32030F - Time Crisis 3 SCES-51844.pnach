@@ -1,17 +1,17 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,21A1C64C,extended,00000005
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,21A1C624,extended,00002EE0
 
-//Cheats/Handgun Ammo No Reload
+[Cheats/Handgun Ammo No Reload]
 patch=1,EE,21A1C794,extended,00000009
 
-//Cheats/M-Gun Ammo No Reload
+[Cheats/M-Gun Ammo No Reload]
 patch=1,EE,21A1C798,extended,000000C8
 
-//Cheats/Shotgun Ammo No Reload
+[Cheats/Shotgun Ammo No Reload]
 patch=1,EE,21A1C79C,extended,00000050
 
-//Cheats/Grenade Ammo No Reload
+[Cheats/Grenade Ammo No Reload]
 patch=1,EE,21A1C7A0,extended,00000005

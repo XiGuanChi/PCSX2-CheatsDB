@@ -1,14 +1,14 @@
 gametitle=NCAA Football '10 SLUS-21892
-//Create-A-Player Codes
-//Max 99 Create-A-Player Stats
+[Create-A-Player Codes]
+[Max 99 Create-A-Player Stats]
 patch=1,EE,4085B608,extended,00120001
 patch=1,EE,0000001F,extended,00000000
 
-//99 Overal Create-A-Player
+[99 Overal Create-A-Player]
 patch=1,EE,2085B600,extended,0000001F
 
-//Campus Legend
-//40 Yard Dash
+[Campus Legend]
+[40 Yard Dash]
 patch=1,EE,202C0E70,extended,AE010004
 patch=1,EE,202C0E74,extended,3C013FC0
 patch=1,EE,202C0E78,extended,34210000

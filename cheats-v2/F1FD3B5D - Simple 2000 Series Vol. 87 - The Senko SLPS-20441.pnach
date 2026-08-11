@@ -1,5 +1,5 @@
 gametitle=Simple 2000 Series Vol. 87 - The Senko SLPS-20441
-//View mystery vein and skills fully open
+[View mystery vein and skills fully open]
 patch=1,EE,2012DFA4,extended,24020001
 patch=1,EE,2012DFA8,extended,03E00008
 patch=1,EE,2012DFAC,extended,AC620228
@@ -7,44 +7,44 @@ patch=1,EE,2012DFCC,extended,24020001
 patch=1,EE,2012DFD0,extended,03E00008
 patch=1,EE,2012DFD4,extended,AC620458
 
-//It does not hit the attack
+[It does not hit the attack]
 patch=1,EE,201409EC,extended,10000028
 patch=1,EE,20140D14,extended,10000027
 
-//Continuous attack with no time-out
+[Continuous attack with no time-out]
 patch=1,EE,20139658,extended,00000000
 
-//1P: not reduced physical strength
+[1P: not reduced physical strength]
 patch=1,EE,2034F2F4,extended,00000320
 patch=1,EE,2034F2F8,extended,00000320
 
-//1P: cartridge 5 shots
+[1P: cartridge 5 shots]
 patch=1,EE,2034F438,extended,00000005
 
-//2P: not reduced physical strength
+[2P: not reduced physical strength]
 patch=1,EE,20356F74,extended,00000320
 patch=1,EE,20356F78,extended,00000320
 
-//2P: cartridge 5 shots
+[2P: cartridge 5 shots]
 patch=1,EE,203570B8,extended,00000005
 
-//1P & 2P: scattered Mukurotamashi automatic recovery
+[1P & 2P: scattered Mukurotamashi automatic recovery]
 patch=1,EE,2020B484,extended,00000000
 
-//Mukurotamashi maximum
+[Mukurotamashi maximum]
 patch=1,EE,202A3E04,extended,000F423F
 
-//Purgatory wandering all stages can be selected
+[Purgatory wandering all stages can be selected]
 patch=1,EE,2012DE18,extended,24020003
 patch=1,EE,2012DE1C,extended,ACA2003C
 
-//Hero against Tan whole stage appearance
+[Hero against Tan whole stage appearance]
 patch=1,EE,202A3BEC,extended,0000000B
 patch=1,EE,202A3BF0,extended,0000000B
 patch=1,EE,202A3BF4,extended,0000000B
 patch=1,EE,202A3BF8,extended,0000000B
 
-//Additional bonus
+[Additional bonus]
 patch=1,EE,002A3BE0,extended,000000FF
 patch=1,EE,202A40C0,extended,00000001
 patch=1,EE,402A4054,extended,00090001

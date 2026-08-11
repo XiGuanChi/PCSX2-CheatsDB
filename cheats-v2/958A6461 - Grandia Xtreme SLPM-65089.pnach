@@ -1,58 +1,58 @@
 gametitle=Grandia Xtreme SLPM-65089
-//All the status MAX (save unreflected) Maximum HP
+[All the status MAX (save unreflected) Maximum HP]
 patch=1,EE,20412F4C,extended,005D200B
 
-//Maximum SP
+[Maximum SP]
 patch=1,EE,2041300C,extended,0060200A
 
-//Muscle strength
+[Muscle strength]
 patch=1,EE,204130CC,extended,0060200A
 
-//Physical fitness
+[Physical fitness]
 patch=1,EE,2041318C,extended,0060200A
 
-//Intelligence
+[Intelligence]
 patch=1,EE,2041324C,extended,0060200A
 
-//Spirit
+[Spirit]
 patch=1,EE,2041330C,extended,0060200A
 
-//Agile
+[Agile]
 patch=1,EE,204133CC,extended,0060200A
 
-//Running power
+[Running power]
 patch=1,EE,2041348C,extended,0060380A
 
-//Everyone up to HP99999
+[Everyone up to HP99999]
 patch=1,EE,10412F4E,extended,00000042
 
-//Everyone up to SP999
+[Everyone up to SP999]
 patch=1,EE,1041300E,extended,00000060
 
-//Everyone muscle strength 9999
+[Everyone muscle strength 9999]
 patch=1,EE,104130CE,extended,00000060
 
-//Everyone's physical strength 9999
+[Everyone's physical strength 9999]
 patch=1,EE,1041318E,extended,00000060
 
-//Everyone intelligence 9999
+[Everyone intelligence 9999]
 patch=1,EE,1041324E,extended,00000060
 
-//Everyone spirit 9999
+[Everyone spirit 9999]
 patch=1,EE,1041330E,extended,00000060
 
-//Everyone agility 9999
-//104133 CE 00000060
+[Everyone agility 9999]
+[104133 CE 00000060]
 
-//Everyone running power 9999
+[Everyone running power 9999]
 patch=1,EE,1041348E,extended,00000060
 
-//HP full recovery every time the field is displayed
+[HP full recovery every time the field is displayed]
 patch=1,EE,10415962,extended,00000063
 
-//SP full recovery every time the field is displayed
-//104159 AA 00000063
+[SP full recovery every time the field is displayed]
+[104159 AA 00000063]
 
-//Composite card fully opened
+[Composite card fully opened]
 patch=1,EE,204EFAF0,extended,FFFFFFFF
 patch=1,EE,204EFAF4,extended,FFFFFFFF

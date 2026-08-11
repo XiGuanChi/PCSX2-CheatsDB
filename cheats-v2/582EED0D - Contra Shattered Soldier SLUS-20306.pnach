@@ -1,30 +1,30 @@
 gametitle=Contra Shattered Soldier SLUS-20306
-//Infinite Credits
+[Infinite Credits]
 patch=1,EE,10912534,extended,00000063
 
-//Infinite Lives Player 1
+[Infinite Lives Player 1]
 patch=1,EE,109128C0,extended,00000063
 
-//Infinite Lives Player 2
+[Infinite Lives Player 2]
 patch=1,EE,109128D0,extended,00000063
 
-//Invincible Player 1
+[Invincible Player 1]
 patch=1,EE,00912584,extended,000000FF
 
-//Invincible Player 2
+[Invincible Player 2]
 patch=1,EE,00912734,extended,000000FF
 
-//Have Level Completed - 001Fortress
+[Have Level Completed - 001Fortress]
 patch=1,EE,209124F8,extended,00000007
 
-//Have Level Completed - 002Train
+[Have Level Completed - 002Train]
 patch=1,EE,209124FC,extended,00000007
 
-//Have Level Completed - 003City
+[Have Level Completed - 003City]
 patch=1,EE,20912500,extended,00000007
 
-//Have Level Completed - 004Seabed
+[Have Level Completed - 004Seabed]
 patch=1,EE,20912504,extended,00000007
 
-//Have Level Completed - 005Archipelago
+[Have Level Completed - 005Archipelago]
 patch=1,EE,20912508,extended,00000007

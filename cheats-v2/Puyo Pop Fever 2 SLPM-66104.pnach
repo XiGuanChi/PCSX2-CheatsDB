@@ -1,46 +1,46 @@
 gametitle=Puyo Pop Fever 2 SLPM-66104
-//All Books (Save your game with this code on) 
+[All Books (Save your game with this code on)]
 patch=1,EE,40395400,extended,000C0001
 patch=1,EE,01010101,extended,00000000
 
-//All Gallery (Save your game with this code on) 
+[All Gallery (Save your game with this code on)]
 patch=1,EE,403954A8,extended,00030001
 patch=1,EE,01010101,extended,00000000
 
-//All Items in Museum (Save your game with this code on)
+[All Items in Museum (Save your game with this code on)]
 patch=1,EE,40395204,extended,00120001
 patch=1,EE,01010101,extended,00000000
 
-//All Items in Shop (Save your game with this code on) 
+[All Items in Shop (Save your game with this code on)]
 patch=1,EE,4039524C,extended,00130001
 patch=1,EE,01010101,extended,00000000
 
-//All Mini Games (Save your game with this code on) 
+[All Mini Games (Save your game with this code on)]
 patch=1,EE,4039549C,extended,00020001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,103954A4,extended,00000101
 
-//All Movies (Save your game with this code on) 
+[All Movies (Save your game with this code on)]
 patch=1,EE,40395430,extended,00120001
 patch=1,EE,01010101,extended,00000000
 
-//All Music (Save your game with this code on) 
+[All Music (Save your game with this code on)]
 patch=1,EE,40395478,extended,00090001
 patch=1,EE,01010101,extended,00000000
 
-//Cleared Tower (Save your game with this code on) 
+[Cleared Tower (Save your game with this code on)]
 patch=1,EE,003955AC,extended,000000FF
 
-//Max Points (Money) 
+[Max Points (Money)]
 patch=1,EE,2089555C,extended,0000270F
 
-//Max Score (In game) 
+[Max Score (In game)]
 patch=1,EE,202ACAE0,extended,05F5E0FF
 
-//Never Any Garbage For 1P 
+[Never Any Garbage For 1P]
 patch=1,EE,202ACB0C,extended,00000000
 patch=1,EE,202ACB1C,extended,00000000
 
-//Next Combo Sends Massive Garbage (Press R2) 
+[Next Combo Sends Massive Garbage (Press R2)]
 patch=1,EE,D02687C2,extended,0000FEFF
 patch=1,EE,202ACAF4,extended,000FFFFF

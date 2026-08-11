@@ -1,54 +1,54 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201386B8,extended,08030088
 patch=1,EE,200C0220,extended,3C014448
 patch=1,EE,200C0224,extended,0804E1C7
 patch=1,EE,200C0228,extended,AE010098
 
-//Cheats/Infinite HP People And Vehicles
+[Cheats/Infinite HP People And Vehicles]
 patch=1,EE,202C23E0,extended,0803C000
 patch=1,EE,200F0000,extended,8E220170
 patch=1,EE,200F0004,extended,AE220098
 patch=1,EE,200F0008,extended,00001020
 patch=1,EE,200F000C,extended,080B08FA
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,202FCB48,extended,00000000
 
-//Cheats/Infinite Ammo and Never Reload
+[Cheats/Infinite Ammo and Never Reload]
 patch=1,EE,2012BF00,extended,00000000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,2012A08C,extended,00000000
 
-//Cheats/Max Cash
+[Cheats/Max Cash]
 patch=1,EE,2017BA90,extended,3C014CBE
 patch=1,EE,2017BA98,extended,AE0112B0
 
-//Cheats/Infinite Fuel Reserves
+[Cheats/Infinite Fuel Reserves]
 patch=1,EE,2017BAFC,extended,00000000
 
-//Cheats/Press R3+Left Disable Mission Timer
+[Cheats/Press R3+Left Disable Mission Timer]
 patch=1,EE,D0A4FB9C,extended,0000FF7B
 patch=1,EE,2032F340,extended,00000000
 
-//Cheats/Press R3+Right Enable Mission Timer
+[Cheats/Press R3+Right Enable Mission Timer]
 patch=1,EE,D0A4FB9C,extended,0000FFDB
 patch=1,EE,2032F340,extended,C44C002C
 
-//Cheats/Infinite Ammo and Grenades All Weapons
+[Cheats/Infinite Ammo and Grenades All Weapons]
 patch=1,EE,20575898,extended,00000001
 
-//Cheats/Disable Car Damage
+[Cheats/Disable Car Damage]
 patch=1,EE,2014178C,extended,00000000
 
-//Cheats/Max Fuel
+[Cheats/Max Fuel]
 patch=1,EE,2017BA84,extended,C6001678
 patch=1,EE,2017BA8C,extended,E6001674
 
-//Cheats/Vehicle Never On Fire
+[Cheats/Vehicle Never On Fire]
 patch=1,EE,202E6970,extended,03E00008
 patch=1,EE,202E6974,extended,00000000
 
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,605CA64C,extended,00000006
 patch=1,EE,60000001,extended,00000110

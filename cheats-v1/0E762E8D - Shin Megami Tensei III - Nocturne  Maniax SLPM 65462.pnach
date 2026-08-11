@@ -1,39 +1,39 @@
-//Cheats/Max Macca
+[Cheats/Max Macca]
 patch=1,EE,2127A4C4,extended,0098967F
 
-//Cheats/Main Character Current HP 999
+[Cheats/Main Character Current HP 999]
 patch=1,EE,112A3956,extended,000003E7
 
-//Cheats/Main Character Max HP 999
+[Cheats/Main Character Max HP 999]
 patch=1,EE,112A3958,extended,000003E7
 
-//Cheats/Main Character Current MP 999
+[Cheats/Main Character Current MP 999]
 patch=1,EE,112A395A,extended,000003E7
 
-//Cheats/Main Character Max MP 999
+[Cheats/Main Character Max MP 999]
 patch=1,EE,112A395C,extended,000003E7
 
-//Cheats/Main Character No Status Abnormalities
+[Cheats/Main Character No Status Abnormalities]
 patch=1,EE,112A395E,extended,00000000
 
-//Cheats/UMain Character LV 99
+[Cheats/UMain Character LV 99]
 patch=1,EE,012A3964,extended,00000063
 
-//Cheats/Obtain a large amount of experience points
+[Cheats/Obtain a large amount of experience points]
 patch=1,EE,20259448,extended,10000004
 patch=1,EE,20259464,extended,3C02000F
 patch=1,EE,2025946C,extended,3442423F
 
-//Cheats/Possess Of All items 98
+[Cheats/Possess Of All items 98]
 patch=1,EE,2021E004,extended,24030062
 patch=1,EE,2021E008,extended,A0431924
 
-//Cheats/Encounter Control R2+ move to encounter immediately usually there is no encounter
+[Cheats/Encounter Control R2+ move to encounter immediately usually there is no encounter]
 patch=1,EE,2028BC84,extended,3C010059
 patch=1,EE,2028BC88,extended,9021D048
 patch=1,EE,2028BC9C,extended,38220002
 
-//Cheats/Possession Of All Magatama
+[Cheats/Possession Of All Magatama]
 patch=1,EE,012A4BF7,extended,00000001
 patch=1,EE,212A4BF8,extended,05040302
 patch=1,EE,212A4BFC,extended,09080706
@@ -43,7 +43,7 @@ patch=1,EE,212A4C08,extended,15141312
 patch=1,EE,212A4C0C,extended,19181716
 patch=1,EE,012A4C77,extended,00000019
 
-//Cheats/Required code
+[Cheats/Required code]
 patch=1,EE,202AE314,extended,0803C000
 patch=1,EE,200F0000,extended,27BDFFB0
 patch=1,EE,200F0004,extended,7FA80000
@@ -59,7 +59,7 @@ patch=1,EE,200F0060,extended,7BA80000
 patch=1,EE,200F0064,extended,03E00008
 patch=1,EE,200F0068,extended,27BD0050
 
-//Cheats/Unlock All Devil Book Complete 100%
+[Cheats/Unlock All Devil Book Complete 100%]
 patch=1,EE,012894B0,extended,000000A8
 patch=1,EE,200F0024,extended,0803C034
 patch=1,EE,200F00D0,extended,3C080128

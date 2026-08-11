@@ -1,19 +1,19 @@
 gametitle=Nightshade SLUS-20810
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201BE2B4,extended,00000000
 
-//Max Special Meter
+[Max Special Meter]
 patch=1,EE,201BE2E4,extended,00000000
 
-//Infinite Throwing Knives
+[Infinite Throwing Knives]
 patch=1,EE,201C3744,extended,00000000
 
-//Infinite Main Spells
+[Infinite Main Spells]
 patch=1,EE,201C8964,extended,00000000
 
-//Unlock All Levels-Stage Select
+[Unlock All Levels-Stage Select]
 patch=1,EE,219FD2A8,extended,0D0D0D0D
 
-//Unlock: Extras And Galleries
+[Unlock: Extras And Galleries]
 patch=1,EE,419FD2AC,extended,00060001
 patch=1,EE,00000000,extended,00000000

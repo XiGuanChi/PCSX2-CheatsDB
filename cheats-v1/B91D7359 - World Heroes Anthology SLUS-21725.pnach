@@ -1,75 +1,75 @@
-//Cheats/Force Videout to 480i instead of 240p
+[Cheats/Force Videout to 480i instead of 240p]
 patch=1,EE,20141534,extended,24110001
 patch=1,EE,20141538,extended,24120002
 patch=1,EE,20141544,extended,24130001
 
-//Cheats/World Heroes 1 Player 1 Infinite Health
+[Cheats/World Heroes 1 Player 1 Infinite Health]
 patch=1,EE,E0020000,extended,002476d4
 patch=1,EE,0126345B,extended,00000068
 patch=1,EE,0126347F,extended,00000068
 
-//Cheats/World Heroes 1 Player 2 - No Health P1 Press Start
+[Cheats/World Heroes 1 Player 2 - No Health P1 Press Start]
 patch=1,EE,E0030000,extended,002476d4
 patch=1,EE,E002FFF7,extended,002473DC
 patch=1,EE,0126355B,extended,00000001
 patch=1,EE,0126357F,extended,00000001
 
-//Cheats/World Heroes 1 infinite Health P1
+[Cheats/World Heroes 1 infinite Health P1]
 patch=1,EE,0126345b,extended,00000068
 
-//Cheats/World Heroes 1 infinite time
+[Cheats/World Heroes 1 infinite time]
 patch=1,EE,01268459,extended,00000099
 
-//Cheats/World Heroes 1 Start with little Health P2
+[Cheats/World Heroes 1 Start with little Health P2]
 patch=1,EE,D126345b,extended,00000068
 patch=1,EE,0126345b,extended,00000001
 
-//Cheats/World Heroes 2 Player 1 Infinite Health
+[Cheats/World Heroes 2 Player 1 Infinite Health]
 patch=1,EE,D02476d4,extended,00000001
 patch=1,EE,1126345C,extended,00007F7F
 
-//Cheats/World Heroes 2 infinite Health P1
+[Cheats/World Heroes 2 infinite Health P1]
 patch=1,EE,0126345d,extended,00000076
 
-//Cheats/World Heroes 2 infinite time
+[Cheats/World Heroes 2 infinite time]
 patch=1,EE,01269558,extended,00000099
 
-//Cheats/World Heroes 2 Start with little Health P2
+[Cheats/World Heroes 2 Start with little Health P2]
 patch=1,EE,D126355d,extended,00000076
 patch=1,EE,0126355d,extended,00000001
 
-//Cheats/World Heroes Jet Player 1 Infinite Health
+[Cheats/World Heroes Jet Player 1 Infinite Health]
 patch=1,EE,D02476d4,extended,00000002
 patch=1,EE,1126345C,extended,00006060
 
-//Cheats/World Heroes Jet infinite Health P1
+[Cheats/World Heroes Jet infinite Health P1]
 patch=1,EE,1126435c,extended,00006060
 
-//Cheats/World Heroes Jet infinite time
+[Cheats/World Heroes Jet infinite time]
 patch=1,EE,0126a458,extended,00000099 
 
-//Cheats/World Heroes Jet Start with little Health P2
+[Cheats/World Heroes Jet Start with little Health P2]
 patch=1,EE,D126445c,extended,00006060 
 patch=1,EE,1126445c,extended,00000101
 
-//Cheats/World Heroes Perfect Player 1 Infinite Health
+[Cheats/World Heroes Perfect Player 1 Infinite Health]
 patch=1,EE,D02476d4,extended,00000003
 patch=1,EE,1126345C,extended,0000C0C0
 
-//Cheats/World Heroes Perfect infinite Health P1
+[Cheats/World Heroes Perfect infinite Health P1]
 patch=1,EE,112640dc,extended,0000c0c0
 
-//Cheats/World Heroes Perfect Hero Meter full
+[Cheats/World Heroes Perfect Hero Meter full]
 patch=1,EE,01264ae6,extended,000000df 01264ae8 000000df
 
-//Cheats/World Heroes Perfect infinite time
+[Cheats/World Heroes Perfect infinite time]
 patch=1,EE,0126a1d8,extended,00000099
 
-//Cheats/World Heroes Perfect Start with little Health P2
+[Cheats/World Heroes Perfect Start with little Health P2]
 patch=1,EE,D12640dc,extended,0000c0c0
 patch=1,EE,112640dc,extended,00000101
 
-//Cheats/World Heroes 2, Jet, Perfect Player 2 No Health P1 Press Start
+[Cheats/World Heroes 2, Jet, Perfect Player 2 No Health P1 Press Start]
 patch=1,EE,D02473DC,extended,0000FFF7
 patch=1,EE,1126355C,extended,00000101
 

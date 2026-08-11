@@ -1,50 +1,50 @@
-//Cheats/Max Cash Buying winning
+[Cheats/Max Cash Buying winning]
 patch=1,EE,2015FD40,extended,10000008
 
-//Cheats/Max Infinite DP
+[Cheats/Max Infinite DP]
 patch=1,EE,2035CAAC,extended,3B9AC9FF
 
-//Cheats/Max DP
+[Cheats/Max DP]
 patch=1,EE,2035CAAC,extended,05F000AB
 patch=1,EE,2035CAB0,extended,05F000AB
 
-//Cheats/Infinite DP
+[Cheats/Infinite DP]
 patch=1,EE,2027EB58,extended,3B9AC9FF
 patch=1,EE,2027EB5C,extended,3B9AC9FF
 patch=1,EE,2035CAAC,extended,3B9AC9FF
 
-//Cheats/Infinite Life Points P1
+[Cheats/Infinite Life Points P1]
 patch=1,EE,217432FC,extended,0001869F
 patch=1,EE,21745510,extended,0001869F
 patch=1,EE,219766B4,extended,0001869F
 patch=1,EE,219766BC,extended,0001869F
 
-//Cheats/Infiniite LP P1
+[Cheats/Infiniite LP P1]
 patch=1,EE,21745510,extended,00001f40
 patch=1,EE,219766b4,extended,00001f40
 patch=1,EE,21745510,extended,0001869f
 patch=1,EE,219766b4,extended,0001869f
 
-//Cheats/Infinite Medals
+[Cheats/Infinite Medals]
 patch=1,EE,2036BDEC,extended,00000063
 
-//Cheats/Instant Win
+[Cheats/Instant Win]
 patch=1,EE,117464BC,extended,00000000
 
-//Cheats/Duellanten Exp 99.999.999
+[Cheats/Duellanten Exp 99.999.999]
 patch=1,EE,2035caa8,extended,05f5e0ff
 
-//Cheats/Player 2 No Draw
+[Cheats/Player 2 No Draw]
 patch=1,EE,200A010C,extended,AE000000
 
-//Cheats/Player 1 Refill Max HP when Draw Does not Show on Screen but u do have it
+[Cheats/Player 1 Refill Max HP when Draw Does not Show on Screen but u do have it]
 patch=1,EE,200A0148,extended,34071F40
 patch=1,EE,200A014C,extended,AE07FFF4
 
-//Cheats/Player 2 No cards Give u Instant Win on Second Turn
+[Cheats/Player 2 No cards Give u Instant Win on Second Turn]
 patch=1,EE,200A0108,extended,AE000004
 
-//Cheats/Press Select For All Cards At Card Menu
+[Cheats/Press Select For All Cards At Card Menu]
 patch=1,EE,4035dfb4,extended,00100001
 patch=1,EE,00030304,extended,00000000
 patch=1,EE,4035dff0,extended,00050001

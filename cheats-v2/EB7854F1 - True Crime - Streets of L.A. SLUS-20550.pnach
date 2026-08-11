@@ -1,19 +1,19 @@
 gametitle=True Crime - Streets of L.A. SLUS-20550
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20228C18,extended,ACC101D0
 
-//Never Reload
+[Never Reload]
 patch=1,EE,2023AC48,extended,00000000
 patch=1,EE,2023B274,extended,00000000
 
-//Have All Guns & Upgrades
+[Have All Guns & Upgrades]
 patch=1,EE,2075D488,extended,FFFFFFFF
 
-//Have All Attacks & Grapples
+[Have All Attacks & Grapples]
 patch=1,EE,2075D4E4,extended,FFFFFFFF
 
-//Have All Maneuvers
+[Have All Maneuvers]
 patch=1,EE,2075D51C,extended,FFFFFFFF
 
-//Have All Cars
+[Have All Cars]
 patch=1,EE,2075D524,extended,00000003

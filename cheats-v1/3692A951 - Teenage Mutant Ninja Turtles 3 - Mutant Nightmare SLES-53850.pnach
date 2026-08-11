@@ -1,75 +1,75 @@
-//Cheats/No Damage P1
+[Cheats/No Damage P1]
 patch=1,EE,207940E4,extended,00000000
 
-//Cheats/Infinite Shuriken P1
+[Cheats/Infinite Shuriken P1]
 patch=1,EE,207940E8,extended,0000000A
 
-//Cheats/No Damage P2
+[Cheats/No Damage P2]
 patch=1,EE,2079411C,extended,00000000
 
-//Cheats/Infinite Shuriken P2
+[Cheats/Infinite Shuriken P2]
 patch=1,EE,20794120,extended,0000000A
 
-//Cheats/No Damage P3
+[Cheats/No Damage P3]
 patch=1,EE,20794154,extended,00000000
 
-//Cheats/Infinite Shuriken P3
+[Cheats/Infinite Shuriken P3]
 patch=1,EE,20794158,extended,0000000A
 
-//Cheats/No Damage P4
+[Cheats/No Damage P4]
 patch=1,EE,2079418C,extended,00000000
 
-//Cheats/Infinite Shuriken P4
+[Cheats/Infinite Shuriken P4]
 patch=1,EE,20794190,extended,0000000A
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,202DFFCC,extended,8C820008
 patch=1,EE,202DFFD0,extended,AC820004
 
-//Cheats/Infinite Power
+[Cheats/Infinite Power]
 patch=1,EE,202DFE3C,extended,8C820018
 patch=1,EE,202DFE40,extended,AC820014
 
-//Cheats/Max Upgrade Points
+[Cheats/Max Upgrade Points]
 patch=1,EE,204178A0,extended,3C02000F
 patch=1,EE,204178A4,extended,AC820004
 
-//Cheats/Turtles In Time-Arcade Game Infinite Lives P1
+[Cheats/Turtles In Time-Arcade Game Infinite Lives P1]
 patch=1,EE,003B4101,extended,00000063
 
-//Cheats/Turtles In Time-Arcade Game Infinite Health P1
+[Cheats/Turtles In Time-Arcade Game Infinite Health P1]
 patch=1,EE,00454008,extended,0000000A
 
-//Cheats/Turtles In Time-Arcade Game Infinite Lives P2
+[Cheats/Turtles In Time-Arcade Game Infinite Lives P2]
 patch=1,EE,00452109,extended,00000063
 
-//Cheats/Turtles In Time-Arcade Game Infinite Health P2
+[Cheats/Turtles In Time-Arcade Game Infinite Health P2]
 patch=1,EE,00454058,extended,0000000A
 
-//Cheats/Turtles In Time-Arcade Game Infinite Lives P3
+[Cheats/Turtles In Time-Arcade Game Infinite Lives P3]
 patch=1,EE,00452111,extended,00000063
 
-//Cheats/Turtles In Time-Arcade Game Infinite Health P3
+[Cheats/Turtles In Time-Arcade Game Infinite Health P3]
 patch=1,EE,004540A8,extended,0000000A
 
-//Cheats/Turtles In Time-Arcade Game Infinite Lives P4
+[Cheats/Turtles In Time-Arcade Game Infinite Lives P4]
 patch=1,EE,00452119,extended,00000063
 
-//Cheats/Turtles In Time-Arcade Game Infinite Health P4
+[Cheats/Turtles In Time-Arcade Game Infinite Health P4]
 patch=1,EE,004540F8,extended,0000000A
 
-//Cheats/Turtles In Time-Arcade Game Start On Last Level
+[Cheats/Turtles In Time-Arcade Game Start On Last Level]
 patch=1,EE,D0266120,extended,00000000
 patch=1,EE,00266120,extended,00000008
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,205558F8,extended,24020001
 
-//Cheats/Unlock All Others Materials
+[Cheats/Unlock All Others Materials]
 patch=1,EE,20725A5C,extended,02020202
 patch=1,EE,20725A60,extended,00000002
 
-//Cheats/Unlock Have All Antiques in 2nd Time Around
+[Cheats/Unlock Have All Antiques in 2nd Time Around]
 patch=1,EE,407254C8,extended,00370004
 patch=1,EE,00000002,extended,00000000
 

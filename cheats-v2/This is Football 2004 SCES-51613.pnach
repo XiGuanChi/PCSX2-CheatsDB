@@ -1,13 +1,13 @@
 gametitle=This is Football 2004 SCES-51613/
-//Max Cash After 1 Transfer
+[Max Cash After 1 Transfer]
 patch=1,EE,20473A28,extended,3C0205F5
 
-//Max Tokens
+[Max Tokens]
 patch=1,EE,2042643C,extended,3C0205F1
 patch=1,EE,20426438,extended,08109912
 
-//All Teams Available
+[All Teams Available]
 patch=1,EE,20425FB4,extended,24020001
 
-//All Competitions Available
+[All Competitions Available]
 patch=1,EE,20426154,extended,24020001

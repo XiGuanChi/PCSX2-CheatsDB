@@ -1,24 +1,24 @@
 gametitle=Legaia 2 - Duel Saga SLES-50891
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,203FEBA8,extended,00900FAB
 
-//No Random Battles
+[No Random Battles]
 patch=1,EE,2062001C,extended,48000000
 
-//Player 1 - Max Health
+[Player 1 - Max Health]
 patch=1,EE,20419C1C,extended,0000270F
 
-//Player 1 - Max MP
+[Player 1 - Max MP]
 patch=1,EE,20419C20,extended,0000270F
 
-//Player 2 - Max Health
+[Player 2 - Max Health]
 patch=1,EE,20419DCC,extended,0000270F
 
-//Player 2 - Max Mp
+[Player 2 - Max Mp]
 patch=1,EE,20419DD0,extended,0000270F
 
-//Player 3 - Max HP
+[Player 3 - Max HP]
 patch=1,EE,20419E7C,extended,0000270F
 
-//Player 3 - Max MP
+[Player 3 - Max MP]
 patch=1,EE,20419E80,extended,0000270F

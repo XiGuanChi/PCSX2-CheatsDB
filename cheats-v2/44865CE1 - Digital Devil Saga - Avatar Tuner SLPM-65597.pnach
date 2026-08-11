@@ -1,8 +1,8 @@
 gametitle=Digital Devil Saga - Avatar Tuner SLPM-65597
-//Max Macca 
+[Max Macca]
 patch=1,EE,211D1C3C,extended,0098967F
 
-//Max Serph status 
+[Max Serph status]
 patch=1,EE,111D2666,extended,000003E7 
 patch=1,EE,111D2668,extended,000003E7 
 patch=1,EE,111D266A,extended,000003E7 
@@ -14,50 +14,50 @@ patch=1,EE,011D2678,extended,00000063
 patch=1,EE,011D2679,extended,00000063 
 patch=1,EE,011D267A,extended,00000063 
 
-//Maintains maximum HP for allies during battle
+[Maintains maximum HP for allies during battle]
 patch=1,EE,201BC168,extended,96660128
 patch=1,EE,201BC178,extended,A6660126
 
-//Maintain maximum MP for allies in battle
+[Maintain maximum MP for allies in battle]
 patch=1,EE,201BC1AC,extended,9666012C
 patch=1,EE,201BC1BC,extended,A666012A
 
-//Recovery from abnormal ally conditions during battle
+[Recovery from abnormal ally conditions during battle]
 patch=1,EE,201BBF48,extended,A660012E
 patch=1,EE,201BBF54,extended,30047FFF
 
-//Enemy initial HP1 in battle
+[Enemy initial HP1 in battle]
 patch=1,EE,201A17D8,extended,24030001
 patch=1,EE,201A17E0,extended,24040001
 
-//Enemy initial MP0 in battle
+[Enemy initial MP0 in battle]
 patch=1,EE,201A17E8,extended,24030000
 patch=1,EE,201A17F0,extended,24040000
 
-//Skill list fully open at the time of setting (save not reflected)
+[Skill list fully open at the time of setting (save not reflected)]
 patch=1,EE,20278230,extended,00000000
 
-//Maintains HP9999 for allies during battle
+[Maintains HP9999 for allies during battle]
 patch=1,EE,201BC168,extended,2406270F
 patch=1,EE,201BC178,extended,A6660126
 
-//Maintain ally MP9999 during battle
+[Maintain ally MP9999 during battle]
 patch=1,EE,201BC1AC,extended,2406270F
 patch=1,EE,201BC1BC,extended,A666012A
 
-//Devil analyze surely succeeds (only Zako enemies)
+[Devil analyze surely succeeds (only Zako enemies)]
 patch=1,EE,201AE4C4,extended,00000000
 patch=1,EE,201AE664,extended,00000000
 patch=1,EE,201AE72C,extended,00000000
 patch=1,EE,201AE834,extended,00000000
 patch=1,EE,201AE954,extended,00000000
 
-//Devil Analyze HP, MP No viewing restrictions
+[Devil Analyze HP, MP No viewing restrictions]
 patch=1,EE,201AE664,extended,00000000
 patch=1,EE,201AE698,extended,10000003
 patch=1,EE,201AE72C,extended,00000000
 patch=1,EE,201AE760,extended,10000003
-//Supplement: HP and MP can be viewed by any enemy.
+[Supplement: HP and MP can be viewed by any enemy.]
 
-//Max due to Macca fluctuation
+[Max due to Macca fluctuation]
 patch=1,EE,201197C8,extended,ACC5003C

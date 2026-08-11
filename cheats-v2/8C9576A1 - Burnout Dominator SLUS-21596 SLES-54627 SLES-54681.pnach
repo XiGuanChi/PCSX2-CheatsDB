@@ -1,25 +1,25 @@
 gametitle=Burnout Dominator SLUS-21596 SLES-54627 SLES-54681
-//Infinite Boost 
+[Infinite Boost]
 patch=1,EE,202db77c,extended,00000000
 
-//Max Infinite Boost 
+[Max Infinite Boost]
 patch=1,EE,2021fd64,extended,C4810040
 patch=1,EE,2021fd70,extended,E4810044
 
-//Max Dominator Points
+[Max Dominator Points]
 patch=1,EE,2055E470,extended,3B9AC9FF
 
-//All Awards & Trophies Ulocked
+[All Awards & Trophies Ulocked]
 patch=1,EE,2055E598,extended,FFFFFFFF
 patch=1,EE,0055E59C,extended,00000007
 
-//All Signature Shortcuts
+[All Signature Shortcuts]
 patch=1,EE,2055E5B8,extended,0FFFFFFF
 
-//All Vehicles In Garage
+[All Vehicles In Garage]
 patch=1,EE,2055E578,extended,FFFFFFFF
 
-//All Events Complete: GOLD
+[All Events Complete: GOLD]
 patch=1,EE,2055E478,extended,06060606
 patch=1,EE,2055E47C,extended,06060606
 patch=1,EE,2055E480,extended,06060606

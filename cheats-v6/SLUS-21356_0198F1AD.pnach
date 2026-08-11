@@ -1,6 +1,6 @@
 gametitle=Tom Clancy's Splinter Cell - Double Agent SLUS-21356 C0498D24 secondary crc 0198F1AD
 
-//Disable Blur/Bloom
+[Disable Blur/Bloom]
 author=GamingDragon93
 description=Disable post-processing Blur/Bloom effects.
 patch=1,EE,00630478,word,00000000

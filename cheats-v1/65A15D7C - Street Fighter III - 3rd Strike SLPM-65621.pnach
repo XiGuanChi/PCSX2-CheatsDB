@@ -1,13 +1,13 @@
-//Cheats/Infinite Health Player 1
+[Cheats/Infinite Health Player 1]
 patch=1,EE,00563E3E,extended,000000A0
 
-//Cheats/P2 1 Hit Death
+[Cheats/P2 1 Hit Death]
 patch=1,EE,D05642AA,extended,000000A0
 patch=1,EE,005642AA,extended,00000001
 
-//Cheats/Unlock Extra Option
+[Cheats/Unlock Extra Option]
 patch=1,EE,00634133,extended,00000001
 
-//Cheats/Unlock System Direction Complete & Gill
+[Cheats/Unlock System Direction Complete & Gill]
 patch=1,EE,40634134,extended,000A0001
 patch=1,EE,01010101,extended,00000000

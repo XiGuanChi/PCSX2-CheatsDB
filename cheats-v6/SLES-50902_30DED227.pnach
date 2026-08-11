@@ -1,11 +1,11 @@
 gametitle=Conflict - Desert Storm PAL SLES-50902 30DED227
 
-//Cheats\Infinite Ammo
+[Cheats\Infinite Ammo]
 description=Unendlich Munition / ammunition does not decrease. RAW code for PAL SLES-50902.
 author=GamingDragon93
 patch=1,EE,201A85EC,extended,24420001
 
-//Cheats\Disable Damage - Hold L1+L2+R1+R2
+[Cheats\Disable Damage - Hold L1+L2+R1+R2]
 description=Schaden deaktivieren. Halte L1+L2+R1+R2. Diese Version korrigiert die falschen Restore-Bedingungen aus dem großen Pack.
 author=GamingDragon93
 patch=1,EE,2012FE00,extended,00000000

@@ -1,14 +1,14 @@
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,20254158,extended,00000001
 patch=1,EE,2025415C,extended,00000000
 
-//Cheats/All Weapons Blues
+[Cheats/All Weapons Blues]
 patch=1,EE,00254038,extended,000000FF
 
-//Cheats/All Weapons Rei Feng
+[Cheats/All Weapons Rei Feng]
 patch=1,EE,002540A8,extended,000000F
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,0025407C,extended,00000015
 patch=1,EE,00254080,extended,00000007
 patch=1,EE,00254084,extended,00000012
@@ -18,7 +18,7 @@ patch=1,EE,00254090,extended,00000006
 patch=1,EE,00254094,extended,00000063
 patch=1,EE,00254098,extended,00000003
 
-//Cheats/No Damage can use quick turn
+[Cheats/No Damage can use quick turn]
 patch=1,EE,20146568,extended,10000001
 patch=1,EE,2014657C,extended,10000024
 patch=1,EE,20146580,extended,0200202D
@@ -26,7 +26,7 @@ patch=1,EE,2014A858,extended,2402000A
 patch=1,EE,2014A85C,extended,100000CD
 patch=1,EE,2014A860,extended,AE021FCC
 
-//Cheats/All Files, Life and Key Items
+[Cheats/All Files, Life and Key Items]
 patch=1,EE,00262B70,extended,00000001
 patch=1,EE,00262B77,extended,000000FF
 patch=1,EE,00262B7B,extended,000000FF

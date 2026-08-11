@@ -1,1069 +1,1069 @@
 gametitle=Monster Rancher 4 [SLUS-20702] [0EF3697B]
 
-//No Gauge P2
+[No Gauge P2]
 author=GamingDragon93
 description=No Gauge P2
-// No Gauge P2
+[No Gauge P2]
 patch=1,EE,F0100008,extended,002EE1AF
 
-//Disable FMV
+[Disable FMV]
 author=GamingDragon93
 description=Disable FMV
-// Disable FMV
+[Disable FMV]
 patch=1,EE,20303130,extended,24020001
 
-//Infinite Money-27A260
+[Infinite Money-27A260]
 author=GamingDragon93
 description=Infinite Money-27A260
-// Infinite Money-27A260
+[Infinite Money-27A260]
 patch=1,EE,10659584,extended,0000FFFF
 
-//Max Money
+[Max Money]
 author=GamingDragon93
 description=Max Money
-// Max Money
+[Max Money]
 patch=1,EE,20659584,extended,0098967F
 
-//P1 Press {L1}+{SELECT} For Infinite Food Usage On
+[P1 Press {L1}+{SELECT} For Infinite Food Usage On]
 author=GamingDragon93
 description=P1 Press {L1}+{SELECT} For Infinite Food Usage On
-// P1 Press {L1}+{SELECT} For Infinite Food Usage On
+[P1 Press {L1}+{SELECT} For Infinite Food Usage On]
 patch=1,EE,D04ED3CE,extended,0000FBFE
 
-//P1 Press {L1}+{SELECT} For Infinite Food Usage On
+[P1 Press {L1}+{SELECT} For Infinite Food Usage On]
 author=GamingDragon93
 description=P1 Press {L1}+{SELECT} For Infinite Food Usage On
-// P1 Press {L1}+{SELECT} For Infinite Food Usage On
+[P1 Press {L1}+{SELECT} For Infinite Food Usage On]
 patch=1,EE,2027A3E0,extended,00000000
 
-//P1 Press {L2}+{SELECT} For Infinite Food Usage Off
+[P1 Press {L2}+{SELECT} For Infinite Food Usage Off]
 author=GamingDragon93
 description=P1 Press {L2}+{SELECT} For Infinite Food Usage Off
-// P1 Press {L2}+{SELECT} For Infinite Food Usage Off
+[P1 Press {L2}+{SELECT} For Infinite Food Usage Off]
 patch=1,EE,D04ED3CE,extended,0000FEFE
 
-//P1 Press {L2}+{SELECT} For Infinite Food Usage Off
+[P1 Press {L2}+{SELECT} For Infinite Food Usage Off]
 author=GamingDragon93
 description=P1 Press {L2}+{SELECT} For Infinite Food Usage Off
-// P1 Press {L2}+{SELECT} For Infinite Food Usage Off
+[P1 Press {L2}+{SELECT} For Infinite Food Usage Off]
 patch=1,EE,2027A3E0,extended,A2620000
 
-//Infinite HP P1
+[Infinite HP P1]
 author=GamingDragon93
 description=Infinite HP P1
-// Infinite HP P1
+[Infinite HP P1]
 patch=1,EE,105EE94C,extended,000003E7
 
-//Infinite HP P1
+[Infinite HP P1]
 author=GamingDragon93
 description=Infinite HP P1
-// Infinite HP P1
+[Infinite HP P1]
 patch=1,EE,205F65C0,extended,03E703E7
 
-//Max HP P1
+[Max HP P1]
 author=GamingDragon93
 description=Max HP P1
-// Max HP P1
+[Max HP P1]
 patch=1,EE,105F65C8,extended,000003E7
 
-//No HP P1
+[No HP P1]
 author=GamingDragon93
 description=No HP P1
-// No HP P1
+[No HP P1]
 patch=1,EE,105EE94C,extended,00000000
 
-//No HP P1
+[No HP P1]
 author=GamingDragon93
 description=No HP P1
-// No HP P1
+[No HP P1]
 patch=1,EE,205F65C0,extended,00000000
 
-//Low Max HP P1
+[Low Max HP P1]
 author=GamingDragon93
 description=Low Max HP P1
-// Low Max HP P1
+[Low Max HP P1]
 patch=1,EE,105F65C8,extended,0000000A
 
-//Max Guts P1
+[Max Guts P1]
 author=GamingDragon93
 description=Max Guts P1
-// Max Guts P1
+[Max Guts P1]
 patch=1,EE,105EE95C,extended,00000063
 
-//No Guts P1
+[No Guts P1]
 author=GamingDragon93
 description=No Guts P1
-// No Guts P1
+[No Guts P1]
 patch=1,EE,105EE95C,extended,00000000
 
-//P1 Press {L1}+{SELECT} For No HP P2
+[P1 Press {L1}+{SELECT} For No HP P2]
 author=GamingDragon93
 description=P1 Press {L1}+{SELECT} For No HP P2
-// P1 Press {L1}+{SELECT} For No HP P2
+[P1 Press {L1}+{SELECT} For No HP P2]
 patch=1,EE,E002FBFE,extended,004ED402
 
-//P1 Press {L1}+{SELECT} For No HP P2
+[P1 Press {L1}+{SELECT} For No HP P2]
 author=GamingDragon93
 description=P1 Press {L1}+{SELECT} For No HP P2
-// P1 Press {L1}+{SELECT} For No HP P2
+[P1 Press {L1}+{SELECT} For No HP P2]
 patch=1,EE,105EF44C,extended,00000000
 
-//P1 Press {L1}+{SELECT} For No HP P2
+[P1 Press {L1}+{SELECT} For No HP P2]
 author=GamingDragon93
 description=P1 Press {L1}+{SELECT} For No HP P2
-// P1 Press {L1}+{SELECT} For No HP P2
+[P1 Press {L1}+{SELECT} For No HP P2]
 patch=1,EE,205F6674,extended,00000000
 
-//P1 Press {R1}+{SELECT} For Full HP P1
+[P1 Press {R1}+{SELECT} For Full HP P1]
 author=GamingDragon93
 description=P1 Press {R1}+{SELECT} For Full HP P1
-// P1 Press {R1}+{SELECT} For Full HP P1
+[P1 Press {R1}+{SELECT} For Full HP P1]
 patch=1,EE,E003F7FE,extended,004ED402
 
-//P1 Press {R1}+{SELECT} For Full HP P1
+[P1 Press {R1}+{SELECT} For Full HP P1]
 author=GamingDragon93
 description=P1 Press {R1}+{SELECT} For Full HP P1
-// P1 Press {R1}+{SELECT} For Full HP P1
+[P1 Press {R1}+{SELECT} For Full HP P1]
 patch=1,EE,105EE94C,extended,000003E7
 
-//P1 Press {R1}+{SELECT} For Full HP P1
+[P1 Press {R1}+{SELECT} For Full HP P1]
 author=GamingDragon93
 description=P1 Press {R1}+{SELECT} For Full HP P1
-// P1 Press {R1}+{SELECT} For Full HP P1
+[P1 Press {R1}+{SELECT} For Full HP P1]
 patch=1,EE,205F65C0,extended,03E703E7
 
-//P1 Press {R1}+{SELECT} For Full HP P1
+[P1 Press {R1}+{SELECT} For Full HP P1]
 author=GamingDragon93
 description=P1 Press {R1}+{SELECT} For Full HP P1
-// P1 Press {R1}+{SELECT} For Full HP P1
+[P1 Press {R1}+{SELECT} For Full HP P1]
 patch=1,EE,105F65C8,extended,000003E7
 
-//Infinite HP P2
+[Infinite HP P2]
 author=GamingDragon93
 description=Infinite HP P2
-// Infinite HP P2
+[Infinite HP P2]
 patch=1,EE,105EF44C,extended,000003E7
 
-//Infinite HP P2
+[Infinite HP P2]
 author=GamingDragon93
 description=Infinite HP P2
-// Infinite HP P2
+[Infinite HP P2]
 patch=1,EE,205F6674,extended,03E703E7
 
-//Max HP P2
+[Max HP P2]
 author=GamingDragon93
 description=Max HP P2
-// Max HP P2
+[Max HP P2]
 patch=1,EE,105F667C,extended,000003E7
 
-//No HP P2
+[No HP P2]
 author=GamingDragon93
 description=No HP P2
-// No HP P2
+[No HP P2]
 patch=1,EE,105EF44C,extended,00000000
 
-//No HP P2
+[No HP P2]
 author=GamingDragon93
 description=No HP P2
-// No HP P2
+[No HP P2]
 patch=1,EE,205F6674,extended,00000000
 
-//Low Max HP P2
+[Low Max HP P2]
 author=GamingDragon93
 description=Low Max HP P2
-// Low Max HP P2
+[Low Max HP P2]
 patch=1,EE,105F667C,extended,0000000A
 
-//Max Guts P2
+[Max Guts P2]
 author=GamingDragon93
 description=Max Guts P2
-// Max Guts P2
+[Max Guts P2]
 patch=1,EE,105EF45C,extended,00000063
 
-//No Guts P2
+[No Guts P2]
 author=GamingDragon93
 description=No Guts P2
-// No Guts P2
+[No Guts P2]
 patch=1,EE,105EF45C,extended,00000000
 
-//P2 Press {L1}+{SELECT} For No HP P1
+[P2 Press {L1}+{SELECT} For No HP P1]
 author=GamingDragon93
 description=P2 Press {L1}+{SELECT} For No HP P1
-// P2 Press {L1}+{SELECT} For No HP P1
+[P2 Press {L1}+{SELECT} For No HP P1]
 patch=1,EE,E002FBFE,extended,004ED602
 
-//P2 Press {L1}+{SELECT} For No HP P1
+[P2 Press {L1}+{SELECT} For No HP P1]
 author=GamingDragon93
 description=P2 Press {L1}+{SELECT} For No HP P1
-// P2 Press {L1}+{SELECT} For No HP P1
+[P2 Press {L1}+{SELECT} For No HP P1]
 patch=1,EE,105EE94C,extended,00000000
 
-//P2 Press {L1}+{SELECT} For No HP P1
+[P2 Press {L1}+{SELECT} For No HP P1]
 author=GamingDragon93
 description=P2 Press {L1}+{SELECT} For No HP P1
-// P2 Press {L1}+{SELECT} For No HP P1
+[P2 Press {L1}+{SELECT} For No HP P1]
 patch=1,EE,205F65C0,extended,00000000
 
-//P2 Press {R1}+{SELECT} For Full HP P2
+[P2 Press {R1}+{SELECT} For Full HP P2]
 author=GamingDragon93
 description=P2 Press {R1}+{SELECT} For Full HP P2
-// P2 Press {R1}+{SELECT} For Full HP P2
+[P2 Press {R1}+{SELECT} For Full HP P2]
 patch=1,EE,E003F7FE,extended,004ED602
 
-//P2 Press {R1}+{SELECT} For Full HP P2
+[P2 Press {R1}+{SELECT} For Full HP P2]
 author=GamingDragon93
 description=P2 Press {R1}+{SELECT} For Full HP P2
-// P2 Press {R1}+{SELECT} For Full HP P2
+[P2 Press {R1}+{SELECT} For Full HP P2]
 patch=1,EE,105EF44C,extended,000003E7
 
-//P2 Press {R1}+{SELECT} For Full HP P2
+[P2 Press {R1}+{SELECT} For Full HP P2]
 author=GamingDragon93
 description=P2 Press {R1}+{SELECT} For Full HP P2
-// P2 Press {R1}+{SELECT} For Full HP P2
+[P2 Press {R1}+{SELECT} For Full HP P2]
 patch=1,EE,205F6674,extended,03E703E7
 
-//P2 Press {R1}+{SELECT} For Full HP P2
+[P2 Press {R1}+{SELECT} For Full HP P2]
 author=GamingDragon93
 description=P2 Press {R1}+{SELECT} For Full HP P2
-// P2 Press {R1}+{SELECT} For Full HP P2
+[P2 Press {R1}+{SELECT} For Full HP P2]
 patch=1,EE,105F667C,extended,000003E7
 
-//Mushroom
+[Mushroom]
 author=GamingDragon93
 description=Mushroom
-// Mushroom
+[Mushroom]
 patch=1,EE,0065B3FC,extended,00000063
 
-//Potato
+[Potato]
 author=GamingDragon93
 description=Potato
-// Potato
+[Potato]
 patch=1,EE,0065B3FD,extended,00000063
 
-//Carrot
+[Carrot]
 author=GamingDragon93
 description=Carrot
-// Carrot
+[Carrot]
 patch=1,EE,0065B3FE,extended,00000063
 
-//Watermelon
+[Watermelon]
 author=GamingDragon93
 description=Watermelon
-// Watermelon
+[Watermelon]
 patch=1,EE,0065B3FF,extended,00000063
 
-//Mango
+[Mango]
 author=GamingDragon93
 description=Mango
-// Mango
+[Mango]
 patch=1,EE,0065B400,extended,00000063
 
-//Banana
+[Banana]
 author=GamingDragon93
 description=Banana
-// Banana
+[Banana]
 patch=1,EE,0065B401,extended,00000063
 
-//Peach
+[Peach]
 author=GamingDragon93
 description=Peach
-// Peach
+[Peach]
 patch=1,EE,0065B402,extended,00000063
 
-//Melon
+[Melon]
 author=GamingDragon93
 description=Melon
-// Melon
+[Melon]
 patch=1,EE,0065B403,extended,00000063
 
-//Squid
+[Squid]
 author=GamingDragon93
 description=Squid
-// Squid
+[Squid]
 patch=1,EE,0065B404,extended,00000063
 
-//Salmon
+[Salmon]
 author=GamingDragon93
 description=Salmon
-// Salmon
+[Salmon]
 patch=1,EE,0065B405,extended,00000063
 
-//Fish
+[Fish]
 author=GamingDragon93
 description=Fish
-// Fish
+[Fish]
 patch=1,EE,0065B406,extended,00000063
 
-//Shrimp
+[Shrimp]
 author=GamingDragon93
 description=Shrimp
-// Shrimp
+[Shrimp]
 patch=1,EE,0065B407,extended,00000063
 
-//Beef
+[Beef]
 author=GamingDragon93
 description=Beef
-// Beef
+[Beef]
 patch=1,EE,0065B408,extended,00000063
 
-//Pork
+[Pork]
 author=GamingDragon93
 description=Pork
-// Pork
+[Pork]
 patch=1,EE,0065B409,extended,00000063
 
-//Energy 9ar
+[Energy 9ar]
 author=GamingDragon93
 description=Energy 9ar
-// Energy 9ar
+[Energy 9ar]
 patch=1,EE,0065B40A,extended,00000063
 
-//Vitamin
+[Vitamin]
 author=GamingDragon93
 description=Vitamin
-// Vitamin
+[Vitamin]
 patch=1,EE,0065B40B,extended,00000063
 
-//Honey Drops
+[Honey Drops]
 author=GamingDragon93
 description=Honey Drops
-// Honey Drops
+[Honey Drops]
 patch=1,EE,0065B40C,extended,00000063
 
-//Chocolate
+[Chocolate]
 author=GamingDragon93
 description=Chocolate
-// Chocolate
+[Chocolate]
 patch=1,EE,0065B40D,extended,00000063
 
-//Honey Toast
+[Honey Toast]
 author=GamingDragon93
 description=Honey Toast
-// Honey Toast
+[Honey Toast]
 patch=1,EE,0065B40E,extended,00000063
 
-//Cake
+[Cake]
 author=GamingDragon93
 description=Cake
-// Cake
+[Cake]
 patch=1,EE,0065B40F,extended,00000063
 
-//Screws
+[Screws]
 author=GamingDragon93
 description=Screws
-// Screws
+[Screws]
 patch=1,EE,0065B410,extended,00000063
 
-//Canned Fuel
+[Canned Fuel]
 author=GamingDragon93
 description=Canned Fuel
-// Canned Fuel
+[Canned Fuel]
 patch=1,EE,0065B411,extended,00000063
 
-//Oily Oil
+[Oily Oil]
 author=GamingDragon93
 description=Oily Oil
-// Oily Oil
+[Oily Oil]
 patch=1,EE,0065B412,extended,00000063
 
-//Troron
+[Troron]
 author=GamingDragon93
 description=Troron
-// Troron
+[Troron]
 patch=1,EE,0065B413,extended,00000063
 
-//Trokatin
+[Trokatin]
 author=GamingDragon93
 description=Trokatin
-// Trokatin
+[Trokatin]
 patch=1,EE,0065B414,extended,00000063
 
-//Nageel
+[Nageel]
 author=GamingDragon93
 description=Nageel
-// Nageel
+[Nageel]
 patch=1,EE,0065B415,extended,00000063
 
-//Teromean
+[Teromean]
 author=GamingDragon93
 description=Teromean
-// Teromean
+[Teromean]
 patch=1,EE,0065B416,extended,00000063
 
-//Baisin
+[Baisin]
 author=GamingDragon93
 description=Baisin
-// Baisin
+[Baisin]
 patch=1,EE,0065B417,extended,00000063
 
-//Tapaurin
+[Tapaurin]
 author=GamingDragon93
 description=Tapaurin
-// Tapaurin
+[Tapaurin]
 patch=1,EE,0065B418,extended,00000063
 
-//Larox
+[Larox]
 author=GamingDragon93
 description=Larox
-// Larox
+[Larox]
 patch=1,EE,0065B419,extended,00000063
 
-//Goldoll Sword
+[Goldoll Sword]
 author=GamingDragon93
 description=Goldoll Sword
-// Goldoll Sword
+[Goldoll Sword]
 patch=1,EE,0065B41A,extended,00000063
 
-//White Pot
+[White Pot]
 author=GamingDragon93
 description=White Pot
-// White Pot
+[White Pot]
 patch=1,EE,0065B41B,extended,00000063
 
-//Nunchaku
+[Nunchaku]
 author=GamingDragon93
 description=Nunchaku
-// Nunchaku
+[Nunchaku]
 patch=1,EE,0065B41C,extended,00000063
 
-//Fossil
+[Fossil]
 author=GamingDragon93
 description=Fossil
-// Fossil
+[Fossil]
 patch=1,EE,0065B41D,extended,00000063
 
-//Mocchi Scream
+[Mocchi Scream]
 author=GamingDragon93
 description=Mocchi Scream
-// Mocchi Scream
+[Mocchi Scream]
 patch=1,EE,0065B41E,extended,00000063
 
-//Rose Perfume
+[Rose Perfume]
 author=GamingDragon93
 description=Rose Perfume
-// Rose Perfume
+[Rose Perfume]
 patch=1,EE,0065B41F,extended,00000063
 
-//Silver Coin
+[Silver Coin]
 author=GamingDragon93
 description=Silver Coin
-// Silver Coin
+[Silver Coin]
 patch=1,EE,0065B420,extended,00000063
 
-//Gold Coin
+[Gold Coin]
 author=GamingDragon93
 description=Gold Coin
-// Gold Coin
+[Gold Coin]
 patch=1,EE,0065B421,extended,00000063
 
-//Silver Nugget
+[Silver Nugget]
 author=GamingDragon93
 description=Silver Nugget
-// Silver Nugget
+[Silver Nugget]
 patch=1,EE,0065B422,extended,00000063
 
-//Gold Nugget
+[Gold Nugget]
 author=GamingDragon93
 description=Gold Nugget
-// Gold Nugget
+[Gold Nugget]
 patch=1,EE,0065B423,extended,00000063
 
-//Amethyst
+[Amethyst]
 author=GamingDragon93
 description=Amethyst
-// Amethyst
+[Amethyst]
 patch=1,EE,0065B424,extended,00000063
 
-//Ruby
+[Ruby]
 author=GamingDragon93
 description=Ruby
-// Ruby
+[Ruby]
 patch=1,EE,0065B425,extended,00000063
 
-//Emerald
+[Emerald]
 author=GamingDragon93
 description=Emerald
-// Emerald
+[Emerald]
 patch=1,EE,0065B426,extended,00000063
 
-//Crystal Skull
+[Crystal Skull]
 author=GamingDragon93
 description=Crystal Skull
-// Crystal Skull
+[Crystal Skull]
 patch=1,EE,0065B427,extended,00000063
 
-//Rose
+[Rose]
 author=GamingDragon93
 description=Rose
-// Rose
+[Rose]
 patch=1,EE,0065B428,extended,00000063
 
-//Teddy Bear
+[Teddy Bear]
 author=GamingDragon93
 description=Teddy Bear
-// Teddy Bear
+[Teddy Bear]
 patch=1,EE,0065B429,extended,00000063
 
-//Yarn Ball
+[Yarn Ball]
 author=GamingDragon93
 description=Yarn Ball
-// Yarn Ball
+[Yarn Ball]
 patch=1,EE,0065B42A,extended,00000063
 
-//Junk Toy
+[Junk Toy]
 author=GamingDragon93
 description=Junk Toy
-// Junk Toy
+[Junk Toy]
 patch=1,EE,0065B42B,extended,00000063
 
-//Toy Glasses
+[Toy Glasses]
 author=GamingDragon93
 description=Toy Glasses
-// Toy Glasses
+[Toy Glasses]
 patch=1,EE,0065B42C,extended,00000063
 
-//Battle Cards
+[Battle Cards]
 author=GamingDragon93
 description=Battle Cards
-// Battle Cards
+[Battle Cards]
 patch=1,EE,0065B42D,extended,00000063
 
-//Reference
+[Reference]
 author=GamingDragon93
 description=Reference
-// Reference
+[Reference]
 patch=1,EE,0065B42E,extended,00000063
 
-//Bone
+[Bone]
 author=GamingDragon93
 description=Bone
-// Bone
+[Bone]
 patch=1,EE,0065B42F,extended,00000063
 
-//Fishbone
+[Fishbone]
 author=GamingDragon93
 description=Fishbone
-// Fishbone
+[Fishbone]
 patch=1,EE,0065B430,extended,00000063
 
-//Lucky Medal
+[Lucky Medal]
 author=GamingDragon93
 description=Lucky Medal
-// Lucky Medal
+[Lucky Medal]
 patch=1,EE,0065B431,extended,00000063
 
-//Magic Medal
+[Magic Medal]
 author=GamingDragon93
 description=Magic Medal
-// Magic Medal
+[Magic Medal]
 patch=1,EE,0065B432,extended,00000063
 
-//Intense Medal
+[Intense Medal]
 author=GamingDragon93
 description=Intense Medal
-// Intense Medal
+[Intense Medal]
 patch=1,EE,0065B433,extended,00000063
 
-//Healing Medal
+[Healing Medal]
 author=GamingDragon93
 description=Healing Medal
-// Healing Medal
+[Healing Medal]
 patch=1,EE,0065B434,extended,00000063
 
-//(NONE)
+[(NONE)]
 author=GamingDragon93
 description=(NONE)
-// (NONE)
+[(NONE)]
 patch=1,EE,0065B435,extended,00000063
 
-//STR Stone
+[STR Stone]
 author=GamingDragon93
 description=STR Stone
-// STR Stone
+[STR Stone]
 patch=1,EE,0065B436,extended,00000063
 
-//INT Stone
+[INT Stone]
 author=GamingDragon93
 description=INT Stone
-// INT Stone
+[INT Stone]
 patch=1,EE,0065B437,extended,00000063
 
-//ACC Stone
+[ACC Stone]
 author=GamingDragon93
 description=ACC Stone
-// ACC Stone
+[ACC Stone]
 patch=1,EE,0065B438,extended,00000063
 
-//SPD Stone
+[SPD Stone]
 author=GamingDragon93
 description=SPD Stone
-// SPD Stone
+[SPD Stone]
 patch=1,EE,0065B439,extended,00000063
 
-//TGH Stone
+[TGH Stone]
 author=GamingDragon93
 description=TGH Stone
-// TGH Stone
+[TGH Stone]
 patch=1,EE,0065B43A,extended,00000063
 
-//LIF Stone
+[LIF Stone]
 author=GamingDragon93
 description=LIF Stone
-// LIF Stone
+[LIF Stone]
 patch=1,EE,0065B43B,extended,00000063
 
-//Sight Scroll
+[Sight Scroll]
 author=GamingDragon93
 description=Sight Scroll
-// Sight Scroll
+[Sight Scroll]
 patch=1,EE,0065B43C,extended,00000063
 
-//Dumbbells
+[Dumbbells]
 author=GamingDragon93
 description=Dumbbells
-// Dumbbells
+[Dumbbells]
 patch=1,EE,0065B43D,extended,00000063
 
-//Eagle Eyes
+[Eagle Eyes]
 author=GamingDragon93
 description=Eagle Eyes
-// Eagle Eyes
+[Eagle Eyes]
 patch=1,EE,0065B43E,extended,00000063
 
-//Tough Heart
+[Tough Heart]
 author=GamingDragon93
 description=Tough Heart
-// Tough Heart
+[Tough Heart]
 patch=1,EE,0065B43F,extended,00000063
 
-//Lucky Star
+[Lucky Star]
 author=GamingDragon93
 description=Lucky Star
-// Lucky Star
+[Lucky Star]
 patch=1,EE,0065B440,extended,00000063
 
-//Smart Glasses
+[Smart Glasses]
 author=GamingDragon93
 description=Smart Glasses
-// Smart Glasses
+[Smart Glasses]
 patch=1,EE,0065B441,extended,00000063
 
-//Mimiccho
+[Mimiccho]
 author=GamingDragon93
 description=Mimiccho
-// Mimiccho
+[Mimiccho]
 patch=1,EE,0065B442,extended,00000001
 
-//Mimiccho 2
+[Mimiccho 2]
 author=GamingDragon93
 description=Mimiccho 2
-// Mimiccho 2
+[Mimiccho 2]
 patch=1,EE,0065B443,extended,00000001
 
-//Mimiccho 3
+[Mimiccho 3]
 author=GamingDragon93
 description=Mimiccho 3
-// Mimiccho 3
+[Mimiccho 3]
 patch=1,EE,0065B444,extended,00000001
 
-//Document 1
+[Document 1]
 author=GamingDragon93
 description=Document 1
-// Document 1
+[Document 1]
 patch=1,EE,0065B445,extended,00000001
 
-//Document 2
+[Document 2]
 author=GamingDragon93
 description=Document 2
-// Document 2
+[Document 2]
 patch=1,EE,0065B446,extended,00000001
 
-//Document 3
+[Document 3]
 author=GamingDragon93
 description=Document 3
-// Document 3
+[Document 3]
 patch=1,EE,0065B447,extended,00000001
 
-//Document 4
+[Document 4]
 author=GamingDragon93
 description=Document 4
-// Document 4
+[Document 4]
 patch=1,EE,0065B448,extended,00000001
 
-//Document 5
+[Document 5]
 author=GamingDragon93
 description=Document 5
-// Document 5
+[Document 5]
 patch=1,EE,0065B449,extended,00000001
 
-//Document 6
+[Document 6]
 author=GamingDragon93
 description=Document 6
-// Document 6
+[Document 6]
 patch=1,EE,0065B44A,extended,00000001
 
-//Document 7
+[Document 7]
 author=GamingDragon93
 description=Document 7
-// Document 7
+[Document 7]
 patch=1,EE,0065B44B,extended,00000001
 
-//Document 8
+[Document 8]
 author=GamingDragon93
 description=Document 8
-// Document 8
+[Document 8]
 patch=1,EE,0065B44C,extended,00000001
 
-//Document 9
+[Document 9]
 author=GamingDragon93
 description=Document 9
-// Document 9
+[Document 9]
 patch=1,EE,0065B44D,extended,00000001
 
-//Document 10
+[Document 10]
 author=GamingDragon93
 description=Document 10
-// Document 10
+[Document 10]
 patch=1,EE,0065B44E,extended,00000001
 
-//Document 11
+[Document 11]
 author=GamingDragon93
 description=Document 11
-// Document 11
+[Document 11]
 patch=1,EE,0065B44F,extended,00000001
 
-//Document 12
+[Document 12]
 author=GamingDragon93
 description=Document 12
-// Document 12
+[Document 12]
 patch=1,EE,0065B450,extended,00000001
 
-//Document 13
+[Document 13]
 author=GamingDragon93
 description=Document 13
-// Document 13
+[Document 13]
 patch=1,EE,0065B451,extended,00000001
 
-//Document 14
+[Document 14]
 author=GamingDragon93
 description=Document 14
-// Document 14
+[Document 14]
 patch=1,EE,0065B452,extended,00000001
 
-//Document 15
+[Document 15]
 author=GamingDragon93
 description=Document 15
-// Document 15
+[Document 15]
 patch=1,EE,0065B453,extended,00000001
 
-//Document 16
+[Document 16]
 author=GamingDragon93
 description=Document 16
-// Document 16
+[Document 16]
 patch=1,EE,0065B454,extended,00000001
 
-//Document 17
+[Document 17]
 author=GamingDragon93
 description=Document 17
-// Document 17
+[Document 17]
 patch=1,EE,0065B455,extended,00000001
 
-//Document 18
+[Document 18]
 author=GamingDragon93
 description=Document 18
-// Document 18
+[Document 18]
 patch=1,EE,0065B456,extended,00000001
 
-//Document 19
+[Document 19]
 author=GamingDragon93
 description=Document 19
-// Document 19
+[Document 19]
 patch=1,EE,0065B457,extended,00000001
 
-//Document 20
+[Document 20]
 author=GamingDragon93
 description=Document 20
-// Document 20
+[Document 20]
 patch=1,EE,0065B458,extended,00000001
 
-//Document 21
+[Document 21]
 author=GamingDragon93
 description=Document 21
-// Document 21
+[Document 21]
 patch=1,EE,0065B459,extended,00000001
 
-//Document 22
+[Document 22]
 author=GamingDragon93
 description=Document 22
-// Document 22
+[Document 22]
 patch=1,EE,0065B45A,extended,00000001
 
-//Document 23
+[Document 23]
 author=GamingDragon93
 description=Document 23
-// Document 23
+[Document 23]
 patch=1,EE,0065B45B,extended,00000001
 
-//Document 24
+[Document 24]
 author=GamingDragon93
 description=Document 24
-// Document 24
+[Document 24]
 patch=1,EE,0065B45C,extended,00000001
 
-//Document 25
+[Document 25]
 author=GamingDragon93
 description=Document 25
-// Document 25
+[Document 25]
 patch=1,EE,0065B45D,extended,00000001
 
-//Document 26
+[Document 26]
 author=GamingDragon93
 description=Document 26
-// Document 26
+[Document 26]
 patch=1,EE,0065B45E,extended,00000001
 
-//Document 27
+[Document 27]
 author=GamingDragon93
 description=Document 27
-// Document 27
+[Document 27]
 patch=1,EE,0065B45F,extended,00000001
 
-//Document 28
+[Document 28]
 author=GamingDragon93
 description=Document 28
-// Document 28
+[Document 28]
 patch=1,EE,0065B460,extended,00000001
 
-//Document 29
+[Document 29]
 author=GamingDragon93
 description=Document 29
-// Document 29
+[Document 29]
 patch=1,EE,0065B461,extended,00000001
 
-//Document 30
+[Document 30]
 author=GamingDragon93
 description=Document 30
-// Document 30
+[Document 30]
 patch=1,EE,0065B462,extended,00000001
 
-//Document 31
+[Document 31]
 author=GamingDragon93
 description=Document 31
-// Document 31
+[Document 31]
 patch=1,EE,0065B463,extended,00000001
 
-//Document 32
+[Document 32]
 author=GamingDragon93
 description=Document 32
-// Document 32
+[Document 32]
 patch=1,EE,0065B464,extended,00000001
 
-//Document 33
+[Document 33]
 author=GamingDragon93
 description=Document 33
-// Document 33
+[Document 33]
 patch=1,EE,0065B465,extended,00000001
 
-//Document 34
+[Document 34]
 author=GamingDragon93
 description=Document 34
-// Document 34
+[Document 34]
 patch=1,EE,0065B466,extended,00000001
 
-//Document 35
+[Document 35]
 author=GamingDragon93
 description=Document 35
-// Document 35
+[Document 35]
 patch=1,EE,0065B467,extended,00000001
 
-//Document 36
+[Document 36]
 author=GamingDragon93
 description=Document 36
-// Document 36
+[Document 36]
 patch=1,EE,0065B468,extended,00000001
 
-//Document 37
+[Document 37]
 author=GamingDragon93
 description=Document 37
-// Document 37
+[Document 37]
 patch=1,EE,0065B469,extended,00000001
 
-//Document 38
+[Document 38]
 author=GamingDragon93
 description=Document 38
-// Document 38
+[Document 38]
 patch=1,EE,0065B46A,extended,00000001
 
-//Document 39
+[Document 39]
 author=GamingDragon93
 description=Document 39
-// Document 39
+[Document 39]
 patch=1,EE,0065B46B,extended,00000001
 
-//Document 40
+[Document 40]
 author=GamingDragon93
 description=Document 40
-// Document 40
+[Document 40]
 patch=1,EE,0065B46C,extended,00000001
 
-//Document 41
+[Document 41]
 author=GamingDragon93
 description=Document 41
-// Document 41
+[Document 41]
 patch=1,EE,0065B46D,extended,00000001
 
-//Document 42
+[Document 42]
 author=GamingDragon93
 description=Document 42
-// Document 42
+[Document 42]
 patch=1,EE,0065B46E,extended,00000001
 
-//Document 43
+[Document 43]
 author=GamingDragon93
 description=Document 43
-// Document 43
+[Document 43]
 patch=1,EE,0065B46F,extended,00000001
 
-//Document 44
+[Document 44]
 author=GamingDragon93
 description=Document 44
-// Document 44
+[Document 44]
 patch=1,EE,0065B470,extended,00000001
 
-//Document 45
+[Document 45]
 author=GamingDragon93
 description=Document 45
-// Document 45
+[Document 45]
 patch=1,EE,0065B471,extended,00000001
 
-//Document 46
+[Document 46]
 author=GamingDragon93
 description=Document 46
-// Document 46
+[Document 46]
 patch=1,EE,0065B472,extended,00000001
 
-//Document 47
+[Document 47]
 author=GamingDragon93
 description=Document 47
-// Document 47
+[Document 47]
 patch=1,EE,0065B473,extended,00000001
 
-//Document 48
+[Document 48]
 author=GamingDragon93
 description=Document 48
-// Document 48
+[Document 48]
 patch=1,EE,0065B474,extended,00000001
 
-//Document 49
+[Document 49]
 author=GamingDragon93
 description=Document 49
-// Document 49
+[Document 49]
 patch=1,EE,0065B475,extended,00000001
 
-//Document 50
+[Document 50]
 author=GamingDragon93
 description=Document 50
-// Document 50
+[Document 50]
 patch=1,EE,0065B476,extended,00000001
 
-//Blue Gaia
+[Blue Gaia]
 author=GamingDragon93
 description=Blue Gaia
-// Blue Gaia
+[Blue Gaia]
 patch=1,EE,0065B477,extended,00000001
 
-//Red Gaia
+[Red Gaia]
 author=GamingDragon93
 description=Red Gaia
-// Red Gaia
+[Red Gaia]
 patch=1,EE,0065B478,extended,00000001
 
-//Green Gaia
+[Green Gaia]
 author=GamingDragon93
 description=Green Gaia
-// Green Gaia
+[Green Gaia]
 patch=1,EE,0065B479,extended,00000001
 
-//White Gaia
+[White Gaia]
 author=GamingDragon93
 description=White Gaia
-// White Gaia
+[White Gaia]
 patch=1,EE,0065B47A,extended,00000001
 
-//Heal Mushroom
+[Heal Mushroom]
 author=GamingDragon93
 description=Heal Mushroom
-// Heal Mushroom
+[Heal Mushroom]
 patch=1,EE,0065B47B,extended,00000001
 
-//Black Object
+[Black Object]
 author=GamingDragon93
 description=Black Object
-// Black Object
+[Black Object]
 patch=1,EE,0065B47C,extended,00000001
 
-//Envelope 1
+[Envelope 1]
 author=GamingDragon93
 description=Envelope 1
-// Envelope 1
+[Envelope 1]
 patch=1,EE,0065B47D,extended,00000001
 
-//Envelope 2
+[Envelope 2]
 author=GamingDragon93
 description=Envelope 2
-// Envelope 2
+[Envelope 2]
 patch=1,EE,0065B47E,extended,00000001
 
-//Certificate
+[Certificate]
 author=GamingDragon93
 description=Certificate
-// Certificate
+[Certificate]
 patch=1,EE,0065B47F,extended,00000001
 
-//Letter 1
+[Letter 1]
 author=GamingDragon93
 description=Letter 1
-// Letter 1
+[Letter 1]
 patch=1,EE,0065B480,extended,00000001
 
-//Letter 2
+[Letter 2]
 author=GamingDragon93
 description=Letter 2
-// Letter 2
+[Letter 2]
 patch=1,EE,0065B481,extended,00000001
 
-//Trophy
+[Trophy]
 author=GamingDragon93
 description=Trophy
-// Trophy
+[Trophy]
 patch=1,EE,0065B482,extended,00000001
 
-//Black Egg
+[Black Egg]
 author=GamingDragon93
 description=Black Egg
-// Black Egg
+[Black Egg]
 patch=1,EE,0065B483,extended,00000001
 
-//King Feather
+[King Feather]
 author=GamingDragon93
 description=King Feather
-// King Feather
+[King Feather]
 patch=1,EE,0065B484,extended,00000001
 
-//Mocchi Doll
+[Mocchi Doll]
 author=GamingDragon93
 description=Mocchi Doll
-// Mocchi Doll
+[Mocchi Doll]
 patch=1,EE,0065B485,extended,00000001
 
-//Bird Feather
+[Bird Feather]
 author=GamingDragon93
 description=Bird Feather
-// Bird Feather
+[Bird Feather]
 patch=1,EE,0065B486,extended,00000001
 
-//Pamphlet
+[Pamphlet]
 author=GamingDragon93
 description=Pamphlet
-// Pamphlet
+[Pamphlet]
 patch=1,EE,0065B487,extended,00000001

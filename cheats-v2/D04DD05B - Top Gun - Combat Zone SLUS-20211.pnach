@@ -1,24 +1,24 @@
 gametitle=Top Gun - Combat Zone SLUS-20211
-//Infinite Time
+[Infinite Time]
 patch=1,EE,201BD158,extended,43F00000
 
-//Easy Levels Completion
+[Easy Levels Completion]
 patch=1,EE,401E072C,extended,00240008
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,401E0730,extended,00240008
 patch=1,EE,05F5E0FF,extended,00000000
 
-//Max Level High Scores
+[Max Level High Scores]
 patch=1,EE,401E0734,extended,00240008
 patch=1,EE,05F5E0FF,extended,00000000
 
-//All Levels to fully unlock them, need to start a level, and exit.
+[All Levels to fully unlock them, need to start a level, and exit.]
 patch=1,EE,401E072C,extended,00240008
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,401E0730,extended,00240008
 patch=1,EE,05F5E0FF,extended,00000000
 
-//All Golds
+[All Golds]
 patch=1,EE,401E072C,extended,00240008
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,401E0730,extended,00240008

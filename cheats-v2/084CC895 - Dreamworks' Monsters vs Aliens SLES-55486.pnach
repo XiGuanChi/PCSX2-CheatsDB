@@ -1,9 +1,9 @@
 gametitle=Dreamworks' Monsters vs Aliens SLES-55486
-//Max Monster DNA
+[Max Monster DNA]
 patch=1,EE,209CB094,extended,3B9AC9FF
 
-//Infinite Health 
+[Infinite Health]
 patch=1,EE,209CB0D0,extended,00000190
 
-//Infinite Gun (ASM) Player 2
+[Infinite Gun (ASM) Player 2]
 patch=1,EE,209C9838,extended,E43F8FEC

@@ -1,29 +1,29 @@
 gametitle=Shadow Hearts SLPS-25041
-//Required (must be entered)
+[Required (must be entered)]
 patch=1,EE,20298564,extended,00000000
 
-//Bar rotation slows down
+[Bar rotation slows down]
 patch=1,EE,202985C0,extended,00000000
 patch=1,EE,20298584,extended,3C073E00
 
-//Double hit area
+[Double hit area]
 patch=1,EE,20298574,extended,3C074000
 patch=1,EE,202985B4,extended,00000000
 
-//Get 99 pieces
+[Get 99 pieces]
 patch=1,EE,20299BC8,extended,00000000
 patch=1,EE,20299C00,extended,00000000
 patch=1,EE,20299C38,extended,00000000
 patch=1,EE,20299C70,extended,00000000
 patch=1,EE,20333D44,extended,00000000
 
-//Required (must be entered)
+[Required (must be entered)]
 patch=1,EE,20295DA8,extended,00000000
 
-//After the battle HP recovery
+[After the battle HP recovery]
 patch=1,EE,20295DAC,extended,9462001A
 patch=1,EE,20295DB0,extended,A4620000
 
-//After the battle MP recovery
+[After the battle MP recovery]
 patch=1,EE,20295DB4,extended,9462001C
 patch=1,EE,20295DB8,extended,A4620002

@@ -1,21 +1,21 @@
 gametitle=Resident Evil - Dead Aim SLUS-20669
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202DE054,extended,00000000
 
-//Have All Weapons
+[Have All Weapons]
 patch=1,EE,202DE058,extended,000000FF
 
-//Infinite Time (Timed Battles)
+[Infinite Time (Timed Battles)]
 patch=1,EE,20224CC4,extended,00000000
 
-// infinite Ammo (All Guns)
+[infinite Ammo (All Guns)]
 patch=1,EE,D031D682,extended,0000F7FF
 patch=1,EE,202383AC,extended,00000000
 patch=1,EE,D031D682,extended,0010F7FF
 patch=1,EE,202383AC,extended,AC640000
 
-//Fong Ling Infinite Health
+[Fong Ling Infinite Health]
 patch=1,EE,202DE0C8,extended,00000000
 
-//Fong Ling Have All Weapons
+[Fong Ling Have All Weapons]
 patch=1,EE,102DE0CC,extended,000000FF

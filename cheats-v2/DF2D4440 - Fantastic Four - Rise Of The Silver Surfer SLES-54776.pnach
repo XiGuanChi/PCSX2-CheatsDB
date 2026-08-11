@@ -1,25 +1,25 @@
 gametitle=Fantastic Four - Rise Of The Silver Surfer SLES-54776
-//Infinite Health All Characters
+[Infinite Health All Characters]
 patch=1,EE,406F3AC4,extended,0003001E
 patch=1,EE,435B7B7F,extended,00000000
 patch=1,EE,206F3C2C,extended,43F96000
 
-//Infinite Cosmic Energy All Characters 
+[Infinite Cosmic Energy All Characters]
 patch=1,EE,41CBD1A0,extended,0004001C
 patch=1,EE,00000006,extended,00000000
 
-//Level 99 All Characters
+[Level 99 All Characters]
 patch=1,EE,41CBD1B0,extended,0004001C
 patch=1,EE,00000062,extended,00000000
 
-//Infinite Tokens
+[Infinite Tokens]
 patch=1,EE,0040CB80,extended,00000063
 
-//Infinite Token Usage
+[Infinite Token Usage]
 patch=1,EE,2011EB00,extended,00000000
 
-//Extra Tokens
+[Extra Tokens]
 patch=1,EE,2011EAF8,extended,00621021
 
-//Unlock All Unlockables
+[Unlock All Unlockables]
 patch=1,EE,2040CB94,extended,FFFFFFFF

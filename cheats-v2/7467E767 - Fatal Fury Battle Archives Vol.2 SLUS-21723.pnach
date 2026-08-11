@@ -1,42 +1,42 @@
 gametitle=Fatal Fury Battle Archives Vol.2 SLUS-21723
-//REAL BOUT 1
-//P1 Infinite  HP
+[REAL BOUT 1]
+[P1 Infinite  HP]
 patch=1,EE,D03BFAB0,extended,00000000
 patch=1,EE,00A03958,extended,000000C0
 
-//P1 Infinite  Power
+[P1 Infinite  Power]
 patch=1,EE,D03BFAB0,extended,00000000
 patch=1,EE,10A0398A,extended,00003C3C
 
-//P2 No HP.(P1 Press Start)
+[P2 No HP.(P1 Press Start)]
 patch=1,EE,E0020000,extended,003BFAB0
 patch=1,EE,D025EE9C,extended,0000FFF7
 patch=1,EE,00A03A58,extended,00000000
 
-//REAL BOUT Special
-//P1 Infinite HP
+[REAL BOUT Special]
+[P1 Infinite HP]
 patch=1,EE,D03BFAB0,extended,00000001
 patch=1,EE,00A0395A,extended,000000C0
 
-//P1 Infinite Power
+[P1 Infinite Power]
 patch=1,EE,D03BFAB0,extended,00000001
 patch=1,EE,10A0398C,extended,00003C3C
 
-//P2 No HP (P1 Press Start)
+[P2 No HP (P1 Press Start)]
 patch=1,EE,E0020001,extended,003BFAB0
 patch=1,EE,D025EE9C,extended,0000FFF7
 patch=1,EE,00A03A5A,extended,00000000
 
-//REAL BOUT 2 
-//P1 Infinite Health
+[REAL BOUT 2]
+[P1 Infinite Health]
 patch=1,EE,D03BFAB0,extended,00000002
 patch=1,EE,00A0395A,extended,000000C0
 
-//P1 Infinite Power
+[P1 Infinite Power]
 patch=1,EE,D03BFAB0,extended,00000002
 patch=1,EE,10A0398C,extended,00003C3C
 
-//P2 No Health(P1 Press Start)
+[P2 No Health(P1 Press Start)]
 patch=1,EE,E0020002,extended,003BFAB0
 patch=1,EE,D025EE9C,extended,0000FFF7
 patch=1,EE,00A03A5A,extended,00000000

@@ -1,37 +1,37 @@
-//Cheats/Invulnerable If you fall you don't die and go off the map Press Select+triangle to die and return to the level
+[Cheats/Invulnerable If you fall you don't die and go off the map Press Select+triangle to die and return to the level]
 patch=1,EE,2023F254,extended,10000183
 patch=1,EE,20275998,extended,00000000
 patch=1,EE,E0011001,extended,00649D02
 patch=1,EE,20275998,extended,A440001C
 
-//Cheats/Invulnerable ALT If you fall you don't die and go off the map Press Select+triangle to die and return to the level
+[Cheats/Invulnerable ALT If you fall you don't die and go off the map Press Select+triangle to die and return to the level]
 patch=1,EE,006482E0,extended,00000000
 patch=1,EE,20275998,extended,00000000
 patch=1,EE,E0011001,extended,00649D02
 patch=1,EE,20275998,extended,A440001C
 
-//Cheats/Violet Remains Invisible
+[Cheats/Violet Remains Invisible]
 patch=1,EE,202D54B4,extended,00000000
 
-//Cheats/Use Incredipower even when it's zero
+[Cheats/Use Incredipower even when it's zero]
 patch=1,EE,2023CF5C,extended,00000000
 patch=1,EE,2024167C,extended,24020064
 patch=1,EE,2023E940,extended,00000000
 
-//Cheats/Hit An Enemy to get full incredipower
+[Cheats/Hit An Enemy to get full incredipower]
 patch=1,EE,2023EED4,extended,24030064
 
-//Cheats/Incredi-ball Energy Constantly Recharged
+[Cheats/Incredi-ball Energy Constantly Recharged]
 patch=1,EE,2028D584,extended,3C0242C8
 
-//Cheats/Dash Never Overheats while running
+[Cheats/Dash Never Overheats while running]
 patch=1,EE,20243F10,extended,AC6004F0
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,00631C40,extended,00000013
 
-//Cheats/Unlock Battle Mode
+[Cheats/Unlock Battle Mode]
 patch=1,EE,006CFC10,extended,00000001
 
-//Cheats/Allow Master Cheats Press SELECT activate deactivate the fly mode And Unlocks All Levels
+[Cheats/Allow Master Cheats Press SELECT activate deactivate the fly mode And Unlocks All Levels]
 patch=1,EE,00648399,extended,00000001

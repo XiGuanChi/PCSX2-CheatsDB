@@ -1,15 +1,15 @@
-//Cheats/Unlock All Music listening, supplement, summer vacation and final act
+[Cheats/Unlock All Music listening, supplement, summer vacation and final act]
 patch=1,EE,20458A14,extended,01010101
 patch=1,EE,20458A18,extended,01010101
 patch=1,EE,20458A1C,extended,01010101
 patch=1,EE,10458A20,extended,00000101
 
-//Cheats/Unlock All CG
+[Cheats/Unlock All CG]
 patch=1,EE,20118484,extended,24020001
 patch=1,EE,20118488,extended,1000FF1D
 patch=1,EE,2011848C,extended,A1E200D8
 
-//Cheats/Unlock All Memories When viewing memories Also valid for reminiscences in the supplement
+[Cheats/Unlock All Memories When viewing memories Also valid for reminiscences in the supplement]
 patch=1,EE,200FF200,extended,08046040
 patch=1,EE,200FF204,extended,A1E20204
 patch=1,EE,20118468,extended,0803FC80

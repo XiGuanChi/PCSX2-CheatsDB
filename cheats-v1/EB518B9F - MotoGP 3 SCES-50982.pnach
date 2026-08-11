@@ -1,14 +1,14 @@
-//Cheats/Opponents Don't Move
+[Cheats/Opponents Don't Move]
 patch=1,EE,2024D3EC,extended,1000020C
 
-//Cheats/No Loss Of Speed if you go off the road or collide with walls
+[Cheats/No Loss Of Speed if you go off the road or collide with walls]
 patch=1,EE,2023EBDC,extended,00000000
 patch=1,EE,2023EAE4,extended,00000000
 patch=1,EE,2023D84C,extended,00000000
 patch=1,EE,2023D834,extended,00000000
 patch=1,EE,2023EDCC,extended,00000000
 
-//Cheats/Have All Challenges Gold
+[Cheats/Have All Challenges Gold]
 patch=1,EE,2034DDBC,extended,02020202
 patch=1,EE,2034DDC0,extended,02020202
 patch=1,EE,2034DDC4,extended,02020202

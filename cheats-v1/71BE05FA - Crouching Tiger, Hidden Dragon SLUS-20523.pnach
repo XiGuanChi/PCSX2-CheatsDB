@@ -1,33 +1,33 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,2023B158,extended,42C80000
 
-//Cheats/Max Infinite HP
+[Cheats/Max Infinite HP]
 patch=1,EE,2023B150,extended,4479C000
 patch=1,EE,2023B158,extended,4479C000
 
-//Cheats/Max Attack
+[Cheats/Max Attack]
 patch=1,EE,2023B168,extended,40C00000
 
-//Cheats/Max Defense
+[Cheats/Max Defense]
 patch=1,EE,2023B16C,extended,3F460000
 
-//Cheats/Have All Special Moves
+[Cheats/Have All Special Moves]
 patch=1,EE,2023B180,extended,FFFFFFFF
 
-//Cheats/Unarmed Level 30
+[Cheats/Unarmed Level 30]
 patch=1,EE,2023B184,extended,0000001E
 
-//Cheats/Weapons Level 30
+[Cheats/Weapons Level 30]
 patch=1,EE,2023B18C,extended,0000001E
 
-//Cheats/Infinite Double Jumps
+[Cheats/Infinite Double Jumps]
 patch=1,EE,D023B3CC,extended,00000002
 patch=1,EE,2023B3CC,extended,00000001
 
-//Cheats/Infinite Continues
+[Cheats/Infinite Continues]
 patch=1,EE,2023BA2C,extended,00000009
 
-//Cheats/Press L3 For Debug Menu
+[Cheats/Press L3 For Debug Menu]
 patch=1,EE,D023C938,extended,0000001D
 patch=1,EE,001B2240,extended,00000013
 patch=1,EE,D023C402,extended,0000FFFD

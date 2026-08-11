@@ -1,26 +1,26 @@
 gametitle=Inuyasha - Feudal Combat SLUS-21193
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,200C0224,extended,24010000
 patch=1,EE,200C0228,extended,50220001
 patch=1,EE,200C022C,extended,AE031BE4
 
-//100% Cleared
+[100% Cleared]
 patch=1,EE,20432110,extended,FFFFFFFF
 
-//Infinite Health P1-Partner
+[Infinite Health P1-Partner]
 patch=1,EE,200C023C,extended,24010002
 patch=1,EE,200C0240,extended,50220001
 patch=1,EE,200C0244,extended,AE031BE4
 
-//All Characters
+[All Characters]
 patch=1,EE,40434210,extended,00050001
 patch=1,EE,00000002,extended,00000000
 
-//All Chapters
+[All Chapters]
 patch=1,EE,40434254,extended,00030001
 patch=1,EE,00000002,extended,00000000
 
-//Unlock All Characters/Levels/Chapters
+[Unlock All Characters/Levels/Chapters]
 patch=1,EE,200C2080,extended,24080020
 patch=1,EE,200C2084,extended,24090002
 patch=1,EE,200C2088,extended,00055821

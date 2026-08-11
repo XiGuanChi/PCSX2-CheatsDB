@@ -1,23 +1,23 @@
-//Cheats/Never Scared
+[Cheats/Never Scared]
 patch=1,EE,208CB144,extended,3F800000
 
-//Cheats/Infinite Book Power
+[Cheats/Infinite Book Power]
 patch=1,EE,208CB148,extended,43340000
 
-//Cheats/Have All Episode Clues
+[Cheats/Have All Episode Clues]
 patch=1,EE,208CB1F1,extended,000000FF
 
-//Cheats/Have All Ghost Portraits
+[Cheats/Have All Ghost Portraits]
 patch=1,EE,208CB1E4,extended,FFFDFFFF
 
-//Cheats/Have Complete Sandwich
+[Cheats/Have Complete Sandwich]
 patch=1,EE,208CB1F0,extended,000000FF
 
-//Cheats/Unlock All MiniGames
+[Cheats/Unlock All MiniGames]
 patch=1,EE,208CB1E4,extended,FFFFFFFF
 
-//Cheats/Unlock All Gallery Images and Character Models
+[Cheats/Unlock All Gallery Images and Character Models]
 patch=1,EE,208CB204,extended,FFFFFFFF
 
-//Cheats/Unlock All Play Rerun and Movies
+[Cheats/Unlock All Play Rerun and Movies]
 patch=1,EE,208CB20C,extended,FFFFFFFF

@@ -1,33 +1,33 @@
 gametitle=Nano Breaker SLPM-65809
-//Infinite HP
+[Infinite HP]
 patch=1,EE,204CE890,extended,4479C000
 patch=1,EE,204CE898,extended,4479C000
 
-//Infinite Booster
+[Infinite Booster]
 patch=1,EE,204CE894,extended,4479C000
 
-//Infinite Health (Michelle)
+[Infinite Health (Michelle)]
 patch=1,EE,204A8038,extended,4479C000
 
-//All chips
+[All chips]
 patch=1,EE,4061498c,extended,00030001
 patch=1,EE,00090009,extended,00000000
 
-//Unlock Lock Splatter Mode
+[Unlock Lock Splatter Mode]
 patch=1,EE,204ca85c,extended,00000008
 
-//Unlock movie viewer
+[Unlock movie viewer]
 patch=1,EE,204ca85c,extended,00000010
 
-//All movies unlock (movie viewer)
+[All movies unlock (movie viewer)]
 patch=1,EE,204ca850,extended,FFFFFFFF
 
-//Keith playable
+[Keith playable]
 patch=1,EE,204ca85D,extended,00000001
 
-//Jaguar playable
+[Jaguar playable]
 patch=1,EE,204ca85D,extended,00000002
 
-//Levels of all boosters
+[Levels of all boosters]
 patch=1,EE,404ce938,extended,00070001
 patch=1,EE,00000046,extended,00000000

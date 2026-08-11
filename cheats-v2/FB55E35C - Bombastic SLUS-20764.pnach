@@ -1,16 +1,16 @@
 gametitle=Bombastic SLUS-20764
-//Max Score Player 1
+[Max Score Player 1]
 patch=1,EE,20352874,extended,05F5E0FF
 patch=1,EE,2055F820,extended,05F5E0FF
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,202F829C,extended,00000000
 
-//Unlock All World Maps
+[Unlock All World Maps]
 patch=1,EE,404A1D58,extended,00050001
 patch=1,EE,00000001,extended,00000000
 
-//Have All Worlds Completed
+[Have All Worlds Completed]
 patch=1,EE,404A1D88,extended,00040001
 patch=1,EE,00000004,extended,00000000
 patch=1,EE,404A1DB0,extended,00040001

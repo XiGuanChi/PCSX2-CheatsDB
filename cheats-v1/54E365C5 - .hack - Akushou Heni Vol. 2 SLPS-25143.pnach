@@ -1,68 +1,68 @@
-//Cheats/Level Up once for LEVEL 99
+[Cheats/Level Up once for LEVEL 99]
 patch=1,EE,D053EC3C,extended,0000005F
 patch=1,EE,2053EC58,extended,24020063
 
-//Cheats/Level Up once for HP 9999
+[Cheats/Level Up once for HP 9999]
 patch=1,EE,D053ECE8,extended,00000003
 patch=1,EE,2053ECE8,extended,14200001
 patch=1,EE,D053ED60,extended,00000003
 patch=1,EE,2053ED60,extended,14200001
 
-//Cheats/Level Up once for SP 9999
+[Cheats/Level Up once for SP 9999]
 patch=1,EE,D053ED18,extended,00000003
 patch=1,EE,2053ED18,extended,14200001
 patch=1,EE,D053ED78,extended,00000003
 
-//Cheats/All Members can Appear & Call
+[Cheats/All Members can Appear & Call]
 patch=1,EE,20A965F0,extended,0003FFFF
 patch=1,EE,20A965F4,extended,0003FFFF
 patch=1,EE,20A965FC,extended,0003FFFF
 
-//Cheats/Kite hero Experience 999
+[Cheats/Kite hero Experience 999]
 patch=1,EE,10A9B868,extended,000003E7
 
-//Cheats/Kite hero Max Money
+[Cheats/Kite hero Max Money]
 patch=1,EE,20A9B86C,extended,0098967F
 
-//Cheats/Kite hero Max HP
+[Cheats/Kite hero Max HP]
 patch=1,EE,10A9B87C,extended,0000270F
 
-//Cheats/Kite hero Max SP
+[Cheats/Kite hero Max SP]
 patch=1,EE,10A9B87E,extended,000003E7
 
-//Cheats/Mia hero Experience 999
+[Cheats/Mia hero Experience 999]
 patch=1,EE,10A9B944,extended,000003E7
 
-//Cheats/Mia hero Max Money
+[Cheats/Mia hero Max Money]
 patch=1,EE,20A9B948,extended,0098967F
 
-//Cheats/Mia hero Max HP
+[Cheats/Mia hero Max HP]
 patch=1,EE,10A9B958,extended,0000270F
 
-//Cheats/Mia hero Max SP
+[Cheats/Mia hero Max SP]
 patch=1,EE,10A9B95A,extended,000003E7
 
-//Cheats/Orca hero Experience 999
+[Cheats/Orca hero Experience 999]
 patch=1,EE,10A9BA20,extended,000003E7
 
-//Cheats/Orca hero Max Money
+[Cheats/Orca hero Max Money]
 patch=1,EE,20A9BA24,extended,0098967F
 
-//Cheats/Orca hero Max HP
+[Cheats/Orca hero Max HP]
 patch=1,EE,10A9BA34,extended,0000270F
 
-//Cheats/Orca hero Max SP
+[Cheats/Orca hero Max SP]
 patch=1,EE,10A9BA36,extended,000003E7
 
-//Cheats/Unlock All Wallpapers
+[Cheats/Unlock All Wallpapers]
 patch=1,EE,20A96608,extended,FFFFFFFF
 patch=1,EE,10A9660C,extended,0000FFFF
 
-//Cheats/Unlock All BGM
+[Cheats/Unlock All BGM]
 patch=1,EE,20A96614,extended,FFFFFFFF
 patch=1,EE,20A96618,extended,0003FFFF
 
-//Cheats/Unlock All Videos
+[Cheats/Unlock All Videos]
 patch=1,EE,20A96620,extended,FFFFFFFF
 patch=1,EE,20A96624,extended,FFFFFFFF
 patch=1,EE,20A96628,extended,03FFFFFF

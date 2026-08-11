@@ -1,38 +1,38 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2018C36C,extended,00000064
 
-//Cheats/Infinite Air
+[Cheats/Infinite Air]
 patch=1,EE,2018C360,extended,00002710
 
-//Cheats/Infinite Health Giant Clank
+[Cheats/Infinite Health Giant Clank]
 patch=1,EE,2018B714,extended,000004B0
 
-//Cheats/Infinite Missiles Giant Clank (Planet Dobbo)
+[Cheats/Infinite Missiles Giant Clank (Planet Dobbo)]
 patch=1,EE,201B1928,extended,00000064
 
-//Cheats/Unlock All Ship Upgrades
+[Cheats/Unlock All Ship Upgrades]
 patch=1,EE,201A7B78,extended,0000BB50
 
-//Cheats/Infinite Shield
+[Cheats/Infinite Shield]
 patch=1,EE,D02A0840,extended,000000C8
 patch=1,EE,202A0844,extended,000000C8
 
-//Cheats/Max Bolts
+[Cheats/Max Bolts]
 patch=1,EE,201A7A80,extended,00900000
 
-//Cheats/Max Nanotech Level
+[Cheats/Max Nanotech Level]
 patch=1,EE,201A7A98,extended,002F0000
 
-//Cheats/Max Raritanium Level
+[Cheats/Max Raritanium Level]
 patch=1,EE,201A7A84,extended,00900000
 
-//Cheats/Max Crystals
+[Cheats/Max Crystals]
 patch=1,EE,101A7AA2,extended,0000270F
 
-//Cheats/Max Moonstones
+[Cheats/Max Moonstones]
 patch=1,EE,101A7AA4,extended,0000270F
 
-//Cheats/40 Platinium Bolts
+[Cheats/40 Platinium Bolts]
 patch=1,EE,2019B300,extended,01010101
 patch=1,EE,2019B304,extended,01010101
 patch=1,EE,2019B308,extended,01010101
@@ -44,7 +44,7 @@ patch=1,EE,2019B31C,extended,01010101
 patch=1,EE,2019B320,extended,01010101
 patch=1,EE,2019B324,extended,01010101
 
-//Cheats/All Weapons, Items and Gadgets
+[Cheats/All Weapons, Items and Gadgets]
 patch=1,EE,201A7B80,extended,01010101
 patch=1,EE,201A7B84,extended,01010101
 patch=1,EE,201A7B88,extended,01010101
@@ -60,12 +60,12 @@ patch=1,EE,201A7BAC,extended,01010101
 patch=1,EE,201A7BB0,extended,01010101
 patch=1,EE,201A7BB4,extended,01010101
 
-//Cheats/Unlock All Cinematics
+[Cheats/Unlock All Cinematics]
 patch=1,EE,40139768,extended,00080001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,211BF508,extended,00000001
 
-//Cheats/Unlock All Cinematics ALT
+[Cheats/Unlock All Cinematics ALT]
 patch=1,EE,20139768,extended,FFFFFFFF
 patch=1,EE,2013976C,extended,FFFFFFFF
 patch=1,EE,20139770,extended,FFFFFFFF
@@ -76,18 +76,18 @@ patch=1,EE,20139780,extended,FFFFFFFF
 patch=1,EE,20139784,extended,FFFFFFFF
 patch=1,EE,211BF508,extended,00000001
 
-//Cheats/Unlock Credits
+[Cheats/Unlock Credits]
 patch=1,EE,201BF50C,extended,00000001
 
-//Cheats/Unlock Making Of Video
+[Cheats/Unlock Making Of Video]
 patch=1,EE,201BF510,extended,00000001
 
-//Cheats/Unlock Cancelled Commercials
+[Cheats/Unlock Cancelled Commercials]
 patch=1,EE,201BF514,extended,00000001
 
-//Cheats/Unlock Sketchbook
+[Cheats/Unlock Sketchbook]
 patch=1,EE,201BF518,extended,00000001
 
-//Cheats/Unlock Misc Extras
+[Cheats/Unlock Misc Extras]
 patch=1,EE,001BB192,extended,00000001
 

@@ -1,14 +1,14 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201763F4,extended,240207D0
 patch=1,EE,201763F8,extended,AC820084
 
-//Cheats/Infinite Special 1
+[Cheats/Infinite Special 1]
 patch=1,EE,20176404,extended,240203E8
 patch=1,EE,20176408,extended,AC820088
 
-//Cheats/Infinite Special 2
+[Cheats/Infinite Special 2]
 patch=1,EE,201763E4,extended,240200FE
 patch=1,EE,201763E8,extended,AC82008C
 
-//Cheats/Infinite Item Use
+[Cheats/Infinite Item Use]
 patch=1,EE,2038367C,extended,24830000

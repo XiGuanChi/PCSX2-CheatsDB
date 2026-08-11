@@ -1,25 +1,25 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2037380C,extended,24020078
 patch=1,EE,20373810,extended,AE020714
 patch=1,EE,10373816,extended,00001000
 
-//Cheats/Infinite Health Your Team
+[Cheats/Infinite Health Your Team]
 patch=1,EE,203944CC,extended,8FA12B1C
 patch=1,EE,203944D0,extended,AC410714
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2039A650,extended,904100CF
 patch=1,EE,2039A654,extended,34210002
 patch=1,EE,2039A658,extended,A04100CF
 patch=1,EE,2039A65C,extended,00000000
 
-//Cheats/Load Any Profile Unlocks All Gallery
+[Cheats/Load Any Profile Unlocks All Gallery]
 patch=1,EE,200C2010,extended,24020FFF
 patch=1,EE,200C2014,extended,AC8201D0
 patch=1,EE,200C2018,extended,AC8201D4
 patch=1,EE,200C201C,extended,AC8201D8
 
-//Cheats/Load Any Profile Unlocks All Movies and Quick Missions
+[Cheats/Load Any Profile Unlocks All Movies and Quick Missions]
 patch=1,EE,200C202C,extended,2402003F
 patch=1,EE,200C2030,extended,AC8201DC
 patch=1,EE,200C2034,extended,24020001

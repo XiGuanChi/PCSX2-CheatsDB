@@ -1,49 +1,49 @@
-//Cheats/Galaxy Fight Infinite Time
+[Cheats/Galaxy Fight Infinite Time]
 patch=1,EE,10595D72,extended,0000FFDB
 
-//Cheats/Galaxy Fight P1 Infinite HP
+[Cheats/Galaxy Fight P1 Infinite HP]
 patch=1,EE,00595B5D,extended,000000FF
 
-//Cheats/Galaxy Fight P1 No HP P2 press START
+[Cheats/Galaxy Fight P1 No HP P2 press START]
 patch=1,EE,D0685E02,extended,0000FFF7
 patch=1,EE,00595B5D,extended,00000000
 
-//Cheats/Galaxy Fight P2 Infinite HP
+[Cheats/Galaxy Fight P2 Infinite HP]
 patch=1,EE,00595C73,extended,000000FF
 
-//Cheats/Galaxy Fight P2 No HP P1 press START
+[Cheats/Galaxy Fight P2 No HP P1 press START]
 patch=1,EE,D0685D02,extended,0000FFF7
 patch=1,EE,00595C73,extended,00000000
 
-//Cheats/Waku Waku 7 Infinite Time
+[Cheats/Waku Waku 7 Infinite Time]
 patch=1,EE,00595623,extended,0000009B
 
-//Cheats/Waku Waku 7 P1 Infinite HP
+[Cheats/Waku Waku 7 P1 Infinite HP]
 patch=1,EE,10594C6A,extended,0000FFE4
 
-//Cheats/Waku Waku 7 P1 Infinite Power
+[Cheats/Waku Waku 7 P1 Infinite Power]
 patch=1,EE,10594C76,extended,0000FFFF
 patch=1,EE,00594C78,extended,00000007
 
-//Cheats/Waku Waku 7 P1 No HP P2 press START
+[Cheats/Waku Waku 7 P1 No HP P2 press START]
 patch=1,EE,D0685E02,extended,0000FFF7
 patch=1,EE,10594C6A,extended,00000000
 
-//Cheats/Waku Waku 7 P1 No Power
+[Cheats/Waku Waku 7 P1 No Power]
 patch=1,EE,10594C76,extended,00000000
 patch=1,EE,00594C78,extended,00000000
 
-//Cheats/Waku Waku 7 P2 Infinite HP
+[Cheats/Waku Waku 7 P2 Infinite HP]
 patch=1,EE,10594DAA,extended,0000FFE4
 
-//Cheats/Waku Waku 7 P2 Infinite Power
+[Cheats/Waku Waku 7 P2 Infinite Power]
 patch=1,EE,10594DB6,extended,0000FFFF
 patch=1,EE,00594DB8,extended,00000007
 
-//Cheats/Waku Waku 7 P2 No HP P1 press START
+[Cheats/Waku Waku 7 P2 No HP P1 press START]
 patch=1,EE,D0685D02,extended,0000FFF7
 patch=1,EE,10594DAA,extended,00000000
 
-//Cheats/Waku Waku 7 P2 No Power
+[Cheats/Waku Waku 7 P2 No Power]
 patch=1,EE,10594DB6,extended,00000000
 patch=1,EE,00594DB8,extended,00000000

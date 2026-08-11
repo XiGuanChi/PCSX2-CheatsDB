@@ -1,16 +1,16 @@
-//Cheats/99,999,999 Roman Helmets
+[Cheats/99,999,999 Roman Helmets]
 patch=1,EE,207d1f60,extended,05f5e0ff
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,107d1f5c,extended,00000003
 
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,107d1f5c,extended,00000006
 
-//Cheats/Infinite Time Multiplier
+[Cheats/Infinite Time Multiplier]
 patch=1,EE,207d1f68,extended,434be9d4
 
-//Cheats/One Hit Kill Activate with Select+triangle Deactivate with Select+X
+[Cheats/One Hit Kill Activate with Select+triangle Deactivate with Select+X]
 patch=1,EE,D0589B02,extended,0000EFFE
 patch=1,EE,20279FE8,extended,10000005
 patch=1,EE,D0589B02,extended,0000BFFE

@@ -1,19 +1,19 @@
 gametitle=Tenchu - Wrath of Heaven SLUS-20397
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2023BB14,extended,8F8286B8
 patch=1,EE,2023BB1C,extended,3C0142C8
 patch=1,EE,2023BB24,extended,AC410048
 
-//Max Infinite Items (All Carried Items)
+[Max Infinite Items (All Carried Items)]
 patch=1,EE,202D3AE4,extended,24070063
 patch=1,EE,202D3AF4,extended,A087001A
 
-//Unlock Tesshu
+[Unlock Tesshu]
 patch=1,EE,21872DE8,extended,000000FF
 
-//Unlock Through The Portal
+[Unlock Through The Portal]
 patch=1,EE,01872F59,extended,00000000
 
-//Infinite Money
+[Infinite Money]
 patch=1,EE,D067177C,extended,0000FFFF
 patch=1,EE,20671774,extended,0000270F

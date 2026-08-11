@@ -1,27 +1,27 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,0027DC00,extended,00000063
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,1026E9CA,extended,0000428D
 
-//Cheats/Have 99 Coins Badges
+[Cheats/Have 99 Coins Badges]
 patch=1,EE,1027DC08,extended,00000063
 
-//Cheats/All Secret Moves
+[Cheats/All Secret Moves]
 patch=1,EE,1027DC10,extended,0000FFFF
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,1027DC18,extended,0000FFFF
 patch=1,EE,1027DC14,extended,0000FFFF
 
-//Cheats/Unlock World China Vicious Voodoo
+[Cheats/Unlock World China Vicious Voodoo]
 patch=1,EE,1027D35C,extended,00000021
 
-//Cheats/Unlock World Mesa City Sunset Snake Eyes
+[Cheats/Unlock World Mesa City Sunset Snake Eyes]
 patch=1,EE,1027CF10,extended,00000021
 
-//Cheats/Unlock World Russia Fire In The Sky
+[Cheats/Unlock World Russia Fire In The Sky]
 patch=1,EE,1027D7A8,extended,00000021
 
-//Cheats/Unlock World The Cold Heart Of Hate
+[Cheats/Unlock World The Cold Heart Of Hate]
 patch=1,EE,2027DBF4,extended,00000001

@@ -1,8 +1,8 @@
 gametitle= Another Century's Episode 3 SLPS-25784
-//AcePoint MAX
+[AcePoint MAX]
 patch=1,EE,20409770,extended,0098967F
 
-//Full body experience value MAX when entering the sortie selection screen
+[Full body experience value MAX when entering the sortie selection screen]
 patch=1,EE,20238954,extended,344286A0
 patch=1,EE,20238958,extended,1000000F
 patch=1,EE,2023895C,extended,AC221000
@@ -10,74 +10,74 @@ patch=1,EE,20238988,extended,00430821
 patch=1,EE,2023898C,extended,1000FFF1
 patch=1,EE,20238990,extended,3C020001
 
-//Mission Player & Consumer AP MAX
+[Mission Player & Consumer AP MAX]
 patch=1,EE,2027BEB4,extended,2402270F
 patch=1,EE,2027BEB8,extended,03E00008
 patch=1,EE,2027BEBC,extended,AC8200D4
 patch=1,EE,202A4F84,extended,0C09EFAD
 
-//Mission player machine Vernier gauge will not decrease
+[Mission player machine Vernier gauge will not decrease]
 patch=1,EE,202A50CC,extended,080A9D21
 patch=1,EE,202A7484,extended,C4810458
 patch=1,EE,202A7488,extended,080A9435
 patch=1,EE,202A748C,extended,E4810454
 
-//Mission combination gauge MAX
+[Mission combination gauge MAX]
 patch=1,EE,202C7D4C,extended,E480001C
 patch=1,EE,202C7D50,extended,46000803
 
-//Mission bullet not reduce & super shot shift type
+[Mission bullet not reduce & super shot shift type]
 patch=1,EE,202A5C60,extended,84820010
 patch=1,EE,202A5C64,extended,A482000C
 patch=1,EE,202A5C68,extended,A482000E
 patch=1,EE,202A5C6C,extended,AC800000
 
-//Mission bullet does not decrease & super shot select type
+[Mission bullet does not decrease & super shot select type]
 patch=1,EE,202A5F94,extended,84820010
 patch=1,EE,202A5F98,extended,A482000C
 patch=1,EE,202A5F9C,extended,A482000E
 patch=1,EE,202A5FA0,extended,AC800000
 
-//Increase mission attack power
+[Increase mission attack power]
 patch=1,EE,20266EA0,extended,24100001
 patch=1,EE,20266EE4,extended,3C016000
 patch=1,EE,20266EE8,extended,AC410018
 
-//Mission 1P side SELECT button to activate clear-water stop
+[Mission 1P side SELECT button to activate clear-water stop]
 patch=1,EE,202DB6B0,extended,45000018
 patch=1,EE,D03FCB82,extended,0000FFFE
 patch=1,EE,202DB6B0,extended,10000018
 
-//Mission SEED Ability Immediate Activatio
+[Mission SEED Ability Immediate Activatio]
 patch=1,EE,20344160,extended,00000000
 
-//Mission Seventh Well immediate activation
+[Mission Seventh Well immediate activation]
 patch=1,EE,2031D2D0,extended,00000000
 
-//Mission purification abilities immediate activation
+[Mission purification abilities immediate activation]
 patch=1,EE,2031D914,extended,00000000
 
-//Immediate activation of mission lean wings
+[Immediate activation of mission lean wings]
 patch=1,EE,202F8328,extended,00000000
 
-//Release mission aura force activation restriction
+[Release mission aura force activation restriction]
 patch=1,EE,2025ADDC,extended,00000000
 
-//Achieve secret by mission clear
+[Achieve secret by mission clear]
 patch=1,EE,201D7558,extended,00000000
 patch=1,EE,201D7638,extended,00000000
 
-//All models appear when entering the intermission screen
+[All models appear when entering the intermission screen]
 patch=1,EE,20237CCC,extended,00A20821
 patch=1,EE,20237CD0,extended,24020002
 patch=1,EE,20237CD4,extended,03E00008
 patch=1,EE,20237CD8,extended,A0220010
 
-//All missions appear when entering a free mission"
+[All missions appear when entering a free mission"]
 patch=1,EE,202380F4,extended,00A20821
 patch=1,EE,202380F8,extended,240200FB
 patch=1,EE,202380FC,extended,A0220000
 
-//Full view when viewing video recording
+[Full view when viewing video recording]
 patch=1,EE,202384D0,extended,240200FF
 patch=1,EE,202384D4,extended,A0620000

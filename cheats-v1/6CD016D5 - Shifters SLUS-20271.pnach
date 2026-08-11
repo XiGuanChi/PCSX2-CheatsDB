@@ -1,63 +1,63 @@
-//Cheats/Infinite Attribute Points
+[Cheats/Infinite Attribute Points]
 patch=1,EE,205D2594,extended,00000064
 patch=1,EE,205D2598,extended,00000064
 
-//Cheats/Infinite Form Points
+[Cheats/Infinite Form Points]
 patch=1,EE,205D26D8,extended,00000064
 
-//Cheats/Max Level
+[Cheats/Max Level]
 patch=1,EE,20C12408,extended,0000001E
 
-//Cheats/Quick Level Up
+[Cheats/Quick Level Up]
 patch=1,EE,10C1240C,extended,0000FFFF
 
-//Cheats/Max Mind
+[Cheats/Max Mind]
 patch=1,EE,00C12418,extended,00000064
 
-//Cheats/Max Body
+[Cheats/Max Body]
 patch=1,EE,00C12419,extended,00000064
 
-//Cheats/Max Spirit
+[Cheats/Max Spirit]
 patch=1,EE,00C1241A,extended,00000064
 
-//Cheats/Infinite Gold Pieces
+[Cheats/Infinite Gold Pieces]
 patch=1,EE,10C12444,extended,0000FFFF
 
-//Cheats/Max Gold Pieces
+[Cheats/Max Gold Pieces]
 patch=1,EE,20C12444,extended,05F5E0FF
 
-//Cheats/Have Form Beast Grunt
+[Cheats/Have Form Beast Grunt]
 patch=1,EE,00C1245D,extended,00000000
 
-//Cheats/Have Form Undead Grunt
+[Cheats/Have Form Undead Grunt]
 patch=1,EE,00C1245E,extended,00000000
 
-//Cheats/Have Form Kreegan Grunt
+[Cheats/Have Form Kreegan Grunt]
 patch=1,EE,00C1245F,extended,00000000
 
-//Cheats/Have Form Djinn Grunt
+[Cheats/Have Form Djinn Grunt]
 patch=1,EE,00C12460,extended,00000000
 
-//Cheats/Have Form Hybrid Grunt
+[Cheats/Have Form Hybrid Grunt]
 patch=1,EE,00C12461,extended,00000000
 
-//Cheats/Have Form Automaton Grunt
+[Cheats/Have Form Automaton Grunt]
 patch=1,EE,00C12462,extended,00000000
 
-//Cheats/Max Form Beast Grunt
+[Cheats/Max Form Beast Grunt]
 patch=1,EE,00C12451,extended,0000000A
 
-//Cheats/Max Form Undead Grunt
+[Cheats/Max Form Undead Grunt]
 patch=1,EE,00C12452,extended,0000000A
 
-//Cheats/Max Form Kreegan Grunt
+[Cheats/Max Form Kreegan Grunt]
 patch=1,EE,00C12453,extended,0000000A
 
-//Cheats/Max Form Djinn Grunt
+[Cheats/Max Form Djinn Grunt]
 patch=1,EE,00C12454,extended,0000000A
 
-//Cheats/Max Form Hybrid Grunt
+[Cheats/Max Form Hybrid Grunt]
 patch=1,EE,00C12455,extended,0000000A
 
-//Cheats/Max Form Automaton Grunt
+[Cheats/Max Form Automaton Grunt]
 patch=1,EE,00C12456,extended,0000000A

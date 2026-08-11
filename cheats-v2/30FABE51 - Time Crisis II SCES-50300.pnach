@@ -1,15 +1,15 @@
 gametitle=Time Crisis II SCES-50300
-//Player 1 - Arcade Story Mode - No Re-Load 
+[Player 1 - Arcade Story Mode - No Re-Load]
 patch=1,EE,10661A04,extended,00000009
 
-//Player 1 - Arcade Story Mode - Infinite Lives 
+[Player 1 - Arcade Story Mode - Infinite Lives]
 patch=1,EE,106618A0,extended,00000004
 
-//Arcade Story Mode - Infinite Time 
+[Arcade Story Mode - Infinite Time]
 patch=1,EE,106618A4,extended,00002EE0
 
-//Player2 - Arcade Story Mode - No Re-Load 
+[Player2 - Arcade Story Mode - No Re-Load]
 patch=1,EE,10661A34,extended,00000009
 
-//Player 2 - Arcade Story Mode - Infinite Lives 
+[Player 2 - Arcade Story Mode - Infinite Lives]
 patch=1,EE,10661900,extended,00000004

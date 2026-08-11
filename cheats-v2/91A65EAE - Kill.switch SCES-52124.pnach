@@ -1,18 +1,18 @@
 gametitle=Kill.switch SCES-52124
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20193168,extended,00000000
 
-//Infinite Ammo In Mag
+[Infinite Ammo In Mag]
 patch=1,EE,20263C20,extended,24420000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,20191CE8,extended,24630000
 
-//Open all levels
+[Open all levels]
 patch=1,EE,203CA464,extended,00000035
 
-//Infinite Time (Timed Missions)
+[Infinite Time (Timed Missions)]
 patch=1,EE,201FE48C,extended,00000000
 
-//Have All Weapons
+[Have All Weapons]
 patch=1,EE,201E3D28,extended,24030001

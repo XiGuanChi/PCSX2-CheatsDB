@@ -1,17 +1,17 @@
-//Cheats/Infinite Health 1P
+[Cheats/Infinite Health 1P]
 patch=1,EE,202FB108,extended,0C03E000
 patch=1,EE,200F8000,extended,16400003
 patch=1,EE,200F8004,extended,3C0142C8
 patch=1,EE,200F8008,extended,AC810000
 patch=1,EE,200F8010,extended,03E00008
 
-//Cheats/P2 Health 0 Press R1+up ON R1+down OFF
+[Cheats/P2 Health 0 Press R1+up ON R1+down OFF]
 patch=1,EE,D0602C82,extended,0000F7EF
 patch=1,EE,203BC1A0,extended,AC800000
 patch=1,EE,D0602C82,extended,0000F7BF
 patch=1,EE,203BC1A0,extended,00000000
 
-//Cheats/Infinite Health 1P Press SELECT+Up
+[Cheats/Infinite Health 1P Press SELECT+Up]
 patch=1,EE,200F8000,extended,16400003
 patch=1,EE,200F8004,extended,3C0142C8
 patch=1,EE,200F8008,extended,AC810000
@@ -20,7 +20,7 @@ patch=1,EE,202FB108,extended,00000000
 patch=1,EE,D0602C82,extended,0000FFEE
 patch=1,EE,202FB108,extended,0C03E000
 
-//Cheats/Infinite Health & Cosmo Gauge 1P Press SELECT+Up 1P  Changes in the value of the Cosmo Gauge will be reflected
+[Cheats/Infinite Health & Cosmo Gauge 1P Press SELECT+Up 1P  Changes in the value of the Cosmo Gauge will be reflected]
 patch=1,EE,202FB108,extended,00000000
 patch=1,EE,D0602C82,extended,0000FFEE
 patch=1,EE,202FB108,extended,0C03E000
@@ -31,11 +31,11 @@ patch=1,EE,200F800C,extended,3C01453C
 patch=1,EE,200F8010,extended,03E00008
 patch=1,EE,200F8014,extended,AC810004
 
-//Cheats/2P Health 1 Press SELECT+down
+[Cheats/2P Health 1 Press SELECT+down]
 patch=1,EE,203BC1A0,extended,00000000
 patch=1,EE,D0602C82,extended,0000FFBE
 patch=1,EE,203BC1A0,extended,E4810000
 
-//Cheats/Unlock All Bonus Seiya's Holiday 100 Once you have confirmed the effect, save the game immediately and proceed with the game without using the code.
+[Cheats/Unlock All Bonus Seiya's Holiday 100 Once you have confirmed the effect, save the game immediately and proceed with the game without using the code.]
 patch=1,EE,40540AB0,extended,00390001
 patch=1,EE,01010101,extended,00000000

@@ -1,20 +1,20 @@
-//Cheats/Have 999000000 Points
+[Cheats/Have 999000000 Points]
 patch=1,EE,202CA984,extended,3B8B87C0
 
-//Cheats/Race Prize Money 999999 As long as you don't retire, you can get it regardless of your ranking in any race.
+[Cheats/Race Prize Money 999999 As long as you don't retire, you can get it regardless of your ranking in any race.]
 patch=1,EE,403009B0,extended,01500001
 patch=1,EE,000F423F,extended,00000000
 
-//Cheats/Unlock Car Price 0
+[Cheats/Unlock Car Price 0]
 patch=1,EE,40300830,extended,00360001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Unlock Parts Price 0
+[Cheats/Unlock Parts Price 0]
 patch=1,EE,40300908,extended,002A0001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Enemy Vehicles Slow Down
+[Cheats/Enemy Vehicles Slow Down]
 patch=1,EE,2011885C,extended,00000000
 
-//Cheats/Infinite Nitro Usage
+[Cheats/Infinite Nitro Usage]
 patch=1,EE,20119DD8,extended,00000000

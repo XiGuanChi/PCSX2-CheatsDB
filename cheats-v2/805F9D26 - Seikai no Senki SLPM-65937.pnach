@@ -1,15 +1,15 @@
 gametitle=Seikai no Senki SLPM-65937
-//Hero experience value 99
+[Hero experience value 99]
 patch=1,EE,203B511C,extended,00000063
 
-//Code protagonist Shiki strong
+[Code protagonist Shiki strong]
 patch=1,EE,002E3E42,extended,00000064
 
-//Gold infinite (99999)
+[Gold infinite (99999)]
 patch=1,EE,202E3C5C,extended,0001869F
 
-//Sky Large (999)
+[Sky Large (999)]
 patch=1,EE,102E3E3E,extended,000003E7
 
-//Sokan maximum (999)
+[Sokan maximum (999)]
 patch=1,EE,102E3E40,extended,000003E7

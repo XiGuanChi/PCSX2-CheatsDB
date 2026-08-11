@@ -1,16 +1,16 @@
-//Cheats/Infinite Health Player 1
+[Cheats/Infinite Health Player 1]
 patch=1,EE,001EFB30,extended,00000064
 patch=1,EE,001EFB34,extended,00000064
 
-//Cheats/1 Hit Death Player 2 L3+R3
+[Cheats/1 Hit Death Player 2 L3+R3]
 patch=1,EE,D02084C2,extended,0000FFF9
 patch=1,EE,001F23A0,extended,00000000
 patch=1,EE,D02084C2,extended,0000FFF9
 patch=1,EE,001F23A4,extended,00000000
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,401ED19C,extended,000B0001
 patch=1,EE,00000003,extended,00000000
 
-//Cheats/Championship Mode Infinite Money
+[Cheats/Championship Mode Infinite Money]
 patch=1,EE,101D9C58,extended,0000FFFF

@@ -1,4 +1,4 @@
-//Cheats/Bubble Bobble Activator Up+Select ON, Down+Select OFF
+[Cheats/Bubble Bobble Activator Up+Select ON, Down+Select OFF]
 patch=1,EE,200A0000,extended,340AE366
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -23,22 +23,22 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Bubble Bobble Infinite Credits Bubble Bobble Activator must be on
+[Cheats/Bubble Bobble Infinite Credits Bubble Bobble Activator must be on]
 patch=1,EE,200A0054,extended,A0220366
 
-//Cheats/Bubble Bobble Infinite Lives PL1 Bubble Bobble Activator must be on
+[Cheats/Bubble Bobble Infinite Lives PL1 Bubble Bobble Activator must be on]
 patch=1,EE,200A005C,extended,A0220645
 
-//Cheats/Bubble Bobble Infinite Lives PL2 Bubble Bobble Activator must be on
+[Cheats/Bubble Bobble Infinite Lives PL2 Bubble Bobble Activator must be on]
 patch=1,EE,200A0060,extended,A022064A
 
-//Cheats/Bubble Bobble Invincibility PL1 Bubble Bobble Activator must be on
+[Cheats/Bubble Bobble Invincibility PL1 Bubble Bobble Activator must be on]
 patch=1,EE,200A0068,extended,A02206B6
 
-//Cheats/Bubble Bobble Invincibility PL2 Bubble Bobble Activator must be on
+[Cheats/Bubble Bobble Invincibility PL2 Bubble Bobble Activator must be on]
 patch=1,EE,200A006C,extended,A02206E8
 
-//Cheats/Battle Shark Activator Up+Select ON Down+Select OFF
+[Cheats/Battle Shark Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,3C0A0010
 patch=1,EE,200A0004,extended,354A793E
 patch=1,EE,200A0008,extended,15430003
@@ -63,16 +63,16 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Battle Shark Infinite Credits Battle Shark Activator must be on
+[Cheats/Battle Shark Infinite Credits Battle Shark Activator must be on]
 patch=1,EE,200A0054,extended,A422093E
 
-//Cheats/Battle Shark Infinite Torpedos Battle Shark Activator must be on
+[Cheats/Battle Shark Infinite Torpedos Battle Shark Activator must be on]
 patch=1,EE,200A005C,extended,A0226E35
 
-//Cheats/Battle Shark Infinite HP Screen Damage still shows Battle Shark Activator must be on
+[Cheats/Battle Shark Infinite HP Screen Damage still shows Battle Shark Activator must be on]
 patch=1,EE,200A0060,extended,A0206D88
 
-//Cheats/Continental Circus Activator Up+Select ON Down+Select OFF
+[Cheats/Continental Circus Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,3C0A0008
 patch=1,EE,200A0004,extended,354A273E
 patch=1,EE,200A0008,extended,15430003
@@ -96,10 +96,10 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Continental Circus Infinite Credits Continental Circus Activator must be on
+[Cheats/Continental Circus Infinite Credits Continental Circus Activator must be on]
 patch=1,EE,200A0054,extended,A422003E
 
-//Cheats/Colony 7 Activator Up+Select ON Down+Select OFF
+[Cheats/Colony 7 Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,340AA012
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -121,28 +121,28 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Colony 7 Infinite Credits Colony 7 Activator must be on
+[Cheats/Colony 7 Infinite Credits Colony 7 Activator must be on]
 patch=1,EE,200A0054,extended,A0220012
 
-//Cheats/Colony 7 Keep Shooting after Gun Loss Colony 7 Activator must be on
+[Cheats/Colony 7 Keep Shooting after Gun Loss Colony 7 Activator must be on]
 patch=1,EE,200A005C,extended,A0220073
 
-//Cheats/Colony 7 Only a few Fighters to Kill Colony 7 Activator must be on
+[Cheats/Colony 7 Only a few Fighters to Kill Colony 7 Activator must be on]
 patch=1,EE,200A0064,extended,A0220020
 
-//Cheats/Colony 7 Infinite Lives Colony 7 Activator must be on
+[Cheats/Colony 7 Infinite Lives Colony 7 Activator must be on]
 patch=1,EE,200A0068,extended,A020000C
 
-//Cheats/Colony 7 Infinite Scatter Shots Colony 7 Activator must be on
+[Cheats/Colony 7 Infinite Scatter Shots Colony 7 Activator must be on]
 patch=1,EE,200A006C,extended,A020007F
 
-//Cheats/Colony 7 Infinite Smart Bombs and Eradicator Colony 7 Activator must be on
+[Cheats/Colony 7 Infinite Smart Bombs and Eradicator Colony 7 Activator must be on]
 patch=1,EE,200A0070,extended,A0200082
 
-//Cheats/Colony 7 Infinite City Colony 7 Activator must be on
+[Cheats/Colony 7 Infinite City Colony 7 Activator must be on]
 patch=1,EE,200A0074,extended,A020007C
 
-//Cheats/Elevator Action Activator Up+Select ON Down+Select OFF
+[Cheats/Elevator Action Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,340A8234
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -165,13 +165,13 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Elevator Action Infinite Lives Elevator Action Activator must be on
+[Cheats/Elevator Action Infinite Lives Elevator Action Activator must be on]
 patch=1,EE,200A0054,extended,A0220034
 
-//Cheats/Elevator Action Invincible  Elevator Action Activator must be on
+[Cheats/Elevator Action Invincible  Elevator Action Activator must be on]
 patch=1,EE,200A0058,extended,A0200323
 
-//Cheats/Exzisus Activator Up+Select ON Down+Select OFF
+[Cheats/Exzisus Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,340AF80B
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -195,13 +195,13 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Exzisus Infinite Credits Exzisus Activator must be on
+[Cheats/Exzisus Infinite Credits Exzisus Activator must be on]
 patch=1,EE,200A0054,extended,A022130B
 
-//Cheats/Exzisus Invincibility Exzisus Activator must be on
+[Cheats/Exzisus Invincibility Exzisus Activator must be on]
 patch=1,EE,200A0058,extended,A0200670
 
-//Cheats/Jungle Hunt Activator Up+Select ON Down+Select OFF
+[Cheats/Jungle Hunt Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,340A8169
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -224,23 +224,23 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Jungle Hunt Infinite Credits Jungle Hunt Activator must be on
+[Cheats/Jungle Hunt Infinite Credits Jungle Hunt Activator must be on]
 patch=1,EE,200A0054,extended,A0220169
 
-//Cheats/Jungle Hunt Infinite Time Exzisus Activator must be on
+[Cheats/Jungle Hunt Infinite Time Exzisus Activator must be on]
 patch=1,EE,200A005C,extended,A022042E
 patch=1,EE,200A0060,extended,A022042F
 
-//Cheats/Jungle Hunt Infinite Lives Player 1 Jungle Hunt Activator must be on
+[Cheats/Jungle Hunt Infinite Lives Player 1 Jungle Hunt Activator must be on]
 patch=1,EE,200A0068,extended,A0220425
 
-//Cheats/Jungle Hunt Infinite Lives Player 2 Jungle Hunt Activator must be on
+[Cheats/Jungle Hunt Infinite Lives Player 2 Jungle Hunt Activator must be on]
 patch=1,EE,200A006C,extended,A0220426
 
-//Cheats/Jungle Hunt Infinite Oxygen Jungle Hunt Activator must be on
+[Cheats/Jungle Hunt Infinite Oxygen Jungle Hunt Activator must be on]
 patch=1,EE,200A0074,extended,A0220457
 
-//Cheats/Operation Thunderbolt Activator Up+Select ON Down+Select OFF
+[Cheats/Operation Thunderbolt Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,3C0A0008
 patch=1,EE,200A0004,extended,354A26F0
 patch=1,EE,200A0008,extended,15430003
@@ -267,39 +267,39 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Operation Thunderbolt Infinite Credits Operation Thunderbolt Activator must be on
+[Cheats/Operation Thunderbolt Infinite Credits Operation Thunderbolt Activator must be on]
 patch=1,EE,200A0054,extended,A42226F0
 
-//Cheats/Operation Thunderbolt Have All Hostages Level 4 and 6 Operation Thunderbolt Activator must be on
+[Cheats/Operation Thunderbolt Have All Hostages Level 4 and 6 Operation Thunderbolt Activator must be on]
 patch=1,EE,200A0058,extended,A4223716
 
-//Cheats/Operation Thunderbolt Infinite Hp Player 1 Operation Thunderbolt Activator must be on
+[Cheats/Operation Thunderbolt Infinite Hp Player 1 Operation Thunderbolt Activator must be on]
 patch=1,EE,200A0060,extended,A4222800
 patch=1,EE,200A0064,extended,A4222802
 
-//Cheats/Operation Thunderbolt Infinite HP Player 2 Operation Thunderbolt Activator must be on
+[Cheats/Operation Thunderbolt Infinite HP Player 2 Operation Thunderbolt Activator must be on]
 patch=1,EE,200A0068,extended,A4222804
 patch=1,EE,200A006C,extended,A4222806
 
-//Cheats/Operation Thunderbolt Infinite Bullets Player 1 Operation Thunderbolt Activator must be on
+[Cheats/Operation Thunderbolt Infinite Bullets Player 1 Operation Thunderbolt Activator must be on]
 patch=1,EE,200A0074,extended,A42227C8
 
-//Cheats/Operation Thunderbolt Infinite Bullets Player 2 Operation Thunderbolt Activator must be on
+[Cheats/Operation Thunderbolt Infinite Bullets Player 2 Operation Thunderbolt Activator must be on]
 patch=1,EE,200A0078,extended,A42227CA
 
-//Cheats/Operation Thunderbolt Infinite Magazines player 1 Operation Thunderbolt Activator must be on
+[Cheats/Operation Thunderbolt Infinite Magazines player 1 Operation Thunderbolt Activator must be on]
 patch=1,EE,200A007C,extended,A42227CC
 
-//Cheats/Operation Thunderbolt Infinite Magazines Player 2 Operation Thunderbolt Activator must be on
+[Cheats/Operation Thunderbolt Infinite Magazines Player 2 Operation Thunderbolt Activator must be on]
 
 
-//Cheats/Operation Thunderbolt Infinite Grenades Player 1 Operation Thunderbolt Activator must be on
+[Cheats/Operation Thunderbolt Infinite Grenades Player 1 Operation Thunderbolt Activator must be on]
 patch=1,EE,200A0084,extended,A42227D0
 
-//Cheats/Operation Thunderbolt Infinite Grenades Player 2 Operation Thunderbolt Activator must be on
+[Cheats/Operation Thunderbolt Infinite Grenades Player 2 Operation Thunderbolt Activator must be on]
 patch=1,EE,200A0088,extended,A42227D2
 
-//Cheats/Operation Wolf Activator Up+Select ON Down+Select OFF
+[Cheats/Operation Wolf Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,3C0A0010
 patch=1,EE,200A0004,extended,354A0C58
 patch=1,EE,200A0008,extended,15430003
@@ -327,22 +327,22 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Operation Wolf Infinite Hp Player 1 Operation Wolf Activator must be on
+[Cheats/Operation Wolf Infinite Hp Player 1 Operation Wolf Activator must be on]
 patch=1,EE,200A004C,extended,a4220C58
 
-//Cheats/Operation Wolf Infinite Magazines Operation Wolf Activator must be on
+[Cheats/Operation Wolf Infinite Magazines Operation Wolf Activator must be on]
 patch=1,EE,200A0054,extended,A0220B20
 
-//Cheats/Operation Wolf Infinite Bullets Operation Wolf Activator must be on
+[Cheats/Operation Wolf Infinite Bullets Operation Wolf Activator must be on]
 patch=1,EE,200A005C,extended,A0220B1E
 
-//Cheats/Operation Wolf Infinite Grenades Operation Wolf Activator must be on
+[Cheats/Operation Wolf Infinite Grenades Operation Wolf Activator must be on]
 patch=1,EE,200A0064,extended,A0220B22
 
-//Cheats/Operation Wolf Infinite Credits Operation Wolf Activator must be on
+[Cheats/Operation Wolf Infinite Credits Operation Wolf Activator must be on]
 patch=1,EE,200A0074,extended,A0220083
 
-//Cheats/Operation Wolf Hold R1+R2 To finish Level Need to get Hostages for last 2 stages befor Pressing  Operation Wolf Activator must be on
+[Cheats/Operation Wolf Hold R1+R2 To finish Level Need to get Hostages for last 2 stages befor Pressing  Operation Wolf Activator must be on]
 patch=1,EE,400A0084,extended,00040001
 patch=1,EE,00000000,extended,00000000
 patch=1,EE,E004F5FF,extended,00713F02
@@ -351,7 +351,7 @@ patch=1,EE,200A0088,extended,A020004E
 patch=1,EE,200A008C,extended,A020004F
 patch=1,EE,200A0090,extended,A0200050
 
-//Cheats/Operation Wolf Have Hostage Stage 5 Hold Select+R1  Operation Wolf Activator must be on
+[Cheats/Operation Wolf Have Hostage Stage 5 Hold Select+R1  Operation Wolf Activator must be on]
 patch=1,EE,200A0078,extended,00000000
 patch=1,EE,200A007C,extended,00000000
 patch=1,EE,200A0080,extended,00000000
@@ -360,7 +360,7 @@ patch=1,EE,200A0078,extended,80220051
 patch=1,EE,200A007C,extended,A0220052
 patch=1,EE,200A0080,extended,A0200051
 
-//Cheats/Rastan Activator Up+Select ON Down+Select OFF
+[Cheats/Rastan Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,3C0A0010
 patch=1,EE,200A0004,extended,354AC012
 patch=1,EE,200A0008,extended,15430003
@@ -384,10 +384,10 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Rastan Infinite Credits Rastan Activator must be on
+[Cheats/Rastan Infinite Credits Rastan Activator must be on]
 patch=1,EE,200A0054,extended,A4220012
 
-//Cheats/Rainbow Island Activator Up+Select ON Down+Select OFF
+[Cheats/Rainbow Island Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,3C0A0010
 patch=1,EE,200A0004,extended,354AD0AA
 patch=1,EE,200A0008,extended,15430003
@@ -411,10 +411,10 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Rainbow Island Infinite Credits Rainbow Island Activator must be on
+[Cheats/Rainbow Island Infinite Credits Rainbow Island Activator must be on]
 patch=1,EE,200A0054,extended,A42200AA
 
-//Cheats/Space Gun Activator Up+Select ON Down+Select OFF
+[Cheats/Space Gun Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,3C0A0031
 patch=1,EE,200A0004,extended,354A733C
 patch=1,EE,200A0008,extended,15430003
@@ -438,10 +438,10 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Space Gun Infinite Credits Space Gun Activator must be on
+[Cheats/Space Gun Infinite Credits Space Gun Activator must be on]
 patch=1,EE,200A0054,extended,A422003C
 
-//Cheats/Thunder Fox Activator Up+Select ON Down+Select OFF
+[Cheats/Thunder Fox Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,3C0A0030
 patch=1,EE,200A0004,extended,354A3B6C
 patch=1,EE,200A0008,extended,15430003
@@ -465,10 +465,10 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Thunder Fox Infinite Credits Thunder Fox Activator must be on
+[Cheats/Thunder Fox Infinite Credits Thunder Fox Activator must be on]
 patch=1,EE,200A0054,extended,A422006C
 
-//Cheats/The Ninja Kids Activator Up+Select ON Down+Select OFF
+[Cheats/The Ninja Kids Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,3C0A0010
 patch=1,EE,200A0004,extended,354A29D8
 patch=1,EE,200A0008,extended,15430003
@@ -496,34 +496,34 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/The Ninja Kids Infinite Credits The Ninja Kids Activator must be on
+[Cheats/The Ninja Kids Infinite Credits The Ninja Kids Activator must be on]
 patch=1,EE,200A0054,extended,A02229D8
 
-//Cheats/The Ninja Kids Infinite Lives Player 1 The Ninja Kids Activator must be on
+[Cheats/The Ninja Kids Infinite Lives Player 1 The Ninja Kids Activator must be on]
 patch=1,EE,200A005C,extended,A0221005
 
-//Cheats/The Ninja Kids Infinite Lives Player 2 The Ninja Kids Activator must be on
+[Cheats/The Ninja Kids Infinite Lives Player 2 The Ninja Kids Activator must be on]
 patch=1,EE,200A0060,extended,A0221045
 
-//Cheats/The Ninja Kids Infinite HP Player 1 The Ninja Kids Activator must be on
+[Cheats/The Ninja Kids Infinite HP Player 1 The Ninja Kids Activator must be on]
 patch=1,EE,200A0068,extended,A0221004
 
-//Cheats/The Ninja Kids Infinite HP Player 2 The Ninja Kids Activator must be on
+[Cheats/The Ninja Kids Infinite HP Player 2 The Ninja Kids Activator must be on]
 patch=1,EE,200A006C,extended,A0221044
 
-//Cheats/The Ninja Kids Invincibility Player 1 The Ninja Kids Activator must be on
+[Cheats/The Ninja Kids Invincibility Player 1 The Ninja Kids Activator must be on]
 patch=1,EE,200A0074,extended,A022102E
 
-//Cheats/The Ninja Kids Invincibility Player 2 The Ninja Kids Activator must be on
+[Cheats/The Ninja Kids Invincibility Player 2 The Ninja Kids Activator must be on]
 patch=1,EE,200A0078,extended,A022106E
 
-//Cheats/The Ninja Kids Infinite Magic Player 1 The Ninja Kids Activator must be on
+[Cheats/The Ninja Kids Infinite Magic Player 1 The Ninja Kids Activator must be on]
 patch=1,EE,200A0080,extended,A0221036
 
-//Cheats/The Ninja Kids Infinite Magic Player 2 The Ninja Kids Activator must be on
+[Cheats/The Ninja Kids Infinite Magic Player 2 The Ninja Kids Activator must be on]
 patch=1,EE,200A0084,extended,A0221076
 
-//Cheats/The New Zealand Story Activator Up+Select ON Down+Select OFF
+[Cheats/The New Zealand Story Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,340AE6B3
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -546,31 +546,31 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/The New Zealand Story Infinite Lives The New Zealand Story Activator must be on
+[Cheats/The New Zealand Story Infinite Lives The New Zealand Story Activator must be on]
 patch=1,EE,200A0054,extended,A02206B3
 
-//Cheats/The New Zealand Story Infinite Time The New Zealand Story Activator must be on
+[Cheats/The New Zealand Story Infinite Time The New Zealand Story Activator must be on]
 patch=1,EE,200A005C,extended,A02206B7
 
-//Cheats/The New Zealand Story Invincibility The New Zealand Story Activator must be on
+[Cheats/The New Zealand Story Invincibility The New Zealand Story Activator must be on]
 patch=1,EE,200A0064,extended,A02207C1
 patch=1,EE,200A006C,extended,A02207C0
 
-//Cheats/The New Zealand Story Infinite SCUBA Air The New Zealand Story Activator must be on
+[Cheats/The New Zealand Story Infinite SCUBA Air The New Zealand Story Activator must be on]
 patch=1,EE,200A0070,extended,A02007D6
 
-//Cheats/The New Zealand Story Weapon ModThe New Zealand Story Activator must be on
+[Cheats/The New Zealand Story Weapon ModThe New Zealand Story Activator must be on]
 patch=1,EE,200A0074,extended,240200??
 patch=1,EE,200A0078,extended,A0220F28
 
-//Cheats/The New Zealand Story Level Mod Hold R1+R2 Befor u enter Level to goto level The New Zealand Story Activator must be on
+[Cheats/The New Zealand Story Level Mod Hold R1+R2 Befor u enter Level to goto level The New Zealand Story Activator must be on]
 patch=1,EE,200A007c,extended,00000000
 patch=1,EE,200A0080,extended,00000000
 patch=1,EE,E002F5FF,extended,00713F02
 patch=1,EE,200A007c,extended,240200??
 patch=1,EE,200A0080,extended,A02206B6
 
-//Cheats/Volfied Activator Up+Select ON Down+Select OFF
+[Cheats/Volfied Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,3C0A0010
 patch=1,EE,200A0004,extended,354A0026
 patch=1,EE,200A0008,extended,15430003
@@ -598,24 +598,24 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/Volfied Infinite Credits Volfied Activator must be on
+[Cheats/Volfied Infinite Credits Volfied Activator must be on]
 patch=1,EE,200A0054,extended,A0220026
 
-//Cheats/Volfied Infinite Lives Volfied Activator must be on
+[Cheats/Volfied Infinite Lives Volfied Activator must be on]
 patch=1,EE,200A005C,extended,A0220180
 
-//Cheats/Volfied Max Shield Volfied Activator must be on
+[Cheats/Volfied Max Shield Volfied Activator must be on]
 patch=1,EE,200A0064,extended,A022018A
 patch=1,EE,200A0070,extended,A022018B
 
-//Cheats/Volfied Finish Level R1+R2 Volfied Activator must be on
+[Cheats/Volfied Finish Level R1+R2 Volfied Activator must be on]
 patch=1,EE,200A0068,extended,00000000
 patch=1,EE,200A0074,extended,00000000
 patch=1,EE,E002F5FF,extended,00713F02
 patch=1,EE,200A0068,extended,A0220191
 patch=1,EE,200A0074,extended,A0220192
 
-//Cheats/The Electric Yo-Yo Activator Up+Select ON Down+Select OFF
+[Cheats/The Electric Yo-Yo Activator Up+Select ON Down+Select OFF]
 patch=1,EE,200A0000,extended,340A8740
 patch=1,EE,200A0008,extended,15440003
 patch=1,EE,200A0010,extended,3C0A200A
@@ -635,5 +635,5 @@ patch=1,EE,202EF364,extended,0802800C
 patch=1,EE,D0713F02,extended,0000FFBE
 patch=1,EE,202EF364,extended,03E00008
 
-//Cheats/The Electric Yo-Yo Infinite Lives The Electric Yo-Yo Activator must be on
+[Cheats/The Electric Yo-Yo Infinite Lives The Electric Yo-Yo Activator must be on]
 patch=1,EE,200A0054,extended,A0220040

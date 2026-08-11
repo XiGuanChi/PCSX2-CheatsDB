@@ -1,18 +1,18 @@
 gametitle=Operator's Side SCPS-15039
-//Infinite Health 
+[Infinite Health]
 patch=1,EE,2072FF98,extended,000003E8
 
-//Heel capsule 99
+[Heel capsule 99]
 patch=1,EE,2072FFD8,extended,00000063
 
-//Launcher bullet 99
+[Launcher bullet 99]
 patch=1,EE,2072FFF8,extended,00000063
 
-//16 chips
+[16 chips]
 patch=1,EE,20730038,extended,00000010
 
-//Bonus Menu High Score MAX ?THE READ JAPANESE?
+[Bonus Menu High Score MAX ?THE READ JAPANESE?]
 patch=1,EE,20730398,extended,000F423F
 
-//Eggplant Menu High Score MAX [THE READ ENGLISH]
+[Eggplant Menu High Score MAX [THE READ ENGLISH]]
 patch=1,EE,207303B8,extended,000F423F

@@ -1,9 +1,9 @@
 gametitle=Tsuyo Kiss - Mighty Heart SLPM-66408
-//When being defeated CG you peruse, CG full opening
+[When being defeated CG you peruse, CG full opening]
 patch=1,EE,2044C2C4,extended,2401FFFF
 patch=1,EE,2044C2C8,extended,AC410000
 
-//Ending collection full opening (Draw up the system data beforehand)
+[Ending collection full opening (Draw up the system data beforehand)]
 patch=1,EE,21CD8060,extended,00000001
 patch=1,EE,21CD8064,extended,00000001
 patch=1,EE,21CD8068,extended,00000001

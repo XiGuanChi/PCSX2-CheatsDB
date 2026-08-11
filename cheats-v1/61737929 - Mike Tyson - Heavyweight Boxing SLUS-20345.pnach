@@ -1,66 +1,66 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,10294C62,extended,000042C8
 patch=1,EE,10294C66,extended,000042C8
 patch=1,EE,10294C6A,extended,000042C8
 patch=1,EE,10294C6E,extended,000042C8
 
-//Cheats/Infinite Stamina Player 1
+[Cheats/Infinite Stamina Player 1]
 patch=1,EE,20294C48,extended,42C80000
 
-//Cheats/Player 2 Starts With 2 Knock Downs
+[Cheats/Player 2 Starts With 2 Knock Downs]
 patch=1,EE,D0295184,extended,00000000
 patch=1,EE,10295184,extended,00000001
 
-//Cheats/Have Character Oleg Maskaev
+[Cheats/Have Character Oleg Maskaev]
 patch=1,EE,20243A54,extended,00000001
 
-//Cheats/Have Character Micheal Grant
+[Cheats/Have Character Micheal Grant]
 patch=1,EE,20243A5C,extended,00000001
 
-//Cheats/Have Character Danell Nicholson
+[Cheats/Have Character Danell Nicholson]
 patch=1,EE,20243A64,extended,00000001
 
-//Cheats/Have Character Kirk Johnson
+[Cheats/Have Character Kirk Johnson]
 patch=1,EE,20243A6C,extended,00000001
 
-//Cheats/Have Character Chris Byrd
+[Cheats/Have Character Chris Byrd]
 patch=1,EE,20243A74,extended,00000001
 
-//Cheats/Have Character David Tua
+[Cheats/Have Character David Tua]
 patch=1,EE,20243A7C,extended,00000001
 
-//Cheats/Have Character Tim Witherspoon
+[Cheats/Have Character Tim Witherspoon]
 patch=1,EE,20243A84,extended,00000001
 
-//Cheats/Have Character Danny Williams
+[Cheats/Have Character Danny Williams]
 patch=1,EE,20243A8C,extended,00000001
 
-//Cheats/Have Character Larry Holmes
+[Cheats/Have Character Larry Holmes]
 patch=1,EE,20243A94,extended,00000001
 
-//Cheats/Have Character Masim Rahman
+[Cheats/Have Character Masim Rahman]
 patch=1,EE,20243A9C,extended,00000001
 
-//Cheats/Have Character Mike Tyson
+[Cheats/Have Character Mike Tyson]
 patch=1,EE,20243AA4,extended,00000001
 
-//Cheats/Have Character Iron Mike
+[Cheats/Have Character Iron Mike]
 patch=1,EE,20243AAC,extended,00000001
 
-//Cheats/Unlock Mode Silver Title Belt
+[Cheats/Unlock Mode Silver Title Belt]
 patch=1,EE,20243AB4,extended,00000001
 
-//Cheats/Unlock Mode Gold Title Belt
+[Cheats/Unlock Mode Gold Title Belt]
 patch=1,EE,20243ABC,extended,00000001
 
 [Cheats/Unlock Mode ] Speed Boxing
 patch=1,EE,20243AC4,extended,00000001
 
-//Cheats/Unlock Mode Tyson's Challenge
+[Cheats/Unlock Mode Tyson's Challenge]
 patch=1,EE,20243ACC,extended,00000001
 
-//Cheats/Custom Boxer 1 Max Earnings
+[Cheats/Custom Boxer 1 Max Earnings]
 patch=1,EE,202A4654,extended,05F5E0FF
 
-//Cheats/Custom Boxer 1 Max Bank
+[Cheats/Custom Boxer 1 Max Bank]
 patch=1,EE,202A4658,extended,05F5E0FF

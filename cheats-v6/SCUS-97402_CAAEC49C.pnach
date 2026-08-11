@@ -1,18 +1,18 @@
 gametitle=Killzone NTSC-U SCUS-97402 CAAEC49C
 
-//Widescreen 16:9
+[Widescreen 16:9]
 gsaspectratio=16:9
 author=GamingDragon93
 description=Enable native widescreen.
 patch=1,EE,005DA364,word,00000001
 
-//60 FPS
+[60 FPS]
 author=GamingDragon93
 description=Might need EE overclock (130%).
 patch=0,EE,001BFF3C,word,00021002
 patch=0,EE,001BFEAC,word,3C013F00
 
-//Disable Noise Filter
+[Disable Noise Filter]
 author=GamingDragon93
 description=Disable noise filter in gameplay.
 patch=1,EE,0055DF6C,extended,000000FF

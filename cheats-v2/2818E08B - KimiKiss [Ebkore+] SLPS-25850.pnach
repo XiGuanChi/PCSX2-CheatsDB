@@ -1,5 +1,5 @@
 gametitle=KimiKiss [Ebkore+] SLPS-25850
-//Mandatory
+[Mandatory]
 patch=1,EE,200FF400,extended,ADA90004
 patch=1,EE,200FF404,extended,00091021
 patch=1,EE,200FF4A0,extended,08046F0B
@@ -11,7 +11,7 @@ patch=1,EE,200FF50C,extended,1420003C
 patch=1,EE,200FF600,extended,08058599
 patch=1,EE,2014F740,extended,0C03FD40
 
-//Album fully open
+[Album fully open]
 patch=1,EE,200FF408,extended,340103FD
 patch=1,EE,200FF40C,extended,14410003
 patch=1,EE,200FF414,extended,3C010010
@@ -26,7 +26,7 @@ patch=1,EE,200FF530,extended,24630004
 patch=1,EE,200FF534,extended,2442FFFF
 patch=1,EE,200FF540,extended,1440FFFA
 
-//Topic ALL16
+[Topic ALL16]
 patch=1,EE,200FF41C,extended,340100BD
 patch=1,EE,200FF420,extended,14410003
 patch=1,EE,200FF428,extended,3C010010

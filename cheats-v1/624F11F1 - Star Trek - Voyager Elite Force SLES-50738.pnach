@@ -1,4 +1,4 @@
-//Cheats/Must be on for Codes below
+[Cheats/Must be on for Codes below]
 patch=1,EE,200FFF00,extended,3C020032
 patch=1,EE,200FFF04,extended,8C4240AC
 patch=1,EE,200FFF0C,extended,10020007
@@ -11,8 +11,8 @@ patch=1,EE,20290214,extended,0803FFC0
 patch=1,EE,100FFF22,extended,00002403
 patch=1,EE,100FFF0A,extended,00002403
 
-//Cheats/Infinite Health Use only one Code
+[Cheats/Infinite Health Use only one Code]
 patch=1,EE,100FFF08,extended,00000010
 
-//Cheats/Undead Mode Use only one Code
+[Cheats/Undead Mode Use only one Code]
 patch=1,EE,100FFF08,extended,00004000

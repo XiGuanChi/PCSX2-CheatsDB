@@ -1,100 +1,100 @@
 gametitle=Shin Megami Tensei - Persona 3 FES SLUS-21621
-//Infinite Money
+[Infinite Money]
 patch=1,EE,2083A6DC,extended,00989680
 
-//Main Character Infinite HP & SP
+[Main Character Infinite HP & SP]
 patch=1,EE,2016C494,extended,240203E7
 patch=1,EE,2016C498,extended,A4820008
 patch=1,EE,2016C4A0,extended,A482000A
 
-//Support character Infinite HP
+[Support character Infinite HP]
 patch=1,EE,2016C4CC,extended,240203E7
 patch=1,EE,2016C4D0,extended,A4820008
 
-//Support character Infinite SP
+[Support character Infinite SP]
 patch=1,EE,2016C54C,extended,240203E7
 patch=1,EE,2016C550,extended,A482000A
 
-//During Battle skills use no HP/SP
+[During Battle skills use no HP/SP]
 patch=1,EE,202d817c,extended,1000005A
 
-//After Battle full HP/SP restore
+[After Battle full HP/SP restore]
 patch=1,EE,2029d8b8,extended,70000C88
 
-//Hero Max Inf Current HP/SP
+[Hero Max Inf Current HP/SP]
 patch=1,EE,2083622C,extended,03E703E7
 
-//Academics Stats Max
+[Academics Stats Max]
 patch=1,EE,10836260,extended,000003E7
 
-//Charm Stats Max
+[Charm Stats Max]
 patch=1,EE,10836262,extended,000003E7
 
-//Courage Stats Max
+[Courage Stats Max]
 patch=1,EE,10836264,extended,000003E7
 
-//Hero Persona Max Stats
+[Hero Persona Max Stats]
 patch=1,EE,40836BC8,extended,000C000D
 patch=1,EE,63636363,extended,00000000
 patch=1,EE,40836BCC,extended,000C000D
 patch=1,EE,00000063,extended,00000000
 
-//Yukari MaxInf Current HP/SP
+[Yukari MaxInf Current HP/SP]
 patch=1,EE,2083401C,extended,03E703E7
 
-//Yukari Persona Max Stats
+[Yukari Persona Max Stats]
 patch=1,EE,20834108,extended,63636363
 patch=1,EE,0083410C,extended,00000063
 
-//Aigis Persona Max Stats
+[Aigis Persona Max Stats]
 patch=1,EE,2083446C,extended,63636363
 patch=1,EE,00834470,extended,00000063
 
-//Mitsuru MaxInf Current HP/SP
+[Mitsuru MaxInf Current HP/SP]
 patch=1,EE,208346E4,extended,03E703E7
 
-//Mitsuru Persona Max Stats
+[Mitsuru Persona Max Stats]
 patch=1,EE,208347D0,extended,63636363
 patch=1,EE,008347D4,extended,00000063
 
-//Junpei MaxInf Current HP/SP
+[Junpei MaxInf Current HP/SP]
 patch=1,EE,20834A48,extended,03E703E7
 
-//Junpei Persona Max Stats
+[Junpei Persona Max Stats]
 patch=1,EE,20834B34,extended,63636363
 patch=1,EE,00834B38,extended,00000063
 
-//Fuuka MaxInf Current HP/SP
+[Fuuka MaxInf Current HP/SP]
 patch=1,EE,20834DAC,extended,03E703E7
 
-//Fuuka Persona Max Stats
+[Fuuka Persona Max Stats]
 patch=1,EE,20834E98,extended,63636363
 patch=1,EE,00834E9C,extended,00000063
 
-//Akihiko MaxInf Current HP/SP
+[Akihiko MaxInf Current HP/SP]
 patch=1,EE,20835110,extended,03E703E7
 
-//Akihiko Persona Max Stats
+[Akihiko Persona Max Stats]
 patch=1,EE,208351FC,extended,63636363
 patch=1,EE,00835200,extended,00000063
 
-//Ken MaxInf Current HP/SP
+[Ken MaxInf Current HP/SP]
 patch=1,EE,20835474,extended,03E703E7
 
-//Ken Persona Max Stats
+[Ken Persona Max Stats]
 patch=1,EE,20835560,extended,63636363
 patch=1,EE,00835564,extended,00000063
 
-//Shinjiro MaxInf Current HP/SP (Metis Code In Answer Mode)
+[Shinjiro MaxInf Current HP/SP (Metis Code In Answer Mode)]
 patch=1,EE,208357D8,extended,03E703E7
 
-//Shinjiro Persona Max Stats (Metis Code In Answer Mode)
+[Shinjiro Persona Max Stats (Metis Code In Answer Mode)]
 patch=1,EE,208358C4,extended,63636363
 patch=1,EE,008358C8,extended,00000063
 
-//Koromaru MaxInf Current HP/SP
+[Koromaru MaxInf Current HP/SP]
 patch=1,EE,20835B3C,extended,03E703E7
 
-//Koromaru Persona Max Stats
+[Koromaru Persona Max Stats]
 patch=1,EE,20835C28,extended,63636363
 patch=1,EE,00835C2C,extended,00000063

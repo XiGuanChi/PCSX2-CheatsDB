@@ -1,28 +1,28 @@
 gametitle=Mortal Kombat - Shaolin Monks SLES-53525
-//9.999.999 EP
+[9.999.999 EP]
 patch=1,EE,20c2e8a4,extended,0098967f
 
-//habe unendlich Special Energie
+[habe unendlich Special Energie]
 patch=1,EE,205cd4b0,extended,42c80000
 
-//habe alle Fotos
+[habe alle Fotos]
 patch=1,EE,205d8900,extended,ffffffff
 patch=1,EE,205d8904,extended,ffffffff
 patch=1,EE,005d892b,extended,000000f0
 patch=1,EE,105d892c,extended,0000ffff
 
 
-//alle Charaktere im VS Mode
+[alle Charaktere im VS Mode]
 patch=1,EE,205d890a,extended,ffffffff
 
 
-//habe alle Arenen
+[habe alle Arenen]
 patch=1,EE,205d890c,extended,ffffffff
 patch=1,EE,205d8910,extended,ffffffff
 patch=1,EE,005d8914,extended,0000001f
 
 
-//alle Konzeptdesighn's
+[alle Konzeptdesighn's]
 patch=1,EE,205d8914,extended,ffffffff
 patch=1,EE,205d8918,extended,ffffffff
 patch=1,EE,205d891c,extended,ffffffff
@@ -31,11 +31,11 @@ patch=1,EE,205d8924,extended,ffffffff
 patch=1,EE,205d8928,extended,003fffff
 
 
-//alle Videos
+[alle Videos]
 patch=1,EE,005d892b,extended,0000003f
 
 
-//schalte alles frei
+[schalte alles frei]
 patch=1,EE,205d8900,extended,ffffffff
 patch=1,EE,205d8904,extended,ffffffff
 patch=1,EE,205d8908,extended,ffffffff
@@ -50,9 +50,9 @@ patch=1,EE,205d8928,extended,ffffffff
 patch=1,EE,105d892c,extended,0000ffff
 
 
-//Schalte Sub Zero frei
+[Schalte Sub Zero frei]
 patch=1,EE,005D8934,extended,00000001
 
 
-//Schalte Scorpion frei
+[Schalte Scorpion frei]
 patch=1,EE,005D8938,extended,00000001

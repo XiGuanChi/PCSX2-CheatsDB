@@ -1,21 +1,21 @@
 gametitle=Batman Vengeance SLUS-20226
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2089E35A,extended,000000C8
 
-//Infinite Batarangs
+[Infinite Batarangs]
 patch=1,EE,1089E3A6,extended,0000000F
 
-//Infinite Electric Batarangs
+[Infinite Electric Batarangs]
 patch=1,EE,1089E3A8,extended,0000000F
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,208470C0,extended,00000017
 
-//Have All Items
+[Have All Items]
 patch=1,EE,2084713C,extended,FFFFFFFF
 
-//Unlock All Movies
+[Unlock All Movies]
 patch=1,EE,10847144,extended,0000FFFF
 
-//Have All Cheats
+[Have All Cheats]
 patch=1,EE,10847146,extended,0000FFFF

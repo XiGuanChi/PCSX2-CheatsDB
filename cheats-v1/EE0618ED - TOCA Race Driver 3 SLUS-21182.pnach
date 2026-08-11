@@ -1,22 +1,22 @@
-//Cheats/Max Points 999
+[Cheats/Max Points 999]
 patch=1,EE,207C1614,extended,000003E7
 
-//Cheats/Unlock All Cutscenes
+[Cheats/Unlock All Cutscenes]
 patch=1,EE,20124B54,extended,34420001
 patch=1,EE,20124B5C,extended,A0620075
 
-//Cheats/Unlock All Cars And Championships
+[Cheats/Unlock All Cars And Championships]
 patch=1,EE,201B7A94,extended,34420060
 patch=1,EE,201B7A98,extended,A082008B
 patch=1,EE,201B7A9C,extended,24020001
 
-//Cheats/Have All Level Championship Cups
+[Cheats/Have All Level Championship Cups]
 patch=1,EE,201B7BE8,extended,3442001C
 patch=1,EE,201B7BEC,extended,A082008B
 patch=1,EE,201B7BF4,extended,24020001
 
-//Cheats/Have All Total Cups
+[Cheats/Have All Total Cups]
 patch=1,EE,20570AA4,extended,000000B1
 
-//Cheats/Unlock All Bonus Content
+[Cheats/Unlock All Bonus Content]
 patch=1,EE,2055BCBC,extended,FFFFFFFF

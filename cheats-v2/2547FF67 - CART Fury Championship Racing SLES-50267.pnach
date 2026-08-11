@@ -1,8 +1,8 @@
 gametitle=CART Fury Championship Racing SLES-50267
-//Unlock All Cars
+[Unlock All Cars]
 patch=1,EE,005AC209,extended,000000FF
 patch=1,EE,005AC20A,extended,000000FF
 
-//Open All Tracks
+[Open All Tracks]
 patch=1,EE,005AC20D,extended,000000FF
 patch=1,EE,005AC20E,extended,000000FF

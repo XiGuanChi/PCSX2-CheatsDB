@@ -1,9 +1,9 @@
 gametitle=Ratchet & Clank SCPS-15037
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201416F8,extended,00000004
 
-//Infinite Air
+[Infinite Air]
 patch=1,EE,201416F0,extended,00002710
 
-//Infinite Bolts
+[Infinite Bolts]
 patch=1,EE,2015EE98,extended,000F423F

@@ -1,23 +1,23 @@
 gametitle=Sega Ages 2500 Series Vol. 31 - Dennou Senki Virtual On SLPM-62767
-//PLAYER energy gauge does not decrease
+[PLAYER energy gauge does not decrease]
 patch=1,EE,205133A0,extended,03E803E8
 patch=1,EE,105133A8,extended,000003E8
 
-//PLAYER armed gauge does not decrease
+[PLAYER armed gauge does not decrease]
 patch=1,EE,105133BA,extended,00000000
 patch=1,EE,105133BE,extended,00000000
 patch=1,EE,105133BC,extended,00000000
 
-//ENEMY energy gauge 1 1P side [L1 + L2 + R1 + R1] Press the button to get the effect.
+[ENEMY energy gauge 1 1P side [L1 + L2 + R1 + R1] Press the button to get the effect.]
 patch=1,EE,D07AEBCE,extended,0000FFE1
 patch=1,EE,205139B0,extended,00010001
 patch=1,EE,D07AEBCE,extended,0000FFE1
 patch=1,EE,105139B8,extended,00000001
 
-//ENEMY armed gauge does not recover
+[ENEMY armed gauge does not recover]
 patch=1,EE,105139CA,extended,000003E7
 patch=1,EE,105139CE,extended,000003E7
 patch=1,EE,105139CC,extended,000003E7
 
-//Hidden OPTIONS GAME SETIONG (SECRET) will appear in the OPTIONS 
+[Hidden OPTIONS GAME SETIONG (SECRET) will appear in the OPTIONS]
 patch=1,EE,0083C15C,extended,00000001

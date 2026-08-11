@@ -1,17 +1,17 @@
 gametitle=Radiata Stories SLUS-21262
-//Infinite Dagols (Cash)
+[Infinite Dagols (Cash)]
 patch=1,EE,2063DDA8,extended,05F5E0FF
 
-//Infinite Volty Power
+[Infinite Volty Power]
 patch=1,EE,1063E160,extended,00006363
 
-//Jack Infinite HP
+[Jack Infinite HP]
 patch=1,EE,2063DD4C,extended,0000270F
 
-//Max HP
+[Max HP]
 patch=1,EE,2063DD50,extended,0000270F
 
-//Enabler (Must Be On For In Battle Codes)
+[Enabler (Must Be On For In Battle Codes)]
 patch=1,EE,200C2010,extended,03E00008
 patch=1,EE,200C2014,extended,8C220000
 patch=1,EE,E0030008,extended,003AD9E8
@@ -19,10 +19,10 @@ patch=1,EE,203AD9E4,extended,8C410060
 patch=1,EE,203AD9E8,extended,08030800
 patch=1,EE,203AD9EC,extended,8C220004
 
-//Infinite Health in Battle (All Party)
+[Infinite Health in Battle (All Party)]
 patch=1,EE,200C2000,extended,AC220000
 
-//1-Hit Death (Enemies)
+[1-Hit Death (Enemies)]
 patch=1,EE,E009007C,extended,003A25CC
 patch=1,EE,200C02A0,extended,8C82008C
 patch=1,EE,200C02A4,extended,8C410060

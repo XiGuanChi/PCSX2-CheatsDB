@@ -1,24 +1,24 @@
 gametitle=Spectral Gene SLPM-66899
-//Money Max
+[Money Max]
 patch=1,EE,201FEADC,extended,00000000
 
-//Move 30 1st person
+[Move 30 1st person]
 patch=1,EE,01B800B4,extended,0000001E
 
-//Move 30 Second person
+[Move 30 Second person]
 patch=1,EE,01B80584,extended,0000001E
 
-//Root Book 99
+[Root Book 99]
 patch=1,EE,41B8F50E,extended,00640002
 patch=1,EE,00630000,extended,00000000
 
-//Exp Max(All 26 Characters)- Shorter Version
+[Exp Max(All 26 Characters)- Shorter Version]
 patch=1,EE,41B800C8,extended,001A0134
 patch=1,EE,000186A0,extended,00000000
 
-//All Accessory x98
+[All Accessory x98]
 patch=1,EE,41B8E6C2,extended,00410005
 patch=1,EE,00620105,extended,00000000
 
-//Inf. AP 99
+[Inf. AP 99]
 patch=1,EE,01B9EC40,extended,00000063

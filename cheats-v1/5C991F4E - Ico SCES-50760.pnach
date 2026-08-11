@@ -1,15 +1,15 @@
-//Cheats/1 hit kill
+[Cheats/1 hit kill]
 patch=1,EE,2015995C,extended,00000000
 
-//Cheats/Save anywhere Press R1+L1+R2+L2
+[Cheats/Save anywhere Press R1+L1+R2+L2]
 patch=1,EE,D028F8F0,extended,0000000F
 patch=1,EE,1063B60C,extended,0000001C
 
-//Cheats/Never get killed from falls Press select to activate, L2+R2 to deactivate Select on, R2+L2 off
+[Cheats/Never get killed from falls Press select to activate, L2+R2 to deactivate Select on, R2+L2 off]
 patch=1,EE,D028F8F0,extended,00000100
 patch=1,EE,101F035E,extended,00002800
 patch=1,EE,D028F8F0,extended,00000003
 patch=1,EE,101F035E,extended,00000C07
 
-//Cheats/Unlock film Effect and 2P mode
+[Cheats/Unlock film Effect and 2P mode]
 patch=1,EE,2063AA00,extended,00000001

@@ -1,8 +1,8 @@
 gametitle=Herdy Gerdy SLES-50751
-//99 Bells
+[99 Bells]
 patch=1,EE,1034FE20,extended,00000063
 
-//Freeze Herd Timer
+[Freeze Herd Timer]
 patch=1,EE,20340F30,extended,4378025F
 patch=1,EE,20340F38,extended,4392C84A
 patch=1,EE,20340F40,extended,4378025F
@@ -10,7 +10,7 @@ patch=1,EE,20340F48,extended,4392C84A
 patch=1,EE,2034FCBC,extended,451139EA
 patch=1,EE,2034FCC0,extended,4035F311
 
-//All paths open
+[All paths open]
 patch=1,EE,203515A4,extended,00000001
 patch=1,EE,203515A8,extended,00000001
 patch=1,EE,203515AC,extended,00000001
@@ -33,7 +33,7 @@ patch=1,EE,203515F0,extended,00000001
 patch=1,EE,203515F0,extended,00000001
 patch=1,EE,203515F4,extended,00000001
 
-//All extras open
+[All extras open]
 patch=1,EE,203A8420,extended,00000001
 patch=1,EE,203A8424,extended,00000001
 patch=1,EE,203A8428,extended,00000001
@@ -55,6 +55,6 @@ patch=1,EE,203A8464,extended,00000001
 patch=1,EE,203A8468,extended,00000001
 patch=1,EE,203A846C,extended,00000001
 
-//Have all herding tools
+[Have all herding tools]
 patch=1,EE,2035157C,extended,00020304
 patch=1,EE,20351584,extended,00000004

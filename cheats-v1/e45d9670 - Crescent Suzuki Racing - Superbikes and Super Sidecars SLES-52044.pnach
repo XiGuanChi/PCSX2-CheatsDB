@@ -1,18 +1,18 @@
-//Cheats/99 Goals Player 1
+[Cheats/99 Goals Player 1]
 patch=1,EE,0078706c,extended,00000063Infinite Time
 patch=1,EE,2014B084,extended,00000000
 
-//Cheats/Infinite Time Trial Time
+[Cheats/Infinite Time Trial Time]
 patch=1,EE,2014B064,extended,00000000
 
-//Cheats/Unlock All Superbikes
+[Cheats/Unlock All Superbikes]
 patch=1,EE,204BB474,extended,FFFFFFFF
 
-//Cheats/Unlock All Supersides
+[Cheats/Unlock All Supersides]
 patch=1,EE,204BB750,extended,FFFFFFFF
 
-//Cheats/Unlock All Superbike GT's
+[Cheats/Unlock All Superbike GT's]
 patch=1,EE,204BBA2C,extended,FFFFFFFF
 
-//Cheats/Unlock All Superside GT's
+[Cheats/Unlock All Superside GT's]
 patch=1,EE,204BBD08,extended,FFFFFFFF

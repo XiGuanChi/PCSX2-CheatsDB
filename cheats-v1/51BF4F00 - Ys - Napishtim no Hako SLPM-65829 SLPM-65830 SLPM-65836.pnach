@@ -1,92 +1,92 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,202B36C8,extended,000F423F
 
-//CheatsMax Emerald
+[CheatsMax Emerald]
 patch=1,EE,202B38AC,extended,000F423F
 
-//Cheats/Max Money after getting some
+[Cheats/Max Money after getting some]
 patch=1,EE,2016759C,extended,00000000
 
-//Cheats/Max Emerald after getting some
+[Cheats/Max Emerald after getting some]
 patch=1,EE,20169664,extended,00000000
 
-//Cheats/Max HP 999
+[Cheats/Max HP 999]
 patch=1,EE,202B36E4,extended,4479C000
 
-//Cheats/STR 500
+[Cheats/STR 500]
 patch=1,EE,202B36E8,extended,43FA0000
 
-//Cheats/DEF 500
+[Cheats/DEF 500]
 patch=1,EE,202B36EC,extended,43FA0000
 
-//Cheats/Max Level with Exp acquisition
+[Cheats/Max Level with Exp acquisition]
 patch=1,EE,201674BC,extended,3C024CBE
 patch=1,EE,201674C0,extended,44820000
 
-//Cheats/Max Recovery HP Because it is a recovery, you will die if you receive more damage than HP
+[Cheats/Max Recovery HP Because it is a recovery, you will die if you receive more damage than HP]
 patch=1,EE,20161A30,extended,1000001C
 patch=1,EE,201696C8,extended,00000000
 
-//Cheats/Max Recovery Magical Power of the Emeras sword Recovers on the battle field after using magic by strengthening weapons.
+[Cheats/Max Recovery Magical Power of the Emeras sword Recovers on the battle field after using magic by strengthening weapons.]
 patch=1,EE,201607F0,extended,3C01453C
 patch=1,EE,201607F8,extended,AE610000
 patch=1,EE,20161FA4,extended,1000000B
 
-//Cheats/Do Not Hit Enemy Attacks You will receive status ailment damage such as poison
+[Cheats/Do Not Hit Enemy Attacks You will receive status ailment damage such as poison]
 patch=1,EE,20165AD0,extended,03E00008
 patch=1,EE,20163C5C,extended,10000014
 patch=1,EE,2017E064,extended,1000008A
 
-//Cheats/Multi-stage jump possible
+[Cheats/Multi-stage jump possible]
 patch=1,EE,20162168,extended,00000000
 
-//Cheats/Unlock Added Difficulty level Nightmare & Time Attack
+[Cheats/Unlock Added Difficulty level Nightmare & Time Attack]
 patch=1,EE,202BA310,extended,00000001
 
-//Cheats/9 Chito Fruits
+[Cheats/9 Chito Fruits]
 patch=1,EE,202B3740,extended,00000009
 
-//Cheats/9 honey
+[Cheats/9 honey]
 patch=1,EE,202B3744,extended,00000009
 
-//Cheats/9 Herbs
+[Cheats/9 Herbs]
 patch=1,EE,202B3748,extended,00000009
 
-//Cheats/9 Meat with bone
+[Cheats/9 Meat with bone]
 patch=1,EE,202B374C,extended,00000009
 
-//Cheats/9 Ao's elixir
+[Cheats/9 Ao's elixir]
 patch=1,EE,202B3750,extended,00000009
 
-//Cheats/9 Turnip bright water
+[Cheats/9 Turnip bright water]
 patch=1,EE,202B3754,extended,00000009
 
-//Cheats/9 Seed of life
+[Cheats/9 Seed of life]
 patch=1,EE,202B3758,extended,00000009
 
-//Cheats/9 Seeds of power
+[Cheats/9 Seeds of power]
 patch=1,EE,202B375C,extended,00000009
 
-//Cheats/9 Seed of protection
+[Cheats/9 Seed of protection]
 patch=1,EE,202B3760,extended,00000009
 
-//Cheats/9 Camio flowers
+[Cheats/9 Camio flowers]
 patch=1,EE,202B3764,extended,00000009
 
-//Cheats/9 Oloy fruit
+[Cheats/9 Oloy fruit]
 patch=1,EE,202B3768,extended,00000009
 
-//Cheats/9 Lemuria mushrooms
+[Cheats/9 Lemuria mushrooms]
 patch=1,EE,202B376C,extended,00000009
 
-//Cheats/Unlock All Shields
+[Cheats/Unlock All Shields]
 patch=1,EE,402B3710,extended,00060001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Armors
+[Cheats/Unlock All Armors]
 patch=1,EE,402B3728,extended,00060001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Accessories
+[Cheats/Unlock All Accessories]
 patch=1,EE,402B3770,extended,00140001
 patch=1,EE,00000001,extended,00000000

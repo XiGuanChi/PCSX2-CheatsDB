@@ -1,20 +1,20 @@
 gametitle=Jak II SCUS-97265
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2019C5C0,extended,41000000
 
-//Max Metal Head Skull Gems (Current)
+[Max Metal Head Skull Gems (Current)]
 patch=1,EE,20622F14,extended,4479C000
 
-//Max Precursor Orbs (Current)
+[Max Precursor Orbs (Current)]
 patch=1,EE,20622F1C,extended,43480000
 
-//infinite Ammo (Scatter Gun)
+[infinite Ammo (Scatter Gun)]
 patch=1,EE,20622F58,extended,42480000
 
-//Max Precursor Orbs (Overall)
+[Max Precursor Orbs (Overall)]
 patch=1,EE,20622F20,extended,43480000
 
-//Unlock All Secrets
+[Unlock All Secrets]
 patch=1,EE,20622F48,extended,FFFFFFFF
 patch=1,EE,2080A704,extended,FFFFFFFF
 patch=1,EE,2080C894,extended,FFFFFFFF

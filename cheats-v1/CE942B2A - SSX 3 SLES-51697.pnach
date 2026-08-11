@@ -1,4 +1,4 @@
-//Cheats/Infinite Cash
+[Cheats/Infinite Cash]
 patch=1,EE,20150A24,extended,3C0105F0
 patch=1,EE,20150A28,extended,0803FFC0
 patch=1,EE,200FFF00,extended,AC410AC4
@@ -6,48 +6,48 @@ patch=1,EE,200FFF04,extended,AC410AC8
 patch=1,EE,200FFF0C,extended,3C0205F0
 patch=1,EE,200FFF10,extended,03E00008
 
-//Cheats/Infinite Boost Use
+[Cheats/Infinite Boost Use]
 patch=1,EE,20120360,extended,00000000
 patch=1,EE,20114224,extended,00000000
 patch=1,EE,2010E168,extended,00000000
 
-//Cheats/Max Score After 1 Jump
+[Cheats/Max Score After 1 Jump]
 patch=1,EE,2011A45C,extended,3C0405F0
 
-//Cheats/Freestyle Press L3 For Extra Time
+[Cheats/Freestyle Press L3 For Extra Time]
 patch=1,EE,D05BFB02,extended,0000FFFD
 patch=1,EE,20413630,extended,24040011
 
-//Cheats/Freestyle Press R3 For Normal Time
+[Cheats/Freestyle Press R3 For Normal Time]
 patch=1,EE,D05BFB02,extended,0000FFFB
 patch=1,EE,20413630,extended,8FA40008
 
-//Cheats/Zoe Max Acceleration
+[Cheats/Zoe Max Acceleration]
 patch=1,EE,004AB0A8,extended,00000037
 
-//Cheats/Zoe Max Tricks
+[Cheats/Zoe Max Tricks]
 patch=1,EE,004AB0A9,extended,00000037
 
-//Cheats/Zoe Max Edging
+[Cheats/Zoe Max Edging]
 patch=1,EE,004AB0AA,extended,00000037
 
-//Cheats/Zoe Max Spin
+[Cheats/Zoe Max Spin]
 patch=1,EE,004AB0AB,extended,00000037
 
-//Cheats/Zoe Max Toughness
+[Cheats/Zoe Max Toughness]
 patch=1,EE,004AB0AC,extended,0000003C
 
-//Cheats/Zoe Max Stability
+[Cheats/Zoe Max Stability]
 patch=1,EE,004AB0AD,extended,0000003C
 
-//Cheats/Zoe Max Speed
+[Cheats/Zoe Max Speed]
 patch=1,EE,004AB0A7,extended,0000003C
 
-//Cheats/Zoe Max Cash
+[Cheats/Zoe Max Cash]
 patch=1,EE,204AAF8C,extended,05F5E0FF
 patch=1,EE,204AAF90,extended,05F5E0FF
 
-//Cheats/Unlock All Rewards
+[Cheats/Unlock All Rewards]
 patch=1,EE,204AB3F8,extended,FFFFFFFF
 patch=1,EE,204AB3FC,extended,FFFF07FF
 patch=1,EE,204AB400,extended,FFFFFFFF
@@ -60,8 +60,8 @@ patch=1,EE,204AB418,extended,FF030FFF
 patch=1,EE,204AB41C,extended,FF0FFFFF
 patch=1,EE,204AB420,extended,00000FFF
 
-//Cheats/Re-enable Quick Start Menu After the Start Screen v1
+[Cheats/Re-enable Quick Start Menu After the Start Screen v1]
 patch=1,EE,001949EE,extended,00000037
 
-//Cheats/Re-enable Quick Start Menu After the Start Screen v2
+[Cheats/Re-enable Quick Start Menu After the Start Screen v2]
 patch=1,EE,00194A16,extended,00000037

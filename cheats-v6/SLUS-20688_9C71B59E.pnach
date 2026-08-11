@@ -1,11 +1,11 @@
 gametitle=Psi-Ops - The Mindgate Conspiracy NTSC-U SLUS-20688 9C71B59E
 
-//60 FPS
+[60 FPS]
 author=GamingDragon93
 description=Might need EE Overclock (180%).
 patch=1,EE,0017AAEC,word,3c03f20 //3c043FA0
 
-//No-interlacing
+[No-interlacing]
 gsinterlacemode=1
 author=GamingDragon93
 description=Force progressive mode.

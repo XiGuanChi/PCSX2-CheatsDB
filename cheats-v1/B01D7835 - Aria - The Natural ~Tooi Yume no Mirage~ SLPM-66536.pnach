@@ -1,11 +1,11 @@
-//Cheats/Unlock All Bonus
+[Cheats/Unlock All Bonus]
 patch=1,EE,20A815C0,extended,FFFFFFFF
 patch=1,EE,20A815C4,extended,FFFFFFFF
 
-//Cheats/Max play time
+[Cheats/Max play time]
 patch=1,EE,21EF91AC,extended,0CDFE5FF
 
-//Cheats/Boot To Debug Menu At anytime, to go back to it, press and hold Select button while entering any mode, such as the Options menu
+[Cheats/Boot To Debug Menu At anytime, to go back to it, press and hold Select button while entering any mode, such as the Options menu]
 patch=1,EE,0014CEE0,extended,00000000
 patch=1,EE,D047E782,extended,0000FFFE
 patch=1,EE,202741DC,extended,00000000

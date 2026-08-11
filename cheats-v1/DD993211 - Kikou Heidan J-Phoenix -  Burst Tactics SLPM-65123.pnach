@@ -1,30 +1,30 @@
-//Cheats/Infinite Gold
+[Cheats/Infinite Gold]
 patch=1,EE,202BD390,extended,000F41DC
 
-//Cheats/Max Pilot Level when entering experience value
+[Cheats/Max Pilot Level when entering experience value]
 patch=1,EE,2027892C,extended,00000000
 patch=1,EE,20278958,extended,00000000
 
-//Cheats/EN Doesn't Work
+[Cheats/EN Doesn't Work]
 patch=1,EE,201CC008,extended,00000000
 
-//Cheats/Only Own Machine Recovers EN
+[Cheats/Only Own Machine Recovers EN]
 patch=1,EE,20200FE0,extended,34027000
 patch=1,EE,20200FEC,extended,A4C20004
 patch=1,EE,10200FF2,extended,00001000
 
-//Cheats/HP Recovery Soon
+[Cheats/HP Recovery Soon]
 patch=1,EE,201FF614,extended,A6E40002
 patch=1,EE,201FF618,extended,00000000
 
-//Cheats/HP Recovery Rate Change 100%
+[Cheats/HP Recovery Rate Change 100%]
 patch=1,EE,201FF614,extended,00041002
 patch=1,EE,201FF618,extended,00000000
 patch=1,EE,101FF62A,extended,0000A6E2
 
-//Cheats/Instant surface clear Plane clear When communication from the operator is on If communication is omitted with the START button, it will be cleared may cause problems in some stages
+[Cheats/Instant surface clear Plane clear When communication from the operator is on If communication is omitted with the START button, it will be cleared may cause problems in some stages]
 patch=1,EE,1020A722,extended,00001400
 patch=1,EE,1020A7EA,extended,00001000
 
-//Cheats/New Hyakki Slash 999 aircraft destroyed
+[Cheats/New Hyakki Slash 999 aircraft destroyed]
 patch=1,EE,10327872,extended,000003E7

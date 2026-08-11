@@ -1,18 +1,18 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20311394,extended,00000000
 
-//Cheats/Infinite Health alt
+[Cheats/Infinite Health alt]
 patch=1,EE,20234E00,extended,240207D0
 patch=1,EE,20234E04,extended,AC820008
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,202505B4,extended,00000000
 
-//Cheats/Invisible
+[Cheats/Invisible]
 patch=1,EE,202D7C58,extended,24030000
 patch=1,EE,20130E40,extended,00114968
 patch=1,EE,20130F64,extended,00114968
 patch=1,EE,2042587C,extended,24020001
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,007AE92A,extended,00000001

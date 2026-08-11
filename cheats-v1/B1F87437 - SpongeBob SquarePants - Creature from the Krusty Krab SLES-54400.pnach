@@ -1,28 +1,28 @@
-//Cheats/Max Z
+[Cheats/Max Z]
 patch=1,EE,21C34688,extended,240403E7
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20214974,extended,00000000
 
-//Cheats/Untouchable
+[Cheats/Untouchable]
 patch=1,EE,20217DFC,extended,3C014000
 patch=1,EE,20217E04,extended,AE010F8C
 patch=1,EE,20218034,extended,00000000
 
-//Cheats/Infinite Double Jumps
+[Cheats/Infinite Double Jumps]
 patch=1,EE,20224500,extended,00000000
 
-//Cheats/Opponents Don't Move In Races
+[Cheats/Opponents Don't Move In Races]
 patch=1,EE,2027AE14,extended,10000025
 patch=1,EE,2027ACF8,extended,00000000
 
-//Cheats/Timer Stop In Races
+[Cheats/Timer Stop In Races]
 patch=1,EE,203595AC,extended,00000000
 
-//Cheats/Uncap Speedlimit In Races
+[Cheats/Uncap Speedlimit In Races]
 patch=1,EE,2022EA4C,extended,1000000E
 
-//Cheats/Take Z Anywhere
+[Cheats/Take Z Anywhere]
 patch=1,EE,20277394,extended,08028000
 patch=1,EE,20277398,extended,3C020057
 patch=1,EE,200A0000,extended,8C42C3FC

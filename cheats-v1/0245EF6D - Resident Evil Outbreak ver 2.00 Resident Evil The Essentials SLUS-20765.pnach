@@ -1,57 +1,57 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,E0024200,extended,006607F4
 patch=1,EE,20660800,extended,2403270F
 patch=1,EE,20660808,extended,A6030544
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,D05B1FF8,extended,00001E3C
 patch=1,EE,205B200C,extended,00000000
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,D068C77C,extended,00001821
 patch=1,EE,2068C784,extended,00000000
 
-//Cheats/1 Hit Deaths Enemies
+[Cheats/1 Hit Deaths Enemies]
 patch=1,EE,D06407F4,extended,0000882D
 patch=1,EE,20640800,extended,A6620138
 
-//Cheats/Infinite Item Usage
+[Cheats/Infinite Item Usage]
 patch=1,EE,E0031E3C,extended,005B2178
 patch=1,EE,205B218C,extended,00000000
 patch=1,EE,205B21A0,extended,00000000
 patch=1,EE,205B51B4,extended,00000000
 
-//Cheats/Don't Become A Zombie Over Time
+[Cheats/Don't Become A Zombie Over Time]
 patch=1,EE,D0667E54,extended,00009FA4
 patch=1,EE,20667E5C,extended,00000000
 
-//Cheats/Don't Become A Zombie When Bitten
+[Cheats/Don't Become A Zombie When Bitten]
 patch=1,EE,D066015C,extended,00009FE4
 patch=1,EE,20660160,extended,00000000
 
-//Cheats/P1 Press L1+Select For Infection 100%
+[Cheats/P1 Press L1+Select For Infection 100%]
 patch=1,EE,D02B081C,extended,0000FBFE
 patch=1,EE,20667E28,extended,24900000
 patch=1,EE,D02B081C,extended,0000FFFF
 patch=1,EE,20667E28,extended,4410B800
 
-//Cheats/Unlock All NPC's
+[Cheats/Unlock All NPC's]
 patch=1,EE,4031FB6C,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock Infinity Mode
+[Cheats/Unlock Infinity Mode]
 patch=1,EE,2031FB7C,extended,FFFFFFFF
 
-//Cheats/Unlock All Scenarios
+[Cheats/Unlock All Scenarios]
 patch=1,EE,20323BD8,extended,FFFFFFFF
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,2031FB64,extended,FFFFFFFF
 patch=1,EE,2031FB68,extended,FFFFFFFF
 
-//Cheats/Max Reward Points
+[Cheats/Max Reward Points]
 patch=1,EE,2031FB60,extended,05F5E0FF
 
-//Cheats/Have All Collection Purchased
+[Cheats/Have All Collection Purchased]
 patch=1,EE,40323C54,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000

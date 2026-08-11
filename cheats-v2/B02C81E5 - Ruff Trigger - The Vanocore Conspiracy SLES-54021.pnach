@@ -1,12 +1,12 @@
 gametitle=Ruff Trigger - The Vanocore Conspiracy SLES-54021
-//Max Tykels Level 1
+[Max Tykels Level 1]
 patch=1,EE,2165228C,extended,0000270F
 
-//Infinite Ammo Level 1
+[Infinite Ammo Level 1]
 patch=1,EE,216573E0,extended,00000028
 
-//Infinite Health Level 1
+[Infinite Health Level 1]
 patch=1,EE,21651F74,extended,00000000
 
-//Infinite Air Level 1
+[Infinite Air Level 1]
 patch=1,EE,21652124,extended,0000000F

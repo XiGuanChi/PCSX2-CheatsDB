@@ -1,12 +1,12 @@
-//Cheats/Buy 1 Item For 999,999 Cash
+[Cheats/Buy 1 Item For 999,999 Cash]
 patch=1,EE,202D763C,extended,3C05000F
 patch=1,EE,202D764C,extended,24A5423F
 
-//Cheats/Have All Objects In Inventory
+[Cheats/Have All Objects In Inventory]
 patch=1,EE,204C5C8C,extended,00000001
 
-//Cheats/Have All Skins And Ringtones In XAM
+[Cheats/Have All Skins And Ringtones In XAM]
 patch=1,EE,204C5C90,extended,00000001
 
-//Cheats/All Interactions Need Items Are Available
+[Cheats/All Interactions Need Items Are Available]
 patch=1,EE,204C5CB0,extended,00000001

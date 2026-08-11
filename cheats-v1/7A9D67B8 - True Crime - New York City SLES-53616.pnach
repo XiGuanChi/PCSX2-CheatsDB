@@ -1,13 +1,13 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2024C924,extended,3C0143C8
 patch=1,EE,2024C928,extended,AC410010
 
-//Cheats/Infinite Ammo and No Reload
+[Cheats/Infinite Ammo and No Reload]
 patch=1,EE,20225284,extended,00000000
 
-//Cheats/Infinite Slow Down On Zoom
+[Cheats/Infinite Slow Down On Zoom]
 patch=1,EE,2030CA74,extended,00000000
 
-//Cheats/Disable Car Damage
+[Cheats/Disable Car Damage]
 patch=1,EE,20428758,extended,03E00008
 patch=1,EE,2042875C,extended,00000000

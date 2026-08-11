@@ -1,79 +1,79 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20344DFC,extended,0098967F
 
-//Cheats/Max Balls
+[Cheats/Max Balls]
 patch=1,EE,00344DF4,extended,00000004
 
-//Cheats/Unlock All Free Battle Pachi Pro
+[Cheats/Unlock All Free Battle Pachi Pro]
 patch=1,EE,2036AC94,extended,FFFFFFFF
 patch=1,EE,0036AC98,extended,0000000F
 
-//Cheats/Pachinko Machine Capture Common To All Modes Ball 9999999
+[Cheats/Pachinko Machine Capture Common To All Modes Ball 9999999]
 patch=1,EE,2038A904,extended,0098967F
 
-//Cheats/Pachinko Machine Capture Common To All Modes Acquisition Ball 9999999
+[Cheats/Pachinko Machine Capture Common To All Modes Acquisition Ball 9999999]
 patch=1,EE,2038A910,extended,0098967F
 
-//Cheats/Pachinko Machine Capture Common To All Modes BHit Ball 9999999
+[Cheats/Pachinko Machine Capture Common To All Modes BHit Ball 9999999]
 patch=1,EE,2038A918,extended,0098967F
 
-//Cheats/Pachinko Machine Capture Common To All Modes BHold Ball Not Decrease
+[Cheats/Pachinko Machine Capture Common To All Modes BHold Ball Not Decrease]
 patch=1,EE,20387D34,extended,00000004
 
-//Cheats/Pachinko Machine Capture Common To All Modes BChance Increase per Slot Makes slots easier to align
+[Cheats/Pachinko Machine Capture Common To All Modes BChance Increase per Slot Makes slots easier to align]
 patch=1,EE,20387CFC,extended,00000001
 patch=1,EE,20387D00,extended,00000001
 patch=1,EE,20387D04,extended,00000001
 patch=1,EE,20387D08,extended,00000001
 
-//Cheats/Pachinko Machine Capture Common To All Modes BYour Special Moves Gauge Lv5 Valid in Fuunroku and free battles
+[Cheats/Pachinko Machine Capture Common To All Modes BYour Special Moves Gauge Lv5 Valid in Fuunroku and free battles]
 patch=1,EE,20362680,extended,43FA0000
 
-//Cheats/Pachinko Battle Royale Press L1+Up To End Time
+[Cheats/Pachinko Battle Royale Press L1+Up To End Time]
 patch=1,EE,D03308C2,extended,0000FBEF
 patch=1,EE,201FDCC4,extended,24840001
 
-//Cheats/Shiori Kasagi S 1st place
+[Cheats/Shiori Kasagi S 1st place]
 patch=1,EE,0035EA80,extended,00000000
 
-//Cheats/Shiori Kasagi 9999 wins 0 losses
+[Cheats/Shiori Kasagi 9999 wins 0 losses]
 patch=1,EE,2035EA58,extended,0000270F
 patch=1,EE,2035EA5C,extended,00000000
 
-//Cheats/Shiori Kasagi Highest Winning Streak 9999 Consecutive Wins
+[Cheats/Shiori Kasagi Highest Winning Streak 9999 Consecutive Wins]
 patch=1,EE,2035EA60,extended,0000270F 
 patch=1,EE,2035EA64,extended,0000270F 
 patch=1,EE,2035EA68,extended,0000270F 
 
-//Cheats/Shiori Kasagi Cumulative Jackpot Count 9999999 Times
+[Cheats/Shiori Kasagi Cumulative Jackpot Count 9999999 Times]
 patch=1,EE,2035EA4C,extended,0098967F
 
-//Cheats/Shiori Kasagi Max Number Of Consecutive Games 9999999 Times
+[Cheats/Shiori Kasagi Max Number Of Consecutive Games 9999999 Times]
 patch=1,EE,2035EA54,extended,0098967F
 
-//Cheats/Shiori Kasagi Total Number Of Balls 9999999 Balls 63 Sharpness +99
+[Cheats/Shiori Kasagi Total Number Of Balls 9999999 Balls 63 Sharpness +99]
 patch=1,EE,2035EBB0,extended,00002710
 
-//Cheats/Shiori Kasagi Cleanliness 99
+[Cheats/Shiori Kasagi Cleanliness 99]
 patch=1,EE,2035EA20,extended,00000063
 
-//Cheats/Shiori Kasagi Pandemic 9999999
+[Cheats/Shiori Kasagi Pandemic 9999999]
 patch=1,EE,2035EA24,extended,0098967F
 
-//Cheats/Fuun Roku 5 Fishing The fish will not go wild while fishing
+[Cheats/Fuun Roku 5 Fishing The fish will not go wild while fishing]
 patch=1,EE,205E3140,extended,00000000 
 patch=1,EE,205E3144,extended,00000000
 
 
-//Cheats/Unlock All Phone Numbers
+[Cheats/Unlock All Phone Numbers]
 patch=1,EE,0036B053,extended,00000078 
 patch=1,EE,2036B054,extended,07BFFFBE
 
-//Cheats/Unlock All Date Places Some scenarios may interfere with progress
+[Cheats/Unlock All Date Places Some scenarios may interfere with progress]
 patch=1,EE,2036B0C4,extended,FFFFFFFF
 patch=1,EE,2036B0C8,extended,FFFFFFFF
 
-//Cheats/Full Title Customization
+[Cheats/Full Title Customization]
 patch=1,EE,20398D40,extended,01010101
 patch=1,EE,20398D44,extended,01010101
 patch=1,EE,20398D48,extended,01010101

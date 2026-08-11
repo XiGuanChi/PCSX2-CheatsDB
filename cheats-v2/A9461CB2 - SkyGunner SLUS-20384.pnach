@@ -1,52 +1,52 @@
 gametitle=SkyGunner SLUS-20384
-//Infinite Fuel Codes Scene 1
+[Infinite Fuel Codes Scene 1]
 patch=1,EE,201D85E0,extended,00000000
 
-//Infinite Fuel Codes Scene 2
+[Infinite Fuel Codes Scene 2]
 patch=1,EE,201D8770,extended,00000000
 
-//Infinite Fuel Codes Scene 3
+[Infinite Fuel Codes Scene 3]
 patch=1,EE,201DF440,extended,00000000
 
-//Infinite Fuel Codes Scene 4
+[Infinite Fuel Codes Scene 4]
 patch=1,EE,201DA538,extended,00000000
 
-//Infinite Fuel Codes Scene 5
+[Infinite Fuel Codes Scene 5]
 patch=1,EE,201D9888,extended,00000000
 
-//Infinite Ammo Codes Scene 1
+[Infinite Ammo Codes Scene 1]
 patch=1,EE,201BA108,extended,00000000
 
-//Infinite Ammo Codes Scene 2
+[Infinite Ammo Codes Scene 2]
 patch=1,EE,201BA3A8,extended,00000000
 
-//Infinite Ammo Codes Scene 3
+[Infinite Ammo Codes Scene 3]
 patch=1,EE,201BD028,extended,00000000
 
-//Infinite Ammo Codes Scene 4
+[Infinite Ammo Codes Scene 4]
 patch=1,EE,201BB6E8,extended,00000000
 
-//Infinite Ammo Codes Scene 5
+[Infinite Ammo Codes Scene 5]
 patch=1,EE,201BB320,extended,00000000
 
-//All Scenes
+[All Scenes]
 patch=1,EE,20166834,extended,FFFFFFFF
 patch=1,EE,20166838,extended,FFFFFFFF
 patch=1,EE,2016683C,extended,FFFFFFFF
 patch=1,EE,20166840,extended,FFFFFFFF
 patch=1,EE,20166844,extended,FFFFFFFF
 
-//Infinite All Optional Weapons
+[Infinite All Optional Weapons]
 patch=1,EE,4017E840,extended,00040001
 patch=1,EE,63636363,extended,00000000
 
-//Have All Modes & Planes
+[Have All Modes & Planes]
 patch=1,EE,201667CC,extended,FFFFFFFF
 
-//Have All Ventre's Photos
+[Have All Ventre's Photos]
 patch=1,EE,20166830,extended,FFFFFFFF
 
-//Have All Event Photos Codes
+[Have All Event Photos Codes]
 patch=1,EE,20166834,extended,FFFFFFFF
 patch=1,EE,20166838,extended,FFFFFFFF
 patch=1,EE,2016683C,extended,FFFFFFFF

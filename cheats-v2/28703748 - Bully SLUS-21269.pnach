@@ -1,13 +1,13 @@
 gametitle=Bully SLUS-21269
-//Infinite Health
+[Infinite Health]
 patch=1,EE,21C68AC8,extended,43480000
 
-//Max Money
+[Max Money]
 patch=1,EE,21C68AB0,extended,05F5E100
 
-//Np Trouble
+[Np Trouble]
 patch=1,EE,21C68B50,extended,00000000
 
-//Infinite Health(People You Got To Protect)
+[Infinite Health(People You Got To Protect)]
 patch=1,EE,2042B6B8,extended,E4811A08
 patch=1,EE,2042B6C0,extended,C48119F4

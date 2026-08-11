@@ -1,10 +1,10 @@
 gametitle=Koihime Musou SLPM-55068
-//Army = 999999
+[Army = 999999]
 patch=1,EE,2066DA00,extended,000F423F
 
-//CG fully openwhen entering Koihime picture scroll
+[CG fully openwhen entering Koihime picture scroll]
 patch=1,EE,201E18D0,extended,24010001
 patch=1,EE,201E18D4,extended,A0610000
 
-//Event scene fully opened when you enter girls' maiden
+[Event scene fully opened when you enter girls' maiden]
 patch=1,EE,201E3F68,extended,ACC60024

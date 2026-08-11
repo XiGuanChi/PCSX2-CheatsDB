@@ -1,5 +1,5 @@
 gametitle=Rocket Power - Beach Bandits SLUS-20473
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,AE810210
 patch=1,EE,200C0228,extended,03E00008

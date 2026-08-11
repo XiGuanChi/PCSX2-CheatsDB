@@ -1,29 +1,29 @@
 gametitle=Big Mutha Truckers 2 SLUS-21086
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,11B8D854,extended,0000FFFF
 
-//Max Cash
+[Max Cash]
 patch=1,EE,21B8D854,extended,05F5E0FF
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,2021A290,extended,00000000
 
-//Infinite Damage
+[Infinite Damage]
 patch=1,EE,20347308,extended,03E00008
 patch=1,EE,2034730C,extended,00000000
 
-//All Gallery
+[All Gallery]
 patch=1,EE,4059BD9C,extended,00150084
 patch=1,EE,00000001,extended,00000000
 
-//Activate Cheat Codes MISSIONS
+[Activate Cheat Codes MISSIONS]
 patch=1,EE,2059A718,extended,00000000
 
-//Activate Cheat Codes NODAMAGE
+[Activate Cheat Codes NODAMAGE]
 patch=1,EE,2059A724,extended,00000000
 
-//Activate Cheat Codes CASH
+[Activate Cheat Codes CASH]
 patch=1,EE,2059A728,extended,00000000
 
-//Activate Cheat Codes GALLERY
+[Activate Cheat Codes GALLERY]
 patch=1,EE,2059A748,extended,00000000

@@ -1,28 +1,28 @@
-//Cheats/Max Score
+[Cheats/Max Score]
 patch=1,EE,20469D9C,extended,0098967F
 
-//Cheats/1P Lives 9
+[Cheats/1P Lives 9]
 patch=1,EE,20469D8D,extended,00000009
 
-//Cheats/1P 3 minutes Remaining Time
+[Cheats/1P 3 minutes Remaining Time]
 patch=1,EE,20469D98,extended,00002A30
 
-//Cheats/1P Press Square 3 Minutes Remaining Time
+[Cheats/1P Press Square 3 Minutes Remaining Time]
 patch=1,EE,D01C50C2,extended,00007FFF
 patch=1,EE,20469D98,extended,00002A30
 
-//Cheats/Lap Time 0
+[Cheats/Lap Time 0]
 patch=1,EE,2012A014,extended,ACC0001C
 
-//Cheats/Grand Prix 1P Goal Press SELECT+L1+R1
+[Cheats/Grand Prix 1P Goal Press SELECT+L1+R1]
 patch=1,EE,D01C50C2,extended,0000F3FE
 patch=1,EE,20400CF6,extended,00000009
 
-//Cheats/Start A Game mode To Appear In A Debug Menu
+[Cheats/Start A Game mode To Appear In A Debug Menu]
 patch=1,EE,00145498,extended,0000000D
 
-//Cheats/Start A Game mode To Appear In A Track editor
+[Cheats/Start A Game mode To Appear In A Track editor]
 patch=1,EE,00145498,extended,00000008
 
-//Cheats/Start A Game mode To Appear In A Sound editor
+[Cheats/Start A Game mode To Appear In A Sound editor]
 patch=1,EE,00145498,extended,0000000C

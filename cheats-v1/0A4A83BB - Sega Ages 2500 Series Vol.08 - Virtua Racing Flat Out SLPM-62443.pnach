@@ -1,10 +1,10 @@
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,201B2F94,extended,E4625F88
 
-//Cheats/Opponents don't move
+[Cheats/Opponents don't move]
 patch=1,EE,2014A1AC,extended,00000000
 
-//Cheats/Press R3 during a race last lap and first place
+[Cheats/Press R3 during a race last lap and first place]
 patch=1,EE,D0200908,extended,00000400
 patch=1,EE,2021FEC0,extended,00000003
 patch=1,EE,00000001,extended,0000009A

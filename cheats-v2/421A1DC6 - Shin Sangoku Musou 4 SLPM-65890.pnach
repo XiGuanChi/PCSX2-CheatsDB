@@ -1,31 +1,31 @@
 gametitle=Shin Sangoku Musou 4 SLPM-65890
-//Defeat warlord evaluation MAX
+[Defeat warlord evaluation MAX]
 patch=1,EE,2016A4B4,extended,00000000
 
-//Clear time evaluation MAX
+[Clear time evaluation MAX]
 patch=1,EE,2016A44C,extended,00000000
 
-//Bonus evaluation MAX
+[Bonus evaluation MAX]
 patch=1,EE,2016A304,extended,00000000
 
-//Physical strength largest maintenance
+[Physical strength largest maintenance]
 patch=1,EE,200FFF00,extended,03C0202D
 patch=1,EE,200FFF04,extended,00032900
 patch=1,EE,200FFF08,extended,03E00008
 patch=1,EE,20223204,extended,0C03FFC0
 patch=1,EE,2022320C,extended,A4450226
 
-//Restriction time L1 + L2: It does not decrease R1 + R2: Normal operation
+[Restriction time L1 + L2: It does not decrease R1 + R2: Normal operation]
 patch=1,EE,D031C858,extended,00000500
 patch=1,EE,201C5730,extended,10000009
 patch=1,EE,D031C858,extended,00000A00
 patch=1,EE,201C5730,extended,14400009
 
-//Physical strength & hit and miss gauge framework max
+[Physical strength & hit and miss gauge framework max]
 patch=1,EE,2018DF5C,extended,14200001
 patch=1,EE,2018DF88,extended,14200001
 
-//Ability max
+[Ability max]
 patch=1,EE,20208E84,extended,0C03CC00
 patch=1,EE,200F3000,extended,8E030000
 patch=1,EE,200F3004,extended,24180320
@@ -36,7 +36,7 @@ patch=1,EE,200F3014,extended,A638022E
 patch=1,EE,200F3018,extended,A6380230
 patch=1,EE,200F301C,extended,03E00008
 
-//All the general classes MAX
+[All the general classes MAX]
 patch=1,EE,201306CC,extended,0803C400
 patch=1,EE,200F1500,extended,3C080046
 patch=1,EE,200F1504,extended,35089C7A
@@ -53,23 +53,23 @@ patch=1,EE,200F1554,extended,1520FFF0
 patch=1,EE,201306CC,extended,0803C400
 patch=1,EE,200F155C,extended,03E00008
 
-//arrow does not decrease
+[arrow does not decrease]
 patch=1,EE,2017F52C,extended,24630000
 
-//All generals
+[All generals]
 patch=1,EE,20195838,extended,0C065600
 patch=1,EE,2019583C,extended,24050001
 
-//All Scenarios free mode
+[All Scenarios free mode]
 patch=1,EE,20196FE8,extended,0C065BEC
 patch=1,EE,20196FEC,extended,24050001
 
-//All movies
+[All movies]
 patch=1,EE,20194820,extended,8C480088
 patch=1,EE,20194834,extended,01034025
 patch=1,EE,20194838,extended,AC480088
 
-//All sounds test 
+[All sounds test]
 patch=1,EE,20194950,extended,8C480080
 patch=1,EE,20194964,extended,01034025
 patch=1,EE,20194968,extended,AC480080

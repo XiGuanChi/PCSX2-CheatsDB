@@ -1,45 +1,45 @@
 gametitle=Cabela's Big Game Hunter 2005 Adventures SLUS-21021
-//Infinite Stamina
+[Infinite Stamina]
 patch=1,EE,206A3D3C,extended,3F800000
 
-//Infinite Health-Head
+[Infinite Health-Head]
 patch=1,EE,206A3D50,extended,3F800000
 
-//Infinite Health-Right Arm
+[Infinite Health-Right Arm]
 patch=1,EE,206A3D54,extended,3F800000
 
-//Infinite Health-Left Arm
+[Infinite Health-Left Arm]
 patch=1,EE,206A3D58,extended,3F800000
 
-//Infinite Health-Right Leg
+[Infinite Health-Right Leg]
 patch=1,EE,206A3D5C,extended,3F800000
 
-//Infinite Health-Left Leg
+[Infinite Health-Left Leg]
 patch=1,EE,206A3D60,extended,3F800000
 
-//Infinite Stealth
+[Infinite Stealth]
 patch=1,EE,206A3D7C,extended,3F800000
 
-//Never Reload
+[Never Reload]
 patch=1,EE,20498D38,extended,00000000
 
-//Max Money
+[Max Money]
 patch=1,EE,206A3D08,extended,05F5E0FF
 
-//Infinite Creation Points
+[Infinite Creation Points]
 patch=1,EE,206A3D80,extended,3F800000
 
-//God Mode On
+[God Mode On]
 patch=1,EE,205AF068,extended,00000001
 
-//Disable AI Think
+[Disable AI Think]
 patch=1,EE,205AD590,extended,00000001
 
-//Disable AI Actions
+[Disable AI Actions]
 patch=1,EE,205AD598,extended,00000001
 
-//Access All Subregions
+[Access All Subregions]
 patch=1,EE,206A3F2C,extended,00000001
 
-//Unlock All Subregions
+[Unlock All Subregions]
 patch=1,EE,206A3D00,extended,00000011

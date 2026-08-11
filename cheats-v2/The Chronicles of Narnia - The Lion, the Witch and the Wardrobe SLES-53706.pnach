@@ -1,28 +1,28 @@
 gametitle=The Chronicles of Narnia - The Lion, the Witch and the Wardrobe SLES-53706
-//infinite energy
+[infinite energy]
 patch=1,EE,200C2000,extended,03E00008
 patch=1,EE,200C2004,extended,E60C08A4
 patch=1,EE,202D7148,extended,0C030800
 
-//max.Coins
+[max.Coins]
 patch=1,EE,20635F00,extended,05F5E0FF
 
-//Has all levels
+[Has all levels]
 patch=1,EE,20374AEC,extended,24020001
 patch=1,EE,20374AF0,extended,AD820000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20271240,extended,24440000
 
-//Infinite First Aid Skill
+[Infinite First Aid Skill]
 patch=1,EE,202782EC,extended,24420000
 
-//Infinite Coins
+[Infinite Coins]
 patch=1,EE,20633C04,extended,0000270F
 
-//Freeze Timers
+[Freeze Timers]
 patch=1,EE,202D85E8,extended,00000000
 
-//Open All Levels
+[Open All Levels]
 patch=1,EE,406337D8,extended,000E0003
 patch=1,EE,00000002,extended,00000000

@@ -1,16 +1,16 @@
 gametitle=Tennis no Oji-Sama: Smash Hit! SLPM-65321
-//Friendship degree MAX over the course of days
+[Friendship degree MAX over the course of days]
 patch=1,EE,202567BC,extended,340100C8
 patch=1,EE,202567D8,extended,A4410024
 
-//Ability to learn without AP: Ability
+[Ability to learn without AP: Ability]
 patch=1,EE,20257C18,extended,10E00034
 patch=1,EE,20257D50,extended,1084000B
 
-//AP unnecessary and masterable: Special Moves
+[AP unnecessary and masterable: Special Moves]
 patch=1,EE,202581A0,extended,14E00035
 patch=1,EE,202583C4,extended,10A5000B
 
-//AP unnecessary and learnable: parameters
+[AP unnecessary and learnable: parameters]
 patch=1,EE,202587BC,extended,14E00016
 patch=1,EE,20258878,extended,10C6000B

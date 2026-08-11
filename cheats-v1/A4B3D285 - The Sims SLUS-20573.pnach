@@ -1,27 +1,27 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,201E2100,extended,AC820068
 patch=1,EE,201E2104,extended,00401821
 
-//Cheats/All Items Are Free
+[Cheats/All Items Are Free]
 patch=1,EE,2035F3BC,extended,00000001
 
-//Cheats/Hunger Motive Never Decreases
+[Cheats/Hunger Motive Never Decreases]
 patch=1,EE,202D3FA8,extended,00000000
 
-//Cheats/Energy Motive Never Decreases
+[Cheats/Energy Motive Never Decreases]
 patch=1,EE,202D3EF8,extended,00000000
 
-//Cheats/Comfort Motive Never Decreases
+[Cheats/Comfort Motive Never Decreases]
 patch=1,EE,202D3FA4,extended,00000000
 
-//Cheats/Fun Motive Never Decreases
+[Cheats/Fun Motive Never Decreases]
 patch=1,EE,202D4068,extended,00000000
 
-//Cheats/Unlock All Locked Items, Skins and 2 Player Games
+[Cheats/Unlock All Locked Items, Skins and 2 Player Games]
 patch=1,EE,2035F3C4,extended,00000001
 
-//Cheats/Unlock Party Motel 2 Player Game
+[Cheats/Unlock Party Motel 2 Player Game]
 patch=1,EE,2035F3C8,extended,00000001
 
-//Cheats/Unlock Play The Sims
+[Cheats/Unlock Play The Sims]
 patch=1,EE,2035F3CC,extended,00000001

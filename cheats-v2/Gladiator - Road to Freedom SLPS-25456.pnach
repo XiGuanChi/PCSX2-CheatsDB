@@ -1,27 +1,27 @@
 gametitle=Gladiator - Road to Freedom SLPS-25456
-//Money in hand 1000000000 
+[Money in hand 1000000000]
 patch=1,EE,20771D9C,extended,3B9ACA00
 
-//Debt amount 0 
+[Debt amount 0]
 patch=1,EE,20771DA0,extended,00000000
 
-//It is not reduce Sai TRAINIG POINT dietary 
+[It is not reduce Sai TRAINIG POINT dietary]
 patch=1,EE,2033E774,extended,00000000
 
-//Attack power 99 would do refining 
+[Attack power 99 would do refining]
 patch=1,EE,202E4200,extended,3C0A42C6
 patch=1,EE,202E4210,extended,AC4A0000
 patch=1,EE,202E4214,extended,24060063
 
-//Endurance 99 When you do refining 
+[Endurance 99 When you do refining]
 patch=1,EE,202E426C,extended,3C0A42C6
 patch=1,EE,202E4278,extended,AC4A000C
 patch=1,EE,202E427C,extended,24060063
 
-//CAP999 
+[CAP999]
 patch=1,EE,20164224,extended,240203E7
 
-//All models available 
+[All models available]
 patch=1,EE,20776920,extended,FFFFFFFF
 patch=1,EE,207767EC,extended,FFFFFFFF
 patch=1,EE,207767F0,extended,00000003

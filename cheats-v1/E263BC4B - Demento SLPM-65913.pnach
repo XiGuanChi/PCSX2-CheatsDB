@@ -1,38 +1,38 @@
-//Cheats/Fiona Immediate Recovery From Damage Only One Shot Death Such as a Gun
+[Cheats/Fiona Immediate Recovery From Damage Only One Shot Death Such as a Gun]
 patch=1,EE,201A22A8,extended,10000007
 patch=1,EE,201A22DC,extended,24040000
 
-//Cheats/Fiona Immediate Recovery From Fatigue
+[Cheats/Fiona Immediate Recovery From Fatigue]
 patch=1,EE,2018112C,extended,AC60D5F4
 
-//Cheats/Fiona No Enemy Damage Only One Shot Death Or Fall Due To A Trap
+[Cheats/Fiona No Enemy Damage Only One Shot Death Or Fall Due To A Trap]
 patch=1,EE,201A0394,extended,00000000
 patch=1,EE,2019FA1C,extended,00000000
 
-//Cheats/Panic Immediate Recovery
+[Cheats/Panic Immediate Recovery]
 patch=1,EE,202EF780,extended,2403FFFF
 patch=1,EE,202F0794,extended,AE20001C
 patch=1,EE,202F089C,extended,AE200004
 
-//Cheats/Infinite Health Huey Dog
+[Cheats/Infinite Health Huey Dog]
 patch=1,EE,216BF908,extended,00000064 
 
-//Cheats/Huey Dog Cannot Be Hit By Attacks Will receive damage from the enemy thrown when bitten
+[Cheats/Huey Dog Cannot Be Hit By Attacks Will receive damage from the enemy thrown when bitten]
 patch=1,EE,20164544,extended,00000000
 patch=1,EE,20195028,extended,00000000
 
-//Cheats/Stand Still To Be Invisible L2+Up On L2+Down Off
+[Cheats/Stand Still To Be Invisible L2+Up On L2+Down Off]
 patch=1,EE,201A2C24,extended,00000000
 patch=1,EE,D04F171C,extended,0000FEEF
 patch=1,EE,201A2BB4,extended,00000000
 patch=1,EE,D04F171C,extended,0000FEBF
 patch=1,EE,201A2BB4,extended,14430036
 
-//Cheats/Items 98 Pieces
+[Cheats/Items 98 Pieces]
 patch=1,EE,2025FDE8,extended,24030061
 patch=1,EE,2025FE50,extended,24420002
 
-//Cheats/Unlock All Bonus
+[Cheats/Unlock All Bonus]
 patch=1,EE,20487AA4,extended,FFFFFFFF
 patch=1,EE,20487AA8,extended,FFFFFFFF
 patch=1,EE,20487AAC,extended,FFFFFFFF

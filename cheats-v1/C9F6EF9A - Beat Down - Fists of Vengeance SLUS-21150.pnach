@@ -1,23 +1,23 @@
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,2060D3A0,extended,05F5E0FF
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,106D3F8C,extended,0000270F
 
-//Cheats/Level 99
+[Cheats/Level 99]
 patch=1,EE,1060D3AC,extended,00000063
 
-//Cheats/Always Low Police Detection Indicator
+[Cheats/Always Low Police Detection Indicator]
 patch=1,EE,0060CB68,extended,00000000
 
-//Cheats/Always Low Mob Detection Indicator
+[Cheats/Always Low Mob Detection Indicator]
 patch=1,EE,0060CE64,extended,00000000
 
-//Cheats/Max All Items
+[Cheats/Max All Items]
 patch=1,EE,4060C990,extended,00390001
 patch=1,EE,00630063,extended,00000000
 
-//Cheats/Enable Debug Mode Pressing L2 + R2 + R1 in-game will render character debug info.Pressing L1 + Select enables slow motion. Pressing it again disables it
+[Cheats/Enable Debug Mode Pressing L2 + R2 + R1 in-game will render character debug info.Pressing L1 + Select enables slow motion. Pressing it again disables it]
 patch=1,EE,20599014,extended,00000001
 
 

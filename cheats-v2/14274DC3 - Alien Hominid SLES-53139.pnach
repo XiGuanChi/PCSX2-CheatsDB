@@ -1,5 +1,5 @@
 gametitle=Alien Hominid SLES-53139
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,200C2000,extended,27BDFFE0
 patch=1,EE,200C2004,extended,FFBF0010
 patch=1,EE,200C2008,extended,0C047DB4
@@ -12,8 +12,8 @@ patch=1,EE,200C2020,extended,03E00008
 patch=1,EE,200C2024,extended,27BD0020
 patch=1,EE,2013CB24,extended,0C030800
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,2011EEC0,extended,24030063
 
-//Have All Hats/Mini Games/Levels Open
+[Have All Hats/Mini Games/Levels Open]
 patch=1,EE,20166FA4,extended,24050001

@@ -1,6 +1,6 @@
 gametitle=Michigan SLPM-65480
-//Camera shake reduction
+[Camera shake reduction]
 patch=1,EE,2015284C,extended,00000000
 
-//Enable Level Select
+[Enable Level Select]
 patch=1,EE,10315038,extended,00000001

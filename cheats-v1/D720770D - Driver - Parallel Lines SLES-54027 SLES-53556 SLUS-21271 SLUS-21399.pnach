@@ -1,80 +1,80 @@
-//Cheats/Max Cash
+[Cheats/Max Cash]
 patch=1,EE,206E11BC,extended,0098967F
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,00A00008
 patch=1,EE,200C0228,extended,AC8106B0
 patch=1,EE,2018AC28,extended,0C030088
 
-//Cheats/Infinite Health 1970's
+[Cheats/Infinite Health 1970's]
 patch=1,EE,21ED6E00,extended,3F800000
 
-//Cheats/Reset Felony In Car- Press L1+L2 1970's
+[Cheats/Reset Felony In Car- Press L1+L2 1970's]
 patch=1,EE,D068A52A,extended,0000FAFF
 patch=1,EE,21F253FC,extended,00000000
 
-//Cheats/Reset Felony On Foot- Press R1+R2 1970's
+[Cheats/Reset Felony On Foot- Press R1+R2 1970's]
 patch=1,EE,E002F5FF,extended,0068A52A
 patch=1,EE,21F25404,extended,00000000
 patch=1,EE,21F25400,extended,00000000
 
-//Cheats/Infinite Health 2000's
+[Cheats/Infinite Health 2000's]
 patch=1,EE,21F00B20,extended,3F800000
 
-//Cheats/Reset Felony In Car- Press L1+L2 2000's
+[Cheats/Reset Felony In Car- Press L1+L2 2000's]
 patch=1,EE,D068A52A,extended,0000FAFF
 patch=1,EE,21F4F11C,extended,00000000
 
-//Cheats/Reset Felony On Foot- Press R1+R2 2000's
+[Cheats/Reset Felony On Foot- Press R1+R2 2000's]
 patch=1,EE,E002F5FF,extended,0068A52A
 patch=1,EE,21F4F120,extended,00000000
 patch=1,EE,21F4F124,extended,00000000
 
-//Cheats/Health Doesnt Decrease From Crashes
+[Cheats/Health Doesnt Decrease From Crashes]
 patch=1,EE,20226010,extended,00000000
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,20266580,extended,24420000
 
-//Cheats/Infinite Nitro
+[Cheats/Infinite Nitro]
 patch=1,EE,202E1B40,extended,00000000
 
-//Cheats/Unlock All Vehicles Upgraded Alt
+[Cheats/Unlock All Vehicles Upgraded Alt]
 patch=1,EE,406E29B0,extended,00620042
 patch=1,EE,0000FFF3,extended,00000000
 
-//Cheats/Freeze Timers
+[Cheats/Freeze Timers]
 patch=1,EE,20180920,extended,00000000
 patch=1,EE,20180918,extended,00000000
 
-//Cheats/Unlock All Vehicles Upgraded
+[Cheats/Unlock All Vehicles Upgraded]
 patch=1,EE,406E1830,extended,00620042
 patch=1,EE,0000FFF3,extended,00000000
 
-//Cheats/Enable Cheat Invincibility
+[Cheats/Enable Cheat Invincibility]
 patch=1,EE,006E093E,extended,00000001
 
-//Cheats/Enable Cheat Invincibility alt
+[Cheats/Enable Cheat Invincibility alt]
 patch=1,EE,006E1ABE,extended,00000001
 
-//Cheats/Enable Cheat Indestructible Cars
+[Cheats/Enable Cheat Indestructible Cars]
 patch=1,EE,006E093B,extended,00000001
 
-//Cheats/Enable Cheat Indestructible Cars alt
+[Cheats/Enable Cheat Indestructible Cars alt]
 patch=1,EE,006E1ABB,extended,00000001
 
 
-//Cheats/Enable Cheat Infinite Ammo
+[Cheats/Enable Cheat Infinite Ammo]
 patch=1,EE,006E093C,extended,00000001
 
-//Cheats/Enable Cheat Infinite Ammo alt
+[Cheats/Enable Cheat Infinite Ammo alt]
 patch=1,EE,006E1ABC,extended,00000001
 
-//Cheats/Enable Cheat Infinite Nitro
+[Cheats/Enable Cheat Infinite Nitro]
 patch=1,EE,006E093D,extended,00000001
 
-//Cheats/Enable Cheat Infinite Nitro alt
+[Cheats/Enable Cheat Infinite Nitro alt]
 patch=1,EE,006E1ABD,extended,00000001
 
 

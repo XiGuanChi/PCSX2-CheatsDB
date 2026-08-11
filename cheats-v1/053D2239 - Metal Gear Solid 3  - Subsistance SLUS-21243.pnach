@@ -1,74 +1,74 @@
-//Cheats/Infinite Stamina
+[Cheats/Infinite Stamina]
 patch=1,EE,E0020000,extended,101D5B38
 patch=1,EE,601D5B38,extended,00000000
 patch=1,EE,00000525,extended,00007530
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,E0040000,extended,101D5B38
 patch=1,EE,601D5B38,extended,00000000
 patch=1,EE,00000343,extended,000003E7
 patch=1,EE,601D5B38,extended,00000000
 patch=1,EE,00000342,extended,000003E7
 
-//Cheats/Infinite Health ALT
+[Cheats/Infinite Health ALT]
 patch=1,EE,D01D7278,extended,00000001
 patch=1,EE,601D5B38,extended,00000190
 patch=1,EE,00010000,extended,00000684
 
-//Cheats/Infinite Oxygen ALT
+[Cheats/Infinite Oxygen ALT]
 patch=1,EE,D01D7278,extended,00000001
 patch=1,EE,601D74A0,extended,000070F4
 patch=1,EE,00010000,extended,0000061A
 
-//Cheats/Infinite Stamina ALT
+[Cheats/Infinite Stamina ALT]
 patch=1,EE,D01D7278,extended,00000001
 patch=1,EE,601D5B38,extended,000070F4
 patch=1,EE,00010000,extended,00000A4A
 
-//Cheats/Invincibility To Most Things
+[Cheats/Invincibility To Most Things]
 patch=1,EE,D01D7278,extended,00000001
 patch=1,EE,601D74A0,extended,0000012C
 patch=1,EE,00010000,extended,000005CC
 
-//Cheats/Infinite Health alt 1
+[Cheats/Infinite Health alt 1]
 patch=1,EE,201D5B38,extended,068403E8
 patch=1,EE,201D5B38,extended,068603E8
 
-//Cheats/Infinite Stamina alt 1
+[Cheats/Infinite Stamina alt 1]
 patch=1,EE,201D5B38,extended,0A4A7530
 patch=1,EE,201D5B38,extended,0A4C7530
 
-//Cheats/Unlock Camo Index 100%
+[Cheats/Unlock Camo Index 100%]
 patch=1,EE,2016BCF0,extended,00000000
 patch=1,EE,201D7448,extended,000003E8
 
-//Cheats/Infinite Battery
+[Cheats/Infinite Battery]
 patch=1,EE,2016C0A0,extended,00000000
 
-//Cheats/Activator Must Be On For Codes Below
+[Cheats/Activator Must Be On For Codes Below]
 patch=1,EE,200C0600,extended,3C08001D
 patch=1,EE,200C0604,extended,25085B38
 patch=1,EE,200C0608,extended,8D090000
 patch=1,EE,200C0668,extended,03E00008
 patch=1,EE,20177184,extended,08030180
 
-//Cheats/Infinite Health Snake
+[Cheats/Infinite Health Snake]
 patch=1,EE,200C0610,extended,240A03E8
 patch=1,EE,200C0614,extended,A52A0684
 
-//Cheats/Infinite Stamina Snake
+[Cheats/Infinite Stamina Snake]
 patch=1,EE,200C061C,extended,3C0B7530
 patch=1,EE,200C0620,extended,AD2B0A48
 
-//Cheats/Infinite Health EVA
+[Cheats/Infinite Health EVA]
 patch=1,EE,200C0628,extended,240C03E8
 patch=1,EE,200C062C,extended,A52C1888
 
-//Cheats/Infinite Stamina EVA
+[Cheats/Infinite Stamina EVA]
 patch=1,EE,200C0634,extended,240D7530
 patch=1,EE,200C0638,extended,A52D188C
 
-//Cheats/Press L3+Square+Triangle To Teleport To Top of Krasnogorje Tunnel Skip Long Ladder Climb
+[Cheats/Press L3+Square+Triangle To Teleport To Top of Krasnogorje Tunnel Skip Long Ladder Climb]
 patch=1,EE,D0213A5C,extended,00006FFD
 patch=1,EE,601D74A0,extended,C4A0C001
 patch=1,EE,00020000,extended,00000110
@@ -82,7 +82,7 @@ patch=1,EE,D0213A5C,extended,00006FFD
 patch=1,EE,601D74A0,extended,80000000
 patch=1,EE,00020000,extended,00000148
 
-//Cheats/Force 60 FPS
+[Cheats/Force 60 FPS]
 patch=1,EE,001D5AD8,extended,00000000
 patch=1,EE,001D6DB8,extended,00000001
 patch=1,EE,001D6DBC,extended,00000000

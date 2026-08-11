@@ -1,12 +1,12 @@
 gametitle=BMX XXX SLUS-20415
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201AD310,extended,240200FF
 patch=1,EE,201AD318,extended,A2020194
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,201EC644,extended,00000000
 
-//End Run For Max Score
+[End Run For Max Score]
 patch=1,EE,200C0220,extended,3C014B18
 patch=1,EE,200C0224,extended,3421967F
 patch=1,EE,200C0228,extended,AE410000
@@ -14,10 +14,10 @@ patch=1,EE,200C022C,extended,03E00008
 patch=1,EE,200C0230,extended,C6400008
 patch=1,EE,201B0F6C,extended,0C030088
 
-//Unlock All Movies
+[Unlock All Movies]
 patch=1,EE,4027B148,extended,00120001
 patch=1,EE,00000001,extended,00000000
 
-//Have All Bikes
+[Have All Bikes]
 patch=1,EE,00259247,extended,00000005
 

@@ -1,9 +1,9 @@
 gametitle=RC Revenge Pro SLES-50077
-//Have Turbo Boost
+[Have Turbo Boost]
 patch=1,EE,1078DA06,extended,00000002
 patch=1,EE,1078DB54,extended,00000201
 
-//All Cars
+[All Cars]
 patch=1,EE,101EBE34,extended,00000001
 patch=1,EE,101EBE68,extended,00000001
 patch=1,EE,101EBE9C,extended,00000001
@@ -24,10 +24,10 @@ patch=1,EE,101EBD98,extended,00000001
 patch=1,EE,101EBDCC,extended,00000001
 patch=1,EE,101EBE00,extended,00000001
 
-//All Cups
+[All Cups]
 patch=1,EE,101ECF34,extended,00000008
 
-//All Time Trials 1
+[All Time Trials 1]
 patch=1,EE,201ECE74,extended,00007190
 patch=1,EE,201ECE78,extended,00007190
 patch=1,EE,201ECE7C,extended,00007190
@@ -50,7 +50,7 @@ patch=1,EE,201ECEBC,extended,00007190
 patch=1,EE,201ECEC0,extended,00007190
 patch=1,EE,201ECEC4,extended,00007190
 
-//All Time Trials 2
+[All Time Trials 2]
 patch=1,EE,201ECEC8,extended,00007190
 patch=1,EE,201ECECC,extended,00007190
 patch=1,EE,201ECED0,extended,00007190
@@ -79,5 +79,5 @@ patch=1,EE,201ECF28,extended,00007190
 patch=1,EE,201ECF2C,extended,00007190
 patch=1,EE,201ECF30,extended,00007190
 
-//Timer Zero
+[Timer Zero]
 patch=1,EE,201EDB98,extended,00002CFF

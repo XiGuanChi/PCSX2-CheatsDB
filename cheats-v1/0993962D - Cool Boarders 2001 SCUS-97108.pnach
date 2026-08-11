@@ -1,20 +1,20 @@
-//Cheats/Gate Misses Dont Count
+[Cheats/Gate Misses Dont Count]
 patch=1,EE,20130430,extended,00000000
 patch=1,EE,2013114C,extended,00000000
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,10302288,extended,0000FFFF
 
-//Cheats/Unlock Quick Race Have All Characters
+[Cheats/Unlock Quick Race Have All Characters]
 patch=1,EE,2018C65C,extended,FFFFFFFF
 
-//Cheats/Unlock Quick Race Have All Events
+[Cheats/Unlock Quick Race Have All Events]
 patch=1,EE,4018C544,extended,00060001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock Career All Characters
+[Cheats/Unlock Career All Characters]
 patch=1,EE,2018A6D0,extended,FFFFFFFF
 
-//Cheats/Unlock Career Have All Events
+[Cheats/Unlock Career Have All Events]
 patch=1,EE,4018A690,extended,00100001
 patch=1,EE,01010101,extended,00000000

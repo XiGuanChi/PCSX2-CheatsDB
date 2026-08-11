@@ -1,22 +1,22 @@
 gametitle=Primal SCES-51135 DCC4EEEA
 
-//Infinite Health
+[Infinite Health]
 author=GamingDragon93
 patch=1,EE,104F22BA,extended,0000DB6F
 
-//One Hit Kills
+[One Hit Kills]
 author=GamingDragon93
 patch=1,EE,104F22D0,extended,000009DD
 
-//Bonus Material
+[Bonus Material]
 author=GamingDragon93
 patch=1,EE,2048599C,extended,00000005
 
-//All Tarot Cards Open
+[All Tarot Cards Open]
 author=GamingDragon93
 patch=1,EE,20488710,extended,0FFFFFFF
 
-//All Scenes Unlocked
+[All Scenes Unlocked]
 author=GamingDragon93
 patch=1,EE,204887A8,extended,FFFFFFFF
 patch=1,EE,204887AC,extended,FFFFFFFF

@@ -1,10 +1,10 @@
-//Cheats/Always 4th Down
+[Cheats/Always 4th Down]
 patch=1,EE,1058F280,extended,00000004
 
-//Cheats/Infinite Madden Tokens
+[Cheats/Infinite Madden Tokens]
 patch=1,EE,21E39038,extended,0098967F
 
-//Cheats/Change Possession After Play  Hold L2
+[Cheats/Change Possession After Play  Hold L2]
 patch=1,EE,2013FC80,extended,46010034
 patch=1,EE,2013FD2C,extended,1000008B
 patch=1,EE,2013FE60,extended,5642000B
@@ -13,7 +13,7 @@ patch=1,EE,2013FC80,extended,46000034
 patch=1,EE,2013FD2C,extended,10000000
 patch=1,EE,2013FE60,extended,00000000
 
-//Cheats/Score Touchdown 2 Pt Conversion After Any Play Hold L1
+[Cheats/Score Touchdown 2 Pt Conversion After Any Play Hold L1]
 patch=1,EE,2013FC84,extended,4500000C
 patch=1,EE,2013FFC8,extended,45000003
 patch=1,EE,20140018,extended,4502000C
@@ -22,7 +22,7 @@ patch=1,EE,2013FC84,extended,00000000
 patch=1,EE,2013FFC8,extended,00000000
 patch=1,EE,20140018,extended,00000000
 
-//Cheats/Tackle Press L2 Auto Tackle R2 Disable
+[Cheats/Tackle Press L2 Auto Tackle R2 Disable]
 patch=1,EE,2017F380,extended,27BDFF70
 patch=1,EE,20196E94,extended,10400079
 patch=1,EE,2017962C,extended,0040982D

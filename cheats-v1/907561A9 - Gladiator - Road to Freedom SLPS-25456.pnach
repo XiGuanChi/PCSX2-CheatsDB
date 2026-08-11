@@ -1,40 +1,40 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,2077C8BC,extended,3B9ACA00
 
-//Cheats/Max STR
+[Cheats/Max STR]
 patch=1,EE,2071BBB0,extended,000000FF 
 patch=1,EE,2071BBB4,extended,000000FF
 
-//Cheats/Max DEX
+[Cheats/Max DEX]
 patch=1,EE,2071BBC0,extended,000000FF
 patch=1,EE,2071BBC4,extended,000000FF
 
-//Cheats/Max AGI
+[Cheats/Max AGI]
 patch=1,EE,2071BBD0,extended,00000 0FF
 patch=1,EE,2071BBD4,extended,000000FF
 
-//Cheats/Max VIT
+[Cheats/Max VIT]
 patch=1,EE,2071BBE0,extended,000000FF
 patch=1,EE,2071BBE4,extended,000000FF
 
-//Cheats/Max STA
+[Cheats/Max STA]
 patch=1,EE,2071BBF0,extended,000000FF 
 patch=1,EE,2071BBF4,extended,000000FF
 
-//Cheats/Debt Amount 0
+[Cheats/Debt Amount 0]
 patch=1,EE,20771DA0,extended,00000000
 
-//Cheats/Attack Power 99 When you do Refining
+[Cheats/Attack Power 99 When you do Refining]
 patch=1,EE,202E4200,extended,3C0A42C6
 patch=1,EE,202E4210,extended,AC4A0000
 patch=1,EE,202E4214,extended,24060063
 
-//Cheats/Endurance 99 When you do Refining
+[Cheats/Endurance 99 When you do Refining]
 patch=1,EE,202E426C,extended,3C0A42C6
 patch=1,EE,202E4278,extended,AC4A000C
 patch=1,EE,202E427C,extended,24060063
 
-//Cheats/CAP 999
+[Cheats/CAP 999]
 patch=1,EE,20164224,extended,240203E7
 
 

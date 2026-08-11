@@ -1,5 +1,5 @@
 gametitle=Ghost Vibration SLES-51433
-//Infinite Health + Can't Overheat + Quick Death Ghost + Infinite Energy
+[Infinite Health + Can't Overheat + Quick Death Ghost + Infinite Energy]
 patch=1,EE,20C115C4,extended,42C80000
 patch=1,EE,60230E90,extended,42C80000
 patch=1,EE,00020000,extended,00000030
@@ -9,8 +9,8 @@ patch=1,EE,20C115C8,extended,41F00000
 patch=1,EE,60230E90,extended,41F00000
 patch=1,EE,00020000,extended,00000034
 
-//1 Hit Death Ghost
+[1 Hit Death Ghost]
 patch=1,EE,20160BA0,extended,AE2002F8
 
-//Fast Death Ghost/Can't Over Heat
+[Fast Death Ghost/Can't Over Heat]
 patch=1,EE,20168CD8,extended,46000B02

@@ -1,13 +1,13 @@
 gametitle=Simple 2000 Ultimate Vol. 30: Kourin! Zokushi God SLPM-62224
-//KP
+[KP]
 patch=1,EE,201F3FA4,extended,05F5E0FF
 
-//Fully open the battle character in story mode?
+[Fully open the battle character in story mode?]
 patch=1,EE,001F40B0,extended,00000001
 patch=1,EE,001F40F6,extended,00000001
 
-//Buddha shame boost does not decrease
+[Buddha shame boost does not decrease]
 patch=1,EE,20130CFC,extended,00401023
 
-//Enemy car does not move
+[Enemy car does not move]
 patch=1,EE,2012D3EC,extended,00000000

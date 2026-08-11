@@ -1,31 +1,31 @@
 gametitle=Nobunaga no Yabou - Kakushin SLPM-66279
-//When the money it fluctuates max R3 TURNS ON with the button L3 TURNS OFF with the button  Being to be an effect in all power, only when necessary please turn the code to ON
+[When the money it fluctuates max R3 TURNS ON with the button L3 TURNS OFF with the button  Being to be an effect in all power, only when necessary please turn the code to ON]
 patch=1,EE,D0709B58,extended,00000400
 patch=1,EE,202438EC,extended,34C20000
 patch=1,EE,D0709B58,extended,00000200
 patch=1,EE,202438EC,extended,0C053354
 
-//New general 1 Degree of strategy skill 9999
+[New general 1 Degree of strategy skill 9999]
 patch=1,EE,21A2BE8C,extended,270F270F
 patch=1,EE,21A2BE90,extended,270F270F
 patch=1,EE,11A2BE94,extended,0000270F
 
-//All proper S
+[All proper S]
 patch=1,EE,21A2BE98,extended,04040404
 patch=1,EE,21A2BE9C,extended,04040404
 patch=1,EE,01A2BEA0,extended,00000004
 
-//Leadership 255
+[Leadership 255]
 patch=1,EE,01A2BEC2,extended,000000FF
 
-//Bravery 255
+[Bravery 255]
 patch=1,EE,01A2BEC3,extended,000000FF
 
-//Intellectual abbreviation 255
+[Intellectual abbreviation 255]
 patch=1,EE,01A2BEC4,extended,000000FF
 
-//Politics 255
+[Politics 255]
 patch=1,EE,01A2BEC5,extended,000000FF
 
-//Strategy degree of skill maximum 9999
+[Strategy degree of skill maximum 9999]
 patch=1,EE,A023480C,extended,2406270F

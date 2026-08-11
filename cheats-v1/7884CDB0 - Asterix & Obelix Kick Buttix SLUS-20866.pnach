@@ -1,25 +1,25 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,0072C070,extended,0000001E
 
-//Cheats/Max Energy Gauge Combo
+[Cheats/Max Energy Gauge Combo]
 patch=1,EE,2072BCD0,extended,0000001E
 
-//Cheats/Always Under Magic Potion
+[Cheats/Always Under Magic Potion]
 patch=1,EE,2072C0BC,extended,42C80000
 
-//Cheats/P1 Press L1+Select To Get Magic Potion Effects
+[Cheats/P1 Press L1+Select To Get Magic Potion Effects]
 patch=1,EE,D051F082,extended,0000FBFE
 patch=1,EE,2072C0BC,extended,42C80000
 
-//Cheats/P1 Press L2+Select To Remove Magic Potion Effects
+[Cheats/P1 Press L2+Select To Remove Magic Potion Effects]
 patch=1,EE,D051F082,extended,0000FEFE
 patch=1,EE,2072C0BC,extended,00000000
 
-//Cheats/Max Roman Helmets Collected
+[Cheats/Max Roman Helmets Collected]
 patch=1,EE,2072C088,extended,0000270F
 
-//Cheats/Max Helmet Multiplier
+[Cheats/Max Helmet Multiplier]
 patch=1,EE,2072C0A4,extended,00000063
 
-//Cheats/Have Helmet Multiplier
+[Cheats/Have Helmet Multiplier]
 patch=1,EE,2072C0B8,extended,42C60000

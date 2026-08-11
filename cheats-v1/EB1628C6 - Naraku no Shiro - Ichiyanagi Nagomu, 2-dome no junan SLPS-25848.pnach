@@ -1,4 +1,4 @@
-//Cheats/Enable Debug Mode Select toggles debug menu on  - off.Select+Triangle toggles a debug meter.Select+Up - Down toggles debug menu page.L3 pauses - unpauses the game
+[Cheats/Enable Debug Mode Select toggles debug menu on  - off.Select+Triangle toggles a debug meter.Select+Up - Down toggles debug menu page.L3 pauses - unpauses the game]
 patch=1,EE,003C0A30,extended,00000001
 
 

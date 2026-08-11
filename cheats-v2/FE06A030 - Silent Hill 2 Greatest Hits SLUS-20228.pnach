@@ -1,18 +1,18 @@
 gametitle=Silent Hill 2 Greatest Hits SLUS-20228
-//Infinite Health
+[Infinite Health]
 patch=1,EE,203FFEF4,extended,42C80000
 patch=1,EE,203FFEFC,extended,42C80000
 
-//Invincible (Can't Be Hit)
+[Invincible (Can't Be Hit)]
 patch=1,EE,103FFF00,extended,000042C8
 
-//Infinite Run (Never Exhausted)
+[Infinite Run (Never Exhausted)]
 patch=1,EE,21137C8C,extended,42C80000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201B778C,extended,00000000
 
-//Have All Items
+[Have All Items]
 patch=1,EE,21137C60,extended,FFFDF3FE
 patch=1,EE,21137C64,extended,FFFFFFFF
 patch=1,EE,21137C68,extended,00007FFF

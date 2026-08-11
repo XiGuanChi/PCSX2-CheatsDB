@@ -1,5 +1,5 @@
 gametitle=Simple 2000 Series Vol.009 - The Renai Adventure - Bittersweet Fools SLPM-62207
-//album ALL open type -A
+[album ALL open type -A]
 patch=1,EE,2049E420,extended,01010101
 patch=1,EE,1049E424,extended,00000101
 patch=1,EE,2049E428,extended,01010101
@@ -20,10 +20,10 @@ patch=1,EE,0049E457,extended,00000001
 patch=1,EE,2049E458,extended,01010101
 patch=1,EE,1049E45C,extended,00000101
 
-//album ALL open type -B
+[album ALL open type -B]
 patch=1,EE,201057E8,extended,24020001
 
-//album ALL open type -C
+[album ALL open type -C]
 patch=1,EE,20158834,extended,0803C000
 patch=1,EE,200F0000,extended,3C08004A
 patch=1,EE,200F0004,extended,24090001

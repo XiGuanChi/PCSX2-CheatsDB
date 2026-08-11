@@ -1,23 +1,23 @@
-//Cheats/Infinite HP Player 1
+[Cheats/Infinite HP Player 1]
 patch=1,EE,204531E8,extended,00006510
 patch=1,EE,204531EC,extended,00006510
 
-//Cheats/Player 2 No Health Press Select
+[Cheats/Player 2 No Health Press Select]
 patch=1,EE,D047CE5C,extended,0000FFFE
 patch=1,EE,204542D4,extended,00000000
 
-//Cheats/Infinite Homing P1
+[Cheats/Infinite Homing P1]
 patch=1,EE,20453004,extended,000011f8
 patch=1,EE,20453008,extended,000011f8
 patch=1,EE,2045300C,extended,000011f8
 
-//Cheats/Infinite Super P1
+[Cheats/Infinite Super P1]
 patch=1,EE,20453000,extended,00026000
 
-//Cheats/Unlock All Extras
+[Cheats/Unlock All Extras]
 patch=1,EE,4031CDF0,extended,000B0001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock Arcana S
+[Cheats/Unlock Arcana S]
 patch=1,EE,4031CE50,extended,000B0001
 patch=1,EE,00000001,extended,00000000

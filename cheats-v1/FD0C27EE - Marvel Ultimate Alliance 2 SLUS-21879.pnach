@@ -1,29 +1,29 @@
-//Cheats/Max Coins Upon Pickup
+[Cheats/Max Coins Upon Pickup]
 patch=1,EE,20254D7C,extended,2402FFFF
 patch=1,EE,20254D84,extended,AC22B608
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,3C01447A
 patch=1,EE,200C0224,extended,AC8102C4
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C48002C4
 patch=1,EE,20232930,extended,08030088
 
-//Cheats/Infinite Energy
+[Cheats/Infinite Energy]
 patch=1,EE,202a8f64,extended,E60002D0
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,2012B234,extended,AC8002C4
 
-//Cheats/Max Skill Points
+[Cheats/Max Skill Points]
 patch=1,EE,201d5880,extended,24020063
 patch=1,EE,201d5884,extended,03E00008
 patch=1,EE,201d5888,extended,A4820000
 
-//Cheats/Max Stats All Players
+[Cheats/Max Stats All Players]
 patch=1,EE,2031B024,extended,2414FFFF
 patch=1,EE,2031B02C,extended,A0540004
 
-//Cheats/Max Level All Characters
+[Cheats/Max Level All Characters]
 patch=1,EE,2031AEBC,extended,24020063
 patch=1,EE,2031AEE0,extended,A0820014

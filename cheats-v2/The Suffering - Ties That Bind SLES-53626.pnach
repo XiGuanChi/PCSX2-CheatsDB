@@ -1,28 +1,28 @@
 gametitle= The Suffering - Ties That Bind SLES-53626
-//Infinite Ammo/No Reloads
+[Infinite Ammo/No Reloads]
 patch=1,EE,20326A2C,extended,00000000
 
-//Infinite Items/Grenades
+[Infinite Items/Grenades]
 patch=1,EE,202AF2A0,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20319B84,extended,8C81001C
 patch=1,EE,20319B8C,extended,AC810018
 
-//Flashlight Battery
+[Flashlight Battery]
 patch=1,EE,20269BBC,extended,3C014496
 patch=1,EE,20269BC4,extended,44810000
 
-//Insantity Always Available
+[Insantity Always Available]
 patch=1,EE,20317F74,extended,E60004A4
 
-//Infinite Insanity Press: L3=ON, R3=OFF
+[Infinite Insanity Press: L3=ON, R3=OFF]
 patch=1,EE,D05BB682,extended,0000FFFD
 patch=1,EE,202F1180,extended,00000000
 patch=1,EE,D05BB682,extended,0000FFFB
 patch=1,EE,202F1180,extended,46011081
 
-//Unlock All Weapons
+[Unlock All Weapons]
 patch=1,EE,20572FE8,extended,00000016
 patch=1,EE,20572FEC,extended,FFFFFFFF
 patch=1,EE,20572FF0,extended,00000000

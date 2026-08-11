@@ -1,39 +1,39 @@
-//Cheats/Invincibility
+[Cheats/Invincibility]
 patch=1,EE,D085A642,extended,0000BF80
 patch=1,EE,2085A640,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,D085A646,extended,0000BF80
 patch=1,EE,2085A644,extended,00000000
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,D085A64A,extended,0000BF80
 patch=1,EE,2085A648,extended,00000000
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,D085A64E,extended,0000BF80
 patch=1,EE,2085A64C,extended,00000000
 
-//Cheats/Activate Cheat Codes Invincibility
+[Cheats/Activate Cheat Codes Invincibility]
 patch=1,EE,2085A640,extended,3F800000
 
-//Cheats/Activate Cheat Codes Unlimited Ammo
+[Cheats/Activate Cheat Codes Unlimited Ammo]
 patch=1,EE,2085A644,extended,3F800000
 
-//Cheats/Activate Cheat Codes 1 Hit Kill
+[Cheats/Activate Cheat Codes 1 Hit Kill]
 patch=1,EE,2085A648,extended,3F800000
 
-//Cheats/Activate Cheat Codes Access To All Levels
+[Cheats/Activate Cheat Codes Access To All Levels]
 patch=1,EE,2085A64C,extended,3F800000
 
-//Cheats/Lancer's Multiplayer Skin
+[Cheats/Lancer's Multiplayer Skin]
 patch=1,EE,2085A650,extended,3F800000
 
-//Cheats/Scott Bernard's Multiplayer Skin
+[Cheats/Scott Bernard's Multiplayer Skin]
 patch=1,EE,2085A654,extended,3F800000
 
-//Cheats/Rand's Multiplayer Skin
+[Cheats/Rand's Multiplayer Skin]
 patch=1,EE,2085A658,extended,3F800000
 
-//Cheats/Rock's Multiplayer Skin
+[Cheats/Rock's Multiplayer Skin]
 patch=1,EE,2085A65C,extended,3F800000

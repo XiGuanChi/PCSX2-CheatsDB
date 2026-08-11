@@ -1,30 +1,30 @@
 gametitle=Suikoden IV SLUS-20979
-//Infinite Potch (Cash)
+[Infinite Potch (Cash)]
 patch=1,EE,20535EF8,extended,05F5E0FF
 
-//Always Max Runes Codes All Characters
+[Always Max Runes Codes All Characters]
 patch=1,EE,401B8D68,extended,00040037
 patch=1,EE,09090909,extended,00000000
 
-//Infinite HP Character 1
+[Infinite HP Character 1]
 patch=1,EE,201B8D60,extended,000003E7
 
-//Infinite HP Character 2
+[Infinite HP Character 2]
 patch=1,EE,201B8E3C,extended,000003E7
 
-//Infinite HP Character 3
+[Infinite HP Character 3]
 patch=1,EE,201B8F18,extended,000003E7
 
-//Infinite HP Character 4
+[Infinite HP Character 4]
 patch=1,EE,201B8FF4,extended,000003E7
 
-//All Characters Level 99 After Battle
+[All Characters Level 99 After Battle]
 patch=1,EE,202BA4D8,extended,00608821
 
-//P1 Press R3 To Disable Random Battles
+[P1 Press R3 To Disable Random Battles]
 patch=1,EE,D05BC402,extended,0000FFFB
 patch=1,EE,202D5C84,extended,24020000
 
-//Rush Always Available
+[Rush Always Available]
 patch=1,EE,20535F04,extended,3F800000
 

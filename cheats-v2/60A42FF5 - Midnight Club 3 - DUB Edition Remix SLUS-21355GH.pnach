@@ -1,17 +1,17 @@
 gametitle=Midnight Club 3 - DUB Edition Remix SLUS-21355GH
-//No Car Damage
+[No Car Damage]
 patch=1,EE,202D4A28,extended,03E00008
 patch=1,EE,202D4A28,extended,00000000
 
-//Max Money
+[Max Money]
 patch=1,EE,20800870,extended,3B9AC9FF
 
-//Max Tournament Points
+[Max Tournament Points]
 patch=1,EE,207F4C3C,extended,00000064
 
-//Unlock All Arcade Mode
+[Unlock All Arcade Mode]
 patch=1,EE,00619B1D,extended,00000001
 
-//Have All Cities
+[Have All Cities]
 patch=1,EE,40800850,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000

@@ -1,16 +1,16 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2012826C,extended,00000000
 
-//Cheats/Infinite Focus
+[Cheats/Infinite Focus]
 patch=1,EE,202A0B18,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,202885B8,extended,00000000
 
-//Cheats/Unlock All Available Weapons
+[Cheats/Unlock All Available Weapons]
 patch=1,EE,203C67B0,extended,00000000
 
-//Cheats/One Hit Kill
+[Cheats/One Hit Kill]
 patch=1,EE,200FFF80,extended,3C01004B
 patch=1,EE,200FFF84,extended,8C2119B4
 patch=1,EE,200FFF8C,extended,14410002
@@ -19,5 +19,5 @@ patch=1,EE,200FFF94,extended,E4400354
 patch=1,EE,200FFF9C,extended,0804C26D
 patch=1,EE,201309B0,extended,0803FFE0
 
-//Cheats/Unlock All Cheat Codes Active Make a save in Hacking to unlock levels
+[Cheats/Unlock All Cheat Codes Active Make a save in Hacking to unlock levels]
 patch=1,EE,20585604,extended,0000FFFF

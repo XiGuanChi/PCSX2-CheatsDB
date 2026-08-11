@@ -1,28 +1,28 @@
-//Cheats/Max Possession Money 1000000000
+[Cheats/Max Possession Money 1000000000]
 patch=1,EE,20771D9C,extended,3B9ACA00
 
-//Cheats/Debt 0
+[Cheats/Debt 0]
 patch=1,EE,20771DA0,extended,00000000
 
-//Cheats/Debt Repayment in game 1.6 million
+[Cheats/Debt Repayment in game 1.6 million]
 patch=1,EE,201D87BC,extended,3C02001F
 
-//Cheats/Status Limit 9999
+[Cheats/Status Limit 9999]
 patch=1,EE,2033F534,extended,2402270F
 
-//Cheats/Strength Training Points acquisition designation
+[Cheats/Strength Training Points acquisition designation]
 patch=1,EE,2034BD08,extended,24020063
 
-//Cheats/Infinite Training Points when eating
+[Cheats/Infinite Training Points when eating]
 patch=1,EE,2033E774,extended,00000000
 
-//Cheats/In Battle Max stamina gauge
+[Cheats/In Battle Max stamina gauge]
 patch=1,EE,201789A4,extended,C4400068
 
-//Cheats/In Battle Max Adrenaline Gauge
+[Cheats/In Battle Max Adrenaline Gauge]
 patch=1,EE,203FD348,extended,E4580014
 
-//Cheats/In Battle invincible ON SELECT+Up OFF SELECT+Down
+[Cheats/In Battle invincible ON SELECT+Up OFF SELECT+Down]
 patch=1,EE,D05CFD02,extended,0000FFEE
 patch=1,EE,2017AF9C,extended,8E8200C0
 patch=1,EE,D05CFD02,extended,0000FFBE
@@ -32,7 +32,7 @@ patch=1,EE,20178D1C,extended,8E8200C0
 patch=1,EE,D05CFD02,extended,0000FFBE
 patch=1,EE,20178D1C,extended,8C42309C
 
-//Cheats/Unlock Active Skill level 32 Select active skills on the skill wall
+[Cheats/Unlock Active Skill level 32 Select active skills on the skill wall]
 patch=1,EE,2039BADC,extended,24030001
 patch=1,EE,2039BAE0,extended,0C03E000
 patch=1,EE,2039BAE4,extended,AC430000
@@ -40,31 +40,31 @@ patch=1,EE,200F8000,extended,24030020
 patch=1,EE,200F8004,extended,AC430004
 patch=1,EE,200F8008,extended,03E00008
 
-//Cheats/9999 HIT
+[Cheats/9999 HIT]
 patch=1,EE,201CFDAC,extended,2403270F
 
-//Cheats/Material items do not decrease during refinement
+[Cheats/Material items do not decrease during refinement]
 patch=1,EE,202F51C4,extended,00000000
 
-//Cheats/Attack power 99 when refining weapons
+[Cheats/Attack power 99 when refining weapons]
 patch=1,EE,202E9058,extended,3C0142C6
 patch=1,EE,202E908C,extended,AC410000
 
-//Cheats/Endurance 99 when refining weapons
+[Cheats/Endurance 99 when refining weapons]
 patch=1,EE,202E916C,extended,3C0142C6
 patch=1,EE,202E9174,extended,AC41000C
 
-//Cheats/Attack power 99 when refining weapons ALT
+[Cheats/Attack power 99 when refining weapons ALT]
 patch=1,EE,202E4200,extended,3C0A42C6
 patch=1,EE,202E4210,extended,AC4A0000
 patch=1,EE,202E4214,extended,24060063
 
-//Cheats/Endurance 99 when refining weapons ALT
+[Cheats/Endurance 99 when refining weapons ALT]
 patch=1,EE,202E426C,extended,3C0A42C6
 patch=1,EE,202E4278,extended,AC4A000C
 patch=1,EE,202E427C,extended,24060063
 
-//Cheats/Unlock All Models available
+[Cheats/Unlock All Models available]
 patch=1,EE,20776920,extended,FFFFFFFF
 patch=1,EE,207767EC,extended,FFFFFFFF
 patch=1,EE,207767F0,extended,00000003

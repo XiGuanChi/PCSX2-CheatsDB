@@ -1,11 +1,11 @@
-//Cheats/Infinite Boost
+[Cheats/Infinite Boost]
 patch=1,EE,2011B2B8,extended,3C013F80
 patch=1,EE,2011B2C0,extended,AE01001C
 patch=1,EE,2011D228,extended,00000000
 patch=1,EE,2011B330,extended,00000000
 
-//Cheats/Unlock All Tracks Single & Practice Modes
+[Cheats/Unlock All Tracks Single & Practice Modes]
 patch=1,EE,2032B398,extended,FFFFFFFF
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,2032B39C,extended,FFFFFFFF

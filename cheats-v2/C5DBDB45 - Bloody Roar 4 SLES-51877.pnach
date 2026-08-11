@@ -1,27 +1,27 @@
 gametitle=Bloody Roar 4 SLES-51877
-//Player 1 Unlimited Health
+[Player 1 Unlimited Health]
 patch=1,EE,200C2020,extended,AE4604BC
 patch=1,EE,200C2024,extended,AE4604C0
 
-//Player 2 No Health
+[Player 2 No Health]
 patch=1,EE,200C203C,extended,AE4004BC
 patch=1,EE,200C2040,extended,AE4004C0
 
-//unlock Kohryu The Ironmole
+[unlock Kohryu The Ironmole]
 patch=1,EE,20401458,extended,53746561
 
-//unlock Uranus The Chimera
+[unlock Uranus The Chimera]
 patch=1,EE,2040145C,extended,6C207468
 
-//unlock Shina The Leopard
+[unlock Shina The Leopard]
 patch=1,EE,20401460,extended,69732061
 
-//unlock Long The Tiger
+[unlock Long The Tiger]
 patch=1,EE,20401464,extended,63652062
 
-//unlock Ryoho The Dragon
+[unlock Ryoho The Dragon]
 patch=1,EE,20401468,extended,6F792021
 
-//max.DNA
+[max.DNA]
 patch=1,EE,2040148C,extended,05F5E0FF
 patch=1,EE,20401490,extended,05F5E0FF

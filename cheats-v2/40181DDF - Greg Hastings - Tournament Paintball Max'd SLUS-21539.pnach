@@ -1,15 +1,15 @@
 gametitle=Greg Hastings: Tournament Paintball Max'd SLUS-21539
-//Infinite Experience Points
+[Infinite Experience Points]
 patch=1,EE,21803830,extended,0000000A
 
-//Infinite Turbo
+[Infinite Turbo]
 patch=1,EE,218032C0,extended,3F800000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,21803280,extended,00000096
 
-//Infinite Refills
+[Infinite Refills]
 patch=1,EE,21803284,extended,00000009
 
-//Infinite Store Credits
+[Infinite Store Credits]
 patch=1,EE,21803834,extended,05F5E0FF

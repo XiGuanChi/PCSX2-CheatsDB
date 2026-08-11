@@ -1,25 +1,25 @@
 gametitle=Need for Speed - Undercover SLUS-21801
-//Infinite Money
+[Infinite Money]
 patch=1,EE,200A0018,extended,3C0205F5
 patch=1,EE,200A001C,extended,3442E0FF
 patch=1,EE,200A0020,extended,AC22004C
 
-//High Rank
+[High Rank]
 patch=1,EE,200A0018,extended,3C0205F5
 patch=1,EE,200A001C,extended,3442E0FF
 patch=1,EE,200A0024,extended,AC220050
 
-//Infinite NOS Usage
+[Infinite NOS Usage]
 patch=1,EE,20416178,extended,00000000
 
-//Freeze Timers
+[Freeze Timers]
 patch=1,EE,20459B2C,extended,00000000
 
-//Infinite Speedbreaker
+[Infinite Speedbreaker]
 patch=1,EE,2045B6F8,extended,00000000
 
-//Open All Parts/Cars/Races/Challenges**not saveable
+[Open All Parts/Cars/Races/Challenges**not saveable]
 patch=1,EE,00690594,extended,00000001
 
-//Idiot Racer AI
+[Idiot Racer AI]
 patch=0,EE,20148E7C,extended,1000000D

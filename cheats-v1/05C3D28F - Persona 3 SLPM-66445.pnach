@@ -1,17 +1,17 @@
-//Cheats/Max Money 9999999 yen
+[Cheats/Max Money 9999999 yen]
 patch=1,EE,208124E8,extended,0098967F
 
-//Cheats/Quantity When Buying And Selling Iitems 99
+[Cheats/Quantity When Buying And Selling Iitems 99]
 patch=1,EE,2016ECC8,extended,00000000
 
-//Cheats/Main Character Max Academic Ability
+[Cheats/Main Character Max Academic Ability]
 patch=1,EE,1080E06C,extended,00000104
 
-//Cheats/Main Character Max Charm
+[Cheats/Main Character Max Charm]
 patch=1,EE,1080E06E,extended,00000050
 
-//Cheats/Main Character Max Courage
+[Cheats/Main Character Max Courage]
 patch=1,EE,1080E070,extended,00000050
 
-//Cheats/Debug Menu Enable When the cutscene is playing, or in New Game, press R2. This will take you to the debug menu. Pressing Triangle while in this menu will send you to the cutscene editor window. Pressing Circle will exit out of an option.
+[Cheats/Debug Menu Enable When the cutscene is playing, or in New Game, press R2. This will take you to the debug menu. Pressing Triangle while in this menu will send you to the cutscene editor window. Pressing Circle will exit out of an option.]
 patch=1,EE,2035A184,extended,00000000

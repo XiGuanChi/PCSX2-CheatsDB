@@ -1,13 +1,13 @@
 gametitle=Sonic Riders - Zero Gravity SLES-54915
-//Max Rings After Getting Some
+[Max Rings After Getting Some]
 patch=1,EE,2035C4EC,extended,3C05000F
 patch=1,EE,2035C4F8,extended,34A5423F
 
-//Infinite GP
+[Infinite GP]
 patch=1,EE,203A8B1C,extended,3C014300
 patch=1,EE,203A8B5C,extended,ACC10A7C
 
-//Freeze timers (L3 to Activate,R3 to Disable)
+[Freeze timers (L3 to Activate,R3 to Disable)]
 patch=1,EE,D06E9822,extended,0000FFFD
 patch=1,EE,202F1BB4,extended,10000063
 patch=1,EE,D06E9822,extended,0000FFFB

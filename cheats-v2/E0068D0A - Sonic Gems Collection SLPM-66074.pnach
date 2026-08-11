@@ -1,5 +1,5 @@
 gametitle=Sonic Gems Collection SLPM-66074
-//All extra appearance and all Museum acquisition
+[All extra appearance and all Museum acquisition]
 patch=1,EE,41FC5DB8,extended,00500001
 patch=1,EE,12121212,extended,00000000
 patch=1,EE,41FC5CCC,extended,000F0001
@@ -11,53 +11,53 @@ patch=1,EE,01FC5D74,extended,00000001
 patch=1,EE,01FC5D78,extended,00000001
 patch=1,EE,01FC5D7C,extended,00000001
 
-//Sonic CD
-//Palm Tree Panic Codes Inf Rings 
+[Sonic CD]
+[Palm Tree Panic Codes Inf Rings]
 patch=1,EE,21043F90,extended,000003E7
 
-//Inf Time 
+[Inf Time]
 patch=1,EE,2104A939,extended,00000000
 
-//0 UFO's Remaining (Instant Win UFO Mini-Game) 
+[0 UFO's Remaining (Instant Win UFO Mini-Game)]
 patch=1,EE,21020060,extended,00000000
 
-//Inf HP/Coins 
+[Inf HP/Coins]
 patch=1,EE,200A001C,extended,24020099
 patch=1,EE,200A0020,extended,AC2200A0
 
-//Inf Lives 
+[Inf Lives]
 patch=1,EE,200A0024,extended,24020003
 patch=1,EE,200A0028,extended,A0220058
 
-//Inf Time UFO Mini-Game 
+[Inf Time UFO Mini-Game]
 patch=1,EE,21020070,extended,000003E7
 
-//Sonic the Fighters  P1 Inf Barrier 
+[Sonic the Fighters  P1 Inf Barrier]
 patch=1,EE,0188C930,extended,00000005
 patch=1,EE,0188C934,extended,00000005
 
-//Sonic the Fighters  P1 Inf HP 
+[Sonic the Fighters  P1 Inf HP]
 patch=1,EE,0188BE6C,extended,0000008C
 patch=1,EE,0188C392,extended,0000008C
 
-//Unlock Bare Knuckle 
+[Unlock Bare Knuckle]
 patch=1,EE,01FC5D74,extended,00000001
 
-//Unlock Bare Knuckle II 
+[Unlock Bare Knuckle II]
 patch=1,EE,01FC5D78,extended,00000001
 
-//Unlock Bare Knuckle III 
+[Unlock Bare Knuckle III]
 patch=1,EE,01FC5D7C,extended,00000001
 
-//Unlock Bonanza Bros.
+[Unlock Bonanza Bros.]
 patch=1,EE,01FC5D70,extended,00000001
 
-//Unlock Vectorman
+[Unlock Vectorman]
 patch=1,EE,01FC5D68,extended,00000001
 
-//Unlock Vectorman 2 
+[Unlock Vectorman 2]
 patch=1,EE,01FC5D6C,extended,00000001
 
 
-//Enable English Mode 
+[Enable English Mode]
 patch=1,EE,20103AA0,extended,24020001

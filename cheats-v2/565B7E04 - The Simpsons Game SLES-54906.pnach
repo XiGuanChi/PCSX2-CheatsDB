@@ -1,8 +1,8 @@
 gametitle=The Simpsons Game SLES-54906
-//Infinite Energy spanish
+[Infinite Energy spanish]
 patch=1,EE,2A6BE5B3,extended,42C80000
 
-//Final battle with God - infinite life
+[Final battle with God - infinite life]
 patch=1,EE,2017D3D0,extended,08028014
 patch=1,EE,200A0050,extended,8CE50024
 patch=1,EE,200A0054,extended,3AA10035
@@ -12,14 +12,14 @@ patch=1,EE,200A0060,extended,0805F4F6
 patch=1,EE,200A0064,extended,00000000
 patch=1,EE,200A0068,extended,0805F4F9
 
-//Max sling ammunition using 1 unit b
+[Max sling ammunition using 1 unit b]
 patch=1,EE,202AB524,extended,240200FF
 
-//Medal of Homer - take 1 flag to complete the goal 
+[Medal of Homer - take 1 flag to complete the goal]
 patch=1,EE,D03D87E4,extended,0000000D
 patch=1,EE,20F73914,extended,00000013
 
-//Powers always at max 
+[Powers always at max]
 patch=1,EE,20296E40,extended,08028005
 patch=1,EE,200A0014,extended,FFBF0000
 patch=1,EE,200A0018,extended,3C1B437A
@@ -27,10 +27,10 @@ patch=1,EE,200A001C,extended,449B0000
 patch=1,EE,200A0020,extended,E4A000E4
 patch=1,EE,200A0024,extended,080A5B92
 
-//Shield always active 
+[Shield always active]
 patch=1,EE,2029C654,extended,00000000
 patch=1,EE,2029C658,extended,3C1B4120
 patch=1,EE,2029C65C,extended,449B0000
 
-//Unlock all levels 
+[Unlock all levels]
 patch=1,EE,202E9710,extended,A380B5F9

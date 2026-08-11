@@ -1,23 +1,23 @@
-//Cheats/Time limit 99
+[Cheats/Time limit 99]
 patch=1,EE,206ED900,extended,000099FF
 
-//Cheats/Stage select fully open
+[Cheats/Stage select fully open]
 patch=1,EE,1105CFB0,extended,00000106
 
-//Cheats/1P Infinite lives
+[Cheats/1P Infinite lives]
 patch=1,EE,006F86F9,extended,0000000A
 
-//Cheats/1P 99 bombts
+[Cheats/1P 99 bombts]
 patch=1,EE,0105BB27,extended,00000063
 
-//Cheats/1P Invincible
+[Cheats/1P Invincible]
 patch=1,EE,006F8231,extended,00000001
 
-//Cheats/2P Infinite lives
+[Cheats/2P Infinite lives]
 patch=1,EE,006F85C9,extended,0000000A
 
-//Cheats/2P 99 bombs
+[Cheats/2P 99 bombs]
 patch=1,EE,0105BB17,extended,00000063
 
-//Cheats/2P Invincible
+[Cheats/2P Invincible]
 patch=1,EE,006F8101,extended,00000001

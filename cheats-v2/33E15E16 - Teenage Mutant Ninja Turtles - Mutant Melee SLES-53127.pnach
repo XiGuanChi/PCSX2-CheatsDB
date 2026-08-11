@@ -1,6 +1,6 @@
 gametitle=Teenage Mutant Ninja Turtles - Mutant Melee SLES-53127
-//Player 1 Infinite Health
+[Player 1 Infinite Health]
 patch=1,EE,2178E300,extended,000001C2
 
-//Max Tokens
+[Max Tokens]
 patch=1,EE,2044BD34,extended,0098967F

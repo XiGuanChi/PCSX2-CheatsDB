@@ -1,17 +1,17 @@
-//Cheats/Quick Money Gain P1
+[Cheats/Quick Money Gain P1]
 patch=1,EE,1093C660,extended,0000FFFF
 
-//Cheats/Max Money P1
+[Cheats/Max Money P1]
 patch=1,EE,2093C660,extended,05F5E0FF
 
-//Cheats/Profile 1 Quick Money Gain
+[Cheats/Profile 1 Quick Money Gain]
 patch=1,EE,109150A4,extended,0000FFFF
 
-//Cheats/Profile 1 Max Money
+[Cheats/Profile 1 Max Money]
 patch=1,EE,209150A4,extended,05F5E0FF
 
-//Cheats/Profile 1 Max Hands Won
+[Cheats/Profile 1 Max Hands Won]
 patch=1,EE,209150C0,extended,0098967F
 
-//Cheats/Profile 1 Max Showdowns Won
+[Cheats/Profile 1 Max Showdowns Won]
 patch=1,EE,209150C0,extended,0098967F

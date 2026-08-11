@@ -1,27 +1,27 @@
 gametitle=Katekyoo Hitman Reborn! Dream Hyper Battle! SLPS-25806
-//1P life gauge maximum
+[1P life gauge maximum]
 patch=1,EE,200FF008,extended,8E210008
 patch=1,EE,200FF00C,extended,AE210000
 
-//1P guard gauge maximum
+[1P guard gauge maximum]
 patch=1,EE,200FF018,extended,8E210018
 patch=1,EE,200FF01C,extended,AE210014
 
-//2P: life gauge 0
+[2P: life gauge 0]
 patch=1,EE,200FF058,extended,AE200000
 
 
-//2P life gauge 0 SELECT button
+[2P life gauge 0 SELECT button]
 patch=1,EE,200FF058,extended,00000000
 patch=1,EE,D0290B02,extended,0000FFFE
 patch=1,EE,200FF058,extended,AE200000
 
-//Mafia level 20 (reflect and see each character enters the Mafia level view)
+[Mafia level 20 (reflect and see each character enters the Mafia level view)]
 patch=1,EE,20186BD8,extended,3C050027
 patch=1,EE,20186BDC,extended,C4A11154
 patch=1,EE,20186BF0,extended,E4810000
 
-//Family confidence up to and trust degree view (reflect and see the reliability of each character enters the Mafia level view)
+[Family confidence up to and trust degree view (reflect and see the reliability of each character enters the Mafia level view)]
 patch=1,EE,2013658C,extended,3C0142C8
 patch=1,EE,20136590,extended,AC410014
 patch=1,EE,20136594,extended,24010064

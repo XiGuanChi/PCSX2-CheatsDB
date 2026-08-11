@@ -1,5 +1,5 @@
 gametitle=3LDK: Shiawase ni Narouyo SLPM-65607
-//Bonus fully open
+[Bonus fully open]
 patch=1,EE,401703C8,extended,00070001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,401705C0,extended,00060001

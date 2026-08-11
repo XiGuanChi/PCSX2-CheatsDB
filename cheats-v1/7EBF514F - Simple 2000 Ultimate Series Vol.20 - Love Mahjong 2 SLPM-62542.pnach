@@ -1,13 +1,13 @@
-//Cheats/Have 99000000 in shop
+[Cheats/Have 99000000 in shop]
 patch=1,EE,217402C4,extended,05E69EC0
 
-//Cheats/Player has 99999 points in mahjong
+[Cheats/Player has 99999 points in mahjong]
 patch=1,EE,21A03798,extended,0001869F
 
-//Cheats/Opponent has 0 points
+[Cheats/Opponent has 0 points]
 patch=1,EE,21A02FF8,extended,00000000
 
-//Cheats/Max Favorability Futabi Ribo press SELECT+L1
+[Cheats/Max Favorability Futabi Ribo press SELECT+L1]
 patch=1,EE,D06BD6E8,extended,00000103
 patch=1,EE,11740350,extended,00000063
 
@@ -15,17 +15,17 @@ patch=1,EE,11740350,extended,00000063
 patch=1,EE,D06BD6E8,extended,00000108
 patch=1,EE,11740354,extended,00000063
 
-//Cheats/Max Favorability Haruka Kisaragi press SELECT+L1+R1
+[Cheats/Max Favorability Haruka Kisaragi press SELECT+L1+R1]
 patch=1,EE,D06BD6E8,extended,0000010C
 patch=1,EE,11740358,extended,00000063
 
-//Cheats/All stamps acquired press SELECT+L2+R2
+[Cheats/All stamps acquired press SELECT+L2+R2]
 patch=1,EE,D06BD6E8,extended,00000103
 patch=1,EE,1174035C,extended,0000000F
 
-//Cheats/All Items Possession
+[Cheats/All Items Possession]
 patch=1,EE,4174025C,extended,00180001
 patch=1,EE,00000063,extended,00000000
 
-//Cheats/Full Bonus on the title screen, items, CP Max
+[Cheats/Full Bonus on the title screen, items, CP Max]
 patch=1,EE,20105064,extended,00000000

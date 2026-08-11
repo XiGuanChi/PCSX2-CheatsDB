@@ -1,25 +1,25 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,2031D59C,extended,00000000
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2031D3F8,extended,00000000
 
-//Cheats/Galaxian Maze Infinite Lives
+[Cheats/Galaxian Maze Infinite Lives]
 patch=1,EE,202DC770,extended,00000000
 
-//Cheats/Pac-Man Arcade Infinite Lives
+[Cheats/Pac-Man Arcade Infinite Lives]
 patch=1,EE,202D4120,extended,00000000
 
-//Cheats/Unlock All Collection Cards
+[Cheats/Unlock All Collection Cards]
 patch=1,EE,41D98571,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,41D98598,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Maze Levels
+[Cheats/Unlock All Maze Levels]
 patch=1,EE,42A03764,extended,5CF2526D
 patch=1,EE,01D75857,extended,92B8FA10
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,21D98584,extended,FFFFFFFF
 patch=1,EE,21D985AC,extended,FFFFFFFF

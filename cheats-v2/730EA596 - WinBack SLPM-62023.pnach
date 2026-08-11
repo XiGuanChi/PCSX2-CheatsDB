@@ -1,17 +1,17 @@
 gametitle=WinBack SLPM-62023
-//Infinite Health
+[Infinite Health]
 patch=1,EE,002ACC87,extended,00000064
 
-//Auto reload Machine gun
+[Auto reload Machine gun]
 patch=1,EE,002ACC6B,extended,00000063
 
-//Shotgun
+[Shotgun]
 patch=1,EE,002ACC7F,extended,00000063
 
-//Hand gun
+[Hand gun]
 patch=1,EE,002ACC83,extended,00000063
 
-//Hidden mode & all characters for VS can be selected
+[Hidden mode & all characters for VS can be selected]
 patch=1,EE,203A894C,extended,FFFFFFFF
 patch=1,EE,003A8950,extended,00000001
 

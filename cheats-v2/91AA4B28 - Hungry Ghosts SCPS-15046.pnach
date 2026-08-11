@@ -1,25 +1,25 @@
 gametitle=Hungry Ghosts SCPS-15046
-//Vitality
+[Vitality]
 patch=1,EE,103FA1D0,extended,000000A0
 patch=1,EE,103FA1D4,extended,000000A0
 
-//Spirit
+[Spirit]
 patch=1,EE,103FA1D8,extended,00000064
 patch=1,EE,103FA1DC,extended,00000064
 
-//Time 00:00:00
+[Time 00:00:00]
 patch=1,EE,203FA190,extended,00000000
 
-//Arrow Crossbow
+[Arrow Crossbow]
 patch=1,EE,1046D948,extended,00000063
 
-//Fragments of the soul
+[Fragments of the soul]
 patch=1,EE,1046D893,extended,000000FF
 
-//NEVER CURSED After pressing the L1 + R1 button
+[NEVER CURSED After pressing the L1 + R1 button]
 patch=1,EE,D03EAF00,extended,0000000C
 patch=1,EE,1046D894,extended,00000000
 
-//NEVER POSSESSED  After pressing the L1 + R1 button
+[NEVER POSSESSED  After pressing the L1 + R1 button]
 patch=1,EE,D03EAF00,extended,0000000C
 patch=1,EE,1046D898,extended,00000000

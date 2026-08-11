@@ -1,16 +1,16 @@
 gametitle=Mace Griffin - Bounty Hunter SLUS-20505
-//Access All Levels
+[Access All Levels]
 patch=1,EE,0052E626,extended,00000040
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2020FD7C,extended,C4800200
 patch=1,EE,2020FD88,extended,E48001F4
 
-//Infinite Health (Ship)
+[Infinite Health (Ship)]
 patch=1,EE,201DEC90,extended,C4800200
 patch=1,EE,201DEC94,extended,E48001F4
 
-//Have Extra Weapons
+[Have Extra Weapons]
 patch=1,EE,2013359C,extended,00000001
 patch=1,EE,20217D58,extended,24020001
 patch=1,EE,20217D5C,extended,A0620261

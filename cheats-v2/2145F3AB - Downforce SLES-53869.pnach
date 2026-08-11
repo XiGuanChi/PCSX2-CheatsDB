@@ -1,18 +1,18 @@
 gametitle=Downforce SLES-53869
-//Unlock All Championships
+[Unlock All Championships]
 patch=1,EE,103091DE,extended,00000002
 
-//Win All Beginner Races
+[Win All Beginner Races]
 patch=1,EE,203091F0,extended,00000000
 patch=1,EE,203091F4,extended,00000000
 patch=1,EE,203091F8,extended,00000000
 
-//Win All Expert Races 20309210 00000000
+[Win All Expert Races 20309210 00000000]
 patch=1,EE,20309214,extended,00000000
 patch=1,EE,20309218,extended,00000000
 patch=1,EE,2030921C,extended,00000000
 
-//Win All Intermediate Races
+[Win All Intermediate Races]
 patch=1,EE,20309200,extended,00000000
 patch=1,EE,20309204,extended,00000000
 patch=1,EE,20309208,extended,00000000

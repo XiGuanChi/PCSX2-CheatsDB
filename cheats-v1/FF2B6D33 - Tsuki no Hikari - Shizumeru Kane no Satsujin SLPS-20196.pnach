@@ -1,24 +1,24 @@
-//Cheats/Play Time 0 Press L3+R3
+[Cheats/Play Time 0 Press L3+R3]
 patch=1,EE,D014E242,extended,0000FFF9
 patch=1,EE,20141D50,extended,00000000
 
-//Cheats/Unlock Wonder Button Number After Use 7
+[Cheats/Unlock Wonder Button Number After Use 7]
 patch=1,EE,E00227E0,extended,0015D838
 patch=1,EE,2015D850,extended,20030038
 patch=1,EE,2015D858,extended,70031FC8
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,201427C8,extended,FFFFFFFF
 patch=1,EE,101427CC,extended,0000FFFF
 
-//Cheats/Unlock All Extras
+[Cheats/Unlock All Extras]
 patch=1,EE,201427D8,extended,FFFFFFFF
 patch=1,EE,201427DC,extended,FFFFFFFF
 patch=1,EE,201427E0,extended,FFFFFFFF
 patch=1,EE,201427C8,extended,FFFFFFFF
 patch=1,EE,201427CC,extended,FFFFFFFF
 
-//Cheats/Unlock Enable Debug Menu Story, Movie, Sound And End Roll Check
+[Cheats/Unlock Enable Debug Menu Story, Movie, Sound And End Roll Check]
 patch=1,EE,D014E242,extended,0000D7FF
 patch=1,EE,1010020C,extended,00000000
 patch=1,EE,D014E242,extended,0000FFFF

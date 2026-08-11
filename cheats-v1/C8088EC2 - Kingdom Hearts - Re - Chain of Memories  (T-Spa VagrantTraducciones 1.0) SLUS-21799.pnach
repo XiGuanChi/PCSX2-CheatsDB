@@ -1,19 +1,19 @@
-//Cheats/Infinite Moogle Points
+[Cheats/Infinite Moogle Points]
 patch=1,EE,2060D2B8,extended,0001869F
 
-//Cheats/Sora Quick Level Up
+[Cheats/Sora Quick Level Up]
 patch=1,EE,1060D2B0,extended,0000FFFF
 
-//Cheats/Sora Refill HP After Battle
+[Cheats/Sora Refill HP After Battle]
 patch=1,EE,1060D298,extended,0000270F
 
-//Cheats/Sora Max HP
+[Cheats/Sora Max HP]
 patch=1,EE,1060D29C,extended,0000270F
 
-//Cheats/Sora Max CP
+[Cheats/Sora Max CP]
 patch=1,EE,1060D2A4,extended,0000270F
 
-//Cheats/Activator In Battle Sora and Riku
+[Cheats/Activator In Battle Sora and Riku]
 patch=1,EE,200A0100,extended,3C010034
 patch=1,EE,200A0104,extended,8C21C720
 patch=1,EE,200A0108,extended,1020001A
@@ -23,30 +23,30 @@ patch=1,EE,200A0124,extended,3442C9FF
 patch=1,EE,200A0178,extended,03E00008
 patch=1,EE,20314874,extended,08028040
 
-//Cheats/Max Hp In Battle Sora and Riku
+[Cheats/Max Hp In Battle Sora and Riku]
 patch=1,EE,200A0114,extended,AC220304
 
-//Cheats/Infinite Hp In Battle Sora and Riku
+[Cheats/Infinite Hp In Battle Sora and Riku]
 patch=1,EE,200A0118,extended,8C220304
 patch=1,EE,200A011C,extended,AC220300
 
-//Cheats/Max Infinite Hp In Battle Sora and Riku
+[Cheats/Max Infinite Hp In Battle Sora and Riku]
 patch=1,EE,200A0114,extended,AC220304
 patch=1,EE,200A0118,extended,8C220304
 patch=1,EE,200A011C,extended,AC220300
 
-//Cheats/Max CP 999999999 In Battle Sora and Riku
+[Cheats/Max CP 999999999 In Battle Sora and Riku]
 patch=1,EE,200A0128,extended,AC22030C
 
-//Cheats/Max Attack 9999999 In Battle Sora and Riku
+[Cheats/Max Attack 9999999 In Battle Sora and Riku]
 patch=1,EE,200A012C,extended,3C0205F5
 patch=1,EE,200A0130,extended,3442E0FF
 patch=1,EE,200A0134,extended,AC220310
 
-//Cheats/9x Key to Truth Map Cards
+[Cheats/9x Key to Truth Map Cards]
 patch=1,EE,0060DB8C,extended,00000009
 
-//Cheats/Unlock Make All Worlds Available
+[Cheats/Unlock Make All Worlds Available]
 patch=1,EE,2060DB68,extended,04030201
 patch=1,EE,2060DB6C,extended,08070605
 patch=1,EE,2060DB70,extended,0C0B0A09

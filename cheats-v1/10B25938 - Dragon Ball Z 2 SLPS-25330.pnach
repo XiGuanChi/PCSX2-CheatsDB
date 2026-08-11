@@ -1,45 +1,45 @@
-//Cheats/Max Gold
+[Cheats/Max Gold]
 patch=1,EE,206a6250,extended,05f5e0ff
 
-//Cheats/Infinite Health player 1 left
+[Cheats/Infinite Health player 1 left]
 patch=1,EE,203f4b84,extended,453b8000
 
-//Cheats/No power player 1 left
+[Cheats/No power player 1 left]
 patch=1,EE,203f4b84,extended,3f800000
 
-//Cheats/Infinity Ki Player 1 left
+[Cheats/Infinity Ki Player 1 left]
 patch=1,EE,203f4b8c,extended,442e8000
 
-//Cheats/Player 2 R2+SELECT physical strength 0
+[Cheats/Player 2 R2+SELECT physical strength 0]
 patch=1,EE,D06B7A42,extended,0000FDFE
 patch=1,EE,2040ACD4,extended,00000000
 
-//Cheats/Infinite Health player 2 right
+[Cheats/Infinite Health player 2 right]
 patch=1,EE,203fecd4,extended,453b8000
 
-//Cheats/No power player 2 right
+[Cheats/No power player 2 right]
 patch=1,EE,203fecd4,extended,3f800000
 
-//Cheats/Left Side L1+SELECT+UP Infinite Health L1+SELECT+DOWN 0 Health
+[Cheats/Left Side L1+SELECT+UP Infinite Health L1+SELECT+DOWN 0 Health]
 patch=1,EE,D06B784C,extended,00000411
 patch=1,EE,20400C84,extended,453B8000
 patch=1,EE,D06B784C,extended,00000441
 patch=1,EE,20400C84,extended,00000000
 
-//Cheats/Right Side L2+SELECT+UP Infinite Health L2+SELECT+DOWN 0 Health
+[Cheats/Right Side L2+SELECT+UP Infinite Health L2+SELECT+DOWN 0 Health]
 patch=1,EE,D06B784C,extended,00000111
 patch=1,EE,2040ACD4,extended,453B8000
 patch=1,EE,D06B784C,extended,00000141
 patch=1,EE,2040ACD4,extended,00000000
 
-//Cheats/Dragon World Max Zeni 99,999,900
+[Cheats/Dragon World Max Zeni 99,999,900]
 patch=1,EE,206AB638,extended,05F5E09C
 
-//Cheats/Dragon World Son Goku Infinite Health 5 life points
+[Cheats/Dragon World Son Goku Infinite Health 5 life points]
 patch=1,EE,006B3705,extended,00000005
 
-//Cheats/Dragon World Attack Power 999
+[Cheats/Dragon World Attack Power 999]
 patch=1,EE,106B3714,extended,000003E7
 
-//Cheats/Dragon World Defense Power 999
+[Cheats/Dragon World Defense Power 999]
 patch=1,EE,106B3716,extended,000003E7

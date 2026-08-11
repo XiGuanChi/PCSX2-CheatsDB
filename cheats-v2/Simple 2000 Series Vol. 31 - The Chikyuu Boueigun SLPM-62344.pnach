@@ -1,8 +1,8 @@
 gametitle=Simple 2000 Series Vol. 31 - The Chikyuu Boueigun SLPM-62344
-//All rides appearance* It does not appear on stage 18.There are side effects such as helicopters overlapping, rides falling from the sky.when entering battle mode with this code  freezes.
+[All rides appearance* It does not appear on stage 18.There are side effects such as helicopters overlapping, rides falling from the sky.when entering battle mode with this code  freezes.]
 patch=1,EE,201EC0D8,extended,1020FCD9
 patch=1,EE,201EB550,extended,0C07B061
 
-//air emergency avoidance
+[air emergency avoidance]
 patch=1,EE,2018FFB0,extended,00000000
 patch=1,EE,2018FFA4,extended,00000000

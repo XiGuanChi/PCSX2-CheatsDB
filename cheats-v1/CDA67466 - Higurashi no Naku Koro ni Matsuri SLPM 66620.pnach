@@ -1,26 +1,26 @@
-//Cheats/Unlock All CG Viewing
+[Cheats/Unlock All CG Viewing]
 patch=1,EE,2025D060,extended,FFFFFFFF
 patch=1,EE,2025D064,extended,FFFFFFFF
 patch=1,EE,2025D068,extended,FFFFFFFF
 
-//Cheats/Unlock All Music Viewing
+[Cheats/Unlock All Music Viewing]
 patch=1,EE,2025D0B8,extended,FFFFFFFF
 patch=1,EE,2025D0BC,extended,FFFFFFFF
 patch=1,EE,2025D0C0,extended,FFFFFFFF
 
-//Cheats/Unlock All Tips
+[Cheats/Unlock All Tips]
 patch=1,EE,2025A40C,extended,FFFFFFFF
 patch=1,EE,2025A410,extended,FFFFFFFF 
 patch=1,EE,2025A414,extended,FFFFFFFF 
 patch=1,EE,2025A418,extended,FFFFFFFF 
 patch=1,EE,2025A41C,extended,FFFFFFFF 
 
-//Cheats/Unlock All Scenario Chart
+[Cheats/Unlock All Scenario Chart]
 patch=1,EE,2025A43C,extended,FFFFFFFF 
 patch=1,EE,2025A440,extended,FFFFFFFF 
 patch=1,EE,2025A444,extended,FFFFFFFF 
 patch=1,EE,2025A448,extended,FFFFFFFF 
 patch=1,EE,2025A44C,extended,FFFFFFFF
 
-//Cheats/Music Mode = Test Menu Script Test Allows you to view events. Test	Unknown Movie Test Plays the opening movie. Title Sends you to the title screen.
+[Cheats/Music Mode = Test Menu Script Test Allows you to view events. Test	Unknown Movie Test Plays the opening movie. Title Sends you to the title screen.]
 patch=1,EE,1011462C,extended,00003088

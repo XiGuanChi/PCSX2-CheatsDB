@@ -1,8 +1,8 @@
 gametitle=Atelier Iris 3 - Grand Phantasm SLUS-21564
-//Max/Inf Money 
+[Max/Inf Money]
 patch=1,EE,208F6AB8,extended,000F423F
 
-//infinite Health (Battle)
+[infinite Health (Battle)]
 patch=1,EE,2020b6b0,extended,08028000
 patch=1,EE,2020b6b4,extended,00000000
 patch=1,EE,200a0000,extended,85e5002a
@@ -16,19 +16,19 @@ patch=1,EE,200a001c,extended,00000000
 patch=1,EE,200a0020,extended,08082dad
 patch=1,EE,200a0024,extended,00ce3021
 
-//Infinite Time (In Missions) 
+[Infinite Time (In Missions)]
 patch=1,EE,201FE25C,extended,00000000
 
-//Alternate Infinite Time (In Missions) 
+[Alternate Infinite Time (In Missions)]
 patch=1,EE,2090EFE0,extended,00005000
 
-//Complete Monster List 
+[Complete Monster List]
 patch=1,EE,10C00AA6,extended,00000707
 patch=1,EE,40C00AA8,extended,00620001
 patch=1,EE,07070707,extended,00000000
 patch=1,EE,10C00B30,extended,00000707
 
-//Complete Blades List (Also Gives Skills) 
+[Complete Blades List (Also Gives Skills)]
 patch=1,EE,10C00B32,extended,00000707
 patch=1,EE,20C00B34,extended,07070707
 patch=1,EE,20C00B38,extended,07070707

@@ -1,22 +1,22 @@
 gametitle=SOCOM II - U.S. Navy SEALS SCES-51904
-//60 Hertz
+[60 Hertz]
 patch=1,EE,201C91BC,extended,24060002
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20196C44,extended,3C01005C
 patch=1,EE,20196C48,extended,AC207C40
 
-//Never Fail Missions
+[Never Fail Missions]
 patch=1,EE,20196C4C,extended,34022402
 patch=1,EE,20196C50,extended,3C010029
 patch=1,EE,20196C54,extended,A4229052
 
-//Disable AI
+[Disable AI]
 patch=1,EE,20196C38,extended,24021000
 patch=1,EE,20196C3C,extended,3C010061
 patch=1,EE,20196C40,extended,A42245DE
 
-//Protect From Falls
+[Protect From Falls]
 patch=1,EE,20196C20,extended,3C027F00
 patch=1,EE,20196C24,extended,3C010045
 patch=1,EE,20196C28,extended,AC2224F8

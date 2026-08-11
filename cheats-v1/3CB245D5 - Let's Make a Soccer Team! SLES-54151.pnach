@@ -1,9 +1,9 @@
-//Cheats/Money after first Game 9,999,999,999
+[Cheats/Money after first Game 9,999,999,999]
 patch=1,EE,20B3B990,extended,FFFFFFFF
 patch=1,EE,20B3B994,extended,00000099
 patch=1,EE,20B3B998,extended,FFFFFFFF
 patch=1,EE,20B3B99C,extended,00000099
 
-//Cheats/Player 1 score 3 Goals
+[Cheats/Player 1 score 3 Goals]
 patch=1,EE,01c127b8,extended,00000003
 

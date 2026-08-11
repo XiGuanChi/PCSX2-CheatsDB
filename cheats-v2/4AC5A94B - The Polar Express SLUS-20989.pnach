@@ -1,8 +1,8 @@
 gametitle=The Polar Express SLUS-20989
-//Infinite Continues
+[Infinite Continues]
 patch=1,EE,2014FA78,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,24020005
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AC820004

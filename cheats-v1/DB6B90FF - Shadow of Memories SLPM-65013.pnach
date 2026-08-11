@@ -1,11 +1,11 @@
-//Cheats/Infinite Energy Units
+[Cheats/Infinite Energy Units]
 patch=1,EE,0035D350,extended,0000000A
 patch=1,EE,0035DAB2,extended,0000000A
 
-//Cheats/Unlock Status Menu
+[Cheats/Unlock Status Menu]
 patch=1,EE,1035C560,extended,00001000
 patch=1,EE,1035C564,extended,00001000
 
-//Cheats/Unlock All Extra Bonus
+[Cheats/Unlock All Extra Bonus]
 patch=1,EE,40365B78,extended,00100001
 patch=1,EE,FFFFFFFF,extended,00000000

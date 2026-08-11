@@ -1,13 +1,13 @@
 gametitle=Disney/Pixar Cars - Mater-National Championship PAL-E SLES-55025 ED999A64
 
-//50/60 FPS
+[50/60 FPS]
 author=GamingDragon93
 description=Might need EE Overclock.
 patch=1,EE,201B8AE4,extended,24040001
 patch=1,EE,E0010001,extended,004B77B8
 patch=1,EE,201B8AE4,extended,24040002
 
-//NTSC Mode
+[NTSC Mode]
 author=GamingDragon93
 description=NTSC Mode at start. FMVs broken.
 patch=1,EE,00219390,word,1400001B //1000001B

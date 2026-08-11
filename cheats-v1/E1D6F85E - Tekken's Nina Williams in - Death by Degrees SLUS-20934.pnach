@@ -1,42 +1,42 @@
-//Cheats/Max HP
+[Cheats/Max HP]
 patch=1,EE,20ED691C,extended,00000F00
 
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,20ED6920,extended,00000F00
 
-//Cheats/Max Focus
+[Cheats/Max Focus]
 patch=1,EE,20ED6924,extended,00000B40
 
-//Cheats/Infinite Focus
+[Cheats/Infinite Focus]
 patch=1,EE,20ED6928,extended,00000B40
 
-//Cheats/Max Air
+[Cheats/Max Air]
 patch=1,EE,20ED692C,extended,00000B40
 
-//Cheats/Infinite Air
+[Cheats/Infinite Air]
 patch=1,EE,20ED6930,extended,00000B40
 
-//Cheats/Infinite Skill Points
+[Cheats/Infinite Skill Points]
 patch=1,EE,20ED6940,extended,0000270F
 
-//Cheats/Unlock All Finger prints
+[Cheats/Unlock All Finger prints]
 patch=1,EE,20ED69EC,extended,FFFFFFFF
 patch=1,EE,00ED69F0,extended,000000FF
 
-//Cheats/Sniper Mode Infinite Ammo
+[Cheats/Sniper Mode Infinite Ammo]
 patch=1,EE,20F67CE0,extended,0000000A
 
-//Cheats/Sniper Mode Infinite Health
+[Cheats/Sniper Mode Infinite Health]
 patch=1,EE,20F67C58,extended,00000F00
 
-//Cheats/Sniper Mode Infinite Health Frank
+[Cheats/Sniper Mode Infinite Health Frank]
 patch=1,EE,20F69224,extended,00000064
 
-//Cheats/Unlock All Movies Save & turn off
+[Cheats/Unlock All Movies Save & turn off]
 patch=1,EE,105AD3A4,extended,0000FFFF
 
-//Cheats/Unlock All Pictures Save & turn off
+[Cheats/Unlock All Pictures Save & turn off]
 patch=1,EE,205AD3A8,extended,FFFFFFFF
 
-//Cheats/Unlock All Main Menu Items Save & turn off
+[Cheats/Unlock All Main Menu Items Save & turn off]
 patch=1,EE,105AD3AC,extended,0000FFFF

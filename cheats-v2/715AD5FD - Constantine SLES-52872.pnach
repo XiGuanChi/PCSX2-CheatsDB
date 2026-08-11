@@ -1,16 +1,16 @@
 gametitle=Constantine SLES-52872
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200FFF10,extended,34A50020
 
-//Infinite Magic
+[Infinite Magic]
 patch=1,EE,20318A84,extended,00000000
 
-//Infinite Ammo/No Reloads
+[Infinite Ammo/No Reloads]
 patch=1,EE,200FFF0C,extended,34A50010
 
-//have All Levels
+[have All Levels]
 patch=1,EE,202FA5DC,extended,24040011
 
-//All Bonus Material
+[All Bonus Material]
 patch=1,EE,40583A3B,extended,00ED0001
 patch=1,EE,00000001,extended,00000000

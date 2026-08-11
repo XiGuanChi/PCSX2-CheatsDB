@@ -1,8 +1,8 @@
 gametitle=Brothers in Arms - Meiyo no Daishou SLPM-66410
-//Fully hidden content cheat.
+[Fully hidden content cheat.]
 patch=1,EE,4064869C,extended,00560001
 patch=1,EE,00000001,extended,00000000
 
-//Life does not decrease
+[Life does not decrease]
 patch=1,EE,2055ED54,extended,24020064
 patch=1,EE,2055ED88,extended,AEA203FC

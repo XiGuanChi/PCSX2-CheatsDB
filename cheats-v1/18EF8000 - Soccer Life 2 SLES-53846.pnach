@@ -1,8 +1,8 @@
-//Cheats/Infinite Training Center Cash
+[Cheats/Infinite Training Center Cash]
 patch=1,EE,2053FC30,extended,1000FFFF
 
-//Cheats/Big Monthly Wage for Player Slot 1
+[Cheats/Big Monthly Wage for Player Slot 1]
 patch=1,EE,2068E19C,extended,1000FFFF
 
-//Cheats/No Agent Fee for Player Slot 1
+[Cheats/No Agent Fee for Player Slot 1]
 patch=1,EE,2084D118,extended,00000000

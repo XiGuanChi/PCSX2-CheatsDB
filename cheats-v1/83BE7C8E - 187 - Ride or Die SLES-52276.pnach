@@ -1,22 +1,22 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,203096A8,extended,3C0142FA
 patch=1,EE,203096CC,extended,44812000
 patch=1,EE,203096D8,extended,AC610320
 
-//Cheats/Infinite Boost
+[Cheats/Infinite Boost]
 patch=1,EE,201B5498,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,202EAED0,extended,00000000
 
-//Cheats/Bypass Ammo Check
+[Cheats/Bypass Ammo Check]
 patch=1,EE,202EABF8,extended,24020001
 
-//Cheats/Unlock All Races
+[Cheats/Unlock All Races]
 patch=1,EE,2048C224,extended,A05E0004
 patch=1,EE,2048C228,extended,00000000
 patch=1,EE,2048C230,extended,00000000
 
-//Cheats/Unlock All Cars
+[Cheats/Unlock All Cars]
 patch=1,EE,20464728,extended,24010001
 patch=1,EE,20464734,extended,A0410004

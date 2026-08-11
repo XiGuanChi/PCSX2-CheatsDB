@@ -1,16 +1,16 @@
 gametitle=Suika A.S+ Eternal Name - Sweet So Sweet SLPM-66787
-//Music appreciation / supplement / summer vacation / full closing"
+[Music appreciation / supplement / summer vacation / full closing"]
 patch=1,EE,20458A14,extended,01010101
 patch=1,EE,20458A18,extended,01010101
 patch=1,EE,20458A1C,extended,01010101
 patch=1,EE,10458A20,extended,00000101
 
-//CG full open
+[CG full open]
 patch=1,EE,20118484,extended,24020001
 patch=1,EE,20118488,extended,1000FF1D
 patch=1,EE,2011848C,extended,A1E200D8
 
-//Full opening when you browse and remember
+[Full opening when you browse and remember]
 patch=1,EE,200FF200,extended,08046040
 patch=1,EE,200FF204,extended,A1E20204
 patch=1,EE,20118468,extended,0803FC80

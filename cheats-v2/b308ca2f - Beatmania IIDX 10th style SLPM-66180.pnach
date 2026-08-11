@@ -1,14 +1,14 @@
 gametitle=Beatmania IIDX 10th style SLPM-66180
-//Play song PLAY COUNT 9999
+[Play song PLAY COUNT 9999]
 patch=1,EE,2017E944,extended,2403270F
 
-//Max Gauge
+[Max Gauge]
 patch=1,EE,201384BC,extended,24010000
 
-//Hidden song open
+[Hidden song open]
 patch=1,EE,21491800,extended,00FFFFFF
 
-//Gallery full opening
+[Gallery full opening]
 patch=1,EE,21491ACC,extended,FFFFFFFF
 patch=1,EE,21491AD0,extended,FFFFFFFF
 patch=1,EE,21491AE4,extended,000FFFFF

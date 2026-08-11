@@ -1,28 +1,28 @@
 gametitle=Driver - Parallel Lines SLUS-21271
-//Max Cash
+[Max Cash]
 patch=1,EE,206E11BC,extended,0098967F
 
-//Never Reload
+[Never Reload]
 patch=1,EE,20266580,extended,24420000
 
-//Infinite Nitro
+[Infinite Nitro]
 patch=1,EE,202E1B40,extended,00000000
 
-//All Vehicles Upgraded
+[All Vehicles Upgraded]
 patch=1,EE,406E1830,extended,00620042
 patch=1,EE,0000FFF3,extended,00000000
 
-//Enable Cheat Codes
-//Indestructible Cars
+[Enable Cheat Codes]
+[Indestructible Cars]
 patch=1,EE,006E093B,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,006E093C,extended,00000001
 
-//Infinite Nitro
+[Infinite Nitro]
 patch=1,EE,006E093D,extended,00000001
 
-//Invincibility
+[Invincibility]
 patch=1,EE,006E093E,extended,00000001
 
 

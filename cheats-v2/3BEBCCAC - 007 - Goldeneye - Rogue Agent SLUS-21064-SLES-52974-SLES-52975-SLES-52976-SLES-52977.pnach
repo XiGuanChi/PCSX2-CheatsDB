@@ -1,18 +1,18 @@
 gametitle=007 - Goldeneye - Rogue Agent SLUS-21064-SLES-52974-SLES-52975-SLES-52976-SLES-52977
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201B5760,extended,03E00008
 patch=1,EE,201B5764,extended,00000000
 
-//Infinite Armor
+[Infinite Armor]
 patch=1,EE,201B6B48,extended,03E00008
 patch=1,EE,201B6B4C,extended,00000000
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2069818C,extended,3F800000
 
-//Unlock All Missions
+[Unlock All Missions]
 patch=1,EE,20100044,extended,FFFFFFFF
 
-//All Unlocked Content
+[All Unlocked Content]
 patch=1,EE,40100FEC,extended,00040001
 patch=1,EE,02020202,extended,00000000

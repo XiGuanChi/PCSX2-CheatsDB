@@ -1,12 +1,12 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,202382B4,extended,3C013F80
 patch=1,EE,202382BC,extended,AC410DBC
 
-//Cheats/Max Dinaris After 1 Race
+[Cheats/Max Dinaris After 1 Race]
 patch=1,EE,0015CD03,extended,E1800000
 patch=1,EE,003D0726,extended,58B5ED75
 
-//Cheats/Most Challenges 1 Lap
+[Cheats/Most Challenges 1 Lap]
 patch=1,EE,202A8AA0,extended,00000001
 patch=1,EE,202A8AA4,extended,00000001
 patch=1,EE,202A8AA8,extended,00000001
@@ -28,36 +28,36 @@ patch=1,EE,202A8AE4,extended,00000001
 patch=1,EE,202A8AE8,extended,00000001
 patch=1,EE,202A8AEC,extended,00000001
 
-//Cheats/Never Crash
+[Cheats/Never Crash]
 patch=1,EE,201D0F84,extended,00000000
 patch=1,EE,201D0F80,extended,03E00008
 
-//Cheats/Always 1 Lap Race In Arcade Mode
+[Cheats/Always 1 Lap Race In Arcade Mode]
 patch=1,EE,202B073C,extended,00000001
 patch=1,EE,202B0738,extended,00000001
 patch=1,EE,202B0734,extended,00000001
 patch=1,EE,202B0730,extended,00000001
 
-//Cheats/Challenge Never Fails
+[Cheats/Challenge Never Fails]
 patch=1,EE,201EEC34,extended,00000000
 patch=1,EE,201EEC30,extended,03E00008
 
-//Cheats/Freeze Enemies
+[Cheats/Freeze Enemies]
 patch=1,EE,201DDF48,extended,00000000
 patch=1,EE,201DDF58,extended,3C034800
 
-//Cheats/Unlock All Chariots
+[Cheats/Unlock All Chariots]
 patch=1,EE,201CB350,extended,00000000
 
-//Cheats/Unlock All Drivers
+[Cheats/Unlock All Drivers]
 patch=1,EE,201CB1A0,extended,00000000
 
-//Cheats/Unlock All Horses
+[Cheats/Unlock All Horses]
 patch=1,EE,201CB500,extended,00000000
 
-//Cheats/Unlock All Tracks
+[Cheats/Unlock All Tracks]
 patch=1,EE,201CAD5C,extended,00000000
 patch=1,EE,201CACFC,extended,00000000
 
-//Cheats/Unlock All Warriors
+[Cheats/Unlock All Warriors]
 patch=1,EE,201CAFF0,extended,00000000

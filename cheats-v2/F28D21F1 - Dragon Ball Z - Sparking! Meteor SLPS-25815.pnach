@@ -1,5 +1,5 @@
 gametitle=Dragon Ball Z - Sparking! Meteor SLPS-25815
-//Unlock All Characteres / Stages / Music Gallery
+[Unlock All Characteres / Stages / Music Gallery]
 patch=1,EE,2077DA50,extended,FFFFFFFF
 patch=1,EE,2077DA54,extended,FFFFFFFF
 patch=1,EE,2077DA58,extended,FFFFFFFF
@@ -10,30 +10,30 @@ patch=1,EE,2077DA68,extended,FFFFFFFF
 patch=1,EE,2077DA6C,extended,FFFFFFFF
 patch=1,EE,2077DA70,extended,FFFFFFFF
 
-//Z Points 999999
+[Z Points 999999]
 patch=1,EE,2077FE68,extended,0098967F
 
-//Z Points up to max
+[Z Points up to max]
 patch=1,EE,202664D4,extended,00000000
 
-//1 Hit To Kill ( Dragon Story Only Stage 1 )
+[1 Hit To Kill ( Dragon Story Only Stage 1 )]
 patch=1,EE,219527C4,extended,00000001
 
-//Dragon Ball 7
+[Dragon Ball 7]
 patch=1,EE,0077CE48,extended,0000007F
 
-//Score 999999
+[Score 999999]
 patch=1,EE,20772FFC,extended,0098967F
 
-//All Z dirty items 100%
+[All Z dirty items 100%]
 patch=1,EE,4077FD08,extended,00260001
 patch=1,EE,01010101,extended,00000000
 
-//Unlock All Tournament Mode (code by touffu)
+[Unlock All Tournament Mode (code by touffu)]
 patch=1,EE,2077D848,extended,FFFFFFFF
 patch=1,EE,2077D84C,extended,FFFFFFFF
 
-//Must Be On
+[Must Be On]
 patch=1,EE,200FF000,extended,8F81A8A4
 patch=1,EE,200FF004,extended,24212000
 patch=1,EE,200FF008,extended,0041082B
@@ -42,21 +42,21 @@ patch=1,EE,200FF050,extended,03E00008
 patch=1,EE,200FF0A0,extended,03E00008
 patch=1,EE,201CE158,extended,0803FC00
 
-//1P Life infinite
+[1P Life infinite]
 patch=1,EE,200FF010,extended,3C010001
 patch=1,EE,200FF014,extended,342186A0
 patch=1,EE,200FF018,extended,AC410000
 patch=1,EE,200FF01C,extended,AC410004
 
-//1P sparking max
+[1P sparking max]
 patch=1,EE,200FF03C,extended,24017530
 patch=1,EE,200FF040,extended,AC41001C
 
-//1P power
+[1P power]
 patch=1,EE,200FF028,extended,3C010001
 patch=1,EE,200FF02C,extended,342186A0
 patch=1,EE,200FF030,extended,AC41000C
 
-//1P blatz
+[1P blatz]
 patch=1,EE,200FF034,extended,3C410008
 patch=1,EE,200FF038,extended,AC410014

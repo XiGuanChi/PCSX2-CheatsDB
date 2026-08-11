@@ -1,19 +1,19 @@
 gametitle=Musashi - Samurai Legend SLES-53521
-//Infinite Money
+[Infinite Money]
 patch=1,EE,20685D08,extended,4B18967F
 
-//Infinite/Max HP
+[Infinite/Max HP]
 patch=1,EE,20685CE8,extended,43960000
 patch=1,EE,20685CEC,extended,43960000
 
-//Infinite/Max MP
+[Infinite/Max MP]
 patch=1,EE,20685CF0,extended,43960000
 patch=1,EE,20685CF4,extended,43960000
 
-//Rescue List Completed
+[Rescue List Completed]
 patch=1,EE,20686840,extended,FFFFFFFF
 patch=1,EE,20686844,extended,0001FFFF
 
-//All Abilities, Artifacts And Swords
+[All Abilities, Artifacts And Swords]
 patch=1,EE,2068684C,extended,FFFFFFFF
 patch=1,EE,20686850,extended,FFFFFFFF

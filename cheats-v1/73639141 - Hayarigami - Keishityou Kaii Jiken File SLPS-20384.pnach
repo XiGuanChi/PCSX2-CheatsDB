@@ -1,12 +1,12 @@
-//Cheats/Infinite Courage Meter Points
+[Cheats/Infinite Courage Meter Points]
 patch=1,EE,20242228,extended,00000003
 
-//Cheats/Unlock All F.O.A.F. Database
+[Cheats/Unlock All F.O.A.F. Database]
 patch=1,EE,40241320,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10241338,extended,0000FFFF
 
-//Cheats/Unlock All Scenarios
+[Cheats/Unlock All Scenarios]
 patch=1,EE,40241327,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10241337,extended,0000FFFF
@@ -14,7 +14,7 @@ patch=1,EE,10241345,extended,0000FFFF
 patch=1,EE,00241320,extended,000000FF
 patch=1,EE,10241347,extended,0000FFFF
 
-//Cheats/Unlock 100% Read Rate For All Scenarios
+[Cheats/Unlock 100% Read Rate For All Scenarios]
 patch=1,EE,40240BDC,extended,00FE0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,40240FD4,extended,00900001

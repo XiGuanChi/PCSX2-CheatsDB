@@ -1,8 +1,8 @@
 gametitle=Driven SLES-50390
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,1031E0F4,extended,00000005
 
-//Have All Levels (Story Mode)
+[Have All Levels (Story Mode)]
 patch=1,EE,103CBBCC,extended,0000FFFF
 
 

@@ -1,37 +1,37 @@
-//Cheats/Infinite Health Player 1
+[Cheats/Infinite Health Player 1]
 patch=1,EE,20576610,extended,453B8000
 
-//Cheats/1 Hit Death Player 2
+[Cheats/1 Hit Death Player 2]
 patch=1,EE,D057CC10,extended,0000453B
 patch=1,EE,2057CC10,extended,3F800000
 
-//Cheats/Have All Dragon Balls
+[Cheats/Have All Dragon Balls]
 patch=1,EE,205E618C,extended,01010101
 patch=1,EE,105E6190,extended,00000101
 patch=1,EE,005E6192,extended,00000001
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,2035E1C4,extended,FFFFFFFF
 
-//Cheats/Press L3 While In Edit Skills Menu For Debug Menu ESS SELECT
+[Cheats/Press L3 While In Edit Skills Menu For Debug Menu ESS SELECT]
 patch=1,EE,0021CDA8,extended,00000006
 patch=1,EE,E002FFFD,extended,004E8922
 patch=1,EE,2035E268,extended,00000016
 patch=1,EE,2035E264,extended,00000001
 
-//Cheats/Press L3 While In Edit Skills Menu For Debug Menu VS SELECT
+[Cheats/Press L3 While In Edit Skills Menu For Debug Menu VS SELECT]
 patch=1,EE,0021CDA8,extended,00000002
 patch=1,EE,E002FFFD,extended,004E8922
 patch=1,EE,2035E268,extended,00000016
 patch=1,EE,2035E264,extended,00000001
 
-//Cheats/Press L3 While In Edit Skills Menu For Debug Menu TOUR SELECT
+[Cheats/Press L3 While In Edit Skills Menu For Debug Menu TOUR SELECT]
 patch=1,EE,0021CDA8,extended,00000003
 patch=1,EE,E002FFFD,extended,004E8922
 patch=1,EE,2035E268,extended,00000016
 patch=1,EE,2035E264,extended,00000001
 
-//Cheats/Press L3 While In Edit Skills Menu For Debug Menu TRAINING SELECT
+[Cheats/Press L3 While In Edit Skills Menu For Debug Menu TRAINING SELECT]
 patch=1,EE,0021CDA8,extended,00000004
 patch=1,EE,E002FFFD,extended,004E8922
 patch=1,EE,2035E268,extended,00000016

@@ -1,5 +1,5 @@
 gametitle=Rule of Rose SLES-54218
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200FFF00,extended,3C01007D
 patch=1,EE,200FFF04,extended,8C21D250
 patch=1,EE,200FFF08,extended,24020BB8

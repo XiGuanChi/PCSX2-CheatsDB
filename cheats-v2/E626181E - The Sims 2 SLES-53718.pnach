@@ -1,35 +1,35 @@
 gametitle=The Sims 2 SLES-53718
-//Max Money For New Family
+[Max Money For New Family]
 patch=1,EE,20534b28,extended,05F5E0FF
 
-//Infinite Pet Points
+[Infinite Pet Points]
 patch=1,EE,20248D3C,extended,24427FFF
 
-//High Motives
+[High Motives]
 patch=1,EE,201ADA28,extended,00000000
 patch=1,EE,201ADA78,extended,00000000
 patch=1,EE,401ADA9C,extended,00070004
 patch=1,EE,00000000,extended,00000000
 
-//Hunger Does Not Decrease
+[Hunger Does Not Decrease]
 patch=1,EE,20534A28,extended,C61C0000
 
-//Social Does Not Decrease
+[Social Does Not Decrease]
 patch=1,EE,20534A30,extended,C61C0000
 
-//Entertainment Does Not Decrease
+[Entertainment Does Not Decrease]
 patch=1,EE,20534A34,extended,C61C0000
 
-//Hygiene Does Not Decrease
+[Hygiene Does Not Decrease]
 patch=1,EE,20534A3C,extended,C61C0000
 
-//Blader Does Not Decrease
+[Blader Does Not Decrease]
 patch=1,EE,20534A40,extended,C61C0000
 patch=1,EE,20534A44,extended,C61C0000
 patch=1,EE,20534A48,extended,C61C0000
 patch=1,EE,201BA8F4,extended,3C01C61C
 
-//Aspiration Meter Does Not Decrease Over Time
+[Aspiration Meter Does Not Decrease Over Time]
 patch=1,EE,20534A50,extended,00000000
 patch=1,EE,20485994,extended,00000000
 patch=1,EE,20485998,extended,00000000

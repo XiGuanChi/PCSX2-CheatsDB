@@ -1,13 +1,13 @@
-//Cheats/Only 1P Score
+[Cheats/Only 1P Score]
 patch=1,EE,20118C90,extended,24050000
 
-//Cheats/Advantage When you score two
+[Cheats/Advantage When you score two]
 patch=1,EE,20118D04,extended,24420005
 
-//Cheats/Story Mode Cleared in one stage
+[Cheats/Story Mode Cleared in one stage]
 patch=1,EE,20163EA0,extended,2402000A
 
-//Cheats/Unlock All Bonus Character upon entering the gallery
+[Cheats/Unlock All Bonus Character upon entering the gallery]
 patch=1,EE,200F6000,extended,24030003
 patch=1,EE,200F6004,extended,03C2082A
 patch=1,EE,200F6008,extended,00611822
@@ -15,12 +15,12 @@ patch=1,EE,200F600C,extended,AC430000
 patch=1,EE,200F6010,extended,03E00008
 patch=1,EE,20158724,extended,0C03D800
 
-//Cheats/Unlock All Movies entering the gallery
+[Cheats/Unlock All Movies entering the gallery]
 patch=1,EE,2015B168,extended,15020006
 patch=1,EE,2015B184,extended,34030001
 patch=1,EE,2015B1AC,extended,AC4301CC
 
-//Cheats/Unlock All Flip Album to the page that is opened
+[Cheats/Unlock All Flip Album to the page that is opened]
 patch=1,EE,20154630,extended,AC4400C0
 patch=1,EE,20155578,extended,24030001
 patch=1,EE,2015557C,extended,AC430030

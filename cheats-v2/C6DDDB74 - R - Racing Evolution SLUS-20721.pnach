@@ -1,47 +1,47 @@
 gametitle=R - Racing Evolution SLUS-20721
-//Infinite RP
+[Infinite RP]
 patch=1,EE,104FDBA4,extended,0000FFFF
 
-//Max RP
+[Max RP]
 patch=1,EE,204FDBA4,extended,05F5E0FF
 
-//Always Low Lap Time
+[Always Low Lap Time]
 patch=1,EE,202F63EC,extended,AC400060
 
-//Unlock: All Cars
+[Unlock: All Cars]
 patch=1,EE,200C2000,extended,24020001
 patch=1,EE,200C2004,extended,03E00008
 patch=1,EE,200C2008,extended,AD620000
 patch=1,EE,2015B478,extended,0C030800
 
-//Have All Single Races Completed
+[Have All Single Races Completed]
 patch=1,EE,404FE910,extended,00430001
 patch=1,EE,00000007,extended,00000000
 
-//Have All Time Trials Completed
+[Have All Time Trials Completed]
 patch=1,EE,404FEA1C,extended,00280001
 patch=1,EE,00000007,extended,00000000
 
-//Have All OneMake Races Completed
+[Have All OneMake Races Completed]
 patch=1,EE,404FEABC,extended,000A0001
 patch=1,EE,00000007,extended,00000000
 
-//Have All VS. Rivals Completed
+[Have All VS. Rivals Completed]
 patch=1,EE,404FEAE4,extended,000A0001
 patch=1,EE,00000007,extended,00000000
 
-//Have All Tour Races Completed
+[Have All Tour Races Completed]
 patch=1,EE,404FEB0C,extended,000A0001
 patch=1,EE,00000007,extended,00000000
 
-//Have All Tournaments Completed
+[Have All Tournaments Completed]
 patch=1,EE,404FEB90,extended,000F0001
 patch=1,EE,00000007,extended,00000000
 
-//Have All Extras Completed
+[Have All Extras Completed]
 patch=1,EE,404FEC84,extended,000E0001
 patch=1,EE,00000007,extended,00000000
 
-//Unlock All Chapters/Movies
+[Unlock All Chapters/Movies]
 patch=1,EE,404FE3D4,extended,000E0001
 patch=1,EE,00000001,extended,00000000

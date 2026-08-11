@@ -1,15 +1,15 @@
 gametitle=SpongeBob SquarePants - Creature from the Krusty Krab SLUS-21391
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20211444,extended,00000000
 
-//Max Z
+[Max Z]
 patch=1,EE,20214F20,extended,240403E7
 
-//View Art/Music Gallery To Unlock
+[View Art/Music Gallery To Unlock]
 patch=1,EE,20306AA8,extended,2404FFFF
 patch=1,EE,20306AAC,extended,A0440000
 patch=1,EE,20306ABC,extended,24020001
 
-//Infinite Race Time Diesel Dreaming
+[Infinite Race Time Diesel Dreaming]
 patch=1,EE,203524B4,extended,00000000
 patch=1,EE,20352500,extended,00000000

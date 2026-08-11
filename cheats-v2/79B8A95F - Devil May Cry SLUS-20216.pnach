@@ -1,31 +1,31 @@
 gametitle=Devil May Cry SLUS-20216
-//Infinite Health
+[Infinite Health]
 patch=1,EE,105B8256,extended,00000BB8
 
-//Infinite Devil Trigger
+[Infinite Devil Trigger]
 patch=1,EE,105B85F2,extended,000003E8
 patch=1,EE,105B85F6,extended,000003E8
 
-//Max Red Orbs
+[Max Red Orbs]
 patch=1,EE,20754624,extended,0001869F
 
-//Max Blue Orbs
+[Max Blue Orbs]
 patch=1,EE,00754628,extended,00000004
 
-//Makes The Game Think You've Never Saved
+[Makes The Game Think You've Never Saved]
 patch=1,EE,105B0110,extended,00000000
 
-//Max Yellow Orbs
+[Max Yellow Orbs]
 patch=1,EE,10754610,extended,000003E7
 
-//Have All Moves
+[Have All Moves]
 patch=1,EE,1075461A,extended,0000FFFF
 
-//Have All Characters & Modes
+[Have All Characters & Modes]
 patch=1,EE,10753F06,extended,0000FFFF
 
-//Have All Secret Missions Finished
+[Have All Secret Missions Finished]
 patch=1,EE,10754022,extended,0000FFFF
 
-//Save Anywhere (Press Select)
+[Save Anywhere (Press Select)]
 patch=1,EE,10752384,extended,00000000

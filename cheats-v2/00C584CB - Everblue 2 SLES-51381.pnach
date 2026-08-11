@@ -1,6 +1,6 @@
 gametitle=Everblue 2 SLES-51381
-//Infinite HP
+[Infinite HP]
 patch=1,EE,204BE470,extended,44480000
 
-//Infinite Air
+[Infinite Air]
 patch=1,EE,204BE474,extended,43480000

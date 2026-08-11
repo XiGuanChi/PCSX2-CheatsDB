@@ -1,40 +1,40 @@
 gametitle=Kimagure Strawberry Cafe SLPM-65381
-//Have 999000000 Money
+[Have 999000000 Money]
 patch=1,EE,20229C80,extended,3B8B87C0
 
-//Assets MAX
+[Assets MAX]
 patch=1,EE,20214738,extended,05F5E0FF
 
-//sales MAX
+[sales MAX]
 patch=1,EE,20214740,extended,05F5E0FF
 
-//Study experience value MAX
+[Study experience value MAX]
 patch=1,EE,00214B34,extended,00000064
 
-//Cooking experience value MAX
+[Cooking experience value MAX]
 patch=1,EE,00214B3A,extended,00000064
 
-//Sense experience value MAX
+[Sense experience value MAX]
 patch=1,EE,00214B40,extended,00000064
 
-//Management experience value MAX
+[Management experience value MAX]
 patch=1,EE,00214B46,extended,00000064
 
-//Study level MAX
+[Study level MAX]
 patch=1,EE,00214B32,extended,00000009
 
-//Cooking level MAX
+[Cooking level MAX]
 patch=1,EE,00214B38,extended,00000009
 
-//Sense level MAX
+[Sense level MAX]
 patch=1,EE,00214B3E,extended,00000009
 
-//Management level MAX
+[Management level MAX]
 patch=1,EE,00214B44,extended,00000009
 
-//0 stress
+[0 stress]
 patch=1,EE,00214B4A,extended,00000000
 
-//Strategy character batch: Favorability MAX & stress 0
+[Strategy character batch: Favorability MAX & stress 0]
 patch=1,EE,40214940,extended,00050018
 patch=1,EE,00640000,extended,00000000

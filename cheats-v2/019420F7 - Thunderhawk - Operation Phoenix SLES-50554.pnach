@@ -1,20 +1,20 @@
 gametitle=Thunderhawk - Operation Phoenix SLES-50554
-//Mega Merits
+[Mega Merits]
 patch=1,EE,1056812C,extended,0000FFFF
 patch=1,EE,1056812E,extended,000000FF
 
-//Infinite Armour
+[Infinite Armour]
 patch=1,EE,1056848E,extended,0000437A
 patch=1,EE,1174D882,extended,0000437A
 
-//No Gun Overheat
+[No Gun Overheat]
 patch=1,EE,1056847C,extended,00000000
 
-//Infinite Ammo Slot 1
+[Infinite Ammo Slot 1]
 patch=1,EE,104261F0,extended,00000032
 
-//Infinite Ammo Slot 2
+[Infinite Ammo Slot 2]
 patch=1,EE,104261F4,extended,00000032
 
-//Infinite Ammo Slot 3
+[Infinite Ammo Slot 3]
 patch=1,EE,104261F8,extended,00000032

@@ -1,23 +1,23 @@
 gametitle=Shin Sangoku Musou 4 Empires SLPM-66343
-//Money 600.000
+[Money 600.000]
 patch=1,EE,202F3930,extended,1000000D
 
-//Immortal mode
+[Immortal mode]
 patch=1,EE,201ADB8C,extended,34420010
 
-//Hit Gauge infinite
+[Hit Gauge infinite]
 patch=1,EE,20199B08,extended,908401FE
 patch=1,EE,20199B10,extended,0C06AD58
 patch=1,EE,20199B20,extended,14400069
 
-//Automatic guard
+[Automatic guard]
 patch=1,EE,201ED594,extended,34190001
 patch=1,EE,201ED5A4,extended,10400002
 patch=1,EE,201ED5A8,extended,0322880B
 
-//Bow and Arrow 99
+[Bow and Arrow 99]
 patch=1,EE,2019CB1C,extended,34030063
 
-//1 Hit to Kill
+[1 Hit to Kill]
 patch=1,EE,201EEA20,extended,16800002
 

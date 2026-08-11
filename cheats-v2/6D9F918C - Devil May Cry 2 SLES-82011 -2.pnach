@@ -1,32 +1,32 @@
 gametitle=Devil May Cry 2 SLES-82011 -2
-//Infinite Health
+[Infinite Health]
 patch=1,EE,205A77E0,extended,270F270F
 
-//Infinite Devil Trigger
+[Infinite Devil Trigger]
 patch=1,EE,205A7B0C,extended,270F270F
 
-//Max Red Orbs
+[Max Red Orbs]
 patch=1,EE,205A8B28,extended,000F423F
 
-//Max Blue Orbs
+[Max Blue Orbs]
 patch=1,EE,205A8B34,extended,00000004
 
-//Max Yellow Orbs
+[Max Yellow Orbs]
 patch=1,EE,005A8B31,extended,00000063
 
-//Have All Guns
+[Have All Guns]
 patch=1,EE,005A7CF0,extended,0000000F
 patch=1,EE,105A8B4E,extended,00000101
 patch=1,EE,105A8B50,extended,00000001
 
-//Have All Swords
+[Have All Swords]
 patch=1,EE,005A7CF1,extended,0000000F
 patch=1,EE,105A8B48,extended,00000101
 
-//Have All Item Files
+[Have All Item Files]
 patch=1,EE,205A8ACC,extended,FFFFFFFF
 patch=1,EE,205A8AD0,extended,FFFFFFFF
 
-//Have All Enemy Files
+[Have All Enemy Files]
 patch=1,EE,205A8B88,extended,FFFFFFFF
 patch=1,EE,205A8B8C,extended,FFFFFFFF

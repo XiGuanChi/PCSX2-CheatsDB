@@ -1,119 +1,119 @@
 gametitle=Shadow Hearts SLUS-20347
-//Max Money
+[Max Money]
 patch=1,EE,20100008,extended,0098967F
 
-//Hella Pedometer Steps
+[Hella Pedometer Steps]
 patch=1,EE,101015F8,extended,0000FFFF
 
-//Have All Items
+[Have All Items]
 patch=1,EE,101000CE,extended,00006363
 patch=1,EE,401000D0,extended,001F0001
 patch=1,EE,63636363,extended,00000000
 patch=1,EE,0010014D,extended,00000063
 
-//Have All Valueables
+[Have All Valueables]
 patch=1,EE,0010018F,extended,00000001
 patch=1,EE,40100190,extended,000E0001
 patch=1,EE,01010101,extended,00000000
 
-//Have All Souls
+[Have All Souls]
 patch=1,EE,101001CE,extended,00000101
 patch=1,EE,401001D0,extended,00040001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,101001E0,extended,00000101
 
-//Have All Armors
+[Have All Armors]
 patch=1,EE,101000B2,extended,00000101
 patch=1,EE,401000B4,extended,00050001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,101000C8,extended,00000101
 
-//Have All Weapons
+[Have All Weapons]
 patch=1,EE,40100080,extended,000C0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,001000B0,extended,00000001
 
-//Yuri Hyuga Infinite HP
+[Yuri Hyuga Infinite HP]
 patch=1,EE,10100286,extended,000003E7
 patch=1,EE,101002A0,extended,000003E7
 
-//Yuri Hyuga Infinite MP
+[Yuri Hyuga Infinite MP]
 patch=1,EE,10100288,extended,000003E7
 patch=1,EE,101002A2,extended,000003E7
 
-//Yuri Hyuga Infinite SP
+[Yuri Hyuga Infinite SP]
 patch=1,EE,1010028A,extended,000003E7
 patch=1,EE,101002A4,extended,000003E7
 
-//Alice Elliot Infinite HP
+[Alice Elliot Infinite HP]
 patch=1,EE,101002D6,extended,000003E7
 patch=1,EE,101002F0,extended,000003E7
 
-//Alice Ellio Infinite MP
+[Alice Ellio Infinite MP]
 patch=1,EE,101002D8,extended,000003E7
 patch=1,EE,101002F2,extended,000003E7
 
-//Alice Ellio Infinite SP
+[Alice Ellio Infinite SP]
 patch=1,EE,101002DA,extended,000003E7
 patch=1,EE,101002F4,extended,000003E7
 
-//Li Zhuzhen Infinite HP
+[Li Zhuzhen Infinite HP]
 patch=1,EE,10100326,extended,000003E7
 patch=1,EE,10100340,extended,000003E7
 
-//Li Zhuzhen Infinite MP
+[Li Zhuzhen Infinite MP]
 patch=1,EE,10100328,extended,000003E7
 patch=1,EE,10100342,extended,000003E7
 
-//Li Zhuzhen Infinite SP
+[Li Zhuzhen Infinite SP]
 patch=1,EE,1010032A,extended,000003E7
 patch=1,EE,10100344,extended,000003E7
 
-//Margarete Gertrude Infinite HP
+[Margarete Gertrude Infinite HP]
 patch=1,EE,10100376,extended,000003E7
 patch=1,EE,10100390,extended,000003E7
 
-//Margarete Gertrude Infinite MP
+[Margarete Gertrude Infinite MP]
 patch=1,EE,10100378,extended,000003E7
 patch=1,EE,10100392,extended,000003E7
 
-//Margarete Gertrude Infinite SP
+[Margarete Gertrude Infinite SP]
 patch=1,EE,1010037A,extended,000003E7
 patch=1,EE,10100394,extended,000003E7
 
-//Keith Valentine Infinite HP
+[Keith Valentine Infinite HP]
 patch=1,EE,101003C6,extended,000003E7
 patch=1,EE,101003E0,extended,000003E7
 
-//Keith Valentine Infinite MP
+[Keith Valentine Infinite MP]
 patch=1,EE,101003C8,extended,000003E7
 patch=1,EE,101003E2,extended,000003E7
 
-//Keith Valentine Infinite SP
+[Keith Valentine Infinite SP]
 patch=1,EE,101003CA,extended,000003E7
 patch=1,EE,101003E4,extended,000003E7
 
-//Halley Brancket Infinite HP
+[Halley Brancket Infinite HP]
 patch=1,EE,10100416,extended,000003E7
 patch=1,EE,10100430,extended,000003E7
 
-//Halley Brancket Infinite MP
+[Halley Brancket Infinite MP]
 patch=1,EE,10100418,extended,000003E7
 patch=1,EE,10100432,extended,000003E7
 
-//Halley Brancket Infinite SP
+[Halley Brancket Infinite SP]
 patch=1,EE,1010041A,extended,000003E7
 patch=1,EE,10100434,extended,000003E7
 
-//Roger Bacon Infinite HP
+[Roger Bacon Infinite HP]
 patch=1,EE,10100466,extended,000003E7
 patch=1,EE,10100480,extended,000003E7
 
-//Roger Bacon Infinite MP
+[Roger Bacon Infinite MP]
 patch=1,EE,10100468,extended,000003E7
 patch=1,EE,10100482,extended,000003E7
 
-//Roger Bacon Infinite SP
+[Roger Bacon Infinite SP]
 patch=1,EE,1010046A,extended,000003E7
 patch=1,EE,10100484,extended,000003E7
 

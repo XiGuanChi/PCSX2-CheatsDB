@@ -1,11 +1,11 @@
 gametitle=Constantine SLPM-65972
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2031C16C,extended,00000000
 
-//Infinite Magic
+[Infinite Magic]
 patch=1,EE,2031C358,extended,00000000 
 
-//All Journal available
+[All Journal available]
 patch=1,EE,004D1C68,extended,00000000
 patch=1,EE,004D1C10,extended,00000000
 patch=1,EE,004D1BB8,extended,00000000
@@ -16,7 +16,7 @@ patch=1,EE,004D1B08,extended,00000000
 patch=1,EE,004D1C3C,extended,00000000
 patch=1,EE,004D1AB0,extended,00000000
 
-//All spells
+[All spells]
 patch=1,EE,004D2874,extended,00000000
 patch=1,EE,004D28A0,extended,00000000
 patch=1,EE,004D28F8,extended,00000000
@@ -25,7 +25,7 @@ patch=1,EE,004D2950,extended,00000000
 patch=1,EE,004D297C,extended,00000000
 patch=1,EE,004D29A8,extended,00000000
 
-//All daemons
+[All daemons]
 patch=1,EE,004D355C,extended,00000000
 patch=1,EE,004D35B4,extended,00000000
 patch=1,EE,004D3588,extended,00000000

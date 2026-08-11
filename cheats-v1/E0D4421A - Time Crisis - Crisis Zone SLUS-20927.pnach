@@ -1,20 +1,20 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2079C69C,extended,00000004
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,2012EA14,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2015F2C0,extended,00000000
 
-//Cheats/1 Hit Death Non-Boss Enemies
+[Cheats/1 Hit Death Non-Boss Enemies]
 patch=1,EE,2017837C,extended,AC800020
 
-//Cheats/Max Hit Crisis Missions
+[Cheats/Max Hit Crisis Missions]
 patch=1,EE,2079C680,extended,000003E7
 patch=1,EE,2079C684,extended,000003E7
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,408DDA80,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,208DDAA0,extended,00000009

@@ -1,23 +1,23 @@
 gametitle=Chaos Wars SLPM-66553
-//Money in MAX
+[Money in MAX]
 patch=1,EE,2039F5D8,extended,05F5E0FF
 
-//MAX money If you sell items
+[MAX money If you sell items]
 patch=1,EE,A022E010,extended,1020000
 
-//See weapons of warehouse and weapon rank of S
+[See weapons of warehouse and weapon rank of S]
 patch=1,EE,A01BD148,extended,24040009
 patch=1,EE,A01BD16C,extended,A2640058
 
 
-//SP MAX after skill use
+[SP MAX after skill use]
 patch=1,EE,A0245164,extended,1000000D
 
-//S gauge 9 after attack
+[S gauge 9 after attack]
 patch=1,EE,A0245030,extended,24030009
 
-//Not reduced S gauge Realize use
+[Not reduced S gauge Realize use]
 patch=1,EE,A0192204,extended,24420000
 
-//Not reduced S gauge in cooperation
+[Not reduced S gauge in cooperation]
 patch=1,EE,A01A006C,extended,24420000

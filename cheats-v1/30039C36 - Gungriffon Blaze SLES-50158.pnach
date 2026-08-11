@@ -1,125 +1,125 @@
-//Cheats/Activate Cheat Codes God Mode
+[Cheats/Activate Cheat Codes God Mode]
 patch=1,EE,203321AC,extended,3F800000
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,1186C6C2,extended,00006000
 patch=1,EE,1186C6BE,extended,00006000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2033217C,extended,3F800000
 
-//Cheats/Infinite Ammo - Slot 1
+[Cheats/Infinite Ammo - Slot 1]
 patch=1,EE,1186C6F8,extended,000003E7
 
-//Cheats/Infinite Ammo - Slot 2
+[Cheats/Infinite Ammo - Slot 2]
 patch=1,EE,1186C7A8,extended,000003E7
 
-//Cheats/Infinite Ammo - Slot 3
+[Cheats/Infinite Ammo - Slot 3]
 patch=1,EE,1186C858,extended,000003E7
 
-//Cheats/Freeze Timer
+[Cheats/Freeze Timer]
 patch=1,EE,1048824C,extended,00000ED2
 patch=1,EE,10488278,extended,00000ED2
 
-//Cheats/Big Score
+[Cheats/Big Score]
 patch=1,EE,20488248,extended,05F5E0FF
 
-//Cheats/Infinite Cluster Homing Missle
+[Cheats/Infinite Cluster Homing Missle]
 patch=1,EE,10444D84,extended,00000009
 
-//Cheats/Infinite Motion Sensor Bomb
+[Cheats/Infinite Motion Sensor Bomb]
 patch=1,EE,10444D86,extended,00000009
 
-//Cheats/Infinite New Penetrate Gun
+[Cheats/Infinite New Penetrate Gun]
 patch=1,EE,10444D88,extended,00000009
 
-//Cheats/Infinite Rocket Pod
+[Cheats/Infinite Rocket Pod]
 patch=1,EE,10444D8A,extended,00000009
 
-//Cheats/Infinite Anti-Tank Missile
+[Cheats/Infinite Anti-Tank Missile]
 patch=1,EE,10444D8C,extended,00000009
 
-//Cheats/Infinite Gun
+[Cheats/Infinite Gun]
 patch=1,EE,10444D8E,extended,00000009
 
-//Cheats/Infinite MG Ver.1
+[Cheats/Infinite MG Ver.1]
 patch=1,EE,10444D90,extended,00000009
 
-//Cheats/Infinite Sequence Shot Gun
+[Cheats/Infinite Sequence Shot Gun]
 patch=1,EE,10444D92,extended,00000009
 
-//Cheats/Infinite Grenade Ver.1
+[Cheats/Infinite Grenade Ver.1]
 patch=1,EE,10444D94,extended,00000009
 
-//Cheats/Infinite Grenade Ver.2
+[Cheats/Infinite Grenade Ver.2]
 patch=1,EE,10444D96,extended,00000009
 
-//Cheats/Infinite Hyper Grenade
+[Cheats/Infinite Hyper Grenade]
 patch=1,EE,10444D98,extended,00000009
 
-//Cheats/Infinite Shotgun
+[Cheats/Infinite Shotgun]
 patch=1,EE,10444D9A,extended,00000009
 
-//Cheats/Infinite Power MG
+[Cheats/Infinite Power MG]
 patch=1,EE,10444D9C,extended,00000009
 
-//Cheats/Infinite S-Shot Rocket Gun
+[Cheats/Infinite S-Shot Rocket Gun]
 patch=1,EE,10444D9E,extended,00000009
 
-//Cheats/Infinite MG Ver.2
+[Cheats/Infinite MG Ver.2]
 patch=1,EE,10444DA0,extended,00000009
 
-//Cheats/Infinite MG Ver.3
+[Cheats/Infinite MG Ver.3]
 patch=1,EE,10444DA2,extended,00000009
 
-//Cheats/Infinite HP Homing Missile
+[Cheats/Infinite HP Homing Missile]
 patch=1,EE,10444DA4,extended,00000009
 
-//Cheats/Infinite Fuel Air Explosion
+[Cheats/Infinite Fuel Air Explosion]
 patch=1,EE,10444DA6,extended,00000009
 
-//Cheats/Infinite Firepower 1
+[Cheats/Infinite Firepower 1]
 patch=1,EE,10444F84,extended,00000009
 
-//Cheats/Infinite Super Reload
+[Cheats/Infinite Super Reload]
 patch=1,EE,10444F86,extended,00000009
 
-//Cheats/Infinite Flash Roll
+[Cheats/Infinite Flash Roll]
 patch=1,EE,10444F88,extended,00000009
 
-//Cheats/Infinite Advanced Armour 2
+[Cheats/Infinite Advanced Armour 2]
 patch=1,EE,10444F8A,extended,00000009
 
-//Cheats/Infinite Wheel Adapter
+[Cheats/Infinite Wheel Adapter]
 patch=1,EE,10444F8C,extended,00000009
 
-//Cheats/Infinite Super Zoom
+[Cheats/Infinite Super Zoom]
 patch=1,EE,10444F8E,extended,00000009
 
-//Cheats/Infinite Hyper Zoom
+[Cheats/Infinite Hyper Zoom]
 patch=1,EE,10444F90,extended,00000009
 
-//Cheats/Infinite IG System
+[Cheats/Infinite IG System]
 patch=1,EE,10444F92,extended,00000009
 
-//Cheats/Infinite Jump Regulator
+[Cheats/Infinite Jump Regulator]
 patch=1,EE,10444F94,extended,00000009
 
-//Cheats/Infinite Firepower M
+[Cheats/Infinite Firepower M]
 patch=1,EE,10444F96,extended,00000009
 
-//Cheats/Infinite Advanced Armour M
+[Cheats/Infinite Advanced Armour M]
 patch=1,EE,10444F98,extended,00000009
 
-//Cheats/Infinite Firepower 2
+[Cheats/Infinite Firepower 2]
 patch=1,EE,10444F9A,extended,00000009
 
-//Cheats/Infinite Advanced Armour +1
+[Cheats/Infinite Advanced Armour +1]
 patch=1,EE,10444F9C,extended,00000009
 
-//Cheats/Infinite Quick Reload
+[Cheats/Infinite Quick Reload]
 patch=1,EE,10444F9E,extended,00000009
 
-//Cheats/Infinite Hyper Reload
+[Cheats/Infinite Hyper Reload]
 patch=1,EE,10444FA0,extended,00000009
 

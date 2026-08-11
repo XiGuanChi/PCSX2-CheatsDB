@@ -1,9 +1,9 @@
 gametitle=Daemon Summoner SLES-53652
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200FFF00,extended,24020064
 patch=1,EE,200FFF04,extended,AC820140
 patch=1,EE,200FFF08,extended,03E00008
 patch=1,EE,20112344,extended,0C03FFC0
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201543CC,extended,00000000

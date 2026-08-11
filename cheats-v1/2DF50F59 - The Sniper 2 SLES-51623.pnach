@@ -1,10 +1,10 @@
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,20130A50,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,2011E13C,extended,00000000
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,20190F60,extended,01010101
 patch=1,EE,20190F64,extended,01010101
 patch=1,EE,20190F68,extended,01010101

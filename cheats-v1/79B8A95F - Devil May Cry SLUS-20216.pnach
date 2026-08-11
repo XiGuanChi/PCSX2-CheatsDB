@@ -1,45 +1,45 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,105B8256,extended,00000BB8
 
-//Cheats/Infinite Health Alternate
+[Cheats/Infinite Health Alternate]
 patch=1,EE,20152560,extended,03E00008
 patch=1,EE,20152564,extended,00000000
 
-//Cheats/Infinite Devil Trigger
+[Cheats/Infinite Devil Trigger]
 patch=1,EE,105B85F2,extended,000003E8
 patch=1,EE,105B85F6,extended,000003E8
 
-//Cheats/Max Red Orbs
+[Cheats/Max Red Orbs]
 patch=1,EE,20754624,extended,0001869F
 
-//Cheats/Max Blue Orbs
+[Cheats/Max Blue Orbs]
 patch=1,EE,00754628,extended,00000004
 
-//Cheats/Makes The Game Think You've Never Saved
+[Cheats/Makes The Game Think You've Never Saved]
 patch=1,EE,105B0110,extended,00000000
 
-//Cheats/Max Yellow Orbs
+[Cheats/Max Yellow Orbs]
 patch=1,EE,10754610,extended,000003E7
 
-//Cheats/Unlock All Moves
+[Cheats/Unlock All Moves]
 patch=1,EE,1075461A,extended,0000FFFF
 
-//Cheats/Unlock All Characters & Modes
+[Cheats/Unlock All Characters & Modes]
 patch=1,EE,10753F06,extended,0000FFFF
 
-//Cheats/Unlock All Secret Missions Finished
+[Cheats/Unlock All Secret Missions Finished]
 patch=1,EE,10754022,extended,0000FFFF
 
-//Cheats/Save Anywhere Press Select
+[Cheats/Save Anywhere Press Select]
 patch=1,EE,10752384,extended,00000000
 
-//Cheats/All Difficulties and Stages Rank S
+[Cheats/All Difficulties and Stages Rank S]
 patch=1,EE,407547AC,extended,00110001
 patch=1,EE,00000000,extended,00000000
 patch=1,EE,007547F0,extended,00000000
 
-//Cheats/Max Spider Codes Secret Mission 1
+[Cheats/Max Spider Codes Secret Mission 1]
 patch=1,EE,105B0A78,extended,00000064
 
-//Cheats/Max Spider Codes Secret Mission 2
+[Cheats/Max Spider Codes Secret Mission 2]
 patch=1,EE,105B0A7C,extended,00000064

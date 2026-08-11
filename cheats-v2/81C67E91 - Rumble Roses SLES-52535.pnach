@@ -1,12 +1,12 @@
 gametitle=Rumble Roses SLES-52535
-//Player 1 Lethal Move Counter Always Full
+[Player 1 Lethal Move Counter Always Full]
 patch=1,EE,216D6EF4,extended,00000063
 
-//Enable All Costumes
+[Enable All Costumes]
 patch=1,EE,403E2920,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Enable Characters-Story Mode
+[Enable Characters-Story Mode]
 patch=1,EE,103E28D2,extended,0000FF01
 patch=1,EE,103E28D4,extended,0000FF01
 patch=1,EE,103E28D6,extended,0000FF01
@@ -18,7 +18,7 @@ patch=1,EE,103E28E0,extended,0000FF01
 patch=1,EE,103E28E2,extended,0000FF01
 patch=1,EE,103E28E4,extended,0000FF01
 
-//Enable Characters-Exhibition Mode
+[Enable Characters-Exhibition Mode]
 patch=1,EE,103E28EC,extended,0000FF01
 patch=1,EE,103E28EE,extended,0000FF01
 patch=1,EE,103E28F0,extended,0000FF01
@@ -31,7 +31,7 @@ patch=1,EE,103E28FC,extended,0000FF01
 patch=1,EE,103E28FE,extended,0000FF01
 patch=1,EE,103E2900,extended,0000FF01
 
-//Complete Gallery
+[Complete Gallery]
 patch=1,EE,103E2906,extended,00000101
 patch=1,EE,103E2908,extended,00000101
 patch=1,EE,103E290A,extended,00000101

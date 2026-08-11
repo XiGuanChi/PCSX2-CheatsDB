@@ -1,10 +1,10 @@
-//Cheats/Max Gil
+[Cheats/Max Gil]
 patch=1,EE,201E606C,extended,0060200A
 
-//Cheats/Max AP after one battle
+[Cheats/Max AP after one battle]
 patch=1,EE,202039CC,extended,AE060000
 
-//Cheats/In Battle Invincible L3 1 Hit Kill R3
+[Cheats/In Battle Invincible L3 1 Hit Kill R3]
 patch=1,EE,D074B88A,extended,00000200
 patch=1,EE,201EF508,extended,00401023
 patch=1,EE,D074B88A,extended,00000400
@@ -12,50 +12,50 @@ patch=1,EE,201EF508,extended,00001023
 patch=1,EE,D074B88A,extended,00000100
 patch=1,EE,201EF508,extended,00521023
  
-//Cheats/Max Everyone status HP
+[Cheats/Max Everyone status HP]
 patch=1,EE,201E6B48,extended,AFC60004
 
-//Cheats/Max Everyone status MP
+[Cheats/Max Everyone status MP]
 patch=1,EE,201E6B88,extended,AFD00008
 
-//Cheats/Max Everyone status Offensive power
+[Cheats/Max Everyone status Offensive power]
 patch=1,EE,201E6BA8,extended,A3C6002F
 
-//Cheats/Max Everyone status Defense power
+[Cheats/Max Everyone status Defense power]
 patch=1,EE,201E6BBC,extended,A3C60030
 
-//Cheats/Max Everyone status Magical power
+[Cheats/Max Everyone status Magical power]
 patch=1,EE,201E6BD0,extended,A3C60031
 
-//Cheats/Max Everyone status Magic defense
+[Cheats/Max Everyone status Magic defense]
 patch=1,EE,201E6BE4,extended,A3C60032
 
-//Cheats/Max Everyone status Quickness
+[Cheats/Max Everyone status Quickness]
 patch=1,EE,201E6BF8,extended,A3C60033
 
-//Cheats/Max Everyone status luck
+[Cheats/Max Everyone status luck]
 patch=1,EE,201E6C0C,extended,A3C60034
 
-//Cheats/Max Everyone status Avoidance
+[Cheats/Max Everyone status Avoidance]
 patch=1,EE,201E6C20,extended,A3C60035
 
-//Cheats/Max Everyone status hit
+[Cheats/Max Everyone status hit]
 patch=1,EE,201E6C34,extended,A3C60036
 patch=1,EE,201E6C3C,extended,8FC60024
 
-//Cheats/No Random Battles
+[Cheats/No Random Battles]
 patch=1,EE,D074BA42,extended,0000FBFE
 patch=1,EE,201D6F8C,extended,1000002B
 patch=1,EE,D074BA42,extended,0000FEFE
 patch=1,EE,201D6F8C,extended,1040002B
 
-//Cheats/Infinite S. LV
+[Cheats/Infinite S. LV]
 patch=1,EE,201E6324,extended,00601823
 
-//Cheats/All Items 99
+[Cheats/All Items 99]
 patch=1,EE,A01E7650,extended,080792AA
 
-//Cheats/Max Skills All Characters
+[Cheats/Max Skills All Characters]
 patch=1,EE,1031307A,extended,0000FFFB
 patch=1,EE,2031307C,extended,FFFDFFFF
 patch=1,EE,20313080,extended,FFFFFFFF
@@ -96,13 +96,13 @@ patch=1,EE,2031348A,extended,FFFFFFFF
 patch=1,EE,2031348E,extended,FFFFFFFF
 patch=1,EE,00313490,extended,0000000F
 
-//Cheats/Max Gil (Ultimate Hits) SLPM-66124
+[Cheats/Max Gil (Ultimate Hits) SLPM-66124]
 patch=1,EE,203117B8,extended,05F5E0FF
 
-//Cheats/Max HP Tidus (Ultimate Hits) SLPM-6612
+[Cheats/Max HP Tidus (Ultimate Hits) SLPM-6612]
 patch=1,EE,20313040,extended,0001869F
 
-//Cheats/Max MP Tidus (Ultimate Hits) SLPM-6612
+[Cheats/Max MP Tidus (Ultimate Hits) SLPM-6612]
 patch=1,EE,20313044,extended,0000270F
 
 

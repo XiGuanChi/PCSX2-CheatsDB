@@ -1,49 +1,49 @@
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,20B46490,extended,05F5E0FF
 
-//Cheats/Infinite Chim
+[Cheats/Infinite Chim]
 patch=1,EE,10B53B00,extended,0000270F
 
-//Cheats/Haseo Main Character Max HP
+[Cheats/Haseo Main Character Max HP]
 patch=1,EE,20B46494,extended,0001869F
 
-//Cheats/Haseo Main Character Max SP
+[Cheats/Haseo Main Character Max SP]
 patch=1,EE,20B46498,extended,0001869F
 
-//Cheats/Haseo Main Character Max Level
+[Cheats/Haseo Main Character Max Level]
 patch=1,EE,20B4648C,extended,0000270F
 
-//Cheats/Haseo Main Character Max Stats
+[Cheats/Haseo Main Character Max Stats]
 patch=1,EE,40B4649C,extended,00050001
 patch=1,EE,7FFF7FFF,extended,00000000
 
-//Cheats/Silabus Max HP
+[Cheats/Silabus Max HP]
 patch=1,EE,20B46524,extended,05F5E0FF
 
-//Cheats/Silabus Max SP
+[Cheats/Silabus Max SP]
 patch=1,EE,20B46528,extended,05F5E0FF
 
-//Cheats/Silabus Max Level
+[Cheats/Silabus Max Level]
 patch=1,EE,20B4651C,extended,0000270F
 
-//Cheats/Silabus Max Stats
+[Cheats/Silabus Max Stats]
 patch=1,EE,40B4652C,extended,00050001
 patch=1,EE,7FFF7FFF,extended,00000000
 
-//Cheats/Atoli Max HP
+[Cheats/Atoli Max HP]
 patch=1,EE,20B464B8,extended,05F5E0FF
 
-//Cheats/Atoli Max SP
+[Cheats/Atoli Max SP]
 patch=1,EE,20B464BC,extended,05F5E0FF
 
-//Cheats/Atoli Max Level
+[Cheats/Atoli Max Level]
 patch=1,EE,20B464B0,extended,0000270F
 
-//Cheats/Atoli Max Stats
+[Cheats/Atoli Max Stats]
 patch=1,EE,40B464C0,extended,00050001
 patch=1,EE,7FFF7FFF,extended,00000000
 
-//Cheats/Instant Enemy Kill Press Select In Battle
+[Cheats/Instant Enemy Kill Press Select In Battle]
 patch=1,EE,E002FFFE,extended,004CF4C2
 patch=1,EE,20584C00,extended,08028000
 patch=1,EE,20584C04,extended,00000000
@@ -58,37 +58,37 @@ patch=1,EE,200A0020,extended,A48000E8
 patch=1,EE,200A0024,extended,03E00008
 patch=1,EE,200A0028,extended,848200E8
 
-//Cheats/Have 99 Chims
+[Cheats/Have 99 Chims]
 patch=1,EE,10B53B00,extended,00000063
 
-//Cheats/Have All Characters
+[Cheats/Have All Characters]
 patch=1,EE,20B4F798,extended,FFFFFFFF
 patch=1,EE,20B4F79C,extended,FFFFFFFF
 
-//Cheats/Always Online
+[Cheats/Always Online]
 patch=1,EE,20B4F7A0,extended,00000000
 patch=1,EE,20B4F7A4,extended,00000000
 patch=1,EE,20B4F7A8,extended,FFFFFFFF
 patch=1,EE,20B4F7AC,extended,FFFFFFFF
 
-//Cheats/Unlock All Crimson VS Cards
+[Cheats/Unlock All Crimson VS Cards]
 patch=1,EE,40B55AB8,extended,00250001
 patch=1,EE,0A0A0A0A,extended,00000000
 patch=1,EE,10B55B4C,extended,00000A0A
 
-//Cheats/Unlock 99 of All Greeting Cards
+[Cheats/Unlock 99 of All Greeting Cards]
 patch=1,EE,20B4F6D0,extended,63636363
 patch=1,EE,20B4F6D4,extended,63636363
 patch=1,EE,10B4F6D8,extended,00006363
 patch=1,EE,00B4F6DA,extended,00000063
 
-//Cheats/Unlock Chim Side Quest
+[Cheats/Unlock Chim Side Quest]
 patch=1,EE,10B5512E,extended,0000270F
 patch=1,EE,20B55130,extended,270F270F
 patch=1,EE,20B55134,extended,270F270F
 patch=1,EE,10B55138,extended,0000270F
 
-//Cheats/Unlock All Background Music
+[Cheats/Unlock All Background Music]
 patch=1,EE,10B53B0A,extended,00000202
 patch=1,EE,10B53B0C,extended,00000202
 patch=1,EE,00B53B0F,extended,00000002
@@ -99,23 +99,23 @@ patch=1,EE,00B53B1B,extended,00000002
 patch=1,EE,40B53B20,extended,00070001
 patch=1,EE,02020202,extended,00000000
 
-//Cheats/Unlock All Wallpapers
+[Cheats/Unlock All Wallpapers]
 patch=1,EE,10B53B3E,extended,00000202
 patch=1,EE,40B53B40,extended,00340001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,10B53C10,extended,00000101
 
-//Cheats/Unlock All Movies Some are unlocked with time
+[Cheats/Unlock All Movies Some are unlocked with time]
 patch=1,EE,40B53C4C,extended,00050001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,10B53C60,extended,00000202
 patch=1,EE,00B53C63,extended,00000002
 
-//Cheats/Unlock Ryu Book I
+[Cheats/Unlock Ryu Book I]
 patch=1,EE,20B55548,extended,27102710
 patch=1,EE,20B5554C,extended,27102710
 
-//Cheats/Unlock Ryu Book II all 35 members
+[Cheats/Unlock Ryu Book II all 35 members]
 patch=1,EE,40B55374,extended,00230003
 patch=1,EE,03e803e8,extended,00000000
 patch=1,EE,40B55378,extended,00230003
@@ -123,11 +123,11 @@ patch=1,EE,00002710,extended,00000000
 patch=1,EE,40B5537C,extended,00230003
 patch=1,EE,00989680,extended,00000000
 
-//Cheats/Unlock Ryu Book III
+[Cheats/Unlock Ryu Book III]
 patch=1,EE,20B55550,extended,27102710
 patch=1,EE,20B55554,extended,27102710
 
-//Cheats/Unlock Ryu Book IV
+[Cheats/Unlock Ryu Book IV]
 patch=1,EE,40B55570,extended,00080001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,40B55674,extended,00030001
@@ -141,22 +141,22 @@ patch=1,EE,40B55714,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,20B5573C,extended,00FFFFFF
 
-//Cheats/Unlock Ryu Book V
+[Cheats/Unlock Ryu Book V]
 patch=1,EE,20B46488,extended,0CDFE5C4
 patch=1,EE,20B55558,extended,27102710
 patch=1,EE,20B5555C,extended,27102710
 patch=1,EE,10B55560,extended,00002710
 
 
-//Cheats/Unlock Ryu Book VI
+[Cheats/Unlock Ryu Book VI]
 patch=1,EE,10B558E2,extended,00002710
 patch=1,EE,10B558E4,extended,00002710
 
-//Cheats/Unlock Ryu Book VII
+[Cheats/Unlock Ryu Book VII]
 patch=1,EE,10B55822,extended,0000FFFF
 patch=1,EE,40B55824,extended,00090001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock Ryu Book VIII
+[Cheats/Unlock Ryu Book VIII]
 patch=1,EE,20B55564,extended,0CDFE5C4
 patch=1,EE,10B55568,extended,00002710

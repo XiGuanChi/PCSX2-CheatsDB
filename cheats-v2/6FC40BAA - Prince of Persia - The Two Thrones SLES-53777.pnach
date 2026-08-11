@@ -1,26 +1,26 @@
 gametitle=Prince of Persia - The Two Thrones SLES-53777
-//Infinite Health 
+[Infinite Health]
 patch=1,EE,20326110,extended,00000000
 
-//Infinite Sand Slots
+[Infinite Sand Slots]
 patch=1,EE,20326B64,extended,00000000
 
-//Infinite Weapon Strength
+[Infinite Weapon Strength]
 patch=1,EE,20241734,extended,00000000
 
-//Movie fully open
+[Movie fully open]
 patch=1,EE,20662AA4,extended,00000000
 
-//Repeats always the graphics gallery
+[Repeats always the graphics gallery]
 patch=1,EE,20662C88,extended,00000000
 
-//Unlock Secondary Weapon
+[Unlock Secondary Weapon]
 patch=1,EE,20241730,extended,00000000
 
-//Unlock all Sand Powers
+[Unlock all Sand Powers]
 patch=1,EE,200C2018,extended,240100FF
 patch=1,EE,200C201C,extended,AEC1177C
 
-//Infinite Weapon Durability
+[Infinite Weapon Durability]
 patch=1,EE,20241734,extended,00000000
 

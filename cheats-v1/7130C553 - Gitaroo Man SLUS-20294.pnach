@@ -1,31 +1,31 @@
-//Cheats/Zombie Mode Allows To Finish Level Even If Health Reaches 0
+[Cheats/Zombie Mode Allows To Finish Level Even If Health Reaches 0]
 patch=1,EE,2017820C,extended,10000026
 
-//Cheats/PSP Mode Changes timing window from its original PS2 value to the easier PSP value
+[Cheats/PSP Mode Changes timing window from its original PS2 value to the easier PSP value]
 patch=1,EE,2010C91C,extended,34071770
 patch=1,EE,2011097C,extended,34021770
 patch=1,EE,20110ba0,extended,34021770
 patch=1,EE,20110dc4,extended,34021770
 patch=1,EE,20110fec,extended,34021770
 
-//Cheats/Easy Mode Changes timing window value to an easier value
+[Cheats/Easy Mode Changes timing window value to an easier value]
 patch=1,EE,2010C91C,extended,34072EE0
 patch=1,EE,2011097C,extended,34022EE0
 patch=1,EE,20110ba0,extended,34022EE0
 patch=1,EE,20110dc4,extended,34022EE0
 patch=1,EE,20110fec,extended,34022EE0
 
-//Cheats/Very Easy Mode Changes timing window value to an even easier value
+[Cheats/Very Easy Mode Changes timing window value to an even easier value]
 patch=1,EE,2010C91C,extended,34073A98
 patch=1,EE,2011097C,extended,34023A98
 patch=1,EE,20110ba0,extended,34023A98
 patch=1,EE,20110dc4,extended,34023A98
 patch=1,EE,20110fec,extended,34023A98
 
-//Cheats/Perfect Hit Mode Causes all hits and misses to be counted as GREAT Score count can be long on the Rank screen
+[Cheats/Perfect Hit Mode Causes all hits and misses to be counted as GREAT Score count can be long on the Rank screen]
 patch=1,EE,20119514,extended,E4720008
 
-//Cheats/Unlock All Levels, Movies And Master Play
+[Cheats/Unlock All Levels, Movies And Master Play]
 patch=1,EE,2026EA20,extended,00000001
 patch=1,EE,2026EA30,extended,00000001
 patch=1,EE,2026EA40,extended,00000001
@@ -39,5 +39,5 @@ patch=1,EE,2026EAB0,extended,00000001
 patch=1,EE,2026EAC0,extended,00000001
 patch=1,EE,2026EAD0,extended,00000001
 
-//Cheats/Unlock All Collection
+[Cheats/Unlock All Collection]
 patch=1,EE,2029C0A0,extended,FFFFFFFF

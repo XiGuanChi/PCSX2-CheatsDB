@@ -1,12 +1,12 @@
-//Cheats/Infinite Health Spanish
+[Cheats/Infinite Health Spanish]
 patch=1,EE,2A6BE5B3,extended,42C80000
 
-//Cheats/Shield always Active
+[Cheats/Shield always Active]
 patch=1,EE,2029C654,extended,00000000
 patch=1,EE,2029C658,extended,3C1B4120
 patch=1,EE,2029C65C,extended,449B0000
 
-//Cheats/Final Battle with God Infinite Health
+[Cheats/Final Battle with God Infinite Health]
 patch=1,EE,2017D3D0,extended,08028014
 patch=1,EE,200A0050,extended,8CE50024
 patch=1,EE,200A0054,extended,3AA10035
@@ -16,14 +16,14 @@ patch=1,EE,200A0060,extended,0805F4F6
 patch=1,EE,200A0064,extended,00000000
 patch=1,EE,200A0068,extended,0805F4F9
 
-//Cheats/Max Sling Ammo Using 1 Unit b
+[Cheats/Max Sling Ammo Using 1 Unit b]
 patch=1,EE,202AB524,extended,240200FF
 
-//Cheats/Medal of Homer - Take 1 Flag to Complete the Goal
+[Cheats/Medal of Homer - Take 1 Flag to Complete the Goal]
 patch=1,EE,D03D87E4,extended,0000000D
 patch=1,EE,20F73914,extended,00000013
 
-//Cheats/Powers Always at Max
+[Cheats/Powers Always at Max]
 patch=1,EE,20296E40,extended,08028005
 patch=1,EE,200A0014,extended,FFBF0000
 patch=1,EE,200A0018,extended,3C1B437A
@@ -31,7 +31,7 @@ patch=1,EE,200A001C,extended,449B0000
 patch=1,EE,200A0020,extended,E4A000E4
 patch=1,EE,200A0024,extended,080A5B92
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,203319B8,extended,0802800B
 patch=1,EE,200A002C,extended,3C1B3F80
 patch=1,EE,200A0030,extended,449B0000
@@ -42,5 +42,5 @@ patch=1,EE,200A0040,extended,E4400028
 patch=1,EE,200A0044,extended,46010036
 patch=1,EE,200A0048,extended,080CC670
 
-//Cheats/Unlock All Levels
+[Cheats/Unlock All Levels]
 patch=1,EE,202E9710,extended,A380B5F9

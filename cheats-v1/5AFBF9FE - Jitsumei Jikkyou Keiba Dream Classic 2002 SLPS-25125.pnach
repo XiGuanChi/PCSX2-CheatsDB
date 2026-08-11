@@ -1,7 +1,7 @@
-//Cheats/99,999,900,000 yen Press select+L1+L2
+[Cheats/99,999,900,000 yen Press select+L1+L2]
 patch=1,EE,D08BE644,extended,00000105
 patch=1,EE,208D9374,extended,000F423F
 
-//Cheats/Extended Pt 120 Press Select+R1+R2
+[Cheats/Extended Pt 120 Press Select+R1+R2]
 patch=1,EE,D08BE644,extended,0000010A
 patch=1,EE,20912BA4,extended,00000078

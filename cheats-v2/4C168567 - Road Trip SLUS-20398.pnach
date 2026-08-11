@@ -1,21 +1,21 @@
 gametitle=Road Trip SLUS-20398
-//Max Money
+[Max Money]
 patch=1,EE,2177FDB4,extended,000F423F
 
-//Always Low Total Timer
+[Always Low Total Timer]
 patch=1,EE,2177A7B0,extended,00000001
 
-//Always Low Lap Timer
+[Always Low Lap Timer]
 patch=1,EE,2177AEB0,extended,00000001
 
-//Start On Lap 3
+[Start On Lap 3]
 patch=1,EE,D177ADEA,extended,00000000
 patch=1,EE,0177ADEB,extended,00000002
 
-//Warp To All Towns
+[Warp To All Towns]
 patch=1,EE,11780A3A,extended,00000000
 
-//Have All Choro Q Coins
+[Have All Choro Q Coins]
 patch=1,EE,4178FCA8,extended,00030001
 patch=1,EE,00000000,extended,00000000
 patch=1,EE,0178FCB4,extended,00000000

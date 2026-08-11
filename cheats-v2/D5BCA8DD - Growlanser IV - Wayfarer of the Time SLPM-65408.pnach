@@ -1,19 +1,19 @@
 gametitle=Growlanser IV - Wayfarer of the Time SLPM-65408
-//Press L3 For Debug Menu
+[Press L3 For Debug Menu]
 patch=1,EE,004EA5B4,extended,00000001
 
-//Character 1 HP 999
+[Character 1 HP 999]
 patch=1,EE,104F8372,extended,000003E7
 patch=1,EE,104F8374,extended,000003E7
 
-//Character 1 MP 999
+[Character 1 MP 999]
 patch=1,EE,104F8376,extended,000003E7
 patch=1,EE,104F8376,extended,000003E7
 
-//Cult quiz must be 100 points
+[Cult quiz must be 100 points]
 patch=1,EE,0039E2F1,extended,00000064
 
-//APPENDIX fully open
+[APPENDIX fully open]
 patch=1,EE,209A9A68,extended,FFFFFFFF
 patch=1,EE,209A9A6C,extended,FFFFFFFF
 patch=1,EE,009A9A70,extended,00000002

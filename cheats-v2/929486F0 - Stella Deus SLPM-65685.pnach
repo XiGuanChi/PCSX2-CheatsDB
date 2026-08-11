@@ -1,19 +1,19 @@
 gametitle=Stella Deus SLPM-65685
-//Maximum HP limit by 1 level up
+[Maximum HP limit by 1 level up]
 patch=1,EE,201FBBA0,extended,2403270F
 
-//Maximum MP limit by 1 level up
+[Maximum MP limit by 1 level up]
 patch=1,EE,201FBB60,extended,240303E7
 
-//Maximum of all parameters by 1 level up
+[Maximum of all parameters by 1 level up]
 patch=1,EE,201FBB18,extended,240603E7
 
-//If you get SP, it will be maximum & even if you distribute it
+[If you get SP, it will be maximum & even if you distribute it]
 patch=1,EE,201FBBE0,extended,240303E7
 
-//Note: The battle at the beginning will not be reflected even if the number increases.
+[Note: The battle at the beginning will not be reflected even if the number increases.]
 
-//SP maximum maintenance
+[SP maximum maintenance]
 patch=1,EE,201F95A8,extended,0807F074
 patch=1,EE,201F95AC,extended,0040202D
 patch=1,EE,201F95C8,extended,1000FFF7

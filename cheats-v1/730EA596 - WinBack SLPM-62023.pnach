@@ -1,16 +1,16 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,002ACC87,extended,00000064
 
-//Cheats/Auto Reload Machine Gun
+[Cheats/Auto Reload Machine Gun]
 patch=1,EE,002ACC6B,extended,00000063
 
-//Cheats/Auto Reload Shotgun
+[Cheats/Auto Reload Shotgun]
 patch=1,EE,002ACC7F,extended,00000063
 
-//Cheats/Auto Reload Hand Gun
+[Cheats/Auto Reload Hand Gun]
 patch=1,EE,002ACC83,extended,00000063
 
-//Cheats/Unlock Hidden Mode & All Characters for VS can be Selected
+[Cheats/Unlock Hidden Mode & All Characters for VS can be Selected]
 patch=1,EE,203A894C,extended,FFFFFFFF
 patch=1,EE,003A8950,extended,00000001
 

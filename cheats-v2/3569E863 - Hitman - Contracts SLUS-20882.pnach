@@ -1,9 +1,9 @@
 gametitle=Hitman - Contracts SLUS-20882
-//Infinite Health
+[Infinite Health]
 patch=1,EE,203A3990,extended,00000000
 
-//Infinite Ammo/No Reload
+[Infinite Ammo/No Reload]
 patch=1,EE,2020F9B4,extended,00000000
 
-//Saves Left Dont Decrease When Saving
+[Saves Left Dont Decrease When Saving]
 patch=1,EE,2037BDA0,extended,00000000

@@ -1,20 +1,20 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20588108,extended,05F5E0FF
 
-//Cheats/Condition Always Sated
+[Cheats/Condition Always Sated]
 patch=1,EE,00588104,extended,00000003
 
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,205903F4,extended,447A0000
 patch=1,EE,205903F0,extended,447A0000
 
-//Cheats/Infinite Fuel
+[Cheats/Infinite Fuel]
 patch=1,EE,20590400,extended,447A0000
 patch=1,EE,205903FC,extended,447A0000
 
-//Cheats/Infinite Boost
+[Cheats/Infinite Boost]
 patch=1,EE,20590408,extended,447A0000
 patch=1,EE,20590404,extended,447A0000
 
-//Cheats/Infinite Boost Alternate
+[Cheats/Infinite Boost Alternate]
 patch=1,EE,201F37EC,extended,00000000

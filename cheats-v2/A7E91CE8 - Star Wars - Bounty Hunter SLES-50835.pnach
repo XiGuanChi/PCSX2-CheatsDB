@@ -1,5 +1,5 @@
 gametitle=Star Wars - Bounty Hunter SLES-50835
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200FFF00,extended,3C03003C
 patch=1,EE,200FFF04,extended,8C6328CC
 patch=1,EE,200FFF0C,extended,10600004
@@ -9,15 +9,15 @@ patch=1,EE,200FFF20,extended,080664A5
 patch=1,EE,200FFF24,extended,0080382D
 patch=1,EE,20199290,extended,0803FFC0
 
-//Infinite Credits
+[Infinite Credits]
 patch=1,EE,103C6784,extended,00000063
 
-//Unlock All Levels/Outakes/Comic
+[Unlock All Levels/Outakes/Comic]
 patch=1,EE,203F0A34,extended,FFFFFFFF
 patch=1,EE,203F0A38,extended,FFFFFFFF
 
-//Unlock Concept Art
+[Unlock Concept Art]
 patch=1,EE,203F0B14,extended,0005DFE8
 
-//Unlock Trading Cards
+[Unlock Trading Cards]
 patch=1,EE,203F0A3C,extended,FFFFFFFF

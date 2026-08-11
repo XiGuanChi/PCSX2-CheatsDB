@@ -1,26 +1,26 @@
-//Cheats/Max Money 600.000
+[Cheats/Max Money 600.000]
 patch=1,EE,202F3930,extended,1000000D
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201ADB8C,extended,34420010
 
-//Cheats/Infinite Musou
+[Cheats/Infinite Musou]
 patch=1,EE,20199B08,extended,908401FE
 patch=1,EE,20199B10,extended,0C06AD58
 patch=1,EE,20199B20,extended,14400069
 
-//Cheats/Automatic Guard
+[Cheats/Automatic Guard]
 patch=1,EE,201ED594,extended,34190001
 patch=1,EE,201ED5A4,extended,10400002
 patch=1,EE,201ED5A8,extended,0322880B
 
-//Cheats/Infinite Bow and Arrow 99
+[Cheats/Infinite Bow and Arrow 99]
 patch=1,EE,2019CB1C,extended,34030063
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,201EEA20,extended,16800002
 
-//Cheats/Press L3+L1 for Restriction Time Stop L3+R1 OFF
+[Cheats/Press L3+L1 for Restriction Time Stop L3+R1 OFF]
 patch=1,EE,D03FE358,extended,00000402
 patch=1,EE,201E8DF8,extended,00000000
 patch=1,EE,D03FE358,extended,00000802

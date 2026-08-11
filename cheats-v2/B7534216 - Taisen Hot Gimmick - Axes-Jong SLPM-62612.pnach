@@ -1,11 +1,11 @@
 gametitle=Taisen Hot Gimmick - Axes-Jong SLPM-62612
-//Player score 99990 When score fluctuates, the effect is produced.
+[Player score 99990 When score fluctuates, the effect is produced.]
 patch=1,EE,208517B4,extended,0001863C
 
-//Score of partner 0 When score fluctuates, the effect is produced.
+[Score of partner 0 When score fluctuates, the effect is produced.]
 patch=1,EE,208517B0,extended,00000000
 
-//All Treasures collected
+[All Treasures collected]
 patch=1,EE,20850ED8,extended,00000000
 patch=1,EE,20850EDC,extended,00000000
 patch=1,EE,20850EE0,extended,00000000

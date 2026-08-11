@@ -1,9 +1,9 @@
 gametitle=Clock Tower 3 SLUS-20633
-//Always Empty Panic Meter
+[Always Empty Panic Meter]
 patch=1,EE,21940E74,extended,00000000
 
-//Infinite Holy Water
+[Infinite Holy Water]
 patch=1,EE,21941288,extended,00000005
 
-//Infinite Health (Boss Battle)
+[Infinite Health (Boss Battle)]
 patch=1,EE,21A4C4E4,extended,00000320

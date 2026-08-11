@@ -1,17 +1,17 @@
 gametitle=Kidou Senshi Gundam - Climax U.C. SLPS-25627
-//FREE & TRAINING all songs selectable
+[FREE & TRAINING all songs selectable]
 patch=1,EE,40DC6D08,extended,00A50004
 patch=1,EE,00000003,extended,00000000Infinite HP Aircrafy
 patch=1,EE,2028D3DC,extended,AC820804
 
-//No Overheat
+[No Overheat]
 patch=1,EE,2028DF28,extended,AE800810
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,2028DFD0,extended,8E82098C
 patch=1,EE,2028DFD8,extended,AE820990
 
-//Invincible
+[Invincible]
 patch=1,EE,2028D3C8,extended,0C03E000
 patch=1,EE,200F8000,extended,8C8207E4
 patch=1,EE,200F8004,extended,34420400
@@ -19,26 +19,26 @@ patch=1,EE,200F8008,extended,AC8207E4
 patch=1,EE,200F800C,extended,03E00008
 patch=1,EE,200F8010,extended,8C820808
 
-//Chronicles & extras all free stages
+[Chronicles & extras all free stages]
 patch=1,EE,4164AA90,extended,00110001
 patch=1,EE,03030303,extended,00000000
 patch=1,EE,1164AAD4,extended,00000303
 patch=1,EE,0164AAD6,extended,00000003
 
-//VS & Free All aircraft
+[VS & Free All aircraft]
 patch=1,EE,2021011C,extended,00440821
 patch=1,EE,20210120,extended,24020001
 patch=1,EE,20210128,extended,A02200B0
 
-//VS & Free All pilots
+[VS & Free All pilots]
 patch=1,EE,20210084,extended,00440821
 patch=1,EE,20210088,extended,24020001
 patch=1,EE,20210090,extended,A0220130
 
-//All mode Used machine restriction release
+[All mode Used machine restriction release]
 patch=1,EE,202AF7D8,extended,080ABE23
 patch=1,EE,202AFA08,extended,080ABEE4
 
-//Card collection is fully open
+[Card collection is fully open]
 patch=1,EE,202D4DC4,extended,24010001
 patch=1,EE,202D4DC8,extended,A04101D0

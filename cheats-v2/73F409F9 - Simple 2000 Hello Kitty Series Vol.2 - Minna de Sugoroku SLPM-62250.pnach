@@ -1,6 +1,6 @@
 gametitle=Simple 2000 Hello Kitty Series Vol.2 - Minna de Sugoroku SLPM-62250
-//Player 1 Has always 5 movement stars
+[Player 1 Has always 5 movement stars]
 patch=1,EE,203178B8,extended,00000005
 
-//Opponent has always 0 movement stars
+[Opponent has always 0 movement stars]
 patch=1,EE,203178BC,extended,00000000

@@ -1,8 +1,8 @@
-//Cheats/Required special code - always checked
+[Cheats/Required special code - always checked]
 patch=1,EE,200F4100,extended,0804D642
 patch=1,EE,201392B4,extended,0C03D000
 
-//Cheats/Max Score
+[Cheats/Max Score]
 patch=1,EE,200F4000,extended,3C050098
 patch=1,EE,200F4004,extended,34A5967F
 patch=1,EE,200F4008,extended,AE4520BC

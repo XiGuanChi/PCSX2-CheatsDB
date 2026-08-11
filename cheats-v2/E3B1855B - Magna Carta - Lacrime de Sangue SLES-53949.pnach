@@ -1,24 +1,24 @@
 gametitle=Magna Carta - Lacrime de Sangue SLES-53949
-//Max Cash After a Fight
+[Max Cash After a Fight]
 patch=1,EE,202F6ADC,extended,3C1405F0
 
-//All Monsters Are Level 1
+[All Monsters Are Level 1]
 patch=1,EE,202F69D0,extended,24020001
 
-//Infinite Item Use
+[Infinite Item Use]
 patch=1,EE,2039E7C4,extended,24020001
 
-//In Battle Codes: Must Be ON This code must be on for any of the In Battle codes to work !
+[In Battle Codes: Must Be ON This code must be on for any of the In Battle codes to work !]
 patch=1,EE,200FFF00,extended,8C84020C
 patch=1,EE,200FFF04,extended,8C810060
 patch=1,EE,200FFF40,extended,03E00008
 patch=1,EE,20410A94,extended,0C03FFC0
 patch=1,EE,200FFF20,extended,240203E8
 
-//Max/Full Hp With this code ON, Swap leader for Max/Full HP
+[Max/Full Hp With this code ON, Swap leader for Max/Full HP]
 patch=1,EE,200FFF08,extended,2402270F
 patch=1,EE,200FFF0C,extended,AC220034
 patch=1,EE,200FFF10,extended,AC2200AC
 
-//Max Attk
+[Max Attk]
 patch=1,EE,200FFF30,extended,AC220040

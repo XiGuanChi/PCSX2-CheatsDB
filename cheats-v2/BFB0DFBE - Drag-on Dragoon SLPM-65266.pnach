@@ -1,38 +1,38 @@
 gametitle=Drag-on Dragoon SLPM-65266
-//Kaim's strength 9999 fixed
+[Kaim's strength 9999 fixed]
 patch=1,EE,203A4210,extended,0000270F
 patch=1,EE,203A4214,extended,0000270F
 
-//invincible
+[invincible]
 patch=1,EE,2017121C,extended,1000005A
 patch=1,EE,201724AC,extended,00000000
 patch=1,EE,201C4DD0,extended,1000012E
 
-//Player MP maximum
+[Player MP maximum]
 patch=1,EE,20176DF8,extended,8C820734
 patch=1,EE,20176DFC,extended,AC820730
 
-//Dragon MP maximum
+[Dragon MP maximum]
 patch=1,EE,204AAC0C,extended,00001000
 
-//Sere added
+[Sere added]
 patch=1,EE,103A32E2,extended,00000001
 patch=1,EE,103A3796,extended,00000001
 
-//Add Ariosch
+[Add Ariosch]
 patch=1,EE,103A32E4,extended,00000001
 patch=1,EE,103A3798,extended,00000001
 
-//Add Leonard
+[Add Leonard]
 patch=1,EE,103A32E6,extended,00000001
 patch=1,EE,103A379A,extended,00000001
 
-//Story full chapter, free mission selectable Condition: Select each item
+[Story full chapter, free mission selectable Condition: Select each item]
 patch=1,EE,2013563C,extended,2402FFFF
 patch=1,EE,20135640,extended,AC820540
 patch=1,EE,2013564C,extended,24020001
 
-//All weapons selectable Condition: Select weapon in battle preparation
+[All weapons selectable Condition: Select weapon in battle preparation]
 patch=1,EE,201365EC,extended,10A0FFF5
 patch=1,EE,201365F4,extended,2402000F
 patch=1,EE,201365FC,extended,A06205DB

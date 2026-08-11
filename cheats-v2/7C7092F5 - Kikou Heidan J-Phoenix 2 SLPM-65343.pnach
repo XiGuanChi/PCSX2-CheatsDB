@@ -1,13 +1,13 @@
 gametitle=Kikou Heidan J-Phoenix 2 SLPM-65343
-//Infinite ammo
+[Infinite ammo]
 patch=1,EE,20178D94,extended,24820000
 
-//Player PF ability change
-//Exterior HP
+[Player PF ability change]
+[Exterior HP]
 patch=1,EE,20BDC02C,extended,0000270f
 
-//Interior HP
+[Interior HP]
 patch=1,EE,20BDC030,extended,0000270f
 
-//Maximum EP
+[Maximum EP]
 patch=1,EE,10BDC034,extended,0000270f

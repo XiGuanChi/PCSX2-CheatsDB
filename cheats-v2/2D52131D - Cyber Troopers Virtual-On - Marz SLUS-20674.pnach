@@ -1,8 +1,8 @@
 gametitle=Cyber Troopers Virtual-On - Marz SLUS-20674
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,20A3B020,extended,0000270F
 
-//Tap Select For Instant Death (Enemy)
+[Tap Select For Instant Death (Enemy)]
 patch=1,EE,200C0220,extended,3C0100A3
 patch=1,EE,200C0224,extended,3421AE20
 patch=1,EE,200C0228,extended,54300001

@@ -1,22 +1,22 @@
 gametitle=Pac-Man World 3 SLUS-21219
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,2031D59C,extended,00000000
 
-//Infinite Health 
+[Infinite Health]
 patch=1,EE,2031D3F8,extended,00000000
 
-//Galaxian Maze Infinite Lives
+[Galaxian Maze Infinite Lives]
 patch=1,EE,202DC770,extended,00000000
 
-//Pac-Man Arcade Infinite Lives
+[Pac-Man Arcade Infinite Lives]
 patch=1,EE,202D4120,extended,00000000
 
-//Unlock All Collection Cards
+[Unlock All Collection Cards]
 patch=1,EE,41D98571,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,41D98598,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//All Levels
+[All Levels]
 patch=1,EE,21D98584,extended,FFFFFFFF
 patch=1,EE,21D985AC,extended,FFFFFFFF

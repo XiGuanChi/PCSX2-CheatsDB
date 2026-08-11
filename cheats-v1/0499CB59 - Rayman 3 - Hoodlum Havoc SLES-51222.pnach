@@ -1,26 +1,26 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,211C262C,extended,000000C8
 
-//Cheats/Play a Level to Unlock All Bonus
+[Cheats/Play a Level to Unlock All Bonus]
 patch=1,EE,211E1F44,extended,000F423F
 
-//Cheats/Always Saved Geezer
+[Cheats/Always Saved Geezer]
 patch=1,EE,D11C27F0,extended,00000000
 patch=1,EE,011C27F0,extended,00000005
 
-//Cheats/Racket Jump Always 40-0
+[Cheats/Racket Jump Always 40-0]
 patch=1,EE,D1896E68,extended,00000000
 patch=1,EE,21896E68,extended,00000003
 patch=1,EE,21896E6C,extended,00000000
 
-//Cheats/Crush Always 99 Hits
+[Cheats/Crush Always 99 Hits]
 patch=1,EE,0160FF68,extended,00000063
 
-//Cheats/Razoff Circus No Reload
+[Cheats/Razoff Circus No Reload]
 patch=1,EE,0185AC40,extended,00000006
 
-//Cheats/Sentinal Infinite Health
+[Cheats/Sentinal Infinite Health]
 patch=1,EE,116EB0B8,extended,00000078
 
-//Cheats/Commando Infinite Retries
+[Cheats/Commando Infinite Retries]
 patch=1,EE,0193435A,extended,00000003

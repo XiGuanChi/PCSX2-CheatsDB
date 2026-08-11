@@ -1,15 +1,15 @@
-//Cheats/Infinite and Max Health
+[Cheats/Infinite and Max Health]
 patch=1,EE,200FFF40,extended,0C0E3054
 patch=1,EE,200FFF48,extended,2406270F
 patch=1,EE,200FFF50,extended,0C0FFF4C
 patch=1,EE,200FFF58,extended,08141AA0
 patch=1,EE,20506A78,extended,0803FFD0
 
-//Cheats/Max Meseta After Earning Some
+[Cheats/Max Meseta After Earning Some]
 patch=1,EE,2029A034,extended,00000000
 
-//Cheats/Infinite PP
+[Cheats/Infinite PP]
 patch=1,EE,202E9B30,extended,8603000E
 
-//Cheats/Instant Max Level Up
+[Cheats/Instant Max Level Up]
 patch=1,EE,2029C3B4,extended,00000000

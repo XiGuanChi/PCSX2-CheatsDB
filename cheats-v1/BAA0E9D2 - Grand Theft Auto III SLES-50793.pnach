@@ -1,28 +1,28 @@
-//Cheats/Max Cash
+[Cheats/Max Cash]
 patch=1,EE,205116A8,extended,05F5E0FF
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20B661D0,extended,42C80000
 
-//Cheats/Infinite Armour
+[Cheats/Infinite Armour]
 patch=1,EE,20B661D4,extended,42C80000
 
-//Cheats/Infinite Pistol Ammo
+[Cheats/Infinite Pistol Ammo]
 patch=1,EE,20B662AC,extended,0000000C
 patch=1,EE,20B662B0,extended,00000034
 
-//Cheats/All Weapons At Hideout
+[Cheats/All Weapons At Hideout]
 patch=1,EE,205116B0,extended,00000064
 
-//Cheats/Never Wanted
+[Cheats/Never Wanted]
 patch=1,EE,202A35F0,extended,00000000
 patch=1,EE,202A3868,extended,00000000
 patch=1,EE,20415688,extended,00000000
 
-//Cheats/Turn Off Car Damage
+[Cheats/Turn Off Car Damage]
 patch=1,EE,201AE508,extended,00000000
 
-//Cheats/Freeze Mission Timers Press L2 to activate and R2 to deactivate
+[Cheats/Freeze Mission Timers Press L2 to activate and R2 to deactivate]
 patch=1,EE,D0509FC2,extended,0000FEFF
 patch=1,EE,202BE128,extended,00000000
 patch=1,EE,D0509FC2,extended,0000FDFF

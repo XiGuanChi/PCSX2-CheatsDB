@@ -1,12 +1,12 @@
 gametitle=Luxor - Pharaoh's Challenge SLUS-21703
-//Gain +10000 for each break
+[Gain +10000 for each break]
 patch=1,EE,2011B374,extended,26732710
 
-//100% Accuracy
+[100% Accuracy]
 patch=1,EE,20131418,extended,ACE10010
 
-//Accuracy Bonus X by 10000 This will X the amount u get by 10000
+[Accuracy Bonus X by 10000 This will X the amount u get by 10000]
 patch=1,EE,10131460,extended,00002710
 
-//Balls Destroyed
+[Balls Destroyed]
 patch=1,EE,1012B2C0,extended,00002710

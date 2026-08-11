@@ -1,37 +1,37 @@
-//Cheats/Infinite Health Entire Team
+[Cheats/Infinite Health Entire Team]
 patch=1,EE,200C0220,extended,3C024376
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AE020074
 patch=1,EE,201CE040,extended,0C030088
 patch=1,EE,201CE044,extended,46010034
 
-//Cheats/Infinite Health Only Current Character
+[Cheats/Infinite Health Only Current Character]
 patch=1,EE,200C0230,extended,3C014348
 patch=1,EE,200C0234,extended,AC810074
 patch=1,EE,200C0238,extended,08087798
 patch=1,EE,200C023C,extended,C4800074
 patch=1,EE,2021DE5C,extended,08030088
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,20222EFC,extended,00000000
 
-//Cheats/Infinite MediKits
+[Cheats/Infinite MediKits]
 patch=1,EE,2022AA98,extended,00000000
 
-//Cheats/Extra MediKits
+[Cheats/Extra MediKits]
 patch=1,EE,2022AA94,extended,00451021
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,20222750,extended,00000000
 
-//Cheats/Idiot AI
+[Cheats/Idiot AI]
 patch=1,EE,2042CD9C,extended,00000001
 
-//Cheats/Enable Debug Mappings
+[Cheats/Enable Debug Mappings]
 patch=1,EE,204150FC,extended,00000001
 
-//Cheats/Infinite Skill Points Usage
+[Cheats/Infinite Skill Points Usage]
 patch=1,EE,20217874,extended,00000000
 
-//Cheats/Unlock Cheats Menu Inside Options
+[Cheats/Unlock Cheats Menu Inside Options]
 patch=1,EE,2042BF10,extended,00000001

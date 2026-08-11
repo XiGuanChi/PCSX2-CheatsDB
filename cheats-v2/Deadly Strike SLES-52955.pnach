@@ -1,12 +1,12 @@
 gametitle=Deadly Strike SLES-52955
-//Infinite Time
+[Infinite Time]
 patch=1,EE,2023D838,extended,00006300
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2013D25C,extended,00000000
 
-//Infinite Energy
+[Infinite Energy]
 patch=1,EE,20108AC8,extended,00000000
 
-//Huge Score
+[Huge Score]
 patch=1,EE,201F9CF0,extended,05F5E0FF

@@ -1,4 +1,4 @@
-//Cheats/L2 Remaining Time 10 Minutes R2 Remaining Time 0
+[Cheats/L2 Remaining Time 10 Minutes R2 Remaining Time 0]
 patch=1,EE,D0BC1F80,extended,00000100
 patch=1,EE,2065855C,extended,00004650
 patch=1,EE,D0BC1F80,extended,00000100
@@ -6,7 +6,7 @@ patch=1,EE,20658560,extended,00004650
 patch=1,EE,D0BC1F80,extended,00000200
 patch=1,EE,20658560,extended,00000000
 
-//Cheats/Unlock Have All Objects Collected
+[Cheats/Unlock Have All Objects Collected]
 patch=1,EE,2065864C,extended,01010101
 patch=1,EE,20658650,extended,01010101
 patch=1,EE,20658654,extended,01010101

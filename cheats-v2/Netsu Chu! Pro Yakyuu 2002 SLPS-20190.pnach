@@ -1,9 +1,9 @@
 gametitle=Netsu Chu! Pro Yakyuu 2002 SLPS-20190
-//Asunaro player ability UP point change 0pts for L1 99pts for R1 When you finish the distribution of points, please set it to 0pts with L1
+[Asunaro player ability UP point change 0pts for L1 99pts for R1 When you finish the distribution of points, please set it to 0pts with L1]
 patch=1,EE,D026A09A,extended,00000400
 patch=1,EE,0026BE60,extended,00000000
 patch=1,EE,D026A09A,extended,00000800
 patch=1,EE,0026BE60,extended,00000063
 
-//Acquired Asunaro Number 999999
+[Acquired Asunaro Number 999999]
 patch=1,EE,2012DDC0,extended,000F423F

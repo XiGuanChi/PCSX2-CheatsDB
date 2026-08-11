@@ -1,31 +1,31 @@
-//Cheats/Refill Health Press L1+L2+R1+R2
+[Cheats/Refill Health Press L1+L2+R1+R2]
 patch=1,EE,D0360102,extended,0000F0FF
 patch=1,EE,00360C68,extended,00000005
 
-//Cheats/Invincible Press L3 To Activate And R3 To Deactivate
+[Cheats/Invincible Press L3 To Activate And R3 To Deactivate]
 patch=1,EE,D0360102,extended,0000FFFD
 patch=1,EE,20360CC8,extended,3F800000
 
-//Cheats/Invulnerable
+[Cheats/Invulnerable]
 patch=1,EE,203611E0,extended,00000000
 
-//Cheats/Max Scooby Snacks
+[Cheats/Max Scooby Snacks]
 patch=1,EE,20360F34,extended,23071978
 
-//Cheats/Multi Jumps
+[Cheats/Multi Jumps]
 patch=1,EE,10360F14,extended,00000001
 
-//Cheats/Have All Power Ups
+[Cheats/Have All Power Ups]
 patch=1,EE,20360F38,extended,FFFFFFFF
 
-//Cheats/Infinite Bubble Gum
+[Cheats/Infinite Bubble Gum]
 patch=1,EE,00360F40,extended,0000000A
 
-//Cheats/Infinite Soap Bubbles
+[Cheats/Infinite Soap Bubbles]
 patch=1,EE,00360F44,extended,0000000A
 
-//Cheats/Skycam
+[Cheats/Skycam]
 patch=1,EE,20360AA0,extended,41800000
 
-//Cheats/Unlock Sections Even Without Snacks
+[Cheats/Unlock Sections Even Without Snacks]
 patch=1,EE,20192298,extended,10000004

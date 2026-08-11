@@ -1,41 +1,41 @@
 gametitle=Samurai Warriors SLUS-20878
-//All Movies
+[All Movies]
 patch=1,EE,204EBFCC,extended,FFFFFFFF
 patch=1,EE,204EBFD8,extended,FFFFFFFF
 patch=1,EE,004EBFD7,extended,000000FF
 
-//Player 1 Codes
+[Player 1 Codes]
 
-//999 Kills
+[999 Kills]
 patch=1,EE,20517DDC,extended,000003E7
 
-//999 Combo Points
+[999 Combo Points]
 patch=1,EE,2050BAE8,extended,000003E7
 
-//9999 Kills
+[9999 Kills]
 patch=1,EE,20517DDC,extended,0000270F
 
-//Max EXP
+[Max EXP]
 patch=1,EE,20517DB0,extended,05F5E0FF
 
-//Max EXP-Shinobi
+[Max EXP-Shinobi]
 patch=1,EE,204EBC00,extended,000F423F
 
-//Max EXP-Teppou
+[Max EXP-Teppou]
 patch=1,EE,204EBC40,extended,000F423F
 
-//Max EXP-Kengou
+[Max EXP-Kengou]
 patch=1,EE,204EBC80,extended,000F423F
 
-//Infinite Time - Power Ups
+[Infinite Time - Power Ups]
 patch=1,EE,20143B2C,extended,24630000
 
-//Yukimura Sanada Codes
+[Yukimura Sanada Codes]
 
-//Max Skill Points
+[Max Skill Points]
 patch=1,EE,204EB1F4,extended,0001869F
 
-//All Skills Level 3
+[All Skills Level 3]
 patch=1,EE,104EB1C8,extended,00000303
 patch=1,EE,104EB1CA,extended,00000303
 patch=1,EE,104EB1CC,extended,00000303
@@ -48,40 +48,40 @@ patch=1,EE,104EB1D8,extended,00000303
 patch=1,EE,104EB1C6,extended,00000303
 patch=1,EE,004EB1EC,extended,00000003
 
-//Max Life
+[Max Life]
 patch=1,EE,004EB1B0,extended,000000FF
 
-//Max Musou
+[Max Musou]
 patch=1,EE,004EB1B1,extended,000000FF
 
-//Max ATK
+[Max ATK]
 patch=1,EE,004EB1B2,extended,000000C8
 
-//Max DEF
+[Max DEF]
 patch=1,EE,004EB1B3,extended,000000C8
 
-//Max Ranged ATK
+[Max Ranged ATK]
 patch=1,EE,004EB1B4,extended,000000C8
 
-//Max Ranged DEF
+[Max Ranged DEF]
 patch=1,EE,004EB1B5,extended,000000C8
 
-//Max Horse ATK
+[Max Horse ATK]
 patch=1,EE,004EB1B6,extended,000000C8
 
-//Max Horse DEF
+[Max Horse DEF]
 patch=1,EE,004EB1B7,extended,000000C8
 
-//Max Agility
+[Max Agility]
 patch=1,EE,004EB1B8,extended,000000C8
 
-//Max Jump
+[Max Jump]
 patch=1,EE,004EB1B9,extended,000000C8
 
-//Max Speed
+[Max Speed]
 patch=1,EE,004EB1BA,extended,000000C8
 
-//Max All Stats
+[Max All Stats]
 patch=1,EE,004EB1B2,extended,000000C8
 patch=1,EE,004EB1B3,extended,000000C8
 patch=1,EE,004EB1B4,extended,000000C8

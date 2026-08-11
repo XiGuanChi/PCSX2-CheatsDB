@@ -1,13 +1,13 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,205ECB3C,extended,00C800C8
 
-//Cheats/Max Garto Gauge 1P
+[Cheats/Max Garto Gauge 1P]
 patch=1,EE,105ECB42,extended,00006464
 
-//Cheats/Max Power Gauge 1P
+[Cheats/Max Power Gauge 1P]
 patch=1,EE,005ECB44,extended,00000003
 
-//Cheats/Unlock All Characters Can Be Used In All Colors
+[Cheats/Unlock All Characters Can Be Used In All Colors]
 patch=1,EE,4067E918,extended,00140014
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,4067E92C,extended,00140014

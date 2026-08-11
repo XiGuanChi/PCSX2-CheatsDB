@@ -1,22 +1,22 @@
 gametitle=Burnout SLUS-20307
-//Infinite Turbo	
+[Infinite Turbo]
 patch=1,EE,203A76DC,extended,42C80000
 
-//Infinite Credits	
+[Infinite Credits]
 patch=1,EE,1037ED50,extended,000003E7
 
-//Have Survival	
+[Have Survival]
 patch=1,EE,0037929C,extended,00000000
 
-//All Cars	
+[All Cars]
 patch=1,EE,403791F4,extended,000A0001
 patch=1,EE,00000000,extended,00000000
 
-//All Tracks	
+[All Tracks]
 patch=1,EE,4037921C,extended,00100001
 patch=1,EE,00000000,extended,00000000
 
-//All Tracks Championship Track 
+[All Tracks Championship Track]
 patch=1,EE,4037925C,extended,00060001
 patch=1,EE,00000000,extended,00000000
 

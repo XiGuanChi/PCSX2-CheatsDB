@@ -1,33 +1,33 @@
 gametitle=Legaia 2 - Duel Saga SLUS-20414
-//Max Money
+[Max Money]
 patch=1,EE,203FC3B8,extended,0098967F
 
-//Save Anywhere
+[Save Anywhere]
 patch=1,EE,10422D28,extended,00000001
 
-//No Random Battles
+[No Random Battles]
 patch=0,EE,102BC80E,extended,00001000
 
-//Character 1 Infinite & Max HP In Battle
+[Character 1 Infinite & Max HP In Battle]
 patch=1,EE,10417560,extended,0000270F
 patch=1,EE,1041752C,extended,0000270F
 
-//Character 1 Infinite & Max MP In Battle
+[Character 1 Infinite & Max MP In Battle]
 patch=1,EE,10417530,extended,0000270F
 patch=1,EE,10417564,extended,0000270F
 
-//Character 2 Infinite & Max HP In Battle
+[Character 2 Infinite & Max HP In Battle]
 patch=1,EE,104175DC,extended,0000270F
 patch=1,EE,10417610,extended,0000270F
 
-//Character 1 Infinite & Max MP In Battle
+[Character 1 Infinite & Max MP In Battle]
 patch=1,EE,104175E0,extended,0000270F
 patch=1,EE,10417614,extended,0000270F
 
-//Character 3 Infinite & Max HP In Battle
+[Character 3 Infinite & Max HP In Battle]
 patch=1,EE,1041768C,extended,0000270F
 patch=1,EE,104176C0,extended,0000270F
 
-//Character 3 Infinite & Max HP In Battle
+[Character 3 Infinite & Max HP In Battle]
 patch=1,EE,10417690,extended,0000270F
 patch=1,EE,104176C4,extended,0000270F

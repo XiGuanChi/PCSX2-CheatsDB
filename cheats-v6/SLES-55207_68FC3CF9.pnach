@@ -1,36 +1,36 @@
 gametitle=Alone in the Dark PAL-M SLES-55207 68FC3CF9
 
-//Cheats/Invincible
+[Cheats/Invincible]
 author=PSXDataCenter
 notes=RAW PCSX2 code for SLES-55207 / CRC 68FC3CF9.
 description=Edward sollte gegen normalen Schaden unverwundbar sein.
 patch=1,EE,2020901C,extended,24020001
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 author=PSXDataCenter
 notes=RAW PCSX2 code for SLES-55207 / CRC 68FC3CF9.
 description=Munition sollte nicht weniger werden.
 patch=1,EE,2024A004,extended,3C020000
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 author=PSXDataCenter
 notes=RAW PCSX2 code for SLES-55207 / CRC 68FC3CF9.
 description=Gegner sollten mit einem Treffer sterben.
 patch=1,EE,20151608,extended,10000009
 
-//Cheats/Disable AI Path
+[Cheats/Disable AI Path]
 author=PSXDataCenter
 notes=RAW PCSX2 code for SLES-55207 / CRC 68FC3CF9.
 description=Kann Gegner-KI/Wege deaktivieren. Nur aktivieren, wenn du es wirklich brauchst, kann Stellen im Spiel kaputt machen.
 patch=1,EE,201A1C20,extended,03E00008
 patch=1,EE,201A1C24,extended,00000000
 
-//Patches/NTSC Mode
+[Patches/NTSC Mode]
 author=Gabominated
 description=NTSC-Modus beim Start. Kann Timing/Geschwindigkeit ändern.
 patch=1,EE,004413D8,word,14400002
 
-//Patches/480p Mode
+[Patches/480p Mode]
 author=Gabominated
 description=SDTV 480p-Modus beim Start.
 patch=1,EE,004413D8,word,14400002

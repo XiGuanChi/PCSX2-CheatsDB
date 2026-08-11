@@ -1,4 +1,4 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF00,extended,3C030073
 patch=1,EE,200FFF04,extended,8C633CA8
 patch=1,EE,200FFF08,extended,AC832AD4
@@ -6,19 +6,19 @@ patch=1,EE,200FFF0C,extended,C6212AD4
 patch=1,EE,200FFF10,extended,08087C08
 patch=1,EE,2021F01C,extended,0803FFC0
 
-//Cheats/Each Red Orb 9999
+[Cheats/Each Red Orb 9999]
 patch=1,EE,202EB758,extended,2404270F
 
-//Cheats/Infinite Yellow Orbs
+[Cheats/Infinite Yellow Orbs]
 patch=1,EE,00733B96,extended,00000063
 
-//Cheats/Max Blue Orbs
+[Cheats/Max Blue Orbs]
 patch=1,EE,00733B97,extended,00000006
 
-//Cheats/Max Purple Orbs
+[Cheats/Max Purple Orbs]
 patch=1,EE,00733B98,extended,00000007
 
-//Cheats/All Weapons available
+[Cheats/All Weapons available]
 patch=1,EE,00733BA6,extended,00000001
 patch=1,EE,00733BA7,extended,00000001
 patch=1,EE,00733BA8,extended,00000001
@@ -32,7 +32,7 @@ patch=1,EE,00733BAF,extended,00000001
 patch=1,EE,00733BB0,extended,00000001
 patch=1,EE,00733BB1,extended,00000001
 
-//Cheats/Unlock All Normal Levels
+[Cheats/Unlock All Normal Levels]
 patch=1,EE,00733BE1,extended,00000005
 patch=1,EE,00733BE2,extended,00000005
 patch=1,EE,00733BE3,extended,00000005
@@ -54,7 +54,7 @@ patch=1,EE,00733BF2,extended,00000005
 patch=1,EE,00733BF3,extended,00000005
 patch=1,EE,00733BF4,extended,00000005
 
-//Cheats/Unlock All Bonus Material Save Game to unlock
+[Cheats/Unlock All Bonus Material Save Game to unlock]
 patch=1,EE,21CB2A20,extended,FFFFFFFF
 patch=1,EE,21CB2A24,extended,FFFFFFFF
 patch=1,EE,21CB2A28,extended,FFFFFFFF

@@ -1,11 +1,11 @@
 gametitle=NBA Street Vol. 2 SLES-51481
-//Max Reward Points
+[Max Reward Points]
 patch=1,EE,204BBF28,extended,05F5E0FF
 
-//All Rewards
+[All Rewards]
 patch=1,EE,204BBF30,extended,FFFFFFFF
 patch=1,EE,204BBF34,extended,FFFFFFFF
 patch=1,EE,104BBF38,extended,00000FFF
 
-//All Trophies
+[All Trophies]
 patch=1,EE,004BBF40,extended,0000000F

@@ -1,24 +1,24 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,3C024316
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AE020060
 patch=1,EE,201A31F8,extended,0C030088
 patch=1,EE,201A31FC,extended,4600B034
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,201A8A70,extended,00000000
 
-//Cheats/Extra Ammo
+[Cheats/Extra Ammo]
 patch=1,EE,101A8A6C,extended,00000001
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,201A8B14,extended,00000000
 
-//Cheats/P1 Press R1+R2+L1+L2+Select To Skip Level
+[Cheats/P1 Press R1+R2+L1+L2+Select To Skip Level]
 patch=1,EE,D03D9402,extended,0000F0FE
 patch=1,EE,203CA854,extended,00000001
 patch=1,EE,D03D9402,extended,0000FFFF
 patch=1,EE,203CA854,extended,00000000
 
-//Cheats/Enable Cheat Menu Options
+[Cheats/Enable Cheat Menu Options]
 patch=1,EE,2034ED4C,extended,00000001

@@ -1,22 +1,22 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201869A0,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,20202DB8,extended,00000000
 
-//Cheats/Infinite Grenades
+[Cheats/Infinite Grenades]
 patch=1,EE,20208448,extended,00000000
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,201BA5A0,extended,26C60000
 
-//Cheats/Infinite Skill Points
+[Cheats/Infinite Skill Points]
 patch=1,EE,2022AE1C,extended,00000000
 
-//Cheats/Infinite Item Use
+[Cheats/Infinite Item Use]
 patch=1,EE,20203B20,extended,26D10000
 
-//Cheats/Max All Skills
+[Cheats/Max All Skills]
 patch=1,EE,20205DD8,extended,241E0005
 patch=1,EE,2020616C,extended,241E0005
 patch=1,EE,20205DDC,extended,AEDE0000

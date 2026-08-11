@@ -1,82 +1,82 @@
 gametitle=Rockman X Command Mission SLPM-65643
-//FME 9999999E
+[FME 9999999E]
 patch=1,EE,20557950,extended,0098967F
 
-//Zenny 9999999Z
+[Zenny 9999999Z]
 patch=1,EE,2055794C,extended,0098967F
 
-//Sub Tank Full
+[Sub Tank Full]
 patch=1,EE,20557F54,extended,03E8000A
 
-//Coin 999
+[Coin 999]
 patch=1,EE,20557958,extended,000003E7
 
-//After the battle, winning experience Max
+[After the battle, winning experience Max]
 patch=1,EE,205584EC,extended,0098967F
 
-//Level up maximum value 9999
+[Level up maximum value 9999]
 patch=1,EE,20213954,extended,2405270F
 
-//Level up Power 999
+[Level up Power 999]
 patch=1,EE,202139E4,extended,240B03E7
 
-//Level up Armor 999
+[Level up Armor 999]
 patch=1,EE,20213A18,extended,240903E7
 
-//Level up Shield 999
+[Level up Shield 999]
 patch=1,EE,20213A24,extended,240803E7
 
-//Level up Speed 200
+[Level up Speed 200]
 patch=1,EE,20213A30,extended,240703E7
 
-//No Random Battles ON in L1 + START button OFF in R1 + START button
+[No Random Battles ON in L1 + START button OFF in R1 + START button]
 patch=1,EE,D065B442,extended,0000FBF7
 patch=1,EE,20163B00,extended,10000024
 patch=1,EE,D065B442,extended,0000F7F7
 patch=1,EE,20163B00,extended,14600024
 
-//Force Metal purification level unrestricted
+[Force Metal purification level unrestricted]
 patch=1,EE,20293718,extended,24020063
 
-//Force Metal during purification, not decrease material
+[Force Metal during purification, not decrease material]
 patch=1,EE,20293544,extended,00000000
 
 
-//Level Max If you look at the data Dispatch center
+[Level Max If you look at the data Dispatch center]
 patch=1,EE,20182E74,extended,2401000A
 patch=1,EE,20182E78,extended,A4410000
 patch=1,EE,20182E7C,extended,10000070
 
-//Physical fitness Max If you look at the data Dispatch center
+[Physical fitness Max If you look at the data Dispatch center]
 patch=1,EE,2018270C,extended,24010064
 patch=1,EE,20182710,extended,A4610000
 patch=1,EE,20182728,extended,10000035
 
-//Forces Max If you look at the data Dispatch center
+[Forces Max If you look at the data Dispatch center]
 patch=1,EE,2018273C,extended,2401000A
 patch=1,EE,20182740,extended,A4410000
 
-//Search force Max If you look at the data Dispatch center
+[Search force Max If you look at the data Dispatch center]
 patch=1,EE,20182758,extended,2401000A
 patch=1,EE,2018275C,extended,A4410000
 
-//Intelligence force Max If you look at the data Dispatch center
+[Intelligence force Max If you look at the data Dispatch center]
 patch=1,EE,20182774,extended,2401000A
 patch=1,EE,20182778,extended,A4410000
 
-//Moving force Max If you look at the data Dispatch center
+[Moving force Max If you look at the data Dispatch center]
 patch=1,EE,20182790,extended,2401000A
 patch=1,EE,20182794,extended,A4410000
 
-//All Figure Save as soon as you see the effect and disconnect the code
+[All Figure Save as soon as you see the effect and disconnect the code]
 patch=1,EE,405577AC,extended,00390001
 patch=1,EE,00010001,extended,00000000
 
-//Design Arend & Final Poster and Music & Video Complete Save as soon as you see the effect and disconnect the code
+[Design Arend & Final Poster and Music & Video Complete Save as soon as you see the effect and disconnect the code]
 patch=1,EE,405578A4,extended,000B0001
 patch=1,EE,FFFFFFFF,extended,00000000
-//.
-//Dispatch all members & Hall of Fame Save as soon as you see the effect and disconnect the code
+[.]
+[Dispatch all members & Hall of Fame Save as soon as you see the effect and disconnect the code]
 patch=1,EE,405571E8,extended,000C0007
 patch=1,EE,000A0001,extended,00000000
 patch=1,EE,405571EC,extended,000C0007

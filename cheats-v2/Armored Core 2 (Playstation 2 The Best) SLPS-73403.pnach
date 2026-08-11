@@ -1,15 +1,15 @@
 gametitle=Armored Core 2 (Playstation 2 The Best) SLPS-73403
-//Cr 99999999
+[Cr 99999999]
 patch=1,EE,203B9380,extended,05F5E0FF
 
-//Clear already 
+[Clear already]
 patch=1,EE,003B9384,extended,00000001
 
-//Strengthening human (1P)
+[Strengthening human (1P)]
 patch=1,EE,003B9386,extended,00000007
 
-//Not decrease AP (1P)
+[Not decrease AP (1P)]
 patch=1,EE,102BBFF4,extended,00009C3C
 
-//Not decrease energy gauge (1P)
+[Not decrease energy gauge (1P)]
 patch=1,EE,102BBFF8,extended,0000CF08

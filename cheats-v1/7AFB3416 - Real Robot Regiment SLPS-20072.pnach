@@ -1,8 +1,8 @@
-//Cheats/Unlock All Stages in free mode
+[Cheats/Unlock All Stages in free mode]
 patch=1,EE,201F1CDC,extended,01010101
 patch=1,EE,201F1CE0,extended,01010101
 patch=1,EE,201F1CE4,extended,01010101
 patch=1,EE,101F1CE8,extended,00000101
 
-//Cheats/Unlock Hidden mode, Selectable Aircraft and Hidden Story
+[Cheats/Unlock Hidden mode, Selectable Aircraft and Hidden Story]
 patch=1,EE,101F1980,extended,0000FFFF

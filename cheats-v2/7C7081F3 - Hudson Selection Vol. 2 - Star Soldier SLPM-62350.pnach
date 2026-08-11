@@ -1,13 +1,13 @@
 gametitle=Hudson Selection Vol. 2 - Star Soldier SLPM-62350
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,204907A8,extended,00000009
 
-//Laser always ready
+[Laser always ready]
 patch=1,EE,004907AA,extended,00000000
 
-//Untouchable 
+[Untouchable]
 patch=1,EE,00490800,extended,00000021
 
-//Timer 05:00:00 After pressing the L3 + R3 button
+[Timer 05:00:00 After pressing the L3 + R3 button]
 patch=1,EE,D04928C2,extended,0000FFF9
 patch=1,EE,00492FC1,extended,00000046

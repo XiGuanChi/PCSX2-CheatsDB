@@ -1,4 +1,4 @@
-//Cheats/Required Code
+[Cheats/Required Code]
 patch=1,EE,200F6FE0,extended,001F031C
 patch=1,EE,200F7000,extended,27BDFFC0
 patch=1,EE,200F7004,extended,AFBF0000
@@ -30,7 +30,7 @@ patch=1,EE,00000000,extended,00000000
 patch=1,EE,50227BC0,extended,00000002
 patch=1,EE,000FFFD0,extended,00000000
 
-//Cheats/Triangle+Circle+L3 is code valid Triangle+circle+R3 is invalid
+[Cheats/Triangle+Circle+L3 is code valid Triangle+circle+R3 is invalid]
 patch=1,EE,50227BC0,extended,00000002
 patch=1,EE,000FFFC0,extended,00000000
 patch=1,EE,E0023002,extended,000F6FF0
@@ -41,7 +41,7 @@ patch=1,EE,200FFFD0,extended,00000000
 patch=1,EE,D0227BC0,extended,0000454D
 patch=1,EE,200FFFD0,extended,0000454D
 
-//Cheats/Change the current stage number in some gamea A number will be displayed on the pause screen, so use triangle +left- righ- L2 -R2 to change the value.Press triangle + START to change the stage number to the value displayed.Be careful, if you select a stage that does not exist, it will freeze
+[Cheats/Change the current stage number in some gamea A number will be displayed on the pause screen, so use triangle +left- righ- L2 -R2 to change the value.Press triangle + START to change the stage number to the value displayed.Be careful, if you select a stage that does not exist, it will freeze]
 patch=1,EE,200F7070,extended,0C03DCA0
 patch=1,EE,200F7264,extended,00006425
 patch=1,EE,200F7280,extended,240A1008
@@ -66,65 +66,65 @@ patch=1,EE,200F72D0,extended,0C04A194
 patch=1,EE,201E6958,extended,000F7268
 patch=1,EE,201E695C,extended,000F7268
 
-//Cheats/Required
+[Cheats/Required]
 patch=1,EE,D00FFFC0,extended,0000454D
 patch=1,EE,200F7270,extended,00000000
 patch=1,EE,D00FFFC0,extended,0000454D
 patch=1,EE,200F7274,extended,00000000
 
-//Cheats/Unlock Fairyland Story
+[Cheats/Unlock Fairyland Story]
 patch=1,EE,D00FFFC0,extended,00004C46
 patch=1,EE,200F7270,extended,00430B85
 
-//Cheats/Unlock Bubble Bobble
+[Cheats/Unlock Bubble Bobble]
 patch=1,EE,D00FFFC0,extended,00005542
 patch=1,EE,200F7270,extended,00433A4F
 
-//Cheats/Unlock Don Doko Don
+[Cheats/Unlock Don Doko Don]
 patch=1,EE,D00FFFC0,extended,00004F44
 patch=1,EE,200F7270,extended,004E503A
 
-//Cheats/Unlock Flip
+[Cheats/Unlock Flip]
 patch=1,EE,D00FFFC0,extended,00004C50
 patch=1,EE,200F7270,extended,0043120C
 
-//Cheats/Unlock Puchi Carat
+[Cheats/Unlock Puchi Carat]
 patch=1,EE,D00FFFC0,extended,00005550
 patch=1,EE,200F7270,extended,00647E3A
 
-//Cheats/Fairyland Story Infinite Llives
+[Cheats/Fairyland Story Infinite Llives]
 patch=1,EE,D00FFFD0,extended,00004C46
 patch=1,EE,00430B86,extended,00000091
 
-//Cheats/Strange and Mysterious World Infinite Llives
+[Cheats/Strange and Mysterious World Infinite Llives]
 patch=1,EE,D00FFFD0,extended,0000494B
 patch=1,EE,0047955B,extended,000000FF
 
-//Cheats/Strange and Mysterious World Increased distance of bills
+[Cheats/Strange and Mysterious World Increased distance of bills]
 patch=1,EE,D00FFFD0,extended,0000494B
 patch=1,EE,0047955C,extended,00000040
 
-//Cheats/Bubble Bobble Infinite Llives
+[Cheats/Bubble Bobble Infinite Llives]
 patch=1,EE,D00FFFD0,extended,00005542
 patch=1,EE,00433A49,extended,00000009
 patch=1,EE,D00FFFD0,extended,00005542
 patch=1,EE,00433A4E,extended,00000009
 
-//Cheats/Bubble Bobble invincible Since the water bubbles will prevent it from being washed away, you may get stuck on some surfaces.
+[Cheats/Bubble Bobble invincible Since the water bubbles will prevent it from being washed away, you may get stuck on some surfaces.]
 patch=1,EE,D00FFFD0,extended,00005542
 patch=1,EE,00433ABA,extended,000000FF
 patch=1,EE,D00FFFD0,extended,00005542
 patch=1,EE,00433AEC,extended,000000FF
 
-//Cheats/Camel Try Infinite time fixed at 99 seconds
+[Cheats/Camel Try Infinite time fixed at 99 seconds]
 patch=1,EE,D00FFFD0,extended,00004143
 patch=1,EE,104A9386,extended,00000990
 
-//Cheats/Camel Try Press Circle time 0
+[Cheats/Camel Try Press Circle time 0]
 patch=1,EE,E0024143,extended,000FFFD0
 patch=1,EE,D00F6FF0,extended,00002000
 patch=1,EE,104A9386,extended,00000000
 
-//Cheats/Flip Infinite Lives
+[Cheats/Flip Infinite Lives]
 patch=1,EE,D00FFFD0,extended,00004C50
 patch=1,EE,00431213,extended,00000004

@@ -1,10 +1,10 @@
 gametitle=DDRMAX - Dance Dance Revolution SLUS-20437
-//Unlock All Songs
+[Unlock All Songs]
 patch=1,EE,20276160,extended,FFFFFFFF
 
-//Max Meter P1
+[Max Meter P1]
 patch=1,EE,105570A2,extended,000003E8
 
-//All Lessons-All Sections Complete
+[All Lessons-All Sections Complete]
 patch=1,EE,40275D40,extended,00060001
 patch=1,EE,01010101,extended,00000000

@@ -1,34 +1,34 @@
 gametitle=The Sims 2 - Castaway SLUS-21664
-//Max Motives
+[Max Motives]
 patch=1,EE,2025006C,extended,00000000
 
-//Energy Never Decreases
+[Energy Never Decreases]
 patch=1,EE,201FEB08,extended,00000000
 
-//Comfort Never Decreases
+[Comfort Never Decreases]
 patch=1,EE,201FEB6C,extended,00000000
 
-//Hunger Never Decreases
+[Hunger Never Decreases]
 patch=1,EE,201FEB98,extended,00000000
 
-//Hygiene Never Decreases
+[Hygiene Never Decreases]
 patch=1,EE,201FEC00,extended,00000000
 
-//Bladder Never Decreases
+[Bladder Never Decreases]
 patch=1,EE,201FEC28,extended,00000000
 
-//Social Never Decreases
-//01FEC38 00000000
+[Social Never Decreases]
+[01FEC38 00000000]
 
-//Fun Never Decreases
+[Fun Never Decreases]
 patch=1,EE,201FEC48,extended,00000000
 
-//Room Never Decreases
+[Room Never Decreases]
 patch=1,EE,201FEF0C,extended,00000000
 
-//Enable All Plans
+[Enable All Plans]
 patch=1,EE,004923AC,extended,00000001
 
-//Enable ignore crafting resources
+[Enable ignore crafting resources]
 patch=1,EE,004923b0,extended,00000001
 patch=1,EE,004923b4,extended,00000001

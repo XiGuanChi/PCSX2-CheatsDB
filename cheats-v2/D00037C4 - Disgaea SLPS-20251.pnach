@@ -1,39 +1,39 @@
 gametitle=Disgaea SLPS-20251
-//Combat infinite action
+[Combat infinite action]
 patch=1,EE,20231A70,extended,00000001
 
-//Hell MAX
+[Hell MAX]
 patch=1,EE,20182F78,extended,3C084000
 patch=1,EE,20182F80,extended,AC28C3C0
 
-//Shopping level and customer level 12 when you shop at Rosen Kreuz firm
+[Shopping level and customer level 12 when you shop at Rosen Kreuz firm]
 patch=1,EE,201DF8F0,extended,241A000C
 patch=1,EE,201DF8FC,extended,3C01002E
 patch=1,EE,201DF92C,extended,A03AA703
 patch=1,EE,201DF930,extended,A03AA704
 
-//MAX mana available
+[MAX mana available]
 patch=1,EE,2016B7C8,extended,14200001
 
-//Character can be created without using mana
+[Character can be created without using mana]
 patch=1,EE,201D562C,extended,10000006
 
-//Congress passed always
+[Congress passed always]
 patch=1,EE,201CBC58,extended,10430331
 
-//No. 12 of the character which convened the Congress
+[No. 12 of the character which convened the Congress]
 patch=1,EE,201D2CBC,extended,341A000C
 patch=1,EE,201D2CC0,extended,334600FF
 patch=1,EE,201D2CD4,extended,A27A0701
 
-//The Congress can host without enough capacity parliament
+[The Congress can host without enough capacity parliament]
 patch=1,EE,201D118C,extended,10000010
 
-//Legend always rare item rate
+[Legend always rare item rate]
 patch=1,EE,201B4970,extended,00000000
 patch=1,EE,201B4978,extended,24040000
 
-//Makai hospital premium all-you-can-take
+[Makai hospital premium all-you-can-take]
 patch=1,EE,201DB6CC,extended,10000004
 patch=1,EE,201DB700,extended,00000000
 patch=1,EE,201DB720,extended,00000000

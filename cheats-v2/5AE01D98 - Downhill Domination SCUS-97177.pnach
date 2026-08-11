@@ -1,12 +1,12 @@
 gametitle=Downhill Domination SCUS-97177
-//Always Low Time
+[Always Low Time]
 patch=1,EE,2043EEC8,extended,00000000
 
-//Infinite Energy (Turbo-R3)
+[Infinite Energy (Turbo-R3)]
 patch=1,EE,202B2158,extended,42C80000
 
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,204347A8,extended,773593EC
 
-//Infinite Trick Meter
+[Infinite Trick Meter]
 patch=1,EE,201E629C,extended,E601002C

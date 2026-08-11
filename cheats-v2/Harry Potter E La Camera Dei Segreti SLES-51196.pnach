@@ -1,6 +1,6 @@
 gametitle=Harry Potter E La Camera Dei Segreti SLES-51196
-//No damage
+[No damage]
 patch=1,EE,203532D0,extended,03E00008
-// 
-//No need of silver coins to buy items 
+[]
+[No need of silver coins to buy items]
 patch=1,EE,202BFD98,extended,34020000

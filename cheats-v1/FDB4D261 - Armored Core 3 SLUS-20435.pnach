@@ -1,25 +1,25 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,205BE030,extended,05F5E0FF
 
-//Cheats/Infinite AP
+[Cheats/Infinite AP]
 patch=1,EE,104F50A4,extended,00009C3C
 
-//Cheats/Infinite Energy
+[Cheats/Infinite Energy]
 patch=1,EE,104F50A8,extended,00009C3C
 
-//Cheats/Mechs Never Overweight
+[Cheats/Mechs Never Overweight]
 patch=1,EE,1010A94E,extended,00001000
 
-//Cheats/Infinite Ammo All Weapons
+[Cheats/Infinite Ammo All Weapons]
 patch=1,EE,20176DB4,extended,00000000
 
-//Cheats/Extra Ammo All Weapons
+[Cheats/Extra Ammo All Weapons]
 patch=1,EE,10176DB0,extended,00000001
 
-//Cheats/Start On Last Mission
+[Cheats/Start On Last Mission]
 patch=1,EE,E05BE040,extended,0020001A
 patch=1,EE,205BE040,extended,0000001B
 
-//Cheats/Credits Dont Decrease For Consorts
+[Cheats/Credits Dont Decrease For Consorts]
 patch=1,EE,20214D30,extended,24020000
 patch=1,EE,20214D54,extended,24020000

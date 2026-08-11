@@ -1,6 +1,6 @@
 gametitle=The Great Escape SLUS-20670
-//Play All Movies Upon Starting Game
+[Play All Movies Upon Starting Game]
 patch=1,EE,204EE09C,extended,00000001
 
-//Have Level Select
+[Have Level Select]
 patch=1,EE,204EE0A0,extended,00000001

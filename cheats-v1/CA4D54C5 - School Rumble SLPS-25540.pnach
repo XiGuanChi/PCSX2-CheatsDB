@@ -1,7 +1,7 @@
-//Cheats/Max Points 9999
+[Cheats/Max Points 9999]
 patch=1,EE,20442DA8,extended,0000270F
 
-//Cheats/Unlock All CG After saving
+[Cheats/Unlock All CG After saving]
 patch=1,EE,2062A0D9,extended,FFFFFFFF
 patch=1,EE,2062A0DD,extended,FFFFFFFF
 patch=1,EE,1062A0E1,extended,0000FFFF

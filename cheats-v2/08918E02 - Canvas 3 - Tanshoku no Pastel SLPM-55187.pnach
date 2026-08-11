@@ -1,6 +1,6 @@
 gametitle=Canvas 3 - Tanshoku no Pastel SLPM-55187
-//Enable Debug Display 
+[Enable Debug Display]
 patch=1,EE,201709E4,extended,24050001
 
-//Re-enable Debug Mode Buttons press L2, L2, L1, L1, D-Pad Left, D-Pad Left, Circle, Circle, R1, R1, R2, R2 on Controller 2 at the main menu. Press Start to enable it now.
+[Re-enable Debug Mode Buttons press L2, L2, L1, L1, D-Pad Left, D-Pad Left, Circle, Circle, R1, R1, R2, R2 on Controller 2 at the main menu. Press Start to enable it now.]
 patch=1,EE,1010F2B8,extended,0000C33C

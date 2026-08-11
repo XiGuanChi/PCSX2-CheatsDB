@@ -1,14 +1,14 @@
 gametitle=Motor Mayhem - Vehicular Combat League SLUS-20171
-//Cheat Menu Itself Options Menu
+[Cheat Menu Itself Options Menu]
 patch=1,EE,001AB795,extended,00000001
 
-//Unlimited Energy 
+[Unlimited Energy]
 patch=1,EE,001AB7A6,extended,00000001
 
-//Unlimited Ammo
+[Unlimited Ammo]
 patch=1,EE,001AB7A5,extended,00000001
 
-//All Courses
+[All Courses]
 patch=1,EE,201AB7B0,extended,01010101
 patch=1,EE,201AB7CC,extended,01010101
 patch=1,EE,101AB7B4,extended,00000101

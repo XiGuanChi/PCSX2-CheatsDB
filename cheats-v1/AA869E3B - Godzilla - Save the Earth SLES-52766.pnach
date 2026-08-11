@@ -1,12 +1,12 @@
-//Cheats/Infinite Health Player 1
+[Cheats/Infinite Health Player 1]
 patch=1,EE,206E645C,extended,437A0000
 
-//Cheats/Infinite Health Player 2
+[Cheats/Infinite Health Player 2]
 patch=1,EE,206F345C,extended,437A0000
 
-//Cheats/No Health Player 2 Press Select
+[Cheats/No Health Player 2 Press Select]
 patch=1,EE,D0BE3F88,extended,00000800
 patch=1,EE,206F345C,extended,00000000
 
-//Cheats/Mam Points
+[Cheats/Mam Points]
 patch=1,EE,206A4348,extended,05F5E0FF

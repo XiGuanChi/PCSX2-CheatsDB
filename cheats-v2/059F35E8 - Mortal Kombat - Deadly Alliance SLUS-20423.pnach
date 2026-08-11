@@ -1,12 +1,12 @@
 gametitle=Mortal Kombat - Deadly Alliance SLUS-20423
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,2040A394,extended,3F800000
 
-//1 Round to Win
+[1 Round to Win]
 patch=1,EE,D040A388,extended,00000000
 patch=1,EE,1040A388,extended,00000001
 
-//Unlock All Costumes/Arenas/Concept Arts/Extras2AB377EC FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras2AB377EC FFFFFFFF]
 patch=1,EE,20550F0C,extended,FFFFFFFF
 patch=1,EE,20550F10,extended,FFFFFFFF
 patch=1,EE,20550F14,extended,FFFFFFFF
@@ -29,5 +29,5 @@ patch=1,EE,20550F54,extended,FFFFFFFF
 patch=1,EE,20550F58,extended,FFFFFFFF
 patch=1,EE,20550F5C,extended,FFFFFFFF
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,20409024,extended,FFFFFFFF

@@ -1,16 +1,16 @@
-//Cheats/Arcade Mode P1 Has 5 Fish
+[Cheats/Arcade Mode P1 Has 5 Fish]
 patch=1,EE,203B7E64,extended,00000005
 
-//Cheats/Arcade Mode P1 Has Big Weight
+[Cheats/Arcade Mode P1 Has Big Weight]
 patch=1,EE,203B7E4C,extended,000007D0
 
-//Cheats/0 Fish Caught Opp Tournament
+[Cheats/0 Fish Caught Opp Tournament]
 patch=1,EE,103B7E68,extended,00000000
 
-//Cheats/Infinite Time Arcade Mode
+[Cheats/Infinite Time Arcade Mode]
 patch=1,EE,103B7E1E,extended,00005000
 
-//Cheats/Instant Win Arcade Mode
+[Cheats/Instant Win Arcade Mode]
 patch=1,EE,103B7E1E,extended,00000000
 patch=1,EE,103B7E64,extended,00000009
 patch=1,EE,103B7E4C,extended,0000270F

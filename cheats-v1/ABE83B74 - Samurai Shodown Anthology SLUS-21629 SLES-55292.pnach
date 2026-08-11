@@ -1,4 +1,4 @@
-//Cheats/Must Be On Activator For SS 1 & 2 Codes
+[Cheats/Must Be On Activator For SS 1 & 2 Codes]
 patch=1,EE,200A0000,extended,3C01004B
 patch=1,EE,200A0004,extended,8421FACE
 patch=1,EE,200A0008,extended,3C02003F
@@ -26,47 +26,47 @@ patch=1,EE,201140E4,extended,03E00008
 patch=1,EE,D04AB882,extended,0000FCFF
 patch=1,EE,201140E4,extended,08028000
 
-//Cheats/Samurai Shodown 1 Player 1 Infinite HP
+[Cheats/Samurai Shodown 1 Player 1 Infinite HP]
 patch=1,EE,200A0044,extended,A48100A4
 
-//Cheats/Samurai Shodown 1 Player 2 No Hp P1 Press Start
+[Cheats/Samurai Shodown 1 Player 2 No Hp P1 Press Start]
 patch=1,EE,200A0050,extended,00000000
 patch=1,EE,D04AB882,extended,0000FFF7
 patch=1,EE,200A0050,extended,A4A000A4
 
-//Cheats/Samurai Shodown 2 Player 1 Infinite HP
+[Cheats/Samurai Shodown 2 Player 1 Infinite HP]
 patch=1,EE,200A0078,extended,A48100BA
 
-//Cheats/Samurai Shodown 2 Player 2 No Hp P1 Press Start
+[Cheats/Samurai Shodown 2 Player 2 No Hp P1 Press Start]
 patch=1,EE,200A0084,extended,00000000
 patch=1,EE,D04AB882,extended,0000FFF7
 patch=1,EE,200A0084,extended,A4A000BA
 
-//Cheats/Samurai Shodown 3 Player 1 Infinite HP
+[Cheats/Samurai Shodown 3 Player 1 Infinite HP]
 patch=1,EE,003E2D42,extended,00000080
 
-//Cheats/Samurai Shodown 3 Player 2 No Hp P1 Press Start
+[Cheats/Samurai Shodown 3 Player 2 No Hp P1 Press Start]
 patch=1,EE,D04AB882,extended,0000FFF7
 patch=1,EE,003E2E42,extended,0000000
 
-//Cheats/Samurai Shodown 4 Player 1 Infinite HP
+[Cheats/Samurai Shodown 4 Player 1 Infinite HP]
 patch=1,EE,003E2C12,extended,000000FC
 
-//Cheats/Samurai Shodown 4 Player 2 No Hp P1 Press Start
+[Cheats/Samurai Shodown 4 Player 2 No Hp P1 Press Start]
 patch=1,EE,D04AB882,extended,0000FFF7
 patch=1,EE,003E2E12,extended,00000001
 
-//Cheats/Samurai Shodown 5 Player 1 Infinite HP
+[Cheats/Samurai Shodown 5 Player 1 Infinite HP]
 patch=1,EE,003E2C14,extended,0000007D
 
-//Cheats/Samurai Shodown 5 Player 2 No Hp P1 Press Start
+[Cheats/Samurai Shodown 5 Player 2 No Hp P1 Press Start]
 patch=1,EE,D04AB982,extended,0000FFF7
 patch=1,EE,003E2C14,extended,00000001
 
-//Cheats/Samurai Shodown 6 Player 1 Infinite HP
+[Cheats/Samurai Shodown 6 Player 1 Infinite HP]
 patch=1,EE,01E54B70,extended,000000C8
 
-//Cheats/Samurai Shodown 6 Player 2 No Hp P1 Press Start
+[Cheats/Samurai Shodown 6 Player 2 No Hp P1 Press Start]
 patch=1,EE,D1472082,extended,0000FFF7
 patch=1,EE,01E55A9C,extended,00000001
 

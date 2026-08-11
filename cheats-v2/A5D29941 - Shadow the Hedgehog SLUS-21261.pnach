@@ -1,13 +1,13 @@
 gametitle=Shadow the Hedgehog SLUS-21261
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,209BFF30,extended,000003E7
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,209BFF34,extended,00000009
 
-//Have 999 Rings
+[Have 999 Rings]
 patch=1,EE,209BFF3C,extended,000003E7
 
-//Unlock All Levels
+[Unlock All Levels]
 patch=1,EE,409BC058,extended,00160015
 patch=1,EE,00000001,extended,00000000

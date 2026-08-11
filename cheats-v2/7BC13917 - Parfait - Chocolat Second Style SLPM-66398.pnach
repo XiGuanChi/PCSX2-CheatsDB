@@ -1,5 +1,5 @@
 gametitle=Parfait - Chocolat Second Style SLPM-66398
-//CG fully open
+[CG fully open]
 patch=1,EE,40282D05,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,20282D37,extended,FFFFFFFF
@@ -7,12 +7,12 @@ patch=1,EE,10282D19,extended,0000FFFF
 patch=1,EE,00282D1B,extended,000000FF
 patch=1,EE,00282D3B,extended,000000FF
 
-//Unlock All CG
+[Unlock All CG]
 patch=1,EE,00282D05,extended,000000FF
 patch=1,EE,10282D06,extended,0000FFFF
 patch=1,EE,40282D08,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Unlock All Music
+[Unlock All Music]
 patch=1,EE,00282D37,extended,000000FF
 patch=1,EE,20282D38,extended,FFFFFFFF

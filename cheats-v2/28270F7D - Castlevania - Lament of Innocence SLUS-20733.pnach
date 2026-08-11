@@ -1,14 +1,14 @@
 gametitle=Castlevania - Lament of Innocence SLUS-20733
-//Infinite Gold
+[Infinite Gold]
 patch=1,EE,10B64820,extended,0000FFFF
 
-//Infinite & Max Health
+[Infinite & Max Health]
 patch=1,EE,20B64AE8,extended,4479C000
 patch=1,EE,20B64800,extended,4479C000
 
-//Infinite & Max MP
+[Infinite & Max MP]
 patch=1,EE,20B64848,extended,00000063
 patch=1,EE,20B64844,extended,00000063
 
-//All Skills
+[All Skills]
 patch=1,EE,20B64AA4,extended,FFFFFFFF

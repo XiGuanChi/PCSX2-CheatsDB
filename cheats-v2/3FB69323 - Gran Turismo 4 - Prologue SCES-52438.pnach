@@ -1,122 +1,122 @@
 gametitle=Gran Turismo 4 - Prologue SCES-52438
-//60 Hertz Mode
+[60 Hertz Mode]
 patch=1,EE,20490D50,extended,24120002
 
-//Freeze Timer L3 to stop, R3 to restart
+[Freeze Timer L3 to stop, R3 to restart]
 patch=1,EE,D05165E4,extended,0000FFFD
 patch=1,EE,2033C6C8,extended,00000000
 patch=1,EE,D05165E4,extended,0000FFFB
 patch=1,EE,2033C6C8,extended,AC2213D0
 
-//Max Score
+[Max Score]
 patch=1,EE,2091A8D8,extended,000F41DC
-//Stupid Opponents Press Select & Left to activate, Press Select & Right to disable
+[Stupid Opponents Press Select & Left to activate, Press Select & Right to disable]
 patch=1,EE,D05165E4,extended,0000FF7E
 patch=1,EE,20333B68,extended,70001428
 patch=1,EE,D05165E4,extended,0000FFDE
 patch=1,EE,20333B68,extended,1440FFF9
 
-//Turbo (R3 to activate)
+[Turbo (R3 to activate)]
 patch=1,EE,200FFF04,extended,44810000
 patch=1,EE,200FFF08,extended,C6010494
 patch=1,EE,200FFF0C,extended,080CE114
 
-//Use a Gold Medal code to Unlock A
-//Car in Arcade Mode.
-//Unlock All Gold Medals/Cars
+[Use a Gold Medal code to Unlock A]
+[Car in Arcade Mode.]
+[Unlock All Gold Medals/Cars]
 patch=1,EE,2012FF74,extended,24050003
 patch=1,EE,2012FF7C,extended,AC650004
-//Lesson 01 Gold
+[Lesson 01 Gold]
 patch=1,EE,2091A8D4,extended,00000003
-//Lesson 02 Gold
+[Lesson 02 Gold]
 patch=1,EE,2091ABBC,extended,00000003
-//Lesson 03 Gold
+[Lesson 03 Gold]
 patch=1,EE,2091AEA4,extended,00000003
-//Lesson 04 Gold
+[Lesson 04 Gold]
 patch=1,EE,2091B18C,extended,00000003
-//Lesson 05 Gold
+[Lesson 05 Gold]
 patch=1,EE,2091B474,extended,00000003
-//Lesson 06 Gold
+[Lesson 06 Gold]
 patch=1,EE,2091B75C,extended,00000003
-//Lesson 07 Gold
+[Lesson 07 Gold]
 patch=1,EE,2091BA44,extended,00000003
-//Lesson 08 Gold
+[Lesson 08 Gold]
 patch=1,EE,2091BD2C,extended,00000003
-//Lesson 09 GOld
+[Lesson 09 GOld]
 patch=1,EE,2091C014,extended,00000003
-//Lesson 10 Gold
+[Lesson 10 Gold]
 patch=1,EE,2091C2FC,extended,00000003
-//Lesson 11 Gold
+[Lesson 11 Gold]
 patch=1,EE,2091C5E4,extended,00000003
-//Lesson 12 Gold
+[Lesson 12 Gold]
 patch=1,EE,2091C8CC,extended,00000003
-//Lesson 13 Gold
+[Lesson 13 Gold]
 patch=1,EE,2091CBB4,extended,00000003
-//Lesson 14 GOld
+[Lesson 14 GOld]
 patch=1,EE,2091CE9C,extended,00000003
-//Lesson 15 Gold
+[Lesson 15 Gold]
 patch=1,EE,2091D184,extended,00000003
-//Lesson 16 Gold
+[Lesson 16 Gold]
 patch=1,EE,2091D46C,extended,00000003
-//Lesson 17 Gold
+[Lesson 17 Gold]
 patch=1,EE,2091D754,extended,00000003
-//Lesson 18 Gold
+[Lesson 18 Gold]
 patch=1,EE,2091DA3C,extended,00000003
-//Lesson 19 Gold
+[Lesson 19 Gold]
 patch=1,EE,2091DD24,extended,00000003
-//Lesson 20 Gold
+[Lesson 20 Gold]
 patch=1,EE,2091E00C,extended,00000003
-//Lesson 21 Gold
+[Lesson 21 Gold]
 patch=1,EE,2091E2F4,extended,00000003
-//Lesson 22 Gold
+[Lesson 22 Gold]
 patch=1,EE,2091E5DC,extended,00000003
-//Lesson 23 Gold
+[Lesson 23 Gold]
 patch=1,EE,2091E8C4,extended,00000003
-//Lesson 24 Gold
+[Lesson 24 Gold]
 patch=1,EE,2091EBAC,extended,00000003
-//Lesson 25 Gold
+[Lesson 25 Gold]
 patch=1,EE,2091EE94,extended,00000003
-//Lesson 26 Gold
+[Lesson 26 Gold]
 patch=1,EE,2091F17C,extended,00000003
-//Lesson 27 Gold
+[Lesson 27 Gold]
 patch=1,EE,2091F464,extended,00000003
-//Lesson 28 Gold
+[Lesson 28 Gold]
 patch=1,EE,2091F74C,extended,00000003
-//Lesson 29 Gold
+[Lesson 29 Gold]
 patch=1,EE,2091FA34,extended,00000003
-//Lesson 30 Gold
+[Lesson 30 Gold]
 patch=1,EE,2091FD1C,extended,00000003
-//Lesson 31 Gold
+[Lesson 31 Gold]
 patch=1,EE,20920004,extended,00000003
-//Lesson 32 Gold
+[Lesson 32 Gold]
 patch=1,EE,209202EC,extended,00000003
-//Lesson 33 Gold
+[Lesson 33 Gold]
 patch=1,EE,209205D4,extended,00000003
-//Lesson 34 Gold
+[Lesson 34 Gold]
 patch=1,EE,209208BC,extended,00000003
-//Lesson 35 GOld
+[Lesson 35 GOld]
 patch=1,EE,20920BA4,extended,00000003
-//Lesson 36 Gold
+[Lesson 36 Gold]
 patch=1,EE,20920E8C,extended,00000003
-//Time Trial Lessons
-//Lesson 37 Gold
+[Time Trial Lessons]
+[Lesson 37 Gold]
 patch=1,EE,20921D14,extended,00000003
-//Lesson 38 Gold
+[Lesson 38 Gold]
 patch=1,EE,20921FFC,extended,00000003
-//Lesson 39 Gold
+[Lesson 39 Gold]
 patch=1,EE,209222E4,extended,00000003
-//Lesson 40 Gold
+[Lesson 40 Gold]
 patch=1,EE,209225CC,extended,00000003
-//Lesson 41 Gold
+[Lesson 41 Gold]
 patch=1,EE,209228B4,extended,00000003
-//Coffe Break Lessons
-//Coffee Break 1 Gold
+[Coffe Break Lessons]
+[Coffee Break 1 Gold]
 patch=1,EE,20921174,extended,00000003
-//Coffee Break 2 Gold
+[Coffee Break 2 Gold]
 patch=1,EE,2092145C,extended,00000003
-//Coffee Break 3 Gold
+[Coffee Break 3 Gold]
 patch=1,EE,20921744,extended,00000003
-//Coffee Break 4 Gold
+[Coffee Break 4 Gold]
 patch=1,EE,20921A2C,extended,00000003
-//Coffee Break 5 Gold
+[Coffee Break 5 Gold]
 patch=1,EE,20922B9C,extended,00000003

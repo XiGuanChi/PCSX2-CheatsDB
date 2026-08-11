@@ -1,26 +1,26 @@
 gametitle=Korobot Adventure SLPS-25687
-//Max Money
+[Max Money]
 patch=1,EE,2020D444,extended,14400001
 
-//Infinite Health  Select + UP in effect ON, OFF effect in select + DOWN
+[Infinite Health  Select + UP in effect ON, OFF effect in select + DOWN]
 patch=1,EE,D02CA242,extended,0000FFEE
 patch=1,EE,201C4F18,extended,AC8601D0
 patch=1,EE,D02CA242,extended,0000FFBE
 patch=1,EE,201C4F18,extended,AC8501D0
 
-//Tricks triggered without overdrive gauge
+[Tricks triggered without overdrive gauge]
 patch=1,EE,2020AEA8,extended,14600001
 
-//Not reduced overdrive gauge
+[Not reduced overdrive gauge]
 patch=1,EE,2020D31C,extended,8E3005C4
 
-//All titles selectable article shelf
+[All titles selectable article shelf]
 patch=1,EE,00313A18,extended,0000003F
 
-//Enemy character picture book fully open
+[Enemy character picture book fully open]
 patch=1,EE,20313A08,extended,01FFFFFF
 
-//Illustration, setting screen, reading, movies fully open
+[Illustration, setting screen, reading, movies fully open]
 patch=1,EE,20313A0C,extended,FFFFFFFF
 patch=1,EE,10313A10,extended,00000FFF
 

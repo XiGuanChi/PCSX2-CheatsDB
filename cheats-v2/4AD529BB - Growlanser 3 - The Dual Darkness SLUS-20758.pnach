@@ -1,21 +1,21 @@
 gametitle=Growlanser 3 - The Dual Darkness SLUS-20758
-//Infinite Elm
+[Infinite Elm]
 patch=1,EE,0038D924,word,000F423F
 
-//Max All Resistances 
+[Max All Resistances]
 patch=1,EE,000C0220,word,24040006
 patch=1,EE,000C0224,word,A284FFFF
 patch=1,EE,000C0228,word,03E00008
 patch=1,EE,000C022C,word,A0640154
 patch=1,EE,001AF39C,word,0C030088
 
-//Have All Magic 
+[Have All Magic]
 patch=1,EE,001BBB68,word,24040001
 patch=1,EE,001BBB6C,word,AC640014
 patch=1,EE,001BBB98,word,24040109
 patch=1,EE,001BBBA8,word,A4640028
 
-//Infinite Master Points 
+[Infinite Master Points]
 patch=1,EE,0027DEAC,word,00430821
 patch=1,EE,0027DEB0,word,24020063
 patch=1,EE,0027DEB4,word,A02201E5

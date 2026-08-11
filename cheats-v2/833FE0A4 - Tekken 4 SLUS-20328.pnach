@@ -1,25 +1,25 @@
 gametitle=Tekken 4 SLUS-20328
-//nfinite Health Player 1
+[nfinite Health Player 1]
 patch=1,EE,102A9C6E,extended,000000A5
 
-//Player 1 Needs 1 Win To Win
+[Player 1 Needs 1 Win To Win]
 patch=1,EE,D02A963E,extended,00000000
 patch=1,EE,102A963E,extended,00000001
 
-//1Hit Death Player 2
+[1Hit Death Player 2]
 patch=1,EE,D02AAB8E,extended,000000A5
 patch=1,EE,102AAB8E,extended,00000001
 
-//nfinite Health (Tekken Force Mode)
+[nfinite Health (Tekken Force Mode)]
 patch=1,EE,102A9C6E,extended,00000108
 
-//Enable All Movies
+[Enable All Movies]
 patch=1,EE,2036C300,extended,FFFFFFFF
 
-//Enable Theater
+[Enable Theater]
 patch=1,EE,0036C32D,extended,00000001
 
-//Enable All Characters
+[Enable All Characters]
 patch=1,EE,2036C318,extended,FFFFFFFF
 patch=1,EE,2036C31C,extended,FFFFFFFF
 patch=1,EE,2036C320,extended,FFFFFFFF

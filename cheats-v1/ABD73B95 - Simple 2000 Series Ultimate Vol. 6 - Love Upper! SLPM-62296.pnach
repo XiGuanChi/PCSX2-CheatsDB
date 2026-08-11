@@ -1,16 +1,16 @@
-//Cheats/Infinite HP
+[Cheats/Infinite HP]
 patch=1,EE,2023ACDC,extended,00000400
 
-//Cheats/Infinite DP
+[Cheats/Infinite DP]
 patch=1,EE,2023ACD8,extended,00000100
 
-//Cheats/Infinite Stamina
+[Cheats/Infinite Stamina]
 patch=1,EE,2023ACD4,extended,00000400
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,101B56DA,extended,00000101
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,001B56C9,extended,00000003
 patch=1,EE,101B56CA,extended,00000303
 patch=1,EE,201B56CC,extended,03030403

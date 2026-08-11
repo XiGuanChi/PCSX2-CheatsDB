@@ -1,13 +1,13 @@
 gametitle=Boogie SLES-55007 SLUS-21681
-//Max Points
+[Max Points]
 patch=1,EE,2049907C,extended,3B9AC9FF
 patch=1,EE,20499080,extended,3B9AC9FF
 
-//Gain 999 Tokens After Battle
+[Gain 999 Tokens After Battle]
 patch=1,EE,2014210C,extended,00000000
 
-//Gain 999 Tokens (Pick up)
+[Gain 999 Tokens (Pick up)]
 patch=1,EE,2014208C,extended,00000000
 
-//Unlock Everything (Not Saveable)
+[Unlock Everything (Not Saveable)]
 patch=1,EE,20106920,extended,B4800000

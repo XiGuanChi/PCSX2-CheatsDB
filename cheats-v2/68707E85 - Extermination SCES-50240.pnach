@@ -1,39 +1,39 @@
 gametitle=Extermination SCES-50240
-//Infinite Health
+[Infinite Health]
 patch=1,EE,10813052,extended,000042C8
 patch=1,EE,108133DA,extended,000042C8
 
-//0% Infection
+[0% Infection]
 patch=1,EE,1081305A,extended,00000000
 patch=1,EE,10813064,extended,00000000
 
-//Infinite Nato Ammo
+[Infinite Nato Ammo]
 patch=1,EE,10813834,extended,000003E7
 
-//No Reloads(Nato Ammo)
+[No Reloads(Nato Ammo)]
 patch=1,EE,108137E2,extended,00000231
 
-//Infinite Shotgun Shells
+[Infinite Shotgun Shells]
 patch=1,EE,10813828,extended,000003E7
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,1081382A,extended,000003E7
 
-//Infinite Napalm
+[Infinite Napalm]
 patch=1,EE,1081382E,extended,000003E7
 
-//Infinite Rockets
+[Infinite Rockets]
 patch=1,EE,10813830,extended,00000064
 
-//Have Infinite Battery Power
+[Have Infinite Battery Power]
 patch=1,EE,10813832,extended,0000003C
 
-//Have 99 Recovery Type A
+[Have 99 Recovery Type A]
 patch=1,EE,00813802,extended,00000063
 
-//Have 99 Recovery Type B
+[Have 99 Recovery Type B]
 patch=1,EE,00813803,extended,00000063
 
-//Invincible Mode
+[Invincible Mode]
 patch=1,EE,10812E30,extended,00000103
 

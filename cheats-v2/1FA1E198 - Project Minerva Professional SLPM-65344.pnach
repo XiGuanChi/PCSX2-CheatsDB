@@ -1,8 +1,8 @@
 gametitle=Project Minerva Professional SLPM-65344
-//Max Gold
+[Max Gold]
 patch=1,EE,2020A838,extended,05F5E0FF
 
-//Alicia Battle status Max
+[Alicia Battle status Max]
 patch=1,EE,2020A848,extended,0098967F
 patch=1,EE,1020A84C,extended,00000063
 patch=1,EE,2020BFCC,extended,0000270F
@@ -12,7 +12,7 @@ patch=1,EE,2020BFD8,extended,00002710
 patch=1,EE,2020BFDC,extended,00002710
 patch=1,EE,2020BFE0,extended,00002710
 
-//First Friend Battle status Max
+[First Friend Battle status Max]
 patch=1,EE,2020D5DC,extended,0000270F
 patch=1,EE,2020D5E0,extended,0000270F
 patch=1,EE,2020D5E4,extended,0001869F
@@ -20,7 +20,7 @@ patch=1,EE,2020D5E8,extended,00002710
 patch=1,EE,2020D5EC,extended,00002710
 patch=1,EE,2020D5F0,extended,00002710
 
-//Second Friend Battle status Max
+[Second Friend Battle status Max]
 patch=1,EE,2020EBEC,extended,0000270F
 patch=1,EE,2020EBF0,extended,0000270F
 patch=1,EE,2020EBF4,extended,0001869F
@@ -28,7 +28,7 @@ patch=1,EE,2020EBF8,extended,00002710
 patch=1,EE,2020EBFC,extended,00002710
 patch=1,EE,2020EC00,extended,00002710
 
-//Third Friend Battle status Max
+[Third Friend Battle status Max]
 patch=1,EE,202101FC,extended,0000270F
 patch=1,EE,20210200,extended,0000270F
 patch=1,EE,20210204,extended,0001869F
@@ -36,7 +36,7 @@ patch=1,EE,20210208,extended,00002710
 patch=1,EE,2021020C,extended,00002710
 patch=1,EE,20210210,extended,00002710
 
-//Fourtg Friend Battle status Max
+[Fourtg Friend Battle status Max]
 patch=1,EE,2021180C,extended,0000270F
 patch=1,EE,20211810,extended,0000270F
 patch=1,EE,20211818,extended,00002710

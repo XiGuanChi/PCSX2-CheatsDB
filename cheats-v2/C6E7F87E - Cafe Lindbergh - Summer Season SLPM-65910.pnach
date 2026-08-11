@@ -1,7 +1,7 @@
 gametitle=Cafe Lindbergh - Summer Season SLPM-65910
-//Extra mode enabled
+[Extra mode enabled]
 patch=1,EE,20287E5C,extended,00000001
 
-//CG fully opened
+[CG fully opened]
 patch=1,EE,40288B14,extended,08000001
 patch=1,EE,FFFFFFFF,extended,00000000

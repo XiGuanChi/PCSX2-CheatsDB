@@ -1,21 +1,21 @@
 gametitle=Dragon Quest - Shonen Yangus to Fushigi no Dungeon SLPM-66363
-//Possession money 9999999G
+[Possession money 9999999G]
 patch=1,EE,206A7F88,extended,0098967F
 
-//Amount deposited in the safe 9999999G
+[Amount deposited in the safe 9999999G]
 patch=1,EE,206D73B8,extended,0098967F
 
-//999 medals given to the medal king
+[999 medals given to the medal king]
 patch=1,EE,106D73C4,extended,000003E7
 
-//Monster book fully open
+[Monster book fully open]
 patch=1,EE,106D740E,extended,0000FFFF
 patch=1,EE,406D7410,extended,00120001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Yangus Physical strength 999
+[Yangus Physical strength 999]
 patch=1,EE,106A7F0C,extended,000003E7
 patch=1,EE,106A7F24,extended,000003E7
 
-//Yangus Level 99
+[Yangus Level 99]
 patch=1,EE,006A7F18,extended,00000063

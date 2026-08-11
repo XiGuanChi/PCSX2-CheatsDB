@@ -1,75 +1,75 @@
 gametitle=Mike Tyson - Heavyweight Boxing SLUS-20345
-//Infinite Health
+[Infinite Health]
 patch=1,EE,10294C62,extended,000042C8
 patch=1,EE,10294C66,extended,000042C8
 patch=1,EE,10294C6A,extended,000042C8
 patch=1,EE,10294C6E,extended,000042C8
 
-//Infinite Stamina Player 1
+[Infinite Stamina Player 1]
 patch=1,EE,20294C48,extended,42C80000
 
-//Player 2 Starts With 2 Knock Downs
+[Player 2 Starts With 2 Knock Downs]
 patch=1,EE,D0295184,extended,00000000
 patch=1,EE,10295184,extended,00000001
 
-//== Have Character Codes ==
+[== Have Character Codes ==]
 
-//Oleg Maskaev
+[Oleg Maskaev]
 patch=1,EE,20243A54,extended,00000001
 
-//Micheal Grant
+[Micheal Grant]
 patch=1,EE,20243A5C,extended,00000001
 
-//Danell Nicholson
+[Danell Nicholson]
 patch=1,EE,20243A64,extended,00000001
 
-//Kirk Johnson
+[Kirk Johnson]
 patch=1,EE,20243A6C,extended,00000001
 
-//Chris Byrd
+[Chris Byrd]
 patch=1,EE,20243A74,extended,00000001
 
-//David Tua
+[David Tua]
 patch=1,EE,20243A7C,extended,00000001
 
-//Tim Witherspoon
+[Tim Witherspoon]
 patch=1,EE,20243A84,extended,00000001
 
-//Danny Williams
+[Danny Williams]
 patch=1,EE,20243A8C,extended,00000001
 
-//Larry Holmes
+[Larry Holmes]
 patch=1,EE,20243A94,extended,00000001
 
-//Masim Rahman
+[Masim Rahman]
 patch=1,EE,20243A9C,extended,00000001
 
-//Mike Tyson
+[Mike Tyson]
 patch=1,EE,20243AA4,extended,00000001
 
-//Iron Mike
+[Iron Mike]
 patch=1,EE,20243AAC,extended,00000001
 
 
-//== Have Mode Codes ==
+[== Have Mode Codes ==]
 
-//Silver Title Belt
+[Silver Title Belt]
 patch=1,EE,20243AB4,extended,00000001
 
-//Gold Title Belt
+[Gold Title Belt]
 patch=1,EE,20243ABC,extended,00000001
 
-//Speed Boxing
+[Speed Boxing]
 patch=1,EE,20243AC4,extended,00000001
 
-//Tyson's Challenge
+[Tyson's Challenge]
 patch=1,EE,20243ACC,extended,00000001
 
 
-//== Custom Boxer 1 Codes ==
+[== Custom Boxer 1 Codes ==]
 
-//Max Earnings
+[Max Earnings]
 patch=1,EE,202A4654,extended,05F5E0FF
 
-//Max Bank
+[Max Bank]
 patch=1,EE,202A4658,extended,05F5E0FF

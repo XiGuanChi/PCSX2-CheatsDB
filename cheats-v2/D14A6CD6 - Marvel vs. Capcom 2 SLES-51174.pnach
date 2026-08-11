@@ -1,16 +1,16 @@
 gametitle=Marvel vs. Capcom 2 SLES-51174
-//Max Money
+[Max Money]
 patch=1,EE,104F8F62,extended,0000270F
 
-//Player 1 - First Character Infinite health
+[Player 1 - First Character Infinite health]
 patch=1,EE,204F34B4,extended,00000090
 
-//Player 1 - 2nd Character Infinite Health
+[Player 1 - 2nd Character Infinite Health]
 patch=1,EE,204F4024,extended,00000090
 
-//Player 1 - 3rd Character Inf. Health
+[Player 1 - 3rd Character Inf. Health]
 patch=1,EE,204F4B94,extended,00000090
 
-//All Characters
+[All Characters]
 patch=1,EE,204F5300,extended,FFFFFFFF
 patch=1,EE,204F5304,extended,FFFFFFFF

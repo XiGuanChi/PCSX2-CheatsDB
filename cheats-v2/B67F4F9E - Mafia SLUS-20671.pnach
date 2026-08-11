@@ -1,28 +1,28 @@
 gametitle=Mafia SLUS-20671
-//infinite Ammo
+[infinite Ammo]
 patch=1,EE,2047D718,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201B3B70,extended,03E00008
 patch=1,EE,201B3B74,extended,00000000
 
-//Infinite Health (In Car)
+[Infinite Health (In Car)]
 patch=1,EE,2017109C,extended,000000FF
 patch=1,EE,201710AC,extended,000000FF
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,202AFAB0,extended,00000000
 patch=1,EE,202AFAD8,extended,00000000
 
-//No Traffic
+[No Traffic]
 patch=1,EE,20219400,extended,03E00008
 patch=1,EE,20219404,extended,00000000
 
-//Unlock All Cars
+[Unlock All Cars]
 patch=1,EE,204F6254,extended,FFFFFFFF
 patch=1,EE,204F6258,extended,FFFFFFFF
 
-//Unlock All Cars (Championship Mode)
+[Unlock All Cars (Championship Mode)]
 patch=1,EE,202DA8E0,extended,2413FFFF
 patch=1,EE,202DA8E4,extended,AC53003C
-//Notes
+[Notes]

@@ -1,19 +1,19 @@
-//Cheats/Enable Cheats in Cheat Menu Enable Invincibility
+[Cheats/Enable Cheats in Cheat Menu Enable Invincibility]
 patch=1,EE,0031C947,extended,00000001
 
-//Cheats/Enable Cheats in Cheat Menu Missiles Maxed Out
+[Cheats/Enable Cheats in Cheat Menu Missiles Maxed Out]
 patch=1,EE,0031C948,extended,00000001
 
-//Cheats/Enable Cheats in Cheat Menu Wingmen Options
+[Cheats/Enable Cheats in Cheat Menu Wingmen Options]
 patch=1,EE,0031C94A,extended,00000001
 
-//Cheats/Enable Cheats in Cheat Menu Infinite Missiles
+[Cheats/Enable Cheats in Cheat Menu Infinite Missiles]
 patch=1,EE,201A91DC,extended,AC410014
 
-//Cheats/Unlock All Code Unlockables
+[Cheats/Unlock All Code Unlockables]
 patch=1,EE,2019D810,extended,24030001
 patch=1,EE,2019D814,extended,A0430000
 
-//Cheats/Unlock All Extras
+[Cheats/Unlock All Extras]
 patch=1,EE,0031C944,extended,00000001
 

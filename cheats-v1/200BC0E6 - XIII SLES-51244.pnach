@@ -1,27 +1,27 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C2000,extended,240205DB
 patch=1,EE,200C2004,extended,AC6202B4
 patch=1,EE,200C2008,extended,0809876E
 patch=1,EE,200C200C,extended,8C620024
 patch=1,EE,20261DB0,extended,0C030800
 
-//Cheats/Infinite Health ALT
+[Cheats/Infinite Health ALT]
 patch=1,EE,200C0220,extended,24010096
 patch=1,EE,200C0224,extended,AC6102B4
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,E68002BC
 patch=1,EE,20261DA8,extended,0C030088
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,200C2010,extended,240303E7
 patch=1,EE,200C2014,extended,080D9269
 patch=1,EE,200C2018,extended,AC830278
 patch=1,EE,200C201C,extended,242007B4
 patch=1,EE,203649A0,extended,08030804
 
-//Cheats/Max Infinite Ammo
+[Cheats/Max Infinite Ammo]
 patch=1,EE,203649A0,extended,24030063
 patch=1,EE,203649A4,extended,AC830278
 
-//Cheats/Never Reload
+[Cheats/Never Reload]
 patch=1,EE,20153AB0,extended,00000000

@@ -1,16 +1,16 @@
-//Cheats/Infinite Health Character 1
+[Cheats/Infinite Health Character 1]
 patch=1,EE,200C0220,extended,24020024
 patch=1,EE,200C0224,extended,08065C94
 patch=1,EE,200C0228,extended,ACA2002C
 patch=1,EE,202DC100,extended,0C030088
 
-//Cheats/Infinite Health Character 2
+[Cheats/Infinite Health Character 2]
 patch=1,EE,200C0230,extended,24020024
 patch=1,EE,200C0234,extended,08065C94
 patch=1,EE,200C0238,extended,ACA2002C
 patch=1,EE,202DC150,extended,0C03008C
 
-//Cheats/P1 Press or Hold Sqaure for Invincibility
+[Cheats/P1 Press or Hold Sqaure for Invincibility]
 patch=1,EE,E0047FFF,extended,00A04182
 patch=1,EE,2064E160,extended,00000002
 patch=1,EE,2064E370,extended,00000002
@@ -22,29 +22,29 @@ patch=1,EE,2064E370,extended,00000000
 patch=1,EE,2064E580,extended,00000000
 patch=1,EE,2064FA20,extended,00000000
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,201EFC3C,extended,AE20002C
 
-//Cheats/Press L3 Stop Time R3 Resume Timer
+[Cheats/Press L3 Stop Time R3 Resume Timer]
 patch=1,EE,D0A04182,extended,0000FFFD
 patch=1,EE,20540284,extended,24420000
 patch=1,EE,D0A04182,extended,0000FFFB
 patch=1,EE,20540284,extended,2442FFFF
 
-//Cheats/Unlock All Upgrades X
+[Cheats/Unlock All Upgrades X]
 patch=1,EE,4064C680,extended,00070001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Upgrades Zero
+[Cheats/Unlock All Upgrades Zero]
 patch=1,EE,4064C6C8,extended,00070001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Upgrades Pallette
+[Cheats/Unlock All Upgrades Pallette]
 patch=1,EE,4064C7E8,extended,00070001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Have All R&D Missions Cleared
+[Cheats/Have All R&D Missions Cleared]
 patch=1,EE,1064C4AE,extended,0000FFFF
 
-//Cheats/Have All Weapons
+[Cheats/Have All Weapons]
 patch=1,EE,0064C4D5,extended,000000FF

@@ -1,46 +1,46 @@
 gametitle=Popolocrois - Hajimari no Bouken SCPS-15028
-//Max funds at end of combat
+[Max funds at end of combat]
 patch=1,EE,202D485C,extended,14000000
 
-//Max Money 
+[Max Money]
 patch=1,EE,2052FF78,extended,000F423F
 
-//Max EXP 
+[Max EXP]
 patch=1,EE,202D4018,extended,14000000
 
-//Current HP
+[Current HP]
 patch=1,EE,1052FDA4,extended,000003E7
 
-//Maximum HP
+[Maximum HP]
 patch=1,EE,1052FDA8,extended,000003E7
 
-//Current MP
+[Current MP]
 patch=1,EE,1052FDAC,extended,000003E7
 
-//Maximum MP
+[Maximum MP]
 patch=1,EE,1052FDB0,extended,000003E7
 
-//99 wind elements
+[99 wind elements]
 patch=1,EE,0052FF7C,extended,00000063
 
-//99 elements of fire
+[99 elements of fire]
 patch=1,EE,0052FF80,extended,00000063
 
-//99 water elements
+[99 water elements]
 patch=1,EE,0052FF84,extended,00000063
 
 
-//Experience Gained 16 times
+[Experience Gained 16 times]
 patch=1,EE,201E6168,extended,0803C400
 patch=1,EE,200F1000,extended,00042100
 patch=1,EE,200F1004,extended,00641821
 patch=1,EE,200F1008,extended,0807985C
 
-//Encounter (No L3 = Encounter R3 = en start counting)
+[Encounter (No L3 = Encounter R3 = en start counting)]
 patch=1,EE,D0438102,extended,0000FFFD
 patch=1,EE,2019B300,extended,100000B8
 patch=1,EE,D0438102,extended,0000FFFB
 patch=1,EE,2019B300,extended,00000000
 
-//Enemy does not work
+[Enemy does not work]
 patch=1,EE,201D6E54,extended,00000000

@@ -1,5 +1,5 @@
 gametitle=MotoGP SCES-50034
-//All Challenges
+[All Challenges]
 patch=1,EE,20309420,extended,02020202
 patch=1,EE,20309424,extended,02020202
 patch=1,EE,20309428,extended,02020202
@@ -15,10 +15,10 @@ patch=1,EE,2030944C,extended,02020202
 patch=1,EE,20309450,extended,02020202
 patch=1,EE,20309454,extended,02020202
 
-//Freeze Time - Arcade
+[Freeze Time - Arcade]
 patch=1,EE,21D0BC68,extended,00000000
 patch=1,EE,21D0BCFC,extended,00000000
 patch=1,EE,21D0BD00,extended,00000000
 
-//Freeze Time - Time Attack
+[Freeze Time - Time Attack]
 patch=1,EE,21D3C298,extended,00000000

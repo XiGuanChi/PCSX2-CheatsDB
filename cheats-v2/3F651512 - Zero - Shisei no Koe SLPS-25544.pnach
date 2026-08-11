@@ -1,67 +1,67 @@
 gametitle=Zero - Shisei no Koe SLPS-25544
 
-//Max Infinite All Film
+[Max Infinite All Film]
 patch=1,EE,201EA568,extended,24050063
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2022D4D0,extended,24100000
 
-//Infinite  films
+[Infinite  films]
 patch=1,EE,20235368,extended,00000000
 
-//Shooting point Max
+[Shooting point Max]
 patch=1,EE,2031EDB8,extended,000F423F
 
-//Play time 00:00:00
+[Play time 00:00:00]
 patch=1,EE,2031EDC0,extended,00000000
 patch=1,EE,2031EDC4,extended,00000000
 patch=1,EE,2031EDC8,extended,00000000
 
-//accumulate immediately charge meter
+[accumulate immediately charge meter]
 patch=1,EE,201BE60C,extended,00000000
 
-//Fatal Frame Auto
+[Fatal Frame Auto]
 patch=1,EE,20194A84,extended,00000000
 patch=1,EE,201C0D98,extended,00000000
 
-//Power is still normal, but the assessment of when you kill will be a thing of the fatal frame. It has no effect on the spirit of invincible. "Applications are all equipped possession
+[Power is still normal, but the assessment of when you kill will be a thing of the fatal frame. It has no effect on the spirit of invincible. "Applications are all equipped possession]
 patch=1,EE,203DE024,extended,01010101
 patch=1,EE,203DE028,extended,01010101
 patch=1,EE,003DE02C,extended,00000001
 
-//Rei Kurosawa strengthening lens all possession
+[Rei Kurosawa strengthening lens all possession]
 patch=1,EE,003DDFC9,extended,00000001
 patch=1,EE,003DDFCC,extended,00000001
 patch=1,EE,003DDFD0,extended,00000001
 patch=1,EE,103DDFCA,extended,00000101
 patch=1,EE,103DDFCE,extended,00000101
 
-//Rei Kurosawa all strengthening lens level 3
+[Rei Kurosawa all strengthening lens level 3]
 patch=1,EE,003DDFD5,extended,00000003
 patch=1,EE,003DDFD8,extended,00000003
 patch=1,EE,003DDFDC,extended,00000003
 patch=1,EE,103DDFD6,extended,00000303
 patch=1,EE,103DDFDA,extended,00000303
 
-//Ten warehouse firefly strengthening lens all possession
+[Ten warehouse firefly strengthening lens all possession]
 patch=1,EE,203DDFF8,extended,01010101
 patch=1,EE,103DDFF6,extended,00000101
 patch=1,EE,103DDFFC,extended,00000101
 
-//Ten warehouse firefly all strengthening lens level 3"
+[Ten warehouse firefly all strengthening lens level 3"]
 patch=1,EE,203DE004,extended,03030303
 patch=1,EE,103DE002,extended,00000303
 patch=1,EE,103DE008,extended,00000303
 
-//99 consumption items (Rei Kurosawa)] Yes seven formula film
+[99 consumption items (Rei Kurosawa)] Yes seven formula film]
 patch=1,EE,103207F0,extended,00000063
 
-//Have All Photos
+[Have All Photos]
 patch=1,EE,00325203,extended,00000002
 patch=1,EE,40325204,extended,000E0001
 patch=1,EE,02020202,extended,00000000
 
-//Have All Text
+[Have All Text]
 patch=1,EE,40325198,extended,00090001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,103251BC,extended,00000202

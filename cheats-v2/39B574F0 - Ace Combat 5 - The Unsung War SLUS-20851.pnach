@@ -1,53 +1,53 @@
 gametitle=Ace Combat 5 - The Unsung War SLUS-20851
-//Invincible (Able To Fly Through The Ground)
+[Invincible (Able To Fly Through The Ground)]
 patch=1,EE,20128230,extended,34428000
 patch=1,EE,20128234,extended,AC620198
 patch=1,EE,1012823A,extended,00001000
 
-//Infinite Primary Missiles
+[Infinite Primary Missiles]
 patch=1,EE,20127C34,extended,00000000
 
-//Extra Primary Missiles
+[Extra Primary Missiles]
 patch=1,EE,10127C28,extended,00000001
 
-//Max Infinite Primary Missiles
+[Max Infinite Primary Missiles]
 patch=1,EE,20127C28,extended,24020063
 
-//Rapid Fire Primary Missiles
+[Rapid Fire Primary Missiles]
 patch=1,EE,20127490,extended,A6E00004
 patch=1,EE,2012751C,extended,A6C00004
 
-//Infinite Secondary Missiles
+[Infinite Secondary Missiles]
 patch=1,EE,201294F4,extended,00000000
 
-//Extra Secondary Missiles
+[Extra Secondary Missiles]
 patch=1,EE,101294EC,extended,00000001
 
-//Max Infinite Secondary Missiles
+[Max Infinite Secondary Missiles]
 patch=1,EE,201294EC,extended,24020063
 
-//Rapid Fire Secondary Missiles
+[Rapid Fire Secondary Missiles]
 patch=1,EE,20128DB8,extended,A4800004
 
-//Infinite Mission Time
+[Infinite Mission Time]
 patch=1,EE,2017FE74,extended,00000000
 
-//Player 1 Press L1+Select To Complete Mission
+[Player 1 Press L1+Select To Complete Mission]
 patch=1,EE,D0487CDC,extended,0000FBFE
 patch=1,EE,201804E4,extended,00000000
 patch=1,EE,D0487CDC,extended,0000FFFF
 patch=1,EE,201804E4,extended,12A00456
 
-//Infinite Money
+[Infinite Money]
 patch=1,EE,105C8CB0,extended,0000FFFF
 
-//Max Money
+[Max Money]
 patch=1,EE,205C8CB0,extended,3B9AC9FF
 
-//Unlock All Aircraft Categories
+[Unlock All Aircraft Categories]
 patch=1,EE,405CB8F0,extended,00060001
 patch=1,EE,01010101,extended,00000000
 
-//Have All Aircraft Purchased
+[Have All Aircraft Purchased]
 patch=1,EE,405CA541,extended,00360015
 patch=1,EE,00000109,extended,00000000

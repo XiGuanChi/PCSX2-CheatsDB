@@ -1,12 +1,12 @@
-//Cheats/Infinite HP Player 1
+[Cheats/Infinite HP Player 1]
 patch=1,EE,202303B8,extended,43A80000
 
-//Cheats/Infinite Special Player 1
+[Cheats/Infinite Special Player 1]
 patch=1,EE,102303C2,extended,000043A8
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,4029CFD4,extended,00300001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Story Mode = Debug Story Mode to access this screen. You can choose the event scene, funds, and language here.
+[Cheats/Story Mode = Debug Story Mode to access this screen. You can choose the event scene, funds, and language here.]
 patch=1,EE,0017056C,extended,00000001

@@ -1,29 +1,29 @@
 gametitle=Initial D - Special Stage SLPM-65268
-//Story Legend public road fastest time attack weather rain
+[Story Legend public road fastest time attack weather rain]
 patch=1,EE,003280D8,extended,00000001
 
-//Does not decrease time
+[Does not decrease time]
 patch=1,EE,20167C34,extended,24420000
 
-//Total points of MAX after the race
+[Total points of MAX after the race]
 patch=1,EE,203278B4,extended,05F5E0FF
 
-//All rival cleared
+[All rival cleared]
 patch=1,EE,4031733C,extended,00110001
 patch=1,EE,00010001,extended,00000000
 
-//Point MAX
+[Point MAX]
 patch=1,EE,203278B4,extended,05F5E0FF
 
-//One wins complete pre-rival
+[One wins complete pre-rival]
 patch=1,EE,403278D0,extended,00110001
 patch=1,EE,00010001,extended,1CDE9FEB
 
-//Two wins already all rival
+[Two wins already all rival]
 patch=1,EE,403278D0,extended,00110001
 patch=1,EE,00020002,extended,1CDE5FEB
 
-//At race start, Up+Cross ON, Down+Cross OFF Stop Rivals In Story Mode
+[At race start, Up+Cross ON, Down+Cross OFF Stop Rivals In Story Mode]
 patch=1,EE,D152EC9C,extended,00001040
 patch=1,EE,201599E4,extended,10000006
 patch=1,EE,D152EC9C,extended,00004040

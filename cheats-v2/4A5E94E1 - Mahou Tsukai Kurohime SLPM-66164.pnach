@@ -1,9 +1,9 @@
 gametitle=Mahou Tsukai Kurohime SLPM-66164
-//Infinite Health 
+[Infinite Health]
 patch=1,EE,202C96D4,extended,42C7FFFF
 
-//Infinite Health transforead
+[Infinite Health transforead]
 patch=1,EE,202C96D4,extended,44AEFFFF
 
-//Mahou gauge MAX
+[Mahou gauge MAX]
 patch=1,EE,202C9728,extended,000EA4BB

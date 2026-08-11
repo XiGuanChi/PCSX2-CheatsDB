@@ -1,46 +1,46 @@
-//Cheats/Score Manipulation During the Game SELECT+UP for First Attack 99, Second Attack 0
+[Cheats/Score Manipulation During the Game SELECT+UP for First Attack 99, Second Attack 0]
 patch=1,EE,D18F0A42,extended,0000FFEE
 patch=1,EE,00502277,extended,00000063
 patch=1,EE,D18F0A42,extended,0000FFEE
 patch=1,EE,00501CC7,extended,00000000
 
-//Cheats/Select+DOWN to go first 0, second 99
+[Cheats/Select+DOWN to go first 0, second 99]
 patch=1,EE,D18F0A42,extended,0000FFBE
 patch=1,EE,00502277,extended,00000000
 patch=1,EE,D18F0A42,extended,0000FFBE
 patch=1,EE,00501CC7,extended,00000063
 
-//Cheats/Count Operation During a Match Press L2+R2+select Changed to 2 Strikes, 0 Balls, 2 Outs
+[Cheats/Count Operation During a Match Press L2+R2+select Changed to 2 Strikes, 0 Balls, 2 Outs]
 patch=1,EE,D18F0A42,extended,0000FCFE
 patch=1,EE,004FF7C7,extended,00000002
 patch=1,EE,D18F0A42,extended,0000FCFE
 patch=1,EE,104FF7C8,extended,00000200
 
-//Cheats/Count Operation During a Match Press L2+R2+start Changed to 0 strikes, 3 balls, 0 outs
+[Cheats/Count Operation During a Match Press L2+R2+start Changed to 0 strikes, 3 balls, 0 outs]
 patch=1,EE,D18F0A42,extended,0000FCF7
 patch=1,EE,004FF7C7,extended,00000000
 patch=1,EE,D18F0A42,extended,0000FCF7
 patch=1,EE,104FF7C8,extended,00000003
 
-//Cheats/Count Operation During a Match Count reset with L2+R2+L3+R3
+[Cheats/Count Operation During a Match Count reset with L2+R2+L3+R3]
 patch=1,EE,D18F0A42,extended,0000FCF9
 patch=1,EE,004FF7C7,extended,00000000
 patch=1,EE,D18F0A42,extended,0000FCF9
 patch=1,EE,104FF7C8,extended,00000000
 
-//Cheats/All OB Players
+[Cheats/All OB Players]
 patch=1,EE,40509190,extended,000E0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,005091C4,extended,000000FF
 
-//Cheats/Success Mode Max Money
+[Cheats/Success Mode Max Money]
 patch=1,EE,20566544,extended,0001869F
 
-//Cheats/Success Mode Max EXP
+[Cheats/Success Mode Max EXP]
 patch=1,EE,D0982228,extended,0000001E
 patch=1,EE,20982228,extended,10200001
 
-//Cheats/Success Mode Infinite Experience Points are Distributed
+[Cheats/Success Mode Infinite Experience Points are Distributed]
 patch=1,EE,D09A9FE0,extended,00001823
 patch=1,EE,209A9FE0,extended,00C01823
 

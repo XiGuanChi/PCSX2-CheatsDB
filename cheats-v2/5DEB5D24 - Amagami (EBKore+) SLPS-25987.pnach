@@ -1,5 +1,5 @@
 gametitle=Amagami (EBKore+) SLPS-25987
-//Scene playback fully open
+[Scene playback fully open]
 patch=1,EE,200FF650,extended,65C43200
 patch=1,EE,200FF658,extended,34010090
 patch=1,EE,200FF65C,extended,90820000
@@ -28,7 +28,7 @@ patch=1,EE,200FF6C0,extended,008E1822
 patch=1,EE,200FF6C4,extended,28617000
 patch=1,EE,200FF6C8,extended,1420FFE3
 
-//Scene fully open Ver2.1
+[Scene fully open Ver2.1]
 patch=1,EE,200FF650,extended,65C43200
 patch=1,EE,200FF658,extended,34010090
 patch=1,EE,200FF65C,extended,90820000
@@ -57,7 +57,7 @@ patch=1,EE,200FF6C0,extended,008E1822
 patch=1,EE,200FF6C4,extended,28617000
 patch=1,EE,200FF6C8,extended,1420FFE3
 
-//Bonus release
+[Bonus release]
 patch=1,EE,200FF6D0,extended,0803FDC0
 patch=1,EE,200FF700,extended,25C40520
 patch=1,EE,200FF704,extended,34050090

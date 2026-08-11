@@ -1,19 +1,19 @@
 gametitle=FullMetal Alchemist - Hagane no Renkinjutsushi 2 - Akaki Elixir no Akuma SLPM-65708
-//Does not decrease item
+[Does not decrease item]
 patch=1,EE,201A68FC,extended,00408823
 
-//SP gauge MAX
+[SP gauge MAX]
 patch=1,EE,201A6BD8,extended,24020001
 
-//Edward Infinite and Max HP
+[Edward Infinite and Max HP]
 patch=1,EE,102C8028,extended,0000270F
 patch=1,EE,102C802A,extended,0000270F
 
-//Alphonse Infinite and Max HP
+[Alphonse Infinite and Max HP]
 patch=1,EE,102C804C,extended,0000270F
 patch=1,EE,102C804E,extended,0000270F
 
-//99 All Items
+[99 All Items]
 patch=1,EE,002C8069,extended,00000063
 patch=1,EE,102C806A,extended,00006363
 patch=1,EE,102C806C,extended,00006363
@@ -22,6 +22,6 @@ patch=1,EE,202C8074,extended,63636300
 patch=1,EE,002C8078,extended,00000063
 patch=1,EE,202C8084,extended,00636300
 
-//99 All Accessories
+[99 All Accessories]
 patch=1,EE,402C80A8,extended,00100001
 patch=1,EE,63636363,extended,00000000

@@ -1,16 +1,16 @@
 gametitle=Cricket 2004 SLES-52123
-//L1 For First Team To Bat Scores 9999
+[L1 For First Team To Bat Scores 9999]
 patch=1,EE,D04782C2,extended,0000FBFF
 patch=1,EE,106B3100,extended,0000270F
 
-//L2 For First Team To Bat Scores 0
+[L2 For First Team To Bat Scores 0]
 patch=1,EE,D04782C2,extended,0000FEFF
 patch=1,EE,106B3100,extended,00000000
 
-//R1 For Second Team To Bat Scores 9999
+[R1 For Second Team To Bat Scores 9999]
 patch=1,EE,D04782C2,extended,0000F7FF
 patch=1,EE,106B3102,extended,0000270F
 
-//R2 For Second Team To Bat Scores 0
+[R2 For Second Team To Bat Scores 0]
 patch=1,EE,D04782C2,extended,0000FDFF
 patch=1,EE,106B3102,extended,00000000

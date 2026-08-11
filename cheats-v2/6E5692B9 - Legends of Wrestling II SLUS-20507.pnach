@@ -1,36 +1,36 @@
 gametitle=Legends of Wrestling II SLUS-20507
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,2036EFA0,extended,00000FFF
 
-//Unlock All Wrestlers/Textures
+[Unlock All Wrestlers/Textures]
 patch=1,EE,203EB630,extended,00000000
 patch=1,EE,203EB634,extended,00000000
 
-//Unlock All Arenas/Abilities/Cheats
+[Unlock All Arenas/Abilities/Cheats]
 patch=1,EE,103EB638,extended,00000000
 patch=1,EE,003EB63A,extended,00000000
 
-//Unlock All Concept Arts
+[Unlock All Concept Arts]
 patch=1,EE,003EB63B,extended,00000000
 patch=1,EE,203EB63C,extended,00000000
 patch=1,EE,203EB640,extended,00000000
 patch=1,EE,103EB644,extended,00000000
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,403EB630,extended,00050001
 patch=1,EE,00000000,extended,00000000
 patch=1,EE,103EB644,extended,00000000
 
-//Unlocked Wrestlers Available
+[Unlocked Wrestlers Available]
 patch=1,EE,203EB950,extended,FFFFFFFF
 
-//Unlocked Arenas/Cheats Available
+[Unlocked Arenas/Cheats Available]
 patch=1,EE,203EB958,extended,FFFFFFFF
 
-//Able To Watch All Career Endings
+[Able To Watch All Career Endings]
 patch=1,EE,203EBC80,extended,00000001
 patch=1,EE,10242026,extended,00001000
 patch=1,EE,20241F6C,extended,00000000
 
-//Infinite Attribute Points
+[Infinite Attribute Points]
 patch=1,EE,20373A00,extended,00000063

@@ -1,24 +1,24 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2036b1bc,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,10291D6C,extended,00000000
 
-//Cheats/Infinite Clips
+[Cheats/Infinite Clips]
 patch=1,EE,20280418,extended,00000000
 
-//Cheats/Max Clip After 1 use
+[Cheats/Max Clip After 1 use]
 patch=1,EE,20280414,extended,240203E7
 
-//Cheats/999 Rounds Use With Max Clip
+[Cheats/999 Rounds Use With Max Clip]
 patch=1,EE,202910F8,extended,240603E7
 
-//Cheats/Infinite Adrenaline Time
+[Cheats/Infinite Adrenaline Time]
 patch=1,EE,2036E0C8,extended,00000000
 patch=1,EE,2036E0F4,extended,00000000
 
-//Cheats/Weapons Never Overheats
+[Cheats/Weapons Never Overheats]
 patch=1,EE,2024634C,extended,AE0001A4
 
-//Cheats/One Hit Kill Dinosaurs
+[Cheats/One Hit Kill Dinosaurs]
 patch=1,EE,20351D68,extended,ACC001AC

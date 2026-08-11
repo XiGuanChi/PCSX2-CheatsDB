@@ -1,46 +1,46 @@
-//Cheats/Infinite Gil
+[Cheats/Infinite Gil]
 patch=1,EE,20A0B748,extended,05F5E0FF
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,240103E7
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AC810020
 patch=1,EE,20317660,extended,08030088
 
-//Cheats/Infinite MP
+[Cheats/Infinite MP]
 patch=1,EE,200C0230,extended,24100064
 patch=1,EE,200C0234,extended,080C5D70
 patch=1,EE,200C0238,extended,A6300024
 patch=1,EE,20317604,extended,0C03008C
 
-//Cheats/Infinite Potions
+[Cheats/Infinite Potions]
 patch=1,EE,20A0B004,extended,000003E7
 
-//Cheats/Quick Level Up
+[Cheats/Quick Level Up]
 patch=1,EE,20A0B750,extended,0000C350
 
-//Cheats/One Shoot Kill
+[Cheats/One Shoot Kill]
 patch=1,EE,20A0B764,extended,00002710
 
-//Cheats/Infinite Handgun Ammo
+[Cheats/Infinite Handgun Ammo]
 patch=1,EE,10A0A6D8,extended,00000012
 patch=1,EE,20A0B010,extended,000003E7
 
-//Cheats/Infinite Rifle Ammo
+[Cheats/Infinite Rifle Ammo]
 patch=1,EE,10A0A60C,extended,0000000F
 patch=1,EE,20A0B01C,extended,000003E7
 
-//Cheats/Infinite Machine Gun Ammo
+[Cheats/Infinite Machine Gun Ammo]
 patch=1,EE,10A0A540,extended,0000001B
 patch=1,EE,20A0B028,extended,000003E7
 
-//Cheats/Infinite Potions
+[Cheats/Infinite Potions]
 patch=1,EE,20A0B004,extended,000003E7
 
-//Cheats/Unlock All Art Gallery
+[Cheats/Unlock All Art Gallery]
 patch=1,EE,104B6D72,extended,0000FFFC
 patch=1,EE,004B6D75,extended,0000000F
 
-//Cheats/Unlock All Extra Missions
+[Cheats/Unlock All Extra Missions]
 patch=1,EE,404B6D64,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000

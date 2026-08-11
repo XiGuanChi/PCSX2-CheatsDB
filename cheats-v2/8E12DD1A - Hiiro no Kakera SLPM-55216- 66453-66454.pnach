@@ -1,40 +1,40 @@
 gametitle=Hiiro no Kakera SLPM-55216- 66453-66454
-//Unlock Gallery
+[Unlock Gallery]
 patch=1,EE,20258090,extended,24050001
 patch=1,EE,20258098,extended,0C078E8C
 
-//Unlock Movies
+[Unlock Movies]
 patch=1,EE,2027A2A8,extended,24050001
 patch=1,EE,2027A2B0,extended,0C07DC60
 
-//Fortune all 50
+[Fortune all 50]
 patch=1,EE,201B4ABC,extended,00000000
 
-//Does not decrease the time remaining in the scarlet cult quiz
+[Does not decrease the time remaining in the scarlet cult quiz]
 patch=1,EE,20207CDC,extended,24620000
 
-//The correct answer be selected in which the scarlet cult quiz
+[The correct answer be selected in which the scarlet cult quiz]
 patch=1,EE,20207FF0,extended,00000000
 
-//Sequel fully open
+[Sequel fully open]
 patch=1,EE,201BBE58,extended,24180001
 patch=1,EE,201BBE70,extended,10000010
 patch=1,EE,201BBE74,extended,A7380002
 
-//Favorability rating max - Onizaki Takuma
+[Favorability rating max - Onizaki Takuma]
 patch=1,EE,11A5F9DE,extended,00000084
 
-//Favorability rating max - Karasuto Masahiro
+[Favorability rating max - Karasuto Masahiro]
 patch=1,EE,11A5F9F4,extended,00000084
 
-//Favorability rating max - Kitsune Yuichi
+[Favorability rating max - Kitsune Yuichi]
 patch=1,EE,11A5FA0A,extended,00000086
 
-//Favorability rating max - Serpent table
+[Favorability rating max - Serpent table]
 patch=1,EE,11A5FA20,extended,00000086
 
-//Favorability rating max - Dog Commandment Shinji
+[Favorability rating max - Dog Commandment Shinji]
 patch=1,EE,11A5FA36,extended,00000084
 
-//Favorability rating max - Inutani Liao
+[Favorability rating max - Inutani Liao]
 patch=1,EE,11A5FA4C,extended,0000008C

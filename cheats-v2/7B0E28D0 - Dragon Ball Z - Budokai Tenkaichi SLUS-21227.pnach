@@ -1,15 +1,15 @@
 gametitle=Dragon Ball Z - Budokai Tenkaichi SLUS-21227
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,200C0220,extended,8EC10BCC
 patch=1,EE,200C0224,extended,52000001
 patch=1,EE,200C0228,extended,AEC10BC8
 
-//Infinite Ki P1
+[Infinite Ki P1]
 patch=1,EE,200C022C,extended,3C010002
 patch=1,EE,200C0230,extended,52000001
 patch=1,EE,200C0234,extended,AEC10BD0
 
-//P1 Press L1+Select For Death Blow P2
+[P1 Press L1+Select For Death Blow P2]
 patch=1,EE,E003FBFE,extended,0022611C
 patch=1,EE,200C0244,extended,24010000
 patch=1,EE,200C0248,extended,56000001
@@ -17,17 +17,17 @@ patch=1,EE,200C024C,extended,AEC10BC8
 patch=1,EE,E001FFFF,extended,0022611C
 patch=1,EE,200C024C,extended,00000000
 
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,000C0000,extended,00000001
 
-//All Support Types
+[All Support Types]
 patch=1,EE,40551A94,extended,00110001
 patch=1,EE,03E70003,extended,00000000
 
-//All Dragon Balls
+[All Dragon Balls]
 patch=1,EE,40551B94,extended,00070001
 patch=1,EE,00010001,extended,00000000
 
-//All Secret Type
+[All Secret Type]
 patch=1,EE,40551BB0,extended,007B0001
 patch=1,EE,00010003,extended,00000000

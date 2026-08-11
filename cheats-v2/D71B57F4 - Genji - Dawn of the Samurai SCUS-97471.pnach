@@ -1,21 +1,21 @@
 gametitle=Genji - Dawn of the Samurai SCUS-97471
-//Infinite Health Yoshitsune
+[Infinite Health Yoshitsune]
 patch=1,EE,2057611C,extended,000003E8
 
-//Infinite Kamui Yoshitsune
+[Infinite Kamui Yoshitsune]
 patch=1,EE,20576718,extended,04EC0000
 
-//Infinite Essence Yoshitsune
+[Infinite Essence Yoshitsune]
 patch=1,EE,106EE526,extended,000003E7
 
-//Expierience 999.999 Yoshitsune
+[Expierience 999.999 Yoshitsune]
 patch=1,EE,20572B84,extended,000F423F
 
-//Money on Hand 999.999
+[Money on Hand 999.999]
 patch=1,EE,2059C504,extended,000F423F
 
-//Level 50 Yoshitsune
+[Level 50 Yoshitsune]
 patch=1,EE,00572B8C,extended,00000032
 
-//Infinite Health Benkei
+[Infinite Health Benkei]
 patch=1,EE,206566C0,extended,000003E8

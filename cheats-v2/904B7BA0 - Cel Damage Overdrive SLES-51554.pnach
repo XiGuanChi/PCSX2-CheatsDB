@@ -1,13 +1,13 @@
 gametitle=Cel Damage Overdrive SLES-51554
-//Everything Opened (Load A Profile)
+[Everything Opened (Load A Profile)]
 patch=1,EE,4037A678,extended,00050001
 patch=1,EE,00000000,extended,00000000
 
-//Emoticon
+[Emoticon]
 patch=1,EE,20362894,extended,00000001
 
-//Press Select For language Selection (tested)
+[Press Select For language Selection (tested)]
 patch=1,EE,203627E8,extended,00000001
 
-//Debug State
+[Debug State]
 patch=0,EE,20362954,extended,00000001

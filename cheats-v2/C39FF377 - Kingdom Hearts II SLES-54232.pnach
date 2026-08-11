@@ -1,28 +1,28 @@
 gametitle=Kingdom Hearts II SLES-54232
-//Infinite HP'
+[Infinite HP']
 patch=1,EE,200F7000,extended,8C820004
 patch=1,EE,200F7004,extended,08068312
 patch=1,EE,200F7008,extended,AC820000
 patch=1,EE,20166700,extended,0C03DC00
 
-//Infinite MP-All Characters
+[Infinite MP-All Characters]
 patch=1,EE,2019fa88,extended,922E0007
 
-//Level 99-All Characters
+[Level 99-All Characters]
 patch=1,EE,003403CF,extended,00000063
 
-//All items infinity
+[All items infinity]
 patch=1,EE,403411e8,extended,00300001
 patch=1,EE,62626262,extended,00000000
 
-//infinity Munny
+[infinity Munny]
 patch=1,EE,20340360,extended,000f423f
 
 
-//Max AP
+[Max AP]
 patch=1,EE,0034A18E,extended,00000063
 
-//All Worlds Open
+[All Worlds Open]
 patch=1,EE,202C6AE0,extended,0803FFCF
 patch=1,EE,200FFF3C,extended,3C0E0102
 patch=1,EE,200FFF40,extended,35CE0102
@@ -30,26 +30,26 @@ patch=1,EE,200FFF44,extended,ACAE0000
 patch=1,EE,200FFF48,extended,00A0882D
 patch=1,EE,200FFF4C,extended,080B1AB9
 
-//Infinite Health (Gummi Ship)
+[Infinite Health (Gummi Ship)]
 patch=1,EE,0034A18E,extended,00000063
 
 
 
-//Sora HPs/max HPs Battle 
+[Sora HPs/max HPs Battle]
 patch=1,EE,01c95658,extended,000000ff
 patch=1,EE,01c9565c,extended,000000ff
 
 
-//Sora MPs/max MPs Battle 
+[Sora MPs/max MPs Battle]
 patch=1,EE,01c957d8,extended,000000ff
 patch=1,EE,01c957dc,extended,000000ff
 
 
-//Donald & Goofy HPs/max HPs Battle 
+[Donald & Goofy HPs/max HPs Battle]
 patch=1,EE,01c95400,extended,000000ff
 patch=1,EE,01c95404,extended,000000ff
 
 
-//Donald & Goofy MPs/max.MPs Battle 
+[Donald & Goofy MPs/max.MPs Battle]
 patch=1,EE,01c95580,extended,000000ff
 patch=1,EE,01c95584,extended,000000ff

@@ -1,28 +1,28 @@
-//Cheats/Infinite Cash
+[Cheats/Infinite Cash]
 patch=1,EE,11B8D854,extended,0000FFFF
 
-//Cheats/Max Cash
+[Cheats/Max Cash]
 patch=1,EE,21B8D854,extended,05F5E0FF
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,2021A290,extended,00000000
 
-//Cheats/Infinite Damage
+[Cheats/Infinite Damage]
 patch=1,EE,20347308,extended,03E00008
 patch=1,EE,2034730C,extended,00000000
 
-//Cheats/Unlock All Gallery
+[Cheats/Unlock All Gallery]
 patch=1,EE,4059BD9C,extended,00150084
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Activate Cheat Codes MISSIONS
+[Cheats/Activate Cheat Codes MISSIONS]
 patch=1,EE,2059A718,extended,00000000
 
-//Cheats/Activate Cheat Codes NO DAMAGE
+[Cheats/Activate Cheat Codes NO DAMAGE]
 patch=1,EE,2059A724,extended,00000000
 
-//Cheats/Activate Cheat Codes CASH
+[Cheats/Activate Cheat Codes CASH]
 patch=1,EE,2059A728,extended,00000000
 
-//Cheats/Activate Cheat Codes GALLERY
+[Cheats/Activate Cheat Codes GALLERY]
 patch=1,EE,2059A748,extended,00000000

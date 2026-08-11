@@ -1,5 +1,5 @@
 gametitle=Ma-Gi - Marginal SLPM-65290
-//OMAKE fully open
+[OMAKE fully open]
 patch=1,EE,4028E4D6,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,0028E4EA,extended,000000FF

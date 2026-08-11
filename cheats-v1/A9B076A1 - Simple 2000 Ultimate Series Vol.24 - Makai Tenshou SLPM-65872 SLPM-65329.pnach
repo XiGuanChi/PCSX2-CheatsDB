@@ -1,40 +1,40 @@
-//Cheats/Current and Max HP 999
+[Cheats/Current and Max HP 999]
 patch=1,EE,202459A8,extended,000003E7
 patch=1,EE,202459AC,extended,000003E7
 patch=1,EE,202459B4,extended,000003E7
 
-//Cheats/1 Hit Kill Enemies
+[Cheats/1 Hit Kill Enemies]
 patch=1,EE,201266A8,extended,70001588
 
-//Cheats/Full Morale when using special move
+[Cheats/Full Morale when using special move]
 patch=1,EE,2014E780,extended,34020064
 
-//Cheats/Full Health when attacked
+[Cheats/Full Health when attacked]
 patch=1,EE,20120520,extended,8E823DCC
 
-//Cheats/Full Weapon Durability When Attacking
+[Cheats/Full Weapon Durability When Attacking]
 patch=1,EE,2011C26C,extended,8462263C
 
-//Cheats/Weapon Is Uncursed And Unbreakable When Attacking
+[Cheats/Weapon Is Uncursed And Unbreakable When Attacking]
 patch=1,EE,2011C250,extended,94622636
 patch=1,EE,2011C254,extended,3042FF9F
 patch=1,EE,2011C258,extended,34420010
 patch=1,EE,2011C25C,extended,A4622634
 patch=1,EE,2011C260,extended,A4622636
 
-//Cheats/Current Morale 100
+[Cheats/Current Morale 100]
 patch=1,EE,0029CC8A,extended,00000064
 
-//Cheats/Attack Power 150
+[Cheats/Attack Power 150]
 patch=1,EE,2011AF88,extended,3C014316
 
-//Cheats/Defense Power 150
+[Cheats/Defense Power 150]
 patch=1,EE,2011AF94,extended,3C014316
 
-//Cheats/Stamina 999
+[Cheats/Stamina 999]
 patch=1,EE,2011AF9C,extended,240303E7
 
-//Cheats/Activate Map Book Effect On Turn
+[Cheats/Activate Map Book Effect On Turn]
 patch=1,EE,200F4000,extended,3C040023
 patch=1,EE,200F4018,extended,08043B0E
 patch=1,EE,200F401C,extended,248410B0

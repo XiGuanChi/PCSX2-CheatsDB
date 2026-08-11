@@ -1,17 +1,17 @@
-//Cheats/Infinite KR
+[Cheats/Infinite KR]
 patch=1,EE,20871FA0,extended,05F00000
 
-//Cheats/Must Be On For Health And LP
+[Cheats/Must Be On For Health And LP]
 patch=1,EE,207D929C,extended,240103E7
 patch=1,EE,200FFF0C,extended,24010063
 patch=1,EE,200FFF28,extended,24030063
 patch=1,EE,200FFF2C,extended,081F64A8
 patch=1,EE,207D9298,extended,0803FFC0
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF00,extended,A4610000
 patch=1,EE,200FFF04,extended,A4610002
 
-//Cheats/Infinite LP
+[Cheats/Infinite LP]
 patch=1,EE,200FFF10,extended,A0610005
 patch=1,EE,200FFF14,extended,A0610006

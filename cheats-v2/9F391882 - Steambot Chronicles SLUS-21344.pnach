@@ -1,27 +1,27 @@
 gametitle=Steambot Chronicles SLUS-21344
-//Money 99.999.999
+[Money 99.999.999]
 patch=1,EE,20587408,extended,05F5E0FF
 
-//Condition Always Sated
+[Condition Always Sated]
 patch=1,EE,00587404,extended,00000003
 
-//Infinite HP 1000
+[Infinite HP 1000]
 patch=1,EE,2058F6F4,extended,447A0000
 patch=1,EE,2058F6F0,extended,447A0000
 
-//Infinite Fuel 1000
+[Infinite Fuel 1000]
 patch=1,EE,2058F700,extended,447A0000
 patch=1,EE,2058F6FC,extended,447A0000
 
-//Infinite Boost 1000
+[Infinite Boost 1000]
 patch=1,EE,2058F708,extended,447A0000
 patch=1,EE,2058F704,extended,447A0000
 
-//Complete Album (p2-p13)
+[Complete Album (p2-p13)]
 patch=1,EE,406077E8,extended,00130001
 patch=1,EE,01010101,extended,00000000
 
-//All Album
+[All Album]
 patch=1,EE,00607785,extended,00000000
 patch=1,EE,10607786,extended,00000201
 patch=1,EE,40607789,extended,00040001

@@ -1,19 +1,19 @@
 gametitle=TMNT SLUS-21595
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,3C0142C8
 patch=1,EE,200C0224,extended,AC610174
 patch=1,EE,200C0228,extended,0808847D
 patch=1,EE,200C022C,extended,C4600174
 patch=1,EE,202211EC,extended,08030088
 
-//Max Unlock Tokens
+[Max Unlock Tokens]
 patch=1,EE,21E6A94C,extended,000000D0
 
-//Unlock All Maps
+[Unlock All Maps]
 patch=1,EE,21E6AA1C,extended,FFFFFFFF
 
-//Always No Points Spent
+[Always No Points Spent]
 patch=1,EE,21E6AE08,extended,00000000
 
-//Unlock All Artwork And Video
+[Unlock All Artwork And Video]
 patch=1,EE,21E6AEC4,extended,FFFFFFFF

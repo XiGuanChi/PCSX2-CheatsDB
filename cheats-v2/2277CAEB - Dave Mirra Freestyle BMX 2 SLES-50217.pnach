@@ -1,9 +1,9 @@
 gametitle=Dave Mirra Freestyle BMX 2 SLES-50217
-//Stop Timer Proquest
+[Stop Timer Proquest]
 patch=1,EE,202C9B68,extended,00009000
 
-//Unlock Level Codes
-//Dave Mirra
+[Unlock Level Codes]
+[Dave Mirra]
 patch=1,EE,20217CAC,extended,00000001
 patch=1,EE,20217CF0,extended,00000001
 patch=1,EE,20217D78,extended,00000001
@@ -11,7 +11,7 @@ patch=1,EE,20217DBC,extended,00000001
 patch=1,EE,20217E00,extended,00000001
 patch=1,EE,20217E44,extended,00000001
 patch=1,EE,20217E88,extended,00000001
-//Ryan Nyquist
+[Ryan Nyquist]
 patch=1,EE,202180B8,extended,00000001
 patch=1,EE,20218074,extended,00000001
 patch=1,EE,20218140,extended,00000001
@@ -19,7 +19,7 @@ patch=1,EE,20218184,extended,00000001
 patch=1,EE,202181C8,extended,00000001
 patch=1,EE,2021820C,extended,00000001
 patch=1,EE,20218250,extended,00000001
-//Troy McMurray
+[Troy McMurray]
 patch=1,EE,20218480,extended,00000001
 patch=1,EE,2021843C,extended,00000001
 patch=1,EE,20218508,extended,00000001
@@ -27,7 +27,7 @@ patch=1,EE,202185D4,extended,00000001
 patch=1,EE,20218590,extended,00000001
 patch=1,EE,2021854C,extended,00000001
 patch=1,EE,20218618,extended,00000001
-//Mike Laird
+[Mike Laird]
 patch=1,EE,20218848,extended,00000001
 patch=1,EE,20218804,extended,00000001
 patch=1,EE,202188D0,extended,00000001
@@ -35,7 +35,7 @@ patch=1,EE,2021899C,extended,00000001
 patch=1,EE,20218958,extended,00000001
 patch=1,EE,20218914,extended,00000001
 patch=1,EE,202189E0,extended,00000001
-//Tim Mirra
+[Tim Mirra]
 patch=1,EE,20218C10,extended,00000001
 patch=1,EE,20218BCC,extended,00000001
 patch=1,EE,20218C98,extended,00000001
@@ -43,7 +43,7 @@ patch=1,EE,20218D64,extended,00000001
 patch=1,EE,20218D20,extended,00000001
 patch=1,EE,20218CDC,extended,00000001
 patch=1,EE,20218DA8,extended,00000001
-//Kenan Harkin
+[Kenan Harkin]
 patch=1,EE,20218F94,extended,00000001
 patch=1,EE,20218FD8,extended,00000001
 patch=1,EE,20219060,extended,00000001
@@ -51,7 +51,7 @@ patch=1,EE,2021912C,extended,00000001
 patch=1,EE,202190E8,extended,00000001
 patch=1,EE,202190A4,extended,00000001
 patch=1,EE,20219170,extended,00000001
-//Leigh Ramsdell
+[Leigh Ramsdell]
 patch=1,EE,202193A0,extended,00000001
 patch=1,EE,2021935C,extended,00000001
 patch=1,EE,20219428,extended,00000001
@@ -59,7 +59,7 @@ patch=1,EE,202194F4,extended,00000001
 patch=1,EE,202194B0,extended,00000001
 patch=1,EE,2021946C,extended,00000001
 patch=1,EE,20219538,extended,00000001
-//Joey Garcia
+[Joey Garcia]
 patch=1,EE,20219768,extended,00000001
 patch=1,EE,20219724,extended,00000001
 patch=1,EE,202197F0,extended,00000001
@@ -67,7 +67,7 @@ patch=1,EE,202198BC,extended,00000001
 patch=1,EE,20219878,extended,00000001
 patch=1,EE,20219834,extended,00000001
 patch=1,EE,20219900,extended,00000001
-//Rick Moliterno
+[Rick Moliterno]
 patch=1,EE,20219B30,extended,00000001
 patch=1,EE,20219AEC,extended,00000001
 patch=1,EE,20219BB8,extended,00000001
@@ -75,7 +75,7 @@ patch=1,EE,20219C84,extended,00000001
 patch=1,EE,20219C40,extended,00000001
 patch=1,EE,20219BFC,extended,00000001
 patch=1,EE,20219CC8,extended,00000001
-//Todd Lyons
+[Todd Lyons]
 patch=1,EE,20219EF8,extended,00000001
 patch=1,EE,20219EB4,extended,00000001
 patch=1,EE,20219F80,extended,00000001
@@ -83,7 +83,7 @@ patch=1,EE,2021A04C,extended,00000001
 patch=1,EE,2021A008,extended,00000001
 patch=1,EE,20219FC4,extended,00000001
 patch=1,EE,2021A090,extended,00000001
-//Luc - E
+[Luc - E]
 patch=1,EE,2021A2C0,extended,00000001
 patch=1,EE,2021A27C,extended,00000001
 patch=1,EE,2021A348,extended,00000001
@@ -91,7 +91,7 @@ patch=1,EE,2021A414,extended,00000001
 patch=1,EE,2021A3D0,extended,00000001
 patch=1,EE,2021A38C,extended,00000001
 patch=1,EE,2021A458,extended,00000001
-//Scott Wirch
+[Scott Wirch]
 patch=1,EE,2021A688,extended,00000001
 patch=1,EE,2021A644,extended,00000001
 patch=1,EE,2021A710,extended,00000001
@@ -99,7 +99,7 @@ patch=1,EE,2021A7DC,extended,00000001
 patch=1,EE,2021A798,extended,00000001
 patch=1,EE,2021A754,extended,00000001
 patch=1,EE,2021A820,extended,00000001
-//Colin Mackay
+[Colin Mackay]
 patch=1,EE,2021AA50,extended,00000001
 patch=1,EE,2021AA0C,extended,00000001
 patch=1,EE,2021AAD8,extended,00000001
@@ -107,7 +107,7 @@ patch=1,EE,2021ABA4,extended,00000001
 patch=1,EE,2021AB60,extended,00000001
 patch=1,EE,2021AB1C,extended,00000001
 patch=1,EE,2021ABE8,extended,00000001
-//Zach Shaw
+[Zach Shaw]
 patch=1,EE,2021AE18,extended,00000001
 patch=1,EE,2021ADD4,extended,00000001
 patch=1,EE,2021AEA0,extended,00000001
@@ -115,7 +115,7 @@ patch=1,EE,2021AF6C,extended,00000001
 patch=1,EE,2021AF28,extended,00000001
 patch=1,EE,2021AEE4,extended,00000001
 patch=1,EE,2021AFB0,extended,00000001
-//Slim Jim Guy
+[Slim Jim Guy]
 patch=1,EE,2021B1E0,extended,00000001
 patch=1,EE,2021B19C,extended,00000001
 patch=1,EE,2021B268,extended,00000001
@@ -124,34 +124,34 @@ patch=1,EE,2021B2F0,extended,00000001
 patch=1,EE,2021B2AC,extended,00000001
 patch=1,EE,2021B378,extended,00000001
 
-//Unlock All Bikes
-//Dave Mirra
+[Unlock All Bikes]
+[Dave Mirra]
 patch=1,EE,10217B98,extended,00000205
-//Ryan Nyquist
+[Ryan Nyquist]
 patch=1,EE,10217F60,extended,00000205
-//Troy McMurray
+[Troy McMurray]
 patch=1,EE,10218328,extended,00000205
-//Mike Laird
+[Mike Laird]
 patch=1,EE,102186F0,extended,00000205
-//Tim Mirra
+[Tim Mirra]
 patch=1,EE,10218AB8,extended,00000205
-//Kenan Harkin
+[Kenan Harkin]
 patch=1,EE,10218E80,extended,00000205
-//Leigh Ramsdell
+[Leigh Ramsdell]
 patch=1,EE,10219248,extended,00000205
-//Joey Garcia
+[Joey Garcia]
 patch=1,EE,10219610,extended,00000205
-//Rick Moliterno
+[Rick Moliterno]
 patch=1,EE,102199D8,extended,00000205
-//Todd Lyons
+[Todd Lyons]
 patch=1,EE,10219DA0,extended,00000205
-//Luc - E
+[Luc - E]
 patch=1,EE,1021A168,extended,00000205
-//Scott Wirch
+[Scott Wirch]
 patch=1,EE,1021A530,extended,00000205
-//Colin Mackay
+[Colin Mackay]
 patch=1,EE,1021A8F8,extended,00000205
-//Zach Shaw
+[Zach Shaw]
 patch=1,EE,1021ACC0,extended,00000205
-//Slim Jim Guy
+[Slim Jim Guy]
 patch=1,EE,1021B088,extended,00000205

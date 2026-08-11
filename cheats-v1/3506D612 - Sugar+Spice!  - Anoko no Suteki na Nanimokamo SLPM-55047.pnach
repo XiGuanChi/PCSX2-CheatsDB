@@ -1,4 +1,4 @@
-//Cheats/Debug Menus Hold L1+Circle over the NEW GAME main menu option for V-SYSTEM DEBUGMODE or L2+Circle for INPUT HEX MODE debug menu
+[Cheats/Debug Menus Hold L1+Circle over the NEW GAME main menu option for V-SYSTEM DEBUGMODE or L2+Circle for INPUT HEX MODE debug menu]
 patch=1,EE,D0172142,extended,0000DBFF
 patch=1,EE,1011BD38,extended,000004F2
 patch=1,EE,D0172142,extended,0000FFFF

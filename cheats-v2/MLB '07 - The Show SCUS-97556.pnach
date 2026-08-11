@@ -1,11 +1,11 @@
 gametitle=MLB '07 - The Show SCUS-97556
-//Infinite Carrer Points 
+[Infinite Carrer Points]
 patch=1,EE,D064AA90,extended,00000014
 patch=1,EE,2064AA90,extended,00000000 
 
-//1 point to Max Stat (255) [Batting]
+[1 point to Max Stat (255) [Batting]]
 patch=1,EE,206DD784,extended,200600ff 
 
-//1 point to Max Stat (255) [Pitching]
+[1 point to Max Stat (255) [Pitching]]
 patch=1,EE,206DD7AC,extended,200600ff 
 patch=1,EE,206E82B8,extended,200600ff

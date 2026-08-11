@@ -1,30 +1,30 @@
-//Cheats/Max Money 9999999
+[Cheats/Max Money 9999999]
 patch=1,EE,201A15C4,extended,0098967F
 
-//Cheats/Max Exercise 999
+[Cheats/Max Exercise 999]
 patch=1,EE,201A1594,extended,4479F99A 
 
-//Cheats/Max Science 999
+[Cheats/Max Science 999]
 patch=1,EE,201A1598,extended,4479F99A 
 
-//Cheats/Max Arts 999
+[Cheats/Max Arts 999]
 patch=1,EE,201A159C,extended,4479F99A 
 
-//Cheats/Max Art 999
+[Cheats/Max Art 999]
 patch=1,EE,201A15A0,extended,4479F99A 
 
-//Cheats/Max Trust 999
+[Cheats/Max Trust 999]
 patch=1,EE,201A15A4,extended,4479F99A 
 
-//Cheats/Fatigue 0
+[Cheats/Fatigue 0]
 patch=1,EE,201A15A8,extended,00000000 
 
-//Cheats/Unlock All Album
+[Cheats/Unlock All Album]
 patch=1,EE,401A135C,extended,00420001 
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock Scenario Execution Test display a scenario-scene select dialog
+[Cheats/Unlock Scenario Execution Test display a scenario-scene select dialog]
 patch=1,EE,20360590,extended,0000002C
 
-//Cheats/Unlock Sound Test start the game to display a sound test
+[Cheats/Unlock Sound Test start the game to display a sound test]
 patch=1,EE,201A7180,extended,00000021

@@ -1,20 +1,20 @@
 gametitle=Star Wars  - Episode III - Jedi Starfighter  SLUS-20293
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20339BF8,extended,3C0142C8
 patch=1,EE,20339C08,extended,AC610020
 
-//Infinite Shield
+[Infinite Shield]
 patch=1,EE,20339C34,extended,3C01437A
 patch=1,EE,20339C44,extended,AC610018
 
-//Have All 2P Missions Completed
+[Have All 2P Missions Completed]
 patch=1,EE,204DC704,extended,24020001
 
-//Have All Gold Medals
+[Have All Gold Medals]
 patch=1,EE,204DC734,extended,24020001
 
-//Have All Green Medals
+[Have All Green Medals]
 patch=1,EE,204DC764,extended,24020001
 
-//Have All Blue Medals
+[Have All Blue Medals]
 patch=1,EE,204DC794,extended,24020001

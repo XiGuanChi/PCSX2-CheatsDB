@@ -1,5 +1,5 @@
 gametitle=SOCOM - U.S. Navy SEALS SCES-50928
-//Immune To Bullets
+[Immune To Bullets]
 patch=1,EE,200FFF20,extended,92410000
 patch=1,EE,200FFF24,extended,14200003
 patch=1,EE,200FFF28,extended,00000000
@@ -9,17 +9,17 @@ patch=1,EE,200FFF34,extended,03E00008
 patch=1,EE,200FFF38,extended,00000000
 patch=1,EE,204C24CC,extended,0C03FFC8
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,204C0ECC,extended,24420000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,204C34E8,extended,00000000
 
-//Terrorists Have No Ammo
+[Terrorists Have No Ammo]
 patch=1,EE,204BF7B0,extended,00000000
 
-//Never Fail Missions
+[Never Fail Missions]
 patch=1,EE,201B8990,extended,34020001
 
-//All Weapons
+[All Weapons]
 patch=1,EE,204C69DC,extended,00000000

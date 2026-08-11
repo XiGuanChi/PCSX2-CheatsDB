@@ -1,33 +1,33 @@
 gametitle=Persona 4 SLPM-66978
-//Max Money
+[Max Money]
 patch=1,EE,207A9F18,extended,0098967F
 
-//HP, SP complete recovery at the end of the battle
+[HP, SP complete recovery at the end of the battle]
 patch=1,EE,201B7F2C,extended,00000000
 
-//All skill consumption HP1
+[All skill consumption HP1]
 patch=1,EE,20308454,extended,00000000
 
-//All skill consumption SP1
+[All skill consumption SP1]
 patch=1,EE,20308588,extended,00000000
 
-//All skill consumption HP1
+[All skill consumption HP1]
 patch=1,EE,20240148,extended,00000000
 
-//All skill consumption SP1
+[All skill consumption SP1]
 patch=1,EE,20240320,extended,00000000
 
-//Courage 999
+[Courage 999]
 patch=1,EE,107A5C80,extended,000003E7
 
-//Knowledge 999
+[Knowledge 999]
 patch=1,EE,107A5C82,extended,000003E7
 
-//Perseverance 999
+[Perseverance 999]
 patch=1,EE,107A5C84,extended,000003E7
 
-//Forgiveness 999
+[Forgiveness 999]
 patch=1,EE,107A5C86,extended,000003E7
 
-//Transmission power 999
+[Transmission power 999]
 patch=1,EE,107A5C88,extended,000003E7

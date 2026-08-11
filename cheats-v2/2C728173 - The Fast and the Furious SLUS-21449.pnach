@@ -1,19 +1,19 @@
 gametitle=The Fast and the Furious SLUS-21449
-//Infinite NOS
+[Infinite NOS]
 patch=1,EE,202887F4,extended,00000000
 
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,205CAC30,extended,05F5E0FF
 
-//Have All Boss Cars Unlocked
+[Have All Boss Cars Unlocked]
 patch=1,EE,005CACF8,extended,00000010
 
-//Have All Crew Members Defeated
+[Have All Crew Members Defeated]
 patch=1,EE,005CACF9,extended,00000050
 
-//Have All Film Cars Unlocked
+[Have All Film Cars Unlocked]
 patch=1,EE,20143A44,extended,AC42000C
 
-//Have All Racers Defeated/Tutorials Completed
+[Have All Racers Defeated/Tutorials Completed]
 patch=1,EE,201AAE04,extended,AC430018
 patch=1,EE,101AAE0A,extended,00001000

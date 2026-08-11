@@ -1,15 +1,15 @@
 gametitle=.hack - Kansen Kakudai Vol. 1 SLPS-25121
-//Max Gold 
+[Max Gold]
 patch=1,EE,20A53B6C,extended,0098967F
 
-//Main character maximum HP
+[Main character maximum HP]
 patch=1,EE,20A53B7C,extended,0000270F
 
-//Main character maximum SP
+[Main character maximum SP]
 patch=1,EE,20A53B7E,extended,000003E7
 
-//Main character erosion rate 0
+[Main character erosion rate 0]
 patch=1,EE,20A52E3C,extended,00000000
 
-//Main character experience value MAX
+[Main character experience value MAX]
 patch=1,EE,20A53B68,extended,010203E7

@@ -1,20 +1,20 @@
 gametitle=Tentama 2Wins SLPM-65520
-//Always great success
+[Always great success]
 patch=1,EE,20257778,extended,34020065
 
-//Basic parameter MAX (likeability and luck)
+[Basic parameter MAX (likeability and luck)]
 patch=1,EE,2025B1F0,extended,0002153C
 patch=1,EE,2025B260,extended,14000000
 
-//Jun'na of likeability MAX in the "register"
+[Jun'na of likeability MAX in the "register"]
 patch=1,EE,10296064,extended,00000FA0
 
-//True snow of likeability MAX in the "Kitchen"
+[True snow of likeability MAX in the "Kitchen"]
 patch=1,EE,1029607E,extended,00000FA0
 
-//Favorability rating of Asuka in the "waiter" MAX
+[Favorability rating of Asuka in the "waiter" MAX]
 patch=1,EE,10296050,extended,00000FA0
 
-//Likeability initialization of all characters (three) in the cleaning
+[Likeability initialization of all characters (three) in the cleaning]
 patch=1,EE,20296094,extended,F060F060
 patch=1,EE,10296098,extended,0000F060

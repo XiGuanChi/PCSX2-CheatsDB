@@ -1,40 +1,40 @@
 gametitle=The Simpsons - Skateboarding SLUS-20114
-//Infinite Cash
+[Infinite Cash]
 patch=1,EE,1058F28A,extended,00003FFF
 patch=1,EE,105BA806,extended,000000FF
 
-//Max Speed
+[Max Speed]
 patch=1,EE,1058F252,extended,000042C8
 
-//Max Turns
+[Max Turns]
 patch=1,EE,1058F256,extended,000042C8
 
-//Max Jumps
+[Max Jumps]
 patch=1,EE,1058F25A,extended,000042C8
 
-//Max Grabs
+[Max Grabs]
 patch=1,EE,1058F25E,extended,000042C8
 
-//Max Grinds
+[Max Grinds]
 patch=1,EE,1058F262,extended,000042C8
 
-//Unlock All Characters
+[Unlock All Characters]
 patch=1,EE,10776F4E,extended,0000FFFF
 
-//Bart Simpson Max Money
+[Bart Simpson Max Money]
 patch=1,EE,20776F80,extended,411FD70A
 
-//Bart Simpson Unlock All Levels
+[Bart Simpson Unlock All Levels]
 patch=1,EE,00776F84,extended,000000FF
 
-//Clancy Wiggum Unlock All Levels
+[Clancy Wiggum Unlock All Levels]
 patch=1,EE,007781A4,extended,000000FF
 
-//Homer Simpson Unlock All Levels
+[Homer Simpson Unlock All Levels]
 patch=1,EE,00777894,extended,000000FF
 
-//Lisa Simpson Unlock All Levels
+[Lisa Simpson Unlock All Levels]
 patch=1,EE,00777650,extended,000000FF
 
-//Marge Simpson Unlock All Levels
+[Marge Simpson Unlock All Levels]
 patch=1,EE,007771C8,extended,000000FF

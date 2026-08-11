@@ -1,33 +1,33 @@
 gametitle=Conflict -  Vietnam SLES-52630
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20223338,extended,00000000
 
-//Infinite Grenades
+[Infinite Grenades]
 patch=1,EE,20222B90,extended,00000000
 
-//Selected Character Has Full Health Bar
+[Selected Character Has Full Health Bar]
 patch=1,EE,2021E29C,extended,3C024348
 patch=1,EE,2021E2A0,extended,AC820074
 
-//God Mode (Squad & Vechicles)
+[God Mode (Squad & Vechicles)]
 patch=1,EE,203CE73C,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,200C0220,extended,3C024316
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AE020060
 patch=1,EE,201A9AD8,extended,0C030088
 patch=1,EE,201A9ADC,extended,4600B034
 
-//Infinite Health (Alternate)
+[Infinite Health (Alternate)]
 patch=1,EE,200C0230,extended,3C024318
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,AE020060
 patch=1,EE,20167A60,extended,0C03008C
 patch=1,EE,20167A64,extended,46000832
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,201B023C,extended,00000000
 
-//Unlock Cheats Menu (Inside Options)
+[Unlock Cheats Menu (Inside Options)]
 patch=1,EE,2042C350,extended,00000001

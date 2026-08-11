@@ -1,11 +1,11 @@
-//Cheats/P1 Infinite Boost
+[Cheats/P1 Infinite Boost]
 patch=1,EE,200FFF00,extended,3C013F80
 patch=1,EE,200FFF04,extended,3C040043
 patch=1,EE,200FFF08,extended,AC813FC4
 patch=1,EE,200FFF20,extended,03E00008
 patch=1,EE,2017D318,extended,0803FFC0
 
-//Cheats/Have All Cards
+[Cheats/Have All Cards]
 patch=1,EE,21DC1D80,extended,FFFFFFFF
 patch=1,EE,21DC1D84,extended,FFFFFFFF
 patch=1,EE,21DC1D88,extended,FFFFFFFF

@@ -1,7 +1,7 @@
 gametitle=Hyper Street Fighter II - The Anniversary Edition SLPM-65496	
-//P1 Infinite Health
+[P1 Infinite Health]
 patch=1,EE,11B00366,extended,00000090
 
-//Press select button 2P physical strength 0
+[Press select button 2P physical strength 0]
 patch=1,EE,D0762ADC,extended,0000FFFE
 patch=1,EE,11B00766,extended,00000000

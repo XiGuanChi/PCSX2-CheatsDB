@@ -1,31 +1,31 @@
 gametitle=.hack - Shinshoku Osen Vol. 3 SLPS-25158
-//All members can appear & call
+[All members can appear & call]
 patch=1,EE,20B0ADF0,extended,0003FFFF
 patch=1,EE,20B0ADF4,extended,0003FFFF
 patch=1,EE,20B0ADFC,extended,0003FFFF
 
-//Wallpaper appearance
+[Wallpaper appearance]
 patch=1,EE,20B0AE08,extended,FFFFFFFF
 patch=1,EE,20B0AE0C,extended,FFFFFFFF
 
-//BGM appearance
+[BGM appearance]
 patch=1,EE,20B0AE14,extended,FFFFFFFF
 patch=1,EE,20B0AE18,extended,0003FFFF
 
-//Video appearance
+[Video appearance]
 patch=1,EE,20B0AE20,extended,FFFFFFFF
 patch=1,EE,20B0AE24,extended,FFFFFFFF
 patch=1,EE,20B0AE28,extended,03FFFFFF
 
-//Kite (hero) Experience 999
+[Kite (hero) Experience 999]
 patch=1,EE,10B10068,extended,000003E7
 
-//Kite (hero) Possession money MAX
+[Kite (hero) Possession money MAX]
 patch=1,EE,20B1006C,extended,0098967F
 
-//Kite (hero) Maximum HP MAX
+[Kite (hero) Maximum HP MAX]
 patch=1,EE,10B1007C,extended,0000270F
 
-//Kite (hero) Maximum SP MAX
+[Kite (hero) Maximum SP MAX]
 patch=1,EE,10B1007E,extended,000003E7
 

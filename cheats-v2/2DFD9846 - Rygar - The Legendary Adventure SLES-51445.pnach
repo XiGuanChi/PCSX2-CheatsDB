@@ -1,20 +1,20 @@
 gametitle=Rygar - The Legendary Adventure SLES-51445
-//Infinite Health
+[Infinite Health]
 patch=1,EE,204BBF40,extended,000026FE
 patch=1,EE,204BBF44,extended,000026FE
 
-//Infinite Icol
+[Infinite Icol]
 patch=1,EE,204BBF48,extended,000026FE
 patch=1,EE,204BBF4C,extended,000026FE
 
-//Max Points
+[Max Points]
 patch=1,EE,204BBF68,extended,0000270F
 
-//Attack Maxed
+[Attack Maxed]
 patch=1,EE,204BBF54,extended,000003E7
 
-//Defence Maxed
+[Defence Maxed]
 patch=1,EE,204BBF58,extended,000003E7
 
-//All Mystic Stones Active
+[All Mystic Stones Active]
 patch=1,EE,204688BC,extended,FFFFFFFF

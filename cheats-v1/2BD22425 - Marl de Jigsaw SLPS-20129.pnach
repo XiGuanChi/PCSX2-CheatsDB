@@ -1,19 +1,19 @@
-//Cheats/1P Technique Power Lv1 Max When Accumulated
+[Cheats/1P Technique Power Lv1 Max When Accumulated]
 patch=1,EE,D0557C74,extended,00300018
 patch=1,EE,10557C74,extended,000000FF
 
-//Cheats/1P Max Timer Gauge
+[Cheats/1P Max Timer Gauge]
 patch=1,EE,10557C76,extended,00000064
 
-//Cheats/2P Technique Power 0
+[Cheats/2P Technique Power 0]
 patch=1,EE,1058CF8C,extended,00000000
 
-//Cheats/Timer gauge 0
+[Cheats/Timer gauge 0]
 patch=1,EE,1058CF8E,extended,00000000
 
-//Cheats/Unlock All Exhibitions
+[Cheats/Unlock All Exhibitions]
 patch=1,EE,4018F178,extended,00CC0003
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Enable Debug Mode Start pauses the game when playing a match. Press / hold X to advance frames.L3 ends a match.Square advances progress in a match. Pressing three times will make you win a match.This mode also automatically unlocks the Concert option in the main menu
+[Cheats/Enable Debug Mode Start pauses the game when playing a match. Press / hold X to advance frames.L3 ends a match.Square advances progress in a match. Pressing three times will make you win a match.This mode also automatically unlocks the Concert option in the main menu]
 patch=1,EE,004C24E0,extended,00000001

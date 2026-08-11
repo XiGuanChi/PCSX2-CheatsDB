@@ -1,8 +1,8 @@
 gametitle=Super Robot Taisen Impact SLPS-25104
-//Money 999999999 
+[Money 999999999]
 patch=1,EE,2025E838,extended,05F5E09C
 
-//All reinforced parts
+[All reinforced parts]
 patch=1,EE,0025E8B5,extended,00000009
 patch=1,EE,1025E8B6,extended,00000909
 patch=1,EE,2025E8B8,extended,09090909
@@ -24,11 +24,11 @@ patch=1,EE,2025E8F0,extended,09090909
 patch=1,EE,2025E8F4,extended,09090909
 patch=1,EE,2025E8F8,extended,09090909
 
-//MAX when using Money
+[MAX when using Money]
 patch=1,EE,D0176E10,extended,10000007
 patch=1,EE,20176E14,extended,AC65E838
 
-//EXP MAX in one battle
+[EXP MAX in one battle]
 patch=1,EE,201702A4,extended,0803C000
 patch=1,EE,201702A8,extended,00000000
 patch=1,EE,200F0000,extended,3C020001
@@ -36,7 +36,7 @@ patch=1,EE,200F0004,extended,2442BF68
 patch=1,EE,200F0008,extended,03E00008
 patch=1,EE,200F000C,extended,27BD0030
 
-//Change the effect of V-UP unit (U) HP + 10000, EN + 400, mobility + 250, armor + 1000, limit +100.
+[Change the effect of V-UP unit (U) HP + 10000, EN + 400, mobility + 250, armor + 1000, limit +100.]
 patch=1,EE,20266AE4,extended,00002710
 patch=1,EE,20266AE8,extended,00002710
 patch=1,EE,20266AEC,extended,00002710

@@ -1,22 +1,22 @@
-//Cheats/Arcade Mode Infinite Time
+[Cheats/Arcade Mode Infinite Time]
 patch=1,EE,20249D00,extended,0000467F
 
-//Cheats/Always Good Tension
+[Cheats/Always Good Tension]
 patch=1,EE,2019649C,extended,3C0141F0
 patch=1,EE,201964A4,extended,44813800
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,20249D00,extended,0000467F
 
-//Cheats/Press L1+Select For Max Time
+[Cheats/Press L1+Select For Max Time]
 patch=1,EE,D02E5D02,extended,0000FBFE
 patch=1,EE,20249D00,extended,0000EA40
 
-//Cheats/Press L2+Select For No Time
+[Cheats/Press L2+Select For No Time]
 patch=1,EE,D02E5D02,extended,0000FEFE
 patch=1,EE,20249D00,extended,00000050
 
-//Cheats/Unlock All Lures
+[Cheats/Unlock All Lures]
 patch=1,EE,40427258,extended,000E0001
 patch=1,EE,00010001,extended,00000000
 

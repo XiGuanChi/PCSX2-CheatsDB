@@ -1,15 +1,15 @@
 gametitle=Dead to Rights SLES-51581
-//Infinite Health
+[Infinite Health]
 patch=1,EE,102522F0,extended,00000007
 
-//Infinite Armour
+[Infinite Armour]
 patch=1,EE,10252260,extended,00000007
 
-//Infinite Adrenaline
+[Infinite Adrenaline]
 patch=1,EE,102521F4,extended,00000007
 
-//One Shot Kills
+[One Shot Kills]
 patch=1,EE,102522A8,extended,00000007
 
-//Unlock All Chapters
+[Unlock All Chapters]
 patch=1,EE,10252164,extended,00000007

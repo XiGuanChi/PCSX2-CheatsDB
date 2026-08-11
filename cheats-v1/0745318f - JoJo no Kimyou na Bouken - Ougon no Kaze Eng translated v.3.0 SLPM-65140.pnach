@@ -1,31 +1,31 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20178748,extended,86030122
 patch=1,EE,2017874C,extended,A6030124
 patch=1,EE,20178754,extended,10000005
 
-//Cheats/Max Ability Points
+[Cheats/Max Ability Points]
 patch=1,EE,1059D830,extended,0000FFFF
 patch=1,EE,1059D834,extended,0000FFFF
 
-//Cheats/Max Emotion Gauge
+[Cheats/Max Emotion Gauge]
 patch=1,EE,201E6E70,extended,2402270F
 patch=1,EE,1059D830,extended,000027D8
 
-//Cheats/Max Spirit Gauge
+[Cheats/Max Spirit Gauge]
 patch=1,EE,201787D0,extended,84620122
 patch=1,EE,201787D4,extended,A4620124
 patch=1,EE,201787DC,extended,10000005
 
-//Cheats/Skip Level After Press L2+R2
+[Cheats/Skip Level After Press L2+R2]
 patch=1,EE,D0370B42,extended,0000FCFF
 patch=1,EE,0059DD90,extended,00000003
 
-//Cheats/Unlock All Stages Super Story
+[Cheats/Unlock All Stages Super Story]
 patch=1,EE,4059D864,extended,00220001
 patch=1,EE,0000C805,extended,00000000
 patch=1,EE,0059D838,extended,00000023
 
-//Cheats/Unlock Another Story Gallery in Menu After Press L3+R3
+[Cheats/Unlock Another Story Gallery in Menu After Press L3+R3]
 patch=1,EE,D0370B42,extended,0000FFF9
 patch=1,EE,105B6495,extended,00000101
 

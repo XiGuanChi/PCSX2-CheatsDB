@@ -1,13 +1,13 @@
 gametitle=Odin Spher SLPM-66474
-//Infinite HP
+[Infinite HP]
 patch=1,EE,201A420C,extended,8CE3046C
 patch=1,EE,201A4220,extended,ACE30468
 
-//It does not decrease Mercedes AMMO
+[It does not decrease Mercedes AMMO]
 patch=1,EE,202F8994,extended,24020063
 
-//HP MAX level increases experience
+[HP MAX level increases experience]
 patch=1,EE,20180EC4,extended,AE240474
 
-//Unlock the Prophecy in the Ending Book
+[Unlock the Prophecy in the Ending Book]
 patch=1,EE,019A3128,extended,00000007

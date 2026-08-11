@@ -1,26 +1,26 @@
 gametitle=Shin Megami Tensei - Nocturne SLUS-20911
-//No Random Battles
+[No Random Battles]
 patch=0,EE,2124A1F9,extended,00000000
 
-//Max Money
+[Max Money]
 patch=1,EE,21248F48,extended,05F5E0FF
 
-//Infinite & Max HP
+[Infinite & Max HP]
 patch=1,EE,11248F5A,extended,000003E7
 patch=1,EE,11248F5C,extended,000003E7
 
-//Infinite & Max MP
+[Infinite & Max MP]
 patch=1,EE,11248F5E,extended,000003E7
 patch=1,EE,11248F60,extended,000003E7
 
-//Party Member A Infinite & Max HP
+[Party Member A Infinite & Max HP]
 patch=1,EE,1124930A,extended,000003E7
 patch=1,EE,1124930C,extended,000003E7
 
-//Party Member B Infinite & Max HP
+[Party Member B Infinite & Max HP]
 patch=1,EE,112493F6,extended,000003E7
 patch=1,EE,112493F8,extended,000003E7
 
-//Party Member C Infinite & Max HP
+[Party Member C Infinite & Max HP]
 patch=1,EE,112494E2,extended,000003E7
 patch=1,EE,112494E4,extended,000003E7

@@ -1,18 +1,18 @@
 gametitle=Bleach - Erabareshi Tamashii SCPS-15087
-//Score 999999999
+[Score 999999999]
 patch=1,EE,204E51CC,extended,3B9AC9FF
 
-//Unlock all Galleries
+[Unlock all Galleries]
 patch=1,EE,404E53A4,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//All missions Points Max (Working on S rank)
+[All missions Points Max (Working on S rank)]
 patch=1,EE,404E54BC,extended,001F0001
 patch=1,EE,3B9AC9FF,extended,00000000
 
-//Unlock All Characters
-//(Note: Must Save First With code on Then reload Save for code to work)
+[Unlock All Characters]
+[(Note: Must Save First With code on Then reload Save for code to work)]
 patch=1,EE,204E53F8,extended,FFFFFFFF
 
-//Max Combo Hits 999
+[Max Combo Hits 999]
 patch=1,EE,202a0834,extended,00000000

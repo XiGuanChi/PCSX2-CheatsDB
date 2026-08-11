@@ -1,20 +1,20 @@
 gametitle=G.I. Joe - The Rise of Cobra SLUS-21886
-//99 Battle Points
+[99 Battle Points]
 patch=1,EE,21E2B480,extended,00000063
 
-//Infinite Health P1
+[Infinite Health P1]
 patch=1,EE,21972A4A,extended,469C4000
 
-//Infinite Health P2
+[Infinite Health P2]
 patch=1,EE,21972B10,extended,469C4000
 
-//Infinite Health P1 ALT
+[Infinite Health P1 ALT]
 patch=1,EE,21972A48,extended,469C4000
 patch=1,EE,21972A4C,extended,469C4000
 
-//Infinite health P2 ALT
+[Infinite health P2 ALT]
 patch=1,EE,21972B68,extended,469C4000
 patch=1,EE,21972B6C,extended,469C4000
 
-//Infinite Health Satellite
+[Infinite Health Satellite]
 patch=1,EE,2187FB1A,extended,469C4000

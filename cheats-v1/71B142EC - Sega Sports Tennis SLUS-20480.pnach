@@ -1,32 +1,32 @@
-//Cheats/Have All Apparel Female
+[Cheats/Have All Apparel Female]
 patch=1,EE,203B14FC,extended,000000FF
 patch=1,EE,203B1500,extended,000000FF
 
-//Cheats/Have All Apparel Male
+[Cheats/Have All Apparel Male]
 patch=1,EE,203B14F4,extended,000000FF
 patch=1,EE,203B14F8,extended,000000FF
 
-//Cheats/Unlock All Etc
+[Cheats/Unlock All Etc]
 patch=1,EE,203B1508,extended,0000FFFF
 
-//Cheats/Unlock All Raquets
+[Cheats/Unlock All Raquets]
 patch=1,EE,203B150C,extended,000000FF
 
-//Cheats/Unlock All Stages
+[Cheats/Unlock All Stages]
 patch=1,EE,203B1504,extended,000000FF
 
-//Cheats/Championship & World Tour Mode Infinite Stamina Female
+[Cheats/Championship & World Tour Mode Infinite Stamina Female]
 patch=1,EE,202ECD44,extended,0000000A
 
-//Cheats/Championship & World Tour Mode Infinite Stamina Male
+[Cheats/Championship & World Tour Mode Infinite Stamina Male]
 patch=1,EE,202ECD40,extended,0000000A
 
-//Cheats/Championship & World Tour Mode P1 Start Match With 45 Points
+[Cheats/Championship & World Tour Mode P1 Start Match With 45 Points]
 patch=1,EE,D0454A30,extended,00000000
 patch=1,EE,10454A30,extended,00000003
 
-//Cheats/Infinite Money World Tour
+[Cheats/Infinite Money World Tour]
 patch=1,EE,102ECCA8,extended,0000FFFF
 
-//Cheats/Max Money Championship Mode
+[Cheats/Max Money Championship Mode]
 patch=1,EE,204359AC,extended,05F5E0FF

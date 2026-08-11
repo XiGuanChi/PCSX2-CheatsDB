@@ -1,41 +1,41 @@
-//Cheats/Clear flag ON You need to save once
+[Cheats/Clear flag ON You need to save once]
 patch=1,EE,00B37A82,extended,00000004
 
-//Cheats/98 items when event items change
+[Cheats/98 items when event items change]
 patch=1,EE,20177570,extended,24100062
 
-//Cheats/98 items when normal items change
+[Cheats/98 items when normal items change]
 patch=1,EE,20177648,extended,24020062
 
-//Cheats/Erosion degree 0 when data drain
+[Cheats/Erosion degree 0 when data drain]
 patch=1,EE,20178B34,extended,A600676E
 
-//Cheats/Time stop of the god of time
+[Cheats/Time stop of the god of time]
 patch=1,EE,2016724C,extended,00001021
 
-//Cheats/Petit Guso Race Time Stop
+[Cheats/Petit Guso Race Time Stop]
 patch=1,EE,D0619610,extended,0000282D
 patch=1,EE,20619614,extended,24060001
 patch=1,EE,D0619610,extended,0000282D
 patch=1,EE,2061961C,extended,A6A60090
 
-//Cheats/With one level up HP 9999
+[Cheats/With one level up HP 9999]
 patch=1,EE,D05AEBF8,extended,00000003
 patch=1,EE,205AEBF8,extended,14200001
 patch=1,EE,D05AEC70,extended,00000003
 patch=1,EE,205AEC70,extended,14200001
 
-//Cheats/With one level up SP 999
+[Cheats/With one level up SP 999]
 patch=1,EE,D05AEC28,extended,00000003
 patch=1,EE,205AEC28,extended,14200001
 patch=1,EE,D05AEC88,extended,00000003
 patch=1,EE,205AEC88,extended,14200001
 
-//Cheats/With one level up Level 99
+[Cheats/With one level up Level 99]
 patch=1,EE,D05AECAC,extended,00000007
 patch=1,EE,205AECAC,extended,14400001
 
-//Cheats/Possession of all event items
+[Cheats/Possession of all event items]
 patch=1,EE,00B38B65,extended,00000001
 patch=1,EE,10B38B66,extended,00000101
 patch=1,EE,20B38B68,extended,01010101
@@ -52,36 +52,36 @@ patch=1,EE,20B38A90,extended,01010101
 patch=1,EE,20B38A94,extended,01010101
 patch=1,EE,20B38A98,extended,00010101
 
-//Cheats/Video data can be viewed even if it is not cleared
+[Cheats/Video data can be viewed even if it is not cleared]
 patch=1,EE,D0436F0C,extended,00001040
 patch=1,EE,20436FC8,extended,10200001
 
-//Cheats/Possess all the books of 800 Yuku
+[Cheats/Possess all the books of 800 Yuku]
 patch=1,EE,00B38B5D,extended,00000001
 patch=1,EE,10B38B5E,extended,00000101
 patch=1,EE,20B38B60,extended,01010101
 patch=1,EE,10B38B64,extended,00000001
 
-//Cheats/All can be called
+[Cheats/All can be called]
 patch=1,EE,20B39F70,extended,001FFFFF
 patch=1,EE,20B39F74,extended,001FFFFF
 patch=1,EE,20B39F7C,extended,001FFFFF
 
-//Cheats/Unlock All wallpaper data
+[Cheats/Unlock All wallpaper data]
 patch=1,EE,20B39F88,extended,FFFFFFFF
 patch=1,EE,20B39F8C,extended,FFFFFFFF
 patch=1,EE,20B39F90,extended,00FFFFFF
 
-//Cheats/Unlock All BGM data
+[Cheats/Unlock All BGM data]
 patch=1,EE,20B39F94,extended,FFFFFFFF
 patch=1,EE,20B39F98,extended,FFFFFFFF
 patch=1,EE,20B39F9C,extended,0007FFFF
 
-//Cheats/Unlock All video data
+[Cheats/Unlock All video data]
 patch=1,EE,20B39FA0,extended,FFFFFFFF
 patch=1,EE,20B39FA4,extended,FFFFFFFF
 patch=1,EE,20B39FA8,extended,FFFFFFFF
 patch=1,EE,00B39FAC,extended,0000003F
 
-//Cheats/The book of 800 verses Ichi Position - Liu's BookNumber of times I went to the area
+[Cheats/The book of 800 verses Ichi Position - Liu's BookNumber of times I went to the area]
 patch=1,EE,10B3E5B2,extended,0000270F

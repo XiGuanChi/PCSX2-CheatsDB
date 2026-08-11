@@ -1,48 +1,48 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,21EC68DC,extended,000F000F
 
-//Cheats/Infinite Max VFX
+[Cheats/Infinite Max VFX]
 patch=1,EE,21EC68D8,extended,05DC05DC
 
-//Cheats/Max V-Points
+[Cheats/Max V-Points]
 patch=1,EE,21EC68EC,extended,000F423F
 
-//Cheats/Article 99 Life
+[Cheats/Article 99 Life]
 patch=1,EE,01EC68E6,extended,00000063
 
-//Cheats/Mach Speed 3
+[Cheats/Mach Speed 3]
 patch=1,EE,11EC68E4,extended,00000202
 
-//Cheats/Desperado 3
+[Cheats/Desperado 3]
 patch=1,EE,01EC68E3,extended,00000002
 
-//Cheats/Infinite V Weapons Bombs and Japanese Darts
+[Cheats/Infinite V Weapons Bombs and Japanese Darts]
 patch=1,EE,21EC68F0,extended,00630063
 
-//Cheats/Unlock All Elements
+[Cheats/Unlock All Elements]
 patch=1,EE,21EC68E8,extended,000FFFFF
 
-//Cheats/Time V Aya
+[Cheats/Time V Aya]
 patch=1,EE,21EC819C,extended,000000F9
 
-//Cheats/Defensive Sword V Aya
+[Cheats/Defensive Sword V Aya]
 patch=1,EE,21EC8178,extended,00000000
 
-//Cheats/Max Score V
+[Cheats/Max Score V]
 patch=1,EE,21EC7E80,extended,FFFFFFFF
 patch=1,EE,21EC7E84,extended,FFFFFFFF
 
-//Cheats/Max Score X
+[Cheats/Max Score X]
 patch=1,EE,01F1FF5C,extended,000000FF
 
-//Cheats/Eternal Flame Ignition
+[Cheats/Eternal Flame Ignition]
 patch=1,EE,21F24C44,extended,00000FE6
 
-//Cheats/Infinite Jump
+[Cheats/Infinite Jump]
 patch=1,EE,01F20EBB,extended,00000000
 
-//Cheats/Unlock All Elements Person
+[Cheats/Unlock All Elements Person]
 patch=1,EE,01EC68C4,extended,0000000F
 
-//Cheats/Infinite Demand Time
+[Cheats/Infinite Demand Time]
 patch=1,EE,21EC81A4,extended,470BC400

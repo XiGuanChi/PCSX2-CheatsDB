@@ -1,10 +1,10 @@
 gametitle=Frogger's Adventures - The Rescue SLUS-20734
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,1040E970,extended,00000009
 
-//Always Have 49 Coins
+[Always Have 49 Coins]
 patch=1,EE,D040E96E,extended,00200031
 patch=1,EE,1040E96E,extended,00000031
 
-//Always Low Time (Challenge Mode)
+[Always Low Time (Challenge Mode)]
 patch=1,EE,2040E9D8,extended,00000000

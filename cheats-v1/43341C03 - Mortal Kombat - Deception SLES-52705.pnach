@@ -1,12 +1,12 @@
-//Cheats/Player 1 Infinite Health
+[Cheats/Player 1 Infinite Health]
 patch=1,EE,205EA548,extended,3F800000
 patch=1,EE,205F8190,extended,3F800000
 
-//Cheats/Player 2 Has No Health
+[Cheats/Player 2 Has No Health]
 patch=1,EE,205EA54C,extended,3C000000
 patch=1,EE,205F81FC,extended,3C000000
 
-//Cheats/Infinite Koins
+[Cheats/Infinite Koins]
 patch=1,EE,10636394,extended,0000270F
 patch=1,EE,1063638C,extended,0000270F
 patch=1,EE,10636384,extended,0000270F

@@ -1,16 +1,16 @@
 gametitle=Thunderbirds SLES-54738
-//Infinite Shield
+[Infinite Shield]
 patch=1,EE,2012C1A0,extended,3C013F80
 patch=1,EE,2012C1A4,extended,AC410000
 patch=1,EE,2012C1B0,extended,AEE11F4C
 
-//Infinite Fuel
+[Infinite Fuel]
 patch=1,EE,2012C1C8,extended,3C013F80
 patch=1,EE,2012C1CC,extended,AC410000
 patch=1,EE,2012C1E0,extended,AEE11F64
 
-//nfinite Time
+[nfinite Time]
 patch=1,EE,20127B10,extended,AE600024
 
-//All Levels Open
+[All Levels Open]
 patch=1,EE,20113EB8,extended,00000000

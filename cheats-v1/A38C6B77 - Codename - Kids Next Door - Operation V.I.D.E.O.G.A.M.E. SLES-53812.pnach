@@ -1,30 +1,30 @@
-//Cheats/Take 1 Collectible to Get the Max Amount
+[Cheats/Take 1 Collectible to Get the Max Amount]
 patch=1,EE,201B0D38,extended,C622000C
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,201B0B68,extended,AE200018
 
-//Cheats/Unlock Invincibility
+[Cheats/Unlock Invincibility]
 patch=1,EE,20277980,extended,00000000
 patch=1,EE,20277880,extended,3C020006
 patch=1,EE,20277884,extended,3442C81C
 
-//Cheats/Unlock Infinite Powuh
+[Cheats/Unlock Infinite Powuh]
 patch=1,EE,20277980,extended,00000000
 patch=1,EE,20277874,extended,3C020005
 patch=1,EE,20277878,extended,34421615
 
-//Cheats/Unlock Invisibility
+[Cheats/Unlock Invisibility]
 patch=1,EE,20277980,extended,00000000
 patch=1,EE,20277864,extended,3C020003
 patch=1,EE,20277868,extended,3442640E
 
-//Cheats/Unlock Numbuh 1 into Numbuh 86
+[Cheats/Unlock Numbuh 1 into Numbuh 86]
 patch=1,EE,20277980,extended,00000000
 patch=1,EE,20277854,extended,3C030001
 patch=1,EE,20277858,extended,3462B207
 
-//Cheats/Once the Invisibility is Activated, the effect is always active
+[Cheats/Once the Invisibility is Activated, the effect is always active]
 patch=1,EE,2021B300,extended,24020000
 patch=1,EE,20223908,extended,10000002
 

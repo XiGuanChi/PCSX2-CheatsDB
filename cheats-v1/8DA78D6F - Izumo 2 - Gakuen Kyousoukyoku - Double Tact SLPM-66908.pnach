@@ -1,20 +1,20 @@
-//Cheats/Unlock Options - Character Voice settings
+[Cheats/Unlock Options - Character Voice settings]
 patch=1,EE,20AC8510,extended,FFFFFFFF
 
-//Cheats/Unlock All CG when viewing CG
+[Cheats/Unlock All CG when viewing CG]
 patch=1,EE,201050C0,extended,00430821
 patch=1,EE,201050C8,extended,240200FF
 patch=1,EE,201050CC,extended,A0228090
 
-//Cheats/Unlock All Retrospectives when viewing Retrospective
+[Cheats/Unlock All Retrospectives when viewing Retrospective]
 patch=1,EE,20104714,extended,240400FF
 patch=1,EE,20104718,extended,10000009
 patch=1,EE,2010471C,extended,A0443EC0
 
-//Cheats/Unlock All Music
+[Cheats/Unlock All Music]
 patch=1,EE,20AC8410,extended,FFFFFFFF
 
-//Cheats/Enable Debug Menuyou will enter the debug menu when you first start up the game. At anytime, to go back to it, press and hold Select button while entering any mode, such as the Options menu. From the beginning	Starts the game.Scenario Sends you to a list of story related scenes to choose from. Character Allows you to view all of the character portraits.BG Allows you to view all of the background images.Event Allows you to view all of the event images in the game.BGM Doesn't work.SE Goes through all of the SFX in the game. Effect Doesn't work.Movie Allows you to watch all of the movies in the game. Route Check This appears to be the same as the Scenario option.System Flag Unlocks everything in the game when selected.
+[Cheats/Enable Debug Menuyou will enter the debug menu when you first start up the game. At anytime, to go back to it, press and hold Select button while entering any mode, such as the Options menu. From the beginning	Starts the game.Scenario Sends you to a list of story related scenes to choose from. Character Allows you to view all of the character portraits.BG Allows you to view all of the background images.Event Allows you to view all of the event images in the game.BGM Doesn't work.SE Goes through all of the SFX in the game. Effect Doesn't work.Movie Allows you to watch all of the movies in the game. Route Check This appears to be the same as the Scenario option.System Flag Unlocks everything in the game when selected.]
 patch=1,EE,0010D880,extended,00000000
 patch=1,EE,D04CFD82,extended,0000FFFE
 patch=1,EE,2027F86C,extended,00000000

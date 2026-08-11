@@ -1,15 +1,15 @@
 gametitle=The Bouncer SCES-50241
-//Sion Barzahd Infinite & Max HP (300)
+[Sion Barzahd Infinite & Max HP (300)]
 patch=1,EE,21D89F98,extended,000012C
 patch=1,EE,21D89FA0,extended,000012C
 
-//Infinite BP
+[Infinite BP]
 patch=1,EE,103C88F0,extended,0000FFFF
 patch=1,EE,103C88F8,extended,0000FFFF
 
-//Infinite Bouncer Points
+[Infinite Bouncer Points]
 patch=1,EE,203C88F8,extended,0001869F
 
-//All Chars Open
+[All Chars Open]
 patch=1,EE,103C9BE8,extended,0000FFFF
 patch=1,EE,10380420,extended,0000FFFF

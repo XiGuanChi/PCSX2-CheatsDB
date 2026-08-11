@@ -1,13 +1,13 @@
 gametitle=Circus Maximus - Chariot Wars SLES-50935	
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202382B4,extended,3C013F80
 patch=1,EE,202382BC,extended,AC410DBC
 
-//Max Dinaris After 1 Race
+[Max Dinaris After 1 Race]
 patch=1,EE,0015CD03,extended,E1800000
 patch=1,EE,003D0726,extended,58B5ED75
 
-//Most Challenges-1 Lap
+[Most Challenges-1 Lap]
 patch=1,EE,202A8AA0,extended,00000001
 patch=1,EE,202A8AA4,extended,00000001
 patch=1,EE,202A8AA8,extended,00000001
@@ -29,16 +29,16 @@ patch=1,EE,202A8AE4,extended,00000001
 patch=1,EE,202A8AE8,extended,00000001
 patch=1,EE,202A8AEC,extended,00000001
 
-//Never Crash
+[Never Crash]
 patch=1,EE,201D0F84,extended,00000000
 patch=1,EE,201D0F80,extended,03E00008
 
-//Always 1 Lap Race In Arcade Mode
+[Always 1 Lap Race In Arcade Mode]
 patch=1,EE,202B073C,extended,00000001
 patch=1,EE,202B0738,extended,00000001
 patch=1,EE,202B0734,extended,00000001
 patch=1,EE,202B0730,extended,00000001
 
-//Challenge Never Fails
+[Challenge Never Fails]
 patch=1,EE,201EEC34,extended,00000000
 patch=1,EE,201EEC30,extended,03E00008

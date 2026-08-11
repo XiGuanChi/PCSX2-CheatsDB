@@ -1,8 +1,8 @@
 gametitle=Interlude SLPS-25283
-//Visual mode fully opened
+[Visual mode fully opened]
 patch=1,EE,41584FD0,extended,001D0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Enable Debug Mode Holding L1 + R1 when the game is first starting up will send you to a debug screen. Holding Select when the game is first starting up will send you to a system debug information screen. Starting a new game will open a debug menu.
+[Enable Debug Mode Holding L1 + R1 when the game is first starting up will send you to a debug screen. Holding Select when the game is first starting up will send you to a system debug information screen. Starting a new game will open a debug menu.]
 patch=1,EE,2048AD28,extended,00000001
 

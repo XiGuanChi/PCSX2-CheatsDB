@@ -1,29 +1,29 @@
 gametitle=Rogue Hearts Dungeon SLPM-66736
-//Hp 999/999
+[Hp 999/999]
 patch=1,EE,10E29C68,extended,000003E7
 patch=1,EE,10E29C6C,extended,000003E7
 
-//Exp 9999999 
+[Exp 9999999]
 patch=1,EE,20E29C60,extended,05F5E0FF
 
-//Gold 9999999
+[Gold 9999999]
 patch=1,EE,20E29C8C,extended,05F5E0FF
 
-//STR 99
+[STR 99]
 patch=1,EE,10E29C70,extended,00000063
 patch=1,EE,10E29C74,extended,00000063
 
-//ARM 99
+[ARM 99]
 patch=1,EE,10E29CCC,extended,00000063
 
-//Cond 100%
+[Cond 100%]
 patch=1,EE,10E29C80,extended,00001000
 
-//Enemy dont Move
+[Enemy dont Move]
 patch=1,EE,10E29C98,extended,000000FF
 
-//Level 99
+[Level 99]
 patch=1,EE,10E29C5C,extended,00000063
 
-//Always full life 
+[Always full life]
 patch=1,EE,2017E704,extended,AC510318

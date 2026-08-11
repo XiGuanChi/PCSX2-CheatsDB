@@ -1,13 +1,13 @@
 gametitle=Shinseiki GPX Cyber Formula - Road to the Infinity SLPS-25307
-//Max 9999999
+[Max 9999999]
 patch=1,EE,204e3324,extended,0098967f
 
-//Max 999999999 a
+[Max 999999999 a]
 patch=1,EE,204e3320,extended,3b9ac9ff
 
-//Max Played Time
+[Max Played Time]
 patch=1,EE,204e331c,extended,0cdfe5ff
 
-//Main Menu Extra Movie = Debug Menu
+[Main Menu Extra Movie = Debug Menu]
 patch=1,EE,00180370,extended,00000032
 patch=1,EE,1018037C,extended,000019B0

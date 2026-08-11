@@ -1,70 +1,70 @@
-//Cheats/QUEST HARD can be selected
+[Cheats/QUEST HARD can be selected]
 patch=1,EE,2022A0CC,extended,00000002
 
-//Cheats/Max EXP
+[Cheats/Max EXP]
 patch=1,EE,20230704,extended,3B9AC9FF
 
-//Cheats/Max POINT
+[Cheats/Max POINT]
 patch=1,EE,20230708,extended,3B9AC9FF
 
-//Cheats/LIFE Upper limit 9900
+[Cheats/LIFE Upper limit 9900]
 patch=1,EE,2023070C,extended,000026AC
 
-//Cheats/MANA Upper limit 9900
+[Cheats/MANA Upper limit 9900]
 patch=1,EE,20230710,extended,000026AC
 
-//Cheats/SHOT Upper limit 990
+[Cheats/SHOT Upper limit 990]
 patch=1,EE,20230714,extended,000003DE
 
-//Cheats/POWER Upper limit 990
+[Cheats/POWER Upper limit 990]
 patch=1,EE,20230718,extended,000003DE
 
-//Cheats/LIFE Current value 9900
+[Cheats/LIFE Current value 9900]
 patch=1,EE,202307EC,extended,000026AC
 
-//Cheats/MANA Current value 9900
+[Cheats/MANA Current value 9900]
 patch=1,EE,202307F0,extended,000026AC
 
-//Cheats/SHOT Current value 990
+[Cheats/SHOT Current value 990]
 patch=1,EE,202307F4,extended,000003DE
 
-//Cheats/POWER Current value 990
+[Cheats/POWER Current value 990]
 patch=1,EE,202307F8,extended,000003DE
 
-//Cheats/Lightning volt - bolt Lv3
+[Cheats/Lightning volt - bolt Lv3]
 patch=1,EE,20230730,extended,00000003
 
-//Cheats/LIFE max self-destruct press SELECT
+[Cheats/LIFE max self-destruct press SELECT]
 patch=1,EE,202307EC,extended,000026AC 
 patch=1,EE,D023A6C2,extended,0000FFFE 
 patch=1,EE,202307EC,extended,00000000
 
-//Cheats/2P EXP max
+[Cheats/2P EXP max]
 patch=1,EE,20230854,extended,3B9AC9FF
 
-//Cheats/2P POINT max
+[Cheats/2P POINT max]
 patch=1,EE,20230858,extended,3B9AC9FF
 
-//Cheats/2P LIFE upper limit 9900
+[Cheats/2P LIFE upper limit 9900]
 patch=1,EE,2023085C,extended,000026AC
 
-//Cheats/2P MANA upper limit 9900
+[Cheats/2P MANA upper limit 9900]
 patch=1,EE,20230860,extended,000026AC
 
-//Cheats/2P SHOT upper limit 990
+[Cheats/2P SHOT upper limit 990]
 patch=1,EE,20230864,extended,000003DE
 
-//Cheats/2P POWER upper limit 990
+[Cheats/2P POWER upper limit 990]
 patch=1,EE,20230868,extended,000003DE
 
-//Cheats/2P LIFE current value 9900
+[Cheats/2P LIFE current value 9900]
 patch=1,EE,2023093C,extended,000026AC
 
-//Cheats/2P MANA current value 9900
+[Cheats/2P MANA current value 9900]
 patch=1,EE,20230940,extended,000026AC
 
-//Cheats/2P SHOT current value 990
+[Cheats/2P SHOT current value 990]
 patch=1,EE,20230944,extended,000003DE
 
-//Cheats/2P POWER current value 990
+[Cheats/2P POWER current value 990]
 patch=1,EE,20230948,extended,000003DE

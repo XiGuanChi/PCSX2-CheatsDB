@@ -1,10 +1,10 @@
 gametitle=Wave Rally SLUS-20313
-//Max Race Points
+[Max Race Points]
 patch=1,EE,106658D0,extended,000003E7
 
-//Always Place 1st
+[Always Place 1st]
 patch=1,EE,0066BC70,extended,00000000
 
-//Start On Lap 5
+[Start On Lap 5]
 patch=1,EE,D066BC38,extended,00000000
 patch=1,EE,1066BC38,extended,00000004

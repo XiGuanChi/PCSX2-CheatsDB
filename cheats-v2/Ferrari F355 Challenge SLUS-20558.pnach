@@ -1,12 +1,12 @@
 gametitle=Ferrari F355 Challenge SLUS-20558
-//Infinite Time
+[Infinite Time]
 patch=1,EE,203700AC,extended,00000F85
 
-//Player 1 Start On Lap 4
+[Player 1 Start On Lap 4]
 patch=1,EE,D0372388,extended,00000000
 patch=1,EE,20372388,extended,00030003
 
-//Unlock Gallery 
+[Unlock Gallery]
 patch=1,EE,2043160C,extended,00000001
 patch=1,EE,204315B8,extended,00000001
 patch=1,EE,2043175C,extended,00000001

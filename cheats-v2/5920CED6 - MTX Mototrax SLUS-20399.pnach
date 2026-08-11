@@ -1,20 +1,20 @@
 gametitle=MTX Mototrax SLUS-20399
-//Max MXTP (Free Ride Mode)
+[Max MXTP (Free Ride Mode)]
 patch=1,EE,207ABA88,extended,000F423F
 
-//Freestyle Mode Player 1 Press l1 + select To Stop Timer
+[Freestyle Mode Player 1 Press l1 + select To Stop Timer]
 patch=1,EE,D0AC4F00,extended,0000FBFE
 patch=1,EE,20246E98,extended,00000000
 
-//Freestyle Mode Player 1 Press l1 + select To Restart Timer
+[Freestyle Mode Player 1 Press l1 + select To Restart Timer]
 patch=1,EE,D0AC4F00,extended,0000FEFE
 patch=1,EE,20246E98,extended,AE030054
 
-//Freestyle Mode Max Score
+[Freestyle Mode Max Score]
 patch=1,EE,209B8534,extended,05F5E0FF
 
-//Race Mode Only Race 1 Lap
+[Race Mode Only Race 1 Lap]
 patch=1,EE,20301E1C,extended,AC820034
 
-//Always Low Lap Timer
+[Always Low Lap Timer]
 patch=1,EE,20301E4C,extended,AC400000

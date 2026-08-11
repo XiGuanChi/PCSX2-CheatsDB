@@ -1,8 +1,8 @@
 gametitle=Kaezaru no Mori SLPM-62254
-//Time limit 20:00 R2 button
+[Time limit 20:00 R2 button]
 patch=1,EE,D056F080,extended,00000002
 patch=1,EE,1043197C,extended,00000000
 
-//Item fully open
+[Item fully open]
 patch=1,EE,404319F8,extended,004F0001
 patch=1,EE,00000001,extended,00000000

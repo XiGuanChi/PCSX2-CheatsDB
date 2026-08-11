@@ -1,14 +1,14 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,2038385C,extended,0098967F
 patch=1,EE,20383838,extended,0098967F
 
-//Cheats/SURVIVAL Game Press SELECT+R1
+[Cheats/SURVIVAL Game Press SELECT+R1]
 patch=1,EE,D02E4942,extended,0000FDFE
 patch=1,EE,20BCD038,extended,0098967F
 patch=1,EE,D02E4942,extended,0000FDFE
 patch=1,EE,20BCD03C,extended,0098967F
 
-//Cheats/HAYAOSHI BAT Game After Press SELECT+L2
+[Cheats/HAYAOSHI BAT Game After Press SELECT+L2]
 patch=1,EE,D02E4942,extended,0000FEFE
 patch=1,EE,20BCBA80,extended,0098967F
 patch=1,EE,D02E4942,extended,0000FEFE

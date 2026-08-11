@@ -1,4 +1,4 @@
-//Cheats/Must Be On
+[Cheats/Must Be On]
 patch=1,EE,200FFF04,extended,3C03003B
 patch=1,EE,200FFF08,extended,3463C5BC
 patch=1,EE,200FFF0C,extended,8C630000
@@ -8,14 +8,14 @@ patch=1,EE,200FFF34,extended,24030070
 patch=1,EE,200FFF38,extended,0804C248
 patch=1,EE,2013091C,extended,0803FFC0
 
-//Cheats/Infinite Pistol Ammo
+[Cheats/Infinite Pistol Ammo]
 patch=1,EE,200FFF1C,extended,A064012C
 
-//Cheats/Infinite Low Bomb
+[Cheats/Infinite Low Bomb]
 patch=1,EE,200FFF20,extended,A0640128
 
-//Cheats/Infinite Rosa
+[Cheats/Infinite Rosa]
 patch=1,EE,200FFF24,extended,A0640124
 
-//Cheats/Infinite Soporific Bombs
+[Cheats/Infinite Soporific Bombs]
 patch=1,EE,200FFF28,extended,A0640120

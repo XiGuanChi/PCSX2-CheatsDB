@@ -1,29 +1,29 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,2061C440,extended,3B9AC9FF
 
-//Cheats/Infinite SP
+[Cheats/Infinite SP]
 patch=1,EE,201BC784,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,201C5BE0,extended,00000000
 
-//Cheats/Infinite EN
+[Cheats/Infinite EN]
 patch=1,EE,201C5AD8,extended,00000000
 
-//Cheats/Max PP After One Battle
+[Cheats/Max PP After One Battle]
 patch=1,EE,201BC5B4,extended,28610000
 
-//Cheats/Increases Energy to 170 Without Using PP Training
+[Cheats/Increases Energy to 170 Without Using PP Training]
 patch=1,EE,201BC8BC,extended,00000000
 patch=1,EE,20172BD8,extended,00000000
 
-//Cheats/Speed Up L3 ON R3 OFF
+[Cheats/Speed Up L3 ON R3 OFF]
 patch=1,EE,D0699CC2,extended,0000FFFD
 patch=1,EE,2010D274,extended,00000000
 patch=1,EE,D0699CC2,extended,0000FFFB
 patch=1,EE,2010D274,extended,0C046ADC
 
-//Cheats/Infinite Action If you change the platoon leader after acting, it will be effective. It seems that even a single horse can be done press square button
+[Cheats/Infinite Action If you change the platoon leader after acting, it will be effective. It seems that even a single horse can be done press square button]
 patch=1,EE,201524AC,extended,34420008
 patch=1,EE,201524B0,extended,A0820018
 patch=1,EE,201524C0,extended,24020000
@@ -32,33 +32,33 @@ patch=1,EE,201524C0,extended,24020000
 patch=1,EE,20368930,extended,2403270F
 patch=1,EE,20368948,extended,A7C300BC
 
-//Cheats/Intermission All 99 Reinforced Parts
+[Cheats/Intermission All 99 Reinforced Parts]
 patch=1,EE,201D85F4,extended,24010063
 patch=1,EE,201D85F8,extended,A0410000
 patch=1,EE,201D8600,extended,24020001
 
-//Cheats/Unlock All Character Encyclopedia
+[Cheats/Unlock All Character Encyclopedia]
 patch=1,EE,40666DB0,extended,00110001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Glossary
+[Cheats/Unlock All Glossary]
 patch=1,EE,40666E00,extended,00020001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10666E08,extended,0000FFFF
 patch=1,EE,00666E0A,extended,00100007
 
-//Cheats/Unlock All Sounds
+[Cheats/Unlock All Sounds]
 patch=1,EE,40666E20,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10666E30,extended,00003FFF
 
-//Cheats/Unlock All Scenario Chart
+[Cheats/Unlock All Scenario Chart]
 patch=1,EE,40666E34,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10666E40,extended,0000FFFF
 patch=1,EE,00666E42,extended,000010C9
 
-//Cheats/Unlock All Options
+[Cheats/Unlock All Options]
 patch=1,EE,20148494,extended,24050037
 patch=1,EE,20148498,extended,2403FFFF
 patch=1,EE,2014849C,extended,24A5FFFF
@@ -66,7 +66,7 @@ patch=1,EE,201484A0,extended,ACE30000
 patch=1,EE,201484A4,extended,14A0FFFD
 patch=1,EE,201484A8,extended,24E70004
 
-//Cheats/Unlock Scenario Selection
+[Cheats/Unlock Scenario Selection]
 patch=1,EE,202EA884,extended,0080102D
 patch=1,EE,202EA894,extended,28630005
 patch=1,EE,202EA898,extended,14600003

@@ -1,26 +1,26 @@
-//Cheats/Infinite Health In Battle
+[Cheats/Infinite Health In Battle]
 patch=1,EE,105A7DC4,extended,000003E8
 
-//Cheats/Infinite Soul In Battle
+[Cheats/Infinite Soul In Battle]
 patch=1,EE,205BF7F4,extended,05DC05DC
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200F4000,extended,8482FFFC
 patch=1,EE,200F4004,extended,A4227DC4
 patch=1,EE,200F4008,extended,0809BE1F
 patch=1,EE,200F400C,extended,84840000
 patch=1,EE,2026F878,extended,0803D000
 
-//Cheats/Infinite Special Shells
+[Cheats/Infinite Special Shells]
 patch=1,EE,202C3F90,extended,00000000
 
-//Cheats/All Legions
+[Cheats/All Legions]
 patch=1,EE,005BF7E5,extended,000000FF
 
-//Cheats/Legions LV4 Release
+[Cheats/Legions LV4 Release]
 patch=1,EE,005BF99C,extended,000000FF
 
-//Cheats/Max Life & Soul Magazine
+[Cheats/Max Life & Soul Magazine]
 patch=1,EE,20348A94,extended,240603E8
 patch=1,EE,20348A9C,extended,240505DC
 patch=1,EE,20348AA4,extended,2404000A

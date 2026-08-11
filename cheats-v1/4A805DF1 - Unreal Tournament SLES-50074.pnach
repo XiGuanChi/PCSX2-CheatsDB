@@ -1,31 +1,31 @@
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,014d9edd,extended,00000001
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,20540F7C,extended,00000000
 
-//Cheats/Infinite Health alt
+[Cheats/Infinite Health alt]
 patch=1,EE,007B6C49,extended,00000001
 
-//Cheats/All Weapons
+[Cheats/All Weapons]
 patch=1,EE,00794D60,extended,00000001
 
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,00794D49,extended,00000001
 
-//Cheats/Infinite Laser
+[Cheats/Infinite Laser]
 patch=1,EE,00794D4A,extended,00000001
 
-//Cheats/Infinite Alt.Laser
+[Cheats/Infinite Alt.Laser]
 patch=1,EE,206C2034,extended,24020063
 
-//Cheats/Infinite Player Weapons
+[Cheats/Infinite Player Weapons]
 patch=1,EE,00794D5F,extended,00000001
 
-//Cheats/Infinite Vision
+[Cheats/Infinite Vision]
 patch=1,EE,00794D4C,extended,00000001
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,208C3880,extended,01010101
 patch=1,EE,208C3884,extended,01010101
 patch=1,EE,208C3888,extended,01010101
@@ -33,7 +33,7 @@ patch=1,EE,208C388C,extended,01010101
 patch=1,EE,208C3890,extended,01010101
 patch=1,EE,208C3894,extended,00000001
 
-//Cheats/Unlock All Bonuses and Minigames Doesnt Give Movie Clips
+[Cheats/Unlock All Bonuses and Minigames Doesnt Give Movie Clips]
 patch=1,EE,204CC570,extended,A0800005
 patch=1,EE,204CC574,extended,03E00008
 patch=1,EE,204CC578,extended,80820005

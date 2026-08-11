@@ -1,15 +1,15 @@
-//Cheats/Max Blood gauge
+[Cheats/Max Blood gauge]
 patch=1,EE,1066C210,extended,00000258
 patch=1,EE,1066C214,extended,00000258
 
-//Cheats/Max Answer time
+[Cheats/Max Answer time]
 patch=1,EE,0067915C,extended,000000B4
 
-//Cheats/Unlock Game 100%
+[Cheats/Unlock Game 100%]
 patch=1,EE,4066B510,extended,00260001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Presents
+[Cheats/Unlock All Presents]
 patch=1,EE,1066B380,extended,0000FFFF
 patch=1,EE,0066B387,extended,00000001
 patch=1,EE,0066B38B,extended,00000001
@@ -31,7 +31,7 @@ patch=1,EE,0066B3C7,extended,00000001
 patch=1,EE,0066B3CB,extended,00000001
 patch=1,EE,1066B3CF,extended,00000101
 
-//Cheats/Play Time 0
+[Cheats/Play Time 0]
 patch=1,EE,2066B290,extended,00000000
 
 

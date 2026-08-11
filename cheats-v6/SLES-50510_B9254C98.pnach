@@ -1,12 +1,12 @@
 gametitle=The Mummy Returns PAL-M SLES-50510 B9254C98
 
-//50/60 FPS
+[50/60 FPS]
 author=GamingDragon93
 description=Might need EE overclock (130%).
 patch=0,EE,00122164,word,A0600036
-//0025DCC4 alt
+[0025DCC4 alt]
 
-//NTSC Mode
+[NTSC Mode]
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,0012215C,word,A0600035

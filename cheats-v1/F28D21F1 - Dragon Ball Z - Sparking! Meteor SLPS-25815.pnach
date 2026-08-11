@@ -1,13 +1,13 @@
-//Cheats/Max Z Points 999999
+[Cheats/Max Z Points 999999]
 patch=1,EE,2077FE68,extended,0098967F
 
-//Cheats/Max Z Points Up To Max
+[Cheats/Max Z Points Up To Max]
 patch=1,EE,202664D4,extended,00000000
 
-//Cheats/1 Hit To Kill Dragon Story Only Stage 1
+[Cheats/1 Hit To Kill Dragon Story Only Stage 1]
 patch=1,EE,219527C4,extended,00000001
 
-//Cheats/Must Be On In Battle
+[Cheats/Must Be On In Battle]
 patch=1,EE,200FF000,extended,8F81A8A4
 patch=1,EE,200FF004,extended,24212000
 patch=1,EE,200FF008,extended,0041082B
@@ -16,49 +16,49 @@ patch=1,EE,200FF050,extended,03E00008
 patch=1,EE,200FF0A0,extended,03E00008
 patch=1,EE,201CE158,extended,0803FC00
 
-//Cheats/Infinite Health P1 In Battle
+[Cheats/Infinite Health P1 In Battle]
 patch=1,EE,200FF010,extended,3C010001
 patch=1,EE,200FF014,extended,342186A0
 patch=1,EE,200FF018,extended,AC410000
 patch=1,EE,200FF01C,extended,AC410004
 
-//Cheats/Max Sparking P1 In Battle
+[Cheats/Max Sparking P1 In Battle]
 patch=1,EE,200FF03C,extended,24017530
 patch=1,EE,200FF040,extended,AC41001C
 
-//Cheats/Max Power P1 In Battle
+[Cheats/Max Power P1 In Battle]
 patch=1,EE,200FF028,extended,3C010001
 patch=1,EE,200FF02C,extended,342186A0
 patch=1,EE,200FF030,extended,AC41000C
 
-//Cheats/Max Blast P1 In Battle
+[Cheats/Max Blast P1 In Battle]
 patch=1,EE,200FF034,extended,3C410008
 patch=1,EE,200FF038,extended,AC410014
 
-//Cheats/Press SELECT+R1 2P Health 1
+[Cheats/Press SELECT+R1 2P Health 1]
 patch=1,EE,200FF060,extended,24010001
 patch=1,EE,200FF064,extended,00000000
 patch=1,EE,D033381C,extended,0000F7FE
 patch=1,EE,200FF064,extended,AC410000
 
-//Cheats/2P Health 0
+[Cheats/2P Health 0]
 patch=1,EE,200FF06C,extended,AC40000C
 
-//Cheats/Unlock Dragon Ball 7
+[Cheats/Unlock Dragon Ball 7]
 patch=1,EE,0077CE48,extended,0000007F
 
-//Cheats/Score 999999
+[Cheats/Score 999999]
 patch=1,EE,20772FFC,extended,0098967F
 
-//Cheats/Unlock All Z Dirty Items 100%
+[Cheats/Unlock All Z Dirty Items 100%]
 patch=1,EE,4077FD08,extended,00260001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Unlock All Tournament Mode
+[Cheats/Unlock All Tournament Mode]
 patch=1,EE,2077D848,extended,FFFFFFFF
 patch=1,EE,2077D84C,extended,FFFFFFFF
 
-//Cheats/Unlock All Characteres
+[Cheats/Unlock All Characteres]
 patch=1,EE,2077DA50,extended,FFFFFFFF
 patch=1,EE,2077DA54,extended,FFFFFFFF
 patch=1,EE,2077DA58,extended,FFFFFFFF
@@ -66,17 +66,17 @@ patch=1,EE,2077DA5C,extended,FFFFFFFF
 patch=1,EE,2077DA60,extended,FFFFFFFF
 patch=1,EE,2077DA64,extended,FFFFFFFF
 
-//Cheats/Unlock All Stages, Music And Gallery
+[Cheats/Unlock All Stages, Music And Gallery]
 patch=1,EE,2077DA68,extended,FFFFFFFF
 patch=1,EE,2077DA6C,extended,FFFFFFFF
 
-//Cheats/Unlock All Music
+[Cheats/Unlock All Music]
 patch=1,EE,2077DA70,extended,FFFFFFFF
 
-//Cheats/Unlock Added Shenron
+[Cheats/Unlock Added Shenron]
 patch=1,EE,0077CE48,extended,0000007F
 
-//Cheats/Unlock All Dragon History Scenario
+[Cheats/Unlock All Dragon History Scenario]
 patch=1,EE,4077CE50,extended,00090004
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,4077CE54,extended,00080004
@@ -84,16 +84,16 @@ patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,4077CE58,extended,00080004 
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Dragon World Tour  Events Not reflected in save data
+[Cheats/Unlock All Dragon World Tour  Events Not reflected in save data]
 patch=1,EE,D0363160,extended,00000A08
 patch=1,EE,20363164,extended,3442001F 
 patch=1,EE,D0363160,extended,00000A08 
 patch=1,EE,2036316C,extended,AC620A08 
 
-//Cheats/Unlock Ultimate Battle Survival Addition
+[Cheats/Unlock Ultimate Battle Survival Addition]
 patch=1,EE,2077D048,extended,00000001 
 
-//Cheats/Unlock Mission 100
+[Cheats/Unlock Mission 100]
 patch=1,EE,2077D04C,extended,00000014
 
 

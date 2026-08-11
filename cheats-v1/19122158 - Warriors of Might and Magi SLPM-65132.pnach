@@ -1,16 +1,16 @@
-//Cheats/Max Gold
+[Cheats/Max Gold]
 patch=1,EE,20BE95C4,extended,0001869F
 patch=1,EE,20BE95D4,extended,0001869F
 
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,10BE9A3A,extended,00004F80
 
-//Cheats/Max Mana
+[Cheats/Max Mana]
 patch=1,EE,10BE9AD0,extended,000000FF
 patch=1,EE,10BE9AD4,extended,000000FF
 
-//Cheats/Max Experience Value
+[Cheats/Max Experience Value]
 patch=1,EE,10BE9ADC,extended,0000FFFF
 
-//Cheats/Max Ability Score
+[Cheats/Max Ability Score]
 patch=1,EE,20BE9AF4,extended,64646464

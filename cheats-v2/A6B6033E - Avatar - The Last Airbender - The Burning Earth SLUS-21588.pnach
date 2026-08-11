@@ -1,40 +1,40 @@
 gametitle=Avatar - The Last Airbender - The Burning Earth SLUS-21588
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20198DB0,extended,9643009E
 patch=1,EE,20198DB4,extended,A643009C
 
-//Activate Cheat Unlimited Health
+[Activate Cheat Unlimited Health]
 patch=1,EE,00587300,extended,00000001
 
-//Activate Cheat Max Level
+[Activate Cheat Max Level]
 patch=1,EE,00587301,extended,00000001
 
-//Activate Cheat 1-Hit Dishonor
+[Activate Cheat 1-Hit Dishonor]
 patch=1,EE,00587302,extended,00000001
 
-//Activate Cheat Unlimited Special Attacks
+[Activate Cheat Unlimited Special Attacks]
 patch=1,EE,00587304,extended,00000001
 
-//Unlock Bonus Appa Adventures
+[Unlock Bonus Appa Adventures]
 patch=1,EE,00587307,extended,00000001
 
-//Unlock Bonus Combat Arena
+[Unlock Bonus Combat Arena]
 patch=1,EE,0058730B,extended,00000001
 
-//Unlock Bonus Boss Battles
+[Unlock Bonus Boss Battles]
 patch=1,EE,0058730C,extended,00000001
 
-//Unlock Bonus Chapter Select
+[Unlock Bonus Chapter Select]
 patch=1,EE,00587314,extended,00000001
 
-//All Movies
+[All Movies]
 patch=1,EE,00587315,extended,00000001
 patch=1,EE,10587316,extended,00000101
 patch=1,EE,20587318,extended,01010101
 patch=1,EE,2058731C,extended,01010101
 patch=1,EE,00587320,extended,00000001
 
-//All Secrets
+[All Secrets]
 patch=1,EE,0058732F,extended,00000001
 patch=1,EE,40587330,extended,00080001
 patch=1,EE,01010101,extended,00000000

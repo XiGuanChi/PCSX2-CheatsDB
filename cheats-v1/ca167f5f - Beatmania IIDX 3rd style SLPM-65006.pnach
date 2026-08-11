@@ -1,21 +1,21 @@
-//Cheats/Max Gauge
+[Cheats/Max Gauge]
 patch=1,EE,109B67B0,extended,00001388
 
-//Cheats/Play mode 1P AUTO PLAY
+[Cheats/Play mode 1P AUTO PLAY]
 patch=1,EE,209B6AD0,extended,00000001
 
-//Cheats/Auto Play In Game Press L2 Autoplay Press R2 To End It
+[Cheats/Auto Play In Game Press L2 Autoplay Press R2 To End It]
 patch=1,EE,D09AB880,extended,00000001
 patch=1,EE,209B6AD0,extended,00000003
 patch=1,EE,D09AB880,extended,00000002
 patch=1,EE,209B6AD0,extended,00000000
 
-//Cheats/Unlock Expert Hidden Course
+[Cheats/Unlock Expert Hidden Course]
 patch=1,EE,209A64A8,extended,01000100
 patch=1,EE,209A64AC,extended,01000100
 patch=1,EE,209A64B0,extended,01000100
 patch=1,EE,209A64B4,extended,01000100
 patch=1,EE,109A64B8,extended,00000100
 
-//Cheats/Unlock Original Course Setting Appearance
+[Cheats/Unlock Original Course Setting Appearance]
 patch=1,EE,109A64BA,extended,00000100

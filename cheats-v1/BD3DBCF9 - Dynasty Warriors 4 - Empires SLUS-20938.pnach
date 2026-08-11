@@ -1,30 +1,30 @@
-//Cheats/Max Gold
+[Cheats/Max Gold]
 patch=1,EE,104D1CA8,extended,0000FFFF
 
-//Cheats/Infinite Health Player 1
+[Cheats/Infinite Health Player 1]
 patch=1,EE,105C053E,extended,00001900
 
-//Cheats/Max Health Player 1
+[Cheats/Max Health Player 1]
 patch=1,EE,105C053C,extended,00000190
 
-//Cheats/Infinite Health Player 2
+[Cheats/Infinite Health Player 2]
 patch=1,EE,105C077E,extended,00001900
 
-//Cheats/Max Health Player 2
+[Cheats/Max Health Player 2]
 patch=1,EE,105C077C,extended,00000190
 
-//Cheats/Infinite Arrows Both Players
+[Cheats/Infinite Arrows Both Players]
 patch=1,EE,201C149C,extended,00000000
 
-//Cheats/Unlock Access All Regions Items
+[Cheats/Unlock Access All Regions Items]
 patch=1,EE,403BC741,extended,5F966C28
 patch=1,EE,D1C139CA,extended,5C1C17A3
 
-//Cheats/Own All Regions And Instant Win
+[Cheats/Own All Regions And Instant Win]
 patch=1,EE,202F3BEC,extended,02001021
 patch=1,EE,202F3BF4,extended,A0700001
 
 
-//Cheats/Unlock All Artwork
+[Cheats/Unlock All Artwork]
 patch=1,EE,409815F0,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000

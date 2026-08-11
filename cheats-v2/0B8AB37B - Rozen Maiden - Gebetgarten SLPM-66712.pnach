@@ -1,9 +1,9 @@
 gametitle=Rozen Maiden - Gebetgarten SLPM-66712
-//Skip aerial fight L3 + R3
+[Skip aerial fight L3 + R3]
 patch=1,EE,D040A042,extended,0000FFF9
 patch=1,EE,0022DABC,extended,000000FF
 
-//Extra fully open
+[Extra fully open]
 patch=1,EE,2022BE28,extended,FFFFFFFF
 patch=1,EE,2022BE2C,extended,FFFFFFFF
 patch=1,EE,1022BE30,extended,0000FFFF

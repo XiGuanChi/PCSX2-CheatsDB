@@ -1,21 +1,21 @@
 gametitle=Sakura Taisen - Atsuki Chishio Ni SLPM-67003
-//Infinite & Max HP Sakura Shinguji
+[Infinite & Max HP Sakura Shinguji]
 patch=1,EE,21E8D9DE,extended,0000270F
 patch=1,EE,21E8D9DC,extended,0000270F
 
-//Infinite & Max HP Main Character (Ichiro Ogami)
+[Infinite & Max HP Main Character (Ichiro Ogami)]
 patch=1,EE,21E8D17E,extended,0000270F
 patch=1,EE,21E8D17C,extended,0000270F
 
-//Infinite & Max HP Sumire Kanzaki
+[Infinite & Max HP Sumire Kanzaki]
 patch=1,EE,21E8E23E,extended,0000270F
 patch=1,EE,21E8E23C,extended,0000270F
 
-//Infinite & Max HP Maria Tachibana
+[Infinite & Max HP Maria Tachibana]
 patch=1,EE,21E8EA9E,extended,0000270F
 patch=1,EE,21E8EA9C,extended,0000270F
 
-//Endurance maximum maintenance (always)
+[Endurance maximum maintenance (always)]
 patch=1,EE,200F4020,extended,12E00002
 patch=1,EE,200F4024,extended,869600CC
 patch=1,EE,200F4028,extended,A69600CE

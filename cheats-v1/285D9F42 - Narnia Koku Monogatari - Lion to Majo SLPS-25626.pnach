@@ -1,29 +1,29 @@
-//Cheats/Infinite Coins
+[Cheats/Infinite Coins]
 patch=1,EE,20637104,extended,0098967F
 
-//Cheats/Cheat Mode
+[Cheats/Cheat Mode]
 patch=1,EE,0066E048,extended,00000001
 
-//Cheats/Infinite Health and Ammo
+[Cheats/Infinite Health and Ammo]
 patch=1,EE,202716F0,extended,24440000
 patch=1,EE,202D815C,extended,C60008A0
 patch=1,EE,202D8168,extended,E60008A4
 
-//Cheats/Timer Disabled
+[Cheats/Timer Disabled]
 patch=1,EE,20668260,extended,4560 F000
 patch=1,EE,20668264,extended,4560 F000
 
-//Cheats/Unlock All Stages
+[Cheats/Unlock All Stages]
 patch=1,EE,40636CD8,extended,00140003
 patch=1,EE,00000002,extended,00000000
 
-//Cheats/Unlock All Technical List
+[Cheats/Unlock All Technical List]
 patch=1,EE,20636F00,extended,0FEFFFFF
 patch=1,EE,20636F04,extended,0FEFFFFF
 patch=1,EE,20636F08,extended,0FEFFFFF
 patch=1,EE,20636F0C,extended,0FEFFFFF
 
-//Cheats/Unlock All Bonus
+[Cheats/Unlock All Bonus]
 patch=1,EE,206397E0,extended,01010101
 patch=1,EE,206397E4,extended,01010101
 patch=1,EE,206397E8,extended,01010101

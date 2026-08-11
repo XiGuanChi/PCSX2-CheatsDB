@@ -1,14 +1,14 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20677F28,extended,05F5E0FF
 
-//Cheats/Max Skill Points
+[Cheats/Max Skill Points]
 patch=1,EE,20677F20,extended,05F5E0FF
 
-//Cheats/Max HP Maintenance It probably dies in case of damage exceeding the maximum HP
+[Cheats/Max HP Maintenance It probably dies in case of damage exceeding the maximum HP]
 patch=1,EE,202EA10C,extended,9462001C
 patch=1,EE,202EA110,extended,A4620008
 
-//Cheats/Ally HP Recovery Press R2 when HP is displayed You can recover your cursor while fighting
+[Cheats/Ally HP Recovery Press R2 when HP is displayed You can recover your cursor while fighting]
 patch=1,EE,200F7064,extended,3C020049
 patch=1,EE,200F7068,extended,944255C2
 patch=1,EE,200F706C,extended,30420200
@@ -19,11 +19,11 @@ patch=1,EE,200F707C,extended,03E00008
 patch=1,EE,200F7080,extended,A4620008
 patch=1,EE,202EA07C,extended,0C03DC19
 
-//Cheats/Enemy Status Weakened Only Enemies Have HP, Strength Ans Luck Set To 1
+[Cheats/Enemy Status Weakened Only Enemies Have HP, Strength Ans Luck Set To 1]
 patch=1,EE,202EC5D0,extended,00000000
 patch=1,EE,202EC5D8,extended,24020001
 
-//Cheats/Press L2 When Attacking Enemy Instant Death Continue to hold while holding down L2
+[Cheats/Press L2 When Attacking Enemy Instant Death Continue to hold while holding down L2]
 patch=1,EE,200F700C,extended,3C020049
 patch=1,EE,200F7010,extended,944255C2
 patch=1,EE,200F7014,extended,30420100

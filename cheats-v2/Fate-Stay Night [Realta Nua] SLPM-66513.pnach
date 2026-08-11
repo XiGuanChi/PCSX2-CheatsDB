@@ -1,10 +1,10 @@
 gametitle=Fate-Stay Night [Realta Nua] SLPM-66513
-//Alt. Unlock Extra Menu
+[Alt. Unlock Extra Menu]
 patch=1,EE,4050CAA0,extended,00A90001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,2050C900,extended,FFFFFFFF
 
-//Unlock Extra Menu 
+[Unlock Extra Menu]
 patch=1,EE,4050CAA0,extended,006C0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,4050CC5C,extended,003A0001

@@ -1,8 +1,8 @@
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,204E98EC,extended,7FFF7FFF
 
-//Cheats/Infinite Guard Player 1
+[Cheats/Infinite Guard Player 1]
 patch=1,EE,005E98F0,extended,0000000F
 
-//Cheats/Player 2 1 Hit Knock Out
+[Cheats/Player 2 1 Hit Knock Out]
 patch=1,EE,105E99F4,extended,00000001

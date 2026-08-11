@@ -1,4 +1,4 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200FFF00,extended,14150003
 patch=1,EE,200FFF0C,extended,A6610000
 patch=1,EE,200FFF08,extended,3401FFFF
@@ -6,33 +6,33 @@ patch=1,EE,200FFF18,extended,080E8593
 patch=1,EE,D03A164C,extended,46000D03
 patch=1,EE,203A1644,extended,0803FFC0
 
-//Cheats/Instant Win Enemy Has No Health
+[Cheats/Instant Win Enemy Has No Health]
 patch=1,EE,200FFF00,extended,10150003
 patch=1,EE,200FFF0C,extended,A6600000
 patch=1,EE,200FFF18,extended,080E8593
 patch=1,EE,D03A164C,extended,46000D03
 patch=1,EE,203A1644,extended,0803FFC0
 
-//Cheats/Infinite Health P1
+[Cheats/Infinite Health P1]
 patch=1,EE,2182610c,extended,000186a0
 
-//Cheats/Infinite Ki P1
+[Cheats/Infinite Ki P1]
 patch=1,EE,21826118,extended,000186a0
 
-//Cheats/Unlock All Dragon Balls
+[Cheats/Unlock All Dragon Balls]
 patch=1,EE,205641ec,extended,03e70003
 
-//Cheats/Unlock All 90 characters
+[Cheats/Unlock All 90 characters]
 patch=1,EE,405641f0,extended,005a0001
 patch=1,EE,03e703e7,extended,00000000
 
-//Cheats/Unlock All items
+[Cheats/Unlock All items]
 patch=1,EE,40563fa4,extended,00c30001
 patch=1,EE,03e70003,extended,00000000
 
-//Cheats/Unlock All Character Images
+[Cheats/Unlock All Character Images]
 patch=1,EE,205643dc,extended,00010003
 
-//Cheats/999 Victory Points All Characters
+[Cheats/999 Victory Points All Characters]
 patch=1,EE,40563700,extended,005a0001
 patch=1,EE,000003e7,extended,00000000

@@ -1,15 +1,15 @@
 gametitle=Downtown Run SLES-51482
-//invincibility
+[invincibility]
 patch=1,EE,2017bfd8,extended,00000000
 patch=1,EE,2017c978,extended,00000000
 patch=1,EE,2016598c,extended,00000000
 patch=1,EE,20165dac,extended,00000000
 
-//The good has infinite prestige
+[The good has infinite prestige]
 patch=1,EE,202d9394,extended,000F423F
 
-//Evil has infinite prestige
+[Evil has infinite prestige]
 patch=1,EE,202dc7b0,extended,000F423F
 
-//The ugly has infinite prestige
+[The ugly has infinite prestige]
 patch=1,EE,202dfbcc,extended,000F423F

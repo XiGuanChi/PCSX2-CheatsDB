@@ -1,53 +1,53 @@
-//Cheats/Invincible
+[Cheats/Invincible]
 patch=1,EE,00363FBC,extended,00000001
 
-//Cheats/Max Rage After 1 hit
+[Cheats/Max Rage After 1 hit]
 patch=1,EE,20209DB0,extended,00000000
 
-//Cheats/One Hit Kill
+[Cheats/One Hit Kill]
 patch=1,EE,203B05F4,extended,00000001
 
-//Cheats/One Hit Instant Rage
+[Cheats/One Hit Instant Rage]
 patch=1,EE,20209DB4,extended,E4418040
 
-//Cheats/Unlock All Doors
+[Cheats/Unlock All Doors]
 patch=1,EE,003642A0,extended,00000001
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,003B05F4,extended,00000001
 
-//Cheats/Bronze Dog Tag Challenge
+[Cheats/Bronze Dog Tag Challenge]
 patch=1,EE,003AFD93,extended,00000001
 
-//Cheats/Silver Dog Tag Challenge
+[Cheats/Silver Dog Tag Challenge]
 patch=1,EE,003AFD90,extended,00000001
 
-//Cheats/Gold Dog Tag Challenge
+[Cheats/Gold Dog Tag Challenge]
 patch=1,EE,003AFD91,extended,00000001
 
-//Cheats/Unlock Cheat Menu
+[Cheats/Unlock Cheat Menu]
 patch=1,EE,00364E64,extended,00000001
 
-//Cheats/Unlock All Costumes
+[Cheats/Unlock All Costumes]
 patch=1,EE,003AFDAC,extended,0000007F
 
-//Cheats/Unlock All Cerebro Files
+[Cheats/Unlock All Cerebro Files]
 patch=1,EE,103AFDB0,extended,0000FFFF
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,00362D28,extended,00000001
 patch=1,EE,20362D2C,extended,FFFFFFFF
 
-//Cheats/Unlock All Strikes Moves
+[Cheats/Unlock All Strikes Moves]
 patch=1,EE,003AF4E0,extended,00000003
 
-//Cheats/Unlock Level Select
+[Cheats/Unlock Level Select]
 patch=1,EE,20325388,extended,0000005E
 patch=1,EE,2032538C,extended,00256AC0
 patch=1,EE,20325390,extended,00000000
 
-//Cheats/Unlock All Production Artwork
+[Cheats/Unlock All Production Artwork]
 patch=1,EE,203652C8,extended,0000003E
 
-//Cheats/Unlock All Movies ALT
+[Cheats/Unlock All Movies ALT]
 patch=1,EE,20362D2C,extended,03FFFFFF

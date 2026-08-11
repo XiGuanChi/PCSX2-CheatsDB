@@ -1,77 +1,77 @@
-//Cheats/Infinite Gold
+[Cheats/Infinite Gold]
 patch=1,EE,203EA800,extended,05F5E0FF
 
-//Cheats/Max Bank Gold
+[Cheats/Max Bank Gold]
 patch=1,EE,203EB254,extended,05F5E0FF
 
-//Cheats/Max Coina
+[Cheats/Max Coina]
 patch=1,EE,203EFA10,extended,05F5E0FF
 
-//Cheats/Toherosu effect persistent
+[Cheats/Toherosu effect persistent]
 patch=1,EE,103F0644,extended,000000FF
 
-//Cheats/All Skill Level 100 After Skill Up
+[Cheats/All Skill Level 100 After Skill Up]
 patch=1,EE,2021570C,extended,00000000
 
-//Cheats/HP 999
+[Cheats/HP 999]
 patch=1,EE,203EA830,extended,000003E7
 patch=1,EE,203EA834,extended,000003E7
 
-//Cheats/MP 999
+[Cheats/MP 999]
 patch=1,EE,203EA838,extended,000003E7
 patch=1,EE,203EA83C,extended,000003E7
 
-//Cheats/Required Code In Battle
+[Cheats/Required Code In Battle]
 patch=1,EE,20212E68,extended,0C03FFCC
 patch=1,EE,200FFFE0,extended,080856F4
 
-//Cheats/In Battle HP & MP 999
+[Cheats/In Battle HP & MP 999]
 patch=1,EE,200FFF30,extended,240203E7
 patch=1,EE,200FFF34,extended,70421488
 patch=1,EE,200FFF38,extended,FC820000
 patch=1,EE,200FFF3C,extended,FC820008
 
-//Cheats/In Battle Max Tension Press SELECT 1st Character
+[Cheats/In Battle Max Tension Press SELECT 1st Character]
 patch=1,EE,D03B3590,extended,00000100
 patch=1,EE,10405A66,extended,0000270F
 
-//Cheats/In Battle Max Tension Press SELECT 2nd Character
+[Cheats/In Battle Max Tension Press SELECT 2nd Character]
 patch=1,EE,D03B3590,extended,00000100 
 patch=1,EE,10406016,extended,0000270F
 
-//Cheats/In Battle Max Tension Press SELECT 3rd Character
+[Cheats/In Battle Max Tension Press SELECT 3rd Character]
 patch=1,EE,D03B3590,extended,00000100
 patch=1,EE,104065C6,extended,0000270F 
 
-//Cheats/In Battle Max Tension Press SELECT 4th Character
+[Cheats/In Battle Max Tension Press SELECT 4th Character]
 patch=1,EE,D03B3590,extended,00000100 
 patch=1,EE,10406B76,extended,0000270F 
 
-//Cheats/Main Character HP 999
+[Cheats/Main Character HP 999]
 patch=1,EE,103EA830,extended,000003E7
 patch=1,EE,103EA834,extended,000003E7
 
-//Cheats/Main Character MP 999
+[Cheats/Main Character MP 999]
 patch=1,EE,103EA838,extended,000003E7
 patch=1,EE,103EA83C,extended,000003E7
 
-//Cheats/Yangus HP 999
+[Cheats/Yangus HP 999]
 patch=1,EE,103EA898,extended,000003E7
 patch=1,EE,103EA89C,extended,000003E7
 
-//Cheats/Yangus MP 999
+[Cheats/Yangus MP 999]
 patch=1,EE,103EA8A0,extended,000003E7
 patch=1,EE,103EA8A4,extended,000003E7
 
-//Cheats/Zeshika HP 999
+[Cheats/Zeshika HP 999]
 patch=1,EE,103EA900,extended,000003E7 
 patch=1,EE,103EA904,extended,000003E7 
 
-//Cheats/Zeshika MP 999
+[Cheats/Zeshika MP 999]
 patch=1,EE,103EA908,extended,000003E7 
 patch=1,EE,103EA90C,extended,000003E7
 
-//Cheats/Max Status After Level Up
+[Cheats/Max Status After Level Up]
 patch=1,EE,20212770,extended,14200001
 patch=1,EE,20212784,extended,14200001
 patch=1,EE,20212798,extended,14200001
@@ -80,22 +80,22 @@ patch=1,EE,202127C0,extended,14200001
 patch=1,EE,202127D4,extended,14200001
 patch=1,EE,202127E8,extended,14200001
 
-//Cheats/Unlock All Collection Item List
+[Cheats/Unlock All Collection Item List]
 patch=1,EE,403EB268,extended,00120001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All List Of Monsters To Defeat
+[Cheats/Unlock All List Of Monsters To Defeat]
 patch=1,EE,403EB560,extended,01270008
 patch=1,EE,000003E7,extended,00000000
 patch=1,EE,403EB568,extended,01270008
 patch=1,EE,00000063,extended,00000000
 
-//Cheats/Unlock All Alchemy Recipes
+[Cheats/Unlock All Alchemy Recipes]
 patch=1,EE,203EF83C,extended,03030300
 patch=1,EE,403EF840,extended,002E0001
 patch=1,EE,03030303,extended,00000000
 
-//Cheats/Unlock Ending Battle Record
+[Cheats/Unlock Ending Battle Record]
 patch=1,EE,203EF5B8,extended,3FFFFFFF
 patch=1,EE,203EF5C4,extended,00018695
 patch=1,EE,203EF5C0,extended,000F423F

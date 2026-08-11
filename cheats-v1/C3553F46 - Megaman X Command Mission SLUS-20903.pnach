@@ -1,56 +1,56 @@
-//Cheats/Infinite Life Energy
+[Cheats/Infinite Life Energy]
 patch=1,EE,2054FCEC,extended,0000270F
 patch=1,EE,2085CC38,extended,0000270F
 patch=1,EE,20AA2644,extended,0000270F
 
-//Cheats/Infinite Weapon Energy
+[Cheats/Infinite Weapon Energy]
 patch=1,EE,2054FCF8,extended,00000064
 
-//Cheats/Infinite Zenny
+[Cheats/Infinite Zenny]
 patch=1,EE,2054FCCC,extended,0000FFFF
 
-//Cheats/Infinite LE In Battle
+[Cheats/Infinite LE In Battle]
 patch=1,EE,201F4BC4,extended,8C610168
 patch=1,EE,201F4BC8,extended,AC610164
 
-//Cheats/Max Coins
+[Cheats/Max Coins]
 patch=1,EE,2054FCD8,extended,000003E7
 
-//Cheats/No Random Battles
+[Cheats/No Random Battles]
 patch=0,EE,2054F220,extended,00000000
 
-//Cheats/Sub Tank Full
+[Cheats/Sub Tank Full]
 patch=1,EE,105502D6,extended,000004B0
 
-//Cheats/One Hit Death Enemies
+[Cheats/One Hit Death Enemies]
 patch=1,EE,201F94BC,extended,AC600164
 
-//Cheats/Completed All Challenges
+[Cheats/Completed All Challenges]
 patch=1,EE,4054FA68,extended,00240001
 patch=1,EE,00000001,extended,00000000
 
-//Cheats/Unlock All Figures
+[Cheats/Unlock All Figures]
 patch=1,EE,4054FB2D,extended,00390001
 patch=1,EE,00010001,extended,00000000
 
-//Cheats/Unlock Have All Key Items & Ultimate Armor
+[Cheats/Unlock Have All Key Items & Ultimate Armor]
 patch=1,EE,7054F202,extended,0010F800
 patch=1,EE,7054F204,extended,0010C03D
 patch=1,EE,7054F206,extended,00107FFF
 
-//Cheats/Unlock All Music Discs
+[Cheats/Unlock All Music Discs]
 patch=1,EE,7054FC2A,extended,0010FFFC
 patch=1,EE,2054FC2C,extended,FFFFFFFF
 patch=1,EE,7054FC30,extended,0010001F
 
-//Cheats/Unlock All Sketches
+[Cheats/Unlock All Sketches]
 patch=1,EE,0054FC3D,extended,000000FF
 patch=1,EE,1054FC3E,extended,0000FFFF
 patch=1,EE,2054FC40,extended,FFFFFFFF
 patch=1,EE,2054FC44,extended,FFFFFFFF
 patch=1,EE,7054FC48,extended,00100FFF
 
-//Cheats/Enable Debug Menus At Boot These contain various test modes, such as a level select and sound test modes.
+[Cheats/Enable Debug Menus At Boot These contain various test modes, such as a level select and sound test modes.]
 patch=1,EE,2016ED18,extended,00000000 
 patch=1,EE,D06537C2,extended,0000FBFF
 patch=1,EE,2054F214,extended,00000001

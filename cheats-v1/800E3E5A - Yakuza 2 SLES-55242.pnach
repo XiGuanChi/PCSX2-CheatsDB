@@ -1,59 +1,59 @@
-//Cheats/Max Cash
+[Cheats/Max Cash]
 patch=1,EE,20165AC0,extended,000F423F
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201A72FC,extended,012C012C
 
-//Cheats/Infinite Max Health
+[Cheats/Infinite Max Health]
 patch=1,EE,101A3A44,extended,000003E7
 patch=1,EE,101A3A46,extended,000003E7
 
-//Cheats/Press Select for Max Cash
+[Cheats/Press Select for Max Cash]
 patch=1,EE,D1F6399C,extended,0000FFFE
 patch=1,EE,20165AC0,extended,000F423F
 
-//Cheats/Press Select for Max Medals
+[Cheats/Press Select for Max Medals]
 patch=1,EE,D1F6399C,extended,0000FFFE
 patch=1,EE,20165ACC,extended,05F5E0FF
 
-//Cheats/Max Health
+[Cheats/Max Health]
 patch=1,EE,1016604A,extended,000003E7
 
-//Cheats/Max Infinite Health
+[Cheats/Max Infinite Health]
 patch=1,EE,20166048,extended,03E703E7
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,2066CF28,extended,24020000
 
-//Cheats/Max Experience
+[Cheats/Max Experience]
 patch=1,EE,20166050,extended,0001869F
 
-//Cheats/Max Exp
+[Cheats/Max Exp]
 patch=1,EE,001A3A4C,extended,05F5E0FF
 
-//Cheats/Max Heat
+[Cheats/Max Heat]
 patch=1,EE,20631690,extended,00000000
 
-//Cheats/Max Infinite Heat
+[Cheats/Max Infinite Heat]
 patch=1,EE,001A3A7C,extended,2F800000
 
-//Cheats/Infinite Weapon Use
+[Cheats/Infinite Weapon Use]
 patch=1,EE,202B2FC0,extended,00000000
 
-//Cheats/Quick Max Soul
+[Cheats/Quick Max Soul]
 patch=1,EE,001A3A50,extended,003003E8
 patch=1,EE,001A3A50,extended,000184AC
 
-//Cheats/Quick Max Technique
+[Cheats/Quick Max Technique]
 patch=1,EE,001A3A54,extended,003003E8
 patch=1,EE,001A3A54,extended,000184AC
 
-//Cheats/Quick Max Body
+[Cheats/Quick Max Body]
 patch=1,EE,001A3A58,extended,003003E8
 patch=1,EE,001A3A58,extended,000184AC
 
-//Cheats/Have All Power Up Skills
+[Cheats/Have All Power Up Skills]
 patch=1,EE,001A3A5C,extended,FFFFFFFF
 
-//Cheats/Max Damage Dealt
+[Cheats/Max Damage Dealt]
 patch=1,EE,001A398E,extended,0000270F

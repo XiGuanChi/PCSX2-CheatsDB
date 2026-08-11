@@ -1,14 +1,14 @@
 gametitle=Harukanaru Toki no Naka de 2 SLPM-65092
-//Infinite HP Karin Takakura (100)
+[Infinite HP Karin Takakura (100)]
 patch=1,EE,21D79708,extended,00000064
 
-//Infinite HP Second Character (100)
+[Infinite HP Second Character (100)]
 patch=1,EE,21D7970C,extended,00000064
 
-//Infinite HP Third Character (100)
+[Infinite HP Third Character (100)]
 patch=1,EE,21D79710,extended,00000064
 
-//Bonus full throttle
+[Bonus full throttle]
 patch=1,EE,402AA8C4,extended,00100001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,202AA904,extended,FFFFFF01
@@ -22,28 +22,28 @@ patch=1,EE,402AA920,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,202AA930,extended,000057B2
 
-//Heart 1000 to believe in hospital side eight leaves
+[Heart 1000 to believe in hospital side eight leaves]
 patch=1,EE,402AA1E0,extended,00040006
 patch=1,EE,000003E8,extended,00000000
 
-//1000 Hearts Believing in the Emperor's Eight Leaves
+[1000 Hearts Believing in the Emperor's Eight Leaves]
 patch=1,EE,402AA1EC,extended,00040006
 patch=1,EE,000003E8,extended,00000000
 
-//Heart to believe in other characters 1000
+[Heart to believe in other characters 1000]
 patch=1,EE,102AA240,extended,000003E8
 patch=1,EE,102AA270,extended,000003E8
 patch=1,EE,102AA27C,extended,000003E8
 
-//Heart 1000
+[Heart 1000]
 patch=1,EE,402AA288,extended,0004001E
 patch=1,EE,000003E8,extended,00000000
 
-//1000 Hearts Thinking of Eight Leaves on the Emperor's Side
+[1000 Hearts Thinking of Eight Leaves on the Emperor's Side]
 patch=1,EE,402AA2C4,extended,0004001E
 patch=1,EE,000003E8,extended,00000000
 
-//Mutual trust 1000
+[Mutual trust 1000]
 patch=1,EE,402AA290,extended,00080001
 patch=1,EE,000003E8,extended,00000000
 patch=1,EE,402AA2CC,extended,00080001
@@ -61,19 +61,19 @@ patch=1,EE,000003E8,extended,00000000
 patch=1,EE,402AA434,extended,00080001
 patch=1,EE,000003E8,extended,00000000
 
-//all jutsu
+[all jutsu]
 patch=1,EE,402AA2B4,extended,0008000F
 patch=1,EE,00000003,extended,00000000
 
-//all notes
+[all notes]
 patch=1,EE,402AA2C0,extended,0008000F
 patch=1,EE,0000FF03,extended,00000000
 
-//Acquire both additional words for everyone's support
+[Acquire both additional words for everyone's support]
 patch=1,EE,402AA2B2,extended,0008000F
 patch=1,EE,00000002,extended,00000000
 
-//All four god equipment (1st)
+[All four god equipment (1st)]
 patch=1,EE,002AA1D0,extended,00000026
 patch=1,EE,002AA1D2,extended,00000026
 patch=1,EE,002AA1D4,extended,0000002B
@@ -83,7 +83,7 @@ patch=1,EE,002AA1DA,extended,00000030
 patch=1,EE,002AA1DC,extended,00000033
 patch=1,EE,002AA1DE,extended,00000033
 
-//100 compatibility with everyone
+[100 compatibility with everyone]
 patch=1,EE,402AA1E4,extended,00090003
 patch=1,EE,00000064,extended,00000000
 patch=1,EE,402AA28C,extended,0008000F

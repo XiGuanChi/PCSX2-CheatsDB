@@ -1,18 +1,18 @@
-//Cheats/Max Gold
+[Cheats/Max Gold]
 patch=1,EE,2057132C,extended,0001869F
 
-//Cheats/999 experience points
+[Cheats/999 experience points]
 patch=1,EE,1057129e,extended,000003e7
 patch=1,EE,205712a0,extended,03e703e7
 patch=1,EE,205712a4,extended,03e703e7
 
-//Cheats/My Life Number of Fans
+[Cheats/My Life Number of Fans]
 patch=1,EE,205673bc,extended,000f423f
 
-//Cheats/My Life Physical fitness
+[Cheats/My Life Physical fitness]
 patch=1,EE,0056739A,extended,000000FF
 
-//Cheats/CMC-1-scoring change Select+up to go first 99-last 0 Select+down to go first 0 last 99
+[Cheats/CMC-1-scoring change Select+up to go first 99-last 0 Select+down to go first 0 last 99]
 patch=1,EE,21F00100,extended,3C090051
 patch=1,EE,21F00104,extended,200B0063
 patch=1,EE,21F00108,extended,7700B578
@@ -26,7 +26,7 @@ patch=1,EE,21F00128,extended,14090005
 patch=1,EE,21F00130,extended,A140B1FF
 patch=1,EE,21F00134,extended,A14BB7AF
 
-//Cheats/CMC-2 - Change count during match L2+R2+select for 2 strikes, 0 balls, 2 outs0 strikes, 3 balls, 0 outs with L2+R2+start Count reset with L2+R2+L3+R3
+[Cheats/CMC-2 - Change count during match L2+R2+select for 2 strikes, 0 balls, 2 outs0 strikes, 3 balls, 0 outs with L2+R2+start Count reset with L2+R2+L3+R3]
 patch=1,EE,21F00150,extended,3C090051
 patch=1,EE,21F00154,extended,482A0000
 patch=1,EE,21F00158,extended,01495021

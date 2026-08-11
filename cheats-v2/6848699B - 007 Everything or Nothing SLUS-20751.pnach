@@ -1,22 +1,22 @@
 gametitle=007 Everything or Nothing SLUS-20751
-//Infinite Ammo Action Missions
+[Infinite Ammo Action Missions]
 patch=1,EE,D0240A24,extended,C780D07C
 patch=1,EE,20216CE8,extended,00000000
 
-//Infinite Health Action Missions
+[Infinite Health Action Missions]
 patch=1,EE,D0240A24,extended,C780D07C
 patch=1,EE,2026AE80,extended,00000000
 
-//Infinite Ammo Driving Mission
+[Infinite Ammo Driving Mission]
 patch=1,EE,D024B2E4,extended,261028C0
 patch=1,EE,202537D4,extended,10000005
 
-//Infinite Health Driving Mission
+[Infinite Health Driving Mission]
 patch=1,EE,D024B2E4,extended,261028C0
 patch=1,EE,2024B3D4,extended,24020001
 
-//Unlock All Cheats
+[Unlock All Cheats]
 patch=1,EE,2010085C,extended,1FFFFFFF
 
-//Unlock All Gadgets/Rewards
+[Unlock All Gadgets/Rewards]
 patch=1,EE,20100858,extended,FFFFFFFF

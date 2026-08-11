@@ -1,25 +1,25 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,202FE924,extended,8E250E58
 patch=1,EE,202FE930,extended,8E250E58
 patch=1,EE,202FE93C,extended,AE250E54
 
-//Cheats/Infinite Time Missions
+[Cheats/Infinite Time Missions]
 patch=1,EE,20301BA8,extended,00000000
 
-//Cheats/Quick Max Coins Gain
+[Cheats/Quick Max Coins Gain]
 patch=1,EE,10185792,extended,00001000
 
-//Cheats/Pause To Have All Cards
+[Cheats/Pause To Have All Cards]
 patch=1,EE,2019E088,extended,24010005
 patch=1,EE,2019E08C,extended,A041000A
 patch=1,EE,2019E090,extended,24020001
 
-//Cheats/Unlock Cards View Cards To Unlock Them
+[Cheats/Unlock Cards View Cards To Unlock Them]
 patch=1,EE,2019CDA0,extended,24010005
 patch=1,EE,2019CDA4,extended,A041000A
 patch=1,EE,2019CDA8,extended,24020000
 
-//Cheats/Unlock Upgrades View Upgrades To Unlock Them
+[Cheats/Unlock Upgrades View Upgrades To Unlock Them]
 patch=1,EE,2023270C,extended,24010005
 patch=1,EE,20232710,extended,A041000A
 patch=1,EE,10232716,extended,00001000

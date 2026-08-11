@@ -1,22 +1,22 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,2020763C,extended,000F423F
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201F4BD4,extended,43C80000
 patch=1,EE,201F4BD8,extended,43C80000
 
-//Cheats/Purchasing Department All items on sale
+[Cheats/Purchasing Department All items on sale]
 patch=1,EE,20207608,extended,FFFFFFFF
 patch=1,EE,2020760C,extended,??FFFFFFFF
 patch=1,EE,10207610,extended,0000FFFF
 
-//Cheats/Unlock Torimonocho All Acts can be selected
+[Cheats/Unlock Torimonocho All Acts can be selected]
 patch=1,EE,202075FC,extended,FFFFFFFF
 
-//Cheats/Achievement Rate 100%
+[Cheats/Achievement Rate 100%]
 patch=1,EE,20207604,extended,FFFFFFFF
 patch=1,EE,402076D0,extended,00190001
 patch=1,EE,3F800000,extended,00000000
 
-//Cheats/Double Speed Action
+[Cheats/Double Speed Action]
 patch=1,EE,201F4BFC,extended,40000000

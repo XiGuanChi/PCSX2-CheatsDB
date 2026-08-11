@@ -1,64 +1,64 @@
-//Cheats/Make The Answer To The Question Correct Even If It Is Incorrect Or If You Do Not Enter Anything
+[Cheats/Make The Answer To The Question Correct Even If It Is Incorrect Or If You Do Not Enter Anything]
 patch=1,EE,201F9044,extended,24020001
 
-//Cheats/Not Counting The Time Limit For The Answer
+[Cheats/Not Counting The Time Limit For The Answer]
 patch=1,EE,201F4308,extended,00000000
 
-//Cheats/Fixe The Time Limit For The Answe The choices may change depending on the remaining time so this may be bette
+[Cheats/Fixe The Time Limit For The Answe The choices may change depending on the remaining time so this may be bette]
 patch=1,EE,201F4308,extended,24020001
 
-//Cheats/Unlock All CG
+[Cheats/Unlock All CG]
 patch=1,EE,201B6834,extended,24010001
 patch=1,EE,201B6858,extended,A0410000
 patch=1,EE,201B685C,extended,24020001
 
-//Cheats/Unlock All Movies
+[Cheats/Unlock All Movies]
 patch=1,EE,2021F888,extended,24050001
 patch=1,EE,2021F898,extended,0C07185C
 
-//Cheats/Unlock All Bonus Can Be Selected In The Title Menu save not reflected
+[Cheats/Unlock All Bonus Can Be Selected In The Title Menu save not reflected]
 patch=1,EE,2021BC48,extended,24020001
 patch=1,EE,2021FA4C,extended,10000004
 
-//Cheats/Unlock All Q & A save not reflected
+[Cheats/Unlock All Q & A save not reflected]
 patch=1,EE,2021BD30,extended,24020001
 patch=1,EE,2021BD9C,extended,24020001
 
-//Cheats/Unlock All Reward save not reflected
+[Cheats/Unlock All Reward save not reflected]
 patch=1,EE,2021B090,extended,24020001
 
-//Cheats/Unlock All Ending List save not reflected
+[Cheats/Unlock All Ending List save not reflected]
 patch=1,EE,2023FA60,extended,24020001
 
-//Cheats/Unlock All Bonus Track save not reflected
+[Cheats/Unlock All Bonus Track save not reflected]
 patch=1,EE,20241ED0,extended,00000000
 
-//Cheats/Mandatory Code Required
+[Cheats/Mandatory Code Required]
 patch=1,EE,20193AC8,extended,0043C821
 patch=1,EE,20193ACC,extended,87220002
 
-//Cheats/Unlock All Bonus Can Be Selected In The Title Menu save not reflected
+[Cheats/Unlock All Bonus Can Be Selected In The Title Menu save not reflected]
 patch=1,EE,2021BC4C,extended,24180001
 patch=1,EE,2021BC60,extended,A4780000
 patch=1,EE,2021BC70,extended,A7230002
 patch=1,EE,2021FA44,extended,24020001
 patch=1,EE,2021FA48,extended,A7220002
 
-//Cheats/Unlock All Q & A save reflected
+[Cheats/Unlock All Q & A save reflected]
 patch=1,EE,2021BD34,extended,24180001
 patch=1,EE,2021BD44,extended,A0780000
 patch=1,EE,2021BD4C,extended,A7380002
 patch=1,EE,2021BDA4,extended,A2180000
 patch=1,EE,2021BDB0,extended,A7380002
 
-//Cheats/Unlock All Reward save reflected
+[Cheats/Unlock All Reward save reflected]
 patch=1,EE,2021B098,extended,24030001
 patch=1,EE,2021B09C,extended,A7230002
 
-//Cheats/Unlock All Ending List save reflected
+[Cheats/Unlock All Ending List save reflected]
 patch=1,EE,2023FA68,extended,24030001
 patch=1,EE,2023FA6C,extended,A7230002
 
-//Cheats/Unlock All Bonus Track save reflected
+[Cheats/Unlock All Bonus Track save reflected]
 patch=1,EE,20241EC8,extended,24030001
 patch=1,EE,20241ECC,extended,A7230002

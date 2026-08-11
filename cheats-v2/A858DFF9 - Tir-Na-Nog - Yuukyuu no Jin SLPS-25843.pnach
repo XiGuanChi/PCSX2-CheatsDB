@@ -1,15 +1,15 @@
 gametitle=Tir-Na-Nog - Yuukyuu no Jin SLPS-25843
-//Allowed any number of times sleep 
+[Allowed any number of times sleep]
 patch=1,EE,207AD164,extended,00000000
 
-//money 
+[money]
 patch=1,EE,D0496982,extended,0000FFFE
 patch=1,EE,207B69F8,extended,3B9AC9FF
 
-//No capitation of acquisition experience value
+[No capitation of acquisition experience value]
 patch=1,EE,201E4764,extended,0220982D
 
-//Allies HP-MP max
+[Allies HP-MP max]
 patch=1,EE,201DE0F4,extended,9447010E
 patch=1,EE,201DE0F8,extended,A4470112
 patch=1,EE,201DE0FC,extended,94470110

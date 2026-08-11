@@ -1,25 +1,25 @@
-//Cheats/Infinite Lives
+[Cheats/Infinite Lives]
 patch=1,EE,20171160,extended,24030064
 
-//Cheats/Infinite Mask
+[Cheats/Infinite Mask]
 patch=1,EE,201375E4,extended,24020086
 
-//Cheats/Max Apples
+[Cheats/Max Apples]
 patch=1,EE,201713AC,extended,24040064
 
-//Cheats/Infinite Aku Aku Press Select+L2=ON Select+R2=OFF
+[Cheats/Infinite Aku Aku Press Select+L2=ON Select+R2=OFF]
 patch=1,EE,20130894,extended,344200C0
 
-//Cheats/Invincibility Hold Select to disable
+[Cheats/Invincibility Hold Select to disable]
 patch=1,EE,201375E4,extended,24020006
 patch=1,EE,D0BBB6C2,extended,0000FFFE
 patch=1,EE,201375E4,extended,8E620014
 
-//Cheats/Unlock 100% Game
+[Cheats/Unlock 100% Game]
 patch=1,EE,0098EF77,extended,00000063
 patch=1,EE,4098EFA4,extended,00100001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-//Cheats/Unlock All Gems & Extras
+[Cheats/Unlock All Gems & Extras]
 patch=1,EE,4098EFA4,extended,00100001
 patch=1,EE,FFFFFFFF,extended,00000000

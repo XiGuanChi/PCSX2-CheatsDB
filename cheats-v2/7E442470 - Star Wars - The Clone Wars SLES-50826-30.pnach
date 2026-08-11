@@ -1,26 +1,26 @@
 gametitle=Star Wars - The Clone Wars SLES-50826-30
-//Invincibility
+[Invincibility]
 patch=1,EE,20339734,extended,00000001
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20155C2C,extended,00000000
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,202463A4,extended,C6610014
 patch=1,EE,202463B0,extended,E6610010
 
-//Unlimited Weapons Sec & Spec
+[Unlimited Weapons Sec & Spec]
 patch=1,EE,20339734,extended,00000001
 
-//All Missions
+[All Missions]
 patch=1,EE,403387EC,extended,00100003
 patch=1,EE,00000001,extended,00000000
 
-//All Multiplayer Levels Open
+[All Multiplayer Levels Open]
 patch=1,EE,20338AF8,extended,0000000F
 
-//The Rescue Begins (All 3 Bonuses Complete)
+[The Rescue Begins (All 3 Bonuses Complete)]
 patch=1,EE,20338980,extended,00030007
 
-//Save Slot 1 Codes Unlock All Bonus Materials
+[Save Slot 1 Codes Unlock All Bonus Materials]
 patch=1,EE,2A531196,extended,FFFFFFFF

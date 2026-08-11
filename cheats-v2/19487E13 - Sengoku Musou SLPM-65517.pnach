@@ -1,13 +1,13 @@
 gametitle=Sengoku Musou SLPM-65517
-//All characters appear
+[All characters appear]
 patch=1,EE,004F7850,extended,0000000F
 patch=1,EE,204F7854,extended,080A0305
 patch=1,EE,204F7858,extended,01020C0E
 patch=1,EE,204F785C,extended,0B090407
 
-//The arrangement is almost the same as the instruction manual
+[The arrangement is almost the same as the instruction manual]
 
-//All items & maximum ability
+[All items & maximum ability]
 patch=1,EE,004F7839,extended,000000FF
 patch=1,EE,104F783A,extended,0000FFFF
 patch=1,EE,004F783C,extended,0000003F
@@ -16,10 +16,10 @@ patch=1,EE,204F7764,extended,32323232
 patch=1,EE,204F7768,extended,32323232
 patch=1,EE,004F776C,extended,00000032
 
-//MAX with merit acquisition
+[MAX with merit acquisition]
 patch=1,EE,A019CD00,extended,0042082B
 
-//Maximum physical strength fixed
+[Maximum physical strength fixed]
 patch=1,EE,A017275C,extended,0803CD40
 patch=1,EE,A0172760,extended,84430270
 patch=1,EE,A00F3500,extended,00031900
@@ -27,7 +27,7 @@ patch=1,EE,A00F3504,extended,A4430272
 patch=1,EE,A00F3508,extended,2463000F
 patch=1,EE,A00F350C,extended,0805C9D9
 
-//Musou gauge maximum
+[Musou gauge maximum]
 patch=1,EE,20145044,extended,4A0002FF
 patch=1,EE,D0359148,extended,00000002
 patch=1,EE,20145044,extended,708118A8

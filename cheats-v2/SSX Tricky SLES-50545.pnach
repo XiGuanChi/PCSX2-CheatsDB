@@ -1,23 +1,23 @@
 gametitle=SSX Tricky SLES-50545
-//Infinite Time
+[Infinite Time]
 patch=1,EE,20A4E594,extended,42B33328
 
-//Don't Use In Race Mode
+[Don't Use In Race Mode]
 
-//Full Boost Bar-Race
+[Full Boost Bar-Race]
 patch=1,EE,20BEF628,extended,00000006
 patch=1,EE,20C89BA8,extended,00000006
 patch=1,EE,20DEE6A8,extended,00000006
 patch=1,EE,20B350A8,extended,00000006
 
-//Ludicrous Score-Race
+[Ludicrous Score-Race]
 patch=1,EE,20BEF690,extended,7FFFFFFF
 patch=1,EE,20C89C10,extended,7FFFFFFF
 patch=1,EE,20DEE710,extended,7FFFFFFF
 patch=1,EE,20B35110,extended,7FFFFFFF
 
-//All Characters Max Status
+[All Characters Max Status]
 patch=1,EE,203344AC,extended,00000001
 
-//Unlock Everything
+[Unlock Everything]
 patch=1,EE,203364A0,extended,00000001

@@ -1,4 +1,4 @@
-//Cheats/Debug menu after press L3 ON after press R3 OFF
+[Cheats/Debug menu after press L3 ON after press R3 OFF]
 patch=1,EE,D026E6C8,extended,0000FFFD
 patch=1,EE,1023D7A6,extended,00000004
 patch=1,EE,D026E6C8,extended,0000FFFB

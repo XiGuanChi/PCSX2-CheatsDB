@@ -1,15 +1,15 @@
-//Cheats/Unlock All Challenges Can Be Attempted Valid when entering the challenge
+[Cheats/Unlock All Challenges Can Be Attempted Valid when entering the challenge]
 patch=1,EE,203DE5EC,extended,A0400008
 patch=1,EE,203DE5F0,extended,10000009
 
-//Cheats/Unlock All Challenges Clear Marks Valid when entering the challenge. Prizes cannot be increased. The number of clears may be displayed strangely at first, but when you reenter the challenge, it will be corrected to 100-100
+[Cheats/Unlock All Challenges Clear Marks Valid when entering the challenge. Prizes cannot be increased. The number of clears may be displayed strangely at first, but when you reenter the challenge, it will be corrected to 100-100]
 patch=1,EE,203DE5EC,extended,A0400008
 patch=1,EE,203DE5F0,extended,10000009
 patch=1,EE,203DE618,extended,24010003
 patch=1,EE,203DE61C,extended,AC410064
 
 
-//Cheats/Unlock Get All Challenge Prizes Move the cursor on the challenge selection scene. Some items will not be displayed until you hover over them twice
+[Cheats/Unlock Get All Challenge Prizes Move the cursor on the challenge selection scene. Some items will not be displayed until you hover over them twice]
 patch=1,EE,2043B644,extended,A0A00008
 patch=1,EE,2043B648,extended,080F7FB6
 patch=1,EE,2043B64C,extended,8CA30018

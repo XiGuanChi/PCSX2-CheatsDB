@@ -1,27 +1,27 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,201FD260,extended,00006000
 patch=1,EE,201FD268,extended,00006000
 
-//Cheats/Max Points
+[Cheats/Max Points]
 patch=1,EE,204083FC,extended,000F423F
 
-//Cheats/99 Pieces When You Take The Japamala
+[Cheats/99 Pieces When You Take The Japamala]
 patch=1,EE,201A534C,extended,00000000
 
-//Cheats/Infinite Film
+[Cheats/Infinite Film]
 patch=1,EE,201FB448,extended,24050000
 
-//Cheats/Infinite Recovery Items
+[Cheats/Infinite Recovery Items]
 patch=1,EE,2019F898,extended,0000282D
 
-//Cheats/Activated Without Kagamiishi
+[Cheats/Activated Without Kagamiishi]
 patch=1,EE,201F9058,extended,03FD1025
 patch=1,EE,201F90C4,extended,00002825
 
-//Cheats/Max By Getting Consumable Items
+[Cheats/Max By Getting Consumable Items]
 patch=1,EE,2019F778,extended,00000000
 
-//Cheats/Camera Can Be Strengthened Without Points
+[Cheats/Camera Can Be Strengthened Without Points]
 patch=1,EE,201B89CC,extended,AD000AD4
 patch=1,EE,201B89F8,extended,AD000AE4
 patch=1,EE,201B8A24,extended,AD000AF4

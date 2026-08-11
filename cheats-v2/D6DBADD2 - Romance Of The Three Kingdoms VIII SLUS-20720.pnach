@@ -1,162 +1,162 @@
 gametitle=Romance Of The Three Kingdoms VIII SLUS-20720
-//Have All Item Collections
+[Have All Item Collections]
 patch=1,EE,21E52AC8,extended,FFFFFFFF
 patch=1,EE,21E52ACC,extended,FFFFFFFF
 patch=1,EE,21E52AD0,extended,FFFFFFFF
 
-//Have All Event Collections
+[Have All Event Collections]
 patch=1,EE,21E52AD4,extended,FFFFFFFF
 patch=1,EE,21E52AD8,extended,FFFFFFFF
 patch=1,EE,21E52ADC,extended,FFFFFFFF
 
 
-//== Create New Officer Codes ==
+[== Create New Officer Codes ==]
 
-//Max WAR
+[Max WAR]
 patch=1,EE,21E56940,extended,00000064
 patch=1,EE,21E56950,extended,00000064
 
-//Max INT
+[Max INT]
 patch=1,EE,21E56944,extended,00000064
 patch=1,EE,21E56954,extended,00000064
 
-//Max POL
+[Max POL]
 patch=1,EE,21E56948,extended,00000064
 patch=1,EE,21E56958,extended,00000064
 
-//Max CHA
+[Max CHA]
 patch=1,EE,21E5694C,extended,00000064
 patch=1,EE,21E5695C,extended,00000064
 
-//Max Bonus
+[Max Bonus]
 patch=1,EE,21E56960,extended,00000064
 patch=1,EE,21E56964,extended,00000064
 
 
-//== Have Skill Codes ==
+[== Have Skill Codes ==]
 
-//Fight
+[Fight]
 patch=1,EE,21E5697C,extended,00000001
 
-//Plan
+[Plan]
 patch=1,EE,21E56980,extended,00000001
 
-//Govern
+[Govern]
 patch=1,EE,21E56984,extended,00000001
 
-//Charm
+[Charm]
 patch=1,EE,21E56988,extended,00000001
 
-//Medicine
+[Medicine]
 patch=1,EE,21E5698C,extended,00000001
 
-//Weather
+[Weather]
 patch=1,EE,21E56990,extended,00000001
 
-//Plow
+[Plow]
 patch=1,EE,21E56994,extended,00000001
 
-//Trade
+[Trade]
 patch=1,EE,21E56998,extended,00000001
 
-//Build
+[Build]
 patch=1,EE,21E5699C,extended,00000001
 
-//Patrol
+[Patrol]
 patch=1,EE,21E569A0,extended,00000001
 
-//Invent
+[Invent]
 patch=1,EE,21E569A4,extended,00000001
 
-//Guard
+[Guard]
 patch=1,EE,21E569A8,extended,00000001
 
-//Persuade
+[Persuade]
 patch=1,EE,21E569AC,extended,00000001
 
-//Reverse
+[Reverse]
 patch=1,EE,21E569B0,extended,00000001
 
-//Taunt
+[Taunt]
 patch=1,EE,21E569B4,extended,00000001
 
-//Confuse
+[Confuse]
 patch=1,EE,21E569B8,extended,00000001
 
-//Rumor
+[Rumor]
 patch=1,EE,21E569BC,extended,00000001
 
-//Infantry
+[Infantry]
 patch=1,EE,21E569C0,extended,00000001
 
-//Cavalry
+[Cavalry]
 patch=1,EE,21E569C4,extended,00000001
 
-//Bowmen
+[Bowmen]
 patch=1,EE,21E569C8,extended,00000001
 
-//Navy
+[Navy]
 patch=1,EE,21E569CC,extended,00000001
 
-//Scout
+[Scout]
 patch=1,EE,21E569D0,extended,00000001
 
-//Hero
+[Hero]
 patch=1,EE,21E569D4,extended,00000001
 
-//Seer
+[Seer]
 patch=1,EE,21E569D8,extended,00000001
 
-//Genius
+[Genius]
 patch=1,EE,21E569DC,extended,00000001
 
-//Sage
+[Sage]
 patch=1,EE,21E569E0,extended,00000001
 
 
-//== Max Tactics Codes ==
+[== Max Tactics Codes ==]
 
-//Charge
+[Charge]
 patch=1,EE,21E569E4,extended,00000006
 
-//Berserk
+[Berserk]
 patch=1,EE,21E569E8,extended,00000006
 
-//Harass
+[Harass]
 patch=1,EE,21E569EC,extended,00000006
 
-//Ambush
+[Ambush]
 patch=1,EE,21E569F0,extended,00000006
 
-//Spearwall
+[Spearwall]
 patch=1,EE,21E569F4,extended,00000006
 
-//Trample
+[Trample]
 patch=1,EE,21E569F8,extended,00000006
 
-//Firearrow
+[Firearrow]
 patch=1,EE,21E569FC,extended,00000006
 
-//Volley
+[Volley]
 patch=1,EE,21E56A00,extended,00000006
 
-//Bombard
+[Bombard]
 patch=1,EE,21E56A04,extended,00000006
 
-//Arrowstorm
+[Arrowstorm]
 patch=1,EE,21E56A08,extended,00000006
 
-//Torrent
+[Torrent]
 patch=1,EE,21E56A0C,extended,00000006
 
-//Blaze
+[Blaze]
 patch=1,EE,21E56A10,extended,00000006
 
-//Rockslide
+[Rockslide]
 patch=1,EE,21E56A14,extended,00000006
 
-//Magic
+[Magic]
 patch=1,EE,21E56A18,extended,00000006
 
-//Siege
+[Siege]
 patch=1,EE,21E56A1C,extended,00000006

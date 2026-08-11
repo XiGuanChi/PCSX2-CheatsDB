@@ -1,17 +1,17 @@
 gametitle=Gambler Densetsu Tetsuya Digest SLPM-62499
-//Player has 99999 points
+[Player has 99999 points]
 patch=1,EE,203A5D44,extended,0001869F
 
-//Opponent 1 has 0 points
+[Opponent 1 has 0 points]
 patch=1,EE,203A5DBC,extended,00000000
 
-//Opponent 2 has 0 points
+[Opponent 2 has 0 points]
 patch=1,EE,203A5D94,extended,00000000
 
-//Opponent 3 has 0 points
+[Opponent 3 has 0 points]
 patch=1,EE,203A5D6C,extended,00000000
 
-//All techniques
+[All techniques]
 patch=1,EE,40264F28,extended,001A0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,40264FA8,extended,001A0001

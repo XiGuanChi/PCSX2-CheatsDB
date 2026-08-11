@@ -1,14 +1,14 @@
 gametitle=Lara Croft - Tomb Raider - Utsukushiki Toubousha SLPS-25246
-//Infinite Health
+[Infinite Health]
 patch=1,EE,20128148,extended,3C0342C8
 patch=1,EE,20128150,extended,AC430D54
 
-//Infinite Ammo
+[Infinite Ammo]
 patch=1,EE,20138334,extended,00000000
 
-//Infinite Air
+[Infinite Air]
 patch=1,EE,2042A5E8,extended,3F800000
 
-//Skip level If you press the pause button  the Skip Level will be displayed. You can select the display and skip Level with the circle button.
+[Skip level If you press the pause button  the Skip Level will be displayed. You can select the display and skip Level with the circle button.]
 patch=1,EE,001694B8,extended,00000001
 patch=1,EE,201694D0,extended,24060000

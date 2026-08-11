@@ -1,57 +1,57 @@
-//Cheats/Infinite Money
+[Cheats/Infinite Money]
 patch=1,EE,104E49CC,extended,0000FFFF
 patch=1,EE,104E49D0,extended,0000FFFF
 
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,204E49CC,extended,05F5E0FF
 patch=1,EE,204E49D0,extended,05F5E0FF
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,200C0220,extended,3C0142C8
 patch=1,EE,200C0224,extended,AC6104E4
 patch=1,EE,200C0228,extended,080C7F53
 patch=1,EE,200C022C,extended,C46004E4
 
-//Cheats/Infinite Armor
+[Cheats/Infinite Armor]
 patch=1,EE,200C0230,extended,3C0142C8
 patch=1,EE,200C0234,extended,AC4104E8
 patch=1,EE,200C0238,extended,080C7921
 patch=1,EE,200C023C,extended,C44004E8
 patch=1,EE,2031E480,extended,0803008C
 
-//Cheats/Infinite Air
+[Cheats/Infinite Air]
 patch=1,EE,201F315C,extended,00000000
 
-//Cheats/Infinite Run
+[Cheats/Infinite Run]
 patch=1,EE,204E4A78,extended,00000001
 
-//Cheats/Infinite Ammo All Weapons
+[Cheats/Infinite Ammo All Weapons]
 patch=1,EE,202C1890,extended,00000000
 patch=1,EE,202C18F4,extended,00000000
 
-//Cheats/Max Infinite Ammo All Weapons
+[Cheats/Max Infinite Ammo All Weapons]
 patch=1,EE,202C188C,extended,24020063
 patch=1,EE,202C18F0,extended,24020063
 
-//Cheats/Infinite Stamina Water
+[Cheats/Infinite Stamina Water]
 patch=1,EE,201F3148,extended,00000000
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,20396340,extended,03E00008
 patch=1,EE,20396344,extended,00000000
 
-//Cheats/Only Your Car Takes No Damage To Collisions
+[Cheats/Only Your Car Takes No Damage To Collisions]
 patch=1,EE,20137054,extended,00000000
 patch=1,EE,20137060,extended,00000000
 
-//Cheats/Only Your Car Is Immune To Weapons
+[Cheats/Only Your Car Is Immune To Weapons]
 patch=1,EE,203E8148,extended,00000000
 patch=1,EE,203E8154,extended,00000000
 
-//Cheats/Only Your Motorcycle Takes No Damage To Collisions
+[Cheats/Only Your Motorcycle Takes No Damage To Collisions]
 patch=1,EE,203364A0,extended,100201FB
 
-//Cheats/Can Not Be Arrested
+[Cheats/Can Not Be Arrested]
 patch=1,EE,20327478,extended,03E00008
 patch=1,EE,2032747C,extended,00000000
 patch=1,EE,20327740,extended,03E00008

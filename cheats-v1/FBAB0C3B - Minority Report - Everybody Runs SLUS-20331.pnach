@@ -1,4 +1,4 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,200C0220,extended,54400001
 patch=1,EE,200C0224,extended,AC530010
 patch=1,EE,200C0228,extended,03E00008
@@ -6,24 +6,24 @@ patch=1,EE,200C022C,extended,00000000
 patch=1,EE,2042FC5C,extended,0C030088
 patch=1,EE,2042FC60,extended,2413270F
 
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2042F3AC,extended,3C0142C8
 patch=1,EE,2042F3CC,extended,AE010170
 
-//Cheats/Unlock All Levels & Movies
+[Cheats/Unlock All Levels & Movies]
 patch=1,EE,209785A4,extended,FFFFFFFF
 patch=1,EE,209785A8,extended,FFFFFFFF
 
-//Cheats/Unlock Pain Arenas
+[Cheats/Unlock Pain Arenas]
 patch=1,EE,209785AC,extended,FFFFFFFF
 
-//Cheats/Unlock All Concept Art
+[Cheats/Unlock All Concept Art]
 patch=1,EE,209785B4,extended,FFFFFFFF
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,20978A2C,extended,0000FEC0
 
-//Cheats/Enable Debug Menu
+[Cheats/Enable Debug Menu]
 patch=1,EE,D05A4142,extended,0000FFF6
 patch=1,EE,201F68C4,extended,24100006
 patch=1,EE,D05A4142,extended,0000FFFF

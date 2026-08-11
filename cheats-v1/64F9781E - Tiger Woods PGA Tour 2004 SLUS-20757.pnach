@@ -1,27 +1,27 @@
-//Cheats/Max Cash
+[Cheats/Max Cash]
 patch=1,EE,205B7F2C,extended,05F5E0FF
 
-//Cheats/All Holes Always Hole In One P1
+[Cheats/All Holes Always Hole In One P1]
 patch=1,EE,40327144,extended,00120001
 patch=1,EE,00000000,extended,00000000
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,20212130,extended,24010001
 patch=1,EE,20212134,extended,A061001C
 
-//Cheats/Unlock All Normal Courses
+[Cheats/Unlock All Normal Courses]
 patch=1,EE,202121F0,extended,24010001
 patch=1,EE,202121F4,extended,A061003A
 patch=1,EE,20212200,extended,A1010000
 
-//Cheats/Unlock All Tiger's Dream Courses
+[Cheats/Unlock All Tiger's Dream Courses]
 patch=1,EE,20214A04,extended,24010001
 patch=1,EE,20214A08,extended,A0610051
 
-//Cheats/All Attributes Are Free Edit Golfer
+[Cheats/All Attributes Are Free Edit Golfer]
 patch=1,EE,20212314,extended,ACA00000
 
-//Cheats/Unlock All Animations, Equipment, Apparel & Accessories
+[Cheats/Unlock All Animations, Equipment, Apparel & Accessories]
 patch=1,EE,202904F4,extended,2402FFFF
 patch=1,EE,202904F8,extended,AC22B28C
 

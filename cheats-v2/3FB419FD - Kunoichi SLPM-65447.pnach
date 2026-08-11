@@ -1,5 +1,5 @@
 gametitle=Kunoichi SLPM-65447
-//All characters and costumes available
+[All characters and costumes available]
 patch=1,EE,202A4B10,extended,14400001
 patch=1,EE,202A4B28,extended,14400001
 patch=1,EE,202A4B40,extended,14400001
@@ -7,14 +7,14 @@ patch=1,EE,202A4B58,extended,14400001
 patch=1,EE,202A4B70,extended,14400001
 patch=1,EE,202A4B88,extended,14400001
 
-//Difficulty HARD & all stages can be selected
+[Difficulty HARD & all stages can be selected]
 patch=1,EE,201DE188,extended,2402000D
 
-//Full Movie Watch possible
+[Full Movie Watch possible]
 patch=1,EE,202A7858,extended,24020001
 
-//invincible
+[invincible]
 patch=1,EE,201C1B88,extended,00401023
 
-//Enemy blow death
+[Enemy blow death]
 patch=1,EE,201D21AC,extended,04410001

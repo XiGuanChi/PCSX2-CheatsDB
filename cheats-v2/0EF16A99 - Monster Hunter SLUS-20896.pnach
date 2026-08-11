@@ -1,15 +1,15 @@
 gametitle=Monster Hunter SLUS-20896
-//Performance patch
-//patch=1,EE,0015B698,word,24050000
+[Performance patch]
+[patch=1,EE,0015B698,word,24050000]
 
-//Max Money
+[Max Money]
 patch=1,EE,203E99E0,extended,05F5E0FF
 
-//Infinite Health
+[Infinite Health]
 patch=1,EE,10407A22,extended,00000096
 
-//Infinite Stamina
+[Infinite Stamina]
 patch=1,EE,10407E68,extended,0000270F
 
-//Infinite Quest Time
+[Infinite Quest Time]
 patch=1,EE,203EA0C0,extended,0001A5DF

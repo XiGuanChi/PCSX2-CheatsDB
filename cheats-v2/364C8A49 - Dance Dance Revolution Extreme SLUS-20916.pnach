@@ -1,22 +1,22 @@
 gametitle=Dance Dance Revolution Extreme SLUS-20916
-//Super Score
+[Super Score]
 patch=1,EE,2058E810,extended,3B9AC9FF
 
-//Max Gauge
+[Max Gauge]
 patch=1,EE,1058E6FA,extended,00000400
 
-//999 Perfect
+[999 Perfect]
 patch=1,EE,2058E7B4,extended,000003E7
 
-//Unlock All Songs (Except Memories)
+[Unlock All Songs (Except Memories)]
 patch=1,EE,202B0518,extended,FFFFFFFF
 
-//Unlock Memories Song
+[Unlock Memories Song]
 patch=1,EE,702B0520,extended,00000004
 
-//Unlock Extra Options/Endless Mode
+[Unlock Extra Options/Endless Mode]
 patch=1,EE,202B051C,extended,FFFFFFFF
 
-//All Lessons-All Sections Completed
+[All Lessons-All Sections Completed]
 patch=1,EE,402AF160,extended,00060001
 patch=1,EE,02020202,extended,00000000

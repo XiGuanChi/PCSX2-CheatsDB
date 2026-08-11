@@ -1,15 +1,15 @@
 gametitle=Radiata Stories SLPM-65800
-//HP Maxt
+[HP Maxt]
 patch=1,EE,202AE2B8,extended,0011082A
 
-//Attack Max
+[Attack Max]
 patch=1,EE,202AE394,extended,00E70826
 
-//Defense Max
+[Defense Max]
 patch=1,EE,202AE3CC,extended,00E70826
 
-//EXP maximum after combat
+[EXP maximum after combat]
 patch=1,EE,202AE4BC,extended,10000001
 
-//After combat level 99
+[After combat level 99]
 patch=1,EE,202AE4A4,extended,10000001

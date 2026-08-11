@@ -1,13 +1,13 @@
-//Cheats/Unlock All Cheats
+[Cheats/Unlock All Cheats]
 patch=1,EE,20614EDC,extended,FFFFFFFF
 
-//Cheats/1 Hit Kill
+[Cheats/1 Hit Kill]
 patch=1,EE,2047D6A4,extended,AC8008FC
 
-//Cheats/Infinite Armour and Health Ball Mode
+[Cheats/Infinite Armour and Health Ball Mode]
 patch=1,EE,2019BBD8,extended,00000000
 
-//Cheats/Infinite Health if you get stuck, P1 Hold Select to retry from last checkpoint
+[Cheats/Infinite Health if you get stuck, P1 Hold Select to retry from last checkpoint]
 patch=1,EE,E002FFFF,extended,00705642
 patch=1,EE,202B29C0,extended,C4810900
 patch=1,EE,202B29C8,extended,E48108FC
@@ -15,15 +15,15 @@ patch=1,EE,E002FFFE,extended,00705642
 patch=1,EE,202B29C0,extended,C48108FC
 patch=1,EE,202B29C8,extended,AC8008FC
 
-//Cheats/Max Style
+[Cheats/Max Style]
 patch=1,EE,200C0220,extended,3C01447A
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AC812B0C
 patch=1,EE,202B6090,extended,08030088
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,202FC690,extended,00000000
 
-//Cheats/Unlock All Capsules
+[Cheats/Unlock All Capsules]
 patch=1,EE,20276348,extended,24040001
 patch=1,EE,2027634C,extended,AC640084

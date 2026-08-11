@@ -1,58 +1,58 @@
-//Cheats/Max Money
+[Cheats/Max Money]
 patch=1,EE,20720874,extended,05F5E0FF
 
-//Cheats/Normal Attack Damage 9999
+[Cheats/Normal Attack Damage 9999]
 patch=1,EE,202D8550,extended,00000000
 
-//Cheats/Pinon Max Experience After Combat
+[Cheats/Pinon Max Experience After Combat]
 patch=1,EE,107208E4,extended,0064FFFF
 
-//Cheats/Luna Max Experience After Combat
+[Cheats/Luna Max Experience After Combat]
 patch=1,EE,10720934,extended,0064FFFF
 
-//Cheats/Marco Max Experience After Combat
+[Cheats/Marco Max Experience After Combat]
 patch=1,EE,10720984,extended,0064FFFF
 
-//Cheats/Pinon SP 99
+[Cheats/Pinon SP 99]
 patch=1,EE,007208F8,extended,00000063
 
-//Cheats/Luna SP 99
+[Cheats/Luna SP 99]
 patch=1,EE,00720948,extended,00000063
 
-//Cheats/Marco SP 99
+[Cheats/Marco SP 99]
 patch=1,EE,00720998,extended,00000063
 
-//Cheats/Pinon Max Stats
+[Cheats/Pinon Max Stats]
 patch=1,EE,107208DA,extended,000003E7
 patch=1,EE,107208DC,extended,000003E7
 patch=1,EE,107208DE,extended,000003E7
 patch=1,EE,107208E0,extended,000003E7
 patch=1,EE,107208E2,extended,000003E7
 
-//Cheats/Luna Max Stats
+[Cheats/Luna Max Stats]
 patch=1,EE,1072092A,extended,000003E7
 patch=1,EE,1072092C,extended,000003E7
 patch=1,EE,1072092E,extended,000003E7
 patch=1,EE,10720930,extended,000003E7
 patch=1,EE,10720932,extended,000003E7
 
-//Cheats/Marco Max Stats
+[Cheats/Marco Max Stats]
 patch=1,EE,1072097A,extended,000003E7
 patch=1,EE,1072097C,extended,000003E7
 patch=1,EE,1072097E,extended,000003E7
 patch=1,EE,10720980,extended,000003E7
 patch=1,EE,10720982,extended,000003E7
 
-//Cheats/No Random Battles
+[Cheats/No Random Battles]
 patch=1,EE,201FD0EC,extended,00000000
 
-//Cheats/No Random Battles Select+left No Encounter Select+righ Normal
+[Cheats/No Random Battles Select+left No Encounter Select+righ Normal]
 patch=1,EE,D04A5802,extended,0000FF7E
 patch=1,EE,101FD0FA,extended,00001000
 patch=1,EE,D04A5802,extended,0000FFDE
 patch=1,EE,101FD0FA,extended,00001200
 
-//Cheats/Press L3 For Debug Menu in-game opens a debug menu. This allows turning battle encounters on or off, leveling up party members, obtaining all items, and testing sounds. Use controller 2 to operate the menu
+[Cheats/Press L3 For Debug Menu in-game opens a debug menu. This allows turning battle encounters on or off, leveling up party members, obtaining all items, and testing sounds. Use controller 2 to operate the menu]
 patch=1,EE,2030EDFC,extended,0C04A93C
 patch=1,EE,2030EE00,extended,00000000
 patch=1,EE,2012A4F0,extended,3C01004A
@@ -68,6 +68,6 @@ patch=1,EE,2012A514,extended,AC620060
 patch=1,EE,2012A518,extended,03E00008
 patch=1,EE,2012A51C,extended,8C640060
 
-//Cheats/Enable Debug Level Select After New Game
+[Cheats/Enable Debug Level Select After New Game]
 patch=1,EE,2056EED8,extended,00000001
 

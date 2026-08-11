@@ -1,5 +1,5 @@
 gametitle=Ape Escape - Pumped & Primed SLUS-21096
-//Coins & Health Activation Code ==
+[Coins & Health Activation Code ==]
 patch=1,EE,200C0220,extended,24020001
 patch=1,EE,200C0224,extended,14520004
 patch=1,EE,200C0238,extended,24020002
@@ -12,10 +12,10 @@ patch=1,EE,200C0280,extended,080749E4
 patch=1,EE,200C0284,extended,00000000
 patch=1,EE,201EDB54,extended,0C030088
 
-//Max Coins Player 1
+[Max Coins Player 1]
 patch=1,EE,200C0228,extended,240103E7
 patch=1,EE,200C022C,extended,ACA10114
 
-//Infinite Health Player 1
+[Infinite Health Player 1]
 patch=1,EE,200C0230,extended,24010064
 patch=1,EE,200C0234,extended,ACA10290

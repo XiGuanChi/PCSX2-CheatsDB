@@ -1,14 +1,14 @@
 gametitle=Ford vs. Chevy SLUS-21276
-//Always Low Race Timer 
+[Always Low Race Timer]
 patch=1,EE,202D79BC,extended,44800000
 
-//Infinite Available Points
+[Infinite Available Points]
 patch=1,EE,105F88B4,extended,0000FFFF
 
-//Infinite Boost
+[Infinite Boost]
 patch=1,EE,20179458,extended,00000000
 
-//Max Race Points
+[Max Race Points]
 patch=1,EE,200C0220,extended,3C050001
 patch=1,EE,200C0224,extended,34A5869F
 patch=1,EE,200C0228,extended,08064EB6

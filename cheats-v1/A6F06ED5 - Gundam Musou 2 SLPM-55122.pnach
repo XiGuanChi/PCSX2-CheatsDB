@@ -1,7 +1,7 @@
-//Cheats/Infinite Thruster Gauge
+[Cheats/Infinite Thruster Gauge]
 patch=1,EE,001665BC,extended,0000002A
 
-//Cheats/Max Armor Maintenance
+[Cheats/Max Armor Maintenance]
 patch=1,EE,200FF800,extended,3C05003D
 patch=1,EE,200FF804,extended,94A58F82
 patch=1,EE,200FF8F8,extended,0878D3A1
@@ -10,7 +10,7 @@ patch=1,EE,20234E80,extended,0813FE00
 patch=1,EE,200FF810,extended,96030026
 patch=1,EE,200FF818,extended,A60300A6
 
-//Cheats/Max SP Maintenance
+[Cheats/Max SP Maintenance]
 patch=1,EE,200FF800,extended,3C05003D
 patch=1,EE,200FF804,extended,94A5AF82
 patch=1,EE,200FF8F8,extended,0808D3A1

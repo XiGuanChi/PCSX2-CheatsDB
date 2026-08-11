@@ -1,19 +1,19 @@
 gametitle=Charlie's Angels SLES-51750
-//Infinite Health
+[Infinite Health]
 patch=1,EE,201674B0,extended,00000000
 
-//Infinite Lives
+[Infinite Lives]
 patch=1,EE,10208748,extended,00000063
 patch=1,EE,1020874C,extended,00000063
 
-//Infinite Angel Enhanced Time
+[Infinite Angel Enhanced Time]
 patch=1,EE,1020873A,extended,00002000
 
-//Unlock All Movie Videos
+[Unlock All Movie Videos]
 patch=1,EE,20179CDC,extended,2407007F
 
-//Unlock All Game Videos
+[Unlock All Game Videos]
 patch=1,EE,2017A040,extended,2413007F
 
-//Unlock All Photos
+[Unlock All Photos]
 patch=1,EE,2017A66C,extended,2414007

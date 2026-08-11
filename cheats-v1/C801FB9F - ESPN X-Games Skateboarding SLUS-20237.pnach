@@ -1,26 +1,26 @@
-//Cheats/Easy Crash Targets
+[Cheats/Easy Crash Targets]
 patch=1,EE,D1C712BE,extended,00000001
 patch=1,EE,11C712BE,extended,00000005
 
-//Cheats/Easy Checkpoints
+[Cheats/Easy Checkpoints]
 patch=1,EE,D1C712C0,extended,00000001
 patch=1,EE,11C712C0,extended,00000006
 
-//Cheats/Max Special
+[Cheats/Max Special]
 patch=1,EE,11C7141C,extended,0000012C
 
-//Cheats/Max Score
+[Cheats/Max Score]
 patch=1,EE,11C712C4,extended,0000FFFF
 
-//Cheats/Max Combo
+[Cheats/Max Combo]
 patch=1,EE,D1C712D0,extended,00200003
 patch=1,EE,01C712D0,extended,00000063
 
-//Cheats/Have All Boards
+[Cheats/Have All Boards]
 patch=1,EE,108B6D30,extended,00000101
 patch=1,EE,408B6D10,extended,00080001
 patch=1,EE,01010101,extended,00000000
 
-//Cheats/Practice Mode = Debug Menu replace practice mode with debug menu. These options lead to model viewers, special stage select options and allow you to quickly choose game modes
+[Cheats/Practice Mode = Debug Menu replace practice mode with debug menu. These options lead to model viewers, special stage select options and allow you to quickly choose game modes]
 patch=1,EE,D1EA3DDC,extended,00000011
 patch=1,EE,01EA3DDC,extended,00000019

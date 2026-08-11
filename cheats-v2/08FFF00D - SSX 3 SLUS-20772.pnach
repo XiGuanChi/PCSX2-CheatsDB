@@ -1,53 +1,53 @@
 gametitle=SSX 3 SLUS-20772
-//Max Money
+[Max Money]
 patch=1,EE,204B0334,extended,05F5E0FF
 
-//Infinite Boost
+[Infinite Boost]
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,AE0102F8
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C60302F8
 patch=1,EE,201202F4,extended,0C030088
 
-//Quick Score Gain
+[Quick Score Gain]
 patch=1,EE,20117750,extended,2442270F
 patch=1,EE,2011A45C,extended,2484270F
 
-//Infinite Time
+[Infinite Time]
 patch=1,EE,20113DD0,extended,00000000
 
-//Buying Attributes Doesnt Decrease Money
+[Buying Attributes Doesnt Decrease Money]
 patch=1,EE,20150E04,extended,00000000
 
-//Buying Gear/Rewards Doesnt Decrease Money
+[Buying Gear/Rewards Doesnt Decrease Money]
 patch=1,EE,20150B7C,extended,00000000
 
-//Have All Career Highlights
+[Have All Career Highlights]
 patch=1,EE,204B0428,extended,03030303
 patch=1,EE,204B042C,extended,03030303
 
-//Unlock All Trading Cards
+[Unlock All Trading Cards]
 patch=1,EE,104B07A6,extended,0000FFFF
 patch=1,EE,204B07A8,extended,FFFFFFFF
 patch=1,EE,204B07AC,extended,FFFFFFFF
 patch=1,EE,204B07B0,extended,FFFFFFFF
 patch=1,EE,004B07B4,extended,000000FF
 
-//Unlock All
+[Unlock All]
 patch=1,EE,004B07B5,extended,000000FF
 patch=1,EE,104B07B6,extended,0000FFFF
 patch=1,EE,204B07B8,extended,FFFFFFFF
 patch=1,EE,204B07BC,extended,FFFFFFFF
 patch=1,EE,104B07C0,extended,0000FFFF
 
-//Unlock All Videos
+[Unlock All Videos]
 patch=1,EE,004B07C2,extended,000000FF
 
-//Unlock All Toys
+[Unlock All Toys]
 patch=1,EE,004B07C3,extended,000000FF
 patch=1,EE,104B07C4,extended,0000FFFF
 patch=1,EE,004B07C6,extended,000000FF
 
-//Unlock All Cheat Characters
+[Unlock All Cheat Characters]
 patch=1,EE,004B07C7,extended,000000FF
 patch=1,EE,104B07C8,extended,0000FFFF

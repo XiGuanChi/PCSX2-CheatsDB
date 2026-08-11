@@ -1,8 +1,8 @@
 gametitle=Star Wars - Starfighter SLUS-20044
-//Infinite Health
+[Infinite Health]
 patch=1,EE,203519FC,extended,3C014248
 patch=1,EE,20351A0C,extended,AC61001C
 
-//Infinite Shield
+[Infinite Shield]
 patch=1,EE,20351A38,extended,3C014248
 patch=1,EE,20351A48,extended,AC610014

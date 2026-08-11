@@ -1,16 +1,16 @@
 gametitle=The Godfather - Collector's Edition NTSC-U SLUS-21406 D850707E
 
-//60 FPS
+[60 FPS]
 author=GamingDragon93
 description=Might need EE Overclock (130%).
 patch=1,EE,005C5D28,word,42EFC28F //426FC28F
 
-//480p Mode
+[480p Mode]
 author=GamingDragon93
 description=SDTV 480p mode at start.
 patch=0,EE,00301CB8,word,24020050
 
-//Disable Additional Filter
+[Disable Additional Filter]
 author=GamingDragon93
 description=Disable additional opaque filter.
 patch=1,EE,005C5D2C,byte,00

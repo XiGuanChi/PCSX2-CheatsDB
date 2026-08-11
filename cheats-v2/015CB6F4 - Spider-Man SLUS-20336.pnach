@@ -1,12 +1,12 @@
 gametitle=Spider-Man SLUS-20336
-//Infinite Health
+[Infinite Health]
 patch=1,EE,2050A498,extended,00000001
 
-//Have Costumes (Secret Store)
+[Have Costumes (Secret Store)]
 patch=1,EE,2194B45C,extended,00000019
 
-//Enable Next Level Option
+[Enable Next Level Option]
 patch=1,EE,2194B7B4,extended,00000001
 
-//Gimme All Levels
+[Gimme All Levels]
 patch=1,EE,2194B7B8,extended,00000001

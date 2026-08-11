@@ -1,7 +1,7 @@
 gametitle=Choro Q SLES-53140
-//Have All Parts
+[Have All Parts]
 patch=1,EE,402683E0,extended,00660001
 patch=1,EE,01010101,extended,00000000
 
-//Max Cash
+[Max Cash]
 patch=1,EE,202683DC,extended,05F5E0FF

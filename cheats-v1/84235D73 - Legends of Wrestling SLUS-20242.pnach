@@ -1,11 +1,11 @@
-//Cheats/Infinite Attribute Points
+[Cheats/Infinite Attribute Points]
 patch=1,EE,2032BBE4,extended,2402001E
 patch=1,EE,2032BE80,extended,2402001E
 patch=1,EE,2032C0C8,extended,2407001E
 
-//Cheats/Infinite Ability Points
+[Cheats/Infinite Ability Points]
 patch=1,EE,2031F9D8,extended,2402001E
 patch=1,EE,2031FBB4,extended,2407001E
 
-//Cheats/Unlock All Characters
+[Cheats/Unlock All Characters]
 patch=1,EE,2074F834,extended,FFFFFFFF

@@ -1,58 +1,58 @@
-//Cheats/Max Score
+[Cheats/Max Score]
 patch=1,EE,21CC9D84,extended,7FFFFFFF
 
-//Cheats/Infinite Time
+[Cheats/Infinite Time]
 patch=1,EE,11601DCC,extended,000000B5
 
-//Cheats/Full Special Bar
+[Cheats/Full Special Bar]
 patch=1,EE,11CC9EDC,extended,0000012C
 
-//Cheats/Always A 99 Combo
+[Cheats/Always A 99 Combo]
 patch=1,EE,11CC9D90,extended,00000063
 
-//Cheats/Pass All Checkpoints
+[Cheats/Pass All Checkpoints]
 patch=1,EE,11CC9D80,extended,00000006
 
-//Cheats/Hit All Crash Targets
+[Cheats/Hit All Crash Targets]
 patch=1,EE,11CC9D7E,extended,00000005
 
-//Cheats/Unlock Hidden Boards
+[Cheats/Unlock Hidden Boards]
 patch=1,EE,208BED84,extended,01010101
 patch=1,EE,008BED88,extended,00000001
 patch=1,EE,008BED8A,extended,00000001
 
-//Cheats/Unlock Hover Board
+[Cheats/Unlock Hover Board]
 patch=1,EE,008BED8B,extended,00000001
 
-//Cheats/Unlock All Boards Chris
+[Cheats/Unlock All Boards Chris]
 patch=1,EE,008BED5F,extended,00000001
 patch=1,EE,108BED60,extended,00000101
 
-//Cheats/Unlock All Boards Bob
+[Cheats/Unlock All Boards Bob]
 patch=1,EE,008BED53,extended,00000001
 patch=1,EE,108BED54,extended,00000101
 
-//Cheats/Unlock All Boards Colin
+[Cheats/Unlock All Boards Colin]
 patch=1,EE,008BED63,extended,00000001
 patch=1,EE,108BED64,extended,00000101
 
-//Cheats/Unlock All Boards Kerry
+[Cheats/Unlock All Boards Kerry]
 patch=1,EE,008BED67,extended,00000001
 patch=1,EE,108BED68,extended,00000101
 
-//Cheats/Unlock All Boards Carlos
+[Cheats/Unlock All Boards Carlos]
 patch=1,EE,008BED57,extended,00000001
 patch=1,EE,108BED58,extended,00000101
 
-//Cheats/Unlock All Boards Lincoln
+[Cheats/Unlock All Boards Lincoln]
 patch=1,EE,008BED6B,extended,00000001
 patch=1,EE,108BED6C,extended,00000101
 
-//Cheats/Unlock All Boards Chad
+[Cheats/Unlock All Boards Chad]
 patch=1,EE,008BED5B,extended,00000001
 patch=1,EE,108BED5C,extended,00000101
 
-//Cheats/Unlock All Boards Rick
+[Cheats/Unlock All Boards Rick]
 patch=1,EE,008BED6F,extended,00000001
 patch=1,EE,108BED70,extended,00000101
 

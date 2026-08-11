@@ -1,5 +1,5 @@
 gametitle=Simple 2000 Series Vol.120 - The Saigo No Nippon Hei - Utsukushiki Kokudo Dakkan Sakusen SLPS-20500
-//Press R3 In Game For Debug Menu, Select to Disable
+[Press R3 In Game For Debug Menu, Select to Disable]
 patch=1,EE,2029BF80,extended,080B5CAA
 patch=1,EE,202D72A8,extended,8F829638
 patch=1,EE,202D72AC,extended,10400006
@@ -12,5 +12,5 @@ patch=1,EE,202D72C4,extended,AC430004
 patch=1,EE,202D72C8,extended,03E00008
 patch=1,EE,202D72CC,extended,00000000
 
-//Replace Pause Menu With Adjust Entry Menu
+[Replace Pause Menu With Adjust Entry Menu]
 patch=1,EE,10208C34,extended,0000E330

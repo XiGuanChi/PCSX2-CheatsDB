@@ -1,20 +1,20 @@
-//Cheats/Infinite Healthh & Special Move Player only
+[Cheats/Infinite Healthh & Special Move Player only]
 patch=1,EE,201437D0,extended,AE10004C.
 
-//Cheats/Max Soul Gauge Before Deposition Player only
+[Cheats/Max Soul Gauge Before Deposition Player only]
 patch=1,EE,201437C8,extended,AE100058
 
-//Cheats/Max Armor Gauge After Vapor Deposition Player only
+[Cheats/Max Armor Gauge After Vapor Deposition Player only]
 patch=1,EE,201420A0,extended,86220056
 patch=1,EE,201420A4,extended,A6220054
 
-//Cheats/Action Pause In Battle Pause Press R3 Cancel Press L3
+[Cheats/Action Pause In Battle Pause Press R3 Cancel Press L3]
 patch=1,EE,D01B48C2,extended,0000FFFB
 patch=1,EE,2020FD44,extended,00000001
 patch=1,EE,D01B48C2,extended,0000FFFD
 patch=1,EE,2020FD44,extended,00000000
 
-//Cheats/Unlock Everything
+[Cheats/Unlock Everything]
 patch=1,EE,201F5E38,extended,FFFFFFFF
 patch=1,EE,201F5E3C,extended,FFFFFFFF
 

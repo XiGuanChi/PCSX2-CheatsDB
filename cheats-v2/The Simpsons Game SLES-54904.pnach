@@ -1,10 +1,10 @@
 gametitle=The Simpsons Game SLES-54904
-//Infinite health
+[Infinite health]
 patch=1,EE,202b9fa0,extended,E4400028
 patch=1,EE,202b9fa4,extended,C4400028
 patch=1,EE,202b9fa8,extended,46010036
 
-//inf health partner
+[inf health partner]
 patch=1,EE,202b9f68,extended,08028000
 patch=1,EE,200A0000,extended,3C04447A
 patch=1,EE,200A0004,extended,080AE7A3

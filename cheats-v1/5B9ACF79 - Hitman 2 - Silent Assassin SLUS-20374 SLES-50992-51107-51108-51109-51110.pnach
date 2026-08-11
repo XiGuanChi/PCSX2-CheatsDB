@@ -1,24 +1,24 @@
-//Cheats/Infinite Health
+[Cheats/Infinite Health]
 patch=1,EE,2015C7DC,extended,00000000
 
-//Cheats/Infinite Ammo
+[Cheats/Infinite Ammo]
 patch=1,EE,202DE9AC,extended,00000000
 
-//Cheats/God Mode
+[Cheats/God Mode]
 patch=1,EE,204DA580,extended,3F800000
 
-//Cheats/All Weapons Max Ammo
+[Cheats/All Weapons Max Ammo]
 patch=1,EE,201567E0,extended,00000000
 patch=1,EE,20156898,extended,00000000
 
-//Cheats/Always Run Press L2+Up On L2+Down Off
+[Cheats/Always Run Press L2+Up On L2+Down Off]
 patch=1,EE,D0445142,extended,0000FEEF
 patch=1,EE,20143FC8,extended,24420001
 patch=1,EE,D0445142,extended,0000FEBF
 patch=1,EE,20143FC8,extended,0064100B 
 
-//Cheats/Auto Ffire
+[Cheats/Auto Ffire]
 patch=1,EE,202DE9A4,extended,00000000
 
-//Cheats/Invisibility On
+[Cheats/Invisibility On]
 patch=1,EE,204D9E90,extended,3F800000

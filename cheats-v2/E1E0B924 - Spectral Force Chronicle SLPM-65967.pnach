@@ -1,55 +1,55 @@
 gametitle=Spectral Force Chronicle SLPM-65967
-//Gold 999999
+[Gold 999999]
 patch=1,EE,20C02A00,extended,000F423F
 
-//All Items
+[All Items]
 patch=1,EE,40C02A08,extended,00070001
 patch=1,EE,000F000F,extended,00000000
 
-//Charactere 1 Stats max
+[Charactere 1 Stats max]
 patch=1,EE,40C02A54,extended,000D0001
 patch=1,EE,00010000,extended,00000000
 
-//Charactere 2 Stats max
+[Charactere 2 Stats max]
 patch=1,EE,40C02AF0,extended,000D0001
 patch=1,EE,00010000,extended,00000000
 
-//Charactere 3 Stats max
+[Charactere 3 Stats max]
 patch=1,EE,40C02B8C,extended,000D0001
 patch=1,EE,00010000,extended,00000000
 
-//Charactere 4 Stats max
+[Charactere 4 Stats max]
 patch=1,EE,40C02C28,extended,000D0001
 patch=1,EE,00010000,extended,00000000
 
-//Charactere 5 Stats max
+[Charactere 5 Stats max]
 patch=1,EE,40C02CC4,extended,000D0001
 patch=1,EE,00010000,extended,00000000
 
-//Charactere 1 Lv99/HP 999
+[Charactere 1 Lv99/HP 999]
 patch=1,EE,00C02A52,extended,00000000
 patch=1,EE,00C02A4C,extended,00000063
 
-//Charactere 2 Lv99/HP 999
+[Charactere 2 Lv99/HP 999]
 patch=1,EE,00C02AEE,extended,00000000
 patch=1,EE,00C02AE8,extended,00000063
 
-//Charactere 3 Lv99/HP 999
+[Charactere 3 Lv99/HP 999]
 patch=1,EE,00C02B8A,extended,00000000
 patch=1,EE,00C02B84,extended,00000063
 
-//Charactere 4 Lv99/HP 999
+[Charactere 4 Lv99/HP 999]
 patch=1,EE,00C02C26,extended,00000000
 patch=1,EE,00C02C20,extended,00000063
 
-//Skeleton A Lv99/HP 999
+[Skeleton A Lv99/HP 999]
 patch=1,EE,00C02CC2,extended,00000000
 patch=1,EE,00C02CBC,extended,00000063
 
-//Lv.up 999999 points (level 99/HP 999)
+[Lv.up 999999 points (level 99/HP 999)]
 patch=1,EE,20C02A04,extended,000F423F
 
-//All demon souls 99
+[All demon souls 99]
 patch=1,EE,00C034C0,extended,000000CE
 patch=1,EE,00C034D4,extended,00000063
 patch=1,EE,00C034C8,extended,000000CF
