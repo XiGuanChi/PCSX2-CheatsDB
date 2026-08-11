@@ -4,7 +4,7 @@ gametitle=Grand Theft Auto - San Andreas PAL-M SLES-52541 A1B3F232
 author=GamingDragon93
 description=Might need EE overclock (130%).
 patch=0,EE,0034F9EC,word,A382C7DC
-[patch=1,EE,0034D6F0,word,24020002]
+//patch=1,EE,0034D6F0,word,24020002
 
 [480p Mode]
 gsinterlacemode=1

@@ -6,7 +6,7 @@ description=Might need EE Overclock (180%)
 patch=1,EE,005D2254,word,00000001 //00000002
 patch=1,EE,0019095C,word,3C0142C8 //3C014248
 patch=1,EE,001909B8,word,3C0142F0 //3C014270
-[patch=1,EE,00193E40,word,14400008 //10400008]
+//patch=1,EE,00193E40,word,14400008 //10400008
 
 [NTSC Mode]
 author=GamingDragon93

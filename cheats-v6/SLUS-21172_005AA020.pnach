@@ -4,4 +4,4 @@ gametitle=Conflict - Global Terror NTSC-U SLUS-21172 005AA020
 author=GamingDragon93
 description=Might need EE overclock (130%).
 patch=0,EE,0016A6C0,word,24120000
-[patch=1,EE,008F5308,word,00000000]
+//patch=1,EE,008F5308,word,00000000

@@ -1,12 +1,12 @@
 gametitle=The King of Fighters 2000 SLUS-20834
 [SLUS-20834]
 [Uncensored version]
-[patch=1,EE,00152cf0,word,93838a68]
-[patch=1,EE,00152d04,word,93828a8c]
-[patch=1,EE,00152d14,word,9062133e]
+//patch=1,EE,00152cf0,word,93838a68
+//patch=1,EE,00152d04,word,93828a8c
+//patch=1,EE,00152d14,word,9062133e
 
 [Whip's original desert eagle ending]
-[patch=0,EE,002f97b4,word,90443ee6]
+//patch=0,EE,002f97b4,word,90443ee6
 
 [Infinite Health Player 1]
 patch=1,EE,10E844E8,extended,00000066

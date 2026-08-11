@@ -9,10 +9,10 @@ patch=1,EE,01D204F4,word,00000001
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,00116938,word,8E020004
-[patch=1,EE,005FC9D4,word,00000000]
+//patch=1,EE,005FC9D4,word,00000000
 
 [480p Mode]
 author=GamingDragon93
 description=SDTV 480p mode at start.
 patch=0,EE,0046F6C8,word,1460000A
-[patch=1,EE,005FC9D8,word,00000001]
+//patch=1,EE,005FC9D8,word,00000001

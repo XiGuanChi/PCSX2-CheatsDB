@@ -4,13 +4,13 @@ gametitle=Nebula - Echo Night NTSC-J SLPS-25314 B6AA81EE
 author=GamingDragon93
 description=Might need EE Overclock.
 patch=1,EE,001403E4,word,AE600360
-[patch=1,EE,001401BC,word,14200014]
+//patch=1,EE,001401BC,word,14200014
 
 [Performance Fix]
 author=GamingDragon93
 description=Remove flashlight shadows to increase performance.
 patch=1,EE,00285C48,word,00000000 //00000001
-[patch=1,EE,001441f4,word,3c020000]
+//patch=1,EE,001441f4,word,3c020000
 
 [Disable Flicker Filter]
 author=GamingDragon93

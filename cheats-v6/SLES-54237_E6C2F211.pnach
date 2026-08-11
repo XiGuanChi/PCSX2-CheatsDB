@@ -4,7 +4,7 @@ gametitle=Pirates of the Caribbean - The Legend of Jack Sparrow PAL-M SLES-54237
 author=GamingDragon93
 description=Might need EE Overclock (180%).
 patch=0,EE,001856BC,word,24020000
-[patch=1,EE,00430E30,word,00000000]
+//patch=1,EE,00430E30,word,00000000
 
 [NTSC Mode]
 author=GamingDragon93

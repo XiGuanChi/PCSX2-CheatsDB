@@ -40,7 +40,7 @@ author=GamingDragon93
 description=Max & infinite health toggle on by Gabominated 
 patch=1,EE,005F90AC,word,00960096 //00780078 //max health
 patch=1,EE,005F8C90,word,00960002 //00780002 //main health
-[patch=1,EE,005B396C,word,00960096 //00780078 //health]
+//patch=1,EE,005B396C,word,00960096 //00780078 //health
 
 [infinite stamina]
 author=GamingDragon93
@@ -57,7 +57,7 @@ patch=1,EE,005F925C,word,00000126 //00000000 //Pychoserum
 [stop timer]
 author=GamingDragon93
 description=stop timer toggle on by Gabominated
-[patch=1,EE,E05B3964,word,0002BF20 //00015f90]
+//patch=1,EE,E05B3964,word,0002BF20 //00015f90
 patch=1,EE,105D8270,word,00015f90 //00015f90 //0002BF20
 
 [infinite money]
