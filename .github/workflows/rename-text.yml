@@ -1,0 +1,32 @@
+name: Rename / Remove Text in .pnach files
+
+on:
+  push:
+  workflow_dispatch:  # allows manual trigger
+
+jobs:
+  rename:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Replace [text] with //text in all .pnach files
+        run: |
+          find . -name "*.pnach" -type f -exec sed -i 's/^\[\(.*\)\]$/\/\/\1/' {} \;
+
+      - name: Check if there are changes
+        id: check_changes
+        run: |
+          git diff --quiet || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Auto-rename: [text] → //text in .pnach files"
+          git push
