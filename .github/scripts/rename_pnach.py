@@ -1,61 +1,50 @@
-#!/usr/bin/env python3
 import os
-import re
 import sys
 
-# Target folders to process
-TARGET_DIRS = [f"cheats-v{i}" for i in range(1, 7)]
-
 def process_file(filepath):
-    """Read file, replace lines matching [Name] with //Name, and write back."""
-    try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
-    except Exception as e:
-        print(f"Failed to read {filepath}: {e}", file=sys.stderr)
-        return False
+    """
+    Read the file, replace lines that exactly contain '//Name' with '[Name]',
+    then write back if any changes were made.
+    """
+    with open(filepath, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
 
     modified = False
     new_lines = []
     for line in lines:
-        stripped = line.rstrip('\n')
-        # Match lines that contain only "[...]" (with optional surrounding spaces)
-        match = re.match(r'^\s*\[([^\]]+)\]\s*$', stripped)
-        if match:
-            content = match.group(1).strip()
-            new_line = f"//{content}\n"
-            if new_line != line:
-                modified = True
-            new_lines.append(new_line)
+        stripped = line.strip()
+        if stripped == "//Name":
+            new_lines.append("[Name]\n")
+            modified = True
         else:
             new_lines.append(line)
 
     if modified:
-        try:
-            with open(filepath, 'w', encoding='utf-8') as f:
-                f.writelines(new_lines)
-            print(f"Updated: {filepath}")
-        except Exception as e:
-            print(f"Failed to write {filepath}: {e}", file=sys.stderr)
-            return False
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.writelines(new_lines)
+        print(f"Modified: {filepath}")
+
     return modified
 
 def main():
-    repo_root = os.getcwd()
+    target_dirs = ['cheats-v1', 'cheats-v2', 'cheats-v3', 'cheats-v4', 'cheats-v5', 'cheats-v6']
+    root = os.getcwd()
     total_modified = 0
-    for dir_name in TARGET_DIRS:
-        target_dir = os.path.join(repo_root, dir_name)
-        if not os.path.isdir(target_dir):
-            print(f"Folder {target_dir} not found, skipping.", file=sys.stderr)
+
+    for dir_name in target_dirs:
+        dir_path = os.path.join(root, dir_name)
+        if not os.path.isdir(dir_path):
+            print(f"Directory not found, skipping: {dir_path}")
             continue
-        for root, _, files in os.walk(target_dir):
+
+        for current_root, _, files in os.walk(dir_path):
             for file in files:
                 if file.endswith('.pnach'):
-                    full_path = os.path.join(root, file)
-                    if process_file(full_path):
+                    filepath = os.path.join(current_root, file)
+                    if process_file(filepath):
                         total_modified += 1
 
-    print(f"Done. Total files modified: {total_modified}")
+    print(f"Total files modified: {total_modified}")
 
 if __name__ == "__main__":
     main()
