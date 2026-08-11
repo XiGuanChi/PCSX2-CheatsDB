@@ -9,7 +9,7 @@ patch=1,EE,01E218C0,word,01aa0280 //01400280 FMVs
 patch=1,EE,01E218C4,word,000c0000 //00400000
 
 [Door Transition Skip]
-// https://gist.github.com/kapdap/91ff4e4a32d45b5a6ee6b9ef7b298895
+[https://gist.github.com/kapdap/91ff4e4a32d45b5a6ee6b9ef7b298895]
 author=kapdap
 patch=1,EE,00133D4C,word,00000000 // remove call to bhControlDoor
 patch=1,EE,00133D54,word,00000000 // remove door animation completed check
@@ -19,7 +19,7 @@ author=illusion
 patch=1,EE,001324D4,word,34640008
 
 [Fix time in computers]
-// Custom sceScfGetLocalTimefromRTC. Adapted from configConvertToLocalTime in PS2SDK.
+[Custom sceScfGetLocalTimefromRTC. Adapted from configConvertToLocalTime in PS2SDK.]
 author=VelpaChallenger
 description=Fixes time shown when using computers either as Claire or Chris (shows local instead of JP).
 patch=1,EE,001147E8,word,3c19000f	// Save time (sceCdCLOCK) before it's lost. Will be used after we inject. Overwrites printf but meh.
@@ -32,7 +32,7 @@ patch=1,EE,000F1008,word,1F1E1F1E
 
 patch=1,EE,001148A0,word,0803C000	// Injection. Jump to custom code. When we are done, we'll jr ra and then return to intended point (previous flow before patch).
 
-// GetLocalTimeFromRTC code per se starts here. The above was preparation.
+[GetLocalTimeFromRTC code per se starts here. The above was preparation.]
 
 patch=1,EE,000F0000,word,3c04000f 	// configConvertToLocalTime. We won't use driver, though. Just sceCdCLOCK time.
 patch=1,EE,000F0004,word,ac821014 	// We need the original return value as well. So that the change is transparent to the sceCdCLOCK consumer. We will restore it later.

@@ -4,7 +4,7 @@ gametitle=Splashdown (U)(SLUS-20223)
 gsaspectratio=16:9
 author=sergx12 and El_Patas
 
-//Gameplay 16:9
+[Gameplay 16:9]
 
 patch=1,EE,00213eb4,word,3C023FE4 //3C023FAA Y-FOV
 patch=1,EE,00213eb8,word,34428E39 //3442AAAB

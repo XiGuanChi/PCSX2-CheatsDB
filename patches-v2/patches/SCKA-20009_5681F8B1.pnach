@@ -4,7 +4,7 @@ gametitle=R-Type Final (K)(SCKA-20009)
 gsaspectratio=16:9
 description=Widescreen hack NTSC-K by Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,0016ee00,word,3c033f40 //3c033f80
 patch=1,EE,0016fbec,word,3c043f40 //3c033f80

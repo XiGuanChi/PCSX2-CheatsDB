@@ -4,10 +4,10 @@ gametitle=Zathura (U)(SLUS-21336)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//42080246 07080046 3c0000e6 (1st)
+[X-Fov]
+[42080246 07080046 3c0000e6 (1st)]
 patch=1,EE,002f5684,word,0810bfa4
 patch=1,EE,0042fe90,word,46020842
 patch=1,EE,0042fe94,word,3c013f40

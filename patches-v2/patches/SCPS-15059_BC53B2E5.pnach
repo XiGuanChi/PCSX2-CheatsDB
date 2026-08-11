@@ -4,7 +4,7 @@ gametitle=Minna no Golf 4 [NTSC-J] [SCPS-15059]
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9
+[16:9]
 patch=1,EE,e005010C,extended,0048DD94 // check 2048e0d4 matches value xxxx010c
 patch=1,EE,2048DD70,extended,3c0143f0 // c4840708 hor fov menu
 patch=1,EE,2048DD94,extended,ac81010c // e484010c

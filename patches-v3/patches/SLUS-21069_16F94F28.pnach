@@ -4,9 +4,9 @@ gametitle=American Chopper (U)(SLUS-21069)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//82000c46 01000524 02000d46
+[82000c46 01000524 02000d46]
 patch=1,EE,0016a590,word,08043e84
 
 patch=1,EE,0010fa10,word,460c0082

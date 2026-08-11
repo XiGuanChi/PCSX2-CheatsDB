@@ -4,7 +4,7 @@ gametitle=Top Gear - Dare Devil (J)(SLPS-20064)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,00144b24,word,3c013ec0 //3c013f00
 

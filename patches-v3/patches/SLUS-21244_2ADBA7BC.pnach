@@ -1,13 +1,13 @@
 gametitle=Fatal Frame 3: The Tormented * NTSC-U * SLUS-21244 * 2ADBA7BC
-// Project Zero 3: The Tormented
+[Project Zero 3: The Tormented]
 
 [Widescreen 16:9]
 gsaspectratio=16:9
 
-// gameplay
+[gameplay]
 patch=1,EE,0032652c,word,3f400000
 
-// FMV fix
+[FMV fix]
 patch=1,EE,0036EA30,word,44200000
 patch=1,EE,0036EA38,word,3e333333
 
@@ -30,7 +30,7 @@ patch=1,EE,00216edc,word,4600b583
 patch=1,EE,00216ee0,word,448e0800
 patch=1,EE,00216ee4,word,46800860
 
-// Lens Flare's fix
+[Lens Flare's fix]
 patch=1,EE,0016c60c,word,0c060269
 patch=1,EE,0016c50c,word,0c060269
 patch=1,EE,0016c56c,word,0c060269
@@ -117,7 +117,7 @@ patch=1,EE,00180ad8,word,3c0e0fff
 patch=1,EE,00180adc,word,3c014180
 patch=1,EE,00180ae0,word,4481a000
 
-// ==========
+[==========]
 
 [Disable Dither & Ghost Post-Process effect]
 patch=1,EE,00156cb4,word,00000000

@@ -4,7 +4,7 @@ gametitle=Pro Beach Soccer (E)(SLES-51492)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,00282238,word,0811e324 //c6010068
 patch=1,EE,0028223c,word,00000000 //c602006c

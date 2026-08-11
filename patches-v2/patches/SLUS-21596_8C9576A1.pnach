@@ -5,13 +5,13 @@ gsaspectratio=16:9
 author=SuperType1/remco
 description=Fixes the game and the HUD to run in a 16:9 Scale (only enable one and not both of them).
 
-//Force 16:9
+[Force 16:9]
 patch=1,EE,001A2798,word,00000000
-//FOV
+[FOV]
 patch=1,EE,001F60FC,word,3C013C9A
-//Hud Width
+[Hud Width]
 patch=1,EE,0022BE50,extended,3C013A9D
-//Hud Elements
+[Hud Elements]
 patch=1,EE,21C91FB8,extended,3F28F5C3//score offset
 patch=1,EE,21C91FF8,extended,3FAA3D71//timer race pos offset
 patch=1,EE,21C91FE0,extended,3FAA3D71//speedometer offset
@@ -36,15 +36,15 @@ gsaspectratio=Stretch
 author=SuperType1/remco
 description=Fixes the game and the HUD to run in a 21:9 Scale (only enable one and not both of them).
 
-//Force 21:9
+[Force 21:9]
 patch=1,EE,001A2798,word,00000000
 patch=1,EE,001A27A0,word,3C014017
-//FOV
+[FOV]
 patch=1,EE,001F60FC,word,3C013CA3
-//Hud Width
+[Hud Width]
 patch=1,EE,0022BE50,extended,3C013A83
 patch=1,EE,0022BE54,extended,34211AF4
-//Hud Elements
+[Hud Elements]
 patch=1,EE,21C91FB8,extended,3F4CCCCD//score offset
 patch=1,EE,21C91FF8,extended,3FD1EB85//timer offset
 patch=1,EE,21C91FE0,extended,3FD1EB85//speedometer offset
@@ -69,10 +69,10 @@ patch=1,EE,20441078,extended,43340000//ea trax width
 [60 FPS Menus and Crashes]
 author=SuperType1/remco
 description=Makes the entire game run in 60 FPS.
-//60 FPS Front End
+[60 FPS Front End]
 patch=1,EE,202159AC,extended,24040001
 patch=1,EE,202159A4,extended,00108002
-//60 FPS Crashes
+[60 FPS Crashes]
 patch=1,EE,20209070,word,908523E8
 
 [Extra particles while driving]

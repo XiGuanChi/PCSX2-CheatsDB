@@ -4,9 +4,9 @@ gametitle=Showdown - Legends of Wrestling (U)(SLUS-21017)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//000060e4 040062e4 080062e4
+[000060e4 040062e4 080062e4]
 patch=1,EE,00249638,word,080c2984
 
 patch=1,EE,0030a610,word,3c023f40

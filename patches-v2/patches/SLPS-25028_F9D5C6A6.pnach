@@ -5,12 +5,12 @@ gsaspectratio=16:9
 description=16:9 widescreen patch
 author=VIRGIN KLM, Silent
 
-// 16:9 - 3D Elements
+[16:9 - 3D Elements]
 patch=0,EE,1015C9F0,extended,3F40 // In-game
 patch=0,EE,1015CB3C,extended,3F40 // Split-screen
 patch=0,EE,101DD0D0,extended,3F40 // Menus
 
-// 16:9 - Gameplay HUD
+[16:9 - Gameplay HUD]
 patch=0,EE,101B06D8,extended,01FC // Move the entire cluster to the right
 patch=0,EE,101A915C,extended,0030 // Tacho needle
 patch=0,EE,101A9208,extended,0020 // Shift assist
@@ -76,19 +76,19 @@ patch=0,EE,202630C4,extended,00000000
 author=JakeMR2
 description=Changes the controller scheme to match TXR2's
 
-//Controller Mappings
-//0x4 =  X Button (accel)
-//0x8 =  Square Button (brake)
-//0xC =  L1 Button (shift down)
-//0x10 = R1 Button (shift up)
-//0x14 = Circle Button (Reverse)
-//0x18 = L2 Button (Look Back)
-//0x1C = R2 Button (Challenge Rival)
-//0x20 = Triangle Button
-//0x24 = L3 Left Stick (Left Signal)
-//0x28 = L3 Right Stick (Right Signal)
-//0x2C = R3 Button (Warning Signals)
-//0x30 = L3 Button (Horn)
+[Controller Mappings]
+[0x4 =  X Button (accel)]
+[0x8 =  Square Button (brake)]
+[0xC =  L1 Button (shift down)]
+[0x10 = R1 Button (shift up)]
+[0x14 = Circle Button (Reverse)]
+[0x18 = L2 Button (Look Back)]
+[0x1C = R2 Button (Challenge Rival)]
+[0x20 = Triangle Button]
+[0x24 = L3 Left Stick (Left Signal)]
+[0x28 = L3 Right Stick (Right Signal)]
+[0x2C = R3 Button (Warning Signals)]
+[0x30 = L3 Button (Horn)]
 
 patch=0,EE,0014d08c,word,8E240018 //Accel Button (R2)
 patch=0,EE,0014d070,word,8E24001C //Brake Button (L2)

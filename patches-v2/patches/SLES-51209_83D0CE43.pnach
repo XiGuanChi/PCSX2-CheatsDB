@@ -4,7 +4,7 @@ gametitle=Haven - Call of the King (PAL-M5) (SLES-51209)
 gsaspectratio=16:9
 author=ElHecht
 description=Widescreen Hack
-// 16:9
+[16:9]
 patch=1,EE,0011638c,word,3c013f40 // 3c013f80 hor fov
 patch=1,EE,00116390,word,44811800 // 44811000
 patch=1,EE,00116398,word,46031883 // 3c013f40

@@ -4,10 +4,10 @@ gametitle=LMA Manager 2003 (E)(SLES-51023)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//02a51946 b00006e6
+[X-Fov]
+[02a51946 b00006e6]
 patch=1,EE,0036a7a4,word,080e2478
 
 patch=1,EE,003891e0,word,4619a502

@@ -4,8 +4,8 @@ gametitle=CID the Dummy (PAL-M) SLES-55079 5CE09C49
 gsaspectratio=16:9
 author=Arapapa
 description=Renders the game in 16:9 aspect ratio
-//X-Fov
-//06a30046 86050046
+[X-Fov]
+[06a30046 86050046]
 patch=1,EE,00228a58,word,080997d8
 
 patch=1,EE,00265f60,word,46000586

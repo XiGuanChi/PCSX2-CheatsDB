@@ -4,7 +4,7 @@ gametitle=DragonBall Z - Budokai 3 (PAL-M5) (SLES-52730)
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9 gui and gameplay
+[16:9 gui and gameplay]
 patch=1,EE,001310c8,word,080c5137 // 46000803 jump to code-inject 003144dc
 patch=1,EE,001310cc,word,00000000 // e7808744
 

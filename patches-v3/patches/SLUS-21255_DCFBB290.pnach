@@ -4,22 +4,22 @@ gametitle=Trapt (NTSC-U)
 gsaspectratio=16:9
 author=ElHecht
 description=Widescreen hack
-// 16:9 vertical fov
+[16:9 vertical fov]
 patch=1,EE,00104954,word,3c013f40 // 00000000 ver fov
 patch=1,EE,00104960,word,4481f000 // 00000000
 patch=1,EE,0010496c,word,461eb582 // 00000000
 
-// 16:9 horizontal fov
-// causes character popups in cut-scenes
+[16:9 horizontal fov]
+[causes character popups in cut-scenes]
 //patch=1,EE,00104954,word,3c013f40 // 00000000 hor fov
 //patch=1,EE,00104960,word,4481f000 // 00000000
 //patch=1,EE,00104964,word,461ebdc3 // 00000000
 
-// loading screen
+[loading screen]
 //patch=1,EE,0029a92c,word,3c0343f0 // 3c034420 loading screen hor fov
 patch=1,EE,0029a930,word,3c024415 // 3c0243e0 loading screen ver fov
 
-// font fix for cut-scenes
+[font fix for cut-scenes]
 patch=1,EE,001c5a4c,word,3c024190 // 3c0241c0
 
 [Remove Blackbars]

@@ -4,10 +4,10 @@ gametitle=BioHazard Outbreak File #2 [NTSC-J] (SLPM-65692) (ENGLISH PATCHED)
 description=Renders the game in 16:9 aspect ratio, instead of 4:3.
 gsaspectratio=16:9
 
-//gameplay by synce
+[gameplay by synce]
 patch=1,EE,202491fc,extended,3fe38e38
 
-//FMV's fix by nemesis2000
+[FMV's fix by nemesis2000]
 patch=1,EE,0034C5E8,word,24060015
 
 patch=1,EE,0034C784,word,01262818

@@ -4,7 +4,7 @@ gametitle=Everybody's Tennis (PAL-M11) (SCES-54535)
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9
+[16:9]
 patch=1,EE,001398f0,word,08079ed3 // e4840544 jump to code-inject 001e7b4c
 patch=1,EE,001398f4,word,00000000 // 46002107
 

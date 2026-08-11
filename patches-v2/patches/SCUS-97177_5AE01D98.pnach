@@ -4,7 +4,7 @@ gametitle=Downhill Domination (NTSC-U) [SCUS-97177]
 gsaspectratio=16:9
 description=Downhill Domination Widescreen Hacks (by Aced14)
 
-//16:9 Widescreen
+[16:9 Widescreen]
 
 patch=1,EE,101B9EF0,extended,00004401 //3C01442C - Shell Menu Master X FOV
 

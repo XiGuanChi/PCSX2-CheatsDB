@@ -4,7 +4,7 @@ gametitle=Splashdown [PAL-M5] (SLES_504.86) E9C544F7
 gsaspectratio=16:9
 author=Sergx12 and El_Patas
 description=Renders the game in 16:9 aspect ratio
-//Gameplay 16:9
+[Gameplay 16:9]
 patch=1,EE,00213EB4,word,3C023FE4 //3C023FAA Y-FOV
 patch=1,EE,00213EB8,word,34428E39 //3442AAAB
 patch=1,EE,00214BEC,word,3C023CAC //3C023C8E Zoom

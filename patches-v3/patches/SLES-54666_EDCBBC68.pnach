@@ -29,40 +29,40 @@ patch=1,EE,00195B30,word,10400014 //14400014
 author=Souzooka
 description=Upon entering a level forces some treasure chests closed if not enough are closed to collect the remaining jigsaw pieces needed.
 
-// In order to progress through the game, all jigsaw pieces within a level must be collected.
-// Jigsaw pieces are contained within treasure chests, 1 chest to 1 jigsaw piece.
-// When a treasure chest is opened within a level, a jigsaw piece pickup spawns and moves above the chest,
-// which a player can then collect.
+[In order to progress through the game, all jigsaw pieces within a level must be collected.]
+[Jigsaw pieces are contained within treasure chests, 1 chest to 1 jigsaw piece.]
+[When a treasure chest is opened within a level, a jigsaw piece pickup spawns and moves above the chest,]
+[which a player can then collect.]
 
-// In save data, the following data is saved:
-// 1. The number of jigsaw pieces for the level collected
-// 2. For each chest, whether or not the chest has been opened or is closed.
+[In save data, the following data is saved:]
+[1. The number of jigsaw pieces for the level collected]
+[2. For each chest, whether or not the chest has been opened or is closed.]
 
-// This creates a pretty awful bug: if the player opens a chest, but doesn't collect a jigsaw,
-// the chest remembers that it is open and thus will not spawn a jigsaw on future visits!
-// Therefore, it is impossible for the player to complete the level.
-// Additionally, we don't know which pieces were not collected, so we can only arbitrarily reset chests.
+[This creates a pretty awful bug: if the player opens a chest, but doesn't collect a jigsaw,]
+[the chest remembers that it is open and thus will not spawn a jigsaw on future visits!]
+[Therefore, it is impossible for the player to complete the level.]
+[Additionally, we don't know which pieces were not collected, so we can only arbitrarily reset chests.]
 
-// Set up our callsite to custom code. This is immediately after the state is set for most level objects
-// (including treasure chests). This replaces a conditional debug print, which shouldn't affect players.
+[Set up our callsite to custom code. This is immediately after the state is set for most level objects]
+[(including treasure chests). This replaces a conditional debug print, which shouldn't affect players.]
 patch=0,EE,20147EC8,extended,02602021 // addu a0,s3,zero
 patch=0,EE,20147ECC,extended,0C095024 // jal z_un_00254090 ; jump to sceMount (believed to be orphaned)
 patch=0,EE,20147ED0,extended,02E02821 // addu a1,s7,zero
 patch=0,EE,20147ED4,extended,00000000 // nop
 patch=0,EE,20147ED8,extended,00000000 // nop
 
-// s0 = function argument 0 (pointer to entity information)
-// s1 = function argument 1 (boolean indicating if this is the first load of the level (0=checkpoint/1=level entry))
-// s2 = profile id
-// s3 = level id
-// s4 = jigsaws collected for level + closed chests + force closed chests
-// s5 = max jigsaws for level
-// s6 = current object index
-// s7
-// fp
+[s0 = function argument 0 (pointer to entity information)]
+[s1 = function argument 1 (boolean indicating if this is the first load of the level (0=checkpoint/1=level entry))]
+[s2 = profile id]
+[s3 = level id]
+[s4 = jigsaws collected for level + closed chests + force closed chests]
+[s5 = max jigsaws for level]
+[s6 = current object index]
+[s7]
+[fp]
 
-// Custom code at sceMount to close treasure chests to correct progression softlocks
-// Prologue
+[Custom code at sceMount to close treasure chests to correct progression softlocks]
+[Prologue]
 patch=0,EE,20254090,extended,27BDFE00 // addiu sp,sp,-0x200
 patch=0,EE,20254094,extended,FFBF0000 // sd ra,0x0(sp)
 patch=0,EE,20254098,extended,7FB00010 // sq s0,0x10(sp)
@@ -77,16 +77,16 @@ patch=0,EE,202540B8,extended,7FBE0090 // sq fp,0x90(sp)
 patch=0,EE,202540BC,extended,00808021 // addu s0,a0,zero
 patch=0,EE,202540C0,extended,00A08821 // addu s1,a1,zero
 
-// We don't want to do anything if this is a checkpoint (branch to epilogue if s1=0)
+[We don't want to do anything if this is a checkpoint (branch to epilogue if s1=0)]
 patch=0,EE,202540C4,extended,1220003E // beq s1,zero,0x002541C0
 
-// Grab all the info we need before looping over entities to determine if there's enough chests left
+[Grab all the info we need before looping over entities to determine if there's enough chests left]
 patch=0,EE,202540C8,extended,3C01003B // lui at,0x003B
 patch=0,EE,202540CC,extended,8C32B000 // lw s2,-0x5000(at) ; s2 = profile ID
 patch=0,EE,202540D0,extended,8C33B004 // lw s3,-0x4FFC(at) ; s3 = level ID
-// if level ID > 0x9, then we'd be reading out of bounds for save data.
-// This occurs in the hub level, and shouldn't actually cause any practical issues, but
-// we'll include this check just in case.
+[if level ID > 0x9, then we'd be reading out of bounds for save data.]
+[This occurs in the hub level, and shouldn't actually cause any practical issues, but]
+[we'll include this check just in case.]
 patch=0,EE,202540D4,extended,2E61000A // sltiu at,s3,0x000A
 patch=0,EE,202540D8,extended,10200039 // beq at,zero,0x002541C0
 patch=0,EE,202540DC,extended,3C040001 // lui a0,0x0001
@@ -105,11 +105,11 @@ patch=0,EE,2025410C,extended,34A5DEB0 // ori a1,a1,0xDEB0
 patch=0,EE,20254110,extended,00A42821 // addu a1,a1,a0
 patch=0,EE,20254114,extended,8CB5000C // lw s5,0xC(a1)
 
-// First pass over entities (to determine how many chests are closed)
+[First pass over entities (to determine how many chests are closed)]
 patch=0,EE,20254118,extended,8E0203F0 // lw v0,0x3F0(s0) // [s0+0x3F0] = count of entities
 patch=0,EE,2025411C,extended,18400028 // blez v0,0x002541C0 ; no entities for this level...? just branch to epilogue
 patch=0,EE,20254120,extended,0000B021 // addu s6,zero,zero
-// loop body
+[loop body]
 patch=0,EE,20254124,extended,260403F0 // addiu a0,s0,0x3F0
 patch=0,EE,20254128,extended,0C096BEA // jal z_un_0025afa8 ; function call to retrieve a level entity given an index
 patch=0,EE,2025412C,extended,02C02821 // addu a1,s6,zero
@@ -121,18 +121,18 @@ patch=0,EE,20254140,extended,8C44068C // lw a0,0x68C(v0)
 patch=0,EE,20254144,extended,24050001 // addiu a1,zero,0x1 ; 0x1 = Closed state
 patch=0,EE,20254148,extended,50850001 // beql a0,a1,0x00254150
 patch=0,EE,2025414C,extended,26940001 // addiu s4,s4,0x1 ; Increment potential jigsaw pieces count if chest is closed
-// loop epilogue
+[loop epilogue]
 patch=0,EE,20254150,extended,26D60001 // addiu s6,s6,0x1
 patch=0,EE,20254154,extended,8E0403F0 // lw a0,0x3F0(s0)
 patch=0,EE,20254158,extended,02C4202A // slt a0,s6,a0
 patch=0,EE,2025415C,extended,1480FFF1 // bne a0,zero,0x00254124 ; continue looping if we haven't exhausted the entity list
 patch=0,EE,20254160,extended,00000000 // nop
 
-// Second pass over entities (to close enough chests needed so that we have enough potential jigsaws)
+[Second pass over entities (to close enough chests needed so that we have enough potential jigsaws)]
 patch=0,EE,20254164,extended,02B42023 // subu a0,s5,s4 ; calculate difference in potential and max jigsaw pieces
 patch=0,EE,20254168,extended,18800015 // blez a0,0x002541C0 ; There are enough potential jigsaw pieces, so go to epilogue
 patch=0,EE,2025416C,extended,0000B021 // addu s6,zero,zero
-// loop body
+[loop body]
 patch=0,EE,20254170,extended,260403F0 // addiu a0,s0,0x3F0
 patch=0,EE,20254174,extended,0C096BEA // jal z_un_0025afa8 ; function call to retrieve a level entity given an index
 patch=0,EE,20254178,extended,02C02821 // addu a1,s6,zero
@@ -146,7 +146,7 @@ patch=0,EE,20254194,extended,14A40003 // bne a1,a0,0x002541A4 ; if not open, con
 patch=0,EE,20254198,extended,24040001 // addiu a0,zero,0x1 ; 0x1 = closed state
 patch=0,EE,2025419C,extended,AC44068C // sw a0,0x68C(v0) ; close the chest
 patch=0,EE,202541A0,extended,26940001 // addiu s4,s4,0x1 ; increment potential jigsaw pieces
-// loop epilogue
+[loop epilogue]
 patch=0,EE,202541A4,extended,02B42023 // subu a0,s5,s4
 patch=0,EE,202541A8,extended,18800005 // blez a0,0x002541C0 ; leave loop if there's enough potential pieces
 patch=0,EE,202541AC,extended,26D60001 // addiu s6,s6,0x1
@@ -155,7 +155,7 @@ patch=0,EE,202541B4,extended,02C4202A // slt a0,s6,a0
 patch=0,EE,202541B8,extended,1480FFED // bne a0,zero,0x00254170 ; continue looping if we haven't exhausted the entity list
 patch=0,EE,202541BC,extended,00000000 // nop
 
-// Epilogue
+[Epilogue]
 patch=0,EE,202541C0,extended,7BBE0090 // lq fp,0x90(sp)
 patch=0,EE,202541C4,extended,7BB70080 // lq s7,0x80(sp)
 patch=0,EE,202541C8,extended,7BB60070 // lq s6,0x70(sp)

@@ -12,7 +12,7 @@ patch=0,EE,0039A5B0,extended,02010206
 gsaspectratio=16:9
 author=gamemasterplc
 
-// removed because  causes the image to be shifted to the right
+[removed because  causes the image to be shifted to the right]
 
 //patch=1,EE,2012489C,extended,3C033FDD //Upper Half of Clip Matrix Aspect Ratio Setting (1.73333f)
 //patch=1,EE,201248A0,extended,3463DDDE //Lower Half of Clip Matrix Aspect Ratio Setting (1.73333f)

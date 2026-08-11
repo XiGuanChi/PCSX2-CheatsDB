@@ -4,7 +4,7 @@ gametitle=Disgaea - Hour of Darkness (K)(SLKA-25048)
 gsaspectratio=16:9
 description=Widescreen hack
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,001051b4,word,3C013F40
 patch=1,EE,001051b8,word,44810000
@@ -14,11 +14,11 @@ patch=1,EE,0014d4d4,word,E7A000DC
 patch=1,EE,0014d4d8,word,46000003
 patch=1,EE,0014d4dc,word,E7A000D8
 
-//480i
-//2D280000 02000624 01000724
+[480i]
+[2D280000 02000624 01000724]
 patch=1,EE,0013b8c8,word,24050001
 
-//portrait fix
+[portrait fix]
 patch=1,EE,001937f8,word,2646001e //2646000a //0a004826 09003026 conversation
 patch=1,EE,00193818,word,2409003c //24090050
 

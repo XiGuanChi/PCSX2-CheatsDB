@@ -4,16 +4,16 @@ gametitle=Vampire Night (NTSC-U) (SLUS-20221)
 gsaspectratio=16:9
 author=ElHecht ported by PsxFan107
 
-// 16:9
+[16:9]
 patch=1,EE,00212358,word,3c013f40 // 00000000 hor fov
 
-// 16:10
+[16:10]
 //patch=1,EE,00212358,word,3c013f55 // 00000000 hor fov
 //patch=1,EE,00212388,word,34215555 // 00000000 hor fov
 
-// 16:9 and 16:10 main modfication
-// no need to change anything here! all modifications are calculated
-// based on the hor fov value in the upper 16:9/16:10 section
+[16:9 and 16:10 main modfication]
+[no need to change anything here! all modifications are calculated]
+[based on the hor fov value in the upper 16:9/16:10 section]
 patch=1,EE,00212398,word,4481f000 // 00000000 register preparation
 patch=1,EE,002123b0,word,46001003 // 00000000 register preparation
 patch=1,EE,002123b4,word,461e0742 // 46001003 register preparation

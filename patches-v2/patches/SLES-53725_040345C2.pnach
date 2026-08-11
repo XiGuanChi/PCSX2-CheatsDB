@@ -4,7 +4,7 @@ gametitle=Asterix & Obelix XXL 2 (PAL-M5) (SLES-53725)
 gsaspectratio=16:9
 author=Arapapa/ElHecht
 
-// 16:9
+[16:9]
 patch=1,EE,0012a268,word,0811687c // 3c023f40 jump to code-inject 0045a1f0
 patch=1,EE,0012a26c,word,00000000 // ae020034
 patch=1,EE,0012a270,word,00000000 // c7a10020

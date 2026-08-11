@@ -4,7 +4,7 @@ gametitle=PaRappa the Rapper 2 (NTSC-U)
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9
+[16:9]
 patch=1,EE,00166114,word,3c013f40
 patch=1,EE,00166120,word,44810000
 patch=1,EE,00166124,word,4600c602
@@ -13,7 +13,7 @@ patch=1,EE,00166124,word,4600c602
 [No-Interlacing]
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
-//force progressive
+[force progressive]
 patch=1,EE,20103690,extended,00000000
 
 

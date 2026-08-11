@@ -4,7 +4,7 @@ gametitle=Avatar - The Last Airbender (NTSC-U)
 gsaspectratio=16:9
 author=ElHecht
 
-//16:9
+[16:9]
 patch=1,EE,001426e8,word,3c033fe3 // 3c033faa
 patch=1,EE,001426ec,word,34638e39 // 3463aaab
 

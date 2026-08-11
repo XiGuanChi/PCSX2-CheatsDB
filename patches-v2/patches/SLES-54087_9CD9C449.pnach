@@ -4,7 +4,7 @@ gametitle=Suikoden V PAL (SLES_540.87)
 gsaspectratio=16:9
 author=El_Patas and sergx12
 description=Widescreen Hack
-//Gameplay 16:9
+[Gameplay 16:9]
 patch=1,EE,001B8804,word,3C023F40 //3C023F80 hor value
 
 patch=1,EE,001B881C,word,46011083 //0080802D
@@ -29,12 +29,12 @@ patch=1,EE,001B8864,word,7BB00000 //03E00008
 patch=1,EE,001B8868,word,03E00008 //27BD0020
 patch=1,EE,001B886C,word,27BD0020 //00000000
 
-//FMV's fix - Only works for the 60hz mode
+[FMV's fix - Only works for the 60hz mode]
 patch=1,EE,0025738C,word,3C0143F0 //44940800 hor val
 patch=1,EE,00257394,word,44816000 //44930000
 patch=1,EE,0025739C,word,3C0143E0 //46800B20 vert val
 patch=1,EE,002573A8,word,44816800 //46800360
 
-//reflections fix by sergx12
+[reflections fix by sergx12]
 patch=1,EE,00265620,word,3c0241d5 //3c0241a0
 patch=1,EE,0026562C,word,3c024135 //3c024172

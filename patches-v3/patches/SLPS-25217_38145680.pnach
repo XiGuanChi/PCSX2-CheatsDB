@@ -12,7 +12,7 @@ patch=1,EE,204A0F84,word,3F400000 // subtitles
 gsinterlacemode=1
 description=No-Interlacing
 
-//No-Interlacing
+[No-Interlacing]
 patch=1,EE,0010180c,word,00000000 //64420008
 patch=1,EE,001E8FB0,word,00000000
 

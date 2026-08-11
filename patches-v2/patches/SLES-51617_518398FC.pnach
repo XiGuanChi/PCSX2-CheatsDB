@@ -4,7 +4,7 @@ gametitle=Starsky & Hutch (E)(SLES-51617)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,00123e4c,word,3c033f2a //3c033f00
 

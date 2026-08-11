@@ -5,7 +5,7 @@ gsaspectratio=16:9
 author=El_Patas
 description=Widescreen Hack
 
-//Built-in widescreen 16:9
+[Built-in widescreen 16:9]
 patch=1,EE,001CFA78,word,A2740BCC //AE600BCC (Increases hor. axis)
 
 

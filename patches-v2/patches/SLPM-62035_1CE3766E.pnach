@@ -4,7 +4,7 @@ gametitle=Ikuze! Onsen Takkyuu!! (J)(SLPM-62035)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,001b2558,word,080890c4 // c6010068
 patch=1,EE,001b255c,word,00000000 // c602006c

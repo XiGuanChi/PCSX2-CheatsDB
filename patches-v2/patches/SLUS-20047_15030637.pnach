@@ -4,23 +4,23 @@ gametitle=Gauntlet: Dark Legacy SLUS_212.82
 gsaspectratio=16:9
 author=pelvicthrustman
 
-//Widescreen
+[Widescreen]
 patch=1,EE,001AC1FC,word,3C013EC0 //00000000
 patch=1,EE,001AC200,word,4481F800 //00000000
 patch=1,EE,001AC298,word,461F0002 //46020002
 
-//Render Fix
+[Render Fix]
 patch=1,EE,001abb20,word,10000004 //50a00004 (disables scissor clipping)
 patch=1,EE,001c3ef4,word,3c013f40 //00000000 (increase object clipping range)
 patch=1,EE,001c3f14,word,4481f800 //00000000
 patch=1,EE,001c3f40,word,461f0842 //46011034
 patch=1,EE,001c3f44,word,46011034 //00000000
 
-//FMV Fix
+[FMV Fix]
 patch=1,EE,001dbde8,word,24027100 //24026c00 (left)
 patch=1,EE,001dbdf8,word,24021e00 //24022800 (x-scaling)
 
-//Font Fix
+[Font Fix]
 patch=1,EE,001c4b58,word,3C013f40 //14400006 (Font scalar value 0.75)
 patch=1,EE,001c4b5c,word,4481f800 //3c04002b
 patch=1,EE,001c4b60,word,10000001 //24846958 (skip)

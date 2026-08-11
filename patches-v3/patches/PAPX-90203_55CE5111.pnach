@@ -5,11 +5,11 @@ gsaspectratio=16:9
 description=16:9 widescreen patch
 author=Silent
 
-// Change Vert- to Hor+
+[Change Vert- to Hor+]
 patch=0,EE,2024589C,extended,3C033F40 // lui v1,0x3F40
 patch=0,EE,202458AC,extended,44836000 // mtc1 v1,f12
 
-// Fix the race HUD
+[Fix the race HUD]
 patch=0,EE,10219780,extended,0078 // Tachometer width
 patch=0,EE,10219788,extended,01E0 // Tachometer posX
 patch=0,EE,10219168,extended,005D // Speed text posX
@@ -18,15 +18,15 @@ patch=0,EE,10219340,extended,005B // gear posX
 patch=0,EE,10219670,extended,01F4 // Position indicator posX
 patch=0,EE,10219678,extended,003C // Position indicator width
 
-// Slightly enlarge the gear background to account for stretched fonts
+[Slightly enlarge the gear background to account for stretched fonts]
 patch=0,EE,2027DCB0,extended,41F00000 // 30.0f
 patch=0,EE,2027DCBC,extended,42600000 // 56.0f
 patch=0,EE,2027DCC8,extended,41F00000 // 30.0f
 patch=0,EE,2027DCD4,extended,42600000 // 56.0f
 
-// As we can't unstretch fonts easily, leave the pause menu background stretched
+[As we can't unstretch fonts easily, leave the pause menu background stretched]
 
-// Fix menus
+[Fix menus]
 //patch=0,EE,202A28C0,extended,42D64925 // Background movie width (fit)
 patch=0,EE,202A28C4,extended,42855555 // Background movie height (fill)
 patch=0,EE,202A26A8,extended,C2875B6E // Side ruler posX
@@ -78,7 +78,7 @@ patch=0,EE,202A45F8,extended,C1F00000 // Vibration disabled posX
 patch=0,EE,202A4600,extended,41580000 // Vibration disabled width
 patch=0,EE,202A4690,extended,42070000 // Vibration text width
 
-// Fix opening images
+[Fix opening images]
 patch=0,EE,20200908,extended,240C0003 // li t4,0x3
 patch=0,EE,2020090C,extended,240D0004 // li t5,0x4
 patch=0,EE,20200910,extended,240E0140 // li t6,0x140
@@ -96,7 +96,7 @@ patch=0,EE,2020093C,extended,01CF3020 // add a2,t6,t7
 
 patch=0,EE,20200778,extended,0C080242 // jal sub_200908
 
-// Set the opening movies to fill the screen (they're 16:9 letterboxed anyway)
+[Set the opening movies to fill the screen (they're 16:9 letterboxed anyway)]
 patch=0,EE,102368D4,extended,0140
 
 patch=0,EE,20200940,extended,00EC1821 // addu v1,a3,t4
@@ -114,62 +114,62 @@ patch=0,EE,2023FF70,extended,00000000
 description=Use dpad left/right to select the car in the menus.
 author=Silent, original research by Xenn765
 
-// NOTES:
+[NOTES:]
 
-// Code caves:
-// 0200C8C - 0200D1C
-// 0200CF8 - 0200D1C - EXHAUSTED
-// 0201488 - 02014C4 - EXHAUSTED
-// 0204E08 - 0204E98 - free from 00204E88
-// 020AA04 - 020AA9C - free from 0020AA10
-// 020BBBC - 020BD00 - EXHAUSTED
-// 021617C - 02161C4 - EXHAUSTED
-// 02161DC - 0216204 - EXHAUSTED
-// 02181CC - 0218270
-// 022D5B0 - 022D77C - free from 0022D768
-// 022EC50 - 022EC74 - free from 0022EC5C
+[Code caves:]
+[0200C8C - 0200D1C]
+[0200CF8 - 0200D1C - EXHAUSTED]
+[0201488 - 02014C4 - EXHAUSTED]
+[0204E08 - 0204E98 - free from 00204E88]
+[020AA04 - 020AA9C - free from 0020AA10]
+[020BBBC - 020BD00 - EXHAUSTED]
+[021617C - 02161C4 - EXHAUSTED]
+[02161DC - 0216204 - EXHAUSTED]
+[02181CC - 0218270]
+[022D5B0 - 022D77C - free from 0022D768]
+[022EC50 - 022EC74 - free from 0022EC5C]
 
-// Unused functions that are used here (not suitable for code caves):
-// 020BB88 - gt2k_menu::SelectColorUnit::SetSampleGradient
-// 020BBBC - gt2k_menu::SelectColorUnit::StopAnimations (moved from 020BC00)
-// 020BD08 - gt2k_menu::SelectColorUnit::ApplyColorSampleAnimation
-// 020BD60 - gt2k_menu::SelectColorUnit::SelectColorUnit
+[Unused functions that are used here (not suitable for code caves):]
+[020BB88 - gt2k_menu::SelectColorUnit::SetSampleGradient]
+[020BBBC - gt2k_menu::SelectColorUnit::StopAnimations (moved from 020BC00)]
+[020BD08 - gt2k_menu::SelectColorUnit::ApplyColorSampleAnimation]
+[020BD60 - gt2k_menu::SelectColorUnit::SelectColorUnit]
 
-// 020BD04 - gt2k_menu::Transitive<1>::ApplyAnimation (recreated)
+[020BD04 - gt2k_menu::Transitive<1>::ApplyAnimation (recreated)]
 
-// Expand gt2k_menu::TaikenSequence by 16 bytes to fit an extra menu entry
+[Expand gt2k_menu::TaikenSequence by 16 bytes to fit an extra menu entry]
 patch=0,EE,10201334,extended,00E8
 
-// Shrink userSelections::colorIndex to 2 bytes
+[Shrink userSelections::colorIndex to 2 bytes]
 patch=0,EE,1020928A,extended,84E2 // lh v0,(a3).colorIndex (0x0)
 patch=0,EE,1020A09E,extended,A483 // sh v1,(a0).colorIndex (0x0)
 
-// Shrink FrontendCarInfo::m_carColor to 2 bytes
+[Shrink FrontendCarInfo::m_carColor to 2 bytes]
 patch=0,EE,1020A246,extended,A602 // sh v0,(s0).m_carColor (0x4A0)
 patch=0,EE,1020EBA6,extended,8643 // lh v1,(s2).m_carColor (0x4A0)
 
-// Replace the hardcoded 0 model with FrontendCarInfo::m_carIndex
-// and populate it from the menu
+[Replace the hardcoded 0 model with FrontendCarInfo::m_carIndex]
+[and populate it from the menu]
 patch=0,EE,2020EB64,extended,848504A2 // lh a1,(a0).m_carIndex (0x4A2)
 patch=0,EE,2020A238,extended,8E0300D8 // lw v1,(s0).m_carSelect.value (0xD8)
 patch=0,EE,2020A240,extended,0C082A81 // jal CodeCave_SetCarIndex
 
-// Replace the hardcoded 0 model with FrontendCarInfo::m_carIndex
-// in FrontendCarInfo::Initialize
+[Replace the hardcoded 0 model with FrontendCarInfo::m_carIndex]
+[in FrontendCarInfo::Initialize]
 patch=0,EE,2020E5EC,extended,848504A2 // lh a1,(a0).m_carIndex (0x4A2)
 
-// CodeCave_SetCarIndex:
+[CodeCave_SetCarIndex:]
 patch=0,EE,2020AA04,extended,A60304A2 // sh v1, (s0).m_carIndex (0x4A2)
 patch=0,EE,2020AA08,extended,0808C9BE // j Control::getButtons(void)
 patch=0,EE,2020AA0C,extended,0220202D // move a0,s1
 
-// Repurpose RaceEntryBase::field_4 (unused, set to 6 once, number of cars in the race?) as a current player car index
+[Repurpose RaceEntryBase::field_4 (unused, set to 6 once, number of cars in the race?) as a current player car index]
 patch=0,EE,2021740C,extended,00000000 // nop
 
-// Split PrepareRaceHolding into two functions - one initializing the race organization, the other initializing
-// the array of cars in RaceEntryBase
+[Split PrepareRaceHolding into two functions - one initializing the race organization, the other initializing]
+[the array of cars in RaceEntryBase]
 
-// Prepare PrepareRaceHolding_split2
+[Prepare PrepareRaceHolding_split2]
 patch=0,EE,2021617C,extended,27BDFFC0 // addiu sp,sp,-0x40
 patch=0,EE,20216180,extended,FFB20020 // sd s2,0x20(sp)
 patch=0,EE,20216184,extended,FFB10010 // sd s1,0x10(sp)
@@ -178,7 +178,7 @@ patch=0,EE,2021618C,extended,FFBF0030 // sd ra,0x30(sp)
 patch=0,EE,20216190,extended,1000FFE9 // b 0x00216138
 patch=0,EE,20216194,extended,0000882D // move s1,zero
 
-// PrepareRaceHolding_split2_Call
+[PrepareRaceHolding_split2_Call]
 patch=0,EE,20216198,extended,27BDFFE0 // addiu sp,sp,-0x20
 patch=0,EE,2021619C,extended,FFB00000 // sd s0,0x0(sp)
 patch=0,EE,202161A0,extended,FFBF0010 // sd ra,0x10(sp)
@@ -201,12 +201,12 @@ patch=0,EE,202161F0,extended,DFB00000 // ld s0,0x0(sp)
 patch=0,EE,202161F4,extended,03E00008 // jr ra
 patch=0,EE,202161F8,extended,27BD0020 // addiu sp,sp,0x20
 
-// raceOrganization->m_raceEntry->m_entries will be 0 at this point so NOP the access
+[raceOrganization->m_raceEntry->m_entries will be 0 at this point so NOP the access]
 patch=0,EE,202003BC,extended,00000000 // nop
 
-// Call PrepareRaceHolding_split2 before dereferencing s1
-// and swap v0/s1 around so we don't need to save the return value of this 'function'
-// PrepareRaceHolding_split2 needs to return the current car in v0
+[Call PrepareRaceHolding_split2 before dereferencing s1]
+[and swap v0/s1 around so we don't need to save the return value of this 'function']
+[PrepareRaceHolding_split2 needs to return the current car in v0]
 patch=0,EE,20200448,extended,0C085866 // jal PrepareRaceHolding_split2_Call
 patch=0,EE,2020044C,extended,87B100E0 // lh s1,0x140+userOptions(sp) (0xE0)
 patch=0,EE,10200452,extended,AC51 // sw s1,?(v0)
@@ -216,7 +216,7 @@ patch=0,EE,1020046A,extended,AC51 // sw s1,?(v0)
 patch=0,EE,10200472,extended,AC43 // sw v1,?(v0)
 patch=0,EE,1020047A,extended,AC44 // sw a0,?(v0)
 
-// Prepare a new gt2k_menu::TaikenSequence::UpdateColorSelect(this) method
+[Prepare a new gt2k_menu::TaikenSequence::UpdateColorSelect(this) method]
 patch=0,EE,2022D610,extended,27BDFFF0 // addiu sp,sp,-0x10
 patch=0,EE,2022D614,extended,FFBF0000 // sd ra,0x0(sp)
 
@@ -235,7 +235,7 @@ patch=0,EE,2022D644,extended,240A0001 // li t2,0x1
 patch=0,EE,2022D648,extended,54A00001 // bnel a1,zero,UpdateColorSelect_SetTile
 patch=0,EE,2022D64C,extended,240A0003 // li t2,0x3
 
-// UpdateColorSelect_SetTile:
+[UpdateColorSelect_SetTile:]
 patch=0,EE,2022D650,extended,0067102B // sltu v0,v1,a3
 patch=0,EE,2022D654,extended,1040000F // beq v0,zero,UpdateColorSelect_HideTile
 patch=0,EE,2022D658,extended,24090003 // li t1,0x3
@@ -254,7 +254,7 @@ patch=0,EE,2022D688,extended,24C60018 // addiu a2,a2,0x18
 patch=0,EE,2022D68C,extended,1000FFF0 // b UpdateColorSelect_SetTile
 patch=0,EE,2022D690,extended,24630001 // addiu v1,v1,0x1
 
-// UpdateColorSelect_HideTile:
+[UpdateColorSelect_HideTile:]
 patch=0,EE,2022D694,extended,2C62000C // sltiu v0,v1,0x000C
 patch=0,EE,2022D698,extended,10400006 // beq v0,zero,UpdateColorSelect_End
 patch=0,EE,2022D69C,extended,8D040000 // lw a0,0x0(t0)
@@ -264,13 +264,13 @@ patch=0,EE,2022D6A8,extended,25080004 // addiu t0,t0,0x4
 patch=0,EE,2022D6AC,extended,1000FFF9 // b UpdateColorSelect_HideTile
 patch=0,EE,2022D6B0,extended,24630001 // addiu v1,v1,0x1
 
-// UpdateColorSelect_End
+[UpdateColorSelect_End]
 patch=0,EE,2022D6B4,extended,DFBF0000 // ld ra,0x0(sp)
 patch=0,EE,2022D6B8,extended,03E00008 // jr ra
 patch=0,EE,2022D6BC,extended,27BD0010 // addiu sp,sp,0x10
 
 
-// Prepare a new gt2k_menu::TaikenSequence::UpdateBadgeVisibility(this) method
+[Prepare a new gt2k_menu::TaikenSequence::UpdateBadgeVisibility(this) method]
 patch=0,EE,2022D6C0,extended,8C8400D8 // lw a0,0xD8(a0)
 patch=0,EE,2022D6C4,extended,240A0001 // li t2,0x1
 patch=0,EE,2022D6C8,extended,0000582D // li t3,zero
@@ -278,39 +278,39 @@ patch=0,EE,2022D6CC,extended,54800002 // bnel a0,zero,UpdateBadgeVisibility_Togg
 patch=0,EE,2022D6D0,extended,240A0003 // li t2,0x3
 patch=0,EE,2022D6D4,extended,240B0001 // li t3,0x1
 
-// UpdateBadgeVisibility_ToggleCarBadge
+[UpdateBadgeVisibility_ToggleCarBadge]
 patch=0,EE,2022D6D8,extended,8F848BB4 // lw a0,-0x744C(gp) (gCarBadgeTexture)
 patch=0,EE,2022D6DC,extended,AC8B00C4 // sw t3,0xC4(a0)
 patch=0,EE,2022D6E0,extended,8C840008 // lw a0,0x8(a0)
 
-// UpdateBadgeVisibility_ToggleCarBadge_Child:
+[UpdateBadgeVisibility_ToggleCarBadge_Child:]
 patch=0,EE,2022D6E4,extended,50800004 // beql a0,zero,UpdateBadgeVisibility_ToggleCarSpecs
 patch=0,EE,2022D6E8,extended,8F848BC0 // lw a0,-0x7440(gp) (gCarSpecsSlider)
 patch=0,EE,2022D6EC,extended,AC8A0024 // sw t2,0x24(a0)
 patch=0,EE,2022D6F0,extended,1000FFFC // b UpdateBadgeVisibility_ToggleCarBadge_Child
 patch=0,EE,2022D6F4,extended,8C840004 // lw a0,0x4(a0)
 
-// UpdateBadgeVisibility_ToggleCarSpecs
+[UpdateBadgeVisibility_ToggleCarSpecs]
 patch=0,EE,2022D6F8,extended,AC8B00C4 // sw t3,0xC4(a0)
 patch=0,EE,2022D6FC,extended,8C840008 // lw a0,0x8(a0)
 
-// UpdateBadgeVisibility_ToggleCarSpecs_Child:
+[UpdateBadgeVisibility_ToggleCarSpecs_Child:]
 patch=0,EE,2022D700,extended,50800004 // beql a0,zero,UpdateBadgeVisibility_ToggleCarSpecs_ToggleCarPower
 patch=0,EE,2022D704,extended,8F848BB8 // lw a0,-0x7448(gp) (g4WDText)
 patch=0,EE,2022D708,extended,AC8A0024 // sw t2,0x24(a0)
 patch=0,EE,2022D70C,extended,1000FFFC // b UpdateBadgeVisibility_ToggleCarSpecs_Child
 patch=0,EE,2022D710,extended,8C840004 // lw a0,0x4(a0)
 
-// UpdateBadgeVisibility_ToggleCarSpecs_ToggleCarPower
+[UpdateBadgeVisibility_ToggleCarSpecs_ToggleCarPower]
 patch=0,EE,2022D714,extended,AC8A0024 // sw t2,0x24(a0)
 patch=0,EE,2022D718,extended,8F848BBC // lw a0,-0x7444(gp) (gCarPowerText)
 
-// UpdateBadgeVisibility_ToggleCarSpecs_End
+[UpdateBadgeVisibility_ToggleCarSpecs_End]
 patch=0,EE,2022D71C,extended,03E00008 // jr ra
 patch=0,EE,2022D720,extended,AC8A0024 // sw t2,0x24(a0)
 
 
-// Prepare a new gt2k_menu::TaikenSequence::FadeCarOnSelect() method
+[Prepare a new gt2k_menu::TaikenSequence::FadeCarOnSelect() method]
 patch=0,EE,2022D724,extended,27BDFFF0 // addiu sp,sp,-0x10
 patch=0,EE,2022D728,extended,FFBF0000 // sd ra,0x0(sp)
 
@@ -332,8 +332,8 @@ patch=0,EE,2022D760,extended,100081EF // b gt2k_menu::CameraMan::ResetRotation
 patch=0,EE,2022D764,extended,27BD0010 // addiu sp,sp,0x10
 
 
-// Initialize the new menu option in gt2k_menu::TaikenSequence::PreMenu
-// Reuse the unwind code paths for this
+[Initialize the new menu option in gt2k_menu::TaikenSequence::PreMenu]
+[Reuse the unwind code paths for this]
 patch=0,EE,202092E0,extended,84E20002 // lh v0,(a3).carIndex (0x2)
 patch=0,EE,202092E8,extended,AE2200D8 // sw v0,(s1).m_carSelect.value (0xD8)
 patch=0,EE,202092EC,extended,AE2300E4 // sw v1,(s1).m_carSelect.clampValues (0xE4)
@@ -345,31 +345,31 @@ patch=0,EE,202092FC,extended,0C08B584 // jal gt2k_menu::TaikenSequence::UpdateCo
 patch=0,EE,20209300,extended,0220202D // move a0,s1
 patch=0,EE,20209304,extended,1000000F // b 0x00209344
 
-// Call gt2k_menu::TaikenSequence::UpdateBadgeVisibility when initializing badges
+[Call gt2k_menu::TaikenSequence::UpdateBadgeVisibility when initializing badges]
 patch=0,EE,2020620C,extended,0200202D // move a0,s0
 patch=0,EE,20206210,extended,0808B5B0 // j gt2k_menu::TaikenSequence::UpdateBadgeVisibility
 
 patch=0,EE,20206244,extended,1000FFF1 // b 0x0020620C
 
 
-// Update the race paramaters using the newly added menu option
+[Update the race paramaters using the newly added menu option]
 patch=0,EE,20201488,extended,8E0300D8 // lw v1,(s0).m_carSelect.value (0xD8)
 patch=0,EE,2020148C,extended,1000FF04 // b sub_2010A0
 patch=0,EE,20201490,extended,A4830002 // sh v1,(a0).carIndex (0x2)
 patch=0,EE,2020A0B4,extended,0C080522 // jal sub_201488
 
-// Change the color select sound to the "secondary selection" high pitched one,
-// as we'll use the "main selection" lower pitched one for the car selection
+[Change the color select sound to the "secondary selection" high pitched one,]
+[as we'll use the "main selection" lower pitched one for the car selection]
 patch=0,EE,10209580,extended,000A // li a0,0xA
 
-// Update the camera manager pan out animation not to destroy the object, but to loop it
+[Update the camera manager pan out animation not to destroy the object, but to loop it]
 patch=0,EE,202A2368,extended,00000001 // SkipFrames
 
-// Store the pointer to the camera manager for later
+[Store the pointer to the camera manager for later]
 patch=0,EE,2020DF1C,extended,AF8483B0 // sw a0,-0x7C50(gp) (gCameraMan)
 patch=0,EE,202027C8,extended,0C0837C7 // jal gt2k_menu::CameraMan::SetPointerAndResetRotation
 
-// Instead, mark it for destruction when fading out the UI elements when backing out
+[Instead, mark it for destruction when fading out the UI elements when backing out]
 patch=0,EE,20204E78,extended,8F8483B0 // lw a0,-0x7C50(gp) (gCameraMan)
 patch=0,EE,20204E7C,extended,24020001 // addiu v0,zero,0x1
 patch=0,EE,20204E80,extended,1000F1B3 // b gt2k_menu::TaikenSequence::NotifyAnimationDone
@@ -377,9 +377,9 @@ patch=0,EE,20204E84,extended,AC82001C // sw v0,0x1C(a0)
 
 patch=0,EE,202A3BCC,extended,00204E78 // NotifyAnimationDone_DestroyCameraMan
 
-// Add dpad left/dpad right menu navigation
+[Add dpad left/dpad right menu navigation]
 
-// CodeCave1:
+[CodeCave1:]
 patch=0,EE,20201494,extended,0C08C9C0 // jal Control::getButtonDown(void)
 patch=0,EE,20201498,extended,0220202D // move a0,s1
 patch=0,EE,2020149C,extended,30432000 // andi v1,v0,0x2000
@@ -393,7 +393,7 @@ patch=0,EE,202014B8,extended,0C0838E6 // jal AdvanceMenuOption
 patch=0,EE,202014BC,extended,260400D8 // addiu a0,s0.m_carSelect (0xD8)
 patch=0,EE,202014C0,extended,1000FE0D // b CodeCave2
 
-// CodeCave2:
+[CodeCave2:]
 patch=0,EE,20200CF8,extended,14400005 // bne v0,zero,0x00200D10
 patch=0,EE,20200CFC,extended,24040005 // li a0,0x5
 patch=0,EE,20200D00,extended,0C080434 // jal PlayUISound
@@ -407,10 +407,10 @@ patch=0,EE,20200D1C,extended,00000000 // nop
 
 patch=0,EE,20209610,extended,1040DFA0 // beq v0,zero,CodeCave1
 
-// Perform car switching in the menu
+[Perform car switching in the menu]
 
-// SwitchCarInMenu:
-// Falls through to gt2k_menu::TaikenSequence::UpdateColorSelect by design!
+[SwitchCarInMenu:]
+[Falls through to gt2k_menu::TaikenSequence::UpdateColorSelect by design!]
 patch=0,EE,2022D5B0,extended,27BDFFD0 // addiu sp,sp,-0x30
 patch=0,EE,2022D5B4,extended,FFB10020 // sd s1,0x20(sp)
 patch=0,EE,2022D5B8,extended,FFB00010 // sd s0,0x10(sp)
@@ -440,7 +440,7 @@ patch=0,EE,2022D608,extended,DFB10020 // ld s1,0x20(sp)
 patch=0,EE,2022D60C,extended,27BD0030 // addiu sp,sp,0x30
 
 
-// Switch cars in race
+[Switch cars in race]
 patch=0,EE,20216A24,extended,26250048 // addiu a1,s1,0x48
 patch=0,EE,20216A28,extended,03E00008 // jr ra
 patch=0,EE,20216A2C,extended,AC82000C // sw v0,0xC(a0)
@@ -462,20 +462,20 @@ patch=0,EE,2022EC50,extended,8C460004 // lw a2,0x4(v0)
 patch=0,EE,2022EC54,extended,03E00008 // jr ra
 patch=0,EE,2022EC58,extended,8C430000 // lw v1,0x0(v0)
 
-// Expand the color picker to have 12 entries max
+[Expand the color picker to have 12 entries max]
 
-// Rebuild gt2k_menu::SelectColorUnit::StopAnimations in a different place so our code cave isn't split
+[Rebuild gt2k_menu::SelectColorUnit::StopAnimations in a different place so our code cave isn't split]
 patch=0,EE,2020BBBC,extended,AC8001B0 // sw zero,0x1B0(a0)
 patch=0,EE,2020BBC0,extended,03E00008 // jr ra
 patch=0,EE,2020BBC4,extended,AC8000E8 // sw zero,0xE8(a0)
 
-// Build gt2k_menu::Transitive<1>::ApplyAnimation by offsetting a this pointer
-// into gt2k_menu::SelectColorUnit::ApplyColorSampleAnimation
+[Build gt2k_menu::Transitive<1>::ApplyAnimation by offsetting a this pointer]
+[into gt2k_menu::SelectColorUnit::ApplyColorSampleAnimation]
 patch=0,EE,2020BD04,extended,2484FFDC // addiu a0,a0,-0x24
 
-// Build a helper function
-// gt2k_menu::SelectColorUnit::CreateNoColorName(gt2k_menu::Object* parent, int position)
-// and modify gt2k_menu::SelectColorUnit::SelectColorUnit for our needs
+[Build a helper function]
+[gt2k_menu::SelectColorUnit::CreateNoColorName(gt2k_menu::Object* parent, int position)]
+[and modify gt2k_menu::SelectColorUnit::SelectColorUnit for our needs]
 patch=0,EE,1020BDD8,extended,0020
 patch=0,EE,1020BDF4,extended,3B30 // li ?, gt2k_menu::SideRuler::RectanglePreRender (0x00203B30)
 patch=0,EE,1020BF20,extended,3C60 // li ?, gt2k_menu::SideRuler::RectanglePreRender (0x00203C60)
@@ -502,7 +502,7 @@ patch=0,EE,2020BC0C,extended,DFB10000 // ld s1,0x0(sp)
 patch=0,EE,2020BC10,extended,10000053 // b gt2k_menu::SelectColorUnit::SelectColorUnit
 patch=0,EE,2020BC14,extended,27BD0030 // addiu sp,sp,0x30
 
-// Expand InitializeSelectColorUnits
+[Expand InitializeSelectColorUnits]
 patch=0,EE,20204E00,extended,2405000F // li a1,0xF
 
 patch=0,EE,20204E08,extended,0C082EF2 // jal gt2k_menu::SelectColorUnit::CreateNoColorName
@@ -534,7 +534,7 @@ patch=0,EE,20204E6C,extended,0260202D // move a0,s3
 patch=0,EE,20204E70,extended,1000000A // b 0x00204E9C
 patch=0,EE,20204E74,extended,AF8283EC // sw v0,-0x7C14(gp)
 
-// Expand ResetSelectColorUnits
+[Expand ResetSelectColorUnits]
 patch=0,EE,20205100,extended,10001AC5 // b 0x0020BC18
 
 patch=0,EE,2020BC18,extended,ACA001B0 // sw zero,0x1B0(a1)
@@ -576,7 +576,7 @@ patch=0,EE,2020BCA4,extended,8F8483EC // lw a0,-0x7C14(gp)
 patch=0,EE,2020BCA8,extended,1000E517 // b 0x00205108
 patch=0,EE,2020BCAC,extended,00000000 // nop
 
-// Move the remaining options down on the ruler so new colors don't overlap them
+[Move the remaining options down on the ruler so new colors don't overlap them]
 patch=0,EE,10207604,extended,001B
 patch=0,EE,102077BC,extended,001B
 patch=0,EE,10209740,extended,001B
@@ -590,7 +590,7 @@ patch=0,EE,102089EC,extended,0025
 patch=0,EE,10208BA4,extended,0025
 patch=0,EE,10209B58,extended,0025
 
-// Create the color tables
+[Create the color tables]
 patch=0,EE,202A0870,extended,00000005
 patch=0,EE,202A0874,extended,3F800000 // 1
 patch=0,EE,202A0878,extended,3F800000 // 1
@@ -861,7 +861,7 @@ patch=0,EE,202A086C,extended,002A0B54
 description=Automatically put gamepads in an analog mode, like in later Gran Turismo games.
 author=Silent
 
-// Build ControlManagerClass::PSPort::TryPutInAnalogMode
+[Build ControlManagerClass::PSPort::TryPutInAnalogMode]
 patch=0,EE,20231EF4,extended,1480003B // bne a0,zero,0x231FE4
 patch=0,EE,20231EF8,extended,27BDFFD0 // addiu sp,sp,-0x30
 patch=0,EE,20231EFC,extended,FFBF0000 // sd ra,0x0(sp)
@@ -907,8 +907,8 @@ patch=0,EE,20231FE8,extended,30C400FF // andi a0,a2,0x00FF
 patch=0,EE,20231FEC,extended,03E00008 // jr ra
 patch=0,EE,20231FF0,extended,3C02002B // lui v0,0x002B
 
-// s1 is unused by the calling function at this point yet but it preserves it
-// so we don't need to
+[s1 is unused by the calling function at this point yet but it preserves it]
+[so we don't need to]
 patch=0,EE,2023287C,extended,0C08C7BD // jal ControlManagerClass::PSPort::TryPutInAnalogMode
 patch=0,EE,20232880,extended,00000000 // nop
 
@@ -916,8 +916,8 @@ patch=0,EE,20232880,extended,00000000 // nop
 description=Maps throttle and brake to triggers, like in modern GT games.
 author=Silent
 
-// Create a function to scale the input by 256/255
-// ScaleTriggerInputs
+[Create a function to scale the input by 256/255]
+[ScaleTriggerInputs]
 patch=0,EE,20215FD0,extended,00042A00 // sll a1,a0,0x08
 patch=0,EE,20215FD4,extended,000433C0 // sll a2,a0,0x0F
 patch=0,EE,20215FD8,extended,00C52821 // addu a1,a2,a1
@@ -957,7 +957,7 @@ patch=0,EE,20215F94,extended,DFBF0000 // ld ra,0x0(sp)
 patch=0,EE,20215F98,extended,03E00008 // jr ra
 patch=0,EE,20215F9C,extended,27BD0010 // addiu sp,sp,0x10
 
-// TryGetAnalogInput
+[TryGetAnalogInput]
 patch=0,EE,20215FA0,extended,14400009 // bne v0,zero,0x00215FC8
 patch=0,EE,20215FA4,extended,3C04002B // lui a0,0x002B
 patch=0,EE,20215FA8,extended,2484B858 // addiu a0,a0,-0x47A8
@@ -981,12 +981,12 @@ patch=0,EE,202166EC,extended,00000000 // nop
 description=Disables the demo time limit.
 author=Silent, krat0s
 
-// Set the UI timer to 0 seconds, which disables it.
+[Set the UI timer to 0 seconds, which disables it.]
 patch=0,EE,20216130,extended,00000000 // nop
 
-// Disable "Time limit xxx" drawing.
+[Disable "Time limit xxx" drawing.]
 patch=0,EE,20219844,extended,00000000 // nop
 
-// Disable a 121s replay check that's active during the race
+[Disable a 121s replay check that's active during the race]
 patch=0,EE,20216518,extended,03E00008 // jr ra
 patch=0,EE,2021651C,extended,0000102D // daddu v0,zero,zero

@@ -4,24 +4,24 @@ gametitle=Juuni Kokuki - Guren no Shirube, Koujin no Michi (J)(SLPM-65338)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//80bf023c 00008244 00000000 2000a0e7
+[X-Fov]
+[80bf023c 00008244 00000000 2000a0e7]
 patch=1,EE,0013e7f0,word,3c02bf40 //3c02bf80
 
-//Render fix
+[Render fix]
 patch=1,EE,0013e4fc,word,3c023f20 //3c023f00
 
-//Font Fix
+[Font Fix]
 patch=1,EE,002537d8,word,3c023f40 //3c023f80
 
 
-///////////////////////////////////////////////////////
-//Zoom
+[/////////////////////////////////////////////////////]
+[Zoom]
 //patch=1,EE,0013e828,word,3c023f20 //3c023f00
 
-//Y-Fov
+[Y-Fov]
 //patch=1,EE,0013e908,word,08030000
 
 //patch=1,EE,000c0000,word,46000802

@@ -4,7 +4,7 @@ gametitle=Way of the Samurai (PAL-M3) (SLES-50921)
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9
+[16:9]
 patch=1,EE,00100024,word,3c1b3f40 // 00000000 hor fov
 patch=1,EE,00138380,word,449bf000 // 4600e007
 patch=1,EE,00138388,word,4600f787 // e7a00060

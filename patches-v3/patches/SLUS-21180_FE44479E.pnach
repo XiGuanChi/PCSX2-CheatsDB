@@ -4,24 +4,24 @@ gametitle=Onimusha: Dawn of Dreams (Disc 1) (SLUS-21180) / Onimusha: Dawn of Dre
 gsaspectratio=16:9
 author=nemesis2000
 
-//gameplay
+[gameplay]
 
-//val1
+[val1]
 patch=1,EE,0012F960,word,3c033f19
 patch=1,EE,0012F968,word,34649999
 
-//val2
+[val2]
 patch=1,EE,0012fb38,word,3c033f19
 patch=1,EE,0012fb40,word,34639999
 
-//val3
+[val3]
 patch=1,EE,0012f9c8,word,3c023f19
 patch=1,EE,0012f9cc,word,34439999
 
-//rfix1
+[rfix1]
 patch=1,EE,0012Fbb0,word,3c02c3d6
 
-//rfix1
+[rfix1]
 patch=1,EE,0012Faa0,word,3c024527
 
 

@@ -4,10 +4,10 @@ gametitle=Robin Hood - Defender of the Crown (U)(SLUS-20723)
 gsaspectratio=16:9
 author=Devina and Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//42a80146 2700013c
+[X-Fov]
+[42a80146 2700013c]
 patch=1,EE,0022778c,word,08097c04
 
 patch=1,EE,0025f010,word,4601a842

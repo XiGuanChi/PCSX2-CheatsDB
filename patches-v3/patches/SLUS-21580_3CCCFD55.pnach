@@ -4,7 +4,7 @@ gametitle=Pimp my Ride (U)(SLUS-21580)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,001e80fc,word,0806bcb4
 

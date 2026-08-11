@@ -5,7 +5,7 @@ gsaspectratio=16:9
 author=Bigdemon
 description=Widescreen hack conversion
 
-//hor fov (default = 3F800000)
+[hor fov (default = 3F800000)]
 
 patch=1,EE,202C1880,extended,3FC00000
 

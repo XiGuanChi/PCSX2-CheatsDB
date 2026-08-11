@@ -5,9 +5,9 @@ gsaspectratio=16:9
 author=Bigdemon
 description=Widescreen hack conversion
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
+[X-Fov]
 patch=1,EE,001c9d9c,word,3c023fe3 //3c023faa #1
 patch=1,EE,001c9da0,word,34428e33 //3442aa8f
 

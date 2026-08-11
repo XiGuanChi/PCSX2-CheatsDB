@@ -5,7 +5,7 @@ gsaspectratio=16:9
 author=sergx12
 description=Ported to PAL by ElHecht
 
-// 16:9
+[16:9]
 patch=1,EE,0012bd38,word,3c013f10 // 3c013f40 sky fix
 patch=1,EE,00388464,word,44105555 // 43d88000 cut-scenes
 patch=1,EE,0025aec8,word,3c013f40 // 3c013f40 cut-scenes

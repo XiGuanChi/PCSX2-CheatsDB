@@ -4,13 +4,13 @@ gametitle=Rogue Galaxy [PAL-M5] (SLES_545.52) CBB4B383
 gsaspectratio=16:9
 author=El_Patas
 description=Widescreen Hack
-//Gameplay 16:9
+[Gameplay 16:9]
 patch=1,EE,001C5E40,word,3C023F10 //3C023F40 (Increases hor. axis)
 
-//Compass
+[Compass]
 patch=1,EE,00377F9C,word,3C023F10 //3C023F40
 
-//FMV's fix
+[FMV's fix]
 patch=1,EE,001D4E2C,word,24060000 //02C23021 Top
 patch=1,EE,001D4E7C,word,240201C0 //00451021 Bottom
 

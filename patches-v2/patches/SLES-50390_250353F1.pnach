@@ -1,11 +1,11 @@
 gametitle=Driven (PAL-M) (SLES-50390) 250353F1
 
-//[Widescreen 16:9]
-//gsaspectratio=16:9
-//author=Arapapa
-//Missing render fix
+[[Widescreen 16:9]]
+[gsaspectratio=16:9]
+[author=Arapapa]
+[Missing render fix]
 
-//X-Fov
+[X-Fov]
 //patch=1,EE,001c00d8,word,08030000
 
 //patch=1,EE,000c0000,word,46010043

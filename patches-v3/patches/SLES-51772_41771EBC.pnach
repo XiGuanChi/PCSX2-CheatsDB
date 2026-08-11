@@ -4,8 +4,8 @@ gametitle=Bad Boys II (E)(SLES-51772) 41771EBC
 gsaspectratio=16:9
 author=Arapapa
 description=Widescreen hack
-//X-Fov
-//02631646 540014c6
+[X-Fov]
+[02631646 540014c6]
 patch=1,EE,002e860c,word,080e7748 //46166302
 patch=1,EE,0039dd20,word,46166302 //00000000
 patch=1,EE,0039dd24,word,3c013fa3 //00000000

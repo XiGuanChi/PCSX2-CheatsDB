@@ -4,10 +4,10 @@ gametitle=Brothers in Arms: Road to Hill 30 (SLUS-21163)
 gsaspectratio=16:9
 author=nemesis2000
 
-//gameplay
+[gameplay]
 patch=1,EE,00304f5c,word,3c023f40
 
-//menu font fix
+[menu font fix]
 patch=1,EE,003e4e3c,word,3c033f40
 patch=1,EE,003e4e44,word,3c033f80
 patch=1,EE,003e4e48,word,44830800

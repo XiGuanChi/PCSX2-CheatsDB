@@ -5,10 +5,10 @@ gsaspectratio=16:9
 author=El_Patas
 description=Renders the game in 16:9 aspect ratio
 
-//Fov
+[Fov]
 patch=1,EE,002CD40C,word,3C013FD5 //3C013FA0
 
-//Zoom
+[Zoom]
 patch=1,EE,003811F8,word,3C013EC0 //3C013F00
 
 [50/60 FPS]

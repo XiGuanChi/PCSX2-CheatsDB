@@ -4,7 +4,7 @@ gametitle=Aggressive Inline (SLUS-20327)
 gsaspectratio=16:9
 description=Widescreen patch by BloodRaynare (Based on PAL version by ElHecht)
 
-// 16:9
+[16:9]
 patch=1,EE,00101130,word,3c013f40 // 3c013f80 hor fov
 patch=1,EE,00272894,word,3c093f40 // 00000000 renderfix
 patch=1,EE,00101714,word,0809ca25 // 46000843

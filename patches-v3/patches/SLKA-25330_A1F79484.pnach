@@ -4,7 +4,7 @@ gametitle=Battlefield 2 - Mordern Combat (K)(SLKA-25330)
 gsaspectratio=16:9
 description=Widescreen hack by Nemesis (NTSC-K by Arapapa)
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,0022d660,word,3c013fab //3c013f80
 patch=1,EE,0022da98,word,3c013fab //3c013f80

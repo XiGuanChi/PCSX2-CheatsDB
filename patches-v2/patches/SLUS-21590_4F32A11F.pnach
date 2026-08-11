@@ -5,7 +5,7 @@ gsaspectratio=16:9
 author=nemesis2000 + CRASHARKI
 description=Patches the game to run at 16:9 Widescreen Aspect Ratio.
 
-//widescreen fix
+[widescreen fix]
 patch=1,EE,002653d8,word,3c013f9d
 patch=1,EE,002653dc,word,44810000
 patch=1,EE,002653e0,word,46006302
@@ -17,7 +17,7 @@ patch=1,EE,0037add4,word,0c0994f6
 patch=1,EE,003b9d14,word,0c0994f9
 patch=1,EE,003ba1b0,word,0c0994f9
 
-//Force widescreen from the start
+[Force widescreen from the start]
 patch=1,EE,21FB5830,byte,1
 
 [60 FPS]

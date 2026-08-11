@@ -4,14 +4,14 @@ gametitle=Monsters vs. Aliens (U)(SLUS-21870)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//Zoom (Menu and Cutscenes)
-//003f023c ec0081c6
+[Zoom (Menu and Cutscenes)]
+[003f023c ec0081c6]
 patch=1,EE,001abd20,word,3c023f1b //3c023f00
 
-////Y-Fov (Menu and Cutscenes)
-//03081546 1401a0e7
+[//Y-Fov (Menu and Cutscenes)]
+[03081546 1401a0e7]
 patch=1,EE,001abd9c,word,08030000
 
 patch=1,EE,000c0000,word,46150803
@@ -22,11 +22,11 @@ patch=1,EE,000c0010,word,461f0002
 patch=1,EE,000c0014,word,0806af68
 
 
-//Zoom (Gameplay)
-//003f023c 00008244 f00097c4
+[Zoom (Gameplay)]
+[003f023c 00008244 f00097c4]
 patch=1,EE,00233764,word,3c023f1b //3c023f00
 
-//Y-Fov (Gameplay)
+[Y-Fov (Gameplay)]
 patch=1,EE,0023376c,word,08030008
 
 patch=1,EE,000c0020,word,c49700f0

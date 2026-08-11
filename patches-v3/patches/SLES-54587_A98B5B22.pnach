@@ -1,11 +1,11 @@
 gametitle=Raw Danger! * SLES_545.87 * PAL * A98B5B22
-// same serial-code as A98B5AD6 & 8DD6DDA3 - the Undub version & NTSC Mode + Performance.
+[same serial-code as A98B5AD6 & 8DD6DDA3 - the Undub version & NTSC Mode + Performance.]
 
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=El_Patas
 
-//Gameplay 16:9
+[Gameplay 16:9]
 patch=1,EE,003A8360,word,43E00000 //43A00000 (Increases hor. axis)
 patch=1,EE,003A8380,word,43E00000 //43A00000
 patch=1,EE,0048C12C,word,3F400000 //3F800000

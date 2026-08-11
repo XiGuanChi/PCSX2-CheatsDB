@@ -4,7 +4,7 @@ gametitle=IHRA Drag Racing 2 (U)(SLUS-20586)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,0026ac60,word,080cbf04
 

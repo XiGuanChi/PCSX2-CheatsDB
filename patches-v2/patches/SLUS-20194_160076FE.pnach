@@ -4,11 +4,11 @@ description=Grandia II (NTSC-U) (SLUS-20194) Widescreen Hack (16:9)
 
 patch=1,EE,20213974,extended,3C013F40 //Main Camera FOV Fix
 
-//FMV fix (by flameofrecca)
+[FMV fix (by flameofrecca)]
 patch=1,EE,20401874,extended,42A00000 //FMV X Position
 patch=1,EE,2040187C,extended,43F00000 //FMV Width
 
-//GUI Fixes
+[GUI Fixes]
 patch=1,EE,202665E0,extended,00000000 //Enable Scaling More Sprites
 patch=1,EE,202665EC,extended,00000000 //Enable Rotating More Sprites
 patch=1,EE,2026C948,extended,08099A04 //Jump to Rectangle Scaling Code

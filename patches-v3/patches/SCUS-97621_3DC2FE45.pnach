@@ -4,7 +4,7 @@ gametitle=Twisted Metal - Head-On [Extra Twisted Edition] (NTSC-U) [SCUS-97621] 
 gsaspectratio=16:9
 description=Widescreen hacks by Aced14 Font Fixes by gamemasterplc
 
-//16:9 Widescreen
+[16:9 Widescreen]
 patch=1,EE,202D10A0,extended,4400A000 //442B8000 - Menu/Sweet Tour In-Game Cutscene Master X FOV
 patch=1,EE,202D10C0,extended,3F206D39 //3EF0A3D7 - Menu/Sweet Tour In-Game Cutscene Master Y FOV
 

@@ -4,7 +4,7 @@ gametitle=Shadow of Rome (J)(SLPM-65883)
 gsaspectratio=16:9
 description=Widescreen hack (NTSC-J by Arapapa)
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,00146c08,word,3c023f1f //3c023eee
 patch=1,EE,00146c10,word,344249f9 //3442eeef

@@ -4,7 +4,7 @@ gametitle=Obscure: The Aftermath  (SLUS-21709)
 description=Renders the game in 16:9 aspect ratio, instead of 4:3.
 gsaspectratio=16:9
 
-//gameplay based on ElHecht's values
+[gameplay based on ElHecht's values]
 patch=1,EE,00211b60,word,1600001f
 patch=1,EE,00211b64,word,8e5001ec
 patch=1,EE,00211b68,word,c621000c
@@ -18,13 +18,13 @@ patch=1,EE,00211b84,word,46010003
 
 patch=1,EE,00211be8,word,1000ffdf
 
-//rfix by ElHecht
+[rfix by ElHecht]
 patch=1,EE,00256234,word,3c033f2b
 
-//resolution fix (upped from 512x448 to 640x448) by nemesis2000
+[resolution fix (upped from 512x448 to 640x448) by nemesis2000]
 patch=1,EE,002125b4,word,24020280
 
-//FMV's fix  by nemesis2000
+[FMV's fix  by nemesis2000]
 patch=1,EE,0021114c,word,24020188
 patch=1,EE,00211150,word,14480003
 patch=1,EE,00211154,word,00000000

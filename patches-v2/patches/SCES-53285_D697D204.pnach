@@ -4,12 +4,12 @@ gametitle=Ratchet - Gladiator (PAL-M5) (SCES-53285)
 gsaspectratio=16:9
 author=ElHecht
 description=Widescreen Hack
-// enable widescreen mode in options
+[enable widescreen mode in options]
 patch=1,EE,e0010032,extended,00171e5c // check 00171e5c matches value xxxx0032
 patch=1,EE,20171e6b,extended,00000001 // 00000000
 
 
-// values to check for loop
+[values to check for loop]
 patch=1,EE,e0090000,extended,000ffdac // check 000ffdac matches value xxxx0000
 patch=1,EE,200ffdb0,extended,3f1eb852 // 00000000 gameplay
 patch=1,EE,200ffdb4,extended,3ed40674 // 00000000 cut-scenes value1
@@ -22,7 +22,7 @@ patch=1,EE,200ffdcc,extended,3f53a04b // 00000000 cooperative play4
 patch=1,EE,200ffdd0,extended,00000000 // 00000000 end of loop
 
 
-// 16:9 code-inject function (loop)
+[16:9 code-inject function (loop)]
 patch=1,EE,e0160000,extended,000ffdfc // check 000ffdfc matches value xxxx0000
 patch=1,EE,200ffe00,extended,3c013f40 // 00000000 hor fov
 patch=1,EE,200ffe04,extended,34210001 // 00000000 hor fov
@@ -48,7 +48,7 @@ patch=1,EE,200ffe50,extended,461e0002 // 00000000
 patch=1,EE,200ffe54,extended,46010002 // 00000000
 
 
-// Intro
+[Intro]
 patch=1,EE,e004caff,extended,00448224 // check 00448224 matches value xxxxcaff
 patch=1,EE,20448270,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,20448274,extended,00000000 // 46010002
@@ -56,7 +56,7 @@ patch=1,EE,200ffe58,extended,0811209d // 00000000 jump back to 20448274
 patch=1,EE,20448284,extended,14600007 // 10600007
 
 
-// DreadZone Station
+[DreadZone Station]
 patch=1,EE,e008caff,extended,00549494 // check 00549494 matches value xxxxcaff
 patch=1,EE,205494e0,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,205494e4,extended,00000000 // 46010002
@@ -75,7 +75,7 @@ patch=1,EE,2066a490,extended,1440000f // 1040000f alternative coop widescreen
 patch=1,EE,2052a03c,extended,1440006e // 1040006e alternative coop widescreen
 
 
-// Catacrom Four
+[Catacrom Four]
 patch=1,EE,e008caff,extended,004fbd4c // check 004fbd4c matches value xxxxcaff
 patch=1,EE,204fbd98,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,204fbd9c,extended,00000000 // 46010002
@@ -94,7 +94,7 @@ patch=1,EE,20619e40,extended,1440000f // 1040000f alternative coop widescreen
 patch=1,EE,204e0f3c,extended,1440006e // 1040006e alternative coop widescreen
 
 
-// Serathos
+[Serathos]
 patch=1,EE,e008caff,extended,004fbf5c // check 004fbf5c matches value xxxxcaff
 patch=1,EE,204fbfa8,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,204fbfac,extended,00000000 // 46010002
@@ -113,7 +113,7 @@ patch=1,EE,20619b50,extended,1440000f // 1040000f alternative coop widescreen
 patch=1,EE,204e2cbc,extended,1440006e // 1040006e alternative coop widescreen
 
 
-// Kronos
+[Kronos]
 patch=1,EE,e008caff,extended,00520064 // check 00520064 matches value xxxxcaff
 patch=1,EE,205200b0,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,205200b4,extended,00000000 // 46010002
@@ -132,7 +132,7 @@ patch=1,EE,20640490,extended,1440000f // 1040000f alternative coop widescreen
 patch=1,EE,20506d7c,extended,1440006e // 1040006e alternative coop widescreen
 
 
-// Shaar
+[Shaar]
 patch=1,EE,e008caff,extended,004f391c // check 004f391c matches value xxxxcaff
 patch=1,EE,204f3968,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,204f396c,extended,00000000 // 46010002
@@ -151,7 +151,7 @@ patch=1,EE,20611fc0,extended,1440000f // 1040000f alternative coop widescreen
 patch=1,EE,204da67c,extended,1440006e // 1040006e alternative coop widescreen
 
 
-// Orxon
+[Orxon]
 patch=1,EE,e008caff,extended,004fccdc // check 004fccdc matches value xxxxcaff
 patch=1,EE,204fcd28,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,204fcd2c,extended,00000000 // 46010002
@@ -170,7 +170,7 @@ patch=1,EE,2061cd68,extended,1440000f // 1040000f alternative coop widescreen
 patch=1,EE,204e3a3c,extended,1440006e // 1040006e alternative coop widescreen
 
 
-// The Valix Belt
+[The Valix Belt]
 patch=1,EE,e008caff,extended,004e4b5c // check 004e4b5c matches value xxxxcaff
 patch=1,EE,204e4ba8,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,204e4bac,extended,00000000 // 46010002
@@ -189,7 +189,7 @@ patch=1,EE,20604e18,extended,1440000f // 1040000f alternative coop widescreen
 patch=1,EE,204cb8bc,extended,1440006e // 1040006e alternative coop widescreen
 
 
-// Planet Torval
+[Planet Torval]
 patch=1,EE,e008caff,extended,00507c1c // check 00507c1c matches value xxxxcaff
 patch=1,EE,20507c68,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,20507c6c,extended,00000000 // 46010002
@@ -208,7 +208,7 @@ patch=1,EE,20627660,extended,1440000f // 1040000f alternative coop widescreen
 patch=1,EE,204ee97c,extended,1440006e // 1040006e alternative coop widescreen
 
 
-// Stygia
+[Stygia]
 patch=1,EE,e008caff,extended,004f459c // check 004f459c matches value xxxxcaff
 patch=1,EE,204f45e8,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,204f45ec,extended,00000000 // 46010002
@@ -227,7 +227,7 @@ patch=1,EE,20614488,extended,1440000f // 1040000f alternative coop widescreen
 patch=1,EE,204db2fc,extended,1440006e // 1040006e alternative coop widescreen
 
 
-// Maraxus
+[Maraxus]
 patch=1,EE,e008caff,extended,0050e4ac // check 0050e4ac matches value xxxxcaff
 patch=1,EE,2050e4f8,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,2050e4fc,extended,00000000 // 46010002
@@ -246,7 +246,7 @@ patch=1,EE,2062dd50,extended,1440000f // 1040000f alternative coop widescreen
 patch=1,EE,204f51bc,extended,1440006e // 1040006e alternative coop widescreen
 
 
-// Ghost Station
+[Ghost Station]
 patch=1,EE,e008caff,extended,00506ca4 // check 00506ca4 matches value xxxxcaff
 patch=1,EE,20506cf0,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,20506cf4,extended,00000000 // 46010002
@@ -265,7 +265,7 @@ patch=1,EE,206279a0,extended,1440000f // 1040000f alternative coop widescreen
 patch=1,EE,204ed9bc,extended,1440006e // 1040006e alternative coop widescreen
 
 
-// Battledome's Control Level
+[Battledome's Control Level]
 patch=1,EE,e008caff,extended,00518de4 // check 00518de4 matches value xxxxcaff
 patch=1,EE,20518e30,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,20518e34,extended,00000000 // 46010002
@@ -284,7 +284,7 @@ patch=1,EE,206380e0,extended,1440000f // 1040000f alternative coop widescreen
 patch=1,EE,204fdf3c,extended,1440006e // 1040006e alternative coop widescreen
 
 
-// Multiplayer
+[Multiplayer]
 patch=1,EE,e008caff,extended,004c28bc // check 004c28bc matches value xxxxcaff
 patch=1,EE,204c2908,extended,0803ff80 // c46000b0 jump to code-inject 200ffe00
 patch=1,EE,204c290c,extended,00000000 // 46010002

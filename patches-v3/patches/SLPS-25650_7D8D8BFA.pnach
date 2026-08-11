@@ -158,7 +158,7 @@ patch=1,EE,00493e4c,word,1040001b
 patch=1,EE,00493e50,word,03a0282d
 patch=1,EE,00493e54,word,3c013f40 //cutscenes
 
-//480p
+[480p]
 patch=1,EE,0010023c,word,3c050000
 patch=1,EE,00100244,word,3c060050
 patch=1,EE,0010024c,word,3c070001

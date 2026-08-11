@@ -4,7 +4,7 @@ gametitle=European Tennis Pro (E)(SLES-51813)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,00264a98,word,080b1714
 

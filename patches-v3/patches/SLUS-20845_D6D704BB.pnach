@@ -8,12 +8,12 @@ patch=1,EE,003c4cf4,word,3c013f40
 patch=1,EE,003c4cfc,word,44810800
 patch=1,EE,003c4d00,word,03e00008
 patch=1,EE,003c4d04,word,4601a083
-//weapon
+[weapon]
 patch=1,EE,00310f4c,word,c6740330
 patch=1,EE,00310f54,word,c7a30048
 patch=1,EE,00310f60,word,e7a20050
 patch=1,EE,00310f64,word,c6620330
-//gameplay
+[gameplay]
 patch=1,EE,001dcc34,word,8E440058
 patch=1,EE,001dcc40,word,e7a20040
 

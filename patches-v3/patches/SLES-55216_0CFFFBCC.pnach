@@ -4,9 +4,9 @@ gametitle=Baroque (PAL-E) (SLES-55216)
 gsaspectratio=16:9
 author=ElHecht
 
-//Apepars to totally break rendering in both hardware and software currently.
+[Apepars to totally break rendering in both hardware and software currently.]
 
-// 16:9
+[16:9]
 //patch=1,EE,0039f504,word,3c033f40 // 3c033f80 hor fov
 //patch=1,EE,0039f50c,word,4483f000 // 44832800
 //patch=1,EE,0039f510,word,461ef143 // 00000000
@@ -15,7 +15,7 @@ author=ElHecht
 //patch=1,EE,00166ff0,word,3c054028 // 3c054060 hud hp/vt
 //patch=1,EE,00167030,word,3c053ff0 // 3c054020 hud hp/vt
 
-// 16:10
+[16:10]
 //patch=1,EE,0039f504,word,3c033f55 // 3c033f80 hor fov
 //patch=1,EE,0039f508,word,34635555 // 3c033f80
 //patch=1,EE,0039f50c,word,4483f000 // 44832800
@@ -27,7 +27,7 @@ author=ElHecht
 //patch=1,EE,00166ff0,word,3c05403b // 3c054060 hud hp/vt
 //patch=1,EE,00167030,word,3c054006 // 3c054020 hud hp/vt
 
-// effects
+[effects]
 //patch=1,EE,002386d4,word,3c014500 // 3c013f80 remove ghosting effect
 //patch=1,EE,0010fc60,word,3c023e80 // 3c023f80 remove grain effect
 

@@ -4,7 +4,7 @@ gametitle=Medal of Honor - European Assault (NTSC-K)(SLKA-25243)
 gsaspectratio=16:9
 author=nemesis2000 (NTSC-K by Arapapa)
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 patch=1,EE,0012927c,word,00000000 //10400009
 
 
