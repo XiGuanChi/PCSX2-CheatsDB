@@ -22,8 +22,8 @@ patch=1,EE,202A8918,extended,3421FC95 // 34213D70
 patch=1,EE,202A8948,extended,3C013FE2 // 3C013FAA
 patch=1,EE,202A894C,extended,3421FC95 // 34213D70
 
-[Widescreen Inventory Fix by Switz0018 (UnstableZero)]
-[Fixes the position of the pedestal and player characters in the inventory screen.]
+// Widescreen Inventory Fix by Switz0018 (UnstableZero)
+// Fixes the position of the pedestal and player characters in the inventory screen.
 patch=1,EE,101C0A84,extended,0000425F // 0000423C - Player1 X
 patch=1,EE,101C1008,extended,00004422 // 000043F6 - Pedestal1 X
 patch=1,EE,101C0AEC,extended,0000C268 // 0000C22D - Player2 X

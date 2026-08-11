@@ -8,11 +8,11 @@ patch=1,EE,001b4f78,word,3421999a
 patch=1,EE,0012369c,word,3c014440
 patch=1,EE,0018645c,word,3c01442b
 
-[alternate values]
+// alternate values
 //patch=1,EE,203670C0,word,3F34CCCD // X-FoV
 //patch=1,EE,203670C4,word,3F5EEEEF // Y-FoV - HD remaster
 
-[portraits, dressphere and cursor width on menu]
+// portraits, dressphere and cursor width on menu
 patch=1,EE,002142cc,word,3c013f40
 
 [4:3 Aspect Ratio correction]
@@ -37,8 +37,8 @@ patch=1,EE,0012369c,word,3c014440
 patch=1,EE,0018645c,word,3c01442b
 patch=1,EE,002142cc,word,3c013f64
 
-[Incomplete 60 fps hack by asasega]
-[- might need EE overclocking to be stable.]
+// Incomplete 60 fps hack by asasega
+// - might need EE overclocking to be stable.
 //patch=1,EE,20315478,extended,080C552E
 
 [More Precise Completion Percentage]
@@ -50,12 +50,12 @@ description=Shows a more precise completion percentage in the save menu. Older s
 // but saves saved with this patch may show arbitrary completion values when
 // this patch is disabled.
 
-[Change code which calculates the completion percentage for save files]
-[This is originally done by taking min(100, (total event flags - not set event flags) / 5)]
-[e.g. min(100, (525 - 489) / 5) = 7%]
-[and then saved as a byte on [s2+0xC].]
-[The offsets 0xD..0xF are unused, so we can promote this directly to float.]
-[New formula = fminf(100.0f, (525 - 489) / 5.0f) = 7.2%]
+// Change code which calculates the completion percentage for save files
+// This is originally done by taking min(100, (total event flags - not set event flags) / 5)
+// e.g. min(100, (525 - 489) / 5) = 7%
+// and then saved as a byte on [s2+0xC].
+// The offsets 0xD..0xF are unused, so we can promote this directly to float.
+// New formula = fminf(100.0f, (525 - 489) / 5.0f) = 7.2%
 patch=0,EE,2024172C,extended,3C0140A0 // lui at,0x40A0
 patch=0,EE,20241730,extended,44810000 // mtc1 at,f00
 patch=0,EE,20241734,extended,44900800 // mtc1 s0,f01
@@ -68,12 +68,12 @@ patch=0,EE,2024174C,extended,00000000 // nop
 patch=0,EE,20241750,extended,46010029 // min.s f00,f00,f01
 patch=0,EE,20241754,extended,E640000C // swc1 f00,0xC(s2)
 
-[Now here's the code which sets up the completion percentage string in the save file screen]
+// Now here's the code which sets up the completion percentage string in the save file screen
 patch=0,EE,20242C20,extended,C6CC000C // lwc1 f12,0xC(s6)
-[Overwrite call to sprintf to unused Sony function (scePadGetSlotMax)]
-[so that we have some space to promote the float to double (as needed for sprintf)]
+// Overwrite call to sprintf to unused Sony function (scePadGetSlotMax)
+// so that we have some space to promote the float to double (as needed for sprintf)
 patch=0,EE,20242C2C,extended,0C0C8864 // jal z_un_00322190
-[modified callsite]
+// modified callsite
 patch=0,EE,20322190,extended,27BDFFD0 // addiu sp,sp,-0x30
 patch=0,EE,20322194,extended,7FBF0020 // sq ra,0x20(sp)
 patch=0,EE,20322198,extended,7FB00010 // sq s0,0x10(sp)
@@ -89,6 +89,6 @@ patch=0,EE,203221BC,extended,7BB00010 // lq s0,0x10(sp)
 patch=0,EE,203221C0,extended,7BB10000 // lq s1,0x0(sp)
 patch=0,EE,203221C4,extended,080CFFC2 // j z_un_0033ff08 ; j sprintf
 patch=0,EE,203221C8,extended,27BD0030 // addiu sp,sp,0x30
-[And edit the format string used for sprintf for displaying percentage in save menu]
+// And edit the format string used for sprintf for displaying percentage in save menu
 patch=0,EE,20484C10,extended,66312E25 // "%.1f"
 patch=0,EE,20484C14,extended,00002525 // "%%"<0><0>

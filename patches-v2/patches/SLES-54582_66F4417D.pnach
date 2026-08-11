@@ -4,9 +4,9 @@ gametitle=International Tennis Pro (E)(SLES-54582)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,002d1708,word,080c9e98 // c6010068
 patch=1,EE,002d170c,word,00000000 // c602006c
 

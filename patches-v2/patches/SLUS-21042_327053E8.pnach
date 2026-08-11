@@ -4,34 +4,34 @@ gametitle=gametitle=Darkwatch (SLUS-21042)
 gsaspectratio=16:9
 author=nemesis2000
 
-[gameplay]
+//gameplay
 patch=1,EE,00641770,word,3faaaaaa
 patch=1,EE,00641774,word,3fe38e38
 
-[coop]
+//coop
 patch=1,EE,00641930,word,402aaaaa
 patch=1,EE,00641934,word,40638e38
 patch=1,EE,0064194c,word,402aaaaa
 patch=1,EE,00641950,word,40638e38
 patch=1,EE,002CD9C4,word,24110001
 
-[cutscenes fix]
+//cutscenes fix
 //patch=1,EE,0036512c,word,3c033fab
 patch=1,EE,006c2c68,word,3fe38e38
 
-[text width fix]
+//text width fix
 patch=1,EE,0040da28,word,3c034455
 
-[custscenes black border's fix]
+//custscenes black border's fix
 patch=1,EE,0065ca78,word,00000000
 patch=1,EE,003de3dc,word,3c020000
 patch=1,EE,003de4ec,word,3c020000
 patch=1,EE,003de508,word,3c030000
 
-[subtitles fix]
+//subtitles fix
 patch=1,EE,0036bb74,word,24030000
 
-[FMV's fix]
+//FMV's fix
 patch=1,EE,003c5218,word,3c0143fe
 patch=1,EE,003c5230,word,44810800
 patch=1,EE,003c522c,word,00000000
@@ -47,7 +47,7 @@ patch=1,EE,003c5264,word,e7a100c4
 
 [60FPS]
 patch=1,EE,0071FA68,extended,00000001
-[480p]
+//480p
 [No-Interlacing]
 gsinterlacemode=1
 

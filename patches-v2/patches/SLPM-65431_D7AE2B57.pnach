@@ -4,7 +4,7 @@ gametitle=Sonic Heroes (NTSC-J)(SLPM-65431)
 gsaspectratio=16:9
 author=nemesis2000 (NTSC-J by Arapapa)
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 patch=1,EE,00167bcc,word,10000042 //10000041
 patch=1,EE,00167c24,word,1000002c //1000002b
 patch=1,EE,00167c40,word,10000025 //10000024
@@ -123,7 +123,7 @@ patch=1,EE,0016a514,word,7bb00000 //03e00008
 patch=1,EE,0016a518,word,03e00008 //27bd0020
 patch=1,EE,0016a51c,word,27bd0020 //00000000
 
-[480p (progressive scan)]
+//480p (progressive scan)
 //patch=1,EE,001009c4,word,3c050000 //00052c00
 //patch=1,EE,001009cc,word,3c060050 //00063400
 //patch=1,EE,001009d4,word,3c070001 //00073c00

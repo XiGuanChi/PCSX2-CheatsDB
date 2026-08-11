@@ -5,7 +5,7 @@ gsaspectratio=16:9
 author=nemesis2000
 description=Widescreen hack
 
-[widescreen fix]
+//widescreen fix
 patch=1,EE,002c470c,word,3c013faa
 patch=1,EE,002c4710,word,3421aaaa
 patch=1,EE,002c471c,word,46036302
@@ -20,19 +20,19 @@ patch=1,EE,002c473c,word,3c013eaa
 patch=1,EE,002c4740,word,3421aaab
 patch=1,EE,002c4744,word,44810000
 
-[fastboot widescreen]
+//fastboot widescreen
 patch=1,EE,003892B8,word,24020002
 
 
 [No Noise Filter]
 author=IWILLCRAFT
 description=Noise filter removal
-[noise off]
+//noise off
 patch=1,EE,2047ADC0,extended,00000000
 
 
 [Remove Blackbars]
 author=Maori-Jigglypuff (PAL by IWILLCRAFT)
 description=Removes black bars in cutscenes
-[No black Borders]
+// No black Borders
 patch=1,EE,0019E3D0,word,3C010000

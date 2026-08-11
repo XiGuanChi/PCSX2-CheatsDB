@@ -4,7 +4,7 @@ gametitle=Operation Air Assault (E)(SLES-52572)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,00181d80,word,08030000 // c6010068
 patch=1,EE,00181d84,word,00000000 // c602006c

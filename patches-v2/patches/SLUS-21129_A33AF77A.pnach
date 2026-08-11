@@ -16,7 +16,7 @@ patch=1,EE,201018D4,word,64420000
 [Undub]
 author=BloodRaynare
 description=Forces the use of the original Japanese voices at all times.
-[In-game voices]
+//In-game voices
 patch=1,EE,203ef4c4,word,0016a9a0
 patch=1,EE,203ef4c8,word,0016aa00
 patch=1,EE,203ef4cc,word,0016aa00
@@ -25,7 +25,7 @@ patch=1,EE,203ef4d4,word,0016aa00
 patch=1,EE,203ef4d8,word,0016aa00
 patch=1,EE,203ef4dc,word,0016aa00
 
-[In-game cutscenes]
+//In-game cutscenes
 patch=1,EE,203ef524,word,0016abb8
 patch=1,EE,203ef528,word,0016ac3c
 patch=1,EE,203ef52c,word,0016ac3c
@@ -34,7 +34,7 @@ patch=1,EE,203ef534,word,0016ac3c
 patch=1,EE,203ef538,word,0016ac3c
 patch=1,EE,203ef53c,word,0016ac3c
 
-[Enemy voices]
+//Enemy voices
 patch=1,EE,203ef5e4,word,0016aea0
 patch=1,EE,203ef5e8,word,0016af04
 patch=1,EE,203ef5ec,word,0016af04
@@ -43,7 +43,7 @@ patch=1,EE,203ef5f4,word,0016af04
 patch=1,EE,203ef5f8,word,0016af04
 patch=1,EE,203ef5fc,word,0016af04
 
-[FMV cutscenes]
+//FMV cutscenes
 patch=1,EE,202c26d8,word,5c4a415c
 patch=1,EE,202c2728,word,454e5c4a
 patch=1,EE,202c2774,word,5c4a415c

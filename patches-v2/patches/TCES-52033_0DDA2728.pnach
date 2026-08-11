@@ -4,7 +4,7 @@ gametitle=Syphon Filter: The Omega Strain Beta Trial Code (PAL-E) (TCES-52033) 0
 author=YukiXXL
 gsaspectratio=16:9
 
-[Gameplay fix]
+//Gameplay fix
 patch=1,EE,003907D0,extended,3C043F40
 patch=1,EE,203907D4,extended,44841800
 patch=1,EE,203907D8,extended,46030003

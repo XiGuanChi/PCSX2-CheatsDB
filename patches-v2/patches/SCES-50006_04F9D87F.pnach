@@ -4,12 +4,12 @@ gametitle=Drakan - The Ancients' Gates * PAL-M5 * SCES-50006 * 04F9D87F
 gsaspectratio=16:9
 author=Dreadmoth
 
-[16:9]
+// 16:9
 patch=1,EE,00132934,word,3C013F40 // AE43000C
 patch=1,EE,00132EC8,word,3C013F40 // C601010C
 patch=1,EE,00133030,word,3C013F68 // 46001002
 
-[==========]
+// ==========
 patch=1,EE,001328C0,word,460200C3 // 00000000
 patch=1,EE,001328C4,word,8E42011C // 460200C3
 patch=1,EE,001328C8,word,3C014280 // 8E42011C
@@ -42,7 +42,7 @@ patch=1,EE,00132930,word,AE400004 // 46000847
 patch=1,EE,00132938,word,4481B800 // AE400000
 patch=1,EE,0013293C,word,46170002 // 46030003
 patch=1,EE,00132940,word,46170842 // AE400004
-[==========]
+// ==========
 patch=1,EE,00132DF0,word,04400005 // 04400006
 patch=1,EE,00132DFC,word,46800860 // 00000000
 patch=1,EE,00132E00,word,10000006 // 46800860
@@ -98,7 +98,7 @@ patch=1,EE,00132EC4,word,46000847 // C60200EC
 patch=1,EE,00132ECC,word,4481A000 // 46001002
 patch=1,EE,00132ED0,word,46140002 // 8E030124
 patch=1,EE,00132ED4,word,46140842 // 46000847
-[==========]
+// ==========
 patch=1,EE,00132FAC,word,04A00005 // 04A00006
 patch=1,EE,00132FB8,word,46806320 // 00000000
 patch=1,EE,00132FBC,word,10000008 // 46806320
@@ -133,7 +133,7 @@ patch=1,EE,0013302C,word,46141082 // C601010C
 patch=1,EE,00133034,word,44811800 // 8E020118
 patch=1,EE,00133038,word,46030002 // 46000847
 patch=1,EE,0013303C,word,46030842 // 46141082
-[==========]
+// ==========
 
 [Widescreen 16:10]
 gsaspectratio=Stretch

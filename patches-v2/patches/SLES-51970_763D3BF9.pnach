@@ -4,7 +4,7 @@ gametitle=Nickelodeon SpongeBob SquarePants in: Battle for Bikini Bottom (PAL)
 gsaspectratio=16:9
 author=nemesis2000
 
-[gameplay]
+//gameplay
 patch=1,EE,0035c670,word,0c045286
 patch=1,EE,0035c674,word,00000000
 patch=1,EE,0035c678,word,3c023f40

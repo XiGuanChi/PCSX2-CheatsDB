@@ -7,7 +7,7 @@ patch=1,EE,001105e4,word,3c0143d6 //render fix
 patch=1,EE,00110ad0,word,3c013f19 //hor value first half
 patch=1,EE,00110ad4,word,3421999a //hor value second half
 
-[FMV's fix]
+//FMV's fix
 patch=1,EE,002a1308,word,70007000
 patch=1,EE,0010629c,word,3c071900
 

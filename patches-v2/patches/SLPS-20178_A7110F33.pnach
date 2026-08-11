@@ -4,9 +4,9 @@ gametitle=Samurai (J)(SLPS-20178)
 gsaspectratio=16:9
 description=author=ElHecht(NTSC-J by Arapapa)
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 //patch=1,EE,00154768,word,3c023f40 //3c023f80
 
 patch=1,EE,00100024,word,3c1b3f40 // 00000000 hor fov

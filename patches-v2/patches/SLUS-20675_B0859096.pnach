@@ -1,9 +1,9 @@
 gametitle=Baldur's Gate: Dark Alliance II * NTSC-U * SLUS-20675 * B0859096
 
-[==========]
-[To speed-up this game, set "EE Cyclerate" to 2]
-[under Config > Emulation Settings > Speedhacks.]
-[==========]
+// ==========
+// To speed-up this game, set "EE Cyclerate" to 2
+//  under Config > Emulation Settings > Speedhacks.
+// ==========
 
 [Widescreen 16:9]
 gsaspectratio=16:9
@@ -25,9 +25,9 @@ patch=1,EE,002c8698,word,3c013f1f
 patch=1,EE,002c869c,word,342149f1
 patch=1,EE,002c86a8,word,3c014440
 
-[///////]
+/////////
 
-[Render fix value by No.47]
+// Render fix value by No.47
 
 //patch=1,EE,002c456c,word,3c014288 // alternate Render fix value
 patch=1,EE,002c4574,word,3c013fe3
@@ -37,4 +37,4 @@ patch=1,EE,002c4578,word,3421d70a
 patch=1,EE,002c82dc,word,3c013fe3
 patch=1,EE,002c82e0,word,3421d70a
 
-[///////]
+/////////

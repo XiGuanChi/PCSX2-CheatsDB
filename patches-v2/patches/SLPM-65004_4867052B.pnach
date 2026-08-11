@@ -4,7 +4,7 @@ gametitle=Reiselied - Ephemeral Fantasia [NTSC-J] (SLPM-65004)
 gsaspectratio=16:9
 author=Little Giant
 
-[vert]
+//vert
 patch=1,EE,00230aa4,word,3c023fa2
 patch=1,EE,00230aa8,word,34472222
 patch=1,EE,002ccf18,word,3c023fa2
@@ -12,7 +12,7 @@ patch=1,EE,002ccf1c,word,34422222
 patch=1,EE,0032CE8C,word,3C023FA2
 patch=1,EE,0032CE90,word,34422222
 
-[zoom]
+//zoom
 patch=1,EE,00281778,word,3c013f40
 patch=1,EE,0028177C,word,4481f000
 

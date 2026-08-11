@@ -4,9 +4,9 @@ gametitle=Kamen Rider 555 (J)(SLPS-20329)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,001adae8,word,08048174 // c6010068
 patch=1,EE,001adaec,word,00000000 // c602006c
 

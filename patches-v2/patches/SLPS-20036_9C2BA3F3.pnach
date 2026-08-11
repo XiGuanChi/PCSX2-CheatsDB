@@ -4,9 +4,9 @@ gametitle=Magical Sports 2000 Koushien (J)(SLPS-20036)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 
 patch=1,EE,002c8c60,word,080cb8c4 // c6010068
 patch=1,EE,002c8c64,word,00000000 // c602006c

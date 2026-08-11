@@ -4,10 +4,10 @@ gametitle=Saiyuki Reload - Gunlock (K)(SLKA-15035)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[003f023c c03e033c]
+//X-Fov
+//003f023c c03e033c
 patch=1,EE,001b23fc,word,3c023F2A //3c023f00
 
 

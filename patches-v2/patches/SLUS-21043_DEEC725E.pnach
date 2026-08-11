@@ -4,19 +4,19 @@ gametitle=Backyard Wrestling 2 - There Goes the Neighborhood (U)(SLUS-21043)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[Y-Fov]
+//Y-Fov
 patch=1,EE,00231820,word,3c013fcc //3c013f99
 patch=1,EE,00231824,word,3421ccc4 //3421999a
 
-[Zoom]
+//Zoom
 //patch=1,EE,002319a0,word,3c013fab //3c013f80
-[2044013c 00108144]
+//2044013c 00108144
 patch=1,EE,00231804,word,3c014456 //3c014420
 
-[Render fix]
-[80bf013c 00608144]
+//Render fix
+//80bf013c 00608144
 patch=1,EE,0024635c,word,3c01bff0 //3c01bf80
 
 patch=1,EE,0022bd74,word,3c013ff0 //3c013f8c
@@ -32,14 +32,14 @@ patch=1,EE,00246cd8,word,3c013ff0 //3c013f8c
 patch=1,EE,00247a1c,word,3c013ff0 //3c013f8c
 patch=1,EE,0026c8b8,word,3c013ff0 //3c013f8c
 
-[/////////////////////////////////////////////]
-[Render fix]
+///////////////////////////////////////////////
+//Render fix
 //patch=1,EE,0020d570,word,3c013ff0 //3c013f80
 
-[ODD ZOOM xRENDER FIX(Different than Original Angle)]
+//ODD ZOOM xRENDER FIX(Different than Original Angle)
 //patch=1,EE,00107b88,word,3c0144F0 //3c014483
 
-[xxxxxx]
+//xxxxxx
 //patch=1,EE,00107b7c,word,3c0146f0 //3c014603
 //patch=1,EE,0020e228,word,3c0140f0 //3c014049
 //patch=1,EE,0020e170,word,3c0145f0 //3c014500

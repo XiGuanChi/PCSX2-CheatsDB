@@ -4,7 +4,7 @@ gametitle=Crash Bandicoot Wrath Of Cortex (SLES-50386) (PAL) Ver 2.01
 gsaspectratio=16:9
 description=Patches the game to run at 16:9 Widescreen Aspect Ratio.
 
-[16:9 hack]
+// 16:9 hack
 patch=1,EE,21D43044,extended,3F100000 // 3F400000
 
 [No-Interlacing]

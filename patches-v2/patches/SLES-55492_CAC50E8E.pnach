@@ -4,7 +4,7 @@ gametitle=SBK-09 - Superbike World Championship (PAL-M5) (SLES-55492)
 gsaspectratio=16:9
 author=ElHecht
 
-[16:9]
+// 16:9
 patch=1,EE,0013d448,word,4482e000 // 44820000
 patch=1,EE,0013d458,word,460ce002 // 460c0002
 patch=1,EE,0013d45c,word,4483e800 // 44830800

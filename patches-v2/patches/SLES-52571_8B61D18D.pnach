@@ -4,7 +4,7 @@ gametitle=Pacific Warriors II - Dogfight! (E)(SLES-52571)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,00182320,word,08030000 // c6010068
 patch=1,EE,00182324,word,00000000 // c602006c
@@ -17,11 +17,11 @@ patch=1,EE,000c0010,word,461e0843 // 00000000
 patch=1,EE,000c0014,word,e6010068 // 00000000
 patch=1,EE,000c0018,word,080608c9 // 00000000
 
-[68004cc4 00050046]
+//68004cc4 00050046
 patch=1,EE,002c508c,word,4600f306 //c44c0068
 
-[////////////////////////////////////]
-[X-Fov (include HUD fix. but needs render fix)]
+//////////////////////////////////////
+//X-Fov (include HUD fix. but needs render fix)
 //patch=1,EE,0018161c,word,08030009
 
 //patch=1,EE,000c0024,word,46070202

@@ -11,7 +11,7 @@ patch=1,EE,202F7FB8,extended,00A32825
 gsaspectratio=16:9
 author=ElHecht (NTSC-J by Arapapa)
 
-[16:9]
+// 16:9
 patch=1,EE,002fb184,word,3c194455 // 3c034420 hor fov
 patch=1,EE,002fb18c,word,37395555 // 44830800 hor fov
 patch=1,EE,002fb1a4,word,44990800 // 00000000

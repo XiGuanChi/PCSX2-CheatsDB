@@ -4,7 +4,7 @@ gametitle=Gallop Racer Inbreed (J)(SLPS-25701)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,e0023f80,extended,0012ba00
 patch=1,EE,2012ba00,extended,3c013f40 //3c013f80

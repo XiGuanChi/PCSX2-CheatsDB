@@ -4,12 +4,12 @@ gametitle=Project FIFA Worldcup - Sorenara kimi ga daihyou kantoku (J)(SLPS-2511
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,00132070,word,3c053f40 //3c053f80
 
-[Render fix]
+//Render fix
 patch=1,EE,001320d8,word,08044a28
 
 patch=1,EE,001128a0,word,46020842

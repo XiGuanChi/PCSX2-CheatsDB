@@ -4,7 +4,7 @@ gametitle=Harry Potter and the Sorcerer's Stone (PAL-M)
 gsaspectratio=16:9
 author=ElHecht
 description=Widescreen Hack
-[16:9]
+// 16:9
 patch=1,EE,0018da74,word,3c013f40 // e494d5c4 hor fov gameplay
 patch=1,EE,0018da78,word,ac81d5c4 // 0c0c17e4
 patch=1,EE,0018da80,word,0c0c17e4 // 00000000

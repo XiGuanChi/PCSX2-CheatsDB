@@ -4,10 +4,10 @@ gametitle=SX Superstar (E)(SLES-51495)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[83100146 5c00c4c4]
+//X-Fov
+//83100146 5c00c4c4
 patch=1,EE,0011f258,word,080d4368
 patch=1,EE,00350da0,word,46011083
 patch=1,EE,00350da4,word,3c013f40

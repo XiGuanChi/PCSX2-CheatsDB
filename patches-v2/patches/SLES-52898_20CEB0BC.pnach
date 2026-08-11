@@ -4,11 +4,11 @@ gametitle=The King of Fighters: Maximum Impact (SLES-52898)
 gsaspectratio=16:9
 author=nemesis2000
 
-[gameplay]
+//gameplay
 patch=1,EE,00381454,word,3c043f24
 patch=1,EE,0038148c,word,46010003
 
-[HUD fix]
+//HUD fix
 patch=1,EE,00389fa8,word,3c023f24
 patch=1,EE,00389fe0,word,46010842
 patch=1,EE,00389fe8,word,46010903
