@@ -1,27 +1,37 @@
-name: Rename Text
+name: Rename Text (Patches) in .pnach Files
 
 on:
-  workflow_dispatch:   # manual trigger from Actions tab
+  workflow_dispatch:   # allows manual trigger
+
+permissions:
+  contents: write      # needed to commit and push changes
 
 jobs:
-  replace-text:
+  rename:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history for commit
 
-      - name: Replace //Name with [Name] in .pnach files
-        run: |
-          # Find all .pnach files in cheats-v1 through cheats-v6
-          find cheats-v1 cheats-v2 cheats-v3 cheats-v4 cheats-v5 cheats-v6 \
-            -type f -name "*.pnach" -exec sed -i 's|//Name|[Name]|g' {} \;
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-      - name: Commit and push changes
+      - name: Run rename script
+        run: python .github/scripts/rename_pnach_patches.py
+
+      - name: Commit and push if changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add cheats-v*/.
-          # Only commit if there are staged changes
-          git diff --staged --quiet || git commit -m "Replace //Name with [Name] in .pnach files"
-          git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: replace //Name with [Name] in .pnach files"
+            git push
+          else
+            echo "No changes to commit."
+          fi
