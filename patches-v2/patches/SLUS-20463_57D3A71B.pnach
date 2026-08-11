@@ -4,9 +4,9 @@ gametitle=Dropship - United Peace Force (U)(SLUS-20463)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[0c000396 58000fc6 (2nd)]
+//0c000396 58000fc6 (2nd)
 patch=1,EE,0019d198,word,08088ab4 //c60f0058
 
 patch=1,EE,00222ad0,word,c60f0058

@@ -4,7 +4,7 @@ gametitle=J-League Winning Eleven 5 (J)(SLPM-62088)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,00e321c8,word,083eb44c // c6010068
 patch=1,EE,00e321cc,word,00000000 // c602006c

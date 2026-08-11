@@ -4,7 +4,7 @@ gametitle=Psi-Ops: The Mindgate Conspiracy [PAL-M5] (SLES_527.02) 5E7EB5E2
 gsaspectratio=16:9
 author=El_Patas
 description=Renders the game in 16:9 aspect ratio
-[Gameplay 16:9]
+//Gameplay 16:9
 patch=1,EE,0047015C,word,241102AA //00000000 (Increases hor. axis)
 
 [No-Interlacing]

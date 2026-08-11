@@ -4,7 +4,7 @@ gametitle=Racing Game - Chuui!!! (J)(SLPM-66043)
 gsaspectratio=16:9
 description=Widescreen hack (NTSC-J by Arapapa)
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,001a0c0c,word,3c013fab //3c013f80
 patch=1,EE,00182c70,word,3c013fab //3c013f80

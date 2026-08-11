@@ -4,10 +4,10 @@ gametitle=Dark Angel - Vampire Apocalpse (K)(SLPM-64537)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen 16:9]
+//Widescreen 16:9
 
-[X-Fov]
-[2400a0c7 3000a38f 000060e4]
+//X-Fov
+//2400a0c7 3000a38f 000060e4
 patch=1,EE,0021d45c,word,080836c8
 
 patch=1,EE,0020db20,word,c7a00024

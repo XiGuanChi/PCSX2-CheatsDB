@@ -4,9 +4,9 @@ gametitle=NFL Blitz Pro (U)(SLUS-20631)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,001a3d4c,word,08052fd4
 
 patch=1,EE,0014bf50,word,46000803
@@ -16,8 +16,8 @@ patch=1,EE,0014bf5c,word,461e0002
 patch=1,EE,0014bf60,word,08068f54
 
 
-[Render fix]
-[68008bc4 0800a327]
+//Render fix
+//68008bc4 0800a327
 patch=1,EE,001a2690,word,08052fd9
 
 patch=1,EE,0014bf64,word,c48b0068

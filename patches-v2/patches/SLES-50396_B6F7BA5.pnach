@@ -4,10 +4,10 @@ gametitle=Mike Tyson Heavyweight Boxing (E)(SLES-50396)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[03000146 a00040e4]
+//X-Fov
+//03000146 a00040e4
 patch=1,EE,001d1528,word,08085a48
 
 patch=1,EE,00216920,word,46010003

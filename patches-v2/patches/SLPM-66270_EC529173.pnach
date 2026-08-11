@@ -4,16 +4,16 @@ gametitle=Blazing Souls (J)(SLPM-66270)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,00215144,word,3c033f19 //3c033f4c
 patch=1,EE,00215148,word,3463999a //3463cccd
 
-[Render fix]
+//Render fix
 patch=1,EE,00215164,word,3c0343e0 //3c0343b9
 
-[2D fix]
+//2D fix
 patch=1,EE,00190504,word,3c023f19 //3c023f4c
 patch=1,EE,00190508,word,3442999a //3442cccd
 patch=1,EE,00190560,word,3c023f19 //3c023f4c
@@ -107,7 +107,7 @@ patch=1,EE,0021698c,word,3442999a //3442cccd
 patch=1,EE,00236bec,word,3c023f19 //3c023f4c
 patch=1,EE,00236bf0,word,3442999a //3442cccd
 
-[2D X-position]
+//2D X-position
 patch=1,EE,00190530,word,24437400 //24437000
 patch=1,EE,0019058c,word,24437400 //24437000
 patch=1,EE,001905e4,word,24437400 //24437000

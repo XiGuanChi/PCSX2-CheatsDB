@@ -4,12 +4,12 @@ gametitle=Inaka Kurasi - Nan no Shima no Monogatari (Super Best Collection) [NTS
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[Zoom]
+//Zoom
 patch=1,EE,00172a7c,word,3c0243a8 //3c0243e0
 
-[Y-Fov]
+//Y-Fov
 patch=1,EE,00172ab8,word,3c0243a8 //3c0243e0
 
 

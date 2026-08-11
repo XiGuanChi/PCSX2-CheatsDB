@@ -4,10 +4,10 @@ gametitle=Virtua Fighter - 10th Anniversary (J)(SLPM-68008)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[02100046 9200013c 6c1020ac]
+//X-Fov
+//02100046 9200013c 6c1020ac
 patch=1,EE,003a879c,word,080ead70
 patch=1,EE,003ab5c0,word,46013002
 patch=1,EE,003ab5c4,word,3c013f5e

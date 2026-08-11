@@ -4,7 +4,7 @@ gametitle=Warriors Orochi (NTSC-U)
 gsaspectratio=16:9
 author=ElHecht
 
-[16:9]
+// 16:9
 patch=1,EE,0019a3a8,word,3c023f19 // 3c023f4c hor fov 1-player x
 patch=1,EE,0019a3b0,word,3442999a // 3442cccd hor fov 1-player x
 patch=1,EE,0019a238,word,3c033f19 // 3c033f4c hor fov 2-players x

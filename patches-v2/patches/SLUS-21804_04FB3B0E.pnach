@@ -4,7 +4,7 @@ gametitle=Avatar - The Legend of Aang - Into the Inferno (NTSC-U / PAL)
 gsaspectratio=16:9
 author=ElHecht
 
-[16:9]
+//16:9
 patch=1,EE,00148364,word,3c023fe3 // 3c023faa
 patch=1,EE,00148378,word,34428e39 // 3442aaab
 

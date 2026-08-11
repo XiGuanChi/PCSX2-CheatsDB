@@ -5,7 +5,7 @@ gsaspectratio=16:9
 author=El_Patas
 description=Renders the game in 16:9 aspect ratio
 
-[Gameplay 16:9]
+//Gameplay 16:9
 patch=1,EE,20C156A4,extended,3F400000 //3F800000 (Increases hor. axis)
 
 [50 FPS]

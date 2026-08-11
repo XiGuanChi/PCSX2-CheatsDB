@@ -4,14 +4,14 @@ gametitle=Syphon Filter: Dark Mirror (SCUS-97362)
 gsaspectratio=16:9
 author=nemesis2000
 
-[480p+widescreen]
+//480p+widescreen
 patch=1,EE,0018d5dc,word,00000000
 patch=1,EE,0018d2ec,word,00000000
 
-[res fix]
+//res fix
 patch=1,EE,0018d02c,word,240401c0
 
-[fmv's fix]
+//fmv's fix
 patch=1,EE,00415588,word,24117100
 patch=1,EE,0041558c,word,24127200
 patch=1,EE,00415590,word,24131e00

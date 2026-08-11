@@ -4,10 +4,10 @@ gametitle=River Ride Adventure featuring Salomon (J)(SLPM-62758)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen 16:9]
+//Widescreen 16:9
 
-[X-Fov]
-[42ad0046 2000037e]
+//X-Fov
+//42ad0046 2000037e
 patch=1,EE,0011ce24,word,08030000
 patch=1,EE,000c0000,word,4600ad42
 patch=1,EE,000c0004,word,3c013f40

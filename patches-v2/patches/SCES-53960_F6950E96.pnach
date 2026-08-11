@@ -4,7 +4,7 @@ gametitle=B-Boy (E)(SCES-53960)
 gsaspectratio=16:9
 author=Arapapa
 
-[Wide Screen 16:9]
+//Wide Screen 16:9
 
 patch=1,EE,00308e5c,word,3c013ec7 //3c013f00
 

@@ -4,16 +4,16 @@ gametitle=Rally Fusion - Race of Champions (U)(SLUS-20361)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 
-[Zoom]
-[333f013c 33332134 43200146 > 063f013c 66662134 43200146]
+//Zoom
+//333f013c 33332134 43200146 > 063f013c 66662134 43200146
 patch=1,EE,001066e0,word,3c013f06 //3c013f33
 patch=1,EE,001066e4,word,34216666 //34213333
 
-[Y-Fov]
-[6000c0c4 c3180046]
+//Y-Fov
+//6000c0c4 c3180046
 patch=1,EE,00106714,word,08030000
 
 patch=1,EE,000c0000,word,460018c3

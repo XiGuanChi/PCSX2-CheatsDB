@@ -5,7 +5,7 @@ gsaspectratio=16:9
 description=Widescreen hack.
 author=ElHecht
 
-[16:9]
+// 16:9
 patch=1,EE,00126ddc,word,081032ec // e6000024 jump to code-inject 0040cbb0
 patch=1,EE,00126de0,word,00000000 // c7a10020
 
@@ -21,7 +21,7 @@ patch=1,EE,0040cbcc,word,08049b78 // 00000000 jump back to 00126de0
 [Font Fix]
 description=Corrects the font size for widescreen.
 author=Arapapa
-[Font fix]
+//Font fix
 patch=1,EE,00229c00,word,3c023f10 //3c023f40
 patch=1,EE,0022a99c,word,3c023f10 //3c023f40
 
@@ -29,14 +29,14 @@ patch=1,EE,0022a99c,word,3c023f10 //3c023f40
 description=Disables screen shaking entirely.
 author=Martyste
 gsinterlacemode=1
-[no interlacing]
+//no interlacing
 patch=1,EE,001AE890,extended,00000000 //00000002
 
 [Black Bar Fix]
 description=Removes black bars from the Intro and Cutscenes.
 author=ElHecht
 
-[Black Bar Fix]
+//Black Bar Fix
 patch=1,EE,001956dc,word,3c070000 //3c073f00
 patch=1,EE,001956e0,word,3c060000 //3c063fc0
 

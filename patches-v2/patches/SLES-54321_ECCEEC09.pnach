@@ -4,7 +4,7 @@ gametitle=Need for Speed - Carbon (PAL-E) (SLES-54321)
 author=Silent
 description=Fixes the career cash bonus not checking for Most Wanted: Black Edition.
 
-[Check for BESLES-53857 by reusing one of the unused UG2 serials (BASLUS-21065)]
+// Check for BESLES-53857 by reusing one of the unused UG2 serials (BASLUS-21065)
 patch=0,EE,205B0498,extended,4C534542
 patch=0,EE,205B049C,extended,352D5345
 patch=0,EE,205B04A0,extended,37353833

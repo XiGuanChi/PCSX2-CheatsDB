@@ -4,7 +4,7 @@ gametitle=Tengai Makyou II - Manji Maru (Tsujyo Level Shiyou) (J)(SLPM-65401) an
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,00141b00,word,3c02bf40
 

@@ -4,28 +4,28 @@ gametitle=Backyard Baseball (U)(SLUS-20865)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[Batting View Fov]
-[aa3f023c 00088344 93a94234]
+//Batting View Fov
+//aa3f023c 00088344 93a94234
 patch=1,EE,0013c23c,word,3c023fe3 //3c023faa
 patch=1,EE,0013c244,word,34428b48 //3442a993
 
-[Field View Fov]
-[aa3f023c 00088344 93a94234]
+//Field View Fov
+//aa3f023c 00088344 93a94234
 patch=1,EE,0013bdf8,word,3c023fe3 //3c023faa
 patch=1,EE,0013be00,word,34428b48 //3442a993
 
-[Announce]
+//Announce
 patch=1,EE,0013b410,word,3c023fe3 //3c023faa
 patch=1,EE,0013b418,word,34428b48 //3442a993
 
-[Replay]
+//Replay
 patch=1,EE,0013a1e0,word,3c023fe3 //3c023faa
 patch=1,EE,0013a1e8,word,34428b48 //3442a993
 
 
-[Etc (Replay Batting View, Intro Playgame and etc....)]
+//Etc (Replay Batting View, Intro Playgame and etc....)
 patch=1,EE,00139274,word,3c023fe3 //3c023faa
 patch=1,EE,0013927c,word,34428b48 //3442a993
 patch=1,EE,0013a340,word,3c023fe3 //3c023faa
@@ -69,11 +69,11 @@ patch=1,EE,0013c500,word,34428b48 //3442a993
 
 
 
-[////////////////////////////////////////////////////////]
-[xxx]
-[patch=1,EE,0013c400,word,3c023fe3 //3c023faa]
-[patch=1,EE,0013c408,word,34428b48 //3442a993]
-[patch=1,EE,0013b6d4,word,3c023fe3 //3c023faa]
-[patch=1,EE,0013b6dc,word,34428b48 //3442a993]
+//////////////////////////////////////////////////////////
+//xxx
+//patch=1,EE,0013c400,word,3c023fe3 //3c023faa
+//patch=1,EE,0013c408,word,34428b48 //3442a993
+//patch=1,EE,0013b6d4,word,3c023fe3 //3c023faa
+//patch=1,EE,0013b6dc,word,34428b48 //3442a993
 
 

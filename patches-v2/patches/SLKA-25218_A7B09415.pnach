@@ -4,7 +4,7 @@ gametitle=Hitman - Contracts (K)(SLKA-25218)
 gsaspectratio=16:9
 author=ElHecht (NTSC-K by Arapapa)
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 
 patch=1,EE,00266018,word,3c013f10 //3c013f40

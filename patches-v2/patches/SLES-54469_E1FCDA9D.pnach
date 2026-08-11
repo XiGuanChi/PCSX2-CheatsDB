@@ -4,7 +4,7 @@ gametitle=Home Alone PAL-M SLES-54469 E1FCDA9D
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,00181460,word,08030000
 
