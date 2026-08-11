@@ -4,10 +4,10 @@ gametitle=Flow - Urban Dance Uprising (E)(SLES-53848)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[42100146 803f033c 07000046]
+//X-Fov
+//42100146 803f033c 07000046
 patch=1,EE,002475b0,word,08030000
 
 patch=1,EE,000c0000,word,46011042

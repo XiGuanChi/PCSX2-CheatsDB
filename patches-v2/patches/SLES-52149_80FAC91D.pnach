@@ -23,13 +23,13 @@ patch=1,EE,0017A200,word,3C1B3F63
 patch=1,EE,001B79F4,word,377B8E39
 patch=1,EE,001B7A0C,word,AE1B008C
 
-[==========]
-[- Alternative 16:10 Widescreen hack by pgert.]
-[Might not work with all BIOS types & configurations.]
-[Fast boot recommended.]
+// ==========
+// - Alternative 16:10 Widescreen hack by pgert.
+//   Might not work with all BIOS types & configurations.
+//   Fast boot recommended.
 // patch=1,EE,21628ABC,extended,3F400000 // 3F800000 - X-axis
 // patch=1,EE,21628AC0,extended,3F666666 // 3F800000 - Y-axis
-[==========]
+// ==========
 
 [50 FPS]
 author=PeterDelta

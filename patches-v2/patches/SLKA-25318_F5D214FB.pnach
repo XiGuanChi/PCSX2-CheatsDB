@@ -4,18 +4,18 @@ gametitle=WWE SmackDown! vs Raw 2006 (K)(SLKA-25318)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[Zoom]
-[803f013c 00008144 2d20a003]
+//Zoom
+//803f013c 00008144 2d20a003
 //patch=1,EE,0011e980,word,3c013fab //3c013f80
 
-[/Y-Fov]
-[2044023c 00088244 00a08344]
+///Y-Fov
+//2044023c 00088244 00a08344
 //patch=1,EE,002242c8,word,3c024455 //3c024420
 
-[X-Fov Locker Room]
-[803f033c 0145023c]
+//X-Fov Locker Room
+//803f033c 0145023c
 //patch=1,EE,00224344,word,3c033f40 //3c033f80
 
 

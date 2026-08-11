@@ -4,9 +4,9 @@ gametitle=Surfing H3O (E)(SLES-50056)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,001d22d4,word,08030000
 
 patch=1,EE,000c0000,word,46070202

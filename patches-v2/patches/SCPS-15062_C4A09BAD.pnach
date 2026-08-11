@@ -4,7 +4,7 @@ gametitle=MTBikers: Bakusou Mountain Bikers (NTSC-J) [SCPS-15062]
 gsaspectratio=16:9
 description=MTBikers: Bakusou Mountain Bikers Widescreen Hacks (by Aced14)
 
-[16:9 Widescreen]
+//16:9 Widescreen
 
 patch=1,EE,101BBF70,extended,00004401 //3C01442C - Shell Menu Master X FOV
 

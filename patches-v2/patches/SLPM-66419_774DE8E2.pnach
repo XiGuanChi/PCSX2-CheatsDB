@@ -4,14 +4,14 @@ gametitle=Valkyrie Profile 2 - Silmeria [NTSC-J] (SLPM-66419)
 gsaspectratio=16:9
 author=nemesis2000
 
-[16:9]
+//16:9
 patch=1,EE,20150848,word,3f11eb85 //3eaaaaab
 
-[gameplay]
+//gameplay
 //patch=1,EE,0037F014,word,3c033f40
 //patch=1,EE,0037F018,word,34640000
 
-[Ignore GameGuard (prevents freezing)]
+//Ignore GameGuard (prevents freezing)
 patch=1,EE,D03897F4,extended,0000FFFA
 patch=1,EE,203897F4,extended,00000000
 patch=1,EE,D03DEB6C,extended,0000FFFA

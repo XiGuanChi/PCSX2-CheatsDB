@@ -4,7 +4,7 @@ gametitle=Wild Arms: Alter Code: F (SLUS-20937)
 gsaspectratio=16:9
 description=widescreen hack
 
-[widescreen by sergx12 (improved by nemesis 2000)]
+//widescreen by sergx12 (improved by nemesis 2000)
 patch=1,EE,00118af0,word,3c024455
 patch=1,EE,00118afc,word,3c023f40
 patch=1,EE,00118b34,word,460d6c43
@@ -59,7 +59,7 @@ patch=1,EE,001191a0,word,3c064455
 patch=1,EE,001191c8,word,460d6c43
 patch=1,EE,001191cc,word,460d6cc3
 
-[FMV's fix by nemesis2000]
+//FMV's fix by nemesis2000
 patch=1,EE,001c6a3c,word,24027100
 patch=1,EE,001c6a4c,word,34038f00
 

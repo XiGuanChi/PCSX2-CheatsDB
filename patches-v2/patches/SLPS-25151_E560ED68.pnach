@@ -4,7 +4,7 @@ gametitle=Medal of Honor - Jishousaidai no Sakusen(Frontline) (NTSC-J)(SLPS-2515
 gsaspectratio=16:9
 author=nemesis2000 (NTSC-J by Arapapa)
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,00146da0,word,0c0533e9 //0c0533ea (NTSC-U 0c052def)
 patch=1,EE,00146dc0,word,0c0533e9 //0c0533ea (NTSC-U 0c052def)

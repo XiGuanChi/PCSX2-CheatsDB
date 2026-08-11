@@ -4,14 +4,14 @@ gametitle=Evolution Skateboarding (K)(SLKA-25015)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[Zoom]
-[0040033c 42ce0346]
+//Zoom
+//0040033c 42ce0346
 patch=1,EE,001a81a4,word,3c033fc0
 
-[Y-Fov]
-[43200346 100022e6]
+//Y-Fov
+//43200346 100022e6
 patch=1,EE,001a81ec,word,080e5778
 patch=1,EE,00395de0,word,46032043
 patch=1,EE,00395de4,word,3c013f40

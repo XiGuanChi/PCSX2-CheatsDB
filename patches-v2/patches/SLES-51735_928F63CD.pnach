@@ -4,7 +4,7 @@ gametitle=Perfect Ace - Pro Tournament Tennis (E)(SLES-51735)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,002705b8,word,080b6dd4 // c6010068
 patch=1,EE,002705bc,word,00000000 // c602006c

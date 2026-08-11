@@ -4,10 +4,10 @@ gametitle=Secret Weapons Over Normandy (J)(SLPM-65483)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[42420146 02490446]
+//X-Fov
+//42420146 02490446
 patch=1,EE,001b8a98,word,0812db48
 
 patch=1,EE,004b6d20,word,46014242
@@ -16,8 +16,8 @@ patch=1,EE,004b6d28,word,4481f000
 patch=1,EE,004b6d2c,word,461e4a42
 patch=1,EE,004b6d30,word,0806e2a7
 
-[Render fix]
-[68008bc4 0800a327]
+//Render fix
+//68008bc4 0800a327
 patch=1,EE,001b8150,word,0812db50
 
 patch=1,EE,004b6d40,word,c48b0068

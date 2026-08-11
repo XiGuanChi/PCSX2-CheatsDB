@@ -4,9 +4,9 @@ gametitle=Gundam Musou 2 (J)(SLPM-55122)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,0017b7fc,word,08043d88
 
 patch=1,EE,0010f620,word,46041902

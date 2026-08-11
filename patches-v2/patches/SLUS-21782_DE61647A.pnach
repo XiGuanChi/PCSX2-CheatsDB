@@ -4,10 +4,10 @@ gametitle=Shin Megami Tensei: Persona 4 (SLUS-21782B)
 description=Renders the game in 16:9 aspect ratio, instead of 4:3.
 gsaspectratio=16:9
 
-[16:9 by pavachan]
+//16:9 by pavachan
 patch=1,EE,0076111c,word,3fe38e38
 
-[partial HUD fix by nemesis2000]
+//partial HUD fix by nemesis2000
 patch=1,EE,00104680,word,3c043f40
 patch=1,EE,00104688,word,00731821
 patch=1,EE,0010468c,word,24636728
@@ -15,7 +15,7 @@ patch=1,EE,00104694,word,00000000
 patch=1,EE,00104698,word,24630004
 patch=1,EE,0010469c,word,3c043f80
 
-[FMV's fix by nemesis2000]
+//FMV's fix by nemesis2000
 patch=1,EE,0046957c,word,1460000a
 patch=1,EE,00469584,word,3c03c294
 patch=1,EE,00469588,word,10000008
@@ -23,7 +23,7 @@ patch=1,EE,0046958c,word,00000000
 patch=1,EE,004695a8,word,3c03c1a8
 patch=1,EE,004695bc,word,00000000
 
-[Font fix by nemesis2000]
+//Font fix by nemesis2000
 patch=1,EE,002732b4,word,00118903
 patch=1,EE,002732b8,word,02338818
 patch=1,EE,002732c0,word,8E93001c
@@ -36,7 +36,7 @@ patch=1,EE,00275e00,word,01154018
 patch=1,EE,00275e04,word,00084103
 patch=1,EE,00275e08,word,0100a82d
 
-[zoom fix by nemesis2000]
+//zoom fix by nemesis2000
 patch=1,EE,0026c620,word,0c0fa77c
 patch=1,EE,0026c624,word,0220202d
 patch=1,EE,0026c628,word,0220202d
@@ -53,7 +53,7 @@ patch=1,EE,0026c650,word,c66c0140
 patch=1,EE,0026c654,word,0c115df4
 patch=1,EE,0026c658,word,46006303
 
-[personas art fix by nemesis2000]
+//personas art fix by nemesis2000
 patch=1,EE,0011dc6c,word,10400032
 patch=1,EE,0011dc78,word,1060002f
 
@@ -72,11 +72,11 @@ patch=1,EE,0011D724,word,3C024340
 patch=1,EE,0011A114,word,00000000
 patch=1,EE,001369B0,word,00000000
 
-[characters art fix by nemesis2000]
+//characters art fix by nemesis2000
 patch=1,EE,00354CE4,word,3C024340
 patch=1,EE,00223008,word,3C024340 // (level up white glow)
 
-[partial HUD text fix by nemesis2000]
+//partial HUD text fix by nemesis2000
 patch=1,EE,00123430,word,24020BF6
 
 

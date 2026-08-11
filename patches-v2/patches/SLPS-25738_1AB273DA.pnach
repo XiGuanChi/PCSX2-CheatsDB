@@ -4,12 +4,12 @@ gametitle=Soul Nomad & the World Eaters [NTSC-J](SLPS-25739)
 gsaspectratio=16:9
 author=nemesis2000
 
-[gameplay]
+//gameplay
 patch=1,EE,00104d74,word,3c013f40
 patch=1,EE,00104d78,word,44810000
 patch=1,EE,00104d80,word,4600c602
 
-[sprite fix]
+//sprite fix
 patch=1,EE,00151ee0,word,3c033f40
 patch=1,EE,00151ef4,word,3c033f80
 patch=1,EE,00151ef8,word,ac830010
@@ -19,7 +19,7 @@ patch=1,EE,00151f04,word,ac80001c
 patch=1,EE,00151f08,word,03e00008
 patch=1,EE,00151f0c,word,ac830020
 
-[text width]
+//text width
 patch=1,EE,001302f4,word,3c023f40
 
 

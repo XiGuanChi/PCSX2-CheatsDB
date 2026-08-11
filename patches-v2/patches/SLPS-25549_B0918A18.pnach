@@ -4,7 +4,7 @@ gametitle=Kidou Senshi Gundam SEED Destiny - Generation of C.E (J)(SLPS-25549)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,001b5a58,word,080421a8 // c6010068
 patch=1,EE,001b5a5c,word,00000000 // c602006c

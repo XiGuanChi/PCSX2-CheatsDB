@@ -4,16 +4,16 @@ gametitle=Atelier Iris 2: The Azoth of Destiny [PAL] (SLES_543.85)
 gsaspectratio=16:9
 author=El_Patas
 
-[3D Scenes]
+//3D Scenes
 patch=1,EE,002AB844,word,3C013F40 //00000000 hor value
 patch=1,EE,002AB848,word,44810000 //00000000
 patch=1,EE,002AB850,word,4600C602 //00000000
 
-[Battle's fix]
+//Battle's fix
 patch=1,EE,007D16FC,word,44400000 //44800000 right side fix
 patch=1,EE,007D1704,word,C4400000 //C4800000 left side fix
 
-[2D Scenes]
+//2D Scenes
 patch=1,EE,00190C48,word,3C014440 //3C0E007D hor value
 patch=1,EE,00190C4C,word,44810800 //25CE291C
 patch=1,EE,00190C50,word,46010002 //C5C10000

@@ -15,10 +15,10 @@ patch=1,EE,2038386C,extended,C4615880
 description=Throttle/brake mapped to triggers
 author=Silent
 
-[Select a (previously unused) controls set 2]
+// Select a (previously unused) controls set 2
 patch=0,EE,20392CC0,extended,34050002
 
-[Swap bumpers and triggers]
+// Swap bumpers and triggers
 patch=0,EE,104E6C76,extended,4142 // BACK
 patch=0,EE,204E6C78,extended,00004B43
 patch=0,EE,104E6C96,extended,4142 // BACK

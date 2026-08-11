@@ -4,7 +4,7 @@ gametitle=Drakan: The Ancients' Gates * NTSC-U * SCUS-97128 * 4167D813
 gsaspectratio=16:9
 author=nemesis2000
 
-[16:9]
+// 16:9
 patch=1,EE,001328d4,word,3c013f40 // unknown
 patch=1,EE,00132e68,word,3c013f40 // gameplay
 patch=1,EE,00132fd0,word,3c013f68 // menu
@@ -38,7 +38,7 @@ patch=1,EE,001328c4,word,ae43000c
 patch=1,EE,001328c8,word,ae400000
 patch=1,EE,001328cc,word,46030003
 patch=1,EE,001328d0,word,ae400004
-[unknown]
+// unknown
 patch=1,EE,001328d8,word,4481b800
 patch=1,EE,001328dc,word,46170002
 patch=1,EE,001328e0,word,46170842
@@ -95,7 +95,7 @@ patch=1,EE,00132e58,word,c601010c
 patch=1,EE,00132e5c,word,46001002
 patch=1,EE,00132e60,word,8e030124
 patch=1,EE,00132e64,word,46000847
-[gameplay]
+// gameplay
 patch=1,EE,00132e6c,word,4481a000
 patch=1,EE,00132e70,word,46140002
 patch=1,EE,00132e74,word,46140842
@@ -132,7 +132,7 @@ patch=1,EE,00132fc0,word,46001002
 patch=1,EE,00132fc4,word,8e020118
 patch=1,EE,00132fc8,word,46000847
 patch=1,EE,00132fcc,word,46141082
-[menu]
+// menu
 patch=1,EE,00132fd4,word,44811800
 patch=1,EE,00132fd8,word,46030002
 patch=1,EE,00132fdc,word,46030842

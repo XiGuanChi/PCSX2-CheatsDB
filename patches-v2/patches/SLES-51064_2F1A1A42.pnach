@@ -4,13 +4,13 @@ gametitle=Gladius [PAL-M3] (SLES_510.64)
 gsaspectratio=16:9
 author=El_Patas
 
-[Gameplay 16:9 in SPANISH.ELF]
+//Gameplay 16:9 in SPANISH.ELF
 patch=1,EE,003DBDB8,word,3C023F40 //3C023F80 (Increases hor. axis)
 
-[Gameplay 16:9 in ENGLISH.ELF]
+//Gameplay 16:9 in ENGLISH.ELF
 patch=1,EE,003CED58,word,3C023F40 //3C023F80 (Increases hor. axis)
 
-[Gameplay 16:9 in ITALIAN.ELF]
+//Gameplay 16:9 in ITALIAN.ELF
 patch=1,EE,003DBE18,word,3C023F40 //3C023F80 (Increases hor. axis)
 
 

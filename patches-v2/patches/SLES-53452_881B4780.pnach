@@ -4,7 +4,7 @@ gametitle=Myth Makers - Trixie in Toyland (E)(SLES-53452)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,002a8ac0,word,08040034 // c6010068
 patch=1,EE,002a8ac4,word,00000000 // c602006c

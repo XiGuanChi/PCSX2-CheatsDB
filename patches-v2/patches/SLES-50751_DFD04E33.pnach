@@ -4,7 +4,7 @@ gametitle=HERDY GERDY (PAL-M5) (SLES_507)
 gsaspectratio=16:9
 author=ESPPIRAL
 description=Widescreen Hack
-[16:9]
+//16:9
 patch=1,EE,211F2688,word,3F0CCCCD // 00000000
 
 [50/60 FPS]

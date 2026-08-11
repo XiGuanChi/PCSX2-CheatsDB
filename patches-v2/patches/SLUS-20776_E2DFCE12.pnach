@@ -7,8 +7,8 @@ description=Patches the game to run at 16:9 Widescreen Aspect Ratio. (Original p
 patch=1,EE,2067a910,word,3f947ae1  //vertical fov 3f5eb852
 patch=1,EE,2067a908,word,3c28a2f7  //zoom value 3c0efa35
 
-[Map Screen HUD, text fixes]
-[search the 206d**** address range for more map screen hud fixes]
+//Map Screen HUD, text fixes
+//search the 206d**** address range for more map screen hud fixes
 //patch=1,EE,206d8034,word,425c0000  // map_igo_compass 42680000 - this breakes the compass in map menu
 //patch=1,EE,206d8048,word,42fa0000  // map_igo_compass 42f40000 - this breakes the compass in map menu
 patch=1,EE,206db628,word,41580000  // level_500_trick 41900000
@@ -29,7 +29,7 @@ patch=1,EE,206df9e8,word,3f400000  // text_menu_missions1 3f800000
 patch=1,EE,206dfab8,word,3f400000  // map_igo_elevation_indicator_text_number 3f800000
 patch=1,EE,206dfbb0,word,3f400000  // text_menu_hint1 3f800000
 
-[Onscreen HUD]
+//Onscreen HUD
 patch=1,EE,20720ce0,word,42680000  //gauge_frame 42300000
 patch=1,EE,20720cf4,word,42680000  //gauge_frame 42300000
 patch=1,EE,20720d08,word,43140000  //gauge_frame 43240000
@@ -53,7 +53,7 @@ patch=1,EE,20723DDC,word,42340000  //gauge_hero_03 42700000
 patch=1,EE,20723FFC,word,42340000  //gauge_hero_02 42700000
 patch=1,EE,2072421C,word,42340000  //gauge_hero_01 42700000
 
-[Boss HUD - Unusuable due to addresses changing for each encounter (these addresses were applied to the doc-ock train fight)]
+//Boss HUD - Unusuable due to addresses changing for each encounter (these addresses were applied to the doc-ock train fight)
 //patch=1,EE,208821EC,word,42340000  //gauge_boss_1_of_2_life 42700000
 //patch=1,EE,208824C4,word,42340000  //gauge_boss_1_of_2_life 42700000
 //patch=1,EE,208825C0,word,43F60000  //gauge_boss_1_frame 43EE0000

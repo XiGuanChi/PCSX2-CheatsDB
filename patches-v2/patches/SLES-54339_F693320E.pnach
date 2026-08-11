@@ -4,7 +4,7 @@ gametitle=Realm of the Dead (E)(SLES-54339)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,005374c8,word,08161244 //c6010068
 

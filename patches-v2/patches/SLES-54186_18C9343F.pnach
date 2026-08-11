@@ -5,7 +5,7 @@ gsaspectratio=16:9
 author=nemesis2000
 description=Widescreen Hack
 
-[gameplay]
+//gameplay
 patch=1,EE,001ac7a4,word,3c013f40 //hor val 1
 patch=1,EE,001ac7a8,word,4481a000
 patch=1,EE,001ac7ac,word,3c0101d1
@@ -18,18 +18,18 @@ patch=1,EE,001ac81c,word,3c0101d1
 patch=1,EE,001ac820,word,e43407a0
 patch=1,EE,001ac824,word,46000d03
 
-[FMV's fix]
+//FMV's fix
 patch=1,EE,00231cb8,word,24040180 //dolby logo
 patch=1,EE,00232dcc,word,240301aa //intro / demo
 patch=1,EE,002e5a8c,word,240801aa //cutscenes
 patch=1,EE,00307d4c,word,24050040 //gallery 1
 patch=1,EE,00307d54,word,24070180 //gallery 2
 
-[rfix 1]
+//rfix 1
 patch=1,EE,001ac844,word,3c0345bf //val 1
 patch=1,EE,001ac96c,word,3c0345bf //val 2
 
-[rfix 2]
+//rfix 2
 patch=1,EE,001acf0c,word,3c013f40 //hor val 2
 
 patch=1,EE,001acf24,word,44812000

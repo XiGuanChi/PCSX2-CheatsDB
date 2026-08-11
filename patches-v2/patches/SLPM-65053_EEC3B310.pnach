@@ -4,7 +4,7 @@ gametitle=Shin Sangoku Musou 2 (J)(SLPM-65053)
 gsaspectratio=16:9
 author=99skull (NTSC-J by Arapapa)
 
-[16:9 widescreen hack]
+//16:9 widescreen hack
 
 patch=1,EE,001759b8,word,3c0243b4 //3c0243f0 render fix1
 

@@ -4,9 +4,9 @@ gametitle=SnoCross 2 - Featuring Blair Morgan (U)(SLUS-21130)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[00000000 436b0546 380042e4]
+//00000000 436b0546 380042e4
 patch=1,EE,001ee198,word,3c01bf90
 patch=1,EE,001ee1a4,word,4481f000
 

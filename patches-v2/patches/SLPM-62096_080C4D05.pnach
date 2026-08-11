@@ -4,7 +4,7 @@ gametitle=Flying Circus (J)(SLPM-62096)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,0015b63c,word,08084988
 

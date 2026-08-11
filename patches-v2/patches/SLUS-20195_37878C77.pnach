@@ -4,10 +4,10 @@ gametitle=Dragon Rage (U)(SLUS-20195)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[02410446 380081e4 c2400346]
+//X-Fov
+//02410446 380081e4 c2400346
 patch=1,EE,001bfacc,word,08030000
 
 patch=1,EE,000c0000,word,46044102
