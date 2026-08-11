@@ -9,16 +9,16 @@ patch=1,EE,0099C4A8,short,01 // 480p mode flag
 [Trigger Sensitivity]
 author=CookiePLMonster / Silentwarior112
 description=100% trigger press for full Gas, Brake, Reverse, & E-Brake
-[Throttle]
+//Throttle
 patch=1,EE,20318CFC,extended,24110064
 patch=1,EE,20318D7C,extended,00000000
-[Brake]
+//Brake
 patch=1,EE,20318D00,extended,24100164
 patch=1,EE,20318DD8,extended,00000000
-[E-Brake]
+//E-Brake
 patch=1,EE,20318D04,extended,24160064
 patch=1,EE,20318E30,extended,00000000
-[Reverse]
+//Reverse
 patch=1,EE,20318D08,extended,24150064
 patch=1,EE,20318E84,extended,00000000
 
