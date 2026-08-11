@@ -3,6 +3,6 @@ gametitle=Gran Turismo 4 [SCES-51719]
 comment=Disables the lens flares cast from all cars' brake/headlights. Useful for PCSX2 performance.
 author=TheAdmiester
 
-[Return early from RaceCarModel::setLampFlare]
+// Return early from RaceCarModel::setLampFlare
 patch=1,EE,203914C8,extended,03E00008
 patch=1,EE,203914CC,extended,00000000
