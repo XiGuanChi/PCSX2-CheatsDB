@@ -1,0 +1,298 @@
+name: Mirror Patches (Bulk)
+
+on:
+  workflow_dispatch:   # Allow manual triggering
+
+permissions:
+  contents: write     # Required to push to the destination repository
+
+jobs:
+  mirror-v1:
+    name: Mirror TheAdmiester
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          repository: TheAdmiester/PCSX2-Cheats
+          ref: main
+          path: source_repo
+          fetch-depth: 1
+
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: XiGuanChi/PCSX2-CheatsDB
+          ref: main
+          path: target_repo
+          fetch-depth: 1
+
+      - name: Sync only .pnach files into patches-v1 folder
+        run: |
+          mkdir -p target_repo/patches-v1
+          rsync -av --delete \
+            --exclude='.git' \
+            --include='*/' \
+            --include='*.pnach' \
+            --exclude='*' \
+            source_repo/ target_repo/patches-v1/
+          rm -rf target_repo/patches-v1/.git
+
+      - name: Commit and push if changes exist
+        run: |
+          cd target_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add patches-v1
+          if git diff --cached --quiet; then
+            echo "No changes detected in .pnach files. Skipping commit."
+          else
+            git commit -m "Sync .pnach files from PCSX2-Cheats (commit ${{ github.sha }})"
+            git push origin main
+          fi
+
+  mirror-v2:
+    name: Mirror PCSX2 (pcsx2_patches)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          repository: PCSX2/pcsx2_patches
+          ref: main
+          path: source_repo
+          fetch-depth: 1
+
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: XiGuanChi/PCSX2-CheatsDB
+          ref: main
+          path: target_repo
+          fetch-depth: 1
+
+      - name: Sync only .pnach files into patches-v2 folder
+        run: |
+          mkdir -p target_repo/patches-v2
+          rsync -av --delete \
+            --exclude='.git' \
+            --include='*/' \
+            --include='*.pnach' \
+            --exclude='*' \
+            source_repo/ target_repo/patches-v2/
+          rm -rf target_repo/patches-v2/.git
+
+      - name: Commit and push if changes exist
+        run: |
+          cd target_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add patches-v2
+          if git diff --cached --quiet; then
+            echo "No changes detected in .pnach files. Skipping commit."
+          else
+            git commit -m "Sync .pnach files from pcsx2_patches (commit ${{ github.sha }})"
+            git push origin main
+          fi
+
+  mirror-v3:
+    name: Mirror PeterDelta (pcsx2_patches)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          repository: PeterDelta/pcsx2_patches
+          ref: main
+          path: source_repo
+          fetch-depth: 1
+
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: XiGuanChi/PCSX2-CheatsDB
+          ref: main
+          path: target_repo
+          fetch-depth: 1
+
+      - name: Sync only .pnach files into patches-v3 folder
+        run: |
+          mkdir -p target_repo/patches-v3
+          rsync -av --delete \
+            --exclude='.git' \
+            --include='*/' \
+            --include='*.pnach' \
+            --exclude='*' \
+            source_repo/ target_repo/patches-v3/
+          rm -rf target_repo/patches-v3/.git
+
+      - name: Commit and push if changes exist
+        run: |
+          cd target_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add patches-v3
+          if git diff --cached --quiet; then
+            echo "No changes detected in .pnach files. Skipping commit."
+          else
+            git commit -m "Sync .pnach files from pcsx2_patches (commit ${{ github.sha }})"
+            git push origin main
+          fi
+
+  mirror-v4:
+    name: Mirror AeroWidescreen
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          repository: AeroWidescreen/PCSX2-Cheats
+          ref: main
+          path: source_repo
+          fetch-depth: 1
+
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: XiGuanChi/PCSX2-CheatsDB
+          ref: main
+          path: target_repo
+          fetch-depth: 1
+
+      - name: Sync only .pnach files into patches-v4 folder
+        run: |
+          mkdir -p target_repo/patches-v4
+          rsync -av --delete \
+            --exclude='.git' \
+            --include='*/' \
+            --include='*.pnach' \
+            --exclude='*' \
+            source_repo/ target_repo/patches-v4/
+          rm -rf target_repo/patches-v4/.git
+
+      - name: Commit and push if changes exist
+        run: |
+          cd target_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add patches-v4
+          if git diff --cached --quiet; then
+            echo "No changes detected in .pnach files. Skipping commit."
+          else
+            git commit -m "Sync .pnach files from PCSX2-Cheats (commit ${{ github.sha }})"
+            git push origin main
+          fi
+
+  mirror-v5:
+    name: Mirror Silentwarior112
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          repository: Silentwarior112/PCSX2-patches
+          ref: main
+          path: source_repo
+          fetch-depth: 1
+
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: XiGuanChi/PCSX2-CheatsDB
+          ref: main
+          path: target_repo
+          fetch-depth: 1
+
+      - name: Sync only .pnach files into patches-v5 folder
+        run: |
+          mkdir -p target_repo/patches-v5
+          rsync -av --delete \
+            --exclude='.git' \
+            --include='*/' \
+            --include='*.pnach' \
+            --exclude='*' \
+            source_repo/ target_repo/patches-v5/
+          rm -rf target_repo/patches-v5/.git
+
+      - name: Commit and push if changes exist
+        run: |
+          cd target_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add patches-v5
+          if git diff --cached --quiet; then
+            echo "No changes detected in .pnach files. Skipping commit."
+          else
+            git commit -m "Sync .pnach files from PCSX2-patches (commit ${{ github.sha }})"
+            git push origin main
+          fi
+
+  mirror-v6:
+    name: Mirror PeterDelta (PCSX2)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          repository: PeterDelta/PCSX2
+          ref: main
+          path: source_repo
+          fetch-depth: 1
+
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: XiGuanChi/PCSX2-CheatsDB
+          ref: main
+          path: target_repo
+          fetch-depth: 1
+
+      - name: Check for new commits in source
+        id: check_update
+        run: |
+          cd source_repo
+          SOURCE_SHA=$(git rev-parse HEAD)
+          echo "source_sha=$SOURCE_SHA" >> $GITHUB_OUTPUT
+
+          cd ../target_repo
+          if [ -f .last_sync_commit ]; then
+            STORED_SHA=$(cat .last_sync_commit)
+          else
+            STORED_SHA=""
+          fi
+          echo "stored_sha=$STORED_SHA" >> $GITHUB_OUTPUT
+
+          if [ "$SOURCE_SHA" == "$STORED_SHA" ]; then
+            echo "No new commits. Skipping sync."
+            echo "skip_sync=true" >> $GITHUB_OUTPUT
+          else
+            echo "New commit detected. Proceeding with sync."
+            echo "skip_sync=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Sync only .pnach files into patches-v6 folder
+        if: steps.check_update.outputs.skip_sync == 'false'
+        run: |
+          mkdir -p target_repo/patches-v6
+          rsync -av --delete \
+            --exclude='.git' \
+            --include='*/' \
+            --include='*.pnach' \
+            --exclude='*' \
+            source_repo/ target_repo/patches-v6/
+          rm -rf target_repo/patches-v6/.git
+
+      - name: Update last sync commit and push
+        if: steps.check_update.outputs.skip_sync == 'false'
+        run: |
+          cd target_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo "${{ steps.check_update.outputs.source_sha }}" > .last_sync_commit
+          git add patches-v6 .last_sync_commit
+          if git diff --cached --quiet; then
+            echo "No changes detected in .pnach files or .last_sync_commit. Skipping commit."
+          else
+            git commit -m "Sync .pnach files from PCSX2 (commit ${{ steps.check_update.outputs.source_sha }})"
+            git push origin main
+          fi
