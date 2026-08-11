@@ -1,21 +1,21 @@
-[Cheats/Max Groove Points] 
+//Cheats/Max Groove Points
 patch=1,EE,20481CB0,extended,0098967F
 
-[Cheats/Player 1 Infinite Health] 
+//Cheats/Player 1 Infinite Health
 patch=1,EE,204818C4,extended,36003600
 patch=1,EE,104818C8,extended,00003600
 
-[Cheats/P1 Infinite Guard Crash] 
+//Cheats/P1 Infinite Guard Crash
 patch=1,EE,10481928,extended,00003030
 
-[Cheats/One Hit Kill p2] 
+//Cheats/One Hit Kill p2
 patch=1,EE,104818C8,extended,00000001
 
-[Cheats/Unlock Extra Options] 
+//Cheats/Unlock Extra Options
 patch=1,EE,10517B9E,extended,00000101
 
-[Cheats/Have S. Akuma & U. Rugal] 
+//Cheats/Have S. Akuma & U. Rugal
 patch=1,EE,103F2514,extended,0000FFFF
 
-[Cheats/Unlock Shin Akuma & God Rugal] 
+//Cheats/Unlock Shin Akuma & God Rugal
 patch=1,EE,203F701C,extended,FFFFFFFF

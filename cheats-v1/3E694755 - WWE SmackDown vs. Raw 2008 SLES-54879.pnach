@@ -1,42 +1,42 @@
-[Cheats/24-7 Mode Max Cash] 
+//Cheats/24-7 Mode Max Cash
 patch=1,EE,20490930,extended,3B9AC9FF
 
-[Cheats/24-7 Max Cash After Buying Something] 
+//Cheats/24-7 Max Cash After Buying Something
 patch=1,EE,2023C8F4,extended,3C0405F0
 
-[Cheats/24-7 Max Cash After an Event Commercial] 
+//Cheats/24-7 Max Cash After an Event Commercial
 patch=1,EE,2023C858,extended,3C0405F0
 
-[Cheats/Disable AI L3 to Disable R3 to Restart] 
+//Cheats/Disable AI L3 to Disable R3 to Restart
 patch=1,EE,D1CF8782,extended,0000FFFD
 patch=1,EE,205AFDA0,extended,24020000
 patch=1,EE,D1CF8782,extended,0000FFFB
 patch=1,EE,205AFDA0,extended,2C420001
 
-[Cheats/Player 1 Power Special] 
+//Cheats/Player 1 Power Special
 patch=1,EE,008C98C0,extended,00000001
 
-[Cheats/Player 1 Special Energy always remains the same] 
+//Cheats/Player 1 Special Energy always remains the same
 patch=1,EE,204E6744,extended,E6000070
 patch=1,EE,204E6708,extended,00000000
 
-[Cheats/Player 1 No Stamina] 
+//Cheats/Player 1 No Stamina
 patch=1,EE,204E6D6C,extended,24020002
 patch=1,EE,204E6DA0,extended,A5030030
 patch=1,EE,204E6D20,extended,00000000
 patch=1,EE,204E6CEC,extended,E4800078
 
-[Cheats/Player 1 Infinite Specials charged once] 
+//Cheats/Player 1 Infinite Specials charged once
 patch=1,EE,204E6C70,extended,00000000
 
-[Cheats/Player 1 Powermeter does not increase or decrease Momentum Never Increases Decreases] 
+//Cheats/Player 1 Powermeter does not increase or decrease Momentum Never Increases Decreases
 patch=1,EE,D04E6720,extended,0000182D
 patch=1,EE,204E674C,extended,00000000
 
-[Cheats/Player 1 Full Powermeter Even After Special Do Not Lose Momentum After Special Move] 
+//Cheats/Player 1 Full Powermeter Even After Special Do Not Lose Momentum After Special Move
 patch=1,EE,D04E6D5C,extended,0000802D
 patch=1,EE,204E6C70,extended,00000000
 
-[Cheats/Unlock Everything]   
+//Cheats/Unlock Everything
 patch=1,EE,201D310C,extended,24020001
 

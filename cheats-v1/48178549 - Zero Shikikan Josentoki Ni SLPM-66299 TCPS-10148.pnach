@@ -1,15 +1,15 @@
-[Cheats/No Damage From Machine Guns Or Artillery Fire] 
+//Cheats/No Damage From Machine Guns Or Artillery Fire
 patch=1,EE,205C75B8,extended,00640064
 patch=1,EE,205C75BC,extended,00640064
 
-[Cheats/Press L3 To Fill Fuel Tank] 
+//Cheats/Press L3 To Fill Fuel Tank
 patch=1,EE,D0235F84,extended,00000002
 patch=1,EE,2066F752,extended,42C842C8
 
-[Cheats/Long Fuel Life Press START when the demo screen appears after starting the game to skipp] 
+//Cheats/Long Fuel Life Press START when the demo screen appears after starting the game to skipp
 patch=1,EE,10390900,extended,000000FF
 
-[Cheats/Unlock All 39 Aircrafts]  
+//Cheats/Unlock All 39 Aircrafts
 patch=1,EE,101329E0,extended,ACA30000
 patch=1,EE,101329F8,extended,ACA30000
 patch=1,EE,10132A10,extended,ACA30000
@@ -25,7 +25,7 @@ patch=1,EE,10132B0C,extended,ACC30000
 patch=1,EE,10132B24,extended,ACC30000
 patch=1,EE,10132B3C,extended,ACC30000
 
-[Cheats/Unlock All Missions EXTRA]  
+//Cheats/Unlock All Missions EXTRA
 patch=1,EE,10132E0C,extended,AC620000
 patch=1,EE,10132E1C,extended,AC620000
 patch=1,EE,10132E2C,extended,AC620000
@@ -34,5 +34,5 @@ patch=1,EE,10132E4C,extended,AC620000
 patch=1,EE,10132E5C,extended,AC620000
 patch=1,EE,10132E6C,extended,AC620000
 
-[Cheats/Unlock Exttra Mission Only effective in NEW games] 
+//Cheats/Unlock Exttra Mission Only effective in NEW games
 patch=1,EE,10132A28,extended,ACA30000

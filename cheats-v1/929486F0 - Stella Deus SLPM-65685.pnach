@@ -1,27 +1,27 @@
-[Cheats/Max Money]  
+//Cheats/Max Money
 patch=1,EE,202F9504,extended,05F5E0FF
 
-[Cheats/Max HP Limit by 1 Level Up] 
+//Cheats/Max HP Limit by 1 Level Up
 patch=1,EE,201FBBA0,extended,2403270F
 
-[Cheats/Max MP Limit by 1 Level Up] 
+//Cheats/Max MP Limit by 1 Level Up
 patch=1,EE,201FBB60,extended,240303E7
 
-[Cheats/Max of All Parameters by 1 Level Up] 
+//Cheats/Max of All Parameters by 1 Level Up
 patch=1,EE,201FBB18,extended,240603E7
 
-[Cheats/Max SP] 
+//Cheats/Max SP
 patch=1,EE,201F95A8,extended,0807F074
 patch=1,EE,201F95AC,extended,0040202D
 patch=1,EE,201F95C8,extended,1000FFF7
 
-[Cheats/If you get SP it will be Max even if you Distribute it] 
+//Cheats/If you get SP it will be Max even if you Distribute it
 patch=1,EE,201FBBE0,extended,240303E7
 
-[Cheats/All Items 99 Pieces] 
+//Cheats/All Items 99 Pieces
 patch=1,EE,2018D384,extended,24050063
 
-[Cheats/Enemy Ally HP R3+L2=One hit R3+R2=Full recovery R3+L1=OFF If you level up while using one hit, you will also die If you self-destruct] 
+//Cheats/Enemy Ally HP R3+L2=One hit R3+R2=Full recovery R3+L1=OFF If you level up while using one hit, you will also die If you self-destruct
 patch=1,EE,E002FEFB,extended,002AE6C8
 patch=1,EE,201FBEF0,extended,00000021
 patch=1,EE,201FBEFC,extended,0000180A
@@ -32,15 +32,15 @@ patch=1,EE,E002FBFB,extended,002AE6C8
 patch=1,EE,201FBEF0,extended,06000047
 patch=1,EE,201FBEFC,extended,0201180A
 
-[Cheats/Required Code] 
+//Cheats/Required Code
 patch=1,EE,200F7090,extended,03E00008
 patch=1,EE,201FBC00,extended,0803DC00
 
-[Cheats/Full HP Recovery] 
+//Cheats/Full HP Recovery
 patch=1,EE,200F7000,extended,8C8A005C
 patch=1,EE,200F7004,extended,AC8A004C
 
-[Cheats/Full MP Recovery] 
+//Cheats/Full MP Recovery
 patch=1,EE,200F7008,extended,8C8A0060
 patch=1,EE,200F700C,extended,AC8A0050
 

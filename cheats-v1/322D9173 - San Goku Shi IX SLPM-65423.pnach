@@ -1,11 +1,11 @@
-[Cheats/When Creating A New Military Commander Learn All Military Methods] 
+//Cheats/When Creating A New Military Commander Learn All Military Methods
 patch=1,EE,21C8FA9C,extended,7FFFFFFF
 
-[Cheats/Required Code] 
+//Cheats/Required Code
 patch=1,EE,2011E5A4,extended,0803C000
 patch=1,EE,200F1234,extended,03E00008
 
-[Cheats/Resident Of Merchants In All Cities] 
+//Cheats/Resident Of Merchants In All Cities
 patch=1,EE,200F0000,extended,3C08006F
 patch=1,EE,200F0004,extended,3508BC30
 patch=1,EE,200F0008,extended,2409002D
@@ -16,7 +16,7 @@ patch=1,EE,200F0018,extended,2529FFFF
 patch=1,EE,200F001C,extended,25080200
 patch=1,EE,200F002C,extended,1520FFF9
 
-[Cheats/Normal Military Commander Max Status Limit 255] 
+//Cheats/Normal Military Commander Max Status Limit 255
 patch=1,EE,200F0080,extended,3C040070
 patch=1,EE,200F0084,extended,34848728
 patch=1,EE,200F0088,extended,2405028A
@@ -30,7 +30,7 @@ patch=1,EE,200F00AC,extended,14A0FFF9
 patch=1,EE,200F1600,extended,000000FF
 patch=1,EE,200F1604,extended,000000FF
 
-[Cheats/Normal All Military Commanders Act Infinitely Unlimited actions in the strategy phase] 
+//Cheats/Normal All Military Commanders Act Infinitely Unlimited actions in the strategy phase
 patch=1,EE,200F0180,extended,3C040070
 patch=1,EE,200F0184,extended,348487B5
 patch=1,EE,200F0188,extended,2405028A

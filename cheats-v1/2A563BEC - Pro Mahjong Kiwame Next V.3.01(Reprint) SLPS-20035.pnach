@@ -1,4 +1,4 @@
-[Cheats/L3 for Debug Menu, R3 to Disable pressing L3 at the main menu will enable this screen. Press R3 to disable it. There appears to be no method to exit a sub menu once entered.]  
+//Cheats/L3 for Debug Menu, R3 to Disable pressing L3 at the main menu will enable this screen. Press R3 to disable it. There appears to be no method to exit a sub menu once entered.
 patch=1,EE,D01F2F02,extended,0000FFFD
 patch=1,EE,201B8288,extended,24110001
 patch=1,EE,D01F2F02,extended,0000FFFB

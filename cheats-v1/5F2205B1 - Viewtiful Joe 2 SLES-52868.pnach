@@ -1,20 +1,20 @@
-[Cheats/Infinite Health]  
+//Cheats/Infinite Health
 patch=1,EE,11ED36DC,extended,0000000F
 
-[Cheats/Infinite VFX Gauge] 
+//Cheats/Infinite VFX Gauge
 patch=1,EE,11ED36D8,extended,000005DC
 
-[Cheats/Infinite Lives] 
+//Cheats/Infinite Lives
 patch=1,EE,11ED36E6,extended,00000063
 
-[Cheats/Infinite V-Boomerangs]  
+//Cheats/Infinite V-Boomerangs
 patch=1,EE,01ED36F0,extended,00000063
 
-[Cheats/Infinite Bombs] 
+//Cheats/Infinite Bombs
 patch=1,EE,01ED36F2,extended,00000063
 
-[Cheats/Unlock All Upgrades] 
+//Cheats/Unlock All Upgrades
 patch=1,EE,21ED36E8,extended,000FFFFF
 
-[Cheats/Unlock All Difficulties and Realm] 
+//Cheats/Unlock All Difficulties and Realm
 patch=1,EE,21ED36C4,extended,FFFFFFFF

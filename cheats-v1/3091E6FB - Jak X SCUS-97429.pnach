@@ -1,4 +1,4 @@
-[Cheats/Infinite Health Only Your Character] 
+//Cheats/Infinite Health Only Your Character
 patch=1,EE,E0051825,extended,00F0FF84
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,AF8102AC
@@ -6,7 +6,7 @@ patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C78002AC
 patch=1,EE,20F0FF88,extended,0C030088
 
-[Cheats/Infinite Blue Eco Turbo Only Your Character] 
+//Cheats/Infinite Blue Eco Turbo Only Your Character
 patch=1,EE,E0051825,extended,00EE94AC
 patch=1,EE,200C0240,extended,3C013F80
 patch=1,EE,200C0244,extended,AE6102BC
@@ -14,7 +14,7 @@ patch=1,EE,200C0248,extended,083BA52F
 patch=1,EE,200C024C,extended,C66002BC
 patch=1,EE,20EE94B8,extended,0C030090
 
-[Cheats/Infinite Dark Eco Meters Only Your Character] 
+//Cheats/Infinite Dark Eco Meters Only Your Character
 patch=1,EE,E0051825,extended,00EE9694
 patch=1,EE,200C0250,extended,3C013F80
 patch=1,EE,200C0254,extended,AE6102C0
@@ -22,7 +22,7 @@ patch=1,EE,200C0258,extended,083BA5A9
 patch=1,EE,200C025C,extended,C66002C0
 patch=1,EE,20EE96A0,extended,0C030094
 
-[Cheats/Infinite Red Yellow Eco Ammo Only Your Character] 
+//Cheats/Infinite Red Yellow Eco Ammo Only Your Character
 patch=1,EE,E0051825,extended,00EEB0A8
 patch=1,EE,200C0230,extended,24010063
 patch=1,EE,200C0234,extended,A0C100FC
@@ -30,7 +30,7 @@ patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,200C023C,extended,80C600FC
 patch=1,EE,20EEB0AC,extended,0C03008C
 
-[Cheats/Have All Medal Points] 
+//Cheats/Have All Medal Points
 patch=1,EE,E005380A,extended,00AB17B8
 patch=1,EE,200C0210,extended,A0C10054
 patch=1,EE,200C0214,extended,082AC5F3
@@ -38,45 +38,45 @@ patch=1,EE,200C0218,extended,0041102D
 patch=1,EE,20AB17C4,extended,08030084
 patch=1,EE,20AB17C8,extended,24010003
 
-[Cheats/Max Precursor Orbs Secrets Shop] 
+//Cheats/Max Precursor Orbs Secrets Shop
 patch=1,EE,207B95D0,extended,4CBEBC20
 
-[Cheats/Unlock All Drivers] 
+//Cheats/Unlock All Drivers
 patch=1,EE,207B9C50,extended,FFFFFFFF
 patch=1,EE,207B9C54,extended,FFFFFFFF
 
-[Cheats/Have Grand Prix Finished Red Eco Cup] 
+//Cheats/Have Grand Prix Finished Red Eco Cup
 patch=1,EE,109935B8,extended,00000003
 
-[Cheats/Have Grand Prix Finished Green Eco Cup] 
+//Cheats/Have Grand Prix Finished Green Eco Cup
 patch=1,EE,109934E8,extended,00000003
 
-[Cheats/Have Grand Prix Finished Blue Eco Cup] 
+//Cheats/Have Grand Prix Finished Blue Eco Cup
 patch=1,EE,10993408,extended,00000003
 
-[Cheats/Have Grand Prix Finished Yellow Eco Cup] 
+//Cheats/Have Grand Prix Finished Yellow Eco Cup
 patch=1,EE,10993338,extended,00000003
 
-[Cheats/Unlock All General] 
+//Cheats/Unlock All General
 patch=1,EE,207B99F8,extended,0010C001
 
-[Cheats/Unlock All Concept Art] 
+//Cheats/Unlock All Concept Art
 patch=1,EE,207B99F9,extended,00000007
 
-[Cheats/Unlock All Vehicles] 
+//Cheats/Unlock All Vehicles
 patch=1,EE,207B99FD,extended,00000003
 
-[Cheats/Unlock All Reels] 
+//Cheats/Unlock All Reels
 patch=1,EE,207B99F8,extended,00000010
 patch=1,EE,207B99FC,extended,001020E0
 
-[Cheats/Unlock All Helmets] 
+//Cheats/Unlock All Helmets
 patch=1,EE,207B99FB,extended,00000080
 patch=1,EE,207B99FC,extended,0000001F
 
-[Cheats/Unlock All Antennas] 
+//Cheats/Unlock All Antennas
 patch=1,EE,207B99FB,extended,0000007E
 
-[Cheats/Unlock All Bonus Wheels] 
+//Cheats/Unlock All Bonus Wheels
 patch=1,EE,207B99FD,extended,00000080
 patch=1,EE,207B99FE,extended,001001FF

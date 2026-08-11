@@ -1,43 +1,43 @@
-[Cheats/Max Money]  
+//Cheats/Max Money
 patch=1,EE,201FEADC,extended,00000000
 
-[Cheats/Move 30 1st Person] 
+//Cheats/Move 30 1st Person
 patch=1,EE,01B800B4,extended,0000001E
 
-[Cheats/Move 30 Second Person] 
+//Cheats/Move 30 Second Person
 patch=1,EE,01B80584,extended,0000001E
 
-[Cheats/Infinite AP 99] 
+//Cheats/Infinite AP 99
 patch=1,EE,01B9EC40,extended,00000063
 
-[Cheats/All Root Book 99] 
+//Cheats/All Root Book 99
 patch=1,EE,41B8F50E,extended,00640002
 patch=1,EE,00630000,extended,00000000
 
-[Cheats/All 26 Characters Exp Max]  
+//Cheats/All 26 Characters Exp Max
 patch=1,EE,41B800C8,extended,001A0134
 patch=1,EE,000186A0,extended,00000000
 
-[Cheats/All Accessory x98] 
+//Cheats/All Accessory x98
 patch=1,EE,41B8E6C2,extended,00410005
 patch=1,EE,00620105,extended,00000000
 
-[Cheats/Max Level When Increasing Or Decreasing Money] 
+//Cheats/Max Level When Increasing Or Decreasing Money
 patch=1,EE,201FEAD8,extended,24010001
 
-[Cheats/Max AP Maintenance] 
+//Cheats/Max AP Maintenance
 patch=1,EE,20240EAC,extended,90410001
 patch=1,EE,20240EB0,extended,AC810484 
 patch=1,EE,20240EC8,extended,A0410000
 
-[Cheats/Ally Movement Power 99] 
+//Cheats/Ally Movement Power 99
 patch=1,EE,201EEB10,extended,24020063
 
-[Cheats/Unlock All decorations 98 Pieces view the respective list to enable it ]
+//Cheats/Unlock All decorations 98 Pieces view the respective list to enable it
 patch=1,EE,202D3A38,extended,24030062
 patch=1,EE,202D3A3C,extended,A2430006
 
-[Cheats/Unlock All Items 98 Pieces view the respective list to enable it ] 
+//Cheats/Unlock All Items 98 Pieces view the respective list to enable it
 patch=1,EE,202D0F54,extended,24020062
 patch=1,EE,202D0F58,extended,A2020006
 
@@ -45,21 +45,21 @@ patch=1,EE,202D0F58,extended,A2020006
 patch=1,EE,20206B14,extended,24030062
 patch=1,EE,20206B18,extended,A0830006
 
-[Cheats/Weapon Level 99] 
+//Cheats/Weapon Level 99
 patch=1,EE,20227F54,extended,24040063
 patch=1,EE,20227F70,extended,A6E4001C
 
-[Cheats/Weapon Basic Attack Power 999] 
+//Cheats/Weapon Basic Attack Power 999
 patch=1,EE,202280B4,extended,240103E7
 patch=1,EE,202280B8,extended,080717D4
 patch=1,EE,202280BC,extended,AEE10020
 patch=1,EE,20227F6C,extended,0C08A02D
 
-[Cheats/Armor Level 99] 
+//Cheats/Armor Level 99
 patch=1,EE,202291CC,extended,24040063
 patch=1,EE,202291E8,extended,A2040006
 
-[Cheats/Armor Basic Defense Power 999] 
+//Cheats/Armor Basic Defense Power 999
 patch=1,EE,20229394,extended,240103E7
 patch=1,EE,20229398,extended,0809D098
 patch=1,EE,2022939C,extended,AE010008

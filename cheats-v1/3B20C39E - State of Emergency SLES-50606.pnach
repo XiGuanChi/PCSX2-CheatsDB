@@ -1,11 +1,11 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,101DC378,extended,00000004
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,101DC380,extended,00000004
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,101DC37C,extended,00000004
 
-[Cheats/Unlock All characters] 
+//Cheats/Unlock All characters
 patch=1,EE,101DD6F8,extended,0000071F

@@ -1,10 +1,10 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2014557C,extended,24020063
 
-[Cheats/Freeze Time Trial Timer] 
+//Cheats/Freeze Time Trial Timer
 patch=1,EE,201F5F18,extended,00000000
 
-[Cheats/Invulnerable]  
+//Cheats/Invulnerable
 patch=1,EE,201C2EF0,extended,1000000D
 patch=1,EE,201C4040,extended,10000019
 patch=1,EE,201C2EA4,extended,1000000E
@@ -13,18 +13,18 @@ patch=1,EE,201C2F34,extended,00000000
 [Cheats/Unlock ] Infinite Morph Skill Time 
 patch=1,EE,201C1058,extended,00000000
 
-[Cheats/Infinite Race Time]  
+//Cheats/Infinite Race Time
 patch=1,EE,20183798,extended,00000000
 
-[Cheats/Only A Green Energy Or A Crate To Unlock The Energized Beacon] 
+//Cheats/Only A Green Energy Or A Crate To Unlock The Energized Beacon
 patch=1,EE,201F2D7C,extended,00000000
 
-[Cheats/Take A Ball Of Energy To Get Max] 
+//Cheats/Take A Ball Of Energy To Get Max
 patch=1,EE,201455AC,extended,00000000
 
-[Cheats/Unlock All Levels ALT needs a savegame]   
+//Cheats/Unlock All Levels ALT needs a savegame
 patch=1,EE,201459C4,extended,24020007
 patch=1,EE,20145B04,extended,24020007
 
-[Cheats/Unlock All Levels needs a savegame]  
+//Cheats/Unlock All Levels needs a savegame
 patch=1,EE,20145B0C,extended,24020001

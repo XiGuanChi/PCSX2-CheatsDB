@@ -1,3 +1,3 @@
-[Cheats/Press Select While In Battle For Parameter Debug Menuwill enable this menu. You can change your team parameters, enemy parameters, and change the level you are on.] 
+//Cheats/Press Select While In Battle For Parameter Debug Menuwill enable this menu. You can change your team parameters, enemy parameters, and change the level you are on.
 patch=1,EE,D01C3012,extended,0000FFFE
 patch=1,EE,205D2EAC,extended,000000A5

@@ -1,18 +1,18 @@
-[Cheats/Max Money After Getting Some] 
+//Cheats/Max Money After Getting Some
 patch=1,EE,2012D738,extended,24032800
 
-[Cheats/In Battle Max Health] 
+//Cheats/In Battle Max Health
 patch=1,EE,201EA254,extended,E44216A4
 
-[Cheats/In Battle Max vigor]  
+//Cheats/In Battle Max vigor
 patch=1,EE,201EA258,extended,C44316B4
 patch=1,EE,201EA264,extended,E44316B0
 
-[Cheats/In Battle No Damage] 
+//Cheats/In Battle No Damage
 patch=1,EE,201F3180,extended,3C030002
 patch=1,EE,201F3188,extended,14600070
 
-[Cheats/In Battle No Damage + One Hit Kill Enemy ON Press SELECT+L2 OFF SELECT+R2] 
+//Cheats/In Battle No Damage + One Hit Kill Enemy ON Press SELECT+L2 OFF SELECT+R2
 patch=1,EE,201F3180,extended,3C030002
 patch=1,EE,201F3188,extended,14600070
 patch=1,EE,D0393E82,extended,0000FEFE
@@ -20,19 +20,19 @@ patch=1,EE,201F31CC,extended,44800000
 patch=1,EE,D0393E82,extended,0000FDFE
 patch=1,EE,201F31CC,extended,44820000
 
-[Cheats/Max Health And Vigor After Open Menu] 
+//Cheats/Max Health And Vigor After Open Menu
 patch=1,EE,2015642C,extended,8E0500E0
 patch=1,EE,20156448,extended,AE0500DC
 patch=1,EE,20156548,extended,E60100D0
 
-[Cheats/Sets Emissary's Status To Subjugating This is effective when checking the status of an emissary that is not under your control.] 
+//Cheats/Sets Emissary's Status To Subjugating This is effective when checking the status of an emissary that is not under your control.
 patch=1,EE,20160D74,extended,34630010
 patch=1,EE,20160D78,extended,A2230000
 
-[Cheats/After Winning The Battle the envoy you are converting will join your ranks]
+//Cheats/After Winning The Battle the envoy you are converting will join your ranks
 patch=1,EE,2018B8F4,extended,10000012
 
-[Cheats/Max Tool Possession By Tool Acquisition] 
+//Cheats/Max Tool Possession By Tool Acquisition
 patch=1,EE,201AF770,extended,64100063
 
 

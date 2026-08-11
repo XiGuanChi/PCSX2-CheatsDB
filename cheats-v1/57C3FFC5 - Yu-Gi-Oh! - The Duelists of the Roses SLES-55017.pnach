@@ -1,16 +1,16 @@
-[Cheats/Player 1 Lancaster 9999 LP] 
+//Cheats/Player 1 Lancaster 9999 LP
 patch=1,EE,102DE35A,extended,0000270F
 
-[Cheats/Player 2 York 0 LP - Player 1 always win] 
+//Cheats/Player 2 York 0 LP - Player 1 always win
 patch=1,EE,102DE6AA,extended,00000000
 
-[Cheats/End Match After First Move] 
+//Cheats/End Match After First Move
 patch=1,EE,201E0CF8,extended,00000000
 
-[Cheats/Infinite Summon Power Use] 
+//Cheats/Infinite Summon Power Use
 patch=1,EE,201E0DD4,extended,00000000
 
-[Cheats/Unlock All Cards] 
+//Cheats/Unlock All Cards
 patch=1,EE,202177f8,extended,3C035237
 patch=1,EE,202177fc,extended,34638B9C
 patch=1,EE,20217800,extended,AC830000

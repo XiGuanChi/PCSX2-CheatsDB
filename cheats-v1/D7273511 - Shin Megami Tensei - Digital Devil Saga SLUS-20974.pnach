@@ -1,109 +1,109 @@
-[Cheats/Infinite Funds] 
+//Cheats/Infinite Funds
 patch=1,EE,2114133C,extended,0098967F
 
-[Cheats/Serph Max Level] 
+//Cheats/Serph Max Level
 patch=1,EE,01141D74,extended,00000063
 
-[Cheats/Serph Infinite HP] 
+//Cheats/Serph Infinite HP
 patch=1,EE,11141D66,extended,000003E7
 
-[Cheats/Serph Max HP] 
+//Cheats/Serph Max HP
 patch=1,EE,11141D68,extended,000003E7
 
-[Cheats/Serph Infinite MP] 
+//Cheats/Serph Infinite MP
 patch=1,EE,11141D6A,extended,000003E7
 
-[Cheats/Serph Max MP] 
+//Cheats/Serph Max MP
 patch=1,EE,11141D6C,extended,000003E7
 
-[Cheats/Serph Max St] 
+//Cheats/Serph Max St
 patch=1,EE,01141D76,extended,00000063
 
-[Cheats/Serph Max Vi] 
+//Cheats/Serph Max Vi
 patch=1,EE,01141D77,extended,00000063
 
-[Cheats/Serph Max Ma] 
+//Cheats/Serph Max Ma
 patch=1,EE,01141D78,extended,00000063
 
-[Cheats/Serph Max Ag] 
+//Cheats/Serph Max Ag
 patch=1,EE,01141D79,extended,00000063
 
-[Cheats/Serph Max Lu] 
+//Cheats/Serph Max Lu
 patch=1,EE,01141D7A,extended,00000063
 
-[Cheats/Heat Max Level] 
+//Cheats/Heat Max Level
 patch=1,EE,01141F18,extended,00000063
 
-[Cheats/Heat Infinite HP] 
+//Cheats/Heat Infinite HP
 patch=1,EE,11141F0A,extended,000003E7
 
-[Cheats/Heat Max HP] 
+//Cheats/Heat Max HP
 patch=1,EE,11141F0C,extended,000003E7
 
-[Cheats/Heat Infinite MP] 
+//Cheats/Heat Infinite MP
 patch=1,EE,11141F0E,extended,000003E7
 
-[Cheats/Heat Max MP] 
+//Cheats/Heat Max MP
 patch=1,EE,11141F10,extended,000003E7
 
-[Cheats/Heat Max St] 
+//Cheats/Heat Max St
 patch=1,EE,01141F1A,extended,00000063
 
-[Cheats/Heat Max Vi] 
+//Cheats/Heat Max Vi
 patch=1,EE,01141F1B,extended,00000063
 
-[Cheats/Heat Max Ma] 
+//Cheats/Heat Max Ma
 patch=1,EE,01141F1C,extended,00000063
 
-[Cheats/Heat Max Ag] 
+//Cheats/Heat Max Ag
 patch=1,EE,01141F1D,extended,00000063
 
-[Cheats/Heat Max Lu] 
+//Cheats/Heat Max Lu
 patch=1,EE,01141F1E,extended,00000063
 
-[Cheats/Argilla Max Level] 
+//Cheats/Argilla Max Level
 patch=1,EE,011420BC,extended,00000063
 
-[Cheats/Argilla Infinite HP] 
+//Cheats/Argilla Infinite HP
 patch=1,EE,111420AE,extended,000003E7
 
-[Cheats/Argilla Max HP] 
+//Cheats/Argilla Max HP
 patch=1,EE,111420B0,extended,000003E7
 
-[Cheats/Argilla Infinite MP] 
+//Cheats/Argilla Infinite MP
 patch=1,EE,111420B2,extended,000003E7
 
-[Cheats/Argilla Max MP] 
+//Cheats/Argilla Max MP
 patch=1,EE,111420B4,extended,000003E7
 
-[Cheats/Argilla Max St] 
+//Cheats/Argilla Max St
 patch=1,EE,011420BE,extended,00000063
 
-[Cheats/Argilla Max Vi] 
+//Cheats/Argilla Max Vi
 patch=1,EE,011420BF,extended,00000063
 
-[Cheats/Argilla Max Ma] 
+//Cheats/Argilla Max Ma
 patch=1,EE,011420C0,extended,00000063
 
-[Cheats/Argilla Max Ag] 
+//Cheats/Argilla Max Ag
 patch=1,EE,011420C1,extended,00000063
 
-[Cheats/Argilla Max Lu] 
+//Cheats/Argilla Max Lu
 patch=1,EE,01141FC2,extended,00000063
 
-[Cheats/In Battle Infinite Max HP And MP Player] 
+//Cheats/In Battle Infinite Max HP And MP Player
 patch=1,EE,201BC490,extended,2406270F
 patch=1,EE,201BC4A0,extended,A6660126
 patch=1,EE,201BC4D4,extended,2406270F
 patch=1,EE,201BC4E4,extended,A666012A
 
-[Cheats/In Battle 1 Hit Kill Monsters HP 1 MP 0] 
+//Cheats/In Battle 1 Hit Kill Monsters HP 1 MP 0
 patch=1,EE,201A1AD0,extended,24030001
 patch=1,EE,201A1AD8,extended,24040001
 patch=1,EE,201A1AE0,extended,24030000
 patch=1,EE,201A1AE8,extended,24040000
 
-[Cheats/Infinite All Ammo] 
+//Cheats/Infinite All Ammo
 patch=1,EE,01142641,extended,00000063
 patch=1,EE,01142642,extended,00000063
 patch=1,EE,01142643,extended,00000063
@@ -122,14 +122,14 @@ patch=1,EE,0114264F,extended,00000063
 patch=1,EE,01142650,extended,00000063
 patch=1,EE,01142651,extended,00000063
 
-[Cheats/P1 Press L1+Select To Disable Random Battles] 
+//Cheats/P1 Press L1+Select To Disable Random Battles
 patch=1,EE,D03F9902,extended,0000FBFE
 patch=1,EE,2011CC88,extended,00000000
 
-[Cheats/P1 Press L2+Select To Enable Random Battles] 
+//Cheats/P1 Press L2+Select To Enable Random Battles
 patch=1,EE,D03F9902,extended,0000FEFE
 patch=1,EE,2011CC88,extended,A4831364
 
-[Cheats/Battle Stage Debug At Boo tA map select option. You can also view all of the maps in this game, not just battle maps here. Selecting a map that doesn't exist in the game will softlock the game. Apply the code below to appear in this menu upon first boot of the game. For a list of maps in this game, head on over to the notes page.] 
+//Cheats/Battle Stage Debug At Boo tA map select option. You can also view all of the maps in this game, not just battle maps here. Selecting a map that doesn't exist in the game will softlock the game. Apply the code below to appear in this menu upon first boot of the game. For a list of maps in this game, head on over to the notes page.
 patch=1,EE,203297E4,extended,0010A748 
 

@@ -1,43 +1,43 @@
-[Cheats/Kaim's HP 9999]  
+//Cheats/Kaim's HP 9999
 patch=1,EE,203A4210,extended,0000270F
 patch=1,EE,203A4214,extended,0000270F
 
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,2017121C,extended,1000005A
 patch=1,EE,201724AC,extended,00000000
 patch=1,EE,201C4DD0,extended,1000012E
 
-[Cheats/Max Player MP]  
+//Cheats/Max Player MP
 patch=1,EE,20176DF8,extended,8C820734
 patch=1,EE,20176DFC,extended,AC820730
 
-[Cheats/Max Dragon MP]  
+//Cheats/Max Dragon MP
 patch=1,EE,204AAC0C,extended,00001000
 
-[Cheats/Max Dragon Attack Power] 
+//Cheats/Max Dragon Attack Power
 patch=1,EE,203A37AC,extended,0098967F
 
-[Cheats/Max All Time] 
+//Cheats/Max All Time
 patch=1,EE,203A2E50,extended,0036EE7F
 
-[Cheats/Unlock Sere] 
+//Cheats/Unlock Sere
 patch=1,EE,103A32E2,extended,00000001
 patch=1,EE,103A3796,extended,00000001
 
-[Cheats/Unlock Ariosch]  
+//Cheats/Unlock Ariosch
 patch=1,EE,103A32E4,extended,00000001
 patch=1,EE,103A3798,extended,00000001
 
-[Cheats/Unlock Leonard]  
+//Cheats/Unlock Leonard
 patch=1,EE,103A32E6,extended,00000001
 patch=1,EE,103A379A,extended,00000001
 
-[Cheats/Unlock All Weapons Selectable Condition Select weapon In Battle Preparation] 
+//Cheats/Unlock All Weapons Selectable Condition Select weapon In Battle Preparation
 patch=1,EE,201365EC,extended,10A0FFF5
 patch=1,EE,201365F4,extended,2402000F
 patch=1,EE,201365FC,extended,A06205DB
 
-[Cheats/Unlock Story Full Chapter, Free Mission Selectable Condition Select each item] 
+//Cheats/Unlock Story Full Chapter, Free Mission Selectable Condition Select each item
 patch=1,EE,2013563C,extended,2402FFFF
 patch=1,EE,20135640,extended,AC820540
 patch=1,EE,2013564C,extended,24020001

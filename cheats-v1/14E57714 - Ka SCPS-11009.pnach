@@ -1,13 +1,13 @@
-[Cheats/Infinite Time Battle] 
+//Cheats/Infinite Time Battle
 patch=1,EE,1044D510,extended,00000000
 
-[Cheats/Infinite Time Stage 12]  
+//Cheats/Infinite Time Stage 12
 patch=1,EE,2044CC38,extended,00034BC0
 
-[Cheats/Max EX Tank Empty tank] 
+//Cheats/Max EX Tank Empty tank
 patch=1,EE,0044D1C0,extended,00000010
 
-[Cheats/EX.B 100] 
+//Cheats/EX.B 100
 patch=1,EE,1044D1C6,extended,000040A0
 patch=1,EE,1044D1CA,extended,000040A0
 patch=1,EE,1044D1CE,extended,000040A0
@@ -26,9 +26,9 @@ patch=1,EE,1044D1FE,extended,000040A0
 patch=1,EE,1044D202,extended,000040A0
 patch=1,EE,0044D204,extended,00000050
 
-[Cheats/Unlock All Stages] 
+//Cheats/Unlock All Stages
 patch=1,EE,1072BB56,extended,00004300
 
-[Cheats/Unlock All Coloring] 
+//Cheats/Unlock All Coloring
 patch=1,EE,1044D088,extended,0000FFFF
 

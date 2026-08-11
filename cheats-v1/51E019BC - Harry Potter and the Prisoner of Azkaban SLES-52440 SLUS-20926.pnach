@@ -1,8 +1,8 @@
-[Cheats/Infinite Health Use Only After the Intro Train Sequence] 
+//Cheats/Infinite Health Use Only After the Intro Train Sequence
 patch=1,EE,2010DC18,extended,C4410038
 patch=1,EE,2010DC1C,extended,E4410034
 
-[Cheats/Infinite Health Press L3 to Activate R3 to Disable] 
+//Cheats/Infinite Health Press L3 to Activate R3 to Disable
 patch=1,EE,E002FFFD,extended,004F57C0
 patch=1,EE,2010DC18,extended,C4410038
 patch=1,EE,2010DC1C,extended,E4410034
@@ -10,31 +10,31 @@ patch=1,EE,E002FFFB,extended,004F57C0
 patch=1,EE,2010DC18,extended,54400001
 patch=1,EE,2010DC1C,extended,C4410034
 
-[Cheats/Max Wiggenwelds] 
+//Cheats/Max Wiggenwelds
 patch=1,EE,200C0240,extended,080D1300
 patch=1,EE,200C0244,extended,A0660000
 patch=1,EE,2010EF0C,extended,24060063
 patch=1,EE,2010EF18,extended,0C030090
 
-[Cheats/Boss Has No Health] 
+//Cheats/Boss Has No Health
 patch=1,EE,2010E250,extended,AC400034
 patch=1,EE,2010E254,extended,44806000
 
-[Cheats/Debug Menu Chapter Selection Press L1 on the main menu screen] 
+//Cheats/Debug Menu Chapter Selection Press L1 on the main menu screen
 patch=1,EE,201120F8,extended,24A5CCC0
 
-[Cheats/Owl Racing Available] 
+//Cheats/Owl Racing Available
 patch=1,EE,2010F6C8,extended,00000000
 
-[Cheats/Access Hippogrip Flight Challenge] 
+//Cheats/Access Hippogrip Flight Challenge
 patch=1,EE,204D9E48,extended,00000001
 
-[Cheats/All Spells] 
+//Cheats/All Spells
 patch=1,EE,201B0F40,extended,AE020004
 patch=1,EE,201B0F50,extended,24020001
 
-[Cheats/10000 House Points] 
+//Cheats/10000 House Points
 patch=1,EE,1047C86C,extended,0000270f
 
-[Cheats/Game Map Always Visible] 
+//Cheats/Game Map Always Visible
 patch=1,EE,2011212C,extended,00000000

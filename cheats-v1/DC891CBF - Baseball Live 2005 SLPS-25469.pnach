@@ -1,4 +1,4 @@
-[Cheats/During The Match No Count Press L1+L2]  
+//Cheats/During The Match No Count Press L1+L2
 patch=1,EE,D0EA05C0,extended,00000500
 patch=1,EE,110BEBFE,extended,00000000
 patch=1,EE,D0EA05C0,extended,00000500
@@ -6,7 +6,7 @@ patch=1,EE,110BEC00,extended,00000000
 patch=1,EE,D0EA05C0,extended,00000500
 patch=1,EE,110BEC02,extended,00000000
 
-[Cheats/During The Match 2 Strikes, 0 Balls, 2 Outs Press R1+R2] 
+//Cheats/During The Match 2 Strikes, 0 Balls, 2 Outs Press R1+R2
 patch=1,EE,D0EA05C0,extended,00000A00
 patch=1,EE,110BEBFE,extended,00000002
 patch=1,EE,D0EA05C0,extended,00000A00
@@ -14,16 +14,16 @@ patch=1,EE,110BEC00,extended,00000000
 patch=1,EE,D0EA05C0,extended,00000A00
 patch=1,EE,110BEC02,extended,00000002
 
-[Cheats/During The Match 9 Times Press L2+SELECT] 
+//Cheats/During The Match 9 Times Press L2+SELECT
 patch=1,EE,D0EA05C0,extended,00000C00 
 patch=1,EE,010BEC10,extended,00000009
 
-[Cheats/Asunaro Mode Points 99 Press L2+R2+SELECT If you start from NEW, it does not correspond to the points when creating the character] 
+//Cheats/Asunaro Mode Points 99 Press L2+R2+SELECT If you start from NEW, it does not correspond to the points when creating the character
 patch=1,EE,D0EA05C0,extended,00000301
 patch=1,EE,011AAF00,extended,00000063
 
-[Cheats/Dream League Mode Reinforcement Budget At Start 9999] 
+//Cheats/Dream League Mode Reinforcement Budget At Start 9999
 patch=1,EE,11192928,extended,0000270F
 
-[Cheats/Dream League Mode Budget 999999] 
+//Cheats/Dream League Mode Budget 999999
 patch=1,EE,203264A8,extended,000F423F

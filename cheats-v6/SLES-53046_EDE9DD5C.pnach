@@ -1,11 +1,11 @@
 gametitle=Counter Terrorist Special Forces - Fire for Effect PAL-M SLES-53046 EDE9DD5C
 
-[50/60 FPS]
+//50/60 FPS
 author=GamingDragon93
 description=Might need EE Overclock.
 patch=1,EE,0021A53C,word,14600006 //10600006
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC Mode at start.
 patch=1,EE,00219420,word,10450007 //14450007

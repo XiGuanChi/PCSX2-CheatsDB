@@ -1,12 +1,12 @@
-[Cheats/Max Gauge] 
+//Cheats/Max Gauge
 patch=1,EE,0014BC80,extended,00000001
 
-[Cheats/Autostep] 
+//Cheats/Autostep
 patch=1,EE,2014C7D8,extended,00601823
 patch=1,EE,2014C7B8,extended,1442005B
 patch=1,EE,2014C880,extended,02609821
 patch=1,EE,2014C8A0,extended,10200001
 
-[Cheats/Unlock All Songs]  
+//Cheats/Unlock All Songs
 patch=1,EE,2028D110,extended,FFFFFFFF
 patch=1,EE,2028D110,extended,FFFFFFFF

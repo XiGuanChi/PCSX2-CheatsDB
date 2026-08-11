@@ -1,26 +1,26 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,D1CACA24,extended,000027F8
 patch=1,EE,21CACBC4,extended,3C0105F5
 patch=1,EE,D1CACA24,extended,000027F8
 patch=1,EE,21CACBCC,extended,3422E0FF
 
-[Cheats/Low Temperature] 
+//Cheats/Low Temperature
 patch=1,EE,D1C42A80,extended,00002050
 patch=1,EE,21C42A80,extended,A6202050
 
-[Cheats/Max Money After Selling Parts]   
+//Cheats/Max Money After Selling Parts
 patch=1,EE,D1CACA24,extended,000027F8
 patch=1,EE,21CACAF0,extended,3C0105F5
 patch=1,EE,D1CACA24,extended,000027F8
 patch=1,EE,21CACAF8,extended,3422E0FF
 
-[Cheats/Max Money After Buying Parts]  
+//Cheats/Max Money After Buying Parts
 patch=1,EE,D1CACA24,extended,000027F8
 patch=1,EE,21CACBC4,extended,3C0105F5
 patch=1,EE,D1CACA24,extended,000027F8
 patch=1,EE,21CACBCC,extended,3422E0FF
 
-[Cheats/Select Buy To Get All Parts] 
+//Cheats/Select Buy To Get All Parts
 patch=1,EE,D1CBEE68,extended,00000960
 patch=1,EE,21CBEEE8,extended,24030011
 patch=1,EE,D1CBEE68,extended,00000960
@@ -28,52 +28,52 @@ patch=1,EE,21CBEEEC,extended,A0E30000
 patch=1,EE,D1CBEE68,extended,00000960
 patch=1,EE,21CBEED0,extended,A3A3002C
 
-[Cheats/Area No Over] 
+//Cheats/Area No Over
 patch=1,EE,D1C42A80,extended,00002050
 patch=1,EE,21C42A80,extended,A6202050
 
-[Cheats/Infinite Ammo other than the number of extension assists] 
+//Cheats/Infinite Ammo other than the number of extension assists
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21C4CF00,extended,24620000
 
-[Cheats/Infinite Tune Ups If you don't continue using the code, the effect will not last] 
+//Cheats/Infinite Tune Ups If you don't continue using the code, the effect will not last
 patch=1,EE,D1CBD0FC,extended,000000D4
 patch=1,EE,21CBD138,extended,24020064
 
-[Cheats/1P No Excessive Leg Weight Warning Display] 
+//Cheats/1P No Excessive Leg Weight Warning Display
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D05094,extended,40000000
 
-[Cheats/1P No Excessive Arm Weight Warning Display] 
+//Cheats/1P No Excessive Arm Weight Warning Display
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D05098,extended,40000000
 
-[Cheats/Equipped With All Optional parts save not reflected] 
+//Cheats/Equipped With All Optional parts save not reflected
 patch=1,EE,2038FEF4,extended,FFFFFFFF
 
-[Cheats/1P AP 9999] 
+//Cheats/1P AP 9999
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D04F34,extended,00009C3A
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D050BC,extended,00009C3A
 
-[Cheats/1P Infinite HP Gauge display will be changed] 
+//Cheats/1P Infinite HP Gauge display will be changed
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D06F98,extended,00020000
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D06F9C,extended,00020000
 
-[Cheats/1P Walking Double Speed] 
+//Cheats/1P Walking Double Speed
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D0552C,extended,40000000
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D05530,extended,40000000
 
-[Cheats/1P Turning Speed]  
+//Cheats/1P Turning Speed
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D0547C,extended,40000000
 
-[Cheats/1P Booster ground Performance Up] 
+//Cheats/1P Booster ground Performance Up
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D054A0,extended,40400000
 patch=1,EE,D1C4CED4,extended,0000270F
@@ -81,33 +81,33 @@ patch=1,EE,21D054A4,extended,40400000
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D054A8,extended,40400000
 
-[Cheats/1P Booster rising Performance Up] 
+//Cheats/1P Booster rising Performance Up
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D054AC,extended,40400000
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D054B0,extended,40400000
 
-[Cheats/1P Booster Air Rise Performance Up] 
+//Cheats/1P Booster Air Rise Performance Up
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D054B4,extended,40400000
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D054B8,extended,40400000
 
-[Cheats/1P Double Gravity] 
+//Cheats/1P Double Gravity
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D05490,extended,40000000
 
-[Cheats/1P ECM Performance Up] 
+//Cheats/1P ECM Performance Up
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D05140,extended,0098967F
 
-[Cheats/1P Radiator Performance Up] 
+//Cheats/1P Radiator Performance Up
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D054E0,extended,4B000000
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D054E4,extended,4B000000
 
-[Cheats/1P No Broken Parts] 
+//Cheats/1P No Broken Parts
 patch=1,EE,D1C461A8,extended,000020A6
 patch=1,EE,21D14134,extended,000F423F
 patch=1,EE,D1C461A8,extended,000020A6
@@ -119,11 +119,11 @@ patch=1,EE,21D14170,extended,000F423F
 patch=1,EE,D1C461A8,extended,000020A6
 patch=1,EE,21D14184,extended,000F423F
 
-[Cheats/2P AP 9999] 
+//Cheats/2P AP 9999
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D07544,extended,00008C3A
 
-[Cheats/2P Infinite HP] 
+//Cheats/2P Infinite HP
 patch=1,EE,D1C4CED4,extended,0000270F
 patch=1,EE,21D095A8,extended,00020000
 patch=1,EE,D1C4CED4,extended,0000270F

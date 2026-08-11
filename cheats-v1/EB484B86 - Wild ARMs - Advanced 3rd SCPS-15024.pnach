@@ -1,42 +1,42 @@
-[Cheats/Max Gella] 
+//Cheats/Max Gella
 patch=1,EE,2065A66C,extended,05F5E0FF
 
-[Cheats/Virginia Current HP] 
+//Cheats/Virginia Current HP
 patch=1,EE,2065A168,extended,0000270F
 
-[Cheats/Max HP] 
+//Cheats/Max HP
 patch=1,EE,2065A170,extended,0000270F
 
-[Cheats/Max PS Points] 
+//Cheats/Max PS Points
 patch=1,EE,1065A1C0,extended,000003E7
 
-[Cheats/Max HP At Start Of Battle] 
+//Cheats/Max HP At Start Of Battle
 patch=1,EE,0016F7A4,extended,00000001
 
-[Cheats/Max FP At Start Of Battle] 
+//Cheats/Max FP At Start Of Battle
 patch=1,EE,2016F7BC,extended,34040064
 
-[Cheats/Infinite Ammo In Battle] 
+//Cheats/Infinite Ammo In Battle
 patch=1,EE,1021410C,extended,00000000
 
-[Cheats/No Item Loss] 
+//Cheats/No Item Loss
 patch=1,EE,2018D714,extended,24420000
 
-[Cheats/Level Max In One Battle] 
+//Cheats/Level Max In One Battle
 patch=1,EE,20234970,extended,14000003
 
-[Cheats/After Battle Max Gain Experience] 
+//Cheats/After Battle Max Gain Experience
 patch=1,EE,2065F2D0,extended,05F5E0FF
 patch=1,EE,2065F2D8,extended,05F5E0FF
 patch=1,EE,2065F2DC,extended,05F5E0FF
 patch=1,EE,2065F2E0,extended,05F5E0FF
 patch=1,EE,2065F2E4,extended,05F5E0FF
 
-[Cheats/Random Battles On L3 Off R3] 
+//Cheats/Random Battles On L3 Off R3
 patch=1,EE,D04DD638,extended,00000400
 patch=1,EE,201F84A4,extended,34040000
 patch=1,EE,D04DD638,extended,00000200
 patch=1,EE,201F84A4,extended,00000000
 
-[Cheats/Do not leave Zakopane enemy] 
+//Cheats/Do not leave Zakopane enemy
 patch=1,EE,0065A670,extended,0000000A

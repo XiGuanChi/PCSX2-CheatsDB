@@ -1,73 +1,73 @@
-[Cheats/1P Max stamina 2P Stamina 0] 
+//Cheats/1P Max stamina 2P Stamina 0
 patch=1,EE,201FA33C,extended,AC600054
 patch=1,EE,201FA340,extended,80610004
 patch=1,EE,201FA344,extended,1420001E
 patch=1,EE,201FA350,extended,E4610054
 
-[Cheats/1P CRITICAL 2P BAD 2 Only at the time of CPU, at the time of Player operation it is invalid] 
+//Cheats/1P CRITICAL 2P BAD 2 Only at the time of CPU, at the time of Player operation it is invalid
 patch=1,EE,2022AF78,extended,3C01002E
 patch=1,EE,2022AF7C,extended,34218C00
 patch=1,EE,2022AF80,extended,0030082A
 patch=1,EE,2022AF84,extended,14200009
 patch=1,EE,2022AFAC,extended,24020004
 
-[Cheats/1P Score 9] 
+//Cheats/1P Score 9
 patch=1,EE,202E77C8,extended,00000009
 
-[Cheats/2P Score 0] 
+//Cheats/2P Score 0
 patch=1,EE,202E8AAC,extended,00000000
 
 //My Captain - Trail to Glory Infinite ability distribution points
 patch=1,EE,201BD2F4,extended,00000000
 
-[Cheats/My Captain - There is no skies wing stamina] 
+//Cheats/My Captain - There is no skies wing stamina
 patch=1,EE,202E6B54,extended,42C80000
 
-[Cheats/My Captain - Enemy BAD automatic] 
+//Cheats/My Captain - Enemy BAD automatic
 patch=1,EE,2022AF84,extended,00000000
 patch=1,EE,2022AF90,extended,24020004
 
-[Cheats/My Captain - Skies wing stamina max] 
+//Cheats/My Captain - Skies wing stamina max
 patch=1,EE,202E6B20,extended,42000000
 
-[Cheats/My Captain - Skies wing morphism sphere power 9990] 
+//Cheats/My Captain - Skies wing morphism sphere power 9990
 patch=1,EE,202E6B2C,extended,42000000
 
-[Cheats/1P TP max] 
+//Cheats/1P TP max
 patch=1,EE,202E77C0,extended,00000003
 patch=1,EE,202E77C4,extended,00000064
 
-[Cheats/2P TP 0] 
+//Cheats/2P TP 0
 patch=1,EE,002E8AA0,extended,00000000
 patch=1,EE,002E8AA4,extended,00000000
 
-[Cheats/Experience value +10000 Valid only for story mode and own team characters]  
+//Cheats/Experience value +10000 Valid only for story mode and own team characters
 patch=1,EE,2022BFC8,extended,24062710
 patch=1,EE,2022BFF0,extended,24062710
 
-[Cheats/While playing Shoot command being visible] 
+//Cheats/While playing Shoot command being visible
 patch=1,EE,2021DFB4,extended,24010001
 patch=1,EE,2021DFB8,extended,A441074C
 
-[Cheats/Ability limited breaking] 
+//Cheats/Ability limited breaking
 patch=1,EE,201BD290,extended,286103E8
 
-[Cheats/Moment battle Manual input judgment becomes softer 1P, 2P Valid only for manual input. CPU operated characters are invalid.Press the button for a critical hit. The special move becomes HYPER when the command matches] 
+//Cheats/Moment battle Manual input judgment becomes softer 1P, 2P Valid only for manual input. CPU operated characters are invalid.Press the button for a critical hit. The special move becomes HYPER when the command matches
 patch=1,EE,20225C8C,extended,10000004
 patch=1,EE,20225CA0,extended,24020001
 
-[Cheats/Moment battle Manual input is automatically successful 1P, 2P Valid only for manual input. CPU operated characters are invalid.Critical without pressing the button. Special moves are always HYPER] 
+//Cheats/Moment battle Manual input is automatically successful 1P, 2P Valid only for manual input. CPU operated characters are invalid.Critical without pressing the button. Special moves are always HYPER
 patch=1,EE,20225C7C,extended,00000000
 patch=1,EE,20225C8C,extended,10000004
 patch=1,EE,20225CA0,extended,24020001
 patch=1,EE,20225DB4,extended,10000016
 
-[Cheats/Unlock all main menu] 
+//Cheats/Unlock all main menu
 patch=1,EE,202E9394,extended,00010001
 patch=1,EE,202E939C,extended,00010001
 patch=1,EE,202E93A0,extended,00010001
 
-[Cheats/Unlock all My Captain - Trail to Glory] 
+//Cheats/Unlock all My Captain - Trail to Glory
 patch=1,EE,202E940C,extended,00010001
 patch=1,EE,202E9410,extended,00010001
 patch=1,EE,202E9414,extended,00010001
@@ -75,7 +75,7 @@ patch=1,EE,202E9418,extended,00010001
 patch=1,EE,202E941C,extended,00010001
 patch=1,EE,202E9420,extended,00010001
 
-[Cheats/Unlock all Another Story] 
+//Cheats/Unlock all Another Story
 patch=1,EE,202E944C,extended,00010001
 patch=1,EE,202E9450,extended,00010001
 patch=1,EE,202E9454,extended,00010001

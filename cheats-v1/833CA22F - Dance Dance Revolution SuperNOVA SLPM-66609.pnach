@@ -1,28 +1,28 @@
-[Cheats/Max Shop Points]  
+//Cheats/Max Shop Points
 patch=1,EE,205142C8,extended,3B9AC9FF
 
-[Cheats/Infinite Shop Points] 
+//Cheats/Infinite Shop Points
 patch=1,EE,10457624,extended,0000FFFF
 
-[Cheats/Max Cumulative Points Record] 
+//Cheats/Max Cumulative Points Record
 patch=1,EE,205142CC,extended,7FFFFFFF
 
-[Cheats/Max Gauge P1] 
+//Cheats/Max Gauge P1
 patch=1,EE,108FBEB2,extended,000003E8
 
-[Cheats/Max Gauge Meter Normal Dance] 
+//Cheats/Max Gauge Meter Normal Dance
 patch=1,EE,109B8A0A,extended,000003E8
 
-[Cheats/Max Gauge Meter Challenge Dance] 
+//Cheats/Max Gauge Meter Challenge Dance
 patch=1,EE,109B8A0C,extended,00000003
 
-[Cheats/Auto Play] 
+//Cheats/Auto Play
 patch=1,EE,20188B78,extended,14600001
 patch=1,EE,20188B88,extended,4A0002FF
 patch=1,EE,20188CD0,extended,4A0002FF
 patch=1,EE,20188D44,extended,4A0002FF
 
-[Cheats/Autoplay Auto Press SELECT+Circle Cancel  Press SELECT+X] 
+//Cheats/Autoplay Auto Press SELECT+Circle Cancel  Press SELECT+X
 patch=1,EE,20188B88,extended,00000000
 patch=1,EE,20188CD0,extended,00000000
 patch=1,EE,20188D48,extended,00000000
@@ -31,7 +31,7 @@ patch=1,EE,20188B78,extended,00000000
 patch=1,EE,D09B1982,extended,0000BFFE
 patch=1,EE,20188B78,extended,1460020B
 
-[Cheats/Unlock All Music Purchased]  
+//Cheats/Unlock All Music Purchased
 patch=1,EE,005144A6,extended,0000000C
 patch=1,EE,105144A8,extended,00000C0C
 patch=1,EE,005144AA,extended,0000000C
@@ -45,37 +45,37 @@ patch=1,EE,105144E0,extended,00000C0C
 patch=1,EE,005144E3,extended,0000000C
 patch=1,EE,205144E4,extended,0C0C0C0C
 
-[Cheats/Unlock All Courses Purchased] 
+//Cheats/Unlock All Courses Purchased
 patch=1,EE,205144E8,extended,04040404
 patch=1,EE,205144EC,extended,04040404
 patch=1,EE,205144F0,extended,04040404
 patch=1,EE,205144F4,extended,04040404
 patch=1,EE,105144F8,extended,00000404
 
-[Cheats/Unlock All Modes Purchased] 
+//Cheats/Unlock All Modes Purchased
 patch=1,EE,10514512,extended,00000404
 patch=1,EE,00514514,extended,00000004
 
-[Cheats/Unlock All Arrows Purchased The arrow will not change even if you purchase it. After checking the code effect and saving, please do not use the code.]  
+//Cheats/Unlock All Arrows Purchased The arrow will not change even if you purchase it. After checking the code effect and saving, please do not use the code.
 patch=1,EE,105144FA,extended,00000204
 patch=1,EE,205144FC,extended,02020202
 patch=1,EE,20514500,extended,02020202
 patch=1,EE,10514504,extended,00000202
 
-[Cheats/Unlock All Dancers Purchased] 
+//Cheats/Unlock All Dancers Purchased
 patch=1,EE,10514506,extended,00000404
 patch=1,EE,20514508,extended,04040404
 patch=1,EE,2051450C,extended,04040404
 patch=1,EE,10514510,extended,00000404
 
-[Cheats/Unlock All Stages Purchased]
+//Cheats/Unlock All Stages Purchased
 patch=1,EE,00514515,extended,00000004
 
-[Cheats/Have Everything Available For Purchase] 
+//Cheats/Have Everything Available For Purchase
 patch=1,EE,404577EC,extended,00210001
 patch=1,EE,02020202,extended,00000000
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,104577EA,extended,00000C0C
 patch=1,EE,404577EC,extended,00210001
 patch=1,EE,0C0C0C0C,extended,00000000

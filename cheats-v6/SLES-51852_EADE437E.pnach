@@ -1,29 +1,29 @@
 gametitle=Tony Hawk's Underground SLES-51852 EADE437E
 
-[Unlimited Special]
+//Unlimited Special
 author=GamingDragon93
 patch=1,EE,202369AC,extended,24020C00
 patch=1,EE,202369B0,extended,AE220068
 patch=1,EE,202369B8,extended,24020001
 patch=1,EE,202369BC,extended,AE22006C
 
-[Max/Infinite Run]
+//Max/Infinite Run
 author=GamingDragon93
 patch=1,EE,2099B1C4,extended,4F000000
 
-[Maxed Ollie]
+//Maxed Ollie
 author=GamingDragon93
 patch=1,EE,2099B1C8,extended,43800000
 
-[Maxed Speed]
+//Maxed Speed
 author=GamingDragon93
 patch=1,EE,2099B1CC,extended,42800000
 
-[Maxed Spin]
+//Maxed Spin
 author=GamingDragon93
 patch=1,EE,2099B1D0,extended,43400000
 
-[Other Stats Maxed Out]
+//Other Stats Maxed Out
 author=GamingDragon93
 patch=1,EE,2099B1C0,extended,44000000
 patch=1,EE,2099B1D4,extended,44000000
@@ -32,10 +32,10 @@ patch=1,EE,2099B1DC,extended,44000000
 patch=1,EE,2099B1E0,extended,44000000
 patch=1,EE,2099B1E4,extended,44000000
 
-[Infinite Goal Time]
+//Infinite Goal Time
 author=GamingDragon93
 patch=1,EE,2024452C,extended,24030001
 
-[Maximum Score (999999)]
+//Maximum Score (999999)
 author=GamingDragon93
 patch=1,EE,2099B9F4,extended,000F423F

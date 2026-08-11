@@ -1,13 +1,13 @@
-[Cheats/Max Gauge] 
+//Cheats/Max Gauge
 patch=1,EE,20151220,extended,00000000
 
-[Cheats/Unlock All Extras] 
+//Cheats/Unlock All Extras
 patch=1,EE,202CB450,extended,FFFFFFFF
 patch=1,EE,202CB454,extended,FFFF8FFF
 patch=1,EE,202CB458,extended,FFFFFFFF
 patch=1,EE,202CB45C,extended,FFFFFFFF
 
-[Cheats/Auto play Press Select Change to normal mode Start] 
+//Cheats/Auto play Press Select Change to normal mode Start
 patch=1,EE,E004FFFE,extended,002CE842
 patch=1,EE,20151DD4,extended,24020000
 patch=1,EE,20151DF8,extended,4A0002FF

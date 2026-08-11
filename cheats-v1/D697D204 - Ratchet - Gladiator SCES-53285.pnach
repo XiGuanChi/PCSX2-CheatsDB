@@ -1,4 +1,4 @@
-[Cheats/Infinite Health Ratchet] 
+//Cheats/Infinite Health Ratchet
 patch=1,EE,200FFF00,extended,3C02001F
 patch=1,EE,200FFF0C,extended,8C42EBF0
 patch=1,EE,200FFF10,extended,10020007
@@ -7,7 +7,7 @@ patch=1,EE,200FFF2C,extended,AC41FE34
 patch=1,EE,200FFF30,extended,03E00008
 patch=1,EE,20126F18,extended,0803FFC0
 
-[Cheats/Infinite Health Vehicles]  
+//Cheats/Infinite Health Vehicles
 patch=1,EE,200FFFF0,extended,3C01447A
 patch=1,EE,200FFFF4,extended,AE2102E8
 patch=1,EE,200FFF40,extended,3C03001F
@@ -22,13 +22,13 @@ patch=1,EE,200FFF64,extended,AC640010
 patch=1,EE,200FFF70,extended,03E00008
 patch=1,EE,2012715C,extended,0803FFD0
 
-[Cheats/Max Bolts] 
+//Cheats/Max Bolts
 patch=1,EE,20171BC0,extended,05F05FF0
 
-[Cheats/Max Dread Points] 
+//Cheats/Max Dread Points
 patch=1,EE,20171BCC,extended,05F00000
 
-[Cheats/Unlock All Planets] 
+//Cheats/Unlock All Planets
 patch=1,EE,001F8E7C,extended,0000001F
 patch=1,EE,001F9484,extended,0000001F
 patch=1,EE,001F9788,extended,0000001F
@@ -40,10 +40,10 @@ patch=1,EE,001FA9A0,extended,0000001F
 patch=1,EE,001FAFA8,extended,0000001F
 patch=1,EE,001FB2AC,extended,0000001F
 
-[Cheats/Unlock All Cinematics] 
+//Cheats/Unlock All Cinematics
 patch=1,EE,20171C88,extended,FFFFFFFF
 
-[Cheats/Unlock All Challenges] 
+//Cheats/Unlock All Challenges
 patch=1,EE,001F88D8,extended,00000007
 patch=1,EE,001F88E4,extended,00000007
 patch=1,EE,001F88F0,extended,00000007

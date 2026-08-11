@@ -1,26 +1,26 @@
-[Cheats/Max WEN 99999] 
+//Cheats/Max WEN 99999
 patch=1,EE,2183ABEC,extended,0001869F
 
-[Cheats/Press SELECT+L2 HOME Side 99 Goals Please jointly use with the pause hang-up evasion ccode at the time of score operation] 
+//Cheats/Press SELECT+L2 HOME Side 99 Goals Please jointly use with the pause hang-up evasion ccode at the time of score operation
 patch=1,EE,D04ED342,extended,0000FEFE
 patch=1,EE,20C80250,extended,00630063
 patch=1,EE,D04ED342,extended,0000FEFE
 patch=1,EE,10C80258,extended,00000063
 
-[Cheats/Press SELECT+R2 AWAY Side 99 Goals] 
+//Cheats/Press SELECT+R2 AWAY Side 99 Goals
 patch=1,EE,D04ED342,extended,0000FDFE
 patch=1,EE,20C80544,extended,00630063
 patch=1,EE,D04ED342,extended,0000FDFE
 patch=1,EE,10C8054C,extended,00000063
 
-[Cheats/Master League Approximately 10 Million Points Own Team Only] 
+//Cheats/Master League Approximately 10 Million Points Own Team Only
 patch=1,EE,D0B11E74,extended,00000034
 patch=1,EE,20B11E74,extended,0C0877C5
 patch=1,EE,2021DF14,extended,3C060099
 patch=1,EE,2021DF18,extended,03E00008
 patch=1,EE,2021DF1C,extended,AC460034
 
-[Cheats/Master League Max Player Experience Value After the Match] 
+//Cheats/Master League Max Player Experience Value After the Match
 patch=1,EE,D0B42750,extended,00000064
 patch=1,EE,20B42708,extended,0C03E000
 patch=1,EE,200F8000,extended,2402270F
@@ -28,5 +28,5 @@ patch=1,EE,200F8004,extended,A6E20000
 patch=1,EE,200F8008,extended,03E00008
 patch=1,EE,200F800C,extended,32A500FF
 
-[Cheats/Unlock All Cup Gallery] 
+//Cheats/Unlock All Cup Gallery
 patch=1,EE,2183ABD8,extended,FFFFFFFF

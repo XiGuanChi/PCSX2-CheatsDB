@@ -1,8 +1,8 @@
-[Cheats/Max Money 9999999] 
+//Cheats/Max Money 9999999
 patch=1,EE,203E5800,extended,0098967F
 patch=1,EE,203E6824,extended,0098967F
 
-[Cheats/All Tools 99] 
+//Cheats/All Tools 99
 patch=1,EE,203E5E04,extended,63636300
 patch=1,EE,203E5E08,extended,63636363
 patch=1,EE,203E5E0C,extended,63006300
@@ -18,13 +18,13 @@ patch=1,EE,203E6E38,extended,63006300
 patch=1,EE,203E6E3C,extended,63006300
 patch=1,EE,003E6E41,extended,00000063
 
-[Cheats/All Staff EP 9999] 
+//Cheats/All Staff EP 9999
 patch=1,EE,403E5EE4,extended,00060045
 patch=1,EE,0000270F,extended,00000000
 patch=1,EE,403E6F08,extended,00060045
 patch=1,EE,0000270F,extended,00000000
 
-[Cheats/All Staff Status 99-Lv 99, Ap 99, Ap change 99, Skill status 99, Speed ??99, Evasion 99%] 
+//Cheats/All Staff Status 99-Lv 99, Ap 99, Ap change 99, Skill status 99, Speed ??99, Evasion 99%
 patch=1,EE,403E5ED8,extended,00060045
 patch=1,EE,63636363,extended,00000000
 patch=1,EE,403E5EDC,extended,00060045

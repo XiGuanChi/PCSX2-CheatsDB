@@ -1,16 +1,16 @@
-[Cheats/Infinite Cash] 
+//Cheats/Infinite Cash
 patch=1,EE,20AAFF10,extended,05F5E0FF
 
-[Cheats/Infinite Nitro]  
+//Cheats/Infinite Nitro
 patch=1,EE,2036F0DC,extended,00000000
 
-[Cheats/Infinite Speedbreaker] 
+//Cheats/Infinite Speedbreaker
 patch=1,EE,203963D4,extended,00000000
 
-[Cheats/Unlock Access All Cars Not Saveable] 
+//Cheats/Unlock Access All Cars Not Saveable
 patch=1,EE,20574624,extended,00000001
 
-[Cheats/Unlock All Challenges] 
+//Cheats/Unlock All Challenges
 patch=1,EE,200C2000,extended,3421000C
 patch=1,EE,200C2008,extended,AC410004
 patch=1,EE,200C200C,extended,03E00008
@@ -18,7 +18,7 @@ patch=1,EE,200C2010,extended,00301024
 patch=1,EE,202B47FC,extended,0C030800
 patch=1,EE,202B4800,extended,8C410004
 
-[Cheats/Unlock Game 100% Completed]  
+//Cheats/Unlock Game 100% Completed
 patch=1,EE,200C0230,extended,00300825
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,AC410004

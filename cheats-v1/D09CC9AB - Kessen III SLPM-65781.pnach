@@ -1,26 +1,26 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,20E5E990,extended,0098967F
 
-[Cheats/Max Gold] 
+//Cheats/Max Gold
 patch=1,EE,001951A4,extended,14200001
 
-[Cheats/Max Experience]  
+//Cheats/Max Experience
 patch=1,EE,001575B8,extended,14200001
 
-[Cheats/Unlock All Music] 
+//Cheats/Unlock All Music
 patch=1,EE,40E610B8,extended,00090001
 patch=1,EE,03030303,extended,00000000
 
-[Cheats/Unlock All Equipment Dictionary]  
+//Cheats/Unlock All Equipment Dictionary
 patch=1,EE,40E60ECC,extended,00600001
 patch=1,EE,03030303,extended,00000000
 
-[Cheats/Unlock All Movies]  
+//Cheats/Unlock All Movies
 patch=1,EE,40E61038,extended,00210001
 patch=1,EE,03030303,extended,00000000
 patch=1,EE,10E61036,extended,00000303
 
-[Cheats/Unlock All Officers Appear save reflected] 
+//Cheats/Unlock All Officers Appear save reflected
 patch=1,EE,2012368C,extended,0803BC00
 patch=1,EE,200EF000,extended,3C0800E5
 patch=1,EE,200EF004,extended,3508EF7C

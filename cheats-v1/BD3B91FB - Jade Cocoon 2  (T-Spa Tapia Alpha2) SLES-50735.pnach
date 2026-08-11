@@ -1,23 +1,23 @@
-[Cheats/Max Reputation] 
+//Cheats/Max Reputation
 patch=1,EE,1087A08C,extended,0000270F
 
-[Cheats/Infinite Yens] 
+//Cheats/Infinite Yens
 patch=1,EE,1087A088,extended,0000FFFF
 
-[Cheats/Carry Up To 8 Beasts] 
+//Cheats/Carry Up To 8 Beasts
 patch=1,EE,0087A094,extended,00000008
 
-[Cheats/Arena code - No Shield for enemy beast hunter] 
+//Cheats/Arena code - No Shield for enemy beast hunter
 patch=1,EE,11C71A34,extended,00000000
 
-[Cheats/Beast 1 Max Health] 
+//Cheats/Beast 1 Max Health
 patch=1,EE,1087A810,extended,000003E7
 
-[Cheats/Beast 1 Full Health] 
+//Cheats/Beast 1 Full Health
 patch=1,EE,1087A814,extended,000003E7
 
-[Cheats/Beast 1 Max MP] 
+//Cheats/Beast 1 Max MP
 patch=1,EE,1087A828,extended,000003E7
 
-[Cheats/Beast 1 Full MP] 
+//Cheats/Beast 1 Full MP
 patch=1,EE,1087A82C,extended,000003E7

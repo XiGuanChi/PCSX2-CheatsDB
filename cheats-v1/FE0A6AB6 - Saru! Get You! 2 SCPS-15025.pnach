@@ -1,50 +1,50 @@
-[Cheats/Infinite Lives] 
+//Cheats/Infinite Lives
 patch=1,EE,203C0218,extended,38F878EF
 
-[Cheats/Infinite Cookies] 
+//Cheats/Infinite Cookies
 patch=1,EE,203C021C,extended,38F87870
 
-[Cheats/Max Gold Coins] 
+//Cheats/Max Gold Coins
 patch=1,EE,203C0220,extended,38F87B25
 
-[Cheats/Max Lives 99] 
+//Cheats/Max Lives 99
 patch=1,EE,203D8AF8,extended,00000063
 
-[Cheats/Max Health]  
+//Cheats/Max Health
 patch=1,EE,203D8AFC,extended,00000032
 
-[Cheats/999 Gacha Coins] 
+//Cheats/999 Gacha Coins
 patch=1,EE,203D8B00,extended,000003E7
 
-[Cheats/999 Bombs] 
+//Cheats/999 Bombs
 patch=1,EE,003D8B29,extended,00000063
 
-[Cheats/99 rounds of Yuudou balls] 
+//Cheats/99 rounds of Yuudou balls
 patch=1,EE,003D8B2A,extended,00000063
 
-[Cheats/Unlock All Stages] 
+//Cheats/Unlock All Stages
 patch=1,EE,203C0224,extended,38F8787A
 
-[Cheats/Have All Stages Cleared] 
+//Cheats/Have All Stages Cleared
 patch=1,EE,203C0228,extended,38F8787A
 
-[Cheats/Have All Standard Gadgets] 
+//Cheats/Have All Standard Gadgets
 patch=1,EE,203C022C,extended,38F878DD
 
-[Cheats/Unlock All MiniGames] 
+//Cheats/Unlock All MiniGames
 patch=1,EE,203C0504,extended,3DF979C7
 
-[Cheats/Unlock All Secret Game Corners] 
+//Cheats/Unlock All Secret Game Corners
 patch=1,EE,103D8DE4,extended,00000101
 patch=1,EE,003D8DE6,extended,00000001
 
-[Cheats/Unlock All Movie Theatres] 
+//Cheats/Unlock All Movie Theatres
 patch=1,EE,003D8DE7,extended,00000001
 patch=1,EE,203D8DE8,extended,01010101
 patch=1,EE,103D8DEC,extended,00000101
 patch=1,EE,003D8DEE,extended,00000001
 
-[Cheats/Unlock All Sound Theatre] 
+//Cheats/Unlock All Sound Theatre
 patch=1,EE,003D8DEF,extended,00000001
 patch=1,EE,203D8DF0,extended,01010101
 patch=1,EE,203D8DF4,extended,01010101
@@ -60,12 +60,12 @@ patch=1,EE,203D8E18,extended,01010101
 patch=1,EE,203D8E1C,extended,01010101
 patch=1,EE,203D8E20,extended,00000001
 
-[Cheats/Unlock All Mechayonk] 
+//Cheats/Unlock All Mechayonk
 patch=1,EE,003D8E21,extended,00000001
 patch=1,EE,103D8E22,extended,00000101
 patch=1,EE,003D8E24,extended,00000001
 
-[Cheats/Unlock All 4-frame manga] 
+//Cheats/Unlock All 4-frame manga
 patch=1,EE,003D8E25,extended,00000001
 patch=1,EE,103D8E26,extended,00000101
 patch=1,EE,203D8E28,extended,01010101
@@ -73,7 +73,7 @@ patch=1,EE,203D8E2C,extended,01010101
 patch=1,EE,203D8E30,extended,01010101
 patch=1,EE,103D8E34,extended,00000101
 
-[Cheats/Unlock All Production book] 
+//Cheats/Unlock All Production book
 patch=1,EE,103D8E36,extended,00000101
 patch=1,EE,203D8E38,extended,01010101
 patch=1,EE,203D8E3C,extended,01010101
@@ -88,7 +88,7 @@ patch=1,EE,203D8E5C,extended,01010101
 patch=1,EE,203D8E60,extended,01010101
 patch=1,EE,203D8E64,extended,01010101
 
-[Cheats/Unlock All Secret Photo Hall]   
+//Cheats/Unlock All Secret Photo Hall
 patch=1,EE,203D8E68,extended,01010101
 patch=1,EE,203D8E6C,extended,01010101
 patch=1,EE,203D8E70,extended,01010101
@@ -103,7 +103,7 @@ patch=1,EE,203D8E90,extended,01010101
 patch=1,EE,203D8E94,extended,01010101
 patch=1,EE,103D8E98,extended,00000101
 
-[Cheats/Unlock All Shitappers Book] 
+//Cheats/Unlock All Shitappers Book
 patch=1,EE,103D8E9A,extended,00000101
 patch=1,EE,203D8E9C,extended,01010101
 patch=1,EE,203D8EA0,extended,01010101
@@ -113,7 +113,7 @@ patch=1,EE,203D8EAC,extended,01010101
 patch=1,EE,203D8EB0,extended,01010101
 patch=1,EE,003D8EB4,extended,00000001
 
-[Cheats/Unlock All Suspicious photo prints] 
+//Cheats/Unlock All Suspicious photo prints
 patch=1,EE,003D8E9A,extended,00000001
 patch=1,EE,103D8EAC,extended,00000101
 patch=1,EE,203D8EB8,extended,01010101
@@ -122,17 +122,17 @@ patch=1,EE,203D8EC0,extended,01010101
 patch=1,EE,203D8EC4,extended,01010101
 patch=1,EE,203D8EC8,extended,01010101
 
-[Cheats/Unlock Obtained all prizes in the gacha box except for books] 
+//Cheats/Unlock Obtained all prizes in the gacha box except for books
 patch=1,EE,403D8DE4,extended,003A0001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock Mini-game Dance Bon! All songs]  
+//Cheats/Unlock Mini-game Dance Bon! All songs
 patch=1,EE,403D916C,extended,00080001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,403D91F8,extended,00090001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock Minigame Super Hard! Climber]  
+//Cheats/Unlock Minigame Super Hard! Climber
 patch=1,EE,103D93AC,extended,00000101
 patch=1,EE,403D9390,extended,00070001
 patch=1,EE,01010101,extended,00000000

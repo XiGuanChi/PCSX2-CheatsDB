@@ -1,22 +1,22 @@
-[Cheats/God Mode] 
+//Cheats/God Mode
 patch=1,EE,0013359C,extended,00000001
 
-[Cheats/Infinite Health Ship] 
+//Cheats/Infinite Health Ship
 patch=1,EE,20CD3774,extended,45FA0000
 
-[Cheats/Infinite Ammunition] 
+//Cheats/Infinite Ammunition
 patch=1,EE,203458F0,extended,340303E7
 patch=1,EE,203458F4,extended,AE03018C
 
-[Cheats/Infinite Secondary Ammunition] 
+//Cheats/Infinite Secondary Ammunition
 patch=1,EE,20345940,extended,341103E7
 patch=1,EE,20345944,extended,AE110198
 
-[Cheats/Infinite Ship Armour] 
+//Cheats/Infinite Ship Armour
 patch=1,EE,200C0024,extended,C4800200
 
-[Cheats/Infinite Ship Missiles & Lasers] 
+//Cheats/Infinite Ship Missiles & Lasers
 patch=1,EE,2031063C,extended,340303E8
 
-[Cheats/Unlock Level Select Press Square On Menu]
+//Cheats/Unlock Level Select Press Square On Menu
 patch=1,EE,20133598,extended,00000001

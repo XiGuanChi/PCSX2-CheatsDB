@@ -1,14 +1,14 @@
-[Cheats/Infinite Health All Characters] 
+//Cheats/Infinite Health All Characters
 patch=1,EE,406F3278,extended,0003001E
 patch=1,EE,435C0000,extended,00000000
 patch=1,EE,206F33E0,extended,43FA0000
 
-[Cheats/Infinite Cosmic Energy All Characters] 
+//Cheats/Infinite Cosmic Energy All Characters
 patch=1,EE,41CBB4A0,extended,0004001C
 patch=1,EE,00000006,extended,00000000
 
-[Cheats/Infinite Tokens] 
+//Cheats/Infinite Tokens
 patch=1,EE,0040B140,extended,00000063
 
-[Cheats/Unlock All Unlockables] 
+//Cheats/Unlock All Unlockables
 patch=1,EE,2040B154,extended,FFFFFFFF

@@ -1,7 +1,7 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,20534498,extended,05F5E0FF
 
-[Cheats/HP In Battle 1P Side Press Start Recovers Press Sselect One Hit Kill L2+R2 usually affects all enemies and allies] 
+//Cheats/HP In Battle 1P Side Press Start Recovers Press Sselect One Hit Kill L2+R2 usually affects all enemies and allies
 patch=1,EE,D05BA502,extended,0000FFFE
 patch=1,EE,2019CE00,extended,10000004
 patch=1,EE,D05BA502,extended,0000FFF7
@@ -9,48 +9,48 @@ patch=1,EE,2019CE00,extended,10400000
 patch=1,EE,D05BA502,extended,0000FCFF
 patch=1,EE,2019CE00,extended,10400003
 
-[Cheats/100 Ship Customization Points] 
+//Cheats/100 Ship Customization Points
 patch=1,EE,20315EF4,extended,24110064
 
-[Cheats/Status 999 After Level Up] 
+//Cheats/Status 999 After Level Up
 patch=1,EE,202BA5B0,extended,00000000
 patch=1,EE,202BA68C,extended,00000000
 
-[Cheats/Max EXP After Battle]  
+//Cheats/Max EXP After Battle
 patch=1,EE,202BA038,extended,0060880A
 
-[Cheats/Max HP] 
+//Cheats/Max HP
 patch=1,EE,200F7038,extended,A64F000C
 
-[Cheats/Max Power] 
+//Cheats/Max Power
 patch=1,EE,200F703C,extended,A64F000E
 
-[Cheats/Max Technique] 
+//Cheats/Max Technique
 patch=1,EE,200F7040,extended,A64F0010
 
-[Cheats/Max Devil] 
+//Cheats/Max Devil
 patch=1,EE,200F7044,extended,A64F0012
 
-[Cheats/Max Avoid] 
+//Cheats/Max Avoid
 patch=1,EE,200F7048,extended,A64F0014
 
-[Cheats/Max Direct Defense] 
+//Cheats/Max Direct Defense
 patch=1,EE,200F704C,extended,A64F0016
 
-[Cheats/Max Magic Defense] 
+//Cheats/Max Magic Defense
 patch=1,EE,200F7050,extended,A64F0018
 
-[Cheats/Max Speed] 
+//Cheats/Max Speed
 patch=1,EE,200F7054,extended,A64F001A
 
-[Cheats/Max Luck] 
+//Cheats/Max Luck
 patch=1,EE,200F7058,extended,A64F001C
 
-[Cheats/108 Star Existence Flag Please be sure to make a backup] 
+//Cheats/108 Star Existence Flag Please be sure to make a backup
 patch=1,EE,40530FDC,extended,006B001E
 patch=1,EE,0000000A,extended,00000000
 
-[Cheats/No Random Encounters Press R3 On L3 Off] 
+//Cheats/No Random Encounters Press R3 On L3 Off
 patch=1,EE,D05BA502,extended,0000FFFB
 patch=1,EE,202D5814,extended,24020000 
 patch=1,EE,D05BA502,extended,0000FFFD

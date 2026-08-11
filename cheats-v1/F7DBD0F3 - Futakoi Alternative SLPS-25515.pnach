@@ -1,10 +1,10 @@
-[Cheats/Unlock All Album]  
+//Cheats/Unlock All Album
 patch=1,EE,2028E3F0,extended,FFFFFFFF
 patch=1,EE,2028E3F4,extended,FFFFFFFF
 patch=1,EE,2028E3F8,extended,FFFFFFFF
 patch=1,EE,2028E3FC,extended,FFFFFFFF
 
-[Cheats/Unlock All Extras]  
+//Cheats/Unlock All Extras
 patch=1,EE,40294BB0,extended,003D0001
 patch=1,EE,00000000,extended,00000000
 patch=1,EE,10294B82,extended,00000000

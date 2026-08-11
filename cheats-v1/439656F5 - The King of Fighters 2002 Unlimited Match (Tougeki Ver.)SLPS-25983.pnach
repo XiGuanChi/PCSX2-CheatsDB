@@ -1,23 +1,23 @@
-[Cheats/P1 Infinite HP] 
+//Cheats/P1 Infinite HP
 patch=1,EE,005C7EB8,extended,00000066
 patch=1,EE,D05C8284,extended,00000001
 patch=1,EE,005C7EB8,extended,00000078
 
-[Cheats/P2 No HP P1 Press SELECT] 
+//Cheats/P2 No HP P1 Press SELECT
 patch=1,EE,D0B2AD82,extended,0000FFFE
 patch=1,EE,105C80D8,extended,00000001
 
-[Cheats/Unlock All Characters]  
+//Cheats/Unlock All Characters
 patch=1,EE,105CA808,extended,000003FF
 
-[Cheats/Unlock All Missions] 
+//Cheats/Unlock All Missions
 patch=1,EE,105CA710,extended,00000202
 patch=1,EE,405CA6E0,extended,000C0001
 patch=1,EE,02020202,extended,00000000
 
-[Cheats/Unlock English NEOGEO MODE] 
+//Cheats/Unlock English NEOGEO MODE
 patch=1,EE,005B4630,extended,00000001
 
-[Cheats/Unlock All Gallery] 
+//Cheats/Unlock All Gallery
 patch=1,EE,405CA718,extended,003C0001
 patch=1,EE,01010101,extended,00000000

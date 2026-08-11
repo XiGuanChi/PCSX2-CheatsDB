@@ -1,40 +1,40 @@
-[Cheats/Max Gold]  
+//Cheats/Max Gold
 patch=1,EE,20558560,extended,05F5E0FF
 
-[Cheats/Max BS]  
+//Cheats/Max BS
 patch=1,EE,205585A8,extended,000F423F
 
-[Cheats/Max SR]  
+//Cheats/Max SR
 patch=1,EE,0055856F,extended,00000063
 
-[Cheats/Infinite SP]  
+//Cheats/Infinite SP
 patch=1,EE,20289704,extended,24020000
 
-[Cheats/Infinite EN] 
+//Cheats/Infinite EN
 patch=1,EE,20280B4C,extended,00401823
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,20280BF8,extended,24630000
 
-[Cheats/Infinite action] 
+//Cheats/Infinite action
 patch=1,EE,20186AC4,extended,10000040
 
-[Cheats/Infinite action Turn off] 
+//Cheats/Infinite action Turn off
 patch=1,EE,20186AC4,extended,14400040
 
-[Cheats/Infinite behavior] 
+//Cheats/Infinite behavior
 patch=1,EE,20186AC4,extended,10000040
 
-[Cheats/Infinite PP] 
+//Cheats/Infinite PP
 patch=1,EE,202D9980,extended,24050000
 patch=1,EE,202D8FE0,extended,24050000
 
-[Cheats/Max PP After Change Value] 
+//Cheats/Max PP After Change Value
 patch=1,EE,2017E67C,extended,00000000
 patch=1,EE,201AED68,extended,00000000
 patch=1,EE,2027762C,extended,00000000
 
-[Cheats/Infinite Health, Ammo & Action Select+Triangle ON Select+Square OFF] 
+//Cheats/Infinite Health, Ammo & Action Select+Triangle ON Select+Square OFF
 patch=1,EE,D059C102,extended,0000FFFD
 patch=1,EE,2015C67C,extended,34420008
 patch=1,EE,20280B4C,extended,00401823
@@ -44,7 +44,7 @@ patch=1,EE,2015C67C,extended,00431025
 patch=1,EE,20280B4C,extended,00431823
 patch=1,EE,20280BF8,extended,2463FFFF
 
-[Cheats/Infinite Health, Ammo & Action Select+Triangle ON Select+Square OFF ALT] 
+//Cheats/Infinite Health, Ammo & Action Select+Triangle ON Select+Square OFF ALT
 patch=1,EE,D059C102,extended,0000FFFD
 patch=1,EE,20280B4C,extended,00401823
 patch=1,EE,20280BF8,extended,24630000
@@ -52,41 +52,41 @@ patch=1,EE,D059C102,extended,0000FFFB
 patch=1,EE,20280B4C,extended,00431823
 patch=1,EE,20280BF8,extended,2463FFFF
 
-[Cheats/Infinite Action L3=ON R3=OFF] 
+//Cheats/Infinite Action L3=ON R3=OFF
 patch=1,EE,D059C102,extended,0000FFFD
 patch=1,EE,20186AC4,extended,10000040
 patch=1,EE,D059C102,extended,0000FFFB
 patch=1,EE,20186AC4,extended,14400040
 
-[Cheats/Infinite Action Press L3=ON R3=OFF alt] 
+//Cheats/Infinite Action Press L3=ON R3=OFF alt
 patch=1,EE,D059C102,extended,0000FFFD
 patch=1,EE,2015C67C,extended,34420008
 patch=1,EE,D059C102,extended,0000FFFB
 patch=1,EE,2015C67C,extended,00431025
 
-[Cheats/All Reinforced Parts 99] 
+//Cheats/All Reinforced Parts 99
 patch=1,EE,40558700,extended,00240001
 patch=1,EE,00630000,extended,00000000
 
-[Cheats/Unlock All Private Memo Parts]  
+//Cheats/Unlock All Private Memo Parts
 patch=1,EE,40558702,extended,01040001
 patch=1,EE,5A5A5A5A,extended,00000000
 
-[Cheats/Unlock Special Mode can be selected from the beginning] 
+//Cheats/Unlock Special Mode can be selected from the beginning
 patch=1,EE,20434260,extended,00142EF8
 patch=1,EE,0058B345,extended,00000003
 
-[Cheats/Unlock All Character Dictionary] 
+//Cheats/Unlock All Character Dictionary
 patch=1,EE,20154104,extended,2405FFFF
 patch=1,EE,20154108,extended,A4450000
 patch=1,EE,20154124,extended,00A21025
 
-[Cheats/Unlock All Sound Select] 
+//Cheats/Unlock All Sound Select
 patch=1,EE,20153FA8,extended,2404FFFF
 patch=1,EE,20153FAC,extended,A4440000
 patch=1,EE,20153FCC,extended,00821025
 
-[Cheats/Unlock All Scenario Chart] 
+//Cheats/Unlock All Scenario Chart
 patch=1,EE,20154058,extended,2404FFFF
 patch=1,EE,2015405C,extended,A4440000
 patch=1,EE,2015407C,extended,00821025

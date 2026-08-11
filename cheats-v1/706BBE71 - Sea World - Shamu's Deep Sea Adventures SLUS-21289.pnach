@@ -1,30 +1,30 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,204B9A34,extended,AE82017C
 
-[Cheats/Infinite Air] 
+//Cheats/Infinite Air
 patch=1,EE,2044D34C,extended,3C0142C8
 patch=1,EE,2044D364,extended,AC810248
 patch=1,EE,2044D368,extended,44040000
 
-[Cheats/Max Kracken Krystals] 
+//Cheats/Max Kracken Krystals
 patch=1,EE,2062D150,extended,000003E7
 
-[Cheats/Infinite Points] 
+//Cheats/Infinite Points
 patch=1,EE,2062D340,extended,05F5E0FF
 
-[Cheats/400 Krystals] 
+//Cheats/400 Krystals
 patch=1,EE,2062D150,extended,00000190
 
-[Cheats/Unlock All Photos]  
+//Cheats/Unlock All Photos
 patch=1,EE,4062D480,extended,00180001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Movies]  
+//Cheats/Unlock All Movies
 patch=1,EE,4062D4E0,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,4062D444,extended,000E0001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Artwork]  
+//Cheats/Unlock All Artwork
 patch=1,EE,4062D3F4,extended,00120001
 patch=1,EE,00000001,extended,00000000

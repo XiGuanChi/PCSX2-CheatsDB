@@ -1,20 +1,20 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20240F60,extended,00000001
 
-[Cheats/Infinite Ammo]   
+//Cheats/Infinite Ammo
 patch=1,EE,20240F64,extended,00000001
 
-[Cheats/Unlock All Cheats] 
+//Cheats/Unlock All Cheats
 patch=1,EE,D023FA4C,extended,00000000
 patch=1,EE,2023FA4C,extended,00055555
 
-[Cheats/Have All Medals] 
+//Cheats/Have All Medals
 patch=1,EE,2023FA50,extended,FFFFFFFF
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,2023FA5C,extended,FFFFFFFF
 
-[Cheats/Unlock All Movies]  
+//Cheats/Unlock All Movies
 patch=1,EE,40240E10,extended,00040001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,00240E20,extended,00000001

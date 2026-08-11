@@ -1,20 +1,20 @@
-[Cheats/Infinite Lives] 
+//Cheats/Infinite Lives
 patch=1,EE,10179384,extended,0000007F
 
-[Cheats/No Timer] 
+//Cheats/No Timer
 patch=1,EE,1017A5E8,extended,000059E5
 
-[Cheats/Dumb A.I. In VS Mode] 
+//Cheats/Dumb A.I. In VS Mode
 patch=1,EE,201C2084,extended,00000000
 
-[Cheats/Change Boggy B Into Duck] 
+//Cheats/Change Boggy B Into Duck
 patch=1,EE,D1959368,extended,000004B1
 patch=1,EE,01959368,extended,000000B9
 
-[Cheats/Change Boggy B Into King] 
+//Cheats/Change Boggy B Into King
 patch=1,EE,D1959368,extended,000004B1
 patch=1,EE,01959368,extended,000000B7
 
-[Cheats/Change Boggy B Into Maul] 
+//Cheats/Change Boggy B Into Maul
 patch=1,EE,D1959368,extended,000004B1
 patch=1,EE,01959368,extended,000000B3

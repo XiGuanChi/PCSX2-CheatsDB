@@ -1,20 +1,20 @@
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,204086AC,extended,461C3C00
 
-[Cheats/Max Health Player 1] 
+//Cheats/Max Health Player 1
 patch=1,EE,204086B0,extended,461C3C00
 
-[Cheats/Max Gold Player 1] 
+//Cheats/Max Gold Player 1
 patch=1,EE,204086E8,extended,05F5E0FF
 
-[Cheats/Infinite Health Player 2] 
+//Cheats/Infinite Health Player 2
 patch=1,EE,2040E45C,extended,461C3C00
 
-[Cheats/Max Health Player 2] 
+//Cheats/Max Health Player 2
 patch=1,EE,2040E460,extended,461C3C00
 
-[Cheats/Max Gold Player 2] 
+//Cheats/Max Gold Player 2
 patch=1,EE,2040E498,extended,05F5E0FF
 
-[Cheats/Debug Menu Only Hold L2+R2 & Press Start for Debug Menu] 
+//Cheats/Debug Menu Only Hold L2+R2 & Press Start for Debug Menu
 patch=1,EE,2017FA04,extended,00000000

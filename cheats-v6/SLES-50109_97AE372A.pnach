@@ -1,6 +1,6 @@
 gametitle=7 Blades PAL-M SLES-50109 97AE372A
 
-[Widescreen 16:9]
+//Widescreen 16:9
 gsaspectratio=16:9
 author=GamingDragon93
 description=Widescreen hack
@@ -8,7 +8,7 @@ patch=1,EE,00552674,word,3FAB0000 //3F800000
 patch=1,EE,002EF970,word,3C0143c0 //3C014400
 patch=1,EE,002EF978,word,3C01433f //3C014380
 
-[50 FPS]
+//50 FPS
 author=GamingDragon93
 description=Might need EE Overclock.
 patch=1,EE,00552670,word,00000100 //00000200

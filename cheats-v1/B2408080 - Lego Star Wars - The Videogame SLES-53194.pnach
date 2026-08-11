@@ -1,18 +1,18 @@
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,2054791C,extended,05F5E0FF
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,1035FC1A,extended,00000001
 
-[Cheats/Replace Option Menu into Level Select And Test Menu] 
+//Cheats/Replace Option Menu into Level Select And Test Menu
 patch=1,EE,20528A1C,extended,FF110016
 
-[Cheats/Unlock All Scenes] 
+//Cheats/Unlock All Scenes
 patch=1,EE,403A6050,extended,001B0001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,003A60BC,extended,00000001
 
-[Cheats/Unlock All Skills]  
+//Cheats/Unlock All Skills
 patch=1,EE,201947CC,extended,00000000
 patch=1,EE,201947D4,extended,00000000
 patch=1,EE,201947DC,extended,00000000

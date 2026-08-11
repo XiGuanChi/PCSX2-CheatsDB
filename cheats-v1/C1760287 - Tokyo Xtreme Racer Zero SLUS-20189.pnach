@@ -1,48 +1,48 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,2037DD88,extended,000F423F
 
-[Cheats/Quick Odometer Meter Gain] 
+//Cheats/Quick Odometer Meter Gain
 patch=1,EE,1037DC60,extended,0000FFFF
 
-[Cheats/Max Odometer Meter] 
+//Cheats/Max Odometer Meter
 patch=1,EE,2037DC60,extended,6022ED00
 
-[Cheats/Max Days] 
+//Cheats/Max Days
 patch=1,EE,1037DD86,extended,0000270F
 
-[Cheats/Max Total Mileage] 
+//Cheats/Max Total Mileage
 patch=1,EE,2037DDB8,extended,6022ED00
 
-[Cheats/Max Total Miles] 
+//Cheats/Max Total Miles
 patch=1,EE,D0750C1A,extended,00000002
 patch=1,EE,1037DDBA,extended,00007F00
 
-[Cheats/Always Low Time] 
+//Cheats/Always Low Time
 patch=1,EE,D07508B2,extended,00000075
 patch=1,EE,20750900,extended,00000000
 
-[Cheats/Max Trip Meter] 
+//Cheats/Max Trip Meter
 patch=1,EE,D0742372,extended,00000074
 patch=1,EE,20742B68,extended,00189BC6
 
-[Cheats/Auto Pilot Never On] 
+//Cheats/Auto Pilot Never On
 patch=1,EE,D0742372,extended,00000074
 patch=1,EE,10742380,extended,00000000
 
-[Cheats/Auto Pilot Always On] 
+//Cheats/Auto Pilot Always On
 patch=1,EE,D0742372,extended,00000074
 patch=1,EE,10742380,extended,00000004
 
-[Cheats/Opponent Always Loses SP] 
+//Cheats/Opponent Always Loses SP
 patch=1,EE,20188FF4,extended,00000000
 
-[Cheats/Infinite SP Player 1] 
+//Cheats/Infinite SP Player 1
 patch=1,EE,D07508B2,extended,00000075
 patch=1,EE,207508F8,extended,004C4B40
 
-[Cheats/No SP Rival] 
+//Cheats/No SP Rival
 patch=1,EE,D07508B2,extended,00000075
 patch=1,EE,207508FC,extended,00000000
 
-[Cheats/Debug Menu features working sound and movie test, car viewer, freerun, quick, versus, advertise. time attack, ending]  
+//Cheats/Debug Menu features working sound and movie test, car viewer, freerun, quick, versus, advertise. time attack, ending
 patch=1,EE,20391D54,extended,00000064

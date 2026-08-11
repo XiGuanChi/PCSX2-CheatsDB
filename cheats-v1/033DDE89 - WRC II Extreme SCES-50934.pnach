@@ -1,4 +1,4 @@
-[Cheats/Freeze Timer Championship] 
+//Cheats/Freeze Timer Championship
 patch=1,EE,200FFF00,extended,3C010029
 patch=1,EE,200FFF04,extended,8C21BD54
 patch=1,EE,200FFF14,extended,8C21014C
@@ -10,7 +10,7 @@ patch=1,EE,200FFF28,extended,24010100
 patch=1,EE,200FFF2C,extended,AC810000
 patch=1,EE,2011A64C,extended,0803FFC0
 
-[Cheats/Freeze Timer In Time Trial Mode] 
+//Cheats/Freeze Timer In Time Trial Mode
 patch=1,EE,200FFF00,extended,3C010029
 patch=1,EE,200FFF04,extended,8C21BDC0
 patch=1,EE,200FFF14,extended,8C21014C
@@ -22,54 +22,54 @@ patch=1,EE,200FFF28,extended,24010100
 patch=1,EE,200FFF2C,extended,AC810000
 patch=1,EE,2011A64C,extended,0803FFC0
 
-[Cheats/Free Ride And No 3 Second Countdown] 
+//Cheats/Free Ride And No 3 Second Countdown
 patch=1,EE,201BF568,extended,00000000
 patch=1,EE,201BF58C,extended,00000000
 
-[Cheats/Manufacturers Championship Points Peugeot Has 255 Points] 
+//Cheats/Manufacturers Championship Points Peugeot Has 255 Points
 patch=1,EE,0028BD38,extended,000000FF
 
-[Cheats/Manufacturers Championship Points Subaru Has 255 Points] 
+//Cheats/Manufacturers Championship Points Subaru Has 255 Points
 patch=1,EE,0028C3EC,extended,000000FF
 
-[Cheats/Manufacturers Championship Points Mitsubishi Has 255 Points] 
+//Cheats/Manufacturers Championship Points Mitsubishi Has 255 Points
 patch=1,EE,0028C1B0,extended,000000FF
 
-[Cheats/Manufacturers Championship Points Ford Has 255 Points] 
+//Cheats/Manufacturers Championship Points Ford Has 255 Points
 patch=1,EE,0028BF74,extended,000000FF
 
-[Cheats/Manufacturers Championship Points Citroen Has 255 Points] 
+//Cheats/Manufacturers Championship Points Citroen Has 255 Points
 patch=1,EE,0028CAA0,extended,000000FF
 
-[Cheats/Manufacturers Championship Points Hundai Has 255 Points] 
+//Cheats/Manufacturers Championship Points Hundai Has 255 Points
 patch=1,EE,0028C864,extended,000000FF
 
-[Cheats/Driver Championship Points Burns Has 255 Points] 
+//Cheats/Driver Championship Points Burns Has 255 Points
 patch=1,EE,0028BD94,extended,000000FF
 
-[Cheats/Driver Championship Points Makkinen Has 255 Points] 
+//Cheats/Driver Championship Points Makkinen Has 255 Points
 patch=1,EE,0028C448,extended,000000FF
 
-[Cheats/Driver Championship Points Solberg Has 255 Points] 
+//Cheats/Driver Championship Points Solberg Has 255 Points
 patch=1,EE,0028C4B4,extended,000000FF
 
-[Cheats/Driver Championship Points Arai Has 255 Points] 
+//Cheats/Driver Championship Points Arai Has 255 Points
 patch=1,EE,0028C520,extended,000000FF
 
-[Cheats/Driver Championship Points Panizzi Has 255 Points] 
+//Cheats/Driver Championship Points Panizzi Has 255 Points
 patch=1,EE,0028BE6C,extended,000000FF
 
-[Cheats/Driver Championship Points Gronholm Has 255 Points] 
+//Cheats/Driver Championship Points Gronholm Has 255 Points
 patch=1,EE,0028BE00,extended,000000FF
 
-[Cheats/Driver Championship Points Rovanpera Has 255 Points] 
+//Cheats/Driver Championship Points Rovanpera Has 255 Points
 patch=1,EE,0028BED8,extended,000000FF
 
-[Cheats/Driver Championship Points Delecour Has 255 Points] 
+//Cheats/Driver Championship Points Delecour Has 255 Points
 patch=1,EE,0028BED8,extended,000000FF
 
-[Cheats/Driver Championship Points Duval Has 255 Points] 
+//Cheats/Driver Championship Points Duval Has 255 Points
 patch=1,EE,0028C0A8,extended,000000FF
 
-[Cheats/Driver Championship Points Sainz Has 255 Points] 
+//Cheats/Driver Championship Points Sainz Has 255 Points
 patch=1,EE,0028BFD0,extended,000000FF

@@ -1,12 +1,12 @@
-[Cheats/Gain 32000 Points Per Break] 
+//Cheats/Gain 32000 Points Per Break
 patch=1,EE,2010DE30,extended,34847D00
 
-[Cheats/Always Have Hints] 
+//Cheats/Always Have Hints
 patch=1,EE,20118188,extended,E6030398
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,20118148,extended,00000000
 
-[Cheats/Always Give Stones] 
+//Cheats/Always Give Stones
 patch=1,EE,2011A1B4,extended,AC440000
 patch=1,EE,2011A138,extended,AC460000

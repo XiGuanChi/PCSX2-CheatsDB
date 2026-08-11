@@ -1,24 +1,24 @@
 gametitle=GoldenEye - Rogue Agent SLES-52976 3BEBCCAC
 
-[Infinite Health]
+//Infinite Health
 author=GamingDragon93
 patch=1,EE,201B5760,extended,03E00008
 patch=1,EE,201B5764,extended,00000000
 
-[Infinite Armor]
+//Infinite Armor
 author=GamingDragon93
 patch=1,EE,201B6B48,extended,03E00008
 patch=1,EE,201B6B4C,extended,00000000
 
-[Infinite Ammo]
+//Infinite Ammo
 author=GamingDragon93
 patch=1,EE,2069818C,extended,3F800000
 
-[Unlock All Missions]
+//Unlock All Missions
 author=GamingDragon93
 patch=1,EE,20100044,extended,FFFFFFFF
 
-[All Unlocked Content]
+//All Unlocked Content
 author=GamingDragon93
 patch=1,EE,40100FEC,extended,00040001
 patch=1,EE,02020202,extended,00000000

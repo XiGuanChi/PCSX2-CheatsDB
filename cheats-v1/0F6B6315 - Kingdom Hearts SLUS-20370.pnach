@@ -1,71 +1,71 @@
-[Cheats/Sora - Infinite HP In Battle] 
+//Cheats/Sora - Infinite HP In Battle
 patch=1,EE,00524094,extended,00000063
 
-[Cheats/Slot 2 - Infinite HP In Battle do not use it if Sora alone]
+//Cheats/Slot 2 - Infinite HP In Battle do not use it if Sora alone
 patch=1,EE,00524178,extended,00000063
 
-[Cheats/Slot 3 - Infinite HP In Battle do not use it if Sora alone] 
+//Cheats/Slot 3 - Infinite HP In Battle do not use it if Sora alone
 patch=1,EE,0052425C,extended,00000063
 
-[Cheats/Sora - Infinite & Max HP] 
+//Cheats/Sora - Infinite & Max HP
 patch=1,EE,003F1C95,extended,000000FF
 patch=1,EE,003F1C96,extended,00000063
 
-[Cheats/Sora - Infinite & Max MP] 
+//Cheats/Sora - Infinite & Max MP
 patch=1,EE,003F1C97,extended,00000063
 patch=1,EE,003F1C98,extended,00000063
 
-[Cheats/Sora - All Magic] 
+//Cheats/Sora - All Magic
 patch=1,EE,003F1D04,extended,0000007F
 
-[Cheats/Sora - Max Level] 
+//Cheats/Sora - Max Level
 patch=1,EE,003F1C94,extended,00000064
 
-[Cheats/Donald - Infinite & Max HP] 
+//Cheats/Donald - Infinite & Max HP
 patch=1,EE,003F1D09,extended,00000063
 patch=1,EE,003F1D0A,extended,00000063
 
-[Cheats/Goofy - Infinite & Max HP] 
+//Cheats/Goofy - Infinite & Max HP
 patch=1,EE,003F1D7D,extended,00000063
 patch=1,EE,003F1D7E,extended,00000063
 
-[Cheats/Rescue All Dalmations] 
+//Cheats/Rescue All Dalmations
 patch=1,EE,003F3393,extended,000000FF
 patch=1,EE,203F3394,extended,FFFFFFFF
 patch=1,EE,203F3398,extended,FFFFFFFF
 patch=1,EE,203F339C,extended,7FFFFFFF
 
-[Cheats/Quick Barrel Challenge] 
+//Cheats/Quick Barrel Challenge
 patch=1,EE,00384544,extended,00000000
 
-[Cheats/Have All Trinities] 
+//Cheats/Have All Trinities
 patch=1,EE,003F38AB,extended,0000007F
 
-[Cheats/Press Pause to Save] 
+//Cheats/Press Pause to Save
 patch=1,EE,204865E0,extended,00114288
 
-[Cheats/Infinite Munny] 
+//Cheats/Infinite Munny
 patch=1,EE,204080AC,extended,0001869F
 
-[Cheats/Have Dumbo Summon] 
+//Cheats/Have Dumbo Summon
 patch=1,EE,003F2460,extended,00000000
 
-[Cheats/Have Bambi Summon] 
+//Cheats/Have Bambi Summon
 patch=1,EE,003F2461,extended,00000001
 
-[Cheats/Have Mushu Summon] 
+//Cheats/Have Mushu Summon
 patch=1,EE,003F2462,extended,00000004
 
-[Cheats/Have Tinker Bell Summon] 
+//Cheats/Have Tinker Bell Summon
 patch=1,EE,003F2463,extended,00000003
 
-[Cheats/Have Simba Summon] 
+//Cheats/Have Simba Summon
 patch=1,EE,003F2464,extended,00000005
 
-[Cheats/Have Genie Summon] 
+//Cheats/Have Genie Summon
 patch=1,EE,003F2465,extended,00000002
 
-[Cheats/Have All Gummi Parts] 
+//Cheats/Have All Gummi Parts
 patch=1,EE,203FDB08,extended,63636363
 patch=1,EE,203FDB0C,extended,63636363
 patch=1,EE,203FDB10,extended,63636363
@@ -86,7 +86,7 @@ patch=1,EE,203FDB48,extended,01010101
 patch=1,EE,103FDB4C,extended,00000101
 patch=1,EE,003FDB4E,extended,00000001
 
-[Cheats/Have All Blueprints] 
+//Cheats/Have All Blueprints
 patch=1,EE,003FDB4F,extended,00000001
 patch=1,EE,203FDB50,extended,01010101
 patch=1,EE,203FDB54,extended,01010101
@@ -98,7 +98,7 @@ patch=1,EE,203FDB68,extended,01010101
 patch=1,EE,203FDB6C,extended,01010101
 patch=1,EE,203FDB70,extended,01010101
 
-[Cheats/60 FPS Mode] 
+//Cheats/60 FPS Mode
 patch=1,EE,202B624C,extended,00000000
 
 

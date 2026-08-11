@@ -1,6 +1,6 @@
 gametitle=Driven NTSC-U SLUS-20239 EAB0862D
 
-[Disable Motion Blur]
+//Disable Motion Blur
 author=GamingDragon93
 description=Disable the post-processing motion blur.
 patch=1,EE,0016B578,word,00000000

@@ -1,13 +1,13 @@
-[Cheats/99 Points Tournament Mode] 
+//Cheats/99 Points Tournament Mode
 patch=1,EE,00A07250,extended,00000063
 
-[Cheats/Infinite Tokens] 
+//Cheats/Infinite Tokens
 patch=1,EE,2039D090,extended,23071978
 
-[Cheats/Boost Always Available] 
+//Cheats/Boost Always Available
 patch=1,EE,D0A25144,extended,00000000
 patch=1,EE,10A25144,extended,00000005
 
-[Cheats/Unlock All Tracks] 
+//Cheats/Unlock All Tracks
 patch=1,EE,2039D0B0,extended,FFFFFFFF
 patch=1,EE,1039D0A0,extended,0000FFFF

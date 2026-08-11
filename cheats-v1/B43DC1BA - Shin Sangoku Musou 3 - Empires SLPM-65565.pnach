@@ -1,61 +1,61 @@
-[Cheats/Max Money Conquest Mode] 
+//Cheats/Max Money Conquest Mode
 patch=1,EE,104D5A38,extended,0000FFFF
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,201C47F0,extended,14070003
 
-[Cheats/Max Martial Arts Acquisition] 
+//Cheats/Max Martial Arts Acquisition
 patch=1,EE,202EFD58,extended,00000000
 
-[Cheats/Max Musou Gauge]  
+//Cheats/Max Musou Gauge
 patch=1,EE,201C4640,extended,14400055
 patch=1,EE,201C46C4,extended,0003082A
 
-[Cheats/Max Musou Gauge 1P only] 
+//Cheats/Max Musou Gauge 1P only
 patch=1,EE,201BE6C8,extended,1640000F
 
-[Cheats/Get 99 Arrows] 
+//Cheats/Get 99 Arrows
 patch=1,EE,A01B6DE4,extended,34100063
 
-[Cheats/Infinite Arrows] 
+//Cheats/Infinite Arrows
 patch=1,EE,A01C1C24,extended,24630000
 
-[Cheats/Max Arrows]  
+//Cheats/Max Arrows
 patch=1,EE,201B6E5C,extended,10000006
 
-[Cheats/Kill Enemy In One Hit 1P attack only] 
+//Cheats/Kill Enemy In One Hit 1P attack only
 patch=1,EE,201BB830,extended,0220C82D
 patch=1,EE,201BC2E8,extended,17200002
 
-[Cheats/No Health Loss + a 1P only] 
+//Cheats/No Health Loss + a 1P only
 patch=1,EE,201C47F4,extended,0064280A
 
-[Cheats/All Ability Up 1P only] 
+//Cheats/All Ability Up 1P only
 patch=1,EE,201BD91C,extended,0000202D
 patch=1,EE,201C4D24,extended,34030E11
 patch=1,EE,201C4D3C,extended,A4E30002
 patch=1,EE,201C4D54,extended,34637078
 
-[Cheats/All Ability Up OPTION Invincible] 
+//Cheats/All Ability Up OPTION Invincible
 patch=1,EE,201C4D4C,extended,3C010200
 patch=1,EE,201C4D50,extended,00611825
 
-[Cheats/Invincible To Direct Attacks 1P only] 
+//Cheats/Invincible To Direct Attacks 1P only
 patch=1,EE,201B8694,extended,8E430028
 patch=1,EE,201B8698,extended,14600003
 
-[Cheats/Time Stop L1+L3 push left analog stick Normal Action L1+R3 push right analog stick] 
+//Cheats/Time Stop L1+L3 push left analog stick Normal Action L1+R3 push right analog stick
 patch=1,EE,D0610198,extended,00000402
 patch=1,EE,20145E8C,extended,14000000
 patch=1,EE,D0610198,extended,00000404
 patch=1,EE,20145E8C,extended,24630001
 
-[Cheats/Time Limit Rewind Press L3] 
+//Cheats/Time Limit Rewind Press L3
 patch=1,EE,20145E8C,extended,24630001
 patch=1,EE,D061005C,extended,0000FFFD
 patch=1,EE,20145E8C,extended,24030000
 
-[Cheats/Player Military Commander Basic Status] 
+//Cheats/Player Military Commander Basic Status
 patch=1,EE,204DBC88,extended,01180118
 patch=1,EE,104DBC8C,extended,0000D296
 

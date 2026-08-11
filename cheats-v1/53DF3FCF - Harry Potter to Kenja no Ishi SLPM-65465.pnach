@@ -1,11 +1,11 @@
-[Cheats/Infinite & Max Health] 
+//Cheats/Infinite & Max Health
 patch=1,EE,20394A20,extended,44160000
 patch=1,EE,20394A24,extended,44160000
 
-[Cheats/Infinite & Max Bertie Bott's Beans] 
+//Cheats/Infinite & Max Bertie Bott's Beans
 patch=1,EE,20394A18,extended,270F270F
 
-[Cheats/All Magic] 
+//Cheats/All Magic
 patch=1,EE,203949E8,extended,00020001
 patch=1,EE,203949EC,extended,0008000C
 patch=1,EE,203949F0,extended,000A0005

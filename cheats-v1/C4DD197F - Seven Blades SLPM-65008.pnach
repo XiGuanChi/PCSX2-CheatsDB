@@ -1,31 +1,31 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20496E9C,extended,03E803E8
 patch=1,EE,2049758C,extended,03E803E8
 
-[Cheats/Gokujou Ojo Skills L1+R1] 
+//Cheats/Gokujou Ojo Skills L1+R1
 patch=1,EE,D061ECAC,extended,0000000C
 patch=1,EE,104F017C,extended,0000FFFF
 
-[Cheats/Second Invitation Amount L2+R2] 
+//Cheats/Second Invitation Amount L2+R2
 patch=1,EE,D061ECAC,extended,00000003
 patch=1,EE,104F017C,extended,00000000
 
-[Cheats/Yuri Hen Max Ammo Short Barrel Weapon] 
+//Cheats/Yuri Hen Max Ammo Short Barrel Weapon
 patch=1,EE,204750F4,extended,03E703E7
 patch=1,EE,204750F8,extended,03E703E7
 
-[Cheats/Yuri Hen Max Ammo Long Barrel Weapon]  
+//Cheats/Yuri Hen Max Ammo Long Barrel Weapon
 patch=1,EE,204750DC,extended,00010001
 patch=1,EE,204750E0,extended,00010001
 patch=1,EE,204750FC,extended,03E703E7
 patch=1,EE,20475100,extended,03E703E7
 
-[Cheats/Unlock All Weapons specific Sekisho disabled] 
+//Cheats/Unlock All Weapons specific Sekisho disabled
 patch=1,EE,204750D8,extended,00010001
 patch=1,EE,204750DC,extended,00010001
 patch=1,EE,204750E0,extended,00010001
 
-[Cheats/Hold Start+Select for Debug Menu at Run-time To navigate this menu, use L1 and R1 to move pages, and R2 to confirm an optio] 
+//Cheats/Hold Start+Select for Debug Menu at Run-time To navigate this menu, use L1 and R1 to move pages, and R2 to confirm an optio
 patch=1,EE,D05326C2,extended,0000FFF6
 patch=1,EE,203B2198,extended,03E00008
 patch=1,EE,D05326C2,extended,0000FFFF

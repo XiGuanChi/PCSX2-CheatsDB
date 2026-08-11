@@ -1,4 +1,4 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,205D5638,extended,8DE401D0
 patch=1,EE,205D563C,extended,ADE401CC
 patch=1,EE,205D5640,extended,C5E001CC
@@ -8,7 +8,7 @@ patch=1,EE,205D564C,extended,00000000
 patch=1,EE,20388B10,extended,0817558E
 patch=1,EE,20388B14,extended,00000000
 
-[Cheats/Infinite Health alt] 
+//Cheats/Infinite Health alt
 patch=1,EE,200FF000,extended,3C03447A
 patch=1,EE,200FF004,extended,2063C000
 patch=1,EE,200FF008,extended,ACA301CC
@@ -19,11 +19,11 @@ patch=1,EE,200FF018,extended,08097D18
 patch=1,EE,2025F458,extended,0803FC00
 patch=1,EE,2025F45C,extended,00000000
 
-[Cheats/Infinite Ammo And Grenades]
+//Cheats/Infinite Ammo And Grenades
 patch=1,EE,202E83EC,extended,00000000
 patch=1,EE,202E83C0,extended,00000000
 
-[Cheats/One Hit Kill] 
+//Cheats/One Hit Kill
 patch=1,EE,200FF050,extended,C4A201D8
 patch=1,EE,200FF054,extended,C5E00000
 patch=1,EE,200FF058,extended,3C090010
@@ -42,28 +42,28 @@ patch=1,EE,200FF120,extended,0806BC6A
 patch=1,EE,201AF19C,extended,0803FC40
 patch=1,EE,201AF1A0,extended,00000000
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,20306A38,extended,200EFFFF
 patch=1,EE,20306A3C,extended,ADEE0BF4
 patch=1,EE,203067A8,extended,200EFFFF
 patch=1,EE,203067AC,extended,ADEE0BFC
 
-[Cheats/Unlock All Story Levels]  
+//Cheats/Unlock All Story Levels
 patch=1,EE,20306A38,extended,240EFFFF
 
-[Cheats/Unlock All Challenges And Arcade Leagues]  
+//Cheats/Unlock All Challenges And Arcade Leagues
 patch=1,EE,20306740,extended,240FFFFF
 
-[Cheats/Unlock All Cheats]  
+//Cheats/Unlock All Cheats
 patch=1,EE,203067A8,extended,240EFFFF
 
-[Cheats/Widescreen 16-10] 
+//Cheats/Widescreen 16-10
 patch=1,EE,0060CEA8,extended,00000010
 patch=1,EE,0060CEAC,extended,0000000A
 
-[Cheats/Widescreen 21-9 Ultrawide] 
+//Cheats/Widescreen 21-9 Ultrawide
 patch=1,EE,0060CEA8,extended,00000015
 patch=1,EE,0060CEAC,extended,00000009
 
-[Cheats/Neaten UI Narrower Text] 
+//Cheats/Neaten UI Narrower Text
 patch=1,EE,2060CEB0,extended,3F333333

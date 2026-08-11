@@ -1,12 +1,12 @@
-[Cheats/0km Per Hour Press L2]  
+//Cheats/0km Per Hour Press L2
 patch=1,EE,D0377278,extended,00000001
 patch=1,EE,2028C588,extended,00000000
 
-[Cheats/999km Per Hour Press R2+L2] 
+//Cheats/999km Per Hour Press R2+L2
 patch=1,EE,D0377278,extended,00000003
 patch=1,EE,2028C588,extended,447A0000
 
-[Cheats/No Forced Stop When Overrunning To be precise, the activation distance is simply set to a distance that is virtually infinite] 
+//Cheats/No Forced Stop When Overrunning To be precise, the activation distance is simply set to a distance that is virtually infinite
 patch=1,EE,20132D7C,extended,3C02F248
 
 

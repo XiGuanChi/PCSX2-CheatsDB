@@ -1,68 +1,68 @@
-[Cheats/Max CP] 
+//Cheats/Max CP
 patch=1,EE,2163D1E4,extended,3B9AC9FF
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20252F60,extended,8C640030
 patch=1,EE,20252F64,extended,AC64002C
 patch=1,EE,20252F68,extended,1000008F
 patch=1,EE,20252F6C,extended,00071080
 
-[Cheats/Infinite Stamina] 
+//Cheats/Infinite Stamina
 patch=1,EE,202571CC,extended,C4820168
 patch=1,EE,202571E8,extended,00000000
 
-[Cheats/Max Status]  
+//Cheats/Max Status
 patch=1,EE,2163D1B8,extended,00000032
 patch=1,EE,2163D1BC,extended,00000032
 patch=1,EE,2163D1C0,extended,00000032
 patch=1,EE,2163D1D4,extended,00007530
 patch=1,EE,2163D1D8,extended,00000011
 
-[Cheats/acquisition rate 100 The purchase list for equipment replenishment will also increase.] 
+//Cheats/acquisition rate 100 The purchase list for equipment replenishment will also increase.
 patch=1,EE,2163D2B0,extended,FFFFFFFF
 patch=1,EE,2163D2B4,extended,FFFFFFFF
 patch=1,EE,2163D2B8,extended,FFFFFFFF
 patch=1,EE,2163D2BC,extended,FFFFFFFF
 
-[Cheats/Invincibility] 
+//Cheats/Invincibility
 patch=1,EE,2024A100,extended,AE3C01CC
 
-[Cheats/Max Experience value] 
+//Cheats/Max Experience value
 patch=1,EE,2163D1D4,extended,00007530
 
-[Cheats/Max Kills]  
+//Cheats/Max Kills
 patch=1,EE,2163D1E8,extended,0001869F
 
-[Cheats/Infinite Gun magazine] 
+//Cheats/Infinite Gun magazine
 patch=1,EE,2023665C,extended,00000000
 
-[Cheats/Infinite Gun ammo grenades are invalid] 
+//Cheats/Infinite Gun ammo grenades are invalid
 patch=1,EE,2024E42C,extended,1000000A
 
-[Cheats/Infinite Grenades Throwing does not reduce it] 
+//Cheats/Infinite Grenades Throwing does not reduce it
 patch=1,EE,20254200,extended,00000000
 
-[Cheats/Move past obstacles] 
+//Cheats/Move past obstacles
 patch=1,EE,2024C4CC,extended,10000085
 
-[Cheats/Unlock All Missions Nationwide release on the mission selection screen Clear rank will be S] 
+//Cheats/Unlock All Missions Nationwide release on the mission selection screen Clear rank will be S
 patch=1,EE,20236BC4,extended,00430821
 patch=1,EE,20236BC8,extended,24020005
 patch=1,EE,20236BD0,extended,AC22D1F0
 
-[Cheats/Unlock Nationally released rank S You can see the ending after clearing the Tokyo stage] 
+//Cheats/Unlock Nationally released rank S You can see the ending after clearing the Tokyo stage
 patch=1,EE,4163D1F0,extended,002F0001
 patch=1,EE,00000005,extended,00000000
 
-[Cheats/Accuracy 100] 
+//Cheats/Accuracy 100
 patch=1,EE,2163D1DC,extended,3B9AC9FF
 patch=1,EE,2163D1E0,extended,3B9AC9FF
 
-[Cheats/Accuracy 100 of operation results when using guns It will not be reflected if no guns are used] 
+//Cheats/Accuracy 100 of operation results when using guns It will not be reflected if no guns are used
 patch=1,EE,20218644,extended,24020001
 
 
-[Cheats/Press R3 In Game For Debug Menu, Select to Disable] 
+//Cheats/Press R3 In Game For Debug Menu, Select to Disable
 patch=1,EE,2029BF80,extended,080B5CAA
 patch=1,EE,202D72A8,extended,8F829638
 patch=1,EE,202D72AC,extended,10400006
@@ -75,7 +75,7 @@ patch=1,EE,202D72C4,extended,AC430004
 patch=1,EE,202D72C8,extended,03E00008
 patch=1,EE,202D72CC,extended,00000000
 
-[Cheats/Press R3 For Debug Menu, Select to Disable Apply the below code then press R3 in-game to enable this menu. Press Select to disable it. Press circle Invincible mode] 
+//Cheats/Press R3 For Debug Menu, Select to Disable Apply the below code then press R3 in-game to enable this menu. Press Select to disable it. Press circle Invincible mode
 patch=1,EE,2029BF80,extended,080B5CAA
 patch=1,EE,202D72A8,extended,8F829638
 patch=1,EE,202D72AC,extended,10400006

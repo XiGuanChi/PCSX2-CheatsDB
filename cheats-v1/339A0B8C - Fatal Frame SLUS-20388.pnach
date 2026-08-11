@@ -1,72 +1,72 @@
-[Cheats/Always Low Game Time] 
+//Cheats/Always Low Game Time
 patch=1,EE,202522F8,extended,00000000
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,10252AA4,extended,000001F4
 
-[Cheats/Max Score] 
+//Cheats/Max Score
 patch=1,EE,20265CF8,extended,0098967F
 
-[Cheats/1 Hit Kill Enemies] 
+//Cheats/1 Hit Kill Enemies
 patch=1,EE,D0252E98,extended,0003000A
 patch=1,EE,10252E98,extended,00000001
 patch=1,EE,D02536F8,extended,0003000A
 patch=1,EE,102536F8,extended,00000001
 
-[Cheats/Have Type 7 Film] 
+//Cheats/Have Type 7 Film
 patch=1,EE,00254360,extended,00000063
 
-[Cheats/Have Type 14 Film] 
+//Cheats/Have Type 14 Film
 patch=1,EE,00254361,extended,00000063
 
-[Cheats/Have Type 37 Film] 
+//Cheats/Have Type 37 Film
 patch=1,EE,00254362,extended,00000063
 
-[Cheats/Have Type 74 Film] 
+//Cheats/Have Type 74 Film
 patch=1,EE,00254363,extended,00000063
 
-[Cheats/Have Type 90 Film] 
+//Cheats/Have Type 90 Film
 patch=1,EE,00254364,extended,00000063
 
-[Cheats/Freeze Ghost L2+Up On L2+Right Off] 
+//Cheats/Freeze Ghost L2+Up On L2+Right Off
 patch=1,EE,D0252402,extended,00400110
 patch=1,EE,00252e93,extended,00000010
 patch=1,EE,D0252402,extended,00400120
 patch=1,EE,00252e93,extended,00000000
 
-[Cheats/Chapter Skip Intro with Mafuyu Press L2+Up] 
+//Cheats/Chapter Skip Intro with Mafuyu Press L2+Up
 patch=1,EE,D0252402,extended,0000FEEF
 patch=1,EE,00252A74,extended,00000000 
 
-[Cheats/Chapter Skip1st Night Press L2+Right] 
+//Cheats/Chapter Skip1st Night Press L2+Right
 patch=1,EE,D0252402,extended,0000FEDF  
 patch=1,EE,00252A74,extended,00000001 
 
-[Cheats/Chapter Skip 2nd Nigh Press L2+Down] 
+//Cheats/Chapter Skip 2nd Nigh Press L2+Down
 patch=1,EE,D0252402,extended,0000FEBF  
 patch=1,EE,00252A74,extended,00000002 
 
-[Cheats/Chapter Skip 3rd Nigh Press L2+Left] 
+//Cheats/Chapter Skip 3rd Nigh Press L2+Left
 patch=1,EE,D0252402,extended,0000FE7F 
 patch=1,EE,00252A74,extended,00000003 
 
-[Cheats/Chapter Skip Final Nigh Press R2 + Up while playing to instantly go to that chapter] 
+//Cheats/Chapter Skip Final Nigh Press R2 + Up while playing to instantly go to that chapter
 patch=1,EE,D0252402,extended,0000FDEF 
 patch=1,EE,00252A74,extended,00000004 
 
-[Cheats/Press R2 + Righ while Playing to Instantly go to that Chapter ] 
+//Cheats/Press R2 + Righ while Playing to Instantly go to that Chapter
 patch=1,EE,D0252402,extended,0000FDDF 
 patch=1,EE,00252A70,extended,00000000 
 
-[Cheats/Have All Bonus Camera Options] 
+//Cheats/Have All Bonus Camera Options
 patch=1,EE,00265CEB,extended,00000002
 patch=1,EE,20265CEC,extended,02020202
 
-[Cheats/Have All Special Camera Options]  
+//Cheats/Have All Special Camera Options
 patch=1,EE,20265CF0,extended,02020202
 patch=1,EE,00265CF4,extended,00000002
 
-[Cheats/Press L3 For Unused Main Menu] 
+//Cheats/Press L3 For Unused Main Menu
 patch=1,EE,D0252402,extended,0000FFFD
 patch=1,EE,00343074,extended,00000005
 patch=1,EE,00357BEA,extended,00000000
@@ -82,7 +82,7 @@ patch=1,EE,20240580,extended,0020102D
 patch=1,EE,20240584,extended,08085188
 patch=1,EE,20240588,extended,00000000
 
-[Cheats/Press Square For Battle Mode Menu] 
+//Cheats/Press Square For Battle Mode Menu
 patch=1,EE,D0252402,extended,00007FFF
 patch=1,EE,0025237C,extended,00000009
 patch=1,EE,20352E24,extended,002406A0

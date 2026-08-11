@@ -1,28 +1,28 @@
-[Cheats/Team 1 Health] 
+//Cheats/Team 1 Health
 patch=1,EE,000C2028,extended,00000001
 
-[Cheats/Team 2 Health] 
+//Cheats/Team 2 Health
 patch=1,EE,000C2029,extended,00000001
 
-[Cheats/Team 3 Health] 
+//Cheats/Team 3 Health
 patch=1,EE,000C202A,extended,00000001
 
-[Cheats/Team 4 Health] 
+//Cheats/Team 4 Health
 patch=1,EE,000C202B,extended,00000001
 
-[Cheats/Turn Time] 
+//Cheats/Turn Time
 patch=1,EE,20237094,extended,24450000
 
-[Cheats/All Players Infinite Health] 
+//Cheats/All Players Infinite Health
 patch=1,EE,204A4ABC,extended,24020001
 
-[Cheats/Freeze Turn Time] 
+//Cheats/Freeze Turn Time
 patch=1,EE,215297BC,extended,0000A000
 
-[Cheats/No Weapons Delay] 
+//Cheats/No Weapons Delay
 patch=1,EE,203FFC40,extended,03E00008
 patch=1,EE,203FFC44,extended,00000000
 
-[Cheats/Enemy AI Fails To Shoot] 
+//Cheats/Enemy AI Fails To Shoot
 patch=1,EE,2011D2D0,extended,03E00008
 patch=1,EE,2011D2D4,extended,00000000

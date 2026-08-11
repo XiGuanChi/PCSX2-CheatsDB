@@ -1,7 +1,7 @@
-[Cheats/99 Bells] 
+//Cheats/99 Bells
 patch=1,EE,1034FE20,extended,00000063
 
-[Cheats/Freeze Herd Timer] 
+//Cheats/Freeze Herd Timer
 patch=1,EE,20340F30,extended,4378025F
 patch=1,EE,20340F38,extended,4392C84A
 patch=1,EE,20340F40,extended,4378025F
@@ -9,11 +9,11 @@ patch=1,EE,20340F48,extended,4392C84A
 patch=1,EE,2034FCBC,extended,451139EA
 patch=1,EE,2034FCC0,extended,4035F311
 
-[Cheats/Have All Herding Tools] 
+//Cheats/Have All Herding Tools
 patch=1,EE,2035157C,extended,00020304
 patch=1,EE,20351584,extended,00000004
 
-[Cheats/Unlock All Paths]  
+//Cheats/Unlock All Paths
 patch=1,EE,203515A4,extended,00000001
 patch=1,EE,203515A8,extended,00000001
 patch=1,EE,203515AC,extended,00000001
@@ -36,7 +36,7 @@ patch=1,EE,203515F0,extended,00000001
 patch=1,EE,203515F0,extended,00000001
 patch=1,EE,203515F4,extended,00000001
 
-[Cheats/Unlock All Extras]  
+//Cheats/Unlock All Extras
 patch=1,EE,203A8420,extended,00000001
 patch=1,EE,203A8424,extended,00000001
 patch=1,EE,203A8428,extended,00000001

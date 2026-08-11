@@ -1,29 +1,29 @@
-[Cheats/Infinite Stealth] 
+//Cheats/Infinite Stealth
 patch=1,EE,00A35CD9,extended,00000001
 
-[Cheats/No Gun Overload] 
+//Cheats/No Gun Overload
 patch=1,EE,00A35CDA,extended,00000001
 
-[Cheats/Instant Weapon Recharge]  
+//Cheats/Instant Weapon Recharge
 patch=1,EE,00A35CD8,extended,00000001
 
-[Cheats/Unlock All Cheats] 
+//Cheats/Unlock All Cheats
 patch=1,EE,40A35CD8,extended,00030001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Missions] 
+//Cheats/Unlock All Missions
 patch=1,EE,00A35CDD,extended,00000001
 
-[Cheats/Unlock All Levels]  
+//Cheats/Unlock All Levels
 patch=1,EE,10A35BA6,extended,00000101
 patch=1,EE,40A35BA8,extended,00040001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Planes And Bonus Levels] 
+//Cheats/Unlock All Planes And Bonus Levels
 patch=1,EE,20A35BA0,extended,01010100
 patch=1,EE,40A35C9C,extended,000F0001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Debug Menu] 
+//Cheats/Debug Menu
 patch=1,EE,00A3541A,extended,00000000
 

@@ -1,37 +1,37 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20193D90,extended,24060032
 patch=1,EE,20193D94,extended,AE460540
 
-[Cheats/Infinite Ammo All Weapons] 
+//Cheats/Infinite Ammo All Weapons
 patch=1,EE,2011142C,extended,00000000
 
-[Cheats/Infinite First Aid Kits] 
+//Cheats/Infinite First Aid Kits
 patch=1,EE,201113A0,extended,00000000
 
-[Cheats/Unlock All B-Roll] 
+//Cheats/Unlock All B-Roll
 patch=1,EE,402B2894,extended,00050001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Concept Art] 
+//Cheats/Unlock All Concept Art
 patch=1,EE,402B2678,extended,00140001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Levels Both] 
+//Cheats/Unlock All Levels Both
 patch=1,EE,202B2674,extended,00060006
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,402B28A8,extended,00040001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Notes] 
+//Cheats/Unlock All Notes
 patch=1,EE,40884F00,extended,003C0001
 patch=1,EE,00000000,extended,00000001
 
-[Cheats/Unlock All Storyboard Art] 
+//Cheats/Unlock All Storyboard Art
 patch=1,EE,402B26C8,extended,00730001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Enable Debug Menus PPD Quick Start sends you into a level select sub menu.PPD NIS Test allows you to watch all of the cutscenes. ] 
+//Cheats/Enable Debug Menus PPD Quick Start sends you into a level select sub menu.PPD NIS Test allows you to watch all of the cutscenes.
 patch=1,EE,20325544,extended,00000000
 patch=1,EE,E003FFFD,extended,004DA802
 patch=1,EE,20325DC0,extended,00000000

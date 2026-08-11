@@ -1,32 +1,32 @@
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,2011E7DC,extended,2402FFFF
 
-[Cheats/Infinite Hearts] 
+//Cheats/Infinite Hearts
 patch=1,EE,201180A4,extended,00000000
 patch=1,EE,2011D994,extended,00000000
 
-[Cheats/Max Rating After 1 Dance] 
+//Cheats/Max Rating After 1 Dance
 patch=1,EE,101001CA,extended,00001000
 patch=1,EE,101001EA,extended,00001000
 patch=1,EE,10100202,extended,00001000
 
-[Cheats/Unlock All Character Profiles] 
+//Cheats/Unlock All Character Profiles
 patch=1,EE,2151F150,extended,FFFFFFFF
 patch=1,EE,2151F154,extended,FFFFFFFF
 patch=1,EE,1151F158,extended,0000FFFF
 
-[Cheats/Unlock All Character Profiles Not New Anymore] 
+//Cheats/Unlock All Character Profiles Not New Anymore
 patch=1,EE,1151F15A,extended,0000FFFF
 patch=1,EE,2151F15C,extended,FFFFFFFF
 patch=1,EE,2151F160,extended,FFFFFFFF
 patch=1,EE,0151F164,extended,000000FF
 
-[Cheats/Unlock All Character Profiles Alt] 
+//Cheats/Unlock All Character Profiles Alt
 patch=1,EE,2151EF80,extended,FFFFFFFF
 patch=1,EE,2151EF84,extended,FFFFFFFF
 patch=1,EE,1151EF88,extended,0000FFFF
 
-[Cheats/Unlock All Character Profiles Not New Anymore Alt] 
+//Cheats/Unlock All Character Profiles Not New Anymore Alt
 patch=1,EE,1151EF8A,extended,0000FFFF
 patch=1,EE,2151EF8C,extended,FFFFFFFF
 patch=1,EE,2151EF90,extended,FFFFFFFF

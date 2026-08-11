@@ -1,44 +1,44 @@
-[Cheats/Max Ace point 999999] 
+//Cheats/Max Ace point 999999
 patch=1,EE,20389DF4,extended,0098967F
 
-[Cheats/Max when Ace Point fluctuates] 
+//Cheats/Max when Ace Point fluctuates
 patch=1,EE,201C8FD0,extended,00000000
 
-[Cheats/Max kill points] 
+//Cheats/Max kill points
 patch=1,EE,20385B54,extended,000F423F
 
-[Cheats/Max when the shot down point fluctuates] 
+//Cheats/Max when the shot down point fluctuates
 patch=1,EE,201EF1F4,extended,10000003
 
-[Cheats/In battle maintain max durability of own unit] 
+//Cheats/In battle maintain max durability of own unit
 patch=1,EE,2027B32C,extended,0809F1D5
 patch=1,EE,2027C754,extended,8C8200D0
 patch=1,EE,2027C758,extended,0809ECCD
 patch=1,EE,2027C75C,extended,AC8200D4
 
-[Cheats/In battle max Keep your Vernier Gauge] 
+//Cheats/In battle max Keep your Vernier Gauge
 patch=1,EE,2027B474,extended,0809F445
 patch=1,EE,2027D114,extended,C48103D8
 patch=1,EE,2027D118,extended,0809ED1F
 patch=1,EE,2027D11C,extended,E48103D4
 
-[Cheats/In battle max when chain time increases] 
+//Cheats/In battle max when chain time increases
 patch=1,EE,201C67C0,extended,00000000
 
-[Cheats/Reload Weapon Required Code] 
+//Cheats/Reload Weapon Required Code
 patch=1,EE,2027BFD4,extended,0809F595
 patch=1,EE,2027D658,extended,0809F68D
 patch=1,EE,2027DA38,extended,0809EFF7
 patch=1,EE,2027DA3C,extended,8446000E
 
-[Cheats/momentary reload Valid only for weapons that can be reloaded. Used in conjunction with the Reload Weapon Required Code] 
+//Cheats/momentary reload Valid only for weapons that can be reloaded. Used in conjunction with the Reload Weapon Required Code
 patch=1,EE,2027D654,extended,3C013000
 patch=1,EE,2027D65C,extended,AC410004
 
-[Cheats/Rapid fire possible Valid only for weapons that can be reloaded. Used in conjunction with the Reload Weapon Required Code]
+//Cheats/Rapid fire possible Valid only for weapons that can be reloaded. Used in conjunction with the Reload Weapon Required Code
 patch=1,EE,2027DA34,extended,AC400000
 
-[Cheats/When strengthening unit Max unit experience value] 
+//Cheats/When strengthening unit Max unit experience value
 patch=1,EE,20215B98,extended,00430821
 patch=1,EE,20215B9C,extended,08085781
 patch=1,EE,20215BA0,extended,3C020001
@@ -46,68 +46,68 @@ patch=1,EE,20215E04,extended,344286A0
 patch=1,EE,20215E08,extended,080856EA
 patch=1,EE,20215E0C,extended,AC220840
 
-[Cheats/Max when unit experience value is obtained] 
+//Cheats/Max when unit experience value is obtained
 patch=1,EE,201C926C,extended,10000003
 
-[Cheats/Max when proficiency increases] 
+//Cheats/Max when proficiency increases
 patch=1,EE,201C95FC,extended,24500000
 
-[Cheats/99 modules] 
+//Cheats/99 modules
 patch=1,EE,20215E24,extended,00A20821
 patch=1,EE,20215E28,extended,08085782
 patch=1,EE,20215E2C,extended,24020063
 patch=1,EE,20215E08,extended,03E00008
 patch=1,EE,20215E0C,extended,A0220000
 
-[Cheats/1 lap cleared flag Free missions are attached, special performance enhancement restrictions are lifted.] 
+//Cheats/1 lap cleared flag Free missions are attached, special performance enhancement restrictions are lifted.
 patch=1,EE,003886E4,extended,00000002
 
-[Cheats/Release of unit strengthening restrictions clear flag not reflected Enhancement is possible regardless of ace points, experience points, and clear flags.] 
+//Cheats/Release of unit strengthening restrictions clear flag not reflected Enhancement is possible regardless of ace points, experience points, and clear flags.
 patch=1,EE,202AAB18,extended,24020000
 patch=1,EE,201CA0B0,extended,24020001
 patch=1,EE,202AA1B8,extended,1000FFBD
 
-[Cheats/Use L2 Max combination gauge] 
+//Cheats/Use L2 Max combination gauge
 patch=1,EE,2029539C,extended,00000000
 patch=1,EE,202953A0,extended,46000803
 patch=1,EE,D03842C2,extended,0000FEFF
 patch=1,EE,2029539C,extended,E480001C
 
-[Cheats/Max durability of wingman] 
+//Cheats/Max durability of wingman
 patch=1,EE,2027C5A4,extended,00029080
 patch=1,EE,2027C5A8,extended,8C8200D0
 patch=1,EE,2027C5B8,extended,AC8200D4
 
-[Cheats/Own Machine & Wing Machine Maintain max endurance] 
+//Cheats/Own Machine & Wing Machine Maintain max endurance
 patch=1,EE,202563B8,extended,03E00008
 patch=1,EE,202563BC,extended,AC8200D4
 patch=1,EE,2027B32C,extended,0C0958ED
 patch=1,EE,2027C5A4,extended,0C0958ED
 
-[Cheats/Max when the combination gauge rises] 
+//Cheats/Max when the combination gauge rises
 patch=1,EE,2029517C,extended,00000000
 patch=1,EE,20295198,extended,00000000
 
-[Cheats/Clear the mission and achieve the secret Valid only for missions played] 
+//Cheats/Clear the mission and achieve the secret Valid only for missions played
 patch=1,EE,201C727C,extended,00000000
 
-[Cheats/Great attack power] 
+//Cheats/Great attack power
 patch=1,EE,20242C94,extended,10000003
 patch=1,EE,20242CD4,extended,3C017000
 patch=1,EE,20242CD8,extended,AC410018
 
-[Cheats/Vernier consumption 0] 
+//Cheats/Vernier consumption 0
 patch=1,EE,20242FB0,extended,00000000
 patch=1,EE,20242FC8,extended,24030000
 patch=1,EE,20242FD8,extended,24030000
 
-[Cheats/Has the effect of removing the limiter The number of bullets for certain weapons will no longer decrease] 
+//Cheats/Has the effect of removing the limiter The number of bullets for certain weapons will no longer decrease
 patch=1,EE,202420AC,extended,10000005
 
-[Cheats/Self-made God Gundam will stop the light mirror immediately] 
+//Cheats/Self-made God Gundam will stop the light mirror immediately
 patch=1,EE,202ACC10,extended,E4620000
 
-[Cheats/Unlock All units appear in sortie selection and player unit viewing] 
+//Cheats/Unlock All units appear in sortie selection and player unit viewing
 patch=1,EE,2021505C,extended,00A20821
 patch=1,EE,20215060,extended,24020002
 patch=1,EE,20215064,extended,A0220010

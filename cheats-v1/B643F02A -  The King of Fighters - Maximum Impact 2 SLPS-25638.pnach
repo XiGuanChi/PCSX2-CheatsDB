@@ -1,14 +1,14 @@
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,109B7A1E,extended,00004348
 
-[Cheats/Infinite Health 1P] 
+//Cheats/Infinite Health 1P
 patch=1,EE,109AB53E,extended,00004348
 patch=1,EE,109AB542,extended,00004348
 
-[Cheats/Infinite Power] 
+//Cheats/Infinite Power
 patch=1,EE,009AB548,extended,00000009
 
-[Cheats/Unlock All Characters And All Color Available] 
+//Cheats/Unlock All Characters And All Color Available
 patch=1,EE,4067E918,extended,00140014
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,4067E92C,extended,00140014
@@ -16,7 +16,7 @@ patch=1,EE,00000001,extended,00000000
 patch=1,EE,4067E938,extended,00140014
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Characters, All Costume And All profile turn off the code once you save the game]
+//Cheats/Unlock All Characters, All Costume And All profile turn off the code once you save the game
 patch=1,EE,2054174C,extended,24040301
 patch=1,EE,20541754,extended,A524000C
 patch=1,EE,20541788,extended,240F0001
@@ -24,23 +24,23 @@ patch=1,EE,20541790,extended,A08F0010
 patch=1,EE,205417E8,extended,240F0001
 patch=1,EE,205417F0,extended,A08F0018
 
-[Cheats/Unlock All Stages And All Menu selectable turn off the code once you save the game] 
+//Cheats/Unlock All Stages And All Menu selectable turn off the code once you save the game
 patch=1,EE,20546F70,extended,24010001
 patch=1,EE,20546F78,extended,A0410002
 
-[Cheats/Unlock All Extra viewable] 
+//Cheats/Unlock All Extra viewable
 patch=1,EE,00C3F917,extended,00000003
 
-[Cheats/Unlock Extra Can Be Viewed Press L3+R3 It will be reflected in the save] 
+//Cheats/Unlock Extra Can Be Viewed Press L3+R3 It will be reflected in the save
 patch=1,EE,D0A7D2DC,extended,0000FFF9
 patch=1,EE,00A7A806,extended,00000001
 
-[Cheats/Unlock All Movies]  
+//Cheats/Unlock All Movies
 patch=1,EE,40C3F888,extended,00050001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,10C3F89C,extended,00000101
 
-[Cheats/Unlock All Sound] 
+//Cheats/Unlock All Sound
 patch=1,EE,40C3F8A8,extended,00180001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,00C3F90A,extended,00000001

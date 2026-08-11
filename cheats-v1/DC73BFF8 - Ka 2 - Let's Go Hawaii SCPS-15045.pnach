@@ -1,51 +1,51 @@
-[Cheats/Maz HP] 
+//Cheats/Maz HP
 patch=1,EE,203D08BC,extended,000000C7
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
  patch=1,EE,1062AE91,extended,0000FF40
  patch=1,EE,1062AE95,extended,0000FF40
  
-[Cheats/Infinite ST]  
+//Cheats/Infinite ST
 patch=1,EE,1062AE99,extended,0000FF40
 patch=1,EE,1062AE9D,extended,0000FF40
 
-[Cheats/Maz ST]  
+//Cheats/Maz ST
 patch=1,EE,203D08C4,extended,000000C7
 patch=1,EE,203D08C8,extended,000000C7
 patch=1,EE,203D08CC,extended,000000C7 
 
-[Cheats/Ultra Fast Blood Sucking fills max instantly including bonus] 
+//Cheats/Ultra Fast Blood Sucking fills max instantly including bonus
 patch=1,EE,003D2A3A,extended,000000FF
 
-[Cheats/Maz Sucking Power] 
+//Cheats/Maz Sucking Power
 patch=1,EE,203D08C0,extended,000000C7
 
-[Cheats/Maz Points 999] 
+//Cheats/Maz Points 999
 patch=1,EE,103D08B4,extended,000003E7
 
-[Cheats/Infinite Lives - ressurection when killed] 
+//Cheats/Infinite Lives - ressurection when killed
 patch=1,EE,203D09F0,extended,00000003
 
-[Cheats/Maz Upgrade Points] 
+//Cheats/Maz Upgrade Points
 patch=1,EE,0032AB34,extended,00000063
 
-[Cheats/Bonus Mission Timer Freeze] 
+//Cheats/Bonus Mission Timer Freeze
 patch=1,EE,2044C0DC,extended,00000000
 
-[Cheats/Unlock All Stages]
+//Cheats/Unlock All Stages
 patch=1,EE,003D0920,extended,0000000C
 
-[Cheats/Unlock All Colors] 
+//Cheats/Unlock All Colors
 patch=1,EE,403D0830,extended,00080001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Pressure Points] 
+//Cheats/Unlock All Pressure Points
 patch=1,EE,40444808,extended,00320010
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Next Stage Press L3+R3] 
+//Cheats/Next Stage Press L3+R3
 patch=1,EE,D03EFAC2,extended,0000FFF9
 patch=1,EE,003D2A21,extended,0000000F
 
-[Cheats/Widescreen Hack 16:9] 
+//Cheats/Widescreen Hack 16:9
 patch=1,EE,203DF6BC,extended,3F400000

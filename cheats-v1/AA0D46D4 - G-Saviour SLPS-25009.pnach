@@ -1,14 +1,14 @@
-[Cheats/G-Saber 99x] 
+//Cheats/G-Saber 99x
 patch=1,EE,001F1B04,extended,00000063
 
-[Cheats/G-Saber Max Armor] 
+//Cheats/G-Saber Max Armor
 patch=1,EE,001F1AE4,extended,00000064
 patch=1,EE,001F1AE8,extended,00000064
 
-[Cheats/G-Saber Infinite Shield]  
+//Cheats/G-Saber Infinite Shield
 patch=1,EE,101F1AE4,extended,000042C8
 patch=1,EE,101F1AE8,extended,000042C8
 
-[Cheats/G-Saber Infinite Hover] 
+//Cheats/G-Saber Infinite Hover
 patch=1,EE,101F1AF6,extended,00004448
 patch=1,EE,101F1AFA,extended,00004448

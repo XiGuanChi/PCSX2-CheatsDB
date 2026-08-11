@@ -1,12 +1,12 @@
-[Cheats/Infinite Power] 
+//Cheats/Infinite Power
 patch=1,EE,20223800,extended,03E00008
 patch=1,EE,20223804,extended,00000000
 
-[Cheats/Infinite Ammo & No Reload] 
+//Cheats/Infinite Ammo & No Reload
 patch=1,EE,20472A84,extended,00000001
 
-[Cheats/1 Shot kILL] 
+//Cheats/1 Shot kILL
 patch=1,EE,2020075C,extended,00000000
 
-[Cheats/Unlock Play Bonus Video Select Credits to Activate] 
+//Cheats/Unlock Play Bonus Video Select Credits to Activate
 patch=1,EE,20472AA4,extended,00000001

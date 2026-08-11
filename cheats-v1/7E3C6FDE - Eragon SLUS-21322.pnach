@@ -1,36 +1,36 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C0220,extended,24010BB8
 patch=1,EE,200C0224,extended,ACC10530
 
-[Cheats/Max Health] 
+//Cheats/Max Health
 patch=1,EE,200C0228,extended,24010BB8
 patch=1,EE,200C022C,extended,ACC10534
 
-[Cheats/Infinite Magic Energy] 
+//Cheats/Infinite Magic Energy
 patch=1,EE,200C0230,extended,24010BB8
 patch=1,EE,200C0234,extended,ACC10550
 
-[Cheats/Max Magic Energy] 
+//Cheats/Max Magic Energy
 patch=1,EE,200C0238,extended,24010BB8
 patch=1,EE,200C023C,extended,ACC10554
 
-[Cheats/Max Team Meter] 
+//Cheats/Max Team Meter
 patch=1,EE,200C0240,extended,3C013F80
 patch=1,EE,200C0244,extended,ACC10560
 
-[Cheats/Infinite Fury] 
+//Cheats/Infinite Fury
 patch=1,EE,201784F4,extended,00000000
 
-[Cheats/Infinite Magic] 
+//Cheats/Infinite Magic
 patch=1,EE,20170A80,extended,00000000
 
-[Cheats/Unlock all Unlockables]  
+//Cheats/Unlock all Unlockables
 patch=1,EE,203AB9C0,extended,0000FFFF
 
-[Cheats/Have All Unlockables Viewed] 
+//Cheats/Have All Unlockables Viewed
 patch=1,EE,203AB9C4,extended,FFFFFFFF
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,403AA444,extended,00120020
 patch=1,EE,00010101,extended,00000000
 

@@ -1,18 +1,18 @@
-[Cheats/Max Money 99999999] 
+//Cheats/Max Money 99999999
 patch=1,EE,203988A0,extended,0098967F
 
-[Cheats/Max Help Points] 
+//Cheats/Max Help Points
 patch=1,EE,20398A64,extended,0000270F
 
-[Cheats/When You Defeat A Unit Everyone's Yokai Power Increases By 50] 
+//Cheats/When You Defeat A Unit Everyone's Yokai Power Increases By 50
 patch=1,EE,20294904,extended,24050032
 patch=1,EE,20294918,extended,24050032
 
-[Cheats/Attack Damage 9999 Press Square ON SELECT OFF Also effective on enemies] 
+//Cheats/Attack Damage 9999 Press Square ON SELECT OFF Also effective on enemies
 patch=1,EE,D03AC182,extended,00007FFF
 patch=1,EE,2020DAD0,extended,4A0002FF
 patch=1,EE,D03AC182,extended,0000FFFE
 patch=1,EE,2020DAD0,extended,14200002
 
-[Cheats/Unlock Yokai Apartment] 
+//Cheats/Unlock Yokai Apartment
 patch=1,EE,203988B4,extended,00000001

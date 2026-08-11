@@ -1,7 +1,7 @@
-[Cheats/Infinite EP]  
+//Cheats/Infinite EP
 patch=1,EE,20A8BAE0,extended,4A0002FF
 
-[Cheats/HP operation Press R2 to make Enemy HP 0 Effect will be reflected in the enemy all allies A blow death Press the selectPressing the start and invincible When you press L3 + R3 will be as usual]  
+//Cheats/HP operation Press R2 to make Enemy HP 0 Effect will be reflected in the enemy all allies A blow death Press the selectPressing the start and invincible When you press L3 + R3 will be as usual
 patch=1,EE,D094F482,extended,0000FFFE
 patch=1,EE,20A8BAA0,extended,00002021
 patch=1,EE,D094F482,extended,0000FFF7
@@ -9,25 +9,25 @@ patch=1,EE,20A8BAA0,extended,00802021
 patch=1,EE,D094F482,extended,0000FFF9
 patch=1,EE,20A8BAA0,extended,00852021
 
-[Cheats/Press R2 to make Enemy HP 0] 
+//Cheats/Press R2 to make Enemy HP 0
 patch=1,EE,E002BDFF,extended,0094F482
 patch=1,EE,40AC14BC,extended,00040042
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Max EXP Gained] 
+//Cheats/Max EXP Gained
 patch=1,EE,20A8FD64,extended,00441021
 patch=1,EE,20A8FD78,extended,AEA40004
 
-[Cheats/Random Battles No Encounter L3 Encounter R3]
+//Cheats/Random Battles No Encounter L3 Encounter R3
 patch=1,EE,D063A768,extended,00000200
 patch=1,EE,20201C88,extended,16670009
 patch=1,EE,D063A768,extended,00000400
 patch=1,EE,20201C88,extended,1667000B
 
-[Cheats/Enable Debug Info & Debug Menu Text] 
+//Cheats/Enable Debug Info & Debug Menu Text
 patch=1,EE,108D4704,extended,0000FFFF
 
-[Cheats/Re-enable Debug Menus With the Re-enable Debug Menus code active, press one of the following buttons to enable a debug menu when you have control of a character:Select for Battle Debug Menu.L3 for Script Debug. L2 + R2 for Main Debug Menu R3 to disable debug menus only works in some menus] 
+//Cheats/Re-enable Debug Menus With the Re-enable Debug Menus code active, press one of the following buttons to enable a debug menu when you have control of a character:Select for Battle Debug Menu.L3 for Script Debug. L2 + R2 for Main Debug Menu R3 to disable debug menus only works in some menus
 patch=1,EE,D063A742,extended,0000FFFE
 patch=1,EE,201DE4C0,extended,0C2AA890
 patch=1,EE,D063A742,extended,0000FFFD

@@ -1,9 +1,9 @@
-[Cheats/Not Reduced Program Mode Right Answer] 
+//Cheats/Not Reduced Program Mode Right Answer
 patch=1,EE,201C12D8,extended,00000001
 patch=1,EE,201C12E0,extended,00000001
 
-[Cheats/Challenge Mode Clear Time 0] 
+//Cheats/Challenge Mode Clear Time 0
 patch=1,EE,201C13B8,extended,00000000
 
-[Cheats/Correct Number 100] 
+//Cheats/Correct Number 100
 patch=1,EE,201C13C0,extended,00000064

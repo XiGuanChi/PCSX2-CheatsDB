@@ -1,28 +1,28 @@
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,204EF864,extended,5FAB6661
 
-[Cheats/Infinite Turbo] 
+//Cheats/Infinite Turbo
 patch=1,EE,203050fc,extended,46000001
 
-[Cheats/Infinite Nitro] 
+//Cheats/Infinite Nitro
 patch=1,EE,203050a8,extended,ae010434
 
-[Cheats/Stupid AI Press L3 to activate and R3 to stop. This code doesn't work in dragster mode.] 
+//Cheats/Stupid AI Press L3 to activate and R3 to stop. This code doesn't work in dragster mode.
 patch=1,EE,D0523302,extended,000000FD
 patch=1,EE,2056193C,extended,4FAB1111
 patch=1,EE,D0523302,extended,000000FB
 patch=1,EE,2056193C,extended,40490FD0
 
-[Cheats/Max.Race Entered] 
+//Cheats/Max.Race Entered
 patch=1,EE,204F0E60,extended,05FAB000
 
-[Cheats/Max.Money Spent On Car] 
+//Cheats/Max.Money Spent On Car
 patch=1,EE,204F7888,extended,05F5E0FF
 
 [Cheats/Unlock All Cars Quick Race] Open 
 patch=1,EE,20271D1C,extended,00000000
 
-[Cheats/Unlock All Tracks Quick Race]
+//Cheats/Unlock All Tracks Quick Race
 patch=1,EE,2026B3D0,extended,00000000
 patch=1,EE,2026B450,extended,24020001
 

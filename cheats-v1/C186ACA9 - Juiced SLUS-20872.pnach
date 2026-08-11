@@ -1,4 +1,4 @@
-[Cheats/Max Cash]
+//Cheats/Max Cash
 patch=1,EE,200C0220,extended,3C0505F5
 patch=1,EE,200C0224,extended,34A5E0FF
 patch=1,EE,200C0228,extended,AC81000C
@@ -6,24 +6,24 @@ patch=1,EE,200C022C,extended,03E00008
 patch=1,EE,200C0230,extended,8C431450
 patch=1,EE,201C2120,extended,0C030088
 
-[Cheats/Start A New Game With Max Cash]
+//Cheats/Start A New Game With Max Cash
 patch=1,EE,201C0D7C,extended,3C0205F0
 
-[Cheats/Infinite N2O] 
+//Cheats/Infinite N2O
 patch=1,EE,2014770C,extended,3C014080
 patch=1,EE,20147718,extended,AC4103D8
 patch=1,EE,20147720,extended,AC610100
 
-[Cheats/Max Respect Career Mode View Respect] 
+//Cheats/Max Respect Career Mode View Respect
 patch=1,EE,20221290,extended,240105DC
 patch=1,EE,20221294,extended,AE610070
 patch=1,EE,2022129C,extended,44810000
 
-[Cheats/Idiot AI]  
+//Cheats/Idiot AI
 patch=1,EE,201A0480,extended,03E00008
 patch=1,EE,201A0484,extended,00000000
 
-[Cheats/Start On Last Lap] 
+//Cheats/Start On Last Lap
 patch=1,EE,200C0240,extended,3C01000C
 patch=1,EE,200C0244,extended,080D5972
 patch=1,EE,200C0248,extended,AC260000
@@ -41,17 +41,17 @@ patch=1,EE,200C0274,extended,03E00008
 patch=1,EE,200C0278,extended,00000000
 patch=1,EE,201467DC,extended,0C030094
 
-[Cheats/Unlock Arcade Series Tracks View Tracks] 
+//Cheats/Unlock Arcade Series Tracks View Tracks
 patch=1,EE,20140440,extended,AC6000CC
 patch=1,EE,10140446,extended,00001000
 patch=1,EE,200C0280,extended,080D5972
 patch=1,EE,200C0284,extended,AEA000CC
 patch=1,EE,2013EB64,extended,0C0300A0
 
-[Cheats/Unlock Have Arcade Series Tracks Completed]  
+//Cheats/Unlock Have Arcade Series Tracks Completed
 patch=1,EE,2013DE58,extended,24020001
 patch=1,EE,2013DE60,extended,ACA20000
 patch=1,EE,2013DE64,extended,24A500D4
 
-[Cheats/Unlock All Cars Arcade And Custom] 
+//Cheats/Unlock All Cars Arcade And Custom
 patch=1,EE,20228740,extended,AC8052F0

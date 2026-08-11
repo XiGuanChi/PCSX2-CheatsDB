@@ -1,56 +1,56 @@
-[Cheats/Infinite Health P1]   
+//Cheats/Infinite Health P1
 patch=1,EE,101E1392,extended,00000140
 
-[Cheats/1 Hit Kill P2] 
+//Cheats/1 Hit Kill P2
 patch=1,EE,201513C4,extended,24010001
 patch=1,EE,201513C8,extended,AFC10020
 
-[Cheats/Max Power P1Unlock] 
+//Cheats/Max Power P1Unlock
 patch=1,EE,1044E938,extended,00000064
 
-[Cheats/Max Clock gauge 1P] 
+//Cheats/Max Clock gauge 1P
 patch=1,EE,001E1393,extended,00000001
 
-[Cheats/Combat Required Code] 
+//Cheats/Combat Required Code
 patch=1,EE,201082CC,extended,0803E000
 patch=1,EE,201082D0,extended,00531024
 patch=1,EE,200F802C,extended,0040282D
 patch=1,EE,200F8030,extended,080420B5
 
-[Cheats/Infinite Health maintenance Can be used in conjunction with battle required code. Valid for all controllable players] 
+//Cheats/Infinite Health maintenance Can be used in conjunction with battle required code. Valid for all controllable players
 patch=1,EE,200F8000,extended,8E010024
 patch=1,EE,200F8004,extended,AE010020
 
-[Cheats/Only Player Recovers Health Press SELECT Must be used in conjunction with the battle-required code. Valid for all controllable players.] 
+//Cheats/Only Player Recovers Health Press SELECT Must be used in conjunction with the battle-required code. Valid for all controllable players.
 patch=1,EE,200F8008,extended,8E010024
 patch=1,EE,200F800C,extended,00000000
 patch=1,EE,D01E0BC2,extended,0000FFFE
 patch=1,EE,200F800C,extended,AE010020
 
-[Cheats/Max Clock Up Gauge  Must be used in conjunction with battle required code. Valid for all controllable players] 
+//Cheats/Max Clock Up Gauge  Must be used in conjunction with battle required code. Valid for all controllable players
 patch=1,EE,200F8010,extended,8E0101F4
 patch=1,EE,200F8014,extended,AE0101F0
 
-[Cheats/UnlockAll Title Menu ]  
+//Cheats/UnlockAll Title Menu
 patch=1,EE,2014A534,extended,240200FF
 patch=1,EE,2014A538,extended,ACA20078
 patch=1,EE,2014A540,extended,A0A0002B
 
-[Cheats/UnlockBuster Mode Rider & Worm Route Selectable] 
+//Cheats/UnlockBuster Mode Rider & Worm Route Selectable
 patch=1,EE,2014A5B0,extended,24040007
 patch=1,EE,2014A5B4,extended,AC64007C
 
-[Cheats/Unlock All Characters when selecting characters Appearance Battle, free battle, tai Yes, effective in Survival] 
+//Cheats/Unlock All Characters when selecting characters Appearance Battle, free battle, tai Yes, effective in Survival
 patch=1,EE,2014A60C,extended,24020001 
 patch=1,EE,2014A610,extended,03E00008 
 patch=1,EE,2014A614,extended,A083002C 
 patch=1,EE,2014A618,extended,08052980
 patch=1,EE,2014A61C,extended,00000000 
 
-[Cheats/Unlock All Demo Viewer Mode when entering demo viewer mode Must be used in conjunction with the All characters appear during character selection code] 
+//Cheats/Unlock All Demo Viewer Mode when entering demo viewer mode Must be used in conjunction with the All characters appear during character selection code
 patch=1,EE,2014AD2C,extended,AC820184 
 
-[Cheats/Debug Menu L3 to enable R3 to disable] 
+//Cheats/Debug Menu L3 to enable R3 to disable
 patch=1,EE,0012FD0A,extended,000000A0
 patch=1,EE,2012F378,extended,0C072732
 patch=1,EE,201C9CC8,extended,3C03001E

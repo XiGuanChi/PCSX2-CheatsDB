@@ -1,10 +1,10 @@
-[Cheats/Infinite CDP'S] 
+//Cheats/Infinite CDP'S
 patch=1,EE,10905EF0,extended,0000FFFF
 
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,20328638,extended,43FA0000
 patch=1,EE,20328640,extended,43FA0000
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,4046E3D4,extended,000E0001
 patch=1,EE,00000001,extended,00000000

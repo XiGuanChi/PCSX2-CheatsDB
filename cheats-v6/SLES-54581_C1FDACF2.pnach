@@ -1,6 +1,6 @@
 gametitle=The Red Star PAL-M SLES-54581 C1FDACF2
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC Mode at start (v1.0).
 patch=0,EE,0023A4BC,word,24060002 //24060003

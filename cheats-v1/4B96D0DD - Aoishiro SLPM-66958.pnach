@@ -1,4 +1,4 @@
-[Cheats/Unlock All Tamatebako] 
+//Cheats/Unlock All Tamatebako
 patch=1,EE,40B30388,extended,00270001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,40B30424,extended,00030001
@@ -8,11 +8,11 @@ patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10B30338,extended,0000FFFF
 patch=1,EE,00B3033A,extended,000000FF
 
-[Cheats/Unlock All Bifurcation diagram] 
+//Cheats/Unlock All Bifurcation diagram
 patch=1,EE,404621D6,extended,00210001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,1046225A,extended,0000FFFF
 
-[Cheats/Unlock Tamate box in the title & spoiler operation is possible Unlock All Elements other than the branch diagram. Unlock branch diagram with the spoiler item in the option] 
+//Cheats/Unlock Tamate box in the title & spoiler operation is possible Unlock All Elements other than the branch diagram. Unlock branch diagram with the spoiler item in the option
 patch=1,EE,2015E300,extended,2402FFFF
 patch=1,EE,2015E304,extended,ACA20000

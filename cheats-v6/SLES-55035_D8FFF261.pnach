@@ -1,6 +1,6 @@
 gametitle=Asterix at the Olympic Games PAL-E SLES-55035 D8FFF261
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,00168BCC,word,24030000

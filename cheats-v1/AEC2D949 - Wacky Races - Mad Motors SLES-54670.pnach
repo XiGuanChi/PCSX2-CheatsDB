@@ -1,37 +1,37 @@
-[Cheats/Max DD Coins] 
+//Cheats/Max DD Coins
 patch=1,EE,102F9D10,extended,000003E7
 
-[Cheats/Max Wacky Coins] 
+//Cheats/Max Wacky Coins
 patch=1,EE,102F9D14,extended,000003E7
 
-[Cheats/Idiot AI] 
+//Cheats/Idiot AI
 patch=1,EE,20140EC8,extended,00000000
 
-[Cheats/Press L2 For Instant Win Select for Language] 
+//Cheats/Press L2 For Instant Win Select for Language
 patch=1,EE,20853E48,extended,00000001
 
-[Cheats/Freeze Timers] 
+//Cheats/Freeze Timers
 patch=1,EE,20140924,extended,24020001
 
-[Cheats/Auto Drive] 
+//Cheats/Auto Drive
 patch=1,EE,20140C24,extended,100000A6
 
-[Cheats/Can Always Use Turbo] 
+//Cheats/Can Always Use Turbo
 patch=1,EE,20146160,extended,10000004
 patch=1,EE,201469B0,extended,1000000B
 
-[Cheats/Only One Lap To Race] 
+//Cheats/Only One Lap To Race
 patch=1,EE,20144600,extended,24040001
 
-[Cheats/Take Objects Anywhere] 
+//Cheats/Take Objects Anywhere
 patch=1,EE,2013E9D8,extended,00000000
 
-[Cheats/Can Select Locked Races] 
+//Cheats/Can Select Locked Races
 patch=1,EE,20108018,extended,00000000
 
-[Cheats/Can Select Locked Vehicles] 
+//Cheats/Can Select Locked Vehicles
 patch=1,EE,20101AE0,extended,24020001
 
-[Cheats/Can Select Locked Vehicles Need To Race To Unlock Them] 
+//Cheats/Can Select Locked Vehicles Need To Race To Unlock Them
 patch=1,EE,20101BAC,extended,0042202A
 

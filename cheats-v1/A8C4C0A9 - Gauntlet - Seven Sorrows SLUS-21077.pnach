@@ -1,4 +1,4 @@
-[Cheats/Infinite Gold] 
+//Cheats/Infinite Gold
 patch=1,EE,200C2030,extended,3E014974
 patch=1,EE,200C2034,extended,34212400
 patch=1,EE,200C2038,extended,3C010314
@@ -6,14 +6,14 @@ patch=1,EE,200C203C,extended,03E00008
 patch=1,EE,200C2040,extended,0040302D
 patch=1,EE,20377378,extended,0C03080C
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,219f36e0,extended,43fe0000
 
-[Cheats/Infinite Mana] 
+//Cheats/Infinite Mana
 patch=1,EE,219f35c4,extended,3f800000
 
-[Cheats/Level 99] 
+//Cheats/Level 99
 patch=1,EE,019f3738,extended,00000063
 
-[Cheats/Invincible Always On] 
+//Cheats/Invincible Always On
 patch=1,EE,1020A4FE,extended,00001000

@@ -1,19 +1,19 @@
-[Cheats/Infinite Shield] 
+//Cheats/Infinite Shield
 patch=1,EE,11AC1BFC,extended,00000019
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,11AC1BF8,extended,0000001E
 
-[Cheats/Infinite Pistol ammo] 
+//Cheats/Infinite Pistol ammo
 patch=1,EE,11AD04D4,extended,0000000F
 
-[Cheats/Bad Guy's Do Not Attack Only certain scripted attacks will take place.] 
+//Cheats/Bad Guy's Do Not Attack Only certain scripted attacks will take place.
 patch=1,EE,20117648,extended,00000000
 
-[Cheats/Infinite Ammo For All Levels] 
+//Cheats/Infinite Ammo For All Levels
 patch=1,EE,20290BD4,extended,00000001
 
-[Cheats/Finish The Level Press L2 to finish the level you are currently playing.] 
+//Cheats/Finish The Level Press L2 to finish the level you are currently playing.
 patch=1,EE,D022DF9A,extended,0000FEFF
 patch=1,EE,2028E728,extended,00000001
 patch=1,EE,D022DF9A,extended,0000FFFF

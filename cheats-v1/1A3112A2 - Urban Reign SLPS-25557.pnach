@@ -1,92 +1,92 @@
-[Cheats/Infinite Ability points Press CIRCLE to finish sorting] 
+//Cheats/Infinite Ability points Press CIRCLE to finish sorting
 patch=1,EE,201F1204,extended,00000000
 patch=1,EE,201F1384,extended,24020000
 
-[Cheats/1P Infinite HP] 
+//Cheats/1P Infinite HP
 patch=1,EE,204A5FC8,extended,00000000
 patch=1,EE,204A5FCE,extended,00000000
 patch=1,EE,204A5FCC,extended,00000000
 patch=1,EE,204A5FD2,extended,00000000
 
-[Cheats/1P Infinite Health] 
+//Cheats/1P Infinite Health
 patch=1,EE,205A5FC8,extended,270F270F
 
-[Cheats/1P Infinite Part gauge]  
+//Cheats/1P Infinite Part gauge
 patch=1,EE,205A5FCC,extended,270F270F
 patch=1,EE,105A5FD0,extended,0000270F
 
-[Cheats/1P Infinite Special Arts] 
+//Cheats/1P Infinite Special Arts
 patch=1,EE,105A5FF2,extended,000003E8
 
-[Cheats/1P Max ability In Battle] 
+//Cheats/1P Max ability In Battle
 patch=1,EE,205A6018,extended,FFFFFFFF
 patch=1,EE,205A601C,extended,FFFFFFFF
 patch=1,EE,205A6020,extended,FFFFFFFF
 patch=1,EE,205A6024,extended,FFFFFFFF
 patch=1,EE,105A6028,extended,0000FFFF
 
-[Cheats/2P Infinite Health] 
+//Cheats/2P Infinite Health
 patch=1,EE,205AF718,extended,270F270F
 
-[Cheats/2P Infinite Part gauge] 
+//Cheats/2P Infinite Part gauge
 patch=1,EE,205AF71C,extended,270F270F
 patch=1,EE,105AF720,extended,0000270F
 
-[Cheats/2P Infinite Special Arts] 
+//Cheats/2P Infinite Special Arts
 patch=1,EE,105A5F42,extended,000003E8
 
-[Cheats/2P Max ability In Battle] 
+//Cheats/2P Max ability In Battle
 patch=1,EE,205AF768,extended,FFFFFFFF 
 patch=1,EE,205AF76C,extended,FFFFFFFF 
 patch=1,EE,205AF770,extended,FFFFFFFF 
 patch=1,EE,205AF774,extended,FFFFFFFF
 patch=1,EE,105AF778,extended,0000FFFF 
 
-[Cheats/3P Infinite Health] 
+//Cheats/3P Infinite Health
 patch=1,EE,205B8E68,extended,270F270F 
 
-[Cheats/3P Infinite Part gauge]
+//Cheats/3P Infinite Part gauge
 patch=1,EE,205B8E6C,extended,270F270F 
 patch=1,EE,105B8E70,extended,0000270F
 
-[Cheats/3P Infinite Special Arts] 
+//Cheats/3P Infinite Special Arts
 patch=1,EE,105B8E92,extended,000003E8 
 
-[Cheats/3P Max ability In Battle] 
+//Cheats/3P Max ability In Battle
 patch=1,EE,205B8EB8,extended,FFFFFFFF 
 patch=1,EE,205B8EBC,extended,FFFFFFFF 
 patch=1,EE,205B8EC0,extended,FFFFFFFF 
 patch=1,EE,205B8EC4,extended,FFFFFFFF 
 patch=1,EE,105B8EC8,extended,0000FFFF 
 
-[Cheats/4P Infinite Health] 
+//Cheats/4P Infinite Health
 patch=1,EE,205C25B8,extended,270F270F
 
-[Cheats/4P Infinite Part gauge] 
+//Cheats/4P Infinite Part gauge
 patch=1,EE,205C25BC,extended,270F270F
 patch=1,EE,105C25C0,extended,0000270F
 
-[Cheats/4P Infinite Special Arts] 
+//Cheats/4P Infinite Special Arts
 patch=1,EE,105C25E2,extended,000003E8
 
-[Cheats/4P Max ability In Battle] 
+//Cheats/4P Max ability In Battle
 patch=1,EE,205C2608,extended,FFFFFFFF
 patch=1,EE,205C260C,extended,FFFFFFFF
 patch=1,EE,205C2610,extended,FFFF FFFF
 patch=1,EE,205C2614,extended,FFFFFFFF
 patch=1,EE,105C2618,extended,0000FFFF
 
-[Cheats/Free mode 1000 combo per hit] 
+//Cheats/Free mode 1000 combo per hit
 patch=1,EE,202386A4,extended,00000000
 
-[Cheats/Practice mode 1000 combo per hit] 
+//Cheats/Practice mode 1000 combo per hit
 patch=1,EE,20245C64,extended,240303E8
 
-[Cheats/Unlock All Characters]  
+//Cheats/Unlock All Characters
 patch=1,EE,409466B8,extended,00140001
 patch=1,EE,00010001,extended,00000000
 
-[Cheats/Unlock All]  
+//Cheats/Unlock All
 patch=1,EE,20946634,extended,00010001
 patch=1,EE,20946718,extended,00010001
 patch=1,EE,10946642,extended,00000001 

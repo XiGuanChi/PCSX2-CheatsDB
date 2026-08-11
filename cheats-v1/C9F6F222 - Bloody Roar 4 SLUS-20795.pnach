@@ -1,7 +1,7 @@
-[Cheats/Max DNA] 
+//Cheats/Max DNA
 patch=1,EE,203FFE8C,extended,05F5E0FF
 
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,200C0220,extended,3C010040
 patch=1,EE,200C0224,extended,8C21FE28
 patch=1,EE,200C0228,extended,50300001
@@ -10,7 +10,7 @@ patch=1,EE,200C0230,extended,03E00008
 patch=1,EE,200C0234,extended,00000000
 patch=1,EE,2013A0FC,extended,0C030088
 
-[Cheats/Infinite Health Player 1 Player 2 1 Hit Death] 
+//Cheats/Infinite Health Player 1 Player 2 1 Hit Death
 patch=1,EE,200C0220,extended,3C010040
 patch=1,EE,200C0224,extended,8C21FE28
 patch=1,EE,200C0228,extended,50300002
@@ -20,7 +20,7 @@ patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,00000000
 patch=1,EE,2013A0FC,extended,0C030088
 
-[Cheats/Infinite Beast Meter P1]  
+//Cheats/Infinite Beast Meter P1
 patch=1,EE,200C0240,extended,3C010040
 patch=1,EE,200C0244,extended,8C21FE28
 patch=1,EE,200C0248,extended,50300001
@@ -29,18 +29,18 @@ patch=1,EE,200C0250,extended,03E00008
 patch=1,EE,200C0254,extended,00000000
 patch=1,EE,2013A07C,extended,0C030090
 
-[Cheats/Root Debug Menu At Boot] 
+//Cheats/Root Debug Menu At Boot
 patch=1,EE,201006EC,extended,00000000
 
-[Cheats/Debug Menu - Game Menu 1 L1+X when ARCADE is highlighted] 
+//Cheats/Debug Menu - Game Menu 1 L1+X when ARCADE is highlighted
 patch=1,EE,D03EE302,extended,0000BBFF
 patch=1,EE,203EE764,extended,00000005
 
-[Cheats/Debug Menu - Game Menu 2 R1+X when ARCADE is highlighted] 
+//Cheats/Debug Menu - Game Menu 2 R1+X when ARCADE is highlighted
 patch=1,EE,D03EE302,extended,0000B7FF
 patch=1,EE,203EE764,extended,0000000C
 
-[Cheats/Debug Pause Always On] 
+//Cheats/Debug Pause Always On
 patch=1,EE,201079D0,extended,00000000
 patch=1,EE,003EFCA0,extended,00000002
 

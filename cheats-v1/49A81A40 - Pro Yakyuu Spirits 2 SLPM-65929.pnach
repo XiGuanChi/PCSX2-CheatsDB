@@ -1,7 +1,7 @@
-[Cheats/Max VP Home Run Competition]  
+//Cheats/Max VP Home Run Competition
 patch=1,EE,202B39A4,extended,00000000
 
-[Cheats/Press R1+R2 No Count] 
+//Cheats/Press R1+R2 No Count
 patch=1,EE,D1CE12E8,extended,0000000A
 patch=1,EE,20551DA0,extended,00000000
 patch=1,EE,D1CE12E8,extended,0000000A
@@ -9,7 +9,7 @@ patch=1,EE,20551DA4,extended,00000000
 patch=1,EE,D1CE12E8,extended,0000000A
 patch=1,EE,20551DA8,extended,00000000
 
-[Cheats/Press L1+L2 2 Strikes 0 Balls 2 Out] 
+//Cheats/Press L1+L2 2 Strikes 0 Balls 2 Out
 patch=1,EE,D1CE12E8,extended,00000005
 patch=1,EE,20551DA0,extended,00000002
 patch=1,EE,D1CE12E8,extended,00000005
@@ -17,42 +17,42 @@ patch=1,EE,20551DA4,extended,00000000
 patch=1,EE,D1CE12E8,extended,00000005
 patch=1,EE,20551DA8,extended,00000002
 
-[Cheats/Press SELECT Max Pitcher Points]  
+//Cheats/Press SELECT Max Pitcher Points
 patch=1,EE,D1CE12E8,extended,00000100
 patch=1,EE,21E089AC,extended,0000270F
 
-[Cheats/Press SELECT Max Stamina Points] 
+//Cheats/Press SELECT Max Stamina Points
 patch=1,EE,D1CE12E8,extended,00000100
 patch=1,EE,21E089B0,extended,0000270F
 
-[Cheats/Press SELECT Max Mental Points] 
+//Cheats/Press SELECT Max Mental Points
 patch=1,EE,D1CE12E8,extended,00000100
 patch=1,EE,21E089B4,extended,0000270F
 
-[Cheats/Press SELECT Max Sphere Kind Points] 
+//Cheats/Press SELECT Max Sphere Kind Points
 patch=1,EE,D1CE12E8,extended,00000100
 patch=1,EE,21E089B8,extended,0000270F
 
-[Cheats/Press SELECT Max Meat Points]
+//Cheats/Press SELECT Max Meat Points
 patch=1,EE,D1CE12E8,extended,00000100
 patch=1,EE,21E089BC,extended,0000270F
 
-[Cheats/Press SELECT Max Power Points] 
+//Cheats/Press SELECT Max Power Points
 patch=1,EE,D1CE12E8,extended,00000100
 patch=1,EE,21E089C0,extended,0000270F
 
-[Cheats/Press SELECT Max Running Power Points] 
+//Cheats/Press SELECT Max Running Power Points
 patch=1,EE,D1CE12E8,extended,00000100
 patch=1,EE,21E089C4,extended,0000270F
 
-[Cheats/Press SELECT Max Defense Power Points] 
+//Cheats/Press SELECT Max Defense Power Points
 patch=1,EE,D1CE12E8,extended,00000100
 patch=1,EE,21E089C8,extended,0000270F
 
-[Cheats/Press SELECT Max Spirits Points] 
+//Cheats/Press SELECT Max Spirits Points
 patch=1,EE,D1CE12E8,extended,00000100
 patch=1,EE,21E089CC,extended,000003E7
 
-[Cheats/Press SELECT Charisma & Support Ratio 100] 
+//Cheats/Press SELECT Charisma & Support Ratio 100
 patch=1,EE,D1CE12E8,extended,00000100
 patch=1,EE,205FBA9C,extended,00006464

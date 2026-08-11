@@ -1,11 +1,11 @@
-[Cheats/Max Jewels after Increase or decrease]    
+//Cheats/Max Jewels after Increase or decrease
 patch=1,EE,202C4180,extended,14200000
 
-[Cheats/Infinite & Max HP Main Character In Battle] 
+//Cheats/Infinite & Max HP Main Character In Battle
 patch=1,EE,20C48846,extended,0000270F
 patch=1,EE,20C48848,extended,0000270F
 
-[Cheats/Everyone Max Friendship Degree]
+//Cheats/Everyone Max Friendship Degree
 patch=1,EE,40D35FB4,extended,000C0001
 patch=1,EE,270F0000,extended,00000000
 

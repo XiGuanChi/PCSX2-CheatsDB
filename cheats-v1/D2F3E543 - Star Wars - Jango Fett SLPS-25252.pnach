@@ -1,15 +1,15 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,202F94A0,extended,3C014348
 patch=1,EE,202F94A4,extended,AE2101E8
 
-[Cheats/Infinite Continues] 
+//Cheats/Infinite Continues
 patch=1,EE,003C9184,extended,0I000000A
 
-[Cheats/Infinite Jetpack] 
+//Cheats/Infinite Jetpack
 patch=1,EE,20207A48,extended,00000000
 patch=1,EE,20208184,extended,00000000
 
-[Cheats/Unlock All Bonus And Stage Select] 
+//Cheats/Unlock All Bonus And Stage Select
 patch=1,EE,203F33B4,extended,FFFFFFFF
 patch=1,EE,203F33B8,extended,FFFFFFFF
 patch=1,EE,203F33BC,extended,FFFFFFFF

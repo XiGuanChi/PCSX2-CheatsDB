@@ -1,15 +1,15 @@
-[Cheats/Infinite AP P1] 
+//Cheats/Infinite AP P1
 patch=1,EE,104B8E68,extended,0000012C
 
-[Cheats/Infinite Shop MP P1] 
+//Cheats/Infinite Shop MP P1
 patch=1,EE,204B8E90,extended,0001869F
 
-[Cheats/Monster selection MP 999 Monsterselect MP 999] 
+//Cheats/Monster selection MP 999 Monsterselect MP 999
 patch=1,EE,204B8E74,extended,03e703e7
 
-[Cheats/Monster selection MP infinite Monste rselect MP Unlimited] 
+//Cheats/Monster selection MP infinite Monste rselect MP Unlimited
 patch=1,EE,20341e14,extended,00000000
 patch=1,EE,20341e48,extended,00000000
 
-[Cheats/Infinite PP Monster 1] 
+//Cheats/Infinite PP Monster 1
 patch=1,EE,004b8970,extended,00000064

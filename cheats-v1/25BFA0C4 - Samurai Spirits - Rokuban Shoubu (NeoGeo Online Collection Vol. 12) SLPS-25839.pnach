@@ -1,61 +1,61 @@
-[Cheats/Shodown III P1 Infinite HP] 
+//Cheats/Shodown III P1 Infinite HP
 patch=1,EE,D050C638,extended,00000002
 patch=1,EE,01C4BB52,extended,00000080
 
-[Cheats/Shodown III P1 Infinite Pow] 
+//Cheats/Shodown III P1 Infinite Pow
 patch=1,EE,D050C638,extended,00000002
 patch=1,EE,01C4BB5D,extended,00000040
 
-[Cheats/Shodown III P2 No HP P1 Press Start] 
+//Cheats/Shodown III P2 No HP P1 Press Start
 patch=1,EE,E0020002,extended,0050C638
 patch=1,EE,D1D14682,extended,0000FFF7
 patch=1,EE,01C4BC52,extended,00000000
 
-[Cheats/Samurai Shodown IV P1 Infinite HP] 
+//Cheats/Samurai Shodown IV P1 Infinite HP
 patch=1,EE,D050C638,extended,00000003
 patch=1,EE,01C4BA22,extended,000000FC
 
-[Cheats/Samurai Shodown IV P1 Infinite Pow]  
+//Cheats/Samurai Shodown IV P1 Infinite Pow
 patch=1,EE,D050C638,extended,00000003
 patch=1,EE,01C4BA2D,extended,00000040
 
-[Cheats/Samurai Shodown IV P2 No HP P1 Press Start] 
+//Cheats/Samurai Shodown IV P2 No HP P1 Press Start
 patch=1,EE,E0020003,extended,0050C638
 patch=1,EE,D1D14682,extended,0000FFF7
 patch=1,EE,01C4BC22,extended,00000000
 
-[Cheats/Samurai Shodown V P1 Infinite HP]
+//Cheats/Samurai Shodown V P1 Infinite HP
 patch=1,EE,D050C638,extended,00000004
 patch=1,EE,01C4BA24,extended,0000007D
 
-[Cheats/Samurai Shodown V P1 Infinite Pow] 
+//Cheats/Samurai Shodown V P1 Infinite Pow
 patch=1,EE,D050C638,extended,00000004
 patch=1,EE,01C4BA2F,extended,00000040
 
-[Cheats/Samurai Shodown V P1 Infinite Sword Pow] 
+//Cheats/Samurai Shodown V P1 Infinite Sword Pow
 patch=1,EE,D050C638,extended,00000004
 patch=1,EE,01C4BBD9,extended,00000078
 
-[Cheats/Samurai Shodown V P1 Sword Pow Bar Always Max Length] 
+//Cheats/Samurai Shodown V P1 Sword Pow Bar Always Max Length
 patch=1,EE,D050C638,extended,00000004
 patch=1,EE,01C4BB35,extended,00000082
 
-[Cheats/Samurai Shodown V P2 No HP P1 Press Start] 
+//Cheats/Samurai Shodown V P2 No HP P1 Press Start
 patch=1,EE,E0020004,extended,0050C638
 patch=1,EE,D1D14682,extended,0000FFF7
 patch=1,EE,01C4BC34,extended,00000000
 
-[Cheats/Samurai Shodown VI P1 Infinite HP]
+//Cheats/Samurai Shodown VI P1 Infinite HP
 patch=1,EE,11E08E70,extended,000000C8
 
-[Cheats/Samurai Shodown VI P1 Infinite Pow] 
+//Cheats/Samurai Shodown VI P1 Infinite Pow
 patch=1,EE,01e08565,extended,000000B8
 
-[Cheats/Samurai Shodown VI P1 Infinite P2 No HP P1 Press Start] 
+//Cheats/Samurai Shodown VI P1 Infinite P2 No HP P1 Press Start
 patch=1,EE,D1426382,extended,0000FFF7
 patch=1,EE,11E09D9C,extended,00000000
 
-[Cheats/Samurai Shodown VI Infinite HP] 
+//Cheats/Samurai Shodown VI Infinite HP
 patch=1,EE,01DF39F0,extended,000000C8
 
 [Cheats/Samurai Shodown VI Unlock 47 Characters + 1 Random + Kuroko Press Start, Survival, 1 Ending View, BGM Sound Mode, 55 IllustrationSpirit Edit, Gallery]  Mode
@@ -65,6 +65,6 @@ patch=1,EE,2043D0D6,extended,01010101
 patch=1,EE,1043D0EC,extended,00000101
 patch=1,EE,1043D096,extended,00000000
 
-[Cheats/Samurai Shodown VI Unlock 48 Endings View] 
+//Cheats/Samurai Shodown VI Unlock 48 Endings View
 patch=1,EE,4043D0A0,extended,00100001
 patch=1,EE,01010101,extended,00000000

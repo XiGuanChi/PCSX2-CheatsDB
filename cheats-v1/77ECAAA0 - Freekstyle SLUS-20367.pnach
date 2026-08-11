@@ -1,13 +1,13 @@
-[Cheats/Always Freekout Mode] 
+//Cheats/Always Freekout Mode
 patch=1,EE,10240684,extended,00000001
 patch=1,EE,10274D5A,extended,00000001
 
-[Cheats/Max All Stats All Characters] 
+//Cheats/Max All Stats All Characters
 patch=1,EE,40276434,extended,000A0001
 patch=1,EE,14141414,extended,00000000
 
-[Cheats/Have All Outfits First Created User ID Codes] 
+//Cheats/Have All Outfits First Created User ID Codes
 patch=1,EE,20276418,extended,FFFFFFFF
 
-[Cheats/Have All Bikes First Created User ID Codes] 
+//Cheats/Have All Bikes First Created User ID Codes
 patch=1,EE,2027641C,extended,FFFFFFFF

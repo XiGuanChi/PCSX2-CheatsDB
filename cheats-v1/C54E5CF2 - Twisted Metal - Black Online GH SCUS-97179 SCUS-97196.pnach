@@ -1,153 +1,153 @@
-[Cheats/God Mode Always On] 
+//Cheats/God Mode Always On
 patch=1,EE,00257FD9,extended,00000001
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,201BA050,extended,03E00008
 patch=1,EE,201BA054,extended,00000000
 
-[Cheats/Infinite Health Most Levels] 
+//Cheats/Infinite Health Most Levels
 patch=1,EE,20257F44,extended,447A0000
 
-[Cheats/Infinite Turbo] 
+//Cheats/Infinite Turbo
 patch=1,EE,201AAA58,extended,03E00008
 patch=1,EE,201AAA5C,extended,00000000
 
-[Cheats/Stop Enemies]  
+//Cheats/Stop Enemies
 patch=1,EE,20104818,extended,03E00008
 patch=1,EE,2010481C,extended,00000000
 patch=1,EE,20105164,extended,00000000
 patch=1,EE,2010293C,extended,00000000
 patch=1,EE,20102940,extended,00000000
 
-[Cheats/Idiot AI] 
+//Cheats/Idiot AI
 patch=1,EE,20104818,extended,03E00008
 patch=1,EE,2010481C,extended,00000000
 
-[Cheats/All Special Weapons Don't Deplete When Used All Players] 
+//Cheats/All Special Weapons Don't Deplete When Used All Players
 patch=1,EE,D01BA070,extended,8E032140
 patch=1,EE,201BA070,extended,00000000
 patch=1,EE,D01BA0A8,extended,AC620000
 patch=1,EE,201BA0A8,extended,00000000
 
-[Cheats/Cloaking Ability Doesn't Decrease Ability Meter]  
+//Cheats/Cloaking Ability Doesn't Decrease Ability Meter
 patch=1,EE,D01AFAB4,extended,AE222214
 patch=1,EE,201AFAB4,extended,00000000
 
-[Cheats/Drop Mine Ability Doesn't Decrease Ability Meter] 
+//Cheats/Drop Mine Ability Doesn't Decrease Ability Meter
 patch=1,EE,D01AF934,extended,AE222214
 patch=1,EE,201AF934,extended,00000000
 
-[Cheats/Drop Powered-Up Mine Ability Doesn't Decrease Ability Meter] 
+//Cheats/Drop Powered-Up Mine Ability Doesn't Decrease Ability Meter
 patch=1,EE,D01AF8D8,extended,AE232214
 patch=1,EE,201AF8D8,extended,00000000
 
-[Cheats/Freeze Projectile Ability Doesn't Decrease Ability Meter] 
+//Cheats/Freeze Projectile Ability Doesn't Decrease Ability Meter
 patch=1,EE,D01AF81C,extended,AE222214
 patch=1,EE,201AF81C,extended,00000000
 
-[Cheats/Machine Gun Upgrade Ammo Never Depletes All Players] 
+//Cheats/Machine Gun Upgrade Ammo Never Depletes All Players
 patch=1,EE,D01B7968,extended,ACA222C4
 patch=1,EE,201B7968,extended,00000000
 
-[Cheats/Machine Guns Never Overheat All Players] 
+//Cheats/Machine Guns Never Overheat All Players
 patch=1,EE,D014B864,extended,AE2200E0
 patch=1,EE,2014B864,extended,00000000
 
-[Cheats/Shield Ability Doesn't Decrease Ability Meter]  
+//Cheats/Shield Ability Doesn't Decrease Ability Meter
 patch=1,EE,D01AFA38,extended,AE232214
 patch=1,EE,201AFA38,extended,00000000
 
-[Cheats/Vehicle Jump Ability Doesn't Decrease Ability Meter] 
+//Cheats/Vehicle Jump Ability Doesn't Decrease Ability Meter
 patch=1,EE,D0156AB0,extended,AE022214
 patch=1,EE,20156AB0,extended,00000000
 
-[Cheats/Unlock All Characters]  
+//Cheats/Unlock All Characters
 patch=1,EE,40425E70,extended,00060001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock Level Freeway]  
+//Cheats/Unlock Level Freeway
 patch=1,EE,10425E94,extended,00000000
 
-[Cheats/Unlock Level Minion Stadium]  
+//Cheats/Unlock Level Minion Stadium
 patch=1,EE,10425EC4,extended,00000000
 
-[Cheats/Unlock Level Prison Pass] 
+//Cheats/Unlock Level Prison Pass
 patch=1,EE,10425E98,extended,00000000
 
-[Cheats/Unlock Level Skyscrapers]  
+//Cheats/Unlock Level Skyscrapers
 patch=1,EE,10425E9C,extended,00000000
 
-[Cheats/Unlock Movie Agent Stone Epilogue] 
+//Cheats/Unlock Movie Agent Stone Epilogue
 patch=1,EE,10425F58,extended,00000000
 
-[Cheats/Unlock Movie Agent Stone Middle]  
+//Cheats/Unlock Movie Agent Stone Middle
 patch=1,EE,10425F20,extended,00000000
 
-[Cheats/Unlock Movie Axel Epilogue]  
+//Cheats/Unlock Movie Axel Epilogue
 patch=1,EE,10425F78,extended,00000000
 
-[Cheats/Unlock Movie Billy Ray Epilogue] 
+//Cheats/Unlock Movie Billy Ray Epilogue
 patch=1,EE,10425F50,extended,00000000
 
-[Cheats/Unlock Movie Billy Ray Middle] 
+//Cheats/Unlock Movie Billy Ray Middle
 patch=1,EE,10425F18,extended,00000000
 
-[Cheats/Unlock Movie Black Epilogue]  
+//Cheats/Unlock Movie Black Epilogue
 patch=1,EE,10425F80,extended,00000000
 
-[Cheats/Unlock Movie Bloody Mary Epilogue]  
+//Cheats/Unlock Movie Bloody Mary Epilogue
 patch=1,EE,10425F68,extended,00000000
 
-[Cheats/Unlock Movie Bloody Mary Middle]  
+//Cheats/Unlock Movie Bloody Mary Middle
 patch=1,EE,10425F30,extended,00000000
 
-[Cheats/Unlock Movie Cage Epilogue] 
+//Cheats/Unlock Movie Cage Epilogue
 patch=1,EE,10425F7C,extended,00000000
 
-[Cheats/Unlock Movie Dollface Epilogue]  
+//Cheats/Unlock Movie Dollface Epilogue
 patch=1,EE,10425F6C,extended,00000000
 
-[Cheats/Unlock Movie Dollface Middle] 
+//Cheats/Unlock Movie Dollface Middle
 patch=1,EE,10425F34,extended,00000000
 
-[Cheats/Unlock Movie John Doe Epilogue]  
+//Cheats/Unlock Movie John Doe Epilogue
 patch=1,EE,10425F60,extended,00000000
 
-[Cheats/Unlock Movie John Doe Middle] 
+//Cheats/Unlock Movie John Doe Middle
 patch=1,EE,10425F28,extended,00000000
 
-[Cheats/Unlock Movie Mr Grim Epilogue] 
+//Cheats/Unlock Movie Mr Grim Epilogue
 patch=1,EE,10425F5C,extended,00000000
 
-[Cheats/Unlock Movie Mr Grim Middle] 
+//Cheats/Unlock Movie Mr Grim Middle
 patch=1,EE,10425F24,extended,00000000
 
-[Cheats/Unlock Movie Mr Kane & Son Epilogue]  
+//Cheats/Unlock Movie Mr Kane & Son Epilogue
 patch=1,EE,10425F74,extended,00000000
 
-[Cheats/Unlock Movie Mr Kane & Son Prologue] 
+//Cheats/Unlock Movie Mr Kane & Son Prologue
 patch=1,EE,10425F04,extended,00000000
 
-[Cheats/Unlock Movie No Face Epilogue]  
+//Cheats/Unlock Movie No Face Epilogue
 patch=1,EE,10425F64,extended,00000000
 
-[Cheats/Unlock Movie No Face Middle]  
+//Cheats/Unlock Movie No Face Middle
 patch=1,EE,10425F2C,extended,00000000
 
-[Cheats/Unlock Movie Preacher Epilogue]  
+//Cheats/Unlock Movie Preacher Epilogue
 patch=1,EE,10425F54,extended,00000000
 
-[Cheats/Unlock Movie Preacher Middle]  
+//Cheats/Unlock Movie Preacher Middle
 patch=1,EE,10425F1C,extended,00000000
 
-[Cheats/Unlock Movie Raven Epilogue] 
+//Cheats/Unlock Movie Raven Epilogue
 patch=1,EE,10425F70,extended,00000000
 
-[Cheats/Unlock Movie Raven Middle]  
+//Cheats/Unlock Movie Raven Middle
 patch=1,EE,10425F38,extended,00000000
 
-[Cheats/Unlock Movie Sweet Tooth Epilogue]  
+//Cheats/Unlock Movie Sweet Tooth Epilogue
 patch=1,EE,10425F84,extended,00000000
 
-[Cheats/Unlock Movie SweetTooth Middle] 
+//Cheats/Unlock Movie SweetTooth Middle
 patch=1,EE,10425F4C,extended,00000000

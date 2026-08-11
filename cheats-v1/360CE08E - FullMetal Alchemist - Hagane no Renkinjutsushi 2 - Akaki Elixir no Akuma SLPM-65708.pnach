@@ -1,21 +1,21 @@
-[Cheats/Max SP Gauge] 
+//Cheats/Max SP Gauge
 patch=1,EE,201A6BD8,extended,24020001
 
-[Cheats/Edward Infinite and Max HP] 
+//Cheats/Edward Infinite and Max HP
 patch=1,EE,102C8028,extended,0000270F
 patch=1,EE,102C802A,extended,0000270F
 
-[Cheats/Alphonse Infinite and Max HP] 
+//Cheats/Alphonse Infinite and Max HP
 patch=1,EE,102C804C,extended,0000270F
 patch=1,EE,102C804E,extended,0000270F
 
-[Cheats/Infinite Items]
+//Cheats/Infinite Items
 patch=1,EE,201A68FC,extended,00408823
 
-[Cheats/Recovery Potion Small 9999] 
+//Cheats/Recovery Potion Small 9999
 patch=1,EE,201A55F0,extended,26D5270F
 
-[Cheats/99 All Items] 
+//Cheats/99 All Items
 patch=1,EE,002C8069,extended,00000063
 patch=1,EE,102C806A,extended,00006363
 patch=1,EE,102C806C,extended,00006363
@@ -24,6 +24,6 @@ patch=1,EE,202C8074,extended,63636300
 patch=1,EE,002C8078,extended,00000063
 patch=1,EE,202C8084,extended,00636300
 
-[Cheats/99 All Accessories] 
+//Cheats/99 All Accessories
 patch=1,EE,402C80A8,extended,00100001
 patch=1,EE,63636363,extended,00000000

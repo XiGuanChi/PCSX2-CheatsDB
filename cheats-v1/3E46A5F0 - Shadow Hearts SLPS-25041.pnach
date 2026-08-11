@@ -1,63 +1,63 @@
-[Cheats/Max Cash 9999999]  
+//Cheats/Max Cash 9999999
 patch=1,EE,20100008,extended,0098967F
 
-[Cheats/Yuri Max HP] 
+//Cheats/Yuri Max HP
 patch=1,EE,101002A0,extended,000003E7
 
-[Cheats/Yuri Max MP] 
+//Cheats/Yuri Max MP
 patch=1,EE,101002A2,extended,000003E7
 
-[Cheats/Yuri Max SP] 
+//Cheats/Yuri Max SP
 patch=1,EE,101002A4,extended,000003E7
 
-[Cheats/Alice Max HP] 
+//Cheats/Alice Max HP
 patch=1,EE,101002A0,extended,000003E7
 
-[Cheats/Alice Max MP] 
+//Cheats/Alice Max MP
 patch=1,EE,101002A2,extended,000003E7
 
-[Cheats/Alice Max SP] 
+//Cheats/Alice Max SP
 patch=1,EE,101002A4,extended,000003E7
 
-[Cheats/Required must be on] 
+//Cheats/Required must be on
 patch=1,EE,20298564,extended,00000000
 
-[Cheats/Bar rotation slows down] 
+//Cheats/Bar rotation slows down
 patch=1,EE,202985C0,extended,00000000
 patch=1,EE,20298584,extended,3C073E00
 
-[Cheats/Double hit area] 
+//Cheats/Double hit area
 patch=1,EE,20298574,extended,3C074000
 patch=1,EE,202985B4,extended,00000000
 
-[Cheats/Get 99 pieces] 
+//Cheats/Get 99 pieces
 patch=1,EE,20299BC8,extended,00000000
 patch=1,EE,20299C00,extended,00000000
 patch=1,EE,20299C38,extended,00000000
 patch=1,EE,20299C70,extended,00000000
 patch=1,EE,20333D44,extended,00000000
 
-[Cheats/Required code] 
+//Cheats/Required code
 patch=1,EE,20295DA8,extended,00000000
 
-[Cheats/After the battle HP recovery] 
+//Cheats/After the battle HP recovery
 patch=1,EE,20295DAC,extended,9462001A
 patch=1,EE,20295DB0,extended,A4620000
 
-[Cheats/After the battle MP recovery] 
+//Cheats/After the battle MP recovery
 patch=1,EE,20295DB4,extended,9462001C
 patch=1,EE,20295DB8,extended,A4620002
 
-[Cheats/Max All Types of Maris each LV3 70-70]  
+//Cheats/Max All Types of Maris each LV3 70-70
 patch=1,EE,20100034,extended,03E703E7
 patch=1,EE,20100038,extended,03E703E7
 patch=1,EE,2010003C,extended,03E703E7
 
-[Cheats/Max All Fusion Levels 3] 
+//Cheats/Max All Fusion Levels 3
 patch=1,EE,20100044,extended,03030303
 patch=1,EE,10100048,extended,00000303
 
-[Cheats/Have 1 Of All Weapons The slingshot will be lost as it will be given to you]
+//Cheats/Have 1 Of All Weapons The slingshot will be lost as it will be given to you
 patch=1,EE,20100080,extended,01010100
 patch=1,EE,20100084,extended,01010101
 patch=1,EE,20100088,extended,01010101
@@ -72,7 +72,7 @@ patch=1,EE,201000A8,extended,01010001
 patch=1,EE,201000AC,extended,01010101
 patch=1,EE,001000B0,extended,00000001
 
-[Cheats/Possession Of Max Number Of All Armors] 
+//Cheats/Possession Of Max Number Of All Armors
 patch=1,EE,101000B2,extended,00006363
 patch=1,EE,201000B4,extended,63636363
 patch=1,EE,201000B8,extended,63636363
@@ -81,7 +81,7 @@ patch=1,EE,201000C0,extended,01010101
 patch=1,EE,201000C4,extended,01010101
 patch=1,EE,101000C8,extended,00000101
 
-[Cheats/Possession Of Max Number Of All Accessories] 
+//Cheats/Possession Of Max Number Of All Accessories
 patch=1,EE,101000CE,extended,00006363
 patch=1,EE,201000D0,extended,63636363
 patch=1,EE,201000D4,extended,63630101

@@ -1,52 +1,52 @@
-[Cheats/Player On Top Of Score Board Always On 0 Points Press L2 to activate] 
+//Cheats/Player On Top Of Score Board Always On 0 Points Press L2 to activate
 patch=1,EE,E00200FF,extended,014635C2
 patch=1,EE,10576454,extended,00000000
 patch=1,EE,1057646A,extended,00000000
 
-[Cheats/Player On Top Of Score Board Always On 0 Points] 
+//Cheats/Player On Top Of Score Board Always On 0 Points
 patch=1,EE,D05750F4,extended,00000000
 patch=1,EE,10576454,extended,00000000
 
-[Cheats/Player On Top Of Score Board Always On 40 Points] 
+//Cheats/Player On Top Of Score Board Always On 40 Points
 patch=1,EE,D05750F4,extended,00000000
 patch=1,EE,10576454,extended,00000003
 
-[Cheats/Player On Top Of Score Board Always On 40 Points Press L1 to activate] 
+//Cheats/Player On Top Of Score Board Always On 40 Points Press L1 to activate
 patch=1,EE,D05750F4,extended,00000000
 patch=1,EE,10576454,extended,00000003
 patch=1,EE,1057646A,extended,00000003
 
-[Cheats/Player On Top Of Score Board Always 0 Sets Press L2 to activate] 
+//Cheats/Player On Top Of Score Board Always 0 Sets Press L2 to activate
 patch=1,EE,D04635C2,extended,0000FEFF
 patch=1,EE,10576440,extended,00000000
 
-[Cheats/Player On Top Of Score Board Always 6 Games Press L1 to activate] 
+//Cheats/Player On Top Of Score Board Always 6 Games Press L1 to activate
 patch=1,EE,D04635C2,extended,0000FBFF
 patch=1,EE,10576440,extended,00000006
 
-[Cheats/Player On Bottom Of Score Board Always On 0 Points] 
+//Cheats/Player On Bottom Of Score Board Always On 0 Points
 patch=1,EE,D05750F4,extended,00000000
 patch=1,EE,10576456,extended,00000000
 
-[Cheats/Player On Bottom Of Score Board Always On 0 Points Press R2 to activate] 
+//Cheats/Player On Bottom Of Score Board Always On 0 Points Press R2 to activate
 patch=1,EE,E00200FF,extended,014635C2
 patch=1,EE,10576456,extended,00000000
 patch=1,EE,1057646C,extended,00000000
 
-[Cheats/Player On Bottom Of Score Board Always On 40 Points] 
+//Cheats/Player On Bottom Of Score Board Always On 40 Points
 patch=1,EE,D05750F4,extended,00000000
 patch=1,EE,10576456,extended,00000003
 
 
-[Cheats/Player On Bottom Of Score Board Always On 40 Points Press R1 to activate] 
+//Cheats/Player On Bottom Of Score Board Always On 40 Points Press R1 to activate
 patch=1,EE,E00200FF,extended,014635C2
 patch=1,EE,10576456,extended,00000003
 patch=1,EE,1057646C,extended,00000003
 
-[Cheats/Player On Bottom Of Score Board Always 0 Sets Press R2 to activate] 
+//Cheats/Player On Bottom Of Score Board Always 0 Sets Press R2 to activate
 patch=1,EE,D04635C2,extended,0000FDFF
 patch=1,EE,1057644A,extended,00000000
 
-[Cheats/Player On Bottom Of Score Board Always 6 Games Press R1 to activate] 
+//Cheats/Player On Bottom Of Score Board Always 6 Games Press R1 to activate
 patch=1,EE,D04635C2,extended,0000F7FF
 patch=1,EE,1057644A,extended,00000006

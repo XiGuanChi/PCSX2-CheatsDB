@@ -1,15 +1,15 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20157F78,extended,C64103B0
 patch=1,EE,20157F80,extended,E64103AC
 
-[Cheats/Infinite Health ALT] 
+//Cheats/Infinite Health ALT
 patch=1,EE,0015c9c8,extended,46006306
 patch=1,EE,0015cce4,extended,46006306
 
-[Cheats/Max Infinite Ammo] 
+//Cheats/Max Infinite Ammo
 patch=1,EE,2013CBB4,extended,24020063
 
-[Cheats/Infinite Items] 
+//Cheats/Infinite Items
 patch=1,EE,D0533F02,extended,0000FFFD
 patch=1,EE,2013BD98,extended,00000000
 patch=1,EE,D0533F02,extended,0000FFFB

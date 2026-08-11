@@ -1,11 +1,11 @@
-[Cheats/Unlock Omake Menu] 
+//Cheats/Unlock Omake Menu
 patch=1,EE,101F7632,extended,00000004
 
-[Cheats/Unlock All CG] 
+//Cheats/Unlock All CG
 patch=1,EE,401F75E4,extended,00130001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Press L3 For Texture Viewer, R3 To Disable] 
+//Cheats/Press L3 For Texture Viewer, R3 To Disable
 patch=1,EE,20152004,extended,0C052A28
 patch=1,EE,0014A8E0,extended,00000024
 patch=1,EE,D0360F12,extended,0000FFFD

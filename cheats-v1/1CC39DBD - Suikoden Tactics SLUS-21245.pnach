@@ -1,28 +1,28 @@
-[Cheats/Infinite gold] 
+//Cheats/Infinite gold
 patch=1,EE,206794f8,extended,0098967
 
-[Cheats/Infinite skill points] 
+//Cheats/Infinite skill points
 patch=1,EE,206794f0,extended,0098967f
 
-[Cheats/Infinite Health In Battle] 
+//Cheats/Infinite Health In Battle
 patch=1,EE,200C2000,extended,240203E7
 patch=1,EE,200C2004,extended,A4620008
 patch=1,EE,200C2008,extended,A462000A
 patch=1,EE,200C200C,extended,A462001E
 
-[Cheats/Max Stats All Characters] 
+//Cheats/Max Stats All Characters
 patch=1,EE,202EA3C8,extended,00000000
 
-[Cheats/Infinite HP All Characters] 
+//Cheats/Infinite HP All Characters
 patch=1,EE,202EA5B4,extended,8462001C
 patch=1,EE,202EA5B8,extended,A462000
 
-[Cheats/Infinite Magic Usage All Characters] 
+//Cheats/Infinite Magic Usage All Characters
 patch=1,EE,202EA818,extended,00000000
 
-[Cheats/Quick Death Enemies] 
+//Cheats/Quick Death Enemies
 patch=1,EE,202EC338,extended,24020000
 patch=1,EE,202EC33C,extended,A4620006
 
-[Cheats/Instant Battle Victory] 
+//Cheats/Instant Battle Victory
 patch=1,EE,202EC384,extended,24120000

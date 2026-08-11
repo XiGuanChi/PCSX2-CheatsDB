@@ -1,30 +1,30 @@
-[Cheats/Max Money After Battle] 
+//Cheats/Max Money After Battle
 patch=1,EE,20226638,extended,10000010
 
-[Cheats/Max Virtue Acquisition After Battle] 
+//Cheats/Max Virtue Acquisition After Battle
 patch=1,EE,202266C4,extended,1000000F
 patch=1,EE,20226704,extended,3C0205F5
 patch=1,EE,20226708,extended,3443E0FF
 
-[Cheats/No Random BattleS Press SELECT+L1 Off SELECT + L2] 
+//Cheats/No Random BattleS Press SELECT+L1 Off SELECT + L2
 patch=1,EE,D0442202,extended,0000FEFE
 patch=1,EE,20177BA8,extended,14C30006
 patch=1,EE,D0442202,extended,0000FBFE
 patch=1,EE,20177BA8,extended,100000AD
 
-[Cheats/Attack Power In Battle 9999] 
+//Cheats/Attack Power In Battle 9999
 patch=1,EE,20283B4C,extended,10000010
 patch=1,EE,20283B90,extended,3414270F
 
-[Cheats/Defense Power In Battle 9999] 
+//Cheats/Defense Power In Battle 9999
 patch=1,EE,20283C34,extended,10000013
 patch=1,EE,20283C84,extended,3414270F
 
-[Cheats/Rapidness In Battle 9999]  
+//Cheats/Rapidness In Battle 9999
 patch=1,EE,20283D28,extended,10000011
 patch=1,EE,20283D70,extended,3414270F
 
-[Cheats/Max Stats All Sengoku]   
+//Cheats/Max Stats All Sengoku
 patch=1,EE,10517116,extended,00000063
 patch=1,EE,20517118,extended,03E703E7
 patch=1,EE,2051711C,extended,03E703E7
@@ -39,7 +39,7 @@ patch=1,EE,1051716E,extended,00000201
 patch=1,EE,20517170,extended,04030605
 patch=1,EE,10517174,extended,00000807
 
-[Cheats/Unlock All Theater Mode Once saved in the game it will be reflected.] 
+//Cheats/Unlock All Theater Mode Once saved in the game it will be reflected.
 patch=1,EE,005356B5,extended,000000FF
 patch=1,EE,105356B6,extended,0000FFFF
 patch=1,EE,205356B8,extended,FFFFFFFF

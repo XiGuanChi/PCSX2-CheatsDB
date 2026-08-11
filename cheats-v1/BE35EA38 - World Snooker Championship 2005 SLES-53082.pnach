@@ -1,8 +1,8 @@
-[Cheats/Opponent Concede Frame Press L1+L2+R1+R2 When You Have The Hand To Activate] 
+//Cheats/Opponent Concede Frame Press L1+L2+R1+R2 When You Have The Hand To Activate
 patch=1,EE,D067C782,extended,0000F0FF
 patch=1,EE,205C1114,extended,0000001D
 
-[Cheats/The Tour' Cheating Page Control AI win] 
+//Cheats/The Tour' Cheating Page Control AI win
 patch=1,EE,200FFEFC,extended,8E8502DC
 patch=1,EE,200FFF00,extended,24010068
 patch=1,EE,200FFF04,extended,14250004
@@ -13,7 +13,7 @@ patch=1,EE,20107950,extended,8E8502DC
 patch=1,EE,D0506800,extended,0000019B
 patch=1,EE,20107950,extended,0803FFBF
 
-[Cheats/The Tour' Cheating Page Control Player win] 
+//Cheats/The Tour' Cheating Page Control Player win
 patch=1,EE,200FFEFC,extended,8E8502DC
 patch=1,EE,200FFF00,extended,24010030
 patch=1,EE,200FFF04,extended,14250004
@@ -24,10 +24,10 @@ patch=1,EE,20107950,extended,8E8502DC
 patch=1,EE,D0506800,extended,0000019B
 patch=1,EE,20107950,extended,0803FFBF
 
-[Cheats/Unlock Old School Mode] 
+//Cheats/Unlock Old School Mode
 patch=1,EE,20609124,extended,00000001
 
-[Cheats/Unlock All Unlockables]  
+//Cheats/Unlock All Unlockables
 patch=1,EE,20609108,extended,00000001
 
 

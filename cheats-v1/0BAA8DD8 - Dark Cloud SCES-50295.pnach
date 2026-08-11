@@ -1,70 +1,70 @@
-[Cheats/Infinite Cash] 
+//Cheats/Infinite Cash
 patch=1,EE,11CF0192,extended,0000270F
 
-[Cheats/Infinite HP - All Characters] 
+//Cheats/Infinite HP - All Characters
 patch=1,EE,201BFE4C,extended,00000000
 patch=1,EE,201BF84C,extended,00000000
 
-[Cheats/Weapons Do Not Take Damage] 
+//Cheats/Weapons Do Not Take Damage
 patch=1,EE,201B6F8C,extended,00000000
 
-[Cheats/Infinite Fishing Points] 
+//Cheats/Infinite Fishing Points
 patch=1,EE,11CE6C1C,extended,0000270F
 
-[Cheats/Infinite Health Toan] 
+//Cheats/Infinite Health Toan
 patch=1,EE,11CEBE52,extended,000000FF
 patch=1,EE,11CEBE5E,extended,000000FF
 
-[Cheats/Infinite Health Xion] 
+//Cheats/Infinite Health Xion
 patch=1,EE,11CEBE54,extended,000000FF
 patch=1,EE,11CEBE60,extended,000000FF
 
-[Cheats/Infinite Health Goro] 
+//Cheats/Infinite Health Goro
 patch=1,EE,11CEBE56,extended,000000FF
 patch=1,EE,11CEBE62,extended,000000FF
 
-[Cheats/Infinite Health Ruby] 
+//Cheats/Infinite Health Ruby
 patch=1,EE,11CEBE58,extended,000000FF
 patch=1,EE,11CEBE64,extended,000000FF
 
-[Cheats/Infinite Health Ungaga] 
+//Cheats/Infinite Health Ungaga
 patch=1,EE,11CEBE5A,extended,000000FF
 patch=1,EE,11CEBE66,extended,000000FF
 
-[Cheats/Infinite Health Osmond] 
+//Cheats/Infinite Health Osmond
 patch=1,EE,11CEBE5C,extended,000000FF
 patch=1,EE,11CEBE68,extended,000000FF
 
-[Cheats/Never Thirsty Toan] 
+//Cheats/Never Thirsty Toan
 patch=1,EE,11CF0152,extended,000041F0
 
-[Cheats/Never Thirsty Xion] 
+//Cheats/Never Thirsty Xion
 patch=1,EE,11CF0156,extended,000041F0
 
-[Cheats/Never Thirsty Goro] 
+//Cheats/Never Thirsty Goro
 patch=1,EE,11CF015A,extended,000041F0
 
-[Cheats/Never Thirsty Ruby] 
+//Cheats/Never Thirsty Ruby
 patch=1,EE,11CF015E,extended,000041F0
 
-[Cheats/Never Thirsty Ungaga] 
+//Cheats/Never Thirsty Ungaga
 patch=1,EE,11CF0162,extended,000041F0
 
-[Cheats/Never Thirsty Osmond] 
+//Cheats/Never Thirsty Osmond
 patch=1,EE,11CF0166,extended,000041F0
 
-[Cheats/Weapons Do Not Take Damage] 
+//Cheats/Weapons Do Not Take Damage
 patch=1,EE,201B6F8C,word,00000000
 
-[Cheats/1 Fight For Weapon Level Up] 
+//Cheats/1 Fight For Weapon Level Up
 patch=1,EE,201E05E4,word,00000000
 
-[Cheats/Level Up Weapon For Max Stats] 
+//Cheats/Level Up Weapon For Max Stats
 patch=1,EE,2023864C,word,240300FF
 patch=1,EE,2023867C,word,240300FF
 patch=1,EE,202386AC,word,240300FF
 patch=1,EE,202386DC,word,240300FF
 
-[Cheats/Run-time debug menu This enables you to view events, jump to any map, enter dungeons, change the language of the game, or simply start the game normally] 
+//Cheats/Run-time debug menu This enables you to view events, jump to any map, enter dungeons, change the language of the game, or simply start the game normally
 patch=1,EE,0014198C,extended,00000007
 patch=1,EE,20141208,extended,10000005

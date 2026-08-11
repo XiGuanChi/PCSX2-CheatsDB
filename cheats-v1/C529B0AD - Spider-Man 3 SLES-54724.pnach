@@ -1,4 +1,4 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200FFF20,extended,AC890018
 patch=1,EE,200FFF24,extended,C4810018
 patch=1,EE,200FFF28,extended,0807539B
@@ -6,10 +6,10 @@ patch=1,EE,200FFF2C,extended,46011042
 patch=1,EE,201D4E64,extended,0803FFC8
 patch=1,EE,201D4E68,extended,3C093F80
 
-[Cheats/Full Adrenaline After A Hit] 
+//Cheats/Full Adrenaline After A Hit
 patch=1,EE,20175510,extended,C6000010
 patch=1,EE,2017551C,extended,46000506
 patch=1,EE,202E10C4,extended,00000000
 
-[Cheats/Infinite Heroes Points] 
+//Cheats/Infinite Heroes Points
 patch=1,EE,2115d9a0,extended,42c80000

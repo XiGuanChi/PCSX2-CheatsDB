@@ -1,35 +1,35 @@
-[Cheats/Max Ryo]  
+//Cheats/Max Ryo
 patch=1,EE,200C0260,extended,3C0505F5
 patch=1,EE,200C0264,extended,34A5E0FF
 patch=1,EE,200C0268,extended,03E00008
 patch=1,EE,200C026C,extended,AC4501B8
 patch=1,EE,202C3D88,extended,0C030098
 
-[Cheats/Max Money 999999]  
+//Cheats/Max Money 999999
 patch=1,EE,203D977C,extended,000F423F
 
-[Cheats/Infinite Health P1]  
+//Cheats/Infinite Health P1
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,08062384
 patch=1,EE,200C0228,extended,AC810058
 patch=1,EE,2023F734,extended,0C030088
 patch=1,EE,2023F764,extended,0C030088
 
-[Cheats/Infinite Special P1] 
+//Cheats/Infinite Special P1
 patch=1,EE,200C0240,extended,3C014180
 patch=1,EE,200C0244,extended,AE41005C
 patch=1,EE,200C0248,extended,03E00008
 patch=1,EE,200C024C,extended,8E03026C
 patch=1,EE,2023F8B8,extended,0C030090
 
-[Cheats/No Health P2]  
+//Cheats/No Health P2
 patch=1,EE,200C0230,extended,24010000
 patch=1,EE,200C0234,extended,08062384
 patch=1,EE,200C0238,extended,AC810058
 patch=1,EE,2023F748,extended,0C03008C
 patch=1,EE,2023F778,extended,0C03008C
 
-[Cheats/Infinite Health All Characters] 
+//Cheats/Infinite Health All Characters
 patch=1,EE,103CFBA0,extended,000003E7
 patch=1,EE,103CFBE4,extended,000003E7
 patch=1,EE,103CFC28,extended,000003E7
@@ -42,7 +42,7 @@ patch=1,EE,103CFDC0,extended,000003E7
 patch=1,EE,103CFE04,extended,000003E7
 patch=1,EE,103CFE48,extended,000003E7
 
-[Cheats/Infinite Chakra All Characters] 
+//Cheats/Infinite Chakra All Characters
 patch=1,EE,103CFBB6,extended,000003E7
 patch=1,EE,103CFBFA,extended,000003E7
 patch=1,EE,103CFC3E,extended,000003E7
@@ -55,16 +55,16 @@ patch=1,EE,103CFDD6,extended,000003E7
 patch=1,EE,103CFE1A,extended,000003E7
 patch=1,EE,103CFE5E,extended,000003E7
 
-[Cheats/999 Combo] 
+//Cheats/999 Combo
 patch=1,EE,103A45BC,extended,000003E6
 
-[Cheats/All Items 99]  
+//Cheats/All Items 99
 patch=1,EE,003D9B9D,extended,00000063
 patch=1,EE,103D9B9E,extended,00006363
 patch=1,EE,403D9BA0,extended,00040001
 patch=1,EE,63636363,extended,00000000
 
-[Cheats/9999999 Virtue Orbs For Everyone] 
+//Cheats/9999999 Virtue Orbs For Everyone
 patch=1,EE,203D97BC,extended,0098967F
 patch=1,EE,203D9800,extended,0098967F
 patch=1,EE,203D9844,extended,0098967F
@@ -77,42 +77,42 @@ patch=1,EE,203D99DC,extended,0098967F
 patch=1,EE,203D9A20,extended,0098967F
 patch=1,EE,203D9A64,extended,0098967F
 
-[Cheats/Press L3 To Skip Levels] 
+//Cheats/Press L3 To Skip Levels
 patch=1,EE,D08B6242,extended,0000FFFD
 patch=1,EE,201073A0,extended,24020001
 
-[Cheats/Unlock All Characters VS. Duel Mode]  
+//Cheats/Unlock All Characters VS. Duel Mode
 patch=1,EE,20239E3C,extended,24020003
 
-[Cheats/Unlock All Characters Mission Mode]  
+//Cheats/Unlock All Characters Mission Mode
 patch=1,EE,20239F0C,extended,24020003
 
-[Cheats/Have All Max Purchased Attack Items] 
+//Cheats/Have All Max Purchased Attack Items
 patch=1,EE,2023C580,extended,24020063
 
-[Cheats/Naruto's House Have Figures]  
+//Cheats/Naruto's House Have Figures
 patch=1,EE,202389C8,extended,2402FFFF
 
-[Cheats/Naruto's House Have Musics]  
+//Cheats/Naruto's House Have Musics
 patch=1,EE,20238A18,extended,2402FFFF
 
-[Cheats/Naruto's House Have Voices]  
+//Cheats/Naruto's House Have Voices
 patch=1,EE,20238A68,extended,2402FFFF
 
-[Cheats/Naruto's House Have Sinobi Ninja Info Card]  
+//Cheats/Naruto's House Have Sinobi Ninja Info Card
 patch=1,EE,20238B58,extended,2402FFFF
 
-[Cheats/Naruto's House Have Jutsu Ninja Info Card]  
+//Cheats/Naruto's House Have Jutsu Ninja Info Card
 patch=1,EE,20238B08,extended,2402FFFF
 
-[Cheats/Naruto's House Have Tactics Ninja Info Card]  
+//Cheats/Naruto's House Have Tactics Ninja Info Card
 patch=1,EE,20238BA8,extended,2402FFFF
 
-[Cheats/Naruto's House Have Client Ninja Info Card]  
+//Cheats/Naruto's House Have Client Ninja Info Card
 patch=1,EE,20238AB8,extended,2402FFFF
 
-[Cheats/Naruto's House Have Secret Techniques]  
+//Cheats/Naruto's House Have Secret Techniques
 patch=1,EE,20238BF8,extended,2402FFFF
 
-[Cheats/Naruto's House Have Certificates] 
+//Cheats/Naruto's House Have Certificates
 patch=1,EE,2027C0DC,extended,2402FFFF

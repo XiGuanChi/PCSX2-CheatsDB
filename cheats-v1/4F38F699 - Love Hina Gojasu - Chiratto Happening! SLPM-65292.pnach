@@ -1,41 +1,41 @@
-[Cheats/Have 9999 Hearts] 
+//Cheats/Have 9999 Hearts
 patch=1,EE,20204CD0,extended,0000270F
 
-[Cheats/Max Motivation] 
+//Cheats/Max Motivation
 patch=1,EE,20184920,extended,00000000
 
-[Cheats/Max Concentration] 
+//Cheats/Max Concentration
 patch=1,EE,20184930,extended,1000000D
 
-[Cheats/Max Correct Answer] 
+//Cheats/Max Correct Answer
 patch=1,EE,201887A8,extended,30440000
 
-[Cheats/Max Level All Subjects]   
+//Cheats/Max Level All Subjects
 patch=1,EE,2018F5B0,extended,10000003
 patch=1,EE,2018F5C4,extended,AEB10018
 
-[Cheats/Max Reference All Subjects]  
+//Cheats/Max Reference All Subjects
 patch=1,EE,2018F6C8,extended,340303E7
 patch=1,EE,2018F6F4,extended,AEA3001C
 
-[Cheats/Max Present Condition All Subjects]  
+//Cheats/Max Present Condition All Subjects
 patch=1,EE,2018F7E0,extended,34040063
 patch=1,EE,2018F844,extended,AE440000
 
-[Cheats/Max True Density All Subjects]  
+//Cheats/Max True Density All Subjects
 patch=1,EE,201908B0,extended,340103E7
 patch=1,EE,201908B8,extended,A44100D4
 
-[Cheats/Infinite Time Limit shared for Gachagacha and Grigri actions Press L2 or R2 during an action to expire the time. For actions that require the left and right gauges to continue within the OK area use the gamepad to expire the time immediately and clear the action] 
+//Cheats/Infinite Time Limit shared for Gachagacha and Grigri actions Press L2 or R2 during an action to expire the time. For actions that require the left and right gauges to continue within the OK area use the gamepad to expire the time immediately and clear the action
 patch=1,EE,2017B8C0,extended,3C01001D
 patch=1,EE,2017B8C8,extended,94211502
 patch=1,EE,2017B8CC,extended,30210300
 patch=1,EE,2017B8D8,extended,0001180B
 
-[Cheats/Unlock All Memories Need A Save Data]  
+//Cheats/Unlock All Memories Need A Save Data
 patch=1,EE,2019B7D0,extended,00801821
 
-[Cheats/Unlock All Happens Need A Save Data]  
+//Cheats/Unlock All Happens Need A Save Data
 patch=1,EE,2019B810,extended,00801821
 
 

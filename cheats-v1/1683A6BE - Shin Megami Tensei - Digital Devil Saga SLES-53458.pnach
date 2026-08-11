@@ -1,29 +1,29 @@
-[Cheats/Max Money when Buy orSell] 
+//Cheats/Max Money when Buy orSell
 patch=1,EE,20119978,extended,ACC5003C
 
-[Cheats/In Battle Infinite MP and HP Player] 
+//Cheats/In Battle Infinite MP and HP Player
 patch=1,EE,201BC548,extended,2406270F
 patch=1,EE,201BC558,extended,A6660126
 patch=1,EE,201BC58C,extended,2406270F
 patch=1,EE,201BC59C,extended,A666012A
 
-[Cheats/Never Abnormal Statise] 
+//Cheats/Never Abnormal Statise
 patch=1,EE,201BC270,extended,A660012E
 patch=1,EE,201BC27C,extended,30047FFF
 
-[Cheats/1 Hit Kills Monsters HP 1 MP 0] 
+//Cheats/1 Hit Kills Monsters HP 1 MP 0
 patch=1,EE,201A1B78,extended,24030001
 patch=1,EE,201A1B80,extended,24040001
 patch=1,EE,201A1B88,extended,24030000
 patch=1,EE,201A1B90,extended,24040000
 
-[Cheats/Random Battles Press L2+Select=ON L1+Select=Off] 
+//Cheats/Random Battles Press L2+Select=ON L1+Select=Off
 patch=1,EE,D03F9902,extended,0000FBFE
 patch=1,EE,2011CD20,extended,00000000
 patch=1,EE,D03F9902,extended,0000FEFE
 patch=1,EE,2011CD20,extended,A4831364
 
-[Cheats/Analyzing Always Successful] 
+//Cheats/Analyzing Always Successful
 patch=1,EE,201AE864,extended,00000000
 patch=1,EE,201AEA04,extended,00000000
 patch=1,EE,201AEACC,extended,00000000
@@ -32,26 +32,26 @@ patch=1,EE,201AECF4,extended,00000000
 patch=1,EE,201AEA38,extended,10000003
 patch=1,EE,201AEB00,extended,10000003
 
-[Cheats/Death In Battle does not Game over] 
+//Cheats/Death In Battle does not Game over
 patch=1,EE,201C6BC0,extended,0C071AEA
 
-[Cheats/Party Leader Infinite HP and Mp Out of Battle] 
+//Cheats/Party Leader Infinite HP and Mp Out of Battle
 patch=1,EE,1111FF66,extended,000003E7
 patch=1,EE,1111FF6A,extended,000003E7
 
-[Cheats/Support 1 Infinite HP and Mp Out of Battle]  
+//Cheats/Support 1 Infinite HP and Mp Out of Battle
 patch=1,EE,1112010A,extended,000003E7
 patch=1,EE,1112010E,extended,000003E7
 
-[Cheats/Support 1 Max HP and Mp] 
+//Cheats/Support 1 Max HP and Mp
 patch=1,EE,1112010C,extended,000003E7
 patch=1,EE,11120110,extended,000003E7
 
-[Cheats/Max All Stats] 
+//Cheats/Max All Stats
 patch=1,EE,1111FF76,extended,00006363
 patch=1,EE,2111FF78,extended,00636363
 
-[Cheats/All Skills in Set] 
+//Cheats/All Skills in Set
 patch=1,EE,4111FFB8,extended,004C0001
 patch=1,EE,FFFFFFFF,extended,00000000
 

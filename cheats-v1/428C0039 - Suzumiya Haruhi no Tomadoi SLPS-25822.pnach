@@ -1,15 +1,15 @@
-[Cheats/Have 9999 Preparedness points] 
+//Cheats/Have 9999 Preparedness points
 patch=1,EE,2068221C,extended,0000270F
 
-[Cheats/Motivation 99999] 
+//Cheats/Motivation 99999
 patch=1,EE,20682218,extended,0001869F
 
-[Cheats/Unlock All Gallery]  
+//Cheats/Unlock All Gallery
 patch=1,EE,00681C90,extended,00000003
 patch=1,EE,40681C68,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,E0150000,extended,0068AD2C
 patch=1,EE,1068AD3C,extended,00000101
 patch=1,EE,0068AD3E,extended,00000001

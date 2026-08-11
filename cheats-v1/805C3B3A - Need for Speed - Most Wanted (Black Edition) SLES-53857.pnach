@@ -1,19 +1,19 @@
-[Cheats/Gain $100000 Per Race] 
+//Cheats/Gain $100000 Per Race
 patch=1,EE,202D7374,extended,3C030001
 patch=1,EE,202D7378,extended,346386A0
 
-[Cheats/Buying Cars Doesnt Decrease Cash] 
+//Cheats/Buying Cars Doesnt Decrease Cash
 patch=1,EE,2026DC64,extended,00000000
 
-[Cheats/Buying Cars Increases Cash] 
+//Cheats/Buying Cars Increases Cash
 patch=1,EE,2026DC54,extended,00651021
 
-[Cheats/Infinite NOS Usage] 
+//Cheats/Infinite NOS Usage
 patch=1,EE,2036F224,extended,00000000
 
-[Cheats/All Races Only Have 1 Racer] 
+//Cheats/All Races Only Have 1 Racer
 patch=1,EE,202D7948,extended,24020001
 patch=1,EE,202D794C,extended,AC821C30
 
-[Cheats/Access All Cars Not Saveable] 
+//Cheats/Access All Cars Not Saveable
 patch=1,EE,20574924,extended,00000001

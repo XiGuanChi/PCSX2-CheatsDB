@@ -1,55 +1,55 @@
-[Cheats/Infinite Zenie] 
+//Cheats/Infinite Zenie
 patch=1,EE,104DFAE8,extended,0000FFFF
 
-[Cheats/Max Zenie] 
+//Cheats/Max Zenie
 patch=1,EE,204DFAE8,extended,05F5E0FF
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,204B4BF8,extended,FFFFFFFF
 patch=1,EE,204B4BFC,extended,FFFFFFFF
 
-[Cheats/Tournament Infinite Health P1] 
+//Cheats/Tournament Infinite Health P1
 patch=1,EE,D047033C,extended,00000000
 patch=1,EE,20497B60,extended,453B8000
 patch=1,EE,D047033C,extended,00000001
 patch=1,EE,20499B80,extended,453B8000
 
-[Cheats/Tournament Max Level 7 KI Energy P1] 
+//Cheats/Tournament Max Level 7 KI Energy P1
 patch=1,EE,D047033C,extended,00000000
 patch=1,EE,20497B70,extended,45DAC000
 patch=1,EE,D047033C,extended,00000001
 patch=1,EE,20499B90,extended,45DAC0007
 
-[Cheats/Tournament No Health P2] 
+//Cheats/Tournament No Health P2
 patch=1,EE,D047033C,extended,00000000
 patch=1,EE,20499B80,extended,00000000
 patch=1,EE,D047033C,extended,00000001
 patch=1,EE,20497B60,extended,00000000
 
-[Cheats/Dragon Universe Quick Level Up] 
+//Cheats/Dragon Universe Quick Level Up
 patch=1,EE,208E7594,extended,05F5E0FF
 
-[Cheats/Dragon Universe Max Health] 
+//Cheats/Dragon Universe Max Health
 patch=1,EE,208E755C,extended,00000014
 
-[Cheats/Dragon Universe Max Ki] 
+//Cheats/Dragon Universe Max Ki
 patch=1,EE,208E7560,extended,00000014
 
-[Cheats/Press L1+L2 For Infinite Zenie] 
+//Cheats/Press L1+L2 For Infinite Zenie
 patch=1,EE,D0493782,extended,0000FAFF
 patch=1,EE,2058F718,extended,0001869F
 
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,20497B60,extended,46000000
 
-[Cheats/Infinite Ki P1] 
+//Cheats/Infinite Ki P1
 patch=1,EE,20497B70,extended,45D85800
 
-[Cheats/1-Hit Death P2] 
+//Cheats/1-Hit Death P2
 patch=1,EE,D0499B82,extended,0000453B
 patch=1,EE,20499B80,extended,3F800000
 
-[Cheats/Have All Ability Capsules] 
+//Cheats/Have All Ability Capsules
 patch=1,EE,104DFB1A,extended,00000909
 patch=1,EE,404DFB1C,extended,002E0001
 patch=1,EE,09090909,extended,00000000
@@ -60,20 +60,20 @@ patch=1,EE,404DFBE8,extended,00090001
 patch=1,EE,09090909,extended,00000000
 patch=1,EE,104DFC0C,extended,00000909
 
-[Cheats/Have All Equipment Capsules] 
+//Cheats/Have All Equipment Capsules
 patch=1,EE,104DFC32,extended,00000909
 patch=1,EE,404DFC34,extended,002B0001
 patch=1,EE,09090909,extended,00000000
 patch=1,EE,104DFCE0,extended,00000909
 
-[Cheats/Have All Item Capsules] 
+//Cheats/Have All Item Capsules
 patch=1,EE,004DFC0F,extended,00000009
 patch=1,EE,404DFC10,extended,00080001
 patch=1,EE,09090909,extended,00000000
 patch=1,EE,104DFC30,extended,00000909
 patch=1,EE,004DFD5B,extended,00000009
 
-[Cheats/Have All System Capsules] 
+//Cheats/Have All System Capsules
 patch=1,EE,104DFCE2,extended,00000101
 patch=1,EE,404DFCE4,extended,001E0001
 patch=1,EE,01010101,extended,00000000

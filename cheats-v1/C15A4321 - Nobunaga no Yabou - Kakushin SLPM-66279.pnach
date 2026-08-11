@@ -1,30 +1,30 @@
-[Cheats/Max Money After Change R3 TURNS ON L3 OFF Being to be an effect in all power, only when necessary please turn the code to ON] 
+//Cheats/Max Money After Change R3 TURNS ON L3 OFF Being to be an effect in all power, only when necessary please turn the code to ON
 patch=1,EE,D0709B58,extended,00000400
 patch=1,EE,202438EC,extended,34C20000
 patch=1,EE,D0709B58,extended,00000200
 patch=1,EE,202438EC,extended,0C053354
 
-[Cheats/New General Strategy Degree Of Skill Max 9999] 
+//Cheats/New General Strategy Degree Of Skill Max 9999
 patch=1,EE,21A2BE8C,extended,270F270F
 patch=1,EE,21A2BE90,extended,270F270F
 patch=1,EE,11A2BE94,extended,0000270F
 
-[Cheats/All proper S] 
+//Cheats/All proper S
 patch=1,EE,21A2BE98,extended,04040404
 patch=1,EE,21A2BE9C,extended,04040404
 patch=1,EE,01A2BEA0,extended,00000004
 
-[Cheats/Leadership 255] 
+//Cheats/Leadership 255
 patch=1,EE,01A2BEC2,extended,000000FF
 
-[Cheats/Bravery 255] 
+//Cheats/Bravery 255
 patch=1,EE,01A2BEC3,extended,000000FF
 
-[Cheats/Intellectual Abbreviation 255] 
+//Cheats/Intellectual Abbreviation 255
 patch=1,EE,01A2BEC4,extended,000000FF
 
-[Cheats/Politics 255] 
+//Cheats/Politics 255
 patch=1,EE,01A2BEC5,extended,000000FF
 
-[Cheats/Strategy Degree Of Skill Max 9999] 
+//Cheats/Strategy Degree Of Skill Max 9999
 patch=1,EE,2023480C,extended,2406270F

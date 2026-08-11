@@ -1,29 +1,29 @@
-[Cheats/Virus 0.00&] 
+//Cheats/Virus 0.00&
 patch=1,EE,2063BB94,extended,AE200BC4
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,205CAADC,extended,84820542
 patch=1,EE,205CAAE0,extended,A4820540
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,205865D8,extended,24820000
 
-[Cheats/No Infection] 
+//Cheats/No Infection
 patch=1,EE,205CAAF0,extended,A0800BB8
 
-[Cheats/1 hit Kill] 
+//Cheats/1 hit Kill
 patch=1,EE,20615A6C,extended,A6620138
 
-[Cheats/Enemy Won't Attack and No Damage] 
+//Cheats/Enemy Won't Attack and No Damage
 patch=1,EE,20634748,extended,00000000
 
-[Cheats/Unlock All Collection Use it One time then save and turn off] 
+//Cheats/Unlock All Collection Use it One time then save and turn off
 patch=1,EE,20549A10,extended,00431025
 
-[Cheats/Collection 99999 Use it One time then save and turn off] 
+//Cheats/Collection 99999 Use it One time then save and turn off
 patch=1,EE,20311D34,extended,3B9AC9FF
 
-[Cheats/All SP Items Use it One time then save and turn off] 
+//Cheats/All SP Items Use it One time then save and turn off
 patch=1,EE,205517F4,extended,0002082D
 patch=1,EE,20551800,extended,8C220000
 patch=1,EE,20551804,extended,00431025

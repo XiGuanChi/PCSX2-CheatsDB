@@ -1,10 +1,10 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,201A4BBC,extended,00000012
 
-[Cheats/Max Bolts] 
+//Cheats/Max Bolts
 patch=1,EE,201487F0,extended,0098967F
 
-[Cheats/1 Hit Kill All Planets] 
+//Cheats/1 Hit Kill All Planets
 patch=1,EE,200A0040,extended,3C19001A
 patch=1,EE,200A0044,extended,8F3973DC
 patch=1,EE,200A0048,extended,13200009
@@ -16,28 +16,28 @@ patch=1,EE,200A0068,extended,AF200000
 patch=1,EE,200A0070,extended,03E00008
 patch=1,EE,2012226C,extended,08028010
 
-[Cheats/Start A New Game To Unlock All Gadgets Saveable] 
+//Cheats/Start A New Game To Unlock All Gadgets Saveable
 patch=1,EE,2048402C,extended,A0620000
 
-[Cheats/Start A New Game To Unlock All Weapons Saveable] 
+//Cheats/Start A New Game To Unlock All Weapons Saveable
 patch=1,EE,20482A5C,extended,A0620000
 
-[Cheats/One Hit Kill Biobilterator] 
+//Cheats/One Hit Kill Biobilterator
 patch=1,EE,D046F7F6,extended,00004614
 patch=1,EE,2046F7F8,extended,AE800000
 
-[Cheats/Unlock All Misc Items] 
+//Cheats/Unlock All Misc Items
 patch=1,EE,001426A2,extended,00000065
 
-[Cheats/Unlock All Cinematics, Sketchbook and Credits] 
+//Cheats/Unlock All Cinematics, Sketchbook and Credits
 patch=1,EE,00142692,extended,00000001
 
-[Cheats/Have all Skill Points] 
+//Cheats/Have all Skill Points
 patch=1,EE,401D54B0,extended,00070001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,101D54CC,extended,00000101
 
-[Cheats/Unlock All Cinematics] 
+//Cheats/Unlock All Cinematics
 patch=1,EE,20142BA8,extended,FFFFFFFF
 patch=1,EE,20142BAC,extended,FFFFFFFF
 patch=1,EE,20142BB0,extended,FFFFFFFF
@@ -48,7 +48,7 @@ patch=1,EE,20142BC0,extended,FFFFFFFF
 patch=1,EE,20142BC4,extended,FFFFFFFF
 patch=1,EE,20142BC8,extended,FFFFFFFF
 
-[Cheats/Unlock All Cheats] 
+//Cheats/Unlock All Cheats
 patch=1,EE,001427A1,extended,00000001
 patch=1,EE,001D5472,extended,00000001
 patch=1,EE,001D5473,extended,00000001
@@ -58,7 +58,7 @@ patch=1,EE,001D5476,extended,00000001
 patch=1,EE,001D5477,extended,00000001
 patch=1,EE,001D5479,extended,00000001
 
-[Cheats/Unlock All Planets] 
+//Cheats/Unlock All Planets
 patch=1,EE,20143050,extended,00000001
 patch=1,EE,20143054,extended,00000002
 patch=1,EE,20143058,extended,00000003

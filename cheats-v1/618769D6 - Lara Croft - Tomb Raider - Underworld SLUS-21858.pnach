@@ -1,4 +1,4 @@
-[Cheats/Invincible]  
+//Cheats/Invincible
 patch=1,EE,200C0220,extended,3C01447A
 patch=1,EE,200C0224,extended,AC410638
 patch=1,EE,200C0228,extended,AC410650
@@ -7,36 +7,36 @@ patch=1,EE,200C0230,extended,C4400638
 patch=1,EE,20272D94,extended,0C030088
 patch=1,EE,10272932,extended,00001000
 
-[Cheats/One Shot Kill Enemy] 
+//Cheats/One Shot Kill Enemy
 patch=1,EE,201B5A50,extended,ACC00004
 
-[Cheats/Infinite Ammo With No Reload] 
+//Cheats/Infinite Ammo With No Reload
 patch=1,EE,20254DCC,extended,00000000
 
-[Cheats/Infinite Grenades] 
+//Cheats/Infinite Grenades
 patch=1,EE,2022CE5C,extended,00000000
 
-[Cheats/Max Infinite Grenades] 
+//Cheats/Max Infinite Grenades
 patch=1,EE,2022CE54,extended,2402000A
 
-[Cheats/Unlock Have All Max Treasures] 
+//Cheats/Unlock Have All Max Treasures
 patch=1,EE,2015BAB4,extended,240203E7
 patch=1,EE,2015BA5C,extended,240203E7
 
-[Cheats/Debug Menu God Mode] 
+//Cheats/Debug Menu God Mode
 patch=1,EE,205FF440,extended,00000001
 
-[Cheats/Debug Menu One Hit Kill] 
+//Cheats/Debug Menu One Hit Kill
 patch=1,EE,205FF17C,extended,00000001
 
-[Cheats/Unlock All Unlockables Revisit Location & Story Boards] 
+//Cheats/Unlock All Unlockables Revisit Location & Story Boards
 patch=1,EE,20104AD4,extended,2402000F
 
-[Cheats/Unlock All Environment Concepts] 
+//Cheats/Unlock All Environment Concepts
 patch=1,EE,1010635E,extended,00001000
 
-[Cheats/Unlock All Character Concepts] 
+//Cheats/Unlock All Character Concepts
 patch=1,EE,10106EBE,extended,00001000
 
-[Cheats/Unlock All Gear Concepts] 
+//Cheats/Unlock All Gear Concepts
 patch=1,EE,1010725E,extended,00001000

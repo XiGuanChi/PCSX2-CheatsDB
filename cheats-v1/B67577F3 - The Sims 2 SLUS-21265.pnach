@@ -1,4 +1,4 @@
-[Cheats/Always Max Bladder] 
+//Cheats/Always Max Bladder
 patch=1,EE,201B9884,extended,3C0142C8
 patch=1,EE,201B9888,extended,44810800
 patch=1,EE,201B99A0,extended,3C0142C8
@@ -6,42 +6,42 @@ patch=1,EE,201B99AC,extended,44810800
 patch=1,EE,201B99E8,extended,3C0142C8
 patch=1,EE,201B99F4,extended,44811000
 
-[Cheats/Always Max Comfort] 
+//Cheats/Always Max Comfort
 patch=1,EE,201B98F8,extended,3C0142C8
 patch=1,EE,201B9900,extended,44810800
 
-[Cheats/Always Max Energy] 
+//Cheats/Always Max Energy
 patch=1,EE,201B984C,extended,3C0142C8
 patch=1,EE,201B9850,extended,44810000
 
-[Cheats/Always Max Fun] 
+//Cheats/Always Max Fun
 patch=1,EE,201B9994,extended,3C0142C8
 patch=1,EE,201B99A4,extended,44811000
 patch=1,EE,201B99E0,extended,3C0142C8
 patch=1,EE,201B99EC,extended,44810000
 
-[Cheats/Always Max Hygiene] 
+//Cheats/Always Max Hygiene
 patch=1,EE,201B999C,extended,3C0142C8
 patch=1,EE,201B99A8,extended,44810000
 patch=1,EE,201B99E4,extended,3C0142C8
 patch=1,EE,201B99F0,extended,44810800
 
-[Cheats/Always Max Motives] 
+//Cheats/Always Max Motives
 patch=1,EE,201B9BFC,extended,E6010000
 
-[Cheats/Always Max Social] 
+//Cheats/Always Max Social
 patch=1,EE,201B9958,extended,3C0142C8
 patch=1,EE,201B995C,extended,44810000
 
-[Cheats/Unlock All Items Are Free] 
+//Cheats/Unlock All Items Are Free
 patch=1,EE,20520F88,extended,00000001
 
-[Cheats/Unlock All Player Cheats]  
+//Cheats/Unlock All Player Cheats
 patch=1,EE,20520FCC,extended,00000001
 
-[Cheats/Hunger Never Decreases] 
+//Cheats/Hunger Never Decreases
 patch=1,EE,201B990C,extended,00000000
 
-[Cheats/All Motives Never Decrease] 
+//Cheats/All Motives Never Decrease
 patch=1,EE,201B9720,extended,03E00008
 patch=1,EE,201B9724,extended,00000000

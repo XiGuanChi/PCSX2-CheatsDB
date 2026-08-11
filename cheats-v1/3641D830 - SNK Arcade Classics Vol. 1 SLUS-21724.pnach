@@ -1,37 +1,37 @@
-[Cheats/Art Of Fighting P1 Infinite HP] 
+//Cheats/Art Of Fighting P1 Infinite HP
 patch=1,EE,013954D4,extended,00000080
 
-[Cheats/Art Of Fighting P2 No HP P1 Press Start] 
+//Cheats/Art Of Fighting P2 No HP P1 Press Start
 patch=1,EE,D03D1742,extended,0000FFF7
 patch=1,EE,013955D4,extended,00000001
 
-[Cheats/Baseball Stars 2 Infinite Pitches] 
+//Cheats/Baseball Stars 2 Infinite Pitches
 patch=1,EE,10F817AC,extended,00000000
 
-[Cheats/Baseball Stars 2 P1 Max POW P1 Press L2+R2] 
+//Cheats/Baseball Stars 2 P1 Max POW P1 Press L2+R2
 patch=1,EE,D03D1742,extended,0000FCFF
 patch=1,EE,00F8422B,extended,00000063
 
-[Cheats/Baseball Stars 2 P1 Has Score 99 P1 Press L2+R2] 
+//Cheats/Baseball Stars 2 P1 Has Score 99 P1 Press L2+R2
 patch=1,EE,D03D1742,extended,0000FCFF
 patch=1,EE,00F841FB,extended,00000099
 
-[Cheats/Burning Fight P1 Infinite HP]  
+//Cheats/Burning Fight P1 Infinite HP
 patch=1,EE,00F80228,extended,000000FF
 
-[Cheats/Burning Fight P1 Infinite Lives] 
+//Cheats/Burning Fight P1 Infinite Lives
 patch=1,EE,00F80239,extended,00000009
 
-[Cheats/Burning Fight P2 Infinite HP] 
+//Cheats/Burning Fight P2 Infinite HP
 patch=1,EE,00F802A8,extended,000000FF
 
-[Cheats/Burning Fight P2 Infinite Lives ] 
+//Cheats/Burning Fight P2 Infinite Lives
 patch=1,EE,00F802B9,extended,00000009
 
-[Cheats/Burning Fight Infinite Time] 
+//Cheats/Burning Fight Infinite Time
 patch=1,EE,00F8D00A,extended,00000099
 
-[Cheats/Burning Fight Most Enemies Die With 1 Hit] 
+//Cheats/Burning Fight Most Enemies Die With 1 Hit
 patch=1,EE,00F80328,extended,00000000
 patch=1,EE,00F803A8,extended,00000000
 patch=1,EE,00F80428,extended,00000000
@@ -39,62 +39,62 @@ patch=1,EE,00F804A8,extended,00000000
 patch=1,EE,00F80528,extended,00000000
 patch=1,EE,00F805A8,extended,00000000
 
-[Cheats/Fatal Fury P1 Infinite HP] 
+//Cheats/Fatal Fury P1 Infinite HP
 patch=1,EE,10F803C0,extended,00006060
 
-[Cheats/Fatal Fury P2 No HP P1 Press Start] 
+//Cheats/Fatal Fury P2 No HP P1 Press Start
 patch=1,EE,D03D1742,extended,0000FFF7
 patch=1,EE,10F805C0,extended,00000000
 
-[Cheats/King of the Monsters P1 Infinite HP] 
+//Cheats/King of the Monsters P1 Infinite HP
 patch=1,EE,00F81872,extended,0000003C
 
-[Cheats/King of the Monsters P2 Infinite HP] 
+//Cheats/King of the Monsters P2 Infinite HP
 patch=1,EE,00F81972,extended,0000003C
 
-[Cheats/Last Resort P1 Invincibility]  
+//Cheats/Last Resort P1 Invincibility
 patch=1,EE,00E80B30,extended,0000007D
 
-[Cheats/Last Resort P2 Invincibility] 
+//Cheats/Last Resort P2 Invincibility
 patch=1,EE,00E80BB0,extended,0000007D
 
-[Cheats/Magician Lord P1 Infinite HP]  
+//Cheats/Magician Lord P1 Infinite HP
 patch=1,EE,00E8040E,extended,00000005
 
-[Cheats/Magician Lord P2 Infinite HP P2]  
+//Cheats/Magician Lord P2 Infinite HP P2
 patch=1,EE,00E8050E,extended,00000005
 
-[Cheats/Metal Slug P1 Infinite Lives ] 
+//Cheats/Metal Slug P1 Infinite Lives
 patch=1,EE,01CA497E,extended,00000065
 
-[Cheats/Metal Slug P1 Invincibility] 
+//Cheats/Metal Slug P1 Invincibility
 patch=1,EE,01CA4A8C,extended,000000FF
 
-[Cheats/Metal Slug P1 Infinite Metal Slug Energy] 
+//Cheats/Metal Slug P1 Infinite Metal Slug Energy
 patch=1,EE,01CA4BEE,extended,00000030
 
-[Cheats/Metal Slug P2 Infinite Lives] 
+//Cheats/Metal Slug P2 Infinite Lives
 patch=1,EE,01CA4A1E,extended,00000065
 
-[Cheats/Metal Slug P2 Invincibility] 
+//Cheats/Metal Slug P2 Invincibility
 patch=1,EE,01CA4B2C,extended,000000FF
 
-[Cheats/Metal Slug P2 Infinite Metal Slug Energy] 
+//Cheats/Metal Slug P2 Infinite Metal Slug Energy
 patch=1,EE,01CA4C8E,extended,00000030
 
-[Cheats/Neo Turf Masters No Wind]  
+//Cheats/Neo Turf Masters No Wind
 patch=1,EE,114945EA,extended,00000000
 
-[Cheats/Neo Turf Masters P1 Infinite Holes ] 
+//Cheats/Neo Turf Masters P1 Infinite Holes
 patch=1,EE,0149AB7B,extended,00000063
 
-[Cheats/Neo Turf Masters P1 Infinite Strokes ] 
+//Cheats/Neo Turf Masters P1 Infinite Strokes
 patch=1,EE,0149460F,extended,00000001
 
-[Cheats/Neo Turf Masters P1 Infinite Time] 
+//Cheats/Neo Turf Masters P1 Infinite Time
 patch=1,EE,0148E85E,extended,0000001E
 
-[Cheats/Samurai Shodown Infinite Hp player 1] 
+//Cheats/Samurai Shodown Infinite Hp player 1
 patch=1,EE,200A0000,extended,84440000
 patch=1,EE,200A0004,extended,24010080
 patch=1,EE,200A0008,extended,14810007
@@ -108,34 +108,34 @@ patch=1,EE,200A002C,extended,A4480000
 patch=1,EE,2017E58C,extended,08028000
 patch=1,EE,2017E590,extended,00000000
 
-[Cheats/Samurai Shodown P1 Play as Amakusa Press L2+R2] 
+//Cheats/Samurai Shodown P1 Play as Amakusa Press L2+R2
 patch=1,EE,D03D1742,extended,0000FCFF
 patch=1,EE,01590992,extended,0000000C
 
-[Cheats/Sengoku P1 Invincibility]  
+//Cheats/Sengoku P1 Invincibility
 patch=1,EE,00F80186,extended,00000050
 
-[Cheats/Sengoku P2 Invincibility ] 
+//Cheats/Sengoku P2 Invincibility
 patch=1,EE,00F80286,extended,00000050
 
-[Cheats/Shock Troopers P1 Invincibility] 
+//Cheats/Shock Troopers P1 Invincibility
 patch=1,EE,016A972E,extended,000000FF
 
-[Cheats/Shock Troopers P2 Invincibility ] 
+//Cheats/Shock Troopers P2 Invincibility
 patch=1,EE,016AB72E,extended,000000FF
 
-[Cheats/Super Sidekicks 3 - The Next Glory P1 Has Score 9 P1 Press Start] 
+//Cheats/Super Sidekicks 3 - The Next Glory P1 Has Score 9 P1 Press Start
 patch=1,EE,D03D1742,extended,0000FFF7
 patch=1,EE,0189FDF3,extended,00000009
 
-[Cheats/The King of Fighters '94 P1 Infinite HP]  
+//Cheats/The King of Fighters '94 P1 Infinite HP
 patch=1,EE,21807BA8,extended,00CF00CF
 
-[Cheats/The King of Fighters '94 P2 No HP P1 Press Start] 
+//Cheats/The King of Fighters '94 P2 No HP P1 Press Start
 patch=1,EE,D03D1742,extended,0000FFF7
 patch=1,EE,21807DA8,extended,00000000
 
-[Cheats/Top Hunter Infinite HP Player 1 and 2] 
+//Cheats/Top Hunter Infinite HP Player 1 and 2
 patch=1,EE,200A0030,extended,80440000
 patch=1,EE,200A0034,extended,24010040
 patch=1,EE,200A0038,extended,14810005
@@ -146,27 +146,27 @@ patch=1,EE,200A0054,extended,A0480000
 patch=1,EE,2017DC30,extended,0802800C
 patch=1,EE,2017DC34,extended,00000000
 
-[Cheats/Top Hunter P1 Infinite Lives] 
+//Cheats/Top Hunter P1 Infinite Lives
 patch=1,EE,01496324,extended,00000064
 
-[Cheats/Top Hunter P1 Infinite HP Stage 1 only] 
+//Cheats/Top Hunter P1 Infinite HP Stage 1 only
 patch=1,EE,0148DB08,extended,00000040
 
-[Cheats/Top Hunter P2 Infinite Lives] 
+//Cheats/Top Hunter P2 Infinite Lives
 patch=1,EE,01496328,extended,00000064
 
-[Cheats/Top HunterP2 Infinite HP Stage 1 only] 
+//Cheats/Top HunterP2 Infinite HP Stage 1 only
 patch=1,EE,0148E708,extended,00000040
 
-[Cheats/World Heroes P1 Infinite Health]  
+//Cheats/World Heroes P1 Infinite Health
 patch=1,EE,0118BC13,extended,00000068
 patch=1,EE,0118BC37,extended,00000068
 
-[Cheats/World Heroes Player 2 No Health P1 Press Start] 
+//Cheats/World Heroes Player 2 No Health P1 Press Start
 patch=1,EE,E002FFF7,extended,003D1742
 patch=1,EE,0118BD13,extended,00000001
 patch=1,EE,0118BD37,extended,00000001
 
-[Cheats/World Heroes P1 Play as Geegus Press L2+R2] 
+//Cheats/World Heroes P1 Play as Geegus Press L2+R2
 patch=1,EE,D03D1742,extended,0000FCFF
 patch=1,EE,0118BC15,extended,00000009

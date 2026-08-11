@@ -1,17 +1,17 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,203FFEF4,extended,42C80000
 patch=1,EE,203FFEFC,extended,42C80000
 
-[Cheats/Invincible Can't Be Hit] 
+//Cheats/Invincible Can't Be Hit
 patch=1,EE,103FFF00,extended,000042C8
 
-[Cheats/Infinite Run Never Exhausted] 
+//Cheats/Infinite Run Never Exhausted
 patch=1,EE,21137C8C,extended,42C80000
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,201B778C,extended,00000000
 
-[Cheats/Have All Items] 
+//Cheats/Have All Items
 patch=1,EE,21137C60,extended,FFFDF3FE
 patch=1,EE,21137C64,extended,FFFFFFFF
 patch=1,EE,21137C68,extended,00007FFF

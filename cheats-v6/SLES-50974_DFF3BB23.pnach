@@ -1,6 +1,6 @@
 gametitle=Zapper - One Wicked Cricket! PAL-M SLES-50974 DFF3BB23
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,0012ADA4,word,24040000

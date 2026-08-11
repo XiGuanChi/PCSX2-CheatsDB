@@ -1,8 +1,8 @@
-[Cheats/L1+L2 More Time] 
+//Cheats/L1+L2 More Time
 patch=1,EE,D0BCD142,extended,0000FAFF
 patch=1,EE,206636A0,extended,00002A2A
 
-[Cheats/Unlock Have All Objects Collected] 
+//Cheats/Unlock Have All Objects Collected
 patch=1,EE,200C0220,extended,3C030101
 patch=1,EE,200C0224,extended,34630101
 patch=1,EE,200C0228,extended,3C040066

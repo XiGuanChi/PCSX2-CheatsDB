@@ -1,9 +1,9 @@
-[Cheats/Max Points after the match] 
+//Cheats/Max Points after the match
 patch=1,EE,D1B139C8,extended,00000002
 patch=1,EE,21B139C8,extended,00000000
 
-[Cheats/Home Team Always score the goal] 
+//Cheats/Home Team Always score the goal
 patch=1,EE,215FD87C,extended,24030000
 
-[Cheats/Away Team Always score the goal] 
+//Cheats/Away Team Always score the goal
 patch=1,EE,215FD87C,extended,24030001

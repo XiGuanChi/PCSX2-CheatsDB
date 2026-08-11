@@ -1,53 +1,53 @@
-[Cheats/Pico 999999] 
+//Cheats/Pico 999999
 patch=1,EE,2039C3CC,extended,0098967F
 
-[Cheats/I-Q 99999] 
+//Cheats/I-Q 99999
 patch=1,EE,2039C3D0,extended,0001869F
 
-[Cheats/Charactere 1 LP and SP 9999] 
+//Cheats/Charactere 1 LP and SP 9999
 patch=1,EE,1039C0D6,extended,0000270F
 patch=1,EE,1039C0D8,extended,0000270F
 
-[Cheats/Charactere 1 Exp 9999999] 
+//Cheats/Charactere 1 Exp 9999999
 patch=1,EE,2039C0D0,extended,05F5E0FF
 
-[Cheats/Charactere 1 Stats 9999] 
+//Cheats/Charactere 1 Stats 9999
 patch=1,EE,2039C174,extended,270F270F
 patch=1,EE,2039C178,extended,270F270F
 patch=1,EE,2039C17C,extended,270F270F
 
-[Cheats/Charactere 2 LP and SP 9999] 
+//Cheats/Charactere 2 LP and SP 9999
 patch=1,EE,1039C0FE,extended,0000270F
 patch=1,EE,1039C100,extended,0000270F
 
-[Cheats/Charactere 2 Exp 9999999] 
+//Cheats/Charactere 2 Exp 9999999
 patch=1,EE,2039C0F8,extended,05F5E0FF
 
-[Cheats/Charactere 3 LP and SP 9999] 
+//Cheats/Charactere 3 LP and SP 9999
 patch=1,EE,1039C126,extended,0000270F
 patch=1,EE,1039C128,extended,0000270F
 
-[Cheats/Charactere 3 Exp 9999999] 
+//Cheats/Charactere 3 Exp 9999999
 patch=1,EE,2039C120,extended,05F5E0FF
 
-[Cheats/Charactere 3 Stats 9999] 
+//Cheats/Charactere 3 Stats 9999
 patch=1,EE,2039C1DC,extended,270F270F
 patch=1,EE,2039C1E0,extended,270F270F
 patch=1,EE,2039C1E4,extended,270F270F
 
-[Cheats/Charactere 4 LP and SP 9999] 
+//Cheats/Charactere 4 LP and SP 9999
 patch=1,EE,1039C14E,extended,0000270F
 patch=1,EE,1039C150,extended,0000270F
 
-[Cheats/Charactere 4 Exp 9999999] 
+//Cheats/Charactere 4 Exp 9999999
 patch=1,EE,2039C148,extended,05F5E0FF
 
-[Cheats/Charactere 4 Stats 9999] 
+//Cheats/Charactere 4 Stats 9999
 patch=1,EE,2039C210,extended,270F270F
 patch=1,EE,2039C214,extended,270F270F
 patch=1,EE,2039C218,extended,270F270F
 
-[Cheats/Battle Items 9x] 
+//Cheats/Battle Items 9x
 patch=1,EE,2039C490,extended,09090909
 patch=1,EE,2039C494,extended,09090909
 patch=1,EE,2039C498,extended,09090909
@@ -55,16 +55,16 @@ patch=1,EE,2039C49C,extended,09090909
 patch=1,EE,2039C49E,extended,09090909
 patch=1,EE,2039C48E,extended,09090909
 
-[Cheats/Battle Won Exp Max It is not an level maximum at one time]
+//Cheats/Battle Won Exp Max It is not an level maximum at one time
 patch=1,EE,20137528,extended,00000000
 
-[Cheats/All Consumption Items Nine]  
+//Cheats/All Consumption Items Nine
 patch=1,EE,0039C48F,extended,00000009
 patch=1,EE,2039C490,extended,09090909
 patch=1,EE,2039C494,extended,09090909
 patch=1,EE,2039C498,extended,09090909
 patch=1,EE,2039C49C,extended,09090909
 
-[Cheats/Unlock Bonus Mode In The Title Option Enabled by entering option from title menu] 
+//Cheats/Unlock Bonus Mode In The Title Option Enabled by entering option from title menu
 patch=1,EE,2013818C,extended,34420008
 patch=1,EE,20138190,extended,AC224D90

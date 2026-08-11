@@ -1,4 +1,4 @@
-[Cheats/Max Cash Shopzone] 
+//Cheats/Max Cash Shopzone
 patch=1,EE,200C0220,extended,3463967F
 patch=1,EE,200C0224,extended,AC830278
 patch=1,EE,200C0228,extended,03E00008
@@ -6,44 +6,44 @@ patch=1,EE,200C022C,extended,8C850270
 patch=1,EE,20309BCC,extended,0C030088
 patch=1,EE,20309BD0,extended,3C030098
 
-[Cheats/Infinite Health Human Players] 
+//Cheats/Infinite Health Human Players
 patch=1,EE,201F45D0,extended,104001EC
 
-[Cheats/Infinite Health Human Super Damage Against CPU] 
+//Cheats/Infinite Health Human Super Damage Against CPU
 patch=1,EE,201F45D0,extended,104001EC
 patch=1,EE,201F47F0,extended,A6A00000
 
-[Cheats/Infinite Time Out Of Ring] 
+//Cheats/Infinite Time Out Of Ring
 patch=1,EE,201EB458,extended,00000000
 
-[Cheats/Always Low Ring Time] 
+//Cheats/Always Low Ring Time
 patch=1,EE,20527AE0,extended,00000000
 
-[Cheats/Infinite Creation Points] 
+//Cheats/Infinite Creation Points
 patch=1,EE,202EDEBC,extended,00000000
 patch=1,EE,102EDA3A,extended,00001000
 
-[Cheats/DQ Never Set]  
+//Cheats/DQ Never Set
 patch=1,EE,201C4980,extended,03E00008
 
-[Cheats/100 Wins Slobber Knocker] 
+//Cheats/100 Wins Slobber Knocker
 patch=1,EE,20492374,extended,00000064
 
-[Cheats/Idiot AI CPU Wrestlers] 
+//Cheats/Idiot AI CPU Wrestlers
 patch=1,EE,20268E90,extended,03E00008
 patch=1,EE,20268E94,extended,00000000
 
-[Cheats/Player 1 Press R3 Idiot AI CPU Wrestlers] 
+//Cheats/Player 1 Press R3 Idiot AI CPU Wrestlers
 patch=1,EE,E002FFFB,extended,004FE282
 patch=1,EE,20268E90,extended,03E00008
 patch=1,EE,20268E94,extended,00000000
 
-[Cheats/Player 1 Press L3 Normal AI CPU Wrestlers]  
+//Cheats/Player 1 Press L3 Normal AI CPU Wrestlers
 patch=1,EE,E002FFFD,extended,004FE282
 patch=1,EE,20268E94,extended,3C010053
 patch=1,EE,20268E90,extended,27BDFFC0
 
-[Cheats/Have All Shopzone Items Bought] 
+//Cheats/Have All Shopzone Items Bought
 patch=1,EE,004FB3B3,extended,000000FF
 patch=1,EE,204FB3B4,extended,FFFFFFFF
 patch=1,EE,104FB3B8,extended,0000FFFF

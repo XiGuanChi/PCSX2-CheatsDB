@@ -1,20 +1,20 @@
-[Cheats/Infinite Health Tournament] 
+//Cheats/Infinite Health Tournament
 patch=1,EE,D03B6328,extended,00000000
 patch=1,EE,203E9A84,extended,453B8000
 patch=1,EE,D03B6328,extended,00000001
 patch=1,EE,203F39D4,extended,453B8000
 
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,203E9A84,extended,453B8000
 
-[Cheats/Max Level 7 KI Energy Player 1] 
+//Cheats/Max Level 7 KI Energy Player 1
 patch=1,EE,203E9A8C,extended,442F0000
 
-[Cheats/1 Hit Death Player 2] 
+//Cheats/1 Hit Death Player 2
 patch=1,EE,D03F39D6,extended,0000453B
 patch=1,EE,203F39D4,extended,3F800000
 
-[Cheats/Have All Ability & Physical Capsules] 
+//Cheats/Have All Ability & Physical Capsules
 patch=1,EE,00694875,extended,00000001
 patch=1,EE,10694876,extended,00000101
 patch=1,EE,40694878,extended,00300001
@@ -26,7 +26,7 @@ patch=1,EE,1069494A,extended,00000101
 patch=1,EE,0069494B,extended,00000001
 patch=1,EE,2069494C,extended,01010101
 
-[Cheats/Have All Support Capsules] 
+//Cheats/Have All Support Capsules
 patch=1,EE,00694950,extended,00000001
 patch=1,EE,00694961,extended,00000001
 patch=1,EE,00694971,extended,00000001
@@ -39,7 +39,7 @@ patch=1,EE,406949B0,extended,00240001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,00694A40,extended,00000001
 
-[Cheats/Have All System Capsules] 
+//Cheats/Have All System Capsules
 patch=1,EE,00694A41,extended,00000001
 patch=1,EE,10694A42,extended,00000101
 patch=1,EE,40694A44,extended,000D0001
@@ -47,9 +47,9 @@ patch=1,EE,01010101,extended,00000000
 patch=1,EE,10694A78,extended,00000101
 patch=1,EE,00694A7A,extended,00000001
 
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,20693FF8,extended,05F5E0FF
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,20693EF8,extended,FFFFFFFF
 patch=1,EE,20693EFC,extended,FFFFFFFF

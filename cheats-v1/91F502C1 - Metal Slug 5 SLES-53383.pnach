@@ -1,32 +1,32 @@
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,00AD47C9,extended,00000060
 
-[Cheats/P1 Invincible] 
+//Cheats/P1 Invincible
 patch=1,EE,00ADF7CC,extended,0000005E
 
-[Cheats/P1 Infinite Lives] 
+//Cheats/P1 Infinite Lives
 patch=1,EE,00ADFC95,extended,00000009
 
-[Cheats/P1 Infinite Ammo All Weapons] 
+//Cheats/P1 Infinite Ammo All Weapons
 patch=1,EE,10AA74CC,extended,0000FFFF
 
-[Cheats/P1 Infinite Ammo All Vehicles] 
+//Cheats/P1 Infinite Ammo All Vehicles
 patch=1,EE,00ADFFE5,extended,00000063
 
-[Cheats/P2 Invincible] 
+//Cheats/P2 Invincible
 patch=1,EE,00ADF69C,extended,0000005E
 
-[Cheats/P2 Infinite Lives] 
+//Cheats/P2 Infinite Lives
 patch=1,EE,00ADFB65,extended,00000009
 
-[Cheats/P2 Infinite Ammo All Weapons] 
+//Cheats/P2 Infinite Ammo All Weapons
 patch=1,EE,10AA74BC,extended,0000FFFF
 
-[Cheats/P2 Infinite Bombs] 
+//Cheats/P2 Infinite Bombs
 patch=1,EE,00AA74B7,extended,00000063
 
-[Cheats/Unlock All Missions]  
+//Cheats/Unlock All Missions
 patch=1,EE,00CC27E0,extended,00000005
 
-[Cheats/Unlock All Trophy Items] 
+//Cheats/Unlock All Trophy Items
 patch=1,EE,20CC2878,extended,1FFFFFFF

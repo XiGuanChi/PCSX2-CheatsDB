@@ -1,20 +1,20 @@
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,104B2634,extended,000003E7
 patch=1,EE,104B2638,extended,000003E7
 patch=1,EE,104B82A0,extended,000003E7
 patch=1,EE,104B8BEC,extended,000003E7
 
-[Cheats/Start With 10 Feathers] 
+//Cheats/Start With 10 Feathers
 patch=1,EE,004B2644,extended,000000FF
 patch=1,EE,004B264C,extended,000000FF
 
-[Cheats/Attack Possession] 
+//Cheats/Attack Possession
 patch=1,EE,004B2654,extended,000000FF
 
-[Cheats/Battle Escape Press L3] 
+//Cheats/Battle Escape Press L3
 patch=1,EE,D02A5F0A,extended,0000FFFD
 patch=1,EE,004B28BC,extended,000000FF
 
-[Cheats/Unlock Debug Menu start the game into a debug menu] 
+//Cheats/Unlock Debug Menu start the game into a debug menu
 patch=1,EE,0018537C,extended,00000000
 

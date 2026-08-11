@@ -1,19 +1,19 @@
 gametitle=Ico SCES-50760 5C991F4E
 
-[Unlock film Effect/2P mode]
+//Unlock film Effect/2P mode
 author=GamingDragon93
 patch=1,EE,2063AA00,extended,00000001
 
-[1 hit kill]
+//1 hit kill
 author=GamingDragon93
 patch=1,EE,2015995C,extended,00000000
 
-[Save anywhere - R1+L1+R2+L2]
+//Save anywhere - R1+L1+R2+L2
 author=GamingDragon93
 patch=1,EE,D028F8F0,extended,0000000F
 patch=1,EE,1063B60C,extended,0000001C
 
-[Never get killed from falls - Press select to activate, L2+R2 to deactivate Select on, R2+L2 off]
+//Never get killed from falls - Press select to activate, L2+R2 to deactivate Select on, R2+L2 off
 author=GamingDragon93
 patch=1,EE,D028F8F0,extended,00000100
 patch=1,EE,101F035E,extended,00002800

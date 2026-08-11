@@ -1,8 +1,8 @@
-[Cheats/You Can Shop Without Money] 
+//Cheats/You Can Shop Without Money
 patch=1,EE,2035E030,extended,00000000
 patch=1,EE,2035CE70,extended,10000027
 
-[Cheats/Unlock Free Play, Bonus Items And Show Gallery] 
+//Cheats/Unlock Free Play, Bonus Items And Show Gallery
 patch=1,EE,21C34260,extended,FFFFFFFF
 patch=1,EE,21C34264,extended,FFFFFFFF
 patch=1,EE,21C34268,extended,FFFFFFFF 

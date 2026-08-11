@@ -1,7 +1,7 @@
-[Cheats/Unlock All Extras and Shortcuts]  
+//Cheats/Unlock All Extras and Shortcuts
 patch=1,EE,20A94740,extended,FFFFFFFF
 patch=1,EE,20A94744,extended,FFFFFFFF
 
-[Cheats/Enable Debug Menu press and hold Circle+L1 while entering another screen such as starting a new game these allow you to quickly view images, sounds, character routes, among others]  
+//Cheats/Enable Debug Menu press and hold Circle+L1 while entering another screen such as starting a new game these allow you to quickly view images, sounds, character routes, among others
 patch=1,EE,D047B202,extended,0000DBFF
 patch=1,EE,20270C54,extended,00000000

@@ -1,34 +1,34 @@
-[Cheats/Infini Gils]  
+//Cheats/Infini Gils
 patch=1,EE,2031D218,extended,05F5BABE
 
-[Cheats/Pas De Combats] 
+//Cheats/Pas De Combats
 patch=1,EE,003173F7,extended,00000000
 
-[Cheats/Tidus HP complet] 
+//Cheats/Tidus HP complet
 patch=1,EE,1031EAB8,extended,0000270F
 
-[Cheats/Tidus MP complet] 
+//Cheats/Tidus MP complet
 patch=1,EE,1031EABC,extended,000003E7
 
-[Cheats/Tidus Max HP] 
+//Cheats/Tidus Max HP
 patch=1,EE,1031EAC0,extended,0000270F
 
-[Cheats/Tidus Max MP] 
+//Cheats/Tidus Max MP
 patch=1,EE,1031EAC4,extended,000003E7
 
-[Cheats/Yuna HP complet] 
+//Cheats/Yuna HP complet
 patch=1,EE,1031EB4C,extended,0000270F
 
-[Cheats/Yuna MP complet] 
+//Cheats/Yuna MP complet
 patch=1,EE,1031EB50,extended,000003E7
 
-[Cheats/Yuna Max HP] 
+//Cheats/Yuna Max HP
 patch=1,EE,1031EB54,extended,0000270F
 
-[Cheats/Yuna Max MP] 
+//Cheats/Yuna Max MP
 patch=1,EE,1031EB58,extended,000003E7
 
-[Cheats/Tous les objets infini] 
+//Cheats/Tous les objets infini
 patch=1,EE,200FFF30,extended,96F30000
 patch=1,EE,200FFF38,extended,26730001
 patch=1,EE,200FFF3C,extended,A6F30002
@@ -39,39 +39,39 @@ patch=1,EE,2024C9D4,extended,24110063
 patch=1,EE,2024C9E0,extended,A2D10000
 patch=1,EE,2031D39C,extended,20012000
 
-[Cheats/Max overdrive] 
+//Cheats/Max overdrive
 patch=1,EE,200FFE44,extended,24010064
 patch=1,EE,200FFE48,extended,A041027C
 
-[Cheats/Tous les speciaux, tech, magie blanche+magie noire] 
+//Cheats/Tous les speciaux, tech, magie blanche+magie noire
 patch=1,EE,1031EE52,extended,0000FFFF
 patch=1,EE,2031EE54,extended,FFFFFFFF
 patch=1,EE,2031EE58,extended,FFFFFFFF
 patch=1,EE,1031EE5C,extended,0000FFFF
 
-[Cheats/Toujours gagnant Blitzball] 
+//Cheats/Toujours gagnant Blitzball
 patch=1,EE,0031AB0E,extended,00000063
 patch=1,EE,0031AB71,extended,00000063
 patch=1,EE,0031AB0F,extended,00000000
 
-[Cheats/Al Bhed traduit] 
+//Cheats/Al Bhed traduit
 patch=1,EE,2031D1E0,extended,03FFFFFF
 
-[Cheats/Toutes les overdrives] 
+//Cheats/Toutes les overdrives
 patch=1,EE,2031D23C,extended,FFFFFFFF
 patch=1,EE,2031D240,extended,FFFFFFFF
 patch=1,EE,2031D244,extended,FFFFFFFF
 
-[Cheats/Max Stats Tidus] 
+//Cheats/Max Stats Tidus
 patch=1,EE,0031EACB,extended,000000FF
 patch=1,EE,2031EACC,extended,FFFFFFFF
 patch=1,EE,1031EAD0,extended,0000FFFF
 patch=1,EE,0031EAD2,extended,000000FF
 
-[Cheats/Max sphere level Tidus] 
+//Cheats/Max sphere level Tidus
 patch=1,EE,0031EAD7,extended,000000FF
 
-[Cheats/Tous les speciaux, tech, magie blanche+magie noire Tidus] 
+//Cheats/Tous les speciaux, tech, magie blanche+magie noire Tidus
 patch=1,EE,1031EADA,extended,0000FFFF
 patch=1,EE,2031EADC,extended,FFFFFFFF
 patch=1,EE,2031EAE0,extended,FFFFFFFF
@@ -83,25 +83,25 @@ patch=1,EE,2031EB60,extended,FFFFFFFF
 patch=1,EE,1031EB62,extended,0000FFFF
 patch=1,EE,0031EB63,extended,000000FF
 
-[Cheats/Max sphere level Yuna] 
+//Cheats/Max sphere level Yuna
 patch=1,EE,0031EB6B,extended,000000FF
 
-[Cheats/Tous les speciaux, tech, magie blanche+magie noire Yuna] 
+//Cheats/Tous les speciaux, tech, magie blanche+magie noire Yuna
 patch=1,EE,1031EB6E,extended,0000FFFF
 patch=1,EE,2031EB70,extended,FFFFFFFF
 patch=1,EE,2031EB74,extended,FFFFFFFF
 patch=1,EE,1031EB78,extended,0000FFFF
 
-[Cheats/Max stats Auron] 
+//Cheats/Max stats Auron
 patch=1,EE,0031EBF3,extended,000000FF
 patch=1,EE,2031EBF4,extended,FFFFFFFF
 patch=1,EE,1031EBF8,extended,0000FFFF
 patch=1,EE,0031EBFA,extended,000000FF
 
-[Cheats/Max sphere level Auron] 
+//Cheats/Max sphere level Auron
 patch=1,EE,0031EBFF,extended,000000FF
 
-[Cheats/Tous les speciaux, tech, magie blanche+magie noire Auron] 
+//Cheats/Tous les speciaux, tech, magie blanche+magie noire Auron
 patch=1,EE,1031EC02,extended,0000FFFF
 patch=1,EE,2031EC04,extended,FFFFFFFF
 patch=1,EE,2031EC08,extended,FFFFFFFF
@@ -113,50 +113,50 @@ patch=1,EE,2031EC88,extended,FFFFFFFF
 patch=1,EE,1031EC8C,extended,0000FFFF
 patch=1,EE,0031EC8E,extended,000000FF
 
-[Cheats/Max sphere level Kimari] 
+//Cheats/Max sphere level Kimari
 patch=1,EE,0031EC93,extended,000000FF
 
-[Cheats/Tous les speciaux, tech, magie blanche+magie noire Kimari] 
+//Cheats/Tous les speciaux, tech, magie blanche+magie noire Kimari
 patch=1,EE,1031EC96,extended,0000FFFF
 patch=1,EE,2031EC98,extended,FFFFFFFF
 patch=1,EE,2031EC9C,extended,FFFFFFFF
 patch=1,EE,1031ECA0,extended,0000FFFF
 
-[Cheats/Max stats Wakka] 
+//Cheats/Max stats Wakka
 patch=1,EE,0031ED1B,extended,000000FF
 patch=1,EE,2031ED1C,extended,FFFFFFFF
 patch=1,EE,1031ED20,extended,0000FFFF
 patch=1,EE,0031ED22,extended,000000FF
 
-[Cheats/Max sphere level Wakka] 
+//Cheats/Max sphere level Wakka
 patch=1,EE,0031ED27,extended,000000FF
 
-[Cheats/Tous les speciaux, tech, magie blanche+magie noire Wakka] 
+//Cheats/Tous les speciaux, tech, magie blanche+magie noire Wakka
 patch=1,EE,1031ED2A,extended,0000FFFF
 patch=1,EE,2031ED2C,extended,FFFFFFFF
 patch=1,EE,2031ED30,extended,FFFFFFFF
 patch=1,EE,1031ED34,extended,0000FFFF
 
-[Cheats/Max stats Lulu] 
+//Cheats/Max stats Lulu
 patch=1,EE,0031EDAF,extended,000000FF
 patch=1,EE,2031EDB0,extended,FFFFFFFF
 patch=1,EE,1031EDB4,extended,0000FFFF
 patch=1,EE,0031EDB6,extended,000000FF
 
-[Cheats/Max sphere level Lulu] 
+//Cheats/Max sphere level Lulu
 patch=1,EE,0031EDBB,extended,000000FF
 
-[Cheats/Tous les speciaux, tech, magie blanche+magie noire Lulu] 
+//Cheats/Tous les speciaux, tech, magie blanche+magie noire Lulu
 patch=1,EE,1031EDBE,extended,0000FFFF
 patch=1,EE,2031EDC0,extended,FFFFFFFF
 patch=1,EE,2031EDC4,extended,FFFFFFFF
 patch=1,EE,1031EDC8,extended,0000FFFF
 
-[Cheats/Max stats Riku] 
+//Cheats/Max stats Riku
 patch=1,EE,0031EE43,extended,000000FF
 patch=1,EE,2031EE44,extended,FFFFFFFF
 patch=1,EE,1031EE48,extended,0000FFFF
 patch=1,EE,0031EE4A,extended,000000FF
 
-[Cheats/Max sphere level Riku] 
+//Cheats/Max sphere level Riku
 patch=1,EE,0031EE4F,extended,000000FF

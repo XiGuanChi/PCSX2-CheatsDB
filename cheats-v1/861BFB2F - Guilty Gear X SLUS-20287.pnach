@@ -1,18 +1,18 @@
-[Cheats/Always Full Tension Gauge P1] 
+//Cheats/Always Full Tension Gauge P1
 patch=1,EE,10539C90,extended,0000270F
 patch=1,EE,10539D44,extended,0000270F
 
-[Cheats/P1 Always Has Blue Trails] 
+//Cheats/P1 Always Has Blue Trails
 patch=1,EE,10539C9A,extended,00000001
 
-[Cheats/P1 Strong Guard]  
+//Cheats/P1 Strong Guard
 patch=1,EE,10539CAA,extended,00000000
 
-[Cheats/Always On Weak Guard Break P2] 
+//Cheats/Always On Weak Guard Break P2
 patch=1,EE,10539D6A,extended,00000080
 
-[Cheats/ Max Level Survivor Mode]
+//Cheats/ Max Level Survivor Mode
 patch=1,EE,11DF3D00,extended,0000270F
 
-[Cheats/Unlock Guilty Gear Mode and Extra Characters Play 1 round in Survival Mode to unlock Guilty Gear Mode as well as the characters Dizzy & Testament] 
+//Cheats/Unlock Guilty Gear Mode and Extra Characters Play 1 round in Survival Mode to unlock Guilty Gear Mode as well as the characters Dizzy & Testament
 patch=1,EE,11DF3D00,extended,0000270F

@@ -1,36 +1,36 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20232a38,extended,2401012C
 patch=1,EE,20232a3c,extended,AC4102c0
 
-[Cheats/Infinite Health Alternate] 
+//Cheats/Infinite Health Alternate
 patch=1,EE,200C0220,extended,C4620770
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,E46202C0
 patch=1,EE,2059AB84,extended,0C030080
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,20498c50,extended,00000000
 
-[Cheats/Extra Ammo]  
+//Cheats/Extra Ammo
 patch=1,EE,10498C4C,extended,0000FFFF
 
-[Cheats/Max Infinite Ammo] 
+//Cheats/Max Infinite Ammo
 patch=1,EE,20498C4C,extended,240200C6
 
-[Cheats/Never Reload]  
+//Cheats/Never Reload
 patch=1,EE,20498C44,extended,00000000
 
-[Cheats/Never Reload With Max Clip] 
+//Cheats/Never Reload With Max Clip
 patch=1,EE,20498C40,extended,24020063
 
-[Cheats/Infinite OCP Flasher] 
+//Cheats/Infinite OCP Flasher
 patch=1,EE,20491FBC,extended,00000000
 
-[Cheats/Always No Noise] 
+//Cheats/Always No Noise
 patch=1,EE,205ee624,extended,00000000
 
-[Cheats/Enemies Cant See You] 
+//Cheats/Enemies Cant See You
 patch=1,EE,2039222c,extended,44800000
 
-[Cheats/Load Game Unlock All Missions] 
+//Cheats/Load Game Unlock All Missions
 patch=1,EE,2056A640,extended,AE420020

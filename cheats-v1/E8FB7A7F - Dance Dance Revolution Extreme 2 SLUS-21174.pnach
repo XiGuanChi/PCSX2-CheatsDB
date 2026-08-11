@@ -1,21 +1,21 @@
-[Cheats/Max Shop Points] 
+//Cheats/Max Shop Points
 patch=1,EE,203657CC,extended,3B9AC9FF
 
-[Cheats/Max Meter P1] 
+//Cheats/Max Meter P1
 patch=1,EE,10644952,extended,000003E8
 
-[Cheats/Have All Shop Items Available For Purchase] 
+//Cheats/Have All Shop Items Available For Purchase
 patch=1,EE,40347FA0,extended,00080001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Lessons All Sections Completed] 
+//Cheats/Unlock All Lessons All Sections Completed
 patch=1,EE,4034593C,extended,00060001
 patch=1,EE,02020202,extended,00000000
 
-[Cheats/Unlock All Songs] 
+//Cheats/Unlock All Songs
 patch=1,EE,20347FC0,extended,FFFFFFFF
 patch=1,EE,20347FC4,extended,FFFFFFFF
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,20347FC8,extended,FFFFFFFF
 patch=1,EE,20347FCC,extended,FFFFFFFF

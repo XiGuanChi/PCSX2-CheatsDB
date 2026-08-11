@@ -1,90 +1,90 @@
 gametitle=Batman Vengeance [SLUS-20226] [5BD38469]
 
-[P1 Press {L1}+{L2} For Normal Game Speed]
+//P1 Press {L1}+{L2} For Normal Game Speed
 author=GamingDragon93
 description=P1 Press {L1}+{L2} For Normal Game Speed
 // P1 Press {L1}+{L2} For Normal Game Speed
 patch=1,EE,F0200008,extended,0024298F
 
-[Unlock All Levels]
+//Unlock All Levels
 author=GamingDragon93
 description=Unlock All Levels
 // Unlock All Levels
 patch=1,EE,008470C0,extended,00000017
 
-[Have All Items]
+//Have All Items
 author=GamingDragon93
 description=Have All Items
 // Have All Items
 patch=1,EE,2084713C,extended,FFFFFFFF
 
-[Unlock All Movies]
+//Unlock All Movies
 author=GamingDragon93
 description=Unlock All Movies
 // Unlock All Movies
 patch=1,EE,10847144,extended,0000FFFF
 
-[Have All Cheats]
+//Have All Cheats
 author=GamingDragon93
 description=Have All Cheats
 // Have All Cheats
 patch=1,EE,10847146,extended,0000FFFF
 
-[Max Level Scores]
+//Max Level Scores
 author=GamingDragon93
 description=Max Level Scores
 // Max Level Scores
 patch=1,EE,40847148,extended,00030001
 
-[Max Level Scores]
+//Max Level Scores
 author=GamingDragon93
 description=Max Level Scores
 // Max Level Scores
 patch=1,EE,0A0A0A0A,extended,00000000
 
-[Infinite Health]
+//Infinite Health
 author=GamingDragon93
 description=Infinite Health
 // Infinite Health
 patch=1,EE,0089E35A,extended,000000C8
 
-[Infinite Batarangs]
+//Infinite Batarangs
 author=GamingDragon93
 description=Infinite Batarangs
 // Infinite Batarangs
 patch=1,EE,1089E3A6,extended,0000000F
 
-[Infinite Electric Batarangs]
+//Infinite Electric Batarangs
 author=GamingDragon93
 description=Infinite Electric Batarangs
 // Infinite Electric Batarangs
 patch=1,EE,1089E3A8,extended,0000000F
 
-[Infinite Stunners]
+//Infinite Stunners
 author=GamingDragon93
 description=Infinite Stunners
 // Infinite Stunners
 patch=1,EE,1089E3AA,extended,0000000F
 
-[Infinite Nets]
+//Infinite Nets
 author=GamingDragon93
 description=Infinite Nets
 // Infinite Nets
 patch=1,EE,1089E3AC,extended,0000000F
 
-[Infinite Remote Charges]
+//Infinite Remote Charges
 author=GamingDragon93
 description=Infinite Remote Charges
 // Infinite Remote Charges
 patch=1,EE,1089E3AE,extended,0000000F
 
-[Infinite Flash Bombs]
+//Infinite Flash Bombs
 author=GamingDragon93
 description=Infinite Flash Bombs
 // Infinite Flash Bombs
 patch=1,EE,1089E3B0,extended,0000000F
 
-[Infinite Batcuffs]
+//Infinite Batcuffs
 author=GamingDragon93
 description=Infinite Batcuffs
 // Infinite Batcuffs

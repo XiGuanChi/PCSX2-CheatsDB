@@ -1,23 +1,23 @@
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,103D0A98,extended,000009C4
 
-[Cheats/No Health P2 Press L3] 
+//Cheats/No Health P2 Press L3
 patch=1,EE,D09FA682,extended,0000FFFD
 patch=1,EE,103D3BD8,extended,00000000
 
-[Cheats/Unlock All Bonus]  
+//Cheats/Unlock All Bonus
 patch=1,EE,003C52BC,extended,00000000
 patch=1,EE,003C52C8,extended,00000000
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,403C4530,extended,00090003
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Stages] 
+//Cheats/Unlock All Stages
 patch=1,EE,403B390C,extended,00070003
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Arenas]  
+//Cheats/Unlock All Arenas
 patch=1,EE,403C4508,extended,00070003
 patch=1,EE,00000000,extended,00000000
 

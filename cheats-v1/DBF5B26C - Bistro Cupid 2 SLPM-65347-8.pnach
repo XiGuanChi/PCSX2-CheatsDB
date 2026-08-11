@@ -1,36 +1,36 @@
-[Cheats/Max Money held during management]
+//Cheats/Max Money held during management
 patch=1,EE,201DBF94,extended,0001307A
 patch=1,EE,201DBFA0,extended,AC460014
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,201CE0EC,extended,92610002
 patch=1,EE,201CE0F4,extended,8E840010
 patch=1,EE,201CE100,extended,0001200A
 
-[Cheats/Fatigue Complete Recovery after a few days] 
+//Cheats/Fatigue Complete Recovery after a few days
 patch=1,EE,20250CD8,extended,34020100
 patch=1,EE,20250CE0,extended,AC620000
 
-[Cheats/Max friendship level only during research The effect applies only to the character you chose as your partner.] 
+//Cheats/Max friendship level only during research The effect applies only to the character you chose as your partner.
 patch=1,EE,202033BC,extended,64050FEB 
 patch=1,EE,202033C4,extended,00A0302D
 
-[Cheats/Progress in recipe research increases to the upper limit] 
+//Cheats/Progress in recipe research increases to the upper limit
 patch=1,EE,202030B0,extended,8EC20004
 
-[Cheats/After Battle All Recipes Acquisition] 
+//Cheats/After Battle All Recipes Acquisition
 patch=1,EE,2025D128,extended,34070001
 patch=1,EE,2025D12C,extended,A127000C
 
-[Cheats/In Battle One Hit Kill Enemy] 
+//Cheats/In Battle One Hit Kill Enemy
 patch=1,EE,2025D714,extended,AC60005C
 patch=1,EE,2025D718,extended,00000000
 
-[Cheats/In Battle Infinite HP+Enemy kills in one hit ON]
+//Cheats/In Battle Infinite HP+Enemy kills in one hit ON
 patch=1,EE,201CE0EC,extended,92610002
 patch=1,EE,201CE0F4,extended,8E64005C
 patch=1,EE,201CE100,extended,0001200A
 
-[Cheats/In Battle Instantly destroy all enemies] 
+//Cheats/In Battle Instantly destroy all enemies
 patch=1,EE,2025D714,extended,AC60005C
 patch=1,EE,2025D718,extended,00000000

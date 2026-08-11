@@ -1,13 +1,13 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C0230,extended,24010008
 patch=1,EE,200C0234,extended,08081694
 patch=1,EE,200C0238,extended,AC410EB4
 patch=1,EE,20205770,extended,0C03008C
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,2034BB40,extended,00000000
 
-[Cheats/Unlock Access All Extras] 
+//Cheats/Unlock Access All Extras
 patch=1,EE,200C0220,extended,03E00008
 patch=1,EE,200C0224,extended,A482013E
 patch=1,EE,202B3660,extended,08030088

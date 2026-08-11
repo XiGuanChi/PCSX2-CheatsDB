@@ -1,11 +1,11 @@
-[Cheats/Player Has 99999 Points]  
+//Cheats/Player Has 99999 Points
 patch=1,EE,201B4FD0,extended,0001869F
 
-[Cheats/Opponent 1 Has 0 Points] 
+//Cheats/Opponent 1 Has 0 Points
 patch=1,EE,201B4FE8,extended,00000000
 
-[Cheats/Opponent 2 Has 0 Points] 
+//Cheats/Opponent 2 Has 0 Points
 patch=1,EE,201B4FE0,extended,00000000
 
-[Cheats/Opponent 3 Has 0 Points] 
+//Cheats/Opponent 3 Has 0 Points
 patch=1,EE,201B4FD8,extended,00000000

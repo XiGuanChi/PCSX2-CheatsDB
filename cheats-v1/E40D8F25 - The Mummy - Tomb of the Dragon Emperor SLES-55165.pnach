@@ -1,54 +1,54 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20191AA8,extended,C62206B4
 patch=1,EE,20191AB4,extended,E62206B0
 
-[Cheats/Infinite Health Partner Press L3+R3] 
+//Cheats/Infinite Health Partner Press L3+R3
 patch=1,EE,201FDE6C,extended,8C420000
 patch=1,EE,D039C2C0,extended,0000FFF9
 patch=1,EE,201FDE6C,extended,AC420000
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,200A0000,extended,C60006B4
 patch=1,EE,200A0004,extended,E60006B0
 patch=1,EE,200A0008,extended,0807228F
 patch=1,EE,201C8AD0,extended,08028000
 
-[Cheats/Infinite Ammo 99] 
+//Cheats/Infinite Ammo 99
 patch=1,EE,201B5534,extended,24020063
 patch=1,EE,201B5538,extended,03E00008
 patch=1,EE,201B553C,extended,AC8209A0
 
-[Cheats/Always Have Hp Gain Active] 
+//Cheats/Always Have Hp Gain Active
 patch=1,EE,201B3DFC,extended,E60306B8
 
-[Cheats/1 Hit Kill Enemy] 
+//Cheats/1 Hit Kill Enemy
 patch=1,EE,200A0010,extended,AE0006B0
 patch=1,EE,200A0014,extended,0804EAC5
 patch=1,EE,2013AC40,extended,08028004
 
-[Cheats/Never Reload With Max Clip] 
+//Cheats/Never Reload With Max Clip
 patch=1,EE,20144B90,extended,24020063
 
-[Cheats/Unlock Enable Cheats, Weapons, Gallery & Replay Levels] 
+//Cheats/Unlock Enable Cheats, Weapons, Gallery & Replay Levels
 patch=1,EE,003BFAD8,extended,00000001
 
-[Cheats/Activate Cheat 1 Hit Kill Enemy] 
+//Cheats/Activate Cheat 1 Hit Kill Enemy
 patch=1,EE,003BFAD4,extended,00000001
 
-[Cheats/Activate Cheat Infinite Ammo For All Weapons] 
+//Cheats/Activate Cheat Infinite Ammo For All Weapons
 patch=1,EE,003BFAD5,extended,00000001
 
-[Cheats/Activate Cheat Infinite Small Ammo] 
+//Cheats/Activate Cheat Infinite Small Ammo
 patch=1,EE,003BFADA,extended,00000001
 
-[Cheats/Activate Cheat Infinite Large Ammo] 
+//Cheats/Activate Cheat Infinite Large Ammo
 patch=1,EE,003BFADC,extended,00000001
 
-[Cheats/Activate Cheat Infinite Shotgun Ammo] 
+//Cheats/Activate Cheat Infinite Shotgun Ammo
 patch=1,EE,003BFADB,extended,00000001
 
-[Cheats/Activate Cheat Infinite Grenades] 
+//Cheats/Activate Cheat Infinite Grenades
 patch=1,EE,003BFADD,extended,00000001
 
-[Cheats/Enable Debug Menu] 
+//Cheats/Enable Debug Menu
 patch=1,EE,003BFAE4,extended,00000001

@@ -1,4 +1,4 @@
-[Cheats/L3 for Debug Menu, R3 to Disable] 
+//Cheats/L3 for Debug Menu, R3 to Disable
 patch=1,EE,D01F2F02,extended,0000FFFD
 patch=1,EE,201B8288,extended,24110001
 patch=1,EE,D01F2F02,extended,0000FFFB

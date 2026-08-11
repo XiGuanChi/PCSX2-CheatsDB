@@ -1,15 +1,15 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,104F8F62,extended,0000270F
 
-[Cheats/Player 1 First Character Infinite Health] 
+//Cheats/Player 1 First Character Infinite Health
 patch=1,EE,204F34B4,extended,00000090
 
-[Cheats/Player 1 2nd Character Infinite Health] 
+//Cheats/Player 1 2nd Character Infinite Health
 patch=1,EE,204F4024,extended,00000090
 
-[Cheats/Player 1 3rd Character Infinite Health] 
+//Cheats/Player 1 3rd Character Infinite Health
 patch=1,EE,204F4B94,extended,00000090
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,204F5300,extended,FFFFFFFF
 patch=1,EE,204F5304,extended,FFFFFFFF

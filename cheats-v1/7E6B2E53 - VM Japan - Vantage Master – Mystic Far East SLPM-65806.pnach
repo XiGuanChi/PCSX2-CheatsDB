@@ -1,3 +1,3 @@
-[Cheats/Debug Buttons Press Square then Triangle at the Press Start Button screen will toggle a debug menu flag. Once the buttons are pressed, press Select while at the main menu to enter the debug menu.Sound Debug, Vibration, Memory Card, Visual Scene, Mini Game, Debug Flag, End] 
+//Cheats/Debug Buttons Press Square then Triangle at the Press Start Button screen will toggle a debug menu flag. Once the buttons are pressed, press Select while at the main menu to enter the debug menu.Sound Debug, Vibration, Memory Card, Visual Scene, Mini Game, Debug Flag, End
 patch=1,EE,D0786EA8,extended,00000013
 patch=1,EE,20786EA8,extended,00000000

@@ -1,19 +1,19 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,21FDC140,extended,05F5E0FF
 patch=1,EE,21FDB084,extended,05F5E0FF
 
-[Cheats/Oscar Invincible Always On] 
+//Cheats/Oscar Invincible Always On
 patch=1,EE,20334C20,extended,00000001
 
-[Cheats/Enable Debug Menu Press L2+R2 To Open Close] 
+//Cheats/Enable Debug Menu Press L2+R2 To Open Close
 patch=1,EE,20334C0C,extended,00000001
 
-[Cheats/Debug Menu On Press L1+L2 in game] 
+//Cheats/Debug Menu On Press L1+L2 in game
 patch=1,EE,D13836C2,extended,0000FAFF
 patch=1,EE,20342810,extended,00000001
 
 
-[Cheats/Debug Menu Off Press R1+R2 in game]  
+//Cheats/Debug Menu Off Press R1+R2 in game
 patch=1,EE,D13836C2,extended,0000F5FF
 patch=1,EE,20342810,extended,00000000
 

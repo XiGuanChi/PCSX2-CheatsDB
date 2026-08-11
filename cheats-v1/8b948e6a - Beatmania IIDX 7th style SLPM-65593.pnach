@@ -1,10 +1,10 @@
-[Cheats/Max Gauge] 
+//Cheats/Max Gauge
 patch=1,EE,20148DA4,extended,20010000
 
-[Cheats/Max Gauge Master Mode] 
+//Cheats/Max Gauge Master Mode
 patch=1,EE,20148C60,extended,0003082A
 
-[Cheats/Unlock All Gallery] 
+//Cheats/Unlock All Gallery
 patch=1,EE,2113E610,extended,FFFFFFFF
 patch=1,EE,2113E614,extended,00001FFF
 patch=1,EE,2113E618,extended,00000000

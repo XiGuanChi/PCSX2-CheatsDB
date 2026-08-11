@@ -1,41 +1,41 @@
-[Cheats/Infinite Gold] 
+//Cheats/Infinite Gold
 patch=1,EE,10413FCC,extended,0000FFFF
 
-[Cheats/Max Gold] 
+//Cheats/Max Gold
 patch=1,EE,20413FCC,extended,05F5E0FF
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2041403C,extended,00001388
 
-[Cheats/Infinite Air] 
+//Cheats/Infinite Air
 patch=1,EE,2041404C,extended,00001388
 patch=1,EE,20414050,extended,00001388
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,10414034,extended,000003E7
 
-[Cheats/Infinite MP] 
+//Cheats/Infinite MP
 patch=1,EE,10414038,extended,000003E7
 
-[Cheats/Max Physical] 
+//Cheats/Max Physical
 patch=1,EE,10413FA8,extended,000003E7
 
-[Cheats/Max Magical] 
+//Cheats/Max Magical
 patch=1,EE,10413FAC,extended,000003E7
 
-[Cheats/Quick Level Gain] 
+//Cheats/Quick Level Gain
 patch=1,EE,10413FD0,extended,0000FFFF
 
-[Cheats/Max Exp] 
+//Cheats/Max Exp
 patch=1,EE,10413FD0,extended,05F5E0FF
 
-[Cheats/Level 99] 
+//Cheats/Level 99
 patch=1,EE,10413FD4,extended,00000063
 
-[Cheats/Max HP] 
+//Cheats/Max HP
 patch=1,EE,10413FD8,extended,000003E7
 
-[Cheats/Max MP] 
+//Cheats/Max MP
 patch=1,EE,10413FDC,extended,000003E7
 
 

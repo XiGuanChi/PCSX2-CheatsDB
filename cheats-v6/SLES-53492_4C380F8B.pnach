@@ -1,15 +1,15 @@
 gametitle=Total Overdose SLES-53492 4C380F8B
 
-[Infinite Health]
+//Infinite Health
 author=GamingDragon93
 patch=1,EE,2026E53C,extended,44800800
 patch=1,EE,2026E558,extended,44800000
 
-[Infinite Adrenaline]
+//Infinite Adrenaline
 author=GamingDragon93
 patch=1,EE,2026DA90,extended,44800800
 
-[Infinite Ammo]
+//Infinite Ammo
 author=GamingDragon93
 patch=1,EE,200FFF00,extended,8C620068
 patch=1,EE,200FFF04,extended,AC620064

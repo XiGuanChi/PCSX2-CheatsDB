@@ -1,13 +1,13 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,20a6e9f4,extended,00989680
 
-[Cheats/Infinite Speedbreaker] 
+//Cheats/Infinite Speedbreaker
 patch=1,EE,204226d8,extended,e601010c
 
-[Cheats/Infinite Nitro] 
+//Cheats/Infinite Nitro
 patch=1,EE,203e4dfc,extended,e6220180
 
-[Cheats/Unlock All 6 Cheats Activated] 
+//Cheats/Unlock All 6 Cheats Activated
 patch=1,EE,0061271c,extended,00000001
 patch=1,EE,00612758,extended,00000001
 patch=1,EE,00612794,extended,00000001
@@ -15,7 +15,7 @@ patch=1,EE,006127d0,extended,00000001
 patch=1,EE,0061280c,extended,00000001
 patch=1,EE,00612848,extended,00000001
 
-[Cheats/Unlock All Challenges Complete] 
+//Cheats/Unlock All Challenges Complete
 patch=1,EE,200C0230,extended,00300825
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,AC410004

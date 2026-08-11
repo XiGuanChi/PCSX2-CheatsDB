@@ -1,10 +1,10 @@
-[Cheats/Unlock All Art Gallery] 
+//Cheats/Unlock All Art Gallery
 patch=1,EE,403E20B0,extended,00500001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Memorial] 
+//Cheats/Unlock All Memorial
 patch=1,EE,403DE0B4,extended,00220001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Enable Debug Mode A debug menu can then be opened with L3 button] 
+//Cheats/Enable Debug Mode A debug menu can then be opened with L3 button
 patch=1,EE,0020BE72,extended,00000001

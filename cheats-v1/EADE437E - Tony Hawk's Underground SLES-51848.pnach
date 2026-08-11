@@ -1,22 +1,22 @@
-[Cheats/Infinite Special] 
+//Cheats/Infinite Special
 patch=1,EE,202369AC,extended,24020C00
 patch=1,EE,202369B0,extended,AE220068
 patch=1,EE,202369B8,extended,24020001
 patch=1,EE,202369BC,extended,AE22006C
 
-[Cheats/Max Infinite Run] 
+//Cheats/Max Infinite Run
 patch=1,EE,2099B1C4,extended,4F000000
 
-[Cheats/Max Ollie] 
+//Cheats/Max Ollie
 patch=1,EE,2099B1C8,extended,43800000
 
-[Cheats/Max Speed] 
+//Cheats/Max Speed
 patch=1,EE,2099B1CC,extended,42800000
 
-[Cheats/Max Spin] 
+//Cheats/Max Spin
 patch=1,EE,2099B1D0,extended,43400000
 
-[Cheats/Max Other Stats] 
+//Cheats/Max Other Stats
 patch=1,EE,2099B1C0,extended,44000000
 patch=1,EE,2099B1D4,extended,44000000
 patch=1,EE,2099B1D8,extended,44000000
@@ -24,8 +24,8 @@ patch=1,EE,2099B1DC,extended,44000000
 patch=1,EE,2099B1E0,extended,44000000
 patch=1,EE,2099B1E4,extended,44000000
 
-[Cheats/Infinite Goal Time] 
+//Cheats/Infinite Goal Time
 patch=1,EE,2024452C,extended,24030001
 
-[Cheats/Max Score 999999] 
+//Cheats/Max Score 999999
 patch=1,EE,2099B9F4,extended,000F423F

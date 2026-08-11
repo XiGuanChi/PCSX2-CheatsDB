@@ -1,18 +1,18 @@
-[Cheats/Unlock All BGM]  
+//Cheats/Unlock All BGM
 patch=1,EE,202A2E90,extended,FFFFFFFF
 
-[Cheats/Unlock All CG]  
+//Cheats/Unlock All CG
 patch=1,EE,402A1590,extended,00080001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,402A15CC,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,202A2EF0,extended,01010101
 patch=1,EE,202A2EF4,extended,01010101
 patch=1,EE,102A2EF8,extended,00000101
 
-[Cheats/Unlock All Bonuses Other Than Event CG and SDCG] 
+//Cheats/Unlock All Bonuses Other Than Event CG and SDCG
 patch=1,EE,202A2E90,extended,FFFFFFFF
 patch=1,EE,202A2E94,extended,FFFFFFFF
 patch=1,EE,202A2E98,extended,FFFFFFFF
@@ -21,7 +21,7 @@ patch=1,EE,202A2EF0,extended,01010101
 patch=1,EE,002A2EF4,extended,00000001
 patch=1,EE,002A2EF9,extended,00000001
 
-[Cheats/Unlock All Event CG and SDCG In CG Mode Viewing] 
+//Cheats/Unlock All Event CG and SDCG In CG Mode Viewing
 patch=1,EE,201AD48C,extended,240100FF
 patch=1,EE,201AD490,extended,A0610000
 patch=1,EE,201AD494,extended,24020001

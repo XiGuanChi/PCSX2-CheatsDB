@@ -1,99 +1,99 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,2031EA68,extended,00A0082A
 patch=1,EE,2031EAA8,extended,00A0082A
 
-[Cheats/Max Capability HP when unit level up] 
+//Cheats/Max Capability HP when unit level up
 patch=1,EE,203250FC,extended,3C020002
 patch=1,EE,2032514C,extended,3C020002
 
-[Cheats/Max Capability EP when unit level up] 
+//Cheats/Max Capability EP when unit level up
 patch=1,EE,2032510C,extended,240203E7
 patch=1,EE,2032515C,extended,240203E7
 
-[Cheats/Max Capability Attack Power when unit level up]  
+//Cheats/Max Capability Attack Power when unit level up
 patch=1,EE,2032511C,extended,240203E7
 
-[Cheats/Max Capability Defense Power when unit level up] 
+//Cheats/Max Capability Defense Power when unit level up
 patch=1,EE,2032512C,extended,240203E7
 
-[Cheats/Max Capability Mobility when unit level up] 
+//Cheats/Max Capability Mobility when unit level up
 patch=1,EE,2032513C,extended,240203E7
 
-[Cheats/Ability Up Distribution Points Are Not Reduced] 
+//Cheats/Ability Up Distribution Points Are Not Reduced
 patch=1,EE,202B35AC,extended,24030000
 patch=1,EE,202B37C8,extended,00000000
 patch=1,EE,202B3824,extended,00000000
 
-[Cheats/Character Acquisition Experience Value 128 Times] 
+//Cheats/Character Acquisition Experience Value 128 Times
 patch=1,EE,2031B1E4,extended,000581C0
 
-[Cheats/Character Battle And MP 999 The guest unit has no effect] 
+//Cheats/Character Battle And MP 999 The guest unit has no effect
 patch=1,EE,2031B410,extended,0C03CC40
 patch=1,EE,200F3100,extended,240303E7
 patch=1,EE,200F3104,extended,A6230014
 patch=1,EE,200F3108,extended,080C7324
 
-[Cheats/Infinite Action Possible] 
+//Cheats/Infinite Action Possible
 patch=1,EE,2022AC50,extended,24020001
 patch=1,EE,2022AC5C,extended,A2420018
 
-[Cheats/Max Attacks and Attacks Max When Singing] 
+//Cheats/Max Attacks and Attacks Max When Singing
 patch=1,EE,2031B028,extended,24030101
 
-[Cheats/Max Shooting When Increasing The Character Ability Value] 
+//Cheats/Max Shooting When Increasing The Character Ability Value
 patch=1,EE,2031B498,extended,24030063
 
-[Cheats/Max Fighting When Increasing The Character Ability Value] 
+//Cheats/Max Fighting When Increasing The Character Ability Value
 patch=1,EE,2031B4D4,extended,24030063
 
-[Cheats/Max Response When Increasing The Character Ability Value]  
+//Cheats/Max Response When Increasing The Character Ability Value
 patch=1,EE,2031B510,extended,24030063
 
-[Cheats/Max Defense When Increasing The Character Ability Value]  
+//Cheats/Max Defense When Increasing The Character Ability Value
 patch=1,EE,2031B54C,extended,24030063
 
-[Cheats/Max Awakening When Increasing The Character Ability Value]
+//Cheats/Max Awakening When Increasing The Character Ability Value
 patch=1,EE,2031B5A0,extended,24030064
 
-[Cheats/Max Charm When Increasing The Character Ability Value] 
+//Cheats/Max Charm When Increasing The Character Ability Value
 patch=1,EE,2031B5CC,extended,24030064
 
-[Cheats/Max Ace Points at character development] 
+//Cheats/Max Ace Points at character development
 patch=1,EE,2031D130,extended,3C020098
 patch=1,EE,2031D134,extended,3442967F
 patch=1,EE,2031D138,extended,AC820018
 
-[Cheats/No Unit Development Level Limit] 
+//Cheats/No Unit Development Level Limit
 patch=1,EE,2040BAD8,extended,00000000
 
-[Cheats/Can Produce All Units] 
+//Cheats/Can Produce All Units
 patch=1,EE,2046069C,extended,24020001
 patch=1,EE,204606A4,extended,A2620006
 
-[Cheats/All MS In Shop] 
+//Cheats/All MS In Shop
 patch=1,EE,20460698,extended,34020001
 patch=1,EE,2046069C,extended,A2620006
 
-[Cheats/Infinite EN] 
+//Cheats/Infinite EN
 patch=1,EE,2037D538,extended,00000000
 
-[Cheats/9999999 ACE Points] 
+//Cheats/9999999 ACE Points
 patch=1,EE,205063B4,extended,14000004
 patch=1,EE,2050642C,extended,14000004
 patch=1,EE,205064D4,extended,14000004
 
-[Cheats/All Option Parts] 
+//Cheats/All Option Parts
 patch=1,EE,20621508,extended,34010007
 patch=1,EE,2062150C,extended,A041000C
 patch=1,EE,20621510,extended,24220000
 
-[Cheats/Max Unit EXP]  
+//Cheats/Max Unit EXP
 patch=1,EE,20501B10,extended,00112980
 
-[Cheats/Max Pilot EXP]  
+//Cheats/Max Pilot EXP
 patch=1,EE,2031B1FC,extended,00101980
 
-[Cheats/Unlock All Optional Parts Can Be Purchased If there is no effect, please browse the list] 
+//Cheats/Unlock All Optional Parts Can Be Purchased If there is no effect, please browse the list
 patch=1,EE,20620B60,extended,24030007
 patch=1,EE,20620B64,extended,A043000C
 
@@ -105,7 +105,7 @@ patch=1,EE,2032A344,extended,00430821
 patch=1,EE,2032A34C,extended,24020001
 patch=1,EE,2032A358,extended,A0220000
 
-[Cheats/Unlock All Gallery, Movie & Battle Demo Browsed When Opened] 
+//Cheats/Unlock All Gallery, Movie & Battle Demo Browsed When Opened
 patch=1,EE,2031ECB0,extended,240200FF
 patch=1,EE,2031ECB4,extended,03E00008
 patch=1,EE,2031ECB8,extended,A0820009

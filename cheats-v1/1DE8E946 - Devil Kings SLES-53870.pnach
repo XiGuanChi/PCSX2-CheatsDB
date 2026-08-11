@@ -1,36 +1,36 @@
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,217F8F4C,extended,00013880
 patch=1,EE,217F8F54,extended,00013880
 
-[Cheats/Infinite Fury] 
+//Cheats/Infinite Fury
 patch=1,EE,217F9EE4,extended,00004E20
 
-[Cheats/Max GP] 
+//Cheats/Max GP
 patch=1,EE,40591228,extended,000F0078
 patch=1,EE,0000FFFF,extended,00000000
 
-[Cheats/Max Attack 999] 
+//Cheats/Max Attack 999
 patch=1,EE,4059122C,extended,000F0078
 patch=1,EE,000003E7,extended,00000000
 
-[Cheats/Max Defense 999] 
+//Cheats/Max Defense 999
 patch=1,EE,40591230,extended,000F0078
 patch=1,EE,000003E7,extended,00000000
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,40590C10,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,20590C4C,extended,FFFFFFFF
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,20590C58,extended,FFFFFFFF
 
-[Cheats/Unlock All Music] 
+//Cheats/Unlock All Music
 patch=1,EE,20590C50,extended,FFFFFFFF
 patch=1,EE,20590C54,extended,FFFFFFFF
 
-[Cheats/Unlock All Land] 
+//Cheats/Unlock All Land
 patch=1,EE,20590BE8,extended,FFFFFFFF
 
-[Cheats/Unlock All Generals] 
+//Cheats/Unlock All Generals
 patch=1,EE,20590BE4,extended,FFFFFFFF

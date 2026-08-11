@@ -1,16 +1,16 @@
-[Cheats/Unlock Enable Omake] 
+//Cheats/Unlock Enable Omake
 patch=1,EE,0053DF0C,extended,00000001
 
-[Cheats/Unlock All Bonus]  
+//Cheats/Unlock All Bonus
 patch=1,EE,4048295D,extended,001B0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,0048294A,extended,000000FF
 patch=1,EE,004831AD,extended,00000004
 
-[Cheats/Unlock All Chapters] 
+//Cheats/Unlock All Chapters
 patch=1,EE,104831AC,extended,000003E8
 
-[Cheats/R1+Circle for Unknown Short Story or L1+Circle for Story 01 Nozomi] 
+//Cheats/R1+Circle for Unknown Short Story or L1+Circle for Story 01 Nozomi
 patch=1,EE,E003D7FF,extended,0046A97E
 patch=1,EE,10483BB6,extended,0000001D
 patch=1,EE,00483C1E,extended,00000000
@@ -20,12 +20,12 @@ patch=1,EE,10483BB6,extended,0000001E
 patch=1,EE,00483C1E,extended,00000000
 patch=1,EE,00483C25,extended,00000000
 
-[Cheats/Replace Omake Mode Final With SANARARA Short Story press and hold one of the desired buttons while entering Start from the main menu or starting any other game mode. With Replace Omake Mode Final With SANARARA Short Story on, enter the ?Omake Mode Final option to start SANARARA Short Story.] 
+//Cheats/Replace Omake Mode Final With SANARARA Short Story press and hold one of the desired buttons while entering Start from the main menu or starting any other game mode. With Replace Omake Mode Final With SANARARA Short Story on, enter the ?Omake Mode Final option to start SANARARA Short Story.
 patch=1,EE,00161ED0,extended,0000000E
 
-[Cheats/Unlock All SANARARA Story: 01 Nozomi Routes] 
+//Cheats/Unlock All SANARARA Story: 01 Nozomi Routes
 patch=1,EE,104831AE,extended,0000000F
 
-[Cheats/Unlock All SANARARA Short Story Routes] 
+//Cheats/Unlock All SANARARA Short Story Routes
 patch=1,EE,004831B0,extended,00000007
 

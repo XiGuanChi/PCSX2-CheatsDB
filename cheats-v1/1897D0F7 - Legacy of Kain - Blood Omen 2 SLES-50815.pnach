@@ -1,30 +1,30 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20220D64,extended,00000000
 patch=1,EE,20220D6C,extended,3C0143C8
 patch=1,EE,20220D70,extended,44816000
 patch=1,EE,20220D98,extended,E44C0010
 patch=1,EE,20220DC0,extended,00000000
 
-[Cheats/Infinite Rage] 
+//Cheats/Infinite Rage
 patch=1,EE,20220BA4,extended,00000000
 patch=1,EE,20220CEC,extended,C68C0024
 patch=1,EE,20220D10,extended,C68C0024
 patch=1,EE,20220D24,extended,E68C0020
 patch=1,EE,202203C8,extended,00000000
 
-[Cheats/Unbreakable Weapons]
+//Cheats/Unbreakable Weapons
 patch=1,EE,20205460,extended,00000000
 patch=1,EE,20205470,extended,AC400004
 patch=1,EE,20205494,extended,00000000
 
-[Cheats/One Hit Kill Baddies] 
+//Cheats/One Hit Kill Baddies
 patch=1,EE,202728AC,extended,3C013F80
 patch=1,EE,202728B4,extended,AC410068
 
-[Cheats/No Collision With Baddies Weapons] 
+//Cheats/No Collision With Baddies Weapons
 patch=1,EE,201C9810,extended,03E00008
 patch=1,EE,201C9814,extended,00000000
 
-[Cheats/Disable AI] 
+//Cheats/Disable AI
 patch=1,EE,2026EEB8,extended,24020001
 patch=1,EE,2026BF64,extended,24020001

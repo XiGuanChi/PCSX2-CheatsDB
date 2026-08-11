@@ -1,26 +1,26 @@
-[Cheats/Max Coins 9999] 
+//Cheats/Max Coins 9999
 patch=1,EE,2026FC64,extended,240D270F
 patch=1,EE,2026FC80,extended,00000000
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2026FBDC,extended,00000000
 
-[Cheats/Invulnerable] 
+//Cheats/Invulnerable
 patch=1,EE,2034522C,extended,240F0040
  
-[Cheats/Infinites Lives] 
+//Cheats/Infinites Lives
 patch=1,EE,20649CD4,extended,00000063
 
-[Cheats/Infinites Morph Gauge]  
+//Cheats/Infinites Morph Gauge
 patch=1,EE,20324064,extended,00000000
 
-[Cheats/Apes Don't Move When Get Allarmed Activate Press L3+R3 Deactivate L3] 
+//Cheats/Apes Don't Move When Get Allarmed Activate Press L3+R3 Deactivate L3
 patch=1,EE,D0784D5C,extended,0000FFF9
 patch=1,EE,2055BFC8,extended,10000011
 patch=1,EE,D0784D5C,extended,0000FFFD
 patch=1,EE,2055BFC8,extended,10400011
 
-[Cheats/Unlock All Gadgets]  
+//Cheats/Unlock All Gadgets
 patch=1,EE,20649D18,extended,00000002
 patch=1,EE,20649D1C,extended,00000002
 patch=1,EE,20649D20,extended,00000002
@@ -31,23 +31,23 @@ patch=1,EE,20649D30,extended,00000002
 patch=1,EE,20649D34,extended,00000002
 patch=1,EE,20649D38,extended,00000002
   
-[Cheats/Unlock All Levels,  round 2 level as the very last level It's an empty space] 
+//Cheats/Unlock All Levels,  round 2 level as the very last level It's an empty space
 patch=1,EE,2074032C,extended,0000001C
  
-[Cheats/Unlock All Concept Art] 
+//Cheats/Unlock All Concept Art
 patch=1,EE,40649FF4,extended,00070001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,1064A010,extended,00000101
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,4064A0BC,extended,00070001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Music] 
+//Cheats/Unlock All Music
 patch=1,EE,4064A084,extended,000D0001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Secrret Photos] 
+//Cheats/Unlock All Secrret Photos
 patch=1,EE,4064A028,extended,00070001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,1064A026,extended,00000101

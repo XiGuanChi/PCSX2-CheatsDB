@@ -1,270 +1,270 @@
-[Cheats/Start Driving Before Race Starts] 
+//Cheats/Start Driving Before Race Starts
 patch=1,EE,104A15B0,extended,00000001
 patch=1,EE,104CA430,extended,00000001
 
-[Cheats/Have All Tracks Quick Race] 
+//Cheats/Have All Tracks Quick Race
 patch=1,EE,203BA154,extended,000000FF
 
-[Cheats/Play Basic Medal Challenge For Gold Medal Ferrari] 
+//Cheats/Play Basic Medal Challenge For Gold Medal Ferrari
 patch=1,EE,203BB4DC,extended,00000002
 
-[Cheats/Play Basic Medal Challenge For Gold Medal McLaren] 
+//Cheats/Play Basic Medal Challenge For Gold Medal McLaren
 patch=1,EE,203BB4E0,extended,00000002
 
-[Cheats/Play Basic Medal Challenge For Gold Medal Williams] 
+//Cheats/Play Basic Medal Challenge For Gold Medal Williams
 patch=1,EE,203BB4E4,extended,00000002
 
-[Cheats/Play Basic Medal Challenge For Gold Medal Sauber] 
+//Cheats/Play Basic Medal Challenge For Gold Medal Sauber
 patch=1,EE,203BB4E8,extended,00000002
 
-[Cheats/Play Basic Medal Challenge For Gold Medal Jordan] 
+//Cheats/Play Basic Medal Challenge For Gold Medal Jordan
 patch=1,EE,203BB4EC,extended,00000002
 
-[Cheats/Play Basic Medal Challenge For Gold Medal BAR] 
+//Cheats/Play Basic Medal Challenge For Gold Medal BAR
 patch=1,EE,203BB4F0,extended,00000002
 
-[Cheats/Play Basic Medal Challenge For Gold Medal Jaguar] 
+//Cheats/Play Basic Medal Challenge For Gold Medal Jaguar
 patch=1,EE,203BB4F4,extended,00000002
 
-[Cheats/Play Basic Medal Challenge For Gold Medal Renault] 
+//Cheats/Play Basic Medal Challenge For Gold Medal Renault
 patch=1,EE,203BB4F8,extended,00000002
 
-[Cheats/Play Basic Medal Challenge For Gold Medal Arrows] 
+//Cheats/Play Basic Medal Challenge For Gold Medal Arrows
 patch=1,EE,203BB4FC,extended,00000002
 
-[Cheats/Play Basic Medal Challenge For Gold Medal Minardi] 
+//Cheats/Play Basic Medal Challenge For Gold Medal Minardi
 patch=1,EE,203BB500,extended,00000002
 
-[Cheats/Play Basic Medal Challenge For Gold Medal Toyota] 
+//Cheats/Play Basic Medal Challenge For Gold Medal Toyota
 patch=1,EE,203BB504,extended,00000002
 
-[Cheats/Play Advanced Challenge For Gold Medal Ferrari] 
+//Cheats/Play Advanced Challenge For Gold Medal Ferrari
 patch=1,EE,203BB510,extended,00000002
 
-[Cheats/Play Advanced Challenge For Gold Medal McLaren] 
+//Cheats/Play Advanced Challenge For Gold Medal McLaren
 patch=1,EE,203BB514,extended,00000002
 
-[Cheats/Play Advanced Challenge For Gold Medal Williams] 
+//Cheats/Play Advanced Challenge For Gold Medal Williams
 patch=1,EE,203BB518,extended,00000002
 
-[Cheats/Play Advanced Challenge For Gold Medal Sauber] 
+//Cheats/Play Advanced Challenge For Gold Medal Sauber
 patch=1,EE,203BB51C,extended,00000002
 
-[Cheats/Play Advanced Challenge For Gold Medal Jordan] 
+//Cheats/Play Advanced Challenge For Gold Medal Jordan
 patch=1,EE,203BB520,extended,00000002
 
-[Cheats/Play Advanced Challenge For Gold Medal BAR] 
+//Cheats/Play Advanced Challenge For Gold Medal BAR
 patch=1,EE,203BB524,extended,00000002
 
-[Cheats/Play Advanced Challenge For Gold Medal Jaguar] 
+//Cheats/Play Advanced Challenge For Gold Medal Jaguar
 patch=1,EE,203BB528,extended,00000002
 
-[Cheats/Play Advanced Challenge For Gold Medal Renault] 
+//Cheats/Play Advanced Challenge For Gold Medal Renault
 patch=1,EE,203BB52C,extended,00000002
 
-[Cheats/Play Advanced Challenge For Gold Medal Arrows] 
+//Cheats/Play Advanced Challenge For Gold Medal Arrows
 patch=1,EE,203BB530,extended,00000002
 
-[Cheats/Play Advanced Challenge For Gold Medal Minardi] 
+//Cheats/Play Advanced Challenge For Gold Medal Minardi
 patch=1,EE,203BB534,extended,00000002
 
-[Cheats/Play Advanced Challenge For Gold Medal Toyota] 
+//Cheats/Play Advanced Challenge For Gold Medal Toyota
 patch=1,EE,203BB538,extended,00000002
 
-[Cheats/Have Toyota Cards Duration] 
+//Cheats/Have Toyota Cards Duration
 patch=1,EE,203BB634,extended,00000001
 
-[Cheats/Have Toyota Cards Racing] 
+//Cheats/Have Toyota Cards Racing
 patch=1,EE,203BB638,extended,00000001
 
-[Cheats/Have Toyota Cards Milestone] 
+//Cheats/Have Toyota Cards Milestone
 patch=1,EE,203BB63C,extended,00000001
 
-[Cheats/Have Toyota Cards Team Dual] 
+//Cheats/Have Toyota Cards Team Dual
 patch=1,EE,203BB640,extended,00000001
 
-[Cheats/Have Toyota Cards Basic Challenge] 
+//Cheats/Have Toyota Cards Basic Challenge
 patch=1,EE,203BB644,extended,00000001
 
-[Cheats/Have Toyota Cards Advanced Challenge] 
+//Cheats/Have Toyota Cards Advanced Challenge
 patch=1,EE,203BB648,extended,00000001
 
-[Cheats/Have Minardi Card Duration] 
+//Cheats/Have Minardi Card Duration
 patch=1,EE,203BB664,extended,00000001
 
-[Cheats/Have Minardi Card Racing] 
+//Cheats/Have Minardi Card Racing
 patch=1,EE,203BB668,extended,00000001
 
-[Cheats/Have Minardi Card Milestone] 
+//Cheats/Have Minardi Card Milestone
 patch=1,EE,203BB66C,extended,00000001
 
-[Cheats/Have Minardi Card Team Dual] 
+//Cheats/Have Minardi Card Team Dual
 patch=1,EE,203BB670,extended,00000001
 
-[Cheats/Have Minardi Card Basic Challenge] 
+//Cheats/Have Minardi Card Basic Challenge
 patch=1,EE,203BB674,extended,00000001
 
-[Cheats/Have Minardi Card Advanced Challenge] 
+//Cheats/Have Minardi Card Advanced Challenge
 patch=1,EE,203BB678,extended,00000001
 
-[Cheats/Have Arrows Card Duration] 
+//Cheats/Have Arrows Card Duration
 patch=1,EE,203BB67C,extended,00000001
 
-[Cheats/Have Arrows Card Racing] 
+//Cheats/Have Arrows Card Racing
 patch=1,EE,203BB680,extended,00000001
 
-[Cheats/Have Arrows Card Milestone] 
+//Cheats/Have Arrows Card Milestone
 patch=1,EE,203BB684,extended,00000001
 
-[Cheats/Have Arrows Card Team Dual] 
+//Cheats/Have Arrows Card Team Dual
 patch=1,EE,203BB688,extended,00000001
 
-[Cheats/Have Arrows Card Basic Challenge] 
+//Cheats/Have Arrows Card Basic Challenge
 patch=1,EE,203BB68C,extended,00000001
 
-[Cheats/Have Arrows Card Advanced Challenge] 
+//Cheats/Have Arrows Card Advanced Challenge
 patch=1,EE,203BB690,extended,00000001
 
-[Cheats/Have Sauber Card Duration] 
+//Cheats/Have Sauber Card Duration
 patch=1,EE,203BB694,extended,00000001
 
-[Cheats/Have Sauber Card Racing] 
+//Cheats/Have Sauber Card Racing
 patch=1,EE,203BB698,extended,00000001
 
-[Cheats/Have Sauber Card Milestone] 
+//Cheats/Have Sauber Card Milestone
 patch=1,EE,203BB69C,extended,00000001
 
-[Cheats/Have Sauber Card Team Dual] 
+//Cheats/Have Sauber Card Team Dual
 patch=1,EE,203BB6A0,extended,00000001
 
-[Cheats/Have Sauber Card Basic Challenge] 
+//Cheats/Have Sauber Card Basic Challenge
 patch=1,EE,203BB6A4,extended,00000001
 
-[Cheats/Have Sauber Card Advanced Challenge] 
+//Cheats/Have Sauber Card Advanced Challenge
 patch=1,EE,203BB6A8,extended,00000001
 
-[Cheats/Have BAR Card Duration] 
+//Cheats/Have BAR Card Duration
 patch=1,EE,203BB6AC,extended,00000001
 
-[Cheats/Have BAR Card Racing] 
+//Cheats/Have BAR Card Racing
 patch=1,EE,203BB6B0,extended,00000001
 
-[Cheats/Have BAR Card Milestone] 
+//Cheats/Have BAR Card Milestone
 patch=1,EE,203BB6B4,extended,00000001
 
-[Cheats/Have BAR Card Team Dual] 
+//Cheats/Have BAR Card Team Dual
 patch=1,EE,203BB6B8,extended,00000001
 
-[Cheats/Have BAR Card Basic Challenge] 
+//Cheats/Have BAR Card Basic Challenge
 patch=1,EE,203BB6BC,extended,00000001
 
-[Cheats/Have BAR Card Advanced Challenge] 
+//Cheats/Have BAR Card Advanced Challenge
 patch=1,EE,203BB6C0,extended,00000001
 
-[Cheats/Have Jaguar Card Duration] 
+//Cheats/Have Jaguar Card Duration
 patch=1,EE,203BB6C4,extended,00000001
 
-[Cheats/Have Jaguar Card Racing] 
+//Cheats/Have Jaguar Card Racing
 patch=1,EE,203BB6C8,extended,00000001
 
-[Cheats/Have Jaguar Card Milestone] 
+//Cheats/Have Jaguar Card Milestone
 patch=1,EE,203BB6CC,extended,00000001
 
-[Cheats/Have Jaguar Card Team Dual] 
+//Cheats/Have Jaguar Card Team Dual
 patch=1,EE,203BB6D0,extended,00000001
 
-[Cheats/Have Jaguar Card Basic Challenge] 
+//Cheats/Have Jaguar Card Basic Challenge
 patch=1,EE,203BB6D4,extended,00000001
 
-[Cheats/Have Jaguar Card Advanced Challenge] 
+//Cheats/Have Jaguar Card Advanced Challenge
 patch=1,EE,203BB6D8,extended,00000001
 
-[Cheats/Have Renault Card Duration] 
+//Cheats/Have Renault Card Duration
 patch=1,EE,203BB6DC,extended,00000001
 
-[Cheats/Have Renault Card Racing] 
+//Cheats/Have Renault Card Racing
 patch=1,EE,203BB6E0,extended,00000001
 
-[Cheats/Have Renault Card Milestone] 
+//Cheats/Have Renault Card Milestone
 patch=1,EE,203BB6E4,extended,00000001
 
-[Cheats/Have Renault Card Team Dual] 
+//Cheats/Have Renault Card Team Dual
 patch=1,EE,203BB6E8,extended,00000001
 
-[Cheats/Have Renault Card Basic Challenge] 
+//Cheats/Have Renault Card Basic Challenge
 patch=1,EE,203BB6EC,extended,00000001
 
-[Cheats/Have Renault Card Advanced Challenge] 
+//Cheats/Have Renault Card Advanced Challenge
 patch=1,EE,203BB6F0,extended,00000001
 
-[Cheats/Have Jordan Card Duration] 
+//Cheats/Have Jordan Card Duration
 patch=1,EE,203BB6F4,extended,00000001
 
-[Cheats/Have Jordan Card Racing] 
+//Cheats/Have Jordan Card Racing
 patch=1,EE,203BB6F8,extended,00000001
 
-[Cheats/Have Jordan Card Milestone] 
+//Cheats/Have Jordan Card Milestone
 patch=1,EE,203BB6FC,extended,00000001
 
-[Cheats/Have Jordan Card Team Dual] 
+//Cheats/Have Jordan Card Team Dual
 patch=1,EE,203BB700,extended,00000001
 
-[Cheats/Have Jordan Card Basic Challenge] 
+//Cheats/Have Jordan Card Basic Challenge
 patch=1,EE,203BB704,extended,00000001
 
-[Cheats/Have Jordan Card Advanced Challenge] 
+//Cheats/Have Jordan Card Advanced Challenge
 patch=1,EE,203BB708,extended,00000001
 
-[Cheats/Have Williams Card Duration] 
+//Cheats/Have Williams Card Duration
 patch=1,EE,203BB70C,extended,00000001
 
-[Cheats/Have Williams Card Racing] 
+//Cheats/Have Williams Card Racing
 patch=1,EE,203BB710,extended,00000001
 
-[Cheats/Have Williams Card Milestone] 
+//Cheats/Have Williams Card Milestone
 patch=1,EE,203BB714,extended,00000001
 
-[Cheats/Have Williams Card Team Dual] 
+//Cheats/Have Williams Card Team Dual
 patch=1,EE,203BB718,extended,00000001
 
-[Cheats/Have Williams Card Basic Challenge] 
+//Cheats/Have Williams Card Basic Challenge
 patch=1,EE,203BB71C,extended,00000001
 
-[Cheats/Have Williams Card Advanced Challenge] 
+//Cheats/Have Williams Card Advanced Challenge
 patch=1,EE,203BB720,extended,00000001
 
-[Cheats/Have McLaren Card Duration] 
+//Cheats/Have McLaren Card Duration
 patch=1,EE,203BB724,extended,00000001
 
-[Cheats/Have McLaren Card Racing] 
+//Cheats/Have McLaren Card Racing
 patch=1,EE,203BB728,extended,00000001
 
-[Cheats/Have McLaren Card Milestone] 
+//Cheats/Have McLaren Card Milestone
 patch=1,EE,203BB72C,extended,00000001
 
-[Cheats/Have McLaren Card Team Dual] 
+//Cheats/Have McLaren Card Team Dual
 patch=1,EE,203BB730,extended,00000001
 
-[Cheats/Have McLaren Card Basic Challenge] 
+//Cheats/Have McLaren Card Basic Challenge
 patch=1,EE,203BB734,extended,00000001
 
-[Cheats/Have McLaren Card Advanced Challenge] 
+//Cheats/Have McLaren Card Advanced Challenge
 patch=1,EE,203BB738,extended,00000001
 
-[Cheats/Have Ferrari Card Duration] 
+//Cheats/Have Ferrari Card Duration
 patch=1,EE,203BB73C,extended,00000001
 
-[Cheats/Have Ferrari Card Racing] 
+//Cheats/Have Ferrari Card Racing
 patch=1,EE,203BB740,extended,00000001
 
-[Cheats/Have Ferrari Card Milestone] 
+//Cheats/Have Ferrari Card Milestone
 patch=1,EE,203BB744,extended,00000001
 
-[Cheats/Have Ferrari Card Team Dual] 
+//Cheats/Have Ferrari Card Team Dual
 patch=1,EE,203BB748,extended,00000001
 
-[Cheats/Have Ferrari Card Basic Challenge] 
+//Cheats/Have Ferrari Card Basic Challenge
 patch=1,EE,203BB74C,extended,00000001
 
-[Cheats/Have Ferrari Card Advanced Challenge]
+//Cheats/Have Ferrari Card Advanced Challenge
 patch=1,EE,203BB750,extended,00000001

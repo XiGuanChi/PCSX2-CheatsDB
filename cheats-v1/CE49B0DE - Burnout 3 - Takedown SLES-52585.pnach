@@ -1,13 +1,13 @@
-[Cheats/Infinite Max Boost And Max Boost Meter] 
+//Cheats/Infinite Max Boost And Max Boost Meter
 patch=1,EE,0064E9EC,word,00000003
 patch=1,EE,0064E9F0,word,44340000
 patch=1,EE,0064E9F4,word,44340000
 patch=1,EE,0064EA00,word,00000000
 
-[Cheats/Infinite Boost On And Infinite Super-Boost] 
+//Cheats/Infinite Boost On And Infinite Super-Boost
 patch=0,EE,,0064EA0C,short,00000001
 
-[Cheats/No Car and Wall Crashs] 
+//Cheats/No Car and Wall Crashs
 patch=1,EE,001af498,word,3c023f80
 patch=0,EE,001af49c,word,44820000
 patch=0,EE,001af4a0,word,46000024
@@ -17,10 +17,10 @@ patch=0,EE,001af4bc,word,24030001
 patch=0,EE,002b94c4,word,46000830
 patch=0,EE,002b94c8,word,45010003
 
-[Cheats/No Damage in Road Rage Mode] 
+//Cheats/No Damage in Road Rage Mode
 patch=1,EE,00396348,word,24010000
 
-[Cheats/Unlock Hidden Development Menu In Extras Menu Unlock All Features and more] 
+//Cheats/Unlock Hidden Development Menu In Extras Menu Unlock All Features and more
 patch=1,EE,204E09F8,extended,00425750
 
 

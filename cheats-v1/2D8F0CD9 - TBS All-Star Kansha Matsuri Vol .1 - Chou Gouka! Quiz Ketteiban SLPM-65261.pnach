@@ -1,9 +1,9 @@
-[Cheats/Not reduced program mode right answer] 
+//Cheats/Not reduced program mode right answer
 patch=1,EE,201953D8,extended,00000001
 patch=1,EE,201953E0,extended,00000001
 
-[Cheats/Challenge mode clear time 0] 
+//Cheats/Challenge mode clear time 0
 patch=1,EE,201954B8,extended,00000000
 
-[Cheats/Correct number 500] 
+//Cheats/Correct number 500
 patch=1,EE,201954C0,extended,000001F4

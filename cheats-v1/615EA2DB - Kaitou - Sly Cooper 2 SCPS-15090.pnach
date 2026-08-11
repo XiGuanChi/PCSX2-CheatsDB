@@ -1,12 +1,12 @@
-[Cheats/Max Gold Coins]  
+//Cheats/Max Gold Coins
 patch=1,EE,203DE300,extended,0098967F
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,203DE2B0,extended,00000028
 
-[Cheats/Infinite Skill meter] 
+//Cheats/Infinite Skill meter
 patch=1,EE,203DE2B4,extended,00000064
 
-[Cheats/Unlock All Skills] 
+//Cheats/Unlock All Skills
 patch=1,EE,203DE2F8,extended,FFFFFFFF
 patch=1,EE,203DE2FC,extended,FFFFFFFF

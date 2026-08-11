@@ -1,13 +1,13 @@
-[Cheats/Combat required code] 
+//Cheats/Combat required code
 patch=1,EE,200F8000,extended,14A0003F
 patch=1,EE,200F80F0,extended,080883EC
 patch=1,EE,200F8200,extended,080883EC
 patch=1,EE,20249CDC,extended,0C03E000
 
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,20216050,extended,0272782A
 
-[Cheats/P1 Infinite Health L1+up] 
+//Cheats/P1 Infinite Health L1+up
 patch=1,EE,200F8000,extended,14A0003F
 patch=1,EE,200F80F0,extended,080883EC
 patch=1,EE,200F8200,extended,080883EC
@@ -18,72 +18,72 @@ patch=1,EE,200F801C,extended,AC4108E4
 patch=1,EE,D0342582,extended,0000FBBF
 patch=1,EE,200F801C,extended,00000000
 
-[Cheats/Infinite Health P1 L1+up ON L1+Down Off] 
+//Cheats/Infinite Health P1 L1+up ON L1+Down Off
 patch=1,EE,200F8018,extended,8C4108E8
 patch=1,EE,D0342582,extended,0000FBEF
 patch=1,EE,200F801C,extended,AC4108E4
 patch=1,EE,D0342582,extended,0000FBBF
 patch=1,EE,200F801C,extended,00000000
 
-[Cheats/L1+right button 2P Health 1] 
+//Cheats/L1+right button 2P Health 1
 patch=1,EE,200F8118,extended,24010001
 patch=1,EE,200F811C,extended,00000000
 patch=1,EE,D0342582,extended,0000FBDF
 patch=1,EE,200F811C,extended,AC4108E4
 
-[Cheats/Ultra Mode All stories rank S cleared] 
+//Cheats/Ultra Mode All stories rank S cleared
 patch=1,EE,203D6704,extended,05050505
 patch=1,EE,203D6708,extended,05050505
 patch=1,EE,203D670C,extended,05050505
 patch=1,EE,003D6710,extended,00000005
 
-[Cheats/Ultra Mode 100 mission points] 
+//Cheats/Ultra Mode 100 mission points
 patch=1,EE,103D673E,extended,00000101
 patch=1,EE,103D67A0,extended,00000101
 patch=1,EE,403D6740,extended,00180001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Characters and Stages] 
+//Cheats/Unlock All Characters and Stages
 patch=1,EE,003D6711,extended,00000000
 patch=1,EE,103D6712,extended,00000000
 patch=1,EE,103D673C,extended,00000000
 patch=1,EE,403D6714,extended,000A0001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock New mode Massive Destruction Mode] 
+//Cheats/Unlock New mode Massive Destruction Mode
 patch=1,EE,003D6700,extended,00000000
 
-[Cheats/Destruction mode score 999 points] 
+//Cheats/Destruction mode score 999 points
 patch=1,EE,201C5B48,extended,240F03E7
 patch=1,EE,201C5B4C,extended,AC8F0004
 
-[Cheats/Destruction Mode High ScoreThe first place 999] 
+//Cheats/Destruction Mode High ScoreThe first place 999
 patch=1,EE,103D67A2,extended,000003E7 
 
-[Cheats/Destruction Mode High Score The 2nd place 0] 
+//Cheats/Destruction Mode High Score The 2nd place 0
 patch=1,EE,103D67A4,extended,00000000
 
-[Cheats/Destruction Mode High ScoreThe 3rd place 0] 
+//Cheats/Destruction Mode High ScoreThe 3rd place 0
 patch=1,EE,103D67A6,extended,00000000
 
-[Cheats/Destruction Mode High Score The 4th place 0] 
+//Cheats/Destruction Mode High Score The 4th place 0
 patch=1,EE,103D67A8,extended,00000000
 
-[Cheats/Destruction Mode High Score The 5th place 0]
+//Cheats/Destruction Mode High Score The 5th place 0
 patch=1,EE,103D67AA,extended,00000000
 
-[Cheats/Time limit SELECT+UP stop time ON SELECT+DOWN stop time OFF] 
+//Cheats/Time limit SELECT+UP stop time ON SELECT+DOWN stop time OFF
 patch=1,EE,D0342582,extended,0000FFEE
 patch=1,EE,201FD814,extended,00000000
 patch=1,EE,D0342582,extended,0000FFBE
 patch=1,EE,201FD814,extended,01AF682F
 
-[Cheats/Ultra mode All episode rank S cleared] 
+//Cheats/Ultra mode All episode rank S cleared
 patch=1,EE,203D6704,extended,05050505
 patch=1,EE,203D6708,extended,05050505
 patch=1,EE,203D670C,extended,05050505
 patch=1,EE,003D6710,extended,00000005
 
-[Cheats/Press L3 For Debug Menu] 
+//Cheats/Press L3 For Debug Menu
 patch=1,EE,D0342582,extended,0000FFFD
 patch=1,EE,2033E3A0,extended,00000000

@@ -1,69 +1,69 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C0220,extended,2401270F
 patch=1,EE,200C0224,extended,0805DE8E
 patch=1,EE,200C0228,extended,AE4100CC
 patch=1,EE,20179CE0,extended,0C030088
 
-[Cheats/Max Health] 
+//Cheats/Max Health
 patch=1,EE,200C0230,extended,2401270F
 patch=1,EE,200C0234,extended,0805DEDC
 patch=1,EE,200C0238,extended,AE4105EC
 patch=1,EE,20179CEC,extended,0C03008C
 
-[Cheats/Infinite Mana] 
+//Cheats/Infinite Mana
 patch=1,EE,200C0240,extended,2401270F
 patch=1,EE,200C0244,extended,0805E9CA
 patch=1,EE,200C0248,extended,AE410618
 patch=1,EE,20179CF8,extended,0C030090
 
-[Cheats/Max Mana] 
+//Cheats/Max Mana
 patch=1,EE,200C0250,extended,2401270F
 patch=1,EE,200C0254,extended,0805E4BC
 patch=1,EE,200C0258,extended,AE4105F0
 patch=1,EE,20179D04,extended,0C030094
 
-[Cheats/Infinite Health alt] 
+//Cheats/Infinite Health alt
 patch=1,EE,40BACCAC,extended,A98CF94F
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Infinite Mana alt] 
+//Cheats/Infinite Mana alt
 patch=1,EE,11466880,extended,00003C88
 patch=1,EE,40E01F23,extended,03737002
 patch=1,EE,6C3BD6B5,extended,F1B6C6ED
 
-[Cheats/Infinite Lives] 
+//Cheats/Infinite Lives
 patch=1,EE,0022E2E4,extended,00000063
 
-[Cheats/Max Fire Level] 
+//Cheats/Max Fire Level
 patch=1,EE,004B717C,extended,000000FF
 
-[Cheats/Max Water Level] 
+//Cheats/Max Water Level
 patch=1,EE,004B717D,extended,000000FF
 
-[Cheats/Max Air Level] 
+//Cheats/Max Air Level
 patch=1,EE,004B717E,extended,000000FF
 
-[Cheats/Max Earth Level] 
+//Cheats/Max Earth Level
 patch=1,EE,004B717F,extended,000000FF
 
-[Cheats/Max Strength] 
+//Cheats/Max Strength
 patch=1,EE,204B7188,extended,0000270F
 
-[Cheats/Max Endurance] 
+//Cheats/Max Endurance
 patch=1,EE,204B718C,extended,0000270F
 
-[Cheats/Max Agility] 
+//Cheats/Max Agility
 patch=1,EE,204B7190,extended,0000270F
 
-[Cheats/Max Intelligence] 
+//Cheats/Max Intelligence
 patch=1,EE,204B7194,extended,0000270F
 
-[Cheats/Max Wisdom] 
+//Cheats/Max Wisdom
 patch=1,EE,204B7198,extended,0000270F
 
-[Cheats/Max Presence] 
+//Cheats/Max Presence
 patch=1,EE,204B719C,extended,0000270F
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,00489EC6,extended,0000000F
 

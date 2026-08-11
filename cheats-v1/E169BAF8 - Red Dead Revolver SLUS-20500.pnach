@@ -1,32 +1,32 @@
-[Cheats/Invulnerable] 
+//Cheats/Invulnerable
 patch=1,EE,2035B528,extended,00000000
 patch=1,EE,2035BB70,extended,00000000
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,203627D0,extended,03E00008
 patch=1,EE,203627D4,extended,00000000
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2039DC44,extended,00000000
 
-[Cheats/Infinite Deadeye] 
+//Cheats/Infinite Deadeye
 patch=1,EE,201847CC,extended,00000000
 
-[Cheats/Infinite Max Deadeye] 
+//Cheats/Infinite Max Deadeye
 patch=1,EE,20184794,extended,3C0140C0
 patch=1,EE,2018479c,extended,AC410000
 patch=1,EE,201847A4,extended,AC410004
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,20176dd0,extended,00000000
 
-[Cheats/Unlock Access All Journal Entries] 
+//Cheats/Unlock Access All Journal Entries
 patch=1,EE,1011C4D2,extended,00001000
 
-[Cheats/Unlock Access All Multiplayer Missions] 
+//Cheats/Unlock Access All Multiplayer Missions
 patch=1,EE,10131E66,extended,00001000
 
-[Cheats/Unlock Access All Multiplayer Characters] 
+//Cheats/Unlock Access All Multiplayer Characters
 patch=1,EE,2013F31C,extended,00000000
 
 

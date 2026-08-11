@@ -1,10 +1,10 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,20A7A7E0,extended,0098967F
 
-[Cheats/Max Money After a Fight] 
+//Cheats/Max Money After a Fight
 patch=1,EE,202C1924,extended,3C040098
 
-[Cheats/Max Infinite Health L1+L2 to Enable R1+R2 to Stop] 
+//Cheats/Max Infinite Health L1+L2 to Enable R1+R2 to Stop
 patch=1,EE,200FFF40,extended,2401270F
 patch=1,EE,200FFF44,extended,ACA1002C
 patch=1,EE,200FFF48,extended,ACA10034
@@ -15,7 +15,7 @@ patch=1,EE,202BABDC,extended,0C03FFD0
 patch=1,EE,D0A956DC,extended,0000F5FF
 patch=1,EE,202BABDC,extended,0C0AE9F6
 
-[Cheats/Max Infinite Health & MP L1+L2 to Enable R1+R2 to Stop] 
+//Cheats/Max Infinite Health & MP L1+L2 to Enable R1+R2 to Stop
 patch=1,EE,200FFF40,extended,2401270F
 patch=1,EE,200FFF44,extended,ACA1002C
 patch=1,EE,200FFF48,extended,ACA10038
@@ -27,29 +27,29 @@ patch=1,EE,202BABDC,extended,0C03FFD0
 patch=1,EE,D0A956DC,extended,0000F5FF
 patch=1,EE,202BABDC,extended,0C0AE9F6
 
-[Cheats/Song Magic No MP Consumption] 
+//Cheats/Song Magic No MP Consumption
 patch=1,EE,202F5548,extended,00000000
 
 
-[Cheats/No Random Battles Press L3 Disable R3 Restart] 
+//Cheats/No Random Battles Press L3 Disable R3 Restart
 patch=1,EE,D0A9575C,extended,0000FFFD
 patch=1,EE,201CC184,extended,240F0000
 patch=1,EE,D0A9575C,extended,0000FFFB
 patch=1,EE,201CC184,extended,0040782D
 
-[Cheats/Glass Mercury does not reduce material items] 
+//Cheats/Glass Mercury does not reduce material items
 patch=1,EE,20314B8C,extended,00000000
 
-[Cheats/99 Cards When The Number Of Items Change SELECT+left normal mode SELEC+righ] 
+//Cheats/99 Cards When The Number Of Items Change SELECT+left normal mode SELEC+righ
 patch=1,EE,D0A7D2DC,extended,0000FF7E
 patch=1,EE,2031AC70,extended,00000000
 patch=1,EE,D0A7D2DC,extended,0000FFDE
 patch=1,EE,2031AC70,extended,55E00004
 
-[Cheats/Unlock All Cards Viewable] 
+//Cheats/Unlock All Cards Viewable
 patch=1,EE,2018A95C,extended,24020004
 
-[Cheats/Can Be Equipped With All Heroine Costumes save not reflected] 
+//Cheats/Can Be Equipped With All Heroine Costumes save not reflected
 patch=1,EE,2018A984,extended,24020004 
 patch=1,EE,2031C7E8,extended,10000016 
 patch=1,EE,2031C8D0,extended,2A2F001F

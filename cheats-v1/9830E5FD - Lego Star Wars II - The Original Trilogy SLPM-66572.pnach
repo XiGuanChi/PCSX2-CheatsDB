@@ -1,55 +1,55 @@
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,003EA9D6,extended,00000001
 
-[Cheats/Infinite Studs]  
+//Cheats/Infinite Studs
 patch=1,EE,203498A4,extended,00000000
 
-[Cheats/Max When Collecting Studs on the City Stage] 
+//Cheats/Max When Collecting Studs on the City Stage
 patch=1,EE,202936DC,extended,00000000
 
-[Cheats/Max Stud in a Bar Valid only at Cantina's Tavern] 
+//Cheats/Max Stud in a Bar Valid only at Cantina's Tavern
 patch=1,EE,205BBFDC,extended,EE6B2800
 
-[Cheats/During Mission 1P Stud Max] 
+//Cheats/During Mission 1P Stud Max
 patch=1,EE,205BA990,extended,00989680
 
-[Cheats/During Mission 2P Stud Max] 
+//Cheats/During Mission 2P Stud Max
 patch=1,EE,205BA99C,extended,00989680
 
-[Cheats/Unlock Clear All Bounty Hunter Missions] 
+//Cheats/Unlock Clear All Bounty Hunter Missions
 patch=1,EE,205BC014,extended,01010101
 patch=1,EE,205BC018,extended,01010101
 patch=1,EE,105BC01C,extended,00000101
 
-[Cheats/Unlock All Extras Available for Purchase] 
+//Cheats/Unlock All Extras Available for Purchase
 patch=1,EE,2034DC64,extended,24030001
 patch=1,EE,2034DC68,extended,A0430182
 patch=1,EE,005BBA38,extended,00000000
 
-[Cheats/Unlock All Free Play Characters] 
+//Cheats/Unlock All Free Play Characters
 patch=1,EE,20256EE4,extended,2402FFFF
 patch=1,EE,20256EE8,extended,AC620000
 patch=1,EE,205BBF68,extended,FFFFFFFF
 patch=1,EE,205BBF6C,extended,FFFFFFFF
 
-[Cheats/Unlock Episode 4 Chapter] 
+//Cheats/Unlock Episode 4 Chapter
 patch=1,EE,405BBDD4,extended,00060003
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,405BBDD8,extended,00060003
 patch=1,EE,00010A01,extended,00000000
 
-[Cheats/Unlock Episode 5 Chapter] 
+//Cheats/Unlock Episode 5 Chapter
 patch=1,EE,405BBE40,extended,00060003
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,405BBE44,extended,00060003
 patch=1,EE,00010A01,extended,00000000
 
-[Cheats/Unlock Episode 6 Chapter] 
+//Cheats/Unlock Episode 6 Chapter
 patch=1,EE,405BBEAC,extended,00060003
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,405BBEB0,extended,00060003
 patch=1,EE,00010A01,extended,00000000
 
-[Cheats/Unlock All Extras]  
+//Cheats/Unlock All Extras
 patch=1,EE,205BBFD0,extended,FFFFFFFF
 

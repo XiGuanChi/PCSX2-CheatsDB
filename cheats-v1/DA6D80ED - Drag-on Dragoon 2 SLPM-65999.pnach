@@ -1,50 +1,50 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,20551D34,extended,000F4240
 
-[Cheats/Max HP] 
+//Cheats/Max HP
 patch=1,EE,20335F34,extended,AE4202F0
 
-[Cheats/Max MP]  
+//Cheats/Max MP
 patch=1,EE,20529274,extended,000003E8
 
-[Cheats/Cannot Be Hit By Dragon Attacks Damage Such As Abnormal Conditions And Trap Gas Will Be Reduced] 
+//Cheats/Cannot Be Hit By Dragon Attacks Damage Such As Abnormal Conditions And Trap Gas Will Be Reduced
 patch=1,EE,201F6E64,extended,03E00008
  
-[Cheats/Max Dragon And Magic Attack Power] 
+//Cheats/Max Dragon And Magic Attack Power
 patch=1,EE,20289AC0,extended,3C014B18
 patch=1,EE,20289AC4,extended,44810000
 
-[Cheats/Max Character Attack Power] 
+//Cheats/Max Character Attack Power
 patch=1,EE,20289A64,extended,3C014B18
 patch=1,EE,20289A68,extended,44810000
 
-[Cheats/Max Weapon Level Used By Gaining Experience Points] 
+//Cheats/Max Weapon Level Used By Gaining Experience Points
 patch=1,EE,2028A0A8,extended,00000000
 patch=1,EE,2028A0B0,extended,3C020099
 
-[Cheats/Level 99 Nowe] 
+//Cheats/Level 99 Nowe
 patch=1,EE,20551974,extended,00000062
 
-[Cheats/Level 99 Mana] 
+//Cheats/Level 99 Mana
 patch=1,EE,20551978,extended,00000062
 
-[Cheats/Level 99 Eris] 
+//Cheats/Level 99 Eris
 patch=1,EE,2055197C,extended,00000062
 
-[Cheats/Level 99 Yuric] 
+//Cheats/Level 99 Yuric
 patch=1,EE,20551980,extended,00000062
 
-[Cheats/Level 99 Legna]  
+//Cheats/Level 99 Legna
 patch=1,EE,20551984,extended,00000062
 
-[Cheats/Summon Dragons Other Than Nowe] 
+//Cheats/Summon Dragons Other Than Nowe
 patch=1,EE,2020FF70,extended,00000000
 patch=1,EE,202884B8,extended,00000000
 
-[Cheats/The Appearance of a Dragon Becomes a True Human Being Ability Does Not Change] 
+//Cheats/The Appearance of a Dragon Becomes a True Human Being Ability Does Not Change
 patch=1,EE,20288920,extended,24040003
 
-[Cheats/Unlock All Weapons Appear Set The Weapon By Setting The Armament. The WEAPON COMPLETE Rate Will Increase After The Game Is Restarted] 
+//Cheats/Unlock All Weapons Appear Set The Weapon By Setting The Armament. The WEAPON COMPLETE Rate Will Increase After The Game Is Restarted
 patch=1,EE,20605F28,extended,00000013
 patch=1,EE,20605F2C,extended,00000014
 patch=1,EE,20605F30,extended,0000000C
@@ -55,7 +55,7 @@ patch=1,EE,2030F7CC,extended,AC2219A8
 patch=1,EE,2030F7D4,extended,00A0880A
 patch=1,EE,2030F8BC,extended,AC2419A8
 
-[Cheats/Unlock All Consumable Items Appearance Flag Items May Not Be Displayed Unless The Above Code Is Entered] 
+//Cheats/Unlock All Consumable Items Appearance Flag Items May Not Be Displayed Unless The Above Code Is Entered
 patch=1,EE,20605E64,extended,00000000
 patch=1,EE,20605E68,extended,00000001
 patch=1,EE,20605E6C,extended,00000002
@@ -68,16 +68,16 @@ patch=1,EE,20605E84,extended,00000008
 patch=1,EE,20605E88,extended,00000009
 patch=1,EE,20605E8C,extended,0000000A
 
-[Cheats/9 Total Consumable Items If Already Equipped, The Number Will Be Reduced And Displayed] 
+//Cheats/9 Total Consumable Items If Already Equipped, The Number Will Be Reduced And Displayed
 patch=1,EE,40551D58,extended,000B0001
 patch=1,EE,00000009,extended,00000000
 
-[Cheats/Unlock All Decorations Set The Ornaments By Setting The Armament] 
+//Cheats/Unlock All Decorations Set The Ornaments By Setting The Armament
 patch=1,EE,20313BD0,extended,24C1FFFF
 patch=1,EE,20313BD8,extended,AC61000C
 
-[Cheats/Max Mission Kill] 
+//Cheats/Max Mission Kill
 patch=1,EE,205515AC,extended,0001869F
 
-[Cheats/All Kill 1 Billion] 
+//Cheats/All Kill 1 Billion
 patch=1,EE,20551DD8,extended,3B9ACA00

@@ -1,39 +1,39 @@
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,205AE3BC,extended,00000001
 
-[Cheats/Max Points After A Jump] 
+//Cheats/Max Points After A Jump
 patch=1,EE,2010BF64,extended,3C0205F0
 
-[Cheats/Infinite Boost] 
+//Cheats/Infinite Boost
 patch=1,EE,204BA7E0,extended,00000001
 
-[Cheats/Freeze Timer] 
+//Cheats/Freeze Timer
 patch=1,EE,20B6AC54,extended,429965A9
 
-[Cheats/Have A Big Score] 
+//Cheats/Have A Big Score
 patch=1,EE,20BDE2F0,extended,000F4240
 
-[Cheats/Max Score After 1 Trick] 
+//Cheats/Max Score After 1 Trick
 patch=1,EE,2010BCB4,extended,3C0305F5
 patch=1,EE,2010BCC4,extended,3463E0FF
 patch=1,EE,2010BF04,extended,3C0305F5
 patch=1,EE,2010BF14,extended,3463E0FF
 
-[Cheats/Have All Shreds & Medals] 
+//Cheats/Have All Shreds & Medals
 patch=1,EE,4053B338,extended,00C90003
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Have All Boasts] 
+//Cheats/Have All Boasts
 patch=1,EE,4053BF38,extended,00090001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock Freeride]  
+//Cheats/Unlock Freeride
 patch=1,EE,205AE3B0,extended,00000001
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,201B32B8,extended,24060000
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,205AE3AC,extended,00000001
 
 

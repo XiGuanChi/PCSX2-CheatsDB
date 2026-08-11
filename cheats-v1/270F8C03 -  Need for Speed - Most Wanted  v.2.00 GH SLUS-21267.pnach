@@ -1,29 +1,29 @@
-[Cheats/Infinite Cash]  
+//Cheats/Infinite Cash
 patch=1,EE,10AAFE90,extended,0000FFFF
 
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,20AAFE90,extended,05F5E0FF
 
-[Cheats/Max Bounty]  
+//Cheats/Max Bounty
 patch=1,EE,20AB8E90,extended,05F5E0FF
 
-[Cheats/Infinite Nitro Usage] 
+//Cheats/Infinite Nitro Usage
 patch=1,EE,2036F074,extended,00000000
 
-[Cheats/Infinite Nitro] 
+//Cheats/Infinite Nitro
 patch=1,EE,2037F5A4,extended,3C013F80
 patch=1,EE,2037F5A8,extended,AC610010
 patch=1,EE,2036F0A0,extended,3C0142C8
 patch=1,EE,2036F0A4,extended,AE010178
 patch=1,EE,1036F0AA,extended,00001000
 
-[Cheats/Infinite Speedbreaker] 
+//Cheats/Infinite Speedbreaker
 patch=1,EE,2039636c,extended,00000000
 
-[Cheats/Unlock All Cars In List Temporary] 
+//Cheats/Unlock All Cars In List Temporary
 patch=1,EE,202744C0,extended,24020001
 
-[Cheats/Unlock All Junkman Performance in Career]  
+//Cheats/Unlock All Junkman Performance in Career
 patch=1,EE,20570214,extended,00000001
 patch=1,EE,2057021C,extended,00000001
 patch=1,EE,205701F0,extended,00000002
@@ -39,58 +39,58 @@ patch=1,EE,20570228,extended,00000001
 patch=1,EE,205701FC,extended,00000007
 patch=1,EE,20570204,extended,00000001
 
-[Cheats/Cannot be Busted] 
+//Cheats/Cannot be Busted
 patch=1,EE,2012F108,extended,00000000
 
-[Cheats/Engine Never Blows Drag Mode] 
+//Cheats/Engine Never Blows Drag Mode
 patch=1,EE,203704D4,extended,00000000
 
-[Cheats/Idiot A.I.]  
+//Cheats/Idiot A.I.
 patch=1,EE,20138D14,extended,1000000D
 
-[Cheats/Infinite Junkman Brakes] 
+//Cheats/Infinite Junkman Brakes
 patch=1,EE,205701CC,extended,00000001
 patch=1,EE,205701D4,extended,00000001
 
-[Cheats/Infinite Junkman Engine] 
+//Cheats/Infinite Junkman Engine
 patch=1,EE,205701A8,extended,00000002
 patch=1,EE,205701B0,extended,00000001
 
-[Cheats/Infinite Junkman N20 and NOS] 
+//Cheats/Infinite Junkman N20 and NOS
 patch=1,EE,20570220,extended,00000003
 patch=1,EE,20570228,extended,00000001
 
-[Cheats/Infinite Junkman Suspension] 
+//Cheats/Infinite Junkman Suspension
 patch=1,EE,205701E4,extended,00000005
 patch=1,EE,205701EC,extended,00000001
 
-[Cheats/Infinite Junkman Tires]  
+//Cheats/Infinite Junkman Tires
 patch=1,EE,20570214,extended,00000006
 patch=1,EE,2057021C,extended,00000001
 
-[Cheats/Infinite Junkman Transmission]  
+//Cheats/Infinite Junkman Transmission
 patch=1,EE,205701F0,extended,00000007
 patch=1,EE,205701F8,extended,00000001
 
-[Cheats/Infinite Unique Rims] 
+//Cheats/Infinite Unique Rims
 patch=1,EE,20570220,extended,0000000B
 patch=1,EE,20570228,extended,00000001
 
-[Cheats/Infinite Junkman Supercharger and Turbo career] 
+//Cheats/Infinite Junkman Supercharger and Turbo career
 patch=1,EE,205701FC,extended,00000004
 patch=1,EE,20570204,extended,00000001
 
-[Cheats/Have All Blacklist Completed] 
+//Cheats/Have All Blacklist Completed
 patch=1,EE,00AAFE8C,extended,00000000
 
-[Cheats/All Races Only Have 1 Racer] 
+//Cheats/All Races Only Have 1 Racer
 patch=1,EE,202D78E0,extended,24020001
 patch=1,EE,202D78E4,extended,AC821C30
 
-[Cheats/Unlock All Cars Not Saveable] 
+//Cheats/Unlock All Cars Not Saveable
 patch=1,EE,20574624,extended,00000001
 
-[Cheats/Unlock All Challenges]  
+//Cheats/Unlock All Challenges
 patch=1,EE,200C2000,extended,3421000C
 patch=1,EE,200C2008,extended,AC410004
 patch=1,EE,200C200C,extended,03E00008
@@ -98,5 +98,5 @@ patch=1,EE,200C2010,extended,00301024
 patch=1,EE,202B4794,extended,0C030800
 patch=1,EE,202B4798,extended,8C410004
 
-[Cheats/Unlock All Challenges Completed] 
+//Cheats/Unlock All Challenges Completed
 patch=1,EE,200C2004,extended,34210001

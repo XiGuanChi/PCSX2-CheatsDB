@@ -1,17 +1,17 @@
-[Cheats/Unlock All Events] 
+//Cheats/Unlock All Events
 patch=1,EE,2025CDAC,extended,24020001
 patch=1,EE,200FFF00,extended,AC820010
 patch=1,EE,200FFF04,extended,03E00008
 patch=1,EE,2025CDA8,extended,0803FFC0
 
-[Cheats/Unlock All Surfers Vids] 
+//Cheats/Unlock All Surfers Vids
 patch=1,EE,202F0900,extended,24020001
 
-[Cheats/Unlock All Location Boards] 
+//Cheats/Unlock All Location Boards
 patch=1,EE,202F0968,extended,24020001
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,2042C968,extended,00000000
 
-[Cheats/Unlock All Surfers] 
+//Cheats/Unlock All Surfers
 patch=1,EE,2042C978,extended,00000000

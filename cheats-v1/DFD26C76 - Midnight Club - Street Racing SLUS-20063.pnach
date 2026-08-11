@@ -1,23 +1,23 @@
-[Cheats/Infinite Damage] 
+//Cheats/Infinite Damage
 patch=1,EE,201B0E34,extended,AC400038
 
-[Cheats/Always Low Time] 
+//Cheats/Always Low Time
 patch=1,EE,20117938,extended,AE800018
 
-[Cheats/Unlock Have All Vehicles Career Mode] 
+//Cheats/Unlock Have All Vehicles Career Mode
 patch=1,EE,202C3C88,extended,FFFFFFFF
 
-[Cheats/Unlock Arcade Have All Vehicles] 
+//Cheats/Unlock Arcade Have All Vehicles
 patch=1,EE,202C2270,extended,FFFFFFFF
 patch=1,EE,202C2274,extended,FFFFFFFF
 
-[Cheats/Unlock Arcade Menu Have All New York Head To Head Races] 
+//Cheats/Unlock Arcade Menu Have All New York Head To Head Races
 patch=1,EE,202C227C,extended,FFFFFFFF
 
-[Cheats/Unlock Arcade Have All London Head To Head Races] 
+//Cheats/Unlock Arcade Have All London Head To Head Races
 patch=1,EE,202C2280,extended,FFFFFFFF
 
-[Cheats/Unlock Put Cheats In Extras - Game Options - Arcade Data] 
+//Cheats/Unlock Put Cheats In Extras - Game Options - Arcade Data
 patch=1,EE,0013B927,extended,00000034
 patch=1,EE,0013B953,extended,00000034
 patch=1,EE,0013B97F,extended,00000034
@@ -36,5 +36,5 @@ patch=1,EE,1116320A,extended,0000090A
 patch=1,EE,01165DA5,extended,00000033
 patch=1,EE,01165FB8,extended,00000033
 
-[Cheats/Enable Test Races automatically win race] 
+//Cheats/Enable Test Races automatically win race
 patch=1,EE,202C1F7C,extended,00000001

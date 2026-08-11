@@ -1,17 +1,17 @@
-[Cheats/Max Money 9999999] 
+//Cheats/Max Money 9999999
 [Cheats/Unlock ] patch=1,EE,2062A008,extended,0098967F
 
-[Cheats/Infinite Health In Mission] 
+//Cheats/Infinite Health In Mission
 patch=1,EE,2029f06c,extended,080a7ead
 patch=1,EE,2029fab4,extended,8C410020
 patch=1,EE,2029fab8,extended,080a7c1f
 patch=1,EE,2029fabC,extended,AC41001C
 
-[Cheats/1 Hit Kill] 
+//Cheats/1 Hit Kill
 patch=1,EE,20237154,extended,24032710
 patch=1,EE,20237164,extended,24020001
 
-[Cheats/Invisible] 
+//Cheats/Invisible
 patch=1,EE,200F8200,extended,16200003
 patch=1,EE,200F8204,extended,3C030080
 patch=1,EE,200F8208,extended,00832025
@@ -20,12 +20,12 @@ patch=1,EE,200F8210,extended,03E00008
 patch=1,EE,200F8214,extended,3C038000
 patch=1,EE,2011acd0,extended,0C03E080
 
-[Cheats/Unlock All Missions] 
+//Cheats/Unlock All Missions
 patch=1,EE,202B27A4,extended,00000000
 patch=1,EE,202B27B0,extended,00000000
 patch=1,EE,202B28C8,extended,00000000
 
-[Cheats/Unlock All Theater and Secret] 
+//Cheats/Unlock All Theater and Secret
 patch=1,EE,20636644,extended,FFFFFFFF
 patch=1,EE,20636648,extended,FFFFFFFF
 patch=1,EE,2063664C,extended,FFFFFFFF
@@ -36,11 +36,11 @@ patch=1,EE,20636624,extended,01010101
 patch=1,EE,20636628,extended,01010101
 patch=1,EE,1063662C,extended,00000101
 
-[Cheats/Get 100% score after doing a mission for Ichijo] 
+//Cheats/Get 100% score after doing a mission for Ichijo
 patch=1,EE,206156E8,extended,00000064
 
-[Cheats/Get 100% score after doing a mission for Akame] 
+//Cheats/Get 100% score after doing a mission for Akame
 patch=1,EE,206157A8,extended,00000064
 
-[Cheats/Get 100% score after doing a mission for Sadame] 
+//Cheats/Get 100% score after doing a mission for Sadame
 patch=1,EE,20615868,extended,00000064

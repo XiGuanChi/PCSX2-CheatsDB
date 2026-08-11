@@ -1,33 +1,33 @@
-[Cheats/Max Gil 99.999.999 press Select] 
+//Cheats/Max Gil 99.999.999 press Select
 patch=1,EE,D056fbdc,extended,0000fffe
 patch=1,EE,2054c008,extended,05f5e0ff
 
-[Cheats/God Mode] 
+//Cheats/God Mode
 patch=1,EE,203cfb30,extended,00000000
 patch=1,EE,203cfb3c,extended,00000000
 
-[Cheats/God Mode ALT] 
+//Cheats/God Mode ALT
 patch=1,EE,203cfb38,extended,00000000
 patch=1,EE,203cfb44,extended,00000000
 
-[Cheats/After 1 Hit Gil 9999999] 
+//Cheats/After 1 Hit Gil 9999999
 patch=1,EE,203248ac,extended,1000000A
 
-[Cheats/HP 9999-9999 & MP 999-999 from new game or after save data] 
+//Cheats/HP 9999-9999 & MP 999-999 from new game or after save data
 patch=1,EE,202f4bb8,extended,10000008
 patch=1,EE,202f4c08,extended,00000000
 
-[Cheats/Infinite HP]  
+//Cheats/Infinite HP
 patch=1,EE,2030cb40,extended,00000000
 patch=1,EE,2030cb48,extended,AE620048
 
-[Cheats/Infinite MP]  
+//Cheats/Infinite MP
 patch=1,EE,2030cb8c,extended,00000000
 patch=1,EE,2030cba8,extended,86620028
 patch=1,EE,2030cbac,extended,A662004C
 patch=1,EE,2030cbb0,extended,AE020028
 
-[Cheats/Infinite Health & MP] 
+//Cheats/Infinite Health & MP
 patch=1,EE,2030D230,extended,0803FFCE
 patch=1,EE,200FFF40,extended,8C820024
 patch=1,EE,200FFF44,extended,AC820048
@@ -36,10 +36,10 @@ patch=1,EE,200FFF4C,extended,AC82004C
 patch=1,EE,200FFF50,extended,080C3262
 patch=1,EE,200FFF38,extended,10040005
 
-[Cheats/Infinite HP Vaan] 
+//Cheats/Infinite HP Vaan
 patch=1,EE,2A7B703F,extended,000003E7
 
-[Cheats/Max HP Vaan] 
+//Cheats/Max HP Vaan
 patch=1,EE,2A9F703F,extended,000003E7
 
 I[Cheats/Infini HP & MP] 
@@ -51,19 +51,19 @@ patch=1,EE,200FFF4C,extended,AC82004C
 patch=1,EE,200FFF50,extended,080C3260
 patch=1,EE,200FFF38,extended,10040005
 
-[Cheats/Max PP en un seul combat] 
+//Cheats/Max PP en un seul combat
 patch=1,EE,202ED11C,extended,24022710
 
-[Cheats/Gils infini] 
+//Cheats/Gils infini
 patch=1,EE,203248AC,extended,1000000A
 
-[Cheats/Lvl 99 en un seul combat] 
+//Cheats/Lvl 99 en un seul combat
 patch=1,EE,202ED0D4,extended,24032710
 
-[Cheats/Avoir objets ou armes 98x apres avoir acheter ou obtenu] 
+//Cheats/Avoir objets ou armes 98x apres avoir acheter ou obtenu
 patch=1,EE,202F0A78,extended,24060062
 
-[Cheats/Avoir les butins des ennemi X98] 
+//Cheats/Avoir les butins des ennemi X98
 patch=1,EE,E1B9FFFE,extended,0056FBDC
 patch=1,EE,10552C70,extended,00000063
 patch=1,EE,10552CB0,extended,00000063
@@ -511,7 +511,7 @@ patch=1,EE,203B9A80,extended,2A020000
 patch=1,EE,203B9A68,extended,2A020000
 patch=1,EE,203B99D8,extended,10000019
 
-[Cheats/Unlock Have All Teleport Destinations Completed Press Select]
+//Cheats/Unlock Have All Teleport Destinations Completed Press Select
 patch=1,EE,E00dFFFE,extended,0056FBDC
 patch=1,EE,1054CDF2,extended,00008040
 patch=1,EE,2054CDF4,extended,80578042

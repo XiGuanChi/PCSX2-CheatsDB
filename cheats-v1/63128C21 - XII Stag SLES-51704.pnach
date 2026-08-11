@@ -1,15 +1,15 @@
-[Cheats/Infinite Lives] 
+//Cheats/Infinite Lives
 patch=1,EE,0024ED94,extended,00000003
 
-[Cheats/Invincibility]  
+//Cheats/Invincibility
 patch=1,EE,20150C70,extended,340200FD
 
-[Cheats/Infinite Bombs]  
+//Cheats/Infinite Bombs
 patch=1,EE,20150DD0,extended,34020002
 
-[Cheats/Infinite Bombs Player 1] 
+//Cheats/Infinite Bombs Player 1
 patch=1,EE,2024EDAC,extended,00000002
 
-[Cheats/Infinite Bombs Player 2] 
+//Cheats/Infinite Bombs Player 2
 patch=1,EE,2024EDD4,extended,00000002
 

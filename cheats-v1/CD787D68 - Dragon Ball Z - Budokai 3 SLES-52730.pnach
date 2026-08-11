@@ -1,4 +1,4 @@
-[Cheats/Tournament Player 1 Infinite Health ] 
+//Cheats/Tournament Player 1 Infinite Health
 patch=1,EE,E0020000,extended,00499A2A
 patch=1,EE,2049B360,extended,453B8000
 patch=1,EE,2049B36C,extended,453B8000
@@ -6,51 +6,51 @@ patch=1,EE,E002FFFF,extended,00499A2A
 patch=1,EE,2049D380,extended,453B8000
 patch=1,EE,2049D38C,extended,453B8000
 
-[Cheats/Tournament Player 1 Infinite Ki] 
+//Cheats/Tournament Player 1 Infinite Ki
 patch=1,EE,D0499A2A,extended,00000000
 patch=1,EE,2049B370,extended,463B8000
 patch=1,EE,D0499A2A,extended,0000FFFF
 patch=1,EE,2049D390,extended,463B8000
 
-[Cheats/No Health P2] 
+//Cheats/No Health P2
 patch=1,EE,E003FFFF,extended,00499A2A
 patch=1,EE,2049B360,extended,00000000
 patch=1,EE,E0010000,extended,00499A2A
 patch=1,EE,2049D380,extended,00000000
 
-[Cheats/Dragon Universe Level Up] 
+//Cheats/Dragon Universe Level Up
 patch=1,EE,208EAD94,extended,05F5E0FF
 
-[Cheats/Dragon Universe Max Health] 
+//Cheats/Dragon Universe Max Health
 patch=1,EE,208EAD5C,extended,00000014
 
-[Cheats/Dragon Universe Max Ki] 
+//Cheats/Dragon Universe Max Ki
 patch=1,EE,208EAD60,extended,00000014
 
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,10592F1A,extended,00000004
 
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,2049B360,extended,453B8000
 patch=1,EE,2049B36C,extended,453B8000
 
-[Cheats/Infinite Ki P1] 
+//Cheats/Infinite Ki P1
 patch=1,EE,2049B370,extended,463B8000
 
-[Cheats/P2 No Health] 
+//Cheats/P2 No Health
 patch=1,EE,2049D380,extended,00000000
 
-[Cheats/Infinite Upgrade Points Remove a skill for 10 skill points] 
+//Cheats/Infinite Upgrade Points Remove a skill for 10 skill points
 patch=1,EE,202BE9A4,extended,2402000A
 
-[Cheats/Unlock All Stages] 
+//Cheats/Unlock All Stages
 patch=1,EE,204B83EC,extended,FFFFFFFF
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,204B83F8,extended,FFFFFFFF
 patch=1,EE,204B83FC,extended,FFFFFFFF
 
-[Cheats/Unlock All Capsules] 
+//Cheats/Unlock All Capsules
 patch=1,EE,404E3318,extended,00400001
 patch=1,EE,00010001,extended,00000000
 patch=1,EE,004E3417,extended,00000001

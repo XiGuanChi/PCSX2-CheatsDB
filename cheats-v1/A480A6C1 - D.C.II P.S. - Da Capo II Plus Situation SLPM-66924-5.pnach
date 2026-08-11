@@ -1,8 +1,8 @@
-[Cheats/Unlock All Extra] 
+//Cheats/Unlock All Extra
 patch=1,EE,405057EC,extended,00510001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock Config Setting CG, Scene Replay, Music If You Change The Config Settings In The Title And The Extra Elements Will Be 0pened] 
+//Cheats/Unlock Config Setting CG, Scene Replay, Music If You Change The Config Settings In The Title And The Extra Elements Will Be 0pened
 patch=1,EE,2011F204,extended,240D00FF 
 patch=1,EE,2011F210,extended,A1ED00B0
 patch=1,EE,2011F244,extended,240E00FF 
@@ -10,6 +10,6 @@ patch=1,EE,2011F248,extended,A18E0000
 patch=1,EE,2011F280,extended,240E00FF 
 patch=1,EE,2011F284,extended,A18E0000
 
-[Cheats/New Game = Debug Menu This allows you to set clear flags, unlock everything, and view any scene.] 
+//Cheats/New Game = Debug Menu This allows you to set clear flags, unlock everything, and view any scene.
 patch=1,EE,205E24FC,extended,000FB000
 patch=1,EE,205E2500,extended,0000808B

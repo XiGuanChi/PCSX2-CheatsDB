@@ -1,7 +1,7 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,202F669C,extended,000F41DC
 
-[Cheats/Time Initialization When You Press SELECT it Will be AM 0:00] 
+//Cheats/Time Initialization When You Press SELECT it Will be AM 0:00
 patch=1,EE,D02FEE10,extended,00000100
 patch=1,EE,102F66A0,extended,00000000
 

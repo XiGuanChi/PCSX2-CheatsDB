@@ -1,4434 +1,4434 @@
 gametitle=Grandia III [SLPM-65976] [5B659BED]
 
-[Friends Necklace]
+//Friends Necklace
 author=GamingDragon93
 description=Friends Necklace
 // Friends Necklace
 patch=1,EE,9011A4A4,extended,0C047EF0
 
-[Friends Necklace]
+//Friends Necklace
 author=GamingDragon93
 description=Friends Necklace
 // Friends Necklace
 patch=1,EE,D02257CC,extended,00001026
 
-[Friends Necklace]
+//Friends Necklace
 author=GamingDragon93
 description=Friends Necklace
 // Friends Necklace
 patch=1,EE,202257D8,extended,24020001
 
-[Enable Debug Menu (Press {START} On Controller 2)]
+//Enable Debug Menu (Press {START} On Controller 2)
 author=GamingDragon93
 description=Enable Debug Menu (Press {START} On Controller 2)
 // Enable Debug Menu (Press {START} On Controller 2)
 patch=1,EE,202186A8,extended,00000001
 
-[Infinite Money]
+//Infinite Money
 author=GamingDragon93
 description=Infinite Money
 // Infinite Money
 patch=1,EE,105B7488,extended,0000FFFF
 
-[Max Money]
+//Max Money
 author=GamingDragon93
 description=Max Money
 // Max Money
 patch=1,EE,205B7488,extended,05F5E0FF
 
-[Max HP]
+//Max HP
 author=GamingDragon93
 description=Max HP
 // Max HP
 patch=1,EE,105B7774,extended,0000270F
 
-[Infinite HP]
+//Infinite HP
 author=GamingDragon93
 description=Infinite HP
 // Infinite HP
 patch=1,EE,105B7776,extended,0000270F
 
-[Max Infinite HP]
+//Max Infinite HP
 author=GamingDragon93
 description=Max Infinite HP
 // Max Infinite HP
 patch=1,EE,205B7774,extended,270F270F
 
-[Max MP]
+//Max MP
 author=GamingDragon93
 description=Max MP
 // Max MP
 patch=1,EE,105B7778,extended,0000270F
 
-[Infinite MP]
+//Infinite MP
 author=GamingDragon93
 description=Infinite MP
 // Infinite MP
 patch=1,EE,105B777A,extended,0000270F
 
-[Max Infinite MP]
+//Max Infinite MP
 author=GamingDragon93
 description=Max Infinite MP
 // Max Infinite MP
 patch=1,EE,205B7778,extended,270F270F
 
-[Max SP]
+//Max SP
 author=GamingDragon93
 description=Max SP
 // Max SP
 patch=1,EE,105B777C,extended,0000270F
 
-[Infinite SP]
+//Infinite SP
 author=GamingDragon93
 description=Infinite SP
 // Infinite SP
 patch=1,EE,105B777E,extended,0000270F
 
-[Max Infinite SP]
+//Max Infinite SP
 author=GamingDragon93
 description=Max Infinite SP
 // Max Infinite SP
 patch=1,EE,205B777C,extended,270F270F
 
-[Max ATK]
+//Max ATK
 author=GamingDragon93
 description=Max ATK
 // Max ATK
 patch=1,EE,105B7780,extended,000003E7
 
-[Max DEF]
+//Max DEF
 author=GamingDragon93
 description=Max DEF
 // Max DEF
 patch=1,EE,105B7782,extended,000003E7
 
-[Max MAG]
+//Max MAG
 author=GamingDragon93
 description=Max MAG
 // Max MAG
 patch=1,EE,105B7784,extended,000003E7
 
-[Max RES]
+//Max RES
 author=GamingDragon93
 description=Max RES
 // Max RES
 patch=1,EE,105B7786,extended,000003E7
 
-[Max INI]
+//Max INI
 author=GamingDragon93
 description=Max INI
 // Max INI
 patch=1,EE,105B7788,extended,000003E7
 
-[Max MOV]
+//Max MOV
 author=GamingDragon93
 description=Max MOV
 // Max MOV
 patch=1,EE,105B778A,extended,000003E7
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,405B7780,extended,00030001
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,03E703E7,extended,00000000
 
-[Quick EXP Gain]
+//Quick EXP Gain
 author=GamingDragon93
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,105B7790,extended,0000FFFF
 
-[Max Total EXP]
+//Max Total EXP
 author=GamingDragon93
 description=Max Total EXP
 // Max Total EXP
 patch=1,EE,205B7790,extended,05F5E0FF
 
-[Level 99]
+//Level 99
 author=GamingDragon93
 description=Level 99
 // Level 99
 patch=1,EE,005B7794,extended,00000063
 
-[Max Special Level]
+//Max Special Level
 author=GamingDragon93
 description=Max Special Level
 // Max Special Level
 patch=1,EE,005B7795,extended,00000063
 
-[Max Magic Level]
+//Max Magic Level
 author=GamingDragon93
 description=Max Magic Level
 // Max Magic Level
 patch=1,EE,005B7796,extended,00000063
 
-[Max Skill Level]
+//Max Skill Level
 author=GamingDragon93
 description=Max Skill Level
 // Max Skill Level
 patch=1,EE,005B7797,extended,00000063
 
-[Max All Levels]
+//Max All Levels
 author=GamingDragon93
 description=Max All Levels
 // Max All Levels
 patch=1,EE,205B7794,extended,63636363
 
-[Quick Special Level EXP Gain]
+//Quick Special Level EXP Gain
 author=GamingDragon93
 description=Quick Special Level EXP Gain
 // Quick Special Level EXP Gain
 patch=1,EE,105B7798,extended,0000FFFF
 
-[Max Special Level EXP]
+//Max Special Level EXP
 author=GamingDragon93
 description=Max Special Level EXP
 // Max Special Level EXP
 patch=1,EE,205B7798,extended,05F5E0FF
 
-[Quick 005B7796 Level EXP Gain]
+//Quick 005B7796 Level EXP Gain
 author=GamingDragon93
 description=Quick 005B7796 Level EXP Gain
 // Quick 005B7796 Level EXP Gain
 patch=1,EE,105B779C,extended,0000FFFF
 
-[Max 005B7796 Level EXP]
+//Max 005B7796 Level EXP
 author=GamingDragon93
 description=Max 005B7796 Level EXP
 // Max 005B7796 Level EXP
 patch=1,EE,205B779C,extended,05F5E0FF
 
-[Quick Skill Level EXP Gain]
+//Quick Skill Level EXP Gain
 author=GamingDragon93
 description=Quick Skill Level EXP Gain
 // Quick Skill Level EXP Gain
 patch=1,EE,105B77A0,extended,0000FFFF
 
-[Max Skill Level EXP]
+//Max Skill Level EXP
 author=GamingDragon93
 description=Max Skill Level EXP
 // Max Skill Level EXP
 patch=1,EE,205B77A0,extended,05F5E0FF
 
-[Poisoned]
+//Poisoned
 author=GamingDragon93
 description=Poisoned
 // Poisoned
 patch=1,EE,705B778C,extended,00000001
 
-[Paralyzed]
+//Paralyzed
 author=GamingDragon93
 description=Paralyzed
 // Paralyzed
 patch=1,EE,705B778C,extended,00000002
 
-[Sleeping]
+//Sleeping
 author=GamingDragon93
 description=Sleeping
 // Sleeping
 patch=1,EE,705B778C,extended,00000004
 
-[Confusion]
+//Confusion
 author=GamingDragon93
 description=Confusion
 // Confusion
 patch=1,EE,705B778C,extended,00000008
 
-[Sealed]
+//Sealed
 author=GamingDragon93
 description=Sealed
 // Sealed
 patch=1,EE,705B778C,extended,00000010
 
-[Sick]
+//Sick
 author=GamingDragon93
 description=Sick
 // Sick
 patch=1,EE,705B778C,extended,00000020
 
-[Unknown]
+//Unknown
 author=GamingDragon93
 description=Unknown
 // Unknown
 patch=1,EE,705B778C,extended,00000040
 
-[Slot 1]
+//Slot 1
 author=GamingDragon93
 description=Slot 1
 // Slot 1
 patch=1,EE,005B77F0,extended,00000006
 
-[Slot 2]
+//Slot 2
 author=GamingDragon93
 description=Slot 2
 // Slot 2
 patch=1,EE,005B77F1,extended,00000006
 
-[Slot 3]
+//Slot 3
 author=GamingDragon93
 description=Slot 3
 // Slot 3
 patch=1,EE,005B77F2,extended,00000006
 
-[Slot 4]
+//Slot 4
 author=GamingDragon93
 description=Slot 4
 // Slot 4
 patch=1,EE,005B77F3,extended,00000006
 
-[Slot 5]
+//Slot 5
 author=GamingDragon93
 description=Slot 5
 // Slot 5
 patch=1,EE,005B77F4,extended,00000006
 
-[Slot 6]
+//Slot 6
 author=GamingDragon93
 description=Slot 6
 // Slot 6
 patch=1,EE,005B77F5,extended,00000006
 
-[Max HP]
+//Max HP
 author=GamingDragon93
 description=Max HP
 // Max HP
 patch=1,EE,105B7874,extended,0000270F
 
-[Infinite HP]
+//Infinite HP
 author=GamingDragon93
 description=Infinite HP
 // Infinite HP
 patch=1,EE,105B7876,extended,0000270F
 
-[Max Infinite HP]
+//Max Infinite HP
 author=GamingDragon93
 description=Max Infinite HP
 // Max Infinite HP
 patch=1,EE,205B7874,extended,270F270F
 
-[Max MP]
+//Max MP
 author=GamingDragon93
 description=Max MP
 // Max MP
 patch=1,EE,105B7878,extended,0000270F
 
-[Infinite MP]
+//Infinite MP
 author=GamingDragon93
 description=Infinite MP
 // Infinite MP
 patch=1,EE,105B787A,extended,0000270F
 
-[Max Infinite MP]
+//Max Infinite MP
 author=GamingDragon93
 description=Max Infinite MP
 // Max Infinite MP
 patch=1,EE,205B7878,extended,270F270F
 
-[Max SP]
+//Max SP
 author=GamingDragon93
 description=Max SP
 // Max SP
 patch=1,EE,105B787C,extended,0000270F
 
-[Infinite SP]
+//Infinite SP
 author=GamingDragon93
 description=Infinite SP
 // Infinite SP
 patch=1,EE,105B787E,extended,0000270F
 
-[Max Infinite SP]
+//Max Infinite SP
 author=GamingDragon93
 description=Max Infinite SP
 // Max Infinite SP
 patch=1,EE,205B787C,extended,270F270F
 
-[Max ATK]
+//Max ATK
 author=GamingDragon93
 description=Max ATK
 // Max ATK
 patch=1,EE,105B7880,extended,000003E7
 
-[Max DEF]
+//Max DEF
 author=GamingDragon93
 description=Max DEF
 // Max DEF
 patch=1,EE,105B7882,extended,000003E7
 
-[Max MAG]
+//Max MAG
 author=GamingDragon93
 description=Max MAG
 // Max MAG
 patch=1,EE,105B7884,extended,000003E7
 
-[Max RES]
+//Max RES
 author=GamingDragon93
 description=Max RES
 // Max RES
 patch=1,EE,105B7886,extended,000003E7
 
-[Max INI]
+//Max INI
 author=GamingDragon93
 description=Max INI
 // Max INI
 patch=1,EE,105B7888,extended,000003E7
 
-[Max MOV]
+//Max MOV
 author=GamingDragon93
 description=Max MOV
 // Max MOV
 patch=1,EE,105B788A,extended,000003E7
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,405B7880,extended,00030001
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,03E704E7,extended,00000000
 
-[Quick EXP Gain]
+//Quick EXP Gain
 author=GamingDragon93
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,105B7890,extended,0000FFFF
 
-[Max Total EXP]
+//Max Total EXP
 author=GamingDragon93
 description=Max Total EXP
 // Max Total EXP
 patch=1,EE,205B7890,extended,05F5E0FF
 
-[Level 99]
+//Level 99
 author=GamingDragon93
 description=Level 99
 // Level 99
 patch=1,EE,005B7894,extended,00000063
 
-[Max Special Level]
+//Max Special Level
 author=GamingDragon93
 description=Max Special Level
 // Max Special Level
 patch=1,EE,005B7895,extended,00000063
 
-[Max Magic Level]
+//Max Magic Level
 author=GamingDragon93
 description=Max Magic Level
 // Max Magic Level
 patch=1,EE,005B7896,extended,00000063
 
-[Max Skill Level]
+//Max Skill Level
 author=GamingDragon93
 description=Max Skill Level
 // Max Skill Level
 patch=1,EE,005B7897,extended,00000063
 
-[Max All Levels]
+//Max All Levels
 author=GamingDragon93
 description=Max All Levels
 // Max All Levels
 patch=1,EE,205B7894,extended,63636363
 
-[Quick Special Level EXP Gain]
+//Quick Special Level EXP Gain
 author=GamingDragon93
 description=Quick Special Level EXP Gain
 // Quick Special Level EXP Gain
 patch=1,EE,105B7898,extended,0000FFFF
 
-[Max Special Level EXP]
+//Max Special Level EXP
 author=GamingDragon93
 description=Max Special Level EXP
 // Max Special Level EXP
 patch=1,EE,205B7898,extended,05F5E0FF
 
-[Quick 005B7796 Level EXP Gain]
+//Quick 005B7796 Level EXP Gain
 author=GamingDragon93
 description=Quick 005B7796 Level EXP Gain
 // Quick 005B7796 Level EXP Gain
 patch=1,EE,105B789C,extended,0000FFFF
 
-[Max 005B7796 Level EXP]
+//Max 005B7796 Level EXP
 author=GamingDragon93
 description=Max 005B7796 Level EXP
 // Max 005B7796 Level EXP
 patch=1,EE,205B789C,extended,05F5E0FF
 
-[Quick Skill Level EXP Gain]
+//Quick Skill Level EXP Gain
 author=GamingDragon93
 description=Quick Skill Level EXP Gain
 // Quick Skill Level EXP Gain
 patch=1,EE,105B78A0,extended,0000FFFF
 
-[Max Skill Level EXP]
+//Max Skill Level EXP
 author=GamingDragon93
 description=Max Skill Level EXP
 // Max Skill Level EXP
 patch=1,EE,205B78A0,extended,05F5E0FF
 
-[Poisoned]
+//Poisoned
 author=GamingDragon93
 description=Poisoned
 // Poisoned
 patch=1,EE,705B788C,extended,00000001
 
-[Paralyzed]
+//Paralyzed
 author=GamingDragon93
 description=Paralyzed
 // Paralyzed
 patch=1,EE,705B788C,extended,00000002
 
-[Sleeping]
+//Sleeping
 author=GamingDragon93
 description=Sleeping
 // Sleeping
 patch=1,EE,705B788C,extended,00000004
 
-[Confusion]
+//Confusion
 author=GamingDragon93
 description=Confusion
 // Confusion
 patch=1,EE,705B788C,extended,00000008
 
-[Sealed]
+//Sealed
 author=GamingDragon93
 description=Sealed
 // Sealed
 patch=1,EE,705B788C,extended,00000010
 
-[Sick]
+//Sick
 author=GamingDragon93
 description=Sick
 // Sick
 patch=1,EE,705B788C,extended,00000020
 
-[Unknown]
+//Unknown
 author=GamingDragon93
 description=Unknown
 // Unknown
 patch=1,EE,705B788C,extended,00000040
 
-[Slot 1]
+//Slot 1
 author=GamingDragon93
 description=Slot 1
 // Slot 1
 patch=1,EE,005B78F0,extended,00000006
 
-[Slot 2]
+//Slot 2
 author=GamingDragon93
 description=Slot 2
 // Slot 2
 patch=1,EE,005B78F1,extended,00000006
 
-[Slot 3]
+//Slot 3
 author=GamingDragon93
 description=Slot 3
 // Slot 3
 patch=1,EE,005B78F2,extended,00000006
 
-[Slot 4]
+//Slot 4
 author=GamingDragon93
 description=Slot 4
 // Slot 4
 patch=1,EE,005B78F3,extended,00000006
 
-[Slot 5]
+//Slot 5
 author=GamingDragon93
 description=Slot 5
 // Slot 5
 patch=1,EE,005B78F4,extended,00000006
 
-[Slot 6]
+//Slot 6
 author=GamingDragon93
 description=Slot 6
 // Slot 6
 patch=1,EE,005B78F5,extended,00000006
 
-[Max HP]
+//Max HP
 author=GamingDragon93
 description=Max HP
 // Max HP
 patch=1,EE,105B7974,extended,0000270F
 
-[Infinite HP]
+//Infinite HP
 author=GamingDragon93
 description=Infinite HP
 // Infinite HP
 patch=1,EE,105B7976,extended,0000270F
 
-[Max Infinite HP]
+//Max Infinite HP
 author=GamingDragon93
 description=Max Infinite HP
 // Max Infinite HP
 patch=1,EE,205B7974,extended,270F270F
 
-[Max MP]
+//Max MP
 author=GamingDragon93
 description=Max MP
 // Max MP
 patch=1,EE,105B7978,extended,0000270F
 
-[Infinite MP]
+//Infinite MP
 author=GamingDragon93
 description=Infinite MP
 // Infinite MP
 patch=1,EE,105B797A,extended,0000270F
 
-[Max Infinite MP]
+//Max Infinite MP
 author=GamingDragon93
 description=Max Infinite MP
 // Max Infinite MP
 patch=1,EE,205B7978,extended,270F270F
 
-[Max SP]
+//Max SP
 author=GamingDragon93
 description=Max SP
 // Max SP
 patch=1,EE,105B797C,extended,0000270F
 
-[Infinite SP]
+//Infinite SP
 author=GamingDragon93
 description=Infinite SP
 // Infinite SP
 patch=1,EE,105B797E,extended,0000270F
 
-[Max Infinite SP]
+//Max Infinite SP
 author=GamingDragon93
 description=Max Infinite SP
 // Max Infinite SP
 patch=1,EE,205B797C,extended,270F270F
 
-[Max ATK]
+//Max ATK
 author=GamingDragon93
 description=Max ATK
 // Max ATK
 patch=1,EE,105B7980,extended,000003E7
 
-[Max DEF]
+//Max DEF
 author=GamingDragon93
 description=Max DEF
 // Max DEF
 patch=1,EE,105B7982,extended,000003E7
 
-[Max MAG]
+//Max MAG
 author=GamingDragon93
 description=Max MAG
 // Max MAG
 patch=1,EE,105B7984,extended,000003E7
 
-[Max RES]
+//Max RES
 author=GamingDragon93
 description=Max RES
 // Max RES
 patch=1,EE,105B7986,extended,000003E7
 
-[Max INI]
+//Max INI
 author=GamingDragon93
 description=Max INI
 // Max INI
 patch=1,EE,105B7988,extended,000003E7
 
-[Max MOV]
+//Max MOV
 author=GamingDragon93
 description=Max MOV
 // Max MOV
 patch=1,EE,105B798A,extended,000003E7
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,405B7980,extended,00030001
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,03E705E7,extended,00000000
 
-[Quick EXP Gain]
+//Quick EXP Gain
 author=GamingDragon93
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,105B7990,extended,0000FFFF
 
-[Max Total EXP]
+//Max Total EXP
 author=GamingDragon93
 description=Max Total EXP
 // Max Total EXP
 patch=1,EE,205B7990,extended,05F5E0FF
 
-[Level 99]
+//Level 99
 author=GamingDragon93
 description=Level 99
 // Level 99
 patch=1,EE,005B7994,extended,00000063
 
-[Max Special Level]
+//Max Special Level
 author=GamingDragon93
 description=Max Special Level
 // Max Special Level
 patch=1,EE,005B7995,extended,00000063
 
-[Max Magic Level]
+//Max Magic Level
 author=GamingDragon93
 description=Max Magic Level
 // Max Magic Level
 patch=1,EE,005B7996,extended,00000063
 
-[Max Skill Level]
+//Max Skill Level
 author=GamingDragon93
 description=Max Skill Level
 // Max Skill Level
 patch=1,EE,005B7997,extended,00000063
 
-[Max All Levels]
+//Max All Levels
 author=GamingDragon93
 description=Max All Levels
 // Max All Levels
 patch=1,EE,205B7994,extended,63636363
 
-[Quick Special Level EXP Gain]
+//Quick Special Level EXP Gain
 author=GamingDragon93
 description=Quick Special Level EXP Gain
 // Quick Special Level EXP Gain
 patch=1,EE,105B7998,extended,0000FFFF
 
-[Max Special Level EXP]
+//Max Special Level EXP
 author=GamingDragon93
 description=Max Special Level EXP
 // Max Special Level EXP
 patch=1,EE,205B7998,extended,05F5E0FF
 
-[Quick 005B7796 Level EXP Gain]
+//Quick 005B7796 Level EXP Gain
 author=GamingDragon93
 description=Quick 005B7796 Level EXP Gain
 // Quick 005B7796 Level EXP Gain
 patch=1,EE,105B799C,extended,0000FFFF
 
-[Max 005B7796 Level EXP]
+//Max 005B7796 Level EXP
 author=GamingDragon93
 description=Max 005B7796 Level EXP
 // Max 005B7796 Level EXP
 patch=1,EE,205B799C,extended,05F5E0FF
 
-[Quick Skill Level EXP Gain]
+//Quick Skill Level EXP Gain
 author=GamingDragon93
 description=Quick Skill Level EXP Gain
 // Quick Skill Level EXP Gain
 patch=1,EE,105B79A0,extended,0000FFFF
 
-[Max Skill Level EXP]
+//Max Skill Level EXP
 author=GamingDragon93
 description=Max Skill Level EXP
 // Max Skill Level EXP
 patch=1,EE,205B79A0,extended,05F5E0FF
 
-[Poisoned]
+//Poisoned
 author=GamingDragon93
 description=Poisoned
 // Poisoned
 patch=1,EE,705B798C,extended,00000001
 
-[Paralyzed]
+//Paralyzed
 author=GamingDragon93
 description=Paralyzed
 // Paralyzed
 patch=1,EE,705B798C,extended,00000002
 
-[Sleeping]
+//Sleeping
 author=GamingDragon93
 description=Sleeping
 // Sleeping
 patch=1,EE,705B798C,extended,00000004
 
-[Confusion]
+//Confusion
 author=GamingDragon93
 description=Confusion
 // Confusion
 patch=1,EE,705B798C,extended,00000008
 
-[Sealed]
+//Sealed
 author=GamingDragon93
 description=Sealed
 // Sealed
 patch=1,EE,705B798C,extended,00000010
 
-[Sick]
+//Sick
 author=GamingDragon93
 description=Sick
 // Sick
 patch=1,EE,705B798C,extended,00000020
 
-[Unknown]
+//Unknown
 author=GamingDragon93
 description=Unknown
 // Unknown
 patch=1,EE,705B798C,extended,00000040
 
-[Slot 1]
+//Slot 1
 author=GamingDragon93
 description=Slot 1
 // Slot 1
 patch=1,EE,005B79F0,extended,00000006
 
-[Slot 2]
+//Slot 2
 author=GamingDragon93
 description=Slot 2
 // Slot 2
 patch=1,EE,005B79F1,extended,00000006
 
-[Max HP]
+//Max HP
 author=GamingDragon93
 description=Max HP
 // Max HP
 patch=1,EE,105B7A74,extended,0000270F
 
-[Infinite HP]
+//Infinite HP
 author=GamingDragon93
 description=Infinite HP
 // Infinite HP
 patch=1,EE,105B7A76,extended,0000270F
 
-[Max Infinite HP]
+//Max Infinite HP
 author=GamingDragon93
 description=Max Infinite HP
 // Max Infinite HP
 patch=1,EE,205B7A74,extended,270F270F
 
-[Max MP]
+//Max MP
 author=GamingDragon93
 description=Max MP
 // Max MP
 patch=1,EE,105B7A78,extended,0000270F
 
-[Infinite MP]
+//Infinite MP
 author=GamingDragon93
 description=Infinite MP
 // Infinite MP
 patch=1,EE,105B7A7A,extended,0000270F
 
-[Max Infinite MP]
+//Max Infinite MP
 author=GamingDragon93
 description=Max Infinite MP
 // Max Infinite MP
 patch=1,EE,205B7A78,extended,270F270F
 
-[Max SP]
+//Max SP
 author=GamingDragon93
 description=Max SP
 // Max SP
 patch=1,EE,105B7A7C,extended,0000270F
 
-[Infinite SP]
+//Infinite SP
 author=GamingDragon93
 description=Infinite SP
 // Infinite SP
 patch=1,EE,105B7A7E,extended,0000270F
 
-[Max Infinite SP]
+//Max Infinite SP
 author=GamingDragon93
 description=Max Infinite SP
 // Max Infinite SP
 patch=1,EE,205B7A7C,extended,270F270F
 
-[Max ATK]
+//Max ATK
 author=GamingDragon93
 description=Max ATK
 // Max ATK
 patch=1,EE,105B7A80,extended,000003E7
 
-[Max DEF]
+//Max DEF
 author=GamingDragon93
 description=Max DEF
 // Max DEF
 patch=1,EE,105B7A82,extended,000003E7
 
-[Max MAG]
+//Max MAG
 author=GamingDragon93
 description=Max MAG
 // Max MAG
 patch=1,EE,105B7A84,extended,000003E7
 
-[Max RES]
+//Max RES
 author=GamingDragon93
 description=Max RES
 // Max RES
 patch=1,EE,105B7A86,extended,000003E7
 
-[Max INI]
+//Max INI
 author=GamingDragon93
 description=Max INI
 // Max INI
 patch=1,EE,105B7A88,extended,000003E7
 
-[Max MOV]
+//Max MOV
 author=GamingDragon93
 description=Max MOV
 // Max MOV
 patch=1,EE,105B7A8A,extended,000003E7
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,405B7A80,extended,00030001
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,03E706E7,extended,00000000
 
-[Quick EXP Gain]
+//Quick EXP Gain
 author=GamingDragon93
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,105B7A90,extended,0000FFFF
 
-[Max Total EXP]
+//Max Total EXP
 author=GamingDragon93
 description=Max Total EXP
 // Max Total EXP
 patch=1,EE,205B7A90,extended,05F5E0FF
 
-[Level 99]
+//Level 99
 author=GamingDragon93
 description=Level 99
 // Level 99
 patch=1,EE,005B7A94,extended,00000063
 
-[Max Special Level]
+//Max Special Level
 author=GamingDragon93
 description=Max Special Level
 // Max Special Level
 patch=1,EE,005B7A95,extended,00000063
 
-[Max Magic Level]
+//Max Magic Level
 author=GamingDragon93
 description=Max Magic Level
 // Max Magic Level
 patch=1,EE,005B7A96,extended,00000063
 
-[Max Skill Level]
+//Max Skill Level
 author=GamingDragon93
 description=Max Skill Level
 // Max Skill Level
 patch=1,EE,005B7A97,extended,00000063
 
-[Max All Levels]
+//Max All Levels
 author=GamingDragon93
 description=Max All Levels
 // Max All Levels
 patch=1,EE,205B7A94,extended,63636363
 
-[Quick Special Level EXP Gain]
+//Quick Special Level EXP Gain
 author=GamingDragon93
 description=Quick Special Level EXP Gain
 // Quick Special Level EXP Gain
 patch=1,EE,105B7A98,extended,0000FFFF
 
-[Max Special Level EXP]
+//Max Special Level EXP
 author=GamingDragon93
 description=Max Special Level EXP
 // Max Special Level EXP
 patch=1,EE,205B7A98,extended,05F5E0FF
 
-[Quick 005B7796 Level EXP Gain]
+//Quick 005B7796 Level EXP Gain
 author=GamingDragon93
 description=Quick 005B7796 Level EXP Gain
 // Quick 005B7796 Level EXP Gain
 patch=1,EE,105B7A9C,extended,0000FFFF
 
-[Max 005B7796 Level EXP]
+//Max 005B7796 Level EXP
 author=GamingDragon93
 description=Max 005B7796 Level EXP
 // Max 005B7796 Level EXP
 patch=1,EE,205B7A9C,extended,05F5E0FF
 
-[Quick Skill Level EXP Gain]
+//Quick Skill Level EXP Gain
 author=GamingDragon93
 description=Quick Skill Level EXP Gain
 // Quick Skill Level EXP Gain
 patch=1,EE,105B7AA0,extended,0000FFFF
 
-[Max Skill Level EXP]
+//Max Skill Level EXP
 author=GamingDragon93
 description=Max Skill Level EXP
 // Max Skill Level EXP
 patch=1,EE,205B7AA0,extended,05F5E0FF
 
-[Poisoned]
+//Poisoned
 author=GamingDragon93
 description=Poisoned
 // Poisoned
 patch=1,EE,705B7A8C,extended,00000001
 
-[Paralyzed]
+//Paralyzed
 author=GamingDragon93
 description=Paralyzed
 // Paralyzed
 patch=1,EE,705B7A8C,extended,00000002
 
-[Sleeping]
+//Sleeping
 author=GamingDragon93
 description=Sleeping
 // Sleeping
 patch=1,EE,705B7A8C,extended,00000004
 
-[Confusion]
+//Confusion
 author=GamingDragon93
 description=Confusion
 // Confusion
 patch=1,EE,705B7A8C,extended,00000008
 
-[Sealed]
+//Sealed
 author=GamingDragon93
 description=Sealed
 // Sealed
 patch=1,EE,705B7A8C,extended,00000010
 
-[Sick]
+//Sick
 author=GamingDragon93
 description=Sick
 // Sick
 patch=1,EE,705B7A8C,extended,00000020
 
-[Unknown]
+//Unknown
 author=GamingDragon93
 description=Unknown
 // Unknown
 patch=1,EE,705B7A8C,extended,00000040
 
-[Slot 1]
+//Slot 1
 author=GamingDragon93
 description=Slot 1
 // Slot 1
 patch=1,EE,005B7AF0,extended,00000006
 
-[Slot 2]
+//Slot 2
 author=GamingDragon93
 description=Slot 2
 // Slot 2
 patch=1,EE,005B7AF1,extended,00000006
 
-[Slot 3]
+//Slot 3
 author=GamingDragon93
 description=Slot 3
 // Slot 3
 patch=1,EE,005B7AF2,extended,00000006
 
-[Slot 4]
+//Slot 4
 author=GamingDragon93
 description=Slot 4
 // Slot 4
 patch=1,EE,005B7AF3,extended,00000006
 
-[Slot 5]
+//Slot 5
 author=GamingDragon93
 description=Slot 5
 // Slot 5
 patch=1,EE,005B7AF4,extended,00000006
 
-[Slot 6]
+//Slot 6
 author=GamingDragon93
 description=Slot 6
 // Slot 6
 patch=1,EE,005B7AF5,extended,00000006
 
-[Max HP]
+//Max HP
 author=GamingDragon93
 description=Max HP
 // Max HP
 patch=1,EE,105B7B74,extended,0000270F
 
-[Infinite HP]
+//Infinite HP
 author=GamingDragon93
 description=Infinite HP
 // Infinite HP
 patch=1,EE,105B7B76,extended,0000270F
 
-[Max Infinite HP]
+//Max Infinite HP
 author=GamingDragon93
 description=Max Infinite HP
 // Max Infinite HP
 patch=1,EE,205B7B74,extended,270F270F
 
-[Max MP]
+//Max MP
 author=GamingDragon93
 description=Max MP
 // Max MP
 patch=1,EE,105B7B78,extended,0000270F
 
-[Infinite MP]
+//Infinite MP
 author=GamingDragon93
 description=Infinite MP
 // Infinite MP
 patch=1,EE,105B7B7A,extended,0000270F
 
-[Max Infinite MP]
+//Max Infinite MP
 author=GamingDragon93
 description=Max Infinite MP
 // Max Infinite MP
 patch=1,EE,205B7B78,extended,270F270F
 
-[Max SP]
+//Max SP
 author=GamingDragon93
 description=Max SP
 // Max SP
 patch=1,EE,105B7B7C,extended,0000270F
 
-[Infinite SP]
+//Infinite SP
 author=GamingDragon93
 description=Infinite SP
 // Infinite SP
 patch=1,EE,105B7B7E,extended,0000270F
 
-[Max Infinite SP]
+//Max Infinite SP
 author=GamingDragon93
 description=Max Infinite SP
 // Max Infinite SP
 patch=1,EE,205B7B7C,extended,270F270F
 
-[Max ATK]
+//Max ATK
 author=GamingDragon93
 description=Max ATK
 // Max ATK
 patch=1,EE,105B7B80,extended,000003E7
 
-[Max DEF]
+//Max DEF
 author=GamingDragon93
 description=Max DEF
 // Max DEF
 patch=1,EE,105B7B82,extended,000003E7
 
-[Max MAG]
+//Max MAG
 author=GamingDragon93
 description=Max MAG
 // Max MAG
 patch=1,EE,105B7B84,extended,000003E7
 
-[Max RES]
+//Max RES
 author=GamingDragon93
 description=Max RES
 // Max RES
 patch=1,EE,105B7B86,extended,000003E7
 
-[Max INI]
+//Max INI
 author=GamingDragon93
 description=Max INI
 // Max INI
 patch=1,EE,105B7B88,extended,000003E7
 
-[Max MOV]
+//Max MOV
 author=GamingDragon93
 description=Max MOV
 // Max MOV
 patch=1,EE,105B7B8A,extended,000003E7
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,405B7B80,extended,00030001
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,03E707E7,extended,00000000
 
-[Quick EXP Gain]
+//Quick EXP Gain
 author=GamingDragon93
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,105B7B90,extended,0000FFFF
 
-[Max Total EXP]
+//Max Total EXP
 author=GamingDragon93
 description=Max Total EXP
 // Max Total EXP
 patch=1,EE,205B7B90,extended,05F5E0FF
 
-[Level 99]
+//Level 99
 author=GamingDragon93
 description=Level 99
 // Level 99
 patch=1,EE,005B7B94,extended,00000063
 
-[Max Special Level]
+//Max Special Level
 author=GamingDragon93
 description=Max Special Level
 // Max Special Level
 patch=1,EE,005B7B95,extended,00000063
 
-[Max Magic Level]
+//Max Magic Level
 author=GamingDragon93
 description=Max Magic Level
 // Max Magic Level
 patch=1,EE,005B7B96,extended,00000063
 
-[Max Skill Level]
+//Max Skill Level
 author=GamingDragon93
 description=Max Skill Level
 // Max Skill Level
 patch=1,EE,005B7B97,extended,00000063
 
-[Max All Levels]
+//Max All Levels
 author=GamingDragon93
 description=Max All Levels
 // Max All Levels
 patch=1,EE,205B7B94,extended,63636363
 
-[Quick Special Level EXP Gain]
+//Quick Special Level EXP Gain
 author=GamingDragon93
 description=Quick Special Level EXP Gain
 // Quick Special Level EXP Gain
 patch=1,EE,105B7B98,extended,0000FFFF
 
-[Max Special Level EXP]
+//Max Special Level EXP
 author=GamingDragon93
 description=Max Special Level EXP
 // Max Special Level EXP
 patch=1,EE,205B7B98,extended,05F5E0FF
 
-[Quick 005B7796 Level EXP Gain]
+//Quick 005B7796 Level EXP Gain
 author=GamingDragon93
 description=Quick 005B7796 Level EXP Gain
 // Quick 005B7796 Level EXP Gain
 patch=1,EE,105B7B9C,extended,0000FFFF
 
-[Max 005B7796 Level EXP]
+//Max 005B7796 Level EXP
 author=GamingDragon93
 description=Max 005B7796 Level EXP
 // Max 005B7796 Level EXP
 patch=1,EE,205B7B9C,extended,05F5E0FF
 
-[Quick Skill Level EXP Gain]
+//Quick Skill Level EXP Gain
 author=GamingDragon93
 description=Quick Skill Level EXP Gain
 // Quick Skill Level EXP Gain
 patch=1,EE,105B7BA0,extended,0000FFFF
 
-[Max Skill Level EXP]
+//Max Skill Level EXP
 author=GamingDragon93
 description=Max Skill Level EXP
 // Max Skill Level EXP
 patch=1,EE,205B7BA0,extended,05F5E0FF
 
-[Poisoned]
+//Poisoned
 author=GamingDragon93
 description=Poisoned
 // Poisoned
 patch=1,EE,705B7B8C,extended,00000001
 
-[Paralyzed]
+//Paralyzed
 author=GamingDragon93
 description=Paralyzed
 // Paralyzed
 patch=1,EE,705B7B8C,extended,00000002
 
-[Sleeping]
+//Sleeping
 author=GamingDragon93
 description=Sleeping
 // Sleeping
 patch=1,EE,705B7B8C,extended,00000004
 
-[Confusion]
+//Confusion
 author=GamingDragon93
 description=Confusion
 // Confusion
 patch=1,EE,705B7B8C,extended,00000008
 
-[Sealed]
+//Sealed
 author=GamingDragon93
 description=Sealed
 // Sealed
 patch=1,EE,705B7B8C,extended,00000010
 
-[Sick]
+//Sick
 author=GamingDragon93
 description=Sick
 // Sick
 patch=1,EE,705B7B8C,extended,00000020
 
-[Unknown]
+//Unknown
 author=GamingDragon93
 description=Unknown
 // Unknown
 patch=1,EE,705B7B8C,extended,00000040
 
-[Slot 1]
+//Slot 1
 author=GamingDragon93
 description=Slot 1
 // Slot 1
 patch=1,EE,005B7BF0,extended,00000006
 
-[Slot 2]
+//Slot 2
 author=GamingDragon93
 description=Slot 2
 // Slot 2
 patch=1,EE,005B7BF1,extended,00000006
 
-[Slot 3]
+//Slot 3
 author=GamingDragon93
 description=Slot 3
 // Slot 3
 patch=1,EE,005B7BF2,extended,00000006
 
-[Slot 4]
+//Slot 4
 author=GamingDragon93
 description=Slot 4
 // Slot 4
 patch=1,EE,005B7BF3,extended,00000006
 
-[Slot 5]
+//Slot 5
 author=GamingDragon93
 description=Slot 5
 // Slot 5
 patch=1,EE,005B7BF4,extended,00000006
 
-[Slot 6]
+//Slot 6
 author=GamingDragon93
 description=Slot 6
 // Slot 6
 patch=1,EE,005B7BF5,extended,00000006
 
-[Max HP]
+//Max HP
 author=GamingDragon93
 description=Max HP
 // Max HP
 patch=1,EE,105B7C74,extended,0000270F
 
-[Infinite HP]
+//Infinite HP
 author=GamingDragon93
 description=Infinite HP
 // Infinite HP
 patch=1,EE,105B7C76,extended,0000270F
 
-[Max Infinite HP]
+//Max Infinite HP
 author=GamingDragon93
 description=Max Infinite HP
 // Max Infinite HP
 patch=1,EE,205B7C74,extended,270F270F
 
-[Max MP]
+//Max MP
 author=GamingDragon93
 description=Max MP
 // Max MP
 patch=1,EE,105B7C78,extended,0000270F
 
-[Infinite MP]
+//Infinite MP
 author=GamingDragon93
 description=Infinite MP
 // Infinite MP
 patch=1,EE,105B7C7A,extended,0000270F
 
-[Max Infinite MP]
+//Max Infinite MP
 author=GamingDragon93
 description=Max Infinite MP
 // Max Infinite MP
 patch=1,EE,205B7C78,extended,270F270F
 
-[Max SP]
+//Max SP
 author=GamingDragon93
 description=Max SP
 // Max SP
 patch=1,EE,105B7C7C,extended,0000270F
 
-[Infinite SP]
+//Infinite SP
 author=GamingDragon93
 description=Infinite SP
 // Infinite SP
 patch=1,EE,105B7C7E,extended,0000270F
 
-[Max Infinite SP]
+//Max Infinite SP
 author=GamingDragon93
 description=Max Infinite SP
 // Max Infinite SP
 patch=1,EE,205B7C7C,extended,270F270F
 
-[Max ATK]
+//Max ATK
 author=GamingDragon93
 description=Max ATK
 // Max ATK
 patch=1,EE,105B7C80,extended,000003E7
 
-[Max DEF]
+//Max DEF
 author=GamingDragon93
 description=Max DEF
 // Max DEF
 patch=1,EE,105B7C82,extended,000003E7
 
-[Max MAG]
+//Max MAG
 author=GamingDragon93
 description=Max MAG
 // Max MAG
 patch=1,EE,105B7C84,extended,000003E7
 
-[Max RES]
+//Max RES
 author=GamingDragon93
 description=Max RES
 // Max RES
 patch=1,EE,105B7C86,extended,000003E7
 
-[Max INI]
+//Max INI
 author=GamingDragon93
 description=Max INI
 // Max INI
 patch=1,EE,105B7C88,extended,000003E7
 
-[Max MOV]
+//Max MOV
 author=GamingDragon93
 description=Max MOV
 // Max MOV
 patch=1,EE,105B7C8A,extended,000003E7
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,405B7C80,extended,00030001
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,03E708E7,extended,00000000
 
-[Quick EXP Gain]
+//Quick EXP Gain
 author=GamingDragon93
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,105B7C90,extended,0000FFFF
 
-[Max Total EXP]
+//Max Total EXP
 author=GamingDragon93
 description=Max Total EXP
 // Max Total EXP
 patch=1,EE,205B7C90,extended,05F5E0FF
 
-[Level 99]
+//Level 99
 author=GamingDragon93
 description=Level 99
 // Level 99
 patch=1,EE,005B7C94,extended,00000063
 
-[Max Special Level]
+//Max Special Level
 author=GamingDragon93
 description=Max Special Level
 // Max Special Level
 patch=1,EE,005B7C95,extended,00000063
 
-[Max Magic Level]
+//Max Magic Level
 author=GamingDragon93
 description=Max Magic Level
 // Max Magic Level
 patch=1,EE,005B7C96,extended,00000063
 
-[Max Skill Level]
+//Max Skill Level
 author=GamingDragon93
 description=Max Skill Level
 // Max Skill Level
 patch=1,EE,005B7C97,extended,00000063
 
-[Max All Levels]
+//Max All Levels
 author=GamingDragon93
 description=Max All Levels
 // Max All Levels
 patch=1,EE,205B7C94,extended,63636363
 
-[Quick Special Level EXP Gain]
+//Quick Special Level EXP Gain
 author=GamingDragon93
 description=Quick Special Level EXP Gain
 // Quick Special Level EXP Gain
 patch=1,EE,105B7C98,extended,0000FFFF
 
-[Max Special Level EXP]
+//Max Special Level EXP
 author=GamingDragon93
 description=Max Special Level EXP
 // Max Special Level EXP
 patch=1,EE,205B7C98,extended,05F5E0FF
 
-[Quick 005B7796 Level EXP Gain]
+//Quick 005B7796 Level EXP Gain
 author=GamingDragon93
 description=Quick 005B7796 Level EXP Gain
 // Quick 005B7796 Level EXP Gain
 patch=1,EE,105B7C9C,extended,0000FFFF
 
-[Max 005B7796 Level EXP]
+//Max 005B7796 Level EXP
 author=GamingDragon93
 description=Max 005B7796 Level EXP
 // Max 005B7796 Level EXP
 patch=1,EE,205B7C9C,extended,05F5E0FF
 
-[Quick Skill Level EXP Gain]
+//Quick Skill Level EXP Gain
 author=GamingDragon93
 description=Quick Skill Level EXP Gain
 // Quick Skill Level EXP Gain
 patch=1,EE,105B7CA0,extended,0000FFFF
 
-[Max Skill Level EXP]
+//Max Skill Level EXP
 author=GamingDragon93
 description=Max Skill Level EXP
 // Max Skill Level EXP
 patch=1,EE,205B7CA0,extended,05F5E0FF
 
-[Poisoned]
+//Poisoned
 author=GamingDragon93
 description=Poisoned
 // Poisoned
 patch=1,EE,705B7C8C,extended,00000001
 
-[Paralyzed]
+//Paralyzed
 author=GamingDragon93
 description=Paralyzed
 // Paralyzed
 patch=1,EE,705B7C8C,extended,00000002
 
-[Sleeping]
+//Sleeping
 author=GamingDragon93
 description=Sleeping
 // Sleeping
 patch=1,EE,705B7C8C,extended,00000004
 
-[Confusion]
+//Confusion
 author=GamingDragon93
 description=Confusion
 // Confusion
 patch=1,EE,705B7C8C,extended,00000008
 
-[Sealed]
+//Sealed
 author=GamingDragon93
 description=Sealed
 // Sealed
 patch=1,EE,705B7C8C,extended,00000010
 
-[Sick]
+//Sick
 author=GamingDragon93
 description=Sick
 // Sick
 patch=1,EE,705B7C8C,extended,00000020
 
-[Unknown]
+//Unknown
 author=GamingDragon93
 description=Unknown
 // Unknown
 patch=1,EE,705B7C8C,extended,00000040
 
-[Slot 1]
+//Slot 1
 author=GamingDragon93
 description=Slot 1
 // Slot 1
 patch=1,EE,005B7CF0,extended,00000006
 
-[Slot 2]
+//Slot 2
 author=GamingDragon93
 description=Slot 2
 // Slot 2
 patch=1,EE,005B7CF1,extended,00000006
 
-[Slot 3]
+//Slot 3
 author=GamingDragon93
 description=Slot 3
 // Slot 3
 patch=1,EE,005B7CF2,extended,00000006
 
-[Slot 4]
+//Slot 4
 author=GamingDragon93
 description=Slot 4
 // Slot 4
 patch=1,EE,005B7CF3,extended,00000006
 
-[Slot 5]
+//Slot 5
 author=GamingDragon93
 description=Slot 5
 // Slot 5
 patch=1,EE,005B7CF4,extended,00000006
 
-[Slot 6]
+//Slot 6
 author=GamingDragon93
 description=Slot 6
 // Slot 6
 patch=1,EE,005B7CF5,extended,00000006
 
-[Max HP]
+//Max HP
 author=GamingDragon93
 description=Max HP
 // Max HP
 patch=1,EE,105B7D74,extended,0000270F
 
-[Infinite HP]
+//Infinite HP
 author=GamingDragon93
 description=Infinite HP
 // Infinite HP
 patch=1,EE,105B7D76,extended,0000270F
 
-[Max Infinite HP]
+//Max Infinite HP
 author=GamingDragon93
 description=Max Infinite HP
 // Max Infinite HP
 patch=1,EE,205B7D74,extended,270F270F
 
-[Max MP]
+//Max MP
 author=GamingDragon93
 description=Max MP
 // Max MP
 patch=1,EE,105B7D78,extended,0000270F
 
-[Infinite MP]
+//Infinite MP
 author=GamingDragon93
 description=Infinite MP
 // Infinite MP
 patch=1,EE,105B7D7A,extended,0000270F
 
-[Max Infinite MP]
+//Max Infinite MP
 author=GamingDragon93
 description=Max Infinite MP
 // Max Infinite MP
 patch=1,EE,205B7D78,extended,270F270F
 
-[Max SP]
+//Max SP
 author=GamingDragon93
 description=Max SP
 // Max SP
 patch=1,EE,105B7D7C,extended,0000270F
 
-[Infinite SP]
+//Infinite SP
 author=GamingDragon93
 description=Infinite SP
 // Infinite SP
 patch=1,EE,105B7D7E,extended,0000270F
 
-[Max Infinite SP]
+//Max Infinite SP
 author=GamingDragon93
 description=Max Infinite SP
 // Max Infinite SP
 patch=1,EE,205B7D7C,extended,270F270F
 
-[Max ATK]
+//Max ATK
 author=GamingDragon93
 description=Max ATK
 // Max ATK
 patch=1,EE,105B7D80,extended,000003E7
 
-[Max DEF]
+//Max DEF
 author=GamingDragon93
 description=Max DEF
 // Max DEF
 patch=1,EE,105B7D82,extended,000003E7
 
-[Max MAG]
+//Max MAG
 author=GamingDragon93
 description=Max MAG
 // Max MAG
 patch=1,EE,105B7D84,extended,000003E7
 
-[Max RES]
+//Max RES
 author=GamingDragon93
 description=Max RES
 // Max RES
 patch=1,EE,105B7D86,extended,000003E7
 
-[Max INI]
+//Max INI
 author=GamingDragon93
 description=Max INI
 // Max INI
 patch=1,EE,105B7D88,extended,000003E7
 
-[Max MOV]
+//Max MOV
 author=GamingDragon93
 description=Max MOV
 // Max MOV
 patch=1,EE,105B7D8A,extended,000003E7
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,405B7D80,extended,00030001
 
-[Max All Stats]
+//Max All Stats
 author=GamingDragon93
 description=Max All Stats
 // Max All Stats
 patch=1,EE,03E709E7,extended,00000000
 
-[Quick EXP Gain]
+//Quick EXP Gain
 author=GamingDragon93
 description=Quick EXP Gain
 // Quick EXP Gain
 patch=1,EE,105B7D90,extended,0000FFFF
 
-[Max Total EXP]
+//Max Total EXP
 author=GamingDragon93
 description=Max Total EXP
 // Max Total EXP
 patch=1,EE,205B7D90,extended,05F5E0FF
 
-[Level 99]
+//Level 99
 author=GamingDragon93
 description=Level 99
 // Level 99
 patch=1,EE,005B7D94,extended,00000063
 
-[Max Special Level]
+//Max Special Level
 author=GamingDragon93
 description=Max Special Level
 // Max Special Level
 patch=1,EE,005B7D95,extended,00000063
 
-[Max Magic Level]
+//Max Magic Level
 author=GamingDragon93
 description=Max Magic Level
 // Max Magic Level
 patch=1,EE,005B7D96,extended,00000063
 
-[Max Skill Level]
+//Max Skill Level
 author=GamingDragon93
 description=Max Skill Level
 // Max Skill Level
 patch=1,EE,005B7D97,extended,00000063
 
-[Max All Levels]
+//Max All Levels
 author=GamingDragon93
 description=Max All Levels
 // Max All Levels
 patch=1,EE,205B7D94,extended,63636363
 
-[Quick Special Level EXP Gain]
+//Quick Special Level EXP Gain
 author=GamingDragon93
 description=Quick Special Level EXP Gain
 // Quick Special Level EXP Gain
 patch=1,EE,105B7D98,extended,0000FFFF
 
-[Max Special Level EXP]
+//Max Special Level EXP
 author=GamingDragon93
 description=Max Special Level EXP
 // Max Special Level EXP
 patch=1,EE,205B7D98,extended,05F5E0FF
 
-[Quick 005B7796 Level EXP Gain]
+//Quick 005B7796 Level EXP Gain
 author=GamingDragon93
 description=Quick 005B7796 Level EXP Gain
 // Quick 005B7796 Level EXP Gain
 patch=1,EE,105B7D9C,extended,0000FFFF
 
-[Max 005B7796 Level EXP]
+//Max 005B7796 Level EXP
 author=GamingDragon93
 description=Max 005B7796 Level EXP
 // Max 005B7796 Level EXP
 patch=1,EE,205B7D9C,extended,05F5E0FF
 
-[Quick Skill Level EXP Gain]
+//Quick Skill Level EXP Gain
 author=GamingDragon93
 description=Quick Skill Level EXP Gain
 // Quick Skill Level EXP Gain
 patch=1,EE,105B7DA0,extended,0000FFFF
 
-[Max Skill Level EXP]
+//Max Skill Level EXP
 author=GamingDragon93
 description=Max Skill Level EXP
 // Max Skill Level EXP
 patch=1,EE,205B7DA0,extended,05F5E0FF
 
-[Poisoned]
+//Poisoned
 author=GamingDragon93
 description=Poisoned
 // Poisoned
 patch=1,EE,705B7D8C,extended,00000001
 
-[Paralyzed]
+//Paralyzed
 author=GamingDragon93
 description=Paralyzed
 // Paralyzed
 patch=1,EE,705B7D8C,extended,00000002
 
-[Sleeping]
+//Sleeping
 author=GamingDragon93
 description=Sleeping
 // Sleeping
 patch=1,EE,705B7D8C,extended,00000004
 
-[Confusion]
+//Confusion
 author=GamingDragon93
 description=Confusion
 // Confusion
 patch=1,EE,705B7D8C,extended,00000008
 
-[Sealed]
+//Sealed
 author=GamingDragon93
 description=Sealed
 // Sealed
 patch=1,EE,705B7D8C,extended,00000010
 
-[Sick]
+//Sick
 author=GamingDragon93
 description=Sick
 // Sick
 patch=1,EE,705B7D8C,extended,00000020
 
-[Unknown]
+//Unknown
 author=GamingDragon93
 description=Unknown
 // Unknown
 patch=1,EE,705B7D8C,extended,00000040
 
-[Slot 1]
+//Slot 1
 author=GamingDragon93
 description=Slot 1
 // Slot 1
 patch=1,EE,005B7DF0,extended,00000006
 
-[Slot 2]
+//Slot 2
 author=GamingDragon93
 description=Slot 2
 // Slot 2
 patch=1,EE,005B7DF1,extended,00000006
 
-[Slot 3]
+//Slot 3
 author=GamingDragon93
 description=Slot 3
 // Slot 3
 patch=1,EE,005B7DF2,extended,00000006
 
-[Slot 4]
+//Slot 4
 author=GamingDragon93
 description=Slot 4
 // Slot 4
 patch=1,EE,005B7DF3,extended,00000006
 
-[Slot 5]
+//Slot 5
 author=GamingDragon93
 description=Slot 5
 // Slot 5
 patch=1,EE,005B7DF4,extended,00000006
 
-[Slot 6]
+//Slot 6
 author=GamingDragon93
 description=Slot 6
 // Slot 6
 patch=1,EE,005B7DF5,extended,00000006
 
-[Flight Unit]
+//Flight Unit
 author=GamingDragon93
 description=Flight Unit
 // Flight Unit
 patch=1,EE,005B74C2,extended,00000009
 
-[Medicinal Herb]
+//Medicinal Herb
 author=GamingDragon93
 description=Medicinal Herb
 // Medicinal Herb
 patch=1,EE,005B74C3,extended,00000009
 
-[Lem Fruit]
+//Lem Fruit
 author=GamingDragon93
 description=Lem Fruit
 // Lem Fruit
 patch=1,EE,005B74C4,extended,00000009
 
-[Drak's Orb]
+//Drak's Orb
 author=GamingDragon93
 description=Drak's Orb
 // Drak's Orb
 patch=1,EE,005B74C5,extended,00000009
 
-[Chief Emblem]
+//Chief Emblem
 author=GamingDragon93
 description=Chief Emblem
 // Chief Emblem
 patch=1,EE,005B74C6,extended,00000009
 
-[Yoat's Orb]
+//Yoat's Orb
 author=GamingDragon93
 description=Yoat's Orb
 // Yoat's Orb
 patch=1,EE,005B74C7,extended,00000009
 
-[Seiba's Orb]
+//Seiba's Orb
 author=GamingDragon93
 description=Seiba's Orb
 // Seiba's Orb
 patch=1,EE,005B74C8,extended,00000009
 
-[Unama's Orb]
+//Unama's Orb
 author=GamingDragon93
 description=Unama's Orb
 // Unama's Orb
 patch=1,EE,005B74C9,extended,00000009
 
-[Alfina's Brooch]
+//Alfina's Brooch
 author=GamingDragon93
 description=Alfina's Brooch
 // Alfina's Brooch
 patch=1,EE,005B74CA,extended,00000009
 
-[Alfina's Brooch]
+//Alfina's Brooch
 author=GamingDragon93
 description=Alfina's Brooch
 // Alfina's Brooch
 patch=1,EE,005B74CB,extended,00000009
 
-[Boat Key]
+//Boat Key
 author=GamingDragon93
 description=Boat Key
 // Boat Key
 patch=1,EE,005B74CC,extended,00000009
 
-[Lem Fruit]
+//Lem Fruit
 author=GamingDragon93
 description=Lem Fruit
 // Lem Fruit
 patch=1,EE,005B74CD,extended,00000009
 
-[Necklace]
+//Necklace
 author=GamingDragon93
 description=Necklace
 // Necklace
 patch=1,EE,005B74CE,extended,00000009
 
-[Flight Unit]
+//Flight Unit
 author=GamingDragon93
 description=Flight Unit
 // Flight Unit
 patch=1,EE,005B74D0,extended,00000009
 
-[Medal]
+//Medal
 author=GamingDragon93
 description=Medal
 // Medal
 patch=1,EE,005B74E9,extended,00000009
 
-[20 Medals]
+//20 Medals
 author=GamingDragon93
 description=20 Medals
 // 20 Medals
 patch=1,EE,005B74EA,extended,00000009
 
-[200 Medals]
+//200 Medals
 author=GamingDragon93
 description=200 Medals
 // 200 Medals
 patch=1,EE,005B74EB,extended,00000009
 
-[2000 Medals]
+//2000 Medals
 author=GamingDragon93
 description=2000 Medals
 // 2000 Medals
 patch=1,EE,005B74EC,extended,00000009
 
-[All Valuables]
+//All Valuables
 author=GamingDragon93
 description=All Valuables
 // All Valuables
 patch=1,EE,105B74C2,extended,00000909
 
-[All Valuables]
+//All Valuables
 author=GamingDragon93
 description=All Valuables
 // All Valuables
 patch=1,EE,405B74C4,extended,000A0001
 
-[All Valuables]
+//All Valuables
 author=GamingDragon93
 description=All Valuables
 // All Valuables
 patch=1,EE,09090909,extended,00000000
 
-[All Valuables]
+//All Valuables
 author=GamingDragon93
 description=All Valuables
 // All Valuables
 patch=1,EE,005B74EC,extended,00000009
 
-[Mystic Potion]
+//Mystic Potion
 author=GamingDragon93
 description=Mystic Potion
 // Mystic Potion
 patch=1,EE,005B751C,extended,00000009
 
-[Crimson Potion]
+//Crimson Potion
 author=GamingDragon93
 description=Crimson Potion
 // Crimson Potion
 patch=1,EE,005B751D,extended,00000009
 
-[Rez Potion]
+//Rez Potion
 author=GamingDragon93
 description=Rez Potion
 // Rez Potion
 patch=1,EE,005B751E,extended,00000009
 
-[Healing Fruit]
+//Healing Fruit
 author=GamingDragon93
 description=Healing Fruit
 // Healing Fruit
 patch=1,EE,005B751F,extended,00000009
 
-[Holy Salve]
+//Holy Salve
 author=GamingDragon93
 description=Holy Salve
 // Holy Salve
 patch=1,EE,005B7520,extended,00000009
 
-[Wound Salve]
+//Wound Salve
 author=GamingDragon93
 description=Wound Salve
 // Wound Salve
 patch=1,EE,005B7521,extended,00000009
 
-[Healing Herb]
+//Healing Herb
 author=GamingDragon93
 description=Healing Herb
 // Healing Herb
 patch=1,EE,005B7522,extended,00000009
 
-[Spirit Elixir]
+//Spirit Elixir
 author=GamingDragon93
 description=Spirit Elixir
 // Spirit Elixir
 patch=1,EE,005B7523,extended,00000009
 
-[Azure Elixir]
+//Azure Elixir
 author=GamingDragon93
 description=Azure Elixir
 // Azure Elixir
 patch=1,EE,005B7524,extended,00000009
 
-[Cure Powder]
+//Cure Powder
 author=GamingDragon93
 description=Cure Powder
 // Cure Powder
 patch=1,EE,005B7526,extended,00000009
 
-[Cure Herb]
+//Cure Herb
 author=GamingDragon93
 description=Cure Herb
 // Cure Herb
 patch=1,EE,005B7527,extended,00000009
 
-[Golden Elixir]
+//Golden Elixir
 author=GamingDragon93
 description=Golden Elixir
 // Golden Elixir
 patch=1,EE,005B7528,extended,00000009
 
-[Warrior's Tonic]
+//Warrior's Tonic
 author=GamingDragon93
 description=Warrior's Tonic
 // Warrior's Tonic
 patch=1,EE,005B7529,extended,00000009
 
-[Shining Nut]
+//Shining Nut
 author=GamingDragon93
 description=Shining Nut
 // Shining Nut
 patch=1,EE,005B752A,extended,00000009
 
-[Indigo Elixir]
+//Indigo Elixir
 author=GamingDragon93
 description=Indigo Elixir
 // Indigo Elixir
 patch=1,EE,005B752B,extended,00000009
 
-[Holy Water]
+//Holy Water
 author=GamingDragon93
 description=Holy Water
 // Holy Water
 patch=1,EE,005B752D,extended,00000009
 
-[White Sulfur]
+//White Sulfur
 author=GamingDragon93
 description=White Sulfur
 // White Sulfur
 patch=1,EE,005B752E,extended,00000009
 
-[Miracle Elixir]
+//Miracle Elixir
 author=GamingDragon93
 description=Miracle Elixir
 // Miracle Elixir
 patch=1,EE,005B752F,extended,00000009
 
-[Hero's Elixir]
+//Hero's Elixir
 author=GamingDragon93
 description=Hero's Elixir
 // Hero's Elixir
 patch=1,EE,005B7530,extended,00000009
 
-[Revival Elixir]
+//Revival Elixir
 author=GamingDragon93
 description=Revival Elixir
 // Revival Elixir
 patch=1,EE,005B7531,extended,00000009
 
-[Revival Potion]
+//Revival Potion
 author=GamingDragon93
 description=Revival Potion
 // Revival Potion
 patch=1,EE,005B7532,extended,00000009
 
-[Panacea]
+//Panacea
 author=GamingDragon93
 description=Panacea
 // Panacea
 patch=1,EE,005B7533,extended,00000009
 
-[Antidote]
+//Antidote
 author=GamingDragon93
 description=Antidote
 // Antidote
 patch=1,EE,005B7534,extended,00000009
 
-[Torte's Reedpipe]
+//Torte's Reedpipe
 author=GamingDragon93
 description=Torte's Reedpipe
 // Torte's Reedpipe
 patch=1,EE,005B7535,extended,00000009
 
-[Smelling Salts]
+//Smelling Salts
 author=GamingDragon93
 description=Smelling Salts
 // Smelling Salts
 patch=1,EE,005B7536,extended,00000009
 
-[Curse Remover]
+//Curse Remover
 author=GamingDragon93
 description=Curse Remover
 // Curse Remover
 patch=1,EE,005B7537,extended,00000009
 
-[Vaccine]
+//Vaccine
 author=GamingDragon93
 description=Vaccine
 // Vaccine
 patch=1,EE,005B7538,extended,00000009
 
-[Life Seed]
+//Life Seed
 author=GamingDragon93
 description=Life Seed
 // Life Seed
 patch=1,EE,005B7539,extended,00000009
 
-[Magic Seed]
+//Magic Seed
 author=GamingDragon93
 description=Magic Seed
 // Magic Seed
 patch=1,EE,005B753A,extended,00000009
 
-[Power Seed]
+//Power Seed
 author=GamingDragon93
 description=Power Seed
 // Power Seed
 patch=1,EE,005B753B,extended,00000009
 
-[Defense Seed]
+//Defense Seed
 author=GamingDragon93
 description=Defense Seed
 // Defense Seed
 patch=1,EE,005B753C,extended,00000009
 
-[Smart Seed]
+//Smart Seed
 author=GamingDragon93
 description=Smart Seed
 // Smart Seed
 patch=1,EE,005B753D,extended,00000009
 
-[Spirit Seed]
+//Spirit Seed
 author=GamingDragon93
 description=Spirit Seed
 // Spirit Seed
 patch=1,EE,005B753E,extended,00000009
 
-[Speed Seed]
+//Speed Seed
 author=GamingDragon93
 description=Speed Seed
 // Speed Seed
 patch=1,EE,005B753F,extended,00000009
 
-[The Big One]
+//The Big One
 author=GamingDragon93
 description=The Big One
 // The Big One
 patch=1,EE,005B7540,extended,00000009
 
-[Nitro]
+//Nitro
 author=GamingDragon93
 description=Nitro
 // Nitro
 patch=1,EE,005B7541,extended,00000009
 
-[Dynamite]
+//Dynamite
 author=GamingDragon93
 description=Dynamite
 // Dynamite
 patch=1,EE,005B7542,extended,00000009
 
-[Grenade]
+//Grenade
 author=GamingDragon93
 description=Grenade
 // Grenade
 patch=1,EE,005B7543,extended,00000009
 
-[Cherry Bomb]
+//Cherry Bomb
 author=GamingDragon93
 description=Cherry Bomb
 // Cherry Bomb
 patch=1,EE,005B7544,extended,00000009
 
-[Fat Mogay Bomb]
+//Fat Mogay Bomb
 author=GamingDragon93
 description=Fat Mogay Bomb
 // Fat Mogay Bomb
 patch=1,EE,005B7545,extended,00000009
 
-[Big Mogay Bomb]
+//Big Mogay Bomb
 author=GamingDragon93
 description=Big Mogay Bomb
 // Big Mogay Bomb
 patch=1,EE,005B7546,extended,00000009
 
-[Mogay Bomb]
+//Mogay Bomb
 author=GamingDragon93
 description=Mogay Bomb
 // Mogay Bomb
 patch=1,EE,005B7547,extended,00000009
 
-[Fat Time Bomb]
+//Fat Time Bomb
 author=GamingDragon93
 description=Fat Time Bomb
 // Fat Time Bomb
 patch=1,EE,005B7548,extended,00000009
 
-[Time Bomb 2]
+//Time Bomb 2
 author=GamingDragon93
 description=Time Bomb 2
 // Time Bomb 2
 patch=1,EE,005B7549,extended,00000009
 
-[Time Bomb]
+//Time Bomb
 author=GamingDragon93
 description=Time Bomb
 // Time Bomb
 patch=1,EE,005B754A,extended,00000009
 
-[Meteor Bomb]
+//Meteor Bomb
 author=GamingDragon93
 description=Meteor Bomb
 // Meteor Bomb
 patch=1,EE,005B754B,extended,00000009
 
-[Icefang Stone]
+//Icefang Stone
 author=GamingDragon93
 description=Icefang Stone
 // Icefang Stone
 patch=1,EE,005B754C,extended,00000009
 
-[Lightning Stone]
+//Lightning Stone
 author=GamingDragon93
 description=Lightning Stone
 // Lightning Stone
 patch=1,EE,005B754D,extended,00000009
 
-[Phoenix Stone]
+//Phoenix Stone
 author=GamingDragon93
 description=Phoenix Stone
 // Phoenix Stone
 patch=1,EE,005B754F,extended,00000009
 
-[Storm Stone]
+//Storm Stone
 author=GamingDragon93
 description=Storm Stone
 // Storm Stone
 patch=1,EE,005B7550,extended,00000009
 
-[Bond of Trust]
+//Bond of Trust
 author=GamingDragon93
 description=Bond of Trust
 // Bond of Trust
 patch=1,EE,005B7551,extended,00000009
 
-[Platinum Feather]
+//Platinum Feather
 author=GamingDragon93
 description=Platinum Feather
 // Platinum Feather
 patch=1,EE,005B7552,extended,00000009
 
-[Golden Feather]
+//Golden Feather
 author=GamingDragon93
 description=Golden Feather
 // Golden Feather
 patch=1,EE,005B7553,extended,00000009
 
-[Silver Feather]
+//Silver Feather
 author=GamingDragon93
 description=Silver Feather
 // Silver Feather
 patch=1,EE,005B7554,extended,00000009
 
-[Boomshroom]
+//Boomshroom
 author=GamingDragon93
 description=Boomshroom
 // Boomshroom
 patch=1,EE,005B7555,extended,00000009
 
-[Quake Stone]
+//Quake Stone
 author=GamingDragon93
 description=Quake Stone
 // Quake Stone
 patch=1,EE,005B7556,extended,00000009
 
-[Manana Fruit]
+//Manana Fruit
 author=GamingDragon93
 description=Manana Fruit
 // Manana Fruit
 patch=1,EE,005B7557,extended,00000009
 
-[Healing Gem]
+//Healing Gem
 author=GamingDragon93
 description=Healing Gem
 // Healing Gem
 patch=1,EE,005B7558,extended,00000009
 
-[Bagoo Nut]
+//Bagoo Nut
 author=GamingDragon93
 description=Bagoo Nut
 // Bagoo Nut
 patch=1,EE,005B7559,extended,00000009
 
-[Big Time Bomb]
+//Big Time Bomb
 author=GamingDragon93
 description=Big Time Bomb
 // Big Time Bomb
 patch=1,EE,005B755A,extended,00000009
 
-[All Consumables]
+//All Consumables
 author=GamingDragon93
 description=All Consumables
 // All Consumables
 patch=1,EE,405B751C,extended,000F0001
 
-[All Consumables]
+//All Consumables
 author=GamingDragon93
 description=All Consumables
 // All Consumables
 patch=1,EE,09090909,extended,00000000
 
-[All Consumables]
+//All Consumables
 author=GamingDragon93
 description=All Consumables
 // All Consumables
 patch=1,EE,105B7558,extended,00000909
 
-[All Consumables]
+//All Consumables
 author=GamingDragon93
 description=All Consumables
 // All Consumables
 patch=1,EE,005B755A,extended,00000009
 
-[Dark Blitz]
+//Dark Blitz
 author=GamingDragon93
 description=Dark Blitz
 // Dark Blitz
 patch=1,EE,005B7561,extended,00000009
 
-[Dark Mist]
+//Dark Mist
 author=GamingDragon93
 description=Dark Mist
 // Dark Mist
 patch=1,EE,005B7562,extended,00000009
 
-[Dark Force]
+//Dark Force
 author=GamingDragon93
 description=Dark Force
 // Dark Force
 patch=1,EE,005B7563,extended,00000009
 
-[Full Blast]
+//Full Blast
 author=GamingDragon93
 description=Full Blast
 // Full Blast
 patch=1,EE,005B7564,extended,00000009
 
-[Suction]
+//Suction
 author=GamingDragon93
 description=Suction
 // Suction
 patch=1,EE,005B7565,extended,00000009
 
-[Alhealer+]
+//Alhealer+
 author=GamingDragon93
 description=Alhealer+
 // Alhealer+
 patch=1,EE,005B7566,extended,00000009
 
-[Feather]
+//Feather
 author=GamingDragon93
 description=Feather
 // Feather
 patch=1,EE,005B7567,extended,00000009
 
-[Halvah]
+//Halvah
 author=GamingDragon93
 description=Halvah
 // Halvah
 patch=1,EE,005B7568,extended,00000009
 
-[Vanish]
+//Vanish
 author=GamingDragon93
 description=Vanish
 // Vanish
 patch=1,EE,005B7569,extended,00000009
 
-[Stram]
+//Stram
 author=GamingDragon93
 description=Stram
 // Stram
 patch=1,EE,005B756A,extended,00000009
 
-[Def-Loss]
+//Def-Loss
 author=GamingDragon93
 description=Def-Loss
 // Def-Loss
 patch=1,EE,005B756B,extended,00000009
 
-[Cold]
+//Cold
 author=GamingDragon93
 description=Cold
 // Cold
 patch=1,EE,005B756C,extended,00000009
 
-[Wheel]
+//Wheel
 author=GamingDragon93
 description=Wheel
 // Wheel
 patch=1,EE,005B756D,extended,00000009
 
-[Giga Vanish]
+//Giga Vanish
 author=GamingDragon93
 description=Giga Vanish
 // Giga Vanish
 patch=1,EE,005B756E,extended,00000009
 
-[Fader]
+//Fader
 author=GamingDragon93
 description=Fader
 // Fader
 patch=1,EE,005B756F,extended,00000009
 
-[Junay]
+//Junay
 author=GamingDragon93
 description=Junay
 // Junay
 patch=1,EE,005B7570,extended,00000009
 
-[Burn Wall]
+//Burn Wall
 author=GamingDragon93
 description=Burn Wall
 // Burn Wall
 patch=1,EE,005B7571,extended,00000009
 
-[Magic Shield]
+//Magic Shield
 author=GamingDragon93
 description=Magic Shield
 // Magic Shield
 patch=1,EE,005B7572,extended,00000009
 
-[Small Bomb]
+//Small Bomb
 author=GamingDragon93
 description=Small Bomb
 // Small Bomb
 patch=1,EE,005B7573,extended,00000009
 
-[Large Bomb]
+//Large Bomb
 author=GamingDragon93
 description=Large Bomb
 // Large Bomb
 patch=1,EE,005B7574,extended,00000009
 
-[Mogay Bomb]
+//Mogay Bomb
 author=GamingDragon93
 description=Mogay Bomb
 // Mogay Bomb
 patch=1,EE,005B7575,extended,00000009
 
-[Big Mogay Bomb]
+//Big Mogay Bomb
 author=GamingDragon93
 description=Big Mogay Bomb
 // Big Mogay Bomb
 patch=1,EE,005B7576,extended,00000009
 
-[Gift Seed]
+//Gift Seed
 author=GamingDragon93
 description=Gift Seed
 // Gift Seed
 patch=1,EE,005B7577,extended,00000009
 
-[SP Heal]
+//SP Heal
 author=GamingDragon93
 description=SP Heal
 // SP Heal
 patch=1,EE,005B7578,extended,00000009
 
-[MP Heal]
+//MP Heal
 author=GamingDragon93
 description=MP Heal
 // MP Heal
 patch=1,EE,005B7579,extended,00000009
 
-[Refresh]
+//Refresh
 author=GamingDragon93
 description=Refresh
 // Refresh
 patch=1,EE,005B757A,extended,00000009
 
-[All Magic]
+//All Magic
 author=GamingDragon93
 description=All Magic
 // All Magic
 patch=1,EE,105B7561,extended,00000909
 
-[All Magic]
+//All Magic
 author=GamingDragon93
 description=All Magic
 // All Magic
 patch=1,EE,005B7563,extended,00000009
 
-[All Magic]
+//All Magic
 author=GamingDragon93
 description=All Magic
 // All Magic
 patch=1,EE,405B7564,extended,00050001
 
-[All Magic]
+//All Magic
 author=GamingDragon93
 description=All Magic
 // All Magic
 patch=1,EE,09090909,extended,00000000
 
-[All Magic]
+//All Magic
 author=GamingDragon93
 description=All Magic
 // All Magic
 patch=1,EE,105B7578,extended,00000909
 
-[All Magic]
+//All Magic
 author=GamingDragon93
 description=All Magic
 // All Magic
 patch=1,EE,005B757A,extended,00000009
 
-[Spirit Sword]
+//Spirit Sword
 author=GamingDragon93
 description=Spirit Sword
 // Spirit Sword
 patch=1,EE,005B7580,extended,00000009
 
-[Silver Wrench]
+//Silver Wrench
 author=GamingDragon93
 description=Silver Wrench
 // Silver Wrench
 patch=1,EE,005B7581,extended,00000009
 
-[Grandalf]
+//Grandalf
 author=GamingDragon93
 description=Grandalf
 // Grandalf
 patch=1,EE,005B7582,extended,00000009
 
-[Lorenzo Blade]
+//Lorenzo Blade
 author=GamingDragon93
 description=Lorenzo Blade
 // Lorenzo Blade
 patch=1,EE,005B7583,extended,00000009
 
-[Lightning Sword]
+//Lightning Sword
 author=GamingDragon93
 description=Lightning Sword
 // Lightning Sword
 patch=1,EE,005B7584,extended,00000009
 
-[Ice Brand]
+//Ice Brand
 author=GamingDragon93
 description=Ice Brand
 // Ice Brand
 patch=1,EE,005B7585,extended,00000009
 
-[Burning Blade]
+//Burning Blade
 author=GamingDragon93
 description=Burning Blade
 // Burning Blade
 patch=1,EE,005B7586,extended,00000009
 
-[Falchion]
+//Falchion
 author=GamingDragon93
 description=Falchion
 // Falchion
 patch=1,EE,005B7587,extended,00000009
 
-[Maken Galcion]
+//Maken Galcion
 author=GamingDragon93
 description=Maken Galcion
 // Maken Galcion
 patch=1,EE,005B7588,extended,00000009
 
-[Mithril Sword]
+//Mithril Sword
 author=GamingDragon93
 description=Mithril Sword
 // Mithril Sword
 patch=1,EE,005B7589,extended,00000009
 
-[Claymore]
+//Claymore
 author=GamingDragon93
 description=Claymore
 // Claymore
 patch=1,EE,005B758A,extended,00000009
 
-[Bastard Sword]
+//Bastard Sword
 author=GamingDragon93
 description=Bastard Sword
 // Bastard Sword
 patch=1,EE,005B758C,extended,00000009
 
-[Rune Blade]
+//Rune Blade
 author=GamingDragon93
 description=Rune Blade
 // Rune Blade
 patch=1,EE,005B758D,extended,00000009
 
-[Heaven Blade]
+//Heaven Blade
 author=GamingDragon93
 description=Heaven Blade
 // Heaven Blade
 patch=1,EE,005B758E,extended,00000009
 
-[Flame Sword]
+//Flame Sword
 author=GamingDragon93
 description=Flame Sword
 // Flame Sword
 patch=1,EE,005B7590,extended,00000009
 
-[Broadsword]
+//Broadsword
 author=GamingDragon93
 description=Broadsword
 // Broadsword
 patch=1,EE,005B7591,extended,00000009
 
-[Shock Blade]
+//Shock Blade
 author=GamingDragon93
 description=Shock Blade
 // Shock Blade
 patch=1,EE,005B7592,extended,00000009
 
-[Small Sword]
+//Small Sword
 author=GamingDragon93
 description=Small Sword
 // Small Sword
 patch=1,EE,005B7593,extended,00000009
 
-[The Gambler]
+//The Gambler
 author=GamingDragon93
 description=The Gambler
 // The Gambler
 patch=1,EE,005B7594,extended,00000009
 
-[Staff of Isis]
+//Staff of Isis
 author=GamingDragon93
 description=Staff of Isis
 // Staff of Isis
 patch=1,EE,005B7595,extended,00000009
 
-[Spirit Staff]
+//Spirit Staff
 author=GamingDragon93
 description=Spirit Staff
 // Spirit Staff
 patch=1,EE,005B7596,extended,00000009
 
-[Staff of Light]
+//Staff of Light
 author=GamingDragon93
 description=Staff of Light
 // Staff of Light
 patch=1,EE,005B7597,extended,00000009
 
-[Diviner's Staff]
+//Diviner's Staff
 author=GamingDragon93
 description=Diviner's Staff
 // Diviner's Staff
 patch=1,EE,005B7599,extended,00000009
 
-[Thunder Staff]
+//Thunder Staff
 author=GamingDragon93
 description=Thunder Staff
 // Thunder Staff
 patch=1,EE,005B759A,extended,00000009
 
-[Battle Rod]
+//Battle Rod
 author=GamingDragon93
 description=Battle Rod
 // Battle Rod
 patch=1,EE,005B759B,extended,00000009
 
-[Lilith's Staff]
+//Lilith's Staff
 author=GamingDragon93
 description=Lilith's Staff
 // Lilith's Staff
 patch=1,EE,005B759C,extended,00000009
 
-[Wizard's Staff]
+//Wizard's Staff
 author=GamingDragon93
 description=Wizard's Staff
 // Wizard's Staff
 patch=1,EE,005B759D,extended,00000009
 
-[Staff of Ice]
+//Staff of Ice
 author=GamingDragon93
 description=Staff of Ice
 // Staff of Ice
 patch=1,EE,005B759E,extended,00000009
 
-[Staff of Sorcery]
+//Staff of Sorcery
 author=GamingDragon93
 description=Staff of Sorcery
 // Staff of Sorcery
 patch=1,EE,005B759F,extended,00000009
 
-[Iron Rod]
+//Iron Rod
 author=GamingDragon93
 description=Iron Rod
 // Iron Rod
 patch=1,EE,005B75A0,extended,00000009
 
-[Mage Staff]
+//Mage Staff
 author=GamingDragon93
 description=Mage Staff
 // Mage Staff
 patch=1,EE,005B75A1,extended,00000009
 
-[Flame Rod]
+//Flame Rod
 author=GamingDragon93
 description=Flame Rod
 // Flame Rod
 patch=1,EE,005B75A2,extended,00000009
 
-[Aromatic Root]
+//Aromatic Root
 author=GamingDragon93
 description=Aromatic Root
 // Aromatic Root
 patch=1,EE,005B75A3,extended,00000009
 
-[Staff of Healing]
+//Staff of Healing
 author=GamingDragon93
 description=Staff of Healing
 // Staff of Healing
 patch=1,EE,005B75A4,extended,00000009
 
-[Staff of Prayer]
+//Staff of Prayer
 author=GamingDragon93
 description=Staff of Prayer
 // Staff of Prayer
 patch=1,EE,005B75A5,extended,00000009
 
-[Cedar Staff]
+//Cedar Staff
 author=GamingDragon93
 description=Cedar Staff
 // Cedar Staff
 patch=1,EE,005B75A6,extended,00000009
 
-[Hell Spike]
+//Hell Spike
 author=GamingDragon93
 description=Hell Spike
 // Hell Spike
 patch=1,EE,005B75A7,extended,00000009
 
-[Rashik's Hammer]
+//Rashik's Hammer
 author=GamingDragon93
 description=Rashik's Hammer
 // Rashik's Hammer
 patch=1,EE,005B75A8,extended,00000009
 
-[Morningstar]
+//Morningstar
 author=GamingDragon93
 description=Morningstar
 // Morningstar
 patch=1,EE,005B75A9,extended,00000009
 
-[Blood Hammer]
+//Blood Hammer
 author=GamingDragon93
 description=Blood Hammer
 // Blood Hammer
 patch=1,EE,005B75AA,extended,00000009
 
-[Buster Flail]
+//Buster Flail
 author=GamingDragon93
 description=Buster Flail
 // Buster Flail
 patch=1,EE,005B75AB,extended,00000009
 
-[Chaos Flail]
+//Chaos Flail
 author=GamingDragon93
 description=Chaos Flail
 // Chaos Flail
 patch=1,EE,005B75AC,extended,00000009
 
-[Heavy Flail]
+//Heavy Flail
 author=GamingDragon93
 description=Heavy Flail
 // Heavy Flail
 patch=1,EE,005B75AD,extended,00000009
 
-[Flail]
+//Flail
 author=GamingDragon93
 description=Flail
 // Flail
 patch=1,EE,005B75AE,extended,00000009
 
-[Power Cards]
+//Power Cards
 author=GamingDragon93
 description=Power Cards
 // Power Cards
 patch=1,EE,005B75AF,extended,00000009
 
-[Alluring Cards]
+//Alluring Cards
 author=GamingDragon93
 description=Alluring Cards
 // Alluring Cards
 patch=1,EE,005B75B0,extended,00000009
 
-[Sublime Cards]
+//Sublime Cards
 author=GamingDragon93
 description=Sublime Cards
 // Sublime Cards
 patch=1,EE,005B75B1,extended,00000009
 
-[Queen's Cards]
+//Queen's Cards
 author=GamingDragon93
 description=Queen's Cards
 // Queen's Cards
 patch=1,EE,005B75B2,extended,00000009
 
-[Judge's Cards]
+//Judge's Cards
 author=GamingDragon93
 description=Judge's Cards
 // Judge's Cards
 patch=1,EE,005B75B3,extended,00000009
 
-[Sleep Cards]
+//Sleep Cards
 author=GamingDragon93
 description=Sleep Cards
 // Sleep Cards
 patch=1,EE,005B75B4,extended,00000009
 
-[Sun Cards]
+//Sun Cards
 author=GamingDragon93
 description=Sun Cards
 // Sun Cards
 patch=1,EE,005B75B6,extended,00000009
 
-[Justice Cards]
+//Justice Cards
 author=GamingDragon93
 description=Justice Cards
 // Justice Cards
 patch=1,EE,005B75B7,extended,00000009
 
-[Magic Cards]
+//Magic Cards
 author=GamingDragon93
 description=Magic Cards
 // Magic Cards
 patch=1,EE,005B75B8,extended,00000009
 
-[Hunter's Knife]
+//Hunter's Knife
 author=GamingDragon93
 description=Hunter's Knife
 // Hunter's Knife
 patch=1,EE,005B75B9,extended,00000009
 
-[Force Knife]
+//Force Knife
 author=GamingDragon93
 description=Force Knife
 // Force Knife
 patch=1,EE,005B75BA,extended,00000009
 
-[Multiple Knife]
+//Multiple Knife
 author=GamingDragon93
 description=Multiple Knife
 // Multiple Knife
 patch=1,EE,005B75BB,extended,00000009
 
-[Trident]
+//Trident
 author=GamingDragon93
 description=Trident
 // Trident
 patch=1,EE,005B75BC,extended,00000009
 
-[Harpoon]
+//Harpoon
 author=GamingDragon93
 description=Harpoon
 // Harpoon
 patch=1,EE,005B75BD,extended,00000009
 
-[Baton of Light]
+//Baton of Light
 author=GamingDragon93
 description=Baton of Light
 // Baton of Light
 patch=1,EE,005B75BE,extended,00000009
 
-[Spirit Armor]
+//Spirit Armor
 author=GamingDragon93
 description=Spirit Armor
 // Spirit Armor
 patch=1,EE,005B75E4,extended,00000009
 
-[Phalanx]
+//Phalanx
 author=GamingDragon93
 description=Phalanx
 // Phalanx
 patch=1,EE,005B75E5,extended,00000009
 
-[Hero Armor]
+//Hero Armor
 author=GamingDragon93
 description=Hero Armor
 // Hero Armor
 patch=1,EE,005B75E7,extended,00000009
 
-[Heavy Mail]
+//Heavy Mail
 author=GamingDragon93
 description=Heavy Mail
 // Heavy Mail
 patch=1,EE,005B75E9,extended,00000009
 
-[Mithril Mail]
+//Mithril Mail
 author=GamingDragon93
 description=Mithril Mail
 // Mithril Mail
 patch=1,EE,005B75EA,extended,00000009
 
-[Warrior Mail]
+//Warrior Mail
 author=GamingDragon93
 description=Warrior Mail
 // Warrior Mail
 patch=1,EE,005B75EB,extended,00000009
 
-[Dragon Armor]
+//Dragon Armor
 author=GamingDragon93
 description=Dragon Armor
 // Dragon Armor
 patch=1,EE,005B75ED,extended,00000009
 
-[Plate Mail]
+//Plate Mail
 author=GamingDragon93
 description=Plate Mail
 // Plate Mail
 patch=1,EE,005B75EE,extended,00000009
 
-[Chain Mail]
+//Chain Mail
 author=GamingDragon93
 description=Chain Mail
 // Chain Mail
 patch=1,EE,005B75EF,extended,00000009
 
-[Leather Armor]
+//Leather Armor
 author=GamingDragon93
 description=Leather Armor
 // Leather Armor
 patch=1,EE,005B75F0,extended,00000009
 
-[Ninja Suit]
+//Ninja Suit
 author=GamingDragon93
 description=Ninja Suit
 // Ninja Suit
 patch=1,EE,005B75F1,extended,00000009
 
-[Aura Armor]
+//Aura Armor
 author=GamingDragon93
 description=Aura Armor
 // Aura Armor
 patch=1,EE,005B75F2,extended,00000009
 
-[Ebony Armor]
+//Ebony Armor
 author=GamingDragon93
 description=Ebony Armor
 // Ebony Armor
 patch=1,EE,005B75F4,extended,00000009
 
-[Ceramic Mail]
+//Ceramic Mail
 author=GamingDragon93
 description=Ceramic Mail
 // Ceramic Mail
 patch=1,EE,005B75F5,extended,00000009
 
-[Rune Armor]
+//Rune Armor
 author=GamingDragon93
 description=Rune Armor
 // Rune Armor
 patch=1,EE,005B75F6,extended,00000009
 
-[Silver Armor]
+//Silver Armor
 author=GamingDragon93
 description=Silver Armor
 // Silver Armor
 patch=1,EE,005B75F7,extended,00000009
 
-[Breastplate]
+//Breastplate
 author=GamingDragon93
 description=Breastplate
 // Breastplate
 patch=1,EE,005B75F8,extended,00000009
 
-[Shell Armor]
+//Shell Armor
 author=GamingDragon93
 description=Shell Armor
 // Shell Armor
 patch=1,EE,005B75F9,extended,00000009
 
-[Angel Dress]
+//Angel Dress
 author=GamingDragon93
 description=Angel Dress
 // Angel Dress
 patch=1,EE,005B75FA,extended,00000009
 
-[Hect's Dress]
+//Hect's Dress
 author=GamingDragon93
 description=Hect's Dress
 // Hect's Dress
 patch=1,EE,005B75FB,extended,00000009
 
-[Holy Cloak]
+//Holy Cloak
 author=GamingDragon93
 description=Holy Cloak
 // Holy Cloak
 patch=1,EE,005B75FC,extended,00000009
 
-[Fairy Cloak]
+//Fairy Cloak
 author=GamingDragon93
 description=Fairy Cloak
 // Fairy Cloak
 patch=1,EE,005B75FD,extended,00000009
 
-[Cotton Doublet]
+//Cotton Doublet
 author=GamingDragon93
 description=Cotton Doublet
 // Cotton Doublet
 patch=1,EE,005B75FE,extended,00000009
 
-[Quilted Silk]
+//Quilted Silk
 author=GamingDragon93
 description=Quilted Silk
 // Quilted Silk
 patch=1,EE,005B75FF,extended,00000009
 
-[Silk Clothes]
+//Silk Clothes
 author=GamingDragon93
 description=Silk Clothes
 // Silk Clothes
 patch=1,EE,005B7600,extended,00000009
 
-[Sage's Robe]
+//Sage's Robe
 author=GamingDragon93
 description=Sage's Robe
 // Sage's Robe
 patch=1,EE,005B7602,extended,00000009
 
-[Robes of Light]
+//Robes of Light
 author=GamingDragon93
 description=Robes of Light
 // Robes of Light
 patch=1,EE,005B7603,extended,00000009
 
-[Silverthread Robe]
+//Silverthread Robe
 author=GamingDragon93
 description=Silverthread Robe
 // Silverthread Robe
 patch=1,EE,005B7604,extended,00000009
 
-[Magician's Robe]
+//Magician's Robe
 author=GamingDragon93
 description=Magician's Robe
 // Magician's Robe
 patch=1,EE,005B7605,extended,00000009
 
-[Earthen Robe]
+//Earthen Robe
 author=GamingDragon93
 description=Earthen Robe
 // Earthen Robe
 patch=1,EE,005B7606,extended,00000009
 
-[Leather Duster]
+//Leather Duster
 author=GamingDragon93
 description=Leather Duster
 // Leather Duster
 patch=1,EE,005B7607,extended,00000009
 
-[Cotton Robe]
+//Cotton Robe
 author=GamingDragon93
 description=Cotton Robe
 // Cotton Robe
 patch=1,EE,005B7608,extended,00000009
 
-[Dragon Vest]
+//Dragon Vest
 author=GamingDragon93
 description=Dragon Vest
 // Dragon Vest
 patch=1,EE,005B760A,extended,00000009
 
-[Admiral Uniform]
+//Admiral Uniform
 author=GamingDragon93
 description=Admiral Uniform
 // Admiral Uniform
 patch=1,EE,005B760B,extended,00000009
 
-[Hunter's Jacket]
+//Hunter's Jacket
 author=GamingDragon93
 description=Hunter's Jacket
 // Hunter's Jacket
 patch=1,EE,005B760C,extended,00000009
 
-[Leather Jacket]
+//Leather Jacket
 author=GamingDragon93
 description=Leather Jacket
 // Leather Jacket
 patch=1,EE,005B760D,extended,00000009
 
-[Flight Jacket]
+//Flight Jacket
 author=GamingDragon93
 description=Flight Jacket
 // Flight Jacket
 patch=1,EE,005B760E,extended,00000009
 
-[Tattered Jacket]
+//Tattered Jacket
 author=GamingDragon93
 description=Tattered Jacket
 // Tattered Jacket
 patch=1,EE,005B760F,extended,00000009
 
-[Maiden's Dress]
+//Maiden's Dress
 author=GamingDragon93
 description=Maiden's Dress
 // Maiden's Dress
 patch=1,EE,005B7610,extended,00000009
 
-[Spirit Boots]
+//Spirit Boots
 author=GamingDragon93
 description=Spirit Boots
 // Spirit Boots
 patch=1,EE,005B7616,extended,00000009
 
-[Mars Boots]
+//Mars Boots
 author=GamingDragon93
 description=Mars Boots
 // Mars Boots
 patch=1,EE,005B7617,extended,00000009
 
-[Ninja Slippers]
+//Ninja Slippers
 author=GamingDragon93
 description=Ninja Slippers
 // Ninja Slippers
 patch=1,EE,005B7619,extended,00000009
 
-[Heavy Leggings]
+//Heavy Leggings
 author=GamingDragon93
 description=Heavy Leggings
 // Heavy Leggings
 patch=1,EE,005B761A,extended,00000009
 
-[Mithril Leggings]
+//Mithril Leggings
 author=GamingDragon93
 description=Mithril Leggings
 // Mithril Leggings
 patch=1,EE,005B761B,extended,00000009
 
-[Silver Leggings]
+//Silver Leggings
 author=GamingDragon93
 description=Silver Leggings
 // Silver Leggings
 patch=1,EE,005B761C,extended,00000009
 
-[Dragon Boots]
+//Dragon Boots
 author=GamingDragon93
 description=Dragon Boots
 // Dragon Boots
 patch=1,EE,005B761D,extended,00000009
 
-[Bold Boots]
+//Bold Boots
 author=GamingDragon93
 description=Bold Boots
 // Bold Boots
 patch=1,EE,005B761E,extended,00000009
 
-[Traveler's Boots]
+//Traveler's Boots
 author=GamingDragon93
 description=Traveler's Boots
 // Traveler's Boots
 patch=1,EE,005B761F,extended,00000009
 
-[Leather Boots]
+//Leather Boots
 author=GamingDragon93
 description=Leather Boots
 // Leather Boots
 patch=1,EE,005B7620,extended,00000009
 
-[Warp Boots]
+//Warp Boots
 author=GamingDragon93
 description=Warp Boots
 // Warp Boots
 patch=1,EE,005B7621,extended,00000009
 
-[Mysterious Clogs]
+//Mysterious Clogs
 author=GamingDragon93
 description=Mysterious Clogs
 // Mysterious Clogs
 patch=1,EE,005B7622,extended,00000009
 
-[Thor's Boots]
+//Thor's Boots
 author=GamingDragon93
 description=Thor's Boots
 // Thor's Boots
 patch=1,EE,005B7623,extended,00000009
 
-[Lion Boots]
+//Lion Boots
 author=GamingDragon93
 description=Lion Boots
 // Lion Boots
 patch=1,EE,005B7624,extended,00000009
 
-[Mach Boots]
+//Mach Boots
 author=GamingDragon93
 description=Mach Boots
 // Mach Boots
 patch=1,EE,005B7625,extended,00000009
 
-[Wolf Boots]
+//Wolf Boots
 author=GamingDragon93
 description=Wolf Boots
 // Wolf Boots
 patch=1,EE,005B7626,extended,00000009
 
-[Wing Boots]
+//Wing Boots
 author=GamingDragon93
 description=Wing Boots
 // Wing Boots
 patch=1,EE,005B7627,extended,00000009
 
-[Magic Pumps]
+//Magic Pumps
 author=GamingDragon93
 description=Magic Pumps
 // Magic Pumps
 patch=1,EE,005B7628,extended,00000009
 
-[Iron Leggings]
+//Iron Leggings
 author=GamingDragon93
 description=Iron Leggings
 // Iron Leggings
 patch=1,EE,005B7629,extended,00000009
 
-[Rubber Boots]
+//Rubber Boots
 author=GamingDragon93
 description=Rubber Boots
 // Rubber Boots
 patch=1,EE,005B762A,extended,00000009
 
-[Hect's Shoes]
+//Hect's Shoes
 author=GamingDragon93
 description=Hect's Shoes
 // Hect's Shoes
 patch=1,EE,005B762B,extended,00000009
 
-[Admiral's Boots]
+//Admiral's Boots
 author=GamingDragon93
 description=Admiral's Boots
 // Admiral's Boots
 patch=1,EE,005B762C,extended,00000009
 
-[Tattered Shoes]
+//Tattered Shoes
 author=GamingDragon93
 description=Tattered Shoes
 // Tattered Shoes
 patch=1,EE,005B762D,extended,00000009
 
-[Hunter's Boots]
+//Hunter's Boots
 author=GamingDragon93
 description=Hunter's Boots
 // Hunter's Boots
 patch=1,EE,005B762E,extended,00000009
 
-[Queen's Heels]
+//Queen's Heels
 author=GamingDragon93
 description=Queen's Heels
 // Queen's Heels
 patch=1,EE,005B7630,extended,00000009
 
-[Rainbow Heels]
+//Rainbow Heels
 author=GamingDragon93
 description=Rainbow Heels
 // Rainbow Heels
 patch=1,EE,005B7631,extended,00000009
 
-[Witch's Pumps]
+//Witch's Pumps
 author=GamingDragon93
 description=Witch's Pumps
 // Witch's Pumps
 patch=1,EE,005B7632,extended,00000009
 
-[Glass Slippers]
+//Glass Slippers
 author=GamingDragon93
 description=Glass Slippers
 // Glass Slippers
 patch=1,EE,005B7633,extended,00000009
 
-[Fairy Pumps]
+//Fairy Pumps
 author=GamingDragon93
 description=Fairy Pumps
 // Fairy Pumps
 patch=1,EE,005B7634,extended,00000009
 
-[Earthen Heels]
+//Earthen Heels
 author=GamingDragon93
 description=Earthen Heels
 // Earthen Heels
 patch=1,EE,005B7635,extended,00000009
 
-[Jade Charm]
+//Jade Charm
 author=GamingDragon93
 description=Jade Charm
 // Jade Charm
 patch=1,EE,005B7648,extended,00000009
 
-[Power Ring]
+//Power Ring
 author=GamingDragon93
 description=Power Ring
 // Power Ring
 patch=1,EE,005B7649,extended,00000009
 
-[Peerless Belt]
+//Peerless Belt
 author=GamingDragon93
 description=Peerless Belt
 // Peerless Belt
 patch=1,EE,005B764A,extended,00000009
 
-[Dragon Scale]
+//Dragon Scale
 author=GamingDragon93
 description=Dragon Scale
 // Dragon Scale
 patch=1,EE,005B764B,extended,00000009
 
-[Endurance Ring]
+//Endurance Ring
 author=GamingDragon93
 description=Endurance Ring
 // Endurance Ring
 patch=1,EE,005B764C,extended,00000009
 
-[Diamond Badge]
+//Diamond Badge
 author=GamingDragon93
 description=Diamond Badge
 // Diamond Badge
 patch=1,EE,005B764D,extended,00000009
 
-[Magic Pendant]
+//Magic Pendant
 author=GamingDragon93
 description=Magic Pendant
 // Magic Pendant
 patch=1,EE,005B764E,extended,00000009
 
-[Magic Ring]
+//Magic Ring
 author=GamingDragon93
 description=Magic Ring
 // Magic Ring
 patch=1,EE,005B764F,extended,00000009
 
-[Knowledge Medal]
+//Knowledge Medal
 author=GamingDragon93
 description=Knowledge Medal
 // Knowledge Medal
 patch=1,EE,005B7650,extended,00000009
 
-[Protective Charm]
+//Protective Charm
 author=GamingDragon93
 description=Protective Charm
 // Protective Charm
 patch=1,EE,005B7651,extended,00000009
 
-[Mental Ring]
+//Mental Ring
 author=GamingDragon93
 description=Mental Ring
 // Mental Ring
 patch=1,EE,005B7652,extended,00000009
 
-[Goddess Amulet]
+//Goddess Amulet
 author=GamingDragon93
 description=Goddess Amulet
 // Goddess Amulet
 patch=1,EE,005B7653,extended,00000009
 
-[Yuki's Badge]
+//Yuki's Badge
 author=GamingDragon93
 description=Yuki's Badge
 // Yuki's Badge
 patch=1,EE,005B7654,extended,00000009
 
-[First Ring]
+//First Ring
 author=GamingDragon93
 description=First Ring
 // First Ring
 patch=1,EE,005B7655,extended,00000009
 
-[Hurricane Belt]
+//Hurricane Belt
 author=GamingDragon93
 description=Hurricane Belt
 // Hurricane Belt
 patch=1,EE,005B7656,extended,00000009
 
-[Dash Ring]
+//Dash Ring
 author=GamingDragon93
 description=Dash Ring
 // Dash Ring
 patch=1,EE,005B7657,extended,00000009
 
-[Spirit Ring]
+//Spirit Ring
 author=GamingDragon93
 description=Spirit Ring
 // Spirit Ring
 patch=1,EE,005B7658,extended,00000009
 
-[Divine Charm]
+//Divine Charm
 author=GamingDragon93
 description=Divine Charm
 // Divine Charm
 patch=1,EE,005B7659,extended,00000009
 
-[Fire Ring]
+//Fire Ring
 author=GamingDragon93
 description=Fire Ring
 // Fire Ring
 patch=1,EE,005B765A,extended,00000009
 
-[Earth Ring]
+//Earth Ring
 author=GamingDragon93
 description=Earth Ring
 // Earth Ring
 patch=1,EE,005B765B,extended,00000009
 
-[Water Ring]
+//Water Ring
 author=GamingDragon93
 description=Water Ring
 // Water Ring
 patch=1,EE,005B765C,extended,00000009
 
-[Wind Ring]
+//Wind Ring
 author=GamingDragon93
 description=Wind Ring
 // Wind Ring
 patch=1,EE,005B765D,extended,00000009
 
-[Anne's Necklace]
+//Anne's Necklace
 author=GamingDragon93
 description=Anne's Necklace
 // Anne's Necklace
 patch=1,EE,005B765E,extended,00000009
 
-[Mithril Ring]
+//Mithril Ring
 author=GamingDragon93
 description=Mithril Ring
 // Mithril Ring
 patch=1,EE,005B765F,extended,00000009
 
-[Poison Amulet]
+//Poison Amulet
 author=GamingDragon93
 description=Poison Amulet
 // Poison Amulet
 patch=1,EE,005B7660,extended,00000009
 
-[Sleep Amulet]
+//Sleep Amulet
 author=GamingDragon93
 description=Sleep Amulet
 // Sleep Amulet
 patch=1,EE,005B7661,extended,00000009
 
-[Confusion Amulet]
+//Confusion Amulet
 author=GamingDragon93
 description=Confusion Amulet
 // Confusion Amulet
 patch=1,EE,005B7662,extended,00000009
 
-[Sickness Amulet]
+//Sickness Amulet
 author=GamingDragon93
 description=Sickness Amulet
 // Sickness Amulet
 patch=1,EE,005B7663,extended,00000009
 
-[Healing Ring]
+//Healing Ring
 author=GamingDragon93
 description=Healing Ring
 // Healing Ring
 patch=1,EE,005B7664,extended,00000009
 
-[Warrior's Charm]
+//Warrior's Charm
 author=GamingDragon93
 description=Warrior's Charm
 // Warrior's Charm
 patch=1,EE,005B7665,extended,00000009
 
-[Mana Emblem]
+//Mana Emblem
 author=GamingDragon93
 description=Mana Emblem
 // Mana Emblem
 patch=1,EE,005B7666,extended,00000009
 
-[Revival Gem]
+//Revival Gem
 author=GamingDragon93
 description=Revival Gem
 // Revival Gem
 patch=1,EE,005B7668,extended,00000009
 
-[Golden Ring]
+//Golden Ring
 author=GamingDragon93
 description=Golden Ring
 // Golden Ring
 patch=1,EE,005B7669,extended,00000009
 
-[Pearl Ring]
+//Pearl Ring
 author=GamingDragon93
 description=Pearl Ring
 // Pearl Ring
 patch=1,EE,005B766A,extended,00000009
 
-[Amethyst Ring]
+//Amethyst Ring
 author=GamingDragon93
 description=Amethyst Ring
 // Amethyst Ring
 patch=1,EE,005B766B,extended,00000009
 
-[Sapphire Ring]
+//Sapphire Ring
 author=GamingDragon93
 description=Sapphire Ring
 // Sapphire Ring
 patch=1,EE,005B766C,extended,00000009
 
-[Ruby Ring]
+//Ruby Ring
 author=GamingDragon93
 description=Ruby Ring
 // Ruby Ring
 patch=1,EE,005B766D,extended,00000009
 
-[Sheepskin]
+//Sheepskin
 author=GamingDragon93
 description=Sheepskin
 // Sheepskin
 patch=1,EE,005B766E,extended,00000009
 
-[Topaz Ring]
+//Topaz Ring
 author=GamingDragon93
 description=Topaz Ring
 // Topaz Ring
 patch=1,EE,005B7677,extended,00000009
 
-[All Equipment]
+//All Equipment
 author=GamingDragon93
 description=All Equipment
 // All Equipment
 patch=1,EE,405B7580,extended,003E0001
 
-[All Equipment]
+//All Equipment
 author=GamingDragon93
 description=All Equipment
 // All Equipment
 patch=1,EE,09090909,extended,00000000
 
-[Flare Egg]
+//Flare Egg
 author=GamingDragon93
 description=Flare Egg
 // Flare Egg
 patch=1,EE,005B76AC,extended,00000009
 
-[Stone Egg]
+//Stone Egg
 author=GamingDragon93
 description=Stone Egg
 // Stone Egg
 patch=1,EE,005B76AD,extended,00000009
 
-[Aqua Egg]
+//Aqua Egg
 author=GamingDragon93
 description=Aqua Egg
 // Aqua Egg
 patch=1,EE,005B76AE,extended,00000009
 
-[Wind Egg]
+//Wind Egg
 author=GamingDragon93
 description=Wind Egg
 // Wind Egg
 patch=1,EE,005B76AF,extended,00000009
 
-[Bomb Egg]
+//Bomb Egg
 author=GamingDragon93
 description=Bomb Egg
 // Bomb Egg
 patch=1,EE,005B76B0,extended,00000009
 
-[Leaf Egg]
+//Leaf Egg
 author=GamingDragon93
 description=Leaf Egg
 // Leaf Egg
 patch=1,EE,005B76B1,extended,00000009
 
-[Frost Egg]
+//Frost Egg
 author=GamingDragon93
 description=Frost Egg
 // Frost Egg
 patch=1,EE,005B76B2,extended,00000009
 
-[Thunder Egg]
+//Thunder Egg
 author=GamingDragon93
 description=Thunder Egg
 // Thunder Egg
 patch=1,EE,005B76B3,extended,00000009
 
-[Blaze Egg]
+//Blaze Egg
 author=GamingDragon93
 description=Blaze Egg
 // Blaze Egg
 patch=1,EE,005B76B4,extended,00000009
 
-[Quake Egg]
+//Quake Egg
 author=GamingDragon93
 description=Quake Egg
 // Quake Egg
 patch=1,EE,005B76B5,extended,00000009
 
-[Rain Egg]
+//Rain Egg
 author=GamingDragon93
 description=Rain Egg
 // Rain Egg
 patch=1,EE,005B76B6,extended,00000009
 
-[Cyclone Egg]
+//Cyclone Egg
 author=GamingDragon93
 description=Cyclone Egg
 // Cyclone Egg
 patch=1,EE,005B76B7,extended,00000009
 
-[Life Egg]
+//Life Egg
 author=GamingDragon93
 description=Life Egg
 // Life Egg
 patch=1,EE,005B76B8,extended,00000009
 
-[Burst Egg]
+//Burst Egg
 author=GamingDragon93
 description=Burst Egg
 // Burst Egg
 patch=1,EE,005B76B9,extended,00000009
 
-[Blast Egg]
+//Blast Egg
 author=GamingDragon93
 description=Blast Egg
 // Blast Egg
 patch=1,EE,005B76BA,extended,00000009
 
-[Tree Egg]
+//Tree Egg
 author=GamingDragon93
 description=Tree Egg
 // Tree Egg
 patch=1,EE,005B76BB,extended,00000009
 
-[Icicle Egg]
+//Icicle Egg
 author=GamingDragon93
 description=Icicle Egg
 // Icicle Egg
 patch=1,EE,005B76BC,extended,00000009
 
-[Lightning Egg]
+//Lightning Egg
 author=GamingDragon93
 description=Lightning Egg
 // Lightning Egg
 patch=1,EE,005B76BD,extended,00000009
 
-[Volcano Egg]
+//Volcano Egg
 author=GamingDragon93
 description=Volcano Egg
 // Volcano Egg
 patch=1,EE,005B76BE,extended,00000009
 
-[Gravity Egg]
+//Gravity Egg
 author=GamingDragon93
 description=Gravity Egg
 // Gravity Egg
 patch=1,EE,005B76BF,extended,00000009
 
-[Lake Egg]
+//Lake Egg
 author=GamingDragon93
 description=Lake Egg
 // Lake Egg
 patch=1,EE,005B76C0,extended,00000009
 
-[Tempest Egg]
+//Tempest Egg
 author=GamingDragon93
 description=Tempest Egg
 // Tempest Egg
 patch=1,EE,005B76C1,extended,00000009
 
-[Booster Egg]
+//Booster Egg
 author=GamingDragon93
 description=Booster Egg
 // Booster Egg
 patch=1,EE,005B76C2,extended,00000009
 
-[Heal Egg]
+//Heal Egg
 author=GamingDragon93
 description=Heal Egg
 // Heal Egg
 patch=1,EE,005B76C3,extended,00000009
 
-[Calamity Egg]
+//Calamity Egg
 author=GamingDragon93
 description=Calamity Egg
 // Calamity Egg
 patch=1,EE,005B76C4,extended,00000009
 
-[Forest Egg]
+//Forest Egg
 author=GamingDragon93
 description=Forest Egg
 // Forest Egg
 patch=1,EE,005B76C5,extended,00000009
 
-[Blizzard Egg]
+//Blizzard Egg
 author=GamingDragon93
 description=Blizzard Egg
 // Blizzard Egg
 patch=1,EE,005B76C6,extended,00000009
 
-[Photon Egg]
+//Photon Egg
 author=GamingDragon93
 description=Photon Egg
 // Photon Egg
 patch=1,EE,005B76C7,extended,00000009
 
-[Cluster Egg]
+//Cluster Egg
 author=GamingDragon93
 description=Cluster Egg
 // Cluster Egg
 patch=1,EE,005B76C8,extended,00000009
 
-[Holy Egg]
+//Holy Egg
 author=GamingDragon93
 description=Holy Egg
 // Holy Egg
 patch=1,EE,005B76C9,extended,00000009
 
-[Fenrir Egg]
+//Fenrir Egg
 author=GamingDragon93
 description=Fenrir Egg
 // Fenrir Egg
 patch=1,EE,005B76CA,extended,00000009
 
-[Chaos Egg]
+//Chaos Egg
 author=GamingDragon93
 description=Chaos Egg
 // Chaos Egg
 patch=1,EE,005B76CB,extended,00000009
 
-[Ether Egg]
+//Ether Egg
 author=GamingDragon93
 description=Ether Egg
 // Ether Egg
 patch=1,EE,005B76CC,extended,00000009
 
-[Dust Egg]
+//Dust Egg
 author=GamingDragon93
 description=Dust Egg
 // Dust Egg
 patch=1,EE,005B76CD,extended,00000009
 
-[All Mana Eggs]
+//All Mana Eggs
 author=GamingDragon93
 description=All Mana Eggs
 // All Mana Eggs
 patch=1,EE,405B76AC,extended,00080001
 
-[All Mana Eggs]
+//All Mana Eggs
 author=GamingDragon93
 description=All Mana Eggs
 // All Mana Eggs
 patch=1,EE,09090909,extended,00000000
 
-[All Mana Eggs]
+//All Mana Eggs
 author=GamingDragon93
 description=All Mana Eggs
 // All Mana Eggs
 patch=1,EE,105B76CC,extended,00000909
 
-[Priest Book]
+//Priest Book
 author=GamingDragon93
 description=Priest Book
 // Priest Book
 patch=1,EE,005B76DE,extended,00000009
 
-[Ranger Book]
+//Ranger Book
 author=GamingDragon93
 description=Ranger Book
 // Ranger Book
 patch=1,EE,005B76DF,extended,00000009
 
-[Soldier Book]
+//Soldier Book
 author=GamingDragon93
 description=Soldier Book
 // Soldier Book
 patch=1,EE,005B76E0,extended,00000009
 
-[Sorcerer Book]
+//Sorcerer Book
 author=GamingDragon93
 description=Sorcerer Book
 // Sorcerer Book
 patch=1,EE,005B76E1,extended,00000009
 
-[Hunter Book]
+//Hunter Book
 author=GamingDragon93
 description=Hunter Book
 // Hunter Book
 patch=1,EE,005B76E2,extended,00000009
 
-[Fighter Book]
+//Fighter Book
 author=GamingDragon93
 description=Fighter Book
 // Fighter Book
 patch=1,EE,005B76E3,extended,00000009
 
-[Wizard Book]
+//Wizard Book
 author=GamingDragon93
 description=Wizard Book
 // Wizard Book
 patch=1,EE,005B76E4,extended,00000009
 
-[Scout Book]
+//Scout Book
 author=GamingDragon93
 description=Scout Book
 // Scout Book
 patch=1,EE,005B76E5,extended,00000009
 
-[Warrior Book]
+//Warrior Book
 author=GamingDragon93
 description=Warrior Book
 // Warrior Book
 patch=1,EE,005B76E6,extended,00000009
 
-[Lucky Book]
+//Lucky Book
 author=GamingDragon93
 description=Lucky Book
 // Lucky Book
 patch=1,EE,005B76E7,extended,00000009
 
-[Shaman Book]
+//Shaman Book
 author=GamingDragon93
 description=Shaman Book
 // Shaman Book
 patch=1,EE,005B76E8,extended,00000009
 
-[Veteran Book]
+//Veteran Book
 author=GamingDragon93
 description=Veteran Book
 // Veteran Book
 patch=1,EE,005B76E9,extended,00000009
 
-[Guardian Book]
+//Guardian Book
 author=GamingDragon93
 description=Guardian Book
 // Guardian Book
 patch=1,EE,005B76EA,extended,00000009
 
-[Bishop Book]
+//Bishop Book
 author=GamingDragon93
 description=Bishop Book
 // Bishop Book
 patch=1,EE,005B76EB,extended,00000009
 
-[Ninja Book]
+//Ninja Book
 author=GamingDragon93
 description=Ninja Book
 // Ninja Book
 patch=1,EE,005B76EC,extended,00000009
 
-[Paladin Book]
+//Paladin Book
 author=GamingDragon93
 description=Paladin Book
 // Paladin Book
 patch=1,EE,005B76ED,extended,00000009
 
-[Divine Book]
+//Divine Book
 author=GamingDragon93
 description=Divine Book
 // Divine Book
 patch=1,EE,005B76EE,extended,00000009
 
-[Slayer Book]
+//Slayer Book
 author=GamingDragon93
 description=Slayer Book
 // Slayer Book
 patch=1,EE,005B76EF,extended,00000009
 
-[General Book]
+//General Book
 author=GamingDragon93
 description=General Book
 // General Book
 patch=1,EE,005B76F0,extended,00000009
 
-[Expert Book]
+//Expert Book
 author=GamingDragon93
 description=Expert Book
 // Expert Book
 patch=1,EE,005B76F1,extended,00000009
 
-[Master Book]
+//Master Book
 author=GamingDragon93
 description=Master Book
 // Master Book
 patch=1,EE,005B76F2,extended,00000009
 
-[All Skill Books]
+//All Skill Books
 author=GamingDragon93
 description=All Skill Books
 // All Skill Books
 patch=1,EE,105B76DE,extended,00000909
 
-[All Skill Books]
+//All Skill Books
 author=GamingDragon93
 description=All Skill Books
 // All Skill Books
 patch=1,EE,405B76E0,extended,00040001
 
-[All Skill Books]
+//All Skill Books
 author=GamingDragon93
 description=All Skill Books
 // All Skill Books
 patch=1,EE,09090909,extended,00000000
 
-[All Skill Books]
+//All Skill Books
 author=GamingDragon93
 description=All Skill Books
 // All Skill Books
 patch=1,EE,105B76F0,extended,00000909
 
-[All Skill Books]
+//All Skill Books
 author=GamingDragon93
 description=All Skill Books
 // All Skill Books
 patch=1,EE,005B76F2,extended,00000009
 
-[Burn!]
+//Burn!
 author=GamingDragon93
 description=Burn!
 // Burn!
 patch=1,EE,005B7710,extended,00000009
 
-[Burnstrike]
+//Burnstrike
 author=GamingDragon93
 description=Burnstrike
 // Burnstrike
 patch=1,EE,005B7711,extended,00000009
 
-[Hellburner]
+//Hellburner
 author=GamingDragon93
 description=Hellburner
 // Hellburner
 patch=1,EE,005B7712,extended,00000009
 
-[Burnblaze]
+//Burnblaze
 author=GamingDragon93
 description=Burnblaze
 // Burnblaze
 patch=1,EE,005B7713,extended,00000009
 
-[BOOM!]
+//BOOM!
 author=GamingDragon93
 description=BOOM!
 // BOOM!
 patch=1,EE,005B7714,extended,00000009
 
-[BOOMOR!]
+//BOOMOR!
 author=GamingDragon93
 description=BOOMOR!
 // BOOMOR!
 patch=1,EE,005B7715,extended,00000009
 
-[BA-BOOM!]
+//BA-BOOM!
 author=GamingDragon93
 description=BA-BOOM!
 // BA-BOOM!
 patch=1,EE,005B7716,extended,00000009
 
-[Heaven's Gate]
+//Heaven's Gate
 author=GamingDragon93
 description=Heaven's Gate
 // Heaven's Gate
 patch=1,EE,005B7717,extended,00000009
 
-[Galactic Bang]
+//Galactic Bang
 author=GamingDragon93
 description=Galactic Bang
 // Galactic Bang
 patch=1,EE,005B7718,extended,00000009
 
-[WOW!]
+//WOW!
 author=GamingDragon93
 description=WOW!
 // WOW!
 patch=1,EE,005B7719,extended,00000009
 
-[Tremor]
+//Tremor
 author=GamingDragon93
 description=Tremor
 // Tremor
 patch=1,EE,005B771A,extended,00000009
 
-[Quake]
+//Quake
 author=GamingDragon93
 description=Quake
 // Quake
 patch=1,EE,005B771B,extended,00000009
 
-[Meteor Strike]
+//Meteor Strike
 author=GamingDragon93
 description=Meteor Strike
 // Meteor Strike
 patch=1,EE,005B771C,extended,00000009
 
-[Poizn]
+//Poizn
 author=GamingDragon93
 description=Poizn
 // Poizn
 patch=1,EE,005B771D,extended,00000009
 
-[Absorber]
+//Absorber
 author=GamingDragon93
 description=Absorber
 // Absorber
 patch=1,EE,005B771E,extended,00000009
 
-[Cure]
+//Cure
 author=GamingDragon93
 description=Cure
 // Cure
 patch=1,EE,005B771F,extended,00000009
 
-[Halvah]
+//Halvah
 author=GamingDragon93
 description=Halvah
 // Halvah
 patch=1,EE,005B7720,extended,00000009
 
-[Resurrect]
+//Resurrect
 author=GamingDragon93
 description=Resurrect
 // Resurrect
 patch=1,EE,005B7721,extended,00000009
 
-[Diggin']
+//Diggin'
 author=GamingDragon93
 description=Diggin'
 // Diggin'
 patch=1,EE,005B7722,extended,00000009
 
-[Crystal Wall]
+//Crystal Wall
 author=GamingDragon93
 description=Crystal Wall
 // Crystal Wall
 patch=1,EE,005B7723,extended,00000009
 
-[Gravity]
+//Gravity
 author=GamingDragon93
 description=Gravity
 // Gravity
 patch=1,EE,005B7724,extended,00000009
 
-[Crackle]
+//Crackle
 author=GamingDragon93
 description=Crackle
 // Crackle
 patch=1,EE,005B7725,extended,00000009
 
-[Diamond Dust]
+//Diamond Dust
 author=GamingDragon93
 description=Diamond Dust
 // Diamond Dust
 patch=1,EE,005B7726,extended,00000009
 
-[Crackle Fang]
+//Crackle Fang
 author=GamingDragon93
 description=Crackle Fang
 // Crackle Fang
 patch=1,EE,005B7727,extended,00000009
 
-[Absolute Zero]
+//Absolute Zero
 author=GamingDragon93
 description=Absolute Zero
 // Absolute Zero
 patch=1,EE,005B7728,extended,00000009
 
-[Heal]
+//Heal
 author=GamingDragon93
 description=Heal
 // Heal
 patch=1,EE,005B7729,extended,00000009
 
-[Healer]
+//Healer
 author=GamingDragon93
 description=Healer
 // Healer
 patch=1,EE,005B772A,extended,00000009
 
-[Healer+]
+//Healer+
 author=GamingDragon93
 description=Healer+
 // Healer+
 patch=1,EE,005B772B,extended,00000009
 
-[Alheal]
+//Alheal
 author=GamingDragon93
 description=Alheal
 // Alheal
 patch=1,EE,005B772C,extended,00000009
 
-[Alhealer]
+//Alhealer
 author=GamingDragon93
 description=Alhealer
 // Alhealer
 patch=1,EE,005B772D,extended,00000009
 
-[Snooze]
+//Snooze
 author=GamingDragon93
 description=Snooze
 // Snooze
 patch=1,EE,005B772E,extended,00000009
 
-[Howl]
+//Howl
 author=GamingDragon93
 description=Howl
 // Howl
 patch=1,EE,005B772F,extended,00000009
 
-[Howlslash]
+//Howlslash
 author=GamingDragon93
 description=Howlslash
 // Howlslash
 patch=1,EE,005B7730,extended,00000009
 
-[Howlnado]
+//Howlnado
 author=GamingDragon93
 description=Howlnado
 // Howlnado
 patch=1,EE,005B7731,extended,00000009
 
-[Zap!]
+//Zap!
 author=GamingDragon93
 description=Zap!
 // Zap!
 patch=1,EE,005B7732,extended,00000009
 
-[Zap All]
+//Zap All
 author=GamingDragon93
 description=Zap All
 // Zap All
 patch=1,EE,005B7733,extended,00000009
 
-[Gad Zap]
+//Gad Zap
 author=GamingDragon93
 description=Gad Zap
 // Gad Zap
 patch=1,EE,005B7734,extended,00000009
 
-[Astraea Zap]
+//Astraea Zap
 author=GamingDragon93
 description=Astraea Zap
 // Astraea Zap
 patch=1,EE,005B7735,extended,00000009
 
-[Runner]
+//Runner
 author=GamingDragon93
 description=Runner
 // Runner
 patch=1,EE,005B7736,extended,00000009
 
-[Craze]
+//Craze
 author=GamingDragon93
 description=Craze
 // Craze
 patch=1,EE,005B7737,extended,00000009
 
-[Fiora]
+//Fiora
 author=GamingDragon93
 description=Fiora
 // Fiora
 patch=1,EE,005B7738,extended,00000009
 
-[Erebos]
+//Erebos
 author=GamingDragon93
 description=Erebos
 // Erebos
 patch=1,EE,005B7739,extended,00000009
 
-[Magica Esoterica]
+//Magica Esoterica
 author=GamingDragon93
 description=Magica Esoterica
 // Magica Esoterica
 patch=1,EE,005B7742,extended,00000009
 
-[Decoy]
+//Decoy
 author=GamingDragon93
 description=Decoy
 // Decoy
 patch=1,EE,005B7743,extended,00000009
 
-[Prayer]
+//Prayer
 author=GamingDragon93
 description=Prayer
 // Prayer
 patch=1,EE,005B7744,extended,00000009
 
-[Meditation]
+//Meditation
 author=GamingDragon93
 description=Meditation
 // Meditation
 patch=1,EE,005B7745,extended,00000009
 
-[Luck]
+//Luck
 author=GamingDragon93
 description=Luck
 // Luck
 patch=1,EE,005B7746,extended,00000009
 
-[Fire Mastery]
+//Fire Mastery
 author=GamingDragon93
 description=Fire Mastery
 // Fire Mastery
 patch=1,EE,005B7747,extended,00000009
 
-[Earth Mastery]
+//Earth Mastery
 author=GamingDragon93
 description=Earth Mastery
 // Earth Mastery
 patch=1,EE,005B7748,extended,00000009
 
-[Water Mastery]
+//Water Mastery
 author=GamingDragon93
 description=Water Mastery
 // Water Mastery
 patch=1,EE,005B7749,extended,00000009
 
-[Wind Mastery]
+//Wind Mastery
 author=GamingDragon93
 description=Wind Mastery
 // Wind Mastery
 patch=1,EE,005B774A,extended,00000009
 
-[Guru's Way]
+//Guru's Way
 author=GamingDragon93
 description=Guru's Way
 // Guru's Way
 patch=1,EE,005B774B,extended,00000009
 
-[Magic Up]
+//Magic Up
 author=GamingDragon93
 description=Magic Up
 // Magic Up
 patch=1,EE,005B774C,extended,00000009
 
-[Endurance]
+//Endurance
 author=GamingDragon93
 description=Endurance
 // Endurance
 patch=1,EE,005B774D,extended,00000009
 
-[Sharp Eyes]
+//Sharp Eyes
 author=GamingDragon93
 description=Sharp Eyes
 // Sharp Eyes
 patch=1,EE,005B774E,extended,00000009
 
-[Absorb Magic]
+//Absorb Magic
 author=GamingDragon93
 description=Absorb Magic
 // Absorb Magic
 patch=1,EE,005B774F,extended,00000009
 
-[Wide Attack]
+//Wide Attack
 author=GamingDragon93
 description=Wide Attack
 // Wide Attack
 patch=1,EE,005B7750,extended,00000009
 
-[Berserker]
+//Berserker
 author=GamingDragon93
 description=Berserker
 // Berserker
 patch=1,EE,005B7751,extended,00000009
 
-[Item Mastery]
+//Item Mastery
 author=GamingDragon93
 description=Item Mastery
 // Item Mastery
 patch=1,EE,005B7752,extended,00000009
 
-[Legendary Thief]
+//Legendary Thief
 author=GamingDragon93
 description=Legendary Thief
 // Legendary Thief
 patch=1,EE,005B7753,extended,00000009
 
-[Hero's Talent]
+//Hero's Talent
 author=GamingDragon93
 description=Hero's Talent
 // Hero's Talent
 patch=1,EE,005B7754,extended,00000009
 
-[Lizard Hunter]
+//Lizard Hunter
 author=GamingDragon93
 description=Lizard Hunter
 // Lizard Hunter
 patch=1,EE,005B7755,extended,00000009
 
-[Beast Hunter]
+//Beast Hunter
 author=GamingDragon93
 description=Beast Hunter
 // Beast Hunter
 patch=1,EE,005B7756,extended,00000009
 
-[Demon Hunter]
+//Demon Hunter
 author=GamingDragon93
 description=Demon Hunter
 // Demon Hunter
 patch=1,EE,005B7757,extended,00000009
 
-[Verse Hunter]
+//Verse Hunter
 author=GamingDragon93
 description=Verse Hunter
 // Verse Hunter
 patch=1,EE,005B7758,extended,00000009
 
-[Way of Speed]
+//Way of Speed
 author=GamingDragon93
 description=Way of Speed
 // Way of Speed
 patch=1,EE,005B7759,extended,00000009
 
-[Perception]
+//Perception
 author=GamingDragon93
 description=Perception
 // Perception
 patch=1,EE,005B775A,extended,00000009
 
-[Counter]
+//Counter
 author=GamingDragon93
 description=Counter
 // Counter
 patch=1,EE,005B775B,extended,00000009
 
-[Jolt Counter]
+//Jolt Counter
 author=GamingDragon93
 description=Jolt Counter
 // Jolt Counter
 patch=1,EE,005B775C,extended,00000009
 
-[Quick Draw]
+//Quick Draw
 author=GamingDragon93
 description=Quick Draw
 // Quick Draw
 patch=1,EE,005B775D,extended,00000009
 
-[Force Attack]
+//Force Attack
 author=GamingDragon93
 description=Force Attack
 // Force Attack
 patch=1,EE,005B775E,extended,00000009
 
-[Auto-Cancel]
+//Auto-Cancel
 author=GamingDragon93
 description=Auto-Cancel
 // Auto-Cancel
 patch=1,EE,005B775F,extended,00000009
 
-[Super Reflexes]
+//Super Reflexes
 author=GamingDragon93
 description=Super Reflexes
 // Super Reflexes
 patch=1,EE,005B7760,extended,00000009
 
-[Unshakeable Will]
+//Unshakeable Will
 author=GamingDragon93
 description=Unshakeable Will
 // Unshakeable Will
 patch=1,EE,005B7761,extended,00000009
 
-[Mighty Guard]
+//Mighty Guard
 author=GamingDragon93
 description=Mighty Guard
 // Mighty Guard
 patch=1,EE,005B7762,extended,00000009
 
-[Reflect]
+//Reflect
 author=GamingDragon93
 description=Reflect
 // Reflect
 patch=1,EE,005B7763,extended,00000009
 
-[Fighting Spirit]
+//Fighting Spirit
 author=GamingDragon93
 description=Fighting Spirit
 // Fighting Spirit
 patch=1,EE,005B7764,extended,00000009
 
-[Revenge]
+//Revenge
 author=GamingDragon93
 description=Revenge
 // Revenge
 patch=1,EE,005B7765,extended,00000009
 
-[Attack Speed]
+//Attack Speed
 author=GamingDragon93
 description=Attack Speed
 // Attack Speed
 patch=1,EE,005B7766,extended,00000009
 
-[Warrior's Way]
+//Warrior's Way
 author=GamingDragon93
 description=Warrior's Way
 // Warrior's Way
 patch=1,EE,005B7767,extended,00000009
 
-[Life Up]
+//Life Up
 author=GamingDragon93
 description=Life Up
 // Life Up
 patch=1,EE,005B7768,extended,00000009
 
-[Brute Strength]
+//Brute Strength
 author=GamingDragon93
 description=Brute Strength
 // Brute Strength
 patch=1,EE,005B7769,extended,00000009
 
-[Mighty Blow]
+//Mighty Blow
 author=GamingDragon93
 description=Mighty Blow
 // Mighty Blow
 patch=1,EE,005B776A,extended,00000009
 
-[Passive Defense]
+//Passive Defense
 author=GamingDragon93
 description=Passive Defense
 // Passive Defense
 patch=1,EE,005B776B,extended,00000009
 
-[All Skills]
+//All Skills
 author=GamingDragon93
 description=All Skills
 // All Skills
 patch=1,EE,405B7710,extended,00170001
 
-[All Skills]
+//All Skills
 author=GamingDragon93
 description=All Skills
 // All Skills

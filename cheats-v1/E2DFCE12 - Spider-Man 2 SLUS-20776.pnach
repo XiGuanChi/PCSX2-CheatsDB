@@ -1,59 +1,59 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20B31B98,extended,000003E8
 patch=1,EE,20B31BA0,extended,000003E8
 
-[Cheats/Infinite Spider Reflexes Use] 
+//Cheats/Infinite Spider Reflexes Use
 patch=1,EE,202B0C1C,extended,00000000
 
-[Cheats/Max Hero Points After Getting Some] 
+//Cheats/Max Hero Points After Getting Some
 patch=1,EE,20A5EDDC,extended,497423F0
 
-[Cheats/Freeze Challenge Timer o] 
+//Cheats/Freeze Challenge Timer o
 patch=1,EE,203781B4,extended,24020000
 
-[Cheats/Easy Swinging Always On] 
+//Cheats/Easy Swinging Always On
 patch=1,EE,21A331A8,extended,00000001
 
-[Cheats/Map Always On]  
+//Cheats/Map Always On
 patch=1,EE,21A331AC,extended,00000001
 
-[Cheats/Press L1+Select To Stop Timers Going Down]  
+//Cheats/Press L1+Select To Stop Timers Going Down
 patch=1,EE,D0608102,extended,0000FBFE
 patch=1,EE,2037820C,extended,00000000
 
-[Cheats/P1 Press L2+Select To Restart Timers Going Down]  
+//Cheats/P1 Press L2+Select To Restart Timers Going Down
 patch=1,EE,D0608102,extended,0000FEFE
 patch=1,EE,2037820C,extended,E6200030
 
-[Cheats/P1 Press R1+Select To Stop Timers Going Up]  
+//Cheats/P1 Press R1+Select To Stop Timers Going Up
 patch=1,EE,D0608102,extended,0000F7FE
 patch=1,EE,2037822C,extended,00000000
 
-[Cheats/P1 Press R2+Select To Restart Timers Going Up] 
+//Cheats/P1 Press R2+Select To Restart Timers Going Up
 patch=1,EE,D0608102,extended,0000FDFE
 patch=1,EE,2037822C,extended,E6200030
 
-[Cheats/No Traffic] 
+//Cheats/No Traffic
 patch=1,EE,005DF968,extended,00000000
 
-[Cheats/Have Locomotion Upgrades Slingshot Jump]  
+//Cheats/Have Locomotion Upgrades Slingshot Jump
 patch=1,EE,20A5FB34,extended,3F800000
 
-[Cheats/Have Locomotion Upgrades Max Swing Speed Level ] 
+//Cheats/Have Locomotion Upgrades Max Swing Speed Level
 patch=1,EE,20A5FDBC,extended,41000000
 
-[Cheats/Have Locomotion Upgrades Web Zip]  
+//Cheats/Have Locomotion Upgrades Web Zip
 patch=1,EE,20A5FE24,extended,3F800000
 
-[Cheats/Have Locomotion Upgrades Wallspring Duration Upgrade 1 ] 
+//Cheats/Have Locomotion Upgrades Wallspring Duration Upgrade 1
 patch=1,EE,20A5FE60,extended,3F800000
 
-[Cheats/Unlock All Combat Upgrades]  
+//Cheats/Unlock All Combat Upgrades
 patch=1,EE,20A5FB40,extended,3F800000
 patch=1,EE,40A5FB64,extended,00170003
 patch=1,EE,3F800000,extended,00000000
 patch=1,EE,20A5FD74,extended,40800000
 
-[Cheats/Unlock All Awards]  
+//Cheats/Unlock All Awards
 patch=1,EE,40A60090,extended,00280001
 patch=1,EE,3F800000,extended,00000000

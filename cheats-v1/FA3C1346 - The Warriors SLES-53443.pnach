@@ -1,41 +1,41 @@
-[Cheats/Infinite Money]  
+//Cheats/Infinite Money
 patch=1,EE,21FD88FC,extended,000003E7
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20221130,extended,3C0205FA
 patch=1,EE,20221134,extended,344205FA
 patch=1,EE,20221138,extended,AC620144
 
-[Cheats/Infinite Health ALT]  
+//Cheats/Infinite Health ALT
 patch=1,EE,200C2010,extended,84620146
 patch=1,EE,200C2014,extended,A4620144
 patch=1,EE,200C2018,extended,03E00008
 patch=1,EE,200C201C,extended,28420002
 patch=1,EE,20221130,extended,0C030804
 
-[Cheats/Infinite Rage] 
+//Cheats/Infinite Rage
 patch=1,EE,20256628,extended,00000000
 
-[Cheats/Infinite Rage ALT] 
+//Cheats/Infinite Rage ALT
 patch=1,EE,200C2000,extended,00021821
 patch=1,EE,200C2004,extended,AE430650
 patch=1,EE,200C2008,extended,03E00008
 patch=1,EE,200C200C,extended,0062182A
 patch=1,EE,2024AC78,extended,0C030800
 
-[Cheats/Max Keys] 
+//Cheats/Max Keys
 patch=1,EE,21FD89AC,extended,00000009
 
-[Cheats/1 Hit fills Ragebar] 
+//Cheats/1 Hit fills Ragebar
 patch=1,EE,20264F10,extended,24630064
 
-[Cheats/Armies of the Night Max Points] 
+//Cheats/Armies of the Night Max Points
 patch=1,EE,206FE494,extended,0098967F
 
-[Cheats/Armies of the Night Infinite Credits] 
+//Cheats/Armies of the Night Infinite Credits
 patch=1,EE,20619910,extended,0000000A
 
-[Cheats/Unlock All Modes, Levels And Characters] 
+//Cheats/Unlock All Modes, Levels And Characters
 patch=1,EE,406FE8F8,extended,00130001
 patch=1,EE,00000000,extended,00000000
 patch=1,EE,206F1590,extended,00000000

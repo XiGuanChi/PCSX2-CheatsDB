@@ -1,22 +1,22 @@
-[Cheats/Infinite Health 1P Story Mode] 
+//Cheats/Infinite Health 1P Story Mode
 patch=1,EE,109AB53E,extended,00004348
 patch=1,EE,109AB542,extended,00004348
 
-[Cheats/Infinite Power] 
+//Cheats/Infinite Power
 patch=1,EE,009AB548,extended,00000009
 
-[Cheats/1 Hit Death P2] 
+//Cheats/1 Hit Death P2
 patch=1,EE,E0023F80,extended,209AB6FC
 patch=1,EE,209AB6FC,extended,3F800000
 patch=1,EE,209AB700,extended,437A0000
 
-[Cheats/No Health P2] 
+//Cheats/No Health P2
 patch=1,EE,209AB6FC,extended,00000000
 
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,109B7A1E,extended,00004348
 
-[Cheats/Unlock All characters and all colors]  
+//Cheats/Unlock All characters and all colors
 patch=1,EE,4067E918,extended,00140014
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,4067E92C,extended,00140014
@@ -24,7 +24,7 @@ patch=1,EE,00000001,extended,00000000
 patch=1,EE,4067E938,extended,00140014
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock all Character, all Costumes and all profiles turn off the code once you save the game] 
+//Cheats/Unlock all Character, all Costumes and all profiles turn off the code once you save the game
 patch=1,EE,2054174C,extended,24040301
 patch=1,EE,20541754,extended,A524000C
 patch=1,EE,20541788,extended,240F0001
@@ -32,32 +32,32 @@ patch=1,EE,20541790,extended,A08F0010
 patch=1,EE,205417E8,extended,240F0001
 patch=1,EE,205417F0,extended,A08F0018
 
-[Cheats/Unlock All stages and All Menu selectable turn off the code once you save the game]
+//Cheats/Unlock All stages and All Menu selectable turn off the code once you save the game
 patch=1,EE,20546F70,extended,24010001
 patch=1,EE,20546F78,extended,A0410002
 
-[Cheats/Unlock All Extra]  
+//Cheats/Unlock All Extra
 patch=1,EE,00C3F917,extended,00000003
 
-[Cheats/Unlock All Extra can be viewed with the L3 + R3 button It will be reflected in the save] 
+//Cheats/Unlock All Extra can be viewed with the L3 + R3 button It will be reflected in the save
 patch=1,EE,D0A7D2DC,extended,0000FFF9
 patch=1,EE,00A7A806,extended,00000001
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,40C3F888,extended,00050001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,10C3F89C,extended,00000101
 
-[Cheats/Unlock All Sounds]  
+//Cheats/Unlock All Sounds
 patch=1,EE,40C3F8A8,extended,00180001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,00C3F90A,extended,00000001
 
-[Cheats/Unlock All Characters]
+//Cheats/Unlock All Characters
 patch=1,EE,409B0D7C,extended,0026000C
 patch=1,EE,01010701,extended,00000000
 
-[Cheats/Unlock all Colours variations]   
+//Cheats/Unlock all Colours variations
 patch=1,EE,409B0D80,extended,0026000C
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,409B0D84,extended,0026000C
@@ -67,7 +67,7 @@ patch=1,EE,01010101,extended,00000000
 patch=1,EE,409B0D8C,extended,0026000C
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Stages & Soundtest] 
+//Cheats/Unlock All Stages & Soundtest
 patch=1,EE,109B0500,extended,00000101
 patch=1,EE,209B04F0,extended,0101010A
 patch=1,EE,409B04F4,extended,00030001

@@ -1,4 +1,4 @@
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,21D0ECC0,extended,0000007F
 patch=1,EE,2021E57C,extended,0000007F
 patch=1,EE,21D0ED44,extended,FFFFFFFF
@@ -8,6 +8,6 @@ patch=1,EE,2021E494,extended,FFFFFFFF
 patch=1,EE,41D0C4A4,extended,001E0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Hold Circle Over New Game for Debug Menu This allows viewing of all character routes.]  
+//Cheats/Hold Circle Over New Game for Debug Menu This allows viewing of all character routes.
 patch=1,EE,D021EB82,extended,0000DFFF
 patch=1,EE,20417F70,extended,000003F2

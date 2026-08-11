@@ -1,10 +1,10 @@
-[Cheats/P1 Infinite Health] 
+//Cheats/P1 Infinite Health
 patch=1,EE,11B00366,extended,00000090
 
 
-[Cheats/P1 Mas Super Combo Gauge] 
+//Cheats/P1 Mas Super Combo Gauge
 patch=1,EE,01B005F0,extended,00000030
 
-[Cheats/Press Select 2P Health 0] 
+//Cheats/Press Select 2P Health 0
 patch=1,EE,D0762ADC,extended,0000FFFE
 patch=1,EE,11B00766,extended,00000000

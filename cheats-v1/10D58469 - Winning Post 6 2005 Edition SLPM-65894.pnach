@@ -1,14 +1,14 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,209A0BC0,extended,05F5E0FF
 
-[Cheats/Max Lifetime G1]  
+//Cheats/Max Lifetime G1
 patch=1,EE,00B10500,extended,00000063
 
-[Cheats/Max Fame]  
+//Cheats/Max Fame
 patch=1,EE,10B10504,extended,0000FFFF
 
-[Cheats/Max Lifetime Win]  
+//Cheats/Max Lifetime Win
 patch=1,EE,10B10508,extended,0000270F
 
-[Cheats/Max This year's prize money] 
+//Cheats/Max This year's prize money
 patch=1,EE,20B1050C,extended,0098967F

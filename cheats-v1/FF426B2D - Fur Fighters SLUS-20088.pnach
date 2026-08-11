@@ -1,13 +1,13 @@
-[Cheats/Unlock All Cheats]  
+//Cheats/Unlock All Cheats
 patch=1,EE,202C7034,extended,FFFFFFFF
 patch=1,EE,202D2EC0,extended,FFFFFFFF
 
-[Cheats/Activate Cheat Invincibility]  
+//Cheats/Activate Cheat Invincibility
 patch=1,EE,002CF744,extended,00000004
 
-[Cheats/Activate Cheat Auto Aim]  
+//Cheats/Activate Cheat Auto Aim
 patch=1,EE,002CF744,extended,00000020
 
 
-[Cheats/Activate Cheat Have All Weapons]    
+//Cheats/Activate Cheat Have All Weapons
 patch=1,EE,002CF747,extended,00000002

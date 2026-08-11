@@ -1,17 +1,17 @@
 gametitle=Nickelodeon SpongeBob's Atlantis SquarePantis PAL-M SLES-55024 AE28C9C7
 
-[50/60 FPS]
+//50/60 FPS
 author=GamingDragon93
 description=Might need EE Overclock.
 patch=0,EE,002204D4,word,3C014270
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start. Demos FMVs out of sync.
 patch=0,EE,003A1280,word,1440000B
 patch=0,EE,002204FC,word,3C014270
 
-[480p Mode]
+//480p Mode
 author=GamingDragon93
 description=SDTV 480p mode at start. Demos FMVs out of sync
 patch=0,EE,003A11FC,word,1440001E

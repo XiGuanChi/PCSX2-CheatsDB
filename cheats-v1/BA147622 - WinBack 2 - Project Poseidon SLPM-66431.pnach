@@ -1,25 +1,25 @@
-[Cheats/Max CRT Gauge at the start of the stage Decrease when damaged] 
+//Cheats/Max CRT Gauge at the start of the stage Decrease when damaged
 patch=1,EE,201169C8,extended,00000000
 patch=1,EE,20116A98,extended,00000000
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2013C730,extended,00401021
 patch=1,EE,2013C744,extended,00401021
 
-[Cheats/Infinite Sub Weapon Ammo] 
+//Cheats/Infinite Sub Weapon Ammo
 patch=1,EE,2012CD78,extended,00402821
 
-[Cheats/Unlock All Episodes]  
+//Cheats/Unlock All Episodes
 patch=1,EE,201A7B54,extended,24010001
 patch=1,EE,201A7B58,extended,AC419414
 
-[Cheats/Unlock All Missions]  
+//Cheats/Unlock All Missions
 patch=1,EE,419EEB98,extended,001E0001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,219EABCC,extended,FFFFFFFF
 patch=1,EE,219EABD0,extended,FFFFFFFF
 
-[Cheats/Unlock ENGLISH Mode] 
+//Cheats/Unlock ENGLISH Mode
 patch=1,EE,019EAB98,extended,00000000

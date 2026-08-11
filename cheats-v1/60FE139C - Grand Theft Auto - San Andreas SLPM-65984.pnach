@@ -1,47 +1,47 @@
-[Cheats/Max gold]  
+//Cheats/Max gold
 patch=1,EE,2070C2C4,extended,3B9AC9FF
 patch=1,EE,2070C2C8,extended,3B9AC9FF
 
-[Cheats/Infinite Bulletproof Vest] 
+//Cheats/Infinite Bulletproof Vest
 patch=1,EE,202AA974,extended,3C0543FA
 patch=1,EE,202AA97C,extended,AC650588
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,20134400,extended,24420000
 patch=1,EE,20134464,extended,24420000
 patch=1,EE,20134720,extended,24420000
 
-[Cheats/Do not lose weapon] 
+//Cheats/Do not lose weapon
 patch=1,EE,201994A4,extended,14BD005B
 
-[Cheats/No car collision damage R2+L3, normal damage R2+R3] 
+//Cheats/No car collision damage R2+L3, normal damage R2+R3
 patch=1,EE,D0703542,extended,0000FDFD
 patch=1,EE,2014674C,extended,00001FFC
 patch=1,EE,D0703542,extended,0000FDFB
 patch=1,EE,2014674C,extended,00031EBC
 
-[Cheats/All car bulletproof L1+L3 norma L1+R3] 
+//Cheats/All car bulletproof L1+L3 norma L1+R3
 patch=1,EE,D0703542,extended,0000FBFD
 patch=1,EE,2016A5AC,extended,30430000
 patch=1,EE,D0703542,extended,0000FBFB
 patch=1,EE,2016A5AC,extended,304300FF
 
 
-[Cheats/No bike collision damage]  
+//Cheats/No bike collision damage
 patch=1,EE,203259A0,extended,03E00008
 patch=1,EE,203259A4,extended,00000000
 
-[Cheats/Time limit stop Stop L1+L2 resume R1+R2] 
+//Cheats/Time limit stop Stop L1+L2 resume R1+R2
 patch=1,EE,D0703542,extended,0000FAFF
 patch=1,EE,202434F8,extended,4A0002FF
 patch=1,EE,D0703542,extended,0000F5FF
 patch=1,EE,202434F8,extended,0C0A53D0
 
-[Cheats/Wanted Level 0 L2+L3 If you commit a criminal act in the ready state, it will be 0, but it will return to the original wanted level with L2 + R3] 
+//Cheats/Wanted Level 0 L2+L3 If you commit a criminal act in the ready state, it will be 0, but it will return to the original wanted level with L2 + R3
 patch=1,EE,D0703542,extended,0000FEFD
 patch=1,EE,2027C164,extended,5780007C
 patch=1,EE,D0703542,extended,0000FEFB
 patch=1,EE,2027C164,extended,10200002
 
-[Cheats/100% clear] 
+//Cheats/100% clear
 patch=1,EE,202D517C,extended,4A0002FF

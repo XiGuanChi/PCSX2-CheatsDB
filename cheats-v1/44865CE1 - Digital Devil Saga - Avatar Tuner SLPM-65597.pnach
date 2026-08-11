@@ -1,10 +1,10 @@
-[Cheats/Max Macca]  
+//Cheats/Max Macca
 patch=1,EE,211D1C3C,extended,0098967F
 
-[Cheats/Max Macca Due to Fluctuation] 
+//Cheats/Max Macca Due to Fluctuation
 patch=1,EE,201197C8,extended,ACC5003C
 
-[Cheats/Max Serph Status]  
+//Cheats/Max Serph Status
 patch=1,EE,111D2666,extended,000003E7 
 patch=1,EE,111D2668,extended,000003E7 
 patch=1,EE,111D266A,extended,000003E7 
@@ -16,45 +16,45 @@ patch=1,EE,011D2678,extended,00000063
 patch=1,EE,011D2679,extended,00000063 
 patch=1,EE,011D267A,extended,00000063 
 
-[Cheats/Infinite HP for Allies In Battle] 
+//Cheats/Infinite HP for Allies In Battle
 patch=1,EE,201BC168,extended,96660128
 patch=1,EE,201BC178,extended,A6660126
 
-[Cheats/Infinite MP for Allies In Battle] 
+//Cheats/Infinite MP for Allies In Battle
 patch=1,EE,201BC1AC,extended,9666012C
 patch=1,EE,201BC1BC,extended,A666012A
 
-[Cheats/Maintains HP 9999 for Allies In Battle] 
+//Cheats/Maintains HP 9999 for Allies In Battle
 patch=1,EE,201BC168,extended,2406270F
 patch=1,EE,201BC178,extended,A6660126
 
-[Cheats/Maintain MP 9999 Allies In Battle] 
+//Cheats/Maintain MP 9999 Allies In Battle
 patch=1,EE,201BC1AC,extended,2406270F
 patch=1,EE,201BC1BC,extended,A666012A
 
-[Cheats/Recovery from Abnormal Ally Conditions In Battle] 
+//Cheats/Recovery from Abnormal Ally Conditions In Battle
 patch=1,EE,201BBF48,extended,A660012E
 patch=1,EE,201BBF54,extended,30047FFF
 
-[Cheats/Enemy Initial HP 1 In Battle] 
+//Cheats/Enemy Initial HP 1 In Battle
 patch=1,EE,201A17D8,extended,24030001
 patch=1,EE,201A17E0,extended,24040001
 
-[Cheats/Enemy Initial MP 0 In Battle] 
+//Cheats/Enemy Initial MP 0 In Battle
 patch=1,EE,201A17E8,extended,24030000
 patch=1,EE,201A17F0,extended,24040000
 
-[Cheats/Unlock All Skill List at the time of setting save not reflected] 
+//Cheats/Unlock All Skill List at the time of setting save not reflected
 patch=1,EE,20278230,extended,00000000
 
-[Cheats/Devil Analyze Surely Succeeds Only Zako Enemies] 
+//Cheats/Devil Analyze Surely Succeeds Only Zako Enemies
 patch=1,EE,201AE4C4,extended,00000000
 patch=1,EE,201AE664,extended,00000000
 patch=1,EE,201AE72C,extended,00000000
 patch=1,EE,201AE834,extended,00000000
 patch=1,EE,201AE954,extended,00000000
 
-[Cheats/Devil Analyze HP, MP No Viewing Restrictions] 
+//Cheats/Devil Analyze HP, MP No Viewing Restrictions
 patch=1,EE,201AE664,extended,00000000
 patch=1,EE,201AE698,extended,10000003
 patch=1,EE,201AE72C,extended,00000000

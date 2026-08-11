@@ -1,37 +1,37 @@
-[Cheats/Infinite Funds] 
+//Cheats/Infinite Funds
 patch=1,EE,20550964,extended,05F5E0FF
 
-[Cheats/Character 1 Infinite HP In Battle] 
+//Cheats/Character 1 Infinite HP In Battle
 patch=1,EE,20AC3C98,extended,0000270F
 patch=1,EE,20AC3C60,extended,0000270F
 
-[Cheats/Character 1 Infinite EP In Battle]
+//Cheats/Character 1 Infinite EP In Battle
 patch=1,EE,10AC3C9C,extended,0000270F
 patch=1,EE,10AC3C64,extended,0000270F
 
-[Cheats/Character 2 Infinite HP In Battle] 
+//Cheats/Character 2 Infinite HP In Battle
 patch=1,EE,20AC3D80,extended,0000270F
 patch=1,EE,20AC3D48,extended,0000270F
 
-[Cheats/Character 2 Infinite EP In Battle] 
+//Cheats/Character 2 Infinite EP In Battle
 patch=1,EE,10AC3D84,extended,0000270F
 patch=1,EE,10AC3D4C,extended,0000270F
 
-[Cheats/Character 3 Infinite HP In Battle] 
+//Cheats/Character 3 Infinite HP In Battle
 patch=1,EE,20AC3E68,extended,0000270F
 patch=1,EE,20AC3E30,extended,0000270F
 
-[Cheats/Character 3 Infinite EP In Battle] 
+//Cheats/Character 3 Infinite EP In Battle
 patch=1,EE,10AC3E6C,extended,0000270F
 patch=1,EE,10AC3E34,extended,0000270F
 
-[Cheats/Press L1+Circle To Save Anywhere] 
+//Cheats/Press L1+Circle To Save Anywhere
 patch=1,EE,D0867382,extended,0000DBFF
 patch=1,EE,201C6D2C,extended,00000000
 patch=1,EE,D0867382,extended,0000FFFF
 patch=1,EE,201C6D2C,extended,10400032
 
-[Cheats/Enable Debug Mode] 
+//Cheats/Enable Debug Mode
 patch=1,EE,D0AA0C30,extended,0000FFA0
 patch=1,EE,00AA0C7E,extended,000000E7
 patch=1,EE,201BB87C,extended,0C0962E4

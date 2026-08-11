@@ -1,6 +1,6 @@
-[Cheats/Unlock Extra Mode Enabled] 
+//Cheats/Unlock Extra Mode Enabled
 patch=1,EE,20287E5C,extended,00000001
 
-[Cheats/Unlock All CG]  
+//Cheats/Unlock All CG
 patch=1,EE,40288B14,extended,08000001
 patch=1,EE,FFFFFFFF,extended,00000000

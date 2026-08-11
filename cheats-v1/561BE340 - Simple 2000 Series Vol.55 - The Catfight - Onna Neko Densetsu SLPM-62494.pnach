@@ -1,12 +1,12 @@
-[Cheats/Do not Attack 2P Characters] 
+//Cheats/Do not Attack 2P Characters
 patch=1,EE,00284D4D,extended,0000000C
 
-[Cheats/1P Character Operation 1P Controller] 
+//Cheats/1P Character Operation 1P Controller
 patch=1,EE,00284D4C,extended,0000000B
 
-[Cheats/Survival without 99 people] 
+//Cheats/Survival without 99 people
 patch=1,EE,00284D6F,extended,00000063
 
-[Cheats/Unlock All Characters and All Costumes] 
+//Cheats/Unlock All Characters and All Costumes
 patch=1,EE,2010A860,extended,00000000
 patch=1,EE,2010A878,extended,00000000

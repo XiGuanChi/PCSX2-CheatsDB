@@ -1,13 +1,13 @@
-[Cheats/Army 999999] 
+//Cheats/Army 999999
 patch=1,EE,2066DA00,extended,000F423F
 
-[Cheats/Press Select to Enter Military Strength 999999] 
+//Cheats/Press Select to Enter Military Strength 999999
 patch=1,EE,D02C3A42,extended,0000FFFE
 patch=1,EE,2066DA00,extended,000F423F
 
-[Cheats/Unlock All CG when you enter Koihime Picture Scroll]   
+//Cheats/Unlock All CG when you enter Koihime Picture Scroll
 patch=1,EE,201E18D0,extended,24010001
 patch=1,EE,201E18D4,extended,A0610000
 
-[Cheats/Unlock All Event Scenes when you Enter Girls Maiden] 
+//Cheats/Unlock All Event Scenes when you Enter Girls Maiden
 patch=1,EE,201E3F68,extended,ACC60024

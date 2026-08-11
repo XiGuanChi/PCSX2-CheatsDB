@@ -1,11 +1,11 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,102869C8,extended,000005E8
 
-[Cheats/Infinite Escape Time] 
+//Cheats/Infinite Escape Time
 patch=1,EE,102886FC,extended,00000000
 
-[Cheats/Infinite Mind Gauge]  
+//Cheats/Infinite Mind Gauge
 patch=1,EE,102869CC,extended,00000000
 
-[Cheats/Max Score Petit Fujiko] 
+//Cheats/Max Score Petit Fujiko
 patch=1,EE,20269D4C,extended,05F5E0FF

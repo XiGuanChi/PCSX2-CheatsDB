@@ -1,13 +1,13 @@
-[Cheats/Max gold] 
+//Cheats/Max gold
 patch=1,EE,21B08020,extended,00989676
 
-[Cheats/Legend of 999] 
+//Cheats/Legend of 999
 patch=1,EE,21B08024,extended,000003E7
 
-[Cheats/Settings point 21] 
+//Cheats/Settings point 21
 patch=1,EE,01B09221,extended,00000015
 
-[Cheats/Unlock All whole box picture generic] 
+//Cheats/Unlock All whole box picture generic
 patch=1,EE,21B07EF8,extended,FFFFFFFF
 patch=1,EE,21B07EFC,extended,FFFFFFFF
 patch=1,EE,21B07F00,extended,FFFFFFFF
@@ -22,12 +22,12 @@ patch=1,EE,21B07F20,extended,FFFFFFFF
 patch=1,EE,21B07F24,extended,FFFFFFFF
 patch=1,EE,01B07F28,extended,000000FF
 
-[Cheats/Unlock All Parts]   
+//Cheats/Unlock All Parts
 patch=1,EE,41B07DF8,extended,000D0001
 patch=1,EE,FFFFFFFF,extended,1CDE2FEB
 patch=1,EE,21B07E2C,extended,00FFFFFF
 
-[Cheats/Unlock All whole box picture] 
+//Cheats/Unlock All whole box picture
 patch=1,EE,41B07EF8,extended,000C0001
 patch=1,EE,FFFFFFFF,extended,1CDE2FEB
 patch=1,EE,01B07F28,extended,000000FF

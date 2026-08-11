@@ -1,4 +1,4 @@
-[Cheats/Unlock All Extras & Debug] 
+//Cheats/Unlock All Extras & Debug
 patch=1,EE,40486040,extended,03200001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,40485DE0,extended,00030001
@@ -7,6 +7,6 @@ patch=1,EE,20485DEC,extended,FFFFFFFF
 patch=1,EE,40485E60,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/New Game = Debug Menu This menu contains various options to view background images, event images, and unlock certain options. It also contains various route select options. Page 1: Next page.Start from the beginning	Starts a new game.Quick start Sends you to the title screen.Run file Event select menu.System Flag Settings Has no menu options.Local Flag Settings Unknown. Hidden option settings Presumably hides hidden options of some sort.Return to title Returns to the title screen.] 
+//Cheats/New Game = Debug Menu This menu contains various options to view background images, event images, and unlock certain options. It also contains various route select options. Page 1: Next page.Start from the beginning	Starts a new game.Quick start Sends you to the title screen.Run file Event select menu.System Flag Settings Has no menu options.Local Flag Settings Unknown. Hidden option settings Presumably hides hidden options of some sort.Return to title Returns to the title screen.
 patch=1,EE,D11EC892,extended,00000003
 patch=1,EE,111EC892,extended,00000005

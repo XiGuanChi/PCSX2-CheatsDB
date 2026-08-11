@@ -1,28 +1,28 @@
-[Cheats/Infinite health] 
+//Cheats/Infinite health
 patch=1,EE,201AD1B0,extended,240200FF
 patch=1,EE,201AD1B8,extended,A2020194
 
-[Cheats/All characters Stats maxed] 
+//Cheats/All characters Stats maxed
 patch=1,EE,201DAAA8,extended,44811000
 patch=1,EE,201DAA94,extended,3C013FC0
 
-[Cheats/Max Score] 
+//Cheats/Max Score
 patch=1,EE,200FFF00,extended,3C024E00
 patch=1,EE,200FFF04,extended,AE420000
 patch=1,EE,200FFF08,extended,24040005
 patch=1,EE,200FFF0C,extended,0806C381
 patch=1,EE,201B0DFC,extended,0803FFC0
 
-[Cheats/Freeze Challenge Timer] 
+//Cheats/Freeze Challenge Timer
 patch=1,EE,201EBCE0,extended,00000000
 
-[Cheats/Infinite Time Run] 
+//Cheats/Infinite Time Run
 patch=1,EE,202F2F24,extended,00004048
 
-[Cheats/Unlock Amish Boy] 
+//Cheats/Unlock Amish Boy
 patch=1,EE,10270B14,extended,00000000
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,2027AAEC,extended,00000001
 patch=1,EE,2027AAF0,extended,00000001
 patch=1,EE,2027AAE8,extended,00000001
@@ -42,8 +42,8 @@ patch=1,EE,2027AB24,extended,00000001
 patch=1,EE,2027AB28,extended,00000001
 patch=1,EE,2027AB2C,extended,00000001
 
-[Cheats/Unlock All Special Modes] 
+//Cheats/Unlock All Special Modes
 patch=1,EE,10258B80,extended,0000FFFF
 
-[Cheats/Unlock All Bikes] 
+//Cheats/Unlock All Bikes
 patch=1,EE,00272B4B,extended,00000005

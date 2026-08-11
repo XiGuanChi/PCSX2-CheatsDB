@@ -1,33 +1,33 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C0200,extended,081516FC
 patch=1,EE,200C0204,extended,ADE00020
 patch=1,EE,202A5DB0,extended,0C030080
 
-[Cheats/Pause To Have All Weapon Skill Goodies] 
+//Cheats/Pause To Have All Weapon Skill Goodies
 patch=1,EE,200C0240,extended,8C4601BC
 patch=1,EE,200C0244,extended,08059BB8
 patch=1,EE,200C0248,extended,AC4601CC
 patch=1,EE,203A3994,extended,0C030090
 
-[Cheats/Never Reload Handguns & Shotgun] 
+//Cheats/Never Reload Handguns & Shotgun
 patch=1,EE,10521CF6,extended,00001000
 
-[Cheats/Never Reload Assault Rifle] 
+//Cheats/Never Reload Assault Rifle
 patch=1,EE,105244B2,extended,00001000
 
-[Cheats/Pause To Have All Red Blood Drops] 
+//Cheats/Pause To Have All Red Blood Drops
 patch=1,EE,200C0220,extended,8C4601B4
 patch=1,EE,200C0224,extended,08059BB8
 patch=1,EE,200C0228,extended,AC4601C4
 patch=1,EE,203A38C4,extended,0C030088
 
-[Cheats/Pause To Have All White Blood Drops] 
+//Cheats/Pause To Have All White Blood Drops
 patch=1,EE,200C0230,extended,8C4601B8
 patch=1,EE,200C0234,extended,08059BB8
 patch=1,EE,200C0238,extended,AC4601C8
 patch=1,EE,203A392C,extended,0C03008C
 
-[Cheats/Pause To Have All Weapon Skill Goodies] 
+//Cheats/Pause To Have All Weapon Skill Goodies
 patch=1,EE,200C0240,extended,8C4601BC
 patch=1,EE,200C0244,extended,08059BB8
 patch=1,EE,200C0248,extended,AC4601CC

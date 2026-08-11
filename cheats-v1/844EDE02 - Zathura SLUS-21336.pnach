@@ -1,20 +1,20 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C0220,extended,080A4819
 patch=1,EE,200C0224,extended,E4540014
 patch=1,EE,20292058,extended,08030088
 
-[Cheats/Every Z Counter Increases Energy] 
+//Cheats/Every Z Counter Increases Energy
 patch=1,EE,20230C10,extended,24020032
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,200C0230,extended,C440000C
 patch=1,EE,200C0234,extended,080A47E2
 patch=1,EE,200C0238,extended,E4400014
 patch=1,EE,20291F84,extended,0803008C
 
-[Cheats/Unlock All Levels Extras] 
+//Cheats/Unlock All Levels Extras
 patch=1,EE,408A875C,extended,001D0001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock Enable Debug Menu allows selection of all levels in the game] 
+//Cheats/Unlock Enable Debug Menu allows selection of all levels in the game
 patch=1,EE,20461430,extended,00000001

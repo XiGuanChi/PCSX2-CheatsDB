@@ -1,51 +1,51 @@
-[Cheats/1P Infinite HP]
+//Cheats/1P Infinite HP
 patch=1,EE,201A57A8,extended,1060001F
 patch=1,EE,201A57B0,extended,920101FE
 patch=1,EE,201A57B4,extended,0041280A
 
-[Cheats/1P Infinite arrows] 
+//Cheats/1P Infinite arrows
 patch=1,EE,201951CC,extended,00000000
 
-[Cheats/1P Infinite Musou gauge] 
+//Cheats/1P Infinite Musou gauge
 patch=1,EE,201920D8,extended,908401FE
 patch=1,EE,201920DC,extended,28830001
 
-[Cheats/Press R3 gauge awakening]
+//Cheats/Press R3 gauge awakening
 patch=1,EE,201E79A8,extended,2403FFFF
 
-[Cheats/1 Hit Kill] 
+//Cheats/1 Hit Kill
 patch=1,EE,201E5990,extended,16800002
 
-[Cheats/1P Press SELECT+Triangle to clear stage ] 
+//Cheats/1P Press SELECT+Triangle to clear stage
 patch=1,EE,D036D7D8,extended,00001001 
 patch=1,EE,00535F18,extended,00000004
 
-[Cheats/Awakening time permanence While awakening Press L3 button permanence cancellation] 
+//Cheats/Awakening time permanence While awakening Press L3 button permanence cancellation
 patch=1,EE,20191FE0,extended,1000002D
 patch=1,EE,D036D69C,extended,0000FFFD
 patch=1,EE,20191FE0,extended,A4C00000
 
-[Cheats/Curtain building, 99 of all the strengthening items] 
+//Cheats/Curtain building, 99 of all the strengthening items
 patch=1,EE,204DB8D0,extended,63636363
 patch=1,EE,104DB8D4,extended,00006363
 
-[Cheats/Outside transmission mode All the item procurement Before the sortieing it goes to the item equipment picture.] 
+//Cheats/Outside transmission mode All the item procurement Before the sortieing it goes to the item equipment picture.
 patch=1,EE,201AD458,extended,0C06B4E8
 patch=1,EE,201AD45C,extended,34050014
 
-[Cheats/Shura mode Max Money] 
+//Cheats/Shura mode Max Money
 patch=1,EE,202EAA1C,extended,00000000
 
-[Cheats/Shura mode Max Iron] 
+//Cheats/Shura mode Max Iron
 patch=1,EE,202EAA4C,extended,00000000
 
-[Cheats/Shura mode when iron varies Clear the first stage to get Mission 999] 
+//Cheats/Shura mode when iron varies Clear the first stage to get Mission 999
 patch=1,EE,202EB320,extended,00000000
 
-[Cheats/Unlock Musou & Free Mode] 
+//Cheats/Unlock Musou & Free Mode
 patch=1,EE,2035D380,extended,00000001
 
-[Cheats/Unlock All Sound test & Movies] 
+//Cheats/Unlock All Sound test & Movies
 patch=1,EE,204DB890,extended,FFFFFFFF
 patch=1,EE,204DB894,extended,FFFFFFFF
 patch=1,EE,204DB898,extended,FFFFFFFF

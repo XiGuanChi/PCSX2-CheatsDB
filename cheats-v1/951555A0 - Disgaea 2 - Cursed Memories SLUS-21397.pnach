@@ -1,48 +1,48 @@
-[Cheats/Infinite Funds] 
+//Cheats/Infinite Funds
 patch=1,EE,20333330,extended,05F5E0FF
 
-[Cheats/Character 1 Infinite HP 999.999] 
+//Cheats/Character 1 Infinite HP 999.999
 patch=1,EE,20334444,extended,0000270F
 patch=1,EE,2033444C,extended,0000270F
 
-[Cheats/Character 1 Infinite SP 999.999] 
+//Cheats/Character 1 Infinite SP 999.999
 patch=1,EE,20334448,extended,0000270F
 patch=1,EE,20334450,extended,0000270F
 
-[Cheats/Character 2 Infinite HP: 999.999] 
+//Cheats/Character 2 Infinite HP: 999.999
 patch=1,EE,20334D5C,extended,0000270F
 patch=1,EE,20334D64,extended,0000270F
 
-[Cheats/Character 2 Infinite SP 999.999] 
+//Cheats/Character 2 Infinite SP 999.999
 patch=1,EE,20334D60,extended,0000270F
 patch=1,EE,20334D68,extended,0000270F
 
-[Cheats/Infinite Actions] 
+//Cheats/Infinite Actions
 patch=1,EE,201791D4,extended,A6000366
 patch=1,EE,20179200,extended,A2000377
 patch=1,EE,20179220,extended,2407FFFF
 patch=1,EE,20179228,extended,00004821
 patch=1,EE,20179230,extended,A509052A
 
-[Cheats/Infinite Dispatch] 
+//Cheats/Infinite Dispatch
 patch=1,EE,003A8602,extended,00000064
 
-[Cheats/Bills Always Pass] 
+//Cheats/Bills Always Pass
 patch=1,EE,001D7990,word,00000000
 patch=1,EE,001D7938,word,00000000
 
-[Cheats/Super Abramoff Bills Always Approved] 
+//Cheats/Super Abramoff Bills Always Approved
 patch=1,EE,201D7990,extended,00000000
 patch=1,EE,201D7938,extended,00000000
 
-[Cheats/Max EXP Modifier Level 9,999] 
+//Cheats/Max EXP Modifier Level 9,999
 patch=1,EE,2A7739EA,extended,3402????
 patch=1,EE,201B1548,extended,0002143C
 
-[Cheats/Max Mana After Kill] 
+//Cheats/Max Mana After Kill
 patch=1,EE,101B148A,extended,00000020
 
-[Cheats/Unlock All Normal Classes] 
+//Cheats/Unlock All Normal Classes
 patch=1,EE,200C3000,extended,7FB10020
 patch=1,EE,200C3004,extended,3C10003B
 patch=1,EE,200C3008,extended,8E115790
@@ -71,11 +71,11 @@ patch=1,EE,201C55AC,extended,08030C00
 patch=1,EE,200C3800,extended,00010039
 patch=1,EE,200C3804,extended,08FC018C
 
-[Cheats/Unlock All Areas]  
+//Cheats/Unlock All Areas
 patch=1,EE,40333240,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Debug Menu] 
+//Cheats/Debug Menu
 patch=1,EE,20137410,extended,8C43A1A0
 patch=1,EE,20137414,extended,34630002
 patch=1,EE,20137418,extended,1000000B

@@ -1,10 +1,10 @@
-[Cheats/infinite Items] 
+//Cheats/infinite Items
 patch=1,EE,2030d070,extended,24420000
 
-[Cheats/Infinite God] 
+//Cheats/Infinite God
 patch=1,EE,204969f0,extended,00641823
 
-[Cheats/Disable Game Protection and enable to save with Cheat Codes]  
+//Cheats/Disable Game Protection and enable to save with Cheat Codes
 patch=1,EE,00100A7C,extended,1400fffa
 patch=1,EE,00100BB4,extended,1400fffa
 patch=1,EE,00100C64,extended,1400fffa
@@ -149,7 +149,7 @@ patch=1,EE,01feb3fc,extended,ad4b5ab4
 patch=1,EE,01feb400,extended,08044c5f
 patch=1,EE,01feb404,extended,00000000
 
-[Cheats/Disable all Enemy AI Press Button Start+L2 Enable Enemy AI Press Start+L1]  
+//Cheats/Disable all Enemy AI Press Button Start+L2 Enable Enemy AI Press Start+L1
 patch=1,EE,001120e4,extended,087faf64
 patch=1,EE,001120e8,extended,00000000
 patch=1,EE,01febd90,extended,8c228e70
@@ -198,7 +198,7 @@ patch=1,EE,01febe38,extended,00000000
 patch=1,EE,01febe3c,extended,0804483b
 patch=1,EE,01febe40,extended,00000000
 
-[Cheats/Have all Items x99 when beginning a NEW GAME or picking up an Item anywhere or buying an Item in the Shop]  
+//Cheats/Have all Items x99 when beginning a NEW GAME or picking up an Item anywhere or buying an Item in the Shop
 patch=1,EE,0030D0B8,extended,240F03E7
 patch=1,EE,0030D0BC,extended,0080702D
 patch=1,EE,0030D0C0,extended,240D0063
@@ -207,7 +207,7 @@ patch=1,EE,0030D0C8,extended,25EFFFFF
 patch=1,EE,0030D0CC,extended,15E0FFFD
 patch=1,EE,0030D0D0,extended,25CE0004
 
-[Cheats/Gain 99999999 OTH Per Battle]  
+//Cheats/Gain 99999999 OTH Per Battle
 patch=1,EE,001231b0,extended,087fad14
 patch=1,EE,001231b4,extended,00000000
 patch=1,EE,01feb450,extended,24030007
@@ -235,7 +235,7 @@ patch=1,EE,01feb4a4,extended,ad09105c
 patch=1,EE,01feb4a8,extended,08048c6e
 patch=1,EE,01feb4ac,extended,00000000
 
-[Cheats/No Game Over when Countdown-Timer reaches 0:00 in the Ravine Caverns]  
+//Cheats/No Game Over when Countdown-Timer reaches 0:00 in the Ravine Caverns
 patch=1,EE,0011f4d8,extended,087fad34
 patch=1,EE,0011f4dc,extended,00000000
 patch=1,EE,01feb4d0,extended,24020001
@@ -254,7 +254,7 @@ patch=1,EE,01feb500,extended,ad6cf540
 patch=1,EE,01feb504,extended,08047d38
 patch=1,EE,01feb508,extended,00000000
 
-[Cheats/Enable Alicia to fire Photons in Divinity Void Areas]  
+//Cheats/Enable Alicia to fire Photons in Divinity Void Areas
 patch=1,EE,00107ec0,extended,087fada8
 patch=1,EE,00107ec4,extended,00000000
 patch=1,EE,01feb6a0,extended,3c080044
@@ -271,7 +271,7 @@ patch=1,EE,01feb6c8,extended,0080882d
 patch=1,EE,01feb6cc,extended,08041fb2
 patch=1,EE,01feb6d0,extended,00000000
 
-[Cheats/In Photon Crystals trapped Enemies can never free themselvesonly Alicia with her Sextended can release them]  
+//Cheats/In Photon Crystals trapped Enemies can never free themselvesonly Alicia with her Sextended can release them
 patch=1,EE,00103560,extended,087fadb8
 patch=1,EE,00103564,extended,00000000
 patch=1,EE,01feb6e0,extended,3c080043
@@ -288,7 +288,7 @@ patch=1,EE,01feb708,extended,0000302d
 patch=1,EE,01feb70c,extended,08040d5a
 patch=1,EE,01feb710,extended,00000000
 
-[Cheats/Gain 99999 Crystals Per Battle]  
+//Cheats/Gain 99999 Crystals Per Battle
 patch=1,EE,0011852c,extended,087fadc8
 patch=1,EE,00118530,extended,00000000
 patch=1,EE,01feb720,extended,00a0882d

@@ -1,12 +1,12 @@
-[Cheats/Max Points 9999] 
+//Cheats/Max Points 9999
 patch=1,EE,20442DA8,extended,0000270FF
 
-[Cheats/Unlock All CG After saving AND DISCONNECT THE CHEAT] 
+//Cheats/Unlock All CG After saving AND DISCONNECT THE CHEAT
 patch=1,EE,2062A0D9,extended,FFFFFFFF
 patch=1,EE,2062A0DD,extended,FFFFFFFF
 patch=1,EE,1062A0E1,extended,0000FFFF
 
-[Cheats/All Scene Recollection Enter menu once to be save] 
+//Cheats/All Scene Recollection Enter menu once to be save
 patch=1,EE,20142B8C,extended,0C05FCBE
 patch=1,EE,20142B90,extended,00691821
 patch=1,EE,2017F2F8,extended,2402FFFF
@@ -14,15 +14,15 @@ patch=1,EE,2017F2FC,extended,A0620820
 patch=1,EE,2017F300,extended,03E00008
 patch=1,EE,2017F304,extended,94620820
 
-[Cheats/Scenario Complete]  
+//Cheats/Scenario Complete
 patch=1,EE,4019CEA4,extended,01930001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Free Talk] 
+//Cheats/Unlock All Free Talk
 patch=1,EE,4019DEE8,extended,00380001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Gallery] 
+//Cheats/Unlock All Gallery
 patch=1,EE,1019D578,extended,0000FFFF
 patch=1,EE,2019D57C,extended,FFFFFFFF
 patch=1,EE,2019D580,extended,FFFFFFFF
@@ -30,7 +30,7 @@ patch=1,EE,2019D584,extended,FFFFFFFF
 patch=1,EE,2019D588,extended,FFFFFFFF
 patch=1,EE,1019D58C,extended,0000FFFF
 
-[Cheats/Unlock All Bonus Excluding Gallery and Scenario Achievement Level]
+//Cheats/Unlock All Bonus Excluding Gallery and Scenario Achievement Level
 patch=1,EE,20146DFC,extended,2461D590
 patch=1,EE,20146E00,extended,0803E000
 patch=1,EE,20146E04,extended,2463DF5E
@@ -40,11 +40,11 @@ patch=1,EE,200F8008,extended,1423FFFE
 patch=1,EE,200F800C,extended,24210002
 patch=1,EE,200F8010,extended,03E00008
 
-[Cheats/Looking at the scenario achievement level, the achievement level is 100] 
+//Cheats/Looking at the scenario achievement level, the achievement level is 100
 patch=1,EE,20146628,extended,240200FF
 patch=1,EE,2014662C,extended,A0620120
 
-[Cheats/L3 For Texture View, R3 To Disable] 
+//Cheats/L3 For Texture View, R3 To Disable
 patch=1,EE,2014EF04,extended,0C0520CA
 patch=1,EE,20148364,extended,3C02005A
 patch=1,EE,20148368,extended,8C4494C4

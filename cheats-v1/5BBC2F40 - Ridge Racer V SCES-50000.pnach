@@ -1,25 +1,25 @@
-[Cheats/Infinite Continues] 
+//Cheats/Infinite Continues
 patch=1,EE,21E35940,extended,00000003
 
-[Cheats/Opponents don't move] 
+//Cheats/Opponents don't move
 patch=1,EE,20204688,extended,1000000E
 
-[Cheats/Unlock All Cars & Engines] 
+//Cheats/Unlock All Cars & Engines
 patch=1,EE,41E359C8,extended,000E0000
 patch=1,EE,02020202,extended,00000000
 
-[Cheats/Unlock All Race Modes] 
+//Cheats/Unlock All Race Modes
 patch=1,EE,11E359A0,extended,00000101
 patch=1,EE,11E359A4,extended,00000101
 patch=1,EE,11E359A6,extended,00000701
 
-[Cheats/Unlock All Medals] 
+//Cheats/Unlock All Medals
 patch=1,EE,41E37B30,extended,00040000
 patch=1,EE,00000101,extended,00000000
 
-[Cheats/Unlock All Trophies] 
+//Cheats/Unlock All Trophies
 patch=1,EE,41E37B28,extended,00040000
 patch=1,EE,00000101,extended,00000000
 
-[Cheats/Unlock Extra GPs] 
+//Cheats/Unlock Extra GPs
 patch=1,EE,11E3597E,extended,00000204

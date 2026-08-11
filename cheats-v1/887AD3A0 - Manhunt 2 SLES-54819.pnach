@@ -1,17 +1,17 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,202E7010,extended,3C0142FA
 patch=1,EE,202E7014,extended,AE2100D0
 
-[Cheats/Never Reload] 
+//Cheats/Never Reload
 patch=1,EE,203647F4,extended,00000000
 
-[Cheats/God Mode] 
+//Cheats/God Mode
 patch=0,EE,204BF1A4,extended,00000001
 
-[Cheats/Save Anywhere] 
+//Cheats/Save Anywhere
 patch=1,EE,00482C0C,extended,00000001
 
-[Cheats/Skip Level R1+R2+L1+L2] 
+//Cheats/Skip Level R1+R2+L1+L2
 patch=1,EE,D0574D62,extended,0000F0FF
 patch=1,EE,003FBD98,extended,00000001
 patch=1,EE,D0574D62,extended,0000BFFF

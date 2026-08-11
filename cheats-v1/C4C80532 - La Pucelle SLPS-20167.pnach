@@ -1,19 +1,19 @@
-[Cheats/Max Money]  
+//Cheats/Max Money
 patch=1,EE,1029EEA8,extended,00000001
 
-[Cheats/Skill Points Are Recovered Based On The Amount Of Skill Consumption]
+//Cheats/Skill Points Are Recovered Based On The Amount Of Skill Consumption
 patch=1,EE,2023D934,extended,00731821
 
-[Cheats/Max All Skill Levels]  
+//Cheats/Max All Skill Levels
 patch=1,EE,20235C98,extended,14000053
 
-[Cheats/Item Level 99]  
+//Cheats/Item Level 99
 patch=1,EE,202A773C,extended,1400000B
 
-[Cheats/Max Status Level]  
+//Cheats/Max Status Level
 patch=1,EE,202A4724,extended,14000010
 
-[Cheats/Enable Developer Mode This mode will activate hidden menus normally not accessible, enable debug displays, and allow you to open a debug menu at anytime with a second controller, and many more. Apply the following code for your version of the game to enable this mode.With a second controller plugged in, to bring up the debug menu anytime, press Select on controller 2. The known controller 2 inputs are below:Select will open / close the debug menu.D-Pad / Left Stick moves through the menu.Right / Left will toggle the option on or off you have highlighted.Circle to enter an option.R3 brings up a list. It is unclear what this does]  
+//Cheats/Enable Developer Mode This mode will activate hidden menus normally not accessible, enable debug displays, and allow you to open a debug menu at anytime with a second controller, and many more. Apply the following code for your version of the game to enable this mode.With a second controller plugged in, to bring up the debug menu anytime, press Select on controller 2. The known controller 2 inputs are below:Select will open / close the debug menu.D-Pad / Left Stick moves through the menu.Right / Left will toggle the option on or off you have highlighted.Circle to enter an option.R3 brings up a list. It is unclear what this does
 patch=1,EE,202C3190,extended,0C08445C
 patch=1,EE,20211170,extended,34420002
 patch=1,EE,20211174,extended,AF828474

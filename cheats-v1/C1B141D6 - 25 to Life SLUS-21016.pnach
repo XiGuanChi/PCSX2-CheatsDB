@@ -1,43 +1,43 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2010245C,extended,E4430000
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,201A421C,extended,00000000
 
-[Cheats/Max Infinite Ammo] 
+//Cheats/Max Infinite Ammo
 patch=1,EE,201A41F8,extended,240203E7
 
-[Cheats/Extra Ammo] 
+//Cheats/Extra Ammo
 patch=1,EE,201A41F8,extended,00451023
 
-[Cheats/Never Reload] 
+//Cheats/Never Reload
 patch=1,EE,201A462C,extended,00000000
 
-[Cheats/Infinite Grenades] 
+//Cheats/Infinite Grenades
 patch=1,EE,201A7844,extended,00000000
 
-[Cheats/Always Low Game Time] 
+//Cheats/Always Low Game Time
 patch=1,EE,2010651C,extended,AC800038
 
-[Cheats/P1 Rapid Fire All Weapons] 
+//Cheats/P1 Rapid Fire All Weapons
 patch=1,EE,D070DBC2,extended,0000F7FF
 patch=1,EE,201A45DC,extended,00000000
 patch=1,EE,D070DBC2,extended,0000FFFF
 patch=1,EE,201A45DC,extended,AE22042C
 
-[Cheats/P1 Press R3+Up To Enable Buster Mode] 
+//Cheats/P1 Press R3+Up To Enable Buster Mode
 patch=1,EE,D070DBC2,extended,0000FFEB
 patch=1,EE,2057C08C,extended,00000001
 
-[Cheats/P1 Press R3+Down To Disable Buster Mode] 
+//Cheats/P1 Press R3+Down To Disable Buster Mode
 patch=1,EE,D070DBC2,extended,0000FFBB
 patch=1,EE,2057C08C,extended,00000000
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,406CEFF4,extended,000C0001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock Enable All Levels] 
+//Cheats/Unlock Enable All Levels
 patch=1,EE,406CEFF4,extended,000C0001
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,206CEFEC,extended,0000000C

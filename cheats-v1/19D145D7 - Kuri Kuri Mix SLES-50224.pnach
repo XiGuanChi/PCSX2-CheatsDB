@@ -1,98 +1,98 @@
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,1023718C,extended,00005000
 
-[Cheats/Super Jump Hold Left Dpad] 
+//Cheats/Super Jump Hold Left Dpad
 patch=1,EE,D1ABE3C2,extended,0000FF7F
 patch=1,EE,11D492F0,extended,00000000
 
-[Cheats/Super Jump Hold Right Dpad] 
+//Cheats/Super Jump Hold Right Dpad
 patch=1,EE,D1ABE3C2,extended,0000FFDF
 patch=1,EE,11D494F0,extended,00000000
 
-[Cheats/Unlock Jammin] 
+//Cheats/Unlock Jammin
 patch=1,EE,11DDC2B8,extended,00000101
 patch=1,EE,11DDC2C8,extended,00000101
 patch=1,EE,11DDC2D8,extended,00000101
 patch=1,EE,11DDC2E8,extended,00000101
 
-[Cheats/Unlock Hippy] 
+//Cheats/Unlock Hippy
 patch=1,EE,11DDC308,extended,00000101
 patch=1,EE,11DDC318,extended,00000101
 patch=1,EE,11DDC328,extended,00000101
 patch=1,EE,11DDC338,extended,00000101
 
-[Cheats/Unlock Pengy] 
+//Cheats/Unlock Pengy
 patch=1,EE,11DDC358,extended,00000101
 patch=1,EE,11DDC368,extended,00000101
 patch=1,EE,11DDC378,extended,00000101
 patch=1,EE,11DDC388,extended,00000101
 
-[Cheats/Unlock Pointe] 
+//Cheats/Unlock Pointe
 patch=1,EE,11DDC3A8,extended,00000101
 patch=1,EE,11DDC3B8,extended,00000101
 patch=1,EE,11DDC3C8,extended,00000101
 patch=1,EE,11DDC3D8,extended,00000101
 
-[Cheats/Unlock Ziggy] 
+//Cheats/Unlock Ziggy
 patch=1,EE,11DDC3F8,extended,00000101
 patch=1,EE,11DDC408,extended,00000101
 patch=1,EE,11DDC418,extended,00000101
 patch=1,EE,11DDC428,extended,00000101
 
-[Cheats/Unlock Robo] 
+//Cheats/Unlock Robo
 patch=1,EE,11DDC448,extended,00000101
 patch=1,EE,11DDC458,extended,00000101
 patch=1,EE,11DDC468,extended,00000101
 patch=1,EE,11DDC478,extended,00000101
 
-[Cheats/Unlock Sneaky] 
+//Cheats/Unlock Sneaky
 patch=1,EE,11DDC498,extended,00000101
 patch=1,EE,11DDC4A8,extended,00000101
 patch=1,EE,11DDC4B8,extended,00000101
 patch=1,EE,11DDC4C8,extended,00000101
 
-[Cheats/Unlock Lance] 
+//Cheats/Unlock Lance
 patch=1,EE,11DDC4E8,extended,00000101
 patch=1,EE,11DDC4F8,extended,00000101
 patch=1,EE,11DDC508,extended,00000101
 patch=1,EE,11DDC518,extended,00000101
 
-[Cheats/Open Desert World] 
+//Cheats/Open Desert World
 patch=1,EE,11DDC3AA,extended,00000100
 patch=1,EE,11DDC3A8,extended,00000101
 patch=1,EE,11DDC3B8,extended,00000101
 patch=1,EE,11DDC3C8,extended,00000101
 patch=1,EE,11DDC3D8,extended,00000101
 
-[Cheats/Open Music World] 
+//Cheats/Open Music World
 patch=1,EE,11DDC3FA,extended,00000100
 patch=1,EE,11DDC3F8,extended,00000101
 patch=1,EE,11DDC408,extended,00000101
 patch=1,EE,11DDC418,extended,00000101
 patch=1,EE,11DDC428,extended,00000101
 
-[Cheats/Open Trick World] 
+//Cheats/Open Trick World
 patch=1,EE,11DDC44A,extended,00000100
 patch=1,EE,11DDC448,extended,00000101
 patch=1,EE,11DDC458,extended,00000101
 patch=1,EE,11DDC468,extended,00000101
 patch=1,EE,11DDC478,extended,00000101
 
-[Cheats/Open Magical World] 
+//Cheats/Open Magical World
 patch=1,EE,11DDC49A,extended,00000100
 patch=1,EE,11DDC498,extended,00000101
 patch=1,EE,11DDC4A8,extended,00000101
 patch=1,EE,11DDC4B8,extended,00000101
 patch=1,EE,11DDC4C8,extended,00000101
 
-[Cheats/Open Tumble World] 
+//Cheats/Open Tumble World
 patch=1,EE,11DDC4EA,extended,00000100
 patch=1,EE,11DDC4E8,extended,00000101
 patch=1,EE,11DDC4F8,extended,00000101
 patch=1,EE,11DDC508,extended,00000101
 patch=1,EE,11DDC518,extended,00000101
 
-[Cheats/Open Bonus World] 
+//Cheats/Open Bonus World
 patch=1,EE,11DDC53A,extended,00000100
 patch=1,EE,11DDC538,extended,00000101
 patch=1,EE,11DDC548,extended,00000101

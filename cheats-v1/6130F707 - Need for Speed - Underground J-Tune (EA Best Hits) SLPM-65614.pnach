@@ -1,10 +1,10 @@
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,204B9D3C,extended,3B9AC9FF
 
-[Cheats/Max Money In Possession] 
+//Cheats/Max Money In Possession
 patch=1,EE,204AEA0C,extended,3B9AC9FF
 
-[Cheats/All Ownership of Performance Parts] 
+//Cheats/All Ownership of Performance Parts
 patch=1,EE,404AE3E4,extended,00090024
 patch=1,EE,00000001,extended,00000000
 patch=1,EE,404AE3E8,extended,00090024
@@ -14,7 +14,7 @@ patch=1,EE,00000003,extended,00000000
 patch=1,EE,404AE3F0,extended,00090024
 patch=1,EE,00000004,extended,00000000
 
-[Cheats/UNDERGROUND Mode Other Than Last Event Cleared] 
+//Cheats/UNDERGROUND Mode Other Than Last Event Cleared
 patch=1,EE,404AD9E0,extended,001D0001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,004ADA54,extended,00000002

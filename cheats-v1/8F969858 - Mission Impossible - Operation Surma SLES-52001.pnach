@@ -1,15 +1,15 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20120BAC,extended,8E210048
 patch=1,EE,20120BB4,extended,AE210040
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,201E3404,extended,24C20000
 
-[Cheats/Bypass Death Check] 
+//Cheats/Bypass Death Check
 patch=1,EE,201156E0,extended,00000000
 
-[Cheats/Mission Never Fail] 
+//Cheats/Mission Never Fail
 patch=1,EE,2059400C,extended,00000001
 
-[Cheats/Unlock Open Levels Menu] 
+//Cheats/Unlock Open Levels Menu
 patch=1,EE,205972E4,extended,00000001

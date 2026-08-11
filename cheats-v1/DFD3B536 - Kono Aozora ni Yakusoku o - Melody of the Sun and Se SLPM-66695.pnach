@@ -1,10 +1,10 @@
-[Cheats/Unlock All CG] 
+//Cheats/Unlock All CG
 patch=1,EE,40266D6C,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10266D80,extended,0000FFFF
 patch=1,EE,00266D82,extended,000000FF
 
-[Cheats/Unlock All Events] 
+//Cheats/Unlock All Events
 patch=1,EE,40265CE8,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,10265CFC,extended,0000FFFF
@@ -16,16 +16,16 @@ patch=1,EE,20265CD8,extended,FFFFFFFF
 patch=1,EE,10265CD6,extended,0000FFFF
 patch=1,EE,00265CD5,extended,000000FF
 
-[Cheats/Unlock All Main Menu Items] 
+//Cheats/Unlock All Main Menu Items
 patch=1,EE,20265CE8,extended,FFFFFFFF
 
-[Cheats/Unlock All Music] 
+//Cheats/Unlock All Music
 patch=1,EE,20266D84,extended,FFFFFFFF
 patch=1,EE,10266D88,extended,0000FFFF
 
-[Cheats/New game, Save to Slot 1, Load = Debug Menu Deactivate the code before saving again, otherwise you will save to the debug screen each time.] 
+//Cheats/New game, Save to Slot 1, Load = Debug Menu Deactivate the code before saving again, otherwise you will save to the debug screen each time.
 patch=1,EE,10266DE4,extended,0000FFFF
 patch=1,EE,20266DE8,extended,00000000
 
-[Cheats/New Game = Debug Menu] 
+//Cheats/New Game = Debug Menu
 patch=1,EE,201076CC,extended,2405FFFF

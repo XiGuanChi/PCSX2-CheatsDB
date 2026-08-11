@@ -1,20 +1,20 @@
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,10732310,extended,000000C9
 
-[Cheats/1 Hit Kill P2] 
+//Cheats/1 Hit Kill P2
 patch=1,EE,10732B40,extended,00000000
 
-[Cheats/Unlock All Quests and Items] 
+//Cheats/Unlock All Quests and Items
 patch=1,EE,203347FC,extended,24020001
 
-[Cheats/Max Money Both Players] 
+//Cheats/Max Money Both Players
 patch=1,EE,2032E4BC,extended,3406FFFF
 patch=1,EE,2032E4D8,extended,AE260054
 
-[Cheats/Unlock Dural]  
+//Cheats/Unlock Dural
 patch=1,EE,201A4ED0,extended,24020001
 
-[Cheats/Unlock All Special Items You must go in to quest to save VF1 Characters]
+//Cheats/Unlock All Special Items You must go in to quest to save VF1 Characters
 patch=1,EE,20619240,extended,FFFFFFFF
 patch=1,EE,20753ED0,extended,FFFFFFFF
 patch=1,EE,20753F94,extended,FFFFFFFF

@@ -1,7 +1,7 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,20409B40,extended,05F5E0FF
 
-[Cheats/Infinite Health And MP In Battle] 
+//Cheats/Infinite Health And MP In Battle
 patch=1,EE,202A1F3C,extended,0C03FFC0
 patch=1,EE,200FFF00,extended,240503E8
 patch=1,EE,200FFF04,extended,AE050004
@@ -9,64 +9,64 @@ patch=1,EE,200FFF08,extended,AE050008
 patch=1,EE,200FFF0C,extended,03E00008
 patch=1,EE,200FFF10,extended,A605000E
 
-[Cheats/No Random Battles Press R2+UP Random Encounters Press R2+DOWN ] 
+//Cheats/No Random Battles Press R2+UP Random Encounters Press R2+DOWN
 patch=1,EE,D04030c2,extended,0000FDEF
 patch=1,EE,203024ec,extended,00000000
 patch=1,EE,D04030c2,extended,0000FDBF
 patch=1,EE,203024ec,extended,E6410024
 
-[Cheats/Max Weapon Stats] 
+//Cheats/Max Weapon Stats
 patch=1,EE,2020766C,extended,08081DB1
 patch=1,EE,20207670,extended,240303E7
 
-[Cheats/Max Stats All Attributes] 
+//Cheats/Max Stats All Attributes
 patch=1,EE,20207B14,extended,24020001
 patch=1,EE,20207B34,extended,24020001
 
-[Cheats/Experience After Battle 9999 X] 
+//Cheats/Experience After Battle 9999 X
 patch=1,EE,20369170,extended,2401270F
 patch=1,EE,20369174,extended,AC410000
 patch=1,EE,20369178,extended,AFA100D0
 
-[Cheats/All Items x999] 
+//Cheats/All Items x999
 patch=1,EE,40409DD2,extended,018C0001
 patch=1,EE,000003E7,extended,00000000
 
-[Cheats/Max and Infinite Casino Money] 
+//Cheats/Max and Infinite Casino Money
 patch=1,EE,2040ED50,extended,05F5E0FF
 
-[Cheats/Max and Infinite Bank Money] 
+//Cheats/Max and Infinite Bank Money
 patch=1,EE,2040A594,extended,05F5DD18
 
-[Cheats/Unlock Full Teleport List] 
+//Cheats/Unlock Full Teleport List
 patch=1,EE,20409390,extended,FFFFFFFF
 patch=1,EE,00409394,extended,000000FF
 
-[Cheats/Max and Have all 3384 items includes Key]  
+//Cheats/Max and Have all 3384 items includes Key
 patch=1,EE,40409DD0,extended,01800001
 patch=1,EE,03E00001,extended,00000001
 
-[Cheats/Max and Have all 337 Main Items] 
+//Cheats/Max and Have all 337 Main Items
 patch=1,EE,40409DD0,extended,01510001
 patch=1,EE,03E00001,extended,00000001
 
-[Cheats/4 Characters Quest mode] 
+//Cheats/4 Characters Quest mode
 patch=1,EE,00409B44,extended,0000000F
 
-[Cheats/Have All Collected Items List] 
+//Cheats/Have All Collected Items List
 patch=1,EE,4040A5A8,extended,00120001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Monster Book] 
+//Cheats/Unlock All Monster Book
 patch=1,EE,4040A8A0,extended,01270008
 patch=1,EE,0000270F,extended,00000000
 patch=1,EE,4040A8A8,extended,01270008
 patch=1,EE,00630063,extended,00000000
 
-[Cheats/Alchemy Pot Upgrade Ultimate 3 Slots, Instantaneous] 
+//Cheats/Alchemy Pot Upgrade Ultimate 3 Slots, Instantaneous
 patch=1,EE,0040929E,extended,00000003
 
-[Cheats/Unlock All Alchemy Recipes Works From beginning] 
+//Cheats/Unlock All Alchemy Recipes Works From beginning
 patch=1,EE,4040EB80,extended,00320001
 patch=1,EE,FFFFFFFF,extended,00000000
 

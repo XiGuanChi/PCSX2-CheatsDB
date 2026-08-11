@@ -1,8 +1,8 @@
-[Cheats/SLPM-62521 P1 Score Press SELECT 999900] 
+//Cheats/SLPM-62521 P1 Score Press SELECT 999900
 patch=1,EE,D0278628,extended,00000100
 patch=1,EE,202E4588,extended,000F41DC
 
-[Cheats/SLPM-62521 Magazine Profile Interview & Sparrow Name Changeable] 
+//Cheats/SLPM-62521 Magazine Profile Interview & Sparrow Name Changeable
 patch=1,EE,40304D84,extended,00080001
 patch=1,EE,01010101,extended,00000000
 

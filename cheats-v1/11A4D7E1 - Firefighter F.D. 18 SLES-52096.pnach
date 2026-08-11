@@ -1,52 +1,52 @@
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,200C2004,extended,ACA30028
 
-[Cheats/Infinite Stamina]  
+//Cheats/Infinite Stamina
 patch=1,EE,200C2000,extended,ACA30024
 
-[Cheats/Infinite Survivor HP] 
+//Cheats/Infinite Survivor HP
 patch=1,EE,201B6D14,extended,00000000
 
-[Cheats/Infinite Firefighting Support]  
+//Cheats/Infinite Firefighting Support
 patch=1,EE,2012FE24,extended,24020003
 patch=1,EE,2012FE28,extended,AC620054
 
-[Cheats/Infinite First Aid Kits SP]  
+//Cheats/Infinite First Aid Kits SP
 patch=1,EE,005A52F9,extended,00000063
 
-[Cheats/Infinite First Aid Kits] 
+//Cheats/Infinite First Aid Kits
 patch=1,EE,005A52FA,extended,00000063
 
-[Cheats/Infinite Impulse Tanks] 
+//Cheats/Infinite Impulse Tanks
 patch=1,EE,005A52FC,extended,00000063
 
-[Cheats/Infinite Bombs]  
+//Cheats/Infinite Bombs
 patch=1,EE,005A52FD,extended,00000063
 
-[Cheats/Infinite Fire Extinguishers] 
+//Cheats/Infinite Fire Extinguishers
 patch=1,EE,005A52FE,extended,00000063
 
-[Cheats/Infinite Keys] 
+//Cheats/Infinite Keys
 patch=1,EE,005A52FF,extended,00000063
 
-[Cheats/Infinite Keycards] 
+//Cheats/Infinite Keycards
 patch=1,EE,005A5300,extended,00000063
 
-[Cheats/Infinite Drinks]  
+//Cheats/Infinite Drinks
 patch=1,EE,005A5301,extended,00000063
 
-[Cheats/Have Hose]  
+//Cheats/Have Hose
 patch=1,EE,005A5302,extended,00000001
 
-[Cheats/Have Impulse Gun] 
+//Cheats/Have Impulse Gun
 patch=1,EE,005A5303,extended,00000001
 
-[Cheats/Have Axe] 
+//Cheats/Have Axe
 patch=1,EE,005A5304,extended,00000001
 
-[Cheats/Have Easy Giant Fires] 
+//Cheats/Have Easy Giant Fires
 patch=1,EE,2017E7A8,extended,00421023
 
-[Cheats/Stopped Timer] 
+//Cheats/Stopped Timer
 patch=1,EE,2011E008,extended,24003634
 

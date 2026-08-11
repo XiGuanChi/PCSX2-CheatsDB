@@ -1,22 +1,22 @@
-[Cheats/Infinite HP Press Select+R3 to Die] 
+//Cheats/Infinite HP Press Select+R3 to Die
 patch=1,EE,D04e6342,extended,0010FFFA
 patch=1,EE,20bd8f84,extended,000003e7
 patch=1,EE,D04e6342,extended,0000FFFA
 patch=1,EE,20bd8f84,extended,00000000
 
-[Cheats/Infinite Current VT]
+//Cheats/Infinite Current VT
 patch=1,EE,20134B74,extended,8CC30008
 
-[Cheats/Infinite Vt] 
+//Cheats/Infinite Vt
 patch=1,EE,20bd8f8c,extended,000003e7
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,101c4124,extended,00000000
 
-[Cheats/Gain Ammo] 
+//Cheats/Gain Ammo
 patch=1,EE,101c4124,extended,00000001
 
-[Cheats/1 Hit Kills Enemy] 
+//Cheats/1 Hit Kills Enemy
 patch=1,EE,200a0000,extended,24081002
 patch=1,EE,200a0004,extended,15070004
 patch=1,EE,200a000c,extended,ac600004
@@ -27,27 +27,27 @@ patch=1,EE,200a0020,extended,0804d280
 patch=1,EE,201349fc,extended,08028000
 patch=1,EE,20134a00,extended,00000000
 
-[Cheats/Unlock All Items List Database] 
+//Cheats/Unlock All Items List Database
 patch=1,EE,0053c3d5,extended,000000F0
 patch=1,EE,1053c3d6,extended,0000FFFF
 patch=1,EE,4053C3D8,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,1053c400,extended,0000FFFF
 
-[Cheats/Unlock All Event List] 
+//Cheats/Unlock All Event List
 patch=1,EE,1053c402,extended,0000FFFF
 patch=1,EE,0053c404,extended,0000007F
 
-[Cheats/Unlock All Character List and Voice List] 
+//Cheats/Unlock All Character List and Voice List
 patch=1,EE,4053C4FC,extended,001A0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,1053C564,extended,0000FFFF
 
-[Cheats/Unlock All Sound Test] 
+//Cheats/Unlock All Sound Test
 patch=1,EE,0053c423,extended,000000F0
 patch=1,EE,1053c424,extended,01FFFFFF
 
-[Cheats/Unlock All Baroque List] 
+//Cheats/Unlock All Baroque List
 patch=1,EE,2053C440,extended,FFFFFFF8
 patch=1,EE,2053C444,extended,FFFFFFFF
 patch=1,EE,0053C448,extended,00000007

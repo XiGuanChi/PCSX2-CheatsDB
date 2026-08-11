@@ -1,4 +1,4 @@
-[Cheats/Required code] 
+//Cheats/Required code
 patch=1,EE,200F7000,extended,38C61234
 patch=1,EE,200F7004,extended,14C00002
 patch=1,EE,200F7008,extended,34060001
@@ -7,64 +7,64 @@ patch=1,EE,200F7010,extended,08063679
 patch=1,EE,200F7014,extended,84420002
 patch=1,EE,2018D9DC,extended,0803DC00
 
-[Cheats/Winning score of 99 fortune] 
+//Cheats/Winning score of 99 fortune
 patch=1,EE,201E12EC,extended,24020063
 
-[Cheats/99 points earned for Omikuji] 
+//Cheats/99 points earned for Omikuji
 patch=1,EE,201E12EC,extended,24020063
 
-[Cheats/The number of points earned for Omikuji does not decrease] 
+//Cheats/The number of points earned for Omikuji does not decrease
 patch=1,EE,201DF03C,extended,00000000
 
-[Cheats/Favorability Max not reflected in save Takuma Onizaki] 
+//Cheats/Favorability Max not reflected in save Takuma Onizaki
 patch=1,EE,010933AE,extended,0000000A
 
-[Cheats/Favorability Max not reflected in save Masahiro Kotori] 
+//Cheats/Favorability Max not reflected in save Masahiro Kotori
 patch=1,EE,010933C4,extended,0000000A
 
-[Cheats/Favorability Max not reflected in save Yuichi Fox]  
+//Cheats/Favorability Max not reflected in save Yuichi Fox
 patch=1,EE,010933DA,extended,0000000A
 
-[Cheats/Favorability Max not reflected in save Shinji Inukai] 
+//Cheats/Favorability Max not reflected in save Shinji Inukai
 patch=1,EE,010933F0,extended,0000000A
 
-[Cheats/Favorability Max not reflected in save Large snake] 
+//Cheats/Favorability Max not reflected in save Large snake
 patch=1,EE,01093406,extended,0000000A
 
-[Cheats/Favorability Max not reflected in save Ryo Tani] 
+//Cheats/Favorability Max not reflected in save Ryo Tani
 patch=1,EE,0109341C,extended,0000000A
 
-[Cheats/Tamayobiri Shrine added to the title save reflect]
+//Cheats/Tamayobiri Shrine added to the title save reflect
 patch=1,EE,0109482A,extended,00000001
 
-[Cheats/Mirror mirror added to the benefits] 
+//Cheats/Mirror mirror added to the benefits
 patch=1,EE,01094840,extended,00000001
 
-[Cheats/Unlock All Mirror reflects save unreflected] 
+//Cheats/Unlock All Mirror reflects save unreflected
 patch=1,EE,201E2CD0,extended,24020001
 patch=1,EE,201E3934,extended,24020001
 
-[Cheats/Unlock All Items when entering the mirror] 
+//Cheats/Unlock All Items when entering the mirror
 patch=1,EE,2018D9D8,extended,00430821
 patch=1,EE,2018D9DC,extended,84220002
 patch=1,EE,201E21FC,extended,24030001
 patch=1,EE,201E2200,extended,A4230002
 
-[Cheats/Unlock All Tamayobiri Shrine] 
+//Cheats/Unlock All Tamayobiri Shrine
 patch=1,EE,2018D9D8,extended,00430821
 patch=1,EE,2018D9DC,extended,84220002 
 patch=1,EE,201D9E20,extended,24050001
 patch=1,EE,201D9E24,extended,A4250002
 
-[Cheats/Unlock All Image viewing when viewing] 
+//Cheats/Unlock All Image viewing when viewing
 patch=1,EE,201AD074,extended,00430821
 patch=1,EE,201AD078,extended,24020001
 patch=1,EE,201AD07C,extended,A0220000
 
-[Cheats/Unlock All Video viewing when viewing] 
+//Cheats/Unlock All Video viewing when viewing
 patch=1,EE,201BAB0C,extended,00430821
 patch=1,EE,201BAB10,extended,24020001
 patch=1,EE,201BAB18,extended,A0220000
 
-[Cheats/Unlock All Tamayori Hime Apocrypha save reflect] 
+//Cheats/Unlock All Tamayori Hime Apocrypha save reflect
 patch=1,EE,201D9E18,extended,24020001

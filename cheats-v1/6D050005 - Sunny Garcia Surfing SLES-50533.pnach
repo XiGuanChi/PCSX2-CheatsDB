@@ -1,35 +1,35 @@
-[Cheats/Max Score] 
+//Cheats/Max Score
 patch=1,EE,2038A02C,extended,0098967F
 
-[Cheats/Max Championship Score]
+//Cheats/Max Championship Score
 patch=1,EE,2038A010,extended,000347D8
 patch=1,EE,2038A014,extended,000347D8
 patch=1,EE,2038A018,extended,000347D8
 
-[Cheats/Always On First Wave] 
+//Cheats/Always On First Wave
 patch=1,EE,1038A290,extended,00000000
 
-[Cheats/Max Championship Points] 
+//Cheats/Max Championship Points
 patch=1,EE,1038A008,extended,0000869F
 
-[Cheats/Press Select+R1 for more time and Select+R2 for less time] 
+//Cheats/Press Select+R1 for more time and Select+R2 for less time
 patch=1,EE,D0366AC2,extended,0000F7FE
 patch=1,EE,2038A2C4,extended,42D852A4
 patch=1,EE,D0366AC2,extended,0000FDFE
 patch=1,EE,2038A2C4,extended,41790FA3
 
-[Cheats/Unlock All Surfers] 
+//Cheats/Unlock All Surfers
 patch=1,EE,1038A338,extended,00000FFF
 patch=1,EE,1038A344,extended,00000101
 patch=1,EE,1038A346,extended,00000101
 
-[Cheats/Unlock All Beaches] 
+//Cheats/Unlock All Beaches
 patch=1,EE,1038A334,extended,00003FFF
 
-[Cheats/Unlock All Surf Boards] 
+//Cheats/Unlock All Surf Boards
 patch=1,EE,2038A348,extended,FFFFFFFF
 patch=1,EE,2038A34C,extended,FFFFFFFF
 patch=1,EE,2038A350,extended,FFFFFFFF
 
-[Cheats/Unlock Pro] 
+//Cheats/Unlock Pro
 patch=1,EE,1038A356,extended,00000A03

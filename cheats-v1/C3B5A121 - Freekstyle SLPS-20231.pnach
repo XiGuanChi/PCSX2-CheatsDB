@@ -1,13 +1,13 @@
-[Cheats/Max Adrenaline Gauge] 
+//Cheats/Max Adrenaline Gauge
 patch=1,EE,201CED64,extended,3C024000
 patch=1,EE,201EEA80,extended,00000000
 patch=1,EE,201D4F84,extended,00000000
 patch=1,EE,201D4FA8,extended,00000000
 
-[Cheats/Max Freak Gauge]   
+//Cheats/Max Freak Gauge
 patch=1,EE,201F7B80,extended,00000000
 patch=1,EE,201F7B90,extended,00000000
 
-[Cheats/Infinite Rollover] 
+//Cheats/Infinite Rollover
 patch=1,EE,201D4F20,extended,00000000
 patch=1,EE,201D4F3C,extended,00000000

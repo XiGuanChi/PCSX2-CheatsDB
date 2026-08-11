@@ -1,408 +1,408 @@
 gametitle=Metal Slug 4 [SLPS-25376] [1D5AEF04]
 
-[Max EXP]
+//Max EXP
 author=GamingDragon93
 description=Max EXP
 // Max EXP
 patch=1,EE,9010F420,extended,0C04645C
 
-[Infinite Time]
+//Infinite Time
 author=GamingDragon93
 description=Infinite Time
 // Infinite Time
 patch=1,EE,00701191,extended,00000099
 
-[Infinite Lives]
+//Infinite Lives
 author=GamingDragon93
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,20154D00,extended,00000000
 
-[Max Infinite Lives]
+//Max Infinite Lives
 author=GamingDragon93
 description=Max Infinite Lives
 // Max Infinite Lives
 patch=1,EE,10154CF8,extended,24020063
 
-[Extra Lives]
+//Extra Lives
 author=GamingDragon93
 description=Extra Lives
 // Extra Lives
 patch=1,EE,10154CF8,extended,00000001
 
-[Infinite Bombs]
+//Infinite Bombs
 author=GamingDragon93
 description=Infinite Bombs
 // Infinite Bombs
 patch=1,EE,2018E98C,extended,00000000
 
-[Max Infinite Bombs]
+//Max Infinite Bombs
 author=GamingDragon93
 description=Max Infinite Bombs
 // Max Infinite Bombs
 patch=1,EE,2018E988,extended,24020063
 
-[Extra Bombs]
+//Extra Bombs
 author=GamingDragon93
 description=Extra Bombs
 // Extra Bombs
 patch=1,EE,1018E988,extended,00000001
 
-[Infinite Ammo]
+//Infinite Ammo
 author=GamingDragon93
 description=Infinite Ammo
 // Infinite Ammo
 patch=1,EE,20178A80,extended,00000000
 
-[Do Not Lose Upgraded Weapons When Dieing]
+//Do Not Lose Upgraded Weapons When Dieing
 author=GamingDragon93
 description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,200C0220,extended,54600001
 
-[Do Not Lose Upgraded Weapons When Dieing]
+//Do Not Lose Upgraded Weapons When Dieing
 author=GamingDragon93
 description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,200C0224,extended,A0430004
 
-[Do Not Lose Upgraded Weapons When Dieing]
+//Do Not Lose Upgraded Weapons When Dieing
 author=GamingDragon93
 description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,200C0228,extended,03E00008
 
-[Do Not Lose Upgraded Weapons When Dieing]
+//Do Not Lose Upgraded Weapons When Dieing
 author=GamingDragon93
 description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,200C022C,extended,00000000
 
-[Do Not Lose Upgraded Weapons When Dieing]
+//Do Not Lose Upgraded Weapons When Dieing
 author=GamingDragon93
 description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,20176DDC,extended,0C030088
 
-[Do Not Lose Upgraded Weapons When Dieing]
+//Do Not Lose Upgraded Weapons When Dieing
 author=GamingDragon93
 description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,20175184,extended,00000000
 
-[Do Not Lose Upgraded Weapons When Dieing]
+//Do Not Lose Upgraded Weapons When Dieing
 author=GamingDragon93
 description=Do Not Lose Upgraded Weapons When Dieing
 // Do Not Lose Upgraded Weapons When Dieing
 patch=1,EE,20175190,extended,00000000
 
-[Infinite Lives]
+//Infinite Lives
 author=GamingDragon93
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,0070BF89,extended,00000063
 
-[Invincible]
+//Invincible
 author=GamingDragon93
 description=Invincible
 // Invincible
 patch=1,EE,1070BAC0,extended,000000FF
 
-[Quick Score Gain]
+//Quick Score Gain
 author=GamingDragon93
 description=Quick Score Gain
 // Quick Score Gain
 patch=1,EE,1070CC50,extended,00009999
 
-[Max Score]
+//Max Score
 author=GamingDragon93
 description=Max Score
 // Max Score
 patch=1,EE,2070CC50,extended,09999999
 
-[Infinite Bombs]
+//Infinite Bombs
 author=GamingDragon93
 description=Infinite Bombs
 // Infinite Bombs
 patch=1,EE,0106F1A7,extended,00000063
 
-[Infinite Ammo (Infinity Symbol)]
+//Infinite Ammo (Infinity Symbol)
 author=GamingDragon93
 description=Infinite Ammo (Infinity Symbol)
 // Infinite Ammo (Infinity Symbol)
 patch=1,EE,1106F1AC,extended,0000FFFF
 
-[Max Infinite Ammo]
+//Max Infinite Ammo
 author=GamingDragon93
 description=Max Infinite Ammo
 // Max Infinite Ammo
 patch=1,EE,1106F1AC,extended,000003E7
 
-[Press {CROSS} For Moon Jump]
+//Press {CROSS} For Moon Jump
 author=GamingDragon93
 description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
 patch=1,EE,D06CB582,extended,0000BFFF
 
-[Press {CROSS} For Moon Jump]
+//Press {CROSS} For Moon Jump
 author=GamingDragon93
 description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
 patch=1,EE,1070BA6A,extended,00000002
 
-[Normal Gun]
+//Normal Gun
 author=GamingDragon93
 description=Normal Gun
 // Normal Gun
 patch=1,EE,1106F1A4,extended,00000000
 
-[Drop Shot (D)]
+//Drop Shot (D)
 author=GamingDragon93
 description=Drop Shot (D)
 // Drop Shot (D)
 patch=1,EE,1106F1A4,extended,00000101
 
-[Shotgun (S)]
+//Shotgun (S)
 author=GamingDragon93
 description=Shotgun (S)
 // Shotgun (S)
 patch=1,EE,1106F1A4,extended,00000202
 
-[Rocket Launcher (R)]
+//Rocket Launcher (R)
 author=GamingDragon93
 description=Rocket Launcher (R)
 // Rocket Launcher (R)
 patch=1,EE,1106F1A4,extended,00000303
 
-[Flame Chop (F)]
+//Flame Chop (F)
 author=GamingDragon93
 description=Flame Chop (F)
 // Flame Chop (F)
 patch=1,EE,1106F1A4,extended,00000404
 
-[Heavy Machine Gun (H)]
+//Heavy Machine Gun (H)
 author=GamingDragon93
 description=Heavy Machine Gun (H)
 // Heavy Machine Gun (H)
 patch=1,EE,1106F1A4,extended,00000505
 
-[Laser Gun]
+//Laser Gun
 author=GamingDragon93
 description=Laser Gun
 // Laser Gun
 patch=1,EE,1106F1A4,extended,00000606
 
-[Super Shotgun]
+//Super Shotgun
 author=GamingDragon93
 description=Super Shotgun
 // Super Shotgun
 patch=1,EE,1106F1A4,extended,00000707
 
-[Super Rocket Launcher]
+//Super Rocket Launcher
 author=GamingDragon93
 description=Super Rocket Launcher
 // Super Rocket Launcher
 patch=1,EE,1106F1A4,extended,00000808
 
-[Explosive Rounds]
+//Explosive Rounds
 author=GamingDragon93
 description=Explosive Rounds
 // Explosive Rounds
 patch=1,EE,1106F1A4,extended,00000909
 
-[Super Handgun]
+//Super Handgun
 author=GamingDragon93
 description=Super Handgun
 // Super Handgun
 patch=1,EE,1106F1A4,extended,00000A0A
 
-[Super Laser]
+//Super Laser
 author=GamingDragon93
 description=Super Laser
 // Super Laser
 patch=1,EE,1106F1A4,extended,00000B0B
 
-[Enemy Chaser (C)]
+//Enemy Chaser (C)
 author=GamingDragon93
 description=Enemy Chaser (C)
 // Enemy Chaser (C)
 patch=1,EE,1106F1A4,extended,00000C0C
 
-[Iron lizard (I)]
+//Iron lizard (I)
 author=GamingDragon93
 description=Iron lizard (I)
 // Iron lizard (I)
 patch=1,EE,1106F1A4,extended,00000D0D
 
-[Bubble Gun]
+//Bubble Gun
 author=GamingDragon93
 description=Bubble Gun
 // Bubble Gun
 patch=1,EE,1106F1A4,extended,00000E0E
 
-[Super Bullet Gun]
+//Super Bullet Gun
 author=GamingDragon93
 description=Super Bullet Gun
 // Super Bullet Gun
 patch=1,EE,1106F1A4,extended,00000F0F
 
-[Dual Machine Gun (2H)]
+//Dual Machine Gun (2H)
 author=GamingDragon93
 description=Dual Machine Gun (2H)
 // Dual Machine Gun (2H)
 patch=1,EE,1106F1A4,extended,00001212
 
-[Infinite Lives]
+//Infinite Lives
 author=GamingDragon93
 description=Infinite Lives
 // Infinite Lives
 patch=1,EE,0070BE59,extended,00000063
 
-[Invincible]
+//Invincible
 author=GamingDragon93
 description=Invincible
 // Invincible
 patch=1,EE,1070B990,extended,000000FF
 
-[Quick Score Gain]
+//Quick Score Gain
 author=GamingDragon93
 description=Quick Score Gain
 // Quick Score Gain
 patch=1,EE,1070CC48,extended,00009999
 
-[Max Score]
+//Max Score
 author=GamingDragon93
 description=Max Score
 // Max Score
 patch=1,EE,2070CC48,extended,09999999
 
-[Infinite Bombs]
+//Infinite Bombs
 author=GamingDragon93
 description=Infinite Bombs
 // Infinite Bombs
 patch=1,EE,0106F197,extended,00000063
 
-[Infinite Ammo (Infinity Symbol)]
+//Infinite Ammo (Infinity Symbol)
 author=GamingDragon93
 description=Infinite Ammo (Infinity Symbol)
 // Infinite Ammo (Infinity Symbol)
 patch=1,EE,1106F19C,extended,0000FFFF
 
-[Max Infinite Ammo]
+//Max Infinite Ammo
 author=GamingDragon93
 description=Max Infinite Ammo
 // Max Infinite Ammo
 patch=1,EE,1106F19C,extended,000003E7
 
-[Press {CROSS} For Moon Jump]
+//Press {CROSS} For Moon Jump
 author=GamingDragon93
 description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
 patch=1,EE,D06CB682,extended,0000BFFF
 
-[Press {CROSS} For Moon Jump]
+//Press {CROSS} For Moon Jump
 author=GamingDragon93
 description=Press {CROSS} For Moon Jump
 // Press {CROSS} For Moon Jump
 patch=1,EE,1070B93A,extended,00000002
 
-[Normal Gun]
+//Normal Gun
 author=GamingDragon93
 description=Normal Gun
 // Normal Gun
 patch=1,EE,1106F194,extended,00000000
 
-[Drop Shot (D)]
+//Drop Shot (D)
 author=GamingDragon93
 description=Drop Shot (D)
 // Drop Shot (D)
 patch=1,EE,1106F194,extended,00000101
 
-[Shotgun (S)]
+//Shotgun (S)
 author=GamingDragon93
 description=Shotgun (S)
 // Shotgun (S)
 patch=1,EE,1106F194,extended,00000202
 
-[Rocket Launcher (R)]
+//Rocket Launcher (R)
 author=GamingDragon93
 description=Rocket Launcher (R)
 // Rocket Launcher (R)
 patch=1,EE,1106F194,extended,00000303
 
-[Flame Chop (F)]
+//Flame Chop (F)
 author=GamingDragon93
 description=Flame Chop (F)
 // Flame Chop (F)
 patch=1,EE,1106F194,extended,00000404
 
-[Heavy Machine Gun (H)]
+//Heavy Machine Gun (H)
 author=GamingDragon93
 description=Heavy Machine Gun (H)
 // Heavy Machine Gun (H)
 patch=1,EE,1106F194,extended,00000505
 
-[Laser Gun]
+//Laser Gun
 author=GamingDragon93
 description=Laser Gun
 // Laser Gun
 patch=1,EE,1106F194,extended,00000606
 
-[Super Shotgun]
+//Super Shotgun
 author=GamingDragon93
 description=Super Shotgun
 // Super Shotgun
 patch=1,EE,1106F194,extended,00000707
 
-[Super Rocket Launcher]
+//Super Rocket Launcher
 author=GamingDragon93
 description=Super Rocket Launcher
 // Super Rocket Launcher
 patch=1,EE,1106F194,extended,00000808
 
-[Explosive Rounds]
+//Explosive Rounds
 author=GamingDragon93
 description=Explosive Rounds
 // Explosive Rounds
 patch=1,EE,1106F194,extended,00000909
 
-[Super Handgun]
+//Super Handgun
 author=GamingDragon93
 description=Super Handgun
 // Super Handgun
 patch=1,EE,1106F194,extended,00000A0A
 
-[Super Laser]
+//Super Laser
 author=GamingDragon93
 description=Super Laser
 // Super Laser
 patch=1,EE,1106F194,extended,00000B0B
 
-[Enemy Chaser (C)]
+//Enemy Chaser (C)
 author=GamingDragon93
 description=Enemy Chaser (C)
 // Enemy Chaser (C)
 patch=1,EE,1106F194,extended,00000C0C
 
-[Iron lizard (I)]
+//Iron lizard (I)
 author=GamingDragon93
 description=Iron lizard (I)
 // Iron lizard (I)
 patch=1,EE,1106F194,extended,00000D0D
 
-[Bubble Gun]
+//Bubble Gun
 author=GamingDragon93
 description=Bubble Gun
 // Bubble Gun
 patch=1,EE,1106F194,extended,00000E0E
 
-[Super Bullet Gun]
+//Super Bullet Gun
 author=GamingDragon93
 description=Super Bullet Gun
 // Super Bullet Gun
 patch=1,EE,1106F194,extended,00000F0F
 
-[Dual Machine Gun (2H)]
+//Dual Machine Gun (2H)
 author=GamingDragon93
 description=Dual Machine Gun (2H)
 // Dual Machine Gun (2H)

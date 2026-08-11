@@ -1,38 +1,38 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2089E358,extended,42C80000
 
-[Cheats/Infinite Health ALT] 
+//Cheats/Infinite Health ALT
 patch=1,EE,2089E35A,extended,000000C8
 
-[Cheats/Infinite Power Move bar] 
+//Cheats/Infinite Power Move bar
 patch=1,EE,2089E334,extended,42C80000
 
-[Cheats/Infinite Batarangs] 
+//Cheats/Infinite Batarangs
 patch=1,EE,1089E3A6,extended,0000000F
 
-[Cheats/Infinite Bat Stunner]  
+//Cheats/Infinite Bat Stunner
 patch=1,EE,1089E3AA,extended,00000005
 
-[Cheats/Infinite Batcuffs] 
+//Cheats/Infinite Batcuffs
 patch=1,EE,1089E3B2,extended,00000003
 
-[Cheats/Infinite Remote Charges] 
+//Cheats/Infinite Remote Charges
 patch=1,EE,1089E3AE,extended,0000000F
 
-[Cheats/Infinite Nets] 
+//Cheats/Infinite Nets
 patch=1,EE,1089E3AC,extended,0000000F
 
-[Cheats/Infinite Electric Batarangs]  
+//Cheats/Infinite Electric Batarangs
 patch=1,EE,1089E3A8,extended,0000000F
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,208470C0,extended,00000017
 
-[Cheats/Unlock All Items] 
+//Cheats/Unlock All Items
 patch=1,EE,2084713C,extended,FFFFFFFF
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,10847144,extended,0000FFFF
 
-[Cheats/Unlock All Cheats] 
+//Cheats/Unlock All Cheats
 patch=1,EE,10847146,extended,0000FFFF

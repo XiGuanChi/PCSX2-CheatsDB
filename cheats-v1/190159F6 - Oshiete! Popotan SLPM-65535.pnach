@@ -1,12 +1,12 @@
-[Cheats/Unlock CG 100% Recovery Rate] 
+//Cheats/Unlock CG 100% Recovery Rate
 patch=1,EE,40B13668,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Characters Cleared] 
+//Cheats/Unlock All Characters Cleared
 patch=1,EE,40B13540,extended,000A0001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All CG] 
+//Cheats/Unlock All CG
 patch=1,EE,20B13668,extended,FFFFFFFF
 patch=1,EE,20B1366C,extended,FFFFFFFF
 patch=1,EE,20B13670,extended,FFFFFFFF

@@ -1,13 +1,13 @@
-[Cheats/Infinite lives]
+//Cheats/Infinite lives
 patch=1,EE,0096F9F4,extended,00000063
 
-[Cheats/Clear with just one pair of pants Please do not use in the final stage.] 
+//Cheats/Clear with just one pair of pants Please do not use in the final stage.
 patch=1,EE,1096F2E8,extended,00000001
 
-[Cheats/Unlock All EXPERT World Cup selectable and all stages selectables normal] 
+//Cheats/Unlock All EXPERT World Cup selectable and all stages selectables normal
 patch=1,EE,0096F9FC,extended,00000001
 
-[Cheats/Monkey Nami course] 
+//Cheats/Monkey Nami course
 patch=1,EE,0096FAC4,extended,00000030
 patch=1,EE,0096FB4C,extended,00000014
 patch=1,EE,0096FBD4,extended,00000014
@@ -18,7 +18,7 @@ patch=1,EE,0097009C,extended,00000014
 patch=1,EE,00970234,extended,00000054
 patch=1,EE,009702BC,extended,00000090
 
-[Cheats/Human Nami course] 
+//Cheats/Human Nami course
 patch=1,EE,00970124,extended,00000014
 patch=1,EE,00970564,extended,00000034
 patch=1,EE,009705EC,extended,00000014
@@ -33,7 +33,7 @@ patch=1,EE,00970D5C,extended,00000094
 patch=1,EE,00971004,extended,00000014
 patch=1,EE,0097108C,extended,00000014
 
-[Cheats/Hakase Nami course] 
+//Cheats/Hakase Nami course
 patch=1,EE,0096FC5C,extended,00000010
 patch=1,EE,009701AC,extended,00000010
 patch=1,EE,009706FC,extended,00000010
@@ -43,7 +43,7 @@ patch=1,EE,0097119C,extended,00000010
 patch=1,EE,00971224,extended,00000050
 patch=1,EE,009712AC,extended,00000080
 
-[Cheats/Spector Nami course] 
+//Cheats/Spector Nami course
 patch=1,EE,00971554,extended,00000034
 patch=1,EE,009715DC,extended,00000014
 patch=1,EE,00971664,extended,00000010

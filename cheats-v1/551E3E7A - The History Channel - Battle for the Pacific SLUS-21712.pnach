@@ -1,25 +1,25 @@
-[Cheats/God Mode] 
+//Cheats/God Mode
 patch=1,EE,2069EC18,extended,00000001
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C0220,extended,3C0142C8
 patch=1,EE,200C0224,extended,AC61017C
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C462017C
 patch=1,EE,2048BC70,extended,0C030088
 
-[Cheats/Infinite Bomb Diffuse Time] 
+//Cheats/Infinite Bomb Diffuse Time
 patch=1,EE,2050af2c,extended,00000000
 patch=1,EE,2050b050,extended,00000000
 
-[Cheats/Never Reload] 
+//Cheats/Never Reload
 patch=1,EE,20498A98,extended,00000000
 
-[Cheats/Unlock All Missions] 
+//Cheats/Unlock All Missions
 patch=1,EE,405E06E4,extended,000C0014
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Have All Commendations and Full Records] 
+//Cheats/Have All Commendations and Full Records
 patch=1,EE,106CB0B0,extended,0000270F
 patch=1,EE,106CB0B8,extended,0000270F
 patch=1,EE,106CB0C0,extended,0000270F

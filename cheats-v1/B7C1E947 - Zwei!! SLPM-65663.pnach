@@ -1,21 +1,21 @@
-[Cheats/Max Money 9999999] 
+//Cheats/Max Money 9999999
 patch=1,EE,21CB10A8,extended,C10BEBFE
 patch=1,EE,21CB10AC,extended,00000095
 
-[Cheats/Max Money 10 million P] 
+//Cheats/Max Money 10 million P
 patch=1,EE,21CB10A8,extended,2D013100
 patch=1,EE,21CB10AC,extended,00000059
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20280D98,extended,3C0101CB
 patch=1,EE,20280D9C,extended,34211070
 patch=1,EE,20283DA0,extended,1024002B
 
-[Cheats/Exp 999999 After 1 Level Up = Level 30] 
+//Cheats/Exp 999999 After 1 Level Up = Level 30
 patch=1,EE,21CB10C8,extended,C10BEBFE
 patch=1,EE,21CB10CC,extended,00000095
 
-[Cheats/All Stats 50]  
+//Cheats/All Stats 50
 patch=1,EE,21CB1080,extended,00010000
 patch=1,EE,21CB1090,extended,00010000
 patch=1,EE,01CB1088,extended,00000001

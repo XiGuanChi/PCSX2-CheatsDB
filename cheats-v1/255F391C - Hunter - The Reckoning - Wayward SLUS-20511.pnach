@@ -1,28 +1,28 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2012F9A4,extended,E4800018
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2016C134,extended,00000000
 
-[Cheats/Infinite Continues] 
+//Cheats/Infinite Continues
 patch=1,EE,2076EC90,extended,000000C6
 
-[Cheats/Unlock All Weapons] 
+//Cheats/Unlock All Weapons
 patch=1,EE,4076E8A0,extended,000D0001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Hidden Costumes] 
+//Cheats/Unlock All Hidden Costumes
 patch=1,EE,4076EA38,extended,00090001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Available Area Maps] 
+//Cheats/Unlock All Available Area Maps
 patch=1,EE,4076EB14,extended,00080001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,4076EB3C,extended,00070001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,4076EC1C,extended,000B0001
 patch=1,EE,00000001,extended,00000000

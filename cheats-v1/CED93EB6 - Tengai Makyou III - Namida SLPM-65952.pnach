@@ -1,28 +1,28 @@
-[Cheats/Max Money 9999999]
+//Cheats/Max Money 9999999
 patch=1,EE,20793A4C,extended,1C46D16A
 
-[Cheats/Max Make] 
+//Cheats/Max Make
 patch=1,EE,20799F20,extended,0098967F
 
-[Cheats/Max Virtue After Battle] 
+//Cheats/Max Virtue After Battle
 patch=1,EE,20147FE8,extended,10600001
 
-[Cheats/Max Skill When using one operation skill] 
+//Cheats/Max Skill When using one operation skill
 patch=1,EE,2014967C,extended,00000000
 
-[Cheats/Max Proficiency Use One Technique To Get The Max]
+//Cheats/Max Proficiency Use One Technique To Get The Max
 patch=1,EE,201493BC,extended,2402270F
 
-[Cheats/Battle Time Body 9999] 
+//Cheats/Battle Time Body 9999
 patch=1,EE,20207558,extended,0000100A
 
-[Cheats/Fighting Technique 999] 
+//Cheats/Fighting Technique 999
 patch=1,EE,202076A0,extended,0000100A
 
-[Cheats/When Entering Battle Enemy Annihilation] 
+//Cheats/When Entering Battle Enemy Annihilation
 patch=1,EE,20207574,extended,0000180A
 
-[Cheats/CCC equired Code In Battle Codes] 
+//Cheats/CCC equired Code In Battle Codes
 patch=1,EE,204411D4,extended,0803E840
 patch=1,EE,200FA100,extended,3C0E0079
 patch=1,EE,200FA104,extended,91CF2E42
@@ -34,7 +34,7 @@ patch=1,EE,200FA118,extended,3C0B0079
 patch=1,EE,200FA11C,extended,356B9F40
 patch=1,EE,200FA1E8,extended,03E00008
 
-[Cheats/In Battle Everyone Dan & Toku Max Press R3 To Activate] 
+//Cheats/In Battle Everyone Dan & Toku Max Press R3 To Activate
 patch=1,EE,200FA124,extended,3B090400
 patch=1,EE,200FA128,extended,1520000B
 patch=1,EE,200FA12C,extended,240A0009
@@ -47,7 +47,7 @@ patch=1,EE,200FA14C,extended,254AFFFF
 patch=1,EE,200FA150,extended,1540FFF9
 patch=1,EE,200FA154,extended,256B018C
 
-[Cheats/In Battle Field Physical & Skill Recovery Press L3 To Activate] 
+//Cheats/In Battle Field Physical & Skill Recovery Press L3 To Activate
 patch=1,EE,200FA15C,extended,3B090200
 patch=1,EE,200FA160,extended,1520000B
 patch=1,EE,200FA164,extended,240A0009
@@ -58,12 +58,12 @@ patch=1,EE,200FA184,extended,254AFFFF
 patch=1,EE,200FA188,extended,1540FFF9
 patch=1,EE,200FA18C,extended,256B018C
 
-[Cheats/In Battle All Specific Status Max] 
+//Cheats/In Battle All Specific Status Max
 patch=1,EE,200FA194,extended,3B09000C
 patch=1,EE,200FA198,extended,1520000C
 patch=1,EE,200FA19C,extended,240A0009
 
-[Cheats/No Radom Battles Press L2 + Up button to encounter enemies.It will not be encountered in places where enemies do not originally occur. Also, it is not valid for enemies whose appearance is fixed, such as during events.] 
+//Cheats/No Radom Battles Press L2 + Up button to encounter enemies.It will not be encountered in places where enemies do not originally occur. Also, it is not valid for enemies whose appearance is fixed, such as during events.
 patch=1,EE,20138870,extended,10000007 
 patch=1,EE,201DCF88,extended,1040000B
 patch=1,EE,D0792E42,extended,0000FEEF
@@ -71,57 +71,57 @@ patch=1,EE,20138870,extended,00000000
 patch=1,EE,D0792E42,extended,0000FEEF
 patch=1,EE,201DCF88,extended,00000000
 
-[Cheats/Unlock All The Mystery When You Fight Once] 
+//Cheats/Unlock All The Mystery When You Fight Once
 patch=1,EE,20148E00,extended,0000100A
 
-[Cheats/Unlock All Namida]  
+//Cheats/Unlock All Namida
 patch=1,EE,4079A028,extended,00180001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Tsugumi]  
+//Cheats/Unlock All Tsugumi
 patch=1,EE,4079A4CC,extended,00180001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Ushibozu] 
+//Cheats/Unlock All Ushibozu
 patch=1,EE,4079A340,extended,00180001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Toubei]  
+//Cheats/Unlock All Toubei
 patch=1,EE,4079AC88,extended,00180001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Oniichiban]   
+//Cheats/Unlock All Oniichiban
 patch=1,EE,4079A970,extended,00180001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Tsugumi All Skills Proficiency Max] 
+//Cheats/Tsugumi All Skills Proficiency Max
 patch=1,EE,4079A490,extended,000F0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Miya All Skills Proficiency Max] 
+//Cheats/Miya All Skills Proficiency Max
 patch=1,EE,4079A7A8,extended,000F0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Iyo All Skills Proficiency Max]  
+//Cheats/Iyo All Skills Proficiency Max
 patch=1,EE,4079A178,extended,000F0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Tametomo All Skills Proficiency Max]
+//Cheats/Tametomo All Skills Proficiency Max
 patch=1,EE,4079AAC0,extended,000F0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Ushibozu All Skills Proficiency Max]  
+//Cheats/Ushibozu All Skills Proficiency Max
 patch=1,EE,4079A304,extended,000F0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Toubei All Skills Proficiency Max] 
+//Cheats/Toubei All Skills Proficiency Max
 patch=1,EE,4079AC4C,extended,000F0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Oniichiban All Skills Proficiency Max] 
+//Cheats/Oniichiban All Skills Proficiency Max
 patch=1,EE,4079A934,extended,000F0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Namida All Skills Proficiency Max]  
+//Cheats/Namida All Skills Proficiency Max
 patch=1,EE,40799FEC,extended,000F0001
 patch=1,EE,FFFFFFFF,extended,00000000

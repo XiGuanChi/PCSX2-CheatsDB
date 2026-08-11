@@ -1,4 +1,4 @@
-[Cheats/In Battle Main Character And Allies Infinite HP] 
+//Cheats/In Battle Main Character And Allies Infinite HP
 patch=1,EE,202348D4,extended,0803FC00 
 patch=1,EE,202348D8,extended,00000000 
 patch=1,EE,200FF000,extended,24160002 
@@ -9,19 +9,19 @@ patch=1,EE,200FF010,extended,A4820006
 patch=1,EE,200FF014,extended,03E00008 
 patch=1,EE,200FF018,extended,A4860006 
 
-[Cheats/Infinite HP On Damage Floors] 
+//Cheats/Infinite HP On Damage Floors
 patch=1,EE,20235274,extended,1000000D 
 patch=1,EE,202352A8,extended,A4820006 
 
-[Cheats/1st Enemy HP 0 ON Press L2+R2 Auto OFF If you do this before the enemy appears, the enemy may become invincible] 
+//Cheats/1st Enemy HP 0 ON Press L2+R2 Auto OFF If you do this before the enemy appears, the enemy may become invincible
 patch=1,EE,D056DEC2,extended,0000FCFF 
 patch=1,EE,1119E506,extended,00000000 
 
-[Cheats/Possession Items 98 ncrease decrease] 
+//Cheats/Possession Items 98 ncrease decrease
 patch=1,EE,20234D60,extended,24030000 
 patch=1,EE,20234D64,extended,24020062 
 
-[Cheats/Random Battles ON Press Select+L1 OFF Press Select+R1] 
+//Cheats/Random Battles ON Press Select+L1 OFF Press Select+R1
 patch=1,EE,E001FBFE,extended,0056DEC2 
 patch=1,EE,2027B9FC,extended,1000007A 
 patch=1,EE,E001F7FE,extended,0056DEC2 

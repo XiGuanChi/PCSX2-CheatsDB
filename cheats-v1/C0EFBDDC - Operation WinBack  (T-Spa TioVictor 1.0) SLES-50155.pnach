@@ -1,22 +1,22 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,002D4DB9,extended,00000064
 
-[Cheats/No Reload Pistol] 
+//Cheats/No Reload Pistol
 patch=1,EE,002D4DB5,extended,0000000F
 
-[Cheats/No Reload SMG] 
+//Cheats/No Reload SMG
 patch=1,EE,002D4D9B,extended,00000032
 
-[Cheats/No Reload Shotgun] 
+//Cheats/No Reload Shotgun
 patch=1,EE,002D4DB1,extended,0000000A
 
-[Cheats/No Reload S. Pistol] 
+//Cheats/No Reload S. Pistol
 patch=1,EE,003486B4,extended,0000000A
 
-[Cheats/No Reload R. Launcher] 
+//Cheats/No Reload R. Launcher
 patch=1,EE,003486BB,extended,00000004
 patch=1,EE,002D4DAF,extended,00000004
 
-[Cheats/Unlock All Characters]  
+//Cheats/Unlock All Characters
 patch=1,EE,103825BC,extended,0000FFFF
 patch=1,EE,103825BE,extended,0000000F

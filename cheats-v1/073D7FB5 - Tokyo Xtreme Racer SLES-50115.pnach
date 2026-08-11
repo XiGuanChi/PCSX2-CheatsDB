@@ -1,21 +1,21 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,2037E788,extended,05F5E0FF
 
-[Cheats/Infinite SP P1] 
+//Cheats/Infinite SP P1
 patch=1,EE,207512F8,extended,004C4B40
 
-[Cheats/Just Pass Opponent To Win] 
+//Cheats/Just Pass Opponent To Win
 patch=1,EE,207512FC,extended,00000001
 
-[Cheats/Have Lots Of Wins] 
+//Cheats/Have Lots Of Wins
 patch=1,EE,2037E78C,extended,05F5E0FF
 patch=1,EE,2037E790,extended,05F5E0FF
 
-[Cheats/0 Lose 0 Draw] 
+//Cheats/0 Lose 0 Draw
 patch=1,EE,2037E794,extended,00000000
 patch=1,EE,2037E798,extended,00000000
 
-[Cheats/Unlock All 400 Rivals Beaten] 
+//Cheats/Unlock All 400 Rivals Beaten
 patch=1,EE,2037E6E4,extended,FFFFFFFF
 patch=1,EE,2037E6E8,extended,FFFFFFFF
 patch=1,EE,2037E6EC,extended,FFFFFFFF
@@ -30,7 +30,7 @@ patch=1,EE,2037E70C,extended,FFFFFFFF
 patch=1,EE,2037E710,extended,FFFFFFFF
 patch=1,EE,2037E714,extended,FFFFFFFF
 
-[Cheats/Unlock All 165 Cars in Shop] 
+//Cheats/Unlock All 165 Cars in Shop
 patch=1,EE,2037E764,extended,FFFFFFFF
 patch=1,EE,2037E768,extended,FFFFFFFF
 patch=1,EE,2037E76C,extended,FFFFFFFF
@@ -38,6 +38,6 @@ patch=1,EE,2037E770,extended,FFFFFFFF
 patch=1,EE,2037E774,extended,FFFFFFFF
 patch=1,EE,2037E778,extended,FFFFFFFF
 
-[Cheats/Debug Menu features working sound and movie test, car viewer, freerun, quick, versus, advertise. time attack, ending]  
+//Cheats/Debug Menu features working sound and movie test, car viewer, freerun, quick, versus, advertise. time attack, ending
 patch=1,EE,20392754,extended,00000024
 

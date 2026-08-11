@@ -1,11 +1,11 @@
-[Cheats/Max Gauge] 
+//Cheats/Max Gauge
 patch=1,EE,0015C16C,extended,00000001
 
-[Cheats/Autoplay] 
+//Cheats/Autoplay
 patch=1,EE,2015CB38,extended,0280A021
 patch=1,EE,2015CB58,extended,10200001
 patch=1,EE,2015CA78,extended,14420059
 patch=1,EE,2015CA98,extended,00601823
 
-[Cheats/Unlock All Songs] 
+//Cheats/Unlock All Songs
 patch=1,EE,00288704,extended,000000FF

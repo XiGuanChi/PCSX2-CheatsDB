@@ -1,12 +1,12 @@
-[Cheats/Max Money Career Mode] 
+//Cheats/Max Money Career Mode
 patch=1,EE,200C0220,extended,3C0205F5
 patch=1,EE,200C0224,extended,3442E0FF
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,AC620004
 patch=1,EE,20286F88,extended,08030088
 
-[Cheats/Buying Parts Doesnt Decrease Money Career Mode]  
+//Cheats/Buying Parts Doesnt Decrease Money Career Mode
 patch=1,EE,20286F54,extended,00000000
 
-[Cheats/Buying Parts Increases Money Career Mode]  
+//Cheats/Buying Parts Increases Money Career Mode
 patch=1,EE,20286F4C,extended,00641821

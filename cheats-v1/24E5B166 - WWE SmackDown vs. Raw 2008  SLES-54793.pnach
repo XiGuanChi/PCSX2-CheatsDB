@@ -1,65 +1,65 @@
-[Cheats/24-7 Mode Max Cash] 
+//Cheats/24-7 Mode Max Cash
 patch=1,EE,203DB830,extended,0098967F
 
-[Cheats/24-7 Max Cash After Buying Something] 
+//Cheats/24-7 Max Cash After Buying Something
 patch=1,EE,2023C8D4,extended,3C0405F0
 
-[Cheats/24-7 Max Cash After an Event Commercial] 
+//Cheats/24-7 Max Cash After an Event Commercial
 patch=1,EE,2023C838,extended,3C0405F0
 
-[Cheats/Character 1 STR 99] 
+//Cheats/Character 1 STR 99
 patch=1,EE,00441708,extended,00000063
 
-[Cheats/Character 1 STR 255] 
+//Cheats/Character 1 STR 255
 patch=1,EE,00441708,extended,000000ff
 
-[Cheats/Character 1 SUB 99] 
+//Cheats/Character 1 SUB 99
 patch=1,EE,00441709,extended,00000063
 
-[Cheats/Character 1 SUB 255] 
+//Cheats/Character 1 SUB 255
 patch=1,EE,00441709,extended,000000ff
 
-[Cheats/Character 1 DUR 99] 
+//Cheats/Character 1 DUR 99
 patch=1,EE,0044170c,extended,00000063
 
-[Cheats/Character 1 DUR 255] 
+//Cheats/Character 1 DUR 255
 patch=1,EE,0044170c,extended,000000ff
 
-[Cheats/Character 1 TEC 99] 
+//Cheats/Character 1 TEC 99
 patch=1,EE,0044170b,extended,00000063
 
-[Cheats/Character 1 TEC 255] 
+//Cheats/Character 1 TEC 255
 patch=1,EE,0044170b,extended,000000ff
 
-[Cheats/Character 1 SPD 99] 
+//Cheats/Character 1 SPD 99
 patch=1,EE,0044170a,extended,00000063
 
-[Cheats/Character 1 SPD 255] 
+//Cheats/Character 1 SPD 255
 patch=1,EE,0044170a,extended,000000ff
 
-[Cheats/Character 1 CHA 99] 
+//Cheats/Character 1 CHA 99
 patch=1,EE,0044170d,extended,00000063
 
-[Cheats/Character 1 CHA 255] 
+//Cheats/Character 1 CHA 255
 patch=1,EE,0044170d,extended,000000ff
 
-[Cheats/Character 1 HRD 99] 
+//Cheats/Character 1 HRD 99
 patch=1,EE,0044170f,extended,00000063
 
-[Cheats/Character 1 HRD 255] 
+//Cheats/Character 1 HRD 255
 patch=1,EE,0044170f,extended,000000ff
 
-[Cheats/Character 1 STA 99] 
+//Cheats/Character 1 STA 99
 patch=1,EE,0044170e,extended,00000063
 
-[Cheats/Character 1 STA 255] 
+//Cheats/Character 1 STA 255
 patch=1,EE,0044170e,extended,000000ff
 
-[Cheats/Disable AI L3 Disable R3 Restart Use in-game You must restart the AI for the Referee to start a count] 
+//Cheats/Disable AI L3 Disable R3 Restart Use in-game You must restart the AI for the Referee to start a count
 patch=1,EE,D1CF8782,extended,0000FFFD
 patch=1,EE,205AFCA0,extended,24020000
 patch=1,EE,D1CF8782,extended,0000FFFB
 patch=1,EE,205AFCA0,extended,2C420001
 
-[Cheats/Unlock All]  
+//Cheats/Unlock All
 patch=1,EE,201D310C,extended,24020001

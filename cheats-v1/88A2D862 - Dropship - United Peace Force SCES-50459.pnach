@@ -1,8 +1,8 @@
-[Cheats/God Mode] 
+//Cheats/God Mode
 patch=1,EE,21E502B4,extended,01000000
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,21E502B8,extended,00000001
 
-[Cheats/Infinite Time]  
+//Cheats/Infinite Time
 patch=1,EE,21EEC960,extended,00000128

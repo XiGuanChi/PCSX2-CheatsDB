@@ -1,14 +1,14 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,106E5620,extended,00000190
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,006E55EC,extended,00000063
 
-[Cheats/Have Easy Kills]  
+//Cheats/Have Easy Kills
 patch=1,EE,0033A932,extended,00000001
 
-[Cheats/Infinite Hypos]  
+//Cheats/Infinite Hypos
 patch=1,EE,006E578C,extended,00000004
 
-[Cheats/Invisible]  
+//Cheats/Invisible
 patch=1,EE,106E57A2,extended,0000FFFF

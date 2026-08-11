@@ -1,3 +1,3 @@
-[Cheats/Debug Mode allowing you to view any scene in the game.Start a new game.Save to slot #1.Load the new save file.Deactivate the code before saving again, otherwise you will save to the debug screen each time] 
+//Cheats/Debug Mode allowing you to view any scene in the game.Start a new game.Save to slot #1.Load the new save file.Deactivate the code before saving again, otherwise you will save to the debug screen each time
 patch=1,EE,002818A8,extended,000000FF
 patch=1,EE,202818AC,extended,00000000

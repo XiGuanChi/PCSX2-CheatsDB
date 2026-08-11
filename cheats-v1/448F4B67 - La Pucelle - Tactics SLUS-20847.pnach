@@ -1,71 +1,71 @@
-[Cheats/Prina 9.999.999] 
+//Cheats/Prina 9.999.999
 patch=1,EE,20376B70,extended,0096987f
 
-[Cheats/Prier Infinite & Max Hp in battle] 
+//Cheats/Prier Infinite & Max Hp in battle
 patch=1,EE,2032F0FC,extended,000003E7
 patch=1,EE,2032F0D4,extended,000003E7
 
-[Cheats/Prier Infinite & Max Sp in battle] 
+//Cheats/Prier Infinite & Max Sp in battle
 patch=1,EE,2032F104,extended,000003E7
 patch=1,EE,2032F0D8,extended,000003E7
 
-[Cheats/Prier All Abilities] 
+//Cheats/Prier All Abilities
 patch=1,EE,2032F230,extended,32323232
 patch=1,EE,2032F234,extended,32323232
 patch=1,EE,1032F238,extended,00003232
 patch=1,EE,4032F270,extended,00050001
 patch=1,EE,0EF10EF1,extended,00000000
 
-[Cheats/Alouette Max HP] 
+//Cheats/Alouette Max HP
 patch=1,EE,2032FD64,extended,0000136F
 patch=1,EE,2032FD88,extended,0000270F
 
-[Cheats/Alouette Infinite HP] 
+//Cheats/Alouette Infinite HP
 patch=1,EE,2032FD8C,extended,0000270F
 
-[Cheats/Alouette Max SP] 
+//Cheats/Alouette Max SP
 patch=1,EE,2032FD68,extended,0000136F
 patch=1,EE,2032FD90,extended,0000270F
 
-[Cheats/Alouette Infinite SP] 
+//Cheats/Alouette Infinite SP
 patch=1,EE,2032FD94,extended,0000270F
 
-[Cheats/Alouette All Abilities] 
+//Cheats/Alouette All Abilities
 patch=1,EE,2032FEC0,extended,32323232
 patch=1,EE,2032FEC4,extended,32323232
 patch=1,EE,1032FEC8,extended,00003232
 patch=1,EE,4032FF00,extended,00050001
 patch=1,EE,0EF10EF1,extended,00000000
 
-[Cheats/Culotte Max HP] 
+//Cheats/Culotte Max HP
 patch=1,EE,2032F71C,extended,0000136F
 patch=1,EE,2032F740,extended,0000270F
 
-[Cheats/Culotte Infinite HP] 
+//Cheats/Culotte Infinite HP
 patch=1,EE,2032F744,extended,0000270F
 
-[Cheats/Culotte Max SP] 
+//Cheats/Culotte Max SP
 patch=1,EE,2032F720,extended,0000136F
 patch=1,EE,2032F748,extended,0000270F
 
-[Cheats/Culotte Infinite SP] 
+//Cheats/Culotte Infinite SP
 patch=1,EE,2032F74C,extended,0000270F
 
-[Cheats/Culotte All Abilities] 
+//Cheats/Culotte All Abilities
 patch=1,EE,2032F878,extended,32323232
 patch=1,EE,2032F87C,extended,32323232
 patch=1,EE,1032F880,extended,00003232
 patch=1,EE,4032F8B8,extended,00050001
 patch=1,EE,0EF10EF1,extended,00000000
 
-[Cheats/Enable Developer Mode This mode will activate hidden menus normally not accessible, enable debug displays, and allow you to open a debug menu at anytime with a second controller, and many more. Apply the following code for your version of the game to enable this mode.With a second controller plugged in, to bring up the debug menu anytime, press Select on controller 2. The known controller 2 inputs are below:Select will open / close the debug menu.D-Pad / Left Stick moves through the menu.Right / Left will toggle the option on or off you have highlighted.Circle to enter an option.R3 brings up a list. It is unclear what this does]  
+//Cheats/Enable Developer Mode This mode will activate hidden menus normally not accessible, enable debug displays, and allow you to open a debug menu at anytime with a second controller, and many more. Apply the following code for your version of the game to enable this mode.With a second controller plugged in, to bring up the debug menu anytime, press Select on controller 2. The known controller 2 inputs are below:Select will open / close the debug menu.D-Pad / Left Stick moves through the menu.Right / Left will toggle the option on or off you have highlighted.Circle to enter an option.R3 brings up a list. It is unclear what this does
 patch=1,EE,2010280C,extended,0C047DEC
 patch=1,EE,2011F7B0,extended,34420002
 patch=1,EE,2011F7B4,extended,AF8284B4
 patch=1,EE,2011F7B8,extended,03E00008
 patch=1,EE,2011F7BC,extended,8F8284B4
 
-[Cheats/Enable Hidden Menus This code puts Quick Start in the main menu, Load and Exp. Table in pause menu, Save and Load in battle, and a blank option that turns a ally into a enemy when selecting a character in battle and a unknown option in Roseenqueen Shop. Besides the blank option in battle and the unknown option in Roseenqueen Shop shop, these all can be enabled with the Developer Mode code active.] 
+//Cheats/Enable Hidden Menus This code puts Quick Start in the main menu, Load and Exp. Table in pause menu, Save and Load in battle, and a blank option that turns a ally into a enemy when selecting a character in battle and a unknown option in Roseenqueen Shop. Besides the blank option in battle and the unknown option in Roseenqueen Shop shop, these all can be enabled with the Developer Mode code active.
 patch=1,EE,101D736C,extended,00000003
 patch=1,EE,101D734C,extended,00000003
 patch=1,EE,101A9C24,extended,00000007

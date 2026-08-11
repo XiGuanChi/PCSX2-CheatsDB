@@ -1,43 +1,43 @@
-[Cheats/Infinite Armor P1] 
+//Cheats/Infinite Armor P1
 patch=1,EE,208659D0,extended,03E703E7
 patch=1,EE,108659D4,extended,000003E7
 
-[Cheats/Infinite Boost P1] 
+//Cheats/Infinite Boost P1
 patch=1,EE,20865B00,extended,0FA00FA0
 
-[Cheats/Infinite Weapon 1 P1] 
+//Cheats/Infinite Weapon 1 P1
 patch=1,EE,10865DFA,extended,000003E7
 patch=1,EE,20865DFC,extended,03E703E7
 
-[Cheats/Infinite Weapon 2 P1] 
+//Cheats/Infinite Weapon 2 P1
 patch=1,EE,10865E06,extended,000003E7
 patch=1,EE,20865E08,extended,03E703E7
 
-[Cheats/Confederation Never Defeated] 
+//Cheats/Confederation Never Defeated
 patch=1,EE,208703A0,extended,03E703E7
 patch=1,EE,108703A4,extended,000003E7
 
-[Cheats/Confederation Always Defeated] 
+//Cheats/Confederation Always Defeated
 patch=1,EE,208703A0,extended,00000000
 patch=1,EE,108703A4,extended,00000000
 
-[Cheats/Confederation 1 Hit Death] 
+//Cheats/Confederation 1 Hit Death
 patch=1,EE,E0020001,extended,308703A2
 patch=1,EE,208703A0,extended,000103E7
 patch=1,EE,108703A4,extended,000003E7
 
-[Cheats/Zeon Never Defeated] 
+//Cheats/Zeon Never Defeated
 patch=1,EE,108703A6,extended,03E703E7
 patch=1,EE,208703A8,extended,000003E7
 
-[Cheats/Zeon Always Defeated] 
+//Cheats/Zeon Always Defeated
 patch=1,EE,108703A6,extended,00000000
 patch=1,EE,208703A8,extended,00000000
 
-[Cheats/Zeon 1 Hit Death] 
+//Cheats/Zeon 1 Hit Death
 patch=1,EE,E0020001,extended,308703A8
 patch=1,EE,108703A6,extended,000003E7
 patch=1,EE,208703A8,extended,000103E7
 
-[Cheats/Campaign Mode Max Operation Points] 
+//Cheats/Campaign Mode Max Operation Points
 patch=1,EE,107A6350,extended,0000270F

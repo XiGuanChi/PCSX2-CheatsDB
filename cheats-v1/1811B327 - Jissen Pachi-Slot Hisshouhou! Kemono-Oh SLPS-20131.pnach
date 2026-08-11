@@ -1,21 +1,21 @@
-[Cheats/SC Does Not End] 
+//Cheats/SC Does Not End
 patch=1,EE,002FCC98,extended,00000000
 
-[Cheats/Pull SC Permanently SC Latent] 
+//Cheats/Pull SC Permanently SC Latent
 patch=1,EE,002FCCB4,extended,000000FF
 
-[Cheats/One game SC Press L1 At Normal Play] 
+//Cheats/One game SC Press L1 At Normal Play
 patch=1,EE,D02FCE08,extended,00000004
 patch=1,EE,002FCD28,extended,00000080
 
-[Cheats/Unlock Simulation Mode Setting 5 And 6 Selectable] 
+//Cheats/Unlock Simulation Mode Setting 5 And 6 Selectable
 patch=1,EE,00356E44,extended,00000006
 
-[Cheats/Unlock Extra Opening] 
+//Cheats/Unlock Extra Opening
 patch=1,EE,00356E7C,extended,00000001
 
-[Cheats/Unlock Time Attack Mode Remaining Number Of Games 0] 
+//Cheats/Unlock Time Attack Mode Remaining Number Of Games 0
 patch=1,EE,002FCE31,extended,0000000A
 
-[Cheats/Unlock Time Attack Mode All Characters Available to Battle] 
+//Cheats/Unlock Time Attack Mode All Characters Available to Battle
 patch=1,EE,0029FB60,extended,00000004

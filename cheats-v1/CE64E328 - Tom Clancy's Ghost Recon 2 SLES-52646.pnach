@@ -1,10 +1,10 @@
-[Cheats/Immuned To Soldiers Ammo] 
+//Cheats/Immuned To Soldiers Ammo
 patch=1,EE,2021B200,extended,24020001
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2039A58C,extended,00000000
 
-[Cheats/Disable AI] 
+//Cheats/Disable AI
 patch=1,EE,2021AE00,extended,08086C00
 patch=1,EE,2021AE04,extended,00000000
 patch=1,EE,2021AE90,extended,08086C00

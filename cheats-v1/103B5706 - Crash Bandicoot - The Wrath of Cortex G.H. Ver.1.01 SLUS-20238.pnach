@@ -1,52 +1,52 @@
-[Cheats/Cheat Menu R2 While Paused] 
+//Cheats/Cheat Menu R2 While Paused
 patch=1,EE,E0020001,extended,0063E764
 patch=1,EE,D1D4F5C2,extended,0000FDFF
 patch=1,EE,205A43DC,extended,FF0A0A00
 
-[Cheats/P1 99 Fruit] 
+//Cheats/P1 99 Fruit
 patch=1,EE,10640C58,extended,00000063
 
-[Cheats/Infinite Health]  
+//Cheats/Infinite Health
 patch=1,EE,105B97E4,extended,00000064
 patch=1,EE,205C9C88,extended,00000064
 patch=1,EE,205C9C8C,extended,00000064
 
-[Cheats/Invincible Press Select to Summon 1 Mask] 
+//Cheats/Invincible Press Select to Summon 1 Mask
 patch=1,EE,D1D4F5C2,extended,0000FFFE
 patch=1,EE,1059C41E,extended,00000000
 
-[Cheats/Infinite Lives] 
+//Cheats/Infinite Lives
 patch=1,EE,10640C68,extended,00000063
 
-[Cheats/Infinite Lives Alternate] 
+//Cheats/Infinite Lives Alternate
 patch=1,EE,201CB510,extended,00000000
 
-[Cheats/Max Infinite Lives] 
+//Cheats/Max Infinite Lives
 patch=1,EE,201CB504,extended,24020063
 
-[Cheats/Extra Lives] 
+//Cheats/Extra Lives
 patch=1,EE,101CB504,extended,00000001
 
-[Cheats/P1 Press Select For 99 Fruits] 
+//Cheats/P1 Press Select For 99 Fruits
 patch=1,EE,D1D4F5C2,extended,0000FFFE
 patch=1,EE,10640C58,extended,00000063
 
-[Cheats/Plane And Spaceship Invincible] 
+//Cheats/Plane And Spaceship Invincible
 patch=1,EE,202038D8,extended,1000002C
 patch=1,EE,2020BAD8,extended,1000002A
 patch=1,EE,202128AC,extended,08084A7B
 
-[Cheats/Low Time All Trials] 
+//Cheats/Low Time All Trials
 patch=1,EE,205A446C,extended,00000064
 
-[Cheats/Always Low Time] 
+//Cheats/Always Low Time
 patch=1,EE,205A446C,extended,00000000
 
-[Cheats/Invincible]  
+//Cheats/Invincible
 patch=1,EE,D1D4F5C2,extended,0010FFFE
 patch=1,EE,1059140E,extended,00000096
 
-[Cheats/Invincibility]  
+//Cheats/Invincibility
 patch=1,EE,D1D4FAEC,extended,00000200
 patch=1,EE,2063F848,extended,00000001
 patch=1,EE,D1D4FAEC,extended,00000400
@@ -58,25 +58,25 @@ patch=1,EE,0059D91E,extended,000000FF
 patch=1,EE,20221978,extended,00000000
 patch=1,EE,20221970,extended,00000000
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,1059D52C,extended,00000001
 patch=1,EE,1059D530,extended,00000001
 patch=1,EE,1059D534,extended,00000001
 patch=1,EE,1059D538,extended,00000001
 
-[Cheats/Unlock All Secret Levels] 
+//Cheats/Unlock All Secret Levels
 patch=1,EE,0059D53C,extended,000000FF
 
-[Cheats/All Worlds Completed] 
+//Cheats/All Worlds Completed
 patch=1,EE,4059D52C,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Debug Menu Main Menu Press R2] 
+//Cheats/Debug Menu Main Menu Press R2
 patch=1,EE,E0020001,extended,0063E764
 patch=1,EE,D1D4F5C2,extended,0000FDFF
 patch=1,EE,205A43DC,extended,FF0A0A00
 
-[Cheats/Cutscene Debugger Press L1]
+//Cheats/Cutscene Debugger Press L1
 patch=1,EE,E0020001,extended,0063E764
 patch=1,EE,D1D4F5C2,extended,0000FBFF
 patch=1,EE,205A43DC,extended,FF0E0400

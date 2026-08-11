@@ -1,38 +1,38 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200FFF00,extended,2401012C
 patch=1,EE,200FFF04,extended,AC410454
 patch=1,EE,200FFF40,extended,03E00008
 patch=1,EE,200FFF44,extended,27A20220
 patch=1,EE,2023E5B0,extended,0C03FFC0
 
-[Cheats/Infinite Health alt] 
+//Cheats/Infinite Health alt
 patch=1,EE,200FFF00,extended,2401012C
 patch=1,EE,200FFF04,extended,AC410454
 
-[Cheats/Infinite Pistol Primary Ammo]  
+//Cheats/Infinite Pistol Primary Ammo
 patch=1,EE,200FFF44,extended,35217430
 patch=1,EE,200FFF48,extended,102AFFED
 
-[Cheats/Infinite SC-20K Primary Ammo]  
+//Cheats/Infinite SC-20K Primary Ammo
 patch=1,EE,200FFF4C,extended,35217750
 patch=1,EE,200FFF50,extended,102AFFEB
 
-[Cheats/Always Silent] 
+//Cheats/Always Silent
 patch=1,EE,E002E640,extended,0033518E
 patch=1,EE,2033518C,extended,AE400068
 patch=1,EE,203351A0,extended,AE400068
 
-[Cheats/In Shadow] 
+//Cheats/In Shadow
 patch=1,EE,D030B320,extended,00000D29
 patch=1,EE,2030B320,extended,4480A000
 
-[Cheats/Unlock Level Select in Load Screen] 
+//Cheats/Unlock Level Select in Load Screen
 patch=1,EE,20429F38,extended,24020007
 
-[Cheats/Invisible On Press L3+R1] 
+//Cheats/Invisible On Press L3+R1
 patch=1,EE,D04EE542,extended,0000F7FD
 patch=1,EE,20488008,extended,002E32E0
 
-[Cheats/Invisible Off Press L3+R2] 
+//Cheats/Invisible Off Press L3+R2
 patch=1,EE,D04EE542,extended,0000FDFD
 patch=1,EE,20488008,extended,002E32C0

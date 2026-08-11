@@ -1,16 +1,16 @@
-[Cheats/Physical Strength 999] 
+//Cheats/Physical Strength 999
 patch=1,EE,40516440,extended,00040001
 patch=1,EE,000003E7,extended,00000000
 
-[Cheats/Level 5] 
+//Cheats/Level 5
 patch=1,EE,40516450,extended,00080001
 patch=1,EE,000001F4,extended,00000000
 
-[Cheats/Total Profit 999] 
+//Cheats/Total Profit 999
 patch=1,EE,1051640C,extended,000003E7
 patch=1,EE,10516414,extended,000003E7
 
-[Cheats/Unlock All Map Selection With Flag] 
+//Cheats/Unlock All Map Selection With Flag
 patch=1,EE,005164C8,extended,00000002
 patch=1,EE,005164B8,extended,00000002
 patch=1,EE,005164CC,extended,00000002
@@ -19,7 +19,7 @@ patch=1,EE,005164C0,extended,00000002
 patch=1,EE,005164D4,extended,00000002
 patch=1,EE,005164BC,extended,00000002
 
-[Cheats/Finish The Game] 
+//Cheats/Finish The Game
 patch=1,EE,D0574882,extended,0000FFF9
 patch=1,EE,105165FF,extended,0000FFFF
 

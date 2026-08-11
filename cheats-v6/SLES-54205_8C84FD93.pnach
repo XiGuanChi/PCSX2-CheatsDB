@@ -1,6 +1,6 @@
 gametitle=WWI - Aces of the Sky PAL-E SLES-54205 8C84FD93
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,0010049C,word,240F0000

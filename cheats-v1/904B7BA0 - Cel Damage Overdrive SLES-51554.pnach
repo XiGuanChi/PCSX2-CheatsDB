@@ -1,12 +1,12 @@
-[Cheats/Unlock Everything after Load A Profile]
+//Cheats/Unlock Everything after Load A Profile
 patch=1,EE,4037A678,extended,00050001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock Emoticon] 
+//Cheats/Unlock Emoticon
 patch=1,EE,20362894,extended,00000001
 
-[Cheats/Press Select For Language Selection] 
+//Cheats/Press Select For Language Selection
 patch=1,EE,203627E8,extended,00000001
 
-[Cheats/Debug Mode] 
+//Cheats/Debug Mode
 patch=1,EE,20362954,extended,00000001

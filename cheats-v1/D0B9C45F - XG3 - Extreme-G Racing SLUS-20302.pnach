@@ -1,45 +1,45 @@
-[Cheats/Reward Bank Earnings 9999999] 
+//Cheats/Reward Bank Earnings 9999999
 patch=1,EE,001DFb08,extended,0098967F
 patch=1,EE,001DFd04,extended,0098967F
 patch=1,EE,001DFd08,extended,0098967F
 
-[Cheats/Infinite Shield,Turbo, infinite Ammo, unlock all Tracks in Arcade Mode, always win XG Career League Races] 
+//Cheats/Infinite Shield,Turbo, infinite Ammo, unlock all Tracks in Arcade Mode, always win XG Career League Races
 patch=1,EE,001DE970,extended,00000001
 patch=1,EE,001FCC78,extended,00000017
 
-[Cheats/Stop Time Limit Decrease Counter] 
+//Cheats/Stop Time Limit Decrease Counter
 patch=1,EE,0011df64,extended,24020000
 patch=1,EE,001e0258,extended,00000003
 patch=1,EE,001e0260,extended,000927C0
 
-[Cheats/No AI Racers in Arcade Mode] 
+//Cheats/No AI Racers in Arcade Mode
 patch=1,EE,0011954c,extended,24030001
 
-[Cheats/No AI Racers in League Mode]
+//Cheats/No AI Racers in League Mode
 patch=1,EE,00118C6c,extended,24020001
 
-[Cheats/Always 9 Laps to go in Arcade Mode] 
+//Cheats/Always 9 Laps to go in Arcade Mode
 patch=1,EE,00119514,extended,24020009
 
-[Cheats/Always 9 Laps to go in League Mode]
+//Cheats/Always 9 Laps to go in League Mode
 patch=1,EE,00118C28,extended,24020009
 
-[Cheats/Infinite Laps to go in Time Trials]
+//Cheats/Infinite Laps to go in Time Trials
 patch=1,EE,00119178,extended,24070000
 
-[Cheats/Infinite Boost]
+//Cheats/Infinite Boost
 patch=1,EE,0019ccf0,extended,46000806
 
-[Cheats/Infinite Shield] 
+//Cheats/Infinite Shield
 patch=1,EE,00107a48,extended,46000006
 
-[Cheats/Infinite Weapon]
+//Cheats/Infinite Weapon
 patch=1,EE,0012bdec,extended,46000006
 
-[Cheats/Never Get Killed When Shield Down] 
+//Cheats/Never Get Killed When Shield Down
 patch=1,EE,00107a78,extended,00000000
 
-[Cheats/Have All Weapons and Engines] 
+//Cheats/Have All Weapons and Engines
 patch=1,EE,001DFd10,extended,01010101
 patch=1,EE,001DFd14,extended,01010101
 patch=1,EE,001DFd18,extended,01010101
@@ -49,7 +49,7 @@ patch=1,EE,001DFd24,extended,01010101
 patch=1,EE,001DFd28,extended,01010101
 patch=1,EE,001DFd2C,extended,00000101
 
-[Cheats/Unlock All Weapons and Engines available at XG Mall] 
+//Cheats/Unlock All Weapons and Engines available at XG Mall
 patch=1,EE,001DFd30,extended,01010101
 patch=1,EE,001DFd34,extended,01010101
 patch=1,EE,001DFd38,extended,01010101
@@ -59,18 +59,18 @@ patch=1,EE,001DFd44,extended,01010101
 patch=1,EE,001DFd48,extended,01010101
 patch=1,EE,001DFd4C,extended,00000001
 
-[Cheats/Unlock All Tracks in all Modes and Starcom Team] 
+//Cheats/Unlock All Tracks in all Modes and Starcom Team
 patch=1,EE,001DE960,extended,00000000
 
-[Cheats/Unlock Starcom Team]
+//Cheats/Unlock Starcom Team
 patch=1,EE,001147f0,extended,24020000
 
-[Cheats/Unlock All Tracks in Arcade Mode] 
+//Cheats/Unlock All Tracks in Arcade Mode
 patch=1,EE,001147ac,extended,24020000
 
-[Cheats/Unlock All Tracks in League Mode]
+//Cheats/Unlock All Tracks in League Mode
 patch=1,EE,00114748,extended,24020000
 
-[Cheats/Unlock All Tracks in Time Trials] 
+//Cheats/Unlock All Tracks in Time Trials
 patch=1,EE,001143a8,extended,24020000
 

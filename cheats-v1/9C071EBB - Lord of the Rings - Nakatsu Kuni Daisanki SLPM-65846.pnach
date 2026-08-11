@@ -1,138 +1,138 @@
-[Cheats/Berethor Max EXP]  
+//Cheats/Berethor Max EXP
 patch=1,EE,20CDACB4,extended,02FAF080
 
-[Cheats/Berethor Max Status Points] 
+//Cheats/Berethor Max Status Points
 patch=1,EE,10CDACBC,extended,0000270F
 
-[Cheats/Berethor Max Status +255]
+//Cheats/Berethor Max Status +255
 patch=1,EE,20CDACC0,extended,00FF00FF
 patch=1,EE,20CDACC4,extended,00FF00FF
 patch=1,EE,10CDACC8,extended,000000FF
 
-[Cheats/Berethor Full Sword Skills] 
+//Cheats/Berethor Full Sword Skills
 patch=1,EE,403A80E4,extended,000B0001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Berethor Fully Open Leadership] 
+//Cheats/Berethor Fully Open Leadership
 patch=1,EE,403A8128,extended,000E0001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Berethor Full Auto Skill] 
+//Cheats/Berethor Full Auto Skill
 patch=1,EE,403A816C,extended,000A0001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Idrial Max EXP]  
+//Cheats/Idrial Max EXP
 patch=1,EE,20CDBB14,extended,02FAF080
 patch=1,EE,20CDBB14,extended,02FAF080
 
-[Cheats/Idrial Max Status Points] 
+//Cheats/Idrial Max Status Points
 patch=1,EE,10CDBB1C,extended,0000270F
 
-[Cheats/Idrial Max Status +255]
+//Cheats/Idrial Max Status +255
 patch=1,EE,20CDBB20,extended,00FF00FF
 patch=1,EE,20CDBB24,extended,00FF00FF
 patch=1,EE,10CDBB28,extended,000000FF
 
-[Cheats/Idrial Full Sword Skills] 
+//Cheats/Idrial Full Sword Skills
 patch=1,EE,423A7EF8,extended,00080001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Idrial Fully Open Leadership] 
+//Cheats/Idrial Fully Open Leadership
 patch=1,EE,423A7F3C,extended,000D0001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Idrial Full Auto Skill] 
+//Cheats/Idrial Full Auto Skill
 patch=1,EE,423A7F80,extended,000A0001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Elegost Max EXP] 
+//Cheats/Elegost Max EXP
 patch=1,EE,20CD9E54,extended,02FAF080
 
-[Cheats/Elegost Max Status Points] 
+//Cheats/Elegost Max Status Points
 patch=1,EE,10CD9E5C,extended,0000270F
 
-[Cheats/Elegost Max Status +255] 
+//Cheats/Elegost Max Status +255
 patch=1,EE,20CD9E60,extended,00FF00FF  
 patch=1,EE,20CD9E64,extended,00FF00FF
 patch=1,EE,10CD9E68,extended,000000FF
 
-[Cheats/Elegost Full Archery Skills] 
+//Cheats/Elegost Full Archery Skills
 patch=1,EE,423A82D0,extended,00080001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Elegost Full Ranger Skills] 
+//Cheats/Elegost Full Ranger Skills
 patch=1,EE,423A8314,extended,000E0001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Elegost Full Auto Skill] 
+//Cheats/Elegost Full Auto Skill
 patch=1,EE,423A8358,extended,000A0001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Hadhod Max EXP] 
+//Cheats/Hadhod Max EXP
 patch=1,EE,20CD8FF4,extended,02FAF080
 
-[Cheats/Hadhod Max Status Points] 
+//Cheats/Hadhod Max Status Points
 patch=1,EE,10CD8FFC,extended,0000270F
 
-[Cheats/Hadhod Max Status +255] 
+//Cheats/Hadhod Max Status +255
 patch=1,EE,20CD9000,extended,00FF00FF
 patch=1,EE,20CD9004,extended,00FF00FF
 patch=1,EE,10CD9008,extended,000000FF
 
-[Cheats/Hadhod Full Axe Skills] 
+//Cheats/Hadhod Full Axe Skills
 patch=1,EE,423A84BC,extended,000E0001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Hadhod Full Power Of The Spirit Skills] 
+//Cheats/Hadhod Full Power Of The Spirit Skills
 patch=1,EE,423A8500,extended,00080001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Hadhod Full Auto Skill] 
+//Cheats/Hadhod Full Auto Skill
 patch=1,EE,423A8544,extended,000A0001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Morwen Max EXP] 
+//Cheats/Morwen Max EXP
 patch=1,EE,20CD8194,extended,02FAF080
 
-[Cheats/Morwen Max Status Points] 
+//Cheats/Morwen Max Status Points
 patch=1,EE,10CD819C,extended,0000270F
 
-[Cheats/Morwen Max Status +255] 
+//Cheats/Morwen Max Status +255
 patch=1,EE,20CD81A0,extended,00FF00FF
 patch=1,EE,20CD81A4,extended,00FF00FF
 patch=1,EE,10CD81A8,extended,000000FF
 
-[Cheats/Morwen Full Dual swords Skills] 
+//Cheats/Morwen Full Dual swords Skills
 patch=1,EE,423A86A8,extended,000E0001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Morwen Fully Exploiting Theft Skills] 
+//Cheats/Morwen Fully Exploiting Theft Skills
 patch=1,EE,423A86EC,extended,00080001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Morwen Full Auto Skill] 
+//Cheats/Morwen Full Auto Skill
 patch=1,EE,423A8730,extended,000A0001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Eaoden Max EXP] 
+//Cheats/Eaoden Max EXP
 patch=1,EE,20CD7334,extended,02FAF080
 
-[Cheats/Eaoden Max Status Points] 
+//Cheats/Eaoden Max Status Points
 patch=1,EE,10CD733C,extended,0000270F
 
-[Cheats/Eaoden Max Status +255] 
+//Cheats/Eaoden Max Status +255
 patch=1,EE,20CD7340,extended,00FF00FF
 patch=1,EE,20CD7344,extended,00FF00FF
 patch=1,EE,10CD7348,extended,000000FF
 
-[Cheats/Eaoden Full Spear Skills] 
+//Cheats/Eaoden Full Spear Skills
 patch=1,EE,423A8894,extended,00070001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Eaoden Full Power Of The Spirit Skills] 
+//Cheats/Eaoden Full Power Of The Spirit Skills
 patch=1,EE,423A88D8,extended,000F0001
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/Eaoden Full Auto Skill] 
+//Cheats/Eaoden Full Auto Skill
 patch=1,EE,423A891C,extended,000A0001
 patch=1,EE,000000FF,extended,00000000

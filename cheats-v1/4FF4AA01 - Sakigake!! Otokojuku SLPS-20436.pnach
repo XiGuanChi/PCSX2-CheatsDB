@@ -1,16 +1,16 @@
-[Cheats/Player 1 Character 1 Infinite Health] 
+//Cheats/Player 1 Character 1 Infinite Health
 patch=1,EE,2027A278,extended,00002710
 patch=1,EE,2027A620,extended,00002710
 
-[Cheats/Player 1 Character 2 Infinite Health] 
+//Cheats/Player 1 Character 2 Infinite Health
 patch=1,EE,2027AD58,extended,00002710
 patch=1,EE,2027B100,extended,00002710
 
-[Cheats/Player 1 Character 3 Infinite Health] 
+//Cheats/Player 1 Character 3 Infinite Health
 patch=1,EE,2027B838,extended,00002710
 patch=1,EE,2027BBE0,extended,00002710
 
-[Cheats/Unlock All Characters & Viewing] 
+//Cheats/Unlock All Characters & Viewing
 patch=1,EE,20347AF0,extended,FFFFFFFF
 patch=1,EE,20347AF4,extended,FFFFFFFF
 patch=1,EE,20357AF8,extended,001FFFFF

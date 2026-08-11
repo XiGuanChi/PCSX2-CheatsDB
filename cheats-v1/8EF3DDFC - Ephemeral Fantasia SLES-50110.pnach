@@ -1,25 +1,25 @@
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,203E6504,extended,0098967F
 patch=1,EE,203E650C,extended,0098967F
 patch=1,EE,20661D5C,extended,0098967F
 
-[Cheats/Infinite Health Mouse] 
+//Cheats/Infinite Health Mouse
 patch=1,EE,10660EDA,extended,0000270F
 patch=1,EE,10660EDC,extended,0000270F
 
-[Cheats/Infinite Mana Mouse] 
+//Cheats/Infinite Mana Mouse
 patch=1,EE,10660EDE,extended,0000270F
 patch=1,EE,10660EE0,extended,0000270F
 
-[Cheats/Infinite Health Rummy] 
+//Cheats/Infinite Health Rummy
 patch=1,EE,10660F0C,extended,0000270F
 patch=1,EE,10660F0E,extended,0000270F
 
-[Cheats/Infinite Mana Rummy] 
+//Cheats/Infinite Mana Rummy
 patch=1,EE,10660F10,extended,0000270F
 patch=1,EE,10660F12,extended,0000270F
 
-[Cheats/In Battle Infinite health and Mana Have Character Health codes on] 
+//Cheats/In Battle Infinite health and Mana Have Character Health codes on
 patch=1,EE,103C0C10,extended,0000270F
 patch=1,EE,103C0C14,extended,0000270F
 patch=1,EE,103C0C18,extended,0000270F
@@ -27,7 +27,7 @@ patch=1,EE,103C0C20,extended,0000270F
 patch=1,EE,103C0C24,extended,0000270F
 patch=1,EE,103C0C28,extended,0000270F
 
-[Cheats/Open All Map] 
+//Cheats/Open All Map
 patch=1,EE,10660958,extended,0000FFFF
 patch=1,EE,1066095A,extended,0000FFFF
 patch=1,EE,1066095C,extended,0000FFFF

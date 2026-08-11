@@ -1,32 +1,32 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C0220,extended,AC430054
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AFA30140
 patch=1,EE,202a6d50,extended,0C030088
 patch=1,EE,202a6d54,extended,240301F4
 
-[Cheats/Infinite Health ALT] 
+//Cheats/Infinite Health ALT
 patch=1,EE,202a6d50,extended,240301F4
 patch=1,EE,202a6d54,extended,AC430054
 patch=1,EE,202a6d58,extended,AFA30140
 
-[Cheats/Infinite Funds] 
+//Cheats/Infinite Funds
 patch=1,EE,202750c0,extended,2402ad9c
 patch=1,EE,202750c4,extended,00000000
 
-[Cheats/Max Points] 
+//Cheats/Max Points
 patch=1,EE,20275154,extended,24022222
 patch=1,EE,20275158,extended,00000000
 
-[Cheats/No Hull Damage] 
+//Cheats/No Hull Damage
 patch=1,EE,20297880,extended,0803FFC0
 patch=1,EE,200FFF00,extended,2412270F
 patch=1,EE,200FFF04,extended,AC520054
 patch=1,EE,200FFF08,extended,080A5E22
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,20316CFC,extended,00000000
 
-[Cheats/Instant Reload] 
+//Cheats/Instant Reload
 patch=1,EE,20329980,extended,2412270F
 patch=1,EE,20329984,extended,A612000E

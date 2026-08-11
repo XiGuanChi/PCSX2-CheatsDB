@@ -1,11 +1,11 @@
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,20178D94,extended,24820000
  
-[Cheats/Player PF ability change Exterior HP] 
+//Cheats/Player PF ability change Exterior HP
 patch=1,EE,20BDC02C,extended,0000270f
 
-[Cheats/Player PF ability change Interior HP] 
+//Cheats/Player PF ability change Interior HP
 patch=1,EE,20BDC030,extended,0000270f
 
-[Cheats/Max EP] 
+//Cheats/Max EP
 patch=1,EE,10BDC034,extended,0000270f

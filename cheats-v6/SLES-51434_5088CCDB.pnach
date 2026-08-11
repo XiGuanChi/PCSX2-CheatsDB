@@ -1,34 +1,34 @@
 gametitle=Silent Hill 3 SLES-51434 5088CCDB
 
-[Infinite Health]
+//Infinite Health
 author=GamingDragon93
 patch=1,EE,2044836C,extended,42C80000
 patch=1,EE,20448374,extended,42C80000
 
-[One Hit kill]
+//One Hit kill
 author=GamingDragon93
 patch=1,EE,2022F39C,extended,AC8001A4
 patch=1,EE,2022F3A0,extended,AC80019C
 
-[Infinite Ammo]
+//Infinite Ammo
 author=GamingDragon93
 patch=1,EE,2016DB88,extended,00000000
 
-[Never Exhausted]
+//Never Exhausted
 author=GamingDragon93
 patch=1,EE,20196E00,extended,00000000
 patch=1,EE,20198420,extended,00000000
 patch=1,EE,20196CD0,extended,00000000
 
-[All maps available]
+//All maps available
 author=GamingDragon93
 patch=1,EE,202D1E40,extended,24030001
 patch=1,EE,202D1E68,extended,24020001
 
-[Unlock Extra options/Bullet X]
+//Unlock Extra options/Bullet X
 author=GamingDragon93
 patch=1,EE,01CFB924,extended,00000005
 
-[All Weapons]
+//All Weapons
 author=GamingDragon93
 patch=1,EE,21CA5460,extended,FFFFFFFE

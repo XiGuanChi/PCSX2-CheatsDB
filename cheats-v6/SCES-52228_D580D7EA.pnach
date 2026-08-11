@@ -1,32 +1,32 @@
 gametitle=Forbidden Siren PAL-G SCES-52228 D580D7EA
 
-[Invincible Main Character]
+//Invincible Main Character
 author=GamingDragon93
 patch=1,EE,2019908C,extended,10000168
 
-[Infinite Ammo]
+//Infinite Ammo
 author=GamingDragon93
 patch=1,EE,20162590,extended,00000000
 
-[Enemies 1 Hit KO]
+//Enemies 1 Hit KO
 author=GamingDragon93
 patch=1,EE,201599A8,extended,24030000
 
-[Invincible NPCs]
+//Invincible NPCs
 author=GamingDragon93
 patch=1,EE,201599BC,extended,080567A2
 
-[Disable AI]
+//Disable AI
 description=Kann Missionen kaputtmachen. Nur bei Bedarf aktivieren.
 author=GamingDragon93
 patch=1,EE,201550D4,extended,10000016
 
-[60 Hertz / PAL 60 Test]
+//60 Hertz / PAL 60 Test
 description=Aus PAL-PNACH-Varianten übernommen. Falls Bild/Speed spinnt, deaktivieren.
 author=GamingDragon93
 patch=1,EE,20103188,extended,24120002
 
-[Archives Opened Test]
+//Archives Opened Test
 description=Aus PAL-PNACH-Varianten übernommen. Falls Saves/Archive spinnen, deaktivieren.
 author=GamingDragon93
 patch=1,EE,201F91DC,extended,240A0001

@@ -1,22 +1,22 @@
-[Cheats/P1 Only Has Finisher] 
+//Cheats/P1 Only Has Finisher
 patch=1,EE,200FFF20,extended,081354B0
 patch=1,EE,2028C278,extended,0C03FFC0
 patch=1,EE,200FFF00,extended,14110002
 patch=1,EE,200FFF04,extended,3C013F80
 patch=1,EE,200FFF08,extended,AC810088
 
-[Cheats/Career Max Stats] 
+//Cheats/Career Max Stats
 patch=1,EE,2036D214,extended,3C016363
 patch=1,EE,2036D218,extended,34216363
 patch=1,EE,2036D21C,extended,AC410000
 patch=1,EE,2036D220,extended,AC410004
 
-[Cheats/Disable AI L3 Disable, R3 Restart] 
+//Cheats/Disable AI L3 Disable, R3 Restart
 patch=1,EE,D1CAA102,extended,0000FFFD
 patch=1,EE,205D1C60,extended,24020000
 patch=1,EE,D1CAA102,extended,0000FFFB
 patch=1,EE,205D1C60,extended,2C420001
 
-[Cheats/Unlock All Characters]  
+//Cheats/Unlock All Characters
 patch=1,EE,201D5A78,extended,24020001
 patch=1,EE,201D5A7C,extended,24020001

@@ -1,14 +1,14 @@
-[Cheats/P1 Max Money]  
+//Cheats/P1 Max Money
 patch=1,EE,2038E410,extended,3B9AC9FF
 
-[Cheats/P1 Max Points Points will not be displayed unless you have a point card] 
+//Cheats/P1 Max Points Points will not be displayed unless you have a point card
 patch=1,EE,2038E41C,extended,3B9AC9FF 
 
-[Cheats/P2 Money 0] 
+//Cheats/P2 Money 0
 patch=1,EE,2038E47C,extended,C4653601
 
-[Cheats/P3 Money 0] 
+//Cheats/P3 Money 0
 patch=1,EE,2038E4E8,extended,C4653601
 
-[Cheats/P4 Money 0] 
+//Cheats/P4 Money 0
 patch=1,EE,2038E554,extended,C4653601

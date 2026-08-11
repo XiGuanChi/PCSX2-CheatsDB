@@ -1,31 +1,31 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,201CD20C,extended,32220010
 patch=1,EE,201CD210,extended,1040000D
 patch=1,EE,201CD214,extended,1490000B
 patch=1,EE,201CD218,extended,00000000
 patch=1,EE,201CD244,extended,A4A30040
 
-[Cheats/UMax EP] 
+//Cheats/UMax EP
 patch=1,EE,109F06DA,extended,0000270F
 
-[Cheats/Extra EP] 
+//Cheats/Extra EP
 patch=1,EE,109F06D8,extended,0000270F
 
-[Cheats/Infinite Sword Durability]  
+//Cheats/Infinite Sword Durability
 patch=1,EE,2016A100,extended,24003634
 
-[Cheats/Unlock All Difficulties, Heads & Clothes] 
+//Cheats/Unlock All Difficulties, Heads & Clothes
 patch=1,EE,2026CEE8,extended,3408FFFF
 patch=1,EE,2026CEEC,extended,0104082A
 patch=1,EE,2026CEF4,extended,AC680008
 
-[Cheats/Unlock All Heads & Clothes] 
+//Cheats/Unlock All Heads & Clothes
 patch=1,EE,109F05D8,extended,0000FFFF
 
-[Cheats/Unlock All Difficulties]  
+//Cheats/Unlock All Difficulties
 patch=1,EE,109F05DA,extended,00000064
 
-[Cheats/Special Enabler Must be on for most Codes] 
+//Cheats/Special Enabler Must be on for most Codes
 patch=1,EE,200C2000,extended,240107D0
 patch=1,EE,200C2004,extended,00000000
 patch=1,EE,200C2008,extended,86830042
@@ -46,32 +46,32 @@ patch=1,EE,200C207C,extended,240101F4
 patch=1,EE,200C20A0,extended,03E00008
 patch=1,EE,202335C8,extended,0C030814
 
-[Cheats/Unlimited Health] 
+//Cheats/Unlimited Health
 patch=1,EE,200C2010,extended,A6830040
 
-[Cheats/Sword Durability] 
+//Cheats/Sword Durability
 patch=1,EE,20169F50,extended,24003634
 
-[Cheats/Energy] 
+//Cheats/Energy
 patch=1,EE,200C202C,extended,A4820108
 
-[Cheats/Max Health] 
+//Cheats/Max Health
 patch=1,EE,200C2004,extended,A6810042
 
-[Cheats/Sword Durability alt] 
+//Cheats/Sword Durability alt
 patch=1,EE,20242604,extended,24110005
 patch=1,EE,20242608,extended,ACD10060
 
-[Cheats/Energy] 
+//Cheats/Energy
 patch=1,EE,200C2024,extended,A482010A
 
-[Cheats/Money] 
+//Cheats/Money
 patch=1,EE,200C2040,extended,2406270F
 patch=1,EE,200C2044,extended,080495F6
 patch=1,EE,200C2048,extended,A4460106
 patch=1,EE,2022AD1C,extended,0C030810
 
-[Cheats/Unlock Check Moves In Sword Status For All Moves] 
+//Cheats/Unlock Check Moves In Sword Status For All Moves
 patch=1,EE,200C205C,extended,AC610090
 patch=1,EE,200C2060,extended,AC610094
 patch=1,EE,200C2064,extended,AC610098

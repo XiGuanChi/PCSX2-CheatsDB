@@ -1,29 +1,29 @@
-[Cheats/Max Ace Point] 
+//Cheats/Max Ace Point
 patch=1,EE,20389DF4,extended,0098967F
 
-[Cheats/Max Proficiency After Increases] 
+//Cheats/Max Proficiency After Increases
 patch=1,EE,201C96CC,extended,24500000
 
-[Cheats/Max Unit Experience Value After Increases] 
+//Cheats/Max Unit Experience Value After Increases
 patch=1,EE,201C933C,extended,10000003
 
-[Cheats/Clear Mission And Achieve The Secret] 
+//Cheats/Clear Mission And Achieve The Secret
 patch=1,EE,201C72C4,extended,00000000
 
-[Cheats/99 Modules] 
+//Cheats/99 Modules
 patch=1,EE,20215FF8,extended,03E00008
 patch=1,EE,20215FFC,extended,A0220000
 patch=1,EE,20216014,extended,00A20821
 patch=1,EE,20216018,extended,080857FE
 patch=1,EE,2021601C,extended,24020063
 
-[Cheats/Unlock All Units Appear when viewing player units in sortie selection] 
+//Cheats/Unlock All Units Appear when viewing player units in sortie selection
 patch=1,EE,2021525C,extended,00A20821
 patch=1,EE,20215260,extended,24020002
 patch=1,EE,20215264,extended,03E00008
 patch=1,EE,20215268,extended,A0220010
 
-[Cheats/Max Unit Experience When Strengthening Units] 
+//Cheats/Max Unit Experience When Strengthening Units
 patch=1,EE,20215D88,extended,00430821
 patch=1,EE,20215D8C,extended,10000081
 patch=1,EE,20215D90,extended,3C020001
@@ -31,55 +31,55 @@ patch=1,EE,20215F94,extended,344286A0
 patch=1,EE,20215F98,extended,03E00008
 patch=1,EE,20215F9C,extended,AC220840
 
-[Cheats/Own Unit & Wingman Max Endurance] 
+//Cheats/Own Unit & Wingman Max Endurance
 patch=1,EE,202565D8,extended,03E00008
 patch=1,EE,202565DC,extended,AC8200D4
 patch=1,EE,2027B54C,extended,0C095975
 patch=1,EE,2027C7C4,extended,0C095975
 
-[Cheats/Max Own Vernier]  
+//Cheats/Max Own Vernier
 patch=1,EE,2027D334,extended,C48103D8
 patch=1,EE,2027D338,extended,0809EDA7
 patch=1,EE,2027D33C,extended,E48103D4
 patch=1,EE,2027B694,extended,0809F4CD
 
-[Cheats/Max Attack Power] 
+//Cheats/Max Attack Power
 patch=1,EE,20242EB4,extended,10000003
 patch=1,EE,20242EF4,extended,3C017000
 patch=1,EE,20242EF8,extended,AC410018
 
-[Cheats/Max Combination Gauge] 
+//Cheats/Max Combination Gauge
 patch=1,EE,202955BC,extended,E480001C
 patch=1,EE,202955C0,extended,46000803
 
-[Cheats/Max Chain Time After Increases] 
+//Cheats/Max Chain Time After Increases
 patch=1,EE,201C6810,extended,00000000
 
-[Cheats/Nanajin Lean Wings Automatic Activation] 
+//Cheats/Nanajin Lean Wings Automatic Activation
 patch=1,EE,202D2520,extended,24010001
 
-[Cheats/Layzner V Max Activation Endurance Limit Release] 
+//Cheats/Layzner V Max Activation Endurance Limit Release
 patch=1,EE,2023724C,extended,00000000
 
-[Cheats/Bilvine Aura Light Endurance Limit Release] 
+//Cheats/Bilvine Aura Light Endurance Limit Release
 patch=1,EE,2023615C,extended,00000000
 
-[Cheats/God Gundam Meikyo Shisui Automatic Activation] 
+//Cheats/God Gundam Meikyo Shisui Automatic Activation
 patch=1,EE,202ACE60,extended,E4620000
 
-[Cheats/Weapon Required Code] 
+//Cheats/Weapon Required Code
 patch=1,EE,2027BF8C,extended,0C03FC00
 patch=1,EE,2027C1F4,extended,0C03FC00
 patch=1,EE,200FF014,extended,03E00008 
 patch=1,EE,200FF018,extended,8446000E
 
-[Cheats/Max Weapon Ammo] 
+//Cheats/Max Weapon Ammo
 patch=1,EE,200FF000,extended,84460010
 patch=1,EE,200FF004,extended,A446000E
 
-[Cheats/Weapon Reload Time 0] 
+//Cheats/Weapon Reload Time 0
 patch=1,EE,200FF008,extended,3C013000 
 patch=1,EE,200FF00C,extended,AC410004
 
-[Cheats/Weapon Can Fire Continuously] 
+//Cheats/Weapon Can Fire Continuously
 patch=1,EE,200FF010,extended,AC400000

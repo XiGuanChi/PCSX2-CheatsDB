@@ -1,15 +1,15 @@
-[Cheats/Max Coins 255] 
+//Cheats/Max Coins 255
 patch=1,EE,20233160,extended,000000FF
 
-[Cheats/Unlock All Extra] 
+//Cheats/Unlock All Extra
 patch=1,EE,002331AC,extended,00000001
 patch=1,EE,002331B4,extended,00000001
 
-[Cheats/Unlock All Gallery] 
+//Cheats/Unlock All Gallery
 patch=1,EE,40233954,extended,00160001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All CG] 
+//Cheats/Unlock All CG
 patch=1,EE,402331D7,extended,00210001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,40233260,extended,00850001
@@ -21,7 +21,7 @@ patch=1,EE,01010101,extended,00000000
 patch=1,EE,402336CD,extended,00450001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,202331AC,extended,00000001
 patch=1,EE,202331B0,extended,00000001
 patch=1,EE,202331B4,extended,00000001

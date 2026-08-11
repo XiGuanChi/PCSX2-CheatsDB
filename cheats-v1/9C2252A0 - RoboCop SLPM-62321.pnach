@@ -1,26 +1,26 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20223890,extended,03E00008
 patch=1,EE,20223894,extended,00000000
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,20200C68,extended,00000000
 patch=1,EE,20200768,extended,240203E8
 
-[Cheats/No reload] 
+//Cheats/No reload
 patch=1,EE,2020076C,extended,00000000
 
-[Cheats/Infinite bullets] 
+//Cheats/Infinite bullets
 patch=1,EE,20200C68,extended,00000000
 patch=1,EE,20200768,extended,240203E8
 
-[Cheats/Infinite bullets & no reload] 
+//Cheats/Infinite bullets & no reload
 patch=1,EE,20472604,extended,00000001
 
-[Cheats/Weapon super rapid fire] 
+//Cheats/Weapon super rapid fire
 patch=1,EE,20200704,extended,00000000
 patch=1,EE,2020074C,extended,00000000
 
-[Cheats/Don't go to Glenade] 
+//Cheats/Don't go to Glenade
 patch=1,EE,202013F8,extended,00000000
 patch=1,EE,202013F4,extended,24030009
 

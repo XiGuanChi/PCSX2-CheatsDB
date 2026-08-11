@@ -1,6 +1,6 @@
 gametitle=Aliens in the Attic PAL-M SLES-55532 3AAD52A4
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start. FMVs remain in PAL.
 patch=1,EE,003EED10,word,0000003C //00000032

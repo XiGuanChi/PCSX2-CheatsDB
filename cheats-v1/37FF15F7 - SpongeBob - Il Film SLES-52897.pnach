@@ -1,25 +1,25 @@
-[Cheats/Invulnerable And Can Walk On Water] 
+//Cheats/Invulnerable And Can Walk On Water
 patch=1,EE,2032B800,extended,00000000
 patch=1,EE,20333DB4,extended,1000005A
 
-[Cheats/Take One Gym Weight To Have One Upgrade Point] 
+//Cheats/Take One Gym Weight To Have One Upgrade Point
 patch=1,EE,20304F10,extended,00000000
 
-[Cheats/Jump Higher]  
+//Cheats/Jump Higher
 patch=1,EE,207AD7FC,extended,412CB23D
 patch=1,EE,207ADC6C,extended,41411668
 
-[Cheats/Jump In Midair] 
+//Cheats/Jump In Midair
 patch=1,EE,207AE528,extended,00000000
 
-[Cheats/Jump In Midair with slow descent] 
+//Cheats/Jump In Midair with slow descent
 patch=1,EE,203F83F0,extended,24061F01
 
 Cheats/Jump Much Higher] 
 patch=1,EE,207AD7FC,extended,41A6591F
 patch=1,EE,207ADC6C,extended,41B08B34
 
-[Cheats/Fly Mode Activate Press R3+Select Deactivate L3+Select Move normally go up and down with triangle and square] 
+//Cheats/Fly Mode Activate Press R3+Select Deactivate L3+Select Move normally go up and down with triangle and square
 patch=1,EE,D07C07C2,extended,0000FFFA
 patch=1,EE,007AEA48,extended,00000001
 patch=1,EE,D07C07C2,extended,0000FFFC

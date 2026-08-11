@@ -1,59 +1,59 @@
 gametitle=Alone in the Dark 4 - The New Nightmare PAL-M5 SLES-50185 1E811D9A
 
-[All Items Available]
+//All Items Available
 author=Codejunkies
 description=Alle Items verfuegbar. Bei Problemen einzeln deaktivieren.
 patch=1,EE,20258E68,extended,24020035
 
-[All Weapons, Items, Infinite Health And Ammo]
+//All Weapons, Items, Infinite Health And Ammo
 author=Codejunkies
 description=Starker Sammelcheat: Waffen, Items, unendlich Leben und Munition. Nicht mit einzelnen Health/Ammo-Cheats kombinieren, wenn es Bugs gibt.
 patch=1,EE,20264678,extended,2402FFFF
 patch=1,EE,20264684,extended,2402FFFF
 
-[God Mode]
+//God Mode
 author=Codejunkies
 description=God Mode. Falls Zwischensequenzen oder Events spinnen, deaktivieren.
 patch=1,EE,2024BA68,extended,24030015
 
-[Infinite Ammo - Guns]
+//Infinite Ammo - Guns
 author=Codejunkies
 description=Unendlich Munition fuer Waffen.
 patch=1,EE,2025F1D4,extended,00000000
 
-[Infinite Health]
+//Infinite Health
 author=InterAct
 description=Unendlich Leben fuer spielbare Charaktere.
 patch=1,EE,10BCB58C,extended,00000064
 patch=1,EE,10BCB6CC,extended,00000064
 
-[Infinite Revolver Ammo]
+//Infinite Revolver Ammo
 author=InterAct
 description=Unendlich Revolver-Munition.
 patch=1,EE,10BCB77C,extended,00000012
 patch=1,EE,10BCB8BC,extended,00000012
 
-[Beacon Carnby]
+//Beacon Carnby
 author=InterAct
 description=Extra/Debug-Cheat fuer Carnby. Nur nutzen, wenn du ihn wirklich brauchst.
 patch=1,EE,10ACF3C8,extended,00000001
 
-[Can't Turn Torch Off]
+//Can't Turn Torch Off
 author=InterAct
 description=Taschenlampe bleibt an.
 patch=1,EE,10BCB584,extended,00000001
 
-[Carnby Ready To Run]
+//Carnby Ready To Run
 author=InterAct
 description=Carnby laeuft/ist bereit zu rennen.
 patch=1,EE,10BD7F5C,extended,00000008
 
-[Cyborg Eyes Carnby]
+//Cyborg Eyes Carnby
 author=InterAct
 description=Extra Effekt fuer Carnby.
 patch=1,EE,1069DF08,extended,00000001
 
-[Master Code - Only If Needed]
+//Master Code - Only If Needed
 author=InterAct
 description=Normalerweise in PCSX2 nicht noetig. Nur aktivieren, falls einzelne Cheats nicht greifen.
 patch=1,EE,F02FD144,extended,000001FD

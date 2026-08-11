@@ -1,7 +1,7 @@
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,21F0EDE4,extended,0000FFFF
 
-[Cheats/Infinite Nitro] 
+//Cheats/Infinite Nitro
 patch=1,EE,200C0220,extended,3C01437A
 patch=1,EE,200C0224,extended,AC41000C
 patch=1,EE,200C0228,extended,AC410010
@@ -9,31 +9,31 @@ patch=1,EE,200C022C,extended,03E00008
 patch=1,EE,200C0230,extended,C441000C
 patch=1,EE,201C6468,extended,0C030088
 
-[Cheats/No Checkpoint Timer]  
+//Cheats/No Checkpoint Timer
 patch=1,EE,201337B0,extended,03E00008
 patch=1,EE,201337B4,extended,00000000
 
-[Cheats/Disable Fail Ztates]  
+//Cheats/Disable Fail Ztates
 patch=1,EE,20132C78,extended,03E00008
 patch=1,EE,20132C7C,extended,00000000
 
-[Cheats/Skip Mission By Increasing Speech Volume]  
+//Cheats/Skip Mission By Increasing Speech Volume
 patch=1,EE,2016E834,extended,0C05B85A
 
-[Cheats/No Damage First Car Only]  
+//Cheats/No Damage First Car Only
 patch=1,EE,20EA0808,extended,00000000
 
-[Cheats/100% Accuracy]  
+//Cheats/100% Accuracy
 patch=1,EE,2029C454,extended,00000064
 
-[Cheats/Have All Cars] 
+//Cheats/Have All Cars
 patch=1,EE,40311784,extended,00330001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Have All Toys and Levels] 
+//Cheats/Have All Toys and Levels
 patch=1,EE,4031171C,extended,00180001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Max % Complete All Levels] 
+//Cheats/Max % Complete All Levels
 patch=1,EE,40311444,extended,001D0001
 patch=1,EE,00000064,extended,00000000

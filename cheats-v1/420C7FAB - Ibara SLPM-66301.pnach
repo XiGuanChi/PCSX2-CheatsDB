@@ -1,23 +1,23 @@
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,2012A8DC,extended,10000016
 patch=1,EE,2012AB74,extended,1000001A
 
-[Cheats/1P Infinite lives]
+//Cheats/1P Infinite lives
 patch=1,EE,0044C5DA,extended,00000005
 
-[Cheats/1P Infinite Bombs] 
+//Cheats/1P Infinite Bombs
 patch=1,EE,0044C5DD,extended,00000004
 patch=1,EE,0044C5DE,extended,00000028
 
-[Cheats/1P Max Score] 
+//Cheats/1P Max Score
 patch=1,EE,2044C600,extended,3B9AC9FF
 
-[Cheats/2P Infinite Lives] 
+//Cheats/2P Infinite Lives
 patch=1,EE,0044C86A,extended,00000005
 
-[Cheats/2P Infinite Bombs] 
+//Cheats/2P Infinite Bombs
 patch=1,EE,0044C86D,extended,00000004
 patch=1,EE,0044C86E,extended,00000028w
 
-[Cheats/2P Max Score] 
+//Cheats/2P Max Score
 patch=1,EE,2044C890,extended,3B9AC9FF

@@ -1,56 +1,56 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,D080A76C,extended,02000001
 patch=1,EE,6080F958,extended,3B9AC9FF
 patch=1,EE,00020000,extended,00000BE0
 
-[Cheats/Infinite Health On Foot] 
+//Cheats/Infinite Health On Foot
 patch=1,EE,2039E9BC,extended,C4820184
 patch=1,EE,2039E9C4,extended,E4820180
 
-[Cheats/Infinite Health In Car] 
+//Cheats/Infinite Health In Car
 patch=1,EE,20537EA8,extended,3C0142C8
 patch=1,EE,20537EB8,extended,AE610080
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,203CE77C,extended,00000000
 
-[Cheats/Extra Ammo] 
+//Cheats/Extra Ammo
 patch=1,EE,203CE774,extended,00511021
 
-[Cheats/Never Reload] 
+//Cheats/Never Reload
 patch=1,EE,203D03F4,extended,00000000
 
-[Cheats/Less Vehicle Damage] 
+//Cheats/Less Vehicle Damage
 patch=1,EE,20380CB0,extended,03E00008
 patch=1,EE,20380CB4,extended,00000000
 
-[Cheats/Vehicles Never Locked] 
+//Cheats/Vehicles Never Locked
 patch=1,EE,20380AB0,extended,03E00008
 patch=1,EE,20380AB4,extended,24020000
 
-[Cheats/Visibility Never Increases] 
+//Cheats/Visibility Never Increases
 patch=1,EE,20475BE0,extended,00000000
 
-[Cheats/Cop Heat Never Increases] 
+//Cheats/Cop Heat Never Increases
 patch=1,EE,20475980,extended,03E00008
 patch=1,EE,20475984,extended,00000000
 
-[Cheats/Always Gain Balls] 
+//Cheats/Always Gain Balls
 patch=1,EE,1081C6DC,extended,00000064
 
-[Cheats/P1 Press L1+Up To Increase Balls P1 Press L1+Down To Decrease Balls] 
+//Cheats/P1 Press L1+Up To Increase Balls P1 Press L1+Down To Decrease Balls
 patch=1,EE,D0842502,extended,0000FBEF
 patch=1,EE,1081C6DC,extended,0000000A
 patch=1,EE,D0842502,extended,0000FFFF
 patch=1,EE,1081C6DC,extended,00000000
 
-[Cheats/Press R1+Up To Increase Cop Heat Press R1+Down To Decrease Cop Heat] 
+//Cheats/Press R1+Up To Increase Cop Heat Press R1+Down To Decrease Cop Heat
 patch=1,EE,D0842502,extended,0000F7EF
 patch=1,EE,1081C6DE,extended,0000000A
 patch=1,EE,D0842502,extended,0000FFFF
 patch=1,EE,1081C6DE,extended,00000000
 
-[Cheats/Press R2+Up To Increase Gang Heat Press R2+Down To Decrease Gang Heat]
+//Cheats/Press R2+Up To Increase Gang Heat Press R2+Down To Decrease Gang Heat
 patch=1,EE,D0842502,extended,0000FDEF
 patch=1,EE,1081C6E0,extended,00000001
 patch=1,EE,D0842502,extended,0000FFFF

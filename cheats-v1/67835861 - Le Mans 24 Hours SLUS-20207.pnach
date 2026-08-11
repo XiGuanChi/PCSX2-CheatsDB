@@ -1,11 +1,11 @@
-[Cheats/Idiot AI] 
+//Cheats/Idiot AI
 patch=1,EE,20135A80,extended,03E00008
 patch=1,EE,20135A84,extended,00000000
 
-[Cheats/Always Good Tires] 
+//Cheats/Always Good Tires
 patch=1,EE,20214A70,extended,03E00008
 patch=1,EE,20214A74,extended,00000000
 
-[Cheats/Infinite Fuel] 
+//Cheats/Infinite Fuel
 patch=1,EE,20215350,extended,03E00008
 patch=1,EE,20215354,extended,00000000

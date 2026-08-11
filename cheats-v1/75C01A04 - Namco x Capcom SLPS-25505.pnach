@@ -1,28 +1,28 @@
-[Cheats/Infinite Money 99999999] 
+//Cheats/Infinite Money 99999999
 patch=1,EE,20999394,extended,05F5E0FF
 
-[Cheats/Start Battle HP 99999] 
+//Cheats/Start Battle HP 99999
 patch=1,EE,20999DA4,extended,0001869F
 patch=1,EE,20999DA8,extended,0001869F
 
-[Cheats/Equipped with All Possession] 
+//Cheats/Equipped with All Possession
 patch=1,EE,409994DD,extended,00130001
 patch=1,EE,63636363,extended,00000000
 
-[Cheats/In Battle HP 65535] 
+//Cheats/In Battle HP 65535
 patch=1,EE,1053B188,extended,0000FFFF
 patch=1,EE,1053B18C,extended,0000FFFF
 
-[Cheats/In Battle Enemy HP 0] 
+//Cheats/In Battle Enemy HP 0
 patch=1,EE,2053AA9C,extended,00000000
 
-[Cheats/Unlock Select to the next stage From The Stage Preparation Screen] 
+//Cheats/Unlock Select to the next stage From The Stage Preparation Screen
 patch=1,EE,2019C040,extended,24050037
 
-[Cheats/Unlock Clear Option added to the options music mode and dice dojo appearance] 
+//Cheats/Unlock Clear Option added to the options music mode and dice dojo appearance
 patch=1,EE,20379870,extended,00000001
 
-[Cheats/Unlock All Options, Music and Dice Dojo Appearance] 
+//Cheats/Unlock All Options, Music and Dice Dojo Appearance
 patch=1,EE,20308148,extended,24010001
 patch=1,EE,2030814C,extended,AC810170
 patch=1,EE,203081F8,extended,24010001

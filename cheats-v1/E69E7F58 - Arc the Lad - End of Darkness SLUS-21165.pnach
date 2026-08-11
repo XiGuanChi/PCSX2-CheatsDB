@@ -1,27 +1,27 @@
-[Cheats/Infinite Gold] 
+//Cheats/Infinite Gold
 patch=1,EE,1029D3B0,extended,0000FFFF
 
-[Cheats/Max HP In Battle] 
+//Cheats/Max HP In Battle
 patch=1,EE,2011E1C0,extended,2410270F
 
-[Cheats/Infinite Hp In Battle] 
+//Cheats/Infinite Hp In Battle
 patch=1,EE,200C0220,extended,2404270F
 patch=1,EE,200C0224,extended,08041946
 patch=1,EE,200C0228,extended,A6240270
 patch=1,EE,201CF260,extended,0C030088
 
-[Cheats/Unlock All Ability Cards View Equip Cards To Activate] 
+//Cheats/Unlock All Ability Cards View Equip Cards To Activate
 patch=1,EE,2011F85C,extended,240200E3
 patch=1,EE,2011F860,extended,A1A20000
 patch=1,EE,2011F8C8,extended,1560FFE4
 
-[Cheats/Unlock All Parts Cards View Equip Cards To Activate]  
+//Cheats/Unlock All Parts Cards View Equip Cards To Activate
 patch=1,EE,200C2010,extended,240200E3
 patch=1,EE,200C2014,extended,0804809F
 patch=1,EE,200C2018,extended,A1420000
 patch=1,EE,20120278,extended,08030804
 
-[Cheats/Debug Menu To activat press R2 and triangle. If you don't press R2, normal menu will load instead.] 
+//Cheats/Debug Menu To activat press R2 and triangle. If you don't press R2, normal menu will load instead.
 patch=1,EE,2012B088,extended,00000000
 patch=1,EE,201168AC,extended,00000000
 

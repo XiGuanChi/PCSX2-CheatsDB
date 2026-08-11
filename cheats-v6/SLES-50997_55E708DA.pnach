@@ -1,6 +1,6 @@
 gametitle=Rally Fusion - Race of Champions PAL-M SLES-50997 55E708DA
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,002D8110,word,00000000

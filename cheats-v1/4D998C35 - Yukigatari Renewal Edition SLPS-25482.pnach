@@ -1,17 +1,17 @@
-[Cheats/Unlock All EV CG] 
+//Cheats/Unlock All EV CG
 patch=1,EE,2039BED4,extended,FFFFFFFF
 patch=1,EE,2039BED8,extended,FFFFFFFF
 patch=1,EE,2039BEDC,extended,FFFFFFFF
 patch=1,EE,2039BEE0,extended,FFFFFFFF
 patch=1,EE,0039BEE4,extended,000000FF
 
-[Cheats/Unlock Omake Scenario] 
+//Cheats/Unlock Omake Scenario
 patch=1,EE,2039BED0,extended,FFFFFFFF
 
-[Cheats/Unlock All Bonus]  
+//Cheats/Unlock All Bonus
 patch=1,EE,4039BED0,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/New Game = Debug Menu Normal Start Starts the game normally. Debug Mode Starts a new game with seemingly no change. Debug Mode 2 Allows selecting flags to set. Scenario Opens a menu that allows scenes to choose from. Bonus Scenario Starts an extra story] 
+//Cheats/New Game = Debug Menu Normal Start Starts the game normally. Debug Mode Starts a new game with seemingly no change. Debug Mode 2 Allows selecting flags to set. Scenario Opens a menu that allows scenes to choose from. Bonus Scenario Starts an extra story
 patch=1,EE,213324C4,extended,42454403
 patch=1,EE,113324C8,extended,00004755

@@ -1,4 +1,4 @@
-[Cheats/Unlock All Extra] 
+//Cheats/Unlock All Extra
 patch=1,EE,402407FC,extended,00080001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,4024149C,extended,00050001
@@ -8,5 +8,5 @@ patch=1,EE,202414BC,extended,FFFFFFFF
 patch=1,EE,002414C0,extended,000000FF
 patch=1,EE,002414B2,extended,000000FF
 
-[Cheats/New Game = Debug Menu Scene Select Menuhis allows viewing of all scenes in the game] 
+//Cheats/New Game = Debug Menu Scene Select Menuhis allows viewing of all scenes in the game
 patch=1,EE,2014EA94,extended,24040001

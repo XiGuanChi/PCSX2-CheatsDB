@@ -1,10 +1,10 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,2029E040,extended,05F00000
 
-[Cheats/Laharl Max Hp]  
+//Cheats/Laharl Max Hp
 patch=1,EE,2029F010,extended,0098967F
 patch=1,EE,2029F018,extended,0098967F
 
-[Cheats/Laharl Max Sp]  
+//Cheats/Laharl Max Sp
 patch=1,EE,2029F014,extended,0098967F
 patch=1,EE,2029F01C,extended,0098967F

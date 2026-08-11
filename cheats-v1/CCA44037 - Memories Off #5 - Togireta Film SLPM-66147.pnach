@@ -1,8 +1,8 @@
-[Cheats/Unlock All Albums - Music, Characters, and Prints can also be viewed] 
+//Cheats/Unlock All Albums - Music, Characters, and Prints can also be viewed
 patch=1,EE,40539850,extended,00280001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Initial Start = Debug Menu This menu contains various options to view background images, event images, and unlock certain options. It also contains various route select options.Next page Next page. Start from the beginning Starts a new game. Quick start Sends you to the title screen.Run file Event select menu.System Flag Settings Has no menu options.Local Flag Settings Unknown.Hide option settings Presumably hides hidden options of some sort.Return to title Returns to the title screen.] 
+//Cheats/Initial Start = Debug Menu This menu contains various options to view background images, event images, and unlock certain options. It also contains various route select options.Next page Next page. Start from the beginning Starts a new game. Quick start Sends you to the title screen.Run file Event select menu.System Flag Settings Has no menu options.Local Flag Settings Unknown.Hide option settings Presumably hides hidden options of some sort.Return to title Returns to the title screen.
 patch=1,EE,D0D5158A,extended,00000003
 patch=1,EE,10D5158A,extended,00000004
 

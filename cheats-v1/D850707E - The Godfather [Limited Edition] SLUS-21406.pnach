@@ -1,36 +1,36 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,2063E868,extended,05F5E0FF
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,20156C44,extended,00000000
 
-[Cheats/Bo Reload] 
+//Cheats/Bo Reload
 patch=1,EE,201582BC,extended,24420000
 
-[Cheats/L1+L2 Max Skill Points] 
+//Cheats/L1+L2 Max Skill Points
 patch=1,EE,D0665C82,extended,0000FAFF
 patch=1,EE,218085E8,extended,42C80000
 
-[Cheats/Activator Must Be On] 
+//Cheats/Activator Must Be On
 patch=1,EE,200A0000,extended,3C020066
 patch=1,EE,200A0004,extended,8C424308
 patch=1,EE,200A0008,extended,10400004
 patch=1,EE,200A001C,extended,03E00008
 patch=1,EE,204D2D5C,extended,08028000
 
-[Cheats/Infinite Health Use activator above for this code to work] 
+//Cheats/Infinite Health Use activator above for this code to work
 patch=1,EE,200A0010,extended,8C43104C
 patch=1,EE,200A0014,extended,AC431048
 
-[Cheats/Max Health Level] 
+//Cheats/Max Health Level
 patch=1,EE,200F0020,extended,D5FC1905
 patch=1,EE,200F0024,extended,41200000
 
-[Cheats/Infinite Vehicle Health] 
+//Cheats/Infinite Vehicle Health
 patch=1,EE,2025DB58,extended,03E00008
 patch=1,EE,2025DB5C,extended,00000000
 
-[Cheats/One Hit Kill] 
+//Cheats/One Hit Kill
 patch=1,EE,20239BCC,extended,0802B000
 patch=1,EE,200AC000,extended,3C080070
 patch=1,EE,200AC004,extended,35087460
@@ -46,56 +46,56 @@ patch=1,EE,200AC028,extended,0808E6F4
 patch=1,EE,200AC02C,extended,00000000
 patch=1,EE,200AC030,extended,52C80000
 
-[Cheats/Infinite Thrown Ammo] 
+//Cheats/Infinite Thrown Ammo
 patch=1,EE,20176F10,extended,00000000
 
-[Cheats/Disable Timer For Mob Wars] 
+//Cheats/Disable Timer For Mob Wars
 patch=1,EE,2016BAA0,extended,03E00008
 patch=1,EE,2016BAA4,extended,00000000
 
-[Cheats/Infinite Mission Time] 
+//Cheats/Infinite Mission Time
 patch=1,EE,20162BD0,extended,240603E8
 
-[Cheats/Max Fighting Level] 
+//Cheats/Max Fighting Level
 patch=1,EE,200F0010,extended,01F24959
 patch=1,EE,200F0014,extended,41200000
 
-[Cheats/Max Respect Level] 
+//Cheats/Max Respect Level
 patch=1,EE,200F0000,extended,C96BA6EB
 patch=1,EE,200F0004,extended,42480000
 
-[Cheats/Max Shooting Level] 
+//Cheats/Max Shooting Level
 patch=1,EE,200F0018,extended,57B16748
 patch=1,EE,200F001C,extended,41200000
 
-[Cheats/Max Skill Points] 
+//Cheats/Max Skill Points
 patch=1,EE,200F0008,extended,48EA4531
 patch=1,EE,200F000C,extended,4CBEBC20
 
-[Cheats/Max Speed Level] 
+//Cheats/Max Speed Level
 patch=1,EE,20B058E0,extended,B41CBE41
 patch=1,EE,20B058E4,extended,B41CBE41
 
-[Cheats/Max Street Smarts Level] 
+//Cheats/Max Street Smarts Level
 patch=1,EE,200F0030,extended,D878E3E4
 patch=1,EE,200F0034,extended,41200000
 
-[Cheats/Own All Safehouses] 
+//Cheats/Own All Safehouses
 patch=1,EE,200F0040,extended,4E6A0986
 patch=1,EE,200F0044,extended,41C00000
 
-[Cheats/Crack All Safes] 
+//Cheats/Crack All Safes
 patch=1,EE,200F0038,extended,AAFB4DC0
 patch=1,EE,200F003C,extended,42C80000
 
-[Cheats/Have All Execution Styles] 
+//Cheats/Have All Execution Styles
 patch=1,EE,200F0048,extended,6C6F8186
 patch=1,EE,200F004C,extended,41B00000
 
-[Cheats/Have All Film Feels Bonus] 
+//Cheats/Have All Film Feels Bonus
 patch=1,EE,200F0050,extended,D1515D40
 patch=1,EE,200F0054,extended,42C80000
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,21B6908C,extended,42C80000
 patch=1,EE,42C80000,extended,21B69190

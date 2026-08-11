@@ -1,46 +1,46 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,2070EE30,extended,000F423F
 patch=1,EE,2074C578,extended,000F423F
 
-[Cheats/Max Origin]   
+//Cheats/Max Origin
 patch=1,EE,2074C580,extended,0000270F
 
-[Cheats/Max Small Experience Value]   
+//Cheats/Max Small Experience Value
 patch=1,EE,2074C524,extended,000F423F
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,1074C52A,extended,000003E8
 
-[Cheats/Infinite NP Gauge] 
+//Cheats/Infinite NP Gauge
 patch=1,EE,1074C52C,extended,000003E8
 
-[Cheats/Max Dauphine Experience Value] 
+//Cheats/Max Dauphine Experience Value
 patch=1,EE,2074C568,extended,000F423F
 
-[Cheats/Max HP gauge]
+//Cheats/Max HP gauge
 patch=1,EE,1074C56E,extended,000003E8
 
-[Cheats/Max NP Gauge]  
+//Cheats/Max NP Gauge
 patch=1,EE,1074C570,extended,000003E8
 
-[Cheats/No Damage Taken] 
+//Cheats/No Damage Taken
 patch=1,EE,20496AEC,extended,0000902D
 patch=1,EE,20496B0C,extended,00000000
 
-[Cheats/Activate Elixir I When HP=0] 
+//Cheats/Activate Elixir I When HP=0
 patch=1,EE,2049721C,extended,1000001A
 
-[Cheats/Infinite Normal Bullets] 
+//Cheats/Infinite Normal Bullets
 patch=1,EE,204688E8,extended,C66004A0
 
-[Cheats/Infinite Power Bullets] 
+//Cheats/Infinite Power Bullets
 patch=1,EE,20441AB0,extended,00A32825
 patch=1,EE,2044249C,extended,080E1D9E
 
-[Cheats/No Items Decrease] 
+//Cheats/No Items Decrease
 patch=1,EE,204979E4,extended,00A52825
 
-[Cheats/All Items Acquired] 
+//Cheats/All Items Acquired
 patch=1,EE,20497858,extended,080E1D9E
 patch=1,EE,20497A34,extended,08125E58
 

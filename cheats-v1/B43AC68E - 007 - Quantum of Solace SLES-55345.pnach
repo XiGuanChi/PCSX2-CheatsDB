@@ -1,58 +1,58 @@
-[Cheats/Infinite Health]  
+//Cheats/Infinite Health
 patch=1,EE,204D5540,extended,42C80000
 
-[Cheats/Infinite Health ALT] 
+//Cheats/Infinite Health ALT
 patch=1,EE,20130CA8,extended,C6200D24
 patch=1,EE,20130CB0,extended,E6200D20
 
-[Cheats/Infinite Health ALT 2] 
+//Cheats/Infinite Health ALT 2
 patch=1,EE,2014709C,extended,3C0242C8
 patch=1,EE,201470A0,extended,AE020D20
 
-[Cheats/God Mode ON Press L2+D-Up]  
+//Cheats/God Mode ON Press L2+D-Up
 patch=1,EE,D0423C02,extended,0000FEEF
 patch=1,EE,20134EE0,extended,03E00008
 patch=1,EE,20134EE4,extended,00000000
 
-[Cheats/God Mode OFF Press L2+D-Down]  
+//Cheats/God Mode OFF Press L2+D-Down
 patch=1,EE,D0423C02,extended,0000FEBF
 patch=1,EE,20134EE0,extended,27BDFEF0
 patch=1,EE,20134EE4,extended,7FB300C0
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,201FF088,extended,241103E7
 
-[Cheats/No Reload] 
+//Cheats/No Reload
 patch=1,EE,001FEFE2,extended,000000C0
 
-[Cheats/Shoot During Reload] 
+//Cheats/Shoot During Reload
 patch=1,EE,00163AD3,extended,000000AE
 
-[Cheats/No Spread Accuracy] 
+//Cheats/No Spread Accuracy
 patch=1,EE,20135EF0,extended,3C083A83
 patch=1,EE,20135EF4,extended,2508226F
 patch=1,EE,10135EFE,extended,0000AE08
 
-[Cheats/Kill Hack Timers] 
+//Cheats/Kill Hack Timers
 patch=1,EE,2021E6DC,extended,00000000
 
-[Cheats/Infinite Ammo Gun 99] 
+//Cheats/Infinite Ammo Gun 99
 patch=1,EE,20421DE4,extended,00000063
 
-[Cheats/Infinite Ammo Machine Gun 99] 
+//Cheats/Infinite Ammo Machine Gun 99
 patch=1,EE,20421E04,extended,00000063
 
-[Cheats/Infinite Time In Hack Sequences] 
+//Cheats/Infinite Time In Hack Sequences
 patch=1,EE,20445DC4,extended,41D13CC2
 
-[Cheats/Have All Weapons With Max Infinite Ammo] 
+//Cheats/Have All Weapons With Max Infinite Ammo
 patch=1,EE,202004E4,extended,240203E7
 
-[Cheats/P1 Press R3+Up To Enable Debug Menu]
+//Cheats/P1 Press R3+Up To Enable Debug Menu
 patch=1,EE,D0423B82,extended,0000FFEB
 patch=1,EE,003C9FB0,extended,00000001
 
-[Cheats/P1 Press R3+Down To Disable Debug Menu] 
+//Cheats/P1 Press R3+Down To Disable Debug Menu
 patch=1,EE,D0423B82,extended,0000FFBB
 patch=1,EE,003C9FB0,extended,00000000
 

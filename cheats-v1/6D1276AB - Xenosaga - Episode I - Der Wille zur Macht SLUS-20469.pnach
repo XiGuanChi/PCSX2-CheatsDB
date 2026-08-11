@@ -1,15 +1,15 @@
-[Cheats/Max Money]  
+//Cheats/Max Money
 patch=1,EE,202BCE74,extended,0064282D
 
-[Cheats/All Characters Max HP Full HP] 
+//Cheats/All Characters Max HP Full HP
 patch=1,EE,20A1118C,extended,2405270F
 patch=1,EE,20A11190,extended,A4850000
 
-[Cheats/All Characters Max EP Full EP] 
+//Cheats/All Characters Max EP Full EP
 patch=1,EE,20A111A4,extended,24050063
 patch=1,EE,20A111A8,extended,A0850002
 
-[Cheats/Enable Battle Codes] 
+//Cheats/Enable Battle Codes
 patch=1,EE,200FFE00,extended,3C0100A5
 patch=1,EE,200FFE04,extended,34218900
 patch=1,EE,200FFE08,extended,0041082A
@@ -17,50 +17,50 @@ patch=1,EE,200FFE1C,extended,10010018
 patch=1,EE,200FFE80,extended,03E00008
 patch=1,EE,20A11014,extended,0803FF80
 
-[Cheats/Infinite Max HP EP in Battle] 
+//Cheats/Infinite Max HP EP in Battle
 patch=1,EE,200FFE50,extended,3C010063
 patch=1,EE,200FFE54,extended,3421270F
 patch=1,EE,200FFE58,extended,AC410034
 patch=1,EE,200FFE5C,extended,AC410000
 
-[Cheats/Infinite EP Usage in Battle] 
+//Cheats/Infinite EP Usage in Battle
 patch=1,EE,DAC44913,extended,A2E3E941
 patch=1,EE,2A5FA3FA,extended,00000000
 
-[Cheats/No Random Battles] 
+//Cheats/No Random Battles
 patch=1,EE,202CDFF8,extended,00000000
 
-[Cheats/Infinite Item Usage] 
+//Cheats/Infinite Item Usage
 patch=1,EE,202BCC9C,extended,03E00008
 
-[Cheats/Save Anywhere Press Select+Circle to save anywhere] 
+//Cheats/Save Anywhere Press Select+Circle to save anywhere
 patch=1,EE,D0490D92,extended,0000FFFE
 patch=1,EE,202442B8,extended,0240F02D
 patch=1,EE,D0490D92,extended,0000FFFF
 patch=1,EE,202442B8,extended,10620038:
 
-[Cheats/Have Mini-Games Anywhere] 
+//Cheats/Have Mini-Games Anywhere
 patch=1,EE,2028DF1C,extended,00000000
 
-[Cheats/Simajiri Test-Battle Debug Press L1 to activate the code and L2 to deactivate it.] 
+//Cheats/Simajiri Test-Battle Debug Press L1 to activate the code and L2 to deactivate it.
 patch=1,EE,DA68310B,extended,B24F6D59
 patch=1,EE,2A7B20BC,extended,0C0B763E
 patch=1,EE,DA68310B,extended,B24F6D44
 patch=1,EE,2A7B20BC,extended,0C09138A
 
-[Cheats/Endou Test: has many sub-menus with more debugging options. Press L1 to activate the code and L2 to deactivate it.] 
+//Cheats/Endou Test: has many sub-menus with more debugging options. Press L1 to activate the code and L2 to deactivate it.
 patch=1,EE,DA68310B,extended,B24F6D59
 patch=1,EE,2A7B20BC,extended,0C09BD36
 patch=1,EE,DA68310B,extended,B24F6D44
 patch=1,EE,2A7B20BC,extended,0C09138A
 
-[Cheats/Yajima Test: has a Movie Viewer, Full UMA and Email Browser, among other things.] 
+//Cheats/Yajima Test: has a Movie Viewer, Full UMA and Email Browser, among other things.
 patch=1,EE,DA68310B,extended,B24F6D59
 patch=1,EE,2A7B20BC,extended,0C095FB0
 patch=1,EE,DA68310B,extended,B24F6D44
 patch=1,EE,2A7B20BC,extended,0C09138A
 
-[Cheats/Karakama Test: a Sound Test. Press L1 to activate the code and L2 to deactivate it.] 
+//Cheats/Karakama Test: a Sound Test. Press L1 to activate the code and L2 to deactivate it.
 patch=1,EE,DA68310B,extended,B24F6D59
 patch=1,EE,2A7B20BC,extended,0C0AF3A6
 patch=1,EE,DA68310B,extended,B24F6D44

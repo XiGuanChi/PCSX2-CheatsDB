@@ -1,17 +1,17 @@
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,204FBAE0,extended,7FFFFF45
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,204FBB24,extended,739ACC45
 
-[Cheats/Infinite Health Dragon] 
+//Cheats/Infinite Health Dragon
 patch=1,EE,002807e4,word,00402823
 
-[Cheats/Infinite Health Rynn] 
+//Cheats/Infinite Health Rynn
 patch=1,EE,00314ec0,word,00402823
 
-[Cheats/Unlimited Breath Underwater]  
+//Cheats/Unlimited Breath Underwater
 patch=1,EE,0032ce5c,word,46000006
 
-[Cheats/Rapid Level Gain] 
+//Cheats/Rapid Level Gain
 patch=1,EE,204FBAEC,extended,73C14750

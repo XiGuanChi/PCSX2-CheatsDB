@@ -1,31 +1,31 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,20339E28,extended,000F423F
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,2033D948,extended,270F270F
 patch=1,EE,2033D768,extended,270F270F
 
-[Cheats/Infinite MP] 
+//Cheats/Infinite MP
 patch=1,EE,2033D94C,extended,03E703E7
 patch=1,EE,2033D76C,extended,03E703E7
 
-[Cheats/Max Level] 
+//Cheats/Max Level
 patch=1,EE,0033D942,extended,00000063 
 
-[Cheats/Max Power] 
+//Cheats/Max Power
 patch=1,EE,1033D950,extended,000003E7 
 
-[Cheats/Max Body]  
+//Cheats/Max Body
 patch=1,EE,1033D952,extended,000003E7 
 
-[Cheats/Max Magic] 
+//Cheats/Max Magic
 patch=1,EE,1033D954,extended,000003E7 
 
-[Cheats/Max Speed] 
+//Cheats/Max Speed
 patch=1,EE,1033D956,extended,000003E7 
 
-[Cheats/Max Luck] 
+//Cheats/Max Luck
 patch=1,EE,1033D958,extended,000003E7
 
-[Cheats/Save Anywhere] 
+//Cheats/Save Anywhere
 patch=1,EE,0025D050,extended,00000001

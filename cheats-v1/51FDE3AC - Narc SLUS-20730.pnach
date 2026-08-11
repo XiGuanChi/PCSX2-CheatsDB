@@ -1,34 +1,34 @@
-[Cheats/Infinite Health and Super Bust] 
+//Cheats/Infinite Health and Super Bust
 patch=1,EE,201A76AC,extended,3C013F80
 patch=1,EE,201A76B4,extended,AC410004
 patch=1,EE,101A76BA,extended,00001000
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2029B448,extended,24420000
 
-[Cheats/Always 200 Badge Rating] 
+//Cheats/Always 200 Badge Rating
 patch=1,EE,20188CE4,extended,3C014000
 patch=1,EE,20188CEC,extended,AC61000C
 
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,21E403B0,extended,05F5E0FF
 
-[Cheats/Max Crack] 
+//Cheats/Max Crack
 patch=1,EE,21E403C0,extended,05F5E0FF
 
-[Cheats/Max Ecstasy] 
+//Cheats/Max Ecstasy
 patch=1,EE,21E403D0,extended,05F5E0FF
 
-[Cheats/Have All Stashes Found USA] 
+//Cheats/Have All Stashes Found USA
 patch=1,EE,01E404C0,extended,00000019
 
-[Cheats/Need 1 Stash Found For All USA] 
+//Cheats/Need 1 Stash Found For All USA
 patch=1,EE,D1E404C0,extended,00200018
 patch=1,EE,01E404C0,extended,00000018
 
-[Cheats/Have All Stashes Found Hong Kong] 
+//Cheats/Have All Stashes Found Hong Kong
 patch=1,EE,01E404CC,extended,00000019
 
-[Cheats/Need 1 Stash Found For All Hong Kong] 
+//Cheats/Need 1 Stash Found For All Hong Kong
 patch=1,EE,D1E404CC,extended,00200018
 patch=1,EE,01E404CC,extended,00000018

@@ -1,13 +1,13 @@
-[Cheats/No Damage + One Hit Kill]
+//Cheats/No Damage + One Hit Kill
 patch=1,EE,201B7028,extended,00000000
 patch=1,EE,2019AD80,extended,00000000
 
-[Cheats/Infinite Power instantly recharged]
+//Cheats/Infinite Power instantly recharged
 patch=1,EE,201B7034,extended,00000000
 patch=1,EE,201B8C1C,extended,00000000
 patch=1,EE,201B8C34,extended,00000000
 
-[Cheats/Use Points To Upgrade even when they're zero]
+//Cheats/Use Points To Upgrade even when they're zero
 patch=1,EE,202CEE30,extended,00000000
 patch=1,EE,202CEE34,extended,00000000
 

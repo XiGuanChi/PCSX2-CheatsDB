@@ -1,46 +1,46 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,20455360,extended,540BE3FF
 patch=1,EE,20455364,extended,00000002
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,2039B558,extended,00000000
 patch=1,EE,2039B59C,extended,00000000
 
-[Cheats/Max AT Disc Gauge while on board] 
+//Cheats/Max AT Disc Gauge while on board
 patch=1,EE,20308C38,extended,C6E0005C
 patch=1,EE,20308C44,extended,E6E00060
 
-[Cheats/CPU Movement Stop Press R1+Up to stop action Normal R1+down Please note that this will also be reflected in saves] 
+//Cheats/CPU Movement Stop Press R1+Up to stop action Normal R1+down Please note that this will also be reflected in saves
 patch=1,EE,D1F746C2,extended,0000F7EF
 patch=1,EE,204563A4,extended,00000001
 patch=1,EE,D1F746C2,extended,0000F7BF
 patch=1,EE,204563A4,extended,00000000
 
-[Cheats/Player & Machine Invincibility On Press L1+up  Off L1+down Please note that if you use it in the scenario EX Hell-Helled Heresy edition, it may not end at the last scene] 
+//Cheats/Player & Machine Invincibility On Press L1+up  Off L1+down Please note that if you use it in the scenario EX Hell-Helled Heresy edition, it may not end at the last scene
 patch=1,EE,D1F746C2,extended,0000FBEF
 patch=1,EE,20456390,extended,00000001
 patch=1,EE,D1F746C2,extended,0000FBBF
 patch=1,EE,20456390,extended,00000000
 
-[Cheats/All AT garage machines x99] 
+//Cheats/All AT garage machines x99
 patch=1,EE,004553A4,extended,00000063
 patch=1,EE,40455374,extended,000C0001
 patch=1,EE,63636363,extended,00000000
 
-[Cheats/All AT Garage Machines Proficiency Level 50] 
+//Cheats/All AT Garage Machines Proficiency Level 50
 patch=1,EE,00455424,extended,00000032
 patch=1,EE,404553F4,extended,000C0001
 patch=1,EE,32323232,extended,00000000
 
-[Cheats/Unlock All Battling Players]  
+//Cheats/Unlock All Battling Players
 patch=1,EE,2045536C,extended,FFFFFFFF
 patch=1,EE,00455370,extended,000000FF
 
-[Cheats/Unlock All AT GALLERY] 
+//Cheats/Unlock All AT GALLERY
 patch=1,EE,20455714,extended,FFFFFFFF
 patch=1,EE,20455718,extended,FFFFFFFF
 
-[Cheats/Unlock All MISSION DISC GALLERY] 
+//Cheats/Unlock All MISSION DISC GALLERY
 patch=1,EE,20455734,extended,FFFFFFFF
 patch=1,EE,20455738,extended,FFFFFFFF
 patch=1,EE,2045573C,extended,FFFFFFFF
@@ -48,7 +48,7 @@ patch=1,EE,20455740,extended,FFFFFFFF
 patch=1,EE,20455744,extended,FFFFFFFF
 patch=1,EE,10455748,extended,0000FFFF
 
-[Cheats/Unlock All MISSION DISCs analyzed Used in conjunction with MISSION DISC GALLERY] 
+//Cheats/Unlock All MISSION DISCs analyzed Used in conjunction with MISSION DISC GALLERY
 patch=1,EE,204556F4,extended,FFFFFFFF
 patch=1,EE,204556F8,extended,FFFFFFFF
 patch=1,EE,204556FC,extended,FFFFFFFF
@@ -56,16 +56,16 @@ patch=1,EE,20455700,extended,FFFFFFFF
 patch=1,EE,20455704,extended,FFFFFFFF 
 patch=1,EE,10455708,extended,0000FFFF
 
-[Cheats/Clear All Missions S rank 999 times CARACTER GALLERY will also be fully opened. MOVIE GALLERY products will also be on full display.] 
+//Cheats/Clear All Missions S rank 999 times CARACTER GALLERY will also be fully opened. MOVIE GALLERY products will also be on full display.
 patch=1,EE,40455818,extended,00320001
 patch=1,EE,008F9FE7,extended,00000000
 patch=1,EE,104558E0,extended,00000964
 
-[Cheats/Max total score when clearing mission] 
+//Cheats/Max total score when clearing mission
 patch=1,EE,2031A64C,extended,3C10000F
 patch=1,EE,2031A658,extended,3610423F
 
-[Cheats/Mission debug Some flags that can be operated in debugging are reflected in saves. Be careful because there is Turn on debugging SELECT + up on the pause screen during mission play Turn debugging off SELECT + down button * Please turn debugging off when exiting debugging.] 
+//Cheats/Mission debug Some flags that can be operated in debugging are reflected in saves. Be careful because there is Turn on debugging SELECT + up on the pause screen during mission play Turn debugging off SELECT + down button * Please turn debugging off when exiting debugging.
 patch=1,EE,D1F746C2,extended,0000FFEE
 patch=1,EE,20331C90,extended,50630010
 patch=1,EE,D1F746C2,extended,0000FFEE

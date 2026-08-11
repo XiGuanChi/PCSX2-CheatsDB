@@ -1,48 +1,48 @@
-[Cheats/60 FPS Patch] 
+//Cheats/60 FPS Patch
 patch=1,EE,20146D04,extended,24020001
 patch=1,EE,004C318C,extended,00000001
 
-[Cheats/Max Score] 
+//Cheats/Max Score
 patch=1,EE,20540010,extended,05F5E0FF
 
-[Cheats/99 Bananas] 
+//Cheats/99 Bananas
 patch=1,EE,20540018,extended,00000063
 
-[Cheats/999 Bananas] 
+//Cheats/999 Bananas
 patch=1,EE,20540018,extended,000003E7
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,20170490,extended,24840000
 
-[Cheats/L1+L2 For More Time] 
+//Cheats/L1+L2 For More Time
 patch=1,EE,D04CF742,extended,0000FAFF
 patch=1,EE,2052F5B4,extended,0E100E10
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,1054132A,extended,0000FFFF
 
-[Cheats/Unlock All Story Levels] 
+//Cheats/Unlock All Story Levels
 patch=1,EE,4057B560,extended,00070001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Challenge Levels] 
+//Cheats/Unlock All Challenge Levels
 patch=1,EE,4052F7F0,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Monkey Race DX Start On 5th Lap] 
+//Cheats/Monkey Race DX Start On 5th Lap
 patch=1,EE,205F7274,extended,00040004
 
-[Cheats/Monkey Race DX 999 Points - Grand Prix] 
+//Cheats/Monkey Race DX 999 Points - Grand Prix
 patch=1,EE,105F7274,extended,000003E7
 
-[Cheats/Monkey Beat Start On 4th Lap] 
+//Cheats/Monkey Beat Start On 4th Lap
 patch=1,EE,005F3967,extended,00000003
 
-[Cheats/Monkey Shot Infinite Health] 
+//Cheats/Monkey Shot Infinite Health
 patch=1,EE,20652FC8,extended,00000005
 
-[Cheats/Monkey Dogfight Infinite Health] 
+//Cheats/Monkey Dogfight Infinite Health
 patch=1,EE,205E671C,extended,00000064
 
-[Cheats/Enable Debug Menu at the title screen press X+Circle Another Menu Can Be Open Press L1+Start or Left Trigger+Start at any point in the game. ] 
+//Cheats/Enable Debug Menu at the title screen press X+Circle Another Menu Can Be Open Press L1+Start or Left Trigger+Start at any point in the game.
 patch=1,EE,004C2F04,extended,00000003

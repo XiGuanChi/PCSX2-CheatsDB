@@ -1,51 +1,51 @@
-[Cheats/Fastest Autoplay Speed] 
+//Cheats/Fastest Autoplay Speed
 patch=1,EE,20115C1C,extended,AC800008
 patch=1,EE,20115C24,extended,AC80000C
 
-[Cheats/Automatic message sending other than choices] 
+//Cheats/Automatic message sending other than choices
 patch=1,EE,201201E0,extended,00000000
 
-[Cheats/Automatic message sending ON - OFF Semi-auto ON SELECT+up Semi-auto OFF SELECT+down] 
+//Cheats/Automatic message sending ON - OFF Semi-auto ON SELECT+up Semi-auto OFF SELECT+down
 patch=1,EE,D1E419C2,extended,0000FFEE
 patch=1,EE,201201E0,extended,00000000
 patch=1,EE,D1E419C2,extended,0000FFBE
 patch=1,EE,201201E0,extended,51E0000B
 
-[Cheats/Playing - Fully open when looking at the table of contents common to the Spur edition and the Children's Song edition Please note that it may affect the progress of the scenario] 
+//Cheats/Playing - Fully open when looking at the table of contents common to the Spur edition and the Children's Song edition Please note that it may affect the progress of the scenario
 patch=1,EE,201AF3F0,extended,240D00FF
 patch=1,EE,201AF3F4,extended,A1CD0000
 
-[Cheats/Playing - Fully open when looking at the ending list common to all Please note that it may affect the progress of the scenario] 
+//Cheats/Playing - Fully open when looking at the ending list common to all Please note that it may affect the progress of the scenario
 patch=1,EE,201AB5C8,extended,240F00FF
 patch=1,EE,201AB5CC,extended,A1CF0000
 
-[Cheats/The truth of the Crescent Island Incident case All starting characters Please note that it may affect the progress of the scenario] 
+//Cheats/The truth of the Crescent Island Incident case All starting characters Please note that it may affect the progress of the scenario
 patch=1,EE,20238AF8,extended,00030007
 
-[Cheats/The truth of the Crescent Island Incident Fully open when looking at the time chart during play Contents may change depending on the progress of the scenario] 
+//Cheats/The truth of the Crescent Island Incident Fully open when looking at the time chart during play Contents may change depending on the progress of the scenario
 patch=1,EE,201AD268,extended,240E00FF
 patch=1,EE,201AD26C,extended,A1AE0000
 
-[Cheats/Unlock All Ending List Pension Spur] 
+//Cheats/Unlock All Ending List Pension Spur
 patch=1,EE,11E4BF08,extended,00001FFF
 
-[Cheats/Unlock All Table Of Contents Pension Spur This may affect the progress]   
+//Cheats/Unlock All Table Of Contents Pension Spur This may affect the progress
 patch=1,EE,21E4C180,extended,FFFFFFFF
 patch=1,EE,01E4C184,extended,0000000F
 
-[Cheats/Unlock All Ending List Prison Island Nursery Rhymes]
+//Cheats/Unlock All Ending List Prison Island Nursery Rhymes
 patch=1,EE,21E4BF08,extended,001FFFFF
 
-[Cheats/Unlock All Table Of Contents Prison Island Nursery Rhymes This may affect the progress] 
+//Cheats/Unlock All Table Of Contents Prison Island Nursery Rhymes This may affect the progress
 patch=1,EE,21E4C180,extended,FFFFFFFF
 
-[Cheats/Unlock Automatic message sent if no option is selected] 
+//Cheats/Unlock Automatic message sent if no option is selected
 patch=1,EE,201201E0,extended,00000000
 
-[Cheats/Unlock Main Character In Full Swing This is the truth behind the Mikazuki Island incident.] 
+//Cheats/Unlock Main Character In Full Swing This is the truth behind the Mikazuki Island incident.
 patch=1,EE,20238AF8,extended,00030007
 
-[Cheats/Unlock All Bookmarks This is the truth behind the Mikazuki Island incident.]
+//Cheats/Unlock All Bookmarks This is the truth behind the Mikazuki Island incident.
 patch=1,EE,10238DE6,extended,00000001
 patch=1,EE,20238DE8,extended,00010001
 patch=1,EE,20238DEC,extended,00010001
@@ -53,15 +53,15 @@ patch=1,EE,10238DF2,extended,00000001
 patch=1,EE,20238DF4,extended,00010001
 patch=1,EE,20238DF8,extended,00010001
 
-[Cheats/Unlock All Time Chart This is the truth behind the Mikazuki Island incident.It may affect game progress.]
+//Cheats/Unlock All Time Chart This is the truth behind the Mikazuki Island incident.It may affect game progress.
 patch=1,EE,119D9224,extended,00003FFF
 patch=1,EE,419D9200,extended,00090001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Ending List This is the truth of the Mikazuki Island incident.The code for the truth of the Mikazuki Island incident may affect the progress of all games] 
+//Cheats/Unlock All Ending List This is the truth of the Mikazuki Island incident.The code for the truth of the Mikazuki Island incident may affect the progress of all games
 patch=1,EE,21E4BF08,extended,FFFFFFFF
 patch=1,EE,21E4BF0C,extended,FFFFFFFF
 patch=1,EE,21E4BF10,extended,03FFFFFF
 
-[Cheats/Enable Debug Menu Start	Sends you to a scenario select menu. Load Presumably loads memory card data. Love Starts a two player mode. Config Sends you to the options menu. Tool Sends you to a sub-menu. Demo Plays the demo movie] 
+//Cheats/Enable Debug Menu Start	Sends you to a scenario select menu. Load Presumably loads memory card data. Love Starts a two player mode. Config Sends you to the options menu. Tool Sends you to a sub-menu. Demo Plays the demo movie
 patch=1,EE,20175F7C,extended,24020001

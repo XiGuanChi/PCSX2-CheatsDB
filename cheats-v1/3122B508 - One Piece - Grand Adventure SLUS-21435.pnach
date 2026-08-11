@@ -1,49 +1,49 @@
-[Cheats/Activation Code Must Be On] 
+//Cheats/Activation Code Must Be On
 patch=1,EE,200C0220,extended,16000008
 patch=1,EE,200C023C,extended,10000007
 patch=1,EE,200C025C,extended,08065378
 patch=1,EE,200C0260,extended,00000000
 patch=1,EE,20194A4C,extended,0C030088
 
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,200C0228,extended,A6200122
 
-[Cheats/Max Skill Guage Level P1] 
+//Cheats/Max Skill Guage Level P1
 patch=1,EE,200C024C,extended,24010003
 patch=1,EE,200C0250,extended,A621012A
 
-[Cheats/No Health P2] 
+//Cheats/No Health P2
 patch=1,EE,200C0244,extended,86210120
 patch=1,EE,200C0248,extended,A6210122
 
-[Cheats/Monkey D. Luffy Max Health] 
+//Cheats/Monkey D. Luffy Max Health
 patch=1,EE,01C2F804,extended,00000014
 
-[Cheats/Nami Max Health] 
+//Cheats/Nami Max Health
 patch=1,EE,01C2F844,extended,00000014
 
-[Cheats/Roronoa Zolo Max Health] 
+//Cheats/Roronoa Zolo Max Health
 patch=1,EE,01C2F824,extended,00000014
 
-[Cheats/Unlock Grand Adventure Codes Buggy The Clown] 
+//Cheats/Unlock Grand Adventure Codes Buggy The Clown
 patch=1,EE,01C2FCED,extended,00000000
 
-[Cheats/Unlock Grand Adventure Codes Mr. 0 Crocodile] 
+//Cheats/Unlock Grand Adventure Codes Mr. 0 Crocodile
 patch=1,EE,01C2FCEF,extended,00000000
 
-[Cheats/Unlock Grand Adventure Codes Chaser] 
+//Cheats/Unlock Grand Adventure Codes Chaser
 patch=1,EE,01C2FCF1,extended,00000000
 
-[Cheats/Unlock Grand Adventure Codes Usopp] 
+//Cheats/Unlock Grand Adventure Codes Usopp
 patch=1,EE,01C2FCF3,extended,00000000
 
-[Cheats/Unlock All Costumes] 
+//Cheats/Unlock All Costumes
 patch=1,EE,01C2F801,extended,0000001F
 
-[Cheats/Unlock All Arenas] 
+//Cheats/Unlock All Arenas
 patch=1,EE,41C2FCB0,extended,00050001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Support Characters] 
+//Cheats/Unlock All Support Characters
 patch=1,EE,41C2FB00,extended,00360002
 patch=1,EE,00000000,extended,00000001

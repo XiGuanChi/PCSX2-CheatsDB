@@ -1,9 +1,9 @@
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,10B94554,extended,0000007D
 
-[Cheats/Infinite Special]  
+//Cheats/Infinite Special
 patch=1,EE,10B9455E,extended,00004000
 
-[Cheats/2P blow death press L3+R3] 
+//Cheats/2P blow death press L3+R3
 patch=1,EE,D031E036,extended,0000FFF9
 patch=1,EE,10B94764,extended,00000000

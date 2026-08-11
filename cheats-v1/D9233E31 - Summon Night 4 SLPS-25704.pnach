@@ -1,16 +1,16 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,203EC4FC,extended,0098967F
 
-[Cheats/Max Experience Value] 
+//Cheats/Max Experience Value
 patch=1,EE,203EC500,extended,05F5E09C
 
-[Cheats/HP 999 After Level Up] 
+//Cheats/HP 999 After Level Up
 patch=1,EE,200F3110,extended,A622002E
 
-[Cheats/MP 999 After Level Up] 
+//Cheats/MP 999 After Level Up
 patch=1,EE,200F3120,extended,A6220032
 
-[Cheats/Ally Display HP In Battle Press R3 HP And MP Full Recovery] 
+//Cheats/Ally Display HP In Battle Press R3 HP And MP Full Recovery
 patch=1,EE,200F7200,extended,94830000
 patch=1,EE,200F7204,extended,30630020
 patch=1,EE,200F7208,extended,10600008
@@ -25,59 +25,59 @@ patch=1,EE,200F7228,extended,A4820030
 patch=1,EE,200F722C,extended,03E00008
 patch=1,EE,200F7230,extended,84820030
 
-[Cheats/Max Gold after selling one item] 
+//Cheats/Max Gold after selling one item
 patch=1,EE,202336C0,extended,00000000
 
-[Cheats/With experience value acquisition Max experience] 
+//Cheats/With experience value acquisition Max experience
 patch=1,EE,2023A7F4,extended,00000000
 
-[Cheats/Infinite Conduct] 
+//Cheats/Infinite Conduct
 patch=1,EE,20205948,extended,3050FFEC
 
-[Cheats/Press R3 Infinite Points Press L3 for decrease points] 
+//Cheats/Press R3 Infinite Points Press L3 for decrease points
 patch=1,EE,D03B9282,extended,0000FFFB
 patch=1,EE,201BB6F0,extended,24820000
 patch=1,EE,D03B9282,extended,0010FFFD
 patch=1,EE,201BB6F0,extended,2482FFFF
 
-[Cheats/Summoned beast level up with one feeding] 
+//Cheats/Summoned beast level up with one feeding
 patch=1,EE,2023789C,extended,00000000
 
-[Cheats/Inn rating 100 stars] 
+//Cheats/Inn rating 100 stars
 patch=1,EE,003896FC,extended,00000064
 
-[Cheats/Gachinko Training Minigame always 100 points] 
+//Cheats/Gachinko Training Minigame always 100 points
 patch=1,EE,202BF114,extended,24020064
 
-[Cheats/Gachinko Training Minigame Cumulative score 30000 points] 
+//Cheats/Gachinko Training Minigame Cumulative score 30000 points
 patch=1,EE,20389914,extended,00007530
 
-[Cheats/Gachinko Training Minigame Don't become a MISS even if you make a mistake The results will be displayed strangely] 
+//Cheats/Gachinko Training Minigame Don't become a MISS even if you make a mistake The results will be displayed strangely
 patch=1,EE,202BCBF8,extended,10000010
 patch=1,EE,202BCC9C,extended,1000000B
 
-[Cheats/Quick Kitchen Minigame Always correct] 
+//Cheats/Quick Kitchen Minigame Always correct
 patch=1,EE,202D04C0,extended,00000000
 
-[Cheats/Garden Puzzle Minigame Clear with SELECT button] 
+//Cheats/Garden Puzzle Minigame Clear with SELECT button
 patch=1,EE,202E372C,extended,8E220030
 patch=1,EE,D03B9282,extended,0000FFFE
 patch=1,EE,202E372C,extended,24020005
 
-[Cheats/Harikiri Fishing Minigame You can catch by pulling the rod You can catch fish even if FISH is not turned on] 
+//Cheats/Harikiri Fishing Minigame You can catch by pulling the rod You can catch fish even if FISH is not turned on
 patch=1,EE,2027D2C0,extended,10000048
 patch=1,EE,2027D670,extended,00000000
 
-[Cheats/Unlock All System Gallery may needs a save game] 
+//Cheats/Unlock All System Gallery may needs a save game
 patch=1,EE,202301C8,extended,24040001
 
-[Cheats/Unlock All Summon Dictionary When you look at it] 
+//Cheats/Unlock All Summon Dictionary When you look at it
 patch=1,EE,20237B1C,extended,00440821
 patch=1,EE,20237B20,extended,94224838
 patch=1,EE,20237B24,extended,34420001
 patch=1,EE,20237B28,extended,A4224838
 
-[Cheats/Unlock All Recipes availables] 
+//Cheats/Unlock All Recipes availables
 patch=1,EE,200F70C8,extended,000518C0
 patch=1,EE,200F70CC,extended,8C824760
 patch=1,EE,200F70D0,extended,00432021

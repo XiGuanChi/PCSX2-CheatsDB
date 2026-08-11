@@ -1,11 +1,11 @@
 gametitle=Return to Castle Wolfenstein - Operation Resurrection PAL-S SLES-51522 0F58C006
 
-[50/60 FPS]
+//50/60 FPS
 author=GamingDragon93
 description=Might need EE overclock (130%).
 patch=1,EE,00234AD0,word,00000000
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,00106C78,word,24070002

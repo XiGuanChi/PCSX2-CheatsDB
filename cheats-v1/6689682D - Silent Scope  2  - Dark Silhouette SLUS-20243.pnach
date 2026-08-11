@@ -1,17 +1,17 @@
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,2025084C,extended,00000100
 
-[Cheats/Infinite Ammo Player 1] 
+//Cheats/Infinite Ammo Player 1
 patch=1,EE,20250876,extended,00000006
 
-[Cheats/Infinite Credits] 
+//Cheats/Infinite Credits
 patch=1,EE,20262674,extended,00000005
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,10250882,extended,000000FF
 
-[Cheats/Have All Bosses] 
+//Cheats/Have All Bosses
 patch=1,EE,203E161E,extended,0000FFFF
 
-[Cheats/Unlock All Extra Options]  
+//Cheats/Unlock All Extra Options
 patch=1,EE,203E1618,extended,FFFFFFFF

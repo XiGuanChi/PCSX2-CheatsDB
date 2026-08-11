@@ -1,18 +1,18 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20157B2C,extended,3C0342C8
 patch=1,EE,20157B30,extended,44830000
 patch=1,EE,20157B34,extended,E4400048
 
-[Cheats/Infinite Ninja Tool] 
+//Cheats/Infinite Ninja Tool
 patch=1,EE,202D3D98,extended,24630000
 
-[Cheats/Max Ninjutsu Evaluation] 
+//Cheats/Max Ninjutsu Evaluation
 patch=1,EE,202BF7DC,extended,28610000
 
-[Cheats/Balance 99999999] 
+//Cheats/Balance 99999999
 patch=1,EE,2183DB34,extended,05F5E0FF
 
-[Cheats/All Mystery meeting has been obtained] 
+//Cheats/All Mystery meeting has been obtained
 patch=1,EE,0183DB44,extended,00000001
 patch=1,EE,0183DB54,extended,00000001
 patch=1,EE,0183DB64,extended,00000001
@@ -38,7 +38,7 @@ patch=1,EE,0183DCD4,extended,00000001
 patch=1,EE,0183DCE4,extended,00000001
 patch=1,EE,0183DCF4,extended,00000001
 
-[Cheats/All Stages have been cleared] 
+//Cheats/All Stages have been cleared
 patch=1,EE,4183DB39,extended,000A0004
 patch=1,EE,05050501,extended,00000000
 patch=1,EE,0183DBD9,extended,00000005
@@ -47,38 +47,38 @@ patch=1,EE,05050501,extended,00000000
 patch=1,EE,4183DC99,extended,00060004
 patch=1,EE,05050501,extended,00000000
 
-[Cheats/All Battle Maps can be selected] 
+//Cheats/All Battle Maps can be selected
 patch=1,EE,0183DD59,extended,00000000
 patch=1,EE,0183DD69,extended,00000000
 patch=1,EE,0183DD79,extended,00000000
 patch=1,EE,0183DD89,extended,00000000
 patch=1,EE,0183DD99,extended,00000000
 
-[Cheats/All Characters can be selected] 
+//Cheats/All Characters can be selected
 patch=1,EE,1183DA68,extended,0000FFFF
 patch=1,EE,0183DA6A,extended,00000003
 
-[Cheats/All ninja tools can be selected] 
+//Cheats/All ninja tools can be selected
 patch=1,EE,202DC58C,extended,00000000
 patch=1,EE,202DC5F4,extended,00000000
 patch=1,EE,202DC620,extended,00000000
 patch=1,EE,202DC638,extended,00000000
 
-[Cheats/Infinite ninja tools] 
+//Cheats/Infinite ninja tools
 patch=1,EE,202DCA74,extended,00000000
 
-[Cheats/Attack of up sword] 
+//Cheats/Attack of up sword
 patch=1,EE,2023D0CC,extended,24020030
 patch=1,EE,2023D0D8,extended,A3829133
 
-[Cheats/Unlock All missions]  
+//Cheats/Unlock All missions
 patch=1,EE,203138D0,extended,00000000
 patch=1,EE,20313954,extended,00000000
 
-[Cheats/Unlock special mission added to the title] 
+//Cheats/Unlock special mission added to the title
 patch=1,EE,0183DBD9,extended,00000000
 
-[Cheats/Unlock All Competition and cooperation stages] 
+//Cheats/Unlock All Competition and cooperation stages
 patch=1,EE,0183DD49,extended,00000000
 patch=1,EE,0183DD59,extended,00000000
 patch=1,EE,0183DD69,extended,00000000

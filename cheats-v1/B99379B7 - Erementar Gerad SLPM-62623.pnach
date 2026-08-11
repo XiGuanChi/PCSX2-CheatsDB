@@ -1,17 +1,17 @@
-[Cheats/P1 Infinite Health]  
+//Cheats/P1 Infinite Health
 patch=1,EE,2030B0EC,extended,43FA0000
 patch=1,EE,2030B0F0,extended,43FA0000
 
-[Cheats/Player 1 Synchro Gauge Max] 
+//Cheats/Player 1 Synchro Gauge Max
 patch=1,EE,20305774,extended,43020000
 
-[Cheats/P2 No Health 0] 
+//Cheats/P2 No Health 0
 patch=1,EE,20328DEC,extended,00000000
 
-[Cheats/Unlock All Bonus Mode]  
+//Cheats/Unlock All Bonus Mode
 patch=1,EE,2022026C,extended,00000000
 
-[Cheats/Unlock All Bonus Flags]  
+//Cheats/Unlock All Bonus Flags
 patch=1,EE,202C2C10,extended,04060C0E
 patch=1,EE,202C2C14,extended,04040404
 patch=1,EE,102C2C18,extended,00000104

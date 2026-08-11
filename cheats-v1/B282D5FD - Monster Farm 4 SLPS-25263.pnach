@@ -1,39 +1,39 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,203394FC,extended,0098967F
 
-[Cheats/After Training Capacity Max] 
+//Cheats/After Training Capacity Max
 patch=1,EE,2029DF1C,extended,240503E7
 
-[Cheats/Adventure LV Max] 
+//Cheats/Adventure LV Max
 patch=1,EE,405D92C4,extended,00130001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Winning Prize Toy] 
+//Cheats/Winning Prize Toy
 patch=1,EE,2066DE28,extended,0098967F
 
-[Cheats/Winning Prize The First Animal] 
+//Cheats/Winning Prize The First Animal
 patch=1,EE,2066FF70,extended,0098967F
 
-[Cheats/Winning Prize The Second Animal]  
+//Cheats/Winning Prize The Second Animal
 patch=1,EE,20670944,extended,0098967F
 
-[Cheats/Winning Prize The Third Animal]  
+//Cheats/Winning Prize The Third Animal
 patch=1,EE,20671318,extended,0098967F
 
-[Cheats/Winning Prize The Fourth Animal] 
+//Cheats/Winning Prize The Fourth Animal
 patch=1,EE,20671CEC,extended,0098967F
 
-[Cheats/Winning Prize The Fifth Animal] 
+//Cheats/Winning Prize The Fifth Animal
 patch=1,EE,206726C0,extended,0098967F
 
-[Cheats/Popularity 100] 
+//Cheats/Popularity 100
 patch=1,EE,0066FF61,extended,00000064
 patch=1,EE,00670935,extended,00000064
 patch=1,EE,00671309,extended,00000064
 patch=1,EE,00671CDD,extended,00000064
 patch=1,EE,006726B1,extended,00000064
 
-[Cheats/Reliability 100] 
+//Cheats/Reliability 100
 patch=1,EE,0066FF49,extended,00000064
 patch=1,EE,0067091D,extended,00000064
 patch=1,EE,006712F1,extended,00000064
@@ -43,7 +43,7 @@ patch=1,EE,200F6018,extended,2508000C
 patch=1,EE,200F601C,extended,03E00008
 patch=1,EE,202ECEF4,extended,0803D800
 
-[Cheats/Unlock All PictureS]  
+//Cheats/Unlock All PictureS
 patch=1,EE,200F6000,extended,3C080066
 patch=1,EE,200F6004,extended,3508E2A8
 patch=1,EE,200F6008,extended,25090FA8

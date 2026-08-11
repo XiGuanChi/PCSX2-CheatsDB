@@ -1,11 +1,11 @@
 gametitle=Secret Service PAL-E SLES-55330 5AC50849
 
-[50/60 FPS]
+//50/60 FPS
 author=GamingDragon93
 description=Might need EE Overclock (180%).
 patch=1,EE,001841F0,word,2C420000 //2C420002
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start.
 patch=1,EE,0017F76C,word,24060002 //24060003

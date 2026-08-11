@@ -1,38 +1,38 @@
-[Cheats/Max NFS Points] 
+//Cheats/Max NFS Points
 patch=1,EE,2030CE54,extended,05F5E0FF
 
-[Cheats/Get Busted Once To Get Arrested] 
+//Cheats/Get Busted Once To Get Arrested
 patch=1,EE,202270C8,extended,00000000
 
-[Cheats/Infinite Times Getting Busted] 
+//Cheats/Infinite Times Getting Busted
 patch=1,EE,202272B0,extended,00000000
 
-[Cheats/Cops Cant Bust You] 
+//Cheats/Cops Cant Bust You
 patch=1,EE,20226F30,extended,03E00008
 patch=1,EE,20226F34,extended,00000000
 
-[Cheats/Always Low Time] 
+//Cheats/Always Low Time
 patch=1,EE,201A369C,extended,00000000
 
-[Cheats/Idiot Cop AI] 
+//Cheats/Idiot Cop AI
 patch=1,EE,20225078,extended,03E00008
 patch=1,EE,2022507C,extended,00000000
 patch=1,EE,2022FF58,extended,03E00008
 patch=1,EE,2022FF5C,extended,00000000
 
-[Cheats/You're The Cop Mode Infinite Time] 
+//Cheats/You're The Cop Mode Infinite Time
 patch=1,EE,202280DC,extended,00000000
 
-[Cheats/You're The Cop Mode Start and Stop Timer] 
+//Cheats/You're The Cop Mode Start and Stop Timer
 patch=1,EE,D02DEB82,extended,0000FFFD
 patch=1,EE,202280DC,extended,00000000
 patch=1,EE,D02DEB82,extended,0000FFFE
 patch=1,EE,202280DC,extended,E66028F0
 
-[Cheats/You're The Cop Mode Infinite Helicopter Assistances] 
+//Cheats/You're The Cop Mode Infinite Helicopter Assistances
 patch=1,EE,20224F60,extended,00000000
 
-[Cheats/Unlock All Cars] 
+//Cheats/Unlock All Cars
 patch=1,EE,4030C710,extended,00190001
 patch=1,EE,31586352,extended,1F66FBB8
 

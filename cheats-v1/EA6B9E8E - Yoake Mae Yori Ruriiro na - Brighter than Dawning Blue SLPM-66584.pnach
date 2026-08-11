@@ -1,19 +1,19 @@
-[Cheats/Unlock All Characters Cleared, CG & Music Galleries] 
+//Cheats/Unlock All Characters Cleared, CG & Music Galleries
 patch=1,EE,20282340,extended,FFFFFFFF
 patch=1,EE,4028498C,extended,00310001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All CG]  
+//Cheats/Unlock All CG
 patch=1,EE,4028498C,extended,002C0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/UUnlock All Main Menu Items]   
+//Cheats/UUnlock All Main Menu Items
 patch=1,EE,10282340,extended,0000FFFF
 
-[Cheats/Unlock All Music]  
+//Cheats/Unlock All Music
 patch=1,EE,20284A48,extended,FFFFFFFF
 patch=1,EE,20284A4C,extended,FFFFFFFF
 
-[Cheats/Unlock Event Script Debug Menu Start a new game. Save.Load the new save  enable an event select debug menu allowing you to view any scene in the game. Page 1 Normal Start (true common, feena , mia , mai, natsuki Page 2 sayaka, wreath, midori, estel, true, Bonus] 
+//Cheats/Unlock Event Script Debug Menu Start a new game. Save.Load the new save  enable an event select debug menu allowing you to view any scene in the game. Page 1 Normal Start (true common, feena , mia , mai, natsuki Page 2 sayaka, wreath, midori, estel, true, Bonus
 patch=1,EE,20284A60,extended,00000000
 patch=1,EE,20284A64,extended,00000000

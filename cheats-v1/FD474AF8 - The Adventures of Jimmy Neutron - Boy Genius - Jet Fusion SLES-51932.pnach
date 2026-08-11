@@ -1,6 +1,6 @@
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,202A2440,extended,10000041
 
-[Cheats/Use Energy Even If It's Empty]
+//Cheats/Use Energy Even If It's Empty
 patch=1,EE,202BA52C,extended,00000000
 patch=1,EE,202A2A84,extended,00000000

@@ -1,15 +1,15 @@
-[Cheats/Invincible Helicopter] 
+//Cheats/Invincible Helicopter
 patch=1,EE,203B45D0,extended,FFFFFFFF
 
-[Cheats/Infinite Fuel]  
+//Cheats/Infinite Fuel
 patch=1,EE,2018581C,extended,00000000
 patch=1,EE,20185824,extended,00000000
 
-[Cheats/Infinite Ammo Bomb & Missiles] 
+//Cheats/Infinite Ammo Bomb & Missiles
 patch=1,EE,201787F0,extended,00000000
 
-[Cheats/Infinite Ammo Gun]  
+//Cheats/Infinite Ammo Gun
 patch=1,EE,20178640,extended,00000000
 
-[Cheats/Infinite Ammo Cannon] 
+//Cheats/Infinite Ammo Cannon
 patch=1,EE,2028D9CC,extended,24050960

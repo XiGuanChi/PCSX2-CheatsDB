@@ -1,97 +1,97 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C0220,extended,3C01447A
 patch=1,EE,200C0224,extended,080A39C0
 patch=1,EE,200C0228,extended,AC810130
 patch=1,EE,20226D28,extended,0C030088
 
-[Cheats/Infinite Health Partner] 
+//Cheats/Infinite Health Partner
 patch=1,EE,200C0230,extended,3C01447A
 patch=1,EE,200C0234,extended,080A39C0
 patch=1,EE,200C0238,extended,AC810130
 patch=1,EE,20208AE8,extended,0C03008C
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,20178B28,extended,00000000
 
-[Cheats/Infinite Ammo Max] 
+//Cheats/Infinite Ammo Max
 patch=1,EE,20178B20,extended,24020063
 
-[Cheats/Infinite Grenades] 
+//Cheats/Infinite Grenades
 patch=1,EE,2017A134,extended,00000000
 
-[Cheats/Max Infinite Grenades] 
+//Cheats/Max Infinite Grenades
 patch=1,EE,2017A130,extended,24020009
 
-[Cheats/Infinite Health Tim] 
+//Cheats/Infinite Health Tim
 patch=1,EE,2028E6D0,extended,46000000
 
-[Cheats/Infinite Health Alternate] 
+//Cheats/Infinite Health Alternate
 patch=1,EE,2028E6C8,extended,10000007
 
-[Cheats/Infinite Health Partner Alternate Version] 
+//Cheats/Infinite Health Partner Alternate Version
 patch=1,EE,2028E6E0,extended,00000000
 patch=1,EE,2028E6E4,extended,00000000
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,2039F858,extended,00000000
 
-[Cheats/Infinite Time Time Attack Mode] 
+//Cheats/Infinite Time Time Attack Mode
 patch=1,EE,2018B1D8,extended,00000000
 
-[Cheats/Max Weapon Customize Points Available] 
+//Cheats/Max Weapon Customize Points Available
 patch=1,EE,21B23F40,extended,0000270F
 
-[Cheats/Infinite Continues] 
+//Cheats/Infinite Continues
 patch=1,EE,01B2B9A9,extended,00000009
 
-[Cheats/Extra Continues] 
+//Cheats/Extra Continues
 patch=1,EE,203BCBFC,extended,00621821
 
-[Cheats/Activate In Game Cheat Invulnerable] 
+//Cheats/Activate In Game Cheat Invulnerable
 patch=1,EE,004433E8,extended,00000001
 
-[Cheats/Activate In Game Cheat infinite Ammo] 
+//Cheats/Activate In Game Cheat infinite Ammo
 patch=1,EE,004433E9,extended,00000001
 
-[Cheats/Activate In Game Cheat Invulnerable & infinite Ammo] 
+//Cheats/Activate In Game Cheat Invulnerable & infinite Ammo
 patch=1,EE,104433E8,extended,00000101
 
-[Cheats/Have All Medals] 
+//Cheats/Have All Medals
 patch=1,EE,201DA570,extended,24010001
 patch=1,EE,201DA574,extended,A0A2010D
 
-[Cheats/Unlock All Missions] 
+//Cheats/Unlock All Missions
 patch=1,EE,200C0000,extended,08076BD1
 patch=1,EE,200C0004,extended,A041010C
 patch=1,EE,201DAEB0,extended,08030000
 patch=1,EE,201DAEB4,extended,24010001
 
-[Cheats/Unlock All Extras] 
+//Cheats/Unlock All Extras
 patch=1,EE,01B2BC10,extended,000000FF
 
-[Cheats/Enable Gore] 
+//Cheats/Enable Gore
 patch=1,EE,202750B4,extended,24040001
 
-[Cheats/Debug Menu Options Use CIRCLE+X Buttons] 
+//Cheats/Debug Menu Options Use CIRCLE+X Buttons
 patch=1,EE,203BAB60,extended,8C45340C
 
-[Cheats/Campaign Mission Profile Option All Campaign Missions Complete] 
+//Cheats/Campaign Mission Profile Option All Campaign Missions Complete
 patch=1,EE,01B239AD,extended,00000021
 
-[Cheats/Campaign Mission Profile Option All Time Attack Missions Complete]
+//Cheats/Campaign Mission Profile Option All Time Attack Missions Complete
 patch=1,EE,01B239AE,extended,00000021
 
-[Cheats/Campaign Mission Profile Option All Cooperative Missions Complete]
+//Cheats/Campaign Mission Profile Option All Cooperative Missions Complete
 patch=1,EE,01B239AF,extended,00000021
 
-[Cheats/Campaign Mission Profile Option All Cooperative Time Attack Missions Complete]
+//Cheats/Campaign Mission Profile Option All Cooperative Time Attack Missions Complete
 patch=1,EE,01B239B0,extended,00000021
 
-[Cheats/Campaign Mission Profile Option Always No Total Saves]
+//Cheats/Campaign Mission Profile Option Always No Total Saves
 patch=1,EE,21B239BC,extended,00000000
 
-[Cheats/Campaign Mission Profile Option Always Low Time]
+//Cheats/Campaign Mission Profile Option Always Low Time
 patch=1,EE,21B239C0,extended,00000000
 
-[Cheats/Enable Debug Menu] 
+//Cheats/Enable Debug Menu
 patch=1,EE,0018B374,extended,00000006

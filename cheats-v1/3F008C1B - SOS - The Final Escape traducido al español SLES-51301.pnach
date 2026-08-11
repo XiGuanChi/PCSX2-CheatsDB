@@ -1,17 +1,17 @@
-[Cheats/Keith Infinite life HP & QP] 
+//Cheats/Keith Infinite life HP & QP
 patch=1,EE,203A7104,extended,42C80000
 patch=1,EE,203A7108,extended,42C7EE70
 
-[Cheats/Zero Saves] 
+//Cheats/Zero Saves
 patch=1,EE,2043AEB8,extended,00000000
 
-[Cheats/Low Time] 
+//Cheats/Low Time
 patch=1,EE,2043AEBC,extended,00000000
 
-[Cheats/Zero Falls] 
+//Cheats/Zero Falls
 patch=1,EE,2043AEC0,extended,00000000
 
-[Cheats/Max Distance] 
+//Cheats/Max Distance
 patch=1,EE,2043AEC4,extended,58000FAB
 
 

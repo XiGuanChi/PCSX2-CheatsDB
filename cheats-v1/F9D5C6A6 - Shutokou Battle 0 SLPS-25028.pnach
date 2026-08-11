@@ -1,39 +1,39 @@
-[Cheats/Max CP 999999000] 
+//Cheats/Max CP 999999000
 patch=1,EE,2038CA08,extended,00999999
 
-[Cheats/Max Money 500 million] 
+//Cheats/Max Money 500 million
 patch=1,EE,2038CA08,extended,0007A120
 
-[Cheats/ODO Meter 999999] 
+//Cheats/ODO Meter 999999
 patch=1,EE,2038C8E0,extended,3B9AC618
 
-[Cheats/Return ODD Meter 0] 
+//Cheats/Return ODD Meter 0
 patch=1,EE,2038C8E0,extended,00000000
 
-[Cheats/Trip 0]  
+//Cheats/Trip 0
 patch=1,EE,20751DE8,extended,00000000
 
-[Cheats/Infinite SP Invincible In Battle] 
+//Cheats/Infinite SP Invincible In Battle
 patch=1,EE,0075FB7A,extended,0000004E
 
 
-[Cheats/Speed Limit Removed over 425KM/h] 
+//Cheats/Speed Limit Removed over 425KM/h
 patch=1,EE,2014F096,extended,43ECC621
 
-[Cheats/Turbo value upper limit sign removed  255] 
+//Cheats/Turbo value upper limit sign removed  255
 patch=1,EE,20157AC3,extended,00000092
 patch=1,EE,20159323,extended,00000092
 
-[Cheats/Max Mileage]  
+//Cheats/Max Mileage
 patch=1,EE,2038C8E0,extended,3B9AC618
 
-[Cheats/Mileage 0km for trick] 
+//Cheats/Mileage 0km for trick
 patch=1,EE,2038C8E0,extended,00000000
 
-[Cheats/Class A 1st Nachine Change Devil's Z] 
+//Cheats/Class A 1st Nachine Change Devil's Z
 patch=1,EE,2030C9D4,extended,00000079
 
-[Cheats/Unlock All Car Models]  
+//Cheats/Unlock All Car Models
 patch=1,EE,1038C9E6,extended,0000FFFF
 patch=1,EE,2038C9E8,extended,FFFFFFFF
 patch=1,EE,2038C9EC,extended,FFFFFFFF
@@ -42,5 +42,5 @@ patch=1,EE,2038C9F4,extended,FFFFFFFF
 patch=1,EE,1038C9F8,extended,0000FFFF
 patch=1,EE,0038C9FA,extended,0000FFFF
 
-[Cheats/Debug Menu features working sound and movie test, car viewer, freerun, quick, versus, advertise. time attack, ending]  
+//Cheats/Debug Menu features working sound and movie test, car viewer, freerun, quick, versus, advertise. time attack, ending
 patch=1,EE,203A0994,extended,00000044

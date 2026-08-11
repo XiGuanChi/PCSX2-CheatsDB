@@ -1,21 +1,21 @@
-[Cheats/God mode] 
+//Cheats/God mode
 patch=1,EE,2024BA68,word,24030015
 
-[Cheats/All units appear on map] 
+//Cheats/All units appear on map
 patch=1,EE,10367798,extended,00000001God mode
 patch=1,EE,2024BA68,extended,24030015
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2025F1D4,extended,00000000
 
-[Cheats/All Items] 
+//Cheats/All Items
 patch=1,EE,20258E68,extended,24020035
 
-[Cheats/Super cheat all of the above] 
+//Cheats/Super cheat all of the above
 patch=1,EE,20264678,extended,2402FFFF
 patch=1,EE,20264684,extended,2402FFFF
 
-[Cheats/Swap dpad control to left analog stick] 
+//Cheats/Swap dpad control to left analog stick
 patch=1,EE,2030788C,extended,0803F414
 patch=1,EE,200FD050,extended,00C0C821
 patch=1,EE,200FD054,extended,080C1E25

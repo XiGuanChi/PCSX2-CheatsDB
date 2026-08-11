@@ -1,69 +1,69 @@
-[Cheats/Max Gold 999999] 
+//Cheats/Max Gold 999999
 patch=1,EE,2043AAEC,extended,05F5E0FF
 
-[Cheats/Max Experience Value After Battle] 
+//Cheats/Max Experience Value After Battle
 patch=1,EE,2025AE08,extended,00000000
 
-[Cheats/After 1 Battle = Level 100] 
+//Cheats/After 1 Battle = Level 100
 patch=1,EE,403C6A18,extended,00650001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Character 1 HP MP Stats Max] 
+//Cheats/Character 1 HP MP Stats Max
 patch=1,EE,103C69D0,extended,000026DD
 patch=1,EE,103C69D4,extended,000003E2
 patch=1,EE,403C69D8,extended,00050001
 patch=1,EE,03E203E2,extended,00000000
 
-[Cheats/Character 2 HP MP Stats Max] 
+//Cheats/Character 2 HP MP Stats Max
 patch=1,EE,103C687C,extended,000026DD
 patch=1,EE,103C6880,extended,000003E2
 patch=1,EE,403C6884,extended,00050001
 patch=1,EE,03E203E2,extended,00000000
 
-[Cheats/Character 3 HP MP Stats Max] 
+//Cheats/Character 3 HP MP Stats Max
 patch=1,EE,103C68C0,extended,000026DD
 patch=1,EE,103C68C4,extended,000003E2
 patch=1,EE,403C68C8,extended,00050001
 patch=1,EE,03E203E2,extended,00000000
 
-[Cheats/Character 4 HP MP Stats Max] 
+//Cheats/Character 4 HP MP Stats Max
 patch=1,EE,103C6904,extended,000026DD
 patch=1,EE,103C6908,extended,000003E2
 patch=1,EE,403C690C,extended,00050001
 patch=1,EE,03E203E2,extended,00000000
 
-[Cheats/Character 5 HP-MP Stats Max] 
+//Cheats/Character 5 HP-MP Stats Max
 patch=1,EE,103C6948,extended,000026DD
 patch=1,EE,103C694C,extended,000003E2
 patch=1,EE,403C6950,extended,00050001
 patch=1,EE,03E203E2,extended,00000000
 
-[Cheats/Character 6 HP-MP Stats Max] 
+//Cheats/Character 6 HP-MP Stats Max
 patch=1,EE,103C698C,extended,000026DD
 patch=1,EE,103C6990,extended,000003E2
 patch=1,EE,403C6994,extended,00050001
 patch=1,EE,03E203E2,extended,00000000
 
-[Cheats/MP Recovery At End Of Combat] 
+//Cheats/MP Recovery At End Of Combat
 patch=1,EE,2025CC1C,extended,0C098254
 
-[Cheats/Dean Infinite and Max HP non-combat use] 
+//Cheats/Dean Infinite and Max HP non-combat use
 patch=1,EE,2043EAF8,extended,0000270F
 patch=1,EE,2043EB00,extended,0000270F
 
-[Cheats/Dean Infinite and Max HP non-combat use] 
+//Cheats/Dean Infinite and Max HP non-combat use
 patch=1,EE,2043EAFC,extended,0000270F
 patch=1,EE,2043EB04,extended,0000270F
 
-[Cheats/In Battle Character Initial HP 9999] 
+//Cheats/In Battle Character Initial HP 9999
 patch=1,EE,202E0284,extended,2403270F 
 patch=1,EE,202E0290,extended,2406270F 
 
-[Cheats/In Battle Character Initial MP 999] 
+//Cheats/In Battle Character Initial MP 999
 patch=1,EE,202E028C,extended,240703E7 
 patch=1,EE,202E0294,extended,240803E7
 
-[Cheats/In Battle Character HP MP Max maintenance] 
+//Cheats/In Battle Character HP MP Max maintenance
 patch=1,EE,201AAC4C,extended,8E24005C 
 patch=1,EE,201AAC50,extended,AE240054 
 patch=1,EE,201AAC7C,extended,8E240060 
@@ -71,13 +71,13 @@ patch=1,EE,201AAC80,extended,AE240058
 
 
 
-[Cheats/When modifying ARM Dragon Fossil 99] 
+//Cheats/When modifying ARM Dragon Fossil 99
 patch=1,EE,2025977C,extended,24030063
 patch=1,EE,20259780,extended,A0C30002
 
-[Cheats/Encounter break can be switched with R2 button] 
+//Cheats/Encounter break can be switched with R2 button
 patch=1,EE,202631E8,extended,00000000
 
-[Cheats/Unlock All Monster Picture Book] 
+//Cheats/Unlock All Monster Picture Book
 patch=1,EE,40439A40,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000

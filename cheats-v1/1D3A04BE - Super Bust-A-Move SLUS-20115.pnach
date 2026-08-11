@@ -1,23 +1,23 @@
-[Cheats/Always Low Time Puzzle Mode Only] 
+//Cheats/Always Low Time Puzzle Mode Only
 patch=1,EE,2031E448,extended,00000000
 
-[Cheats/Always Have Guide Line Puzzle Mode Only] 
+//Cheats/Always Have Guide Line Puzzle Mode Only
 patch=1,EE,1031E544,extended,00000001
 
-[Cheats/Always Have Guide Line All Modes] 
+//Cheats/Always Have Guide Line All Modes
 patch=1,EE,10144206,extended,00001000
 patch=1,EE,1031E544,extended,00000001
 
-[Cheats/Max Score Player 1] 
+//Cheats/Max Score Player 1
 patch=1,EE,2032FB20,extended,05F5E0FF
 
-[Cheats/Infinite Time To Shoot Bubble Out Player 1] 
+//Cheats/Infinite Time To Shoot Bubble Out Player 1
 patch=1,EE,1032FB48,extended,00000000
 
-[Cheats/Player 1 Press L3 For Super Bubble] 
+//Cheats/Player 1 Press L3 For Super Bubble
 patch=1,EE,D0582A02,extended,0000FFFD
 patch=1,EE,103316F0,extended,00000020
 
-[Cheats/Player 1 Needs 1 Win To Win] 
+//Cheats/Player 1 Needs 1 Win To Win
 patch=1,EE,D031E484,extended,00000000
 patch=1,EE,1031E484,extended,00000001

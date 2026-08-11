@@ -1,27 +1,27 @@
-[Cheats/Invincibility]  
+//Cheats/Invincibility
 patch=1,EE,202B2C50,extended,03E00008
 
-[Cheats/Infinite Health]  
+//Cheats/Infinite Health
 patch=1,EE,201F6434,extended,C48C0010
 patch=1,EE,201F6438,extended,E48C000C
 patch=1,EE,201F643C,extended,E4AC0000
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,202BC4BC,extended,00000000
 
-[Cheats/Infinite Power Up Usage Green Bar] 
+//Cheats/Infinite Power Up Usage Green Bar
 patch=1,EE,201DDF40,extended,E48F005C
 
-[Cheats/Max Coins] 
+//Cheats/Max Coins
 patch=1,EE,2014644C,extended,240D03E8
 
-[Cheats/Wile E. Coyote Chase Infinite Time] 
+//Cheats/Wile E. Coyote Chase Infinite Time
 patch=1,EE,2018D88C,extended,00000000
 
-[Cheats/Wile E. Coyote Chase Infinite Time Alt] 
+//Cheats/Wile E. Coyote Chase Infinite Time Alt
 patch=1,EE,2018D86C,extended,24A50000
 
-[Cheats/1 Hit Kill]  
+//Cheats/1 Hit Kill
 patch=1,EE,200a0000,extended,820400bd
 patch=1,EE,200a0004,extended,14800003
 patch=1,EE,200a000c,extended,ae00000c

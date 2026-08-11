@@ -1,11 +1,11 @@
 gametitle=Dog's Life NTSC-U SLUS-21018 35CB5180
 
-[60 FPS]
+//60 FPS
 author=GamingDragon93
 description=Might need EE overclock (130%).
 patch=0,EE,0019EA68,word,3C013F00
 
-[Disable Blur]
+//Disable Blur
 author=GamingDragon93
 description=Disable DOF/blur post-processing effect.
 patch=1,EE,00828368,word,00000000

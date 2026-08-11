@@ -1,97 +1,97 @@
-[Cheats/Max Money After Getting Some] 
+//Cheats/Max Money After Getting Some
 patch=1,EE,20199674,extended,10000008
 patch=1,EE,20199698,extended,3C0205F6
 patch=1,EE,2019969C,extended,2442E0FF
 
-[Cheats/Max Funds can be obtained by defeating enemies and obtaining funds] 
+//Cheats/Max Funds can be obtained by defeating enemies and obtaining funds
 patch=1,EE,20199664,extended,3C0305F6
 
-[Cheats/Max Level when you get experience points] 
+//Cheats/Max Level when you get experience points
 patch=1,EE,201F10E0,extended,3C120099
 
-[Cheats/Max PP After Getting Some]   
+//Cheats/Max PP After Getting Some
 patch=1,EE,201F0FE0,extended,2412270F
 
-[Cheats/Modification Limit 15] 
+//Cheats/Modification Limit 15
 patch=1,EE,201A71D4,extended,2402000F
 patch=1,EE,201A7148,extended,2402000F
 patch=1,EE,201A70C4,extended,2402000F
 patch=1,EE,201A7038,extended,2402000F
 
-[Cheats/Infinite PP even if PP is distributed] 
+//Cheats/Infinite PP even if PP is distributed
 patch=1,EE,2038FE4C,extended,24020001
 patch=1,EE,2031A4FC,extended,00000000
 patch=1,EE,2031B088,extended,00000000
 
-[Cheats/If you allocate PP 9999] 
+//Cheats/If you allocate PP 9999
 patch=1,EE,2038FE4C,extended,24020001
 patch=1,EE,2031A500,extended,2407270F
 patch=1,EE,2031B08C,extended,2407270F
 
-[Cheats/Strengthening Parts All 99 use once only, deactivate later] 
+//Cheats/Strengthening Parts All 99 use once only, deactivate later
 patch=1,EE,2019A2A8,extended,00640821
 patch=1,EE,2019A2B0,extended,24020063
 patch=1,EE,2019A2B4,extended,A022103C
 patch=1,EE,2019A2B8,extended,03E00008
 patch=1,EE,2019A2BC,extended,27BD0010
 
-[Cheats/Obtain All Reinforcement Parts Enter the Intermission Reinforcement Parts Screen] 
+//Cheats/Obtain All Reinforcement Parts Enter the Intermission Reinforcement Parts Screen
 patch=1,EE,203122E0,extended,241A0063
 patch=1,EE,203122E8,extended,A03A103C
 patch=1,EE,2019A2A8,extended,00640821
 patch=1,EE,2019A2B0,extended,9022103C
 
-[Cheats/Obtain All Materials for Special Bullet Development] 
+//Cheats/Obtain All Materials for Special Bullet Development
 patch=1,EE,2019A258,extended,00640821
 patch=1,EE,2019A260,extended,24020063
 patch=1,EE,2019A264,extended,A02210BC
 patch=1,EE,2019A268,extended,03E00008
 patch=1,EE,2019A26C,extended,27BD0010
 
-[Cheats/Unit can be moved again It also has an effect on the enemy, so don't press it during the enemy's turn.You can reactivate each time you press the L1 + R1 buttons] 
+//Cheats/Unit can be moved again It also has an effect on the enemy, so don't press it during the enemy's turn.You can reactivate each time you press the L1 + R1 buttons
 patch=1,EE,201F4184,extended,000116FC
 patch=1,EE,D059AE82,extended,0000F3FF
 patch=1,EE,201F4184,extended,302100EF
 patch=1,EE,201F4180,extended,9241007A
 patch=1,EE,201F4190,extended,A241007A
 
-[Cheats/Unlock When Loading Data OG 2.5 appearance Please save after loading data and use without using the code] 
+//Cheats/Unlock When Loading Data OG 2.5 appearance Please save after loading data and use without using the code
 patch=1,EE,202E468C,extended,24020001
 patch=1,EE,20456884,extended,00000000
 patch=1,EE,204568D0,extended,00000000
 patch=1,EE,20456A88,extended,00000000
 
-[Cheats/Unlock All Encyclopedia of Robots] 
+//Cheats/Unlock All Encyclopedia of Robots
 patch=1,EE,2019A6EC,extended,10000003
 patch=1,EE,2019A6F8,extended,2401FFFF
 patch=1,EE,2019A6FC,extended,AC41005C
 patch=1,EE,2019A700,extended,24020001
 
-[Cheats/Unlock All Character Dictionary] 
+//Cheats/Unlock All Character Dictionary
 patch=1,EE,2019A66C,extended,10000003
 patch=1,EE,2019A678,extended,2401FFFF
 patch=1,EE,2019A67C,extended,AC4100BC
 patch=1,EE,2019A680,extended,24020001
 
-[Cheats/Unlock All Terminology Dictionary] 
+//Cheats/Unlock All Terminology Dictionary
 patch=1,EE,2019A5E4,extended,10000004
 patch=1,EE,2019A5F8,extended,2401FFFF
 patch=1,EE,2019A5FC,extended,AC41011C
 patch=1,EE,2019A600,extended,24020001
 
-[Cheats/Unlock All Sound]  
+//Cheats/Unlock All Sound
 patch=1,EE,2019A564,extended,10000004
 patch=1,EE,2019A578,extended,2401FFFF
 patch=1,EE,2019A57C,extended,AC41029C
 patch=1,EE,2019A580,extended,24020001
 
-[Cheats/Unlock All Demo] 
+//Cheats/Unlock All Demo
 patch=1,EE,2019A4E4,extended,10000004
 patch=1,EE,2019A4F8,extended,2401FFFF
 patch=1,EE,2019A4FC,extended,AC4102BC
 patch=1,EE,2019A500,extended,24020001
 
-[Cheats/Unlock All Scenario chart]
+//Cheats/Unlock All Scenario chart
 patch=1,EE,2019A464,extended,10000004
 patch=1,EE,2019A478,extended,2401FFFF
 patch=1,EE,2019A47C,extended,AC4102CC

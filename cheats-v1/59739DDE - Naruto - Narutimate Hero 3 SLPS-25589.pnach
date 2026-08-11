@@ -1,24 +1,24 @@
-[Cheats/Max Money 9999999] 
+//Cheats/Max Money 9999999
 patch=1,EE,20C757E4,extended,0098967F
 
-[Cheats/Unlock Basis Iesato All Elements Gathering] 
+//Cheats/Unlock Basis Iesato All Elements Gathering
 patch=1,EE,40C7E170,extended,00800001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock Hero Story Scenario All Development] 
+//Cheats/Unlock Hero Story Scenario All Development
 patch=1,EE,20C7F5AC,extended,000C000C
 patch=1,EE,20C7F5B0,extended,001E000C
 
-[Cheats/Infinite Tool use] 
+//Cheats/Infinite Tool use
 patch=1,EE,40C7E268,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Ultimate Road All Naruto Parameters 255] 
+//Cheats/Ultimate Road All Naruto Parameters 255
 patch=1,EE,20C75214,extended,00FF00FF
 patch=1,EE,20C75218,extended,00FF00FF
 patch=1,EE,20C7521C,extended,00FF00FF
 
-[Cheats/Ultimate Road All Para 255] 
+//Cheats/Ultimate Road All Para 255
 patch=1,EE,40C75214,extended,002E0005
 patch=1,EE,00FF00FF,extended,00000000
 patch=1,EE,40C75218,extended,002E0005
@@ -26,14 +26,14 @@ patch=1,EE,00FF00FF,extended,00000000
 patch=1,EE,40C7521C,extended,002E0005
 patch=1,EE,00FF00FF,extended,00000000
 
-[Cheats/Unlock All Scenario]  
+//Cheats/Unlock All Scenario
 patch=1,EE,20C7F5AC,extended,000C000C
 patch=1,EE,20C7F5B0,extended,001E000C
 
-[Cheats/Unlock Almost All Naruto's Home Elements no Music] 
+//Cheats/Unlock Almost All Naruto's Home Elements no Music
 patch=1,EE,40C7E170,extended,00800001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Customization Items] 
+//Cheats/Unlock All Customization Items
 patch=1,EE,40C7E268,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000

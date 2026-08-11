@@ -1,10 +1,10 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,080544E4
 patch=1,EE,200C0228,extended,AC410270
 patch=1,EE,201421CC,extended,0C030088
 
-[Cheats/Infinite Power Drencher Ammo] 
+//Cheats/Infinite Power Drencher Ammo
 patch=1,EE,201C1354,extended,00000000
 
 

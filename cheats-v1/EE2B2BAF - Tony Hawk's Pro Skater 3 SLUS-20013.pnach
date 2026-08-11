@@ -1,14 +1,14 @@
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,20CC4490,extended,00000120
 patch=1,EE,20CC4498,extended,00000120
 
-[Cheats/Unlock All Characters]  
+//Cheats/Unlock All Characters
 patch=1,EE,10AEA1C0,extended,0000FFFF
 
-[Cheats/Unlock All Cheats And Movies]  
+//Cheats/Unlock All Cheats And Movies
 patch=1,EE,10AEA1C2,extended,0000FFFF
 patch=1,EE,20AEA1C4,extended,FFFFFFFF
 patch=1,EE,10AEA1C8,extended,0000FFFF
 
-[Cheats/Unlock Debug Mode will put DEBUG in the main menu and in-game. From here, you can view models, toggle debug info, load test levels and more.] 
+//Cheats/Unlock Debug Mode will put DEBUG in the main menu and in-game. From here, you can view models, toggle debug info, load test levels and more.
 patch=1,EE,0016EBE4,extended,00000000

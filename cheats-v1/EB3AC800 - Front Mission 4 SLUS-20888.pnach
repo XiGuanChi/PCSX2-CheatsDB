@@ -1,28 +1,28 @@
-[Cheats/Infinite Funds] 
+//Cheats/Infinite Funds
 patch=1,EE,203B6200,extended,0000FFFF
 
-[Cheats/Infinite AP]  
+//Cheats/Infinite AP
 patch=1,EE,201C1544,extended,00000000
 
-[Cheats/Infinite EP Usage]  
+//Cheats/Infinite EP Usage
 patch=1,EE,202A912C,extended,00000000
 
-[Cheats/Infinite Weapons Usage] 
+//Cheats/Infinite Weapons Usage
 patch=1,EE,202347C8,extended,00000000
 
-[Cheats/Infinite Body Character 1] 
+//Cheats/Infinite Body Character 1
 patch=1,EE,103BB874,extended,000003E7
 patch=1,EE,103BB872,extended,000003E7
 
-[Cheats/Infinite Arm L Character 1] 
+//Cheats/Infinite Arm L Character 1
 patch=1,EE,103BB894,extended,000003E7
 patch=1,EE,103BB892,extended,000003E7
 
-[Cheats/Infinite Arm R Character 1] 
+//Cheats/Infinite Arm R Character 1
 patch=1,EE,103BB8B4,extended,000003E7
 patch=1,EE,103BB8B2,extended,000003E7
 
-[Cheats/Infinite Legs Character 1] 
+//Cheats/Infinite Legs Character 1
 patch=1,EE,103BB8D4,extended,000003E7
 patch=1,EE,103BB8D2,extended,000003E7
 

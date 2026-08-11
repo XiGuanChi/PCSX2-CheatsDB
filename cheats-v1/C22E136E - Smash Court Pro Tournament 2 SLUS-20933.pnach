@@ -1,37 +1,37 @@
-[Cheats/Player 1 Starts With 40] 
+//Cheats/Player 1 Starts With 40
 patch=1,EE,E00250F4,extended,00478D9C
 patch=1,EE,D05750F4,extended,00000000
 patch=1,EE,105750F4,extended,00000003
 
-[Cheats/Player 2 Never Scores] 
+//Cheats/Player 2 Never Scores
 patch=1,EE,D0478D9C,extended,000050F4
 patch=1,EE,105750F6,extended,00000000
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,40442AA8,extended,00720001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/All Trophies] 
+//Cheats/All Trophies
 patch=1,EE,20442C94,extended,01010101
 patch=1,EE,20442C98,extended,01010101
 
-[Cheats/Unlock All Manuals] 
+//Cheats/Unlock All Manuals
 patch=1,EE,40442AA8,extended,000C0001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Outfits] 
+//Cheats/Unlock All Outfits
 patch=1,EE,40442AD8,extended,000F0001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Sounds] 
+//Cheats/Unlock All Sounds
 patch=1,EE,40442B14,extended,00190001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock Cards 1-64] 
+//Cheats/Unlock Cards 1-64
 patch=1,EE,40442B78,extended,00300001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock Cards 65-76] 
+//Cheats/Unlock Cards 65-76
 patch=1,EE,40442C38,extended,00090001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,200C0220,extended,24050001
@@ -39,6 +39,6 @@ patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,A045003E
 patch=1,EE,20151BD0,extended,0C030088
 
-[Cheats/Unlock All Cameras] 
+//Cheats/Unlock All Cameras
 patch=1,EE,40442C5C,extended,00050001
 patch=1,EE,01010101,extended,00000000

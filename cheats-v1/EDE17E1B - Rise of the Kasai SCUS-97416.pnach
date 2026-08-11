@@ -1,23 +1,23 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2064A428,extended,42C80000
 patch=1,EE,20647D08,extended,42C80000
 
-[Cheats/Max Health] 
+//Cheats/Max Health
 patch=1,EE,2064A42C,extended,42C80000
 patch=1,EE,20647D0C,extended,42C80000
 
-[Cheats/Infinite Arrows] 
+//Cheats/Infinite Arrows
 patch=1,EE,0064BDDC,extended,00000063
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,203F5570,extended,FFFFFFFF
 
-[Cheats/Unlock All Cheats] 
+//Cheats/Unlock All Cheats
 patch=1,EE,203F5580,extended,FFFFFFFF
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,203F557C,extended,FFFFFFFF
 
-[Cheats/Unlock All Outfits] 
+//Cheats/Unlock All Outfits
 patch=1,EE,203F5578,extended,FFFFFFFF
 

@@ -1,18 +1,18 @@
-[Cheats/Infinite Lives] 
+//Cheats/Infinite Lives
 patch=1,EE,001A81B8,extended,0000000A
 
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,20118F84,extended,30E2FFFE
 patch=1,EE,20118F88,extended,1000013A
 patch=1,EE,20118F8C,extended,A2020000
 
-[Cheats/Infinite Flash Bombs]  
+//Cheats/Infinite Flash Bombs
 patch=1,EE,2011D548,extended,00000000
 
-[Cheats/Unlock Level Select] 
+//Cheats/Unlock Level Select
 patch=1,EE,202E4294,extended,00000016
 
-[Cheats/Arcade Start In Last Stage] 
+//Cheats/Arcade Start In Last Stage
 patch=1,EE,200F6000,extended,34010000
 patch=1,EE,200F6004,extended,AF818F9C
 patch=1,EE,200F6008,extended,0804B8CC

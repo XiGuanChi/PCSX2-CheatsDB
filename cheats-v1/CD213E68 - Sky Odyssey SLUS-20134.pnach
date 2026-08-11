@@ -1,29 +1,29 @@
-[Cheats/Max Acrobatic Points] 
+//Cheats/Max Acrobatic Points
 patch=1,EE,20283830,extended,0001869F
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,20283F00,extended,00000000
 
-[Cheats/Max Rings Passed] 
+//Cheats/Max Rings Passed
 patch=1,EE,10284124,extended,00000064
 
-[Cheats/Infinite Fuel] 
+//Cheats/Infinite Fuel
 patch=1,EE,103765BA,extended,000042C8
 
-[Cheats/Unlock All Aircraft] 
+//Cheats/Unlock All Aircraft
 patch=1,EE,203840F8,extended,81818181
 patch=1,EE,103840FC,extended,00008181
 
-[Cheats/Unlock All Graphics] 
+//Cheats/Unlock All Graphics
 patch=1,EE,20386690,extended,FFFFFFFF
 patch=1,EE,20386694,extended,FFFFFFFF
 patch=1,EE,10386698,extended,0000FFFF
 
-[Cheats/Unlock All Map Pieces]  
+//Cheats/Unlock All Map Pieces
 patch=1,EE,0038415D,extended,00000085
 patch=1,EE,1038415E,extended,00008986
 
-[Cheats/Press L3+R3 For Debug Menu in any of the main menus, or the title screen.Change options with L1- R1. Press Circle to enter an option. When in any sub-menu, press Start to go back] 
+//Cheats/Press L3+R3 For Debug Menu in any of the main menus, or the title screen.Change options with L1- R1. Press Circle to enter an option. When in any sub-menu, press Start to go back
 patch=1,EE,D0363B82,extended,0000FFF9
 patch=1,EE,20114790,extended,2410FFFF
 patch=1,EE,D0363B82,extended,0000FFFF

@@ -1,41 +1,41 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,200C0220,extended,3C02000F
 patch=1,EE,200C0224,extended,3442423F
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,AC820074
 patch=1,EE,20248BA8,extended,08030088
 
-[Cheats/Max Pets Points] 
+//Cheats/Max Pets Points
 patch=1,EE,200C0230,extended,3C02000F
 patch=1,EE,200C0234,extended,3442423F
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,200C023C,extended,AC820078
 patch=1,EE,2023ECE8,extended,0803008C
 
-[Cheats/Max Motives] 
+//Cheats/Max Motives
 patch=1,EE,2023D17C,extended,00000000
 
-[Cheats/Max Comfort] 
+//Cheats/Max Comfort
 patch=1,EE,205322e0,extended,3f800000
 
-[Cheats/Max Hunger]  
+//Cheats/Max Hunger
 patch=1,EE,205322ec,extended,3f800000
 
-[Cheats/Max Social] 
+//Cheats/Max Social
 patch=1,EE,205322f0,extended,3f800000
 patch=1,EE,205322f4,extended,3f800000
 
-[Cheats/Max Hygiene when Sleeping] 
+//Cheats/Max Hygiene when Sleeping
 patch=1,EE,20532304,extended,3f800000
 
-[Cheats/Max Hygiene when Awake] 
+//Cheats/Max Hygiene when Awake
 patch=1,EE,205322fc,extended,3f800000
 
-[Cheats/Bladder does not take off] 
+//Cheats/Bladder does not take off
 patch=1,EE,2053230c,extended,3f800000
 patch=1,EE,20532310,extended,3f800000
 
-[Cheats/Space does not Diminish] 
+//Cheats/Space does not Diminish
 patch=1,EE,205323c4,extended,00000000
 patch=1,EE,205323c8,extended,00000000
 

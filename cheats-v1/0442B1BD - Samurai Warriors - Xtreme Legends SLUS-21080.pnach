@@ -1,52 +1,52 @@
-[Cheats/Infinite Health All Human Players] 
+//Cheats/Infinite Health All Human Players
 patch=1,EE,D034041F,extended,403B3CFA 
 patch=1,EE,200C0224,extended,A4810272
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,3C010052
 patch=1,EE,20234800,extended,0C030088
 
-[Cheats/Infinite Musou Move Press Circle]  
+//Cheats/Infinite Musou Move Press Circle
 patch=1,EE,20153108,extended,00000000
 
-[Cheats/Infinite Power Ups Upon Pickup] 
+//Cheats/Infinite Power Ups Upon Pickup
 patch=1,EE,20144A00,extended,00000000
 
-[Cheats/Infinite Special Bonus Points] 
+//Cheats/Infinite Special Bonus Points
 patch=1,EE,2050221C,extended,0098967F
 
-[Cheats/Player 1 Infinite Time Power Ups] 
+//Cheats/Player 1 Infinite Time Power Ups
 patch=1,EE,201449FC,extended,24630000
 
-[Cheats/Max EXP - Shinobi] 
+//Cheats/Max EXP - Shinobi
 patch=1,EE,20500A5C,extended,000F423F
 
-[Cheats/Max EXP - Teppou] 
+//Cheats/Max EXP - Teppou
 patch=1,EE,20500ABC,extended,000F423F
 
-[Cheats/Max EXP - Kengou] 
+//Cheats/Max EXP - Kengou
 patch=1,EE,20500B1C,extended,000F423F
 
-[Cheats/Special Options Infinite Bonus Points] 
+//Cheats/Special Options Infinite Bonus Points
 patch=1,EE,2050221C,extended,0098967F
 
-[Cheats/Unlock All Items] 
+//Cheats/Unlock All Items
 patch=1,EE,1050134E,extended,0000FFFF
 patch=1,EE,10501350,extended,0000FFFF
 patch=1,EE,00501352,extended,0000000F
 
-[Cheats/Have All Weapons] 
+//Cheats/Have All Weapons
 patch=1,EE,4050133C,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,1050134C,extended,0000FFFF
 
-[Cheats/Have All Items] 
+//Cheats/Have All Items
 patch=1,EE,1050134E,extended,0000FFFF
 patch=1,EE,20501350,extended,FFFFFFFF
 
-[Cheats/Unlock All Missions] 
+//Cheats/Unlock All Missions
 patch=1,EE,20501388,extended,FFFFFFFF
 patch=1,EE,2050138C,extended,FFFFFFFF
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,40501324,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000

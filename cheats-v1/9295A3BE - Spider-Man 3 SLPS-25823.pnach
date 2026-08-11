@@ -1,4 +1,4 @@
-[Cheats/Recover Health Press L2] 
+//Cheats/Recover Health Press L2
 patch=1,EE,201D4F88,extended,45010007
 patch=1,EE,201D4F8C,extended,3C013F80
 patch=1,EE,201D57A4,extended,AC810018
@@ -7,13 +7,13 @@ patch=1,EE,201D57AC,extended,AC81001C
 patch=1,EE,D1FC7F82,extended,0000FEFF
 patch=1,EE,201D4F88,extended,080755E9
 
-[Cheats/Max Adrenaline Meter Press L1+Circle Be careful as mental erosion will begin when adrenaline reaches maximum level during Black Spider-Man] 
+//Cheats/Max Adrenaline Meter Press L1+Circle Be careful as mental erosion will begin when adrenaline reaches maximum level during Black Spider-Man
 patch=1,EE,202BBFC0,extended,C4540010
 patch=1,EE,202BBFC8,extended,C454000C
 patch=1,EE,D1FC7F82,extended,0000DBFF
 patch=1,EE,202BBFC8,extended,E454000C
 
-[Cheats/Hero Points 1000] 
+//Cheats/Hero Points 1000
 patch=1,EE,202D3A04,extended,080B4EE9
 patch=1,EE,202D3A08,extended,3C01447A
 patch=1,EE,202D3A0C,extended,44810800
@@ -21,10 +21,10 @@ patch=1,EE,202D3BA4,extended,AC410010
 patch=1,EE,202D3BA8,extended,080B4E83
 patch=1,EE,202D3BAC,extended,3C014F00
 
-[Cheats/Max Combo 10000 when you Defeat an Enemy] 
+//Cheats/Max Combo 10000 when you Defeat an Enemy
 patch=1,EE,201D2020,extended,24052710
 
-[Cheats/100,000 Points for Combo Attack Experience Points will also increase significantly when you defeat enemies] 
+//Cheats/100,000 Points for Combo Attack Experience Points will also increase significantly when you defeat enemies
 patch=1,EE,201D1ED0,extended,3C0147C3
 patch=1,EE,201D1ED4,extended,34215000
 patch=1,EE,201D1ED8,extended,AE4101A0

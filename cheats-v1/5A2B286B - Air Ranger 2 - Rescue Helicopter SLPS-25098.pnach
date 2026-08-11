@@ -1,12 +1,12 @@
-[Cheats/Max PP]   
+//Cheats/Max PP
 patch=1,EE,21DE2C60,extended,000F423F
 
-[Cheats/Get 50 Star Coins] 
+//Cheats/Get 50 Star Coins
 patch=1,EE,11DE2D56,extended,0000FFFF
 patch=1,EE,21DE2D58,extended,FFFFFFFF
 patch=1,EE,21DE2D5C,extended,FFFFFFFF
 
-[Cheats/Unlock All Bonus flight level will be fixed at beginners. save and disconnect] 
+//Cheats/Unlock All Bonus flight level will be fixed at beginners. save and disconnect
 patch=1,EE,21DE2C58,extended,0007FFFF
 patch=1,EE,21DE2C5C,extended,0007FFFF
 patch=1,EE,21DE2D48,extended,FFFFFFFF
@@ -14,5 +14,5 @@ patch=1,EE,01DE2D4C,extended,000000FC
 patch=1,EE,21DE2D50,extended,3E3E3E3E
 patch=1,EE,11DE2D54,extended,00003E3E
 
-[Cheats/Flight time 0] 
+//Cheats/Flight time 0
 patch=1,EE,21DE2C54,extended,00000000

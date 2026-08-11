@@ -1,27 +1,27 @@
-[Cheats/Infinite Lips Timer] 
+//Cheats/Infinite Lips Timer
 patch=1,EE,2025C148,extended,E49F003C
 
-[Cheats/Infinite Lips Timer Press L2+SELECT ON R2+SELECT OFF]  
+//Cheats/Infinite Lips Timer Press L2+SELECT ON R2+SELECT OFF
 patch=1,EE,D0573C42,extended,0000FEFE
 patch=1,EE,2025C148,extended,E49F003C
 patch=1,EE,D0573C42,extended,0000FDFE
 patch=1,EE,2025C148,extended,E480003C
 
 
-[Cheats/Infinite Res] 
+//Cheats/Infinite Res
 patch=1,EE,200A0078,extended,8653006C
 patch=1,EE,200A007C,extended,A653006E
 
-[Cheats/Infinite SP] 
+//Cheats/Infinite SP
 patch=1,EE,200A0080,extended,86530072
 patch=1,EE,200A0084,extended,A6530074
 
-[Cheats/Infinite Mobility Gauge Blue Bar Refill] 
+//Cheats/Infinite Mobility Gauge Blue Bar Refill
 patch=1,EE,200A0088,extended,86530078
 patch=1,EE,200A008C,extended,A653007A
 patch=1,EE,200A0090,extended,A653007C
 
-[Cheats/In battle Infinite Mobility Gauge Blue Bar] 
+//Cheats/In battle Infinite Mobility Gauge Blue Bar
 patch=1,EE,200A00E0,extended,84450048
 patch=1,EE,200A00E4,extended,14A00003
 patch=1,EE,200A00E8,extended,84450078
@@ -32,22 +32,22 @@ patch=1,EE,200A00F8,extended,080BAF25
 patch=1,EE,200A00FC,extended,8445007C
 patch=1,EE,202EBC90,extended,08028038
 
-[Cheats/Att 99] 
+//Cheats/Att 99
 patch=1,EE,200A0094,extended,24130063
 patch=1,EE,200A0098,extended,A6530080
 
-[Cheats/RMR 99] 
+//Cheats/RMR 99
 patch=1,EE,200A009C,extended,24130063
 patch=1,EE,200A00A0,extended,A6530082
 
-[Cheats/SPD 99] 
+//Cheats/SPD 99
 patch=1,EE,200A00A4,extended,24130063
 patch=1,EE,200A00A8,extended,A6530084
 
-[Cheats/Enemy No HP] 
+//Cheats/Enemy No HP
 patch=1,EE,200A00B4,extended,A640006E
 
-[Cheats/Level Debug Adv Debug] 
+//Cheats/Level Debug Adv Debug
 patch=1,EE,201B0C00,extended,24020001
 patch=1,EE,201B0C04,extended,AF8287CC
 patch=1,EE,201B0C08,extended,03E00008

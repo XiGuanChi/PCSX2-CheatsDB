@@ -1,6 +1,6 @@
 gametitle=The Sopranos - Road to Respect PAL-E SLES-54209 673AF937
 
-[50/60 FPS]
+//50/60 FPS
 author=GamingDragon93
 description=Might need EE overclock (180%-300%).
 patch=0,EE,001DAA60,extended,24430002
@@ -10,7 +10,7 @@ patch=1,EE,E0020001,extended,003D04E4
 patch=1,EE,101FA7E0,extended,3C013C88
 patch=1,EE,101FA7E4,extended,34218889
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start. FMVs Skip.
 patch=0,EE,003D04E0,word,000001C0

@@ -1,16 +1,16 @@
-[Cheats/Infinite Health Level 1]  
+//Cheats/Infinite Health Level 1
 patch=1,EE,20E6ED1C,extended,43020000
 
-[Cheats/Infinite Health Level 2] 
+//Cheats/Infinite Health Level 2
 patch=1,EE,20DC8BFC,extended,43020000
 
-[Cheats/Infinite Health Level 3] 
+//Cheats/Infinite Health Level 3
 patch=1,EE,20D7FE1C,extended,43020000
 
-[Cheats/Infinite Health Level 4] 
+//Cheats/Infinite Health Level 4
 patch=1,EE,20E1F5BC,extended,43020000
 
-[Cheats/Activator for Codes] 
+//Cheats/Activator for Codes
 patch=1,EE,200C0000,extended,3C04004E
 patch=1,EE,200C0004,extended,8C85DED8
 patch=1,EE,200C0008,extended,10A0001B
@@ -31,22 +31,22 @@ patch=1,EE,200C0078,extended,03E00008
 patch=1,EE,200C007C,extended,00000000
 patch=1,EE,2040A50C,extended,08030000
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C0040,extended,3C014302
 patch=1,EE,200C0044,extended,8CA30004
 patch=1,EE,200C0048,extended,AC610000
 
-[Cheats/Infinite Special Meter] 
+//Cheats/Infinite Special Meter
 patch=1,EE,200C004C,extended,8CA30004
 patch=1,EE,200C0050,extended,3C0142C8
 patch=1,EE,200C0054,extended,AC610008
 
-[Cheats/Infinite Grenades] 
+//Cheats/Infinite Grenades
 patch=1,EE,200C0058,extended,8CA30020
 patch=1,EE,200C005C,extended,3C014040
 patch=1,EE,200C0060,extended,AC610000
 
-[Cheats/Infinite Flamethrower] 
+//Cheats/Infinite Flamethrower
 patch=1,EE,200C0064,extended,8CA30020
 patch=1,EE,200C0068,extended,3C01447A
 patch=1,EE,200C006C,extended,AC610008

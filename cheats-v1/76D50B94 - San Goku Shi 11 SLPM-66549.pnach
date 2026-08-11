@@ -1,4 +1,4 @@
-[Cheats/New General 1 Character Ability Max 200] 
+//Cheats/New General 1 Character Ability Max 200
 patch=1,EE,11C50156,extended,0000C8C8
 patch=1,EE,11C50158,extended,0000C8C8
 patch=1,EE,01C5015A,extended,000000C8
@@ -6,27 +6,27 @@ patch=1,EE,11C501BA,extended,0000C8C8
 patch=1,EE,11C501BC,extended,0000C8C8
 patch=1,EE,01C501BE,extended,000000C8
 
-[Cheats/Max Hiino, Stones And Fighting Warship Possession]  
+//Cheats/Max Hiino, Stones And Fighting Warship Possession
 patch=1,EE,21C17CE0,extended,000186A0
 patch=1,EE,21C17CE4,extended,000186A0
 patch=1,EE,21C17CE8,extended,000186A0
 
-[Cheats/Max Action Power At The End Of Strategy 255] 
+//Cheats/Max Action Power At The End Of Strategy 255
 patch=1,EE,20269378,extended,00000000
 
-[Cheats/In Battle Unit 1 Max Gold] 
+//Cheats/In Battle Unit 1 Max Gold
 patch=1,EE,11C9B5A4,extended,00002710
 
-[Cheats/In Battle Unit 1 Max Provisions] 
+//Cheats/In Battle Unit 1 Max Provisions
 patch=1,EE,21C9B5A8,extended,0009EB10
 
-[Cheats/In Battle Unit 1 Max Number Of Soldiers] 
+//Cheats/In Battle Unit 1 Max Number Of Soldiers
 patch=1,EE,11C9B5AC,extended,0000FDE8
 
-[Cheats/In Battle Unit 1 Always Inactive] 
+//Cheats/In Battle Unit 1 Always Inactive
 patch=1,EE,21C9B5C0,extended,00000000
 
-[Cheats/Max Skill After Increased skill Select+up Turn On Select+down Off]  
+//Cheats/Max Skill After Increased skill Select+up Turn On Select+down Off
 patch=1,EE,D0C56142,extended,0000FFEE
 patch=1,EE,201D0C40,extended,24052711
 patch=1,EE,D0C56142,extended,0000FFBE

@@ -1,27 +1,27 @@
-[Cheats/Max Cash All Profiles] 
+//Cheats/Max Cash All Profiles
 patch=1,EE,201DD5FC,extended,3C0105F0
 patch=1,EE,201DD600,extended,AC410034
 patch=1,EE,201DD608,extended,03E00008
 patch=1,EE,201DD60C,extended,3C0205F0
 
-[Cheats/Max Exp All Profiles] 
+//Cheats/Max Exp All Profiles
 patch=1,EE,201DD818,extended,03E00008
 patch=1,EE,201DD810,extended,AC62C060
 patch=1,EE,201DD80C,extended,3C0205F0
 
-[Cheats/Profile Codes Max Cash Manager Mode smackdown] 
+//Cheats/Profile Codes Max Cash Manager Mode smackdown
 patch=1,EE,20430AC0,extended,05F51FAB
 
-[Cheats/Profile Codes Max Experience 1st Profile] 
+//Cheats/Profile Codes Max Experience 1st Profile
 patch=1,EE,20435C70,extended,05F51FAB
 
-[Cheats/Disable AI Press R3+L2 to activate, R3+R2 to stop (the code must be stopped for the referee to count 3] 
+//Cheats/Disable AI Press R3+L2 to activate, R3+R2 to stop (the code must be stopped for the referee to count 3
 patch=1,EE,D1FABA02,extended,0000FEFB
 patch=1,EE,205C2614,extended,00000000
 patch=1,EE,D1FABA02,extended,0000FDFB
 patch=1,EE,205C2614,extended,0C17164C
 
-[Cheats/Unlock All Characters in Season] 
+//Cheats/Unlock All Characters in Season
 patch=1,EE,E0051000,extended,0057BE1A
 patch=1,EE,E004000B,extended,0057BE18
 patch=1,EE,2057BE18,extended,0000202D
@@ -29,10 +29,10 @@ patch=1,EE,2057BE24,extended,00E0202D
 patch=1,EE,2057BE2C,extended,00073080
 patch=1,EE,2057BE48,extended,2C82005C
 
-[Cheats/Open All Items] 
+//Cheats/Open All Items
 patch=1,EE,201EB1C4,extended,24020001
 
-[Cheats/Unlock All Items] 
+//Cheats/Unlock All Items
 patch=1,EE,201EB1AC,extended,240300FF
 patch=1,EE,201EB1B0,extended,A0430000
 patch=1,EE,201EB1C4,extended,24020001

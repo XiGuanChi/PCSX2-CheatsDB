@@ -1,8 +1,8 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2011BCDC,extended,C44000C4
 patch=1,EE,2011BCE4,extended,E44000C0
 
-[Cheats/Infinite Rage Hold Select To Disable] 
+//Cheats/Infinite Rage Hold Select To Disable
 patch=1,EE,E002FFFE,extended,103AC142
 patch=1,EE,203C48C0,extended,42C80000
 patch=1,EE,203C48C4,extended,42C80000
@@ -10,17 +10,17 @@ patch=1,EE,E002FFFE,extended,003AC142
 patch=1,EE,203C48C0,extended,00000000
 patch=1,EE,203C48C4,extended,00000000
 
-[Cheats/Unlock All Play Movies] 
+//Cheats/Unlock All Play Movies
 patch=1,EE,2035F5AC,extended,FFFFFFFF
 
-[Cheats/Unlock Cheat Menu Pause Game]  
+//Cheats/Unlock Cheat Menu Pause Game
 patch=1,EE,203616DC,extended,00000001
 
-[Cheats/Unlock All Costumes] 
+//Cheats/Unlock All Costumes
 patch=1,EE,203AC62C,extended,FFFFFFFF
 
-[Cheats/Unlock All Cerebros] 
+//Cheats/Unlock All Cerebros
 patch=1,EE,203AC630,extended,FFFFFFFF
 
-[Cheats/Unlock All Production Artwork] 
+//Cheats/Unlock All Production Artwork
 patch=1,EE,203235B8,extended,0000003E

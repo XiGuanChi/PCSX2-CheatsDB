@@ -1,30 +1,30 @@
-[Cheats/Infinite Cash] 
+//Cheats/Infinite Cash
 patch=1,EE,20165AC0,extended,05F5E0FF
 
-[Cheats/Infinite & Max Health] 
+//Cheats/Infinite & Max Health
 patch=1,EE,10166048,extended,000004B0
 patch=1,EE,1016604A,extended,000004B0
 
-[Cheats/Max Experience Points] 
+//Cheats/Max Experience Points
 patch=1,EE,20166050,extended,05F5E0FF
 
-[Cheats/Max Attack Strength] 
+//Cheats/Max Attack Strength
 patch=1,EE,20166080,extended,27100000
 
-[Cheats/Infinite Weapon Use if you use guns it can freeze the game] 
+//Cheats/Infinite Weapon Use if you use guns it can freeze the game
 patch=1,EE,203B6F10,extended,00000000
 
-[Cheats/Quick Max Soul] 
+//Cheats/Quick Max Soul
 patch=1,EE,D0166054,extended,003003E8
 patch=1,EE,20166054,extended,000184AC
 
-[Cheats/Quick Max Technique] 
+//Cheats/Quick Max Technique
 patch=1,EE,D0166058,extended,003003E8
 patch=1,EE,20166058,extended,000184AC
 
-[Cheats/Quick Max Body] 
+//Cheats/Quick Max Body
 patch=1,EE,D016605C,extended,003003E8
 patch=1,EE,2016605C,extended,000184AC
 
-[Cheats/Have All Power Up Skills] 
+//Cheats/Have All Power Up Skills
 patch=1,EE,20166060,extended,FFFFFFFF

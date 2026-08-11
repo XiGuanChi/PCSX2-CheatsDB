@@ -1,10 +1,10 @@
-[Cheats/Have Gawoo & King Gawoo] 
+//Cheats/Have Gawoo & King Gawoo
 patch=1,EE,0030644F,extended,000000FF
 
-[Cheats/Unlock All Missions] 
+//Cheats/Unlock All Missions
 patch=1,EE,20306460,extended,01010101
 patch=1,EE,00306464,extended,00000001
 
-[Cheats/Have All Challenges Complete] 
+//Cheats/Have All Challenges Complete
 patch=1,EE,40370EC0,extended,000B0001
 patch=1,EE,01010101,extended,00000000

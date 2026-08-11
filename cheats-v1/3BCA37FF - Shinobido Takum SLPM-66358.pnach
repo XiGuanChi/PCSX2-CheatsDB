@@ -1,56 +1,56 @@
-[Cheats/Main Story The mission will be completed when you select it. Select the tower and move the cursor to the mission to mark it as completed] 
+//Cheats/Main Story The mission will be completed when you select it. Select the tower and move the cursor to the mission to mark it as completed
 patch=1,EE,20435EA8,extended,00000000
 
-[Cheats/99 Ninja Tools divided] 
+//Cheats/99 Ninja Tools divided
 patch=1,EE,2023F118,extended,24020063
 patch=1,EE,2024DEC4,extended,24020063
 
-[Cheats/Infinite Ninja Toola Even if you use the equipped ninja tool] 
+//Cheats/Infinite Ninja Toola Even if you use the equipped ninja tool
 patch=1,EE,201A7F78,extended,00000000
 patch=1,EE,201A5438,extended,00000000
 patch=1,EE,201AA5EC,extended,00000000
 
-[Cheats/Enemy Killed In One Hit Trap type attacks are invalid]   
+//Cheats/Enemy Killed In One Hit Trap type attacks are invalid
 patch=1,EE,201FC024,extended,24032710
 patch=1,EE,201FC034,extended,24020001
 
-[Cheats/necessary code] 
+//Cheats/necessary code
 patch=1,EE,20255F24,extended,0803E000
 patch=1,EE,200F8100,extended,080957CD
 
-[Cheats/Infinite Health]  
+//Cheats/Infinite Health
 patch=1,EE,200F8000,extended,C4400020
 patch=1,EE,200F8004,extended,E440001C
 
-[Cheats/Always Successful blood ritual] 
+//Cheats/Always Successful blood ritual
 patch=1,EE,200F8008,extended,84410032
 patch=1,EE,200F800C,extended,34210080
 patch=1,EE,200F8010,extended,A4410032
 
-[Cheats/Constant stealth] 
+//Cheats/Constant stealth
 patch=1,EE,200F8014,extended,8C430000
 patch=1,EE,200F8018,extended,84610282
 patch=1,EE,200F801C,extended,34210080
 patch=1,EE,200F8020,extended,A4610282
 
-[Cheats/Be quick]  
+//Cheats/Be quick
 patch=1,EE,200F8024,extended,3C0142C8
 patch=1,EE,200F8028,extended,AC410040
 
-[Cheats/There is no confusion time] 
+//Cheats/There is no confusion time
 patch=1,EE,200F802C,extended,AC400044
 
-[Cheats/There is no stun time] 
+//Cheats/There is no stun time
 patch=1,EE,200F8030,extended,AC40004C
 
-[Cheats/Infinite Immunity time]  
+//Cheats/Infinite Immunity time
 patch=1,EE,200F8034,extended,3C0142C8
 patch=1,EE,200F8038,extended,AC410054
 
-[Cheats/Infinite Reinforcement time] 
+//Cheats/Infinite Reinforcement time
 patch=1,EE,200F803C,extended,3C0142C8
 patch=1,EE,200F8040,extended,AC41005C
 
-[Cheats/Infinite Enlargement time] 
+//Cheats/Infinite Enlargement time
 patch=1,EE,200F8044,extended,3C0142C8
 patch=1,EE,200F8048,extended,AC410060

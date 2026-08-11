@@ -1,29 +1,29 @@
 gametitle=Need for Speed - Underground SLES-51967 FDA10318
 
-[Infinite Money]
+//Infinite Money
 author=GamingDragon93
 patch=1,EE,204ADA0C,extended,05F5E0FF
 
-[Max Circuit Starts]
+//Max Circuit Starts
 author=GamingDragon93
 patch=1,EE,204B598C,extended,05F5E0FF
 
-[Max Circuit Wins]
+//Max Circuit Wins
 author=GamingDragon93
 patch=1,EE,204B5990,extended,05F5E0FF
 
-[Infinite Turbo]
+//Infinite Turbo
 author=GamingDragon93
 patch=1,EE,2018D63C,extended,24020333
 patch=1,EE,2018D654,extended,00000000
 patch=1,EE,2018D858,extended,00000000
 
-[Stacks Of Extras Unlocked]
+//Stacks Of Extras Unlocked
 author=GamingDragon93
 patch=1,EE,404AC9E8,extended,00230001
 patch=1,EE,02020202,extended,00000000
 
-[Stacks Of Extras Unlocked A]
+//Stacks Of Extras Unlocked A
 author=GamingDragon93
 patch=1,EE,204AC9E8,extended,02020202
 patch=1,EE,204AC9EC,extended,02020202
@@ -37,7 +37,7 @@ patch=1,EE,204AC9E8,extended,02020202
 patch=1,EE,204AC9EC,extended,02020202
 patch=1,EE,204AC9F0,extended,02020202
 
-[Stacks Of Extras Unlocked B]
+//Stacks Of Extras Unlocked B
 author=GamingDragon93
 patch=1,EE,204AC9F4,extended,02020202
 patch=1,EE,204AC9F8,extended,02020202

@@ -1,6 +1,6 @@
 gametitle=DreamWorks Over the Hedge PAL-E SLES-53866 290C8D74
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start. Broken FMVs.
 patch=0,EE,0022FF5C,word,8C430001 //8C430000

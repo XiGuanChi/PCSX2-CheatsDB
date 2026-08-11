@@ -1,10 +1,10 @@
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,2030B884,extended,41200000
 
-[Cheats/Infinite Air] 
+//Cheats/Infinite Air
 patch=1,EE,2030B88C,extended,42C60000
 
-[Cheats/Re-enable Debug Features Press Select on Controller 2 to enable a debug menu in game.Press L3+R3 on controller 1, at the main menu to enable a level select menu] 
+//Cheats/Re-enable Debug Features Press Select on Controller 2 to enable a debug menu in game.Press L3+R3 on controller 1, at the main menu to enable a level select menu
 patch=1,EE,20152238,extended,00000000
 patch=1,EE,2015226C,extended,00000000
 patch=1,EE,20152208,extended,00000000

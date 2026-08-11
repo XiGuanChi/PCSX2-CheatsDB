@@ -1,4 +1,4 @@
-[Cheats/God Mode And 1 Hit Kill] 
+//Cheats/God Mode And 1 Hit Kill
 patch=1,EE,2010F780,extended,0C028000
 patch=1,EE,200A0000,extended,3C0100B8
 patch=1,EE,200A0004,extended,3421B10C
@@ -9,5 +9,5 @@ patch=1,EE,200A0014,extended,00000000
 patch=1,EE,200A0018,extended,03E00008
 patch=1,EE,202514B8,extended,AC400008
 
-[Cheats/99999 Cheese] 
+//Cheats/99999 Cheese
 patch=1,EE,2131d778,extended,0001869f

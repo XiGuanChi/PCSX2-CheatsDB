@@ -1,47 +1,47 @@
-[Cheats/Activation Code Must Be On] 
+//Cheats/Activation Code Must Be On
 patch=1,EE,200C0220,extended,30630003
 patch=1,EE,200C0264,extended,03E00008
 patch=1,EE,200C0268,extended,E4A00004
 patch=1,EE,202049E0,extended,08030088
 patch=1,EE,202049E4,extended,C4400B38
 
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,200C0224,extended,24010000
 patch=1,EE,200C0228,extended,14230002
 patch=1,EE,200C022C,extended,3C01447A
 patch=1,EE,200C0230,extended,AC410B38
 
-[Cheats/1 Hit Death P2] 
+//Cheats/1 Hit Death P2
 patch=1,EE,200C0234,extended,24010001
 patch=1,EE,200C0238,extended,14230002
 patch=1,EE,200C023C,extended,3C013A00
 patch=1,EE,200C0240,extended,AC410B38
 
-[Cheats/1 Hit Death P3] 
+//Cheats/1 Hit Death P3
 patch=1,EE,200C0244,extended,24010002
 patch=1,EE,200C0248,extended,14230002
 patch=1,EE,200C024C,extended,3C013A00
 patch=1,EE,200C0250,extended,AC410B38
 
-[Cheats/1 Hit Death P4] 
+//Cheats/1 Hit Death P4
 patch=1,EE,200C0254,extended,24010003
 patch=1,EE,200C0258,extended,14230002
 patch=1,EE,200C025C,extended,3C010000
 patch=1,EE,200C0260,extended,AC410B38
 
-[Cheats/Max Store Points] 
+//Cheats/Max Store Points
 patch=1,EE,20545DC8,extended,05F5E0FF
 
-[Cheats/Have All Store Items Purchased] 
+//Cheats/Have All Store Items Purchased
 patch=1,EE,40545DB0,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock Earth Defendersm Aliens, GDF and Mutants] 
+//Cheats/Unlock Earth Defendersm Aliens, GDF and Mutants
 patch=1,EE,10545DB0,extended,00000FFF
 patch=1,EE,20545DB8,extended,00000007
 
-[Cheats/Unlock All Environments] 
+//Cheats/Unlock All Environments
 patch=1,EE,00545DBC,extended,0000005F
 
-[Cheats/Unlock All Gallery] 
+//Cheats/Unlock All Gallery
 patch=1,EE,20545DC0,extended,07FFFFFF

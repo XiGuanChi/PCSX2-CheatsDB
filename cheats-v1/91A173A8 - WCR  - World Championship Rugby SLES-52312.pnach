@@ -1,9 +1,9 @@
-[Cheats/Press R2 To Freeze Timer] 
+//Cheats/Press R2 To Freeze Timer
 patch=1,EE,E002FDFF,extended,00336082
 patch=1,EE,2013E65C,extended,00000000
 patch=1,EE,2013E638,extended,00000000
 
-[Cheats/Press L2 To Restart Timer] 
+//Cheats/Press L2 To Restart Timer
 patch=1,EE,E002FEFF,extended,00336082
 patch=1,EE,2013E65C,extended,E600000C
 patch=1,EE,2013E638,extended,E6000008

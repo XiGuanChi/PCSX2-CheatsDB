@@ -1,15 +1,15 @@
-[Cheats/60 Hertz Mode] 
+//Cheats/60 Hertz Mode
 patch=1,EE,20264D08,extended,24120002
 
-[Cheats/Infinite Turbo Usage] 
+//Cheats/Infinite Turbo Usage
 patch=1,EE,202D2AE8,extended,00000000
 
-[Cheats/Max Score] 
+//Cheats/Max Score
 patch=1,EE,20188954,extended,24120001
 patch=1,EE,2017FB90,extended,0C062252
 patch=1,EE,20188948,extended,3C0105F0
 patch=1,EE,2018894C,extended,AC4101D4
 
-[Cheats/Unlock All] 
+//Cheats/Unlock All
 patch=1,EE,2017E460,extended,00000000
 

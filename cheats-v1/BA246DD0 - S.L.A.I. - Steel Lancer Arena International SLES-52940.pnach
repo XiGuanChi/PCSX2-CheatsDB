@@ -1,27 +1,27 @@
-[Cheats/Infinite CR] 
+//Cheats/Infinite CR
 patch=1,EE,20603b40,extended,05f5e0ff
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2072d898,extended,43480000
 patch=1,EE,2072db98,extended,43480000
 patch=1,EE,2072de98,extended,43480000
 patch=1,EE,2072e198,extended,43480000
 
-[Cheats/Infinite Armor 50,000]
+//Cheats/Infinite Armor 50,000
 patch=1,EE,10cbab14,extended,0000c350
 patch=1,EE,10cbab24,extended,0000c350
 patch=1,EE,10cbab28,extended,0000c350
 
-[Cheats/Max Score 9,999,999] 
+//Cheats/Max Score 9,999,999
 patch=1,EE,20cbaad8,extended,0098967f
 patch=1,EE,20cbaadc,extended,0098967f
 
-[Cheats/Destroyed 9999] 
+//Cheats/Destroyed 9999
 patch=1,EE,20cbaae4,extended,0000270f
 
-[Cheats/Time O.T. incorrect] 
+//Cheats/Time O.T. incorrect
 patch=1,EE,2030c8b4,extended,43020000
 
-[Cheats/Unlock All Weapons] 
+//Cheats/Unlock All Weapons
 patch=1,EE,204d74a0,extended,a0630000
 patch=1,EE,204d77d0,extended,a0630000

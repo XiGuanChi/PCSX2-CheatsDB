@@ -1,18 +1,18 @@
-[Cheats/Max Money After One Battle]  
+//Cheats/Max Money After One Battle
 patch=1,EE,D0241188,extended,0000182A
 patch=1,EE,20241188,extended,00001821
 
-[Cheats/Max Money After Sell Items] 
+//Cheats/Max Money After Sell Items
 patch=1,EE,D02F9B42,extended,00004402
 patch=1,EE,202F9B3C,extended,00000000
 
 Cheats/All HP 99999] 
 patch=1,EE,203BD710,extended,0060280A
 
-[Cheats/All MP 99999] 
+//Cheats/All MP 99999
 patch=1,EE,203BD340,extended,0060280A
 
-[Cheats/Save Anywhere] 
+//Cheats/Save Anywhere
 patch=1,EE,E0030088,extended,002585C8
 patch=1,EE,202585C8,extended,24080001
 patch=1,EE,202585CC,extended,A0680088

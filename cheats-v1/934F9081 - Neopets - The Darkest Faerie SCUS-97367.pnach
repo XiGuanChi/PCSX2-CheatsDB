@@ -1,15 +1,15 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,203353C4,extended,00000096
 
-[Cheats/Infinite Magic] 
+//Cheats/Infinite Magic
 patch=1,EE,203353CC,extended,00000064
 
-[Cheats/Infinite NeoPoints] 
+//Cheats/Infinite NeoPoints
 patch=1,EE,2037F2CC,extended,0000270F
 
-[Cheats/Infinite Item Usage] 
+//Cheats/Infinite Item Usage
 patch=1,EE,201AA364,extended,00000000
 
-[Cheats/Enable Debug New-Game Menu] 
+//Cheats/Enable Debug New-Game Menu
 patch=1,EE,2017D174,extended,24020001
 

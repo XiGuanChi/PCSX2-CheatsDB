@@ -1,10 +1,10 @@
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,2030F908,extended,00000943
 
-[Cheats/Infinite Time ALT] 
+//Cheats/Infinite Time ALT
 patch=1,EE,2010A940,extended,340E1900
 
-[Cheats/Press L3 For Test Menu] 
+//Cheats/Press L3 For Test Menu
 patch=1,EE,D1EA7942,extended,0000FFFD
 patch=1,EE,20119E5C,extended,240EFFFF
 patch=1,EE,D1EA7942,extended,0000FFFF

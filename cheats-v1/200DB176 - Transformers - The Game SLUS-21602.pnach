@@ -1,4 +1,4 @@
-[Cheats/Infinite HP]  
+//Cheats/Infinite HP
 patch=1,EE,2027d50c,extended,08028000
 patch=1,EE,2027d510,extended,00000000
 patch=1,EE,200a0000,extended,240105dc
@@ -10,18 +10,18 @@ patch=1,EE,200a001c,extended,e60c0024
 patch=1,EE,200a0020,extended,0809f544
 patch=1,EE,200a0024,extended,7bb00010
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,2024F2a0,extended,C6000024
 
-[Cheats/At Menu Campaign Bonus Oprions Section Press Left Active Infinite HP]  
+//Cheats/At Menu Campaign Bonus Oprions Section Press Left Active Infinite HP
 patch=1,EE,204d30b0,extended,00000001
 patch=1,EE,204d30b4,extended,00000000
 
-[Cheats/At Menu Campaign Bonus Oprions Section Press Up Active Infinite Ammo] 
+//Cheats/At Menu Campaign Bonus Oprions Section Press Up Active Infinite Ammo
 patch=1,EE,204d30c4,extended,00000004
 patch=1,EE,204d30c8,extended,00000000
 
-[Cheats/At Menu Campaign Bonus Oprions Section Press Right Active All Missions] 
+//Cheats/At Menu Campaign Bonus Oprions Section Press Right Active All Missions
 patch=1,EE,204d30b8,extended,00020000
 patch=1,EE,204d30bC,extended,00000000
 patch=1,EE,204d30c0,extended,00000000

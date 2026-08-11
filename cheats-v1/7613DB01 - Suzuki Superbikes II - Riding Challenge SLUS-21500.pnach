@@ -1,32 +1,32 @@
-[Cheats/Infinite Bike Health] 
+//Cheats/Infinite Bike Health
 patch=1,EE,20215D6C,extended,3C0142C8
 patch=1,EE,20215D74,extended,AC410000
 
-[Cheats/Infinite Skill Points ]  
+//Cheats/Infinite Skill Points
 patch=1,EE,21C14670,extended,00000063
 
-[Cheats/Infinite Skill Points Alternate] 
+//Cheats/Infinite Skill Points Alternate
 patch=1,EE,202E2D28,extended,24010063
 patch=1,EE,202E2D2C,extended,AC410134
 patch=1,EE,202E2D30,extended,AE010080
 
-[Cheats/Max XP ] 
+//Cheats/Max XP
 patch=1,EE,21C14614,extended,05F5E0FF
 
-[Cheats/Player Level 99] 
+//Cheats/Player Level 99
 patch=1,EE,21C14618,extended,00000063
 
-[Cheats/Quick XP Gain] 
+//Cheats/Quick XP Gain
 patch=1,EE,11C14614,extended,0000FFFF
 
-[Cheats/Unlock All Gear] 
+//Cheats/Unlock All Gear
 patch=1,EE,200C0220,extended,24020001
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,A0220130
 patch=1,EE,202A5078,extended,08030088
 patch=1,EE,202A507C,extended,00430821
 
-[Cheats/All Skills Max] 
+//Cheats/All Skills Max
 patch=1,EE,41C1461C,extended,00070001
 patch=1,EE,00000014,extended,00000000
 

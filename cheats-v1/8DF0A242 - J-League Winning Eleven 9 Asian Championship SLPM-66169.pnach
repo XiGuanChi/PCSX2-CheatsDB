@@ -1,28 +1,28 @@
-[Cheats/Max WEN]  
+//Cheats/Max WEN
 patch=1,EE,21842680,extended,0001869F
 
-[Cheats/Unlock All Cup Gallery] 
+//Cheats/Unlock All Cup Gallery
 patch=1,EE,2184266C,extended,FFFFFFFF
 
-[Cheats/Master League Points 999999 If it is not reflected, check the DATA calendar] 
+//Cheats/Master League Points 999999 If it is not reflected, check the DATA calendar
 patch=1,EE,2012ACA4,extended,3C06000F
 patch=1,EE,2012ACA8,extended,34C6423F
 patch=1,EE,2012ACAC,extended,AEA60034
 patch=1,EE,D0ABDC4C,extended,00000034
 patch=1,EE,20ABDC4C,extended,0C04AB29
 
-[Cheats/Avoid score operation hang during pause] 
+//Cheats/Avoid score operation hang during pause
 patch=1,EE,201D3460,extended,00000000
 patch=1,EE,D0C63DE8,extended,00000063
 patch=1,EE,20C63DB8,extended,00000000
 
-[Cheats/99 goals home side SELECT+L2 Please use in conjunction with the score operation hang avoidance code during pause] 
+//Cheats/99 goals home side SELECT+L2 Please use in conjunction with the score operation hang avoidance code during pause
 patch=1,EE,D04BA342,extended,0000FEFE
 patch=1,EE,20CA16B4,extended,00630063
 patch=1,EE,D04BA342,extended,0000FEFE
 patch=1,EE,10CA16B8,extended,00000063
 
-[Cheats/99 goals away side Press SELECT+R2 Please use in conjunction with the score operation hang avoidance code during pause]  
+//Cheats/99 goals away side Press SELECT+R2 Please use in conjunction with the score operation hang avoidance code during pause
 patch=1,EE,D04BA342,extended,0000FDFE
 patch=1,EE,20CA1858,extended,00630063
 patch=1,EE,D04BA342,extended,0000FDFE

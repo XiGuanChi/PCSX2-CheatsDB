@@ -1,53 +1,53 @@
-[Cheats/P1 Money 9999G Enable only in board] 
+//Cheats/P1 Money 9999G Enable only in board
 patch=1,EE,20C037C0,extended,0000270F
 
-[Cheats/P2 Money 0 Enable only in board] 
+//Cheats/P2 Money 0 Enable only in board
 patch=1,EE,00C041B0,extended,00000000
 
-[Cheats/P3 Money 0 Enable only in board] 
+//Cheats/P3 Money 0 Enable only in board
 patch=1,EE,20C049C0,extended,00000000
 
-[Cheats/P4 Money 0 Enable only in board] 
+//Cheats/P4 Money 0 Enable only in board
 patch=1,EE,00C04AB0,extended,00000000
 
-[Cheats/First Change In Money R2+up 9999G R2+down 0G] 
+//Cheats/First Change In Money R2+up 9999G R2+down 0G
 patch=1,EE,D05B2504,extended,00001002
 patch=1,EE,20C037C0,extended,0000270F
 patch=1,EE,D05B2504,extended,00004002
 patch=1,EE,20C037C0,extended,00000000
 
-[Cheats/Second Change In Money R2+left 9999G R2+right 0G] 
+//Cheats/Second Change In Money R2+left 9999G R2+right 0G
 patch=1,EE,D05B2504,extended,00008002
 patch=1,EE,00C041B0,extended,0000000F
 patch=1,EE,D05B2504,extended,00002002
 patch=1,EE,00C041B0,extended,00000000
 
-[Cheats/Third Change In Money L2+up 9999G L2+down 0G] 
+//Cheats/Third Change In Money L2+up 9999G L2+down 0G
 patch=1,EE,D05B2504,extended,00001001
 patch=1,EE,20C049C0,extended,0000270F
 patch=1,EE,D05B2504,extended,00004001
 patch=1,EE,20C049C0,extended,00000000
 
-[Cheats/Fourth Change In Money L2+left 9999G L2+right 0G] 
+//Cheats/Fourth Change In Money L2+left 9999G L2+right 0G
 patch=1,EE,D05B2504,extended,00001001
 patch=1,EE,00C04AB0,extended,0000000F
 patch=1,EE,D05B2504,extended,00004001
 patch=1,EE,00C04AB0,extended,00000000
 
-[Cheats/Unlock All Maps & Characters can be used + Job Change is Possible] 
+//Cheats/Unlock All Maps & Characters can be used + Job Change is Possible
 patch=1,EE,204D4860,extended,FFFFFFFF
 patch=1,EE,204D4864,extended,FFFFFFFF
 
-[Cheats/Unlock All Sphere Collection]  
+//Cheats/Unlock All Sphere Collection
 patch=1,EE,20183D38,extended,24030001
 patch=1,EE,20183D3C,extended,A02341ED
 
-[Cheats/Unlock All Chance Card Collection] 
+//Cheats/Unlock All Chance Card Collection
 patch=1,EE,404F89EC,extended,00180001
 patch=1,EE,03030303,extended,00000000
 patch=1,EE,204F89E8,extended,03030300
 patch=1,EE,004F8A4C,extended,00000003
 
-[Cheats/Unlock All Characters, Maps & BGM]
+//Cheats/Unlock All Characters, Maps & BGM
 patch=1,EE,204D4860,extended,FFFFFFFF
 patch=1,EE,204D4864,extended,FFFFFFFF

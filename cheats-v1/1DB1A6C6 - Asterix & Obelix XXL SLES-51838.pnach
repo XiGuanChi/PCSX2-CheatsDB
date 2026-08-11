@@ -1,34 +1,34 @@
-[Cheats/Infinite HP You can't pick any energy or the game will freeze] 
+//Cheats/Infinite HP You can't pick any energy or the game will freeze
 patch=1,EE,207343D0,extended,0000000F
 
-[Cheats/Invulnerable] 
+//Cheats/Invulnerable
 patch=1,EE,2029E968,extended,10000004
 
-[Cheats/1 Hit Kill] 
+//Cheats/1 Hit Kill
 patch=1,EE,202D2F14,extended,00000000
 
-[Cheats/Instantly kill romans Activate Press and hold Select+X Activate only when you see romans on the map Better not to use if there's a quantity of romans to kill to unlock something] 
+//Cheats/Instantly kill romans Activate Press and hold Select+X Activate only when you see romans on the map Better not to use if there's a quantity of romans to kill to unlock something
 patch=1,EE,2033590C,extended,305000FF
 patch=1,EE,D0526882,extended,0000BFFE
 patch=1,EE,2033590C,extended,24100001
 
-[Cheats/Always have torch with fire In some cases you'll loose the torch, but once you get it again you'll have always fire] 
+//Cheats/Always have torch with fire In some cases you'll loose the torch, but once you get it again you'll have always fire
 patch=1,EE,202C97C8,extended,24020011
 patch=1,EE,202C97CC,extended,A262003E
 patch=1,EE,202C8ED8,extended,10000221
 
-[Cheats/Potion effect always active Activate Press R1+X remove the potion effect R1+triangle With this code if you take potions, and you activated the R1+triangle option, they'll not activate] 
+//Cheats/Potion effect always active Activate Press R1+X remove the potion effect R1+triangle With this code if you take potions, and you activated the R1+triangle option, they'll not activate
 patch=1,EE,203707D0,extended,3C0141A8
 patch=1,EE,D0526882,extended,0000B7FF
 patch=1,EE,203707D4,extended,44810000
 patch=1,EE,D0526882,extended,0000E7FF
 patch=1,EE,203707D4,extended,44800000
 
-[Cheats/Have 30 Roman Helmets] 
+//Cheats/Have 30 Roman Helmets
 patch=1,EE,20734020,extended,0000001E
 
-[Cheats/Have 5 Caesar Laurels Lv1] 
+//Cheats/Have 5 Caesar Laurels Lv1
 patch=1,EE,207343D4,extended,00000005
 
-[Cheats/All 51 Caesar Symbols save & load again] 
+//Cheats/All 51 Caesar Symbols save & load again
 patch=1,EE,207343D3,extended,000000033

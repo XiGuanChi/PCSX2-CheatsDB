@@ -1,29 +1,29 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20206D40,extended,437F0000
 
-[Cheats/Infinite Shield] 
+//Cheats/Infinite Shield
 patch=1,EE,20206D44,extended,00004248
 
-[Cheats/Quick Demolition Shot Gain]
+//Cheats/Quick Demolition Shot Gain
 patch=1,EE,D0211092,extended,00000000
 patch=1,EE,20211090,extended,40FF0000
 
-[Cheats/Unlock Slow] 
+//Cheats/Unlock Slow
 patch=1,EE,00224E6C,extended,00000001
 
-[Cheats/Unlock Movie] 
+//Cheats/Unlock Movie
 patch=1,EE,00224E6E,extended,00000001
 
-[Cheats/Unlock Characters] 
+//Cheats/Unlock Characters
 patch=1,EE,00224E70,extended,00000008
 
-[Cheats/Unlock Demolition Shot] 
+//Cheats/Unlock Demolition Shot
 patch=1,EE,00224E72,extended,00000001
 
-[Cheats/Unlock Stage Select] 
+//Cheats/Unlock Stage Select
 patch=1,EE,00224E74,extended,00000001
 
-[Cheats/Enable Debug Menu Press Start to confirm a selected option. D-Pad Up - Down moves through the menu.] 
+//Cheats/Enable Debug Menu Press Start to confirm a selected option. D-Pad Up - Down moves through the menu.
 patch=1,EE,0011F160,extended,00000007
 patch=1,EE,20193DBC,extended,08064F81
 patch=1,EE,20193DC0,extended,00000000

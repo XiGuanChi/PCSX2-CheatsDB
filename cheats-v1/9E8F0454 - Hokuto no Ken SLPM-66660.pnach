@@ -1,8 +1,8 @@
-[Cheats/P1 Infinite health] 
+//Cheats/P1 Infinite health
 patch=1,EE,00AAED58,extended,000000C0
 patch=1,EE,10AAEDB0,extended,00000707
 
-[Cheats/Max Infinite Helth 1P SELECT+L1 1P 0  SELECT+L2] 
+//Cheats/Max Infinite Helth 1P SELECT+L1 1P 0  SELECT+L2
 patch=1,EE,D035FC9C,extended,0000FBFE
 patch=1,EE,10AAED58,extended,000000C0
 patch=1,EE,D035FC9C,extended,0000FBFE 
@@ -10,19 +10,19 @@ patch=1,EE,10AAED5E,extended,000000C0
 patch=1,EE,D035FC9C,extended,0000FEFE
 patch=1,EE,10AAED58,extended,00000000
 
-[Cheats/P1 Infinite Aura] 
+//Cheats/P1 Infinite Aura
 patch=1,EE,00AAEDA2,extended,000000DE
 
-[Cheats/P1 Infinite Boost] 
+//Cheats/P1 Infinite Boost
 patch=1,EE,20AAED70,extended,43800000
 
-[Cheats/P1 player 7 stars bar] 
+//Cheats/P1 player 7 stars bar
 patch=1,EE,20AAEDB1,extended,43800000
 
-[Cheats/2P One Hit Death] 
+//Cheats/2P One Hit Death
 patch=1,EE,10AB0D7E,extended,00000001
 
-[Cheats/Max Infinite Helth 2P SELECT+L1 2P 0 SELECT+L2] 
+//Cheats/Max Infinite Helth 2P SELECT+L1 2P 0 SELECT+L2
 patch=1,EE,D0360010,extended,0000FBFE
 patch=1,EE,10AB0D78,extended,000000C0
 patch=1,EE,D0360010,extended,0000FBFE
@@ -30,19 +30,19 @@ patch=1,EE,10AB0D7E,extended,000000C0
 patch=1,EE,D0360010,extended,0000FEFE
 patch=1,EE,10AB0D78,extended,00000000
 
-[Cheats/P2 Player No 7 stars] 
+//Cheats/P2 Player No 7 stars
 patch=1,EE,20AB0DD1,extended,00000000
 
-[Cheats/Kenoh Usable When Selecting a Character, Place The Cursor on Raoh and Press Start] 
+//Cheats/Kenoh Usable When Selecting a Character, Place The Cursor on Raoh and Press Start
 patch=1,EE,10393970,extended,00000001
 
-[Cheats/Unlock All Modes] 
+//Cheats/Unlock All Modes
 patch=1,EE,20329F90,extended,3B9AC9FF
 
-[Cheats/Unlock All History Gallery] 
+//Cheats/Unlock All History Gallery
 patch=1,EE,202A6C64,extended,A0A401C0
 
-[Cheats/History 77-77] 
+//Cheats/History 77-77
 patch=1,EE,40393978,extended,00130001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,003939C4,extended,00000001

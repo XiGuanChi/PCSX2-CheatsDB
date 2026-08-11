@@ -1,11 +1,11 @@
-[Cheats/Unlock Omake] 
+//Cheats/Unlock Omake
 patch=1,EE,21D3D5CC,extended,00000001
 
-[Cheats/Unlock All Album] 
+//Cheats/Unlock All Album
 patch=1,EE,41D3B838,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Hold Circle Over Begin For Debug Menu This allows viewing of character routes or watching pre-rendered movies.] 
+//Cheats/Hold Circle Over Begin For Debug Menu This allows viewing of character routes or watching pre-rendered movies.
 patch=1,EE,D0206482,extended,0000DFFF
 patch=1,EE,2042E480,extended,000001BD
 

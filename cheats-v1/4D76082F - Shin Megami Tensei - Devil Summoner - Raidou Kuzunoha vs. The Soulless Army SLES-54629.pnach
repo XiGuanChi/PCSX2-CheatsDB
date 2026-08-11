@@ -1,27 +1,27 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,20E6F448,extended,000F423F
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,201215F0,extended,8C85001C
 patch=1,EE,201215F4,extended,AC850018
 
-[Cheats/Max Mag After A Battle] 
+//Cheats/Max Mag After A Battle
 patch=1,EE,202A440C,extended,00000000
 
-[Cheats/1000 Loyalty Per Battle] 
+//Cheats/1000 Loyalty Per Battle
 patch=1,EE,202A4570,extended,00000000
 patch=1,EE,202A4574,extended,240303E8
 
-[Cheats/All Items] 
+//Cheats/All Items
 patch=1,EE,40E6F5B8,extended,00280001
 patch=1,EE,00090009,extended,00000000
 
-[Cheats/Infinite All Reloads] 
+//Cheats/Infinite All Reloads
 patch=1,EE,40E6F658,extended,00070001
 patch=1,EE,00630063,extended,00000000
 patch=1,EE,10E6F674,extended,00000063
 
-[Cheats/1 Hit Kill] 
+//Cheats/1 Hit Kill
 patch=1,EE,20252C00,extended,08028000
 patch=1,EE,20252C04,extended,90A20414
 patch=1,EE,200A0000,extended,30420002
@@ -31,29 +31,29 @@ patch=1,EE,200A000C,extended,AE0201C0
 patch=1,EE,200A0010,extended,03E00008
 patch=1,EE,200A0014,extended,8C620000
 
-[Cheats/Demon Slot 1 Full HP] 
+//Cheats/Demon Slot 1 Full HP
 patch=1,EE,10E6F710,extended,000003E7
 
-[Cheats/Demon Slot 1 Max HP] 
+//Cheats/Demon Slot 1 Max HP
 patch=1,EE,10E6F714,extended,000003E7
 patch=1,EE,10E6F72C,extended,000003E7
 
-[Cheats/Demon Slot 1 Full MAG] 
+//Cheats/Demon Slot 1 Full MAG
 patch=1,EE,10E6F718,extended,000003E7
 
-[Cheats/Demon Slot 1 Max MAG] 
+//Cheats/Demon Slot 1 Max MAG
 patch=1,EE,10E6F71C,extended,000003E7
 patch=1,EE,10E6F734,extended,000003E7
 
-[Cheats/Demon Slot 1 Max St] 
+//Cheats/Demon Slot 1 Max St
 patch=1,EE,10E6F720,extended,00000028
 
-[Cheats/Demon Slot 1 Max Ma] 
+//Cheats/Demon Slot 1 Max Ma
 patch=1,EE,10E6F724,extended,00000028
 
-[Cheats/Demon Slot 1 Max Vi] 
+//Cheats/Demon Slot 1 Max Vi
 patch=1,EE,10E6F722,extended,00000028
 
-[Cheats/Demon Slot 1 Max Lu] 
+//Cheats/Demon Slot 1 Max Lu
 patch=1,EE,10E6F726,extended,00000028
 

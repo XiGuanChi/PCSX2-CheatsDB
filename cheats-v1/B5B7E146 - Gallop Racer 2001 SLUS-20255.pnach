@@ -1,14 +1,14 @@
-[Cheats/Max Jockey Points] 
+//Cheats/Max Jockey Points
 patch=1,EE,21EF42F8,extended,05F5E0FF
 
-[Cheats/Infinite Jockey Points]  
+//Cheats/Infinite Jockey Points
 patch=1,EE,11EF42F8,extended,0000FFFF
 
-[Cheats/Buying Items In Shop Doesnt Decrease Points]  
+//Cheats/Buying Items In Shop Doesnt Decrease Points
 patch=1,EE,201AAE2C,extended,00000000
 
-[Cheats/Always Low Time]  
+//Cheats/Always Low Time
 patch=1,EE,205B8260,extended,00000000
 
-[Cheats/Infinite Stamina]  
+//Cheats/Infinite Stamina
 patch=1,EE,104230CE,extended,00000018

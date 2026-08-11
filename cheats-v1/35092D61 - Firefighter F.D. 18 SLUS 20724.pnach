@@ -1,29 +1,29 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,201831A4,extended,00000000
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,205C4F94,extended,0000EA60
 patch=1,EE,205C4F98,extended,0000EA60
 
-[Cheats/Infinite Impulse Ammo] 
+//Cheats/Infinite Impulse Ammo
 patch=1,EE,205C4FB4,extended,0000000F
 
-[Cheats/Infinite NZL] 
+//Cheats/Infinite NZL
 patch=1,EE,205C4FC4,extended,00000003
 
-[Cheats/Survivors Never Die] 
+//Cheats/Survivors Never Die
 patch=1,EE,201B6BDC,extended,00000000
 
-[Cheats/Infinite HP Survivors] 
+//Cheats/Infinite HP Survivors
 patch=1,EE,201B6BD8,extended,00000000
 
-[Cheats/Infinite Fire Fighting Support Calls] 
+//Cheats/Infinite Fire Fighting Support Calls
 patch=1,EE,200C2000,extended,341B000A
 patch=1,EE,200C2004,extended,0804BF74
 patch=1,EE,200C2008,extended,AC7B0054
 patch=1,EE,2012FDCC,extended,08030800
 
-[Cheats/Stop Timer] 
+//Cheats/Stop Timer
 patch=1,EE,2011DFE0,extended,00000000
 
 

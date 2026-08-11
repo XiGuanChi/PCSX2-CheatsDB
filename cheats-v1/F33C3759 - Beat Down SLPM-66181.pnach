@@ -1,50 +1,50 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,206036A0,extended,05F5E0FF
 
-[Cheats/Main Character Infinite Health] 
+//Cheats/Main Character Infinite Health
 patch=1,EE,206CF54C,extended,270F270F
 
-[Cheats/Main Character Level 50] 
+//Cheats/Main Character Level 50
 patch=1,EE,006036AC,extended,00000032
 
-[Cheats/Police Risk 0 Press SELECT+L1]  
+//Cheats/Police Risk 0 Press SELECT+L1
 patch=1,EE,D0681242,extended,0000FBFE
 patch=1,EE,10602E68,extended,00006400
 
-[Cheats/Mafia Risk 0 Press SELECT+R1]  
+//Cheats/Mafia Risk 0 Press SELECT+R1
 patch=1,EE,D0681242,extended,0000F7FE
 patch=1,EE,10603164,extended,00006400
 
-[Cheats/Infinite Items Even If You Use On The Menu Screen] 
+//Cheats/Infinite Items Even If You Use On The Menu Screen
 patch=1,EE,201730A8,extended,00000000
 patch=1,EE,20173184,extended,00000000
 
-[Cheats/Infinite Recovery Items Even If You Use Item That Is Equipped Weapon items equipped will decrease]
+//Cheats/Infinite Recovery Items Even If You Use Item That Is Equipped Weapon items equipped will decrease
 patch=1,EE,202FCA48,extended,1000000E
 
-[Cheats/Increase In Store Products] 
+//Cheats/Increase In Store Products
 patch=1,EE,2032CB48,extended,00000000
 patch=1,EE,2032CB60,extended,00000000
 patch=1,EE,2032CB78,extended,00000000
 patch=1,EE,2032CB90,extended,00000000
 
-[Cheats/The Store Becomes A Nandemo Shop] 
+//Cheats/The Store Becomes A Nandemo Shop
 patch=1,EE,2033C984,extended,10000011
 
-[Cheats/Mastering Fellow Skills Partly] 
+//Cheats/Mastering Fellow Skills Partly
 patch=1,EE,1060365A,extended,00000505
 patch=1,EE,1060365C,extended,00000505
 patch=1,EE,0060365E,extended,00000005
 
-[Cheats/Max Ability] 
+//Cheats/Max Ability
 patch=1,EE,00603655,extended,00000005
 patch=1,EE,10603656,extended,00000505
 
-[Cheats/Unlock All Battle Characters]  
+//Cheats/Unlock All Battle Characters
 patch=1,EE,20602A58,extended,FFFFFFFF
 patch=1,EE,20602A5C,extended,FFFFFFFF
 patch=1,EE,20602A60,extended,FFFFFFFF
 patch=1,EE,20602A64,extended,FFFFFFFF
 
-[Cheats/Unlock All MOVIE VIEWER Option Menu] 
+//Cheats/Unlock All MOVIE VIEWER Option Menu
 patch=1,EE,00602A9F,extended,000000FF

@@ -1,26 +1,26 @@
-[Cheats/Infinite Health Crash] 
+//Cheats/Infinite Health Crash
 patch=1,EE,200FFF80,extended,8C810014
 patch=1,EE,200FFF84,extended,AC810004
 patch=1,EE,200FFF88,extended,080AED13
 patch=1,EE,200FFF8C,extended,03E00008
 patch=1,EE,202BB44C,extended,0803FFE0
 
-[Cheats/Infinite Power Mounts] 
+//Cheats/Infinite Power Mounts
 patch=1,EE,2027AC74,extended,00000000
 
-[Cheats/Max Experience] 
+//Cheats/Max Experience
 patch=1,EE,21B47CDC,extended,05f5e0ff
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,2041EA3C,extended,00000000
 
-[Cheats/Infinite Time Using Free Jack Power-upUnlock ] 
+//Cheats/Infinite Time Using Free Jack Power-upUnlock
 patch=1,EE,202BAE98,extended,00000000
 
-[Cheats/Infinite Time Using Quad Damage Power-up] 
+//Cheats/Infinite Time Using Quad Damage Power-up
 patch=1,EE,202BAF6C,extended,00000000
 
-[Cheats/Unlock All Movies]  
+//Cheats/Unlock All Movies
 patch=1,EE,206FFF88,extended,6A8075B9
 patch=1,EE,206FFF8C,extended,6A8075BA
 patch=1,EE,206FFF90,extended,6A8075BB
@@ -43,7 +43,7 @@ patch=1,EE,206FFFD0,extended,6A8075E0
 patch=1,EE,206FFFD4,extended,6A8075E1
 patch=1,EE,20700008,extended,006FFFD4
 
-[Cheats/Unlock All Skins]  
+//Cheats/Unlock All Skins
 patch=1,EE,207018F0,extended,00000000
 patch=1,EE,207018F4,extended,00000001
 patch=1,EE,207018F8,extended,00000002
@@ -56,7 +56,7 @@ patch=1,EE,20701910,extended,00000008
 patch=1,EE,20701914,extended,00000009
 patch=1,EE,20701918,extended,0000000A
 
-[Cheats/Unlock All Concept Art]  
+//Cheats/Unlock All Concept Art
 patch=1,EE,2073B9D8,extended,00000000
 patch=1,EE,2073B9DC,extended,00000001
 patch=1,EE,2073B9E0,extended,00000002
@@ -70,7 +70,7 @@ patch=1,EE,2073B9FC,extended,00000009
 patch=1,EE,2073BA00,extended,0000000A
 patch=1,EE,2073BA04,extended,0000000B
 
-[Cheats/Unlock All Enemy Info]  
+//Cheats/Unlock All Enemy Info
 patch=1,EE,2073BA18,extended,00000000
 patch=1,EE,2073BA1C,extended,00000001
 patch=1,EE,2073BA20,extended,00000002

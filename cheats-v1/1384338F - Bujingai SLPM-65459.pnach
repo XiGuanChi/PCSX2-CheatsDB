@@ -1,40 +1,40 @@
-[Cheats/Number of Orbs Owned 999999] 
+//Cheats/Number of Orbs Owned 999999
 patch=1,EE,205C17D8,extended,000F423F
 
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,4190AAE0,extended,00040001
 patch=1,EE,007D0000,extended,00000000
 
-[Cheats/Max Status Enhancement Value] 
+//Cheats/Max Status Enhancement Value
 patch=1,EE,1190AB26,extended,00000BB8
 patch=1,EE,2190AB28,extended,0BB80BB8
 patch=1,EE,2190AB2C,extended,0BB80BB8
 
-[Cheats/Possession of Mastery Magic] 
+//Cheats/Possession of Mastery Magic
 patch=1,EE,205C17DC,extended,01010101
 patch=1,EE,205C17E0,extended,01010101
 patch=1,EE,205C17E4,extended,01010101
 patch=1,EE,105C17E8,extended,00000101
 patch=1,EE,005C17EA,extended,00000001
 
-[Cheats/Unlock Special Play Basis Set]  
+//Cheats/Unlock Special Play Basis Set
 patch=1,EE,405C0C38,extended,000B0001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2185BA60,extended,0270F000
 
-[Cheats/Infinite Defense] 
+//Cheats/Infinite Defense
 patch=1,EE,2185BA70,extended,0000000A
 
-[Cheats/Infinite Spell] 
+//Cheats/Infinite Spell
 patch=1,EE,2185BA68,extended,0270F000
 
-[Cheats/Unlock All Special Options] 
+//Cheats/Unlock All Special Options
 patch=1,EE,405C6448,extended,00060001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Spells] 
+//Cheats/Unlock All Spells
 patch=1,EE,405C6FF0,extended,00040001
 patch=1,EE,01010101,extended,00000000
 

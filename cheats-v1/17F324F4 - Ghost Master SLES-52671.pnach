@@ -1,17 +1,17 @@
-[Cheats/Infinite Health All Ghosts] 
+//Cheats/Infinite Health All Ghosts
 patch=1,EE,201FDE00,extended,E4410070
 
-[Cheats/Infinite Plasma Bar]
+//Cheats/Infinite Plasma Bar
 patch=1,EE,202B5A80,extended,0000000F
 patch=1,EE,202B5A84,extended,0000000F
 
-[Cheats/Have Mega Scare] 
+//Cheats/Have Mega Scare
 patch=1,EE,20199B5C,extended,46000001
 
-[Cheats/Fast Resistance Reduction] 
+//Cheats/Fast Resistance Reduction
 patch=1,EE,20199CC8,extended,3C014120
 patch=1,EE,20199CCC,extended,44810000
 
-[Cheats/Fast Spell Use] 
+//Cheats/Fast Spell Use
 patch=1,EE,20115B04,extended,3C013F00
 patch=1,EE,20115B14,extended,44810000

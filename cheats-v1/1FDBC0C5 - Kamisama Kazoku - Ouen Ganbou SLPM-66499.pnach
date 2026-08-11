@@ -1,10 +1,10 @@
-[Cheats/Unlock All Album & Movies] 
+//Cheats/Unlock All Album & Movies
 patch=1,EE,20148F14,extended,240100FF
 patch=1,EE,20148F18,extended,A0410000
 
-[Cheats/Enable Debug Mode Controller 2 Pressing Select will switch debug modes, allowing you to open more debug menus.Press Circle to enter a debug menu.Holding L2 will display normally unseen debug information that gets logged in the background.This menu will appear when first starting the game. This gives you the ability to quickly enter a game mode, or view graphics. The options Texture, Sprite, Vibrate, and Script Viewer do not work. These modes are executed from files via a network path.Plane Viewer This allows you to view CG images, background images, character images, character sprites, and various emoticons.ADV DBG MENU Kamisama Kazoku - Setting the MOVIE and ALBUM options on will unlock all images and movies.]
+//Cheats/Enable Debug Mode Controller 2 Pressing Select will switch debug modes, allowing you to open more debug menus.Press Circle to enter a debug menu.Holding L2 will display normally unseen debug information that gets logged in the background.This menu will appear when first starting the game. This gives you the ability to quickly enter a game mode, or view graphics. The options Texture, Sprite, Vibrate, and Script Viewer do not work. These modes are executed from files via a network path.Plane Viewer This allows you to view CG images, background images, character images, character sprites, and various emoticons.ADV DBG MENU Kamisama Kazoku - Setting the MOVIE and ALBUM options on will unlock all images and movies.
 patch=1,EE,2012D204,extended,24020001
 
-[Cheats/Controller Fix For Emulators IN DEBUG MODE] 
+//Cheats/Controller Fix For Emulators IN DEBUG MODE
 patch=1,EE,007B2C47,extended,00000000
 patch=1,EE,007B2A47,extended,00000000

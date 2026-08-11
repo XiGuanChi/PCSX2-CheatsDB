@@ -1,22 +1,22 @@
-[Cheats/Max Health] 
+//Cheats/Max Health
 patch=1,EE,204B12F0,extended,0000270F
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,204B12F4,extended,0000270F
 
-[Cheats/Max Icol] 
+//Cheats/Max Icol
 patch=1,EE,204B12F8,extended,0000270F
 
-[Cheats/Infinite Icol] 
+//Cheats/Infinite Icol
 patch=1,EE,204B12FC,extended,0000270F
 
-[Cheats/Max Attack] 
+//Cheats/Max Attack
 patch=1,EE,204B1304,extended,000003E7
 
-[Cheats/Max Defense] 
+//Cheats/Max Defense
 patch=1,EE,204B1308,extended,000003E7
 
-[Cheats/Unlocl All Music]  
+//Cheats/Unlocl All Music
 patch=1,EE,104AC2EE,extended,0000FFFF
 patch=1,EE,204AC2F0,extended,FFFFFFFF
 patch=1,EE,204AC2F4,extended,FFFFFFFF
@@ -26,7 +26,7 @@ patch=1,EE,204AC304,extended,FFFFFFFF
 patch=1,EE,104AC308,extended,0000FFFF
 patch=1,EE,004AC30A,extended,000000FF
 
-[Cheats/Unlocl All Pictures]   
+//Cheats/Unlocl All Pictures
 patch=1,EE,004AC30B,extended,000000FF
 patch=1,EE,204AC30C,extended,FFFFFFFF
 patch=1,EE,204AC310,extended,FFFFFFFF
@@ -35,7 +35,7 @@ patch=1,EE,204AC318,extended,FFFFFFFF
 patch=1,EE,204AC31C,extended,FFFFFFFF
 patch=1,EE,104AC320,extended,0000FFFF
 
-[Cheats/Unlocl All Theater]   
+//Cheats/Unlocl All Theater
 patch=1,EE,204AC2D8,extended,FFFFFFFF
 patch=1,EE,204AC2DC,extended,FFFFFFFF
 patch=1,EE,204AC2E0,extended,FFFFFFFF

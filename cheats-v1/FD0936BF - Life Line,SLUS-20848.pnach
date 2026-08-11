@@ -1,4 +1,4 @@
-[Cheats/Infinite Health & All Chips] 
+//Cheats/Infinite Health & All Chips
 patch=1,EE,200FF000,extended,3C03003E
 patch=1,EE,200FF004,extended,8C63716C
 patch=1,EE,200FF008,extended,10030006
@@ -10,21 +10,21 @@ patch=1,EE,200FF024,extended,24030070
 patch=1,EE,200FF028,extended,0806E646
 patch=1,EE,201B9914,extended,0803FC00
 
-[Cheats/Infinite Health Alternate] 
+//Cheats/Infinite Health Alternate
 patch=1,EE,200C2000,extended,340203E8
 patch=1,EE,200C2004,extended,080580E7
 patch=1,EE,200C2008,extended,AC820008
 patch=1,EE,20160398,extended,08030800
 
-[Cheats/Have All Items]  
+//Cheats/Have All Items
 patch=1,EE,20161398,extended,8C610000
 patch=1,EE,2016139C,extended,00220825
 patch=1,EE,201613A0,extended,AC610000
 
-[Cheats/Wear Leather Outfit] 
+//Cheats/Wear Leather Outfit
 patch=1,EE,103E5138,extended,0000FFFF
 
-[Cheats/Unlock Special Commands] 
+//Cheats/Unlock Special Commands
 patch=1,EE,103E5148,extended,0000FFFF
 
 

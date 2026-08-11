@@ -4,63 +4,63 @@ gametitle=Sengoku Basara 2 Heroes SLPM-66848 NCA857E71
 // Codes are from GameFaqs
 // Files created by real.justright
 
-[M]
+//M
 patch=1,EE,F028FE88,extended,0028FE8B
 
-[Max Gold during battle] 
+//Max Gold during battle
 patch=1,EE,201E82CC,extended,00000000
 
-[Max Combo/Hit for Conquest /Gaiden/Story Mode only]
+//Max Combo/Hit for Conquest /Gaiden/Story Mode only
 patch=1,EE,201E80C0,extended,00000000
 
-[Max Exp during battle]
+//Max Exp during battle
 patch=1,EE,201F314C,extended,00000000
 
-[Max K.O/Killed]
+//Max K.O/Killed
 patch=1,EE,201DB1C0,extended,00000000
 
-[INF Basara Attack]
+//INF Basara Attack
 patch=1,EE,200F813C,extended,8E0109BC
 patch=1,EE,200F8140,extended,AE0109B4
 patch=1,EE,201DB36C,extended,0C03E048
 patch=1,EE,200F81A0,extended,0807A0A0
 
-[INF Health]
+//INF Health
 patch=1,EE,201DB36C,extended,0C03E048
 patch=1,EE,200F81A0,extended,0807A0A0
 
 [INF HP] patch=1,EE,200F8134,extended,8E010564
 patch=1,EE,200F8138,extended,AE0104F8
 
-[Basara Drive Always Active]
+//Basara Drive Always Active
 patch=1,EE,200F814C,extended,82010A3E
 patch=1,EE,200F8150,extended,A2010A3D
 patch=1,EE,201DB36C,extended,0C03E048
 patch=1,EE,200F81A0,extended,0807A0A0
 
-[All Items Accessory items and Personal Items, all 150 unlocked]
+//All Items Accessory items and Personal Items, all 150 unlocked
 patch=1,EE,4051A520,extended,002E0001
 patch=1,EE,E4E4E4E4,extended,00000000
 
-[All Weapons Max]
+//All Weapons Max
 patch=1,EE,404F1CC8,extended,001E0567
 patch=1,EE,E4E4E4E4,extended,00000000
 patch=1,EE,404F1CCC,extended,001E0567
 patch=1,EE,E4E4E4E4,extended,00000000
 
-[All Guards MAX]
+//All Guards MAX
 patch=1,EE,404F1CD0,extended,001E0567
 patch=1,EE,E4E4E400,extended,00000000
 
-[All Costume]
+//All Costume
 patch=1,EE,404F1CDC,extended,001E0567
 patch=1,EE,00008181,extended,00000000
 
-[All Music in Gallery]
+//All Music in Gallery
 patch=1,EE,2051A718,extended,FFFFFFFF
 patch=1,EE,2051A71C,extended,0003FFFF
 
-[All Movie in Gallery]
+//All Movie in Gallery
 patch=1,EE2051A720,extended,003FFFFF
 
 

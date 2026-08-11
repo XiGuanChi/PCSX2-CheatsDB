@@ -1,52 +1,52 @@
-[Cheats/Invisible To Enemies] 
+//Cheats/Invisible To Enemies
 patch=1,EE,2053DBB8,extended,3F800000
 
-[Cheats/God Mode On Infinite Health] 
+//Cheats/God Mode On Infinite Health
 patch=1,EE,205403F8,extended,3F800000
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,202F11A4,extended,00000000
 
-[Cheats/Trip To Paradise] 
+//Cheats/Trip To Paradise
 patch=1,EE,2037770C,extended,00000000
 
-[Cheats/P1 Press L1+Up To Have Items+Rifle] 
+//Cheats/P1 Press L1+Up To Have Items+Rifle
 patch=1,EE,D04C3D82,extended,0000FBEF
 patch=1,EE,20190654,extended,00000000
 patch=1,EE,D04C3D82,extended,0010FBEF
 patch=1,EE,20190654,extended,10400016
 
-[Cheats/P1 Press L1+Right To Have Items+Sniper] 
+//Cheats/P1 Press L1+Right To Have Items+Sniper
 patch=1,EE,D04C3D82,extended,0000FBDF
 patch=1,EE,201906CC,extended,00000000
 patch=1,EE,D04C3D82,extended,0010FBDF
 patch=1,EE,201906CC,extended,10400016
 
-[Cheats/P1 Press L1+Down To Have Items+HGun] 
+//Cheats/P1 Press L1+Down To Have Items+HGun
 patch=1,EE,D04C3D82,extended,0000FBBF
 patch=1,EE,20190744,extended,00000000
 patch=1,EE,D04C3D82,extended,0010FBBF
 patch=1,EE,20190744,extended,10400016
 
-[Cheats/P1 Press L1+Left To Have Items+Rocket] 
+//Cheats/P1 Press L1+Left To Have Items+Rocket
 patch=1,EE,DAA63CFB,extended,B28E6B36
 patch=1,EE,201907BC,extended,00000000
 patch=1,EE,D04C3D82,extended,0010FB7F
 patch=1,EE,201907BC,extended,10400016
 
-[Cheats/P1 Press L1+L3 To Have Items+Shotgun] 
+//Cheats/P1 Press L1+L3 To Have Items+Shotgun
 patch=1,EE,D04C3D82,extended,0000FBFD
 patch=1,EE,20190834,extended,00000000
 patch=1,EE,D04C3D82,extended,0010FBFD
 patch=1,EE,20190834,extended,10400016
 
-[Cheats/P1 Press L2+Up For Infinite Ammo] 
+//Cheats/P1 Press L2+Up For Infinite Ammo
 patch=1,EE,D04C3D82,extended,0000FEEF
 patch=1,EE,20190B04,extended,00000000
 patch=1,EE,D04C3D82,extended,0010FEEF
 patch=1,EE,20190B04,extended,10400015
 
-[Cheats/P1 Press L2+Right For Full Charisma] 
+//Cheats/P1 Press L2+Right For Full Charisma
 patch=1,EE,D04C3D82,extended,0000FEDF
 patch=1,EE,20190B78,extended,00000000
 patch=1,EE,D04C3D82,extended,0010FEDF

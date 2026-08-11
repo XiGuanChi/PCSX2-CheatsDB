@@ -1,38 +1,38 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20579524,extended,24020064
 patch=1,EE,20579558,extended,AEA2040C
 
-[Cheats/Infinite Ammo Overall] 
+//Cheats/Infinite Ammo Overall
 patch=1,EE,2041546C,extended,240603E7
 patch=1,EE,20415470,extended,AC460484
 
-[Cheats/Infinite Ammo In Clip] 
+//Cheats/Infinite Ammo In Clip
 patch=1,EE,20415284,extended,24060063
 patch=1,EE,204152C0,extended,AE66049C
 
-[Cheats/P1 Press R1 To Fire With No Recoil] 
+//Cheats/P1 Press R1 To Fire With No Recoil
 patch=1,EE,D0665D82,extended,0000F7FF
 patch=1,EE,2020619C,extended,00000000
 patch=1,EE,D0665D82,extended,0010F7FF
 patch=1,EE,2020619C,extended,AE820070
 
-[Cheats/Unlock All Chapters And Extras] 
+//Cheats/Unlock All Chapters And Extras
 patch=1,EE,201541F0,extended,00430821
 patch=1,EE,201541F4,extended,24020001
 patch=1,EE,201541FC,extended,AC220000
 
-[Cheats/Have Easy Level Completed All Easy Levels]
+//Cheats/Have Easy Level Completed All Easy Levels
 patch=1,EE,40665448,extended,00120001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Have Easy Level Completed All Normal Levels] 
+//Cheats/Have Easy Level Completed All Normal Levels
 patch=1,EE,406654A4,extended,00110001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Have Easy Level Completed All Hard Levels] 
+//Cheats/Have Easy Level Completed All Hard Levels
 patch=1,EE,40665500,extended,00110001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Have Easy Level Completed All Authentic Levels] 
+//Cheats/Have Easy Level Completed All Authentic Levels
 patch=1,EE,4066555C,extended,00110001
 patch=1,EE,00000001,extended,00000000

@@ -1,5 +1,5 @@
-[Cheats/Enable Debug Display] 
+//Cheats/Enable Debug Display
 patch=1,EE,201709E4,extended,24050001
 
-[Cheats/Debug Mode Press L2,L2,L1,L1,D-Pad Left,D-Pad Left,Circle,Circle,R1,R1,R2,R2 on Controller 2 at the Main Menu. Press Start to Enable it Now] 
+//Cheats/Debug Mode Press L2,L2,L1,L1,D-Pad Left,D-Pad Left,Circle,Circle,R1,R1,R2,R2 on Controller 2 at the Main Menu. Press Start to Enable it Now
 patch=1,EE,1010F2B8,extended,0000C33C

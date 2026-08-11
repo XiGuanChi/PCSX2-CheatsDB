@@ -1,34 +1,34 @@
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,202397c4,extended,00000000
 
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,08062384
 patch=1,EE,200C0228,extended,AC810058
 patch=1,EE,2023F194,extended,0C030088
 patch=1,EE,2023F1c4,extended,0C030088
 
-[Cheats/Infinite Special P1] 
+//Cheats/Infinite Special P1
 patch=1,EE,200C0240,extended,3C014180
 patch=1,EE,200C0244,extended,AE41005C
 patch=1,EE,200C0248,extended,03E00008
 patch=1,EE,200C024C,extended,8E03026C
 patch=1,EE,2023f318,extended,0C030090
 
-[Cheats/No Health P2] 
+//Cheats/No Health P2
 patch=1,EE,200C0230,extended,24010000
 patch=1,EE,200C0234,extended,08062384
 patch=1,EE,200C0238,extended,AC810058
 patch=1,EE,2023F1a8,extended,0C03008C
 patch=1,EE,2023F1d8,extended,0C03008C
 
-[Cheats/Max Ryo] 
+//Cheats/Max Ryo
 patch=1,EE,20A82868,extended,05F5E0FF
 
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,20548CBC,extended,0098967F
 
-[Cheats/Max Virtue all Characters] 
+//Cheats/Max Virtue all Characters
 patch=1,EE,20548CFC,extended,0098967F
 patch=1,EE,20548D40,extended,0098967F
 patch=1,EE,20548D84,extended,0098967F
@@ -41,7 +41,7 @@ patch=1,EE,20548F1C,extended,0098967F
 patch=1,EE,20548F60,extended,0098967F
 patch=1,EE,20548FA4,extended,0098967F
 
-[Cheats/Max Health all Characters] 
+//Cheats/Max Health all Characters
 patch=1,EE,10548CE0,extended,000003E7
 patch=1,EE,10548D24,extended,000003E7
 patch=1,EE,10548D68,extended,000003E7
@@ -54,7 +54,7 @@ patch=1,EE,10548F00,extended,000003E7
 patch=1,EE,10548F44,extended,000003E7
 patch=1,EE,10548F88,extended,000003E7
 
-[Cheats/Max Chakra all Characters] 
+//Cheats/Max Chakra all Characters
 patch=1,EE,10548CF6,extended,000003E7
 patch=1,EE,10548D3A,extended,000003E7
 patch=1,EE,10548D7E,extended,000003E7
@@ -67,15 +67,15 @@ patch=1,EE,10548F16,extended,000003E7
 patch=1,EE,10548F5A,extended,000003E7
 patch=1,EE,10548F9E,extended,000003E7
 
-[Cheats/All Items Max] 
+//Cheats/All Items Max
 patch=1,EE,005490DD,extended,00000063
 patch=1,EE,105490DE,extended,00006363
 patch=1,EE,205490E0,extended,63636363
 patch=1,EE,205490E4,extended,63636363
 patch=1,EE,005490E8,extended,00000063
 
-[Cheats/Naruto Invincible] 
+//Cheats/Naruto Invincible
 patch=1,EE,00548CDA,extended,00000001
 
-[Cheats/Naruto Infinite Health] 
+//Cheats/Naruto Infinite Health
 patch=1,EE,10548CE0,extended,000001F4

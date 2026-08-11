@@ -1,27 +1,27 @@
-[Cheats/Max Odometer Meter] 
+//Cheats/Max Odometer Meter
 patch=1,EE,203AEB54,extended,3B9AC9FF
 
-[Cheats/Always Low Time] 
+//Cheats/Always Low Time
 patch=1,EE,D041E8D2,extended,00000041
 patch=1,EE,2041EAC0,extended,00000000
 
-[Cheats/Max Trip Meter] 
+//Cheats/Max Trip Meter
 patch=1,EE,D041E8D2,extended,00000041
 patch=1,EE,2041EABC,extended,00189BC6
 
-[Cheats/Infinite SP Player 1] 
+//Cheats/Infinite SP Player 1
 patch=1,EE,D041E8D2,extended,00000041
 patch=1,EE,2041E958,extended,004C4B40
 
-[Cheats/Never Lose SP From Damage Player 1] 
+//Cheats/Never Lose SP From Damage Player 1
 patch=1,EE,201653F0,extended,00000000
 
-[Cheats/Easy Wins] 
+//Cheats/Easy Wins
 patch=1,EE,2041E9A8,extended,00000001
 
-[Cheats/Infinite Money With this code start a race for max money] 
+//Cheats/Infinite Money With this code start a race for max money
 patch=1,EE,103AEBB0,extended,0000FFFF
 
-[Cheats/Unlock All Cars Free Mode] 
+//Cheats/Unlock All Cars Free Mode
 patch=1,EE,201D338C,extended,00000000
 

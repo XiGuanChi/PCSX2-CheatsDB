@@ -1,19 +1,19 @@
-[Cheats/Infinite Health]  
+//Cheats/Infinite Health
 patch=1,EE,20465144,extended,270F270F
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2056DFBC,extended,00000000
 
-[Cheats/Low Virus Percentage] 
+//Cheats/Low Virus Percentage
 patch=1,EE,204657C4,,extended,00000000
 
-[Cheats/Max Collection Points]  
+//Cheats/Max Collection Points
 patch=1,EE,2032AFC0,word,05F00000
 
-[Cheats/Unlock All Levels One Player Mode] 
+//Cheats/Unlock All Levels One Player Mode
 patch=1,EE,2032d300,extended,FFFFFFFF
 
-[Cheats/Unlock All Collection Complete] 
+//Cheats/Unlock All Collection Complete
 patch=1,EE,2032D33C,extended,FFFFFFFF
 patch=1,EE,2032D340,extended,FFFFFFFF
 patch=1,EE,2032D344,extended,FFFFFFFF

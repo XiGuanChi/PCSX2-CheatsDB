@@ -1,65 +1,65 @@
-[Cheats/Max Gald] 
+//Cheats/Max Gald
 patch=1,EE,201BA104,extended,0098967F
 
-[Cheats/Lens 9999] 
+//Cheats/Lens 9999
 patch=1,EE,201BA108,extended,0000270F
 
-[Cheats/Character 1 HP 9999] 
+//Cheats/Character 1 HP 9999
 patch=1,EE,101B82B6,extended,0000270F
 patch=1,EE,101B82BA,extended,0000270F
 
-[Cheats/Character 2 HP 9999] 
+//Cheats/Character 2 HP 9999
 patch=1,EE,101B8722,extended,0000270F
 patch=1,EE,101B871E,extended,0000270F
 
-[Cheats/Character 3 HP 9999] 
+//Cheats/Character 3 HP 9999
 patch=1,EE,101B84EE,extended,0000270F
 patch=1,EE,101B84EA,extended,0000270F
 
-[Cheats/Character 4 HP 9999] 
+//Cheats/Character 4 HP 9999
 patch=1,EE,101B8956,extended,0000270F
 patch=1,EE,101B8952,extended,0000270F
 
-[Cheats/Character 5 HP 9999] 
+//Cheats/Character 5 HP 9999
 patch=1,EE,101B8B8A,extended,0000270F
 patch=1,EE,101B8B86,extended,0000270F
 
-[Cheats/Character 6 HP 9999] 
+//Cheats/Character 6 HP 9999
 patch=1,EE,101B8DBE,extended,0000270F
 patch=1,EE,101B8DBA,extended,0000270F
 
-[Cheats/Squad General Attack Impact] 
+//Cheats/Squad General Attack Impact
 patch=1,EE,202151A0,extended,000003EB
 
-[Cheats/Lead Kyle MaX HP] 
+//Cheats/Lead Kyle MaX HP
 patch=1,EE,101B82B6,extended,0000270F
 patch=1,EE,101B82BA,extended,0000270F
 
-[Cheats/Required Code Must be on] 
+//Cheats/Required Code Must be on
 patch=1,EE,2015E06C,extended,0C03C080
 patch=1,EE,200F03F8,extended,0806418E
 
-[Cheats/Infinite HP and TP] 
+//Cheats/Infinite HP and TP
 patch=1,EE,2015E06C,extended,0C03C080
 patch=1,EE,100F03F8,extended,0806418E
 patch=1,EE,100F0208,extended,A6A7003E
 patch=1,EE,100F0214,extended,8EA2021C
 patch=1,EE,100F0218,extended,AEA20220
 
-[Cheats/HP 9999] 
+//Cheats/HP 9999
 patch=1,EE,200F0200,extended,2407270F
 patch=1,EE,200F0204,extended,A6A70042
 
-[Cheats/TP Full Recovery] 
+//Cheats/TP Full Recovery
 patch=1,EE,200F0214,extended,8EA2021C
 patch=1,EE,200F0218,extended,AEA20220
 
-[Cheats/After 1 Battle Level 200, All Stats Max and All Special Crystal Techniques] 
+//Cheats/After 1 Battle Level 200, All Stats Max and All Special Crystal Techniques
 patch=1,EE,100F021C,extended,3C020131
 patch=1,EE,100F0220,extended,34427CFF
 patch=1,EE,100F0224,extended,AEA20034
 
-[Cheats/All Stats Attribute 100%] 
+//Cheats/All Stats Attribute 100%
 patch=1,EE,100F025C,extended,24020064
 patch=1,EE,100F0260,extended,A6A20076
 patch=1,EE,100F0264,extended,A6A2007A
@@ -68,7 +68,7 @@ patch=1,EE,100F026C,extended,A6A20082
 patch=1,EE,100F0270,extended,A6A20086
 patch=1,EE,100F0274,extended,A6A2008A
 
-[Cheats/All Special Crystal Techniques] 
+//Cheats/All Special Crystal Techniques
 patch=1,EE,100F0318,extended,26A300C8
 patch=1,EE,100F031C,extended,906200D7
 patch=1,EE,100F0320,extended,34420001
@@ -76,7 +76,7 @@ patch=1,EE,100F0324,extended,A06200D7
 patch=1,EE,100F0330,extended,16A3FFFA
 patch=1,EE,100F0334,extended,2463FFF6
 
-[Cheats/All 119 Utility's Items 15x] 
+//Cheats/All 119 Utility's Items 15x
 patch=1,EE,2016CDD8,extended,0803C100
 patch=1,EE,100F0400,extended,27BDFFD0
 patch=1,EE,100F0404,extended,FFBF0010
@@ -94,12 +94,12 @@ patch=1,EE,100F0430,extended,DFBF0010
 patch=1,EE,100F0434,extended,03E00008
 patch=1,EE,100F0438,extended,27BD0030
 
-[Cheats/No Random Battle Press L1+R1 Start Battle] 
+//Cheats/No Random Battle Press L1+R1 Start Battle
 patch=1,EE,2011DB90,extended,24020001
 patch=1,EE,D023C342,extended,0000F3FF
 patch=1,EE,2011DB90,extended,24020000
 
-[Cheats/Unlock All Monster Chart]  
+//Cheats/Unlock All Monster Chart
 patch=1,EE,200F02D8,extended,3C03001C
 patch=1,EE,200F02DC,extended,247801FE
 patch=1,EE,200F02E0,extended,3402FFFF
@@ -107,7 +107,7 @@ patch=1,EE,200F02E4,extended,A702A150
 patch=1,EE,200F02E8,extended,1478FFFE
 patch=1,EE,200F02EC,extended,2718FFFE
 
-[Cheats/Unlock All Collector Picture Book] 
+//Cheats/Unlock All Collector Picture Book
 patch=1,EE,200F02F0,extended,3C03001C
 patch=1,EE,200F02F4,extended,24780040
 patch=1,EE,200F02F8,extended,3402FFFF
@@ -115,13 +115,13 @@ patch=1,EE,200F02FC,extended,A702A350
 patch=1,EE,200F0300,extended,1478FFFE
 patch=1,EE,200F0304,extended,2718FFFE
 
-[Cheats/Unlock All Battle Rank] 
+//Cheats/Unlock All Battle Rank
 patch=1,EE,200F0308,extended,3C03001C
 patch=1,EE,200F030C,extended,9462AE26
 patch=1,EE,200F0310,extended,3442001E
 patch=1,EE,200F0314,extended,A462AE26
 
-[Cheats/Unlock All Screen Chat] 
+//Cheats/Unlock All Screen Chat
 patch=1,EE,200F0378,extended,3C03001C
 patch=1,EE,200F037C,extended,2478004E
 patch=1,EE,200F0380,extended,3402FFFF

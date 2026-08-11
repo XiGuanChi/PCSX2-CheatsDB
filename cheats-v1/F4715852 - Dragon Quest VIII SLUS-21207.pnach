@@ -1,56 +1,56 @@
-[Cheats/Infinite Gold] 
+//Cheats/Infinite Gold
 patch=1,EE,20409840,extended,05F5E0FF
 
-[Cheats/Hero Infinite & Max HP] 
+//Cheats/Hero Infinite & Max HP
 patch=1,EE,20409874,extended,000003E7
 patch=1,EE,20409870,extended,000003E7
 
-[Cheats/Hero Infinite Max MP] 
+//Cheats/Hero Infinite Max MP
 patch=1,EE,20409878,extended,000003E7
 patch=1,EE,2040987C,extended,000003E7
 
-[Cheats/Quick Level Up] 
+//Cheats/Quick Level Up
 patch=1,EE,204099C0,extended,05F5E0FF
 
-[Cheats/In Battle Infinite HP + HUD Fix] 
+//Cheats/In Battle Infinite HP + HUD Fix
 patch=1,EE,20207170,extended,00000000
 patch=1,EE,20355CF8,extended,0041280B
 patch=1,EE,20355CFC,extended,90810010
 patch=1,EE,20355D00,extended,0041280A
 
-[Cheats/In Battle Infinite MP] 
+//Cheats/In Battle Infinite MP
 patch=1,EE,20353F08,extended,0041280B
 patch=1,EE,20353F0C,extended,90810010
 patch=1,EE,20353F10,extended,0041280A
 
-[Cheats/Have All Main & Key Items In Bag] 
+//Cheats/Have All Main & Key Items In Bag
 patch=1,EE,40409AD0,extended,01800001
 patch=1,EE,03E00001,extended,00000001
 
-[Cheats/Unlock Full Teleport List] 
+//Cheats/Unlock Full Teleport List
 patch=1,EE,20409090,extended,FFFFFFFF
 patch=1,EE,00409094,extended,000000FF
 
-[Cheats/No Random Battles] 
+//Cheats/No Random Battles
 patch=0,EE,202FA8DC,extended,00000000
 
-[Cheats/Casino Max Coin 99999999] 
+//Cheats/Casino Max Coin 99999999
 patch=1,EE,2040EA50,extended,05F5E0FF
 
-[Cheats/Bank Max Money 99999000] 
+//Cheats/Bank Max Money 99999000
 patch=1,EE,2040A294,extended,05F5DD18
 
-[Cheats/Unlock All Alchemy Recipes] 
+//Cheats/Unlock All Alchemy Recipes
 patch=1,EE,4040E880,extended,00320001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Collected Items List]  
+//Cheats/Unlock All Collected Items List
 patch=1,EE,4040A2A8,extended,000D0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Defeated Monster List]  
+//Cheats/Unlock All Defeated Monster List
 patch=1,EE,4040A5A0,extended,01250008
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Debug Menu Movie test menu] 
+//Cheats/Debug Menu Movie test menu
 patch=1,EE,00169360,extended,00000002

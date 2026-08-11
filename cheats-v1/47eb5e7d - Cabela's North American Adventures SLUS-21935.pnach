@@ -1,23 +1,23 @@
-[Cheats/God Mode] 
+//Cheats/God Mode
 patch=1,EE,007862b8,extended,00000001
 
-[Cheats/Freeze All Animals supposily this code didn't work for my tester, this should freeze the deer] 
+//Cheats/Freeze All Animals supposily this code didn't work for my tester, this should freeze the deer
 patch=1,EE,007bb368,extended,00000001
 
-[Cheats/Stealthy] 
+//Cheats/Stealthy
 patch=1,EE,0079c640,extended,00000001
 
-[Cheats/Never Reload] 
+//Cheats/Never Reload
 patch=1,EE,2049fec0,extended,24420000
 
-[Cheats/Unlock All Career Levels] 
+//Cheats/Unlock All Career Levels
 patch=1,EE,007975B0,extended,0000000A
 
-[Cheats/Unlock All Shooting Galleries] 
+//Cheats/Unlock All Shooting Galleries
 patch=1,EE,007975B8,extended,00000001
 patch=1,EE,007975C0,extended,00000003
 
-[Cheats/Quick Score Gain andd No Point Loss] 
+//Cheats/Quick Score Gain andd No Point Loss
 patch=1,EE,200A0000,extended,8C830000
 patch=1,EE,200A0004,extended,2411270F
 patch=1,EE,200A0008,extended,0814C9C3

@@ -1,20 +1,20 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2033AB88,extended,00000001
 
-[Cheats/Infinite Mines] 
+//Cheats/Infinite Mines
 patch=1,EE,2021D9C8,extended,24420000
 
-[Cheats/Infinite Torpedoes] 
+//Cheats/Infinite Torpedoes
 patch=1,EE,2021D960,extended,24620000
 
-[Cheats/Unlock All Cards] 
+//Cheats/Unlock All Cards
 patch=1,EE,2033AB68,extended,01FFFFFF
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,4033A8F8,extended,001D0001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Debug Menu Hold Select+Start In Game replace the pause menu with a debug menu. Press Select again while the menu is onscreen will close it]   
+//Cheats/Debug Menu Hold Select+Start In Game replace the pause menu with a debug menu. Press Select again while the menu is onscreen will close it
 patch=1,EE,D0344542,extended,0000FFF6
 patch=1,EE,0011E65C,extended,00000002
 patch=1,EE,D0344542,extended,0000FFFF

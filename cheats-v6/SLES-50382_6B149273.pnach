@@ -1,16 +1,16 @@
 gametitle=Silent Hill 2 SLES-50382 6B149273
 
-[Infinite Health]
+//Infinite Health
 author=GamingDragon93
 patch=1,EE,203EDEF4,extended,42C80000
 patch=1,EE,203EDEF8,extended,42C80000
 
-[L1+L2 Have all weapons]
+//L1+L2 Have all weapons
 author=GamingDragon93
 patch=1,EE,D103AB02,extended,0000FAFF
 patch=1,EE,11125C60,extended,0000FD50
 
-[L2+R2 Have all items]
+//L2+R2 Have all items
 author=GamingDragon93
 patch=1,EE,D103AB02,extended,0000FCFF
 patch=1,EE,11125C62,extended,0000FFFF
@@ -21,7 +21,7 @@ patch=1,EE,11125C66,extended,0000FFFF
 patch=1,EE,D103AB02,extended,0000FCFF
 patch=1,EE,11125C68,extended,0000FFFF
 
-[Shoot for Inf Hand Gun Ammo]
+//Shoot for Inf Hand Gun Ammo
 author=GamingDragon93
 patch=1,EE,D103AB02,extended,0000BDFF
 patch=1,EE,11125C74,extended,0000000A

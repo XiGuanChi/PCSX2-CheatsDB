@@ -1,21 +1,21 @@
-[Cheats/Infinite Turbo] 
+//Cheats/Infinite Turbo
 patch=1,EE,20511D98,extended,00000000
 
-[Cheats/Infinite Check Point Time] 
+//Cheats/Infinite Check Point Time
 patch=1,EE,204F0618,extended,00000000
 
-[Cheats/Max Reputation] 
+//Cheats/Max Reputation
 patch=1,EE,206E5380,extended,4CBEBC20
 
-[Cheats/Unlock All Accessories] 
+//Cheats/Unlock All Accessories
 patch=1,EE,20527AAC,extended,24030001
 
-[Cheats/Unlock All Tracks] 
+//Cheats/Unlock All Tracks
 patch=1,EE,205230A4,extended,24030001
 patch=1,EE,205230AC,extended,AD4300A4
 patch=1,EE,205230B8,extended,24030003
 patch=1,EE,205230C0,extended,A14300A0
 
-[Cheats/Unlock All Parts] 
+//Cheats/Unlock All Parts
 patch=1,EE,20527AAC,extended,24030002
 patch=1,EE,20527AB4,extended,AC430010

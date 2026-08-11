@@ -1,38 +1,38 @@
-[Cheats/Max Money]  
+//Cheats/Max Money
 patch=1,EE,204B033C,extended,0001869F
 
-[Cheats/Max Likability Nobue] 
+//Cheats/Max Likability Nobue
 patch=1,EE,204B0340,extended,00000064
 
-[Cheats/Max Likability Chika] 
+//Cheats/Max Likability Chika
 patch=1,EE,204B0344,extended,00000064
 
-[Cheats/Max Likability Miu] 
+//Cheats/Max Likability Miu
 patch=1,EE,204B0348,extended,00000064
 
-[Cheats/Max Likability Mari] 
+//Cheats/Max Likability Mari
 patch=1,EE,204B034C,extended,00000064
 
-[Cheats/Max Likability Anna] 
+//Cheats/Max Likability Anna
 patch=1,EE,204B0350,extended,00000064
 
-[Cheats/Unlock All Items]
+//Cheats/Unlock All Items
 patch=1,EE,204B0550,extended,01010101
 patch=1,EE,204B0554,extended,01010101
 patch=1,EE,204B0558,extended,01010101
 patch=1,EE,104B055C,extended,00000101
 patch=1,EE,004B055E,extended,00000001
 
-[Cheats/Unlock All Gallery and All Gallery Interview] 
+//Cheats/Unlock All Gallery and All Gallery Interview
 patch=1,EE,404B0294,extended,001E0001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,204B030C,extended,00000101
 
-[Cheats/Unlock All Gallery Appearance Albums and Interviews]   
+//Cheats/Unlock All Gallery Appearance Albums and Interviews
 patch=1,EE,204B0308,extended,01010101
 patch=1,EE,204B030C,extended,00000101
 
-[Cheats/Unlock All CG] 
+//Cheats/Unlock All CG
 patch=1,EE,20134C38,extended,00440821
 patch=1,EE,20134C3C,extended,0804D32E
 patch=1,EE,20134C40,extended,24020001

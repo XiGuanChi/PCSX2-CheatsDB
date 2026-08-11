@@ -1,4 +1,4 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200A0000,extended,AC8300EC
 patch=1,EE,200A0004,extended,8CE3046C
 patch=1,EE,200A0008,extended,ACE30468
@@ -7,35 +7,35 @@ patch=1,EE,200A0010,extended,8CE3046C
 patch=1,EE,201b0c3c,extended,08028000
 patch=1,EE,201b0c40,extended,00000000
 
-[Cheats/Infinite Health ALT] 
+//Cheats/Infinite Health ALT
 patch=1,EE,201b0c2c,extended,8CE3046C
 patch=1,EE,201b0c30,extended,ACE30468
 
-[Cheats/Infinite Health ALT 2] 
+//Cheats/Infinite Health ALT 2
 patch=1,EE,203277e4,extended,8e22046c
 patch=1,EE,203277f4,extended,ae220468
 
-[Cheats/Max Psypher Level] 
+//Cheats/Max Psypher Level
 patch=1,EE,200FFF20,extended,A0E504AD
 patch=1,EE,200FFF24,extended,0806C32E
 patch=1,EE,200FFF28,extended,AC850108
 patch=1,EE,201b0cb0,extended,0803FFC8
 patch=1,EE,201b0cb4,extended,24050062
 
-[Cheats/Max HP Level] 
+//Cheats/Max HP Level
 patch=1,EE,200FFF10,extended,A0E504AC
 patch=1,EE,200FFF14,extended,0806C32C
 patch=1,EE,200FFF18,extended,AC850104
 patch=1,EE,201b0cb8,extended,0803FFC4
 patch=1,EE,201b0cbc,extended,24050062
 
-[Cheats/Infinite POW] 
+//Cheats/Infinite POW
 patch=1,EE,200FFF30,extended,C62107D0
 patch=1,EE,200FFF34,extended,080C9E36
 patch=1,EE,200FFF38,extended,E62107CC
 patch=1,EE,203278d0,extended,0803FFCC
 
-[Cheats/Infinite Magie] 
+//Cheats/Infinite Magie
 patch=1,EE,200A0000,extended,AC8300EC
 patch=1,EE,200A0004,extended,8CE3047C
 patch=1,EE,200A0008,extended,ACE30470
@@ -44,23 +44,23 @@ patch=1,EE,200A0010,extended,8CE3046C
 patch=1,EE,201b0c3c,extended,08028000
 patch=1,EE,201b0c40,extended,00000000
 
-[Cheats/Press START for Debug Menu] 
+//Cheats/Press START for Debug Menu
 patch=1,EE,101C0078,extended,0000000E
 
-[Cheats/No Pow Loss While Guarding] 
+//Cheats/No Pow Loss While Guarding
 patch=1,EE,203266C4,extended,00000000
 patch=1,EE,20326960,extended,00000000
 
-[Cheats/No Pow Loss While Attacking] 
+//Cheats/No Pow Loss While Attacking
 patch=1,EE,20326E5C,extended,00000000
 patch=1,EE,20320F50,extended,00000000
 patch=1,EE,20322F6C,extended,00000000
 
-[Cheats/No Pow Loss Over Cancels] 
+//Cheats/No Pow Loss Over Cancels
 patch=1,EE,003234B8,extended,00000000
 
-[Cheats/999 Titanian Gold] 
+//Cheats/999 Titanian Gold
 patch=1,EE,119B4EB0,extended,000003E7
 
-[Cheats/Debug Menu hold Select and press Start to access a debug mode. In the menu, press Circle to confirm choices.] 
+//Cheats/Debug Menu hold Select and press Start to access a debug mode. In the menu, press Circle to confirm choices.
 patch=1,EE,101C0078,extended,0000000F

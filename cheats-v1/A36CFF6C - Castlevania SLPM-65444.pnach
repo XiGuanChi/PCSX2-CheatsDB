@@ -1,32 +1,32 @@
-[Cheats/Infinite Gold] 
+//Cheats/Infinite Gold
 patch=1,EE,20B64BA0,extended,000F423F
 
-[Cheats/Max HP] 
+//Cheats/Max HP
 patch=1,EE,204685BC,extended,C4C00000
 
-[Cheats/Max MP]  
+//Cheats/Max MP
 patch=1,EE,20468D24,extended,0C11A30A
 
-[Cheats/Max Heart Maintained After Change] 
+//Cheats/Max Heart Maintained After Change
 patch=1,EE,20468710,extended,C6000004
 
-[Cheats/Weapon Attack Power Increase] 
+//Cheats/Weapon Attack Power Increase
 patch=1,EE,20B64F00,extended,46FA0000
 patch=1,EE,20B64EC4,extended,46FA0000
 
-[Cheats/Status Abnormality Resistance Curse 100%] 
+//Cheats/Status Abnormality Resistance Curse 100%
 patch=1,EE,20B64F38,extended,42C80000
 
-[Cheats/Status Abnormality Resistance Stone 100%] 
+//Cheats/Status Abnormality Resistance Stone 100%
 patch=1,EE,20B64F30,extended,42C80000
 
-[Cheats/Status Abnormality Resistance Poison 100%] 
+//Cheats/Status Abnormality Resistance Poison 100%
 patch=1,EE,20B64F34,extended,42C80000
 
-[Cheats/Have All Skills]  
+//Cheats/Have All Skills
 patch=1,EE,10B64E24,extended,1CDE7FFF
 
-[Cheats/Have All Magic Devices]  
+//Cheats/Have All Magic Devices
 patch=1,EE,20B64DFC,extended,00010086
 patch=1,EE,20B64E00,extended,00010087
 patch=1,EE,20B64E04,extended,00010088
@@ -48,7 +48,7 @@ patch=1,EE,20B64DF0,extended,00010083
 patch=1,EE,20B64DF4,extended,00010084
 patch=1,EE,20B64DF8,extended,00010085
 
-[Cheats/Have All 9 Items Probably] 
+//Cheats/Have All 9 Items Probably
 patch=1,EE,20B64C74,extended,0009002A
 patch=1,EE,20B64C78,extended,0009002B
 patch=1,EE,20B64C7C,extended,0009002C
@@ -77,7 +77,7 @@ patch=1,EE,20B64CD4,extended,0009004A
 patch=1,EE,20B64CD8,extended,0009004B
 patch=1,EE,20B64CDC,extended,0009004C
 
-[Cheats/Have All 9 Accessories] 
+//Cheats/Have All 9 Accessories
 patch=1,EE,20B64BF4,extended,0009000A
 patch=1,EE,20B64BF8,extended,0009000B
 patch=1,EE,20B64BFC,extended,0009000C
@@ -104,14 +104,14 @@ patch=1,EE,20B64C4C,extended,00090020
 patch=1,EE,20B64C50,extended,00090021
 patch=1,EE,20B64C54,extended,00090022
 
-[Cheats/Have All Whips] 
+//Cheats/Have All Whips
 patch=1,EE,20B64BD0,extended,00010001
 patch=1,EE,20B64BD4,extended,00010002
 patch=1,EE,20B64BD8,extended,00010003
 patch=1,EE,20B64BDC,extended,00010004
 patch=1,EE,20B64BE0,extended,00010005
 
-[Cheats/Unlock All Register Monsters]
+//Cheats/Unlock All Register Monsters
 patch=1,EE,40B7B4AC,extended,00400003
 patch=1,EE,0000003F,extended,00000000
 patch=1,EE,40B7B7AC,extended,00310003

@@ -1,56 +1,56 @@
-[Cheats/All Characters Max HP And Musou] 
+//Cheats/All Characters Max HP And Musou
 patch=1,EE,4052C258,extended,005C0036
 patch=1,EE,10001000,extended,00000000
 
-[Cheats/Activate All 4 Power-Ups]  
+//Cheats/Activate All 4 Power-Ups
 patch=1,EE,205318D4,extended,FFFFFFFF
 
-[Cheats/All Characters Max Attack And Defense]   
+//Cheats/All Characters Max Attack And Defense
 patch=1,EE,4052C25C,extended,005C0036
 patch=1,EE,10001000,extended,00000000
 
-[Cheats/All Characters Level 99] 
+//Cheats/All Characters Level 99
 patch=1,EE,4052C254,extended,005C0036
 patch=1,EE,000000FF,extended,00000000
 
-[Cheats/All Characters Max Speed And Proficiency]   
+//Cheats/All Characters Max Speed And Proficiency
 patch=1,EE,4052C260,extended,005C0036
 patch=1,EE,C0001000,extended,00000000
 
-[Cheats/Have 99 of All Skills ] 
+//Cheats/Have 99 of All Skills
 patch=1,EE,00531521,extended,00000063
 patch=1,EE,10531522,extended,00006363
 patch=1,EE,20531524,extended,63636363
 patch=1,EE,20531528,extended,63636363
 patch=1,EE,2053152c,extended,63636363
 
-[Cheats/Can Always Do True Musou Attacks] 
+//Cheats/Can Always Do True Musou Attacks
 patch=1,EE,10541970,extended,0000FFFF
 
-[Cheats/No Clip]  
+//Cheats/No Clip
 patch=1,EE,201A2988,extended,10000039
 
-[Cheats/Unlock Original Background] 
+//Cheats/Unlock Original Background
 patch=1,EE,00531530,extended,00000004
 
-[Cheats/UHave All Stories Cleared] 
+//Cheats/UHave All Stories Cleared
 patch=1,EE,005311A4,extended,00000008
 patch=1,EE,005311A8,extended,00000008
 patch=1,EE,005311AC,extended,00000008
 patch=1,EE,005311B0,extended,00000008
 patch=1,EE,005311B4,extended,00000008
 
-[Cheats/Have All Treasures] 
+//Cheats/Have All Treasures
 patch=1,EE,20531504,extended,FFFFFFFF
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,4052C328,extended,005C0036
 patch=1,EE,00002000,extended,00000000
 
-[Cheats/Unlock All Dream Mode And Free Mode Scenarios And Have Them Cleared On All Difficulties] 
+//Cheats/Unlock All Dream Mode And Free Mode Scenarios And Have Them Cleared On All Difficulties
 patch=1,EE,405311C0,extended,00440003
 patch=1,EE,00000F01,extended,00000000
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,10531532,extended,0000FFFF
 patch=1,EE,10531534,extended,00000FFF

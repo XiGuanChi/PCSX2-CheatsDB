@@ -1,11 +1,11 @@
-[Cheats/Pause For Max Money] 
+//Cheats/Pause For Max Money
 patch=1,EE,200C0220,extended,3C0205F5
 patch=1,EE,200C0224,extended,3442E0FF
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,AC8225B4
 patch=1,EE,2025C5C8,extended,0C030088
 
-[Cheats/Pause For Max Tokens] 
+//Cheats/Pause For Max Tokens
 patch=1,EE,200C0230,extended,2402270F
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,AC8225C4

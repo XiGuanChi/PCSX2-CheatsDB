@@ -1,33 +1,33 @@
-[Cheats/Infinite Continues] 
+//Cheats/Infinite Continues
 patch=1,EE,205961D3,extended,0000000F
 
-[Cheats/Stage 1 CLEAR! Press L1]
+//Cheats/Stage 1 CLEAR! Press L1
 patch=1,EE,D1DC8442,extended,0000FBFF
 patch=1,EE,20569356,extended,00000008
 
-[Cheats/Stage 2 CLEAR! Press R1]
+//Cheats/Stage 2 CLEAR! Press R1
 patch=1,EE,D1DC8442,extended,0000F7FF
 patch=1,EE,2056935F,extended,00000080
 
-[Cheats/Stage 3 CLEAR! Press SELECT+R1] 
+//Cheats/Stage 3 CLEAR! Press SELECT+R1
 patch=1,EE,D1DC8442,extended,0000FDFE
 patch=1,EE,20569370,extended,0000000C
 
-[Cheats/Stage 4 CLEAR! Press SELECT+L2]  
+//Cheats/Stage 4 CLEAR! Press SELECT+L2
 patch=1,EE,D1DC8442,extended,0000FEFE
 patch=1,EE,2056937F,extended,00000002
 
-[Cheats/The final stage CLEAR! Press SELECT+R2] 
+//Cheats/The final stage CLEAR! Press SELECT+R2
 patch=1,EE,D1DC8442,extended,0000F7FE
 patch=1,EE,20569382,extended,00000010
 
-[Cheats/Infinite time] 
+//Cheats/Infinite time
 patch=1,EE,21DF4FB0,extended,00000000
 
-[Cheats/Infinite Time of the Experimental Body] 
+//Cheats/Infinite Time of the Experimental Body
 patch=1,EE,205961BC,extended,00000000
 
-[Cheats/Unlock All Bonus] 
+//Cheats/Unlock All Bonus
 patch=1,EE,20567E94,extended,FFFFFFFF
 patch=1,EE,00567EDC,extended,00000002
 patch=1,EE,00567EDD,extended,00000006

@@ -1,4 +1,4 @@
-[Cheats/Combat assistance required] 
+//Cheats/Combat assistance required
 patch=1,EE,200FA800,extended,50400001
 patch=1,EE,200FA804,extended,27FF0020
 patch=1,EE,200FA808,extended,9219017E
@@ -11,45 +11,45 @@ patch=1,EE,200FA8F8,extended,03E00008
 patch=1,EE,20163860,extended,0C03EA00
 
 
-[Cheats/Kamimai Always attribute attacks except on horseback.] 
+//Cheats/Kamimai Always attribute attacks except on horseback.
 patch=1,EE,2028D584,extended,24048000
 
-[Cheats/Kamimai Decisive battle All military commanders are out from the beginning.] 
+//Cheats/Kamimai Decisive battle All military commanders are out from the beginning.
 patch=1,EE,201E6E28,extended,24030000
 patch=1,EE,201E6E74,extended,24030000
 
-[Cheats/One Hit Kill] 
+//Cheats/One Hit Kill
 patch=1,EE,200FA87C,extended,34087000
 patch=1,EE,200FA880,extended,A468000A
 patch=1,EE,200FA884,extended,00000000
 
-[Cheats/Four-sided song All enemies.] 
+//Cheats/Four-sided song All enemies.
 patch=1,EE,201E67D8,extended,10000003
 patch=1,EE,201E67EC,extended,00000000
 
-[Cheats/Item drop Soldiers will drop various items.] 
+//Cheats/Item drop Soldiers will drop various items.
 patch=1,EE,20239A60,extended,00000000
 patch=1,EE,20219A78,extended,10000003
 
-[Cheats/Stock Experience 99999] 
+//Cheats/Stock Experience 99999
 patch=1,EE,20529A90,extended,0001869F
 
-[Cheats/Always Get 4 Weapons] 
+//Cheats/Always Get 4 Weapons
 patch=1,EE,201EC20C,extended,24160000
 
-[Cheats/All characters can be used] 
+//Cheats/All characters can be used
 patch=1,EE,20529AC0,extended,FFFFFFFF
 patch=1,EE,20529AC4,extended,FFFFFFFF
 patch=1,EE,20529AC8,extended,FFFFFFFF
 patch=1,EE,00529ACC,extended,0000007F
 
-[Cheats/Forge 99] 
+//Cheats/Forge 99
 patch=1,EE,40529AB4,extended,00030001
 patch=1,EE,63636363,extended,00000000
 patch=1,EE,10529AB2,extended,00006363
 patch=1,EE,00529AB1,extended,00000063
 
-[Cheats/Special Skill 99] 
+//Cheats/Special Skill 99
 patch=1,EE,201F0570,extended,01CD6825
 patch=1,EE,201F0574,extended,A1ED0000
 patch=1,EE,20529AA0,extended,32323232
@@ -60,13 +60,13 @@ patch=1,EE,20265644,extended,10000003
 patch=1,EE,00529AB0,extended,00000021
 patch=1,EE,00529A9F,extended,00000032
 
-[Cheats/Soldier Increase It will be a part of 10 people.] 
+//Cheats/Soldier Increase It will be a part of 10 people.
 patch=1,EE,201F4FD8,extended,00000000
  
-[Cheats/Physical attack multi-stage hit Attacks on players are normal.] 
+//Cheats/Physical attack multi-stage hit Attacks on players are normal.
 patch=1,EE,201919FC,extended,1415000A
 
-[Cheats/Shock wave multi-stage hit Attacks on players are normal.] 
+//Cheats/Shock wave multi-stage hit Attacks on players are normal.
 patch=1,EE,201A1020,extended,14170009
 
 [Cheats/Unlock All Characters The story is free to use, etc. 2 Shin. Toro Satoshi Machine.VS MODE Shin. Toro Satoshi. Dodomeki & Ushioni Miyako Appearance.
@@ -76,14 +76,14 @@ patch=1,EE,0000FF0F,extended,00000000
 patch=1,EE,10529658,extended,00004000
 patch=1,EE,10529730,extended,00004000
 
-[Cheats/Unlock All Stages] 
+//Cheats/Unlock All Stages
 patch=1,EE,40529750,extended,00440003
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Stages & All Difficulty Levels] 
+//Cheats/Unlock All Stages & All Difficulty Levels
 patch=1,EE,40529750,extended,00440003
 patch=1,EE,00000F02,extended,00000000
 
-[Cheats/Unlock Bonus All Stage clear time reset] 
+//Cheats/Unlock Bonus All Stage clear time reset
 patch=1,EE,40529748,extended,00440003
 patch=1,EE,00034BC0,extended,00000000

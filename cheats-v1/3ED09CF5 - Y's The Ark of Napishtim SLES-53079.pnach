@@ -1,24 +1,24 @@
-[Cheats/Have 50000 Money] 
+//Cheats/Have 50000 Money
 patch=1,EE,202C3A38,extended,0000C350
 
-[Cheats/Max Gold] 
+//Cheats/Max Gold
 patch=1,EE,202C3A38,extended,000F423F
 
-[Cheats/Max Emel] 
+//Cheats/Max Emel
 patch=1,EE,202C3C1C,extended,000F423F
 
-[Cheats/Infinite HP Adol] 
+//Cheats/Infinite HP Adol
 patch=1,EE,20257C42,extended,00004270
 patch=1,EE,202C3A16,extended,00004270
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,202C3A14,extended,4479C000
 
-[Cheats/Invulnerable]  
+//Cheats/Invulnerable
 patch=1,EE,20166640,extended,03E00008
 
-[Cheats/Max Level HP Stats] 
+//Cheats/Max Level HP Stats
 patch=1,EE,202C3A3C,extended,000003E7
 
-[Cheats/1 Hit Kill] 
+//Cheats/1 Hit Kill
 patch=1,EE,20168444,extended,00000000

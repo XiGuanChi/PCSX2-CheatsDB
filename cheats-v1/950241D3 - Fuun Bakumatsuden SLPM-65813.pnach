@@ -1,66 +1,66 @@
-[Cheats/Hero Infinite HP] 
+//Cheats/Hero Infinite HP
 patch=1,EE,2123BBEC,extended,00640060
 
-[Cheats/Hero Max Strength 999] 
+//Cheats/Hero Max Strength 999
 patch=1,EE,1048CBFC,extended,000003E7
 patch=1,EE,1048CBFE,extended,000003E7
 
-[Cheats/Hero Max Brawn 999] 
+//Cheats/Hero Max Brawn 999
 patch=1,EE,1048CC00,extended,000003E7
 patch=1,EE,1048CC02,extended,000003E7
 
-[Cheats/Hero Max Agile 999] 
+//Cheats/Hero Max Agile 999
 patch=1,EE,1048CC04,extended,000003E7
 patch=1,EE,1048CC06,extended,000003E7
 
-[Cheats/Hero Max Celebrity 999] 
+//Cheats/Hero Max Celebrity 999
 patch=1,EE,1048CC0A,extended,000003E7
 
-[Cheats/Hero Infinite Gun's Remaining Ammo]  
+//Cheats/Hero Infinite Gun's Remaining Ammo
 patch=1,EE,201A1790,extended,00000000
 patch=1,EE,201A17B4,extended,00000000
 
-[Cheats/During Mission Player Infinite Health Max Maintained Not compatible with companions operating COM. If you receive more damage than your maximum health, you will die] 
+//Cheats/During Mission Player Infinite Health Max Maintained Not compatible with companions operating COM. If you receive more damage than your maximum health, you will die
 patch=1,EE,20190DA0,extended,868301D2
 patch=1,EE,20190DA8,extended,A68301CE
 
-[Cheats/During Mission Number Of 1P Player Subjugation 999] 
+//Cheats/During Mission Number Of 1P Player Subjugation 999
 patch=1,EE,1048F430,extended,000003E7
 
-[Cheats/During Mission Player No Need To Reload Gun] 
+//Cheats/During Mission Player No Need To Reload Gun
 patch=1,EE,201C9388,extended,24020001
 patch=1,EE,201C938C,extended,AEA20098
 patch=1,EE,201C9390,extended,1000000A
 
-[Cheats/During Mission Player Gun Infinite Ammo Revolver will be displayed even if it is not equipped] 
+//Cheats/During Mission Player Gun Infinite Ammo Revolver will be displayed even if it is not equipped
 patch=1,EE,201C903C,extended,24040063
 patch=1,EE,201C9040,extended,AC4 4008C
 
-[Cheats/During Mission Companion Maintain Max Health] 
+//Cheats/During Mission Companion Maintain Max Health
 patch=1,EE,201CA350,extended,866301D2
 patch=1,EE,201CA358,extended,A66301CE
 patch=1,EE,201CA364,extended,44831000
 
-[Cheats/During Mission Companion Link Gauge Max] 
+//Cheats/During Mission Companion Link Gauge Max
 patch=1,EE,201CA5A8,extended,AE820020
 
-[Cheats/Number 9999 People Total Punitive] 
+//Cheats/Number 9999 People Total Punitive
 patch=1,EE,1048CC0C,extended,0000270F
 
-[Cheats/The Number People 0 Total Hat] 
+//Cheats/The Number People 0 Total Hat
 patch=1,EE,1048CC0E,extended,00000000
 
-[Cheats/Unlock All Tools Available] 
+//Cheats/Unlock All Tools Available
 patch=1,EE,0048D1F9,extended,00000001
 patch=1,EE,1048D1FA,extended,00000101
 patch=1,EE,4048D1FC,extended,00110001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Forms of Acquisition] 
+//Cheats/Unlock All Forms of Acquisition
 patch=1,EE,4048CC50,extended,00700001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Characters In Battle & Challenge Mode] 
+//Cheats/Unlock All Characters In Battle & Challenge Mode
 patch=1,EE,2048E054,extended,FFFFFFFF
 patch=1,EE,2048E058,extended,FFFFFFFF
 patch=1,EE,2048E05C,extended,FFFFFFFF
@@ -68,16 +68,16 @@ patch=1,EE,2048E060,extended,FFFFFFFF
 patch=1,EE,2048E064,extended,FFFFFFFF
 patch=1,EE,2048E068,extended,FFFFFFFF
 
-[Cheats/Unlock All Great Heroes]  
+//Cheats/Unlock All Great Heroes
 patch=1,EE,2048F404,extended,00000000
 patch=1,EE,2048F408,extended,00000000
 patch=1,EE,2048F40C,extended,00000000
 
-[Cheats/Unlock View Materials All Disclosure When Viewing The Person Directory] 
+//Cheats/Unlock View Materials All Disclosure When Viewing The Person Directory
 patch=1,EE,2022D2E4,extended,24030001
 patch=1,EE,2022D2E8,extended,A0A33C04
 
-[Cheats/Unlock View Materials All Video Viewing] 
+//Cheats/Unlock View Materials All Video Viewing
 patch=1,EE,2048E030,extended,01010101
 patch=1,EE,2048E034,extended,01010101
 patch=1,EE,2048E038,extended,01010101
@@ -89,7 +89,7 @@ patch=1,EE,0048E04E,extended,00000001
 patch=1,EE,1048E04C,extended,00000101
 patch=1,EE,1048E02E,extended,00000101
 
-[Cheats/Unlock View Materials All History Timeline] 
+//Cheats/Unlock View Materials All History Timeline
 patch=1,EE,2048E00C,extended,FFFFFFFF
 patch=1,EE,2048E010,extended,FFFFFFFF
 patch=1,EE,2048E014,extended,FFFFFFFF

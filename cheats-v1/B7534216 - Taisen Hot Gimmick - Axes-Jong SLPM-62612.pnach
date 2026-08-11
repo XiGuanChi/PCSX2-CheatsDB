@@ -1,10 +1,10 @@
-[Cheats/Player Score 99990 When The Score Changes] 
+//Cheats/Player Score 99990 When The Score Changes
 patch=1,EE,208517B4,extended,0001863C
 
-[Cheats/Opponent's Score 0 When The Score Changes] 
+//Cheats/Opponent's Score 0 When The Score Changes
 patch=1,EE,208517B0,extended,00000000
 
-[Cheats/Unlock All Treasures Collected] 
+//Cheats/Unlock All Treasures Collected
 patch=1,EE,20850ED8,extended,00000000
 patch=1,EE,20850EDC,extended,00000000
 patch=1,EE,20850EE0,extended,00000000

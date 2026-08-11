@@ -1,30 +1,30 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,203A3990,extended,00000000
 
-[Cheats/Infinite Ammo and No Reload] 
+//Cheats/Infinite Ammo and No Reload
 patch=1,EE,2020F9B4,extended,00000000
 
-[Cheats/Saves Left Dont Decrease When Saving] 
+//Cheats/Saves Left Dont Decrease When Saving
 patch=1,EE,2037BDA0,extended,00000000
 
-[Cheats/P1 Press R1+Right For God Mode On] 
+//Cheats/P1 Press R1+Right For God Mode On
 patch=1,EE,D0483D42,extended,0000F7DF
 patch=1,EE,20507318,extended,3F800000
 
-[Cheats/P1 Press R1+Left For God Mode Off] 
+//Cheats/P1 Press R1+Left For God Mode Off
 patch=1,EE,D0483D42,extended,0000F77F
 patch=1,EE,20507318,extended,3F800000
 
-[Cheats/P1 Press L3+R3 For Level Select Main Menu] 
+//Cheats/P1 Press L3+R3 For Level Select Main Menu
 patch=1,EE,D0483D42,extended,0000FFF9
 patch=1,EE,2041F9F0,extended,00000000
 patch=1,EE,D0483D42,extended,0000FFFF
 patch=1,EE,2041F9F0,extended,10400032
 
-[Cheats/Press L2+Start In Game For Cheat Menu] 
+//Cheats/Press L2+Start In Game For Cheat Menu
 patch=1,EE,2053247C,extended,00000001
 
-[Cheats/60 FPS Patch] 
+//Cheats/60 FPS Patch
 patch=1,EE,2053A70C,extended,00000001
  
 

@@ -1,36 +1,36 @@
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,201A7794,extended,10000010
 
-[Cheats/Max Gold Money] 
+//Cheats/Max Gold Money
 patch=1,EE,205514EC,extended,000F423F
 
-[Cheats/Max Points] 
+//Cheats/Max Points
 patch=1,EE,20582C0C,extended,05F5E0F6
 
-[Cheats/Stage Clear Press Select] 
+//Cheats/Stage Clear Press Select
 patch=1,EE,2020950C,extended,14400036
 patch=1,EE,D038CB84,extended,00000100
 patch=1,EE,2020950C,extended,00000000
 
-[Cheats/One Hit Kill on Enemy for type of centipede you have to target the right spot] 
+//Cheats/One Hit Kill on Enemy for type of centipede you have to target the right spot
 patch=1,EE,201CAF5C,extended,24030000
 patch=1,EE,201CBEC8,extended,10000011
 patch=1,EE,201CD280,extended,1000003F
 patch=1,EE,201D69B8,extended,10000018
 patch=1,EE,201DB198,extended,10000016
 
-[Cheats/Unlock All Weapon]  
+//Cheats/Unlock All Weapon
 patch=1,EE,00582C29,extended,00000002
 patch=1,EE,00582C2C,extended,00000002
 patch=1,EE,10582C2A,extended,00000202
 
-[Cheats/Unlock Mission-Stage 8-1 Opened- Unlocked] 
+//Cheats/Unlock Mission-Stage 8-1 Opened- Unlocked
 patch=1,EE,20582C10,extended,33333333
 patch=1,EE,20582C14,extended,33333333
 patch=1,EE,20582C18,extended,33333333
 patch=1,EE,20582C1C,extended,33333333
 
-[Cheats/Unlock All Stages]  
+//Cheats/Unlock All Stages
 patch=1,EE,201BA104,extended,0098967F
 patch=1,EE,201BA108,extended,00000064
 patch=1,EE,201BA128,extended,0001869F
@@ -39,10 +39,10 @@ patch=1,EE,2014F77C,extended,0000270F
 patch=1,EE,2011DB34,extended,24030001
 patch=1,EE,2011DB80,extended,24110000
 
-[Cheats/Unlock Something Open OMAKE Movie Mode 1st] 
+//Cheats/Unlock Something Open OMAKE Movie Mode 1st
 patch=1,EE,2055177C,extended,007FFFFF
 
-[Cheats/Enable Debug Menus You will be brought to a movie test menu when you first activate the code. To return to the main debug menu, press the X button.Pressing L2 + Circle will take you to Debug screen: Select BSV. Pressing L1 + Circle will take you to Debug screen: 2D Viewer. Main Game Start Starts a new game normally. Main Game Start (Strongest Mode) Starts a new game with everything unlocked and max ammo. Launch 3D Viewer Enters the model viewer option. Sound Test Enters the sound test option.  Event Viewer Enters the event viewer option.] 
+//Cheats/Enable Debug Menus You will be brought to a movie test menu when you first activate the code. To return to the main debug menu, press the X button.Pressing L2 + Circle will take you to Debug screen: Select BSV. Pressing L1 + Circle will take you to Debug screen: 2D Viewer. Main Game Start Starts a new game normally. Main Game Start (Strongest Mode) Starts a new game with everything unlocked and max ammo. Launch 3D Viewer Enters the model viewer option. Sound Test Enters the sound test option.  Event Viewer Enters the event viewer option.
 patch=1,EE,D038CBAE,extended,0000DEFF
 patch=1,EE,201440DC,extended,24130017
 patch=1,EE,D038CBAE,extended,0000DBFF

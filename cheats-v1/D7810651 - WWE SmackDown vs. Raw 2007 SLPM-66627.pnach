@@ -1,7 +1,7 @@
-[Cheats/Max Cash]  
+//Cheats/Max Cash
 patch=1,EE,203DB830,extended,0098967F
 
-[Cheats/Season Mode Max Exp when viewing Exp] 
+//Cheats/Season Mode Max Exp when viewing Exp
 patch=1,EE,200F8000,extended,00400821
 patch=1,EE,200F8004,extended,3C020001
 patch=1,EE,200F8008,extended,3442869F
@@ -9,23 +9,23 @@ patch=1,EE,200F800C,extended,AC220128
 patch=1,EE,200F8010,extended,08040F4C
 patch=1,EE,20103D28,extended,0803E000
 
-[Cheats/Season Mode Max Exp when obtained Exp] 
+//Cheats/Season Mode Max Exp when obtained Exp
 patch=1,EE,20103CEC,extended,00000000
 
-[Cheats/Create Character 1 Total ability value 127.5] 
+//Cheats/Create Character 1 Total ability value 127.5
 patch=1,EE,20398A30,extended,FFFFFFFF
 patch=1,EE,20398A34,extended,FFFFFFFF
 patch=1,EE,20398A38,extended,FFFFFFFF
 patch=1,EE,20398A3C,extended,FFFFFFFF
 
-[Cheats/Create Character 1 Experience point 99999] 
+//Cheats/Create Character 1 Experience point 99999
 patch=1,EE,20398C0C,extended,0001869F
 
-[Cheats/Customize Attributes Breaking through the ascent limitIt goes up to 127.5.] 
+//Cheats/Customize Attributes Breaking through the ascent limitIt goes up to 127.5.
 patch=1,EE,D04AC1C8,extended,00000570
 patch=1,EE,204AC1C8,extended,240200FF
 
-[Cheats/Do not consume Exp when sorting] 
+//Cheats/Do not consume Exp when sorting
 patch=1,EE,D04AC200,extended,00000628
 patch=1,EE,204AC208,extended,00000000
 patch=1,EE,D04AC238,extended,00000628
@@ -33,11 +33,11 @@ patch=1,EE,204AC240,extended,00000000
 patch=1,EE,203D2608,extended,3B9AC9FF
 patch=1,EE,203CF300,extended,3B9AC9FF
 
-[Cheats/Unlock All SHOP products unlocked & purchased]
+//Cheats/Unlock All SHOP products unlocked & purchased
 patch=1,EE,403ED454,extended,000B0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Challenges Cleared] 
+//Cheats/Unlock All Challenges Cleared
 patch=1,EE,103E5400,extended,00000101
 patch=1,EE,003E5402,extended,00000001
 patch=1,EE,403E53E4,extended,00070001

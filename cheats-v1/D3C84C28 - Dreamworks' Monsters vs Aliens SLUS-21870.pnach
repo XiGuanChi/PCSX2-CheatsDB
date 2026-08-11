@@ -1,15 +1,15 @@
-[Cheats/Max Score Points] 
+//Cheats/Max Score Points
 patch=1,EE,20985B00,extended,3B9AC9FF
 
-[Cheats/Infinite Max Health] 
+//Cheats/Infinite Max Health
 patch=1,EE,109C8FD0,extended,0000270F
 patch=1,EE,109C8FD8,extended,0000270F
 
-[Cheats/Gain 1000DNA each Pickup] 
+//Cheats/Gain 1000DNA each Pickup
 patch=1,EE,209C821C,extended,2402270F
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,209C7344,extended,AC830000
 
-[Cheats/Infinite Gun ASM Player 2] 
+//Cheats/Infinite Gun ASM Player 2
 patch=1,EE,209C7738,extended,E43F8FEC

@@ -1,17 +1,17 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,20592C4C,extended,05F5E0FF
 
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,200C0220,extended,3C0605F5
 patch=1,EE,200C0224,extended,34C6E0FF
 patch=1,EE,200C0228,extended,0809B240
 patch=1,EE,200C022C,extended,AC6634B8
 patch=1,EE,202185A8,extended,0C030088
 
-[Cheats/Infinite Turbo Usage] 
+//Cheats/Infinite Turbo Usage
 patch=1,EE,2019CC0C,extended,00000000
 
-[Cheats/Unlock All Tracks And Events] 
+//Cheats/Unlock All Tracks And Events
 patch=1,EE,200C0230,extended,3C0105F5
 patch=1,EE,200C0234,extended,3421E0FF
 patch=1,EE,200C0238,extended,AC6134BC
@@ -19,14 +19,14 @@ patch=1,EE,200C023C,extended,0808614B
 patch=1,EE,200C0240,extended,C46C34BC
 patch=1,EE,20218528,extended,0C03008C
 
-[Cheats/Activate Cheat Indestructible Car] 
+//Cheats/Activate Cheat Indestructible Car
 patch=1,EE,20592BD0,extended,00000001
 
-[Cheats/Activate Cheat Infinite Money] 
+//Cheats/Activate Cheat Infinite Money
 patch=1,EE,20592CA0,extended,00000001
 
-[Cheats/Activate Cheat Unlock All Tracks] 
+//Cheats/Activate Cheat Unlock All Tracks
 patch=1,EE,20592CA4,extended,00000001
 
-[Cheats/Activate Cheat Unlock All Events] 
+//Cheats/Activate Cheat Unlock All Events
 patch=1,EE,20592CA8,extended,00000001

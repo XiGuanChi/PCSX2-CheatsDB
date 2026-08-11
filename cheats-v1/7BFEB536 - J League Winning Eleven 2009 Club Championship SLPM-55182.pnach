@@ -1,23 +1,23 @@
-[Cheats/WEN 999999] 
+//Cheats/WEN 999999
 patch=1,EE,218FB9D0,extended,000F423F
 
-[Cheats/ML point 9999999] 
+//Cheats/ML point 9999999
 patch=1,EE,208836A4,extended,0098967F
 
-[Cheats/Max Stamina]  
+//Cheats/Max Stamina
 patch=1,EE,D0CF9D78,extended,00000EF8
 patch=1,EE,20CF9D84,extended,E4400000
 patch=1,EE,D0CF9D78,extended,00000EF8
 patch=1,EE,20CF9D90,extended,46000003
 
-[Cheats/Max ML Exp] 
+//Cheats/Max ML Exp
 patch=1,EE,D0B6EB20,extended,00005F94
 patch=1,EE,20B6EB20,extended,080484E5
 patch=1,EE,20121394,extended,2407270F
 patch=1,EE,20121398,extended,082DBACA
 patch=1,EE,2012139C,extended,A4875F94
 
-[Cheats/Max Fanta Exp] 
+//Cheats/Max Fanta Exp
 patch=1,EE,D0B90290,extended,0000B774
 patch=1,EE,20B90290,extended,080487C1
 patch=1,EE,20121F04,extended,2407270F

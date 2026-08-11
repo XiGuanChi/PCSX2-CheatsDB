@@ -1,10 +1,10 @@
-[Cheats/Max Points] 
+//Cheats/Max Points
 patch=1,EE,208CE37C,extended,7FFFFFFF
 
-[Cheats/Gain Some Gain Lots of Points] 
+//Cheats/Gain Some Gain Lots of Points
 patch=1,EE,20238538,extended,3C050100
 patch=1,EE,2023853C,extended,34A50000
 
-[Cheats/Store Is Free] 
+//Cheats/Store Is Free
 patch=1,EE,2051AD84,extended,3C030000
 patch=1,EE,2051B10C,extended,00000000

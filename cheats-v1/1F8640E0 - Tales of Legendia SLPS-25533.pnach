@@ -1,62 +1,62 @@
-[Cheats/Gold 9.999.999] 
+//Cheats/Gold 9.999.999
 patch=1,EE,204A2800,extended,0098967F
 
-[Cheats/Gold 9.999.999 shop] 
+//Cheats/Gold 9.999.999 shop
 patch=1,EE,202F27D4,extended,10000005
 
-[Cheats/Max Grade] 
+//Cheats/Max Grade
 patch=1,EE,204A2820,extended,461C3FF6
 
 
-[Cheats/Sener Infinite & Max HP] 
+//Cheats/Sener Infinite & Max HP
 patch=1,EE,104A28B8,extended,000040FA
 patch=1,EE,104A28C6,extended,000040FA
 
-[Cheats/Sener Infinite & Max TP] 
+//Cheats/Sener Infinite & Max TP
 patch=1,EE,104A28C8,extended,00002CC2
 patch=1,EE,104A28BA,extended,00002CC2
 
-[Cheats/Will Infinite & Max HP] 
+//Cheats/Will Infinite & Max HP
 patch=1,EE,104A290C,extended,000040FA
 patch=1,EE,104A291A,extended,000040FA
 
-[Cheats/Will Infinite & Max TP] 
+//Cheats/Will Infinite & Max TP
 patch=1,EE,104A290E,extended,00002CC2
 patch=1,EE,104A291C,extended,00002CC2
 
-[Cheats/1 Hit Kill L3+up ON R3+down OFF] 
+//Cheats/1 Hit Kill L3+up ON R3+down OFF
 patch=1,EE,D049125C,extended,0000FFFD
 patch=1,EE,202A2908,extended,70A510E8
 patch=1,EE,D049125C,extended,0000FFFB
 patch=1,EE,202A2908,extended,70A210E8
 
-[Cheats/Level 255 - HP 9999 - TP 999] 
+//Cheats/Level 255 - HP 9999 - TP 999
 patch=1,EE,2028E91C,extended,24020000
 
-[Cheats/In Battle Required Code] 
+//Cheats/In Battle Required Code
 patch=1,EE,2036ECA8,extended,080DBC4D
 patch=1,EE,2036F134,extended,3C01461D
 patch=1,EE,2036F138,extended,080DBC71
 patch=1,EE,2036F1C8,extended,080DBB2C
 patch=1,EE,2036F1CC,extended,C60C0024
 
-[Cheats/In Battle Max Climax Gauge Press L1] 
+//Cheats/In Battle Max Climax Gauge Press L1
 patch=1,EE,2035B314,extended,3C013F80 
 patch=1,EE,2035B318,extended,10000038 
 patch=1,EE,2035B31C,extended,00000000 
 patch=1,EE,D049125C,extended,0000FBFF
 patch=1,EE,2035B31C,extended,AC810024
 
-[Cheats/In Battle HP Max] 
+//Cheats/In Battle HP Max
 patch=1,EE,2036F13C,extended,AE010024 
 
-[Cheats/In Battle TP Max] 
+//Cheats/In Battle TP Max
 patch=1,EE,2036F1C4,extended,AE010028
 
-[Cheats/In Battle Max Proficiency With One Use Of Technique] 
+//Cheats/In Battle Max Proficiency With One Use Of Technique
 patch=1,EE,2029174C,extended,2404FFFF
 
-[Cheats/Unlock All Recipes] 
+//Cheats/Unlock All Recipes
 patch=1,EE,204A2D30,extended,03030303
 patch=1,EE,204A2D34,extended,03030303
 patch=1,EE,204A2D38,extended,03030303
@@ -71,16 +71,16 @@ patch=1,EE,204A2D58,extended,03030303
 patch=1,EE,204A2D5C,extended,03030303
 patch=1,EE,204A2D60,extended,00030303
 
-[Cheats/All Recipe] 
+//Cheats/All Recipe
 patch=1,EE,404A2D30,extended,000B0001
 patch=1,EE,03030303,extended,00000000
 
-[Cheats/Unlock All Titles For Each Character Appear The effect will appear when you select the title equipment] 
+//Cheats/Unlock All Titles For Each Character Appear The effect will appear when you select the title equipment
 patch=1,EE,20333040,extended,240200FF
 patch=1,EE,20333044,extended,A062089A
 patch=1,EE,2033304C,extended,24020001
 
-[Cheats/Unlock All Titles] 
+//Cheats/Unlock All Titles
 patch=1,EE,104A309C,extended,0000FFFF
 patch=1,EE,204A30A0,extended,FFFFFFFF
 patch=1,EE,204A30A4,extended,FFFFFFFF

@@ -1,13 +1,13 @@
-[Cheats/Infinte Health 999] 
+//Cheats/Infinte Health 999
 patch=1,EE,20D91DCC,extended,000003E7
 
-[Cheats/Max Attack 999] 
+//Cheats/Max Attack 999
 patch=1,EE,20D91DD0,extended,000003E7
 
-[Cheats/Max Defense 999] 
+//Cheats/Max Defense 999
 patch=1,EE,20D91DD4,extended,000003E7
 
-[Cheats/Enable Debug Menus While in-game L3 + L1 for BGM Test. L3 + L2 for Voice Test. L3 + R2 for SE Test. L3 + R1 for Demo Viewer.Select to exit.] 
+//Cheats/Enable Debug Menus While in-game L3 + L1 for BGM Test. L3 + L2 for Voice Test. L3 + R2 for SE Test. L3 + R1 for Demo Viewer.Select to exit.
 patch=1,EE,D046B09E,extended,0000FBFD
 patch=1,EE,2045B1E0,extended,00280060
 patch=1,EE,D046B09E,extended,0000FEFD

@@ -1,10 +1,10 @@
-[Cheats/Max Luc] 
+//Cheats/Max Luc
 patch=1,EE,206B9994,extended,3B9AC9FF
 
-[Cheats/Increase in number of hits to 999 HIT] 
+//Cheats/Increase in number of hits to 999 HIT
 patch=1,EE,202BEF38,extended,00000000
 
-[Cheats/Eldi HP & MP recover immediately] 
+//Cheats/Eldi HP & MP recover immediately
 patch=1,EE,20260CB8,extended,00000000
 patch=1,EE,20260CCC,extended,00000000
 patch=1,EE,20260CF0,extended,00000000
@@ -13,45 +13,45 @@ patch=1,EE,20260D54,extended,00000000
 patch=1,EE,20260D78,extended,00000000
 patch=1,EE,20260D90,extended,10000008
 
-[Cheats/Eldie HP max] 
+//Cheats/Eldie HP max
 patch=1,EE,106B98D0,extended,00009C40
 
-[Cheats/Eldie MP Max] 
+//Cheats/Eldie MP Max
 patch=1,EE,106B98D2,extended,00009C40
 
-[Cheats/Eldie Attack Power Max] 
+//Cheats/Eldie Attack Power Max
 patch=1,EE,106B98D4,extended,000057E4.
 
-[Cheats/1 HP Medal Max HP limit] 
+//Cheats/1 HP Medal Max HP limit
 patch=1,EE,20111518,extended,00000000
 
-[Cheats/1 MP Medal Max MP max] 
+//Cheats/1 MP Medal Max MP max
 patch=1,EE,20111698,extended,00000000
 
-[Cheats/1 POW Medal Max power limit] 
+//Cheats/1 POW Medal Max power limit
 patch=1,EE,201118E8,extended,00000000
 
-[Cheats/Unlock All Obtained Emblems]  
+//Cheats/Unlock All Obtained Emblems
 patch=1,EE,206B9DEC,extended,FFFFFFFF
 patch=1,EE,206B9DF0,extended,FFFFFFFF
 
-[Cheats/Unlock All Challenge Arena & Chapter Mode Appearance] 
+//Cheats/Unlock All Challenge Arena & Chapter Mode Appearance
 patch=1,EE,006BA77E,extended,00000001
 
-[Cheats/Unlock All Arena MONO selection]  
+//Cheats/Unlock All Arena MONO selection
 patch=1,EE,006BA68C,extended,000000FF
 
-[Cheats/Unlock All Arena shop items available for purchase] 
+//Cheats/Unlock All Arena shop items available for purchase
 patch=1,EE,201121F4,extended,24020009
 
-[Cheats/Unlock All Media player]
+//Cheats/Unlock All Media player
 patch=1,EE,206B9998,extended,FFFFFFFF
 patch=1,EE,206B999C,extended,FFFFFFFF
 patch=1,EE,206B99A0,extended,FFFFFFFF
 patch=1,EE,206B99A4,extended,FFFFFFFF
 patch=1,EE,206B99A8,extended,FFFFFFFF
 
-[Cheats/Unlock All Arena]
+//Cheats/Unlock All Arena
 patch=1,EE,206BA784,extended,01010101
 patch=1,EE,206BA788,extended,01010101
 patch=1,EE,206BA78C,extended,01010101
@@ -62,21 +62,21 @@ patch=1,EE,206BA79C,extended,01010101
 patch=1,EE,106BA782,extended,00000101
 patch=1,EE,106BA7A0,extended,00000101
 
-[Cheats/Unlock All Pets Collection] 
+//Cheats/Unlock All Pets Collection
 patch=1,EE,406B9D24,extended,00310001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock Hard and Ultimate Mode] 
+//Cheats/Unlock Hard and Ultimate Mode
 patch=1,EE,006B9DFC,extended,00000008
 
-[Cheats/Unlock Challenge Arena and Select Chapter Mode] 
+//Cheats/Unlock Challenge Arena and Select Chapter Mode
 patch=1,EE,206BA778,extended,00010000
 
-[Cheats/Unlock All Arenas] 
+//Cheats/Unlock All Arenas
 patch=1,EE,406BA780,extended,00090001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Media] 
+//Cheats/Unlock All Media
 patch=1,EE,206B99A0,extended,FFFFFFFF
 patch=1,EE,206B99A4,extended,FFFFFFFF
 patch=1,EE,206B99A8,extended,FFFFFFFF

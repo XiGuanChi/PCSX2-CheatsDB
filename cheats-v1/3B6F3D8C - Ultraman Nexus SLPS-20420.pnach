@@ -1,16 +1,16 @@
-[Cheats/P1 Press L1+R1 For Special Level 1] 
+//Cheats/P1 Press L1+R1 For Special Level 1
 patch=1,EE,D04475C2,extended,0000F3FF
 patch=1,EE,2017D414,extended,24020001
 
-[Cheats/P1 Press L1+L2 For Special Level 2] 
+//Cheats/P1 Press L1+L2 For Special Level 2
 patch=1,EE,D04475C2,extended,0000FAFF
 patch=1,EE,2017D414,extended,24020002
 
-[Cheats/P1 Press R1+R2 For Special Level 3]  
+//Cheats/P1 Press R1+R2 For Special Level 3
 patch=1,EE,D04475C2,extended,0000F5FF
 patch=1,EE,2017D414,extended,24020003
 
-[Cheats/Unlock All Characters and Secrets] 
+//Cheats/Unlock All Characters and Secrets
 patch=1,EE,411B5640,extended,00050001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,411B5528,extended,000D0001

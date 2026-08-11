@@ -1,14 +1,14 @@
-[Cheats/No Damage Collisions with obstacles and the ground will die] 
+//Cheats/No Damage Collisions with obstacles and the ground will die
 patch=1,EE,00439913,extended,00000001
 
-[Cheats/Infinite Missiles] 
+//Cheats/Infinite Missiles
 patch=1,EE,20439854,extended,00000001
 
-[Cheats/Unlock All Campaigns] 
+//Cheats/Unlock All Campaigns
 patch=1,EE,2023A6AC,extended,24DAFFFF
 patch=1,EE,2023A6B0,extended,AC7A0130
 
-[Cheats/Debug 1P Press SELECT+L1+L2 to turn DEBUG ON 1P Press SELECT+R1+R2 to turn DEBUG OFFWhen DEBUG is ON, select any item from the title screen to enter debug mode. Sound Checker: BGM, SE, MOVIE test Card Debug: Memory card operation Area Code: Effect unknown Flight Debug: Flight test Joystick Debug: Joystick test Polygon Debug: Polygon test (will hang when executed) Scenario Debug: Campaign test (including fighter plane and Tamiya Gallery flag operations) Test : Scene test (will hang if executed) Exit: Exit the menu] 
+//Cheats/Debug 1P Press SELECT+L1+L2 to turn DEBUG ON 1P Press SELECT+R1+R2 to turn DEBUG OFFWhen DEBUG is ON, select any item from the title screen to enter debug mode. Sound Checker: BGM, SE, MOVIE test Card Debug: Memory card operation Area Code: Effect unknown Flight Debug: Flight test Joystick Debug: Joystick test Polygon Debug: Polygon test (will hang when executed) Scenario Debug: Campaign test (including fighter plane and Tamiya Gallery flag operations) Test : Scene test (will hang if executed) Exit: Exit the menu
 patch=1,EE,D039A5BA,extended,00000105
 patch=1,EE,2043B02C,extended,00000001
 patch=1,EE,D039A5BA,extended,0000010A

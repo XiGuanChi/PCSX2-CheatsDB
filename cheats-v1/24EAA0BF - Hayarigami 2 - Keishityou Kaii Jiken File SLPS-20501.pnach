@@ -1,27 +1,27 @@
-[Cheats/Infinite Courage Meter Points] 
+//Cheats/Infinite Courage Meter Points
 patch=1,EE,201BE7E4,extended,00000007
 
-[Cheats/Convert Can Be Used] 
+//Cheats/Convert Can Be Used
 patch=1,EE,00495970,extended,00000001
 
-[Cheats/Unlock All F.O.A.F. Database]  
+//Cheats/Unlock All F.O.A.F. Database
 patch=1,EE,401BD760,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,001BD778,extended,000000FF
 
-[Cheats/When You save The Read Rate Is 100%] 
+//Cheats/When You save The Read Rate Is 100%
 patch=1,EE,20141E48,extended,240100FF 
 patch=1,EE,20141E4C,extended,A1410000
 
-[Cheats/Unlock All Database When You View The Database] 
+//Cheats/Unlock All Database When You View The Database
 patch=1,EE,20142848,extended,240100FF
 patch=1,EE,2014284C,extended,A0410000
 
-[Cheats/100% Read Rate for All Scenarios] 
+//Cheats/100% Read Rate for All Scenarios
 patch=1,EE,401BC764,extended,04000001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Scenarios] 
+//Cheats/Unlock All Scenarios
 patch=1,EE,401BD764,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,001BD778,extended,000000FF

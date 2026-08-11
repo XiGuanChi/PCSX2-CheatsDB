@@ -1,36 +1,36 @@
-[Cheats/Get 10000 points per Elimination] 
+//Cheats/Get 10000 points per Elimination
 patch=1,EE,280BE70C,extended,6F492C03
 
-[Cheats/Extra Fast Level Up] 
+//Cheats/Extra Fast Level Up
 patch=1,EE,280BE701,extended,6FD97AE8
 patch=1,EE,280BE773,extended,6FD97AE8
 
-[Cheats/Press L1+L2 to Stop Countdown] 
+//Cheats/Press L1+L2 to Stop Countdown
 patch=1,EE,D92AB2BE,extended,0CA5ED3E
 patch=1,EE,280B0F74,extended,0CA57A65
 
-[Cheats/Press R1+R2 to Restart Countdown] 
+//Cheats/Press R1+R2 to Restart Countdown
 patch=1,EE,D92AB2BE,extended,0CA5833E
 patch=1,EE,280B0F74,extended,0C1B16F8
 
-[Cheats/Stop Countdown Timer] 
+//Cheats/Stop Countdown Timer
 patch=1,EE,20114E40,extended,00000000
 
-[Cheats/Unlock All Skins for Single Mode] 
+//Cheats/Unlock All Skins for Single Mode
 patch=1,EE,203949BC,extended,FFFFFFFF
 patch=1,EE,203949C0,extended,00003FFF
 
-[Cheats/Unlock All Characterz Designs]
+//Cheats/Unlock All Characterz Designs
 patch=1,EE,203949DC,extended,FFFFFFFF
 patch=1,EE,203949E0,extended,0001FFFF
 
-[Cheats/Unlock All Puzzles for Puzzle Mode] 
+//Cheats/Unlock All Puzzles for Puzzle Mode
 patch=1,EE,203949FC,extended,FFFFFFFF
 patch=1,EE,20394A00,extended,FFFFFFFF
 patch=1,EE,20394A04,extended,FFFFFFFF
 patch=1,EE,20394A08,extended,0000000F
 
-[Cheats/Unlock Everything]   
+//Cheats/Unlock Everything
 patch=1,EE,203949BC,extended,FFFFFFFF
 patch=1,EE,203949C0,extended,00003FFF
 patch=1,EE,203949DC,extended,FFFFFFFF

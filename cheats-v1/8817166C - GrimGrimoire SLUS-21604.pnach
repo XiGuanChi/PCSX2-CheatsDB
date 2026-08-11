@@ -1,4 +1,4 @@
-[Cheats/Infinite Health For Only Your Entities] 
+//Cheats/Infinite Health For Only Your Entities
 patch=1,EE,2019BBB4,extended,0802802E
 patch=1,EE,200A00B8,extended,92190004
 patch=1,EE,200A00BC,extended,13200003
@@ -6,42 +6,42 @@ patch=1,EE,200A00C0,extended,86030006
 patch=1,EE,200A00C4,extended,08066EEF
 patch=1,EE,200A00CC,extended,08066EFB
 
-[Cheats/Infinite MP] 
+//Cheats/Infinite MP
 patch=1,EE,2019BAF4,extended,00000000
 patch=1,EE,2019BAFC,extended,00000000
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,20185DE4,extended,00000000
 
-[Cheats/Selected Troops Have Infinite and Full Health & MP] 
+//Cheats/Selected Troops Have Infinite and Full Health & MP
 patch=1,EE,20193210,extended,0C03FFC0
 patch=1,EE,200FFF00,extended,34020032
 patch=1,EE,200FFF04,extended,A6420006
 patch=1,EE,200FFF08,extended,A642000A
 patch=1,EE,200FFF0C,extended,03E00008
 
-[Cheats/Infinite Mana] 
+//Cheats/Infinite Mana
 patch=1,EE,200FFF00,extended,3C0405F5
 patch=1,EE,200FFF04,extended,3484E0FF
 patch=1,EE,200FFF08,extended,08070DBC
 patch=1,EE,200FFF0C,extended,AE040004
 patch=1,EE,201C36E8,extended,0803FFC0
 
-[Cheats/Max Familiars 255] 
+//Cheats/Max Familiars 255
 patch=1,EE,200FFF10,extended,240700FF
 patch=1,EE,200FFF14,extended,08070DEE
 patch=1,EE,200FFF18,extended,A2070001
 patch=1,EE,201C37B0,extended,0803FFC4
 
-[Cheats/Infinite Building] 
+//Cheats/Infinite Building
 patch=1,EE,2019B590,extended,00000000
 patch=1,EE,2019A984,extended,00000000
 
-[Cheats/Unlock Full Book] 
+//Cheats/Unlock Full Book
 patch=1,EE,21C6F934,extended,00000059
 patch=1,EE,21C6F938,extended,0000007D
 patch=1,EE,41C6FC40,extended,00370001
 patch=1,EE,0000000F,extended,00000000
 
-[Cheats/Enable Debug Menu] 
+//Cheats/Enable Debug Menu
 patch=1,EE,201865C4,extended,24110065

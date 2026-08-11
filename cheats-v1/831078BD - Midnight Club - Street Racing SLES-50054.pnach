@@ -1,18 +1,18 @@
-[Cheats/No Damage] 
+//Cheats/No Damage
 patch=1,EE,102C3E04,extended,0000FFFF
 
-[Cheats/Unlock All Cars Arcade]
+//Cheats/Unlock All Cars Arcade
 patch=1,EE,202C4DB0,extended,FFFFFFFF
 patch=1,EE,202C4DB4,extended,FFFFFFFF
 
-[Cheats/Unlock All Cars Career]
+//Cheats/Unlock All Cars Career
 patch=1,EE,202C6800,extended,FFFFFFFF
 patch=1,EE,202C6804,extended,FFFFFFFF
 patch=1,EE,202C6808,extended,FFFFFFFF
 patch=1,EE,202C680C,extended,FFFFFFFF
 
-[Cheats/Unlock New York]  
+//Cheats/Unlock New York
 patch=1,EE,202C413C,extended,FFFFFFFF
 
-[Cheats/Unlock London]  
+//Cheats/Unlock London
 patch=1,EE,202C4140,extended,FFFFFFFF

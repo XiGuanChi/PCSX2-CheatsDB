@@ -1,7 +1,7 @@
-[Cheats/Max Money After a Fight] 
+//Cheats/Max Money After a Fight
 patch=1,EE,202C1924,extended,3C040098
 
-[Cheats/Infinite Health & MP L1+L2 to Enable and R1+R2 to Stop]  
+//Cheats/Infinite Health & MP L1+L2 to Enable and R1+R2 to Stop
 patch=1,EE,200FFF40,extended,2401270F
 patch=1,EE,200FFF44,extended,ACA1002C
 patch=1,EE,200FFF48,extended,ACA10038
@@ -13,7 +13,7 @@ patch=1,EE,202BABDC,extended,0C03FFD0
 patch=1,EE,D0A956DC,extended,0000F5FF
 patch=1,EE,202BABDC,extended,0C0AE9F6
 
-[Cheats/Disable Random Battles Press L3 to Disable and R3 to Restart] 
+//Cheats/Disable Random Battles Press L3 to Disable and R3 to Restart
 patch=1,EE,D0A9575C,extended,0000FFFD
 patch=1,EE,201CC184,extended,240F0000
 patch=1,EE,D0A9575C,extended,0000FFFB

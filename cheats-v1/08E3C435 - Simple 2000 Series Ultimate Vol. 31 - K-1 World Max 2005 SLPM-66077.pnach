@@ -1,14 +1,14 @@
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,2024DB3C,extended,447A0000
 
-[Cheats/Press L2 + R2  2P stamina gauge 0] 
+//Cheats/Press L2 + R2  2P stamina gauge 0
 patch=1,EE,D03197C0,extended,00000003
 patch=1,EE,202C4AB8,extended,00000000
 
-[Cheats/Press L2 + R2  2P helth gauge 0] 
+//Cheats/Press L2 + R2  2P helth gauge 0
 patch=1,EE,D03197C0,extended,00000003
 patch=1,EE,202C4ABC,extended,00000000
 
-[Cheats/All Techniques that can be selected by customization]
+//Cheats/All Techniques that can be selected by customization
 patch=1,EE,20338D44,extended,FFFFFFFF
 patch=1,EE,20338D48,extended,FFFFFFFF

@@ -1,117 +1,117 @@
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,2117433C,extended,05F5E0FF
 
-[Cheats/Serph Max Level] 
+//Cheats/Serph Max Level
 patch=1,EE,01174D74,extended,00000063
 
-[Cheats/Serph Infinite HP] 
+//Cheats/Serph Infinite HP
 patch=1,EE,11174D66,extended,000003E7
 
-[Cheats/Serph Max HP] 
+//Cheats/Serph Max HP
 patch=1,EE,11174D68,extended,000003E7
 
-[Cheats/Serph Infinite MP] 
+//Cheats/Serph Infinite MP
 patch=1,EE,11174D6A,extended,000003E7
 
-[Cheats/Serph Max MP] 
+//Cheats/Serph Max MP
 patch=1,EE,11174D6C,extended,000003E7
 
-[Cheats/Serph Max St] 
+//Cheats/Serph Max St
 patch=1,EE,01174D76,extended,00000063
 
-[Cheats/Serph Max Vi] 
+//Cheats/Serph Max Vi
 patch=1,EE,01174D77,extended,00000063
 
-[Cheats/Serph Max Ma] 
+//Cheats/Serph Max Ma
 patch=1,EE,01174D78,extended,00000063
 
-[Cheats/Serph Max Ag] 
+//Cheats/Serph Max Ag
 patch=1,EE,01174D79,extended,00000063
 
-[Cheats/Serph Max Lu] 
+//Cheats/Serph Max Lu
 patch=1,EE,01174D7A,extended,00000063
 
-[Cheats/Argilla Max Level] 
+//Cheats/Argilla Max Level
 patch=1,EE,01174F38,extended,00000063
 
-[Cheats/Argilla Infinite HP] 
+//Cheats/Argilla Infinite HP
 patch=1,EE,11174F2A,extended,000003E7
 
-[Cheats/Argilla Max HP] 
+//Cheats/Argilla Max HP
 patch=1,EE,11174F2C,extended,000003E7
 
-[Cheats/Argilla Infinite MP] 
+//Cheats/Argilla Infinite MP
 patch=1,EE,11174F2E,extended,000003E7
 
-[Cheats/Argilla Max MP] 
+//Cheats/Argilla Max MP
 patch=1,EE,11174F3A,extended,000003E7
 
-[Cheats/Argilla Max St] 
+//Cheats/Argilla Max St
 patch=1,EE,11174F3B,extended,00000063
 
-[Cheats/Argilla Max Vi] 
+//Cheats/Argilla Max Vi
 patch=1,EE,11174F3C,extended,00000063
 
-[Cheats/Argilla Max Ma] 
+//Cheats/Argilla Max Ma
 patch=1,EE,11174F3D,extended,00000063
 
-[Cheats/Argilla Max Ag] 
+//Cheats/Argilla Max Ag
 patch=1,EE,11174F3E,extended,00000063
 
-[Cheats/Argilla Max Lu] 
+//Cheats/Argilla Max Lu
 patch=1,EE,11174F3F,extended,00000063
 
-[Cheats/Gale Max Level] 
+//Cheats/Gale Max Level
 patch=1,EE,011750FC,extended,00000063
 
-[Cheats/Gale Infinite HP] 
+//Cheats/Gale Infinite HP
 patch=1,EE,111750EE,extended,000003E7
 
-[Cheats/Gale Max HP] 
+//Cheats/Gale Max HP
 patch=1,EE,111750F0,extended,000003E7
 
-[Cheats/Gale Infinite MP] 
+//Cheats/Gale Infinite MP
 patch=1,EE,111750F2,extended,000003E7
 
-[Cheats/Gale Max MP] 
+//Cheats/Gale Max MP
 patch=1,EE,111750F4,extended,000003E7
 
-[Cheats/Gale Max St] 
+//Cheats/Gale Max St
 patch=1,EE,111750FE,extended,00000063
 
-[Cheats/Gale Max Vi] 
+//Cheats/Gale Max Vi
 patch=1,EE,111750FF,extended,00000063
 
-[Cheats/Gale Max Ma] 
+//Cheats/Gale Max Ma
 patch=1,EE,11175100,extended,00000063
 
-[Cheats/Gale Max Ag] 
+//Cheats/Gale Max Ag
 patch=1,EE,11175101,extended,00000063
 
-[Cheats/Gale Max Lu] 
+//Cheats/Gale Max Lu
 patch=1,EE,11175102,extended,00000063
 
-[Cheats/Master Code In Battle Codes] 
+//Cheats/Master Code In Battle Codes
 patch=1,EE,200C2060,extended,03E00008
 patch=1,EE,200C2064,extended,96650126
 patch=1,EE,201C76B0,extended,0C030814
 
-[Cheats/Infinite HP In Battle ] 
+//Cheats/Infinite HP In Battle
 patch=1,EE,200C2050,extended,96610128
 patch=1,EE,200C2054,extended,A6610126
 
-[Cheats/Infinite MP In Battle]  
+//Cheats/Infinite MP In Battle
 patch=1,EE,200C2058,extended,9661012C
 patch=1,EE,200C205C,extended,A661012A
 
-[Cheats/No Random Battles]  
+//Cheats/No Random Battles
 /patch=1,EE,21175744,extended,00000000
 
-[Cheats/Random Battles L1+Select To Disable, L2+Select To Enable] 
+//Cheats/Random Battles L1+Select To Disable, L2+Select To Enable
 patch=1,EE,D0476282,extended,0000FBFE
 patch=1,EE,2011EA28,extended,00000000
 patch=1,EE,D0476282,extended,0000FEFE
 patch=1,EE,2011EA28,extended,A4831444
 
-[Cheats/Battle Stage Debug At Boo tA map select option. You can also view all of the maps in this game, not just battle maps here. Selecting a map that doesn't exist in the game will softlock the game. Apply the code below to appear in this menu upon first boot of the game. For a list of maps in this game, head on over to the notes page.] 
+//Cheats/Battle Stage Debug At Boo tA map select option. You can also view all of the maps in this game, not just battle maps here. Selecting a map that doesn't exist in the game will softlock the game. Apply the code below to appear in this menu upon first boot of the game. For a list of maps in this game, head on over to the notes page.
 patch=1,EE,203297E4,extended,0010A748 

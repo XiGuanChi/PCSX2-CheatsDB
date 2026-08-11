@@ -1,36 +1,36 @@
-[Cheats/Press select+L2 To Complete Mission] 
+//Cheats/Press select+L2 To Complete Mission
 patch=1,EE,D04AD342,extended,0000FEFE
 patch=1,EE,20498F30,extended,00000002
 
-[Cheats/Have Planes X16S] 
+//Cheats/Have Planes X16S
 patch=1,EE,204586A4,extended,00000001
 
-[Cheats/Have Planes F15E] 
+//Cheats/Have Planes F15E
 patch=1,EE,204586AC,extended,00000001
 
-[Cheats/Have Planes F22] 
+//Cheats/Have Planes F22
 patch=1,EE,204586B0,extended,00000001
 
-[Cheats/Have Planes F25] 
+//Cheats/Have Planes F25
 patch=1,EE,204586B4,extended,00000001
 
-[Cheats/Have Planes YF23] 
+//Cheats/Have Planes YF23
 patch=1,EE,204586B8,extended,00000001
 
-[Cheats/Have Planes EF2000] 
+//Cheats/Have Planes EF2000
 patch=1,EE,204586BC,extended,00000001
 
-[Cheats/Have Planes JAS39] 
+//Cheats/Have Planes JAS39
 patch=1,EE,204586C0,extended,00000001
 
-[Cheats/Have Planes MIG29] 
+//Cheats/Have Planes MIG29
 patch=1,EE,204586C4,extended,00000001
 
-[Cheats/Have Planes Su27K] 
+//Cheats/Have Planes Su27K
 patch=1,EE,204586C8,extended,00000001
 
-[Cheats/Have Planes S37] 
+//Cheats/Have Planes S37
 patch=1,EE,204586D0,extended,00000001
 
-[Cheats/Re-enable Debug Menu Press Select at the file select screen will enable this menu.] 
+//Cheats/Re-enable Debug Menu Press Select at the file select screen will enable this menu.
 patch=1,EE,201DD330,extended,00000000

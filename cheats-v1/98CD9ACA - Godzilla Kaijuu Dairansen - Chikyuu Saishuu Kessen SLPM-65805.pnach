@@ -1,13 +1,13 @@
-[Cheats/Max Points] 
+//Cheats/Max Points
 patch=1,EE,206A3748,extended,000F423F
 
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,206E585C,extended,44160000
 
-[Cheats/Press L2+R2 1P Health Max] 
+//Cheats/Press L2+R2 1P Health Max
 patch=1,EE,D0690400,extended,00000003
 patch=1,EE,206E585C,extended,44160000
 
-[Cheats/Press SELECT 2P Health 1] 
+//Cheats/Press SELECT 2P Health 1
 patch=1,EE,D0690400,extended,00000100
 patch=1,EE,206F258C,extended,3F800000

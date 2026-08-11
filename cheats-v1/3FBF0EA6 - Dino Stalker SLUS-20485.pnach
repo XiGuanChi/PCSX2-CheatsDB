@@ -1,27 +1,27 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,202F1F14,extended,40A00000
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,20219B98,extended,00000000
 patch=1,EE,20219BA0,extended,00000000
 
-[Cheats/Never Reload] 
+//Cheats/Never Reload
 patch=1,EE,20133954,extended,00000000
 
-[Cheats/Max Score] 
+//Cheats/Max Score
 patch=1,EE,202F1FC4,extended,0098967F
 
-[Cheats/Max Recovery Aid] 
+//Cheats/Max Recovery Aid
 patch=1,EE,202F2078,extended,00000063
 
-[Cheats/Max Resuscitation] 
+//Cheats/Max Resuscitation
 patch=1,EE,202F207C,extended,00000063
 
-[Cheats/Max Antidote] 
+//Cheats/Max Antidote
 patch=1,EE,202F2080,extended,00000063
 
-[Cheats/Have Ample] 
+//Cheats/Have Ample
 patch=1,EE,202F2088,extended,00000001
 
-[Cheats/Max Tachyon] 
+//Cheats/Max Tachyon
 patch=1,EE,202F208C,extended,0000270F

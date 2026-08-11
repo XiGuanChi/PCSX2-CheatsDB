@@ -1,6 +1,6 @@
 gametitle=Disney/Pixar WALL-E NTSC-U SLUS-21736 C4F479F5
 
-[Disable Blur/Bloom]
+//Disable Blur/Bloom
 author=GamingDragon93
 description=Might need to set Shade Boost, Brightnes:70 and Saturation:60.
 patch=1,EE,00733AE0,word,00070000

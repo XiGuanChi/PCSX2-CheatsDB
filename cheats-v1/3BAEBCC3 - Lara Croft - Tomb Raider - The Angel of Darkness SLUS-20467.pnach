@@ -1,19 +1,19 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2012C1A4,extended,00000000
 
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,10413BE8,extended,0000FFFF
 
-[Cheats/Enable Skip Level] 
+//Cheats/Enable Skip Level
 patch=1,EE,20166BC0,extended,24060000
 
-[Cheats/Not gripping gauge] 
+//Cheats/Not gripping gauge
 patch=1,EE,2012C7F0,extended,3C0142C8
 patch=1,EE,2012C824,extended,AC410080
 
-[Cheats/Infinite Strengh] 
+//Cheats/Infinite Strengh
 patch=1,EE,2012CAD0,extended,3C0142C8
 patch=1,EE,2012CAD8,extended,AE010D58
 
-[Cheats/Unlock Level Select] 
+//Cheats/Unlock Level Select
 patch=1,EE,20166BD8,extended,24060000

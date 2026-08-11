@@ -1,4 +1,4 @@
-[Cheats/Infinite Funds] 
+//Cheats/Infinite Funds
 patch=1,EE,200C2000,extended,3E0405F5
 patch=1,EE,200C2004,extended,3484E0FF
 patch=1,EE,200C2008,extended,0818812C
@@ -6,29 +6,29 @@ patch=1,EE,200C200C,extended,3C240000
 patch=1,EE,206202A8,extended,08030800
 patch=1,EE,206202AC,extended,00000000
 
-[Cheats/Away Team Scores 20]  
+//Cheats/Away Team Scores 20
 patch=1,EE,20775BDC,extended,00000014
 
-[Cheats/Away Team Scores 0]  
+//Cheats/Away Team Scores 0
 patch=1,EE,20775BDC,extended,00000000
 
-[Cheats/Home Team Scores 20] 
+//Cheats/Home Team Scores 20
 patch=1,EE,20775BE0,extended,00000014
 
-[Cheats/Home Team Scores 0]  
+//Cheats/Home Team Scores 0
 patch=1,EE,20775BE0,extended,00000000
 
-[Cheats/All Runs Score For Home Team] 
+//Cheats/All Runs Score For Home Team
 patch=1,EE,D04B4F24,extended,0000282D
 patch=1,EE,204B4F3C,extended,24840004
 
-[Cheats/All Runs Score For Away Team] 
+//Cheats/All Runs Score For Away Team
 patch=1,EE,D04B4F24,extended,0000282D
 patch=1,EE,204B4F3C,extended,24840000
 
-[Cheats/Create Player Infinite Attribute Points]  
+//Cheats/Create Player Infinite Attribute Points
 patch=1,EE,D0546138,extended,0000302D
 
-[Cheats/Create Player 0 Attribute Points]  
+//Cheats/Create Player 0 Attribute Points
 patch=1,EE,D0546138,extended,00000000
 

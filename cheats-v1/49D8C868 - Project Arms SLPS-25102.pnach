@@ -1,21 +1,21 @@
-[Cheats/P1 Infinite Health] 
+//Cheats/P1 Infinite Health
 patch=1,EE,1035F532,extended,0000012C
 
-[Cheats/Unlock All VS Mode]  
+//Cheats/Unlock All VS Mode
 patch=1,EE,203D7427,extended,FFFFFFFF
 patch=1,EE,003D742B,extended,000000FF
 
-[Cheats/Mode VS P1 Infinite Health] 
+//Cheats/Mode VS P1 Infinite Health
 patch=1,EE,1035F532,extended,00000258
 
-[Cheats/Mode VS P2 No Health After press L3] 
+//Cheats/Mode VS P2 No Health After press L3
 patch=1,EE,D157B602,extended,0000FFFD
 patch=1,EE,10360A32,extended,00000000
 
-[Cheats/Clear Time 0] 
+//Cheats/Clear Time 0
 patch=1,EE,20553990,extended,00000000
 
-[Cheats/Enable Debug Menu Press Select at anytime. When the menu first gets activated, it will not render correctly. To fix that, press Circle once then press X.] 
+//Cheats/Enable Debug Menu Press Select at anytime. When the menu first gets activated, it will not render correctly. To fix that, press Circle once then press X.
 patch=1,EE,E002FFFE,extended,0157B602
 patch=1,EE,203EF4D4,extended,00334FA0
 patch=1,EE,203EF4D0,extended,0020BDC8

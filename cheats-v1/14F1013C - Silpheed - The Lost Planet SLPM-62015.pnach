@@ -1,4 +1,4 @@
-[Cheats/Level Select press Select+Left at the title screen to display the level select menu. Press Start+Select to exit this menu] 
+//Cheats/Level Select press Select+Left at the title screen to display the level select menu. Press Start+Select to exit this menu
 patch=1,EE,D08CAB42,extended,0000FF7E
 patch=1,EE,20137BA4,extended,0C062FA6
 patch=1,EE,D08CAB42,extended,0000FFF6

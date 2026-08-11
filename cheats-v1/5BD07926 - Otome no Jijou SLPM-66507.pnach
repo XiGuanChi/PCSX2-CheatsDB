@@ -1,7 +1,7 @@
-[Cheats/Unlock Omake Menu] 
+//Cheats/Unlock Omake Menu
 patch=1,EE,101B3552,extended,0000FFFF
 
-[Cheats/Unlock All CG]
+//Cheats/Unlock All CG
 patch=1,EE,401B3530,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,101B3540,extended,0000FFFF

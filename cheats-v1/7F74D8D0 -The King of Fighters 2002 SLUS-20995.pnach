@@ -1,13 +1,13 @@
-[Cheats/P1 Infinite Health] 
+//Cheats/P1 Infinite Health
 patch=1,EE,20921BE8,extended,00000066
 
-[Cheats/1 Hit Death P2] 
+//Cheats/1 Hit Death P2
 patch=1,EE,D0921DF8,extended,00000066
 patch=1,EE,10921DF8,extended,00000001
 
-[Cheats/Unlock All Character Art Gallery] 
+//Cheats/Unlock All Character Art Gallery
 patch=1,EE,209240E8,extended,FFFFFFFF
 patch=1,EE,009240EC,extended,000000FF
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,20924614,extended,FFFFFFFF

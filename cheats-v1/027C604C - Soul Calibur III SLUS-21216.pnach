@@ -1,13 +1,13 @@
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,204B5F24,extended,43700000
 
-[Cheats/Infinite Gold] 
+//Cheats/Infinite Gold
 patch=1,EE,204ED894,extended,05F5E0FF
 
-[Cheats/1 Hit Death P2] 
+//Cheats/1 Hit Death P2
 patch=1,EE,D04D36A6,extended,00004370
 patch=1,EE,204D36A4,extended,3F800000
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,40504118,extended,012E0001
 patch=1,EE,66666667,extended,00000000

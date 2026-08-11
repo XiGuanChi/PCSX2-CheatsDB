@@ -1,4 +1,4 @@
-[Cheats/Enable Debug Mode Controller 1 debug inputs:Triangle + Circle + X + Square + Start will return you to the title screen.Select + Triangle will enable or disable progressive mode. Controller 2 debug inputs:Circle to toggle debug modes. Press this once or twice to enable sound test options in the Settings menu in the main menu. This will also open a scene select menu in the pause menu in-game.Square toggles a debug flag on or off. This will unlock all extras when enabled.] 
+//Cheats/Enable Debug Mode Controller 1 debug inputs:Triangle + Circle + X + Square + Start will return you to the title screen.Select + Triangle will enable or disable progressive mode. Controller 2 debug inputs:Circle to toggle debug modes. Press this once or twice to enable sound test options in the Settings menu in the main menu. This will also open a scene select menu in the pause menu in-game.Square toggles a debug flag on or off. This will unlock all extras when enabled.
 patch=1,EE,2033BB20,extended,00000001
 
 

@@ -1,41 +1,41 @@
-[Cheats/Player 1 Infinite Health] 
+//Cheats/Player 1 Infinite Health
 patch=1,EE,205A5FC8,extended,05DC05DC
 
-[Cheats/Player 1 Infinite Special Arts] 
+//Cheats/Player 1 Infinite Special Arts
 patch=1,EE,205A5FF0,extended,03E80000
 
-[Cheats/1 Hit Death P2]
+//Cheats/1 Hit Death P2
 patch=1,EE,D05AF718,extended,000005DC
 patch=1,EE,105AF718,extended,00000001
 
-[Cheats/Infinite Health P2] 
+//Cheats/Infinite Health P2
 patch=1,EE,105AF718,extended,000005DC
 
-[Cheats/Max Special Arts Gauge P2] 
+//Cheats/Max Special Arts Gauge P2
 patch=1,EE,105AF742,extended,000003E8
 
-[Cheats/Load Game To For Mission 100] 
+//Cheats/Load Game To For Mission 100
 patch=1,EE,10946D70,extended,0000003B
 
-[Cheats/Save Story Mode For Mission Completion 100%] 
+//Cheats/Save Story Mode For Mission Completion 100%
 patch=1,EE,10946D72,extended,00000001
 patch=1,EE,40946D74,extended,00310001
 patch=1,EE,00010001,extended,00000000
 patch=1,EE,10946E38,extended,00000001
 
-[Cheats/Unlock All Weapons] 
+//Cheats/Unlock All Weapons
 patch=1,EE,1094663A,extended,00000001
 patch=1,EE,4094663C,extended,000E0001
 patch=1,EE,00010001,extended,00000000
 patch=1,EE,10946674,extended,00000001
 
-[Cheats/Unlock All Fighters] 
+//Cheats/Unlock All Fighters
 patch=1,EE,409466B8,extended,00140001
 patch=1,EE,00010001,extended,00000000
 
-[Cheats/Unlock Free Mode] 
+//Cheats/Unlock Free Mode
 patch=1,EE,10946634,extended,00000001
 
-[Cheats/Unlock Challenge Mode] 
+//Cheats/Unlock Challenge Mode
 patch=1,EE,10946636,extended,00000001
 

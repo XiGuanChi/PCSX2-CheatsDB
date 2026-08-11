@@ -1,18 +1,18 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2010F940,extended,C5E00044
 patch=1,EE,2010F944,extended,E5E00048
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,203043D0,extended,25EF0000
 
-[Cheats/Infinite Grenades] 
+//Cheats/Infinite Grenades
 patch=1,EE,2013E46C,extended,25EF0000
 
-[Cheats/Max Rioja Cartel Relations] 
+//Cheats/Max Rioja Cartel Relations
 patch=1,EE,1183C468,extended,00002710
 
-[Cheats/Max Guerrilla Relations] 
+//Cheats/Max Guerrilla Relations
 patch=1,EE,1183C478,extended,00002710
 
-[Cheats/Unlock Dirt Bike, GP, Gyrocopter, Boat] 
+//Cheats/Unlock Dirt Bike, GP, Gyrocopter, Boat
 patch=1,EE,0183D668,extended,0000000F

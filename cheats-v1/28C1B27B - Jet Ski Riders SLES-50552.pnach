@@ -1,14 +1,14 @@
-[Cheats/Max Race Points] 
+//Cheats/Max Race Points
 patch=1,EE,2067C490,extended,000003E7
 
-[Cheats/Finish in 1st Place] 
+//Cheats/Finish in 1st Place
 patch=1,EE,00682830,extended,00000000
 
-[Cheats/Never Penalty Misses] 
+//Cheats/Never Penalty Misses
 patch=1,EE,006827E4,extended,00000000
 patch=1,EE,006827E8,extended,00000009
 
-[Cheats/Start On Lap 3] 
+//Cheats/Start On Lap 3
 patch=1,EE,D06827F8,extended,00000000
 patch=1,EE,106827F8,extended,00000002
 patch=1,EE,00000000,extended,00000000

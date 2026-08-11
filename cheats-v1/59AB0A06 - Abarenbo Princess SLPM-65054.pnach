@@ -1,8 +1,8 @@
-[Cheats/Infiniite Gifts] 
+//Cheats/Infiniite Gifts
 patch=1,EE,D0510C7A,extended,0020000A
 patch=1,EE,10510C7A,extended,0000000A
 
-[Cheats/First Character All Stats Max In Battle] 
+//Cheats/First Character All Stats Max In Battle
 patch=1,EE,1050E1EC,extended,000003E7
 patch=1,EE,1050E1EE,extended,000003E7
 patch=1,EE,1050E1F0,extended,000003E7
@@ -10,11 +10,11 @@ patch=1,EE,1050E1F2,extended,000003E7
 patch=1,EE,1050E200,extended,000003E7
 patch=1,EE,1050E202,extended,000003E7
 
-[Cheats/All Treasure List] 
+//Cheats/All Treasure List
 patch=1,EE,40516D10,extended,00290001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Menu Options and Items Inside Them] 
+//Cheats/Unlock All Menu Options and Items Inside Them
 patch=1,EE,00516270,extended,00000001
 patch=1,EE,2022B4E8,extended,03E00008
 patch=1,EE,2022B4EC,extended,24020001

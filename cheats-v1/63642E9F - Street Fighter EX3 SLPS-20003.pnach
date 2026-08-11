@@ -1,21 +1,21 @@
-[Cheats/Infinite Health & Power Meter P1] 
+//Cheats/Infinite Health & Power Meter P1
 patch=1,EE,008C168D,extended,000000C8
 patch=1,EE,008C1681,extended,0000000A
 
-[Cheats/Infinite Experience 99999]  
+//Cheats/Infinite Experience 99999
 patch=1,EE,205551F8,extended,0001869F
 
-[Cheats/Unlock All Trials] 
+//Cheats/Unlock All Trials
 patch=1,EE,40555248,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
 
-[Cheats/Unlock All Characters Including Vega 2 & Evil Ryu & Fight Mode Against Vega 2 & True Vega] 
+//Cheats/Unlock All Characters Including Vega 2 & Evil Ryu & Fight Mode Against Vega 2 & True Vega
 patch=1,EE,20550FF0,extended,FFFFFFFF
 patch=1,EE,2056BBA8,extended,FFFFFFFF
 patch=1,EE,2056BBAC,extended,FFFFFFFF
 
-[Cheats/All Medals Completed] 
+//Cheats/All Medals Completed
 patch=1,EE,205510A8,extended,FFFFFFFF
 patch=1,EE,205510AC,extended,FFFFFFFF
 

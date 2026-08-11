@@ -1,37 +1,37 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20502004,extended,000000A0
 
-[Cheats/Infinite Gems] 
+//Cheats/Infinite Gems
 patch=1,EE,10502008,extended,0000FFFF
 
-[Cheats/Lock-Pick] 
+//Cheats/Lock-Pick
 patch=1,EE,00502010,extended,00000063
 
-[Cheats/Infinite Ice Missile Ammo] 
+//Cheats/Infinite Ice Missile Ammo
 patch=1,EE,00502018,extended,00000064
 
-[Cheats/Infinite Aqua Bomb Ammo] 
+//Cheats/Infinite Aqua Bomb Ammo
 patch=1,EE,0050201C,extended,00000064
 
-[Cheats/Infinite Ball Lightning Amm] 
+//Cheats/Infinite Ball Lightning Amm
 patch=1,EE,00502020,extended,00000064
 
-[Cheats/Infinite Fire Bomb Ammo] 
+//Cheats/Infinite Fire Bomb Ammo
 patch=1,EE,00502014,extended,00000064
 
-[Cheats/Have All Dark Gems] 
+//Cheats/Have All Dark Gems
 patch=1,EE,00502058,extended,00000028
 
-[Cheats/Have All Light Gems] 
+//Cheats/Have All Light Gems
 patch=1,EE,00502056,extended,00000064
 
-[Cheats/Have All Light and Dark Gems] 
+//Cheats/Have All Light and Dark Gems
 patch=1,EE,10502056,extended,00002864
 
-[Cheats/Have All Power-Ups] 
+//Cheats/Have All Power-Ups
 patch=1,EE,20502028,extended,FFFFFFFFF
 
-[Cheats/Unlock All Dragon Eggs View Status] 
+//Cheats/Unlock All Dragon Eggs View Status
 patch=1,EE,200C0220,extended,AC410030
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,24020001

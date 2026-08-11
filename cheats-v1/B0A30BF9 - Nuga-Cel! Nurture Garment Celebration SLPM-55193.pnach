@@ -1,16 +1,16 @@
-[Cheats/Max Gold] 
+//Cheats/Max Gold
 patch=1,EE,203B1CD0,extended,0098967F
 
-[Cheats/Experience Gained 9999 After Combat 1 Character] 
+//Cheats/Experience Gained 9999 After Combat 1 Character
 patch=1,EE,1037DD88,extended,00002710
 
-[Cheats/Experience Gained 9999 After Combat 2 Character]
+//Cheats/Experience Gained 9999 After Combat 2 Character
 patch=1,EE,1037DD8C,extended,00002710
 
-[Cheats/Experience Gained 9999 After Combat 3 Character] 
+//Cheats/Experience Gained 9999 After Combat 3 Character
 patch=1,EE,1037DD90,extended,00002710
 
-[Cheats/Max Status Ability Of Characters With ED] 
+//Cheats/Max Status Ability Of Characters With ED
 patch=1,EE,403B1DA8,extended,00060049
 patch=1,EE,000003E7,extended,00000000
 patch=1,EE,403B1DAC,extended,00060049
@@ -26,19 +26,19 @@ patch=1,EE,000003E7,extended,00000000
 patch=1,EE,403B1DC8,extended,00060049
 patch=1,EE,000003E7,extended,00000000
 
-[Cheats/Unlock All Gallery Costumes] 
+//Cheats/Unlock All Gallery Costumes
 patch=1,EE,103C43F6,extended,0000FFFE
 patch=1,EE,203C43F8,extended,FFFFFFFF
 patch=1,EE,203C43FC,extended,0007FFFF
 
-[Cheats/Unlock All Gallery Single Pictures] 
+//Cheats/Unlock All Gallery Single Pictures
 patch=1,EE,103C4402,extended,0000FFF0
 patch=1,EE,203C4404,extended,FFFFFFFF
 patch=1,EE,203C4408,extended,0007FFFF
 
-[Cheats/Unlock All Gallery Ending]  
+//Cheats/Unlock All Gallery Ending
 patch=1,EE,403C2F78,extended,00080001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Debug Menu Game Start Begin from corporation movie.Execute Script	Check Event Portrait Display test backgrounds and characters.Select and Battle Test.Suddenly World Map Start the game.Formation Clothes will be add Formation test.Load] 
+//Cheats/Debug Menu Game Start Begin from corporation movie.Execute Script	Check Event Portrait Display test backgrounds and characters.Select and Battle Test.Suddenly World Map Start the game.Formation Clothes will be add Formation test.Load
 patch=1,EE,101C69C4,extended,00000001

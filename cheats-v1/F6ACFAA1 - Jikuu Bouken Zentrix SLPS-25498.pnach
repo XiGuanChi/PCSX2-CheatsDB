@@ -1,8 +1,8 @@
-[Cheats/Prress SELECT 2P Health 0] 
+//Cheats/Prress SELECT 2P Health 0
 patch=1,EE,D0631F88,extended,00000001
 patch=1,EE,205E3B6C,extended,00000000
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,20585870,extended,FFFFFFFF
 patch=1,EE,20585874,extended,FFFFFFFF
 patch=1,EE,20585878,extended,FFFFFFFF

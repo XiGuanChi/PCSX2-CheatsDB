@@ -1,61 +1,61 @@
-[Cheats/Infinite Health & Stamina] 
+//Cheats/Infinite Health & Stamina
 patch=1,EE,201FD264,extended,00000000
 patch=1,EE,201FD268,extended,E441032C
 patch=1,EE,201FD26C,extended,E441033C
 
-[Cheats/Unlock Character Iron Man] 
+//Cheats/Unlock Character Iron Man
 patch=1,EE,205D2BD4,extended,00000001
 
-[Cheats/Unlock Character Venom] 
+//Cheats/Unlock Character Venom
 patch=1,EE,205D2CB8,extended,00000001
 
-[Cheats/Unlock Character Magneto] 
+//Cheats/Unlock Character Magneto
 patch=1,EE,205D2D04,extended,00000001
 
-[Cheats/Unlock Character Storm] 
+//Cheats/Unlock Character Storm
 patch=1,EE,205D2D9C,extended,00000001
 
-[Cheats/Unlock Character Human Torch] 
+//Cheats/Unlock Character Human Torch
 patch=1,EE,205D2DE8,extended,00000001
 
-[Cheats/Unlock Character Daredevil] 
+//Cheats/Unlock Character Daredevil
 patch=1,EE,205D2E34,extended,00000001
 
-[Cheats/Unlock Character Paragon] 
+//Cheats/Unlock Character Paragon
 patch=1,EE,205D2ECC,extended,00000001
 
-[Cheats/Unlock Character Hazmat] 
+//Cheats/Unlock Character Hazmat
 patch=1,EE,205D2F18,extended,00000001
 
-[Cheats/Unlock Character Fault Zone] 
+//Cheats/Unlock Character Fault Zone
 patch=1,EE,205D2F64,extended,00000001
 
-[Cheats/Unlock Character Solara] 
+//Cheats/Unlock Character Solara
 patch=1,EE,205D3048,extended,00000001
 
-[Cheats/Unlock Character Brigade] 
+//Cheats/Unlock Character Brigade
 patch=1,EE,205D3094,extended,00000001
 
-[Cheats/Unlock Character Niles Van Roekel] 
+//Cheats/Unlock Character Niles Van Roekel
 patch=1,EE,205D30E0,extended,00000001
 
-[Cheats/Unlock All Arenas] 
+//Cheats/Unlock All Arenas
 patch=1,EE,405D387C,extended,00040011
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Cards] 
+//Cheats/Unlock All Cards
 patch=1,EE,405D3990,extended,002B0011
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,405D44C0,extended,00090001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Comics] 
+//Cheats/Unlock All Comics
 patch=1,EE,405D4528,extended,00120011
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Re-enable Disabled Passwords Enter A Unlocks everything] 
+//Cheats/Re-enable Disabled Passwords Enter A Unlocks everything
 patch=1,EE,205D6060,extended,00000001
 patch=1,EE,205D6264,extended,00000001
 patch=1,EE,205D6468,extended,00000001

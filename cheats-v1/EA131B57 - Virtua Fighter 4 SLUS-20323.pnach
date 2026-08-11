@@ -1,15 +1,15 @@
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,10879C20,extended,000000C9
 
-[Cheats/1 Hit Death Player 2] 
+//Cheats/1 Hit Death Player 2
 patch=1,EE,D087A3C8,extended,000000C9
 patch=1,EE,1087A3C8,extended,00000000
 
-[Cheats/Have All Items] 
+//Cheats/Have All Items
 patch=1,EE,40590A64,extended,00280001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Have All Training Trial Missions Complete] 
+//Cheats/Have All Training Trial Missions Complete
 patch=1,EE,205EB3B8,extended,FFFFFFFF
 patch=1,EE,205EB3BC,extended,FFFFFFFF
 patch=1,EE,205EB3C0,extended,FFFFFFFF

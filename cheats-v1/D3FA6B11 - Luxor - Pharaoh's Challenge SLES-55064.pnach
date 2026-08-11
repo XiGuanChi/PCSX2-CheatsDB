@@ -1,16 +1,16 @@
-[Cheats/Max Score] 
+//Cheats/Max Score
 patch=1,EE,203a787c,extended,05f5e100
 
-[Cheats/9 Ankh Lives] 
+//Cheats/9 Ankh Lives
 patch=1,EE,003a78a4,extended,00000009
 
-[Cheats/9 Ankh Medals] 
+//Cheats/9 Ankh Medals
 patch=1,EE,003a78cc,extended,00000009
 
-[Cheats/Freeze Balls] 
+//Cheats/Freeze Balls
 patch=1,EE,2011CF34,extended,460C0000
 patch=1,EE,E0010010,extended,00376BC0
 patch=1,EE,2011CF34,extended,00000000
 
-[Cheats/Each Coin Taken Adds One Ank] 
+//Cheats/Each Coin Taken Adds One Ank
 patch=1,EE,2011AE88,extended,00000000

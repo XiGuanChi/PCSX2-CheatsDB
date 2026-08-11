@@ -1,15 +1,15 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2020FD7C,extended,C4800200
 patch=1,EE,2020FD88,extended,E48001F4
 
-[Cheats/Infinite Health Ship] 
+//Cheats/Infinite Health Ship
 patch=1,EE,201DEC90,extended,C4800200
 patch=1,EE,201DEC94,extended,E48001F4
 
-[Cheats/Have Extra Weapons] 
+//Cheats/Have Extra Weapons
 patch=1,EE,2013359C,extended,00000001
 patch=1,EE,20217D58,extended,24020001
 patch=1,EE,20217D5C,extended,A0620261
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,0052E626,extended,00000040

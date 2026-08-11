@@ -1,58 +1,58 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,204B0334,extended,05F5E0FF
 
-[Cheats/Infinite Boost] 
+//Cheats/Infinite Boost
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,AE0102F8
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C60302F8
 patch=1,EE,201202F4,extended,0C030088
 
-[Cheats/Quick Score Gain] 
+//Cheats/Quick Score Gain
 patch=1,EE,20117750,extended,2442270F
 patch=1,EE,2011A45C,extended,2484270F
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,20113DD0,extended,00000000
 
-[Cheats/Buying Attributes Doesnt Decrease Money] 
+//Cheats/Buying Attributes Doesnt Decrease Money
 patch=1,EE,20150E04,extended,00000000
 
-[Cheats/Buying Gear or Rewards Doesnt Decrease Money] 
+//Cheats/Buying Gear or Rewards Doesnt Decrease Money
 patch=1,EE,20150B7C,extended,00000000
 
-[Cheats/Have All Career Highlights] 
+//Cheats/Have All Career Highlights
 patch=1,EE,204B0428,extended,03030303
 patch=1,EE,204B042C,extended,03030303
 
-[Cheats/Unlock All Trading Cards] 
+//Cheats/Unlock All Trading Cards
 patch=1,EE,104B07A6,extended,0000FFFF
 patch=1,EE,204B07A8,extended,FFFFFFFF
 patch=1,EE,204B07AC,extended,FFFFFFFF
 patch=1,EE,204B07B0,extended,FFFFFFFF
 patch=1,EE,004B07B4,extended,000000FF
 
-[Cheats/Unlock All] 
+//Cheats/Unlock All
 patch=1,EE,004B07B5,extended,000000FF
 patch=1,EE,104B07B6,extended,0000FFFF
 patch=1,EE,204B07B8,extended,FFFFFFFF
 patch=1,EE,204B07BC,extended,FFFFFFFF
 patch=1,EE,104B07C0,extended,0000FFFF
 
-[Cheats/Unlock All Videos] 
+//Cheats/Unlock All Videos
 patch=1,EE,004B07C2,extended,000000FF
 
-[Cheats/Unlock All Toys] 
+//Cheats/Unlock All Toys
 patch=1,EE,004B07C3,extended,000000FF
 patch=1,EE,104B07C4,extended,0000FFFF
 patch=1,EE,004B07C6,extended,000000FF
 
-[Cheats/Unlock All Cheat Characters] 
+//Cheats/Unlock All Cheat Characters
 patch=1,EE,004B07C7,extended,000000FF
 patch=1,EE,104B07C8,extended,0000FFFF
 
-[Cheats/Re-enable Quick Start Menu Before Opening Logos] 
+//Cheats/Re-enable Quick Start Menu Before Opening Logos
 patch=1,EE,204C9488,extended,00000000
 
-[Cheats/Re-enable Quick Start Menu After the Start Screen] 
+//Cheats/Re-enable Quick Start Menu After the Start Screen
 patch=1,EE,001949B6,extended,00000037

@@ -1,11 +1,11 @@
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,10382406,extended,000042C8
 patch=1,EE,1038240A,extended,000042C8
 
-[Cheats/Unlock All Compass] 
+//Cheats/Unlock All Compass
 patch=1,EE,2040A36C,extended,FFFFFFFF
 patch=1,EE,2040A370,extended,FFFFFFF7
 
-[Cheats/Unlock All Map] 
+//Cheats/Unlock All Map
 patch=1,EE,2036EC00,extended,FFFFFFFF
 patch=1,EE,2036EC04,extended,FFFFFFFF

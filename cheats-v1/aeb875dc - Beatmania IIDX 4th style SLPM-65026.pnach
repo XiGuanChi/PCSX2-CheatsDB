@@ -1,23 +1,23 @@
-[Cheats/Max Gauge] 
+//Cheats/Max Gauge
 patch=1,EE,109ED550,extended,00001388
 
-[Cheats/1P AUTO PLAY Play Mode]  
+//Cheats/1P AUTO PLAY Play Mode
 patch=1,EE,209ED838,extended,00000001
 
-[Cheats/Sana BLT Light 7 Perfect] 
+//Cheats/Sana BLT Light 7 Perfect
 patch=1,EE,209DFD50,extended,000001BB
 patch=1,EE,209DFD54,extended,00000000
 patch=1,EE,209DFD58,extended,01BB0000
 patch=1,EE,209DFD5C,extended,00000201
 patch=1,EE,009DFD60,extended,00000007
 
-[Cheats/Unlock Original Course Setting] 
+//Cheats/Unlock Original Course Setting
 patch=1,EE,009DAD30,extended,00000001
 
-[Cheats/Unlock Survival]  
+//Cheats/Unlock Survival
 patch=1,EE,009DAD3C,extended,00000001
 
-[Cheats/Unlock All Expert Courses]  
+//Cheats/Unlock All Expert Courses
 patch=1,EE,109DAD2C,extended,0000FFFF
 patch=1,EE,009DAD2F,extended,0000001F
 

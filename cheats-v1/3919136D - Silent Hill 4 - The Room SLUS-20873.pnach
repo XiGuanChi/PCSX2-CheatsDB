@@ -1,32 +1,32 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2045A548,extended,447A0000
 patch=1,EE,20624390,extended,447A0000
 
-[Cheats/1 Hit Kill] 
+//Cheats/1 Hit Kill
 patch=1,EE,2045A54C,extended,50000000
 
-[Cheats/Enemy Attacks Do No Damage] 
+//Cheats/Enemy Attacks Do No Damage
 patch=1,EE,2045A550,extended,50000000
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,201B1984,extended,00000000
 
-[Cheats/Never Tired] 
+//Cheats/Never Tired
 patch=1,EE,2045A554,extended,00000000
 
-[Cheats/Weapon Always Charged Max] 
+//Cheats/Weapon Always Charged Max
 patch=1,EE,2045A76C,extended,42C80000
 
-[Cheats/Invincible From Some Attacks] 
+//Cheats/Invincible From Some Attacks
 patch=1,EE,2045A564,extended,42C80000
 
-[Cheats/Invincible From Normal Enemy Attacks] 
+//Cheats/Invincible From Normal Enemy Attacks
 patch=1,EE,201E96D0,extended,03E00008
 patch=1,EE,201E96D4,extended,00000000
 
-[Cheats/Invincible From Ghosts Poking Arms Through You] 
+//Cheats/Invincible From Ghosts Poking Arms Through You
 patch=1,EE,201EA030,extended,03E00008
 patch=1,EE,201EA034,extended,00000000
 
-[Cheats/Invincible From Misc Attacks] 
+//Cheats/Invincible From Misc Attacks
 patch=1,EE,101DC62A,extended,00001000

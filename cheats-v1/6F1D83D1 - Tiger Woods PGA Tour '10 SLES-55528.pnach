@@ -1,7 +1,7 @@
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,21DF4844,extended,05F5E0FF
 
-[Cheats/Max Cash Alt] 
+//Cheats/Max Cash Alt
 patch=1,EE,200C0200,extended,3C030045
 patch=1,EE,200C0204,extended,8C63FA68
 patch=1,EE,200C0208,extended,10600008
@@ -12,7 +12,7 @@ patch=1,EE,200C0220,extended,3442E0FF
 patch=1,EE,200C0224,extended,AC620004
 patch=1,EE,200C022C,extended,03E00008
 
-[Cheats/Infinite Skills Points Press L2+R2 to Continue] 
+//Cheats/Infinite Skills Points Press L2+R2 to Continue
 patch=1,EE,2016EF9C,extended,00000000
 patch=1,EE,D0410502,extended,0000FCFF
 patch=1,EE,2016EF9C,extended,AC60FA6C

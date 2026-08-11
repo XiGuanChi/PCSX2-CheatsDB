@@ -1,9 +1,9 @@
-[Cheats/P1 Infinite Health] 
+//Cheats/P1 Infinite Health
 patch=1,EE,204C7040,extended,40000000
 
-[Cheats/P1 Max Rider Gauge The Problem is that it's noisy when changing forms] 
+//Cheats/P1 Max Rider Gauge The Problem is that it's noisy when changing forms
 patch=1,EE,104C704A,extended,00003F80
 
-[Cheats/P1 Infinite Form Change Time]  
+//Cheats/P1 Infinite Form Change Time
 patch=1,EE,D062B6D8,extended,00000001
 patch=1,EE,104C704A,extended,00003F7F

@@ -1,19 +1,19 @@
-[Cheats/Infinite Cash] 
+//Cheats/Infinite Cash
 patch=1,EE,20812CDC,extended,00989680
 
-[Cheats/Main character Infinite Health] 
+//Cheats/Main character Infinite Health
 patch=1,EE,2016C004,extended,240203E7
 patch=1,EE,2016C008,extended,A4820008
 
-[Cheats/Infinite Health & MP] 
+//Cheats/Infinite Health & MP
 patch=1,EE,2016C004,extended,240203E7
 patch=1,EE,2016C008,extended,A4820008
 patch=1,EE,2016C010,extended,A482000A
 
-[Cheats/Support characters Infinite Health] 
+//Cheats/Support characters Infinite Health
 patch=1,EE,2016C03C,extended,240203E7
 patch=1,EE,2016C040,extended,A4820008
 
-[Cheats/Infinite MP] 
+//Cheats/Infinite MP
 patch=1,EE,2016C0C0,extended,A482000A
 patch=1,EE,2016C0BC,extended,240203E7

@@ -1,18 +1,18 @@
-[Cheats/Max Rings After Getting Some] 
+//Cheats/Max Rings After Getting Some
 patch=1,EE,2035C4EC,extended,3C05000F
 patch=1,EE,2035C4F8,extended,34A5423F
 
-[Cheats/Infinite GP] 
+//Cheats/Infinite GP
 patch=1,EE,203A8B1C,extended,3C014300
 patch=1,EE,203A8B5C,extended,ACC10A7C
 
-[Cheats/Freeze timers L3 to Activate R3 to Disable] 
+//Cheats/Freeze timers L3 to Activate R3 to Disable
 patch=1,EE,D06E9822,extended,0000FFFD
 patch=1,EE,202F1BB4,extended,10000063
 patch=1,EE,D06E9822,extended,0000FFFB
 patch=1,EE,202F1BB4,extended,14600063
 
-[Cheats/Opponents don't move Activate Select+X Deactivate Select+triangle Activate when everyone has passed the starting line, deactivate at the end of a race or before a race starts]
+//Cheats/Opponents don't move Activate Select+X Deactivate Select+triangle Activate when everyone has passed the starting line, deactivate at the end of a race or before a race starts
 patch=1,EE,201DAC20,extended,08028000
 patch=1,EE,201DAC24,extended,8C420CB4
 patch=1,EE,200A0000,extended,3C0120AF

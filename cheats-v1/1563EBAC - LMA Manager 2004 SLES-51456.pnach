@@ -1,4 +1,4 @@
-[Cheats/Max Bank Balance] 
+//Cheats/Max Bank Balance
 patch=1,EE,200FFF00,extended,3C013B9A
 patch=1,EE,200FFF04,extended,3421C9FF
 patch=1,EE,200FFF08,extended,AC410054
@@ -6,6 +6,6 @@ patch=1,EE,200FFF10,extended,8C420054
 patch=1,EE,200FFF14,extended,0805752F
 patch=1,EE,2015D4B8,extended,0803FFC0
 
-[Cheats/Unlock All Cheats Available]  
+//Cheats/Unlock All Cheats Available
 patch=1,EE,2015ADC8,extended,24020001
 

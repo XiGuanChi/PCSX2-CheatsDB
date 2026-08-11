@@ -1,302 +1,302 @@
-[Cheats/60Hz Mode] 
+//Cheats/60Hz Mode
 patch=1,EE,D0161190,extended,0000F87A
 patch=1,EE,00262D8C,extended,00000001
 
-[Cheats/1941 P1 Invincible] 
+//Cheats/1941 P1 Invincible
 patch=1,EE,004D8C6A,extended,00000001
 
-[Cheats/1941 P2 Invincible]
+//Cheats/1941 P2 Invincible
 patch=1,EE,004D8C6B,extended,00000001
 
-[Cheats/Avengers P1 Infinite Lives] 
+//Cheats/Avengers P1 Infinite Lives
 patch=1,EE,004925C4,extended,00000005
 
-[Cheats/Avengers P1 Infinite Health] 
+//Cheats/Avengers P1 Infinite Health
 patch=1,EE,0049293D,extended,00000008
 
-[Cheats/Avengers P1 Invincibility] 
+//Cheats/Avengers P1 Invincibility
 patch=1,EE,00492920,extended,00000080
 
-[Cheats/Avengers P2 Infinite Lives] 
+//Cheats/Avengers P2 Infinite Lives
 patch=1,EE,004925C5,extended,00000005
 
-[Cheats/Avengers P2 Infinite Health] 
+//Cheats/Avengers P2 Infinite Health
 patch=1,EE,0049295D,extended,00000008
 
-[Cheats/Avengers P2 Invincibility] 
+//Cheats/Avengers P2 Invincibility
 patch=1,EE,00492940,extended,00000080
   
-[Cheats/Black Tiger Infinite Lives] 
+//Cheats/Black Tiger Infinite Lives
 patch=1,EE,004A56C0,extended,00000009
 
-[Cheats/Black Tiger Max Coins] 
+//Cheats/Black Tiger Max Coins
 patch=1,EE,104A56C2,extended,00000909
 patch=1,EE,104A56C4,extended,00000909
 patch=1,EE,004A56C6,extended,00000009
 
-[Cheats/Black Tiger Infinite Keys] 
+//Cheats/Black Tiger Infinite Keys
 patch=1,EE,004A56C9,extended,00000009
 patch=1,EE,004A56CA,extended,00000009
 patch=1,EE,004A56CB,extended,00000009
 
-[Cheats/Black Tiger Always Have Armor] 
+//Cheats/Black Tiger Always Have Armor
 patch=1,EE,104A56CC,extended,00000202
 
-[Cheats/Black Tiger Infinite Potions] 
+//Cheats/Black Tiger Infinite Potions
 patch=1,EE,104A56CE,extended,00000909
 
-[Cheats/Black Tiger Infinite Shield] 
+//Cheats/Black Tiger Infinite Shield
 patch=1,EE,004A56CD,extended,00000006
 
-[Cheats/Black Tiger Infinite Money] 
+//Cheats/Black Tiger Infinite Money
 patch=1,EE,004A56C8,extended,000000FF
 
-[Cheats/Black Tiger Infinite Potions] 
+//Cheats/Black Tiger Infinite Potions
 patch=1,EE,004A56D0,extended,00000009
 
-[Cheats/Black Tiger Invincibility Falling down holes kills] 
+//Cheats/Black Tiger Invincibility Falling down holes kills
 patch=1,EE,004A4C25,extended,00000001
 patch=1,EE,004A5744,extended,0000000F
 
-[Cheats/Black Tiger Always have the Best weapon] 
+//Cheats/Black Tiger Always have the Best weapon
 patch=1,EE,004A56CC,extended,00000004
 
-[Cheats/Black Tiger Select Current Level] 
+//Cheats/Black Tiger Select Current Level
 patch=1,EE,004A56C1,extended,00000007
 
-[Cheats/Block Block Infinite Time] 
+//Cheats/Block Block Infinite Time
 patch=1,EE,1052B586,extended,00009909
 
-[Cheats/Block Block Infinite Bonus] 
+//Cheats/Block Block Infinite Bonus
 patch=1,EE,0052B56B,extended,00000009
 patch=1,EE,0052B56C,extended,00000099
 
-[Cheats/Block Block Level 50 when level ends] 
+//Cheats/Block Block Level 50 when level ends
 patch=1,EE,0052B555,extended,00000031
 
-[Cheats/Block Block P1 Infinite Lives] 
+//Cheats/Block Block P1 Infinite Lives
 patch=1,EE,0052B6BD,extended,00000099
 
-[Cheats/Captain Commando P1 Infinite Lives] 
+//Cheats/Captain Commando P1 Infinite Lives
 patch=1,EE,004FD5AC,extended,00000064
 
-[Cheats/Captain Commando P1 Infinite Health] 
+//Cheats/Captain Commando P1 Infinite Health
 patch=1,EE,004FD501,extended,00000048
 
-[Cheats/Captain Commando P1 Infinite Ammo on Pickup] 
+//Cheats/Captain Commando P1 Infinite Ammo on Pickup
 patch=1,EE,004FD571,extended,00000002
 
-[Cheats/Captain Commando P1 Invincible] 
+//Cheats/Captain Commando P1 Invincible
 patch=1,EE,004FD599,extended,000000C8
 
-[Cheats/Captain Commando P2 Infinite Lives] 
+//Cheats/Captain Commando P2 Infinite Lives
 patch=1,EE,004FD6AC,extended,00000064
 
-[Cheats/Captain Commando P2 Infinite Health] 
+//Cheats/Captain Commando P2 Infinite Health
 patch=1,EE,004FD601,extended,00000048
 
-[Cheats/Captain Commando P2 Infinite Ammo on Pickup] 
+//Cheats/Captain Commando P2 Infinite Ammo on Pickup
 patch=1,EE,004FD671,extended,00000002
 
-[Cheats/Captain Commando P2 Invincible] 
+//Cheats/Captain Commando P2 Invincible
 patch=1,EE,004FD699,extended,000000C8
  
-[Cheats/Eco Fighters Region - Hispanic] 
+//Cheats/Eco Fighters Region - Hispanic
 patch=1,EE,0074E279,extended,00000003
 
-[Cheats/Eco Fighters Infinite Credits] 
+//Cheats/Eco Fighters Infinite Credits
 patch=1,EE,0074E178,extended,00000009
 
-[Cheats/Eco Fighters P1 Infinite Lives] 
+//Cheats/Eco Fighters P1 Infinite Lives
 patch=1,EE,0075D482,extended,00000002
 
-[Cheats/Eco Fighters P1 Infinite Power] 
+//Cheats/Eco Fighters P1 Infinite Power
 patch=1,EE,007517E2,extended,00000014
 
-[Cheats/Eco Fighters P1 Invincible] 
+//Cheats/Eco Fighters P1 Invincible
 patch=1,EE,0075660A,extended,00000001
 
-[Cheats/Eco Fighters P2 Infinite Lives] 
+//Cheats/Eco Fighters P2 Infinite Lives
 patch=1,EE,0075D483,extended,00000002
 
-[Cheats/Eco Fighters P2 Infinite Power] 
+//Cheats/Eco Fighters P2 Infinite Power
 patch=1,EE,007517E3,extended,00000014
 
-[Cheats/Eco Fighters P2 Invincible] 
+//Cheats/Eco Fighters P2 Invincible
 patch=1,EE,00756BDA,extended,00000001
 
-[Cheats/King Of Dragons Infinite Time] 
+//Cheats/King Of Dragons Infinite Time
 patch=1,EE,004FF474,extended,00000063
 
-[Cheats/King Of Dragons Infinite Lives P1] 
+//Cheats/King Of Dragons Infinite Lives P1
 patch=1,EE,004F264D,extended,00000005
 
-[Cheats/King Of Dragons Infinite Health P1] 
+//Cheats/King Of Dragons Infinite Health P1
 patch=1,EE,104F268A,extended,00006400
 
-[Cheats/King Of Dragons Infinite Lives P2] 
+//Cheats/King Of Dragons Infinite Lives P2
 patch=1,EE,004F274D,extended,00000005
 
-[Cheats/King Of Dragons Infinite Health P2] 
+//Cheats/King Of Dragons Infinite Health P2
 patch=1,EE,104F278A,extended,00006400
 
-[Cheats/King Of Dragons Infinite Lives P3] 
+//Cheats/King Of Dragons Infinite Lives P3
 patch=1,EE,004F284D,extended,00000005
 
-[Cheats/King Of Dragons Infinite Health P3] 
+//Cheats/King Of Dragons Infinite Health P3
 patch=1,EE,104F288A,extended,00006400
 
-[Cheats/King Of Dragons Guardian One Hit Kill] 
+//Cheats/King Of Dragons Guardian One Hit Kill
 patch=1,EE,004F570B,extended,00000000
 
-[Cheats/King Of Dragons P1 Invincible] 
+//Cheats/King Of Dragons P1 Invincible
 patch=1,EE,004F267E,extended,00000064
 
-[Cheats/King Of Dragons P2 Invincible] 
+//Cheats/King Of Dragons P2 Invincible
 patch=1,EE,004F277E,extended,00000064
 
-[Cheats/Knights Of The Round Infinite Continues] 
+//Cheats/Knights Of The Round Infinite Continues
 patch=1,EE,004FFB3D,extended,00000000
 patch=1,EE,004FBF78,extended,00000000
 patch=1,EE,004FC098,extended,00000000
 patch=1,EE,004FC1B8,extended,00000000
 
-[Cheats/Knights Of The Round Infinite Time] 
+//Cheats/Knights Of The Round Infinite Time
 patch=1,EE,004FFACA,extended,00000059
 
-[Cheats/Knights Of The Round P1 Infinite Lives] 
+//Cheats/Knights Of The Round P1 Infinite Lives
 patch=1,EE,004FBF66,extended,00000003
 
-[Cheats/Knights Of The Round P1 Infinite Health] 
+//Cheats/Knights Of The Round P1 Infinite Health
 patch=1,EE,004FBE95,extended,00000050
 
-[Cheats/Knights Of The Round P1 Invincible] 
+//Cheats/Knights Of The Round P1 Invincible
 patch=1,EE,004FBF6A,extended,00000078
 
-[Cheats/Knights Of The Round P2 Infinite Lives] 
+//Cheats/Knights Of The Round P2 Infinite Lives
 patch=1,EE,004FC086,extended,00000003
 
-[Cheats/Knights Of The Round P2 Infinite Health] 
+//Cheats/Knights Of The Round P2 Infinite Health
 patch=1,EE,004FBFB5,extended,00000050
 
-[Cheats/Knights Of The Round P2 Invincible] 
+//Cheats/Knights Of The Round P2 Invincible
 patch=1,EE,004FC08A,extended,00000078
 
-[Cheats/Last Duel Infinite Time] 
+//Cheats/Last Duel Infinite Time
 patch=1,EE,00610AC9,extended,00000099
 
-[Cheats/Last Duel Infinite Lives P1] 
+//Cheats/Last Duel Infinite Lives P1
 patch=1,EE,00610AD6,extended,0000000B
 
-[Cheats/Last Duel Invincible P1] 
+//Cheats/Last Duel Invincible P1
 patch=1,EE,00610C2B,extended,00000080
 
-[Cheats/Magic Sword Infinite Health P1] 
+//Cheats/Magic Sword Infinite Health P1
 patch=1,EE,204E18BC,extended,5B095B09
 
-[Cheats/Magic Sword Infinite Keys Type 1 P1] 
+//Cheats/Magic Sword Infinite Keys Type 1 P1
 patch=1,EE,004E1919,extended,00000009
 
-[Cheats/Magic Sword Infinite Keys Type 2 P1] 
+//Cheats/Magic Sword Infinite Keys Type 2 P1
 patch=1,EE,004E191A,extended,00000009
 
-[Cheats/Magic Sword Infinite Keys-Type 3 P1] 
+//Cheats/Magic Sword Infinite Keys-Type 3 P1
 patch=1,EE,004E191B,extended,00000009
 
-[Cheats/Magic Sword Infinite Health P2] 
+//Cheats/Magic Sword Infinite Health P2
 patch=1,EE,204E197C,extended,5B095B09
 
-[Cheats/Mega Twins P1 Infinite Lives]
+//Cheats/Mega Twins P1 Infinite Lives
 patch=1,EE,004D9DEB,extended,00000003
 
-[Cheats/Mega Twins P1 Infinite Health] 
+//Cheats/Mega Twins P1 Infinite Health
 patch=1,EE,004D9E1B,extended,00000040
 
-[Cheats/Mega Twins P1 Infinite Magic] 
+//Cheats/Mega Twins P1 Infinite Magic
 patch=1,EE,004D9E43,extended,00000006
 
-[Cheats/Mega Twins P1 Invincible] 
+//Cheats/Mega Twins P1 Invincible
 patch=1,EE,004D9E0B,extended,000000B4
 
-[Cheats/Mega Twins P2 Infinite Lives] 
+//Cheats/Mega Twins P2 Infinite Lives
 patch=1,EE,004D9EAB,extended,00000003
 
-[Cheats/Mega Twins P2 Infinite Health] 
+//Cheats/Mega Twins P2 Infinite Health
 patch=1,EE,004D9EDB,extended,00000040
 
-[Cheats/Mega Twins P2 Infinite Magic] 
+//Cheats/Mega Twins P2 Infinite Magic
 patch=1,EE,004D9F03,extended,00000006
 
-[Cheats/Mega Twins P2 Invincible] 
+//Cheats/Mega Twins P2 Invincible
 patch=1,EE,004D9ECB,extended,000000B4
 
-[Cheats/Street Fighter Infinite Health P1] 
+//Cheats/Street Fighter Infinite Health P1
 patch=1,EE,105F0CF6,extended,00000B04
 
-[Cheats/Strider Infinite Health] 
+//Cheats/Strider Infinite Health
 patch=1,EE,104F27E6,extended,00000000
 
-[Cheats/Strider Infinite Lives] 
+//Cheats/Strider Infinite Lives
 patch=1,EE,004F2798,extended,00000003
 
-[Cheats/Strider Invincible]
+//Cheats/Strider Invincible
 patch=1,EE,004F2BD8,extended,00000000
 
-[Cheats/Super Street Fighter II Turbo Auto Save Disable] 
+//Cheats/Super Street Fighter II Turbo Auto Save Disable
 patch=1,EE,E001F1BA,extended,0016EA60
 patch=1,EE,00281BFC,extended,00000000
 
-[Cheats/Super Street Fighter II Turbo  60Hz] 
+//Cheats/Super Street Fighter II Turbo  60Hz
 patch=1,EE,E001F1BA,extended,0016EA60
 patch=1,EE,0028824C,extended,00000001
 
-[Cheats/Super Street Fighter II Turbo P1 Infinite Health] 
+//Cheats/Super Street Fighter II Turbo P1 Infinite Health
 patch=1,EE,E002F1BA,extended,0016EA60
 patch=1,EE,E0010101,extended,0084C4EC
 patch=1,EE,0084C189,extended,00000090
 
-[Cheats/The Speed Rumbler Infinite Lives] 
+//Cheats/The Speed Rumbler Infinite Lives
 patch=1,EE,004B0E7F,extended,00000005
 
-[Cheats/The Speed Rumbler Infinite Car Health] 
+//Cheats/The Speed Rumbler Infinite Car Health
 patch=1,EE,104B128C,extended,00000000
 
-[Cheats/Three Wonders Infinite Credits] 
+//Cheats/Three Wonders Infinite Credits
 patch=1,EE,004F7AC9,extended,00000009
 
-[Cheats/Three Wonders P1 Infinite Lives] 
+//Cheats/Three Wonders P1 Infinite Lives
 patch=1,EE,004F7B57,extended,00000003
 
-[Cheats/Three Wonders P2 Infinite Lives] 
+//Cheats/Three Wonders P2 Infinite Lives
 patch=1,EE,004F7B58,extended,00000003
 
-[Cheats/Tiger Road Infinite Health] 
+//Cheats/Tiger Road Infinite Health
 patch=1,EE,10510E40,extended,00000040
 
-[Cheats/Tiger Road Infinite Lives] 
+//Cheats/Tiger Road Infinite Lives
 patch=1,EE,00510876,extended,00000005
 
-[Cheats/Varth P1 Infinite Lives] 
+//Cheats/Varth P1 Infinite Lives
 patch=1,EE,004DFA54,extended,00000099
 
-[Cheats/Varth P1 Infinite Bombs] 
+//Cheats/Varth P1 Infinite Bombs
 patch=1,EE,004DFA63,extended,00000005
 
-[Cheats/Varth P1 Invincible] 
+//Cheats/Varth P1 Invincible
 patch=1,EE,004DF9D3,extended,000000F0
 patch=1,EE,004DF9B0,extended,00000002
 
-[Cheats/Varth P2 Infinite Lives] 
+//Cheats/Varth P2 Infinite Lives
 patch=1,EE,004DFB54,extended,00000099
 
-[Cheats/Varth P2 Infinite Bombs] 
+//Cheats/Varth P2 Infinite Bombs
 patch=1,EE,004DFB63,extended,00000005
 
-[Cheats/Varth P2 Invincible] 
+//Cheats/Varth P2 Invincible
 patch=1,EE,004DFAD3,extended,000000F0
 patch=1,EE,004DFAB0,extended,00000002
 
-[Cheats/Unlock All Bonus] 
+//Cheats/Unlock All Bonus
 patch=1,EE,4025A5EC,extended,00140070
 patch=1,EE,00000002,extended,00000000
 patch=1,EE,4025A5F0,extended,00140070

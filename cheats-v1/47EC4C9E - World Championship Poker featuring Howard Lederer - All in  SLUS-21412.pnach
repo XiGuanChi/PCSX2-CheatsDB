@@ -1,4 +1,4 @@
-[Cheats/Activation Code Must Be On] 
+//Cheats/Activation Code Must Be On
 patch=1,EE,200C0200,extended,24010000
 patch=1,EE,200C0204,extended,14330006
 patch=1,EE,200C0220,extended,24010001
@@ -19,30 +19,30 @@ patch=1,EE,200C0300,extended,03E00008
 patch=1,EE,200C0304,extended,C6810014
 patch=1,EE,2013D018,extended,0C030080
 
-[Cheats/Max Money P1]  
+//Cheats/Max Money P1
 patch=1,EE,200C0208,extended,3C014CBE
 patch=1,EE,200C020C,extended,3421BC20
 patch=1,EE,200C0210,extended,AE810014
 
-[Cheats/Quick Career Earnings Gain] 
+//Cheats/Quick Career Earnings Gain
 patch=1,EE,105521B4,extended,0000FFFF
 
-[Cheats/Max Career Earnings] 
+//Cheats/Max Career Earnings
 patch=1,EE,205521B4,extended,05F5E0FF
 
-[Cheats/Have All Pro's Defeated] 
+//Cheats/Have All Pro's Defeated
 patch=1,EE,20552380,extended,0000003F
 
-[Cheats/Max Hands Played]  
+//Cheats/Max Hands Played
 patch=1,EE,205523B0,extended,05F5E0FF
 
-[Cheats/Unlock Have All Lucky Charms]  
+//Cheats/Unlock Have All Lucky Charms
 patch=1,EE,20556DBC,extended,FFFFFFFF
 
-[Cheats/Unlock All Trophies]  
+//Cheats/Unlock All Trophies
 patch=1,EE,40556B68,extended,00266001
 patch=1,EE,00000002,extended,00000000
 
-[Cheats/Unlock All Trinkets] 
+//Cheats/Unlock All Trinkets
 patch=1,EE,40556C00,extended,00110001
 patch=1,EE,00000002,extended,00000000

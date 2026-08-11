@@ -1,102 +1,102 @@
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,206601B8,extended,3F800000
 
-[Cheats/P1 Needs 1 Win To Win] 
+//Cheats/P1 Needs 1 Win To Win
 patch=1,EE,D06601C8,extended,00000000
 patch=1,EE,206601C8,extended,00000001
 
-[Cheats/P1 Press L2+R2 To Go Straight To Finish Him Or Her] 
+//Cheats/P1 Press L2+R2 To Go Straight To Finish Him Or Her
 patch=1,EE,E002FCFF,extended,006AA842
 patch=1,EE,206601C8,extended,00000001
 patch=1,EE,20660200,extended,00000000
 
-[Cheats/No Health P2]  
+//Cheats/No Health P2
 patch=1,EE,20660200,extended,00000000
 
-[Cheats/Arcade Mode Win 1st Fight To Beat Game]  
+//Cheats/Arcade Mode Win 1st Fight To Beat Game
 patch=1,EE,203345A0,extended,24030008
 
-[Cheats/Konquest Mode Max Koins]  
+//Cheats/Konquest Mode Max Koins
 patch=1,EE,207BFC5C,extended,05F5E0FF
 
-[Cheats/Konquest Mode Max Health]  
+//Cheats/Konquest Mode Max Health
 patch=1,EE,D0BBFD32,extended,000000BB
 patch=1,EE,20BBFD64,extended,40800000
 
-[Cheats/Konquest Mode Infinite Health]  
+//Cheats/Konquest Mode Infinite Health
 patch=1,EE,D0BBFD32,extended,000000BB
 patch=1,EE,20BBFD68,extended,40800000
 
-[Cheats/Konquest Mode Max Magic]  
+//Cheats/Konquest Mode Max Magic
 patch=1,EE,D0BBFD32,extended,000000BB
 patch=1,EE,20BBFD9C,extended,40C00000
 
-[Cheats/Konquest Mode Infinite Magic]  
+//Cheats/Konquest Mode Infinite Magic
 patch=1,EE,D0BBFD32,extended,000000BB
 patch=1,EE,20BBFDA0,extended,40C00000
 
-[Cheats/Konquest Mode Infinite Mission Time]  
+//Cheats/Konquest Mode Infinite Mission Time
 patch=1,EE,20438568,extended,00000000
 
-[Cheats/The Krypt Infinite Koins]  
+//Cheats/The Krypt Infinite Koins
 patch=1,EE,106AF730,extended,0000FFFF
 
-[Cheats/The Krypt Max Koins]  
+//Cheats/The Krypt Max Koins
 patch=1,EE,206AF730,extended,05F5E0FF
 
-[Cheats/The Krypt Unlock All Koncept Art] 
+//Cheats/The Krypt Unlock All Koncept Art
 patch=1,EE,406AF744,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,106AF750,extended,0000FFFF
 patch=1,EE,006AF752,extended,000000FF
 
-[Cheats/The Krypt Unlock All Alternate Costumes]  
+//Cheats/The Krypt Unlock All Alternate Costumes
 patch=1,EE,006AF753,extended,000000FF
 patch=1,EE,206AF754,extended,FFFFFFFF
 patch=1,EE,206AF758,extended,00107FFF
 
-[Cheats/The Krypt Unlock All Arenas] 
+//Cheats/The Krypt Unlock All Arenas
 patch=1,EE,206AF759,extended,00000080
 patch=1,EE,106AF75A,extended,0000FFFF
 patch=1,EE,206AF75C,extended,00000001
 
-[Cheats/The Krypt Unlock All Media] 
+//Cheats/The Krypt Unlock All Media
 patch=1,EE,006AF75D,extended,000000FF
 patch=1,EE,106AF75E,extended,0000FFFF
 patch=1,EE,206AF760,extended,FFFFFFFF
 patch=1,EE,106AF764,extended,0000FFFF
 patch=1,EE,006AF766,extended,000000FF
 
-[Cheats/The Krypt Unlock Character Meat]  
+//Cheats/The Krypt Unlock Character Meat
 patch=1,EE,206AF75C,extended,00000002
 
-[Cheats/The Krypt Unlock Character Blaze]  
+//Cheats/The Krypt Unlock Character Blaze
 patch=1,EE,206AF75C,extended,00000004
 
-[Cheats/The Krypt Unlock Character Taven] 
+//Cheats/The Krypt Unlock Character Taven
 patch=1,EE,206AF75C,extended,00000008
 
-[Cheats/The Krypt Unlock Character Daegon]  
+//Cheats/The Krypt Unlock Character Daegon
 patch=1,EE,206AF75C,extended,00000010
 
-[Cheats/The Krypt Unlock Misc Pyramid Of Argus]  
+//Cheats/The Krypt Unlock Misc Pyramid Of Argus
 patch=1,EE,206AF75C,extended,00000020
 
-[Cheats/The Krypt Unlock Misc Krypt]  
+//Cheats/The Krypt Unlock Misc Krypt
 patch=1,EE,206AF75C,extended,00000040
 
-[Cheats/The Krypt Unlock Misc Huge Koin Award] 
+//Cheats/The Krypt Unlock Misc Huge Koin Award
 patch=1,EE,206AF75C,extended,00000080
 
-[Cheats/Unlock All Characters]  
+//Cheats/Unlock All Characters
 patch=1,EE,20660588,extended,FFFFFFFF
 patch=1,EE,2066058C,extended,FFFFFFFF
 
-[Cheats/Unlock All Arenas]  
+//Cheats/Unlock All Arenas
 patch=1,EE,20660590,extended,FFFFFFFF
 patch=1,EE,20660594,extended,FFFFFFFF
 
-[Cheats/Activate FREE MODE] 
+//Cheats/Activate FREE MODE
 patch=1,EE,E1040099,extended,00E7F039
 patch=1,EE,2064EE0C,extended,00000000
 patch=1,EE,206297F0,extended,00000000

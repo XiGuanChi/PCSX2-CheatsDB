@@ -1,37 +1,37 @@
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,20380904,extended,42C80000
 
-[Cheats/Infinite QP]  
+//Cheats/Infinite QP
 patch=1,EE,20380908,extended,42C80000
 
-[Cheats/Have All Maps] 
+//Cheats/Have All Maps
 patch=1,EE,2036CC00,extended,FFFFFFFF
 patch=1,EE,2036CC04,extended,FFFFFFFF
 
-[Cheats/Have All Compasses] 
+//Cheats/Have All Compasses
 patch=1,EE,203FE8EC,extended,FFFFFFFF
 patch=1,EE,203FE8F0,extended,FFFFFFF7
 
-[Cheats/Status Screen Always Low Play Time]
+//Cheats/Status Screen Always Low Play Time
 patch=1,EE,204144B4,extended,00000000
 
-[Cheats/Status Screen Never Have Saved] 
+//Cheats/Status Screen Never Have Saved
 patch=1,EE,204144B8,extended,00000000
 
-[Cheats/Status Screen Saved Only Once] 
+//Cheats/Status Screen Saved Only Once
 patch=1,EE,204144B8,extended,00000001
 
-[Cheats/Status Screen No Game Overs] 
+//Cheats/Status Screen No Game Overs
 patch=1,EE,204144BC,extended,00000000
 
-[Cheats/Status Screen No Falls] 
+//Cheats/Status Screen No Falls
 patch=1,EE,204144C0,extended,00000000
 
-[Cheats/Status Screen Always Low Distance Traveled] 
+//Cheats/Status Screen Always Low Distance Traveled
 patch=1,EE,204144C4,extended,00000000
 
-[Cheats/Status Screen Always Hella Distance Traveled] 
+//Cheats/Status Screen Always Hella Distance Traveled
 patch=1,EE,204144C4,extended,461C3F9A
 
-[Cheats/Status Screen Always Low Water Consumed] 
+//Cheats/Status Screen Always Low Water Consumed
 patch=1,EE,204144C8,extended,00000000

@@ -1,10 +1,10 @@
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,20548CDA,extended,00000001
 
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,20548CBC,extended,0098967F
 
-[Cheats/Max Virtue All Characters] 
+//Cheats/Max Virtue All Characters
 patch=1,EE,20548CFC,extended,0098967F
 patch=1,EE,20548D40,extended,0098967F
 patch=1,EE,20548D84,extended,0098967F
@@ -17,7 +17,7 @@ patch=1,EE,20548F1C,extended,0098967F
 patch=1,EE,20548F60,extended,0098967F
 patch=1,EE,20548FA4,extended,0098967F
 
-[Cheats/Infinite Health All Characters] 
+//Cheats/Infinite Health All Characters
 patch=1,EE,10548CE0,extended,000003E7
 patch=1,EE,10548D24,extended,000003E7
 patch=1,EE,10548D68,extended,000003E7
@@ -30,7 +30,7 @@ patch=1,EE,10548F00,extended,000003E7
 patch=1,EE,10548F44,extended,000003E7
 patch=1,EE,10548F88,extended,000003E7
 
-[Cheats/Infinite Chakra All Characters] 
+//Cheats/Infinite Chakra All Characters
 patch=1,EE,10548CF6,extended,000003E7
 patch=1,EE,10548D3A,extended,000003E7
 patch=1,EE,10548D7E,extended,000003E7
@@ -43,51 +43,51 @@ patch=1,EE,10548F16,extended,000003E7
 patch=1,EE,10548F5A,extended,000003E7
 patch=1,EE,10548F9E,extended,000003E7
 
-[Cheats/Max Money ALT] 
+//Cheats/Max Money ALT
 patch=1,EE,2011bb6c,extended,00431021
 
-[Cheats/Infinite Time]  
+//Cheats/Infinite Time
 patch=1,EE,202397c0,extended,00000000
 
-[Cheats/Infinite Energy] 
+//Cheats/Infinite Energy
 patch=1,EE,20f56038,extended,3f800000
 
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,08062384
 patch=1,EE,200C0228,extended,AC810058
 patch=1,EE,2023F194,extended,0C030088
 patch=1,EE,2023F1C4,extended,0C030088
 
-[Cheats/No Health P2] 
+//Cheats/No Health P2
 patch=1,EE,200C0230,extended,24010000
 patch=1,EE,200C0234,extended,08062384
 patch=1,EE,200C0238,extended,AC810058
 patch=1,EE,2023F1A8,extended,0C03008C
 patch=1,EE,2023F1D8,extended,0C03008C
 
-[Cheats/Unlock All Characters all but the last 3] 
+//Cheats/Unlock All Characters all but the last 3
 patch=1,EE,40ABE0E8,extended,00220001
 patch=1,EE,00000003,extended,00000000
 
-[Cheats/Unlock House Codes Have Ninja Info Cards] 
+//Cheats/Unlock House Codes Have Ninja Info Cards
 patch=1,EE,40AC1A64,extended,00150001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock House Codes Have Figures] 
+//Cheats/Unlock House Codes Have Figures
 patch=1,EE,20AC1990,extended,FFFFFFFF
 patch=1,EE,20AC1994,extended,FFFFFFFF
 
-[Cheats/Unlock House Codes Have Videos] 
+//Cheats/Unlock House Codes Have Videos
 patch=1,EE,40AC1ABC,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock House Codes Have Voices] 
+//Cheats/Unlock House Codes Have Voices
 patch=1,EE,40AC1B34,extended,000D0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,20AC19E0,extended,FFFFFFFF
 
-[Cheats/Unlock House Codes Have Musics] 
+//Cheats/Unlock House Codes Have Musics
 patch=1,EE,20AC19D4,extended,FFFFFFFF
 patch=1,EE,20AC1B28,extended,FFFFFFFF
 

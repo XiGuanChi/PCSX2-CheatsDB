@@ -1,20 +1,20 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2018E4CC,extended,3C0140C0
 patch=1,EE,2018E4DC,extended,AE010360
 
-[Cheats/Immune To Bullets] 
+//Cheats/Immune To Bullets
 patch=1,EE,201ACBA0,extended,03E00008
 patch=1,EE,201ACBA4,extended,00000000
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,201751C0,extended,00000000
 
-[Cheats/Never Reload] 
+//Cheats/Never Reload
 patch=1,EE,201AD938,extended,00000000
 patch=1,EE,201AD9D0,extended,00000000
 
-[Cheats/Idiot AI] 
+//Cheats/Idiot AI
 patch=1,EE,2015D644,extended,00000000
 
-[Cheats/Unlock All Extra Features] 
+//Cheats/Unlock All Extra Features
 patch=1,EE,20392708,extended,00000002

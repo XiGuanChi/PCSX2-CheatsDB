@@ -1,11 +1,11 @@
-[Cheats/Max Money 9999999] 
+//Cheats/Max Money 9999999
 patch=1,EE,204A0E54,extended,0098967F
 
-[Cheats/Max Possession Pieces] 
+//Cheats/Max Possession Pieces
 patch=1,EE,204A1F94,extended,FFFFFFFF
 patch=1,EE,204A1F98,extended,FFFFFFFF
 patch=1,EE,204A1F9C,extended,FFFFFFFF
 patch=1,EE,204A1FA0,extended,1FFFFFFF
 
-[Cheats/Enable Debug Display Press Select on controller 2] 
+//Cheats/Enable Debug Display Press Select on controller 2
 patch=1,EE,2048314C,extended,00000001

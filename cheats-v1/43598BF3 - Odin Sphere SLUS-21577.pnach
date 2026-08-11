@@ -1,4 +1,4 @@
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,200A0000,extended,AC8300EC
 patch=1,EE,200A0004,extended,8CE3046C
 patch=1,EE,200A0008,extended,ACE30468
@@ -7,7 +7,7 @@ patch=1,EE,200A0010,extended,8CE3046C
 patch=1,EE,201AD5CC,extended,08028000
 patch=1,EE,201AD5D0,extended,00000000
 
-[Cheats/Infinite POW] 
+//Cheats/Infinite POW
 patch=1,EE,200A0018,extended,20020064
 patch=1,EE,200A001C,extended,C4E007D0
 patch=1,EE,200A0020,extended,E4E007CC
@@ -17,31 +17,31 @@ patch=1,EE,200A002C,extended,84E60470
 patch=1,EE,201AD604,extended,08028006
 patch=1,EE,201AD608,extended,00000000
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,20302B1C,extended,00000000
 
-[Cheats/Always Low Mission Time] 
+//Cheats/Always Low Mission Time
 patch=1,EE,20200CD4,extended,AE000078
 
-[Cheats/Max Psypher Level 99 Do Bot Use it in the Prologue] 
+//Cheats/Max Psypher Level 99 Do Bot Use it in the Prologue
 patch=0,EE,2018A074,extended,AE24047C
 
-[Cheats/Stop Mission Timer]
+//Cheats/Stop Mission Timer
 patch=1,EE,20200CD4,extended,AE000078
 
-[Cheats/Quick Max Coin Need At Least 1 Coin] 
+//Cheats/Quick Max Coin Need At Least 1 Coin
 patch=1,EE,200A0034,extended,200503E7
 patch=1,EE,200A0038,extended,0807EE39
 patch=1,EE,200A003C,extended,A4850800
 patch=1,EE,201FB8E0,extended,0802800D
 
-[Cheats/Quick Max Coin Need At Least 1 Coin Version 2] 
+//Cheats/Quick Max Coin Need At Least 1 Coin Version 2
 patch=1,EE,201FB8B0,extended,94820802
 patch=1,EE,201FB8B4,extended,A4820800
 patch=1,EE,201FB8B8,extended,03E00008
 patch=1,EE,201FB8BC,extended,94820800
 
-[Cheats/Debug Menu Press L1 + X for the full debug menu, or L1 + Triangle for Player Select and another list of levels to choose from.Return Scenario Play all of the cutscenes.Monster - Spawn any enemy.Item - Select any item to put into your inventory.Status - View the status of any character.Parameter - Set any parameter for the player's character.View Floorline - See the collision for the level.Invincible - Turn on invincibility. This can't be turned back off] 
+//Cheats/Debug Menu Press L1 + X for the full debug menu, or L1 + Triangle for Player Select and another list of levels to choose from.Return Scenario Play all of the cutscenes.Monster - Spawn any enemy.Item - Select any item to put into your inventory.Status - View the status of any character.Parameter - Set any parameter for the player's character.View Floorline - See the collision for the level.Invincible - Turn on invincibility. This can't be turned back off
 patch=1,EE,D040E0DC,extended,0000BBFF
 patch=1,EE,219A3A4C,extended,00010E00
 patch=1,EE,D040E0DC,extended,0000EBFF

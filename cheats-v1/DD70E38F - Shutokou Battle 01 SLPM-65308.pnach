@@ -1,28 +1,28 @@
-[Cheats/Max SP]  
+//Cheats/Max SP
 patch=1,EE,2041E158,extended,00490BAA
 
-[Cheats/SP 0 Rival 1] 
+//Cheats/SP 0 Rival 1
 patch=1,EE,2041E1A8,extended,00000000
 
-[Cheats/SP 0 Rival 2] 
+//Cheats/SP 0 Rival 2
 patch=1,EE,2041E1F8,extended,00000000
 
-[Cheats/Quest Max CP If the effect of the code does not appear, please go to the course once] 
+//Cheats/Quest Max CP If the effect of the code does not appear, please go to the course once
 patch=1,EE,20815B30,extended,0098967F
 
-[Cheats/Quest 0D 0] 
+//Cheats/Quest 0D 0
 patch=1,EE,203AE32C,extended,00000000
 
-[Cheats/Quest TRIP 0] 
+//Cheats/Quest TRIP 0
 patch=1,EE,2041E2BC,extended,00000000
 
-[Cheats/Quest DAYS 999 If the effect of the code does not appear, please go to the course once] 
+//Cheats/Quest DAYS 999 If the effect of the code does not appear, please go to the course once
 patch=1,EE,103AE384,extended,000003E7
 
-[Cheats/Quest All Course Moveable] 
+//Cheats/Quest All Course Moveable
 patch=1,EE,003AE3CB,extended,000000FF
 
-[Cheats/Unlock All parts purchased Only the first unit of the garage] 
+//Cheats/Unlock All parts purchased Only the first unit of the garage
 patch=1,EE,00816EE5,extended,0000000A
 patch=1,EE,00816EE6,extended,00000006
 patch=1,EE,00816EE7,extended,00000006

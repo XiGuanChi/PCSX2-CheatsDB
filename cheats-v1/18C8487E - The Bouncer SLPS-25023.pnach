@@ -1,34 +1,34 @@
-[Cheats/Max BP point] 
+//Cheats/Max BP point
 patch=1,EE,203DB6E0,extended,0001869F
 
-[Cheats/Unlock All Character Stages] 
+//Cheats/Unlock All Character Stages
 patch=1,EE,21D8C1C0,extended,FFFFFFFF
 
-[Cheats/English Menu] 
+//Cheats/English Menu
 patch=1,EE,203DA144,extended,00000005
 
-[Cheats/Zion's current HP because the code for two more people will also be applied to the enemy This code works with the selected operating character] 
+//Cheats/Zion's current HP because the code for two more people will also be applied to the enemy This code works with the selected operating character
 patch=1,EE,21D8B438,extended,000003E7
 patch=1,EE,21D8B440,extended,000003E7
 patch=1,EE,21D8B444,extended,000003E7
 patch=1,EE,21D8B44C,extended,000003E7
 patch=1,EE,21D8B450,extended,000003E7
 
-[Cheats/Character 2] 
+//Cheats/Character 2
 patch=1,EE,21D8B4A8,extended,000003E7
 patch=1,EE,21D8B4B0,extended,000003E7
 patch=1,EE,21D8B4B4,extended,000003E7
 patch=1,EE,21D8B4BC,extended,000003E7
 patch=1,EE,21D8B4C0,extended,000003E7
 
-[Cheats/Character 3] 
+//Cheats/Character 3
 patch=1,EE,21D8B518,extended,000003E7
 patch=1,EE,21D8B520,extended,000003E7
 patch=1,EE,21D8B524,extended,000003E7
 patch=1,EE,21D8B52C,extended,000003E7
 patch=1,EE,21D8B530,extended,000003E7
 
-[Cheats/Recover HP PRESS L2 in the scene where you run away with Dominic use this code instead of Zion's current HP] 
+//Cheats/Recover HP PRESS L2 in the scene where you run away with Dominic use this code instead of Zion's current HP
 patch=1,EE,D1D7DF34,extended,00000001
 patch=1,EE,11D8B5F8,extended,000003E7
 patch=1,EE,D1D7DF34,extended,00000001

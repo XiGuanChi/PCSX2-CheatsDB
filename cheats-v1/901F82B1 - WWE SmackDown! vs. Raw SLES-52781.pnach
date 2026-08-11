@@ -1,42 +1,42 @@
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,103DA034,extended,0000FFFF
 
-[Cheats/Max Cash ALT] 
+//Cheats/Max Cash ALT
 patch=1,EE,203D9674,extended,000F423F
 
-[Cheats/Max Experience Points] 
+//Cheats/Max Experience Points
 patch=1,EE,103D9678,extended,0000FFFF
 
-[Cheats/Infinite Health]  
+//Cheats/Infinite Health
 patch=1,EE,202ee658,extended,1040013c
 
-[Cheats/Infinite Smackdowns] 
+//Cheats/Infinite Smackdowns
 patch=1,EE,202DCD48,extended,00000000
 
-[Cheats/Start With Max Smackdown] 
+//Cheats/Start With Max Smackdown
 patch=1,EE,202DFAB4,extended,24020005
 patch=1,EE,202DFAB8,extended,AE8202BC
 
-[Cheats/Start With Max Smackdown ALT] 
+//Cheats/Start With Max Smackdown ALT
 patch=1,EE,202DB894,extended,24020005
 patch=1,EE,202DB898,extended,AE8202BC
 
-[Cheats/Unlock All Shop items Sold Out] 
+//Cheats/Unlock All Shop items Sold Out
 patch=1,EE,202326DC,extended,24030001
 patch=1,EE,202326E0,extended,A0430000
 patch=1,EE,202326F4,extended,24020001
 
-[Cheats/Max Exp Points] 
+//Cheats/Max Exp Points
 patch=1,EE,103DA038,extended,0000FFFF
 
-[Cheats/All Shop items Sold Out] 
+//Cheats/All Shop items Sold Out
 patch=1,EE,20232E8C,extended,24030001
 patch=1,EE,20232E90,extended,A0430000
 patch=1,EE,20232EA4,extended,24020001
 
-[Cheats/Unlock All Challenges Completed] 
+//Cheats/Unlock All Challenges Completed
 patch=1,EE,2030924C,extended,24010001
 patch=1,EE,20309250,extended,A0410000
 
-[Cheats/Unlock Everything]  
+//Cheats/Unlock Everything
 patch=1,EE,202326F4,extended,24020001

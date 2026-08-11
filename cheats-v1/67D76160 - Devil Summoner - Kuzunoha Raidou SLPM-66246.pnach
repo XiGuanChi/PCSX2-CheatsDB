@@ -1,41 +1,41 @@
-[Cheats/Max Money 9999999] 
+//Cheats/Max Money 9999999
 patch=1,EE,20E64138,extended,0098967F
 
-[Cheats/MAG 9999] 
+//Cheats/MAG 9999
 patch=1,EE,10E64130,extended,0000270F
 patch=1,EE,10E64134,extended,0000270F
 
-[Cheats/Gain Exp 99999] 
+//Cheats/Gain Exp 99999
 patch=1,EE,202A3200,extended,00000064
 patch=1,EE,202A3204,extended,00611818
 
-[Cheats/HP 999] 
+//Cheats/HP 999
 patch=1,EE,10E6415C,extended,000003E7
 patch=1,EE,10E64160,extended,000003E7
 
-[Cheats/Power 40] 
+//Cheats/Power 40
 patch=1,EE,00E6416C,extended,00000028
 
-[Cheats/Resistance 40] 
+//Cheats/Resistance 40
 patch=1,EE,00E6416E,extended,00000028
 
-[Cheats/Demon 40] 
+//Cheats/Demon 40
 patch=1,EE,00E64170,extended,00000028
 
-[Cheats/Luck 40] 
+//Cheats/Luck 40
 patch=1,EE,00E64172,extended,00000028
 
-[Cheats/After 1 Battle Level 99] 
+//Cheats/After 1 Battle Level 99
 patch=1,EE,10E6415A,extended,00000064
 
-[Cheats/All items 99] 
+//Cheats/All items 99
 patch=1,EE,40E64290,extended,00500001
 patch=1,EE,00630063,extended,00000000
 
-[Cheats/Demon Charactere 2 HP 999] 
+//Cheats/Demon Charactere 2 HP 999
 patch=1,EE,10E64400,extended,000003E7
 patch=1,EE,10E64404,extended,000003E7
 
-[Cheats/Demon Charactere 2 MP 999] 
+//Cheats/Demon Charactere 2 MP 999
 patch=1,EE,10E64408,extended,000003E7
 patch=1,EE,10E6440C,extended,000003E7

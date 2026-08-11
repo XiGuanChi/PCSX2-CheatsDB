@@ -1,39 +1,39 @@
-[Cheats/Always Max Special] 
+//Cheats/Always Max Special
 patch=1,EE,202A13B8,extended,24020BB8
 patch=1,EE,202A13BC,extended,AE22007C
 
-[Cheats/Quick Score Gain] 
+//Cheats/Quick Score Gain
 patch=1,EE,202A2DD4,extended,24A503E7
 
-[Cheats/Infinite Running Combo]  
+//Cheats/Infinite Running Combo
 patch=1,EE,2031833C,extended,00000000
 patch=1,EE,20318350,extended,00000000
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,202B2358,extended,00000000
 
-[Cheats/View Gaps To Have All Gaps Current Level] 
+//Cheats/View Gaps To Have All Gaps Current Level
 patch=1,EE,200C0230,extended,2402270F
 patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,AC820044
 patch=1,EE,202D7368,extended,0803008C
 
-[Cheats/Have All Stat Points] 
+//Cheats/Have All Stat Points
 patch=1,EE,200C0220,extended,24060001
 patch=1,EE,200C0224,extended,0808F1CC
 patch=1,EE,200C0228,extended,AE060030
 patch=1,EE,2031B8B0,extended,0C030088
 
-[Cheats/Max Story Mode Points] 
+//Cheats/Max Story Mode Points
 patch=1,EE,200C0250,extended,24061770
 patch=1,EE,200C0254,extended,03E00008
 patch=1,EE,200C0258,extended,A62605D8
 patch=1,EE,2027B9BC,extended,0C030094
 
-[Cheats/Have All Modes Complete] 
+//Cheats/Have All Modes Complete
 patch=1,EE,70B96FFD,extended,000000F8
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,200C0240,extended,8C8305F0
 patch=1,EE,200C0244,extended,00651825
 patch=1,EE,200C0248,extended,080B3E15

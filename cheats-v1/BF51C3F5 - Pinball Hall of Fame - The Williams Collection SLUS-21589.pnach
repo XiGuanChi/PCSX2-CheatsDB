@@ -1,48 +1,48 @@
-[Cheats/Infinite Balls P1] 
+//Cheats/Infinite Balls P1
 patch=1,EE,201F3FE0,extended,00000063
 
-[Cheats/Unlock Table Slide Show] 
+//Cheats/Unlock Table Slide Show
 patch=1,EE,0025861A,extended,00000001
 
-[Cheats/Max Game Credits] 
+//Cheats/Max Game Credits
 patch=1,EE,00147838,extended,00000001
 
-[Cheats/Max Infinite Credits] 
+//Cheats/Max Infinite Credits
 patch=1,EE,1025878C,extended,000003E7
 
-[Cheats/Max Score]  
+//Cheats/Max Score
 patch=1,EE,2024E654,extended,0098967F
 
-[Cheats/Meter Bonus] 
+//Cheats/Meter Bonus
 patch=1,EE,20231D80,extended,0098967F
 
-[Cheats/Challange Mode Taxi Goals Compleated] 
+//Cheats/Challange Mode Taxi Goals Compleated
 patch=1,EE,00258687,extended,00000001
 patch=1,EE,20258688,extended,01010101
 
-[Cheats/Challange Mode Pin Bot Goals Compleated]  
+//Cheats/Challange Mode Pin Bot Goals Compleated
 patch=1,EE,0025865F,extended,00000001
 patch=1,EE,20258660,extended,01010101
 
-[Cheats/Challange Mode Fun House Goals Compleated]  
+//Cheats/Challange Mode Fun House Goals Compleated
 patch=1,EE,00258673,extended,00000001
 patch=1,EE,20258674,extended,01010101
 
-[Cheats/Challange Mode Black Knight Goals Compleated]  
+//Cheats/Challange Mode Black Knight Goals Compleated
 patch=1,EE,00258669,extended,00000001
 patch=1,EE,1025866A,extended,00000101
 patch=1,EE,1025866C,extended,00000101
 
-[Cheats/Challange Mode Space Shuttle Goals Compleated] 
+//Cheats/Challange Mode Space Shuttle Goals Compleated
 patch=1,EE,0025867D,extended,00000001
 patch=1,EE,1025867E,extended,00000101
 patch=1,EE,10258680,extended,00000101
 
-[Cheats/Challange Mode Fire Power Goals Compleated] 
+//Cheats/Challange Mode Fire Power Goals Compleated
 patch=1,EE,0025869B,extended,00000001
 patch=1,EE,2025869C,extended,01010101
 
-[Cheats/Challange Mode Whirlwind Goals Compleated] 
+//Cheats/Challange Mode Whirlwind Goals Compleated
 patch=1,EE,00258691,extended,00000001
 patch=1,EE,10258692,extended,00000101
 patch=1,EE,10258694,extended,00000101

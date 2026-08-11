@@ -1,16 +1,16 @@
-[Cheats/Unlock Ending forced change to Ending 1] 
+//Cheats/Unlock Ending forced change to Ending 1
 patch=0,EE,201B6610,extended,24020000
 patch=0,EE,201B6618,extended,03E00008
 
-[Cheats/Unlock Ending forced change to Ending 2] 
+//Cheats/Unlock Ending forced change to Ending 2
 patch=0,EE,201B6610,extended,24020001
 patch=0,EE,201B6618,extended,03E00008
 
-[Cheats/Unlock Ending forced change to Ending 3] 
+//Cheats/Unlock Ending forced change to Ending 3
 patch=1,EE,201B6610,extended,24020002
 patch=1,EE,201B6618,extended,03E00008
 
-[Cheats/Enable Debug Menu Triangle+Circle while returning to the title screen] 
+//Cheats/Enable Debug Menu Triangle+Circle while returning to the title screen
 patch=1,EE,D05819BE,extended,0000CFFF
 patch=1,EE,001A5868,extended,00000017
 patch=1,EE,D05819BE,extended,0000FFFF

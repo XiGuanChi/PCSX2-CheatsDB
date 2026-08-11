@@ -1,36 +1,36 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,104326FC,extended,000000A0
 
-[Cheats/First Person View] 
+//Cheats/First Person View
 patch=0,EE,0043315C,extended,000000C2
 
-[Cheats/Always Low Time] 
+//Cheats/Always Low Time
 patch=1,EE,204339A0,extended,00000000
 
-[Cheats/Press L1+Square For Item Box Anywhere] 
+//Cheats/Press L1+Square For Item Box Anywhere
 patch=1,EE,D1E0DBC2,extended,0000FFFD
 patch=1,EE,00433166,extended,00000004
 
-[Cheats/Press L2+Square For Security Box 1 Anywhere] 
+//Cheats/Press L2+Square For Security Box 1 Anywhere
 patch=1,EE,D1E0DBC2,extended,00007EFF
 patch=1,EE,00433166,extended,0000000C
 
-[Cheats/Press L2+X For Security Box 2 Anywhere] 
+//Cheats/Press L2+X For Security Box 2 Anywhere
 patch=1,EE,D1E0DBC2,extended,0000BEFF
 patch=1,EE,00433166,extended,00000014
 
-[Cheats/Press L1+X To Save Anywhere] 
+//Cheats/Press L1+X To Save Anywhere
 patch=1,EE,D1E0DBC2,extended,0000BBFF
 patch=1,EE,00433166,extended,00000020
 
-[Cheats/No Times Saved Recorded] 
+//Cheats/No Times Saved Recorded
 patch=1,EE,10433180,extended,00000000
 
-[Cheats/Infinite Item Usage] 
+//Cheats/Infinite Item Usage
 patch=1,EE,2028AD68,extended,00000000
 patch=1,EE,2028AD7C,extended,00000000
 
-[Cheats/Extra Items] 
+//Cheats/Extra Items
 patch=1,EE,1028AD00,extended,00000001
 patch=1,EE,1028AD0C,extended,00000001
 patch=1,EE,1028AD1C,extended,00000001

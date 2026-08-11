@@ -1,65 +1,65 @@
-[Cheats/Max Voice 9,999,999] 
+//Cheats/Max Voice 9,999,999
 patch=1,EE,200F8000,extended,3C010098
 patch=1,EE,200F8004,extended,3421967F
 patch=1,EE,200F8008,extended,AC810004
 
-[Cheats/Max Money 99,999,999] 
+//Cheats/Max Money 99,999,999
 patch=1,EE,200F800C,extended,3C0105F5
 patch=1,EE,200F8010,extended,3421E0FF
 patch=1,EE,200F8014,extended,AC8101C4
 
-[Cheats/Max HP 255] 
+//Cheats/Max HP 255
 patch=1,EE,200F8300,extended,A0810144
 
-[Cheats/Max Will 255]
+//Cheats/Max Will 255
 patch=1,EE,200F8304,extended,A0810184Current
 
-[Cheats/Max Health 255] 
+//Cheats/Max Health 255
 patch=1,EE,200F8308,extended,A081FD24Current
 
-[Cheats/Max Energy 255] 
+//Cheats/Max Energy 255
 patch=1,EE,200F830C,extended,A081FD64
 
-[Cheats/Max Morale 255] 
+//Cheats/Max Morale 255
 patch=1,EE,200F8310,extended,A081FF84
 
-[Cheats/Max Movement 255] 
+//Cheats/Max Movement 255
 patch=1,EE,200F8314,extended,A081FDA4
 
-[Cheats/Max Military 255]  
+//Cheats/Max Military 255
 patch=1,EE,200F8318,extended,A081FDE4
 
-[Cheats/Max World 255]  
+//Cheats/Max World 255
 patch=1,EE,200F831C,extended,A081FE24
 
-[Cheats/Max Gossip 255]  
+//Cheats/Max Gossip 255
 patch=1,EE,200F8320,extended,A081FEA4
 
-[Cheats/Max History 255]  
+//Cheats/Max History 255
 patch=1,EE,200F8324,extended,A081FE64
 
-[Cheats/Max Charm 255]  
+//Cheats/Max Charm 255
 patch=1,EE,200F8328,extended,A081FF04
 
-[Cheats/Max Dexterity 255]  
+//Cheats/Max Dexterity 255
 patch=1,EE,200F832C,extended,A081FF44
 
-[Cheats/Even Without Weapons Parts Possible Remodeling] 
+//Cheats/Even Without Weapons Parts Possible Remodeling
 patch=1,EE,203607D8,extended,00000000
 
-[Cheats/Increase Voice Power after battle] 
+//Cheats/Increase Voice Power after battle
 patch=1,EE,2015583C,extended,3C060098
 
-[Cheats/Enhance Even Without Items] 
+//Cheats/Enhance Even Without Items
 patch=1,EE,203607D8,extended,1400005F
 
-[Cheats/It seems there are lots of possessions Actually it does not increase, but I can shop] 
+//Cheats/It seems there are lots of possessions Actually it does not increase, but I can shop
 patch=1,EE,2014826C,extended,3C1005F5
 
-[Cheats/Max Voice Power]  
+//Cheats/Max Voice Power
 patch=1,EE,20134FAC,extended,0080300A
 
-[Cheats/Physical Strength, Aerobic 255, Genius, Fortune Mastered] 
+//Cheats/Physical Strength, Aerobic 255, Genius, Fortune Mastered
 patch=1,EE,201478A4,extended,0803D400
 patch=1,EE,200F5000,extended,24030003
 patch=1,EE,200F5004,extended,AE230844
@@ -70,11 +70,11 @@ patch=1,EE,200F5014,extended,AE230004
 patch=1,EE,200F5018,extended,08051E2B
 patch=1,EE,200F501C,extended,AE230044
 
-[Cheats/Max Ammunition Increases] 
+//Cheats/Max Ammunition Increases
 patch=1,EE,20362968,extended,14000004
 
-[Cheats/Acquired ERxperience Value 1000] 
+//Cheats/Acquired ERxperience Value 1000
 patch=1,EE,202B9D80,extended,240303E8
 
-[Cheats/Unlock All Scenario & Cast Selection from the first time] 
+//Cheats/Unlock All Scenario & Cast Selection from the first time
 patch=1,EE,201AD4DC,extended,AE3F0118

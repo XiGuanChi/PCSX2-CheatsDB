@@ -1,11 +1,11 @@
-[Cheats/Enable Debug Menu Main Debug Screen] 
+//Cheats/Enable Debug Menu Main Debug Screen
 patch=1,EE,D02902B2,extended,00002410
 patch=1,EE,002902B0,extended,00000000
 
-[Cheats/Enable Debug Menu Ending Movie Selector] 
+//Cheats/Enable Debug Menu Ending Movie Selector
 patch=1,EE,D02902B2,extended,00002410
 patch=1,EE,002902B0,extended,00000005
 
-[Cheats/Enable Debug Menu Trophy Viewing Menu] 
+//Cheats/Enable Debug Menu Trophy Viewing Menu
 patch=1,EE,D02902B2,extended,00002410
 patch=1,EE,002902B0,extended,00000007

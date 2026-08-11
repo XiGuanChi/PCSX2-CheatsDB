@@ -1,4 +1,4 @@
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,200C0200,extended,3C03006B
 patch=1,EE,200C0204,extended,8C636410
 patch=1,EE,200C0208,extended,10600006
@@ -9,8 +9,8 @@ patch=1,EE,200C021C,extended,AC6500F8
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,2011F1EC,extended,08030080
 
-[Cheats/Freeze Fish] 
+//Cheats/Freeze Fish
 patch=1,EE,006babc8,extended,00000001
 
-[Cheats/Freeze Fish Alt] 
+//Cheats/Freeze Fish Alt
 patch=1,EE,104E8B5C,extended,00000001

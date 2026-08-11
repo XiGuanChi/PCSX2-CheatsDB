@@ -1,31 +1,31 @@
-[Cheats/Always Low Mission Time]  
+//Cheats/Always Low Mission Time
 patch=1,EE,20403E3C,extended,000002C0
 
-[Cheats/Activate In-Game Cheat Code Hold R2, Press Triangle, Release R2 For 5000 More Plastic] 
+//Cheats/Activate In-Game Cheat Code Hold R2, Press Triangle, Release R2 For 5000 More Plastic
 patch=1,EE,102E7670,extended,00004247
 patch=1,EE,102E7674,extended,00002B70
 
-[Cheats/Activate In-Game Cheat Code Hold R2, Press Circle, Release R2 For 2000 More Electricity] 
+//Cheats/Activate In-Game Cheat Code Hold R2, Press Circle, Release R2 For 2000 More Electricity
 patch=1,EE,102E7648,extended,0000251D
 patch=1,EE,102E764C,extended,00003B61
 
-[Cheats/Activate In-Game Cheat Code Hold R2, Press Square, Release R2 For Super Soldiers]  
+//Cheats/Activate In-Game Cheat Code Hold R2, Press Square, Release R2 For Super Soldiers
 patch=1,EE,102E772C,extended,00005C00
 patch=1,EE,102E7730,extended,00007B75
 
-[Cheats/Activate In-Game Cheat Code Hold R2, Press X, Release R2 For Paratroopers]  
+//Cheats/Activate In-Game Cheat Code Hold R2, Press X, Release R2 For Paratroopers
 patch=1,EE,102E77FC,extended,0000774B
 patch=1,EE,102E7780,extended,0000B014
 
-[Cheats/Activate In-Game Cheat Code Hold R2, Press Triangle, Triangle, Release R2 For Extra Dump Truck Resources] 
+//Cheats/Activate In-Game Cheat Code Hold R2, Press Triangle, Triangle, Release R2 For Extra Dump Truck Resources
 patch=1,EE,102E765C,extended,00003868
 patch=1,EE,102E7660,extended,00001069
 
-[Cheats/Activate In-Game Cheat Code Hold R2, Press Circle, Circle, Release R2 For Green Army Is Blue] 
+//Cheats/Activate In-Game Cheat Code Hold R2, Press Circle, Circle, Release R2 For Green Army Is Blue
 patch=1,EE,102E77C4,extended,0000B7C0
 patch=1,EE,102E77C8,extended,000087EA
 
-[Cheats/Allow All To Be Used Together] 
+//Cheats/Allow All To Be Used Together
 patch=1,EE,202E7658,extended,00000000
 patch=1,EE,202E766C,extended,00000000
 patch=1,EE,202E7680,extended,00000000

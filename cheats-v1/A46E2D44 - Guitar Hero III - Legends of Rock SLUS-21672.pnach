@@ -1,13 +1,13 @@
-[Cheats/P1 Infinite Star Power] 
+//Cheats/P1 Infinite Star Power
 patch=1,EE,20A6ACB0,extended,44FA0000
 
-[Cheats/P1 Always In The Green Rock Meter] 
+//Cheats/P1 Always In The Green Rock Meter
 patch=1,EE,20A6B1D4,extended,40000000
 
-[Cheats/Max Score] 
+//Cheats/Max Score
 patch=1,EE,202B4BE4,extended,3C014974
 patch=1,EE,202B4BE8,extended,342123F0
 patch=1,EE,202B4BEC,extended,4481A000
 
-[Cheats/Enable Debug Menu in the main menu and in the pause screen.] 
+//Cheats/Enable Debug Menu in the main menu and in the pause screen.
 patch=1,EE,202616DC,extended,24020000

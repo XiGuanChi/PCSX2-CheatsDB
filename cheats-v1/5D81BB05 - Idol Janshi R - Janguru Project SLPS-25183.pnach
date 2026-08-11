@@ -1,31 +1,31 @@
-[Cheats/Max Team finishing move number of uses] 
+//Cheats/Max Team finishing move number of uses
 patch=1,EE,1071E0BA,extended,0000000F
 
-[Cheats/Player's point of possession pointed bar 900000] 
+//Cheats/Player's point of possession pointed bar 900000
 patch=1,EE,20160D28,extended,24032328
 
-[Cheats/All you can Match Panel Match] 
+//Cheats/All you can Match Panel Match
 patch=1,EE,20137600,extended,00000000
 
-[Cheats/Its Special Moves] 
+//Cheats/Its Special Moves
 patch=1,EE,20160F1C,extended,10000037
 
-[Cheats/Max Points]  
+//Cheats/Max Points
 patch=1,EE,2071F99C,extended,000003E7
 
-[Cheats/Max Number of uses of deathblow technique A] 
+//Cheats/Max Number of uses of deathblow technique A
 patch=1,EE,1071E0B6,extended,00000009
 
-[Cheats/Max Number of uses of deathblow technique B] 
+//Cheats/Max Number of uses of deathblow technique B
 patch=1,EE,1071E0B8,extended,00000009
 
-[Cheats/TEAM Special Movement Flag ON] 
+//Cheats/TEAM Special Movement Flag ON
 patch=1,EE,1071E0BA,extended,0000000F
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,2071F998,extended,00000FFF
 
-[Cheats/All items Purchased] 
+//Cheats/All items Purchased
 patch=1,EE,2071F9C0,extended,7FFF7FFF
 patch=1,EE,2071F9C4,extended,7FFF7FFF
 patch=1,EE,4071F9CC,extended,001D0001

@@ -1,30 +1,30 @@
-[Cheats/Max Boost] 
+//Cheats/Max Boost
 patch=1,EE,2064EA04,extended,40000000
 patch=1,EE,2064E9F4,extended,44340000
 patch=1,EE,2064E9F0,extended,44340000
 patch=1,EE,2064E9EC,extended,00000003
 
-[Cheats/Max Crash Damage] 
+//Cheats/Max Crash Damage
 patch=1,EE,2051BFC4,extended,35FAB000
 
-[Cheats/Max Burnout Points] 
+//Cheats/Max Burnout Points
 patch=1,EE,2051BFC0,extended,35FAB000
 
-[Cheats/Invincible to Frontal Collisions] 
+//Cheats/Invincible to Frontal Collisions
 patch=1,EE,204E1AB4,extended,7F960000
 
-[Cheats/Start on Lap 3] 
+//Cheats/Start on Lap 3
 patch=1,EE,D064E904,extended,00000000
 patch=1,EE,2064E904,extended,00000002
 
-[Cheats/No Crash Required for Crashbreaker] 
+//Cheats/No Crash Required for Crashbreaker
 patch=1,EE,2015BB80,extended,24020000
 
-[Cheats/Unlock All Gold Medals] 
+//Cheats/Unlock All Gold Medals
 patch=1,EE,4051C304,extended,002B0001
 patch=1,EE,03030303,extended,00000000
 
-[Cheats/Unlock All Signature Takedowns] 
+//Cheats/Unlock All Signature Takedowns
 patch=1,EE,0051C3B3,extended,00000001
 patch=1,EE,0051C3B4,extended,00000001
 patch=1,EE,0051C3B5,extended,00000001
@@ -46,7 +46,7 @@ patch=1,EE,0051C3C4,extended,00000001
 patch=1,EE,0051C3C5,extended,00000001
 patch=1,EE,0051C3C6,extended,00000001
 
-[Cheats/Unlock All Crash Headlines] 
+//Cheats/Unlock All Crash Headlines
 patch=1,EE,0051C3C7,extended,00000001
 patch=1,EE,0051C3C8,extended,00000001
 patch=1,EE,0051C3C9,extended,00000001
@@ -58,7 +58,7 @@ patch=1,EE,0051C3CE,extended,00000001
 patch=1,EE,0051C3CF,extended,00000001
 patch=1,EE,0051C3D0,extended,00000001
 
-[Cheats/Unlock All Postcards] 
+//Cheats/Unlock All Postcards
 patch=1,EE,0051C552,extended,00000001
 patch=1,EE,0051C553,extended,00000001
 patch=1,EE,0051C554,extended,00000001
@@ -70,7 +70,7 @@ patch=1,EE,0051C559,extended,00000001
 patch=1,EE,0051C55A,extended,00000001
 patch=1,EE,0051C55B,extended,00000001
 
-[Cheats/Unlock All Cars Available at Selection Screen] 
+//Cheats/Unlock All Cars Available at Selection Screen
 patch=1,EE,0051C420,extended,00000001
 patch=1,EE,0051C421,extended,00000001
 patch=1,EE,0051C422,extended,00000001

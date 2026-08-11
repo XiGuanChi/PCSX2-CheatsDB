@@ -1,56 +1,56 @@
-[Cheats/Ranking 1st Place] 
+//Cheats/Ranking 1st Place
 patch=1,EE,00A9FAA4,extended,00000001
 
-[Cheats/Max 999999999] 
+//Cheats/Max 999999999
 patch=1,EE,20164eb8,extended,24010000
 
-[Cheats/Max Played Time] 
+//Cheats/Max Played Time
 patch=1,EE,20164fec,extended,24010000
 
-[Cheats/FINISH Press SELECT while running Valid only for races where the number of laps is determined. TIME ATTACK will not be recorded in RECORD unless it is completed one lap.] 
+//Cheats/FINISH Press SELECT while running Valid only for races where the number of laps is determined. TIME ATTACK will not be recorded in RECORD unless it is completed one lap.
 patch=1,EE,201F6F28,extended,8C843694
 patch=1,EE,D027D51C,extended,0000FFFE
 patch=1,EE,201F6F28,extended,AC833694
 
-[Cheats/Infinite Boost]  
+//Cheats/Infinite Boost
 patch=1,EE,201F9AB8,extended,8E453588
 patch=1,EE,201F9ABC,extended,0C07E985
 patch=1,EE,201FA614,extended,AE453594
 patch=1,EE,201FA618,extended,0807BDC8
 
-[Cheats/Grand Prix 10 points earned after completing the course Not valid in case of retirement.] 
+//Cheats/Grand Prix 10 points earned after completing the course Not valid in case of retirement.
 patch=1,EE,201B5B08,extended,0803E000
 patch=1,EE,200F8000,extended,241A0001
 patch=1,EE,200F8004,extended,3C0100AA
 patch=1,EE,200F8008,extended,AC3AFAA4
 patch=1,EE,200F800C,extended,03E00008
 
-[Cheats/Enemy CPU vehicle stopped   Own vehicle AUTO DRIVE can run.] 
+//Cheats/Enemy CPU vehicle stopped   Own vehicle AUTO DRIVE can run.
 patch=1,EE,201FC4B0,extended,00000000
 
-[Cheats/TOTAL TIME while running 1 second] 
+//Cheats/TOTAL TIME while running 1 second
 patch=1,EE,201F6D00,extended,3C023F80
 patch=1,EE,201F6D08,extended,44820000
 
-[Cheats/DISTANCE 999999km] 
+//Cheats/DISTANCE 999999km
 patch=1,EE,20A9F48C,extended,3B9AC9FF
 
-[Cheats/Unlock All Cars, Courses & Movies]
+//Cheats/Unlock All Cars, Courses & Movies
 patch=1,EE,20A9F49C,extended,FFFFFFFF
 patch=1,EE,20A9F4A0,extended,FFFFFFFF 
 patch=1,EE,20A9F4A4,extended,FFFFFFFF
 patch=1,EE,20A9F4A8,extended,FFFFFFFF
 
-[Cheats/Unlock All Audio & Gallery] 
+//Cheats/Unlock All Audio & Gallery
 patch=1,EE,20A9F4AC,extended,FFFFFFFF
 patch=1,EE,20A9F4B0,extended,FFFFFFFF 
 patch=1,EE,20A9F4B4,extended,FFFFFFFF
 patch=1,EE,20A9F4B8,extended,FFFFFFFF
 
-[Cheats/Unlock All Models CG and Movies] 
+//Cheats/Unlock All Models CG and Movies
 patch=1,EE,40A9F49C,extended,00080001
 patch=1,EE,D8C3647D,extended,6D74AF86
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,10482046,extended,7D3C7D37
 

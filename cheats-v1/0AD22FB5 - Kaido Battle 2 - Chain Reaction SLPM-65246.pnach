@@ -1,19 +1,19 @@
-[Cheats/Infinite Credit Points] 
+//Cheats/Infinite Credit Points
 patch=1,EE,203BD590,extended,05F5E0FF
 
-[Cheats/Max CP Post Race]  
+//Cheats/Max CP Post Race
 patch=1,EE,201C397C,extended,00000000
 
-[Cheats/If you pass points a large amount of CA will be added] 
+//Cheats/If you pass points a large amount of CA will be added
 patch=1,EE,20166804,extended,24637FFF
 patch=1,EE,20167888,extended,0C05995C
 patch=1,EE,2016667C,extended,00000000
 patch=1,EE,201667FC,extended,00000000
 patch=1,EE,201667D0,extended,00000000
 
-[Cheats/Conquest Mode Possess a large amount of CP during NEW GAME] 
+//Cheats/Conquest Mode Possess a large amount of CP during NEW GAME
 patch=1,EE,201C34F0,extended,3C0305F5
 
-[Cheats/Conquest Mode CP Max when shopping] 
+//Cheats/Conquest Mode CP Max when shopping
 patch=1,EE,201C39F0,extended,3C0305F6
 patch=1,EE,201C39F4,extended,2463E0FF

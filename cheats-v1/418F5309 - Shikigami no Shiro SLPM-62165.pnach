@@ -1,30 +1,30 @@
-[Cheats/Invincible with tension determination]
+//Cheats/Invincible with tension determination
 patch=1,EE,2014379C,extended,00000000
 
-[Cheats/Invincible no tension judgement] 
+//Cheats/Invincible no tension judgement
 patch=1,EE,20143768,extended,10000066
 
-[Cheats/Max Power Up]  
+//Cheats/Max Power Up
 patch=1,EE,20143C34,extended,00000000
 patch=1,EE,10143C54,extended,00000000
 
-[Cheats/Infinite Special Attacks]  
+//Cheats/Infinite Special Attacks
 patch=1,EE,20145A0C,extended,00000000
 
-[Cheats/For Each Coin Taken Shot Level Up] 
+//Cheats/For Each Coin Taken Shot Level Up
 patch=1,EE,2023DCB8,extended,00000001
 patch=1,EE,0023DCB0,extended,00000001
 patch=1,EE,0023DCB4,extended,00000001
 
-[Cheats/Infinite Bombs] 
+//Cheats/Infinite Bombs
 patch=1,EE,20145A44,extended,14000002
 
-[Cheats/Coin 99999 Sheets After Obtaining Some] 
+//Cheats/Coin 99999 Sheets After Obtaining Some
 patch=1,EE,20143AC0,extended,AE0400B0
 
-[Cheats/Debug Flag ON] 
+//Cheats/Debug Flag ON
 patch=1,EE,20267E40,extended,FFFFFFFF
 
-[Cheats/Debug Menu Enable after selecting your character in Normal Mode, the debug menu will appear on-screen. It contains options such as complete any stage, invincibility, and level select] 
+//Cheats/Debug Menu Enable after selecting your character in Normal Mode, the debug menu will appear on-screen. It contains options such as complete any stage, invincibility, and level select
 patch=1,EE,2013A6B4,extended,00000000
 patch=1,EE,2013A6F0,extended,00000000

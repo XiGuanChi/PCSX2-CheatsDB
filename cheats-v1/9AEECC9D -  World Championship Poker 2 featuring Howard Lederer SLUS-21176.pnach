@@ -1,46 +1,46 @@
-[Cheats/Max Money P1]  
+//Cheats/Max Money P1
 patch=1,EE,200C0228,extended,8E450000
 patch=1,EE,200C022C,extended,ACA10014
 
-[Cheats/P1 Press R1+Circle To Call & Not Decrease Money ] 
+//Cheats/P1 Press R1+Circle To Call & Not Decrease Money
 patch=1,EE,D0660FC2,extended,0000D7FF
 patch=1,EE,201A58D0,extended,00000000
 patch=1,EE,D0660FC2,extended,0000FFFF
 patch=1,EE,201A58D0,extended,0C06CA7E
 
-[Cheats/Quick Bankroll Gain]  
+//Cheats/Quick Bankroll Gain
 patch=1,EE,1063F42C,extended,0000FFFF
 
-[Cheats/Max Bankroll]  
+//Cheats/Max Bankroll
 patch=1,EE,2063F42C,extended,05F5E0FF
 
-[Cheats/Quick Career Profits Gain]  
+//Cheats/Quick Career Profits Gain
 patch=1,EE,1063F430,extended,0000FFFF
 
-[Cheats/Max Career Profits] 
+//Cheats/Max Career Profits
 patch=1,EE,2063F430,extended,05F5E0FF
 
-[Cheats/Max Career Wins]  
+//Cheats/Max Career Wins
 patch=1,EE,1063F5DC,extended,000001F3
 
-[Cheats/Have All Pros Beaten]  
+//Cheats/Have All Pros Beaten
 patch=1,EE,1063F606,extended,0000007F
 
-[Cheats/Max Online Wins]  
+//Cheats/Max Online Wins
 patch=1,EE,2063F608,extended,000001F3
 
-[Cheats/Infinite Skill Points]  
+//Cheats/Infinite Skill Points
 patch=1,EE,0063F634,extended,00000063
 
-[Cheats/Max All Skills]  
+//Cheats/Max All Skills
 patch=1,EE,0063F635,extended,00000003
 patch=1,EE,1063F636,extended,00000303
 patch=1,EE,2063F638,extended,03030303
 
-[Cheats/Unlock All Trophies]  
+//Cheats/Unlock All Trophies
 patch=1,EE,4063F668,extended,000D0001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Trinkets]  
+//Cheats/Unlock All Trinkets
 patch=1,EE,4063F69C,extended,00110001
 patch=1,EE,00000001,extended,00000000

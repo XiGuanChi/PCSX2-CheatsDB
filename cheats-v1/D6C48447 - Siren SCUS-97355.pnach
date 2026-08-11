@@ -1,32 +1,32 @@
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,20198F40,extended,03E00008
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2019910C,extended,00000000
 
-[Cheats/Never Reload] 
+//Cheats/Never Reload
 patch=1,EE,20162530,extended,00000000
 
-[Cheats/1 Hit Death Enemies] 
+//Cheats/1 Hit Death Enemies
 patch=1,EE,20159974,extended,AC20A74C
 
-[Cheats/Infinite Items] 
+//Cheats/Infinite Items
 patch=1,EE,20160784,extended,00000000
 
-[Cheats/P1 Press L1+Select To Enable Idiot AI With this code, it stop's NPC's helping you as well. So when you need help, disable it with the below code.] 
+//Cheats/P1 Press L1+Select To Enable Idiot AI With this code, it stop's NPC's helping you as well. So when you need help, disable it with the below code.
 patch=1,EE,D02CAF02,extended,0000FBFE
 patch=1,EE,20154C00,extended,03E00008
 
-[Cheats/P1 Press L2+Select To Disable Idiot AI]   
+//Cheats/P1 Press L2+Select To Disable Idiot AI
 patch=1,EE,D02CAF02,extended,0000FEFE
 patch=1,EE,20154C00,extended,27BDFE60
 
-[Cheats/Lesser AI With this code, enemies still follow you, but do not attack.] 
+//Cheats/Lesser AI With this code, enemies still follow you, but do not attack.
 patch=1,EE,101550CA,extended,00001000
 
-[Cheats/Unlock Puzzle Game] 
+//Cheats/Unlock Puzzle Game
 patch=1,EE,11A97CB8,extended,0000000
 
-[Cheats/Unlock All Archive]  
+//Cheats/Unlock All Archive
 patch=1,EE,41A97B60,extended,00190001
 patch=1,EE,02020202,extended,00000000

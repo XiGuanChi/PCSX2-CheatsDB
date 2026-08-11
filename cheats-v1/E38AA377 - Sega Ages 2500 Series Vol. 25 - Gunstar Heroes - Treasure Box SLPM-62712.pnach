@@ -1,8 +1,8 @@
-[Cheats/Alien Soldier Always Invulnerable] 
+//Cheats/Alien Soldier Always Invulnerable
 patch=1,EE,600A0010,extended,0000001F
 patch=1,EE,00010001,extended,0000A45E
 
-[Cheats/Alien Soldier Infinite Ammo]  
+//Cheats/Alien Soldier Infinite Ammo
 patch=1,EE,600A0010,extended,000003E8
 patch=1,EE,00010001,extended,0000A260
 patch=1,EE,600A0010,extended,000003E8
@@ -12,24 +12,24 @@ patch=1,EE,00010001,extended,0000A264
 patch=1,EE,600A0010,extended,000003E8
 patch=1,EE,00010001,extended,0000A266
 
-[Cheats/Alien Soldier Infinite Time]  
+//Cheats/Alien Soldier Infinite Time
 patch=1,EE,600A0010,extended,00000999
 patch=1,EE,00010001,extended,0000A270
 
-[Cheats/Alien Soldier Max Life]  
+//Cheats/Alien Soldier Max Life
 patch=1,EE,600A0010,extended,000003E7
 patch=1,EE,00010001,extended,0000A216
 patch=1,EE,600A0010,extended,000003E8
 patch=1,EE,00010001,extended,0000A218
 
-[Cheats/Alien Soldier 1 Hit Kill Bosses] 
+//Cheats/Alien Soldier 1 Hit Kill Bosses
 patch=1,EE,600A0010,extended,00000001
 patch=1,EE,00010001,extended,00008200
 
-[Cheats/Gunstar Heroes Always Invulnerable] 
+//Cheats/Gunstar Heroes Always Invulnerable
 patch=1,EE,600A0010,extended,0000003F
 patch=1,EE,00000001,extended,0000A47C
 
-[Cheats/Gunstar Heroes Max Life]  
+//Cheats/Gunstar Heroes Max Life
 patch=1,EE,600A0010,extended,000003E7
 patch=1,EE,00010001,extended,0000A424

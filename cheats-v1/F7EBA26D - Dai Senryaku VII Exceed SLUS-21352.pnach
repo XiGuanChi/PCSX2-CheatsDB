@@ -1,4 +1,4 @@
-[Cheats/Activator for Codes] 
+//Cheats/Activator for Codes
 patch=1,EE,2018A678,extended,08028000
 patch=1,EE,2018A67C,extended,00000000
 patch=1,EE,200A0000,extended,15400023
@@ -9,22 +9,22 @@ patch=1,EE,200A007C,extended,0806299F
 patch=1,EE,200A0080,extended,25CEF248
 patch=1,EE,200A00F8,extended,1000FFDF
 
-[Cheats/Infinite Funds] 
+//Cheats/Infinite Funds
 patch=1,EE,200A0010,extended,ACD00000
 
-[Cheats/Infinite Fuel] 
+//Cheats/Infinite Fuel
 patch=1,EE,200A0014,extended,ACD00004
 
-[Cheats/Zero Funds Enemy] 
+//Cheats/Zero Funds Enemy
 patch=1,EE,200A0090,extended,ACC00000
 
-[Cheats/Zero Fuel Enemy] 
+//Cheats/Zero Fuel Enemy
 patch=1,EE,200A0094,extended,ACC00004
 
-[Cheats/Always Able To Move Might affect everyone not just your side] 
+//Cheats/Always Able To Move Might affect everyone not just your side
 patch=1,EE,10137CC8,extended,00000000
 
-[Cheats/Infinite HP Hold Select In Battle Attack Hold L2 Defense Side] 
+//Cheats/Infinite HP Hold Select In Battle Attack Hold L2 Defense Side
 patch=1,EE,D0443642,extended,0000FFFE
 patch=1,EE,201F28E0,extended,00000000
 patch=1,EE,D0443642,extended,0010FFFE
@@ -34,6 +34,6 @@ patch=1,EE,201F28EC,extended,00000000
 patch=1,EE,D0443642,extended,0010FEFF
 patch=1,EE,201F28EC,extended,A54E0000
 
-[Cheats/Infinite Ammo And Gain] 
+//Cheats/Infinite Ammo And Gain
 patch=1,EE,201F448C,extended,240F0009
 

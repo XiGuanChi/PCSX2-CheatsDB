@@ -1,13 +1,13 @@
-[Cheats/Max Possession Points 9999999] 
+//Cheats/Max Possession Points 9999999
 patch=1,EE,204554C8,extended,0098967F
 
-[Cheats/Unlock All Unstocked item now in stock] 
+//Cheats/Unlock All Unstocked item now in stock
 patch=1,EE,204554CC,extended,FFFFFFFF
 
 [Cheats/Unlock All] Special Bonus Video by viewing] 
 patch=1,EE,20335D5C,extended,240500FF
 patch=1,EE,20335D70,extended,A0650000
 
-[Cheats/Unlock Free fight All Characters can be selected Enabled when entering the character selection screen] 
+//Cheats/Unlock Free fight All Characters can be selected Enabled when entering the character selection screen
 patch=1,EE,20335DBC,extended,240500FF
 patch=1,EE,20335DCC,extended,A0650000

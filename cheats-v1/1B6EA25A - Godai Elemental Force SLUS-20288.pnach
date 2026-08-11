@@ -1,10 +1,10 @@
-[Cheats/Infinite Lives] 
+//Cheats/Infinite Lives
 patch=1,EE,1038E850,extended,00000063
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,202F2AA4,extended,00000001
 
-[Cheats/Unlock Unused Cheats and Debug Features Code on press L1+Up+Up while in-game to toggle a debug mode flag. While this is active, hold L1 then press Start to open a debug menu] 
+//Cheats/Unlock Unused Cheats and Debug Features Code on press L1+Up+Up while in-game to toggle a debug mode flag. While this is active, hold L1 then press Start to open a debug menu
 patch=1,EE,D038E442,extended,0000FBF7
 patch=1,EE,2016DD28,extended,0C0698EE
 patch=1,EE,D038E442,extended,0000FFFF

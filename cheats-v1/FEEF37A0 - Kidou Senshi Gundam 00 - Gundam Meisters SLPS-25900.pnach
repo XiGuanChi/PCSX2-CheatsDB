@@ -1,50 +1,50 @@
-[Cheats/Infinite HP Max Durability]  
+//Cheats/Infinite HP Max Durability
 patch=1,EE,20216D1C,extended,C4840020
 patch=1,EE,20216D28,extended,E484001C
 
-[Cheats/Infinite AMG] 
+//Cheats/Infinite AMG
 patch=1,EE,20216D14,extended,00000000
 
-[Cheats/Favorable Fraction Large Quantity]  
+//Cheats/Favorable Fraction Large Quantity
 patch=1,EE,20298374,extended,3C10540B
 
-[Cheats/Max Number Of Chains] 
+//Cheats/Max Number Of Chains
 patch=1,EE,103A73E8,extended,00000063
 patch=1,EE,1028471C,extended,00000063
 
-[Cheats/O Gauge Variation Max] 
+//Cheats/O Gauge Variation Max
 patch=1,EE,20216FD4,extended,AE030000
 
-[Cheats/Mission Mode Bonds Level All Members Max] 
+//Cheats/Mission Mode Bonds Level All Members Max
 patch=1,EE,41E99C78,extended,00100001
 patch=1,EE,00000005,extended,00000000
 
-[Cheats/Mission Mode All Bonds Level 5] 
+//Cheats/Mission Mode All Bonds Level 5
 patch=1,EE,41E99CBC,extended,00100001
 patch=1,EE,3B9AC9FF,extended,00000000
 patch=1,EE,41E99C78,extended,00100001
 patch=1,EE,00000005,extended,00000000
 
-[Cheats/Unlock All Gallery] 
+//Cheats/Unlock All Gallery
 patch=1,EE,41E998DC,extended,004C0001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Mission Modes Setsuna F. Seiei]  
+//Cheats/Unlock All Mission Modes Setsuna F. Seiei
 patch=1,EE,21E99D18,extended,0000000A
 patch=1,EE,41E99D28,extended,000A0001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Mission Modes Lock On Stratos] 
+//Cheats/Unlock All Mission Modes Lock On Stratos
 patch=1,EE,21E99D1C,extended,0000000A
 patch=1,EE,41E99D50,extended,000A0001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Mission Modes Alleluia Haptism]  
+//Cheats/Unlock All Mission Modes Alleluia Haptism
 patch=1,EE,21E99D20,extended,0000000A
 patch=1,EE,41E99D78,extended,000A0001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Mission Modes Tierie Erde]  
+//Cheats/Unlock All Mission Modes Tierie Erde
 patch=1,EE,21E99D24,extended,0000000A
 patch=1,EE,41E99DA0,extended,000A0001
 patch=1,EE,00000000,extended,00000000

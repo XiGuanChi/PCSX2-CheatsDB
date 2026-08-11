@@ -1,19 +1,19 @@
-[Cheats/Max Points] 
+//Cheats/Max Points
 patch=1,EE,20241BB8,extended,05F5E0FF
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20244500,extended,42C80000
 patch=1,EE,20244504,extended,42C80000
 patch=1,EE,20244508,extended,42C80000
 
-[Cheats/Max Heat Gauge] 
+//Cheats/Max Heat Gauge
 patch=1,EE,20244558,extended,42C80000
 patch=1,EE,2024455C,extended,42C80000
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,2022AE48,extended,476A6000
 
-[Cheats/Unlock All Bonus the Number of Story Mode Continuation Chapters Will be 30 When Used] 
+//Cheats/Unlock All Bonus the Number of Story Mode Continuation Chapters Will be 30 When Used
 patch=1,EE,20241BBC,extended,FFFFFFFF
 patch=1,EE,20241BC0,extended,FFFFFFFF
 patch=1,EE,20241BC4,extended,FFFFFFFF

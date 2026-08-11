@@ -1,4 +1,4 @@
-[Cheats/Zuma Gain 32X Amount of Score] 
+//Cheats/Zuma Gain 32X Amount of Score
 patch=1,EE,200A0000,extended,00021140
 patch=1,EE,200A0004,extended,00621021
 patch=1,EE,200A0008,extended,0807098A
@@ -6,7 +6,7 @@ patch=1,EE,200A000C,extended,AE0200D8
 patch=1,EE,201C2624,extended,08028000
 patch=1,EE,201C2628,extended,00000000
 
-[Cheats/Zuma Gain 10000 Score Per] 
+//Cheats/Zuma Gain 10000 Score Per
 patch=1,EE,200A0000,extended,24022710
 patch=1,EE,200A0004,extended,00621021
 patch=1,EE,200A0008,extended,0807098A
@@ -14,11 +14,11 @@ patch=1,EE,200A000C,extended,AE0200D8
 patch=1,EE,201C2624,extended,08028000
 patch=1,EE,201C2628,extended,00000000
 
-[Cheats/Zuma Your Time Always 0 Select On L1 Off Turn On have the Ball dont have the Ball at the Start turn off]
+//Cheats/Zuma Your Time Always 0 Select On L1 Off Turn On have the Ball dont have the Ball at the Start turn off
 patch=1,EE,D058AEC2,extended,0000FFFE
 patch=1,EE,201C7448,extended,AE0000E4
 patch=1,EE,D058AEC2,extended,0000FBFF
 patch=1,EE,201C7448,extended,AE0200E4
 
-[Cheats/Zuma Gain 1 Life to get 99] 
+//Cheats/Zuma Gain 1 Life to get 99
 patch=1,EE,201C2670,extended,24020064

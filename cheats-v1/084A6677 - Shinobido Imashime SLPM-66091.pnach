@@ -1,35 +1,35 @@
-[Cheats/Max Money 9999999] 
+//Cheats/Max Money 9999999
 patch=1,EE,20619E7C,extended,0098967F
 
-[Cheats/Infinite Health In Missions In case of falling into the abyss, etc. There are fatalities] 
+//Cheats/Infinite Health In Missions In case of falling into the abyss, etc. There are fatalities
 patch=1,EE,20297634,extended,080A5E25
 patch=1,EE,20297894,extended,8C410020
 patch=1,EE,20297898,extended,080A5D91
 patch=1,EE,2029789C,extended,AC41001C
 
-[Cheats/One Hit Kill Enemy Ineffective against trap-type attacks] 
+//Cheats/One Hit Kill Enemy Ineffective against trap-type attacks
 patch=1,EE,20232314,extended,24032710
 patch=1,EE,20232324,extended,24020001
 
-[Cheats/99 ninja tools The amount that is the source of the division will increase] 
+//Cheats/99 ninja tools The amount that is the source of the division will increase
 patch=1,EE,202808A8,extended,24020063
 patch=1,EE,2028FF64,extended,24020063
 
-[Cheats/Infinite Materials when synthesizing] 
+//Cheats/Infinite Materials when synthesizing
 patch=1,EE,202AA504,extended,00000000 
 patch=1,EE,202AA510,extended,00000000 
 patch=1,EE,202AA628,extended,00000000 
 
-[Cheats/Infinite item usage] 
+//Cheats/Infinite item usage
 patch=1,EE,201DE128,extended,00000000
 patch=1,EE,201DB668,extended,00000000
 patch=1,EE,201E079C,extended,00000000
 
-[Cheats/1 Hit Kill] 
+//Cheats/1 Hit Kill
 patch=1,EE,20232314,extended,24032710
 patch=1,EE,20232324,extended,24020001
 
-[Cheats/Invisible] 
+//Cheats/Invisible
 patch=1,EE,200F8200,extended,16200003
 patch=1,EE,200F8204,extended,3C030080
 patch=1,EE,200F8208,extended,00832025
@@ -38,27 +38,27 @@ patch=1,EE,200F8210,extended,03E00008
 patch=1,EE,200F8214,extended,3C038000
 patch=1,EE,2011A654,extended,0C03E080
 
-[Cheats/Unlock All Missions] 
+//Cheats/Unlock All Missions
 patch=1,EE,202AA504,extended,00000000
 patch=1,EE,202AA510,extended,00000000
 patch=1,EE,202AA628,extended,00000000
 
-[Cheats/Unlock All Secret Volume]   
+//Cheats/Unlock All Secret Volume
 patch=1,EE,20636624,extended,01010101 
 patch=1,EE,20636628,extended,01010101 
 patch=1,EE,1063662C,extended,00000101 
 
-[Cheats/Unlock All Model Change Characters] 
+//Cheats/Unlock All Model Change Characters
 patch=1,EE,20636634,extended,FFFFFFFF 
 patch=1,EE,20636638,extended,FFFFFFFF
 
-[Cheats/Unlock All Kai Theater]  
+//Cheats/Unlock All Kai Theater
 patch=1,EE,20636644,extended,FFFFFFFF 
 patch=1,EE,20636648,extended,FFFFFFFF 
 patch=1,EE,2063664C,extended,FFFFFFFF 
 patch=1,EE,20636650,extended,FFFFFFFF
 
-[Cheats/Unlock All 120 Theaters, All Secrets, Extra Characters and Difficulty Levels] 
+//Cheats/Unlock All 120 Theaters, All Secrets, Extra Characters and Difficulty Levels
 patch=1,EE,20636624,extended,01010101
 patch=1,EE,20636628,extended,01010101
 patch=1,EE,1063662C,extended,00000101

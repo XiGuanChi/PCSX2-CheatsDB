@@ -1,23 +1,23 @@
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,102AA91E,extended,000000A5
 
-[Cheats/One Hit KO P2] 
+//Cheats/One Hit KO P2
 patch=1,EE,D02AAB8E,extended,000000A5
 patch=1,EE,102AB83E,extended,00000001
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,2036EA10,extended,FFFFFFFF
 patch=1,EE,2036EA14,extended,FFFFFFFF
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,2036EA18,extended,FFFFFFFF
 patch=1,EE,2036EA1C,extended,FFFFFFFF
 patch=1,EE,2036EA20,extended,FFFFFFFF
 patch=1,EE,2036EA24,extended,FFFFFFFF
 patch=1,EE,2036EA28,extended,FFFFFFFF
 
-[Cheats/Unlock Theatre Mode] 
+//Cheats/Unlock Theatre Mode
 patch=1,EE,1036EA2C,extended,00000100
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,2036EA00,extended,FFFFFFFF

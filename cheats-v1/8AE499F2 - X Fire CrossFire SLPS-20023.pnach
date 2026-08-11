@@ -1,16 +1,16 @@
-[Cheats/Max Points] 
+//Cheats/Max Points
 patch=1,EE,2021F24C,extended,0098967F
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,0021AB3C,extended,000000E1
 
-[Cheats/Life Recovery When Paused] 
+//Cheats/Life Recovery When Paused
 patch=1,EE,0021AB38,extended,0000001E
 patch=1,EE,0021AC88,extended,00000046
 patch=1,EE,0021ADD8,extended,0000003C
 patch=1,EE,0021AF28,extended,0000003C
 
-[Cheats/Shield Recovery When Paused] 
+//Cheats/Shield Recovery When Paused
 patch=1,EE,0021AB3C,extended,00000019
 patch=1,EE,0021AC8C,extended,00000019
 patch=1,EE,0021ADDC,extended,00000019

@@ -1,147 +1,147 @@
-[Cheats/Max Gold]  
+//Cheats/Max Gold
 patch=1,EE,20AA3AC0,extended,05F5E0FF
 
-[Cheats/HP Full Recovery when Opening Menu] 
+//Cheats/HP Full Recovery when Opening Menu
 patch=1,EE,2022EF50,extended,0C03C808
 patch=1,EE,200F2020,extended,08093B18
 patch=1,EE,200F2024,extended,A60A0012
 
-[Cheats/TP Full Recovery when Opening Menu] 
+//Cheats/TP Full Recovery when Opening Menu
 patch=1,EE,2022EF80,extended,0C03C80C
 patch=1,EE,200F2030,extended,08093894
 patch=1,EE,200F2034,extended,A60A0014
 
-[Cheats/Max EXP]  
+//Cheats/Max EXP
 patch=1,EE,D05B05B8,extended,00000018
 patch=1,EE,205B05B8,extended,3C020100
 
-[Cheats/Lloyd Max HP] 
+//Cheats/Lloyd Max HP
 patch=1,EE,10AA3DA6,extended,0000270F
 patch=1,EE,10AA3DA6,extended,0000270F
 
-[Cheats/Lloyd Currently HP] 
+//Cheats/Lloyd Currently HP
 patch=1,EE,10AA3D92,extended,0000270F
 
-[Cheats/Lloyd Max TP] 
+//Cheats/Lloyd Max TP
 patch=1,EE,10AA3DA8,extended,0000270F
 patch=1,EE,10AA3DB8,extended,0000270F
 
-[Cheats/Lloyd Currently TP]  
+//Cheats/Lloyd Currently TP
 patch=1,EE,10AA3D94,extended,0000270F
 
-[Cheats/Collet Max HP] 
+//Cheats/Collet Max HP
 patch=1,EE,10AA3EBE,extended,0000270F
 patch=1,EE,10AA3ECE,extended,0000270F
 
-[Cheats/Collet Currently HP]  
+//Cheats/Collet Currently HP
 patch=1,EE,10AA3EAA,extended,0000270F
 
-[Cheats/Collet Max TP]  
+//Cheats/Collet Max TP
 patch=1,EE,10AA3EC0,extended,0000270F
 patch=1,EE,10AA3ED0,extended,0000270F
 
-[Cheats/Collet Currently TP] 
+//Cheats/Collet Currently TP
 patch=1,EE,10AA3EAC,extended,0000270F
 
-[Cheats/Genius Max HP] 
+//Cheats/Genius Max HP
 patch=1,EE,10AA3FD6,extended,0000270F
 patch=1,EE,10AA3FE6,extended,0000270F
 
 [Cheats/Genius Currently HP] Currently 
 patch=1,EE,10AA3FC2,extended,0000270F
 
-[Cheats/Genius Max TP] 
+//Cheats/Genius Max TP
 patch=1,EE,10AA3FD8,extended,0000270F
 patch=1,EE,10AA3FE8,extended,0000270F
 
-[Cheats/Genius Currently TP] 
+//Cheats/Genius Currently TP
 patch=1,EE,10AA3FC4,extended,0000270F
 
-[Cheats/Refill Max HP] 
+//Cheats/Refill Max HP
 patch=1,EE,10AA40EE,extended,0000270F
 patch=1,EE,10AA40FE,extended,0000270F
 
-[Cheats/Refill Currently HP] 
+//Cheats/Refill Currently HP
 patch=1,EE,10AA40DA,extended,0000270F
 
-[Cheats/Refill Max TP] 
+//Cheats/Refill Max TP
 patch=1,EE,10AA40F0,extended,0000270F
 patch=1,EE,10AA4100,extended,0000270F
 
-[Cheats/Refill Currently TP] 
+//Cheats/Refill Currently TP
 patch=1,EE,10AA40DC,extended,0000270F
 
-[Cheats/Shiina Max HP] 
+//Cheats/Shiina Max HP
 patch=1,EE,10AA4206,extended,0000270F
 patch=1,EE,10AA4216,extended,0000270F
 
-[Cheats/Shiina Currently HP] 
+//Cheats/Shiina Currently HP
 patch=1,EE,10AA41EE,extended,0000270F
 
-[Cheats/Shiina Max TP] 
+//Cheats/Shiina Max TP
 patch=1,EE,10AA4208,extended,0000270F
 patch=1,EE,10AA4218,extended,0000270F
 
-[Cheats/Shiina Currently TP] 
+//Cheats/Shiina Currently TP
 patch=1,EE,10AA41F4,extended,0000270F
 
-[Cheats/Zelos Max HP]  
+//Cheats/Zelos Max HP
 patch=1,EE,10AA431E,extended,0000270F
 patch=1,EE,10AA432E,extended,0000270F
 
-[Cheats/Zelos Currently HP] 
+//Cheats/Zelos Currently HP
 patch=1,EE,10AA430A,extended,0000270F
 
-[Cheats/Zelos Max TP] 
+//Cheats/Zelos Max TP
 patch=1,EE,10AA4320,extended,0000270F
 patch=1,EE,10AA4330,extended,0000270F
 
-[Cheats/Zelos Currently TP] 
+//Cheats/Zelos Currently TP
 patch=1,EE,10AA430C,extended,0000270F
 
-[Cheats/Presea Max HP]  
+//Cheats/Presea Max HP
 patch=1,EE,10AA4436,extended,0000270F
 patch=1,EE,10AA4446,extended,0000270F
 
-[Cheats/Presea Currently HP] 
+//Cheats/Presea Currently HP
 patch=1,EE,10AA4422,extended,0000270F
 
-[Cheats/Presea Max TP] 
+//Cheats/Presea Max TP
 patch=1,EE,10AA4438,extended,0000270F
 patch=1,EE,10AA4448,extended,0000270F
 
-[Cheats/Presea Currently TP] 
+//Cheats/Presea Currently TP
 patch=1,EE,10AA4424,extended,0000270F
 
-[Cheats/Legal Max HP] 
+//Cheats/Legal Max HP
 patch=1,EE,10AA454E,extended,0000270F
 patch=1,EE,10AA455E,extended,0000270F
 
-[Cheats/Legal Currently HP]
+//Cheats/Legal Currently HP
 patch=1,EE,10AA453A,extended,0000270F
 
-[Cheats/Legal Max TP] 
+//Cheats/Legal Max TP
 patch=1,EE,10AA4550,extended,0000270F
 patch=1,EE,10AA4560,extended,0000270F
 
-[Cheats/Legal Currently TP] 
+//Cheats/Legal Currently TP
 patch=1,EE,10AA453C,extended,0000270F
 
-[Cheats/Crust Max HP] 
+//Cheats/Crust Max HP
 patch=1,EE,10AA4666,extended,0000270F
 patch=1,EE,10AA4676,extended,0000270F
 
-[Cheats/Crust Currently HP] 
+//Cheats/Crust Currently HP
 patch=1,EE,10AA4652,extended,0000270F
 
-[Cheats/Crust Max TP] 
+//Cheats/Crust Max TP
 patch=1,EE,10AA4668,extended,0000270F
 patch=1,EE,10AA4678,extended,0000270F
 
-[Cheats/Crust Currently TP] 
+//Cheats/Crust Currently TP
 patch=1,EE,10AA4654,extended,0000270F
 
-[Cheats/Highest Cooking Level] 
+//Cheats/Highest Cooking Level
 patch=1,EE,40AA3F8C,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,40AA40A4,extended,00060001
@@ -159,10 +159,10 @@ patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,40AA4734,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Osamukura Picture Book]  
+//Cheats/Unlock All Osamukura Picture Book
 patch=1,EE,40AA4BEC,extended,00110001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Monster Picture Book]  
+//Cheats/Unlock All Monster Picture Book
 patch=1,EE,40AA3AD0,extended,00410001
 patch=1,EE,FFFFFFFF,extended,00000000

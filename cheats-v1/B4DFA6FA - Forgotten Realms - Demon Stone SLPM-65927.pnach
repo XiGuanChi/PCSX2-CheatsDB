@@ -1,24 +1,24 @@
-[Cheats/Max Gold 99999999] 
+//Cheats/Max Gold 99999999
 patch=1,EE,2050C084,extended,05F5E0FF
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,2026320C,extended,3C013F80
 patch=1,EE,20263210,extended,44810000
 patch=1,EE,20263208,extended,E460030C
 
-[Cheats/Max Hit Points Maintained] 
+//Cheats/Max Hit Points Maintained
 patch=1,EE,202631FC,extended,C4620310
 patch=1,EE,20263200,extended,E462030C
 patch=1,EE,2026320C,extended,46021003
 
-[Cheats/Infinite arrowes]  
+//Cheats/Infinite arrowes
 patch=1,EE,201A86F8,extended,00000000
 
-[Cheats/One Hit Kill] 
+//Cheats/One Hit Kill
 patch=1,EE,200C2020,extended,52200001
 patch=1,EE,200C2024,extended,24020000
 patch=1,EE,200C2028,extended,03E00008
 patch=1,EE,201AA7C4,extended,0C030808
 
-[Cheats/Unlock All Chapters] 
+//Cheats/Unlock All Chapters
 patch=1,EE,2024BB74,extended,24020001

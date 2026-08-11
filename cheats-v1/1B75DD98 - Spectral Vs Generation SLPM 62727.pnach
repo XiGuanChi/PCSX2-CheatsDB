@@ -1,12 +1,12 @@
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,211D10DC,extended,01F401F4
 
-[Cheats/2P Health 0 Press L2+R2] 
+//Cheats/2P Health 0 Press L2+R2
 patch=1,EE,D07C5D82,extended,0000FCFF
 patch=1,EE,211D121C,extended,00000000
 
-[Cheats/Test Menu After Logos Press Square to enter a sub-menu.] 
+//Cheats/Test Menu After Logos Press Square to enter a sub-menu.
 patch=1,EE,001B7DF0,extended,00000000
 
-[Cheats/Change Game Language USA] 
+//Cheats/Change Game Language USA
 patch=1,EE,007AEA24,extended,00000006

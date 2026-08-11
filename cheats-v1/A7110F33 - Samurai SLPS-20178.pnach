@@ -1,20 +1,20 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,108ECE28,extended,0000270F
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,10C17608,extended,000007CF
 
-[Cheats/Unlock All Reaching Endings] 
+//Cheats/Unlock All Reaching Endings
 patch=1,EE,008ED2C0,extended,0000003F
 
-[Cheats/+700 Attack Power Correction And Train Once] 
+//Cheats/+700 Attack Power Correction And Train Once
 patch=1,EE,20162CC8,extended,00000000
 patch=1,EE,20162CD0,extended,24037000
 
-[Cheats/+700 Defense Correction And Train Once] 
+//Cheats/+700 Defense Correction And Train Once
 patch=1,EE,20162CF0,extended,00000000
 patch=1,EE,20162CF8,extended,24037000
 
-[Cheats/+999 Stamina And Hardness 5 Correction And Train Once] 
+//Cheats/+999 Stamina And Hardness 5 Correction And Train Once
 patch=1,EE,20162D18,extended,24030004
 patch=1,EE,20162D1C,extended,A4830008

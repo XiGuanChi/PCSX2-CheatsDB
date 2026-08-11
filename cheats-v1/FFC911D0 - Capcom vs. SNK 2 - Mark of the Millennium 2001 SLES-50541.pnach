@@ -1,9 +1,9 @@
-[Cheats/Player 1 Infinite Health] 
+//Cheats/Player 1 Infinite Health
 patch=1,EE,10482744,extended,00001CCF
 
-[Cheats/2P HP 0] 
+//Cheats/2P HP 0
 patch=1,EE,00482D14,extended,00000000
 
-[Cheats/Unlock All Secrets] 
+//Cheats/Unlock All Secrets
 patch=1,EE,203f3390,extended,FFFFFFFF
 patch=1,EE,203f3394,extended,FFFFFFFF

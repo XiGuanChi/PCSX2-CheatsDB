@@ -1,10 +1,10 @@
-[Cheats/Max Money 999999] 
+//Cheats/Max Money 999999
 patch=1,EE,206CEAAC,extended,000F423F
 
-[Cheats/Suzuna's Infinite Health]  
+//Cheats/Suzuna's Infinite Health
 patch=1,EE,006CEAEA,extended,000000FF
 
-[Cheats/Max Exp, Stats And Ability] 
+//Cheats/Max Exp, Stats And Ability
 patch=1,EE,202F568C,extended,00000000
 patch=1,EE,206CEAB0,extended,00000064
 patch=1,EE,206CEAB4,extended,000F423F
@@ -13,54 +13,54 @@ patch=1,EE,206CEAC8,extended,000F423F
 patch=1,EE,106CEADE,extended,000003E8
 patch=1,EE,20234B6C,extended,10000038
 
-[Cheats/Stealth Change ON SELECT+Left OFF SELECT+Right If you are detected while stealth is off, stealth will be disabled until the detection status is resolved] 
+//Cheats/Stealth Change ON SELECT+Left OFF SELECT+Right If you are detected while stealth is off, stealth will be disabled until the detection status is resolved
 patch=1,EE,D03C5742,extended,0000FF7E
 patch=1,EE,20234B6C,extended,10000038
 patch=1,EE,D03C5742,extended,0000FFDE
 patch=1,EE,20234B6C,extended,12200038
 
-[Cheats/Diploma Information 11 having, with just the initiation] 
+//Cheats/Diploma Information 11 having, with just the initiation
 patch=1,EE,2030B70C,extended,10000083
 
-[Cheats/Ja Max Hidden Number When Stealth Is Activated] 
+//Cheats/Ja Max Hidden Number When Stealth Is Activated
 patch=1,EE,20278DC4,extended,00000000
 
-[Cheats/Unlock All Furoshiki]  
+//Cheats/Unlock All Furoshiki
 patch=1,EE,106CEAA4,extended,0000FFFF
 
-[Cheats/Unlock All Tenugui]  
+//Cheats/Unlock All Tenugui
 patch=1,EE,106CEABC,extended,0000FFFF
 
-[Cheats/Unlock All Knots] 
+//Cheats/Unlock All Knots
 patch=1,EE,106CEAC0,extended,0000FFFF
 
-[Cheats/Unlock All Wires] 
+//Cheats/Unlock All Wires
 patch=1,EE,106CEAD4,extended,000000FF
 
-[Cheats/Immediate Unlocking Wire Compatible With The Lock Is Required] 
+//Cheats/Immediate Unlocking Wire Compatible With The Lock Is Required
 patch=1,EE,202B4904,extended,100000B1
 
-[Cheats/Add A Pig Mask Without Completing The Collection] 
+//Cheats/Add A Pig Mask Without Completing The Collection
 patch=1,EE,201D3610,extended,00000000 Suzuna
 
-[Cheats/Suzuna's Medical Condition Does Not Get Worse Over Time] 
+//Cheats/Suzuna's Medical Condition Does Not Get Worse Over Time
 patch=1,EE,2014D60C,extended,00000000
 
-[Cheats/Great Points Increase Just By Spinning Wheels] 
+//Cheats/Great Points Increase Just By Spinning Wheels
 patch=1,EE,202901FC,extended,10000020
 
-[Cheats/Looking At Status there are 12 tool frames Save not reflected] 
+//Cheats/Looking At Status there are 12 tool frames Save not reflected
 patch=1,EE,20274548,extended,0809D159
 patch=1,EE,2027454C,extended,2401000C
 patch=1,EE,20274564,extended,AC410008
 patch=1,EE,20274568,extended,0809D154
 patch=1,EE,2027456C,extended,A201007C
 
-[Cheats/Max Elasticity When Carrying A Furoshiki Save not reflected] 
+//Cheats/Max Elasticity When Carrying A Furoshiki Save not reflected
 patch=1,EE,202BE3AC,extended,1000FFF9
 patch=1,EE,202BE394,extended,3C0143E1
 patch=1,EE,202BE398,extended,03E00008
 patch=1,EE,202BE39C,extended,AC410014
 
-[Cheats/Multi-stage jump possibility] 
+//Cheats/Multi-stage jump possibility
 patch=1,EE,201B5140,extended,00000000

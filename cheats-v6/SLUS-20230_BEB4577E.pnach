@@ -1,20 +1,20 @@
 gametitle=Max Payne SLUS-20230 BEB4577E
 
-[Infinite Health]
+//Infinite Health
 author=GamingDragon93
 patch=1,EE,203B0160,extended,3C0242F0
 patch=1,EE,203B0164,extended,AC82008C
 
-[infinite Ammo]
+//infinite Ammo
 author=GamingDragon93
 patch=1,EE,2036F2CC,extended,00000000
 
-[Infinite Bullet Time]
+//Infinite Bullet Time
 author=GamingDragon93
 patch=1,EE,20163A00,extended,00000000
 patch=1,EE,20163DB8,extended,00000000
 
-[Access All Levels]
+//Access All Levels
 author=GamingDragon93
 patch=1,EE,1014DA12,extended,00001000
 patch=1,EE,102D93EA,extended,00001000

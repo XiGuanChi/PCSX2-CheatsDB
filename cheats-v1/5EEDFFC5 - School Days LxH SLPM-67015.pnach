@@ -1,7 +1,7 @@
-[Cheats/Unlock All End List] 
+//Cheats/Unlock All End List
 patch=1,EE,2024EC80,extended,FFFFFFFF
 
-[Cheats/Hold Circle Over New Game For Chapter Select] 
+//Cheats/Hold Circle Over New Game For Chapter Select
 patch=1,EE,D024F282,extended,0000DFFF
 patch=1,EE,20142A04,extended,240202EC
 patch=1,EE,D024F282,extended,0000FFFF

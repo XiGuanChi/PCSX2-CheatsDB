@@ -1,26 +1,26 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,20993B00,extended,00980000
 
-[Cheats/Owner Max Friendship Level] 
+//Cheats/Owner Max Friendship Level
 patch=1,EE,201A08D0,extended,03E00008
 patch=1,EE,201A08D4,extended,24020064
 
-[Cheats/Trainer Max Friendship Level] 
+//Cheats/Trainer Max Friendship Level
 patch=1,EE,201C9AE0,extended,03E00008
 patch=1,EE,201C9AE4,extended,24020064
 
-[Cheats/Jockey Max Friendship Level] 
+//Cheats/Jockey Max Friendship Level
 patch=1,EE,20197500,extended,03E00008
 patch=1,EE,20197504,extended,24020064
 
-[Cheats/Ranch Max Friendship Level] 
+//Cheats/Ranch Max Friendship Level
 patch=1,EE,20187180,extended,03E00008
 patch=1,EE,20187184,extended,24020064
 
-[Cheats/Acquaintance Max Friendship Level] 
+//Cheats/Acquaintance Max Friendship Level
 patch=1,EE,201A4EF0,extended,03E00008
 patch=1,EE,201A4EF4,extended,24020064
 
-[Cheats/Game Speedup] 
+//Cheats/Game Speedup
 patch=1,EE,20459134,extended,00000000
 patch=1,EE,20459154,extended,00000000

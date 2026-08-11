@@ -1,44 +1,44 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2032D018,extended,0000251C
 patch=1,EE,2032D368,extended,00001D4C
 patch=1,EE,2032D6B8,extended,000032C8
 
-[Cheats/Infinite HP All Characters] 
+//Cheats/Infinite HP All Characters
 patch=1,EE,202325A0,extended,24100000
 
-[Cheats/High Power Camera One Hit KO] 
+//Cheats/High Power Camera One Hit KO
 patch=1,EE,2036F2B4,extended,447A0000
 
-[Cheats/Rei - Always 255 Flashes] 
+//Cheats/Rei - Always 255 Flashes
 patch=1,EE,0032D188,extended,000000FF
 
-[Cheats/Infinite Sacred Stone] 
+//Cheats/Infinite Sacred Stone
 patch=1,EE,203E523C,extended,447A0000
 
-[Cheats/Infinite All Film] 
+//Cheats/Infinite All Film
 patch=1,EE,201E9C20,extended,00000000
 
-[Cheats/All Items & Film x99] 
+//Cheats/All Items & Film x99
 patch=1,EE,40326CB0,extended,00040001
 patch=1,EE,00630063,extended,00000001
 patch=1,EE,10326CD2,extended,00000063
 
-[Cheats/Total Score] 
+//Cheats/Total Score
 patch=1,EE,20325278,extended,000F423F
 patch=1,EE,20421058,extended,000F423F
 
-[Cheats/Enable All Equipment] 
+//Cheats/Enable All Equipment
 patch=1,EE,203E52A4,extended,01010101
 patch=1,EE,203E52A8,extended,01010101
 patch=1,EE,003E52AC,extended,00000001
 
-[Cheats/Have All Files] 
+//Cheats/Have All Files
 patch=1,EE,00322ECF,extended,00000002
 patch=1,EE,40322ED0,extended,00050001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,00322EE5,extended,00000002
 
-[Cheats/Unlock All Other]  
+//Cheats/Unlock All Other
 patch=1,EE,00322EE5,extended,00000002
 patch=1,EE,10322EE6,extended,00000202
 patch=1,EE,40322EE9,extended,000A0001

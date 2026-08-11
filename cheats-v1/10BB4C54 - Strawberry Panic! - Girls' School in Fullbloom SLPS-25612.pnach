@@ -1,19 +1,19 @@
-[Cheats/Crear flag ON] 
+//Cheats/Crear flag ON
 patch=1,EE,01E45450,extended,00000001
 
-[Cheats/Unlock All CG] 
+//Cheats/Unlock All CG
 patch=1,EE,01E45450,extended,000000FF
 patch=1,EE,41E45470,extended,000F0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock CG and Scene Recollection] 
+//Cheats/Unlock CG and Scene Recollection
 patch=1,EE,2016741C,extended,0080402D
 patch=1,EE,20167424,extended,14600027
 patch=1,EE,20167438,extended,10000022
 patch=1,EE,20167470,extended,0100202D
 patch=1,EE,20167484,extended,1488FFE5
 
-[Cheats/Unlock All Strawberry Check] 
+//Cheats/Unlock All Strawberry Check
 patch=1,EE,200F8800,extended,34010009
 patch=1,EE,200F8804,extended,00350818
 patch=1,EE,200F8808,extended,0034082D

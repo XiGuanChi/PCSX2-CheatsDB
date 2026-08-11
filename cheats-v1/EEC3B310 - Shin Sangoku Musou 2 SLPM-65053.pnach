@@ -1,10 +1,10 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200F6008,extended,24035000
 patch=1,EE,200F600C,extended,A44301DE
 patch=1,EE,200F6010,extended,03E00008
 patch=1,EE,201780CC,extended,0C03D800
 
-[Cheats/Infinite Muso Gauge] 
+//Cheats/Infinite Muso Gauge
 patch=1,EE,200F6030,extended,845201E2
 patch=1,EE,200F6034,extended,00129100
 patch=1,EE,200F6038,extended,A45201E4
@@ -12,19 +12,19 @@ patch=1,EE,200F603C,extended,03E00008
 patch=1,EE,200F6040,extended,845201E2
 patch=1,EE,201780D4,extended,0C03D80C
 
-[Cheats/Max Arrows Number Possession]   
+//Cheats/Max Arrows Number Possession
 patch=1,EE,20178284,extended,24150063
 patch=1,EE,20178288,extended,A235000C
 
-[Cheats/Unlock All Sound Test]  
+//Cheats/Unlock All Sound Test
 patch=1,EE,204370B8,extended,FFFFFFFF
 patch=1,EE,104370BC,extended,000003FF
 
-[Cheats/Unlock All Movies]  
+//Cheats/Unlock All Movies
 patch=1,EE,204370C0,extended,FFFFFFFF
 patch=1,EE,204370C4,extended,FFFFFFFF
 
-[Cheats/Guards of all military commanders, number, class, title Max SLPM-66505] 
+//Cheats/Guards of all military commanders, number, class, title Max SLPM-66505
 patch=1,EE,40314140,extended,00290008
 patch=1,EE,03030000,extended,00000000
 patch=1,EE,40314144,extended,00290008
@@ -40,7 +40,7 @@ patch=1,EE,201D1B5C,extended,A4C80222
 patch=1,EE,201D1B9C,extended,24070063
 patch=1,EE,201D1BA0,extended,A4C70250
 
-[Cheats/All Treasures & Parameters +99 SLPM-66505] 
+//Cheats/All Treasures & Parameters +99 SLPM-66505
 patch=1,EE,20314648,extended,63016300
 patch=1,EE,2031464C,extended,63036302
 patch=1,EE,20314650,extended,63056304
@@ -55,7 +55,7 @@ patch=1,EE,20314670,extended,00150014
 patch=1,EE,20314674,extended,00170016
 patch=1,EE,10314678,extended,00000018
 
-[Cheats/All Treasures & Parameters Max SLPM-66505] 
+//Cheats/All Treasures & Parameters Max SLPM-66505
 patch=1,EE,20314648,extended,10011000
 patch=1,EE,2031464C,extended,3C033C02
 patch=1,EE,20314650,extended,28051404
@@ -70,29 +70,29 @@ patch=1,EE,20314670,extended,00150014
 patch=1,EE,20314674,extended,00170016
 patch=1,EE,10314678,extended,00000018
 
-[Cheats/All military commander state Max SLPM-66505] 
+//Cheats/All military commander state Max SLPM-66505
 patch=1,EE,40314128,extended,00290008
 patch=1,EE,015E01F4,extended,00000000
 patch=1,EE,4031412C,extended,00290008
 patch=1,EE,00009696,extended,00000000
 
-[Cheats/Unlock All Character Status Max SLPM-66505] 
+//Cheats/Unlock All Character Status Max SLPM-66505
 patch=1,EE,40314128,extended,00290008
 patch=1,EE,015E01F4,extended,00000000
 patch=1,EE,4031412C,extended,00290008
 patch=1,EE,00009696,extended,00000000
 
-[Cheats/Unlock All Guards Status Max SLPM-66505] 
+//Cheats/Unlock All Guards Status Max SLPM-66505
 patch=1,EE,40314140,extended,00290008
 patch=1,EE,03030000,extended,00000000
 patch=1,EE,40314144,extended,00290008
 patch=1,EE,03030303,extended,00000000
 
-[Cheats/Unlock All Characters, All Stages, All Options these are all unlockable with in-game button codes SLPM-66505] 
+//Cheats/Unlock All Characters, All Stages, All Options these are all unlockable with in-game button codes SLPM-66505
 patch=1,EE,40314EA0,extended,00190001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock Challenge Mode, VS Mode, All Characters Status Max SLPM-66505] 
+//Cheats/Unlock Challenge Mode, VS Mode, All Characters Status Max SLPM-66505
 patch=1,EE,40300820,extended,00290008
 patch=1,EE,01900190,extended,00000000
 patch=1,EE,40300824,extended,00290008

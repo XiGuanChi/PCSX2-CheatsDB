@@ -1,74 +1,74 @@
-[Cheats/Max Gold]  
+//Cheats/Max Gold
 patch=1,EE,20A53B6C,extended,0098967F
 
-[Cheats/Main Character Max HP 999]   
+//Cheats/Main Character Max HP 999
 patch=1,EE,20A53B7C,extended,0000270F
 
-[Cheats/Main Character Max SP 999] 
+//Cheats/Main Character Max SP 999
 patch=1,EE,20A53B7E,extended,000003E7
 
-[Cheats/Main Character Max Erosion Rate 0] 
+//Cheats/Main Character Max Erosion Rate 0
 patch=1,EE,20A52E3C,extended,00000000
 
-[Cheats/Main Character Max Experience Value] 
+//Cheats/Main Character Max Experience Value
 patch=1,EE,20A53B68,extended,010203E7
 
-[Cheats/Level 99] 
+//Cheats/Level 99
 patch=1,EE,10A53B66,extended,1CDE0063
 
-[Cheats/Total 99 Virus Cores] 
+//Cheats/Total 99 Virus Cores
 patch=1,EE,40A4D3CC,extended,00060001
 patch=1,EE,63636363,extended,00000000
 patch=1,EE,10A4D3E4,extended,00006363
 
-[Cheats/Total 99 Virus Cores And Petit Guso Food] 
+//Cheats/Total 99 Virus Cores And Petit Guso Food
 patch=1,EE,40A4D3CC,extended,000A0001
 patch=1,EE,63636363,extended,00000000
 patch=1,EE,10A4D3F4,extended,00006363
 
-[Cheats/Max Parameters] 
+//Cheats/Max Parameters
 patch=1,EE,40A53B80,extended,00080001
 patch=1,EE,03DE03DE,extended,00000000
 
-[Cheats/Max Favorability With Gifts] 
+//Cheats/Max Favorability With Gifts
 patch=1,EE,20174CE8,extended,10200001
 
-[Cheats/Skill Consumption SP 0] 
+//Cheats/Skill Consumption SP 0
 patch=1,EE,D051EF24,extended,00001021
 patch=1,EE,2051EF2C,extended,AC400028
 
-[Cheats/Unlock All Area Words] 
+//Cheats/Unlock All Area Words
 patch=1,EE,40A5190C,extended,000F0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Party Members Appear And Can Be Invited] 
+//Cheats/Unlock All Party Members Appear And Can Be Invited
 patch=1,EE,20A4E8F0,extended,0003FFFF
 patch=1,EE,20A4E8F4,extended,0003FFFF
 patch=1,EE,20A4E8FC,extended,0003FFFF
 
-[Cheats/Unlock All Wallpapers] 
+//Cheats/Unlock All Wallpapers
 patch=1,EE,20A4E908,extended,FFFFFFFF
 patch=1,EE,20A4E90C,extended,000FFFFF
 
-[Cheats/Unlock All Sounds] 
+//Cheats/Unlock All Sounds
 patch=1,EE,20A4E914,extended,FFFFFFFF
 patch=1,EE,20A4E918,extended,0007FFFF
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,20A4E920,extended,FFFFFFFF
 patch=1,EE,20A4E924,extended,FFFFFFFF
 patch=1,EE,20A4E928,extended,01FFFFFF
 
-[Cheats/Unlock Parody Mode Appears] 
+//Cheats/Unlock Parody Mode Appears
 patch=1,EE,A016EDF4,extended,24020001
 
-[Cheats/Unlock All Event Items] 
+//Cheats/Unlock All Event Items
 patch=1,EE,40A4D3F8,extended,00070001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,10A4D3F6,extended,00000101
 patch=1,EE,10A4D414,extended,00000101
 
-[Cheats/Unlock All Books Of Yaoyojana] 
+//Cheats/Unlock All Books Of Yaoyojana
 patch=1,EE,20A4D4DC,extended,01010100
 patch=1,EE,20A4D4E0,extended,01010101
 patch=1,EE,00A4D4E4,extended,00000001

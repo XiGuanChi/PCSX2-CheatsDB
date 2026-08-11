@@ -1,6 +1,6 @@
 gametitle=Army Men - Soldiers of Misfortune NTSC-U SLUS-21831 4BB40113
 
-[60 FPS]
+//60 FPS
 author=GamingDragon93
 description=Still missing cam and crosshair speed.
 patch=1,EE,001D7940,word,2C420000 //2C420001

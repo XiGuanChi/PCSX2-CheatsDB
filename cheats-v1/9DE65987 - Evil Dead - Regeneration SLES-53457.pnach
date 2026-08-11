@@ -1,19 +1,19 @@
-[Cheats/Infinite Health Ash] 
+//Cheats/Infinite Health Ash
 patch=1,EE,204DDDEC,extended,84820054
 patch=1,EE,204DDDF4,extended,A4820052
 
-[Cheats/Infinite Health Sam] 
+//Cheats/Infinite Health Sam
 patch=1,EE,204DE1AC,extended,86220054
 patch=1,EE,204DE1B4,extended,A6220052
 
-[Cheats/infinite Energy] 
+//Cheats/infinite Energy
 patch=1,EE,204dddf4,extended,3c014280
 patch=1,EE,204dddf8,extended,a4820054
 
-[Cheats/Skull Always Shines] 
+//Cheats/Skull Always Shines
 patch=1,EE,204ddec4,extended,00000000
 
-[Cheats/1 Hit Kill] 
+//Cheats/1 Hit Kill
 patch=1,EE,200FFF1C,extended,080EF1C4
 patch=1,EE,203BC708,extended,0803FFC0
 patch=1,EE,200FFF00,extended,24010001
@@ -23,7 +23,7 @@ patch=1,EE,200FFF0C,extended,A4810056
 patch=1,EE,200FFF10,extended,A4810058
 patch=1,EE,200FFF18,extended,90A20069
 
-[Cheats/Unlock all Movies And Extras NEEDS A SAVEGAME] 
+//Cheats/Unlock all Movies And Extras NEEDS A SAVEGAME
 patch=1,EE,006EB63C,extended,00000000
 patch=1,EE,006EB63D,extended,00000000
 patch=1,EE,006EB63E,extended,00000000
@@ -77,6 +77,6 @@ patch=1,EE,006EB66D,extended,00000000
 patch=1,EE,006EB66E,extended,00000000
 patch=1,EE,006EB66F,extended,00000000
 
-[Cheats/Unlock All Levels NEEDS A SAVEGAME] 
+//Cheats/Unlock All Levels NEEDS A SAVEGAME
 patch=1,EE,006EB618,extended,00000009
 

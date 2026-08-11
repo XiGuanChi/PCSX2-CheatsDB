@@ -1,17 +1,17 @@
-[Cheats/Unlock Difficulty Strongest]  
+//Cheats/Unlock Difficulty Strongest
 patch=1,EE,01E3B4B8,extended,00000001
 
-[Cheats/Unlock All Competition Stages]  
+//Cheats/Unlock All Competition Stages
 patch=1,EE,01E3B4BC,extended,0000007F
 
-[Cheats/Unlock All Gallery And Hidden Characters]  
+//Cheats/Unlock All Gallery And Hidden Characters
 patch=1,EE,21E3B4C4,extended,FFFFFFFF
 patch=1,EE,11E3B4C8,extended,0000FFFF
 
-[Cheats/Unlock All Card Collection]  
+//Cheats/Unlock All Card Collection
 patch=1,EE,21E3B4FC,extended,FFFFFFFF
 patch=1,EE,11E3B500,extended,0000FFFF
 
-[Cheats/Unlock All Hidden Characters Costumes, Gallery And Ending] 
+//Cheats/Unlock All Hidden Characters Costumes, Gallery And Ending
 patch=1,EE,41E3B504,extended,00100010
 patch=1,EE,0000FFFF,extended,00000000

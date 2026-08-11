@@ -1,10 +1,10 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,20142F60,extended,3447E0FF
 
-[Cheats/After combat experience value +1000] 
+//Cheats/After combat experience value +1000
 patch=1,EE,202B0928,extended,00000000
 
-[Cheats/Max Health Energy 255, Genius and Tsuyoun Learning] 
+//Cheats/Max Health Energy 255, Genius and Tsuyoun Learning
 patch=1,EE,20148844,extended,0803D400
 patch=1,EE,200F5000,extended,24030003
 patch=1,EE,200F5004,extended,AE230844
@@ -15,14 +15,14 @@ patch=1,EE,200F5014,extended,AE230004
 patch=1,EE,200F5018,extended,08052213
 patch=1,EE,200F501C,extended,AE230044
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2029B8A0,extended,00401021
 patch=1,EE,2029B8DC,extended,00401021
 
-[Cheats/Can be strengthened even without parts with weapon reinforcement modification] 
+//Cheats/Can be strengthened even without parts with weapon reinforcement modification
 patch=1,EE,2034DB58,extended,00000000
 
-[Cheats/Main character required code Normal part Only valid for player characters when moving. If there is no effect, try switching scenes by calling up the status screen or moving buildings. Status may increase or decrease due to item correction.The codes below is used in conjunction with the required hero code.] 
+//Cheats/Main character required code Normal part Only valid for player characters when moving. If there is no effect, try switching scenes by calling up the status screen or moving buildings. Status may increase or decrease due to item correction.The codes below is used in conjunction with the required hero code.
 patch=1,EE,D04A0550,extended,00001EA0
 patch=1,EE,204A055C,extended,0C03E000
 patch=1,EE,D04A0550,extended,00001EA0 
@@ -30,53 +30,53 @@ patch=1,EE,204A0560,extended,240100FF
 patch=1,EE,200F8400,extended,0240202D 
 patch=1,EE,200F8404,extended,0807FF90
 
-[Cheats/Main character Max Health 255] 
+//Cheats/Main character Max Health 255
 patch=1,EE,200F8030,extended,A0810144
 patch=1,EE,200F8034,extended,A081FD30
 
-[Cheats/Main Character Max Energy 255] 
+//Cheats/Main Character Max Energy 255
 patch=1,EE,200F8038,extended,A0810184
 patch=1,EE,200F803C,extended,A081FD70
 
-[Cheats/Main Character Current Health 255] 
+//Cheats/Main Character Current Health 255
 patch=1,EE,200F8008,extended,A081FD24
 
-[Cheats/Main Character Current Energy 255]  
+//Cheats/Main Character Current Energy 255
 patch=1,EE,200F800C,extended,A081FD64
 
-[Cheats/Main Character Morale 255]  
+//Cheats/Main Character Morale 255
 patch=1,EE,200F8010,extended,A081FF84
 
-[Cheats/Main Character Momentum 255]  
+//Cheats/Main Character Momentum 255
 patch=1,EE,200F8014,extended,A081FDA4
 
-[Cheats/Main Character Military 255]  
+//Cheats/Main Character Military 255
 patch=1,EE,200F8018,extended,A081FDE4
 
-[Cheats/Main Character World 255]  
+//Cheats/Main Character World 255
 patch=1,EE,200F801C,extended,A081FE24
 
-[Cheats/Main Character Dexterity 255] 
+//Cheats/Main Character Dexterity 255
 patch=1,EE,200F802C,extended,A081FF44
 
-[Cheats/Speaking Power 9,999,999] 
+//Cheats/Speaking Power 9,999,999
 patch=1,EE,200F8200,extended,3C010098
 patch=1,EE,200F8204,extended,3421967F
 patch=1,EE,200F8208,extended,AC810004
 
-[Cheats/Money in Hand 99,999,999] 
+//Cheats/Money in Hand 99,999,999
 patch=1,EE,200F820C,extended,3C0105F5
 patch=1,EE,200F8210,extended,3421E0FF
 patch=1,EE,200F8214,extended,AC8101C4
 
-[Cheats/Total number of defeats: 9,999] 
+//Cheats/Total number of defeats: 9,999
 patch=1,EE,200F8218,extended,2401270F
 patch=1,EE,200F821C,extended,A48100C4
 
-[Cheats/Unlock Scenario from the initial & cast]  
+//Cheats/Unlock Scenario from the initial & cast
 patch=1,EE,201AC6BC,extended,AE3F0124
 
-[Cheats/Unlock Ese Clear Data] 
+//Cheats/Unlock Ese Clear Data
 patch=1,EE,201469A8,extended,24020001
 patch=1,EE,201469B8,extended,24020001
 patch=1,EE,20158068,extended,54000003
@@ -84,7 +84,7 @@ patch=1,EE,20158144,extended,54000003
 patch=1,EE,201581F8,extended,54000003
 patch=1,EE,2025D588,extended,0C051A68
 
-[Cheats/Debug Mode with Start Button during Free Part] 
+//Cheats/Debug Mode with Start Button during Free Part
 patch=1,EE,D051E568,extended,00006398
 patch=1,EE,2051E568,extended,0C03DD40
 patch=1,EE,200F7500,extended,8F848C20

@@ -1,24 +1,24 @@
-[Cheats/Infinite Health]
+//Cheats/Infinite Health
 patch=1,EE,200FFF00,extended,3C0142C8
 patch=1,EE,200FFF04,extended,AC6104B8
 patch=1,EE,200FFF08,extended,C46004B8
 patch=1,EE,200FFF0C,extended,08090271
 patch=1,EE,202409C0,extended,0803FFC0
 
-[Cheats/Infinite Cash] 
+//Cheats/Infinite Cash
 patch=1,EE,204090FC,extended,05F5E0FF
 patch=1,EE,20409100,extended,05F5E0FF
 
-[Cheats/Infinite Run] 
+//Cheats/Infinite Run
 patch=1,EE,20349058,extended,00000000
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,202A2EF0,extended,00000000
 patch=1,EE,202A2E8C,extended,00000000
 
-[Cheats/No Wanted Level] 
+//Cheats/No Wanted Level
 patch=1,EE,202F4AB8,extended,24030000
 
-[Cheats/Press Up To Disable Mission Timer] 
+//Cheats/Press Up To Disable Mission Timer
 patch=1,EE,D060BAC2,extended,0000FFEF
 patch=1,EE,202E4118,extended,00000000

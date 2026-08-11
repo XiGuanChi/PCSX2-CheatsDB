@@ -1,47 +1,47 @@
-[Cheats/Max Points Money] 
+//Cheats/Max Points Money
 patch=1,EE,2089555C,extended,0000270F
 
-[Cheats/Max Score In Game]  
+//Cheats/Max Score In Game
 patch=1,EE,202ACAE0,extended,05F5E0FF
 
-[Cheats/Never Any Garbage For 1P] 
+//Cheats/Never Any Garbage For 1P
 patch=1,EE,202ACB0C,extended,00000000
 patch=1,EE,202ACB1C,extended,00000000
 
-[Cheats/Next Combo Sends Massive Garbage Press R2] 
+//Cheats/Next Combo Sends Massive Garbage Press R2
 patch=1,EE,D02687C2,extended,0000FEFF
 patch=1,EE,202ACAF4,extended,000FFFFF
 
-[Cheats/Unlock All Books Save your game with this code on] 
+//Cheats/Unlock All Books Save your game with this code on
 patch=1,EE,40395400,extended,000C0001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Gallery Save your game with this code on]  
+//Cheats/Unlock All Gallery Save your game with this code on
 patch=1,EE,403954A8,extended,00030001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Items In Museum  Save your game with this code on] 
+//Cheats/Unlock All Items In Museum  Save your game with this code on
 patch=1,EE,40395204,extended,00120001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Items In Shop  Save your game with this code on] 
+//Cheats/Unlock All Items In Shop  Save your game with this code on
 patch=1,EE,4039524C,extended,00130001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All MiniGames Save your game with this code on]
+//Cheats/Unlock All MiniGames Save your game with this code on
 patch=1,EE,4039549C,extended,00020001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,103954A4,extended,00000101
 
-[Cheats/Unlock All Movies Save your game with this code on] 
+//Cheats/Unlock All Movies Save your game with this code on
 patch=1,EE,40395430,extended,00120001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Music Save your game with this code on] 
+//Cheats/Unlock All Music Save your game with this code on
 patch=1,EE,40395478,extended,00090001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Cleared Tower Save your game with this code on]  
+//Cheats/Cleared Tower Save your game with this code on
 patch=1,EE,003955AC,extended,000000FF
 
 [Cheats/L1+Circle in Town Map For Debug Menu Press R1 to return Return to town map.Circle Cross button: Course clear flag Trigger gallery flags on - off. These flags will let you view all items, photos, music, etc. if you set these all on in the gallery.D-Pad Up Down Button: Passed tower numberTower floor 0 passed.Change the tower number. It's unclear how this works.

@@ -1,8 +1,8 @@
-[Cheats/Max Money The Kyoto Funds 5000] 
+//Cheats/Max Money The Kyoto Funds 5000
 patch=1,EE,206F1C78,extended,37E08000
 patch=1,EE,206F1C7C,extended,0011C379
 
-[Cheats/Unlock All Checkpoints] 
+//Cheats/Unlock All Checkpoints
 patch=1,EE,207B6340,extended,02020202
 patch=1,EE,207B6344,extended,02020202
 patch=1,EE,107B6348,extended,00000202

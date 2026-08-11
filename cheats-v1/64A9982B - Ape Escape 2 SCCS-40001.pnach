@@ -1,20 +1,20 @@
-[Cheats/Infinite Lives] 
+//Cheats/Infinite Lives
 patch=1,EE,203F62E8,extended,00000009
 
-[Cheats/Infinite Cookies] 
+//Cheats/Infinite Cookies
 patch=1,EE,203F62EC,extended,00000032
 
-[Cheats/Max Gold Coins] 
+//Cheats/Max Gold Coins
 patch=1,EE,203F62F0,extended,000003E7
 
-[Cheats/Unlock All Stages] 
+//Cheats/Unlock All Stages
 patch=1,EE,203F62F4,extended,0000001C
 
-[Cheats/Unlock All Stages Cleared] 
+//Cheats/Unlock All Stages Cleared
 patch=1,EE,203F62F8,extended,0000001C
 
-[Cheats/Unlock All Standard Gadgets] 
+//Cheats/Unlock All Standard Gadgets
 patch=1,EE,203F62FC,extended,38F878DD
 
-[Cheats/Unlock All MiniGames] 
+//Cheats/Unlock All MiniGames
 patch=1,EE,203C05F4,extended,3DF979C7

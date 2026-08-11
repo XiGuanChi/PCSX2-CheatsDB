@@ -1,45 +1,45 @@
-[Cheats/Action Codes Infinite Health] 
+//Cheats/Action Codes Infinite Health
 patch=1,EE,200C0220,extended,8C410008
 patch=1,EE,200C0224,extended,0807AF0C
 patch=1,EE,200C0228,extended,AC410000
 patch=1,EE,201DC1F0,extended,0C030088
 
-[Cheats/Action Codes Infinite Ammo] 
+//Cheats/Action Codes Infinite Ammo
 patch=1,EE,2017CB9C,extended,00000000
 
-[Cheats/Driving Codes Infinite Health] 
+//Cheats/Driving Codes Infinite Health
 patch=1,EE,200C0240,extended,8C8104F4
 patch=1,EE,200C0244,extended,00600008
 patch=1,EE,200C0248,extended,AC8104F8
 patch=1,EE,202193A8,extended,0C030090
 
-[Cheats/Driving Codes Infinite Ammo] 
+//Cheats/Driving Codes Infinite Ammo
 patch=1,EE,2021D2BC,extended,00000000
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,40A82250,extended,00120014
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2017F284,extended,00000000
 
-[Cheats/Unlock All Villains] 
+//Cheats/Unlock All Villains
 patch=1,EE,20A7D358,extended,FFFFFFFF
 
-[Cheats/Unlock All Media and Concepts] 
+//Cheats/Unlock All Media and Concepts
 patch=1,EE,20A82864,extended,FFFFFFFF
 
-[Cheats/Unlock All Upgrades] 
+//Cheats/Unlock All Upgrades
 patch=1,EE,20A821A0,extended,FFFFFFFF
 patch=1,EE,20A821A4,extended,FFFFFFFF
 
-[Cheats/Unlock All Schematics] 
+//Cheats/Unlock All Schematics
 patch=1,EE,20A821A8,extended,0F030F01
 patch=1,EE,20A821AC,extended,030F070F
 patch=1,EE,20A821B0,extended,0F0F000F
 patch=1,EE,20A821B4,extended,01010F03
 patch=1,EE,20A821B8,extended,00000100
 
-[Cheats/Unlock All Awards]
+//Cheats/Unlock All Awards
 patch=1,EE,40A82254,extended,00120050
 patch=1,EE,0000000F,extended,00000000

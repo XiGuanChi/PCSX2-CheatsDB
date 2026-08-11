@@ -1,8 +1,8 @@
-[Cheats/Unlock All Data Clearing Stage 1 and saving it will have an effect] 
+//Cheats/Unlock All Data Clearing Stage 1 and saving it will have an effect
 patch=1,EE,40164A60,extended,00DA0001
 patch=1,EE,00010001,extended,00000000
 
-[Cheats/Unlock All Movies Clearing Stage 1 and saving it will have an effect] 
+//Cheats/Unlock All Movies Clearing Stage 1 and saving it will have an effect
 patch=1,EE,40164DBC,extended,002E0001
 patch=1,EE,00010001,extended,00000000
 

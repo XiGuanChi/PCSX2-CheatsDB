@@ -1,10 +1,10 @@
-[Cheats/Max Possession money]
+//Cheats/Max Possession money
 patch=1,EE,20238390,extended,0098967F
 
-[Cheats/Opponents Don't Move]  
+//Cheats/Opponents Don't Move
 patch=1,EE,20166D8C,extended,00000000
 
-[Cheats/Unlock All parts] 
+//Cheats/Unlock All parts
 patch=1,EE,1021789E,extended,0000FFFF
 patch=1,EE,202178A0,extended,FFFFFFFF
 patch=1,EE,202178A4,extended,FFFFFFFF
@@ -16,11 +16,11 @@ patch=1,EE,202178E4,extended,FFFFFFFF
 patch=1,EE,202178E8,extended,FFFFFFFF
 patch=1,EE,002178EC,extended,000000FF
 
-[Cheats/Press Triangle And Start To Open Debug Menu] 
+//Cheats/Press Triangle And Start To Open Debug Menu
 patch=1,EE,00238480,extended,00000001
 
-[Cheats/Unlock Main Debug ON] 
+//Cheats/Unlock Main Debug ON
 patch=1,EE,00217862,extended,00000060
 
-[Cheats/Unlock Special Menu In Race press SELECT during race to access special menu] 
+//Cheats/Unlock Special Menu In Race press SELECT during race to access special menu
 patch=1,EE,00217861,extended,000000A0

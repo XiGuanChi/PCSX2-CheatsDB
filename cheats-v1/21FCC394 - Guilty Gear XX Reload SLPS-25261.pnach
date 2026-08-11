@@ -1,21 +1,21 @@
-[Cheats/Infinite HP P1] 
+//Cheats/Infinite HP P1
 patch=1,EE,10292A90,extended,00002710
 
-[Cheats/Max PSYCHEBURST Gauge P1]    
+//Cheats/Max PSYCHEBURST Gauge P1
 patch=1,EE,10292B68,extended,00003A98
 
-[Cheats/Unlock All Characters]  
+//Cheats/Unlock All Characters
 patch=1,EE,40306CD8,extended,00130001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Mission Gallery] 
+//Cheats/Unlock All Mission Gallery
 patch=1,EE,403087AC,extended,00080001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Missions Complete]
+//Cheats/Unlock All Missions Complete
 patch=1,EE,403087CC,extended,00320001
 patch=1,EE,00010001,extended,00000000
 
-[Cheats/Unlock All Arcade Gallery]   
+//Cheats/Unlock All Arcade Gallery
 patch=1,EE,403088BC,extended,00060001
 patch=1,EE,01010101,extended,00000000

@@ -1,53 +1,53 @@
-[Cheats/Infinite Gold] 
+//Cheats/Infinite Gold
 patch=1,EE,208E72DC,extended,05F00000
 patch=1,EE,208E72E0,extended,05F00000
 
-[Cheats/Infinite Health & Magic] 
+//Cheats/Infinite Health & Magic
 patch=1,EE,202D4F80,extended,2416270F
 patch=1,EE,202D506C,extended,A6360000
 patch=1,EE,202D509C,extended,A6360006
 
-[Cheats/Soki Infinite LP] 
+//Cheats/Soki Infinite LP
 patch=1,EE,10939c00,extended,0000270f
 patch=1,EE,10939c02,extended,0000270f
 
-[Cheats/Soki Infinite MP] 
+//Cheats/Soki Infinite MP
 patch=1,EE,10939c06,extended,0000270f
 patch=1,EE,10939c08,extended,0000270f
 
-[Cheats/Jubei Infinite LP] 
+//Cheats/Jubei Infinite LP
 patch=1,EE,10939c64,extended,0000270f
 patch=1,EE,10939c66,extended,0000270f
 
-[Cheats/Jubei Infinite MP] 
+//Cheats/Jubei Infinite MP
 patch=1,EE,10939c6a,extended,0000270f
 patch=1,EE,10939c6c,extended,0000270f
 
-[Cheats/Ohatsu Infinite LP] 
+//Cheats/Ohatsu Infinite LP
 patch=1,EE,10939CC8,extended,0000270f
 patch=1,EE,10939CCA,extended,0000270f
 
-[Cheats/Ohatsu Infinite MP] 
+//Cheats/Ohatsu Infinite MP
 patch=1,EE,10939CCE,extended,0000270f
 patch=1,EE,10939CD0,extended,0000270f
 
-[Cheats/Roberto Infinite LP] 
+//Cheats/Roberto Infinite LP
 patch=1,EE,10939D2C,extended,0000270f
 patch=1,EE,10939D2E,extended,0000270f
 
-[Cheats/Roberto Infinite MP] 
+//Cheats/Roberto Infinite MP
 patch=1,EE,10939D32,extended,0000270f
 patch=1,EE,10939D34,extended,0000270f
 
-[Cheats/Tenkai Infinite LP] 
+//Cheats/Tenkai Infinite LP
 patch=1,EE,10939D90,extended,0000270f
 patch=1,EE,10939D92,extended,0000270f
 
-[Cheats/Tenkai Infinite MP] 
+//Cheats/Tenkai Infinite MP
 patch=1,EE,10939D96,extended,0000270f
 patch=1,EE,10939D98,extended,0000270f
 
-[Cheats/Unlock All Special Functions] 
+//Cheats/Unlock All Special Functions
 patch=1,EE,2092C8E8,extended,001003E0
 patch=1,EE,2092C900,extended,004E4B09
 patch=1,EE,2092C904,extended,00511AE2
@@ -61,7 +61,7 @@ patch=1,EE,2093FA4C,extended,02020202
 patch=1,EE,2093FA50,extended,02020202
 patch=1,EE,2093FA54,extended,02020202
 
-[Cheats/Unlock All Special Content] 
+//Cheats/Unlock All Special Content
 patch=1,EE,2092C8E8,extended,001003E0
 patch=1,EE,2092C900,extended,004E4B09
 patch=1,EE,2092C904,extended,00511AE2

@@ -1,4 +1,4 @@
-[Cheats/In Battle Infinite Health & Concentration Gauge] 
+//Cheats/In Battle Infinite Health & Concentration Gauge
 patch=1,EE,200F4000,extended,8CA60000
 patch=1,EE,200F4004,extended,ACA60004
 patch=1,EE,200F4008,extended,8CA60008 
@@ -7,45 +7,45 @@ patch=1,EE,200F4010,extended,03E00008
 patch=1,EE,200F4014,extended,00860018
 patch=1,EE,2022D170,extended,0C03D000
 
-[Cheats/Max Skill Point When Defeating An Enemy] 
+//Cheats/Max Skill Point When Defeating An Enemy
 patch=1,EE,202E5328,extended,00000000
 
-[Cheats/Max Level When Defeating An Enemy] 
+//Cheats/Max Level When Defeating An Enemy
 patch=1,EE,20142FC8,extended,00000000
 
-[Cheats/One Fight at the time of fighting 999 combo] 
+//Cheats/One Fight at the time of fighting 999 combo
 patch=1,EE,2014453C,extended,00003000
 
-[Cheats/Blow Death] 
+//Cheats/Blow Death
 patch=1,EE,2015DD04,extended,8E2200B4
 
-[Cheats/Press START+UP Exp 9999] 
+//Cheats/Press START+UP Exp 9999
 patch=1,EE,D056DD20,extended,00000018
 patch=1,EE,20ED613C,extended,0000270F
 
-[Cheats/Challenge Mode Minigame Time Stop] 
+//Cheats/Challenge Mode Minigame Time Stop
 patch=1,EE,203EBFC4,extended,46001046
 patch=1,EE,203EC284,extended,46001046
 
-[Cheats/Sniper Mission Infinite Health] 
+//Cheats/Sniper Mission Infinite Health
 patch=1,EE,20253B4C,extended,8E8104D0
 patch=1,EE,20253B50,extended,AE8104D8
 
-[Cheats/Sniper Mission Infinite Health Partner] 
+//Cheats/Sniper Mission Infinite Health Partner
 patch=1,EE,20253B84,extended,00540821
 patch=1,EE,20253B88,extended,C420095C
 patch=1,EE,20253BA8,extended,24020064
 patch=1,EE,20253BAC,extended,AC22095C
 
-[Cheats/Sniper Mission Infinite Ammo] 
+//Cheats/Sniper Mission Infinite Ammo
 patch=1,EE,20251B10,extended,00000000
 
-[Cheats/Sniper Mission Infinite Time] 
+//Cheats/Sniper Mission Infinite Time
 patch=1,EE,20251140,extended,00000000
 patch=1,EE,20465D14,extended,00000000
 
-[Cheats/Stigray Mission Infinite] 
+//Cheats/Stigray Mission Infinite
 patch=1,EE,202876DC,extended,E60121C4
 
-[Cheats/Unlock All Movies Can Be Viewed save not reflected] 
+//Cheats/Unlock All Movies Can Be Viewed save not reflected
 patch=1,EE,203786D0,extended,2407FFFF

@@ -1,6 +1,6 @@
 gametitle=Okami NTSC-J SLPM-66375 C5DEFEA0
 
-[Disable post-processing effect]
+//Disable post-processing effect
 author=GamingDragon93
 description=Disable all post-processing effect.
 patch=1,EE,0018F264,word,00000000 //0C061558

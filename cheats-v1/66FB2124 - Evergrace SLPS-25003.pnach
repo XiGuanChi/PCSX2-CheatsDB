@@ -1,14 +1,14 @@
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,102F128C,extended,0000FFFF
 
-[Cheats/Infinite HP]  
+//Cheats/Infinite HP
 patch=1,EE,102F1F80,extended,0000270F
 
-[Cheats/Infinite Power] 
+//Cheats/Infinite Power
 patch=1,EE,102F1F86,extended,0000270F
 
-[Cheats/Max Palmyra Piece Uterard] 
+//Cheats/Max Palmyra Piece Uterard
 patch=1,EE,102F128C,extended,0000270F
 
-[Cheats/Max Palmyra Piece Sharuami] 
+//Cheats/Max Palmyra Piece Sharuami
 patch=1,EE,102F1290,extended,0000270F

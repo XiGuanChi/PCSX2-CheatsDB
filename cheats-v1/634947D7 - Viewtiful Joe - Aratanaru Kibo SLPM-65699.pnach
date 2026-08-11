@@ -1,40 +1,40 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2178FA50,extended,000F000F
 
-[Cheats/Infinite VFX Gauge]  
+//Cheats/Infinite VFX Gauge
 patch=1,EE,2178FA4C,extended,06000600
 
-[Cheats/Infinite Lives] 
+//Cheats/Infinite Lives
 patch=1,EE,2178FA5E,extended,00000063
 
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,201F7E8C,extended,100000DC
 
-[Cheats/Max V-Point]  
+//Cheats/Max V-Point
 patch=1,EE,2178FA64,extended,000F423F
 
-[Cheats/Max Number of People Resurrection Again] 
+//Cheats/Max Number of People Resurrection Again
 patch=1,EE,0178FA5E,extended,00000063
 
-[Cheats/Max Boomerang Round Trip After Purchase] 
+//Cheats/Max Boomerang Round Trip After Purchase
 patch=1,EE,0178FA68,extended,00000063
 
-[Cheats/Max Shocking Pink After Purchase] 
+//Cheats/Max Shocking Pink After Purchase
 patch=1,EE,0178FA6A,extended,00000063
 
-[Cheats/Possessing All Equipment] 
+//Cheats/Possessing All Equipment
 patch=1,EE,0178FA5C,extended,00000002
 patch=1,EE,1178FA60,extended,00007FFF
 
-[Cheats/Always Fire Attribute] 
+//Cheats/Always Fire Attribute
 patch=1,EE,117F983C,extended,00007FFF
 
-[Cheats/Dante Continuous Fire Effective After Purchasing Moresan Enough] 
+//Cheats/Dante Continuous Fire Effective After Purchasing Moresan Enough
 patch=1,EE,017F9CCF,extended,00000000
 
-[Cheats/Multi-Stage Jump] 
+//Cheats/Multi-Stage Jump
 patch=1,EE,201FC1EC,extended,00000000
 patch=1,EE,201FC050,extended,3E420000
 
-[Cheats/Unlock All Extras] 
+//Cheats/Unlock All Extras
 patch=1,EE,2178FA38,extended,0000FFFF

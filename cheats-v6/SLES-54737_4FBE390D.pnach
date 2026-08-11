@@ -1,12 +1,12 @@
 gametitle=Disney/Pixar Ratatouille PAL-R SLES-54737 4FBE390D
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,003FD718,word,84852610
 patch=0,EE,0052C638,word,24020000
 
-[480p Mode]
+//480p Mode
 author=GamingDragon93
 description=SDTV 480p mode at start.
 patch=0,EE,003FD718,word,84852610

@@ -1,4 +1,4 @@
-[Cheats/Health & Digimeter Codes Activation Code Must Be On] 
+//Cheats/Health & Digimeter Codes Activation Code Must Be On
 patch=1,EE,200C0000,extended,0080B02D
 patch=1,EE,200C0004,extended,00503023
 patch=1,EE,200C0008,extended,8E030000
@@ -12,28 +12,28 @@ patch=1,EE,200C0054,extended,8E03000C
 patch=1,EE,200C0068,extended,03E00008
 patch=1,EE,20192858,extended,0C030000
 
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,200C000C,extended,3C0142C8
 patch=1,EE,200C0010,extended,AC61023C
 
-[Cheats/Infinite Digimeter Player 1] 
+//Cheats/Infinite Digimeter Player 1
 patch=1,EE,200C0014,extended,3C0142C8
 patch=1,EE,200C0018,extended,AC610240
 
-[Cheats/No Health Player 2] 
+//Cheats/No Health Player 2
 patch=1,EE,200C0020,extended,3C013000
 patch=1,EE,200C0024,extended,AC61023C
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,4053CD04,extended,00080001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Brawl Types] 
+//Cheats/Unlock All Brawl Types
 patch=1,EE,4053CD2C,extended,00070001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock Arena Ice Palace] 
+//Cheats/Unlock Arena Ice Palace
 patch=1,EE,2053CD24,extended,00000001
 
-[Cheats/Unlock Arena Chaos Wasteland] 
+//Cheats/Unlock Arena Chaos Wasteland
 patch=1,EE,2053CD28,extended,00000001

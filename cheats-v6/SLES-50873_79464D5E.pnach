@@ -1,13 +1,13 @@
 gametitle=Reign of Fire PAL-M SLES-50873 79464D5E
 
-[50/60 FPS]
+//50/60 FPS
 author=GamingDragon93
 description=Might need EE Overclock.
 patch=1,EE,00265C70,word,00000001 //00000002
 patch=1,EE,00140A44,word,2402003C //2402001E
 patch=1,EE,00140A50,word,24020032 //24020019
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC Mode at start.
 patch=1,EE,0012E2F8,word,A38486F0 //938486F0

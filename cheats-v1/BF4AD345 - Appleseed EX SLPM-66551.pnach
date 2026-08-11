@@ -1,7 +1,7 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,203C1CD4,extended,0000C350
 
-[Cheats/Player Invincible ON SELECT+L2 OFF SELECT+R2] 
+//Cheats/Player Invincible ON SELECT+L2 OFF SELECT+R2
 patch=1,EE,D0435342,extended,0000FEFE
 patch=1,EE,202097BC,extended,A6010148
 patch=1,EE,D0435342,extended,0000FEFE
@@ -12,66 +12,66 @@ patch=1,EE,D0435342,extended,0000FDFE
 patch=1,EE,202097C4,extended,00000000
 patch=1,EE,202097B0,extended,24014000
 
-[Cheats/Infinite Health Mission 1] 
+//Cheats/Infinite Health Mission 1
 patch=1,EE,210F1012,extended,0000437F
 
-[Cheats/Infinite Health Mission 2-1] 
+//Cheats/Infinite Health Mission 2-1
 patch=1,EE,2116DE12,extended,0000437F
 
-[Cheats/Infinite Health Mission 2-2] 
+//Cheats/Infinite Health Mission 2-2
 patch=1,EE,2116C192,extended,0000437F
 
-[Cheats/Infinite Health Mission 2-3] 
+//Cheats/Infinite Health Mission 2-3
 patch=1,EE,21173A12,extended,0000437F
 
-[Cheats/Infinite Health Mission 2-4 Boss] 
+//Cheats/Infinite Health Mission 2-4 Boss
 patch=1,EE,21199412,extended,0000437F
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,2075043A,extended,00000014
 
-[Cheats/Infinite Ammo in magazine] 
+//Cheats/Infinite Ammo in magazine
 patch=1,EE,20131BCC,extended,08081A89
 patch=1,EE,20131BD0,extended,3C020063
 patch=1,EE,20206A24,extended,ACA20014
 patch=1,EE,20206A28,extended,0804C6F5
 patch=1,EE,20206A2C,extended,AC820014
 
-[Cheats/Infinite Grenades]  
+//Cheats/Infinite Grenades
 patch=1,EE,20165708,extended,00000000
 
-[Cheats/Maintain Max Player Durability] 
+//Cheats/Maintain Max Player Durability
 patch=1,EE,20209758,extended,E60C0210
 
-[Cheats/Press SELECT+Left To Change Starting Stage 1] 
+//Cheats/Press SELECT+Left To Change Starting Stage 1
 patch=1,EE,D0435342,extended,0000FF7E
 patch=1,EE,003C44FC,extended,00000000
 
-[Cheats/Press SELECT+Left To Change Starting Stage 2] 
+//Cheats/Press SELECT+Left To Change Starting Stage 2
 patch=1,EE,D0435342,extended,0000FF7E
 patch=1,EE,003C44FC,extended,00000001
 
-[Cheats/Press SELECT+Left To Change Starting Stage 3] 
+//Cheats/Press SELECT+Left To Change Starting Stage 3
 patch=1,EE,D0435342,extended,0000FF7E
 patch=1,EE,003C44FC,extended,00000002
 
-[Cheats/Press SELECT+Left To Change Starting Stage 4] 
+//Cheats/Press SELECT+Left To Change Starting Stage 4
 patch=1,EE,D0435342,extended,0000FF7E
 patch=1,EE,003C44FC,extended,00000003
 
-[Cheats/Press SELECT+Left To Change Starting Stage 5] 
+//Cheats/Press SELECT+Left To Change Starting Stage 5
 patch=1,EE,D0435342,extended,0000FF7E
 patch=1,EE,003C44FC,extended,00000004
 
-[Cheats/Press SELECT+Left To Change Starting Stage 6] 
+//Cheats/Press SELECT+Left To Change Starting Stage 6
 patch=1,EE,D0435342,extended,0000FF7E
 patch=1,EE,003C44FC,extended,00000005
 
-[Cheats/Press SELECT+Left To Change Starting Stage 7] 
+//Cheats/Press SELECT+Left To Change Starting Stage 7
 patch=1,EE,D0435342,extended,0000FF7E
 patch=1,EE,003C44FC,extended,00000006
 
-[Cheats/Unlock All Database] 
+//Cheats/Unlock All Database
 patch=1,EE,103C46F2,extended,00000101
 patch=1,EE,203C46F4,extended,01010101
 patch=1,EE,203C46F8,extended,01010101
@@ -81,10 +81,10 @@ patch=1,EE,203C4704,extended,01010101
 patch=1,EE,203C4708,extended,01010101
 patch=1,EE,103C470C,extended,00000101
 
-[Cheats/Unlock Secret Movie]
+//Cheats/Unlock Secret Movie
 patch=1,EE,103C46D2,extended,00000101
 
-[Cheats/Unlock 100% Achievement Rate All Missions Rank S] 
+//Cheats/Unlock 100% Achievement Rate All Missions Rank S
 patch=1,EE,203C4524,extended,00640100
 patch=1,EE,203C4530,extended,00640100
 patch=1,EE,203C453C,extended,00640100

@@ -1,25 +1,25 @@
-[Cheats/Unlock CG not valid in saved game] 
+//Cheats/Unlock CG not valid in saved game
 patch=1,EE,2017EEA0,extended,00000000
 
-[Cheats/Unlock All CG not valid in saved game] 
+//Cheats/Unlock All CG not valid in saved game
 patch=1,EE,205BD3D0,extended,FBFE9B23
 patch=1,EE,205BD3D4,extended,BC66EFE0
 patch=1,EE,205BD3D8,extended,FEFBF4DF
 patch=1,EE,205BD3DC,extended,5CE87EDB
 patch=1,EE,205BD3E0,extended,03800888
 
-[Cheats/All cleared items & Append Story avaliables not valid in saved game] 
+//Cheats/All cleared items & Append Story avaliables not valid in saved game
 patch=1,EE,205C84C8,extended,FFFFFFFF
 patch=1,EE,205C84CC,extended,0003FFFF
 
-[Cheats/Unlock All CG, Append Story, Valid in saved game] 
+//Cheats/Unlock All CG, Append Story, Valid in saved game
 patch=1,EE,205C84C8,extended,0000FFFF
 
-[Cheats/Clear Ending number 0 not valid in saved game] 
+//Cheats/Clear Ending number 0 not valid in saved game
 patch=1,EE,201AD63C,extended,00000000
 
-[Cheats/Clear ending number 45 not valid in saved game] 
+//Cheats/Clear ending number 45 not valid in saved game
 patch=1,EE,201AD620,extended,00000000
 
-[Cheats/Max Read message number not valid in saved game] 
+//Cheats/Max Read message number not valid in saved game
 patch=1,EE,201AD700,extended,00000000

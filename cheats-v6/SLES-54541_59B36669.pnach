@@ -1,6 +1,6 @@
 gametitle=Xena - Warrior Princess PAL-M SLES-54541 59B36669
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,00219FA0,word,38470000

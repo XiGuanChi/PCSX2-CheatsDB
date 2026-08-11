@@ -1,20 +1,20 @@
-[Cheats/Dominator Points 999999999] 
+//Cheats/Dominator Points 999999999
 patch=1,EE,2055E470,extended,3B9AC9FF
 
-[Cheats/Max Boost Meter When It Rises The meter will decrease while using boost] 
+//Cheats/Max Boost Meter When It Rises The meter will decrease while using boost
 patch=1,EE,202DBA70,extended,00000000
 patch=1,EE,202DBA98,extended,00000000
 
-[Cheats/Unlock All Awards & Trophies] 
+//Cheats/Unlock All Awards & Trophies
 patch=1,EE,2055E598,extended,FFFFFFFF
 patch=1,EE,0055E59C,extended,00000007
 
-[Cheats/Unlock All Shortcuts] 
+//Cheats/Unlock All Shortcuts
 patch=1,EE,2055E5B8,extended,FFFFFFFF
 
-[Cheats/Unlock All Cars In The Garage] 
+//Cheats/Unlock All Cars In The Garage
 patch=1,EE,2055E578,extended,FFFFFFFF
 
-[Cheats/Unlock All Events Gold Medals] 
+//Cheats/Unlock All Events Gold Medals
 patch=1,EE,4055E478,extended,00150001
 patch=1,EE,06060606,extended,00000000

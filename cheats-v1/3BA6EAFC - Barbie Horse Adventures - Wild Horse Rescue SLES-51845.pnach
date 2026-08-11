@@ -1,4 +1,4 @@
-[Cheats/Always Max Friendlyness] 
+//Cheats/Always Max Friendlyness
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,AE01001C
 patch=1,EE,200C0228,extended,AE010020
@@ -6,36 +6,36 @@ patch=1,EE,200C022C,extended,03E00008
 patch=1,EE,200C0230,extended,C610001C
 patch=1,EE,201B0C98,extended,0C030088
 
-[Cheats/Infinite Time Clock Game] 
+//Cheats/Infinite Time Clock Game
 patch=1,EE,2019B5F4,extended,00000000
 
-[Cheats/Pickup 1 Coin For Max Coins] 
+//Cheats/Pickup 1 Coin For Max Coins
 patch=1,EE,201E81E8,extended,240200C8
 
-[Cheats/Stop Timer Mini-Games] 
+//Cheats/Stop Timer Mini-Games
 patch=1,EE,201F9614,extended,00000000
 
-[Cheats/Unlock All Boots] 
+//Cheats/Unlock All Boots
 patch=1,EE,403801FC,extended,00100001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Hats] 
+//Cheats/Unlock All Hats
 patch=1,EE,4038010C,extended,00100001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Jackets] 
+//Cheats/Unlock All Jackets
 patch=1,EE,403801A0,extended,000B0001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Pants] 
+//Cheats/Unlock All Pants
 patch=1,EE,403801CC,extended,000C0001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Tops] 
+//Cheats/Unlock All Tops
 patch=1,EE,4038014C,extended,00150001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Trails] 
+//Cheats/Unlock All Trails
 patch=1,EE,203803A8,extended,00000001
 patch=1,EE,203803AC,extended,00000001
 patch=1,EE,203803B0,extended,00000001

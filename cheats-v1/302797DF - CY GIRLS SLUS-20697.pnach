@@ -1,26 +1,26 @@
-[Cheats/Ice Infinite Health] 
+//Cheats/Ice Infinite Health
 patch=1,EE,103C3F8C,extended,000003E7
 patch=1,EE,103C3F8E,extended,000003E7
 
-[Cheats/Ice Infinite Ammo]   
+//Cheats/Ice Infinite Ammo
 patch=1,EE,20169E80,extended,00000000
 
-[Cheats/Ice Max Night Vision On Pickup] 
+//Cheats/Ice Max Night Vision On Pickup
 patch=1,EE,1041D798,extended,00000063
 
-[Cheats/Ice Max BioCharge On Pickup] 
+//Cheats/Ice Max BioCharge On Pickup
 patch=1,EE,1041D8FC,extended,00000063
 
-[Cheats/Aska Infinite Health] 
+//Cheats/Aska Infinite Health
 patch=1,EE,104A6F9C,extended,000003E7
 patch=1,EE,104A6F9E,extended,000003E7
 
-[Cheats/Aska Max Shuriken On Pickup] 
+//Cheats/Aska Max Shuriken On Pickup
 patch=1,EE,005008D8,extended,00000063
 
-[Cheats/Aska Max Kunai On Pickup] 
+//Cheats/Aska Max Kunai On Pickup
 patch=1,EE,005008DC,extended,00000063^
 
-[Cheats/Aska Max BioCharge On Pickup] 
+//Cheats/Aska Max BioCharge On Pickup
 patch=1,EE,0050090C,extended,00000063
 

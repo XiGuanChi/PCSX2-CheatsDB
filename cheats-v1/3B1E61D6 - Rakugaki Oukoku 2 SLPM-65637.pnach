@@ -1,32 +1,32 @@
-[Cheats/Max Hero HP]
+//Cheats/Max Hero HP
 patch=1,EE,203FC790,extended,E6A00004
 
-[Cheats/Max Hero PP] 
+//Cheats/Max Hero PP
 patch=1,EE,2038A7DC,extended,00000000
 patch=1,EE,2038A828,extended,00000000
 patch=1,EE,2038A844,extended,8E230010
 
-[Cheats/Max Level Experience Value rEACH] 
+//Cheats/Max Level Experience Value rEACH
 patch=1,EE,2039B308,extended,3C06000F
 
-[Cheats/Do Not Reduce Capture Count] 
+//Cheats/Do Not Reduce Capture Count
 patch=1,EE,2039B4A8,extended,24020005
 
-[Cheats/Great Damage Single Blow] 
+//Cheats/Great Damage Single Blow
 patch=1,EE,203FCE60,extended,24010001
 patch=1,EE,203FCE64,extended,AE610004
 
-[Cheats/Infinite Jump] 
+//Cheats/Infinite Jump
 patch=1,EE,2031701C,extended,3C010065
 patch=1,EE,20317020,extended,8C216B60
 patch=1,EE,20317024,extended,262204C0
 patch=1,EE,20317028,extended,10410015
 
-[Cheats/Unlock All Story for collection box & card tricks and cleared Story] 
+//Cheats/Unlock All Story for collection box & card tricks and cleared Story
 patch=1,EE,41C4D7B0,extended,00120001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Movies and play for collection box card] 
+//Cheats/Unlock All Movies and play for collection box card
 patch=1,EE,4134B040,extended,00090001
 patch=1,EE,FFFFFFFF,extended,00000000
 

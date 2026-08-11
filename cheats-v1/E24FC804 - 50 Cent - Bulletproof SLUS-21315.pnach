@@ -1,34 +1,34 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,201D32C4,extended,3C0405F5
 patch=1,EE,201D32C8,extended,3484E0FF
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20235474,extended,C6400544
 patch=1,EE,2023547C,extended,E6400534
 
-[Cheats/Infinite Armor] 
+//Cheats/Infinite Armor
 patch=1,EE,20235484,extended,C6410548
 patch=1,EE,20235488,extended,E6410538
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,20104ED0,extended,00000000
 
-[Cheats/Infinite Painkillers]  
+//Cheats/Infinite Painkillers
 patch=1,EE,201C3DBC,extended,00000000
 
-[Cheats/Infinite Stamina]   
+//Cheats/Infinite Stamina
 patch=1,EE,20235490,extended,3C013F80
 patch=1,EE,20235494,extended,AE41053C
 patch=1,EE,1023549A,extended,00001000
 
-[Cheats/Unlock All Arcade Levels] 
+//Cheats/Unlock All Arcade Levels
 patch=1,EE,204FCE28,extended,FFFFFFFF
 patch=1,EE,204FCE2C,extended,FFFFFFFF
 
-[Cheats/Unlock All Cheats]  
+//Cheats/Unlock All Cheats
 patch=1,EE,204FB1A0,extended,01010101
 patch=1,EE,204FB1A4,extended,01010101
 
-[Cheats/Unlock All Videos]  
+//Cheats/Unlock All Videos
 patch=1,EE,404FB060,extended,00050001
 patch=1,EE,01010101,extended,00000000

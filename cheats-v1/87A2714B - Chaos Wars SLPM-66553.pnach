@@ -1,33 +1,33 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,2039F5D8,extended,05F5E0FF
 
-[Cheats/Max Funds 99999999] 
+//Cheats/Max Funds 99999999
 patch=1,EE,2022DF90,extended,00000000
 
-[Cheats/Infinite Charactere 1 HP SP 99999] 
+//Cheats/Infinite Charactere 1 HP SP 99999
 patch=1,EE,21CF8D7C,extended,0001869F
 patch=1,EE,21CF8BF0,extended,0001869F
 patch=1,EE,21CF8BF4,extended,0001869F
 
-[Cheats/Infinite Character 2 HP SP 99999] 
+//Cheats/Infinite Character 2 HP SP 99999
 patch=1,EE,21CF8514,extended,0001869F
 patch=1,EE,21CF86A0,extended,0001869F
 patch=1,EE,21CF8518,extended,0001869F
 
-[Cheats/Infinite Charactere 3 HP SP 99999] 
+//Cheats/Infinite Charactere 3 HP SP 99999
 patch=1,EE,21CF9458,extended,0001869F
 patch=1,EE,21CF92CC,extended,0001869F
 patch=1,EE,21CF92D0,extended,0001869F
 
-[Cheats/Stats 9999]  
+//Cheats/Stats 9999
 patch=1,EE,21CF8520,extended,270F270F
 patch=1,EE,21CF8524,extended,270F270F
 patch=1,EE,11CF8528,extended,0000270F 
 
-[Cheats/99 items used during battle] 
+//Cheats/99 items used during battle
 patch=1,EE,20247EB0,extended,00000000
 
-[Cheats/Enemy HP 0 In Battle, View enemy forces in the unit list] 
+//Cheats/Enemy HP 0 In Battle, View enemy forces in the unit list
 patch=1,EE,20287384,extended,0C070320
 patch=1,EE,20287388,extended,72002628
 patch=1,EE,2028738C,extended,AC4001E0
@@ -41,7 +41,7 @@ patch=1,EE,2023FECC,extended,A220001E
 patch=1,EE,2023FED0,extended,10000003
 patch=1,EE,2024B8C0,extended,10000004
 
-[Cheats/Mini status required code The following code must be used together with the mini-status required code.Reflected when the cursor is aligned with the character and the mini status is displayed. Ineffective against enemy characters] 
+//Cheats/Mini status required code The following code must be used together with the mini-status required code.Reflected when the cursor is aligned with the character and the mini status is displayed. Ineffective against enemy characters
 patch=1,EE,200F8400,extended,8F818AD4
 patch=1,EE,200F8404,extended,1001003E 
 patch=1,EE,200F8414,extended,8021001C
@@ -50,78 +50,78 @@ patch=1,EE,200F841C,extended,10010038
 patch=1,EE,200F8500,extended,080914A4
 patch=1,EE,201BEED4,extended,0C03E100
 
-[Cheats/HP recovery] 
+//Cheats/HP recovery
 patch=1,EE,200F8430,extended,8C9201B8
 patch=1,EE,200F8434,extended,AC9201E0
 patch=1,EE,200F8438,extended,AC9201E8
 
-[Cheats/SP Recovery] 
+//Cheats/SP Recovery
 patch=1,EE,200F843C,extended,8C810058
 patch=1,EE,200F8440,extended,AC8101E4
 
-[Cheats/S Gauge Recovery] 
+//Cheats/S Gauge Recovery
 patch=1,EE,200F8444,extended,24016309
 patch=1,EE,200F8448,extended,A48100DC
 
-[Cheats/In Battle code The following codes should be used in conjunction with battle-required codes.It will be reflected when you look at the unit list during battle] 
+//Cheats/In Battle code The following codes should be used in conjunction with battle-required codes.It will be reflected when you look at the unit list during battle
 patch=1,EE,200F8000,extended,3C010001
 patch=1,EE,200F8004,extended,3421869F
 patch=1,EE,200F8020,extended,240103E7
 patch=1,EE,200F8100,extended,080A1CE5
 patch=1,EE,2028737C,extended,0C03E000
 
-[Cheats/In Battle Change Ally Status HP 99999] 
+//Cheats/In Battle Change Ally Status HP 99999
 patch=1,EE,200F8008,extended,AC410054
 patch=1,EE,200F800C,extended,AC4101E0
 patch=1,EE,200F8010,extended,AC4101E8
 
-[Cheats/In Battle Change Ally Status SP 99999] 
+//Cheats/In Battle Change Ally Status SP 99999
 patch=1,EE,200F8014,extended,AC410058 
 patch=1,EE,200F8018,extended,AC4101E4
 
-[Cheats/In Battle Change Ally Status Attack 999] 
+//Cheats/In Battle Change Ally Status Attack 999
 patch=1,EE,200F8024,extended,A4410060
 
-[Cheats/All Weapons in the Warehouse and Weapon Rank S] 
+//Cheats/All Weapons in the Warehouse and Weapon Rank S
 patch=1,EE,201BD148,extended,24040009
 patch=1,EE,201BD16C,extended,A2640058
 
-[Cheats/Max SP After Skill Use] 
+//Cheats/Max SP After Skill Use
 patch=1,EE,20245164,extended,1000000D
 
-[Cheats/S Gauge 9 After Attack] 
+//Cheats/S Gauge 9 After Attack
 patch=1,EE,20245030,extended,24030009
 
-[Cheats/Infinite Gauge Realize Use]
+//Cheats/Infinite Gauge Realize Use
 patch=1,EE,20192204,extended,24420000
 
-[Cheats/Infinite S Gauge in Cooperation] 
+//Cheats/Infinite S Gauge in Cooperation
 patch=1,EE,201A006C,extended,24420000
 
-[Cheats/Rating A When Clearing Stage] 
+//Cheats/Rating A When Clearing Stage
 patch=1,EE,2025ACA0,extended,00000000
 
-[Cheats/Attack & SP Performance 999 After One Weapon Upgrade] 
+//Cheats/Attack & SP Performance 999 After One Weapon Upgrade
 patch=1,EE,2021FAD0,extended,24010000
 
-[Cheats/Weapon Rank S when you go to the Warehouse] 
+//Cheats/Weapon Rank S when you go to the Warehouse
 patch=1,EE,201BD148,extended,24040009
 patch=1,EE,201BD16C,extended,A2640058
 
-[Cheats/Unlock All Dictionary when you Open the Dictionary] 
+//Cheats/Unlock All Dictionary when you Open the Dictionary
 patch=1,EE,20266840,extended,240300FF
 patch=1,EE,20266844,extended,A0430000 
 patch=1,EE,20266850,extended,24020001
 
-[Cheats/Unlock All Help when you Open the Help] 
+//Cheats/Unlock All Help when you Open the Help
 patch=1,EE,20266A38,extended,240300FF
 patch=1,EE,20266A3C,extended,A0430000
 patch=1,EE,20266A48,extended,24020001
 
-[Cheats/Unlock All Characters Profile , Images and Items When Viewed] 
+//Cheats/Unlock All Characters Profile , Images and Items When Viewed
 patch=1,EE,2027A5D4,extended,240200FF
 patch=1,EE,2027A5D8,extended,A2420006
 
-[Cheats/Debug key appears Press SELECT+L2  debug key will appear in the key item of the base. Appearance. Using the key will cause all gates to open and all characters to appear.Since it is for debugging, it affects the progress of the scenario. Please back up your save data before using] 
+//Cheats/Debug key appears Press SELECT+L2  debug key will appear in the key item of the base. Appearance. Using the key will cause all gates to open and all characters to appear.Since it is for debugging, it affects the progress of the scenario. Please back up your save data before using
 patch=1,EE,D1C5C868,extended,00000101
 patch=1,EE,21D1A910,extended,00C80012

@@ -1,7 +1,7 @@
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,201CE250,extended,00000000
 patch=1,EE,201CE278,extended,00000000
 
-[Cheats/Max Miles After Buying an Item] 
+//Cheats/Max Miles After Buying an Item
 patch=1,EE,201A1C60,extended,3C014FAB
 patch=1,EE,201A1C64,extended,AE610024

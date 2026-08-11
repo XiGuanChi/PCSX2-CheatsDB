@@ -1,15 +1,15 @@
-[Cheats/1P Special Move Stock 5 Times]  
+//Cheats/1P Special Move Stock 5 Times
 patch=1,EE,016D6EEC,extended,00000005 
 
-[Cheats/1P Special Move Gauge Max] 
+//Cheats/1P Special Move Gauge Max
 patch=1,EE,016D6EF4,extended,00000063
 
-[Cheats/2P Special Move Stock 0 Times] 
+//Cheats/2P Special Move Stock 0 Times
 patch=1,EE,0156AEEC,extended,00000000 
 
-[Cheats/2P Special Move Gauge 0]  
+//Cheats/2P Special Move Gauge 0
 patch=1,EE,0156AEF4,extended,00000000
 
-[Cheats/Unlock All Characters, Costumes & Battle Stages] 
+//Cheats/Unlock All Characters, Costumes & Battle Stages
 patch=1,EE,403ED6C0,extended,001B0001
 patch=1,EE,FFFFFFFF,extended,00000000

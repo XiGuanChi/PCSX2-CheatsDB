@@ -1,20 +1,20 @@
- [Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2017CFC0,extended,63636363
 patch=1,EE,1017CFC4,extended,00006363
 
-[Cheats/Recover Aircraft Temperature Instantly Ciel] 
+//Cheats/Recover Aircraft Temperature Instantly Ciel
 patch=1,EE,D074A4DE,extended,00003DCC
 patch=1,EE,2074A4DC,extended,42480000
 
-[Cheats/Recover Aircraft Temperature Instantly FAM] 
+//Cheats/Recover Aircraft Temperature Instantly FAM
 patch=1,EE,D074A5DE,extended,00003DEE
 patch=1,EE,2074A5DC,extended,42480000
 
-[Cheats/Recover Aircraft Temperature Instantly Copan] 
+//Cheats/Recover Aircraft Temperature Instantly Copan
 patch=1,EE,D074A55E,extended,00003DCC
 patch=1,EE,2074A55C,extended,42480000
 
-[Cheats/Recover Aircraft Temperature Instantly Aldi] 
+//Cheats/Recover Aircraft Temperature Instantly Aldi
 patch=1,EE,D074A65E,extended,00003DAA
 patch=1,EE,2074A65C,extended,42480000
 

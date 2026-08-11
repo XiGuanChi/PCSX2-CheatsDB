@@ -1,14 +1,14 @@
- [Cheats/Always 4th Down] 
+//Cheats/Always 4th Down
 patch=1,EE,1080AB10,extended,00000004
 
-[Cheats/Max Tokens Earned] 
+//Cheats/Max Tokens Earned
 patch=1,EE,21E30340,extended,05F5E0FF
 
-[Cheats/Franchise Mode Press R1 & R2 For Lots of Points] 
+//Cheats/Franchise Mode Press R1 & R2 For Lots of Points
 patch=1,EE,D07CF982,extended,0000F5FF
 patch=1,EE,20792774,extended,000F423F
 
-[Cheats/Cannot Be Tackled Hold R1] 
+//Cheats/Cannot Be Tackled Hold R1
 patch=1,EE,203A3F8C,extended,10400006
 patch=1,EE,203A3788,extended,27BDFF30
 patch=1,EE,203C25B4,extended,1040009C
@@ -17,7 +17,7 @@ patch=1,EE,203A3F8C,extended,10000006
 patch=1,EE,203A3788,extended,03E00008
 patch=1,EE,203C25B4,extended,1000009C
 
-[Cheats/Change Possession After Play Hold L2] 
+//Cheats/Change Possession After Play Hold L2
 patch=1,EE,20351940,extended,46010034
 patch=1,EE,203519F0,extended,1000006F
 patch=1,EE,20351AC0,extended,56620007
@@ -26,10 +26,10 @@ patch=1,EE,20351940,extended,46000034
 patch=1,EE,203519F0,extended,10000000
 patch=1,EE,20351AC0,extended,00000000
 
-[Cheats/Infinite Attribute Bonus Points]  
+//Cheats/Infinite Attribute Bonus Points
 patch=1,EE,202219EC,extended,24020001
 
-[Cheats/Score Touchdown 2 Pt Conversion After Any Play Hold L1 ] 
+//Cheats/Score Touchdown 2 Pt Conversion After Any Play Hold L1
 patch=1,EE,20351944,extended,4500000C
 patch=1,EE,20351C14,extended,45000002
 patch=1,EE,20351C74,extended,4502000C
@@ -40,7 +40,7 @@ patch=1,EE,20351C14,extended,00000000
 patch=1,EE,20351C74,extended,00000000
 patch=1,EE,20351C78,extended,24020006
 
-[Cheats/Have All Cards] 
+//Cheats/Have All Cards
 patch=1,EE,21E30434,extended,00000119
 patch=1,EE,21E304A0,extended,00FFE01F
 patch=1,EE,21E304A4,extended,00FFE02F

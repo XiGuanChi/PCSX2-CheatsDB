@@ -1,33 +1,33 @@
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,202E8FFC,extended,00007530
 
-[Cheats/P1 Press L1+Select For Death Blow On P2] 
+//Cheats/P1 Press L1+Select For Death Blow On P2
 patch=1,EE,D02F1658,extended,00000104
 patch=1,EE,102EB98C,extended,00000000
 
-[Cheats/P1 Needs 1 Win To Win] 
+//Cheats/P1 Needs 1 Win To Win
 patch=1,EE,D02E959C,extended,00000000
 patch=1,EE,102E959C,extended,00000001
 
-[Cheats/Max Level 3 Super P1] 
+//Cheats/Max Level 3 Super P1
 patch=1,EE,102E95B4,extended,00002800
 
-[Cheats/Unlock All Stages] 
+//Cheats/Unlock All Stages
 patch=1,EE,202F1544,extended,FFFFFFFF
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,4026EE94,extended,00070001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Costumes]  
+//Cheats/Unlock All Costumes
 patch=1,EE,402F1548,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Movies Need Complete Story Mode Once] 
+//Cheats/Unlock All Movies Need Complete Story Mode Once
 patch=1,EE,402F1554,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Press L3 For Debug Menu] 
+//Cheats/Press L3 For Debug Menu
 patch=1,EE,0014AF60,extended,00000011
 patch=1,EE,D0935402,extended,0000FFFD
 patch=1,EE,202B1C0C,extended,00000001

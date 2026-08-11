@@ -1,21 +1,21 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20536E30,extended,0C03FFC0
 patch=1,EE,200FFF00,extended,3C01447A
 patch=1,EE,200FFF04,extended,AC81008C
 patch=1,EE,200FFF08,extended,03E00008
 patch=1,EE,200FFF0C,extended,44810000
 
-[Cheats/Infinite Health P1 & Team Mate] 
+//Cheats/Infinite Health P1 & Team Mate
 patch=1,EE,2054BDD0,extended,3C01447A
 patch=1,EE,2054BDD8,extended,AC81008C
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,20106E70,extended,00000000
 patch=1,EE,20106E88,extended,00000000
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,2077C8A8,extended,FFFFFFFF
 
-[Cheats/All Medals Play Level to Activate Unlocks] 
+//Cheats/All Medals Play Level to Activate Unlocks
 patch=1,EE,20150C14,extended,24020003
 patch=1,EE,20150C18,extended,A0620000

@@ -1,6 +1,6 @@
 gametitle=Altered Beast PAL-M SLES-53024 D6DF457B
 
-[50/60 FPS]
+//50/60 FPS
 author=GamingDragon93
 description=60 FPS Gameplay and Cutscenes, Known Issues: 1. When the player animation is doing a transition between walking and running he speed up for a few frames. (Minor issue) There is an optional fix  2. Texture and UI Animations are 2x Faster (That includes fire and mist) (Minor issue)
 
@@ -93,7 +93,7 @@ patch=1,EE,000F00C4,word,0805E37C  // j 0x00178DF0 (Return to function)
 patch=1,EE,000F00C8,word,00000000  // nop
 
 
-[Speed up Fix to 60 FPS]
+//Speed up Fix to 60 FPS
 author=GamingDragon93
 description= Fix the Speed up, there is a 1-frame "running in place" stutter. This stutter is a native engine animation blending delay, stretched to 60fps
 

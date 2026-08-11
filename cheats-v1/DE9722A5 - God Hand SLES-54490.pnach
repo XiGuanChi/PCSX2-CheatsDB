@@ -1,28 +1,28 @@
-[Cheats/Infinite Gold] 
+//Cheats/Infinite Gold
 patch=1,EE,2056D4F0,extended,000F423F
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2012C290,extended,00000000
 
-[Cheats/Max Tension Gauge] 
+//Cheats/Max Tension Gauge
 patch=1,EE,205CFE00,extended,43C80000
 
-[Cheats/Infinite Tension Gauge] 
+//Cheats/Infinite Tension Gauge
 patch=1,EE,205CFE04,extended,43C80000
 
-[Cheats/Infinite Orbs] 
+//Cheats/Infinite Orbs
 patch=1,EE,2056D578,extended,01010101
 
-[Cheats/Max Infinite Orbs] 
+//Cheats/Max Infinite Orbs
 patch=1,EE,201FB170,extended,24020003
 patch=1,EE,201FB174,extended,A0820156
 patch=1,EE,2056D578,extended,01010101
 
-[Cheats/Meter Always Die Level] 
+//Cheats/Meter Always Die Level
 patch=1,EE,1056D4EC,extended,00001400
 
-[Cheats/Unlock All Techniques]  
+//Cheats/Unlock All Techniques
 patch=1,EE,201FB548,extended,A06000B0
 
-[Cheats/Unlock All Roulettes] 
+//Cheats/Unlock All Roulettes
 patch=1,EE,201FBF28,extended,24020001

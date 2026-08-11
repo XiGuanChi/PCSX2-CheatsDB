@@ -1,22 +1,22 @@
 gametitle=SOCOM 3 - U.S. Navy SEALs SCES-53300 ADD50292
 
-[Infinite Health (All Squad)]
+//Infinite Health (All Squad)
 author=GamingDragon93
 patch=1,EE,20597AB8,extended,3C013F80
 patch=1,EE,20597AD0,extended,4481A000
 patch=1,EE,20597AE4,extended,E6940A0C
 
-[Infinite Ammo]
+//Infinite Ammo
 author=GamingDragon93
 patch=1,EE,204E57E0,extended,00C02823
 
-[Unlock All Weapons/Characters/Movies/Jukebox]
+//Unlock All Weapons/Characters/Movies/Jukebox
 author=GamingDragon93
 patch=1,EE,2036A388,extended,00620821
 patch=1,EE,2036A38C,extended,24020001
 patch=1,EE,2036A394,extended,A022AB08
 
-[Infinite Health (You & Your Team)]
+//Infinite Health (You & Your Team)
 author=GamingDragon93
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,AE810968
@@ -24,116 +24,116 @@ patch=1,EE,200C0228,extended,08166B98
 patch=1,EE,200C022C,extended,928200F1
 patch=1,EE,2059AE5C,extended,08030088
 
-[Never Reload]
+//Never Reload
 author=GamingDragon93
 patch=1,EE,204E1988,extended,00000000
 
-[Idiot AI]
+//Idiot AI
 author=GamingDragon93
 patch=1,EE,204284D0,extended,03E00008
 patch=1,EE,204284D4,extended,00000000
 
-[Infinite Ammo/No Reload]
+//Infinite Ammo/No Reload
 author=GamingDragon93
 patch=1,EE,204E57E8,extended,00000000
 
-[Steady Aim/No Recoil]
+//Steady Aim/No Recoil
 author=GamingDragon93
 patch=1,EE,20442FD8,extended,00000000
 patch=1,EE,20442958,extended,00000000
 patch=1,EE,20442890,extended,00000000
 patch=1,EE,20442FF8,extended,00000000
 
-[No Damage From Falling]
+//No Damage From Falling
 author=GamingDragon93
 patch=1,EE,2064C1E0,extended,447A0000
 
-[Start On Mission Modifier Codes]
+//Start On Mission Modifier Codes
 author=GamingDragon93
 description=North Africa-Deep Strike
 patch=1,EE,D0688B80,extended,00200001
 patch=1,EE,20688B80,extended,00000001
 
-[North Africa-Escalation]
+//North Africa-Escalation
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,00200002
 patch=1,EE,20688B80,extended,00000002
 
-[North Africa-Riposte's Primer]
+//North Africa-Riposte's Primer
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,00200003
 patch=1,EE,20688B80,extended,00000003
 
-[North Africa-In The Balance]
+//North Africa-In The Balance
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,00200004
 patch=1,EE,20688B80,extended,00000004
 
-[North Africa-Day Of Reckoning]
+//North Africa-Day Of Reckoning
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,00200005
 patch=1,EE,20688B80,extended,00000005
 
-[North Africa-Wake Of The Fallen]
+//North Africa-Wake Of The Fallen
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,00200006
 patch=1,EE,20688B80,extended,00000006
 
-[South Asia-Nautical Salvage]
+//South Asia-Nautical Salvage
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,00200007
 patch=1,EE,20688B80,extended,00000007
 
-[South Asia-Friend Or Foe]
+//South Asia-Friend Or Foe
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,00200008
 patch=1,EE,20688B80,extended,00000008
 
-[South Asia-Heart Of The Fist]
+//South Asia-Heart Of The Fist
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,00200009
 patch=1,EE,20688B80,extended,00000009
 
-[Poland-Nightcrawler]
+//Poland-Nightcrawler
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,0020000A
 patch=1,EE,20688B80,extended,0000000A
 
-[Poland-State Security]
+//Poland-State Security
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,0020000B
 patch=1,EE,20688B80,extended,0000000B
 
-[Poland-Retribution]
+//Poland-Retribution
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,0020000C
 patch=1,EE,20688B80,extended,0000000C
 
-[Poland-Waterlogged]
+//Poland-Waterlogged
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,0020000D
 patch=1,EE,20688B80,extended,0000000D
 
-[Poland-Brewed Chaos]
+//Poland-Brewed Chaos
 author=GamingDragon93
 patch=1,EE,D0688B80,extended,0020000E
 patch=1,EE,20688B80,extended,0000000E
 
-[All Movies]
+//All Movies
 author=GamingDragon93
 patch=1,EE,00688A7D,extended,000000FF
 patch=1,EE,00688A95,extended,000000FF
 patch=1,EE,10688A96,extended,0000FFFF
 patch=1,EE,00688A98,extended,000000FF
 
-[All Weapons]
+//All Weapons
 author=GamingDragon93
 patch=1,EE,10688A7E,extended,000000FF
 patch=1,EE,20688A80,extended,FFFFFFFF
 patch=1,EE,10688A84,extended,0000FFFF
 patch=1,EE,00688A86,extended,000000FF
 
-[All Characters]
+//All Characters
 author=GamingDragon93
 patch=1,EE,00688A89,extended,000000FF
 patch=1,EE,10688A8A,extended,0000FFFF

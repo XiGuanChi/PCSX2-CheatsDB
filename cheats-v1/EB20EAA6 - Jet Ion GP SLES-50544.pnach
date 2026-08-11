@@ -1,32 +1,32 @@
-[Cheats/Infinite Ammo Gust] 
+//Cheats/Infinite Ammo Gust
 patch=1,EE,002BDF3A,extended,0000000A
 
-[Cheats/Infinite Sheild Gust] 
+//Cheats/Infinite Sheild Gust
 patch=1,EE,102B9462,extended,0000428C
 
-[Cheats/Infinite Ammo C&M] 
+//Cheats/Infinite Ammo C&M
 patch=1,EE,002BB47A,extended,0000000A
 
-[Cheats/Infinite Shield C&M] 
+//Cheats/Infinite Shield C&M
 patch=1,EE,102BB472,extended,00004296
 
-[Cheats/Infinite Ammo Forkner Akashina] 
+//Cheats/Infinite Ammo Forkner Akashina
 patch=1,EE,002BC9DA,extended,0000000A
 
-[Cheats/Infinite Shield Forkner Akashina] 
+//Cheats/Infinite Shield Forkner Akashina
 patch=1,EE,202BC9D2,extended,42A00000
 
-[Cheats/Time Stop] 
+//Cheats/Time Stop
 patch=1,EE,202B8E00,extended,00000000
 
-[Cheats/Enable Debug Menu Main Debug Screen] 
+//Cheats/Enable Debug Menu Main Debug Screen
 patch=1,EE,D029482A,extended,00002410
 patch=1,EE,00294828,extended,00000000
 
-[Cheats/Enable Debug Menu Ending Movie Selector] 
+//Cheats/Enable Debug Menu Ending Movie Selector
 patch=1,EE,D029482A,extended,00002410
 patch=1,EE,00294828,extended,00000005
 
-[Cheats/Enable Debug Menu Trophy Viewing Menu] 
+//Cheats/Enable Debug Menu Trophy Viewing Menu
 patch=1,EE,D029482A,extended,00002410
 patch=1,EE,00294828,extended,00000007

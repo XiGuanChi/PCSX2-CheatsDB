@@ -1,11 +1,11 @@
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,2044B398,extended,4415FF5C
 
-[Cheats/Unlock All Levels]  
+//Cheats/Unlock All Levels
 patch=1,EE,21F43534,extended,00000000
 patch=1,EE,21F4337C,extended,00000000
 
-[Cheats/Debug Menu R3+D-Pad Up] 
+//Cheats/Debug Menu R3+D-Pad Up
 patch=1,EE,E008FFEB,extended,00382442
 patch=1,EE,202E4168,extended,75626544
 patch=1,EE,202E416C,extended,654D2067

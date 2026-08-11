@@ -1,26 +1,26 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2044836C,extended,42C80000
 patch=1,EE,20448374,extended,42C80000
 
-[Cheats/One Hit kill] 
+//Cheats/One Hit kill
 patch=1,EE,2022F39C,extended,AC8001A4
 patch=1,EE,2022F3A0,extended,AC80019C
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2016DB88,extended,00000000
 
-[Cheats/Never Exhausted] 
+//Cheats/Never Exhausted
 patch=1,EE,20196E00,extended,00000000
 patch=1,EE,20198420,extended,00000000
 patch=1,EE,20196CD0,extended,00000000
 
-[Cheats/Unlock All Weapons] 
+//Cheats/Unlock All Weapons
 patch=1,EE,21CA5460,extended,FFFFFFFE
 
-[Cheats/Unlock All maps] 
+//Cheats/Unlock All maps
 patch=1,EE,202D1E40,extended,24030001
 patch=1,EE,202D1E68,extended,24020001
 
-[Cheats/Unlock Extra Options and Bullet X] 
+//Cheats/Unlock Extra Options and Bullet X
 patch=1,EE,01CFB924,extended,00000005
 

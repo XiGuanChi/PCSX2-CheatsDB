@@ -1,40 +1,40 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2010C0F0,extended,03E00008
 patch=1,EE,2010C0F4,extended,00000000
 
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,202BBF04,extended,00000001
 
-[Cheats/Infinite Ammo Usage] 
+//Cheats/Infinite Ammo Usage
 patch=1,EE,201414A0,extended,00000000
 
-[Cheats/Can Use Voodoo When Empty] 
+//Cheats/Can Use Voodoo When Empty
 patch=1,EE,20187148,extended,03E00008
 patch=1,EE,2018714C,extended,24020001
 
-[Cheats/All Voodoos] 
+//Cheats/All Voodoos
 patch=1,EE,20187200,extended,03E00008
 patch=1,EE,20187204,extended,00000000
 
-[Cheats/Have All Menu Items and Weapons] 
+//Cheats/Have All Menu Items and Weapons
 patch=1,EE,202BABCC,extended,00000001
 
-[Cheats/P1 Press L1+L2 For Debug 1 Menu Activated] 
+//Cheats/P1 Press L1+L2 For Debug 1 Menu Activated
 patch=1,EE,E002FAFF,extended,002F7F82
 patch=1,EE,203078A4,extended,FFFFFFFF
 patch=1,EE,10161238,extended,00000041
 
-[Cheats/P1 Press R1+R2 For Debug 2 Menu Activated] 
+//Cheats/P1 Press R1+R2 For Debug 2 Menu Activated
 patch=1,EE,E002F5FF,extended,002F7F82
 patch=1,EE,203078A4,extended,FFFFFFFF
 patch=1,EE,10161238,extended,00000045
 
-[Cheats/P1 Press L3+R3 For Debug 3 Menu Activated] 
+//Cheats/P1 Press L3+R3 For Debug 3 Menu Activated
 patch=1,EE,E002FFF9,extended,002F7F82
 patch=1,EE,203078A4,extended,FFFFFFFF
 patch=1,EE,10161238,extended,00000049
 
-[Cheats/Enable Debug Menus press the following buttons while inside the Options menu in-game:  L1 + X for Debug 1.L2 + X for Debug 2.R1 + X for Debug 3.] 
+//Cheats/Enable Debug Menus press the following buttons while inside the Options menu in-game:  L1 + X for Debug 1.L2 + X for Debug 2.R1 + X for Debug 3.
 patch=1,EE,D02F7F82,extended,0000BBFF
 patch=1,EE,20143F60,extended,24040119
 patch=1,EE,D02F7F82,extended,0000BEFF

@@ -1,27 +1,27 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20319B84,extended,8C81001C
 patch=1,EE,20319B8C,extended,AC810018
 
-[Cheats/Infinite Ammo And No Reload] 
+//Cheats/Infinite Ammo And No Reload
 patch=1,EE,20326A2C,extended,00000000
 
-[Cheats/Infinite Items And Grenades] 
+//Cheats/Infinite Items And Grenades
 patch=1,EE,202AF2A0,extended,00000000
 
-[Cheats/Infinite Flashlight Battery] 
+//Cheats/Infinite Flashlight Battery
 patch=1,EE,20269BBC,extended,3C014496
 patch=1,EE,20269BC4,extended,44810000
 
-[Cheats/Insantity Always Available] 
+//Cheats/Insantity Always Available
 patch=1,EE,20317F74,extended,E60004A4
 
-[Cheats/Infinite Insanity Press L3 ON R3 OFF] 
+//Cheats/Infinite Insanity Press L3 ON R3 OFF
 patch=1,EE,D05BB682,extended,0000FFFD
 patch=1,EE,202F1180,extended,00000000
 patch=1,EE,D05BB682,extended,0000FFFB
 patch=1,EE,202F1180,extended,46011081
 
-[Cheats/Unlock All Weapons] 
+//Cheats/Unlock All Weapons
 patch=1,EE,20572FE8,extended,00000016
 patch=1,EE,20572FEC,extended,FFFFFFFF
 patch=1,EE,20572FF0,extended,00000000

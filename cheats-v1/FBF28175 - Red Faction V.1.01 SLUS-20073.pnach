@@ -1,18 +1,18 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2028E5F0,extended,00000000
 patch=1,EE,2028E5F4,extended,00000000
 patch=1,EE,2028E5F8,extended,00000000
 patch=1,EE,2028E5FC,extended,00000000
 patch=1,EE,2028E600,extended,00000000
 
-[Cheats/Infinite Envirosuit Protection]   
+//Cheats/Infinite Envirosuit Protection
 patch=1,EE,200C0230,extended,3C0142C8
 patch=1,EE,200C0234,extended,44811000
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,200C023C,extended,E6020038
 patch=1,EE,20169BB0,extended,0C03008C
 
-[Cheats/Infinite Ammo All Weapons] 
+//Cheats/Infinite Ammo All Weapons
 patch=1,EE,20154940,extended,27BDFFC0
 patch=1,EE,20154944,extended,7FBF0010
 patch=1,EE,20154948,extended,7FB00000
@@ -38,48 +38,48 @@ patch=1,EE,20154994,extended,27BD0040
 patch=1,EE,20154998,extended,03E00008
 patch=1,EE,2015499C,extended,00000000
 
-[Cheats/Invulnerable] 
+//Cheats/Invulnerable
 patch=1,EE,201A5028,extended,8E03007C
 patch=1,EE,201A5048,extended,34630004
 
-[Cheats/Infinite Grenades]  
+//Cheats/Infinite Grenades
 patch=1,EE,201A1FC4,extended,00000000
 
-[Cheats/Extra Grenades]  
+//Cheats/Extra Grenades
 patch=1,EE,201A1FBC,extended,00000001
 
-[Cheats/Infinite Ammo All Guns] 
+//Cheats/Infinite Ammo All Guns
 patch=1,EE,20154998,extended,00000000
 patch=1,EE,201549D4,extended,00000000
 
-[Cheats/Extra Ammo All Guns] 
+//Cheats/Extra Ammo All Guns
 patch=1,EE,10154994,extended,00000001
 patch=1,EE,101549D0,extended,00000001
 
-[Cheats/Have All Items And Weapons]  
+//Cheats/Have All Items And Weapons
 patch=1,EE,20132A28,extended,24020001
 
-[Cheats/Start With Infinite Ammo]  
+//Cheats/Start With Infinite Ammo
 patch=1,EE,2016A950,extended,24030064
 patch=1,EE,2016A954,extended,AC4302BC
 
-[Cheats/Start With Infinite Ammo Flamethrower & Control Baton] 
+//Cheats/Start With Infinite Ammo Flamethrower & Control Baton
 patch=1,EE,2016AEC8,extended,24030064
 patch=1,EE,2016AECC,extended,AC4302BC
 
-[Cheats/Start With Infinite Grenades]  
+//Cheats/Start With Infinite Grenades
 patch=1,EE,2016B530,extended,24100064
 patch=1,EE,2016B540,extended,AC50027C
 patch=1,EE,2016B77C,extended,2410000B
 
-[Cheats/Max Infinite Ammo No Reload All Guns] 
+//Cheats/Max Infinite Ammo No Reload All Guns
 patch=1,EE,20154994,extended,240303E7
 patch=1,EE,201549E0,extended,240303E7
 
-[Cheats/Max Infinite Grenades]  
+//Cheats/Max Infinite Grenades
 patch=1,EE,201549D0,extended,240203E7
 
-[Cheats/Unlock All] 
+//Cheats/Unlock All
 patch=1,EE,202AC8F8,extended,00000001
 
 

@@ -1,32 +1,32 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,202FE3CC,extended,24040640
 patch=1,EE,202FE3D0,extended,A44401A4
 patch=1,EE,202FE3D4,extended,10000011
 
-[Cheats/Infinite Health alt] 
+//Cheats/Infinite Health alt
 patch=1,EE,200C2000,extended,8C610058
 patch=1,EE,200C2004,extended,A44101A4
 patch=1,EE,200C2008,extended,03E00008
 patch=1,EE,200C200C,extended,00011020
 patch=1,EE,202FDDDC,extended,0C030800
 
-[Cheats/Infinite Special Weapons] 
+//Cheats/Infinite Special Weapons
 patch=1,EE,201D06DC,extended,00000000
 patch=1,EE,201D0744,extended,00000000
 
-[Cheats/Infinite Missiles] 
+//Cheats/Infinite Missiles
 patch=1,EE,201CC174,extended,00000000
 
-[Cheats/Infinite time] 
+//Cheats/Infinite time
 patch=1,EE,202C20F8,extended,00000000
 
-[Cheats/Infinite Mission Timer] 
+//Cheats/Infinite Mission Timer
 patch=1,EE,202C20F0,extended,2401C9CC
 
-[Cheats/Unlock Movie After The Festival] 
+//Cheats/Unlock Movie After The Festival
 patch=1,EE,004D15EC,extended,00000001
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,104D15E2,extended,00000101
 patch=1,EE,204D15E4,extended,01010101
 patch=1,EE,204D15E8,extended,01010101

@@ -1,23 +1,23 @@
-[Cheats/Frodo Infinite Health] 
+//Cheats/Frodo Infinite Health
 patch=1,EE,2051F000,extended,3C0142C8
 patch=1,EE,2051F004,extended,44810000
 patch=1,EE,2051F008,extended,E4800014
 patch=1,EE,2051F00C,extended,03E00008
 patch=1,EE,202395C8,extended,08147C00
 
-[Cheats/Infinite Purity] 
+//Cheats/Infinite Purity
 patch=1,EE,20323FE8,extended,00000000
 patch=1,EE,20323F50,extended,00000000
 
-[Cheats/1 Hit Kill] 
+//Cheats/1 Hit Kill
 patch=1,EE,200FFF2C,extended,44800000
 
-[Cheats/Infinite Ring Usage] 
+//Cheats/Infinite Ring Usage
 patch=1,EE,20323FDC,extended,3C014380
 patch=1,EE,20323FE4,extended,AE010160
 patch=1,EE,20323FE8,extended,AE010164
 
-[Cheats/Infinite Magic] 
+//Cheats/Infinite Magic
 patch=1,EE,2032ADF4,extended,3C014400
 patch=1,EE,2032ADFC,extended,AE210090
 patch=1,EE,2032AE00,extended,ACA100A4

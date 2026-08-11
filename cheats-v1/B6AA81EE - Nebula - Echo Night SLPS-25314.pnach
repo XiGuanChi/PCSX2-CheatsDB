@@ -1,13 +1,13 @@
-[Cheats/Always Low Heart Rate] 
+//Cheats/Always Low Heart Rate
 patch=1,EE,209C4C04,extended,42A00000
 patch=1,EE,209C4C0C,extended,42A00000
 
-[Cheats/Invincible Except For Falling To Death] 
+//Cheats/Invincible Except For Falling To Death
 patch=1,EE,202137E4,extended,00000000
 patch=1,EE,202137F4,extended,00000000
 patch=1,EE,2020C4BC,extended,00000000
 patch=1,EE,2020AF8C,extended,00000000
 
-[Cheats/Light Battery Does Not Drain] 
+//Cheats/Light Battery Does Not Drain
 patch=1,EE,20AC59EC,extended,4F800000
 patch=1,EE,20AC59F0,extended,4F800000

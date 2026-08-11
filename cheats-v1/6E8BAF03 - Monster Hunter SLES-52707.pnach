@@ -1,42 +1,42 @@
-[Cheats/Infinite Money 99999999] 
+//Cheats/Infinite Money 99999999
 patch=1,EE,203AE360,extended,05F5E0FF
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,003CC3F2,extended,00000096
 patch=1,EE,003CC882,extended,00000096
 
-[Cheats/Infinite endurance + Refil hunger] 
+//Cheats/Infinite endurance + Refil hunger
 patch=1,EE,103CC838,extended,000001C2
 patch=1,EE,103CC972,extended,000001C2
 
-[Cheats/No Poison Time] 
+//Cheats/No Poison Time
 patch=1,EE,103CC8AA,extended,00000000
 
-[Cheats/No Shock Time] 
+//Cheats/No Shock Time
 patch=1,EE,103CCA24,extended,00000000
 
-[Cheats/No Knock Out Time] 
+//Cheats/No Knock Out Time
 patch=1,EE,103CC0F7,extended,00000000
 
-[Cheats/See Monster on Map] 
+//Cheats/See Monster on Map
 patch=1,EE,103CCA20,extended,00000121
 
-[Cheats/No Reload] 
+//Cheats/No Reload
 patch=1,EE,103CC10C,extended,000000FF
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,003CC10D,extended,00000028
 
-[Cheats/Infinite Large Bomb Plant] 
+//Cheats/Infinite Large Bomb Plant
 patch=1,EE,003DB300,extended,00000000
 
-[Cheats/Infinite Meat Plant] 
+//Cheats/Infinite Meat Plant
 patch=1,EE,003DB301,extended,00000000
 
-[Cheats/Infinite Traps Plant] 
+//Cheats/Infinite Traps Plant
 patch=1,EE,003DB302,extended,00000000
 
-[Cheats/Show Monster Health L2+Select On-Off] 
+//Cheats/Show Monster Health L2+Select On-Off
 patch=1,EE,E002FEFE,extended,000F87E8
 patch=1,EE,20125120,extended,0803E200
 patch=1,EE,200F87E8,extended,1107D846
@@ -142,7 +142,7 @@ patch=1,EE,200F8944,extended,253A7325
 patch=1,EE,200F8948,extended,252F6435
 patch=1,EE,200F894C,extended,00000064
 
-[Cheats/[Cheats/Show Monster Health L2+Left-Right Themes] 
+//Cheats/[Cheats/Show Monster Health L2+Left-Right Themes
 patch=1,EE,E0020001,extended,000F87EC
 patch=1,EE,200F8820,extended,24040001
 patch=1,EE,200F8948,extended,252F6435
@@ -155,5 +155,5 @@ patch=1,EE,200F8948,extended,00006435
 patch=1,EE,E001FEFE,extended,000F87E8
 patch=1,EE,30200003,extended,000F87EE
 
-[Cheats/Performance patch] 
+//Cheats/Performance patch
 patch=1,EE,00152CDC,extended,24050000

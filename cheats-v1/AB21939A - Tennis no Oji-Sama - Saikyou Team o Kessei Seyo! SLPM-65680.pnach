@@ -1,19 +1,19 @@
-[Cheats/SS 1st Character Max FTW After status change] 
+//Cheats/SS 1st Character Max FTW After status change
 patch=1,EE,105956E6,extended,000003E8
 
-[Cheats/SS 1st Character Max POW After status change] 
+//Cheats/SS 1st Character Max POW After status change
 patch=1,EE,105956E8,extended,000003E8
 
 [Cheats/SS 1st Character Max TEC After status change 
 patch=1,EE,105956EA,extended,000003E8
 
-[Cheats/SS 1st Character Max STAs After status change] 
+//Cheats/SS 1st Character Max STAs After status change
 patch=1,EE,105956EC,extended,000003E8
 
-[Cheats/SS 1st Character Max MTL After status change] 
+//Cheats/SS 1st Character Max MTL After status change
 patch=1,EE,105956EE,extended,000003E8
 
-[Cheats/Unlock All Characters And All Skills Learned] 
+//Cheats/Unlock All Characters And All Skills Learned
 patch=1,EE,40593148,extended,0035002E
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,4059314C,extended,0035002E
@@ -33,25 +33,25 @@ patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,40593144,extended,0035002E
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Characters Leader Point 8] 
+//Cheats/Unlock All Characters Leader Point 8
 patch=1,EE,405930D8,extended,0035002E
 patch=1,EE,00000008,extended,00000000
 
-[Cheats/Unlock Practice Level 2] 
+//Cheats/Unlock Practice Level 2
 patch=1,EE,40593074,extended,000A0001
 patch=1,EE,00000002,extended,00000000
 
-[Cheats/Friendship Level 1st Character Leader 100  Second Character] 
+//Cheats/Friendship Level 1st Character Leader 100  Second Character
 patch=1,EE,005956D4,extended,00000064
 
-[Cheats/Friendship Level 1st Character Leader 100  Third Character] 
+//Cheats/Friendship Level 1st Character Leader 100  Third Character
 patch=1,EE,005956D6,extended,00000064
 
-[Cheats/Friendship Level 1st Character Leader 100  Fourth Character] 
+//Cheats/Friendship Level 1st Character Leader 100  Fourth Character
 patch=1,EE,005956D8,extended,00000064
 
-[Cheats/Friendship Level 1st Character Leader 100 Fifth Character]  
+//Cheats/Friendship Level 1st Character Leader 100 Fifth Character
 patch=1,EE,005956DA,extended,00000064
 
-[Cheats/Friendship Level 1st Character Leader 100 All Characters] 
+//Cheats/Friendship Level 1st Character Leader 100 All Characters
 patch=1,EE,205A0430,extended,FFFFFFFF

@@ -1,4 +1,4 @@
-[Cheats/God Mode] 
+//Cheats/God Mode
 patch=1,EE,200FFFC0,extended,3C010050
 patch=1,EE,200FFFC4,extended,8C21F658
 patch=1,EE,200FFFC8,extended,10240002
@@ -6,11 +6,11 @@ patch=1,EE,200FFFD0,extended,E6800040
 patch=1,EE,200FFFD8,extended,080FB962
 patch=1,EE,203EE580,extended,0803FFF0
 
-[Cheats/Freeze Timer] 
+//Cheats/Freeze Timer
 patch=1,EE,2023B720,extended,AE0006DC
 patch=1,EE,2023B724,extended,44800000
 
-[Cheats/1 Hit Kill] 
+//Cheats/1 Hit Kill
 patch=1,EE,200FFEC0,extended,3C010050
 patch=1,EE,200FFEC4,extended,8C21F658
 patch=1,EE,200FFEC8,extended,14350002
@@ -18,13 +18,13 @@ patch=1,EE,200FFED0,extended,08061F42
 patch=1,EE,200FFED8,extended,08061EFE
 patch=1,EE,20187BF0,extended,0803FFB0
 
-[Cheats/Infinite Ammo Level 1] 
+//Cheats/Infinite Ammo Level 1
 patch=1,EE,21A23FDC,extended,00000063
 
-[Cheats/Infinite Health Level 1] 
+//Cheats/Infinite Health Level 1
 patch=1,EE,21A3AF30,extended,43960000
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C2000,extended,24052710
 patch=1,EE,200C2004,extended,44850000
 patch=1,EE,200C2008,extended,46800020
@@ -32,26 +32,26 @@ patch=1,EE,200C200C,extended,0808E824
 patch=1,EE,200C2010,extended,E6200040
 patch=1,EE,20242E00,extended,0C030800
 
-[Cheats/Infinite Armor]  
+//Cheats/Infinite Armor
 patch=1,EE,20187E18,extended,00000000
 
-[Cheats/Infinite Ammo No Reload]  
+//Cheats/Infinite Ammo No Reload
 patch=1,EE,2014404C,extended,00000000
 
-[Cheats/Infinite Grenades]  
+//Cheats/Infinite Grenades
 patch=1,EE,20145508,extended,24003634
 
-[Cheats/Max Flashlight] 
+//Cheats/Max Flashlight
 patch=1,EE,2049ECF8,extended,43000000
 patch=1,EE,2049ED00,extended,43000000
 
-[Cheats/Max Ammunition All Weapons] 
+//Cheats/Max Ammunition All Weapons
 patch=1,EE,20146CD8,extended,00820821
 patch=1,EE,20146CE0,extended,240203E7
 patch=1,EE,20146CF0,extended,AC220010
 
-[Cheats/Unlock All Weapons] 
+//Cheats/Unlock All Weapons
 patch=1,EE,20338AF0,extended,2003FFFF
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,20338FC0,extended,2002FFFF

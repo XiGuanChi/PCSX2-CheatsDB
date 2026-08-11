@@ -1,30 +1,30 @@
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,206E57E8,extended,3F800000
 
-[Cheats/1 Hit Death P2] 
+//Cheats/1 Hit Death P2
 patch=1,EE,D06F27DE,extended,000043FA
 patch=1,EE,206F27DC,extended,3F800000
 
-[Cheats/Unlock All Arena Packages] 
+//Cheats/Unlock All Arena Packages
 patch=1,EE,406A6738,extended,00030001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Gallery Pictures] 
+//Cheats/Unlock All Gallery Pictures
 patch=1,EE,406A6B30,extended,001B0001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock Godzilla Final Wars Gallery Pictures] 
+//Cheats/Unlock Godzilla Final Wars Gallery Pictures
 patch=1,EE,406A6B9D,extended,000D0001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Monsters] 
+//Cheats/Unlock All Monsters
 patch=1,EE,406A67D0,extended,0012000C
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Monsters Packages] 
+//Cheats/Unlock All Monsters Packages
 patch=1,EE,406A6794,extended,00030001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Cities Purchased] 
+//Cheats/Unlock All Cities Purchased
 patch=1,EE,406A6740,extended,00150001
 patch=1,EE,5179A4D1,extended,00000000

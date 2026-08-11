@@ -1,24 +1,24 @@
-[Cheats/infinite Health] 
+//Cheats/infinite Health
 patch=1,EE,205BDBE4,extended,E481031C
 
-[Cheats/Infinite Health alt] 
+//Cheats/Infinite Health alt
 patch=1,EE,2022D8CC,extended,2401012C
 patch=1,EE,2022D8D0,extended,AC41031C
 
-[Cheats/Infinite Ammo No Reload] 
+//Cheats/Infinite Ammo No Reload
 patch=1,EE,204A1B54,extended,00000000
 patch=1,EE,204A1B60,extended,00000000
 
-[Cheats/Always Silent]
+//Cheats/Always Silent
 patch=1,EE,20608624,extended,AE20047C
 patch=1,EE,20608750,extended,AE20047C
 
-[Cheats/Always In Shadow] 
+//Cheats/Always In Shadow
 patch=1,EE,203B63C8,extended,AE0000E8
 
-[Cheats/Always In Shadow Alt] 
+//Cheats/Always In Shadow Alt
 patch=1,EE,203B63C4,extended,44800000
 patch=1,EE,203B63BC,extended,AE0010BC
 
-[Cheats/Unlock Mission Select IN LOAD GAME] 
+//Cheats/Unlock Mission Select IN LOAD GAME
 patch=1,EE,20578B78,extended,24030001

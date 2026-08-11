@@ -1,33 +1,33 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,204ADA0C,extended,05F5E0FF
 
-[Cheats/Infinite Nitrous Usage] 
+//Cheats/Infinite Nitrous Usage
 patch=1,EE,2018D644,extended,44801000
 patch=1,EE,2018D858,extended,00000000
 
-[Cheats/Always Max Nitrous Turbo] 
+//Cheats/Always Max Nitrous Turbo
 patch=1,EE,201D3CC0,extended,2403270F
 patch=1,EE,201D3CC4,extended,AE2303F0
 patch=1,EE,201D3CC8,extended,AE2303F8
 patch=1,EE,2018D644,extended,44801000
 patch=1,EE,2018D858,extended,00000000
 
-[Cheats/Max Total Starts] 
+//Cheats/Max Total Starts
 patch=1,EE,204B595C,extended,05F5E0FF
 
-[Cheats/Max Total Wins] 
+//Cheats/Max Total Wins
 patch=1,EE,204B5960,extended,05F5E0FF
 
-[Cheats/Max Total Style Points] 
+//Cheats/Max Total Style Points
 patch=1,EE,204A6274,extended,05F5E0FF
 
-[Cheats/Unlock All Underground Race Progress]  
+//Cheats/Unlock All Underground Race Progress
 patch=1,EE,004AC9E7,extended,00000002
 patch=1,EE,404AC9E8,extended,001B0001
 patch=1,EE,02020202,extended,00000000
 patch=1,EE,104ACA54,extended,00000202
 patch=1,EE,004ACA56,extended,00000002
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,205016A4,extended,00000001
 patch=1,EE,20503C94,extended,00000001

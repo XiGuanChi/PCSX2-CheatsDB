@@ -1,15 +1,15 @@
-[Cheats/Home Team Score 99 Press Select+Up to activate] 
+//Cheats/Home Team Score 99 Press Select+Up to activate
 patch=1,EE,D0288240,extended,0000FFEE
 patch=1,EE,002281E8,extended,00000063 
 
-[Cheats/Home Team Score 0 Press Select+Down to activate] 
+//Cheats/Home Team Score 0 Press Select+Down to activate
 patch=1,EE,D0288240,extended,0000FFBE
 patch=1,EE,002281E8,extended,00000000
 
-[Cheats/Away Team Score 99 Press Select+Right to activate] 
+//Cheats/Away Team Score 99 Press Select+Right to activate
 patch=1,EE,D0288240,extended,0000FFDE
 patch=1,EE,002281EC,extended,00000063
 
-[Cheats/Away Team Score 0 Press Select+Left to activate] 
+//Cheats/Away Team Score 0 Press Select+Left to activate
 patch=1,EE,D0288240,extended,0000FF7E
 patch=1,EE,002281EC,extended,00000000

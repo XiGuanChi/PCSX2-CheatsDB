@@ -1,24 +1,24 @@
-[Cheats/Team A Scores 50] 
+//Cheats/Team A Scores 50
 patch=1,EE,002F05D4,extended,00000032
 
-[Cheats/Team A Scores 0] 
+//Cheats/Team A Scores 0
 patch=1,EE,002F05D4,extended,00000000
 
-[Cheats/Team B Scores 50] 
+//Cheats/Team B Scores 50
 patch=1,EE,002F05D5,extended,00000032
 
-[Cheats/Team B Scores 0] 
+//Cheats/Team B Scores 0
 patch=1,EE,002F05D5,extended,00000000
 
-[Cheats/Unlock All Difficulties] 
+//Cheats/Unlock All Difficulties
 patch=1,EE,00262016,extended,000000FF
 patch=1,EE,00262908,extended,000000FF
 
-[Cheats/Unlock All Summer Heat US Tour Difficulties] 
+//Cheats/Unlock All Summer Heat US Tour Difficulties
 patch=1,EE,00262015,extended,000000FF
 patch=1,EE,00262909,extended,000000FF
 
-[Cheats/Unlock Advanced Training] 
+//Cheats/Unlock Advanced Training
 patch=1,EE,0026201C,extended,000000FF
 patch=1,EE,D026201E,extended,00000000
 patch=1,EE,0026201E,extended,00000001
@@ -26,27 +26,27 @@ patch=1,EE,0026290A,extended,000000FF
 patch=1,EE,D026290C,extended,00200100
 patch=1,EE,0026290D,extended,00000001
 
-[Cheats/Unlock All MiniGames] 
+//Cheats/Unlock All MiniGames
 patch=1,EE,00262014,extended,000000FF
 patch=1,EE,0026290B,extended,000000FF
 
-[Cheats/Unlock All Basic Training Skills] 
+//Cheats/Unlock All Basic Training Skills
 patch=1,EE,0026201D,extended,000000FF
 patch=1,EE,0026290C,extended,000000FF
 
-[Cheats/Unlock All Advanced Training Skills] 
+//Cheats/Unlock All Advanced Training Skills
 patch=1,EE,0026201E,extended,000000FF
 patch=1,EE,0026290D,extended,000000FF
 
-[Cheats/Unlock All Destinations] 
+//Cheats/Unlock All Destinations
 patch=1,EE,20261FC8,extended,FFFFFFFF
 patch=1,EE,202628AC,extended,FFFFFFFF
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,20261FCC,extended,FFFFFFFF
 patch=1,EE,202628B0,extended,FFFFFFFF
 
-[Cheats/Unlock All Swimwear] 
+//Cheats/Unlock All Swimwear
 patch=1,EE,202628B4,extended,FFFFFFFF
 patch=1,EE,202628B8,extended,FFFFFFFF
 patch=1,EE,202628BC,extended,FFFFFFFF

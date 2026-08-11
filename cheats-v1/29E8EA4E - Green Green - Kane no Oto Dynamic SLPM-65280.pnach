@@ -1,12 +1,12 @@
-[Cheats/Clear Flag ON] 
+//Cheats/Clear Flag ON
 patch=1,EE,208ACBEC,extended,FFFFFFFF
 
-[Cheats/Unlock All Secrets] 
+//Cheats/Unlock All Secrets
 patch=1,EE,208ACBEC,extended,FFFFFFFF
 patch=1,EE,408ACC18,extended,000D0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Scenes Replay] 
+//Cheats/Unlock All Scenes Replay
 patch=1,EE,208ACC1C,extended,FFFFFFFF
 patch=1,EE,208ACC20,extended,FFFFFFFF
 patch=1,EE,208ACC24,extended,FFFFFFFF
@@ -18,7 +18,7 @@ patch=1,EE,208ACC38,extended,FFFFFFFF
 patch=1,EE,208ACC3C,extended,FFFFFFFF
 patch=1,EE,208ACC40,extended,FFFFFFFF
 
-[Cheats/Unlock All Whole Scene Ornamental on Clear Flag] 
+//Cheats/Unlock All Whole Scene Ornamental on Clear Flag
 patch=1,EE,20369C74,extended,01010101
 patch=1,EE,20369C78,extended,01010101
 patch=1,EE,20369C7C,extended,01010101
@@ -27,7 +27,7 @@ patch=1,EE,20369C84,extended,01010101
 patch=1,EE,20369C88,extended,01010101
 patch=1,EE,10369C8C,extended,00000101
 
-[Cheats/Unlock All Songs Appear in Music Appreciation on Clear Flag]  
+//Cheats/Unlock All Songs Appear in Music Appreciation on Clear Flag
 patch=1,EE,20366E04,extended,01010101
 patch=1,EE,20366E08,extended,01010101
 patch=1,EE,20366E0C,extended,01010101

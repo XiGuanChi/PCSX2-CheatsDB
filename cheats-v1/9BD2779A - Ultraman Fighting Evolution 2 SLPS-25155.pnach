@@ -1,7 +1,7 @@
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,2062B950,extended,00000000
 patch=1,EE,2062B954,extended,00000000
 
-[Cheats/Press L3 For Debug Menu This is best used at the main menu. TITLE This allows you to quickly select game modes. Selecting CHAR VIEW allows you to select a character and stage to freely view. CHARACTOR VIEW This is the same as the CHAR VIEW option from the TITLE sub-menu. MOVIE TEST This allows you to view any movie. Not all of them work as they don't appear to be on the disc anymore.KOZAKAI TEST This allows you to listen to music and character voices]
+//Cheats/Press L3 For Debug Menu This is best used at the main menu. TITLE This allows you to quickly select game modes. Selecting CHAR VIEW allows you to select a character and stage to freely view. CHARACTOR VIEW This is the same as the CHAR VIEW option from the TITLE sub-menu. MOVIE TEST This allows you to view any movie. Not all of them work as they don't appear to be on the disc anymore.KOZAKAI TEST This allows you to listen to music and character voices
 patch=1,EE,D05AAD82,extended,0000FFFD
 patch=1,EE,20426BE0,extended,00000000

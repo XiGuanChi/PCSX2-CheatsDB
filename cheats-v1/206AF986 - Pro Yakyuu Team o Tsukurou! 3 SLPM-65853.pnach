@@ -1,48 +1,48 @@
-[Cheats/Infinite Operation Instructions Remaining Points]  
+//Cheats/Infinite Operation Instructions Remaining Points
 patch=1,EE,005C7820,extended,00000003
 
-[Cheats/Essential XT Chords using this code are effective after practice] 
+//Cheats/Essential XT Chords using this code are effective after practice
 patch=1,EE,2015A500,extended,0C03E000
 patch=1,EE,200F80A0,extended,080600E4
 
-[Cheats/Max Match Feel XT] 
+//Cheats/Max Match Feel XT
 patch=1,EE,2015A8C0,extended,24032710
 
-[Cheats/Max Motivation XT] 
+//Cheats/Max Motivation XT
 patch=1,EE,2015A90C,extended,24030FA1
 
-[Cheats/Max Condition XT]  
+//Cheats/Max Condition XT
 patch=1,EE,2015A95C,extended,24030FA1
 
-[Cheats/No Fatigue XT]  
+//Cheats/No Fatigue XT
 patch=1,EE,2015A9AC,extended,24030000
 
-[Cheats/Max Stamina XT]
+//Cheats/Max Stamina XT
 patch=1,EE,2015AA14,extended,0042202A
 
-[Cheats/Max Toughness XT] 
+//Cheats/Max Toughness XT
 patch=1,EE,2015A874,extended,24042710
 
-[Cheats/Ability Grown To Provisional Limit XT] 
+//Cheats/Ability Grown To Provisional Limit XT
 patch=1,EE,2015AA90,extended,00C0100A
 
-[Cheats/No Complaints XT]  
+//Cheats/No Complaints XT
 patch=1,EE,200F8000,extended,A6C0005A
 patch=1,EE,200F8004,extended,A6C0005C
 patch=1,EE,200F8008,extended,A6C0005E
 patch=1,EE,200F800C,extended,A6C00060
 
-[Cheats/Age Display 18 Years Old XT]
+//Cheats/Age Display 18 Years Old XT
 patch=1,EE,200F8010,extended,24020012
 patch=1,EE,200F8014,extended,A2C20018
 patch=1,EE,200F8018,extended,A2C20018
 
-[Cheats/Contract Years 0-5 XT]  
+//Cheats/Contract Years 0-5 XT
 patch=1,EE,200F801C,extended,24020005
 patch=1,EE,200F8020,extended,A2C2003B
 patch=1,EE,200F8024,extended,A2C0003A
 
-[Cheats/Change Skills By Specifying Uniform Number XT] 
+//Cheats/Change Skills By Specifying Uniform Number XT
 patch=1,EE,200F8090,extended,82C20017
 patch=1,EE,200F8094,extended,10430004
 patch=1,EE,200F8110,extended,080600E4

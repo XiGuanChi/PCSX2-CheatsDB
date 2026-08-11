@@ -1,26 +1,26 @@
-[Cheats/Goosebumps Meter 0] 
+//Cheats/Goosebumps Meter 0
 patch=1,EE,2036155C,extended,E4411D88
 
-[Cheats/Max Stamina] 
+//Cheats/Max Stamina
 patch=1,EE,218968BC,extended,42C80000
 
-[Cheats/Infinite Stamina] 
+//Cheats/Infinite Stamina
 patch=1,EE,2036165C,extended,0000000
 
-[Cheats/Infinite Weapon Usage Count] 
+//Cheats/Infinite Weapon Usage Count
 patch=1,EE,20361344,extended,00000000
 
-[Cheats/Press R3 Kill Which] 
+//Cheats/Press R3 Kill Which
 patch=1,EE,D18EC842,extended,0000FFFB
 patch=1,EE,218968B8,extended,44160000
 
-[Cheats/How we do not fear it is the] 
+//Cheats/How we do not fear it is the
 patch=1,EE,218968B8,extended,00000000
 
-[Cheats/Unlock Start Stage When Selecting From Okinawa Continue Needs a save] 
+//Cheats/Unlock Start Stage When Selecting From Okinawa Continue Needs a save
 patch=1,EE,218968B4,extended,FFFFFFFF
 
-[Cheats/Unlock Return My Skirt] 
+//Cheats/Unlock Return My Skirt
 patch=1,EE,20314470,extended,080BFFC0
 patch=1,EE,202FFF00,extended,3C040053
 patch=1,EE,202FFF04,extended,34857640
@@ -31,21 +31,21 @@ patch=1,EE,202FFF24,extended,20840010
 patch=1,EE,202FFF28,extended,080C511E
 patch=1,EE,202FFF2C,extended,00022380
 
-[Cheats/Unlock I'll hit it, hit it, and kill it] 
+//Cheats/Unlock I'll hit it, hit it, and kill it
 patch=1,EE,218DAD3C,extended,00000001
 
-[Cheats/Unlock Please give me all these clothes!] 
+//Cheats/Unlock Please give me all these clothes!
 patch=1,EE,018968B0,extended,0000007F
 
-[Cheats/Unlock Please give me all your travel tickets!] 
+//Cheats/Unlock Please give me all your travel tickets!
 patch=1,EE,018968AC,extended,0000003F
 
-[Cheats/I have to decide for myself at the end Good End] 
+//Cheats/I have to decide for myself at the end Good End
 patch=1,EE,20362448,extended,24020002
 
-[Cheats/At the start, you can change your hometown as an option] 
+//Cheats/At the start, you can change your hometown as an option
 patch=1,EE,218968AC,extended,FFFFFFFF
 
-[Cheats/At the start, you can change your clothes as an option] 
+//Cheats/At the start, you can change your clothes as an option
 patch=1,EE,218968B0,extended,FFFFFFFF
 

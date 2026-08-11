@@ -1,13 +1,13 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,202A6C5C,extended,00000000
 
-[Cheats/Infinite Sand Of Time] 
+//Cheats/Infinite Sand Of Time
 patch=1,EE,203C392C,extended,00000000
 
-[Cheats/Instant Rewind Power Recharge] 
+//Cheats/Instant Rewind Power Recharge
 patch=1,EE,2046D6AC,extended,00000000
 
-[Cheats/1 Hi Kill Except for Bosses] 
+//Cheats/1 Hi Kill Except for Bosses
 patch=1,EE,20391768,extended,AE600208
 patch=1,EE,20391770,extended,C6610208
 patch=1,EE,20355E74,extended,10000012
@@ -17,10 +17,10 @@ patch=1,EE,2027C6E8,extended,AE60018C
 patch=1,EE,2027C6F0,extended,C661018C
 patch=1,EE,201E880C,extended,1000004E
 
-[Cheats/Unlock Video Gallery and Level Select]  
+//Cheats/Unlock Video Gallery and Level Select
 patch=1,EE,205D2470,extended,2404000A
 
-[Cheats/Unlock All Extra Features]  
+//Cheats/Unlock All Extra Features
 patch=1,EE,207DDA40,extended,FFFFFFFF
 patch=1,EE,207DDA44,extended,FFFFFFFF
 patch=1,EE,207DDA48,extended,FFFFFFFF

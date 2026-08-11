@@ -1,13 +1,13 @@
 gametitle=X-Men - The Official Game PAL-M SLES-54066 DF217C0B
 
-[50/60 FPS]
+//50/60 FPS
 author=GamingDragon93
 description=Might need EE Overclock (130%).
 patch=1,EE,204A3C54,extended,42480000
 patch=1,EE,E0010002,extended,001bb1c0
 patch=1,EE,204A3C54,extended,42700000
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start. First loading screen requires Build.
 patch=1,EE,001bb1c0,word,24050002 //24050003

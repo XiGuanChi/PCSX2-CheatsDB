@@ -1,65 +1,65 @@
-[Cheats/Max Manny 999999] 
+//Cheats/Max Manny 999999
 patch=1,EE,2032DF70,extended,000F423F
 
-[Cheats/Monny does not decrease even after shopping] 
+//Cheats/Monny does not decrease even after shopping
 patch=1,EE,20242570,extended,0000802D
 patch=1,EE,202425A0,extended,0000802D
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,2019E70C,extended,8C820004
 patch=1,EE,2019E724,extended,AC820000
 
-[Cheats/Infinite MP]  
+//Cheats/Infinite MP
 patch=1,EE,201A1A08,extended,00000000
 
-[Cheats/Max Drive gauge]  
+//Cheats/Max Drive gauge
 patch=1,EE,201A1AA0,extended,240F0064
 patch=1,EE,201A1ACC,extended,256EFFFF
 
-[Cheats/Infinite HP Main Character] 
+//Cheats/Infinite HP Main Character
 patch=1,EE,200F7000,extended,8C820004
 patch=1,EE,200F7004,extended,0806891E
 patch=1,EE,200F7008,extended,AC820000
 patch=1,EE,20166CD8,extended,0C03DC00
 
-[Cheats/Infinite HP Second Character] 
+//Cheats/Infinite HP Second Character
 patch=1,EE,D034D45C,extended,00007FDF
 patch=1,EE,200F7054,extended,01C0102D
 patch=1,EE,D034D45C,extended,00007F7F
 patch=1,EE,200F7054,extended,00000000
 
-[Cheats/Infinite HP Third Character] 
+//Cheats/Infinite HP Third Character
 patch=1,EE,D034D45C,extended,00007FDF
 patch=1,EE,200F7054,extended,8C820004
 patch=1,EE,D034D45C,extended,00007F7F
 patch=1,EE,200F7054,extended,00000000
 
-[Cheats/Required code] 
+//Cheats/Required code
 patch=1,EE,200F7050,extended,55E00006
 patch=1,EE,200F706C,extended,03E00008
 patch=1,EE,200F7070,extended,AC820000
 patch=1,EE,201A1948,extended,0803DC14
 patch=1,EE,201A194C,extended,948F0196
 
-[Cheats/In Battle Infinite Ally HP square+right ON square+left OFF] 
+//Cheats/In Battle Infinite Ally HP square+right ON square+left OFF
 patch=1,EE,D034D45C,extended,00007FDF
 patch=1,EE,200F7054,extended,8C820004
 patch=1,EE,D034D45C,extended,00007F7F
 patch=1,EE,200F7054,extended,00000000
 
-[Cheats/Learn All Magic] 
+//Cheats/Learn All Magic
 patch=1,EE,2032F0C4,extended,03030303
 patch=1,EE,0032F0FF,extended,00000003
 patch=1,EE,0032F100,extended,00000003
 
-[Cheats/Shokan All Acquired] 
+//Cheats/Shokan All Acquired
 patch=1,EE,201D6DF0,extended,0C068C62
 patch=1,EE,201D6DF4,extended,24050141
 
-[Cheats/Infinite Drive] 
+//Cheats/Infinite Drive
 patch=1,EE,201A1BE0,extended,C60001B8
 
-[Cheats/In Battle Infinite Mana] 
+//Cheats/In Battle Infinite Mana
 patch=1,EE,200C0100,extended,8C830238
 patch=1,EE,200C0104,extended,8C810184
 patch=1,EE,200C0108,extended,0023100B
@@ -67,5 +67,5 @@ patch=1,EE,200C010C,extended,08068678
 patch=1,EE,200C0110,extended,AC820180
 patch=1,EE,201A1A10,extended,08030040
 
-[Cheats/Have All 9 Drive Bar] 
+//Cheats/Have All 9 Drive Bar
 patch=1,EE,21C6C900,extended,0A090964

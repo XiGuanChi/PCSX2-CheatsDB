@@ -1,26 +1,26 @@
-[Cheats/Infinite Lives]   
+//Cheats/Infinite Lives
 patch=1,EE,2078C64C,extended,00000009
 
-[Cheats/Infinite Lives Alt] 
+//Cheats/Infinite Lives Alt
 patch=1,EE,200C0230,extended,8E0401F4
 patch=1,EE,200C0234,extended,24010009
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,200C023C,extended,ACA10000
 patch=1,EE,201BD6FC,extended,0C03008C
 
-[Cheats/Infinite Continues 99] 
+//Cheats/Infinite Continues 99
 patch=1,EE,1078C64C,extended,00000063
 
-[Cheats/Max Crowns, Crimson Chin Cards and Wish Stars] 
+//Cheats/Max Crowns, Crimson Chin Cards and Wish Stars
 patch=1,EE,200C0220,extended,8E0201F0
 patch=1,EE,200C0224,extended,24010063
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,AC410000
 patch=1,EE,201BCC40,extended,0C030088
 
-[Cheats/Unlock Can Play Any Bonus] 
+//Cheats/Unlock Can Play Any Bonus
 patch=1,EE,2010BB8C,extended,00000000
 
-[Cheats/Unlock All Bonus Movies] 
+//Cheats/Unlock All Bonus Movies
 patch=1,EE,204916A8,extended,00000021
 patch=1,EE,20537A48,extended,00000021

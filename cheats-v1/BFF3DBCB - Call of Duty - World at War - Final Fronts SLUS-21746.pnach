@@ -1,16 +1,16 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2036DAE8,extended,3C014400
 patch=1,EE,2036DAF0,extended,AC610028
 
-[Cheats/Immune To Explosions] 
+//Cheats/Immune To Explosions
 patch=1,EE,2035E8E0,extended,24030001
 
-[Cheats/No Reload With Infinitie Clip] 
+//Cheats/No Reload With Infinitie Clip
 patch=1,EE,203F2E90,extended,00000000
 patch=1,EE,203F0234,extended,00000000
 
-[Cheats/God Mode] 
+//Cheats/God Mode
 patch=1,EE,0052F088,extended,00000001
 
-[Cheats/Infinite Ammo And Grenades] 
+//Cheats/Infinite Ammo And Grenades
 patch=1,EE,0052F08A,extended,00000001

@@ -1,42 +1,42 @@
-[Cheats/Max Health] 
+//Cheats/Max Health
 patch=1,EE,2016D358,extended,2401012C
 patch=1,EE,2016D360,extended,AE211198
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,203BBD9C,extended,8C821198
 patch=1,EE,203BBDA0,extended,AC821194
 
-[Cheats/Infinite Health alt] 
+//Cheats/Infinite Health alt
 patch=1,EE,203BBD98,extended,34020064
 patch=1,EE,203BBD9C,extended,AC821194
 
-[Cheats/Infinite Ninjitsu] 
+//Cheats/Infinite Ninjitsu
 patch=1,EE,2016D388,extended,C62C119C
 patch=1,EE,2016D390,extended,E62C11A0
 
-[Cheats/Max Ninjitsu] 
+//Cheats/Max Ninjitsu
 patch=1,EE,2016D400,extended,3C014396
 patch=1,EE,2016D408,extended,AE21119C
 
-[Cheats/Infinite Items Usage] 
+//Cheats/Infinite Items Usage
 patch=1,EE,203BD560,extended,00000000
 
-[Cheats/Have All Items] 
+//Cheats/Have All Items
 patch=1,EE,203D92B0,extended,24020001
 patch=1,EE,203D92B4,extended,AC620004
 
-[Cheats/Max Quantity All Items] 
+//Cheats/Max Quantity All Items
 patch=1,EE,203D97D0,extended,24100063
 patch=1,EE,203D97D4,extended,AC70000C
 
-[Cheats/Infinite Time Invisible]  
+//Cheats/Infinite Time Invisible
 patch=1,EE,00163F3C,extended,00000000
 
-[Cheats/One Hit Kill Boss] 
+//Cheats/One Hit Kill Boss
 patch=1,EE,00AB2496,extended,00000065
 
-[Cheats/You Can Move Without Disable Hidden] 
+//Cheats/You Can Move Without Disable Hidden
 patch=1,EE,00163F48,extended,0000000
 
-[Cheats/Replace New Game With Stage Select Menu] 
+//Cheats/Replace New Game With Stage Select Menu
 patch=1,EE,00106684,extended,0000000B

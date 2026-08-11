@@ -1,28 +1,28 @@
-[Cheats/Infinite Health Snake and Raiden] 
+//Cheats/Infinite Health Snake and Raiden
 patch=1,EE,20108E10,extended,00000000
 patch=1,EE,20108E20,extended,24020064
 
-[Cheats/Extra Ammo]  
+//Cheats/Extra Ammo
 patch=1,EE,2015E58C,extended,00711821
 
-[Cheats/Health]  
+//Cheats/Health
 patch=1,EE,20108E20,extended,24020064
 
-[Cheats/Infinite Grip Snake and Raiden]  
+//Cheats/Infinite Grip Snake and Raiden
 patch=1,EE,0157e868,extended,00711821
 
-[Cheats/Infinite O2 Snake and Raiden]  
+//Cheats/Infinite O2 Snake and Raiden
 patch=1,EE,001eda7a,extended,00711821
 
-[Cheats/Weapons and items doesnt decrease] 
+//Cheats/Weapons and items doesnt decrease
 patch=1,EE,0015E590,extended,00000000
 patch=1,EE,0015E5EC,extended,00000000
 
-[Cheats/Clean view underwater no bubbles] 
+//Cheats/Clean view underwater no bubbles
 patch=1,EE,001D5E24,extended,00000000
 
-[Cheats/Unlock All items] 
+//Cheats/Unlock All items
 patch=1,EE,2015E6F4,word,24020005
 
-[Cheats/Unlock All weapons]  
+//Cheats/Unlock All weapons
 patch=1,EE,0015E6DC,extended,24020064

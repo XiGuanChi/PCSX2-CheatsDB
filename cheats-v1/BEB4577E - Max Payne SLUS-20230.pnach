@@ -1,26 +1,26 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,203B0160,extended,3C0242F0
 patch=1,EE,203B0164,extended,AC82008C
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,2036F2CC,extended,00000000
 
-[Cheats/Infinite Bullet Time] 
+//Cheats/Infinite Bullet Time
 patch=1,EE,20163A00,extended,00000000
 patch=1,EE,20163DB8,extended,00000000
 
-[Cheats/1 Hit Kill Disable AI] 
+//Cheats/1 Hit Kill Disable AI
 patch=1,EE,203BAC50,extended,AC80008C
 
-[Cheats/Enable In Game Invincibility] 
+//Cheats/Enable In Game Invincibility
 patch=1,EE,20163454,extended,34050001
 patch=1,EE,2016341C,extended,00000000
 patch=1,EE,20163428,extended,00000000
 
-[Cheats/Infinite Time New York Minute] 
+//Cheats/Infinite Time New York Minute
 patch=1,EE,203BC224,extended,00000000
 
-[Cheats/Unlock Access All Levels] 
+//Cheats/Unlock Access All Levels
 patch=1,EE,1014DA12,extended,00001000
 patch=1,EE,102D93EA,extended,00001000
 patch=1,EE,102D9332,extended,00001000

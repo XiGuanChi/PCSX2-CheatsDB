@@ -1,22 +1,22 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,201A72E4,extended,0040202D
 patch=1,EE,201A72E8,extended,C480000C
 patch=1,EE,201A72EC,extended,E4800008
 
-[Cheats/Infinite Magic] 
+//Cheats/Infinite Magic
 patch=1,EE,201D7A00,extended,0200202D
 patch=1,EE,201D7A04,extended,C4800018
 patch=1,EE,201D7A08,extended,E4800014
 
-[Cheats/Max Freed Nativs] 
+//Cheats/Max Freed Nativs
 patch=1,EE,204248D4,extended,00000104
 
-[Cheats/Max Noolies] 
+//Cheats/Max Noolies
 patch=1,EE,2048DABC,extended,0000270F
 
-[Cheats/Enable Debug Menu] 
+//Cheats/Enable Debug Menu
 patch=1,EE,20468430,extended,00000000
 patch=1,EE,20468424,extended,00000000
 
-[Cheats/Start new game at LEVEL_13]  
+//Cheats/Start new game at LEVEL_13
 patch=1,EE,206DA5B4,extended,0000000D

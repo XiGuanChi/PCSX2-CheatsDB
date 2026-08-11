@@ -1,7 +1,7 @@
-[Cheats/Grand Prix Mode: Player 1 Scores 99 Points] 
+//Cheats/Grand Prix Mode: Player 1 Scores 99 Points
 patch=1,EE,202C20CC,extended,00000063
 
-[Cheats/Infinite  Ammo All Weapons] 
+//Cheats/Infinite  Ammo All Weapons
 patch=1,EE,200C0000,extended,1CA00023
 patch=1,EE,200C0004,extended,8C430AC4
 patch=1,EE,200C0008,extended,27BDFFD0
@@ -43,10 +43,10 @@ patch=1,EE,200C0094,extended,AE230000
 patch=1,EE,2013826C,extended,08030000
 patch=1,EE,20138270,extended,00000000
 
-[Cheats/Enable Debug Menu in Time Attack Mode] 
+//Cheats/Enable Debug Menu in Time Attack Mode
 patch=1,EE,002634D0,extended,00000006
 
-[Cheats/Enable Debug Menu in All Modes with minor text displacement in the pause screen] 
+//Cheats/Enable Debug Menu in All Modes with minor text displacement in the pause screen
 patch=1,EE,002B860D,extended,00000001
 patch=1,EE,201A5CA0,extended,24030006
 

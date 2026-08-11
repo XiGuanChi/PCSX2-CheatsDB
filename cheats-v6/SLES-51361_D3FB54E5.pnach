@@ -1,6 +1,6 @@
 gametitle=The Simpsons Skateboarding PAL-S SLES-51361 D3FB54E5
 
-[50/60 FPS]
+//50/60 FPS
 author=GamingDragon93
 description=Might need EE Overclock (130%)
 patch=0,EE,00191324,word,ACC00028 //ACC50028
@@ -8,7 +8,7 @@ patch=0,EE,00125fdc,word,24030014 //24030028
 patch=1,EE,0017AD40,word,3C023D0E //3C023D8E
 patch=1,EE,0017AD8C,word,3C02BD0E //3C02BD8E
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC Mode at start.
 patch=1,EE,002418d0,word,24060002 //24060003

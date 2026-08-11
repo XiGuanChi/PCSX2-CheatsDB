@@ -1,164 +1,164 @@
-[Cheats/60 Hertz Mode] 
+//Cheats/60 Hertz Mode
 patch=1,EE,20490D50,extended,24120002
 
-[Cheats/Freeze Timer L3 to stop R3 to restart] 
+//Cheats/Freeze Timer L3 to stop R3 to restart
 patch=1,EE,D05165E4,extended,0000FFFD
 patch=1,EE,2033C6C8,extended,00000000
 patch=1,EE,D05165E4,extended,0000FFFB
 patch=1,EE,2033C6C8,extended,AC2213D0
 
-[Cheats/Max Score] 
+//Cheats/Max Score
 patch=1,EE,2091A8D8,extended,000F41DC
 
-[Cheats/Stupid Opponents Press Select & Left to activate, Press Select & Right to disable] 
+//Cheats/Stupid Opponents Press Select & Left to activate, Press Select & Right to disable
 patch=1,EE,D05165E4,extended,0000FF7E
 patch=1,EE,20333B68,extended,70001428
 patch=1,EE,D05165E4,extended,0000FFDE
 patch=1,EE,20333B68,extended,1440FFF9
 
-[Cheats/Turbo R3 to activate] 
+//Cheats/Turbo R3 to activate
 patch=1,EE,200FFF04,extended,44810000
 patch=1,EE,200FFF08,extended,C6010494
 patch=1,EE,200FFF0C,extended,080CE114
 
-[Cheats/Lesson 01 Gold] 
+//Cheats/Lesson 01 Gold
 patch=1,EE,2091A8D4,extended,00000003
 
-[Cheats/Lesson 02 Gold] 
+//Cheats/Lesson 02 Gold
 patch=1,EE,2091ABBC,extended,00000003
 
-[Cheats/Lesson 03 Gold] 
+//Cheats/Lesson 03 Gold
 patch=1,EE,2091AEA4,extended,00000003
 
-[Cheats/Lesson 04 Gold] 
+//Cheats/Lesson 04 Gold
 patch=1,EE,2091B18C,extended,00000003
 
-[Cheats/Lesson 05 Gold] 
+//Cheats/Lesson 05 Gold
 patch=1,EE,2091B474,extended,00000003
 
-[Cheats/Lesson 06 Gold] 
+//Cheats/Lesson 06 Gold
 patch=1,EE,2091B75C,extended,00000003
 
-[Cheats/Lesson 07 Gold] 
+//Cheats/Lesson 07 Gold
 patch=1,EE,2091BA44,extended,00000003
 
-[Cheats/Lesson 08 Gold] 
+//Cheats/Lesson 08 Gold
 patch=1,EE,2091BD2C,extended,00000003
 
-[Cheats/Lesson 09 GOld] 
+//Cheats/Lesson 09 GOld
 patch=1,EE,2091C014,extended,00000003
 
-[Cheats/Lesson 10 Gold] 
+//Cheats/Lesson 10 Gold
 patch=1,EE,2091C2FC,extended,00000003
 
-[Cheats/Lesson 11 Gold] 
+//Cheats/Lesson 11 Gold
 patch=1,EE,2091C5E4,extended,00000003
 
-[Cheats/Lesson 12 Gold] 
+//Cheats/Lesson 12 Gold
 patch=1,EE,2091C8CC,extended,00000003
 
-[Cheats/Lesson 13 Gold] 
+//Cheats/Lesson 13 Gold
 patch=1,EE,2091CBB4,extended,00000003
 
-[Cheats/Lesson 14 GOld] 
+//Cheats/Lesson 14 GOld
 patch=1,EE,2091CE9C,extended,00000003
 
-[Cheats/Lesson 15 Gold] 
+//Cheats/Lesson 15 Gold
 patch=1,EE,2091D184,extended,00000003
 
-[Cheats/Lesson 16 Gold] 
+//Cheats/Lesson 16 Gold
 patch=1,EE,2091D46C,extended,00000003
 
-[Cheats/Lesson 17 Gold] 
+//Cheats/Lesson 17 Gold
 patch=1,EE,2091D754,extended,00000003
 
-[Cheats/Lesson 18 Gold] 
+//Cheats/Lesson 18 Gold
 patch=1,EE,2091DA3C,extended,00000003
 
-[Cheats/Lesson 19 Gold] 
+//Cheats/Lesson 19 Gold
 patch=1,EE,2091DD24,extended,00000003
 
-[Cheats/Lesson 20 Gold] 
+//Cheats/Lesson 20 Gold
 patch=1,EE,2091E00C,extended,00000003
 
-[Cheats/Lesson 21 Gold] 
+//Cheats/Lesson 21 Gold
 patch=1,EE,2091E2F4,extended,00000003
 
-[Cheats/Lesson 22 Gold] 
+//Cheats/Lesson 22 Gold
 patch=1,EE,2091E5DC,extended,00000003
 
-[Cheats/Lesson 23 Gold] 
+//Cheats/Lesson 23 Gold
 patch=1,EE,2091E8C4,extended,00000003
 
-[Cheats/Lesson 24 Gold] 
+//Cheats/Lesson 24 Gold
 patch=1,EE,2091EBAC,extended,00000003
 
-[Cheats/Lesson 25 Gold] 
+//Cheats/Lesson 25 Gold
 patch=1,EE,2091EE94,extended,00000003
 
-[Cheats/Lesson 26 Gold] 
+//Cheats/Lesson 26 Gold
 patch=1,EE,2091F17C,extended,00000003
 
-[Cheats/Lesson 27 Gold] 
+//Cheats/Lesson 27 Gold
 patch=1,EE,2091F464,extended,00000003
 
-[Cheats/Lesson 28 Gold] 
+//Cheats/Lesson 28 Gold
 patch=1,EE,2091F74C,extended,00000003
 
-[Cheats/Lesson 29 Gold] 
+//Cheats/Lesson 29 Gold
 patch=1,EE,2091FA34,extended,00000003
 
-[Cheats/Lesson 30 Gold] 
+//Cheats/Lesson 30 Gold
 patch=1,EE,2091FD1C,extended,00000003
 
-[Cheats/Lesson 31 Gold] 
+//Cheats/Lesson 31 Gold
 patch=1,EE,20920004,extended,00000003
 
-[Cheats/Lesson 32 Gold] 
+//Cheats/Lesson 32 Gold
 patch=1,EE,209202EC,extended,00000003
 
-[Cheats/Lesson 33 Gold] 
+//Cheats/Lesson 33 Gold
 patch=1,EE,209205D4,extended,00000003
 
-[Cheats/Lesson 34 Gold] 
+//Cheats/Lesson 34 Gold
 patch=1,EE,209208BC,extended,00000003
 
-[Cheats/Lesson 35 GOld] 
+//Cheats/Lesson 35 GOld
 patch=1,EE,20920BA4,extended,00000003
 
-[Cheats/Lesson 36 Gold] 
+//Cheats/Lesson 36 Gold
 patch=1,EE,20920E8C,extended,00000003
 
-[Cheats/Time Trial Lesson 37 Gold] 
+//Cheats/Time Trial Lesson 37 Gold
 patch=1,EE,20921D14,extended,00000003
 
-[Cheats/Time Trial Lesson 38 Gold] 
+//Cheats/Time Trial Lesson 38 Gold
 patch=1,EE,20921FFC,extended,00000003
 
-[Cheats/Time Trial Lesson 39 Gold] 
+//Cheats/Time Trial Lesson 39 Gold
 patch=1,EE,209222E4,extended,00000003
 
-[Cheats/Time Trial Lesson 40 Gold] 
+//Cheats/Time Trial Lesson 40 Gold
 patch=1,EE,209225CC,extended,00000003
 
-[Cheats/Time Trial Lesson 41 Gold] 
+//Cheats/Time Trial Lesson 41 Gold
 patch=1,EE,209228B4,extended,00000003
 
-[Cheats/Coffee Break Lesson 1 Gold] 
+//Cheats/Coffee Break Lesson 1 Gold
 patch=1,EE,20921174,extended,00000003
 
-[Cheats/Coffee Break Lesson 2 Gold] 
+//Cheats/Coffee Break Lesson 2 Gold
 patch=1,EE,2092145C,extended,00000003
 
-[Cheats/Coffee Break Lesson 3 Gold] 
+//Cheats/Coffee Break Lesson 3 Gold
 patch=1,EE,20921744,extended,00000003
 
-[Cheats/Coffee Break Lesson 4 Gold] 
+//Cheats/Coffee Break Lesson 4 Gold
 patch=1,EE,20921A2C,extended,00000003
 
-[Cheats/Coffee Break Lesson 5 Gold] 
+//Cheats/Coffee Break Lesson 5 Gold
 patch=1,EE,20922B9C,extended,00000003
 
-[Cheats/Unlock All Gold Medals and Cars in Arcade Mode] 
+//Cheats/Unlock All Gold Medals and Cars in Arcade Mode
 patch=1,EE,2012FF74,extended,24050003
 patch=1,EE,2012FF7C,extended,AC650004

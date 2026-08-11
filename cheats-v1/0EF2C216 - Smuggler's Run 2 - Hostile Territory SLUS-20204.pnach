@@ -1,14 +1,14 @@
-[Cheats/Unlock All Race Levels] 
+//Cheats/Unlock All Race Levels
 patch=1,EE,203B0FA0,extended,FFFFFFFF
 patch=1,EE,203B0FA4,extended,FFFFFFFF
 patch=1,EE,103B0FA8,extended,0000FFFF
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,103B0FAA,extended,0000FFFF
 
-[Cheats/Unlock All Career Levels] 
+//Cheats/Unlock All Career Levels
 patch=1,EE,203B0FB0,extended,FFFFFFFF
 
-[Cheats/Unlock All Vehicles] 
+//Cheats/Unlock All Vehicles
 patch=1,EE,203B0FC0,extended,FFFFFFFF
 patch=1,EE,203B0FC4,extended,FFFFFFFF

@@ -1,10 +1,10 @@
-[Cheats/Max katun 99999999 When it increases]  
+//Cheats/Max katun 99999999 When it increases
 patch=1,EE,20115D24,extended,00000000
 
-[Cheats/Max katun 99999999] 
+//Cheats/Max katun 99999999
 patch=1,EE,209C8684,extended,05F5E0FF
 
-[Cheats/Press L3 For Debug Menu]  
+//Cheats/Press L3 For Debug Menu
 patch=1,EE,20100CC0,extended,0C044500
 patch=1,EE,20100CC4,extended,24040001
 patch=1,EE,D030F102,extended,0000FFFD

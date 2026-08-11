@@ -1,38 +1,38 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200FFF00,extended,03C0202D
 patch=1,EE,200FFF04,extended,00032900
 patch=1,EE,200FFF08,extended,03E00008
 patch=1,EE,20223204,extended,0C03FFC0
 patch=1,EE,2022320C,extended,A4450226
 
-[Cheats/Infinite Time L1+L2 Normal operation R1+R2]  
+//Cheats/Infinite Time L1+L2 Normal operation R1+R2
 patch=1,EE,D031C858,extended,00000500
 patch=1,EE,201C5730,extended,10000009
 patch=1,EE,D031C858,extended,00000A00
 patch=1,EE,201C5730,extended,14400009
 
-[Cheats/MMax Health & Musou] 
+//Cheats/MMax Health & Musou
 patch=1,EE,2018DF5C,extended,14200001
 patch=1,EE,2018DF88,extended,14200001
 
-[Cheats/Maintain Max Health] 
+//Cheats/Maintain Max Health
 patch=1,EE,200F4000,extended,84450224
 patch=1,EE,200F4004,extended,00052900
 patch=1,EE,200F4008,extended,A4450226
 patch=1,EE,200F400C,extended,03E00008
 patch=1,EE,2022320C,extended,0C03D000
 
-[Cheats/Maintain Max Musou] 
+//Cheats/Maintain Max Musou
 patch=1,EE,200F4020,extended,A443022C
 patch=1,EE,200F4024,extended,24A2000F
 patch=1,EE,200F4028,extended,03E00008
 patch=1,EE,20223218,extended,0C03D004
 patch=1,EE,2022321C,extended,00031900
 
-[Cheats/Infinite Arrows] 
+//Cheats/Infinite Arrows
 patch=1,EE,2017F52C,extended,24630000
 
-[Cheats/All Ability Max] 
+//Cheats/All Ability Max
 patch=1,EE,20208E84,extended,0C03CC00
 patch=1,EE,200F3000,extended,8E030000
 patch=1,EE,200F3004,extended,24180320
@@ -43,7 +43,7 @@ patch=1,EE,200F3014,extended,A638022E
 patch=1,EE,200F3018,extended,A6380230
 patch=1,EE,200F301C,extended,03E00008
 
-[Cheats/All the General Classes Max] 
+//Cheats/All the General Classes Max
 patch=1,EE,201306CC,extended,0803C400
 patch=1,EE,200F1500,extended,3C080046
 patch=1,EE,200F1504,extended,35089C7A
@@ -60,13 +60,13 @@ patch=1,EE,200F1554,extended,1520FFF0
 patch=1,EE,201306CC,extended,0803C400
 patch=1,EE,200F155C,extended,03E00008
 
-[Cheats/Unlock All Military Commanders & Max Status The effect appears once you enter and exit Challenge Mode] 
+//Cheats/Unlock All Military Commanders & Max Status The effect appears once you enter and exit Challenge Mode
 patch=1,EE,40462A40,extended,00300014
 patch=1,EE,01900001,extended,00000000
 patch=1,EE,40462A44,extended,00300014
 patch=1,EE,C8C800C8,extended,00000000
 
-[Cheats/Unlock All Equipment Items] 
+//Cheats/Unlock All Equipment Items
 patch=1,EE,20463940,extended,13131313
 patch=1,EE,20463944,extended,13131313
 patch=1,EE,20463948,extended,00001313
@@ -76,38 +76,38 @@ patch=1,EE,20463954,extended,00000000
 patch=1,EE,20463958,extended,00000000
 patch=1,EE,2046395C,extended,00000000
 
-[Cheats/Unlock All Generals] 
+//Cheats/Unlock All Generals
 patch=1,EE,20195838,extended,0C065600
 patch=1,EE,2019583C,extended,24050001
 
-[Cheats/Unlock All Scenarios Free Mode] 
+//Cheats/Unlock All Scenarios Free Mode
 patch=1,EE,2019FE8,extended,0C065BEC
 patch=1,EE,20196FEC,extended,24050001
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,20194820,extended,8C480088
 patch=1,EE,20194834,extended,01034025
 patch=1,EE,20194838,extended,AC480088
 
-[Cheats/Unlock All Movies ALT] 
+//Cheats/Unlock All Movies ALT
 patch=1,EE,20469C38,extended,FFFFFFFF
 patch=1,EE,20469C3C,extended,FFFFFFFF
 patch=1,EE,20469C40,extended,FFFFFFFF
 
-[Cheats/Unlock All Sounds Test] 
+//Cheats/Unlock All Sounds Test
 patch=1,EE,20194950,extended,8C480080
 patch=1,EE,20194964,extended,01034025
 patch=1,EE,20194968,extended,AC480080
 
-[Cheats/Unlock All Sounds Test ALT] 
+//Cheats/Unlock All Sounds Test ALT
 patch=1,EE,20469C30,extended,FFFFFFFF
 patch=1,EE,20469C34,extended,FFFFFFFF
 
-[Cheats/Max Defeat Warlord Evaluation]  
+//Cheats/Max Defeat Warlord Evaluation
 patch=1,EE,2016A4B4,extended,00000000
 
-[Cheats/Max Clear Time Evaluation] 
+//Cheats/Max Clear Time Evaluation
 patch=1,EE,2016A44C,extended,00000000
 
-[Cheats/Max Bonus Evaluation]  
+//Cheats/Max Bonus Evaluation
 patch=1,EE,2016A304,extended,00000000

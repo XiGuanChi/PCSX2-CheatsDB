@@ -1,125 +1,125 @@
-[Cheats/Infinite Money]  
+//Cheats/Infinite Money
 patch=1,EE,101A3580,extended,0000FFFF
 
-[Cheats/P1 Press L3+R3 To Max Money] 
+//Cheats/P1 Press L3+R3 To Max Money
 patch=1,EE,D1F6399C,extended,0000FFF9
 patch=1,EE,201A3580,extended,05F5E0FF
 
-[Cheats/Max Casinos Total Chips]  
+//Cheats/Max Casinos Total Chips
 patch=1,EE,201A4204,extended,000F4240
 
-[Cheats/Max Gambler's Den Total Points] 
+//Cheats/Max Gambler's Den Total Points
 patch=1,EE,201A359C,extended,00030D40
 
-[Cheats/Infinite Health]  
+//Cheats/Infinite Health
 patch=1,EE,101A3A44,extended,000004B0
 
-[Cheats/Max Health]  
+//Cheats/Max Health
 patch=1,EE,101A3A46,extended,000004B0
 
-[Cheats/Max Infinite Health]  
+//Cheats/Max Infinite Health
 patch=1,EE,201A3A44,extended,04B004B0
 
-[Cheats/Max Infinite Heat]  
+//Cheats/Max Infinite Heat
 patch=1,EE,201A3A7C,extended,50000000
 
-[Cheats/Infinite Experience]  
+//Cheats/Infinite Experience
 patch=1,EE,20454DF4,extended,00000000
 
-[Cheats/Quick Experience Gain]  
+//Cheats/Quick Experience Gain
 patch=1,EE,101A3A4C,extended,0000FFFF
 
-[Cheats/Max Experience]  
+//Cheats/Max Experience
 patch=1,EE,201A3A4C,extended,05F5E0FF
 
-[Cheats/Quick Max Soul]  
+//Cheats/Quick Max Soul
 patch=1,EE,D01A3A50,extended,003003E8
 patch=1,EE,201A3A50,extended,000184AC
 
-[Cheats/Quick Max Technique]  
+//Cheats/Quick Max Technique
 patch=1,EE,D01A3A54,extended,003003E8
 patch=1,EE,201A3A54,extended,000184AC
 
-[Cheats/Quick Max Body]  
+//Cheats/Quick Max Body
 patch=1,EE,D01A3A58,extended,003003E8
 patch=1,EE,201A3A58,extended,000184AC
 
-[Cheats/Have All Power Up Skills] 
+//Cheats/Have All Power Up Skills
 patch=1,EE,401A3A5C,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Have All Status Lv to Max] 
+//Cheats/Have All Status Lv to Max
 patch=1,EE,201A3A50,extended,000203A0
 patch=1,EE,201A3A54,extended,000203A0
 patch=1,EE,201A3A58,extended,000203A0
 
-[Cheats/Max Damage Dealt]  
+//Cheats/Max Damage Dealt
 patch=1,EE,101A398E,extended,0000270F
 
-[Cheats/P1 Press R3+Up 1 Hit Kill Enable] 
+//Cheats/P1 Press R3+Up 1 Hit Kill Enable
 patch=1,EE,D1F6399C,extended,0000FFEB
 patch=1,EE,206950BC,extended,24020000
 
-[Cheats/P1 Press R3+Down 1 Hit Kill Disable] 
+//Cheats/P1 Press R3+Down 1 Hit Kill Disable
 patch=1,EE,D1F6399C,extended,0000FFBB
 patch=1,EE,206950BC,extended,00621023
 
-[Cheats/P1 Press R3+L1 Infinite Weapon Usage Enable]  
+//Cheats/P1 Press R3+L1 Infinite Weapon Usage Enable
 patch=1,EE,D1F6399C,extended,0000FBFB
 patch=1,EE,20481C04,extended,00000000
 
-[Cheats/P1 Press R3+L2 Infinite Weapon Usage Disable] 
+//Cheats/P1 Press R3+L2 Infinite Weapon Usage Disable
 patch=1,EE,D1F6399C,extended,0000FEFB
 patch=1,EE,20481C04,extended,A2A20718
 
-[Cheats/Unlock Completion Food]  
+//Cheats/Unlock Completion Food
 patch=1,EE,401A35A0,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock Completion Drink]  
+//Cheats/Unlock Completion Drink
 patch=1,EE,201A35C0,extended,FFFFFFFF
 patch=1,EE,201A35C4,extended,FFFFFFFF
 
-[Cheats/Unlock Completion Heat Actions] 
+//Cheats/Unlock Completion Heat Actions
 patch=1,EE,401A4F84,extended,00060001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Have All Lockers Can Open] 
+//Cheats/Have All Lockers Can Open
 patch=1,EE,401A3F88,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,001A3F94,extended,000000FF
 
-[Cheats/Have All Lockers Opened]  
+//Cheats/Have All Lockers Opened
 patch=1,EE,401A3F98,extended,00030001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,001A3FA4,extended,000000FF
  
-[Cheats/Mini Game Batting Cage Most Home Runs]  
+//Cheats/Mini Game Batting Cage Most Home Runs
 patch=1,EE,201A5394,extended,FFFFFFFF
 
-[Cheats/Mini Game Driving Range Max High Score]  
+//Cheats/Mini Game Driving Range Max High Score
 patch=1,EE,101A5398,extended,000003E8
 patch=1,EE,101A539C,extended,000003E8
 patch=1,EE,101A53A0,extended,000003E8
 patch=1,EE,101A53A4,extended,000003E8
 
-[Cheats/Mini Game Bowling Max High Score]  
+//Cheats/Mini Game Bowling Max High Score
 patch=1,EE,101A53AE,extended,0000965A
 
-[Cheats/Mini Game Gambler's Den Max Result]
+//Cheats/Mini Game Gambler's Den Max Result
 patch=1,EE,201A359C,extended,00030D40
 
-[Cheats/Mini Game Shogi Max Current Rank]  
+//Cheats/Mini Game Shogi Max Current Rank
 patch=1,EE,001A538F,extended,00000001
 
-[Cheats/Mini Game Pachi-Slot Most Medals]  
+//Cheats/Mini Game Pachi-Slot Most Medals
 patch=1,EE,101A5388,extended,00002710
 
-[Cheats/Mini Game Mahjong Max High Score]  
+//Cheats/Mini Game Mahjong Max High Score
 patch=1,EE,101A4214,extended,0000C350
 
-[Cheats/Mini Game UFO Catcher Max Total Acquired] 
+//Cheats/Mini Game UFO Catcher Max Total Acquired
 patch=1,EE,101A5390,extended,00000064
 
-[Cheats/Mini Game YF6 Max Result] 
+//Cheats/Mini Game YF6 Max Result
 patch=1,EE,001A318B,extended,00000060

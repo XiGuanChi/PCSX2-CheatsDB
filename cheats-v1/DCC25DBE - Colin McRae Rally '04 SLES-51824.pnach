@@ -1,7 +1,7 @@
-[Cheats/Unlock Expert Mode] 
+//Cheats/Unlock Expert Mode
 patch=1,EE,10374C50,extended,00000001
 
-[Cheats/Unlock All Cars] 
+//Cheats/Unlock All Cars
 patch=1,EE,20374B18,extended,00000001
 patch=1,EE,20374B30,extended,00000001
 patch=1,EE,20374B34,extended,00000001
@@ -16,7 +16,7 @@ patch=1,EE,20374AFC,extended,00000001
 patch=1,EE,20374B48,extended,00000001
 patch=1,EE,20374B0C,extended,00000001
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,20374C44,extended,00000001
 patch=1,EE,10374C52,extended,00000001
 patch=1,EE,10374C50,extended,00000001

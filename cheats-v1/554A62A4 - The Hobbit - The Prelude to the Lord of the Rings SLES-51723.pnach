@@ -1,25 +1,25 @@
-[Cheats/Infinite HP Bilbo] 
+//Cheats/Infinite HP Bilbo
 patch=1,EE,2046DFBC,extended,41400000
 
-[Cheats/Infinite and Max HP Bilbo]
+//Cheats/Infinite and Max HP Bilbo
 patch=1,EE,2046DFBC,extended,42F00000
 patch=1,EE,2046E014,extended,41F00000
 
-[Cheats/Max Silver Pennies] 
+//Cheats/Max Silver Pennies
 patch=1,EE,2046DFB0,extended,45000000
 patch=1,EE,2046E00C,extended,45000000
 
-[Cheats/Infinite Srones] 
+//Cheats/Infinite Srones
 patch=1,EE,2046DFB4,extended,41200000
 
-[Cheats/Automatically defeated NPCs]  
+//Cheats/Automatically defeated NPCs
 patch=1,EE,201BEDFC,extended,00000000
 
-[Cheats/1 Hit Kill]  
+//Cheats/1 Hit Kill
 patch=1,EE,201B9090,extended,46000001
 
-[Cheats/No Keys are Needed to Open Chests] 
+//Cheats/No Keys are Needed to Open Chests
 patch=1,EE,20234AB4,extended,00000000
 
-[Cheats/No Stamina is Required to Execute Charged Shots]  
+//Cheats/No Stamina is Required to Execute Charged Shots
 patch=1,EE,2014A134,extended,00000000

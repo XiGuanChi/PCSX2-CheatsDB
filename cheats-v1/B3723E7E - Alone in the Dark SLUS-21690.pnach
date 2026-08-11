@@ -1,4 +1,4 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,202083B8,extended,00000000
 patch=1,EE,202088E4,extended,00000000
 patch=1,EE,20208B74,extended,00000000
@@ -6,22 +6,22 @@ patch=1,EE,20208B78,extended,00000000
 patch=1,EE,20208B8C,extended,00000000
 patch=1,EE,20208BCC,extended,00000000
 
-[Cheats/One Hit Kill] 
+//Cheats/One Hit Kill
 patch=1,EE,201515F0,extended,AC80038C
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,2024A048,extended,00000000
 
-[Cheats/Infinite Healing Spary] 
+//Cheats/Infinite Healing Spary
 patch=1,EE,2033FB90,extended,00000000
 
-[Cheats/P1 Press L3+Left To Disable AI] 
+//Cheats/P1 Press L3+Left To Disable AI
 patch=1,EE,D06CF282,extended,0000FF7D
 patch=1,EE,201A1B80,extended,00000000
 
-[Cheats/P1 Press L3+Right To Enable AI] 
+//Cheats/P1 Press L3+Right To Enable AI
 patch=1,EE,D06CF282,extended,0000FFDD
 patch=1,EE,201A1B80,extended,0C068708
 
-[Cheats/Zombie Can't Hit You] 
+//Cheats/Zombie Can't Hit You
 patch=1,EE,10209030,extended,00000000

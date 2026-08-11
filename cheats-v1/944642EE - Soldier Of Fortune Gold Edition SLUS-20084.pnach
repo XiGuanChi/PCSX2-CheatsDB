@@ -1,28 +1,28 @@
-[Cheats/God Mode] 
+//Cheats/God Mode
 patch=1,EE,200C0220,extended,8C4101A0
 patch=1,EE,200C0224,extended,34210010
 patch=1,EE,200C0228,extended,AC4101A0
 
-[Cheats/Infinite Armor] 
+//Cheats/Infinite Armor
 patch=1,EE,203B920C,extended,00000000
 
-[Cheats/Infinite Stealth] 
+//Cheats/Infinite Stealth
 patch=1,EE,202D0870,extended,E61500CC
 patch=1,EE,202D0874,extended,E60000CC
 
-[Cheats/Max Infinite Ammo 9MM Pistol]
+//Cheats/Max Infinite Ammo 9MM Pistol
 patch=1,EE,203B913C,extended,24030063
 
-[Cheats/Max Infinite Throwing Knives] 
+//Cheats/Max Infinite Throwing Knives
 patch=1,EE,203C1FC0,extended,240203E7
 
-[Cheats/Max Infinite Ammo Shotgun] 
+//Cheats/Max Infinite Ammo Shotgun
 patch=1,EE,203B9098,extended,240303E7
 
-[Cheats/Max Infinite Flash Pak & Plastique] 
+//Cheats/Max Infinite Flash Pak & Plastique
 patch=1,EE,203B6F04,extended,24020063
 
-[Cheats/P1 Press L1+L2 To Have All Weapons] 
+//Cheats/P1 Press L1+L2 To Have All Weapons
 patch=1,EE,200C02A0,extended,24030001
 patch=1,EE,200C02A4,extended,24050063
 patch=1,EE,200C02A8,extended,AC830044

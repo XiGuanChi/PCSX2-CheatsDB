@@ -1,4 +1,4 @@
-[Cheats/Activator for Character Codes] 
+//Cheats/Activator for Character Codes
 patch=1,EE,200C2000,extended,3C080077
 patch=1,EE,200C2004,extended,8D08B5A4
 patch=1,EE,200C2008,extended,8D080080
@@ -6,27 +6,27 @@ patch=1,EE,200C200C,extended,11000022
 patch=1,EE,200C2098,extended,03E00008
 patch=1,EE,20186B2C,extended,08030800
 
-[Cheats/Infinite Health Character Codes] 
+//Cheats/Infinite Health Character Codes
 patch=1,EE,200C2014,extended,3C014120
 patch=1,EE,200C2018,extended,AD010B60
 patch=1,EE,200C201C,extended,3C014316
 patch=1,EE,200C2020,extended,AD0107E8
 
-[Cheats/Infinite Energy Character Codes]
+//Cheats/Infinite Energy Character Codes
 patch=1,EE,200C2028,extended,3C014316
 patch=1,EE,200C202C,extended,AD011FAC
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,202E8AEC,extended,00000000
 patch=1,EE,202E8BCC,extended,00000000
 
-[Cheats/Infinite Energy] 
+//Cheats/Infinite Energy
 patch=1,EE,202E6F44,extended,00000000
 
-[Cheats/Unlock Level Select] 
+//Cheats/Unlock Level Select
 patch=1,EE,008D470D,extended,00000007
 
-[Cheats/Unlock All Gallery View Each Section] 
+//Cheats/Unlock All Gallery View Each Section
 patch=1,EE,203BFA50,extended,0482000D
 patch=1,EE,203BFA5C,extended,10200009
 patch=1,EE,203BFA70,extended,24080001
@@ -36,7 +36,7 @@ patch=1,EE,203BFA7C,extended,24020001
 patch=1,EE,203BFA84,extended,0000102D
 patch=1,EE,203BFA88,extended,03E00008
 
-[Cheats/Unlock All Models] 
+//Cheats/Unlock All Models
 patch=1,EE,203BFA10,extended,0482000D
 patch=1,EE,203BFA1C,extended,10200009
 patch=1,EE,203BFA30,extended,24080001
@@ -46,11 +46,11 @@ patch=1,EE,203BFA3C,extended,24020001
 patch=1,EE,203BFA44,extended,0000102D
 patch=1,EE,203BFA48,extended,03E00008
 
-[Cheats/Unlock All Videos]  
+//Cheats/Unlock All Videos
 patch=1,EE,108D487E,extended,00000101
 patch=1,EE,008D4880,extended,00000001
 
-[Cheats/Unlock All Feats] 
+//Cheats/Unlock All Feats
 patch=1,EE,200A0000,extended,00621021
 patch=1,EE,200A0004,extended,24120001
 patch=1,EE,200A0008,extended,A0520034

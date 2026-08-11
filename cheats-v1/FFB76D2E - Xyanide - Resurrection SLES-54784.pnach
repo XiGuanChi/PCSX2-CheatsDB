@@ -1,16 +1,16 @@
-[Cheats/Story Mode Infinite Life ENABLE ONLY IN THE STAGE OR THE GAME CRASH] 
+//Cheats/Story Mode Infinite Life ENABLE ONLY IN THE STAGE OR THE GAME CRASH
 patch=1,EE,01f52064,extended,00000004
 
-[Cheats/Story Mode Infinite Energy] 
+//Cheats/Story Mode Infinite Energy
 patch=1,EE,21eb9490,extended,41f00000
 patch=1,EE,21eb9480,extended,41f00000
 patch=1,EE,01f6e9d8,extended,0000001e
 
-[Cheats/Story Mode Infinite Bombs] 
+//Cheats/Story Mode Infinite Bombs
 patch=1,EE,01f6e9d4,extended,00000003
 
-[Cheats/Story Mode Max Points] 
+//Cheats/Story Mode Max Points
 patch=1,EE,21f6e9dc,extended,05f5e0ff
 
-[Cheats/Score Attack Mode Xyanide 99,999,999 ENABLE ONLY IN THE STAGE OR THE GAME CRASH]  
+//Cheats/Score Attack Mode Xyanide 99,999,999 ENABLE ONLY IN THE STAGE OR THE GAME CRASH
 patch=1,EE,206d5ee8,extended,05f5e0ff

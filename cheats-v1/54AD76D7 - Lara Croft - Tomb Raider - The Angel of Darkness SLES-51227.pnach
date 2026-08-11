@@ -1,17 +1,17 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20128150,extended,3C017FAB
 patch=1,EE,2012815C,extended,AC410D54
 
-[Cheats/Pause for Level Select Skip Use Infinite Health with this code] 
+//Cheats/Pause for Level Select Skip Use Infinite Health with this code
 patch=1,EE,004162B0,extended,00000001
 
-[Cheats/Infinite Ammo Bypass Ammo Check] 
+//Cheats/Infinite Ammo Bypass Ammo Check
 patch=1,EE,200FFFD0,extended,24080009
 patch=1,EE,200FFFD4,extended,A2280032
 patch=1,EE,200FFFD8,extended,0804DC11
 patch=1,EE,20137040,extended,0803FFF4
 
-[Cheats/All Weapons] 
+//Cheats/All Weapons
 patch=1,EE,200FFF80,extended,3C010042
 patch=1,EE,200FFF84,extended,80248604
 patch=1,EE,200FFF88,extended,2885000C

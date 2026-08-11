@@ -1,16 +1,16 @@
-[Cheats/Max Points 99.999.999] 
+//Cheats/Max Points 99.999.999
 patch=1,EE,205CCD44,extended,05F5E0FF
 
-[Cheats/Max Health] 
+//Cheats/Max Health
 patch=1,EE,005CCD40,extended,00000004
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,203C5EE8,extended,00000000
 
-[Cheats/No Hunger] 
+//Cheats/No Hunger
 patch=1,EE,203C8090,extended,00000000
 
-[Cheats/Unlock All Movies]  
+//Cheats/Unlock All Movies
 patch=1,EE,205CCD70,extended,01010101
 patch=1,EE,205CCD74,extended,01010101
 patch=1,EE,206A67A8,extended,00000001

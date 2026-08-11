@@ -1,20 +1,20 @@
-[Cheats/9999 Cash] 
+//Cheats/9999 Cash
 patch=1,EE,103BFD52,extended,0000270F
 
-[Cheats/Level select] 
+//Cheats/Level select
 patch=1,EE,102D06B0,extended,00000005
 
-[Cheats/Invincibility] 
+//Cheats/Invincibility
 patch=1,EE,102DA8F4,extended,00000005
 
-[Cheats/Unlock Turbo Jets] 
+//Cheats/Unlock Turbo Jets
 patch=1,EE,102DA8FC,extended,00000005
 
-[Cheats/Unlock Guns At 3 Points] 
+//Cheats/Unlock Guns At 3 Points
 patch=1,EE,102DA910,extended,00000500
 
-[Cheats/Unlock Turbo Fire] 
+//Cheats/Unlock Turbo Fire
 patch=1,EE,102DA900,extended,00000005
 
-[Cheats/Unlock Dual Fire Mode] 
+//Cheats/Unlock Dual Fire Mode
 patch=1,EE,102DA906,extended,00000500

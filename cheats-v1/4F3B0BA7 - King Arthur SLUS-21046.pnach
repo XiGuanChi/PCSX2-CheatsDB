@@ -1,37 +1,37 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C0220,extended,8C810008
 patch=1,EE,200C0224,extended,0807E77C
 patch=1,EE,200C0228,extended,AC810004
 patch=1,EE,20234000,extended,0C030088
 
-[Cheats/Infinite Health Carriages] 
+//Cheats/Infinite Health Carriages
 patch=1,EE,00567205,extended,00000001
 
-[Cheats/Infinite Adrenaline] 
+//Cheats/Infinite Adrenaline
 patch=1,EE,200C0230,extended,3C013F80
 patch=1,EE,200C0234,extended,08073664
 patch=1,EE,200C0238,extended,AC810014
 patch=1,EE,202A6FE4,extended,0C03008C
 
-[Cheats/Load Game To Go to Last Level] 
+//Cheats/Load Game To Go to Last Level
 patch=1,EE,D071E9A4,extended,00200016
 patch=1,EE,2071E9A4,extended,00000016
 
-[Cheats/Unlock All Battle Arenas]  
+//Cheats/Unlock All Battle Arenas
 patch=1,EE,4071EB1D,extended,00060004
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Debug Mode Code AI Ignore Player] 
+//Cheats/Debug Mode Code AI Ignore Player
 patch=1,EE,00567204,extended,00000001
 
-[Cheats/Debug Mode Code Debug Keys Press shoulder buttons to activate various items] 
+//Cheats/Debug Mode Code Debug Keys Press shoulder buttons to activate various items
 patch=1,EE,00567210,extended,00000001
 
-[Cheats/Debug Mode Code Cutscene Skip Press X to skip cutscenes] 
+//Cheats/Debug Mode Code Cutscene Skip Press X to skip cutscenes
 patch=1,EE,00567214,extended,00000001
 
-[Cheats/Debug Mode Code Invincible] 
+//Cheats/Debug Mode Code Invincible
 patch=1,EE,005671C9,extended,00000001
 
-[Cheats/Debug Mode Code Unlimited Power] 
+//Cheats/Debug Mode Code Unlimited Power
 patch=1,EE,00567208,extended,00000001

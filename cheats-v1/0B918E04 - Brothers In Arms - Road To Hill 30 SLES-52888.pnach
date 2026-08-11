@@ -1,9 +1,9 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2057A484,extended,240203E8
 patch=1,EE,2057A488,extended,AEA2040C
 patch=1,EE,2057A48C,extended,10000009
 
-[Cheats/Infinite Ammo - No Reload] 
+//Cheats/Infinite Ammo - No Reload
 patch=1,EE,2041609C,extended,8E620498
 patch=1,EE,204160A8,extended,AE62049C
 patch=1,EE,200C2000,extended,240603E7
@@ -11,9 +11,9 @@ patch=1,EE,200C2004,extended,03E00008
 patch=1,EE,200C2008,extended,AC460484
 patch=1,EE,2041640C,extended,0C030800
 
-[Cheats/Unlock all Chapters] 
+//Cheats/Unlock all Chapters
 patch=1,EE,40667F40,extended,00580001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/50 fps hack, ENABLE INSTANT VU1 Not need but if you enable EE cycle rate 180%. Title screen takes a long time to load Game menu low fps, in-game gameplay 50 fps] 
+//Cheats/50 fps hack, ENABLE INSTANT VU1 Not need but if you enable EE cycle rate 180%. Title screen takes a long time to load Game menu low fps, in-game gameplay 50 fps
 patch=1,EE,0032E23C,extended,28420001//28420002

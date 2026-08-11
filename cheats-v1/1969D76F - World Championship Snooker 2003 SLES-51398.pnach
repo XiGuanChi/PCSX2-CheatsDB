@@ -1,11 +1,11 @@
-[Cheats/Player 1 Starts With 147 Points Press Select+Up to activate. You must press the activator whilst the match is loading for score codes to work] 
+//Cheats/Player 1 Starts With 147 Points Press Select+Up to activate. You must press the activator whilst the match is loading for score codes to work
 patch=1,EE,D038B702,extended,0000FFEE
 patch=1,EE,203AF628,extended,00000093
 
-[Cheats/Player 2 Starts With 0 Points Press Select+Left to activate. You must press the activator whilst the match is loading for score codes to work] 
+//Cheats/Player 2 Starts With 0 Points Press Select+Left to activate. You must press the activator whilst the match is loading for score codes to work
 patch=1,EE,D038B702,extended,0000FF7E
 patch=1,EE,203AF628,extended,00000000
 
-[Cheats/Unlock All Tricks Shots]  
+//Cheats/Unlock All Tricks Shots
 patch=1,EE,103AF610,extended,0000FFFF
 patch=1,EE,103AF612,extended,0000000F

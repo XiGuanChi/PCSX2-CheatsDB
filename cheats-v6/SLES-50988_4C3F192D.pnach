@@ -1,6 +1,6 @@
 gametitle=The Lord of the Rings - The Fellowship of the Ring SLES-50988 4C3F192D
 
-[Frodo Infinite Health]
+//Frodo Infinite Health
 author=GamingDragon93
 patch=1,EE,2051F000,extended,3C0142C8
 patch=1,EE,2051F004,extended,44810000
@@ -8,22 +8,22 @@ patch=1,EE,2051F008,extended,E4800014
 patch=1,EE,2051F00C,extended,03E00008
 patch=1,EE,202395C8,extended,08147C00
 
-[Infinite Purity]
+//Infinite Purity
 author=GamingDragon93
 patch=1,EE,20323FE8,extended,00000000
 patch=1,EE,20323F50,extended,00000000
 
-[1 Hit Kill]
+//1 Hit Kill
 author=GamingDragon93
 patch=1,EE,200FFF2C,extended,44800000
 
-[Infinite Ring Usage]
+//Infinite Ring Usage
 author=GamingDragon93
 patch=1,EE,20323FDC,extended,3C014380
 patch=1,EE,20323FE4,extended,AE010160
 patch=1,EE,20323FE8,extended,AE010164
 
-[Infinite Magic]
+//Infinite Magic
 author=GamingDragon93
 patch=1,EE,2032ADF4,extended,3C014400
 patch=1,EE,2032ADFC,extended,AE210090

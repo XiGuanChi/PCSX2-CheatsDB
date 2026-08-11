@@ -1,4 +1,4 @@
-[Cheats/Infinite Health On Foot] 
+//Cheats/Infinite Health On Foot
 patch=1,EE,200C0200,extended,8C430000
 patch=1,EE,200C0204,extended,3C014000
 patch=1,EE,200C0208,extended,54600001
@@ -7,10 +7,10 @@ patch=1,EE,200C0210,extended,03E00008
 patch=1,EE,200C0214,extended,00000000
 patch=1,EE,201CAB74,extended,08030080
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,201D8184,extended,00000000
 
-[Cheats/Immune To Bullets On Foot] 
+//Cheats/Immune To Bullets On Foot
 patch=1,EE,200C0220,extended,3C01003E
 patch=1,EE,200C0224,extended,8C218810
 patch=1,EE,200C0228,extended,3C023F80
@@ -20,7 +20,7 @@ patch=1,EE,200C0234,extended,03E00008
 patch=1,EE,200C0238,extended,46020836
 patch=1,EE,201C29C8,extended,0C030088
 
-[Cheats/Immune To Explosions On Foot] 
+//Cheats/Immune To Explosions On Foot
 patch=1,EE,200C0240,extended,3C01003E
 patch=1,EE,200C0244,extended,8C218810
 patch=1,EE,200C0248,extended,54300001
@@ -29,41 +29,41 @@ patch=1,EE,200C0250,extended,03E00008
 patch=1,EE,200C0254,extended,00000000
 patch=1,EE,201C2DDC,extended,0C030090
 
-[Cheats/Immune To Body Damage Caused By Car Crashes] 
+//Cheats/Immune To Body Damage Caused By Car Crashes
 patch=1,EE,F4FD7AEA,extended,B98374B
 
-[Cheats/P1 Press L1+Select For Infinite Car Damage On]  
+//Cheats/P1 Press L1+Select For Infinite Car Damage On
 patch=1,EE,E002FBFE,extended,006FD49C
 patch=1,EE,201F2D20,extended,00000000
 patch=1,EE,20201AA8,extended,00000000
 
-[Cheats/P1 Press L2+Select For Infinite Car Damage Off]  
+//Cheats/P1 Press L2+Select For Infinite Car Damage Off
 patch=1,EE,E002FEFE,extended,006FD49C
 patch=1,EE,201F2D20,extended,E6C0218C
 patch=1,EE,20201AA8,extended,E6400000
 
-[Cheats/Felony Bar Never Increases] 
+//Cheats/Felony Bar Never Increases
 patch=1,EE,101369E6,extended,00001000
 
-[Cheats/Always Complete Mission] 
+//Cheats/Always Complete Mission
 patch=1,EE,201609A4,extended,24100002
 
-[Cheats/Unlock All Hidden Cars] 
+//Cheats/Unlock All Hidden Cars
 patch=1,EE,4070F860,extended,00060001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock Cheat Unlock All Missions] 
+//Cheats/Unlock Cheat Unlock All Missions
 patch=1,EE,2070F810,extended,00000001
 patch=1,EE,2070FA74,extended,00000001
 
-[Cheats/Unlock Cheat Unlimited Ammo] 
+//Cheats/Unlock Cheat Unlimited Ammo
 patch=1,EE,2070F820,extended,00000001
 patch=1,EE,2070FA84,extended,00000001
 
-[Cheats/Unlock Cheat Invincibility Take A Ride] 
+//Cheats/Unlock Cheat Invincibility Take A Ride
 patch=1,EE,2070F828,extended,00000001
 patch=1,EE,2070FA8C,extended,00000001
 
-[Cheats/Unlock Cheat Unlock All Vehicles] 
+//Cheats/Unlock Cheat Unlock All Vehicles
 patch=1,EE,2070F840,extended,00000001
 patch=1,EE,2070FAA4,extended,00000001

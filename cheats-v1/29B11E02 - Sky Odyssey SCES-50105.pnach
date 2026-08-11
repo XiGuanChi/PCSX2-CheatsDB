@@ -1,11 +1,11 @@
-[Cheats/Infinite Fuel] 
+//Cheats/Infinite Fuel
 patch=1,EE,1038213A,extended,000042C8
 
-[Cheats/Unlock All Planes] 
+//Cheats/Unlock All Planes
 patch=1,EE,2038FC78,extended,FFFFFFFF
 patch=1,EE,2038FC7C,extended,FFFFFFFF
 
-[Cheats/Unlock All Special GFX] 
+//Cheats/Unlock All Special GFX
 patch=1,EE,20392210,extended,FFFFFFFF
 patch=1,EE,20392214,extended,FFFFFFFF
 patch=1,EE,20392218,extended,FFFFFFFF

@@ -1,36 +1,36 @@
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,203CBEA8,extended,000009C4
 
-[Cheats/1 Hit Death Player 2] 
+//Cheats/1 Hit Death Player 2
 patch=1,EE,D03CEFE8,extended,000009C4
 patch=1,EE,103CEFE8,extended,00000001
 
-[Cheats/Unlock Talk Show Mode All Segments] 
+//Cheats/Unlock Talk Show Mode All Segments
 patch=1,EE,403AF700,extended,00070003
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock Exhibition All Arenas] 
+//Cheats/Unlock Exhibition All Arenas
 patch=1,EE,403BF958,extended,00070003
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock Media RoomUnlock All Movies] 
+//Cheats/Unlock Media RoomUnlock All Movies
 patch=1,EE,403BF9B0,extended,00090003
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/Unlock All Wrestlers] 
+//Cheats/Unlock All Wrestlers
 patch=1,EE,403BFD9C,extended,00240004
 patch=1,EE,00000000,extended,00000000
 patch=1,EE,203BFFDC,extended,00000000
 
-[Cheats/Unlock Bonus Games VS. Modes Survival Mode] 
+//Cheats/Unlock Bonus Games VS. Modes Survival Mode
 patch=1,EE,203C0730,extended,00000000
 
-[Cheats/Unlock Bonus Games VS. Modes King Of The Hill] 
+//Cheats/Unlock Bonus Games VS. Modes King Of The Hill
 patch=1,EE,203C073C,extended,00000000
 
-[Cheats/Unlock Bonus Games VS. Modes Tag] 
+//Cheats/Unlock Bonus Games VS. Modes Tag
 patch=1,EE,203C0748,extended,00000000
 
-[Cheats/Press L3 In Game to enable Debug Menu] 
+//Cheats/Press L3 In Game to enable Debug Menu
 patch=1,EE,D09F3382,extended,0000FFFD
 patch=1,EE,203E3AE8,extended,00000001

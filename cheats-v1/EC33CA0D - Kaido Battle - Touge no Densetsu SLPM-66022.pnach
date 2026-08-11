@@ -1,22 +1,22 @@
-[Cheats/Max Money 99999999000 CP] 
+//Cheats/Max Money 99999999000 CP
 patch=1,EE,2075A0A0,extended,05F5E0FF
 
-[Cheats/RP 999] 
+//Cheats/RP 999
 patch=1,EE,20767F98,extended,000003E7
 
-[Cheats/SP 0 2P Press SELECT]    
+//Cheats/SP 0 2P Press SELECT
 patch=1,EE,D03F13C0,extended,00000001
 patch=1,EE,20B85DE8,extended,00000000
 
-[Cheats/Max CA Points Press SELECT]  
+//Cheats/Max CA Points Press SELECT
 patch=1,EE,D03F13C0,extended,00000001
 patch=1,EE,20B85D4C,extended,000F423F
 
-[Cheats/Time 0 Press SELECT] 
+//Cheats/Time 0 Press SELECT
 patch=1,EE,D03F13C0,extended,00000001
 patch=1,EE,20B85D0C,extended,00000000
 
-[Cheats/First Unit Installed Parts Level Max] 
+//Cheats/First Unit Installed Parts Level Max
 patch=1,EE,0075A183,extended,00000005 
 patch=1,EE,0075A185,extended,00000005 
 patch=1,EE,0075A187,extended,00000005 

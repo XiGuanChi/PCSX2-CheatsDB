@@ -1,10 +1,10 @@
-[Cheats/Infinite Cash Usage Press Select+X While Buying Plates] 
+//Cheats/Infinite Cash Usage Press Select+X While Buying Plates
 patch=1,EE,D04EE442,extended,0000BFFE
 patch=1,EE,202F4EE8,extended,00000000
 patch=1,EE,D04EE442,extended,0010BFFE
 patch=1,EE,202F4EE8,extended,0C0BB176
 
-[Cheats/Max Cash After Buying a Plate Press Select+X While Buying Plates]  
+//Cheats/Max Cash After Buying a Plate Press Select+X While Buying Plates
 patch=1,EE,D04EE442,extended,0000BFFE
 patch=1,EE,202F4EE8,extended,0C03FFC0
 patch=1,EE,D04EE442,extended,0010BFFE
@@ -13,34 +13,34 @@ patch=1,EE,200FFF00,extended,3C0105F0
 patch=1,EE,200FFF04,extended,AE410000
 patch=1,EE,200FFF08,extended,080C7CFA
 
-[Cheats/Infinite Tire Wear]  
+//Cheats/Infinite Tire Wear
 patch=1,EE,2015303C,extended,00000000
 
-[Cheats/Infinite Fuel]  
+//Cheats/Infinite Fuel
 patch=1,EE,20160BC8,extended,00000000
 
-[Cheats/Cars Take No Damage] 
+//Cheats/Cars Take No Damage
 patch=1,EE,201C21E8,extended,03E00008
 patch=1,EE,201C21EC,extended,00000000
 
-[Cheats/Infinite Available Skill Points] 
+//Cheats/Infinite Available Skill Points
 patch=1,EE,11FD1220,extended,0000FFFF
 
-[Cheats/Max Available Skill Points] 
+//Cheats/Max Available Skill Points
 patch=1,EE,21FD1220,extended,05F5E0FF
 
-[Cheats/Max Skill Points Earned] 
+//Cheats/Max Skill Points Earned
 patch=1,EE,21FD1224,extended,05F5E0FF
 
-[Cheats/Skill Points Dont Decrease When Buying Plates]  
+//Cheats/Skill Points Dont Decrease When Buying Plates
 patch=1,EE,2023C8F0,extended,24620000
 
-[Cheats/Skill Points Increase When Buying Plates] 
+//Cheats/Skill Points Increase When Buying Plates
 patch=1,EE,2023C8F0,extended,00701021
 
-[Cheats/Challenges Never Have Fail Stipulations] 
+//Cheats/Challenges Never Have Fail Stipulations
 patch=1,EE,201CE090,extended,03E00008
 patch=1,EE,201CE094,extended,00000000
 
-[Cheats/Never Fail Challenge Almost All Challenges] 
+//Cheats/Never Fail Challenge Almost All Challenges
 patch=1,EE,201CD600,extended,00000000

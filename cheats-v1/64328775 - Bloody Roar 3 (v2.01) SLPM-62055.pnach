@@ -1,4 +1,4 @@
-[Cheats/Activation Player 1] 
+//Cheats/Activation Player 1
 patch=1,EE,200A0000,extended,3C01001F
 patch=1,EE,200A0004,extended,8C214AF8
 patch=1,EE,200A0008,extended,10200013
@@ -13,23 +13,23 @@ patch=1,EE,200A0048,extended,240200FF
 patch=1,EE,200A0058,extended,03E00008
 patch=1,EE,201DADBC,extended,08028000
 
-[Cheats/Player 1 Infinite HP] 
+//Cheats/Player 1 Infinite HP
 patch=1,EE,200A0010,extended,AC200244
 patch=1,EE,200A0014,extended,AC200248
 
-[Cheats/Player 1 Max Beast] 
+//Cheats/Player 1 Max Beast
 patch=1,EE,200A0018,extended,24023BFF
 patch=1,EE,200A001C,extended,AC220264
 
-[Cheats/Press L2+R2 to Kill Player 2] 
+//Cheats/Press L2+R2 to Kill Player 2
 patch=1,EE,200A004C,extended,AC220244
 patch=1,EE,200A0050,extended,AC220248
 
-[Cheats/Unlock All Gallery]
+//Cheats/Unlock All Gallery
 patch=1,EE,101F41D0,extended,0000FFFF
 
-[Cheats/Unlock All Hidden Characters] 
+//Cheats/Unlock All Hidden Characters
 patch=1,EE,001F41D4,extended,00000003
 
-[Cheats/Unlock Extra Mode All Items] 
+//Cheats/Unlock Extra Mode All Items
 patch=1,EE,1020C95C,extended,000003FF

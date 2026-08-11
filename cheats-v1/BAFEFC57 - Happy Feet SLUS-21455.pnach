@@ -1,15 +1,15 @@
-[Cheats/Dancing Mode Infinite Grace Meter] 
+//Cheats/Dancing Mode Infinite Grace Meter
 patch=1,EE,D146E130,extended,0000F02D
 patch=1,EE,2146E174,extended,00000000
 
-[Cheats/Race Mode Always Low Time] 
+//Cheats/Race Mode Always Low Time
 patch=1,EE,D1211C90,extended,0000202D
 patch=1,EE,21211D7C,extended,24030001
 patch=1,EE,21211D80,extended,AC430060
 
-[Cheats/Swimming Mode Infinite Air] 
+//Cheats/Swimming Mode Infinite Air
 patch=1,EE,D17CEB74,extended,00002023
 patch=1,EE,217CEB78,extended,00000000
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,2079AE24,extended,448D58C6

@@ -1,12 +1,12 @@
-[Cheats/Unlock All CG]  
+//Cheats/Unlock All CG
 patch=1,EE,40286D00,extended,00180001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Recollection]  
+//Cheats/Unlock All Recollection
 patch=1,EE,40235194,extended,00120001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Omake]  
+//Cheats/Unlock All Omake
 patch=1,EE,2019D3D8,extended,0C04C798
 patch=1,EE,20131E60,extended,240C0001
 patch=1,EE,20131E64,extended,AE6C0054

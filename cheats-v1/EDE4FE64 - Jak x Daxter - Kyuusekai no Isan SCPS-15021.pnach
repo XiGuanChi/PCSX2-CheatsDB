@@ -1,15 +1,15 @@
-[Cheats/2000 Life Spheres After Press R3] 
+//Cheats/2000 Life Spheres After Press R3
 patch=1,EE,D012E8C2,extended,0000FFFB
 patch=1,EE,10182882,extended,000044FA
 
-[Cheats/20 Power Cells After Press L3]  
+//Cheats/20 Power Cells After Press L3
 patch=1,EE,D012E8C2,extended,0000FFFD
 patch=1,EE,10642DE2,extended,000041A0
 
-[Cheats/200 Precursor Orb After Press R2]  
+//Cheats/200 Precursor Orb After Press R2
 patch=1,EE,D012E8C2,extended,0000FDFF
 patch=1,EE,10642D96,extended,00004348
 
-[Cheats/Can be used on All Stages] 
+//Cheats/Can be used on All Stages
 patch=1,EE,40642DF4,extended,00040001
 patch=1,EE,01010101,extended,00000000

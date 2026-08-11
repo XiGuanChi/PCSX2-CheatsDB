@@ -1,9 +1,9 @@
-[Cheats/Force Videout to 480i instead of 240p] 
+//Cheats/Force Videout to 480i instead of 240p
 patch=1,EE,2019AE4C,extended,24110001
 patch=1,EE,2019AE50,extended,24120002
 patch=1,EE,2019AE5C,extended,24130001
 
-[Cheats/Player 1 Infinite Health Fatal Fury 1, Fatal Fury Special, Fatal Fury 3] 
+//Cheats/Player 1 Infinite Health Fatal Fury 1, Fatal Fury Special, Fatal Fury 3
 patch=1,EE,200A000C,extended,03E00008
 patch=1,EE,200A0010,extended,27BD0010
 patch=1,EE,200A001C,extended,20060060
@@ -22,7 +22,7 @@ patch=1,EE,E0020004,extended,00222D30
 patch=1,EE,200A0000,extended,34170488
 patch=1,EE,200A0004,extended,12EF0005
 
-[Cheats/Unlock Ryo Fatal Fury Special] 
+//Cheats/Unlock Ryo Fatal Fury Special
 patch=1,EE,E0020003,extended,00222D30
 patch=1,EE,6035A0B8,extended,FFFFFF99
 patch=1,EE,00020001,extended,0000E060

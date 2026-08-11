@@ -1,11 +1,11 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,208B235C,extended,FFFFFFFF
 
-[Cheats/Infinite Timer] 
+//Cheats/Infinite Timer
 patch=1,EE,203A6F7C,extended,41200000
 
-[Cheats/Infinite Turbo Mode] 
+//Cheats/Infinite Turbo Mode
 patch=1,EE,203A5E68,extended,3FE00000
 
-[Cheats/Unlock All Trucks]  
+//Cheats/Unlock All Trucks
 patch=1,EE,208B2670,extended,FFFFFFFF

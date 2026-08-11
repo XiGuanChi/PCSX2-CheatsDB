@@ -1,34 +1,34 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20BEB71D,extended,00000000
 
-[Cheats/Player 1 AP 9999999] 
+//Cheats/Player 1 AP 9999999
 patch=1,EE,2077EBCC,extended,0098967F
 
-[Cheats/Player 2 AP 9999999] 
+//Cheats/Player 2 AP 9999999
 patch=1,EE,207825BC,extended,0098967F
 
-[Cheats/Player 3 AP 9999999] 
+//Cheats/Player 3 AP 9999999
 patch=1,EE,20785FAC,extended,0098967F
 
-[Cheats/Player 4 AP 9999999] 
+//Cheats/Player 4 AP 9999999
 patch=1,EE,2078999C,extended,0098967F
 
-[Cheats/Player 5 AP 9999999] 
+//Cheats/Player 5 AP 9999999
 patch=1,EE,2078D38C,extended,0098967F
 
-[Cheats/Win Decision Red Corner Win] 
+//Cheats/Win Decision Red Corner Win
 patch=1,EE,202698f4,extended,34020002
 
-[Cheats/Win Decision Blue Corner Win]  
+//Cheats/Win Decision Blue Corner Win
 patch=1,EE,202698f4,extended,34020003
 
-[Cheats/Win Decision Tie] 
+//Cheats/Win Decision Tie
 patch=1,EE,202698f4,extended,34020004
 
-[Cheats/Unlock All Gallery]  
+//Cheats/Unlock All Gallery
 patch=1,EE,40EAC300,extended,001D0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Gallery when viewed up to last page of the gallery] 
+//Cheats/Unlock All Gallery when viewed up to last page of the gallery
 patch=1,EE,202212DC,extended,240200FF
 patch=1,EE,202212E0,extended,A0A20000

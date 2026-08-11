@@ -1,14 +1,14 @@
-[Cheats/Infinite Health]  
+//Cheats/Infinite Health
 patch=1,EE,2015F5E4,extended,AE23001C
 
-[Cheats/Always Full Power +] 
+//Cheats/Always Full Power +
 patch=1,EE,2022EC9C,extended,3C1B42C8
 patch=1,EE,2022ECD4,extended,AE1B0550
   
-[Cheats/Each Coin Worth 100 Coins] 
+//Cheats/Each Coin Worth 100 Coins
 patch=1,EE,20256B00,extended,24060064
 
-[Cheats/Enemies Don't Attack] 
+//Cheats/Enemies Don't Attack
 patch=1,EE,D06A6CC2,extended,0000B7FF
 patch=1,EE,20106ED8,extended,00000000
 patch=1,EE,D06A6CC2,extended,0000BFFE

@@ -1,26 +1,26 @@
 gametitle=Gun PAL-M SLES-53523 98D7BF5E
 
-[50/60 FPS]
+//50/60 FPS
 author=GamingDragon93
 description=Might need EE Overclock (130%).
 patch=0,EE,00121930,word,64630002
 //0047CF28 Alt
 
-[NTSC Mode/480p Mode]
+//NTSC Mode/480p Mode
 author=GamingDragon93
 description=NTSC mode with SDTV 480p Mode available in option menu.
 patch=0,EE,00125E9C,word,14A0000F
 //00125EC0 Alt
 
-[Language in NTSC Mode\Español]
+//Language in NTSC Mode\Español
 author=GamingDragon93
 description=Set Spanish Language.
 patch=0,EE,00125F50,word,24020004
-[Language in NTSC Mode\French]
+//Language in NTSC Mode\French
 author=GamingDragon93
 description=Set French Language.
 patch=0,EE,00125F50,word,24020003
-[Language in NTSC Mode\Italian]
+//Language in NTSC Mode\Italian
 author=GamingDragon93
 description=Set Italian Language.
 patch=0,EE,00125F50,word,24020006

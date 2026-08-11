@@ -1,16 +1,16 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,00381968,extended,00000005
 patch=1,EE,0038196A,extended,00000005
 
-[Cheats/No Reload] 
+//Cheats/No Reload
 patch=1,EE,10381C30,extended,00000808
 
-[Cheats/Infinite Credits] 
+//Cheats/Infinite Credits
 patch=1,EE,0037DE50,extended,00000005
 
-[Cheats/Elapsed Time 0] 
+//Cheats/Elapsed Time 0
 patch=1,EE,203819A8,extended,00000000
 
-[Cheats/Unlock Another Story Open] 
+//Cheats/Unlock Another Story Open
 patch=1,EE,0029E2F0,extended,00000001
 

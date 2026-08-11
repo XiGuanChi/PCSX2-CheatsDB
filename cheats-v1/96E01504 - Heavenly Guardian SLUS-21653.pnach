@@ -1,16 +1,16 @@
-[Cheats/Infinite Lives P1] 
+//Cheats/Infinite Lives P1
 patch=1,EE,2012863C,extended,00000000
 
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,201282A0,extended,00000000
 
-[Cheats/Infinite Special P1] 
+//Cheats/Infinite Special P1
 patch=1,EE,20129CDC,extended,00000000
 
-[Cheats/Infinite Health P2] 
+//Cheats/Infinite Health P2
 patch=1,EE,204A7430,extended,000000F0
 
-[Cheats/Unlock All Stage Select Levels Including unused stages]
+//Cheats/Unlock All Stage Select Levels Including unused stages
 patch=1,EE,206FBF30,extended,FFFFFFFF
 patch=1,EE,0010EBF0,extended,000000FF
 patch=1,EE,0010ECB8,extended,00000001

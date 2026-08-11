@@ -1,19 +1,19 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,206288B4,extended,43480000
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,2031BBA8,extended,24420000
 
-[Cheats/Infinite Quickdraw] 
+//Cheats/Infinite Quickdraw
 patch=1,EE,20828CE8,extended,3F800000
 
-[Cheats/Infinite Cash] 
+//Cheats/Infinite Cash
 patch=1,EE,206A06E4,extended,05F5E0FF
 
-[Cheats/Infinite Whiskey] 
+//Cheats/Infinite Whiskey
 patch=1,EE,208178A4,extended,00000006
 
-[Cheats/Enable Debug Mode opens two extra options in OPTIONS menu while in-game. The CHEATS menu doesn't work. GUN opens a level select menu and a cutscene viewer.While the code is active, press R3+D-Pad Up to enable it, and R3+D-Pad Down to disable it. Make sure you only enable it some time after the opening logos] 
+//Cheats/Enable Debug Mode opens two extra options in OPTIONS menu while in-game. The CHEATS menu doesn't work. GUN opens a level select menu and a cutscene viewer.While the code is active, press R3+D-Pad Up to enable it, and R3+D-Pad Down to disable it. Make sure you only enable it some time after the opening logos
 patch=1,EE,D04EEF1C,extended,0000FFEB
 patch=1,EE,2027A888,extended,24020000
 patch=1,EE,D04EEF1C,extended,0000FFBB

@@ -1,12 +1,12 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200A0000,extended,20040108
 patch=1,EE,200A0004,extended,1244000D
 
-[Cheats/Infinite Transformation Time Press L3] 
+//Cheats/Infinite Transformation Time Press L3
 patch=1,EE,200A0008,extended,2004010B
 patch=1,EE,200A000C,extended,1244000B
 
-[Cheats/Max Omni Points] 
+//Cheats/Max Omni Points
 patch=1,EE,200A0010,extended,3C040026
 patch=1,EE,200A0014,extended,90846F42
 patch=1,EE,200A0018,extended,240B00FD
@@ -14,7 +14,7 @@ patch=1,EE,200A001C,extended,148B0005
 patch=1,EE,200A0020,extended,20040115
 patch=1,EE,200A0024,extended,12440005
 
-[Cheats/Debug Menus Available Press Select for Debug Menu God Mode check options in Pause and Main Menu Level Select Appears after godmode is ON] 
+//Cheats/Debug Menus Available Press Select for Debug Menu God Mode check options in Pause and Main Menu Level Select Appears after godmode is ON
 patch=1,EE,2012F79C,extended,00000000
 patch=1,EE,2012F454,extended,00000000
 patch=1,EE,2012F744,extended,00000000

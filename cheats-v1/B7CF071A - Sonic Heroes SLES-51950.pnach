@@ -1,17 +1,17 @@
-[Cheats/Have 999 Rings] 
+//Cheats/Have 999 Rings
 patch=1,EE,202B5FB0,extended,000003E7
 
-[Cheats/Have 99 Lives] 
+//Cheats/Have 99 Lives
 patch=1,EE,202B5EA4,extended,00000063
 
-[Cheats/Start With All Characters At Max Level] 
+//Cheats/Start With All Characters At Max Level
 patch=1,EE,2027CD08,extended,24060003
 patch=1,EE,20289CC4,extended,24060003
 
-[Cheats/Freeze Timer] 
+//Cheats/Freeze Timer
 patch=1,EE,202B5990,extended,00000000
 
-[Cheats/Unlock All Story Levels And CG Theater]  
+//Cheats/Unlock All Story Levels And CG Theater
 patch=1,EE,203038B4,extended,00000000
 patch=1,EE,203038D4,extended,00000000
 patch=1,EE,20303918,extended,00000000

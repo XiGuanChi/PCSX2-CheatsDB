@@ -1,42 +1,42 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,20A8A494,extended,0098967F
 
-[Cheats/Infinite HP All Characters In Battle] 
+//Cheats/Infinite HP All Characters In Battle
 patch=1,EE,E002301C,extended,00539948
 patch=1,EE,20539940,extended,86240074
 patch=1,EE,2053994C,extended,A6240070
 
-[Cheats/Infinite SP All Characters In Battle] 
+//Cheats/Infinite SP All Characters In Battle
 patch=1,EE,E002202D,extended,00539AB0
 patch=1,EE,20539AA8,extended,862A0076
 patch=1,EE,20539AC0,extended,A62A0072
 
-[Cheats/Never Infected] 
+//Cheats/Never Infected
 patch=1,EE,20A8923C,extended,00000000
 
-[Cheats/Infinite Item Usage] 
+//Cheats/Infinite Item Usage
 patch=1,EE,20178C78,extended,00000000
 patch=1,EE,20178C8C,extended,00000000
 
-[Cheats/Quick Exp Gain All Characters] 
+//Cheats/Quick Exp Gain All Characters
 patch=1,EE,D0593000,extended,00001194
 patch=1,EE,20593008,extended,241303E7
 
-[Cheats/Have All Party Members] 
+//Cheats/Have All Party Members
 patch=1,EE,20A84CF0,extended,FFFFFFFF
 
-[Cheats/Have All Servers Accessible] 
+//Cheats/Have All Servers Accessible
 patch=1,EE,20A84D04,extended,0000001F
 
-[Cheats/Unlock All Desktops]
+//Cheats/Unlock All Desktops
 patch=1,EE,20A84D08,extended,FFFFFFFF
 patch=1,EE,20A84D0C,extended,FFFFFFFF
 
-[Cheats/Unlock All BGM] 
+//Cheats/Unlock All BGM
 patch=1,EE,20A84D14,extended,FFFFFFFF
 patch=1,EE,20A84D18,extended,FFFFFFFF
 
-[Cheats/Unlock All Movies]  
+//Cheats/Unlock All Movies
 patch=1,EE,20A84D20,extended,FFFFFFFF
 patch=1,EE,20A84D24,extended,FFFFFFFF
 patch=1,EE,20A84D28,extended,FFFFFFFF

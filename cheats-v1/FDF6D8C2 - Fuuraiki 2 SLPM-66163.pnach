@@ -1,10 +1,10 @@
-[Cheats/Unlock Cleared & Appearing After The Report] 
+//Cheats/Unlock Cleared & Appearing After The Report
 patch=1,EE,003B90D7,extended,00000007
 patch=1,EE,003B90D9,extended,00000007
 patch=1,EE,003B90DB,extended,00000007
 patch=1,EE,003B90DD,extended,00000007
 
-[Cheats/Unlock All CG]  
+//Cheats/Unlock All CG
 patch=1,EE,403B9278,extended,000F0001
 patch=1,EE,FFFFFFFF,extended,00000000
 

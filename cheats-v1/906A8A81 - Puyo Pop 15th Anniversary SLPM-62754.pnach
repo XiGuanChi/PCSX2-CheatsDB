@@ -1,36 +1,36 @@
-[Cheats/Player's Puyo Falling Speed Slow] 
+//Cheats/Player's Puyo Falling Speed Slow
 patch=1,EE,2013FB04,extended,24020400
 patch=1,EE,2013FAA8,extended,00000000
 
-[Cheats/When You Erase Puyo Only 1P 99 Chains] 
+//Cheats/When You Erase Puyo Only 1P 99 Chains
 patch=1,EE,2014BB00,extended,8F8281F0
 patch=1,EE,2014BB04,extended,10540017
 patch=1,EE,2014BB08,extended,24010063
 patch=1,EE,2014BB64,extended,A2812CF2
 patch=1,EE,2014BB68,extended,08052EC3
 
-[Cheats/When You Erase Puyo Only 1P Mysterious Puyo Problem Is Cleared Cannot be cleared except for 1P]
+//Cheats/When You Erase Puyo Only 1P Mysterious Puyo Problem Is Cleared Cannot be cleared except for 1P
 patch=1,EE,2015EE38,extended,8F8481F0
 patch=1,EE,2015EE4C,extended,1092003B
 
-[Cheats/Puyo Puyo Fever With One Offset Only For 1P] 
+//Cheats/Puyo Puyo Fever With One Offset Only For 1P
 patch=1,EE,2014F968,extended,8F8281F0
 patch=1,EE,2014F96C,extended,54500012
 
-[Cheats/Puyo Puyo Fever Gauge 1P Rises Press SELECT] 
+//Cheats/Puyo Puyo Fever Gauge 1P Rises Press SELECT
 patch=1,EE,2014F904,extended,8F8281F0
 patch=1,EE,2014F908,extended,50500004
 patch=1,EE,2014F8FC,extended,1040002E
 patch=1,EE,D053AE82,extended,0000FFFE
 patch=1,EE,2014F8FC,extended,00000000
 
-[Cheats/Jugyo Clear All Drills] 
+//Cheats/Jugyo Clear All Drills
 patch=1,EE,4032BB58,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Push the Demo When you enter the Push the Demo] 
+//Cheats/Unlock All Push the Demo When you enter the Push the Demo
 patch=1,EE,2023F6C0,extended,2402FFFF
 patch=1,EE,2023F6C4,extended,A4C201D0
 
-[Cheats/Unlock All Characters & Taisen Mode]  
+//Cheats/Unlock All Characters & Taisen Mode
 patch=1,EE,2032BB48,extended,FFFFFFFF

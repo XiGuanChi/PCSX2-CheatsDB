@@ -1,9 +1,9 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200F8000,extended,3C010002
 patch=1,EE,200F8004,extended,AC410038
 patch=1,EE,200F8008,extended,AC41003C
 
-[Cheats/Max Mental Gauge] 
+//Cheats/Max Mental Gauge
 patch=1,EE,200F800C,extended,240103E8
 patch=1,EE,200F8010,extended,AC410048
 patch=1,EE,200F8014,extended,AC41004C
@@ -12,7 +12,7 @@ patch=1,EE,200F801C,extended,AC410054
 patch=1,EE,200F8020,extended,AC410058
 patch=1,EE,200F8024,extended,AC41005C
 
-[Cheats/Unlock All Stages]  
+//Cheats/Unlock All Stages
 patch=1,EE,1039A018,extended,00000102
 patch=1,EE,1039A01E,extended,00000105
 patch=1,EE,1039A024,extended,00000108
@@ -21,10 +21,10 @@ patch=1,EE,2039A02C,extended,010D010C
 patch=1,EE,2039A038,extended,01130112
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock Fatal Retsuden]  
+//Cheats/Unlock Fatal Retsuden
 patch=1,EE,006F0130,extended,0000003F
 
-[Cheats/Unlock All Hidden Characters]  
+//Cheats/Unlock All Hidden Characters
 patch=1,EE,206EFFEC,extended,00000000
 patch=1,EE,206EFFF0,extended,00000000
 patch=1,EE,206EFFF4,extended,00000000

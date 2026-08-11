@@ -1,9 +1,9 @@
-[Cheats/Max Score] 
+//Cheats/Max Score
 patch=1,EE,201F0168,extended,05F5E0FF
 
-[Cheats/Unlock Bonus Level] 
+//Cheats/Unlock Bonus Level
 patch=1,EE,201F064C,extended,00000001
 
-[Cheats/Time Boost Press R1 to activate] 
+//Cheats/Time Boost Press R1 to activate
 patch=1,EE,101F1082,extended,0000F7FF
 patch=1,EE,20E5690C,extended,00001BA0

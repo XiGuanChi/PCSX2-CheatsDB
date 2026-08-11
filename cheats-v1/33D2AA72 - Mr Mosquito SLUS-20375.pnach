@@ -1,17 +1,17 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,103992FC,extended,00000028
 
-[Cheats/Max Health] 
+//Cheats/Max Health
 patch=1,EE,10399300,extended,00000014
 
-[Cheats/Max Extra Tanks] 
+//Cheats/Max Extra Tanks
 patch=1,EE,1038B610,extended,0000000F
 
-[Cheats/Max Ex. B] 
+//Cheats/Max Ex. B
 patch=1,EE,1038B654,extended,00000050
 
-[Cheats/Suck Blood Quicker] 
+//Cheats/Suck Blood Quicker
 patch=1,EE,2039931C,extended,42C80000
 
-[Cheats/Have All Colors] 
+//Cheats/Have All Colors
 patch=1,EE,1038B4D8,extended,0000FFFF

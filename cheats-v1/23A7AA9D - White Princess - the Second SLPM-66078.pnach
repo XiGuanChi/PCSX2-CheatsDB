@@ -1,12 +1,12 @@
-[Cheats/Unlock All Bonus] 
+//Cheats/Unlock All Bonus
 patch=1,EE,21AC0968,extended,00000001
 patch=1,EE,103DF756,extended,0000FFFF
 patch=1,EE,403DFA40,extended,00280001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All CG]   
+//Cheats/Unlock All CG
 patch=1,EE,403DFA40,extended,00280001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock Omake Menu]   
+//Cheats/Unlock Omake Menu
 patch=1,EE,21AC0968,extended,00000001

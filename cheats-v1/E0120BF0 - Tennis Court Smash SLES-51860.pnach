@@ -1,16 +1,16 @@
-[Cheats/1P Always Wins Set] 
+//Cheats/1P Always Wins Set
 patch=1,EE,20187C68,extended,00000005
 
-[Cheats/COM Always Score 0] 
+//Cheats/COM Always Score 0
 patch=1,EE,1121AFB0,extended,00000000
 
-[Cheats/P1 Always Scores 40 Press R1+L1+L2+R2]  
+//Cheats/P1 Always Scores 40 Press R1+L1+L2+R2
 patch=1,EE,D045E682,extended,0000F0FF
 patch=1,EE,1121AF1C,extended,00000003
 
-[Cheats/Unlock Everything - Trophy Room] 
+//Cheats/Unlock Everything - Trophy Room
 patch=1,EE,21222898,extended,FFFFFFFF
 patch=1,EE,1122289C,extended,0000FFFF
 
-[Cheats/Unlock Hitomi Yoshino And Red Ace] 
+//Cheats/Unlock Hitomi Yoshino And Red Ace
 patch=1,EE,11E77A50,extended,0000000F

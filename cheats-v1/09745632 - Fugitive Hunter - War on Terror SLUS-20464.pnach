@@ -1,46 +1,46 @@
-[Cheats/God Mode] 
+//Cheats/God Mode
 patch=1,EE,20348044,extended,00000001
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20371CA8,extended,43FA0000
 
-[Cheats/Infinite Armor] 
+//Cheats/Infinite Armor
 patch=1,EE,20371CAC,extended,443B8000
 
-[Cheats/Infinite Credits] 
+//Cheats/Infinite Credits
 patch=1,EE,202833C8,extended,00000009
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,20347F38,extended,00000001
 
-[Cheats/Never Reload] 
+//Cheats/Never Reload
 patch=1,EE,20172D70,extended,00000000
 
-[Cheats/Max First Aid Kits] 
+//Cheats/Max First Aid Kits
 patch=1,EE,10371CDE,extended,00000063
 
-[Cheats/Unlock All Scopes] 
+//Cheats/Unlock All Scopes
 patch=1,EE,20371CE0,extended,00010001
 patch=1,EE,20371CE4,extended,00010001
 patch=1,EE,10371CE8,extended,00000001
 
-[Cheats/Unlock All Silencers] 
+//Cheats/Unlock All Silencers
 patch=1,EE,10371CF6,extended,00000001
 patch=1,EE,20371CF8,extended,00010001
 patch=1,EE,10371CFC,extended,00000001
 
-[Cheats/Have All Weapons In Level] 
+//Cheats/Have All Weapons In Level
 patch=1,EE,20347F34,extended,00000001
 
-[Cheats/Unlock All Fugitives] 
+//Cheats/Unlock All Fugitives
 patch=1,EE,20283424,extended,00000001
 patch=1,EE,20348054,extended,00000001
 
-[Cheats/Unlock Access Special Features and Cheats] 
+//Cheats/Unlock Access Special Features and Cheats
 patch=1,EE,20112C34,extended,24050001
 
-[Cheats/Unlock Cheats Menu] 
+//Cheats/Unlock Cheats Menu
 patch=1,EE,20346D0C,extended,00000001
 
-[Cheats/Enable Debug Menu Replaces Mission Objectives inside the pause menuTo exit the debug menu, press Triangle twice. Do note that some options in this menu will crash the game.] 
+//Cheats/Enable Debug Menu Replaces Mission Objectives inside the pause menuTo exit the debug menu, press Triangle twice. Do note that some options in this menu will crash the game.
 patch=1,EE,20288DD8,extended,00113520

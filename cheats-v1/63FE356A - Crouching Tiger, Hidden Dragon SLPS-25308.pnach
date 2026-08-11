@@ -1,21 +1,21 @@
-[Cheats/Infinite HP 999] 
+//Cheats/Infinite HP 999
 patch=1,EE,2023C7D0,extended,4479C000
 patch=1,EE,2023C7D8,extended,4479C000
 
-[Cheats/Have All Special Moves] 
+//Cheats/Have All Special Moves
 patch=1,EE,2023C800,extended,FFFFFFFF
 
-[Cheats/LV up when attack] 
+//Cheats/LV up when attack
 patch=1,EE,2023C808,extended,3F800000
 patch=1,EE,2023C810,extended,3F800000
 
-[Cheats/Infinite Jump] 
+//Cheats/Infinite Jump
 patch=1,EE,0023CA4C,extended,00000001
 
-[Cheats/Infinite Continues 99] 
+//Cheats/Infinite Continues 99
 patch=1,EE,0023D0AC,extended,00000063
 
-[Cheats/Unlock SPECIAL MODE] 
+//Cheats/Unlock SPECIAL MODE
 patch=1,EE,2023CFD8,extended,00000001
 
 

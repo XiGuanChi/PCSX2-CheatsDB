@@ -1,18 +1,18 @@
-[Cheats/Character 1 HP 999] 
+//Cheats/Character 1 HP 999
 patch=1,EE,104F8372,extended,000003E7
 patch=1,EE,104F8374,extended,000003E7
 
-[Cheats/Character 1 MP 999] 
+//Cheats/Character 1 MP 999
 patch=1,EE,104F8376,extended,000003E7
 patch=1,EE,104F8376,extended,000003E7
 
-[Cheats/Cult quiz Always 100 points] 
+//Cheats/Cult quiz Always 100 points
 patch=1,EE,0039E2F1,extended,00000064
 
-[Cheats/Unlock All APPENDIX] 
+//Cheats/Unlock All APPENDIX
 patch=1,EE,209A9A68,extended,FFFFFFFF
 patch=1,EE,209A9A6C,extended,FFFFFFFF
 patch=1,EE,009A9A70,extended,00000002
 
-[Cheats/Debug Mode Press L3 at any time to enable This contains sound tests, party member options, graphic viewers, level select, and many more]
+//Cheats/Debug Mode Press L3 at any time to enable This contains sound tests, party member options, graphic viewers, level select, and many more
 patch=1,EE,003208B0,extended,00000001

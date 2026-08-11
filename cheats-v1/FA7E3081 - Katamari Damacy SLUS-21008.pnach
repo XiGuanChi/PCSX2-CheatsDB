@@ -1,7 +1,7 @@
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,201022C4,extended,00000000
 
-[Cheats/Have All Objects Collected] 
+//Cheats/Have All Objects Collected
 patch=1,EE,200C0220,extended,3C030101
 patch=1,EE,200C0224,extended,34630101
 patch=1,EE,200C0228,extended,3C040056
@@ -14,7 +14,7 @@ patch=1,EE,200C0240,extended,03E00008
 patch=1,EE,200C0244,extended,00000000
 patch=1,EE,20189EB4,extended,08030088
 
-[Cheats/Unlock & Complete All Levels] 
+//Cheats/Unlock & Complete All Levels
 patch=1,EE,4055FF9C,extended,0016000D
 patch=1,EE,01000001,extended,00000000
 patch=1,EE,20560308,extended,03070000

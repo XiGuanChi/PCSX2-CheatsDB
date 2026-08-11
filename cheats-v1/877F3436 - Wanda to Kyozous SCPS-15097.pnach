@@ -1,28 +1,28 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,212E0864,extended,43480000
 
-[Cheats/Max Health] 
+//Cheats/Max Health
 patch=1,EE,212DC1CC,extended,440E8000
 
-[Cheats/Infinite Grip] 
+//Cheats/Infinite Grip
 patch=1,EE,212E0860,extended,43480000
 
-[Cheats/Max Grip Strength Press R1] 
+//Cheats/Max Grip Strength Press R1
 patch=1,EE,D01E0F70,extended,00000008
 patch=1,EE,212DC1D0,extended,440E8000
 
-[Cheats/Press L2+R2 To Elapse Time Attack Time 0] 
+//Cheats/Press L2+R2 To Elapse Time Attack Time 0
 patch=1,EE,D01E0F70,extended,00000003 
 patch=1,EE,2146AF48,extended,00000000
 
-[Cheats/Unlock Hard Mode And Time Attack Change Number Of Clears Press L1 If The Number Is 1 Or More] 
+//Cheats/Unlock Hard Mode And Time Attack Change Number Of Clears Press L1 If The Number Is 1 Or More
 patch=1,EE,D01E0F70,extended,00000004 
 patch=1,EE,112DC9F4,extended,00000001
 
-[Cheats/Max Force Reservoir] 
+//Cheats/Max Force Reservoir
 patch=1,EE,2135B044,extended,4A0002FF
 
-[Cheats/Unlock All Items]  
+//Cheats/Unlock All Items
 patch=1,EE,B0000BB8,extended,00000000
 patch=1,EE,212DC15C,extended,FF003DFB
 patch=1,EE,212DC160,extended,000800FF

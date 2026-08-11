@@ -1,49 +1,49 @@
-[Cheats/Combat Mandatory Code] 
+//Cheats/Combat Mandatory Code
 patch=1,EE,201307B4,extended,0803E000
 patch=1,EE,200F8000,extended,8641456C
 patch=1,EE,200F8004,extended,1420003E
 patch=1,EE,200F8100,extended,0804C1EF
 patch=1,EE,200F8104,extended,862404B0
 
-[Cheats/Energy 100] 
+//Cheats/Energy 100
 patch=1,EE,200F8010,extended,24010064
 patch=1,EE,200F8014,extended,A2414519
 
-[Cheats/Physical Fitness 9999-9999] 
+//Cheats/Physical Fitness 9999-9999
 patch=1,EE,200F8018,extended,2401270F
 patch=1,EE,200F801C,extended,A6414520
 patch=1,EE,200F8020,extended,A6414538
 
-[Cheats/Infinite Health 9999-9999] 
+//Cheats/Infinite Health 9999-9999
 patch=1,EE,200F8024,extended,86414538
 patch=1,EE,200F8028,extended,A6414520
 
-[Cheats/Attack Force Resilience 99] 
+//Cheats/Attack Force Resilience 99
 patch=1,EE,200F802C,extended,24010063
 patch=1,EE,200F8030,extended,A641452C
 
-[Cheats/Trick 99] 
+//Cheats/Trick 99
 patch=1,EE,200F8034,extended,24010063
 patch=1,EE,200F8038,extended,A641452E
 
-[Cheats/Defense Force 99] 
+//Cheats/Defense Force 99
 patch=1,EE,200F803C,extended,24010063
 patch=1,EE,200F8040,extended,A6414530
 
-[Cheats/Operative Defense Force 99]  
+//Cheats/Operative Defense Force 99
 patch=1,EE,200F8044,extended,24010063
 patch=1,EE,200F8048,extended,A6414532
 
-[Cheats/Moving Force 15] 
+//Cheats/Moving Force 15
 patch=1,EE,200F804C,extended,2401000F
 patch=1,EE,200F8050,extended,A6414534
 
-[Cheats/Max Experience Value] 
+//Cheats/Max Experience Value
 patch=1,EE,200F8054,extended,3C010003
 patch=1,EE,200F8058,extended,34210D3F
 patch=1,EE,200F805C,extended,AE41451C
 
-[Cheats/Change Unit Health Move Cursor To The Unit Press L3 Restore Infinite Health Press R3 Reduce Health] 
+//Cheats/Change Unit Health Move Cursor To The Unit Press L3 Restore Infinite Health Press R3 Reduce Health
 patch=1,EE,201310D8,extended,86300014 
 patch=1,EE,201310E4,extended,A6300014 
 patch=1,EE,D05B9102,extended,0000FFFD 
@@ -51,29 +51,29 @@ patch=1,EE,201310D8,extended,8630002C
 patch=1,EE,D05B9102,extended,0000FFFB 
 patch=1,EE,201310D8,extended,24100001 
 
-[Cheats/Total Points When Clearing Stage + 20000] 
+//Cheats/Total Points When Clearing Stage + 20000
 patch=1,EE,2013EE78,extended,24074E20
 
-[Cheats/Unlock All Image Viewing]
+//Cheats/Unlock All Image Viewing
 patch=1,EE,20627574,extended,FFFFFFFF
 patch=1,EE,2062757C,extended,FFFFFFFF
 patch=1,EE,20627584,extended,FFFFFFFF
 
-[Cheats/Unlock All Music] 
+//Cheats/Unlock All Music
 patch=1,EE,2062755C,extended,FFFFFFFF
 
-[Cheats/Unlock All Scene Recalls]  
+//Cheats/Unlock All Scene Recalls
 patch=1,EE,2062753C,extended,FFFFFFFF
 patch=1,EE,20627544,extended,FFFFFFFF
 patch=1,EE,2062754C,extended,FFFFFFFF
 
-[Cheats/Unlock All Combat Practice & Tools Pictorial Book]
+//Cheats/Unlock All Combat Practice & Tools Pictorial Book
 patch=1,EE,20627564,extended,FFFFFFFF
 patch=1,EE,206275E4,extended,FFFFFFFF
 patch=1,EE,206275EC,extended,FFFFFFFF
 patch=1,EE,206275F4,extended,FFFFFFFF
 patch=1,EE,206275FC,extended,FFFFFFFF
 
-[Cheats/Enable Debug Menus From the right of the screen, the first option will take you to a scenario select menu, and the second will take you to the debug menu. The debug menu allows you to choose event scenes, although no menu text will be displayed.OPENING/ENDING, CHAR EVENT, MAIN EVENT, SUB EVENT, PS2 EVENT] 
+//Cheats/Enable Debug Menus From the right of the screen, the first option will take you to a scenario select menu, and the second will take you to the debug menu. The debug menu allows you to choose event scenes, although no menu text will be displayed.OPENING/ENDING, CHAR EVENT, MAIN EVENT, SUB EVENT, PS2 EVENT
 patch=1,EE,00116A00,extended,00000007
 

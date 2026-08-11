@@ -1,4 +1,4 @@
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,200FF000,extended,3C0F000F
 patch=1,EE,200FF004,extended,21EF423F
 patch=1,EE,200FF008,extended,AC6F0028
@@ -8,7 +8,7 @@ patch=1,EE,200FF014,extended,0805C35D
 patch=1,EE,20170D6C,extended,0803FC00
 patch=1,EE,20170D70,extended,00000000
 
-[Cheats/Max Boost Bar And Easy Ubers]  
+//Cheats/Max Boost Bar And Easy Ubers
 patch=1,EE,200FF020,extended,0220202D
 patch=1,EE,200FF024,extended,3C083F80
 patch=1,EE,200FF028,extended,AE08025C
@@ -17,9 +17,9 @@ patch=1,EE,200FF030,extended,08072F04
 patch=1,EE,201CBC08,extended,0803FC08
 patch=1,EE,201CBC0C,extended,00000000
 
-[Cheats/Always 1st Easy Win Races]  
+//Cheats/Always 1st Easy Win Races
 patch=1,EE,0015CE62,extended,00000000
 
-[Cheats/Kill Timers]  
+//Cheats/Kill Timers
 patch=1,EE,202034E0,extended,00000000
 patch=1,EE,202034E4,extended,00000000

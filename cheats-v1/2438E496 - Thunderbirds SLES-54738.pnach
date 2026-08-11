@@ -1,15 +1,15 @@
-[Cheats/Infinite Shield] 
+//Cheats/Infinite Shield
 patch=1,EE,2012C1A0,extended,3C013F80
 patch=1,EE,2012C1A4,extended,AC410000
 patch=1,EE,2012C1B0,extended,AEE11F4C
 
-[Cheats/Infinite Fuel] 
+//Cheats/Infinite Fuel
 patch=1,EE,2012C1C8,extended,3C013F80
 patch=1,EE,2012C1CC,extended,AC410000
 patch=1,EE,2012C1E0,extended,AEE11F64
 
-[Cheats/Infinite Time]  
+//Cheats/Infinite Time
 patch=1,EE,20127B10,extended,AE600024
 
-[Cheats/Unlock All Levels]  
+//Cheats/Unlock All Levels
 patch=1,EE,20113EB8,extended,00000000

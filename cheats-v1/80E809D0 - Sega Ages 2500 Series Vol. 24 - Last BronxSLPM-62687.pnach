@@ -1,13 +1,13 @@
-[Cheats/Infinite HP Player] 
+//Cheats/Infinite HP Player
 patch=1,EE,200A0018,extended,240F0090
 patch=1,EE,200A001C,extended,AE0F021C
 
-[Cheats/Memory Hax Player 1 Infinite HP] 
+//Cheats/Memory Hax Player 1 Infinite HP
 patch=1,EE,0022AFBC,extended,00000090
 
-[Cheats/1 Hit Kill P2]  
+//Cheats/1 Hit Kill P2
 patch=1,EE,0022ECC8,extended,00000001
 patch=1,EE,0022ED50,extended,00000001
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,101229CC,extended,00000000

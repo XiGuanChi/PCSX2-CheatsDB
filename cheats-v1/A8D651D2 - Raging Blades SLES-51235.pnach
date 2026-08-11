@@ -1,14 +1,14 @@
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,2029C420,extended,00F000F0
 
-[Cheats/Infinite and Max Force P1]
+//Cheats/Infinite and Max Force P1
 patch=1,EE,2029C424,extended,0000270F
 
-[Cheats/Infinite Health P2] 
+//Cheats/Infinite Health P2
 patch=1,EE,2029CFA0,extended,00F000F0
 
-[Cheats/Infinite and Max Force P2] 
+//Cheats/Infinite and Max Force P2
 patch=1,EE,2029CFA4,extended,0000270F
 
-[Cheats/Infinite Continues] 
+//Cheats/Infinite Continues
 patch=1,EE,2030D85C,extended,00000008

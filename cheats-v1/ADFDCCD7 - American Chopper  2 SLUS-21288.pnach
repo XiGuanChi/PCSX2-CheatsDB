@@ -1,8 +1,8 @@
-[Cheats/Idiot AI Cars Always Avoid You] 
+//Cheats/Idiot AI Cars Always Avoid You
 patch=1,EE,20214E10,extended,03E00008
 patch=1,EE,20214E14,extended,00000000
 
-[Cheats/Max Fabrication Points Available Upon Loading Game Save] 
+//Cheats/Max Fabrication Points Available Upon Loading Game Save
 patch=1,EE,200C0220,extended,3C0105F5
 patch=1,EE,200C0224,extended,3421E0FF
 patch=1,EE,200C0228,extended,AE210030

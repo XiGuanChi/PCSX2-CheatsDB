@@ -1,4 +1,4 @@
-[Cheats/Infinite Health]  
+//Cheats/Infinite Health
 patch=1,EE,200C0200,extended,3C030042
 patch=1,EE,200C0204,extended,8C63ABEC
 patch=1,EE,200C0208,extended,10600009
@@ -11,9 +11,9 @@ patch=1,EE,200C0228,extended,AC6432D8
 patch=1,EE,200C0230,extended,03E00008
 patch=1,EE,2032BA40,extended,08030080
 
-[Cheats/Pickup Diamonds For Max Diamonds] 
+//Cheats/Pickup Diamonds For Max Diamonds
 patch=1,EE,2026AE90,extended,3C0205F5
 patch=1,EE,2026AE98,extended,3442E0FF
 
-[Cheats/Don't Need Keys To Open Gates] 
+//Cheats/Don't Need Keys To Open Gates
 patch=1,EE,2026BAE4,extended,34020001

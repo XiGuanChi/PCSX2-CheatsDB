@@ -1,19 +1,19 @@
-[Cheats/Infinite Retries] 
+//Cheats/Infinite Retries
 patch=1,EE,201FCB6C,extended,00000009
 patch=1,EE,2020ABD8,extended,00000009
 
-[Cheats/Infinite Boost] 
+//Cheats/Infinite Boost
 patch=1,EE,200C0220,extended,E6A302A4
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,C6A102A4
 patch=1,EE,201251E4,extended,0C030088
 
-[Cheats/Have All Seasons Complete] 
+//Cheats/Have All Seasons Complete
 patch=1,EE,201FCE80,extended,00000004
 
-[Cheats/All Races Are 1 Lap] 
+//Cheats/All Races Are 1 Lap
 patch=1,EE,2012B138,extended,24060001
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,401FCE2C,extended,00120001
 patch=1,EE,00000001,extended,00000000

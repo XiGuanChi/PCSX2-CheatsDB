@@ -1,35 +1,35 @@
-[Cheats/Required Code 1P] 
+//Cheats/Required Code 1P
 patch=1,EE,200F4100,extended,03E00008
 patch=1,EE,200F4000,extended,8F818ED8
 patch=1,EE,200F4004,extended,8C210154
 patch=1,EE,2028972C,extended,0803D000
 
-[Cheats/P1 Infinite Health] 
+//Cheats/P1 Infinite Health
 patch=1,EE,200F4010,extended,8C233EF8
 patch=1,EE,200F4014,extended,AC233EFC
 
-[Cheats/P1 Max Cosmo] 
+//Cheats/P1 Max Cosmo
 patch=1,EE,200F4020,extended,3C034348
 patch=1,EE,200F4024,extended,AC233F00
 
-[Cheats/Phantom King's Fist Mode Up to with Experience Points Not shown when displaying results Reflection, during the strategy phase The value will be reflected] 
+//Cheats/Phantom King's Fist Mode Up to with Experience Points Not shown when displaying results Reflection, during the strategy phase The value will be reflected
 patch=1,EE,20374F70,extended, ACA10008
 
-[Cheats/Phantom King's Fist Mode God Power Max] 
+//Cheats/Phantom King's Fist Mode God Power Max
 patch=1,EE,20395BD0,extended,8F819048
 patch=1,EE,20395BD4,extended,240203E7
 patch=1,EE,20395BD8,extended,AC220060
 
-[Cheats/Unlock All Characteres, Added Phantom King's Fist and 100% Completed Seiya's Holidays Bonus]   
+//Cheats/Unlock All Characteres, Added Phantom King's Fist and 100% Completed Seiya's Holidays Bonus
 patch=1,EE,4050B3F8,extended,008E0001
 patch=1,EE,24242424,extended,00000000
 patch=1,EE,2050B6B8,extended,FFFFFF02
 
-[Cheats/Unlock Exclusively for the Genromakouken Seiya's Holiday Once you have confirmed the effect, save the game immediately and proceed with the game without using the code.] 
+//Cheats/Unlock Exclusively for the Genromakouken Seiya's Holiday Once you have confirmed the effect, save the game immediately and proceed with the game without using the code.
 patch=1,EE,4050B3F8,extended,008E0001
 patch=1,EE,24242424,extended,00000000
 
-[Cheats/Unlock All characters, Stages And Genro Makouken Selectable] 
+//Cheats/Unlock All characters, Stages And Genro Makouken Selectable
 patch=1,EE,2050B6B8,extended,FFFFFF02
 patch=1,EE,2050B6BC,extended,FFFFFFFF
 patch=1,EE,2050B6C0,extended,FFFFFFFF

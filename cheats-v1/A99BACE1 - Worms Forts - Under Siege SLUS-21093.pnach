@@ -1,23 +1,23 @@
-[Cheats/Infinite Health Worm 1] 
+//Cheats/Infinite Health Worm 1
 patch=1,EE,200C0224,extended,24010000
 patch=1,EE,200C0228,extended,50340001
 patch=1,EE,200C022C,extended,AE22024C
 
-[Cheats/Infinite Health Worm 2] 
+//Cheats/Infinite Health Worm 2
 patch=1,EE,200C0230,extended,24010001
 patch=1,EE,200C0234,extended,50340001
 patch=1,EE,200C0238,extended,AE22024C
 
-[Cheats/Infinite Health Worm 3] 
+//Cheats/Infinite Health Worm 3
 patch=1,EE,200C023C,extended,24010002
 patch=1,EE,200C0240,extended,50340001
 patch=1,EE,200C0244,extended,AE22024C
 
-[Cheats/Unlock View Percentage Complete To Unlock Everything] 
+//Cheats/Unlock View Percentage Complete To Unlock Everything
 patch=1,EE,20214564,extended,24020001
 patch=1,EE,20214568,extended,AC82001C
 patch=1,EE,2021456C,extended,A3A00088
 
-[Cheats/Unlock Access Everything] 
+//Cheats/Unlock Access Everything
 patch=1,EE,204985D4,extended,00000001
 

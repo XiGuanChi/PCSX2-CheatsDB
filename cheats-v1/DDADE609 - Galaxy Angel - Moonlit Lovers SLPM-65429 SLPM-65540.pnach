@@ -1,8 +1,8 @@
-[Cheats/Infinite Ally HP And Enemy Blow Death] 
+//Cheats/Infinite Ally HP And Enemy Blow Death
 patch=1,EE,2020F458,extended,86A20258
 patch=1,EE,2020F46C,extended,54400001
 
-[Cheats/Max Ally Unit HP, EN & SP]  
+//Cheats/Max Ally Unit HP, EN & SP
 patch=1,EE,201D68A0,extended,10600023
 patch=1,EE,201D68A8,extended,8E22024C
 patch=1,EE,201D68AC,extended,AE220250
@@ -12,14 +12,14 @@ patch=1,EE,201D68B8,extended,8E22025C
 patch=1,EE,201D68BC,extended,1000001C
 patch=1,EE,201D68C0,extended,AE220260
 
-[Cheats/Max EN & SP When Attacking Angel Team Only] 
+//Cheats/Max EN & SP When Attacking Angel Team Only
 patch=1,EE,2020EAC0,extended,8EA30254
 patch=1,EE,2020EAC4,extended,AEA30258
 
-[Cheats/Unlock Bonus]  
+//Cheats/Unlock Bonus
 patch=1,EE,00785C18,extended,000000FF
 
-[Cheats/Unlock Scene Browsing And All Scenes] 
+//Cheats/Unlock Scene Browsing And All Scenes
 patch=1,EE,20108B3C,extended,2402FFFF
 patch=1,EE,20108B40,extended,AC82005C
 patch=1,EE,20108B44,extended,24020001

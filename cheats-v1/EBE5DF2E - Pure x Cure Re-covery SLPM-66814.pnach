@@ -1,13 +1,13 @@
-[Cheats/Unlock All CG]  
+//Cheats/Unlock All CG
 patch=1,EE,1029E2BE,extended,0000FFFF
 patch=1,EE,4029E2C0,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Music]  
+//Cheats/Unlock All Music
 patch=1,EE,1029E2D6,extended,0000FFFF
 patch=1,EE,1029E2D8,extended,0000FFFF
 
-[Cheats/Unlock Extra Mode] 
+//Cheats/Unlock Extra Mode
 patch=1,EE,0029D084,extended,00000001
 
 [Cheats/New game, Save, Load = Debug Menu will enable a event select debug menu allowing you to view any scene in the game. Apply the below code then do the following:Start a new game.Save.

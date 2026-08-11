@@ -1,50 +1,50 @@
-[Cheats/Away Team Scores 5 Runs Every Inning ] 
+//Cheats/Away Team Scores 5 Runs Every Inning
 patch=1,EE,200C0280,extended,24010005
 patch=1,EE,200C0284,extended,A04101B4
 patch=1,EE,200C0288,extended,03E00008
 patch=1,EE,200C028C,extended,904201B4
 patch=1,EE,2023532C,extended,0C0300A0
 
-[Cheats/Away Team Scores 0 Runs Every Inning] 
+//Cheats/Away Team Scores 0 Runs Every Inning
 patch=1,EE,200C0280,extended,24010000
 patch=1,EE,200C0284,extended,A04101B4
 patch=1,EE,200C0288,extended,03E00008
 patch=1,EE,200C028C,extended,904201B4
 patch=1,EE,2023532C,extended,0C0300A0
 
-[Cheats/Home Team Scores 5 Runs Every Inning] 
+//Cheats/Home Team Scores 5 Runs Every Inning
 patch=1,EE,200C02A0,extended,24010005
 patch=1,EE,200C02A4,extended,A04101B4
 patch=1,EE,200C02A8,extended,03E00008
 patch=1,EE,200C02AC,extended,904201B4
 patch=1,EE,202353B4,extended,0C0300A8
 
-[Cheats/Home Team Scores 0 Runs Every Inning] 
+//Cheats/Home Team Scores 0 Runs Every Inning
 patch=1,EE,200C02A0,extended,24010000
 patch=1,EE,200C02A4,extended,A04101B4
 patch=1,EE,200C02A8,extended,03E00008
 patch=1,EE,200C02AC,extended,904201B4
 patch=1,EE,202353B4,extended,0C0300A8
 
-[Cheats/All Retro Jerseys Cost $0 ] 
+//Cheats/All Retro Jerseys Cost $0
 patch=1,EE,20742CD8,extended,03E00008
 patch=1,EE,20742CDC,extended,24020000
 
-[Cheats/All Legendary Players Cost $0] 
+//Cheats/All Legendary Players Cost $0
 patch=1,EE,20742DC8,extended,03E00008
 patch=1,EE,20742DCC,extended,24020000
 
-[Cheats/All Classic Stadiums Cost $0] 
+//Cheats/All Classic Stadiums Cost $0
 patch=1,EE,2075A898,extended,03E00008
 patch=1,EE,2075A89C,extended,24020000
 
-[Cheats/Owner's Mode infinte Bank] 
+//Cheats/Owner's Mode infinte Bank
 patch=1,EE,2104E868,extended,4C3EBC20
 
-[Cheats/Profile 1 Max MVP Points] 
+//Cheats/Profile 1 Max MVP Points
 patch=1,EE,20FFC520,extended,FFFFFFFF
 
-[Cheats/Profile 1 Unlock All Rewards] 
+//Cheats/Profile 1 Unlock All Rewards
 patch=1,EE,200C02D0,extended,2401FFFF
 patch=1,EE,200C02D4,extended,ACC10054
 patch=1,EE,200C02D8,extended,ACC10058

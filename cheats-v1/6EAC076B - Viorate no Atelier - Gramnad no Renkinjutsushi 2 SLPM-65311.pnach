@@ -1,23 +1,23 @@
-[Cheats/Max Status After open Menu] 
+//Cheats/Max Status After open Menu
 patch=1,EE,20145B0C,extended,10400001
 
-[Cheats/Infinite Skill Points] 
+//Cheats/Infinite Skill Points
 patch=1,EE,20326A70,extended,00000000
 
-[Cheats/After The Skill Put All Skill 30] 
+//Cheats/After The Skill Put All Skill 30
 patch=1,EE,20326AE4,extended,2403001E
 
-[Cheats/Infinite MP In Preparation] 
+//Cheats/Infinite MP In Preparation
 patch=1,EE,2025FCC4,extended,00601023
 
-[Cheats/Infinite LP In Preparation] 
+//Cheats/Infinite LP In Preparation
 patch=1,EE,2025FCE4,extended,00601023
 
-[Cheats/Battle Start Max Status] 
+//Cheats/Battle Start Max Status
 patch=1,EE,4019B4DC,extended,00090002
 patch=1,EE,240303E7,extended,00000000
 
-[Cheats/HP In Battle Press L2+R2 One Hit Kill L3 Iinvincible R3 normal at the start] 
+//Cheats/HP In Battle Press L2+R2 One Hit Kill L3 Iinvincible R3 normal at the start
 patch=1,EE,D0BB2002,extended,0000FCF7
 patch=1,EE,201C1A94,extended,00641823
 patch=1,EE,D0BB2002,extended,0000FCFD
@@ -25,52 +25,52 @@ patch=1,EE,201C1A94,extended,00601823
 patch=1,EE,D0BB2002,extended,0000FCFB
 patch=1,EE,201C1A94,extended,70001EA8
 
-[Cheats/Infinite MP In Battle] 
+//Cheats/Infinite MP In Battle
 patch=1,EE,A01C3738,extended,00401023
 
-[Cheats/Infinite LP In Battle] 
+//Cheats/Infinite LP In Battle
 patch=1,EE,A01C3760,extended,00401023
 
-[Cheats/Max Quality Value Value Reaches Max Over Time] 
+//Cheats/Max Quality Value Value Reaches Max Over Time
 patch=1,EE,20234BDC,extended,34022710
 patch=1,EE,20234BE0,extended,A7C20008
 
 [Cheats/Unlock ] *This effect applies to all items in baskets and containers (except broken items).
 
-[Cheats/Max Friendship Value Reaches Max Over Time This applies to all companions and residents.] 
+//Cheats/Max Friendship Value Reaches Max Over Time This applies to all companions and residents.
 patch=1,EE,2018C940,extended,080C3EB1
 patch=1,EE,2030FAD0,extended,24042710
 
-[Cheats/Infinite Items even when used]  
+//Cheats/Infinite Items even when used
 patch=1,EE,20234E2C,extended,34022711
 
-[Cheats/Max Popularity After Fluctuation] 
+//Cheats/Max Popularity After Fluctuation
 patch=1,EE,201D5D74,extended,10000007
 
-[Cheats/Full Recovery HP With Dungeon Fluctuation] 
+//Cheats/Full Recovery HP With Dungeon Fluctuation
 patch=1,EE,2016C3E8,extended,8C820008
 
-[Cheats/Always Destroys Obstacles Successfully] 
+//Cheats/Always Destroys Obstacles Successfully
 patch=1,EE,20162CD8,extended,34420001
 
-[Cheats/Unlock Bonus Appearance Even If You Do Not Have Clear] 
+//Cheats/Unlock Bonus Appearance Even If You Do Not Have Clear
 patch=1,EE,00F7601C,extended,00000001
 
-[Cheats/Unlock All Characters Introductions] 
+//Cheats/Unlock All Characters Introductions
 patch=1,EE,00F75F61,extended,00000001
 patch=1,EE,10F75F62,extended,00000101
 patch=1,EE,20F75F64,extended,01010101
 patch=1,EE,20F75F68,extended,01010101
 patch=1,EE,00F75F6C,extended,00000001
 
-[Cheats/Unlock All Voice Actor Theater] 
+//Cheats/Unlock All Voice Actor Theater
 patch=1,EE,00F75F60,extended,00000001
 patch=1,EE,00F75F73,extended,000000FF
 patch=1,EE,20F75F74,extended,FFFFFFFF
 patch=1,EE,20F75F78,extended,FFFFFFFF
 patch=1,EE,20F75F7C,extended,00FFFFFF
 
-[Cheats/Unlock All Music]  
+//Cheats/Unlock All Music
 patch=1,EE,20F75F84,extended,01010101
 patch=1,EE,20F75F88,extended,01010101
 patch=1,EE,20F75F8C,extended,01010101
@@ -89,19 +89,19 @@ patch=1,EE,20F75FBC,extended,01010101
 patch=1,EE,20F75FC0,extended,01010101
 patch=1,EE,00F75FC4,extended,00000001
 
-[Cheats/Unlock All Ending Songs] 
+//Cheats/Unlock All Ending Songs
 patch=1,EE,20F75FCA,extended,00000101
 patch=1,EE,20F75FCC,extended,01010101
 
-[Cheats/Unlock All Movie Theater] 
+//Cheats/Unlock All Movie Theater
 patch=1,EE,20F75FD4,extended,01010101
 patch=1,EE,20F75FD8,extended,01010101
 
-[Cheats/Unlock All Museum ornamental only] 
+//Cheats/Unlock All Museum ornamental only
 patch=1,EE,20F75FD4,extended,01010101
 patch=1,EE,20F75FD8,extended,01010101
 
-[Cheats/Unlock All Museums]  
+//Cheats/Unlock All Museums
 patch=1,EE,20F75FE4,extended,01010101
 patch=1,EE,20F75FE8,extended,01010101
 patch=1,EE,20F75FEC,extended,01010101

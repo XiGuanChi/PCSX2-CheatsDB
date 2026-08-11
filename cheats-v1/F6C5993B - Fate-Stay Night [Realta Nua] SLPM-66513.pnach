@@ -1,4 +1,4 @@
-[Cheats/Unlock Extra Menu] 
+//Cheats/Unlock Extra Menu
 patch=1,EE,4050CAA0,extended,00A90001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,2050C900,extended,FFFFFFFF

@@ -1,14 +1,14 @@
-[Cheats/Yoh Asakura Infinite HP] 
+//Cheats/Yoh Asakura Infinite HP
 patch=1,EE,204E3DA4,extended,2160EC00
 patch=1,EE,204E3F04,extended,2160EC00
 
-[Cheats/Yoh Asakura Infinite Strength Points] 
+//Cheats/Yoh Asakura Infinite Strength Points
 patch=1,EE,204E3DA1,extended,00000009
 
-[Cheats/All Characters Infinite Strength Points Usage]
+//Cheats/All Characters Infinite Strength Points Usage
 patch=1,EE,2033E48C,extended,00000000
 
-[Cheats/View Capabilities For Max Strenth and Furyoku] 
+//Cheats/View Capabilities For Max Strenth and Furyoku
 patch=1,EE,200C0220,extended,2406270F
 patch=1,EE,200C0224,extended,A446000C
 patch=1,EE,200C0228,extended,A446000E
@@ -17,7 +17,7 @@ patch=1,EE,200C0230,extended,080D6320
 patch=1,EE,200C0234,extended,A606013A
 patch=1,EE,2035E464,extended,0C030088
 
-[Cheats/View Capabilities For Max Strength Points] 
+//Cheats/View Capabilities For Max Strength Points
 patch=1,EE,2035D44C,extended,24060063
 patch=1,EE,2035D458,extended,A3C60009
 

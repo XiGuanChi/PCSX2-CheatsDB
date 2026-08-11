@@ -1,7 +1,7 @@
-[Cheats/Infinite Time]  
+//Cheats/Infinite Time
 patch=1,EE,20147E28,extended,00000000
 
-[Cheats/Infinite Health All Levels] 
+//Cheats/Infinite Health All Levels
 patch=1,EE,200C0200,extended,3C030035
 patch=1,EE,200C0204,extended,8c639640
 patch=1,EE,200C0208,extended,10600007

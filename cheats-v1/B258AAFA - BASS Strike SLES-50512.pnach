@@ -1,15 +1,15 @@
-[Cheats/Arcade Mode Opponent Has 0 Fish] 
+//Cheats/Arcade Mode Opponent Has 0 Fish
 patch=1,EE,203B846C,extended,00000000
 
-[Cheats/Arcade Mode Opponent Has 0 Weight] 
+//Cheats/Arcade Mode Opponent Has 0 Weight
 patch=1,EE,203B8450,extended,00000000
 
-[Cheats/Arcade Mode P1 Has 5 Fish] 
+//Cheats/Arcade Mode P1 Has 5 Fish
 patch=1,EE,203B8464,extended,00000005
 
-[Cheats/Arcade Mode P1 Has Big Weight] 
+//Cheats/Arcade Mode P1 Has Big Weight
 patch=1,EE,203B844C,extended,000007D0
 
-[Cheats/Arcade Mode P1 Has Big Weight Press L2] 
+//Cheats/Arcade Mode P1 Has Big Weight Press L2
 patch=1,EE,D02B20C6,extended,0000FEFF
 patch=1,EE,203B844C,extended,000007D0

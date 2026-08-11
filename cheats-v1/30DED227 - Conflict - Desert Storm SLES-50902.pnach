@@ -1,14 +1,14 @@
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,201A85EC,extended,24420001
 
-[Cheats/Disable Damage] 
+//Cheats/Disable Damage
 patch=1,EE,2012FE00,extended,00000000
 patch=1,EE,2012FDE0,extended,00000000
 patch=1,EE,2012FDF0,extended,00000000
 patch=1,EE,2012FDE0,extended,10400017
 patch=1,EE,2012FDF0,extended,10400013
 
-[Cheats/Disable Damage Press R1+R2+L1+L2] 
+//Cheats/Disable Damage Press R1+R2+L1+L2
 patch=1,EE,2012FE00,extended,00000000
 patch=1,EE,D03D85C2,extended,0000F0FF
 patch=1,EE,2012FDE0,extended,00000000
@@ -19,7 +19,7 @@ patch=1,EE,2012FDE0,extended,10400017
 patch=1,EE,D03D85C2,extended,0000F0FF
 patch=1,EE,2012FDF0,extended,10400013
 
-[Cheats/Skip Level Press R1+R2+L1+L2+Select] 
+//Cheats/Skip Level Press R1+R2+L1+L2+Select
 patch=1,EE,D03D85C2,extended,0000F0FE
 patch=1,EE,003C9A95,extended,00000001
 patch=1,EE,D03D85C2,extended,0000F0FE

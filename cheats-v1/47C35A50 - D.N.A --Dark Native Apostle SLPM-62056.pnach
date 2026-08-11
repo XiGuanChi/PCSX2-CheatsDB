@@ -1,10 +1,10 @@
-[Cheats/Max HP] 
+//Cheats/Max HP
 patch=1,EE,101CECA0,extended,000007D0
 
-[Cheats/Max EP] 
+//Cheats/Max EP
 patch=1,EE,101CECA2,extended,000000C8
 
-[Cheats/All Biochips] 
+//Cheats/All Biochips
 patch=1,EE,10513832,extended,00000414
 patch=1,EE,10513834,extended,00000415
 patch=1,EE,10513836,extended,00000416

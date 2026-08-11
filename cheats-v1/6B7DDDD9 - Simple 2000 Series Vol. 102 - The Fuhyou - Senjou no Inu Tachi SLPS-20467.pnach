@@ -1,67 +1,67 @@
-[Cheats/Infinite Health]  
+//Cheats/Infinite Health
 patch=1,EE,217F4698,extended,43960000
 patch=1,EE,117F4642,extended,0000001E
 
-[Cheats/Infinite Hit point]  
+//Cheats/Infinite Hit point
 patch=1,EE,2023C9B8,extended,8C810114
 patch=1,EE,2023C9BC,extended,AC810118
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,20268ED8,extended,1000000C
 patch=1,EE,20268F20,extended,1000000C
 patch=1,EE,20268F68,extended,1000000C
 patch=1,EE,20268FB0,extended,1000000C
 
-[Cheats/Infinite Grenades]  
+//Cheats/Infinite Grenades
 patch=1,EE,20269940,extended,1000000C
 
-[Cheats/Infinite Recovering Items] 
+//Cheats/Infinite Recovering Items
 patch=1,EE,20269AD8,extended,1000000C
 
-[Cheats/Max ability SHOOTING, COMBAT, LIFE, and STRENGH are maximized] 
+//Cheats/Max ability SHOOTING, COMBAT, LIFE, and STRENGH are maximized
 patch=1,EE,217F4640,extended,001E001E
 patch=1,EE,217F4644,extended,001E001E
 
-[Cheats/Max Rank GENERAL OF ARMIES] 
+//Cheats/Max Rank GENERAL OF ARMIES
 patch=1,EE,017F4648,extended,00000014
 
-[Cheats/Max Experience] 
+//Cheats/Max Experience
 patch=1,EE,117F464A,extended,00007F80
 
-[Cheats/Unlock All Missions]  
+//Cheats/Unlock All Missions
 patch=1,EE,117F4690,extended,00000005
 
-[Cheats/Equipment weight 0kg] 
+//Cheats/Equipment weight 0kg
 patch=1,EE,117F464C,extended,00000000
 
-[Cheats/Pause in the mission and get all weapons acquisition conditions Knife will be displayed on the equipment screen and there will be a bug, but if you interrupt the mission by selecting BREAK from the pause menu, it will normalize] 
+//Cheats/Pause in the mission and get all weapons acquisition conditions Knife will be displayed on the equipment screen and there will be a bug, but if you interrupt the mission by selecting BREAK from the pause menu, it will normalize
 patch=1,EE,217F48D8,extended,FFFFFFFF
 patch=1,EE,017F48DC,extended,00000007
 
-[Cheats/All mission rank S Clear one mission and it will be the ending] 
+//Cheats/All mission rank S Clear one mission and it will be the ending
 patch=1,EE,417F4654,extended,000F0001
 patch=1,EE,00040004,extended,00000000
 
-[Cheats/All weapons possessed 99]
+//Cheats/All weapons possessed 99
 patch=1,EE,417F46A8,extended,00230004
 patch=1,EE,00000063,extended,00000000
 
-[Cheats/Mission rank S when entering the STATUS screen There is an effect in the mission that is emerging] 
+//Cheats/Mission rank S when entering the STATUS screen There is an effect in the mission that is emerging
 patch=1,EE,2026A0C0,extended,10800005
 patch=1,EE,2026A0CC,extended,00430821
 patch=1,EE,2026A0D0,extended,24020004
 patch=1,EE,2026A0D4,extended,A4334654
 patch=1,EE,2026A0D8,extended,03E00008
 
-[Cheats/RESULT Time 0] 
+//Cheats/RESULT Time 0
 patch=1,EE,20225D88,extended,AC20A7C4
 
-[Cheats/RESULT Killed 999] 
+//Cheats/RESULT Killed 999
 patch=1,EE,202260EC,extended,00B20821
 patch=1,EE,202260F0,extended,240503E7
 patch=1,EE,202260F8,extended,AC25A7C8
 
-[Cheats/RESULT Hit Rate 100%] 
+//Cheats/RESULT Hit Rate 100%
 patch=1,EE,20226084,extended,00D20821
 patch=1,EE,20226088,extended,240603E7
 patch=1,EE,2022608C,extended,AC26A7CC

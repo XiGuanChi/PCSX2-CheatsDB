@@ -1,19 +1,19 @@
-[Cheats/Instant Win Press Select] 
+//Cheats/Instant Win Press Select
 patch=1,EE,D031be1c,extended,0000fffe
 patch=1,EE,204bee68,extended,00050005
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2018fa68,extended,84410224
 patch=1,EE,2018fa6c,extended,00010900
 patch=1,EE,2018fa70,extended,a4410226
 
-[Cheats/Infinite Time]    
+//Cheats/Infinite Time
 patch=1,EE,204bee60,extended,01010101
 
-[Cheats/Infinite Musou]  
+//Cheats/Infinite Musou
 patch=1,EE,2018fa68,extended,8441022a
 patch=1,EE,2018fa6c,extended,00010900
 patch=1,EE,2018fa70,extended,a441022c
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,201965b0,extended,a0420000

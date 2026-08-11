@@ -1,13 +1,13 @@
-[Cheats/Max Money owner Mode] 
+//Cheats/Max Money owner Mode
 patch=1,EE,20F066F8,extended,4CBEBBA3
 
-[Cheats/No Count Press L2] 
+//Cheats/No Count Press L2
 patch=1,EE,D0C30402,extended,0000FEFF 
 patch=1,EE,00F89C29,extended,00000000 
 patch=1,EE,D0C30402,extended,0000FEFF
 patch=1,EE,10F89C2A,extended,00000000
 
-[Cheats/2 Outs 2 Strikez Press R2 ] 
+//Cheats/2 Outs 2 Strikez Press R2
 patch=1,EE,D0C30402,extended,0000FDFF
 patch=1,EE,00F89C29,extended,00000002 
 patch=1,EE,D0C30402,extended,0000FDFF

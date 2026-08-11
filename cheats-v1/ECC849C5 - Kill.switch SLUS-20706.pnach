@@ -1,26 +1,26 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2018DF40,extended,8E411330
 patch=1,EE,2018DF48,extended,AE41132C
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,20250790,extended,00000000
 
-[Cheats/Never Reload] 
+//Cheats/Never Reload
 patch=1,EE,2025021C,extended,00000000
 
-[Cheats/Infinite Grenades] 
+//Cheats/Infinite Grenades
 patch=1,EE,2018B6DC,extended,00000000
 
-[Cheats/Infinite Time Timed Missions] 
+//Cheats/Infinite Time Timed Missions
 patch=1,EE,202015D4,extended,00000000
 
-[Cheats/Unlock Mission Select Main Menu] 
+//Cheats/Unlock Mission Select Main Menu
 patch=1,EE,203CD5AC,extended,00000024
 
-[Cheats/Enable Debug Level Select] 
+//Cheats/Enable Debug Level Select
 patch=1,EE,203B3010,extended,006DC318
 
-[Cheats/Enable Debug Options in Pause Menu in Game] 
+//Cheats/Enable Debug Options in Pause Menu in Game
 patch=1,EE,20208350,extended,0C152DC0
 patch=1,EE,2054B700,extended,24110004
 patch=1,EE,2054B704,extended,AE110338

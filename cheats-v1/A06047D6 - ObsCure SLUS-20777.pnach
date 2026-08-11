@@ -1,29 +1,29 @@
-[Cheats/All Characters Infinite Health] 
+//Cheats/All Characters Infinite Health
 patch=1,EE,0015a4d4,word,46010030
 patch=1,EE,0015a49c,word,46000840
 
-[Cheats/Characters Never Exhausted When Running] 
+//Cheats/Characters Never Exhausted When Running
 patch=1,EE,0016048c,word,00401021
 
-[Cheats/Infinite Pistol Ammo] 
+//Cheats/Infinite Pistol Ammo
 patch=1,EE,00360bbc,word,24420000
 
-[Cheats/Laser Never Overcharges With Infinite Ammo] 
+//Cheats/Laser Never Overcharges With Infinite Ammo
 patch=1,EE,0014a1a8,word,10000005
 patch=1,EE,0014a1ac,word,44820000
 patch=1,EE,0014a228,word,AE8001F0
 patch=1,EE,0014b270,word,AE8001F0
 
-[Cheats/Infinite Energy Drinks]  
+//Cheats/Infinite Energy Drinks
 patch=1,EE,001ad114,word,24630000
 
-[Cheats/Infinite Discs]  
+//Cheats/Infinite Discs
 patch=1,EE,002de564,word,24630000
 
-[Cheats/Infinite Pump-Action Shotgun Ammo]  
+//Cheats/Infinite Pump-Action Shotgun Ammo
 patch=1,EE,00359dd0,word,24420000
 
-[Cheats/Unlock All Bonuses And Special Moded] 
+//Cheats/Unlock All Bonuses And Special Moded
 patch=1,EE,20CDCEEC,extended,FFFFFFFF
 
 

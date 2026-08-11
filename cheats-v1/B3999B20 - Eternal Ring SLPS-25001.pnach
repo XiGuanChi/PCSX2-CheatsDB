@@ -1,13 +1,13 @@
-[Cheats/NEXT EXP 0 Level up each time you gain experience points] 
+//Cheats/NEXT EXP 0 Level up each time you gain experience points
 patch=1,EE,202FD128,extended,00000000
 
-[Cheats/Max HP And MP]  
+//Cheats/Max HP And MP
 patch=1,EE,102FD114,extended,000003E7
 patch=1,EE,102FD116,extended,000003E7
 patch=1,EE,102FD118,extended,000003E7
 patch=1,EE,102FD11A,extended,000003E7
 
-[Cheats/Max Basic Attribute Value]  
+//Cheats/Max Basic Attribute Value
 patch=1,EE,102FD140,extended,000003E7
 patch=1,EE,102FD142,extended,000003E7
 patch=1,EE,102FD144,extended,000003E7
@@ -16,7 +16,7 @@ patch=1,EE,102FD148,extended,000003E7
 patch=1,EE,102FD14A,extended,000003E7
 patch=1,EE,102FD14C,extended,000003E7
 
-[Cheats/Unlock All items] 
+//Cheats/Unlock All items
 patch=1,EE,4031C041,extended,00190001
 patch=1,EE,63636363,extended,00000000
 patch=1,EE,1031C0A5,extended,00006363

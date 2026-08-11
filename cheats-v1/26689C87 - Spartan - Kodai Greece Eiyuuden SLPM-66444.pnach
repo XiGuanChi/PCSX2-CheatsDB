@@ -1,36 +1,36 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,203BE7C8,extended,081150A0
 patch=1,EE,203BE7CC,extended,A45102FA
 patch=1,EE,203BE7F8,extended,241101F4
 patch=1,EE,203BE800,extended,0C0EF9F2
 
-[Cheats/Infinite Rage] 
+//Cheats/Infinite Rage
 patch=1,EE,205BD64C,extended,000025A0  
 
-[Cheats/Infinite Power Gauge Even when Using Power Techniques It will decrease if absorbed by a witch]
+//Cheats/Infinite Power Gauge Even when Using Power Techniques It will decrease if absorbed by a witch
 patch=1,EE,20454644,extended,00000000
 patch=1,EE,20453DF8,extended,00000000
 
-[Cheats/Infinite Arrows]  
+//Cheats/Infinite Arrows
 patch=1,EE,202CFD3C,extended,2401001E
 patch=1,EE,202CFD40,extended,A441002C
 
-[Cheats/Always Fire Arrow] 
+//Cheats/Always Fire Arrow
 patch=1,EE,202A3C6C,extended,3C0142C8
 patch=1,EE,202A3C74,extended,10000033
 patch=1,EE,202A3C78,extended,AE010008
 
-[Cheats/Max Power Gauge When Absorbing Soul]
+//Cheats/Max Power Gauge When Absorbing Soul
 patch=1,EE,20454720,extended,10000007
 
-[Cheats/Strengts Points Change SELECT+Up Points 9 SELECT+down Points 0] 
+//Cheats/Strengts Points Change SELECT+Up Points 9 SELECT+down Points 0
 patch=1,EE,D05A2D90,extended,00000011
 patch=1,EE,00E4971C,extended,00000009
 patch=1,EE,D05A2D90,extended,00000041
 patch=1,EE,00E4971C,extended,00000000
 
-[Cheats/Unlock All Items Arena] 
+//Cheats/Unlock All Items Arena
 patch=1,EE,20384460,extended,24100002
 
-[Cheats/Unlock 6 Arena and the 14 Stages Replay After Saving Reload the System Data to Reflect] 
+//Cheats/Unlock 6 Arena and the 14 Stages Replay After Saving Reload the System Data to Reflect
 patch=1,EE,2038419C,extended,2402000E

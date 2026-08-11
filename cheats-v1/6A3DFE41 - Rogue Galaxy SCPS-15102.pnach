@@ -1,27 +1,27 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,205FE980,extended,05F5E0FF
 
-[Cheats/Max Level Experience Value Acquisition] 
+//Cheats/Max Level Experience Value Acquisition
 patch=1,EE,203A7D58,extended,24010001
 
-[Cheats/Jester HP 999] 
+//Cheats/Jester HP 999
 patch=1,EE,10604522,extended,000003E7
 patch=1,EE,10604526,extended,000003E7
 
-[Cheats/Jester AP 999] 
+//Cheats/Jester AP 999
 patch=1,EE,10604524,extended,000003E7 
 patch=1,EE,1060452A,extended,000003E7
 
-[Cheats/Jester Power 999]  
+//Cheats/Jester Power 999
 patch=1,EE,10604532,extended,000003E7
 
-[Cheats/Jester Sniper 999]  
+//Cheats/Jester Sniper 999
 patch=1,EE,1060453A,extended,000003E7
 
-[Cheats/Jester Durability 999] 
+//Cheats/Jester Durability 999
 patch=1,EE,10604536,extended,000003E7
 
-[Cheats/Random Encounter Press SELECT+L2 No Encounter SELECT+R1 Challenge battle occurred SELECT+R2 normal operation] 
+//Cheats/Random Encounter Press SELECT+L2 No Encounter SELECT+R1 Challenge battle occurred SELECT+R2 normal operation
 patch=1,EE,D04BE9C2,extended,0000FEFE
 patch=1,EE,203AA528,extended,1000FF58
 patch=1,EE,D04BE9C2,extended,0000FDFE

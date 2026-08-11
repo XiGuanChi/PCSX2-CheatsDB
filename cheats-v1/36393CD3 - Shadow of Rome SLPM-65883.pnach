@@ -1,52 +1,52 @@
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,20140B1C,extended,84C30380
 patch=1,EE,20140B20,extended,A4C30382
 patch=1,EE,20140B24,extended,A4A30010
 
-[Cheats/Invincible & Enemy Blows Death] 
+//Cheats/Invincible & Enemy Blows Death
 patch=1,EE,2015A4C4,extended,34630900
 patch=1,EE,2015A4BC,extended,AC23EBE4
 
-[Cheats/Angrippa Weapon Unbreakable] 
+//Cheats/Angrippa Weapon Unbreakable
 patch=1,EE,201A20FC,extended,00000000
 patch=1,EE,201B371C,extended,00000000
 
-[Cheats/Max Salvo Points Acquisition] 
+//Cheats/Max Salvo Points Acquisition
 patch=1,EE,201FC964,extended,00000000
 
-[Cheats/Max Excite Gauge]
+//Cheats/Max Excite Gauge
 patch=1,EE,201FCDAC,extended,00000000
 
-[Cheats/Infinite Horse Stamina] 
+//Cheats/Infinite Horse Stamina
 patch=1,EE,2029E5B4,extended,000003E7
 
-[Cheats/Chariot competition Instant Stamina Recovery for Horses]
+//Cheats/Chariot competition Instant Stamina Recovery for Horses
 patch=1,EE,2029E5B4,extended,00000000
 
-[Cheats/Octavianus Has 999 coins] 
+//Cheats/Octavianus Has 999 coins
 patch=1,EE,10552284,extended,000003E7
 
-[Cheats/Unlock All Stages BATTLE SELECTION] 
+//Cheats/Unlock All Stages BATTLE SELECTION
 patch=1,EE,203F7608,extended,240100FF
 patch=1,EE,203F760C,extended,A0610025
 
-[Cheats/Unlock All Items SECRETS OF ROME] 
+//Cheats/Unlock All Items SECRETS OF ROME
 patch=1,EE,20551A98,extended,FFFF2F3F
 
-[Cheats/Unlock All Extras] 
+//Cheats/Unlock All Extras
 patch=1,EE,405520D4,extended,000B0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Salvo Lists You can now see all the lists in SECRETS OF ROME. It will not be reflected in the in-game list.] 
+//Cheats/Unlock All Salvo Lists You can now see all the lists in SECRETS OF ROME. It will not be reflected in the in-game list.
 patch=1,EE,405520D4,extended,000B0001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock Looking at the Salvo List in the main story, it is fully open The number of salvos for each salvo is 9999.] 
+//Cheats/Unlock Looking at the Salvo List in the main story, it is fully open The number of salvos for each salvo is 9999.
 patch=1,EE,203ED194,extended,00851021
 patch=1,EE,203ED198,extended,2404270F
 patch=1,EE,203ED1A0,extended,A4440410
 
-[Cheats/Unlock All Bonuses for Extreme BATTLE SELECTION, difficulty level EXTREME can be selected, SECRET COSTUME can be selected and All SECRETS OF ROME] 
+//Cheats/Unlock All Bonuses for Extreme BATTLE SELECTION, difficulty level EXTREME can be selected, SECRET COSTUME can be selected and All SECRETS OF ROME
 patch=1,EE,20551A98,extended,FFFFFFFF
 patch=1,EE,40551AA8,extended,01620001
 patch=1,EE,05F5E0FF,extended,00000000

@@ -1,7 +1,7 @@
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,2028D9F0,extended,000F423F
 
-[Cheats/Max Stats] 
+//Cheats/Max Stats
 patch=1,EE,1028DBA2,extended,000001F4
 patch=1,EE,1028DBA4,extended,000001F4
 patch=1,EE,1028DBA6,extended,000001F4
@@ -19,10 +19,10 @@ patch=1,EE,1028DBBC,extended,000000C8
 patch=1,EE,1028DBBE,extended,000000C8
 patch=1,EE,1028DBC0,extended,000001F4
 
-[Cheats/Can Use Asuka] 
+//Cheats/Can Use Asuka
 patch=1,EE,0028D9C8,extended,0000001F
 
-[Cheats/Unlock Rei's Album All Events and Endings] 
+//Cheats/Unlock Rei's Album All Events and Endings
 patch=1,EE,2028D940,extended,FFFFFFFF
 patch=1,EE,2028D944,extended,FFFFFFFF
 patch=1,EE,2028D948,extended,FFFFFFFF
@@ -32,7 +32,7 @@ patch=1,EE,2028D954,extended,FFFFFFFF
 patch=1,EE,2028D958,extended,FFFFFFFF
 patch=1,EE,2028D95C,extended,FFFFFFFF
 
-[Cheats/Unlock Asuka's Album All Events and Endings] 
+//Cheats/Unlock Asuka's Album All Events and Endings
 patch=1,EE,2028D9A0,extended,FFFFFFFF
 patch=1,EE,2028D9A4,extended,FFFFFFFF
 patch=1,EE,2028D9A8,extended,FFFFFFFF

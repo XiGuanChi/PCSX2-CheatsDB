@@ -1,17 +1,17 @@
-[Cheats/Gradius III Gradius IV Infinite Lives 99] 
+//Cheats/Gradius III Gradius IV Infinite Lives 99
 patch=1,EE,202851D4,extended,14000004
 
-[Cheats/Gradius III Invincible] 
+//Cheats/Gradius III Invincible
 patch=1,EE,20230974,extended,1000FFB9
 patch=1,EE,2023BA58,extended,10000024
 
-[Cheats/Gradius III Removed the ability to select only the first playthrough in STAGE SELECT on VERY EASY or lower.] 
+//Cheats/Gradius III Removed the ability to select only the first playthrough in STAGE SELECT on VERY EASY or lower.
 patch=1,EE,2033C3FC,extended,00000000
 
-[Cheats/Gradius III Level selection in hexadecimal notation] 
+//Cheats/Gradius III Level selection in hexadecimal notation
 patch=1,EE,205F158B,extended,58323025
 
-[Cheats/Gradius IV Invincible ] 
+//Cheats/Gradius IV Invincible
 patch=1,EE,202A660C,extended,10000018
 patch=1,EE,202A6550,extended,A60300AE
 patch=1,EE,202A7024,extended,A4A300AE

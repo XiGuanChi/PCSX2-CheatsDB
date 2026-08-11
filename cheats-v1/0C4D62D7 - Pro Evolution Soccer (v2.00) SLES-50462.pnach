@@ -1,27 +1,27 @@
-[Cheats/Home Team Score 99 Press L1 to activate] 
+//Cheats/Home Team Score 99 Press L1 to activate
 patch=1,EE,D128C782,extended,0000FBFF
 patch=1,EE,012206CB,extended,00000063
 
-[Cheats/Home Team Score 0 Press L2 to activate] 
+//Cheats/Home Team Score 0 Press L2 to activate
 patch=1,EE,D128C782,extended,0000FEFF
 patch=1,EE,012206CB,extended,00000000
 
-[Cheats/Away Team Score 99 Press R1 to activate] 
+//Cheats/Away Team Score 99 Press R1 to activate
 patch=1,EE,D128C782,extended,0000F7FF
 patch=1,EE,012206CC,extended,00000063
 
-[Cheats/Away Team Score 0 Press R2 to activate] 
+//Cheats/Away Team Score 0 Press R2 to activate
 patch=1,EE,D128C782,extended,0000FDFF
 patch=1,EE,012206CC,extended,00000000
 
-[Cheats/Infinite Cash] 
+//Cheats/Infinite Cash
 patch=1,EE,11277DC8,extended,000003E7
 
-[Cheats/Win All Trophies] 
+//Cheats/Win All Trophies
 patch=1,EE,01221D3C,extended,000000FF
 
-[Cheats/Infinite Transfers] 
+//Cheats/Infinite Transfers
 patch=1,EE,0127946C,extended,00000063
 
-[Cheats/Unlock All Teams] 
+//Cheats/Unlock All Teams
 patch=1,EE,01221D30,extended,000000FF

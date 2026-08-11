@@ -1,7 +1,7 @@
-[Cheats/Unlock Special Added To The Title] 
+//Cheats/Unlock Special Added To The Title
 patch=1,EE,006F96FE,extended,00000001
 
-[Cheats/Unlock All CG] 
+//Cheats/Unlock All CG
 patch=1,EE,406F9700,extended,00150001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,006F96FF,extended,00000001
@@ -16,6 +16,6 @@ patch=1,EE,206F9770,extended,01010100
 patch=1,EE,206F9774,extended,01010101
 patch=1,EE,106F9778,extended,00000101
 
-[Cheats/Unlock Everything]  
+//Cheats/Unlock Everything
 patch=1,EE,406F9700,extended,001F0001
 patch=1,EE,FFFFFFFF,extended,00000000

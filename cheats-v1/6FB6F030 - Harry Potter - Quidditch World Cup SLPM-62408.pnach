@@ -1,4 +1,4 @@
-[Cheats/All cards can be used 104-104] 
+//Cheats/All cards can be used 104-104
 patch=1,EE,21DF3C00,extended,FFFFFFFF
 patch=1,EE,21DF3C04,extended,FFFFFFFF
 patch=1,EE,21DF3C08,extended,FFFFFFFF
@@ -8,10 +8,10 @@ patch=1,EE,21DF3C14,extended,FFFFFFFF
 patch=1,EE,21DF3C18,extended,FFFFFFFF
 patch=1,EE,11DF3C1C,extended,0000FFFF
 
-[Cheats/1P score] 
+//Cheats/1P score
 patch=1,EE,D0399488,extended,00000000
 patch=1,EE,10399488,extended,000003E7
 
-[Cheats/Time 0 After press SELECT] 
+//Cheats/Time 0 After press SELECT
 patch=1,EE,D054C142,extended,0000FFFE
 patch=1,EE,10462B18,extended,00000000

@@ -1,71 +1,71 @@
-[Cheats/Max GIL 99.999.999] 
+//Cheats/Max GIL 99.999.999
 patch=1,EE,20547f08,extended,05f5e0ff
 
-[Cheats/HP 9999-9999 & MP 999-999 from new game or after save data] 
+//Cheats/HP 9999-9999 & MP 999-999 from new game or after save data
 patch=1,EE,202f4188,extended,10000008
 patch=1,EE,202f41d8,extended,00000000
 
-[Cheats/Infinite HP]  
+//Cheats/Infinite HP
 patch=1,EE,2030c108,extended,00000000
 patch=1,EE,2030c110,extended,AE620048
 
-[Cheats/Infinite HP ALT]  
+//Cheats/Infinite HP ALT
 patch=1,EE,2030D230,extended,0803FFCE
 patch=1,EE,200FFF40,extended,8C820024
 patch=1,EE,200FFF44,extended,AC820048
 patch=1,EE,200FFF50,extended,080C3262
 patch=1,EE,200FFF38,extended,10040005
 
-[Cheats/Infinite MP]  
+//Cheats/Infinite MP
 patch=1,EE,2030c154,extended,00000000
 patch=1,EE,2030c170,extended,86620028
 patch=1,EE,2030c174,extended,A662004C
 patch=1,EE,2030c180,extended,AE020028
 
-[Cheats/Infinite MP aLT]  
+//Cheats/Infinite MP aLT
 patch=1,EE,2030D230,extended,0803FFCE
 patch=1,EE,200FFF48,extended,8C820028
 patch=1,EE,200FFF4C,extended,AC82004C
 patch=1,EE,200FFF50,extended,080C3262
 patch=1,EE,200FFF38,extended,10040005
 
-[Cheats/Max Lizense Points After Fight and After the Fighting License Points 9999] 
+//Cheats/Max Lizense Points After Fight and After the Fighting License Points 9999
 patch=1,EE,202ec734,extended,00000000
 
-[Cheats/After a hit Level 99, Exp 999999] 
+//Cheats/After a hit Level 99, Exp 999999
 patch=1,EE,202ec6e8,extended,00000000
 
-[Cheats/Infinite Chocobo Turbo Energy] 
+//Cheats/Infinite Chocobo Turbo Energy
 patch=1,EE,203019b0,extended,26040000
 
-[Cheats/Infinite Chocobo Time 999] 
+//Cheats/Infinite Chocobo Time 999
 patch=1,EE,203018e0,extended,3C01461C
 
-[Cheats/Max LP Gained After Battle] 
+//Cheats/Max LP Gained After Battle
 patch=1,EE,202EC6BC,extended,00000000
 
-[Cheats/Max Exp Gained After Battle] 
+//Cheats/Max Exp Gained After Battle
 patch=1,EE,202EC698,extended,00000000
 
-[Cheats/Vaan All Good Status]
+//Cheats/Vaan All Good Status
 patch=1,EE,2054A144,extended,567c0000
 
-[Cheats/Ashe All Good Status]
+//Cheats/Ashe All Good Status
 patch=1,EE,2054A308,extended,567c0000
 
-[Cheats/Fran All Good Status] 
+//Cheats/Fran All Good Status
 patch=1,EE,2054A4CC,extended,567c0000
 
-[Cheats/Baltier All Good Status] 
+//Cheats/Baltier All Good Status
 patch=1,EE,2054A690,extended,567c0000
 
-[Cheats/Penelo All Good Status] 
+//Cheats/Penelo All Good Status
 patch=1,EE,2054AA18,extended,567c0000
 
-[Cheats/Bash All Good Status] 
+//Cheats/Bash All Good Status
 patch=1,EE,2054A854,extended,547c0000
 
-[Cheats/Break Damage Limit for 9999+ Damage] 
+//Cheats/Break Damage Limit for 9999+ Damage
 patch=1,EE,203C5AB8,extended,10000003
 patch=1,EE,203C6204,extended,10000003
 patch=1,EE,203C6254,extended,10000003
@@ -76,7 +76,7 @@ patch=1,EE,203C6A08,extended,10000003
 patch=1,EE,203C73CC,extended,10000003
 patch=1,EE,203C7674,extended,50000004
 
-[Cheats/P1 Press L3 To Have All Summons] 
+//Cheats/P1 Press L3 To Have All Summons
 patch=1,EE,E008FFFD,extended,0056BADC
 patch=1,EE,1054EFE2,extended,00007FFC
 patch=1,EE,1054A29E,extended,00007FFC
@@ -87,12 +87,12 @@ patch=1,EE,1054A9AE,extended,00007FFC
 patch=1,EE,1054AB72,extended,00007FFC
 patch=1,EE,1054AD36,extended,00007FFC
 
-[Cheats/Have All Treasure Chests] 
+//Cheats/Have All Treasure Chests
 patch=1,EE,203B7888,extended,2A020000
 patch=1,EE,203B78A0,extended,2A020000
 patch=1,EE,203B77F8,extended,10000019
 
-[Cheats/Have All Items]  
+//Cheats/Have All Items
 patch=1,EE,4054E7A8,extended,000B0001
 patch=1,EE,00630063,extended,00000000
 patch=1,EE,1054E7FE,extended,00000063
@@ -108,12 +108,12 @@ patch=1,EE,20553A0C,extended,003D0035
 patch=1,EE,20553A10,extended,003F003E
 patch=1,EE,005548B8,extended,00000024
 
-[Cheats/All Spells Don't use in the beginning of the game when they just sell White and Black Magic] 
+//Cheats/All Spells Don't use in the beginning of the game when they just sell White and Black Magic
 patch=1,EE,FE129B51,extended,800813BF
 patch=1,EE,4054EF70,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/All Armor Press Select] 
+//Cheats/All Armor Press Select
 patch=1,EE,E08FFFFE,extended,0056BADC
 patch=1,EE,10553BDC,extended,000010C8
 patch=1,EE,10553BDE,extended,000010C9
@@ -259,7 +259,7 @@ patch=1,EE,105548C0,extended,0000008C
 patch=1,EE,4054E9B8,extended,00460001
 patch=1,EE,00630063,extended,00000000
 
-[Cheats/All Accessories Press Select] 
+//Cheats/All Accessories Press Select
 patch=1,EE,E033FFFE,extended,0056BADC
 patch=1,EE,10553CF4,extended,00001154
 patch=1,EE,10553CF6,extended,00001155
@@ -313,7 +313,7 @@ patch=1,EE,105548C4,extended,00000030
 patch=1,EE,4054EAD0,extended,00180001
 patch=1,EE,00630063,extended,00000000
 
-[Cheats/All Ammunition Press Select] 
+//Cheats/All Ammunition Press Select
 patch=1,EE,E023FFFE,extended,0056BADC
 patch=1,EE,10553D54,extended,00001184
 patch=1,EE,10553D56,extended,00001185
@@ -351,7 +351,7 @@ patch=1,EE,105548C8,extended,00000020
 patch=1,EE,4054EB30,extended,00100001
 patch=1,EE,00630063,extended,00000000
 
-[Cheats/All Weapons Press Select] 
+//Cheats/All Weapons Press Select
 patch=1,EE,E0AEFFFE,extended,0056BADC
 patch=1,EE,005548BC,extended,000000AA
 patch=1,EE,4054E82C,extended,00540001

@@ -1,22 +1,22 @@
-[Cheats/Infinite Cash] 
+//Cheats/Infinite Cash
 patch=1,EE,104BE02C,extended,0000FFFF
 
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,204BE02C,extended,05F5E0FF
 
-[Cheats/Max HP] 
+//Cheats/Max HP
 patch=1,EE,204BE038,extended,0000270F
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,204BDFF0,extended,461C3C00
 
-[Cheats/Infinite Air] 
+//Cheats/Infinite Air
 patch=1,EE,204BDFF4,extended,461C3C00
 
-[Cheats/Have All History Shells] 
+//Cheats/Have All History Shells
 patch=1,EE,204870C8,extended,FFFFFFFF
 patch=1,EE,204870CC,extended,FFFFFFFF
 
-[Cheats/Have All History Titles] 
+//Cheats/Have All History Titles
 patch=1,EE,204870F0,extended,FFFFFFFF
 patch=1,EE,204870F4,extended,FFFFFFFF

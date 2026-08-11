@@ -1,43 +1,43 @@
-[Cheats/Infinite Health Driving Mission] 
+//Cheats/Infinite Health Driving Mission
 patch=1,EE,200C0220,extended,3C01453B
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AC410008
 patch=1,EE,2017BB34,extended,0C030088
 patch=1,EE,2017BB38,extended,46031034
 
-[Cheats/Infinite Lives Driving Mission] 
+//Cheats/Infinite Lives Driving Mission
 patch=1,EE,2010009C,extended,00000009
 
-[Cheats/Never Reload Driving Mission] 
+//Cheats/Never Reload Driving Mission
 patch=1,EE,2A0337C5,extended,00000000
 
-[Cheats/Infinite Health Action Mission] 
+//Cheats/Infinite Health Action Mission
 patch=1,EE,200C0220,extended,3C0143FA
 patch=1,EE,200C0224,extended,03E00008
 patch=1,EE,200C0228,extended,AC6102EC
 patch=1,EE,202730EC,extended,0C030088
 patch=1,EE,202730F0,extended,46020034
 
-[Cheats/Infinite Lives Action Mission] 
+//Cheats/Infinite Lives Action Mission
 patch=1,EE,2037F610,extended,00000009
 patch=1,EE,0037F890,extended,00000009
 
-[Cheats/Never Recharge Action Mission] 
+//Cheats/Never Recharge Action Mission
 patch=1,EE,202D7C48,extended,00000000
 
-[Cheats/Invincibility in Normal Levels] 
+//Cheats/Invincibility in Normal Levels
 patch=1,EE,D027AC92,extended,00007FB1
 patch=1,EE,2027AC8C,extended,03E00008
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,40381230,extended,000C0001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Rewards] 
+//Cheats/Unlock All Rewards
 patch=1,EE,4037F790,extended,00180001
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Deinterlacing] 
+//Cheats/Deinterlacing
 patch=1,EE,D012A402,extended,0000ACE2
 patch=1,EE,2012A400,extended,00000000
 

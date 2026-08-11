@@ -1,17 +1,17 @@
-[Cheats/Max Training Points] 
+//Cheats/Max Training Points
 patch=1,EE,20484960,extended,05F5E0FF
 
-[Cheats/Infinite AP] 
+//Cheats/Infinite AP
 patch=1,EE,20291AF4,extended,00009C3C
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,50291B04,extended,00000004
 patch=1,EE,00291B00,extended,00000000
 
-[Cheats/Never Overheat] 
+//Cheats/Never Overheat
 patch=1,EE,20291BB0,extended,41A00000
 
-[Cheats/1 Hit Death Enemies] 
+//Cheats/1 Hit Death Enemies
 patch=1,EE,200C0220,extended,3C010029
 patch=1,EE,200C0224,extended,34211AF0
 patch=1,EE,200C0228,extended,10300005
@@ -24,26 +24,26 @@ patch=1,EE,200C0240,extended,03E00008
 patch=1,EE,200C0244,extended,00000000
 patch=1,EE,20157FD8,extended,0C030088
 
-[Cheats/P1 Press L1+Select For 1-Hit Death P2 or CPU 1] 
+//Cheats/P1 Press L1+Select For 1-Hit Death P2 or CPU 1
 patch=1,EE,D028AB02,extended,0000FBFE
 patch=1,EE,102940F4,extended,00000001
 
-[Cheats/P1 Press L2+Select For 1 Hit Death CPU 2] 
+//Cheats/P1 Press L2+Select For 1 Hit Death CPU 2
 patch=1,EE,D028AB02,extended,0000FEFE
 patch=1,EE,102966F4,extended,00000001
 
-[Cheats/Max Ammo All Weapons]  
+//Cheats/Max Ammo All Weapons
 patch=1,EE,2025528C,extended,2402270F
 patch=1,EE,20255294,extended,A602001A
 
-[Cheats/Infinite Ammo All Weapons] 
+//Cheats/Infinite Ammo All Weapons
 patch=1,EE,20255274,extended,9608001A
 patch=1,EE,2025527C,extended,A6080018
 
-[Cheats/Infinite Arena Points] 
+//Cheats/Infinite Arena Points
 patch=1,EE,10484BC0,extended,0000FFFF
 
-[Cheats/Max Arena Points] 
+//Cheats/Max Arena Points
 patch=1,EE,20484BC0,extended,05F5E0FF
 
 

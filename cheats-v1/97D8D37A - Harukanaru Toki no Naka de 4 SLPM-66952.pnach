@@ -1,32 +1,32 @@
-[Cheats/Infinite HP Main Character] 
+//Cheats/Infinite HP Main Character
 patch=1,EE,21EDAB8C,extended,00000064
 
-[Cheats/Infinite HP 2nd Character] 
+//Cheats/Infinite HP 2nd Character
 patch=1,EE,21EDABB8,extended,00000064
 
-[Cheats/Infinite HP 3rd Character] 
+//Cheats/Infinite HP 3rd Character
 patch=1,EE,21EDABE4,extended,00000064
 
-[Cheats/999 Pieces When You See Megumi] 
+//Cheats/999 Pieces When You See Megumi
 patch=1,EE,20184D58,extended,00510821
 patch=1,EE,20184D5C,extended,240203E7
 patch=1,EE,20184D64,extended,A4220022
 
-[Cheats/Super Increase In Bond Value In One Battle] 
+//Cheats/Super Increase In Bond Value In One Battle
 patch=1,EE,20186E84,extended,24042710
 
-[Cheats/In Battle Maintain Energy] 
+//Cheats/In Battle Maintain Energy
 patch=1,EE,2018E4B8,extended,0050C821
 patch=1,EE,2018E4BC,extended,9722004C
 patch=1,EE,20295248,extended,9721004E
 patch=1,EE,2029525C,extended,A721004C
 
-[Cheats/In Battle Maintain Concentration] 
+//Cheats/In Battle Maintain Concentration
 patch=1,EE,2018FCD0,extended,00510821
 patch=1,EE,2018FCD4,extended,902201A6
 patch=1,EE,2018FCDC,extended,A02201A5
 
-[Cheats/Max Happiness 999] 
+//Cheats/Max Happiness 999
 patch=1,EE,11EB33E6,extended,000003E7
 patch=1,EE,11EB33F8,extended,000003E7
 patch=1,EE,21EB33E8,extended,03E703E7
@@ -34,43 +34,43 @@ patch=1,EE,21EB33EC,extended,03E703E7
 patch=1,EE,21EB33F0,extended,03E703E7
 patch=1,EE,21EB33F4,extended,03E703E7
 
-[Cheats/Max Ki Concentration Miko] 
+//Cheats/Max Ki Concentration Miko
 patch=1,EE,01EB3AE1,extended,000000C8
 patch=1,EE,01EB3AE2,extended,000000C8
 
-[Cheats/Max Ki Concentration Kazehaya] 
+//Cheats/Max Ki Concentration Kazehaya
 patch=1,EE,01EB3B09,extended,000000C8
 patch=1,EE,01EB3B0A,extended,000000C8
 
-[Cheats/Max Ki Concentration Ashvin] 
+//Cheats/Max Ki Concentration Ashvin
 patch=1,EE,01EB3B31,extended,000000C8
 patch=1,EE,01EB3B32,extended,000000C8
 
-[Cheats/Max Ki Concentration Sazaki] 
+//Cheats/Max Ki Concentration Sazaki
 patch=1,EE,01EB3B59,extended,000000C8
 patch=1,EE,01EB3B5A,extended,000000C8
 
-[Cheats/Max Ki Concentration Nagi] 
+//Cheats/Max Ki Concentration Nagi
 patch=1,EE,01EB3B81,extended,000000C8
 patch=1,EE,01EB3B82,extended,000000C8
 
-[Cheats/Max Ki Concentration Nunotohiko] 
+//Cheats/Max Ki Concentration Nunotohiko
 patch=1,EE,01EB3BA9,extended,000000C8
 patch=1,EE,01EB3BAA,extended,000000C8
 
-[Cheats/Max Ki Concentration Hiiragi] 
+//Cheats/Max Ki Concentration Hiiragi
 patch=1,EE,01EB3BD1,extended,000000C8
 patch=1,EE,01EB3BD2,extended,000000C8
 
-[Cheats/Max Ki Concentration Far night] 
+//Cheats/Max Ki Concentration Far night
 patch=1,EE,01EB3BF9,extended,000000C8
 patch=1,EE,01EB3BFA,extended,000000C8
 
-[Cheats/Max Ki Concentration Katsuragi Ninja] 
+//Cheats/Max Ki Concentration Katsuragi Ninja
 patch=1,EE,01EB3C21,extended,000000C8
 patch=1,EE,01EB3C22,extended,000000C8
 
-[Cheats/Special Skills can be Learned Miko] 
+//Cheats/Special Skills can be Learned Miko
 patch=1,EE,01EB3AC1,extended,00000005
 patch=1,EE,11EB3AC2,extended,00000505
 patch=1,EE,21EB3AC4,extended,05050505
@@ -78,7 +78,7 @@ patch=1,EE,21EB3AC8,extended,05050505
 patch=1,EE,21EB3ACC,extended,05050505
 patch=1,EE,01EB3AD0,extended,00000005
 
-[Cheats/Special Skills can be Learned Kazehaya] 
+//Cheats/Special Skills can be Learned Kazehaya
 patch=1,EE,01EB3AE9,extended,00000005
 patch=1,EE,11EB3AEA,extended,00000505
 patch=1,EE,21EB3AEC,extended,05050505
@@ -86,7 +86,7 @@ patch=1,EE,21EB3AF0,extended,05050505
 patch=1,EE,21EB3AF4,extended,05050505
 patch=1,EE,01EB3AF8,extended,00000005
 
-[Cheats/Special Skills can be Learned Ashvin] 
+//Cheats/Special Skills can be Learned Ashvin
 patch=1,EE,01EB3B11,extended,00000005
 patch=1,EE,11EB3B12,extended,00000505
 patch=1,EE,21EB3B14,extended,05050505
@@ -94,7 +94,7 @@ patch=1,EE,21EB3B18,extended,05050505
 patch=1,EE,21EB3B1C,extended,05050505
 patch=1,EE,01EB3B20,extended,00000005
 
-[Cheats/Special Skills can be Learned Sazaki] 
+//Cheats/Special Skills can be Learned Sazaki
 patch=1,EE,01EB3B39,extended,00000005
 patch=1,EE,11EB3B3A,extended,00000505
 patch=1,EE,21EB3B3C,extended,05050505
@@ -102,7 +102,7 @@ patch=1,EE,21EB3B40,extended,05050505
 patch=1,EE,21EB3B44,extended,05050505
 patch=1,EE,01EB3B48,extended,00000005
 
-[Cheats/Special Skills can be Learned Nagi] 
+//Cheats/Special Skills can be Learned Nagi
 patch=1,EE,01EB3B61,extended,00000005
 patch=1,EE,11EB3B62,extended,00000505
 patch=1,EE,21EB3B64,extended,05050505
@@ -110,7 +110,7 @@ patch=1,EE,21EB3B68,extended,05050505
 patch=1,EE,21EB3B6C,extended,05050505
 patch=1,EE,01EB3B70,extended,00000005
 
-[Cheats/Special Skills can be Learned Nunotohiko] 
+//Cheats/Special Skills can be Learned Nunotohiko
 patch=1,EE,01EB3B89,extended,00000005
 patch=1,EE,11EB3B8A,extended,00000505
 patch=1,EE,21EB3B8C,extended,05050505
@@ -118,7 +118,7 @@ patch=1,EE,21EB3B90,extended,05050505
 patch=1,EE,21EB3B94,extended,05050505
 patch=1,EE,01EB3B98,extended,00000005
 
-[Cheats/Special Skills can be Learned Hiiragi] 
+//Cheats/Special Skills can be Learned Hiiragi
 patch=1,EE,01EB3BB1,extended,00000005
 patch=1,EE,11EB3BB2,extended,00000505
 patch=1,EE,21EB3BB4,extended,05050505
@@ -126,7 +126,7 @@ patch=1,EE,21EB3BB8,extended,05050505
 patch=1,EE,21EB3BBC,extended,05050505
 patch=1,EE,01EB3BC0,extended,00000005
 
-[Cheats/Special Skills can be Learned Far night] 
+//Cheats/Special Skills can be Learned Far night
 patch=1,EE,01EB3BD9,extended,00000005
 patch=1,EE,11EB3BDA,extended,00000505
 patch=1,EE,21EB3BDC,extended,05050505
@@ -134,7 +134,7 @@ patch=1,EE,21EB3BE0,extended,05050505
 patch=1,EE,21EB3BE4,extended,05050505
 patch=1,EE,01EB3BE8,extended,00000005
 
-[Cheats/Special Skills can be Learned Katsuragi Ninja] 
+//Cheats/Special Skills can be Learned Katsuragi Ninja
 patch=1,EE,01EB3C01,extended,00000005
 patch=1,EE,11EB3C02,extended,00000505
 patch=1,EE,21EB3C04,extended,05050505
@@ -142,13 +142,13 @@ patch=1,EE,21EB3C08,extended,05050505
 patch=1,EE,21EB3C0C,extended,05050505
 patch=1,EE,01EB3C10,extended,00000005
 
-[Cheats/Unlock Function All Chapters Can Be Selected] 
+//Cheats/Unlock Function All Chapters Can Be Selected
 patch=1,EE,01EB36D4,extended,00000007
 patch=1,EE,11EB36B6,extended,00000707
 patch=1,EE,41EB36B8,extended,00070001
 patch=1,EE,07070707,extended,00000000
 
-[Cheats/Unlock All Extra]  
+//Cheats/Unlock All Extra
 patch=1,EE,21EB0A00,extended,FFFFFFFF
 patch=1,EE,21EB0A04,extended,FFFFFFFF
 patch=1,EE,01EB2F10,extended,000000FF

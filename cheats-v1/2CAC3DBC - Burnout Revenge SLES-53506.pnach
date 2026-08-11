@@ -1,40 +1,40 @@
-[Cheats/Infinite Boost] 
+//Cheats/Infinite Boost
 patch=1,EE,202A3AA0,extended,00000000
 
-[Cheats/Elite Rank] 
+//Cheats/Elite Rank
 patch=1,EE,21F65188,extended,000003E8
 patch=1,EE,21F6518C,extended,0000000B
 
-[Cheats/Timer Reset Press L3]
+//Cheats/Timer Reset Press L3
 patch=1,EE,D04F369C,extended,0000FFFD
 patch=1,EE,21D618BC,extended,00000000
 
-[Cheats/5 Stars All Events] 
+//Cheats/5 Stars All Events
 patch=1,EE,41F65458,extended,002B0001
 patch=1,EE,04040404,extended,00000000
 
-[Cheats/All Cars] 
+//Cheats/All Cars
 patch=1,EE,41F65588,extended,00200001
 patch=1,EE,03030303,extended,00000000
 
-[Cheats/Dominator Rank] 
+//Cheats/Dominator Rank
 patch=1,EE,21F65188,extended,000003E7
 patch=1,EE,21F6518C,extended,0000000A
 
-[Cheats/All Rank 1 Races Unlocked] 
+//Cheats/All Rank 1 Races Unlocked
 patch=1,EE,21F6519C,extended,0000000F
 patch=1,EE,21F651DC,extended,0000000
 
-[Cheats/Always 1st Place in Race Mode] 
+//Cheats/Always 1st Place in Race Mode
 patch=1,EE,202D3198,extended,24110001
 
-[Cheats/Infinite max Boost & max Boost Meter] 
+//Cheats/Infinite max Boost & max Boost Meter
 patch=1,EE,21EDA758,extended,00000003
 patch=1,EE,21EDA75C,extended,44340000
 patch=1,EE,21EDA760,extended,44340000
 patch=1,EE,21EDA76C,extended,00000000
 
-[Cheats/Going Against Walls Doesn't Cause Loss Of Speed] 
+//Cheats/Going Against Walls Doesn't Cause Loss Of Speed
 patch=1,EE,202080FC,extended,00000000
 patch=1,EE,20208108,extended,00000000
 patch=1,EE,20208130,extended,00000000
@@ -42,17 +42,17 @@ patch=1,EE,2020814C,extended,00000000
 patch=1,EE,202081A4,extended,00000000
 patch=1,EE,202081B0,extended,00000000
 
-[Cheats/Gold Medal All Events] 
+//Cheats/Gold Medal All Events
 patch=1,EE,41F65348,extended,002B0001
 patch=1,EE,03030303,extended,00000000
 
-[Cheats/Unlock All Events] 
+//Cheats/Unlock All Events
 patch=1,EE,200C2000,extended,2402000F
 patch=1,EE,200C2004,extended,03E00008
 patch=1,EE,200C2008,extended,AC820010
 patch=1,EE,20137D68,extended,08030800
 
-[Cheats/Unlock all 10 Mission Signs and unlock all Events] 
+//Cheats/Unlock all 10 Mission Signs and unlock all Events
 patch=1,EE,21F6518C,extended,0000000B
 patch=1,EE,21F6519C,extended,00000005
 patch=1,EE,21F651A0,extended,00000006

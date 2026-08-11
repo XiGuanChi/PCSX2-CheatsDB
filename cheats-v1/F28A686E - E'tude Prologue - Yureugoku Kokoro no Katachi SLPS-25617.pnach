@@ -1,13 +1,13 @@
-[Cheats/Hero Strength 100] 
+//Cheats/Hero Strength 100
 patch=1,EE,102EF6C4,extended,00000064
 
-[Cheats/Hero Luck 100] 
+//Cheats/Hero Luck 100
 patch=1,EE,102EF6D4,extended,00000064
 
-[Cheats/Unlock All CG]  
+//Cheats/Unlock All CG
 patch=1,EE,402710AC,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/New Game = Debug Menu] 
+//Cheats/New Game = Debug Menu
 patch=1,EE,202196E8,extended,55424544
 patch=1,EE,002196EC,extended,00000047

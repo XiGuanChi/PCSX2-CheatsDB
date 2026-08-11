@@ -1,20 +1,20 @@
-[Cheats/Infinite Holy Water] 
+//Cheats/Infinite Holy Water
 patch=1,EE,21943B08,extended,00000008
 
-[Cheats/Stop Time]  
+//Cheats/Stop Time
 patch=1,EE,218F2A10,extended,03E00008
 patch=1,EE,218F2A14,extended,00000000
 
-[Cheats/Always Empty Panic Meter] 
+//Cheats/Always Empty Panic Meter
 patch=1,EE,219436F4,extended,00000000
 
-[Cheats/Infinite Health Boss Battle] 
+//Cheats/Infinite Health Boss Battle
 patch=1,EE,21A57C24,extended,00000320
 
-[Cheats/Instant Boss Death Boss Battles] 
+//Cheats/Instant Boss Death Boss Battles
 patch=1,EE,2187075C,extended,24020001
 
-[Cheats/Unlock All Theater SNeed a save Reload the Game] 
+//Cheats/Unlock All Theater SNeed a save Reload the Game
 patch=1,EE,D1942270,extended,00000000
 patch=1,EE,21942270,extended,00000001
 patch=1,EE,D1942270,extended,00000002

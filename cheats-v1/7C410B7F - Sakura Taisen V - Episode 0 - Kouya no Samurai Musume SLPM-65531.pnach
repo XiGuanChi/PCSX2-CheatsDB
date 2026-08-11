@@ -1,25 +1,25 @@
-[Cheats/Infinite Max Health]  
+//Cheats/Infinite Max Health
 patch=1,EE,1064159A,extended,000003E7
 patch=1,EE,1064159C,extended,000003E7
 
-[Cheats/Infinite Special Attack] 
+//Cheats/Infinite Special Attack
 patch=1,EE,106415EC,extended,0000012C
 
-[Cheats/Max Crush] 
+//Cheats/Max Crush
 patch=1,EE,102CDE26,extended,000003E7
 patch=1,EE,102CDE28,extended,000003E7
 
-[Cheats/Infinite SP] 
+//Cheats/Infinite SP
 patch=1,EE,201FBBC8,extended,00000000
 
-[Cheats/Invincible The fall is not supported death] 
+//Cheats/Invincible The fall is not supported death
 patch=1,EE,2014FF34,extended,54000004
 patch=1,EE,2015CFA0,extended,54000004
 
-[Cheats/Player strength LV.10] 
+//Cheats/Player strength LV.10
 patch=1,EE,002C5C22,extended,0000000A
 
-[Cheats/Player speed LV.10] 
+//Cheats/Player speed LV.10
 patch=1,EE,002C5C20,extended,0000000A
 
 [Cheats/Re-enable Extra Debug Features Pressing L2 + D-Pad Up will enable an unused map category in the level select portion of the debug menu DBST0
@@ -38,7 +38,7 @@ patch=1,EE,E002FEBF,extended,002EDA02
 patch=1,EE,202EBF9C,extended,0000000C
 patch=1,EE,202C1EDC,extended,002C1DF0
 
-[Cheats/Re-enable Unused Passwords] 
+//Cheats/Re-enable Unused Passwords
 patch=1,EE,202CA460,extended,00000000
 patch=1,EE,202CA464,extended,01000000
 patch=1,EE,202CA470,extended,00000000
@@ -48,5 +48,5 @@ patch=1,EE,202CA47C,extended,03000000
 patch=1,EE,202CA488,extended,00000000
 patch=1,EE,202CA48C,extended,04000000
 
-[Cheats/Enable Master Password Always] 
+//Cheats/Enable Master Password Always
 patch=1,EE,00C1C730,extended,00000001

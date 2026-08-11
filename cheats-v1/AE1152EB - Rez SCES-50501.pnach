@@ -1,48 +1,48 @@
-[Cheats/Max 0verdrive] 
+//Cheats/Max 0verdrive
 patch=1,EE,102F9680,extended,00000004
 
-[Cheats/Max Evolution Gauge] 
+//Cheats/Max Evolution Gauge
 patch=1,EE,D02F8DA0,extended,00000000
 patch=1,EE,102F967C,extended,00000006
 
-[Cheats/Press Select+L2 Life Form Level 0]
+//Cheats/Press Select+L2 Life Form Level 0
 patch=1,EE,D02F8DA0,extended,00000101
 patch=1,EE,102F9630,extended,00000000
 
-[Cheats/Press Select+R2 Life Form Level 1]
+//Cheats/Press Select+R2 Life Form Level 1
 patch=1,EE,D02F8DA0,extended,00000102
 patch=1,EE,102F9630,extended,00000001
 
-[Cheats/Press Select+L1 Life Form Level 2]
+//Cheats/Press Select+L1 Life Form Level 2
 patch=1,EE,D02F8DA0,extended,00000104
 patch=1,EE,102F9630,extended,00000002
 
-[Cheats/Press Select+R1 Life Form Level 3]
+//Cheats/Press Select+R1 Life Form Level 3
 patch=1,EE,D02F8DA0,extended,00000108
 patch=1,EE,102F9630,extended,00000003
 
-[Cheats/Press Select+Right Life Form Level 4] 
+//Cheats/Press Select+Right Life Form Level 4
 patch=1,EE,D02F8DA0,extended,00002100
 patch=1,EE,102F9630,extended,00000004
 
-[Cheats/Press Select+Up Life Form Level 5]
+//Cheats/Press Select+Up Life Form Level 5
 patch=1,EE,D02F8DA0,extended,00001100
 patch=1,EE,102F9630,extended,00000005
 
-[Cheats/Press Select+Left Life Form Ultimate Level]  
+//Cheats/Press Select+Left Life Form Ultimate Level
 patch=1,EE,D02F8DA0,extended,00008100
 patch=1,EE,102F9630,extended,00000006
 
-[Cheats/Press Select+Down Unknown Life Form] 
+//Cheats/Press Select+Down Unknown Life Form
 patch=1,EE,D02F8DA0,extended,00004100
 patch=1,EE,102F9630,extended,00000007
 
-[Cheats/Always Ultimate Life Form] 
+//Cheats/Always Ultimate Life Form
 patch=1,EE,102F9630,extended,00000006
 
-[Cheats/Always Unknown Life Form] 
+//Cheats/Always Unknown Life Form
 patch=1,EE,102F9630,extended,00000007
 
-[Cheats/Press L1+R1+L2+R2 At Level Select To Access Locked Levels] 
+//Cheats/Press L1+R1+L2+R2 At Level Select To Access Locked Levels
 patch=1,EE,D02F8DA0,extended,0000000F
 patch=1,EE,110A0710,extended,00000004

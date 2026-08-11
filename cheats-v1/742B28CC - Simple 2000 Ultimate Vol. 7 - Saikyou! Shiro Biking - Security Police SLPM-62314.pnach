@@ -1,14 +1,14 @@
-[Cheats/Infinite VIP HP] 
+//Cheats/Infinite VIP HP
 patch=1,EE,1018EF8C,extended,00000640
 
-[Cheats/Infinite Gun Rounds] 
+//Cheats/Infinite Gun Rounds
 patch=1,EE,1018EC08,extended,0000001E
 patch=1,EE,1018EC0A,extended,00000063
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,1018BC92,extended,000003E7
 
-[Cheats/Unlock All Stages Cleared] 
+//Cheats/Unlock All Stages Cleared
 patch=1,EE,2018BF74,extended,03030303
 patch=1,EE,2018BF78,extended,03030303
 patch=1,EE,2018BF7C,extended,03030303

@@ -1,33 +1,33 @@
-[Cheats/Infinite Line Tension] 
+//Cheats/Infinite Line Tension
 patch=1,EE,200C0220,extended,3C013F00
 patch=1,EE,200C0224,extended,AC810208
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,C4800208
 patch=1,EE,20403A40,extended,08030088
 
-[Cheats/Player 1 Press L1+Select To Restart Tournament Timer] 
+//Cheats/Player 1 Press L1+Select To Restart Tournament Timer
 patch=1,EE,D05C18C2,extended,0000FBFE
 patch=1,EE,204526CC,extended,00000000
 
-[Cheats/Player 1 Press L2+Select To Restart Tournament Timer] 
+//Cheats/Player 1 Press L2+Select To Restart Tournament Timer
 patch=1,EE,D05C18C2,extended,0000FEFE
 patch=1,EE,204526CC,extended,E480007C
 
-[Cheats/Unlock All Lines View Lines To Unlock Them] 
+//Cheats/Unlock All Lines View Lines To Unlock Them
 patch=1,EE,2045EE94,extended,A040010D
 patch=1,EE,1045EE9A,extended,00001000
 patch=1,EE,1045EEBC,extended,00000000
 
-[Cheats/Unlock All Lures View Lures To Unlock Them] 
+//Cheats/Unlock All Lures View Lures To Unlock Them
 patch=1,EE,2045FCB4,extended,A040021D
 patch=1,EE,1045FCBA,extended,00001000
 patch=1,EE,1045FCDC,extended,00000000
 
-[Cheats/Unlock All Fishing Rods View Fishing Rods To Unlock Them] 
+//Cheats/Unlock All Fishing Rods View Fishing Rods To Unlock Them
 patch=1,EE,204610E4,extended,A040009D
 patch=1,EE,104610EA,extended,10000000
 patch=1,EE,1046110C,extended,00000000
 
-[Cheats/Unlock All Locations] 
+//Cheats/Unlock All Locations
 patch=1,EE,405CFC1C,extended,0015000D
 patch=1,EE,00000000,extended,00000000

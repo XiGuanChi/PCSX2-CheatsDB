@@ -1,32 +1,32 @@
-[Cheats/Win 1st Set Press R2+L2] 
+//Cheats/Win 1st Set Press R2+L2
 patch=1,EE,D14E9542,extended,0000FCFF
 patch=1,EE,01982DE0,extended,00000019
 
-[Cheats/Win 2nd Set Press R2+L1] 
+//Cheats/Win 2nd Set Press R2+L1
 patch=1,EE,D14E9542,extended,0000F9FF
 patch=1,EE,01982DE6,extended,00000019
 
-[Cheats/Win 3rd Set Press R2+up] 
+//Cheats/Win 3rd Set Press R2+up
 patch=1,EE,D14E9542,extended,0000FDEF
 patch=1,EE,01982DE2,extended,00000019
 
-[Cheats/Win 4th Set Press R2+Left] 
+//Cheats/Win 4th Set Press R2+Left
 patch=1,EE,D14E9542,extended,0000FD7F
 patch=1,EE,01982DE8,extended,00000019
 
-[Cheats/Win 5th Set Press R2+down] 
+//Cheats/Win 5th Set Press R2+down
 patch=1,EE,D14E9542,extended,0000FDBF
 patch=1,EE,01982DE4,extended,00000019
 
-[Cheats/Win Game in Special Mode Press R2+right] 
+//Cheats/Win Game in Special Mode Press R2+right
 patch=1,EE,D14E9542,extended,0000FDDF
 patch=1,EE,01982DE0,extended,00000005
 
-[Cheats/Max Score in Minigames] 
+//Cheats/Max Score in Minigames
 patch=1,EE,01982F4B,extended,00000064
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,21677C88,extended,00000004
 
-[Cheats/Master of Special Mode] 
+//Cheats/Master of Special Mode
 patch=1,EE,21677CBC,extended,00000064

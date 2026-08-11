@@ -1,19 +1,19 @@
-[Cheats/Infinite Skill Points] 
+//Cheats/Infinite Skill Points
 patch=1,EE,10B5EA7A,extended,00003C3C
 
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,202AB160,extended,43000000
 patch=1,EE,202AB164,extended,43000000
 
-[Cheats/P1 Max Punch Power] 
+//Cheats/P1 Max Punch Power
 patch=1,EE,202AB150,extended,44000000
 
-[Cheats/P1 Max Kick Power]  
+//Cheats/P1 Max Kick Power
 patch=1,EE,202AB154,extended,44000000
 
-[Cheats/P1 Max Mount Attack Power] 
+//Cheats/P1 Max Mount Attack Power
 patch=1,EE,202AB158,extended,44000000
 
-[Cheats/P2 Health 0] 
+//Cheats/P2 Health 0
 patch=1,EE,202ACC60,extended,00000000
 patch=1,EE,202ACC64,extended,00000000

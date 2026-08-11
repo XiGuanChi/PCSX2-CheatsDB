@@ -1,6 +1,6 @@
-[Cheats/Infinite HP In Battle Guisard Red]  
+//Cheats/Infinite HP In Battle Guisard Red
 patch=1,EE,21AD5C20,extended,00000190
 
-[Cheats/No Enemy HP 0 Press SELECT+START] 
+//Cheats/No Enemy HP 0 Press SELECT+START
 patch=1,EE,D1B13F02,extended,0000FFF6
 patch=1,EE,11AD5C60,extended,00000001

@@ -1,36 +1,36 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,202360D0,extended,03E00008
 patch=1,EE,202360D4,extended,00000000
 
-[Cheats/Infinite Points Use] 
+//Cheats/Infinite Points Use
 patch=1,EE,202C930C,extended,00000000
 
-[Cheats/1 Hit Kill] 
+//Cheats/1 Hit Kill
 patch=1,EE,201AC63C,extended,00000000
 
-[Cheats/Freeze Timers] 
+//Cheats/Freeze Timers
 patch=1,EE,20370AE0,extended,03E00008
 patch=1,EE,20370AE4,extended,00000000
 
-[Cheats/Unlock All Cinematics]  
+//Cheats/Unlock All Cinematics
 patch=1,EE,202C885C,extended,24020001
 
-[Cheats/Unlock All Concepts Arts] 
+//Cheats/Unlock All Concepts Arts
 patch=1,EE,202C88BC,extended,24020001
 
-[Cheats/Unlock All Toys] 
+//Cheats/Unlock All Toys
 patch=1,EE,202C891C,extended,24020001
 
-[Cheats/Unlock All Villain Exhibit] 
+//Cheats/Unlock All Villain Exhibit
 patch=1,EE,202C897C,extended,24020001
 
-[Cheats/Unlock All Hero Exhibit] 
+//Cheats/Unlock All Hero Exhibit
 patch=1,EE,202C89DC,extended,24020001
 
-[Cheats/Unlock All Comics] 
+//Cheats/Unlock All Comics
 patch=1,EE,202C8CD0,extended,24020001
 patch=1,EE,202C8D00,extended,24020001
 
-[Cheats/Unlock All Gadgets] 
+//Cheats/Unlock All Gadgets
 patch=1,EE,202C9100,extended,24020001
 patch=1,EE,202C910C,extended,24020001

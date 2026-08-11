@@ -1,7 +1,7 @@
-[Cheats/Max Balls]  
+//Cheats/Max Balls
 patch=1,EE,20144080,extended,00000000
 
-[Cheats/Hold START at Press Start Screen for Debug Menu All of the options here send you to menu screens and game modes] 
+//Cheats/Hold START at Press Start Screen for Debug Menu All of the options here send you to menu screens and game modes
 patch=1,EE,D0702C02,extended,0000FFF7
 patch=1,EE,00116B08,extended,0000000C
 patch=1,EE,D0702C02,extended,0000FFFF

@@ -1,4 +1,4 @@
-[Cheats/No Damage] 
+//Cheats/No Damage
 patch=1,EE,20257DE0,extended,08028000
 patch=1,EE,20257DE4,extended,3C01006E
 patch=1,EE,200A0000,extended,34216C68
@@ -8,8 +8,8 @@ patch=1,EE,200A0010,extended,3C02FF00
 patch=1,EE,200A0014,extended,08095F7A
 patch=1,EE,200A001C,extended,03E00008
 
-[Cheats/Infinite Ammo]  
+//Cheats/Infinite Ammo
 patch=1,EE,2029C2C0,extended,00000000
  
-[Cheats/1 Hit Kill use with No Damage]
+//Cheats/1 Hit Kill use with No Damage
 patch=1,EE,202581B0,extended,10000040

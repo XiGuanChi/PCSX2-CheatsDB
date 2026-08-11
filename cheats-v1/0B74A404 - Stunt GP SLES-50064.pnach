@@ -1,29 +1,29 @@
-[Cheats/Championship - Max Cash] 
+//Cheats/Championship - Max Cash
 patch=1,EE,1055A870,extended,0000FFFF
 patch=1,EE,1055A872,extended,0000000A
 
-[Cheats/No Slow Down On Low Battery] 
+//Cheats/No Slow Down On Low Battery
 patch=1,EE,2020C218,extended,03E00008
 patch=1,EE,2020C21C,extended,00000000
 
-[Cheats/Low Fuel Consumption] 
+//Cheats/Low Fuel Consumption
 patch=1,EE,2020D4FC,extended,03E00008
 patch=1,EE,2020D500,extended,00000000
 
-[Cheats/Ultra Stunt Stat] 
+//Cheats/Ultra Stunt Stat
 patch=1,EE,105BB114,extended,00000070
 
-[Cheats/Ultra Grip Stat] 
+//Cheats/Ultra Grip Stat
 patch=1,EE,105BB118,extended,00000070
 
-[Cheats/Ultra Power Stat] 
+//Cheats/Ultra Power Stat
 patch=1,EE,105BB11C,extended,00000070
 
-[Cheats/Stupid Opponents] 
+//Cheats/Stupid Opponents
 patch=1,EE,20202CA0,extended,03E00008
 patch=1,EE,20202CA4,extended,00000000
 
-[Cheats/Unlock All Cars] 
+//Cheats/Unlock All Cars
 patch=1,EE,20540B88,extended,FFFFFFFF
 patch=1,EE,20540B8C,extended,FFFFFFFF
 patch=1,EE,20540B90,extended,FFFFFFFF

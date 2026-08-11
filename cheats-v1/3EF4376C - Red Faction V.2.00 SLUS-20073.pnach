@@ -1,57 +1,57 @@
-[Cheats/Infinite Health]  
+//Cheats/Infinite Health
 patch=1,EE,200C0220,extended,3C0142C8
 patch=1,EE,200C0224,extended,44810000
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,E6000034
 patch=1,EE,20169B9C,extended,0C030088
 
-[Cheats/Infinite Envirosuit Protection]  
+//Cheats/Infinite Envirosuit Protection
 patch=1,EE,200C0230,extended,3C0142C8
 patch=1,EE,200C0234,extended,44811000
 patch=1,EE,200C0238,extended,03E00008
 patch=1,EE,200C023C,extended,E6020038
 patch=1,EE,20169C00,extended,0C03008C
 
-[Cheats/Start With Infinite Ammo All Guns]  
+//Cheats/Start With Infinite Ammo All Guns
 patch=1,EE,2016A9A0,extended,24030064
 patch=1,EE,2016A9A4,extended,AC4302BC
 
-[Cheats/Start With Infinite Ammo Flamethrower & Control Baton] 
+//Cheats/Start With Infinite Ammo Flamethrower & Control Baton
 patch=1,EE,2016AF18,extended,24030064
 patch=1,EE,2016AF1C,extended,AC4302BC
 
-[Cheats/Start With Infinite Grenades]  
+//Cheats/Start With Infinite Grenades
 patch=1,EE,2016B580,extended,24100064
 patch=1,EE,2016B590,extended,AC50027C
 patch=1,EE,2016B7CC,extended,2410000B
 
-[Cheats/Max Infinite Ammo And No Reload All Guns] 
+//Cheats/Max Infinite Ammo And No Reload All Guns
 patch=1,EE,201549A4,extended,240303E7
 patch=1,EE,201549E0,extended,240303E7
 
-[Cheats/Max Infinite Grenades]  
+//Cheats/Max Infinite Grenades
 patch=1,EE,201A205C,extended,240203E7
 
-[Cheats/Invulnerable]  
+//Cheats/Invulnerable
 patch=1,EE,201A50C8,extended,8E03007C
 patch=1,EE,201A50E8,extended,34630004
 
-[Cheats/Infinite Grenades]  
+//Cheats/Infinite Grenades
 patch=1,EE,201A2064,extended,00000000
 
-[Cheats/Extra Grenades]  
+//Cheats/Extra Grenades
 patch=1,EE,201A205C,extended,00000001
 
-[Cheats/Infinite Ammo All Guns] 
+//Cheats/Infinite Ammo All Guns
 patch=1,EE,201549A8,extended,00000000
 patch=1,EE,201549E4,extended,00000000
 
-[Cheats/Extra Ammo All Guns]  
+//Cheats/Extra Ammo All Guns
 patch=1,EE,101549A4,extended,00000001
 patch=1,EE,101549E0,extended,00000001
 
-[Cheats/Have All Items And Weapons]  
+//Cheats/Have All Items And Weapons
 patch=1,EE,20132A38,extended,24020001
 
-[Cheats/Unlock All Hidden Characters]  
+//Cheats/Unlock All Hidden Characters
 patch=1,EE,202ACC78,extended,00000001

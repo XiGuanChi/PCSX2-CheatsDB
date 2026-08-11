@@ -1,14 +1,14 @@
-[Cheats/Infinite Fuel] 
+//Cheats/Infinite Fuel
 patch=1,EE,202F88F8,extended,00000000
 patch=1,EE,202F88FC,extended,00000000
 
-[Cheats/Freeze Timer Press R3 Activate L3 Stop] 
+//Cheats/Freeze Timer Press R3 Activate L3 Stop
 patch=1,EE,D05986F4,extended,0000FFFD
 patch=1,EE,102FBE16,extended,00002442
 patch=1,EE,D05986F4,extended,0000FFFB
 patch=1,EE,102FBE16,extended,00002A00
 
-[Cheats/Unlock All Bikes In Garage]  
+//Cheats/Unlock All Bikes In Garage
 patch=1,EE,200C0260,extended,27BDFFE0
 patch=1,EE,200C0264,extended,FFBF0000
 patch=1,EE,200C0268,extended,FFB00008
@@ -33,11 +33,11 @@ patch=1,EE,200C02B0,extended,08053F4E
 patch=1,EE,200C02B4,extended,27BD0020
 patch=1,EE,2014FD30,extended,0C030098
 
-[Cheats/Unlock All Gold Expert Licenses] 
+//Cheats/Unlock All Gold Expert Licenses
 patch=1,EE,40832A28,extended,000A0001
 patch=1,EE,0000FB91,extended,00000000
 
-[Cheats/Unlock All Gold Junior Licenses] 
+//Cheats/Unlock All Gold Junior Licenses
 patch=1,EE,40832A01,extended,000A0001
 patch=1,EE,0000FB91,extended,00000000
 
@@ -45,7 +45,7 @@ patch=1,EE,0000FB91,extended,00000000
 patch=1,EE,408329D8,extended,000A0001
 patch=1,EE,0000FB91,extended,00000000
 
-[Cheats/Unlock All Gold Super Licenses] 
+//Cheats/Unlock All Gold Super Licenses
 patch=1,EE,40832A51,extended,000A0001
 patch=1,EE,0000FB91,extended,00000000
 

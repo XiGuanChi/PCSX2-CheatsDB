@@ -1,9 +1,9 @@
-[Cheats/Training Edition Training Score 100 points] 
+//Cheats/Training Edition Training Score 100 points
 patch=1,EE,2038CA08,extended,000F423F
 
-[Cheats/Training Ends Press X] 
+//Cheats/Training Ends Press X
 patch=1,EE,00219804,extended,00000001
 patch=1,EE,00219850,extended,00000001
 
-[Cheats/Occupation Edition Possession Money Max]
+//Cheats/Occupation Edition Possession Money Max
 patch=1,EE,209455DC,extended,3B9AC9FF

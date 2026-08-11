@@ -1,29 +1,29 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,208104D0,extended,42C80000
 patch=1,EE,20810858,extended,42C80000
 
-[Cheats/Never Infected] 
+//Cheats/Never Infected
 patch=1,EE,108104DA,extended,00000000
 patch=1,EE,1081085E,extended,00000000
 
-[Cheats/infinite Ammo Shotgun] 
+//Cheats/infinite Ammo Shotgun
 patch=1,EE,10810CA8,extended,0000270F
 
-[Cheats/infinite Ammo Grenade Launcher] 
+//Cheats/infinite Ammo Grenade Launcher
 patch=1,EE,10810CAA,extended,0000270F
 
-[Cheats/infinite Ammo Flame Thrower] 
+//Cheats/infinite Ammo Flame Thrower
 patch=1,EE,20810CAC,extended,00630063
 
-[Cheats/Infinite Ammo Machine Gun] 
+//Cheats/Infinite Ammo Machine Gun
 patch=1,EE,10810CB4,extended,0000270F
 
-[Cheats/Infinite Rockets] 
+//Cheats/Infinite Rockets
 patch=1,EE,10810CB0,extended,0000270F
 
-[Cheats/Infinite Battery] 
+//Cheats/Infinite Battery
 patch=1,EE,00810CB2,extended,00000030
 patch=1,EE,00810CB7,extended,00000030
 
-[Cheats/Always Low Time] 
+//Cheats/Always Low Time
 patch=1,EE,20810750,extended,00000000

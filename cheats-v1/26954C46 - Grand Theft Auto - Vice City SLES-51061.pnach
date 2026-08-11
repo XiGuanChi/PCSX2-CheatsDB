@@ -1,14 +1,14 @@
-[Cheats/Infinite Money 99999999] 
+//Cheats/Infinite Money 99999999
 patch=1,EE,205D265C,extended,05F5E0FF
 
-[Cheats/Max Money] 
+//Cheats/Max Money
 patch=1,EE,205D265C,extended,05F5E0FF
 patch=1,EE,205D2660,extended,05F5E0FF
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20B5ADA8,extended,42C80000
 
-[Cheats/Infinite Health & Armour] 
+//Cheats/Infinite Health & Armour
 patch=1,EE,200FFE00,extended,3C054348
 patch=1,EE,200FFE00,extended,AC45036C
 patch=1,EE,200FFE00,extended,AC450368
@@ -16,30 +16,30 @@ patch=1,EE,200FFE00,extended,03E00008
 patch=1,EE,202DAEA4,extended,0C03FF80
 patch=1,EE,202DAEA8,extended,00000000
 
-[Cheats/Infinite Ammo All Weapons] 
+//Cheats/Infinite Ammo All Weapons
 patch=1,EE,20158D8C,extended,00000000
 patch=1,EE,20158DF4,extended,00000000
 
-[Cheats/Infinite Ammo All Weapons Inside Car]
+//Cheats/Infinite Ammo All Weapons Inside Car
 patch=1,EE,20158620,extended,00000000
 patch=1,EE,20158684,extended,00000000
 
-[Cheats/Infinite Mission Time] 
+//Cheats/Infinite Mission Time
 patch=1,EE,20275F98,extended,00000000
 
-[Cheats/Never Exhausted Always Sprint] 
+//Cheats/Never Exhausted Always Sprint
 patch=1,EE,20B5B05C,extended,4479C000
 
-[Cheats/Never Lose Weapons] 
+//Cheats/Never Lose Weapons
 patch=1,EE,201B4480,extended,080B4DF9
 
-[Cheats/Never Wanted] 
+//Cheats/Never Wanted
 patch=1,EE,202A594C,extended,8C060000
 
-[Cheats/No Vehicle Damage] 
+//Cheats/No Vehicle Damage
 patch=1,EE,20168E5C,extended,0805A398
 
-[Cheats/One Hit Kills]  
+//Cheats/One Hit Kills
 patch=1,EE,200FFE34,extended,20A5AA40
 patch=1,EE,200FFE38,extended,10B40003
 patch=1,EE,200FFE40,extended,AE800368

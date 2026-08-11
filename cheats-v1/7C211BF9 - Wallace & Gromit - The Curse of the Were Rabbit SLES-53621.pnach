@@ -1,24 +1,24 @@
-[Cheats/Collect 1 Coin To Collect All Use this code in challenges where you must collect things in a time limit.] 
+//Cheats/Collect 1 Coin To Collect All Use this code in challenges where you must collect things in a time limit.
 patch=1,EE,201DE9B8,extended,96020244
 
-[Cheats/Food Never Goes Down Use this code to prevent rabbits from eating vegetables.] 
+//Cheats/Food Never Goes Down Use this code to prevent rabbits from eating vegetables.
 patch=1,EE,20395904,extended,10000005
 
-[Cheats/Unlock Ubber Vortex Gun] 
+//Cheats/Unlock Ubber Vortex Gun
 patch=1,EE,20556A08,extended,444CCCCC
 patch=1,EE,20556A0C,extended,4F4CCCCC
 
-[Cheats/Extra Time] 
+//Cheats/Extra Time
 patch=1,EE,20301CAC,extended,3C024600
 patch=1,EE,20301CD0,extended,AE020058
 
-[Cheats/Infinite Double Jumps Press Select+L1 to activate, Select+L2 to stop.] 
+//Cheats/Infinite Double Jumps Press Select+L1 to activate, Select+L2 to stop.
 patch=1,EE,D0872EAA,extended,0000FBFE
 patch=1,EE,2015A940,extended,00000000
 patch=1,EE,D0872EAA,extended,0000FEFE
 patch=1,EE,2015A940,extended,AE6002B8
 
-[Cheats/Freeze Timer] 
+//Cheats/Freeze Timer
 patch=1,EE,200FFF00,extended,3C014400
 patch=1,EE,200FFF04,extended,AE010058
 patch=1,EE,200FFF08,extended,AE01005C

@@ -1,7 +1,7 @@
-[Cheats/Max VP 999999 It will become 999999 if you enter the strike pitch or home run competition] 
+//Cheats/Max VP 999999 It will become 999999 if you enter the strike pitch or home run competition
 patch=1,EE,20203064,extended,00000000
 
-[Cheats/Strike Judgment Control Press SELECT+L2 Always Strike Press SELECT+R2 Ensure Ball Not valid for fouls or dead balls]  
+//Cheats/Strike Judgment Control Press SELECT+L2 Always Strike Press SELECT+R2 Ensure Ball Not valid for fouls or dead balls
 patch=1,EE,D1875D82,extended,0000FEFE
 patch=1,EE,201D1FE0,extended,10000003
 patch=1,EE,D1875D82,extended,0000FEFE
@@ -11,7 +11,7 @@ patch=1,EE,201D1FE0,extended,8C830004
 patch=1,EE,D1875D82,extended,0000FDFE 
 patch=1,EE,201D1FF0,extended,1000FFFB
 
-[Cheats/Stardom Mode Evaluation On Main Screen 999999 After checking the effect, save once and play the game with the code OFF ] 
+//Cheats/Stardom Mode Evaluation On Main Screen 999999 After checking the effect, save once and play the game with the code OFF
 patch=1,EE,D1F8652C,extended,0000423F
 patch=1,EE,21F8650C,extended,00000000
 patch=1,EE,D1F8652C,extended,0000423F
@@ -19,13 +19,13 @@ patch=1,EE,21F86518,extended,3423423F
 patch=1,EE,D1F8652C,extended,00004 23F
 patch=1,EE,21F86520,extended,AC432174
 
-[Cheats/Stardom Mode Looks Great On Main Screen] 
+//Cheats/Stardom Mode Looks Great On Main Screen
 patch=1,EE,D1EC9A94,extended,000022CC
 patch=1,EE,21EC9A90,extended,24010064
 patch=1,EE,D1EC9A94,extended,000022CC
 patch=1,EE,21EC9A98,extended,A061217C
 
-[Cheats/Spirits Mode Max Points When Ability Distribution Points Increase Points will decrease when assigning abilities] 
+//Cheats/Spirits Mode Max Points When Ability Distribution Points Increase Points will decrease when assigning abilities
 patch=1,EE,202FAA4C,extended,2403270F
 patch=1,EE,202FAA5C,extended,2403270F
 patch=1,EE,202FAA6C,extended,2403270F
@@ -37,14 +37,14 @@ patch=1,EE,202FAABC,extended,2403270F
 patch=1,EE,202FAACC,extended,2403270F
 patch=1,EE,202FAAE0,extended,080BEA90
 
-[Cheats/Spirits Mode Ability Distribution Is Possible Without Points] 
+//Cheats/Spirits Mode Ability Distribution Is Possible Without Points
 patch=1,EE,D1F054B8,extended,00000038
 patch=1,EE,21F054BC,extended,00000000
 patch=1,EE,D1F054B8,extended,00000038 
 patch=1,EE,21F054C8,extended,24020001
 
-[Cheats/Spirits Mode Stamina Upper Limit Is 255 When Ability Is Increased] 
+//Cheats/Spirits Mode Stamina Upper Limit Is 255 When Ability Is Increased
 patch=1,EE,203120A4,extended,286300FF
 
-[Cheats/Spirits Mode Ball Speed Upper Limit Is 255 When Ability Is Increased] 
+//Cheats/Spirits Mode Ball Speed Upper Limit Is 255 When Ability Is Increased
 patch=1,EE,20313E24,extended,2 86300FF

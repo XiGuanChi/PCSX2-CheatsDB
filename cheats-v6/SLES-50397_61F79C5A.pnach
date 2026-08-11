@@ -1,6 +1,6 @@
 gametitle=Prisoner of War PAL-M SLES-50397 61F79C5A
 
-[480p Mode]
+//480p Mode
 author=GamingDragon93
 description=SDTV 480p mode at start.
 patch=1,EE,003e58d0,word,34050050 //24030002

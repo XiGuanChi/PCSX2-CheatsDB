@@ -1,6 +1,6 @@
 gametitle=Harry Potter and the Goblet of Fire PAL-M SLES-53728 B18DC525
 
-[50/60 FPS]
+//50/60 FPS
 author=GamingDragon93
 description=Might need EE overclock (130%).
 patch=0,EE,00103AA4,word,24040000
@@ -10,7 +10,7 @@ patch=0,EE,002C2908,word,3C0142C8
 //00598074
 //00598070
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,00103720,word,AE80C4DC

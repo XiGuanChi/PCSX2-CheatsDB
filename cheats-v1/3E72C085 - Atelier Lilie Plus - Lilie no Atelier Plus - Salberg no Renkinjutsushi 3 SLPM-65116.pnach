@@ -1,15 +1,15 @@
-[Cheats/Have 99999 money] 
+//Cheats/Have 99999 money
 patch=1,EE,205D95B0,extended,0001869F
 
-[Cheats/Infinite & Max HP Lilie in Battle] 
+//Cheats/Infinite & Max HP Lilie in Battle
 patch=1,EE,2064820C,extended,000003E7
 patch=1,EE,2064820E,extended,000003E7
 
-[Cheats/Infinite & Max MP Lilie in Battle] 
+//Cheats/Infinite & Max MP Lilie in Battle
 patch=1,EE,20648210,extended,000003E7
 patch=1,EE,20648212,extended,000003E7
 
-[Cheats/Max Lily's Status + Special Move Possible Every Turn] 
+//Cheats/Max Lily's Status + Special Move Possible Every Turn
 patch=1,EE,205D78E4,extended,00000064
 patch=1,EE,205D78E8,extended,00000064
 patch=1,EE,205D78F0,extended,00000064
@@ -19,7 +19,7 @@ patch=1,EE,205D78FC,extended,00000064
 patch=1,EE,205D7900,extended,00000064
 patch=1,EE,205D7904,extended,00000032
 
-[Cheats/Max Ingrid's Status + Special Move Possible Every Turn] 
+//Cheats/Max Ingrid's Status + Special Move Possible Every Turn
 patch=1,EE,205D79D8,extended,00000064
 patch=1,EE,205D79DC,extended,00000064
 patch=1,EE,205D79E0,extended,00000064
@@ -29,7 +29,7 @@ patch=1,EE,205D79F0,extended,00000064
 patch=1,EE,205D79F4,extended,00000064
 patch=1,EE,205D79F8,extended,00000032
 
-[Cheats/Hold START Button When Opening Movie Is Playing For Debug Menu Debug Mode HIGDON Selecting ipu view all of the background images Selecting movie will allow you to watch all the movies in the game.Event view all of the event cutscenes QV will allow you to jump to all the town maps in the game. Selecting QvPreview will take you to map specific cutscenes KONISHI map select tools, memory card viewer, and bonus menu debug] 
+//Cheats/Hold START Button When Opening Movie Is Playing For Debug Menu Debug Mode HIGDON Selecting ipu view all of the background images Selecting movie will allow you to watch all the movies in the game.Event view all of the event cutscenes QV will allow you to jump to all the town maps in the game. Selecting QvPreview will take you to map specific cutscenes KONISHI map select tools, memory card viewer, and bonus menu debug
 patch=1,EE,D08BEF90,extended,0000FFF7
 patch=1,EE,201E20EC,extended,08097A2C
 patch=1,EE,D08BEF90,extended,0000FFFF

@@ -1,125 +1,125 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,2083A6DC,extended,00989680
 
-[Cheats/Main Character Infinite HP & SP] 
+//Cheats/Main Character Infinite HP & SP
 patch=1,EE,2016C494,extended,240203E7
 patch=1,EE,2016C498,extended,A4820008
 patch=1,EE,2016C4A0,extended,A482000A
 
-[Cheats/Support Character Infinite HP] 
+//Cheats/Support Character Infinite HP
 patch=1,EE,2016C4CC,extended,240203E7
 patch=1,EE,2016C4D0,extended,A4820008
 
-[Cheats/Support Character Infinite SP] 
+//Cheats/Support Character Infinite SP
 patch=1,EE,2016C54C,extended,240203E7
 patch=1,EE,2016C550,extended,A482000A
 
-[Cheats/In Battle Skills use no HP and SP] 
+//Cheats/In Battle Skills use no HP and SP
 patch=1,EE,202d817c,extended,1000005A
 
-[Cheats/After Battle Full HP and SP restore] 
+//Cheats/After Battle Full HP and SP restore
 patch=1,EE,2029d8b8,extended,70000C88
 
-[Cheats/Hero Max Infinite Current HP and SP] 
+//Cheats/Hero Max Infinite Current HP and SP
 patch=1,EE,2083622C,extended,03E703E7
 
-[Cheats/Max Academics Stats]  
+//Cheats/Max Academics Stats
 patch=1,EE,10836260,extended,000003E7
 
-[Cheats/Max Charm Stats] 
+//Cheats/Max Charm Stats
 patch=1,EE,10836262,extended,000003E7
 
-[Cheats/Max Courage Stats]  
+//Cheats/Max Courage Stats
 patch=1,EE,10836264,extended,000003E7
 
-[Cheats/Hero Persona Max Stats] 
+//Cheats/Hero Persona Max Stats
 patch=1,EE,40836BC8,extended,000C000D
 patch=1,EE,63636363,extended,00000000
 patch=1,EE,40836BCC,extended,000C000D
 patch=1,EE,00000063,extended,00000000
 
-[Cheats/Yukari Max Infinite Current HP and SP] 
+//Cheats/Yukari Max Infinite Current HP and SP
 patch=1,EE,2083401C,extended,03E703E7
 
-[Cheats/Yukari Persona Max Stats] 
+//Cheats/Yukari Persona Max Stats
 patch=1,EE,20834108,extended,63636363
 patch=1,EE,0083410C,extended,00000063
 
-[Cheats/Aigis Persona Max Stats] 
+//Cheats/Aigis Persona Max Stats
 patch=1,EE,2083446C,extended,63636363
 patch=1,EE,00834470,extended,00000063
 
-[Cheats/Mitsuru Max Infinite Current HP and SP]  
+//Cheats/Mitsuru Max Infinite Current HP and SP
 patch=1,EE,208346E4,extended,03E703E7
 
-[Cheats/Mitsuru Persona Max Stats] 
+//Cheats/Mitsuru Persona Max Stats
 patch=1,EE,208347D0,extended,63636363
 patch=1,EE,008347D4,extended,00000063
 
-[Cheats/Junpei Max Infinite Current HP and SP] 
+//Cheats/Junpei Max Infinite Current HP and SP
 patch=1,EE,20834A48,extended,03E703E7
 
-[Cheats/Junpei Persona Max Stats] 
+//Cheats/Junpei Persona Max Stats
 patch=1,EE,20834B34,extended,63636363
 patch=1,EE,00834B38,extended,00000063
 
-[Cheats/Fuuka Max Infinite Current HP and SP]  
+//Cheats/Fuuka Max Infinite Current HP and SP
 patch=1,EE,20834DAC,extended,03E703E7
 
-[Cheats/Fuuka Persona Max Stats] 
+//Cheats/Fuuka Persona Max Stats
 patch=1,EE,20834E98,extended,63636363
 patch=1,EE,00834E9C,extended,00000063
 
-[Cheats/Akihiko Max Infinite Current HP and SP] 
+//Cheats/Akihiko Max Infinite Current HP and SP
 patch=1,EE,20835110,extended,03E703E7
 
-[Cheats/Akihiko Persona Max Stats] 
+//Cheats/Akihiko Persona Max Stats
 patch=1,EE,208351FC,extended,63636363
 patch=1,EE,00835200,extended,00000063
 
-[Cheats/Ken Max Infinite Current HP and SP]  
+//Cheats/Ken Max Infinite Current HP and SP
 patch=1,EE,20835474,extended,03E703E7
 
-[Cheats/Ken Persona Max Stats] 
+//Cheats/Ken Persona Max Stats
 patch=1,EE,20835560,extended,63636363
 patch=1,EE,00835564,extended,00000063
 
-[Cheats/Shinjiro Max Infinite Current HP and SP Metis Code In Answer Mode]  
+//Cheats/Shinjiro Max Infinite Current HP and SP Metis Code In Answer Mode
 patch=1,EE,208357D8,extended,03E703E7
 
-[Cheats/Shinjiro Persona Max Stats Metis Code In Answer Mode] 
+//Cheats/Shinjiro Persona Max Stats Metis Code In Answer Mode
 patch=1,EE,208358C4,extended,63636363
 patch=1,EE,008358C8,extended,00000063
 
-[Cheats/Koromaru Max Infinite Current HP and SP]  
+//Cheats/Koromaru Max Infinite Current HP and SP
 patch=1,EE,20835B3C,extended,03E703E7
 
-[Cheats/Koromaru Persona Max Stats] 
+//Cheats/Koromaru Persona Max Stats
 patch=1,EE,20835C28,extended,63636363
 patch=1,EE,00835C2C,extended,00000063
 
-[Cheats/All Items Includes Dummy Items Some Can be used] 
+//Cheats/All Items Includes Dummy Items Some Can be used
 patch=1,EE,410C2D90,extended,00700001
 patch=1,EE,00630063,extended,00000000
 
-[Cheats/All Weapon Max When Equip By Main Character]
+//Cheats/All Weapon Max When Equip By Main Character
 patch=1,EE,410C15F8,extended,00630005
 patch=1,EE,03E74502,extended,00000000
 
-[Cheats/All Armor Max When Equip By Main Character] 
+//Cheats/All Armor Max When Equip By Main Character
 patch=1,EE,410C15FC,extended,00630005
 patch=1,EE,03E703E7,extended,00000000
 
-[Cheats/All Footwear Max When Equip By Main Character] 
+//Cheats/All Footwear Max When Equip By Main Character
 patch=1,EE,410C1600,extended,00630005
 patch=1,EE,000003E7,extended,00000000
 
-[Cheats/All S.Link Max] 
+//Cheats/All S.Link Max
 patch=1,EE,10836276,extended,00000A0A
 patch=1,EE,40836278,extended,00070001
 patch=1,EE,0A0A0A0A,extended,00000000
 
-[Cheats/All Persona AT Compendium All lvl 0] 
+//Cheats/All Persona AT Compendium All lvl 0
 patch=1,EE,10836E52,extended,00000001
 patch=1,EE,10836E86,extended,00000002
 patch=1,EE,10836EBA,extended,00000003
@@ -458,5 +458,5 @@ patch=1,EE,10839008,extended,00000001
 patch=1,EE,1083903C,extended,00000001
 patch=1,EE,10839070,extended,00000001
 
-[Cheats/Debug Menu Enable] 
+//Cheats/Debug Menu Enable
 patch=1,EE,2036E8C4,extended,00000000

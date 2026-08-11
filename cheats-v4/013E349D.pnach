@@ -1,6 +1,6 @@
 gametitle=Resident Evil 4 SLUS-21134 013E349D
 
-[Widescreen 16:9]
+//Widescreen 16:9
 gsaspectratio=16:9
 author=Gabominated
 description=Widescreen improvement.
@@ -23,11 +23,11 @@ patch=1,EE,20250578,extended,34210000 //3421aaab
 patch=1,EE,2021d26c,extended,3c013f25 //3c013f00
 patch=1,EE,202810e0,extended,3c013f80 //3c013f00 render fix 
         
-[ No Body Shadow of the Characters on the Ground ]
+//No Body Shadow of the Characters on the Ground
 patch=1,EE,00257fd0,word,34020100
 
-[ Disable moving Fog Clouds ]
+//Disable moving Fog Clouds
 patch=1,EE,0028effc,word,64020000
 
-[ Collectable Items from killed Enemies never disappear ]
+//Collectable Items from killed Enemies never disappear
 patch=1,EE,0026bcc8,word,24c20000

@@ -1,50 +1,50 @@
-[Cheats/Max Gold] 
+//Cheats/Max Gold
 patch=1,EE,2054CD1C,extended,0098967F
 
-[Cheats/Main Character Infinite & Max HP] 
+//Cheats/Main Character Infinite & Max HP
 patch=1,EE,20820A90,extended,000003E7
 patch=1,EE,20820A8C,extended,000003E7
 
-[Cheats/Second Character Infinite & Max HP] 
+//Cheats/Second Character Infinite & Max HP
 patch=1,EE,208588F0,extended,000003E7
 patch=1,EE,208588EC,extended,000003E7
 
-[Cheats/Maintain Max Ally Health] 
+//Cheats/Maintain Max Ally Health
 patch=1,EE,2028CFA4,extended,8C8201FC
 patch=1,EE,2028CFA8,extended,AC820200
 
-[Cheats/Ushiwakamaru Max HP 999] 
+//Cheats/Ushiwakamaru Max HP 999
 patch=1,EE,105508E0,extended,000003E7
 
-[Cheats/Ushiwakamaru Max Attack Power 999] 
+//Cheats/Ushiwakamaru Max Attack Power 999
 patch=1,EE,105508F0,extended,000003E7
 
-[Cheats/Ushiwakamaru Max Power 999] 
+//Cheats/Ushiwakamaru Max Power 999
 patch=1,EE,105508F8,extended,000003E7
 
-[Cheats/Ushiwakamaru Max Defense 999] 
+//Cheats/Ushiwakamaru Max Defense 999
 patch=1,EE,10550900,extended,000003E7
 
-[Cheats/Sword Durability Current Value 100,000] 
+//Cheats/Sword Durability Current Value 100,000
 patch=1,EE,20550984,extended,47C35000
 
-[Cheats/Sword Upper Limit Of Durability 100] 
+//Cheats/Sword Upper Limit Of Durability 100
 patch=1,EE,2055098C,extended,47C35000
 
-[Cheats/Experience Points Gained During 1 Level 99999999 Status description and value are different. Since it is displayed as cumulative experience of previous levels + experience gained during one level, the experience value and status description of the code may look different.] 
+//Cheats/Experience Points Gained During 1 Level 99999999 Status description and value are different. Since it is displayed as cumulative experience of previous levels + experience gained during one level, the experience value and status description of the code may look different.
 patch=1,EE,2055092C,extended,05F5E0FF
 
-[Cheats/Unlock Obtain All Buddhas and Gods Mandala from the menu screen Select Luo.] 
+//Cheats/Unlock Obtain All Buddhas and Gods Mandala from the menu screen Select Luo.
 patch=1,EE,201A122C,extended,A0433A90
 patch=1,EE,201A1230,extended,00000000
 
-[Cheats/Same Buddha and God can be selected] 
+//Cheats/Same Buddha and God can be selected
 patch=1,EE,2019FD88,extended,AC433A94
 patch=1,EE,2019FD8C,extended,1000002D
 
-[Cheats/Defeating 1 Body Will Increase Racial Effect To 100] 
+//Cheats/Defeating 1 Body Will Increase Racial Effect To 100
 patch=1,EE,20129718,extended,10000002
 
-[Cheats/Unlock Get All Mandala] 
+//Cheats/Unlock Get All Mandala
 patch=1,EE,405507AC,extended,001D0002
 patch=1,EE,00000001,extended,00000000

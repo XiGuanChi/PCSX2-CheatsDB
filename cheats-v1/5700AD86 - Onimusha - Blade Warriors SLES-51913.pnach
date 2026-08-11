@@ -1,10 +1,10 @@
-[Cheats/Infinite Health Player 1]
+//Cheats/Infinite Health Player 1
 patch=1,EE,20518E38,extended,00640064
 
-[Cheats/Infinite Special 1P] 
+//Cheats/Infinite Special 1P
 patch=1,EE,20518E40,extended,00320032
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,2051014F,extended,00000001
 patch=1,EE,20510152,extended,00000001
 patch=1,EE,20510153,extended,00000001
@@ -17,7 +17,7 @@ patch=1,EE,20510161,extended,00000001
 patch=1,EE,20510165,extended,00000001
 patch=1,EE,20510167,extended,00000001
 
-[Cheats/Unlock All Stages] 
+//Cheats/Unlock All Stages
 patch=1,EE,2051017F,extended,00000001
 patch=1,EE,20510186,extended,00000001
 patch=1,EE,20510187,extended,00000001

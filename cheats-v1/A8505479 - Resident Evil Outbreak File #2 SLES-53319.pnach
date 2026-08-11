@@ -1,51 +1,51 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20538BD4,extended,42C80000
 patch=1,EE,204E66D0,extended,08FC08FC
 
-[Cheats/Infinite Health 2] 
+//Cheats/Infinite Health 2
 patch=1,EE,2065F63C,extended,84820542
 patch=1,EE,2065F640,extended,A4820540
 
-[Cheats/Max Infinite Ammo] 
+//Cheats/Max Infinite Ammo
 patch=1,EE,2061ACB8,extended,24020063
 
-[Cheats/Virus Infect 0.00%] 
+//Cheats/Virus Infect 0.00%
 patch=1,EE,206D765C,extended,AE200BC4
 
-[Cheats/One Hit Kill] 
+//Cheats/One Hit Kill
 patch=1,EE,206B122C,extended,A6620138
 
-[Cheats/Immune to Zombie Attacks] 
+//Cheats/Immune to Zombie Attacks
 patch=1,EE,206D013C,extended,00000000
 
-[Cheats/Never Infected]  
+//Cheats/Never Infected
 patch=1,EE,204E5C54,extended,00000000
 
-[Cheats/Press R3+L1 Infinite Time On] 
+//Cheats/Press R3+L1 Infinite Time On
 patch=1,EE,D029AD9C,extended,0001FBFB
 patch=1,EE,20707910,extended,00000000
 
-[Cheats/Press R3+L2 Infinite Time Off] 
+//Cheats/Press R3+L2 Infinite Time Off
 patch=1,EE,D029AD9C,extended,0001FEFB
 patch=1,EE,20707910,extended,A48300A8
 
-[Cheats/Max Collection Points] 
+//Cheats/Max Collection Points
 patch=1,EE,20341AC4,word,05F0A0B0
 
-[Cheats/Unlock All Levels]  
+//Cheats/Unlock All Levels
 patch=1,EE,20342E4C,extended,FFFFFFFF
 
-[Cheats/Unlock All Gallery Purchased] 
+//Cheats/Unlock All Gallery Purchased
 patch=1,EE,10342ECC,extended,0009FFFF
 
-[Cheats/Unlock All Costumes Purchased] 
+//Cheats/Unlock All Costumes Purchased
 patch=1,EE,10342EE0,extended,0005FFFF
 
-[Cheats/Unlock All Movies Purchased] 
+//Cheats/Unlock All Movies Purchased
 patch=1,EE,10342EF4,extended,0009FFFF
 
-[Cheats/Unlock All Sounds Purchased] 
+//Cheats/Unlock All Sounds Purchased
 patch=1,EE,20342F08,extended,FFFFFFFF
 
-[Cheats/Unlock All Extras Purchased] 
+//Cheats/Unlock All Extras Purchased
 patch=1,EE,20342F1C,extended,FFFFFFFF

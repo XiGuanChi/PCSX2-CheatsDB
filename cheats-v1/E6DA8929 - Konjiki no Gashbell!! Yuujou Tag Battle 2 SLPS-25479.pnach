@@ -1,12 +1,12 @@
-[Cheats/Max Points 9999] 
+//Cheats/Max Points 9999
 patch=1,EE,20461F14,extended,0000270F
 
-[Cheats/All Cards] 
+//Cheats/All Cards
 patch=1,EE,40462898,extended,000A0001
 patch=1,EE,FFFFFFFF,extended,00000000
 patch=1,EE,004628C0,extended,0000001F
 
-[Cheats/Unlock All Stories] 
+//Cheats/Unlock All Stories
 patch=1,EE,20461EEC,extended,FFFFFFFF
 patch=1,EE,20461EF0,extended,FFFFFFFF
 patch=1,EE,20461EF4,extended,FFFFFFFF
@@ -14,8 +14,8 @@ patch=1,EE,20461EF8,extended,FFFFFFFF
 patch=1,EE,20461EFC,extended,FFFFFFFF
 patch=1,EE,20461F00,extended,FFFFFFFF
 
-[Cheats/Unlock All Movies Characters]
+//Cheats/Unlock All Movies Characters
 patch=1,EE,204622B4,extended,000000FF
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,204622D0,extended,000000FF

@@ -1,60 +1,60 @@
-[Cheats/Max Gil After Selling Items] 
+//Cheats/Max Gil After Selling Items
 patch=1,EE,2035FFBC,extended,1000000A
 
-[Cheats/Max LP For Acquiring Licenses If you acquire any license, LP will be 99999] 
+//Cheats/Max LP For Acquiring Licenses If you acquire any license, LP will be 99999
 patch=1,EE,20351B74,extended,00000000
 
-[Cheats/LP Obtained After Battle 999999]
+//Cheats/LP Obtained After Battle 999999
 patch=1,EE,20328C04,extended,00000000
 
-[Cheats/EXP Obtained After Battle 999999] 
+//Cheats/EXP Obtained After Battle 999999
 patch=1,EE,20328BE0,extended,00000000
 
-[Cheats/Max Field HP Maintained Displayed at the bottom during the field Valid only for characters] 
+//Cheats/Max Field HP Maintained Displayed at the bottom during the field Valid only for characters
 patch=1,EE,203484E8,extended,00000000
 patch=1,EE,203484F0,extended,AE620048
 
-[Cheats/Max field MP Maintenance Only valid for characters displayed below during the field] 
+//Cheats/Max field MP Maintenance Only valid for characters displayed below during the field
 patch=1,EE,20348534,extended,00000000
 patch=1,EE,20348550,extended,86620028
 patch=1,EE,20348554,extended,A662004C
 patch=1,EE,20348560,extended,AE020028
 
-[Cheats/Charge Time Always Max] 
+//Cheats/Charge Time Always Max
 patch=1,EE,20348AA4,extended,AEB5070C
 patch=1,EE,20348AA8,extended,AE150030
 
-[Cheats/Required code] 
+//Cheats/Required code
 patch=1,EE,2035FEA8,extended,0803F800
 patch=1,EE,200FE500,extended,3C03004F
 patch=1,EE,200FE504,extended,3C0205F5
 patch=1,EE,200FE508,extended,080D7FAC
 
-[Cheats/Press Select LP 9999 Van 1st person] 
+//Cheats/Press Select LP 9999 Van 1st person
 patch=1,EE,D05A32DC,extended,0000FFFE
 patch=1,EE,20581A98,extended,0001869F
 
-[Cheats/Press Select LP 9999 Ashe Second person] 
+//Cheats/Press Select LP 9999 Ashe Second person
 patch=1,EE,D05A32DC,extended,0000FFFE
 patch=1,EE,20581C5C,extended,0001869F
 
-[Cheats/Press Select LP 9999 Fran Third person] 
+//Cheats/Press Select LP 9999 Fran Third person
 patch=1,EE,D05A32DC,extended,0000FFFE
 patch=1,EE,20581E20,extended,0001869F
 
-[Cheats/Press Select LP 9999 Balflare 4th person] 
+//Cheats/Press Select LP 9999 Balflare 4th person
 patch=1,EE,D05A32DC,extended,0000FFFE
 patch=1,EE,20581FE4,extended,0001869F
 
-[Cheats/Press Select LP 9999 Bash fifth person] 
+//Cheats/Press Select LP 9999 Bash fifth person
 patch=1,EE,D05A32DC,extended,0000FFFE
 patch=1,EE,205821A8,extended,0001869F
 
-[Cheats/Press Select LP 9999 Pannero 6th person] 
+//Cheats/Press Select LP 9999 Pannero 6th person
 patch=1,EE,D05A32DC,extended,0000FFFE
 patch=1,EE,2058236C,extended,0001869F
 
-[Cheats/Have All Consumable Items] 
+//Cheats/Have All Consumable Items
 patch=1,EE,200FE084,extended,3C020058
 patch=1,EE,200FE088,extended,3442B000
 patch=1,EE,200FE08C,extended,24050040
@@ -70,7 +70,7 @@ patch=1,EE,200FE0B0,extended,24420002
 patch=1,EE,200FE0B4,extended,24C60001
 patch=1,EE,200FE0B8,extended,14C5FFF9
 
-[Cheats/Have All Weapons] 
+//Cheats/Have All Weapons
 patch=1,EE,200FE0C0,extended,3C020058
 patch=1,EE,200FE0C4,extended,3442B000
 patch=1,EE,200FE0C8,extended,240500C8
@@ -86,7 +86,7 @@ patch=1,EE,200FE0EC,extended,24420002
 patch=1,EE,200FE0F0,extended,24C60001
 patch=1,EE,200FE0F4,extended,14C5FFF9
 
-[Cheats/Have All Skills] 
+//Cheats/Have All Skills
 patch=1,EE,200FE000,extended,3C020058
 patch=1,EE,200FE004,extended,2401FFFF
 patch=1,EE,200FE008,extended,AC41677C
@@ -100,7 +100,7 @@ patch=1,EE,200FE024,extended,24420002
 patch=1,EE,200FE028,extended,24C60001
 patch=1,EE,200FE034,extended,14C5FFFA
 
-[Cheats/Have All Magics] 
+//Cheats/Have All Magics
 patch=1,EE,200FE03C,extended,3C020058
 patch=1,EE,200FE040,extended,2401FFFF
 patch=1,EE,200FE044,extended,AC416770

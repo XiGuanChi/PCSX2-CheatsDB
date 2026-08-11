@@ -1,10 +1,10 @@
-[Cheats/Max Money 99,999,990,000 yen] 
+//Cheats/Max Money 99,999,990,000 yen
 patch=1,EE,20B42118,extended,05F5E100
 
-[Cheats/Max Fame]  
+//Cheats/Max Fame
 patch=1,EE,00B42AE4,extended,00000064
 
-[Cheats/Max HP SP]  
+//Cheats/Max HP SP
 patch=1,EE,20B42E60,extended,64646464
 patch=1,EE,20B42AD8,extended,05F5E100
 patch=1,EE,20B42ADC,extended,0000270F
@@ -13,13 +13,13 @@ patch=1,EE,20B42ED0,extended,0000270F
 patch=1,EE,20B42ED4,extended,000003E7
 patch=1,EE,10B24ED8,extended,0000FFFF
 
-[Cheats/Max Status]  
+//Cheats/Max Status
 patch=1,EE,40B42E68,extended,000C0001
 patch=1,EE,02BC02BC,extended,00000000
 patch=1,EE,10B42E66,extended,000002BC
 patch=1,EE,10B42E98,extended,000002BC
 
-[Cheats/You can win even if your horse is a bad horse. ON code] 
+//Cheats/You can win even if your horse is a bad horse. ON code
 patch=1,EE,204743E0,extended,0803C400
 patch=1,EE,204743E4,extended,00641821
 patch=1,EE,200F1000,extended,939791A0
@@ -29,22 +29,22 @@ patch=1,EE,200F100C,extended,24100FFF
 patch=1,EE,200F1010,extended,0811D0FA
 patch=1,EE,200F1014,extended,A4700000
 
-[Cheats/You can win even if your horse is a bad horse. OFF code] 
+//Cheats/You can win even if your horse is a bad horse. OFF code
 patch=1,EE,204743E0,extended,00641821
 patch=1,EE,204743E4,extended,A4700000
 
-[Cheats/Owner Friendship Level Max]  
+//Cheats/Owner Friendship Level Max
 patch=1,EE,202134C4,extended,24020064
 
-[Cheats/Trainer Friendship Level Max] 
+//Cheats/Trainer Friendship Level Max
 patch=1,EE,202136BC,extended,24020064
 
-[Cheats/Jockey Friendship Level Max] 
+//Cheats/Jockey Friendship Level Max
 patch=1,EE,202138B4,extended,24020064
 
-[Cheats/Scenario character Friendship Level Max] 
+//Cheats/Scenario character Friendship Level Max
 patch=1,EE,20213AAC,extended,24020064
 
-[Cheats/Unlock All Cups]  
+//Cheats/Unlock All Cups
 patch=1,EE,40B4216C,extended,00100001
 patch=1,EE,64646464,extended,00000000

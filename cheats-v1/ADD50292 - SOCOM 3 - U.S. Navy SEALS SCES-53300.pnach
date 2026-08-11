@@ -1,113 +1,113 @@
-[Cheats/Infinite Health All Squad] 
+//Cheats/Infinite Health All Squad
 patch=1,EE,20597AB8,extended,3C013F80
 patch=1,EE,20597AD0,extended,4481A000
 patch=1,EE,20597AE4,extended,E6940A0C
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,204E57E0,extended,00C02823
 
-[Cheats/Infinite Health You & Your Team] 
+//Cheats/Infinite Health You & Your Team
 patch=1,EE,200C0220,extended,3C013F80
 patch=1,EE,200C0224,extended,AE810968
 patch=1,EE,200C0228,extended,08166B98
 patch=1,EE,200C022C,extended,928200F1
 patch=1,EE,2059AE5C,extended,08030088
 
-[Cheats/Never Reload] 
+//Cheats/Never Reload
 patch=1,EE,204E1988,extended,00000000
 
-[Cheats/Idiot AI] 
+//Cheats/Idiot AI
 patch=1,EE,204284D0,extended,03E00008
 patch=1,EE,204284D4,extended,00000000
 
-[Cheats/Infinite Ammo No Reload] 
+//Cheats/Infinite Ammo No Reload
 patch=1,EE,204E57E8,extended,00000000
 
-[Cheats/Steady Aim No Recoil] 
+//Cheats/Steady Aim No Recoil
 patch=1,EE,20442FD8,extended,00000000
 patch=1,EE,20442958,extended,00000000
 patch=1,EE,20442890,extended,00000000
 patch=1,EE,20442FF8,extended,00000000
 
-[Cheats/No Damage From Falling] 
+//Cheats/No Damage From Falling
 patch=1,EE,2064C1E0,extended,447A0000
  
-[Cheats/Start On Mission North Africa - Deep Strike] 
+//Cheats/Start On Mission North Africa - Deep Strike
 patch=1,EE,D0688B80,extended,00200001
 patch=1,EE,20688B80,extended,00000001
 
-[Cheats/Start On Mission North Africa - Escalation] 
+//Cheats/Start On Mission North Africa - Escalation
 patch=1,EE,D0688B80,extended,00200002
 patch=1,EE,20688B80,extended,00000002
 
-[Cheats/Start On Mission North Africa - Riposte's Primer] 
+//Cheats/Start On Mission North Africa - Riposte's Primer
 patch=1,EE,D0688B80,extended,00200003
 patch=1,EE,20688B80,extended,00000003
 
-[Cheats/Start On Mission North Africa - In The Balance] 
+//Cheats/Start On Mission North Africa - In The Balance
 patch=1,EE,D0688B80,extended,00200004
 patch=1,EE,20688B80,extended,00000004
 
-[Cheats/Start On Mission North Africa - Day Of Reckoning] 
+//Cheats/Start On Mission North Africa - Day Of Reckoning
 patch=1,EE,D0688B80,extended,00200005
 patch=1,EE,20688B80,extended,00000005
 
-[Cheats/Start On Mission North Africa - Wake Of The Fallen] 
+//Cheats/Start On Mission North Africa - Wake Of The Fallen
 patch=1,EE,D0688B80,extended,00200006
 patch=1,EE,20688B80,extended,00000006
 
-[Cheats/Start On Mission South Asia - Nautical Salvage] 
+//Cheats/Start On Mission South Asia - Nautical Salvage
 patch=1,EE,D0688B80,extended,00200007
 patch=1,EE,20688B80,extended,00000007
 
-[Cheats/Start On Mission South Asia - Friend Or Foe] 
+//Cheats/Start On Mission South Asia - Friend Or Foe
 patch=1,EE,D0688B80,extended,00200008
 patch=1,EE,20688B80,extended,00000008
 
-[Cheats/Start On Mission South Asia - Heart Of The Fist] 
+//Cheats/Start On Mission South Asia - Heart Of The Fist
 patch=1,EE,D0688B80,extended,00200009
 patch=1,EE,20688B80,extended,00000009
 
-[Cheats/Start On Mission Poland - Nightcrawler] 
+//Cheats/Start On Mission Poland - Nightcrawler
 patch=1,EE,D0688B80,extended,0020000A
 patch=1,EE,20688B80,extended,0000000A
 
-[Cheats/Start On Mission Poland - State Security] 
+//Cheats/Start On Mission Poland - State Security
 patch=1,EE,D0688B80,extended,0020000B
 patch=1,EE,20688B80,extended,0000000B
 
-[Cheats/Start On Mission Poland - Retribution] 
+//Cheats/Start On Mission Poland - Retribution
 patch=1,EE,D0688B80,extended,0020000C
 patch=1,EE,20688B80,extended,0000000C
 
-[Cheats/Start On Mission Poland - Waterlogged] 
+//Cheats/Start On Mission Poland - Waterlogged
 patch=1,EE,D0688B80,extended,0020000D
 patch=1,EE,20688B80,extended,0000000D
 
-[Cheats/Start On Mission Poland - Brewed Chaos] 
+//Cheats/Start On Mission Poland - Brewed Chaos
 patch=1,EE,D0688B80,extended,0020000E
 patch=1,EE,20688B80,extended,0000000E
 
-[Cheats/Unlock All Movies] 
+//Cheats/Unlock All Movies
 patch=1,EE,00688A7D,extended,000000FF
 patch=1,EE,00688A95,extended,000000FF
 patch=1,EE,10688A96,extended,0000FFFF
 patch=1,EE,00688A98,extended,000000FF
 
-[Cheats/Unlock All Weapons] 
+//Cheats/Unlock All Weapons
 patch=1,EE,10688A7E,extended,000000FF
 patch=1,EE,20688A80,extended,FFFFFFFF
 patch=1,EE,10688A84,extended,0000FFFF
 patch=1,EE,00688A86,extended,000000FF
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,00688A89,extended,000000FF
 patch=1,EE,10688A8A,extended,0000FFFF
 patch=1,EE,20688A8C,extended,FFFFFFFF
 patch=1,EE,20688A90,extended,FFFFFFFF
 patch=1,EE,00688A94,extended,000000FF
 
-[Cheats/Unlock All Weapons, Characters, Movies And Jukebox] 
+//Cheats/Unlock All Weapons, Characters, Movies And Jukebox
 patch=1,EE,2036A388,extended,00620821
 patch=1,EE,2036A38C,extended,24020001
 patch=1,EE,2036A394,extended,A022AB08

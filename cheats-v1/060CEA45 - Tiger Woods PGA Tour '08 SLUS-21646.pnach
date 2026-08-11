@@ -1,17 +1,17 @@
-[Cheats/All Holes Always Hole In One P1] 
+//Cheats/All Holes Always Hole In One P1
 patch=1,EE,4056B5B0,extended,00120001
 patch=1,EE,00000000,extended,00000000
 
-[Cheats/All Attributes Are Free Edit Golfer] 
+//Cheats/All Attributes Are Free Edit Golfer
 patch=1,EE,D0D72873,extended,78098C72 
 patch=1,EE,20163C78,extended,00000000
 
-[Cheats/View Items To Unlock All Items] 
+//Cheats/View Items To Unlock All Items
 patch=1,EE,201D325C,extended,2403FFFF
 patch=1,EE,201D3260,extended,AC4313D8
 
-[Cheats/Buying Pro Shop Items Doesnt Decrease Cash] 
+//Cheats/Buying Pro Shop Items Doesnt Decrease Cash
 patch=1,EE,20395FE8,extended,00000000
 
-[Cheats/Profile 1 Codes Max Current Cash] 
+//Cheats/Profile 1 Codes Max Current Cash
 patch=1,EE,21DF8804,extended,05F5E0FF

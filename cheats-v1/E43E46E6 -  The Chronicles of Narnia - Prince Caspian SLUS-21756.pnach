@@ -1,21 +1,21 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,2056b5CC,extended,00000001
 
-[Cheats/One HIt Kill]  
+//Cheats/One HIt Kill
 patch=1,EE,2056B71C,extended,00000001
 
-[Cheats/Have 9999 Keys] 
+//Cheats/Have 9999 Keys
 patch=1,EE,2058003C,extended,270F270F
 
-[Cheats/No Player Damage] 
+//Cheats/No Player Damage
 patch=1,EE,0056b5cc,extended,00000001
 
-[Cheats/Save Any time Press Select to save] 
+//Cheats/Save Any time Press Select to save
 patch=1,EE,D1fa8542,extended,0000FFFE
 patch=1,EE,0056B72F,extended,00000001
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,2056B5F7,extended,00000001
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,2056B5F8,extended,00000001

@@ -1,4 +1,4 @@
-[Cheats/Debug Test Mode enabled press L3 and disabled pressi R3 Lets you switch the stage on the fly and such] 
+//Cheats/Debug Test Mode enabled press L3 and disabled pressi R3 Lets you switch the stage on the fly and such
 patch=1,EE,D1C939C2,extended,0000FFFD
 patch=1,EE,002ABF78,extended,00000001
 patch=1,EE,D1C939C2,extended,0000FFFB

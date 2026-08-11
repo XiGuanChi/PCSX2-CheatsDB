@@ -1,12 +1,12 @@
 gametitle=Resident Evil 4 SLES-53702 6BA2F6B9
 
 author=Google
-[ No Body Shadow of the Characters on the Ground ]
+//No Body Shadow of the Characters on the Ground
 patch=1,EE,00258148,word,34020100
-[ Disable moving Fog Clouds ]
+//Disable moving Fog Clouds
 patch=1,EE,0028f26c,word,64020000
         
-[Widescreen 16:9]
+//Widescreen 16:9
 gsaspectratio=16:9
 author=Gabominated
 description=Widescreen improvement. Turn on in-game options/screen adjust/widescreen/on

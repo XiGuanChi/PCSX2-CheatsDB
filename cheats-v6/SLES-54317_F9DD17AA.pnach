@@ -1,11 +1,11 @@
 gametitle=Ghost Rider PAL-M SLES-54317 F9DD17AA
 
-[NTSC Mode]
+//NTSC Mode
 author=GamingDragon93
 description=NTSC mode at start.
 patch=0,EE,00246624,word,240301c0
 
-[480p Mode]
+//480p Mode
 author=GamingDragon93
 description=SDTV 480p mode at start.
 patch=0,EE,00246624,word,240301C0

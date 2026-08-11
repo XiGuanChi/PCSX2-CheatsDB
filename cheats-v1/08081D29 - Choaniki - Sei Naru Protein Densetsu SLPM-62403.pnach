@@ -1,15 +1,15 @@
-[Cheats/Infinite Lives 9] 
+//Cheats/Infinite Lives 9
 patch=1,EE,20184924,extended,8C236860
 patch=1,EE,20184928,extended,34020009
 patch=1,EE,20614930,extended,AC620220
 
-[Cheats/Infinite Bombs]  
+//Cheats/Infinite Bombs
 patch=1,EE,2017C0F8,extended,00000000
 
-[Cheats/No Damage]  
+//Cheats/No Damage
 patch=1,EE,2015D628,extended,00000000
 patch=1,EE,20182C00,extended,00000000
 
-[Cheats/Hold L3+R3 For Quick Select Menu while the loading screen is displayed you can do this in-game as well, but the music won't stop that way to load a debug menu containing stage and menu select options.] 
+//Cheats/Hold L3+R3 For Quick Select Menu while the loading screen is displayed you can do this in-game as well, but the music won't stop that way to load a debug menu containing stage and menu select options.
 patch=1,EE,D024FB42,extended,0000FFF9
 patch=1,EE,20271C90,extended,00000003

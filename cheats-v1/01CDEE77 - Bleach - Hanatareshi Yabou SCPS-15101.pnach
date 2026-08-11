@@ -1,22 +1,22 @@
-[Cheats/Infinite Money 9999999] 
+//Cheats/Infinite Money 9999999
 patch=1,EE,202C5000,extended,000F423F
 
-[Cheats/Character 1 HP and SP 999] 
+//Cheats/Character 1 HP and SP 999
 patch=1,EE,102C5160,extended,000003E7
 patch=1,EE,102C515E,extended,000003E7
 patch=1,EE,102C5162,extended,000003E7
 patch=1,EE,102C5164,extended,000003E7
 
-[Cheats/Character 1 Exp 999999 After 1 Battle Level 50] 
+//Cheats/Character 1 Exp 999999 After 1 Battle Level 50
 patch=1,EE,202C515A,extended,05F5E0FF
 
-[Cheats/Character 1 Level 50] 
+//Cheats/Character 1 Level 50
 patch=1,EE,102C5154,extended,00000032
 
-[Cheats/Character 1 Soul 7] 
+//Cheats/Character 1 Soul 7
 patch=1,EE,102C5166,extended,000000FF
 
-[Cheats/Character 1 All Stats 999] 
+//Cheats/Character 1 All Stats 999
 patch=1,EE,102C516C,extended,000003E7
 patch=1,EE,102C5174,extended,000003E7
 patch=1,EE,102C516A,extended,000003E7
@@ -25,22 +25,22 @@ patch=1,EE,102C5172,extended,000003E7
 patch=1,EE,102C516E,extended,000003E7
 patch=1,EE,102C5176,extended,00000064
 
-[Cheats/Character 2 HP and MP 999] 
+//Cheats/Character 2 HP and MP 999
 patch=1,EE,102C5210,extended,000003E7
 patch=1,EE,102C520E,extended,000003E7
 patch=1,EE,102C5212,extended,000003E7
 patch=1,EE,102C5214,extended,000003E7
 
-[Cheats/Character 2 Exp 999999 After 1 Battle Level 50]  
+//Cheats/Character 2 Exp 999999 After 1 Battle Level 50
 patch=1,EE,202C520A,extended,05F5E0FF
 
-[Cheats/Character 2 Level 50] 
+//Cheats/Character 2 Level 50
 patch=1,EE,102C5204,extended,00000032
 
-[Cheats/Character 2 Soul 7] 
+//Cheats/Character 2 Soul 7
 patch=1,EE,102C5216,extended,000000F
 
-[Cheats/Character 2 All Stats 999] 
+//Cheats/Character 2 All Stats 999
 patch=1,EE,102C521C,extended,000003E7
 patch=1,EE,102C521A,extended,000003E7
 patch=1,EE,102C521E,extended,000003E7
@@ -49,6 +49,6 @@ patch=1,EE,102C5222,extended,000003E7
 patch=1,EE,102C5224,extended,000003E7
 patch=1,EE,102C5226,extended,00000064
 
-[Cheats/Charactere 2 All Items 99] 
+//Cheats/Charactere 2 All Items 99
 patch=1,EE,402C5004,extended,00500001
 patch=1,EE,00630063,extended,00000000

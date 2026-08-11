@@ -1,65 +1,65 @@
-[Cheats/Max Credits] 
+//Cheats/Max Credits
 patch=1,EE,204AD764,extended,3B9AC9FF
 
-[Cheats/Action point 1 hundred million] 
+//Cheats/Action point 1 hundred million
 patch=1,EE,204B5C00,extended,05F5E100
 
-[Cheats/Max HP] 
+//Cheats/Max HP
 patch=1,EE,20275AA4,extended,E6141200
 
-[Cheats/4 nitro stocks] 
+//Cheats/4 nitro stocks
 patch=1,EE,204B5BEC,extended,00000004
 
-[Cheats/Max Nitro gauge] 
+//Cheats/Max Nitro gauge
 patch=1,EE,204B5BE4,extended,42C80000
 
-[Cheats/Stormer Level 99] 
+//Cheats/Stormer Level 99
 patch=1,EE,204AD768,extended,00000063
 
-[Cheats/Navigator Level 10] 
+//Cheats/Navigator Level 10
 patch=1,EE,204AD76C,extended,0000000A
 
-[Cheats/0 Time limit stop] 
+//Cheats/0 Time limit stop
 patch=1,EE,202354A4,extended,00000000
 patch=1,EE,D034EA82,extended,0000FFEE
 patch=1,EE,202354A4,extended,A4408A900
 
-[Cheats/Credit up Press SELECT]  
+//Cheats/Credit up Press SELECT
 patch=1,EE,D034EA82,extended,0000FFFE
 patch=1,EE,204AD764,extended,3B9AC9FF
 
-[Cheats/TOTAL CREDIT 999999999 With mission end] 
+//Cheats/TOTAL CREDIT 999999999 With mission end
 patch=1,EE,201F9CC0,extended,14000002
 
-[Cheats/Clear Mission Press Select+Down] 
+//Cheats/Clear Mission Press Select+Down
 patch=1,EE,D034EA82,extended,0000FFBE
 patch=1,EE,004B89B8,extended,00000008
 
-[Cheats/Restriction time stop select+Up time 0] 
+//Cheats/Restriction time stop select+Up time 0
 patch=1,EE,202354A4,extended,00000000
 patch=1,EE,D034EA82,extended,0000FFEE
 patch=1,EE,202354A4,extended,A4408A90
 
-[Cheats/CPU car stop SELECT+L2 ON SELECT+R2 OFF] 
+//Cheats/CPU car stop SELECT+L2 ON SELECT+R2 OFF
 patch=1,EE,D034EA82,extended,0000FEFE
 patch=1,EE,2022D114,extended,14600098
 patch=1,EE,D034EA82,extended,0000FDFE
 patch=1,EE,2022D114,extended,10600006
 
-[Cheats/Unlock All Cars] 
+//Cheats/Unlock All Cars
 patch=1,EE,404AD5DC,extended,00120002
 patch=1,EE,00000009,extended,00000000
 
-[Cheats/Unlock All Musics] 
+//Cheats/Unlock All Musics
 patch=1,EE,204AD5AC,extended,FFFFFFFF
 
-[Cheats/Unlock All Story Missions] 
+//Cheats/Unlock All Story Missions
 patch=1,EE,204AD778,extended,55555555
 patch=1,EE,204AD77C,extended,55555555
 patch=1,EE,204AD780,extended,55555555
 patch=1,EE,004AD784,extended,00000055
 
-[Cheats/Unlock All Free Missions] 
+//Cheats/Unlock All Free Missions
 patch=1,EE,004AD771,extended,000000FF
 patch=1,EE,104AD772,extended,0000FFFF
 patch=1,EE,404AD790,extended,00140001

@@ -1,29 +1,29 @@
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,20167C34,extended,24420000
 
-[Cheats/Max Points Full tune will be performed after the battle. Please turn off the code after the second time in the same car] 
+//Cheats/Max Points Full tune will be performed after the battle. Please turn off the code after the second time in the same car
 patch=1,EE,203278B4,extended,05F5E0FF
 
-[Cheats/Max Total Points After The Race] 
+//Cheats/Max Total Points After The Race
 patch=1,EE,203278B4,extended,05F5E0FF
 
-[Cheats/All Rivals Cleared] 
+//Cheats/All Rivals Cleared
 patch=1,EE,4031733C,extended,00110001
 patch=1,EE,00010001,extended,00000000
 
-[Cheats/One Wins Complete Pre-rival] 
+//Cheats/One Wins Complete Pre-rival
 patch=1,EE,403278D0,extended,00110001
 patch=1,EE,00010001,extended,1CDE9FEB
 
-[Cheats/Two Wins Already All Rival] 
+//Cheats/Two Wins Already All Rival
 patch=1,EE,403278D0,extended,00110001
 patch=1,EE,00020002,extended,1CDE5FEB
 
-[Cheats/Stop Rivals In Story Mode At Race Start ON Press Up+X OFF Down+X] 
+//Cheats/Stop Rivals In Story Mode At Race Start ON Press Up+X OFF Down+X
 patch=1,EE,D152EC9C,extended,00001040
 patch=1,EE,201599E4,extended,10000006
 patch=1,EE,D152EC9C,extended,00004040
 patch=1,EE,201599E4,extended,14400006
 
-[Cheats/Story Fastest Public Road Legend Time Attack Weather Rain] 
+//Cheats/Story Fastest Public Road Legend Time Attack Weather Rain
 patch=1,EE,003280D8,extended,00000001

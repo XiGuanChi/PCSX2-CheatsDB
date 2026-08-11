@@ -1,15 +1,15 @@
-[Cheats/Max Mana After Collecting Some] 
+//Cheats/Max Mana After Collecting Some
 patch=1,EE,201991E0,extended,3C020002
 
-[Cheats/Infinite Time] 
+//Cheats/Infinite Time
 patch=1,EE,201871E4,extended,00000000
 
-[Cheats/Selected Troops Have Infinite Full Health & MP] 
+//Cheats/Selected Troops Have Infinite Full Health & MP
 patch=1,EE,20194610,extended,0C03FFC0
 patch=1,EE,200FFF00,extended,24020032
 patch=1,EE,200FFF04,extended,A6420006
 patch=1,EE,200FFF08,extended,A642000A
 patch=1,EE,200FFF0C,extended,03E00008
 
-[Cheats/Enable Debug Menu] 
+//Cheats/Enable Debug Menu
 patch=1,EE,201879C4,extended,24110065

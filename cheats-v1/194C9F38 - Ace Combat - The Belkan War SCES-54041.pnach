@@ -1,32 +1,32 @@
-[Cheats/Infinite Money] 
+//Cheats/Infinite Money
 patch=1,EE,203B4F68,extended,05F5E0FF
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,202319A4,extended,240E0065
 patch=1,EE,202319AC,extended,A6EE0398
 patch=1,EE,102319BA,extended,00001000
 
-[Cheats/Invincible] 
+//Cheats/Invincible
 patch=1,EE,200C0220,extended,8E0F01F8
 patch=1,EE,200C0224,extended,35EF8000
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,AE0F01F8
 patch=1,EE,2027B2FC,extended,0C030088
 
-[Cheats/No Collision Damage] 
+//Cheats/No Collision Damage
 patch=1,EE,20232550,extended,00000000
 
-[Cheats/Infinite Missiles] 
+//Cheats/Infinite Missiles
 patch=1,EE,20230F60,extended,25EF0000
 
-[Cheats/Infinite Special Weapons]  
+//Cheats/Infinite Special Weapons
 patch=1,EE,20233BAC,extended,25EF0000
 
-[Cheats/Finish Missions Instantly Press L1+Select] 
+//Cheats/Finish Missions Instantly Press L1+Select
 patch=1,EE,201DDBFC,extended,00000000
 patch=1,EE,201DDDC0,extended,00000000
 
-[Cheats/Complete Mission] 
+//Cheats/Complete Mission
 patch=1,EE,E002FBFE,extended,0069951C
 patch=1,EE,201DDBFC,extended,00000000
 patch=1,EE,201DDDC0,extended,00000000
@@ -34,14 +34,14 @@ patch=1,EE,E002FFFF,extended,0069951C
 patch=1,EE,201DDBFC,extended,52C00086
 patch=1,EE,201DDDC0,extended,06200014
 
-[Cheats/Have All Aircrafts] 
+//Cheats/Have All Aircrafts
 patch=1,EE,202BCB4C,extended,240E0001
 patch=1,EE,202BCB54,extended,A1EE0128
 
-[Cheats/Have All Aircrafts Purchaseable] 
+//Cheats/Have All Aircrafts Purchaseable
 patch=1,EE,202BCB74,extended,240E0001
 patch=1,EE,202BCB7C,extended,A1EE0008
 
-[Cheats/Have All SP Weapons] 
+//Cheats/Have All SP Weapons
 patch=1,EE,202BC300,extended,240E0001
 patch=1,EE,202BC310,extended,A1EE01DC

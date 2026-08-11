@@ -1,12 +1,12 @@
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,102BC548,extended,00000960
 
-[Cheats/Infinite Muscle Power P1] 
+//Cheats/Infinite Muscle Power P1
 patch=1,EE,202BC560,extended,451C4000
 
-[Cheats/Infinite Chojin Power P1]  
+//Cheats/Infinite Chojin Power P1
 patch=1,EE,102BC550,extended,00000A00
 
-[Cheats/Unlock All Characters]  
+//Cheats/Unlock All Characters
 patch=1,EE,402B07A8,extended,00240001
 patch=1,EE,00000001,extended,00000000

@@ -1,70 +1,70 @@
-[Cheats/Infinite Lives] 
+//Cheats/Infinite Lives
 patch=1,EE,005A1931,extended,00000004
 
-[Cheats/Infinite Gold - Jack] 
+//Cheats/Infinite Gold - Jack
 patch=1,EE,20675538,extended,05F5E0FF
 
-[Cheats/Infinite Gold - Will and Elizabeth] 
+//Cheats/Infinite Gold - Will and Elizabeth
 patch=1,EE,2067553C,extended,05F5E0FF
 
-[Cheats/Infinite Grog Bombs - Jack]  
+//Cheats/Infinite Grog Bombs - Jack
 patch=1,EE,105A18D0,extended,0000000A
 
-[Cheats/Infinite Hatchets - Will and Elizabeth]
+//Cheats/Infinite Hatchets - Will and Elizabeth
 patch=1,EE,105A1970,extended,0000000A
 
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200C0220,extended,8C830010
 patch=1,EE,200C0224,extended,2402006E
 patch=1,EE,200C0228,extended,03E00008
 patch=1,EE,200C022C,extended,A462000E
 patch=1,EE,201AE184,extended,0C030088
 
-[Cheats/Infinite Item Usage] 
+//Cheats/Infinite Item Usage
 patch=1,EE,2023EDBC,extended,00000000
 
-[Cheats/Infinite Lives alt] 
+//Cheats/Infinite Lives alt
 patch=1,EE,20261A14,extended,00000000
 
-[Cheats/Have All Map Pieces] 
+//Cheats/Have All Map Pieces
 patch=1,EE,40675B60,extended,00080001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Jack Infinite Specials] 
+//Cheats/Jack Infinite Specials
 patch=1,EE,205A18D0,extended,000A000A
 
-[Cheats/Jack Infinite Gold] 
+//Cheats/Jack Infinite Gold
 patch=1,EE,10675538,extended,0000FFFF
 
-[Cheats/Jack Max Gold] 
+//Cheats/Jack Max Gold
 patch=1,EE,20675538,extended,05F5E0FF
 
-[Cheats/Jack All Upgrades] 
+//Cheats/Jack All Upgrades
 patch=1,EE,40675C2C,extended,00050001
 patch=1,EE,05005001,extended,A99650A4
 
-[Cheats/Will Infinite Special] 
+//Cheats/Will Infinite Special
 [Cheats/Unlock ] sB47BD122 84F56464 
 
-[Cheats/Will Infinite Gold] 
+//Cheats/Will Infinite Gold
 patch=1,EE,1067553C,extended,0000FFFF
 
-[Cheats/Will Max Gold] 
+//Cheats/Will Max Gold
 patch=1,EE,2067553C,extended,05F5E0FF
 
-[Cheats/Will All Upgrades] 
+//Cheats/Will All Upgrades
 patch=1,EE,40675C4C,extended,00050001
 patch=1,EE,05005001,extended,A99650A4
 
-[Cheats/Elizabeth Infinite Specials] 
+//Cheats/Elizabeth Infinite Specials
 patch=1,EE,205A1A10,extended,000A000A
 
-[Cheats/Elizabeth Infinite Gold] 
+//Cheats/Elizabeth Infinite Gold
 patch=1,EE,10675540,extended,0000FFFF
 
-[Cheats/Elizabeth Max Gold] 
+//Cheats/Elizabeth Max Gold
 patch=1,EE,20675540,extended,05F5E0FF
 
-[Cheats/Elizabeth All Upgrades] 
+//Cheats/Elizabeth All Upgrades
 patch=1,EE,40675C6C,extended,00050001
 patch=1,EE,05005001,extended,A99650A4

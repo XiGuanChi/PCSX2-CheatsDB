@@ -1,4 +1,4 @@
-[Cheats/Necessary Code In Battle Codes] 
+//Cheats/Necessary Code In Battle Codes
 patch=1,EE,200F8000,extended,3C010001
 patch=1,EE,200F8004,extended,342186A0
 patch=1,EE,200F8008,extended,3C020185
@@ -9,37 +9,37 @@ patch=1,EE,200F8058,extended,08044D6A
 patch=1,EE,200F8100,extended,08044D6A
 patch=1,EE,2010D648,extended,0C03E000
 
-[Cheats/Max Zeni] 
+//Cheats/Max Zeni
 patch=1,EE,20297F14,extended,00000000
 
-[Cheats/In Battle Infinite Health 1P] 
+//Cheats/In Battle Infinite Health 1P
 patch=1,EE,200F801C,extended,AE410000
 patch=1,EE,200F8020,extended,AE410004
 patch=1,EE,200F8024,extended,AE410008
 
-[Cheats/In Battle 1P Max Energy Gauge]
+//Cheats/In Battle 1P Max Energy Gauge
 patch=1,EE,200F8028,extended,AE41000C
 
-[Cheats/In Battle 1P Max Sparking Gauge] 
+//Cheats/In Battle 1P Max Sparking Gauge
 patch=1,EE,200F802C,extended,AE41001C
 
-[Cheats/In Battle 1P Max Blast Gauge]  
+//Cheats/In Battle 1P Max Blast Gauge
 patch=1,EE,200F8030,extended,8E420018
 patch=1,EE,200F8034,extended,AE420014
 
-[Cheats/In Battle Press SELECT+Left 2P Health 1] 
+//Cheats/In Battle Press SELECT+Left 2P Health 1
 patch=1,EE,200F808C,extended,24030001
 patch=1,EE,200F8090,extended,00000000
 patch=1,EE,D03B051C,extended,0000FFDE
 patch=1,EE,200F8090,extended,AE430000
 
-[Cheats/Ki 999999] 
+//Cheats/Ki 999999
 patch=1,EE,205EACFC,extended,0098967F
 
-[Cheats/Buying Items Does Not Decrease Zeni] 
+//Cheats/Buying Items Does Not Decrease Zeni
 patch=1,EE,20247160,extended,00000000
 
-[Cheats/Unlock All Battle Characters] 
+//Cheats/Unlock All Battle Characters
 patch=1,EE,20248438,extended,24010001
 patch=1,EE,20248440,extended,10000026
 patch=1,EE,20248444,extended,A4410002
@@ -47,7 +47,7 @@ patch=1,EE,202487F8,extended,24010001
 patch=1,EE,20248800,extended,10000022
 patch=1,EE,20248804,extended,A4410002
 
-[Cheats/Unlock All Z Items] 
+//Cheats/Unlock All Z Items
 patch=1,EE,200F8200,extended,3C0103E7
 patch=1,EE,200F8204,extended,34210001
 patch=1,EE,200F8208,extended,0809449B
@@ -55,7 +55,7 @@ patch=1,EE,200F820C,extended,AC410000
 patch=1,EE,20251268,extended,0803E080
 patch=1,EE,2025126C,extended,26940001
 
-[Cheats/Unlock All Dragon Ball] 
+//Cheats/Unlock All Dragon Ball
 patch=1,EE,205EA980,extended,00010001
 patch=1,EE,205EA984,extended,00010001
 patch=1,EE,205EA988,extended,00010001
@@ -64,14 +64,14 @@ patch=1,EE,205EA990,extended,00010001
 patch=1,EE,205EA994,extended,00010001
 patch=1,EE,205EA998,extended,00010001
 
-[Cheats/Unlock All Dragon Adventure Events Appear] 
+//Cheats/Unlock All Dragon Adventure Events Appear
 patch=1,EE,405E84CC,extended,00320001
 patch=1,EE,03030303,extended,00000000
 
-[Cheats/Unlock All Ultimate Battle Z Courses] 
+//Cheats/Unlock All Ultimate Battle Z Courses
 patch=1,EE,405E8780,extended,00040001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock Character Encyclopedia, Model Viewing Viewpoint Restriction Removed] 
+//Cheats/Unlock Character Encyclopedia, Model Viewing Viewpoint Restriction Removed
 patch=1,EE,2025C500,extended,1000000B
 patch=1,EE,2025C564,extended,1000000A

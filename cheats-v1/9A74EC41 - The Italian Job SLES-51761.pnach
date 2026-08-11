@@ -1,18 +1,18 @@
-[Cheats/No Damage] 
+//Cheats/No Damage
 patch=1,EE,201C8A84,extended,00000000
 patch=1,EE,20182428,extended,00000000
 
-[Cheats/Never Out Of Bounds Stunt Driving] 
+//Cheats/Never Out Of Bounds Stunt Driving
 patch=1,EE,20142068,extended,34030000
 
-[Cheats/Unlock All Missions] 
+//Cheats/Unlock All Missions
 patch=1,EE,402DBE80,extended,000F0003
 patch=1,EE,00000001,extended,00000000
 
-[Cheats/Unlock All Cars] 
+//Cheats/Unlock All Cars
 patch=1,EE,20127334,extended,24050001
 
-[Cheats/Unlock All Circuits] 
+//Cheats/Unlock All Circuits
 patch=1,EE,202DBF48,extended,00000001
 patch=1,EE,202DBF58,extended,00000001
 patch=1,EE,202DBF50,extended,00000001
@@ -22,7 +22,7 @@ patch=1,EE,202DBF68,extended,00000001
 patch=1,EE,202DBF80,extended,00000001
 patch=1,EE,202DBF78,extended,00000001
 
-[Cheats/Unlock All Courses] 
+//Cheats/Unlock All Courses
 patch=1,EE,402DBF88,extended,00070004
 patch=1,EE,00000001,extended,00000000
 

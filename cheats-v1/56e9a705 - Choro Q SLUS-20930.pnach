@@ -1,12 +1,12 @@
-[Cheats/Max Cash] 
+//Cheats/Max Cash
 patch=1,EE,2026845C,extended,05F5E0FF
 
-[Cheats/Always 1st Place] 
+//Cheats/Always 1st Place
 patch=1,EE,0026B73C,extended,00000001
 
-[Cheats/Have All Parts] 
+//Cheats/Have All Parts
 patch=1,EE,2011ECA4,extended,24010001
 patch=1,EE,2011ECA8,extended,A0410000
 
-[Cheats/Debug Menu Press Start+Triangle] 
+//Cheats/Debug Menu Press Start+Triangle
 patch=1,EE,002634F8,extended,00000001

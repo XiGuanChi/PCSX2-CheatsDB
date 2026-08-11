@@ -1,45 +1,45 @@
-[Cheats/Infinite Munny]  
+//Cheats/Infinite Munny
 patch=1,EE,20340360,extended,000f423f
 
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,200F7000,extended,8C820004
 patch=1,EE,200F7004,extended,08068312
 patch=1,EE,200F7008,extended,AC820000
 patch=1,EE,20166700,extended,0C03DC00
 
-[Cheats/Infinite MP All Characters] 
+//Cheats/Infinite MP All Characters
 patch=1,EE,2019fa88,extended,922E0007
 
-[Cheats/Level 99 All Characters] 
+//Cheats/Level 99 All Characters
 patch=1,EE,003403CF,extended,00000063
 
-[Cheats/Infinite All Items]  
+//Cheats/Infinite All Items
 patch=1,EE,403411e8,extended,00300001
 patch=1,EE,62626262,extended,00000000
 
-[Cheats/Max AP] 
+//Cheats/Max AP
 patch=1,EE,0034A18E,extended,00000063
 
-[Cheats/Sora Infinite Max HP In Battle] 
+//Cheats/Sora Infinite Max HP In Battle
 patch=1,EE,01c95658,extended,000000ff
 patch=1,EE,01c9565c,extended,000000ff
 
-[Cheats/Sora Infinite Max MP In Battle] 
+//Cheats/Sora Infinite Max MP In Battle
 patch=1,EE,01c957d8,extended,000000ff
 patch=1,EE,01c957dc,extended,000000ff
 
-[Cheats/Donald & Goofy Infinite Max HP In Battle] 
+//Cheats/Donald & Goofy Infinite Max HP In Battle
 patch=1,EE,01c95400,extended,000000ff
 patch=1,EE,01c95404,extended,000000ff
 
-[Cheats/Donald & Goofy Infinite Max MP In Battle] 
+//Cheats/Donald & Goofy Infinite Max MP In Battle
 patch=1,EE,01c95580,extended,000000ff
 patch=1,EE,01c95584,extended,000000ff
 
-[Cheats/Infinite Health Gummi Ship] 
+//Cheats/Infinite Health Gummi Ship
 patch=1,EE,0034A18E,extended,00000063
 
-[Cheats/Unlock All Worlds Open] 
+//Cheats/Unlock All Worlds Open
 patch=1,EE,202C6AE0,extended,0803FFCF
 patch=1,EE,200FFF3C,extended,3C0E0102
 patch=1,EE,200FFF40,extended,35CE0102

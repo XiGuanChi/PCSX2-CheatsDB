@@ -1,12 +1,12 @@
-[[Cheats/Infinite Time] 
+//[Cheats/Infinite Time
 patch=1,EE,101D64F8,extended,00001800
 
 Cheats/Unlock All Tracks]  
 patch=1,EE,2061569C,extended,FFFFFFFF
 
-[Cheats/Unlock All Cars]  
+//Cheats/Unlock All Cars
 patch=1,EE,206156A0,extended,00FFFFFF
 
-[Cheats/Enable NAME SELECT ebug menu After applying the code and selecting ARCADE or FREE RUN, you will be able to go to the NAME SELECT menu debug menu] 
+//Cheats/Enable NAME SELECT ebug menu After applying the code and selecting ARCADE or FREE RUN, you will be able to go to the NAME SELECT menu debug menu
 patch=1,EE,201177DC,extended,0C046E8E
 

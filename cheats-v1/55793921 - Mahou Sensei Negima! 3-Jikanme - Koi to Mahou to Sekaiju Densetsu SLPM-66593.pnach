@@ -1,166 +1,166 @@
-[Cheats/Infinite HP] 
+//Cheats/Infinite HP
 patch=1,EE,2011E8BC,extended,00000000
 
-[Cheats/Max Level All Characters] 
+//Cheats/Max Level All Characters
 patch=1,EE,403560C0,extended,00080001
 patch=1,EE,03030303,extended,00000000
 
-[Cheats/Green Onion Status In Battle HP + 9999 Displays 999] 
+//Cheats/Green Onion Status In Battle HP + 9999 Displays 999
 patch=1,EE,10595812,extended,0000270F
 
-[Cheats/Green Onion Status In Battle MP + 9999 Displays 999] 
+//Cheats/Green Onion Status In Battle MP + 9999 Displays 999
 patch=1,EE,10595814,extended,0000270F
 
-[Cheats/Green Onion Status In Battle Physical attack + 9999] 
+//Cheats/Green Onion Status In Battle Physical attack + 9999
 patch=1,EE,10595816,extended,0000270F
 
-[Cheats/Green Onion Status In Battle Magic Attack +9999] 
+//Cheats/Green Onion Status In Battle Magic Attack +9999
 patch=1,EE,10595818,extended,0000270F
 
-[Cheats/Green Onion Status In Battle Special attack +9999] 
+//Cheats/Green Onion Status In Battle Special attack +9999
 patch=1,EE,1059581A,extended,0000270F
 
-[Cheats/Green Onion Status In Battle Physical Defense +9999] 
+//Cheats/Green Onion Status In Battle Physical Defense +9999
 patch=1,EE,1059581C,extended,0000270F
 
-[Cheats/Green Onion Status In Battle Magic Defense +9999] 
+//Cheats/Green Onion Status In Battle Magic Defense +9999
 patch=1,EE,10595820,extended,0000270F
 
-[Cheats/Green Onion Status In Battle Special Defense +9999] 
+//Cheats/Green Onion Status In Battle Special Defense +9999
 patch=1,EE,10595822,extended,0000270F
 
-[Cheats/In Battle HP 999 Common to Negi and Asuna] 
+//Cheats/In Battle HP 999 Common to Negi and Asuna
 patch=1,EE,2011E594,extended,2403270F
 patch=1,EE,2011E5A8,extended,A60301D2
 patch=1,EE,2011E5B4,extended,A6030510
 
-[Cheats/In Battle MP 999 common to Green Onions and Asuna] 
+//Cheats/In Battle MP 999 common to Green Onions and Asuna
 patch=1,EE,2011E5A0,extended,2408270F 
 patch=1,EE,2011E5A4,extended,A60801D4
 patch=1,EE,2011E5BC,extended,A6080516
 
-[Cheats/In Battle Partner Gauge Max Onion Only It will not rise when Asuna is operated] 
+//Cheats/In Battle Partner Gauge Max Onion Only It will not rise when Asuna is operated
 patch=1,EE,2013751C,extended,3C024348
 patch=1,EE,20137520,extended,AC620018
 
-[Cheats/In Battle No Damage taken Damage will be 0 and you will not fall back even if you are attacked] 
+//Cheats/In Battle No Damage taken Damage will be 0 and you will not fall back even if you are attacked
 patch=1,EE,2011E8BC,extended,00000000
 
-[Cheats/All Partners] 
+//Cheats/All Partners
 patch=1,EE,40356020,extended,00080001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/All Partners Level 3] 
+//Cheats/All Partners Level 3
 patch=1,EE,403560C0,extended,00080001
 patch=1,EE,03030303,extended,00000000
 
-[Cheats/Unlock Game Progress All Events Cleared] 
+//Cheats/Unlock Game Progress All Events Cleared
 patch=1,EE,00356184,extended,000000FF
 
-[Cheats/Sayo Aisaka Max Likeability 999] 
+//Cheats/Sayo Aisaka Max Likeability 999
 patch=1,EE,103560E2,extended,000003E7
 
-[Cheats/Yuna Akashi Max Likeability 999] 
+//Cheats/Yuna Akashi Max Likeability 999
 patch=1,EE,103560E4,extended,000003E7
 
-[Cheats/Kazumi Asakura Max Likeability 999] 
+//Cheats/Kazumi Asakura Max Likeability 999
 patch=1,EE,103560E6,extended,000003E7
 
-[Cheats/Yuei Ayase  Max Likeability 999] 
+//Cheats/Yuei Ayase  Max Likeability 999
 patch=1,EE,103560E8,extended,000003E7
 
-[Cheats/Ako Izumi Max Likeability 999]  
+//Cheats/Ako Izumi Max Likeability 999
 patch=1,EE,103560EA,extended,000003E7 
 
-[Cheats/Akira Okochi Max Likeability 999]  
+//Cheats/Akira Okochi Max Likeability 999
 patch=1,EE,103560EC,extended,000003E7
 
-[Cheats/Misa Kakizaki Max Likeability 999]  
+//Cheats/Misa Kakizaki Max Likeability 999
 patch=1,EE,103560EE,extended,000003E7
 
-[Cheats/Asuna Kagurazaka Max Likeability 999] 
+//Cheats/Asuna Kagurazaka Max Likeability 999
 patch=1,EE,103560F0,extended,000003E7
 
-[Cheats/Misora Kasuga Max Likeability 999] 
+//Cheats/Misora Kasuga Max Likeability 999
 patch=1,EE,103560F2,extended,000003E7
 
-[Cheats/Chachamaru Kakuri Max Likeability 999] 
+//Cheats/Chachamaru Kakuri Max Likeability 999
 patch=1,EE,103560F4,extended,000003E7
 
-[Cheats/En the Kugimiya Max Likeability 999] 
+//Cheats/En the Kugimiya Max Likeability 999
 patch=1,EE,103560F6,extended,000003E7
 
-[Cheats/Furufei Max Likeability 999] 
+//Cheats/Furufei Max Likeability 999
 patch=1,EE,103560F8,extended,000003E7
 
-[Cheats/Kinoka Konoe Max Likeability 999] 
+//Cheats/Kinoka Konoe Max Likeability 999
 patch=1,EE,103560FA,extended,000003E7 
 
-[Cheats/Haruna Saotome Max Likeability 999]  
+//Cheats/Haruna Saotome Max Likeability 999
 patch=1,EE,103560FC,extended,000003E7
 
-[Cheats/Setsuna Sakurasaki Max Likeability 999]  
+//Cheats/Setsuna Sakurasaki Max Likeability 999
 patch=1,EE,103560FE,extended,000003E7
 
-[Cheats/Makie Sasaki Max Likeability 999] 
+//Cheats/Makie Sasaki Max Likeability 999
 patch=1,EE,10356100,extended,000003E7
 
-[Cheats/Sakurako Shiina Max Likeability 999] 
+//Cheats/Sakurako Shiina Max Likeability 999
 patch=1,EE,10356102,extended,000003E7
 
-[Cheats/Mana Ryugu Max Likeability 999] 
+//Cheats/Mana Ryugu Max Likeability 999
 patch=1,EE,10356104,extended,000003E7
 
-[Cheats/Super Suzune Max Likeability 999] 
+//Cheats/Super Suzune Max Likeability 999
 patch=1,EE,10356106,extended,000003E7
 
-[Cheats/Kaede Nagase Max Likeability 999]  
+//Cheats/Kaede Nagase Max Likeability 999
 patch=1,EE,10356108,extended,000003E7
 
-[Cheats/Chizuru Nanami Max Likeability 999]  
+//Cheats/Chizuru Nanami Max Likeability 999
 patch=1,EE,1035610A,extended,000003E7
 
-[Cheats/Kaze Narutaki Kaori  Max Likeability 999] 
+//Cheats/Kaze Narutaki Kaori  Max Likeability 999
 patch=1,EE,1035610C,extended,000003E7 
 
-[Cheats/Fumika Narutaki Max Likeability 999]  
+//Cheats/Fumika Narutaki Max Likeability 999
 patch=1,EE,1035610E,extended,000003E7
 
-[Cheats/Satomi Hakase Max Likeability 999] 
+//Cheats/Satomi Hakase Max Likeability 999
 patch=1,EE,10356110,extended,000003E7 
 
-[Cheats/Chien Hasegawa  Max Likeability 999] 
+//Cheats/Chien Hasegawa  Max Likeability 999
 patch=1,EE,10356112,extended,000003E7
 
-[Cheats/Eva Max Likeability 999]  
+//Cheats/Eva Max Likeability 999
 patch=1,EE,10356114,extended,000003E7
 
-[Cheats/Nodoka Miyazaki Max Likeability 999] 
+//Cheats/Nodoka Miyazaki Max Likeability 999
 patch=1,EE,10356116,extended,000003E7
 
-[Cheats/Natsumi Murakami Max Likeability 999]  
+//Cheats/Natsumi Murakami Max Likeability 999
 patch=1,EE,10356118,extended,000003E7
 
-[Cheats/Ayaka Yukihiro Max Likeability 999] 
+//Cheats/Ayaka Yukihiro Max Likeability 999
 patch=1,EE,1035611A,extended,000003E7
 
-[Cheats/Satsuki Yotsuba  Max Likeability 999] 
+//Cheats/Satsuki Yotsuba  Max Likeability 999
 patch=1,EE,1035611C,extended,000003E7 
 
-[Cheats/Zaji Max Likeability 999]  
+//Cheats/Zaji Max Likeability 999
 patch=1,EE,1035611E,extended,000003E7
 
-[Cheats/Unlock Asuna Playable If you make Asuna your 1st partner, you can play as Asuna. If you press the SELECT button while making your selection, it will also become a swimsuit] 
+//Cheats/Unlock Asuna Playable If you make Asuna your 1st partner, you can play as Asuna. If you press the SELECT button while making your selection, it will also become a swimsuit
 patch=1,EE,00356192,extended,00000001
 patch=1,EE,20104CA4,extended,24020001
 
-[Cheats/Unlock Extra In Title] 
+//Cheats/Unlock Extra In Title
 patch=1,EE,003563B0,extended,00000001
 
-[Cheats/Unlock All Bonus Video]
+//Cheats/Unlock All Bonus Video
 patch=1,EE,003563B4,extended,000000FF
 
-[Cheats/Unlock All Bonus Ending Collection] 
+//Cheats/Unlock All Bonus Ending Collection
 patch=1,EE,203563C0,extended,01010101
 patch=1,EE,203563C4,extended,01010101
 patch=1,EE,203563C8,extended,01010101
@@ -170,17 +170,17 @@ patch=1,EE,203563D4,extended,01010101
 patch=1,EE,203563D8,extended,01010101
 patch=1,EE,203563DC,extended,01010101
 
-[Cheats/Unlock All Bonus Ending Collection Extreme Exclusive] 
+//Cheats/Unlock All Bonus Ending Collection Extreme Exclusive
 patch=1,EE,403563C0,extended,00080001
 patch=1,EE,01010101,extended,00000000
 
-[Cheats/Unlock All Characters]  
+//Cheats/Unlock All Characters
 patch=1,EE,00356021,extended,000000FF
 patch=1,EE,10356022,extended,0000FFFF
 patch=1,EE,40356024,extended,00070001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock All Menu Options] 
+//Cheats/Unlock All Menu Options
 patch=1,EE,203563B0,extended,00000001
 patch=1,EE,003563C1,extended,00000001
 patch=1,EE,103563C2,extended,00000101

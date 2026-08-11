@@ -1,31 +1,31 @@
-[Cheats/Max CP]  
+//Cheats/Max CP
 patch=1,EE,202671E0,extended,3C020099
 patch=1,EE,202671E4,extended,03E00008
 patch=1,EE,202671E8,extended,2442967F
 
-[Cheats/1 Hit 9999  Player Phase Commands Press R1 here and Until Fight Ending] 
+//Cheats/1 Hit 9999  Player Phase Commands Press R1 here and Until Fight Ending
 patch=1,EE,D03B4982,extended,0010D7FF
 patch=1,EE,2027B4F0,extended,00022CBE
 patch=1,EE,D03B4982,extended,0000D7FF
 patch=1,EE,2027B4F0,extended,2405270F
 
-[Cheats/Enemy's Dont Fight Press R3 ON L3 OFF] 
+//Cheats/Enemy's Dont Fight Press R3 ON L3 OFF
 patch=1,EE,D03B4982,extended,0000FFFB
 patch=1,EE,20220F18,extended,3C023F80
 patch=1,EE,D03B4982,extended,0000FFFD
 patch=1,EE,20220F18,extended,3C0242C8
 
-[Cheats/Max AP 12-12 Player-Enemy] 
+//Cheats/Max AP 12-12 Player-Enemy
 patch=1,EE,201C1EB8,extended,00000000
 
-[Cheats/Max CP 999 & RP 9999999] 
+//Cheats/Max CP 999 & RP 9999999
 patch=1,EE,20267100,extended,03E00008
 patch=1,EE,20267104,extended,240203E7
 patch=1,EE,202671E0,extended,3C020099
 patch=1,EE,202671E4,extended,03E00008
 patch=1,EE,202671E8,extended,2442967F
 
-[Cheats/All Skills in Stock List] 
+//Cheats/All Skills in Stock List
 patch=1,EE,406975A4,extended,00060048
 patch=1,EE,FFE37DFE,extended,00000000
 patch=1,EE,406975A8,extended,00060048
@@ -39,20 +39,20 @@ patch=1,EE,0444444C,extended,00000000
 patch=1,EE,406975B8,extended,00060048
 patch=1,EE,000003FE,extended,00000000
 
-[Cheats/Max Acquisition Financial 9999999] 
+//Cheats/Max Acquisition Financial 9999999
 patch=1,EE,2014B5D8,extended,3C060099
 
-[Cheats/Max Acquisition experience Level 50] 
+//Cheats/Max Acquisition experience Level 50
 patch=1,EE,2014B5DC,extended,3C070099
 
-[Cheats/Max Acquisition RP 999] 
+//Cheats/Max Acquisition RP 999
 patch=1,EE,2014B5D4,extended,3C050099
 
-[Cheats/No Fight Press Select+UP Enemy-Player Phase off Press Select+DOWN Enemy-Player Phase on]  
+//Cheats/No Fight Press Select+UP Enemy-Player Phase off Press Select+DOWN Enemy-Player Phase on
 patch=1,EE,D03B4982,extended,0000FFEE
 patch=1,EE,20220EDC,extended,00000000
 patch=1,EE,D03B4982,extended,0000FFBE
 patch=1,EE,20220EDC,extended,46001081
 
-[Cheats/Unlock All 68 Event List on Theater Needs a Save] 
+//Cheats/Unlock All 68 Event List on Theater Needs a Save
 patch=1,EE,2031801C,extended,24020001

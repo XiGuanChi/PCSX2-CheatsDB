@@ -1,10 +1,10 @@
-[Cheats/Infinite Health Player 1] 
+//Cheats/Infinite Health Player 1
 patch=1,EE,1104FD78,extended,00000066
 
-[Cheats/1 Hit Death Player 2] 
+//Cheats/1 Hit Death Player 2
 patch=1,EE,D104FF78,extended,00000066
 patch=1,EE,1104FF78,extended,00000001
 
-[Cheats/P1 Starts With 2 Wins] 
+//Cheats/P1 Starts With 2 Wins
 patch=1,EE,D1052332,extended,00000000
 patch=1,EE,01052332,extended,00000002

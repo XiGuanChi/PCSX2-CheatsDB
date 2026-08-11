@@ -1,19 +1,19 @@
-[Cheats/Infinite Health P1] 
+//Cheats/Infinite Health P1
 patch=1,EE,203D87B4,extended,0000005F
 
-[Cheats/Infinite Spirit Energy P1] 
+//Cheats/Infinite Spirit Energy P1
 patch=1,EE,203D8968,extended,42D20000
 
-[Cheats/1 Hit Death P2] 
+//Cheats/1 Hit Death P2
 patch=1,EE,103D9228,extended,00000096
 patch=1,EE,D03D9054,extended,00300001
 patch=1,EE,103D9054,extended,00000001
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,4049D558,extended,00050001
 patch=1,EE,FFFFFFFF,extended,00000000
 
-[Cheats/Unlock Everything alt] 
+//Cheats/Unlock Everything alt
 patch=1,EE,1049D558,extended,0000FFFF
 patch=1,EE,1049D55A,extended,0000FFFF
 patch=1,EE,1049D55C,extended,0000FFFF

@@ -1,13 +1,13 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,20338908,extended,00000001
 
-[Cheats/Unlock All Character Cards] 
+//Cheats/Unlock All Character Cards
 patch=1,EE,203388e8,extended,03ffffff
 
-[Cheats/Unlock All Levels] 
+//Cheats/Unlock All Levels
 patch=1,EE,203386c4,extended,fffffffff
 patch=1,EE,203386c8,extended,ffffffffff
 
-[Cheats/Unlock All Levels 2]  
+//Cheats/Unlock All Levels 2
 patch=1,EE,40338674,extended,00130001
 patch=1,EE,00000001,extended,00000000

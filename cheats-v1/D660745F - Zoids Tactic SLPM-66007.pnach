@@ -1,28 +1,28 @@
-[Cheats/BP 999999] 
+//Cheats/BP 999999
 patch=1,EE,210A02D8,extended,000F423F
 
-[Cheats/Zoids modification Infinite BP] 
+//Cheats/Zoids modification Infinite BP
 patch=1,EE,20260138,extended,00000000
 patch=1,EE,2026015C,extended,00801821
 
-[Cheats/Infinite SP]  
+//Cheats/Infinite SP
 patch=1,EE,202907DC,extended,24440000
 patch=1,EE,20290824,extended,26050000
 
-[Cheats/Zoids modification Infinite LIMIT] 
+//Cheats/Zoids modification Infinite LIMIT
 patch=1,EE,20260108,extended,00000000
 patch=1,EE,20260178,extended,00000000
 
-[Cheats/LIMIT 99 when allocating Zoids modification points] 
+//Cheats/LIMIT 99 when allocating Zoids modification points
 patch=1,EE,20260104,extended,24030063
 patch=1,EE,2026010C,extended,AE030148
 patch=1,EE,20260178,extended,00000000
 
-[Cheats/Action completed unit can be reactivated Move the cursor to the unit whose action has ended and press the Circle button.] 
+//Cheats/Action completed unit can be reactivated Move the cursor to the unit whose action has ended and press the Circle button.
 patch=1,EE,20275E38,extended,A080000C
 patch=1,EE,20275E3C,extended,00000000
 
-[Cheats/Unit HP control In Battle Move the cursor to the unit and press Square+L1 button to recover HP, press Square+L2 button to recover HP] 
+//Cheats/Unit HP control In Battle Move the cursor to the unit and press Square+L1 button to recover HP, press Square+L2 button to recover HP
 patch=1,EE,2029A7A8,extended,8C450028
 patch=1,EE,2029A7B0,extended,00000000
 patch=1,EE,D0E2A282,extended,00007BFF
@@ -32,46 +32,46 @@ patch=1,EE,2029A7A8,extended,24050001
 patch=1,EE,D0E2A282,extended,00007EFF
 patch=1,EE,2029A7B0,extended,AC450020
 
-[Cheats/Unit EN operation In Battle Move the cursor to the unit and press Square+R1 button to recover EN, press Square+R2 button to recover EN0.] 
+//Cheats/Unit EN operation In Battle Move the cursor to the unit and press Square+R1 button to recover EN, press Square+R2 button to recover EN0.
 patch=1,EE,2029A7C0,extended,00000000
 patch=1,EE,D0E2A282,extended,000077FF
 patch=1,EE,2029A7C0,extended,AC450024
 patch=1,EE,D0E2A282,extended,00007DFF
 patch=1,EE,2029A7C0,extended,AC400024
 
-[Cheats/Zoids replacement 9 total replacement parts When replacing Zoids, press the triangle button to see a list of optional parts] 
+//Cheats/Zoids replacement 9 total replacement parts When replacing Zoids, press the triangle button to see a list of optional parts
 patch=1,EE,2025F2FC,extended,24030909
 patch=1,EE,2025F300,extended,A4430000
 patch=1,EE,2025F32C,extended,28E30075
 
-[Cheats/Zoids Replacement 9 total optional parts When replacing Zoids, press the triangle button to see a list of optional parts] 
+//Cheats/Zoids Replacement 9 total optional parts When replacing Zoids, press the triangle button to see a list of optional parts
 patch=1,EE,2025F358,extended,24030909
 patch=1,EE,2025F35C,extended,A5030000
 patch=1,EE,2025F384,extended,28E30032
 
-[Cheats/Unlock EX moves can be selected without charging Even if the display is red not selectable, you can select it if it has range and EN.] 
+//Cheats/Unlock EX moves can be selected without charging Even if the display is red not selectable, you can select it if it has range and EN.
 patch=1,EE,20282950,extended,10000002
 
-[Cheats/Unlock EX Stage A, B added to title To start, you need the main story data any episode is fine] 
+//Cheats/Unlock EX Stage A, B added to title To start, you need the main story data any episode is fine
 patch=1,EE,010A02A8,extended,00000003
 
-[Cheats/Added Ally Unit Altitude Command] 
+//Cheats/Added Ally Unit Altitude Command
 patch=1,EE,20287168,extended,34420003
 patch=1,EE,2028716C,extended,AC820010
 patch=1,EE,20287180,extended,34420003
 patch=1,EE,20287184,extended,AC820010
 
-[Cheats/Successful Capture regardless of physical strength Only stray Zoids can be captured] 
+//Cheats/Successful Capture regardless of physical strength Only stray Zoids can be captured
 patch=1,EE,20275540,extended,10000A44
 
-[Cheats/Unlock All Database Zoids Picture Book]
+//Cheats/Unlock All Database Zoids Picture Book
 patch=1,EE,210A0284,extended,FFFFFFFF
 patch=1,EE,210A0288,extended,FFFFFFFF
 patch=1,EE,210A028C,extended,FFFFFFFF
 patch=1,EE,210A0290,extended,FFFFFFFF
 patch=1,EE,210A0294,extended,FFFFFFFF
 
-[Cheats/Unlock All Database Full character encyclopedia] 
+//Cheats/Unlock All Database Full character encyclopedia
 patch=1,EE,210A0298,extended,FFFFFFFF
 patch=1,EE,210A029C,extended,FFFFFFFF
 patch=1,EE,210A02A0,extended,FFFFFFFF

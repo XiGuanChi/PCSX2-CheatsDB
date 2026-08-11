@@ -1,8 +1,8 @@
-[Cheats/Player 1 Press L2+Down Infinite Energy] 
+//Cheats/Player 1 Press L2+Down Infinite Energy
 patch=1,EE,D07878C2,extended,0000FEBF
 patch=1,EE,2035F184,extended,00000000
 
-[Cheats/P1 Press L1+Up For Infinite Health Character 1 Arena Battle] 
+//Cheats/P1 Press L1+Up For Infinite Health Character 1 Arena Battle
 patch=1,EE,200C0200,extended,8C810038
 patch=1,EE,200C0204,extended,14200002
 patch=1,EE,200C0208,extended,8C810144
@@ -12,6 +12,6 @@ patch=1,EE,200C0214,extended,C4800140
 patch=1,EE,D07878C3,extended,0000FBEF
 patch=1,EE,2035F390,extended,08030080
 
-[Cheats/Unlock Everything] 
+//Cheats/Unlock Everything
 patch=1,EE,2072600C,extended,24010001
 patch=1,EE,20726010,extended,A041000D

@@ -1,10 +1,10 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,200FFF08,extended,8C810650
 patch=1,EE,200FFF0C,extended,AC81064C
 patch=1,EE,201D5CAC,extended,0C03FFC0
 patch=1,EE,200FFF18,extended,08075D10
 
-[Cheats/Infinite Rage] 
+//Cheats/Infinite Rage
 patch=1,EE,200FFF00,extended,8C810658
 patch=1,EE,200FFF04,extended,AC810654
 patch=1,EE,201D5CAC,extended,0C03FFC0

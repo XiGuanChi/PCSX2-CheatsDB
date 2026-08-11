@@ -1,16 +1,16 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,203EC450,extended,24020001
 
-[Cheats/Infinite Ammo] 
+//Cheats/Infinite Ammo
 patch=1,EE,203F3A3C,extended,00000000
 
-[Cheats/Infinite Time In Missions Press L2 Stop Time L1 Resume] 
+//Cheats/Infinite Time In Missions Press L2 Stop Time L1 Resume
 patch=1,EE,D077741C,extended,0000FEFF
 patch=1,EE,203F99A4,extended,C48C0000
 patch=1,EE,D077741C,extended,0000FBFF
 patch=1,EE,203F99A4,extended,46140300
 
-[Cheats/Unlock All Weapons] 
+//Cheats/Unlock All Weapons
 patch=1,EE,4075D890,extended,00060001
 patch=1,EE,01010101,extended,00000000
 patch=1,EE,1075D8A8,extended,00000101

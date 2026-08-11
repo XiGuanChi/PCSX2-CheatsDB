@@ -1,36 +1,36 @@
-[Cheats/Max Groove Gauge When Groove Gauge Fluctuates BATTLE not supported] 
+//Cheats/Max Groove Gauge When Groove Gauge Fluctuates BATTLE not supported
 patch=1,EE,20149D40,extended,00000000
 
-[Cheats/Max Mileage]  
+//Cheats/Max Mileage
 patch=1,EE,219B3D5C,extended,3B9AC9FF
 
-[Cheats/Autoplay] 
+//Cheats/Autoplay
 patch=1,EE,2024666C,extended,00000001
 
-[Cheats/Autoplay ON Press SELECT+L2 OFF Press SELECT+R2]  
+//Cheats/Autoplay ON Press SELECT+L2 OFF Press SELECT+R2
 patch=1,EE,D19B3202,extended,0000FEFE
 patch=1,EE,2014CF28,extended,24030001
 patch=1,EE,D19B3202,extended,0000FDFE
 patch=1,EE,2014CF28,extended,8F83877C
 
-[Cheats/Max Number Of Plays By Playing Each Song Once] 
+//Cheats/Max Number Of Plays By Playing Each Song Once
 patch=1,EE,2018D208,extended,240203E7
 
-[Cheats/Enter RECORDS And All Songs Played 999 Times] 
+//Cheats/Enter RECORDS And All Songs Played 999 Times
 patch=1,EE,2016A9E8,extended,240503E7
 patch=1,EE,2016A9F4,extended,A5053B34
 patch=1,EE,2016A9F8,extended,1000FFCB
 patch=1,EE,2016A9FC,extended,AD82000
 
-[Cheats/Unlock Marathon Mode Added] 
+//Cheats/Unlock Marathon Mode Added
 patch=1,EE,219B3C98,extended,30000000
 
-[Cheats/Unlock Secret Acquisition Rate 100%] 
+//Cheats/Unlock Secret Acquisition Rate 100%
 patch=1,EE,219B3D60,extended,FFFFFFFF
 patch=1,EE,219B3D64,extended,FFFFFFFF
 patch=1,EE,019B3D3C,extended,000000FF
 
-[Cheats/Unlock All Onake]
+//Cheats/Unlock All Onake
 patch=1,EE,219B3C88,extended,FFFFFFFF
 patch=1,EE,219B3C8C,extended,FFFFFFFF
 patch=1,EE,21A48A5A,extended,00000001

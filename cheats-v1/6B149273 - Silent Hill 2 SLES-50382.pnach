@@ -1,12 +1,12 @@
-[Cheats/Infinite Health] 
+//Cheats/Infinite Health
 patch=1,EE,203EDEF4,extended,42C80000
 patch=1,EE,203EDEF8,extended,42C80000
 
-[Cheats/Press L1+L2 Have all weapons]
+//Cheats/Press L1+L2 Have all weapons
 patch=1,EE,D103AB02,extended,0000FAFF
 patch=1,EE,11125C60,extended,0000FD50
 
-[Cheats/Press L2+R2 Have all items] 
+//Cheats/Press L2+R2 Have all items
 patch=1,EE,D103AB02,extended,0000FCFF
 patch=1,EE,11125C62,extended,0000FFFF
 patch=1,EE,D103AB02,extended,0000FCFF
@@ -16,6 +16,6 @@ patch=1,EE,11125C66,extended,0000FFFF
 patch=1,EE,D103AB02,extended,0000FCFF
 patch=1,EE,11125C68,extended,0000FFFF
 
-[Cheats/Shoot for Infinite Hand Gun Ammo] 
+//Cheats/Shoot for Infinite Hand Gun Ammo
 patch=1,EE,D103AB02,extended,0000BDFF
 patch=1,EE,11125C74,extended,0000000A

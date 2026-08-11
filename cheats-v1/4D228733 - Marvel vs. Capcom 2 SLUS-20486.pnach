@@ -1,23 +1,23 @@
-[Cheats/Player 1 - Infinite Health Character 1] 
+//Cheats/Player 1 - Infinite Health Character 1
 patch=1,EE,104F24E4,extended,00000090
 
-[Cheats/Player 1 - Infinite Health Character 2] 
+//Cheats/Player 1 - Infinite Health Character 2
 patch=1,EE,104F3054,extended,00000090
 
-[Cheats/Player 1 - Infinite Health Character 3] 
+//Cheats/Player 1 - Infinite Health Character 3
 patch=1,EE,104F3BC4,extended,00000090
 
-[Cheats/Unlock All Characters] 
+//Cheats/Unlock All Characters
 patch=1,EE,204F4330,extended,F8FFFFFF
 patch=1,EE,204F4334,extended,07FFFFFF
 
-[Cheats/Unlock All New Colors] 
+//Cheats/Unlock All New Colors
 patch=1,EE,204F4338,extended,F8FFFFFF
 patch=1,EE,204F433C,extended,07FFFFFF
 
-[Cheats/Unlock All Gallery] 
+//Cheats/Unlock All Gallery
 patch=1,EE,204F7FB4,extended,FFFFFFFF
 patch=1,EE,204F7FB8,extended,FFFFFFFF
 
-[Cheats/Unlock All Stages]  
+//Cheats/Unlock All Stages
 patch=1,EE,004D179A,extended,00000007
