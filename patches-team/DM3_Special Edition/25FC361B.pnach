@@ -1,13 +1,15 @@
 gametitle=Devil May Cry 3 - Special Edition (SLUS_21361)
 comment=Widescreen hack by No.47
+
+[Widescreen Hack]
 patch=1,EE,21D0DEA0,word,3F400000 //horizontal fov
 patch=1,EE,206A2870,word,3F400000 //hud fix, pause screen fix
 
-//FMV's fix
+[FMV's fix]
 patch=1,EE,0023279c,word,240301aa //intro / demo
 patch=1,EE,002e52ec,word,240801aa //cutscenes
 
-//Parse ef.v
+[Parse ef.v]
 patch=0,EE,200FFF98,extended,341B0003
 patch=0,EE,200FFF9C,extended,145B0002
 patch=0,EE,200FFFA4,extended,34020000
@@ -22,28 +24,28 @@ patch=0,EE,200FFFD8,extended,03E00008
 patch=0,EE,200FFFDC,extended,0040B02D
 patch=0,EE,2028405C,extended,0C03FFE6
 patch=0,EE,20284060,extended,00000000
-//Pause menu performance tweak
+[Pause menu performance tweak]
 patch=0,EE,0023E038,extended,24050000
 patch=0,EE,0023E070,extended,24050000
 patch=0,EE,0023E128,extended,24050000
-//Pause menu clear noise texture
+[Pause menu clear noise texture]
 patch=0,EE,0023E160,extended,24050000
 patch=0,EE,0023E198,extended,24050000
-//Widescreen alternate code
+[Widescreen alternate code]
 patch=1,EE,E0010040,extended,11DODEA2
 patch=1,EE,01DODEA2,extended,40
-//Partial 2d menu - (text still 4:3)
+[Partial 2d menu - (text still 4:3)]
 patch=1,EE,E0010040,extended,106A2872
 patch=1,EE,006A2872,extended,40
-//progressive scan - 224p (is a field renderer game)
+[progressive scan - 224p (is a field renderer game)]
 patch=0,EE,201029C4,extended,3C050000
 patch=0,EE,201029CC,extended,3C060050
 patch=0,EE,201029D4,extended,3C070001
 patch=0,EE,20102C84,extended,3C0700E0
-//Bypass Interleacing f.
+[Bypass Interleacing f.]
 patch=0,EE,0013CCFC,extended,30630000
 
-//Widescreen 16:9
+[Widescreen 16:9]
 patch=1,EE,E0010040,extended,11D0DEA2
 patch=1,EE,01D0DEA2,extended,40
 
@@ -51,7 +53,7 @@ patch=1,EE,E0010040,extended,106A2872
 patch=1,EE,006A2872,extended,40
 patch=0,EE,20134B64,extended,0804D2FC
 
-//Disable Bloom, Blur, Noise, Filters
+[Disable Bloom, Blur, Noise, Filters]
 patch=1,EE,001C4BD0,word,1000000B
 patch=1,EE,001AA2B4,word,3C033BB0
 patch=0,EE,200FFF98,extended,341B0003
