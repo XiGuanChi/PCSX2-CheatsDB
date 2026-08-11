@@ -3,11 +3,11 @@ gametitle=Gran Turismo 4 Spec II [SCUS-97436] (U)
 comment=Allows you to see how many points over 200 a race *would* result in (actual is capped at 255 so does not save correctly)
 author=TheAdmiester
 
-[NOP the instruction that sets points back to 200.0 in RaceOrganization::getPreScore]
+// NOP the instruction that sets points back to 200.0 in RaceOrganization::getPreScore
 patch=1,EE,2028771C,extended,00000000
 
-[Set return register to actual integer value of points]
+// Set return register to actual integer value of points
 patch=1,EE,20287740,extended,00801020
 
-[Move the conditional jump we overwrote at 0x287740 just in case, and make unconditional]
+// Move the conditional jump we overwrote at 0x287740 just in case, and make unconditional
 patch=1,EE,20287744,extended,0C0A1DD8

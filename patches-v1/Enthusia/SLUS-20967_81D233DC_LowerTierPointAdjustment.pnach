@@ -3,10 +3,10 @@ gametitle=Enthusia Professional Racing
 comment=When the player is at RS or RI rank, all lower-tier events will be worth 200 base points to match RI
 author=TheAdmiester
 
-[Jump from "CalculateMaxTier" to unused CarDebug function, holding onto the value (v0) it was about to return (0-5 to represent tiers)]
+// Jump from "CalculateMaxTier" to unused CarDebug function, holding onto the value (v0) it was about to return (0-5 to represent tiers)
 patch=0,EE,2016E9B4,extended,080632B6
 
-[Overwrite CarDebug with our own function that checks if the value held is less than 2, then overwrites the base points table (or reverts to standard if not)]
+// Overwrite CarDebug with our own function that checks if the value held is less than 2, then overwrites the base points table (or reverts to standard if not)
 patch=0,EE,2018CAD8,extended,244F0000
 patch=0,EE,2018CADC,extended,3C0E0047
 patch=0,EE,2018CAE0,extended,35CEA6D0
