@@ -19,7 +19,7 @@ patch=1,EE,2046002C,extended,34210000 // ori at,0x0000 : Text Height 2nd-Half of
 patch=1,EE,20460030,extended,44810800 // mtc1 at,f01
 patch=1,EE,20460034,extended,0808F767 // j 0x0023DD9C
 patch=1,EE,2023DDD0,extended,E6210260 // swc1 f01,0x260(s1) : Uses f01 to seperate Text Height from Text Width
-[/////////////////////////////////////////////////////////////////////////////////////////////////////////////////]
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 patch=1,EE,20195D7C,extended,08118040 // j 0x00460100
 patch=1,EE,20460100,extended,46000506 // mov.s f20,f00
 patch=1,EE,20460104,extended,3C09002B // lui t1,0x002B : Widescreen Mode 1st-Half of Memory Address
@@ -33,7 +33,7 @@ patch=1,EE,20460120,extended,3C0B3F40 // lui t3,0x3F40 : Text Position 1st-Half 
 patch=1,EE,20460124,extended,356B0000 // ori t3,0x0000 : Text Position 2nd-Half of Float Value (16:9)
 patch=1,EE,20460128,extended,448B0000 // mtc1 t3,f00
 patch=1,EE,2046012C,extended,08065761 // j 0x00195D84
-[/////////////////////////////////////////////////////////////////////////////////////////////////////////////////]
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 patch=1,EE,20188B80,extended,00000000 // nop : Prevents License Reward Text from being overcorrected in widescreen
 patch=1,EE,20191744,extended,00000000 // nop : Prevents HUD Text from being overcorrected in widescreen
 patch=1,EE,201B1564,extended,10000010 // b 0x001B15A8 : Prevents Race Results Text from being overcorrected in widescreen
