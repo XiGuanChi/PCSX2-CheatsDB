@@ -4,10 +4,10 @@ gametitle=LMA Manager 2007 (E)(SLES-54225)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[02a51946 b00006e6]
+//X-Fov
+//02a51946 b00006e6
 patch=1,EE,003bc004,word,08118044
 
 patch=1,EE,00460110,word,4619a502

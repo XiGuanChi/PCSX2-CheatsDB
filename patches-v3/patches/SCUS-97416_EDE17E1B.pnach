@@ -12,7 +12,7 @@ patch=1,EE,00323f3c,word,3c014396
 gsinterlacemode=1
 description=No Interlacing
 
-[No Interlacing]
+//No Interlacing
 patch=1,EE,002DC96C,word,30630000
 patch=1,EE,002DF580,word,30520000
 patch=1,EE,00345AC0,word,30420000

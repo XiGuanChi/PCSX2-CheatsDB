@@ -4,7 +4,7 @@ gametitle=Red Ninja - End of Honor (PAL-G) (SLES-53026) 2F4D8BA5
 gsaspectratio=16:9
 author=ElHecht
 description=Widescreen hack
-[16:9]
+// 16:9
 patch=1,EE,0036e0c4,word,3c013f40 // 3c013f80 hor fov1
 patch=1,EE,0036e0c8,word,44817000 // 44816000
 patch=1,EE,0036e0d8,word,460e7303 // 46006386

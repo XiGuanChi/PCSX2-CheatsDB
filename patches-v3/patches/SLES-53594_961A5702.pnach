@@ -4,7 +4,7 @@ gametitle=Living World Racing (E)(SLES-53594)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,0033bb18,word,080e8344 // c6010068
 patch=1,EE,0033bb1c,word,00000000 // c602006c

@@ -4,7 +4,7 @@ gametitle=Splashdown [PAL-M5] (SLES_504.86) (Original game 66CFAB3C)
 gsaspectratio=16:9
 author=sergx12 and El_Patas
 
-[Gameplay 16:9]
+//Gameplay 16:9
 patch=1,EE,00213EB4,word,3C023FE4 //3C023FAA Y-FOV
 patch=1,EE,00213EB8,word,34428E39 //3442AAAB
 patch=1,EE,00214BEC,word,3C023CAC //3C023C8E Zoom

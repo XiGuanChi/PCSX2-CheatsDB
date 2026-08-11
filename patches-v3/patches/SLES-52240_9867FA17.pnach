@@ -4,7 +4,7 @@ gametitle=International Pool Championship (E)(SLES-52240)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,00159158,word,3c013f40 //3c013f80
 

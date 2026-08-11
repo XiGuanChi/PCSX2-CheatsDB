@@ -4,7 +4,7 @@ gametitle=CSI - Crime Scene Investigation (PAL-M5) (SLES-54465)
 gsaspectratio=16:9
 author=ElHecht
 
-[16:9]
+// 16:9
 patch=1,EE,00272c90,word,3c033f40 // 3c033f80 hor fov
 patch=1,EE,00272c9c,word,46000803 // 46010003 hor fov
 patch=1,EE,0017a3bc,word,3c02402b // 3c024000 renderfix 1
@@ -19,7 +19,7 @@ patch=1,EE,00272e94,word,3c033faa // 3c033f80 font fix3
 patch=1,EE,00272ee8,word,3463aaab // 44830800 font fix3
 patch=1,EE,00272eec,word,44830800 // 00000000 font fix3
 
-[16:10]
+// 16:10
 //patch=1,EE,00272c90,word,3c033f55 // 3c033f80 hor fov
 //patch=1,EE,00272c94,word,34425555 // 44830000 hor fov
 //patch=1,EE,00272c98,word,44830000 // 00000000 hor fov

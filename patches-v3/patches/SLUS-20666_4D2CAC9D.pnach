@@ -12,11 +12,11 @@ patch=1,EE,001051d8,word,44810000
 patch=1,EE,001051e0,word,4600c602
 
 
-[480i]
+//480i
 patch=1,EE,0013B818,word,24050001
 
 
-[font fix]
+//font fix
 patch=1,EE,001878f8,word,24080012
 patch=1,EE,001892e0,word,24080017
 patch=1,EE,001946C4,word,24080017
@@ -26,7 +26,7 @@ patch=1,EE,001d382c,word,24080017
 patch=1,EE,0013e258,word,24090017
 patch=1,EE,0013e264,word,24C60007
 
-[portrait fix]
+//portrait fix
 patch=1,EE,001944a4,word,2648001e //2648000a
 patch=1,EE,001944cc,word,2409003c //24090050
 

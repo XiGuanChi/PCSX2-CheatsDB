@@ -4,7 +4,7 @@ gametitle=Sega Ages 2500 Vol 26 - Dynamite Deka (NTSC-J) (SLPM-62717)
 gsaspectratio=16:9
 author=ElHecht
 
-[16:9]
+// 16:9
 patch=1,EE,001bf138,word,3c013f40 // 00000000 hor fov
 patch=1,EE,001bf13c,word,4481f000 // 00000000
 patch=1,EE,001bf144,word,461e6302 // 00000000

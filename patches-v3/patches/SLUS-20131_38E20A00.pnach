@@ -4,9 +4,9 @@ gametitle=Dark Angel - Vampire Apocalypse (U)(SLUS-20131)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen 16:9]
+//Widescreen 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,00210e3c,word,08081008 //c7a00024
 
 patch=1,EE,00204020,word,c7a00024 //00000000

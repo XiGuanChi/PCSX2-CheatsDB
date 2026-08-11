@@ -4,7 +4,7 @@ gametitle=James Bond 007 - From Russia With Love (J)(SLPM-66322)
 gsaspectratio=16:9
 author=nemesis2000 (NTSC-J by Arapapa)
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,0040570c,word,46140002 //e7b40030
 patch=1,EE,00405710,word,27a50030 //46140002

@@ -3,8 +3,8 @@ gametitle=Tom Clancy's Splinter Cell * NTSC-K * SLKA-25061 * 040421BE
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000 & arapapa
-[Ported by arapapa from the NTSC-U hack by nemesis2000.]
-[Search values are different than NTSC-U.]
+// Ported by arapapa from the NTSC-U hack by nemesis2000.
+// Search values are different than NTSC-U.
 
 patch=1,EE,001d0b14,word,8f828ff8
 patch=1,EE,001d0b18,word,14400005

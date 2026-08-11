@@ -4,7 +4,7 @@ gametitle= NBA Street (NTSC-U)
 gsaspectratio=16:9
 author=VIRGIN KLM
 
-[Widescreen - 3D Elements]
+//Widescreen - 3D Elements
 patch=1,EE,00644C48,word,3F955555 // 3F6EEEEF
 
 

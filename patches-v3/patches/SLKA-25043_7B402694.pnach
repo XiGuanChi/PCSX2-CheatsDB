@@ -5,13 +5,13 @@ gsaspectratio=16:9
 description=widescreen 16:9 (NTSC-K) hack by 99skull
 
 
-[X-Fov by ElHecht]
+//X-Fov by ElHecht
 patch=1,EE,003aa864,word,3c194455 // 3c034420 hor fov
 patch=1,EE,003aa86c,word,37395555 // 44830800 hor fov
 patch=1,EE,003aa884,word,44990800 // 00000000
 patch=1,EE,00217ab8,word,3c024456 // 3c024420 renderfix
 
-[progressive Common Code(27 line)]
+//progressive Common Code(27 line)
 //patch=1,EE,20100234,extended,24110000
 //patch=1,EE,20100244,extended,24130001
 //patch=1,EE,201004EC,extended,24160002
@@ -39,15 +39,15 @@ patch=1,EE,00217ab8,word,3c024456 // 3c024420 renderfix
 //patch=1,EE,203A4904,extended,24050000
 //patch=1,EE,203A4928,extended,0C0E90C0
 //patch=1,EE,203A4970,extended,00111D40
-[progressive 480P]
+//progressive 480P
 //patch=1,EE,20100238,extended,24120050
 //patch=1,EE,203A8010,extended,248401B8
 
-[dural selectable]
+//dural selectable
 patch=1,EE,201A4D30,word,24020001
 patch=1,EE,2023D994,word,00000000
 patch=1,EE,2023D9A8,word,00000000
-[dural random map]
+//dural random map
 patch=1,EE,0022CA5C,word,00000000
 
 

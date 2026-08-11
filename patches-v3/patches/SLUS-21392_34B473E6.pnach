@@ -4,10 +4,10 @@ gametitle=DreamWorks Shrek Smash n' Crash Racing (U)(SLUS-21392)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[02080046 5000a0e7 040040c4]
+//X-Fov
+//02080046 5000a0e7 040040c4
 patch=1,EE,00273cbc,word,08068a84
 
 patch=1,EE,001a2a10,word,46000802

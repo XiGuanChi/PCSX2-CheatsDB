@@ -3,12 +3,12 @@ gametitle=Shin Megami Tensei: Persona 4  [PAL] (SLES-55474)
 [Widescreen 16:9]
 gsaspectratio=16:9
 description=16:9 Widescreen, 60fps, & Progressive Scan
-[Personas art, Characters art, Partial HUD text & Zoom fix added by El_Patas]
+//Personas art, Characters art, Partial HUD text & Zoom fix added by El_Patas
 
-[Gameplay 16:9]
+//Gameplay 16:9
 patch=1,EE,0076461c,word,3fe38e38
 
-[FMV's fix]
+//FMV's fix
 patch=1,EE,0046a8ec,word,1460000a
 patch=1,EE,0046a8f4,word,3c03c2aa
 patch=1,EE,0046a8f8,word,10000008
@@ -16,7 +16,7 @@ patch=1,EE,0046a8fc,word,00000000
 patch=1,EE,0046a918,word,3c03c1c0
 patch=1,EE,0046a92c,word,00000000
 
-[Partial HUD fix]
+//Partial HUD fix
 patch=1,EE,00104690,word,3c043f40
 patch=1,EE,00104698,word,00731821
 patch=1,EE,0010469c,word,24639ca8
@@ -24,7 +24,7 @@ patch=1,EE,001046a4,word,00000000
 patch=1,EE,001046a8,word,24630004
 patch=1,EE,001046ac,word,3c043f80
 
-[Font fix (causes spacing errors)]
+//Font fix (causes spacing errors)
 patch=1,EE,002739a4,word,00118903
 patch=1,EE,002739a8,word,02338818
 patch=1,EE,002739b0,word,8E93001c
@@ -37,7 +37,7 @@ patch=1,EE,002764f0,word,01154018
 patch=1,EE,002764f4,word,00084103
 patch=1,EE,002764f8,word,0100982d
 
-[Personas art fix]
+//Personas art fix
 patch=1,EE,0011dcfc,word,10400032 //10400030
 patch=1,EE,0011dd08,word,1060002f //1060002d
 
@@ -55,13 +55,13 @@ patch=1,EE,0011d7a4,word,3c024340 //3c024380
 patch=1,EE,0011a194,word,00000000 //0c047778
 patch=1,EE,00136cf0,word,00000000 //0c047778
 
-[Characters art fix]
+//Characters art fix
 patch=1,EE,00355424,word,3c024340 //3c024380
 
-[Partial HUD text fix]
+//Partial HUD text fix
 patch=1,EE,001234c0,word,24020bf6 //24020ff6
 
-[Zoom fix]
+//Zoom fix
 patch=1,EE,0026cd10,word,0c0faa88 //0220202d
 patch=1,EE,0026cd14,word,0220202d //0c0faa88
 patch=1,EE,0026cd18,word,0220202d //00000000

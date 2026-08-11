@@ -4,7 +4,7 @@ gametitle=The Sims (NTSC-U)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 patch=1,EE,00326108,word,08030000 //4618b603
 patch=1,EE,000c0000,word,4618b603
 patch=1,EE,000c0004,word,3c013f40

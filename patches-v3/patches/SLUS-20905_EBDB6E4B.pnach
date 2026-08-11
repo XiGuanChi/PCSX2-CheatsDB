@@ -7,7 +7,7 @@ description=Renders the game in 16:9 aspect ratio.
 patch=0,EE,001FE8E4,word,3C023F1C //3C023F00 Zoom
 patch=0,EE,001FE910,word,3C023F10 //3C023F40 Y-FOV
 
-[Hang fix by Prafull (Only needed for pcsx2, is not needed for the PS2)]
+//Hang fix by Prafull (Only needed for pcsx2, is not needed for the PS2)
 //patch=1,EE,0010EC20,word,00000000 //40036000
 
 [Remove Blackbars]

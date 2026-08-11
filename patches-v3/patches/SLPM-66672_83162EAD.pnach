@@ -3,8 +3,8 @@ gametitle=Tom Clancy's Splinter Cell 4: Double Agent * NTSC-J * SLPM-66672 * 831
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000 & arapapa
-[Ported by arapapa from the NTSC-U hack by nemesis2000.]
-[Search values are different than NTSC-U.]
+// Ported by arapapa from the NTSC-U hack by nemesis2000.
+// Search values are different than NTSC-U.
 
 patch=1,EE,001fa040,word,e66000a4 // 00000000
 patch=1,EE,001fa044,word,3c020083 // e66000a4
@@ -80,7 +80,7 @@ author=nemesis2000 & arapapa, converted by pgert
 description=Combine with 'Widescreen 16:9'
 patch=1,EE,001fa07c,word,3c0d3f64
 
-[==========]
-[Game can run at 60 FPS as opposed to 30 with an EE cycle rate of 300%.]
-[Use at your own risk.]
-[==========]
+// ==========
+// Game can run at 60 FPS as opposed to 30 with an EE cycle rate of 300%.
+// Use at your own risk.
+// ==========

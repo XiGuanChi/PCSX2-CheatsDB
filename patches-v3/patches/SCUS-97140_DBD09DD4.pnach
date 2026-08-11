@@ -13,7 +13,7 @@ patch=1,EE,002e08ac,word,3c0144bf
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
 
-[No Interlacing]
+//No Interlacing
 patch=1,EE,002E1244,word,31310000
 patch=1,EE,002E35CC,word,30B20000
 patch=1,EE,003670e4,word,00000000 //64420008

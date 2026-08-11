@@ -4,12 +4,12 @@ gametitle=Generation of Chaos III - Toki no Fuuin (Limited Edition) (J)(SLPM-652
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[Zoom]
+//Zoom
 patch=1,EE,00103078,word,3c013fab  //3c013f80
 
-[Y-Fov]
+//Y-Fov
 patch=1,EE,001364e4,word,3c023fc0 //3c024000
 
 

@@ -4,7 +4,7 @@ gametitle=Sly Raccoon (PAL-M5) (SCES-50917)
 gsaspectratio=16:9
 author=ElHecht
 description=Renders the game in 16:9 aspect ratio, instead of 4:3.
-[16:9]
+// 16:9
 patch=1,EE,001438b0,word,08086204 // e60c01f0
 patch=1,EE,001438b4,word,00000000 // 46020842
 patch=1,EE,00218810,word,3c013f40 // 00000000 hor fov
@@ -15,7 +15,7 @@ patch=1,EE,00218824,word,46020842 // 00000000
 patch=1,EE,00218828,word,08050e2d // 00000000
 patch=1,EE,00185184,word,e61e0364 // e6010364
 
-[disable cheat-detection]
+// disable cheat-detection
 patch=1,EE,001eacd0,word,00000000 // 15200004
 patch=1,EE,001eacd8,word,00000000 // 10a00002
 patch=1,EE,001eacdc,word,00000000 // 24020001
@@ -41,14 +41,14 @@ gsinterlacemode=1
 author=asasega
 description=No Interlacing
 
-[No Interlacing by asasega]
+// No Interlacing by asasega
 patch=1,EE,20203444,word,00000000
 
 [No Motion Blur]
 author=Meos
 description=No Motion Blur
 
-[No Motion Blur by Meos]
+// No Motion Blur by Meos
 patch=1,EE,2015F32C,extended,08057CCF
 patch=1,EE,20190210,extended,08064088
 patch=1,EE,201EACD8,extended,0807AB39

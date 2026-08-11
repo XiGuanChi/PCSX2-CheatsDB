@@ -4,12 +4,12 @@ gametitle=NPPL Championship Paintball 2009 (U)(SLUS-21855)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen 16:9]
+//Widescreen 16:9
 
-[Zoom]
+//Zoom
 patch=1,EE,00237f4c,word,3c023f20 //3c023f00
 
-[Y-Fov]
+//Y-Fov
 patch=1,EE,00237f78,word,081a8558 //46000803
 patch=1,EE,006a1560,word,46000803
 patch=1,EE,006a1564,word,3c013f40

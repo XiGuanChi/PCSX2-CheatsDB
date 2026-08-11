@@ -4,16 +4,16 @@ gametitle=Backyard Wrestling 2 - There Goes the Neighborhood (E)(SLES-52686)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[Y-Fov]
+//Y-Fov
 patch=1,EE,00231728,word,3c013fcc //3c013f99
 patch=1,EE,0023172c,word,1392ccc4 //3421999a
 
-[Zoom]
+//Zoom
 patch=1,EE,0023170c,word,3c014456 //3c014420
 
-[Render fix]
+//Render fix
 patch=1,EE,00246264,word,3c01bff0 //3c01bf80
 
 patch=1,EE,0022bc7c,word,3c013ff0 //3c013f8c

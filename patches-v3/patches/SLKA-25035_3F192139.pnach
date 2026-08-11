@@ -4,12 +4,12 @@ gametitle=Kidou Senshi Gundam Senki - Lost War Chronicles (K)(SLKA-25035)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[Zoom]
+//Zoom
 patch=1,EE,00158e40,word,3c034370 //3c0343a0
 
-[Y-Fov]
+//Y-Fov
 patch=1,EE,001581dc,word,3c0343b4 //3c0343f0
 
 

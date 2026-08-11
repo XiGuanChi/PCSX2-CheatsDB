@@ -4,10 +4,10 @@ gametitle=Charlie and the Chocolate Factory (U)(SLUS-21246)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[380000c6 42000246 (1st)]
+//X-Fov
+//380000c6 42000246 (1st)
 patch=1,EE,0029c154,word,08041c28 //c6000038
 patch=1,EE,001070a0,word,c6000038 //00000000
 patch=1,EE,001070a4,word,3c1b3f40 //00000000

@@ -8,10 +8,10 @@ patch=1,EE,001aabbc,word,3421999a
 patch=1,EE,0011be04,word,3c014440
 patch=1,EE,0017c22c,word,3c01442b
 
-[alternate values]
+// alternate values
 //patch=1,EE,20367044,word,3F5EEEEF // Y-FoV - HD remaster
 
-[menu cursor width]
+// menu cursor width
 patch=1,EE,00214124,word,3c013f40
 
 [4:3 Aspect Ratio correction]

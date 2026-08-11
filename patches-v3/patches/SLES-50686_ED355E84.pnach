@@ -4,9 +4,9 @@ gametitle=Iron Aces 2 - Birds of Prey (E)(SLES-50686)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,001dd220,word,08042f48 // c6010068
 patch=1,EE,001dd224,word,00000000 // c602006c
 

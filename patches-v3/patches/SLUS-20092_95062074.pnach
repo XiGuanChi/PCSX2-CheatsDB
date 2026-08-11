@@ -4,10 +4,10 @@ gametitle=Surfing H3O (U)(SLUS-20092)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[02020746 60004324 600044c4 (1st)]
+//X-Fov
+//02020746 60004324 600044c4 (1st)
 patch=1,EE,001cf4cc,word,08030000
 
 patch=1,EE,000c0000,word,46070202

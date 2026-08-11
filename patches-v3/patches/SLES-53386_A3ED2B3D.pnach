@@ -4,9 +4,9 @@ gametitle=Charlie and the Chocolate Factory [PAL](SLES-53386)
 gsaspectratio=16:9
 author=El_Patas and Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,002f83e4,word,08041c28 //c6000038
 patch=1,EE,001070a0,word,c6000038 //00000000
 patch=1,EE,001070a4,word,3c1b3f40 //00000000

@@ -4,7 +4,7 @@ gametitle=SBK-07 - Superbike World Championship (PAL-M5) (SLES-54705)
 gsaspectratio=16:9
 author=ElHecht
 
-[16:9]
+// 16:9
 patch=1,EE,0013e5a4,word,4483e800 // 44830800
 patch=1,EE,0013e5a8,word,4600eb02 // 00000000
 patch=1,EE,0013e5ac,word,e7b40000 // 46000b02

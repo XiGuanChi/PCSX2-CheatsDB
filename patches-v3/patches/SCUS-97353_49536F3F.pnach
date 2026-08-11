@@ -49,27 +49,27 @@ patch=1,EE,200C0098,extended,8F7100CC
 patch=1,EE,200C009C,extended,ACB1FED4
 patch=1,EE,200C00A4,extended,ACA2FFFC
 
-[Refrence WORD/DWORD for widescreen]
+// Refrence WORD/DWORD for widescreen
 // Note: The patching routine uses this to patch an address before this in memory.
 patch=1,EE,200C00A8,extended,C6010218
 patch=1,EE,200C00AC,extended,C600021C
 
-[Refrence WORD/DWORD for HUD fix]
+// Refrence WORD/DWORD for HUD fix
 // Note: The patching routine uses this to patch an address before this in memory.
 patch=1,EE,200C00B0,extended,240EFFFF
 patch=1,EE,200C00B4,extended,354A0008
 
-[Replacement WORD's for widescreen]
+// Replacement WORD's for widescreen
 patch=1,EE,200C00B8,extended,0C030034
 patch=1,EE,200C00BC,extended,1060000A
 
-[Replacement WORD's for HUD fix]
+// Replacement WORD's for HUD fix
 patch=1,EE,200C00C0,extended,3C013F40
 patch=1,EE,200C00C4,extended,4481F000
 patch=1,EE,200C00C8,extended,461E1082
 patch=1,EE,200C00CC,extended,14400008
 
-[Hor FOV recalulation routine]
+// Hor FOV recalulation routine
 // This routine checks if an unpatched HOR FOV currently resides in ram,
 // by iterating through a list and patching the value if a match is found.
 patch=1,EE,200C00D0,extended,C77E0114
@@ -89,7 +89,7 @@ patch=1,EE,200C0108,extended,46010002
 patch=1,EE,200C010C,extended,03E00008
 patch=1,EE,200C0110,extended,3C1B000C
 
-[Hor scale]
+// Hor scale
 patch=1,EE,200C0114,extended,3F400000
 
 // Unpatched Hor FOV values
@@ -105,7 +105,7 @@ patch=1,EE,200C0138,extended,3F052027
 patch=1,EE,200C013C,extended,3F051EB8
 patch=1,EE,200C0140,extended,3F3340CC
 
-[Check if running in Single player]
+//Check if running in Single player
 patch=1,EE,E005DC82,extended,0013B052
 patch=1,EE,200C004C,extended,0804EC17
 patch=1,EE,200C00A0,extended,0804EC21
@@ -113,7 +113,7 @@ patch=1,EE,2013B054,extended,08030000
 patch=1,EE,2013B07C,extended,08030015
 patch=1,EE,001439FD,byte,00000001 //Force built-in widescreen
 
-[Check if running in Multiplayer]
+//Check if running in Multiplayer
 patch=1,EE,E005DC82,extended,001930B2
 patch=1,EE,200C004C,extended,08064C2F
 patch=1,EE,200C00A0,extended,08064C39

@@ -4,7 +4,7 @@ gametitle=Metal Gear Solid 2 - Substance (PAL-M5) (SLES-82009)
 gsaspectratio=16:9
 author=ElHecht
 description=Widescreen Hack
-[16:9]
+// 16:9
 patch=1,EE,0011ffd0,word,3c013f40
 
 [50 FPS]

@@ -4,7 +4,7 @@ gametitle=Myth Makers - Orbs of Doom (E)(SLES-52241)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,0034a170,word,08040034 // c6010068
 patch=1,EE,0034a174,word,00000000 // c602006c

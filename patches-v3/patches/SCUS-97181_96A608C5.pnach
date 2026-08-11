@@ -4,9 +4,9 @@ gametitle=Official U.S. PlayStation Magazine Demo Disc 055 (NTSC-U) [SCUS-97181]
 gsaspectratio=16:9
 description=Frequency demo widescreen hacks by Aced14
 
-[Frequency Demo]
+//Frequency Demo
 
-[16:9 Widescreen]
+//16:9 Widescreen
 patch=1,EE,E0FF5246,extended,00828450 //51455246 - Enable condition (check the first 2 characters in the "FREQUENCY" string)
 patch=1,EE,204E541C,extended,08144FF7 //E6000120 - j $00513fdc - Jump to injected MIPS instructions
 patch=1,EE,20513FDC,extended,3C013F40 //3C050086 - lui at, $3f40 - Set $f31 register to .75 #1

@@ -4,20 +4,20 @@ gametitle=ESPN NBA 2K5 (PAL-E) SLES-53022 CA37B42E
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[Zoom (Gameplay)]
-[9800a0e7 803f013c 00008144 00000000]
+//Zoom (Gameplay)
+//9800a0e7 803f013c 00008144 00000000
 patch=1,EE,00376c60,word,3c013f40 //3c013f80
 
-[Zoom (Menu and Cutscene)]
-[8800a0e7 803f013c 00008144 00000000]
+//Zoom (Menu and Cutscene)
+//8800a0e7 803f013c 00008144 00000000
 patch=1,EE,0012cf20,word,3c013f40 //3c013f80
 patch=1,EE,0036e8ac,word,3c013f40 //3c013f80
 patch=1,EE,003b4348,word,3c013f40 //3c013f80
 
-[Y-Fov (All)]
-[c3390046 1c0020ae]
+//Y-Fov (All)
+//c3390046 1c0020ae
 patch=1,EE,00111e28,word,08030000
 
 patch=1,EE,000c0000,word,460039c3

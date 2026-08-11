@@ -4,11 +4,11 @@ gametitle=Blood Omen 2: The Legacy of Kain Series (SLUS-20024)
 gsaspectratio=16:9
 author=pavachan & nemesis2000
 description=Renders the game in 16:9 aspect ratio, instead of 4:3.
-[Widescreen]
+//Widescreen
 patch=1,EE,00312b08,word,3C013FE3
 patch=1,EE,00312b0c,word,34218E38
 
-[FMV Fix]
+//FMV Fix
 patch=1,EE,002eb280,word,240575e0 //y-position
 patch=1,EE,002eb298,word,240a1440 //y-scaling
 

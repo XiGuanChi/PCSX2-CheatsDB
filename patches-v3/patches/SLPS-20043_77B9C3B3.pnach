@@ -4,9 +4,9 @@ gametitle=Lake Masters EX (J)(SLPS-20043)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,001d9d10,word,0807f820 // c6010068
 patch=1,EE,001d9d14,word,00000000 // c602006c
 

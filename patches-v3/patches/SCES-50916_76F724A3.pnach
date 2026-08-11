@@ -4,7 +4,7 @@ gametitle=Ratchet & Clank (PAL-M5) (SCES-50916)
 gsaspectratio=16:9
 author=ElHecht
 
-[16:9 code-inject function]
+// 16:9 code-inject function
 patch=1,EE,e0220000,extended,00100000 // check 20100000 matches value xxxx0000
 patch=1,EE,200ffef4,extended,3c013f40 // 00000000
 patch=1,EE,200ffef8,extended,34210001 // 00000000
@@ -56,14 +56,14 @@ patch=1,EE,200fffc4,extended,24050001 // 00000000
 patch=1,EE,200fffc8,extended,8c46001c // 00000000
 
 
-[Main Menu]
+// Main Menu
 patch=1,EE,e003caff,extended,001f3168 // check 001f7d28 matches value 0000caff
 patch=1,EE,201f31a8,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,201f31ac,extended,00000000 // 46010002
 patch=1,EE,200fff7c,extended,0807cc6b // 00000000 jump back to 201f31ac
 
 
-[Planet Veldin - Kyzil Plateau]
+// Planet Veldin - Kyzil Plateau
 patch=1,EE,e00ecaff,extended,001f7d28 // check 001f7d28 matches value 0000caff
 patch=1,EE,201f7d68,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,201f7d6c,extended,00000000 // 46010002
@@ -81,7 +81,7 @@ patch=1,EE,200fffc0,extended,e43e7c10 // 00000000
 patch=1,EE,200fffcc,extended,080a79f7 // 00000000 jump back to 2029e7dc
 
 
-[Planet Novalis - Tobruk Crater]
+// Planet Novalis - Tobruk Crater
 patch=1,EE,e00ecaff,extended,002198a8 // check 002198a8 matches value 0000caff
 patch=1,EE,202198e8,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,202198ec,extended,00000000 // 46010002
@@ -99,7 +99,7 @@ patch=1,EE,200fffc0,extended,e43e9790 // 00000000
 patch=1,EE,200fffcc,extended,080ac91d // 00000000 jump back to 202b2474
 
 
-[Planet Kerwan - Metropolis]
+// Planet Kerwan - Metropolis
 patch=1,EE,e00ecaff,extended,001f1610 // check 001f1610 matches value 0000caff
 patch=1,EE,201f1650,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,201f1654,extended,00000000 // 46010002
@@ -117,7 +117,7 @@ patch=1,EE,200fffc0,extended,e43e14f8 // 00000000
 patch=1,EE,200fffcc,extended,080a2c0f // 00000000 jump back to 2028b03c
 
 
-[Planet Aridia - Outpost XII]
+// Planet Aridia - Outpost XII
 patch=1,EE,e00ecaff,extended,00208b90 // check 00208b90 matches value 0000caff
 patch=1,EE,20208bd0,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,20208bd4,extended,00000000 // 46010002
@@ -135,7 +135,7 @@ patch=1,EE,200fffc0,extended,e43e8a78 // 00000000
 patch=1,EE,200fffcc,extended,080a77cd // 00000000 jump back to 2029df34
 
 
-[Planet Eudora - Logging Site]
+// Planet Eudora - Logging Site
 patch=1,EE,e00ecaff,extended,001ea610 // check 001ea610 matches value 0000caff
 patch=1,EE,201ea650,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,201ea654,extended,00000000 // 46010002
@@ -153,7 +153,7 @@ patch=1,EE,200fffc0,extended,e43ea4f8 // 00000000
 patch=1,EE,200fffcc,extended,080a3d81 // 00000000 jump back to 2028f604
 
 
-[Nebula G34 - Blarg Station]
+// Nebula G34 - Blarg Station
 patch=1,EE,e00ecaff,extended,0020f910 // check 0020f910 matches value 0000caff
 patch=1,EE,2020f950,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,2020f954,extended,00000000 // 46010002
@@ -171,7 +171,7 @@ patch=1,EE,200fffc0,extended,e43ef7f8 // 00000000
 patch=1,EE,200fffcc,extended,080aae15 // 00000000 jump back to 202ab854
 
 
-[Planet Rilgar - Blackwater City]
+// Planet Rilgar - Blackwater City
 patch=1,EE,e00ecaff,extended,00226990 // check 00226990 matches value 0000caff
 patch=1,EE,202269d0,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,202269d4,extended,00000000 // 46010002
@@ -189,7 +189,7 @@ patch=1,EE,200fffc0,extended,e43e6878 // 00000000
 patch=1,EE,200fffcc,extended,080b1bb5 // 00000000 jump back to 202c6ed4
 
 
-[Planet Umbris - Qwark's HQ]
+// Planet Umbris - Qwark's HQ
 patch=1,EE,e00ecaff,extended,0021fa90 // check 0021fa90 matches value 0000caff
 patch=1,EE,2021fad0,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,2021fad4,extended,00000000 // 46010002
@@ -207,7 +207,7 @@ patch=1,EE,200fffc0,extended,e43ef978 // 00000000
 patch=1,EE,200fffcc,extended,080b14ed // 00000000 jump back to 202c53b4
 
 
-[Planet Batalia - Fort Krontos]
+// Planet Batalia - Fort Krontos
 patch=1,EE,e00ecaff,extended,0020a6b8 // check 0020a6b8 matches value 0000caff
 patch=1,EE,2020a6f8,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,2020a6fc,extended,00000000 // 46010002
@@ -225,7 +225,7 @@ patch=1,EE,200fffc0,extended,e43ea5a0 // 00000000
 patch=1,EE,200fffcc,extended,080a9ac9 // 00000000 jump back to 202a6b24
 
 
-[Planet Gaspar - Blarg Depot]
+// Planet Gaspar - Blarg Depot
 patch=1,EE,e00ecaff,extended,00216f90 // check 00216f90 matches value 0000caff
 patch=1,EE,20216fd0,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,20216fd4,extended,00000000 // 46010002
@@ -243,7 +243,7 @@ patch=1,EE,200fffc0,extended,e43e6e78 // 00000000
 patch=1,EE,200fffcc,extended,080aec0b // 00000000 jump back to 202bb02c
 
 
-[Planet Orxon - Kogor Refinery]
+// Planet Orxon - Kogor Refinery
 patch=1,EE,e00ecaff,extended,001eb310 // check 001eb310 matches value 0000caff
 patch=1,EE,201eb350,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,201eb354,extended,00000000 // 46010002
@@ -261,7 +261,7 @@ patch=1,EE,200fffc0,extended,e43eb1f8 // 00000000
 patch=1,EE,200fffcc,extended,080a3c7b // 00000000 jump back to 2028f1ec
 
 
-[Planet Pokitaru - Jowai Resort]
+// Planet Pokitaru - Jowai Resort
 patch=1,EE,e00ecaff,extended,00229510 // check 00229510 matches value 0000caff
 patch=1,EE,20229550,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,20229554,extended,00000000 // 46010002
@@ -279,7 +279,7 @@ patch=1,EE,200fffc0,extended,e43e93f8 // 00000000
 patch=1,EE,200fffcc,extended,080b057d // 00000000 jump back to 202c15f4
 
 
-[Planet Hoven - Bomb Factory]
+// Planet Hoven - Bomb Factory
 patch=1,EE,e00ecaff,extended,0021a718 // check 0021a718 matches value 0000caff
 patch=1,EE,2021a758,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,2021a75c,extended,00000000 // 46010002
@@ -297,7 +297,7 @@ patch=1,EE,200fffc0,extended,e43ea600 // 00000000
 patch=1,EE,200fffcc,extended,080ad3e5 // 00000000 jump back to 202b4f94
 
 
-[Oltanis Orbit - Gemlik Base]
+// Oltanis Orbit - Gemlik Base
 patch=1,EE,e00ecaff,extended,00203690 // check 00203690 matches value 0000caff
 patch=1,EE,202036d0,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,202036d4,extended,00000000 // 46010002
@@ -315,7 +315,7 @@ patch=1,EE,200fffc0,extended,e43e3578 // 00000000
 patch=1,EE,200fffcc,extended,080aa35f // 00000000 jump back to 202a8d7c
 
 
-[Planet Oltanis - Gorda City Ruins]
+// Planet Oltanis - Gorda City Ruins
 patch=1,EE,e00ecaff,extended,0020af18 // check 0020af18 matches value 0000caff
 patch=1,EE,2020af58,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,2020af5c,extended,00000000 // 46010002
@@ -333,7 +333,7 @@ patch=1,EE,200fffc0,extended,e43eae00 // 00000000
 patch=1,EE,200fffcc,extended,080a92cd // 00000000 jump back to 202a4b34
 
 
-[Planet Quartu - Robot Plant]
+// Planet Quartu - Robot Plant
 patch=1,EE,e00ecaff,extended,001f1390 // check 001f1390 matches value 0000caff
 patch=1,EE,201f13d0,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,201f13d4,extended,00000000 // 46010002
@@ -351,7 +351,7 @@ patch=1,EE,200fffc0,extended,e43e1278 // 00000000
 patch=1,EE,200fffcc,extended,080a3199 // 00000000 jump back to 2028c664
 
 
-[Planet Kalebo III - Gadgetron Site]
+// Planet Kalebo III - Gadgetron Site
 patch=1,EE,e00ecaff,extended,001f6510 // check 001f6510 matches value 0000caff
 patch=1,EE,201f6550,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,201f6554,extended,00000000 // 46010002
@@ -369,7 +369,7 @@ patch=1,EE,200fffc0,extended,e43e63f8 // 00000000
 patch=1,EE,200fffcc,extended,080a5d99 // 00000000 jump back to 20297664
 
 
-[Veldin Orbit - Drek's Fleet]
+// Veldin Orbit - Drek's Fleet
 patch=1,EE,e00ecaff,extended,001f4e10 // check 001f4e10 matches value 0000caff
 patch=1,EE,201f4e50,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,201f4e54,extended,00000000 // 46010002
@@ -387,7 +387,7 @@ patch=1,EE,200fffc0,extended,e43e4cf8 // 00000000
 patch=1,EE,200fffcc,extended,080a5a99 // 00000000 jump back to 20296a64
 
 
-[Planet Veldin - Kyzil Plateau (Final Visit)]
+// Planet Veldin - Kyzil Plateau (Final Visit)
 patch=1,EE,e00ecaff,extended,00200990 // check 00200990 matches value 0000caff
 patch=1,EE,202009d0,extended,0803ffbd // c46000b0 jump to code-inject 200ffef4
 patch=1,EE,202009d4,extended,00000000 // 46010002

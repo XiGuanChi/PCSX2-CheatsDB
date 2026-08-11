@@ -4,10 +4,10 @@ gametitle=Astro Boy (U)(SLUS-20867)
 gsaspectratio=16:9
 author=Arapapa
 description=Widescreen Hack
-[Fov]
+//Fov
 patch=1,EE,002cb778,word,3c013fd5 //3c013fa0
 
-[Zoom]
+//Zoom
 patch=1,EE,0037f2f8,word,3c013ec0 //3c013f00
 
 [60 FPS]

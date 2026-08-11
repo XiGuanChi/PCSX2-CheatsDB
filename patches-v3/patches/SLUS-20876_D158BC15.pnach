@@ -4,9 +4,9 @@ gametitle=Backyard Football 2006 (U)(SLUS-20876)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,004f3c28,word,08190030
 patch=1,EE,006400c0,word,c4800068
 patch=1,EE,006400c4,word,3c013f40
