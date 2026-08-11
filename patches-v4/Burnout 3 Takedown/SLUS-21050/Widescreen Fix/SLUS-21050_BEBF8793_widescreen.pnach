@@ -3,13 +3,13 @@ gametitle=Burnout 3: Takedown [SLUS-21050] (U)
 gsaspectratio=16:9
 description=Corrects the aspect ratio of the FOV, HUD, and FMVs for 16:9.
 author=Aero_
-[FOV (16:9)]
+// FOV (16:9)
 patch=1,EE,00665ECD,extended,01 // Enables Widescreen Mode
 patch=1,EE,204E0A38,extended,3FAAAAAB // FOV (Single Player) // 16:9 = 1.33333
 patch=1,EE,204E0C70,extended,3FE38E39 // Aspect Ratio (Single Player) // 16:9 = 1.77778
 patch=1,EE,204E0C7C,extended,3FE38E39 // FOV (Multiplayer) // 16:9 = 1.77778
 patch=1,EE,204E0C80,extended,40638E39 // Aspect Ratio (Multiplayer) // 16:9 = 3.55556
-[HUD (16:9)]
+// HUD (16:9)
 patch=1,EE,204E105C,extended,3A99999A // HUD Width // 16:9 = 0.00117188
 patch=1,EE,206682B0,extended,42A00000 // HUD X Pos // 16:9 = +80 (Player 1)
 patch=1,EE,20669B30,extended,42A00000 // HUD X Pos // 16:9 = +80 (Player 2)
@@ -49,7 +49,7 @@ patch=1,EE,204859B8,extended,AFA20174 // saves y pos value
 patch=1,EE,204859BC,extended,3C023EC0 //  "Get Ready! GO" X Pos // only change the last four bytes // 16:9 = 0.375
 patch=1,EE,204859C0,extended,AFA20168 // saves new x pos value
 patch=1,EE,204859C4,extended,0804D3DE // jumps back
-[Menus (16:9)]
+// Menus (16:9)
 patch=1,EE,1030D7E4,extended,43F0 // Menu Width // 16:9 = 480
 patch=1,EE,2030D834,extended,08121636 // jumps to code cave
 patch=1,EE,204858D8,extended,E4830008 // saves width value
