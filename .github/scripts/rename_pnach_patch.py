@@ -3,7 +3,7 @@ import os
 import re
 import sys
 
-# Target folders to process (as requested)
+# Target folders to process
 TARGET_DIRS = [
     "patches-team",
     "patcheats-v1",
@@ -16,7 +16,7 @@ TARGET_DIRS = [
 ]
 
 def process_file(filepath):
-    """Read file, replace lines matching //Content with [Content], and write back."""
+    """Read file, replace comment lines with [Content] except those containing 'patch'."""
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             lines = f.readlines()
@@ -28,14 +28,19 @@ def process_file(filepath):
     new_lines = []
     for line in lines:
         stripped = line.rstrip('\n')
-        # Match lines that contain only "//..." (with optional surrounding spaces)
+        # Match lines that consist only of a comment (optional surrounding whitespace)
         match = re.match(r'^\s*//(.*?)\s*$', stripped)
         if match:
             content = match.group(1).strip()
-            new_line = f"[{content}]\n"
-            if new_line != line:
-                modified = True
-            new_lines.append(new_line)
+            # If the comment contains the word "patch", leave it untouched
+            if "patch" in content:
+                new_lines.append(line)   # keep original
+            else:
+                # Convert to [content]
+                new_line = f"[{content}]\n"
+                if new_line != line:
+                    modified = True
+                new_lines.append(new_line)
         else:
             new_lines.append(line)
 
