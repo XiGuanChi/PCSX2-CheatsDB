@@ -9,7 +9,7 @@ patch=1,EE,220A2E,short,1000
 patch=1,EE,2232FA,short,1000
 patch=1,EE,2252BA,short,1000
 
-[4-Digit IEEE-754 floats]
+// 4-Digit IEEE-754 floats
 patch=1,EE,17F2CC,short,3F12 // Horizontal Field of view modifier
 patch=1,EE,17F41C,short,4365 // Rear view mirror box horizontal position. // Add/subtract from 200 based on size difference divided by 2, rounded up
 patch=1,EE,17F430,short,4337 // Rear view mirror box width. Multiply 240 by (16/new ratio)
@@ -17,20 +17,20 @@ patch=1,EE,194568,short,3F12 // Text-based HUD elements width modifier
 patch=1,EE,18B870,short,3F12 // Text after licence completion width modifier, maybe more things
 patch=1,EE,22B210,short,3F12 // ModelFace after license completion width modifier
 
-[8-Digit IEEE-754 floats]
+// 8-Digit IEEE-754 floats
 patch=1,EE,351674,word,3F8B506B // Rear view field of view. Multiply 1.428514 by (16/newRatio)
 patch=1,EE,1CBF4E,word,3f124925 // CarFace width modifier in dealership
 
-[The way these work is when changing the value, the canvas transforms AND moves too.]
-[so you have to balance each side to stay centered.]
-[A negative value and positive value are combined, the sum of which should equal 640 in order to be centered.]
-[To calculate:]
-[Measure how much wider your current aspect is than the baseline (16:9).]
-[Solve for a: Divide desired aspect ratio by 16/9 (8:3 is used as the example here)]
-[(H/V) / (16/9) = a 	                                    | (8/3) / (16/9) = 1.5]
-[a * 1.325 = b 		                                    | 1.5 * 1.325 = 1.9875]
-[(1 + b) * 320  = The Positive value                      | (1 + 1.9875) * 320 = 956]
-[(The positive value - 640) * -1 = The negative value     | (956 - 640) * -1 = -316]
+// The way these work is when changing the value, the canvas transforms AND moves too.
+// so you have to balance each side to stay centered.
+// A negative value and positive value are combined, the sum of which should equal 640 in order to be centered.
+// To calculate:
+// Measure how much wider your current aspect is than the baseline (16:9).
+// Solve for a: Divide desired aspect ratio by 16/9 (8:3 is used as the example here)
+// (H/V) / (16/9) = a 	                                    | (8/3) / (16/9) = 1.5
+// a * 1.325 = b 		                                    | 1.5 * 1.325 = 1.9875
+// (1 + b) * 320  = The Positive value                      | (1 + 1.9875) * 320 = 956
+// (The positive value - 640) * -1 = The negative value     | (956 - 640) * -1 = -316
 patch=1,EE,3516F8,word,C36D0000 // HUD Canvas resizing (Negative)
 patch=1,EE,3516FC,word,445B4000 // HUD Canvas resizing (Positive)
 patch=1,EE,35194C,word,C36D0000 // Pause menu & race results canvas resizing (Negative)
@@ -45,7 +45,7 @@ patch=1,EE,220A2E,short,1000
 patch=1,EE,2232FA,short,1000
 patch=1,EE,2252BA,short,1000
 
-[4-Digit IEEE-754 floats]
+// 4-Digit IEEE-754 floats
 patch=1,EE,17F2CC,short,3EC0 // Horizontal Field of view modifier
 patch=1,EE,17F41C,short,438A // Rear view mirror box horizontal position. // Add/subtract from 200 based on size difference divided by 2, rounded up
 patch=1,EE,17F430,short,42B4 // Rear view mirror box width. Multiply 240 by (16/new ratio)
@@ -53,20 +53,20 @@ patch=1,EE,194568,short,3EC0 // Text-based HUD elements width modifier
 patch=1,EE,18B870,short,3EC0 // Text after licence completion width modifier, maybe more things
 patch=1,EE,22B210,short,3EC0 // ModelFace after license completion width modifier
 
-[8-Digit IEEE-754 floats]
+// 8-Digit IEEE-754 floats
 patch=1,EE,351674,word,3F092329 // Rear view field of view. Multiply 1.428514 by (16/newRatio)
 //patch=1,EE,1CBF4E,word,3EC00000 // Optional: CarFace width modifier in dealership
 
-[The way these work is when changing the value, the canvas transforms AND moves too.]
-[so you have to balance each side to stay centered.]
-[A negative value and positive value are combined, the sum of which should equal 640 in order to be centered.]
-[To calculate:]
-[Measure how much wider your current aspect is than the baseline (16:9).]
-[Solve for a: Divide desired aspect ratio by 16/9 (8:3 is used as the example here)]
-[(H/V) / (16/9) = a 	                                    | (8/3) / (16/9) = 1.5]
-[a * 1.325 = b 		                                    | 1.5 * 1.325 = 1.9875]
-[(1 + b) * 320  = The Positive value                      | (1 + 1.9875) * 320 = 956]
-[(The positive value - 640) * -1 = The negative value     | (956 - 640) * -1 = -316]
+// The way these work is when changing the value, the canvas transforms AND moves too.
+// so you have to balance each side to stay centered.
+// A negative value and positive value are combined, the sum of which should equal 640 in order to be centered.
+// To calculate:
+// Measure how much wider your current aspect is than the baseline (16:9).
+// Solve for a: Divide desired aspect ratio by 16/9 (8:3 is used as the example here)
+// (H/V) / (16/9) = a 	                                    | (8/3) / (16/9) = 1.5
+// a * 1.325 = b 		                                    | 1.5 * 1.325 = 1.9875
+// (1 + b) * 320  = The Positive value                      | (1 + 1.9875) * 320 = 956
+// (The positive value - 640) * -1 = The negative value     | (956 - 640) * -1 = -316
 patch=1,EE,3516F8,word,C4040000 // HUD Canvas resizing (Negative)
 patch=1,EE,3516FC,word,44920000 // HUD Canvas resizing (Positive)
 patch=1,EE,35194C,word,C4040000 // Pause menu & race results canvas resizing (Negative)
@@ -82,7 +82,7 @@ patch=1,EE,220A2E,short,1000
 patch=1,EE,2232FA,short,1000
 patch=1,EE,2252BA,short,1000
 
-[4-Digit IEEE-754 floats]
+// 4-Digit IEEE-754 floats
 patch=1,EE,17F2CC,short,3E80 // Horizontal Field of view modifier
 patch=1,EE,17F41C,short,4391 // Rear view mirror box horizontal position. // Add/subtract from 200 based on size difference divided by 2, rounded up
 patch=1,EE,17F430,short,4270 // Rear view mirror box width. Multiply 240 by (16/new ratio)
@@ -90,20 +90,20 @@ patch=1,EE,194568,short,3E80 // Text-based HUD elements width modifier
 patch=1,EE,18B870,short,3E80 // Text after licence completion width modifier, maybe more things
 patch=1,EE,22B210,short,3E80 // ModelFace after license completion width modifier
 
-[8-Digit IEEE-754 floats]
+// 8-Digit IEEE-754 floats
 patch=1,EE,351674,word,3EB6D98C // Rear view field of view. Multiply 1.428514 by (16/newRatio)
 //patch=1,EE,1CBF4E,word,3E800000 // Optional: CarFace width modifier in dealership
 
-[The way these work is when changing the value, the canvas transforms AND moves too.]
-[so you have to balance each side to stay centered.]
-[A negative value and positive value are combined, the sum of which should equal 640 in order to be centered.]
-[To calculate:]
-[Measure how much wider your current aspect is than the baseline (16:9).]
-[Solve for a: Divide desired aspect ratio by 16/9 (8:3 is used as the example here)]
-[(H/V) / (16/9) = a 	                                    | (8/3) / (16/9) = 1.5]
-[a * 1.325 = b 		                                    | 1.5 * 1.325 = 1.9875]
-[(1 + b) * 320  = The Positive value                      | (1 + 1.9875) * 320 = 956]
-[(The positive value - 640) * -1 = The negative value     | (956 - 640) * -1 = -316]
+// The way these work is when changing the value, the canvas transforms AND moves too.
+// so you have to balance each side to stay centered.
+// A negative value and positive value are combined, the sum of which should equal 640 in order to be centered.
+// To calculate:
+// Measure how much wider your current aspect is than the baseline (16:9).
+// Solve for a: Divide desired aspect ratio by 16/9 (8:3 is used as the example here)
+// (H/V) / (16/9) = a 	                                    | (8/3) / (16/9) = 1.5
+// a * 1.325 = b 		                                    | 1.5 * 1.325 = 1.9875
+// (1 + b) * 320  = The Positive value                      | (1 + 1.9875) * 320 = 956
+// (The positive value - 640) * -1 = The negative value     | (956 - 640) * -1 = -316
 patch=1,EE,3516F8,word,C46E0000 // HUD Canvas resizing (Negative)
 patch=1,EE,3516FC,word,44C70000 // HUD Canvas resizing (Positive)
 patch=1,EE,35194C,word,C46E0000 // Pause menu & race results canvas resizing (Negative)
@@ -113,37 +113,37 @@ patch=1,EE,351950,word,44C70000 // Pause menu & race results canvas resizing (Po
 author=Silentwarior112
 description=Default HUD safe area
 patch=1,EE,2567BC,short,3F80
-[Text Width]
+// Text Width
 patch=1,EE,194568,short,3F40
-[Text Height]
+// Text Height
 patch=1,EE,194570,short,3F80
-[Rear view mirror V position]
+// Rear view mirror V position
 patch=1,EE,35165A,short,41B6
-[Rear view V size]
+// Rear view V size
 patch=1,EE,35165E,short,4292
-[Rear view mirror H position]
+// Rear view mirror H position
 patch=1,EE,17F41C,short,4348
-[Rear view H size]
+// Rear view H size
 patch=1,EE,17F430,short,4370 
 
 [HUD Safe Area (Zoom out)]
 author=Silentwarior112
 description=90% HUD safe area. Warning: Affects menus
-[Safe area]
+// Safe area
 patch=1,EE,2567BC,short,3F88
-[Text Width]
+// Text Width
 patch=1,EE,194568,short,3F36 // Math suggests 0.675 3F2D
-[Text Height]
+// Text Height
 patch=1,EE,194570,short,3F73 // Math suggests 0.9 3F67
-[Rear view mirror V position]
+// Rear view mirror V position
 patch=1,EE,35165A,short,4220
-[Rear view V size]
+// Rear view V size
 patch=1,EE,35165E,short,4280
-[Rear view mirror H position]
+// Rear view mirror H position
 patch=1,EE,17F41C,short,434F
-[Rear view H size]
+// Rear view H size
 patch=1,EE,17F430,short,4364
-[LODs]
+// LODs
 patch=1,EE,21FDA2,short,1000
 patch=1,EE,220A2E,short,1000
 patch=1,EE,2232FA,short,1000
