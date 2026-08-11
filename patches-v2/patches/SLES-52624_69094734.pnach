@@ -11,9 +11,9 @@ patch=1,EE,207214CC,word,3F100000 // font width
 patch=1,EE,207214D0,word,3F100000 // font height
 patch=1,EE,207214A0,word,3FE00000 // Gameplay screen fix 16:9
 
-//patch=1,EE,20D866B4,word,3F733333
-//patch=1,EE,30231920,word,3F333333
-//patch=1,EE,206A81EC,word,3F7AE148 //character skill highlight beta fix - causes ring health to bug when applied
+[patch=1,EE,20D866B4,word,3F733333]
+[patch=1,EE,30231920,word,3F333333]
+[patch=1,EE,206A81EC,word,3F7AE148 //character skill highlight beta fix - causes ring health to bug when applied]
 
 [480p Mode]
 gsinterlacemode=1

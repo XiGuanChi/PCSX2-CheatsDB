@@ -4,7 +4,7 @@ gametitle=Code of the Samurai (PAL-E) (SLES-54615)
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9
+[16:9]
 patch=1,EE,0014d834,word,3c013f40 // 00000000 hor fov
 patch=1,EE,0014d838,word,4481e000 // 00000000
 patch=1,EE,0014d8a4,word,461cc602 // 46170703

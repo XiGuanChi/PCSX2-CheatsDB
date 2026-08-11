@@ -10,10 +10,10 @@ patch=1,EE,00661DD8,word,3F860A8A //textures fix by PeterDelta
 patch=1,EE,00661DE8,word,3F860A8A
 patch=1,EE,00661DEC,word,3F800000
 
-//Map Screen HUD, text fixes
-//search the 206d**** address range for more map screen hud fixes
-//patch=1,EE,206d8034,word,425c0000  // map_igo_compass 42680000 - this breakes the compass in map menu
-//patch=1,EE,206d8048,word,42fa0000  // map_igo_compass 42f40000 - this breakes the compass in map menu
+[Map Screen HUD, text fixes]
+[search the 206d**** address range for more map screen hud fixes]
+[patch=1,EE,206d8034,word,425c0000  // map_igo_compass 42680000 - this breakes the compass in map menu]
+[patch=1,EE,206d8048,word,42fa0000  // map_igo_compass 42f40000 - this breakes the compass in map menu]
 patch=1,EE,206db628,word,41580000  // level_500_trick 41900000
 patch=1,EE,206db634,word,41580000  // level_500_trick 41900000
 patch=1,EE,206db768,word,41580000  // level_500_hint 41900000
@@ -32,7 +32,7 @@ patch=1,EE,206df9e8,word,3f400000  // text_menu_missions1 3f800000
 patch=1,EE,206dfab8,word,3f400000  // map_igo_elevation_indicator_text_number 3f800000
 patch=1,EE,206dfbb0,word,3f400000  // text_menu_hint1 3f800000
 
-//Onscreen HUD
+[Onscreen HUD]
 patch=1,EE,20720ce0,word,42680000  //gauge_frame 42300000
 patch=1,EE,20720cf4,word,42680000  //gauge_frame 42300000
 patch=1,EE,20720d08,word,43140000  //gauge_frame 43240000

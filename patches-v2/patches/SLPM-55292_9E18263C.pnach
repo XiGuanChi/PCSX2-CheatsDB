@@ -7,7 +7,7 @@ description=Removes the ghosting effect from radiosity and color filter post eff
 patch=0,EE,00669D54,extended,00 // CPostEffects::m_bSeamRemover
 patch=0,EE,20669DDC,extended,00000000 // CPostEffects::m_RadiosityFilterPasses
 
-// These values are read from stream.ini from the init overlay, so we have to patch them every frame
+[These values are read from stream.ini from the init overlay, so we have to patch them every frame]
 patch=1,EE,20669E20,extended,00000000 // CPostEffects::m_colourLeftUOffset
 patch=1,EE,20669E24,extended,00000000 // CPostEffects::m_colourRightUOffset
 patch=1,EE,20669E28,extended,00000000 // CPostEffects::m_colourTopVOffset

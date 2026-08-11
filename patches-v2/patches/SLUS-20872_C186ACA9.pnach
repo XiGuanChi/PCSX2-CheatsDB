@@ -14,11 +14,11 @@ patch=0,EE,004A4340,bytes,574849544500 // GAMEPAD_WHITE
 patch=0,EE,004A4350,bytes,424C41434B00 // GAMEPAD_BLACK
 patch=0,EE,004A4360,bytes,4C4546545F5452494747455200 // GAMEPAD_LEFT_TRIGGER
 
-// GAMEPAD_RIGHT_TRIGGER needs to be relocated
+[GAMEPAD_RIGHT_TRIGGER needs to be relocated]
 patch=0,EE,004A4770,bytes,47414D455041445F52494748545F5452494747455200 // GAMEPAD_RIGHT_TRIGGER
 patch=0,EE,10345F08,extended,4770
 
-// Make GAMEPAD_*_TRIGGER analogue
+[Make GAMEPAD_*_TRIGGER analogue]
 patch=0,EE,1034560C,extended,43D0
 patch=0,EE,10345620,extended,43E0
 
@@ -34,7 +34,7 @@ patch=0,EE,103471B0,extended,0133
 
 patch=0,EE,20346024,extended,00000000
 
-// Make gamepad analog inputs truly analog, like on Xbox (x / 255.0)
+[Make gamepad analog inputs truly analog, like on Xbox (x / 255.0)]
 patch=0,EE,203479A8,extended,3C013B80 // lui at,0x3B80
 patch=0,EE,203479AC,extended,34218081 // ori at,at,0x8081
 patch=0,EE,203479B0,extended,44810000 // mtc1 at,f00

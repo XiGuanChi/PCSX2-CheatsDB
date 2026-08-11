@@ -4,10 +4,10 @@ gametitle=Cocoto Funfair (E)(SLES-53805)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//003f023c 00bf033c
+[X-Fov]
+[003f023c 00bf033c]
 patch=1,EE,0046b578,word,3c023ec0 //3c023fa0
 
 

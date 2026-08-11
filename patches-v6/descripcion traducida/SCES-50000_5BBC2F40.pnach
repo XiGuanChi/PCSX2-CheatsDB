@@ -17,7 +17,7 @@ gsinterlacemode=1
 author=PeterDelta
 description=Intenta deshabilitar la representación entrelazada.
 patch=1,EE,00220738,word,24020000
-//patch=1,EE,002C500C,word,3C050000 //progressive res at 224
+[patch=1,EE,002C500C,word,3C050000 //progressive res at 224]
 
 [60 FPS]
 author=PeterDelta

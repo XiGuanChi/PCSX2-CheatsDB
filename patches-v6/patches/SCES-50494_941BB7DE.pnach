@@ -25,7 +25,7 @@ patch=1,EE,E0030001,extended,005808B4
 patch=1,EE,0011B940,extended,24040001
 patch=1,EE,2057C7D8,extended,3CCCCCCD
 patch=1,EE,2058D448,extended,3FC00000
-//patch=1,EE,203038EC,word,00000002 //00000001 speed global
+[patch=1,EE,203038EC,word,00000002 //00000001 speed global]
 
 [480p Mode]
 author=PeterDelta

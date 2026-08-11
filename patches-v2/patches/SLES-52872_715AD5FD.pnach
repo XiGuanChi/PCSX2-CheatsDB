@@ -4,8 +4,8 @@ gametitle=Constantine (PAL-M) (SLES-52872) 715AD5FD
 gsaspectratio=16:9
 author=Arapapa
 description=Renders the game in 16:9 aspect ratio
-//X-Fov - ELF hack
-//803f013c 00108144 0c00438e
+[X-Fov - ELF hack]
+[803f013c 00108144 0c00438e]
 patch=1,EE,002b5118,word,3c013f40 //3c013f80
 
 [50/60 FPS]

@@ -4,12 +4,12 @@ gametitle=Neopets - The Darkest Faerie (NTSC-U)(SCUS-97367)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//zoom
+[zoom]
 patch=1,EE,2032D120,extended,43C00000 //44000000
 
-//fov
+[fov]
 patch=1,EE,2043c860,extended,44155555 //43e00000
 
 

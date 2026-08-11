@@ -5,12 +5,12 @@ gsaspectratio=16:9
 author=Aced14
 description=Widescreen Hack
 
-//16:9 Widescreen
+[16:9 Widescreen]
 
 patch=1,EE,101BDC50,extended,00004401 //3C01442C - Shell Menu Master X FOV
 
-//patch=1,EE,2028B080,extended,43870000 //43B40000 - Loading Screen Master X FOV
-//patch=1,EE,2028B0A0,extended,3F360B16 //3F088851 - Loading Screen Master Y FOV
+[patch=1,EE,2028B080,extended,43870000 //43B40000 - Loading Screen Master X FOV]
+[patch=1,EE,2028B0A0,extended,3F360B16 //3F088851 - Loading Screen Master Y FOV]
 
 patch=1,EE,101BA55C,extended,00004401 //3C01442C - Title Menu Master X FOV
 patch=1,EE,20272790,extended,434FC000 //438A8000 - Tree Sprite Width #1

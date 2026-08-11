@@ -4,9 +4,9 @@ gametitle=Aqua Teen Hunger Force - Zombie Ninja Pro-Am (E)(SLES-54788
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
+[X-Fov]
 patch=1,EE,00126078,word,080fc938 //460c0842
 
 patch=1,EE,003f24e0,word,460c0842

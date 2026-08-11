@@ -4,7 +4,7 @@ gametitle=SCAR - Squadra Corse Alfa Romeo (PAL-M5) (SLES-53320)
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9
+[16:9]
 patch=1,EE,0021694c,word,081afd5a // e7a00048
 patch=1,EE,006bf568,word,3c013f40 // 00000000 hor fov
 patch=1,EE,006bf56c,word,4481f000 // 00000000

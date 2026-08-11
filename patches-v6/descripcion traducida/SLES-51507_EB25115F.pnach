@@ -18,6 +18,6 @@ author=PeterDelta
 description=Modo SDTV 480p al iniciar.
 patch=0,EE,002A1F4C,word,240A0050
 
-//patch=1,EE,003EA94C,word,24110000 //old
-//patch=1,EE,003EA950,word,24120050
-//patch=1,EE,003EA95C,word,24130001
+[patch=1,EE,003EA94C,word,24110000 //old]
+[patch=1,EE,003EA950,word,24120050]
+[patch=1,EE,003EA95C,word,24130001]

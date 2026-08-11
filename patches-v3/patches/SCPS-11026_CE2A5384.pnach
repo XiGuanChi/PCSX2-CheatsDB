@@ -4,10 +4,10 @@ gametitle=Gacharoku (J)(SCPS-11026)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//000018e6 280000ae 00000000
+[X-Fov]
+[000018e6 280000ae 00000000]
 patch=1,EE,006cca30,word,081b9d89
 
 patch=1,EE,006e7624,word,3c013f40

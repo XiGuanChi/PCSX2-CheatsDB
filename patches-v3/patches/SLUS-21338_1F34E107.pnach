@@ -11,8 +11,8 @@ author=PsxFan107
 patch=1,EE,00112424,word,00000000
 patch=1,EE,00177D5C,word,0000102D
 
-//Disable Anti-Aliasing
-//patch=1,EE,001786E8,word,24020001
+[Disable Anti-Aliasing]
+[patch=1,EE,001786E8,word,24020001]
 
 [Remove Blur]
 author=PsxFan107 & 001

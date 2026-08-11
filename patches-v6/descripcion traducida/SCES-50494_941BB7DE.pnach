@@ -9,7 +9,7 @@ patch=1,EE,001A5978,word,3421999A
 patch=1,EE,0011973C,word,3C014440 //Render-Fix
 patch=1,EE,00176144,word,3C01442B
 patch=1,EE,002649C4,word,3C013F40 //3C013f80 sphere grid
-//patch=1,EE,00263068,word,3c013f40 //3c013f80 world map (haven't tested)
+[patch=1,EE,00263068,word,3c013f40 //3c013f80 world map (haven't tested)]
 
 [Remove Blur]
 author=PeterDelta
@@ -26,7 +26,7 @@ patch=1,EE,E0030001,extended,005808B4
 patch=1,EE,0011B940,extended,24040001
 patch=1,EE,2057C7D8,extended,3CCCCCCD
 patch=1,EE,2058D448,extended,3FC00000
-//patch=1,EE,203038EC,word,00000002 //00000001 speed global
+[patch=1,EE,203038EC,word,00000002 //00000001 speed global]
 
 [480p Mode]
 author=PeterDelta

@@ -4,7 +4,7 @@ gametitle=Skyscraper PAL-M SLES-55152 EAEEC017
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,0025c240,word,3c013fab
 

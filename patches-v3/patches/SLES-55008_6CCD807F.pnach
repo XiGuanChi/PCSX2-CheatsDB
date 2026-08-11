@@ -4,7 +4,7 @@ gametitle=Riding Star 3(E)(SLES-55008)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,002cea60,word,08030000 //c6010068
 

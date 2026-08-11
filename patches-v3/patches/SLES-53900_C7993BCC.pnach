@@ -12,7 +12,7 @@ author=val
 patch=1,EE,003FDFD2,short,3F40 //3F80 //3D General
 patch=1,EE,003FF112,short,3F40 //3F80 //3D Reflections
 patch=1,EE,00400252,short,3F40 //3F80 //3D Mirror
-//patch=1,EE,003FE022,short,3F80 //3F80 //3D Weather
+[patch=1,EE,003FE022,short,3F80 //3F80 //3D Weather]
 
 [Native 10:7]
 gsaspectratio=10:7
@@ -20,4 +20,4 @@ author=val
 patch=1,EE,003FDFD2,short,3F6F //3F80 //3D General
 patch=1,EE,003FF112,short,3F6F //3F80 //3D Reflections
 patch=1,EE,00400252,short,3F6F //3F80 //3D Mirror
-//patch=1,EE,003FE022,short,3F80 //3F80 //3D Weather
+[patch=1,EE,003FE022,short,3F80 //3F80 //3D Weather]

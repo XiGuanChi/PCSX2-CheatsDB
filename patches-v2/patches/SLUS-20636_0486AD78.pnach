@@ -82,7 +82,7 @@ patch=1,EE,001e6bb4,word,46140002
 patch=1,EE,001e6bb8,word,00000000
 patch=1,EE,001e6bbc,word,00000000
 
-//Font fix
+[Font fix]
 patch=1,EE,001f90e8,word,3c013f40 //3c013f80
 
 [60 FPS]

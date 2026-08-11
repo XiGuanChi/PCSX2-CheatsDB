@@ -5,15 +5,15 @@ gsaspectratio=16:9
 author=nemesis2000, ported by arapapa
 description=Solo/Coop mode widescreen hack.
 
-// Single Player mode
+[Single Player mode]
 patch=1,EE,003a8b94,word,3c023f40
 patch=1,EE,003a8bb4,word,3c0243d6
 
-// Multi Player mode
+[Multi Player mode]
 patch=1,EE,003a8cb4,word,3c023f40
 patch=1,EE,003a8cd4,word,3c0243d6
 
-// Menu
+[Menu]
 patch=1,EE,0053c404,word,3c043f40
 patch=1,EE,0053c410,word,3c0243d6
 

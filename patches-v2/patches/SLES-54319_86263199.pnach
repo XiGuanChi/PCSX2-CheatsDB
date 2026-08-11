@@ -4,8 +4,8 @@ gametitle=Biker Mice from Mars (PAL-M) SLES-54319 86263199
 gsaspectratio=16:9
 author=Arapapa
 description=Renders the game in 16:9 aspect ratio
-//X-Fov
-//02100046 4000a1e7
+[X-Fov]
+[02100046 4000a1e7]
 patch=1,EE,00134a00,word,08030000 //46001002
 
 patch=1,EE,000c0000,word,46001002

@@ -4,7 +4,7 @@ gametitle=Seek and Destroy (NTSC-U)
 gsaspectratio=16:9
 author=El_Patas
 
-// 16:9
+[16:9]
 patch=1,EE,001bc24c,word,3C013F40 //00000000 hor fov
 patch=1,EE,001bc250,word,44810000 //00000000
 patch=1,EE,001bc258,word,4600C602 //00000000

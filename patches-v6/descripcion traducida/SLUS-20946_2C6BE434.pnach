@@ -11,18 +11,18 @@ patch=0,EE,002081DC,extended,3C0342AC
 patch=0,EE,0020C4B4,extended,3C0342AC
 patch=0,EE,002ECAF0,extended,3C044040
 patch=0,EE,002ECB40,extended,3C0440D0
-//patch=1,EE,0033DB54,extended,3C013F80 //scenes zoom cause problems
-//patch=1,EE,E0020001,extended,0066C174
-//patch=1,EE,0033DB54,extended,3C013F40
-//patch=1,EE,2021EE14,extended,3C023FC0
-//patch=1,EE,2021EE14,extended,3C024000
+[patch=1,EE,0033DB54,extended,3C013F80 //scenes zoom cause problems]
+[patch=1,EE,E0020001,extended,0066C174]
+[patch=1,EE,0033DB54,extended,3C013F40]
+[patch=1,EE,2021EE14,extended,3C023FC0]
+[patch=1,EE,2021EE14,extended,3C024000]
 
 [Remove Ghosting Effects]
 author=Silent, PeterDelta
 description=Elimina el efecto fantasma sin afectar la iluminación.
 patch=0,EE,00668C5C,extended,00 // CPostEffects::m_bSeamRemover
 patch=0,EE,20668CE4,extended,00000000 // CPostEffects::m_RadiosityFilterPasses
-// These values are read from stream.ini from the init overlay, so we have to patch them every frame
+[These values are read from stream.ini from the init overlay, so we have to patch them every frame]
 patch=1,EE,20668D28,extended,00000000 // CPostEffects::m_colourLeftUOffset
 patch=1,EE,20668D2C,extended,00000000 // CPostEffects::m_colourRightUOffset
 patch=1,EE,20668D30,extended,00000000 // CPostEffects::m_colourTopVOffset

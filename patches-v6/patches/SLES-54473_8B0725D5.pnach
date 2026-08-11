@@ -12,8 +12,8 @@ patch=1,EE,0021fee8,word,00000000
 patch=1,EE,0021feec,word,4481f000
 patch=1,EE,0021fef0,word,461ebdc2
 patch=1,EE,0021fef4,word,080601b6
-//patch=1,EE,0017F478,word,3C013F40 //3C013F80 widescreen partial
-//patch=1,EE,001291EC,word,3C013F40 //3C013F80 hud circuit partial
+[patch=1,EE,0017F478,word,3C013F40 //3C013F80 widescreen partial]
+[patch=1,EE,001291EC,word,3C013F40 //3C013F80 hud circuit partial]
 patch=1,EE,001286E4,word,3C013F40 //3C013F80 hud
 patch=1,EE,00128F78,word,3C013F40 //3C013F80 hud
 

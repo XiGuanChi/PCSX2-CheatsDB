@@ -4,10 +4,10 @@ gametitle=Kateikyoushi Hitman Reborn! Dream Hyper Battle (J)(SLPS-25806)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//02031546 2d808000
+[X-Fov]
+[02031546 2d808000]
 patch=1,EE,001e6ad8,word,08030000
 
 patch=1,EE,000c0000,word,46150302

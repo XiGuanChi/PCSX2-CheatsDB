@@ -4,8 +4,8 @@ gametitle=TNA iMPACT!: Total Nonstop Action Wrestling (PAL-M5) (SLES-55150)
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9
-// note: data is stored in "TNAPOV.ELF"
+[16:9]
+[note: data is stored in "TNAPOV.ELF"]
 patch=1,EE,e0043f80,extended,002250e0 // check 202250e0 matches value xxxx3f80
 patch=1,EE,202250e0,extended,3c013f40 // 3c013f80
 patch=1,EE,202250e4,extended,4481f000 // 4481e000

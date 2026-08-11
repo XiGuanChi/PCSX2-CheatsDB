@@ -4,7 +4,7 @@ gametitle=Hot Shots Tennis (NTSC-U) (SCUS-97610)
 gsaspectratio=16:9
 author=ElHecht (ported by Tagg)
 
-// 16:9
+[16:9]
 patch=1,EE,001398d0,word,08074b83 // e4840544 jump to code-inject 001d2e0c
 patch=1,EE,001398d4,word,00000000 // 46002107
 

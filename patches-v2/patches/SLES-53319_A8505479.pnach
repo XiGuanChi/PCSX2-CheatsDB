@@ -4,10 +4,10 @@ gametitle=Resident Evil: Outbreak: File #2 (SLES-53319)
 description=Renders the game in 16:9 aspect ratio, instead of 4:3.
 gsaspectratio=16:9
 
-//gameplay by ElHecht
+[gameplay by ElHecht]
 patch=1,EE,003c8930,word,3fe38e38
 
-//FMV's fix by nemesis2000
+[FMV's fix by nemesis2000]
 patch=1,EE,003abbac,word,24060015
 
 patch=1,EE,003abd70,word,01264818

@@ -7,7 +7,7 @@ description=Renderiza el juego en proporción de 16:9.
 patch=0,EE,001BE8EC,word,3C0243D6
 patch=0,EE,001BE904,word,3C0243D6
 patch=0,EE,00232AB0,word,3C023F40
-//patch=0,EE,00232DB8,word,3C023F40 //hud queda feo en 4:3
+[patch=0,EE,00232DB8,word,3C023F40 //hud queda feo en 4:3]
 
 [60 FPS]
 author=Gabominated

@@ -4,7 +4,7 @@ gametitle=NHRA - Countdown to the Championship 2007 (U)(SLUS-21547)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,0013c408,word,08030000
 

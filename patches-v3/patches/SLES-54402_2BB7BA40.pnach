@@ -9,10 +9,10 @@ patch=1,EE,00A6E894,extended,00000001
 patch=1,EE,2061E7F8,extended,3F400000
 patch=1,EE,2061E810,extended,3F400000
 
-//[Languages]
-//author=PeterDelta
-//description=Set language in BIOS: Spanish, Italian, Dutch, English. FMV skip
-//patch=1,EE,003F9AC4,word,10400018
+[[Languages]]
+[author=PeterDelta]
+[description=Set language in BIOS: Spanish, Italian, Dutch, English. FMV skip]
+[patch=1,EE,003F9AC4,word,10400018]
 
 [NTSC Mode]
 author=PeterDelta

@@ -4,7 +4,7 @@ gametitle=LEGO Batman - The Videogame (U)(SLUS-21785)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,2033DE44,extended,00000a01 //00000a00
 patch=1,EE,20615710,extended,00000a01 //00000a00

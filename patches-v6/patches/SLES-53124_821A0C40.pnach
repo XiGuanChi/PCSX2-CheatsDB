@@ -11,7 +11,7 @@ patch=1,EE,20332BBC,extended,34218E39 //3421AAAB hor fov
 author=PeterDelta
 description=Might need EE Overclock (130%).
 patch=1,EE,002D4D60,word,24630002 //24630001
-//patch=1,EE,002D4D94,word,2C620000 //0062102B old
+[patch=1,EE,002D4D94,word,2C620000 //0062102B old]
 
 [Remove Blur/Bloom]
 author=PeterDelta

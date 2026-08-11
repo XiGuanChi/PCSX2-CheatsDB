@@ -9,7 +9,7 @@ dpatch=0,4,4,54,A2B01680,68,A2A01680,6C,3C030022,70,8C63DDA4,0,00000000,4C,00000
 gsaspectratio=16:9
 author=PsxFan107
 
-// Code patching routine DWORD
+[Code patching routine DWORD]
 patch=1,EE,200C0000,extended,3C1B000C
 patch=1,EE,200C0004,extended,DF7101A0
 patch=1,EE,200C0008,extended,14510005
@@ -54,7 +54,7 @@ patch=1,EE,200C00C4,extended,AC71FFC8
 patch=1,EE,200C00C8,extended,08055DEF
 patch=1,EE,200C00CC,extended,FC62FFF8
 
-// Code patching routine WORD
+[Code patching routine WORD]
 patch=1,EE,200C00D0,extended,3C1B000C
 patch=1,EE,200C00D4,extended,8F7101A0
 patch=1,EE,200C00D8,extended,14510005
@@ -99,66 +99,66 @@ patch=1,EE,200C0194,extended,ACD1FFC8
 patch=1,EE,200C0198,extended,08055E03
 patch=1,EE,200C019C,extended,ACC2FFFC
 
-// Refrence DWORD/WORD for Widescreen
-//Note: The patching routine uses this to patch an address before this in memory.
+[Refrence DWORD/WORD for Widescreen]
+[Note: The patching routine uses this to patch an address before this in memory.]
 patch=1,EE,200C01A0,extended,C6030210
 patch=1,EE,200C01A4,extended,4600A306
 
-// Refrence DWORD/WORD for hoverbike zoom fix 1
-//Note: The patching routine uses this to patch an address before this in memory.
+[Refrence DWORD/WORD for hoverbike zoom fix 1]
+[Note: The patching routine uses this to patch an address before this in memory.]
 patch=1,EE,200C01A8,extended,02242018
 patch=1,EE,200C01AC,extended,02329018
 
-// Refrence DWORD/WORD for hoverbike zoom  fix 2
-//Note: The patching routine uses this to patch an address before this in memory.
+[Refrence DWORD/WORD for hoverbike zoom  fix 2]
+[Note: The patching routine uses this to patch an address before this in memory.]
 patch=1,EE,200C01B0,extended,C44503A0
 patch=1,EE,200C01B4,extended,01054021
 
-// Refrence  DWORD/WORD for cutscene render fix
-//Note: The patching routine uses this to patch two addresses before this in memory.
+[Refrence  DWORD/WORD for cutscene render fix]
+[Note: The patching routine uses this to patch two addresses before this in memory.]
 patch=1,EE,200C01B8,extended,E7B40070
 patch=1,EE,200C01BC,extended,82020090
 
-// Refrence  DWORD/WORD for alt coop widescreen branch 1
+[Refrence  DWORD/WORD for alt coop widescreen branch 1]
 patch=1,EE,200C01C0,extended,34A54040
 patch=1,EE,200C01C4,extended,27848861
 
-// Refrence  DWORD/WORD for alt coop widescreen branch 2
+[Refrence  DWORD/WORD for alt coop widescreen branch 2]
 patch=1,EE,200C01C8,extended,1083FFF7
 patch=1,EE,200C01CC,extended,24020002
 
-// Refrence  DWORD/WORD for alt coop widescreen branch 3
+[Refrence  DWORD/WORD for alt coop widescreen branch 3]
 patch=1,EE,200C01D4,extended,8C622670
 patch=1,EE,200C01D0,extended,8E430000
 
-// Refrence  DWORD/WORD for alt coop widescreen branch 4
+[Refrence  DWORD/WORD for alt coop widescreen branch 4]
 patch=1,EE,200C01D8,extended,C48F0014
 patch=1,EE,200C01DC,extended,C48E0010
 
-// Refrence  DWORD/WORD for alt coop widescreen branch 5
+[Refrence  DWORD/WORD for alt coop widescreen branch 5]
 patch=1,EE,200C01E0,extended,C4A40000
 patch=1,EE,200C01E4,extended,3C014122
 
-// Replacement  WORDs for widescreen
+[Replacement  WORDs for widescreen]
 patch=1,EE,200C01E8,extended,0C030083
 patch=1,EE,200C01EC,extended,14600007
 
-//Replacement  WORD for hoverbike zoom fix
+[Replacement  WORD for hoverbike zoom fix]
 patch=1,EE,200C01F0,extended,461E0543
 
-// Replacement  WORDs for cutscene render fix
+[Replacement  WORDs for cutscene render fix]
 patch=1,EE,200C01F4,extended,3C013F1C
 patch=1,EE,200C01F8,extended,AEA100B0
 
-// Replacement WORDs for alt coop widescreen
+[Replacement WORDs for alt coop widescreen]
 patch=1,EE,200C01FC,extended,1440006E
 patch=1,EE,200C0200,extended,14400007
 patch=1,EE,200C0204,extended,14600009
 patch=1,EE,200C0208,extended,1440000F
 
-// Hor FOV recalulation routine
-// This routine checks if an unpatched HOR FOV currently resides in ram,
-// by iterating through a list and patching the value if a match is found.
+[Hor FOV recalulation routine]
+[This routine checks if an unpatched HOR FOV currently resides in ram,]
+[by iterating through a list and patching the value if a match is found.]
 patch=1,EE,200C020C,extended,C77E0250
 patch=1,EE,200C0210,extended,3C01000C
 patch=1,EE,200C0214,extended,34210274
@@ -177,7 +177,7 @@ patch=1,EE,200C0248,extended,03E00008
 patch=1,EE,200C024C,extended,3C1B000C
 patch=1,EE,200C0250,extended,3F400000
 
-// Unpatched Hor FOV values
+[Unpatched Hor FOV values]
 patch=1,EE,200C0254,extended,3F1EB852
 patch=1,EE,200C0258,extended,3ED40674
 patch=1,EE,200C025C,extended,3F1EBA08
@@ -187,13 +187,13 @@ patch=1,EE,200C0268,extended,3F5A3FCB
 patch=1,EE,200C026C,extended,3F870CAE
 patch=1,EE,200C0270,extended,3F53A04B
 
-// Jump to DWORD patching routine
+[Jump to DWORD patching routine]
 patch=1,EE,201577B4,extended,08030000
 
-// Jump to WORD patching routine
+[Jump to WORD patching routine]
 patch=1,EE,20157804,extended,08030034
 
-//Force built-in widescreen
+[Force built-in widescreen]
 patch=1,EE,E0010101,extended,00171DE8
 patch=1,EE,00171DEB,byte,00000001
 

@@ -5,9 +5,9 @@ gsaspectratio=16:9
 author=nemesis2000 & PsxFan107, ported by arapapa
 description=Renders the game in 16:9 aspect ratio, instead of 4:3.
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
+[X-Fov]
 patch=1,EE,001439e8,word,3c013fdd //3c013fa6
 patch=1,EE,001439ec,word,3421a51d //34213bd8
 
@@ -21,14 +21,14 @@ gsinterlacemode=1
 author=asasega
 description=No Interlacing
 
-// No Interlacing by asasega
+[No Interlacing by asasega]
 patch=1,EE,20203F84,extended,00000000
 
 [No Motion Blur]
 author=Meos
 description=No Motion Blur
 
-// No Motion Blur by Meos
+[No Motion Blur by Meos]
 patch=1,EE,2015F604,extended,08057D85
 patch=1,EE,20190C20,extended,0806430C
 patch=1,EE,201EB7E8,extended,0807ADFD

@@ -4,7 +4,7 @@ gametitle=Terminator 3 - Rise of the Machines (PAL-S) SLES-52039 BE408EFF
 gsaspectratio=16:9
 author=PeterDelta
 description=Renders the game in 16:9 aspect ratio.
-//Ported from SLUS-20799 by Arapapa
+[Ported from SLUS-20799 by Arapapa]
 patch=1,EE,0026D620,word,080BE376
 patch=1,EE,002F8DD8,word,4600A346
 patch=1,EE,002F8DDC,word,3C013F40

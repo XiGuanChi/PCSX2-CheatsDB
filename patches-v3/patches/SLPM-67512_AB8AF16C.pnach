@@ -4,10 +4,10 @@ gametitle=2002 FIFA World Cup Korea Japan (K)(SLPM-67512)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//83100c46 180080ac
+[X-Fov]
+[83100c46 180080ac]
 patch=1,EE,003086ac,word,08030000
 
 patch=1,EE,000c0000,word,460c1083

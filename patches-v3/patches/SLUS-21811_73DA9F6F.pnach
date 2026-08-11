@@ -4,7 +4,7 @@ gametitle=MotoGP 08 (USA) [SLUS-21811]
 gsaspectratio=16:9
 author=El_Patas (NTSC-U by Arapapa)
 
-//Gameplay 16:9
+[Gameplay 16:9]
 patch=1,EE,0020ee98,word,4482e000 //44820000
 patch=1,EE,0020eea8,word,460ce002 //460c0002
 patch=1,EE,0020eeac,word,4483e800 //44830800

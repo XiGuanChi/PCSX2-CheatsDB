@@ -4,7 +4,7 @@ gametitle=God of War (PAL-M) (SCES-53133) FB0E6D72
 gsaspectratio=16:9
 author=Some Chump and PeterDelta
 description=Corrects display cropping to 16:9.
-//Ported from SCUS-97399 by nemesis2000
+[Ported from SCUS-97399 by nemesis2000]
 patch=1,EE,00169268,word,3c013f11
 patch=1,EE,0016926c,word,342135fc
 patch=1,EE,00169270,word,44812000
@@ -143,11 +143,11 @@ patch=1,EE,202FF9B0,extended,3FE38E39
 patch=1,EE,202FF9E8,extended,3FE38E39
 patch=1,EE,20331330,extended,3FE38E39
 
-//[480p Mode]
-//author=PeterDelta
-//description=SDTV 480p mode at start. Cannot be conditioned, FMV no sync, gameplay is fine
-//patch=1,EE,0029DACC,extended,00000001
-//patch=1,EE,2029D284,extended,3F555550
+[[480p Mode]]
+[author=PeterDelta]
+[description=SDTV 480p mode at start. Cannot be conditioned, FMV no sync, gameplay is fine]
+[patch=1,EE,0029DACC,extended,00000001]
+[patch=1,EE,2029D284,extended,3F555550]
 
 [Skip Cutscenes]
 author=Ezedequias

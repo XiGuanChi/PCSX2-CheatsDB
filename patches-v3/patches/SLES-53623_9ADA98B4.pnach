@@ -5,7 +5,7 @@ gsaspectratio=16:9
 author=Bigdemon
 description=Widescreen hack Conversion
 
-//gameplay
+[gameplay]
 patch=1,EE,0035d390,word,0c045286
 patch=1,EE,0035d394,word,00000000
 patch=1,EE,0035d398,word,3c023f40

@@ -2,7 +2,7 @@
 gsaspectratio=16:9
 description=Corvette (PAL)
 
-//widescreen patch
+[widescreen patch]
 patch=1,EE,214FEAF0,word,3FB60B60
 
 

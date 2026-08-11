@@ -1,5 +1,5 @@
 gametitle=Gran Turismo 3: A-Spec [PS2 Bundle] (v1.10) * NTSC-U * PBPX-95503 * 8AA991B0
-// same CRC as SCES-50294_8AA991B0.
+[same CRC as SCES-50294_8AA991B0.]
 
 [No-Interlacing]
 author=asasega
@@ -21,26 +21,26 @@ patch=1,EE,20250D84,extended,00832025
 description=Makes throttle/brake more precise when using triggers, like on the PS3
 author=Silent & Aero_
 
-// Throttle
+[Throttle]
 patch=1,EE,10211218,extended,0000005A
-// Brake
+[Brake]
 patch=1,EE,10211260,extended,0000005A
-// Reverse
+[Reverse]
 patch=1,EE,102112F0,extended,0000005A
-// Input multiplier
+[Input multiplier]
 patch=1,EE,20211014,extended,00000000
 
 [Metric units]
 description=Changes MPH to KMH, ft.lb to kgf.m
 author=Silent
 
-// Speed and distance units
-// 0 - KMH/KM
-// 1 - MPH/Miles
+[Speed and distance units]
+[0 - KMH/KM]
+[1 - MPH/Miles]
 patch=1,EE,202F59D8,extended,0
 
-// Torque units
-// 0 - kgf.m
-// 1 - ft.lb
-// 2 - NM
+[Torque units]
+[0 - kgf.m]
+[1 - ft.lb]
+[2 - NM]
 patch=1,EE,202F59E0,extended,0

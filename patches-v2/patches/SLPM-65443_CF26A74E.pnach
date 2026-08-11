@@ -4,7 +4,7 @@ gametitle=Front Mission 4 (J)(SLPM-65443)
 gsaspectratio=16:9
 author=99skull (NTSC-J by Arapapa)
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,00159268,word,3c024380 //3c024340
 patch=1,EE,00159304,word,3c023ee6 //3c023f19

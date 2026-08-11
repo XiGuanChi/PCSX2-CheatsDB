@@ -18,4 +18,4 @@ patch=1,EE,0091E6C8,word,00000001 //00000002
 author=PeterDelta
 description=NTSC mode at start.
 patch=1,EE,0040650C,word,14000012
-//patch=1,EE,0091E600,word,3F555550
+[patch=1,EE,0091E600,word,3F555550]

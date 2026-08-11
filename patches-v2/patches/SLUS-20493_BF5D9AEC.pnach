@@ -13,7 +13,7 @@ patch=1,EE,00143504,word,2402010e //24020168 renderfix
 [No-Interlacing]
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
-//No-Interlacing
+[No-Interlacing]
 patch=1,EE,001af74c,word,00000000 //64420008
 
 

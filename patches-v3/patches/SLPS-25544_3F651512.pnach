@@ -1,16 +1,16 @@
 gametitle=Zero: Shisei no Koe * NTSC-J * SLPS-25544 * 3F651512
-// Fatal Frame III: The Tormented
-// Project Zero 3: The Tormented
+[Fatal Frame III: The Tormented]
+[Project Zero 3: The Tormented]
 
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ported by Little Giant
 
-// gameplay
+[gameplay]
 patch=1,EE,0032006c,word,3f400000
-//patch=1,EE,203E185C,extended,3F400000
+[patch=1,EE,203E185C,extended,3F400000]
 
-// FMV fix (new)
+[FMV fix (new)]
 patch=1,EE,00368140,word,44200000 // 44200000
 patch=1,EE,00368148,word,3e333333 // 3f800000
 
@@ -33,11 +33,11 @@ patch=1,EE,00212844,word,4600b583 // 4600b583
 patch=1,EE,00212848,word,448e0800 // 00000000
 patch=1,EE,0021284c,word,46800860 // 00000000
 
-// FMW's fix (old)
-//patch=1,EE,00368140,word,43f00000
-//patch=1,EE,00368148,word,42d40000
+[FMW's fix (old)]
+[patch=1,EE,00368140,word,43f00000]
+[patch=1,EE,00368148,word,42d40000]
 
-// ==========
+[==========]
 
 [Disable Dither & Ghost Post-Process effect]
 patch=1,EE,00156024,word,00000000 // 0c055954

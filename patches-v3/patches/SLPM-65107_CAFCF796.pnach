@@ -4,7 +4,7 @@ gametitle=Simple 2000 Series Ultimate Vol. 02 - Edit Racing (J)(SLPM-65107)
 gsaspectratio=16:9
 author=El_Patas & Arapapa
 
-//Wide Screen 16:9
+[Wide Screen 16:9]
 
 patch=1,EE,00213db8,word,08090324 //c6010068
 

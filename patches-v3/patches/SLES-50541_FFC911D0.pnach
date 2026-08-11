@@ -4,7 +4,7 @@ gametitle=Capcom vs SNK 2: Mark of the Millennium 2001 [PAL] (SLES_505.41)
 gsaspectratio=16:9
 author=El_Patas
 
-//Gameplay 16:9
+[Gameplay 16:9]
 patch=1,EE,00142E50,word,3C023FAA //3C023F80 (Increases hor. axis)
 patch=1,EE,001430C4,word,3C023FAA //3C023F80
 patch=1,EE,00124FA0,word,AC83003C //03E00008

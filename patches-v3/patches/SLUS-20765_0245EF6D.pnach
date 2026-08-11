@@ -6,7 +6,7 @@ gsaspectratio=16:9
 
 patch=1,EE,0038ca78,word,3fe38e39
 
-//FMV's fix by nemesis2000
+[FMV's fix by nemesis2000]
 patch=1,EE,001bbb04,word,00000000
 
 patch=1,EE,0037968c,word,24060015

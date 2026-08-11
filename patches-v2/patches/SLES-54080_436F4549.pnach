@@ -4,10 +4,10 @@ gametitle=World Super Police (E)(SLES-54080)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//00001fe6 2d280002
+[X-Fov]
+[00001fe6 2d280002]
 patch=1,EE,001055b0,word,08030000
 
 patch=1,EE,000c0000,word,3c013f40

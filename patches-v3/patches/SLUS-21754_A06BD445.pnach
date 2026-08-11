@@ -4,10 +4,10 @@ gametitle=CID the Dummy (U)(SLUS-21754)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//06a30046 86050046
+[X-Fov]
+[06a30046 86050046]
 patch=1,EE,00228aa0,word,08030000
 
 patch=1,EE,000c0000,word,46000586

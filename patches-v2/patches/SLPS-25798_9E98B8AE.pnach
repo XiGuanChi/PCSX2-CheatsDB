@@ -4,10 +4,10 @@ gametitle=Ikki Tousen - Shining Dragon NTSC-J (SLPS-25798)
 gsaspectratio=16:9
 description=Widescreen hack
 
-//battle
+[battle]
 patch=1,EE,2046E050,extended,3FE37FA9
 
-//other
+[other]
 patch=1,EE,2076A160,extended,3F400000
 patch=1,EE,2076BA50,extended,3F400000
 patch=1,EE,2076C770,extended,3F400000
@@ -58,7 +58,7 @@ patch=1,EE,2076B900,extended,3F400000
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
 
-//No-Interlacing
+[No-Interlacing]
 patch=1,EE,00371834,word,30620000
 
 

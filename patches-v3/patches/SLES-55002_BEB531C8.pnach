@@ -4,9 +4,9 @@ gametitle=Need for Speed - ProStreet (PAL-E) (SLES-55002)
 gsaspectratio=16:9
 description=Widescreen Mode (16:9)
 author=Xan1242 & Aero_, ported by Silent
-// Enables Widescreen Mode
+[Enables Widescreen Mode]
 patch=0,EE,20168A10,extended,24020001 // li v0, 1
-// Corrects Aspect Ratio
+[Corrects Aspect Ratio]
 patch=0,EE,20682BF0,extended,3F400000 // Horizontal: 0.75f
 patch=0,EE,20682BF4,extended,3FA0EA0F // Vertical: 1.2571429f
 
@@ -14,7 +14,7 @@ patch=0,EE,20682BF4,extended,3FA0EA0F // Vertical: 1.2571429f
 author=Silent
 description=Fixes the career cash bonus not checking for Most Wanted: Black Edition.
 
-// Check for BESLES-53857 by reusing one of the unused UG2 serials (BASLUS-21065)
+[Check for BESLES-53857 by reusing one of the unused UG2 serials (BASLUS-21065)]
 patch=0,EE,2060E230,extended,4C534542
 patch=0,EE,2060E234,extended,352D5345
 patch=0,EE,2060E238,extended,37353833

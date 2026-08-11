@@ -4,9 +4,9 @@ gametitle=Tim Burton's The Nightmare Before Christmas (NTSC-U)(SLUS-20860)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//d7a3f03e 00000045 00000045 0000a040
+[d7a3f03e 00000045 00000045 0000a040]
 patch=1,EE,2070CDD8,extended,3F206D2F // 3ef0a3d7
 
 patch=1,EE,2151E1D4,extended,3F19999A // 3D figures

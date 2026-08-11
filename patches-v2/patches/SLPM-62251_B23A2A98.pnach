@@ -4,9 +4,9 @@ gametitle=Simple 2000 Series Vol. 14 - The Billiard
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
+[X-Fov]
 patch=1,EE,008ac548,word,08231f78 //e6180000
 patch=1,EE,008c7de0,word,3c1b3f40
 patch=1,EE,008c7de4,word,449bb800

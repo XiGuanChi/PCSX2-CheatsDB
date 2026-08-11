@@ -1,17 +1,17 @@
 gametitle=Tourist Trophy - The Real Riding Simulator (PAL-M) SCES-53372 CA9AA903
 
-//[Widescreen 16:9]
-//gsaspectratio=16:9
-//author=PeterDelta
-//description=Habilita pantalla panorámica nativa. Esta configuración se guarda en memory card por lo que no es necesario.
-//patch=1,EE,00581BB4,extended,01
-//patch=1,EE,00581BB8,extended,01
-//patch=1,EE,00581FA0,extended,01
-//patch=1,EE,0082EF44,extended,01
-//patch=1,EE,2082EF5C,extended,438A05E3
-//patch=1,EE,2082EF60,extended,43D48000
-//patch=1,EE,2082EF64,extended,43700000
-//patch=1,EE,2082EF68,extended,3F7AE147
+[[Widescreen 16:9]]
+[gsaspectratio=16:9]
+[author=PeterDelta]
+[description=Habilita pantalla panorámica nativa. Esta configuración se guarda en memory card por lo que no es necesario.]
+[patch=1,EE,00581BB4,extended,01]
+[patch=1,EE,00581BB8,extended,01]
+[patch=1,EE,00581FA0,extended,01]
+[patch=1,EE,0082EF44,extended,01]
+[patch=1,EE,2082EF5C,extended,438A05E3]
+[patch=1,EE,2082EF60,extended,43D48000]
+[patch=1,EE,2082EF64,extended,43700000]
+[patch=1,EE,2082EF68,extended,3F7AE147]
 
 [480p Mode]
 author=PeterDelta

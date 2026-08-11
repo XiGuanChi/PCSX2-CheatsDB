@@ -4,7 +4,7 @@ gametitle=Ace Combat 04: Shattered Skies (SLUS-20152)
 gsaspectratio=16:9
 author=nemesis2000
 
-//widescreen fix
+[widescreen fix]
 patch=1,EE,0040DACC,word,441CF7AE
 
 

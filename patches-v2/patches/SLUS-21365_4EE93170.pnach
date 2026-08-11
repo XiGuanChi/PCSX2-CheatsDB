@@ -110,7 +110,7 @@ patch=1,EE,004f2824,word,3f013f80
 patch=1,EE,004f2828,word,0c04ecbc
 patch=1,EE,004f282c,word,e7b401ac
 
-//480p
+[480p]
 patch=1,EE,0010023c,word,3c050000
 patch=1,EE,00100244,word,3c060050
 patch=1,EE,0010024c,word,3c070001

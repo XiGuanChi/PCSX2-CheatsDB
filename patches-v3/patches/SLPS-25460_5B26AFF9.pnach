@@ -4,7 +4,7 @@ gametitle=Dragon Ball Z 3 (J)(SLPS-25460)
 gsaspectratio=16:9
 author=ElHecht (NTSC-J by Arapapa)
 
-// 16:9
+[16:9]
 patch=1,EE,00131ba8,word,080c92ea // 46000803 jump to code-inject 003247c8
 patch=1,EE,00131bac,word,00000000 // e7808744
 

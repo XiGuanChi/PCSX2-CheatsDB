@@ -4,7 +4,7 @@ gametitle=Dirge of Cerberus - Final Fantasy VII (J)(SLPM-66271)
 gsaspectratio=16:9
 description=Widescreen hack
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,0042c428,word,3c013fc9 //3c013f97
 patch=1,EE,0042c42c,word,342162d8 //34210a3d

@@ -5,11 +5,11 @@ gsaspectratio=16:9
 author=Souzooka
 description=16:9 3D with 16:9-optimized UI
 
-// 3D aspect ratio
+[3D aspect ratio]
 patch=0,EE,2021F798,extended,3C013F40 // lui $at, 0x3F40
 
-// Fix culling of 3D environment mesh subdivisions on sides of screen
-// Also fixes the camera being able to slightly go through objects after changing 3D aspect
+[Fix culling of 3D environment mesh subdivisions on sides of screen]
+[Also fixes the camera being able to slightly go through objects after changing 3D aspect]
 patch=0,EE,2021F550,extended,0          // Removes a branch to PAL logic
 patch=0,EE,2021F558,extended,3C013F40   // lui $at, 0x3F40
 patch=0,EE,2021F55C,extended,4481B800   // mtc1 $at, $f23
@@ -26,9 +26,9 @@ patch=0,EE,2021F584,extended,0          // nop
 patch=0,EE,2021F588,extended,0          // nop
 patch=0,EE,2021F58C,extended,E7A00050   // swc1 $f0, 0x50($sp)
 
-// Various UI Scaling Functions
-// Function 1
-// Known to affect the middle portion of the minimap border/transparent overlay
+[Various UI Scaling Functions]
+[Function 1]
+[Known to affect the middle portion of the minimap border/transparent overlay]
 patch=0,EE,20206160,extended,0          // nop
 patch=0,EE,2020616C,extended,22900      // sll a1,v0,0x04
 patch=0,EE,20206170,extended,20880      // sll at,v0,0x02
@@ -53,9 +53,9 @@ patch=0,EE,202061B8,extended,0          // nop
 patch=0,EE,202061BC,extended,10000010   // beq zero,zero,0x00206200
 patch=0,EE,202061C0,extended,0          // nop
 
-// Function 2
-// Known to affect most UI -- speedometer, minimap left/right borders, chat windows,
-// pause menus, etc.
+[Function 2]
+[Known to affect most UI -- speedometer, minimap left/right borders, chat windows,]
+[pause menus, etc.]
 patch=0,EE,202064DC,extended,0          // nop
 patch=0,EE,202064E4,extended,25890040   // addiu t1,t4,0x40
 patch=0,EE,202064E8,extended,6D1021     // addu v0,v1,t5
@@ -82,8 +82,8 @@ patch=0,EE,20206538,extended,0          // nop
 patch=0,EE,2020653C,extended,1000000F   // beq zero,zero,0x2020657C
 patch=0,EE,20206540,extended,0          // nop
 
-// Function 3
-// Known to affect quick-pic photos, the small trophies in My Garage
+[Function 3]
+[Known to affect quick-pic photos, the small trophies in My Garage]
 patch=0,EE,20206764,extended,25A90040   // addiu t1,t5,0x40
 patch=0,EE,20206768,extended,6E1021     // addu v0,v1,t6
 patch=0,EE,2020676C,extended,30880      // sll at,v1,0x02
@@ -105,8 +105,8 @@ patch=0,EE,202067A8,extended,A5070002   // sh a3,0x2(t0)
 patch=0,EE,202067AC,extended,10000014   // beq zero,zero,0x00206800
 patch=0,EE,202067B0,extended,A5260002   // sh a2,0x2(t1)
 
-// Function 4
-// Affects the color bar widths in paint shop, the text for part names in shops I believe
+[Function 4]
+[Affects the color bar widths in paint shop, the text for part names in shops I believe]
 patch=0,EE,202075F0,extended,1064021    // addu t0,t0,a2
 patch=0,EE,202075F4,extended,61100      // sll v0,a2,0x04
 patch=0,EE,202075F8,extended,60880      // sll at,a2,0x02
@@ -127,8 +127,8 @@ patch=0,EE,20207630,extended,A4870002   // sh a3,0x2(a0)
 patch=0,EE,20207634,extended,3E00008    // jr ra
 patch=0,EE,20207638,extended,A4A90002   // sh t1,0x2(a1)
 
-// Function 5
-// Affects the scale of the paint spray effect in the paint shop
+[Function 5]
+[Affects the scale of the paint spray effect in the paint shop]
 patch=0,EE,202079A8,extended,52940      // sll a1,a1,0x05
 patch=0,EE,202079AC,extended,852021     // addu a0,a0,a1
 patch=0,EE,202079B0,extended,60880      // sll at,a2,0x02
@@ -143,10 +143,10 @@ patch=0,EE,202079D0,extended,AC880038   // sw t0,0x38(a0)
 patch=0,EE,202079D4,extended,3E00008    // jr ra
 patch=0,EE,202079D8,extended,AC80003C   // sw zero,0x3C(a0)
 
-// Function 6
-// Affects the BG for part windows in the shop, BGs for courses in course select
-// in particular this calculates the four points of the rectangular BG
-// This also rolls up an unrolled loop so it leaves a lot of blank space afterwards
+[Function 6]
+[Affects the BG for part windows in the shop, BGs for courses in course select]
+[in particular this calculates the four points of the rectangular BG]
+[This also rolls up an unrolled loop so it leaves a lot of blank space afterwards]
 patch=0,EE,20244200,extended,24840010   // addiu a0,a0,0x10
 patch=0,EE,20244204,extended,54400      // sll t0,a1,0x10
 patch=0,EE,20244208,extended,84403      // sra t0,t0,0x10
@@ -185,10 +185,10 @@ patch=0,EE,20244288,extended,24840030   // addiu a0,a0,0x30
 patch=0,EE,2024428C,extended,3E00008    // jr ra
 patch=0,EE,20244290,extended,0          // nop
 
-// After function 6's correction we'll have to write some more custom code to correct the parts wheel in shops/map wheel in quick race
+[After function 6's correction we'll have to write some more custom code to correct the parts wheel in shops/map wheel in quick race]
 patch=0,EE,20246D54,extended,3C014320   // lui at,0x4320    // h. scale of parts wheel
 patch=0,EE,20246D94,extended,245E0112   // addiu fp,v0,0x112    // h. position of parts wheel
-// And then this assembly corrects the positioning of 3D models for parts in the part select
+[And then this assembly corrects the positioning of 3D models for parts in the part select]
 patch=0,EE,20246FB4,extended,E7A00048   // swc1 f00,0x48(sp)
 patch=0,EE,20246FB8,extended,1E2083     // sra a0,fp,0x02
 patch=0,EE,20246FBC,extended,3C42023    // subu a0,fp,a0
@@ -210,14 +210,14 @@ patch=0,EE,20246FF8,extended,46806320   // cvt.s.w f12,f12
 patch=0,EE,20246FFC,extended,1000001A   // beq zero,zero,0x00247068
 patch=0,EE,20247000,extended,0          // nop
 
-// Changes to fix up the map select wheel for quick race
+[Changes to fix up the map select wheel for quick race]
 patch=0,EE,20245BFC,extended,3C0143A0   // lui at,0x43A0 // h.scale of map wheel
 patch=0,EE,20245C18,extended,245201AB   // addiu s2,v0,0x1AB    // h. pos of map wheel
 patch=0,EE,20245D68,extended,240401AB   // addiu a0,zero,0x1AB  // h. position of map window after choice
 patch=0,EE,20245D98,extended,2451010B   // addiu s1,v0,0x10B    // h. position of map window before choice
 patch=0,EE,20245DA8,extended,2411010B   // addiu s1,zero,0x10B  // h. position of map window before choice
 patch=0,EE,20245DB8,extended,241101AB   // addiu s1,zero,0x1AB  // h. position of map window after choice
-// Fix 3D map clips
+[Fix 3D map clips]
 patch=0,EE,20244A80,extended,100802D    // daddu s0,t0,zero
 patch=0,EE,20244A84,extended,30A3FFFF   // andi v1,a1,0xFFFF
 patch=0,EE,20244A88,extended,AD2824     // and a1,a1,t5
@@ -235,7 +235,7 @@ patch=0,EE,20244AB4,extended,3042FFFF   // andi v0,v0,0xFFFF
 patch=0,EE,20244AB8,extended,21438      // dsll v0,v0,0x10
 patch=0,EE,20244ABC,extended,10000008   // beq zero,zero,0x00244AE0
 patch=0,EE,20244AC0,extended,A22825     // or a1,a1,v0
-// Fix 3D map camera
+[Fix 3D map camera]
 patch=0,EE,20244C68,extended,122083     // sra a0,s2,0x02
 patch=0,EE,20244C6C,extended,2442023    // subu a0,s2,a0
 patch=0,EE,20244C70,extended,1117C2     // srl v0,s1,0x1F
@@ -256,8 +256,8 @@ patch=0,EE,20244CA8,extended,46806320   // cvt.s.w f12,f12
 patch=0,EE,20244CAC,extended,1000001B   // beq zero,zero,0x00244D1C
 patch=0,EE,20244CB0,extended,0          // nop
 
-// Function 7
-// Corrects scale of speedometer needle/gas gauge (normal meter), some other random UI
+[Function 7]
+[Corrects scale of speedometer needle/gas gauge (normal meter), some other random UI]
 patch=0,EE,2024ED34,extended,24E70600   // addiu a3,a3,0x600  // Adjusts x position of UI
 patch=0,EE,2024ED64,extended,C09CB56    // jal 0x272D58   // Jump to sceVu0CameraMatrix (unused) where we'll write some scaling code
 
@@ -274,8 +274,8 @@ patch=0,EE,20272D7C,extended,460A5AC2   // mul.s f11,f11,f10
 patch=0,EE,20272D80,extended,3E00008    // jr ra
 patch=0,EE,20272D84,extended,E7AB0020   // swc1 f11,0x20(sp)
 
-// Function 8
-// Corrects position of the button indicator in controls settings
+[Function 8]
+[Corrects position of the button indicator in controls settings]
 patch=0,EE,20207AB8,extended,50900      // sll at,a1,0x04
 patch=0,EE,20207ABC,extended,52880      // sll a1,a1,0x02
 patch=0,EE,20207AC0,extended,252823     // subu a1,at,a1
@@ -288,11 +288,11 @@ patch=0,EE,20207AD8,extended,1000000B   // beq zero,zero,0x00207B08
 patch=0,EE,20207ADC,extended,A4860012   // sh a2,0x12(a0)
 
 
-// At this point for the most part UI should be aspect corrected, but all left-aligned and using up a 4:3 space
-// So the positions of all UI elements will have to be changed
-// In general, approximately 0x6B units needs to be added to center-aligned elements, while 0xD6 needs to be added to right-aligned elements
+[At this point for the most part UI should be aspect corrected, but all left-aligned and using up a 4:3 space]
+[So the positions of all UI elements will have to be changed]
+[In general, approximately 0x6B units needs to be added to center-aligned elements, while 0xD6 needs to be added to right-aligned elements]
 
-// Speedometers
+[Speedometers]
 patch=0,EE,202A8FF0,extended,2B9    // Normal Meter h. pos
 patch=0,EE,202A8FF8,extended,2B9    // Normal Meter h. pos (2 player)
 patch=0,EE,202A9000,extended,2B9    // Normal Meter h. pos (2 player)
@@ -325,10 +325,10 @@ patch=0,EE,202A9AF0,extended,2C2    // Digital Meter h. pos
 patch=0,EE,202A9AF8,extended,2C2    // Digital Meter h. pos (2 player)
 patch=0,EE,202A9B00,extended,2C2    // Digital Meter h. pos (2 player)
 
-// Most text
+[Most text]
 patch=0,EE,2020433C,extended,24480075   // addiu t0,v0,0x75
 
-// Chat textbox
+[Chat textbox]
 patch=0,EE,2020295C,extended,2405008A   // addiu a1,zero,0x8A // Chat box left border
 patch=0,EE,202029A8,extended,2405008A   // addiu a1,zero,0x8A // Chat box left border
 patch=0,EE,202029F0,extended,240500B2   // addiu a1,zero,0xB2 // Chat box middle
@@ -349,7 +349,7 @@ patch=0,EE,20202CD8,extended,240502A8   // addiu a1,zero,0x2A8 // Chat nametag p
 patch=0,EE,2023AA04,extended,241200B0   // addiu s2,zero,0xB0 // Chat text
 patch=0,EE,2023B454,extended,240402A8   // addiu a0,zero,0x2A8 // Chat nametag text
 
-// minimap
+[minimap]
 patch=0,EE,2021F96C,extended,3C013F40   // lui at,0x3F40 // Horizontal scale of minimap
 patch=0,EE,20332EF4,extended,3F400000   // Fixes bug where overworld minimap shifts gradually horizontally when travelling horizontally along terrain mesh
 patch=0,EE,202424CC,extended,0          // nop // overwrite branch to use PAL logic for overworld minimap
@@ -365,7 +365,7 @@ patch=0,EE,20242964,extended,3C0144D8   // lui at,0x44D8 // 3d Minimap model hor
 patch=0,EE,20242C18,extended,0          // nop // overwrite branch to use PAL logic for golf minimap
 patch=0,EE,20242C2C,extended,3C0144D8   // lui at,0x44D8 // 3d Minimap model horizontal position (in golf)
 
-// Title menu items
+[Title menu items]
 patch=0,EE,2020326C,extended,24040219   // addiu a0,zero,0x219 // BG for "button Enter" text
 patch=0,EE,20203290,extended,24040219   // addiu a0,zero,0x219 // BG for "button Enter" and "button Back" text
 patch=0,EE,20205C88,extended,240301AB   // addiu v1,zero,0x1AB // Default h. pos parameter for dark blue UI windows
@@ -409,7 +409,7 @@ patch=0,EE,2026A880,extended,2404020F   // addiu a0,zero,0x20F // 2ND result tim
 patch=0,EE,2026A8A4,extended,2404020F   // addiu a0,zero,0x20F // 3RD result time
 patch=0,EE,202087B8,extended,240500E9   // addiu a1,zero,0xE9 // Conspiracy Entertainment Logo h. pos
 
-// Quick Race select (slightly stretch clouds in background (by about ~6%) to leave no empty spots)
+[Quick Race select (slightly stretch clouds in background (by about ~6%) to leave no empty spots)]
 patch=0,EE,202458A4,extended,241700D4   // addiu s7,zero,0xD4 // Was addiu s7,zero,0xC8 -- fixes offsets/wrapping
 patch=0,EE,20245924,extended,2610FFFF   // addiu s0,s0,-0x1
 patch=0,EE,20245928,extended,7FAB0020   // sq t3,0x20(sp)
@@ -424,7 +424,7 @@ patch=0,EE,20245948,extended,8641FFF0   // lh at,-0x10(s2) // These 3 is the act
 patch=0,EE,2024594C,extended,242100C0   // addiu at,at,0xC0
 patch=0,EE,20245950,extended,A641FFF0   // sh at,-0x10(s2)
 patch=0,EE,20248320,extended,24040269   // addiu a0,zero,0x269
-// Quick Race/2 Player text/elements
+[Quick Race/2 Player text/elements]
 patch=0,EE,2024835C,extended,24040269   // addiu a0,zero,0x269  // h. position of right button prompt after choice
 patch=0,EE,2024836C,extended,2404020F   // addiu a0,zero,0x20F  // h. position of left button prompt after choice
 patch=0,EE,20247828,extended,2404027D   // addiu a0,zero,0x27D  // Number of miles
@@ -464,19 +464,19 @@ patch=0,EE,202693FC,extended,24040223   // addiu a0,zero,0x223  // 2 Player -- B
 patch=0,EE,20269410,extended,24040223   // addiu a0,zero,0x223  // 2 Player -- Bottom bottom right money indicator during part trade confirmation
 patch=0,EE,2026942C,extended,2404026F   // addiu a0,zero,0x26F  // 2 Player -- Arrow between bottom right money indicators during part trade confirmation
 
-// Debug menu
+[Debug menu]
 patch=0,EE,2026B270,extended,2404009D   // addiu a0,zero,0x9D // Left trumpet cursor on race stage select
 patch=0,EE,2026B29C,extended,240401C9   // addiu a0,zero,0x1C9 // Right trumpet cursor on race stage select
 patch=0,EE,2026B678,extended,24040089   // addiu a0,zero,0x89 // Left trumpet cursor on action stage select
 patch=0,EE,2026B6A4,extended,240401B5   // addiu a0,zero,0x1B5 // Right trumpet cursor on action stage select
 
-// New Game screen
+[New Game screen]
 patch=0,EE,2025B5BC,extended,24040094   // addiu a0,zero,0x94 // Character select BG
 patch=0,EE,2025B6BC,extended,2484009E   // addiu a0,a0,0x9E // Character select highlight
 patch=0,EE,2025B75C,extended,2484009E   // addiu a0,a0,0x9E // Character select text
 patch=0,EE,2025BB34,extended,241502DB   // addiu s5,zero,0x2DB // "Enter your name." BG and text
 
-// Pause menus
+[Pause menus]
 patch=0,EE,20212A10,extended,2403030D   // addiu v1,zero,0x30D // Final position of top car in pause menu
 patch=0,EE,20212A60,extended,2409034F   // addiu t1,zero,0x34F // Adjusts position of lower cars in pause menu
 patch=0,EE,20214B48,extended,2401006B   // addiu at,zero,0x6B  // Main pause menu -- BG h.pos
@@ -543,10 +543,10 @@ patch=0,EE,20216DC4,extended,24E70273   // addiu a3,a3,0x273   // Settings menu 
 patch=0,EE,20216F40,extended,2407006B   // addiu a3,zero,0x6B  // Map menu -- Map BG
 patch=0,EE,20216FCC,extended,248400ED   // addiu a0,a0,0xED    // Map menu -- Car icon h. pos
 
-// Stamp/photo/results book part h.positions
-// Background
+[Stamp/photo/results book part h.positions]
+[Background]
 patch=0,EE,202DBDB8,extended,356 // Background width
-// Parts of the actual book
+[Parts of the actual book]
 patch=0,EE,202DBDD0,extended,73
 patch=0,EE,202DBDF8,extended,73
 patch=0,EE,202DBE20,extended,73
@@ -576,15 +576,15 @@ patch=0,EE,202DC1B8,extended,2B3
 patch=0,EE,202DC1E0,extended,1BB
 patch=0,EE,202DC208,extended,1BB
 patch=0,EE,202DC230,extended,1BB
-// Arrows
+[Arrows]
 patch=0,EE,2032F0A0,extended,6B
 patch=0,EE,2032F0C0,extended,6B
-// Re-center page turning effect
+[Re-center page turning effect]
 patch=0,EE,20264E98,extended,240700C0 // addiu a3,zero,0xC0 // white part of 3D page turn
 patch=0,EE,20264FC0,extended,240700C0 // addiu a3,zero,0xC0 // green part of 3D page turn
-// Green text on top/bottom of page
+[Green text on top/bottom of page]
 patch=0,EE,20265048,extended,240900A3 // addiu t1,zero,0xA3
-// Stamp border parts
+[Stamp border parts]
 patch=0,EE,202DC258,extended,BB
 patch=0,EE,202DC280,extended,DB
 patch=0,EE,202DC2A8,extended,15B
@@ -594,18 +594,18 @@ patch=0,EE,202DC320,extended,15B
 patch=0,EE,202DC348,extended,BB
 patch=0,EE,202DC370,extended,DB
 patch=0,EE,202DC398,extended,15B
-// Stamp page numbers
+[Stamp page numbers]
 patch=0,EE,20265308,extended,2405009B // addiu a1,zero,0x9B
 patch=0,EE,20265310,extended,2402027B // addiu v0,zero,0x27B
 patch=0,EE,202653A4,extended,240202AD // addiu v0,zero,0x242
 patch=0,EE,202653A8,extended,240200BF // addiu v0,zero,0xBF
-// Lines under stamp descriptions
+[Lines under stamp descriptions]
 patch=0,EE,202653F8,extended,240200A3 // addiu v0,zero,0xA3
 patch=0,EE,202653FC,extended,240301C3 // addiu v1,zero,0x1C3
-// Stamp description text h. position
+[Stamp description text h. position]
 patch=0,EE,202654D0,extended,248400A7 // addiu a0,a0,0xA7 // When viewing a stamp in the stamps page
 patch=0,EE,2026572C,extended,248400A7 // addiu a0,a0,0xA7 // This is for when a stamp is being initially awarded
-// Stamp positions
+[Stamp positions]
 patch=0,EE,202651E0,extended,32020001 // andi v0,s0,0x0001
 patch=0,EE,202651E8,extended,240100D8 // addiu at,zero,0xD8
 patch=0,EE,202651F0,extended,220018   // mult zero,at,v0
@@ -615,12 +615,12 @@ patch=0,EE,20265208,extended,0        // nop
 patch=0,EE,20265210,extended,0        // nop
 patch=0,EE,20265218,extended,1012     // mflo v0
 patch=0,EE,20265220,extended,24420194 // addiu v0,v0,0x194
-// Photo page numbers
+[Photo page numbers]
 patch=0,EE,20266120,extended,2413027F // addiu s3,zero,0x27F
 patch=0,EE,20266154,extended,24050093 // addiu a1,zero,0x93
 patch=0,EE,20266168,extended,2402020F // addiu v0,zero,0x20F
 patch=0,EE,202661C0,extended,240200C3 // addiu v0,zero,0xC3
-// Correct small photo spacing in photos page
+[Correct small photo spacing in photos page]
 patch=0,EE,20266570,extended,C09CB4C // jal 0x272d30 // jump to a code cave created by overwriting another UI function
 patch=0,EE,20272D30,extended,3C013F40 // lui at,0x3F40
 patch=0,EE,20272D34,extended,44810000 // mtc1 at,f00
@@ -631,7 +631,7 @@ patch=0,EE,20272D44,extended,46000024 // cvt.w.s f00,f00
 patch=0,EE,20272D48,extended,44070000 // mfc1 a3,f00
 patch=0,EE,20272D4C,extended,8093AC4 // j 0x24eb10 // original function call -- this code corrected spacing between photos
 patch=0,EE,20272D50,extended,24E700C0 // addiu a3,a3,0xC0
-// Correct small photo positions in photos page
+[Correct small photo positions in photos page]
 patch=0,EE,202DBD34,extended,125
 patch=0,EE,202DBD40,extended,B3
 patch=0,EE,202DBD4C,extended,125
@@ -642,7 +642,7 @@ patch=0,EE,202DBD7C,extended,1D3
 patch=0,EE,202DBD88,extended,245
 patch=0,EE,202DBD94,extended,1D3
 patch=0,EE,202DBDA0,extended,245
-// Results
+[Results]
 patch=0,EE,202377B4,extended,26310115 // addiu s1,s1,0x115 // Race time text
 patch=0,EE,20267574,extended,2411009D // addiu s1,zero,0x9D // Event (e.g. Figure 8) left page text (when flipping page going right)
 patch=0,EE,202675F4,extended,241101C9 // addiu s1,zero,0x1C9 // Event (e.g. Figure 8) right page text (when flipping page going right)
@@ -651,7 +651,7 @@ patch=0,EE,20267694,extended,241101C9 // addiu s1,zero,0x1C9 // Event (e.g. Figu
 patch=0,EE,2026778C,extended,2411009D // addiu s1,zero,0x9D // Event (e.g. Figure 8) left page text
 patch=0,EE,2026782C,extended,241101C9 // addiu s1,zero,0x1C9 // Event (e.g. Figure 8) right page text
 
-// Part Shops/Q's Factory
+[Part Shops/Q's Factory]
 patch=0,EE,2022E9A4,extended,24040016   // addiu a0,zero,0x16 // Parts description text
 patch=0,EE,2022E9CC,extended,24040015   // addiu a0,zero,0x15 // Parts description BG left bound
 patch=0,EE,2022E9D8,extended,24060023   // addiu a2,zero,0x23 // Parts description BG right bound
@@ -685,11 +685,11 @@ patch=0,EE,20268C08,extended,244201AB   // addiu v0,v0,0x1AB // Buy/sell prompt
 patch=0,EE,2023A274,extended,240401B5   // addiu a0,zero,0x1B5 // Number of miles driven when redeeming advertisement rewards
 patch=0,EE,2023A2A0,extended,240401DD   // addiu a0,zero,0x1DD // Dosh earned when redeeming advertisement rewards
 
-// Bank
+[Bank]
 patch=0,EE,2023A564,extended,241001A3   // addiu s0,zero,0x1A3 // Flashing arrows
 patch=0,EE,2023A6E0,extended,240401B5   // addiu a0,zero,0x1B5 // Numbers
 
-// Paint shop
+[Paint shop]
 patch=0,EE,202568F8,extended,240501E3   // addiu a1,zero,0x1E3 // Overhead sprayer
 patch=0,EE,20256A7C,extended,240501E3   // addiu a1,zero,0x1E3 // Overhead sprayer
 patch=0,EE,202556C8,extended,240601FB   // addiu a2,zero,0x1FB // Spray effect
@@ -704,7 +704,7 @@ patch=0,EE,102AC610,extended,25E        // Flashing lights
 patch=0,EE,102AC614,extended,284        // Flashing lights
 patch=0,EE,102AC618,extended,29B        // Flashing lights
 
-// Race UI
+[Race UI]
 patch=0,EE,202EC08C,extended,2C4    // Lap 1 time
 patch=0,EE,202EC0A4,extended,2C4    // Lap 2 time
 patch=0,EE,202EC0BC,extended,2C4    // Lap 3 time
@@ -724,14 +724,14 @@ patch=0,EE,20237938,extended,2404011F   // addiu a0,zero,0x11F // Names when pau
 patch=0,EE,20237978,extended,240401E7   // addiu a0,zero,0x1E7 // Locations when paused -> "Ranking" (NPCs)
 patch=0,EE,202379A8,extended,240401E7   // addiu a0,zero,0x1E7 // Locations when paused -> "Ranking" (Player)
 
-// Race Results (general)
+[Race Results (general)]
 patch=0,EE,20235900,extended,240901AB   // addiu t1,zero,0x1AB // Fixes BG stretching
 patch=0,EE,20235910,extended,24080356   // addiu t0,zero,0x356 // Makes BG cover whole screen
 patch=0,EE,2023596C,extended,240500F7   // addiu a1,zero,0xF7 // Race name left border
 patch=0,EE,20235990,extended,24050137   // addiu a1,zero,0x137 // Race name middle border
 patch=0,EE,202359B4,extended,2405024F   // addiu a1,zero,0x24F // Race name right border
 
-// 2 Player Race Results
+[2 Player Race Results]
 patch=0,EE,20235CB0,extended,24040151   // addiu a0,zero,0x151 // Race name text
 patch=0,EE,20235A3C,extended,240400B1   // addiu a0,zero,0xB1  // Entry names
 patch=0,EE,20235A68,extended,24040183   // addiu a0,zero,0x183 // Rank ordinals
@@ -742,7 +742,7 @@ patch=0,EE,20235B18,extended,2404024B   // addiu a0,zero,0x24B // best lap time
 patch=0,EE,20235E04,extended,24040197   // addiu a0,zero,0x197 // Player 1 total points
 patch=0,EE,20235E38,extended,240401DD   // addiu a0,zero,0x1DD // Player 2 total points
 
-// Race Results (not Grand Prix)
+[Race Results (not Grand Prix)]
 patch=0,EE,20235F7C,extended,240400B1   // addiu a0,zero,0xB1  // Entry names
 patch=0,EE,20235FC0,extended,2404016F   // addiu a0,zero,0x16F // "retire"
 patch=0,EE,20235FF8,extended,24040183   // addiu a0,zero,0x183 // rank ordinals
@@ -760,7 +760,7 @@ patch=0,EE,202361F8,extended,2404029B   // addiu a0,zero,0x241 // right parenthe
 patch=0,EE,20236434,extended,24040205   // addiu a0,zero,0x205 // Prize amounts
 patch=0,EE,202364E8,extended,24040151   // addiu a0,zero,0x151 // Race name text
 
-// Race Results (Grand Prix)
+[Race Results (Grand Prix)]
 patch=0,EE,20236A5C,extended,240400BB   // addiu a0,zero,0xBB  // 4th screen after race -- rank ordinals column
 patch=0,EE,20236A68,extended,24040115   // addiu a0,zero,0x115 // 4th screen after race -- Team name column
 patch=0,EE,20236AA8,extended,2404027D   // addiu a0,zero,0x27D // 4th screen after race -- Total pts column
@@ -782,7 +782,7 @@ patch=0,EE,202372A4,extended,24040205   // addiu a0,zero,0x205 // 1st screen aft
 patch=0,EE,20237460,extended,2404013D   // addiu a0,zero,0x13D // 1st screen after race -- "World GPX Stage"
 patch=0,EE,20237474,extended,2404022D   // addiu a0,zero,0x22D // 1st screen after race -- stage number
 
-// Figure 8
+[Figure 8]
 patch=0,EE,20328FF0,extended,356        // Makes instructions/results BG cover whole screen
 patch=0,EE,20329028,extended,9D         // Instructions - h.pos of "Figure 8" graphic
 patch=0,EE,20329048,extended,9D         // Instructions - h.pos of map graphic
@@ -815,25 +815,25 @@ patch=0,EE,202A42E0,extended,43CC0000   // Step 1 Minimap h.pos
 patch=0,EE,202A42F0,extended,43E50000   // Step 2 Minimap h.pos
 patch=0,EE,202A4300,extended,C3340000   // Step 3 Minimap h.pos
 patch=0,EE,202A4310,extended,43830000   // Step 4 Minimap h.pos
-// Step 5 is fine as is
+[Step 5 is fine as is]
 
-// Ski Jump
+[Ski Jump]
 patch=0,EE,20231BB4,extended,241402BA // addiu s4,zero,0x2BA // digits top right
 patch=0,EE,202EBFF0,extended,2E2      // "M" icon top right
 
-// Soccer
+[Soccer]
 patch=0,EE,20235140,extended,24030306 // addiu v1,zero,0x306 // overhead score display (2 player)
 patch=0,EE,20235144,extended,240401AB // addiu v1,zero,0x1AB // overhead score display (1 player)
 patch=0,EE,20235174,extended,240301AB // addiu v1,zero,0x1AB // overhead score display (1 player)
 patch=0,EE,20230EF8,extended,26B50054 // addiu s5,s5,0x54 // h.pos of score after scoring goal
 patch=0,EE,20230F1C,extended,2A0382D  // daddu a3,s5,zero // h.pos of score after scoring goal
 
-// Q's Rally
+[Q's Rally]
 patch=0,EE,20243238,extended,24040151 // addiu a0,zero,0x151 // "+++ Q's Rally +++"
 patch=0,EE,20243294,extended,240402E8 // addiu a0,zero,0x2E8 // "TIME"
 patch=0,EE,202432E8,extended,240402E8 // addiu a0,zero,0x2E8 // Running time value
 
-// Roulette
+[Roulette]
 patch=0,EE,20261B58,extended,2407006B   // addiu a3,zero,0x6B  // Roulette board BG
 patch=0,EE,20261BF4,extended,2607006B   // addiu a3,s0,0x6B    // Flashing chip cursor h.pos
 patch=0,EE,20261E80,extended,2407006B   // addiu a3,zero,0x6B  // Roulette board BG (after playing round of roulette)
@@ -851,7 +851,7 @@ patch=0,EE,202619A0,extended,240401C3   // addiu a0,zero,0x1C3 // Currency unit 
 patch=0,EE,202619CC,extended,240401C3   // addiu a0,zero,0x1C3 // Currency amount h.pos on bet window
 patch=0,EE,202619F4,extended,240400E3   // addiu a0,zero,0xE3  // Arrow under currency amount on bet window
 
-// Golf
+[Golf]
 patch=0,EE,20328320,extended,3D6        // Makes instructions/results BG cover whole screen
 patch=0,EE,20328338,extended,9D         // Instructions/results - "Golf" graphic
 patch=0,EE,20328358,extended,B9         // Instructions - Map graphic
@@ -878,7 +878,7 @@ patch=0,EE,20252EE8,extended,24160179   // addiu s6,zero,0x179 // Results - Par 
 patch=0,EE,20252F8C,extended,241601F1   // addiu s6,zero,0x179 // Results - Scores
 patch=0,EE,20253070,extended,2416025F   // addiu s6,zero,0x179 // Results - Best scores
 
-// Curling
+[Curling]
 patch=0,EE,20231580,extended,24070300   // addiu a3,zero,0x300 // Scores
 patch=0,EE,20231588,extended,26940017   // addiu s4,s4,0x17    // Spacing between digits in scores
 patch=0,EE,20231620,extended,241602A8   // addiu s6,zero,0x2A8 // Trial number graphics
@@ -886,18 +886,18 @@ patch=0,EE,20231654,extended,24070316   // addiu a3,zero,0x316 // "Pts" graphic 
 patch=0,EE,20231760,extended,245201B4   // addiu s2,v0,0x1B4   // Big score shown on screen after attempt
 patch=0,EE,20231848,extended,2652FFC8   // addiu s2,s2,-0x38   // Spacing between digits in big score
 
-// Fishing
+[Fishing]
 patch=0,EE,20231E50,extended,24140300   // addiu s4,zero,0x300 // Fish caught digits graphic
 patch=0,EE,202EC010,extended,285        // Fish graphic
 patch=0,EE,202EC030,extended,2C0        // "X" graphic
 
-// Which Way Race
+[Which Way Race]
 patch=0,EE,20231FF8,extended,2407016D // addiu a3,zero,0x16D // "Time limit" graphic
 patch=0,EE,20232074,extended,245101E0 // addiu s1,v0,0x1E0 // Timer digits graphic
 patch=0,EE,20232144,extended,2631FFE9 // addiu s1,s1,-0x17 // Affects spacing between the digits in timer
 patch=0,EE,202EC074,extended,2BF      // ??
 
-// My Garage
+[My Garage]
 patch=0,EE,2022C6C4,extended,241200EB // addiu s2,zero,0xEB // h.pos of left-side small trophies
 patch=0,EE,2022C714,extended,241201F1 // addiu s2,zero,0x1F1 // h.pos of right-side small trophies
 patch=0,EE,2022C7B4,extended,2405015D // addiu a1,zero,0x15D // h.pos of large trophy
@@ -905,7 +905,7 @@ patch=0,EE,2022C820,extended,24A5006B // addiu a1,a1,0x6B // Corrects h.pos of f
 patch=0,EE,2022C83C,extended,2610000C // addiu s0,s0,0xC // Rearranged original code for furniture correction
 patch=0,EE,2022C844,extended,220202D  // daddu a0,s1,zero // Rearranged original code for furniture correction
 
-// Email
+[Email]
 patch=0,EE,202645E0,extended,240400CF   // addiu a0,zero,0xCF  // Inbox main BG window
 patch=0,EE,20264620,extended,240400CF   // addiu a0,zero,0xCF  // Inbox header BG window
 patch=0,EE,20264664,extended,240400F7   // addiu a0,zero,0xF7  // "mail box"
@@ -920,7 +920,7 @@ patch=0,EE,20264A54,extended,240400E3   // addiu a0,zero,0xE3  // E-mail body te
 patch=0,EE,20264BA4,extended,240401AB   // addiu a0,zero,0x1AB // Where the e-mail contents main BG window starts opening
 patch=0,EE,20264C3C,extended,240401AB   // addiu a0,zero,0x1AB // Where the e-mail contents main BG window starts closing
 
-// Uncategorized/unknown graphics horizontal positions
+[Uncategorized/unknown graphics horizontal positions]
 patch=0,EE,2022C0B8,extended,240500AB   // addiu a1,zero,0xAB
 patch=0,EE,2022C0E0,extended,240600AB   // addiu a2,zero,0xAB
 patch=0,EE,20232CE0,extended,241101AB   // addiu s1,zero,0x1AB
@@ -965,7 +965,7 @@ patch=0,EE,202217CC,extended,4480B000 // mtc1 zero,f22 // Use 0.0f as distance f
 author=Souzooka
 description=Disables after-image effect
 
-// Returns from blur function under normal circumstances (keeps blur when entering/leaving buildings)
+[Returns from blur function under normal circumstances (keeps blur when entering/leaving buildings)]
 patch=0,EE,20208154,extended,14A00010 // bne $a1, $zero, 0x208198
 patch=0,EE,20208158,extended,24050009 // addiu $a1, $zero, 0x9
 patch=0,EE,2020815C,extended,03E00008 // jr $ra
@@ -975,84 +975,84 @@ patch=0,EE,20208160,extended,27BD0010 // addiu $sp, $sp, 0x10
 author=Souzooka
 description=Enables analog steering with the left analog stick (WIP; breaks player 2, race replays, front wheels don't turn)
 
-// First, we'll patch out the normal code which calculates steering magnitude at 0x21A3AC
-// The original code behaves something like this and calculates steering for all cars, including NPCs:
-//#define INPUT_MASK_RIGHT 0x2000;
-//#define INPUT_MASK_LEFT 0x8000;
-//
-//Car *car;
-//int grip; // Potentially not the exact value of Car->m_grip, there is a small calculation beforehand
-//int input_mask;
-//int steering_direction = car->m_steering_direction; // +0x1CE
-//
-//if (input_mask & INPUT_MASK_LEFT)
-//{
-//	// Turn to the left
-//	if (steering_direction <= 0)
-//	{
-//		// Already steering left
-//		steering_direction -= 1;
-//		if (steering_direction < -0x20)
-//		{
-//			steering_direction = -0x20;
-//		}
-//	}
-//	else
-//	{
-//		// Was turning right, whip it over
-//		// Also save the calculated grip value in this case
-//		car->m_grip = grip; // +0x1D8
-//		steering_direction = -steering_direction;
-//	}
-//}
-//else if (input_mask & INPUT_MASK_RIGHT)
-//{
-//	// Turn to the right
-//	if (steering_direction <= 0)
-//	{
-//		// Already steering right
-//		steering_direction += 1;
-//		if (steering_direction > 0x20)
-//		{
-//			steering_direction = 0x20;
-//		}
-//	}
-//	else
-//	{
-//		// Was turning left, whip it over
-//		// Also save the calculated grip value in this case
-//		car->m_grip = grip;
-//		steering_direction = -steering_direction;
-//	}
-//}
-//else
-//{
-//	// No turn input, dampen steering towards 0
-//	if (grip)
-//	{
-//		if (steering_direction > 4)
-//		{
-//			steering_direction -= 4;
-//		}
-//		else if (steering_direction >= 0)
-//		{
-//			steering_direction = 0;
-//		}
-//		else if (steering_direction < -4)
-//		{
-//			steering_direction += 4;
-//		}
-//		else if (steering_direction <= 0)
-//		{
-//			steering_direction = 0;
-//		}
-//	}
-//	car->m_grip = grip;
-//}
-//
-//car->m_steering_direction = steering_direction;
+[First, we'll patch out the normal code which calculates steering magnitude at 0x21A3AC]
+[The original code behaves something like this and calculates steering for all cars, including NPCs:]
+[#define INPUT_MASK_RIGHT 0x2000;]
+[#define INPUT_MASK_LEFT 0x8000;]
+[]
+[Car *car;]
+[int grip; // Potentially not the exact value of Car->m_grip, there is a small calculation beforehand]
+[int input_mask;]
+[int steering_direction = car->m_steering_direction; // +0x1CE]
+[]
+[if (input_mask & INPUT_MASK_LEFT)]
+[{]
+[// Turn to the left]
+[if (steering_direction <= 0)]
+[{]
+[// Already steering left]
+[steering_direction -= 1;]
+[if (steering_direction < -0x20)]
+[{]
+[steering_direction = -0x20;]
+[}]
+[}]
+[else]
+[{]
+[// Was turning right, whip it over]
+[// Also save the calculated grip value in this case]
+[car->m_grip = grip; // +0x1D8]
+[steering_direction = -steering_direction;]
+[}]
+[}]
+[else if (input_mask & INPUT_MASK_RIGHT)]
+[{]
+[// Turn to the right]
+[if (steering_direction <= 0)]
+[{]
+[// Already steering right]
+[steering_direction += 1;]
+[if (steering_direction > 0x20)]
+[{]
+[steering_direction = 0x20;]
+[}]
+[}]
+[else]
+[{]
+[// Was turning left, whip it over]
+[// Also save the calculated grip value in this case]
+[car->m_grip = grip;]
+[steering_direction = -steering_direction;]
+[}]
+[}]
+[else]
+[{]
+[// No turn input, dampen steering towards 0]
+[if (grip)]
+[{]
+[if (steering_direction > 4)]
+[{]
+[steering_direction -= 4;]
+[}]
+[else if (steering_direction >= 0)]
+[{]
+[steering_direction = 0;]
+[}]
+[else if (steering_direction < -4)]
+[{]
+[steering_direction += 4;]
+[}]
+[else if (steering_direction <= 0)]
+[{]
+[steering_direction = 0;]
+[}]
+[}]
+[car->m_grip = grip;]
+[}]
+[]
+[car->m_steering_direction = steering_direction;]
 
-// Overwrite this code with a jump to the new code and also saving some variables
+[Overwrite this code with a jump to the new code and also saving some variables]
 patch=0,EE,2021A3AC,extended,00C0A021 // addu s4,a2,zero
 patch=0,EE,2021A3B0,extended,02002021 // addu a0,s0,zero
 patch=0,EE,2021A3B4,extended,0C09E08E // jal 0x278238 (this was sceCdLayerSearchFile, which is unused)
@@ -1062,109 +1062,109 @@ patch=0,EE,2021A3C0,extended,00402821 // addu a1,v0,zero
 patch=0,EE,2021A3C4,extended,10000024 // beq zero,zero,0x0021A458
 patch=0,EE,2021A3C8,extended,86020242 // lh v0,0x242(s0)
 
-// Now at 0x278238 we'll write some assembly which roughly matches this C code:
-// Note scePadRead is at 00273B48 and might be useable to improve player 2 behavior later
-//#define INPUT_MASK_RIGHT 0x2000;
-//#define INPUT_MASK_LEFT 0x8000;
-//
-//int do_steer(Car *car, int input_bitmask, int grip)
-//{
-//	const float DEADZONE = 0.1f;
-//
-//	// Total range of steering
-//	float max = 32.0f;
-//	float min = -max;
-//
-//	// Range of steering as dictated by analog stick position
-//	float delta_max = max;
-//	float delta_min = min;
-//
-//	// The change in steering direction
-//	float delta = 0.0f;
-//
-//	float steering_direction = car->m_steering_direction;
-//
-//	if (input_bitmask & INPUT_MASK_LEFT)
-//	{
-//		delta = -1.0f;
-//	}
-//	else if (input_bitmask & INPUT_MASK_RIGHT)
-//	{
-//		delta = 1.0f;
-//	}
-//
-//	if (/* car is player */)
-//	{
-//		float axis = /* poll left analog stick X axis */;
-//		if (std::fabsf(axis) >= DEADZONE)
-//		{
-//			delta = axis;
-//		}
-//	}
-//
-//	delta_max *= std::fabsf(delta);
-//	delta_min *= std::fabsf(delta);
-//
-//	if (delta < 0.0f)
-//	{
-//		// Turning left
-//		if (steering_direction <= 0.0f)
-//		{
-//			// Already turning left
-//			if (steering_direction > delta_min)
-//			{
-//				steering_direction = std::fmaxf(steering_direction + delta, delta_min);
-//			}
-//		}
-//		else
-//		{
-//			// Was turning right
-//			car->m_grip = grip;
-//			steering_direction = -steering_direction;
-//		}
-//	}
-//	else if (delta > 0.0f)
-//	{
-//		// Turning right
-//		if (steering_direction >= 0.0f)
-//		{
-//			// Already turning right
-//			if (steering_direction < delta_max)
-//			{
-//				steering_direction = std::fminf(steering_direction + delta, delta_max);
-//			}
-//		}
-//		else
-//		{
-//			// Was turning left
-//			car->m_grip = grip;
-//			steering_direction = -steering_direction;
-//		}
-//	}
-//	else
-//	{
-//		// No turning
-//		car->m_grip = grip;
-//	}
-//
-//	// Apply dampening
-//	if (grip)
-//	{
-//		// Softer dampening if the analog stick is being held
-//		float damp_factor = 4.0f * (1.0f - std::fabsf(delta));
-//		if (steering_direction > delta_max)
-//		{
-//			steering_direction = std::fmaxf(steering_direction - damp_factor, delta_max);
-//		}
-//		else if (steering_direction < delta_min)
-//		{
-//			steering_direction = std::fminf(steering_direction + damp_factor, delta_min);
-//		}
-//	}
-//
-//	car->m_steering_direction = steering_direction;
-//	return (int)steering_direction;
-//}
+[Now at 0x278238 we'll write some assembly which roughly matches this C code:]
+[Note scePadRead is at 00273B48 and might be useable to improve player 2 behavior later]
+[#define INPUT_MASK_RIGHT 0x2000;]
+[#define INPUT_MASK_LEFT 0x8000;]
+[]
+[int do_steer(Car *car, int input_bitmask, int grip)]
+[{]
+[const float DEADZONE = 0.1f;]
+[]
+[// Total range of steering]
+[float max = 32.0f;]
+[float min = -max;]
+[]
+[// Range of steering as dictated by analog stick position]
+[float delta_max = max;]
+[float delta_min = min;]
+[]
+[// The change in steering direction]
+[float delta = 0.0f;]
+[]
+[float steering_direction = car->m_steering_direction;]
+[]
+[if (input_bitmask & INPUT_MASK_LEFT)]
+[{]
+[delta = -1.0f;]
+[}]
+[else if (input_bitmask & INPUT_MASK_RIGHT)]
+[{]
+[delta = 1.0f;]
+[}]
+[]
+[if (/* car is player */)]
+[{]
+[float axis = /* poll left analog stick X axis */;]
+[if (std::fabsf(axis) >= DEADZONE)]
+[{]
+[delta = axis;]
+[}]
+[}]
+[]
+[delta_max *= std::fabsf(delta);]
+[delta_min *= std::fabsf(delta);]
+[]
+[if (delta < 0.0f)]
+[{]
+[// Turning left]
+[if (steering_direction <= 0.0f)]
+[{]
+[// Already turning left]
+[if (steering_direction > delta_min)]
+[{]
+[steering_direction = std::fmaxf(steering_direction + delta, delta_min);]
+[}]
+[}]
+[else]
+[{]
+[// Was turning right]
+[car->m_grip = grip;]
+[steering_direction = -steering_direction;]
+[}]
+[}]
+[else if (delta > 0.0f)]
+[{]
+[// Turning right]
+[if (steering_direction >= 0.0f)]
+[{]
+[// Already turning right]
+[if (steering_direction < delta_max)]
+[{]
+[steering_direction = std::fminf(steering_direction + delta, delta_max);]
+[}]
+[}]
+[else]
+[{]
+[// Was turning left]
+[car->m_grip = grip;]
+[steering_direction = -steering_direction;]
+[}]
+[}]
+[else]
+[{]
+[// No turning]
+[car->m_grip = grip;]
+[}]
+[]
+[// Apply dampening]
+[if (grip)]
+[{]
+[// Softer dampening if the analog stick is being held]
+[float damp_factor = 4.0f * (1.0f - std::fabsf(delta));]
+[if (steering_direction > delta_max)]
+[{]
+[steering_direction = std::fmaxf(steering_direction - damp_factor, delta_max);]
+[}]
+[else if (steering_direction < delta_min)]
+[{]
+[steering_direction = std::fminf(steering_direction + damp_factor, delta_min);]
+[}]
+[}]
+[]
+[car->m_steering_direction = steering_direction;]
+[return (int)steering_direction;]
+[}]
 
 patch=0,EE,20278238,extended,3C014200 // lui at,0x4200      //max = 32f
 patch=0,EE,2027823C,extended,44810000 // mtc1 at,f00

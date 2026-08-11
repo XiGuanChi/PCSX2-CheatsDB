@@ -4,15 +4,15 @@ gametitle=Kengo [NTSC-J] [SLPS-20058]
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//Select menu
+[Select menu]
 patch=1,EE,0012a7e4,word,3c013f40 //3c013f80
 
-//Cut Scene
+[Cut Scene]
 patch=1,EE,0012a9f0,word,3c013f40 //3c013f80
 
-//Game Play
+[Game Play]
 patch=1,EE,0012b284,word,3c013f40 //3c013f80
 
 

@@ -12,7 +12,7 @@ author=PeterDelta
 description=Might need EE Overclock (130%). Select 60 Hz
 patch=1,EE,E001001E,extended,0028A348
 patch=1,EE,0028A348,extended,0000003C
-//patch=1,EE,00143178,word,10000011 //10200011 another fps unlocker
+[patch=1,EE,00143178,word,10000011 //10200011 another fps unlocker]
 
 [Disable Flicker Filter]
 author=PeterDelta

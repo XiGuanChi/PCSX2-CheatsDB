@@ -4,12 +4,12 @@ gametitle=Tales Of The Abyss (NTSC-J) (SLPS_25586)
 gsaspectratio=16:9
 description=Tales Of The Abyss (NTSC-J) (SLPS_25586) 16:9 Widescreen Hack & Progressive Scan
 description= partial hud fix by sergx12
-// 16:9
+[16:9]
 patch=1,EE,0011afb8,word,3c023fe3
 patch=1,EE,0011ab18,word,34428e38
 patch=1,EE,001a267c,word,3c013f40
 
-//partial hud fix
+[partial hud fix]
 patch=1,EE,002bad08,word,3c023f40 //3c023f80 Font X-Fov
 patch=1,EE,002bc6c4,word,3c023f40 //3c023f80 dialog box
 

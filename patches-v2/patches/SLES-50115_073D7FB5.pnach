@@ -5,12 +5,12 @@ gsaspectratio=16:9
 description=16:9 widescreen patch
 author=VIRGIN KLM, Silent
 
-// 16:9 - 3D Elements
+[16:9 - 3D Elements]
 patch=0,EE,101686B0,extended,3F40 // In-game
 patch=0,EE,101687FC,extended,3F40 // Split-screen
 patch=0,EE,101E62A0,extended,3F40 // Menus
 
-// 16:9 - Gameplay HUD
+[16:9 - Gameplay HUD]
 patch=0,EE,101BC3E8,extended,01FC // Move the entire cluster to the right
 patch=0,EE,101B4E5C,extended,0030 // Tacho needle
 patch=0,EE,101B4F08,extended,0020 // Shift assist

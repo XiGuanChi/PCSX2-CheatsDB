@@ -4,7 +4,7 @@ gametitle=Ni Hao, Kai-Lan - Super Game Day (U)(SLUS-21926)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,0011a224,word,08030000
 

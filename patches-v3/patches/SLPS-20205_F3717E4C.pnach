@@ -4,11 +4,11 @@ gametitle=Magical Sports - Hard Hitter (New Price) (J)(SLPS-20205)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 
-//X-Fov
-//02210846 0000a4e7 040063c4 (1st)
+[X-Fov]
+[02210846 0000a4e7 040063c4 (1st)]
 patch=1,EE,002128a4,word,0804d0cc
 
 patch=1,EE,00134330,word,46082102

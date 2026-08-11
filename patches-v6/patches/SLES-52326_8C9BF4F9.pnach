@@ -17,7 +17,7 @@ patch=1,EE,003217B4,extended,00000001
 author=PeterDelta
 description=Might need EE Overclock (130%). Hold △+X on startup for NTSC mode.
 patch=0,EE,00227CB0,word,24020001 //24020002
-//patch=1,EE,002F1158,word,00000001 //real time
+[patch=1,EE,002F1158,word,00000001 //real time]
 
 [NTSC Mode]
 author=PeterDelta

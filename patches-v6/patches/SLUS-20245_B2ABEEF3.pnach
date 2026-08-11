@@ -7,7 +7,7 @@ description=Renders the game in 16:9 aspect ratio.
 patch=0,EE,001BE8EC,word,3C0243D6
 patch=0,EE,001BE904,word,3C0243D6
 patch=0,EE,00232AB0,word,3C023F40
-//patch=0,EE,00232DB8,word,3C023F40 //hud It looks ugly
+[patch=0,EE,00232DB8,word,3C023F40 //hud It looks ugly]
 
 [60 FPS]
 author=Gabominated

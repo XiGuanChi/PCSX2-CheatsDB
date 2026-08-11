@@ -4,10 +4,10 @@ gametitle=Brothers in Arms: Road to Hill 30 [PAL-M5] (SLES_528.88)
 gsaspectratio=16:9
 author=El_Patas
 
-//Gameplay 16:9
+[Gameplay 16:9]
 patch=1,EE,003057EC,word,3C023F40 //3C023F80 (Increases hor. axis)
 
-//Menu font fix
+[Menu font fix]
 patch=1,EE,003E56FC,word,3C033F40 //3C033F80
 patch=1,EE,003E5704,word,3C033F80 //44830800
 patch=1,EE,003E5708,word,44830800 //AE630108

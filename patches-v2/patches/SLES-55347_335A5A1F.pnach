@@ -5,7 +5,7 @@ gsaspectratio=16:9
 author=ElHecht
 description=Widescreen Hack
 
-// 16:9
+[16:9]
 patch=1,EE,001363c4,word,3c1b3f40 // 3c010041 hor fov
 patch=1,EE,001363d4,word,449b4800 // 3c01004b
 patch=1,EE,00136400,word,3c1b004b // 3c01004b

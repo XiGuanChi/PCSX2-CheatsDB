@@ -18,12 +18,12 @@ patch=1,EE,008152EC,word,3F5B508D
 [Trigger Sensitivity]
 author=CookiePLMonster / Silentwarior112
 description=100% trigger press for full Gas, Brake, & Rear Brake
-//Throttle
+[Throttle]
 patch=1,EE,203FD224,extended,24110064
 patch=1,EE,203FD2A4,extended,00000000
-//Brake
+[Brake]
 patch=1,EE,203FD22C,extended,24160064
 patch=1,EE,203FD300,extended,00000000
-//Rear Brake
+[Rear Brake]
 patch=1,EE,203FD230,extended,24150064
 patch=1,EE,203FD358,extended,00000000

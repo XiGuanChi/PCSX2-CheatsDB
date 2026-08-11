@@ -8,7 +8,7 @@ patch=0,EE,003E545C,word,3C033FE3
 patch=0,EE,003E5460,word,34638E39
 patch=0,EE,003E54C8,word,3C033FE3
 patch=0,EE,003E54CC,word,34638E39
-//patch=1,EE,004677F0,word,3FE38E39 //old
+[patch=1,EE,004677F0,word,3FE38E39 //old]
 
 [Remove Blackbars]
 author=PeterDelta
@@ -30,5 +30,5 @@ patch=0,EE,0023A418,word,240601C0
 patch=0,EE,0023A3EC,word,14C00002
 patch=0,EE,0034945C,word,24030000
 patch=0,EE,003495D8,word,24020002
-//patch=0,EE,003495E4,word,1062000B
-//patch=0,EE,00248780,word,14400008
+[patch=0,EE,003495E4,word,1062000B]
+[patch=0,EE,00248780,word,14400008]

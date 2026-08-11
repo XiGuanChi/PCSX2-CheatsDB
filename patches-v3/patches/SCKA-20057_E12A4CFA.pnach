@@ -4,7 +4,7 @@ gametitle=Everybody's Golf (K)(SCKA-20057)
 gsaspectratio=16:9
 author=ElHecht (NTSC-K by Arapapa)
 
-// 16:9
+[16:9]
 patch=1,EE,e005010C,extended,0048ca94 // check 2048ca94 matches value xxxx010c
 patch=1,EE,2048ca70,extended,3c0143f0 // c4840708 hor fov menu
 patch=1,EE,2048ca94,extended,ac81010c // e484010c

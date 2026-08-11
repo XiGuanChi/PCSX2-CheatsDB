@@ -4,7 +4,7 @@ gametitle=Pop Star Academy (E)(SLES-52062)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,002d65a0,word,08030000 // c6010068
 patch=1,EE,002d65a4,word,00000000 // c602006c

@@ -4,7 +4,7 @@ gametitle=Risk - Global Domination (U)(SLUS-20390)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,00334870,word,0815d808 //c6010068
 

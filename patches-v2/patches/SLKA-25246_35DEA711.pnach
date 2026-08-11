@@ -3,20 +3,20 @@ gametitle=The Bard's Tale * NTSC-K * SLKA-25246 * 35DEA711
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000 & arapapa
-// Widescreen hack by nemesis2000 - ported by arapapa.
-// Gameplay
+[Widescreen hack by nemesis2000 - ported by arapapa.]
+[Gameplay]
 patch=1,EE,0011cbc4,word,3c023f40 // X-FoV
 patch=1,EE,0012f09c,word,3c033f40
 patch=1,EE,00144aa8,word,3c053f40
 patch=1,EE,00144b24,word,3c033f40
 patch=1,EE,00144b74,word,3c023f40
-// Render fix
+[Render fix]
 patch=1,EE,0013e380,word,3c023f2b
-// Font fix - by arapapa
-// 003d053c 0042033c
-// 003d053c c041033c
+[Font fix - by arapapa]
+[003d053c 0042033c]
+[003d053c c041033c]
 patch=1,EE,0010eb34,word,3c0341c0 // 3c034200 - X-FoV
-//patch=1,EE,0010eb40,word,3c054140 // 3c054180 - Y-FoV
+[patch=1,EE,0010eb40,word,3c054140 // 3c054180 - Y-FoV]
 
 [Widescreen 16:10]
 gsaspectratio=Stretch

@@ -8,7 +8,7 @@ patch=0,EE,003E662C,word,3C033FE3
 patch=0,EE,003E6630,word,34638E39
 patch=0,EE,003E6698,word,3C033FE3
 patch=0,EE,003E669C,word,34638E39
-//patch=1,EE,00469CE8,word,3FE38E39 //old
+[patch=1,EE,00469CE8,word,3FE38E39 //old]
 
 [Remove Blackbars]
 author=PeterDelta

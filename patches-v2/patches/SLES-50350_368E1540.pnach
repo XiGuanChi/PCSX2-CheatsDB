@@ -5,12 +5,12 @@ gsaspectratio=16:9
 author=Arapapa
 description=Renders the game in 16:9 aspect ratio
 
-//Zoom
-//a80020c6 003f023c 00088244
+[Zoom]
+[a80020c6 003f023c 00088244]
 patch=1,EE,00369a3c,word,3c023f21 //3c023f00
 
-//Y-Fov
-//43a81446 a00030c6 a40031c6
+[Y-Fov]
+[43a81446 a00030c6 a40031c6]
 patch=1,EE,00369a7c,word,081259b4
 
 patch=1,EE,004966d0,word,4614a843

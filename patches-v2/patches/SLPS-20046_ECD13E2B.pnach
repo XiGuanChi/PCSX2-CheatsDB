@@ -4,9 +4,9 @@ gametitle=Kuusen (J)(SLPS-20046)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
+[X-Fov]
 patch=1,EE,001dddb0,word,08043588 // c6010068
 patch=1,EE,001dddb4,word,00000000 // c602006c
 

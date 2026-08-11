@@ -6,14 +6,14 @@ author=PeterDelta
 description=Habilita pantalla panorámica nativa.
 patch=1,EE,00100620,word,14400003
 
-//[NTSC Mode]
-//author=PeterDelta
-//description=Modo NTSC al iniciar. BETA
-//patch=1,EE,00388698,word,24120002
-//patch=1,EE,003DC87C,word,000001E0
-//patch=1,EE,003DC884,word,000001E0
-//patch=1,EE,0035E450,word,240201E0
-//patch=1,EE,003675FC,word,241101C0
+[[NTSC Mode]]
+[author=PeterDelta]
+[description=Modo NTSC al iniciar. BETA]
+[patch=1,EE,00388698,word,24120002]
+[patch=1,EE,003DC87C,word,000001E0]
+[patch=1,EE,003DC884,word,000001E0]
+[patch=1,EE,0035E450,word,240201E0]
+[patch=1,EE,003675FC,word,241101C0]
 
 [480p Mode]
 gsinterlacemode=1

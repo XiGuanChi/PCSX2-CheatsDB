@@ -4,7 +4,7 @@ gametitle=Paddington Bear (E)(SLES-54665)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,001de168,word,08096ce8
 
