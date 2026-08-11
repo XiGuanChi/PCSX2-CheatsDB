@@ -10,8 +10,8 @@ patch=1,EE,20435588,extended,3F400000 // 3F800000 hor fov
 [No-Interlacing]
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
-[Search pattern: 3829050008004264 (little endian)]
-[Search mask:    ffffffffffffffff]
+//Search pattern: 3829050008004264 (little endian)
+//Search mask:    ffffffffffffffff
 patch=0,EE,2020c8ec,extended,00000000 //64420008
 patch=0,EE,2020ca84,extended,00000000 //64420008
 

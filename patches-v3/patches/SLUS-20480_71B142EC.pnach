@@ -9,7 +9,7 @@ patch=1,EE,0018FCC4,word,3C013F40 //3C013F80
 [No-Interlacing]
 description=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
-[Sega Sports Tennis (USA)]
+//Sega Sports Tennis (USA)
 patch=1,EE,0028B80C,extended,00000000
 
 

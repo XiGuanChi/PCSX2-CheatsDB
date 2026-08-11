@@ -4,16 +4,16 @@ gametitle=Atelier Iris-Eternal Mana 2 [NTSC-J](SLPM-65985)
 gsaspectratio=16:9
 author=nemesis2000
 
-[3D scenes]
+//3D scenes
 patch=1,EE,002abc0c,word,3c013f40 //hor value
 patch=1,EE,002abc10,word,44810000
 patch=1,EE,002abc18,word,4600c602
 
-[battle's fix]
+//battle's fix
 patch=1,EE,007cc1ac,word,44400000 //right side fix
 patch=1,EE,007cc1b4,word,c4400000 //left side fix
 
-[2D scenes]
+//2D scenes
 patch=1,EE,001913a0,word,3c014440 //hor value
 patch=1,EE,001913a4,word,44810800
 patch=1,EE,001913a8,word,46010002

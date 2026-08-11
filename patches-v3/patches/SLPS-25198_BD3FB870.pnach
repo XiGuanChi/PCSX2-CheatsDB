@@ -8,27 +8,27 @@ patch=1,EE,00110644,word,3c0143d6 //render fix
 patch=1,EE,00110b30,word,3c013f19 //hor value first half
 patch=1,EE,00110898,word,3421999a //hor value second half
 
-[FMV's fix]
+//FMV's fix
 patch=1,EE,002a6948,word,70007000
 patch=1,EE,0010631c,word,3c071900
 
-[black border fix]
+//black border fix
 patch=1,EE,00104334,word,00000000
 patch=1,EE,00104454,word,00000000
 
-[Hide subtitles]
-[patch=1,EE,2010d518,word,24030000]
+//Hide subtitles
+//patch=1,EE,2010d518,word,24030000
 
-[matrix (affects menu characters, textboxes, world map, gummi ship)]
+// matrix (affects menu characters, textboxes, world map, gummi ship)
 patch=1,EE,00267b6c,word,3c013f40 //00000000
 patch=1,EE,00267b70,word,44810000 //00000000
 patch=1,EE,00267b78,word,4600c602 //00000000
 
-[textboxes]
+// textboxes
 patch=1,EE,204951D0,word,3FAAAAAB //3f800000 (width)
-[patch=1,EE,204951E4,word,3FAAAAAB //3f800000 (height)]
+//patch=1,EE,204951E4,word,3FAAAAAB //3f800000 (height)
 
-[position fix weapon select]
+//position fix weapon select
 patch=1,EE,0020a170,word,3c0144fa //3c014500
 
 [HP/MP fix for PCSX2]

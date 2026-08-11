@@ -4,9 +4,9 @@ gametitle=Kuusen 2 (J)(SLPM-62413)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,002a36e0,word,08045704 // c6010068
 patch=1,EE,002a36e4,word,00000000 // c602006c
 

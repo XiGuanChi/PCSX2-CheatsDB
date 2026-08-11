@@ -4,7 +4,7 @@ gametitle=Virtua Fighter 4 (J)(SLPM-62130)
 gsaspectratio=16:9
 author=ElHecht (NTSC-J by Arapapa)
 
-[Widescreen 16:9]
+// Widescreen 16:9
 
 patch=1,EE,0026efc8,word,3c194455 // 3c194420 hor fov
 patch=1,EE,0026efcc,word,37395555 // 44811800 hor fov

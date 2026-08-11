@@ -4,7 +4,7 @@ gametitle=MX World Tour (E)(SLES-52864)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,00292288,word,08030000 // c6010068
 patch=1,EE,0029228c,word,00000000 // c602006c

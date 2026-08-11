@@ -4,24 +4,24 @@ gametitle=Xenosaga Episode III: Also sprach Zarathustra (Disc 1) (SLUS-21389) / 
 gsaspectratio=16:9
 author=nemesis2000
 description=Widescreen hack
-[gameplay]
+//gameplay
 patch=1,EE,2054FF20,extended,3fc1f080 //original value 3f91745d
 
-[cutscenes portrait's fix]
+//cutscenes portrait's fix
 patch=1,EE,00268f40,word,24020078
 patch=1,EE,203e4340,extended,00000174
 patch=1,EE,203e4360,extended,00000174
 
-[480p]
+//480p
 patch=1,EE,0019adf8,word,24020001
 patch=1,EE,0019adfc,word,a2020081
 
-[black border removal for bosses]
-[(CAUSES ISSUES WITH HAKOX - characters not loading in tutorials)]
-[patch=1,EE,00a9e5d8,word,24060000]
-[patch=1,EE,00a9e5e0,word,240801c0]
+//black border removal for bosses
+//(CAUSES ISSUES WITH HAKOX - characters not loading in tutorials)
+//patch=1,EE,00a9e5d8,word,24060000
+//patch=1,EE,00a9e5e0,word,240801c0
 
-[zoom value = 2054E200]
+//zoom value = 2054E200
 
 [Remove Blackbars]
 author=nemesis2000

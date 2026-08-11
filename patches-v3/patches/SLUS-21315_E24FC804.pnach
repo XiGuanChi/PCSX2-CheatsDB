@@ -4,45 +4,45 @@ gametitle=50 Cent - Bulletproof (U)(SLUS-21315)
 gsaspectratio=16:9
 author=Arapapa and 60 FPS by asasega
 
-[Gameplay 16:9]
+//Gameplay 16:9
 
-[X-Fov 4:3 fix]
-[e63e013c 1a8b2134 00608144 (2nd)]
-[083f013c 83882134 00608144]
+//X-Fov 4:3 fix
+//e63e013c 1a8b2134 00608144 (2nd)
+//083f013c 83882134 00608144
 patch=1,EE,001eb2a8,word,3c013F08 //3c013ee6
 patch=1,EE,001eb2ac,word,34218883 //34218b1a
 
-[X-Fov Wide screen fix]
-[80df4426 cc3e013c cdcc2134 00608144]
-[80df4426 083f013c 83882134 00608144]
+//X-Fov Wide screen fix
+//80df4426 cc3e013c cdcc2134 00608144
+//80df4426 083f013c 83882134 00608144
 patch=1,EE,001eb2c4,word,3c013F08 //3c013ecc
 patch=1,EE,001eb2c8,word,34218883 //3421cccd
 
-[Font's Shadow fix]
-[803f013c 00888144 01630246]
-[403f013c 00888144 01630246]
+//Font's Shadow fix
+//803f013c 00888144 01630246
+//403f013c 00888144 01630246
 patch=1,EE,001583dc,word,3c013f40 //3c013f80
 
-[868c0046 ac00058e (1st)]
+//868c0046 ac00058e (1st)
 patch=1,EE,001583fc,word,0807d6e0 //46008c86
 
 patch=1,EE,001f5b80,word,3c013f80
 patch=1,EE,001f5b84,word,44819000
 patch=1,EE,001f5b88,word,08056100
 
-[Font fix]
-[803f013c 00888144 01030c46]
-[403f013c 00888144 01030c46]
+//Font fix
+//803f013c 00888144 01030c46
+//403f013c 00888144 01030c46
 patch=1,EE,00158430,word,3c013f40 //3c013f80
 
-[868c0046 ac00058e (2nd)]
+//868c0046 ac00058e (2nd)
 patch=1,EE,0015844c,word,0807d6dc //46008c86
 
 patch=1,EE,001f5b70,word,3c013f80
 patch=1,EE,001f5b74,word,44819000
 patch=1,EE,001f5b78,word,08056114
 
-[Font fix (Menu)]
+//Font fix (Menu)
 
 patch=1,EE,204E9468,extended,3f400000
 patch=1,EE,204E9658,extended,3f400000
@@ -127,26 +127,26 @@ patch=1,EE,204ED550,extended,3f400000
 patch=1,EE,204ED5F4,extended,3f400000
 patch=1,EE,204ED698,extended,3f400000
 
-[added]
+//added
 patch=1,EE,204ED0D0,extended,3f400000
 patch=1,EE,204ED174,extended,3f400000
 patch=1,EE,204F9224,extended,3f400000
 
 
-[Yes and No]
+//Yes and No
 patch=1,EE,204F90DC,extended,3f400000
 patch=1,EE,204F9180,extended,3f400000
 
 
 [60 FPS]
 description=Forces the game to run at 60.
-[60 FPS by asasega (4th)]
-[2d20a003 f041013c 00608144]
-[2d20a003 7042013c 00608144]
+//60 FPS by asasega (4th)
+//2d20a003 f041013c 00608144
+//2d20a003 7042013c 00608144
 patch=1,EE,001B3B98,word,3C014270
 
-[////////////////////////////////////////]
-[Message box Size]
-[patch=1,EE,20da4b60,extended,3faaaaab]
+//////////////////////////////////////////
+//Message box Size
+//patch=1,EE,20da4b60,extended,3faaaaab
 
 

@@ -4,7 +4,7 @@ gametitle=Enter the Matrix (SLUS-20454) Ver. 2.0
 gsaspectratio=16:9
 author=nemesis2000
 
-[built-in widescreen]
+//built-in widescreen
 patch=1,EE,001ccdc8,word,a2740bcc
 
 

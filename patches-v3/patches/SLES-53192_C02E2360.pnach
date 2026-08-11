@@ -4,10 +4,10 @@ gametitle=Tim Burton's The Nightmare Before Christmas: Oogie's Revenge [PAL-M5] 
 gsaspectratio=16:9
 author=El_Patas
 
-[Gameplay 16:9]
+//Gameplay 16:9
 patch=1,EE,00368C38,word,3F206D2F //3EF0A3D7 (Increases hor. axis)
 
-[All other stuff in 16:9]
+//All other stuff in 16:9
 patch=1,EE,006FB57C,word,3F400000 //3F800000 Selected 2D flag languages
 patch=1,EE,006FB4E0,word,3F400000 //3F800000 Selected flag languages text
 patch=1,EE,006FB618,word,3F400000 //3F800000 Default 2D flag and languages text
@@ -72,7 +72,7 @@ patch=1,EE,016DE034,word,3F700000 //3F800000 Results menu
 patch=1,EE,004A9B68,word,3F400000 //3F800000 Results choose chapter and difficulty text
 patch=1,EE,016E0290,word,3F400000 //3F800000 Results chapter description text 1
 patch=1,EE,016E02E4,word,3F400000 //3F800000 Results chapter description text 2
-[patch=1,EE,016DE964,word,3F400000 //3F800000 Results time rank]
+//patch=1,EE,016DE964,word,3F400000 //3F800000 Results time rank
 patch=1,EE,016DE9B8,word,3F400000 //3F800000 Results combo rank
 patch=1,EE,016DEA0C,word,3F400000 //3F800000 Results damage rank
 patch=1,EE,016DEAB4,word,3F400000 //3F800000 Results count rank
@@ -93,7 +93,7 @@ patch=1,EE,00958110,word,3F440000 //3F800000 Figures name
 patch=1,EE,006ED1F4,word,3F400000 //3F800000 Figures icon selection
 patch=1,EE,006ED464,word,3F400000 //3F800000 Figures arrow right
 patch=1,EE,006ED32C,word,3F400000 //3F800000 Figures arrow up
-[patch=1,EE,006ED290,word,3F400000 //3F800000 Figures arrow down, Cause problem in music screen]
+//patch=1,EE,006ED290,word,3F400000 //3F800000 Figures arrow down, Cause problem in music screen
 patch=1,EE,006ED3C8,word,3F400000 //3F800000 Figures arrow left
 patch=1,EE,01513B90,word,3F400000 //3F800000 Figures 3D graphic
 patch=1,EE,006ED500,word,3F400000 //3F800000 Figures control camera text
@@ -101,7 +101,7 @@ patch=1,EE,006ED500,word,3F400000 //3F800000 Figures control camera text
 patch=1,EE,20829948,extended,3F400000 //3F800000 Total numbers part 1
 patch=1,EE,20829B80,extended,3F400000 //3F800000 Total numbers part 2
 patch=1,EE,20829A98,extended,3F400000 //3F800000 Total numbers part 3
-[patch=1,EE,208204FC,extended,3F400000 //3F800000 Numbers big graphic]
+//patch=1,EE,208204FC,extended,3F400000 //3F800000 Numbers big graphic
 patch=1,EE,20820050,extended,3F400000 //3F800000 Total title 1
 patch=1,EE,208200A4,extended,3F400000 //3F800000 Total title 2
 patch=1,EE,20820494,extended,3F400000 //3F800000 Total Secret word
@@ -115,12 +115,12 @@ patch=1,EE,2082B470,extended,3F400000 //3F800000 Total Symbol secret
 patch=1,EE,2082B320,extended,3F400000 //3F800000 Total Symbol rank little
 
 patch=1,EE,206ED138,extended,3F400000 //3F800000 Music title
-[patch=1,EE,206ED1D4,extended,3F400000 //3F800000 Music graphic musical note]
+//patch=1,EE,206ED1D4,extended,3F400000 //3F800000 Music graphic musical note
 patch=1,EE,20958110,extended,3F400000 //3F800000 Music name track
 patch=1,EE,206ED270,extended,3F400000 //3F800000 Music arrow up
 patch=1,EE,206ED30C,extended,3F400000 //3F800000 Music arrow down
 
-[patch=1,EE,204976E0,extended,3F700000 //3F800000 Shop item wall]
+//patch=1,EE,204976E0,extended,3F700000 //3F800000 Shop item wall
 patch=1,EE,20497950,extended,3F400000 //3F800000 Shop item graphic
 patch=1,EE,204978B4,extended,3F400000 //3F800000 Shop item name
 patch=1,EE,2049A45C,extended,3F400000 //3F800000 Shop icon right 2

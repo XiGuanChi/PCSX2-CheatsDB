@@ -4,7 +4,7 @@ gametitle=Scaler (U)(SLUS-20957)
 gsaspectratio=16:9
 author=ElHecht
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 patch=1,EE,0021b9dc,word,080bd30c // e4a10000
 patch=1,EE,0021b9e0,word,00000000 // aca00004
 patch=1,EE,002f4c30,word,3c013f40 // 00000000 hor fov

@@ -4,7 +4,7 @@ gametitle=Dai-3-Ji Super Robot Taisen Alpha - Shuuen no Ginga he (J)(SLPS-25537)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,0013c7f4,word,3c023fab //3c023f80
 patch=1,EE,0010f2a0,word,3c013fab //3c013f80

@@ -4,7 +4,7 @@ gametitle= Futurama (NTSC-U) (SLUS-20439)
 gsaspectratio=16:9
 description= Widescreen Hack
 
-[16:9]
+// 16:9
 patch=1,EE,00101eac,word,0812aca8 // e60100b4
 patch=1,EE,00101eb0,word,00000000 // e60000b0
 patch=1,EE,004ab2a0,word,3c013f40 // 00000000 hor fov

@@ -37,7 +37,7 @@ patch=1,EE,0018cedc,word,3c013f36
 patch=1,EE,0018cee0,word,34210b5f
 patch=1,EE,0018ceec,word,3c014440
 
-[render fix value]
+//render fix value
 patch=1,EE,001aacd8,word,3c013fe3
 patch=1,EE,001aacdc,word,3421d70a
 

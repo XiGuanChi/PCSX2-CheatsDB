@@ -4,12 +4,12 @@ gametitle=GetBackers Dakkanya - Urashinshiku Saikyou Battle (J)(SLPM-62476)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[Zoom]
+//Zoom
 patch=1,EE,002a5490,word,3c033f40 //3c033f80
 
-[Y-Fov]
+//Y-Fov
 patch=1,EE,002a54e0,word,080e4c88
 
 patch=1,EE,00393220,word,46010002
@@ -19,7 +19,7 @@ patch=1,EE,0039322c,word,4481f000
 patch=1,EE,00393230,word,461e0002
 patch=1,EE,00393234,word,080a9539
 
-[2D Y-Position]
+//2D Y-Position
 patch=1,EE,002a54f8,word,080e4c90
 
 patch=1,EE,00393240,word,46010002

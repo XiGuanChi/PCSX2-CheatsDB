@@ -11,7 +11,7 @@ patch=1,EE,001c2e50,word,461dbdc3 // 00000000
 patch=1,EE,0029a008,word,461d0002 // 4600a306 zoom gameplay
 patch=1,EE,00299dd0,word,461d0002 // 4600a306 zoom cut-scenes
 
-[patch=1,EE,003c17f0,word,3c023b00 // 3c023fbf fps boost in hardware emulation]
+//patch=1,EE,003c17f0,word,3c023b00 // 3c023fbf fps boost in hardware emulation
 
 [50 FPS]
 author=PeterDelta

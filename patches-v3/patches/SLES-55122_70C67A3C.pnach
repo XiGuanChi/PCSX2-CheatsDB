@@ -4,9 +4,9 @@ gametitle=Moorhuhn Fun Kart 2008 (E)(SLES-55122)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen 16:9]
+//Widescreen 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,001997d0,word,08030000 //46001082
 
 patch=1,EE,000c0000,word,46001082 //00000000

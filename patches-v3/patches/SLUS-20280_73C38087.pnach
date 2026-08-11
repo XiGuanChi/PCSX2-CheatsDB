@@ -4,10 +4,10 @@ gametitle=FIFA Soccer 2002 (U)(SLUS-20280)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[83100c46 180080ac]
+//X-Fov
+//83100c46 180080ac
 patch=1,EE,002d0c54,word,08030000
 
 patch=1,EE,000c0000,word,460c1083

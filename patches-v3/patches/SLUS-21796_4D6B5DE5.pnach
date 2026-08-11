@@ -4,10 +4,10 @@ gametitle=Dora the Explorer - Dora Saves the Snow Princess (U)(SLUS-21796)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[83001646]
+//X-Fov
+//83001646
 patch=1,EE,0011958c,word,08030000
 
 patch=1,EE,000c0000,word,46160083

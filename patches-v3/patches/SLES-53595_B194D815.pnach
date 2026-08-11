@@ -4,10 +4,10 @@ gametitle=Wild Water Adrenaline featuring Salomon (E)(SLES-53595)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen 16:9]
+//Widescreen 16:9
 
-[X-Fov]
-[42ad0046 2000037e]
+//X-Fov
+//42ad0046 2000037e
 patch=1,EE,0011a74c,word,0809d7d4
 patch=1,EE,00275f50,word,4600ad42
 patch=1,EE,00275f54,word,3c013f40

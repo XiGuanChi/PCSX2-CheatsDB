@@ -18,7 +18,7 @@ author=val
 patch=1,EE,003F59D2,short,3F40 //3F80 //3D General
 patch=1,EE,003F6B12,short,3F40 //3F80 //3D Reflections
 patch=1,EE,003F7C52,short,3F40 //3F80 //3D Mirror
-[patch=1,EE,003F5A22,short,3F80 //3F80 //3D Weather]
+//patch=1,EE,003F5A22,short,3F80 //3F80 //3D Weather
 
 [Native 10:7]
 gsaspectratio=10:7
@@ -26,7 +26,7 @@ author=val
 patch=1,EE,003F59D2,short,3F6F //3F80 //3D General
 patch=1,EE,003F6B12,short,3F6F //3F80 //3D Reflections
 patch=1,EE,003F7C52,short,3F6F //3F80 //3D Mirror
-[patch=1,EE,003F5A22,short,3F80 //3F80 //3D Weather]
+//patch=1,EE,003F5A22,short,3F80 //3F80 //3D Weather
 
 [Convert units from mph to km/h]
 description=Changes the ingame speedometer and gear menu to km/h

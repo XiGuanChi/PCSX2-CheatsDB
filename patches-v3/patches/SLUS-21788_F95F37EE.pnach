@@ -4,16 +4,16 @@ gametitle=Ar tonelico II: Melody of Metafalica (SLUS-21788P)
 gsaspectratio=16:9
 author=nemesis2000
 
-[3D scenes]
+//3D scenes
 patch=1,EE,002bc554,word,3c013f40 //hor value
 patch=1,EE,002bc558,word,44810000
 patch=1,EE,002bc560,word,4600c602
 
-[battle fix]
+//battle fix
 patch=1,EE,00a008a4,word,44400000 //right side fix
 patch=1,EE,00a008ac,word,c4400000 // left side fix
 
-[2D scenes]
+//2D scenes
 patch=1,EE,001a9ffc,word,3c014480
 patch=1,EE,001aa004,word,44811800
 patch=1,EE,001aa008,word,3c014a00

@@ -7,7 +7,7 @@ patch=1,EE,00104a5c,word,3c013f40
 patch=1,EE,00104a60,word,44810000
 patch=1,EE,00104a68,word,4600c602
 
-[NEW]
+//NEW
 patch=1,EE,0027d32c,word,46000883
 patch=1,EE,0027d330,word,1040000e
 patch=1,EE,0027d334,word,00000000
@@ -34,22 +34,22 @@ patch=1,EE,0027d384,word,461e1082
 patch=1,EE,0027d388,word,e7a20020
 
 
-[OLD]
-[patch=1,EE,0027a370,word,3c033f40]
-[patch=1,EE,0027a384,word,3c033f80]
-[patch=1,EE,0027a388,word,ac830010]
-[patch=1,EE,0027a38c,word,ac800014]
-[patch=1,EE,0027a390,word,ac800018]
-[patch=1,EE,0027a394,word,ac80001c]
-[patch=1,EE,0027a398,word,03e00008]
-[patch=1,EE,0027a39c,word,ac830020]
-[patch=1,EE,0027d3b8,word,3c023fab]
-[patch=1,EE,0027d3bc,word,0c09f138]
-[patch=1,EE,0027d3c0,word,afa20020]
-[patch=1,EE,0027d3c4,word,1000fff3]
+//OLD
+//patch=1,EE,0027a370,word,3c033f40
+//patch=1,EE,0027a384,word,3c033f80
+//patch=1,EE,0027a388,word,ac830010
+//patch=1,EE,0027a38c,word,ac800014
+//patch=1,EE,0027a390,word,ac800018
+//patch=1,EE,0027a394,word,ac80001c
+//patch=1,EE,0027a398,word,03e00008
+//patch=1,EE,0027a39c,word,ac830020
+//patch=1,EE,0027d3b8,word,3c023fab
+//patch=1,EE,0027d3bc,word,0c09f138
+//patch=1,EE,0027d3c0,word,afa20020
+//patch=1,EE,0027d3c4,word,1000fff3
 
 
-[font fix]
+//font fix
 patch=1,EE,0012E444,word,3c023f40
 
 patch=1,EE,001B5608,word,24070015
@@ -59,7 +59,7 @@ patch=1,EE,00205FA8,word,24170015
 patch=1,EE,001D7C30,word,24080015
 
 
-[portrait fix]
+//portrait fix
 patch=1,EE,00204C48,word,240900d9 //24090121
 patch=1,EE,0028D180,word,000000b8 //00000098
 patch=1,EE,0028D184,word,00000130 //00000110

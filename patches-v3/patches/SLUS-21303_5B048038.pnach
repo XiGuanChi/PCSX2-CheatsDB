@@ -4,7 +4,7 @@ gametitle=Rebel Raiders - Operation Nighthawk (U)(SLUS-21303)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,0016bb18,word,08047790 //c6010068
 

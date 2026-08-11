@@ -4,7 +4,7 @@ gametitle=Garouden Break Blow (K)(SLKA-25371)
 gsaspectratio=16:9
 author=ElHecht (NTSC-K by Arapapa)
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,0014f58c,word,080ad68f // 46007bc7
 patch=1,EE,0014f590,word,00000000 // 46006b47

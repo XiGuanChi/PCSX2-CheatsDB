@@ -4,7 +4,7 @@ gametitle=Freak Out - Extreme Freeride (E)(SLES-54653)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 
 patch=1,EE,004fd4e4,word,3c013fab //3c013f80

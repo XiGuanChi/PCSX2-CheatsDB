@@ -4,7 +4,7 @@ gametitle=Nickelodeon SpongeBob SquarePants in: Battle for Bikini Bottom (SLUS-2
 gsaspectratio=16:9
 author=nemesis2000
 
-[gameplay]
+//gameplay
 patch=1,EE,0035ce30,word,0c045286
 patch=1,EE,0035ce34,word,00000000
 patch=1,EE,0035ce38,word,3c023f40
@@ -14,7 +14,7 @@ patch=1,EE,0035ce44,word,27a50028
 patch=1,EE,0035ce48,word,46010083
 patch=1,EE,0035ce4c,word,e7a20028
 
-[480p]
+//480p
 patch=1,EE,00263ddc,word,24050000
 patch=1,EE,00263de0,word,24060050
 patch=1,EE,00263128,word,24060050

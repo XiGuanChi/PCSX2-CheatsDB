@@ -4,7 +4,7 @@ gametitle=World Championship Poker 2 - Featuring Howard Lederer (U)(SLUS-21176)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,0023c2dc,word,08030000
 patch=1,EE,000c0000,word,46031082

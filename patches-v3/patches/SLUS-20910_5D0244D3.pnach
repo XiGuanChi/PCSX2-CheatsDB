@@ -97,16 +97,16 @@ patch=0,EE,102AA8EC,extended,5F00 // Button 8 - dig_throttle
 patch=0,EE,102AA904,extended,5EE8 // Button 6 - view
 patch=0,EE,102AA924,extended,5D48 // Button 5 - horn
 
-[Patch the control scheme in menu]
+// Patch the control scheme in menu
 patch=0,EE,102AB748,extended,0038 // L2
 patch=0,EE,102AB760,extended,0034 // R1
 patch=0,EE,102AB76C,extended,003C // R2
 patch=0,EE,102AB778,extended,0030 // L1
 
-[Enable analog throttle and analog brake by default]
+// Enable analog throttle and analog brake by default
 patch=0,EE,202AAE58,extended,AE000000
 patch=0,EE,202AAE5C,extended,AE000004
 
-[Do not load digital_throttle and digital_braking from the memory card]
+// Do not load digital_throttle and digital_braking from the memory card
 patch=0,EE,202A8FD8,extended,00000000
 patch=0,EE,202A8FEC,extended,00000000

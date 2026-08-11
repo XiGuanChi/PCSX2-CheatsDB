@@ -4,9 +4,9 @@ gametitle=Gekikuukan Pro Yakyuu - At the End of the Century 1999 (J)(SLPS-20010)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov #1]
+//X-Fov #1
 patch=1,EE,00137ffc,word,0807e208
 
 patch=1,EE,001f8820,word,46036042
@@ -16,7 +16,7 @@ patch=1,EE,001f882c,word,4481f000
 patch=1,EE,001f8830,word,461e0842
 patch=1,EE,001f8834,word,0804e000
 
-[X-Fov #2]
+//X-Fov #2
 patch=1,EE,00138194,word,0807e20f
 
 patch=1,EE,001f883c,word,46046042

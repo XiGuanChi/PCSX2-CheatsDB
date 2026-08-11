@@ -4,10 +4,10 @@ gametitle=Legends of Wrestling II (E)(SLES-51045)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
-[03210e46 015a0546]
+//X-Fov
+//03210e46 015a0546
 patch=1,EE,002b0034,word,08030000
 
 patch=1,EE,000c0000,word,460e2103

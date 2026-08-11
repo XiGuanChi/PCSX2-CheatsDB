@@ -4,7 +4,7 @@ gametitle=BMX XXX (SLUS-20415)
 gsaspectratio=16:9
 author=BloodRaynare
 
-[16:9]
+// 16:9
 patch=1,EE,00101074,word,3c013f40 // 3c013f80 hor fov
 patch=1,EE,00299544,word,3c093f40 // 00000000 renderfix
 patch=1,EE,001014a4,word,080a6551 // 46000843

@@ -4,7 +4,7 @@ gametitle=Momotarou Dentetsu 11 - Black Bonbi Shutsugen! no Maki (J)(SLPM-62266)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,0022fff8,word,08030000
 

@@ -4,10 +4,10 @@ gametitle=Brothers in Arms: Earned in Blood (J) (SLPM_664.10)
 gsaspectratio=16:9
 author=nemesis2000 (pnach by Arapapa)
 
-[gameplay]
+//gameplay
 patch=1,EE,002f292c,word,3c023f40
 
-[menu font fix]
+//menu font fix
 patch=1,EE,003c757c,word,3c033f40
 patch=1,EE,003c7584,word,3c033f80
 patch=1,EE,003c7588,word,44830800

@@ -4,9 +4,9 @@ gametitle=Shinseiki GPX Cyber Formula - Road to the Infinity 2 (J)(SLPS-25541)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
-[X-Fov]
+//X-Fov
 patch=1,EE,0029c518,word,080b5d94 // c6010068
 patch=1,EE,0029c51c,word,00000000 // c602006c
 

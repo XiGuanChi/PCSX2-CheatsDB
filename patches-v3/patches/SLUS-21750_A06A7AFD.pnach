@@ -4,7 +4,7 @@ gametitle=Disney Hannah Montana - Spotlight World Tour (U)(SLUS-21750)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,004f952c,word,3FE38E32 //3faaaaab
 patch=1,EE,0050b5cc,word,3FE38E32 //3faaaaab

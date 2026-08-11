@@ -4,7 +4,7 @@ gametitle=Offroad Extreme! (E)(SLES-52751)
 gsaspectratio=16:9
 author=Arapapa
 
-[Widescreen hack 16:9]
+//Widescreen hack 16:9
 
 patch=1,EE,003168c8,word,080d9b04 // c6010068
 patch=1,EE,003168cc,word,00000000 // c602006c
