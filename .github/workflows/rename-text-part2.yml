@@ -22,7 +22,7 @@ jobs:
           python-version: '3.11'
 
       - name: Run rename script
-        run: python .github/scripts/rename_pnach_patches.py
+        run: python .github/scripts/rename_pnach_patch.py
 
       - name: Commit and push if changes
         run: |
