@@ -7,7 +7,7 @@ import sys
 TARGET_DIRS = [f"cheats-v{i}" for i in range(1, 7)]
 
 def process_file(filepath):
-    """Read file, replace lines matching //Name with [Name], and write back."""
+    """Read file, replace lines matching //Content with [Content], and write back."""
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             lines = f.readlines()
@@ -23,7 +23,7 @@ def process_file(filepath):
         match = re.match(r'^\s*//(.*?)\s*$', stripped)
         if match:
             content = match.group(1).strip()
-            new_line = f"[{name}]\n"
+            new_line = f"[{content}]\n"
             if new_line != line:
                 modified = True
             new_lines.append(new_line)
