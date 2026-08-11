@@ -4,7 +4,7 @@ gametitle=Uchuu Keiji Tamashii - The Space Sheriff Spirits (J)(SLPS-25649)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,001080e0,word,08030000
 

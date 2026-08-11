@@ -4,9 +4,9 @@ gametitle=Rugby 2005 (USA) [SLUS-21158]
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//240080ac 280080e4 0800e003
+[240080ac 280080e4 0800e003]
 patch=1,EE,0039c28c,word,08030000
 patch=1,EE,0039c290,word,00000000
 

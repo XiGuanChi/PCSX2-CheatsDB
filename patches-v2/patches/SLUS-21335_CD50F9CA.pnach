@@ -4,9 +4,9 @@ gametitle=The Hustle - Detroit Streets (U)(SLUS-21335)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//1855448e 60524cc4
+[1855448e 60524cc4]
 patch=1,EE,002dd184,word,0811f104
 
 patch=1,EE,0047c410,word,c44c5260

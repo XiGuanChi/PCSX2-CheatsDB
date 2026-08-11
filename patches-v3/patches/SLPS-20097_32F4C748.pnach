@@ -4,9 +4,9 @@ gametitle=Magical Sports 2001 Koushien (J)(SLPS-20097)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
+[X-Fov]
 
 patch=1,EE,00223424,word,080b4230 // c6010068
 patch=1,EE,00223428,word,00000000 // c602006c

@@ -53,7 +53,7 @@ patch=1,EE,0015d8d0,word,44816800
 
 patch=1,EE,0015D8F8,word,4600A446
 
-//FMV's fix
+[FMV's fix]
 patch=1,EE,00162a88,word,00a0482d
 patch=1,EE,00162a8c,word,ffbf0000
 patch=1,EE,00162a90,word,0080402d

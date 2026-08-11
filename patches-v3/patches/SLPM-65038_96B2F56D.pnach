@@ -3,15 +3,15 @@ gametitle=Devil May Cry (J)(SLPM-65038)
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000 (NTSC-J by Arapapa)
-//NTSC-J is a little different to NTSC-U
-//NOTICE... After you run the new game, rectangle appears in the upper-left of the screen.
-//NOTICE... Entering the options menu, it does not go out after.
+[NTSC-J is a little different to NTSC-U]
+[NOTICE... After you run the new game, rectangle appears in the upper-left of the screen.]
+[NOTICE... Entering the options menu, it does not go out after.]
 
-//gameplay
+[gameplay]
 patch=1,EE,0014d2e8,word,3c023f19 //3c023f4c
 patch=1,EE,0014d2ec,word,3448999a //3448cccd
 
-//render fix
+[render fix]
 patch=1,EE,0024fce4,word,0c040b90 //00000000
 patch=1,EE,0024fcec,word,4615a800 //0c040b90
 patch=1,EE,0024fcf0,word,3c0342a0 //00000000

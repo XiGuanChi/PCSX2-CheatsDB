@@ -5,7 +5,7 @@ gsaspectratio=16:9
 author=nemesis2000
 description=Widescreen fix
 
-//Widescreen fix
+[Widescreen fix]
 patch=1,EE,004720d0,word,14640007
 patch=1,EE,004720d4,word,3c030022
 patch=1,EE,004720d8,word,2404bec0

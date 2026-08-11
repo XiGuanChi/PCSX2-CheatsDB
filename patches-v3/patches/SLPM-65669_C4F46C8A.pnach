@@ -4,9 +4,9 @@ gametitle=Spectral Force - Radical Elements (J)(SLPM-65669)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov (2D & 3D)
+[X-Fov (2D & 3D)]
 patch=1,EE,0014a784,word,3c023f19 //3c023f4c
 patch=1,EE,0014a788,word,3442999a //3442cccd
 patch=1,EE,0015be08,word,3c023f19 //3c023f4c
@@ -108,7 +108,7 @@ patch=1,EE,0023c9a0,word,3442999a //3442cccd
 patch=1,EE,0023f4d0,word,3c023f19 //3c023f4c
 patch=1,EE,0023f4d4,word,3442999a //3442cccd
 
-//2D X-position
+[2D X-position]
 patch=1,EE,00233ca4,word,24637400 //24637000
 patch=1,EE,0023c6ec,word,24647400 //24647000
 patch=1,EE,0023c78c,word,24647400 //24647000

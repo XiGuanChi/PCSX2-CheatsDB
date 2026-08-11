@@ -5,8 +5,8 @@ gsaspectratio=16:9
 author=El_Patas
 description=Widescreen Hack
 
-//Gameplay 16:9
-//00 00 80 3F 00 00 80 BF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 E0 01 00 00 50 00 00 0E
+[Gameplay 16:9]
+[00 00 80 3F 00 00 80 BF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 E0 01 00 00 50 00 00 0E]
 patch=1,EE,20C1a9a4,extended,3F400000 //3F800000 (Increases hor. axis)
 
 [60 FPS]

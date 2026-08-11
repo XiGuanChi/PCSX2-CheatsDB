@@ -4,10 +4,10 @@ gametitle=World Championship Cards (U)(SLUS-21340)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//42080246 8c0203e6
+[X-Fov]
+[42080246 8c0203e6]
 patch=1,EE,002b6574,word,0815af58
 patch=1,EE,0056bd60,word,46020842
 patch=1,EE,0056bd64,word,3C013F40

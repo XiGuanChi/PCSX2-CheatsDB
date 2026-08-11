@@ -7,7 +7,7 @@ patch=1,EE,001817e8,word,3c023fe3
 patch=1,EE,001817ec,word,34428e38
 patch=1,EE,001a98b4,word,3c023f40
 
-//FMV's fix
+[FMV's fix]
 patch=1,EE,00321218,word,240202aa
 patch=1,EE,0032123c,word,24020200
 patch=1,EE,00321240,word,24020255

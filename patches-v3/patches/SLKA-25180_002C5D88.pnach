@@ -3,8 +3,8 @@ gametitle=Tom Clancy's Splinter Cell 2: Pandora Tomorrow * NTSC-K * SLKA-25180 *
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000 & arapapa
-// Ported by arapapa from the NTSC-U hack by nemesis2000.
-// Search values are different than NTSC-U.
+[Ported by arapapa from the NTSC-U hack by nemesis2000.]
+[Search values are different than NTSC-U.]
 
 patch=1,EE,001b8b1c,word,14400005 // 14400006
 patch=1,EE,001b8b34,word,8f849f54 // 00000000

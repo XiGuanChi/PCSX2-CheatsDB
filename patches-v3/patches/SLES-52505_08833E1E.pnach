@@ -4,7 +4,7 @@ gametitle=Spy Fiction (PAL-M5) (SLES-52505)
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9
+[16:9]
 patch=1,EE,0013ea88,word,3c013f40 // 00000000 hor fov
 patch=1,EE,0013ea8c,word,4481f000 // 46020003
 patch=1,EE,0013ea90,word,461e0002 // e4805ebc

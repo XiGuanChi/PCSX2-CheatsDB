@@ -4,7 +4,7 @@ gametitle=Drive To Survive (U)(SLUS-21109)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,0019a430,word,08106838
 

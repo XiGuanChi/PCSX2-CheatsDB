@@ -4,10 +4,10 @@ gametitle=NBA Ballers - Phenom (U)(SLUS-21186)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//42420146 02490446
+[X-Fov]
+[42420146 02490446]
 patch=1,EE,00136838,word,08150bd0
 
 patch=1,EE,00542f40,word,46014242
@@ -16,8 +16,8 @@ patch=1,EE,00542f48,word,4481f000
 patch=1,EE,00542f4c,word,461e4a42
 patch=1,EE,00542f50,word,0804da0f
 
-//Render fix
-//68008bc4 0800a327
+[Render fix]
+[68008bc4 0800a327]
 patch=1,EE,00135ef0,word,08150bd8
 
 patch=1,EE,00542f60,word,c48b0068

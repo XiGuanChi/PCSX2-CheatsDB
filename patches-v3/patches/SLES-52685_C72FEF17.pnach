@@ -4,7 +4,7 @@ gametitle=The Polar Express PAL-M SLES-52685 C72FEF17
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,003476a0,word,080bc564 // c6010068
 patch=1,EE,003476a4,word,00000000 // c602006c

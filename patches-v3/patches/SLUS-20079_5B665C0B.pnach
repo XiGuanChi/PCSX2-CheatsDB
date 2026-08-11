@@ -4,7 +4,7 @@ gametitle=Dynasty Warriors 2 NTSC-U [SLUS-20079]
 description=Renders the game in 16:9 aspect ratio, instead of 4:3.
 gsaspectratio=16:9
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,202FA696,extended,3FAAAAAB // 3F800000
 patch=1,EE,202FB4EC,extended,3c013fab // 3c013f80
@@ -19,8 +19,8 @@ patch=1,EE,2033B18C,extended,3FAAAAAB // 3F800000
 patch=1,EE,2033B190,extended,3FAAAAAB // 3F800000
 patch=1,EE,2033B194,extended,3FAAAAAB // 3F800000
 
-//Render fix (fix by Arapapa)
-//003F013C 00608144 DC9C94C7
+[Render fix (fix by Arapapa)]
+[003F013C 00608144 DC9C94C7]
 patch=1,EE,00253d24,word,3c013f40 //3c013f00
 
 

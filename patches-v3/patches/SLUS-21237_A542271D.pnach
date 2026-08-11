@@ -4,10 +4,10 @@ gametitle=And 1 Streetball (U)(SLUS-21237)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//46c30046 608092c7
+[X-Fov]
+[46c30046 608092c7]
 patch=1,EE,0032ced0,word,08106094
 
 patch=1,EE,00418250,word,4600c346
@@ -16,7 +16,7 @@ patch=1,EE,00418258,word,4481f000
 patch=1,EE,0041825c,word,461e6b42
 patch=1,EE,00418260,word,080cb3b5
 
-//Font Fix
+[Font Fix]
 patch=1,EE,00164c5c,word,3c013f06 //3c013f33
 patch=1,EE,00164c60,word,34216666 //34213333
 

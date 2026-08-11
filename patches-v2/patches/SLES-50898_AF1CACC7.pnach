@@ -4,7 +4,7 @@ gametitle=X-Men - Next Dimension (E)(SLES-50898)
 gsaspectratio=16:9
 description=Widescreen hack (Pal by Arapapa)
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,001a5bfc,word,3c014455 //3c014420
 patch=1,EE,001a5c18,word,3c013fe3

@@ -31,7 +31,7 @@ patch=0,EE,00402548,word,14A0003C
 author=Silent
 description=Fixes the career cash bonus not checking for Most Wanted: Black Edition.
 
-// Check for BESLES-53857 by reusing one of the unused UG2 serials (BASLUS-21065)
+[Check for BESLES-53857 by reusing one of the unused UG2 serials (BASLUS-21065)]
 patch=0,EE,205B0488,extended,4C534542
 patch=0,EE,205B048C,extended,352D5345
 patch=0,EE,205B0490,extended,37353833

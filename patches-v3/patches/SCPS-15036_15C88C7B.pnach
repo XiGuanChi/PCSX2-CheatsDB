@@ -5,7 +5,7 @@ gsaspectratio=16:9
 author=Arapapa
 description=Renders the game in 16:9 aspect ratio, instead of 4:3.
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 patch=1,EE,00143a50,word,3c013fdd //3c013fa6
 patch=1,EE,00143a54,word,3421a51d //34213bd8
 patch=1,EE,0012b938,word,10000003 //11000003
@@ -18,14 +18,14 @@ gsinterlacemode=1
 author=asasega
 description=No Interlacing
 
-// No Interlacing by asasega
+[No Interlacing by asasega]
 patch=1,EE,202037C4,extended,00000000
 
 [No Motion Blur]
 author=Meos
 description=No Motion Blur
 
-// No Motion Blur by Meos
+[No Motion Blur by Meos]
 patch=1,EE,2015F3BC,extended,08057CF3
 patch=1,EE,20190720,extended,080641CC
 patch=1,EE,201EB410,extended,0807AD07

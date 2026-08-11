@@ -4,7 +4,7 @@ gametitle=Rebel Raiders - Operation Nighthawk (E)(SLES-53413)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
 patch=1,EE,0016b998,word,08057958 //c6010068
 

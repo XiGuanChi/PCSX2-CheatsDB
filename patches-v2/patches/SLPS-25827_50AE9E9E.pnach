@@ -4,9 +4,9 @@ gametitle=Soukou Kihei Votoms (NTSC-J)(SLPS-25827)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//4c3f023c cdcc4334
+[4c3f023c cdcc4334]
 patch=1,EE,001717b8,word,3c023f19 //3c023f4c
 patch=1,EE,001717bc,word,34439994 //3443cccd
 

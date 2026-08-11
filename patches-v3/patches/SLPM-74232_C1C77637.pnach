@@ -4,7 +4,7 @@ gametitle=Shin Onimusha - Dawn of Dreams (PlayStation 2 the Best) [NTSC-J] [Disc
 gsaspectratio=16:9
 author=nemesis2000
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 patch=1,EE,0012f960,word,3c033f19 //3c033f4c
 patch=1,EE,0012f968,word,34649999 //3464cccd
 patch=1,EE,0012f9c8,word,3c023f19 //3c023f4c

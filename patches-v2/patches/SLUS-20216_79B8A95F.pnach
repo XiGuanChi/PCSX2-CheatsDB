@@ -4,11 +4,11 @@ gametitle=Devil May Cry (SLUS-20216)
 gsaspectratio=16:9
 author=nemesis2000
 
-//gameplay
+[gameplay]
 patch=1,EE,0014e478,word,3c023f19
 patch=1,EE,0014e47c,word,3448999a
 
-//render fix
+[render fix]
 patch=1,EE,0024fc14,word,0c040b90
 patch=1,EE,0024fc18,word,00000000
 patch=1,EE,0024fc1c,word,4615a800

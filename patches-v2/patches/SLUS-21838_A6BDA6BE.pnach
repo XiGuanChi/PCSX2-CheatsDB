@@ -4,10 +4,10 @@ gametitle=Monster Lab (U)(SLUS-21838)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//02051446 e40100e6
+[X-Fov]
+[02051446 e40100e6]
 patch=1,EE,001857f8,word,080430d4
 
 patch=1,EE,0010c350,word,46140502

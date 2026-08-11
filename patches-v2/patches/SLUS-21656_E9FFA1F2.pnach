@@ -4,8 +4,8 @@ gametitle=Hannspree Ten Kate Honda - SBK-07 Superbike World Championship (U)(SLU
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9
-//00088344 00000000 020b0046
+[16:9]
+[00088344 00000000 020b0046]
 patch=1,EE,0013c824,word,4483e800 // 44830800
 patch=1,EE,0013c828,word,4600eb02 // 00000000
 patch=1,EE,0013c82c,word,e7b40000 // 46000b02

@@ -4,7 +4,7 @@ gametitle=Monsters, Inc. (U)(SCUS-97123)
 gsaspectratio=16:9
 author=ElHecht (NTSC-U by Arapapa)
 
-// 16:9
+[16:9]
 patch=1,EE,001c7528,word,080abe2b // c6010068 jump to code-inject 002af8ac
 patch=1,EE,001c752c,word,00000000 // c602006c
 

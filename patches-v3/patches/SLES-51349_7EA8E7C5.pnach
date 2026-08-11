@@ -4,14 +4,14 @@ gametitle=Evolution Skateboarding (E)(SLES-51349)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//Zoom
-//0040033c 42ce0346
+[Zoom]
+[0040033c 42ce0346]
 patch=1,EE,001a8354,word,3c033fc0 //3c034000
 
-//Y-Fov
-//43200346 100022e6
+[Y-Fov]
+[43200346 100022e6]
 patch=1,EE,001a839c,word,080e72b4 //46032043
 patch=1,EE,0039cad0,word,46032043
 patch=1,EE,0039cad4,word,3c013f40

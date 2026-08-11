@@ -4,13 +4,13 @@ gametitle=Jeep Thrills NTSC-U SLUS-21760 3DDBDB2C
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//Zoom
+[Zoom]
 patch=1,EE,001684e4,word,3c013f88 //3c013f4c
 patch=1,EE,001684e8,word,34218883 //3421cccd
 
-//Y-Fov
+[Y-Fov]
 patch=1,EE,00168500,word,08030000
 
 patch=1,EE,000c0000,word,4600a343

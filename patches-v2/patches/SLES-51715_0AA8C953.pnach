@@ -4,7 +4,7 @@ gametitle=The Seed: Warzone [PAL] (SLES_517.15)
 gsaspectratio=16:9
 author=El_Patas
 
-//Gameplay 16:9
+[Gameplay 16:9]
 patch=1,EE,00137D7C,word,3C013F40 //3C013F80 Map menu
 patch=1,EE,0017509C,word,3C013F40 //3C013F80 Objects battles
 patch=1,EE,00188838,word,3C013F40 //3C013F80 Background battles 01

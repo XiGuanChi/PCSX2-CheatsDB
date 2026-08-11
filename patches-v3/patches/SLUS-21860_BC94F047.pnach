@@ -4,12 +4,12 @@ gametitle=The Bigs 2 NTSC-U SLUS-21860 BC94F047
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//Normal play
+[Normal play]
 patch=1,EE,20C74768,extended,3FE38E32 //3AAAAAAB
 
-//Turbo and Power blast play
+[Turbo and Power blast play]
 patch=1,EE,20C74848,extended,3FE38E32 //3AAAAAAB
 patch=1,EE,20C74900,extended,3FE38E32 //3AAAAAAB
 patch=1,EE,20C749B4,extended,3FE38E32 //3AAAAAAB

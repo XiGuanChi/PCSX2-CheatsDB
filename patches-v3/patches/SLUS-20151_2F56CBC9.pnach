@@ -11,7 +11,7 @@ patch=0,EE,002FB48C,extended,40
 //patch=1,EE,0030536c,word,3c013f40 //old patch by synce (NTSC-U pnach by flameofrecca). It has rendering problems
 //patch=1,EE,00305370,word,44810000
 //patch=1,EE,00305378,word,4600c602
-//Partial HUD fix. This can be enabled, but it looks strange, with one part of the HUD in 4:3 and another part stretched.
+[Partial HUD fix. This can be enabled, but it looks strange, with one part of the HUD in 4:3 and another part stretched.]
 //patch=1,EE,2051A000,word,3f400000
 //patch=1,EE,2051B000,word,3f400000
 //patch=1,EE,2051C000,word,3f400000

@@ -10,7 +10,7 @@ patch=1,EE,0020A4F8,extended,AC
 patch=1,EE,002081DC,extended,AC
 patch=1,EE,002ECAF0,extended,40
 patch=1,EE,002ECB40,extended,D0
-//-------------------------------------------------HUD-------------------------------------------------//
+[-------------------------------------------------HUD-------------------------------------------------//]
 patch=0,EE,20664384,extended,3ecccccd //Wanted Width
 patch=0,EE,20664390,extended,3ef5c28f //Wanted Shadow Width
 patch=0,EE,2026E09C,extended,3c084280 //Radar Width
@@ -60,7 +60,7 @@ patch=0,EE,202AB670,extended,24050231 //Armor bar pos x
 patch=0,EE,202AB7C0,extended,24050231 //Breath bar pos x
 patch=0,EE,202AB808,extended,24050231 //Breath bar pos x
 
-//CRadar::DrawBlips - Radar Centre
+[CRadar::DrawBlips - Radar Centre]
 patch=0,EE,2026869C,extended,24050006
 patch=0,EE,202686A4,extended,24060008
 patch=0,EE,202686D4,extended,24050006
@@ -79,7 +79,7 @@ patch=0,EE,202ACBC4,extended,3C0341d4 //AltitudeBar width
 patch=0,EE,202ACD20,extended,3C0241e5 //AltitudeCounter width
 patch=0,EE,202ACD10,extended,3C034190 //AltitudeCounter X Pos
 
-//-------------------------------------------------Menu------------------------------------------------//
+[-------------------------------------------------Menu------------------------------------------------//]
 
 patch=0,EE,20234AA4,extended,24040001 //Set Menu Text Body
 
@@ -116,12 +116,12 @@ patch=1,EE,0066804C,extended,10000001
 author=DanielSantos, ported by kesterstudios, with consideration to Silent
 description=Silentpatch Lite Fixes for 3.00
 
-//------------------------------------------------Fixes------------------------------------------------//
+[------------------------------------------------Fixes------------------------------------------------//]
 
-//Linear Filtering for License Plates
+[Linear Filtering for License Plates]
 patch=0,EE,204A4D94,extended,34630002 //ori $v1, 2 //RWLINEARFILTER
 
-//Fixed ammo for melee weapons in cheats
+[Fixed ammo for melee weapons in cheats]
 patch=0,EE,2059DFEC,extended,24060001 //li $s2 1 //knife
 patch=0,EE,2059E0F8,extended,24060001 //li $s2 1 //knife
 patch=0,EE,2059E2C0,extended,24060001 //li $s2 1 //chainsaw
@@ -129,21 +129,21 @@ patch=0,EE,2059E394,extended,24060001 //li $s2 1 //chainsaw
 patch=0,EE,2059FDDC,extended,24060001 //li $s2 1 //parachute
 patch=0,EE,2059FB1C,extended,24060001 //li $s2 1 //katana
 
-//014C cargen counter fix (by spaceeinstein)
+[014C cargen counter fix (by spaceeinstein)]
 patch=0,EE,20295C00,extended,2C61FFFF //slti => sltiu
 patch=0,EE,20295C04,extended,10000004 //beqz => b
 
-// Don't clean the car BEFORE Pay 'n Spray doors close, as it gets cleaned later again anyway!
+[Don't clean the car BEFORE Pay 'n Spray doors close, as it gets cleaned later again anyway!]
 patch=0,EE,202E42FC,extended,00000000 //nop
 
-// Fixed muzzleflash not showing from last bullet
+[Fixed muzzleflash not showing from last bullet]
 patch=0,EE,20407464,extended,00000000 //nop
 
-// Help boxes showing with big message
-// Game seems to assume they can show together
+[Help boxes showing with big message]
+[Game seems to assume they can show together]
 patch=0,EE,202AE4B0,extended,00000000 //nop
 
-// Weapon icon fix (crosshairs mess up rwRENDERSTATEZWRITEENABLE)
+[Weapon icon fix (crosshairs mess up rwRENDERSTATEZWRITEENABLE)]
 patch=0,EE,202AAC54,extended,00000000 //nop
 patch=0,EE,202AB394,extended,00000000 //nop
 patch=0,EE,202AB3C4,extended,00000000 //nop

@@ -4,7 +4,7 @@ gametitle=CSI - Crime Scene Investigation - 3 Dimensions of Murder (NTSC-U) (SLU
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9
+[16:9]
 patch=1,EE,0027d5f0,word,3c033f40 // 3c033f80 hor fov
 patch=1,EE,0027d5fc,word,46000803 // 46010003 hor fov
 patch=1,EE,00184d9c,word,3c02402b // 3c024000 renderfix 1
@@ -19,7 +19,7 @@ patch=1,EE,0027d7f4,word,3c033faa // 3c033f80 font fix3
 patch=1,EE,0027d848,word,3463aaab // 44830800 font fix3
 patch=1,EE,0027d84c,word,44830800 // 00000000 font fix3
 
-// 16:10
+[16:10]
 //patch=1,EE,0027d5f0,word,3c033f55 // 3c033f80 hor fov
 //patch=1,EE,0027d5f4,word,34425555 // 44830000 hor fov
 //patch=1,EE,0027d5f8,word,44830000 // 00000000 hor fov

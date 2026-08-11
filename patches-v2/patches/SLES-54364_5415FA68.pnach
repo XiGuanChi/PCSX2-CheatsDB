@@ -4,7 +4,7 @@ gametitle=Curious George PAL-M7 SLES-54364 5415FA68
 gsaspectratio=16:9
 author=El_Patas
 
-//Gameplay 16:9
+[Gameplay 16:9]
 patch=1,EE,00199214,word,3C013CAD //3C013C8E Zoom
 patch=1,EE,001B2114,word,3C013C6E //3C013C8E Y-FOV
 

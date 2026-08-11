@@ -4,9 +4,9 @@ gametitle=Monkey Turn V (J)(SLPS-20381)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
+[X-Fov]
 patch=1,EE,001342bc,word,08042c68
 
 patch=1,EE,0010b1a0,word,46160803

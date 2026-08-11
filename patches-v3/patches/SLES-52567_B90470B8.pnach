@@ -4,9 +4,9 @@ gametitle=Catwoman (PAL-M) SLES-52567 B90470B8
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//Zoom fix (Internal Widescreen)
+[Zoom fix (Internal Widescreen)]
 patch=1,EE,00116c64,word,3c013f80 //3c013f59
 patch=1,EE,00116c68,word,00000000 //3421999a
 

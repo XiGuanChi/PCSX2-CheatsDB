@@ -4,7 +4,7 @@ gametitle=James Bond 007 - Everything or Nothing (NTSC-K)(SLKA-25129)
 gsaspectratio=16:9
 author=nemesis2000 (NTSC-K by Arapapa)
 
-//Widescreen Hack 16:9
+[Widescreen Hack 16:9]
 patch=1,EE,0041ab2c,word,3faaaaab //3f800000
 
 

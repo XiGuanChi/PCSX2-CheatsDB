@@ -4,7 +4,7 @@ gametitle=Wreckless - The Yakuza Missions (PAL-M3) (SLES-51202)
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9
+[16:9]
 patch=1,EE,00147ca4,word,3c013f40 // 3c013f80 hor fov
 
 

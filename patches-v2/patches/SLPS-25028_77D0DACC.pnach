@@ -4,11 +4,11 @@ gametitle=Shutokou Battle 0 [NTSC-J] (SLPS-25028)
 gsaspectratio=16:9
 description=Widescreen Hack
 
-//Gameplay
+[Gameplay]
 patch=1,EE,0015c9f0,word,3c073f40 //GamePlay
 patch=1,EE,001dd0d0,word,3c033f40 //Garage
 
-//Gameplay HUD by VIRGIN KLM
+[Gameplay HUD by VIRGIN KLM]
 patch=1,EE,20336000,extended,3F400000
 patch=1,EE,20336030,extended,00000210
 patch=1,EE,20336048,extended,3F400000

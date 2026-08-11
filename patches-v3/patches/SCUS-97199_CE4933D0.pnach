@@ -1,8 +1,8 @@
-//gametitle=Ratchet & Clank (NTSC-U)
+[gametitle=Ratchet & Clank (NTSC-U)]
 
-//[Widescreen 16:9]
-//gsaspectratio=16:9
-//author=PsxFan107. Currently it appears to break rendering of textures in some areas.
+[[Widescreen 16:9]]
+[gsaspectratio=16:9]
+[author=PsxFan107. Currently it appears to break rendering of textures in some areas.]
 
 // DWORD Code patching routine
 //patch=1,EE,200C0000,extended,3C1B000C
@@ -34,30 +34,30 @@
 //patch=1,EE,200C0078,extended,0804B663
 //patch=1,EE,200C007C,extended,ACA2FFFC
 
-// Widescreen comparison  DWORD/WORD
+[Widescreen comparison  DWORD/WORD]
 //patch=1,EE,200C0080,extended,C46000B0
 //patch=1,EE,200C0084,extended,46010002
 
-// Widescreen replacement  DWORD/WORD
+[Widescreen replacement  DWORD/WORD]
 //patch=1,EE,200C0088,extended,0C030029
 //patch=1,EE,200C008C,extended,46010002
 
-// Pause menu fix refrence  DWORD/WORD
-// Note: The injection routine works backwards from this.
+[Pause menu fix refrence  DWORD/WORD]
+[Note: The injection routine works backwards from this.]
 //patch=1,EE,200C0090,extended,00055443
 //patch=1,EE,200C0094,extended,00031C00
 
-// Gadgetron vendor fix refrence  DWORD/WORD
-// Note: The injection routine works backwards from this.
+[Gadgetron vendor fix refrence  DWORD/WORD]
+[Note: The injection routine works backwards from this.]
 //patch=1,EE,200C0098,extended,E60100E8
 //patch=1,EE,200C009C,extended,E44000B0
 
-// Pause menu / Gadgetron vendor fix replacement DWORD/WORD
+[Pause menu / Gadgetron vendor fix replacement DWORD/WORD]
 //patch=1,EE,200C00A0,extended,342147AF
 
-// HOR FOV Recalculation routine
+[HOR FOV Recalculation routine]
 // This routine works by iterating through a list of unpatched FOV's.
-// If the HOR FOV in ram matches one these values, it gets recalculated.
+[If the HOR FOV in ram matches one these values, it gets recalculated.]
 //patch=1,EE,200C00A4,extended,8C6100B0
 //patch=1,EE,200C00A8,extended,8F640110
 //patch=1,EE,200C00AC,extended,14240006
@@ -82,10 +82,10 @@
 //patch=1,EE,200C0104,extended,03E00008
 //patch=1,EE,200C0108,extended,3C1B000C
 
-// Hor scale
+[Hor scale]
 //patch=1,EE,200C010C,extended,3F400000
 
-// Pause menu and Gadgetron Hor FOV
+[Pause menu and Gadgetron Hor FOV]
 //patch=1,EE,200C0110,extended,3F2147AF
 
 // Unpatched Hor FOV values

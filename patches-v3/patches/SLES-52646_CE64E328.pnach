@@ -6,9 +6,9 @@ author=PeterDelta
 patch=1,EE,E0010000,extended,00E966F8
 patch=1,EE,20E966F8,extended,3F400000
 
-// 16:9 Widescreen hack by arapapa
-// X-FoV (Single Play)
-// 0000803f abaaaa3f
+[16:9 Widescreen hack by arapapa]
+[X-FoV (Single Play)]
+[0000803f abaaaa3f]
 //patch=1,EE,E0013f80,extended,00E8D5CA
 //patch=1,EE,20E8D5C8,extended,3f400000 // 3f800000
 

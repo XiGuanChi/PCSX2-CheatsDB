@@ -4,7 +4,7 @@ gametitle=Evolution GT (PAL-M5) (SLES-53976)
 gsaspectratio=16:9
 author=ElHecht
 
-// 16:9
+[16:9]
 patch=1,EE,00145154,word,4483e800 // 44830800
 patch=1,EE,00145158,word,4600eb02 // 00000000
 patch=1,EE,0014515c,word,e7b40000 // 46000b02

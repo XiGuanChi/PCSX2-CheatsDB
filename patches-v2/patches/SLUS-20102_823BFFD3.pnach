@@ -4,10 +4,10 @@ gametitle=NBA Live 2001 (U)(SLUS-20102)
 gsaspectratio=16:9
 author=Arapapa
 
-//Widescreen hack 16:9
+[Widescreen hack 16:9]
 
-//X-Fov
-//82310946 0800a8df
+[X-Fov]
+[82310946 0800a8df]
 patch=1,EE,001127d8,word,08030000
 
 patch=1,EE,000c0000,word,46093182

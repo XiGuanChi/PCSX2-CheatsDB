@@ -3,15 +3,15 @@ gametitle=Devil May Cry (K) (SLPM-67502)
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000 (pnach NTSC-K by Arapapa)
-//NTSC-K is a little diffrent to NTSC-U
-//NOTICE... After you run the new game, rectangle appears in the upper-left of the screen.
-//NOTICE... Entering the options menu, it does not go out after.
+[NTSC-K is a little diffrent to NTSC-U]
+[NOTICE... After you run the new game, rectangle appears in the upper-left of the screen.]
+[NOTICE... Entering the options menu, it does not go out after.]
 
-//gameplay
+[gameplay]
 patch=1,EE,0014d2c8,word,3c023f19
 patch=1,EE,0014d2cc,word,3448999a
 
-//render fix
+[render fix]
 patch=1,EE,0024ea44,word,0c040b90
 patch=1,EE,0024ea48,word,00000000
 patch=1,EE,0024ea4c,word,4615a800

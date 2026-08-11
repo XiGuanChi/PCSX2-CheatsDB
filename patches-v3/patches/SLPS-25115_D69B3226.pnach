@@ -5,7 +5,7 @@ gsaspectratio=16:9
 description=Widescreen Hack (pnach by Arapapa)
 
 
-///X-Fov
+[/X-Fov]
 patch=1,EE,001553e4,word,3c023ec0 //3c023f00
 
 
