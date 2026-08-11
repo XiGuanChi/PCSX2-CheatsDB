@@ -1,17 +1,17 @@
 name: Mirror Patches (Bulk)
 
 on:
-  workflow_dispatch:   # Allow manual triggering
+  workflow_dispatch:
 
 permissions:
-  contents: write     # Required to push to the destination repository
+  contents: write
 
 jobs:
   mirror-v1:
     name: Mirror TheAdmiester
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source repository
+      - name: Checkout source
         uses: actions/checkout@v4
         with:
           repository: TheAdmiester/PCSX2-Cheats
@@ -19,7 +19,7 @@ jobs:
           path: source_repo
           fetch-depth: 1
 
-      - name: Checkout target repository
+      - name: Checkout target
         uses: actions/checkout@v4
         with:
           repository: XiGuanChi/PCSX2-CheatsDB
@@ -27,7 +27,7 @@ jobs:
           path: target_repo
           fetch-depth: 1
 
-      - name: Sync only .pnach files into patches-v1 folder
+      - name: Sync .pnach to patches-v1
         run: |
           mkdir -p target_repo/patches-v1
           rsync -av --delete \
@@ -38,24 +38,28 @@ jobs:
             source_repo/ target_repo/patches-v1/
           rm -rf target_repo/patches-v1/.git
 
-      - name: Commit and push if changes exist
+      - name: Commit and push
         run: |
           cd target_repo
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add patches-v1
           if git diff --cached --quiet; then
-            echo "No changes detected in .pnach files. Skipping commit."
+            echo "No changes. Skipping commit."
           else
-            git commit -m "Sync .pnach files from PCSX2-Cheats (commit ${{ github.sha }})"
+            git commit -m "Sync .pnach from PCSX2-Cheats (commit ${{ github.sha }})"
             git push origin main
           fi
 
+      - name: Delay 1 minute before next job
+        run: sleep 60
+
   mirror-v2:
     name: Mirror PCSX2 (pcsx2_patches)
+    needs: mirror-v1
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source repository
+      - name: Checkout source
         uses: actions/checkout@v4
         with:
           repository: PCSX2/pcsx2_patches
@@ -63,7 +67,7 @@ jobs:
           path: source_repo
           fetch-depth: 1
 
-      - name: Checkout target repository
+      - name: Checkout target
         uses: actions/checkout@v4
         with:
           repository: XiGuanChi/PCSX2-CheatsDB
@@ -71,7 +75,7 @@ jobs:
           path: target_repo
           fetch-depth: 1
 
-      - name: Sync only .pnach files into patches-v2 folder
+      - name: Sync .pnach to patches-v2
         run: |
           mkdir -p target_repo/patches-v2
           rsync -av --delete \
@@ -82,24 +86,28 @@ jobs:
             source_repo/ target_repo/patches-v2/
           rm -rf target_repo/patches-v2/.git
 
-      - name: Commit and push if changes exist
+      - name: Commit and push
         run: |
           cd target_repo
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add patches-v2
           if git diff --cached --quiet; then
-            echo "No changes detected in .pnach files. Skipping commit."
+            echo "No changes. Skipping commit."
           else
-            git commit -m "Sync .pnach files from pcsx2_patches (commit ${{ github.sha }})"
+            git commit -m "Sync .pnach from pcsx2_patches (commit ${{ github.sha }})"
             git push origin main
           fi
 
+      - name: Delay 1 minute before next job
+        run: sleep 60
+
   mirror-v3:
     name: Mirror PeterDelta (pcsx2_patches)
+    needs: mirror-v2
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source repository
+      - name: Checkout source
         uses: actions/checkout@v4
         with:
           repository: PeterDelta/pcsx2_patches
@@ -107,7 +115,7 @@ jobs:
           path: source_repo
           fetch-depth: 1
 
-      - name: Checkout target repository
+      - name: Checkout target
         uses: actions/checkout@v4
         with:
           repository: XiGuanChi/PCSX2-CheatsDB
@@ -115,7 +123,7 @@ jobs:
           path: target_repo
           fetch-depth: 1
 
-      - name: Sync only .pnach files into patches-v3 folder
+      - name: Sync .pnach to patches-v3
         run: |
           mkdir -p target_repo/patches-v3
           rsync -av --delete \
@@ -126,24 +134,28 @@ jobs:
             source_repo/ target_repo/patches-v3/
           rm -rf target_repo/patches-v3/.git
 
-      - name: Commit and push if changes exist
+      - name: Commit and push
         run: |
           cd target_repo
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config.user.email "github-actions[bot]@users.noreply.github.com"
           git add patches-v3
           if git diff --cached --quiet; then
-            echo "No changes detected in .pnach files. Skipping commit."
+            echo "No changes. Skipping commit."
           else
-            git commit -m "Sync .pnach files from pcsx2_patches (commit ${{ github.sha }})"
+            git commit -m "Sync .pnach from pcsx2_patches (commit ${{ github.sha }})"
             git push origin main
           fi
 
+      - name: Delay 1 minute before next job
+        run: sleep 60
+
   mirror-v4:
     name: Mirror AeroWidescreen
+    needs: mirror-v3
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source repository
+      - name: Checkout source
         uses: actions/checkout@v4
         with:
           repository: AeroWidescreen/PCSX2-Cheats
@@ -151,7 +163,7 @@ jobs:
           path: source_repo
           fetch-depth: 1
 
-      - name: Checkout target repository
+      - name: Checkout target
         uses: actions/checkout@v4
         with:
           repository: XiGuanChi/PCSX2-CheatsDB
@@ -159,7 +171,7 @@ jobs:
           path: target_repo
           fetch-depth: 1
 
-      - name: Sync only .pnach files into patches-v4 folder
+      - name: Sync .pnach to patches-v4
         run: |
           mkdir -p target_repo/patches-v4
           rsync -av --delete \
@@ -170,24 +182,28 @@ jobs:
             source_repo/ target_repo/patches-v4/
           rm -rf target_repo/patches-v4/.git
 
-      - name: Commit and push if changes exist
+      - name: Commit and push
         run: |
           cd target_repo
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add patches-v4
           if git diff --cached --quiet; then
-            echo "No changes detected in .pnach files. Skipping commit."
+            echo "No changes. Skipping commit."
           else
-            git commit -m "Sync .pnach files from PCSX2-Cheats (commit ${{ github.sha }})"
+            git commit -m "Sync .pnach from PCSX2-Cheats (commit ${{ github.sha }})"
             git push origin main
           fi
 
+      - name: Delay 1 minute before next job
+        run: sleep 60
+
   mirror-v5:
     name: Mirror Silentwarior112
+    needs: mirror-v4
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source repository
+      - name: Checkout source
         uses: actions/checkout@v4
         with:
           repository: Silentwarior112/PCSX2-patches
@@ -195,7 +211,7 @@ jobs:
           path: source_repo
           fetch-depth: 1
 
-      - name: Checkout target repository
+      - name: Checkout target
         uses: actions/checkout@v4
         with:
           repository: XiGuanChi/PCSX2-CheatsDB
@@ -203,7 +219,7 @@ jobs:
           path: target_repo
           fetch-depth: 1
 
-      - name: Sync only .pnach files into patches-v5 folder
+      - name: Sync .pnach to patches-v5
         run: |
           mkdir -p target_repo/patches-v5
           rsync -av --delete \
@@ -214,24 +230,28 @@ jobs:
             source_repo/ target_repo/patches-v5/
           rm -rf target_repo/patches-v5/.git
 
-      - name: Commit and push if changes exist
+      - name: Commit and push
         run: |
           cd target_repo
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add patches-v5
           if git diff --cached --quiet; then
-            echo "No changes detected in .pnach files. Skipping commit."
+            echo "No changes. Skipping commit."
           else
-            git commit -m "Sync .pnach files from PCSX2-patches (commit ${{ github.sha }})"
+            git commit -m "Sync .pnach from PCSX2-patches (commit ${{ github.sha }})"
             git push origin main
           fi
 
+      - name: Delay 1 minute before next job
+        run: sleep 60
+
   mirror-v6:
     name: Mirror PeterDelta (PCSX2)
+    needs: mirror-v5
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source repository
+      - name: Checkout source
         uses: actions/checkout@v4
         with:
           repository: PeterDelta/PCSX2
@@ -239,7 +259,7 @@ jobs:
           path: source_repo
           fetch-depth: 1
 
-      - name: Checkout target repository
+      - name: Checkout target
         uses: actions/checkout@v4
         with:
           repository: XiGuanChi/PCSX2-CheatsDB
@@ -247,7 +267,7 @@ jobs:
           path: target_repo
           fetch-depth: 1
 
-      - name: Check for new commits in source
+      - name: Check for new commits
         id: check_update
         run: |
           cd source_repo
@@ -263,14 +283,12 @@ jobs:
           echo "stored_sha=$STORED_SHA" >> $GITHUB_OUTPUT
 
           if [ "$SOURCE_SHA" == "$STORED_SHA" ]; then
-            echo "No new commits. Skipping sync."
             echo "skip_sync=true" >> $GITHUB_OUTPUT
           else
-            echo "New commit detected. Proceeding with sync."
             echo "skip_sync=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Sync only .pnach files into patches-v6 folder
+      - name: Sync .pnach to patches-v6
         if: steps.check_update.outputs.skip_sync == 'false'
         run: |
           mkdir -p target_repo/patches-v6
@@ -287,12 +305,12 @@ jobs:
         run: |
           cd target_repo
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config.user.email "github-actions[bot]@users.noreply.github.com"
           echo "${{ steps.check_update.outputs.source_sha }}" > .last_sync_commit
           git add patches-v6 .last_sync_commit
           if git diff --cached --quiet; then
-            echo "No changes detected in .pnach files or .last_sync_commit. Skipping commit."
+            echo "No changes. Skipping commit."
           else
-            git commit -m "Sync .pnach files from PCSX2 (commit ${{ steps.check_update.outputs.source_sha }})"
+            git commit -m "Sync .pnach from PCSX2 (commit ${{ steps.check_update.outputs.source_sha }})"
             git push origin main
           fi
