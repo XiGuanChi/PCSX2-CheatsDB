@@ -1,13 +1,13 @@
-// Dynasty Warriors 3
+gametitle=Dynasty Warrior 3 (SLUS-20277) 4A35E19F
 
-// Disable Auto lock on
+[ Disable Auto lock on ]
 patch=1,EE,20103284,extended,00000000
 
-// Show All Officers On Minimap DW3
+[ Show All Officers On Minimap DW3 ]
 patch=1,EE,0015A76C,word,28610006
 
-// Pick up items while mounted DW3
+[ Pick up items while mounted DW3 ]
 patch=1,EE,0014d1f8,word,3C03433e
 
-// Disable musou pause and other musou effects (CPU feature) DW3
+[ Disable musou pause and other musou effects (CPU feature) DW3 ]
 patch=1,EE,001560EC,word,00000000
