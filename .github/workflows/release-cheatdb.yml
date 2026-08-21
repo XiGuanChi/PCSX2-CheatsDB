@@ -1,0 +1,284 @@
+name: Build Cheat / Patch (CheatDB Plus)
+
+on:
+  workflow_dispatch:   # manual trigger only
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # required to create releases and upload assets
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ===== 1. INSTALL REQUIRED TOOLS =====
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y p7zip-full jq wget gh
+
+      # ===== 2. CLONE ARMSX2 (FOR CRC DATABASE) =====
+      - name: Clone ARMSX2 repo for CRC database
+        run: |
+          git clone --depth 1 https://github.com/ARMSX2/ARMSX2.git /tmp/ARMSX2
+
+      # ===== 3. AUTO‑DETECT AND FILL MISSING CRC IN ALL PATCH FOLDERS =====
+      - name: Auto-detect and fill missing CRC in .pnach files
+        run: |
+          set -e
+          normalize_title() {
+            echo "$1" | tr '[:upper:]' '[:lower:]' \
+              | sed -e 's/\[.*\]//g' -e 's/(.*)//g' \
+              | sed -e 's/  */ /g' -e 's/^ //' -e 's/ $//'
+          }
+          get_gametitle() {
+            grep -m 1 -i "^gametitle=" "$1" | sed -e 's/^gametitle=//i' -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'
+          }
+          is_crc() {
+            [[ "$1" =~ ^[0-9A-Fa-f]{8}$ ]]
+          }
+          echo "Building CRC index from ARMSX2..."
+          declare -A crc_index
+          while IFS= read -r -d '' file; do
+            gtitle=$(get_gametitle "$file")
+            if [ -n "$gtitle" ]; then
+              norm_title=$(normalize_title "$gtitle")
+              base=$(basename "$file" .pnach)
+              crc=""
+              if is_crc "$base"; then
+                crc=$(echo "$base" | tr '[:lower:]' '[:upper:]')
+              else
+                crc_line=$(grep -m 1 -i "^crc=" "$file" | sed -e 's/^crc=//i' -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+                if [ -n "$crc_line" ]; then
+                  crc=$(echo "$crc_line" | sed 's/0x//i' | tr '[:lower:]' '[:upper:]')
+                  if ! is_crc "$crc"; then
+                    crc=""
+                  fi
+                fi
+              fi
+              if [ -n "$crc" ]; then
+                crc_index["$norm_title"]="$crc"
+              fi
+            fi
+          done < <(find /tmp/ARMSX2 -type f -name "*.pnach" -print0 2>/dev/null)
+          echo "CRC index built with ${#crc_index[@]} entries."
+
+          # Process all folders (including patches-v6)
+          for folder in "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" "cheats-v6" "patches-v1" "patches-v2" "patches-v3" "patches-v4" "patches-v5" "patches-v6" "patches-team"; do
+            echo "Processing folder: $folder"
+            find "$folder" -type f -name "*.pnach" -print0 | while IFS= read -r -d '' file; do
+              if grep -q -i "^crc=" "$file"; then
+                existing_crc=$(grep -m 1 -i "^crc=" "$file" | sed -e 's/^crc=//i' -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' | sed 's/0x//i')
+                if is_crc "$existing_crc"; then
+                  echo "  $file already has a valid CRC, skipping."
+                  continue
+                else
+                  echo "  $file has an invalid CRC, will attempt to fix."
+                fi
+              fi
+              gametitle=$(get_gametitle "$file")
+              if [ -z "$gametitle" ]; then
+                echo "  $file: no gametitle found, skipping."
+                continue
+              fi
+              base=$(basename "$file" .pnach)
+              crc=""
+              if is_crc "$base"; then
+                crc=$(echo "$base" | tr '[:lower:]' '[:upper:]')
+                echo "  $file: using CRC from filename = $crc"
+              else
+                norm_target=$(normalize_title "$gametitle")
+                found_crc="${crc_index[$norm_target]}"
+                if [ -n "$found_crc" ]; then
+                  crc="$found_crc"
+                  echo "  $file: using CRC from ARMSX2 index = $crc"
+                fi
+              fi
+              if [ -n "$crc" ]; then
+                sed -i "/^crc=/d" "$file"
+                sed -i "/^gametitle=/a crc = 0x$crc" "$file"
+                echo "  $file: added/updated crc = 0x$crc"
+              else
+                echo "  $file: CRC not found, leaving unchanged."
+              fi
+            done
+          done
+
+      # ===== 4. SETUP GITHUB CLI & DELETE OLD RELEASE/TAG =====
+      - name: Authenticate GitHub CLI
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+
+      - name: Delete previous release and tag (Ultra-Plus)
+        run: |
+          TAG="CheatDB-Plus"
+          if gh release view "$TAG" &>/dev/null; then
+            gh release delete "$TAG" --yes
+          fi
+          if git rev-parse "$TAG" &>/dev/null; then
+            git tag -d "$TAG"
+            git push --delete origin "$TAG" || true
+          fi
+
+      # ===== 5. GET SHORT SHA =====
+      - name: Get short SHA
+        id: vars
+        run: echo "short_sha=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
+
+      # ===== 6. GENERATE CHANGELOG AND GAME LIST =====
+      - name: Create changelog.txt and changelog-game.txt
+        run: |
+          # ----- Main changelog (without game list) -----
+          echo "PCSX2 CheatsDB - Ultra Plus Build" > changelog.txt
+          echo "========================================" >> changelog.txt
+          echo "Date       : $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> changelog.txt
+          echo "Commit     : ${{ env.short_sha }}" >> changelog.txt
+          echo "Build by   : Fun" >> changelog.txt
+
+          if [ -f "notes.txt" ]; then
+            echo "" >> changelog.txt
+            echo "========================================" >> changelog.txt
+            echo " • Changelog of Cheats / Patches • " >> changelog.txt
+            echo "========================================" >> changelog.txt
+            cat notes.txt >> changelog.txt
+          fi
+
+          echo "" >> changelog.txt
+          echo "========================================" >> changelog.txt
+          echo "File Statistics:" >> changelog.txt
+          echo "========================================" >> changelog.txt
+          count_pcsx2=$(find "PCSX2 Patches" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_cheatsv1=$(find "cheats-v1" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_cheatsv2=$(find "cheats-v2" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_cheatsv3=$(find "cheats-v3" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_cheatsv4=$(find "cheats-v4" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_cheatsv5=$(find "cheats-v5" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_cheatsv6=$(find "cheats-v6" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_patchesv1=$(find "patches-v1" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_patchesv2=$(find "patches-v2" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_patchesv3=$(find "patches-v3" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_patchesv4=$(find "patches-v4" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_patchesv5=$(find "patches-v5" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_patchesv6=$(find "patches-v6" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_patchesteam=$(find "patches-team" -type f -name "*.pnach" 2>/dev/null | wc -l)
+          count_retro=$(find "Retro-Database" -type f 2>/dev/null | wc -l)
+          total=$((count_pcsx2 + count_cheatsv1 + count_cheatsv2 + count_cheatsv3 + count_cheatsv4 + count_cheatsv5 + count_cheatsv6 + count_patchesv1 + count_patchesv2 + count_patchesv3 + count_patchesv4 + count_patchesv5 + count_patchesv6 + count_patchesteam))
+          echo "PCSX2 Patches : $count_pcsx2 .pnach files" >> changelog.txt
+          echo "cheats-v1     : $count_cheatsv1 .pnach files" >> changelog.txt
+          echo "cheats-v2     : $count_cheatsv2 .pnach files" >> changelog.txt
+          echo "cheats-v3     : $count_cheatsv3 .pnach files" >> changelog.txt
+          echo "cheats-v4     : $count_cheatsv4 .pnach files" >> changelog.txt
+          echo "cheats-v5     : $count_cheatsv5 .pnach files" >> changelog.txt
+          echo "cheats-v6     : $count_cheatsv6 .pnach files" >> changelog.txt
+          echo "patches-v1    : $count_patchesv1 .pnach files" >> changelog.txt
+          echo "patches-v2    : $count_patchesv2 .pnach files" >> changelog.txt
+          echo "patches-v3    : $count_patchesv3 .pnach files" >> changelog.txt
+          echo "patches-v4    : $count_patchesv4 .pnach files" >> changelog.txt
+          echo "patches-v5    : $count_patchesv5 .pnach files" >> changelog.txt
+          echo "patches-v6    : $count_patchesv6 .pnach files" >> changelog.txt
+          echo "patches-team  : $count_patchesteam .pnach files" >> changelog.txt
+          echo "----------------------------------------" >> changelog.txt
+          echo "Total         : $total .pnach files" >> changelog.txt
+          echo "" >> changelog.txt
+          echo "BIOS PS1 & PS2 folders:" >> changelog.txt
+          echo "  Retro-Database    : $count_retro files (total)" >> changelog.txt
+
+          # Add a note about the separate game list file
+          echo "" >> changelog.txt
+          echo "========================================" >> changelog.txt
+          echo "For a detailed list of game titles and regions per folder, see changelog-game.txt" >> changelog.txt
+
+          # ----- Create changelog-game.txt with the full game list -----
+          echo "PCSX2 CheatsDB - Game List (Titles and Regions)" > changelog-game.txt
+          echo "========================================================" >> changelog-game.txt
+
+          # Function to append game list to a given file
+          process_folder() {
+            local folder="$1"
+            local outfile="$2"
+            echo "" >> "$outfile"
+            echo "========================================" >> "$outfile"
+            echo "Folder: $folder (Game Title & Region):" >> "$outfile"
+            echo "========================================" >> "$outfile"
+            found=0
+            while IFS= read -r -d '' file; do
+              found=1
+              filename=$(basename "$file" .pnach)
+              gametitle=$(grep -m 1 -i "^gametitle=" "$file" | sed -e 's/^gametitle=//i' -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+              if [ -n "$gametitle" ]; then
+                region=$(echo "$gametitle" | grep -o '([[:alpha:]]\+)' | head -1 | tr -d '()')
+                if [ -n "$region" ]; then
+                  echo "$filename : $gametitle (Region: $region)" >> "$outfile"
+                else
+                  echo "$filename : $gametitle (Region: not found)" >> "$outfile"
+                fi
+              else
+                echo "$filename : (no gametitle found)" >> "$outfile"
+              fi
+            done < <(find "$folder" -type f -name "*.pnach" -print0 2>/dev/null | sort -z)
+            if [ $found -eq 0 ]; then
+              echo "(no .pnach files in $folder)" >> "$outfile"
+            fi
+          }
+
+          # Process all folders (including patches-v6)
+          process_folder "PCSX2 Patches" "changelog-game.txt"
+          process_folder "cheats-v1" "changelog-game.txt"
+          process_folder "cheats-v2" "changelog-game.txt"
+          process_folder "cheats-v3" "changelog-game.txt"
+          process_folder "cheats-v4" "changelog-game.txt"
+          process_folder "cheats-v5" "changelog-game.txt"
+          process_folder "cheats-v6" "changelog-game.txt"
+          process_folder "patches-v1" "changelog-game.txt"
+          process_folder "patches-v2" "changelog-game.txt"
+          process_folder "patches-v3" "changelog-game.txt"
+          process_folder "patches-v4" "changelog-game.txt"
+          process_folder "patches-v5" "changelog-game.txt"
+          process_folder "patches-v6" "changelog-game.txt"
+          process_folder "patches-team" "changelog-game.txt"
+
+      # ===== 7. BUILD patches.zip (cheat/patch folders only, excluding Retro-Database) =====
+      - name: Build patches.zip (cheats/patches only)
+        run: |
+          7z a -tzip -mx=9 -mm=Deflate patches.zip \
+            "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" "cheats-v6" \
+            "patches-v1" "patches-v2" "patches-v3" "patches-v4" "patches-v5" "patches-v6" "patches-team" \
+            changelog.txt changelog-game.txt
+
+      # ===== 8. BUILD bios-collection.zip (include Bios PS1 & PS2) =====
+      - name: Build bios-collection.zip
+        run: |
+          7z a -tzip -mx=9 -mm=Deflate bios-collection.zip "Retro-Database"
+
+      # ===== 9. CREATE RELEASE AND UPLOAD ASSETS =====
+      - name: Create GitHub release
+        id: create_release
+        uses: actions/create-release@v1
+        with:
+          tag_name: CheatDB-Plus
+          release_name: "CheatDB Plus Build (Cheats + BIOS)"
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload patches.zip
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: patches.zip
+          asset_name: patches.zip
+          asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload bios-collection.zip
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: bios-collection.zip
+          asset_name: bios-collection.zip
+          asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
