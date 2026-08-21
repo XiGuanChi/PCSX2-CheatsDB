@@ -11,20 +11,20 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      # ===== 1. INSTALL TOOLS =====
+      # ===== 1. INSTALL REQUIRED TOOLS =====
       - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y p7zip-full jq wget gh
 
-      # ===== 2. CLONE ARMSX2 (for CRC database) =====
+      # ===== 2. CLONE ARMSX2 (FOR CRC DATABASE) =====
       - name: Clone ARMSX2 repo for CRC database
         run: |
           git clone --depth 1 https://github.com/ARMSX2/ARMSX2.git /tmp/ARMSX2
 
-      # ===== 3. AUTO-DETECT & FILL MISSING CRC IN ALL PATCH FOLDERS =====
+      # ===== 3. AUTO‑DETECT AND FILL MISSING CRC IN ALL PATCH FOLDERS =====
       - name: Auto-detect and fill missing CRC in .pnach files
         run: |
           set -e
@@ -65,7 +65,7 @@ jobs:
           done < <(find /tmp/ARMSX2 -type f -name "*.pnach" -print0 2>/dev/null)
           echo "CRC index built with ${#crc_index[@]} entries."
 
-          # Process all folders (including the new patches-v6)
+          # Process all folders (including patches-v6)
           for folder in "PCSX2 Patches" "cheats-v1" "cheats-v2" "cheats-v3" "cheats-v4" "cheats-v5" "cheats-v6" "patches-v1" "patches-v2" "patches-v3" "patches-v4" "patches-v5" "patches-v6" "patches-team"; do
             echo "Processing folder: $folder"
             find "$folder" -type f -name "*.pnach" -print0 | while IFS= read -r -d '' file; do
@@ -111,12 +111,14 @@ jobs:
         id: download_apk
         run: |
           RELEASES_JSON=$(curl -s https://api.github.com/repos/ARMSX2/ARMSX2/releases)
+          # Prefer stable releases that have an APK asset
           STABLE_JSON=$(echo "$RELEASES_JSON" | jq '[.[] | select(.prerelease == false and any(.assets[]; .name | endswith(".apk")))] | sort_by(.published_at) | reverse | .[0]')
           if [ "$STABLE_JSON" != "null" ]; then
             echo "Found stable release with APK."
             RELEASE_JSON="$STABLE_JSON"
             RELEASE_TYPE="Stable"
           else
+            # Fallback to prerelease if no stable APK exists
             PRERELEASE_JSON=$(echo "$RELEASES_JSON" | jq '[.[] | select(.prerelease == true and any(.assets[]; .name | endswith(".apk")))] | sort_by(.published_at) | reverse | .[0]')
             if [ "$PRERELEASE_JSON" != "null" ]; then
               echo "No stable APK found, using prerelease APK."
@@ -170,7 +172,7 @@ jobs:
           echo "APK_DATE=$APK_DATE" >> $GITHUB_ENV
           echo "COMPRESSED_APK_NAME=$APK_NAME.7z" >> $GITHUB_ENV
 
-      # ===== 5. SETUP GITHUB CLI & DELETE OLD RELEASE/TAG (Ultra) =====
+      # ===== 5. SETUP GITHUB CLI & DELETE OLD RELEASE/TAG =====
       - name: Authenticate GitHub CLI
         run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
 
@@ -224,7 +226,7 @@ jobs:
           count_patchesv3=$(find "patches-v3" -type f -name "*.pnach" 2>/dev/null | wc -l)
           count_patchesv4=$(find "patches-v4" -type f -name "*.pnach" 2>/dev/null | wc -l)
           count_patchesv5=$(find "patches-v5" -type f -name "*.pnach" 2>/dev/null | wc -l)
-          count_patchesv6=$(find "patches-v6" -type f -name "*.pnach" 2>/dev/null | wc -l)  # <-- new
+          count_patchesv6=$(find "patches-v6" -type f -name "*.pnach" 2>/dev/null | wc -l)
           count_patchesteam=$(find "patches-team" -type f -name "*.pnach" 2>/dev/null | wc -l)
           count_retro=$(find "Retro-Database" -type f 2>/dev/null | wc -l)
           total=$((count_pcsx2 + count_cheatsv1 + count_cheatsv2 + count_cheatsv3 + count_cheatsv4 + count_cheatsv5 + count_cheatsv6 + count_patchesv1 + count_patchesv2 + count_patchesv3 + count_patchesv4 + count_patchesv5 + count_patchesv6 + count_patchesteam))
@@ -240,7 +242,7 @@ jobs:
           echo "patches-v3    : $count_patchesv3 .pnach files" >> changelog.txt
           echo "patches-v4    : $count_patchesv4 .pnach files" >> changelog.txt
           echo "patches-v5    : $count_patchesv5 .pnach files" >> changelog.txt
-          echo "patches-v6    : $count_patchesv6 .pnach files" >> changelog.txt  # <-- new
+          echo "patches-v6    : $count_patchesv6 .pnach files" >> changelog.txt
           echo "patches-team  : $count_patchesteam .pnach files" >> changelog.txt
           echo "----------------------------------------" >> changelog.txt
           echo "Total         : $total .pnach files" >> changelog.txt
@@ -316,7 +318,7 @@ jobs:
           process_folder "patches-v3" "changelog-game.txt"
           process_folder "patches-v4" "changelog-game.txt"
           process_folder "patches-v5" "changelog-game.txt"
-          process_folder "patches-v6" "changelog-game.txt"  # <-- new
+          process_folder "patches-v6" "changelog-game.txt"
           process_folder "patches-team" "changelog-game.txt"
 
       # ===== 8. BUILD patches.zip (cheat/patch folders only, excluding Retro-Database) =====
