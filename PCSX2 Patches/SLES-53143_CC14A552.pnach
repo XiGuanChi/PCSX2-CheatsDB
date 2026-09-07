@@ -3,8 +3,8 @@ gameplay=Fantastic 4 PAL-E SLES-53143 CC14A552
 [50/60 FPS]
 author=Gabominated
 description=Might need EE overclock (180%).
-patch=0,EE,00176868,word,AC20FC70
-//0031FC70
+patch=0,EE,00176860,word,24420002
+//00176868 0031FC70
 
 [NTSC Mode]
 author=Gabominated
