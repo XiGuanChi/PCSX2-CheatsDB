@@ -1,0 +1,20 @@
+gametitle=Sengoku Basara 2 Heroes [SLPM-66848] CA857E71
+
+[No Interlacing]
+patch=1,EE,00240C28,word,340210E0
+
+[render fix]
+patch=1,EE,0010D5C4,word,3C013F19
+patch=1,EE,0010D5C8,word,3421999A
+
+[Disable Bloom]
+patch=1,EE,004CEB52,byte,0
+
+[Disable Tonemap]
+patch=1,EE,001A9170,word,8E020000
+
+[performance]
+patch=1,EE,F028FE88,extended,0028FE8B
+
+[fps fix]
+patch=1,EE,202403E8,word,30420000
