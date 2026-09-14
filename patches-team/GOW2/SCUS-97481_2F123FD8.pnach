@@ -1,0 +1,16 @@
+gametitle=God Of War II [SCUS-97481] 2F123FD8
+
+[disable shadow and bloom]
+patch=1,EE,001706E0,word,03e00008
+patch=1,EE,001706E4,word,00000000
+patch=1,EE,00126EB0,word,03e00008
+patch=1,EE,00126EB4,word,00000000
+patch=1,EE,0016E720,word,03e00008
+patch=1,EE,0016E724,word,00000000
+patch=1,EE,00234A48,word,46000406
+
+[Disable Additional Effects for performance (alternative)]
+patch=1,EE,00234A48,word,46000406
+
+[Disable Motion Blur (related effects)]
+patch=1,EE,00234A48,word,46000406
