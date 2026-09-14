@@ -63,4 +63,16 @@ patch=1,EE,2051A71C,extended,0003FFFF
 [All Movie in Gallery]
 patch=1,EE2051A720,extended,003FFFFF
 
+[EXP 32 x times]
+patch=1,EE,201F314C,extended,10000002
+patch=1,EE,201F3140,extended,00108140
+
+[Cheats/Need to be on for Health Codes] 
+patch=1,EE,201FD208,extended,0C03E048
+patch=1,EE,200F81A0,extended,08081C32
+
+[Cheats/In Battle Infinite Health] 
+patch=1,EE,20214E18,extended,8C820528
+patch=1,EE,20214E20,extended,AC820520
+
 
