@@ -1,0 +1,41 @@
+gametitle=Manhunt 2 [SLUS-21613] 3B0ADBEF
+
+[Infinite Ammo]
+patch=1,EE,203652D4,extended,00000000
+
+[Save Anywhere]
+patch=1,EE,00482A8C,extended,00000001
+
+[Disable Save Prompt]
+patch=1,EE,00482A8C,extended,00000000
+
+[Start Game With Codes\Max Infinite Ammo]
+patch=1,EE,200C0220,extended,240703E7
+patch=1,EE,200C0224,extended,03E00008
+patch=1,EE,200C0228,extended,AE670068
+patch=1,EE,20295C18,extended,0C030088
+
+[Never Reload]
+patch=1,EE,203646B4,extended,00000000
+
+[Invisible]
+description=reset the game and load if you want to disable
+patch=1,EE,201CE9B4,extended,44800000
+patch=1,EE,201CE9D4,extended,44800000
+
+[Invisible & Inaudible]
+description=reset the game and load if you want to disable
+patch=1,EE,2010E028,extended,10000015
+
+[Ammo Codes\Extra Ammo]
+patch=1,EE,203652D0,extended,00A31021
+
+[God Mode]
+patch=1,EE,204BF024,extended,00000001
+
+[Ammo Codes\Infinite Ammo]
+patch=1,EE,203646B4,extended,00000000
+
+[Infinite Health]
+patch=1,EE,203E0BF0,extended,3C0142C8
+patch=1,EE,203E0BF4,extended,AC6100D0
