@@ -1,0 +1,29 @@
+gametitle=Manhunt 2 [SLUS-21613]3B0ADBEF
+
+[Clear Execution]
+patch=1,EE,205BCBE0,extended,00000000
+patch=1,EE,205BCBE4,extended,00000000
+patch=1,EE,205BCBF0,extended,3A83126F
+patch=1,EE,205BCBF4,extended,3A83126F
+patch=1,EE,205BCBF8,extended,3A83126F
+
+[Remove Execution Filter]
+patch=1,EE,005BCBE0,word,00000000
+patch=1,EE,005BCBE4,word,00000000
+patch=1,EE,005BCBF0,word,3A83126F
+patch=1,EE,005BCBF4,word,3A83126F
+patch=1,EE,005BCBF8,word,3A83126F
+
+[Disable Noise Effect]
+patch=1,EE,00288788,word,34030000
+patch=1,EE,00288790,word,0003102B
+
+[Disable Blur Effect]
+patch=1,EE,00366ED0,word,AC40EBF8
+
+[Disable Fog Effect]
+patch=1,EE,003747EC,word,44801000
+patch=1,EE,00374800,word,46000B06
+
+[Disable Video Static]
+patch=1,EE,005B2068,extended,00000000
